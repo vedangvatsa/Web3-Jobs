@@ -62349,6 +62349,40 @@
       "attemptId": "6a94ff0e-de98-4e1c-95d5-7d163ab5302c",
       "verification": "verified",
       "postId": "0x9fe16bf4a848253929f0d4cd1f135a4f94cf210a"
+    },
+    {
+      "slug": "pm94",
+      "company": "Bitpanda",
+      "title": "Senior Product Designer, Web3",
+      "platform": "farcaster",
+      "postedAt": "2026-10-27T11:32:22.571Z",
+      "expectedText": "Bitpanda is hiring Senior Product Designer, Web3\n\nhttps://hashtagweb3.com/pm94/fc?og=7",
+      "snapshot": {
+        "id": "5009825101",
+        "title": "Senior Product Designer, Web3",
+        "company": "Bitpanda",
+        "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5009825101",
+        "date": "2026-10-22T05:17:35-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bitpanda [bitpanda]",
+        "location": "Vienna, Austria",
+        "department": "Product & Design",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm94"
+      },
+      "payload": {
+        "text": "Bitpanda is hiring Senior Product Designer, Web3\n\nhttps://hashtagweb3.com/pm94/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm94/fc?og=7"
+          }
+        ],
+        "channel_id": "developers"
+      },
+      "account": "channel:developers",
+      "attemptId": "ca2a5189-8802-4e62-940e-43f475e0477c",
+      "verification": "creating"
     }
   ]
 }
