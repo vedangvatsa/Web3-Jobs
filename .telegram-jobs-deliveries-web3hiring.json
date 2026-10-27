@@ -8949,5 +8949,121 @@
     "slotKey": "2026-10-27:morning",
     "messageId": 148,
     "sentAt": "2026-10-27T03:42:34.579Z"
+  },
+  "c19488f1-42dd-44ae-a1ef-da94cc2fa5a2": {
+    "status": "reserved",
+    "reservedAt": "2026-10-27T11:32:00.320Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8245077",
+          "title": "Physical Security Manager, APAC/MENA",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8245077?gh_jid=8245077",
+          "date": "2026-10-01T05:30:59-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "Sydney, New South Wales, Australia",
+          "department": "Physical Security",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec77"
+        },
+        "key": "8245077",
+        "slug": "sec77",
+        "url": "https://hashtagweb3.com/sec77?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Physical Security Manager"
+      },
+      {
+        "snapshot": {
+          "id": "7f0810a5-44f8-40d2-bd04-bd8704c67461",
+          "title": "Electrical Supervisor",
+          "company": "Riot Platforms",
+          "link": "https://ats.rippling.com/riot-platforms-careers/jobs/7f0810a5-44f8-40d2-bd04-bd8704c67461",
+          "date": "2026-10-12T11:20:50.389000-07:00",
+          "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+          "location": "Rockdale, TX",
+          "department": "Electrical",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sup8"
+        },
+        "key": "7f0810a5-44f8-40d2-bd04-bd8704c67461",
+        "slug": "sup8",
+        "url": "https://hashtagweb3.com/sup8?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Riot Platforms",
+        "title": "Electrical Supervisor"
+      },
+      {
+        "snapshot": {
+          "id": "6ac76cb5-b395-4a2b-bef4-124c176359fd",
+          "title": "Finance Analyst",
+          "company": "Coinflow",
+          "link": "https://jobs.ashbyhq.com/coinflow/6ac76cb5-b395-4a2b-bef4-124c176359fd",
+          "date": "2026-10-21T15:21:56.577+00:00",
+          "source": "Ashby: Coinflow [coinflow]",
+          "location": "Chicago",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an25"
+        },
+        "key": "6ac76cb5-b395-4a2b-bef4-124c176359fd",
+        "slug": "an25",
+        "url": "https://hashtagweb3.com/an25?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinflow",
+        "title": "Finance Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "ecab0e59-ed35-4df0-867b-cbe106c7237e",
+          "title": "People Operations Specialist",
+          "company": "Bitvavo",
+          "link": "https://jobs.ashbyhq.com/bitvavo/ecab0e59-ed35-4df0-867b-cbe106c7237e",
+          "date": "2026-10-16T07:14:28.191+00:00",
+          "source": "Ashby: Bitvavo [bitvavo]",
+          "location": "Headquarters",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "People",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops93"
+        },
+        "key": "ecab0e59-ed35-4df0-867b-cbe106c7237e",
+        "slug": "ops93",
+        "url": "https://hashtagweb3.com/ops93?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitvavo",
+        "title": "People Operations Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "bfd8cace-7531-41c5-ace4-e168b3f2f647",
+          "title": "Director of Engineering, Assets & Issuance",
+          "company": "Paxos",
+          "link": "https://jobs.ashbyhq.com/Paxos/bfd8cace-7531-41c5-ace4-e168b3f2f647",
+          "date": "2026-10-12T17:29:35.005+00:00",
+          "source": "Ashby: Paxos [Paxos]",
+          "location": "Remote - United States (East Coast)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng577"
+        },
+        "key": "bfd8cace-7531-41c5-ace4-e168b3f2f647",
+        "slug": "eng577",
+        "url": "https://hashtagweb3.com/eng577?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Paxos",
+        "title": "Director of Engineering"
+      }
+    ],
+    "message": "- Ripple is hiring <a href=\"https://hashtagweb3.com/sec77?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Physical Security Manager, APAC/MENA</a>\n- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/sup8?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Electrical Supervisor</a>\n- Coinflow is hiring <a href=\"https://hashtagweb3.com/an25?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Finance Analyst</a>\n- Bitvavo is hiring <a href=\"https://hashtagweb3.com/ops93?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">People Operations Specialist</a>\n- Paxos is hiring <a href=\"https://hashtagweb3.com/eng577?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director of Engineering, Assets &amp; Issuance</a>",
+    "slotKey": "2026-10-27:afternoon"
   }
 }
