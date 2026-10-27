@@ -60356,7 +60356,8 @@
       },
       "account": "channel:web3",
       "attemptId": "14a961ce-6049-44eb-a0c3-31ad2c44bca2",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7e2028265812086c407ecb8fb7e3571de5bca894"
     }
   ]
 }
