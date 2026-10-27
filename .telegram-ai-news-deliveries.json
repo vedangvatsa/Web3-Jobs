@@ -2325,5 +2325,40 @@
     "slotKey": "2026-10-27:afternoon",
     "messageId": 193408,
     "sentAt": "2026-10-27T11:33:52.506Z"
+  },
+  "39dc5a3f-affa-4283-8bad-82222444dd8b": {
+    "status": "reserved",
+    "reservedAt": "2026-10-27T19:33:07.967Z",
+    "stories": [
+      {
+        "index": 4,
+        "original_title": "[TechCrunch] Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+        "headline": "Google releases Genie 4 world model with real-time controls",
+        "summary": "The updated world model supports audio, doubles scene consistency to two minutes, and enables real-time steering.",
+        "event_rationale": "This covers Google's launch of the Genie 4 world model, which is distinct from other model releases and infrastructure news.",
+        "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+        "source": "TechCrunch",
+        "originalTitle": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering"
+      },
+      {
+        "index": 8,
+        "original_title": "[TechCrunch] General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+        "headline": "General Compute raises $100 million for AI inference infrastructure",
+        "summary": "The startup secured Series A financing to build cloud infrastructure specialized for running artificial intelligence models.",
+        "event_rationale": "This covers General Compute's $100 million funding round, distinct from other investments and hardware announcements.",
+        "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+        "source": "TechCrunch",
+        "originalTitle": "General Compute raises $100 million Series A, countering the neocloud disaster narrative"
+      },
+      {
+        "index": 1,
+        "headline": "Disruptive raises $10 billion fund for ten investments",
+        "summary": "The firm plans to invest in at least ten companies, following previous backing of Groq and ElevenLabs.",
+        "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+        "source": "TechCrunch",
+        "originalTitle": "Disruptive raises $10B fund to make big bets on at least 10 companies"
+      }
+    ],
+    "slotKey": "2026-10-27:evening"
   }
 }
