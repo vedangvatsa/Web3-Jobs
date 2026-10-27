@@ -64491,6 +64491,47 @@
       "verification": "verified",
       "postId": "6ae0fd08e8126ef6141ee714",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7520931313764331520"
+    },
+    {
+      "slug": "dsci2",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "linkedin",
+      "postedAt": "2026-10-27T19:33:48.294Z",
+      "expectedText": "Chainalysis is hiring Deployment Strategist - Crypto Investigations: https://hashtagweb3.com/dsci2/li?og=7",
+      "snapshot": {
+        "id": "7a8a245e-89c5-41c1-8653-185af58d8246",
+        "title": "Deployment Strategist - Crypto Investigations",
+        "company": "Chainalysis",
+        "link": "https://jobs.ashbyhq.com/chainalysis-careers/7a8a245e-89c5-41c1-8653-185af58d8246",
+        "date": "2026-10-13T09:49:36.902+00:00",
+        "source": "Ashby: Chainalysis [chainalysis-careers]",
+        "location": "Hybrid (France)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Sales",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dsci2"
+      },
+      "payload": {
+        "text": "Chainalysis is hiring Deployment Strategist - Crypto Investigations: https://hashtagweb3.com/dsci2/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/dsci2/li?og=7",
+          "title": "Deployment Strategist - Crypto Investigations at Chainalysis",
+          "description": "Join Chainalysis as Deployment Strategist - Crypto Inv. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/dsci2.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "8211d828-3423-4ffb-a403-4fbb647ff1d9",
+      "verification": "creating"
     }
   ]
 }
