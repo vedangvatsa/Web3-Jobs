@@ -61337,7 +61337,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "06eb4a68-ed61-44cb-b4ac-92949f73c92a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x6a3f87a56cc3ea9e24565d73355bd3130fa07492"
     }
   ]
 }
