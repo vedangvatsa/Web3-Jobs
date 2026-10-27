@@ -474,7 +474,7 @@ export const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'payoneer': 'https://www.payoneer.com',
  'sphere': 'https://spherepay.co',
  'proto': 'https://proto.xyz',
- 'veryai': 'https://very.ai',
+ 'veryai': 'https://very.org',
  'r3': 'https://r3.com',
  'fomo': 'https://fomo.fund',
  'temporal': 'https://temporal.xyz',
