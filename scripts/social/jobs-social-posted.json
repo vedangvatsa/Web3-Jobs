@@ -63229,7 +63229,8 @@
       },
       "account": "channel:developers",
       "attemptId": "683ecc73-4336-4a02-a445-38827efb5ebc",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x09e5698a5cfef958c5ad07ccffebbf4670c623c2"
     }
   ]
 }
