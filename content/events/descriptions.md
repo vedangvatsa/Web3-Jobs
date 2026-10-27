@@ -209,31 +209,6 @@ For the first time ever, a project does not have to start at zero. The organizer
 
 The event is beginner friendly and includes technical mentorship, curated content, exclusive swag, and free food and drinks. Pragma Tokyo runs as a one-day summit alongside the hackathon week.
 
-<a id="event-e38376dc53a697ba"></a>
-
-## Metamorphosis 2026
-
-- Record: `premier-metamorphosis-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-26T09:00:00+05:30
-- Description: Source-backed
-- Original page: <https://metamorphosisconf.com/>
-- Original page: <https://metamorphosisconf.com/tickets/>
-
-### About the event
-
-Join Metamorphosis 2026 in Hyderabad on September 26-27 for India's largest Web3 and AI event. Connect with global thought leaders, developers, and innovators shaping the future of technology.
-
-### India's premier Web3 and AI gala
-
-Metamorphosis 2026 brings the Web3 and AI community together in Hyderabad for two days of sessions, networking, and builder programming with global thought leaders, developers, and innovators shaping the future of technology.
-
-### Tickets
-
-The event reports it is sold out, with a few extra tickets added - use the coupon code posted on the official ticketing page to claim them.
-
-The Hyderabad event spans September 26-27, with two full days of programming.
-
 <a id="event-576eb08ee94d90da"></a>
 
 ## India Blockchain & AI Tour 2026
@@ -11083,178 +11058,6 @@ Visitor Pass now just $100 (Regular Price: $499)!
 
 Registration requires host approval. Registration is listed as free.
 
-<a id="event-99d63bd0dd28d659"></a>
-
-## Tangem House — Seoul @ KBW2026
-
-- Record: `kbw-official-tangem-house-seoul-09-27`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-09-27T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/mwwro11j>
-
-### Tangem House - Seoul @ KBW 🇰🇷
-
-Date: Sunday, September 27, 2026
-
-Time: 6:00 - 10:00 PM
-
-Location: Hashed Lounge 20F, Seoul
-
-Hosted by: Tangem
-
-Join Tangem at Hashed Lounge to kick off Korea Blockchain Week 2026.
-
-Enjoy a short Tangem introduction, a "Tangem & Friends" fireside with ecosystem leaders, and networking with Korea's KOLs, builders, and communities.
-
-Tangem Wallets and Rings will be on display, with giveaways across two raffle rounds.
-
-Whether you are new to self custody or already run a hardware wallet, you are welcome.
-
-### Agenda
-
-> 18:00 - 18:45 Doors, welcome drinks, product display
-
->
-
-> 18:45 - 18:55 What is Tangem?
-
->
-
-> 18:55 - 19:30 "Tangem & Friends" fireside with ecosystem friends <Panel lineup (TBA)>
-
->
-
-> 19:30 - 19:40 Raffle Round 1 - Tangem Wallets + merch
-
->
-
-> 19:40 - 20:20 Networking & F&B + Something Huge Event!
-
->
-
-> 20:20 - 20:30 Raffle Round 2 - Tangem Rings
-
->
-
-> 20:30 - 22:00 Open networking, close
-
-### Please note
-
-- Registration is approval based. You will receive a confirmation once approved; please show your Luma QR code at check in.
-- You must be checked in and present at the venue to win a raffle prize.
-- Smoking indoors is strictly prohibited at the venue.
-- If the venue reaches maximum capacity at any time, entry will be managed on a first-come, first-served basis.
-
-We look forward to seeing you at Tangem House!
-
-### How to Get Here
-
-[Wayfinding 1: main gate / reception]
-
-- After entering through the Main Gate, head to the left side of the Reception Desk.
-
-[Wayfinding 2: elevator]
-
-- There, you will find the elevator to the 20th floor.
-
-### About Tangem
-
-Tangem builds the world's most user-friendly and secure hardware wallets designed as cards and rings. With EAL6+ certified chips, open-source code, and audited firmware, Tangem combines bank-grade security with everyday usability.
-
-Self Custody in Your Pocket
-
-No batteries, no wires, no seed phrases. Tangem wallets activate in less than 3 minutes, work with your smartphone, and keep your private keys offline at all times.
-
-Built for Web3 Freedom
-
-With Tangem, you can hold, swap, and manage your tokens, all without trusting a third party. You remain in full control of your assets anywhere in the world.
-
-Simple. Secure. Tangem.
-
-Whether you're new to crypto or a seasoned investor, Tangem makes self-custody accessible to everyone.
-
-[Website](https://tangem.com/en/?utm_source=luma) | [X](https://x.com/Tangem?utm_source=luma) | Telegram Korea
-
-Tangem House - Seoul @ KBW
-
-날짜: 2026년 9월 27일 (일)
-
-시간: 오후 6:00 - 10:00
-
-장소: 서울 Hashed Lounge 20F
-
-주최: Tangem
-
-Korea Blockchain Week 2026의 시작을 Tangem House과 함께하세요.
-
-Tangem에 대한 소개와 "Tangem & Friends" 파이어사이드 세션을 통해 주요 생태계 리더들의 이야기를 듣고, 한국의 KOL, 빌더, 커뮤니티와 네트워킹을 즐겨보세요.
-
-현장에서는 Tangem Wallet과 Ring을 직접 만나볼 수 있으며, 두 차례의 럭키드로우를 통해 Tangem Wallet과 Ring을 증정합니다. 해당 기회를 절대 놓치지 마세요!
-
-Agenda (세션은 한국어로 진행됩니다)
-
-> 18:00 - 18:45 입장, 웰컴 드링크, 제품 전시
-
->
-
-> 18:45 - 18:55 Tangem 소개
-
->
-
-> 18:55 - 19:30 "Tangem & Friends" 파이어사이드 - <Panel lineup (TBA)>
-
->
-
-> 19:30 - 19:40 1차 추첨 - Tangem Wallet 10개 + 굿즈
-
->
-
-> 19:40 - 20:20 네트워킹 & F&B
-
->
-
-> 20:20 - 20:30 2차 추첨 - Tangem Ring 3개
-
->
-
-> 20:30 - 21:00 자유 네트워킹, 종료
-
-안내드립니다:
-
-- 본 행사는 승인제로 운영됩니다. 승인 후 확인 메일이 발송되며, 입장 시 Luma QR 코드를 보여주세요.
-- 추첨 경품은 현장 체크인 후 행사장에 계신 분에 한해 드립니다.
-- 행사장 내 실내 흡연은 절대로 불가능합니다.
-- 행사장 수용 인원이 초과될 경우 선착순으로 입장이 제한될 수 있는 점 양해 부탁드립니다.
-
-Tangem House에서 뵙겠습니다!
-
-오시는 길
-
-[Wayfinding 1: 정문 / 리셉션]
-
-- 정문으로 들어오신 후, Reception Desk 왼쪽으로 이동하시면,
-
-[Wayfinding 2: 엘리베이터]
-
-- 그곳에서 20층 베뉴로 오시는 엘리베이터를 찾으실 수 있습니다.
-
-Tangem 소개
-
-Tangem은 카드와 반지 형태의 하드웨어 지갑을 만듭니다. EAL6+ 인증 보안 칩, 오픈소스 코드, 외부 감사를 거친 펌웨어를 바탕으로 은행 수준의 보안과 일상적인 사용성을 함께 제공합니다.
-
-주머니 속 셀프 커스터디
-
-배터리도, 케이블도, 시드 문구도 없습니다. Tangem 지갑은 3분 이내에 활성화되고, 스마트폰과 함께 작동하며, 개인 키는 항상 오프라인에 보관됩니다.
-
-Web3를 위한 자유
-
-Tangem을 통해 제3자를 신뢰하지 않고도 토큰을 보관하고, 스왑하고, 관리할 수 있습니다. 세계 어디서든 자산의 통제권은 온전히 사용자에게 있습니다.
-
-Simple. Secure. Tangem.
-
-크립토가 처음인 분부터 오랜 투자자까지, Tangem은 누구나 셀프 커스터디를 쉽게 시작할 수 있게 합니다.
-
 <a id="event-de22558bca2e9e1c"></a>
 
 ## The Bridge Summit
@@ -18896,6 +18699,100 @@ The meetup takes place in Mumbai on Friday, October 30, running from 15:00 to 18
 
 Registration is completely free and requires approval on Luma. Laptops are encouraged for developers wishing to participate in interactive code walkthroughs.
 
+<a id="event-95940115693bd16d"></a>
+
+## Money in Motion: The Future of Cross-Border Payments
+
+- Record: `ibw-luma-evt-YVm4KRLRsBEK4un`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-10-30T11:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/z10bdk0l>
+
+### About the event
+
+The infrastructure powering global payments is undergoing a fundamental shift.
+
+Digital assets, emerging financial technologies, and evolving regulatory frameworks are creating new possibilities for how money moves across borders. As traditional financial systems converge with digital asset infrastructure, new opportunities and challenges are emerging for businesses, financial institutions, and investors.
+
+Beyond the promise of faster and more efficient transactions, important questions remain. How can innovation operate within existing regulatory frameworks? What does it take to build reliable, scalable cross-border payment infrastructure? And where do the most compelling opportunities lie for founders and investors?
+
+LedgerPe Labs and Chambers of Rachana Rautray invite you to Money in Motion, an exclusive industry gathering exploring the intersection of regulation, financial infrastructure, digital assets, and venture capital.
+
+The evening will feature a focused industry discussion followed by an opportunity to connect with fellow founders, investors, and professionals shaping the future of global finance.
+
+### The Conversation
+
+One Panel. Multiple Perspectives.
+
+The discussion will explore four interconnected themes:
+
+Regulation & Compliance
+
+Understanding the evolving regulatory landscape for cross-border payments, with a focus on India-UAE corridors, digital asset frameworks, and the responsibilities of financial intermediaries.
+
+Infrastructure & Execution
+
+Examining the practical challenges of building reliable cross-border payment systems, including liquidity, settlement, banking partnerships, interoperability, and operational resilience.
+
+Investment & Opportunities
+
+Exploring emerging business models, opportunities for innovation, and what makes financial infrastructure companies commercially sustainable, scalable, and attractive to investors.
+
+The Road Ahead
+
+Discussing the future of institutional adoption, the convergence of digital assets and traditional finance, and the next generation of global payment infrastructure.
+
+### Evening Agenda
+
+5:00 PM - 6:00 PM | Panel Discussion & Audience Q&A
+
+A moderated conversation exploring the regulatory, technological, and commercial realities of cross-border payments.
+
+6:00 PM - 7:00 PM | Networking & Refreshments
+
+Continue the conversation over refreshments and connect with founders, investors, fintech executives, and professionals working across financial services and digital assets.
+
+### Event Details
+
+Date: Friday, 30 October 2026
+
+Time: 5:00 PM - 7:00 PM IST
+
+Venue: Spotlight Strategic Partners, Andheri East, Mumbai
+
+Format: Industry Panel & Networking
+
+Community Partner: Spotlight Strategic Partners
+
+An evening bringing together the people building, enabling, and investing in the future of cross-border finance.
+
+Limited seats. Registration is subject to approval.
+
+<a id="event-16e4c5b765b731b5"></a>
+
+## Achija Pav Bhaji Meetup
+
+- Record: `ibw-luma-evt-f0mKBjCgH0j1jSp`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-10-30T13:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/pav-bhaji>
+
+### About the event
+
+Reject cafe modernity; embrace good old pav bhaji tradition.
+
+If you come to Mumbai and do not have a plate of buttery Pav Bhaji at Achija's, some would say you never really came to Mumbai.
+
+We cannot let that happen.
+
+Join us for a trek to the lands of Ghatkopar for some good, hearty food before we kick off Summit Week.
+
+Brought to you by our friends at Umbra (https://x.com/UmbraPrivacy).
+
+Umbra is a privacy layer for Solana that enables shielded transfers and encrypted swaps. Users can selectively disclose their activity when compliance requires it.
+
 <a id="event-0c0712a3ff65e0d9"></a>
 
 ## NEAR Builder’s Cafe #2
@@ -19597,6 +19494,28 @@ Please be considerate: Respect pedestrians, other attendees and different paces;
 
 Hosted independently by Veerendra Vamshi (Proof of Audits). Not an official Devcon or Ethereum Foundation event.
 
+<a id="event-ef93fb29327fe9c5"></a>
+
+## ZECsy at ETH Cypherpunk Congress #3
+
+- Record: `ibw-luma-evt-DUqmVKaajhfQ1xU`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-02T04:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ze1j2zv0>
+
+### About the event
+
+The ZECsy team will be wandering inside of Web3Privacy Now's Ethereum Cypherpunk Congress #3.
+
+Looking for a zcash rep? We'll be roaming in Zcash shirts, stop us and say hello. We'll be there doing hands-on Zcash onboarding. Bring your phone and we'll get you set up with a shielded wallet in a few minutes, no prior crypto experience needed. We're also happy to go deep on the parts nobody explains well: how to get in and out of ZEC, what on-ramps and off-ramps actually look like in practice, where the friction is, and what shielded transactions do and don't hide.
+
+See all our events at: ZECsy.com (https://ZECsy.com)
+
+Note: We will be inside a main event. Register here: https://luma.com/spsnos9t?tk=eDWUQn
+
+See Web3Privacy Now's main site: https://congress.web3privacy.info/
+
 <a id="event-c3424eadb6bdbbe9"></a>
 
 ## Ethereum Cypherpunk Congress #3
@@ -19770,6 +19689,40 @@ Team1 describes itself as a network of developers, builders, creators and commun
 
 Registration is free and subject to host approval. The organizer shares the exact Mumbai address through registration. The listed hosts are Shriyash Pandey, Team1, Amit Sharma and Akash Bhakat. The two lightning-talk speakers are not named in the published program.
 
+<a id="event-aa7cf996d84811bc"></a>
+
+## The Payments Night Mumbai Mixer
+
+- Record: `ibw-luma-evt-qPONpLv4GlXAofz`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-02T13:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/qe2dcey1>
+
+### Hosted by DashX Payments
+
+Privacy Partner: Starknet Foundation
+
+Fintech Partners: Stablecorp, DopePay and Swish
+
+Join us on 2 November, from 7 PM to 11 PM, in BKC, Mumbai, during India Blockchain Week and Devcon, for an evening about how money moves across borders. We will share the exact venue with approved guests before the event.
+
+### What to expect
+
+A 30 minute session on global payments, privacy and compliance, followed by an evening of networking with founders, builders, creators and finance teams.
+
+Enjoy an open bar and free flowing food all night, with beers, cocktails and mocktails created with our partners. You can also take a Polaroid at our photo corner and play games and quizzes for a chance to win DashX merch boxes.
+
+### Who should come
+
+Founders and teams who send or receive money across borders, freelancers, lawyers, CA's, exporters, creators, and anyone building in payments, fintech or stablecoins.
+
+### How to join
+
+Entry is free and based on approval, because space is limited. Pick the pass that fits you: Standard for everyone, VIP for DashX users, or Creator for creators.
+
+We review every request and email you within a few days. Approved guests receive the exact venue details and a QR ticket by email.
+
 <a id="event-a2dc0c7c9a0b5829"></a>
 
 ## Post-DSS: No More Slides 😅 \| Security Community Walk
@@ -19812,6 +19765,56 @@ This walk is FREE and registration is open without a fixed attendance cap. A val
 Please be considerate: Respect pedestrians, other attendees and different paces; no unsolicited pitches. We'll stay in public pedestrian areas and avoid traffic lanes and unsafe shoreline sections. If weather, access or route checks require a change, registered guests will receive updated joining details in Luma.
 
 Hosted independently by Veerendra Vamshi (Proof of Audits). Not an official Devcon or Ethereum Foundation event.
+
+<a id="event-6c98583fa725d78a"></a>
+
+## The Longs Table
+
+- Record: `ibw-luma-evt-u4DFCi8nOPYqY7A`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-02T14:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/qwk7332m>
+
+### About the event
+
+A laid-back mixer for India's traders and builders, hosted by Arcus India. Opening night of the Festival of Longs.
+
+Diwali week in Mumbai, and the best excuse we could find to get India's trading community around one table.
+
+The mixer
+
+- An evening for traders, builders, and creators who care about where on-chain markets are headed
+- Monday, 2 November, Mumbai, from 7:30 PM. Exact venue shared once your registration is approved
+- No panels, no decks, no agenda. Drinks, good conversation, and a room full of people worth meeting away from the trading screens
+  Festival of Longs (Trading Competition)
+- On the night we are opening the Festival of Longs, a four-week trading competition on Arcus running 3rd to 30th November
+- Creator Cup: invited creators trade live on their own channels for a $10,000 prize
+- Community Open: anyone with $500 and a view can compete for a $10,000 pool
+- Full rules go live the same evening
+
+### Registration
+
+- Approval required. We review every registration and confirm by email
+- First come, first served once approved.
+- No plus-ones. Every seat is tied to a registered and approved guest, so please have your friend register separately
+
+Stay in touch
+
+- Telegram: https://t.me/ArcusIndia
+- X: https://x.com/arcusindia
+
+### About Arcus India
+
+Arcus India is an independent community dedicated to growing the Arcus ecosystem in India through community engagement, educational initiatives, and in-person events. Arcus India is not officially tied to Arcus.
+
+### About Arcus
+
+Arcus is a decentralized exchange built in partnership with Robinhood on Robinhood Chain. Users from eligible jurisdictions get one self-custodied account to trade Stock Tokens (spot, zero fees, 24/7), and cross-margined perpetual futures across equities, crypto, commodities, and indices, 24/7, with up to 50x leverage.
+
+### Location
+
+Mumbai
 
 <a id="event-c145e06b6a88292c"></a>
 
@@ -20262,6 +20265,26 @@ Follow Starknet Foundation on X (https://x.com/StarknetFndn)
 
 Follow Starknet on X (https://x.com/Starknet)
 
+<a id="event-ad13d3429650d5dc"></a>
+
+## ZECsy at Devcon 8
+
+- Record: `ibw-luma-evt-yB4ZxpGaCyYrvvA`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-03T04:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/iaoyiiv7>
+
+### About the event
+
+Have you found a ZECsy advocate in the wild? We will be roaming the floor.
+
+We'll be wandering and doing hands-on Zcash onboarding. We can help you get you set up with a shielded wallet in a few minutes, no prior crypto experience needed. We're also happy to go deep on the parts nobody explains well: how to get in and out of ZEC, what on-ramps and off-ramps actually look like in practice, where the friction is, and what shielded transactions do and don't hide.
+
+Ticket required. We will be inside the main event, Devcon 8. Tickets here: https://devcon.org/en/
+
+Privacy is ZECsy.
+
 <a id="event-5547a1c4cd68ea02"></a>
 
 ## The Money House
@@ -20279,6 +20302,46 @@ Monetary Culture hosts The Money House in Mumbai on November 3, 2026, from 12:00
 The day centers on small-group conversations and roundtables, founder accounts of their work, product demonstrations and private meetings. The organizer also lists The Money Table, Content Studio interviews and Money After Hours as parts of the program. Coffee and food are included in the planned gathering. Guests can arrive, leave and return during the day.
 
 Registration is free, but attendance is invitation-led and subject to waitlist approval. The organizer plans for 150 to 200 approved guests. An RSVP does not guarantee entry: approved guests receive confirmation before the event, and admission remains subject to venue capacity. The public page withholds the exact Mumbai address until registration.
+
+<a id="event-7d193131cf81b98a"></a>
+
+## Family Offices Investors Summit: Michelin Dinners Mumbai
+
+- Record: `ibw-luma-evt-vDX2V51hGW9MGEn`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-03T09:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/FOIS_Mumbai>
+
+### 🇮🇳Family Offices Investors Summit Michelin‑DinnersMumbai Nov 3-6 #Devcon🇮🇳
+
+FOIS Global Roadshow Calendar:
+
+New York 🇵🇹 Lisbon 🇺🇸 New York🇵🇹 Lisbon🇯🇵 Tokyo🇰🇷 Seoul 🇺🇸 San Francisco🇸🇬Singapore 🇺🇸 Los Angeles 🇮🇳Mumbai 🇵🇹 Lisbon 🇺🇸 Miami 🇦🇪 Abu Dhabi 🇨🇭Davos🇺🇸
+
+Tickets: Free for funds < $100M AUM | General Admission: $250 https://www.familyofficesinvestorssummit.com
+
+Email: rsvp@familyofficesinvestorssummit.com
+
+Attendee Guest List https://familyofficesinvestorssummit.notion.site/Family-Offices-Investors-Summit-List-19f0599e4fc180718ef6e654b19a95cb
+
+Themes & Dialogues
+
+- AI x Capital Formation x IP x Tokens
+- Digital Sovereignty & Green Capital
+- Alternative Capital, Stablecoins & DeSci
+- M&A + Next-Gen Portfolio Construction
+- Gen Z Wealth & Power Tools (FrankEinstein AI Agent)
+- Family Office Labs & Thesis-First Funds
+- Michelin Brunch-Dinner Experience (12-30 guests only)
+
+Full calendar: lu.ma/foi (http://lu.ma/foi)
+
+Featured Investors Include: Andreessen Horowitz (a16z), 1AM Gaming, 280 Capital, 360 Social Ventures, 500 Emerging Europe, 500 Global, 7BC Ventures, 8-Bit Capital, 8020, AIAC Family Office, Acequia Capital, Achebe Capital, Acorn Pacific Ventures, Active Impact Investments, Advaita Capital, Advance Venture Partners, Aero X Ventures, AiiM Partners, Alibaba, Aligned Climate Capital, Alpha Partners, Alpha Partners Pritzker Group, Alpha Trend Capital FO, Alto Partners, Amino Capital, Amplify, Antler, Arc Ventures, Auset Ventures, Avedissian Investment Partners, B Capital, BASF Venture Capital, BGVArka, Bachmanity Capital, Bank of America, Bankless VC, Beckett Industries, Berkeley SkyDeck Fund, BlackPines Capital Partners, Blackwing Ventures, Bloomberg Beta, Blue Nexus Ventures, Borex Capital, Bosch Ventures, Bow Capital, Bracket Capital, Brick & Mortar Ventures, Bridgex Ventures, Yildiz Family Office, Brookfield Growth, BuildGroup, Bullpen Capital, CLNM Capital, Cannage Capital, Canvas Ventures, Carbide Ventures, Cartography Capital, Catalyze Capital, China Bridge Capital, China Bridge Capital & NextG Tech Limited, Colibri Equity Ventures, Collab+Currency, Colle Capital, Collide Capital, Com2uS CRIT Ventures, Coolwater Capital, Cooper Family Office, Core Family Office, Core Innovation Capital, Courtside Ventures, Cratus Asset Management, Crossbeam VC, Crossover VC, Cystic Fibrosis Foundation, DART Ventures, DG Daiwa Ventures, Darwin Ventures, Decisive Point, Deel, Diagram, Dispersion Capital, DraperU Ventures, ELK Development, East Sunshine Ventures, Egis Capital Partners, Elevate Wellness, Elliott Management, Enlightened Hospitality Investments, Epakon Capital, Epic Funds, Everybody Ventures, Expert DOJO, FMZ Ventures, Fabric VC, Failup Ventures, Fear of Pasta, Fellows Fund, Ferment, Fingaroo, Fintex & Partners Italia, Fitch Ventures, Fluent Ventures, Flyer One Venture, Fontinalis, Foresight Ventures, Fortitude Capital, Forum Ventures, Fremont Group, Future Planet Capital, FutureX Capital, GPN Investment, GV (formerly Google Ventures), Galaxy Interactive, Griffin Gaming Partners, Hartmann Capital, HashKey Capital, Hico Ventures, IA Capital Group, IASV Seed Ventures, IDC Ventures, Impulsum Ventures, Inicio Ventures, Innovent Capital, Interlock Partners, Ion Pacific, Istari Ventures, J17 Capital, JetBlue Ventures, Javelin Venture Partners, K50 Ventures, Kain Capital, Kavantsaari Capital, Kenetic, Khosla Ventures, Kineo Finance, Kismet Ventures, Kli Capital, Kuma Capital, Kyber Knight Capital, Lauren Edwards Private Equity Group, Lockheed Martin Ventures, Lumia Capital, Lux Capital, MAGIC Fund, Mantis VC, MarketX Ventures, Matador Capital | DSCVR, Merrill Lynch Wealth Management, Micron Ventures, Mirae Asset Global, Mobius Ventures, Mofo Capital, Morpheus Ventures, Muivona Capital, Myriad Venture Partners, NASDAQ Private Market, Nathan Family Office, Nationwide Investment Group, New York Life Ventures, Nomadic Ventures, Nomad Ventures, Nour Capital, OC GPN CLUB, OK Capital, Offline Ventures, Outlander VC, PERSEA Ventures, Pacific Alliance Ventures of Shinsegae Emart Group, Pangaea Ventures, Paperstack Capital, Plum Alley Ventures Company, Plug and Play, Point72 Ventures, Post Urban Ventures, Practical VC, Primary Venture Partners, Primer Sazze, Primitiva Global, Private VC, Propy Inc.
+
+& NextTech Ventures (CSO), Prosperity7 Ventures, Protocol VC, R42, Radian Investment Management, Rakuten Ventures, Recharge Capital, Red Beard Ventures, Reflex Capital SE, Rethink Capital Partners, Rina Capital, Robo Global, Rocketship VC, Roosh.tech (http://Roosh.
+
+tech), SMB Investments Streetlife Ventures, SaaS Wealth Fund, Samsung Ventures, Sandbox, Sandbox Studios, Scope Ventures, Scrum Ventures, Shakti Capital, Shorewind Capital, Side Door Ventures, Singularity Capital, SmartGateVC, Software Growth Partners, Sonen Capital, Sony Ventures, Space Capital, Spatial Capital, Streetlife Ventures, Summit LP, Superstate, Syon Capital, TIRTA Ventures, TJC, TLS Dubai, TPG, Techstars, TenSquared Capital, Tencent, Tencent Games, Testnet, The Artemis Fund, Third Point Ventures, Tilden Capital Family Office, Touchdown Ventures, Transform Capital, Translink Capital, Tribe Capital, Tru Arrow Partners, Turan & Everle FO, UBS, Ulu Ventures, United Nations, VDOSH Ventures, VU Venture Fund, Valia Ventures, Verlinvest, Vesta Ventures, Vinthera, Void Venture Capital, Wadson Ventures, Walden Catalyst Ventures, Wells Fargo, Wilshire Lane Capital, Zahren Capital, aVenture, Alto Partners, and many more.
 
 <a id="event-d19c7ea1b7e649fb"></a>
 
@@ -20438,6 +20501,54 @@ Some of the past Builder Nights (https://www.youtube.com/watch?v=9x9JOJ49IKs) �
 Interested in future Builder Nights? Get in touch with @andreolf on Telegram!
 
 Builder Nights Collab Deck (https://docs.google.com/presentation/d/1VIxYKxIj-zMnVji4dXjvUjuJbvyj0z-XsmZL7b3a9F4/edit?usp=sharing)
+
+<a id="event-e07b8ea3e18ed9de"></a>
+
+## House of HYPE: Hyperliquid India x Bitget Wallet
+
+- Record: `ibw-luma-evt-4BPahiHsZbnPfhz`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-03T12:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/x6m1zvfh>
+
+### About the event
+
+House of HYPE is the most liquid gathering in town, bringing Hyperliquid to Mumbai.
+
+Meet a room full of traders, builders, founders, and people you've probably argued with on CT.
+
+### What to expect?
+
+- 1:1 conversations with our ecosystem partners.
+- Trading discussions, new connections, and familiar faces from CT.
+- A few mini-games to keep things interesting.
+- Non-alcoholic drinks in a relaxed café-bar setting.
+- An upstairs space to unwind if you're not in the mood to socialize.
+
+We've no panels, presentations, or packed agendas. We just want you to make great conversations and new connections beyond the trading screens.
+
+### Hosts & Partners
+
+About Hyperliquid India: Hyperliquid India is an independent community dedicated to growing the Hyperliquid ecosystem in India through community engagement, educational initiatives, and in-person events.
+
+About Bitget Wallet: Bitget Wallet is a non-custodial cryptocurrency wallet offering integrated access to onchain trading, token swaps, decentralized applications, and multi-chain asset management.
+
+About Strat: Strat is a full-stack prop trading protocol and perpetual exchange, offering traders access to funded accounts with a 90% profit share, one of the most competitive rates in the industry. With flexible trading rules, up to 100x leverage, and instant onchain payouts, Strat makes prop trading more accessible and trader-friendly.
+
+About ENS: Ethereum Name Service (ENS) is a decentralized naming protocol that enables human-readable blockchain identities, simplifying wallet addresses and interactions across Web3.
+
+About Redstone: RedStone is the data layer for institutional DeFi, delivering secure, low-latency price feeds for digital assets, RWAs, stablecoins, LSTs, LRTs, and Bitcoin LSTs. Trusted by 200+ clients, including Securitize, Morpho, Pendle, Spark, Ether.fi, Ethena, Entropy, and Hyperlend.
+
+RedStone powers lending, stablecoins, perpetuals, and tokenized asset markets with a custom pricing infrastructure built for complex onchain systems.
+
+About Cointelegraph India: Official India arm of Cointelegraph. Your trusted source for crypto news, market intelligence and Web3 insights in India.
+
+Entry is by approved RSVP only, and no +1s will be allowed.
+
+See you at the House of HYPE.
+
+For sponsorship/partnership enquiries, reach out to @ninja_writer21 on Telegram
 
 <a id="event-6cc567907482c4de"></a>
 
@@ -21389,6 +21500,32 @@ The completed instruction goes to an Executor Booth, where an operator executes 
 
 Attendees should complete the RSVP questionnaire and bring a phone and wallet handle. Solo participants can form groups at the door. Registration is free and requires host approval. The organizer describes a Mumbai workspace and rooftop setting; the public location listing identifies Mumbai without a specific street address.
 
+<a id="event-005958c00192c8ea"></a>
+
+## Pizza, Protocols & People
+
+- Record: `ibw-luma-evt-3xF3F3ZaJP4REwg`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-04T11:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/f72q8u4y>
+
+### Pizza, Protocols & People
+
+Casual networking meetup during India Blockchain Week and Devcon 8 in Mumbai, India.
+
+Join builders, founders and developers for an evening of pizza, conversations and meaningful connections.
+
+Location: BKC, Mumbai
+
+Date: 4 November
+
+Time: 5:00 PM - 8:00 PM IST
+
+### Sponsorships & Partnerships
+
+Message @yashekbote (https://t.me/yashekbote) on Telegram.
+
 <a id="event-eb56df19b78feef6"></a>
 
 ## EVA Symposium III
@@ -21984,6 +22121,52 @@ The US$5,000 grand prize is for the most impactful project across the tracks, as
 
 Registration is free and requires host approval. The exact Mumbai venue is private and available through registration.
 
+<a id="event-33a8012631fe450a"></a>
+
+## Practical Privacy Day at Devcon Mumbai
+
+- Record: `ibw-luma-evt-H9Bv5SoWd40O8eC`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-05T04:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/h6e3ctg6>
+
+### About the event
+
+IMPORTANT: Access to the hub is only for Devcon ticket holders. Get yours here. (https://devcon.org/en/tickets/)
+
+Privacy gives you the freedom to act on your own terms. Join us at the Practical Privacy Day to meet the builders working on privacy across Ethereum and beyond, and learn how you can take more control over your data.
+
+You'll hear how teams are bringing privacy to Ethereum's L1 and explore different approaches to privacy-centric L2s. See open-source hardware wallets in action and learn how to prepare for a post-quantum future. We'll explore practical tools you can use day-to-day, from VPNs, AI tools that respect your data, to open-source alternatives.
+
+The day is designed for anyone and everyone interested in on and offchain privacy solutions. No technical knowledge required.
+
+### Schedule
+
+10:00 - 10:30 | Privacy 101: What is Privacy and Why Should You Care | Kyle (https://x.com/PryvitKyle) (Brave)
+
+10:40 - 11:30 | Achieving Privacy on Ethereum L1 | Mike (https://x.com/0xmikemcc) (Privacy Pools), Kieran (https://x.com/mesquka) (Railgun), Gavin (https://x.com/Ether_Gavin) (Armada), Migle (https://x.com/rakymnft) (zERC20)
+
+11:40 - 12:10 | Open-source hardware wallets with Keycard | Devisha (https://x.com/_devisha) (Keycard)
+
+12:30 - 13:30 | Lunch Break
+
+13:30 - 14:20 | Privacy L2s: Different Methodologies to Achieve Privacy | Zac (https://x.com/Zac_Aztec) (Aztec), Leona (https://x.com/HiokiLeona) (INTMAX), and Dominik (https://x.com/schmiddominik1) (Miden)
+
+14:30 - 15:00 | Utilising AI Agents to Analyse Genomic Data in a Privacy Preserving Manner | Péter (https://x.com/peter_szilagyi) (Dark Bio)
+
+15:00 - 15:30 | Afternoon Tea Break
+
+15:30 - 15:50 | Privacy x AI: Achieving privacy in the age of AI agents | Jseam (https://x.com/henlojseam)
+
+16:00 - 16:20 | Privacy and Hardware Wallets in a Post-Quantum World | Markus (https://x.com/mhaas_eth) and Nicola (https://x.com/nceornea_eth) (FreedomFactory)
+
+16:30 - 16:50 | Decentralise your life: a practical talk on FOSS tools for everyday privacy | Ben (https://x.com/unhappyben), Vaelyn (https://x.com/Cyph3rVae) (ETHPanda)
+
+Practical Privacy Day is part of the Devcon Privacy Community Hub aimed at bringing privacy to everyone. Four awesome days filled with amazing speakers talking about the future of privacy - follow the hub page for more info about other days: https://luma.com/qzlsn6lt
+
+Note: The Privacy Hub is part of the Devcon 8 Community Hubs and is only accessible to Devcon 8 ticket holders. A valid Devcon ticket is required to enter.
+
 <a id="event-3590c7f734ce35ff"></a>
 
 ## Devcon Coffee Exchange
@@ -22324,6 +22507,31 @@ If you are early, curious, or already deep in the space, this is where you shoul
 
 Reserve your spot and show up ready to connect.
 
+<a id="event-09225fb6d3715c6a"></a>
+
+## Zcash Educational Forum & University Mixer
+
+- Record: `ibw-luma-evt-kGt7AWmF9nKwHHT`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-05T15:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/3fid49nj>
+
+### About the event
+
+Join Zcash in India during Devcon 8 🇮🇳
+
+We will be hosting a dedicated morning featuring 2 educational sessions:
+
+- Introduction to Zcash- the mechanics behind ZEC, what powers privacy onchain and a look into the shielded ecosystem,
+- Opportunities within the Zcash ecosystem- from community building to developer grants and more!
+
+Meet the Zcash India team as well as active grant recipients, privacy advocates and educators and developers.
+
+The 2 sessions will be followed up by lunch and refreshments as well as custom Zcash India merch to celebrate Devcon 8 and giveaways
+
+Hope to see you there!
+
 <a id="event-e1d31ef9d6b7b09d"></a>
 
 ## KAST Gold Party - Mumbai
@@ -22471,6 +22679,50 @@ The announced program covers:
 - A panel of founders, auditors and researchers discussing accumulated security debt across L2s, real-world asset systems and stablecoin infrastructure, including what they would do differently.
 
 Networking and drinks begin at 18:45 IST. Registration is free, seats are limited and the host reviews every application. The exact venue in Bandra Kurla Complex is shared with confirmed attendees.
+
+<a id="event-423f8b948f5f886d"></a>
+
+## The India House
+
+- Record: `ibw-luma-evt-KFAiFGbSf0EbFnU`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-06T12:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/i4bpbsxn>
+
+### About the event
+
+One night. A thousand flavours of India.
+
+Welcome to The India House - a celebration of Indian culture, community, and the people building the future of Web3.
+
+From regional Indian food and Diwali-inspired lights to unexpected games, a little Garba, and plenty of friendly chaos, we're bringing together Indian founders, Web3 builders, ecosystem leaders, and global friends for a night that feels different from the usual conference side event.
+
+### What to expect
+
+A Taste of India - Discover regional flavours and food that tell stories from across the country.
+
+Indian Festival Energy - Experience vibrant decor, warm lights, music, and the spirit of togetherness.
+
+Games, Garba & Friendly Chaos
+
+Unexpected activities, cultural moments, and opportunities to join the fun, even if it's your first time experiencing them.
+
+Connections Beyond the Conference - Meet founders, builders, investors, and curious minds from India and around the world. You never know which conversation could turn into your next collaboration.
+
+One Community, Many Cultures
+
+Celebrate the diversity of India while connecting with the global Web3 ecosystem.Come for the culture. Stay for the people. Leave with stories.
+
+Mumbai, India
+
+During Devcon week
+
+An intimate gathering planned for approximately 100 participants
+
+More details, venue information, and attendance updates will be shared soon.
+
+Come experience India, under one roof.
 
 <a id="event-aced621a73e52994"></a>
 
@@ -27413,50 +27665,6 @@ Colosseum Copilot - AI brainstorm tool for project ideas
 Solana.new - an all in one kit to go from idea to shipped project
 
 Superteam Poland Hackathon Group
-
-<a id="event-6317b1b8470dbbcd"></a>
-
-## 月圆币聚 · Unity Crypto 中秋聚会
-
-- Record: `luma-batch-evt8w4LF01kwYrZ0`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-27T11:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/UCMidAutumn2026>
-
-### About the event
-
-《月圆币聚 - Unity Crypto 中秋聚会》
-
-月圆之夜，币友相聚。
-
-一年到头盯盘、复盘、追单，中秋这一晚，我们把图表关掉，把人聚起来。
-
-Unity Crypto 社群诚邀你来过一个属于交易员的中秋 - - 没有喊单，没有 KPI，只有一桌好菜、一群同路人，和一轮不会插针的月亮
-
-当晚亮点
-
-自助餐 Buffet 无限供应，吃饱再聊
-
-月饼 & 中秋应景互动环节
-
-社群交流时间
-
-现场抽奖，好礼等你带回家
-
-适合谁来
-
-- Unity Crypto 现有社群成员
-- 想认识本地交易圈子的朋友
-- 单纯想过个热闹中秋的你
-
-日期：2026 年 9 月 27 日（星期日）
-
-时间：7:00PM - 10:00PM
-
-名额有限，餐点需提前确认人数 - - 请务必先在 Luma 上 RSVP 报名。
-
-月圆，人聚，币友同行。中秋见！
 
 <a id="event-54a9fa23b206390e"></a>
 

@@ -2484,5 +2484,27 @@
       "luma-crypto-gezycx1i5fjisgt",
       "dth"
     ]
+  },
+  "premier-metamorphosis-2026": {
+    "until": "2027-10-27T14:18:51.793Z",
+    "slugs": [
+      "premier-metamorphosis-2026",
+      "metamorphosis-2026",
+      "metamorphosis"
+    ]
+  },
+  "kbw-official-tangem-house-seoul-09-27": {
+    "until": "2027-10-27T14:18:51.793Z",
+    "slugs": [
+      "kbw-official-tangem-house-seoul-09-27",
+      "ths"
+    ]
+  },
+  "luma-batch-evt8w4LF01kwYrZ0": {
+    "until": "2027-10-27T14:18:51.793Z",
+    "slugs": [
+      "luma-batch-evt8w4lf01kwyrz0",
+      "ucmidautumn2026"
+    ]
   }
 }

@@ -5561,36 +5561,6 @@
     }
   },
   {
-    "id": "luma-batch-evt8w4LF01kwYrZ0",
-    "slug": "ucmidautumn2026",
-    "name": "月圆币聚 · Unity Crypto 中秋聚会",
-    "description": "《月圆币聚 · Unity Crypto 中秋聚会》\n\n月圆之夜，币友相聚。\n\n一年到头盯盘、复盘、追单，中秋这一晚，我们把图表关掉，把人聚起来。\n\nUnity Crypto 社群诚邀你来过一个属于交易员的中秋 —— 没有喊单，没有 KPI，只有一桌好菜、一群同路人，和一轮不会插针的月亮 🌕\n\n当晚亮点\n🍽️ 自助餐 Buffet 无限供应，吃饱再聊\n🥮 月饼 & 中秋应景互动环节\n🤝 社群交流时间\n🎁 现场抽奖，好礼等你带回家\n\n适合谁来\n· Unity Crypto 现有社群成员\n· 想认识本地交易圈子的朋友\n· 单纯想过个热闹中秋的你\n\n📅 日期：2026 年 9 月 27 日（星期日）\n🕖 时间：7:00PM – 10:00PM\n\n名额有限，餐点需提前确认人数 —— 请务必先在 Luma 上 RSVP 报名。\n\n月圆，人聚，币友同行。中秋见！🌕",
-    "startDate": "2026-09-27T11:00:00.000Z",
-    "endDate": "2026-09-27T14:00:00.000Z",
-    "city": "Klang",
-    "country": "Malaysia",
-    "location": "Klang, Selangor, Malaysia",
-    "url": "https://luma.com/UCMidAutumn2026",
-    "registrationUrl": "https://luma.com/UCMidAutumn2026",
-    "coverImage": "/events/luma-batch-evt8w4LF01kwYrZ0-b021185a.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "DavidJustin Blockchain Academy"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Kuala_Lumpur",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/UCMidAutumn2026",
-      "eventId": "evt-8w4LF01kwYrZ0q7",
-      "fetchedAt": "2026-09-23T10:16:44.000Z",
-      "method": "luma-page",
-      "apifyRunId": "9CIeF9EJS1rcYR3Iw"
-    }
-  },
-  {
     "id": "luma-batch-evtccJeRPeBYE7uZ",
     "slug": "y8sft1wx",
     "name": "BAYC Taipei Happy Hour",

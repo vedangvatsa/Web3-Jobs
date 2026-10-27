@@ -844,21 +844,6 @@
       ]
     },
     {
-      "id": "premier-metamorphosis-2026",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://metamorphosisconf.com/tickets/",
-        "fetchedAt": "2026-09-20T00:20:39.112Z",
-        "method": "official-meta",
-        "pageTitle": "Metamorphosis 2026 | India's Premier Web3 & AI Gala",
-        "sha256": "b1f8e93bee0664251d8004c9eb4e00345eb8318421cc727c32b9b3d35326b010"
-      },
-      "previousStartDate": "2026-09-26T09:00:00+05:30",
-      "characters": 192,
-      "preview": "Join Metamorphosis 2026 in Hyderabad on September 26–27 for India's largest\nWeb3 and AI event. Connect with global thought leaders, developers, and innovators shaping the future of\ntechnology."
-    },
-    {
       "id": "premier-bitcoin-treasuries-2026",
       "file": "curated-events.json",
       "status": "source-backed",

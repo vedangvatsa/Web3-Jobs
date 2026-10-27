@@ -4288,9 +4288,9 @@
     ]
   },
   "india-luma-team1mumbai": {
-    "slug": "team1mumbai",
+    "slug": "team1-mumbai-networking-gala",
     "aliases": [
-      "team1-mumbai-networking-gala"
+      "team1mumbai"
     ]
   },
   "india-luma-mc8pq06y": {
@@ -5568,6 +5568,56 @@
   },
   "ibw-official-kast-gold-party-mumbai-11-05": {
     "slug": "kast-gold",
+    "aliases": []
+  },
+  "ibw-luma-evt-YVm4KRLRsBEK4un": {
+    "slug": "moneyinmotion",
+    "aliases": []
+  },
+  "ibw-luma-evt-f0mKBjCgH0j1jSp": {
+    "slug": "achija-pav-bhaji-meetup",
+    "aliases": [
+      "pavbhaji"
+    ]
+  },
+  "ibw-luma-evt-DUqmVKaajhfQ1xU": {
+    "slug": "zecsycypherpunk",
+    "aliases": []
+  },
+  "ibw-luma-evt-qPONpLv4GlXAofz": {
+    "slug": "paymentsnight",
+    "aliases": []
+  },
+  "ibw-luma-evt-u4DFCi8nOPYqY7A": {
+    "slug": "longstable",
+    "aliases": []
+  },
+  "ibw-luma-evt-yB4ZxpGaCyYrvvA": {
+    "slug": "zecsydevcon",
+    "aliases": []
+  },
+  "ibw-luma-evt-vDX2V51hGW9MGEn": {
+    "slug": "familyoffices",
+    "aliases": []
+  },
+  "ibw-luma-evt-4BPahiHsZbnPfhz": {
+    "slug": "houseofhype",
+    "aliases": []
+  },
+  "ibw-luma-evt-3xF3F3ZaJP4REwg": {
+    "slug": "pizzaprotocols",
+    "aliases": []
+  },
+  "ibw-luma-evt-H9Bv5SoWd40O8eC": {
+    "slug": "practicalprivacy",
+    "aliases": []
+  },
+  "ibw-luma-evt-kGt7AWmF9nKwHHT": {
+    "slug": "zcashforum",
+    "aliases": []
+  },
+  "ibw-luma-evt-KFAiFGbSf0EbFnU": {
+    "slug": "indiahouse",
     "aliases": []
   }
 }

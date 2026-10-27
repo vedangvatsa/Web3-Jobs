@@ -2897,34 +2897,6 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": "/events/premier-metamorphosis-2026-737f9457.webp",
-    "id": "premier-metamorphosis-2026",
-    "slug": "metamorphosis",
-    "name": "Metamorphosis 2026",
-    "description": "Join Metamorphosis 2026 in Hyderabad on September 26–27 for India's largest Web3 and AI event. Connect with global thought leaders, developers, and innovators shaping the future of technology.\n\n## India's premier Web3 and AI gala\n\nMetamorphosis 2026 brings the Web3 and AI community together in Hyderabad for two days of sessions, networking, and builder programming with global thought leaders, developers, and innovators shaping the future of technology.\n\n## Tickets\n\nThe event reports it is sold out, with a few extra tickets added — use the coupon code posted on the official ticketing page to claim them.\n\nThe Hyderabad event spans September 26–27, with two full days of programming.",
-    "startDate": "2026-09-26T09:00:00+05:30",
-    "endDate": "2026-09-27T18:00:00+05:30",
-    "city": "Hyderabad",
-    "country": "India",
-    "location": "T-Hub, Hyderabad, Telangana, India",
-    "url": "https://metamorphosisconf.com/",
-    "website": "https://metamorphosisconf.com/",
-    "registrationUrl": "https://metamorphosisconf.com/tickets/",
-    "venueName": "T-Hub",
-    "sideEventFor": [
-      "ibt"
-    ],
-    "descriptionSource": {
-      "url": "https://metamorphosisconf.com/tickets/",
-      "fetchedAt": "2026-09-22T12:14:29.000Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Metamorphosis 2026 | India's Premier Web3 & AI Gala",
-      "sha256": "b1f8e93bee0664251d8004c9eb4e00345eb8318421cc727c32b9b3d35326b010"
-    }
-  },
-  {
-    "twitter": null,
-    "source": "curated-premier",
     "coverImage": "/events/premier-wob-madrid-2026-d6a188a8.webp",
     "id": "premier-wob-madrid-2026",
     "slug": "wobitcoin",

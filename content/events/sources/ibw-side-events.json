@@ -6632,5 +6632,871 @@
         }
       ]
     }
+  },
+  {
+    "name": "Money in Motion: The Future of Cross-Border Payments",
+    "startDate": "2026-10-30T11:30:00.000Z",
+    "endDate": "2026-10-30T13:30:00.000Z",
+    "description": "The infrastructure powering global payments is undergoing a fundamental shift.\n\nDigital assets, emerging financial technologies, and evolving regulatory frameworks are creating new possibilities for how money moves across borders. As traditional financial systems converge with digital asset infrastructure, new opportunities and challenges are emerging for businesses, financial institutions, and investors.\n\nBeyond the promise of faster and more efficient transactions, important questions remain. How can innovation operate within existing regulatory frameworks? What does it take to build reliable, scalable cross-border payment infrastructure? And where do the most compelling opportunities lie for founders and investors?\n\nLedgerPe Labs and Chambers of Rachana Rautray invite you to Money in Motion, an exclusive industry gathering exploring the intersection of regulation, financial infrastructure, digital assets, and venture capital.\n\nThe evening will feature a focused industry discussion followed by an opportunity to connect with fellow founders, investors, and professionals shaping the future of global finance.\n\n\n## The Conversation\n\nOne Panel. Multiple Perspectives.\n\nThe discussion will explore four interconnected themes:\n\nRegulation & Compliance\n\nUnderstanding the evolving regulatory landscape for cross-border payments, with a focus on India–UAE corridors, digital asset frameworks, and the responsibilities of financial intermediaries.\n\nInfrastructure & Execution\n\nExamining the practical challenges of building reliable cross-border payment systems, including liquidity, settlement, banking partnerships, interoperability, and operational resilience.\n\nInvestment & Opportunities\n\nExploring emerging business models, opportunities for innovation, and what makes financial infrastructure companies commercially sustainable, scalable, and attractive to investors.\n\nThe Road Ahead\n\nDiscussing the future of institutional adoption, the convergence of digital assets and traditional finance, and the next generation of global payment infrastructure.\n\n\n## Evening Agenda\n\n5:00 PM – 6:00 PM | Panel Discussion & Audience Q&A\n\nA moderated conversation exploring the regulatory, technological, and commercial realities of cross-border payments.\n\n6:00 PM – 7:00 PM | Networking & Refreshments\n\nContinue the conversation over refreshments and connect with founders, investors, fintech executives, and professionals working across financial services and digital assets.\n\n\n## Event Details\n\nDate: Friday, 30 October 2026\nTime: 5:00 PM – 7:00 PM IST\nVenue: Spotlight Strategic Partners, Andheri East, Mumbai\nFormat: Industry Panel & Networking\n\nCommunity Partner: Spotlight Strategic Partners\n\nAn evening bringing together the people building, enabling, and investing in the future of cross-border finance.\n\nLimited seats. Registration is subject to approval.",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/z10bdk0l",
+    "coverImage": "/events/moneyinmotion-51194a3f.webp",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "hosts": [
+      "LedgerPe Labs",
+      "Dhananjay Joshi"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "LedgerPe Labs"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/z10bdk0l",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/z10bdk0l",
+      "eventId": "evt-YVm4KRLRsBEK4un",
+      "fetchedAt": "2026-10-27T12:38:19.973Z",
+      "method": "luma-page"
+    },
+    "id": "ibw-luma-evt-YVm4KRLRsBEK4un",
+    "slug": "moneyinmotion",
+    "url": "https://luma.com/z10bdk0l",
+    "source": "curated-reviewed",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/z10bdk0l",
+      "fetchedAt": "2026-10-27T12:38:19.973Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Money in Motion : The Future of Cross-Border Payments · Luma",
+      "sha256": "cb57a8439f93b4adc8a4ff37b19e877a94a4c7122a370b4030549eb6ca8f2a03",
+      "evidence": [
+        {
+          "url": "https://luma.com/z10bdk0l",
+          "fetchedAt": "2026-10-27T12:38:19.973Z",
+          "sha256": "6a565ce54b3b66cb8bde384c9ed8a71b81a5f14c5f1cc0496b079afb88f1d78f",
+          "retrievedVia": "Public primary HTTP response",
+          "representation": "html"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Achija Pav Bhaji Meetup",
+    "startDate": "2026-10-30T13:30:00.000Z",
+    "endDate": "2026-10-30T15:30:00.000Z",
+    "description": "Reject cafe modernity; embrace good old pav bhaji tradition.\n\nIf you come to Mumbai and do not have a plate of buttery Pav Bhaji at Achija's, some would say you never really came to Mumbai.\n\nWe cannot let that happen.\n\nJoin us for a trek to the lands of Ghatkopar for some good, hearty food before we kick off Summit Week.\n\nBrought to you by our friends at Umbra (https://x.com/UmbraPrivacy).\n\nUmbra is a privacy layer for Solana that enables shielded transfers and encrypted swaps. Users can selectively disclose their activity when compliance requires it.",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/pav-bhaji",
+    "coverImage": "/events/pavbhaji-d3fcb955.webp",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "hosts": [
+      "Superteam India",
+      "Krutarth Shah"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Superteam",
+      "url": "https://superteam.fun/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/pav-bhaji",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/pav-bhaji",
+      "eventId": "evt-f0mKBjCgH0j1jSp",
+      "fetchedAt": "2026-10-27T12:38:22.073Z",
+      "method": "luma-page"
+    },
+    "id": "ibw-luma-evt-f0mKBjCgH0j1jSp",
+    "slug": "pavbhaji",
+    "url": "https://luma.com/pav-bhaji",
+    "source": "curated-reviewed",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/pav-bhaji",
+      "fetchedAt": "2026-10-27T12:38:22.073Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Achija Pav Bhaji Meetup · Luma",
+      "sha256": "d856e9efa477b89f40aa65ceeff6aac2a1f547fe6bf41d25510dccb2f8043e35",
+      "evidence": [
+        {
+          "url": "https://luma.com/pav-bhaji",
+          "fetchedAt": "2026-10-27T12:38:22.073Z",
+          "sha256": "e2a2383cb7e629c495f7e851703f5d3a427b4847d1018218cf472782c55c3154",
+          "retrievedVia": "Public primary HTTP response",
+          "representation": "html"
+        }
+      ]
+    }
+  },
+  {
+    "name": "The Payments Night Mumbai Mixer",
+    "startDate": "2026-11-02T13:30:00.000Z",
+    "endDate": "2026-11-02T17:30:00.000Z",
+    "description": "## Payments Night Mumbai\n\n\n## Hosted by DashX Payments\n\nPrivacy Partner: Starknet Foundation\n\nFintech Partners: Stablecorp, DopePay and Swish\n\nJoin us on 2 November, from 7 PM to 11 PM, in BKC, Mumbai, during India Blockchain Week and Devcon, for an evening about how money moves across borders. We will share the exact venue with approved guests before the event.\n\n\n## What to expect\n\nA 30 minute session on global payments, privacy and compliance, followed by an evening of networking with founders, builders, creators and finance teams.\n\nEnjoy an open bar and free flowing food all night, with beers, cocktails and mocktails created with our partners. You can also take a Polaroid at our photo corner and play games and quizzes for a chance to win DashX merch boxes.\n\n\n## Who should come\n\nFounders and teams who send or receive money across borders, freelancers, lawyers, CA's , exporters, creators, and anyone building in payments, fintech or stablecoins.\n\n\n## How to join\n\nEntry is free and based on approval, because space is limited. Pick the pass that fits you: Standard for everyone, VIP for DashX users, or Creator for creators.\n\nWe review every request and email you within a few days. Approved guests receive the exact venue details and a QR ticket by email.",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/qe2dcey1",
+    "coverImage": "/events/paymentsnight-ed317474.webp",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Location to be announced",
+    "hosts": [
+      "Vedant utage",
+      "DashX Payments",
+      "Stablecorp"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/qe2dcey1",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "VIP",
+        "url": "https://luma.com/qe2dcey1",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "Creator Pass",
+        "url": "https://luma.com/qe2dcey1",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "Special Student Pass",
+        "url": "https://luma.com/qe2dcey1",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/qe2dcey1",
+      "eventId": "evt-qPONpLv4GlXAofz",
+      "fetchedAt": "2026-10-27T12:38:29.652Z",
+      "method": "luma-page"
+    },
+    "id": "ibw-luma-evt-qPONpLv4GlXAofz",
+    "slug": "paymentsnight",
+    "url": "https://luma.com/qe2dcey1",
+    "source": "curated-reviewed",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/qe2dcey1",
+      "fetchedAt": "2026-10-27T12:38:29.652Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "The Payments Night Mumbai | Mixer · Luma",
+      "sha256": "b4b0888fe84db3ba0aa0a2517618c9e667ba92ba5438bfa3344a8dcb7fa50275",
+      "evidence": [
+        {
+          "url": "https://luma.com/qe2dcey1",
+          "fetchedAt": "2026-10-27T12:38:29.652Z",
+          "sha256": "0e9df36b96bfc453c708a22bcc83c19a2b579016c3d1b787da66a073acf5b75b",
+          "retrievedVia": "Public primary HTTP response",
+          "representation": "html"
+        }
+      ]
+    }
+  },
+  {
+    "name": "The Longs Table",
+    "startDate": "2026-11-02T14:00:00.000Z",
+    "endDate": "2026-11-02T18:00:00.000Z",
+    "description": "A laid-back mixer for India’s traders and builders, hosted by Arcus India. Opening night of the Festival of Longs.\n\nDiwali week in Mumbai, and the best excuse we could find to get India’s trading community around one table.\n\nThe mixer\n\n\n• An evening for traders, builders, and creators who care about where on-chain markets are headed\n• Monday, 2 November, Mumbai, from 7:30 PM. Exact venue shared once your registration is approved\n• No panels, no decks, no agenda. Drinks, good conversation, and a room full of people worth meeting away from the trading screens\n  Festival of Longs (Trading Competition)\n\n\n• On the night we are opening the Festival of Longs, a four-week trading competition on Arcus running 3rd to 30th November\n• Creator Cup: invited creators trade live on their own channels for a $10,000 prize\n• Community Open: anyone with $500 and a view can compete for a $10,000 pool\n• Full rules go live the same evening\n\nRegistration\n\n\n• Approval required. We review every registration and confirm by email\n• First come, first served once approved.\n• No plus-ones. Every seat is tied to a registered and approved guest, so please have your friend register separately\n\nStay in touch\n\n\n• Telegram: https://t.me/ArcusIndia\n• X: https://x.com/arcusindia\n\nAbout Arcus India\nArcus India is an independent community dedicated to growing the Arcus ecosystem in India through community engagement, educational initiatives, and in-person events. Arcus India is not officially tied to Arcus.\n\nAbout Arcus\nArcus is a decentralized exchange built in partnership with Robinhood on Robinhood Chain. Users from eligible jurisdictions get one self-custodied account to trade Stock Tokens (spot, zero fees, 24/7), and cross-margined perpetual futures across equities, crypto, commodities, and indices, 24/7, with up to 50x leverage.\n\nLocation\nMumbai",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/qwk7332m",
+    "coverImage": "/events/longstable-07d39514.webp",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Location to be announced",
+    "hosts": [
+      "Arcus India",
+      "Pratik Shigli (VivanLive)"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Arcus India",
+      "url": "https://t.me/ArcusIndia"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/qwk7332m",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/qwk7332m",
+      "eventId": "evt-u4DFCi8nOPYqY7A",
+      "fetchedAt": "2026-10-27T12:38:49.676Z",
+      "method": "luma-page"
+    },
+    "id": "ibw-luma-evt-u4DFCi8nOPYqY7A",
+    "slug": "longstable",
+    "url": "https://luma.com/qwk7332m",
+    "source": "curated-reviewed",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/qwk7332m",
+      "fetchedAt": "2026-10-27T12:38:49.676Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "The Longs Table · Luma",
+      "sha256": "08131565da9d02c5ceeeb879f69ed0ca8f6bf38d3fc4dbbcaf1825f80120ae9d",
+      "evidence": [
+        {
+          "url": "https://luma.com/qwk7332m",
+          "fetchedAt": "2026-10-27T12:38:49.676Z",
+          "sha256": "1f9449f2cd0dd6e37ca7430211e61fc940f9c3b147a0a8b4a107655c6335e396",
+          "retrievedVia": "Public primary HTTP response",
+          "representation": "html"
+        }
+      ]
+    }
+  },
+  {
+    "name": "ZECsy at ETH Cypherpunk Congress #3",
+    "startDate": "2026-11-02T04:30:00.000Z",
+    "endDate": "2026-11-02T13:30:00.000Z",
+    "description": "The ZECsy team will be wandering inside of Web3Privacy Now's Ethereum Cypherpunk Congress #3. \n\nLooking for a zcash rep? We'll be roaming in Zcash shirts, stop us and say hello. We'll be there doing hands-on Zcash onboarding. Bring your phone and we'll get you set up with a shielded wallet in a few minutes, no prior crypto experience needed. We're also happy to go deep on the parts nobody explains well: how to get in and out of ZEC, what on-ramps and off-ramps actually look like in practice, where the friction is, and what shielded transactions do and don't hide.\n\nSee all our events at: ZECsy.com (https://ZECsy.com) \n\nNote: We will be inside a main event. Register here: https://luma.com/spsnos9t?tk=eDWUQn\n\nSee Web3Privacy Now's main site: https://congress.web3privacy.info/",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/ze1j2zv0",
+    "coverImage": "/events/zecsycypherpunk-8612b8a4.webp",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, Maharashtra, India",
+    "venueName": "Mumbai",
+    "addressLocality": "Mumbai",
+    "addressRegion": "Maharashtra",
+    "addressCountry": "IN",
+    "coordinates": {
+      "latitude": 18.9582347,
+      "longitude": 72.8319514
+    },
+    "hosts": [
+      "Mylo Bennett",
+      "Kate Stapleton",
+      "Violet Rollergirl"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "ZECsy Events",
+      "url": "https://zecsy.com/"
+    },
+    "price": "Free",
+    "approvalRequired": false,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/ze1j2zv0",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/ze1j2zv0",
+      "eventId": "evt-DUqmVKaajhfQ1xU",
+      "fetchedAt": "2026-10-27T12:38:57.757Z",
+      "method": "luma-page"
+    },
+    "id": "ibw-luma-evt-DUqmVKaajhfQ1xU",
+    "slug": "zecsycypherpunk",
+    "url": "https://luma.com/ze1j2zv0",
+    "source": "curated-reviewed",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/ze1j2zv0",
+      "fetchedAt": "2026-10-27T12:38:57.757Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "ZECsy at ETH Cypherpunk Congress #3 · Luma",
+      "sha256": "4f24c7dc6bcecf1f4b38d44583a8d2bb64d5aafe1e1791382fff991037eeba00",
+      "evidence": [
+        {
+          "url": "https://luma.com/ze1j2zv0",
+          "fetchedAt": "2026-10-27T12:38:57.757Z",
+          "sha256": "521ead188d3f2ab36758d37554d6c40130be54dd3e7f62376fe434233d53f194",
+          "retrievedVia": "Public primary HTTP response",
+          "representation": "html"
+        }
+      ]
+    }
+  },
+  {
+    "name": "House of HYPE: Hyperliquid India x Bitget Wallet",
+    "startDate": "2026-11-03T12:30:00.000Z",
+    "endDate": "2026-11-03T16:30:00.000Z",
+    "description": "House of HYPE is the most liquid gathering in town, bringing Hyperliquid to Mumbai.\n\nMeet a room full of traders, builders, founders, and people you've probably argued with on CT.\n\nWhat to expect?\n\n\n• 1:1 conversations with our ecosystem partners.\n• Trading discussions, new connections, and familiar faces from CT.\n• A few mini-games to keep things interesting.\n• Non-alcoholic drinks in a relaxed café-bar setting.\n• An upstairs space to unwind if you're not in the mood to socialize.\n\nWe've no panels, presentations, or packed agendas. We just want you to make great conversations and new connections beyond the trading screens.\n\n\n## Hosts & Partners\n\nAbout Hyperliquid India: Hyperliquid India is an independent community dedicated to growing the Hyperliquid ecosystem in India through community engagement, educational initiatives, and in-person events.\n\nAbout Bitget Wallet: Bitget Wallet is a non-custodial cryptocurrency wallet offering integrated access to onchain trading, token swaps, decentralized applications, and multi-chain asset management.\n\nAbout Strat: Strat is a full-stack prop trading protocol and perpetual exchange, offering traders access to funded accounts with a 90% profit share, one of the most competitive rates in the industry. With flexible trading rules, up to 100x leverage, and instant onchain payouts, Strat makes prop trading more accessible and trader-friendly.\n\nAbout ENS: Ethereum Name Service (ENS) is a decentralized naming protocol that enables human-readable blockchain identities, simplifying wallet addresses and interactions across Web3.\n\nAbout Redstone: RedStone is the data layer for institutional DeFi, delivering secure, low-latency price feeds for digital assets, RWAs, stablecoins, LSTs, LRTs, and Bitcoin LSTs. Trusted by 200+ clients, including Securitize, Morpho, Pendle, Spark, Ether.fi, Ethena, Entropy, and Hyperlend. \nRedStone powers lending, stablecoins, perpetuals, and tokenized asset markets with a custom pricing infrastructure built for complex onchain systems.\n\nAbout Cointelegraph India: Official India arm of Cointelegraph. Your trusted source for crypto news, market intelligence and Web3 insights in India.\n\nEntry is by approved RSVP only, and no +1s will be allowed.\n\nSee you at the House of HYPE.\n\n\nFor sponsorship/partnership enquiries, reach out to @ninja_writer21 on Telegram",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/x6m1zvfh",
+    "coverImage": "/events/houseofhype-94f83589.webp",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "hosts": [
+      "Hyperliquid India",
+      "Uddalak Das",
+      "Sukriti Taneja",
+      "Bitget Wallet",
+      "Saniya More, ENS"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/x6m1zvfh",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/x6m1zvfh",
+      "eventId": "evt-4BPahiHsZbnPfhz",
+      "fetchedAt": "2026-10-27T12:39:07.224Z",
+      "method": "luma-page"
+    },
+    "id": "ibw-luma-evt-4BPahiHsZbnPfhz",
+    "slug": "houseofhype",
+    "url": "https://luma.com/x6m1zvfh",
+    "source": "curated-reviewed",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/x6m1zvfh",
+      "fetchedAt": "2026-10-27T12:39:07.224Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "House of HYPE by Hyperliquid India x Bitget Wallet · Luma",
+      "sha256": "2824fee65cbb469a4536c3b0d38bb4e6e971807ca7d294b3f885c979b5850cc2",
+      "evidence": [
+        {
+          "url": "https://luma.com/x6m1zvfh",
+          "fetchedAt": "2026-10-27T12:39:07.224Z",
+          "sha256": "595fd836e65ab0dd7cfe74a592981717ee3eabb1e9422065a117b0339335fdca",
+          "retrievedVia": "Public primary HTTP response",
+          "representation": "html"
+        }
+      ]
+    }
+  },
+  {
+    "name": "ZECsy at Devcon 8",
+    "startDate": "2026-11-03T04:30:00.000Z",
+    "endDate": "2026-11-06T12:30:00.000Z",
+    "description": "Have you found a ZECsy advocate in the wild? We will be roaming the floor.\n\nWe'll be wandering and doing hands-on Zcash onboarding.  We can help you get you set up with a shielded wallet in a few minutes, no prior crypto experience needed. We're also happy to go deep on the parts nobody explains well: how to get in and out of ZEC, what on-ramps and off-ramps actually look like in practice, where the friction is, and what shielded transactions do and don't hide.\n\n\nTicket required. We will be inside the main event, Devcon 8. Tickets here: https://devcon.org/en/\n\nPrivacy is ZECsy.",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/iaoyiiv7",
+    "coverImage": "/events/zecsydevcon-3d2435f3.webp",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Mumbai",
+    "country": "India",
+    "location": "G Block, Bandra Kurla Complex Rd, G Block BKC, University of Mumbai,Vidya Nagari, Kalina, Bandra East, Mumbai, Maharashtra 400098, India",
+    "venueName": "G Block",
+    "streetAddress": "G Block, Bandra Kurla Complex Rd, G Block BKC, University of Mumbai,Vidya Nagari, Kalina, Bandra East, Mumbai, Maharashtra 400098, India",
+    "addressLocality": "Mumbai",
+    "addressRegion": "Maharashtra",
+    "addressCountry": "IN",
+    "neighborhood": "Income Tax Colony",
+    "coordinates": {
+      "latitude": 19.0672031,
+      "longitude": 72.8699116
+    },
+    "hosts": [
+      "Mylo Bennett",
+      "Kate Stapleton",
+      "Violet Rollergirl"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "ZECsy Events",
+      "url": "https://zecsy.com/"
+    },
+    "price": "Free",
+    "approvalRequired": false,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/iaoyiiv7",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/iaoyiiv7",
+      "eventId": "evt-yB4ZxpGaCyYrvvA",
+      "fetchedAt": "2026-10-27T12:39:15.445Z",
+      "method": "luma-page"
+    },
+    "id": "ibw-luma-evt-yB4ZxpGaCyYrvvA",
+    "slug": "zecsydevcon",
+    "url": "https://luma.com/iaoyiiv7",
+    "source": "curated-reviewed",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/iaoyiiv7",
+      "fetchedAt": "2026-10-27T12:39:15.445Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "ZECsy at Devcon 8 · Luma",
+      "sha256": "392d1faf269c77c9b531847d0e0a6bacac2d5928b605d0d0990fee56bb42a1f2",
+      "evidence": [
+        {
+          "url": "https://luma.com/iaoyiiv7",
+          "fetchedAt": "2026-10-27T12:39:15.445Z",
+          "sha256": "c516b8a73b43233c2a447c05ac5f9a986f692d34090e976a4f1a6d90fd5dfeba",
+          "retrievedVia": "Public primary HTTP response",
+          "representation": "html"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Family Offices Investors Summit: Michelin Dinners Mumbai",
+    "startDate": "2026-11-03T09:30:00.000Z",
+    "endDate": "2026-11-06T15:30:00.000Z",
+    "description": "## 🇮🇳Family Offices Investors Summit 🥂🕯Michelin‑Dinners📍Mumbai 📍Nov 3-6 #Devcon🇮🇳\n\nFOIS Global Roadshow Calendar:\n New York 🇵🇹 Lisbon 🇺🇸 New York🇵🇹 Lisbon🇯🇵 Tokyo🇰🇷 Seoul 🇺🇸 San Francisco🇸🇬Singapore 🇺🇸 Los Angeles 🇮🇳Mumbai 🇵🇹 Lisbon 🇺🇸 Miami 🇦🇪 Abu Dhabi 🇨🇭Davos🇺🇸\n\n🎟️ Tickets: Free for funds < $100M AUM | General Admission: $250 https://www.familyofficesinvestorssummit.com\n\n📩 📞Email: rsvp@familyofficesinvestorssummit.com\n\n👥 Attendee Guest List https://familyofficesinvestorssummit.notion.site/Family-Offices-Investors-Summit-List-19f0599e4fc180718ef6e654b19a95cb\n\nThemes & Dialogues\n– AI x Capital Formation x IP x Tokens\n– Digital Sovereignty & Green Capital\n– Alternative Capital, Stablecoins & DeSci\n– M&A + Next-Gen Portfolio Construction\n– Gen Z Wealth & Power Tools (FrankEinstein AI Agent)\n– Family Office Labs & Thesis-First Funds\n– Michelin Brunch-Dinner Experience (12-30 guests only)\n\nFull calendar: lu.ma/foi (http://lu.ma/foi)\n\nFeatured Investors Include: Andreessen Horowitz (a16z), 1AM Gaming, 280 Capital, 360 Social Ventures, 500 Emerging Europe, 500 Global, 7BC Ventures, 8-Bit Capital, 8020, AIAC Family Office, Acequia Capital, Achebe Capital, Acorn Pacific Ventures, Active Impact Investments, Advaita Capital, Advance Venture Partners, Aero X Ventures, AiiM Partners, Alibaba, Aligned Climate Capital, Alpha Partners, Alpha Partners Pritzker Group, Alpha Trend Capital FO, Alto Partners, Amino Capital, Amplify, Antler, Arc Ventures, Auset Ventures, Avedissian Investment Partners, B Capital, BASF Venture Capital, BGVArka, Bachmanity Capital, Bank of America, Bankless VC, Beckett Industries, Berkeley SkyDeck Fund, BlackPines Capital Partners, Blackwing Ventures, Bloomberg Beta, Blue Nexus Ventures, Borex Capital, Bosch Ventures, Bow Capital, Bracket Capital, Brick & Mortar Ventures, Bridgex Ventures, Yildiz Family Office, Brookfield Growth, BuildGroup, Bullpen Capital, CLNM Capital, Cannage Capital, Canvas Ventures, Carbide Ventures, Cartography Capital, Catalyze Capital, China Bridge Capital, China Bridge Capital & NextG Tech Limited, Colibri Equity Ventures, Collab+Currency, Colle Capital, Collide Capital, Com2uS CRIT Ventures, Coolwater Capital, Cooper Family Office, Core Family Office, Core Innovation Capital, Courtside Ventures, Cratus Asset Management, Crossbeam VC, Crossover VC, Cystic Fibrosis Foundation, DART Ventures, DG Daiwa Ventures, Darwin Ventures, Decisive Point, Deel, Diagram, Dispersion Capital, DraperU Ventures, ELK Development, East Sunshine Ventures, Egis Capital Partners, Elevate Wellness, Elliott Management, Enlightened Hospitality Investments, Epakon Capital, Epic Funds, Everybody Ventures, Expert DOJO, FMZ Ventures, Fabric VC, Failup Ventures, Fear of Pasta, Fellows Fund, Ferment, Fingaroo, Fintex & Partners Italia, Fitch Ventures, Fluent Ventures, Flyer One Venture, Fontinalis, Foresight Ventures, Fortitude Capital, Forum Ventures, Fremont Group, Future Planet Capital, FutureX Capital, GPN Investment, GV (formerly Google Ventures), Galaxy Interactive, Griffin Gaming Partners, Hartmann Capital, HashKey Capital, Hico Ventures, IA Capital Group, IASV Seed Ventures, IDC Ventures, Impulsum Ventures, Inicio Ventures, Innovent Capital, Interlock Partners, Ion Pacific, Istari Ventures, J17 Capital, JetBlue Ventures, Javelin Venture Partners, K50 Ventures, Kain Capital, Kavantsaari Capital, Kenetic, Khosla Ventures, Kineo Finance, Kismet Ventures, Kli Capital, Kuma Capital, Kyber Knight Capital, Lauren Edwards Private Equity Group, Lockheed Martin Ventures, Lumia Capital, Lux Capital, MAGIC Fund, Mantis VC, MarketX Ventures, Matador Capital | DSCVR, Merrill Lynch Wealth Management, Micron Ventures, Mirae Asset Global, Mobius Ventures, Mofo Capital, Morpheus Ventures, Muivona Capital, Myriad Venture Partners, NASDAQ Private Market, Nathan Family Office, Nationwide Investment Group, New York Life Ventures, Nomadic Ventures, Nomad Ventures, Nour Capital, OC GPN CLUB, OK Capital, Offline Ventures, Outlander VC, PERSEA Ventures, Pacific Alliance Ventures of Shinsegae Emart Group, Pangaea Ventures, Paperstack Capital, Plum Alley Ventures Company, Plug and Play, Point72 Ventures, Post Urban Ventures, Practical VC, Primary Venture Partners, Primer Sazze, Primitiva Global, Private VC, Propy Inc. & NextTech Ventures (CSO), Prosperity7 Ventures, Protocol VC, R42, Radian Investment Management, Rakuten Ventures, Recharge Capital, Red Beard Ventures, Reflex Capital SE, Rethink Capital Partners, Rina Capital, Robo Global, Rocketship VC, Roosh.tech (http://Roosh.tech), SMB Investments Streetlife Ventures, SaaS Wealth Fund, Samsung Ventures, Sandbox, Sandbox Studios, Scope Ventures, Scrum Ventures, Shakti Capital, Shorewind Capital, Side Door Ventures, Singularity Capital, SmartGateVC, Software Growth Partners, Sonen Capital, Sony Ventures, Space Capital, Spatial Capital, Streetlife Ventures, Summit LP, Superstate, Syon Capital, TIRTA Ventures, TJC, TLS Dubai, TPG, Techstars, TenSquared Capital, Tencent, Tencent Games, Testnet, The Artemis Fund, Third Point Ventures, Tilden Capital Family Office, Touchdown Ventures, Transform Capital, Translink Capital, Tribe Capital, Tru Arrow Partners, Turan & Everle FO, UBS, Ulu Ventures, United Nations, VDOSH Ventures, VU Venture Fund, Valia Ventures, Verlinvest, Vesta Ventures, Vinthera, Void Venture Capital, Wadson Ventures, Walden Catalyst Ventures, Wells Fargo, Wilshire Lane Capital, Zahren Capital, aVenture, Alto Partners, and many more.",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/FOIS_Mumbai",
+    "coverImage": "/events/familyoffices-0e4a97d3.webp",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, Maharashtra, India",
+    "venueName": "Mumbai",
+    "addressLocality": "Mumbai",
+    "addressRegion": "Maharashtra",
+    "addressCountry": "IN",
+    "coordinates": {
+      "latitude": 18.9582347,
+      "longitude": 72.8319514
+    },
+    "hosts": [
+      "💓𝖒𝖆𝖓𝖆𝖓𝖆 fois.fyi 🔜 xShares",
+      "Perps Capital",
+      "familyofficesinvestorssummit.com",
+      "X Shares"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "FamilyOfficesInvestors",
+      "url": "https://www.familyofficesinvestorssummit.com/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "VIP Open Ticket (Not Investor)",
+        "url": "https://luma.com/FOIS_Mumbai",
+        "price": 250,
+        "priceCurrency": "USD",
+        "availability": "InStock"
+      },
+      {
+        "name": "Wine Club + VC Michelin-Dinner",
+        "url": "https://luma.com/FOIS_Mumbai",
+        "price": 250,
+        "priceCurrency": "USD",
+        "availability": "InStock"
+      },
+      {
+        "name": "RSVP $100M AUM",
+        "url": "https://luma.com/FOIS_Mumbai",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "Longevity IV Therapy",
+        "url": "https://luma.com/FOIS_Mumbai",
+        "price": 400,
+        "priceCurrency": "USD",
+        "availability": "InStock"
+      },
+      {
+        "name": "Membership FOIS 1 Year",
+        "url": "https://luma.com/FOIS_Mumbai",
+        "price": 1000,
+        "priceCurrency": "USD",
+        "availability": "InStock"
+      },
+      {
+        "name": "FOIS+Dinner",
+        "url": "https://luma.com/FOIS_Mumbai",
+        "price": 500,
+        "priceCurrency": "USD",
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/FOIS_Mumbai",
+      "eventId": "evt-vDX2V51hGW9MGEn",
+      "fetchedAt": "2026-10-27T12:39:18.428Z",
+      "method": "luma-page"
+    },
+    "id": "ibw-luma-evt-vDX2V51hGW9MGEn",
+    "slug": "familyoffices",
+    "url": "https://luma.com/FOIS_Mumbai",
+    "source": "curated-reviewed",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/FOIS_Mumbai",
+      "fetchedAt": "2026-10-27T12:39:18.428Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "🇮🇳Family Offices Investors Summit 🥂🕯Michelin‑Dinners📍Mumbai 📍Nov 3-6 #Devcon🇮🇳 · Luma",
+      "sha256": "8275a84fd416cdc77556ec28a47d360bd6f24028fce2e090a56789ab668434cb",
+      "evidence": [
+        {
+          "url": "https://luma.com/FOIS_Mumbai",
+          "fetchedAt": "2026-10-27T12:39:18.428Z",
+          "sha256": "fac5f88f6c1af6b86a754baba5000821ca26e3fa8b98a0165ed9afeaacc58a57",
+          "retrievedVia": "Public primary HTTP response",
+          "representation": "html"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pizza, Protocols & People",
+    "startDate": "2026-11-04T11:30:00.000Z",
+    "endDate": "2026-11-04T14:30:00.000Z",
+    "description": "## Pizza, Protocols & People 🍕\n\nCasual networking meetup during India Blockchain Week and Devcon 8 in Mumbai, India.\n\nJoin builders, founders and developers for an evening of pizza, conversations and meaningful connections.\n\n📍 Location: BKC, Mumbai\n📅 Date: 4 November\n⏰ Time: 5:00 PM – 8:00 PM IST\n\n\n## Sponsorships & Partnerships:\n\nMessage @yashekbote (https://t.me/yashekbote) on Telegram.\n\n\n## ​Previous Event Moments",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/f72q8u4y",
+    "coverImage": "/events/pizzaprotocols-420f41a1.webp",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "hosts": [
+      "Flowza"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Flowza",
+      "url": "https://flowza.xyz/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/f72q8u4y",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/f72q8u4y",
+      "eventId": "evt-3xF3F3ZaJP4REwg",
+      "fetchedAt": "2026-10-27T12:39:20.424Z",
+      "method": "luma-page"
+    },
+    "id": "ibw-luma-evt-3xF3F3ZaJP4REwg",
+    "slug": "pizzaprotocols",
+    "url": "https://luma.com/f72q8u4y",
+    "source": "curated-reviewed",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/f72q8u4y",
+      "fetchedAt": "2026-10-27T12:39:20.424Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Pizza, Protocols & People 🍕 · Luma",
+      "sha256": "87bd3c27decd353f592648c443ad42bd07c0faaea4dba43db801d0401165aa9d",
+      "evidence": [
+        {
+          "url": "https://luma.com/f72q8u4y",
+          "fetchedAt": "2026-10-27T12:39:20.424Z",
+          "sha256": "2cf37d0a6600303bef8978400a47c41b48f7b21fb72f898902d001572c5cca11",
+          "retrievedVia": "Public primary HTTP response",
+          "representation": "html"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Practical Privacy Day at Devcon Mumbai",
+    "startDate": "2026-11-05T04:00:00.000Z",
+    "endDate": "2026-11-05T12:00:00.000Z",
+    "description": "⚠️ IMPORTANT: Access to the hub is only for Devcon ticket holders. Get yours here. (https://devcon.org/en/tickets/)\n\nPrivacy gives you the freedom to act on your own terms. Join us at the Practical Privacy Day to meet the builders working on privacy across Ethereum and beyond, and learn how you can take more control over your data.\n\nYou’ll hear how teams are bringing privacy to Ethereum’s L1 and explore different approaches to privacy-centric L2s. See open-source hardware wallets in action and learn how to prepare for a post-quantum future. We’ll explore practical tools you can use day-to-day, from VPNs, AI tools that respect your data, to open-source alternatives.\n\nThe day is designed for anyone and everyone interested in on and offchain privacy solutions. No technical knowledge required.\n\nSchedule\n\n10:00 - 10:30 | Privacy 101: What is Privacy and Why Should You Care | Kyle (https://x.com/PryvitKyle) (Brave)\n10:40 - 11:30 | Achieving Privacy on Ethereum L1 | Mike (https://x.com/0xmikemcc) (Privacy Pools), Kieran (https://x.com/mesquka) (Railgun), Gavin (https://x.com/Ether_Gavin) (Armada), Migle (https://x.com/rakymnft) (zERC20)\n11:40 - 12:10 | Open-source hardware wallets with Keycard | Devisha (https://x.com/_devisha) (Keycard)\n12:30 - 13:30 | Lunch Break\n13:30 - 14:20 | Privacy L2s: Different Methodologies to Achieve Privacy | Zac (https://x.com/Zac_Aztec) (Aztec), Leona (https://x.com/HiokiLeona) (INTMAX), and Dominik (https://x.com/schmiddominik1) (Miden)\n14:30 - 15:00 | Utilising AI Agents to Analyse Genomic Data in a Privacy Preserving Manner | Péter (https://x.com/peter_szilagyi) (Dark Bio)\n15:00 - 15:30 | Afternoon Tea Break\n15:30 - 15:50 | Privacy x AI: Achieving privacy in the age of AI agents | Jseam (https://x.com/henlojseam) \n16:00 - 16:20 | Privacy and Hardware Wallets in a Post-Quantum World | Markus (https://x.com/mhaas_eth) and Nicola (https://x.com/nceornea_eth) (FreedomFactory)\n16:30 - 16:50 | Decentralise your life: a practical talk on FOSS tools for everyday privacy  | Ben (https://x.com/unhappyben), Vaelyn (https://x.com/Cyph3rVae) (ETHPanda)\n\nPractical Privacy Day is part of the Devcon Privacy Community Hub aimed at bringing privacy to everyone. Four awesome days filled with amazing speakers talking about the future of privacy - follow the hub page for more info about other days: https://luma.com/qzlsn6lt\n\n⚠️ Note: The Privacy Hub is part of the Devcon 8 Community Hubs and is only accessible to Devcon 8 ticket holders. A valid Devcon ticket is required to enter.",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/h6e3ctg6",
+    "coverImage": "/events/practicalprivacy-a49b06ca.webp",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Jio World Convention Centre, Jio World Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098, India",
+    "venueName": "Jio World Convention Centre",
+    "streetAddress": "Jio World Centre, Jio World Convention Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai",
+    "addressLocality": "Mumbai",
+    "addressRegion": "Maharashtra",
+    "addressCountry": "IN",
+    "neighborhood": "G Block BKC",
+    "coordinates": {
+      "latitude": 19.063481499999998,
+      "longitude": 72.8657772
+    },
+    "hosts": [
+      "Vaelyn Luo",
+      "Lukas ⟠",
+      "Ben"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/h6e3ctg6",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/h6e3ctg6",
+      "eventId": "evt-H9Bv5SoWd40O8eC",
+      "fetchedAt": "2026-10-27T12:39:52.101Z",
+      "method": "luma-page"
+    },
+    "id": "ibw-luma-evt-H9Bv5SoWd40O8eC",
+    "slug": "practicalprivacy",
+    "url": "https://luma.com/h6e3ctg6",
+    "source": "curated-reviewed",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/h6e3ctg6",
+      "fetchedAt": "2026-10-27T12:39:52.101Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Practical Privacy Day @ Devcon Mumbai · Luma",
+      "sha256": "46b1018316fb886b5bd1bdaf0aee22a00e72ca507bb9e67c66c3978bad8c0c33",
+      "evidence": [
+        {
+          "url": "https://luma.com/h6e3ctg6",
+          "fetchedAt": "2026-10-27T12:39:52.101Z",
+          "sha256": "7fbff24b2db1cff89ddcc7c5c242c159ad617efe9e14e4ec4291336ffcbd2e4d",
+          "retrievedVia": "Public primary HTTP response",
+          "representation": "html"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Zcash Educational Forum & University Mixer",
+    "startDate": "2026-11-05T15:00:00.000Z",
+    "endDate": "2026-11-05T17:30:00.000Z",
+    "description": "Join Zcash in India during Devcon 8 🇮🇳\n\nWe will be hosting a dedicated morning featuring 2 educational sessions:\n\n\n• Introduction to Zcash- the mechanics behind ZEC, what powers privacy onchain and a look into the shielded ecosystem,\n• Opportunities within the Zcash ecosystem- from community building to developer grants and more!\n\nMeet the Zcash India team as well as active grant recipients, privacy advocates and educators and developers.\n\nThe 2 sessions will be followed up by lunch and refreshments as well as custom Zcash India merch to celebrate Devcon 8 and giveaways 👀\n\nHope to see you there!",
+    "timezone": "America/New_York",
+    "registrationUrl": "https://luma.com/3fid49nj",
+    "coverImage": "/events/zcashforum-37663d84.webp",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Location to be announced",
+    "venueName": "Pillai HOC College of Engineering & Technology (Autonomous) पिल्लई एच ओ सी अभियांत्रिकी आणि तंत्रज्ञान महाविद्यालय, रसायनी",
+    "hosts": [
+      "Kate Stapleton",
+      "Mylo Bennett",
+      "Mandar Pandagale"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "ZECsy Events",
+      "url": "https://zecsy.com/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/3fid49nj",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/3fid49nj",
+      "eventId": "evt-kGt7AWmF9nKwHHT",
+      "fetchedAt": "2026-10-27T12:39:54.191Z",
+      "method": "luma-page"
+    },
+    "id": "ibw-luma-evt-kGt7AWmF9nKwHHT",
+    "slug": "zcashforum",
+    "url": "https://luma.com/3fid49nj",
+    "source": "curated-reviewed",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/3fid49nj",
+      "fetchedAt": "2026-10-27T12:39:54.191Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Zcash Educational Forum & University Mixer · Luma",
+      "sha256": "c339bff0c53d4f14341dd6cc52b4225277f503b9294d1d76dd62696cc0d9e55d",
+      "evidence": [
+        {
+          "url": "https://luma.com/3fid49nj",
+          "fetchedAt": "2026-10-27T12:39:54.191Z",
+          "sha256": "06d5d01ec396f23460e308419e6ea12bfd77c502e2826b3dd54d8dfe398e08ac",
+          "retrievedVia": "Public primary HTTP response",
+          "representation": "html"
+        }
+      ]
+    }
+  },
+  {
+    "name": "The India House",
+    "startDate": "2026-11-06T12:30:00.000Z",
+    "endDate": "2026-11-06T19:30:00.000Z",
+    "description": "One night. A thousand flavours of India.\n\nWelcome to The India House — a celebration of Indian culture, community, and the people building the future of Web3.\n\nFrom regional Indian food and Diwali-inspired lights to unexpected games, a little Garba, and plenty of friendly chaos, we’re bringing together Indian founders, Web3 builders, ecosystem leaders, and global friends for a night that feels different from the usual conference side event.\n\n✨ What to expect\n\nA Taste of India — Discover regional flavours and food that tell stories from across the country.\n\nIndian Festival Energy — Experience vibrant decor, warm lights, music, and the spirit of togetherness.\n\nGames, Garba & Friendly Chaos\n\nUnexpected activities, cultural moments, and opportunities to join the fun, even if it’s your first time experiencing them.\n\nConnections Beyond the Conference - Meet founders, builders, investors, and curious minds from India and around the world. You never know which conversation could turn into your next collaboration.\n\nOne Community, Many Cultures\n\nCelebrate the diversity of India while connecting with the global Web3 ecosystem.Come for the culture. Stay for the people. Leave with stories.\n\n📍 Mumbai, India\n📅 During Devcon week\n👥 An intimate gathering planned for approximately 100 participants\n\nMore details, venue information, and attendance updates will be shared soon.\n\nCome experience India, under one roof.",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/i4bpbsxn",
+    "coverImage": "/events/indiahouse-f6968c9d.webp",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra, India",
+    "venueName": "Bandra Kurla Complex",
+    "addressLocality": "Mumbai",
+    "addressRegion": "Maharashtra",
+    "addressCountry": "IN",
+    "neighborhood": "Bandra Kurla Complex",
+    "coordinates": {
+      "latitude": 19.0687893,
+      "longitude": 72.87026469999999
+    },
+    "hosts": [
+      "Jigyasa Vaishnav"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/i4bpbsxn",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/i4bpbsxn",
+      "eventId": "evt-KFAiFGbSf0EbFnU",
+      "fetchedAt": "2026-10-27T12:39:56.403Z",
+      "method": "luma-page"
+    },
+    "id": "ibw-luma-evt-KFAiFGbSf0EbFnU",
+    "slug": "indiahouse",
+    "url": "https://luma.com/i4bpbsxn",
+    "source": "curated-reviewed",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/i4bpbsxn",
+      "fetchedAt": "2026-10-27T12:39:56.403Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "The India house · Luma",
+      "sha256": "9b0d05c220b193850aa95deebd70b850148e757aec9f249e3c8315bcad1b02fe",
+      "evidence": [
+        {
+          "url": "https://luma.com/i4bpbsxn",
+          "fetchedAt": "2026-10-27T12:39:56.403Z",
+          "sha256": "de55b63dc5e3eee3e45d12d866db46556684bf4d305d402e4bfc800dc8b7bf6f",
+          "retrievedVia": "Public primary HTTP response",
+          "representation": "html"
+        }
+      ]
+    }
   }
 ]
