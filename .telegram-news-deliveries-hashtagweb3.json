@@ -2350,5 +2350,36 @@
     "slotKey": "2026-10-27:morning",
     "messageId": 155945,
     "sentAt": "2026-10-27T03:43:53.383Z"
+  },
+  "ec32d64b-5211-4bbf-af42-48dd6a2c2261": {
+    "status": "reserved",
+    "reservedAt": "2026-10-27T19:35:49.581Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Canada releases draft regulations for stablecoin issuers",
+        "summary": "Issuers must hold local reserves, process redemptions within three days, and cannot pay interest to token holders.",
+        "link": "https://hashtagweb3.com/canadastablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Canada Opens 60-Day Consultation on Draft Stablecoin Rules"
+      },
+      {
+        "index": -1,
+        "headline": "Keystone destroys 19,000 hardware wallets after security breach",
+        "summary": "An intruder accessed 26,000 shipping records and a verification key, leading the company to suspend all shipments.",
+        "link": "https://hashtagweb3.com/keystonebreach?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Keystone to destroy almost 19,000 wallets after breach exposes customer data and device verification key"
+      },
+      {
+        "index": -1,
+        "headline": "Initia bridge exploit drains USDC reserves to $63",
+        "summary": "An October 23 hack created unbacked tokens and depleted bridge reserves, causing user withdrawal failures.",
+        "link": "https://hashtagweb3.com/initiareserve?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Initia hack drove its USDC bridge reserve down to $63 as withdrawals failed"
+      }
+    ],
+    "slotKey": "2026-10-27:evening"
   }
 }
