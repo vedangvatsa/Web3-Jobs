@@ -64050,7 +64050,8 @@
       },
       "account": "channel:dev",
       "attemptId": "b114f4d0-3465-428d-b38b-e89e5bdf689a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4e594ce758545706db2656cdf5c949d7b2a46f3c"
     }
   ]
 }
