@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-10-26T03:36:02.517Z",
+  "checkedAt": "2026-10-27T03:45:14.086Z",
   "dryRun": false,
-  "before": 1486,
-  "after": 1486,
+  "before": 1530,
+  "after": 1530,
   "added": [],
   "removed": [],
   "failures": 3,
@@ -14,15 +14,15 @@
         "url": "https://www.coinmotion.com/careers/",
         "finalUrl": "https://careers.coinmotion.com/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:34:45.016Z",
-        "bodySha256": "8d0d89a95a8689103be2d319d5b0a1601c26fff6df31c80b253fa15876d27943"
+        "checkedAt": "2026-10-27T03:44:09.823Z",
+        "bodySha256": "6cc92b802ca5032c47b29b7cabdb5ab1404d9f8f335c86f1fd3b133ba49a2919"
       },
       "board": {
         "url": "https://www.coinmotion.com/careers/",
         "finalUrl": "https://careers.coinmotion.com/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:34:45.016Z",
-        "bodySha256": "8d0d89a95a8689103be2d319d5b0a1601c26fff6df31c80b253fa15876d27943"
+        "checkedAt": "2026-10-27T03:44:09.823Z",
+        "bodySha256": "6cc92b802ca5032c47b29b7cabdb5ab1404d9f8f335c86f1fd3b133ba49a2919"
       },
       "fetched": 0,
       "roles": []
@@ -34,14 +34,14 @@
         "url": "https://pdax.ph/careers/",
         "finalUrl": "https://pdax.ph/careers/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:34:47.692Z",
-        "bodySha256": "ae6baa710f33dce94c692740afaf215d3c86ce4740b2f247313d8a2fa9a2e617"
+        "checkedAt": "2026-10-27T03:44:11.639Z",
+        "bodySha256": "e1b502857447ec1a328ca3c74e8f8acf11a7ebb538a865c1a2d3e56ec8bceaa9"
       },
       "board": {
         "url": "https://pdax.darwinbox.com/ms/candidate/careers",
         "finalUrl": "https://pdax.darwinbox.com/ms/candidate/careers",
         "status": 200,
-        "checkedAt": "2026-10-26T03:34:48.519Z",
+        "checkedAt": "2026-10-27T03:44:13.005Z",
         "bodySha256": "64123d6ebd07aeef58922464186dbffe68dfc041c2ef30b9e053dbb252a66bc5"
       },
       "fetched": null,
@@ -54,14 +54,14 @@
         "url": "https://foxbit.com.br/carreira",
         "finalUrl": "https://foxbit.com.br/carreira",
         "status": 200,
-        "checkedAt": "2026-10-26T03:34:48.747Z",
+        "checkedAt": "2026-10-27T03:44:13.209Z",
         "bodySha256": "9287ddc8f5a4d71f0f837312bce1bc77625e2216cebbb64e1b2f4999ad8eb467"
       },
       "board": {
         "url": "https://foxbit.com.br/carreira",
         "finalUrl": "https://foxbit.com.br/carreira",
         "status": 200,
-        "checkedAt": "2026-10-26T03:34:48.747Z",
+        "checkedAt": "2026-10-27T03:44:13.209Z",
         "bodySha256": "9287ddc8f5a4d71f0f837312bce1bc77625e2216cebbb64e1b2f4999ad8eb467"
       },
       "fetched": null,
@@ -74,15 +74,15 @@
         "url": "https://www.finoa.io/careers",
         "finalUrl": "https://www.finoa.io/careers",
         "status": 200,
-        "checkedAt": "2026-10-26T03:34:49.052Z",
+        "checkedAt": "2026-10-27T03:44:13.265Z",
         "bodySha256": "3600e3b48cdef819ca827dda92e9de4d0bf5cd892ea387ce36e6de076057a42e"
       },
       "board": {
         "url": "https://finoa.jobs.personio.com/",
         "finalUrl": "https://finoa.jobs.personio.com/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:34:49.813Z",
-        "bodySha256": "929baa05d4060bbeb05fac0519dab39cde12e246f658ef5cd2eb6bb546624cc0"
+        "checkedAt": "2026-10-27T03:44:14.073Z",
+        "bodySha256": "eac2559e38c6209935d62559b0a7c1de7d2d1219942d94dfd0088f397c464b7c"
       },
       "fetched": null,
       "eligible": null
@@ -94,15 +94,15 @@
         "url": "https://www.taurushq.com/careers/",
         "finalUrl": "https://www.taurushq.com/careers/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:34:50.132Z",
+        "checkedAt": "2026-10-27T03:44:14.298Z",
         "bodySha256": "ac28572bdba872f26b32c13789cc63386c251a85ba89ec986874df04a6f0bdac"
       },
       "board": {
         "url": "https://join.com/companies/taurusgroup",
         "finalUrl": "https://join.com/companies/taurusgroup",
         "status": 200,
-        "checkedAt": "2026-10-26T03:34:50.225Z",
-        "bodySha256": "5222aabdf47899b0b00fa0f4f5164ca68642148deead1b00fb5f11c2255652c2"
+        "checkedAt": "2026-10-27T03:44:14.434Z",
+        "bodySha256": "d259061bbb1e2792e7e47a475cbeb96b4a4ff42e9ecc01ce2d033a43f6c70076"
       },
       "fetched": null,
       "eligible": null
@@ -114,15 +114,15 @@
         "url": "https://xrex.io/careers",
         "finalUrl": "https://xrex.io/careers",
         "status": 200,
-        "checkedAt": "2026-10-26T03:34:50.773Z",
+        "checkedAt": "2026-10-27T03:44:15.190Z",
         "bodySha256": "f385d48e9b6bda2244f4f4a0ef884011d2b4662b6c93489a1e94614b763c3ad9"
       },
       "board": {
         "url": "https://xrex.breezy.hr/",
         "finalUrl": "https://xrex.breezy.hr/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:34:51.177Z",
-        "bodySha256": "564bcef0f8f95665a1aa3801ecfdd36a1cf58d7c920a9dcd495667e7fd3516f8"
+        "checkedAt": "2026-10-27T03:44:15.542Z",
+        "bodySha256": "2032adcf6f5fc17967f905056e8d8f0a7552dbf421a31fca136f802b8ef308be"
       },
       "fetched": 5,
       "roles": [
@@ -135,8 +135,8 @@
             "url": "https://xrex.breezy.hr/p/fd5dd21c190a-aml-specialist",
             "finalUrl": "https://xrex.breezy.hr/p/fd5dd21c190a-aml-specialist",
             "status": 200,
-            "checkedAt": "2026-10-26T03:34:52.331Z",
-            "bodySha256": "fb2225dbb67819fe1a0e9af955f14e6d9be7e79aad4c792b0f0947554d1342a1"
+            "checkedAt": "2026-10-27T03:44:16.615Z",
+            "bodySha256": "8aeab1528e6f83536678e3d3761667222dc730cf331b6017dc37de717246afb5"
           }
         },
         {
@@ -148,8 +148,8 @@
             "url": "https://xrex.breezy.hr/p/4735d65a323f-security-engineer",
             "finalUrl": "https://xrex.breezy.hr/p/4735d65a323f-security-engineer",
             "status": 200,
-            "checkedAt": "2026-10-26T03:34:53.049Z",
-            "bodySha256": "b4d75a85d7a8c6b7a413049689369564825d0a18daf7d2b90651de273cc3906b"
+            "checkedAt": "2026-10-27T03:44:17.346Z",
+            "bodySha256": "41dab608fc49c300e55872ca21ae8d7d88ececda3ea8ef1f77cf9a5e245cf3c5"
           }
         },
         {
@@ -161,8 +161,8 @@
             "url": "https://xrex.breezy.hr/p/34773f42b610-senior-compliance-specialist",
             "finalUrl": "https://xrex.breezy.hr/p/34773f42b610-senior-compliance-specialist",
             "status": 200,
-            "checkedAt": "2026-10-26T03:34:53.764Z",
-            "bodySha256": "c8f7cead7f57ae423d0011c0036ec22ad1b597c21d7a93b81b66bf9aa6c08c77"
+            "checkedAt": "2026-10-27T03:44:18.026Z",
+            "bodySha256": "b62fb614e120bcb72b623549ea1a4f1c1572f1190500e5924b9d7bf9eea3896a"
           }
         },
         {
@@ -174,8 +174,8 @@
             "url": "https://xrex.breezy.hr/p/3fafbab506c4-senior-java-backend-developer",
             "finalUrl": "https://xrex.breezy.hr/p/3fafbab506c4-senior-java-backend-developer",
             "status": 200,
-            "checkedAt": "2026-10-26T03:34:54.592Z",
-            "bodySha256": "2f3fed9a33cb86e42ad0768ed85a8046bab2182aa8283eb8bb72ab9b44a82a82"
+            "checkedAt": "2026-10-27T03:44:18.725Z",
+            "bodySha256": "77b643fd46ca2da77891b1cfb3cc7d50e617f21beb288b4373655c8b590a30ac"
           }
         },
         {
@@ -187,8 +187,8 @@
             "url": "https://xrex.breezy.hr/p/0c272538f064-senior-project-manager",
             "finalUrl": "https://xrex.breezy.hr/p/0c272538f064-senior-project-manager",
             "status": 200,
-            "checkedAt": "2026-10-26T03:34:55.350Z",
-            "bodySha256": "d2f96eaa2d7336fe703f990e32a6b9e2cd29091f676d5f56494cb082f5c36618"
+            "checkedAt": "2026-10-27T03:44:19.415Z",
+            "bodySha256": "bef258b1c4bc08a9620324b6f170c0547f48470d529f8a2c8cfd18ed8818cc63"
           }
         }
       ]
@@ -200,15 +200,15 @@
         "url": "https://finst.com/en",
         "finalUrl": "https://finst.com/en",
         "status": 200,
-        "checkedAt": "2026-10-26T03:34:55.965Z",
-        "bodySha256": "295956fd3a40d3ff86b230241920cd3a0ea7aca2e5d0c7f3d98e0e7497386324"
+        "checkedAt": "2026-10-27T03:44:19.804Z",
+        "bodySha256": "d2b6feccbd26fb5928f8d004df49abd0c358dc89d53074c017007c0d69dd3b03"
       },
       "board": {
         "url": "https://finst.welcomekit.co/",
         "finalUrl": "https://finst.welcomekit.co/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:34:56.490Z",
-        "bodySha256": "f4bdf7aee116ddc7e33d439060aad24f1b6bd55b115fea0f6fa8aece4f98f096"
+        "checkedAt": "2026-10-27T03:44:20.226Z",
+        "bodySha256": "e76d262b1b8fc87719af35fc77dd2b57c6519afbe2850221e67067300f8be739"
       },
       "fetched": null,
       "eligible": null
@@ -220,15 +220,15 @@
         "url": "https://breet.io/career",
         "finalUrl": "https://breet.io/career",
         "status": 200,
-        "checkedAt": "2026-10-26T03:34:57.314Z",
-        "bodySha256": "982ad1ab095218039c6de9fd2fcca112aad05c1661f4bfb267da721f714c042e"
+        "checkedAt": "2026-10-27T03:44:20.910Z",
+        "bodySha256": "fc78a6b83babec274d1646af9de8d9cfcdc29685af9654dc695effbfbf47d892"
       },
       "board": {
         "url": "https://breet.io/career",
         "finalUrl": "https://breet.io/career",
         "status": 200,
-        "checkedAt": "2026-10-26T03:34:57.314Z",
-        "bodySha256": "982ad1ab095218039c6de9fd2fcca112aad05c1661f4bfb267da721f714c042e"
+        "checkedAt": "2026-10-27T03:44:20.910Z",
+        "bodySha256": "fc78a6b83babec274d1646af9de8d9cfcdc29685af9654dc695effbfbf47d892"
       },
       "fetched": null,
       "eligible": null
@@ -240,15 +240,15 @@
         "url": "https://bit2me.com/",
         "finalUrl": "https://bit2me.com/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:34:57.503Z",
-        "bodySha256": "bbf3946769abb5274c233416a5bbee00f18d2b431798eedc4421cdcb1ee3b7ec"
+        "checkedAt": "2026-10-27T03:44:20.998Z",
+        "bodySha256": "3b1df584f8ab1c2663035c49a25be1504fc15e0048834be2bfab130b803e7cfa"
       },
       "board": {
         "url": "https://empleo.bit2me.com/jobs",
         "finalUrl": "https://empleo.bit2me.com/jobs",
         "status": 200,
-        "checkedAt": "2026-10-26T03:34:58.204Z",
-        "bodySha256": "ea65cb53ce6eec98b0276c1832c5be2db2baaf231de30c171d3ec8b85b421d7e"
+        "checkedAt": "2026-10-27T03:44:21.529Z",
+        "bodySha256": "fdbfc4ec395b4debacfc627a15336f8020dd700afb791c02a139eec22ac27512"
       },
       "fetched": 1,
       "roles": [
@@ -260,15 +260,15 @@
             "url": "https://empleo.bit2me.com/jobs/legal-compliance-operations-intern-bit2me-stx",
             "finalUrl": "https://empleo.bit2me.com/jobs/legal-compliance-operations-intern-bit2me-stx",
             "status": 200,
-            "checkedAt": "2026-10-26T03:34:59.257Z",
-            "bodySha256": "8b3ea37e89f1618536c723c39e391070377236dee428ca812df84f8d16c4d5e3"
+            "checkedAt": "2026-10-27T03:44:22.528Z",
+            "bodySha256": "92ca5c1c8761813c56b7a8a9f3d568a6eedfc0e0dbfcbf7c7bc165cf289301e2"
           },
           "application": {
             "url": "https://empleo.bit2me.com/registration/new?job_id=legal-compliance-operations-intern-bit2me-stx",
             "finalUrl": "https://empleo.bit2me.com/registration/new?job_id=legal-compliance-operations-intern-bit2me-stx",
             "status": 200,
-            "checkedAt": "2026-10-26T03:34:59.813Z",
-            "bodySha256": "2c6cf347698569ceb6cf6643d8327caee528fbf4b8b8cc3252582464586eb863"
+            "checkedAt": "2026-10-27T03:44:23.064Z",
+            "bodySha256": "ceba34bb1a322072a7d78e40c90d44ba97d9aff14187b9b734faa71b039da6d0"
           }
         }
       ]
@@ -280,14 +280,14 @@
         "url": "https://honeycoin.app/",
         "finalUrl": "https://honeycoin.app/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:00.002Z",
-        "bodySha256": "e72d4461df4b448b48afc3c4b3689e20cdcce68efbb10bb71c1cd653d9deb3ac"
+        "checkedAt": "2026-10-27T03:44:23.330Z",
+        "bodySha256": "92b5202a8fbb3ea7ec2029a161021102a817530e2f394749844867dd5d3462e1"
       },
       "board": {
         "url": "https://honeycoin.careers.hibob.com/",
         "finalUrl": "https://honeycoin.careers.hibob.com/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:00.572Z",
+        "checkedAt": "2026-10-27T03:44:23.792Z",
         "bodySha256": "a8d7c3e7766857bcd39ab6541bf416dc81d765ee3c065f9966848cc9ffed3d14"
       },
       "fetched": null,
@@ -306,14 +306,14 @@
         "url": "https://21bitcoin.app",
         "finalUrl": "https://21bitcoin.app",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:00.901Z",
+        "checkedAt": "2026-10-27T03:44:23.919Z",
         "bodySha256": "e10254669563724f852ab3d3c196a99dfb8ad49f50f47df81fff62b5be36733c"
       },
       "board": {
         "url": "https://21bitcoin.app/karriere",
         "finalUrl": "https://21bitcoin.app/karriere",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:01.312Z",
+        "checkedAt": "2026-10-27T03:44:24.306Z",
         "bodySha256": "19d762d7f97777b7196d01ba014330919f4078acaa6d00c22eefbb4cc97e335d"
       },
       "fetched": null,
@@ -326,14 +326,14 @@
         "url": "https://aquanow.io",
         "finalUrl": "https://www.aquanow.com/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:01.499Z",
+        "checkedAt": "2026-10-27T03:44:24.631Z",
         "bodySha256": "d92fee695915f069812eee9aca632d1eb88bba63404a01a040bff9c0070272fa"
       },
       "board": {
         "url": "https://www.aquanow.com/careers",
         "finalUrl": "https://www.aquanow.com/careers",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:01.881Z",
+        "checkedAt": "2026-10-27T03:44:25.011Z",
         "bodySha256": "0ec7ce7fe9e04b8cc0ee917706a86129488d76a2124b50dbc16ff5915f6e9972"
       },
       "fetched": null,
@@ -346,15 +346,15 @@
         "url": "https://bisonapp.com",
         "finalUrl": "https://bisonapp.com",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:01.977Z",
-        "bodySha256": "33965a1822428460e60a5b2f86599dbf78a933590f9bf686dd0a06d89f6dc1c5"
+        "checkedAt": "2026-10-27T03:44:25.101Z",
+        "bodySha256": "c2819bfa6dcd937785e83f962930a33da741f9d3d17e3a4a390c17ee4325e8b3"
       },
       "board": {
         "url": "https://bisonapp.com/karriere/",
         "finalUrl": "https://bisonapp.com/karriere/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:02.693Z",
-        "bodySha256": "d37ee7e53f13ab986cab9affd3d74fa8b848a3f11741a0074de88f82c03a9f30"
+        "checkedAt": "2026-10-27T03:44:25.838Z",
+        "bodySha256": "b01d07ad6c3f96148a759f5260eb3ac226e4c7519bc072588de6d7918e2986e6"
       },
       "fetched": null,
       "eligible": null
@@ -366,15 +366,15 @@
         "url": "https://corporate.bitbank.cc/recruit?utm_source=service&utm_medium=referral&utm_campaign=cc",
         "finalUrl": "https://corporate.bitbank.cc/recruit?utm_source=service&utm_medium=referral&utm_campaign=cc",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:03.240Z",
-        "bodySha256": "5a4d8a5844025d786610ef1b1be6308850ac64f67d5bbddf005a31a7ac3f73f1"
+        "checkedAt": "2026-10-27T03:44:26.490Z",
+        "bodySha256": "a97470b05e14b4e1064d1875eb4f5d2db482aa06a49931eae1403e22439d18dd"
       },
       "board": {
         "url": "https://hrmos.co/pages/bitbank/jobs",
         "finalUrl": "https://hrmos.co/pages/bitbank/jobs",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:04.213Z",
-        "bodySha256": "7630069559565dcefd83c0ef76551ac861a29007b13aa41c6eb84a7255e438ec"
+        "checkedAt": "2026-10-27T03:44:27.175Z",
+        "bodySha256": "154c1e762cb8857f4d80aa0c994537e298a540d18daed7097cca70ecba15635c"
       },
       "fetched": null,
       "eligible": null
@@ -386,14 +386,14 @@
         "url": "https://bitcoinsuisse.com",
         "finalUrl": "https://bitcoinsuisse.com",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:05.452Z",
+        "checkedAt": "2026-10-27T03:44:28.314Z",
         "bodySha256": "8bcc328e8cf683aa5c4d0cf3f3829663e013f098c77b5a79c523b70c72f2de52"
       },
       "board": {
         "url": "https://bitcoinsuisse.com/careers",
         "finalUrl": "https://bitcoinsuisse.com/careers",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:05.907Z",
+        "checkedAt": "2026-10-27T03:44:28.773Z",
         "bodySha256": "22907a2650ad30074af3b6060b3cdfdbdf93b51e5abbda228447c72039b7614d"
       },
       "fetched": null,
@@ -406,15 +406,15 @@
         "url": "https://bitmama.io",
         "finalUrl": "https://bitmama.io",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:05.999Z",
-        "bodySha256": "4749c4f882735e64a80865005a8d234ad49e7ddcab689ae767fc1ce0c6b47e6e"
+        "checkedAt": "2026-10-27T03:44:28.847Z",
+        "bodySha256": "7f81cfac01cfdaf6db7ee1c0b9230d91b4015d50cdac7e2ffe107c0be47a5d73"
       },
       "board": {
         "url": "https://bitmama.io/career/",
         "finalUrl": "https://bitmama.io/career/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:06.491Z",
-        "bodySha256": "00b15e3bfc9f6c4454d3cead68a8c0e7d45140dd77ffb348be62aa16e0394160"
+        "checkedAt": "2026-10-27T03:44:29.261Z",
+        "bodySha256": "2abffd336266ded518e683cc244ee8769b8d99b403edc842530a4d917bb117b2"
       },
       "fetched": null,
       "eligible": null
@@ -426,14 +426,14 @@
         "url": "https://bitnovo.com",
         "finalUrl": "https://www.bitnovo.com/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:07.605Z",
+        "checkedAt": "2026-10-27T03:44:30.284Z",
         "bodySha256": "61a129626168da401b3bddca31cfd851320c66e872860c2b85267913ab4852f8"
       },
       "board": {
         "url": "https://www.bitnovo.com/careers",
         "finalUrl": "https://www.bitnovo.com/careers",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:08.432Z",
+        "checkedAt": "2026-10-27T03:44:31.057Z",
         "bodySha256": "830d5919c5304a03e608b2222aae76e6445f5f4ce5b935a65d36c01b84e8e2ea"
       },
       "fetched": null,
@@ -446,15 +446,15 @@
         "url": "https://cashlink.de",
         "finalUrl": "https://cashlink.de/de/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:10.273Z",
-        "bodySha256": "c742a1b69e1328c4d2827b00b9b830053241f483b5de37a19cf95c7954424219"
+        "checkedAt": "2026-10-27T03:44:33.040Z",
+        "bodySha256": "9f84bf9f361c1d5957da27c48b648a196793ca51787a38bd29d9a83b6896f2cb"
       },
       "board": {
         "url": "https://cashlink.de/de/jobs/",
         "finalUrl": "https://cashlink.de/de/jobs/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:10.461Z",
-        "bodySha256": "75a43f6a01026406578825e8fa13ceb499188aa6df3763869fb9cec0dd7eac42"
+        "checkedAt": "2026-10-27T03:44:34.937Z",
+        "bodySha256": "14d01dc2cec9b5d364e6756a9c1948a981e701a20bff5d3c919990c0788f805a"
       },
       "fetched": null,
       "eligible": null
@@ -466,17 +466,17 @@
         "url": "https://changeinvest.com",
         "finalUrl": "https://www.changeinvest.com/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:10.745Z",
+        "checkedAt": "2026-10-27T03:44:35.175Z",
         "bodySha256": "c4a4230974e8fd0619504a5d334fb339110a25aa68ad28419ac03af9a32a9191"
       },
       "board": {
         "url": "https://careers.changeinvest.com",
         "finalUrl": "https://careers.changeinvest.com",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:12.064Z",
-        "bodySha256": "e8f32c2be70baefedcf74ef99520632732e4a4f7c7484a56df0fc34525261daa"
+        "checkedAt": "2026-10-27T03:44:35.338Z",
+        "bodySha256": "32fd02460c683823810b2dd98fe4825a714a9fee194f97508cd7eb3966ce1cd7"
       },
-      "fetched": 5,
+      "fetched": 3,
       "roles": [
         {
           "title": "Compliance Specialist (MiFID / Crypto)",
@@ -487,34 +487,8 @@
             "url": "https://careers.changeinvest.com/jobs/8310585-compliance-specialist-mifid-crypto",
             "finalUrl": "https://careers.changeinvest.com/jobs/8310585-compliance-specialist-mifid-crypto",
             "status": 200,
-            "checkedAt": "2026-10-26T03:35:14.054Z",
-            "bodySha256": "711ae4ed2285f5da690c67ac3eda9693ae5c1eafb570094374bb02dde1e96891"
-          }
-        },
-        {
-          "title": "Mobile QA Engineer",
-          "link": "https://careers.changeinvest.com/jobs/8071129-mobile-qa-engineer",
-          "date": "2026-07-15T12:46:05+03:00",
-          "outcome": "expired",
-          "primary": {
-            "url": "https://careers.changeinvest.com/jobs/8071129-mobile-qa-engineer",
-            "finalUrl": "https://careers.changeinvest.com/jobs/8071129-mobile-qa-engineer",
-            "status": 200,
-            "checkedAt": "2026-10-26T03:35:15.281Z",
-            "bodySha256": "5f8e1b6265be0a35ffbaf1dc65ac60f2e8448f946d8330289d0a5d50bc29084e"
-          }
-        },
-        {
-          "title": "Mobile QA Engineer",
-          "link": "https://careers.changeinvest.com/jobs/8069744-mobile-qa-engineer",
-          "date": "2026-07-15T10:51:28+03:00",
-          "outcome": "expired",
-          "primary": {
-            "url": "https://careers.changeinvest.com/jobs/8069744-mobile-qa-engineer",
-            "finalUrl": "https://careers.changeinvest.com/jobs/8069744-mobile-qa-engineer",
-            "status": 200,
-            "checkedAt": "2026-10-26T03:35:16.483Z",
-            "bodySha256": "0c2589ab3a3b62bd2005c477d62568d1187e801b39dcf8dfd1f1540c85f089cc"
+            "checkedAt": "2026-10-27T03:44:36.402Z",
+            "bodySha256": "47380b830666271c193c40c1bbc32fc281542a44386fcc5947ed92bd3ed42e0e"
           }
         },
         {
@@ -526,8 +500,8 @@
             "url": "https://careers.changeinvest.com/jobs/7732147-senior-engineer",
             "finalUrl": "https://careers.changeinvest.com/jobs/7732147-senior-engineer",
             "status": 200,
-            "checkedAt": "2026-10-26T03:35:17.890Z",
-            "bodySha256": "4d26ade19e958c36f75c006603679c13a270addf5556465a4c63d4a61f08b6ba"
+            "checkedAt": "2026-10-27T03:44:36.758Z",
+            "bodySha256": "206d7baa5b1447f49c6dea2abf9f116f95cd6a7a2d57bcc56f917be869e0b100"
           }
         },
         {
@@ -539,8 +513,8 @@
             "url": "https://careers.changeinvest.com/jobs/7707552-senior-engineer",
             "finalUrl": "https://careers.changeinvest.com/jobs/7707552-senior-engineer",
             "status": 200,
-            "checkedAt": "2026-10-26T03:35:19.037Z",
-            "bodySha256": "55eb93a0436deb884368ab195ffa1270debd68c0316eb450f01683bf9db31cef"
+            "checkedAt": "2026-10-27T03:44:37.113Z",
+            "bodySha256": "e61c21d0e02953f3e8b6eb7c69f566adc54b8a678ebe1d289a3ec2539dde7758"
           }
         }
       ]
@@ -552,15 +526,15 @@
         "url": "https://coincash.eu/career",
         "finalUrl": "https://coincash.eu/career",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:19.840Z",
-        "bodySha256": "283692779f4b3f04c7bd88453828fff1d8d5142f2ed22a73b029d50b842c465c"
+        "checkedAt": "2026-10-27T03:44:37.828Z",
+        "bodySha256": "916142ed8184a03b53741eea6e76aa0cb28a8fd8d75021d7c1480edab8617adf"
       },
       "board": {
         "url": "https://coincash.eu/career",
         "finalUrl": "https://coincash.eu/career",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:19.840Z",
-        "bodySha256": "283692779f4b3f04c7bd88453828fff1d8d5142f2ed22a73b029d50b842c465c"
+        "checkedAt": "2026-10-27T03:44:37.828Z",
+        "bodySha256": "916142ed8184a03b53741eea6e76aa0cb28a8fd8d75021d7c1480edab8617adf"
       },
       "fetched": null,
       "eligible": null
@@ -572,15 +546,15 @@
         "url": "https://coincorner.com",
         "finalUrl": "https://www.coincorner.com/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:20.688Z",
-        "bodySha256": "d8b7dc2a8e0503d93ef36173740b8871dcd4d5f3a759f8fe9a06c0ffd1b0f57f"
+        "checkedAt": "2026-10-27T03:44:38.463Z",
+        "bodySha256": "f72ab98312b6cedb6b47d1281d6579ced897c4b98e5368a1034cff4d2d4e944c"
       },
       "board": {
         "url": "https://www.coincorner.com/jobs",
         "finalUrl": "https://www.coincorner.com/jobs",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:21.444Z",
-        "bodySha256": "edebbdb67815e9310670ed3b73d9f6952979d594748aacb258e104ee589874c3"
+        "checkedAt": "2026-10-27T03:44:39.118Z",
+        "bodySha256": "f9c7775f6328436ba65e20bfba1d49dfe0639e6cfb5a748f78a96bf414537dd7"
       },
       "fetched": null,
       "eligible": null
@@ -592,14 +566,14 @@
         "url": "https://coinext.com.br",
         "finalUrl": "https://coinext.com.br",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:21.716Z",
+        "checkedAt": "2026-10-27T03:44:39.365Z",
         "bodySha256": "ca99313a6e8f648b747a0d6ed09037f792f8e23b9c8467d16e3e925b548fcf20"
       },
       "board": {
         "url": "https://coinext.com.br/institucional/vagas",
         "finalUrl": "https://coinext.com.br/institucional/vagas",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:22.120Z",
+        "checkedAt": "2026-10-27T03:44:39.739Z",
         "bodySha256": "f15649d45c17afa6adb3f096ab272027a0af2a036c43c1a1477aae624f5ca6fb"
       },
       "fetched": null,
@@ -612,14 +586,14 @@
         "url": "https://coinfinity.co",
         "finalUrl": "https://coinfinity.co",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:22.222Z",
+        "checkedAt": "2026-10-27T03:44:39.823Z",
         "bodySha256": "2a4652c5e71107e1f4ac18b83bca9882fd7471eabd32d064231d8b1218aab6d7"
       },
       "board": {
         "url": "https://coinfinity.co/karriere",
         "finalUrl": "https://coinfinity.co/karriere",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:22.597Z",
+        "checkedAt": "2026-10-27T03:44:40.200Z",
         "bodySha256": "c2faa4d2f3b4f7625238d25c8b023f2f894bf4194ab4bcc110e5501f873490f6"
       },
       "fetched": null,
@@ -632,15 +606,15 @@
         "url": "https://deblock.com",
         "finalUrl": "https://deblock.com/en",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:23.675Z",
+        "checkedAt": "2026-10-27T03:44:41.236Z",
         "bodySha256": "8a18a5ecb2568fa35c055e4472dcec8dc3d38af527b24dbbb16eb92556ff2286"
       },
       "board": {
         "url": "https://apply.workable.com/deblock",
         "finalUrl": "https://apply.workable.com/deblock",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:23.789Z",
-        "bodySha256": "db14c1933d5873815e4c8403227e95cd05398f6b588ace51d044f12401435e57"
+        "checkedAt": "2026-10-27T03:44:41.300Z",
+        "bodySha256": "d92caae859e820e3e6d2b627beb7ccab1f4480a9a86c5c7ed30352a4d25a7f6d"
       },
       "fetched": null,
       "eligible": null
@@ -652,15 +626,15 @@
         "url": "https://doublejump.tokyo",
         "finalUrl": "https://www.doublejump.tokyo/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:24.053Z",
+        "checkedAt": "2026-10-27T03:44:41.455Z",
         "bodySha256": "4bbbe1f60ae95b7048225f55dbc7841df73cba483092307e45dc908a04e82e77"
       },
       "board": {
         "url": "https://herp.careers/v1/doublejump",
         "finalUrl": "https://herp.careers/v1/doublejump",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:24.820Z",
-        "bodySha256": "1f24eca6936c9bb1ce037cb3b21815e23ae018b0569afdda160857db95de1ab6"
+        "checkedAt": "2026-10-27T03:44:41.841Z",
+        "bodySha256": "21d6a6ce3064768f6dd9962d87d330a8c62a167873f05909d7e6142b980aedde"
       },
       "fetched": null,
       "eligible": null
@@ -672,14 +646,14 @@
         "url": "https://flitpay.com",
         "finalUrl": "https://www.flitpay.com/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:26.479Z",
-        "bodySha256": "a8a6d92d621dd034d6d4bdf8127eb41e11f587957450db5c474e4a20168af0ed"
+        "checkedAt": "2026-10-27T03:44:43.163Z",
+        "bodySha256": "ebb4470464ea7a0d17db6a3cbea9cbbd6222f11fbe0a3f1566f1132e0d260894"
       },
       "board": {
         "url": "https://www.flitpay.com/careers",
         "finalUrl": "https://www.flitpay.com/careers",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:36.242Z",
+        "checkedAt": "2026-10-27T03:44:52.777Z",
         "bodySha256": "683550bafafcdc281ba57bbe10c3e840064ba57e478fb3918bc3a8690512ad4c"
       },
       "fetched": null,
@@ -692,14 +666,14 @@
         "url": "https://fomopay.com",
         "finalUrl": "https://www.fomopay.com/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:36.573Z",
+        "checkedAt": "2026-10-27T03:44:53.006Z",
         "bodySha256": "cdd5158ced78cf49b7f8cc4d517e025fb4bd6fecce9c8474db116e2bafbc7481"
       },
       "board": {
         "url": "https://www.fomopay.com/careers",
         "finalUrl": "https://www.fomopay.com/careers",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:36.961Z",
+        "checkedAt": "2026-10-27T03:44:53.385Z",
         "bodySha256": "917011c06b456180bb412dd38408f6ac045652c21301cef4026bf1e28e43fb8f"
       },
       "fetched": null,
@@ -712,14 +686,14 @@
         "url": "https://fuze.finance",
         "finalUrl": "https://fuze.finance",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:37.413Z",
+        "checkedAt": "2026-10-27T03:44:53.445Z",
         "bodySha256": "1120a9b99a8c000f2916a4046c13667d79df95fe0f1bba50faf4d78979acee62"
       },
       "board": {
         "url": "https://fuze.finance/careers",
         "finalUrl": "https://fuze.finance/careers",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:37.783Z",
+        "checkedAt": "2026-10-27T03:44:53.812Z",
         "bodySha256": "c51d2f5676fbf62033eab9fec303e08e70b6ddf1eaee6fe9697f8f268b9f3a1f"
       },
       "fetched": null,
@@ -732,14 +706,14 @@
         "url": "https://ginco.co.jp",
         "finalUrl": "https://www.ginco.co.jp/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:38.314Z",
+        "checkedAt": "2026-10-27T03:44:54.332Z",
         "bodySha256": "5bf2af2d1af7f739f9813fa769a097b6729d5ab6733d36705bfcee5719ee4660"
       },
       "board": {
         "url": "https://www.ginco.co.jp/company/recruit",
         "finalUrl": "https://www.ginco.co.jp/company/recruit",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:39.102Z",
+        "checkedAt": "2026-10-27T03:44:54.952Z",
         "bodySha256": "f76f4ae06900648e5941518c87b88d69fa47657f2cb8462580bbcfc259dac954"
       },
       "fetched": null,
@@ -752,14 +726,14 @@
         "url": "https://hata.io",
         "finalUrl": "https://hata.io/en/gb/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:40.427Z",
+        "checkedAt": "2026-10-27T03:44:56.763Z",
         "bodySha256": "ddc990c6c2e2b36818b226ad2c18829067263ed7ebb00533fb92ec2bd0750c06"
       },
       "board": {
         "url": "https://explore.hata.io/careers",
         "finalUrl": "https://explore.hata.io/careers",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:41.137Z",
+        "checkedAt": "2026-10-27T03:44:57.254Z",
         "bodySha256": "ccd569ea9fa071f922c5b09af75d7385dcf6bb2b9973b3f18f6bcf890cb57c19"
       },
       "fetched": null,
@@ -778,15 +752,15 @@
         "url": "https://lemon.me",
         "finalUrl": "https://lemon.me",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:41.976Z",
-        "bodySha256": "6842b10563317f820577b1d0fa2afeb595098d010072c17848ea9cfa4964d5b7"
+        "checkedAt": "2026-10-27T03:44:58.083Z",
+        "bodySha256": "0fe4d758e81ba68837b5cb43aeadaba44be10f85e9b0c4a31bd80c1b86b168ca"
       },
       "board": {
         "url": "https://lemon.me/careers",
         "finalUrl": "https://lemon.me/careers",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:42.391Z",
-        "bodySha256": "19671ddcaae85510c7b038a8baad658e4f7ccb304959c92afe12f73d15ca5e2b"
+        "checkedAt": "2026-10-27T03:44:58.523Z",
+        "bodySha256": "f2f7725d467d014c256f02b959b911446fb66197b50a7df6d8c00f5db4400b79"
       },
       "fetched": null,
       "eligible": null
@@ -798,15 +772,15 @@
         "url": "https://liminalcustody.com",
         "finalUrl": "https://www.liminalcustody.com/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:47.029Z",
-        "bodySha256": "f47252862ed1c596341894d4e44fb30e78abbec73606a914b4b846fbf7c53e42"
+        "checkedAt": "2026-10-27T03:45:01.487Z",
+        "bodySha256": "7762e41365296be59c0c32e19a45cdc3690162817cdac48c8d0171acb5bbbcbc"
       },
       "board": {
         "url": "https://apply.workable.com/liminalcustody/",
         "finalUrl": "https://apply.workable.com/liminalcustody/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:47.223Z",
-        "bodySha256": "129b35ae01a3c658f9db71924d3b1653d1c1053aa8a1c4a283ea556325764a4f"
+        "checkedAt": "2026-10-27T03:45:01.660Z",
+        "bodySha256": "087b1f569799c9ee3514650b973d7947626900ee855002fe1aa8c9113c1982f3"
       },
       "fetched": null,
       "eligible": null
@@ -824,15 +798,15 @@
         "url": "https://mtpelerin.com",
         "finalUrl": "https://www.mtpelerin.com/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:47.623Z",
-        "bodySha256": "dc6eb7e1f9ebc44480602a2a4423cb93795cefbd06f5bf275369e059630687e8"
+        "checkedAt": "2026-10-27T03:45:02.081Z",
+        "bodySha256": "552d7051094b5d5bc13627fa83e56a8873f48e69379437851477b35288e6b2a1"
       },
       "board": {
         "url": "https://www.mtpelerin.com:443/careers",
         "finalUrl": "https://www.mtpelerin.com:443/careers",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:47.996Z",
-        "bodySha256": "6bfdf81c83e0517e644773138e7a9a33521d0f99687fabb5e519545f65fc1154"
+        "checkedAt": "2026-10-27T03:45:02.470Z",
+        "bodySha256": "6d0ecf2839c6a59963b5ad6b751c109f4d4dc22a1aa8ec3124b95964a4361063"
       },
       "fetched": null,
       "eligible": null
@@ -844,15 +818,15 @@
         "url": "https://nbx.com",
         "finalUrl": "https://nbx.com",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:48.119Z",
-        "bodySha256": "1a398c13af8743527c7d74510049f8245576bfe81bd6f5a9f0fba4cdbd8cdd7a"
+        "checkedAt": "2026-10-27T03:45:02.597Z",
+        "bodySha256": "6e55be83d474882323d81f083f3144b907cf155ec3bbb5c8a1c02dc1f4df854a"
       },
       "board": {
         "url": "https://nbx.com/en/careers",
         "finalUrl": "https://nbx.com/en/careers",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:48.506Z",
-        "bodySha256": "79e3c1da6989383beb6cddae7d60dade22dbb9ece73f57e8bd57d1d92f4cc7f8"
+        "checkedAt": "2026-10-27T03:45:02.993Z",
+        "bodySha256": "178293754ac5e6f0e13aff0fa51fbf5b89dc9dc8f28a4424dfa9936fe60a6e50"
       },
       "fetched": null,
       "eligible": null
@@ -864,14 +838,14 @@
         "url": "https://netcoins.com",
         "finalUrl": "https://netcoins.com",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:48.602Z",
+        "checkedAt": "2026-10-27T03:45:03.056Z",
         "bodySha256": "3878ec0c2af45cccec25143a1b92538a5597710a304d9de537b04a13d11a6590"
       },
       "board": {
         "url": "https://netcoins.com/careers",
         "finalUrl": "https://netcoins.com/careers",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:48.988Z",
+        "checkedAt": "2026-10-27T03:45:03.434Z",
         "bodySha256": "089f181e53f9950a6e059a144a6caa894d443b7856a25adbae21f42598d1cbca"
       },
       "fetched": null,
@@ -884,15 +858,15 @@
         "url": "https://paymium.com",
         "finalUrl": "https://www.paymium.com/en",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:50.711Z",
-        "bodySha256": "48bcb68c9373bf184b2774c03b000de810b26e0b8d0b7b713be85b659930c81e"
+        "checkedAt": "2026-10-27T03:45:04.821Z",
+        "bodySha256": "2f2123a1e4d445056cfbe2dc2a1ef74afb3e13877ed1c542959f33d3c40fa781"
       },
       "board": {
         "url": "https://paymium.welcomekit.co/",
         "finalUrl": "https://paymium.welcomekit.co/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:51.200Z",
-        "bodySha256": "9fc0fe34ccba218a3512f5c75ab4b7641282451d2d4e03225e605619bb810063"
+        "checkedAt": "2026-10-27T03:45:05.205Z",
+        "bodySha256": "e68001ac33012f9eba8f303927c76bc07a8aa20e89832e4de7088c602c23ab7a"
       },
       "fetched": null,
       "eligible": null
@@ -904,15 +878,15 @@
         "url": "https://relai.app",
         "finalUrl": "https://relai.app",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:51.985Z",
-        "bodySha256": "6bcf26363c8dd518a5adf36448adb3d106169df3d63acdaf63492b03478a7dda"
+        "checkedAt": "2026-10-27T03:45:05.475Z",
+        "bodySha256": "426160bf656fd089702354a8036ac852f9e4e3683ae6ca463fe425bacf8f5976"
       },
       "board": {
         "url": "https://relai.app/career/",
         "finalUrl": "https://relai.app/career/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:52.494Z",
-        "bodySha256": "03fe62fbf7e6c0cffc85944dc35e0b13720b31dc782d7bfe9461447b0ace3449"
+        "checkedAt": "2026-10-27T03:45:05.889Z",
+        "bodySha256": "ef3585276a2bb258d0961fd8d881063aba0b65374ef1341259a0b5928ba815e6"
       },
       "fetched": null,
       "eligible": null
@@ -924,15 +898,15 @@
         "url": "https://safello.com",
         "finalUrl": "https://safello.com",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:52.785Z",
+        "checkedAt": "2026-10-27T03:45:06.004Z",
         "bodySha256": "c6affc4b4f8ca3ea7d26c9e07bbfea0639aa01cf5d06e66c7b8ca88a11ab54f4"
       },
       "board": {
         "url": "https://careers.safello.com/",
         "finalUrl": "https://careers.safello.com/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:53.739Z",
-        "bodySha256": "fe2ff3d6074f194cf92be5fa145f41bea80be840e3116988badf09ecbba5a459"
+        "checkedAt": "2026-10-27T03:45:06.237Z",
+        "bodySha256": "8e80461c59fc4aab633f6bac68a59c31360fa2fbea365f39ffb5c6b11b030d18"
       },
       "fetched": 0,
       "roles": []
@@ -944,14 +918,14 @@
         "url": "https://sbivc.co.jp",
         "finalUrl": "https://www.sbivc.co.jp/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:56.228Z",
-        "bodySha256": "db849aae01a70568f91e37eb18e013d1a225321b143efcb1bac33ca2b0608285"
+        "checkedAt": "2026-10-27T03:45:08.919Z",
+        "bodySha256": "ecce36b16179d92aca16aa7e8acbb024e691b5ab7e12f86f8b50c714700efa00"
       },
       "board": {
         "url": "https://www.sbivc.co.jp:443/adoption",
         "finalUrl": "https://www.sbivc.co.jp:443/adoption",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:56.991Z",
+        "checkedAt": "2026-10-27T03:45:09.736Z",
         "bodySha256": "3e22ba33f81084e5d211e2024030c2b27a989df3f4363d8d42a64ad906f7b588"
       },
       "fetched": null,
@@ -964,14 +938,14 @@
         "url": "https://tangany.com",
         "finalUrl": "https://tangany.com",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:57.777Z",
+        "checkedAt": "2026-10-27T03:45:10.415Z",
         "bodySha256": "94bb2b666b44af6eadaa9e332274bff327f821b050602e4f3b5003d355e99572"
       },
       "board": {
         "url": "https://tangany.com/jobs",
         "finalUrl": "https://tangany.com/jobs",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:57.964Z",
+        "checkedAt": "2026-10-27T03:45:10.720Z",
         "bodySha256": "ab807a7e598b0ce3b456290adf933ffae436f3ae9228fc9b5f4a6c6bb1b74cec"
       },
       "fetched": null,
@@ -984,15 +958,15 @@
         "url": "https://www.waltio.com/",
         "finalUrl": "https://www.waltio.com/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:58.691Z",
-        "bodySha256": "9024952cb74440a01ec3db4fc428fbe5a7417fb2ce1b6af7706b46d50b25e231"
+        "checkedAt": "2026-10-27T03:45:11.375Z",
+        "bodySha256": "a8f6297e64d70c7fc239d518f924a3632fe6af2585eb03e3ad3ffc4211ec1051"
       },
       "board": {
         "url": "https://waltio2.odoo.com/en",
         "finalUrl": "https://waltio2.odoo.com/en",
         "status": 200,
-        "checkedAt": "2026-10-26T03:35:59.513Z",
-        "bodySha256": "5af26437ade1efc9796ed88b5abf8c3b579db5e3f166c301bf53499726cc5891"
+        "checkedAt": "2026-10-27T03:45:11.850Z",
+        "bodySha256": "c59864dcb9972ee7b26bdeb41b7cef79a420bf5638ca1968fbe4a4e9ad6bab75"
       },
       "fetched": null,
       "eligible": null
@@ -1004,15 +978,15 @@
         "url": "https://zumo.tech",
         "finalUrl": "https://zumo.co.uk/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:36:00.524Z",
-        "bodySha256": "67867fa3481069560daceef2bf869dbb234d7bd4ddf4e231499c5778454200dd"
+        "checkedAt": "2026-10-27T03:45:12.664Z",
+        "bodySha256": "1b64364d37de4e9a874bf81f84d9849aee6269b428e7ae224bdc732cb665f3b1"
       },
       "board": {
         "url": "https://zumo.co.uk/careers/",
         "finalUrl": "https://zumo.co.uk/careers/",
         "status": 200,
-        "checkedAt": "2026-10-26T03:36:00.867Z",
-        "bodySha256": "519ce947f23e69f5cf6f11c5e909a3eec89555fac3780f4d611d723acf6b5eb5"
+        "checkedAt": "2026-10-27T03:45:13.013Z",
+        "bodySha256": "f4ba5f9a555db46c8afe83a4c04a3d24d98c9f6e75b9961138fa7f517a2a1283"
       },
       "fetched": null,
       "eligible": null
@@ -1024,15 +998,15 @@
         "url": "https://www.swissquote.com/en/careers",
         "finalUrl": "https://www.swissquote.com/en/careers",
         "status": 200,
-        "checkedAt": "2026-10-26T03:36:01.529Z",
-        "bodySha256": "0d1501321627030b317eeac6fe20297fe261255086342ff012995b40b400239d"
+        "checkedAt": "2026-10-27T03:45:13.192Z",
+        "bodySha256": "9f54a745159fa958c9d9557af29fe823daf0e1704eea7540b5c46dece5cac1fc"
       },
       "board": {
         "url": "https://careers.smartrecruiters.com/Swissquote/all-jobs",
         "finalUrl": "https://careers.smartrecruiters.com/Swissquote/all-jobs",
         "status": 200,
-        "checkedAt": "2026-10-26T03:36:02.041Z",
-        "bodySha256": "89bfb4949486ebebb29ba555f629949d29dfe96edb417776256b6c2cef1111d5"
+        "checkedAt": "2026-10-27T03:45:13.679Z",
+        "bodySha256": "f93df3558906bdaeb17a58a1828eab0d90b5981f33e63f4d17e878c10890db9a"
       },
       "fetched": null,
       "eligible": null
