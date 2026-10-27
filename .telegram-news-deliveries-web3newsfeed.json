@@ -2383,5 +2383,36 @@
     "slotKey": "2026-10-26:evening",
     "messageId": 65779,
     "sentAt": "2026-10-26T19:47:51.881Z"
+  },
+  "7b2bcb9d-ac58-4fb4-96d7-3d15159e0b1f": {
+    "status": "reserved",
+    "reservedAt": "2026-10-27T03:45:37.549Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Pump.fun sets in-house bridge as default for crosschain trades",
+        "summary": "Test data indicates buy errors fell to 0.9% while average transaction times decreased to 1.95 seconds.",
+        "link": "https://hashtagweb3.com/pumpbridge?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Pump.fun makes its own Pump Bridge the default crosschain route"
+      },
+      {
+        "index": -1,
+        "headline": "SEC Identifies Asset Tokenization as High-Risk for Clearing Agencies",
+        "summary": "The agency included tokenized assets in its 2027 examination priorities for clearing firms and technology infrastructure oversight.",
+        "link": "https://hashtagweb3.com/sectokenization?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEC Exam Priorities Name Tokenization a High-Risk Area at Clearing Agencies"
+      },
+      {
+        "index": -1,
+        "headline": "Shinhan Card and SBI Test Yen Stablecoin Payments",
+        "summary": "The companies are testing stablecoin-based card payments and transfers for travel and trade between Japan and South Korea.",
+        "link": "https://hashtagweb3.com/shinhanstable?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Shinhan Card and SBI test yen stablecoin payments for Japan-Korea travel"
+      }
+    ],
+    "slotKey": "2026-10-27:morning"
   }
 }
