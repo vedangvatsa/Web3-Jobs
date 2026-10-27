@@ -4945,7 +4945,7 @@
     "sentAt": "2026-10-27T11:33:47.112Z"
   },
   "e5df97e7-d74d-4856-b8cb-3cc5756a2c55": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-27T19:33:51.341Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -5037,6 +5037,8 @@
       }
     ],
     "message": "- Ramp is hiring <a href=\"https://hashtagweb3.com/sls20?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive | SLED</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/arc15?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Architect - TradFi &amp; Digital Asset Systems</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/mkt66?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Machine Learning Engineer, Growth Platform</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/aso39?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Cashiering Associate</a>",
-    "slotKey": "2026-10-27:evening"
+    "slotKey": "2026-10-27:evening",
+    "messageId": 155954,
+    "sentAt": "2026-10-27T19:34:02.648Z"
   }
 }

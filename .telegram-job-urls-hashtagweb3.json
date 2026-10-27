@@ -2009,6 +2009,14 @@
     "lastUrl": "https://hashtagweb3.com/sec91",
     "updatedAt": "2026-10-14T11:32:12.689Z"
   },
+  "8224915": {
+    "slugs": [
+      "mkt66"
+    ],
+    "lastSlug": "mkt66",
+    "lastUrl": "https://hashtagweb3.com/mkt66",
+    "updatedAt": "2026-10-27T19:34:02.648Z"
+  },
   "8225567": {
     "slugs": [
       "arc18"
@@ -8646,5 +8654,29 @@
     "lastSlug": "sls335",
     "lastUrl": "https://hashtagweb3.com/sls335",
     "updatedAt": "2026-10-27T11:33:47.112Z"
+  },
+  "a808d519-404a-4aee-9189-2b1ad62d0330": {
+    "slugs": [
+      "sls20"
+    ],
+    "lastSlug": "sls20",
+    "lastUrl": "https://hashtagweb3.com/sls20",
+    "updatedAt": "2026-10-27T19:34:02.648Z"
+  },
+  "6205545004": {
+    "slugs": [
+      "arc15"
+    ],
+    "lastSlug": "arc15",
+    "lastUrl": "https://hashtagweb3.com/arc15",
+    "updatedAt": "2026-10-27T19:34:02.648Z"
+  },
+  "6231661004": {
+    "slugs": [
+      "aso39"
+    ],
+    "lastSlug": "aso39",
+    "lastUrl": "https://hashtagweb3.com/aso39",
+    "updatedAt": "2026-10-27T19:34:02.648Z"
   }
 }
