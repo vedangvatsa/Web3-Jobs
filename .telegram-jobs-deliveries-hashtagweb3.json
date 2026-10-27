@@ -4825,7 +4825,7 @@
     "sentAt": "2026-10-26T19:39:51.083Z"
   },
   "dbcbb91d-9817-4abb-bfeb-ffae0b190e9f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-27T11:33:36.841Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -4940,6 +4940,8 @@
       }
     ],
     "message": "- Paxos is hiring <a href=\"https://hashtagweb3.com/pm252?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager, Liquidity &amp; Money Movement</a>\n- Elliptic is hiring <a href=\"https://hashtagweb3.com/pm159?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/mkt64?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Lead Marketing Engineer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls153?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, SaaS Platforms Grower</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/sls335?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Retention Account Manager, SMB</a>",
-    "slotKey": "2026-10-27:afternoon"
+    "slotKey": "2026-10-27:afternoon",
+    "messageId": 155947,
+    "sentAt": "2026-10-27T11:33:47.112Z"
   }
 }
