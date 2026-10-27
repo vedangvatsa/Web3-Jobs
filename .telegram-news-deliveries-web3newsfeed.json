@@ -2416,5 +2416,37 @@
     "slotKey": "2026-10-27:morning",
     "messageId": 65780,
     "sentAt": "2026-10-27T03:45:47.561Z"
+  },
+  "df8d9dea-77cd-4b85-85e9-6c9fe56b892c": {
+    "status": "reserved",
+    "reservedAt": "2026-10-27T11:35:56.554Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Canada begins 60-day consultation on draft stablecoin regulations",
+        "summary": "The draft mandates local one-to-one reserves and three-day redemptions while maintaining a ban on interest payments.",
+        "link": "https://hashtagweb3.com/canadastablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Canada Opens 60-Day Consultation on Draft Stablecoin Rules"
+      },
+      {
+        "index": -1,
+        "headline": "Keystone destroys 19,000 wallets following data and key theft",
+        "summary": "The company suspended shipping after an intruder accessed 26,000 customer records and a device authentication key.",
+        "link": "https://hashtagweb3.com/keystonebreach?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Keystone to destroy almost 19,000 wallets after breach exposes customer data and device verification key"
+      },
+      {
+        "index": 30,
+        "headline": "Aviva Investors tokenizes $29 billion liquidity fund on XRP Ledger",
+        "summary": "The asset manager launched a tokenized share class for its sterling liquidity fund using blockchain technology.",
+        "event_rationale": "This covers a major institutional tokenization event involving a multi-billion dollar fund, distinct from previous stablecoin or ETF news.",
+        "link": "https://www.theblock.co/news/business/2026-10-26-aviva-investors-ripple-tokenized-share-class-sterling-fund-xrp-ledger-431712",
+        "source": "The Block",
+        "originalTitle": "Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger"
+      }
+    ],
+    "slotKey": "2026-10-27:afternoon"
   }
 }
