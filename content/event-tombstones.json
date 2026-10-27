@@ -2385,5 +2385,41 @@
       "luma-crypto-frkk67uniklxiip",
       "house-2"
     ]
+  },
+  "premier-shaka-biarritz-2026": {
+    "until": "2027-10-27T03:42:44.143Z",
+    "slugs": [
+      "premier-shaka-biarritz-2026",
+      "shaka-biarritz-2026",
+      "shaka"
+    ]
+  },
+  "luma-batch-evtbHqwrXvVlIJIt": {
+    "until": "2027-10-27T03:42:44.143Z",
+    "slugs": [
+      "luma-batch-evtbhqwrxvvlijit",
+      "e4fvx4jj"
+    ]
+  },
+  "luma-batch-evtLOHStYDyuch0o": {
+    "until": "2027-10-27T03:42:44.143Z",
+    "slugs": [
+      "luma-batch-evtlohstydyuch0o",
+      "izo3nmsf"
+    ]
+  },
+  "luma-batch-evtT9FSAClyeo7S4": {
+    "until": "2027-10-27T03:42:44.143Z",
+    "slugs": [
+      "luma-batch-evtt9fsaclyeo7s4",
+      "cryptocom-6hd5"
+    ]
+  },
+  "luma-crypto-9n9wgikVI6ZuXCq": {
+    "until": "2027-10-27T03:42:44.143Z",
+    "slugs": [
+      "luma-crypto-9n9wgikvi6zuxcq",
+      "mmhbd"
+    ]
   }
 }

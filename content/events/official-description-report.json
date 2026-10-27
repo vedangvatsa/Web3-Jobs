@@ -844,32 +844,6 @@
       ]
     },
     {
-      "id": "premier-shaka-biarritz-2026",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://shaka.events/",
-        "fetchedAt": "2026-09-20T00:20:38.642Z",
-        "method": "event-jsonld",
-        "pageTitle": "SHAKA Festival Biarritz 2026 | IA, Blockchain & Business",
-        "sha256": "29b3bbb719af7e9262ee1379723b7b581f1aa5098853a589b7d8cb040c703481"
-      },
-      "eventFacts": {
-        "startDate": "2026-09-24",
-        "endDate": "2026-09-26",
-        "venueName": "Cité de l'Océan",
-        "addressLocality": "Biarritz",
-        "addressRegion": "Nouvelle-Aquitaine",
-        "addressCountry": "FR",
-        "city": "Biarritz",
-        "country": "FR",
-        "location": "Cité de l'Océan, Biarritz, Nouvelle-Aquitaine, FR"
-      },
-      "previousStartDate": "2026-09-24T09:00:00+02:00",
-      "characters": 143,
-      "preview": "Le festival IA, blockchain et business à Biarritz: 3 jours de talks, workshops, startups, networking, surf et soirées pour prendre de l'avance."
-    },
-    {
       "id": "premier-metamorphosis-2026",
       "file": "curated-events.json",
       "status": "source-backed",

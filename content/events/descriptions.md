@@ -179,25 +179,6 @@ Scooters & Bikes : Depending on the area, you will also find scooters and bikes 
 
 Taxis : Taxis are available through apps like GO↗︎ and Uber↗︎.
 
-<a id="event-9d854602aa5172f3"></a>
-
-## SHAKA Biarritz 2026
-
-- Record: `premier-shaka-biarritz-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-24
-- Description: Source-backed
-- Original page: <https://shaka.events/>
-- Original page: <https://my.weezevent.com/shaka-festival-2026>
-
-### About the event
-
-Le festival IA, blockchain et business à Biarritz: 3 jours de talks, workshops, startups, networking, surf et soirées pour prendre de l'avance. SHAKA Festival 2026 runs September 24-26, 2026 at La Cité de l'Océan, 64200 Biarritz, France.
-
-### Programme
-
-Trois jours de conférences, ateliers, startups, networking, surf et soirées autour de l'IA, de la blockchain et du business. Billetterie, calendrier, localisation et contact via la page officielle de l'événement.
-
 <a id="event-e373bf9da0a76bcf"></a>
 
 ## ETHGlobal Tokyo 2026
@@ -23845,66 +23826,6 @@ Choose your company. Build your founding team. Pick your mission. Then go build.
 
 We are currently looking for sponsors and partners to support our initiative. Please email events@crewbasecollective or saurabhskhire@gmail.com for details
 
-<a id="event-b7dce8ea10bdc6f9"></a>
-
-## Metropolis Hackathon Builder Day: SF \| $250,000 in prizes
-
-- Record: `luma-crypto-9n9wgikVI6ZuXCq`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-26T18:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/metropolis-sf-sep-2026>
-
-### About the event
-
-$250,000 in prizes. Top VC speakers. Networking.
-
-What do you get when you pack a city's worth of builders into one hackathon? A Metropolis!
-
-What is Metropolis?
-
-Metropolis is Monad's flagship six-week global hackathon, bringing builders together to design, ship, and scale the next generation of onchain applications, with over $250,000 in prizes up for grabs.
-
-Featured Speakers
-
-1. [Avichal Garg](https://x.com/avichal), Co-Founder of Electric Capital
-2. [Rohin](https://x.com/rohinlohe), Product Lead at Cloudflare
-3. [Pankaj Bengani](https://x.com/pankaj_bengani), CEO of Meld
-
-The day
-
-A one day event where you will:
-
-1) Network with VCs!
-2) Meet other founders.
-3) Listen to industry leaders
-4) Get mentor support.
-5) And build a project for Metropolis, with $250,000 in prizes on the table!
-
-The opportunity
-
-Get direct access to top VCs and industry leaders shaping the onchain space, including Avichal Garg (Electric Capital), Rohin (Cloudflare), and Pankaj Bengani (Meld). Spend the day networking with them and learning from their experience. Beyond the $250,000 in prizes, winning teams get fast-tracked into a residency program, where they'll continue building with even deeper access to VCs.
-
-Who should come: founders, software engineers, technical founders, and anyone who wants to ship a project onchain
-
-What to bring: a laptop and an idea.
-
-### Schedule
-
-- 11:00 AM - Registration & flow-in (light food/pastries)
-- 12:00 PM - Opening remarks & track overview
-- 12:30 PM - Panel: "How to Pitch to VCs"
-- 1:15 PM - Panel: "How to Build an Effective Product"
-- 2:00 PM - Co-working, networking, & rotating mentor office hours
-
-### Disclaimer
-
-By attending an event organized by Monad Foundation, you are entering an area where photography, audio and video live-streaming and/or recording may occur.
-
-Your entry and presence at such an event constitutes your consent to be photographed, filmed (including live-streamed), and/or otherwise recorded and to the release, publication, exhibition, or reproduction of any and all recorded media of your appearance, voice, and name for any purpose whatsoever in connection with Monad Foundation and its initiatives.
-
-By attending the event, you waive and release any claims you may have related to the use of such media of you at the event.
-
 <a id="event-695a4f913b59869a"></a>
 
 ## Oriane x Replit x Creators HQ: Build for the Video Economy — Dubai Hackathon
@@ -27746,124 +27667,6 @@ Colosseum Copilot - AI brainstorm tool for project ideas
 Solana.new - an all in one kit to go from idea to shipped project
 
 Superteam Poland Hackathon Group
-
-<a id="event-ffb981395a5af3b8"></a>
-
-## BTCHEL 2026 OFFICIAL AFTER PARTY: FLOATING SAUNA AT FARO
-
-- Record: `luma-batch-evtLOHStYDyuch0o`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T15:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/izo3nmsf>
-
-### About the event
-
-SURPRISE SURPRISE!
-
-BTCHEL 2026 GOT IT'S OFFICIAL AFTER PARTY LISTED!
-
-Every local bitcoiner from Helsinki knows the legendary restaurant Faro, where the Helsinki Bitcoin Meetup has been on-going since 2014. Faro is the longest standing restaurant in Helsinki accepting bitcoin payments. So bring your spending wallet!
-
-AND BRING YOUR SWIMSUIT! We are turning Faro into a channelside Sauna world and bringing Floating Saunas into the seaside channel.
-
-Restaurant Faro is right next to the official event venue, so when the conference is over, everyone can just walk 5 minutes to the after party.
-
-So bring your sats, your swimsuit and a smile to the pinnacle of the BTCHEL week - everyone will be there!
-
-<a id="event-3cb012a79095c526"></a>
-
-## Rooftop Sessions: The Rome Mixer
-
-- Record: `luma-batch-evtT9FSAClyeo7S4`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T16:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/cryptocom-6hd5>
-
-### About the event
-
-italiano qui sotto*
-
-We're bringing the Crypto.com community together in the Eternal City for an unforgettable evening under the Roman sky.
-
-Join us at the NOTOS Rooftop at Six Senses Roma, one of the city's most exclusive addresses: 360° views over the rooftops of the historic centre, great conversations, and a few things we can't wait to share - including an intro at tokenized stock trading, now available across the EEA.
-
-Food & drinks on us. Limited-edition Crypto.com merch. A photo session with Rome's skyline as your backdrop. Good music, great people, and a rooftop you won't forget.
-
-It's been a while since we've hosted in Rome, and we wanted to make it count. Space is limited and priority goes to Crypto.com users - RSVPs will be reviewed and confirmed, so request your spot early.
-
-See you on the rooftop!
-
-🇮🇹
-
-Stiamo riunendo la community di Crypto.com nella Città Eterna per una serata indimenticabile sotto il cielo di Roma.
-
-Ti aspettiamo al NOTOS Rooftop del Six Senses Roma, una delle location più esclusive della città: vista a 360° sui tetti del centro storico, belle conversazioni e qualche novità che non vediamo l'ora di condividere, tra cui un'introduzione al trading di azioni tokenizzate, ora disponibile in tutto lo SEE.
-
-Food & drink offerti da noi. Merch Crypto.com in edizione limitata. Un servizio fotografico con lo skyline di Roma alle spalle. Buona musica, belle persone e un rooftop che non dimenticherai.
-
-È passato un po' di tempo dall'ultimo evento a Roma, e questa volta volevamo fare le cose in grande. I posti sono limitati e la priorità va agli utenti Crypto.com: le richieste di partecipazione verranno revisionate e confermate, quindi assicurati il tuo posto il prima possibile.
-
-Ci vediamo sul rooftop!
-
-By registering for the event, you acknowledge having read the Crypto.com Global Marketing Privacy Notice, which is published at: https://crypto.com/privacy/en/marketing
-
-### Disclaimer
-
-Crypto.com offers crypto related services through Foris DAX MT Limited, a limited liability company incorporated in Malta with Company registration number C 88392 and duly authorized by the Malta Financial Services Authority as a Crypto-Asset Service Provider pursuant to Regulation 2023/1114 on Markets in Crypto-Assets as implemented in Malta by the Markets in Crypto Assets Act.
-
-Trading or holding crypto-assets carries risks and may not be suitable for all. Please note that past performance is not a guarantee of future performance. You can find more information on the risks involved with trading or holding crypto-assets here.
-
-<a id="event-82c21e22e89d6b24"></a>
-
-## Team1 France Connect Paris
-
-- Record: `luma-batch-evtbHqwrXvVlIJIt`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T17:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/e4fvx4jj>
-
-### About the event
-
-Join the French Avalanche community for a night of networking, food, and drinks in the heart of Paris.
-
-22 Rue Linné, 75005 Paris
-
-Saturday, September 26
-
-7:00 PM - midnight
-
-Come meet the builders, creators, and community leaders behind Avalanche in France, along with the KardPay team. Drinks are on the house while the tab lasts, and there are prizes to win throughout the night.
-
-Spots are limited RSVP to secure yours!
-
-### Schedule
-
-7:00 - 8:00 PM - Doors open & welcome drinks
-
-8:00 - 8:30 PM - Team1 intro & Kardpay presentation
-
-8:30 - 9:30 PM - Networking & dinner
-
-9:30 - midnight - Networking & party
-
-### About Team1
-
-Team1 is a global network of builders, developers, creatives, gamers, and community leaders growing the Avalanche ecosystem. Active in over 30 countries, Team1 drives Avalanche adoption from the ground up through local meetups, workshops, side events, content, and community-led initiatives, onboarding new users and projects along the way. By connecting online communities with real-world gatherings, Team1 brings Avalanche into new regions and cultures.
-
-### About Kardpay
-
-Kardpay is a privacy-first crypto card built on Avax that lets you spend your crypto anywhere in the world without compromising your financial privacy.
-
-Fully compatible with Apple Pay and Google Pay, Kardpay is available both as a virtual and physical card, making it simple and seamless to spend crypto in everyday life. Since launching two years ago, we've grown to over 2,500 users who trust Kardpay to spend their crypto while maintaining their financial privacy. Kardpay exists to give people the freedom to use their crypto without unnecessary surveillance or unwanted visibility into their financial lives.
-
-### About AvaxHusky
-
-AvaxHusky is a community that has been around on Avalanche since its creation in 2021. It's one of the oldest memecoins on the C-Chain! Over the years, they have been strong supporters of the Avalanche community, particularly the French-speaking community, through several NFT projects and other initiatives. That's why tonight, they are helping with the organization and creation of this event!
-
-X
 
 <a id="event-e9180fe8c122779c"></a>
 
@@ -48409,19 +48212,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-8ce227e619cebbaa"></a>
-
-## International Conference on Cryptocurrency, Artificial Intelligence and Machine Learning (ICCAIML)
-
-- Record: `ci-https---conferenceindex-org-event-international-conference-on-cryptocurrency-artificial-intelligence`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-27T00:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://conferenceindex.org/event/international-conference-on-cryptocurrency-artificial-intelligence-and-machine-learning-iccaiml-2026-september-kowloon-hk>
-- Original page: <https://conferencefora.org/Conference/76995/ICCAIML/?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-3b0e4d357a068372"></a>
 
 ## International Conference on Cryptography and Information Security (ICCIS)
@@ -65453,18 +65243,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-b53cad950e8a5896"></a>
-
-## Superteam India Coworking Days (BOM)
-
-- Record: `luma-host-evt-evt-xdzRCPDhA2Tj2QU`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-16T07:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/IRL-coworking>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-133332df748231b6"></a>
 
 ## Superteam TH Community Call
@@ -68315,6 +68093,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-b53cad950e8a5896"></a>
+
+## Superteam India Coworking Days (BOM)
+
+- Record: `luma-host-evt-evt-xdzRCPDhA2Tj2QU`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-27T07:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/IRL-coworking>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-da454e770d171647"></a>
 
 ## Apex Invest Europe 2026
@@ -68855,6 +68645,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-1ce002b7d56cdff3"></a>
+
+## Fordham Blockchain x Solana
+
+- Record: `luma-evt-xEHE9rEbbSAUVFm`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-28T21:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/z4m3kl0k>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-1efbbe87ffafc713"></a>
 
 ## NYC Executive Digital Assets Dinner w/ Halborn
@@ -68864,6 +68666,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-28T22:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/nycexecutivedinner>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-fa27ee6798c5d012"></a>
+
+## Arch Lending x DAG \| Private VIP Dinner During Ripple Swell
+
+- Record: `luma-evt-LYWLfsm5oEAnBgf`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-28T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/37nexy8l>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -69172,6 +68986,18 @@ An organizer description has not been verified for this record. Any previous cop
 ### About the event
 
 A full day of Bitcoin education taught and certified jointly by Escuelita Bitcoin and Universidad Champagnat. The program includes theory, practical classes, digital study materials, refreshments and lunch. It is open to students, alumni and teachers from Argentina and neighboring countries, with approval required for registration.
+
+<a id="event-32ed80aa8c19578c"></a>
+
+## Assets on Blockchain (AOB) by RealAssets
+
+- Record: `luma-evt-oIsCXlqIhis7mlt`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T12:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/0dlcm856>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-50ecf2d5ebfbc442"></a>
 
@@ -70099,6 +69925,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-4f3fbaa5bd8b901b"></a>
+
+## Human Natures: Aristoi in Modernity Week 22
+
+- Record: `mu-317147004`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-02T12:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/comics-etcetera/events/317147004/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-48d479691e4a9a6d"></a>
 
 ## Crypto Mondays Devcon India Edition
@@ -70180,6 +70018,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-02T22:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/z3r4fk0w>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-f746bb11efe5b0b8"></a>
+
+## Let’s Build: Blockchain × Codex
+
+- Record: `luma-evt-AtQmLlggn8InjN2`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-03T02:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/32111cac>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -71540,6 +71390,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-ae398d5be4dad0db"></a>
+
+## Inner Freedom: Stop Letting Your Past Define You
+
+- Record: `mu-317033605`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-10T19:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/personal-development-inner-freedom-community/events/317033605/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-353405c89774f271"></a>
 
 ## Below the Surface: CRYMBO × Orbs
@@ -71743,6 +71605,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-13T01:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://singaporeblockchainweek.org/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-8170ee93e6130645"></a>
+
+## Webinar with Cosmos Labs: Designing Tokenized Deposits for a Multi-Ledger Future
+
+- Record: `mu-317156401`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-13T08:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-denver/events/317156401/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

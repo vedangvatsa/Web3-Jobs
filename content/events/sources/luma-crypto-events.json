@@ -268,52 +268,6 @@
     }
   },
   {
-    "id": "luma-crypto-9n9wgikVI6ZuXCq",
-    "slug": "mmhbd",
-    "name": "Metropolis Hackathon Builder Day: SF | $250,000 in prizes",
-    "description": "$250,000 in prizes. Top VC speakers. Networking.\n\nWhat do you get when you pack a city's worth of builders into one hackathon? A Metropolis!\n\nWhat is Metropolis?\nMetropolis is Monad's flagship six-week global hackathon, bringing builders together to design, ship, and scale the next generation of onchain applications, with over $250,000 in prizes up for grabs.\n\nFeatured Speakers\n1. [Avichal Garg](https://x.com/avichal), Co-Founder of Electric Capital\n2. [Rohin](https://x.com/rohinlohe), Product Lead at Cloudflare\n3. [Pankaj Bengani](https://x.com/pankaj_bengani), CEO of Meld\n\nThe day\nA one day event where you will:\n\n1) Network with VCs!\n2) Meet other founders.\n3) Listen to industry leaders\n4) Get mentor support.\n5) And build a project for Metropolis, with $250,000 in prizes on the table!\n\nThe opportunity\nGet direct access to top VCs and industry leaders shaping the onchain space, including Avichal Garg (Electric Capital), Rohin (Cloudflare), and Pankaj Bengani (Meld). Spend the day networking with them and learning from their experience. Beyond the $250,000 in prizes, winning teams get fast-tracked into a residency program, where they'll continue building with even deeper access to VCs.\n\nWho should come: founders, software engineers, technical founders, and anyone who wants to ship a project onchain\n\nWhat to bring: a laptop and an idea.\n\nSchedule:\n\n• 11:00 AM – Registration & flow-in (light food/pastries)\n• 12:00 PM – Opening remarks & track overview\n• 12:30 PM – Panel: \"How to Pitch to VCs\"\n• 1:15 PM – Panel: \"How to Build an Effective Product\"\n• 2:00 PM – Co-working, networking, & rotating mentor office hours\n\nDisclaimer:\n\nBy attending an event organized by Monad Foundation, you are entering an area where photography, audio and video live-streaming and/or recording may occur.\n\nYour entry and presence at such an event constitutes your consent to be photographed, filmed (including live-streamed), and/or otherwise recorded and to the release, publication, exhibition, or reproduction of any and all recorded media of your appearance, voice, and name for any purpose whatsoever in connection with Monad Foundation and its initiatives.\n\nBy attending the event, you waive and release any claims you may have related to the use of such media of you at the event.",
-    "startDate": "2026-09-26T18:00:00.000Z",
-    "endDate": "2026-09-27T01:00:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "San Francisco, United States",
-    "url": "https://luma.com/metropolis-sf-sep-2026",
-    "registrationUrl": "https://luma.com/metropolis-sf-sep-2026",
-    "coverImage": "/events/luma-crypto-9n9wgikvi6zuxcq-678d11db.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Monad Foundation",
-      "Ali Smith"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/Los_Angeles",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Monad Foundation Events",
-      "url": "https://monad.xyz/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/metropolis-sf-sep-2026",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/metropolis-sf-sep-2026",
-      "eventId": "evt-9n9wgikVI6ZuXCq",
-      "fetchedAt": "2026-09-19T23:46:08.973Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-JoOSLiKtxjk0MZL",
     "slug": "oxrxch",
     "name": "Oriane x Replit x Creators HQ: Build for the Video Economy — Dubai Hackathon",
