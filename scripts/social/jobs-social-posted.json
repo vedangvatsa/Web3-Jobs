@@ -62954,6 +62954,38 @@
       "postId": "18131534032874155",
       "permalink": "https://www.threads.com/@hashtagweb3/post/De_xFthEUQb",
       "account": "hashtagweb3"
+    },
+    {
+      "slug": "sre",
+      "company": "Alpaca",
+      "title": "Senior SRE - APAC",
+      "platform": "bluesky",
+      "postedAt": "2026-10-27T11:37:24.160Z",
+      "expectedText": "Alpaca is hiring Senior SRE - APAC: https://hashtagweb3.com/sre/bsky?og=7",
+      "snapshot": {
+        "id": "6186847004",
+        "title": "Senior SRE - APAC",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6186847004",
+        "date": "2026-10-21T10:03:15-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - APAC",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sre"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Senior SRE - APAC: https://hashtagweb3.com/sre/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/sre/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/sre.png?v=7",
+        "company": "Alpaca",
+        "title": "Senior SRE - APAC",
+        "description": "Join Alpaca as Senior SRE - APAC. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "8e6427df-35b6-4832-946d-5f2d5ab8c171",
+      "verification": "creating"
     }
   ]
 }
