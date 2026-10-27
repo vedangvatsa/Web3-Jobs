@@ -32154,8 +32154,9 @@
     "dateVerified": true
   },
   "https://careers.kast.xyz/en/postings/4d0a8d84-b9de-40df-a596-7c4d956dc6ce": {
-    "date": "2026-10-23T13:04:08.000Z",
-    "dateVerified": true
+    "date": "2026-10-23T09:25:24+01:00",
+    "dateVerified": true,
+    "dateSource": "Pinpoint.JobPosting.datePosted"
   },
   "greenhouse:8284962": {
     "date": "2026-10-23T11:52:26-04:00",
@@ -32763,12 +32764,14 @@
     "dateVerified": true
   },
   "https://careers.kast.xyz/en/postings/975e32c1-3ca9-4027-9a7d-db2d59323505": {
-    "date": "2026-10-26T13:25:59.000Z",
-    "dateVerified": true
+    "date": "2026-10-26T03:29:02+00:00",
+    "dateVerified": true,
+    "dateSource": "Pinpoint.JobPosting.datePosted"
   },
   "https://careers.kast.xyz/en/postings/d4348619-329a-4ef7-b0f1-fd1a9bd7f086": {
-    "date": "2026-10-26T13:25:59.000Z",
-    "dateVerified": true
+    "date": "2026-10-26T03:29:46+00:00",
+    "dateVerified": true,
+    "dateSource": "Pinpoint.JobPosting.datePosted"
   },
   "greenhouse:8311069": {
     "date": "2026-10-26T16:50:46-04:00",
@@ -33120,5 +33123,53 @@
   "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Analyst--AML-Investigations_JR101186-1": {
     "date": "2026-10-26",
     "dateVerified": true
+  },
+  "https://careers.kast.xyz/en/1": {
+    "date": "2026-05-21T15:00:25+01:00",
+    "dateVerified": true
+  },
+  "https://careers.kast.xyz/en/2": {
+    "date": "2026-10-26T03:29:02+00:00",
+    "dateVerified": true
+  },
+  "https://careers.kast.xyz/en/postings/cc85a581-4359-446e-b5d6-b9b9811a856b": {
+    "date": "2026-05-21T15:00:25+01:00",
+    "dateVerified": true,
+    "dateSource": "Pinpoint.JobPosting.datePosted"
+  },
+  "https://careers.kast.xyz/en/postings/a722cbae-55af-4423-8944-8d2cf3e248d2": {
+    "date": "2026-07-08T07:22:14+01:00",
+    "dateVerified": true,
+    "dateSource": "Pinpoint.JobPosting.datePosted"
+  },
+  "https://careers.kast.xyz/en/postings/e429712d-4efe-4394-81ae-f7d2501155b3": {
+    "date": "2026-07-09T07:58:29+01:00",
+    "dateVerified": true,
+    "dateSource": "Pinpoint.JobPosting.datePosted"
+  },
+  "https://careers.kast.xyz/en/postings/3a4e3551-4ba8-421b-8253-8725bb1f8cbf": {
+    "date": "2026-07-14T03:51:54+01:00",
+    "dateVerified": true,
+    "dateSource": "Pinpoint.JobPosting.datePosted"
+  },
+  "https://careers.kast.xyz/en/postings/a99c46f3-f354-472b-be55-c81e61a18ac1": {
+    "date": "2026-08-10T07:17:45+01:00",
+    "dateVerified": true,
+    "dateSource": "Pinpoint.JobPosting.datePosted"
+  },
+  "https://careers.kast.xyz/en/postings/7ab30354-7d80-4b5e-bac8-5396c94da8d1": {
+    "date": "2026-08-17T16:16:06+01:00",
+    "dateVerified": true,
+    "dateSource": "Pinpoint.JobPosting.datePosted"
+  },
+  "https://careers.kast.xyz/en/postings/a9c17dce-d6c7-4979-b5cb-7c76a37381da": {
+    "date": "2026-08-25T07:36:28+01:00",
+    "dateVerified": true,
+    "dateSource": "Pinpoint.JobPosting.datePosted"
+  },
+  "https://careers.kast.xyz/en/postings/a0553f80-e6c3-4d18-aefd-183d70280ca3": {
+    "date": "2026-09-22T13:08:29+01:00",
+    "dateVerified": true,
+    "dateSource": "Pinpoint.JobPosting.datePosted"
   }
 }

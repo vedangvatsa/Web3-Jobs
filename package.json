@@ -108,6 +108,7 @@
     "ingest:regional": "npx tsx scripts/ingest-regional-feeds.ts",
     "ingest:global": "npx tsx scripts/ingest-global-ecosystem-feeds.ts",
     "ingest:untracked": "npx tsx scripts/ingest-untracked-web3-companies.ts",
+    "ingest:kast": "npx tsx scripts/ingest-kast-jobs.ts",
     "build": "npx tsx scripts/run-production-build.ts",
     "build:full": "FAH_FAST_PREBUILD=0 npm run prebuild && npm run build",
     "postbuild": "tsx scripts/copy-standalone-catalogs.ts && tsx scripts/test-standalone-public-assets.ts && tsx scripts/test-prerender-budget.ts && npm run test:feed-compression",
