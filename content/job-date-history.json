@@ -33171,5 +33171,100 @@
     "date": "2026-09-22T13:08:29+01:00",
     "dateVerified": true,
     "dateSource": "Pinpoint.JobPosting.datePosted"
+  },
+  "https://ats.rippling.com/perle/jobs/3c865e74-4e56-4cf2-b6d0-74a8e5bb6146": {
+    "date": "2026-10-06T11:52:22.030Z",
+    "dateVerified": true,
+    "dateSource": "Solana.JobPosting.postedAt"
+  },
+  "https://ats.rippling.com/perle/jobs/03b8de8f-3ace-4acd-b6c2-8aeb9a4b3226": {
+    "date": "2026-10-06T11:52:22.698Z",
+    "dateVerified": true,
+    "dateSource": "Solana.JobPosting.postedAt"
+  },
+  "https://ats.rippling.com/perle/jobs/df656b09-a38f-4c89-a5e8-a1bd6f7f9397": {
+    "date": "2026-10-06T11:52:18.848Z",
+    "dateVerified": true,
+    "dateSource": "Solana.JobPosting.postedAt"
+  },
+  "ashby:ef5dba80-b476-4a1d-8da3-5d6377ccd1cc": {
+    "date": "2026-10-06T11:09:48.507Z",
+    "dateVerified": true,
+    "dateSource": "Solana.JobPosting.postedAt"
+  },
+  "dover:b268b44c-19f7-4a7e-98cf-f01d0c9a49ca": {
+    "date": "2026-10-05T14:12:16.874Z",
+    "dateVerified": true,
+    "dateSource": "Solana.JobPosting.postedAt"
+  },
+  "dover:46b0d37a-d92e-4cb8-a80e-7fa4265b821c": {
+    "date": "2026-10-05T14:12:15.510Z",
+    "dateVerified": true,
+    "dateSource": "Solana.JobPosting.postedAt"
+  },
+  "ashby:0b77600f-66fe-4d66-a3d1-c34765e4775b": {
+    "date": "2026-10-02T13:23:39.056Z",
+    "dateVerified": true,
+    "dateSource": "Solana.JobPosting.postedAt"
+  },
+  "https://jobs.solana.com/companies/orca-2-2d5724a8-8966-4bf4-8a20-b9ddb310c646/jobs/95493533-community-support-associate": {
+    "date": "2026-10-01T18:56:55.291Z",
+    "dateVerified": true,
+    "dateSource": "Solana.JobPosting.postedAt"
+  },
+  "ashby:4abc1ec1-2e9f-4a68-96fc-aa65d69dfd35": {
+    "date": "2026-10-01T11:31:24.437Z",
+    "dateVerified": true,
+    "dateSource": "Solana.JobPosting.postedAt"
+  },
+  "https://nousresearch.com/careers/product-analytics-engineer": {
+    "date": "2026-09-29T14:53:16.198Z",
+    "dateVerified": true,
+    "dateSource": "Solana.JobPosting.postedAt"
+  },
+  "https://nousresearch.com/careers/support-engineer": {
+    "date": "2026-09-29T14:53:16.441Z",
+    "dateVerified": true,
+    "dateSource": "Solana.JobPosting.postedAt"
+  },
+  "https://nousresearch.com/careers/security-engineer": {
+    "date": "2026-09-29T14:53:16.317Z",
+    "dateVerified": true,
+    "dateSource": "Solana.JobPosting.postedAt"
+  },
+  "https://nousresearch.com/careers/forward-deployed-engineer": {
+    "date": "2026-09-29T14:53:16.066Z",
+    "dateVerified": true,
+    "dateSource": "Solana.JobPosting.postedAt"
+  },
+  "https://nousresearch.com/careers/office-manager": {
+    "date": "2026-09-29T14:53:15.311Z",
+    "dateVerified": true,
+    "dateSource": "Solana.JobPosting.postedAt"
+  },
+  "https://nousresearch.com/careers/machine-learning-engineer-evals": {
+    "date": "2026-09-29T14:53:15.452Z",
+    "dateVerified": true,
+    "dateSource": "Solana.JobPosting.postedAt"
+  },
+  "https://nousresearch.com/careers/software-engineer-infrastructure": {
+    "date": "2026-09-29T14:53:15.697Z",
+    "dateVerified": true,
+    "dateSource": "Solana.JobPosting.postedAt"
+  },
+  "https://nousresearch.com/careers/software-engineer-product": {
+    "date": "2026-09-29T14:53:15.946Z",
+    "dateVerified": true,
+    "dateSource": "Solana.JobPosting.postedAt"
+  },
+  "https://nousresearch.com/careers/software-engineer-mobile": {
+    "date": "2026-09-29T14:53:15.819Z",
+    "dateVerified": true,
+    "dateSource": "Solana.JobPosting.postedAt"
+  },
+  "https://nousresearch.com/careers/software-engineer": {
+    "date": "2026-09-29T14:53:15.571Z",
+    "dateVerified": true,
+    "dateSource": "Solana.JobPosting.postedAt"
   }
 }

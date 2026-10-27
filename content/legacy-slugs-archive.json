@@ -150041,5 +150041,26 @@
     "company": "Open Standard",
     "title": "Smart Contract Engineer",
     "newSlug": "eng652"
+  },
+  "pm335": {
+    "id": "95189295",
+    "link": "https://nousresearch.com/careers/product-analytics-engineer",
+    "company": "Nous Research",
+    "title": "Product Analytics Engineer",
+    "newSlug": "pm342"
+  },
+  "eng652": {
+    "id": "95189284",
+    "link": "https://nousresearch.com/careers/machine-learning-engineer-evals",
+    "company": "Nous Research",
+    "title": "Machine Learning Engineer, Evals",
+    "newSlug": "eng657"
+  },
+  "pm334": {
+    "id": "95189291",
+    "link": "https://nousresearch.com/careers/software-engineer-product",
+    "company": "Nous Research",
+    "title": "Software Engineer, Product",
+    "newSlug": "pm341"
   }
 }
