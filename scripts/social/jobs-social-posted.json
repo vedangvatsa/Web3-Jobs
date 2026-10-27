@@ -60811,7 +60811,8 @@
       },
       "account": "channel:design",
       "attemptId": "94a33797-af7f-4b21-b563-8bc8acd1e4d8",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8c0225c81a27dfd3b2513ba809dfa4b9e8e72216"
     }
   ]
 }
