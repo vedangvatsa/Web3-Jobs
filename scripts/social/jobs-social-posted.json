@@ -65137,7 +65137,8 @@
       },
       "account": "channel:solana",
       "attemptId": "420bfa48-f372-45bd-8f2d-fec22da42160",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5893344febdad900e7890782a29ebb28f3035ec7"
     }
   ]
 }
