@@ -60776,7 +60776,8 @@
       },
       "account": "channel:product",
       "attemptId": "2e987f2f-082e-41ee-ab73-9a7b59ea025c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x276e997f0e8561f5e7a4c0c7e4e87754549fa9c4"
     }
   ]
 }
