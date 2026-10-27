@@ -60741,7 +60741,8 @@
       },
       "account": "channel:ai",
       "attemptId": "adbf5368-d3cc-4fae-9810-df83bfd6253a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7bf05f45b33439ab39d227735bef099b6a1f91ab"
     }
   ]
 }
