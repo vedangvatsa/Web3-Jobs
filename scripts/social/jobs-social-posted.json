@@ -60186,8 +60186,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "249694e6-de63-47ed-91c2-89efd061cd7c",
-      "verification": "pending",
-      "postId": "6ae01dc38f5aed9e2e350917"
+      "verification": "verified",
+      "postId": "6ae01dc38f5aed9e2e350917",
+      "permalink": "https://twitter.com/hashtag_web3/status/2114925804630994950"
     }
   ]
 }
