@@ -3522,5 +3522,53 @@
     "slotKey": "2026-10-27:morning",
     "messageId": 155944,
     "sentAt": "2026-10-27T03:42:36.325Z"
+  },
+  "d09a1631-1d6b-40e5-87de-c4aaeebaa912": {
+    "status": "reserved",
+    "reservedAt": "2026-10-27T11:31:58.312Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-evt-nRvFLfwAHjMqMTo",
+        "slug": "bitcoin-dev-day-traditional-korea",
+        "name": "Bitcoin dev day in traditional Korea",
+        "startDate": "2026-11-04T10:00:00+09:00",
+        "keys": [
+          "luma-evt-nrvflfwahjmqmto",
+          "page:bitcoin-dev-day-traditional-korea:2026-11-04",
+          "luma:evt-nrvflfwahjmqmto",
+          "luma-url:/1pmwtapp",
+          "event:bitcoindevdayintraditionalkorea:2026-11-04:seoul"
+        ]
+      },
+      {
+        "id": "ibw-luma-evt-NDGCExZGe7BfYks",
+        "slug": "defilunch",
+        "name": "DeFi Lunch at Devcon",
+        "startDate": "2026-11-04T06:30:00.000Z",
+        "keys": [
+          "ibw-luma-evt-ndgcexzge7bfyks",
+          "page:defilunch:2026-11-04",
+          "luma:evt-ndgcexzge7bfyks",
+          "luma-url:/defi-69kr",
+          "event:defilunchatdevcon:2026-11-04:mumbai"
+        ]
+      },
+      {
+        "id": "ibw-luma-evt-rUOnUMPkGfGF1CH",
+        "slug": "seedphrases",
+        "name": "Seed Phrases Stay Home | Wallet & dApp Walk",
+        "startDate": "2026-11-04T14:00:00.000Z",
+        "keys": [
+          "ibw-luma-evt-ruonumpkgfgf1ch",
+          "page:seedphrases:2026-11-04",
+          "luma:evt-ruonumpkgfgf1ch",
+          "luma-url:/rkhah22j",
+          "event:seedphrasesstayhomewalletdappwalk:2026-11-04:mumbai"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-27:afternoon"
   }
 }
