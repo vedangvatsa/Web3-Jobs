@@ -64232,6 +64232,41 @@
       "attemptId": "a929ccc2-9687-47e4-ba28-8ddc9bc69387",
       "verification": "verified",
       "postId": "0x054ecad918d7445e89452c3917237122269339c0"
+    },
+    {
+      "slug": "dsci2",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-27T19:33:48.294Z",
+      "expectedText": "Chainalysis is hiring Deployment Strategist - Crypto Investigations\n\nhttps://hashtagweb3.com/dsci2/fc?og=7",
+      "snapshot": {
+        "id": "7a8a245e-89c5-41c1-8653-185af58d8246",
+        "title": "Deployment Strategist - Crypto Investigations",
+        "company": "Chainalysis",
+        "link": "https://jobs.ashbyhq.com/chainalysis-careers/7a8a245e-89c5-41c1-8653-185af58d8246",
+        "date": "2026-10-13T09:49:36.902+00:00",
+        "source": "Ashby: Chainalysis [chainalysis-careers]",
+        "location": "Hybrid (France)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Sales",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dsci2"
+      },
+      "payload": {
+        "text": "Chainalysis is hiring Deployment Strategist - Crypto Investigations\n\nhttps://hashtagweb3.com/dsci2/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dsci2/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "63a49d60-d247-425e-8ad0-7bab032a4dd0",
+      "verification": "creating"
     }
   ]
 }
