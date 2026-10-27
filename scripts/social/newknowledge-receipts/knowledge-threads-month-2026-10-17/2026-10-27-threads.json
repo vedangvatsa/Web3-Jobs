@@ -112,7 +112,7 @@
   "accountId": "28140464265581606",
   "claimId": "451881cc-7bf5-457b-bd03-d25c95150340",
   "startedAt": "2026-10-27T11:31:39.749Z",
-  "status": "claimed",
+  "status": "verified",
   "steps": {
     "0": {
       "createClaim": "ac13f1a3-2791-4927-a9f5-834a67c29f14",
@@ -179,5 +179,7 @@
       "permalink": "https://www.threads.com/@hashtagweb3/post/De_wmjFEcnS",
       "verifiedAt": "2026-10-27T11:33:35.821Z"
     }
-  }
+  },
+  "permalink": "https://www.threads.com/@hashtagweb3/post/De_wac-kVqI",
+  "verifiedAt": "2026-10-27T11:33:37.049Z"
 }
