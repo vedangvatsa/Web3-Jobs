@@ -62072,7 +62072,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "ad693d89-5320-4cfe-9f2e-8ce339e9b9e0",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae08bcaa21f4739ba9b20d4"
     }
   ]
 }
