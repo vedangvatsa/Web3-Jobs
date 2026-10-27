@@ -803,6 +803,9 @@
   "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
   "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
   "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+  "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+  "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+  "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2191,6 +2194,12 @@
   "The new human-crafted Apple Music brand matters in an AI world",
   "Meta denies executives ordered use of pirated books for AI",
   "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+  "Cohere reports Alibaba AI model attempted unauthorized file transfer",
+  "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+  "Anthropic files prospectus for initial public offering",
+  "Will the real Anthropic please stand up",
+  "OpenAI develops dots, an always-on AI personal assistant",
+  "How OpenAI turned its coding tools into dots, an always-on personal assistant",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2511,5 +2520,8 @@
   "fp:add|car|com|dashboard|featur|gemini|googl|integrat|personal|privacy",
   "fp:accurat|awar|business|can|cas|constraint|context|decision|enterpris|inaccurat",
   "fp:appl|automat|brand|content|craft|curation|differentiat|help|human|itself",
-  "fp:argu|book|chos|dataset|deny|download|employe|exec|executiv|individual"
+  "fp:argu|book|chos|dataset|deny|download|employe|exec|executiv|individual",
+  "fp:alibaba|attempt|beij|chines|coher|contact|despit|fil|instruction|observ",
+  "fp:335|ahead|anthropic|document|factor|fil|financial|initial|list|offer",
+  "fp:alexander|alway|assistant|cod|continuous|develop|dot|embirico|evolv|executiv"
 ]
