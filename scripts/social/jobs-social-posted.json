@@ -62818,6 +62818,47 @@
       "verification": "verified",
       "postId": "6ae08cbe131c5aeac59ee22a",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7520810744741933056"
+    },
+    {
+      "slug": "pm94",
+      "company": "Bitpanda",
+      "title": "Senior Product Designer, Web3",
+      "platform": "linkedin",
+      "postedAt": "2026-10-27T11:32:22.571Z",
+      "expectedText": "Bitpanda is hiring Senior Product Designer, Web3: https://hashtagweb3.com/pm94/li?og=7",
+      "snapshot": {
+        "id": "5009825101",
+        "title": "Senior Product Designer, Web3",
+        "company": "Bitpanda",
+        "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5009825101",
+        "date": "2026-10-22T05:17:35-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bitpanda [bitpanda]",
+        "location": "Vienna, Austria",
+        "department": "Product & Design",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm94"
+      },
+      "payload": {
+        "text": "Bitpanda is hiring Senior Product Designer, Web3: https://hashtagweb3.com/pm94/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm94/li?og=7",
+          "title": "Senior Product Designer, Web3 at Bitpanda",
+          "description": "Join Bitpanda as Senior Product Designer, Web3. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm94.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "06e9981b-abfa-4e96-ab68-483dcab7b033",
+      "verification": "creating"
     }
   ]
 }
