@@ -9067,5 +9067,101 @@
     "slotKey": "2026-10-27:afternoon",
     "messageId": 16575,
     "sentAt": "2026-10-27T11:32:04.715Z"
+  },
+  "2e24ed37-81f8-4b1f-bfb9-9761c5b524d8": {
+    "status": "reserved",
+    "reservedAt": "2026-10-27T19:33:31.350Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5003175101",
+          "title": "OTC Sales Trader",
+          "company": "StraitsX",
+          "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5003175101",
+          "date": "2026-10-12T04:20:24-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: StraitsX [straitsx]",
+          "location": "Hong Kong, Central and Western, Hong Kong S.A.R.; Kuala Lumpur, Malaysia; Shanghai, China; Shenzhen Shi, Guangdong, China; Taichung, Taiwan; Taipei, Taiwan",
+          "department": "STX - Commercial",
+          "active": true,
+          "dateVerified": true,
+          "slug": "tr124"
+        },
+        "key": "5003175101",
+        "slug": "tr124",
+        "url": "https://hashtagweb3.com/tr124?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "StraitsX",
+        "title": "OTC Sales Trader"
+      },
+      {
+        "snapshot": {
+          "id": "8238000",
+          "title": "Relationship Manager",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8238000?t=gh_src=&gh_jid=8238000",
+          "date": "2026-10-05T18:18:02-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Clearwater, FL; Westlake, TX",
+          "department": "TradePMR Operations Division",
+          "active": true,
+          "salary": "$85k – $100k/yr",
+          "dateVerified": true,
+          "slug": "mgr164"
+        },
+        "key": "8238000",
+        "slug": "mgr164",
+        "url": "https://hashtagweb3.com/mgr164?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Relationship Manager"
+      },
+      {
+        "snapshot": {
+          "id": "21b158e1-b96a-4ec9-b597-d7fa9c344267",
+          "title": "Talent Sourcer",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/21b158e1-b96a-4ec9-b597-d7fa9c344267",
+          "date": "2026-10-26T10:43:22.351+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (United Kingdom)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "People",
+          "active": true,
+          "slug": "rec50",
+          "dateVerified": true
+        },
+        "key": "21b158e1-b96a-4ec9-b597-d7fa9c344267",
+        "slug": "rec50",
+        "url": "https://hashtagweb3.com/rec50?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Talent Sourcer"
+      },
+      {
+        "snapshot": {
+          "id": "ce627938-6cc3-4395-9e1d-7f314ba07990",
+          "title": "Principal Solutions Consultant",
+          "company": "Elliptic",
+          "link": "https://jobs.ashbyhq.com/Elliptic/ce627938-6cc3-4395-9e1d-7f314ba07990",
+          "date": "2026-10-19T19:05:16.266+00:00",
+          "source": "Ashby: Elliptic [Elliptic]",
+          "location": "Hybrid (New York, NY)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Solutions Consulting",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sc"
+        },
+        "key": "ce627938-6cc3-4395-9e1d-7f314ba07990",
+        "slug": "sc",
+        "url": "https://hashtagweb3.com/sc?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Elliptic",
+        "title": "Principal Solutions Consultant"
+      }
+    ],
+    "message": "- StraitsX is hiring <a href=\"https://hashtagweb3.com/tr124?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">OTC Sales Trader</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/mgr164?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Relationship Manager</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/rec50?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Talent Sourcer</a>\n- Elliptic is hiring <a href=\"https://hashtagweb3.com/sc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal Solutions Consultant</a>",
+    "slotKey": "2026-10-27:evening"
   }
 }
