@@ -102,6 +102,25 @@
         "buildState": "FAILED",
         "observedAt": "2026-10-25T05:54:38.132Z"
       }
+    ],
+    "2026-10-27": [
+      {
+        "date": "2026-10-27",
+        "id": "40445498812-1",
+        "sourceCommit": "42cdb2812622419758006b474dee17590f9ee7c2",
+        "jobsCheckedAt": "2026-10-27T03:48:53.148Z",
+        "newsCompletedAt": "2026-10-27T05:29:04.854Z",
+        "articleSlugs": [
+          "keystonebreach",
+          "akash",
+          "osmosis",
+          "canadastablecoin"
+        ],
+        "phase": "building",
+        "startedAt": "2026-10-27T05:30:03.123Z",
+        "buildId": "daily-20261027-40445498812-1",
+        "rolloutId": "daily-20261027-40445498812-1"
+      }
     ]
   }
 }
