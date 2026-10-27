@@ -8,7 +8,7 @@
     "afternoon": "2026-10-15",
     "evening": "2026-10-24"
   },
-  "deployed": "2026-10-26",
+  "deployed": "2026-10-27",
   "ingested": "2026-10-26",
   "dailyDeployments": {
     "2026-10-23": [
@@ -116,12 +116,14 @@
           "osmosis",
           "canadastablecoin"
         ],
-        "phase": "rolling-out",
+        "phase": "succeeded",
         "startedAt": "2026-10-27T05:30:03.123Z",
         "buildId": "daily-20261027-40445498812-1",
         "rolloutId": "daily-20261027-40445498812-1",
         "buildState": "READY",
-        "observedAt": "2026-10-27T05:55:12.026Z"
+        "observedAt": "2026-10-27T05:55:45.485Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-10-27T05:55:45.485Z"
       }
     ]
   }
