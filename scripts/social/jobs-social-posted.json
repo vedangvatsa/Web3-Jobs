@@ -60601,7 +60601,8 @@
       },
       "account": "channel:base",
       "attemptId": "6a880c5c-07ae-4522-948e-e1067fb40633",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xac82e5561c45a601afebadc33253dc0037847193"
     }
   ]
 }
