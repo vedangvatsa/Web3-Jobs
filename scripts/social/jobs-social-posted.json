@@ -62697,7 +62697,8 @@
       },
       "account": "channel:design",
       "attemptId": "31299aeb-1f97-4c4a-8b85-9822a9e65957",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x66de6608967ce95f4ade0bbe6a8490d5ee33e9da"
     }
   ]
 }
