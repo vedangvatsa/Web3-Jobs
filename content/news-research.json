@@ -93687,11 +93687,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "b93f0924c9011fca18f8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-27T03:42:12.136Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-30T00:10:33.000Z",
-      "lastSeenAt": "2026-10-27T03:42:12.136Z"
+      "lastSeenAt": "2026-10-27T03:42:12.136Z",
+      "reason": "out-of-scope",
+      "note": "Read the Crypto Briefing piece: prediction-market commentary on a Mississippi Senate endorsement. No crypto or Web3 event; politics is out of scope.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/trump-urges-mississippi-voters-to-reject-democrat-colom-in-senate-race/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-27T03:47:42.002Z",
+      "lastReviewedDay": "2026-10-27"
     },
     "9b6c84fb8c24565cd7d8": {
       "source": "Crypto Briefing",
@@ -170478,6 +170488,18 @@
             }
           ],
           "reviewedAt": "2026-10-27T03:47:00.162Z"
+        },
+        "b93f0924c9011fca18f8": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Crypto Briefing piece: prediction-market commentary on a Mississippi Senate endorsement. No crypto or Web3 event; politics is out of scope.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/trump-urges-mississippi-voters-to-reject-democrat-colom-in-senate-race/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-27T03:47:42.002Z"
         }
       },
       "baselineSlugs": [
