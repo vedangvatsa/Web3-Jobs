@@ -61902,7 +61902,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "e746f7d6-e592-4b03-8e63-3b52a6448382",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae01f5e8f5aed9e2e356b3d"
     }
   ]
 }
