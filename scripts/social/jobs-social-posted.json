@@ -61554,6 +61554,48 @@
       "attemptId": "64f97a24-e8f6-42b7-b79f-1f64aaf1741e",
       "verification": "verified",
       "postId": "0xf2ec024756e382869f68add5463c58aac71504d2"
+    },
+    {
+      "slug": "eng44",
+      "company": "Zero Hash",
+      "title": "Graph and Data Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-27T03:47:06.054Z",
+      "expectedText": "Zero Hash is hiring Graph and Data Engineer\n\nhttps://hashtagweb3.com/eng44/fc?og=7",
+      "snapshot": {
+        "id": "d1802d78c138",
+        "title": "Graph and Data Engineer",
+        "company": "Zero Hash",
+        "link": "https://zero-hash.breezy.hr/p/d1802d78c138-graph-and-data-engineer",
+        "date": "2026-10-13",
+        "dateVerified": true,
+        "dateSource": "Breezy.JobPosting.datePosted",
+        "source": "Breezy: Zero Hash [zero-hash]",
+        "location": "Remote (Chicago, IL)",
+        "isRemote": true,
+        "department": "Engineering",
+        "active": true,
+        "dateEvidence": {
+          "url": "https://zero-hash.breezy.hr/p/d1802d78c138-graph-and-data-engineer",
+          "checkedAt": "2026-10-14T03:33:37.819Z",
+          "bodySha256": "d8ba4fabd9c195054a1a48ee9527f9a5aa59e0476d728cbfb95c12e260b8d059",
+          "provider": "breezy",
+          "datePosted": "2026-10-13"
+        },
+        "slug": "eng44"
+      },
+      "payload": {
+        "text": "Zero Hash is hiring Graph and Data Engineer\n\nhttps://hashtagweb3.com/eng44/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng44/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "fd77d31c-83a7-4cf8-8b5f-618c8e6285de",
+      "verification": "creating"
     }
   ]
 }
