@@ -8834,7 +8834,7 @@
     "sentAt": "2026-10-27T03:42:25.066Z"
   },
   "574e1722-3341-4acd-a02c-5e67ba07e6ec": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-27T03:42:27.462Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -8946,6 +8946,8 @@
       }
     ],
     "message": "- Newton is hiring <a href=\"https://hashtagweb3.com/dfcw?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director of Finance - Canada Wide - Remote</a>\n- Jane Street is hiring <a href=\"https://hashtagweb3.com/eng193?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Data Centre Facilities Engineer</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/be63?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer, Web3 Backend</a>\n- SwissBorg is hiring <a href=\"https://hashtagweb3.com/sls316?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Accountant</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/mgr95?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Manager, Customer Partner Success</a>",
-    "slotKey": "2026-10-27:morning"
+    "slotKey": "2026-10-27:morning",
+    "messageId": 148,
+    "sentAt": "2026-10-27T03:42:34.579Z"
   }
 }
