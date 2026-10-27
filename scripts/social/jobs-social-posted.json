@@ -65446,7 +65446,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "98350f73-9476-4976-9896-329b75ca3cfb",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7520932262419394561"
     }
   ]
 }
