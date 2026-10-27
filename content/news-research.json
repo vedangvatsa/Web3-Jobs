@@ -93718,11 +93718,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "9b6c84fb8c24565cd7d8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-27T03:42:12.136Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-29T23:32:43.000Z",
-      "lastSeenAt": "2026-10-27T03:42:12.136Z"
+      "lastSeenAt": "2026-10-27T03:42:12.136Z",
+      "reason": "out-of-scope",
+      "note": "Read the Crypto Briefing piece: Kansas Senate race billing-practice commentary. No crypto or Web3 event; politics is out of scope.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/kansas-senate-race-tightens-as-marshalls-billing-practices-face-scrutiny/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-27T03:47:45.088Z",
+      "lastReviewedDay": "2026-10-27"
     },
     "fbf8593db7e92debca93": {
       "source": "Decrypt",
@@ -170500,6 +170510,18 @@
             }
           ],
           "reviewedAt": "2026-10-27T03:47:42.002Z"
+        },
+        "9b6c84fb8c24565cd7d8": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Crypto Briefing piece: Kansas Senate race billing-practice commentary. No crypto or Web3 event; politics is out of scope.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/kansas-senate-race-tightens-as-marshalls-billing-practices-face-scrutiny/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-27T03:47:45.088Z"
         }
       },
       "baselineSlugs": [
