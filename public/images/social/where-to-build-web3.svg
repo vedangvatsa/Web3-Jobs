@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+  <defs>
+    <style>
+      .title { font-family: Georgia, 'Times New Roman', 'Playfair Display', serif; font-weight: 700; fill: #111827; }
+      .axis-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 800; letter-spacing: 1.5px; fill: #111827; }
+      .meta { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    </style>
+    <marker id="arrow-right" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8 5 L 0 8.5 z" fill="#1F2937"/>
+    </marker>
+    <marker id="arrow-left" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 8 1.5 L 0 5 L 8 8.5 z" fill="#1F2937"/>
+    </marker>
+    <marker id="arrow-up" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 1.5 8 L 5 0 L 8.5 8 z" fill="#1F2937"/>
+    </marker>
+    <marker id="arrow-down" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 1.5 0 L 5 8 L 8.5 0 z" fill="#1F2937"/>
+    </marker>
+  </defs>
+
+  <!-- Clean Background -->
+  <rect width="1200" height="1200" fill="#FFFFFF"/>
+
+  <!-- Top Header Title -->
+  <text x="600" y="90" text-anchor="middle" font-size="52" class="title">Where to Build Web3: Tax vs Dev Scene</text>
+
+  <!-- Crosshairs Axes -->
+  <!-- Horizontal X-Axis (from 220 to 980, y=620) -->
+  <line x1="215" y1="620" x2="985" y2="620" stroke="#1F2937" stroke-width="2.2" marker-start="url(#arrow-left)" marker-end="url(#arrow-right)"/>
+  
+  <!-- Vertical Y-Axis (from 195 to 1045, x=600) -->
+  <line x1="600" y1="195" x2="600" y2="1045" stroke="#1F2937" stroke-width="2.2" marker-start="url(#arrow-up)" marker-end="url(#arrow-down)"/>
+
+  <!-- Axis Labels -->
+  <!-- Top Label -->
+  <text x="600" y="165" text-anchor="middle" font-size="18" class="axis-label">STRONG WEB3 DEVELOPER ECOSYSTEM</text>
+  
+  <!-- Bottom Label -->
+  <text x="600" y="1080" text-anchor="middle" font-size="18" class="axis-label">EMERGING WEB3 DEVELOPER SCENE</text>
+  
+  <!-- Left Label -->
+  <text x="195" y="626" text-anchor="end" font-size="18" class="axis-label">HIGH CRYPTO TAX</text>
+  
+  <!-- Right Label -->
+  <text x="1005" y="626" text-anchor="start" font-size="18" class="axis-label">0% CRYPTO TAX</text>
+
+  <!-- Render Data Points -->
+  
+    <g class="matrix-item" data-name="San Francisco">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="230" cy="223" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="230" cy="221" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0yNTYgMGgyNTZ2NjRsLTMyIDMyIDMyIDMydjY0bC0zMiAzMiAzMiAzMnY2NGwtMzIgMzIgMzIgMzJ2NjRsLTI1NiAzMkwwIDQ0OHYtNjRsMzItMzItMzItMzJ2LTY0eiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0yMjQgNjRoMjg4djY0SDIyNFptMCAxMjhoMjg4djY0SDI1NlpNMCAzMjBoNTEydjY0SDBabTAgMTI4aDUxMnY2NEgwWiIvPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDBoMjU2djI1NkgwWiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0xODcgMjQzIDU3LTQxaC03MGw1NyA0MS0yMi02N3ptLTgxIDAgNTctNDFIOTNsNTcgNDEtMjItNjd6bS04MSAwIDU3LTQxSDEybDU3IDQxLTIyLTY3em0xNjItODEgNTctNDFoLTcwbDU3IDQxLTIyLTY3em0tODEgMCA1Ny00MUg5M2w1NyA0MS0yMi02N3ptLTgxIDAgNTctNDFIMTJsNTcgNDEtMjItNjdabTE2Mi04MiA1Ny00MWgtNzBsNTcgNDEtMjItNjdabS04MSAwIDU3LTQxSDkzbDU3IDQxLTIyLTY3em0tODEgMCA1Ny00MUgxMmw1NyA0MS0yMi02N1oiLz48L2c+PC9zdmc+" x="203" y="193" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="230" cy="220" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="230" cy="220" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="230" y="264" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">San Francisco</text>
+      <text x="230" y="282" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">Top Dev Hub · ~50% Max Tax</text>
+    </g>
+
+    <g class="matrix-item" data-name="New York">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="240" cy="343" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="240" cy="341" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0yNTYgMGgyNTZ2NjRsLTMyIDMyIDMyIDMydjY0bC0zMiAzMiAzMiAzMnY2NGwtMzIgMzIgMzIgMzJ2NjRsLTI1NiAzMkwwIDQ0OHYtNjRsMzItMzItMzItMzJ2LTY0eiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0yMjQgNjRoMjg4djY0SDIyNFptMCAxMjhoMjg4djY0SDI1NlpNMCAzMjBoNTEydjY0SDBabTAgMTI4aDUxMnY2NEgwWiIvPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDBoMjU2djI1NkgwWiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0xODcgMjQzIDU3LTQxaC03MGw1NyA0MS0yMi02N3ptLTgxIDAgNTctNDFIOTNsNTcgNDEtMjItNjd6bS04MSAwIDU3LTQxSDEybDU3IDQxLTIyLTY3em0xNjItODEgNTctNDFoLTcwbDU3IDQxLTIyLTY3em0tODEgMCA1Ny00MUg5M2w1NyA0MS0yMi02N3ptLTgxIDAgNTctNDFIMTJsNTcgNDEtMjItNjdabTE2Mi04MiA1Ny00MWgtNzBsNTcgNDEtMjItNjdabS04MSAwIDU3LTQxSDkzbDU3IDQxLTIyLTY3em0tODEgMCA1Ny00MUgxMmw1NyA0MS0yMi02N1oiLz48L2c+PC9zdmc+" x="213" y="313" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="240" cy="340" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="240" cy="340" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="240" y="384" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">New York</text>
+      <text x="240" y="402" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">Wall St Web3 · BitLicense</text>
+    </g>
+
+    <g class="matrix-item" data-name="London">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="370" cy="293" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="370" cy="291" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0wIDAgOCAyMi04IDIzdjIzbDMyIDU0LTMyIDU0djMybDMyIDQ4LTMyIDQ4djMybDMyIDU0LTMyIDU0djY4bDIyLTggMjMgOGgyM2w1NC0zMiA1NCAzMmgzMmw0OC0zMiA0OCAzMmgzMmw1NC0zMiA1NCAzMmg2OGwtOC0yMiA4LTIzdi0yM2wtMzItNTQgMzItNTR2LTMybC0zMi00OCAzMi00OHYtMzJsLTMyLTU0IDMyLTU0VjBsLTIyIDgtMjMtOGgtMjNsLTU0IDMyLTU0LTMyaC0zMmwtNDggMzItNDgtMzJoLTMybC01NCAzMkw2OCAwSDB6Ii8+PHBhdGggZmlsbD0iIzAwNTJiNCIgZD0iTTMzNiAwdjEwOEw0NDQgMFptMTc2IDY4TDQwNCAxNzZoMTA4ek0wIDE3NmgxMDhMMCA2OFpNNjggMGwxMDggMTA4VjBabTEwOCA1MTJWNDA0TDY4IDUxMlpNMCA0NDRsMTA4LTEwOEgwWm01MTItMTA4SDQwNGwxMDggMTA4Wm0tNjggMTc2TDMzNiA0MDR2MTA4eiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDB2NDVsMTMxIDEzMWg0NUwwIDB6bTIwOCAwdjIwOEgwdjk2aDIwOHYyMDhoOTZWMzA0aDIwOHYtOTZIMzA0VjBoLTk2em0yNTkgMEwzMzYgMTMxdjQ1TDUxMiAwaC00NXpNMTc2IDMzNiAwIDUxMmg0NWwxMzEtMTMxdi00NXptMTYwIDAgMTc2IDE3NnYtNDVMMzgxIDMzNmgtNDV6Ii8+PC9nPjwvc3ZnPg==" x="343" y="263" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="370" cy="290" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="370" cy="290" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="370" y="334" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">London</text>
+      <text x="370" y="352" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">Global Tech Hub · 20% CGT</text>
+    </g>
+
+    <g class="matrix-item" data-name="Tokyo">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="330" cy="553" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="330" cy="551" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDBoNTEydjUxMkgweiIvPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMTExLjMiIGZpbGw9IiNkODAwMjciLz48L2c+PC9zdmc+" x="303" y="523" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="330" cy="550" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="330" cy="550" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="330" y="594" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Tokyo</text>
+      <text x="330" y="612" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">Gaming Capital · Up to 55%</text>
+    </g>
+
+    <g class="matrix-item" data-name="Seoul">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="420" cy="473" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="420" cy="471" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDBoNTEydjUxMkgwWiIvPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Im0zNTAgMzM1IDI0LTI0IDE2IDE2LTI0IDIzem0tMzkgMzkgMjQtMjQgMTUgMTYtMjMgMjR6bTg3IDggMjMtMjQgMTYgMTYtMjQgMjR6bS00MCAzOSAyNC0yMyAxNiAxNS0yNCAyNFptMTYtNjMgMjQtMjMgMTUgMTUtMjMgMjR6bS0zOSA0MCAyMy0yNCAxNiAxNi0yNCAyM3ptNjMtMjIxLTYzLTYzIDE1LTE1IDY0IDYzem0tNjMtMTUtMjQtMjQgMTYtMTYgMjMgMjR6bTM5IDM5LTI0LTI0IDE2LTE1IDI0IDIzem04LTg3LTI0LTIzIDE2LTE2IDI0IDI0Wm0zOSA0MC0yMy0yNCAxNS0xNiAyNCAyNFpNOTEgMzU4bDYzIDYzLTE2IDE2LTYzLTYzem02MyAxNiAyMyAyNC0xNSAxNS0yNC0yM3ptLTQwLTM5IDI0IDIzLTE2IDE2LTIzLTI0em0yNC0yNCA2MyA2My0xNiAxNi02My02M3ptMTYtMjIwLTYzIDYzLTE2LTE2IDYzLTYzem0yMyAyMy02MyA2My0xNS0xNiA2My02M3ptMjQgMjQtNjMgNjMtMTYtMTYgNjMtNjN6Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTMxOSAzMTkgMTkzIDE5M2E4OSA4OSAwIDEgMSAxMjYgMTI2eiIvPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0zMTkgMzE5YTg5IDg5IDAgMSAxLTEyNi0xMjZ6Ii8+PGNpcmNsZSBjeD0iMjI0LjUiIGN5PSIyMjQuNSIgcj0iNDQuNSIgZmlsbD0iI2Q4MDAyNyIvPjxjaXJjbGUgY3g9IjI4Ny41IiBjeT0iMjg3LjUiIHI9IjQ0LjUiIGZpbGw9IiMwMDUyYjQiLz48L2c+PC9zdmc+" x="393" y="443" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="420" cy="470" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="420" cy="470" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="420" y="514" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Seoul</text>
+      <text x="420" y="532" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">Retail Leader · 20% Tax (2027)</text>
+    </g>
+
+    <g class="matrix-item" data-name="Austin">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="460" cy="663" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="460" cy="661" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0yNTYgMGgyNTZ2NjRsLTMyIDMyIDMyIDMydjY0bC0zMiAzMiAzMiAzMnY2NGwtMzIgMzIgMzIgMzJ2NjRsLTI1NiAzMkwwIDQ0OHYtNjRsMzItMzItMzItMzJ2LTY0eiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0yMjQgNjRoMjg4djY0SDIyNFptMCAxMjhoMjg4djY0SDI1NlpNMCAzMjBoNTEydjY0SDBabTAgMTI4aDUxMnY2NEgwWiIvPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDBoMjU2djI1NkgwWiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0xODcgMjQzIDU3LTQxaC03MGw1NyA0MS0yMi02N3ptLTgxIDAgNTctNDFIOTNsNTcgNDEtMjItNjd6bS04MSAwIDU3LTQxSDEybDU3IDQxLTIyLTY3em0xNjItODEgNTctNDFoLTcwbDU3IDQxLTIyLTY3em0tODEgMCA1Ny00MUg5M2w1NyA0MS0yMi02N3ptLTgxIDAgNTctNDFIMTJsNTcgNDEtMjItNjdabTE2Mi04MiA1Ny00MWgtNzBsNTcgNDEtMjItNjdabS04MSAwIDU3LTQxSDkzbDU3IDQxLTIyLTY3em0tODEgMCA1Ny00MUgxMmw1NyA0MS0yMi02N1oiLz48L2c+PC9zdmc+" x="433" y="633" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="460" cy="660" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="460" cy="660" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="460" y="704" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Austin</text>
+      <text x="460" y="722" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">Bitcoin Hub · 0% State Tax</text>
+    </g>
+
+    <g class="matrix-item" data-name="Zurich / Zug">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="740" cy="243" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="740" cy="241" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjUxMkgweiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0zODkuNiAyMTEuNWgtODl2LTg5aC04OS4xdjg5aC04OXY4OWg4OXY4OWg4OXYtODloODl6Ii8+PC9nPjwvc3ZnPg==" x="713" y="213" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="740" cy="240" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="740" cy="240" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="740" y="284" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Zurich / Zug</text>
+      <text x="740" y="302" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">Crypto Valley · 0% Wealth CGT</text>
+    </g>
+
+    <g class="matrix-item" data-name="Dubai">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="940" cy="233" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="940" cy="231" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNhMjAwMWQiIGQ9Ik0wIDBoMTY3bDUyLjMgMjUyTDE2NyA1MTJIMHoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJtMTY3IDE2NyAxNzAuOC00NC42TDUxMiAxNjd2MTc4bC0xNzMuMiAzNi45TDE2NyAzNDV6Ii8+PHBhdGggZmlsbD0iIzZkYTU0NCIgZD0iTTE2NyAwaDM0NXYxNjdIMTY3eiIvPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik0xNjcgMzQ1aDM0NXYxNjdIMTY3eiIvPjwvZz48L3N2Zz4=" x="913" y="203" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="940" cy="230" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="940" cy="230" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="940" y="274" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Dubai</text>
+      <text x="940" y="292" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">VARA Hub · 0% Income &amp; CGT</text>
+    </g>
+
+    <g class="matrix-item" data-name="Berlin">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="650" cy="363" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="650" cy="361" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0wIDM0NSAyNTYuNy0yNS41TDUxMiAzNDV2MTY3SDB6Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0ibTAgMTY3IDI1NS0yMyAyNTcgMjN2MTc4SDB6Ii8+PHBhdGggZmlsbD0iIzMzMyIgZD0iTTAgMGg1MTJ2MTY3SDB6Ii8+PC9nPjwvc3ZnPg==" x="623" y="333" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="650" cy="360" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="650" cy="360" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="650" y="404" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Berlin</text>
+      <text x="650" y="422" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">Ethereum Core · 0% After 1-Yr</text>
+    </g>
+
+    <g class="matrix-item" data-name="Singapore">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="860" cy="343" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="860" cy="341" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjI1NmwtMjU2IDMyTDAgMjU2WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0yMDAgNTZhNzggNzggMCAxIDAgMTcgMTU0IDc4IDc4IDAgMCAxIDAtMTUycS04LTItMTctMm01NiA1LTUgMTdoLTE4bDE0IDExLTUgMTcgMTQtMTEgMTUgMTEtNi0xNyAxNS0xMWgtMTh6bS00MyAzNC02IDE3aC0xOGwxNSAxMC02IDE3IDE1LTEwIDE0IDEwLTUtMTcgMTQtMTBoLTE4em04NiAwLTUgMTdoLTE4bDE0IDEwLTUgMTcgMTQtMTAgMTUgMTAtNi0xNyAxNS0xMGgtMTh6bS03MCA1MC01IDE3aC0xOGwxNCAxMC01IDE3IDE0LTEwIDE1IDEwLTYtMTcgMTUtMTBoLTE4em01NCAwLTYgMTdoLTE4bDE1IDEwLTYgMTcgMTUtMTAgMTQgMTAtNS0xNyAxNC0xMGgtMThaTTAgMjU2djI1Nmg1MTJWMjU2WiIvPjwvZz48L3N2Zz4=" x="833" y="313" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="860" cy="340" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="860" cy="340" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="860" y="384" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Singapore</text>
+      <text x="860" y="402" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">Asia Hub · 0% Capital Gains</text>
+    </g>
+
+    <g class="matrix-item" data-name="Lisbon">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="680" cy="493" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="680" cy="491" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiM2ZGE1NDQiIGQ9Ik0wIDUxMmgxNjdsMzcuOS0yNjAuM0wxNjcgMEgweiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik01MTIgMEgxNjd2NTEyaDM0NXoiLz48Y2lyY2xlIGN4PSIxNjciIGN5PSIyNTYiIHI9Ijg5IiBmaWxsPSIjZmZkYTQ0Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTExNi45IDIxMS41VjI2N2E1MCA1MCAwIDEgMCAxMDAuMSAwdi01NS42SDExN3oiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJNMTY3IDI4My44Yy05LjIgMC0xNi43LTcuNS0xNi43LTE2LjdWMjQ1aDMzLjR2MjJjMCA5LjItNy41IDE2LjctMTYuNyAxNi43eiIvPjwvZz48L3N2Zz4=" x="653" y="463" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="680" cy="490" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="680" cy="490" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="680" y="534" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Lisbon</text>
+      <text x="680" y="552" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">Hacker Houses · 0% After 365d</text>
+    </g>
+
+    <g class="matrix-item" data-name="Hong Kong">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="870" cy="473" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="870" cy="471" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjUxMkgweiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0yODIuNCAxOTMuN2MtNS44IDI0LjItMTYuMSAxOS42LTIxLjIgNDAuN2E1NS43IDU1LjcgMCAwIDEgMjYtMTA4LjNjLTEwLjEgNDIuMi40IDQ2LTQuOCA2Ny42ek0yMDUgMjExLjZjMjEuMiAxMyAxMy42IDIxLjQgMzIuMSAzMi44YTU1LjcgNTUuNyAwIDAgMS05NC45LTU4LjJjMzcgMjIuNyA0My44IDEzLjggNjIuOCAyNS40em0tNyA3OS4zYzE5LTE2LjIgMjQuNy02LjQgNDEuMi0yMC40YTU1LjcgNTUuNyAwIDAgMS04NC43IDcyLjJjMzMtMjguMiAyNi42LTM3LjQgNDMuNi01MS44em03My40IDMxYy05LjYtMjMgMS41LTI1LjMtNi44LTQ1LjNhNTUuNyA1NS43IDAgMCAxIDQyLjYgMTAyLjhjLTE2LjYtNDAtMjcuMy0zNi45LTM1LjgtNTcuNHptNTIuMi02MGMtMjQuOSAyLTIzLjctOS4zLTQ1LjMtNy42YTU1LjcgNTUuNyAwIDAgMSAxMTEtOC43Yy00My4zIDMuNC00My42IDE0LjUtNjUuNyAxNi4zeiIvPjwvZz48L3N2Zz4=" x="843" y="443" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="870" cy="470" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="870" cy="470" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="870" y="514" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Hong Kong</text>
+      <text x="870" y="532" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">Licensed ETFs · 0% CGT</text>
+    </g>
+
+    <g class="matrix-item" data-name="Bangkok">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="860" cy="613" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="860" cy="611" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjg5bC03OS4yIDE2My43TDUxMiA0MjN2ODlIMHYtODlsODIuNy0xNjkuNkwwIDg5eiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDg5aDUxMnY3OGwtNDIuNiA5MS4yTDUxMiAzNDV2NzhIMHYtNzhsNDAtOTIuNUwwIDE2N3oiLz48cGF0aCBmaWxsPSIjMDA1MmI0IiBkPSJNMCAxNjdoNTEydjE3OEgweiIvPjwvZz48L3N2Zz4=" x="833" y="583" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="860" cy="610" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="860" cy="610" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="860" y="654" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Bangkok</text>
+      <text x="860" y="672" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">Hackathon Wave · DTV Friendly</text>
+    </g>
+
+    <g class="matrix-item" data-name="Bali">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="940" cy="773" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="940" cy="771" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0wIDI1NiAyNDkuNi00MS4zTDUxMiAyNTZ2MjU2SDB6Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTAgMGg1MTJ2MjU2SDB6Ii8+PC9nPjwvc3ZnPg==" x="913" y="743" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="940" cy="770" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="940" cy="770" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="940" y="814" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Bali</text>
+      <text x="940" y="832" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">Nomad Haven · 0.1% Final Tax</text>
+    </g>
+
+  <!-- Footer Footnotes & Watermark -->
+  <text x="45" y="1165" font-size="13" font-weight="400" fill="#9CA3AF" class="meta">Sources: Hashtag Web3 Developer Ecosystem &amp; Crypto Tax Guide (October 2026).</text>
+  <text x="1155" y="1165" text-anchor="end" font-size="15" font-weight="700" fill="#111827" class="meta">@hashtagweb3 · hashtagweb3.com</text>
+</svg>
