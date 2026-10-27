@@ -62557,7 +62557,8 @@
       },
       "account": "channel:solana",
       "attemptId": "db0d0500-6914-413c-a4b7-5cbd0cd68b60",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x163b07d0a1be8f88d269e93caf9b7b86fa983a10"
     }
   ]
 }
