@@ -168,6 +168,7 @@ const nextConfig = {
       // Legacy /popups/:slug bookmarks → canonical root popup pages (content only on /[slug]).
       { source: `/popups/:slug((?!(?:${socialSuffixPattern})(?:/|$))[^/]+)`, destination: '/:slug', permanent: true },
       { source: `/jio/:platform(${socialSuffixPattern})`, destination: '/jio-perpetuals/:platform', permanent: true },
+      { source: '/veryai', destination: '/very-ai', permanent: true },
       ...Object.entries(canonicalEventRedirects).filter(([source, destination]) => source !== destination).map(([source, destination]) => ({ source: `/${source}`, destination: `/${destination}`, permanent: true })),
     ]
   },

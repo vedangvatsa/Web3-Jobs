@@ -474,6 +474,7 @@ export const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'payoneer': 'https://www.payoneer.com',
  'sphere': 'https://spherepay.co',
  'proto': 'https://proto.xyz',
+ 'very-ai': 'https://very.org',
  'veryai': 'https://very.org',
  'r3': 'https://r3.com',
  'fomo': 'https://fomo.fund',
@@ -601,6 +602,7 @@ async function loadCompanyContent(slug: string): Promise<{ website?: string; des
  */
 function normalizeCompanyName(name: string): string {
   const lower = name.toLowerCase().trim();
+  if (['very ai', 'veryai', 'very-ai'].includes(lower)) return 'very-ai';
   if (['op labs', 'op-labs', 'oplabs', 'optimism'].includes(lower)) return 'op-labs';
   if (lower.includes('offchain') || lower.includes('arbitrum')) {
     return 'arbitrum';
@@ -665,6 +667,7 @@ function normalizeCompanyName(name: string): string {
 }
 
 function resolveCanonicalCompanyName(normalized: string, originalName: string): string {
+  if (normalized === 'very-ai' || normalized === 'veryai') return 'VeryAI';
   if (normalized === 'arbitrum') return 'Offchain Labs';
   if (normalized === 'aztec') return 'Aztec Labs';
   if (normalized === 'symbiotic') return 'Symbiotic';

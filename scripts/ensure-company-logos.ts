@@ -61,7 +61,7 @@ const DOMAIN_OVERRIDES: Record<string, string> = {
   streamflow: 'streamflow.finance',
   'baton-corporation': 'baton.sh',
   baton: 'baton.sh',
-  veryai: 'very.org',
+  'very-ai': 'very.org',
   'asymmetric-research': 'asymmetric.re',
   'equa-network': 'equa.network',
   'steakhouse-financial': 'steakhouse.financial',

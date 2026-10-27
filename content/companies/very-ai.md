@@ -1,10 +1,10 @@
 ---
 name: 'VeryAI'
 website: 'https://very.org'
-category: AI & Web3 Agents
+category: Identity & Zero Knowledge
 headquarters: 'Remote'
-description: "Very AI is an intelligent Web3 automation platform combining decentralized compute, artificial intelligence agents, and blockchain rails to automate complex on-chain workflows. By bridging large language models with smart contract execution environments, Very AI enables autonomous agents to perform trading, portfolio management, and protocol governance interactions. The company prizes machine learning engineering, crypto-economic incentive design, and user-centric automation. Very AI combines decentralized compute with AI agent frameworks, enabling autonomous agents to execute complex smart contract workflows, trading, and governance tasks. Very AI combines decentralized compute with AI agent frameworks, enabling autonomous agents to execute complex smart contract workflows, trading, and governance tasks."
-lastUpdated: 2026-09-04
+description: "VeryAI is a privacy-preserving biometric identity and proof-of-personhood protocol native to Solana. Unlike hardware-centric biometric systems that require specialized physical scanning orbs, VeryAI utilizes ubiquitous smartphone camera technology to perform advanced palm biometric verification locally on the user's device. Leveraging zero-knowledge proofs (ZKPs), VeryAI enables decentralized applications, AI agents, and governance DAOs to verify unique human identity and prevent Sybil attacks without storing or exposing biometric data. VeryAI delivers frictionless, hardware-free biometric onboarding for digital identities across Web3."
+lastUpdated: 2026-10-27
 ---
 
-Very AI is an intelligent Web3 automation platform combining decentralized compute, artificial intelligence agents, and blockchain rails to automate complex on-chain workflows. By bridging large language models with smart contract execution environments, Very AI enables autonomous agents to perform trading, portfolio management, and protocol governance interactions. The company prizes machine learning engineering, crypto-economic incentive design, and user-centric automation.
+VeryAI is a privacy-preserving biometric identity and proof-of-personhood protocol native to Solana. Unlike hardware-centric biometric systems that require specialized physical scanning orbs, VeryAI utilizes ubiquitous smartphone camera technology to perform advanced palm biometric verification locally on the user's device. Leveraging zero-knowledge proofs (ZKPs), VeryAI enables decentralized applications, AI agents, and governance DAOs to verify unique human identity and prevent Sybil attacks without storing or exposing biometric data. VeryAI delivers frictionless, hardware-free biometric onboarding for digital identities across Web3.

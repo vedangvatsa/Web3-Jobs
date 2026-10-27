@@ -468,6 +468,7 @@ export function getPublicJobUrl(
 export function getCompanySlug(company: string): string {
   const lower = (company || '').toLowerCase().trim();
   if (lower === 'eco' || lower === 'eco protocol' || lower === 'eco-protocol') return 'eco-protocol';
+  if (['very ai', 'veryai', 'very-ai'].includes(lower)) return 'very-ai';
   if (['bob build on bitcoin', 'bob-build-on-bitcoin'].includes(lower)) return 'bob';
   if (['kappa lab', 'kappa lab ltd', 'kappa-lab-ltd', 'kappalab', 'kappalab ltd'].includes(lower)) return 'kappa-lab';
   if (lower.startsWith('ritual') || lower.includes('ritual')) {
