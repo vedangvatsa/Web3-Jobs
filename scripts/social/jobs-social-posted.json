@@ -64777,7 +64777,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "a6f69020-9c8a-4aeb-87ab-d840466f8c1d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x14763fd4ca92e80390f338a3105485611d73a35a"
     }
   ]
 }
