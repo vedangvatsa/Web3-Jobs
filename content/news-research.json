@@ -93609,11 +93609,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "3ea1771b60a69a59a1ff",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-27T03:42:12.136Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-29T16:00:30.000Z",
-      "lastSeenAt": "2026-10-27T03:42:12.136Z"
+      "lastSeenAt": "2026-10-27T03:42:12.136Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read the CryptoSlate piece: macro analysis of Treasury dealer bill holdings and conditional Bitcoin spillover. The article itself frames spillover as unproven and names the missing evidence link. No launch, vote, ruling, filing, or upgrade.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/bitcoins-liquidity-test-shifts-to-treasury-dealers-two-year-high-in-bill-holdings/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-27T03:47:47.620Z",
+      "lastReviewedDay": "2026-10-27"
     },
     "f9a41638f2a3d6639322": {
       "source": "The Defiant",
@@ -170522,6 +170532,18 @@
             }
           ],
           "reviewedAt": "2026-10-27T03:47:45.088Z"
+        },
+        "3ea1771b60a69a59a1ff": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read the CryptoSlate piece: macro analysis of Treasury dealer bill holdings and conditional Bitcoin spillover. The article itself frames spillover as unproven and names the missing evidence link. No launch, vote, ruling, filing, or upgrade.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/bitcoins-liquidity-test-shifts-to-treasury-dealers-two-year-high-in-bill-holdings/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-27T03:47:47.620Z"
         }
       },
       "baselineSlugs": [
