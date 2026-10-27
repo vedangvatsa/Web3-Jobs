@@ -8715,5 +8715,120 @@
     "slotKey": "2026-10-26:evening",
     "messageId": 147,
     "sentAt": "2026-10-26T19:39:39.753Z"
+  },
+  "bece4e32-9d24-45b5-8fbb-920b6e006b01": {
+    "status": "reserved",
+    "reservedAt": "2026-10-27T03:42:21.808Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "95af2a56-949e-4c33-b5eb-205726328d4c",
+          "title": "Director of Finance - Canada Wide - Remote",
+          "company": "Newton",
+          "link": "https://jobs.lever.co/newton/95af2a56-949e-4c33-b5eb-205726328d4c",
+          "date": "2026-10-19T17:41:43.735Z",
+          "source": "Lever: Newton [newton]",
+          "location": "Remote (Toronto, Ontario)",
+          "workplaceType": "remote",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "dfcw"
+        },
+        "key": "95af2a56-949e-4c33-b5eb-205726328d4c",
+        "slug": "dfcw",
+        "url": "https://hashtagweb3.com/dfcw?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Newton",
+        "title": "Director of Finance"
+      },
+      {
+        "snapshot": {
+          "id": "8859670002",
+          "title": "Data Centre Facilities Engineer",
+          "company": "Jane Street",
+          "link": "https://www.janestreet.com/join-jane-street/apply/8859670002?gh_jid=8859670002",
+          "date": "2026-10-01T04:23:45-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Jane Street [janestreet]",
+          "location": "Singapore",
+          "department": "Real Estate Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng193"
+        },
+        "key": "8859670002",
+        "slug": "eng193",
+        "url": "https://hashtagweb3.com/eng193?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Jane Street",
+        "title": "Data Centre Facilities Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8258307",
+          "title": "Software Engineer, Web3 Backend",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8258307?t=gh_src=&gh_jid=8258307",
+          "date": "2026-10-07T04:41:09-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Toronto, Canada",
+          "department": "ENG Platforms",
+          "active": true,
+          "salary": "$136k – $160k/yr",
+          "dateVerified": true,
+          "slug": "be63"
+        },
+        "key": "8258307",
+        "slug": "be63",
+        "url": "https://hashtagweb3.com/be63?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "d7c72ca6-922b-4353-a754-261dd2afc28f",
+          "title": "Accountant",
+          "company": "SwissBorg",
+          "link": "https://jobs.lever.co/swissborg/d7c72ca6-922b-4353-a754-261dd2afc28f",
+          "date": "2026-10-20T14:03:38.804Z",
+          "source": "Lever: SwissBorg [swissborg]",
+          "location": "Remote - Europe Timezone",
+          "workplaceType": "remote",
+          "department": "Corporate Governance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls316"
+        },
+        "key": "d7c72ca6-922b-4353-a754-261dd2afc28f",
+        "slug": "sls316",
+        "url": "https://hashtagweb3.com/sls316?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "SwissBorg",
+        "title": "Accountant"
+      },
+      {
+        "snapshot": {
+          "id": "8248663",
+          "title": "Senior Manager, Customer Partner Success",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8248663?gh_jid=8248663",
+          "date": "2026-10-14T08:44:09-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "London, UK",
+          "department": "Customer Success",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr95"
+        },
+        "key": "8248663",
+        "slug": "mgr95",
+        "url": "https://hashtagweb3.com/mgr95?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Senior Manager"
+      }
+    ],
+    "message": "- Newton is hiring <a href=\"https://hashtagweb3.com/dfcw?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director of Finance - Canada Wide - Remote</a>\n- Jane Street is hiring <a href=\"https://hashtagweb3.com/eng193?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Data Centre Facilities Engineer</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/be63?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer, Web3 Backend</a>\n- SwissBorg is hiring <a href=\"https://hashtagweb3.com/sls316?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Accountant</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/mgr95?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Manager, Customer Partner Success</a>",
+    "slotKey": "2026-10-27:morning"
   }
 }
