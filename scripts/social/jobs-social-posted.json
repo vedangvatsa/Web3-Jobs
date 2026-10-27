@@ -65065,7 +65065,8 @@
       },
       "account": "channel:base",
       "attemptId": "6db27ade-5ccb-4d4e-affd-d00fc8ba5776",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4fefab05aa561cb842397267012a2bed791811e0"
     }
   ]
 }
