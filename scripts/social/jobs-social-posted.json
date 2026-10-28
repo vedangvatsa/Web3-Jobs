@@ -67909,6 +67909,47 @@
       "verification": "verified",
       "postId": "6ae1e24cf8d0c164b162b457",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7521177488815947776"
+    },
+    {
+      "slug": "pm85",
+      "company": "Merkle Science",
+      "title": "Product Marketing Manager (London)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-28T11:49:11.071Z",
+      "expectedText": "Merkle Science is hiring Product Marketing Manager (London): https://hashtagweb3.com/pm85/li?og=7",
+      "snapshot": {
+        "id": "d7139ad8-a40d-4537-a563-8684e5e45fea",
+        "title": "Product Marketing Manager (London)",
+        "company": "Merkle Science",
+        "link": "https://jobs.lever.co/merklescience/d7139ad8-a40d-4537-a563-8684e5e45fea",
+        "date": "2026-09-30T12:03:01.958Z",
+        "source": "Lever: Merkle Science [merklescience]",
+        "location": "Hybrid (London)",
+        "workplaceType": "hybrid",
+        "department": "Marketing",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm85"
+      },
+      "payload": {
+        "text": "Merkle Science is hiring Product Marketing Manager (London): https://hashtagweb3.com/pm85/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm85/li?og=7",
+          "title": "Product Marketing Manager (London) at Merkle Science",
+          "description": "Join Merkle Science as Product Marketing Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm85.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "6fecc2d0-19ab-4402-9ad9-592b26b8f781",
+      "verification": "creating"
     }
   ]
 }
