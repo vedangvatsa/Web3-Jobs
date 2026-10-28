@@ -66505,7 +66505,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "4201b1e8-d5fd-45c1-a942-92fbea0da42d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x772ee00c55008df8683d8003bf15fd8fb0b1a94a"
     }
   ]
 }
