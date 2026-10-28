@@ -68775,7 +68775,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "761db017-8d24-4e72-968d-a4e76471f9d1",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae1e323f8d0c164b162e381"
     }
   ]
 }
