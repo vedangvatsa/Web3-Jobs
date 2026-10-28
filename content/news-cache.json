@@ -1,6 +1,110 @@
 {
-  "generatedAt": "2026-10-27T19:32:48.166Z",
+  "generatedAt": "2026-10-28T03:43:30.587Z",
   "items": [
+    {
+      "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
+      "link": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+      "pubDate": "Wed, 28 Oct 2026 03:11:14 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "The crypto exchange says an incident at analytics firm Amplitude exposed some customer contact information, but insists its own systems were not breac...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Datavault AI stock plummets 50% after firm says it cannot withdraw bitcoin tied to $150 million deal",
+      "link": "https://www.theblock.co/news/business/2026-10-27-datavault-ai-stock-plummets-bitcoin-deal-431962",
+      "pubDate": "Wed, 28 Oct 2026 03:00:33 +0000",
+      "creator": "Danny Park",
+      "contentSnippet": "The issue centers on a deal with Scilex, under which Scilex agreed to buy shares of Datavault AI for $150 million, payable in bitcoin.",
+      "source": "The Block"
+    },
+    {
+      "title": "KubeRay best practices focus on production scale and cluster failures",
+      "link": "https://Blockchain.News/news/kuberay-best-practices-production-scale-cluster-failures",
+      "pubDate": "Tue, 27 Oct 2026 23:29:34 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Anyscale outlines production KubeRay practices for logs, GPU health, autoscaler tuning and head-node resilience, with Connect in private preview. (Rea...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "MENA crypto economy stays flat at $443.3B as UAE gains",
+      "link": "https://Blockchain.News/news/mena-crypto-economy-flat-443-3b-uae-gains",
+      "pubDate": "Tue, 27 Oct 2026 23:17:30 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Chainalysis said MENA’s crypto economy was flat at $443.3 billion in the July 2025-June 2026 period, with the UAE up 32% and Türkiye still the largest...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
+      "link": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 27 Oct 2026 21:28:22 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "VanEck’s new Wealth Builder ETF targets a 2% Bitcoin allocation, with a permitted range of 1% to 5%, gaining exposure through a spot Bitcoin ETP.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Robinhood Chain brings in $26 million as crypto revenue rises 20% in Q3",
+      "link": "https://www.theblock.co/news/business/2026-10-27-robinhood-chain-brings-in-26-million-crypto-revenue-rises-20-q2-431935",
+      "pubDate": "Tue, 27 Oct 2026 20:55:35 +0000",
+      "creator": "Kyle Baird",
+      "contentSnippet": "Robinhood’s blockchain boosted crypto revenue, while prediction markets brought in $173 million in the third quarter.",
+      "source": "The Block"
+    },
+    {
+      "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
+      "link": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
+      "pubDate": "Tue, 27 Oct 2026 20:41:33 +0000",
+      "creator": "Krisztian Sandor",
+      "contentSnippet": "Speaking at Ripple's conference, the U.S. Treasury Secretary said the SEC and CFTC action could help fill the gap left by the Clarity Act's failure, w...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Binance adds covered call and cash-secured put stock options",
+      "link": "https://Blockchain.News/news/binance-covered-call-cash-secured-put-stock-options-live",
+      "pubDate": "Tue, 27 Oct 2026 20:38:22 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Binance says covered calls and cash-secured puts are now available on its stock options platform, expanding its U.S.-listed shares and ETF derivatives...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says ",
+      "link": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 27 Oct 2026 20:33:19 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "Speaking on Cointelegraph’s Chain Reaction podcast, Muneeb Ali warned that uncertainty over Bitcoin’s quantum security could deter institutional inves...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
+      "link": "https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales",
+      "pubDate": "Tue, 27 Oct 2026 20:32:21 +0000",
+      "creator": "Helene Braun",
+      "contentSnippet": "Crypto trading volume fell 38% from year-ago levels, but the firm's overall blockchain business gained traction.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Robinhood Taps Ripple's Stablecoin, Treasury Software and Trading Loans",
+      "link": "https://decrypt.co/382002/robinhood-taps-ripple-stablecoin-treasury-software-trading-loans",
+      "pubDate": "Tue, 27 Oct 2026 20:16:02 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Ripple's RLUSD stablecoin is live on Robinhood Chain and Bitstamp, and heads to the Robinhood app later this year as the companies deepen ties in trea...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets ",
+      "link": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 27 Oct 2026 19:54:05 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "Ripple also expanded its collaboration with BNY on digital asset custody and partnered with C2FO to bring trade finance settlement onto the XRP Ledger...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Anchorage Positions Itself as Custody Backbone of US-Mexico Stablecoin Corridor",
+      "link": "https://decrypt.co/381988/anchorage-custody-backbone-us-mexico-stablecoin-corridor",
+      "pubDate": "Tue, 27 Oct 2026 19:46:02 +0000",
+      "creator": "Agent",
+      "contentSnippet": "An expanded deal with Bitso puts Anchorage Digital Bank’s custody beneath both sides of the US-Mexico remittance route.",
+      "source": "Decrypt"
+    },
     {
       "title": "CFTC sues Utah to block action against prediction markets ",
       "link": "https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -112,14 +216,6 @@
       "creator": "Nate Kostar",
       "contentSnippet": "The blockchain-based fund offers eligible non-US investors exposure to the Nasdaq-100 as Janus Henderson expands its institutional tokenization busine...",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
-      "link": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
-      "pubDate": "Tue, 27 Oct 2026 16:35:29 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "Robinhood helped launch a rival dollar-backed token, USDG, but will also offer Ripple's stablecoin to retail customers later this year.",
-      "source": "Coindesk"
     },
     {
       "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko ",
@@ -266,11 +362,11 @@
       "source": "Decrypt"
     },
     {
-      "title": "Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital",
+      "title": "Live updates: Bitcoin edges higher as Nasdaq surges 1.2%",
       "link": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
       "pubDate": "Tue, 27 Oct 2026 11:40:50 +0000",
       "creator": "Stephen Alpher",
-      "contentSnippet": "Interest rates and oil are slipping and equities are rising, but crypto remains under pressure.",
+      "contentSnippet": "The Fed is expected to hold rates steady on Wednesday, but markets will be looking for clues about future policy moves.",
       "source": "Coindesk"
     },
     {
@@ -498,20 +594,12 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-      "link": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 26 Oct 2026 13:27:38 +0000",
-      "creator": "Helen Partz",
-      "contentSnippet": "Strategy made no Bitcoin purchases or sales last week, as its STRC preferred stock buybacks reduced its USD Cash balance by 46% to $242.4 million.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
-      "link": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 26 Oct 2026 13:12:41 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "Bernstein analysts raised Robinhood’s revenue estimates through 2026 and 2028, while maintaining their HOOD price target unchanged at $160.",
-      "source": "Cointelegraph"
+      "title": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC",
+      "link": "https://decrypt.co/381811/strategy-pauses-bitcoin-buying-spends-205m-buying-back-strc",
+      "pubDate": "Mon, 26 Oct 2026 13:24:38 +0000",
+      "creator": "Agent",
+      "contentSnippet": "The Bitcoin treasury firm's USD Cash balance fell to $242.4 million after its biggest weekly STRC buyback in more than a month.",
+      "source": "Decrypt"
     },
     {
       "title": "Morning Minute: Bitcoin Breaks Below $80,000 as Iran Fears Hit the Weekend",
@@ -522,44 +610,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger ",
-      "link": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 26 Oct 2026 11:39:27 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "The move marks Aviva’s second fund to list tokenized shares, part of a broader collaboration to bring more tokenized funds to the XRP Ledger.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Israel's Central Bank Rebukes Netanyahu Plan to Use Crypto to Dodge Sanctions",
       "link": "https://decrypt.co/381789/israels-central-bank-rebukes-netanyahu-plan-to-use-crypto-to-dodge-sanctions",
       "pubDate": "Mon, 26 Oct 2026 11:34:08 +0000",
       "creator": "Agent",
       "contentSnippet": "Over 100 economists, including former governor Jacob Frenkel, warned of deeper isolation ahead of Israel's October 27 national election.",
       "source": "Decrypt"
-    },
-    {
-      "title": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week ",
-      "link": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 26 Oct 2026 10:49:55 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Bitcoin bulls fought for $80,000 support over the weekend ahead of a heavy week of US tech earnings and inflation data.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Securitize’s tokenized stock value halves as Circle widens lead",
-      "link": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 26 Oct 2026 10:25:01 +0000",
-      "creator": "Yohan Yun",
-      "contentSnippet": "SECZ’s onchain market cap fell to $208.6 million as Circle-linked tokens reached a combined $383.6 million across several issuers in the $3.3 billion ...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 26 Oct 2026 08:20:49 +0000",
-      "creator": "Helen Partz",
-      "contentSnippet": "US spot Bitcoin ETFs finished the week with $301 million in net inflows after a strong three-day start gave way to heavy withdrawals.",
-      "source": "Cointelegraph"
     }
   ]
 }
