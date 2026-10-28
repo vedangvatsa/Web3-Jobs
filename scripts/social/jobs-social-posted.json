@@ -66777,7 +66777,8 @@
       },
       "account": "channel:base",
       "attemptId": "073f4585-ce00-43f3-b1b9-2d5cf322075f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x31cf23f01bead53a8eaf2f5edda00bd201a80d11"
     }
   ]
 }
