@@ -368,21 +368,6 @@
     }
   },
   {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-cryptography-and-information-security-",
-    "name": "International Conference on Cryptography and Information Security (ICCIS)",
-    "description": "International Conference on Cryptography and Information Security scheduled on September 28-29, 2026 at Vancouver, Canada is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2026-09-28T00:00:00.000Z",
-    "endDate": "2026-09-28T00:00:00.000Z",
-    "city": "Vancouver",
-    "country": "Canada",
-    "location": "Vancouver, Canada",
-    "url": "https://conferenceindex.org/event/international-conference-on-cryptography-and-information-security-iccis-2026-september-vancouver-ca",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "September 2026",
-    "website": "https://waset.org/cryptography-and-information-security-conference-in-september-2026-in-vancouver?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing"
-  },
-  {
     "id": "w3v-ethereum-korea-one",
     "name": "Ethereum Korea One",
     "description": "Ethereum Korea One: a September 28–29 event covering Ethereum, tokenization, stablecoins, and builder-focused technical discussions.",
@@ -21065,7 +21050,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316859645/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316859645-e5a94e7a.webp",
     "source": "meetup",
     "month": "October 2026",
     "descriptionSource": {
@@ -21720,7 +21705,7 @@
     "country": "us",
     "location": "Belmont, us",
     "url": "https://www.meetup.com/bay-area-bitcoiners/events/316898768/",
-    "coverImage": "/events/mu-316898768-2130638a.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -21734,7 +21719,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-sf/events/316859718/",
-    "coverImage": "/events/mu-316859718-2ce05fca.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -21748,7 +21733,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-sf/events/316802689/",
-    "coverImage": "/events/mu-316802689-552e19c6.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -28075,7 +28060,10 @@
     "url": "https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946609/",
     "coverImage": "/events/mu-312946609-64a47ab1.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Frank Migacz"
+    ]
   },
   {
     "id": "mu-316901080",
@@ -28814,7 +28802,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261027%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261027T193624Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=3d833deaa92b1d80f39166f2ba1bfb2687afeb811c73d99b6ff563ca9fbeb2e3",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261028%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261028T034727Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=0e9ce6c61407b0937393aed0d562ae4c464b2e1c15f6d56b2da8f524a5008fd5",
     "month": "November 2026"
   },
   {
@@ -29751,5 +29739,145 @@
     "coverImage": "/events/luma-evt-mehaj8nh0grizfv-593e36d5.webp",
     "source": "luma",
     "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-hbGaHUEqWV485Bi",
+    "name": "Lovable Buildathon with YFL & Imperial Entrepreneurs",
+    "description": "",
+    "startDate": "2026-10-28T18:00:00.000Z",
+    "endDate": "2026-10-28T22:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/fncgfgwq",
+    "coverImage": "/events/luma-evt-hbgahueqwv485bi-4efdd7da.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-iaaEH1PvoS1vEEz",
+    "name": "The Road to Growth | Lessons from Giant Ventures, Atomico & OMERS",
+    "description": "",
+    "startDate": "2026-10-28T18:00:00.000Z",
+    "endDate": "2026-10-28T21:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/novabook-0uce",
+    "coverImage": "/events/luma-evt-iaaeh1pvos1veez-1510a266.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-TMLTgzNP5vlRwYB",
+    "name": "Boston DAO Monthly Meetup",
+    "description": "",
+    "startDate": "2026-10-29T21:30:00.000Z",
+    "endDate": "2026-10-29T23:30:00.000Z",
+    "city": "Boston",
+    "country": "United States",
+    "location": "Boston, United States",
+    "url": "https://lu.ma/m0p6qg0u",
+    "coverImage": "/events/luma-evt-tmltgznp5vlrwyb-a9406b9b.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-fYFPo80PScs5Gfs",
+    "name": "Capital Markets, Onchain with Stellar",
+    "description": "",
+    "startDate": "2026-10-29T22:30:00.000Z",
+    "endDate": "2026-10-30T00:30:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/stellar-qcxn",
+    "coverImage": "/events/luma-evt-fyfpo80pscs5gfs-4a476837.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-zJsCvA6Ehqk9yYl",
+    "name": "Afore x TVG x Silicon Hills Project",
+    "description": "",
+    "startDate": "2026-10-29T23:00:00.000Z",
+    "endDate": "2026-10-30T00:00:00.000Z",
+    "city": "Austin",
+    "country": "United States",
+    "location": "Austin, United States",
+    "url": "https://lu.ma/cxw8qt5b",
+    "coverImage": "/events/luma-evt-zjscva6ehqk9yyl-1048b0c9.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-vuqRJzUqFytlJJk",
+    "name": "Silicon Valley Medtech Threat Briefing",
+    "description": "",
+    "startDate": "2026-10-30T00:30:00.000Z",
+    "endDate": "2026-10-30T04:00:00.000Z",
+    "city": "Sunnyvale",
+    "country": "United States",
+    "location": "Sunnyvale, United States",
+    "url": "https://lu.ma/gkjbpgg6",
+    "coverImage": "/events/luma-evt-vuqrjzuqfytljjk-328ac458.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316970507",
+    "name": "Web3 and AI networking at The Rose & Crown",
+    "description": "Professional Networking, AI and Web3 Chat\n-Meet other people in AI and Web3\n-Discuss current trends and pitch your ideas\n-Come and join us at The Rose and Crown!",
+    "startDate": "2026-11-02T18:30:00-08:00",
+    "endDate": "2026-11-02T18:30:00-08:00",
+    "city": "Palo Alto",
+    "country": "us",
+    "location": "Palo Alto, us",
+    "url": "https://www.meetup.com/palo-alto-cryptomondays-meetup/events/316970507/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317156445",
+    "name": "Webinar with Cosmos Labs: Designing Tokenized Deposits for a Multi-Ledger Future",
+    "description": "Join us for a webinar with Cosmos Labs, an LFDT general member, on Designing Tokenized Deposits for a Multi-Ledger Future. Most tokenized deposit initiatives start within a single institution or conso",
+    "startDate": "2026-11-13T07:00:00-08:00",
+    "endDate": "2026-11-13T07:00:00-08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-sf/events/317156445/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317156496",
+    "name": "Webinar with Cosmos Labs: Designing Tokenized Deposits for a Multi-Ledger Future",
+    "description": "Join us for a webinar with Cosmos Labs, an LFDT general member, on Designing Tokenized Deposits for a Multi-Ledger Future. Most tokenized deposit initiatives start within a single institution or conso",
+    "startDate": "2026-11-13T07:00:00-08:00",
+    "endDate": "2026-11-13T07:00:00-08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-silicon-valley/events/317156496/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-ZB7vesJ2LIUqThb",
+    "name": "¡Tour 2026 – Finish Strong llega a Miami! (Spanish)",
+    "description": "",
+    "startDate": "2026-11-21T14:00:00.000Z",
+    "endDate": "2026-11-21T20:00:00.000Z",
+    "city": "Miami",
+    "country": "United States",
+    "location": "Miami, United States",
+    "url": "https://lu.ma/zinzino-uuga",
+    "coverImage": "/events/luma-evt-zb7vesj2liuqthb-0db0bc27.webp",
+    "source": "luma",
+    "month": "November 2026"
   }
 ]

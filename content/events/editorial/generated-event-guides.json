@@ -256,46 +256,6 @@
       }
     ]
   },
-  "ci-https---conferenceindex-org-event-international-conference-on-cryptography-and-information-security-": {
-    "summaryLead": "The International Conference on Cryptography and Information Security convenes in Kuala Lumpur on August 24-25, 2026, two days for the people who think about keys, ciphers and trust for a living.",
-    "sections": [
-      {
-        "heading": "Cryptography Takes the Stage in KL",
-        "content": [
-          "Kuala Lumpur, Malaysia hosts the International Conference on Cryptography and Information Security (ICCIS) on August 24-25, 2026, per the event's Conference Index listing. Like other entries in this family, it is organized under the World Academy of Science, Engineering and Technology and follows a conventional academic arc: authors submit papers, reviewers respond, and accepted work is presented across the two-day program.",
-          "Its cycle is unusually compact. Final submissions were due July 22, 2026, notifications were set for August 3, 2026, and the conference itself runs August 24-25, 2026. If you missed the submission window, attending-only or targeting a future edition are the realistic remaining options."
-        ]
-      },
-      {
-        "heading": "Beyond Textbook Crypto",
-        "content": [
-          "The call ranges well past substitution-permutation nostalgia. Classical concerns anchor the program: cryptography and coding, key management, authentication, untraceability, privacy and authentication, data integrity, access control and intrusion detection. Quantum cryptography appears too, a topic that has migrated from curiosity to boardroom agenda.",
-          "The wider sweep is telling: biometric security, trust models and metrics, wireless network security, information hiding, vulnerability assessment, insider threats and countermeasures, e-commerce integrity, and computational-intelligence approaches ranging from artificial immune systems to evolutionary computation, fuzzy systems and intelligent agents. Security, in this framing, is as much adaptive behaviour as mathematics."
-        ]
-      },
-      {
-        "heading": "Timeline Check",
-        "content": [
-          "The sequence runs cleanly: final submission July 22, 2026, notification August 3, 2026, conference August 24-25, 2026. That is a compressed, legible cycle, refreshingly straightforward compared with listings where the notification date somehow predates the submission deadline.",
-          "Administration flows through waset.org, and the index tags the event with keywords spanning vulnerability, threat intelligence, network security, mobile security and information security. Venue specifics are not published on the listing itself, so contact organizers for the room before booking anything non-refundable."
-        ]
-      },
-      {
-        "heading": "KL Notes",
-        "content": [
-          "Kuala Lumpur is an easy sell: competitive hotel rates by regional standards, excellent air connectivity through KLIA, and food culture that alone justifies the trip. August sits in a fair weather window, though afternoon rain remains a reliable co-author of your plans.",
-          "For cryptographers, security engineers and graduate students in Southeast Asia, the proximity argument is decisive: a focused, affordable two days without intercontinental travel. Verify program details on the organizer's pages as August progresses, and if you are presenting, arrive with slides that can survive a skeptical room."
-        ]
-      },
-      {
-        "heading": "Who Shows Up, Who Should",
-        "content": [
-          "Events like ICCIS draw a predictable mix: academic cryptographers, graduate students hunting a first proceedings credit, and a scattering of security engineers whose employers will pay for anything with the word security in the title. All three groups get something here. The researchers get a compact program where nothing competes with five parallel tracks, and the engineers get named coverage of insider threats, vulnerability assessment and wireless network security that maps uncomfortably well onto their Monday mornings.",
-          "For Malaysia-based attendees the calculus is easiest. Kuala Lumpur's hotel and flight costs keep the trip inside a modest budget, and the two-day footprint fits a working week without drama. The topic list leans academic, so practitioners should scan for the applied lines, biometric security, trust management, intrusion detection, before registering. And given how tight the July-to-August cycle runs, anyone still hoping to present rather than attend should contact the organizers immediately rather than assuming the window remains open."
-        ]
-      }
-    ]
-  },
   "ci-https---conferenceindex-org-event-international-conference-on-financial-cryptography-and-data-securi": {
     "summaryLead": "Financial cryptography gets two focused days in Rome on September 7-8, 2026, as ICFCDS digs into digital cash, payments fraud and the economics of trust.",
     "sections": [

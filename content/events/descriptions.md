@@ -27320,108 +27320,6 @@ Hosted by Superteam Nepal, Ronak Raj Rauniyar.
 
 The event takes place on September 25. Venue: Tigerland Safari - Lemon Tree Resort, Tigerland Safari - Lemon Tree Resort, Chitwan National Park, Narayani, Bagmati Province 44200, Nepal.
 
-<a id="event-a87106cab5e881f0"></a>
-
-## BLOCKCHAIN HACK WARSAW
-
-- Record: `luma-batch-XBxC6u79Id4zAeC`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/BlockchainHackWWA>
-
-### About the event
-
-BLOCKCHAIN HACK WARSAW
-
-Dwa dni, które zmienią Twój pomysł w działający projekt!
-
-Zapraszamy deweloperów, designerów i builderów na weekend intensywnego kodowania na Solanie. Wpadnij ze swoją ideą, dopracuj ją pod okiem doświadczonych mentorów, zaprezentuj przed jury i zgarnij nagrody z puli $2 000.
-
-Nasz cel? Szybko budować, pewnie pitchować i zyskać potężny head start przed Colosseum Hackathonem.
-
-Szukasz zespołu lub pomysłu? Dołącz do naszego Telegrama, aby znaleźć ekipę, wspólnie brainstormować i być na bieżąco.
-
-Co na Ciebie czeka?
-
-Nagrody z puli $2 000
-
-Mentorzy dostępni na miejscu przez cały weekend - od devu, przez design, po produkt.
-
-Dobierz ekipę na miejscu albo wpadnij z własnym zespołem.
-
-Pitchowanie na żywo przed jury i społecznością Solany.
-
-Darmowe jedzenie i napoje przez całe wydarzenie.
-
-Kiedy i gdzie?
-
-Miejsce: Brain Embassy Czackiego, Tadeusza Czackiego 15/17, 00-043, Warszawa Data: 26-27 Września Godziny: Zaczynamy o 10:00, przestrzeń jest otwarta 24/7, Pitchowanie 27.9 o godzinie 18:00 Telegram: Dołącz
-
-Ważne: Aby móc wygrać w hackathonie lokalnym, musisz zgłosić się również na hackathon globalny Colosseum.
-
-Aplikacja do lokalnego hackathonu: Superteam Earn
-
-Źródła
-
-Crypto World's Fair - główna strona globalnego hackathonu
-
-Superteam Build - miejsce z ponad 200 pomysłami idealnymi na Twój projekt na hackathon
-
-Superteam Hackathon Resources Website - Strona z zasobami Superteam Hackathon
-
-Colosseum Copilot - narzędzie AI do burzy mózgów i generowania pomysłów na projekty
-
-Solana.new - kompletny zestaw narzędzi pozwalający przejść od pomysłu do gotowego projektu
-
-Superteam Poland Hackathon Group - Grupa Superteam Poland Hackathon
-
-ENG
-
-BLOCKCHAIN HACK WARSAW
-
-Two days to turn your idea into a working project!
-
-Calling all developers, designers, and builders for a weekend of intense hacking on Solana. Bring your idea, refine it with the help of experienced mentors, pitch it to the jury, and take home prizes from the $2,000 pool.
-
-Our Goal? Build fast, pitch hard, and get a killer head start for Colosseum Hackathon.
-
-Looking for a team or the next big idea? Join our Telegram to find your squad, brainstorm the next big thing, and stay up to date.
-
-What awaits you?
-
-$2,000 prize pool
-
-Mentors on-site all weekend, across dev, design and product
-
-Find teammates or bring your own crew
-
-Pitch live in front of a jury and the Solana community
-
-Food and drinks covered
-
-When & Where
-
-Venue: Brain Embassy Czackiego, Tadeusza Czackiego 15/17, 00-043, Warszawa Date: September 26-27 Hours: Open 24/7 | Kickoff at 10:00 AM | Pitch contest 27.9 6:00PM Telegram: Join the community
-
-Important: To be eligible to win in the local hackathon, you must also apply for the global Colosseum Hackathon.
-
-Local hackathon application: Superteam Earn
-
-Resources
-
-Crypto World's Fair - main hackathon page
-
-Superteam Build - a place with over 200 ideas that are perfect for your hackathon project
-
-Superteam Hackathon Resources Website
-
-Colosseum Copilot - AI brainstorm tool for project ideas
-
-Solana.new - an all in one kit to go from idea to shipped project
-
-Superteam Poland Hackathon Group
-
 <a id="event-32fcb787829d388c"></a>
 
 ## The/Garage Cohort 2 - Housing
@@ -27479,84 +27377,6 @@ https://luma.com/the-garage2
 Datas do programa: 28 de setembro a 10 de outubro de 2026
 
 Local: Solana House, São Paulo
-
-<a id="event-071a5644d57f4a52"></a>
-
-## India OnChain Tour #50 - Haryana Edition
-
-- Record: `luma-batch-evtjfJFCNApP1oVy`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-27T20:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/0srsltaq>
-
-### About the event
-
-Sikka.fun India On-Chain Tour #50 - Haryana Edition 🇮🇳
-
-Join us for the Sikka.fun Community Tour, where creators, builders, students, and Web3 enthusiasts will discover how anyone can launch, grow, and build communities around their own on-chain coins using Sikka.fun.
-
-What You'll Learn
-
-Introduction to Creator Coins & the Future of On-Chain Communities
-
-How to launch your own coin on Sikka.fun in minutes
-
-Fair launches, on-chain referrals & community growth
-
-Understanding token economies and digital ownership
-
-Best practices for building engaged Web3 communities
-
-Why Attend?
-
-Learn directly from the Sikka.fun ecosystem team
-
-Launch your first community coin
-
-Network with creators, founders, and Web3 enthusiasts
-
-Discover how creator-led communities are built on-chain
-
-Get access to future campaigns, rewards, hackathons, and ecosystem opportunities
-
-### About Sikka.fun
-
-Sikka.fun is a mobile-first platform built for India that enables anyone to launch their own community coin in minutes with no upfront creation fees. Designed around fair launches, low barriers to entry, and on-chain referral rewards, Sikka.fun empowers creators and communities to build, grow, and engage through transparent, decentralized participation.
-
-Join our official TG group : https://t.me/+PSQBp6MtfcYxNzk1
-
-<a id="event-ee20f54d2788ab01"></a>
-
-## Drinks & Community Quiz Night
-
-- Record: `luma-batch-evthJAPx4Yev4Bbw`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-27T23:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/7hj5nphs>
-
-### About the event
-
-General Tensor and Zeus SN18 are bringing you Bittensor Quiz Night.
-
-Before the talks, debates and serious business begin, we're getting the Bittensor community together for one night to find out who actually knows this network best.
-
-We're dredging the archives of Bittensor: protocol history, subnet lore, legendary moments, obscure characters, memes, exploits, controversies, governance drama and the kind of knowledge you only acquire after spending far too much time in the ecosystem.
-
-Expect questions about TAO, alpha, emissions, validators, miners, subnet registration, dTAO, the EVM, the Neural Internet, the Church of Rao, the OpenTensor Foundation, legendary subnet launches, suspiciously high GPU counts and posts that should probably have stayed in Discord.
-
-Some questions will test whether you understand how Bittensor actually works, remember which subnet did what, or distinguish a genuine protocol milestone from an extremely confident post on X.
-
-There may be no registration fee. There may be no whitelist. There may be no central authority. There will, however, be a scoreboard.
-
-Expect rounds ranging from Bittensor 101 to terminally online - so you don't need to have been mining since the beginning to take part. Come with a team or find one on the night. Bring your subnet, your strongest conviction and at least one person who remembers what happened before dTAO.
-
-More than anything, this is an excuse to get the community in the same room before Exploit begins: meet the people behind the handles, argue over answers, dredge up some network history, debate whether a subnet is actually decentralised and start the week together.
-
-Free to attend - drinks and pizza will be provided.
-
-This event is exclusively for Exploit Summit ticket holders. Please register using the email address associated with your Exploit ticket.
 
 <a id="event-f654670f071c1692"></a>
 
@@ -47589,19 +47409,6 @@ All hackathon winners are interviewed and considered for the Colosseum accelerat
 ### Livestream workshops
 
 All workshops stream live on Discord, including the kickoff with the Colosseum founders. Participants can watch live, ask questions and follow the program through the event.
-
-<a id="event-3b0e4d357a068372"></a>
-
-## International Conference on Cryptography and Information Security (ICCIS)
-
-- Record: `ci-https---conferenceindex-org-event-international-conference-on-cryptography-and-information-security-`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-28T00:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://conferenceindex.org/event/international-conference-on-cryptography-and-information-security-iccis-2026-september-vancouver-ca>
-- Original page: <https://waset.org/cryptography-and-information-security-conference-in-september-2026-in-vancouver?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-dd738769b481004a"></a>
 
@@ -67963,6 +67770,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-7eaf95d57ca96499"></a>
+
+## Lovable Buildathon with YFL & Imperial Entrepreneurs
+
+- Record: `luma-evt-hbGaHUEqWV485Bi`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-28T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/fncgfgwq>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-2aa608382158e3f0"></a>
+
+## The Road to Growth \| Lessons from Giant Ventures, Atomico & OMERS
+
+- Record: `luma-evt-iaaEH1PvoS1vEEz`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-28T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/novabook-0uce>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-d4a395bff30b92cc"></a>
 
 ## Bit2Me Side Event at MERGE Madrid 2026
@@ -68537,6 +68368,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-6e3fa6134c9ef941"></a>
+
+## Boston DAO Monthly Meetup
+
+- Record: `luma-evt-TMLTgzNP5vlRwYB`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T21:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/m0p6qg0u>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-7e6d1489dbf12e48"></a>
 
 ## Proof of Work
@@ -68546,6 +68389,42 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-29T22:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/ffglcmtz>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-76e95b9ae21fea6d"></a>
+
+## Capital Markets, Onchain with Stellar
+
+- Record: `luma-evt-fYFPo80PScs5Gfs`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T22:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/stellar-qcxn>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-cb2e57383ec89e07"></a>
+
+## Afore x TVG x Silicon Hills Project
+
+- Record: `luma-evt-zJsCvA6Ehqk9yYl`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/cxw8qt5b>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-d156fee0c6e22c55"></a>
+
+## Silicon Valley Medtech Threat Briefing
+
+- Record: `luma-evt-vuqRJzUqFytlJJk`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-30T00:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/gkjbpgg6>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -69444,6 +69323,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-02T18:30:00-05:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/bitcoincharlotte/events/316966313/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-91c8c45076aca893"></a>
+
+## Web3 and AI networking at The Rose & Crown
+
+- Record: `mu-316970507`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-02T18:30:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/palo-alto-cryptomondays-meetup/events/316970507/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -71370,6 +71261,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-6bc96539a2a00c84"></a>
+
+## Webinar with Cosmos Labs: Designing Tokenized Deposits for a Multi-Ledger Future
+
+- Record: `mu-317156445`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-13T07:00:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-sf/events/317156445/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-24bf98e73301a472"></a>
+
+## Webinar with Cosmos Labs: Designing Tokenized Deposits for a Multi-Ledger Future
+
+- Record: `mu-317156496`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-13T07:00:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-silicon-valley/events/317156496/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-8170ee93e6130645"></a>
 
 ## Webinar with Cosmos Labs: Designing Tokenized Deposits for a Multi-Ledger Future
@@ -72393,6 +72308,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-21T03:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://herhack.devpost.com>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-fb8a6f3f7a7621d0"></a>
+
+## ¡Tour 2026 – Finish Strong llega a Miami! (Spanish)
+
+- Record: `luma-evt-ZB7vesJ2LIUqThb`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-21T14:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/zinzino-uuga>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

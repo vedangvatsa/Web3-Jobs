@@ -3767,55 +3767,6 @@
     }
   },
   {
-    "id": "luma-batch-XBxC6u79Id4zAeC",
-    "slug": "blockchainhackwwa",
-    "name": "BLOCKCHAIN HACK WARSAW",
-    "description": "BLOCKCHAIN HACK WARSAW\n\nDwa dni, które zmienią Twój pomysł w działający projekt!\n\nZapraszamy deweloperów, designerów i builderów na weekend intensywnego kodowania na Solanie. Wpadnij ze swoją ideą, dopracuj ją pod okiem doświadczonych mentorów, zaprezentuj przed jury i zgarnij nagrody z puli $2 000.\n\nNasz cel? Szybko budować, pewnie pitchować i zyskać potężny head start przed Colosseum Hackathonem.\n\nSzukasz zespołu lub pomysłu? Dołącz do naszego Telegrama, aby znaleźć ekipę, wspólnie brainstormować i być na bieżąco.\n\nCo na Ciebie czeka?\n\n🏆 Nagrody z puli $2 000\n\n🛠️ Mentorzy dostępni na miejscu przez cały weekend - od devu, przez design, po produkt.\n\n🤝 Dobierz ekipę na miejscu albo wpadnij z własnym zespołem.\n\n🎤 Pitchowanie na żywo przed jury i społecznością Solany.\n\n🍕 Darmowe jedzenie i napoje przez całe wydarzenie.\n\nKiedy i gdzie?\n\n📍 Miejsce: Brain Embassy Czackiego, Tadeusza Czackiego 15/17, 00-043, Warszawa📅 Data: 26-27 Września ⏰ Godziny: Zaczynamy o 10:00, przestrzeń jest otwarta 24/7, Pitchowanie 27.9 o godzinie 18:00 📱 Telegram: Dołącz\n\nWażne: Aby móc wygrać w hackathonie lokalnym, musisz zgłosić się również na hackathon globalny Colosseum.\n\nAplikacja do lokalnego hackathonu: Superteam Earn\n\nŹródła\n\nCrypto World's Fair - główna strona globalnego hackathonu\n\nSuperteam Build - miejsce z ponad 200 pomysłami idealnymi na Twój projekt na hackathon\n\nSuperteam Hackathon Resources Website - Strona z zasobami Superteam Hackathon\n\nColosseum Copilot - narzędzie AI do burzy mózgów i generowania pomysłów na projekty\n\nSolana.new - kompletny zestaw narzędzi pozwalający przejść od pomysłu do gotowego projektu\n\nSuperteam Poland Hackathon Group - Grupa Superteam Poland Hackathon\n\nENG\n\nBLOCKCHAIN HACK WARSAW\n\nTwo days to turn your idea into a working project!\n\nCalling all developers, designers, and builders for a weekend of intense hacking on Solana. Bring your idea, refine it with the help of experienced mentors, pitch it to the jury, and take home prizes from the $2,000 pool.\n\nOur Goal? Build fast, pitch hard, and get a killer head start for Colosseum Hackathon.\n\nLooking for a team or the next big idea? Join our Telegram to find your squad, brainstorm the next big thing, and stay up to date.\n\nWhat awaits you?\n\n🏆 $2,000 prize pool\n\n🛠️ Mentors on-site all weekend, across dev, design and product\n\n🤝 Find teammates or bring your own crew\n\n🎤 Pitch live in front of a jury and the Solana community\n\n🍕 Food and drinks covered\n\nWhen & Where\n\n📍 Venue: Brain Embassy Czackiego, Tadeusza Czackiego 15/17, 00-043, Warszawa📅 Date: September 26-27⏰ Hours: Open 24/7 | Kickoff at 10:00 AM | Pitch contest 27.9 6:00PM📱 Telegram: Join the community\n\nImportant: To be eligible to win in the local hackathon, you must also apply for the global Colosseum Hackathon.\n\nLocal hackathon application: Superteam Earn\n\nResources\n\nCrypto World's Fair - main hackathon page\n\nSuperteam Build - a place with over 200 ideas that are perfect for your hackathon project\n\nSuperteam Hackathon Resources Website\n\nColosseum Copilot - AI brainstorm tool for project ideas\n\nSolana.new - an all in one kit to go from idea to shipped project\n\nSuperteam Poland Hackathon Group",
-    "startDate": "2026-09-26T08:00:00.000Z",
-    "endDate": "2026-09-27T20:00:00.000Z",
-    "city": "Warszawa",
-    "country": "Poland",
-    "location": "Śródmieście Północne, Warsaw, Warszawa, Województwo mazowieckie, Poland",
-    "url": "https://luma.com/BlockchainHackWWA",
-    "registrationUrl": "https://luma.com/BlockchainHackWWA",
-    "coverImage": "/events/luma-batch-XBxC6u79Id4zAeC-f5767581.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Poland"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/Warsaw",
-    "neighborhood": "Śródmieście Północne, Warsaw",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "Warszawa",
-    "addressRegion": "Województwo mazowieckie",
-    "addressCountry": "PL",
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Poland",
-      "url": "https://luma.com/user/SuperteamPL"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/BlockchainHackWWA",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/BlockchainHackWWA",
-      "eventId": "calev-XBxC6u79Id4zAeC",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-gvz8VKwj4BuMhdF",
     "slug": "n1hqn2zg",
     "name": "Founders Camp Demo Day",
@@ -10699,36 +10650,6 @@
     }
   },
   {
-    "id": "luma-batch-evthJAPx4Yev4Bbw",
-    "slug": "7hj5nphs",
-    "name": "Drinks & Community Quiz Night",
-    "description": "General Tensor and Zeus SN18 are bringing you Bittensor Quiz Night.\n\nBefore the talks, debates and serious business begin, we're getting the Bittensor community together for one night to find out who actually knows this network best.\n\nWe're dredging the archives of Bittensor: protocol history, subnet lore, legendary moments, obscure characters, memes, exploits, controversies, governance drama and the kind of knowledge you only acquire after spending far too much time in the ecosystem.\n\nExpect questions about TAO, alpha, emissions, validators, miners, subnet registration, dTAO, the EVM, the Neural Internet, the Church of Rao, the OpenTensor Foundation, legendary subnet launches, suspiciously high GPU counts and posts that should probably have stayed in Discord.\n\nSome questions will test whether you understand how Bittensor actually works, remember which subnet did what, or distinguish a genuine protocol milestone from an extremely confident post on X.\n\nThere may be no registration fee. There may be no whitelist. There may be no central authority. There will, however, be a scoreboard.\n\nExpect rounds ranging from Bittensor 101 to terminally online - so you don't need to have been mining since the beginning to take part. Come with a team or find one on the night. Bring your subnet, your strongest conviction and at least one person who remembers what happened before dTAO.\n\nMore than anything, this is an excuse to get the community in the same room before Exploit begins: meet the people behind the handles, argue over answers, dredge up some network history, debate whether a subnet is actually decentralised and start the week together.\n\nFree to attend - drinks and pizza will be provided.\n\nThis event is exclusively for Exploit Summit ticket holders. Please register using the email address associated with your Exploit ticket.",
-    "startDate": "2026-09-27T23:00:00.000Z",
-    "endDate": "2026-09-28T03:00:00.000Z",
-    "city": "Montréal",
-    "country": "Canada",
-    "location": "nomad studio, nomad studio, 3 Pl. Ville-Marie, Montréal, QC H3B 3P4, Canada",
-    "url": "https://luma.com/7hj5nphs",
-    "registrationUrl": "https://luma.com/7hj5nphs",
-    "coverImage": "/events/luma-batch-evthJAPx4Yev4Bbw-66524db6.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "America/Toronto",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "summit",
-    "sourceVerification": {
-      "url": "https://luma.com/7hj5nphs",
-      "eventId": "evt-hJAPx4Yev4BbwUV",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evt7c8SYhld2UAo4",
     "slug": "68s6b096",
     "name": "AI・オンチェーン金融サミット",
@@ -11798,36 +11719,6 @@
     "sourceVerification": {
       "url": "https://luma.com/rjvg6uk4",
       "eventId": "evt-Cc88L6Ro1CT4HZB",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtjfJFCNApP1oVy",
-    "slug": "0srsltaq",
-    "name": "India OnChain Tour #50 - Haryana Edition",
-    "description": "Sikka.fun India On-Chain Tour #50 – Haryana Edition 🇮🇳\n\nJoin us for the Sikka.fun Community Tour, where creators, builders, students, and Web3 enthusiasts will discover how anyone can launch, grow, and build communities around their own on-chain coins using Sikka.fun. 🚀\n\n🛠 What You'll Learn\n\n✨ Introduction to Creator Coins & the Future of On-Chain Communities\n\n✨ How to launch your own coin on Sikka.fun in minutes\n\n✨ Fair launches, on-chain referrals & community growth\n\n✨ Understanding token economies and digital ownership\n\n✨ Best practices for building engaged Web3 communities\n\n💡 Why Attend?\n\n🚀 Learn directly from the Sikka.fun ecosystem team\n\n🚀 Launch your first community coin\n\n🚀 Network with creators, founders, and Web3 enthusiasts\n\n🚀 Discover how creator-led communities are built on-chain\n\n🚀 Get access to future campaigns, rewards, hackathons, and ecosystem opportunities\n\n🌐 About Sikka.fun\n\nSikka.fun is a mobile-first platform built for India that enables anyone to launch their own community coin in minutes with no upfront creation fees. Designed around fair launches, low barriers to entry, and on-chain referral rewards, Sikka.fun empowers creators and communities to build, grow, and engage through transparent, decentralized participation.\n\nJoin our official TG group : https://t.me/+PSQBp6MtfcYxNzk1",
-    "startDate": "2026-09-27T20:00:00.000Z",
-    "endDate": "2026-09-27T21:00:00.000Z",
-    "city": "Faridabad",
-    "country": "India",
-    "location": "YMCA University Campus Street, YMCA University Campus Street, YMCA University Campus St, Sector 6, Faridabad, Haryana 121006, India",
-    "url": "https://luma.com/0srsltaq",
-    "registrationUrl": "https://luma.com/0srsltaq",
-    "coverImage": "/events/luma-batch-evtjfJFCNApP1oVy-10567fd3.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Kolkata",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "hackathon",
-    "sourceVerification": {
-      "url": "https://luma.com/0srsltaq",
-      "eventId": "evt-jfJFCNApP1oVyb2",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

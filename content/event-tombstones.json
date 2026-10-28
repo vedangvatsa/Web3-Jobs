@@ -2536,5 +2536,26 @@
       "luma-crypto-joosliktxjk0mzl",
       "oxrxch"
     ]
+  },
+  "luma-batch-XBxC6u79Id4zAeC": {
+    "until": "2027-10-28T03:43:58.747Z",
+    "slugs": [
+      "luma-batch-xbxc6u79id4zaec",
+      "blockchainhackwwa"
+    ]
+  },
+  "luma-batch-evthJAPx4Yev4Bbw": {
+    "until": "2027-10-28T03:43:58.747Z",
+    "slugs": [
+      "luma-batch-evthjapx4yev4bbw",
+      "7hj5nphs"
+    ]
+  },
+  "luma-batch-evtjfJFCNApP1oVy": {
+    "until": "2027-10-28T03:43:58.747Z",
+    "slugs": [
+      "luma-batch-evtjfjfcnapp1ovy",
+      "0srsltaq"
+    ]
   }
 }
