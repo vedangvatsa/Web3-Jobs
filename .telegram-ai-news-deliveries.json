@@ -2362,5 +2362,40 @@
     "slotKey": "2026-10-27:evening",
     "messageId": 193410,
     "sentAt": "2026-10-27T19:33:11.461Z"
+  },
+  "c8eab70e-dfb1-4320-9197-0e18b96c11a7": {
+    "status": "reserved",
+    "reservedAt": "2026-10-28T03:46:02.376Z",
+    "stories": [
+      {
+        "index": 2,
+        "original_title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+        "headline": "OpenAI sued over medical advice provided by chatbot",
+        "summary": "A lawsuit alleges the model instructed a user to stop taking prescribed medication without medical supervision.",
+        "event_rationale": "This represents a significant legal development regarding AI liability and safety guardrails in healthcare contexts.",
+        "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+        "source": "TechCrunch",
+        "originalTitle": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication"
+      },
+      {
+        "index": 12,
+        "original_title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+        "headline": "Opera introduces web standard for local AI deployment",
+        "summary": "The new browser-based framework allows developers to run models directly on user hardware without cloud connectivity.",
+        "event_rationale": "This covers a shift in AI infrastructure toward local, browser-based execution, distinct from cloud-dependent enterprise deployments.",
+        "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+        "source": "TechCrunch",
+        "originalTitle": "Opera introduces a new web standard to let users deploy AI locally in their browser"
+      },
+      {
+        "index": 3,
+        "headline": "AI data centers drive updates to the US power grid",
+        "summary": "Increased electricity demand from data centers is forcing upgrades to existing power infrastructure.",
+        "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+        "source": "TechCrunch",
+        "originalTitle": "The data center boom has an upside: innovation for the US grid"
+      }
+    ],
+    "slotKey": "2026-10-28:morning"
   }
 }
