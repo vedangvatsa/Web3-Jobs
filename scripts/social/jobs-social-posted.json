@@ -68821,6 +68821,35 @@
       "attemptId": "7145542a-b747-47ed-90e7-311d06839b2e",
       "verification": "verified",
       "postId": "urn:li:share:7521178427614437376"
+    },
+    {
+      "slug": "idds",
+      "company": "Lightspark",
+      "title": "Institutional Due Diligence Specialist, EU",
+      "platform": "facebook",
+      "postedAt": "2026-10-28T11:54:48.115Z",
+      "expectedText": "Lightspark is hiring Institutional Due Diligence Specialist, EU: https://hashtagweb3.com/idds/fb?og=7",
+      "snapshot": {
+        "id": "352cdac4-5d11-4bae-8ce4-8e27ad722d54",
+        "title": "Institutional Due Diligence Specialist, EU",
+        "company": "Lightspark",
+        "link": "https://jobs.ashbyhq.com/lightspark/352cdac4-5d11-4bae-8ce4-8e27ad722d54",
+        "date": "2026-09-29T18:03:27.747+00:00",
+        "source": "Ashby: Lightspark [lightspark]",
+        "location": "Estonia",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Legal & Compliance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "idds"
+      },
+      "payload": {
+        "message": "Lightspark is hiring Institutional Due Diligence Specialist, EU: https://hashtagweb3.com/idds/fb?og=7",
+        "link": "https://hashtagweb3.com/idds/fb?og=7"
+      },
+      "attemptId": "5e2165b6-b735-4771-8202-22deb672be04",
+      "verification": "creating"
     }
   ]
 }
