@@ -5140,7 +5140,7 @@
     "sentAt": "2026-10-28T03:44:04.337Z"
   },
   "d2c58a25-a000-4217-82db-537ed5427139": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-28T11:50:36.968Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -5253,6 +5253,8 @@
       }
     ],
     "message": "- Kraken is hiring <a href=\"https://hashtagweb3.com/mgr123?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Public Relations &amp; Communications Manager</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/tr72?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Systematic Trader</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/rec30?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">HR Manager</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/mgr164?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Relationship Manager</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls331?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive - Enterprise (Hunter) - Belgium</a>",
-    "slotKey": "2026-10-28:afternoon"
+    "slotKey": "2026-10-28:afternoon",
+    "messageId": 155963,
+    "sentAt": "2026-10-28T11:50:54.223Z"
   }
 }
