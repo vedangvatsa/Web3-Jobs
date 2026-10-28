@@ -65543,6 +65543,39 @@
       "verification": "creating",
       "containerId": "18098888360199925",
       "error": "Threads publish failed: 400 {\"error\":{\"message\":\"Fatal\",\"type\":\"OAuthException\",\"code\":-1,\"error_subcode\":4279047,\"is_transient\":false,\"error_user_title\":\"Invalid Link Attachment\",\"error_user_msg\":\"The post you're trying to publish has an invalid link attachment.\",\"fbtrace_id\":\"AKwnExl4yiM6elj4lOAOjC2\"}}"
+    },
+    {
+      "slug": "sec78",
+      "company": "Augustus",
+      "title": "Security Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-10-28T03:44:11.105Z",
+      "expectedText": "Augustus is hiring Security Engineer: https://hashtagweb3.com/sec78/bsky?og=7",
+      "snapshot": {
+        "id": "7fde47f8-af18-4c2e-97f3-b2161d89b230",
+        "title": "Security Engineer",
+        "company": "Augustus",
+        "link": "https://jobs.ashbyhq.com/Augustus/7fde47f8-af18-4c2e-97f3-b2161d89b230",
+        "date": "2026-10-01T09:44:53.704+00:00",
+        "source": "Ashby: Augustus [Augustus]",
+        "location": "Berlin",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sec78"
+      },
+      "payload": {
+        "text": "Augustus is hiring Security Engineer: https://hashtagweb3.com/sec78/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/sec78/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/sec78.png?v=7",
+        "company": "Augustus",
+        "title": "Security Engineer",
+        "description": "Join Augustus as Security Engineer. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "1f6bf76c-1486-4bba-a8ab-2b335ba33f8b",
+      "verification": "creating"
     }
   ]
 }
