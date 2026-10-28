@@ -66408,6 +66408,37 @@
       "verification": "creating",
       "containerId": "18098888840199925",
       "error": "Threads publish failed: 400 {\"error\":{\"message\":\"Fatal\",\"type\":\"OAuthException\",\"code\":-1,\"error_subcode\":4279047,\"is_transient\":false,\"error_user_title\":\"Invalid Link Attachment\",\"error_user_msg\":\"The post you're trying to publish has an invalid link attachment.\",\"fbtrace_id\":\"AvMVg3bd4Pcjg0n0a4BoSQv\"}}"
+    },
+    {
+      "slug": "eng609",
+      "company": "Riot Platforms",
+      "title": "Senior Engineer, Identity & Access Management (IAM)",
+      "platform": "bluesky",
+      "postedAt": "2026-10-28T03:47:43.152Z",
+      "expectedText": "Riot Platforms is hiring Senior Engineer, Identity & Access Management (IAM): https://hashtagweb3.com/eng609/bsky?og=7",
+      "snapshot": {
+        "id": "7b9478e4-cb92-4274-929a-661dca9fe855",
+        "title": "Senior Engineer, Identity & Access Management (IAM)",
+        "company": "Riot Platforms",
+        "link": "https://ats.rippling.com/riot-platforms-careers/jobs/7b9478e4-cb92-4274-929a-661dca9fe855",
+        "date": "2026-10-14T20:42:01.826000-07:00",
+        "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+        "location": "Remote (United States)",
+        "department": "Cybersecurity",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng609"
+      },
+      "payload": {
+        "text": "Riot Platforms is hiring Senior Engineer, Identity & Access Management (IAM): https://hashtagweb3.com/eng609/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/eng609/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/eng609.png?v=7",
+        "company": "Riot Platforms",
+        "title": "Senior Engineer, Identity & Access Management (IAM)",
+        "description": "Join Riot Platforms as Senior Engineer, Identity & Access. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "873d62d8-c17f-4023-82b3-033226d5f59d",
+      "verification": "creating"
     }
   ]
 }
