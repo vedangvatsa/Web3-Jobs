@@ -5042,7 +5042,7 @@
     "sentAt": "2026-10-27T19:34:02.648Z"
   },
   "788924a9-4991-4e4d-af20-663e32dfce3d": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-28T03:43:58.345Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -5135,6 +5135,8 @@
       }
     ],
     "message": "- Kraken is hiring <a href=\"https://hashtagweb3.com/des8?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Brand Designer - Consumer</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm256?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager / Director, Trading API</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/sls247?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager of Accounts Payable</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/pm240?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Marketing Manager</a>",
-    "slotKey": "2026-10-28:morning"
+    "slotKey": "2026-10-28:morning",
+    "messageId": 155958,
+    "sentAt": "2026-10-28T03:44:04.337Z"
   }
 }
