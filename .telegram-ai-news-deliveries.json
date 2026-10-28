@@ -2399,5 +2399,38 @@
     "slotKey": "2026-10-28:morning",
     "messageId": 193411,
     "sentAt": "2026-10-28T03:46:08.202Z"
+  },
+  "5b5ed0cb-8948-4fad-99ed-4262fb04b784": {
+    "status": "reserved",
+    "reservedAt": "2026-10-28T11:52:26.132Z",
+    "stories": [
+      {
+        "index": 6,
+        "original_title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+        "headline": "Researchers release natural language protein design software",
+        "summary": "New machine learning tools allow scientists to generate specific protein sequences using simple text-based prompts.",
+        "event_rationale": "This covers a scientific breakthrough in generative AI for biotechnology, distinct from LLM releases or infrastructure news.",
+        "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+        "source": "Ars Technica",
+        "originalTitle": "Vibe genes? Natural(ish) language comes to protein, genome design software"
+      },
+      {
+        "index": 1,
+        "headline": "Amazon holds more Anthropic equity than venture capital firms",
+        "summary": "Converted investment notes show the tech giant owns a greater share of the startup than other investors.",
+        "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+        "source": "TechCrunch",
+        "originalTitle": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more"
+      },
+      {
+        "index": 8,
+        "headline": "Meta AI director Rohit Patel leaves to launch Ndoc",
+        "summary": "Patel is starting a company to compete with Microsoft Office after eight years of AI work at Meta.",
+        "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+        "source": "TechCrunch",
+        "originalTitle": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace"
+      }
+    ],
+    "slotKey": "2026-10-28:afternoon"
   }
 }
