@@ -123,6 +123,12 @@
       "postId": "18102228194531001",
       "permalink": "https://www.threads.com/@hashtagweb3/post/DfCXMytHNsc",
       "verifiedAt": "2026-10-28T11:49:23.410Z"
+    },
+    "1": {
+      "createClaim": "9df125cf-e623-492e-9f1d-6f2c69bfcf8b",
+      "startedAt": "2026-10-28T11:49:40.139Z",
+      "status": "claimed",
+      "replyTo": "18102228194531001"
     }
   }
 }
