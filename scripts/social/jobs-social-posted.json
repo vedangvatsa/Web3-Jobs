@@ -69646,7 +69646,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "b60db613-5e6f-48e5-8e67-6dd9b67b1e03",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae24ec3317f77fea41580e6"
     }
   ]
 }
