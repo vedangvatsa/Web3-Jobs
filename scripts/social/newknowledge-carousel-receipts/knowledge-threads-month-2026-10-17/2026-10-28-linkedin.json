@@ -111,5 +111,6 @@
   },
   "claimId": "da958165-f6ab-4766-85b9-140f2ffed911",
   "startedAt": "2026-10-28T11:48:28.616Z",
-  "status": "claimed"
+  "status": "accepted",
+  "postId": "6ae1e10ef8d0c164b1624ed1"
 }
