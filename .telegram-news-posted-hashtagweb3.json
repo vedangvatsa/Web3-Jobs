@@ -827,6 +827,9 @@
   "https://hashtagweb3.com/sectokenization?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/robinhooddubai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/secstocks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/akash?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969",
+  "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2388,6 +2391,11 @@
   "Robinhood wins Dubai license for 2027 Middle East launch",
   "Three Firms Notify SEC of Tokenized Stock Venue Plans",
   "SEC Names Three Operators Notifying It of Tokenized Stock Venue Plans",
+  "Akash Network votes on migrating from Cosmos to Solana",
+  "Akash Opens Vote to Move Its Network From Cosmos to Solana",
+  "Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin",
+  "Bitcoin rises past $81,000 following Asian chip stock gains",
+  "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2765,5 +2773,8 @@
   "fp:bridg|caus|creat|deplet|down|drain|drov|exploit|fail|failur",
   "fp:agency|area|asset|clear|complianc|exam|examination|high|identify|includ",
   "fp:asset|class|custody|dubai|east|for2027|headquarter|licens|middl|offer",
-  "fp:corp|firm|inform|intent|kepha|llc|nam|notify|okxic|operat"
+  "fp:corp|firm|inform|intent|kepha|llc|nam|notify|okxic|operat",
+  "fp:akash|akt|cosmo|creat|decid|later|marketplac|migrat|migration|mov",
+  "fp:agency|asset|assign|bas|credit|grad|investment|issu|long|moody",
+  "fp:000|400|abov|asian|by9|chip|cryptocurrency|follow|gain|increas"
 ]

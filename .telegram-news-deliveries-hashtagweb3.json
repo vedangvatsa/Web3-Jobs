@@ -2418,7 +2418,7 @@
     "sentAt": "2026-10-28T03:49:17.687Z"
   },
   "2d64cb57-d3f3-4b8c-a5ca-ca9f5808ce57": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-28T11:52:22.439Z",
     "stories": [
       {
@@ -2447,6 +2447,8 @@
         "originalTitle": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%"
       }
     ],
-    "slotKey": "2026-10-28:afternoon"
+    "slotKey": "2026-10-28:afternoon",
+    "messageId": 155964,
+    "sentAt": "2026-10-28T11:52:28.204Z"
   }
 }
