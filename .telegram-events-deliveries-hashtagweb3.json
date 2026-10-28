@@ -3719,5 +3719,53 @@
     "slotKey": "2026-10-28:afternoon",
     "messageId": 155962,
     "sentAt": "2026-10-28T11:48:37.435Z"
+  },
+  "7878a017-2321-4be1-9532-47bebcda46a8": {
+    "status": "reserved",
+    "reservedAt": "2026-10-28T19:33:01.579Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "ibw-luma-evt-0Hr9OEq92aSEqFs",
+        "slug": "stepfarming",
+        "name": "Yield Farming? Try Step Farming | DeFi Users' Walk",
+        "startDate": "2026-11-06T14:00:00.000Z",
+        "keys": [
+          "ibw-luma-evt-0hr9oeq92aseqfs",
+          "page:stepfarming:2026-11-06",
+          "luma:evt-0hr9oeq92aseqfs",
+          "luma-url:/zmsks9jh",
+          "event:yieldfarmingtrystepfarmingdefiuserswalk:2026-11-06:mumbai"
+        ]
+      },
+      {
+        "id": "ibw-luma-evt-fi1E5JHRmTD6D6r",
+        "slug": "onelastgm",
+        "name": "One Last GM, Mumbai | Ethereum Farewell Walk",
+        "startDate": "2026-11-07T01:30:00.000Z",
+        "keys": [
+          "ibw-luma-evt-fi1e5jhrmtd6d6r",
+          "page:onelastgm:2026-11-07",
+          "luma:evt-fi1e5jhrmtd6d6r",
+          "luma-url:/hqe3sz43",
+          "event:onelastgmmumbaiethereumfarewellwalk:2026-11-07:mumbai"
+        ]
+      },
+      {
+        "id": "discovery-evt-Nr9CNLkcyZkdgCa",
+        "slug": "bitcoin-indonesia-community-meetup-tangerang-07-november",
+        "name": "Bitcoin Indonesia Community Meetup Tangerang 07 November 2026",
+        "startDate": "2026-11-07T10:00:00+07:00",
+        "keys": [
+          "discovery-evt-nr9cnlkcyzkdgca",
+          "page:bitcoin-indonesia-community-meetup-tangerang-07-november:2026-11-07",
+          "luma:evt-nr9cnlkcyzkdgca",
+          "luma-url:/1s6rr12e",
+          "event:bitcoinindonesiacommunitymeetuptangerang07november2026:2026-11-07:tangerang selatan"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-28:evening"
   }
 }
