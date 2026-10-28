@@ -70180,7 +70180,8 @@
       },
       "account": "channel:base",
       "attemptId": "b01067f0-ce4b-4789-8aa6-d514b5c8707e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x37fae80227f1a67518982997e33c98cf23f8c4d8"
     }
   ]
 }
