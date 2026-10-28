@@ -69690,7 +69690,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "c9779728-389c-46d8-8fe2-5a6bcfcd6e54",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7521293988214251520"
     }
   ]
 }
