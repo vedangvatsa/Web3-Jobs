@@ -68330,7 +68330,8 @@
       },
       "account": "channel:developers",
       "attemptId": "fc1365e2-ced4-46f9-ad3e-39c0822970f9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x11b9beaffa5371eec4a11e3ca08e0dfe6e9d11d7"
     }
   ]
 }
