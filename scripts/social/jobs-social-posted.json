@@ -66317,6 +66317,35 @@
       "attemptId": "a0f97c18-5568-4961-8736-097bb4b21044",
       "verification": "verified",
       "postId": "urn:li:share:7521054984965144577"
+    },
+    {
+      "slug": "sec78",
+      "company": "Augustus",
+      "title": "Security Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-10-28T03:44:11.105Z",
+      "expectedText": "Augustus is hiring Security Engineer: https://hashtagweb3.com/sec78/fb?og=7",
+      "snapshot": {
+        "id": "7fde47f8-af18-4c2e-97f3-b2161d89b230",
+        "title": "Security Engineer",
+        "company": "Augustus",
+        "link": "https://jobs.ashbyhq.com/Augustus/7fde47f8-af18-4c2e-97f3-b2161d89b230",
+        "date": "2026-10-01T09:44:53.704+00:00",
+        "source": "Ashby: Augustus [Augustus]",
+        "location": "Berlin",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sec78"
+      },
+      "payload": {
+        "message": "Augustus is hiring Security Engineer: https://hashtagweb3.com/sec78/fb?og=7",
+        "link": "https://hashtagweb3.com/sec78/fb?og=7"
+      },
+      "attemptId": "90713c93-0546-4695-9a99-2e4ade8e69b2",
+      "verification": "creating"
     }
   ]
 }
