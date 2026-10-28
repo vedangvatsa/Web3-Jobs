@@ -67099,6 +67099,46 @@
       "verification": "verified",
       "postId": "6ae1710df652e014d7a86a19",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7521055891606011904"
+    },
+    {
+      "slug": "eng609",
+      "company": "Riot Platforms",
+      "title": "Senior Engineer, Identity & Access Management (IAM)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-28T03:47:43.152Z",
+      "expectedText": "Riot Platforms is hiring Senior Engineer, Identity & Access Management (IAM): https://hashtagweb3.com/eng609/li?og=7",
+      "snapshot": {
+        "id": "7b9478e4-cb92-4274-929a-661dca9fe855",
+        "title": "Senior Engineer, Identity & Access Management (IAM)",
+        "company": "Riot Platforms",
+        "link": "https://ats.rippling.com/riot-platforms-careers/jobs/7b9478e4-cb92-4274-929a-661dca9fe855",
+        "date": "2026-10-14T20:42:01.826000-07:00",
+        "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+        "location": "Remote (United States)",
+        "department": "Cybersecurity",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng609"
+      },
+      "payload": {
+        "text": "Riot Platforms is hiring Senior Engineer, Identity & Access Management (IAM): https://hashtagweb3.com/eng609/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng609/li?og=7",
+          "title": "Senior Engineer, Identity & Access Management (IAM) at Riot Platforms",
+          "description": "Join Riot Platforms as Senior Engineer, Identity & Access. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng609.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "abdcf846-dd87-40a5-9292-4f81590ec30c",
+      "verification": "creating"
     }
   ]
 }
