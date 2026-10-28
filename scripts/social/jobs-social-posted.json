@@ -67823,7 +67823,8 @@
       },
       "account": "channel:growth",
       "attemptId": "b01214c2-daf8-4934-835e-ffb96a980083",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x29a05d55d84a0051cb5ea8bce83cbdee512fe302"
     }
   ]
 }
