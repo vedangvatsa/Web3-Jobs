@@ -98332,9 +98332,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "943f914fefd5461cb001",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-30T08:20:29.000Z",
       "lastSeenAt": "2026-10-28T03:43:47.836Z",
       "articleSlug": "binancebr",
@@ -98356,7 +98356,21 @@
         "updatedAt": "2026-10-28T03:52:13.543Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the Cointelegraph report and Unchained coverage of the Oct. 23 BBrasil filing and Oct. 27 product cuts; eight restricted products, 22 delisted tokens, Sarandy quote, Oct. 30 deadline and BCB resolution details match across both sources.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/binance-shuts-brazilians-out-of-new-loans-and-margin-ahead-of-a-licensing-deadline",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-28T04:36:54.571Z",
+      "lastReviewedDay": "2026-10-28"
     },
     "d518256aac67a7d88803": {
       "source": "Cointelegraph",
@@ -178853,6 +178867,23 @@
           ],
           "reviewedAt": "2026-10-28T04:36:50.920Z",
           "articleSlug": "vaneckbuilder"
+        },
+        "943f914fefd5461cb001": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Cointelegraph report and Unchained coverage of the Oct. 23 BBrasil filing and Oct. 27 product cuts; eight restricted products, 22 delisted tokens, Sarandy quote, Oct. 30 deadline and BCB resolution details match across both sources.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/binance-shuts-brazilians-out-of-new-loans-and-margin-ahead-of-a-licensing-deadline",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-28T04:36:54.571Z",
+          "articleSlug": "binancebr"
         }
       },
       "baselineSlugs": [
