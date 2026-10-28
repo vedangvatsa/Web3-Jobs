@@ -67906,8 +67906,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "305c55b2-aeed-42cb-9e37-0e17d498d24d",
-      "verification": "pending",
-      "postId": "6ae1e24cf8d0c164b162b457"
+      "verification": "verified",
+      "postId": "6ae1e24cf8d0c164b162b457",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7521177488815947776"
     }
   ]
 }
