@@ -70396,7 +70396,8 @@
       },
       "account": "channel:design",
       "attemptId": "5a632577-72e4-4a0f-ae67-f3219e9ddbea",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4f7fb81898c278da2aecf75fd7f45a425b141fff"
     }
   ]
 }
