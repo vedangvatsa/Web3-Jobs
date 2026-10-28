@@ -98610,11 +98610,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "8bf9fd870e2f7b2b906a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-30T23:28:00.000Z",
-      "lastSeenAt": "2026-10-28T03:43:47.836Z"
+      "lastSeenAt": "2026-10-28T03:43:47.836Z",
+      "reason": "verified-event",
+      "note": "Verified the CFTC announcement of its Utah lawsuit (release 9315-26) plus Unchained and DeFi Rate reporting on the complaint, Utah's prior state case, and the multi-state injunction record. Image self-hosted from Wikimedia (Matheson Courthouse, CC BY-SA 4.0).",
+      "sourceChecks": [
+        {
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9315-26",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/cftc-asks-federal-judge-to-halt-utahs-kalshi-gambling-case/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://defirate.com/news/cftc-sues-utah-block-kalshi-crackdown/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-28T04:51:15.169Z",
+      "articleSlug": "cftcutah",
+      "lastReviewedDay": "2026-10-28"
     },
     "3995a51ca31a238f9b3a": {
       "source": "Unchained",
@@ -179102,6 +179121,27 @@
           ],
           "reviewedAt": "2026-10-28T04:51:10.594Z",
           "articleSlug": "nba"
+        },
+        "8bf9fd870e2f7b2b906a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the CFTC announcement of its Utah lawsuit (release 9315-26) plus Unchained and DeFi Rate reporting on the complaint, Utah's prior state case, and the multi-state injunction record. Image self-hosted from Wikimedia (Matheson Courthouse, CC BY-SA 4.0).",
+          "sourceChecks": [
+            {
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/9315-26",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/cftc-asks-federal-judge-to-halt-utahs-kalshi-gambling-case/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://defirate.com/news/cftc-sues-utah-block-kalshi-crackdown/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-28T04:51:15.169Z",
+          "articleSlug": "cftcutah"
         }
       },
       "baselineSlugs": [
