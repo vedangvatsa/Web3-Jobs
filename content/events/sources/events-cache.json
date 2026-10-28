@@ -19800,7 +19800,7 @@
     "country": "UAE",
     "location": "Abu Dhabi, UAE",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
+    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
     "source": "marketacross",
     "month": "December 2027"
   },
@@ -20813,10 +20813,7 @@
           "representation": "html"
         }
       ]
-    },
-    "speakers": [
-      "Daniel Szego"
-    ]
+    }
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -21633,7 +21630,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/316802693/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316802693-f266f227.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23714,7 +23711,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-phoenix/events/316859713/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316859713-6ba87cd2.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -27098,7 +27095,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/colorado-customer-success-meetup/events/316576727/",
-    "coverImage": "/events/mu-316576727-81d21bf9.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -28517,7 +28514,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261028%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261028T193922Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=35a7808571a434adfa0f764b2cebd6e991f5a5892e0893636fc7aa912e7246ff",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261028%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261028T232720Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=852ba6d859d160151d972b864b752ddcc008fb5eead037f7548550c917f35118",
     "month": "November 2026"
   },
   {
@@ -29487,13 +29484,13 @@
     "id": "luma-evt-TMLTgzNP5vlRwYB",
     "name": "Boston DAO Monthly Meetup",
     "description": "",
-    "startDate": "2026-10-29T21:30:00.000Z",
-    "endDate": "2026-10-29T23:30:00.000Z",
+    "startDate": "2026-10-29T21:00:00.000Z",
+    "endDate": "2026-10-29T23:00:00.000Z",
     "city": "Boston",
     "country": "United States",
     "location": "Boston, United States",
     "url": "https://lu.ma/m0p6qg0u",
-    "coverImage": "/events/luma-evt-tmltgznp5vlrwyb-a9406b9b.webp",
+    "coverImage": "/events/luma-evt-tmltgznp5vlrwyb-f0f8dc46.webp",
     "source": "luma",
     "month": "October 2026"
   },
@@ -29633,7 +29630,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/loajg3ik",
-    "coverImage": null,
+    "coverImage": "/events/w3v-build-across-chains-a-solana-builder-briefing--81981407.webp",
     "month": "November 2026"
   },
   {
@@ -29688,6 +29685,48 @@
     "location": "Beverly Hills, United States",
     "url": "https://lu.ma/o1o4pr82",
     "coverImage": "/events/luma-evt-w1tqutnmve1wrxq-186914e0.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-oJ9YktHRuxWRlRn",
+    "name": "House of Sol Workshops: Cryptoeconomics and Governance: SRI x Jito",
+    "description": "",
+    "startDate": "2026-10-29T17:00:00.000Z",
+    "endDate": "2026-10-29T19:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/HoS-Workshops-Jito",
+    "coverImage": "/events/luma-evt-oj9ykthruxwrlrn-d13efe1a.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-9CFbAGi9OaV4inK",
+    "name": "AWS AI Launchpad for Builders",
+    "description": "",
+    "startDate": "2026-10-30T14:00:00.000Z",
+    "endDate": "2026-10-30T18:30:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/9w5brl23",
+    "coverImage": "/events/luma-evt-9cfbagi9oav4ink-ae9c98b1.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-KcyYcaMDMTnddyK",
+    "name": "Toronto Finance Leaders Dinner w/ Rillet & Airwallex",
+    "description": "",
+    "startDate": "2026-11-10T23:30:00.000Z",
+    "endDate": "2026-11-11T02:00:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://lu.ma/rillet-badn",
+    "coverImage": "/events/luma-evt-kcyycamdmtnddyk-94caa158.webp",
     "source": "luma",
     "month": "November 2026"
   }

@@ -1,76 +1,5 @@
 [
   {
-    "id": "luma-batch-HilaZqZBzslujGA",
-    "slug": "btunyc",
-    "name": "Bitcoin Treasuries Conference: September 2026",
-    "description": "The Bitcoin Treasuries Conference exists for those who aren't waiting for permission — allocators, executives, and strategists already building positions. One day. One room. New York City.\n\n## Event details\n\nHosted by Rizzo, Timothy Kotzman, Ed Juline. Venue: SECOND, SECOND, 849 6th Ave, New York, NY 10001, USA. Tickets: USD 295. Registration requires organizer approval.\n\n## Tickets\n\nFour ticket tiers are listed: Non-Profit & Student for US$295, General Admission for US$795, and VIP for US$1,995, with an earlier US$695 General Admission tier sold out. Registration requires organizer approval.\n\n## Hosts\n\nHosted by Rizzo, Timothy Kotzman (host of The Bitcoin Treasuries Podcast) and Ed Juline (Bitcoin Treasuries Media).",
-    "startDate": "2026-09-28T12:00:00.000Z",
-    "endDate": "2026-09-28T21:30:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "SECOND, SECOND, 849 6th Ave, New York, NY 10001, USA",
-    "url": "https://luma.com/btunyc",
-    "registrationUrl": "https://luma.com/btunyc",
-    "coverImage": "/events/luma-batch-HilaZqZBzslujGA-4538c536.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Rizzo",
-      "Timothy Kotzman",
-      "Ed Juline"
-    ],
-    "price": "USD 295",
-    "approvalRequired": true,
-    "timezone": "America/New_York",
-    "neighborhood": "Midtown South",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "SECOND",
-    "addressLocality": "New York",
-    "addressRegion": "New York",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "Rizzo"
-    },
-    "ticketOffers": [
-      {
-        "name": "Non-Profit & Student Ticket",
-        "url": "https://luma.com/btunyc",
-        "price": 295,
-        "availability": "InStock"
-      },
-      {
-        "name": "General Admission",
-        "url": "https://luma.com/btunyc",
-        "price": 695,
-        "availability": "SoldOut"
-      },
-      {
-        "name": "General Admission",
-        "url": "https://luma.com/btunyc",
-        "price": 795,
-        "availability": "InStock"
-      },
-      {
-        "name": "VIP",
-        "url": "https://luma.com/btunyc",
-        "price": 1995,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/btunyc",
-      "eventId": "evt-HilaZqZBzslujGA",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T10:59:33.000Z",
-      "enrichMethod": "organizer-facts"
-    }
-  },
-  {
     "id": "luma-batch-NDlEpPqTzDgYHGq",
     "slug": "wprc-nyc-260929-formal-verification-in-cryptograph",
     "name": "Whitepaper Reading Club: Formal Verification in Cryptography",
@@ -1316,57 +1245,6 @@
       "apifyRunId": "xaRAFVxiGJ65xirOe",
       "enrichedAt": "2026-09-22T11:00:44.000Z",
       "enrichMethod": "organizer-facts"
-    }
-  },
-  {
-    "id": "luma-batch-4Syp9gOOW8ZSU6l",
-    "slug": "gnk0ygk0",
-    "name": "Arc Demos & Meetup",
-    "description": "This session is centred around short demos, project spotlights, and good conversation with builders working across payments, stablecoins, programmable money, and onchain finance. Expect a practical evening with real products, early ideas, and the chance to meet other people building in and around the Arc ecosystem.\n\nGood if you want to see tangible progress, get feedback on what you’re making, or just spend time around people doing the work rather than talking about maybe one day doing the work.\n\n## Hosts\n\nHosted by Encode Club, Circle.\n\n## Event details\n\nThe event takes place on September 28. Venue: Encode Hub, Encode Hub, 41 Pitfield St, London N1 6DA, UK.",
-    "startDate": "2026-09-28T17:30:00.000Z",
-    "endDate": "2026-09-28T20:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "Encode Hub, Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "url": "https://luma.com/gnk0ygk0",
-    "registrationUrl": "https://luma.com/gnk0ygk0",
-    "coverImage": "/events/luma-batch-4Syp9gOOW8ZSU6l-da62f33b.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Encode Club",
-      "Circle"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/London",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Encode Hub",
-    "addressLocality": "London",
-    "addressRegion": "England",
-    "addressCountry": "GB",
-    "organizer": {
-      "type": "Organization",
-      "name": "Encode Club",
-      "url": "https://luma.com/user/encodeclub"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/gnk0ygk0",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/gnk0ygk0",
-      "eventId": "evt-4Syp9gOOW8ZSU6l",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T11:00:44.000Z"
     }
   },
   {
@@ -5133,36 +5011,6 @@
     "sourceVerification": {
       "url": "https://luma.com/joyfaycq",
       "eventId": "evt-kNHIuk3cLzCnweE",
-      "fetchedAt": "2026-09-23T10:16:44.000Z",
-      "method": "luma-page",
-      "apifyRunId": "9CIeF9EJS1rcYR3Iw"
-    }
-  },
-  {
-    "id": "luma-batch-evtGvsK4EMqfD6vv",
-    "slug": "horizonzurichsummit",
-    "name": "Blockstories Horizon 2026: Zurich Summit 🇨🇭",
-    "description": "Blockstories Horizon: Zurich Summit – 28 September 2026\n\n100 seats. Invitation-only. Co-hosted with Zürcher Kantonalbank.\n\nHorizon Summits are unlike other conferences:\n\nEvery guest is vetted.\n\nWe only feature keynotes. Each capped at 7 minutes.\n\nNo panels. No sales booths.\n\nAfter the event, each guest leaves with a personalized strategy debrief.\n\nYou can think of Horizon as a strategy offsite for the industry. Our mission is to help digital asset teams see what is coming, make better strategic decisions and build the network to execute.\n\nZurich Summit\n\nCo-hosted with Zürcher Kantonalbank, the Zurich Summit will bring together 100 senior leaders responsible for digital asset strategies and products.\n\nAcross a series of seven-minute keynotes, the companies closest to the industry’s most important shifts will explain what they see on the ground, what they are building and how institutions should prepare for the next 12 to 18 months.\n\nA preview into the program:\n\nZürcher Kantonalbank: Inside ZKB’s digital asset strategy\n\nBanking Circle: Where stablecoin settlement is already transforming cross-border payments today\n\nUtila: What it takes for a bank to become stablecoin ready\n\nTalos: Tokenized Equities, perpetuals, prediction markets. Crypto is becoming more like TradFi and vice versa.\n\nDigital Asset: Real-time treasury management and the advent of tokenized MMFs.\n\nSteakhouse Financial: Vaults already power fintechs. Traditional asset management is next.\n\nZama: Onchain privacy has arrived on public blockchains. What comes next?\n\nThe Evening\n\n17:00–18:00\nWelcome reception\n\n18:00–20:00\nSeven-minute keynote presentations\n\n20:00–22:30\nNetworking over food and drinks\n\nPremiere: The State of Swiss Banking and Digital Assets Report\n\nAt the Summit, we'll also officially present our latest flagship report on the state of swiss banking and digital assets, developed through expert conversations with leaders from more than 12 Swiss banks.\n\nThe study examines what Swiss institutions are prioritizing, what they are building and how their approaches to digital assets are evolving.\n\nAttendance\n\nAttendance is complimentary and limited to 100 approved guests.\n\nIf you received a personal invitation from Blockstories, Zürcher Kantonalbank or one of our speakers, please select Invited Guest.\n\nIf you have not received a personal invitation but are responsible for digital asset strategy, products or infrastructure at a financial institution, you may Apply to Attend.\n\nAll applications are reviewed.\n\nFor questions, please contact: mail@blockstories.io",
-    "startDate": "2026-09-28T15:00:00.000Z",
-    "endDate": "2026-09-28T20:30:00.000Z",
-    "city": "Zürich",
-    "country": "Switzerland",
-    "location": "Zürich, Zürich, Switzerland",
-    "url": "https://luma.com/horizonzurichsummit",
-    "registrationUrl": "https://luma.com/horizonzurichsummit",
-    "coverImage": "/events/luma-batch-evtGvsK4EMqfD6vv-c16024ca.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Blockstories Horizon 2026"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Zurich",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "summit",
-    "sourceVerification": {
-      "url": "https://luma.com/horizonzurichsummit",
-      "eventId": "evt-GvsK4EMqfD6vvQ2",
       "fetchedAt": "2026-09-23T10:16:44.000Z",
       "method": "luma-page",
       "apifyRunId": "9CIeF9EJS1rcYR3Iw"

@@ -25965,32 +25965,6 @@ Datas do programa: 28 de setembro a 10 de outubro de 2026
 
 Local: Solana House, São Paulo
 
-<a id="event-3fc18bfb17433601"></a>
-
-## Bitcoin Treasuries Conference: September 2026
-
-- Record: `luma-batch-HilaZqZBzslujGA`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-28T12:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/btunyc>
-
-### About the event
-
-The Bitcoin Treasuries Conference exists for those who aren't waiting for permission - allocators, executives, and strategists already building positions. One day. One room. New York City.
-
-### Event details
-
-Hosted by Rizzo, Timothy Kotzman, Ed Juline. Venue: SECOND, SECOND, 849 6th Ave, New York, NY 10001, USA. Tickets: USD 295. Registration requires organizer approval.
-
-### Tickets
-
-Four ticket tiers are listed: Non-Profit & Student for US$295, General Admission for US$795, and VIP for US$1,995, with an earlier US$695 General Admission tier sold out. Registration requires organizer approval.
-
-### Hosts
-
-Hosted by Rizzo, Timothy Kotzman (host of The Bitcoin Treasuries Podcast) and Ed Juline (Bitcoin Treasuries Media).
-
 <a id="event-2843a0aa00c2b2ae"></a>
 
 ## Exploit Summit 2026
@@ -26205,88 +26179,6 @@ Local: Solana House
 
 Se você leva construir a sério, sua garagem começa aqui.
 
-<a id="event-1068775a70e52f05"></a>
-
-## Blockstories Horizon 2026: Zurich Summit 🇨🇭
-
-- Record: `luma-batch-evtGvsK4EMqfD6vv`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-28T15:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/horizonzurichsummit>
-
-### About the event
-
-Blockstories Horizon: Zurich Summit - 28 September 2026
-
-100 seats. Invitation-only. Co-hosted with Zürcher Kantonalbank.
-
-Horizon Summits are unlike other conferences:
-
-Every guest is vetted.
-
-We only feature keynotes. Each capped at 7 minutes.
-
-No panels. No sales booths.
-
-After the event, each guest leaves with a personalized strategy debrief.
-
-You can think of Horizon as a strategy offsite for the industry. Our mission is to help digital asset teams see what is coming, make better strategic decisions and build the network to execute.
-
-Zurich Summit
-
-Co-hosted with Zürcher Kantonalbank, the Zurich Summit will bring together 100 senior leaders responsible for digital asset strategies and products.
-
-Across a series of seven-minute keynotes, the companies closest to the industry's most important shifts will explain what they see on the ground, what they are building and how institutions should prepare for the next 12 to 18 months.
-
-A preview into the program:
-
-Zürcher Kantonalbank: Inside ZKB's digital asset strategy
-
-Banking Circle: Where stablecoin settlement is already transforming cross-border payments today
-
-Utila: What it takes for a bank to become stablecoin ready
-
-Talos: Tokenized Equities, perpetuals, prediction markets. Crypto is becoming more like TradFi and vice versa.
-
-Digital Asset: Real-time treasury management and the advent of tokenized MMFs.
-
-Steakhouse Financial: Vaults already power fintechs. Traditional asset management is next.
-
-Zama: Onchain privacy has arrived on public blockchains. What comes next?
-
-The Evening
-
-17:00-18:00
-
-Welcome reception
-
-18:00-20:00
-
-Seven-minute keynote presentations
-
-20:00-22:30
-
-Networking over food and drinks
-
-Premiere: The State of Swiss Banking and Digital Assets Report
-
-At the Summit, we'll also officially present our latest flagship report on the state of swiss banking and digital assets, developed through expert conversations with leaders from more than 12 Swiss banks.
-
-The study examines what Swiss institutions are prioritizing, what they are building and how their approaches to digital assets are evolving.
-
-Attendance
-
-Attendance is complimentary and limited to 100 approved guests.
-
-If you received a personal invitation from Blockstories, Zürcher Kantonalbank or one of our speakers, please select Invited Guest.
-
-If you have not received a personal invitation but are responsible for digital asset strategy, products or infrastructure at a financial institution, you may Apply to Attend.
-
-All applications are reviewed.
-
-For questions, please contact: mail@blockstories.io
-
 <a id="event-a423c6facbacf317"></a>
 
 ## Team1 Brasil Coworking Day: São Paulo
@@ -26322,30 +26214,6 @@ Programação do Evento
 22:00 - Encerramento
 
 Um dia para construir, aprender, colaborar e conectar.
-
-<a id="event-3fe1d621981d4bd5"></a>
-
-## Arc Demos & Meetup
-
-- Record: `luma-batch-4Syp9gOOW8ZSU6l`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-28T17:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/gnk0ygk0>
-
-### About the event
-
-This session is centred around short demos, project spotlights, and good conversation with builders working across payments, stablecoins, programmable money, and onchain finance. Expect a practical evening with real products, early ideas, and the chance to meet other people building in and around the Arc ecosystem.
-
-Good if you want to see tangible progress, get feedback on what you're making, or just spend time around people doing the work rather than talking about maybe one day doing the work.
-
-### Hosts
-
-Hosted by Encode Club, Circle.
-
-### Event details
-
-The event takes place on September 28. Venue: Encode Hub, Encode Hub, 41 Pitfield St, London N1 6DA, UK.
 
 <a id="event-53aea53e4d091152"></a>
 
@@ -65632,6 +65500,18 @@ SOL BROTHERS hosts the October Solana Ecosystem Call with interviews, data segme
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-077dbb5a04a22aca"></a>
+
+## House of Sol Workshops: Cryptoeconomics and Governance: SRI x Jito
+
+- Record: `luma-evt-oJ9YktHRuxWRlRn`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T17:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/HoS-Workshops-Jito>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-0277fbb6d600021f"></a>
 
 ## AI Week Fireside Chat with David McJannet, ex-CEO HashiCorp
@@ -65674,7 +65554,7 @@ An organizer description has not been verified for this record. Any previous cop
 
 - Record: `luma-evt-TMLTgzNP5vlRwYB`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-29T21:30:00.000Z
+- Starts: 2026-10-29T21:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/m0p6qg0u>
 
@@ -65925,6 +65805,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-30T13:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/anwdy1mx>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-27555c684dac3081"></a>
+
+## AWS AI Launchpad for Builders
+
+- Record: `luma-evt-9CFbAGi9OaV4inK`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-30T14:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/9w5brl23>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -68412,6 +68304,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-10T19:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/048ehkci>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-8ae153a721127f74"></a>
+
+## Toronto Finance Leaders Dinner w/ Rillet & Airwallex
+
+- Record: `luma-evt-KcyYcaMDMTnddyK`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-10T23:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/rillet-badn>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
