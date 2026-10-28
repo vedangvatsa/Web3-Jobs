@@ -69273,7 +69273,8 @@
       },
       "account": "channel:founders",
       "attemptId": "a9ce351a-b101-48b1-93ac-94554d58d909",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xccd71288195c18dac61028c7102de2a78455569c"
     }
   ]
 }
