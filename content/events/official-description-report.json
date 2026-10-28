@@ -1563,34 +1563,6 @@
       ]
     },
     {
-      "id": "w3v-eastpoint2026",
-      "file": "events-cache.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://www.eastpoint.xyz/",
-        "fetchedAt": "2026-09-20T00:20:56.327Z",
-        "method": "event-jsonld",
-        "pageTitle": "EastPoint:Seoul 2026 | Digital Asset & AI Summit",
-        "sha256": "c041c7ccf874b3597da21309520c88d6c2f6b7326adfae664b6b3555088c7930"
-      },
-      "eventFacts": {
-        "startDate": "2026-09-28T09:00:00+09:00",
-        "endDate": "2026-09-28T22:00:00+09:00",
-        "venueName": "The Westin Seoul Parnas",
-        "streetAddress": "524 Bongeunsa-ro, Gangnam-gu",
-        "addressLocality": "Seoul",
-        "addressRegion": "Seoul",
-        "postalCode": "06164",
-        "addressCountry": "KR",
-        "city": "Seoul",
-        "country": "KR",
-        "location": "The Westin Seoul Parnas, 524 Bongeunsa-ro, Gangnam-gu, Seoul, 06164, KR"
-      },
-      "previousStartDate": "2026-09-28T07:00:00.000Z",
-      "characters": 247,
-      "preview": "EastPoint:Seoul 2026 — Korea's premier private, invitation-only summit on digital assets, stablecoins, RWA tokenization, and the AI economy. Co-hosted by Hashed, Bloomingbit, and The Korea Economic Daily. September 28, 2026 at Westin Seoul Parnas."
-    },
-    {
       "id": "ma-money-20-20-usa",
       "file": "events-cache.json",
       "status": "source-backed",

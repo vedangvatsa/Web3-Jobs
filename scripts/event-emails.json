@@ -870,29 +870,6 @@
     }
   },
   {
-    "name": "EastPoint 2026",
-    "url": "https://www.eastpoint.xyz",
-    "emails": [
-      "contact@eastpoint.xyz",
-      "you@company.com",
-      "seoul@eastpoint.xyz"
-    ],
-    "event": {
-      "id": "w3v-eastpoint2026",
-      "name": "EastPoint 2026",
-      "description": "EastPoint 2026: a September 28 conference in Seoul covering digital assets, stablecoins, tokenized markets, Web3 and AI.",
-      "startDate": "2026-09-28T07:00:00.000Z",
-      "endDate": "2026-09-28T19:00:00.000Z",
-      "city": "Global",
-      "country": "KR",
-      "location": "Global, KR",
-      "url": "https://www.eastpoint.xyz",
-      "coverImage": "https://www.eastpoint.xyz/og-image-v3.png",
-      "bypassedFilter": true,
-      "month": "September 2026"
-    }
-  },
-  {
     "name": "Money 20/20 USA",
     "url": "https://us.money2020.com/",
     "emails": [

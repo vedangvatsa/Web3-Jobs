@@ -13678,37 +13678,6 @@
     }
   },
   {
-    "id": "token2049-2b130b120803646d",
-    "name": "LP/GP Relations & Fundraising Summit",
-    "description": "The LP/GP Relations & Fundraising Summit takes place on 28 September as part of SuperReturn Asia's specialist summits day. Published topics include fundraising, co-investments, reporting, manager selection, and LP/GP relationships. The programme includes a fundraising masterclass.",
-    "startDate": "2026-09-28",
-    "location": "Marina Bay Sands Convention Centre, Singapore",
-    "url": "https://informaconnect.com/superreturnasia/lpgp-relations-fundraising-summit",
-    "registrationUrl": "https://informaconnect.com/superreturnasia/lpgp-relations-fundraising-summit",
-    "coverImage": "/events/token2049-2b130b120803646d-b4af6676.webp",
-    "endDate": "2026-09-28",
-    "city": "Singapore",
-    "country": "Singapore",
-    "venueName": "Marina Bay Sands Convention Centre",
-    "timezone": "Asia/Singapore",
-    "slug": "lpgp-relations",
-    "source": "token2049-verified",
-    "descriptionSource": {
-      "url": "https://informaconnect.com/superreturnasia/lpgp-relations-fundraising-summit",
-      "fetchedAt": "2026-09-27T20:43:39.498Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "LP/GP Relations & Fundraising Summit",
-      "sha256": "9281ca56fffa2fe5e9808be23b9af32371e96bc79b793fb39f10a609402ed27f",
-      "evidence": [
-        {
-          "url": "https://informaconnect.com/superreturnasia/lpgp-relations-fundraising-summit",
-          "fetchedAt": "2026-09-27T20:43:39.498Z",
-          "sha256": "fb476888df8d6c16e80267710cbf2ed626ac4c50e92ed9eb89500c76c6a175b3"
-        }
-      ]
-    }
-  },
-  {
     "id": "token2049-1044b9e351b65628",
     "name": "Tech Week Singapore 2026",
     "description": "Tech Week Singapore takes place on 29–30 September 2026 at Sands Expo and Convention Centre, Marina Bay Sands. The event covers cloud and AI infrastructure, data centres, cybersecurity, and enterprise technology. The organizer publishes conference programmes, speaker details, and an exhibitor list.",

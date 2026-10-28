@@ -340,34 +340,6 @@
     "slug": "sec"
   },
   {
-    "id": "w3v-eastpoint2026",
-    "name": "EastPoint 2026",
-    "description": "EastPoint: Seoul 2026 — Korea's premier private, invitation-only summit on digital assets, stablecoins, RWA tokenization, and the AI economy. Co-hosted by Hashed, Bloomingbit, and The Korea Economic Daily. September 28, 2026 at the Westin Seoul Parnas, 524 Bongeunsa-ro, Gangnam-gu.\n\n## Program\n\n2026 main themes span digital assets, stablecoins, RWA tokenization, and the AI economy, continuing the 2025 program with speakers, partners, and participating institutions. Every attendee is hand-selected for relevance — enterprises, institutions, visionary Web3 builders, forward-thinking policymakers, and top-tier media and thought leaders — creating a room where the right conversations happen.\n\n## Access\n\nThe summit is reviewed by the host committee. Submit an application as an attendee, speaker, sponsor, or partner to join the closed-door room where Korea's institutions, regulators, and global partners meet. Hashed is an investment firm partnering with founders from the earliest moment across blockchain, AI, and content.",
-    "startDate": "2026-09-28T09:00:00+09:00",
-    "endDate": "2026-09-28T22:00:00+09:00",
-    "city": "Seoul",
-    "country": "KR",
-    "location": "The Westin Seoul Parnas, 524 Bongeunsa-ro, Gangnam-gu, Seoul, 06164, KR",
-    "url": "https://www.eastpoint.xyz",
-    "coverImage": "/events/w3v-eastpoint2026-50afd313.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "venueName": "The Westin Seoul Parnas",
-    "streetAddress": "524 Bongeunsa-ro, Gangnam-gu",
-    "addressLocality": "Seoul",
-    "addressRegion": "Seoul",
-    "postalCode": "06164",
-    "addressCountry": "KR",
-    "descriptionSource": {
-      "url": "https://www.eastpoint.xyz/",
-      "fetchedAt": "2026-09-22T12:14:29.000Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "EastPoint: Seoul 2026 | Digital Asset & AI Summit",
-      "sha256": "c041c7ccf874b3597da21309520c88d6c2f6b7326adfae664b6b3555088c7930"
-    }
-  },
-  {
     "id": "w3v-ethereum-korea-one",
     "name": "Ethereum Korea One",
     "description": "Ethereum Korea One: a September 28–29 event covering Ethereum, tokenization, stablecoins, and builder-focused technical discussions.",
@@ -381,168 +353,6 @@
     "source": "Hashtag Web3",
     "bypassedFilter": true,
     "month": "September 2026"
-  },
-  {
-    "id": "w3v-ai-meets-the-chart--a-horizon-series-event",
-    "name": "AI Meets the Chart — A Horizon Series Event @KBW",
-    "description": "## About the Event\n\nAI is reshaping the way trading decisions are made. As AI agents begin to perform technical analysis, execute strategies, and place orders automatically, the role of human judgment is being redefined.\n\nWhen automation tools become widely accessible, what will remain as the real edge for traders?\n\nAI Meets the Chart brings together AI builders, quantitative researchers, and frontline traders to discuss how AI is being integrated into real trading workflows. The event will explore the practical application of AI quant trading, Agentic Trading frameworks, latency-sensitive execution, and the current boundaries of automated decision-making.\n\nThrough keynote sessions, panel discussions, and networking, participants will examine where AI can enhance trading performance, where human judgment still matters, and how traders should position themselves in the next phase of AI-driven markets.\n\nTo make the experience even more exciting, we’ve prepared a range of exciting prizes, including gift cards and gold. All participants will have the opportunity to win prizes through our event giveaways and lucky draws.\n\n## Agenda\n\n• 17:00–17:30 Registration & Check-in\n• 17:30–17:40 Organizer Speech — Gaea Ventures\n• 17:40–17:50 Co-Host Speech — Origins Network\n• 17:50–18:00 Co-Host Speech — Travix\n• 18:00–18:10 Co-Host Speech — UNIKEY\n• 18:10–18:20 Co-Host Speech — SkyDAO\n• 18:20–18:30 Random Prize Draw #1 — Gift Card\n• 19:00–19:30 Roundtable Discussion — Origins Network · UNIKEY · Travix · Zest Protocol · AITOK\n• 19:30–19:40 Random Prize Draw #2 — Gift Card\n• 19:40–19:50 Sponsor Speech — Oraclizer\n• 19:50–20:00 Sponsor Speech — Zest Protocol\n• 20:00–20:10 Sponsor Speech — AITOK\n• 20:10–20:20 Random Prize Draw #3 — Gold Bar\n• 20:30–21:00 Networking Party\n\n## Event Info\n\n• Date: September 28, 2025\n• Time: 17:00 – 21:00\n• Location: 34, Gangnam-daero 102-gil, Gangnam-gu, Seoul 06128 South Korea\n\nWho Are We?\n\n• Organizers\n  • [Gaea Ventures](https://x.com/GaeaVentures): A global Web3 investment fund and incubator supporting innovative projects across crypto infrastructure, DeFi, Web3 applications, and emerging technologies.\n  • [K1 research](https://x.com/K1_Research): A Seoul-based, data-driven Web3 advisory firm helping global blockchain projects enter and grow across Korea and the broader APAC market through research, strategy, fundraising, PR, community growth, and market execution.\n• Co-Hosts\n  • [Origins Network](https://x.com/OriginsNetwork_): Building infrastructure for an AI-native future through verifiable compute, making compute, data, and execution transparent and verifiable.\n  • [UNIKEY](https://x.com/unikeyofficial): Building a unified gateway for AI capabilities and a decentralized clearing network, enabling the circulation of digital value across the emerging AI economy.\n  • [Travix](https://x.com/Travix_fi): Building an on-chain Agentic Omnibroker powered by predictive intelligence, verifiable AI strategies, and computable RWA, combining off-chain matching with on-chain settlement on Monad.\n  • [SkyDAO](https://x.com/skydaogroup): Building the next generation of financial technology ecosystems by connecting digital assets, AI infrastructure, and global financial services, together with Dayang Group and D Network.\n• Sponsors\n  • [Becker Ventures](https://x.com/BeckerVentures): Becker Ventures is a global Web3 investment fund and accelerator headquartered in Sydney, Australia, with offices in Hong Kong, Singapore, and Dubai. The company currently manages multiple funds, including venture capital funds, actively managed secondary funds, multi-strategy FOF funds, and private market secondary funds. Its accelerator division has successfully supported several projects with a focus on discovering, incubating, and empowering disruptive Web3 startups.\n  • [Oraclizer](https://x.com/Oraclizer): Infrastructure for regulated assets that synchronizes tokens, custody records, contracts, and regulatory status across public blockchains and institutional ledgers. Its technology helps ensure that asset state transitions are coordinated across different systems.\n  • [Flap](https://x.com/flapdotsh): A specialized infrastructure layer for token launches, enabling builders to customize token mechanisms and programmable features. By simplifying complex launch mechanics, Flap provides a flexible framework for experimentation and innovation.\n  • [XPIN Network](https://x.com/XPINNetwork): A decentralized global connectivity infrastructure providing eSIM connectivity for seamless mobile access without physical SIM cards. It enables instant activation and flexible data access across borders, bringing Web3 utility into everyday connectivity.\n  • [AITok](https://x.com/AiTok_io): The gateway to Physical AI, providing AI Agents, compute accounts, AIHub drops, and Echo I. Built to enable seamless access to AI compute and instant AI-powered experiences.\n  • [KEYFLOW](https://x.com/KeyFlow_EN): The value circulation layer of the UniKey ecosystem, connecting AI capabilities, contributions, usage, distribution, and settlement. It helps enable the circulation of digital value across the emerging AI economy.",
-    "startDate": "2026-09-28T08:00:00.000Z",
-    "endDate": "2026-09-28T12:00:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "Alver Coffee Gangnam, 34 Gangnam-daero 102-gil, Gangnam District, Seoul, South Korea",
-    "url": "https://luma.com/5mgf0u76",
-    "coverImage": "/events/luma-recover-w3vaimeetsthecha-d2b87619.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "hosts": [
-      "GAEA Ventures",
-      "K1 Research",
-      "Becker Ventures",
-      "OriginsNetwork",
-      "Travix Finance"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Seoul",
-    "neighborhood": "Gangnam-daero 102-gil",
-    "slug": "amchse",
-    "registrationUrl": "https://luma.com/5mgf0u76",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Alver Coffee Gangnam",
-    "streetAddress": "34 Gangnam-daero 102-gil, Gangnam District",
-    "addressLocality": "Seoul",
-    "addressRegion": "Seoul",
-    "addressCountry": "KR",
-    "coordinates": {
-      "latitude": 37.503074999999995,
-      "longitude": 127.02811170000001
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/5mgf0u76",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "VIP",
-        "url": "https://luma.com/5mgf0u76",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "Partner",
-        "url": "https://luma.com/5mgf0u76",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/5mgf0u76",
-      "eventId": "evt-rsU3cNMfxi9qRZB",
-      "fetchedAt": "2026-09-19T23:29:48.631Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "w3v-agentic-payments-onchain",
-    "name": "Agentic Payments Onchain",
-    "description": "## Agentic Payments Onchain\n\n> 행사는 한국어로 진행됩니다.\n>\n> The event is going to be conducted in Korean.\n\n[Ripple](https://ripple.com), [t54](https://t54.ai), [Tenity](https://www.tenity.com/), [Bloom](https://bloomworld.ai/community/)이 함께하는 KBW 공식 사이드 이벤트입니다.\n\n📅 2026.09.28 (월) 18:00–23:00 KST   📍 강남 (신청 승인 후 안내)   🎟 무료 · 승인제\n\n## 이런 분들을 환영합니다\n\n• [XRPL](https://xrpl.org) 및 온체인 AI 인프라에 관심 있는 빌더/개발자\n• Agentic payment, x402, MPP, AP2, ACP 등 machine to machine 결제 표준에 관심 있는 분\n• 자율 금융 에이전트(autonomous financial agent)의 보안 모델에 관심 있는 리서처/엔지니어\n• 블록체인과 t54 생태계 위에서 프로젝트를 구상 중인 빌더\n• 웹3 x AI 생태계 네트워킹을 희망하는 분\n\n직종 관련없이 위 항목 중 하나라도 해당된다면 모두 환영입니다.\n\n## 시간표\n\n18:00 – 19:00 · 입장, 다과 및 네트워킹\n\n19:00 – 19:15 · 오프닝\n\n• 오프닝: Joel Mun (Sr. Devrel, Ripple) (https://www.linkedin.com/in/7oelm/)\n• t54 소개: Claire Jung (APAC Regional Lead, t54) (https://www.linkedin.com/in/jiyeonclaire/)\n• Tenity 소개: Bomin Kim (Program Manager, Tenity) (https://www.linkedin.com/in/bomin-kim-54229518b/)\n\n19:15 – 19:35 · t54 x XRPL 데모\n\n• Chandler Fang (Founder, t54) (https://www.linkedin.com/in/znfang/)\n\n19:35 – 20:20 · 패널 토론 (모더레이터: [Joel Mun](https://www.linkedin.com/in/7oelm/))\n\n패널\n\n• [Jungyong Um](https://www.linkedin.com/in/jungyong-um/), [Web3 Dev & AI TF Lead, DSRV](https://www.dsrv.com/en)\n• [Junhyeok Yoo](https://www.linkedin.com/in/junhyeok-yoo-b6727a215/), [Researcher at Four Pillars](https://4pillars.io/en)\n• [Seonmin Yi](https://www.linkedin.com/in/claraysm/), 인하대학교 초빙교수, 재정경제부 전략경제자문단 AI Agent 커머스분과 위원, Future Works Lab 창립자\n\n아젠다\n\n• 블록체인상 agentic payment 아키텍처\n• Machine to machine 결제를 위한 신규 표준\n• 자율 금융 에이전트를 위한 보안 모델\n• AI native 경제를 위한 온체인 인프라\n• 실제 배포 사례와 향후 방향\n\n20:20 – 20:40 · Fireside chat (모더레이터: [Junshu Kim from Bloom](https://www.linkedin.com/in/junshu-kim-123508254/))\n\n• Suhan Cho (Head of Compliance, Next Securities) (https://www.linkedin.com/in/suhan-joshua-cho-5a0598174/)\n\n카카오뱅크 법무와 UPRISE 최고법률책임자를 거쳐, 현재 넥스트증권에서 컴플라이언스본부장 겸 준법감시인을 맡고 있습니다.\n\n• 에이전트 신원과 위임 권한\n• 지출 권한과 책임 소재\n• 규제 공백\n\n20:40 – 23:00 · 자유 네트워킹\n\n## 안내\n\n• 신청 · 별도 참가비는 없습니다. 선착순으로 마감될 수 있습니다. 승인은 행사 전에 순차적으로 진행될 예정입니다.\n• 장소 · 강남 근처입니다. 사인업 후 장소를 확인하실 수 있습니다.\n• 식사 · 한식 도시락이 준비되어 있습니다.\n\n## About Bloom\n\nBloom은 AI 얼리어답터를 위한 커뮤니티입니다. 4월부터 서른다섯 번 넘는 행사를 열었고, 지금까지 7,500명 이상이 밋업에 함께했습니다. 디스코드 (https://discord.gg/aXrYNGZM3J?utm_source=luma)에서 함께해요.\n\n## About Tokenpost (Media Partner)\n\n토큰포스트 (https://www.tokenpost.kr/)는 블록체인·암호화폐 시장의 흐름을 빠르게 전하는 디지털 자산 전문 미디어입니다. 실시간 속보부터 시세, 리서치, AI 인사이트까지 한곳에서 만나보세요.",
-    "startDate": "2026-09-28T09:00:00.000Z",
-    "endDate": "2026-09-28T14:00:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "Seoul, South Korea",
-    "url": "https://luma.com/mw84pfjm",
-    "coverImage": "/events/luma-recover-w3vagenticpaymen-c27d490a.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "hosts": [
-      "Joel Mun",
-      "t54 Labs",
-      "Claire Jung",
-      "Bloom 🌸"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Seoul",
-    "slug": "apo",
-    "registrationUrl": "https://luma.com/mw84pfjm",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/mw84pfjm",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/mw84pfjm",
-      "eventId": "evt-QU74WDor7gNaeYC",
-      "fetchedAt": "2026-09-19T23:29:49.798Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "w3v-security-night-with-zircuit-finance-quantstamp-and-common-defense",
-    "name": "Security Night with Zircuit Finance, Quantstamp, and Common Defense | KBW 2026",
-    "description": "[Join Zircuit Finance](https://finance.zircuit.com/), [Quantstamp](https://quantstamp.com/), [and Common Defense](https://www.commondefense.ai/) for Security Night, a relaxed evening of good conversations, fresh ideas, and great company ✨\n\nWe’ll explore topics ranging from security and DeFi to the growing threat of social engineering attacks, with each co-host sharing a short presentation on their latest work.\n\nOnce the talks wrap up, the night continues with food, drinks, and plenty of time to mingle. Come meet the teams, make some new connections, and grab some exclusive event swag while it lasts! 😎\n\n[Co-hosted by Xangle](https://xangle.io/en/research) 🇰🇷\n\n## The Schedule\n\n19:00-19:45 | Registration + Networking\n19:45-19:50 | MC Opening & Introduction (Irene Lee, Xangle)\n19:50-20:00 | Zircuit Finance (Martin Derka, Co-Founder)\n20:00-20:10 | Common Defense (Joshua Tjokrosurjo, Founding Member)\n20:10-20:20 | Quantstamp (Martinet Lee, Head of Developer Relations)\n20:20-22:00 | Networking, Food, and Drinks\n\n## The Hosts\n\n[Zircuit](https://finance.zircuit.com/?utm_source=luma)puts your security first with institutional-grade protection and a proven track record safeguarding billions.\n\n[Follow on X: x.com/zircuit](https://x.com/zircuit)\n[Institutional-grade yield starts here: finance.zircuit.com](https://finance.zircuit.com)\n\n## Protecting humans from AI-native threats\n\nDefending people and organizations across email, messaging, social platforms, professional networks, and voice and video calls.\n\n[Follow on X: x.com/CommonDefenseAI](https://x.com/CommonDefenseAI)\n[Learn More: commondefense.ai](https://commondefense.ai)\n\nQuantstamp is a global leader in blockchain security. Since 2017, we’ve secured billions in digital assets and worked with some of the most recognized names in web3.\n\n[Follow on X: x.com/quantstamp](https://x.com/quantstamp)\n[Learn more: quantstamp.com](https://quantstamp.com)\n\n쟁글은 디지털 자산 시장의 정보 인프라와 기관용 오케스트레이션 레이어를 구축하는 기업입니다. 디지털 자산 데이터, 리서치 및 정보 유통 역량을 기반으로 금융기관과 기업이 시장을 보다 투명하게 이해하고 합리적인 의사결정을 내릴 수 있도록 지원합니다. 또한 다양한 디지털 자산 인프라를 하나의 환경에서 연결하는 오케스트레이션 레이어를 제공함으로써, 기관이 복잡한 기술 및 규제 환경 속에서도 디지털 자산 서비스를 효율적으로 구축하고 운영할 수 있도록 지원합니다.\n\nXangle is a digital asset infrastructure company building an information infrastructure and an institutional-grade orchestration layer for the digital asset market. Leveraging its capabilities in digital asset data, research, and information distribution, Xangle enables financial institutions and enterprises to better understand the market and make informed decisions. Xangle also provides an orchestration layer that connects diverse digital asset infrastructure within a unified environment, enabling institutions to efficiently build and operate digital asset services across complex technological and regulatory landscapes.\n\n[Follow on X: x.com/Xangle_official](https://x.com/Xangle_official)\n[Learn more: xangle.io](https://xangle.io/)\n\n## Media Partner\n\nMira is the discovery platform for digital finance and frontier tech — events, companies, jobs, and the people building it.\n\nFollow on X: https://x.com/miragather\n[Learn more: miragather.com](https://miragather.com/)",
-    "startDate": "2026-09-28T10:00:00.000Z",
-    "endDate": "2026-09-28T13:00:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "Seoul, South Korea",
-    "url": "https://luma.com/SecurityNight",
-    "coverImage": "/events/luma-recover-w3vsecuritynight-923e127f.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "hosts": [
-      "Zircuit",
-      "Common Defense",
-      "Quantstamp"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Seoul",
-    "slug": "snzfqcd",
-    "registrationUrl": "https://luma.com/SecurityNight",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Common Defense",
-      "url": "https://www.commondefense.ai/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/SecurityNight",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/SecurityNight",
-      "eventId": "evt-q3qwenQ4H4OrbEL",
-      "fetchedAt": "2026-09-19T23:29:50.056Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
   },
   {
     "id": "w3v-connect-by-cointelegraph-seoul-edition",
@@ -19799,7 +19609,7 @@
     "country": "Hong Kong",
     "location": "Hong Kong, Hong Kong",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
+    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -19934,7 +19744,7 @@
     "country": "TBA",
     "location": "TBA, TBA",
     "url": "https://solana.com/breakpoint",
-    "coverImage": "/events/ma-solana-breakpoint-2027-1eb0c0ce.webp",
+    "coverImage": null,
     "source": "marketacross",
     "month": "November 2027"
   },
@@ -19990,7 +19800,7 @@
     "country": "UAE",
     "location": "Abu Dhabi, UAE",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
+    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
     "source": "marketacross",
     "month": "December 2027"
   },
@@ -28704,7 +28514,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261028%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261028T115220Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=11032cc79c824759f6f0af1b8df17b4dce372d842c6815233bfd2359b7b404c0",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261028%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261028T172101Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=b76e66350dc157ef177f82c2bc2ff094ab9479f8e8cd27c30912f2e1449e3ea7",
     "month": "November 2026"
   },
   {
@@ -28798,7 +28608,7 @@
     "country": "IT",
     "location": "Bari, IT",
     "url": "https://luma.com/IXH26-xrpl-hackathon",
-    "coverImage": null,
+    "coverImage": "/events/w3v-ixh26-italian-xrpl-hackathon-db972dc1.webp",
     "month": "November 2026"
   },
   {
@@ -29037,7 +28847,7 @@
     "name": "Crecer en Estados Unidos",
     "description": "",
     "startDate": "2026-10-30T14:00:00.000Z",
-    "endDate": "2026-10-30T15:30:00.000Z",
+    "endDate": "2026-10-30T16:00:00.000Z",
     "city": "Miami",
     "country": "United States",
     "location": "Miami, United States",
@@ -29056,7 +28866,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/8zpe32j0",
-    "coverImage": null,
+    "coverImage": "/events/w3v-an-evening-at-the-us-embassy-london-hosted-by--701b6bea.webp",
     "month": "November 2026"
   },
   {
@@ -29069,7 +28879,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/j6gxeshu",
-    "coverImage": null,
+    "coverImage": "/events/w3v-signal-evening-reception-das-london-63f6ffec.webp",
     "month": "November 2026"
   },
   {
@@ -29848,6 +29658,34 @@
     "url": "https://luma.com/auho5m0c",
     "coverImage": "/events/luma-host-evt-evt-yf8rxluae6ktq4u-1058d270.webp",
     "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-6TI62zNUP6i7ibm",
+    "name": "Stronger Together- Explore & Play for a Cause",
+    "description": "",
+    "startDate": "2026-11-01T20:00:00.000Z",
+    "endDate": "2026-11-01T21:30:00.000Z",
+    "city": "Doral",
+    "country": "United States",
+    "location": "Doral, United States",
+    "url": "https://lu.ma/f6edaa8d",
+    "coverImage": "/events/luma-evt-6ti62znup6i7ibm-0c90e065.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-w1tquTnMve1wrxQ",
+    "name": "Los Angeles - Silicon Valley AI Film Festival 2026",
+    "description": "",
+    "startDate": "2026-11-01T23:00:00.000Z",
+    "endDate": "2026-11-02T03:00:00.000Z",
+    "city": "Beverly Hills",
+    "country": "United States",
+    "location": "Beverly Hills, United States",
+    "url": "https://lu.ma/o1o4pr82",
+    "coverImage": "/events/luma-evt-w1tqutnmve1wrxq-186914e0.webp",
+    "source": "luma",
     "month": "November 2026"
   }
 ]

@@ -1945,52 +1945,6 @@
     }
   },
   {
-    "id": "luma-batch-pa2rHgaGsAMHHy8",
-    "slug": "builders-night-0928",
-    "name": "（招待制）Colosseum Hackathon VIPパーティ @ 麻布十番",
-    "description": "(This is an invitation-only event.)\n\nオンチェーン領域で、世界を獲る。\n\nクリプト世界最大のスタートアップコンペ「Colosseum Hackathon (通称: Crypto World’s Fair Hackathon) 」が開催中。\n\nColosseum史上初、Solana以外にEthereum、Base、Hyperliquidなどのチェーンも開放されました。\n\n2026年春は日本から3チームが入賞し、その全チームがSolana最大のアクセラレーターに採択されました。賞金・資金調達額が合計約2.2億円となりました。\n\n今回開催するのは、入賞者やトップクラスのFounderやアクセラレーターのみを招待する少人数かつクローズドなVIPパーティです。\n\nタイムスケジュール（仮）\n\n18:00 開場・受付\n\n18:30 オープニング\n\n18:35 Colosseum Hackathon の概要\n\n18:45 参加者からの自己紹介\n\n19:45 ネットワーキング\n\n21:30 クロージング\n\nライトニングトーク募集中いま作っているもの、宣伝したいもの、なんでも歓迎。登壇者を募集しています！\n\n撮影\n\n当日メディア取材が入りますのでご了承ください。撮影された画像動画はSNS等にて使用させていただきます。\n\nFilming：\n\nPlease note that media coverage will take place on the day of the event. We will use the photos and videos taken on SNS and other media outlets.\n\n留意事項\n\n途中入退場自由：ご都合に合わせて、いつでも会場へお入りいただけます。\n\n参加キャンセル: ご都合が悪くなった場合は、お手数ですが「不参加」に変更をお願いいたします。\n\n入場について: 会場入り口にて、LumaのQRコードをご提示ください。\n\n飲食について: 軽食とドリンクをご用意しておりますので、お気軽にご利用ください。\n\n参加費: 参加費は無料です。\n\n未成年の方へ: 未成年の方の飲酒は法律で禁止されています。また、飲酒運転は絶対にやめましょう。\n\nご不明な点がございましたら、お気軽にお問い合わせください。\n\nHosted by\n\nSuperteam Japan: Solanaで次世代を創るビルダー、スタートアップ、企業が集うコミュニティ。開発力、団結力、イノベーション力を結集し、日本のオンチェーン経済の発展に貢献していきます。\n\n公式Xアカウント: https://x.com/SuperteamJapan\n\nイベント参加規約 / Event Participation Terms & Conditions\n\n本イベント参加規約（以下「本規約」といいます。）は、Superteam Japan（以下「当社」といいます。）が主催、運営するイベント（以下「イベント」といいます。）に参加する参加者（以下「参加者」といいます。）に適用される規約です。参加者は、本規約に同意した上で、イベントに参加するものとします。 / This Event Participation Agreement (hereinafter referred to as the \"Agreement\") applies to events hosted and operated by Superteam Japan (hereinafter referred to as the \"Company\"), and is applicable to participants (hereinafter referred to as \"Participants\") in events (hereinafter referred to as \"Events\"). Participants shall participate in the Event upon agreeing to these Terms and Conditions.\n\nイベント参加規約はこちらからご確認ください / Please click here to view the Event Participation Agreement.\nイベント参加規約\n\n本イベントに参加申し込みをされた方は、イベント参加規約に同意したものとみなされます。 / By registering for this event, you agree to the Event Participation Agreement.\n\nTake on the world, onchain.\n\nThe Colosseum Hackathon — the world's largest onchain competition — is live now.In Spring 2026, three teams from Japan placed, and all three were accepted into the accelerator.Solana, Ethereum, Base, Hyperliquid — every chain welcome. Find your teammates, pitch your ideas, and go take on the world.\n\nSchedule (tentative)\n\n18:00 Doors open / Check-in\n\n18:30 Opening\n\n18:35 Attendee intro pitches\n\n19:30 Colosseum Hackathon overview\n\n19:40 Networking\n\n21:30 Closing\n\nLightning talks — speakers wanted!Whatever you're building, whatever you want to promote. All welcome!",
-    "startDate": "2026-09-28T09:00:00.000Z",
-    "endDate": "2026-09-28T12:30:00.000Z",
-    "city": "Minato City",
-    "country": "Japan",
-    "location": "5, Minato City, Tokyo, Japan",
-    "url": "https://luma.com/builders-night-0928",
-    "registrationUrl": "https://luma.com/builders-night-0928",
-    "coverImage": "/events/luma-batch-pa2rHgaGsAMHHy8-06c34e3a.webp",
-    "source": "luma-batch",
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Tokyo",
-    "neighborhood": "5",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "Minato City",
-    "addressRegion": "Tokyo",
-    "addressCountry": "JP",
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Japan",
-      "url": "https://luma.com/superteamJapan"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/builders-night-0928",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/builders-night-0928",
-      "eventId": "evt-pa2rHgaGsAMHHy8",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-9lFoIKPGXQTfgYD",
     "slug": "r478jev9",
     "name": "第3回 そうだったのかブロックチェーン 公開収録",
@@ -3663,100 +3617,6 @@
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe",
       "enrichedAt": "2026-09-22T11:00:44.000Z"
-    }
-  },
-  {
-    "id": "luma-batch-EKjnGB8Zi43zJWf",
-    "slug": "eyiw7vzq",
-    "name": "ONLINE OFFICE | Знайти юзерів під час хакатону",
-    "description": "Знайти перших юзерів під час хакатону 👥\n\nЗбільшити шанси на перемогу в хакатоні – показати трекшн!\n\nВиходимо в Google Meet і обговорюємо:\n\n• де шукати перших користувачів без рекламного бюджету• як зрозуміти, хто твоя цільова аудиторія• як достукатися до людей і переконати їх спробувати MVP• як збирати фідбек і швидко покращувати продукт• які перші метрики та traction варто показати в пітчдеку\n\nМожна приходити зі своїм проєктом — разом подумаємо, де саме знайти для нього перших юзерів. Прохання детальніше описати ваш продукт при реєстрації, аби ми могли предметно обговорити щодо юзерів.\n\n## Hosts\n\nHosted by Superteam Ukraine (Solana Hub in Ukraine — Learn. Earn. Build.).",
-    "startDate": "2026-09-28T15:00:00.000Z",
-    "endDate": "2026-09-28T16:00:00.000Z",
-    "location": "TBA",
-    "url": "https://luma.com/eyiw7vzq",
-    "registrationUrl": "https://luma.com/eyiw7vzq",
-    "coverImage": "/events/luma-batch-EKjnGB8Zi43zJWf-2d154d02.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Ukraine"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/Kiev",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Ukraine",
-      "url": "https://luma.com/user/superteamUA"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/eyiw7vzq",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/eyiw7vzq",
-      "eventId": "calev-EKjnGB8Zi43zJWf",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T11:00:44.000Z"
-    }
-  },
-  {
-    "id": "luma-batch-XW0YqQnEUe7gElM",
-    "slug": "7mnvs47t",
-    "name": "Build for Breakpoint: Legal Prep for Founders with Gunnercooke",
-    "description": "Legal Prep for Founders: Getting Your Product Ready\n\nMost founders treat legal as something to sort out later. The problem is that the expensive mistakes are made early and quietly: IP that sits with a contractor instead of the company, terms copied from another site, user data collected before anyone asked what the lawful basis was.\n\nThis session covers what it takes to get a tech product ready from the legal side: who owns the code, brand and model; what data you're collecting and on what basis; which compliance obligations bite before launch rather than after; and the gap between what your terms say and what your product actually does. Bring your product as it stands: what it does, who touches the data, who built what. Come with the awkward questions rather than the tidy version.\n\nWhy it matters, and why now.\n\nNone of this makes a product better, and all of it makes a company fundable. Diligence is where unowned IP and missing agreements surface, and they surface when a term sheet is on the table and you have no leverage.\n\nYour host: James Burnie FRSA, gunnercooke.\n\nPartner at gunnercooke, ranked Band 1 for Blockchain and Cryptocurrencies in Chambers FinTech and a Leading Partner for FinTech Regulatory in Legal 500. He's been in crypto since the first successful UK-based ICO and the first equity issuance settled on-chain, and has acted for over 300 Web3 companies — work that includes helping draft around 3% of the world's cryptoasset regulation and advising regulators including the Mauritius FSC and Kazakhstan's AFSA. He's given evidence to the UK All-Party Parliamentary Group on Blockchain and Cryptoassets, advises the Law Commission's DAO panel, and hosts the Crypto Cast podcast. He's seen this go wrong across hundreds of companies, and his current focus is helping firms get to market inside the new regulatory regimes",
-    "startDate": "2026-09-28T15:00:00.000Z",
-    "endDate": "2026-09-28T16:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "Somerset House, Somerset House, Strand, London WC2R 1LA, UK",
-    "url": "https://luma.com/7mnvs47t",
-    "registrationUrl": "https://luma.com/7mnvs47t",
-    "coverImage": "/events/luma-batch-XW0YqQnEUe7gElM-7b7ac88f.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Foundation Ventures",
-      "Superteam UK"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/London",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Somerset House",
-    "addressLocality": "London",
-    "addressRegion": "England",
-    "addressCountry": "GB",
-    "organizer": {
-      "type": "Organization",
-      "name": "Foundation Ventures",
-      "url": "https://luma.com/user/foundationvent"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/7mnvs47t",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/7mnvs47t",
-      "eventId": "calev-XW0YqQnEUe7gElM",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
     }
   },
   {
@@ -7950,36 +7810,6 @@
     }
   },
   {
-    "id": "luma-batch-evt2maDtVnasNJtx",
-    "slug": "epw0og4f",
-    "name": "Workshop Stellar #2",
-    "description": "Join us for an in-person workshop focused on building smart contracts on Stellar with AI.\n\nThis session is designed for developers and builders who want to ship their first Soroban contract and get ready for HackMeridian.\n\nWhat to expect\n\nWriting, deploying and calling your own Soroban smart contract on testnet\n\nSetting up Stellar Skills and Raven, the official tooling that gives your AI agent real Stellar context\n\nWhere the AI breaks: storage types, TTL, authorization. Anyone can generate a contract in thirty seconds, knowing what's wrong with it is the actual skill\n\nTeam formation and project scoping for the demo night\n\nWho should join?\n\nBuilders who came to the first workshop and want to go further. Setup instructions go out 72h ahead and take about 15 minutes, done at home rather than on campus wifi.\n\nYou don't need to be an expert in Stellar to participate. Come with your laptop and an idea, and we'll help you get started.\n\nRun by De Vinci Blockchain. Session delivered in French.\n\nAbout HackMeridian\n\nHackMeridian is a two-day builder event bringing together developers, founders, designers, and technical teams to turn ambitious ideas into working products on Stellar. The main event takes place October 25–26, 2026 in Lisbon, Portugal.\n\nThere’s more than one way into HackMeridian. Start where you are, find your people, find your idea, and find your way. Apply today at HackMeridian.com.\n\nHackMeridian has two paths:\n\nGenesis: for first-time founders, emerging builders, domain experts, and multidisciplinary teams working on a new idea or early prototype.\n\nScale: for experienced founders, product teams, developers, and startups with an existing product or advanced prototype looking to take it further. Experience does not need to be on Stellar.\n\nParticipants can access support from Stellar engineers, technical mentors, product experts, founders, workshops, office hours, team formation, and AI development support.\n\n🚀 Find your way to HackMeridian\n\nThis event is one way into HackMeridian. Start where you are, find your people, find your idea, and find your way.\n\nHackMeridian 2026\n📅 October 25–26, 2026\n📍 Lisbon, Portugal\n\nCome ready to build, find your people, get expert support, and ship something real.\n\nLearn more about HackMeridian\n\nApply to HackMeridian",
-    "startDate": "2026-09-28T15:30:00.000Z",
-    "endDate": "2026-09-28T17:00:00.000Z",
-    "city": "Nanterre",
-    "country": "France",
-    "location": "IIM - Institute of Internet and Multimedia, IIM - Institute of Internet and Multimedia, 47 Bd de Pesaro, 92000 Nanterre, France",
-    "url": "https://luma.com/epw0og4f",
-    "registrationUrl": "https://luma.com/epw0og4f",
-    "coverImage": "/events/luma-batch-evt2maDtVnasNJtx-0bec67af.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "DeVinci Blockchain"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Paris",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/epw0og4f",
-      "eventId": "evt-2maDtVnasNJtxV0",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtHdTkV3aVBkRzW",
     "slug": "po151xsp",
     "name": "Workshop Stellar #3",
@@ -8063,36 +7893,6 @@
     "sourceVerification": {
       "url": "https://luma.com/trust_circle_ai_privacy",
       "eventId": "evt-iYvofCpeYddHEGd",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtHABBi5G0FiUGa",
-    "slug": "confidentiality-in-regulated-onchain-markets",
-    "name": "Confidentiality in Regulated Onchain Markets: Talks & Apéro at CV Summit Zurich | OpenZeppelin × CMTA",
-    "description": "Confidentiality in Regulated Onchain Markets is a closed-door session hosted by OpenZeppelin and The Capital Markets and Technology Association (CMTA) during CV Summit week in Zurich, limited to 40 senior participants from banks, market infrastructure, legal, and technology.\n\nInstitutions moving onchain face a structural problem: public blockchains expose positions, counterparties, and settlement flows to anyone watching. This session covers the technologies changing that, and what institutions are doing with them.\n\nThe program runs from the case for onchain confidentiality, through the technologies enabling it (FHE, ZK, private state), to CMTAT Confidential, live confidential settlement, the compliance perspective, and the views of regulated banks.\n\nTalks are 10 minutes each with time for questions. We close with an apéro at 18:00.\n\nPrevious OpenZeppelin institutional events drew senior guests from firms including J.P. Morgan, Citi, UBS, Morgan Stanley, Bank of America, BNY, Fidelity, Mastercard, Deloitte, and more.\n\nAgenda\n\n16:00 - 16:30\nDoors open and welcome coffee\n\n16:30 - 18:00\nTalks:\n• Opening by OpenZeppelin and CMTA\n• Why onchain confidentiality, why now — Smriti Verma, Institutional Tech Lead, OpenZeppelin\n• CMTAT Confidential: a framework for confidential securities — Ryan Sauge, Security Engineer, Taurus\n• Confidential DvP in production: private settlement of tokenized assets on public rails — Dominik Bepple, Developer, Blockchain Architecture, Seturion\n• A Swiss bank perspective on confidential onchain markets — Jimmy Tahoulas, Digital Assets Custody Manager, Swissquote Bank\n• A digital asset bank perspective: bringing confidentiality to institutional products — Pavel Jakovlev, Head of Product Innovation & Growth, Amina Bank\n\n18:00 - 19:00 Apéro\n\nAbout the hosts\n\nOpenZeppelin is the security standard for onchain finance. Since 2015, its industry-standard smart contracts library has powered $37 trillion in value transferred, alongside 900+ security engagements for leading institutions, blockchain networks, and protocols including DTCC, Fidelity Digital Assets, WisdomTree, Aave, the Canton Foundation and the Ethereum Foundation. Learn more at openzeppelin.com.\n\nThe Capital Markets and Technology Association (CMTA) is a Swiss association bringing together banks, law firms, and technology companies to develop common standards for the use of distributed ledger technology in capital markets, including the open CMTAT token framework. Learn more at cmta.ch.\n\n📸 Event Photography\n\nWe'll be capturing photos and videos throughout the event. By attending, you agree that we may use event content (including your image) in our marketing materials, social media, and future promotions. If you prefer not to be photographed, please let us know at check-in.\n\nRegistration details may be shared with event co-host CMTA and venue host for event coordination and building access.",
-    "startDate": "2026-09-28T14:00:00.000Z",
-    "endDate": "2026-09-28T17:00:00.000Z",
-    "city": "Zürich",
-    "country": "Switzerland",
-    "location": "Zürich, Zürich, Switzerland",
-    "url": "https://luma.com/confidentiality-in-regulated-onchain-markets",
-    "registrationUrl": "https://luma.com/confidentiality-in-regulated-onchain-markets",
-    "coverImage": "/events/luma-batch-evtHABBi5G0FiUGa-f63d2dd1.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "OpenZeppelin"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Zurich",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "summit",
-    "sourceVerification": {
-      "url": "https://luma.com/confidentiality-in-regulated-onchain-markets",
-      "eventId": "evt-HABBi5G0FiUGa9Y",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
@@ -8421,96 +8221,6 @@
     "sourceVerification": {
       "url": "https://luma.com/5xp9r8xd",
       "eventId": "evt-zJSbBU29gOHYbkM",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evttQaz3qZoLer3O",
-    "slug": "0bbma5yj",
-    "name": "OFF THE RECORD",
-    "description": "카메라가 꺼진 뒤에야 할 수 있는 이야기들이 있습니다.\n\nface 東向의 첫 번째 리스너 밋업을 엽니다.\n\n녹화도, 클립도, 편집도 없습니다. 이날 나눈 이야기는 오직 그 자리에 있던 사람들만 가져갑니다.\n\n첫 번째 순서는 Rialo와 함께하는 파이어사이드 챗입니다.\n\n주제는 ‘리알로 근황: 너 살아는 있니?’\n\n작년 KBW 이후 도대체 뭘 하고 있었는지, 프로젝트는 어디까지 왔는지, 토큰은 있는지, 에어드롭은 해주는지. 그동안 궁금했지만 제대로 묻지 못했던 것들을 솔직하게 물어보겠습니다.\n\n그 다음은 평소 여러분이 보시던 face 팟캐스트의 조금 더 매운맛 버전입니다.\n\n저희가 원래 검열을 많이 하는 편은 아니지만, 그래도 방송이라 차마 꺼내지 못했던 이야기들이 있습니다. face 코호스트 세 명이 그동안 방송에서 못다 한 이야기를 이날 모두 풀어보겠습니다.\n\n세션이 끝난 뒤에는 저녁을 먹으며 편하게 이야기 나눌 수 있는 네트워킹 시간이 이어집니다. 오래 남아 계셔도 좋고, 먼저 가셔도 괜찮습니다. 다만 세션이 진행되는 동안에는 가급적 자리를 지켜주세요.\n\n그리고 한 가지 중요한 규칙이 있습니다.\n\nNo phones. Nothing recorded.\n\n파이어사이드 챗이 시작되면 휴대폰은 입구에서 보관했다가 세션이 끝난 뒤 돌려드립니다. 녹음도, 촬영도, 클립도 없습니다.\n\n행사장에서 드시는 모든 음식은, AI 에이전트가 온체인에서 자율적으로 활동할 수 있도록 인프라를 구축하는 AI x Crypto 프로젝트, Talus로부터 지원받아 제공됩니다.\n\n더불어 음식과 함께 포필러스가 작성한 Talus 리포트도 드릴 예정이오니 많은 관심 부탁드립니다.\n\n▍RUNSHEET\n\n18:00 Doors open\n입장 및 저녁 식사\n\n18:10 Fireside chat\n‘리알로 근황: 너 살아는 있니?’\nface co-hosts × Rialo Team\n\nThen, off the record\n방송에서 못다 한 이야기 보따리\n\nThen, networking\n저녁과 함께 자유롭게 이야기 나누는 시간\n\n▍오시기 전에 확인해 주세요\n\n휴대폰은 정말 걷습니다. 파이어사이드 챗이 시작되면 입구에서 보관하고, 세션이 끝난 뒤 돌려드립니다. 급한 연락을 받아야 하는 분은 미리 말씀해 주세요. 따로 빼두겠습니다.\n\n늦게 오셔도 괜찮고, 네트워킹이 시작된 뒤에는 편하게 나가셔도 됩니다. 다만 가능하면 18시 10분에 시작하는 파이어사이드 챗은 놓치지 말아 주세요.\n\n저녁은 준비되어 있으니 따로 드시고 오지 않으셔도 됩니다.\n\n인원제한은 50명이고 조금 더 꾸겨 넣을 수는 있을 것 같지만, 기본적으로 선착순으로 받습니다. 혹시라도 신청 후 참석이 어려워지면 기다리고 있는 분께 자리를 넘겨드릴 수 있도록 꼭  취소해 주세요!",
-    "startDate": "2026-09-28T09:00:00.000Z",
-    "endDate": "2026-09-28T13:00:00.000Z",
-    "city": "Seoul, South Korea",
-    "country": "South Korea",
-    "location": "로컬호스트Web3, 로컬호스트Web3, 609-1 Yeoksam-dong, Gangnam District, Seoul, South Korea",
-    "url": "https://luma.com/0bbma5yj",
-    "registrationUrl": "https://luma.com/0bbma5yj",
-    "coverImage": "/events/luma-batch-evttQaz3qZoLer3O-adce8fcb.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Seoul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/0bbma5yj",
-      "eventId": "evt-tQaz3qZoLer3Obc",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtHnuZMdJUFATyI",
-    "slug": "imnhzj16",
-    "name": "Inside Squid · Founder Session",
-    "description": "\"What's going to keep people on your platform is... how it feels\"\n\nJoin us for a session with Fig, Co-Founder of Squid, on what it takes to build something that grows with every cycle, and what's coming next.\n\nFig's background spans medicine, self-taught programming, venture capital, and family offices. He started out in crypto in 2020 building algorithmic trading models, and now leads business development and product at Squid.\n\nOpen to the public · RSVP · Space is limited\n\nSquid is the leading cross-chain platform, delivering unlimited access to 100+ blockchains and 20k+ digital assets for both users and builders alike.\n\nSince 2023, Squid has processed over $6 billion in volume. Its frontend bridge app has served over 1 million users, and its powerful API, SDK, and Widgets are trusted by more than 1,000 teams worldwide.\n\nX | Website | Try Squid | $QUID\n\nBlockchain at Yonsei (BAY) is Korea's first and largest university blockchain community, founded at Yonsei University in 2017. Our members explore blockchain through research, engineering, and ecosystem building, collaborating with leading industry partners while contributing to the broader Web3 ecosystem.\n\nX | Website | LinkedIn",
-    "startDate": "2026-09-28T10:30:00.000Z",
-    "endDate": "2026-09-28T12:30:00.000Z",
-    "city": "Seoul, South Korea",
-    "country": "South Korea",
-    "location": "Seoul, South Korea, Seoul, South Korea",
-    "url": "https://luma.com/imnhzj16",
-    "registrationUrl": "https://luma.com/imnhzj16",
-    "coverImage": "/events/luma-batch-evtHnuZMdJUFATyI-3e79dd2e.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Seoul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/imnhzj16",
-      "eventId": "evt-HnuZMdJUFATyIwF",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtaDA7VOjTYAtVG",
-    "slug": "wniw1qxs",
-    "name": "Signal & Sound",
-    "description": "Signal & Sound\n\nKBW week gets loud fast. Before the chaos of generic BD dinners and conference fatigue sets in, join DoubleZero for an evening designed for traders.\n\nWe’re taking over a high-end hi-fi sound room hidden in Seoul, for an off-the-record happy hour. Think deep acoustics, curated cocktails, and an elite room of other traders taking a rare break from the charts.\n\nWhere: Seoul\n\nWhen: KBW Kickoff\n\nExpect: Premium drinks, immersive hi-fi audio, and zero sales pitches.\n\nFilter out the noise. We'll see you there.\n\nAbout DoubleZero\n\nDoubleZero is a protocol that enables a global fiber network for high-performance data distribution. Powered by independent fiber contributors and coordinated onchain, DoubleZero delivers low-latency networking and real-time data infrastructure for blockchains, prediction markets and other distributed systems where milliseconds matter. Learn more at: www.doublezero.xyz.",
-    "startDate": "2026-09-28T11:00:00.000Z",
-    "endDate": "2026-09-28T14:00:00.000Z",
-    "city": "Seoul, South Korea",
-    "country": "South Korea",
-    "location": "Seoul, South Korea, Seoul, South Korea",
-    "url": "https://luma.com/wniw1qxs",
-    "registrationUrl": "https://luma.com/wniw1qxs",
-    "coverImage": "/events/luma-batch-evtaDA7VOjTYAtVG-f60a4b35.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "DoubleZero Events"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Seoul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "conference",
-    "sourceVerification": {
-      "url": "https://luma.com/wniw1qxs",
-      "eventId": "evt-aDA7VOjTYAtVG3C",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
@@ -10401,36 +10111,6 @@
     "sourceVerification": {
       "url": "https://luma.com/w5guj5ix",
       "eventId": "evt-izxRTn2xla4tR0w",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtJbbmVmYCntR74",
-    "slug": "nqy2n5zi",
-    "name": "Bittensor 101: Start Here",
-    "description": "Two days of big ideas ahead. Get your bearings in the first 45 minutes.\n\nNew to Bittensor? Curious about it but getting lost in the terminology?\n\nJoin Travis Millott, known as TAO Templar, and Maciej Kula of Latent Holdings for a welcoming introduction before Exploit's main-stage programme gets underway.\n\nThrough simple analogies and examples from the real world, we'll explore what Bittensor is, how it works and why people are building on it.\n\nWhat you'll explore\n\nThe big idea behind Bittensor, starting with what Bitcoin got right.\n\nWhat subnets are and how different people contribute.\n\nHow the rules for rewards shape the work people do, and why measuring that work matters.\n\nHow these ideas translate into real applications.\n\nWhere to find sessions and people to keep learning at Exploit.\n\nWho's it for?\nAnyone new to Bittensor, and community members looking for a clearer way to explain Bittensor to others. With no prior knowledge needed.\n\nThere'll be plenty of time for questions, including the ones you've been hesitating to ask. Leave with a clearer picture of Bittensor and the understanding to join the conversations happening throughout the summit.\n\nMonday 28 September · 9:00–9:45am\nRao Stage · New City Gas · Montréal\n\nCome curious. Get oriented. Make more of Exploit.",
-    "startDate": "2026-09-28T13:00:00.000Z",
-    "endDate": "2026-09-28T13:45:00.000Z",
-    "city": "Montréal",
-    "country": "Canada",
-    "location": "New City Gas, New City Gas, 950 Rue Ottawa, Montréal, QC H3C 1S4, Canada",
-    "url": "https://luma.com/nqy2n5zi",
-    "registrationUrl": "https://luma.com/nqy2n5zi",
-    "coverImage": "/events/luma-batch-evtJbbmVmYCntR74-0c4b0f1b.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "America/Toronto",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "summit",
-    "sourceVerification": {
-      "url": "https://luma.com/nqy2n5zi",
-      "eventId": "evt-JbbmVmYCntR74rC",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
