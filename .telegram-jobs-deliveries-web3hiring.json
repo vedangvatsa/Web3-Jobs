@@ -9605,5 +9605,120 @@
     "slotKey": "2026-10-28:evening",
     "messageId": 16580,
     "sentAt": "2026-10-28T19:37:52.544Z"
+  },
+  "f27023fe-5624-4552-ac8f-abbaa4f8f173": {
+    "status": "reserved",
+    "reservedAt": "2026-10-28T19:37:54.713Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "1c8e2b03-fcb3-4949-9113-07812f138eb6",
+          "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/1c8e2b03-fcb3-4949-9113-07812f138eb6",
+          "date": "2026-10-04T13:55:38.925+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "People & Talent",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an68"
+        },
+        "key": "1c8e2b03-fcb3-4949-9113-07812f138eb6",
+        "slug": "an68",
+        "url": "https://hashtagweb3.com/an68?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Senior Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "8026446003",
+          "title": "Product Manager / Director, TradingView (Growth & Trading Experience)",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8026446003",
+          "date": "2026-10-12T04:05:52-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Hong Kong",
+          "department": "Product Management",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm290"
+        },
+        "key": "8026446003",
+        "slug": "pm290",
+        "url": "https://hashtagweb3.com/pm290?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Product Manager / Director"
+      },
+      {
+        "snapshot": {
+          "id": "8279867",
+          "title": "Program Manager, Commercial Solutions",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8279867",
+          "date": "2026-10-22T20:46:30-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Remote (US)",
+          "department": "1510 Global Business Services",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr200"
+        },
+        "key": "8279867",
+        "slug": "mgr200",
+        "url": "https://hashtagweb3.com/mgr200?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Program Manager"
+      },
+      {
+        "snapshot": {
+          "id": "4989839101",
+          "title": "Lead Legal Counsel, Group DPO",
+          "company": "Bitpanda",
+          "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4989839101",
+          "date": "2026-09-29T11:37:55-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bitpanda [bitpanda]",
+          "location": "Berlin, Germany",
+          "department": "Legal & Compliance & Risk",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp70"
+        },
+        "key": "4989839101",
+        "slug": "cmp70",
+        "url": "https://hashtagweb3.com/cmp70?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitpanda",
+        "title": "Lead Legal Counsel"
+      },
+      {
+        "snapshot": {
+          "id": "4740719005",
+          "title": "Compliance Associate (Onboarding)",
+          "company": "FalconX",
+          "link": "https://job-boards.greenhouse.io/falconx/jobs/4740719005",
+          "date": "2026-10-13T10:18:59-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: FalconX [falconx]",
+          "location": "Bangalore, Karnataka, India",
+          "department": "Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp116"
+        },
+        "key": "4740719005",
+        "slug": "cmp116",
+        "url": "https://hashtagweb3.com/cmp116?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "FalconX",
+        "title": "Compliance Associate"
+      }
+    ],
+    "message": "- Ramp is hiring <a href=\"https://hashtagweb3.com/an68?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Analyst, Employee Lifecycle Data (Workday)</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm290?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager / Director, TradingView (Growth &amp; Trading Experience)</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/mgr200?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Program Manager, Commercial Solutions</a>\n- Bitpanda is hiring <a href=\"https://hashtagweb3.com/cmp70?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Lead Legal Counsel, Group DPO</a>\n- FalconX is hiring <a href=\"https://hashtagweb3.com/cmp116?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Compliance Associate (Onboarding)</a>",
+    "slotKey": "2026-10-28:evening"
   }
 }
