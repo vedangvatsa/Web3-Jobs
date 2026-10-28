@@ -2436,7 +2436,7 @@
     "sentAt": "2026-10-28T11:52:31.816Z"
   },
   "d8fe46c0-4e41-4326-830c-dc4bab6cf4d6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-28T19:35:28.699Z",
     "stories": [
       {
@@ -2466,6 +2466,8 @@
         "originalTitle": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use"
       }
     ],
-    "slotKey": "2026-10-28:evening"
+    "slotKey": "2026-10-28:evening",
+    "messageId": 193416,
+    "sentAt": "2026-10-28T19:36:40.230Z"
   }
 }
