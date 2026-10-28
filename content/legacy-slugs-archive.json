@@ -150069,5 +150069,221 @@
     "title": "Head of Business Development",
     "company": "VeryAI",
     "newSlug": "sls325"
+  },
+  "pm333": {
+    "id": "7606014003",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7606014003",
+    "company": "a16z crypto",
+    "title": "Partner 16, Product Manager, Global Partnerships"
+  },
+  "eng648": {
+    "id": "8311082",
+    "link": "https://stripe.com/jobs/search?gh_jid=8311082",
+    "company": "Stripe",
+    "title": "iOS Engineer, Identity"
+  },
+  "int49": {
+    "id": "4b3063cb-bb07-40d5-93d3-b7ce556f96e8",
+    "link": "https://jobs.ashbyhq.com/ramp/4b3063cb-bb07-40d5-93d3-b7ce556f96e8",
+    "company": "Ramp",
+    "title": "[Internal] Managed Services, Consultant"
+  },
+  "raed": {
+    "id": "2796433",
+    "link": "https://careers.tether.io/o/head-of-regulatory-affairs-europe-digital-assets-fintech-exposure-1",
+    "company": "Tether",
+    "title": "Head of Regulatory Affairs-Europe ( Digital Assets & Fintech exposure)"
+  },
+  "sls340": {
+    "id": "ec740f52-ed54-4d6d-a216-ac68b3d5de18",
+    "link": "https://talent.superteam.fun/jobs/business-development-representative-at-squads-ec740f52-ed54-4d6d-a216-ac68b3d5de18",
+    "company": "Squads",
+    "title": "Business Development Representative"
+  },
+  "sls339": {
+    "id": "7859ff0e-8476-4990-ba8b-9d1c0244f10c",
+    "link": "https://talent.superteam.fun/jobs/account-executive-at-squads-7859ff0e-8476-4990-ba8b-9d1c0244f10c",
+    "company": "Squads",
+    "title": "Account Executive"
+  },
+  "sls338": {
+    "id": "8303082",
+    "link": "https://stripe.com/jobs/search?gh_jid=8303082",
+    "company": "Stripe",
+    "title": "Sales Development Representative, India"
+  },
+  "sls349": {
+    "id": "97730399",
+    "link": "https://jobs.ashbyhq.com/alchemy/75b564ff-1bbf-4fcf-b18c-db2fef832aaf",
+    "company": "Alchemy",
+    "title": "Account Executive, Solana"
+  },
+  "sls348": {
+    "id": "97730393",
+    "link": "https://jobs.ashbyhq.com/alchemy/d590ec32-c83d-4cdb-b936-fb7fe91490fd",
+    "company": "Alchemy",
+    "title": "Account Executive, Enterprise"
+  },
+  "aso69": {
+    "id": "4462533009",
+    "link": "https://job-boards.greenhouse.io/securitize/jobs/4462533009",
+    "company": "Securitize",
+    "title": "Associate, Private Equity/Venture Capital"
+  },
+  "mgr208": {
+    "id": "97690866",
+    "link": "https://jobs.lever.co/sphere-laboratories/42f03063-5b2d-46ef-b4ec-8e0320095a5f",
+    "company": "Sphere",
+    "title": "Implementation Manager"
+  },
+  "rec43": {
+    "id": "5010872101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5010872101",
+    "company": "Bybit",
+    "title": "Global Talent Acquisition Lead/ Expert"
+  },
+  "ops106": {
+    "id": "2229e90e-4caf-4c55-a5dd-e5c9820bc51b",
+    "link": "https://jobs.ashbyhq.com/trm-labs/2229e90e-4caf-4c55-a5dd-e5c9820bc51b",
+    "company": "TRM Labs",
+    "title": "Recruiting Operations Specialist (Contract)"
+  },
+  "sec97": {
+    "id": "8018091003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8018091003",
+    "company": "OKX",
+    "title": "Senior Manager, Global Physical Security Operations"
+  },
+  "infra35": {
+    "id": "8ed97824-f3e8-4f69-ba70-5fe04fa60bb3",
+    "link": "https://talent.superteam.fun/jobs/senior-security-engineer-product-infrastructure-at-squads-8ed97824-f3e8-4f69-ba70-5fe04fa60bb3",
+    "company": "Squads",
+    "title": "Senior Security Engineer, Product & Infrastructure"
+  },
+  "pm313": {
+    "id": "8841922002",
+    "link": "https://job-boards.greenhouse.io/figure/jobs/8841922002",
+    "company": "Figure",
+    "title": "Principal Product Designer"
+  },
+  "eco": {
+    "id": "193cb265-e09b-4bef-ac37-9224a1f8bca6",
+    "link": "https://jobs.ashbyhq.com/monad.foundation/193cb265-e09b-4bef-ac37-9224a1f8bca6",
+    "company": "Monad Foundation",
+    "title": "Head of Ecosystem"
+  },
+  "cm13": {
+    "id": "95493533",
+    "link": "https://jobs.solana.com/companies/orca-2-2d5724a8-8966-4bf4-8a20-b9ddb310c646/jobs/95493533-community-support-associate",
+    "company": "Orca",
+    "title": "Community Support Associate"
+  },
+  "pm206": {
+    "id": "4995550101",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4995550101",
+    "company": "Bitpanda",
+    "title": "Senior Product Manager - Crypto"
+  },
+  "rec22": {
+    "id": "67507a55-a45a-4e06-b7d5-815f5395c9c1",
+    "link": "https://jobs.lever.co/animocabrands/67507a55-a45a-4e06-b7d5-815f5395c9c1",
+    "company": "Animoca Brands",
+    "title": "Talent Acquisition Specialist - (6-Month Contract)"
+  },
+  "eng325": {
+    "id": "6188585004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6188585004",
+    "company": "Alpaca",
+    "title": "Staff Engineer - New Markets Singapore"
+  },
+  "mgr70": {
+    "id": "07b3bcec-8ff2-4b6f-b990-3b9307df3317",
+    "link": "https://jobs.lever.co/crypto/07b3bcec-8ff2-4b6f-b990-3b9307df3317",
+    "company": "Crypto.com",
+    "title": "CRM Manager"
+  },
+  "mgr54": {
+    "id": "1e8d77e1-c6f4-4eaa-b666-1c27feb4a96d",
+    "link": "https://jobs.lever.co/crypto/1e8d77e1-c6f4-4eaa-b666-1c27feb4a96d",
+    "company": "Crypto.com",
+    "title": "CRM Manager"
+  },
+  "sec108": {
+    "id": "8842136002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8842136002?gh_jid=8842136002",
+    "company": "Jane Street",
+    "title": "Cybersecurity Engineer"
+  },
+  "eng313": {
+    "id": "44D7FA8B35",
+    "link": "https://apply.workable.com/j/44D7FA8B35",
+    "company": "GoMining",
+    "title": "Tech Lead (Go) - Software Engineering"
+  },
+  "an94": {
+    "id": "9042714e62f1",
+    "link": "https://bitdeer.breezy.hr/p/9042714e62f1-billing-analyst-managed-k8s",
+    "company": "Bitdeer",
+    "title": "Billing Analyst - Managed K8s"
+  },
+  "dev32": {
+    "id": "503c06a18926",
+    "link": "https://bitdeer.breezy.hr/p/503c06a18926-developer-experience-engineer-managed-k8s",
+    "company": "Bitdeer",
+    "title": "Developer Experience Engineer - Managed K8s"
+  },
+  "ops68": {
+    "id": "e3991ac70d87",
+    "link": "https://bitdeer.breezy.hr/p/e3991ac70d87-finops-capacity-operations-model-studio",
+    "company": "Bitdeer",
+    "title": "FinOps & Capacity Operations (Model Studio)"
+  },
+  "sls172": {
+    "id": "ea9f71a1073a",
+    "link": "https://bitdeer.breezy.hr/p/ea9f71a1073a-regional-account-executive",
+    "company": "Bitdeer",
+    "title": "Regional Account Executive"
+  },
+  "sec67": {
+    "id": "edf7f7fba95b",
+    "link": "https://bitdeer.breezy.hr/p/edf7f7fba95b-senior-security-engineer-privacy-data-security",
+    "company": "Bitdeer",
+    "title": "Senior Security Engineer — Privacy & Data Security"
+  },
+  "wr6": {
+    "id": "97b0e5263096",
+    "link": "https://bitdeer.breezy.hr/p/97b0e5263096-technical-writer-managed-k8s",
+    "company": "Bitdeer",
+    "title": "Technical Writer - Managed K8s"
+  },
+  "ops70": {
+    "id": "8bbdedeb123d",
+    "link": "https://zero-hash.breezy.hr/p/8bbdedeb123d-svp-global-head-of-operations",
+    "company": "Zero Hash",
+    "title": "SVP, Global Head of Operations"
+  },
+  "an27": {
+    "id": "f4e2416c-8737-49e0-bf3f-21be56cf3a3a",
+    "link": "https://jobs.ashbyhq.com/dourolabs.xyz/f4e2416c-8737-49e0-bf3f-21be56cf3a3a",
+    "company": "Douro Labs",
+    "title": "Market Analyst"
+  },
+  "sec63": {
+    "id": "7adcb88b-f787-4d33-8698-d0d06b9dbf50",
+    "link": "https://talent.superteam.fun/jobs/security-engineer-at-squads-7adcb88b-f787-4d33-8698-d0d06b9dbf50",
+    "company": "Squads",
+    "title": "Security Engineer"
+  },
+  "asi2": {
+    "id": "4988003101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4988003101",
+    "company": "Bybit",
+    "title": "[EU] AML Specialist, Investigations"
+  },
+  "asns2": {
+    "id": "4988006101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4988006101",
+    "company": "Bybit",
+    "title": "[EU] AML Specialist, Name Screening & Travel Rule"
   }
 }
