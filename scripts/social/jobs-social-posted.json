@@ -66150,7 +66150,8 @@
       },
       "account": "channel:design",
       "attemptId": "91fda44a-a6c8-4371-8b78-82f92fc87a6a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5016cb01ce08f775698ecdd7e41bb1ab04432dd2"
     }
   ]
 }
