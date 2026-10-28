@@ -98226,7 +98226,7 @@
         "id": "34a7c4b938b3427e298c",
         "day": "2026-10-28",
         "articleSlug": "vaneckbuilder",
-        "note": "Read Cointelegraph and Bitcoin Magazine coverage of the WBMO launch. Same event as candidate 797b70f755be1b837304. VanEck.com overview page transport-failed. Draft and image still needed.",
+        "note": "Read Cointelegraph and Bitcoin Magazine on the WBMO launch. Duplicate candidate 797b70f755be1b837304 covers the same event. Draft and image still needed; Commons API 503.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure",
@@ -98237,7 +98237,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-10-28T03:50:12.342Z",
+        "updatedAt": "2026-10-28T03:52:16.323Z",
         "approved": false,
         "mustReview": true
       }
