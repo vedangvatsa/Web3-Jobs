@@ -98322,7 +98322,27 @@
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
       "attempts": 0,
       "expiresAt": "2026-10-30T08:20:29.000Z",
-      "lastSeenAt": "2026-10-28T03:43:47.836Z"
+      "lastSeenAt": "2026-10-28T03:43:47.836Z",
+      "articleSlug": "binancebr",
+      "draftProgress": {
+        "id": "943f914fefd5461cb001",
+        "day": "2026-10-28",
+        "articleSlug": "binancebr",
+        "note": "Read Cointelegraph and Unchained in full on the Oct 23 BBrasil filing and Oct 27 product cuts. Same event as Cointelegraph candidate d518256aac67a7d88803. Draft and image still needed; Commons API 503.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline",
+            "outcome": "read"
+          },
+          {
+            "url": "https://unchainedcrypto.com/binance-shuts-brazilians-out-of-new-loans-and-margin-ahead-of-a-licensing-deadline",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-28T03:52:13.543Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "d518256aac67a7d88803": {
       "source": "Cointelegraph",
