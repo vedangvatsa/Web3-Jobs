@@ -66006,7 +66006,8 @@
       },
       "account": "channel:solana",
       "attemptId": "87766d9f-1167-455d-89ab-764a05364f1d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xef94e20640e9ddd9352bdbea863f8a126bc2b169"
     }
   ]
 }
