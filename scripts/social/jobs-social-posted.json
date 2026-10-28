@@ -68440,6 +68440,41 @@
       "attemptId": "c7c40436-6a81-4133-8d6d-57cddd8045ac",
       "verification": "verified",
       "postId": "0x394b506bd99716e682dc8de9600c1fdb93f080a9"
+    },
+    {
+      "slug": "idds",
+      "company": "Lightspark",
+      "title": "Institutional Due Diligence Specialist, EU",
+      "platform": "farcaster",
+      "postedAt": "2026-10-28T11:54:48.115Z",
+      "expectedText": "Lightspark is hiring Institutional Due Diligence Specialist, EU\n\nhttps://hashtagweb3.com/idds/fc?og=7",
+      "snapshot": {
+        "id": "352cdac4-5d11-4bae-8ce4-8e27ad722d54",
+        "title": "Institutional Due Diligence Specialist, EU",
+        "company": "Lightspark",
+        "link": "https://jobs.ashbyhq.com/lightspark/352cdac4-5d11-4bae-8ce4-8e27ad722d54",
+        "date": "2026-09-29T18:03:27.747+00:00",
+        "source": "Ashby: Lightspark [lightspark]",
+        "location": "Estonia",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Legal & Compliance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "idds"
+      },
+      "payload": {
+        "text": "Lightspark is hiring Institutional Due Diligence Specialist, EU\n\nhttps://hashtagweb3.com/idds/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/idds/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "19e22823-85b8-41ce-926d-840ec6975128",
+      "verification": "creating"
     }
   ]
 }
