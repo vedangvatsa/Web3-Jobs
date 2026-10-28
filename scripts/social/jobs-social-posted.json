@@ -70000,7 +70000,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "799d0092-2161-4063-80e3-140dbbd07601",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8aaae98c3dcca2277444af9ec664bf21ea91ce14"
     }
   ]
 }
