@@ -5258,7 +5258,7 @@
     "sentAt": "2026-10-28T11:50:54.223Z"
   },
   "30e23838-cd45-44ac-b28d-11b0a07cf763": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-28T19:38:10.720Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -5372,6 +5372,8 @@
       }
     ],
     "message": "- Bybit is hiring <a href=\"https://hashtagweb3.com/an92?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Client Service Analyst - Livechat (Turkish required)</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/eng637?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer - Employee Experience Engineering (EXE)</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/eng217?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VP, Java Electronic Trading Engineer</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/eng304?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Summer Engineering Internship</a>\n- Paxos is hiring <a href=\"https://hashtagweb3.com/security149?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Security Engineer, Detection and Response</a>",
-    "slotKey": "2026-10-28:evening"
+    "slotKey": "2026-10-28:evening",
+    "messageId": 155969,
+    "sentAt": "2026-10-28T19:38:17.257Z"
   }
 }
