@@ -69309,7 +69309,8 @@
       },
       "account": "channel:base",
       "attemptId": "fa90865a-4754-4904-9de9-d302717f8bbc",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2f88cca3d447983b1f4f9b18707cda55330aa0bf"
     }
   ]
 }
