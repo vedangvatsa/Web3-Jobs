@@ -68294,7 +68294,8 @@
       },
       "account": "channel:dev",
       "attemptId": "7a8cbe22-c193-4e10-a9fd-f429e13f33bc",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf552b63692111045db0d04ed7a3ccefaa2582f3c"
     }
   ]
 }
