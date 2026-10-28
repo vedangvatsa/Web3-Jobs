@@ -2385,7 +2385,7 @@
     "sentAt": "2026-10-27T19:35:56.001Z"
   },
   "870a17de-23eb-43a0-ab08-f13b6eaa1fd6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-28T03:48:35.693Z",
     "stories": [
       {
@@ -2413,6 +2413,8 @@
         "originalTitle": "SEC Names Three Operators Notifying It of Tokenized Stock Venue Plans"
       }
     ],
-    "slotKey": "2026-10-28:morning"
+    "slotKey": "2026-10-28:morning",
+    "messageId": 155960,
+    "sentAt": "2026-10-28T03:49:17.687Z"
   }
 }
