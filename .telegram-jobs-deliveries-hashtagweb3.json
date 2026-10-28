@@ -5040,5 +5040,101 @@
     "slotKey": "2026-10-27:evening",
     "messageId": 155954,
     "sentAt": "2026-10-27T19:34:02.648Z"
+  },
+  "788924a9-4991-4e4d-af20-663e32dfce3d": {
+    "status": "reserved",
+    "reservedAt": "2026-10-28T03:43:58.345Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "7766a226-be08-4d46-abe9-822449731186",
+          "title": "Staff Brand Designer - Consumer",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/7766a226-be08-4d46-abe9-822449731186",
+          "date": "2026-10-15T16:20:10.088+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Design",
+          "active": true,
+          "dateVerified": true,
+          "slug": "des8"
+        },
+        "key": "7766a226-be08-4d46-abe9-822449731186",
+        "slug": "des8",
+        "url": "https://hashtagweb3.com/des8?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Staff Brand Designer"
+      },
+      {
+        "snapshot": {
+          "id": "8015999003",
+          "title": "Product Manager / Director, Trading API",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8015999003",
+          "date": "2026-10-07T13:54:30-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Singapore",
+          "department": "Product Management",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm256"
+        },
+        "key": "8015999003",
+        "slug": "pm256",
+        "url": "https://hashtagweb3.com/pm256?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Product Manager / Director"
+      },
+      {
+        "snapshot": {
+          "id": "8250279",
+          "title": "Manager of Accounts Payable",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8250279?t=gh_src=&gh_jid=8250279",
+          "date": "2026-10-08T12:25:37-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+          "department": "Procurement and Insurance",
+          "active": true,
+          "salary": "$123k – $145k/yr",
+          "dateVerified": true,
+          "slug": "sls247"
+        },
+        "key": "8250279",
+        "slug": "sls247",
+        "url": "https://hashtagweb3.com/sls247?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Manager of Accounts Payable"
+      },
+      {
+        "snapshot": {
+          "id": "4986576101",
+          "title": "Product Marketing Manager",
+          "company": "BVNK",
+          "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/4986576101",
+          "date": "2026-10-06T10:55:04-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BVNK [bvnk]",
+          "location": "London / NYC",
+          "department": "Growth",
+          "active": true,
+          "salary": "$180k – $210k/yr",
+          "dateVerified": true,
+          "slug": "pm240"
+        },
+        "key": "4986576101",
+        "slug": "pm240",
+        "url": "https://hashtagweb3.com/pm240?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BVNK",
+        "title": "Product Marketing Manager"
+      }
+    ],
+    "message": "- Kraken is hiring <a href=\"https://hashtagweb3.com/des8?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Brand Designer - Consumer</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm256?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager / Director, Trading API</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/sls247?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager of Accounts Payable</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/pm240?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Marketing Manager</a>",
+    "slotKey": "2026-10-28:morning"
   }
 }
