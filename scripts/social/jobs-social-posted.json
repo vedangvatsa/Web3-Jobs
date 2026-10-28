@@ -65790,7 +65790,8 @@
       },
       "account": "channel:dev",
       "attemptId": "ce14083c-a5de-457b-9a6a-2174a3067050",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x76224f1415088bf043c1c83c9953e38fa153315d"
     }
   ]
 }
