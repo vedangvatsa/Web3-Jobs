@@ -2485,7 +2485,7 @@
     "sentAt": "2026-10-27T19:36:49.946Z"
   },
   "a1a78856-745a-4481-a015-89dff187dba0": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-28T03:49:41.952Z",
     "stories": [
       {
@@ -2513,6 +2513,8 @@
         "originalTitle": "Tether leads $15 million Series A in AI payments startup Mural"
       }
     ],
-    "slotKey": "2026-10-28:morning"
+    "slotKey": "2026-10-28:morning",
+    "messageId": 65783,
+    "sentAt": "2026-10-28T03:49:48.274Z"
   }
 }

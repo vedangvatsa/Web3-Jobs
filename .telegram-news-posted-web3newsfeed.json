@@ -857,6 +857,9 @@
   "https://hashtagweb3.com/initiareserve?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/starknetresearch?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/secstocks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/emudhra?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/spacextesla?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/tethermural?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2471,6 +2474,12 @@
   "Starknet poll backs layer 1 research with 93.5% of voting power",
   "Three Firms Notify SEC of Tokenized Stock Venue Plans",
   "SEC Names Three Operators Notifying It of Tokenized Stock Venue Plans",
+  "Tech Companies Block Flawed eMudhra Security Certificates",
+  "Tech giants block eMudhra certificates as CertiK warns crypto apps may stay exposed",
+  "Tesla and SpaceX Consider Potential Merger",
+  "Tesla and SpaceX explore merger that would unite 30,221 bitcoin",
+  "Tether invests $15 million in fintech startup Mural",
+  "Tether leads $15 million Series A in AI payments startup Mural",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2857,5 +2866,8 @@
   "fp:29b|asset|aviva|blockchain|class|fund|investor|ledger|liquidity|manager",
   "fp:273m|attacker|bridg|down|drain|drov|exploit|fail|hack|halt",
   "fp:are|back|community|follow|foundation|independent|investigat|layer1|poll|potential",
-  "fp:corp|firm|inform|intent|kepha|llc|nam|notify|okxic|operat"
+  "fp:corp|firm|inform|intent|kepha|llc|nam|notify|okxic|operat",
+  "fp:app|application|block|browser|certificat|certik|eight|emudhra|expos|flaw",
+  "fp:221|are|combin|consider|consolidat|evaluat|explor|merger|of30|potential",
+  "fp:15m|28m|agent|develop|fintech|fund|invest|lead|mural|payment"
 ]
