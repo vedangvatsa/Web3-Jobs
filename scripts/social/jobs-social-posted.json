@@ -70108,7 +70108,8 @@
       },
       "account": "channel:build",
       "attemptId": "c621d63b-3dcc-4cab-9976-edba00b41cf3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xbd95082176f90188ce3a609f85e9e839fbf43357"
     }
   ]
 }
