@@ -94581,7 +94581,31 @@
       "firstSeenAt": "2026-10-27T03:42:12.136Z",
       "attempts": 0,
       "expiresAt": "2026-10-29T12:50:09.000Z",
-      "lastSeenAt": "2026-10-27T03:42:12.136Z"
+      "lastSeenAt": "2026-10-27T03:42:12.136Z",
+      "articleSlug": "phpctf",
+      "draftProgress": {
+        "id": "274cdf337e54ab8ad76f",
+        "day": "2026-10-28",
+        "articleSlug": "phpctf",
+        "note": "Read stealmybitcoin.com (primary), Cybernews and CryptoSlate on the KillaBoi win. Draft written at content/articles/phpctf.md. Hero image still needed; do not mark ready until image is on disk with credits.",
+        "sourceChecks": [
+          {
+            "url": "https://stealmybitcoin.com/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cybernews.com/news/bitcoin-php-security/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cryptoslate.com/bitcoin-hacking-challenge-finally-falls-as-researcher-proves-critical-php-flaw-is-exploitable",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-28T04:52:30.357Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "6b4ac28f4f8a37c99129": {
       "source": "The Block",
