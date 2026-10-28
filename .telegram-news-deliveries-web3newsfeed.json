@@ -2483,5 +2483,36 @@
     "slotKey": "2026-10-27:evening",
     "messageId": 65782,
     "sentAt": "2026-10-27T19:36:49.946Z"
+  },
+  "a1a78856-745a-4481-a015-89dff187dba0": {
+    "status": "reserved",
+    "reservedAt": "2026-10-28T03:49:41.952Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Tech Companies Block Flawed eMudhra Security Certificates",
+        "summary": "Major browsers removed eight eMudhra certificates, leaving some crypto applications vulnerable to potential security risks.",
+        "link": "https://hashtagweb3.com/emudhra?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Tech giants block eMudhra certificates as CertiK warns crypto apps may stay exposed"
+      },
+      {
+        "index": -1,
+        "headline": "Tesla and SpaceX Consider Potential Merger",
+        "summary": "The companies are evaluating a merger that would consolidate their combined holdings of 30,221 bitcoin.",
+        "link": "https://hashtagweb3.com/spacextesla?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Tesla and SpaceX explore merger that would unite 30,221 bitcoin"
+      },
+      {
+        "index": -1,
+        "headline": "Tether invests $15 million in fintech startup Mural",
+        "summary": "Mural raised $15 million to develop payment systems for AI agents, reaching $28 million in total funding.",
+        "link": "https://hashtagweb3.com/tethermural?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Tether leads $15 million Series A in AI payments startup Mural"
+      }
+    ],
+    "slotKey": "2026-10-28:morning"
   }
 }
