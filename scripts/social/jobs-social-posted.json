@@ -69821,7 +69821,8 @@
         "description": "Join Block as Head of Workforce Optimization. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "872e309c-9e96-43eb-bdae-c1ae2b1e1f11",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3myxitwig7c2p"
     }
   ]
 }
