@@ -5138,5 +5138,121 @@
     "slotKey": "2026-10-28:morning",
     "messageId": 155958,
     "sentAt": "2026-10-28T03:44:04.337Z"
+  },
+  "d2c58a25-a000-4217-82db-537ed5427139": {
+    "status": "reserved",
+    "reservedAt": "2026-10-28T11:50:36.968Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "19f4f542-2eb8-416c-a585-29f6ae28f191",
+          "title": "Public Relations & Communications Manager",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/19f4f542-2eb8-416c-a585-29f6ae28f191",
+          "date": "2026-10-01T13:26:55.543+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (United Kingdom)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr123"
+        },
+        "key": "19f4f542-2eb8-416c-a585-29f6ae28f191",
+        "slug": "mgr123",
+        "url": "https://hashtagweb3.com/mgr123?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Public Relations & Communications Manager"
+      },
+      {
+        "snapshot": {
+          "id": "c37d94b2-0948-4c41-99a1-9021f2b5cc55",
+          "title": "Systematic Trader",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/c37d94b2-0948-4c41-99a1-9021f2b5cc55",
+          "date": "2026-10-05T05:52:24.892Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (London)",
+          "workplaceType": "hybrid",
+          "department": "Trading",
+          "active": true,
+          "dateVerified": true,
+          "slug": "tr72"
+        },
+        "key": "c37d94b2-0948-4c41-99a1-9021f2b5cc55",
+        "slug": "tr72",
+        "url": "https://hashtagweb3.com/tr72?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Systematic Trader"
+      },
+      {
+        "snapshot": {
+          "id": "8014446003",
+          "title": "HR Manager",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8014446003",
+          "date": "2026-10-07T01:50:19-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Sliema, Malta",
+          "department": "Human Resources",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rec30"
+        },
+        "key": "8014446003",
+        "slug": "rec30",
+        "url": "https://hashtagweb3.com/rec30?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "HR Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8238000",
+          "title": "Relationship Manager",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8238000?t=gh_src=&gh_jid=8238000",
+          "date": "2026-10-05T18:18:02-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Clearwater, FL; Westlake, TX",
+          "department": "TradePMR Operations Division",
+          "active": true,
+          "salary": "$85k – $100k/yr",
+          "dateVerified": true,
+          "slug": "mgr164"
+        },
+        "key": "8238000",
+        "slug": "mgr164",
+        "url": "https://hashtagweb3.com/mgr164?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Relationship Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8284970",
+          "title": "Account Executive - Enterprise (Hunter) - Belgium",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8284970",
+          "date": "2026-10-22T08:25:35-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Belgium",
+          "department": "1185 Account Executives (EMEA)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls331"
+        },
+        "key": "8284970",
+        "slug": "sls331",
+        "url": "https://hashtagweb3.com/sls331?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      }
+    ],
+    "message": "- Kraken is hiring <a href=\"https://hashtagweb3.com/mgr123?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Public Relations &amp; Communications Manager</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/tr72?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Systematic Trader</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/rec30?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">HR Manager</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/mgr164?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Relationship Manager</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls331?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive - Enterprise (Hunter) - Belgium</a>",
+    "slotKey": "2026-10-28:afternoon"
   }
 }

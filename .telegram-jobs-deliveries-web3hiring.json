@@ -9415,7 +9415,7 @@
     "sentAt": "2026-10-28T03:43:53.499Z"
   },
   "f6e350f2-24cb-478d-b2f2-bb1e35167c8a": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-28T11:48:51.445Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -9485,6 +9485,8 @@
       }
     ],
     "message": "- Ripple is hiring <a href=\"https://hashtagweb3.com/sls329?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Sales Manager</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/pm305?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Product Sales, Billing (Grower)</a>\n- Aspora is hiring <a href=\"https://hashtagweb3.com/cmp56?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Global Regulatory Compliance Lead</a>",
-    "slotKey": "2026-10-28:afternoon"
+    "slotKey": "2026-10-28:afternoon",
+    "messageId": 16578,
+    "sentAt": "2026-10-28T11:49:00.971Z"
   }
 }
