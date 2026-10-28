@@ -98785,9 +98785,9 @@
         "Bitcoin Magazine"
       ],
       "id": "5a28ead48483efa1e2fc",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-30T13:01:08.000Z",
       "lastSeenAt": "2026-10-28T03:43:47.836Z",
       "articleSlug": "luxorai",
@@ -98813,7 +98813,29 @@
         "updatedAt": "2026-10-28T03:50:04.368Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Rechecked all three sources: Decrypt, Bitcoin Magazine and the PR Newswire primary release all confirm the 16 million dollar round led by CMT Digital with Canaan, MicroBT, Halo, Steelhead and angels, announced Oct 27. Repaired the restored draft: ERCOT/SPP load figures now cite the release (Decrypt only says two grid regions), removed a near-verbatim Decrypt clause attributed to Bitcoin Magazine, matched the PR wording on hashrate and AI compute derivatives disciplines, added unlikely to the VanEck/Bernstein line, and replaced the unsourced closing filler with product-suite facts from the release. Image credit verified on the Wikimedia Commons file page (MikeBogosian, CC BY-SA 4.0); hero is 1440x1080 at 285KB. Quality, formatting, duplicate and image audits clean for this file, tsc clean, all four links return HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitcoinmagazine.com/news/bitcoin-mining-firm-luxor-16-million",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.prnewswire.com/news-releases/luxor-technology-raises-16-million-strategic-round-led-by-cmt-digital-to-scale-ai-compute-trading-and-hardware-302920538.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Argo_Blockchain_Mirabel_Facility.jpg",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-28T04:23:55.974Z",
+      "lastReviewedDay": "2026-10-28"
     },
     "6e03a234b07de452477c": {
       "source": "Cointelegraph",
@@ -178736,6 +178758,31 @@
             }
           ],
           "reviewedAt": "2026-10-28T03:49:14.278Z"
+        },
+        "5a28ead48483efa1e2fc": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Rechecked all three sources: Decrypt, Bitcoin Magazine and the PR Newswire primary release all confirm the 16 million dollar round led by CMT Digital with Canaan, MicroBT, Halo, Steelhead and angels, announced Oct 27. Repaired the restored draft: ERCOT/SPP load figures now cite the release (Decrypt only says two grid regions), removed a near-verbatim Decrypt clause attributed to Bitcoin Magazine, matched the PR wording on hashrate and AI compute derivatives disciplines, added unlikely to the VanEck/Bernstein line, and replaced the unsourced closing filler with product-suite facts from the release. Image credit verified on the Wikimedia Commons file page (MikeBogosian, CC BY-SA 4.0); hero is 1440x1080 at 285KB. Quality, formatting, duplicate and image audits clean for this file, tsc clean, all four links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/bitcoin-mining-firm-luxor-16-million",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.prnewswire.com/news-releases/luxor-technology-raises-16-million-strategic-round-led-by-cmt-digital-to-scale-ai-compute-trading-and-hardware-302920538.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://commons.wikimedia.org/wiki/File:Argo_Blockchain_Mirabel_Facility.jpg",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-28T04:23:55.974Z",
+          "articleSlug": "luxorai"
         }
       },
       "baselineSlugs": [
