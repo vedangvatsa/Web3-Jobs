@@ -67473,7 +67473,8 @@
       },
       "account": "channel:dev",
       "attemptId": "04e044d8-496c-46ae-b770-bdbd730b44d0",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf4acbefe602a7123458f279e2729239b46771f2e"
     }
   ]
 }
