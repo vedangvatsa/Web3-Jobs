@@ -98561,11 +98561,33 @@
       ],
       "alsoCoveredBy": [],
       "id": "d87a107ce85341dce745",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-31T03:16:33.000Z",
-      "lastSeenAt": "2026-10-28T03:43:47.836Z"
+      "lastSeenAt": "2026-10-28T03:43:47.836Z",
+      "reason": "source-blocked",
+      "note": "Read CoinDesk's report and Atlabyte's relay of the Coinbase Support X statement about the Amplitude contact-data incident. The Coinbase Support X post itself serves only a JS shell to curl, and Atlabyte is explicitly based on CoinDesk reporting, so a genuinely independent second report (or Amplitude's own disclosure) is still needed before drafting.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+          "outcome": "read"
+        },
+        {
+          "url": "https://atlabyte.com/en/news/coinbase-says-customer-funds-safe-after-amplitude-incident-exposes-contact-info",
+          "outcome": "read"
+        },
+        {
+          "url": "https://x.com/CoinbaseSupport/status/2115274731310002356",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-28T04:53:04.193Z",
+      "retrySearches": [
+        "Find an independent report on the Coinbase Amplitude customer contact-data incident of Oct 27-28 2026 beyond CoinDesk and its relays, or Amplitude's own incident disclosure"
+      ],
+      "lastReviewedDay": "2026-10-28",
+      "nextReviewDate": "2026-10-29"
     },
     "459c3e64a48c4ba572ef": {
       "source": "Crypto Briefing",
@@ -179267,6 +179289,29 @@
           "reviewedAt": "2026-10-28T04:52:58.636Z",
           "retrySearches": [
             "Find independent readable coverage of the Reuters Oct 27 2026 report that the CFTC is again probing whether Polymarket broke its 2022 settlement, with details on location checks and US advertising"
+          ]
+        },
+        "d87a107ce85341dce745": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read CoinDesk's report and Atlabyte's relay of the Coinbase Support X statement about the Amplitude contact-data incident. The Coinbase Support X post itself serves only a JS shell to curl, and Atlabyte is explicitly based on CoinDesk reporting, so a genuinely independent second report (or Amplitude's own disclosure) is still needed before drafting.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+              "outcome": "read"
+            },
+            {
+              "url": "https://atlabyte.com/en/news/coinbase-says-customer-funds-safe-after-amplitude-incident-exposes-contact-info",
+              "outcome": "read"
+            },
+            {
+              "url": "https://x.com/CoinbaseSupport/status/2115274731310002356",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-28T04:53:04.193Z",
+          "retrySearches": [
+            "Find an independent report on the Coinbase Amplitude customer contact-data incident of Oct 27-28 2026 beyond CoinDesk and its relays, or Amplitude's own incident disclosure"
           ]
         }
       },
