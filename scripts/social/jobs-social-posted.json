@@ -66675,7 +66675,8 @@
       },
       "account": "channel:developers",
       "attemptId": "148a7678-5228-48c5-9cc5-1b37c485d75c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0bdc6731b93d659496c9280dd872ceb7c382153c"
     }
   ]
 }
