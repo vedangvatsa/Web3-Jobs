@@ -98559,11 +98559,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "459c3e64a48c4ba572ef",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-30T23:57:13.000Z",
-      "lastSeenAt": "2026-10-28T03:43:47.836Z"
+      "lastSeenAt": "2026-10-28T03:43:47.836Z",
+      "reason": "out-of-scope",
+      "note": "Gun-confiscation attack ad in the Texas Senate race between Talarico and Paxton. Crypto Briefing published it, but no crypto, blockchain, or digital-asset policy angle appears in the story or campaign coverage; out of scope for a Web3 news site.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/nrsc-accuses-talarico-of-gun-confiscation-in-texas-senate-race/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-28T04:47:33.412Z",
+      "lastReviewedDay": "2026-10-28"
     },
     "f73a1c7235e439f04dff": {
       "source": "Crypto Briefing",
@@ -179056,6 +179066,18 @@
           "retrySearches": [
             "Repair the staged-out nba draft against its original CFTC and NBA.com sources so it passes the 600-word gate, then re-review this Cointelegraph lead as a duplicate"
           ]
+        },
+        "459c3e64a48c4ba572ef": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Gun-confiscation attack ad in the Texas Senate race between Talarico and Paxton. Crypto Briefing published it, but no crypto, blockchain, or digital-asset policy angle appears in the story or campaign coverage; out of scope for a Web3 news site.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/nrsc-accuses-talarico-of-gun-confiscation-in-texas-senate-race/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-28T04:47:33.412Z"
         }
       },
       "baselineSlugs": [
