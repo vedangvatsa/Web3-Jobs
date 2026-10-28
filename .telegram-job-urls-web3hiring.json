@@ -1328,6 +1328,14 @@
     "lastUrl": "https://hashtagweb3.com/tr68",
     "updatedAt": "2026-10-15T12:06:48.238Z"
   },
+  "8279867": {
+    "slugs": [
+      "mgr200"
+    ],
+    "lastSlug": "mgr200",
+    "lastUrl": "https://hashtagweb3.com/mgr200",
+    "updatedAt": "2026-10-28T19:37:52.544Z"
+  },
   "8289847": {
     "slugs": [
       "pm40"
@@ -5793,5 +5801,37 @@
     "lastSlug": "cmp56",
     "lastUrl": "https://hashtagweb3.com/cmp56",
     "updatedAt": "2026-10-28T11:49:00.971Z"
+  },
+  "1c8e2b03-fcb3-4949-9113-07812f138eb6": {
+    "slugs": [
+      "an68"
+    ],
+    "lastSlug": "an68",
+    "lastUrl": "https://hashtagweb3.com/an68",
+    "updatedAt": "2026-10-28T19:37:52.544Z"
+  },
+  "8026446003": {
+    "slugs": [
+      "pm290"
+    ],
+    "lastSlug": "pm290",
+    "lastUrl": "https://hashtagweb3.com/pm290",
+    "updatedAt": "2026-10-28T19:37:52.544Z"
+  },
+  "4989839101": {
+    "slugs": [
+      "cmp70"
+    ],
+    "lastSlug": "cmp70",
+    "lastUrl": "https://hashtagweb3.com/cmp70",
+    "updatedAt": "2026-10-28T19:37:52.544Z"
+  },
+  "4740719005": {
+    "slugs": [
+      "cmp116"
+    ],
+    "lastSlug": "cmp116",
+    "lastUrl": "https://hashtagweb3.com/cmp116",
+    "updatedAt": "2026-10-28T19:37:52.544Z"
   }
 }
