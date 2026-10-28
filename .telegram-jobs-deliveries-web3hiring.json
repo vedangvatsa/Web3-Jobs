@@ -9338,5 +9338,78 @@
     "slotKey": "2026-10-28:morning",
     "messageId": 16577,
     "sentAt": "2026-10-28T03:43:48.400Z"
+  },
+  "096defc4-137d-454b-a224-de5b97d46428": {
+    "status": "reserved",
+    "reservedAt": "2026-10-28T03:43:50.548Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8020087003",
+          "title": "Senior Quality Assurance Engineer",
+          "company": "DriveWealth",
+          "link": "https://boards.greenhouse.io/drivewealth/jobs/8020087003?gh_jid=8020087003",
+          "date": "2026-10-09T17:39:07-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DriveWealth [drivewealth]",
+          "location": "Office - Hyderabad, India",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "qa91"
+        },
+        "key": "8020087003",
+        "slug": "qa91",
+        "url": "https://hashtagweb3.com/qa91?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DriveWealth",
+        "title": "Senior Quality Assurance Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "7f41cc90-9bf1-49a8-9285-3838033e627d",
+          "title": "Applied Research - Scientific AI",
+          "company": "Prime Intellect",
+          "link": "https://jobs.ashbyhq.com/primeintellect/7f41cc90-9bf1-49a8-9285-3838033e627d",
+          "date": "2026-10-19T16:30:05.734+00:00",
+          "source": "Ashby: Prime Intellect [primeintellect]",
+          "location": "San Francisco",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Applied Research",
+          "active": true,
+          "dateVerified": true,
+          "slug": "arsa2"
+        },
+        "key": "7f41cc90-9bf1-49a8-9285-3838033e627d",
+        "slug": "arsa2",
+        "url": "https://hashtagweb3.com/arsa2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Prime Intellect",
+        "title": "Applied Research"
+      },
+      {
+        "snapshot": {
+          "id": "56065276-69e8-490f-8d66-115a943fa652",
+          "title": "AI Engineer, Trading Ops & Management",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/56065276-69e8-490f-8d66-115a943fa652",
+          "date": "2026-10-09T09:05:48.696Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (London)",
+          "workplaceType": "hybrid",
+          "department": "Trading",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng484"
+        },
+        "key": "56065276-69e8-490f-8d66-115a943fa652",
+        "slug": "eng484",
+        "url": "https://hashtagweb3.com/eng484?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "AI Engineer"
+      }
+    ],
+    "message": "- DriveWealth is hiring <a href=\"https://hashtagweb3.com/qa91?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Quality Assurance Engineer</a>\n- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/arsa2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Applied Research - Scientific AI</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/eng484?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Engineer, Trading Ops &amp; Management</a>",
+    "slotKey": "2026-10-28:morning"
   }
 }
