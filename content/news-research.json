@@ -94238,22 +94238,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "bc9aa117b178c07b3b57",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-27T03:42:12.136Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-29T20:36:03.000Z",
       "lastSeenAt": "2026-10-27T03:42:12.136Z",
-      "reason": "duplicate",
-      "note": "Decrypt covers the same NBA-CFTC MOU and preferred exchanges, with NFL court fight context already in nba.",
+      "reason": "quality-gate",
+      "note": "Both sources are readable and cover the same NBA-CFTC MOU story, but the nba article draft was staged out after failing the word-count gate and no longer exists to anchor a duplicate rejection. Repair or redraft the NBA-CFTC story first, then re-review this lead as a duplicate of the restored article.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
           "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-27T04:05:59.552Z",
+      "reviewedAt": "2026-10-28T04:38:06.862Z",
       "duplicateOf": "nba",
-      "lastReviewedDay": "2026-10-27"
+      "lastReviewedDay": "2026-10-28",
+      "retrySearches": [
+        "Repair the staged-out nba draft against its original CFTC and NBA.com sources so it passes the 600-word gate, then re-review this Decrypt lead as a duplicate"
+      ],
+      "nextReviewDate": "2026-10-29"
     },
     "eb76ce9ae126eb7320ce": {
       "source": "Cointelegraph",
@@ -98399,11 +98407,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "d518256aac67a7d88803",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-30T08:04:21.000Z",
-      "lastSeenAt": "2026-10-28T03:43:47.836Z"
+      "lastSeenAt": "2026-10-28T03:43:47.836Z",
+      "reason": "duplicate",
+      "note": "Cointelegraph covers the same Binance BBrasil license filing and Brazil product cuts already reported in the binancebr article; same Oct. 23 application, Oct. 30 deadline and Sarandy statement.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-28T04:37:12.397Z",
+      "duplicateOf": "binancebr",
+      "mergedInto": "943f914fefd5461cb001",
+      "lastReviewedDay": "2026-10-28"
     },
     "479f90eb381578d5c19f": {
       "source": "CoinDesk",
@@ -178949,6 +178969,39 @@
           "reviewedAt": "2026-10-28T04:37:10.345Z",
           "duplicateOf": "vaneckbuilder",
           "mergedInto": "34a7c4b938b3427e298c"
+        },
+        "d518256aac67a7d88803": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Cointelegraph covers the same Binance BBrasil license filing and Brazil product cuts already reported in the binancebr article; same Oct. 23 application, Oct. 30 deadline and Sarandy statement.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-28T04:37:12.397Z",
+          "duplicateOf": "binancebr",
+          "mergedInto": "943f914fefd5461cb001"
+        },
+        "bc9aa117b178c07b3b57": {
+          "status": "deferred",
+          "reason": "quality-gate",
+          "note": "Both sources are readable and cover the same NBA-CFTC MOU story, but the nba article draft was staged out after failing the word-count gate and no longer exists to anchor a duplicate rejection. Repair or redraft the NBA-CFTC story first, then re-review this lead as a duplicate of the restored article.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-28T04:38:06.862Z",
+          "retrySearches": [
+            "Repair the staged-out nba draft against its original CFTC and NBA.com sources so it passes the 600-word gate, then re-review this Decrypt lead as a duplicate"
+          ]
         }
       },
       "baselineSlugs": [
