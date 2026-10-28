@@ -67198,8 +67198,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "e8789e71-9a32-4573-8a2e-e7821066ee65",
-      "verification": "pending",
-      "postId": "6ae1e13dd47ee8ef2fb52ed2"
+      "verification": "verified",
+      "postId": "6ae1e13dd47ee8ef2fb52ed2",
+      "permalink": "https://twitter.com/hashtag_web3/status/2115410571164062115"
     }
   ]
 }
