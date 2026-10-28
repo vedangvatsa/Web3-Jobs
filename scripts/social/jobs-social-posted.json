@@ -68690,7 +68690,8 @@
       },
       "account": "channel:growth",
       "attemptId": "35442325-ae98-420e-8ac8-b73fb0ed4b21",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4e347d3f3764268fa600edf7aa469ce013645a78"
     }
   ]
 }
