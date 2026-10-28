@@ -69057,7 +69057,8 @@
       },
       "account": "channel:web3",
       "attemptId": "aff2a1f8-104f-4dac-88ad-03ebcf7a24bb",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8185258a5ea63635a8203bf669bf1ae74898a5cd"
     }
   ]
 }
