@@ -67753,7 +67753,8 @@
       },
       "account": "channel:product",
       "attemptId": "0de28f06-61f5-405c-9cfa-15baaf5d677b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7111043b7a81ecaa4ff21ea3c192b3848db6244c"
     }
   ]
 }
