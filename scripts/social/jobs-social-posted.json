@@ -65610,7 +65610,8 @@
       },
       "account": "profile",
       "attemptId": "707d863c-339a-4a96-af17-c73e97df50de",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x13d7d1a4e978fc7896d3758adcfc31d497e8aa01"
     }
   ]
 }
