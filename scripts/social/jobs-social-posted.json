@@ -70144,7 +70144,8 @@
       },
       "account": "channel:founders",
       "attemptId": "bd39212d-46b5-4403-a1be-19e8556f3483",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x57df9f81851931731d18cd700d417d717ed50c1a"
     }
   ]
 }
