@@ -70517,8 +70517,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "70bf301f-8cdd-4b25-8e9b-a7840dee810b",
-      "verification": "pending",
-      "postId": "6ae24fb1317f77fea415b6dc"
+      "verification": "verified",
+      "postId": "6ae24fb1317f77fea415b6dc",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7521294947954851840"
     }
   ]
 }
