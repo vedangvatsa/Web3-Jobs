@@ -148,6 +148,26 @@
         "rolloutId": "daily-20261028-40628179589-1",
         "buildState": "FAILED",
         "observedAt": "2026-10-28T05:31:30.858Z"
+      },
+      {
+        "date": "2026-10-28",
+        "id": "40668391378-1",
+        "sourceCommit": "a08be41b1518e779c2f7ce21f283ee80d2cfae0b",
+        "jobsCheckedAt": "2026-10-28T03:50:06.305Z",
+        "newsCompletedAt": "2026-10-28T05:10:25.001Z",
+        "articleSlugs": [
+          "nba",
+          "vaneckbuilder",
+          "binancebr",
+          "depositbug",
+          "cftcutah",
+          "luxorai",
+          "zcgstream"
+        ],
+        "phase": "building",
+        "startedAt": "2026-10-28T09:59:39.892Z",
+        "buildId": "daily-20261028-40668391378-1",
+        "rolloutId": "daily-20261028-40668391378-1"
       }
     ]
   }
