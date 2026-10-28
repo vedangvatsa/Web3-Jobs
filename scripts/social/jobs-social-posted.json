@@ -65826,7 +65826,8 @@
       },
       "account": "channel:developers",
       "attemptId": "ae34fb23-5e0a-4f2a-a298-fa999ba2e523",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa80d7acf069c0b780d537c3595ba879d21319ba6"
     }
   ]
 }
