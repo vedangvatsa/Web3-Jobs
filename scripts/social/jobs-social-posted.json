@@ -67951,6 +67951,34 @@
       "attemptId": "6fecc2d0-19ab-4402-9ad9-592b26b8f781",
       "verification": "creating",
       "error": "Employer application unverified: The operation was aborted due to timeout"
+    },
+    {
+      "slug": "pm85",
+      "company": "Merkle Science",
+      "title": "Product Marketing Manager (London)",
+      "platform": "facebook",
+      "postedAt": "2026-10-28T11:49:11.071Z",
+      "expectedText": "Merkle Science is hiring Product Marketing Manager (London): https://hashtagweb3.com/pm85/fb?og=7",
+      "snapshot": {
+        "id": "d7139ad8-a40d-4537-a563-8684e5e45fea",
+        "title": "Product Marketing Manager (London)",
+        "company": "Merkle Science",
+        "link": "https://jobs.lever.co/merklescience/d7139ad8-a40d-4537-a563-8684e5e45fea",
+        "date": "2026-09-30T12:03:01.958Z",
+        "source": "Lever: Merkle Science [merklescience]",
+        "location": "Hybrid (London)",
+        "workplaceType": "hybrid",
+        "department": "Marketing",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm85"
+      },
+      "payload": {
+        "message": "Merkle Science is hiring Product Marketing Manager (London): https://hashtagweb3.com/pm85/fb?og=7",
+        "link": "https://hashtagweb3.com/pm85/fb?og=7"
+      },
+      "attemptId": "a0995e28-bb08-4e1a-ba17-1c7fa9cc9ed6",
+      "verification": "creating"
     }
   ]
 }
