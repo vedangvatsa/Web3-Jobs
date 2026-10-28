@@ -65,9 +65,42 @@ function withUtm(url, params) {
   return url + (url.includes('?') ? '&' : '?') + qs;
 }
 
+function createCachedRequest(ttlMs = 120000) {
+  const cache = new Map();
+  return async function cachedRequest(url, init) {
+    const key = `${init?.method || 'GET'}:${url}`;
+    const cached = cache.get(key);
+    if (cached && Date.now() - cached.timestamp < ttlMs) {
+      return new Response(cached.body, {
+        status: cached.status,
+        statusText: cached.statusText,
+        headers: cached.headers,
+      });
+    }
+    const res = await fetch(url, init);
+    const headers = new Headers(res.headers);
+    let body = null;
+    if (res.status === 200) {
+      body = await res.arrayBuffer();
+    }
+    cache.set(key, {
+      status: res.status,
+      statusText: res.statusText,
+      headers,
+      body,
+      timestamp: Date.now(),
+    });
+    return new Response(body, {
+      status: res.status,
+      statusText: res.statusText,
+      headers,
+    });
+  };
+}
+
 // ── Pick random jobs ──
-async function pickJobs(count) {
-  const jobs = await loadPublishedJobs();
+async function pickJobs(count, { request = createCachedRequest() } = {}) {
+  const jobs = await loadPublishedJobs(request);
 
   const posted = loadPosted();
   
@@ -77,46 +110,50 @@ async function pickJobs(count) {
   // Shuffle
   const shuffled = available.sort(() => Math.random() - 0.5);
   
-  // 1 per company
-  const selected = [];
+  // 1 per company, verified against employer application
+  const results = [];
   const usedCompanies = new Set();
   
   for (const j of shuffled) {
-    if (selected.length >= count) break;
+    if (results.length >= count) break;
     const company = (j.company || '').trim();
     const title = (j.title || '').trim();
     const link = (j.link || '').trim();
 
     // Skip incomplete or invalid jobs missing title, company, or link
-    if (!company || !title || !link) continue;
+    if (!j.slug || !company || !title || !link) continue;
     if (isGeneralOrPlaceholderJobTitle(title)) continue;
     if (isUnrelatedOrNonWeb3JobTitle(title)) continue;
     if (isInvalidJobLink(link)) continue;
 
     if (usedCompanies.has(company.toLowerCase())) continue;
-    usedCompanies.add(company.toLowerCase());
-    selected.push(j);
-  }
-  
-  // Shuffle final order
-  selected.sort(() => Math.random() - 0.5);
 
-  const results = [];
-  for (const j of selected) {
-    if (!j.slug) continue;
-    try { await verifyEmployerApplication(j); }
-    catch (error) { console.warn(`Skipped ${j.slug}: ${error.message}`); continue; }
-    const chosenUrl = withUtm(`https://hashtagweb3.com/${j.slug}`, { utm_source: 'telegram', utm_medium: 'social', utm_campaign: 'web3hiring' });
+    try {
+      await verifyEmployerApplication(j, { request });
+    } catch (error) {
+      console.warn(`Skipped ${j.slug}: ${error.message}`);
+      continue;
+    }
+
+    usedCompanies.add(company.toLowerCase());
+    const chosenUrl = withUtm(`https://hashtagweb3.com/${j.slug}`, {
+      utm_source: 'telegram',
+      utm_medium: 'social',
+      utm_campaign: 'web3hiring',
+    });
 
     results.push({
       snapshot: j,
       key: String(j.id || j.link),
       slug: j.slug,
       url: chosenUrl,
-      company: fixCompanyName((j.company || '').trim()),
-      title: truncateTitle((j.title || '').trim()),
+      company: fixCompanyName(company),
+      title: truncateTitle(title),
     });
   }
+
+  // Shuffle final order
+  results.sort(() => Math.random() - 0.5);
 
   return results;
 }
@@ -291,10 +328,12 @@ async function postOnce() {
     }
   }
 
-  const jobs = retry ? retry.jobs : await pickJobs(JOBS_PER_POST);
+  const request = createCachedRequest();
+  const preflight = (batch, text) => verifyJobsDigest(batch, text, { request });
+  const jobs = retry ? retry.jobs : await pickJobs(JOBS_PER_POST, { request });
   if (!jobs.length) { console.log('No unposted jobs available; skipping.'); return; }
   const message = retry ? retry.message : formatJobsMessage(jobs);
-  await verifyJobsDigest(jobs, message);
+  await preflight(jobs, message);
   
   if (process.argv.includes('--dry-run')) {
     // Write to file if --output-file specified (for CI)
@@ -310,7 +349,7 @@ async function postOnce() {
   }
   
   console.log(`📢 Destinations: ${CHANNEL_IDS.join(', ')}`);
-  await deliverJobsOnce({ jobs, message, chatIds: CHANNEL_IDS, postedFile: POSTED_LOG, lastFile: LAST_POST_FILE, urlFile: URL_LOG, ledgerFile: LEDGER_FILE, slot,
+  await deliverJobsOnce({ jobs, message, chatIds: CHANNEL_IDS, postedFile: POSTED_LOG, lastFile: LAST_POST_FILE, urlFile: URL_LOG, ledgerFile: LEDGER_FILE, slot, preflight,
     send: (chat, text) => sendToTelegramChat(chat, text, { threadId: chat === CHANNEL_ID ? THREAD_ID : undefined }) });
 }
 
