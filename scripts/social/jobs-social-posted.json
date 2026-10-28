@@ -68692,6 +68692,47 @@
       "attemptId": "35442325-ae98-420e-8ac8-b73fb0ed4b21",
       "verification": "verified",
       "postId": "0x4e347d3f3764268fa600edf7aa469ce013645a78"
+    },
+    {
+      "slug": "idds",
+      "company": "Lightspark",
+      "title": "Institutional Due Diligence Specialist, EU",
+      "platform": "linkedin",
+      "postedAt": "2026-10-28T11:54:48.115Z",
+      "expectedText": "Lightspark is hiring Institutional Due Diligence Specialist, EU: https://hashtagweb3.com/idds/li?og=7",
+      "snapshot": {
+        "id": "352cdac4-5d11-4bae-8ce4-8e27ad722d54",
+        "title": "Institutional Due Diligence Specialist, EU",
+        "company": "Lightspark",
+        "link": "https://jobs.ashbyhq.com/lightspark/352cdac4-5d11-4bae-8ce4-8e27ad722d54",
+        "date": "2026-09-29T18:03:27.747+00:00",
+        "source": "Ashby: Lightspark [lightspark]",
+        "location": "Estonia",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Legal & Compliance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "idds"
+      },
+      "payload": {
+        "text": "Lightspark is hiring Institutional Due Diligence Specialist, EU: https://hashtagweb3.com/idds/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/idds/li?og=7",
+          "title": "Institutional Due Diligence Specialist, EU at Lightspark",
+          "description": "Join Lightspark as Institutional Due Diligence Specia. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/idds.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "5a2c93bc-b7b6-4673-ae33-c044e6b9f984",
+      "verification": "creating"
     }
   ]
 }
