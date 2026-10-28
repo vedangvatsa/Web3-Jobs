@@ -94431,13 +94431,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "e91ee4d04884eedb048b",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-27T03:42:12.136Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-29T15:59:55.000Z",
       "lastSeenAt": "2026-10-27T03:42:12.136Z",
-      "reason": "quality-gate",
-      "note": "Actual article audits still failed after bounded repair attempts: nba.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
+      "reason": "verified-event",
+      "note": "Rewrote nba.md from scratch after draft file loss; verified all four sources again (CFTC release 9314-26, NBA.com announcement, Decrypt, CoinDesk). Draft is 745 words, image self-hosted from Wikimedia CC0 with credit.",
       "sourceChecks": [
         {
           "url": "https://www.cftc.gov/PressRoom/PressReleases/9314-26",
@@ -94456,13 +94456,12 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-27T05:28:45.748Z",
+      "reviewedAt": "2026-10-28T04:51:10.594Z",
       "articleSlug": "nba",
-      "lastReviewedDay": "2026-10-27",
+      "lastReviewedDay": "2026-10-28",
       "retrySearches": [
         "Repair and revalidate the preserved nba draft against its original sources: nba.md: under 600 words"
       ],
-      "nextReviewDate": "2026-10-28",
       "qualityIsolation": {
         "previousReview": {
           "status": "ready",
@@ -179078,6 +179077,31 @@
             }
           ],
           "reviewedAt": "2026-10-28T04:47:33.412Z"
+        },
+        "e91ee4d04884eedb048b": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Rewrote nba.md from scratch after draft file loss; verified all four sources again (CFTC release 9314-26, NBA.com announcement, Decrypt, CoinDesk). Draft is 745 words, image self-hosted from Wikimedia CC0 with credit.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/9314-26",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.nba.com/news/nba-establishes-integrity-framework-and-commercial-partnerships-for-prediction-markets",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-28T04:51:10.594Z",
+          "articleSlug": "nba"
         }
       },
       "baselineSlugs": [
