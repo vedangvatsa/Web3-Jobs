@@ -94493,6 +94493,33 @@
           "nba.md: under 600 words"
         ],
         "isolatedAt": "2026-10-27T05:28:45.749Z"
+      },
+      "draftProgress": {
+        "id": "e91ee4d04884eedb048b",
+        "day": "2026-10-28",
+        "articleSlug": "nba",
+        "note": "Rewriting nba draft from scratch after file loss; rechecking all four sources.",
+        "sourceChecks": [
+          {
+            "url": "https://www.cftc.gov/PressRoom/PressReleases/9314-26",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.nba.com/news/nba-establishes-integrity-framework-and-commercial-partnerships-for-prediction-markets",
+            "outcome": "read"
+          },
+          {
+            "url": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-28T04:40:47.003Z",
+        "approved": false,
+        "mustReview": true
       }
     },
     "2320b21b8a41ee57b9ef": {
