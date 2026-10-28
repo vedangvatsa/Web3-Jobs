@@ -186,10 +186,12 @@
           "luxorai",
           "zcgstream"
         ],
-        "phase": "building",
+        "phase": "build-failed",
         "startedAt": "2026-10-28T11:48:30.470Z",
         "buildId": "daily-20261028-40682241170-1",
-        "rolloutId": "daily-20261028-40682241170-1"
+        "rolloutId": "daily-20261028-40682241170-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-10-28T12:06:44.106Z"
       }
     ]
   }
