@@ -2549,5 +2549,36 @@
     "slotKey": "2026-10-28:afternoon",
     "messageId": 65784,
     "sentAt": "2026-10-28T11:52:22.755Z"
+  },
+  "67200951-a6bf-4888-8f56-cfd9a9b87dd0": {
+    "status": "reserved",
+    "reservedAt": "2026-10-28T19:40:35.117Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Drift exploiters move $61 million in ETH to Tornado Cash",
+        "summary": "Attackers from the April Drift protocol hack transferred 25,700 ETH and retain $198 million in stolen assets.",
+        "link": "https://hashtagweb3.com/driftrancho?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Drift exploit wallets push $61 million in ETH to Tornado Cash"
+      },
+      {
+        "index": -1,
+        "headline": "Qubic Restarts Mainnet Following $14 Million Exploit",
+        "summary": "The network resumed operations on October 19 and began processing recovery claims for affected users.",
+        "link": "https://hashtagweb3.com/qubicreclaim?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Qubic restarts mainnet and opens claims after $14 million drain"
+      },
+      {
+        "index": -1,
+        "headline": "Mastercard launches fraud detection tool for stablecoin payments",
+        "summary": "The new API screens stablecoin transactions for fraud and sanctions compliance before funds are settled.",
+        "link": "https://hashtagweb3.com/mastercardrisk?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Mastercard scores stablecoin payments for fraud before they settle"
+      }
+    ],
+    "slotKey": "2026-10-28:evening"
   }
 }
