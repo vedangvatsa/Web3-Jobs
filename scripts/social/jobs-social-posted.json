@@ -70360,7 +70360,8 @@
       },
       "account": "channel:product",
       "attemptId": "d8122d46-d60d-4cda-bb5d-87505bd2502d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x55bc6ac03a32e9ca8f2216c4269f6db7de87fe0b"
     }
   ]
 }
