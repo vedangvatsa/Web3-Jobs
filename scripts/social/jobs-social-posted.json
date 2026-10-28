@@ -69753,7 +69753,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "9e43b27d-c9d4-4c8f-a69f-3c9959d130bd",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae24efcd6189ae98ff6e5cf"
     }
   ]
 }
