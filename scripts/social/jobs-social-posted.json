@@ -66228,8 +66228,9 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "b6e3eda7-c749-4ec0-a9da-45f7b6f9063b",
-      "verification": "pending",
-      "postId": "6ae170103d4d083d91247ed0"
+      "verification": "verified",
+      "postId": "6ae170103d4d083d91247ed0",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7521054830220578816"
     }
   ]
 }
