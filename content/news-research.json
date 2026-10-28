@@ -98271,11 +98271,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "797b70f755be1b837304",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-30T19:18:06.000Z",
-      "lastSeenAt": "2026-10-28T03:43:47.836Z"
+      "lastSeenAt": "2026-10-28T03:43:47.836Z",
+      "reason": "duplicate",
+      "note": "Bitcoin Magazine covers the same VanEck Wealth Builder ETF (WBMO) launch as Cointelegraph; same product, ticker, allocation and fee details already reported in the vaneckbuilder article.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/vaneck-builder-etf-with-bitcoin-exposure",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-28T04:37:10.345Z",
+      "duplicateOf": "vaneckbuilder",
+      "mergedInto": "34a7c4b938b3427e298c",
+      "lastReviewedDay": "2026-10-28"
     },
     "be7b7c2c9f808b839161": {
       "source": "The Block",
@@ -178923,6 +178935,20 @@
           ],
           "reviewedAt": "2026-10-28T04:36:58.933Z",
           "articleSlug": "depositbug"
+        },
+        "797b70f755be1b837304": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Bitcoin Magazine covers the same VanEck Wealth Builder ETF (WBMO) launch as Cointelegraph; same product, ticker, allocation and fee details already reported in the vaneckbuilder article.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/vaneck-builder-etf-with-bitcoin-exposure",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-28T04:37:10.345Z",
+          "duplicateOf": "vaneckbuilder",
+          "mergedInto": "34a7c4b938b3427e298c"
         }
       },
       "baselineSlugs": [
