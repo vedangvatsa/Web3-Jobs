@@ -69723,6 +69723,37 @@
       "attemptId": "0d554afd-1c00-45c0-a5c0-5b28f6d264fa",
       "verification": "verified",
       "postId": "691827047618629_1128702746403626"
+    },
+    {
+      "slug": "wo",
+      "company": "Block",
+      "title": "Head of Workforce Optimization",
+      "platform": "x",
+      "postedAt": "2026-10-28T19:37:28.535Z",
+      "expectedText": "Block is hiring Head of Workforce Optimization\n\nhttps://hashtagweb3.com/wo/x?og=7",
+      "snapshot": {
+        "id": "5459471008",
+        "title": "Head of Workforce Optimization",
+        "company": "Block",
+        "link": "http://block.xyz/careers/jobs/5459471008?gh_jid=5459471008",
+        "date": "2026-10-22T11:15:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Block [block]",
+        "location": "Bay Area, CA, United States of America",
+        "department": "30122 Risk - Customer Operations - Cash App Foundation",
+        "active": true,
+        "salary": "$217.8k – $326.8k/yr",
+        "dateVerified": true,
+        "slug": "wo"
+      },
+      "payload": {
+        "text": "Block is hiring Head of Workforce Optimization\n\nhttps://hashtagweb3.com/wo/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "9e43b27d-c9d4-4c8f-a69f-3c9959d130bd",
+      "verification": "creating"
     }
   ]
 }
