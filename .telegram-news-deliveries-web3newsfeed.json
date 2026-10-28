@@ -2551,7 +2551,7 @@
     "sentAt": "2026-10-28T11:52:22.755Z"
   },
   "67200951-a6bf-4888-8f56-cfd9a9b87dd0": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-28T19:40:35.117Z",
     "stories": [
       {
@@ -2579,6 +2579,8 @@
         "originalTitle": "Mastercard scores stablecoin payments for fraud before they settle"
       }
     ],
-    "slotKey": "2026-10-28:evening"
+    "slotKey": "2026-10-28:evening",
+    "messageId": 65785,
+    "sentAt": "2026-10-28T19:40:40.989Z"
   }
 }
