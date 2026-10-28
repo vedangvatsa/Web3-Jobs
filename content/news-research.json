@@ -98408,9 +98408,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "479f90eb381578d5c19f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-30T07:09:56.000Z",
       "lastSeenAt": "2026-10-28T03:43:47.836Z",
       "articleSlug": "depositbug",
@@ -98436,7 +98436,25 @@
         "updatedAt": "2026-10-28T03:52:08.985Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the CoinDesk report, crypto.news coverage and merged consensus-specs PR 5736; Oct. 19 rejection, Oct. 23 tests, Oct. 26 merge, avsetsin quote and Hoodi postponement context match across all three sources.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/ethereum-glamsterdam-validator-deposit-bug-fix/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://github.com/ethereum/consensus-specs/pull/5736",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-28T04:36:58.933Z",
+      "lastReviewedDay": "2026-10-28"
     },
     "d87a107ce85341dce745": {
       "source": "The Defiant",
@@ -178884,6 +178902,27 @@
           ],
           "reviewedAt": "2026-10-28T04:36:54.571Z",
           "articleSlug": "binancebr"
+        },
+        "479f90eb381578d5c19f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the CoinDesk report, crypto.news coverage and merged consensus-specs PR 5736; Oct. 19 rejection, Oct. 23 tests, Oct. 26 merge, avsetsin quote and Hoodi postponement context match across all three sources.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/ethereum-glamsterdam-validator-deposit-bug-fix/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://github.com/ethereum/consensus-specs/pull/5736",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-28T04:36:58.933Z",
+          "articleSlug": "depositbug"
         }
       },
       "baselineSlugs": [
