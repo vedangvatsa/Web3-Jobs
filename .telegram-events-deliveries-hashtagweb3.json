@@ -3671,5 +3671,51 @@
     "slotKey": "2026-10-28:morning",
     "messageId": 155959,
     "sentAt": "2026-10-28T03:44:06.292Z"
+  },
+  "6735f863-74c0-41b0-97e1-d879bf084d23": {
+    "status": "reserved",
+    "reservedAt": "2026-10-28T11:48:34.635Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "mu-312669067",
+        "slug": "stockholm-bitcoin-meetup-54",
+        "name": "Stockholm Bitcoin Meetup #54",
+        "startDate": "2026-11-05T17:30:00+01:00",
+        "keys": [
+          "mu-312669067",
+          "page:stockholm-bitcoin-meetup-54:2026-11-05",
+          "url:meetup.com/swedish-bitcoin-meetups/events/312669067:2026-11-05",
+          "event:stockholmbitcoinmeetup54:2026-11-05:stockholm"
+        ]
+      },
+      {
+        "id": "mu-316748938",
+        "slug": "satoshi-radio-meetup-bitcoin-amsterdam",
+        "name": "Satoshi Radio Meetup (Bitcoin Amsterdam)",
+        "startDate": "2026-11-05T18:00:00+01:00",
+        "keys": [
+          "mu-316748938",
+          "page:satoshi-radio-meetup-bitcoin-amsterdam:2026-11-05",
+          "url:meetup.com/satoshi-radio-meetup/events/316748938:2026-11-05",
+          "event:satoshiradiomeetupbitcoinamsterdam:2026-11-05:haarlem"
+        ]
+      },
+      {
+        "id": "discovery-evt-FDr8AjPGzuXH10L",
+        "slug": "bitcoin-games-night",
+        "name": "Bitcoin Games Night",
+        "startDate": "2026-11-06T17:00:00+08:00",
+        "keys": [
+          "discovery-evt-fdr8ajpgzuxh10l",
+          "page:bitcoin-games-night:2026-11-06",
+          "luma:evt-fdr8ajpgzuxh10l",
+          "luma-url:/gs1dx4j4",
+          "event:bitcoingamesnight:2026-11-06:canggu"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-28:afternoon"
   }
 }
