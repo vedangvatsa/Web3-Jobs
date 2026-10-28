@@ -67058,6 +67058,45 @@
       "verification": "verified",
       "postId": "6ae170ee2785e53975d3acda",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7521055759963447296"
+    },
+    {
+      "slug": "eng609",
+      "company": "Riot Platforms",
+      "title": "Senior Engineer, Identity & Access Management (IAM)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-28T03:47:43.152Z",
+      "expectedText": "Riot Platforms is hiring Senior Engineer, Identity & Access Management (IAM): https://hashtagweb3.com/eng609/li?og=7",
+      "snapshot": {
+        "id": "7b9478e4-cb92-4274-929a-661dca9fe855",
+        "title": "Senior Engineer, Identity & Access Management (IAM)",
+        "company": "Riot Platforms",
+        "link": "https://ats.rippling.com/riot-platforms-careers/jobs/7b9478e4-cb92-4274-929a-661dca9fe855",
+        "date": "2026-10-14T20:42:01.826000-07:00",
+        "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+        "location": "Remote (United States)",
+        "department": "Cybersecurity",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng609"
+      },
+      "payload": {
+        "text": "Riot Platforms is hiring Senior Engineer, Identity & Access Management (IAM): https://hashtagweb3.com/eng609/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng609/li?og=7",
+          "title": "Senior Engineer, Identity & Access Management (IAM) at Riot Platforms",
+          "description": "Join Riot Platforms as Senior Engineer, Identity & Access. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng609.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "4c9d18ec-0f78-4c40-bbeb-a5b3c4b13f32",
+      "verification": "creating"
     }
   ]
 }
