@@ -99170,9 +99170,9 @@
         "The Block"
       ],
       "id": "ced9d65ec8e15ed01f94",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-30T06:14:41.000Z",
       "lastSeenAt": "2026-10-28T03:43:47.836Z",
       "articleSlug": "zcgstream",
@@ -99198,7 +99198,25 @@
         "updatedAt": "2026-10-28T03:50:09.781Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the CoinDesk report and re-read the primary draft ZIP on the end-zcg-stream branch; treasury figures (25.3M at ,300 ZEC, 144 ZEC/day, FPF Q1 .53M) match across both sources. The Block URL still returns 403 but two independent sites confirm the proposal.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
+          "outcome": "read"
+        },
+        {
+          "url": "https://github.com/zcash/zips/blob/end-zcg-stream/zips/draft-bowe-end-zcg-stream.md",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-27-zcash-co-founder-proposes-ending-grants-subsidy-citing-125-million-treasury-431847",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-28T04:36:27.382Z",
+      "lastReviewedDay": "2026-10-28"
     },
     "c5f25f68ff30e8b9324d": {
       "source": "CoinDesk",
@@ -178783,6 +178801,27 @@
           ],
           "reviewedAt": "2026-10-28T04:23:55.974Z",
           "articleSlug": "luxorai"
+        },
+        "ced9d65ec8e15ed01f94": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the CoinDesk report and re-read the primary draft ZIP on the end-zcg-stream branch; treasury figures (25.3M at ,300 ZEC, 144 ZEC/day, FPF Q1 .53M) match across both sources. The Block URL still returns 403 but two independent sites confirm the proposal.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
+              "outcome": "read"
+            },
+            {
+              "url": "https://github.com/zcash/zips/blob/end-zcg-stream/zips/draft-bowe-end-zcg-stream.md",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/ecosystems/2026-10-27-zcash-co-founder-proposes-ending-grants-subsidy-citing-125-million-treasury-431847",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-28T04:36:27.382Z",
+          "articleSlug": "zcgstream"
         }
       },
       "baselineSlugs": [
