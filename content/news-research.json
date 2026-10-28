@@ -99088,7 +99088,31 @@
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
       "attempts": 0,
       "expiresAt": "2026-10-30T06:14:41.000Z",
-      "lastSeenAt": "2026-10-28T03:43:47.836Z"
+      "lastSeenAt": "2026-10-28T03:43:47.836Z",
+      "articleSlug": "zcgstream",
+      "draftProgress": {
+        "id": "ced9d65ec8e15ed01f94",
+        "day": "2026-10-28",
+        "articleSlug": "zcgstream",
+        "note": "Read CoinDesk report and the primary draft ZIP on GitHub (end-zcg-stream branch). The Block returned HTTP 403. Draft and image still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
+            "outcome": "read"
+          },
+          {
+            "url": "https://github.com/zcash/zips/blob/end-zcg-stream/zips/draft-bowe-end-zcg-stream.md",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.theblock.co/news/ecosystems/2026-10-27-zcash-co-founder-proposes-ending-grants-subsidy-citing-125-million-treasury-431847",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-10-28T03:50:09.781Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "c5f25f68ff30e8b9324d": {
       "source": "CoinDesk",
