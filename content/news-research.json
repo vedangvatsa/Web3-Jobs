@@ -98675,7 +98675,27 @@
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
       "attempts": 0,
       "expiresAt": "2026-10-30T20:45:58.000Z",
-      "lastSeenAt": "2026-10-28T03:43:47.836Z"
+      "lastSeenAt": "2026-10-28T03:43:47.836Z",
+      "articleSlug": "liquidgap",
+      "draftProgress": {
+        "id": "503bea3f38958dce6a1b",
+        "day": "2026-10-28",
+        "articleSlug": "liquidgap",
+        "note": "Read Crypto Briefing and KuCoin/ChainCatcher on the Oct. 27 test transfer and 600 BTC gap. Draft written at content/articles/liquidgap.md. Hero image still needed (Wikimedia bitcoin photo); do not mark ready until image is downloaded, resized and credited.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptobriefing.com/samson-mow-liquid-600-btc-shortfall/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.kucoin.com/news/flash/liquid-network-reserve-gap-narrows-to-600-btc-after-test-transfer",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-28T04:52:19.815Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "1b466b2ecd15e5bdd185": {
       "source": "The Defiant",
