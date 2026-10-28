@@ -65900,6 +65900,41 @@
       "attemptId": "4a4a6d3d-e128-4aec-8828-ed3acd70de47",
       "verification": "verified",
       "postId": "0x49d9a1d117648f22e22e83d8ecb1748637f8d74b"
+    },
+    {
+      "slug": "sec78",
+      "company": "Augustus",
+      "title": "Security Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-28T03:44:11.105Z",
+      "expectedText": "Augustus is hiring Security Engineer\n\nhttps://hashtagweb3.com/sec78/fc?og=7",
+      "snapshot": {
+        "id": "7fde47f8-af18-4c2e-97f3-b2161d89b230",
+        "title": "Security Engineer",
+        "company": "Augustus",
+        "link": "https://jobs.ashbyhq.com/Augustus/7fde47f8-af18-4c2e-97f3-b2161d89b230",
+        "date": "2026-10-01T09:44:53.704+00:00",
+        "source": "Ashby: Augustus [Augustus]",
+        "location": "Berlin",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sec78"
+      },
+      "payload": {
+        "text": "Augustus is hiring Security Engineer\n\nhttps://hashtagweb3.com/sec78/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sec78/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "d84ae62f-6e52-4d10-ad30-bb34086ab35c",
+      "verification": "creating"
     }
   ]
 }
