@@ -67403,7 +67403,8 @@
       },
       "account": "channel:bounties",
       "attemptId": "9ffc0a5d-af8d-4fa9-ad61-5a785c49588b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x04f77c30206b95322866dfd563facf9c4351fbf1"
     }
   ]
 }
