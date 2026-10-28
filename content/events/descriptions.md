@@ -21,318 +21,6 @@ Octaloop's India Blockchain & AI Tour 2026 is the fifth edition of a national ev
 
 Each city has its own registration route. The main tour page describes the series as a whole rather than a confirmed session program for every stop. Select the relevant city and verify its date, venue and ticket conditions before attending.
 
-<a id="event-d4e964dca12aa7c1"></a>
-
-## The Bridge Summit
-
-- Record: `kbw-bridge-summit-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-28T00:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/80q0842z>
-
-### About the event
-
-The Bridge Summit 2026, 서울에서 여러분을 초대합니다
-
-이번 KBW, 9월 28일은 The Bridge Summit에서 함께하세요.
-
-TV조선 × Bridge34가 공동 주최하고, 글로벌 Web3 벤처캐피털 Hack VC가 Main Partner로 함께하는 The Bridge Summit 2026이 오는 9월 28일, 조선 팰리스 서울에서 개최됩니다.
-
-Bridge34
-
-- Bridge34는 글로벌 Web3 프로젝트와 한국 시장을 연결하는 Web3 전문 액셀러레이터이자 마케팅 파트너로, 커뮤니티-미디어-파트너십을 기반으로 국내 Web3 생태계의 성장을 이끌고 있습니다.
-
-TV조선
-
-- TV조선은 대한민국의 주요 종합편성채널로, 폭넓은 미디어 영향력과 콘텐츠 역량을 바탕으로 Web3와 디지털 자산 산업의 대중화를 연결하는 미디어 기업입니다.
-
-Hack VC
-
-- Hack VC는 Web3 및 블록체인 기술에 집중하는 글로벌 벤처캐피털로, 초기 단계부터 유망한 프로젝트와 창업가에 투자하며 차세대 크립토 생태계의 성장을 지원하고 있습니다.
-
-글로벌 Web3 프로젝트부터 기관, 투자자, 미디어, 그리고 한국 커뮤니티까지.
-
-디지털 자산 - AI - 토큰화 금융의 다음 흐름을 만들어가는 플레이어들이 서울에 모입니다.
-
-다양한 세션과 네트워킹, 프로젝트 부스는 물론, 이번 Summit에 참여하는 한국 커뮤니티를 위해 특별한 혜택도 준비되어 있습니다.
-
-이번 The Bridge Summit은
-
-현장을 직접 경험하고 참여하면서 다양한 리워드까지 받아갈 수 있는 컨퍼런스로 준비됩니다.
-
-━━━━━━━━━━━━━━
-
-총 5,000만원 상당 에어드랍 및 경품
-
-> ① LUCKY DRAW 1등 보상 - 0.1 BTC
-
-> - 조선 팰리스에서 0.1 BTC의 주인공이 탄생합니다.
-
-> 현장에 마련된 부스 미션을 완료한 참가자에게 럭키드로우 참여 기회가 주어집니다.
-
->
-
-> ② 300만원 상당의 토큰 보상
-
-> - 총 3명의 참가자에게 인당 100만원 상당의 토큰 리워드가 제공됩니다.
-
->
-
-> ③ 5만원 상당 리워드 × 300명
-
-> 총 300명의 현장 참가자에게 1인당 5만원 상당의 리워드가 제공됩니다.
-
->
-
-> ④ 현장에서 계속되는 실시간 랜덤 래플
-
-> 행사가 진행되는 동안 커피부터 다양한 기프티콘과 경품들이 쏟아집니다!
-
-> 현장 참가자를 대상으로 다양한 랜덤 래플이 진행 될 예정입니다.
-
->
-
-> 언제 어떤 리워드가 등장할지 모르는 The Bridge Summit !
-
-> 모두 오셔서 함께해주시고,
-
-> 총 5,000만원 상당의 에어드랍과 경품, 최종 0.1 BTC의 주인공에 도전해보세요!
-
->
-
-> The Bridge Summit 관련 자세한 내용 및 최신 소식은 Bridge34 공식 X 채널 (@[Bridge34__](https://x.com/Bridge34__))을 통해 순차적으로 업데이트될 예정입니다.
-
-> ━━━━━━━━━━━━━━
-
->
-
-> 참여 안내
-
->
-
-> - 본 행사는 사전 등록 및 초청을 통해 참석 가능한 행사입니다.
-
-> - 참가 신청 후 별도의 승인 절차가 진행될 수 있으며, 신청만으로 입장이 확정되는 것은 아닙니다.
-
-> - 현장 상황에 따라 입장이 제한될 수 있으며, 등록 정보 확인 후 입장이 진행됩니다.
-
-> - 럭키드로우를 포함한 현장 이벤트는 지정된 부스 미션을 완료한 참가자에 한해 참여 가능합니다.
-
-> - 행사 중 사진 및 영상 촬영이 진행될 수 있으며, 촬영된 자료는 추후 행사 기록 및 홍보 목적으로 활용될 수 있습니다.
-
-> - 에어드랍 및 경품의 세부 구성과 참여 조건은 현장 상황에 따라 달라질 수 있으며, 자세한 내용은 행사 현장에서 안내됩니다.
-
-> - 이벤트를 통해 지급되는 에어드랍, 경품 및 기타 리워드에 대한 제세공과금이 발생하는 경우 당첨자 본인 부담입니다.
-
-> - 제세공과금 납부 및 경품 지급을 위해 당첨자에게 필요한 개인정보 및 증빙자료 제출을 요청할 수 있습니다.
-
-> - 관련 정보 또는 서류를 제출하지 않거나 제세공과금 납부가 완료되지 않을 경우 경품 지급이 제한되거나 당첨이 취소될 수 있습니다.
-
-> - 경품 및 리워드의 실제 지급 방식과 일정은 당첨자에게 별도로 안내될 예정입니다.
-
-> - The Bridge Summit 현장에서 당첨되는 대부분의 이벤트 보상 및 경품은 Eventree를 통해 지급될 예정이므로 행사 참여 전 반드시 가입을 완료해 주시기 바랍니다.
-
-> ━━━━━━━━━━━━━━━━━━━━━━━━━
-
->
-
-> The Bridge Summit 2026 Invites You to Seoul
-
->
-
-> This KBW, join us at The Bridge Summit on September 28.
-
->
-
-> Co-hosted by TV CHOSUN × Bridge34, with global Web3 venture capital firm Hack VC joining as the Main Partner, The Bridge Summit 2026 will take place on September 28 at Josun Palace Seoul.
-
->
-
-> Bridge34
-
-> - Bridge34 is a Web3 accelerator and marketing partner connecting global Web3 projects with the Korean market, driving the growth of Korea's Web3 ecosystem through community, media, and partnerships.
-
->
-
-> TV CHOSUN
-
-> - TV CHOSUN is one of South Korea's leading general programming networks, leveraging its broad media reach and content expertise to help bridge Web3 and the digital asset industry with a wider audience.
-
->
-
-> Hack VC
-
-> - Hack VC is a global venture capital firm focused on Web3 and blockchain technology, investing in promising projects and founders from the early stages and supporting the growth of the next generation of the crypto ecosystem.
-
->
-
-> From global Web3 projects to institutions, investors, media, and the Korean community,
-
-> the players shaping the next wave of digital assets, AI, and tokenized finance are coming together in Seoul.
-
->
-
-> Alongside a variety of sessions, networking opportunities, and project booths, we have also prepared special benefits for the Korean community joining this Summit.
-
->
-
-> The Bridge Summit is designed to be more than just a conference - experience the event firsthand, participate on-site, and unlock a variety of rewards along the way.
-
->
-
-> ━━━━━━━━━━━━━━
-
->
-
-> KRW 50 Million Worth of Airdrops & Prizes
-
-> ① LUCKY DRAW 1st Prize - 0.1 BTC
-
-> - One lucky winner will walk away from Josun Palace with 0.1 BTC.
-
-> Participants who complete the designated booth missions on-site will receive a chance to enter the Lucky Draw.
-
->
-
-> ② KRW 3 Million Worth of Token Rewards
-
-> - A total of three participants will each receive token rewards worth KRW 1 million.
-
->
-
-> ③ KRW 50,000 Rewards × 300 Participants
-
-> A total of 300 on-site participants will each receive rewards worth KRW 50,000.
-
->
-
-> ④ Live Random Raffles Throughout the Event
-
-> From coffee to various gift vouchers and prizes, rewards will keep coming throughout the event!
-
-> A variety of random raffles will be held for on-site participants.
-
->
-
-> You never know when or what reward might drop at The Bridge Summit!
-
-> Join us and take your shot at KRW 50 million worth of airdrops and prizes - including the ultimate 0.1 BTC prize!
-
->
-
-> More details and the latest updates on The Bridge Summit will be shared through Bridge34's official X account (@[Bridge34__](https://x.com/Bridge34__)).
-
->
-
-> ━━━━━━━━━━━━━━
-
->
-
-> Participation Guidelines
-
->
-
-> - This event is open to participants through pre-registration and invitation.
-
->
-
-> - A separate approval process may take place after registration, and submitting an application does not guarantee admission.
-
->
-
-> - Admission may be restricted depending on on-site capacity and conditions. Entry will be granted after registration details have been verified.
-
->
-
-> - On-site events, including the Lucky Draw, are available only to participants who complete the designated booth missions.
-
->
-
-> - Photos and videos may be taken during the event and may later be used for event documentation and promotional purposes.
-
->
-
-> - The details and participation requirements for airdrops and prizes may vary depending on on-site circumstances. Further information will be provided at the event.
-
->
-
-> - If any taxes or other charges are incurred in connection with airdrops, prizes, or other rewards distributed through the event, they will be the sole responsibility of the winner.
-
->
-
-> - Winners may be required to provide personal information and supporting documents necessary for tax payment and prize distribution.
-
->
-
-> - Failure to provide the required information or documents, or failure to complete the required tax payment, may result in the prize being withheld or the winner's eligibility being revoked.
-
->
-
-> - The actual distribution method and schedule for prizes and rewards will be communicated separately to the winners.
-
->
-
-> - Most event rewards and prizes won on-site at The Bridge Summit will be distributed through Eventree, so please make sure to complete your Eventree registration before attending the event.
-
-<a id="event-d0bf7514f4a4483e"></a>
-
-## Crypto House Seoul '26
-
-- Record: `kbw-crypto-house-seoul-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-28T05:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/r6iwcjcl>
-
-### Before Seoul gets loud
-
-Come meet Avalanche builders
-
-Monday, September 28. 3 hours on a Seolleung rooftop, on the opening day of Korea Blockchain Week, before the calendar fills up and the city gets loud.
-
-Crypto House Seoul is a mini conference, not an afterparty. Two keynotes, one panel, one full hour of open networking. Free to attend, open registration.
-
-Keynotes and a panel from teams building on Avalanche
-
-An hour set aside for networking; not squeezed in at the end
-
-Avalanche builders and founders you'd otherwise spend the whole week trying to find
-
-The week will end and most of the rooms will empty out. We'll still be here. Come find out what that's worth.
-
-Doors at 2PM. See you on the rooftop.
-
-### Event Info
-
-[Host: Avalanche Team1 Korea](https://x.com/Team1KOR)
-
-Date & Time: September 28 Monday 2-5PM
-
-Venue: 8F Beer Garden, WeWork Seolleung II
-
-### Program
-
-- 14:00-14:30 Registration & Welcome Drinks
-- 14:30-14:45 [Opening] Welcome to Team1 Korea
-  - Eugene Cho, Team1 Korea Lead
-- 14:45-15:00 [Keynote 1] TBD
-  - Keynote Speaker (TBD)
-- 15:00-15:20 Break & Networking
-- 15:20-15:35 [Keynote 2] TBD
-  - Keynote Speaker (TBD)
-- 15:35-16:00 [Panel Discussion] TBD
-  - Panelists (TBD)
-- 16:00-17:00 Networking
-
-### About Team1
-
-Team1 is a global network of builders, developers, creatives, & community members who grow Avalanche.
-
-With 600+ members operating across 40 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation and community-led initiatives.
-
-/[AvaxTeam1](https://x.com/AvaxTeam1)?
-
 <a id="event-0c48017538f0de2a"></a>
 
 ## Agentic Payments Onchain 2026
@@ -10852,378 +10540,6 @@ We bring together the leaders who are not just observing the shift, but are acti
 Visitor Pass now just $100 (Regular Price: $499)!
 
 Registration requires host approval. Registration is listed as free.
-
-<a id="event-de22558bca2e9e1c"></a>
-
-## The Bridge Summit
-
-- Record: `kbw-official-the-bridge-summit-09-28`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-09-28T00:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/80q0842z>
-
-### About the event
-
-The Bridge Summit 2026, 서울에서 여러분을 초대합니다
-
-이번 KBW, 9월 28일은 The Bridge Summit에서 함께하세요.
-
-TV조선 × Bridge34가 공동 주최하고, 글로벌 Web3 벤처캐피털 Hack VC가 Main Partner로 함께하는 The Bridge Summit 2026이 오는 9월 28일, 조선 팰리스 서울에서 개최됩니다.
-
-Bridge34
-
-- Bridge34는 글로벌 Web3 프로젝트와 한국 시장을 연결하는 Web3 전문 액셀러레이터이자 마케팅 파트너로, 커뮤니티-미디어-파트너십을 기반으로 국내 Web3 생태계의 성장을 이끌고 있습니다.
-
-TV조선
-
-- TV조선은 대한민국의 주요 종합편성채널로, 폭넓은 미디어 영향력과 콘텐츠 역량을 바탕으로 Web3와 디지털 자산 산업의 대중화를 연결하는 미디어 기업입니다.
-
-Hack VC
-
-- Hack VC는 Web3 및 블록체인 기술에 집중하는 글로벌 벤처캐피털로, 초기 단계부터 유망한 프로젝트와 창업가에 투자하며 차세대 크립토 생태계의 성장을 지원하고 있습니다.
-
-글로벌 Web3 프로젝트부터 기관, 투자자, 미디어, 그리고 한국 커뮤니티까지.
-
-디지털 자산 - AI - 토큰화 금융의 다음 흐름을 만들어가는 플레이어들이 서울에 모입니다.
-
-다양한 세션과 네트워킹, 프로젝트 부스는 물론, 이번 Summit에 참여하는 한국 커뮤니티를 위해 특별한 혜택도 준비되어 있습니다.
-
-이번 The Bridge Summit은
-
-현장을 직접 경험하고 참여하면서 다양한 리워드까지 받아갈 수 있는 컨퍼런스로 준비됩니다.
-
-━━━━━━━━━━━━━━
-
-총 5,000만원 상당 에어드랍 및 경품
-
-> ① LUCKY DRAW 1등 보상 - 0.1 BTC
-
-> - 조선 팰리스에서 0.1 BTC의 주인공이 탄생합니다.
-
-> 현장에 마련된 부스 미션을 완료한 참가자에게 럭키드로우 참여 기회가 주어집니다.
-
->
-
-> ② 300만원 상당의 토큰 보상
-
-> - 총 3명의 참가자에게 인당 100만원 상당의 토큰 리워드가 제공됩니다.
-
->
-
-> ③ 5만원 상당 리워드 × 300명
-
-> 총 300명의 현장 참가자에게 1인당 5만원 상당의 리워드가 제공됩니다.
-
->
-
-> ④ 현장에서 계속되는 실시간 랜덤 래플
-
-> 행사가 진행되는 동안 커피부터 다양한 기프티콘과 경품들이 쏟아집니다!
-
-> 현장 참가자를 대상으로 다양한 랜덤 래플이 진행 될 예정입니다.
-
->
-
-> 언제 어떤 리워드가 등장할지 모르는 The Bridge Summit !
-
-> 모두 오셔서 함께해주시고,
-
-> 총 5,000만원 상당의 에어드랍과 경품, 최종 0.1 BTC의 주인공에 도전해보세요!
-
->
-
-> The Bridge Summit 관련 자세한 내용 및 최신 소식은 Bridge34 공식 X 채널 (@[Bridge34__](https://x.com/Bridge34__))을 통해 순차적으로 업데이트될 예정입니다.
-
-> ━━━━━━━━━━━━━━
-
->
-
-> 참여 안내
-
->
-
-> - 본 행사는 사전 등록 및 초청을 통해 참석 가능한 행사입니다.
-
-> - 참가 신청 후 별도의 승인 절차가 진행될 수 있으며, 신청만으로 입장이 확정되는 것은 아닙니다.
-
-> - 현장 상황에 따라 입장이 제한될 수 있으며, 등록 정보 확인 후 입장이 진행됩니다.
-
-> - 럭키드로우를 포함한 현장 이벤트는 지정된 부스 미션을 완료한 참가자에 한해 참여 가능합니다.
-
-> - 행사 중 사진 및 영상 촬영이 진행될 수 있으며, 촬영된 자료는 추후 행사 기록 및 홍보 목적으로 활용될 수 있습니다.
-
-> - 에어드랍 및 경품의 세부 구성과 참여 조건은 현장 상황에 따라 달라질 수 있으며, 자세한 내용은 행사 현장에서 안내됩니다.
-
-> - 이벤트를 통해 지급되는 에어드랍, 경품 및 기타 리워드에 대한 제세공과금이 발생하는 경우 당첨자 본인 부담입니다.
-
-> - 제세공과금 납부 및 경품 지급을 위해 당첨자에게 필요한 개인정보 및 증빙자료 제출을 요청할 수 있습니다.
-
-> - 관련 정보 또는 서류를 제출하지 않거나 제세공과금 납부가 완료되지 않을 경우 경품 지급이 제한되거나 당첨이 취소될 수 있습니다.
-
-> - 경품 및 리워드의 실제 지급 방식과 일정은 당첨자에게 별도로 안내될 예정입니다.
-
-> - The Bridge Summit 현장에서 당첨되는 대부분의 이벤트 보상 및 경품은 Eventree를 통해 지급될 예정이므로 행사 참여 전 반드시 가입을 완료해 주시기 바랍니다.
-
-> ━━━━━━━━━━━━━━━━━━━━━━━━━
-
->
-
-> The Bridge Summit 2026 Invites You to Seoul
-
->
-
-> This KBW, join us at The Bridge Summit on September 28.
-
->
-
-> Co-hosted by TV CHOSUN × Bridge34, with global Web3 venture capital firm Hack VC joining as the Main Partner, The Bridge Summit 2026 will take place on September 28 at Josun Palace Seoul.
-
->
-
-> Bridge34
-
-> - Bridge34 is a Web3 accelerator and marketing partner connecting global Web3 projects with the Korean market, driving the growth of Korea's Web3 ecosystem through community, media, and partnerships.
-
->
-
-> TV CHOSUN
-
-> - TV CHOSUN is one of South Korea's leading general programming networks, leveraging its broad media reach and content expertise to help bridge Web3 and the digital asset industry with a wider audience.
-
->
-
-> Hack VC
-
-> - Hack VC is a global venture capital firm focused on Web3 and blockchain technology, investing in promising projects and founders from the early stages and supporting the growth of the next generation of the crypto ecosystem.
-
->
-
-> From global Web3 projects to institutions, investors, media, and the Korean community,
-
-> the players shaping the next wave of digital assets, AI, and tokenized finance are coming together in Seoul.
-
->
-
-> Alongside a variety of sessions, networking opportunities, and project booths, we have also prepared special benefits for the Korean community joining this Summit.
-
->
-
-> The Bridge Summit is designed to be more than just a conference - experience the event firsthand, participate on-site, and unlock a variety of rewards along the way.
-
->
-
-> ━━━━━━━━━━━━━━
-
->
-
-> KRW 50 Million Worth of Airdrops & Prizes
-
-> ① LUCKY DRAW 1st Prize - 0.1 BTC
-
-> - One lucky winner will walk away from Josun Palace with 0.1 BTC.
-
-> Participants who complete the designated booth missions on-site will receive a chance to enter the Lucky Draw.
-
->
-
-> ② KRW 3 Million Worth of Token Rewards
-
-> - A total of three participants will each receive token rewards worth KRW 1 million.
-
->
-
-> ③ KRW 50,000 Rewards × 300 Participants
-
-> A total of 300 on-site participants will each receive rewards worth KRW 50,000.
-
->
-
-> ④ Live Random Raffles Throughout the Event
-
-> From coffee to various gift vouchers and prizes, rewards will keep coming throughout the event!
-
-> A variety of random raffles will be held for on-site participants.
-
->
-
-> You never know when or what reward might drop at The Bridge Summit!
-
-> Join us and take your shot at KRW 50 million worth of airdrops and prizes - including the ultimate 0.1 BTC prize!
-
->
-
-> More details and the latest updates on The Bridge Summit will be shared through Bridge34's official X account (@[Bridge34__](https://x.com/Bridge34__)).
-
->
-
-> ━━━━━━━━━━━━━━
-
->
-
-> Participation Guidelines
-
->
-
-> - This event is open to participants through pre-registration and invitation.
-
->
-
-> - A separate approval process may take place after registration, and submitting an application does not guarantee admission.
-
->
-
-> - Admission may be restricted depending on on-site capacity and conditions. Entry will be granted after registration details have been verified.
-
->
-
-> - On-site events, including the Lucky Draw, are available only to participants who complete the designated booth missions.
-
->
-
-> - Photos and videos may be taken during the event and may later be used for event documentation and promotional purposes.
-
->
-
-> - The details and participation requirements for airdrops and prizes may vary depending on on-site circumstances. Further information will be provided at the event.
-
->
-
-> - If any taxes or other charges are incurred in connection with airdrops, prizes, or other rewards distributed through the event, they will be the sole responsibility of the winner.
-
->
-
-> - Winners may be required to provide personal information and supporting documents necessary for tax payment and prize distribution.
-
->
-
-> - Failure to provide the required information or documents, or failure to complete the required tax payment, may result in the prize being withheld or the winner's eligibility being revoked.
-
->
-
-> - The actual distribution method and schedule for prizes and rewards will be communicated separately to the winners.
-
->
-
-> - Most event rewards and prizes won on-site at The Bridge Summit will be distributed through Eventree, so please make sure to complete your Eventree registration before attending the event.
-
-<a id="event-41f4cc1216b37ae2"></a>
-
-## Crypto House Seoul '26
-
-- Record: `kbw-official-crypto-house-seoul-26-09-28`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-09-28T05:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/r6iwcjcl>
-
-### Before Seoul gets loud
-
-Come meet Avalanche builders
-
-Monday, September 28. 3 hours on a Seolleung rooftop, on the opening day of Korea Blockchain Week, before the calendar fills up and the city gets loud.
-
-Crypto House Seoul is a mini conference, not an afterparty. Two keynotes, one panel, one full hour of open networking. Free to attend, open registration.
-
-Keynotes and a panel from teams building on Avalanche
-
-An hour set aside for networking; not squeezed in at the end
-
-Avalanche builders and founders you'd otherwise spend the whole week trying to find
-
-The week will end and most of the rooms will empty out. We'll still be here. Come find out what that's worth.
-
-Doors at 2PM. See you on the rooftop.
-
-### Event Info
-
-[Host: Avalanche Team1 Korea](https://x.com/Team1KOR)
-
-Date & Time: September 28 Monday 2-5PM
-
-Venue: 8F Beer Garden, WeWork Seolleung II
-
-### Program
-
-- 14:00-14:30 Registration & Welcome Drinks
-- 14:30-14:45 [Opening] Welcome to Team1 Korea
-  - Eugene Cho, Team1 Korea Lead
-- 14:45-15:00 [Keynote 1] TBD
-  - Keynote Speaker (TBD)
-- 15:00-15:20 Break & Networking
-- 15:20-15:35 [Keynote 2] TBD
-  - Keynote Speaker (TBD)
-- 15:35-16:00 [Panel Discussion] TBD
-  - Panelists (TBD)
-- 16:00-17:00 Networking
-
-### About Team1
-
-Team1 is a global network of builders, developers, creatives, & community members who grow Avalanche.
-
-With 600+ members operating across 40 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation and community-led initiatives.
-
-/[AvaxTeam1](https://x.com/AvaxTeam1)?
-
-<a id="event-193d15df4383ec1d"></a>
-
-## Hyperliquid Seminar Korea
-
-- Record: `kbw-official-hyperliquid-seminar-korea-09-28`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-09-28T05:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/eei081l4>
-
-### Hyperliquid Seminar Korea
-
-An invite-only institutional seminar on Hyperliquid and onchain finance, during Korea Blockchain Week 2026
-
-September 28, 2026
-
-2:00PM - 5:30PM KST
-
-Seoul, South Korea [Venue TBA]
-
-Invitation Only | Limited to 150 Guests
-
-### About
-
-Hyperliquid Seminar Korea is an invitation-only seminar hosted by HypurrCorea × TENET during Korea Blockchain Week 2026.
-
-Korea's financial institutions are approaching a moment of change. As the FSC develops guidance on digital asset allocation, banks, brokerages, asset managers and listed corporates are being asked to form a view on markets they have had little structured exposure to.
-
-This seminar is built for that audience. Over an afternoon, we examine what Hyperliquid is, how onchain markets actually function, what stands between an institution and participation today, and where the next twelve months lead. The session assumes no prior crypto background and is delivered to the standard institutional diligence requires.
-
-Builders, researchers and the Korean Hyperliquid community join the same room.
-
-### Program (Tentative)
-
-- Why Hyperliquid, Why Now - Structural change in onchain markets and the rise of Hyperliquid
-- From Exchange to Financial Infrastructure - Architecture, market model and ecosystem expansion
-- Institutional Access to Onchain Markets - Regulation, KYC and custody, through to how institutions can participate
-- The Next Chapter of Hyperliquid - Direction ahead and the next stage of onchain finance
-- Networking
-
-### Who's Joining
-
-A curated group of C-suite executives and senior leaders from Korean banks, securities firms, asset managers, listed corporates and family offices, alongside leading builders, researchers and participants from across the global Hyperliquid ecosystem.
-
-### Hosted by
-
-Host: HypurrCorea
-
-Partner: TENET, Korea Blockchain Week by Factblock
-
-Community Partner: Hyperliquid KR
-
-Research Partner: Hyperliquid Research Collective
-
-### Registration
-
-This is an invitation-only event with limited capacity. Registration through Luma does not guarantee admission. Approved guests will receive a confirmation, along with venue details, prior to the event.
-
-The seminar is held under the Chatham House Rule. Press and recording are not permitted.
 
 <a id="event-aba2dd7db046b41e"></a>
 
@@ -27377,152 +26693,6 @@ https://luma.com/the-garage2
 Datas do programa: 28 de setembro a 10 de outubro de 2026
 
 Local: Solana House, São Paulo
-
-<a id="event-f654670f071c1692"></a>
-
-## B@B 10 Year Anniversary (Alumni Reunion)
-
-- Record: `luma-batch-UlXTWD7ZvslzNAX`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-28T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/k24aok3i>
-
-### About the event
-
-We are celebrating Blockchain at Berkeley's 10 year anniversary in style. Join us at the Diprinzio Office Sunday, September 27th.
-
-We will go through a brief demo day and show you what B@B has cooked up over the recent years. Then we'll transition into a mixer with good eats and refreshments (and some special gifts).
-
-For questions, contact divij@berkeley.edu or masonarditi@berkeley.edu.
-
-We look forward to celebrating with you :)
-
-### Hosts
-
-Hosted by Mason Arditi (uc berkeley), Divij Motwani (EECS @ UC Berkeley), Isaac, Anushka Ghorpade.
-
-### Event details
-
-The event takes place on September 28. Venue: 2470 Telegraph Ave, 2470 Telegraph Ave, Berkeley, CA 94704, USA.
-
-<a id="event-dc0a79bd8379d13d"></a>
-
-## Founders Camp Demo Day
-
-- Record: `luma-batch-gvz8VKwj4BuMhdF`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-28T02:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/n1hqn2zg>
-
-### About the event
-
-Join us at True Digital Park West on September 28 for the culmination of MagicBlock Founders Camp, where selected founders will take the stage to present what they're building to a room of investors, founders, and Solana ecosystem leaders.
-
-Each team gets 5 minutes to pitch, followed by an afternoon of deeper Q&A with our judges.
-
-Come see what the next generation of teams building on Solana is working on: and meet the founders behind them.
-
-### Schedule
-
-09:30 AM - 10:00 AMDoors Open
-
-10:00 AM - 12:00 PMFounder Pitches: 5 minutes per team
-
-12:00 - 1:00 PMLunch Provided
-
-1:00 - 2:30 PMJudge Q&A: deeper sessions with selected teams
-
-3:00 - 3:30 PMAwards Ceremony
-
-Attendance
-
-This is a private, ticketed event with limited capacity.
-
-Registration is subject to approval. Please only attend if your registration has been approved on Luma.
-
-Tickets are individual and +1s are not permitted. Every attendee must register and be approved separately.
-
-September 28, 2026 True Digital Park West, Bangkok
-
-<a id="event-dd1c71d1c7f62064"></a>
-
-## Solana Ecosystem Day Presented by Metaplex and Superteam Korea
-
-- Record: `luma-batch-evtasNDJTVLIYa54`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-28T05:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/9a84ers6>
-
-### About the event
-
-Solana Ecosystem Day
-
-Presented by Metaplex & Superteam Korea
-
-The Solana ecosystem is coming together in Seoul!
-
-During KBW, Metaplex and Superteam Korea are bringing together founders, builders, investors, creators, and leading teams from across the Solana ecosystem for an afternoon of ideas, products, and meaningful connections.
-
-Come hear from the teams building on Solana today, discover where the ecosystem is heading next, and connect with the people shaping its next wave of growth.
-
-Expect ecosystem sessions, curated networking, refreshments, exclusive merch, and an on-site raffle featuring the latest AirPods and more.
-
-Registration is subject to approval. Due to limited venue capacity, entry may not be guaranteed even for registered guests, and there may be a wait at the door. Parking is very limited, so we strongly recommend using public transportation.
-
-Entry will be on a first-come, first-served basis. If the venue reaches its maximum capacity of 150 guests, entry may be temporarily paused for safety reasons.
-
-### Event Details
-
-Date: Monday, September 28, 2026
-
-Time: 2 - 6 PM KST
-
-Address: enTravel, 45 Gangnam-daero 102-gil, Gangnam-gu, Seoul
-
-Hosts: Metaplex × Superteam Korea
-
-Food & Drinks: Light bites and refreshments will be provided.
-
-### Schedule
-
-2:00 PM | Check-in & Welcome
-
-2:30 PM | Opening Keynote - Metaplex
-
-Mackenzie Hom | President, Metaplex Foundation USA
-
-2:45 PM | Panel - Sanctum × Kamino × Rewardy Wallet
-
-3:15 PM | Keynote - Beezie
-
-3:30 PM | Keynote - Solana Foundation
-
-3:45 PM | Panel Discussion - Doma × Botanika
-
-Moderator: Clay Helms | Head of BD & Partnerships, Metaplex Foundation USA
-
-4:10 PM | Group Photo & On-site Raffle
-
-4:30 PM | Networking Mixer - Drinks & Bites
-
-6:00 PM | Event Close
-
-On-site Raffle
-
-Join the on-site raffle after the official program for a chance to win over $500 worth of prizes, including two pairs of the latest-generation AirPods.
-
-Participants must be checked in and present at the venue when the raffle is drawn.
-
-Metaplex
-
-Metaplex is foundational decentralized infrastructure on Solana, empowering developers to create and manage onchain assets with open-source standards and tools. Having supported billions of mints, Metaplex powers digital ownership. Subscribe to our Telegram channel to stay updated on upcoming Metaplex Korea events!
-
-Superteam Korea
-
-Superteam Korea is a builders and founders community based in Korea, powered by the Solana Foundation. Follow us on X and subscribe to our Telegram channel to stay up to date with upcoming Superteam Korea events!
 
 <a id="event-120b1abe606c30c5"></a>
 
@@ -67746,6 +66916,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-d97d75a651ddc44a"></a>
+
+## Crypto Drinks - Amsterdam
+
+- Record: `luma-evt-kZCncbwm1vVy8mc`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-28T17:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/votd9syq>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-0504dca7307404ba"></a>
 
 ## Riserva Madrid \| Stablecoins over wine at MERGE Madrid
@@ -69492,6 +68674,18 @@ The event takes place at a community coworking hub in Mumbai on Wednesday, Novem
 ### Registration and admission
 
 Admission is free of charge via Luma. RSVP approval is required to manage venue capacity. Approved guests receive the full address and transit directions.
+
+<a id="event-ec81f021b5c9a08c"></a>
+
+## Superteam Co-Working BKK with Node # at Yellow Lane
+
+- Record: `luma-host-evt-evt-exnIDqGPyino5BQ`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-03T06:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/xc52bt6u>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-90f29cb5bf4d66b4"></a>
 
@@ -71497,6 +70691,18 @@ Previous Events:
 
 etc.
 
+<a id="event-f1216aaba0d85290"></a>
+
+## Build Across Chains: A Solana Builder Briefing, with NEAR Intents x Aurora Intents
+
+- Record: `w3v-build-across-chains-a-solana-builder-briefing-with-near-intents-x-aurora-intents-12-1793109495470`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-14T15:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/loajg3ik>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-23ee29f480b51527"></a>
 
 ## Riserva London \| Stablecoins and compliance over wine
@@ -73069,6 +72275,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Description: Unverified stored copy
 - Original page: <https://conferenceindex.org/event/international-conference-on-blockchain-icb-2027-april-boston-us>
 - Original page: <https://waset.org/blockchain-conference-in-april-2027-in-boston?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-268d11e1ead08d39"></a>
+
+## PayTech Global Conference 2027
+
+- Record: `w3v-paytech-global-conference-2027-13-1793131019224`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-04-22T04:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://paytechglobal.ai/conference-2027/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

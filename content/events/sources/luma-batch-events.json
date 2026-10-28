@@ -1087,59 +1087,6 @@
     }
   },
   {
-    "id": "luma-batch-UlXTWD7ZvslzNAX",
-    "slug": "k24aok3i",
-    "name": "B@B 10 Year Anniversary (Alumni Reunion)",
-    "description": "We are celebrating Blockchain at Berkeley's 10 year anniversary in style. Join us at the Diprinzio Office Sunday, September 27th.\n\nWe will go through a brief demo day and show you what B@B has cooked up over the recent years. Then we'll transition into a mixer with good eats and refreshments (and some special gifts).\n\nFor questions, contact divij@berkeley.edu or masonarditi@berkeley.edu.\n\nWe look forward to celebrating with you :)\n\n## Hosts\n\nHosted by Mason Arditi (uc berkeley), Divij Motwani (EECS @ UC Berkeley), Isaac ‍, Anushka Ghorpade.\n\n## Event details\n\nThe event takes place on September 28. Venue: 2470 Telegraph Ave, 2470 Telegraph Ave, Berkeley, CA 94704, USA.",
-    "startDate": "2026-09-28T01:00:00.000Z",
-    "endDate": "2026-09-28T05:00:00.000Z",
-    "city": "Berkeley",
-    "country": "United States",
-    "location": "2470 Telegraph Ave, 2470 Telegraph Ave, Berkeley, CA 94704, USA",
-    "url": "https://luma.com/k24aok3i",
-    "registrationUrl": "https://luma.com/k24aok3i",
-    "coverImage": "/events/luma-batch-UlXTWD7ZvslzNAX-5ff16beb.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Mason Arditi",
-      "Divij Motwani",
-      "Isaac ‍",
-      "Anushka Ghorpade"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "America/Los_Angeles",
-    "neighborhood": "Southside",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "2470 Telegraph Ave",
-    "addressLocality": "Berkeley",
-    "addressRegion": "California",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "Mason Arditi"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/k24aok3i",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/k24aok3i",
-      "eventId": "evt-UlXTWD7ZvslzNAX",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T11:00:44.000Z"
-    }
-  },
-  {
     "id": "luma-batch-mOufXHP89aFrhMJ",
     "slug": "dev-day-cafe",
     "name": "Dev Day Cafe",
@@ -3764,59 +3711,6 @@
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe",
       "enrichedAt": "2026-09-22T11:00:44.000Z"
-    }
-  },
-  {
-    "id": "luma-batch-gvz8VKwj4BuMhdF",
-    "slug": "n1hqn2zg",
-    "name": "Founders Camp Demo Day",
-    "description": "Join us at True Digital Park West on September 28 for the culmination of MagicBlock Founders Camp, where selected founders will take the stage to present what they’re building to a room of investors, founders, and Solana ecosystem leaders.\n\nEach team gets 5 minutes to pitch, followed by an afternoon of deeper Q&A with our judges.\n\nCome see what the next generation of teams building on Solana is working on: and meet the founders behind them.\n\nSchedule\n\n09:30 AM – 10:00 AMDoors Open\n\n10:00 AM – 12:00 PMFounder Pitches: 5 minutes per team\n\n12:00 – 1:00 PMLunch Provided\n\n1:00 – 2:30 PMJudge Q&A: deeper sessions with selected teams\n\n3:00 – 3:30 PMAwards Ceremony\n\nAttendance\n\nThis is a private, ticketed event with limited capacity.\n\nRegistration is subject to approval. Please only attend if your registration has been approved on Luma.\n\nTickets are individual and +1s are not permitted. Every attendee must register and be approved separately.\n\n📅 September 28, 2026📍 True Digital Park West, Bangkok",
-    "startDate": "2026-09-28T02:30:00.000Z",
-    "endDate": "2026-09-28T09:00:00.000Z",
-    "city": "Krung Thep Maha Nakhon",
-    "country": "Thailand",
-    "location": "True Digital Park West, True Digital Park West, 111 Sukhumvit Rd, Khwaeng Bang Chak, Khet Phra Khanong, Krung Thep Maha Nakhon 10260, Thailand",
-    "url": "https://luma.com/n1hqn2zg",
-    "registrationUrl": "https://luma.com/n1hqn2zg",
-    "coverImage": "/events/luma-batch-gvz8VKwj4BuMhdF-39716422.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "MagicBlock Team",
-      "Superteam TH",
-      "OnlyFounders",
-      "Andy | MagicBlock"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Bangkok",
-    "neighborhood": "Khwaeng Bang Chak",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "True Digital Park West",
-    "addressLocality": "Krung Thep Maha Nakhon",
-    "addressRegion": "Krung Thep Maha Nakhon",
-    "addressCountry": "TH",
-    "organizer": {
-      "type": "Organization",
-      "name": "MagicBlock Team",
-      "url": "https://luma.com/user/magicblock"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/n1hqn2zg",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/n1hqn2zg",
-      "eventId": "calev-gvz8VKwj4BuMhdF",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
     }
   },
   {
@@ -8545,36 +8439,6 @@
     "sourceVerification": {
       "url": "https://luma.com/66118phy",
       "eventId": "evt-AhlboiFVShnZRcw",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtasNDJTVLIYa54",
-    "slug": "9a84ers6",
-    "name": "Solana Ecosystem Day Presented by Metaplex and Superteam Korea",
-    "description": "Solana Ecosystem Day\nPresented by Metaplex & Superteam Korea\n\nThe Solana ecosystem is coming together in Seoul!\n\nDuring KBW, Metaplex and Superteam Korea are bringing together founders, builders, investors, creators, and leading teams from across the Solana ecosystem for an afternoon of ideas, products, and meaningful connections.\n\nCome hear from the teams building on Solana today, discover where the ecosystem is heading next, and connect with the people shaping its next wave of growth.\n\nExpect ecosystem sessions, curated networking, refreshments, exclusive merch, and an on-site raffle featuring the latest AirPods and more.\n\nRegistration is subject to approval. Due to limited venue capacity, entry may not be guaranteed even for registered guests, and there may be a wait at the door. Parking is very limited, so we strongly recommend using public transportation.\n\nEntry will be on a first-come, first-served basis. If the venue reaches its maximum capacity of 150 guests, entry may be temporarily paused for safety reasons.\n\nEvent Details\n\nDate: Monday, September 28, 2026\n\nTime: 2 - 6 PM KST\n\nAddress: enTravel, 45 Gangnam-daero 102-gil, Gangnam-gu, Seoul\n\nHosts: Metaplex × Superteam Korea\n\nFood & Drinks: Light bites and refreshments will be provided.\n\nSchedule\n\n2:00 PM | Check-in & Welcome\n\n2:30 PM | Opening Keynote - Metaplex\nMackenzie Hom | President, Metaplex Foundation USA\n\n2:45 PM | Panel - Sanctum × Kamino × Rewardy Wallet\n\n3:15 PM  | Keynote - Beezie\n\n3:30 PM | Keynote - Solana Foundation\n\n3:45 PM | Panel Discussion - Doma × Botanika\nModerator: Clay Helms | Head of BD & Partnerships, Metaplex Foundation USA\n\n4:10 PM  | Group Photo & On-site Raffle\n\n4:30 PM | Networking Mixer - Drinks & Bites\n\n6:00 PM | Event Close\n\n🎁 On-site Raffle\n\nJoin the on-site raffle after the official program for a chance to win over $500 worth of prizes, including two pairs of the latest-generation AirPods.\n\nParticipants must be checked in and present at the venue when the raffle is drawn.\n\nMetaplex\n\nMetaplex is foundational decentralized infrastructure on Solana, empowering developers to create and manage onchain assets with open-source standards and tools. Having supported billions of mints, Metaplex powers digital ownership. Subscribe to our Telegram channel to stay updated on upcoming Metaplex Korea events!\n\nSuperteam Korea\n\nSuperteam Korea is a builders and founders community based in Korea, powered by the Solana Foundation. Follow us on X and subscribe to our Telegram channel to stay up to date with upcoming Superteam Korea events!",
-    "startDate": "2026-09-28T05:00:00.000Z",
-    "endDate": "2026-09-28T09:00:00.000Z",
-    "city": "Seoul, South Korea",
-    "country": "South Korea",
-    "location": "Seoul, South Korea, Seoul, South Korea",
-    "url": "https://luma.com/9a84ers6",
-    "registrationUrl": "https://luma.com/9a84ers6",
-    "coverImage": "/events/luma-batch-evtasNDJTVLIYa54-465d273d.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Solana Ecosystem Day"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Seoul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "party",
-    "sourceVerification": {
-      "url": "https://luma.com/9a84ers6",
-      "eventId": "evt-asNDJTVLIYa54Fa",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

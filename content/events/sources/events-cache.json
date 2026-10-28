@@ -22068,7 +22068,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-austin/events/316802775/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316802775-00c0322a.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -28802,7 +28802,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261028%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261028T034727Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=0e9ce6c61407b0937393aed0d562ae4c464b2e1c15f6d56b2da8f524a5008fd5",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261028%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261028T100319Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=6e945dc69f4d8ed49ca5b4b435f1feb9c9f123d46eba43a3ab06f77a0255bd26",
     "month": "November 2026"
   },
   {
@@ -29848,7 +29848,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-sf/events/317156445/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317156445-8b529014.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -29879,5 +29879,59 @@
     "coverImage": "/events/luma-evt-zb7vesj2liuqthb-0db0bc27.webp",
     "source": "luma",
     "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-kZCncbwm1vVy8mc",
+    "name": "Crypto Drinks - Amsterdam",
+    "description": "",
+    "startDate": "2026-10-28T17:30:00.000Z",
+    "endDate": "2026-10-28T21:30:00.000Z",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://lu.ma/votd9syq",
+    "coverImage": "/events/luma-evt-kzcncbwm1vvy8mc-ebc75945.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-exnIDqGPyino5BQ",
+    "name": "Superteam Co-Working BKK with Node # at Yellow Lane",
+    "description": "",
+    "startDate": "2026-11-03T06:00:00.000Z",
+    "endDate": "2026-11-03T10:00:00.000Z",
+    "city": "",
+    "country": "Thailand",
+    "location": "Thailand",
+    "url": "https://luma.com/xc52bt6u",
+    "coverImage": "/events/luma-host-evt-evt-exnidqgpyino5bq-849269ab.webp",
+    "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-build-across-chains-a-solana-builder-briefing-with-near-intents-x-aurora-intents-12-1793109495470",
+    "name": "Build Across Chains: A Solana Builder Briefing, with NEAR Intents x Aurora Intents",
+    "description": "Build Across Chains: a private Breakpoint briefing for Solana teams on cross-chain liquidity, private transactions and NEAR Intents.",
+    "startDate": "2026-11-14T15:00:00.000Z",
+    "endDate": "2026-11-14T17:30:00.000Z",
+    "city": "London",
+    "country": "GB",
+    "location": "London, GB",
+    "url": "https://luma.com/loajg3ik",
+    "coverImage": "/events/w3v-build-across-chains-a-solana-builder-briefing--81981407.webp",
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-paytech-global-conference-2027-13-1793131019224",
+    "name": "PayTech Global Conference 2027",
+    "description": "PayTech Global Conference 2027: a two-day Miami payments conference covering cross-border payments, stablecoins and infrastructure.",
+    "startDate": "2027-04-22T04:00:00.000Z",
+    "endDate": "2027-04-24T03:59:00.000Z",
+    "city": "Miami",
+    "country": "US",
+    "location": "Miami, US",
+    "url": "https://paytechglobal.ai/conference-2027/",
+    "coverImage": "/events/w3v-paytech-global-conference-2027-13-179313101922-38aa0d5f.webp",
+    "month": "April 2027"
   }
 ]

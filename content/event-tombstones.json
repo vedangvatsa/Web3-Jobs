@@ -2557,5 +2557,61 @@
       "luma-batch-evtjfjfcnapp1ovy",
       "0srsltaq"
     ]
+  },
+  "kbw-bridge-summit-2026": {
+    "until": "2027-10-28T09:59:47.521Z",
+    "slugs": [
+      "kbw-bridge-summit-2026",
+      "bridge-summit-seoul"
+    ]
+  },
+  "kbw-crypto-house-seoul-2026": {
+    "until": "2027-10-28T09:59:47.521Z",
+    "slugs": [
+      "kbw-crypto-house-seoul-2026",
+      "crypto-house-seoul"
+    ]
+  },
+  "kbw-official-the-bridge-summit-09-28": {
+    "until": "2027-10-28T09:59:47.521Z",
+    "slugs": [
+      "kbw-official-the-bridge-summit-09-28",
+      "bridge-summit"
+    ]
+  },
+  "kbw-official-hyperliquid-seminar-korea-09-28": {
+    "until": "2027-10-28T09:59:47.521Z",
+    "slugs": [
+      "kbw-official-hyperliquid-seminar-korea-09-28",
+      "hsk"
+    ]
+  },
+  "kbw-official-crypto-house-seoul-26-09-28": {
+    "until": "2027-10-28T09:59:47.521Z",
+    "slugs": [
+      "kbw-official-crypto-house-seoul-26-09-28",
+      "chs2"
+    ]
+  },
+  "luma-batch-UlXTWD7ZvslzNAX": {
+    "until": "2027-10-28T09:59:47.521Z",
+    "slugs": [
+      "luma-batch-ulxtwd7zvslznax",
+      "k24aok3i"
+    ]
+  },
+  "luma-batch-gvz8VKwj4BuMhdF": {
+    "until": "2027-10-28T09:59:47.521Z",
+    "slugs": [
+      "luma-batch-gvz8vkwj4bumhdf",
+      "n1hqn2zg"
+    ]
+  },
+  "luma-batch-evtasNDJTVLIYa54": {
+    "until": "2027-10-28T09:59:47.521Z",
+    "slugs": [
+      "luma-batch-evtasndjtvliya54",
+      "9a84ers6"
+    ]
   }
 }
