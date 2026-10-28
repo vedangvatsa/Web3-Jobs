@@ -67543,7 +67543,8 @@
       },
       "account": "channel:build",
       "attemptId": "0d400e9c-9d3d-4e52-b40f-e9367a959198",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x788ccfa278e1267429ae9882f2eddc66d9ccc2ee"
     }
   ]
 }
