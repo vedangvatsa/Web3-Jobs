@@ -5256,5 +5256,122 @@
     "slotKey": "2026-10-28:afternoon",
     "messageId": 155963,
     "sentAt": "2026-10-28T11:50:54.223Z"
+  },
+  "30e23838-cd45-44ac-b28d-11b0a07cf763": {
+    "status": "reserved",
+    "reservedAt": "2026-10-28T19:38:10.720Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5005910101",
+          "title": "Client Service Analyst - Livechat (Turkish required)",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5005910101",
+          "date": "2026-10-14T06:46:54-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Europe - Remote; Istanbul, Turkey",
+          "department": "Client Services",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an92"
+        },
+        "key": "5005910101",
+        "slug": "an92",
+        "url": "https://hashtagweb3.com/an92?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Client Service Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "5453088008",
+          "title": "Senior Software Engineer - Employee Experience Engineering (EXE)",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5453088008?gh_jid=5453088008",
+          "date": "2026-10-20T13:46:42-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Bay Area, CA, United States of America",
+          "department": "10416 Engineering - Business Platform",
+          "active": true,
+          "salary": "$217.8k – $326.8k/yr",
+          "dateVerified": true,
+          "slug": "eng637"
+        },
+        "key": "5453088008",
+        "slug": "eng637",
+        "url": "https://hashtagweb3.com/eng637?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "6232060004",
+          "title": "VP, Java Electronic Trading Engineer",
+          "company": "Galaxy Digital",
+          "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6232060004",
+          "date": "2026-10-22T12:22:27-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+          "location": "London",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng217"
+        },
+        "key": "6232060004",
+        "slug": "eng217",
+        "url": "https://hashtagweb3.com/eng217?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Galaxy Digital",
+        "title": "VP, Java Electronic Trading Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "b25449a4-c78c-4b1a-b5b2-74b45981a37a",
+          "title": "Summer Engineering Internship",
+          "company": "Sardine",
+          "link": "https://jobs.ashbyhq.com/Sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a",
+          "date": "2026-10-23T23:07:32.271+00:00",
+          "source": "Ashby: Sardine [Sardine]",
+          "location": "Remote (North America)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng304"
+        },
+        "key": "b25449a4-c78c-4b1a-b5b2-74b45981a37a",
+        "slug": "eng304",
+        "url": "https://hashtagweb3.com/eng304?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sardine",
+        "title": "Summer Engineering Internship"
+      },
+      {
+        "snapshot": {
+          "id": "5a8cdbba-8898-4882-b04b-cfe6f26c407c",
+          "title": "Senior Security Engineer, Detection and Response",
+          "company": "Paxos",
+          "link": "https://jobs.ashbyhq.com/Paxos/5a8cdbba-8898-4882-b04b-cfe6f26c407c",
+          "date": "2026-09-29T21:48:33.338+00:00",
+          "source": "Ashby: Paxos [Paxos]",
+          "location": "Tel Aviv - Hybrid",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "security149"
+        },
+        "key": "5a8cdbba-8898-4882-b04b-cfe6f26c407c",
+        "slug": "security149",
+        "url": "https://hashtagweb3.com/security149?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Paxos",
+        "title": "Senior Security Engineer"
+      }
+    ],
+    "message": "- Bybit is hiring <a href=\"https://hashtagweb3.com/an92?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Client Service Analyst - Livechat (Turkish required)</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/eng637?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer - Employee Experience Engineering (EXE)</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/eng217?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VP, Java Electronic Trading Engineer</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/eng304?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Summer Engineering Internship</a>\n- Paxos is hiring <a href=\"https://hashtagweb3.com/security149?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Security Engineer, Detection and Response</a>",
+    "slotKey": "2026-10-28:evening"
   }
 }
