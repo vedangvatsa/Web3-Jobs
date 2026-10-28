@@ -3621,5 +3621,53 @@
     "slotKey": "2026-10-27:evening",
     "messageId": 155953,
     "sentAt": "2026-10-27T19:32:44.174Z"
+  },
+  "6fc9bda3-39ff-4831-8873-c9096170df8b": {
+    "status": "reserved",
+    "reservedAt": "2026-10-28T03:43:54.149Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "ibw-luma-evt-W3bxtS9mKSeIwVK",
+        "slug": "deepflow",
+        "name": "Onchain Execution Dinner: Deepflow × Eureka Labs",
+        "startDate": "2026-11-05T13:30:00.000Z",
+        "keys": [
+          "ibw-luma-evt-w3bxts9mkseiwvk",
+          "page:deepflow:2026-11-05",
+          "luma:evt-w3bxts9mkseiwvk",
+          "luma-url:/defi-32af",
+          "event:onchainexecutiondinnerdeepfloweurekalabs:2026-11-05:mumbai"
+        ]
+      },
+      {
+        "id": "ibw-luma-evt-EjZWupM0D19CQZ8",
+        "slug": "zkfriends",
+        "name": "Zero Knowledge, Actual Friends | Privacy & ZK Walk",
+        "startDate": "2026-11-05T14:00:00.000Z",
+        "keys": [
+          "ibw-luma-evt-ejzwupm0d19cqz8",
+          "page:zkfriends:2026-11-05",
+          "luma:evt-ejzwupm0d19cqz8",
+          "luma-url:/hgkcvozg",
+          "event:zeroknowledgeactualfriendsprivacyzkwalk:2026-11-05:mumbai"
+        ]
+      },
+      {
+        "id": "discovery-evt-7zy6MxoDBJx7klg",
+        "slug": "mastering-bitcoin-mb-cohort-season-8-orientation-session",
+        "name": "Mastering Bitcoin (MB) Cohort - Season 8 - Orientation Session",
+        "startDate": "2026-11-05T14:30:00.000Z",
+        "keys": [
+          "discovery-evt-7zy6mxodbjx7klg",
+          "page:mastering-bitcoin-mb-cohort-season-8-orientation-session:2026-11-05",
+          "luma:evt-7zy6mxodbjx7klg",
+          "luma-url:/qito7z0l",
+          "event:masteringbitcoinmbcohortseason8orientationsession:2026-11-05:"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-28:morning"
   }
 }
