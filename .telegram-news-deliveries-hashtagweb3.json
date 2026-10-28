@@ -2416,5 +2416,37 @@
     "slotKey": "2026-10-28:morning",
     "messageId": 155960,
     "sentAt": "2026-10-28T03:49:17.687Z"
+  },
+  "2d64cb57-d3f3-4b8c-a5ca-ca9f5808ce57": {
+    "status": "reserved",
+    "reservedAt": "2026-10-28T11:52:22.439Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Akash Network votes on migrating from Cosmos to Solana",
+        "summary": "Proposal 346 would create a one-way portal for AKT on Solana, with marketplace migration decided in a later vote.",
+        "link": "https://hashtagweb3.com/akash?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Akash Opens Vote to Move Its Network From Cosmos to Solana"
+      },
+      {
+        "index": 9,
+        "headline": "Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin",
+        "summary": "The agency issued A2 long-term and P-1 short-term ratings based on the credit quality of the reserve assets.",
+        "event_rationale": "This is the first major credit rating for this stablecoin, providing institutional-grade validation of its reserve management.",
+        "link": "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969",
+        "source": "The Block",
+        "originalTitle": "Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin"
+      },
+      {
+        "index": 1,
+        "headline": "Bitcoin rises past $81,000 following Asian chip stock gains",
+        "summary": "The cryptocurrency reached $81,400 while the pepe memecoin increased by 9% in value.",
+        "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
+        "source": "CoinDesk",
+        "originalTitle": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%"
+      }
+    ],
+    "slotKey": "2026-10-28:afternoon"
   }
 }
