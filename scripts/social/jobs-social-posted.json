@@ -70288,7 +70288,8 @@
       },
       "account": "channel:defi",
       "attemptId": "41aa2617-ae48-4dc8-a83e-745f90e4f359",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x93db075f34b03791c1a8b295d86b38addabbe296"
     }
   ]
 }
