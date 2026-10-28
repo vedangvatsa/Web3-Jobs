@@ -69131,6 +69131,41 @@
       "attemptId": "410a3160-2140-4c25-ac83-f248bb555097",
       "verification": "verified",
       "postId": "0xc051ec8a985295d264cd1ea1f6382d4292a3d78a"
+    },
+    {
+      "slug": "eve2",
+      "company": "Sardine",
+      "title": "Events Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-28T19:33:30.716Z",
+      "expectedText": "Sardine is hiring Events Lead\n\nhttps://hashtagweb3.com/eve2/fc?og=7",
+      "snapshot": {
+        "id": "46511827-37d8-4b0f-8491-5c808e70e830",
+        "title": "Events Lead",
+        "company": "Sardine",
+        "link": "https://jobs.ashbyhq.com/Sardine/46511827-37d8-4b0f-8491-5c808e70e830",
+        "date": "2026-10-16T16:12:24.825+00:00",
+        "source": "Ashby: Sardine [Sardine]",
+        "location": "Remote (United States)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Marketing",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eve2"
+      },
+      "payload": {
+        "text": "Sardine is hiring Events Lead\n\nhttps://hashtagweb3.com/eve2/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eve2/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "6d1eb52b-cfd3-48d4-9914-799f379d17d1",
+      "verification": "creating"
     }
   ]
 }
