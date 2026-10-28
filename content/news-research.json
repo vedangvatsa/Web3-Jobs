@@ -98613,11 +98613,33 @@
       ],
       "alsoCoveredBy": [],
       "id": "f73a1c7235e439f04dff",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-30T23:42:23.000Z",
-      "lastSeenAt": "2026-10-28T03:43:47.836Z"
+      "lastSeenAt": "2026-10-28T03:43:47.836Z",
+      "reason": "source-blocked",
+      "note": "Read Crypto Briefing's report on the Solflare staking-provider incident. The Solflare X announcement and The Defiant follow-up (which cites ~1.56M SOL staked) could not be read: X serves a JS shell and The Defiant returns HTTP 403 to both WebFetch and curl with the readiness UA. Need a second readable independent outlet beyond Crypto Briefing before drafting.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/solflare-staking-provider-security-incident-rewards/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/security/solflare-validator-stops-earning-rewards-after-provider-security-incident",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://x.com/solflare/status/2115223521395896530",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-28T04:52:36.725Z",
+      "retrySearches": [
+        "Find a second independent readable report on the Solflare staking provider security incident of Oct 27 2026, ideally with the staked SOL figure and Solflare's compensation plan"
+      ],
+      "lastReviewedDay": "2026-10-28",
+      "nextReviewDate": "2026-10-29"
     },
     "8bf9fd870e2f7b2b906a": {
       "source": "Unchained",
@@ -179186,6 +179208,29 @@
           ],
           "reviewedAt": "2026-10-28T04:51:15.169Z",
           "articleSlug": "cftcutah"
+        },
+        "f73a1c7235e439f04dff": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Crypto Briefing's report on the Solflare staking-provider incident. The Solflare X announcement and The Defiant follow-up (which cites ~1.56M SOL staked) could not be read: X serves a JS shell and The Defiant returns HTTP 403 to both WebFetch and curl with the readiness UA. Need a second readable independent outlet beyond Crypto Briefing before drafting.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/solflare-staking-provider-security-incident-rewards/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/security/solflare-validator-stops-earning-rewards-after-provider-security-incident",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://x.com/solflare/status/2115223521395896530",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-28T04:52:36.725Z",
+          "retrySearches": [
+            "Find a second independent readable report on the Solflare staking provider security incident of Oct 27 2026, ideally with the staked SOL figure and Solflare's compensation plan"
+          ]
         }
       },
       "baselineSlugs": [
