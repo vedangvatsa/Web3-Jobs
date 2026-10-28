@@ -68918,6 +68918,39 @@
       "postId": "18055349975814829",
       "permalink": "https://www.threads.com/@hashtagweb3/post/DfDMYI2iR0i",
       "account": "hashtagweb3"
+    },
+    {
+      "slug": "eve2",
+      "company": "Sardine",
+      "title": "Events Lead",
+      "platform": "bluesky",
+      "postedAt": "2026-10-28T19:33:30.716Z",
+      "expectedText": "Sardine is hiring Events Lead: https://hashtagweb3.com/eve2/bsky?og=7",
+      "snapshot": {
+        "id": "46511827-37d8-4b0f-8491-5c808e70e830",
+        "title": "Events Lead",
+        "company": "Sardine",
+        "link": "https://jobs.ashbyhq.com/Sardine/46511827-37d8-4b0f-8491-5c808e70e830",
+        "date": "2026-10-16T16:12:24.825+00:00",
+        "source": "Ashby: Sardine [Sardine]",
+        "location": "Remote (United States)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Marketing",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eve2"
+      },
+      "payload": {
+        "text": "Sardine is hiring Events Lead: https://hashtagweb3.com/eve2/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/eve2/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/eve2.png?v=7",
+        "company": "Sardine",
+        "title": "Events Lead",
+        "description": "Join Sardine as Events Lead. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "2f80264e-af11-4efe-9dc1-bb5f1603faaf",
+      "verification": "creating"
     }
   ]
 }
