@@ -66947,7 +66947,8 @@
       },
       "account": "channel:product",
       "attemptId": "96bed0b0-776f-408c-baa9-d3cd33dbabac",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5d927e0661aa6d308bca62fd8187ffb6c6523c3a"
     }
   ]
 }
