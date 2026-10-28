@@ -67138,7 +67138,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "abdcf846-dd87-40a5-9292-4f81590ec30c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7521055931103641601"
     }
   ]
 }
