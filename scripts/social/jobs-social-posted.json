@@ -68150,7 +68150,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "a42a114c-19d2-466b-95c0-e8115ca7b0b4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf2b9c5891f25e5370b94aecb97824bdecd5eba31"
     }
   ]
 }
