@@ -94351,22 +94351,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "abb1b13f26837ba28fe2",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-27T03:42:12.136Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-29T17:46:09.000Z",
       "lastSeenAt": "2026-10-27T03:42:12.136Z",
-      "reason": "duplicate",
-      "note": "Cointelegraph covers the same NBA CFTC memorandum and Kalshi/Polymarket preferred-exchange designations already reported in nba.",
+      "reason": "quality-gate",
+      "note": "Cointelegraph is readable and covers the same NBA CFTC memorandum and Kalshi/Polymarket preferred-exchange designations, but the nba article draft was staged out after failing the word-count gate and no longer exists to anchor a duplicate rejection. Repair or redraft the NBA-CFTC story first, then re-review this lead as a duplicate of the restored article.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal",
           "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-27T04:05:59.552Z",
+      "reviewedAt": "2026-10-28T04:38:10.641Z",
       "duplicateOf": "nba",
-      "lastReviewedDay": "2026-10-27"
+      "lastReviewedDay": "2026-10-28",
+      "retrySearches": [
+        "Repair the staged-out nba draft against its original CFTC and NBA.com sources so it passes the 600-word gate, then re-review this Cointelegraph lead as a duplicate"
+      ],
+      "nextReviewDate": "2026-10-29"
     },
     "59bf51332a108fcf854b": {
       "source": "The Block",
@@ -179001,6 +179009,25 @@
           "reviewedAt": "2026-10-28T04:38:06.862Z",
           "retrySearches": [
             "Repair the staged-out nba draft against its original CFTC and NBA.com sources so it passes the 600-word gate, then re-review this Decrypt lead as a duplicate"
+          ]
+        },
+        "abb1b13f26837ba28fe2": {
+          "status": "deferred",
+          "reason": "quality-gate",
+          "note": "Cointelegraph is readable and covers the same NBA CFTC memorandum and Kalshi/Polymarket preferred-exchange designations, but the nba article draft was staged out after failing the word-count gate and no longer exists to anchor a duplicate rejection. Repair or redraft the NBA-CFTC story first, then re-review this lead as a duplicate of the restored article.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-28T04:38:10.641Z",
+          "retrySearches": [
+            "Repair the staged-out nba draft against its original CFTC and NBA.com sources so it passes the 600-word gate, then re-review this Cointelegraph lead as a duplicate"
           ]
         }
       },
