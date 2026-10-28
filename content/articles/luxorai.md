@@ -1,0 +1,28 @@
+---
+title: Luxor Raises $16 Million to Expand AI Compute Business
+ogTitle: "LUXOR RAISES $16 MILLION TO EXPAND AI COMPUTE BUSINESS"
+description: Bitcoin mining firm Luxor closed a $16 million strategic round led by CMT Digital to scale its agentic cloud platform, hardware brokerage and compute derivatives desk.
+image: /images/news/luxorai.jpg
+imageCaption: "Racks of Bitcoin mining machines at a facility operated by Argo Blockchain in Mirabel, Canada. Photo: MikeBogosian via Wikimedia Commons (CC BY-SA 4.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Argo_Blockchain_Mirabel_Facility.jpg
+category: News
+data-ai-hint: bitcoin mining hardware racks
+publishedDate: '2026-10-28'
+lastUpdated: '2026-10-28'
+---
+
+Luxor Technology raised $16 million in a strategic round led by CMT Digital, with participation from mining-hardware makers Canaan and MicroBT, as well as Halo, Steelhead and angel investors, the company announced on Oct. 27. The round mixes primary and secondary capital, and Luxor described each backer as an operating partner already embedded in the compute supply chain it serves, spanning hardware, capital and power, according to [the press release](https://www.prnewswire.com/news-releases/luxor-technology-raises-16-million-strategic-round-led-by-cmt-digital-to-scale-ai-compute-trading-and-hardware-302920538.html).
+
+The Seattle-based company runs a Bitcoin mining stack covering energy, hardware, software and trading. It launched Luxor AI in September as a segment extending that stack into artificial intelligence and high-performance computing. Luxor said its hardware brokerage desk has traded $1 billion of ASIC machines, its energy arm services more than 75 megawatts of load across ERCOT and SPP, and its agentic cloud platform reached 1.8 million workloads year to date as of September, according to [the release](https://www.prnewswire.com/news-releases/luxor-technology-raises-16-million-strategic-round-led-by-cmt-digital-to-scale-ai-compute-trading-and-hardware-302920538.html).
+
+Luxor plans to use the funds in four areas: scaling the agentic cloud platform, providing working capital for the AI hardware business, expanding compute-derivative trading and market making, and hiring engineering and go-to-market staff. The hardware desk sources GPUs and AI servers through a tiered partner network. As a value-added reseller to major OEMs, the company said it can access abandoned orders, special allocations and used markets. That positioning responds to global supply chains for GPUs and chips that have become harder to navigate, the release said.
+
+CMT Digital is the venture arm of Chicago-based CMT Group, with nearly three decades of electronic trading and market-structure experience. Sam Hallene, a partner at the firm, said Luxor understands the energy and infrastructure behind compute and the financial tools customers need to manage risk. Hallene added that the team honed that skillset over eight years in the digital asset world and is seeing it carry over to AI. Luxor's over-the-counter desk already prices cash-settled options, forwards and backstops against compute-rental indexes, [Bitcoin Magazine noted](https://bitcoinmagazine.com/news/bitcoin-mining-firm-luxor-16-million). Those contracts let operators and buyers manage risk on what renting computing power costs.
+
+Canaan CEO Nangeng Zhang said his company is pursuing long-term power resources in North America as part of a compute-plus-energy infrastructure strategy, and that joining Luxor's cap table aligns with those goals. He called Luxor an important partner across Bitcoin mining and the energy industry. "Compute markets are converging: the same miners, power sites and capital that served digital mining are now powering AI," Luxor CEO and co-founder Nick Hansen said in the release. He said the company chose investors who operate in those markets so each part of the platform can strengthen.
+
+The raise fits a wider shift among Bitcoin miners toward AI computing. Public bitcoin miners had signed more than $70 billion in AI and high-performance computing contracts by the end of March, according to CoinShares data cited by Bitcoin Magazine. Analysts at VanEck and Bernstein have cast miners as unlikely power brokers in the AI race, given their rare access to the electricity and sites that data centers need, Decrypt reported. Some miners have signed billion-dollar hyperscaler deals; others have sold Bitcoin to fund the shift.
+
+Earlier this year Luxor unveiled [Commander](https://bitcoinmagazine.com/news/bitcoin-mining-firm-luxor-16-million), a fleet management platform for Bitcoin mining operators to monitor operations, manage energy use and optimize profitability from a single system. Integrated with existing infrastructure, the platform offers real-time fleet monitoring and remote machine controls, plus tools for adjusting to changing hashrate and electricity market conditions. According to [the release](https://www.prnewswire.com/news-releases/luxor-technology-raises-16-million-strategic-round-led-by-cmt-digital-to-scale-ai-compute-trading-and-hardware-302920538.html), Luxor's Bitcoin products span mining pool, ASIC firmware, hardware trading, hashrate derivatives, energy services and miner management software, while its AI products span hardware, compute, energy, derivatives and the Luxor AI platform. The release said Hashrate Index is the data and research platform across both suites.
+
+CMT Digital's electronic trading and market-structure disciplines are the same ones behind Luxor's hashrate and AI compute derivatives businesses, the release said. With the round closed, Luxor said it is positioned to scale that business as AI compute becomes a more tradable market.
