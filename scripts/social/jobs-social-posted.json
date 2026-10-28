@@ -66114,7 +66114,8 @@
       },
       "account": "channel:product",
       "attemptId": "a739466b-0ca5-414e-b54b-d2de628571b5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x670c827f7fa93d21541d5e353a6608218ee1626d"
     }
   ]
 }
