@@ -2364,7 +2364,7 @@
     "sentAt": "2026-10-27T19:33:11.461Z"
   },
   "c8eab70e-dfb1-4320-9197-0e18b96c11a7": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-28T03:46:02.376Z",
     "stories": [
       {
@@ -2396,6 +2396,8 @@
         "originalTitle": "The data center boom has an upside: innovation for the US grid"
       }
     ],
-    "slotKey": "2026-10-28:morning"
+    "slotKey": "2026-10-28:morning",
+    "messageId": 193411,
+    "sentAt": "2026-10-28T03:46:08.202Z"
   }
 }

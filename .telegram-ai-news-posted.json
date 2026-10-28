@@ -812,6 +812,9 @@
   "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
   "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
   "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+  "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+  "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+  "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2218,6 +2221,12 @@
   "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
   "Disruptive raises $10 billion fund for ten investments",
   "Disruptive raises $10B fund to make big bets on at least 10 companies",
+  "OpenAI sued over medical advice provided by chatbot",
+  "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+  "Opera introduces web standard for local AI deployment",
+  "Opera introduces a new web standard to let users deploy AI locally in their browser",
+  "AI data centers drive updates to the US power grid",
+  "The data center boom has an upside: innovation for the US grid",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2547,5 +2556,8 @@
   "fp:back|com|fewer|fold|gpus|grew14|half|help|indian|month",
   "fp:add|audio|consistency|control|doubl|enabl|genie4|googl|minut|mor",
   "fp:100m|build|cloud|comput|counter|disaster|financ|general|inferenc|infrastructur",
-  "fp:10b|back|bet|big|disruptiv|elevenlab|firm|follow|fund|groq"
+  "fp:10b|back|bet|big|disruptiv|elevenlab|firm|follow|fund|groq",
+  "fp:advic|alleg|chatbot|coach|daughter|gpt|instruct|lawsuit|medical|medication",
+  "fp:allow|bas|browser|cloud|connectivity|deploy|deployment|developer|directly|framework",
+  "fp:boom|center|data|demand|driv|electricity|exist|forc|grid|increas"
 ]
