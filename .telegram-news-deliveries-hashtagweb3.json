@@ -2383,5 +2383,36 @@
     "slotKey": "2026-10-27:evening",
     "messageId": 155955,
     "sentAt": "2026-10-27T19:35:56.001Z"
+  },
+  "870a17de-23eb-43a0-ab08-f13b6eaa1fd6": {
+    "status": "reserved",
+    "reservedAt": "2026-10-28T03:48:35.693Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "SEC Identifies Asset Tokenization as High-Risk for Clearing Agencies",
+        "summary": "The SEC included tokenized assets in its 2027 examination priorities for clearing agencies and Regulation SCI compliance.",
+        "link": "https://hashtagweb3.com/sectokenization?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEC Exam Priorities Name Tokenization a High-Risk Area at Clearing Agencies"
+      },
+      {
+        "index": -1,
+        "headline": "Robinhood receives Dubai license for 2027 regional launch",
+        "summary": "The company will offer trading and custody services for ten asset classes from its new Dubai headquarters.",
+        "link": "https://hashtagweb3.com/robinhooddubai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Robinhood wins Dubai license for 2027 Middle East launch"
+      },
+      {
+        "index": -1,
+        "headline": "Three Firms Notify SEC of Tokenized Stock Venue Plans",
+        "summary": "TSV LLC, OKXICE, and Kephas Corp informed regulators of their intent to operate venues for tokenized securities.",
+        "link": "https://hashtagweb3.com/secstocks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEC Names Three Operators Notifying It of Tokenized Stock Venue Plans"
+      }
+    ],
+    "slotKey": "2026-10-28:morning"
   }
 }
