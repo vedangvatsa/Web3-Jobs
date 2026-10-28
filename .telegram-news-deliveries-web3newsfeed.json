@@ -2516,5 +2516,36 @@
     "slotKey": "2026-10-28:morning",
     "messageId": 65783,
     "sentAt": "2026-10-28T03:49:48.274Z"
+  },
+  "257c5158-3233-47fd-a7a6-c878a20eb7b4": {
+    "status": "reserved",
+    "reservedAt": "2026-10-28T11:51:42.591Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "US Senator Requests Tether Records on Bo Hines Firm",
+        "summary": "Senator Blumenthal requested contracts, payments, and lobbying records from Tether and Nxum Group on October 22.",
+        "link": "https://hashtagweb3.com/tetherhines?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Senate investigator demands records of Tether payments to Bo Hines firm"
+      },
+      {
+        "index": -1,
+        "headline": "Trump to discuss international crypto scams at White House event",
+        "summary": "The October 21 meeting covers seizures of fraudulent investment websites and enforcement actions against foreign scam operations.",
+        "link": "https://hashtagweb3.com/trumpscam?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Trump to spotlight overseas crypto scams at White House cybercrime event"
+      },
+      {
+        "index": -1,
+        "headline": "Zcash developers schedule NU7 upgrade for November 5",
+        "summary": "The update reduces block times to 25 seconds and includes the Zebra 7.0.0 software release.",
+        "link": "https://hashtagweb3.com/zcashnu7?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Zcash developers lock Nov. activation height for NU7 upgrade"
+      }
+    ],
+    "slotKey": "2026-10-28:afternoon"
   }
 }
