@@ -1870,39 +1870,6 @@
       }
     ]
   },
-  "premier-agenticpay": {
-    "summaryLead": "Agentic Payments Onchain comes to Seoul on 28 September, right in the middle of Korea Blockchain Week, and the name tells you most of what you need to know. This is a working session about plumbing nobody shows off: how autonomous AI agents actually pay each other, settle up, and hold a balance on-chain. The host, t54, has spent its whole build cycle on exactly that problem.",
-    "sections": [
-      {
-        "heading": "When software holds the wallet",
-        "content": [
-          "Most payment conversations still assume a human clicks approve. Agents don't work that way. A procurement bot told to watch for concert tickets under a $500 budget doesn't ping you for confirmation at 3 a.m., it just buys - and that example is barely hypothetical, since t54's own demo material walks through an agent auto-purchasing event tickets within a set spending cap. Remove the human checkpoint and every assumption underneath card networks and checkout flows wobbles: identity, authorization, dispute handling, refunds.",
-          "That's the gap this session digs into. The x402 pattern - machines paying machines over HTTP with stablecoins - has moved from whitepaper to working code, and t54 maintains an open-source layer called x402-Secure that bolts verified identity, intent checks, and risk controls onto each payment. Whether that stack is ready for production traffic is precisely the kind of argument worth having in a room, not a comment thread."
-        ]
-      },
-      {
-        "heading": "Know Your Agent",
-        "content": [
-          "t54's flagship product is Trustline, described on the company's site as the trust layer institutional finance runs agents on. The published numbers give a sense of scale: more than 20 million transactions screened, over 41,000 agents put through KYA - know-your-agent - verification, and decision latency under five seconds. There's a live portal where you can watch decisions land in real time, complete with owner mandates and consensus scores.",
-          "It's worth noting the company treats its own house seriously too: SOC 2 Type II auditing is underway, data stays encrypted end to end with AES-256 at rest, and nothing gets used for model training unless you opt in. For compliance-minded attendees at Korea Blockchain Week, those details usually matter more than any roadmap slide."
-        ]
-      },
-      {
-        "heading": "Pricing trust, then lending against it",
-        "content": [
-          "The more interesting intellectual piece is t54's Agentic Risk Standard, a framework for quantifying and pricing trust in autonomous systems. Think of it as underwriting for agents: a principal sets requirements, an underwriter approves or declines, collateral gets locked, execution funds sit in escrow until conditions clear, and settlement either releases the money or refunds it depending on whether protection was in place from the start.",
-          "That machinery feeds Claw Credit, which t54 bills as the first agent-native credit line, underwritten by its own risk engine and already live on XRPL, Solana, and Base. An agent with a track record can tap credit to pay for compute or services while its owner's credentials stay private and spending stays fenced by guardrails. Expect discussion of where this breaks."
-        ]
-      },
-      {
-        "heading": "Who should actually show up",
-        "content": [
-          "Anyone building agent products that touch money will get the most out of it: wallet teams, exchange developers eyeing machine traffic, stablecoin issuers, and the growing pile of startups wiring LLMs to payment rails. The working-session framing suggests fewer panels and more whiteboarding, so come with concrete failure cases rather than pitch decks.",
-          "Seoul during Korea Blockchain Week is dense with competing events, but agentic commerce has reached the stage where details decide who ships - escrow logic, dispute paths, KYA standards. One focused day on those details beats a week of vague keynotes about the future of AI finance."
-        ]
-      }
-    ]
-  },
   "premier-finalityforum": {
     "summaryLead": "On 7 October, mid-TOKEN2049 week in Singapore, Ethene Labs convenes the Finality Forum - a single-day gathering on finality, restaking, and stablecoin infrastructure. Three topics that sound like a syllabus but function as one system: how quickly transactions become irreversible, how that security gets recycled and paid for, and how dollar rails ride on top of both.",
     "sections": [
@@ -2137,40 +2104,6 @@
         "content": [
           "Digital asset teams at banks evaluating tokenized deposits, payment companies wrestling with FX settlement, and regulators studying privacy-preserving compliance models form the obvious meeting list. Korean institutions in particular have been methodical about interbank pilots, and a working EVM chain with privacy nodes answers several questions they usually raise.",
           "Meetings during KBW book out fast, so reach out through rayls.com well ahead of the week. If you cannot secure a slot, the transparency portal and published documentation offer a reasonable substitute, though neither replaces watching a cross-border settlement complete in front of you."
-        ]
-      }
-    ]
-  },
-  "premier-connectseoul": {
-    "summaryLead": "CONNECT by Cointelegraph lands in Seoul on September 28, 2026, bringing the media outlet's forum format to Korea Blockchain Week for a day of panels, networking, and the particular energy of a newsroom playing host.",
-    "sections": [
-      {
-        "heading": "A publisher playing host",
-        "content": [
-          "Cointelegraph has covered this industry since 2013 and built one of the largest readerships in crypto media along the way, with daily market coverage, a magazine desk, and a research arm. CONNECT is the brand's move from reporting on the industry to convening it, running under the CT Connect banner alongside the company's accelerator and events operations.",
-          "That origin shapes the format. A media-led forum leans toward conversation over presentation: moderated panels with journalists pressing where sponsors' events go soft, interviews that borrow from the outlet's editorial instincts, and networking blocks designed to keep sources, founders, and investors circulating together. The Seoul edition, per the listing, pairs those panels with dedicated networking during KBW proper."
-        ]
-      },
-      {
-        "heading": "What the CONNECT format does differently",
-        "content": [
-          "Most conference programming optimizes for stage time; a publisher's event optimizes for narrative. Expect sessions built around arguments the outlet has been covering all year, institutional adoption, regulatory divergence across Asia, the intersection of AI and crypto, framed so panelists disagree usefully rather than recite talking points. For attendees, that means the content travels better afterward: you leave with positions to test, not brochures.",
-          "The networking layer deserves equal billing. Cointelegraph's editorial reach means the room skews toward people with something to announce, and the organization's adjacent operations, from its accelerator program to its events portfolio, feed founders and capital into the same hallways. September 28 runs 09:00 to 18:00, enough runway for substance without exhausting anyone before the evening's side-event circuit."
-        ]
-      },
-      {
-        "heading": "Seoul during KBW: crowded but worth it",
-        "content": [
-          "Korea Blockchain Week anchors the industry's autumn migration through Asia, and Seoul rewards the effort. The city pairs world-class transit with a food culture that turns every dinner into a negotiation opportunity, and the late-September weather is the best you will get all year. The density of concurrent events is real, though; plan your KBW calendar in advance or the week plans it for you.",
-          "Positioning CONNECT on September 28, the Monday of KBW week, makes it an effective opening move. Arrive with your week's targets already listed, use the forum to make first contact, and spend the following days converting hallway introductions into meetings."
-        ]
-      },
-      {
-        "heading": "Practical planning notes",
-        "content": [
-          "Registration and venue specifics route through Cointelegraph's official channels, so confirm attendance details there as the date approaches; KBW-season events regularly update locations in the final weeks. Budget time for the commute math between Gangnam venues, which during peak conference hours is less trivial than the map suggests.",
-          "Dress code thinking is worth thirty seconds too. Seoul's KBW crowd splits between exchange-formal and founder-casual, and a media-convened forum sits comfortably in the middle; smart casual covers every room you are likely to enter that day. Carry business cards anyway. The habit persists in Korean business culture more than almost anywhere else in tech.",
-          "Come prepared to introduce yourself quickly and specifically. Rooms convened by media brands reward people with a clear story: what you build, why now, and what you need. Have that answer rehearsed, then spend the day listening as much as pitching, because the journalists in the room remember good sources longer than good pitches."
         ]
       }
     ]

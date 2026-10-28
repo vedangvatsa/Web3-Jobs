@@ -1827,29 +1827,6 @@
     }
   },
   {
-    "id": "premier-agenticpay",
-    "slug": "apo",
-    "name": "Agentic Payments Onchain 2026",
-    "description": "## Agentic Payments Onchain\n\n> 행사는 한국어로 진행됩니다.\n>\n> The event is going to be conducted in Korean.\n\n[Ripple](https://ripple.com), [t54](https://t54.ai), [Tenity](https://www.tenity.com/), [Bloom](https://bloomworld.ai/community/)이 함께하는 KBW 공식 사이드 이벤트입니다.\n\n📅 2026.09.28 (월) 18:00–23:00 KST   📍 강남 (신청 승인 후 안내)   🎟 무료 · 승인제\n\n## 이런 분들을 환영합니다\n\n• [XRPL](https://xrpl.org) 및 온체인 AI 인프라에 관심 있는 빌더/개발자\n• Agentic payment, x402, MPP, AP2, ACP 등 machine to machine 결제 표준에 관심 있는 분\n• 자율 금융 에이전트(autonomous financial agent)의 보안 모델에 관심 있는 리서처/엔지니어\n• 블록체인과 t54 생태계 위에서 프로젝트를 구상 중인 빌더\n• 웹3 x AI 생태계 네트워킹을 희망하는 분\n\n직종 관련없이 위 항목 중 하나라도 해당된다면 모두 환영입니다.\n\n## 시간표\n\n18:00 – 19:00 · 입장, 다과 및 네트워킹\n\n19:00 – 19:15 · 오프닝\n\n• 오프닝: Joel Mun (Sr. Devrel, Ripple) (https://www.linkedin.com/in/7oelm/)\n• t54 소개: Claire Jung (APAC Regional Lead, t54) (https://www.linkedin.com/in/jiyeonclaire/)\n• Tenity 소개: Bomin Kim (Program Manager, Tenity) (https://www.linkedin.com/in/bomin-kim-54229518b/)\n\n19:15 – 19:35 · t54 x XRPL 데모\n\n• Chandler Fang (Founder, t54) (https://www.linkedin.com/in/znfang/)\n\n19:35 – 20:20 · 패널 토론 (모더레이터: [Joel Mun](https://www.linkedin.com/in/7oelm/))\n\n패널\n\n• [Jungyong Um](https://www.linkedin.com/in/jungyong-um/), [Web3 Dev & AI TF Lead, DSRV](https://www.dsrv.com/en)\n• [Junhyeok Yoo](https://www.linkedin.com/in/junhyeok-yoo-b6727a215/), [Researcher at Four Pillars](https://4pillars.io/en)\n• [Seonmin Yi](https://www.linkedin.com/in/claraysm/), 인하대학교 초빙교수, 재정경제부 전략경제자문단 AI Agent 커머스분과 위원, Future Works Lab 창립자\n\n아젠다\n\n• 블록체인상 agentic payment 아키텍처\n• Machine to machine 결제를 위한 신규 표준\n• 자율 금융 에이전트를 위한 보안 모델\n• AI native 경제를 위한 온체인 인프라\n• 실제 배포 사례와 향후 방향\n\n20:20 – 20:40 · Fireside chat (모더레이터: [Junshu Kim from Bloom](https://www.linkedin.com/in/junshu-kim-123508254/))\n\n• Suhan Cho (Head of Compliance, Next Securities) (https://www.linkedin.com/in/suhan-joshua-cho-5a0598174/)\n\n카카오뱅크 법무와 UPRISE 최고법률책임자를 거쳐, 현재 넥스트증권에서 컴플라이언스본부장 겸 준법감시인을 맡고 있습니다.\n\n• 에이전트 신원과 위임 권한\n• 지출 권한과 책임 소재\n• 규제 공백\n\n20:40 – 23:00 · 자유 네트워킹\n\n## 안내\n\n• 신청 · 별도 참가비는 없습니다. 선착순으로 마감될 수 있습니다. 승인은 행사 전에 순차적으로 진행될 예정입니다.\n• 장소 · 강남 근처입니다. 사인업 후 장소를 확인하실 수 있습니다.\n• 식사 · 한식 도시락이 준비되어 있습니다.\n\n## About Bloom\n\nBloom은 AI 얼리어답터를 위한 커뮤니티입니다. 4월부터 서른다섯 번 넘는 행사를 열었고, 지금까지 7,500명 이상이 밋업에 함께했습니다. 디스코드 (https://discord.gg/aXrYNGZM3J?utm_source=luma)에서 함께해요.\n\n## About Tokenpost (Media Partner)\n\n토큰포스트 (https://www.tokenpost.kr/)는 블록체인·암호화폐 시장의 흐름을 빠르게 전하는 디지털 자산 전문 미디어입니다. 실시간 속보부터 시세, 리서치, AI 인사이트까지 한곳에서 만나보세요.",
-    "startDate": "2026-09-28T09:00:00.000Z",
-    "endDate": "2026-09-28T18:00:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "Seoul, South Korea",
-    "url": "https://t54.ai",
-    "website": "https://t54.ai",
-    "coverImage": "/events/agentic.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "descriptionSource": {
-      "url": "https://luma.com/mw84pfjm",
-      "fetchedAt": "2026-09-19T23:29:49.798Z",
-      "method": "matched-organizer-record",
-      "pageTitle": "Agentic Payments Onchain",
-      "sha256": "db0818c5f9169b6f24c5b417a01f084a029e576e45654272b6bba194cd62d8c7"
-    }
-  },
-  {
     "id": "premier-finalityforum",
     "slug": "finality-forum-2026",
     "name": "Finality Forum @ Token2049 SG 2026",

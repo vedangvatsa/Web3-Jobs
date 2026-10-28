@@ -2786,5 +2786,42 @@
       "token2049-2b130b120803646d",
       "lpgp-relations"
     ]
+  },
+  "premier-agenticpay": {
+    "until": "2027-10-28T19:35:49.951Z",
+    "slugs": [
+      "premier-agenticpay",
+      "agenticpay",
+      "apo"
+    ]
+  },
+  "luma-batch-evtiYvofCpeYddHE": {
+    "until": "2027-10-28T19:35:49.951Z",
+    "slugs": [
+      "luma-batch-evtiyvofcpeyddhe",
+      "trust_circle_ai_privacy"
+    ]
+  },
+  "luma-batch-evtKOBUaBQ6NSep0": {
+    "until": "2027-10-28T19:35:49.951Z",
+    "slugs": [
+      "luma-batch-evtkobuabq6nsep0",
+      "t9cf5j2t"
+    ]
+  },
+  "luma-batch-evtFmEMuo9lBt19e": {
+    "until": "2027-10-28T19:35:49.951Z",
+    "slugs": [
+      "luma-batch-evtfmemuo9lbt19e",
+      "executivedinneratcvsummit"
+    ]
+  },
+  "premier-connectseoul": {
+    "until": "2027-10-28T19:35:49.951Z",
+    "slugs": [
+      "premier-connectseoul",
+      "connectseoul",
+      "connect"
+    ]
   }
 }

@@ -7870,65 +7870,6 @@
     }
   },
   {
-    "id": "luma-batch-evtiYvofCpeYddHE",
-    "slug": "trust_circle_ai_privacy",
-    "name": "Trust Circle - AI & Privacy",
-    "description": "On September 28th, 2026, Trust Circle will bring together an exclusive community of global leaders, innovators, investors, and policymakers in Zurich, Switzerland, on the sidelines of the Zurich Film Festival.\n\nThis curated gathering will explore the future of Artificial Intelligence, privacy-preserving technologies, digital sovereignty, and responsible innovation at the intersection of Web3 and global finance.\n\nDate: September 28th, 2026\nTime: 15:00 – 20:00 Conference & Networking\nLocation: Mandarin Oriental Savoy, Zurich, Switzerland\nTopic: Artificial Intelligence & Privacy\nFormat: Content & Networking\nGuests: Up to 120 selected participants\n\nThe day will feature keynotes, panel discussions, and fireside chats, combined with high-quality networking opportunities designed to foster meaningful conversations and valuable connections among leading voices shaping the future of technology.\n\nWe are excited to announce the first speakers joining us at the iconic Mandarin Oriental Savoy:\n\nAlex Tai · Black Circle Wealth Management · Executive Chairman & Co-Founder\n\nAmit Pradhan · Rainfall · Founder & CEO\n\nAriel Barack · Single Family Office & Ana Wealth · Head & Director\n\nBernd Lapp · Old School AG · Founding Board Member\n\nBrett Krause · Transcend Fund · Cofounding General Partner\n\nChristian Di Giorgio · inacta · Head of Solutions\n\nDalith Steiger-Gablinger · SwissCognitive · Independent Board Member\n\nDr. Daniel Diemers · SNGLR Group · Co-Founder & Managing Partner\n\nFabio Schlaf · Trust Square · Head of Ecosystem Development\n\nGuido Schmitz-Krummacher · Onchain Foundation / Multiple Board Member · Managing Director\n\nMyles Milston · Alpaca · GM, Market Data\n\nKamal Youssefi · Hashgraph Ventures · Co-Founder & Executive Chairman\n\nOliver Spring · QORE · Founder & CEO\n\nRalf Glabischnig · Inacta Ventures · Founder\n\nSilvan Jongerius · TechGDPR · Managing Partner\n\nStefan Kern · Castellan Intelligence · Co-Founder & CEO",
-    "startDate": "2026-09-28T13:00:00.000Z",
-    "endDate": "2026-09-28T18:00:00.000Z",
-    "city": "Zürich",
-    "country": "Switzerland",
-    "location": "Mandarin Oriental Savoy, Zurich, Mandarin Oriental Savoy, Zurich, Poststrasse 12, 8001 Zürich, Switzerland",
-    "url": "https://luma.com/trust_circle_ai_privacy",
-    "registrationUrl": "https://luma.com/trust_circle_ai_privacy",
-    "coverImage": "/events/luma-batch-evtiYvofCpeYddHE-0978fb59.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Trust Square"
-    ],
-    "timezone": "Europe/Zurich",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "conference",
-    "sourceVerification": {
-      "url": "https://luma.com/trust_circle_ai_privacy",
-      "eventId": "evt-iYvofCpeYddHEGd",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtKOBUaBQ6NSep0",
-    "slug": "t9cf5j2t",
-    "name": "BITCOIN: Now or never",
-    "description": "Where Bitcoin goes next could change everything.\n\nAfter years of debate, Bitcoin has moved from the fringe to the center of institutional finance - but the next phase is where the real stakes lie. Spot ETFs, sovereign accumulation, and bank-grade custody are colliding with Bitcoin's original promise of decentralization. The question is no longer if Bitcoin matters, but what kind of financial system it ends up powering.\n\nJoin CryptoMondays Zürich for a sharp panel exploring:\n\n✅ Is this Bitcoin's institutional tipping point, or another cycle top?\n✅ Can Bitcoin stay decentralized as banks become its biggest custodians?\n✅ What does trustworthy, blockchain-verified AI have to do with Bitcoin's future?\n✅ Are Swiss banks ready to compete globally on digital assets?\n\n🎤 Speakers:\n\nJean-Marc Seigneur – Director of the CAS Blockchain at University of Geneva. PhD in Computer Science (Trinity College Dublin), author of 150+ peer-reviewed publications on decentralized trust, now focused on trustworthy AI via blockchain and human time tokens.\n\nPatrick Heusser – Head of Lending & TradFi Markets at Sentora. Former UBS interest rate trader and portfolio manager, now bridging traditional fixed income expertise with crypto asset trading.\n\nPascal Hügli – Investment Manager at Maerki Baumann & Co. AG. Lecturer on digital finance at HWZ Hochschule für Wirtschaft Zürich, host of Less Noise More Signal, and founder of a Bitcoin/DeFi/Web3 content agency.\n\nEvent Details:\n\n📅 Monday, 28 September 2026\n📍 Tenity Office, Pfingstweidstrasse 110, 8005 Zürich\n\n18:30 Doors open\n19:00 Panel & discussion\n20:00 Networking\n21:00 Finish\n\n👥 For builders, investors, institutions & curious minds shaping digital finance.\n\n🙏 Thanks to Tenity & Bitget for supporting this event.\n\n📲 Follow Us: LinkedIn | Twitter\n\n🚀 Spread the Word\n🔁 Share with your Web3, Crypto & Blockchain network\n📢 Hashtags: #CryptoMondaysZurich #Bitcoin #NowOrNever\n\n🛠 Hosted by CryptoMondays Zurich: Aliya, Luis, Alex, Maria, Gio, Laura & Robin\n\n⚠️ By attending you consent to receiving event updates via email. The event will be photographed & recorded for promotional purposes.",
-    "startDate": "2026-09-28T16:30:00.000Z",
-    "endDate": "2026-09-28T19:00:00.000Z",
-    "city": "Zürich",
-    "country": "Switzerland",
-    "location": "Pfingstweidstrasse 110, Pfingstweidstrasse 110, 8005 Zürich, Switzerland",
-    "url": "https://luma.com/t9cf5j2t",
-    "registrationUrl": "https://luma.com/t9cf5j2t",
-    "coverImage": "/events/luma-batch-evtKOBUaBQ6NSep0-b1e42891.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "CryptoMondays Zurich"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Zurich",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/t9cf5j2t",
-      "eventId": "evt-KOBUaBQ6NSep0Jl",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtH3n2c6lGgtyYz",
     "slug": "0trrx4ie",
     "name": "Institutional Breakfast with Binance & Women in Web3 Switzerland",
@@ -7953,36 +7894,6 @@
     "sourceVerification": {
       "url": "https://luma.com/0trrx4ie",
       "eventId": "evt-H3n2c6lGgtyYz5k",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtFmEMuo9lBt19e",
-    "slug": "executivedinneratcvsummit",
-    "name": "Executive Digital Assets Dinner @ CV Summit",
-    "description": "An Invite-Only Dinner for Digital Assets & Financial Leaders at a Lakeside Restaurant in Zurich during CV Summit\n\nWe look forward to welcoming you to this invite-only dinner hosted by Halborn before Day 1 of CV Summit, bringing together leaders from banking, digital assets, and financial institutions for an evening of conversation at a Michelin-starred lakeside restaurant in Zurich.\n\nHost\n\nHalborn is the industry-leading digital asset security solutions firm trusted by the largest banks and financial institutions.\n\nWorld-class, end-to-end security, from custody advisory, smart contract auditing and pen testing to compliance readiness technical due diligence and beyond.\n\nVenue\n\nEden Kitchen\n\n📍 Located inside La Réserve Eden au Lac in Zurich",
-    "startDate": "2026-09-28T17:00:00.000Z",
-    "endDate": "2026-09-28T19:00:00.000Z",
-    "city": "Zürich",
-    "country": "Switzerland",
-    "location": "Zürich, Zürich, Switzerland",
-    "url": "https://luma.com/executivedinneratcvsummit",
-    "registrationUrl": "https://luma.com/executivedinneratcvsummit",
-    "coverImage": "/events/luma-batch-evtFmEMuo9lBt19e-2e0ffd74.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Zurich",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "summit",
-    "sourceVerification": {
-      "url": "https://luma.com/executivedinneratcvsummit",
-      "eventId": "evt-FmEMuo9lBt19e93",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

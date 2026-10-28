@@ -21,94 +21,6 @@ Octaloop's India Blockchain & AI Tour 2026 is the fifth edition of a national ev
 
 Each city has its own registration route. The main tour page describes the series as a whole rather than a confirmed session program for every stop. Select the relevant city and verify its date, venue and ticket conditions before attending.
 
-<a id="event-0c48017538f0de2a"></a>
-
-## Agentic Payments Onchain 2026
-
-- Record: `premier-agenticpay`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-28T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://t54.ai>
-
-### Agentic Payments Onchain
-
-> 행사는 한국어로 진행됩니다.
-
->
-
-> The event is going to be conducted in Korean.
-
-[Ripple](https://ripple.com), [t54](https://t54.ai), [Tenity](https://www.tenity.com/), [Bloom](https://bloomworld.ai/community/)이 함께하는 KBW 공식 사이드 이벤트입니다.
-
-2026.09.28 (월) 18:00-23:00 KST 강남 (신청 승인 후 안내) 무료 - 승인제
-
-### 이런 분들을 환영합니다
-
-- [XRPL](https://xrpl.org) 및 온체인 AI 인프라에 관심 있는 빌더/개발자
-- Agentic payment, x402, MPP, AP2, ACP 등 machine to machine 결제 표준에 관심 있는 분
-- 자율 금융 에이전트(autonomous financial agent)의 보안 모델에 관심 있는 리서처/엔지니어
-- 블록체인과 t54 생태계 위에서 프로젝트를 구상 중인 빌더
-- 웹3 x AI 생태계 네트워킹을 희망하는 분
-
-직종 관련없이 위 항목 중 하나라도 해당된다면 모두 환영입니다.
-
-### 시간표
-
-18:00 - 19:00 - 입장, 다과 및 네트워킹
-
-19:00 - 19:15 - 오프닝
-
-- 오프닝: Joel Mun (Sr. Devrel, Ripple) (https://www.linkedin.com/in/7oelm/)
-- t54 소개: Claire Jung (APAC Regional Lead, t54) (https://www.linkedin.com/in/jiyeonclaire/)
-- Tenity 소개: Bomin Kim (Program Manager, Tenity) (https://www.linkedin.com/in/bomin-kim-54229518b/)
-
-19:15 - 19:35 - t54 x XRPL 데모
-
-- Chandler Fang (Founder, t54) (https://www.linkedin.com/in/znfang/)
-
-19:35 - 20:20 - 패널 토론 (모더레이터: [Joel Mun](https://www.linkedin.com/in/7oelm/))
-
-패널
-
-- [Jungyong Um](https://www.linkedin.com/in/jungyong-um/), [Web3 Dev & AI TF Lead, DSRV](https://www.dsrv.com/en)
-- [Junhyeok Yoo](https://www.linkedin.com/in/junhyeok-yoo-b6727a215/), [Researcher at Four Pillars](https://4pillars.io/en)
-- [Seonmin Yi](https://www.linkedin.com/in/claraysm/), 인하대학교 초빙교수, 재정경제부 전략경제자문단 AI Agent 커머스분과 위원, Future Works Lab 창립자
-
-아젠다
-
-- 블록체인상 agentic payment 아키텍처
-- Machine to machine 결제를 위한 신규 표준
-- 자율 금융 에이전트를 위한 보안 모델
-- AI native 경제를 위한 온체인 인프라
-- 실제 배포 사례와 향후 방향
-
-20:20 - 20:40 - Fireside chat (모더레이터: [Junshu Kim from Bloom](https://www.linkedin.com/in/junshu-kim-123508254/))
-
-- Suhan Cho (Head of Compliance, Next Securities) (https://www.linkedin.com/in/suhan-joshua-cho-5a0598174/)
-
-카카오뱅크 법무와 UPRISE 최고법률책임자를 거쳐, 현재 넥스트증권에서 컴플라이언스본부장 겸 준법감시인을 맡고 있습니다.
-
-- 에이전트 신원과 위임 권한
-- 지출 권한과 책임 소재
-- 규제 공백
-
-20:40 - 23:00 - 자유 네트워킹
-
-### 안내
-
-- 신청 - 별도 참가비는 없습니다. 선착순으로 마감될 수 있습니다. 승인은 행사 전에 순차적으로 진행될 예정입니다.
-- 장소 - 강남 근처입니다. 사인업 후 장소를 확인하실 수 있습니다.
-- 식사 - 한식 도시락이 준비되어 있습니다.
-
-### About Bloom
-
-Bloom은 AI 얼리어답터를 위한 커뮤니티입니다. 4월부터 서른다섯 번 넘는 행사를 열었고, 지금까지 7,500명 이상이 밋업에 함께했습니다. 디스코드 (https://discord.gg/aXrYNGZM3J?utm_source=luma)에서 함께해요.
-
-### About Tokenpost (Media Partner)
-
-토큰포스트 (https://www.tokenpost.kr/)는 블록체인-암호화폐 시장의 흐름을 빠르게 전하는 디지털 자산 전문 미디어입니다. 실시간 속보부터 시세, 리서치, AI 인사이트까지 한곳에서 만나보세요.
-
 <a id="event-8d16441287a5e30a"></a>
 
 ## Ethereum Korea One 2026
@@ -26079,70 +25991,6 @@ Four ticket tiers are listed: Non-Profit & Student for US$295, General Admission
 
 Hosted by Rizzo, Timothy Kotzman (host of The Bitcoin Treasuries Podcast) and Ed Juline (Bitcoin Treasuries Media).
 
-<a id="event-7b47de5eaf30d2e1"></a>
-
-## Trust Circle - AI & Privacy
-
-- Record: `luma-batch-evtiYvofCpeYddHE`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-28T13:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/trust_circle_ai_privacy>
-
-### About the event
-
-On September 28th, 2026, Trust Circle will bring together an exclusive community of global leaders, innovators, investors, and policymakers in Zurich, Switzerland, on the sidelines of the Zurich Film Festival.
-
-This curated gathering will explore the future of Artificial Intelligence, privacy-preserving technologies, digital sovereignty, and responsible innovation at the intersection of Web3 and global finance.
-
-Date: September 28th, 2026
-
-Time: 15:00 - 20:00 Conference & Networking
-
-Location: Mandarin Oriental Savoy, Zurich, Switzerland
-
-Topic: Artificial Intelligence & Privacy
-
-Format: Content & Networking
-
-Guests: Up to 120 selected participants
-
-The day will feature keynotes, panel discussions, and fireside chats, combined with high-quality networking opportunities designed to foster meaningful conversations and valuable connections among leading voices shaping the future of technology.
-
-We are excited to announce the first speakers joining us at the iconic Mandarin Oriental Savoy:
-
-Alex Tai - Black Circle Wealth Management - Executive Chairman & Co-Founder
-
-Amit Pradhan - Rainfall - Founder & CEO
-
-Ariel Barack - Single Family Office & Ana Wealth - Head & Director
-
-Bernd Lapp - Old School AG - Founding Board Member
-
-Brett Krause - Transcend Fund - Cofounding General Partner
-
-Christian Di Giorgio - inacta - Head of Solutions
-
-Dalith Steiger-Gablinger - SwissCognitive - Independent Board Member
-
-Dr. Daniel Diemers - SNGLR Group - Co-Founder & Managing Partner
-
-Fabio Schlaf - Trust Square - Head of Ecosystem Development
-
-Guido Schmitz-Krummacher - Onchain Foundation / Multiple Board Member - Managing Director
-
-Myles Milston - Alpaca - GM, Market Data
-
-Kamal Youssefi - Hashgraph Ventures - Co-Founder & Executive Chairman
-
-Oliver Spring - QORE - Founder & CEO
-
-Ralf Glabischnig - Inacta Ventures - Founder
-
-Silvan Jongerius - TechGDPR - Managing Partner
-
-Stefan Kern - Castellan Intelligence - Co-Founder & CEO
-
 <a id="event-2843a0aa00c2b2ae"></a>
 
 ## Exploit Summit 2026
@@ -26439,70 +26287,6 @@ All applications are reviewed.
 
 For questions, please contact: mail@blockstories.io
 
-<a id="event-2a5cd564fd0fb945"></a>
-
-## BITCOIN: Now or never
-
-- Record: `luma-batch-evtKOBUaBQ6NSep0`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-28T16:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/t9cf5j2t>
-
-### About the event
-
-Where Bitcoin goes next could change everything.
-
-After years of debate, Bitcoin has moved from the fringe to the center of institutional finance - but the next phase is where the real stakes lie. Spot ETFs, sovereign accumulation, and bank-grade custody are colliding with Bitcoin's original promise of decentralization. The question is no longer if Bitcoin matters, but what kind of financial system it ends up powering.
-
-Join CryptoMondays Zürich for a sharp panel exploring:
-
-Is this Bitcoin's institutional tipping point, or another cycle top?
-
-Can Bitcoin stay decentralized as banks become its biggest custodians?
-
-What does trustworthy, blockchain-verified AI have to do with Bitcoin's future?
-
-Are Swiss banks ready to compete globally on digital assets?
-
-### Speakers
-
-Jean-Marc Seigneur - Director of the CAS Blockchain at University of Geneva. PhD in Computer Science (Trinity College Dublin), author of 150+ peer-reviewed publications on decentralized trust, now focused on trustworthy AI via blockchain and human time tokens.
-
-Patrick Heusser - Head of Lending & TradFi Markets at Sentora. Former UBS interest rate trader and portfolio manager, now bridging traditional fixed income expertise with crypto asset trading.
-
-Pascal Hügli - Investment Manager at Maerki Baumann & Co. AG. Lecturer on digital finance at HWZ Hochschule für Wirtschaft Zürich, host of Less Noise More Signal, and founder of a Bitcoin/DeFi/Web3 content agency.
-
-### Event Details
-
-Monday, 28 September 2026
-
-Tenity Office, Pfingstweidstrasse 110, 8005 Zürich
-
-18:30 Doors open
-
-19:00 Panel & discussion
-
-20:00 Networking
-
-21:00 Finish
-
-For builders, investors, institutions & curious minds shaping digital finance.
-
-Thanks to Tenity & Bitget for supporting this event.
-
-Follow Us: LinkedIn | Twitter
-
-Spread the Word
-
-Share with your Web3, Crypto & Blockchain network
-
-Hashtags: #CryptoMondaysZurich #Bitcoin #NowOrNever
-
-Hosted by CryptoMondays Zurich: Aliya, Luis, Alex, Maria, Gio, Laura & Robin
-
-By attending you consent to receiving event updates via email. The event will be photographed & recorded for promotional purposes.
-
 <a id="event-a423c6facbacf317"></a>
 
 ## Team1 Brasil Coworking Day: São Paulo
@@ -26538,34 +26322,6 @@ Programação do Evento
 22:00 - Encerramento
 
 Um dia para construir, aprender, colaborar e conectar.
-
-<a id="event-91a6609e6e293711"></a>
-
-## Executive Digital Assets Dinner @ CV Summit
-
-- Record: `luma-batch-evtFmEMuo9lBt19e`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-28T17:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/executivedinneratcvsummit>
-
-### About the event
-
-An Invite-Only Dinner for Digital Assets & Financial Leaders at a Lakeside Restaurant in Zurich during CV Summit
-
-We look forward to welcoming you to this invite-only dinner hosted by Halborn before Day 1 of CV Summit, bringing together leaders from banking, digital assets, and financial institutions for an evening of conversation at a Michelin-starred lakeside restaurant in Zurich.
-
-Host
-
-Halborn is the industry-leading digital asset security solutions firm trusted by the largest banks and financial institutions.
-
-World-class, end-to-end security, from custody advisory, smart contract auditing and pen testing to compliance readiness technical due diligence and beyond.
-
-### Venue
-
-Eden Kitchen
-
-Located inside La Réserve Eden au Lac in Zurich
 
 <a id="event-3fe1d621981d4bd5"></a>
 

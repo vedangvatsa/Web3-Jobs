@@ -6,12 +6,6 @@
     "endDate": "2027-04-16T19:00:00.000Z"
   },
   {
-    "id": "premier-connectseoul",
-    "slug": "connect",
-    "startDate": "2026-09-28T09:00:00.000Z",
-    "endDate": "2026-09-28T18:00:00.000Z"
-  },
-  {
     "id": "premier-connectsg",
     "slug": "connect1",
     "startDate": "2026-10-09T09:00:00.000Z",

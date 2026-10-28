@@ -596,30 +596,6 @@
     }
   },
   {
-    "name": "Agentic Payments Onchain 2026",
-    "url": "https://t54.ai",
-    "emails": [
-      "hr@t54.ai",
-      "press@t54.ai"
-    ],
-    "event": {
-      "id": "premier-agenticpay",
-      "slug": "apo",
-      "name": "Agentic Payments Onchain 2026",
-      "description": "A working session on agentic payments: how autonomous AI agents transact, settle, and hold balances on-chain, during Korea Blockchain Week.",
-      "startDate": "2026-09-28T09:00:00.000Z",
-      "endDate": "2026-09-28T18:00:00.000Z",
-      "city": "Seoul",
-      "country": "South Korea",
-      "location": "Seoul, South Korea",
-      "url": "https://t54.ai",
-      "website": "https://t54.ai",
-      "coverImage": "/events/agentic.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
     "name": "Finality Forum Singapore 2026",
     "url": "https://ethenelabs.xyz",
     "emails": [
@@ -731,30 +707,6 @@
       "url": "https://www.rayls.com",
       "website": "https://www.rayls.com",
       "coverImage": "/events/rayls.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
-    "name": "CONNECT by Cointelegraph Seoul 2026",
-    "url": "https://cointelegraph.com",
-    "emails": [
-      "advertise@cointelegraph.com",
-      "editor@cointelegraph.com"
-    ],
-    "event": {
-      "id": "premier-connectseoul",
-      "slug": "connect",
-      "name": "CONNECT by Cointelegraph Seoul 2026",
-      "description": "Cointelegraph's CONNECT forum arrives in Seoul during Korea Blockchain Week with media-led panels and networking.",
-      "startDate": "2026-09-28T09:00:00.000Z",
-      "endDate": "2026-09-28T18:00:00.000Z",
-      "city": "Seoul",
-      "country": "South Korea",
-      "location": "Seoul, South Korea",
-      "url": "https://cointelegraph.com",
-      "website": "https://cointelegraph.com",
-      "coverImage": "https://s3.cointelegraph.com/uploads/2026-04/019db5ee-14fd-72a4-a0e1-746d60971f5f.jpg",
       "twitter": null,
       "source": "curated-premier"
     }
