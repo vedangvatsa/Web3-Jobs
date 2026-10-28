@@ -9340,7 +9340,7 @@
     "sentAt": "2026-10-28T03:43:48.400Z"
   },
   "096defc4-137d-454b-a224-de5b97d46428": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-28T03:43:50.548Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -9410,6 +9410,8 @@
       }
     ],
     "message": "- DriveWealth is hiring <a href=\"https://hashtagweb3.com/qa91?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Quality Assurance Engineer</a>\n- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/arsa2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Applied Research - Scientific AI</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/eng484?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Engineer, Trading Ops &amp; Management</a>",
-    "slotKey": "2026-10-28:morning"
+    "slotKey": "2026-10-28:morning",
+    "messageId": 150,
+    "sentAt": "2026-10-28T03:43:53.499Z"
   }
 }
