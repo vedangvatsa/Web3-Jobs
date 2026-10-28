@@ -70432,7 +70432,8 @@
       },
       "account": "channel:growth",
       "attemptId": "3f515144-f65b-42bc-b8e5-898caa19cec9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x3780ad4ffdaa08e6a6207ac0dba044cceb4b854f"
     }
   ]
 }
