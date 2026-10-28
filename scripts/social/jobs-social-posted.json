@@ -69603,7 +69603,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "4fbe37e0-bca8-40ee-b724-2cc6e23d7bab",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae24ea6d6189ae98ff6d296"
     }
   ]
 }
