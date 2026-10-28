@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-10-28T09:59:40.929Z",
+  "generatedAt": "2026-10-28T11:48:26.908Z",
   "items": [
+    {
+      "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
+      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
+      "pubDate": "Wed, 28 Oct 2026 11:32:31 +0000",
+      "creator": "Oliver Knight",
+      "contentSnippet": "Bitcoin rose above $81,400 as Asian chip stocks rallied, with frog-themed memecoin pepe adding 9%.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Mirae Asset Securities issues tokenized notes on Solana",
+      "link": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 28 Oct 2026 11:05:33 +0000",
+      "creator": "Yohan Yun",
+      "contentSnippet": "The company’s Hong Kong unit issued six-month notes under its $3 billion program, extending blockchain-based distribution to institutional investors.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Google to preview crypto custody security system as AI threats grow",
+      "link": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
+      "pubDate": "Wed, 28 Oct 2026 11:00:00 +0000",
+      "creator": "Aoyon Ashraf",
+      "contentSnippet": "Google Multi-Party Compute is in private preview, with several major financial institutions testing the technology and parent company Alphabet using i...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bithumb Says Hackers Accessed Internal System, Leaking Personal Data",
+      "link": "https://decrypt.co/382022/bithumb-says-hackers-accessed-internal-system-leaking-personal-data",
+      "pubDate": "Wed, 28 Oct 2026 10:57:29 +0000",
+      "creator": "Agent",
+      "contentSnippet": "South Korea's second-largest crypto exchange is checking whether customer data was exposed, as two other financial firms report breaches.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
+      "link": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
+      "pubDate": "Wed, 28 Oct 2026 10:41:51 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "Stablecoins lead instruments in use or planned at 63%, ahead of tokenized deposits at 53% and tokenized money market funds at 52%.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "The World Trades Here: Bybit’s WSOT Is Coming Back With a Prize Pool of Up to 10 Million USDT",
+      "link": "https://dailyhodl.com/2026/10/28/the-world-trades-here-bybits-wsot-is-coming-back-with-a-prize-pool-of-up-to-10-million-usdt/",
+      "pubDate": "Wed, 28 Oct 2026 10:14:22 +0000",
+      "creator": "Chainwire",
+      "contentSnippet": "Dubai, United Arab Emirates, 28th October 2026, Chainwire\nThe post The World Trades Here: Bybit’s WSOT Is Coming Back With a Prize Pool of Up to 10 Mi...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "Coinbase Customer Data Hit in Analytics Vendor Breach, Funds ‘Not Impacted’",
+      "link": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
+      "pubDate": "Wed, 28 Oct 2026 10:10:31 +0000",
+      "creator": "Agent",
+      "contentSnippet": "The incident at analytics firm Amplitude hit a \"small subset\" of Coinbase customers, the exchange said, without saying how many.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
+      "link": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
+      "pubDate": "Wed, 28 Oct 2026 10:07:54 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "Itaú Unibanco notified Brazil’s central bank of its crypto trading and custody operations on Tuesday, ahead of an Oct. 30 deadline.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 28 Oct 2026 09:56:00 +0000",
+      "creator": "William Suberg",
+      "contentSnippet": "Bitcoin sought to rebuild support at $80,000 while Asian and US tech stocks extended a rebound into key corporate earnings releases.",
+      "source": "Cointelegraph"
+    },
     {
       "title": "Here's how much bitcoin and the S&P 500 could rally after midterms",
       "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
@@ -34,27 +106,11 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Coinbase denies systems breach, says vendor exposed customer data",
-      "link": "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 28 Oct 2026 07:42:55 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "Coinbase said that an incident at analytics vendor Amplitude exposed some customers’ contact data, but it found no evidence of unauthorized access to ...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
       "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
       "pubDate": "Wed, 28 Oct 2026 05:28:13 +0000",
       "creator": "Shaurya Malwa",
       "contentSnippet": "The company said the accounting correction will cut reported assets by $92.2 million at the end of 2025 after bitcoin held on Biconomy could not be wi...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
-      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
-      "pubDate": "Wed, 28 Oct 2026 04:15:20 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "Majors outpaced bitcoin across the board as tech stocks extended a climb.",
       "source": "Coindesk"
     },
     {
@@ -426,36 +482,12 @@
       "source": "Coindesk"
     },
     {
-      "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
-      "link": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
-      "pubDate": "Tue, 27 Oct 2026 11:32:45 +0000",
-      "creator": "Oliver Knight",
-      "contentSnippet": "Bitcoin fell 0.4% to around $79,700 since midnight UTC while Asian tech stocks rallied. The DeFi index dropped 1.8%, and the Fed is set to begin a two...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Investor who called for AI pivot in 2023 says bitcoin is going to $57,000",
-      "link": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
-      "pubDate": "Tue, 27 Oct 2026 10:57:51 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "Jason Calacanis wants investors to sell bitcoin and back artificial intelligence. He is also holding TAO, the cryptocurrency behind AI network Bittens...",
-      "source": "Coindesk"
-    },
-    {
       "title": "Ark Invest buys $5.2 million of Circle shares, sells $15.9 million of its own Bitcoin ETF as BTC grinds lower",
       "link": "https://www.theblock.co/news/markets/2026-10-27-ark-invest-buys-5-2-million-of-circle-shares-sells-15-9-million-of-its-own-bitcoin-etf-as-btc-grinds-lower-431838",
       "pubDate": "Tue, 27 Oct 2026 10:57:34 +0000",
       "creator": "James Hunt",
       "contentSnippet": "Ark Invest rebalanced its fund weightings, adding Circle shares and trimming its Bitcoin ETF holdings as BTC fell below $80,000.",
       "source": "The Block"
-    },
-    {
-      "title": "Now is the time to accumulate bitcoin, Galaxy says",
-      "link": "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says",
-      "pubDate": "Tue, 27 Oct 2026 09:42:46 +0000",
-      "creator": "James Van Straten",
-      "contentSnippet": "Galaxy argues improving price trends, resilient ETF demand and rising U.S. debt support bitcoin’s recovery towards its previous high.",
-      "source": "Coindesk"
     },
     {
       "title": "Bloom bot hackers loot $953K faster than you can microwave popcorn ",
@@ -472,14 +504,6 @@
       "creator": "Helen Partz",
       "contentSnippet": "The exchange is delisting 22 crypto assets for Brazilian users and hopes talks with the central bank will allow it to restore some services.",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
-      "link": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
-      "pubDate": "Tue, 27 Oct 2026 07:44:04 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "Researchers must now permanently burn 1 SOL for every submission after a monthlong contest drew 809 reports, with AI believed to have helped generate ...",
-      "source": "Coindesk"
     },
     {
       "title": "Bitcoin ETFs claw back $110M after $774M exit",
@@ -538,14 +562,6 @@
       "source": "The Block"
     },
     {
-      "title": "‘Bear Market Ended in June’: Galaxy Digital Says Bitcoin (BTC) Is in Accumulation Phase Before Price Surge",
-      "link": "https://dailyhodl.com/2026/10/26/bear-market-ended-in-june-galaxy-digital-says-bitcoin-btc-is-in-accumulation-phase-before-price-surge/",
-      "pubDate": "Tue, 27 Oct 2026 00:21:35 +0000",
-      "creator": "Conor Devitt",
-      "contentSnippet": "Researchers at the crypto firm Galaxy Digital think the Bitcoin (BTC) bear market ended four months ago. Alex Thorn, Galaxy’s head of firmwide researc...",
-      "source": "Daily Hodl"
-    },
-    {
       "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
       "link": "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield",
       "pubDate": "Mon, 26 Oct 2026 22:16:03 +0000",
@@ -578,14 +594,6 @@
       "source": "The Block"
     },
     {
-      "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
-      "link": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 26 Oct 2026 17:46:09 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "The US professional basketball league is expanding into prediction markets with official data agreements and safeguards against insider trading.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
       "link": "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
       "pubDate": "Mon, 26 Oct 2026 17:41:21 +0000",
@@ -610,19 +618,19 @@
       "source": "Decrypt"
     },
     {
-      "title": "Morning Minute: Bitcoin Breaks Below $80,000 as Iran Fears Hit the Weekend",
-      "link": "https://decrypt.co/381797/morning-minute-bitcoin-breaks-below-80000-as-iran-fears-hit-the-weekend",
-      "pubDate": "Mon, 26 Oct 2026 12:16:12 +0000",
-      "creator": "Tyler Warner",
-      "contentSnippet": "Some relief is appearing this morning as oil and rates fall, with a big macro week ahead featuring major earnings, FOMC and key data drops.",
+      "title": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
+      "link": "https://decrypt.co/381802/bitcoin-dips-below-80000-ahead-of-fed-decision-midterms",
+      "pubDate": "Mon, 26 Oct 2026 13:02:43 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Analysts point to a sell-off in AI stocks and ETF outflows, with HashKey's Tim Sun flagging $75,000 as the next key support level.",
       "source": "Decrypt"
     },
     {
-      "title": "Israel's Central Bank Rebukes Netanyahu Plan to Use Crypto to Dodge Sanctions",
-      "link": "https://decrypt.co/381789/israels-central-bank-rebukes-netanyahu-plan-to-use-crypto-to-dodge-sanctions",
-      "pubDate": "Mon, 26 Oct 2026 11:34:08 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Over 100 economists, including former governor Jacob Frenkel, warned of deeper isolation ahead of Israel's October 27 national election.",
+      "title": "Bitcoin’s Bear Market Is Over, Galaxy Research Says: 'Now Is an Attractive Time to Buy'",
+      "link": "https://decrypt.co/381786/bitcoin-bear-market-is-over-galaxy-research-says",
+      "pubDate": "Mon, 26 Oct 2026 13:01:02 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Galaxy Research says Bitcoin’s bear market ended in June, pointing to a reclaimed 50-week moving average, fading selling pressure, and a strengthening...",
       "source": "Decrypt"
     }
   ]
