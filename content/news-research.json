@@ -98220,7 +98220,27 @@
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
       "attempts": 0,
       "expiresAt": "2026-10-30T21:28:22.000Z",
-      "lastSeenAt": "2026-10-28T03:43:47.836Z"
+      "lastSeenAt": "2026-10-28T03:43:47.836Z",
+      "articleSlug": "vaneckbuilder",
+      "draftProgress": {
+        "id": "34a7c4b938b3427e298c",
+        "day": "2026-10-28",
+        "articleSlug": "vaneckbuilder",
+        "note": "Read Cointelegraph and Bitcoin Magazine coverage of the WBMO launch. Same event as candidate 797b70f755be1b837304. VanEck.com overview page transport-failed. Draft and image still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure",
+            "outcome": "read"
+          },
+          {
+            "url": "https://bitcoinmagazine.com/news/vaneck-builder-etf-with-bitcoin-exposure",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-28T03:50:12.342Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "797b70f755be1b837304": {
       "source": "Bitcoin Magazine",
@@ -98344,7 +98364,31 @@
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
       "attempts": 0,
       "expiresAt": "2026-10-30T07:09:56.000Z",
-      "lastSeenAt": "2026-10-28T03:43:47.836Z"
+      "lastSeenAt": "2026-10-28T03:43:47.836Z",
+      "articleSlug": "depositbug",
+      "draftProgress": {
+        "id": "479f90eb381578d5c19f",
+        "day": "2026-10-28",
+        "articleSlug": "depositbug",
+        "note": "Read CoinDesk, crypto.news and merged GitHub PR 5736 plus issue context. Three independent sites agree. Draft and image still needed; Commons API is returning 503.",
+        "sourceChecks": [
+          {
+            "url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
+            "outcome": "read"
+          },
+          {
+            "url": "https://crypto.news/ethereum-glamsterdam-validator-deposit-bug-fix/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://github.com/ethereum/consensus-specs/pull/5736",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-28T03:52:08.985Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "d87a107ce85341dce745": {
       "source": "The Defiant",
