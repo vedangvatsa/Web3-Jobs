@@ -68985,7 +68985,8 @@
       },
       "account": "profile",
       "attemptId": "d3be20cf-128a-4014-a23d-b9143ad483b7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2df64635d905ab4fa4c903e943ac714af64caa2f"
     }
   ]
 }
