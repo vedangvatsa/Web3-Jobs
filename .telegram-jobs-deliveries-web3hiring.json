@@ -9413,5 +9413,78 @@
     "slotKey": "2026-10-28:morning",
     "messageId": 150,
     "sentAt": "2026-10-28T03:43:53.499Z"
+  },
+  "f6e350f2-24cb-478d-b2f2-bb1e35167c8a": {
+    "status": "reserved",
+    "reservedAt": "2026-10-28T11:48:51.445Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8257746",
+          "title": "Senior Sales Manager",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8257746?gh_jid=8257746",
+          "date": "2026-10-08T09:30:41-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "London, UK",
+          "department": "Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls329"
+        },
+        "key": "8257746",
+        "slug": "sls329",
+        "url": "https://hashtagweb3.com/sls329?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Senior Sales Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8215758",
+          "title": "Account Executive, Product Sales, Billing (Grower)",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8215758",
+          "date": "2026-10-14T13:20:20-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "San Francisco, CA, Seattle, WA, Chicago, IL, New York, NY",
+          "department": "1643 Product Sales - Billing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm305"
+        },
+        "key": "8215758",
+        "slug": "pm305",
+        "url": "https://hashtagweb3.com/pm305?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "3aea55f8-be74-4adf-8dd2-f2ccf5d26215",
+          "title": "Global Regulatory Compliance Lead",
+          "company": "Aspora",
+          "link": "https://jobs.ashbyhq.com/Aspora/3aea55f8-be74-4adf-8dd2-f2ccf5d26215",
+          "date": "2026-10-20T12:21:02.093+00:00",
+          "source": "Ashby: Aspora [Aspora]",
+          "location": "London",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp56"
+        },
+        "key": "3aea55f8-be74-4adf-8dd2-f2ccf5d26215",
+        "slug": "cmp56",
+        "url": "https://hashtagweb3.com/cmp56?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Aspora",
+        "title": "Global Regulatory Compliance Lead"
+      }
+    ],
+    "message": "- Ripple is hiring <a href=\"https://hashtagweb3.com/sls329?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Sales Manager</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/pm305?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Product Sales, Billing (Grower)</a>\n- Aspora is hiring <a href=\"https://hashtagweb3.com/cmp56?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Global Regulatory Compliance Lead</a>",
+    "slotKey": "2026-10-28:afternoon"
   }
 }
