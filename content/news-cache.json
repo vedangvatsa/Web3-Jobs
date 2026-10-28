@@ -1,21 +1,69 @@
 {
-  "generatedAt": "2026-10-28T03:43:30.587Z",
+  "generatedAt": "2026-10-28T09:59:40.929Z",
   "items": [
     {
-      "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
-      "link": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
-      "pubDate": "Wed, 28 Oct 2026 03:11:14 +0000",
+      "title": "Here's how much bitcoin and the S&P 500 could rally after midterms",
+      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
+      "pubDate": "Wed, 28 Oct 2026 09:15:22 +0000",
       "creator": "Omkar Godbole",
-      "contentSnippet": "The crypto exchange says an incident at analytics firm Amplitude exposed some customer contact information, but insists its own systems were not breac...",
+      "contentSnippet": "Both bitcoin and the S&P 500 have historically produced positive returns in a year after midterms. BTC's pattern, however, could also be explained by ...",
       "source": "Coindesk"
     },
     {
-      "title": "Datavault AI stock plummets 50% after firm says it cannot withdraw bitcoin tied to $150 million deal",
-      "link": "https://www.theblock.co/news/business/2026-10-27-datavault-ai-stock-plummets-bitcoin-deal-431962",
-      "pubDate": "Wed, 28 Oct 2026 03:00:33 +0000",
+      "title": "Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin",
+      "link": "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969",
+      "pubDate": "Wed, 28 Oct 2026 09:15:20 +0000",
       "creator": "Danny Park",
-      "contentSnippet": "The issue centers on a deal with Scilex, under which Scilex agreed to buy shares of Datavault AI for $150 million, payable in bitcoin.",
+      "contentSnippet": "Moody's Ratings assigned the RLUSD A2 long-term and P-1 short-term ratings, citing credit quality and market value of its reserve assets.",
       "source": "The Block"
+    },
+    {
+      "title": "Securitize adds Stellar blockchain as institutional tokenization gathers steam",
+      "link": "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam",
+      "pubDate": "Wed, 28 Oct 2026 09:00:00 +0000",
+      "creator": "Ian Allison",
+      "contentSnippet": "The firms announced the agreement at Meridian 2026, the Stellar Development Foundation’s annual conference in Portugal.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 28 Oct 2026 07:57:18 +0000",
+      "creator": "Helen Partz",
+      "contentSnippet": "US spot Bitcoin ETFs drew $286 million over two days, narrowing October’s net outflows to $26 million as the Crypto Fear & Greed Index remained neutra...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Coinbase denies systems breach, says vendor exposed customer data",
+      "link": "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 28 Oct 2026 07:42:55 +0000",
+      "creator": "Zoltan Vardai",
+      "contentSnippet": "Coinbase said that an incident at analytics vendor Amplitude exposed some customers’ contact data, but it found no evidence of unauthorized access to ...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
+      "pubDate": "Wed, 28 Oct 2026 05:28:13 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "The company said the accounting correction will cut reported assets by $92.2 million at the end of 2025 after bitcoin held on Biconomy could not be wi...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
+      "pubDate": "Wed, 28 Oct 2026 04:15:20 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "Majors outpaced bitcoin across the board as tech stocks extended a climb.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’",
+      "link": "https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 28 Oct 2026 03:55:57 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "Robinhood CEO Vlad Tenev says tokenized equities need more than a temporary SEC exemption to flourish in the US.",
+      "source": "Cointelegraph"
     },
     {
       "title": "KubeRay best practices focus on production scale and cluster failures",
@@ -442,14 +490,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
-      "link": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
-      "pubDate": "Tue, 27 Oct 2026 07:09:56 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "Developers initially rejected the change before reversing course, as testing delays gave them more time to examine a flaw in Ethereum's upcoming Glams...",
-      "source": "Coindesk"
-    },
-    {
       "title": "OCC Urges Community Banks to Enter Stablecoin Payments Market Under GENIUS Act",
       "link": "https://dailyhodl.com/2026/10/27/occ-urges-community-banks-to-enter-stablecoin-payments-market-under-genius-act/",
       "pubDate": "Tue, 27 Oct 2026 07:04:54 +0000",
@@ -506,14 +546,6 @@
       "source": "Daily Hodl"
     },
     {
-      "title": "Treasury Firm Strive Makes Massive Bitcoin Purchase, Acquiring $511,000,000 Worth of BTC",
-      "link": "https://dailyhodl.com/2026/10/26/treasury-firm-strive-makes-massive-bitcoin-purchase-acquiring-511000000-worth-of-btc/",
-      "pubDate": "Tue, 27 Oct 2026 00:20:17 +0000",
-      "creator": "Conor Devitt",
-      "contentSnippet": "The Bitcoin treasury firm Strive (ASST) just acquired $511 million worth of BTC. The Dallas-based company bought 6,182 Bitcoin between October 16th an...",
-      "source": "Daily Hodl"
-    },
-    {
       "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
       "link": "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield",
       "pubDate": "Mon, 26 Oct 2026 22:16:03 +0000",
@@ -562,36 +594,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Prediction markets and derivatives drive Bernstein’s crypto stock outlook for Coinbase, Robinhood and Circle",
-      "link": "https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750",
-      "pubDate": "Mon, 26 Oct 2026 16:36:43 +0000",
-      "creator": "Kyle Baird",
-      "contentSnippet": "Bernstein cuts Coinbase’s target while raising Circle’s as new products shift their earnings outlook.",
-      "source": "The Block"
-    },
-    {
       "title": "India’s CoinDCX Confirms $16 Million Loss Days After CEO Called It a ‘False Alarm’",
       "link": "https://decrypt.co/381834/india-coindcx-confirms-16-million-loss-ceo-called-false-alarm",
       "pubDate": "Mon, 26 Oct 2026 16:36:03 +0000",
       "creator": "Guillermo Jimenez",
       "contentSnippet": "The Mumbai-based exchange says 15.99 million USDT was drained from wallets it retired after last year’s $44 million hack, bringing its combined losses...",
       "source": "Decrypt"
-    },
-    {
-      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029 ",
-      "link": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 26 Oct 2026 16:18:09 +0000",
-      "creator": "Turner Wright",
-      "contentSnippet": "The Seoul government is reportedly weighing another delay for a 2020 income tax policy on digital assets, citing concerns with receiving data from US ...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
-      "link": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 26 Oct 2026 15:54:15 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "The agreement adds S&P Dow Jones gauges to a growing list of Wall Street firms expanding their involvement in prediction markets.",
-      "source": "Cointelegraph"
     },
     {
       "title": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC",
