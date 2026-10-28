@@ -2450,5 +2450,36 @@
     "slotKey": "2026-10-28:afternoon",
     "messageId": 155964,
     "sentAt": "2026-10-28T11:52:28.204Z"
+  },
+  "40895ffb-6d1d-4582-9a5d-bd3656c5e9aa": {
+    "status": "reserved",
+    "reservedAt": "2026-10-28T19:43:49.788Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Shinhan Card and SBI Test Yen Stablecoin Payments",
+        "summary": "The companies are testing stablecoin-based card payments and transfers for travel between Japan and South Korea.",
+        "link": "https://hashtagweb3.com/shinhanstable?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Shinhan Card and SBI test yen stablecoin payments for Japan-Korea travel"
+      },
+      {
+        "index": 1,
+        "headline": "OpenAI Reportedly Considering Google Chips to Reduce Nvidia Reliance",
+        "summary": "The company may purchase Google TPU hardware, though neither party has confirmed the potential deal.",
+        "link": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
+        "source": "Decrypt",
+        "originalTitle": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report"
+      },
+      {
+        "index": 2,
+        "headline": "Sam Bankman-Fried contacted actor playing him in Netflix series",
+        "summary": "The imprisoned former FTX executive reached out to Anthony Boyle, who depicts him in a new production.",
+        "link": "https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "Sam Bankman-Fried wrote to actor portraying him in Netflix series"
+      }
+    ],
+    "slotKey": "2026-10-28:evening"
   }
 }
