@@ -66743,7 +66743,8 @@
       },
       "account": "channel:founders",
       "attemptId": "2940ef45-7a04-4808-9257-8afebeedb188",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9fae558e76e200196ade7f80314d76534d2efc97"
     }
   ]
 }
