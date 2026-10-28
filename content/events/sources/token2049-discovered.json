@@ -10469,66 +10469,6 @@
     }
   },
   {
-    "id": "token2049-evt-BkNGF5drLh9HNJB",
-    "name": "Atli Station Singapore: Arrive Ready 🇸🇬 | SuperReturn Asia Week",
-    "description": "Atli Station Singapore: Arrive Ready 🇸🇬 | SuperReturn Asia Week is scheduled for 28 September 2026 at 16:30 (Asia/Singapore). Hosted by Peter Atli, XForge Mobile, Bridgestar Capital.\n\n30% off Atli eSIM plans — no approval or conference ticket required.\n\nSelect “Standard Travel Registration”, enter “N/A” in the ticket reference field, and register.\n\nSuperReturn ticket holders can also use the 30% discount without approval.\n\nBring your eSIM-compatible phone for help installing or activating your plan.\n\nRegistration requires host approval. Registration is listed as free.",
-    "startDate": "2026-09-28T08:30:00.000Z",
-    "location": "Location to be announced",
-    "url": "https://luma.com/x0wrzs6m",
-    "registrationUrl": "https://luma.com/x0wrzs6m",
-    "coverImage": "/events/token2049-evt-bkngf5drlh9hnjb-7c03b296.webp",
-    "endDate": "2026-09-28T11:30:00.000Z",
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "The Greenhouse, Level 3, 40 Stamford Road, Singapore 178908",
-    "hosts": [
-      "Peter Atli",
-      "XForge Mobile",
-      "Bridgestar Capital"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard Travel Registration",
-        "url": "https://luma.com/x0wrzs6m",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "Conference Ticket Holder",
-        "url": "https://luma.com/x0wrzs6m",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/x0wrzs6m",
-      "eventId": "evt-BkNGF5drLh9HNJB",
-      "fetchedAt": "2026-09-27T20:19:35.859Z",
-      "method": "luma-api"
-    },
-    "slug": "atli-station",
-    "source": "token2049-verified",
-    "descriptionSource": {
-      "url": "https://luma.com/x0wrzs6m",
-      "fetchedAt": "2026-09-27T20:19:35.859Z",
-      "method": "matched-organizer-record",
-      "pageTitle": "Atli Station Singapore: Arrive Ready 🇸🇬 | SuperReturn Asia Week",
-      "sha256": "9deb2209eb2fc9edae2b6af1b567c132002a3fa589367b0adf5921c1cf9eb5e3",
-      "evidence": [
-        {
-          "url": "https://luma.com/x0wrzs6m",
-          "fetchedAt": "2026-09-27T20:19:35.859Z",
-          "sha256": "8c99aaf4932b0e69844364325becfe98d27ba2f06c59c57461034c87e2f15c46"
-        }
-      ]
-    }
-  },
-  {
     "id": "token2049-evt-d9OIP043UYmjS1a",
     "name": "Atli Station Singapore: Arrive Connected 🇸🇬 | TOKEN2049 Week",
     "description": "Atli Station Singapore: Arrive Connected 🇸🇬 | TOKEN2049 Week is scheduled for 5 October 2026 at 16:30 (Asia/Singapore). Hosted by Peter Atli, XForge Mobile, Bridgestar Capital.\n\n30% off Atli eSIM plans — no approval required.\n\nApproval is required only for the complimentary 1GB offer.\n\nSelect “Conference Ticket Holder” and enter your valid TOKEN2049 Singapore ticket reference number in the registration form.\n\nSelect “Standard Travel Registration”, enter “N/A” in the ticket reference field, and register.\n\nRegistration requires host approval. Registration is listed as free.",
