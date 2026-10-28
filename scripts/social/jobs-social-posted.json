@@ -66913,7 +66913,8 @@
       },
       "account": "channel:ai",
       "attemptId": "2db9c657-23d9-4bf8-963c-92a7c4709427",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x1f4ab3d49e353af01fb7f459525218a3b815be85"
     }
   ]
 }
