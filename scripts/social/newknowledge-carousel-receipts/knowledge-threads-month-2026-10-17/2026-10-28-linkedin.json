@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-10-28",
+    "threadId": "E04",
+    "sequence": 11,
+    "platform": "linkedin",
+    "sourceContentSha256": "1cbe2f93ef8c2be5086df627ff8374c4090b8f42aebe30623ae69d6c3176c55f",
+    "calendarSha256": "70484da3b7319ebb706092e37759daf11ea4a58df5a9beadef96d8dd5ada9ebc",
+    "sourceThreadSha256": "4a4b41c8387d1e32ecf3bce7fbef538cdd194a78b0d57fc112e8739681cde08f",
+    "sourcePostHashes": [
+      "bc3797682ae37d57948442b42b42485a0e6272ea5d3174fbc97a43141ccbee39",
+      "cfde4fbc124e287b5bc5c97f90e0cdecbc141f64d72d8bd583d4ffb9da6e0b59",
+      "c02635c69df79aed582ab529072cc2f883e58e0e0317632ae0fc4caaf5ae09db",
+      "77593d2d3231a0720b0054d61e8e3f4f031054c3107a4a899cc6cf4e63a9c957",
+      "8de83cdd9caad5f303676e6ccdfaa4d6fc3068f03af353843767a7fce90faadb",
+      "a12d1a7464944b307eef3148875e8870fcd28a909800c969b0a81fe25f78dccb"
+    ],
+    "sourceImages": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/E04-01.jpg",
+        "sha256": "e23b1565f9a59baa97fcb19c507e8acdf979f64e6eea156242c87e097d23227c",
+        "bytes": 180632,
+        "width": 1200,
+        "height": 1500,
+        "alt": "City photos and directory rankings: 1. Chiang Mai, Thailand, 97/100, estimated USD 900/month; 2. Bangalore, India, 94/100, USD 900; 3. Da Nang, Vietnam, 93/100, USD 850. Each country is represented by its top-rated base. Ties use lower cost, then name. Scores describe cities, not whole countries.",
+        "renderedText": "City-based ranking\n\nTen countries, one directory base each\n\nDirectory city scores /100 · USD/month estimates\n\n1. Chiang Mai, Thailand\n\n97/100 · USD 900/month estimated\n\n2. Bangalore, India\n\n94/100 · USD 900/month estimated\n\n3. Da Nang, Vietnam\n\n93/100 · USD 850/month estimated\n\nHighest-rated base per country. Ties: lower cost, then name. Scores describe cities.\n\nHashtag Web3 city directory\n\nE04 · 1/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E04-02.jpg",
+        "sha256": "072cc8eb2a5ac68ec1f69222e22af1cd4d156287549509c8970d0edcdb673f4b",
+        "bytes": 221733,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Photos of Chiang Mai, Thailand, and Bangalore, India. Chiang Mai's directory score is 97/100; Bangalore's is 94/100. Both have estimated monthly costs of USD 900, a 3-point score gap at the same budget.",
+        "renderedText": "City-based ranking\n\nThailand / India: equal estimated budgets\n\nDirectory city scores /100 · USD/month estimates\n\nThailand\nChiang Mai\n\n97/100 directory score\nUSD 900/month estimated\n\nIndia\nBangalore\n\n94/100 directory score\nUSD 900/month estimated\n\nSame budget, 3 points apart on the site's city score.\n\nHashtag Web3 city directory\n\nE04 · 2/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E04-03.jpg",
+        "sha256": "0711e5b2f548cc92c4d41ed77f47f56e29ffab5183052399200b09ca6c2ffd9f",
+        "bytes": 224898,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Photos of Da Nang, Vietnam, and Kuala Lumpur, Malaysia. Directory scores and estimated monthly costs: Da Nang 93/100 and USD 850; Kuala Lumpur 90/100 and USD 1,000. Da Nang's budget estimate is USD 150 lower.",
+        "renderedText": "City-based ranking\n\nVietnam / Malaysia: USD 150 budget gap\n\nDirectory city scores /100 · USD/month estimates\n\nVietnam\nDa Nang\n\n93/100 directory score\nUSD 850/month estimated\n\nMalaysia\nKuala Lumpur\n\n90/100 directory score\nUSD 1,000/month estimated\n\nDa Nang's estimated budget is USD 150 lower.\n\nHashtag Web3 city directory\n\nE04 · 3/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E04-04.jpg",
+        "sha256": "c9d9e1bb52689467bbb609aaca2c95fa63ba4769c4d276f1f3188dc01da567a4",
+        "bytes": 237004,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Photos of Manila, Philippines, and Siem Reap, Cambodia. Directory scores and estimated monthly costs: Manila 90/100 and USD 1,000; Siem Reap 89/100 and USD 800. Siem Reap ties Phnom Penh's score with an estimated budget USD 50 lower.",
+        "renderedText": "City-based ranking\n\nPhilippines / Cambodia: Manila and Siem Reap\n\nDirectory city scores /100 · USD/month estimates\n\nPhilippines\nManila\n\n90/100 directory score\nUSD 1,000/month estimated\n\nCambodia\nSiem Reap\n\n89/100 directory score\nUSD 800/month estimated\n\nSiem Reap ties Phnom Penh's score but has a USD 50 lower budget.\n\nHashtag Web3 city directory\n\nE04 · 4/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E04-05.jpg",
+        "sha256": "86b82e85b8aabc8896ea6c13f3c7909150b0a3d952000e76f238abb5dabf27f0",
+        "bytes": 187886,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Photos of Bali, Indonesia, and Playa del Carmen, Mexico. Both score 88/100 in the directory. Estimated monthly costs: Bali base USD 1,100; Playa del Carmen USD 1,500. The lower-budget tie-break ranks Bali first.",
+        "renderedText": "City-based ranking\n\nIndonesia / Mexico: tied at 88/100\n\nDirectory city scores /100 · USD/month estimates\n\nIndonesia\nBali\n\n88/100 directory score\nUSD 1,100/month estimated\n\nMexico\nPlaya del Carmen\n\n88/100 directory score\nUSD 1,500/month estimated\n\nEqual site scores; the lower-budget tie-break puts Bali first.\n\nHashtag Web3 city directory\n\nE04 · 5/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E04-06.jpg",
+        "sha256": "6e005cb105b74f2036007bd48734c770e9bea71eb03109f23d4453db32b106bd",
+        "bytes": 235706,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Photos of Madrid, Spain, and Taipei, Taiwan. Directory scores and estimated monthly costs: Madrid 88/100 and USD 2,100; Taipei 87/100 and USD 1,800. Madrid leads Spain's directory cities, ahead of Las Palmas at 86/100.",
+        "renderedText": "City-based ranking\n\nSpain / Taiwan: Madrid and Taipei\n\nDirectory city scores /100 · USD/month estimates\n\nSpain\nMadrid\n\n88/100 directory score\nUSD 2,100/month estimated\n\nTaiwan\nTaipei\n\n87/100 directory score\nUSD 1,800/month estimated\n\nMadrid is Spain's highest-scoring directory city, ahead of Las Palmas at 86.\n\nPhotos via Hashtag Web3 / Travel Taipei\n\nE04 · 6/6"
+      }
+    ],
+    "assetCommit": "bdf22d166dda0be52022218125fcdc642460c221",
+    "target": {
+      "channelId": "69c5b139af47dacb695b5feb",
+      "service": "linkedin",
+      "serviceId": "89714573",
+      "profile": "https://www.linkedin.com/company/hashtagweb3/"
+    },
+    "caption": "Directory snapshot, October 20, 2026: 10 countries, each represented by its top-rated base among 100 entries.\n\nCity scores /100; estimated USD/month costs. Ties: lower cost, then name.\n\n1. 1. Thailand: Chiang Mai, 97/100; USD 900/month estimated.\n2. India: Bangalore, 94/100; USD 900/month estimated.\n\nSame budget, 3 points apart on the site's city score.\n\n2. 3. Vietnam: Da Nang, 93/100; USD 850/month estimated.\n4. Malaysia: Kuala Lumpur, 90/100; USD 1,000/month estimated.\n\nDa Nang's estimated budget is USD 150 lower.\n\n3. 5. Philippines: Manila, 90/100; USD 1,000/month estimated.\n6. Cambodia: Siem Reap, 89/100; USD 800/month estimated.\n\nSiem Reap ties Phnom Penh's score but has a USD 50 lower budget.\n\n4. 7. Indonesia: Bali base, 88/100; USD 1,100/month estimated.\n8. Mexico: Playa del Carmen, 88/100; USD 1,500/month estimated.\n\nEqual site scores; the lower-budget tie-break puts Bali first.\n\n5. 9. Spain: Madrid, 88/100; USD 2,100/month estimated.\n10. Taiwan: Taipei, 87/100; USD 1,800/month estimated.\n\nMadrid is Spain's highest-scoring directory city, ahead of Las Palmas at 86.\n\nFull resource: hashtagweb3.com/nomads/li",
+    "title": "Ten countries compared by their top-rated directory base",
+    "pdf": {
+      "path": "social-assets/knowledge-threads-month/exports/E04/linkedin.pdf",
+      "sha256": "8c62369fbfd224e93028fb32992f36ac752db108ab39e1fe2eda9ac5b057ab9c",
+      "bytes": 1291711,
+      "pageCount": 6,
+      "widthPt": 600,
+      "heightPt": 750,
+      "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/bdf22d166dda0be52022218125fcdc642460c221/social-assets/knowledge-threads-month/exports/E04/linkedin.pdf"
+    },
+    "thumbnail": {
+      "path": "social-assets/knowledge-threads-month/exports/E04/cover.jpg",
+      "sha256": "e23b1565f9a59baa97fcb19c507e8acdf979f64e6eea156242c87e097d23227c",
+      "bytes": 180632,
+      "width": 1200,
+      "height": 1500,
+      "alt": "City photos and directory rankings: 1. Chiang Mai, Thailand, 97/100, estimated USD 900/month; 2. Bangalore, India, 94/100, USD 900; 3. Da Nang, Vietnam, 93/100, USD 850. Each country is represented by its top-rated base. Ties use lower cost, then name. Scores describe cities, not whole countries.",
+      "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/bdf22d166dda0be52022218125fcdc642460c221/social-assets/knowledge-threads-month/exports/E04/cover.jpg"
+    }
+  },
+  "account": {
+    "channelId": "69c5b139af47dacb695b5feb",
+    "service": "linkedin",
+    "serviceId": "89714573",
+    "profile": "https://www.linkedin.com/company/hashtagweb3/",
+    "type": "page",
+    "organizationId": "69c5b0f799d3bd8de475e25a"
+  },
+  "claimId": "da958165-f6ab-4766-85b9-140f2ffed911",
+  "startedAt": "2026-10-28T11:48:28.616Z",
+  "status": "claimed"
+}
