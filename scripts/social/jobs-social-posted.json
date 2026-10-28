@@ -67266,6 +67266,39 @@
       "attemptId": "db03dea2-fbed-4a7c-ba0a-7578e9523f4b",
       "verification": "verified",
       "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mywopirxy72b"
+    },
+    {
+      "slug": "pm85",
+      "company": "Merkle Science",
+      "title": "Product Marketing Manager (London)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-28T11:49:11.071Z",
+      "expectedText": "Merkle Science is hiring Product Marketing Manager (London)\n\nhttps://hashtagweb3.com/pm85/fc?og=7",
+      "snapshot": {
+        "id": "d7139ad8-a40d-4537-a563-8684e5e45fea",
+        "title": "Product Marketing Manager (London)",
+        "company": "Merkle Science",
+        "link": "https://jobs.lever.co/merklescience/d7139ad8-a40d-4537-a563-8684e5e45fea",
+        "date": "2026-09-30T12:03:01.958Z",
+        "source": "Lever: Merkle Science [merklescience]",
+        "location": "Hybrid (London)",
+        "workplaceType": "hybrid",
+        "department": "Marketing",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm85"
+      },
+      "payload": {
+        "text": "Merkle Science is hiring Product Marketing Manager (London)\n\nhttps://hashtagweb3.com/pm85/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm85/fc?og=7"
+          }
+        ]
+      },
+      "account": "profile",
+      "attemptId": "eeba7314-943d-42be-a094-ee9347a9a8a2",
+      "verification": "creating"
     }
   ]
 }
