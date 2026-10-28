@@ -68950,7 +68950,8 @@
         "description": "Join Sardine as Events Lead. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "2f80264e-af11-4efe-9dc1-bb5f1603faaf",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3myximwtitw2c"
     }
   ]
 }
