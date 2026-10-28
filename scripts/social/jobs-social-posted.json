@@ -66274,6 +66274,48 @@
       "verification": "verified",
       "postId": "6ae1702df74245164e83326f",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7521054952925044738"
+    },
+    {
+      "slug": "sec78",
+      "company": "Augustus",
+      "title": "Security Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-28T03:44:11.105Z",
+      "expectedText": "Augustus is hiring Security Engineer: https://hashtagweb3.com/sec78/li?og=7",
+      "snapshot": {
+        "id": "7fde47f8-af18-4c2e-97f3-b2161d89b230",
+        "title": "Security Engineer",
+        "company": "Augustus",
+        "link": "https://jobs.ashbyhq.com/Augustus/7fde47f8-af18-4c2e-97f3-b2161d89b230",
+        "date": "2026-10-01T09:44:53.704+00:00",
+        "source": "Ashby: Augustus [Augustus]",
+        "location": "Berlin",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sec78"
+      },
+      "payload": {
+        "text": "Augustus is hiring Security Engineer: https://hashtagweb3.com/sec78/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sec78/li?og=7",
+          "title": "Security Engineer at Augustus",
+          "description": "Join Augustus as Security Engineer. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sec78.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "a0f97c18-5568-4961-8736-097bb4b21044",
+      "verification": "creating"
     }
   ]
 }
