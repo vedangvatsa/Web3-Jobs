@@ -68114,7 +68114,8 @@
       },
       "account": "profile",
       "attemptId": "a5011a9a-48b3-4681-acf9-3dd178f4e526",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x095097f53df7202077f06dfd829bbb3240acf983"
     }
   ]
 }
