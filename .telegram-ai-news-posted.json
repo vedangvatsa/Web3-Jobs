@@ -815,6 +815,9 @@
   "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
   "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
   "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+  "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+  "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+  "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2227,6 +2230,12 @@
   "Opera introduces a new web standard to let users deploy AI locally in their browser",
   "AI data centers drive updates to the US power grid",
   "The data center boom has an upside: innovation for the US grid",
+  "Researchers release natural language protein design software",
+  "Vibe genes? Natural(ish) language comes to protein, genome design software",
+  "Amazon holds more Anthropic equity than venture capital firms",
+  "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+  "Meta AI director Rohit Patel leaves to launch Ndoc",
+  "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2559,5 +2568,8 @@
   "fp:10b|back|bet|big|disruptiv|elevenlab|firm|follow|fund|groq",
   "fp:advic|alleg|chatbot|coach|daughter|gpt|instruct|lawsuit|medical|medication",
   "fp:allow|bas|browser|cloud|connectivity|deploy|deployment|developer|directly|framework",
-  "fp:boom|center|data|demand|driv|electricity|exist|forc|grid|increas"
+  "fp:boom|center|data|demand|driv|electricity|exist|forc|grid|increas",
+  "fp:allow|bas|com|design|gen|generat|genom|ish|languag|learn",
+  "fp:amazon|anthropic|capital|convert|equity|firm|giant|greater|investment|investor",
+  "fp:compet|director|eight|googl|leav|meta|microsoft|ndoc|offic|patel"
 ]

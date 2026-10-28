@@ -2401,7 +2401,7 @@
     "sentAt": "2026-10-28T03:46:08.202Z"
   },
   "5b5ed0cb-8948-4fad-99ed-4262fb04b784": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-28T11:52:26.132Z",
     "stories": [
       {
@@ -2431,6 +2431,8 @@
         "originalTitle": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace"
       }
     ],
-    "slotKey": "2026-10-28:afternoon"
+    "slotKey": "2026-10-28:afternoon",
+    "messageId": 193415,
+    "sentAt": "2026-10-28T11:52:31.816Z"
   }
 }
