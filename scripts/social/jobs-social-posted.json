@@ -66271,7 +66271,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "cee5d1f7-ef4d-4b0c-a8a9-c7b6e151913e",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae1702df74245164e83326f"
     }
   ]
 }
