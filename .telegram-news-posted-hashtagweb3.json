@@ -830,6 +830,9 @@
   "https://hashtagweb3.com/akash?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969",
   "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
+  "https://hashtagweb3.com/shinhanstable?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
+  "https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2396,6 +2399,12 @@
   "Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin",
   "Bitcoin rises past $81,000 following Asian chip stock gains",
   "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
+  "Shinhan Card and SBI Test Yen Stablecoin Payments",
+  "Shinhan Card and SBI test yen stablecoin payments for Japan-Korea travel",
+  "OpenAI Reportedly Considering Google Chips to Reduce Nvidia Reliance",
+  "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+  "Sam Bankman-Fried contacted actor playing him in Netflix series",
+  "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2776,5 +2785,8 @@
   "fp:corp|firm|inform|intent|kepha|llc|nam|notify|okxic|operat",
   "fp:akash|akt|cosmo|creat|decid|later|marketplac|migrat|migration|mov",
   "fp:agency|asset|assign|bas|credit|grad|investment|issu|long|moody",
-  "fp:000|400|abov|asian|by9|chip|cryptocurrency|follow|gain|increas"
+  "fp:000|400|abov|asian|by9|chip|cryptocurrency|follow|gain|increas",
+  "fp:are|bas|between|card|japan|korea|payment|sbi|shinhan|south",
+  "fp:beyond|buy|chip|confirm|consider|googl|hardwar|look|may|neither",
+  "fp:actor|anthony|bankman|boyl|contact|depict|executiv|former|fri|ftx"
 ]

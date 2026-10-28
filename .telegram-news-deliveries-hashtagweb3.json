@@ -2452,7 +2452,7 @@
     "sentAt": "2026-10-28T11:52:28.204Z"
   },
   "40895ffb-6d1d-4582-9a5d-bd3656c5e9aa": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-28T19:43:49.788Z",
     "stories": [
       {
@@ -2480,6 +2480,8 @@
         "originalTitle": "Sam Bankman-Fried wrote to actor portraying him in Netflix series"
       }
     ],
-    "slotKey": "2026-10-28:evening"
+    "slotKey": "2026-10-28:evening",
+    "messageId": 155970,
+    "sentAt": "2026-10-28T19:43:53.563Z"
   }
 }
