@@ -67825,6 +67825,46 @@
       "attemptId": "b01214c2-daf8-4934-835e-ffb96a980083",
       "verification": "verified",
       "postId": "0x29a05d55d84a0051cb5ea8bce83cbdee512fe302"
+    },
+    {
+      "slug": "pm85",
+      "company": "Merkle Science",
+      "title": "Product Marketing Manager (London)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-28T11:49:11.071Z",
+      "expectedText": "Merkle Science is hiring Product Marketing Manager (London): https://hashtagweb3.com/pm85/li?og=7",
+      "snapshot": {
+        "id": "d7139ad8-a40d-4537-a563-8684e5e45fea",
+        "title": "Product Marketing Manager (London)",
+        "company": "Merkle Science",
+        "link": "https://jobs.lever.co/merklescience/d7139ad8-a40d-4537-a563-8684e5e45fea",
+        "date": "2026-09-30T12:03:01.958Z",
+        "source": "Lever: Merkle Science [merklescience]",
+        "location": "Hybrid (London)",
+        "workplaceType": "hybrid",
+        "department": "Marketing",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm85"
+      },
+      "payload": {
+        "text": "Merkle Science is hiring Product Marketing Manager (London): https://hashtagweb3.com/pm85/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm85/li?og=7",
+          "title": "Product Marketing Manager (London) at Merkle Science",
+          "description": "Join Merkle Science as Product Marketing Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm85.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "8d06aed2-8b41-4a11-88c2-9c8377c8e8bd",
+      "verification": "creating"
     }
   ]
 }
