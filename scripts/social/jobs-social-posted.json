@@ -69789,6 +69789,39 @@
       "postId": "17902377411606049",
       "permalink": "https://www.threads.com/@hashtagweb3/post/DfDM0xqD0-8",
       "account": "hashtagweb3"
+    },
+    {
+      "slug": "wo",
+      "company": "Block",
+      "title": "Head of Workforce Optimization",
+      "platform": "bluesky",
+      "postedAt": "2026-10-28T19:37:28.535Z",
+      "expectedText": "Block is hiring Head of Workforce Optimization: https://hashtagweb3.com/wo/bsky?og=7",
+      "snapshot": {
+        "id": "5459471008",
+        "title": "Head of Workforce Optimization",
+        "company": "Block",
+        "link": "http://block.xyz/careers/jobs/5459471008?gh_jid=5459471008",
+        "date": "2026-10-22T11:15:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Block [block]",
+        "location": "Bay Area, CA, United States of America",
+        "department": "30122 Risk - Customer Operations - Cash App Foundation",
+        "active": true,
+        "salary": "$217.8k – $326.8k/yr",
+        "dateVerified": true,
+        "slug": "wo"
+      },
+      "payload": {
+        "text": "Block is hiring Head of Workforce Optimization: https://hashtagweb3.com/wo/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/wo/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/wo.png?v=7",
+        "company": "Block",
+        "title": "Head of Workforce Optimization",
+        "description": "Join Block as Head of Workforce Optimization. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "872e309c-9e96-43eb-bdae-c1ae2b1e1f11",
+      "verification": "creating"
     }
   ]
 }
