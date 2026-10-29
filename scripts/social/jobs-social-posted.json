@@ -74270,7 +74270,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "0f97c64d-3a81-4a8b-a9e1-4c8739ae37f1",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Employer application unverified: The operation was aborted due to timeout"
     }
   ]
 }
