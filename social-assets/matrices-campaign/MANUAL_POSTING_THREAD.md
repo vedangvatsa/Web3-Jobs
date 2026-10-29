@@ -160,12 +160,34 @@ hashtagweb3.com/jobs/x
 **Attach Image:** `public/images/social/thread-outro-resources.png`
 
 ```text
-All interactive comparison matrices, city filters, and visa directories are free to explore on Hashtag Web3:
+All 10 interactive matrices and tools are free on Hashtag Web3:
 
-• 100+ Cities: hashtagweb3.com/nomads/x
-• 71 Visas: hashtagweb3.com/visas/x
-• Citizenship: hashtagweb3.com/citizenship/x
+• Cities: hashtagweb3.com/nomads/x
+• Visas: hashtagweb3.com/visas/x
+• Passports: hashtagweb3.com/citizenship/x
 • Web3 Jobs: hashtagweb3.com/jobs/x
 
-RT the first post if you found this useful! 🔁
+RT the 1st tweet if useful! 🔁
 ```
+
+---
+
+## 📊 Character Count Audit (All 12 Tweets < 280 characters)
+
+X (Twitter) counts any URL as 23 characters and emojis as 2 characters. Every tweet below is strictly verified against X and Threads limits:
+
+| # | Tweet Subject | URLs | X Weighted Length | Margin to 280 Limit | Status |
+|---|---|:---:|:---:|:---:|:---:|
+| **1** | The Opening Hook | 0 | **162** / 280 | +118 chars | ✅ Pass |
+| **2** | 1/ Living Cost vs Internet Speed | 1 | **175** / 280 | +105 chars | ✅ Pass |
+| **3** | 2/ Cost of Living vs Safety Score | 1 | **194** / 280 | +86 chars | ✅ Pass |
+| **4** | 3/ Walkability vs Monthly Living Cost | 1 | **215** / 280 | +65 chars | ✅ Pass |
+| **5** | 4/ The Nomad Value Index | 1 | **206** / 280 | +74 chars | ✅ Pass |
+| **6** | 5/ Digital Nomad Hubs: Quality vs Cost | 1 | **208** / 280 | +72 chars | ✅ Pass |
+| **7** | 6/ Global Passports: Mobility vs Cost | 1 | **224** / 280 | +56 chars | ✅ Pass |
+| **8** | 7/ Nomad Visas: Tax Rate vs Income | 1 | **222** / 280 | +58 chars | ✅ Pass |
+| **9** | 8/ Nomad Visas: Stay Duration vs Income | 1 | **215** / 280 | +65 chars | ✅ Pass |
+| **10** | 9/ CBI: Capital vs Processing Speed | 1 | **225** / 280 | +55 chars | ✅ Pass |
+| **11** | 10/ Where to Build Web3 | 1 | **228** / 280 | +52 chars | ✅ Pass |
+| **12** | Summary & Outro | 4 | **241** / 280 | +39 chars | ✅ Pass |
+
