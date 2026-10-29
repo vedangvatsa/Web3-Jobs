@@ -2516,5 +2516,36 @@
     "slotKey": "2026-10-29:morning",
     "messageId": 155975,
     "sentAt": "2026-10-29T03:36:51.640Z"
+  },
+  "0184d659-4e20-4aa9-a864-8fd0beff7f70": {
+    "status": "reserved",
+    "reservedAt": "2026-10-29T19:36:11.202Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "South Korea inspects Bithumb after employee data leak",
+        "summary": "Officials launched an investigation after unauthorized external access compromised staff information at the crypto exchange on October 28.",
+        "link": "https://hashtagweb3.com/bithumbraid?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bithumb staff data leak prompts on-site inspections by Korean regulators"
+      },
+      {
+        "index": -1,
+        "headline": "Liquid Network reserve gap narrows to 600 BTC",
+        "summary": "JAN3 CEO Samson Mow said the remaining Bitcoin deficit will be covered within several days.",
+        "link": "https://hashtagweb3.com/liquidgap?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Liquid reserve gap narrows to 600 BTC after test transfer"
+      },
+      {
+        "index": -1,
+        "headline": "Researcher claims Bitcoin prize by exploiting PHP vulnerability",
+        "summary": "A developer used a recently patched security flaw to win $2,020 from a vulnerable server on October 25.",
+        "link": "https://hashtagweb3.com/phpctf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Researcher claims Steal My Bitcoin prize by exploiting patched PHP flaw"
+      }
+    ],
+    "slotKey": "2026-10-29:evening"
   }
 }
