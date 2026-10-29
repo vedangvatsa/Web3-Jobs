@@ -74132,6 +74132,40 @@
       "attemptId": "4cc009b1-95a3-45af-a207-6a164c85d0e9",
       "verification": "verified",
       "postId": "0x4faddbba576b89046ddda7e43c0d508d936a9b45"
+    },
+    {
+      "slug": "an108",
+      "company": "Crypto.com",
+      "title": "M&A Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-10-29T19:39:06.597Z",
+      "expectedText": "Crypto.com is hiring M&A Analyst\n\nhttps://hashtagweb3.com/an108/fc?og=7",
+      "snapshot": {
+        "id": "27b67b39-dbce-47c7-ba75-35ec37aaf676",
+        "title": "M&A Analyst",
+        "company": "Crypto.com",
+        "link": "https://jobs.lever.co/crypto/27b67b39-dbce-47c7-ba75-35ec37aaf676",
+        "date": "2026-10-26T08:08:51.786Z",
+        "source": "Lever: Crypto.com [crypto]",
+        "location": "Hybrid (Singapore)",
+        "workplaceType": "hybrid",
+        "department": "Corporate",
+        "active": true,
+        "dateVerified": true,
+        "slug": "an108"
+      },
+      "payload": {
+        "text": "Crypto.com is hiring M&A Analyst\n\nhttps://hashtagweb3.com/an108/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/an108/fc?og=7"
+          }
+        ],
+        "channel_id": "jobs"
+      },
+      "account": "channel:jobs",
+      "attemptId": "ace47170-a3e6-4e4c-b651-3f21b83545c4",
+      "verification": "creating"
     }
   ]
 }
