@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+  <defs>
+    <style>
+      .title { font-family: Georgia, 'Times New Roman', 'Playfair Display', serif; font-weight: 700; fill: #111827; }
+      .axis-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 800; letter-spacing: 1.5px; fill: #111827; }
+      .meta { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    </style>
+    <marker id="arrow-right" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8 5 L 0 8.5 z" fill="#1F2937"/>
+    </marker>
+    <marker id="arrow-left" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 8 1.5 L 0 5 L 8 8.5 z" fill="#1F2937"/>
+    </marker>
+    <marker id="arrow-up" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 1.5 8 L 5 0 L 8.5 8 z" fill="#1F2937"/>
+    </marker>
+    <marker id="arrow-down" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 1.5 0 L 5 8 L 8.5 0 z" fill="#1F2937"/>
+    </marker>
+  </defs>
+
+  <!-- Clean Background -->
+  <rect width="1200" height="1200" fill="#FFFFFF"/>
+
+  <!-- Top Header Title -->
+  <text x="600" y="90" text-anchor="middle" font-size="52" class="title">Global Citizenship: Capital vs Speed</text>
+
+  <!-- Crosshairs Axes -->
+  <!-- Horizontal X-Axis (from 215 to 985, y=620) -->
+  <line x1="215" y1="620" x2="985" y2="620" stroke="#1F2937" stroke-width="2.2" marker-start="url(#arrow-left)" marker-end="url(#arrow-right)"/>
+  
+  <!-- Vertical Y-Axis (from 195 to 1045, x=600) -->
+  <line x1="600" y1="195" x2="600" y2="1045" stroke="#1F2937" stroke-width="2.2" marker-start="url(#arrow-up)" marker-end="url(#arrow-down)"/>
+
+  <!-- Axis Labels -->
+  <!-- Top Label -->
+  <text x="600" y="165" text-anchor="middle" font-size="18" class="axis-label">FAST-TRACK PASSPORT (1 - 6 MONTHS)</text>
+  
+  <!-- Bottom Label -->
+  <text x="600" y="1080" text-anchor="middle" font-size="18" class="axis-label">NATURALIZATION ROUTE (5 - 10 YEARS)</text>
+  
+  <!-- Left Label -->
+  <text x="195" y="626" text-anchor="end" font-size="18" class="axis-label">EXPENSIVE CAPITAL ($500K+)</text>
+  
+  <!-- Right Label -->
+  <text x="1005" y="626" text-anchor="start" font-size="18" class="axis-label">ACCESSIBLE CAPITAL (&lt;$250K)</text>
+
+  <!-- Render Data Points -->
+  
+    <g class="matrix-item" data-name="Vanuatu">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="960" cy="233" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="960" cy="231" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik01MTIgMjIzVjBIMGwxOTMgMjU2eiIvPjxwYXRoIGZpbGw9IiM2ZGE1NDQiIGQ9Ik01MTIgMjg5djIyM0gwbDE5My0yNTZaIi8+PHBhdGggZmlsbD0iIzMzMyIgZD0ibTAgMCAyMjMgMjIzaDI4OXYyMmwtOCAxMSA4IDExdjIySDIyM0wwIDUxMnYtMzFsOC0yNC04LThWNjNsOC03LTgtMjRaIi8+PHBhdGggZmlsbD0iI2ZmZGE0NCIgZD0iTTAgMzJ2MzFsMTkzIDE5M0wwIDQ0OXYzMmwyMTMtMjE0aDI5OXYtMjJIMjEzem03MyAxNjljLTIyIDAtNDAgMTgtNDAgNDEgMCAxOCAxNSAzMyAzNCAzM2EyOCAyOCAwIDAgMCAyOC0yOEg3NHEtMSA2LTcgN2ExMiAxMiAwIDAgMS0xMi0xMiAxOSAxOSAwIDAgMSAxOS0xOSAyOCAyOCAwIDAgMSAyNyAyNyAzOSAzOSAwIDAgMS0zOSAzOXYyMmMzMyAwIDYwLTI4IDYwLTYxYTQ5IDQ5IDAgMCAwLTQ5LTQ5Ii8+PC9nPjwvc3ZnPg==" x="933" y="203" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="960" cy="230" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="960" cy="230" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="960" y="274" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Vanuatu</text>
+      <text x="960" y="292" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">117 Visa-Free · 30 Days · $130k</text>
+    </g>
+
+    <g class="matrix-item" data-name="Dominica">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="900" cy="343" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="900" cy="341" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiM0OTZlMmQiIGQ9Ik0wIDBoMjA4bDQ4IDMyIDQ4LTMyaDIwOHYyMDhsLTMyIDQ4IDMyIDQ4djIwOEgzMDRsLTQ4LTMyLTQ4IDMySDBWMzA0bDMyLTQ4LTMyLTQ4WiIvPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik01MTIgMjQwdjMybC0yNTYgMzJMMCAyNzJ2LTMybDI1Ni0zMnoiLz48cGF0aCBmaWxsPSIjZmZkYTQ0IiBkPSJNNTEyIDIwOHYzMkgwdi0zMnoiLz48cGF0aCBmaWxsPSIjMzMzIiBkPSJNMjQwIDBoMzJsMzIgMjU2LTMyIDI1NmgtMzJsLTMyLTI1NloiLz48cGF0aCBmaWxsPSIjZmZkYTQ0IiBkPSJNMjA4IDBoMzJ2NTEyaC0zMnoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJNMjcyIDBoMzJ2NTEyaC0zMnoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJNNTEyIDI3MnYzMkgwdi0zMnoiLz48Y2lyY2xlIGN4PSIyNTYiIGN5PSIyNTYiIHI9IjEyMi40IiBmaWxsPSIjZDgwMDI3Ii8+PHBhdGggZmlsbD0iIzQ5NmUyZCIgZD0iTTI4NCAyNzBjLTktMTktMjEtMzctMjEtMzd2LTEzYTE0IDE0IDAgMCAwLTI3LTIgMTEgMTEgMCAwIDAtNCAyMSAxNiAxNiAwIDAgMSA5LTkgMTQgMTQgMCAwIDAgMiAyaDJzLTcgMTktNyAyOWMwIDI3IDE5IDM2IDE5IDM2bC0xMCA5aDE5di0xOGw5IDlzMTctMTEgOS0yN3ptLTI4LTExNCA0IDEzaDE0bC0xMSA4IDQgMTItMTEtOC0xMSA4IDQtMTItMTEtOGgxNFptLTU5IDE5IDExIDggMTEtOC00IDEzIDExIDhoLTE0bC00IDEyLTQtMTJoLTE0bDExLTh6bS0zNiA1MGgxM2w0LTEzIDQgMTNoMTRsLTExIDggNCAxMy0xMS04LTExIDggNS0xM3ptMCA2MiAxMS04LTUtMTMgMTEgOCAxMS04LTQgMTMgMTEgOGgtMTRsLTQgMTMtNC0xM1ptMzYgNTAgNC0xMy0xMS04aDE0bDQtMTIgNCAxMmgxM2wtMTAgOCA0IDEzLTExLTh6bTU5IDE5LTQtMTNoLTE0bDExLTgtNC0xMiAxMSA4IDExLTgtNCAxMiAxMSA5aC0xNFptNTktMTktMTEtOC0xMSA4IDQtMTMtMTAtOGgxM2w0LTEyIDQgMTJoMTRsLTExIDh6bTM2LTUwaC0xM2wtNCAxMy00LTEzaC0xNGwxMS04LTQtMTMgMTEgOCAxMS04LTUgMTN6bTAtNjItMTEgOCA1IDEzLTExLTgtMTEgOCA0LTEzLTExLThoMTRsNC0xMyA0IDEzem0tMzYtNTAtNCAxMyAxMSA4aC0xNGwtNCAxMi00LTEyaC0xNGwxMS04LTQtMTMgMTEgOHoiLz48L2c+PC9zdmc+" x="873" y="313" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="900" cy="340" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="900" cy="340" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="900" y="384" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Dominica</text>
+      <text x="900" y="402" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">145 Visa-Free · 3 Mos · $200k</text>
+    </g>
+
+    <g class="matrix-item" data-name="Antigua &amp; Barbuda">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="820" cy="253" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="820" cy="251" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik0wIC40aDUxMmwtMzQgMjI5SDM2eiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0zNjcuMyAyMDUuMy0xMDkuNyAxOS40LTExMi45LTE5LjQgNDUuNS0yMS4zLTI0LjItNDQgNDkuMyA5LjQgNi4zLTQ5LjkgMzQuNCAzNi43IDM0LjQtMzYuNiA2LjMgNTBMMzQ2IDE0MGwtMjQuMiA0NHoiLz48cGF0aCBmaWxsPSIjMDA1MmI0IiBkPSJNMjUuNiAyMDUuM2g0NjYuOEwyNTcgNDM5LjV6Ii8+PHBhdGggZmlsbD0iI2VlZSIgZD0iTTM0IDMwNy40aDQ0NkwyNTYgNTExLjZ6Ii8+PHBhdGggZmlsbD0iI2EyMDAxZCIgZD0ibTAgNTExLjYgMjU2IC40TDAgLjR6bTI1NiAuNCAyNTYtLjRWMHoiLz48L2c+PC9zdmc+" x="793" y="223" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="820" cy="250" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="820" cy="250" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="820" y="294" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Antigua &amp; Barbuda</text>
+      <text x="820" y="312" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">153 Visa-Free · 4 Mos · $230k</text>
+    </g>
+
+    <g class="matrix-item" data-name="Grenada">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="820" cy="423" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="820" cy="421" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Ik0yMy42IDIzLjdoNDY0Ljh2NDY0LjdIMjMuNnoiLz48cGF0aCBmaWxsPSIjNDk2ZTJkIiBkPSJNMCA3NS4xIDM4IDM4bDQzNi4zIDQzNi40IDM3LjctMzcuNVY3NWwtMzkuNi0zNS41TDQwLjIgNDcxLjggMCA0MzYuOHoiLz48Y2lyY2xlIGN4PSIyNTYiIGN5PSIyNTYuMSIgcj0iODkiIGZpbGw9IiNhMjAwMWQiLz48cGF0aCBmaWxsPSIjZmZkYTQ0IiBkPSJtMjU2IDE2NyAyMCA2MS41aDY0LjZsLTUyLjMgMzggMjAgNjEuMy01Mi4zLTM4LTUyLjMgMzggMjAtNjEuMy01Mi4zLTM4SDIzNnpNMjU2IC4yeiIvPjxwYXRoIGZpbGw9IiNhMjAwMWQiIGQ9Ik0wIDBoNTEydjc1LjFIMHptMCA0MzYuOGg1MTJ2NzUuMUgweiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0yNTYgMjggNC4xIDEyLjdoMTMuNWwtMTAuOSA4IDQuMiAxMi42LTEwLjktNy45LTEwLjggOCA0LjEtMTIuOC0xMC45LThIMjUyem0tNjIgMCA0IDEyLjdoMTMuNWwtMTAuOSA4IDQuMiAxMi42LTEwLjktNy45LTEwLjggOCA0LjEtMTIuOC0xMC44LThoMTMuNHptMTI0IDAgNC4yIDEyLjdoMTMuNGwtMTAuOCA4IDQuMSAxMi42LTEwLjgtNy45LTEwLjkgOCA0LjItMTIuOC0xMC45LThIMzE0em0tNjIgNDIyLjggNC4xIDEyLjdoMTMuNWwtMTAuOSA4IDQuMiAxMi43LTEwLjktOC0xMC44IDggNC4xLTEyLjgtMTAuOS03LjlIMjUyem0tNjIgMCA0IDEyLjdoMTMuNWwtMTAuOSA4IDQuMiAxMi43LTEwLjktOC0xMC44IDggNC4xLTEyLjgtMTAuOC03LjloMTMuNHptMTI0IDAgNC4yIDEyLjdoMTMuNGwtMTAuOCA4IDQuMSAxMi43LTEwLjgtOC0xMC45IDggNC4yLTEyLjgtMTAuOS03LjlIMzE0em0tMjQwLTE5OWEyMi4zIDIyLjMgMCAwIDEtMzcuNiAyMy45Yy0xMi0xOC44LTUtNDkuNS01LTQ5LjVTNjYgMjMzIDc4IDI1MS45eiIvPjxjaXJjbGUgY3g9IjY1LjEiIGN5PSIyNzMuMiIgcj0iMTEuMSIgZmlsbD0iI2EyMDAxZCIvPjwvZz48L3N2Zz4=" x="793" y="393" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="820" cy="420" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="820" cy="420" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="820" y="464" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Grenada</text>
+      <text x="820" y="482" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">148 Visa-Free · 4 Mos (US E-2) · $235k</text>
+    </g>
+
+    <g class="matrix-item" data-name="St. Lucia">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="730" cy="333" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="730" cy="331" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiMzMzhhZjMiIGQ9Ik0wIDBoNTEydjUxMkgweiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0xNjEuNCAzNDVoMTg5LjJMMjU2IDEyMi40eiIvPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik0xOTQuMyAzMjIuOCAyNTYgMTgyLjRsNjEuNyAxNDAuNHoiLz48cGF0aCBmaWxsPSIjZmZkYTQ0IiBkPSJNMTYxLjQgMzQ1aDE4OS4yTDI1NiAyNTZ6Ii8+PC9nPjwvc3ZnPg==" x="703" y="303" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="730" cy="330" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="730" cy="330" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="730" y="374" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">St. Lucia</text>
+      <text x="730" y="392" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">146 Visa-Free · 3 Mos · $240k</text>
+    </g>
+
+    <g class="matrix-item" data-name="St. Kitts &amp; Nevis">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="650" cy="273" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="650" cy="271" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0wIDQwMS45IDE3My42LTIyNS4zTDQwMS45IDBINDQ5bDYzIDYzLS4xIDQ3LjMtMTY3LjMgMjIzLjVMMTEwLjMgNTEySDYzTDAgNDQ5eiIvPjxwYXRoIGZpbGw9IiM2ZGE1NDQiIGQ9Ik0wIDB2NDAxLjlMNDAxLjkgMHoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNNTEyIDUxMlYxMTAuM0wxMTAuMyA1MTJ6Ii8+PHBhdGggZmlsbD0iIzMzMyIgZD0iTTAgNTEyaDYzTDUxMiA2M1YwaC02M0wwIDQ0OXoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJtMTYyLjggMzAyIDI0IDEyLjIgMTktMTktNC40IDI2LjUgMjQgMTIuMi0yNi42IDQuMi00LjIgMjYuNS0xMi0yNEwxNTYgMzQ1bDE5LTE5ek0zMDIgMTYyLjhsMjQgMTIuMSAxOS0xOS00LjMgMjYuNiAyNCAxMi4xLTI2LjYgNC4yLTQuMiAyNi41LTEyLjItMjMuOS0yNi41IDQuMiAxOS0xOXoiLz48L2c+PC9zdmc+" x="623" y="243" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="650" cy="270" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="650" cy="270" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="650" y="314" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">St. Kitts &amp; Nevis</text>
+      <text x="650" y="332" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">157 Visa-Free · 4 Mos · $250k</text>
+    </g>
+
+    <g class="matrix-item" data-name="El Salvador">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="240" cy="273" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="240" cy="271" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDBoNTEydjE0NC43bC00MC41IDExMi42IDQwLjUgMTEwVjUxMkgwVjM2Ny4zbDQyLjItMTE0TDAgMTQ0Ljd6Ii8+PHBhdGggZmlsbD0iI2VlZSIgZD0iTTAgMTQ0LjdoNTEydjIyMi42SDB6Ii8+PHBhdGggZmlsbD0iI2ZmZGE0NCIgZD0ibTIwNC42IDI2Ny4xIDUxLjQtODkgNTEuNCA4OXoiLz48cGF0aCBmaWxsPSIjNmRhNTQ0IiBkPSJNMzIyLjggMjk2LjUgMjU2IDMzMGwtNjYuOC0zMy40VjI1MmgxMzMuNnoiLz48cGF0aCBmaWxsPSIjZmZkYTQ0IiBkPSJtMzE5IDE4Mi0yMy42IDIzLjVhNTUuNSA1NS41IDAgMCAxLTM5LjQgOTUgNTUuNyA1NS43IDAgMCAxLTM5LjMtOTVMMTkzIDE4MmE4OSA4OSAwIDEgMCAxMjYgMHoiLz48L2c+PC9zdmc+" x="213" y="243" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="240" cy="270" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="240" cy="270" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="240" y="314" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">El Salvador</text>
+      <text x="240" y="332" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">136 Visa-Free · 60 Days · $1M BTC</text>
+    </g>
+
+    <g class="matrix-item" data-name="Turkey">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="460" cy="443" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="460" cy="441" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjUxMkgweiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0yMDggMTE1YTE0MSAxNDEgMCAxIDAgMTA2IDI0MnEtMjUgMTMtNTQgMTNhMTE0IDExNCAwIDEgMSA1NC0yMTUgMTQxIDE0MSAwIDAgMC0xMDYtNDBtMTQyIDY3djU2bC01NCAxOCA1NCAxN3Y1N2wzMy00NiA1NCAxOC0zMy00NiAzMy00Ni01NCAxOHoiLz48L2c+PC9zdmc+" x="433" y="413" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="460" cy="440" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="460" cy="440" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="460" y="484" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Turkey</text>
+      <text x="460" y="502" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">118 Visa-Free · 6-9 Mos · $400k Real Est.</text>
+    </g>
+
+    <g class="matrix-item" data-name="Malta">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="340" cy="413" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="340" cy="411" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDBoMjU2bDUyIDI1OS4yTDI1NiA1MTJIMHoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMjU2IDBoMjU2djUxMkgyNTZ6Ii8+PHBhdGggZmlsbD0iI2FjYWJiMSIgZD0iTTE2MCAxMjhWOTZoLTMydjMySDk2djMyaDMydjMyaDMydi0zMmgzMnYtMzJ6Ii8+PC9nPjwvc3ZnPg==" x="313" y="383" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="340" cy="410" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="340" cy="410" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="340" y="454" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Malta</text>
+      <text x="340" y="472" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">187 Visa-Free · 12-36 Mos · €750k CBI</text>
+    </g>
+
+    <g class="matrix-item" data-name="UAE">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="410" cy="543" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="410" cy="541" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNhMjAwMWQiIGQ9Ik0wIDBoMTY3bDUyLjMgMjUyTDE2NyA1MTJIMHoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJtMTY3IDE2NyAxNzAuOC00NC42TDUxMiAxNjd2MTc4bC0xNzMuMiAzNi45TDE2NyAzNDV6Ii8+PHBhdGggZmlsbD0iIzZkYTU0NCIgZD0iTTE2NyAwaDM0NXYxNjdIMTY3eiIvPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik0xNjcgMzQ1aDM0NXYxNjdIMTY3eiIvPjwvZz48L3N2Zz4=" x="383" y="513" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="410" cy="540" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="410" cy="540" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="410" y="584" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">UAE</text>
+      <text x="410" y="602" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">182 Visa-Free · 10-Yr Golden Visa · $545k</text>
+    </g>
+
+    <g class="matrix-item" data-name="Greece">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="460" cy="763" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="460" cy="761" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDBoOTlsMjkgMzIgMjgtMzJoMzU2djU3bC0zMiAyOCAzMiAyOXY1N2wtMzIgMjggMzIgMjl2NTdsLTMyIDI4IDMyIDI4djU3bC0zMiAyOSAzMiAyOHY1N0gwdi01N2wzMi0yOC0zMi0yOXYtNTZsMzItMjktMzItMjhWMTcxbDMyLTI5LTMyLTI4WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik05OSAwdjExNEgwdjU3aDk5djExNEgwdjU3aDUxMnYtNTdIMTU2VjE3MWgxMDB2LTU3SDE1NlYwWm0xNTcgNTd2NTdoMjU2VjU3Wm0wIDExNHY1N2gyNTZ2LTU3Wk0wIDM5OHY1N2g1MTJ2LTU3eiIvPjwvZz48L3N2Zz4=" x="433" y="733" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="460" cy="760" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="460" cy="760" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="460" y="804" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Greece</text>
+      <text x="460" y="822" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">187 Visa-Free · 7 Yrs · €400k-€800k</text>
+    </g>
+
+    <g class="matrix-item" data-name="Portugal">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="580" cy="703" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="580" cy="701" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiM2ZGE1NDQiIGQ9Ik0wIDUxMmgxNjdsMzcuOS0yNjAuM0wxNjcgMEgweiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik01MTIgMEgxNjd2NTEyaDM0NXoiLz48Y2lyY2xlIGN4PSIxNjciIGN5PSIyNTYiIHI9Ijg5IiBmaWxsPSIjZmZkYTQ0Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTExNi45IDIxMS41VjI2N2E1MCA1MCAwIDEgMCAxMDAuMSAwdi01NS42SDExN3oiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJNMTY3IDI4My44Yy05LjIgMC0xNi43LTcuNS0xNi43LTE2LjdWMjQ1aDMzLjR2MjJjMCA5LjItNy41IDE2LjctMTYuNyAxNi43eiIvPjwvZz48L3N2Zz4=" x="553" y="673" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="580" cy="700" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="580" cy="700" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="580" y="744" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Portugal</text>
+      <text x="580" y="762" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">188 Visa-Free · 5 Yrs · €500k Fund</text>
+    </g>
+
+    <g class="matrix-item" data-name="Spain">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="420" cy="863" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="420" cy="861" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0wIDEyOCAyNTYtMzIgMjU2IDMydjI1NmwtMjU2IDMyTDAgMzg0WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0xOTYgMTY4cS0xMSAxLTE1IDExbC01LTFxLTE1IDEtMTYgMTZjLTEgMTUgNyAxNiAxNiAxNnExMSAwIDE1LTExYTE2IDE2IDAgMCAwIDE3LTQgMTYgMTYgMCAwIDAgMTcgNCAxNiAxNiAwIDEgMCAxMC0yMCAxNiAxNiAwIDAgMC0yNy01cS00LTYtMTItNm0wIDhxOCAxIDggOCAwIDgtOCA4LTcgMC04LTggMS03IDgtOG0yNCAwcTggMSA4IDggMCA4LTggOC03IDAtOC04IDEtNyA4LThtLTQ0IDEwIDQgMSA0IDhxLTEgNy04IDctOSAwLTgtOCAxLTcgOC04bTY0IDBxOCAxIDggOCAwIDgtOCA4LTcgMC04LTdsNC04em0tMTEyIDM4djgwaDE2di04MHptODAgMHY0MGMtMjYgMC00OCAxNC00OCAzMnMyMiAzMiA0OCAzMiA0OC0xNCA0OC0zMnYtNzJ6bTY0IDB2ODBoMTZ2LTgweiIvPjxwYXRoIGZpbGw9IiNmZjk4MTEiIGQ9Ik0yMDAgMTYwaDE2djMyaC0xNnoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMCAwdjEyOGg1MTJWMHptMjA4IDE4NGMtMjIgMC00MCAxMS00MCAyNGw4IDhoNjRsOC04YzAtMTMtMTgtMjQtNDAtMjRtLTcyIDhhOCA4IDAgMCAwLTggOHY4YTggOCAwIDEgMCAxNiAwdi04YTggOCAwIDAgMC04LThtMTQ0IDBhOCA4IDAgMCAwLTggOHY4YTggOCAwIDEgMCAxNiAwdi04YTggOCAwIDAgMC04LThtLTEyMCAzMnYyNGgtMzhhNCA0IDAgMCAwLTQgNCA0IDQgMCAwIDAgNCA0aDM4djQwYTI0IDI0IDAgMCAwIDI0IDI0IDI0IDI0IDAgMCAwIDI0LTI0IDI0IDI0IDAgMCAwIDI0IDI0IDI0IDI0IDAgMCAwIDI0LTI0di0yNGgtNDh2LTQ4em03MiA4YTEwIDEwIDAgMCAwLTEwIDEwdjEyYTEwIDEwIDAgMSAwIDIwIDB2LTEyYTEwIDEwIDAgMCAwLTEwLTEwbTI0IDE2djhoMzhhNCA0IDAgMCAwIDQtNCA0IDQgMCAwIDAtNC00em0tMTM0IDI0YTQgNCAwIDAgMC00IDQgNCA0IDAgMCAwIDQgNGgyOGE0IDQgMCAwIDAgNC00IDQgNCAwIDAgMC00LTR6bTE0NCAwYTQgNCAwIDAgMC00IDQgNCA0IDAgMCAwIDQgNGgyOGE0IDQgMCAwIDAgNC00IDQgNCAwIDAgMC00LTR6TTAgMzg0djEyOGg1MTJWMzg0eiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Ik0xODYgMTk2YTYgNiAwIDAgMC02IDYgNiA2IDAgMCAwIDYgNiA2IDYgMCAwIDAgNi02IDYgNiAwIDAgMC02LTZtMjIgMGE2IDYgMCAwIDAtNiA2IDYgNiAwIDAgMCA2IDYgNiA2IDAgMCAwIDYtNiA2IDYgMCAwIDAtNi02bTIyIDBhNiA2IDAgMCAwLTYgNiA2IDYgMCAwIDAgNiA2IDYgNiAwIDAgMCA2LTYgNiA2IDAgMCAwLTYtNiIvPjxwYXRoIGZpbGw9IiNmZjk4MTEiIGQ9Ik0xMjggMjA4YTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2em0xNDQgMGE4IDggMCAxIDAgMCAxNmgxNmE4IDggMCAxIDAgMC0xNnptLTk2IDh2OGg2NHYtOHptLTggMTZ2OGg4djE2aC04djhoMzJ2LThoLTh2LTE2aDh2LTh6bS04IDQwdjI0cTEgMTIgOSAxOXYtNDN6bTE5IDB2NDdoMTB2LTQ3em0yMCAwdjQzcTktNyA5LTE5di0yNHptLTcxIDMyYTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2em0xNDQgMGE4IDggMCAxIDAgMCAxNmgxNmE4IDggMCAxIDAgMC0xNnoiLz48cGF0aCBmaWxsPSIjMzM4YWYzIiBkPSJNMjA4IDI1NmExNiAxNiAwIDAgMC0xNiAxNiAxNiAxNiAwIDAgMCAxNiAxNiAxNiAxNiAwIDAgMCAxNi0xNiAxNiAxNiAwIDAgMC0xNi0xNm0tODAgNjRhOCA4IDAgMSAwIDAgMTZoMTZhOCA4IDAgMSAwIDAtMTZ6bTE0NCAwYTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2eiIvPjwvZz48L3N2Zz4=" x="393" y="833" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="420" cy="860" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="420" cy="860" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="420" y="904" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Spain</text>
+      <text x="420" y="922" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">190 Visa-Free · 10 Yrs / 2y Ibero · €500k</text>
+    </g>
+
+    <g class="matrix-item" data-name="Germany">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="300" cy="743" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="300" cy="741" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0wIDM0NSAyNTYuNy0yNS41TDUxMiAzNDV2MTY3SDB6Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0ibTAgMTY3IDI1NS0yMyAyNTcgMjN2MTc4SDB6Ii8+PHBhdGggZmlsbD0iIzMzMyIgZD0iTTAgMGg1MTJ2MTY3SDB6Ii8+PC9nPjwvc3ZnPg==" x="273" y="713" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="300" cy="740" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="300" cy="740" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="300" y="784" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Germany</text>
+      <text x="300" y="802" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">191 Visa-Free · 5 Yrs Naturalization</text>
+    </g>
+
+    <g class="matrix-item" data-name="Singapore">
+      
+      <!-- Drop shadow for flag circle -->
+      <circle cx="230" cy="943" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="230" cy="941" r="27" fill="#000000" opacity="0.06" />
+      
+      <!-- Flag circle image -->
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjI1NmwtMjU2IDMyTDAgMjU2WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0yMDAgNTZhNzggNzggMCAxIDAgMTcgMTU0IDc4IDc4IDAgMCAxIDAtMTUycS04LTItMTctMm01NiA1LTUgMTdoLTE4bDE0IDExLTUgMTcgMTQtMTEgMTUgMTEtNi0xNyAxNS0xMWgtMTh6bS00MyAzNC02IDE3aC0xOGwxNSAxMC02IDE3IDE1LTEwIDE0IDEwLTUtMTcgMTQtMTBoLTE4em04NiAwLTUgMTdoLTE4bDE0IDEwLTUgMTcgMTQtMTAgMTUgMTAtNi0xNyAxNS0xMGgtMTh6bS03MCA1MC01IDE3aC0xOGwxNCAxMC01IDE3IDE0LTEwIDE1IDEwLTYtMTcgMTUtMTBoLTE4em01NCAwLTYgMTdoLTE4bDE1IDEwLTYgMTcgMTUtMTAgMTQgMTAtNS0xNyAxNC0xMGgtMThaTTAgMjU2djI1Nmg1MTJWMjU2WiIvPjwvZz48L3N2Zz4=" x="203" y="913" width="54" height="54" />
+      
+      <!-- Flag borders -->
+      <circle cx="230" cy="940" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="230" cy="940" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      
+      <!-- Labels -->
+      <text x="230" y="984" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Singapore</text>
+      <text x="230" y="1002" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">195 Visa-Free · Ultra Selective / Closed</text>
+    </g>
+
+  <!-- Footer Footnotes & Watermark -->
+  <text x="45" y="1165" font-size="13" font-weight="400" fill="#9CA3AF" class="meta">Sources: Hashtag Web3 Passport &amp; CBI Guide (Statutory citizenship &amp; Golden Visa laws 2026).</text>
+  <text x="1155" y="1165" text-anchor="end" font-size="15" font-weight="700" fill="#111827" class="meta">@hashtagweb3 · hashtagweb3.com</text>
+</svg>
