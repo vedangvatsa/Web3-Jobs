@@ -1938,40 +1938,6 @@
       }
     ]
   },
-  "premier-solidusroundtable": {
-    "summaryLead": "Solidus Labs gathers compliance chiefs and legal minds behind closed doors in Seoul on 29 September, mid-Korea Blockchain Week. The Crypto Compliance & Legal Roundtable covers ground regulators rarely see hashed out publicly: Travel Rule implementation headaches, AML tooling that actually works, and the daily friction of policing markets that move in milliseconds across venues with different rulebooks.",
-    "sections": [
-      {
-        "heading": "Closed doors, candid substance",
-        "content": [
-          "The closed-door format isn't secrecy for theater. Compliance officers discuss detection thresholds, false-positive rates, and regulator interactions honestly only when minutes aren't quotable. Roundtables trade reach for candor - fewer attendees, sharper conversation - and in a field where admitting uncertainty can invite enforcement attention, that trade makes practical sense.",
-          "The agenda anchors are well chosen. Travel Rule compliance remains messy globally, with jurisdictions implementing the same FATF standard differently and VASP-to-VASP data exchange still tripping routine transfers. Debates over AML tooling benefit enormously from practitioners comparing what their monitors actually catch against what vendors promise in demos. Expect operational detail rather than policy speeches - the invite skews toward people whose names sit on the compliance sign-off line."
-        ]
-      },
-      {
-        "heading": "The host's vantage point",
-        "content": [
-          "Solidus Labs brings receipts to its own table. Its HALO platform spans trade surveillance, transaction monitoring, stablecoin and token monitoring, execution quality, case management, and increasingly agentic-AI workflows - multidimensional detection, as the company puts it, correlating trading activity with on-chain signals and funding flows. Client logos run from Circle and Paxos to eToro, Bybit, and Schwab.",
-          "Recent moves underscore the trajectory: Solidus now powers trade surveillance for Kinetic Markets, Kalshi's futures commission merchant, extending from crypto-native exchanges into regulated prediction markets. Born in crypto, built for Wall Street is their own line, and the roundtable inherits that dual fluency.",
-          "The product breadth maps neatly onto the agenda. Stablecoin monitoring speaks directly to Travel Rule and AML questions as dollar tokens become settlement layers; token monitoring and the TokenSniffer scam-detection tooling cover the contract-level risks exchanges inherit; and their work serving regulators means the room gets both the supervised and supervisor perspectives in one conversation."
-        ]
-      },
-      {
-        "heading": "Why Seoul, why now",
-        "content": [
-          "Korea deserves its own compliance conversation. It ranks among the world's most active crypto markets with strict exchange regimes and its own Travel Rule implementation, yet regional perspectives stay thin at US- and EU-centric compliance conferences. Hosting during Korea Blockchain Week assembles the right people without anyone booking extra flights.",
-          "Timing compounds the value. Asian rulemaking increasingly must reconcile with MiCA and US frameworks, and stablecoin legislation worldwide keeps pushing surveillance coverage beyond traditional venues into tokens and settlement layers. Practitioners comparing regional notes in September gain a planning advantage for whatever lands next year."
-        ]
-      },
-      {
-        "heading": "Working a small room well",
-        "content": [
-          "Preparation beats charisma at roundtables. Arrive with your hardest unresolved question - threshold calibration, cross-border data handling, model governance for AI-assisted reviews - because twenty informed peers in one room beat any webinar series on these subjects, and they will remember your answer longer than your title card.",
-          "Continuity exists beyond the day itself: Solidus runs the DACOM Summit, operates a Trade Surveillance Academy, and publishes annual compensation benchmarks for digital asset compliance staff. One Seoul afternoon plugged into that ecosystem can redirect a compliance roadmap faster than a quarter of vendor calls."
-        ]
-      }
-    ]
-  },
   "premier-instonchain": {
     "summaryLead": "Institutional Onchain: RWAs & Stablecoins Seoul 2026 is a one-day session on September 30, 2026, examining how real-world assets and stablecoins are moving from pitch decks onto actual balance sheets. It forms part of the KBW side-event program in Seoul.",
     "sections": [

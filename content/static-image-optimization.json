@@ -14293,10 +14293,6 @@
       "sha256": "6ceb110ef5cc46b71be463e79dd23c1da5e816932333da11b64d5bfc927aa1e2",
       "status": "retained"
     },
-    "/og/external/70d17649cf2bab08687088e5.webp": {
-      "sha256": "3bedf31e4499532e6667481eda4e1beaba0030b71d40bd7d27fb7c674397cca5",
-      "status": "optimized"
-    },
     "/og/external/742c5dafd3da425ecd561e28.webp": {
       "sha256": "00279c0023fe2534554b20329df1d7b1822d4b1bb0468b7e3c7e7f204b52a10f",
       "status": "optimized"
@@ -23897,10 +23893,6 @@
       "sha256": "adae74b477f6eb689eb85cf0306f7a86163ca1394c975fb1f0d4ebd2f14f4423",
       "status": "optimized"
     },
-    "/events/ma-bitcoin-asia-2027-54b71ef7.webp": {
-      "sha256": "2d822bdf35a0e4d71696f3aac6a0f8e3231d2b6960bba73e4c1053c5e92d7915",
-      "status": "optimized"
-    },
     "/events/ma-bitcoin-mena-2027-d3c41f8b.webp": {
       "sha256": "96600bcf3db449c6e060f4f5f85f914c0e4c8ff871a7519c88ef0d8daf54d6da",
       "status": "optimized"
@@ -24067,10 +24059,6 @@
     },
     "/events/mu-316859645-fa0d7f86.webp": {
       "sha256": "58aaf698ad0d2e3a75ce31faaf5e9583f28f3b812336c64de04630cfba4269bc",
-      "status": "optimized"
-    },
-    "/events/mu-316859713-6ba87cd2.webp": {
-      "sha256": "838f949a001296692bc5ab7939f151e5719f9a4a9d2f033de01d14db4e860a11",
       "status": "optimized"
     },
     "/events/mu-316869344-733ab13b.webp": {

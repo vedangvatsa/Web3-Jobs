@@ -355,49 +355,6 @@
     "month": "September 2026"
   },
   {
-    "id": "w3v-connect-by-cointelegraph-seoul-edition",
-    "name": "CONNECT by Cointelegraph: Seoul Edition",
-    "description": "Hosted during Korea Blockchain Week, CONNECT by Cointelegraph is a highly curated, community-driven event that brings together leading Web3 founders, builders, investors, and innovators shaping the future of the decentralized ecosystem.\n\nDesigned to foster meaningful connections and high-value conversations, CONNECT serves as a platform for the people driving the next wave of Web3 innovation.\n\n[Host: Cointelegraph Accelerator](https://cointelegraph.com/accelerate/?utm_source=luma)\nThe program helps find and support the next generation of leaders in the Web3 space, bringing together investors, startups, and relevant stakeholders to contribute to the development of Web3.\n\n[Host: Cointelegraph](https://cointelegraph.com/?utm_source=luma)\nFounded in 2013, Cointelegraph is the leading independent digital media resource covering a wide range of news on blockchain technology, crypto assets, and emerging fintech trends.\n\n[Partner: FinHarbor](https://www.finharbor.com/?utm_source=luma)\nFinHarbor is a technical platform provider for launching compliant, modular financial products — from wallets and neobanks to crypto ramps and OTC desks. Built on years of real-world fintech experience, our infrastructure helps clients launch faster, operate securely, and scale across fiat, crypto, and hybrid environments\n\n[Partner: Wincent](https://www.wincent.com/)\nWincent is a regulated crypto native fund providing over $5bn of liquidity daily in spot, RWA, CFD and perpetuals . With pricing and size in tokenized commodities, stablecoins and over 10,000 products with fiat pairs our institutional approach makes crypto businesses work.\n\n[Partner: Humandone](https://humandone.com/)\nHumandone is a product design and development studio specialising in modern digital experiences for startups and web3 companies. The team works across branding, app design, UX/UI systems, frontend development, and scalable infrastructure for crypto-native and consumer applications.",
-    "startDate": "2026-09-29T03:00:00.000Z",
-    "endDate": "2026-09-29T09:00:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "Seoul, South Korea",
-    "url": "https://luma.com/xxwrhox8",
-    "coverImage": "/events/luma-recover-w3vconnectbycoin-5bd654d8.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "hosts": [
-      "Cointelegraph Accelerator",
-      "Cointelegraph"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Seoul",
-    "slug": "connect-cointelegraph",
-    "registrationUrl": "https://luma.com/xxwrhox8",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/xxwrhox8",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/xxwrhox8",
-      "eventId": "evt-HSyy3FwAufu321U",
-      "fetchedAt": "2026-09-19T23:29:50.474Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "ma-korea-blockchain-week-2026--kbw2026-",
     "name": "Korea Blockchain Week 2026 (KBW2026)",
     "description": "",
@@ -640,59 +597,6 @@
       "url": "https://luma.com/zecq09tp",
       "eventId": "evt-ZR9kvg5Gf1VTqvI",
       "fetchedAt": "2026-09-19T23:29:55.518Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "w3v-crypto-compliance-and-legal-roundtable",
-    "name": "Crypto Compliance and Legal Roundtable, hosted by Solidus Labs and Yulchon",
-    "description": "Crypto Compliance & Legal Roundtable | Seoul\n\nJoin us on September 29 during the Korea Blockchain Week in Seoul for an exclusive, invitation-only Crypto Compliance and Legal Roundtable, bringing together a selected group of compliance and legal leaders, regulators, and policy experts.\n\nHosted by Solidus Labs and Yulchon, this in-person session will focus on advancing global crypto compliance through practical discussion. The roundtable is designed to foster open dialogue, share best practices, and identify actionable solutions to today’s most pressing regulatory and compliance challenges.\n\nAgenda\n\n16:30 – Registration\n17:00 – 18:30– Roundtable discussions: Best practices, challenges, and actionable solutions across key crypto compliance and legal topics, including:\n\n• Tokenization and Implementation of the amended Capital Markets Act and Electronic Securities Act\n  • How the recently enacted framework will be implemented in practice, including issuance, distribution and the treatment of investment contract securities.\n    • Speaker:  Ik Hyun Kim, Partner at Yulchon leading the blockchain and digital assets practice\n• Cross-border VASP compliance –\n  • Korea’s planned extension of the Travel Rule to transfers below KRW 1 million\n  • Growing regulatory focus on foreign and unregistered VASPs.\n  • Stablecoins transfers and future challenges.\n    • Speaker: Claire Lee, CEO of CODE\n• Unfair Coin Trading Regulatory Frameworks in Korea\n  • Overview of actual prosecution and referral cases over the past two years to examine the rankings of the most prevalent types of unfair trading practices and sheds light on the specific schemes and deceptive methods unique to the Korean virtual asset market\n    • [Speakers: Jackie Baek, Compliance Head of Korea at Crypto.com](https://Crypto.com)\n\n18:30 – Networking\n\nAddress: Yulchon, Parnas Tower, 38F 521 Teheran-ro, Gangnam-gu Seoul Republic of Korea\n\nPlaces are limited. Registration is subject to approval.\n\nAbout Yulchon\nYulchon is a full-service law firm headquartered in Seoul, Korea, advising on a full range of specialized practice areas, including corporate & finance, antitrust, tax, real estate & construction, dispute resolution, intellectual property & technology, and labor & employment. The firm was established in 1997 and has about 700 professionals. In addition to our main offices in Seoul, Yulchon has six overseas offices across five jurisdictions and 10 regional practice teams worldwide. The firm provides the highest quality of legal services to its clients around the globe, including their most complex legal matters.  Yulchon's Blockchain/Virtual Assets Team consists of seasoned experts who bring a wealth of experience and exceptional knowledge to deliver the highest standard of legal services in Korea’s finance, blockchain, and virtual asset sectors.\n\nAbout Solidus Labs\n\nBorn in crypto and built for efficiency across all asset classes, Solidus Labs is the category-definer for agentic-based compliance in trade surveillance and risk monitoring. At its core is HALO, an AI-powered, risk-based platform trusted globally by financial institutions, crypto firms, and regulators to enable proactive, intelligence-led oversight across any product, venue, or asset class.",
-    "startDate": "2026-09-29T07:30:00.000Z",
-    "endDate": "2026-09-29T10:30:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "Parnas Tower, 521 Teheran-ro, Gangnam District, Seoul, South Korea",
-    "url": "https://luma.com/fop77t0t",
-    "coverImage": "/events/luma-recover-w3vcryptocomplia-d6ac7b50.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "hosts": [
-      "Delphine",
-      "Natalie Pi"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Seoul",
-    "neighborhood": "Teheran-ro",
-    "slug": "cclr",
-    "registrationUrl": "https://luma.com/fop77t0t",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Parnas Tower",
-    "streetAddress": "521 Teheran-ro, Gangnam District",
-    "addressLocality": "Seoul",
-    "addressRegion": "Seoul",
-    "addressCountry": "KR",
-    "coordinates": {
-      "latitude": 37.5095138,
-      "longitude": 127.0612525
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/fop77t0t",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/fop77t0t",
-      "eventId": "evt-1XCx48uyAdwb72y",
-      "fetchedAt": "2026-09-19T23:29:51.614Z",
       "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
@@ -18287,7 +18191,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/altitude-rain-BP26",
-    "coverImage": null,
+    "coverImage": "/events/w3v-licence-to-spend-an-evening-with-altitude-and--f8a20027.webp",
     "month": "November 2026"
   },
   {
@@ -18915,7 +18819,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://www.teamz.co.jp/",
-    "coverImage": "/events/ma-teamz-web3-ai-summit-2027-da14a208.webp",
+    "coverImage": "/events/w3v-teamz-summit-10-27-04-05-e2661eb4.webp",
     "source": "marketacross",
     "month": "April 2027",
     "descriptionSource": {
@@ -19511,7 +19415,7 @@
     "country": "Hong Kong",
     "location": "Hong Kong, Hong Kong",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
+    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -21046,7 +20950,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/yrxbkvmn",
-    "coverImage": null,
+    "coverImage": "/events/w3v-new-friendship-tech-london-e7b99cf5.webp",
     "month": "November 2026"
   },
   {
@@ -22129,7 +22033,7 @@
     "country": "",
     "location": "Global",
     "url": "https://luma.com/eqwsf08t",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solanas-challenges-getblocks-solutions-94692c3f.webp",
     "month": "November 2026"
   },
   {
@@ -22666,7 +22570,7 @@
     "country": "IN",
     "location": "Mumbai, IN",
     "url": "https://luma.com/a0e6b8at",
-    "coverImage": null,
+    "coverImage": "/events/w3v-ai-economic-forum-mumbai-2026-e6058bab.webp",
     "month": "November 2026"
   },
   {
@@ -22693,7 +22597,7 @@
     "country": "IN",
     "location": "Mumbai, IN",
     "url": "https://luma.com/freesocietyhackathon",
-    "coverImage": null,
+    "coverImage": "/events/w3v-zcash-presents-free-society-hackathon-d385c627.webp",
     "month": "November 2026"
   },
   {
@@ -22706,7 +22610,7 @@
     "country": "IN",
     "location": "Mumbai, IN",
     "url": "https://luma.com/2kj0jqf9",
-    "coverImage": null,
+    "coverImage": "/events/w3v-sidequest-happy-hour-e3806b27.webp",
     "month": "November 2026",
     "descriptionSource": {
       "url": "https://luma.com/2kj0jqf9",
@@ -23515,7 +23419,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/microsoft-reactor-redmond/events/315688633/",
-    "coverImage": null,
+    "coverImage": "/events/mu-315688633-fbc596e5.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23613,7 +23517,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-phoenix/events/316859713/",
-    "coverImage": "/events/mu-316859713-6ba87cd2.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23670,7 +23574,7 @@
     "country": "IN",
     "location": "Mumbai, IN",
     "url": "https://luma.com/83ujl6ms",
-    "coverImage": null,
+    "coverImage": "/events/w3v-zcash-world-mumbai-9c44cd01.webp",
     "month": "November 2026"
   },
   {
@@ -23711,7 +23615,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-denver/events/316859689/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316859689-269ebffe.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -26700,7 +26604,7 @@
     "country": "IN",
     "location": "Mumbai, IN",
     "url": "https://luma.com/unfollowbombay",
-    "coverImage": null,
+    "coverImage": "/events/w3v-unfollow-002-mumbai-afterparty-with-zcash-bitr-bdee1b5d.webp",
     "month": "November 2026",
     "descriptionSource": {
       "url": "https://luma.com/unfollowbombay",
@@ -27510,7 +27414,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/los-angeles-double-your-crypto-club/events/317014775/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317014775-516a8fba.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -27538,7 +27442,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/lo-qqld",
-    "coverImage": null,
+    "coverImage": "/events/w3v-the-local-wmc-breakpointdas-edition-4fa07710.webp",
     "month": "November 2026"
   },
   {
@@ -27551,7 +27455,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/solanahiit",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solana-fitness-zone-hiit-class-breakpoint-2026-02bfe2cf.webp",
     "month": "November 2026"
   },
   {
@@ -27564,7 +27468,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/solanareset",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solana-fitness-zone-mental-reset-workshop-brea-28adf2f2.webp",
     "month": "November 2026"
   },
   {
@@ -27677,7 +27581,10 @@
     "url": "https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946609/",
     "coverImage": "/events/mu-312946609-64a47ab1.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Frank Migacz"
+    ]
   },
   {
     "id": "mu-316901080",
@@ -27731,7 +27638,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/btvqwap1",
-    "coverImage": null,
+    "coverImage": "/events/w3v-born-up-breakpoint-london-community-networking-84fe2283.webp",
     "month": "November 2026"
   },
   {
@@ -27744,7 +27651,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/6ung8frj",
-    "coverImage": null,
+    "coverImage": "/events/w3v-vcs-lps-cocktail-hour-breakpoint-london-93ac5f14.webp",
     "month": "November 2026"
   },
   {
@@ -27757,7 +27664,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/cnswgn30",
-    "coverImage": null,
+    "coverImage": "/events/w3v-forward-industries-breakpoint-dinner-c6fb2fca.webp",
     "month": "November 2026"
   },
   {
@@ -27770,7 +27677,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/zkpwmk83",
-    "coverImage": null,
+    "coverImage": "/events/w3v-proof-pour-london-a-private-cocktail-evening-94e740a0.webp",
     "month": "November 2026"
   },
   {
@@ -27783,7 +27690,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/solanaboxing",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solana-fitness-zone-group-boxing-breakpoint-20-a8768aed.webp",
     "month": "November 2026"
   },
   {
@@ -27796,7 +27703,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/ti7vdsai",
-    "coverImage": null,
+    "coverImage": "/events/w3v-fwdi-breakpoint-happy-hour-7d31eb3b.webp",
     "month": "November 2026"
   },
   {
@@ -27809,7 +27716,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/39ckiuiy",
-    "coverImage": null,
+    "coverImage": "/events/w3v-ggc-gmgn-global-championship-london-finals-a8e33695.webp",
     "month": "November 2026"
   },
   {
@@ -27822,7 +27729,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/lajgsnqb",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solana-breakpoint-security-drinks-by-fidesium-81c0fb30.webp",
     "month": "November 2026"
   },
   {
@@ -27835,7 +27742,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/gpxfy249",
-    "coverImage": null,
+    "coverImage": "/events/w3v-sol-calling-solana-breakpoint-happy-hour-1c83cf72.webp",
     "month": "November 2026"
   },
   {
@@ -27848,7 +27755,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/snrmcp50",
-    "coverImage": null,
+    "coverImage": "/events/w3v-beyond-business-an-exclusive-dinner-in-mayfair-e624d328.webp",
     "month": "November 2026"
   },
   {
@@ -27861,7 +27768,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/solanahiits",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solana-fitness-zone-hiit-class-breakpoint-2026-9e5b4832.webp",
     "month": "November 2026"
   },
   {
@@ -27874,7 +27781,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/LondonHappyHour",
-    "coverImage": null,
+    "coverImage": "/events/w3v-london-happy-hour-dbd282ac.webp",
     "month": "November 2026"
   },
   {
@@ -27887,7 +27794,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/n41tqnps",
-    "coverImage": null,
+    "coverImage": "/events/w3v-breakpoint-pub-quiz-c8e56359.webp",
     "month": "November 2026"
   },
   {
@@ -27900,7 +27807,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/e9iw08nn",
-    "coverImage": null,
+    "coverImage": "/events/w3v-no-more-pitches-83ba7a54.webp",
     "month": "November 2026"
   },
   {
@@ -28109,7 +28016,7 @@
     "country": "DE",
     "location": "Munich, DE",
     "url": "https://luma.com/rgk5ab91",
-    "coverImage": null,
+    "coverImage": "/events/w3v-softstack-tum-blockchain-dinner-9-179278608884-f85e92d9.webp",
     "month": "October 2026"
   },
   {
@@ -28510,7 +28417,7 @@
     "country": "IT",
     "location": "Bari, IT",
     "url": "https://luma.com/IXH26-xrpl-hackathon",
-    "coverImage": null,
+    "coverImage": "/events/w3v-ixh26-italian-xrpl-hackathon-db972dc1.webp",
     "month": "November 2026"
   },
   {
@@ -28768,7 +28675,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/8zpe32j0",
-    "coverImage": null,
+    "coverImage": "/events/w3v-an-evening-at-the-us-embassy-london-hosted-by--701b6bea.webp",
     "month": "November 2026"
   },
   {
@@ -28781,7 +28688,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/j6gxeshu",
-    "coverImage": null,
+    "coverImage": "/events/w3v-signal-evening-reception-das-london-63f6ffec.webp",
     "month": "November 2026"
   },
   {
@@ -29768,8 +29675,50 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-north-carolina/events/317064975/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317064975-0dc78544.webp",
     "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-1YkeGIX5PJN3Q9d",
+    "name": "UNICORN REUNION",
+    "description": "",
+    "startDate": "2026-10-30T03:00:00.000Z",
+    "endDate": "2026-10-30T09:00:00.000Z",
+    "city": "Richmond",
+    "country": "Canada",
+    "location": "Richmond, Canada",
+    "url": "https://lu.ma/q5bfk6n3",
+    "coverImage": "/events/luma-evt-1ykegix5pjn3q9d-1acd7d8f.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-qCiObjKvEDsyVeF",
+    "name": "The Haunted Fairway",
+    "description": "",
+    "startDate": "2026-11-01T00:00:00.000Z",
+    "endDate": "2026-11-01T04:00:00.000Z",
+    "city": "Queens",
+    "country": "United States",
+    "location": "Queens, United States",
+    "url": "https://lu.ma/7i2ego9w",
+    "coverImage": "/events/luma-evt-qciobjkvedsyvef-caed706b.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-TGmkyfmPYbZ5OyE",
+    "name": "Fireworks: Deploy Buildathon with Microsoft & NVIDIA",
+    "description": "",
+    "startDate": "2026-11-02T17:00:00.000Z",
+    "endDate": "2026-11-03T04:00:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/fireworks-8kmc",
+    "coverImage": "/events/luma-evt-tgmkyfmpybz5oye-757afd3a.webp",
+    "source": "luma",
     "month": "November 2026"
   }
 ]

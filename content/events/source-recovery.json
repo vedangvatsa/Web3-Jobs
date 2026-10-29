@@ -20,18 +20,6 @@
       "reason": "The source title and image-based heading did not match the old punctuation variant; the organizer's event-specific page provides the full program."
     },
     {
-      "id": "premier-solidusroundtable",
-      "kind": "luma",
-      "sourceUrl": "https://luma.com/fop77t0t",
-      "contains": [
-        "Crypto Compliance and Legal Roundtable",
-        "Solidus Labs",
-        "Yulchon"
-      ],
-      "eventId": "evt-1XCx48uyAdwb72y",
-      "reason": "Matched the shortened curated title to the exact Solidus Labs and Yulchon event instead of the company homepage."
-    },
-    {
       "id": "premier-instonchain",
       "kind": "luma",
       "sourceUrl": "https://luma.com/qsfjc56x",

@@ -151,62 +151,6 @@
     }
   },
   {
-    "id": "luma-crypto-ujvKacbC5DsvFEC",
-    "slug": "claude-blo",
-    "name": "Claude for Blockchain: Trading Agents",
-    "description": "Pre-TOKEN2049 edition · Claude Singapore Community\n\nIn March, OKX did something no major exchange had done: they open-sourced a toolkit that lets an AI agent trade directly on their platform. Spot, futures, options, grid bots — 80+ tools, MIT licensed, running locally on your machine.\n\nMost of the industry still hasn't looked at it.\n\nThis session is a straight, practical hour on what exchange-native AI trading actually is, what it can and can't do, and what it means for how you work.\n\nWhat we'll cover\n\nWhat OKX actually shipped. The Agent Trade Kit, how it plugs into Claude Code through MCP, and the real scope of what an agent can reach — market data, order execution, position management, automated strategies.\n\nThe security model, honestly. Your API keys stay in a local config file. The model never sees them. Signing happens on your machine. Why that design matters, and where the remaining risk actually sits.\n\nHow people are using it. Research and market analysis, monitoring, strategy testing in demo mode, and execution. Where each one genuinely helps, and where it falls apart.\n\nThe part nobody wants to say out loud. AI makes mistakes, and you own the losses. What guardrails look like in practice — read-only mode, demo profiles, permission-scoped keys — and why you should never skip them.\n\nWhere the edge goes. When every desk can run the same agent on the same public data, what's actually left worth having.\n\nThen we build one, live\n\nLast fifteen minutes: a working agent wired to OKX through Claude Code, pulling live market data, running in read-only mode. From nothing to working, on stage. No laptops needed — just watch how little it takes.\n\nAnd then, Pre-TOKEN Networking\n\nTraders, founders, researchers, and anyone doing crypto work who wants to understand this properly before TOKEN2049 week takes over.\n\nRun of show\n\n4:00 — Doors Open and networking\n4:30 — Talk: Trading Agents\n5:30 — Live build: an OKX agent in 15 minutes\n5:45 — Open networking\n6:30 — Close\n\nDetails\n\nTuesday, 29 September 2026 · 4:30–6:30 PM\n\nNothing in this session is financial advice. Automated trading carries real risk of loss.",
-    "startDate": "2026-09-29T08:00:00.000Z",
-    "endDate": "2026-09-29T10:30:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "WeWork - Office Space & Coworking, 5 Temasek Blvd, level 17 Community Floor, Singapore 038985",
-    "url": "https://luma.com/claudeweb3",
-    "registrationUrl": "https://luma.com/claudeweb3",
-    "coverImage": "/events/luma-crypto-ujvkacbc5dsvfec-f4381ff2.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Freddy Lim",
-      "Kimberly Tan",
-      "Amelia C"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "neighborhood": "Downtown Core",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "WeWork - Office Space & Coworking",
-    "streetAddress": "5 Temasek Blvd, level 17 Community Floor, Singapore",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "coordinates": {
-      "latitude": 1.2944906,
-      "longitude": 103.8580161
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "Claude SG Community",
-      "url": "https://claudecode.sg/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/claudeweb3",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/claudeweb3",
-      "eventId": "evt-ujvKacbC5DsvFEC",
-      "fetchedAt": "2026-09-19T23:46:11.785Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-Ks1XgEhMaGtqKer",
     "slug": "cahs",
     "name": "Collaborative Agent Hackathon @ Stanford",

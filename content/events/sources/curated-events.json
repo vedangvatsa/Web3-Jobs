@@ -1903,58 +1903,6 @@
     }
   },
   {
-    "id": "premier-solidusroundtable",
-    "slug": "crypto-compliance-roundtable-seoul-2026",
-    "name": "Crypto Compliance and Legal Roundtable, hosted by Solidus Labs and Yulchon",
-    "description": "Crypto Compliance & Legal Roundtable | Seoul\n\nJoin us on September 29 during the Korea Blockchain Week in Seoul for an exclusive, invitation-only Crypto Compliance and Legal Roundtable, bringing together a selected group of compliance and legal leaders, regulators, and policy experts.\n\nHosted by Solidus Labs and Yulchon, this in-person session will focus on advancing global crypto compliance through practical discussion. The roundtable is designed to foster open dialogue, share best practices, and identify actionable solutions to today’s most pressing regulatory and compliance challenges.\n\nAgenda\n\n16:30 – Registration\n17:00 – 18:30– Roundtable discussions: Best practices, challenges, and actionable solutions across key crypto compliance and legal topics, including:\n\n• Tokenization and Implementation of the amended Capital Markets Act and Electronic Securities Act\n  • How the recently enacted framework will be implemented in practice, including issuance, distribution and the treatment of investment contract securities.\n    • Speaker:  Ik Hyun Kim, Partner at Yulchon leading the blockchain and digital assets practice\n• Cross-border VASP compliance –\n  • Korea’s planned extension of the Travel Rule to transfers below KRW 1 million\n  • Growing regulatory focus on foreign and unregistered VASPs.\n  • Stablecoins transfers and future challenges.\n    • Speaker: Claire Lee, CEO of CODE\n• Unfair Coin Trading Regulatory Frameworks in Korea\n  • Overview of actual prosecution and referral cases over the past two years to examine the rankings of the most prevalent types of unfair trading practices and sheds light on the specific schemes and deceptive methods unique to the Korean virtual asset market\n    • [Speakers: Jackie Baek, Compliance Head of Korea at Crypto.com](https://Crypto.com)\n\n18:30 – Networking\n\nAddress: Yulchon, Parnas Tower, 38F 521 Teheran-ro, Gangnam-gu Seoul Republic of Korea\n\nPlaces are limited. Registration is subject to approval.\n\nAbout Yulchon\nYulchon is a full-service law firm headquartered in Seoul, Korea, advising on a full range of specialized practice areas, including corporate & finance, antitrust, tax, real estate & construction, dispute resolution, intellectual property & technology, and labor & employment. The firm was established in 1997 and has about 700 professionals. In addition to our main offices in Seoul, Yulchon has six overseas offices across five jurisdictions and 10 regional practice teams worldwide. The firm provides the highest quality of legal services to its clients around the globe, including their most complex legal matters.  Yulchon's Blockchain/Virtual Assets Team consists of seasoned experts who bring a wealth of experience and exceptional knowledge to deliver the highest standard of legal services in Korea’s finance, blockchain, and virtual asset sectors.\n\nAbout Solidus Labs\n\nBorn in crypto and built for efficiency across all asset classes, Solidus Labs is the category-definer for agentic-based compliance in trade surveillance and risk monitoring. At its core is HALO, an AI-powered, risk-based platform trusted globally by financial institutions, crypto firms, and regulators to enable proactive, intelligence-led oversight across any product, venue, or asset class.",
-    "startDate": "2026-09-29T07:30:00.000Z",
-    "endDate": "2026-09-29T10:30:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "Parnas Tower, 521 Teheran-ro, Gangnam District, Seoul, South Korea",
-    "url": "https://luma.com/fop77t0t",
-    "website": "https://luma.com/fop77t0t",
-    "coverImage": "/events/premier-solidusroundtable-e957b1f6.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "timezone": "Asia/Seoul",
-    "registrationUrl": "https://luma.com/fop77t0t",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Parnas Tower",
-    "streetAddress": "521 Teheran-ro, Gangnam District",
-    "addressLocality": "Seoul",
-    "addressRegion": "Seoul",
-    "addressCountry": "KR",
-    "neighborhood": "Teheran-ro",
-    "coordinates": {
-      "latitude": 37.5095138,
-      "longitude": 127.0612525
-    },
-    "hosts": [
-      "Delphine",
-      "Natalie Pi"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/fop77t0t",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/fop77t0t",
-      "eventId": "evt-1XCx48uyAdwb72y",
-      "fetchedAt": "2026-09-20T07:56:54.017Z",
-      "method": "luma-page"
-    }
-  },
-  {
     "id": "premier-instonchain",
     "slug": "institutional5",
     "name": "Institutional Onchain: RWAs & Stablecoins📍Seoul, South Korea | 🗓 Sep 29 - Oct 1| During Korea Blockchain Week",

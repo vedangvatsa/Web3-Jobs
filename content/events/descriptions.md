@@ -135,58 +135,6 @@ Media Cooperation (TG) : @[hhtyng](https://t.me/hhtyng)
   - Web3Labs serves as a one-stop gateway for Web3.0 entrepreneurship. Aiming to respond to global market trends and policy declarations, Web3Labs supports global Web3 enterprises in expanding internationally through landing services, investment acceleration, technical cooperation, PR support, and compliance assistance. Currently, it operates offline incubators in Hong Kong, Singapore, Malaysia, South Korea, Hangzhou, Beijing, and other locations. Additionally, Web3Labs has launched a $10M Web3.0 Global Accelerator Program, establishing strategic partnerships with leading global organizations such as Neo, Zetrix, ICP, KuCoin Labs, TON, Mango, 0G LABS, Plume, etc., providing comprehensive empowerment and acceleration for high-quality global projects.(Web3Labs는 Web3.0 창업을 위한 원스톱 관문입니다. 글로벌 시장의 흐름과 정책 선언에 발맞추어 현지화 서비스, 투자 가속화, 기술 협력, PR 지원, 컴플라이언스 어시스턴스 등을 통해 글로벌 Web3 기업의 해외 진출과 글로벌 연결을 지원합니다. 현재 서울, 홍콩, 싱가포르, 말레이시아, 항저우, 베이징 등지에 오프라인 인큐베이터를 보유하고 있습니다. 또한 Web3Labs는 총 1,000만 달러 규모의 글로벌 액셀러레이팅 프로그램을 출시하여 Neo, Zetrix, ICP, KuCoin Labs, TON, Mango, 0G LABS, Plume 등 다수의 글로벌 선두 기관과 전략적 파트너십을 체결하고 우수한 글로벌 프로젝트에 전방위적 역량 강화 및 가속화를 제공하고 있습니다.)
     [X](https://x.com/LabsWeb368672?utm_source=luma)｜
 
-<a id="event-c6a7d32bcedc3260"></a>
-
-## Crypto Compliance and Legal Roundtable, hosted by Solidus Labs and Yulchon
-
-- Record: `premier-solidusroundtable`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-29T07:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/fop77t0t>
-
-### About the event
-
-Crypto Compliance & Legal Roundtable | Seoul
-
-Join us on September 29 during the Korea Blockchain Week in Seoul for an exclusive, invitation-only Crypto Compliance and Legal Roundtable, bringing together a selected group of compliance and legal leaders, regulators, and policy experts.
-
-Hosted by Solidus Labs and Yulchon, this in-person session will focus on advancing global crypto compliance through practical discussion. The roundtable is designed to foster open dialogue, share best practices, and identify actionable solutions to today's most pressing regulatory and compliance challenges.
-
-### Agenda
-
-16:30 - Registration
-
-17:00 - 18:30- Roundtable discussions: Best practices, challenges, and actionable solutions across key crypto compliance and legal topics, including:
-
-- Tokenization and Implementation of the amended Capital Markets Act and Electronic Securities Act
-  - How the recently enacted framework will be implemented in practice, including issuance, distribution and the treatment of investment contract securities.
-    - Speaker: Ik Hyun Kim, Partner at Yulchon leading the blockchain and digital assets practice
-- Cross-border VASP compliance -
-  - Korea's planned extension of the Travel Rule to transfers below KRW 1 million
-  - Growing regulatory focus on foreign and unregistered VASPs.
-  - Stablecoins transfers and future challenges.
-    - Speaker: Claire Lee, CEO of CODE
-- Unfair Coin Trading Regulatory Frameworks in Korea
-  - Overview of actual prosecution and referral cases over the past two years to examine the rankings of the most prevalent types of unfair trading practices and sheds light on the specific schemes and deceptive methods unique to the Korean virtual asset market
-    - [Speakers: Jackie Baek, Compliance Head of Korea at Crypto.com](https://Crypto.com)
-
-18:30 - Networking
-
-Address: Yulchon, Parnas Tower, 38F 521 Teheran-ro, Gangnam-gu Seoul Republic of Korea
-
-Places are limited. Registration is subject to approval.
-
-### About Yulchon
-
-Yulchon is a full-service law firm headquartered in Seoul, Korea, advising on a full range of specialized practice areas, including corporate & finance, antitrust, tax, real estate & construction, dispute resolution, intellectual property & technology, and labor & employment. The firm was established in 1997 and has about 700 professionals. In addition to our main offices in Seoul, Yulchon has six overseas offices across five jurisdictions and 10 regional practice teams worldwide. The firm provides the highest quality of legal services to its clients around the globe, including their most complex legal matters.
-
-Yulchon's Blockchain/Virtual Assets Team consists of seasoned experts who bring a wealth of experience and exceptional knowledge to deliver the highest standard of legal services in Korea's finance, blockchain, and virtual asset sectors.
-
-### About Solidus Labs
-
-Born in crypto and built for efficiency across all asset classes, Solidus Labs is the category-definer for agentic-based compliance in trade surveillance and risk monitoring. At its core is HALO, an AI-powered, risk-based platform trusted globally by financial institutions, crypto firms, and regulators to enable proactive, intelligence-led oversight across any product, venue, or asset class.
-
 <a id="event-f5700723435473ca"></a>
 
 ## CV Summit 2026
@@ -10428,115 +10376,6 @@ Media Cooperation (TG) : @[hhtyng](https://t.me/hhtyng)
   - Web3Labs serves as a one-stop gateway for Web3.0 entrepreneurship. Aiming to respond to global market trends and policy declarations, Web3Labs supports global Web3 enterprises in expanding internationally through landing services, investment acceleration, technical cooperation, PR support, and compliance assistance. Currently, it operates offline incubators in Hong Kong, Singapore, Malaysia, South Korea, Hangzhou, Beijing, and other locations. Additionally, Web3Labs has launched a $10M Web3.0 Global Accelerator Program, establishing strategic partnerships with leading global organizations such as Neo, Zetrix, ICP, KuCoin Labs, TON, Mango, 0G LABS, Plume, etc., providing comprehensive empowerment and acceleration for high-quality global projects.(Web3Labs는 Web3.0 창업을 위한 원스톱 관문입니다. 글로벌 시장의 흐름과 정책 선언에 발맞추어 현지화 서비스, 투자 가속화, 기술 협력, PR 지원, 컴플라이언스 어시스턴스 등을 통해 글로벌 Web3 기업의 해외 진출과 글로벌 연결을 지원합니다. 현재 서울, 홍콩, 싱가포르, 말레이시아, 항저우, 베이징 등지에 오프라인 인큐베이터를 보유하고 있습니다. 또한 Web3Labs는 총 1,000만 달러 규모의 글로벌 액셀러레이팅 프로그램을 출시하여 Neo, Zetrix, ICP, KuCoin Labs, TON, Mango, 0G LABS, Plume 등 다수의 글로벌 선두 기관과 전략적 파트너십을 체결하고 우수한 글로벌 프로젝트에 전방위적 역량 강화 및 가속화를 제공하고 있습니다.)
     [X](https://x.com/LabsWeb368672?utm_source=luma)｜
 
-<a id="event-f3cc2a852278876d"></a>
-
-## CONNECT by Cointelegraph: Seoul Edition
-
-- Record: `kbw-official-connect-by-cointelegraph-seoul-edition-09-29`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-09-29T03:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/xxwrhox8>
-
-### About the event
-
-Hosted during Korea Blockchain Week, CONNECT by Cointelegraph is a highly curated, community-driven event that brings together leading Web3 founders, builders, investors, and innovators shaping the future of the decentralized ecosystem.
-
-Designed to foster meaningful connections and high-value conversations, CONNECT serves as a platform for the people driving the next wave of Web3 innovation.
-
-[Host: Cointelegraph Accelerator](https://cointelegraph.com/accelerate/?utm_source=luma)
-
-The program helps find and support the next generation of leaders in the Web3 space, bringing together investors, startups, and relevant stakeholders to contribute to the development of Web3.
-
-[Host: Cointelegraph](https://cointelegraph.com/?utm_source=luma)
-
-Founded in 2013, Cointelegraph is the leading independent digital media resource covering a wide range of news on blockchain technology, crypto assets, and emerging fintech trends.
-
-[Partner: FinHarbor](https://www.finharbor.com/?utm_source=luma)
-
-FinHarbor is a technical platform provider for launching compliant, modular financial products - from wallets and neobanks to crypto ramps and OTC desks. Built on years of real-world fintech experience, our infrastructure helps clients launch faster, operate securely, and scale across fiat, crypto, and hybrid environments
-
-[Partner: Wincent](https://www.wincent.com/)
-
-Wincent is a regulated crypto native fund providing over $5bn of liquidity daily in spot, RWA, CFD and perpetuals. With pricing and size in tokenized commodities, stablecoins and over 10,000 products with fiat pairs our institutional approach makes crypto businesses work.
-
-[Partner: Humandone](https://humandone.com/)
-
-Humandone is a product design and development studio specialising in modern digital experiences for startups and web3 companies. The team works across branding, app design, UX/UI systems, frontend development, and scalable infrastructure for crypto-native and consumer applications.
-
-<a id="event-f5d57983e88fac09"></a>
-
-## Open AGI Frontier: AI Meets Robotics with Open AGI Salon
-
-- Record: `kbw-official-open-agi-frontier-ai-meets-robotics-09-29`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-09-29T05:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/0kun5o5z>
-
-### Event Overview
-
-As foundation models become increasingly commoditized, the AI industry is entering a new era - one defined by agents, applications, and infrastructure. Open AGI Salon is a curated, invitation-style gathering bringing together builders, investors, researchers, and thought leaders at the intersection of AI and Robotics.
-
-Co-organized by Sentient, Axis, and Kaito, this event is designed to spark meaningful cross-sector conversations and collaborations that go beyond passive attendance.
-
-🇰🇷 Korean participants must apply via Rocketpunch (국내 참가자 전용 신청 페이지):
-
-https://www.rocketpunch.com/event/EfCSDxQtQD
-
-### Theme & Topics
-
-The event explores the convergence of open-source AI and robotics - examining how autonomous agents, physical intelligence, and open infrastructure are reshaping industries and human-machine collaboration.
-
-- The future of Open AGI and open ecosystems
-- Agent-infrastructure and next-generation AI stacks
-- Physical AI and the rise of intelligent robotics
-- Scaffold design and its impact on agent performance and inference cost
-- Building and scaling AI-native products
-- Opportunities across the Asian AI and robotics ecosystem
-
-### What Happens
-
-2:00 PM | Doors open. Grab a drink. Meet the people building decentralized intelligence before anyone takes a stage.
-
-3:00 - 4:00 PM | Introduction (Sentient, Kaito, Axis, Rocketpunch)
-
-4:00 - 4:30 PM | Pannel Session 1
-
-4:30 - 5:00 PM | Pannel Session 2
-
-5:00 - 6:00 PM | Happy Hour
-
-### About the Co-Hosts
-
-Sentient Foundation
-
-[Sentient Foundation](https://sentient.foundation) is a non-profit organization dedicated to ensuring that Artificial General Intelligence (AGI) remains open-source and aligned with humanity. Guided by neutrality and transparency, Sentient promotes global adoption of open-source AGI, leads alignment and safety standards, provides grants to developers worldwide, and coordinates governance frameworks for responsible AI development.
-
-Sentient Labs
-
-[Sentient Labs](https://sentient.xyz) is an AI research and product lab building AI systems capable of deep reasoning, continuous learning, and self-improvement. Its flagship product, EvoSkill, enables AI engineering teams to automatically evolve entire AI agents using only a model and a benchmark. Sentient Labs also runs AI engineering competitions on Sentient Arena, where top researchers compete to build the best harness-based agent solutions for the world's hardest AI reasoning problems.
-
-Axis Robotics
-
-[Axis Robotics](https://axisrobotics.ai/) is building the Compounding Data Engine for Physical AI. We operate a large-scale distributed data network and a full-stack pipeline spanning simulation, egocentric data collection, pre-training, and real-time DAgger post-training. We have built a global distributed contributor community and a scalable data production infrastructure designed to continuously generate high-quality training data for Physical AI.
-
-Backed by Hack VC, Nomad Capital, Pi Network, and other visionary investors, Axis Robotics bridges the data gap in Physical AI by delivering foundation model-ready datasets and sim-to-real pipelines that enable continuous, scalable policy improvement.
-
-Kaito
-
-[Kaito](https://kaito.ai/) is the leading AI-powered intelligence platform, transforming how information is structured, shared, and valued across crypto, AI, stocks, and the wider frontier of tech and finance. Kaito powers a full stack of products, from its core intelligence platform (Kaito Pro, API & MCP) and creator marketplace (Kaito Studio) to its launchpad (Capital Launchpad), building new primitives for how influence and mindshare are measured, owned, and monetized.
-
-### About Sponsors
-
-Rocketpunch
-
-[Rocketpunch](https://www.rocketpunch.com/en) is a trusted business network built on verified identities.
-
-Rocketpunch helps founders, investors, talent, and companies connect in a safer and more transparent way. Unlike open social networks where anyone can appear anonymously, Rocketpunch is designed around verified identities, enabling people and organizations to build trust and create real opportunities.
-
-Rocketpunch is also evolving beyond a network for people and companies. It is becoming a platform where AI agents connected to real people and organizations can participate, act, and create opportunities. These agents can help users discover relevant people, jobs, investments, partnerships, and business opportunities within a trusted network.
-
 <a id="event-f7779a2c2fe885fd"></a>
 
 ## CODED@KBW — Connecting with High-Signal Leaders Across Infrastructure, AI Agentic Rails, Institutions & Stablecoins
@@ -10625,52 +10464,6 @@ LINE NEXT Inc., LY's web3 affiliate dedicated to developing and expanding the We
 
 Auros is a leading global market-making and algorithmic trading firm, leveraging advanced liquidity solutions to stabilize markets and foster growth across the digital asset ecosystem. Beyond trading, Auros also offers a suite of tailored services to support token projects and crypto ecosystems throughout their lifecycle, including its distinctive Strategic Market Making service, DeFi and on-chain engineering solutions, bespoke OTC execution, and strategic investment support. We work closely with numerous crypto ecosystems, builders, exchanges, VCs, capital allocators, and institutional investors.
 
-<a id="event-1116e8bb184d7702"></a>
-
-## Builders Meet 🇰🇷 \| During KBW 2026
-
-- Record: `kbw-official-builders-meet-09-29`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-09-29T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/cnp7d806>
-
-### Builders Meet 🇰🇷 | During KBW 2026
-
-Join founders, builders, investors, operators, and ecosystem leaders for an evening of conversations before the energy of Korea Blockchain Week 2026 kicks off.
-
-Builders Meet is a networking happy hour designed for meaningful connections, fresh ideas, and new opportunities across digital assets, stablecoins, payments & onchain finance.
-
-Date: 29 September 2026
-
-Time: 4:00PM - 7:30PM
-
-Location: TBD, South Korea
-
-### What to expect?
-
-- Drinks, Refreshments & Snacks
-- Keynote sessions from industry leaders
-- High-signal networking with founders, investors & builders
-- Great conversations before KBW begins
-
-Note : Space is limited, RSVP early to secure your spot.
-
-### For Sponsorships & Partnerships
-
-DM (@[YashEkbote](https://t.me/yashekbote?utm_source=luma)) or (@[Shawn_Bldfy](https://t.me/shawn_bldfy?utm_source=luma)) on Telegram
-
-### Previous Events
-
-- Web3/ACC, HongKong 🇭🇰 :
-  https://luma.com/0okx8p3y
-- Solana RWA Unwind, Malaysia 🇲🇾 :
-  https://luma.com/x07k9one
-- AI Meets Blockchain, Vietnam 🇻🇳 :
-  https://luma.com/aimeetsblockchain
-- Institutional Onchain: Stablecoins, RWAs & AI :
-  https://luma.com/zn02vlx2
-
 <a id="event-68e461c6d3e0a47a"></a>
 
 ## DIGITAL AF! • United Art & Tech • Web3 meets culture in Seoul
@@ -10731,141 +10524,6 @@ DIGITAL AF (하나됨 - "unity")는 현대 미술, 기술, 게임, 그리고 한
   - 2026년 9월 29일 → 10월 3일
   - 주최: Wildcat × Digital AF
   - 서울에서 만나요.
-
-<a id="event-abaa362aed7863c1"></a>
-
-## Han River Sunset · The Next Onchain Economy
-
-- Record: `kbw-official-han-river-sunset-the-next-onchain-economy-09-29`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-09-29T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/w4cjeate>
-
-### Event Overview
-
-Key Topics
-
-The Next Onchain Economy AI - Payments - Infrastructure
-
-One-Sentence Introduction
-
-Set against the sunset and city lights along the Han River, this relaxed yet insightful evening gathering brings the industry together for conversations around AI, trading, payments, and infrastructure.
-
-### Event Description
-
-Han River Sunset Party is a casual networking event focused on AI, trading, payments, and blockchain infrastructure. Set against the scenic backdrop of the Han River, the event brings together founders, builders, investors, and industry participants through coffee, food, fireside conversations, pop-up experiences, and Seoul's nighttime cityscape.
-
-### Event Format
-
-Networking Meetup Sunset Party Fireside Conversations
-
-### Key Topics
-
-- AI and the Onchain Economy
-- Stablecoins, Trading, and Payment Infrastructure
-- AI Agents and Financial Applications
-- Real-World Web3 Adoption and Business Collaboration
-- Pop-up experiences and a variety of surprise booths
-
-### Why Attend
-
-- A relaxed sunset gathering by the Han River
-- Complimentary access to AI model APIs
-- Four keynote sessions and two panel discussions
-- Coffee, afternoon refreshments, drinks, and light bites
-- High-quality networking and partnership opportunities
-- Surprise gifts and exclusive merchandise from pop-up booths, with points and badges available to collect on-site and redeem for special rewards
-
-Target Communities and Industries
-
-AI, trading, payments, infrastructure, blockchain, fintech, Web3, investment institutions, and founder communities.
-
-### Event Agenda
-
-16:00-16:20 - Check-in & Welcome
-
-16:20-16:30 - Keynote 01 - AEON
-
-16:30-16:45 - Keynote 02 - Stable
-
-16:45-17:00 - [Keynote 03 - Ave.ai](https://Ave.ai)
-
-17:00-17:30 - Panel 01 - AI × Agents
-
-When AI Agents Control Money: Who Owns Trust, Risk and Execution?
-
-MyDex - Pieverse - Quack AI
-
-17:30-17:45 - Keynote 04 - OceanBase
-
-17:45-18:00 - Keynote 05 - Interlace
-
-18:00-18:30 - Panel 02 - Payments × RWA × Infrastructure
-
-From Stablecoins to RWA: What Will Bring Onchain Finance to the Real World?
-
-Conflux - CertiK
-
-18:30-19:00 - Sunset Networking & Closing
-
-Throughout the Event - 16:00-19:00
-
-Brand Booths - Afternoon Tea - Gift Redemption - Social Networking
-
-### Partners
-
-Title Sponsor
-
-[Stable](https://x.com/Stable)
-
-Stable: the Layer 1 blockchain for payments, powered by USDT.
-
-### Co-host
-
-[Interlace](https://x.com/InterlaceMoney)
-
-Interlace is building stablecoin banking infrastructure that connects on-chain assets with real-world financial rails. We help businesses use stablecoins as seamlessly as fiat for cross-border payments, card issuing, global accounts, treasury management, and payment acquiring (8M+ cards issued, trusted by 20,000+ businesses).
-
-[Ave.ai](https://x.com/aveai_info)
-
-New financial platform.Safe, Professional, Fastest, Most Comprehensive
-
-[OceanBase](https://x.com/OceanBaseDB)
-
-OceanBase is the world's leading database engineered and always ready for mission-critical workloads at any scale.
-
-[AEON](https://x.com/AEON_Community)
-
-AEON is the settlement layer built for the agentic economy.
-
-[Quack AI](https://x.com/QuackAI_AI)
-
-Quack AI builds Q402, a gasless payment rail for AI agents.
-
-### Sponsors
-
-[Pieverse](https://x.com/pieverse_io)
-
-Agentic infrastructure that makes AI-agent transactions auditable and compliant.
-
-[Conflux](https://x.com/Conflux_Network)
-
-Conflux is a high throughput first layer consensus blockchain designed for dApps that require speed at scale, without sacrificing decentralization.
-
-[CertiK](https://x.com/CertiK)
-
-CertiK is the largest Web3 security platform combining formal verification with audits and comprehensive security solutions.
-
-[AnyTrade](https://x.com/AnyTrade_AI)
-
-AI when you want it. Full control when you don't. AnyTrade brings AI assistance and onchain trading into one seamless experience.
-
-[ALPHIO](https://x.com/AlphioAI)
-
-Alphio is an agentic trading platform that transforms real-time ma... (Text cut off in screenshot.)
-
-[EHTA](https://x.com/Thea_AI)
 
 <a id="event-e724d5a347bdd20e"></a>
 
@@ -11110,58 +10768,6 @@ A private poker night exclusively for invited VIP guests.
 The people sitting at your table may be the real value of the night.
 
 Access to the VIP Zone will be provided individually following separate approval.
-
-<a id="event-70a5abca2eb4ef54"></a>
-
-## Crypto Compliance and Legal Roundtable, hosted by Solidus Labs and Yulchon
-
-- Record: `kbw-official-crypto-compliance-and-legal-roundtable-09-29`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-09-29T07:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/fop77t0t>
-
-### About the event
-
-Crypto Compliance & Legal Roundtable | Seoul
-
-Join us on September 29 during the Korea Blockchain Week in Seoul for an exclusive, invitation-only Crypto Compliance and Legal Roundtable, bringing together a selected group of compliance and legal leaders, regulators, and policy experts.
-
-Hosted by Solidus Labs and Yulchon, this in-person session will focus on advancing global crypto compliance through practical discussion. The roundtable is designed to foster open dialogue, share best practices, and identify actionable solutions to today's most pressing regulatory and compliance challenges.
-
-### Agenda
-
-16:30 - Registration
-
-17:00 - 18:30- Roundtable discussions: Best practices, challenges, and actionable solutions across key crypto compliance and legal topics, including:
-
-- Tokenization and Implementation of the amended Capital Markets Act and Electronic Securities Act
-  - How the recently enacted framework will be implemented in practice, including issuance, distribution and the treatment of investment contract securities.
-    - Speaker: Ik Hyun Kim, Partner at Yulchon leading the blockchain and digital assets practice
-- Cross-border VASP compliance -
-  - Korea's planned extension of the Travel Rule to transfers below KRW 1 million
-  - Growing regulatory focus on foreign and unregistered VASPs.
-  - Stablecoins transfers and future challenges.
-    - Speaker: Claire Lee, CEO of CODE
-- Unfair Coin Trading Regulatory Frameworks in Korea
-  - Overview of actual prosecution and referral cases over the past two years to examine the rankings of the most prevalent types of unfair trading practices and sheds light on the specific schemes and deceptive methods unique to the Korean virtual asset market
-    - [Speakers: Jackie Baek, Compliance Head of Korea at Crypto.com](https://Crypto.com)
-
-18:30 - Networking
-
-Address: Yulchon, Parnas Tower, 38F 521 Teheran-ro, Gangnam-gu Seoul Republic of Korea
-
-Places are limited. Registration is subject to approval.
-
-### About Yulchon
-
-Yulchon is a full-service law firm headquartered in Seoul, Korea, advising on a full range of specialized practice areas, including corporate & finance, antitrust, tax, real estate & construction, dispute resolution, intellectual property & technology, and labor & employment. The firm was established in 1997 and has about 700 professionals. In addition to our main offices in Seoul, Yulchon has six overseas offices across five jurisdictions and 10 regional practice teams worldwide. The firm provides the highest quality of legal services to its clients around the globe, including their most complex legal matters.
-
-Yulchon's Blockchain/Virtual Assets Team consists of seasoned experts who bring a wealth of experience and exceptional knowledge to deliver the highest standard of legal services in Korea's finance, blockchain, and virtual asset sectors.
-
-### About Solidus Labs
-
-Born in crypto and built for efficiency across all asset classes, Solidus Labs is the category-definer for agentic-based compliance in trade surveillance and risk monitoring. At its core is HALO, an AI-powered, risk-based platform trusted globally by financial institutions, crypto firms, and regulators to enable proactive, intelligence-led oversight across any product, venue, or asset class.
 
 <a id="event-ed1e01c3fb16ce05"></a>
 
@@ -22145,64 +21751,6 @@ The organizer's timeline lists a September 16 kickoff and an October 16 submissi
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
-<a id="event-ff3470c010c1f3ec"></a>
-
-## Claude for Blockchain: Trading Agents
-
-- Record: `luma-crypto-ujvKacbC5DsvFEC`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-29T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/claudeweb3>
-
-### About the event
-
-Pre-TOKEN2049 edition - Claude Singapore Community
-
-In March, OKX did something no major exchange had done: they open-sourced a toolkit that lets an AI agent trade directly on their platform. Spot, futures, options, grid bots - 80+ tools, MIT licensed, running locally on your machine.
-
-Most of the industry still hasn't looked at it.
-
-This session is a straight, practical hour on what exchange-native AI trading actually is, what it can and can't do, and what it means for how you work.
-
-What we'll cover
-
-What OKX actually shipped. The Agent Trade Kit, how it plugs into Claude Code through MCP, and the real scope of what an agent can reach - market data, order execution, position management, automated strategies.
-
-The security model, honestly. Your API keys stay in a local config file. The model never sees them. Signing happens on your machine. Why that design matters, and where the remaining risk actually sits.
-
-How people are using it. Research and market analysis, monitoring, strategy testing in demo mode, and execution. Where each one genuinely helps, and where it falls apart.
-
-The part nobody wants to say out loud. AI makes mistakes, and you own the losses. What guardrails look like in practice - read-only mode, demo profiles, permission-scoped keys - and why you should never skip them.
-
-Where the edge goes. When every desk can run the same agent on the same public data, what's actually left worth having.
-
-Then we build one, live
-
-Last fifteen minutes: a working agent wired to OKX through Claude Code, pulling live market data, running in read-only mode. From nothing to working, on stage. No laptops needed - just watch how little it takes.
-
-And then, Pre-TOKEN Networking
-
-Traders, founders, researchers, and anyone doing crypto work who wants to understand this properly before TOKEN2049 week takes over.
-
-Run of show
-
-4:00 - Doors Open and networking
-
-4:30 - Talk: Trading Agents
-
-5:30 - Live build: an OKX agent in 15 minutes
-
-5:45 - Open networking
-
-6:30 - Close
-
-### Details
-
-Tuesday, 29 September 2026 - 4:30-6:30 PM
-
-Nothing in this session is financial advice. Automated trading carries real risk of loss.
-
 <a id="event-d229ae2533124abd"></a>
 
 ## HKGHH Event: Premier Networking Night @ LKF 🌟 THEME: Hong Kong Web3 Festival 🌟
@@ -26203,110 +25751,6 @@ Ondo Finance is a blockchain-based platform focused on tokenizing real-world ass
 By providing the contact information required in this form, you agree to be contacted by the Ondo Finance in order for us to inform you about our products and services. For more information on our privacy practices or how to unsubscribe, please refer to our Privacy Policy.
 
 By attending the event you acknowledge that the organizers may photograph and record videos at the event and use them for promotional and marketing purposes, in any and all media, without further notice or compensation.
-
-<a id="event-9d150e3a8e6a4ce1"></a>
-
-## Pickleball Day @KBW with KAST x Pudgy Penguins
-
-- Record: `luma-batch-evtwmq2kmNbLigFS`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-29T05:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/KASTxPudgy_PickleballKBW>
-
-### About the event
-
-Step off the conference floor and onto the court with KAST x Pudgy Penguins during Korea Blockchain Week 2026.
-
-A curated afternoon bringing together founders, creators, investors, builders, partners, and community members for pickleball, friendly competition, and genuine connections.
-
-Whether you're picking up a paddle for the first time or already know your way around the court, expect an easygoing afternoon of rotating matches, challenges, refreshments and plenty of time to connect with the community.
-
-As a special souvenir, every confirmed participant will receive a KAST x Pudgy Penguins pickleball paddle and ball set to take home.
-
-No experience required. Just come ready to play. Please bring comfortable sportswear and a pair of indoor sneakers.
-
-Limited to approximately 50-70 guests.
-
-The exact Gangnam venue will be shared with confirmed attendees.
-
-### Agenda
-
-2:00-2:30 PM
-
-Guest Check-in, Networking & Team Assignment
-
-2:30-2:45 PM
-
-Welcome & KAST x Pudgy Penguins Introduction
-
-2:45-3:10 PM
-
-Beginner Pickleball Session
-
-3:10-4:30 PM
-
-Team Matches & Open Play
-
-4:30-5:00 PM
-
-KAST Target Mini Challenge
-
-5:00-5:40 PM
-
-Networking & Refreshments
-
-5:40-6:00 PM
-
-Awards, Lucky Draw & Group Photo
-
-By registering for this event, you consent to being photographed or filmed during the event and to the use of such content for event documentation, promotional purposes, and publication on official social media channels.
-
-코리아 블록체인 위크 2026 기간 동안 KAST x Pudgy Penguins 와 함께 컨퍼런스장을 벗어나 코트 위에서 특별한 오후를 즐겨보세요.
-
-파운더, 크리에이터, 투자자, 빌더, 파트너 및 커뮤니티 멤버들이 한자리에 모여 피클볼과 가벼운 경쟁을 즐기며 자연스럽게 새로운 인연을 만들 수 있는 특별한 커뮤니티 세션입니다.
-
-피클볼을 처음 접하는 분부터 경험이 있는 분까지 누구나 편하게 참여할 수 있습니다. 팀별 경기, 특별 챌린지, 다과, 경품과 함께 커뮤니티와 교류할 수 있는 시간을 준비했습니다.
-
-특별한 기념품으로 모든 참가자에게 KAST x Pudgy Penguins 피클볼 패들과 공 세트를 증정합니다.
-
-피클볼 경험은 필요하지 않습니다. 함께 즐길 준비만 해주세요. 운동복과 실내화를 준비해주세요.
-
-참석 인원은 약 50-70명으로 제한됩니다.
-
-강남 내 정확한 장소는 참가가 확정된 분들에게 별도로 안내됩니다.
-
-프로그램
-
-오후 2:00-2:30
-
-참가자 체크인, 네트워킹 및 팀 배정
-
-오후 2:30-2:45
-
-환영 인사 및 KAST x Pudgy Penguins 소개
-
-오후 2:45-3:10
-
-초보자를 위한 피클볼 세션
-
-오후 3:10-4:30
-
-팀 매치 및 오픈 플레이
-
-오후 4:30-5:00
-
-KAST 타깃 미니 챌린지
-
-오후 5:00-5:40
-
-네트워킹 및 다과
-
-오후 5:40-6:00
-
-시상식, 럭키드로우 및 단체 사진
-
-본 행사에 등록 및 참여하는 경우, 행사 현장에서 촬영되는 사진 및 영상에 본인의 모습이 포함될 수 있으며, 해당 콘텐츠가 행사 기록, 홍보 및 소셜미디어 채널 등에 활용되는 것에 동의한 것으로 간주됩니다.
 
 <a id="event-d282933c1fd5a8e3"></a>
 
@@ -44519,42 +43963,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-f7f18ba3671077c9"></a>
-
-## CONNECT by Cointelegraph: Seoul Edition
-
-- Record: `w3v-connect-by-cointelegraph-seoul-edition`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-29T03:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/xxwrhox8>
-
-### About the event
-
-Hosted during Korea Blockchain Week, CONNECT by Cointelegraph is a highly curated, community-driven event that brings together leading Web3 founders, builders, investors, and innovators shaping the future of the decentralized ecosystem.
-
-Designed to foster meaningful connections and high-value conversations, CONNECT serves as a platform for the people driving the next wave of Web3 innovation.
-
-[Host: Cointelegraph Accelerator](https://cointelegraph.com/accelerate/?utm_source=luma)
-
-The program helps find and support the next generation of leaders in the Web3 space, bringing together investors, startups, and relevant stakeholders to contribute to the development of Web3.
-
-[Host: Cointelegraph](https://cointelegraph.com/?utm_source=luma)
-
-Founded in 2013, Cointelegraph is the leading independent digital media resource covering a wide range of news on blockchain technology, crypto assets, and emerging fintech trends.
-
-[Partner: FinHarbor](https://www.finharbor.com/?utm_source=luma)
-
-FinHarbor is a technical platform provider for launching compliant, modular financial products - from wallets and neobanks to crypto ramps and OTC desks. Built on years of real-world fintech experience, our infrastructure helps clients launch faster, operate securely, and scale across fiat, crypto, and hybrid environments
-
-[Partner: Wincent](https://www.wincent.com/)
-
-Wincent is a regulated crypto native fund providing over $5bn of liquidity daily in spot, RWA, CFD and perpetuals. With pricing and size in tokenized commodities, stablecoins and over 10,000 products with fiat pairs our institutional approach makes crypto businesses work.
-
-[Partner: Humandone](https://humandone.com/)
-
-Humandone is a product design and development studio specialising in modern digital experiences for startups and web3 companies. The team works across branding, app design, UX/UI systems, frontend development, and scalable infrastructure for crypto-native and consumer applications.
-
 <a id="event-0add12c3cd820df8"></a>
 
 ## DIGITAL AF! • United Art & Tech • Web3 meets culture in Seoul
@@ -44615,58 +44023,6 @@ DIGITAL AF (하나됨 - "unity")는 현대 미술, 기술, 게임, 그리고 한
   - 2026년 9월 29일 → 10월 3일
   - 주최: Wildcat × Digital AF
   - 서울에서 만나요.
-
-<a id="event-8ce9148992f469c7"></a>
-
-## Crypto Compliance and Legal Roundtable, hosted by Solidus Labs and Yulchon
-
-- Record: `w3v-crypto-compliance-and-legal-roundtable`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-29T07:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/fop77t0t>
-
-### About the event
-
-Crypto Compliance & Legal Roundtable | Seoul
-
-Join us on September 29 during the Korea Blockchain Week in Seoul for an exclusive, invitation-only Crypto Compliance and Legal Roundtable, bringing together a selected group of compliance and legal leaders, regulators, and policy experts.
-
-Hosted by Solidus Labs and Yulchon, this in-person session will focus on advancing global crypto compliance through practical discussion. The roundtable is designed to foster open dialogue, share best practices, and identify actionable solutions to today's most pressing regulatory and compliance challenges.
-
-### Agenda
-
-16:30 - Registration
-
-17:00 - 18:30- Roundtable discussions: Best practices, challenges, and actionable solutions across key crypto compliance and legal topics, including:
-
-- Tokenization and Implementation of the amended Capital Markets Act and Electronic Securities Act
-  - How the recently enacted framework will be implemented in practice, including issuance, distribution and the treatment of investment contract securities.
-    - Speaker: Ik Hyun Kim, Partner at Yulchon leading the blockchain and digital assets practice
-- Cross-border VASP compliance -
-  - Korea's planned extension of the Travel Rule to transfers below KRW 1 million
-  - Growing regulatory focus on foreign and unregistered VASPs.
-  - Stablecoins transfers and future challenges.
-    - Speaker: Claire Lee, CEO of CODE
-- Unfair Coin Trading Regulatory Frameworks in Korea
-  - Overview of actual prosecution and referral cases over the past two years to examine the rankings of the most prevalent types of unfair trading practices and sheds light on the specific schemes and deceptive methods unique to the Korean virtual asset market
-    - [Speakers: Jackie Baek, Compliance Head of Korea at Crypto.com](https://Crypto.com)
-
-18:30 - Networking
-
-Address: Yulchon, Parnas Tower, 38F 521 Teheran-ro, Gangnam-gu Seoul Republic of Korea
-
-Places are limited. Registration is subject to approval.
-
-### About Yulchon
-
-Yulchon is a full-service law firm headquartered in Seoul, Korea, advising on a full range of specialized practice areas, including corporate & finance, antitrust, tax, real estate & construction, dispute resolution, intellectual property & technology, and labor & employment. The firm was established in 1997 and has about 700 professionals. In addition to our main offices in Seoul, Yulchon has six overseas offices across five jurisdictions and 10 regional practice teams worldwide. The firm provides the highest quality of legal services to its clients around the globe, including their most complex legal matters.
-
-Yulchon's Blockchain/Virtual Assets Team consists of seasoned experts who bring a wealth of experience and exceptional knowledge to deliver the highest standard of legal services in Korea's finance, blockchain, and virtual asset sectors.
-
-### About Solidus Labs
-
-Born in crypto and built for efficiency across all asset classes, Solidus Labs is the category-definer for agentic-based compliance in trade surveillance and risk monitoring. At its core is HALO, an AI-powered, risk-based platform trusted globally by financial institutions, crypto firms, and regulators to enable proactive, intelligence-led oversight across any product, venue, or asset class.
 
 <a id="event-8522065645a1d09a"></a>
 
@@ -64928,6 +64284,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-9cdf84a99598421d"></a>
+
+## UNICORN REUNION
+
+- Record: `luma-evt-1YkeGIX5PJN3Q9d`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-30T03:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/q5bfk6n3>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-e59964c78f874779"></a>
 
 ## TEXAS INNOVATION CORRIDOR: 항공·우주·방산 기업을 위한 미국 시장 진출 기회
@@ -65373,6 +64741,18 @@ An organizer description has not been verified for this record. Any previous cop
 ### About the event
 
 India Blockchain Week Conference takes place at Fairmont Mumbai on November 1 and 2, 2026. Hashed Emergent organizes the conference, with talks and discussions about blockchain and the Indian Web3 ecosystem.
+
+<a id="event-e3eb9a3602877469"></a>
+
+## The Haunted Fairway
+
+- Record: `luma-evt-qCiObjKvEDsyVeF`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-01T00:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/7i2ego9w>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-4a9792531ac74390"></a>
 
@@ -65895,6 +65275,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-02T14:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/quilla-vmnc>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-cca854395589030e"></a>
+
+## Fireworks: Deploy Buildathon with Microsoft & NVIDIA
+
+- Record: `luma-evt-TGmkyfmPYbZ5OyE`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-02T17:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/fireworks-8kmc>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

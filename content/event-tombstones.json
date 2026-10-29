@@ -2929,5 +2929,76 @@
       "luma-batch-evtizxrtn2xla4tr",
       "w5guj5ix"
     ]
+  },
+  "w3v-connect-by-cointelegraph-seoul-edition": {
+    "until": "2027-10-29T10:23:15.176Z",
+    "slugs": [
+      "w3v-connect-by-cointelegraph-seoul-edition",
+      "connect-cointelegraph"
+    ]
+  },
+  "kbw-official-connect-by-cointelegraph-seoul-edition-09-29": {
+    "until": "2027-10-29T10:23:15.176Z",
+    "slugs": [
+      "kbw-official-connect-by-cointelegraph-seoul-edition-09-29",
+      "connect-cointelegraph2"
+    ]
+  },
+  "kbw-official-open-agi-frontier-ai-meets-robotics-09-29": {
+    "until": "2027-10-29T10:23:15.176Z",
+    "slugs": [
+      "kbw-official-open-agi-frontier-ai-meets-robotics-09-29",
+      "oaf"
+    ]
+  },
+  "kbw-official-han-river-sunset-the-next-onchain-economy-09-29": {
+    "until": "2027-10-29T10:23:15.176Z",
+    "slugs": [
+      "kbw-official-han-river-sunset-the-next-onchain-economy-09-29",
+      "hrsnoe"
+    ]
+  },
+  "luma-batch-evtwmq2kmNbLigFS": {
+    "until": "2027-10-29T10:23:15.176Z",
+    "slugs": [
+      "luma-batch-evtwmq2kmnbligfs",
+      "kastxpudgy_pickleballkbw"
+    ]
+  },
+  "premier-solidusroundtable": {
+    "until": "2027-10-29T10:33:25.256Z",
+    "slugs": [
+      "premier-solidusroundtable",
+      "solidusroundtable",
+      "crypto-compliance-roundtable-seoul-2026"
+    ]
+  },
+  "w3v-crypto-compliance-and-legal-roundtable": {
+    "until": "2027-10-29T10:33:25.256Z",
+    "slugs": [
+      "w3v-crypto-compliance-and-legal-roundtable",
+      "cclr"
+    ]
+  },
+  "kbw-official-builders-meet-09-29": {
+    "until": "2027-10-29T10:33:25.256Z",
+    "slugs": [
+      "kbw-official-builders-meet-09-29",
+      "builders-meet"
+    ]
+  },
+  "kbw-official-crypto-compliance-and-legal-roundtable-09-29": {
+    "until": "2027-10-29T10:33:25.256Z",
+    "slugs": [
+      "kbw-official-crypto-compliance-and-legal-roundtable-09-29",
+      "cclr"
+    ]
+  },
+  "luma-crypto-ujvKacbC5DsvFEC": {
+    "until": "2027-10-29T10:33:25.256Z",
+    "slugs": [
+      "luma-crypto-ujvkacbc5dsvfec",
+      "claude-blo"
+    ]
   }
 }

@@ -698,22 +698,6 @@
       "preview": "A curated prediction markets summit - 400 attendees, 50+ speakers, two stages across four hours - at Suntec City, Singapore, on October 8, 2026, during TOKEN2049 week."
     },
     {
-      "id": "premier-solidusroundtable",
-      "file": "curated-events.json",
-      "name": "Crypto Compliance & Legal Roundtable Seoul 2026",
-      "status": "unavailable",
-      "attempts": [
-        {
-          "url": "https://www.soliduslabs.com/",
-          "reason": "event-not-matched"
-        },
-        {
-          "url": "https://www.soliduslabs.com",
-          "reason": "event-not-matched"
-        }
-      ]
-    },
-    {
       "id": "premier-instonchain",
       "file": "curated-events.json",
       "name": "Institutional Onchain: RWAs & Stablecoins Seoul 2026",

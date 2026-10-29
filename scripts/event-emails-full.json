@@ -642,30 +642,6 @@
     }
   },
   {
-    "name": "Crypto Compliance & Legal Roundtable Seoul 2026",
-    "url": "https://www.soliduslabs.com",
-    "emails": [
-      "press@soliduslabs.com",
-      "hello@soliduslabs.com"
-    ],
-    "event": {
-      "id": "premier-solidusroundtable",
-      "slug": "crypto-compliance-roundtable-seoul-2026",
-      "name": "Crypto Compliance & Legal Roundtable Seoul 2026",
-      "description": "Solidus Labs hosts a closed-door roundtable on crypto compliance, Travel Rule implementation, and AML tooling during Korea Blockchain Week.",
-      "startDate": "2026-09-29T09:00:00.000Z",
-      "endDate": "2026-09-29T18:00:00.000Z",
-      "city": "Seoul",
-      "country": "South Korea",
-      "location": "Seoul, South Korea",
-      "url": "https://www.soliduslabs.com",
-      "website": "https://www.soliduslabs.com",
-      "coverImage": "/events/crypto1.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
     "name": "Rayls in Seoul 2026",
     "url": "https://www.rayls.com",
     "emails": [
