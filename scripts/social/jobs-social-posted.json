@@ -71547,6 +71547,41 @@
       "attemptId": "fc9a7880-e40b-4ea2-8ce6-92c457bb575e",
       "verification": "verified",
       "postId": "0xc36bff489efa548e4420438369e844c5cdf38fc2"
+    },
+    {
+      "slug": "ret",
+      "company": "Polymarket",
+      "title": "Head of Retention",
+      "platform": "farcaster",
+      "postedAt": "2026-10-29T11:32:28.674Z",
+      "expectedText": "Polymarket is hiring Head of Retention\n\nhttps://hashtagweb3.com/ret/fc?og=7",
+      "snapshot": {
+        "id": "d948c040-c557-4046-8c28-b96273e49a75",
+        "title": "Head of Retention",
+        "company": "Polymarket",
+        "link": "https://jobs.ashbyhq.com/Polymarket/d948c040-c557-4046-8c28-b96273e49a75",
+        "date": "2026-10-22T20:37:30.697+00:00",
+        "source": "Ashby: Polymarket [Polymarket]",
+        "location": "New York",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Marketing",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ret"
+      },
+      "payload": {
+        "text": "Polymarket is hiring Head of Retention\n\nhttps://hashtagweb3.com/ret/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ret/fc?og=7"
+          }
+        ],
+        "channel_id": "jobs"
+      },
+      "account": "channel:jobs",
+      "attemptId": "3a7d5bac-9e43-4554-a65e-c16d0a91343a",
+      "verification": "creating"
     }
   ]
 }
