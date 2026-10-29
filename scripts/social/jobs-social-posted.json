@@ -74734,6 +74734,46 @@
       "verification": "verified",
       "postId": "6ae3a18b02b1fcfd3e166f90",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7521657717346697216"
+    },
+    {
+      "slug": "an108",
+      "company": "Crypto.com",
+      "title": "M&A Analyst",
+      "platform": "linkedin",
+      "postedAt": "2026-10-29T19:39:06.597Z",
+      "expectedText": "Crypto.com is hiring M&A Analyst: https://hashtagweb3.com/an108/li?og=7",
+      "snapshot": {
+        "id": "27b67b39-dbce-47c7-ba75-35ec37aaf676",
+        "title": "M&A Analyst",
+        "company": "Crypto.com",
+        "link": "https://jobs.lever.co/crypto/27b67b39-dbce-47c7-ba75-35ec37aaf676",
+        "date": "2026-10-26T08:08:51.786Z",
+        "source": "Lever: Crypto.com [crypto]",
+        "location": "Hybrid (Singapore)",
+        "workplaceType": "hybrid",
+        "department": "Corporate",
+        "active": true,
+        "dateVerified": true,
+        "slug": "an108"
+      },
+      "payload": {
+        "text": "Crypto.com is hiring M&A Analyst: https://hashtagweb3.com/an108/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/an108/li?og=7",
+          "title": "M&A Analyst at Crypto.com",
+          "description": "Join Crypto.com as M&A Analyst. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/an108.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "4e1e77aa-0b40-401b-826b-e3cb6aa9ec2b",
+      "verification": "creating"
     }
   ]
 }
