@@ -72163,7 +72163,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "7c3d6399-0814-42cf-8fdc-0387a980d2a8",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae32fc01ed1437ba0bd4438"
     }
   ]
 }
