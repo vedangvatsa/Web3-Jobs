@@ -103130,9 +103130,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "b491f6d0f12ea2a01257",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-31T22:35:00.000Z",
       "lastSeenAt": "2026-10-29T03:34:54.128Z",
       "articleSlug": "bitgojupiter",
@@ -103154,7 +103154,25 @@
         "updatedAt": "2026-10-29T04:02:35.226Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the BitGo primary announcement, Unchained's Oct. 28 report and Solana Compass's independent write-up. Jupiter x BitGo validator launched Oct. 28; Jupiter's validator holds ~9.72M SOL (~2.24%, rank 5/661); fees undisclosed; vote account not named so existing vs new validator unclear. Hero is BalticServers data-center photo from Wikimedia (CC BY-SA 3.0) self-hosted at public/images/news/bitgojupiter.jpg (257KB). Quality/images/formatting/duplicate audits clean for this file.",
+      "sourceChecks": [
+        {
+          "url": "https://www.bitgo.com/resources/blog/bitgo-and-jupiter-enable-institutional-sol-staking-directly-from-regulated-custody/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/bitgo-adds-jupiter-operator-of-a-993-million-solana-validator-to-its-custody-staking-options/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://solanacompass.com/news/jupiter-and-bitgo-launch-institutional-validator-for-sol-staking-from-bitgo-custody",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-29T04:16:25.665Z",
+      "lastReviewedDay": "2026-10-29"
     },
     "d94cde0c22343bb3b3c6": {
       "source": "Bitcoin Magazine",
@@ -187117,6 +187135,27 @@
           ],
           "reviewedAt": "2026-10-29T04:12:39.404Z",
           "articleSlug": "liquidgap"
+        },
+        "b491f6d0f12ea2a01257": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the BitGo primary announcement, Unchained's Oct. 28 report and Solana Compass's independent write-up. Jupiter x BitGo validator launched Oct. 28; Jupiter's validator holds ~9.72M SOL (~2.24%, rank 5/661); fees undisclosed; vote account not named so existing vs new validator unclear. Hero is BalticServers data-center photo from Wikimedia (CC BY-SA 3.0) self-hosted at public/images/news/bitgojupiter.jpg (257KB). Quality/images/formatting/duplicate audits clean for this file.",
+          "sourceChecks": [
+            {
+              "url": "https://www.bitgo.com/resources/blog/bitgo-and-jupiter-enable-institutional-sol-staking-directly-from-regulated-custody/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/bitgo-adds-jupiter-operator-of-a-993-million-solana-validator-to-its-custody-staking-options/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://solanacompass.com/news/jupiter-and-bitgo-launch-institutional-validator-for-sol-staking-from-bitgo-custody",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-29T04:16:25.665Z",
+          "articleSlug": "bitgojupiter"
         }
       },
       "baselineSlugs": [
