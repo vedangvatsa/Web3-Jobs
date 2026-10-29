@@ -1043,6 +1043,20 @@
     "dateVerified": true
   },
   {
+    "id": "E3.47D",
+    "title": "FP&A Analyst",
+    "company": "Hypernative",
+    "link": "https://www.comeet.com/jobs/hypernative/8A.00E/fpa-analyst/E3.47D",
+    "date": "2026-10-28T09:29:03Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted",
+    "source": "Comeet: Hypernative [8A.00E]",
+    "location": "Remote / Herzliya, Israel",
+    "department": "Finance",
+    "active": true,
+    "slug": "an113"
+  },
+  {
     "id": "98265609",
     "title": "KAST Fellow",
     "company": "Kast",
@@ -3070,6 +3084,20 @@
     "slug": "pm329"
   },
   {
+    "id": "34.47F",
+    "title": "Solution Engineer - US",
+    "company": "Hypernative",
+    "link": "https://www.comeet.com/jobs/hypernative/8A.00E/solution-engineer---us/34.47F",
+    "date": "2026-10-26T14:01:11Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted",
+    "source": "Comeet: Hypernative [8A.00E]",
+    "location": "Remote / United States",
+    "department": "Sales",
+    "active": true,
+    "slug": "eng684"
+  },
+  {
     "id": "5016223101",
     "title": "Business Development Specialist",
     "company": "Bybit",
@@ -4494,6 +4522,34 @@
     "slug": "as2"
   },
   {
+    "id": "DB.F5E",
+    "title": "Senior Account Executive - EMEA",
+    "company": "Hypernative",
+    "link": "https://www.comeet.com/jobs/hypernative/8A.00E/senior-account-executive---emea/DB.F5E",
+    "date": "2026-10-23T09:32:11Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted",
+    "source": "Comeet: Hypernative [8A.00E]",
+    "location": "Remote / United Kingdom",
+    "department": "Sales",
+    "active": true,
+    "slug": "sls363"
+  },
+  {
+    "id": "36.F6E",
+    "title": "Senior Account Executive US",
+    "company": "Hypernative",
+    "link": "https://www.comeet.com/jobs/hypernative/8A.00E/senior-account-executive-us/36.F6E",
+    "date": "2026-10-23T09:31:10Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted",
+    "source": "Comeet: Hypernative [8A.00E]",
+    "location": "Remote / United States",
+    "department": "Sales",
+    "active": true,
+    "slug": "sls362"
+  },
+  {
     "id": "5461975008",
     "title": "Listing BD (Capital Markets)",
     "company": "Orderly Network",
@@ -5358,6 +5414,20 @@
     "slug": "sls334"
   },
   {
+    "id": "21.F6B",
+    "title": "Senior Security Solutions Engineer",
+    "company": "Hypernative",
+    "link": "https://www.comeet.com/jobs/hypernative/8A.00E/senior-security-solutions-engineer/21.F6B",
+    "date": "2026-10-22T13:54:55Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted",
+    "source": "Comeet: Hypernative [8A.00E]",
+    "location": "Remote / United States",
+    "department": "Product",
+    "active": true,
+    "slug": "sec137"
+  },
+  {
     "id": "49338068-2f4d-4cbb-b55d-176b2ed2f89e",
     "title": "Pricing Data Scientist",
     "company": "MoonPay",
@@ -5499,6 +5569,20 @@
     "active": true,
     "dateVerified": true,
     "slug": "cc9"
+  },
+  {
+    "id": "58.372",
+    "title": "Business Development Executive - EMEA",
+    "company": "Hypernative",
+    "link": "https://www.comeet.com/jobs/hypernative/8A.00E/business-development-executive---emea/58.372",
+    "date": "2026-10-22T11:05:35Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted",
+    "source": "Comeet: Hypernative [8A.00E]",
+    "location": "Remote / United Kingdom",
+    "department": "Sales",
+    "active": true,
+    "slug": "sls361"
   },
   {
     "id": "a16515aa-ac62-4fc5-9fa2-8836c24ca4aa",
@@ -16154,6 +16238,20 @@
     "slug": "cmp106"
   },
   {
+    "id": "A2.271",
+    "title": "VP Sales of APAC",
+    "company": "Hypernative",
+    "link": "https://www.comeet.com/jobs/hypernative/8A.00E/vp-sales-of-apac/A2.271",
+    "date": "2026-10-08T14:31:20Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted",
+    "source": "Comeet: Hypernative [8A.00E]",
+    "location": "Remote / Singapore",
+    "department": "Sales",
+    "active": true,
+    "slug": "sls360"
+  },
+  {
     "id": "4982408101",
     "title": "Payment BD Lead",
     "company": "Bybit",
@@ -16166,6 +16264,62 @@
     "active": true,
     "dateVerified": true,
     "slug": "sls246"
+  },
+  {
+    "id": "2A.B5B",
+    "title": "Senior Full Stack Engineer",
+    "company": "Hypernative",
+    "link": "https://www.comeet.com/jobs/hypernative/8A.00E/senior-full-stack-engineer/2A.B5B",
+    "date": "2026-10-08T14:29:42Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted",
+    "source": "Comeet: Hypernative [8A.00E]",
+    "location": "Remote / Herzliya, Israel",
+    "department": "R&D",
+    "active": true,
+    "slug": "fs34"
+  },
+  {
+    "id": "81.262",
+    "title": "Security Research Engineer",
+    "company": "Hypernative",
+    "link": "https://www.comeet.com/jobs/hypernative/8A.00E/security-research-engineer/81.262",
+    "date": "2026-10-08T14:29:19Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted",
+    "source": "Comeet: Hypernative [8A.00E]",
+    "location": "Remote / Herzliya, Israel",
+    "department": "R&D",
+    "active": true,
+    "slug": "sec136"
+  },
+  {
+    "id": "00.463",
+    "title": "BE R&D Team Lead",
+    "company": "Hypernative",
+    "link": "https://www.comeet.com/jobs/hypernative/8A.00E/be-rd-team-lead/00.463",
+    "date": "2026-10-08T14:29:05Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted",
+    "source": "Comeet: Hypernative [8A.00E]",
+    "location": "Remote / Herzliya, Israel",
+    "department": "R&D",
+    "active": true,
+    "slug": "brdt"
+  },
+  {
+    "id": "2A.B5C",
+    "title": "Backend Infrastructure & Data Engineer",
+    "company": "Hypernative",
+    "link": "https://www.comeet.com/jobs/hypernative/8A.00E/backend-infrastructure--data-engineer/2A.B5C",
+    "date": "2026-10-08T14:28:58Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted",
+    "source": "Comeet: Hypernative [8A.00E]",
+    "location": "Remote / Herzliya, Israel",
+    "department": "R&D",
+    "active": true,
+    "slug": "be95"
   },
   {
     "id": "8016022003",
@@ -23769,46 +23923,5 @@
     "active": true,
     "dateVerified": true,
     "slug": "sls282"
-  },
-  {
-    "id": "8227570",
-    "title": "Global People Operations - Systems Administrator",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8227570",
-    "date": "2026-09-29T05:00:02-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Stripe [stripe]",
-    "location": "Bengaluru",
-    "department": "6510 People Operations",
-    "active": true,
-    "dateVerified": true,
-    "slug": "ops48"
-  },
-  {
-    "id": "6209718004",
-    "title": "Graduate/Junior Software Engineer",
-    "company": "Elwood Technologies",
-    "link": "https://job-boards.greenhouse.io/elwoodtechnologies/jobs/6209718004",
-    "date": "2026-09-29T04:41:58-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Elwood Technologies [elwoodtechnologies]",
-    "location": "London",
-    "department": "Engineering",
-    "active": true,
-    "dateVerified": true,
-    "slug": "eng358"
-  },
-  {
-    "id": "2762668",
-    "title": "Expansion Manager - Cote d’Ivoire",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/expansion-manager-cote-divoire-1",
-    "date": "2026-09-29T08:40:18Z",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "dateVerified": true,
-    "slug": "mgr105"
   }
 ]

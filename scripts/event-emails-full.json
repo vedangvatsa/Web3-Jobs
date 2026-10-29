@@ -666,29 +666,6 @@
     }
   },
   {
-    "name": "Onchain Capital & Liquidity Seoul 2026",
-    "url": "https://lilroom.xyz",
-    "emails": [
-      "avg.litt@lilroom.xyz"
-    ],
-    "event": {
-      "id": "premier-onchaincapital",
-      "slug": "onchain",
-      "name": "Onchain Capital & Liquidity Seoul 2026",
-      "description": "A DeFi and AI-focused session on on-chain capital markets and liquidity infrastructure during Korea Blockchain Week.",
-      "startDate": "2026-09-29T09:00:00.000Z",
-      "endDate": "2026-09-29T18:00:00.000Z",
-      "city": "Seoul",
-      "country": "South Korea",
-      "location": "Seoul, South Korea",
-      "url": "https://lilroom.xyz",
-      "website": "https://lilroom.xyz",
-      "coverImage": "/events/onchain.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
     "name": "Rayls in Seoul 2026",
     "url": "https://www.rayls.com",
     "emails": [

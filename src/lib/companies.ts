@@ -107,6 +107,7 @@ export const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'covalent': 'https://covalenthq.com',
  'halliday': 'https://halliday.xyz',
  'mythical-games': 'https://mythicalgames.com',
+ 'hypernative': 'https://www.hypernative.io',
  'dfns': 'https://dfns.co',
  'stockal': 'https://stockal.com',
  'whitebit': 'https://whitebit.com',

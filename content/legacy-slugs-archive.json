@@ -150663,5 +150663,23 @@
     "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/4988091101",
     "title": "Senior Product Manager, Global Payment",
     "company": "StraitsX"
+  },
+  "eng358": {
+    "id": "6209718004",
+    "link": "https://job-boards.greenhouse.io/elwoodtechnologies/jobs/6209718004",
+    "company": "Elwood Technologies",
+    "title": "Graduate/Junior Software Engineer"
+  },
+  "mgr105": {
+    "id": "2762668",
+    "link": "https://careers.tether.io/o/expansion-manager-cote-divoire-1",
+    "company": "Tether",
+    "title": "Expansion Manager - Cote d’Ivoire"
+  },
+  "ops48": {
+    "id": "8227570",
+    "link": "https://stripe.com/jobs/search?gh_jid=8227570",
+    "company": "Stripe",
+    "title": "Global People Operations - Systems Administrator"
   }
 }
