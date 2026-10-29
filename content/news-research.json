@@ -102975,7 +102975,43 @@
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
       "attempts": 0,
       "expiresAt": "2026-10-31T23:40:57.000Z",
-      "lastSeenAt": "2026-10-29T03:34:54.128Z"
+      "lastSeenAt": "2026-10-29T03:34:54.128Z",
+      "articleSlug": "bithumbraid",
+      "draftProgress": {
+        "id": "bfcbca3f03bc69372621",
+        "day": "2026-10-29",
+        "articleSlug": "bithumbraid",
+        "note": "Read CryptoSlate, the FSC primary notice (fsc.go.kr and its Naver mirror), SBS English and TokenPost. CoinDesk blocked by Vercel challenge. Image and draft still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptoslate.com/bithumb-faces-on-site-inspections-after-reporting-signs-of-employee-data-leak/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.fsc.go.kr/no010101/88010",
+            "outcome": "read"
+          },
+          {
+            "url": "https://m.blog.naver.com/blogfsc/224456734393",
+            "outcome": "read"
+          },
+          {
+            "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008819919",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.tokenpost.com/news/technology/42610",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-10-29T03:46:24.237Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "b491f6d0f12ea2a01257": {
       "source": "Unchained",
