@@ -9724,7 +9724,7 @@
     "sentAt": "2026-10-28T19:37:57.517Z"
   },
   "6a45f002-ebd1-4ae0-b5f3-fe69e87018e6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-29T03:35:15.747Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -9837,6 +9837,8 @@
       }
     ],
     "message": "- OKX is hiring <a href=\"https://hashtagweb3.com/cmp105?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Compliance, EU &amp; UK</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/cm10?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Community Operations Specialist</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/be69?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Backend Engineer E3 - India</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/pm225?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Designer, Sports</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/be87?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Backend Engineer | Accounting</a>",
-    "slotKey": "2026-10-29:morning"
+    "slotKey": "2026-10-29:morning",
+    "messageId": 16581,
+    "sentAt": "2026-10-29T03:35:21.448Z"
   }
 }
