@@ -72013,7 +72013,8 @@
       },
       "account": "channel:ai",
       "attemptId": "b0575127-5f76-4e00-9602-24480a65fe45",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x371aec655dc0af451c912f7f04ef20d58968ea84"
     }
   ]
 }
