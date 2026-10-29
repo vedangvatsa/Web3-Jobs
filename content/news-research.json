@@ -98931,9 +98931,9 @@
       "articleSlug": "liquidgap",
       "draftProgress": {
         "id": "503bea3f38958dce6a1b",
-        "day": "2026-10-28",
+        "day": "2026-10-29",
         "articleSlug": "liquidgap",
-        "note": "Read Crypto Briefing and KuCoin/ChainCatcher on the Oct. 27 test transfer and 600 BTC gap. Draft written at content/articles/liquidgap.md. Hero image still needed (Wikimedia bitcoin photo); do not mark ready until image is downloaded, resized and credited.",
+        "note": "Re-read Crypto Briefing Oct 27 report, KuCoin/ChainCatcher relay, and the Blockstream Sept 23 primary incident assessment. New event is the Oct 27 test transfer narrowing the gap to ~600 BTC with Mow saying it will be covered in days; prior liquid-ransom.md covered the September exploit. Hero image still needed before drafting.",
         "sourceChecks": [
           {
             "url": "https://cryptobriefing.com/samson-mow-liquid-600-btc-shortfall/",
@@ -98942,9 +98942,13 @@
           {
             "url": "https://www.kucoin.com/news/flash/liquid-network-reserve-gap-narrows-to-600-btc-after-test-transfer",
             "outcome": "read"
+          },
+          {
+            "url": "https://blog.blockstream.com/liquid-network-security-incident-assessment/",
+            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-10-28T04:52:19.815Z",
+        "updatedAt": "2026-10-29T04:07:58.516Z",
         "approved": false,
         "mustReview": true
       }
