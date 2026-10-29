@@ -74200,7 +74200,8 @@
       },
       "account": "channel:web3",
       "attemptId": "3cc25207-8242-48d8-a65b-83a5471cde70",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xeb7d9c7852a0692cf8ab71a51a2cd99b70db693f"
     }
   ]
 }
