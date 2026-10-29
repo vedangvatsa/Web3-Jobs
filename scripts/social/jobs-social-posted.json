@@ -70793,7 +70793,8 @@
       },
       "account": "channel:web3",
       "attemptId": "5141227f-947d-489d-8e27-82cb9a91d4c5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0adf83c7e4671c3da51b87f44310291ff01201a6"
     }
   ]
 }
