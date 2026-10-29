@@ -99029,11 +99029,38 @@
       ],
       "alsoCoveredBy": [],
       "id": "84533b2fc42e6e0f40e2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-30T19:07:59.000Z",
-      "lastSeenAt": "2026-10-28T03:43:47.836Z"
+      "lastSeenAt": "2026-10-28T03:43:47.836Z",
+      "reason": "duplicate",
+      "note": "CoinDesk's Utah/Kalshi lawsuit report covers the same CFTC federal complaint against Utah already covered in content/articles/cftcutah.md; corroborated against the CFTC press release, Cointelegraph, RG.org and Ars Technica which all describe the identical Oct. 26-27 filing. CoinDesk itself returned HTTP 429 to WebFetch and curl with the readiness UA.",
+      "sourceChecks": [
+        {
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9315-26",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets",
+          "outcome": "read"
+        },
+        {
+          "url": "https://rg.org/news/prediction-markets/us-cftc-sue-utah-kalshi-prediction-markets-preemption",
+          "outcome": "read"
+        },
+        {
+          "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-29T04:06:38.052Z",
+      "duplicateOf": "cftcutah",
+      "lastReviewedDay": "2026-10-29"
     },
     "85a8d6c21e1258e26227": {
       "source": "The Block",
@@ -187017,6 +187044,35 @@
             }
           ],
           "reviewedAt": "2026-10-29T04:06:23.122Z",
+          "duplicateOf": "cftcutah"
+        },
+        "84533b2fc42e6e0f40e2": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "CoinDesk's Utah/Kalshi lawsuit report covers the same CFTC federal complaint against Utah already covered in content/articles/cftcutah.md; corroborated against the CFTC press release, Cointelegraph, RG.org and Ars Technica which all describe the identical Oct. 26-27 filing. CoinDesk itself returned HTTP 429 to WebFetch and curl with the readiness UA.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/9315-26",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets",
+              "outcome": "read"
+            },
+            {
+              "url": "https://rg.org/news/prediction-markets/us-cftc-sue-utah-kalshi-prediction-markets-preemption",
+              "outcome": "read"
+            },
+            {
+              "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-29T04:06:38.052Z",
           "duplicateOf": "cftcutah"
         }
       },
