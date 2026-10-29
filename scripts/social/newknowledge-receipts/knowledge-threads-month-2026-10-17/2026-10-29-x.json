@@ -112,7 +112,9 @@
   "accountId": "6ab62682ea19ca0bdee284bd",
   "claimId": "f21680a8-eaf5-4e2b-b891-1fa0189d7cb3",
   "startedAt": "2026-10-29T11:32:50.628Z",
-  "status": "accepted",
+  "status": "verified",
   "steps": {},
-  "postId": "6ae32eefac0ecea82fe675b3"
+  "postId": "6ae32eefac0ecea82fe675b3",
+  "permalink": "https://twitter.com/hashtag_web3/status/2115768878726774898",
+  "verifiedAt": "2026-10-29T11:33:11.631Z"
 }
