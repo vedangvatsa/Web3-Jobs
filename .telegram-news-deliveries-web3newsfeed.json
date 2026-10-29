@@ -2584,7 +2584,7 @@
     "sentAt": "2026-10-28T19:40:40.989Z"
   },
   "759e3f64-b116-43c6-a4b6-b13d47aece7a": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-29T03:39:17.610Z",
     "stories": [
       {
@@ -2612,6 +2612,8 @@
         "originalTitle": "Circle says it kept 7 cents of each USDC revenue dollar in first half"
       }
     ],
-    "slotKey": "2026-10-29:morning"
+    "slotKey": "2026-10-29:morning",
+    "messageId": 65786,
+    "sentAt": "2026-10-29T03:39:25.431Z"
   }
 }

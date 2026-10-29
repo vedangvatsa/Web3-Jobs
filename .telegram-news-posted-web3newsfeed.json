@@ -866,6 +866,9 @@
   "https://hashtagweb3.com/driftrancho?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/qubicreclaim?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/mastercardrisk?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/charonupgrade?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/xrplending?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/circlemargin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2498,6 +2501,12 @@
   "Qubic restarts mainnet and opens claims after $14 million drain",
   "Mastercard launches fraud detection tool for stablecoin payments",
   "Mastercard scores stablecoin payments for fraud before they settle",
+  "Obol updates Charon software after eMudhra certificate authority incident",
+  "Obol ships urgent Charon patch after eMudhra certificate compromise",
+  "XRP Ledger updates lending protocol code before activation",
+  "XRP Ledger patches its lending code before the feature ever turns on",
+  "Circle reports seven percent net profit margin for USDC",
+  "Circle says it kept 7 cents of each USDC revenue dollar in first half",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2893,5 +2902,8 @@
   "fp:activation|block|developer|height|includ|lock|nov|november5|nu7|reduc",
   "fp:198m|61m|700|april|asset|attacker|cash|drift|eth|exploit",
   "fp:14m|affect|began|claim|drain|exploit|follow|mainnet|network|october19",
-  "fp:api|are|complianc|detection|fraud|fund|mastercard|payment|sanction|scor"
+  "fp:api|are|complianc|detection|fraud|fund|mastercard|payment|sanction|scor",
+  "fp:authority|certificat|charon|check|compromis|emudhra|fix|incident|install|issu",
+  "fp:activation|ahead|cod|developer|ever|featur|implementation|ledger|lend|october23",
+  "fp:cent|circl|cost|dollar|dur|each|half|kept7|margin|net"
 ]
