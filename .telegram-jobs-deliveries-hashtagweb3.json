@@ -5377,7 +5377,7 @@
     "sentAt": "2026-10-28T19:38:17.257Z"
   },
   "3033768f-21e8-4fbd-9cce-de7a7ebd02d0": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-29T03:35:35.897Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -5492,6 +5492,8 @@
       }
     ],
     "message": "- Mesh is hiring <a href=\"https://hashtagweb3.com/ops32?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, Strategic Finance &amp; Operations</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/sls279?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Mid-Market Business Development Rep - AfterPay</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/pm26?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager, Global Self-Serve Product</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/cmp98?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Deputy MLRO (Malta)</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/mkt87?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Manager, Marketing Analytics</a>",
-    "slotKey": "2026-10-29:morning"
+    "slotKey": "2026-10-29:morning",
+    "messageId": 155974,
+    "sentAt": "2026-10-29T03:35:50.092Z"
   }
 }
