@@ -71617,7 +71617,8 @@
       },
       "account": "channel:web3",
       "attemptId": "0c545422-282d-4fb5-82a7-8423a0f8553e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x272151a334b7ea84910d9dd4df377300089b8f91"
     }
   ]
 }
