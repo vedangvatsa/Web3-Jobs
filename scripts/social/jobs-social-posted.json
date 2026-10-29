@@ -70898,7 +70898,8 @@
       },
       "account": "channel:dev",
       "attemptId": "08d1e300-2b70-470c-af51-ea9be0567764",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8ef0a0c002eca2a80336a9e0b0007ee6f302ddec"
     }
   ]
 }
