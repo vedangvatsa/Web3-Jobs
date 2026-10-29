@@ -5616,7 +5616,7 @@
     "sentAt": "2026-10-29T11:34:00.905Z"
   },
   "2c3ac118-90ac-4c86-87c5-10741e44861a": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-29T19:35:49.073Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -5727,6 +5727,8 @@
       }
     ],
     "message": "- Ripple is hiring <a href=\"https://hashtagweb3.com/sec67?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Internal Audit - Manager</a>\n- Bit2Me is hiring <a href=\"https://hashtagweb3.com/cmp117?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Legal, Compliance &amp; Operations Intern- Bit2Me STX</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/an100?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business &amp; AI Process Automation Analyst</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/cseb?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Success Enablement Business Partner</a>\n- Paxos is hiring <a href=\"https://hashtagweb3.com/eng577?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director of Engineering, Assets &amp; Issuance</a>",
-    "slotKey": "2026-10-29:evening"
+    "slotKey": "2026-10-29:evening",
+    "messageId": 155986,
+    "sentAt": "2026-10-29T19:35:54.002Z"
   }
 }
