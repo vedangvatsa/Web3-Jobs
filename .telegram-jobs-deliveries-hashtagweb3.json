@@ -5375,5 +5375,123 @@
     "slotKey": "2026-10-28:evening",
     "messageId": 155969,
     "sentAt": "2026-10-28T19:38:17.257Z"
+  },
+  "3033768f-21e8-4fbd-9cce-de7a7ebd02d0": {
+    "status": "reserved",
+    "reservedAt": "2026-10-29T03:35:35.897Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5460501008",
+          "title": "Director, Strategic Finance & Operations",
+          "company": "Mesh",
+          "link": "https://job-boards.greenhouse.io/mesh/jobs/5460501008",
+          "date": "2026-10-21T17:07:05-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Mesh [mesh]",
+          "location": "United States - Remote",
+          "department": "Finance",
+          "active": true,
+          "salary": "$220k – $250k/yr",
+          "dateVerified": true,
+          "slug": "ops32"
+        },
+        "key": "5460501008",
+        "slug": "ops32",
+        "url": "https://hashtagweb3.com/ops32?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Mesh",
+        "title": "Director, Strategic Finance & Operations"
+      },
+      {
+        "snapshot": {
+          "id": "5453137008",
+          "title": "Mid-Market Business Development Rep - AfterPay",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5453137008?gh_jid=5453137008",
+          "date": "2026-10-14T15:58:22-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "New York, NY, United States of America",
+          "department": "20231 S&M - Sales - Commerce SMB",
+          "active": true,
+          "salary": "$31 – $46/hr",
+          "dateVerified": true,
+          "slug": "sls279"
+        },
+        "key": "5453137008",
+        "slug": "sls279",
+        "url": "https://hashtagweb3.com/sls279?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Mid-Market Business Development Rep"
+      },
+      {
+        "snapshot": {
+          "id": "8267105",
+          "title": "Product Manager, Global Self-Serve Product",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8267105",
+          "date": "2026-10-15T00:40:29-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Singapore",
+          "department": "8262 APAC - PM",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm26"
+        },
+        "key": "8267105",
+        "slug": "pm26",
+        "url": "https://hashtagweb3.com/pm26?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "5000000101",
+          "title": "Deputy MLRO (Malta)",
+          "company": "BVNK",
+          "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5000000101",
+          "date": "2026-10-07T13:02:40-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BVNK [bvnk]",
+          "location": "Malta",
+          "department": "Legal/Risk/Regulatory",
+          "active": true,
+          "salary": "€60k – €90k/yr",
+          "dateVerified": true,
+          "slug": "cmp98"
+        },
+        "key": "5000000101",
+        "slug": "cmp98",
+        "url": "https://hashtagweb3.com/cmp98?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BVNK",
+        "title": "Deputy MLRO"
+      },
+      {
+        "snapshot": {
+          "id": "8257700",
+          "title": "Senior Manager, Marketing Analytics",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8257700?gh_jid=8257700",
+          "date": "2026-10-06T07:16:27-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "Chicago, IL",
+          "department": "Marketing",
+          "active": true,
+          "salary": "$170k – $200k/yr",
+          "dateVerified": true,
+          "slug": "mkt87"
+        },
+        "key": "8257700",
+        "slug": "mkt87",
+        "url": "https://hashtagweb3.com/mkt87?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Senior Manager"
+      }
+    ],
+    "message": "- Mesh is hiring <a href=\"https://hashtagweb3.com/ops32?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, Strategic Finance &amp; Operations</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/sls279?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Mid-Market Business Development Rep - AfterPay</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/pm26?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager, Global Self-Serve Product</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/cmp98?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Deputy MLRO (Malta)</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/mkt87?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Manager, Marketing Analytics</a>",
+    "slotKey": "2026-10-29:morning"
   }
 }
