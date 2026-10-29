@@ -98880,14 +98880,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "3995a51ca31a238f9b3a",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-30T21:25:18.000Z",
       "lastSeenAt": "2026-10-28T03:43:47.836Z",
-      "reason": "source-blocked",
-      "note": "Read Unchained's account of the renewed CFTC probe into Polymarket's 2022 settlement compliance. The underlying Reuters report returns HTTP 401 (paywall/auth). Unchained is currently the only readable outlet; need another independent readable report or the Reuters text before drafting.",
+      "reason": "verified-event",
+      "note": "Retry found and read two independent outlets on separate sites: CNBC's Oct 27 report citing a person familiar, and Unchained's Oct 27 write-up of the Reuters sourcing, plus a recheck of the Unchained article itself. Draft written to content/articles/cftcprobe.md with a self-hosted CC BY 4.0 CFTC building photo; quality, formatting, duplicate and image audits show zero issues for this file and the slug is unowned.",
       "sourceChecks": [
+        {
+          "url": "https://www.cnbc.com/2026/10/27/cftc-probes-polymarket-over-2022-settlement.html",
+          "outcome": "read"
+        },
         {
           "url": "https://unchainedcrypto.com/polymarket-faces-renewed-cftc-probe-over-whether-it-broke-2022-settlement-report/",
           "outcome": "read"
@@ -98897,12 +98901,12 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-28T04:52:58.636Z",
+      "reviewedAt": "2026-10-29T04:02:22.297Z",
       "retrySearches": [
         "Find independent readable coverage of the Reuters Oct 27 2026 report that the CFTC is again probing whether Polymarket broke its 2022 settlement, with details on location checks and US advertising"
       ],
-      "lastReviewedDay": "2026-10-28",
-      "nextReviewDate": "2026-10-29"
+      "lastReviewedDay": "2026-10-29",
+      "articleSlug": "cftcprobe"
     },
     "503bea3f38958dce6a1b": {
       "source": "The Defiant",
@@ -186925,6 +186929,27 @@
             }
           ],
           "reviewedAt": "2026-10-29T03:54:38.195Z"
+        },
+        "3995a51ca31a238f9b3a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Retry found and read two independent outlets on separate sites: CNBC's Oct 27 report citing a person familiar, and Unchained's Oct 27 write-up of the Reuters sourcing, plus a recheck of the Unchained article itself. Draft written to content/articles/cftcprobe.md with a self-hosted CC BY 4.0 CFTC building photo; quality, formatting, duplicate and image audits show zero issues for this file and the slug is unowned.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cnbc.com/2026/10/27/cftc-probes-polymarket-over-2022-settlement.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/polymarket-faces-renewed-cftc-probe-over-whether-it-broke-2022-settlement-report/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.reuters.com/business/finance/us-agency-is-again-probing-if-polymarket-broke-2022-settlement-sources-says-2026-10-27/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-29T04:02:22.297Z",
+          "articleSlug": "cftcprobe"
         }
       },
       "baselineSlugs": [
