@@ -3869,5 +3869,52 @@
     "slotKey": "2026-10-29:afternoon",
     "messageId": 155979,
     "sentAt": "2026-10-29T11:32:25.401Z"
+  },
+  "bcb6639e-97c6-4036-9203-16f6601ddc9f": {
+    "status": "reserved",
+    "reservedAt": "2026-10-29T19:35:09.091Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "mu-316925041",
+        "slug": "crypto-coffee-hangout",
+        "name": "Crypto Coffee Hangout",
+        "startDate": "2026-11-07T12:00:00Z",
+        "keys": [
+          "mu-316925041",
+          "page:crypto-coffee-hangout:2026-11-07",
+          "url:meetup.com/mcr_crypto/events/316925041:2026-11-07",
+          "event:cryptocoffeehangout:2026-11-07:manchester"
+        ]
+      },
+      {
+        "id": "discovery-evt-D20BjeUukzo2qyO",
+        "slug": "bitcoin-indonesia-community-meetup-yogyakarta-08-november",
+        "name": "Bitcoin Indonesia Community Meetup Yogyakarta 08 November 2026",
+        "startDate": "2026-11-08T10:00:00+07:00",
+        "keys": [
+          "discovery-evt-d20bjeuukzo2qyo",
+          "page:bitcoin-indonesia-community-meetup-yogyakarta-08-november:2026-11-08",
+          "luma:evt-d20bjeuukzo2qyo",
+          "luma-url:/cwcni6mx",
+          "event:bitcoinindonesiacommunitymeetupyogyakarta08november2026:2026-11-08:yogyakarta"
+        ]
+      },
+      {
+        "id": "discovery-evt-WfbYLayE3xUknIz",
+        "slug": "md-blockchain-association-virtual-happy-hour",
+        "name": "MD Blockchain Association Virtual Happy Hour",
+        "startDate": "2026-11-10T00:00:00.000Z",
+        "keys": [
+          "discovery-evt-wfbylaye3xukniz",
+          "page:md-blockchain-association-virtual-happy-hour:2026-11-09",
+          "luma:evt-wfbylaye3xukniz",
+          "luma-url:/s2dc5b7l",
+          "event:mdblockchainassociationvirtualhappyhour:2026-11-09:"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-29:evening"
   }
 }
