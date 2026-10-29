@@ -73058,6 +73058,47 @@
       "verification": "verified",
       "postId": "6ae330b9bab0e956b96cdb6c",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7521536577051795456"
+    },
+    {
+      "slug": "eng110",
+      "company": "Jane Street",
+      "title": "MacOS Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-29T11:37:55.722Z",
+      "expectedText": "Jane Street is hiring MacOS Engineer: https://hashtagweb3.com/eng110/li?og=7",
+      "snapshot": {
+        "id": "8884625002",
+        "title": "MacOS Engineer",
+        "company": "Jane Street",
+        "link": "https://www.janestreet.com/join-jane-street/apply/8884625002?gh_jid=8884625002",
+        "date": "2026-10-18T22:10:09-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Jane Street [janestreet]",
+        "location": "Hong Kong",
+        "department": "IT and Systems Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng110"
+      },
+      "payload": {
+        "text": "Jane Street is hiring MacOS Engineer: https://hashtagweb3.com/eng110/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng110/li?og=7",
+          "title": "MacOS Engineer at Jane Street",
+          "description": "Join Jane Street as MacOS Engineer. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng110.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "f0338d7f-0a27-4adc-b839-6da88a2f792b",
+      "verification": "creating"
     }
   ]
 }
