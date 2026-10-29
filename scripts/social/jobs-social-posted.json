@@ -70863,7 +70863,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "b47313f4-0a23-4676-965b-69dfb5668470",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x63a2d1d5ec856f6085d7ccb74345365376476445"
     }
   ]
 }
