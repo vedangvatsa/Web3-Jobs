@@ -9960,7 +9960,7 @@
     "sentAt": "2026-10-29T03:35:28.772Z"
   },
   "2cc02374-03e4-4d6b-8ca6-40a5e0e38d5b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-29T11:32:18.005Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -10074,6 +10074,8 @@
       }
     ],
     "message": "- Perle is hiring <a href=\"https://hashtagweb3.com/cc10?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Country Lead (Colombia)</a>\n- Dune is hiring <a href=\"https://hashtagweb3.com/eng431?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Software Engineer - Market Data</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/arc28?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Architect, Integrations - Public Sector (US/CA)</a>\n- LI.FI is hiring <a href=\"https://hashtagweb3.com/pm302?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm257?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager / Director, Trading API</a>",
-    "slotKey": "2026-10-29:afternoon"
+    "slotKey": "2026-10-29:afternoon",
+    "messageId": 16582,
+    "sentAt": "2026-10-29T11:32:23.122Z"
   }
 }

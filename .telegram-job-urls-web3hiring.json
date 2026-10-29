@@ -1371,6 +1371,14 @@
     "lastUrl": "https://hashtagweb3.com/developer24",
     "updatedAt": "2026-09-15T19:45:19.764Z"
   },
+  "96262026": {
+    "slugs": [
+      "cc10"
+    ],
+    "lastSlug": "cc10",
+    "lastUrl": "https://hashtagweb3.com/cc10",
+    "updatedAt": "2026-10-29T11:32:23.122Z"
+  },
   "4018000005": {
     "slugs": [
       "trader7"
@@ -5873,5 +5881,37 @@
     "lastSlug": "be87",
     "lastUrl": "https://hashtagweb3.com/be87",
     "updatedAt": "2026-10-29T03:35:28.772Z"
+  },
+  "9ec45150-6dce-4a1a-b295-c5ca0a6908ca": {
+    "slugs": [
+      "eng431"
+    ],
+    "lastSlug": "eng431",
+    "lastUrl": "https://hashtagweb3.com/eng431",
+    "updatedAt": "2026-10-29T11:32:23.122Z"
+  },
+  "ed4eb772-6485-4125-895b-f3dca08cbcdd": {
+    "slugs": [
+      "arc28"
+    ],
+    "lastSlug": "arc28",
+    "lastUrl": "https://hashtagweb3.com/arc28",
+    "updatedAt": "2026-10-29T11:32:23.122Z"
+  },
+  "852c6b3d-9f46-47ae-adb1-a5ed2608aac7": {
+    "slugs": [
+      "pm302"
+    ],
+    "lastSlug": "pm302",
+    "lastUrl": "https://hashtagweb3.com/pm302",
+    "updatedAt": "2026-10-29T11:32:23.122Z"
+  },
+  "8016000003": {
+    "slugs": [
+      "pm257"
+    ],
+    "lastSlug": "pm257",
+    "lastUrl": "https://hashtagweb3.com/pm257",
+    "updatedAt": "2026-10-29T11:32:23.122Z"
   }
 }

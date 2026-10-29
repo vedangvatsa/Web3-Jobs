@@ -5495,5 +5495,122 @@
     "slotKey": "2026-10-29:morning",
     "messageId": 155974,
     "sentAt": "2026-10-29T03:35:50.092Z"
+  },
+  "7c37692b-a291-4b57-8745-d93ccd4a5a68": {
+    "status": "reserved",
+    "reservedAt": "2026-10-29T11:33:53.766Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8226972",
+          "title": "Fraud Investigations Analyst",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8226972?t=gh_src=&gh_jid=8226972",
+          "date": "2026-10-21T15:39:48-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Denver, CO; Westlake, TX",
+          "department": "Customer Trust and Safety",
+          "active": true,
+          "salary": "$25 – $29/hr",
+          "dateVerified": true,
+          "slug": "an37"
+        },
+        "key": "8226972",
+        "slug": "an37",
+        "url": "https://hashtagweb3.com/an37?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Fraud Investigations Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "5007387101",
+          "title": "[EU]Chief Product Officer EU",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5007387101",
+          "date": "2026-10-15T10:23:21-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Europe - Remote",
+          "department": "Europe",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm87"
+        },
+        "key": "5007387101",
+        "slug": "pm87",
+        "url": "https://hashtagweb3.com/pm87?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "[EU]Chief Product Officer EU"
+      },
+      {
+        "snapshot": {
+          "id": "8221691",
+          "title": "Risk Product Analyst",
+          "company": "DRW",
+          "link": "https://job-boards.greenhouse.io/drweng/jobs/8221691",
+          "date": "2026-09-29T16:31:27-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DRW [drweng]",
+          "location": "Chicago",
+          "department": "UP - Product",
+          "active": true,
+          "salary": "$175k – $250k/yr",
+          "dateVerified": true,
+          "slug": "pm188"
+        },
+        "key": "8221691",
+        "slug": "pm188",
+        "url": "https://hashtagweb3.com/pm188?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DRW",
+        "title": "Risk Product Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "8045829003",
+          "title": "Lead / Expert, Ecosystem Growth",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8045829003",
+          "date": "2026-10-27T05:00:49-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Hong Kong",
+          "department": "Crypto Ecosystem Development",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt126"
+        },
+        "key": "8045829003",
+        "slug": "mkt126",
+        "url": "https://hashtagweb3.com/mkt126?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Lead / Expert"
+      },
+      {
+        "snapshot": {
+          "id": "0e7f0f5f-0a3f-4e37-9428-5aa259a22a72",
+          "title": "Deployment Strategist - Crypto Investigations",
+          "company": "Chainalysis",
+          "link": "https://jobs.ashbyhq.com/chainalysis-careers/0e7f0f5f-0a3f-4e37-9428-5aa259a22a72",
+          "date": "2026-10-01T07:03:13.667+00:00",
+          "source": "Ashby: Chainalysis [chainalysis-careers]",
+          "location": "Remote - USA",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "dsci"
+        },
+        "key": "0e7f0f5f-0a3f-4e37-9428-5aa259a22a72",
+        "slug": "dsci",
+        "url": "https://hashtagweb3.com/dsci?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Chainalysis",
+        "title": "Deployment Strategist"
+      }
+    ],
+    "message": "- Robinhood is hiring <a href=\"https://hashtagweb3.com/an37?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Fraud Investigations Analyst</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/pm87?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">[EU]Chief Product Officer EU</a>\n- DRW is hiring <a href=\"https://hashtagweb3.com/pm188?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Risk Product Analyst</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/mkt126?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Lead / Expert, Ecosystem Growth</a>\n- Chainalysis is hiring <a href=\"https://hashtagweb3.com/dsci?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Deployment Strategist - Crypto Investigations</a>",
+    "slotKey": "2026-10-29:afternoon"
   }
 }
