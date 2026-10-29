@@ -98923,9 +98923,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "503bea3f38958dce6a1b",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-30T20:45:58.000Z",
       "lastSeenAt": "2026-10-28T03:43:47.836Z",
       "articleSlug": "liquidgap",
@@ -98951,7 +98951,25 @@
         "updatedAt": "2026-10-29T04:07:58.516Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "New development on the September Liquid exploit: the Oct. 27 test transfer narrowed the reserve gap to about 600 BTC (3,649 BTC wallet vs 4,249 L-BTC, ~85.88% coverage) and Mow said the rest will be covered within days. Verified against Crypto Briefing, KuCoin/ChainCatcher, and Blockstream's primary incident assessment. Hero image is the Jurvetson Casascius coin photo from Wikimedia (CC BY 2.0), self-hosted at public/images/news/liquidgap.jpg (223KB). Quality, images, formatting and duplicate audits pass for this file; prior liquid-ransom.md remains the September exploit story.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/samson-mow-liquid-600-btc-shortfall/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.kucoin.com/news/flash/liquid-network-reserve-gap-narrows-to-600-btc-after-test-transfer",
+          "outcome": "read"
+        },
+        {
+          "url": "https://blog.blockstream.com/liquid-network-security-incident-assessment/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-29T04:12:39.404Z",
+      "lastReviewedDay": "2026-10-29"
     },
     "1b466b2ecd15e5bdd185": {
       "source": "The Defiant",
@@ -187078,6 +187096,27 @@
           ],
           "reviewedAt": "2026-10-29T04:06:38.052Z",
           "duplicateOf": "cftcutah"
+        },
+        "503bea3f38958dce6a1b": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "New development on the September Liquid exploit: the Oct. 27 test transfer narrowed the reserve gap to about 600 BTC (3,649 BTC wallet vs 4,249 L-BTC, ~85.88% coverage) and Mow said the rest will be covered within days. Verified against Crypto Briefing, KuCoin/ChainCatcher, and Blockstream's primary incident assessment. Hero image is the Jurvetson Casascius coin photo from Wikimedia (CC BY 2.0), self-hosted at public/images/news/liquidgap.jpg (223KB). Quality, images, formatting and duplicate audits pass for this file; prior liquid-ransom.md remains the September exploit story.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/samson-mow-liquid-600-btc-shortfall/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.kucoin.com/news/flash/liquid-network-reserve-gap-narrows-to-600-btc-after-test-transfer",
+              "outcome": "read"
+            },
+            {
+              "url": "https://blog.blockstream.com/liquid-network-security-incident-assessment/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-29T04:12:39.404Z",
+          "articleSlug": "liquidgap"
         }
       },
       "baselineSlugs": [
