@@ -9,44 +9,44 @@
   <rect width="1200" height="1200" fill="url(#dotGridOutro)" />
   <rect x="36" y="36" width="1128" height="1128" rx="20" fill="none" stroke="#E2E8F0" stroke-width="1.5" />
 
-  <!-- Big Clean Title -->
-  <g transform="translate(90, 160)">
+  <!-- Big Clean Title (100px top clearance to Row 1) -->
+  <g transform="translate(90, 155)">
     <text x="0" y="0" font-size="70" font-weight="900" fill="#0F172A" letter-spacing="-1.5px">Explore the Data</text>
     <text x="0" y="58" font-size="28" font-weight="500" fill="#64748B">All 10 interactive comparison tools and directories are live:</text>
   </g>
 
-  <!-- 4 Clean Stacked Rows (Evenly spaced across the canvas) -->
-  <g transform="translate(90, 335)">
+  <!-- 4 Clean Stacked Rows (Even 175px spacing, 100px bottom clearance to footer) -->
+  <g transform="translate(90, 325)">
     <!-- Row 1: Cities -->
     <g transform="translate(0, 0)">
-      <text x="0" y="44" font-size="48" font-weight="900" fill="#0F172A">Cities</text>
-      <text x="0" y="88" font-size="26" font-weight="500" fill="#64748B">100+ cities ranked by speed, cost &amp; safety</text>
-      <text x="1020" y="58" text-anchor="end" font-size="32" font-weight="800" fill="#2563EB">hashtagweb3.com/nomads</text>
-      <line x1="0" y1="130" x2="1020" y2="130" stroke="#E2E8F0" stroke-width="1.5" />
+      <text x="0" y="44" font-size="46" font-weight="900" fill="#0F172A">Cities</text>
+      <text x="0" y="90" font-size="25" font-weight="500" fill="#64748B">100+ cities ranked by speed, cost &amp; safety</text>
+      <text x="1020" y="66" text-anchor="end" font-size="32" font-weight="800" fill="#2563EB">hashtagweb3.com/nomads</text>
+      <line x1="0" y1="135" x2="1020" y2="135" stroke="#E2E8F0" stroke-width="1.5" />
     </g>
 
     <!-- Row 2: Visas -->
-    <g transform="translate(0, 185)">
-      <text x="0" y="44" font-size="48" font-weight="900" fill="#0F172A">Visas</text>
-      <text x="0" y="88" font-size="26" font-weight="500" fill="#64748B">71 nomad visas compared by tax &amp; income bar</text>
-      <text x="1020" y="58" text-anchor="end" font-size="32" font-weight="800" fill="#2563EB">hashtagweb3.com/visas</text>
-      <line x1="0" y1="130" x2="1020" y2="130" stroke="#E2E8F0" stroke-width="1.5" />
+    <g transform="translate(0, 175)">
+      <text x="0" y="44" font-size="46" font-weight="900" fill="#0F172A">Visas</text>
+      <text x="0" y="90" font-size="25" font-weight="500" fill="#64748B">71 nomad visas compared by tax &amp; income bar</text>
+      <text x="1020" y="66" text-anchor="end" font-size="32" font-weight="800" fill="#2563EB">hashtagweb3.com/visas</text>
+      <line x1="0" y1="135" x2="1020" y2="135" stroke="#E2E8F0" stroke-width="1.5" />
     </g>
 
     <!-- Row 3: Passports -->
-    <g transform="translate(0, 370)">
-      <text x="0" y="44" font-size="48" font-weight="900" fill="#0F172A">Passports</text>
-      <text x="0" y="88" font-size="26" font-weight="500" fill="#64748B">Statutory CBI &amp; Golden Visas by capital &amp; speed</text>
-      <text x="1020" y="58" text-anchor="end" font-size="32" font-weight="800" fill="#2563EB">hashtagweb3.com/citizenship</text>
-      <line x1="0" y1="130" x2="1020" y2="130" stroke="#E2E8F0" stroke-width="1.5" />
+    <g transform="translate(0, 350)">
+      <text x="0" y="44" font-size="46" font-weight="900" fill="#0F172A">Passports</text>
+      <text x="0" y="90" font-size="25" font-weight="500" fill="#64748B">Statutory CBI &amp; Golden Visas by capital &amp; speed</text>
+      <text x="1020" y="66" text-anchor="end" font-size="32" font-weight="800" fill="#2563EB">hashtagweb3.com/citizenship</text>
+      <line x1="0" y1="135" x2="1020" y2="135" stroke="#E2E8F0" stroke-width="1.5" />
     </g>
 
     <!-- Row 4: Web3 Jobs -->
-    <g transform="translate(0, 555)">
-      <text x="0" y="44" font-size="48" font-weight="900" fill="#0F172A">Web3 Jobs</text>
-      <text x="0" y="88" font-size="26" font-weight="500" fill="#64748B">Verified remote engineering &amp; builder roles</text>
-      <text x="1020" y="58" text-anchor="end" font-size="32" font-weight="800" fill="#2563EB">hashtagweb3.com/jobs</text>
-      <line x1="0" y1="130" x2="1020" y2="130" stroke="#E2E8F0" stroke-width="1.5" />
+    <g transform="translate(0, 525)">
+      <text x="0" y="44" font-size="46" font-weight="900" fill="#0F172A">Web3 Jobs</text>
+      <text x="0" y="90" font-size="25" font-weight="500" fill="#64748B">Verified remote engineering &amp; builder roles</text>
+      <text x="1020" y="66" text-anchor="end" font-size="32" font-weight="800" fill="#2563EB">hashtagweb3.com/jobs</text>
+      <line x1="0" y1="135" x2="1020" y2="135" stroke="#E2E8F0" stroke-width="1.5" />
     </g>
   </g>
 

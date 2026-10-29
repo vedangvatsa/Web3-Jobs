@@ -10,14 +10,14 @@
   <rect width="1200" height="1200" fill="url(#dotGridCover)" />
   <rect x="36" y="36" width="1128" height="1128" rx="20" fill="none" stroke="#E2E8F0" stroke-width="1.5" />
 
-  <!-- Title Section (Big, Bold, Legible) -->
+  <!-- Title Section (Balanced Leading) -->
   <g transform="translate(600, 135)">
     <text x="0" y="0" text-anchor="middle" font-size="68" font-weight="900" fill="#0F172A" letter-spacing="-1.5px">10 Decision Matrices</text>
-    <text x="0" y="68" text-anchor="middle" font-size="40" font-weight="800" fill="#475569" letter-spacing="-0.5px">for Remote Builders</text>
-    <text x="0" y="122" text-anchor="middle" font-size="24" font-weight="600" fill="#64748B">Cities · Visas · Passports · Web3 Tech Hubs</text>
+    <text x="0" y="66" text-anchor="middle" font-size="38" font-weight="800" fill="#475569" letter-spacing="-0.5px">for Remote Builders</text>
+    <text x="0" y="118" text-anchor="middle" font-size="23" font-weight="600" fill="#64748B">Cities · Visas · Passports · Web3 Tech Hubs</text>
   </g>
 
-  <!-- 2x2 Crosshairs -->
+  <!-- 2x2 Crosshairs (Balanced Geometry) -->
   <line x1="90" y1="675" x2="1110" y2="675" stroke="#64748B" stroke-width="2.5" />
   <polygon points="75,675 92,667 92,683" fill="#64748B" />
   <polygon points="1125,675 1108,667 1108,683" fill="#64748B" />
@@ -26,42 +26,42 @@
   <polygon points="600,350 592,367 608,367" fill="#64748B" />
   <polygon points="600,1000 592,983 608,983" fill="#64748B" />
 
-  <!-- Axis Direction Labels (Bigger & Bolder) -->
-  <text x="600" y="325" text-anchor="middle" font-size="20" font-weight="800" fill="#64748B" letter-spacing="2px">FREEDOM &amp; RUNWAY</text>
-  <text x="600" y="1040" text-anchor="middle" font-size="20" font-weight="800" fill="#64748B" letter-spacing="2px">RESTRICTIVE &amp; SLOW</text>
-  <text x="95" y="655" text-anchor="start" font-size="20" font-weight="800" fill="#64748B" letter-spacing="2px">EXPENSIVE</text>
-  <text x="1105" y="655" text-anchor="end" font-size="20" font-weight="800" fill="#64748B" letter-spacing="2px">AFFORDABLE</text>
+  <!-- Axis Direction Labels (Spaced from arrows and borders) -->
+  <text x="600" y="322" text-anchor="middle" font-size="19" font-weight="800" fill="#64748B" letter-spacing="2px">FREEDOM &amp; RUNWAY</text>
+  <text x="600" y="1038" text-anchor="middle" font-size="19" font-weight="800" fill="#64748B" letter-spacing="2px">RESTRICTIVE &amp; SLOW</text>
+  <text x="95" y="652" text-anchor="start" font-size="19" font-weight="800" fill="#64748B" letter-spacing="2px">EXPENSIVE</text>
+  <text x="1105" y="652" text-anchor="end" font-size="19" font-weight="800" fill="#64748B" letter-spacing="2px">AFFORDABLE</text>
 
-  <!-- 4 Quadrants (Large, High-Contrast Typography) -->
-  <!-- Top Right -->
-  <g transform="translate(855, 480)">
+  <!-- 4 Quadrants (Vertically and Horizontally Symmetrical) -->
+  <!-- Top Right (Sweet Spots) -->
+  <g transform="translate(850, 475)">
     <text x="0" y="0" text-anchor="middle" font-size="38" font-weight="900" fill="#059669">Sweet Spots</text>
-    <text x="0" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#0F172A">Chiang Mai · Da Nang · Lisbon</text>
-    <text x="0" y="86" text-anchor="middle" font-size="21" font-weight="500" fill="#64748B">Thailand DTV · 0% Tax · Fast Fiber</text>
+    <text x="0" y="48" text-anchor="middle" font-size="24" font-weight="700" fill="#0F172A">Chiang Mai · Da Nang · Lisbon</text>
+    <text x="0" y="90" text-anchor="middle" font-size="21" font-weight="500" fill="#64748B">Thailand DTV · 0% Tax · Fast Fiber</text>
   </g>
 
-  <!-- Top Left -->
-  <g transform="translate(345, 480)">
+  <!-- Top Left (Global Tech Capitals) -->
+  <g transform="translate(350, 475)">
     <text x="0" y="0" text-anchor="middle" font-size="38" font-weight="900" fill="#2563EB">Global Tech Capitals</text>
-    <text x="0" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#0F172A">San Francisco · London · NYC</text>
-    <text x="0" y="86" text-anchor="middle" font-size="21" font-weight="500" fill="#64748B">Dubai VARA · Singapore MAS</text>
+    <text x="0" y="48" text-anchor="middle" font-size="24" font-weight="700" fill="#0F172A">San Francisco · London · NYC</text>
+    <text x="0" y="90" text-anchor="middle" font-size="21" font-weight="500" fill="#64748B">Dubai VARA · Singapore MAS</text>
   </g>
 
-  <!-- Bottom Right -->
-  <g transform="translate(855, 815)">
+  <!-- Bottom Right (Fast Runways) -->
+  <g transform="translate(850, 785)">
     <text x="0" y="0" text-anchor="middle" font-size="38" font-weight="900" fill="#D97706">Fast Runways</text>
-    <text x="0" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#0F172A">Bali · Medellín · Buenos Aires</text>
-    <text x="0" y="86" text-anchor="middle" font-size="21" font-weight="500" fill="#64748B">Vanuatu CBI · Caribbean Visas</text>
+    <text x="0" y="48" text-anchor="middle" font-size="24" font-weight="700" fill="#0F172A">Bali · Medellín · Buenos Aires</text>
+    <text x="0" y="90" text-anchor="middle" font-size="21" font-weight="500" fill="#64748B">Vanuatu CBI · Caribbean Visas</text>
   </g>
 
-  <!-- Bottom Left -->
-  <g transform="translate(345, 815)">
+  <!-- Bottom Left (Legacy & High Capital) -->
+  <g transform="translate(350, 785)">
     <text x="0" y="0" text-anchor="middle" font-size="38" font-weight="900" fill="#475569">Legacy &amp; High Capital</text>
-    <text x="0" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#0F172A">Tokyo · Zurich · Malta</text>
-    <text x="0" y="86" text-anchor="middle" font-size="21" font-weight="500" fill="#64748B">Naturalization &amp; €750k CBI</text>
+    <text x="0" y="48" text-anchor="middle" font-size="24" font-weight="700" fill="#0F172A">Tokyo · Zurich · Malta</text>
+    <text x="0" y="90" text-anchor="middle" font-size="21" font-weight="500" fill="#64748B">Naturalization &amp; €750k CBI</text>
   </g>
 
-  <!-- Footer (Bigger) -->
+  <!-- Footer (Even Padding) -->
   <line x1="60" y1="1130" x2="1140" y2="1130" stroke="#E2E8F0" stroke-width="1.5" />
   <text x="60" y="1165" font-size="19" font-weight="600" fill="#64748B">100+ Cities · 71 Nomad Visas · 15 CBI Programs</text>
   <text x="1140" y="1165" text-anchor="end" font-size="20"><tspan fill="#64748B" font-weight="500">Find Web3 Jobs at </tspan><tspan fill="#0F172A" font-weight="800">hashtagweb3.com</tspan></text>
