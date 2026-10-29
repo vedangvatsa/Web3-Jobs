@@ -296,10 +296,12 @@
           "bitgojupiter",
           "dailydividends"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-10-29T10:23:10.994Z",
         "buildId": "daily-20261029-40856932551-1",
-        "rolloutId": "daily-20261029-40856932551-1"
+        "rolloutId": "daily-20261029-40856932551-1",
+        "buildState": "READY",
+        "observedAt": "2026-10-29T10:38:48.391Z"
       }
     ]
   }
