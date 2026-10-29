@@ -2872,5 +2872,62 @@
       "luma-crypto-lgebhhyyw3c9yba",
       "aadt"
     ]
+  },
+  "premier-onchaincapital": {
+    "until": "2027-10-29T08:07:30.164Z",
+    "slugs": [
+      "premier-onchaincapital",
+      "onchaincapital",
+      "onchain"
+    ]
+  },
+  "w3v-onchain-capital--liquidity-defi--ai": {
+    "until": "2027-10-29T08:07:30.164Z",
+    "slugs": [
+      "w3v-onchain-capital--liquidity-defi--ai",
+      "ocl"
+    ]
+  },
+  "w3v-kbw2026-vcs--lps-cocktail-hour": {
+    "until": "2027-10-29T08:07:30.164Z",
+    "slugs": [
+      "w3v-kbw2026-vcs--lps-cocktail-hour",
+      "kvlch"
+    ]
+  },
+  "luma-batch-evtdA2rzqMIii3Or": {
+    "until": "2027-10-29T08:07:30.164Z",
+    "slugs": [
+      "luma-batch-evtda2rzqmiii3or",
+      "tfdaetv3"
+    ]
+  },
+  "luma-batch-evtkNHIuk3cLzCnw": {
+    "until": "2027-10-29T08:07:30.164Z",
+    "slugs": [
+      "luma-batch-evtknhiuk3clzcnw",
+      "joyfaycq"
+    ]
+  },
+  "luma-batch-evtEC6eAXNQk8RQ1": {
+    "until": "2027-10-29T08:07:30.164Z",
+    "slugs": [
+      "luma-batch-evtec6eaxnqk8rq1",
+      "mxlw6311"
+    ]
+  },
+  "luma-batch-evtPT3LUbGJql7bN": {
+    "until": "2027-10-29T08:07:30.164Z",
+    "slugs": [
+      "luma-batch-evtpt3lubgjql7bn",
+      "wprc-seoul-ethereum-korea-one"
+    ]
+  },
+  "luma-batch-evtizxRTn2xla4tR": {
+    "until": "2027-10-29T08:07:30.164Z",
+    "slugs": [
+      "luma-batch-evtizxrtn2xla4tr",
+      "w5guj5ix"
+    ]
   }
 }

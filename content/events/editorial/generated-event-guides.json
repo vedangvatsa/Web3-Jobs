@@ -1972,40 +1972,6 @@
       }
     ]
   },
-  "premier-onchaincapital": {
-    "summaryLead": "Onchain Capital & Liquidity Seoul 2026 compresses a big subject into one working day: how capital markets are being rebuilt on-chain, and what liquidity infrastructure looks like when theory collides with live markets. It runs September 29, 2026, in Seoul, squarely inside Korea Blockchain Week.",
-    "sections": [
-      {
-        "heading": "What the day actually covers",
-        "content": [
-          "The listing describes a DeFi and AI-focused session on on-chain capital markets and liquidity infrastructure, scheduled from 09:00 to 18:00 on September 29. That is a wide brief for a single day, but the pairing makes sense right now. Capital formation has quietly migrated on-chain over the past two years, and the plumbing underneath it, from automated market makers to cross-chain settlement layers, has become the real competitive battleground between protocols.",
-          "The AI half of the equation is the more interesting hook. Where machine intelligence touches on-chain finance is still mostly experiment territory: agent-driven execution, risk models trained on order flow, treasury automation. Expect the day to sit somewhere between an operator workshop and a research salon rather than a keynote parade. Details on speakers and venue have been kept deliberately thin on the listing page at lilroom.xyz, which is worth checking before you plan anything else."
-        ]
-      },
-      {
-        "heading": "Why Seoul, and why this particular week",
-        "content": [
-          "Korea Blockchain Week turns the city into the densest concentration of crypto talent in Asia for a few days each autumn. Side events live or die by how well they carve out a reason to skip something else, and a focused, one-room format on capital markets is a credible pitch. You trade the scale of the main conferences for conversations that actually go deep.",
-          "Seoul is also the right audience for this material. Korean traders have always punched above their weight in crypto markets, and local institutions have grown noticeably more curious about on-chain rails since won-backed stablecoin discussions picked up in the National Assembly. A session on liquidity infrastructure is not an abstract topic here; it maps onto a live domestic debate.",
-          "There is also a practical argument for attending a small room in a big week: information asymmetry. The conversations that shape market structure decisions often happen months before they appear in governance forums or announcements, and compact sessions like this one are where those early signals surface first."
-        ]
-      },
-      {
-        "heading": "Who gets the most out of the room",
-        "content": [
-          "Protocol teams working on DEX design, lending markets, or cross-chain routing will find peers here faster than at a 5,000-person expo. Market makers and fund analysts who want a read on where on-chain liquidity is consolidating should treat the day as reconnaissance. Builders experimenting with AI agents in trading or treasury operations are the third obvious constituency.",
-          "Students and early-career developers should not be scared off either. KBW's side-event culture has always been porous, and smaller rooms are where juniors actually get face time with people who build the systems they read about."
-        ]
-      },
-      {
-        "heading": "Practical notes before you commit",
-        "content": [
-          "Confirm the exact venue through the organizer's page, since side events in Seoul often finalize locations close to the date and cluster within walking distance of Gangnam hotels. Build slack into your schedule; September 29 sits alongside plenty of competing programming.",
-          "It is also worth knowing that the same program family appears to run two follow-on sessions on September 30, one covering institutional perspectives on RWAs and stablecoins and another on perpetuals and institutional participation. If capital markets infrastructure is your beat, stringing all three together makes a tidy mini-conference of its own."
-        ]
-      }
-    ]
-  },
   "premier-instonchain": {
     "summaryLead": "Institutional Onchain: RWAs & Stablecoins Seoul 2026 is a one-day session on September 30, 2026, examining how real-world assets and stablecoins are moving from pitch decks onto actual balance sheets. It forms part of the KBW side-event program in Seoul.",
     "sections": [

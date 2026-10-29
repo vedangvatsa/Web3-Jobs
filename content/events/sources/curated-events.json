@@ -1955,55 +1955,6 @@
     }
   },
   {
-    "id": "premier-onchaincapital",
-    "slug": "onchain",
-    "name": "Onchain Capital & Liquidity: DeFi & AI📍 Seoul, South Korea | 🗓 Sep 29 - Oct 1 | During Korea Blockchain Week",
-    "description": "## About the Event\n\nOnchain Capital & Liquidity: DeFi & AI is a curated gathering of builders, founders, liquidity providers, and investors shaping the next generation of decentralized financial markets.\n\nAs DeFi continues to evolve, liquidity infrastructure, capital efficiency, and sustainable token economies are becoming the backbone of the onchain financial system. This event focuses on how protocols, market makers, and funds are designing new models for liquidity, trading, and capital coordination across crypto networks.\n\nThis is a capital-first room. High signal. No fluff.\n\nPrevious Speakers\n\n## Topics You’ll See\n\n• Liquidity design and market structure in DeFi\n• Capital efficiency and onchain yield strategies\n• Tokenomics and sustainable liquidity models\n• Market making and institutional liquidity in crypto\n• Cross-chain liquidity infrastructure\n• The future of onchain financial markets\n\n## What to Expect\n\n• Curated founders, DeFi builders, and liquidity providers\n• Deep discussions on market structure and capital flows\n• Insights from teams actively deploying capital onchain\n• High-quality networking with DeFi-focused investors and funds\n• A relaxed, closed-door environment for real conversations\n\nPast Activations\n\n## Agenda (Indicative)\n\n4:00 – 4:45 PM | Arrival & Networking\n\n4:45 – 5:30 PM | Panel: Liquidity Wars — Designing Sustainable DeFi Markets\n\n5:30 – 6:00 PM | Talk: Capital Efficiency & DeFi Market Infrastructure\n\n6:00 – 6:30 PM | Keynote: The Future of Onchain Capital\n\n6:30 – 8:00 PM | Networking & Social\n\n## Sponsorship\n\nTo discuss sponsorship opportunities, feel free to reach out on Telegram: @saurabh_0x\n\n## Past Events\n\nhttps://luma.com/3loqk0iz\n\nhttps://luma.com/zn02vlx2\n\nhttps://luma.com/wxa40k7a\n\nhttps://luma.com/7obq3bf2",
-    "startDate": "2026-09-29T05:00:00.000Z",
-    "endDate": "2026-09-29T08:00:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "Seoul, South Korea",
-    "url": "https://luma.com/uz21gg7p",
-    "website": "https://luma.com/uz21gg7p",
-    "coverImage": "/events/premier-onchaincapital-d9a08bc5.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "timezone": "Asia/Seoul",
-    "registrationUrl": "https://luma.com/uz21gg7p",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Seoul",
-    "addressLocality": "Seoul",
-    "addressRegion": "Seoul",
-    "addressCountry": "KR",
-    "coordinates": {
-      "latitude": 37.550263,
-      "longitude": 126.9970831
-    },
-    "hosts": [
-      "lil room"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/uz21gg7p",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/uz21gg7p",
-      "eventId": "evt-SZI6XvDhbmFz2tH",
-      "fetchedAt": "2026-09-20T07:56:54.708Z",
-      "method": "luma-page"
-    }
-  },
-  {
     "id": "premier-instonchain",
     "slug": "institutional5",
     "name": "Institutional Onchain: RWAs & Stablecoins📍Seoul, South Korea | 🗓 Sep 29 - Oct 1| During Korea Blockchain Week",

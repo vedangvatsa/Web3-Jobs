@@ -714,22 +714,6 @@
       ]
     },
     {
-      "id": "premier-onchaincapital",
-      "file": "curated-events.json",
-      "name": "Onchain Capital & Liquidity Seoul 2026",
-      "status": "unavailable",
-      "attempts": [
-        {
-          "url": "https://lilroom.xyz/",
-          "reason": "event-not-matched"
-        },
-        {
-          "url": "https://lilroom.xyz",
-          "reason": "event-not-matched"
-        }
-      ]
-    },
-    {
       "id": "premier-instonchain",
       "file": "curated-events.json",
       "name": "Institutional Onchain: RWAs & Stablecoins Seoul 2026",

@@ -32,17 +32,6 @@
       "reason": "Matched the shortened curated title to the exact Solidus Labs and Yulchon event instead of the company homepage."
     },
     {
-      "id": "premier-onchaincapital",
-      "kind": "luma",
-      "sourceUrl": "https://luma.com/uz21gg7p",
-      "contains": [
-        "Onchain Capital & Liquidity",
-        "Seoul"
-      ],
-      "eventId": "evt-SZI6XvDhbmFz2tH",
-      "reason": "Located the organizer's exact Seoul registration page instead of lil room's general homepage."
-    },
-    {
       "id": "premier-instonchain",
       "kind": "luma",
       "sourceUrl": "https://luma.com/qsfjc56x",
