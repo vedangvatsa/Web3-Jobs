@@ -125,109 +125,82 @@ function buildCoverSvg(): string {
 }
 
 function buildOutroSvg(): string {
-  return `<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg" style="background:#FFFFFF; font-family:system-ui,-apple-system,'SF Pro Display','Segoe UI',Roboto,Helvetica,sans-serif;">
+  return `<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg" style="background:#F8FAFC; font-family:system-ui,-apple-system,'SF Pro Display','Segoe UI',Roboto,Helvetica,sans-serif;">
   <defs>
     <!-- Dot Grid Pattern -->
     <pattern id="dotGridOutro" width="28" height="28" patternUnits="userSpaceOnUse">
       <circle cx="14" cy="14" r="1.5" fill="#CBD5E1" />
     </pattern>
-    <filter id="outroShadow" x="-5%" y="-5%" width="110%" height="110%">
-      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#0F172A" flood-opacity="0.05"/>
-    </filter>
   </defs>
 
-  <!-- Background Canvas -->
-  <rect width="1200" height="1200" fill="#F8FAFC"/>
-  <rect width="1200" height="1200" fill="url(#dotGridOutro)"/>
-  <rect x="24" y="24" width="1152" height="1152" rx="20" fill="none" stroke="#E2E8F0" stroke-width="1.5"/>
+  <!-- Background Canvas with Dot Grid -->
+  <rect width="1200" height="1200" fill="#F8FAFC" />
+  <rect width="1200" height="1200" fill="url(#dotGridOutro)" />
+  <rect x="36" y="36" width="1128" height="1128" rx="20" fill="none" stroke="#E2E8F0" stroke-width="1.5" />
 
-  <!-- Top Category Pill -->
-  <g transform="translate(600, 95)">
-    <rect x="-140" y="-16" width="280" height="32" rx="16" fill="#EEF2FF" stroke="#C7D2FE" stroke-width="1"/>
-    <text x="0" y="5" text-anchor="middle" font-size="12" font-weight="700" fill="#4338CA" letter-spacing="1.2">HASHTAG WEB3 DIRECTORY</text>
+  <!-- Top Kicker Header -->
+  <g transform="translate(100, 140)">
+    <text x="0" y="0" font-size="13" font-weight="800" fill="#64748B" letter-spacing="2">HASHTAG WEB3 RESEARCH · FREE TOOLS</text>
+    <line x1="0" y1="20" x2="1000" y2="20" stroke="#E2E8F0" stroke-width="1.5" />
   </g>
 
-  <!-- Main Headline -->
-  <text x="600" y="185" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="44" font-weight="800" fill="#0F172A" letter-spacing="-0.5px">Explore All Free Tools Online</text>
-  <text x="600" y="230" text-anchor="middle" font-size="18" font-weight="500" fill="#64748B">Compare cities, verify visa laws, research citizenship, and find remote roles</text>
+  <!-- Big Bold Headline & Subtitle (Minimal, No Fluff) -->
+  <g transform="translate(100, 260)">
+    <text x="0" y="0" font-size="54" font-weight="900" fill="#0F172A" letter-spacing="-1.5px">Explore All Free Tools Online</text>
+    <text x="0" y="52" font-size="22" font-weight="500" fill="#64748B">Interactive databases, comparison calculators, and verified directories.</text>
+  </g>
 
-  <!-- 4 Core Resources Grid -->
-  <g transform="translate(100, 290)">
-    <!-- Resource 1: City Explorer -->
+  <!-- 4 Clean Typographic Directory Rows (Zero Pills, Zero Cards, Zero AI Slop) -->
+  <g transform="translate(100, 420)">
+    <!-- Row 1: Cities -->
     <g transform="translate(0, 0)">
-      <rect width="480" height="360" rx="20" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" filter="url(#outroShadow)"/>
-      <rect x="35" y="35" width="80" height="30" rx="15" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1"/>
-      <text x="75" y="55" text-anchor="middle" font-size="11.5" font-weight="700" fill="#1D4ED8">CITIES</text>
-      <text x="130" y="57" font-size="22" font-weight="700" fill="#0F172A">City Explorer</text>
-      <text x="35" y="100" font-size="15" font-weight="600" fill="#2563EB">hashtagweb3.com/nomads</text>
-      
-      <text x="35" y="155" font-size="15" font-weight="500" fill="#334155">
-        <tspan x="35" dy="0">• Compare 100+ cities by living cost and rent</tspan>
-        <tspan x="35" dy="32">• Real Ookla internet speeds &amp; fiber availability</tspan>
-        <tspan x="35" dy="32">• Walkability scores, safety index &amp; weather</tspan>
-        <tspan x="35" dy="32">• Direct side-by-side city matchup cards</tspan>
-      </text>
+      <text x="0" y="32" font-size="24" font-weight="800" fill="#94A3B8" letter-spacing="1">01</text>
+      <text x="65" y="32" font-size="26" font-weight="800" fill="#0F172A">City Explorer</text>
+      <text x="350" y="32" font-size="16" font-weight="500" fill="#64748B">100+ cities ranked by speed, living cost &amp; safety</text>
+      <text x="1000" y="32" text-anchor="end" font-size="18" font-weight="700" fill="#2563EB">hashtagweb3.com/nomads</text>
+      <line x1="0" y1="65" x2="1000" y2="65" stroke="#E2E8F0" stroke-width="1.5" />
     </g>
 
-    <!-- Resource 2: Nomad Visas -->
-    <g transform="translate(520, 0)">
-      <rect width="480" height="360" rx="20" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" filter="url(#outroShadow)"/>
-      <rect x="35" y="35" width="70" height="30" rx="15" fill="#F0FDF4" stroke="#BBF7D0" stroke-width="1"/>
-      <text x="70" y="55" text-anchor="middle" font-size="11.5" font-weight="700" fill="#15803D">VISAS</text>
-      <text x="120" y="57" font-size="22" font-weight="700" fill="#0F172A">Nomad Visa Guide</text>
-      <text x="35" y="100" font-size="15" font-weight="600" fill="#16A34A">hashtagweb3.com/visas</text>
-
-      <text x="35" y="155" font-size="15" font-weight="500" fill="#334155">
-        <tspan x="35" dy="0">• 71 sovereign remote work visa programs</tspan>
-        <tspan x="35" dy="32">• Official statutory monthly income thresholds</tspan>
-        <tspan x="35" dy="32">• Local tax exemptions vs territorial rules</tspan>
-        <tspan x="35" dy="32">• Passport entry checker &amp; stay durations</tspan>
-      </text>
+    <!-- Row 2: Visas -->
+    <g transform="translate(0, 110)">
+      <text x="0" y="32" font-size="24" font-weight="800" fill="#94A3B8" letter-spacing="1">02</text>
+      <text x="65" y="32" font-size="26" font-weight="800" fill="#0F172A">Nomad Visa Guide</text>
+      <text x="350" y="32" font-size="16" font-weight="500" fill="#64748B">71 countries analyzed by tax rate &amp; income bar</text>
+      <text x="1000" y="32" text-anchor="end" font-size="18" font-weight="700" fill="#2563EB">hashtagweb3.com/visas</text>
+      <line x1="0" y1="65" x2="1000" y2="65" stroke="#E2E8F0" stroke-width="1.5" />
     </g>
 
-    <!-- Resource 3: Passports & Citizenship -->
-    <g transform="translate(0, 400)">
-      <rect width="480" height="360" rx="20" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" filter="url(#outroShadow)"/>
-      <rect x="35" y="35" width="105" height="30" rx="15" fill="#FEF3C7" stroke="#FDE68A" stroke-width="1"/>
-      <text x="87" y="55" text-anchor="middle" font-size="11.5" font-weight="700" fill="#B45309">PASSPORTS</text>
-      <text x="155" y="57" font-size="22" font-weight="700" fill="#0F172A">Citizenship Guide</text>
-      <text x="35" y="100" font-size="15" font-weight="600" fill="#D97706">hashtagweb3.com/citizenship</text>
-
-      <text x="35" y="155" font-size="15" font-weight="500" fill="#334155">
-        <tspan x="35" dy="0">• Statutory Citizenship by Investment routes</tspan>
-        <tspan x="35" dy="32">• Minimum capital vs government fee schedules</tspan>
-        <tspan x="35" dy="32">• Official processing speeds &amp; holding periods</tspan>
-        <tspan x="35" dy="32">• Links to official government program gazettes</tspan>
-      </text>
+    <!-- Row 3: Citizenship -->
+    <g transform="translate(0, 220)">
+      <text x="0" y="32" font-size="24" font-weight="800" fill="#94A3B8" letter-spacing="1">03</text>
+      <text x="65" y="32" font-size="26" font-weight="800" fill="#0F172A">Citizenship Guide</text>
+      <text x="350" y="32" font-size="16" font-weight="500" fill="#64748B">Statutory CBI &amp; Golden Visas compared by speed</text>
+      <text x="1000" y="32" text-anchor="end" font-size="18" font-weight="700" fill="#2563EB">hashtagweb3.com/citizenship</text>
+      <line x1="0" y1="65" x2="1000" y2="65" stroke="#E2E8F0" stroke-width="1.5" />
     </g>
 
-    <!-- Resource 4: Web3 Job Board -->
-    <g transform="translate(520, 400)">
-      <rect width="480" height="360" rx="20" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" filter="url(#outroShadow)"/>
-      <rect x="35" y="35" width="90" height="30" rx="15" fill="#FDF4FF" stroke="#F0ABFC" stroke-width="1"/>
-      <text x="80" y="55" text-anchor="middle" font-size="11.5" font-weight="700" fill="#A21CAF">CAREERS</text>
-      <text x="140" y="57" font-size="22" font-weight="700" fill="#0F172A">Web3 Job Board</text>
-      <text x="35" y="100" font-size="15" font-weight="600" fill="#9333EA">hashtagweb3.com/jobs</text>
-
-      <text x="35" y="155" font-size="15" font-weight="500" fill="#334155">
-        <tspan x="35" dy="0">• Thousands of verified remote Web3 jobs</tspan>
-        <tspan x="35" dy="32">• Smart contracts, frontend dApps, &amp; engineering</tspan>
-        <tspan x="35" dy="32">• Growth, marketing, design, &amp; tokenomics</tspan>
-        <tspan x="35" dy="32">• Direct company application links</tspan>
-      </text>
+    <!-- Row 4: Careers -->
+    <g transform="translate(0, 330)">
+      <text x="0" y="32" font-size="24" font-weight="800" fill="#94A3B8" letter-spacing="1">04</text>
+      <text x="65" y="32" font-size="26" font-weight="800" fill="#0F172A">Web3 Job Board</text>
+      <text x="350" y="32" font-size="16" font-weight="500" fill="#64748B">Verified remote Web3 &amp; crypto engineering roles</text>
+      <text x="1000" y="32" text-anchor="end" font-size="18" font-weight="700" fill="#2563EB">hashtagweb3.com/jobs</text>
+      <line x1="0" y1="65" x2="1000" y2="65" stroke="#E2E8F0" stroke-width="1.5" />
     </g>
   </g>
 
-  <!-- Bottom CTA Pill -->
-  <g transform="translate(600, 1085)">
-    <rect x="-350" y="-22" width="700" height="44" rx="22" fill="#0F172A"/>
-    <text x="0" y="6" text-anchor="middle" font-size="14.5" font-weight="700" fill="#FFFFFF" letter-spacing="1">OPEN-ACCESS REMOTE WORK INTELLIGENCE · HASHTAGWEB3.COM</text>
+  <!-- Bottom Direct CTA -->
+  <g transform="translate(100, 940)">
+    <text x="0" y="0" font-size="20" font-weight="800" fill="#0F172A">Found this thread valuable?</text>
+    <text x="0" y="34" font-size="16" font-weight="500" fill="#64748B">Repost the first tweet to share with fellow remote workers &amp; builders.</text>
   </g>
 
-  <!-- Footer Footnotes & Watermark -->
-  <line x1="45" y1="1138" x2="1155" y2="1138" stroke="#E2E8F0" stroke-width="1"/>
-  <text x="45" y="1165" font-size="13" font-weight="400" fill="#64748B">Free for all remote workers, digital nomads and builders.</text>
-  <text x="1155" y="1165" text-anchor="end" font-size="14.5"><tspan fill="#64748B" font-weight="500">Find Web3 Jobs at </tspan><tspan fill="#0F172A" font-weight="700">hashtagweb3.com</tspan></text>
+  <!-- Clean Minimal Footer -->
+  <g transform="translate(100, 1100)">
+    <line x1="0" y1="0" x2="1000" y2="0" stroke="#E2E8F0" stroke-width="1.5" />
+    <text x="0" y="40" font-size="14" font-weight="500" fill="#64748B">Open-Access Remote Work Intelligence · Updated October 2026</text>
+    <text x="1000" y="40" text-anchor="end" font-size="14"><tspan fill="#64748B" font-weight="500">Find Web3 Jobs at </tspan><tspan fill="#0F172A" font-weight="700">hashtagweb3.com</tspan></text>
+  </g>
 </svg>`;
 }
 
