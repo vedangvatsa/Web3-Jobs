@@ -2582,5 +2582,36 @@
     "slotKey": "2026-10-28:evening",
     "messageId": 65785,
     "sentAt": "2026-10-28T19:40:40.989Z"
+  },
+  "759e3f64-b116-43c6-a4b6-b13d47aece7a": {
+    "status": "reserved",
+    "reservedAt": "2026-10-29T03:39:17.610Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Obol updates Charon software after eMudhra certificate authority incident",
+        "summary": "Mainnet operators should install version 1.11.2 to fix issues with Go certificate checks.",
+        "link": "https://hashtagweb3.com/charonupgrade?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Obol ships urgent Charon patch after eMudhra certificate compromise"
+      },
+      {
+        "index": -1,
+        "headline": "XRP Ledger updates lending protocol code before activation",
+        "summary": "Developers released a patch for the upcoming lending feature ahead of its scheduled October 23 implementation.",
+        "link": "https://hashtagweb3.com/xrplending?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "XRP Ledger patches its lending code before the feature ever turns on"
+      },
+      {
+        "index": -1,
+        "headline": "Circle reports seven percent net profit margin for USDC",
+        "summary": "Circle spent 59 percent of revenue on costs and reinvested 34 percent during the first half of the year.",
+        "link": "https://hashtagweb3.com/circlemargin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Circle says it kept 7 cents of each USDC revenue dollar in first half"
+      }
+    ],
+    "slotKey": "2026-10-29:morning"
   }
 }
