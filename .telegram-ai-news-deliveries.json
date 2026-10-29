@@ -2539,7 +2539,7 @@
     "sentAt": "2026-10-29T11:33:35.958Z"
   },
   "75bda502-3221-465c-9f4d-79ba70b39dc9": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-29T19:35:59.432Z",
     "stories": [
       {
@@ -2571,6 +2571,8 @@
         "originalTitle": "Meta quietly launches an AI fashion app called Style Sketch"
       }
     ],
-    "slotKey": "2026-10-29:evening"
+    "slotKey": "2026-10-29:evening",
+    "messageId": 193421,
+    "sentAt": "2026-10-29T19:36:08.280Z"
   }
 }

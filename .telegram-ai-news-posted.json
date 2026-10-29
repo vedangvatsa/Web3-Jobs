@@ -827,6 +827,9 @@
   "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
   "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
   "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+  "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+  "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+  "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2263,6 +2266,12 @@
   "Anthropic just launched tools to show companies what their AI spending is buying",
   "Tech executives criticized for using AI to message family",
   "AI execs may be too out of touch to build for the general public",
+  "Mistral releases trillion-parameter open model for cybersecurity",
+  "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+  "Delaware proposal permits AI agents to run entire companies",
+  "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+  "Meta releases Style Sketch AI fashion application",
+  "Meta quietly launches an AI fashion app called Style Sketch",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2607,5 +2616,8 @@
   "fp:answer|ask|cagey|direct|domestically|election|get|googl|international|limit",
   "fp:accelerat|account|beyond|big|blind|climat|current|dangerous|fail|feedback",
   "fp:analytic|anthropic|buy|clear|client|corporat|cost|customer|enterpris|featur",
-  "fp:are|build|criticiz|disconnect|exec|executiv|general|may|messag|out"
+  "fp:are|build|criticiz|disconnect|exec|executiv|general|may|messag|out",
+  "fp:control|cyber|cybersecurity|defens|direct|larg|mistral|open|organization|parameter",
+  "fp:agent|allow|business|corporation|delawar|director|driven|entir|framework|helm",
+  "fp:app|application|call|cloth|creat|fashion|imag|import|instagram|meta"
 ]
