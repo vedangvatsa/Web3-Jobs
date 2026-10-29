@@ -872,6 +872,9 @@
   "https://hashtagweb3.com/bithumbraid?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/cftcprobe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/liquidgap?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/dailydividends?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/binancebr?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/depositbug?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2516,6 +2519,12 @@
   "CFTC reopens probe into whether Polymarket broke its 2022 US-user settlement",
   "Liquid Network Reserve Deficit Shrinks to 600 BTC",
   "Liquid reserve gap narrows to 600 BTC after test transfer",
+  "Strategy Shareholders Approve Daily Dividends for Four Preferred Stocks",
+  "Strategy shareholders approve daily dividends on four preferred stocks",
+  "Binance Applies for Brazil License and Cuts Local Services",
+  "Binance Files for Brazil License as Product Cuts Take Effect",
+  "Ethereum developers fix Glamsterdam upgrade staking deposit bug",
+  "Ethereum Merges Fix for Glamsterdam Staking Deposit Bug",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2917,5 +2926,8 @@
   "fp:cent|circl|cost|dollar|dur|each|half|kept7|margin|net",
   "fp:access|bithumb|compromis|data|employe|exchang|external|information|inspect|inspection",
   "fp:access|american|are|block|brok|cftc|check|investigation|its2022|offshor",
-  "fp:back|btc|ceo|day|deficit|deposit|gap|jan3|liquid|mow"
+  "fp:back|btc|ceo|day|deficit|deposit|gap|jan3|liquid|mow",
+  "fp:accru|approv|beginn|business|daily|day|distribut|dividend|four|november",
+  "fp:and22|appli|apply|bank|binanc|brazil|central|cut|effect|eight",
+  "fp:block|bug|builder|captur|deposit|developer|eth|fix|glamsterdam|intend"
 ]
