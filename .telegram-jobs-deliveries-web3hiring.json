@@ -9958,5 +9958,122 @@
     "slotKey": "2026-10-29:morning",
     "messageId": 152,
     "sentAt": "2026-10-29T03:35:28.772Z"
+  },
+  "2cc02374-03e4-4d6b-8ca6-40a5e0e38d5b": {
+    "status": "reserved",
+    "reservedAt": "2026-10-29T11:32:18.005Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "96262026",
+          "title": "Country Lead (Colombia)",
+          "company": "Perle",
+          "link": "https://ats.rippling.com/perle/jobs/79bd8449-6704-411e-8a97-9fcb57756a55",
+          "date": "2026-10-08T11:26:40.000Z",
+          "dateVerified": true,
+          "dateSource": "Solana.JobPosting.postedAt",
+          "source": "Solana Ecosystem: Perle [getro-solana]",
+          "location": "Remote / Colombia",
+          "department": "AI",
+          "active": true,
+          "slug": "cc10"
+        },
+        "key": "96262026",
+        "slug": "cc10",
+        "url": "https://hashtagweb3.com/cc10?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Perle",
+        "title": "Country Lead"
+      },
+      {
+        "snapshot": {
+          "id": "9ec45150-6dce-4a1a-b295-c5ca0a6908ca",
+          "title": "Staff Software Engineer - Market Data",
+          "company": "Dune",
+          "link": "https://jobs.ashbyhq.com/Dune/9ec45150-6dce-4a1a-b295-c5ca0a6908ca",
+          "date": "2026-10-19T20:07:11.415+00:00",
+          "source": "Ashby: Dune [Dune]",
+          "location": "East Coast US & Europe (Remote)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng431"
+        },
+        "key": "9ec45150-6dce-4a1a-b295-c5ca0a6908ca",
+        "slug": "eng431",
+        "url": "https://hashtagweb3.com/eng431?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Dune",
+        "title": "Staff Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "ed4eb772-6485-4125-895b-f3dca08cbcdd",
+          "title": "Solutions Architect, Integrations - Public Sector (US/CA)",
+          "company": "Sardine",
+          "link": "https://jobs.ashbyhq.com/Sardine/ed4eb772-6485-4125-895b-f3dca08cbcdd",
+          "date": "2026-10-26T21:50:02.003+00:00",
+          "source": "Ashby: Sardine [Sardine]",
+          "location": "Washington, DC",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Integrations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "arc28"
+        },
+        "key": "ed4eb772-6485-4125-895b-f3dca08cbcdd",
+        "slug": "arc28",
+        "url": "https://hashtagweb3.com/arc28?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sardine",
+        "title": "Solutions Architect"
+      },
+      {
+        "snapshot": {
+          "id": "852c6b3d-9f46-47ae-adb1-a5ed2608aac7",
+          "title": "Product Manager",
+          "company": "LI.FI",
+          "link": "https://jobs.ashbyhq.com/LI.FI/852c6b3d-9f46-47ae-adb1-a5ed2608aac7",
+          "date": "2026-10-14T14:00:31.258+00:00",
+          "source": "Ashby: LI.FI [LI.FI]",
+          "location": "Remote EMEA",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm302"
+        },
+        "key": "852c6b3d-9f46-47ae-adb1-a5ed2608aac7",
+        "slug": "pm302",
+        "url": "https://hashtagweb3.com/pm302?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "LI.FI",
+        "title": "Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8016000003",
+          "title": "Product Manager / Director, Trading API",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8016000003",
+          "date": "2026-10-07T13:55:00-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Hong Kong",
+          "department": "Product Management",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm257"
+        },
+        "key": "8016000003",
+        "slug": "pm257",
+        "url": "https://hashtagweb3.com/pm257?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Product Manager / Director"
+      }
+    ],
+    "message": "- Perle is hiring <a href=\"https://hashtagweb3.com/cc10?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Country Lead (Colombia)</a>\n- Dune is hiring <a href=\"https://hashtagweb3.com/eng431?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Software Engineer - Market Data</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/arc28?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Architect, Integrations - Public Sector (US/CA)</a>\n- LI.FI is hiring <a href=\"https://hashtagweb3.com/pm302?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm257?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager / Director, Trading API</a>",
+    "slotKey": "2026-10-29:afternoon"
   }
 }
