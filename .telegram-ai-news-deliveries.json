@@ -2506,7 +2506,7 @@
     "sentAt": "2026-10-29T03:37:09.156Z"
   },
   "b29b4000-af63-4591-9ff4-51fa6dedc528": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-29T11:33:33.063Z",
     "stories": [
       {
@@ -2534,6 +2534,8 @@
         "originalTitle": "AI execs may be too out of touch to build for the general public"
       }
     ],
-    "slotKey": "2026-10-29:afternoon"
+    "slotKey": "2026-10-29:afternoon",
+    "messageId": 193419,
+    "sentAt": "2026-10-29T11:33:35.958Z"
   }
 }

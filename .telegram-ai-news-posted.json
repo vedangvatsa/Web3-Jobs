@@ -824,6 +824,9 @@
   "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
   "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
   "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+  "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+  "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+  "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2254,6 +2257,12 @@
   "Google expands AI Search ads globally as core ad growth slows",
   "Google AI Restricts Election Answers for US Users",
   "Google AI gets cagey when asked who won the 2020 elections",
+  "Climate Models Fail to Account for Key Feedback Loops",
+  "Our climate models have a big, dangerous blind spot",
+  "Anthropic launches cost-tracking tools for enterprise customers",
+  "Anthropic just launched tools to show companies what their AI spending is buying",
+  "Tech executives criticized for using AI to message family",
+  "AI execs may be too out of touch to build for the general public",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2595,5 +2604,8 @@
   "fp:announc|argon|can|carbon|currently|frontier|gemini4|googl|improvement|minor",
   "fp:332b|actual|azur|cloud|demand|disclos|dollar|driven|figur|growth",
   "fp:1276b|advertisement|alphabet|cor|dur|expand|global|globally|googl|growth",
-  "fp:answer|ask|cagey|direct|domestically|election|get|googl|international|limit"
+  "fp:answer|ask|cagey|direct|domestically|election|get|googl|international|limit",
+  "fp:accelerat|account|beyond|big|blind|climat|current|dangerous|fail|feedback",
+  "fp:analytic|anthropic|buy|clear|client|corporat|cost|customer|enterpris|featur",
+  "fp:are|build|criticiz|disconnect|exec|executiv|general|may|messag|out"
 ]
