@@ -73191,8 +73191,9 @@
         "link_attachment": "https://hashtagweb3.com/an72/th?og=7"
       },
       "attemptId": "fb2f80d6-2792-44b7-9aba-6fee6b5aa454",
-      "verification": "creating",
-      "containerId": "18099156842199925"
+      "verification": "pending",
+      "containerId": "18099156842199925",
+      "postId": "18090591431261344"
     }
   ]
 }
