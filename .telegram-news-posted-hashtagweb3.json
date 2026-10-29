@@ -836,6 +836,9 @@
   "https://hashtagweb3.com/osmosis?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/bcatax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/tetherhines?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/bithumbraid?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/liquidgap?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/phpctf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2414,6 +2417,12 @@
   "Blockchain Association asks Congress for digital asset tax legislation",
   "Senator Blumenthal requests Tether records regarding payments to Nxum Group",
   "Senate investigator demands records of Tether payments to Bo Hines firm",
+  "South Korea inspects Bithumb after employee data leak",
+  "Bithumb staff data leak prompts on-site inspections by Korean regulators",
+  "Liquid Network reserve gap narrows to 600 BTC",
+  "Liquid reserve gap narrows to 600 BTC after test transfer",
+  "Researcher claims Bitcoin prize by exploiting PHP vulnerability",
+  "Researcher claims Steal My Bitcoin prize by exploiting patched PHP flaw",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2800,5 +2809,8 @@
   "fp:actor|anthony|bankman|boyl|contact|depict|executiv|former|fri|ftx",
   "fp:com|end|follow|fund|governanc|inflation|mint|now|osmo|osmosis",
   "fp:ask|asset|association|back|bipartisan|blockchain|congress|creat|current|digital",
-  "fp:blumenthal|demand|documentation|firm|found|group|hin|investigator|lobby|mad"
+  "fp:blumenthal|demand|documentation|firm|found|group|hin|investigator|lobby|mad",
+  "fp:access|bithumb|compromis|data|employe|exchang|external|information|inspect|inspection",
+  "fp:btc|ceo|cover|day|deficit|gap|jan3|liquid|mow|narrow",
+  "fp:020|claim|developer|exploit|flaw|october25|patch|php|priz|recently"
 ]

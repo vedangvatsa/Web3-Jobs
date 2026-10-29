@@ -2518,7 +2518,7 @@
     "sentAt": "2026-10-29T03:36:51.640Z"
   },
   "0184d659-4e20-4aa9-a864-8fd0beff7f70": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-29T19:36:11.202Z",
     "stories": [
       {
@@ -2546,6 +2546,8 @@
         "originalTitle": "Researcher claims Steal My Bitcoin prize by exploiting patched PHP flaw"
       }
     ],
-    "slotKey": "2026-10-29:evening"
+    "slotKey": "2026-10-29:evening",
+    "messageId": 155987,
+    "sentAt": "2026-10-29T19:36:21.335Z"
   }
 }
