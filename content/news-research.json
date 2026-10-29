@@ -103106,11 +103106,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "a985e00b83839b859bf0",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-31T07:57:18.000Z",
-      "lastSeenAt": "2026-10-29T03:34:54.128Z"
+      "lastSeenAt": "2026-10-29T03:34:54.128Z",
+      "reason": "price-chatter",
+      "note": "Read the article: it reports daily spot Bitcoin ETF net inflow totals from SoSoValue, the Fear and Greed reading, BTC price and October outflow sums. Market-flow and price data with no discrete Web3 event, so it falls under the price-chatter exclusion.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-29T03:54:38.195Z",
+      "lastReviewedDay": "2026-10-29"
     },
     "4a78aa3f48d6be8d5e36": {
       "source": "Crypto Briefing",
@@ -186903,6 +186913,18 @@
             }
           ],
           "reviewedAt": "2026-10-29T03:54:24.972Z"
+        },
+        "a985e00b83839b859bf0": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read the article: it reports daily spot Bitcoin ETF net inflow totals from SoSoValue, the Fear and Greed reading, BTC price and October outflow sums. Market-flow and price data with no discrete Web3 event, so it falls under the price-chatter exclusion.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-29T03:54:38.195Z"
         }
       },
       "baselineSlugs": [
