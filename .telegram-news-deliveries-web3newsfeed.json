@@ -2617,7 +2617,7 @@
     "sentAt": "2026-10-29T03:39:25.431Z"
   },
   "a849e2c8-a2be-4b4c-85f7-981aea0a356e": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-29T11:32:24.699Z",
     "stories": [
       {
@@ -2645,6 +2645,8 @@
         "originalTitle": "Liquid reserve gap narrows to 600 BTC after test transfer"
       }
     ],
-    "slotKey": "2026-10-29:afternoon"
+    "slotKey": "2026-10-29:afternoon",
+    "messageId": 65787,
+    "sentAt": "2026-10-29T11:32:26.996Z"
   }
 }
