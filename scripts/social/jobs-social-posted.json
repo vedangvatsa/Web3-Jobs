@@ -72867,7 +72867,8 @@
       },
       "account": "channel:ai",
       "attemptId": "a6d9a88c-83f6-4aa3-bfb9-83afb141aa3a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4f11cbc318318df66557bf225aef5b2dcfa63d43"
     }
   ]
 }
