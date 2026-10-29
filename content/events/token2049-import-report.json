@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-29T10:23:21.241Z",
+  "checkedAt": "2026-10-29T11:32:18.146Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -11,8 +11,8 @@
   },
   "counts": {
     "existing": 240,
-    "excluded": 364,
-    "needs-review": 45
+    "excluded": 370,
+    "needs-review": 39
   },
   "importedTotal": 257,
   "added": [],
@@ -6746,8 +6746,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://luma.com/3b3624jr",
@@ -6755,8 +6755,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://luma.com/TBE-Fasset-Reserve",
@@ -6764,8 +6764,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://luma.com/9eycszeo",
@@ -6773,8 +6773,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://luma.com/2ezvuwxk",
@@ -6782,8 +6782,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://www.sui.io/basecamp",
@@ -6791,8 +6791,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "",

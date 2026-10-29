@@ -4747,36 +4747,6 @@
     }
   },
   {
-    "id": "luma-batch-evtxgUcn4jxnTn3c",
-    "slug": "0a4zc5a6",
-    "name": "Ethereum Korea One Genesis - Build Beyond the Narrative",
-    "description": "Ethereum Korea One — Genesis · Build Beyond the Narrative\n\nEthereum Korea One returns for its Genesis chapter.\n\nDay 2 is Builder Day: No hype cycles, no price talk. a full day dedicated to the people actually shipping Ethereum — core client teams, ZK researchers, L2 builders, and the Korean institutions bridging into the ecosystem.\n\n[2F · Korean sessions]\n- 13:00–13:15 DB Securities Opening — Hyunil Jang (CFO)\n- 13:15–13:30 Ethereum Korea One — Youbin Kang (Nonce Classic), Sose (ECK)\n- 13:30–14:00 What's in the Glamsterdam Upgrade — Hudson Jang (Four Pillars)\n- 14:00–15:00 Ethereum's North Star: Roadmap & CROPS — Bosul Mun (Geth), Lucia Kim (Nonce Classic), Sose (ECK), Hudson Jang (Four Pillars), Christopher (Remilia Korea)\n- 15:00–15:30 Ethereum Korea Grantee — Yoonhyung Lee (Yonsei CNL)\n- 15:30–16:30 The Next Era of Validators — Hudson Jang (Four Pillars), Youngseok Yang (Nodeinfra), Junkyo Kim (DSRV), Hyung Lee (Altus)\n- 16:30–17:00 Privacy on Ethereum — Harry (Sunnyside Labs)\n- 17:30–18:30 Where the Next ZK Breakthrough Comes From — Wonjae Choi (SNU VMO), Taehoon Kim (Succinct), Ryan Kim (Fractalyze), Jason Park (zkSecurity)\n\n[3F · English sessions]\n- 13:30–14:00 How to Build Sustainable DeFi — Guzus (Axis), Derek Walkush (Uniswap), Christopher Donovan (Compound), Mike Silagadze (EtherFi), Heejin Kim (Radius)\n- 14:00–15:00 Ethereum Clients: What Comes Next? — Youngseok Yang (Nodeinfra), Jun Song (Prysm), Felix Lange (EF Geth), Luca Zanolini (EF)\n- 15:00–15:30 MEV & Prediction Market — Danning Sui (Pantera)\n- 15:30–16:00 Ethereum Beyond the Foundation — Jay Jang (ECK), Jerome de Tychey (EthCoordinate), Mashal Waqar (Octant)\n- 16:30–17:00 Ethereum's Issuance War — Hyung-Kyu Choi (DSRV), Jerome de Tychey (EthCoordinate), Isidoros Passadis (Lido)\n- 17:00–17:30 Future of Account Abstraction — Harry (Sunnyside Labs, mod), Felix Lange (EF Geth), Taek Lee (ZeroDev)\n- 17:30–18:30 Are L2s Still Scaling Ethereum? — Harry (Sunnyside Labs), Ed Felten (Arbitrum), Jacob Kim (Optimism), Ilia Volokh (StarkWare)\n- 18:30–19:00 Onchain Agents — Jun (Four Pillars, mod), Jansen Teng (Virtuals), David Park (Base), Francesco Andreoli (MetaMask)\n\n[4F · Roundtable]\n- 13:30–14:30 Whitepaper Reading Club (WRC) — Decipher\n- 14:30–15:30 Remix Hands-on — Sooyoung Hyun (Remix IDE)\n- 15:30–16:00 Koreans Contributing to Ethereum — Bosul Mun (Geth), Jun Song (Prysm), Wonjae Choi (SNU)\n- 16:00–17:00 Bay & Geth: From Code to Career — BAY, Felix Lange · Bosul Mun (Geth)\n- 17:00–19:00 Coworking Space\n\n내러티브 너머, 빌더들의 진짜 이야기.\n\nEthereum Korea One이 Genesis로 돌아옵니다.\n\nDay 2는 Builder Day로 과장된 사이클도, 가격 이야기도 없습니다.  실제로 이더리움을 만들어가는 사람들을 위한 하루입니다.\n\n코어 클라이언트 팀, ZK 연구자, L2 빌더, 그리고 생태계로 진입하는 한국 기관들이 한자리에 모입니다.\n\n[2F · 한국어 세션]\n- 13:00–13:15 DB증권 개회사 — 장현일 (CFO)\n- 13:15–13:30 이더리움 코리아 원 소개 — 강유빈 (Nonce Classic), Sose (ECK)\n- 13:30–14:00 글램스테르담 업그레이드 — 장혁수 (Four Pillars)\n- 14:00–15:00 이더리움의 북극성: 로드맵과 CROPS — 문보설 (Geth, 진행), 김서진 (Nonce Classic), Sose (ECK), 장혁수 (Four Pillars), 크리스토퍼 (Remilia Korea)\n- 15:00–15:30 이더리움 코리아 그랜트 당선자 세션 — 이윤형 (연세대 CNL)\n- 15:30–16:30 인프라와 밸리데이터의 다음 시대 — 장혁수 (Four Pillars), 양영석 (Nodeinfra), 김준교 (DSRV), 이형연 (Altus)\n- 16:30–17:00 이더리움 위의 프라이버시 — 전승민 (Sunnyside Labs)\n- 17:30–18:30 다음 ZK 혁신은 어디서 오는가 — 최원재 (서울대 VMO), 김태훈 (Succinct), 김원용 (Fractalyze), 박진석 (zkSecurity)\n\n[3F · 영어 세션]\n- 13:30–14:00 지속가능한 DeFi — 정명구 (Axis), Derek Walkush (Uniswap), Christopher Donovan (Compound), Mike Silagadze (EtherFi), 김희진(Radius)\n- 14:00–15:00 이더리움 클라이언트, 다음은 무엇인가 — 양영석 (Nodeinfra), 송영준 (Prysm), Felix Lange (EF Geth), Luca Zanolini (Alumni of EF)\n- 15:00–15:30 MEV와 예측시장 — Danning Sui (Pantera)\n- 15:30–16:00 재단 너머의 이더리움 — 장재석 (ECK), Jerome de Tychey (EthCoordinate), Mashal Waqar (Octant)\n- 16:30–17:00 이더리움 발행량 전쟁 — 최형규 (DSRV), Jerome de Tychey (EthCoordinate), Isidoros Passadis (Lido)\n- 17:00–17:30 계정 추상화 — 전승민 (Sunnyside Labs), Felix Lange (EF Geth), 이규택 (ZeroDev)\n- 17:30–18:30 L2는 여전히 이더리움을 확장하고 있는가? — 전승민 (Sunnyside Labs), Ed Felten (Arbitrum), 김현준 (Optimism), Ilia Volokh (StarkWare)\n- 18:30–19:00 온체인 에이전트 — 유준혁 (Four Pillars), Jansen Teng (Virtuals), 박혁재 (Base), Francesco Andreoli (MetaMask)\n\n[4F · 라운드테이블]\n- 13:30–14:30 화이트페이퍼 독서 모임 (WRC) — 디사이퍼\n- 14:30–15:30 Remix 핸즈온 워크샵 — 현수영 (Remix IDE)\n- 15:30–16:00 한국인이 이더리움에 기여하기 — 문보설 (Geth), 송영준 (Prysm), 최원재 (서울대)\n- 16:00–17:00 Bay & Geth: 코드에서 커리어까지 — BAY, Felix Lange · 문보설 (Geth)\n- 17:00–19:00 코워킹 스페이스\n\nhttps://one.ethereumkorea.io/",
-    "startDate": "2026-09-29T04:00:00.000Z",
-    "endDate": "2026-09-29T11:00:00.000Z",
-    "city": "Seoul, South Korea",
-    "country": "South Korea",
-    "location": "Seoul, South Korea, Seoul, South Korea",
-    "url": "https://luma.com/0a4zc5a6",
-    "registrationUrl": "https://luma.com/0a4zc5a6",
-    "coverImage": "/events/luma-batch-evtxgUcn4jxnTn3c-6376c39b.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Ethereum Korea"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Seoul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/0a4zc5a6",
-      "eventId": "evt-xgUcn4jxnTn3c8N",
-      "fetchedAt": "2026-09-23T10:16:44.000Z",
-      "method": "luma-page",
-      "apifyRunId": "9CIeF9EJS1rcYR3Iw"
-    }
-  },
-  {
     "id": "luma-batch-evtVIM54MQw0mInW",
     "slug": "u017n5o6",
     "name": "WalletConnect Pay x DCENT Korea Pop-Up @ KBW",
@@ -7628,36 +7598,6 @@
     }
   },
   {
-    "id": "luma-batch-evtH3n2c6lGgtyYz",
-    "slug": "0trrx4ie",
-    "name": "Institutional Breakfast with Binance & Women in Web3 Switzerland",
-    "description": "Join Women in Web3 Switzerland and Binance for a curated Institutional Breakfast bringing together senior professionals across Web3, finance, technology, investment, entrepreneurship and policy.\n\nThe event is an official side event of CV Summit 2026, designed as a focused environment for meaningful conversations, institutional connections and relationship building.\n\nThis event is free but spaces are limited. Registration is required.\n\nWhat to Expect\n\n☕ Breakfast & networking\nConnect with senior professionals and decision-makers across the Web3 and broader financial ecosystem.\n\n💬 Focused conversations\nExchange perspectives on the future of finance, technology, digital assets and emerging markets.\n\n🤝 Institutional connections\nMeet potential partners, investors, clients, collaborators and ecosystem stakeholders.\n\n🌐 A strong network\nConnect with members of the Women in Web3 Switzerland community and the wider Swiss and international Web3 ecosystem.\n\nWho Should Attend?\n\nThe Institutional Breakfast is intended for senior professionals, including:\n\nFounders and entrepreneurs\n\nC-suite and senior executives\n\nInvestors and investment professionals\n\nLeaders in Web3, finance and technology\n\nInstitutional and ecosystem representatives\n\nProfessionals working across policy and emerging technology\n\nThe event is particularly relevant for women shaping the future of Web3, finance and technology, as well as selected members of the wider ecosystem.\n\nCome for the conversations. Stay for the connections.\n\nWhy Join?\n\nCV Summit brings together the Swiss and international blockchain ecosystem in Zurich. This breakfast creates a smaller setting to kickstart conversations prior to the main conference. 🇨🇭\n\nIf you'd like to join the main conference, you can get 20% off your tickets. Please register directly with the organizer: https://luma.com/cvsummit2026?coupon=WIW3CH_20\n\nWe look forward to welcoming you.\n\n💜 Hosted by Women in Web3 Switzerland (WiW3CH):\nWomen in Web3 Switzerland (WiW3CH) is a global not-for-profit association dedicated to advancing the impact and visibility of women driving innovation in Web3. Rooted in Switzerland's pioneering ecosystem, we champion excellence by fostering meaningful connections, amplifying expertise, and building strategic partnerships that highlight and elevate the contributions of women shaping the future of decentralized technology. Women in Web3 has nine chapters across the globe, including in the Balkans, Austria, South Africa, and Morocco. Learn more at https://www.wiw3ch.com/\n\n⭐️ Sponsored by Binance:\nBinance is a global blockchain and cryptocurrency infrastructure provider, offering a broad range of digital asset products and services to millions of users worldwide. The company is committed to advancing the adoption and development of blockchain technology and the broader digital asset ecosystem.\n\n🇨🇭 About CV Summit:\nCV Summit is Switzerland’s largest Institutional Digital Assets & AI conference, hosted on September 29 & 30 at Kongresshaus Zurich. CV Summit gathers leaders, innovators, investors, institutions, and policymakers from all around the world to discuss the forces redefining the financial system.\n\nAcross two days, our 200+ high-level industry-leading speakers will offer their expertise & vision across three stages, diving deep into core topics including Financial Infrastructure, Tokenization of Capital Markets, AI & the Intelligent Economy, Wealth & Asset Management, and more.",
-    "startDate": "2026-09-29T09:00:00.000Z",
-    "endDate": "2026-09-29T11:00:00.000Z",
-    "city": "Zürich",
-    "country": "Switzerland",
-    "location": "Zürich, Zürich, Switzerland",
-    "url": "https://luma.com/0trrx4ie",
-    "registrationUrl": "https://luma.com/0trrx4ie",
-    "coverImage": "/events/luma-batch-evtH3n2c6lGgtyYz-1782324c.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "WiW3CH Upcoming Events"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Zurich",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "summit",
-    "sourceVerification": {
-      "url": "https://luma.com/0trrx4ie",
-      "eventId": "evt-H3n2c6lGgtyYz5k",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtFH1KIW8N3Spa7",
     "slug": "a7cb1quh",
     "name": "MME's Web3 Breakfast: Coffee, Croissants & Crypto Law",
@@ -7896,36 +7836,6 @@
     }
   },
   {
-    "id": "luma-batch-evtTTvYRB3CHcQ09",
-    "slug": "bullishwithondo",
-    "name": "온도랑 불타기 | Bullish with Ondo",
-    "description": "Ondo Finance is hosting a closed-door evening for serious perps traders in Seoul on September 29. This is not a conference panel. It is a private gathering and sharing of alpha, access, and institutional expertise, the kind of room you will not want to miss.. It’s the perfect way to kick off your KBW tour.\n\nThe evening opens with a direct session with the Ondo Perps leadership team, including our CEO and strategy leads. We’ll discuss product direction, what is coming next, and a real read on where the industry is heading. This is followed by top institutional experts, and closing set with a curated alpha session featuring high-signal investment theses from leading voices in CT.\n\nThis event is supported by Four Pillars as our research partner.\n\nWhat to Expect\n\n2:00 PM KST — Doors open & VIP Networking\n\n3:00 PM KST — Welcome from Ondo Finance\n\n3:10 PM KST — Ondo Perps Showcase\n\n3:25 PM KST — Surprise announcement!\n\n3:35 PM KST — Institutional Experts Session\n\n4:00 PM KST — Networking break\n\n4:15 PM KST — CT Alpha session with VVIP speakers\n\n5:00 PM KST — Networking reception\n\nJoin a Select Group\n\n→ Proprietary trading firms and funds with digital asset exposure\n→ OG CT traders moving serious size in the markets\n→ Top allocators and capital deployers\n→ VIP crypto and markets\n→ Ondo leadership\n\nBy invite only. Seats are limited. A confirmed RSVP is required to attend.\n\nLocation\nLion Super Club\n1F, 535 Dosan-daero, Gangnam-gu, Seoul 06011, South Korea\n강남구 도산대로 535, 1F\n\nAbout Ondo Finance\n\nOndo Finance is a blockchain-based platform focused on tokenizing real-world assets and bringing institutional-quality financial products onchain. By bridging traditional finance and decentralized infrastructure, Ondo aims to make capital markets more accessible, transparent, and efficient.\n\nBy providing the contact information required in this form, you agree to be contacted by the Ondo Finance in order for us to inform you about our products and services. For more information on our privacy practices or how to unsubscribe, please refer to our Privacy Policy.\n\nBy attending the event you acknowledge that the organizers may photograph and  record videos at the event and use them for promotional and marketing purposes, in any and all media, without further notice or compensation.",
-    "startDate": "2026-09-29T05:00:00.000Z",
-    "endDate": "2026-09-29T11:00:00.000Z",
-    "city": "Seoul, South Korea",
-    "country": "South Korea",
-    "location": "Lion Seoul, Lion Seoul, 125-16 Cheongdam-dong, Gangnam District, Seoul, South Korea",
-    "url": "https://luma.com/bullishwithondo",
-    "registrationUrl": "https://luma.com/bullishwithondo",
-    "coverImage": "/events/luma-batch-evtTTvYRB3CHcQ09-b40babc3.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Seoul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "conference",
-    "sourceVerification": {
-      "url": "https://luma.com/bullishwithondo",
-      "eventId": "evt-TTvYRB3CHcQ09Hd",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtL7tVzuViqbGAb",
     "slug": "3wk6i1l1",
     "name": "Invite Only - KBW Korean BBQ & DrinksQ by RedStone, Zenith, Figure and Credora",
@@ -7950,36 +7860,6 @@
     "sourceVerification": {
       "url": "https://luma.com/3wk6i1l1",
       "eventId": "evt-L7tVzuViqbGAbOk",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evt2tQyGmK2gap5Q",
-    "slug": "xgz5iyyv",
-    "name": "Agentic Seoul by Minara",
-    "description": "🇰🇷 9월 29일 서울에서, AI Agent × Finance를 주제로 한 'Agentic Seoul' 커뮤니티 밋업을 진행합니다.\n\n📌 행사 안내\n\n일시: 2026년 9월 29일 17:00 - 20:00\n\n장소: 먼데이투썬데이 청담\n\n진행 언어: 한국어\n\n주최: Minara\n\nKBW 기간 동안 Minara와 함께 AI를 실제 리서치와 투자에 어떻게 활용하고 있는지, 그리고 앞으로 금융 의사결정의 어디까지 AI Agent에게 맡길 수 있을지 편하게 이야기 나눌 수 있는 자리를 준비했습니다.\n\n이번 세션은 긴 발표보다는 미(나라에 진심이고) 친(숙하게 AI를 다루는) 사람들과 함께 실제 경험과 생각을 나누는 패널 토크 형식으로 진행됩니다.\n\nAI, 크립토, 투자에 관심 있는 분들이라면 누구나 환영합니다. 패널 토크 이후에는 게스트 및 참가자들과 자유롭게 네트워킹할 수 있는 시간도 준비되어 있습니다.\n\n⏱️ 타임라인\n\n17:00 - 17:30 — 입장 및 네트워킹\n\n17:30 - 17:40 — 오프닝\n\n17:40 - 18:40 — 패널 토크\n\n18:40 - 18:55 — 청중 Q&A\n\n18:55 - 19:05 — 브레이크 타임\n\n19:05 - 20:00 — 네트워킹\n\n실제로 어떤 AI를 사용하고 있는지, 리서치나 투자 판단에 어떻게 활용하고 있는지, 어디까지 AI에게 맡겨봤는지 등 실제 경험을 중심으로 한 대화를 진행할 예정입니다.\n\n🎁 Gacha & Goods\n\n현장에는 가챠와 굿즈도 준비되어 있습니다. 패널 세션이 끝난 뒤 네트워킹과 함께 자유롭게 즐겨주세요.\n\n✨ Venue\n\n📌 참여 안내\n\n본 행사는 사전 등록자에 한해 참석 가능합니다.\n\n행사장 수용 인원에 따라 현장 입장이 제한될 수 있습니다.\n\n패널 세션은 한국어로 진행됩니다.\n\n행사 중 사진 및 영상 촬영이 진행될 수 있으며, 촬영된 콘텐츠는 Minara 및 행사 관련 홍보 목적으로 활용될 수 있습니다.\n\n행사 일정 및 프로그램은 현장 상황에 따라 일부 변경될 수 있습니다.\n\n현장에 준비된 가챠 및 굿즈는 수량이 한정되어 조기 소진될 수 있습니다.\n\n서울에서 만나요!\n\nMinara 공식 X | 한국 텔레그램 커뮤니티 | 디스코드\n\n-\n\n🇰🇷 We’re hosting a community meetup during KBW with Minara, bringing together people interested in how AI is actually being used in research and investing — and how much of financial decision-making we may eventually be able to delegate to AI Agents.\n\n📌 Event Info\n\nDate: September 29, 2026, 17:00 - 20:00\n\nVenue: Monday to Sunday Cheongdam\n\nFormat: Panel Discussion + Networking\n\nHosted by: Minara\n\nRather than a series of long presentations, this session will feature a more conversational panel discussion with people who are genuinely passionate about Minara and already comfortable working with AI.\n\nIf you’re interested in AI, crypto, or investing, you’re more than welcome to join. After the panel discussion, there will also be plenty of time to connect with the guests and other attendees.\n\n⏱️ Schedule\n\n17:00 - 17:30 — Check-in & Networking\n\n17:30 - 17:40 — Opening\n\n17:40 - 18:40 — Panel Discussion\n\n18:40 - 18:55 — Audience Q&A\n\n18:55 - 19:05 — Break\n\n19:05 - 20:00 — Networking\n\nThe discussion will focus on real-world experience — which AI tools people are actually using, how they apply them to research and investment decisions, and how far they have already tried delegating tasks or judgment to AI.\n\n🎁 Gacha & Goods\n\nGacha and exclusive goods will also be available at the venue. Feel free to enjoy them during the networking session after the panel.\n\n📌 Event Guidelines\n\nThis event is open to registered attendees only.\n\nEntry may be limited depending on venue capacity.\n\nThe panel session will be conducted in Korean.\n\nPhotos and videos may be taken during the event and may be used for Minara and event-related promotional purposes.\n\nThe event schedule and program are subject to change depending on on-site circumstances.\n\nGacha items and goods are available in limited quantities and may run out early.\n\nSee you at Agentic Seoul by Minara.",
-    "startDate": "2026-09-29T08:00:00.000Z",
-    "endDate": "2026-09-29T11:00:00.000Z",
-    "city": "Seoul, South Korea",
-    "country": "South Korea",
-    "location": "Monday to Sunday, Monday to Sunday, South Korea, Seoul, Gangnam District, Dosan-daero 67-gil, 13-3 EMPRESS빌딩",
-    "url": "https://luma.com/xgz5iyyv",
-    "registrationUrl": "https://luma.com/xgz5iyyv",
-    "coverImage": "/events/luma-batch-evt2tQyGmK2gap5Q-46fc6335.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Seoul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/xgz5iyyv",
-      "eventId": "evt-2tQyGmK2gap5QJu",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
@@ -8040,36 +7920,6 @@
     "sourceVerification": {
       "url": "https://luma.com/ethglobal-happyhour-kbw",
       "eventId": "evt-6wFzREPvhRDCEDB",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtd7C5x3tEuLM7Q",
-    "slug": "sva7qzj3",
-    "name": "CHIMAEK Beer & Chicken w/ Etherfuse + Stellar",
-    "description": "Join Etherfuse and the Stellar Development Foundation for Chimaek Beer & Chicken — an open community gathering during Korean Blockchain Week in Seoul.\n\nModeled after our sold-out Taco Night in Mexico City this is an accessible community event bringing together builders, developers, and Stellar ecosystem participants over authentic Korean Chimaek (fried chicken and beer).\n\nCapacity: ~40 guests\n\nCo-hosted with: Stellar Development Foundation\n\nVenue:\n\nKkanbu Chicken Seongsu Branch\nSeoul Seongdong-gu 2(i)-ga 300-6\nhttps://naver.me/FP8xsV8k\n\n300-6 Seongsu-dong 2(i)-ga Seongdong-gu Seoul\nhttps://maps.app.goo.gl/z8mGG3RrRd9PcqeA7?g_st=ic\n\nCome connect, build relationships, and celebrate the Stellar ecosystem in Korea.\n\n## Event details\n\nOrganized by Etherfuse Events. Venue: Seoul, South Korea, Seoul, South Korea. Tickets: Free.",
-    "startDate": "2026-09-29T09:00:00.000Z",
-    "endDate": "2026-09-29T11:00:00.000Z",
-    "city": "Seoul, South Korea",
-    "country": "South Korea",
-    "location": "Seoul, South Korea, Seoul, South Korea",
-    "url": "https://luma.com/sva7qzj3",
-    "registrationUrl": "https://luma.com/sva7qzj3",
-    "coverImage": "/events/luma-batch-evtd7C5x3tEuLM7Q-39ddb7ab.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Etherfuse Events"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Seoul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/sva7qzj3",
-      "eventId": "evt-d7C5x3tEuLM7QuK",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
