@@ -103422,11 +103422,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b123ff645ebcbea117e8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-01T00:04:59.000Z",
-      "lastSeenAt": "2026-10-29T03:34:54.128Z"
+      "lastSeenAt": "2026-10-29T03:34:54.128Z",
+      "reason": "out-of-scope",
+      "note": "Non-binding House Democrat resolution on AI firm bankruptcy; AI policy story with no crypto or Web3 angle.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-29T04:30:28.250Z",
+      "lastReviewedDay": "2026-10-29"
     },
     "c786bc623b898740ceb5": {
       "source": "Crypto Briefing",
@@ -187471,6 +187476,13 @@
           "note": "New Hampshire Senate race coverage; no crypto, blockchain, or Web3 content beyond generic market-probability framing. Not a Web3 story.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-29T04:30:25.175Z"
+        },
+        "b123ff645ebcbea117e8": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Non-binding House Democrat resolution on AI firm bankruptcy; AI policy story with no crypto or Web3 angle.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-29T04:30:28.250Z"
         }
       },
       "baselineSlugs": [
