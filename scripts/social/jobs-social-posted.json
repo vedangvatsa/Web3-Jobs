@@ -70658,6 +70658,38 @@
       "postId": "18006924596795607",
       "permalink": "https://www.threads.com/@hashtagweb3/post/DfEDiL8jPl_",
       "account": "hashtagweb3"
+    },
+    {
+      "slug": "qa92",
+      "company": "Bybit",
+      "title": "[EU] Lead QA Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-10-29T03:35:07.372Z",
+      "expectedText": "Bybit is hiring [EU] Lead QA Engineer: https://hashtagweb3.com/qa92/bsky?og=7",
+      "snapshot": {
+        "id": "5012065101",
+        "title": "[EU] Lead QA Engineer",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5012065101",
+        "date": "2026-10-21T06:06:34-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "Vienna, Austria",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "qa92"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Lead QA Engineer: https://hashtagweb3.com/qa92/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/qa92/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/qa92.png?v=7",
+        "company": "Bybit",
+        "title": "[EU] Lead QA Engineer",
+        "description": "Join Bybit as Lead QA Engineer. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "6a2b562e-dd9b-4e6a-b96e-b8515eca4dc9",
+      "verification": "creating"
     }
   ]
 }
