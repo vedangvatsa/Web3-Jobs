@@ -72447,7 +72447,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "52378748-8124-49a9-80d6-fca090acdb9b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd4521299d5d1b626c34a8a020da38a2fcf3181a0"
     }
   ]
 }
