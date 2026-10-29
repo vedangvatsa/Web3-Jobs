@@ -71213,7 +71213,8 @@
       },
       "account": "channel:product",
       "attemptId": "25936941-b43a-4360-acbc-86d8dbc44164",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4d30923a931b4109176ff31c568910f39f35e647"
     }
   ]
 }
