@@ -74033,6 +74033,34 @@
       "verification": "verified",
       "postId": "6ae3a0e01026f5c4e0bf9c3d",
       "permalink": "https://twitter.com/hashtag_web3/status/2115891219280679306"
+    },
+    {
+      "slug": "an108",
+      "company": "Crypto.com",
+      "title": "M&A Analyst",
+      "platform": "threads",
+      "postedAt": "2026-10-29T19:39:06.597Z",
+      "expectedText": "Crypto.com is hiring M&A Analyst: https://hashtagweb3.com/an108/th?og=7",
+      "snapshot": {
+        "id": "27b67b39-dbce-47c7-ba75-35ec37aaf676",
+        "title": "M&A Analyst",
+        "company": "Crypto.com",
+        "link": "https://jobs.lever.co/crypto/27b67b39-dbce-47c7-ba75-35ec37aaf676",
+        "date": "2026-10-26T08:08:51.786Z",
+        "source": "Lever: Crypto.com [crypto]",
+        "location": "Hybrid (Singapore)",
+        "workplaceType": "hybrid",
+        "department": "Corporate",
+        "active": true,
+        "dateVerified": true,
+        "slug": "an108"
+      },
+      "payload": {
+        "text": "Crypto.com is hiring M&A Analyst: https://hashtagweb3.com/an108/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/an108/th?og=7"
+      },
+      "attemptId": "f81563c9-8633-494c-aa46-9dda93df2f1e",
+      "verification": "creating"
     }
   ]
 }
