@@ -34,7 +34,7 @@ A breakdown of 100+ cities, 71 nomad visas, citizenship routes, and Web3 hubs by
     number: 2,
     text: `1/ Where to work: Cost vs Internet Speed
 
-• Sweet spot: Chiang Mai (336 Mbps, $900/mo), Bangkok (368 Mbps, $1.1k), Bucharest (339 Mbps, $1.3k)
+• Sweet spot: Chiang Mai (336 Mbps, $900), Bangkok (368 Mbps, $1.1k), Bucharest (339 Mbps, $1.3k)
 • High speed, high burn: SF (372 Mbps, $3.5k), London ($3.2k)
 • Fast fiber, mid-tier: Lisbon (361 Mbps, $2k), Barcelona ($2.2k)`,
     imageFilename: 'where-to-work-cost-vs-speed.png',
@@ -98,8 +98,8 @@ Composite score across speed, cost, community, safety & weather:
     number: 8,
     text: `7/ Nomad Visas: Foreign Tax vs Income Bar
 
-• 0% foreign tax + low bar: Thailand DTV (5 yrs), Albania (5 yrs, ~$820/mo), Georgia (1%)
-• 0% tax + higher bar: Dubai ($3.5k/mo), Costa Rica ($3k/mo)
+• 0% foreign tax, low bar: Thailand DTV (5y), Albania (5y, ~$820/mo), Georgia (1%)
+• 0% tax, higher bar: Dubai ($3.5k/mo), Costa Rica ($3k/mo)
 • Tax residency traps: Portugal D8 (progressive), Colombia & Brazil (tax after 183d)`,
     imageFilename: 'digital-nomad-visas-tax-vs-income.png',
     alt: 'Digital Nomad Visas: Foreign income tax treatment vs monthly qualifying income requirement'
@@ -108,8 +108,8 @@ Composite score across speed, cost, community, safety & weather:
     number: 9,
     text: `8/ Nomad Visas: Stay Duration vs Income Bar
 
-• Long stay: Thailand DTV (5 yrs, $28k proof), Albania (5 yrs, ~$820/mo), Spain (3-5 yrs, ~$2.8k/mo)
-• 1-2 yrs: Colombia (2 yrs, $1.4k/mo), Costa Rica ($3k/mo)
+• Long stay: Thailand DTV (5y, $28k proof), Albania (5y, ~$820/mo), Spain (3-5y, ~$2.8k/mo)
+• 1-2 yrs: Colombia (2y, $1.4k/mo), Costa Rica ($3k/mo)
 • Short & strict: Japan (6 mos, $5.5k/mo), Iceland (6 mos, $7.5k/mo)`,
     imageFilename: 'digital-nomad-visas-income-vs-duration.png',
     alt: 'Digital Nomad Visas: Maximum visa stay duration vs required monthly income'
@@ -130,8 +130,8 @@ Composite score across speed, cost, community, safety & weather:
 
 • 0% CGT + top hubs: Dubai (VARA), Singapore (MAS), Zurich/Zug (Crypto Valley)
 • 0% tax after 1 year: Lisbon, Berlin
-• Emerging runways: Bangkok (DTV wave), Bali
-• High tax bar: US (~50% combined), UK (20% CGT), Tokyo (up to 55%)`,
+• Emerging runways: Bangkok (DTV), Bali
+• High tax bar: US (~50% max), UK (20% CGT), Tokyo (up to 55%)`,
     imageFilename: 'where-to-build-web3.png',
     alt: 'Where to Build Web3: Crypto tax treatment vs Web3 developer ecosystem density'
   },
@@ -172,13 +172,14 @@ export async function publishMatricesThread(dryRun = false) {
 
   console.log(`[publish-matrices-thread] Starting thread preparation (${THREAD_POSTS.length} tweets)...`);
 
-  // 1. Validate character counts
+  // 1. Validate character counts (accounting for CRLF normalization)
   for (const p of THREAD_POSTS) {
-    if (p.text.length > 280) {
-      throw new Error(`Post #${p.number} exceeds 280 chars: ${p.text.length}`);
+    const crlfLen = p.text.replace(/\r?\n/g, '\r\n').length;
+    if (crlfLen > 280) {
+      throw new Error(`Post #${p.number} exceeds 280 chars with CRLF: ${crlfLen}`);
     }
   }
-  console.log('✓ All 12 tweets validated under 280 characters.');
+  console.log('✓ All 12 tweets validated strictly under 280 characters (including CRLF).');
 
   // 2. Upload images
   console.log('Uploading 12 images to public CDN for Buffer...');
