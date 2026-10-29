@@ -10079,7 +10079,7 @@
     "sentAt": "2026-10-29T11:32:23.122Z"
   },
   "cb4fd0b0-ebcc-4362-ab14-cc63a8390710": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-29T19:35:22.657Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -10192,6 +10192,8 @@
       }
     ],
     "message": "- Ripple is hiring <a href=\"https://hashtagweb3.com/sls151?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Derivative Accountant</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/mkt115?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Marketing Manager, Channel Sales</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/cmp97?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Deputy MLRO (UK)</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/an69?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Trading Support Analyst</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/sls71?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Strategic Account Manager</a>",
-    "slotKey": "2026-10-29:evening"
+    "slotKey": "2026-10-29:evening",
+    "messageId": 16584,
+    "sentAt": "2026-10-29T19:35:26.034Z"
   }
 }
