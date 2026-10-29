@@ -94724,9 +94724,9 @@
       "articleSlug": "phpctf",
       "draftProgress": {
         "id": "274cdf337e54ab8ad76f",
-        "day": "2026-10-28",
+        "day": "2026-10-29",
         "articleSlug": "phpctf",
-        "note": "Read stealmybitcoin.com (primary), Cybernews and CryptoSlate on the KillaBoi win. Draft written at content/articles/phpctf.md. Hero image still needed; do not mark ready until image is on disk with credits.",
+        "note": "Prior checkpoint cited a draft at content/articles/phpctf.md but no such file exists anywhere in the tree now; the draft must be rewritten from scratch. Sources (stealmybitcoin.com primary, Cybernews, CryptoSlate) were read on Oct 28 and need rechecking, and a hero image is still required.",
         "sourceChecks": [
           {
             "url": "https://stealmybitcoin.com/",
@@ -94741,7 +94741,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-10-28T04:52:30.357Z",
+        "updatedAt": "2026-10-29T04:02:37.657Z",
         "approved": false,
         "mustReview": true
       }
@@ -98985,11 +98985,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "931cb4cf0c79ecbd20a7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-30T19:21:59.000Z",
-      "lastSeenAt": "2026-10-28T03:43:47.836Z"
+      "lastSeenAt": "2026-10-28T03:43:47.836Z",
+      "reason": "duplicate",
+      "note": "Cointelegraph's CFTC-sues-Utah report covers the same Oct. 26-27 federal complaint already reported in content/articles/cftcutah.md (published Oct. 28); verified by re-reading Cointelegraph, the CFTC press release, RG.org and Ars Technica, all describing the identical filing, parties and relief.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9315-26",
+          "outcome": "read"
+        },
+        {
+          "url": "https://rg.org/news/prediction-markets/us-cftc-sue-utah-kalshi-prediction-markets-preemption",
+          "outcome": "read"
+        },
+        {
+          "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-29T04:06:23.122Z",
+      "duplicateOf": "cftcutah",
+      "lastReviewedDay": "2026-10-29"
     },
     "84533b2fc42e6e0f40e2": {
       "source": "CoinDesk",
@@ -186970,6 +186993,31 @@
           ],
           "reviewedAt": "2026-10-29T04:02:22.297Z",
           "articleSlug": "cftcprobe"
+        },
+        "931cb4cf0c79ecbd20a7": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Cointelegraph's CFTC-sues-Utah report covers the same Oct. 26-27 federal complaint already reported in content/articles/cftcutah.md (published Oct. 28); verified by re-reading Cointelegraph, the CFTC press release, RG.org and Ars Technica, all describing the identical filing, parties and relief.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/9315-26",
+              "outcome": "read"
+            },
+            {
+              "url": "https://rg.org/news/prediction-markets/us-cftc-sue-utah-kalshi-prediction-markets-preemption",
+              "outcome": "read"
+            },
+            {
+              "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-29T04:06:23.122Z",
+          "duplicateOf": "cftcutah"
         }
       },
       "baselineSlugs": [
