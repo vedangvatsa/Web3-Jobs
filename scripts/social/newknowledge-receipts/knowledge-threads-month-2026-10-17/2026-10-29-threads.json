@@ -134,6 +134,12 @@
       "postId": "18027138137876378",
       "permalink": "https://www.threads.com/@hashtagweb3/post/DfE6QiiFMaK",
       "verifiedAt": "2026-10-29T11:34:12.130Z"
+    },
+    "2": {
+      "createClaim": "1b1077f5-120f-40db-884b-79b4f11054a8",
+      "startedAt": "2026-10-29T11:34:15.888Z",
+      "status": "claimed",
+      "replyTo": "18027138137876378"
     }
   }
 }
