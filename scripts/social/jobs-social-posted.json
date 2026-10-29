@@ -72414,6 +72414,40 @@
       "attemptId": "b99491e5-7aa6-446f-bdd3-b7f57b495bc7",
       "verification": "verified",
       "postId": "0xf64cb6c270a65409e4fede58070ac95392b37444"
+    },
+    {
+      "slug": "eng110",
+      "company": "Jane Street",
+      "title": "MacOS Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-29T11:37:55.722Z",
+      "expectedText": "Jane Street is hiring MacOS Engineer\n\nhttps://hashtagweb3.com/eng110/fc?og=7",
+      "snapshot": {
+        "id": "8884625002",
+        "title": "MacOS Engineer",
+        "company": "Jane Street",
+        "link": "https://www.janestreet.com/join-jane-street/apply/8884625002?gh_jid=8884625002",
+        "date": "2026-10-18T22:10:09-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Jane Street [janestreet]",
+        "location": "Hong Kong",
+        "department": "IT and Systems Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng110"
+      },
+      "payload": {
+        "text": "Jane Street is hiring MacOS Engineer\n\nhttps://hashtagweb3.com/eng110/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng110/fc?og=7"
+          }
+        ],
+        "channel_id": "jobs"
+      },
+      "account": "channel:jobs",
+      "attemptId": "52378748-8124-49a9-80d6-fca090acdb9b",
+      "verification": "creating"
     }
   ]
 }
