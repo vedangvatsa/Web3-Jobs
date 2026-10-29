@@ -74030,7 +74030,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "1eb19a50-1ac1-4dd3-9a8b-c4f683cd420e",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae3a0e01026f5c4e0bf9c3d"
     }
   ]
 }
