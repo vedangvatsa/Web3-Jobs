@@ -73263,7 +73263,8 @@
       },
       "account": "profile",
       "attemptId": "4d089eb3-7ef6-4476-b9a1-b9844acc1020",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x3cf3777c372d01d4bbc52c4e9d19fb65d5a23b2d"
     }
   ]
 }
