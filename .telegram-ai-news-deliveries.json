@@ -2537,5 +2537,40 @@
     "slotKey": "2026-10-29:afternoon",
     "messageId": 193419,
     "sentAt": "2026-10-29T11:33:35.958Z"
+  },
+  "75bda502-3221-465c-9f4d-79ba70b39dc9": {
+    "status": "reserved",
+    "reservedAt": "2026-10-29T19:35:59.432Z",
+    "stories": [
+      {
+        "index": 4,
+        "original_title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+        "headline": "Mistral releases trillion-parameter open model for cybersecurity",
+        "summary": "The release provides organizations with direct control over cyber defenses using a large-scale open-weights model.",
+        "event_rationale": "This covers a major technical release of a trillion-parameter open-source model focused on cybersecurity applications.",
+        "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+        "source": "TechCrunch",
+        "originalTitle": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity"
+      },
+      {
+        "index": 13,
+        "original_title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+        "headline": "Delaware proposal permits AI agents to run entire companies",
+        "summary": "New legal frameworks would allow corporations to operate without human directors while shielding owners from AI-driven liability.",
+        "event_rationale": "This covers a specific legislative change regarding the legal status and corporate governance of autonomous AI agents.",
+        "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+        "source": "Ars Technica",
+        "originalTitle": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses"
+      },
+      {
+        "index": 1,
+        "headline": "Meta releases Style Sketch AI fashion application",
+        "summary": "Users create virtual wardrobes by importing Instagram photos or uploading new images and videos of their clothing.",
+        "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+        "source": "TechCrunch",
+        "originalTitle": "Meta quietly launches an AI fashion app called Style Sketch"
+      }
+    ],
+    "slotKey": "2026-10-29:evening"
   }
 }
