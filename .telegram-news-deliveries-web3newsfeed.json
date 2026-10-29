@@ -2615,5 +2615,36 @@
     "slotKey": "2026-10-29:morning",
     "messageId": 65786,
     "sentAt": "2026-10-29T03:39:25.431Z"
+  },
+  "a849e2c8-a2be-4b4c-85f7-981aea0a356e": {
+    "status": "reserved",
+    "reservedAt": "2026-10-29T11:32:24.699Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "South Korean Regulators Inspect Bithumb After Employee Data Leak",
+        "summary": "Officials launched on-site reviews on Oct. 28 after unauthorized external access compromised employee information at the exchange.",
+        "link": "https://hashtagweb3.com/bithumbraid?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bithumb staff data leak prompts on-site inspections by Korean regulators"
+      },
+      {
+        "index": -1,
+        "headline": "CFTC Reopens Investigation Into Polymarket US User Access",
+        "summary": "Regulators are checking if the prediction platform successfully blocked American traders from its offshore site as required.",
+        "link": "https://hashtagweb3.com/cftcprobe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC reopens probe into whether Polymarket broke its 2022 US-user settlement"
+      },
+      {
+        "index": -1,
+        "headline": "Liquid Network Reserve Deficit Shrinks to 600 BTC",
+        "summary": "JAN3 CEO Samson Mow said the remaining Bitcoin backing L-BTC will be deposited within days after a test transfer.",
+        "link": "https://hashtagweb3.com/liquidgap?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Liquid reserve gap narrows to 600 BTC after test transfer"
+      }
+    ],
+    "slotKey": "2026-10-29:afternoon"
   }
 }
