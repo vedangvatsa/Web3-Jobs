@@ -73733,6 +73733,41 @@
       "attemptId": "24d6a65e-851b-4d4c-9bbf-021a07343cd5",
       "verification": "verified",
       "postId": "0x244d94ef8099e7b78eb989caa7e732d6b2a559ce"
+    },
+    {
+      "slug": "an72",
+      "company": "Augustus",
+      "title": "Financial Crimes Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-10-29T19:35:27.639Z",
+      "expectedText": "Augustus is hiring Financial Crimes Analyst\n\nhttps://hashtagweb3.com/an72/fc?og=7",
+      "snapshot": {
+        "id": "fb6f26dd-dd60-4625-a746-7d2b9ae47534",
+        "title": "Financial Crimes Analyst",
+        "company": "Augustus",
+        "link": "https://jobs.ashbyhq.com/Augustus/fb6f26dd-dd60-4625-a746-7d2b9ae47534",
+        "date": "2026-10-05T13:30:53.888+00:00",
+        "source": "Ashby: Augustus [Augustus]",
+        "location": "New York City",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Risk & Compliance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "an72"
+      },
+      "payload": {
+        "text": "Augustus is hiring Financial Crimes Analyst\n\nhttps://hashtagweb3.com/an72/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/an72/fc?og=7"
+          }
+        ],
+        "channel_id": "product"
+      },
+      "account": "channel:product",
+      "attemptId": "60839892-8b18-4deb-bdce-619b1f97813c",
+      "verification": "creating"
     }
   ]
 }
