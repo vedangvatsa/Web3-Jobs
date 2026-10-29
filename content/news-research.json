@@ -102971,9 +102971,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "bfcbca3f03bc69372621",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-31T23:40:57.000Z",
       "lastSeenAt": "2026-10-29T03:34:54.128Z",
       "articleSlug": "bithumbraid",
@@ -103011,7 +103011,33 @@
         "updatedAt": "2026-10-29T03:46:24.237Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Rechecked the FSC primary notice dated 2026-10-28 (on-site inspection, no confirmed payment/wallet data leak, full compensation plan) and confirmed all four cited outlets return HTTP 200. Draft and compressed Seoul skyline hero are on disk; quality, image, duplicate and formatting audits show zero issues for this file.",
+      "sourceChecks": [
+        {
+          "url": "https://www.fsc.go.kr/no010101/88010",
+          "outcome": "read"
+        },
+        {
+          "url": "https://m.blog.naver.com/blogfsc/224456734393",
+          "outcome": "read"
+        },
+        {
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008819919",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/technology/42610",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/bithumb-faces-on-site-inspections-after-reporting-signs-of-employee-data-leak/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-29T03:54:09.370Z",
+      "lastReviewedDay": "2026-10-29"
     },
     "b491f6d0f12ea2a01257": {
       "source": "Unchained",
@@ -186826,6 +186852,35 @@
           ],
           "reviewedAt": "2026-10-29T03:43:59.104Z",
           "articleSlug": "dailydividends"
+        },
+        "bfcbca3f03bc69372621": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Rechecked the FSC primary notice dated 2026-10-28 (on-site inspection, no confirmed payment/wallet data leak, full compensation plan) and confirmed all four cited outlets return HTTP 200. Draft and compressed Seoul skyline hero are on disk; quality, image, duplicate and formatting audits show zero issues for this file.",
+          "sourceChecks": [
+            {
+              "url": "https://www.fsc.go.kr/no010101/88010",
+              "outcome": "read"
+            },
+            {
+              "url": "https://m.blog.naver.com/blogfsc/224456734393",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008819919",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/technology/42610",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/bithumb-faces-on-site-inspections-after-reporting-signs-of-employee-data-leak/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-29T03:54:09.370Z",
+          "articleSlug": "bithumbraid"
         }
       },
       "baselineSlugs": [
