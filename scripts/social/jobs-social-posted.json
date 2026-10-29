@@ -74410,7 +74410,8 @@
       },
       "account": "channel:founders",
       "attemptId": "1f58a0dc-7d29-4101-b231-756d6c5826cf",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xdac04dc7c81f7c09e6e4adfb9f1022142e10a804"
     }
   ]
 }
