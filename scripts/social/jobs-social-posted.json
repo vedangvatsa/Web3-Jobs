@@ -72166,6 +72166,47 @@
       "verification": "verified",
       "postId": "6ae32fc01ed1437ba0bd4438",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7521535532451995648"
+    },
+    {
+      "slug": "ret",
+      "company": "Polymarket",
+      "title": "Head of Retention",
+      "platform": "linkedin",
+      "postedAt": "2026-10-29T11:32:28.674Z",
+      "expectedText": "Polymarket is hiring Head of Retention: https://hashtagweb3.com/ret/li?og=7",
+      "snapshot": {
+        "id": "d948c040-c557-4046-8c28-b96273e49a75",
+        "title": "Head of Retention",
+        "company": "Polymarket",
+        "link": "https://jobs.ashbyhq.com/Polymarket/d948c040-c557-4046-8c28-b96273e49a75",
+        "date": "2026-10-22T20:37:30.697+00:00",
+        "source": "Ashby: Polymarket [Polymarket]",
+        "location": "New York",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Marketing",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ret"
+      },
+      "payload": {
+        "text": "Polymarket is hiring Head of Retention: https://hashtagweb3.com/ret/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ret/li?og=7",
+          "title": "Head of Retention at Polymarket",
+          "description": "Join Polymarket as Head of Retention. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ret.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "63b6f730-72ca-448e-8e91-b7abf8c50114",
+      "verification": "creating"
     }
   ]
 }
