@@ -103062,7 +103062,27 @@
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
       "attempts": 0,
       "expiresAt": "2026-10-31T22:35:00.000Z",
-      "lastSeenAt": "2026-10-29T03:34:54.128Z"
+      "lastSeenAt": "2026-10-29T03:34:54.128Z",
+      "articleSlug": "bitgojupiter",
+      "draftProgress": {
+        "id": "b491f6d0f12ea2a01257",
+        "day": "2026-10-29",
+        "articleSlug": "bitgojupiter",
+        "note": "Read Unchained's Oct 28 report and the BitGo primary announcement post. No compliant hero image yet: the official BitGo banner is a logo/wordmark graphic, and news-image returned unrelated photos (Javier Solana, Solana Telschick), so a real photo source is still needed before drafting.",
+        "sourceChecks": [
+          {
+            "url": "https://unchainedcrypto.com/bitgo-adds-jupiter-operator-of-a-993-million-solana-validator-to-its-custody-staking-options/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.bitgo.com/resources/blog/bitgo-and-jupiter-enable-institutional-sol-staking-directly-from-regulated-custody/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-29T04:02:35.226Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "d94cde0c22343bb3b3c6": {
       "source": "Bitcoin Magazine",
