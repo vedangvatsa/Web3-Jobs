@@ -99483,11 +99483,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "73bd1506096f24d7e81a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-30T09:38:37.000Z",
-      "lastSeenAt": "2026-10-28T03:43:47.836Z"
+      "lastSeenAt": "2026-10-28T03:43:47.836Z",
+      "reason": "duplicate",
+      "note": "The Oct 28 vote outcome on daily dividends for STRF/STRC/STRK/STRD is already covered by content/articles/dailydividends.md, including the 8-K details and payment schedule.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-29T04:31:55.266Z",
+      "duplicateOf": "dailydividends",
+      "mergedInto": "1fd90b9e013d56864aeb",
+      "lastReviewedDay": "2026-10-29"
     },
     "e8432516246f56e779b7": {
       "source": "Cointelegraph",
@@ -187507,6 +187514,15 @@
           "note": "Non-binding House Democrat resolution on AI firm bankruptcy; AI policy story with no crypto or Web3 angle.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-29T04:31:52.314Z"
+        },
+        "73bd1506096f24d7e81a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "The Oct 28 vote outcome on daily dividends for STRF/STRC/STRK/STRD is already covered by content/articles/dailydividends.md, including the 8-K details and payment schedule.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-29T04:31:55.266Z",
+          "duplicateOf": "dailydividends",
+          "mergedInto": "1fd90b9e013d56864aeb"
         }
       },
       "baselineSlugs": [
