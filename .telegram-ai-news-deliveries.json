@@ -2469,5 +2469,38 @@
     "slotKey": "2026-10-28:evening",
     "messageId": 193416,
     "sentAt": "2026-10-28T19:36:40.230Z"
+  },
+  "e8bb8623-619e-470c-8809-8347f421cea6": {
+    "status": "reserved",
+    "reservedAt": "2026-10-29T03:37:05.341Z",
+    "stories": [
+      {
+        "index": 1,
+        "original_title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+        "headline": "Microsoft discloses quarterly Azure revenue of $33.2 billion",
+        "summary": "The company revealed specific dollar figures for its cloud infrastructure segment, showing significant growth in AI-driven service demand.",
+        "event_rationale": "This is the first time Microsoft has publicly disclosed specific dollar-denominated revenue for its cloud division, providing a concrete metric for AI infrastructure scale.",
+        "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+        "source": "TechCrunch",
+        "originalTitle": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion"
+      },
+      {
+        "index": 2,
+        "headline": "Google expands AI search advertisements to global markets",
+        "summary": "Alphabet reported 25 percent revenue growth to $127.6 billion during the third quarter.",
+        "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+        "source": "TechCrunch",
+        "originalTitle": "Google expands AI Search ads globally as core ad growth slows"
+      },
+      {
+        "index": 5,
+        "headline": "Google AI Restricts Election Answers for US Users",
+        "summary": "The system limits responses about the 2020 election domestically, but provides direct answers to international users.",
+        "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+        "source": "Ars Technica",
+        "originalTitle": "Google AI gets cagey when asked who won the 2020 elections"
+      }
+    ],
+    "slotKey": "2026-10-29:morning"
   }
 }
