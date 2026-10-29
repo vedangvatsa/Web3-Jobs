@@ -3769,5 +3769,53 @@
     "slotKey": "2026-10-28:evening",
     "messageId": 155967,
     "sentAt": "2026-10-28T19:33:05.922Z"
+  },
+  "de59b171-8ec7-4211-89a1-58b67a666ebb": {
+    "status": "reserved",
+    "reservedAt": "2026-10-29T03:35:06.895Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "discovery-evt-iuADCcH9Q16yvM0",
+        "slug": "bitcoin-indonesia-community-meetup-bekasi-07-november",
+        "name": "Bitcoin Indonesia Community Meetup Bekasi 07 November 2026",
+        "startDate": "2026-11-07T13:00:00+07:00",
+        "keys": [
+          "discovery-evt-iuadcch9q16yvm0",
+          "page:bitcoin-indonesia-community-meetup-bekasi-07-november:2026-11-07",
+          "luma:evt-iuadcch9q16yvm0",
+          "luma-url:/ovna9s86",
+          "event:bitcoinindonesiacommunitymeetupbekasi07november2026:2026-11-07:bekasi"
+        ]
+      },
+      {
+        "id": "discovery-evt-A7RyC6d7MsaBgEm",
+        "slug": "bitcoin-indonesia-community-meetup-bogor-07-november",
+        "name": "Bitcoin Indonesia Community Meetup Bogor 07 November 2026",
+        "startDate": "2026-11-07T13:00:00+07:00",
+        "keys": [
+          "discovery-evt-a7ryc6d7msabgem",
+          "page:bitcoin-indonesia-community-meetup-bogor-07-november:2026-11-07",
+          "luma:evt-a7ryc6d7msabgem",
+          "luma-url:/q8584lzq",
+          "event:bitcoinindonesiacommunitymeetupbogor07november2026:2026-11-07:bogor"
+        ]
+      },
+      {
+        "id": "ibw-luma-evt-7bLYYfCCvXDasQt",
+        "slug": "clearsigning",
+        "name": "Clear-Signing & Wallet Security @ DEVCON",
+        "startDate": "2026-11-07T06:30:00.000Z",
+        "keys": [
+          "ibw-luma-evt-7blyyfccvxdasqt",
+          "page:clearsigning:2026-11-07",
+          "luma:evt-7blyyfccvxdasqt",
+          "luma-url:/kwi8jlpk",
+          "event:clearsigningwalletsecuritydevcon:2026-11-07:mumbai"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-29:morning"
   }
 }
