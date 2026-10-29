@@ -3819,5 +3819,53 @@
     "slotKey": "2026-10-29:morning",
     "messageId": 155973,
     "sentAt": "2026-10-29T03:35:15.524Z"
+  },
+  "daca3ad3-9591-487e-82ab-76858d7b3d83": {
+    "status": "reserved",
+    "reservedAt": "2026-10-29T11:32:22.183Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "ibw-luma-evt-DUqmVKaajhfQ1xU",
+        "slug": "zecsycypherpunk",
+        "name": "ZECsy at ETH Cypherpunk Congress #3",
+        "startDate": "2026-11-02T04:30:00.000Z",
+        "keys": [
+          "ibw-luma-evt-duqmvkaajhfq1xu",
+          "page:zecsycypherpunk:2026-11-02",
+          "luma:evt-duqmvkaajhfq1xu",
+          "luma-url:/ze1j2zv0",
+          "event:zecsyatethcypherpunkcongress3:2026-11-02:mumbai"
+        ]
+      },
+      {
+        "id": "ibw-luma-evt-4BPahiHsZbnPfhz",
+        "slug": "houseofhype",
+        "name": "House of HYPE: Hyperliquid India x Bitget Wallet",
+        "startDate": "2026-11-03T12:30:00.000Z",
+        "keys": [
+          "ibw-luma-evt-4bpahihszbnpfhz",
+          "page:houseofhype:2026-11-03",
+          "luma:evt-4bpahihszbnpfhz",
+          "luma-url:/x6m1zvfh",
+          "event:houseofhypehyperliquidindiaxbitgetwallet:2026-11-03:mumbai"
+        ]
+      },
+      {
+        "id": "discovery-evt-L7t2B9ipCCZ8g6Z",
+        "slug": "bitcoin-indonesia-community-meetup-makassar-07-november",
+        "name": "Bitcoin Indonesia Community Meetup Makassar 07 November 2026",
+        "startDate": "2026-11-07T15:00:00+08:00",
+        "keys": [
+          "discovery-evt-l7t2b9ipccz8g6z",
+          "page:bitcoin-indonesia-community-meetup-makassar-07-november:2026-11-07",
+          "luma:evt-l7t2b9ipccz8g6z",
+          "luma-url:/kp77kvd3",
+          "event:bitcoinindonesiacommunitymeetupmakassar07november2026:2026-11-07:makassar"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-29:afternoon"
   }
 }
