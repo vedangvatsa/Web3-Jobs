@@ -94716,9 +94716,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "274cdf337e54ab8ad76f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-27T03:42:12.136Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-29T12:50:09.000Z",
       "lastSeenAt": "2026-10-27T03:42:12.136Z",
       "articleSlug": "phpctf",
@@ -94748,7 +94748,29 @@
         "updatedAt": "2026-10-29T04:20:01.468Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the Oct. 25 win against the live challenge page, Cybernews, CryptoSlate, and the winner's GitHub PoC. Wrote content/articles/phpctf.md with a self-hosted Wikimedia server-room hero.",
+      "sourceChecks": [
+        {
+          "url": "https://stealmybitcoin.com/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cybernews.com/news/bitcoin-php-security/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/bitcoin-hacking-challenge-finally-falls-as-researcher-proves-critical-php-flaw-is-exploitable",
+          "outcome": "read"
+        },
+        {
+          "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-29T04:23:41.980Z",
+      "lastReviewedDay": "2026-10-29"
     },
     "6b4ac28f4f8a37c99129": {
       "source": "The Block",
@@ -98728,18 +98750,18 @@
       "id": "d87a107ce85341dce745",
       "status": "deferred",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-31T03:16:33.000Z",
       "lastSeenAt": "2026-10-28T03:43:47.836Z",
       "reason": "source-blocked",
-      "note": "Read CoinDesk's report and Atlabyte's relay of the Coinbase Support X statement about the Amplitude contact-data incident. The Coinbase Support X post itself serves only a JS shell to curl, and Atlabyte is explicitly based on CoinDesk reporting, so a genuinely independent second report (or Amplitude's own disclosure) is still needed before drafting.",
+      "note": "Reopened Decrypt's independent report on the Amplitude vendor incident affecting Coinbase contact data, plus CoinDesk's earlier coverage. Both cite the Coinbase Support X post, which still serves a JS shell to automated clients. Decrypt and CoinDesk are separate sites, but the underlying statement remains the same X post and Amplitude has not published its own disclosure. Holding for Amplitude's own incident notice or a third outlet with independent confirmation before drafting.",
       "sourceChecks": [
         {
-          "url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+          "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
           "outcome": "read"
         },
         {
-          "url": "https://atlabyte.com/en/news/coinbase-says-customer-funds-safe-after-amplitude-incident-exposes-contact-info",
+          "url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
           "outcome": "read"
         },
         {
@@ -98747,12 +98769,12 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-28T04:53:04.193Z",
+      "reviewedAt": "2026-10-29T04:23:41.981Z",
       "retrySearches": [
-        "Find an independent report on the Coinbase Amplitude customer contact-data incident of Oct 27-28 2026 beyond CoinDesk and its relays, or Amplitude's own incident disclosure"
+        "Find Amplitude's own public incident disclosure or a third independent report on the Coinbase contact-data exposure beyond CoinDesk and Decrypt"
       ],
-      "lastReviewedDay": "2026-10-28",
-      "nextReviewDate": "2026-10-29"
+      "lastReviewedDay": "2026-10-29",
+      "nextReviewDate": "2026-10-30"
     },
     "459c3e64a48c4ba572ef": {
       "source": "Crypto Briefing",
@@ -98802,31 +98824,35 @@
       "id": "f73a1c7235e439f04dff",
       "status": "deferred",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-30T23:42:23.000Z",
       "lastSeenAt": "2026-10-28T03:43:47.836Z",
       "reason": "source-blocked",
-      "note": "Read Crypto Briefing's report on the Solflare staking-provider incident. The Solflare X announcement and The Defiant follow-up (which cites ~1.56M SOL staked) could not be read: X serves a JS shell and The Defiant returns HTTP 403 to both WebFetch and curl with the readiness UA. Need a second readable independent outlet beyond Crypto Briefing before drafting.",
+      "note": "Opened Unchained's report via Yahoo Finance: Solflare's staking provider reported a security incident affecting validator keys on Oct. 27, pausing rewards; Stakewiz showed about 1,559,012 SOL delegated and delinquent status. Crypto Briefing was already read. The Solflare X announcement itself still returns a JS shell. Two readable outlets now exist (Crypto Briefing and Unchained), but need to re-verify Crypto Briefing text and confirm the ~1.56M SOL figure against a second non-agggregator before drafting.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/solflare-staking-provider-security-incident-rewards/",
           "outcome": "read"
         },
         {
-          "url": "https://thedefiant.io/news/security/solflare-validator-stops-earning-rewards-after-provider-security-incident",
-          "outcome": "blocked"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/solana-wallet-solflare-plans-validator-145600477.html",
+          "outcome": "read"
         },
         {
           "url": "https://x.com/solflare/status/2115223521395896530",
           "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/news/security/solflare-validator-stops-earning-rewards-after-provider-security-incident",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-28T04:52:36.725Z",
+      "reviewedAt": "2026-10-29T04:23:41.981Z",
       "retrySearches": [
-        "Find a second independent readable report on the Solflare staking provider security incident of Oct 27 2026, ideally with the staked SOL figure and Solflare's compensation plan"
+        "Find a second independent readable report on the Solflare staking provider security incident of Oct. 27 2026, ideally with the staked SOL figure and Solflare's compensation plan, beyond Crypto Briefing and Unchained"
       ],
-      "lastReviewedDay": "2026-10-28",
-      "nextReviewDate": "2026-10-29"
+      "lastReviewedDay": "2026-10-29",
+      "nextReviewDate": "2026-10-30"
     },
     "8bf9fd870e2f7b2b906a": {
       "source": "Unchained",
@@ -98990,11 +99016,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "1b466b2ecd15e5bdd185",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-30T20:13:59.000Z",
-      "lastSeenAt": "2026-10-28T03:43:47.836Z"
+      "lastSeenAt": "2026-10-28T03:43:47.836Z",
+      "reason": "source-blocked",
+      "note": "Read Crypto Briefing's report that Ripio filed with Banco Central do Brasil on Oct. 27 for virtual asset broker authorization and forex clearance ahead of the Oct. 30 deadline. The Defiant original returns HTTP 403, and Crypto Briefing's piece rests on a Crypto Crib X post rather than Ripio's own announcement. Need an independent outlet or Ripio/BCB primary confirmation before drafting.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/ripio-applies-crypto-broker-license-brazil/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/converge/regulation/ripio-seeks-brazil-crypto-broker-license-ahead-of-filing-deadline",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-29T04:23:41.981Z",
+      "retrySearches": [
+        "Find independent reporting or a Ripio/Banco Central do Brasil primary notice confirming Ripio's Oct. 27 2026 virtual asset broker license application and forex market filing in Brazil"
+      ],
+      "lastReviewedDay": "2026-10-29",
+      "nextReviewDate": "2026-10-30"
     },
     "931cb4cf0c79ecbd20a7": {
       "source": "Cointelegraph",
@@ -99143,11 +99187,33 @@
       ],
       "alsoCoveredBy": [],
       "id": "cbbf00e45a6c9c386fb1",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-30T18:29:16.000Z",
-      "lastSeenAt": "2026-10-28T03:43:47.836Z"
+      "lastSeenAt": "2026-10-28T03:43:47.836Z",
+      "reason": "source-blocked",
+      "note": "Read Bitcoin Magazine's summary of the Reuters exclusive that the CFTC is again probing whether Polymarket broke its 2022 settlement. Reuters itself returns HTTP 401 and Bitcoin Magazine only summarizes it. CNBC published its own related report citing a person familiar; opened CNBC and Reuters syndicated text via Yahoo Finance/US News search results. Need to confirm two fully readable independent articles before drafting; CFTC and Polymarket declined comment.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/cftc-reopens-questions-about-polymarkets",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.reuters.com/business/finance/us-agency-is-again-probing-if-polymarket-broke-2022-settlement-sources-says-2026-10-27/",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/10/27/cftc-probes-polymarket-over-2022-settlement.html",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-29T04:23:41.981Z",
+      "retrySearches": [
+        "Confirm a second fully readable independent report on the CFTC Polymarket 2022-settlement probe of Oct. 27 2026 beyond Bitcoin Magazine and CNBC, or obtain Amplitude/CFTC primary comment"
+      ],
+      "lastReviewedDay": "2026-10-29",
+      "nextReviewDate": "2026-10-30"
     },
     "135179b5e6dda769e49b": {
       "source": "Bitcoin Magazine",
@@ -99164,11 +99230,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "135179b5e6dda769e49b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-30T17:48:18.000Z",
-      "lastSeenAt": "2026-10-28T03:43:47.836Z"
+      "lastSeenAt": "2026-10-28T03:43:47.836Z",
+      "reason": "opinion",
+      "note": "Bitcoin Magazine piece is a TD Cowen analysis of how Nov. 3 midterms might affect the CLARITY Act and crypto political influence. It is forward-looking commentary and political prediction, not a concrete event with primary record. Midterm outcomes themselves are not yet reported facts.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/politics/next-weeks-midterm-elections-crypto",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-29T04:23:41.981Z",
+      "lastReviewedDay": "2026-10-29"
     },
     "fb5f8280307ff61554bc": {
       "source": "The Defiant",
@@ -99185,11 +99261,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "fb5f8280307ff61554bc",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-30T17:06:19.000Z",
-      "lastSeenAt": "2026-10-28T03:43:47.836Z"
+      "lastSeenAt": "2026-10-28T03:43:47.836Z",
+      "reason": "duplicate",
+      "note": "Same Oct. 27 CFTC/DOJ lawsuit against Utah and AG Derek Brown already covered in content/articles/cftcutah.md from the CFTC press release and complaint.",
+      "sourceChecks": [
+        {
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9315-26",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/regulation/cftc-sues-utah-to-block-prediction-market-enforcement",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.securities.io/us-and-cftc-sue-utah-over-gambling-enforcement-on-prediction-markets",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-29T04:23:41.981Z",
+      "duplicateOf": "cftcutah",
+      "lastReviewedDay": "2026-10-29"
     },
     "febec9b9a0f848fe43c2": {
       "source": "Bankless",
@@ -99206,11 +99301,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "febec9b9a0f848fe43c2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-30T16:04:21.000Z",
-      "lastSeenAt": "2026-10-28T03:43:47.836Z"
+      "lastSeenAt": "2026-10-28T03:43:47.836Z",
+      "reason": "duplicate",
+      "note": "Same Oct. 26 NBA-CFTC MOU and Kalshi/Polymarket preferred-exchange designations already covered in content/articles/nba.md with CFTC and NBA primary sources.",
+      "sourceChecks": [
+        {
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9314-26",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.nba.com/news/nba-establishes-integrity-framework-and-commercial-partnerships-for-prediction-markets",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.bankless.com/read/news/nba-signs-cftc-pact-taps-kalshi-and-polymarket",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-29T04:23:41.981Z",
+      "duplicateOf": "nba",
+      "lastReviewedDay": "2026-10-29"
     },
     "641ad7e5d2a670fb30bd": {
       "source": "The Block",
@@ -187160,6 +187274,177 @@
           ],
           "reviewedAt": "2026-10-29T04:16:25.665Z",
           "articleSlug": "bitgojupiter"
+        },
+        "274cdf337e54ab8ad76f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Oct. 25 win against the live challenge page, Cybernews, CryptoSlate, and the winner's GitHub PoC. Wrote content/articles/phpctf.md with a self-hosted Wikimedia server-room hero.",
+          "sourceChecks": [
+            {
+              "url": "https://stealmybitcoin.com/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cybernews.com/news/bitcoin-php-security/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/bitcoin-hacking-challenge-finally-falls-as-researcher-proves-critical-php-flaw-is-exploitable",
+              "outcome": "read"
+            },
+            {
+              "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-29T04:23:41.980Z",
+          "articleSlug": "phpctf"
+        },
+        "fb5f8280307ff61554bc": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct. 27 CFTC/DOJ lawsuit against Utah and AG Derek Brown already covered in content/articles/cftcutah.md from the CFTC press release and complaint.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/9315-26",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/regulation/cftc-sues-utah-to-block-prediction-market-enforcement",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.securities.io/us-and-cftc-sue-utah-over-gambling-enforcement-on-prediction-markets",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-29T04:23:41.981Z",
+          "duplicateOf": "cftcutah"
+        },
+        "febec9b9a0f848fe43c2": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct. 26 NBA-CFTC MOU and Kalshi/Polymarket preferred-exchange designations already covered in content/articles/nba.md with CFTC and NBA primary sources.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/9314-26",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.nba.com/news/nba-establishes-integrity-framework-and-commercial-partnerships-for-prediction-markets",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bankless.com/read/news/nba-signs-cftc-pact-taps-kalshi-and-polymarket",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-29T04:23:41.981Z",
+          "duplicateOf": "nba"
+        },
+        "135179b5e6dda769e49b": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Bitcoin Magazine piece is a TD Cowen analysis of how Nov. 3 midterms might affect the CLARITY Act and crypto political influence. It is forward-looking commentary and political prediction, not a concrete event with primary record. Midterm outcomes themselves are not yet reported facts.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/politics/next-weeks-midterm-elections-crypto",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-29T04:23:41.981Z"
+        },
+        "1b466b2ecd15e5bdd185": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Crypto Briefing's report that Ripio filed with Banco Central do Brasil on Oct. 27 for virtual asset broker authorization and forex clearance ahead of the Oct. 30 deadline. The Defiant original returns HTTP 403, and Crypto Briefing's piece rests on a Crypto Crib X post rather than Ripio's own announcement. Need an independent outlet or Ripio/BCB primary confirmation before drafting.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/ripio-applies-crypto-broker-license-brazil/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/converge/regulation/ripio-seeks-brazil-crypto-broker-license-ahead-of-filing-deadline",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-29T04:23:41.981Z",
+          "retrySearches": [
+            "Find independent reporting or a Ripio/Banco Central do Brasil primary notice confirming Ripio's Oct. 27 2026 virtual asset broker license application and forex market filing in Brazil"
+          ]
+        },
+        "cbbf00e45a6c9c386fb1": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Bitcoin Magazine's summary of the Reuters exclusive that the CFTC is again probing whether Polymarket broke its 2022 settlement. Reuters itself returns HTTP 401 and Bitcoin Magazine only summarizes it. CNBC published its own related report citing a person familiar; opened CNBC and Reuters syndicated text via Yahoo Finance/US News search results. Need to confirm two fully readable independent articles before drafting; CFTC and Polymarket declined comment.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/cftc-reopens-questions-about-polymarkets",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.reuters.com/business/finance/us-agency-is-again-probing-if-polymarket-broke-2022-settlement-sources-says-2026-10-27/",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.cnbc.com/2026/10/27/cftc-probes-polymarket-over-2022-settlement.html",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-29T04:23:41.981Z",
+          "retrySearches": [
+            "Confirm a second fully readable independent report on the CFTC Polymarket 2022-settlement probe of Oct. 27 2026 beyond Bitcoin Magazine and CNBC, or obtain Amplitude/CFTC primary comment"
+          ]
+        },
+        "d87a107ce85341dce745": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Reopened Decrypt's independent report on the Amplitude vendor incident affecting Coinbase contact data, plus CoinDesk's earlier coverage. Both cite the Coinbase Support X post, which still serves a JS shell to automated clients. Decrypt and CoinDesk are separate sites, but the underlying statement remains the same X post and Amplitude has not published its own disclosure. Holding for Amplitude's own incident notice or a third outlet with independent confirmation before drafting.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+              "outcome": "read"
+            },
+            {
+              "url": "https://x.com/CoinbaseSupport/status/2115274731310002356",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-29T04:23:41.981Z",
+          "retrySearches": [
+            "Find Amplitude's own public incident disclosure or a third independent report on the Coinbase contact-data exposure beyond CoinDesk and Decrypt"
+          ]
+        },
+        "f73a1c7235e439f04dff": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Opened Unchained's report via Yahoo Finance: Solflare's staking provider reported a security incident affecting validator keys on Oct. 27, pausing rewards; Stakewiz showed about 1,559,012 SOL delegated and delinquent status. Crypto Briefing was already read. The Solflare X announcement itself still returns a JS shell. Two readable outlets now exist (Crypto Briefing and Unchained), but need to re-verify Crypto Briefing text and confirm the ~1.56M SOL figure against a second non-agggregator before drafting.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/solflare-staking-provider-security-incident-rewards/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://finance.yahoo.com/markets/crypto/articles/solana-wallet-solflare-plans-validator-145600477.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://x.com/solflare/status/2115223521395896530",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/security/solflare-validator-stops-earning-rewards-after-provider-security-incident",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-29T04:23:41.981Z",
+          "retrySearches": [
+            "Find a second independent readable report on the Solflare staking provider security incident of Oct. 27 2026, ideally with the staked SOL figure and Solflare's compensation plan, beyond Crypto Briefing and Unchained"
+          ]
         }
       },
       "baselineSlugs": [
