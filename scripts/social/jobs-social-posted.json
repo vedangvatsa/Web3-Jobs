@@ -73767,7 +73767,8 @@
       },
       "account": "channel:product",
       "attemptId": "60839892-8b18-4deb-bdce-619b1f97813c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x90b10df39f529b5025eedaedbc7c95b2c6910b16"
     }
   ]
 }
