@@ -71653,7 +71653,8 @@
       },
       "account": "channel:bounties",
       "attemptId": "5fb7d668-58f7-49e7-b9b1-9bc0daa74683",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xdde26a7e1942cd8f4f280ffc28a4d4e4bc3ca430"
     }
   ]
 }
