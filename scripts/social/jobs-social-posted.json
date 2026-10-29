@@ -73013,7 +73013,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "d7544869-bf23-402c-94c6-a1feeb7004ae",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae3309d92ad728a4576c743"
     }
   ]
 }
