@@ -2648,5 +2648,36 @@
     "slotKey": "2026-10-29:afternoon",
     "messageId": 65787,
     "sentAt": "2026-10-29T11:32:26.996Z"
+  },
+  "53fc43b0-6932-4d10-a42f-c839c44d7457": {
+    "status": "reserved",
+    "reservedAt": "2026-10-29T19:36:44.716Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Strategy Shareholders Approve Daily Dividends for Four Preferred Stocks",
+        "summary": "Tickers STRF, STRC, STRK, and STRD will accrue daily payments distributed on business days beginning in November.",
+        "link": "https://hashtagweb3.com/dailydividends?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Strategy shareholders approve daily dividends on four preferred stocks"
+      },
+      {
+        "index": -1,
+        "headline": "Binance Applies for Brazil License and Cuts Local Services",
+        "summary": "The exchange applied to the central bank on October 23 while removing eight products and 22 tokens for users.",
+        "link": "https://hashtagweb3.com/binancebr?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Binance Files for Brazil License as Product Cuts Take Effect"
+      },
+      {
+        "index": -1,
+        "headline": "Ethereum developers fix Glamsterdam upgrade staking deposit bug",
+        "summary": "The update prevents block builders from capturing ETH intended for new network validators.",
+        "link": "https://hashtagweb3.com/depositbug?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ethereum Merges Fix for Glamsterdam Staking Deposit Bug"
+      }
+    ],
+    "slotKey": "2026-10-29:evening"
   }
 }
