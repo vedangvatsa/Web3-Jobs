@@ -73803,7 +73803,8 @@
       },
       "account": "channel:design",
       "attemptId": "8d96c119-1b4b-40e3-9478-bc1bf00f799f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9b5896fc2c471b3aacccab292353850db74e7ab4"
     }
   ]
 }
