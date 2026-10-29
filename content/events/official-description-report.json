@@ -300,21 +300,6 @@
       "preview": "Switzerland's largest institutional digital assets & AI conference is back! Join us for CV Summit 2026 in Zürich."
     },
     {
-      "id": "premier-ethkorea",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://one.ethereumkorea.io/",
-        "fetchedAt": "2026-09-20T00:20:13.338Z",
-        "method": "official-section",
-        "pageTitle": "Ethereum Korea Week | Two Days, Two Worlds · Sept 28-29, 2026",
-        "sha256": "5c4c400ddf496bc0f266168319a287ed4b6b33052e829a2e3ef4d86f58d75f68"
-      },
-      "previousStartDate": "2026-09-28T09:00:00.000Z",
-      "characters": 1699,
-      "preview": "## Ethereum Korea One\n\nTwo days in Seoul where institutions & builders write Ethereum's next chapter.\n\n같은 체인을 두고 서로 다른 언어를 씁니다.한쪽은 자본과 정책으로, 다른 한쪽은 코드와 커뮤니티로.그 두 대화를 서울에서 잇습니다. One chain, two languages.Two audiences, one city.One speaks in capital and policy,the other in code and community.\n\n## Day 01 · 제도권의 언어The Institutional Voice\n\n토큰화, 스테이블코인, RWA, 디지털 자본시장을 다룹니다. 자산운용사와 은행, 증권사, 정책 입안자가 함께하는 키노트와 라운드테이블로 하루를 채웁니다. Tokenization, stablecoins, RWAs, the digital capital stack. Keynotes and roundtables built for asset managers, banks, brokerages, and regulators.\n\n## Day 02 · 빌더의 언어The Builder Voice\n\n코어 컨트리뷰터부터 이제 막 시작한 프로토콜 팀까지 모입니다. 토크와 패널, 라이트닝 데모, 파이어사이드가 종일 이어지는 한국 빌더 커뮤니티의 하루입니다. From core contributors to emerging protocol teams. Talks, panels, lightning demos, and firesides: a day by"
-    },
-    {
       "id": "premier-cdnbitcoin",
       "file": "curated-events.json",
       "status": "source-backed",

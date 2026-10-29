@@ -359,29 +359,6 @@
     }
   },
   {
-    "name": "Ethereum Korea One 2026",
-    "url": "https://one.ethereumkorea.io",
-    "emails": [
-      "contact@ethereumkorea.io"
-    ],
-    "event": {
-      "id": "premier-ethkorea",
-      "slug": "ethereum-korea-one",
-      "name": "Ethereum Korea One 2026",
-      "description": "Korea's Ethereum community conference running alongside Korea Blockchain Week in Seoul.",
-      "startDate": "2026-09-28T09:00:00.000Z",
-      "endDate": "2026-09-29T18:00:00.000Z",
-      "city": "Seoul",
-      "country": "South Korea",
-      "location": "Seoul, South Korea",
-      "url": "https://one.ethereumkorea.io",
-      "website": "https://one.ethereumkorea.io",
-      "coverImage": "/events/ethereum.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
     "name": "P.S. Lisbon 2026",
     "url": "https://input.global",
     "emails": [

@@ -1195,29 +1195,6 @@
     }
   },
   {
-    "id": "premier-ethkorea",
-    "slug": "ethereum-korea-one",
-    "name": "Ethereum Korea One 2026",
-    "description": "## Ethereum Korea One\n\nTwo days in Seoul where institutions & builders write Ethereum's next chapter.\n\n같은 체인을 두고 서로 다른 언어를 씁니다.한쪽은 자본과 정책으로, 다른 한쪽은 코드와 커뮤니티로.그 두 대화를 서울에서 잇습니다. One chain, two languages.Two audiences, one city.One speaks in capital and policy,the other in code and community.\n\n## Day 01 · 제도권의 언어The Institutional Voice\n\n토큰화, 스테이블코인, RWA, 디지털 자본시장을 다룹니다. 자산운용사와 은행, 증권사, 정책 입안자가 함께하는 키노트와 라운드테이블로 하루를 채웁니다. Tokenization, stablecoins, RWAs, the digital capital stack. Keynotes and roundtables built for asset managers, banks, brokerages, and regulators.\n\n## Day 02 · 빌더의 언어The Builder Voice\n\n코어 컨트리뷰터부터 이제 막 시작한 프로토콜 팀까지 모입니다. 토크와 패널, 라이트닝 데모, 파이어사이드가 종일 이어지는 한국 빌더 커뮤니티의 하루입니다. From core contributors to emerging protocol teams. Talks, panels, lightning demos, and firesides: a day by and for the Korean builder community.\n\n## 연사 라인업. The lineup.\n\n이틀 동안 무대에 오르는 주요 연사입니다. 추가 연사는 확정되는 대로 공개합니다. A main lineup spanning both days. More speakers will be announced on a rolling basis.\n\n## 하나의 위크, 두 개의 하루.어디로 향할지 골라보세요. One week, two days.Choose where you belong.\n\n## 제도권을 위한 하루 A day for the institutions\n\n자본과 정책이 이더리움을 만나는 자리. 토큰화, 스테이블코인, RWA, 디지털 자본시장. Where capital and policy meet Ethereum. Tokenization, stablecoins, RWAs, digital capital markets.\n\n## 빌더를 위한 하루 A day for the builders\n\n가격 대신 철학과 기술을 말하는 자리입니다. 이더리움 재단이 지원하는 한국 빌더들의 Genesis. Not about price, but philosophy and engineering. Genesis: Korea's builders, backed by the Ethereum Foundation.\n\n## EK1: Genesis를 함께 만드는 파트너. Built together with.\n\n## 13팀이 함께Built by thirteen teams\n\n한국 이더리움 생태계를 이끄는 빌더·인프라·리서치 팀들이 공동으로 만듭니다.Co-organized by the builder, infrastructure, and research teams driving Korea's Ethereum ecosystem.",
-    "startDate": "2026-09-28T09:00:00.000Z",
-    "endDate": "2026-09-29T18:00:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "Seoul, South Korea",
-    "url": "https://one.ethereumkorea.io",
-    "website": "https://one.ethereumkorea.io",
-    "coverImage": "/events/ethereum.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "descriptionSource": {
-      "url": "https://one.ethereumkorea.io/",
-      "fetchedAt": "2026-09-20T00:20:13.338Z",
-      "method": "official-section",
-      "pageTitle": "Ethereum Korea Week | Two Days, Two Worlds · Sept 28-29, 2026",
-      "sha256": "5c4c400ddf496bc0f266168319a287ed4b6b33052e829a2e3ef4d86f58d75f68"
-    }
-  },
-  {
     "id": "premier-bitcoinberlin",
     "slug": "bitcoin1",
     "name": "bitcoin++ Berlin 2026",

@@ -2669,10 +2669,6 @@
       "sha256": "8e8ebe0122e62d6ed6e316767857e3147241a36554c507165785b4707bec4a4a",
       "status": "retained"
     },
-    "/events/mu-317156445-8b529014.webp": {
-      "sha256": "d13c2b2dd3984302e7d4e72b86365b2f98580d8e3923482a189f6dbab5b0d4fb",
-      "status": "retained"
-    },
     "/events/mu-317156463-b1276a11.webp": {
       "sha256": "d13c2b2dd3984302e7d4e72b86365b2f98580d8e3923482a189f6dbab5b0d4fb",
       "status": "retained"
@@ -24107,10 +24103,6 @@
     },
     "/events/mu-316962667-20bc80fc.webp": {
       "sha256": "1d54f101e16e1f7c462fe202f8eed1d00bfaf0fe5d653f0202eb4e18a5978939",
-      "status": "optimized"
-    },
-    "/events/mu-317040834-4be0dfe6.webp": {
-      "sha256": "a21270f18ee03601400cdb7d64b0538606a6e08a082b7c2cab3aab3cbcc7cbc8",
       "status": "optimized"
     },
     "/events/mu-317049329-6b5c3759.webp": {

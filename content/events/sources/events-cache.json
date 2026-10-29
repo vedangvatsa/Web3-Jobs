@@ -340,21 +340,6 @@
     "slug": "sec"
   },
   {
-    "id": "w3v-ethereum-korea-one",
-    "name": "Ethereum Korea One",
-    "description": "Ethereum Korea One: a September 28–29 event covering Ethereum, tokenization, stablecoins, and builder-focused technical discussions.",
-    "startDate": "2026-09-28T07:00:00.000Z",
-    "endDate": "2026-09-29T19:00:00.000Z",
-    "city": "Global",
-    "country": "South Korea",
-    "location": "Global, KR",
-    "url": "https://one.ethereumkorea.io",
-    "coverImage": "/events/w3v-ethereum-korea-one-53d19a94.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026"
-  },
-  {
     "id": "ma-korea-blockchain-week-2026--kbw2026-",
     "name": "Korea Blockchain Week 2026 (KBW2026)",
     "description": "",
@@ -367,106 +352,6 @@
     "coverImage": "/events/ma-korea-blockchain-week-2026-kbw2026-450007be.webp",
     "source": "marketacross",
     "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-3bObdUAZuPjlaCr",
-    "name": "Unlocking Velocity in Trade to Payments - Sibos Miami 2026",
-    "description": "Join us on Tuesday, September 29, 2026, during Sibos Miami 2026 at The Bass Art Museum, located just minutes from the  Convention Center, for Opening Bell: Institutional Breakfast: Unlocking Velocity in Trade & Payments, from 7:30AM to 9:30 AM.\n\n[Presented by Contour](https://www.contour.network/), [powered by XDC Network](https://xdc.tech/?utm_source=luma), and hosted by Agentic Day and Miami Fintech Club, this private, invitation-only morning will bring together leaders from across global trade, payments, and institutional finance.\n\nAbout This Morning\n\nTrade finance, payments, stablecoins, digital currencies, standards, and Agentic AI are rapidly converging. This morning will explore how institutions can move beyond fragmented systems toward faster, more connected global financial infrastructure.\n\nThe program will combine a refined breakfast, curated networking, and an interactive panel, followed by time for continued conversations before guests return to Sibos Day 2.\n\nAgenda\n\n7:30 AM — Doors open, breakfast and networking\n8:00 AM — Panel and Q&A\n8:45 AM — Networking\n\nThe Panel\n\nUnlocking Velocity in Trade to Payments: Digitisation, AI Agents & Stablecoins\n\nA focused panel followed by an open discussion, inviting participants to share perspectives, challenge assumptions, and identify opportunities for collaboration.\n\nSpeakers\n\nRahul Bhargava\nInterim COO, Contour & Sr. Financial Sector Consultant, World Bank\n\nAlexandre Kech\nCEO\nGlobal Legal Entity Identifier Foundation (GLEIF)\n\nFurther speakers to be announced.\n\nMedia Partner:\n\n[FF News | Fintech Finance](https://ffnews.com/)\n\n[Yellow](https://yellow.com)\n\nWho’s in the Room\n\nSenior leaders from banks, central banks, regulatory and standards bodies, corporate treasuries, market infrastructures, payments and digital currency companies, and Agentic AI and financial technology firms.\n\nAbout the Venue: The Bass Art Museum\n\nOriginally built in the 1930s, The Bass combines historic Art Deco architecture with contemporary design and rotating exhibitions. The event will be held in the museum’s striking Lindemann Family Courtyard, featuring elements of the original building and a soaring 29-foot ceiling.\n\nPast Event: Consensus Miami 2026\n\nInterested in becoming a speaker or co-host lalla@helloagentic.ai",
-    "startDate": "2026-09-29T11:30:00.000Z",
-    "endDate": "2026-09-29T13:30:00.000Z",
-    "city": "Miami Beach",
-    "country": "United States",
-    "location": "Miami Beach, United States",
-    "url": "https://lu.ma/lwtff9cg",
-    "coverImage": "/events/luma-evt-3bobduazupjlacr-9af5b21e.webp",
-    "source": "luma",
-    "month": "September 2026",
-    "slug": "uvtp",
-    "timezone": "America/New_York",
-    "registrationUrl": "https://luma.com/lwtff9cg",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "hosts": [
-      "XDC Network",
-      "Agentic Day",
-      "Miami Fintech Club",
-      "Lalla",
-      "RAHUL BHARGAVA"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/lwtff9cg",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/lwtff9cg",
-      "eventId": "evt-3bObdUAZuPjlaCr",
-      "fetchedAt": "2026-09-19T23:54:08.218Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "luma-evt-ewHxVw9g0DR0oQB",
-    "name": "Blockchain & Stablecoins are Rebuilding the Payment Stack",
-    "description": "[The Big Whale](https://www.thebigwhale.io/) is the leading Market Intelligence provider on Digital Assets, serving 150+ institutional & corporate clients across banks, asset managers, fintechs and digital asset companies.\n\n[Join TBW](https://www.thebigwhale.io/), [Payward Services](https://www.payward.com/payward-services), [DFNS](https://dfns.co/), 21X (https://21x.eu/), [Société Générale Forge](https://www.sgforge.com/), [and BNP Paribas](https://group.bnpparibas/en/) (AssetFoundry) for an exclusive breakfast in Miami during Sibos!\n\nThe payments stack has been under pressure for years. Correspondent banking is expensive and slow. Cross-border rails remain opaque. And the promise of real-time, low-cost global transfers has largely stayed out of reach.\n\nBlockchain infrastructure and stablecoins are now offering an alternative. Not as a disruption from outside, but increasingly as a layer that banks, PSPs, and fintechs are building into their own architectures.\n\nDuring this exclusive morning, we'll bring together banks, PSPs, trade finance players and fintechs to examine where this rebuild is already happening, what it takes to integrate blockchain and stablecoin infrastructure at scale, and who the real winners of the new payment stack will be.\n\nThanks to Payward Services, SG Forge, 21X, BNP Paribas, and DFNS for making this event possible. [Attending? Share your presence with a dedicated visual here!](https://breakfasts.thebigwhale.io/#miami-september29)\n\n☕️🤝 8:30AM - Welcome coffee & croissants\n\n🎙️ 9:00AM - \"Stablecoins in Practice: Where They Actually Move Money Today\"\n\n• Stéphanie [Cabossioras, Chief Strategy at Société Générale Forge](https://www.sgforge.com/)\n• [Clarisse Hagège, Founder & CEO at DFNS](https://dfns.co/)\n• [Mark Greenberg, Chief Commercial Officer at Payward Services](https://www.payward.com/)\n\n🎙️ 9:35AM - \"Build or Buy: Should You Launch Your Own Stablecoin - or Just Use One?\"\n\n• [Marek Socha, MD Global Markets at 21X](https://21x.eu/)\n• [Julien Clausse, Head of AssetFoundry at BNP Paribas](https://group.bnpparibas/en/)\n\n🤝☕️ 9:50AM - Networking Session\n\nSeats are limited to foster deep, honest discussions and high-quality networking.\n\nPriority access will be given to Corporate members.\n\n🔴 Important: doors close at 9:00 AM. It will not be possible to join after that time.",
-    "startDate": "2026-09-29T12:30:00.000Z",
-    "endDate": "2026-09-29T15:00:00.000Z",
-    "city": "Miami Beach",
-    "country": "United States",
-    "location": "Miami Beach, United States",
-    "url": "https://lu.ma/tbw_sibos_2026",
-    "coverImage": "/events/luma-evt-ewhxvw9g0dr0oqb-043a9099.webp",
-    "source": "luma",
-    "month": "September 2026",
-    "slug": "bsarps",
-    "timezone": "America/New_York",
-    "registrationUrl": "https://luma.com/tbw_sibos_2026",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "hosts": [
-      "The Big Whale",
-      "Noé Giglio",
-      "Payward Services",
-      "Christopher Grilhault des Fontaines"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "TBW's Corporate Events",
-      "url": "https://www.thebigwhale.io/"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "The Big Whale Clients",
-        "url": "https://luma.com/tbw_sibos_2026",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "Invited by Partners or TBW",
-        "url": "https://luma.com/tbw_sibos_2026",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/tbw_sibos_2026",
-      "eventId": "evt-ewHxVw9g0DR0oQB",
-      "fetchedAt": "2026-09-19T23:49:54.633Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
   },
   {
     "id": "luma-evt-REWXMIhzOXT25u3",
@@ -597,66 +482,6 @@
       "url": "https://luma.com/zecq09tp",
       "eventId": "evt-ZR9kvg5Gf1VTqvI",
       "fetchedAt": "2026-09-19T23:29:55.518Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "w3v-liquidity-evening-by-turtle",
-    "name": "Liquidity Evening by Turtle",
-    "description": "## 🇬🇧 Liquidity Evening by Turtle\n\nKick off KBW the right way.\n\nThe night before the conference opens, join us on a rooftop in the heart of Gangnam for an evening built for the people actually moving liquidity.\n\nTwo short keynotes and one panel on where LPs are actually deploying in Korea. The rest of the night is drinks and conversation with the funds, family offices, and builders shaping liquidity in this market. Rooftop in Gangnam, drinks, Seoul skyline.\n\nDate: Tuesday, 29 September 2026\nTime: 6:30 PM to 10:00 PM\nVenue: L7 Gangnam Floating Bar, Gangnam, Seoul\nLanguage: English, with bilingual hosting\n\n[Hosted by: Turtle](https://x.com/turtledotxyz) [and Lunar Strategy](https://x.com/LunarStrategy)\n[Co-hosts: Bond](https://x.com/BondSuperApp_) [and 0G Labs](https://x.com/0G_labs)\n[Premium sponsor: Credi](https://x.com/credilabs)\n\n## Speakers\n\n➤ [Essi Lagevardi](https://x.com/SuperChad15), [CEO and Founder of Turtle](https://x.com/turtledotxyz) - building one of crypto's largest liquidity coordination networks.\n\n➤ [Taweh Beysolow II](https://x.com/TawehBeysolow), [CEO and Co-founder of Bond](https://x.com/BondSuperApp_) - ex-Jump Trading and Flowdesk quant, now building the first DeFi super app for the agentic economy.\n\n➤ [Michael Heinrich](https://x.com/michaelh_0g), [CEO and Co-founder of 0G Labs](https://x.com/0G_labs) - leading the largest AI L1 ecosystem with $325M+ raised; Forbes 40 under 40, ex-Bridgewater and Microsoft.\n\n➤ [Alessio Marinelli](https://www.linkedin.com/in/marinellialessio/), [CEO of Credi](https://x.com/credilabs) - tokenizing private credit and SME receivables, bringing real-world yield on-chain since 2017.\n\n➤ [Tim Haldorsson](https://x.com/TimHaldorsson), [Founder of Lunar Strategy](https://x.com/LunarStrategy) and CMO at Turtle - panel moderator. In crypto since 2017, helping 400+ projects scale.\n\n## Who this is for\n\nLPs, family offices, and funds allocating in APAC. Builders and protocols working on liquidity infrastructure. If you move capital or build where it flows, this evening is for you.\n\n## The agenda\n\n• 6:30 PM - Doors open, drinks and catering\n• 7:30 PM - Opening keynote: Essi Lagevardi, CEO of Turtle\n• 7:45 PM - Partner keynote: Taweh Beysolow II, CEO of Bond\n• 8:00 PM - Partner keynote: Michael Heinrich, CEO of 0G Labs: Welcome to the Trillion-Dollar Agentic Economy\n• 8:15 PM - Panel: How institutional capital finds DeFi: from first touch to allocation\n• 8:35 PM onward - Networking and on-site interviews\n• 10:00 PM - Doors close\n\n## Your hosts\n\n[Turtle](https://x.com/turtledotxyz) is a liquidity distribution protocol connecting asset issuers to a verified network of 432,000+ on-chain LPs through a unified platform that handles deal sourcing, due diligence, incentive distribution, billing, and LP relationship management, all verifiable on chain.\n\n[Lunar Strategy](https://x.com/LunarStrategy), part of Turtle Group, is the crypto growth agency behind 400+ projects since 2019 - from token launches to ecosystem campaigns.\n\n## About our partners\n\n[Bond](https://x.com/BondSuperApp_) is the first DeFi super app built for AI agents - trading, lending, and payments in one platform, launched on 0G.\n\n0G [Labs](https://x.com/0G_labs) is building the foundational Layer 1 for decentralized AI, with $325M raised and one of the fastest-growing ecosystems in crypto.\n\n[Credi](https://x.com/credilabs) brings private credit on-chain, tokenizing high-quality SME receivables to connect DeFi liquidity with real-world yield.\n\nSet on a rooftop deck, with the covered lounge hosting the keynotes and panel. Your first stop before KBW opens.\n\nSpots are limited and registrations are reviewed. Register below to secure yours.\n\nPhotos and video will be taken at this event. By registering and being approved, you agree that your image may appear in event coverage and future marketing.\n\n## 🇰🇷 Turtle과 함께하는 Liquidity Evening\n\nKBW의 시작을 함께할 특별한 저녁에 여러분을 초대합니다.\n\n본 컨퍼런스 개막 전날 밤, 강남 중심부의 루프탑에서 실제로 유동성을 움직이는 사람들을 위한 특별한 저녁이 펼쳐집니다.\n\n한국에서 LP들의 자금이 실제로 어디로 향하고 있는지에 대한 두 번의 짧은 키노트와 패널 세션이 진행되며, 이후에는 펀드, 패밀리 오피스, 빌더들과 자유롭게 이야기하고 네트워킹하는 시간을 갖습니다.\n\n강남의 루프탑에서 드링크와 함께 서울의 야경을 즐기며 KBW를 시작해보세요.\n\n날짜: 2026년 9월 29일(화)\n시간: 오후 6:30 ~ 10:00\n장소: L7 강남 플로팅 바, 서울 강남\n언어: 영어, 한·영 이중언어 진행\n\n주최: [Turtle](https://x.com/turtledotxyz) & [Lunar Strategy](https://x.com/LunarStrategy)\n공동 주최: [Bond](https://x.com/BondSuperApp_) & 0G [Labs](https://x.com/0G_labs)\n프리미엄 스폰서: [Credi](https://x.com/credilabs)\n\n## 연사\n\n• [Essi Lagevardi,](https://x.com/SuperChad15) Turtle CEO & Founder - 크립토 업계 최대 규모 중 하나인 유동성 조정 네트워크를 구축하고 있습니다.\n• [Taweh Beysolow II](https://x.com/TawehBeysolow), Bond CEO & Co-founder - 전 Jump Trading 및 Flowdesk 퀀트로, 현재 에이전틱 이코노미를 위한 최초의 DeFi 슈퍼앱을 구축하고 있습니다.\n• [Michael Heinrich](https://x.com/michaelh_0g), 0G Labs CEO & Co-founder - 3억 2,500만 달러 이상의 투자를 유치한 최대 규모의 AI L1 생태계를 이끌고 있습니다. Forbes 40 Under 40에 선정되었으며 Bridgewater와 Microsoft를 거쳤습니다.\n• [Alessio Marinelli](https://www.linkedin.com/in/marinellialessio/), Credi CEO - 프라이빗 크레딧과 중소기업(SME) 매출채권을 토큰화하며, 2017년부터 실물자산에서 발생하는 수익을 온체인으로 가져오고 있습니다.\n• [Tim Haldorsson](https://x.com/TimHaldorsson), Lunar Strategy Founder & Turtle CMO - 패널 모더레이터. 2017년부터 크립토 업계에서 활동하며 300개 이상의 프로젝트 성장을 지원했습니다.\n\n## 이런 분들을 위한 자리입니다\n\n아시아 시장에 자금을 운용하고 있는 LP, 패밀리 오피스 및 펀드, 그리고 유동성 인프라를 구축하고 있는 빌더와 프로토콜 관계자를 위한 자리입니다. 자본을 움직이거나 자본이 흐르는 곳을 만들어가고 있다면, 이번 저녁은 여러분을 위한 자리입니다.\n\n## 행사 일정\n\n• 오후 6:30 - 입장 및 웰컴 드링크\n• 오후 7:00 - 케이터링 및 커스텀 칵테일\n• 오후 7:30 - 오프닝 키노트: Turtle CEO Essi Lagevardi\n• 오후 7:45 - 파트너 키노트: Bond CEO Taweh Beysolow II\n• 오후 8:00 - 파트너 키노트: 0G Labs CEO Michael Heinrich\n• 오후 8:15 - 패널: 한국의 LP와 유동성 분배\n• 오후 8:35 이후 - 자유 네트워킹 및 현장 인터뷰 촬영\n• 오후 10:00 - 행사 종료\n\n## 주최사 소개\n\nTurtle은 자산 발행사와 432,000명 이상의 검증된 온체인 LP 네트워크를 연결하는 유동성 분배 프로토콜입니다. 딜 소싱, 실사, 인센티브 분배, 빌링 및 LP 관계 관리까지 하나의 통합 플랫폼에서 지원하며, 모든 과정은 온체인에서 검증할 수 있습니다.\n\nTurtle Group의 일원인 Lunar Strategy는 2019년부터 400개 이상의 프로젝트와 함께해 온 크립토 성장 에이전시로, 토큰 출시부터 생태계 캠페인까지 다양한 프로젝트의 성장을 지원해 왔습니다.\n\n파트너 소개\nBond는 AI 에이전트를 위해 구축된 최초의 DeFi 슈퍼앱으로, 트레이딩, 렌딩, 결제를 하나의 플랫폼에서 제공하며 0G에서 출시되었습니다.\n0G Labs는 탈중앙화 AI를 위한 기반 Layer 1을 구축하고 있으며, 3억 2,500만 달러의 투자를 유치하고 크립토 업계에서 가장 빠르게 성장하는 생태계 중 하나를 만들어가고 있습니다.\n\nCredi는 우량 중소기업 매출채권을 토큰화하여 DeFi 유동성과 실물자산 수익을 연결하고, 프라이빗 크레딧을 온체인으로 가져오고 있습니다.\n\n본 행사는 루프탑 데크에서 진행되며, 키노트와 패널 세션은 실내 라운지에서 진행됩니다.\nKBW가 시작되기 전, 가장 먼저 함께할 자리입니다.\n\n참석 인원은 제한되어 있으며, 모든 신청은 검토 후 승인됩니다. 아래에서 등록하여 자리를 신청해 주세요.\n\n본 행사에서는 사진 및 영상 촬영이 진행됩니다. 행사 등록 후 참석 승인을 받으시면, 행사 관련 콘텐츠 및 향후 마케팅 자료에 본인의 모습이 포함될 수 있음에 동의하는 것으로 간주됩니다.",
-    "startDate": "2026-09-29T09:30:00.000Z",
-    "endDate": "2026-09-29T13:00:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "L7 Gangnam, 415 Teheran-ro, Gangnam District, Seoul, South Korea",
-    "url": "https://luma.com/lunar-wbcs",
-    "coverImage": "/events/luma-recover-w3vliquidityeven-6b4e3c17.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "hosts": [
-      "Tim Haldorsson",
-      "Luka Mrkic",
-      "Turtle XYZ",
-      "0G Foundation"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Seoul",
-    "neighborhood": "Teheran-ro",
-    "slug": "let",
-    "registrationUrl": "https://luma.com/lunar-wbcs",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "L7 Gangnam",
-    "streetAddress": "415 Teheran-ro, Gangnam District",
-    "addressLocality": "Seoul",
-    "addressRegion": "Seoul",
-    "addressCountry": "KR",
-    "coordinates": {
-      "latitude": 37.5056691,
-      "longitude": 127.05162759999999
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "Lunar Strategy",
-      "url": "https://www.lunarstrategy.com/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/lunar-wbcs",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/lunar-wbcs",
-      "eventId": "evt-gAQIDxiLKENVEbq",
-      "fetchedAt": "2026-09-19T23:29:53.620Z",
       "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
@@ -21088,10 +20913,7 @@
     "url": "https://www.meetup.com/lfdt-sf/events/316118514/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Pereowei Daniel"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "mu-316118522",
@@ -28239,7 +28061,7 @@
     "country": "us",
     "location": "San Francisco, us",
     "url": "https://www.meetup.com/renegadephilosophers/events/317040834/",
-    "coverImage": "/events/mu-317040834-4be0dfe6.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -28323,7 +28145,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261029%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261029T113549Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=71ad15b7d051cb69a36ec50aeae0ebd28f7680ed564c2a0ae1efdcbfea4ffe18",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261029%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261029T193840Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=c3ae2c8bd568447880f2d85c3a2117fa593ec95ae7eefece0c5f05165ca139e8",
     "month": "November 2026"
   },
   {
@@ -29215,7 +29037,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-phoenix/events/317156432/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317156432-be7e6ca8.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -29369,7 +29191,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-sf/events/317156445/",
-    "coverImage": "/events/mu-317156445-8b529014.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -29677,7 +29499,10 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/317064975/",
     "coverImage": "/events/mu-317064975-0dc78544.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-evt-1YkeGIX5PJN3Q9d",
@@ -29718,6 +29543,62 @@
     "location": "San Francisco, United States",
     "url": "https://lu.ma/fireworks-8kmc",
     "coverImage": "/events/luma-evt-tgmkyfmpybz5oye-757afd3a.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-vR5UHL9mEa8laQz",
+    "name": "Jardím botânico Web Summit Meetup 🌼",
+    "description": "",
+    "startDate": "2026-11-01T11:00:00.000Z",
+    "endDate": "2026-11-01T13:00:00.000Z",
+    "city": "Lisboa",
+    "country": "Portugal",
+    "location": "Lisboa, Portugal",
+    "url": "https://lu.ma/eg4wifpt",
+    "coverImage": "/events/luma-evt-vr5uhl9mea8laqz-9f24f1c2.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-z557BOgQbABOa7U",
+    "name": "Little Spoon x Move With Justine Strong As A Mother",
+    "description": "",
+    "startDate": "2026-11-01T16:00:00.000Z",
+    "endDate": "2026-11-01T18:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/8k041f0o",
+    "coverImage": "/events/luma-evt-z557bogqbaboa7u-ab8649f7.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-ifm5CeYHB3RGpIE",
+    "name": "MIDGUARD SYSTEMS GOES SILICON VALLEY!",
+    "description": "",
+    "startDate": "2026-11-03T01:00:00.000Z",
+    "endDate": "2026-11-03T03:30:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/si2bnikk",
+    "coverImage": "/events/luma-evt-ifm5ceyhb3rgpie-3dcfbbd1.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-ldKiXSyteaQecmq",
+    "name": "Plug and Play Taiwan x Silicon Valley Founders & Investors Happy Hour",
+    "description": "",
+    "startDate": "2026-11-03T01:00:00.000Z",
+    "endDate": "2026-11-03T03:30:00.000Z",
+    "city": "Palo Alto",
+    "country": "United States",
+    "location": "Palo Alto, United States",
+    "url": "https://lu.ma/kjjnwjny",
+    "coverImage": "/events/luma-evt-ldkixsyteaqecmq-789b3ece.webp",
     "source": "luma",
     "month": "November 2026"
   }

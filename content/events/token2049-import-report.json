@@ -1,31 +1,22 @@
 {
-  "checkedAt": "2026-10-29T11:32:18.146Z",
+  "checkedAt": "2026-10-29T19:35:15.053Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
-    "https://luma.com/2049events": 4,
+    "https://luma.com/2049events": 3,
     "https://luma.com/singaporesideevents": 0,
     "https://week.token2049.com": 601,
     "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view": 600,
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 240,
+    "existing": 239,
     "excluded": 370,
     "needs-review": 39
   },
   "importedTotal": 257,
   "added": [],
   "receipts": [
-    {
-      "url": "https://luma.com/tw82xsrs",
-      "name": "Get Down For Real",
-      "sources": [
-        "https://luma.com/2049events"
-      ],
-      "status": "existing",
-      "slug": "get-down-for"
-    },
     {
       "url": "https://luma.com/fazra9qw",
       "name": "Plug and Play APAC Summit",

@@ -359,29 +359,6 @@
     }
   },
   {
-    "name": "Ethereum Korea One 2026",
-    "url": "https://one.ethereumkorea.io",
-    "emails": [
-      "contact@ethereumkorea.io"
-    ],
-    "event": {
-      "id": "premier-ethkorea",
-      "slug": "ethereum-korea-one",
-      "name": "Ethereum Korea One 2026",
-      "description": "Korea's Ethereum community conference running alongside Korea Blockchain Week in Seoul.",
-      "startDate": "2026-09-28T09:00:00.000Z",
-      "endDate": "2026-09-29T18:00:00.000Z",
-      "city": "Seoul",
-      "country": "South Korea",
-      "location": "Seoul, South Korea",
-      "url": "https://one.ethereumkorea.io",
-      "website": "https://one.ethereumkorea.io",
-      "coverImage": "/events/ethereum.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
     "name": "P.S. Lisbon 2026",
     "url": "https://input.global",
     "emails": [
@@ -909,48 +886,6 @@
       "hello@staatslabor.ch",
       "u003ehello@staatslabor.ch"
     ]
-  },
-  {
-    "name": "Unlocking Velocity in Trade to Payments: Digitisation, AI Agents & Stablecoins",
-    "url": "https://lu.ma/lwtff9cg",
-    "emails": [
-      "lalla@helloagentic.ai"
-    ],
-    "event": {
-      "id": "luma-evt-3bObdUAZuPjlaCr",
-      "name": "Unlocking Velocity in Trade to Payments: Digitisation, AI Agents & Stablecoins",
-      "description": "",
-      "startDate": "2026-09-29T12:00:00.000Z",
-      "endDate": "2026-09-29T14:00:00.000Z",
-      "city": "Miami Beach",
-      "country": "United States",
-      "location": "Miami Beach, United States",
-      "url": "https://lu.ma/lwtff9cg",
-      "coverImage": "https://images.lumacdn.com/uploads/qe/8761dba4-bdbc-4e5c-9062-a82c2f377a1e.png",
-      "source": "luma",
-      "month": "September 2026"
-    }
-  },
-  {
-    "name": "Blockchain & Stablecoins are Rebuilding the Payment Stack",
-    "url": "https://lu.ma/tbw_sibos_2026",
-    "emails": [
-      "contact@thebigwhale.io"
-    ],
-    "event": {
-      "id": "luma-evt-ewHxVw9g0DR0oQB",
-      "name": "Blockchain & Stablecoins are Rebuilding the Payment Stack",
-      "description": "",
-      "startDate": "2026-09-29T12:30:00.000Z",
-      "endDate": "2026-09-29T15:00:00.000Z",
-      "city": "Miami Beach",
-      "country": "United States",
-      "location": "Miami Beach, United States",
-      "url": "https://lu.ma/tbw_sibos_2026",
-      "coverImage": "https://images.lumacdn.com/uploads/yx/6f17cf85-68d9-42f2-8636-d5d2e98aa859.png",
-      "source": "luma",
-      "month": "September 2026"
-    }
   },
   {
     "name": "CryptoMondays Wall Street, Fort Lauderdale and Miami Chapters come together to bring you the Official Blockchain Futurist Conference Kickoff",
