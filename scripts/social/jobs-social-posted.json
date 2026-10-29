@@ -72347,6 +72347,38 @@
       "postId": "18127946035862641",
       "permalink": "https://www.threads.com/@hashtagweb3/post/DfE6vSHkcfZ",
       "account": "hashtagweb3"
+    },
+    {
+      "slug": "eng110",
+      "company": "Jane Street",
+      "title": "MacOS Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-10-29T11:37:55.722Z",
+      "expectedText": "Jane Street is hiring MacOS Engineer: https://hashtagweb3.com/eng110/bsky?og=7",
+      "snapshot": {
+        "id": "8884625002",
+        "title": "MacOS Engineer",
+        "company": "Jane Street",
+        "link": "https://www.janestreet.com/join-jane-street/apply/8884625002?gh_jid=8884625002",
+        "date": "2026-10-18T22:10:09-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Jane Street [janestreet]",
+        "location": "Hong Kong",
+        "department": "IT and Systems Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng110"
+      },
+      "payload": {
+        "text": "Jane Street is hiring MacOS Engineer: https://hashtagweb3.com/eng110/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/eng110/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/eng110.png?v=7",
+        "company": "Jane Street",
+        "title": "MacOS Engineer",
+        "description": "Join Jane Street as MacOS Engineer. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "eeccfc24-e1d2-450d-99d6-797325435af5",
+      "verification": "creating"
     }
   ]
 }
