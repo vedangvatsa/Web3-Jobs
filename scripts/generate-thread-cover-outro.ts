@@ -9,112 +9,132 @@ const ROOT = path.resolve(__dirname, '..');
 const OUT_DIR = path.join(ROOT, 'public/images/social');
 const ARTIFACT_DIR = '/Users/vedang/.gemini/antigravity/brain/d8e0523d-8c6b-4440-8112-6fd00000dadf';
 
+const matrixFiles = [
+  'where-to-work-cost-vs-speed.png',
+  'where-to-live-safely-cost-vs-safety.png',
+  'city-walkability-vs-cost.png',
+  'the-nomad-value-index.png',
+  'where-to-live-digital-nomad.png',
+  'global-passports-mobility-vs-cost.png',
+  'digital-nomad-visas-tax-vs-income.png',
+  'digital-nomad-visas-income-vs-duration.png',
+  'citizenship-by-investment-capital-vs-speed.png',
+  'where-to-build-web3.png'
+];
+
+const matrixB64 = matrixFiles.map(f => {
+  const p = path.join(OUT_DIR, f);
+  return fs.readFileSync(p).toString('base64');
+});
+
+const matrixMeta = [
+  { num: '01', title: 'Living Cost vs Internet Speed', tag: 'SPEED', color: '#2563EB', bg: '#EFF6FF', sweet: 'Chiang Mai · Da Nang · Bucharest', axis: 'Speed: 94–577 Mbps · Cost: $850–$6.1k' },
+  { num: '02', title: 'Living Cost vs Safety Score', tag: 'SAFETY', color: '#059669', bg: '#ECFDF5', sweet: 'Taipei · Prague · Valencia', axis: 'Safety Index: 45–86 · Cost: $850–$6.1k' },
+  { num: '03', title: 'Walkability vs Living Cost', tag: 'LIFESTYLE', color: '#7C3AED', bg: '#F5F3FF', sweet: 'Prague · Budapest · Buenos Aires', axis: 'Walk Score: 40–96 · Cost: $850–$6.1k' },
+  { num: '04', title: 'The Nomad Value Index', tag: 'VALUE', color: '#D97706', bg: '#FFFBEB', sweet: 'Chiang Mai · Da Nang · Lisbon', axis: 'Composite Value: 35–94 · Cost: $850–$6.1k' },
+  { num: '05', title: 'Digital Nomad Hubs: Quality vs Cost', tag: 'HUBS', color: '#0284C7', bg: '#F0F9FF', sweet: 'Lisbon · Barcelona · Prague · Taipei', axis: 'Quality Score: 4.0–9.2 · Cost: $850–$6.1k' },
+  { num: '06', title: 'Global Passports: Mobility vs Cost', tag: 'MOBILITY', color: '#E11D48', bg: '#FFF1F2', sweet: 'Dominica · St. Lucia · Portugal', axis: 'Visa-Free: 140–190 · Capital: $100k–€750k' },
+  { num: '07', title: 'Nomad Visas: Tax vs Income', tag: 'TAXATION', color: '#0D9488', bg: '#F0FDFA', sweet: 'Costa Rica · Dubai · Croatia (0% Tax)', axis: 'Tax Rate: 0%–35% · Income: $0–$10k/mo' },
+  { num: '08', title: 'Nomad Visas: Duration vs Income', tag: 'RUNWAY', color: '#4F46E5', bg: '#EEF2FF', sweet: 'Spain · Portugal · Croatia (Long Stay)', axis: 'Stay: 6–60 months · Income: $0–$10k/mo' },
+  { num: '09', title: 'Citizenship: Capital vs Speed', tag: 'CITIZENSHIP', color: '#9333EA', bg: '#FAF5FF', sweet: 'Vanuatu · St. Kitts · Dominica (2-3 mo)', axis: 'Process: 2–36 mos · Capital: $100k–€750k' },
+  { num: '10', title: 'Where to Build Web3: Law vs Talent', tag: 'WEB3', color: '#EA580C', bg: '#FFF7ED', sweet: 'Dubai (VARA) · Singapore · Zurich', axis: 'Frameworks: VARA, MiCA, MAS · High Dev Density' },
+];
+
 function buildCoverSvg(): string {
-  return `<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg" style="background:#FFFFFF; font-family:system-ui,-apple-system,'SF Pro Display','Segoe UI',Roboto,Helvetica,sans-serif;">
-  <defs>
-    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="100%" stop-color="#F9FAFB"/>
-    </linearGradient>
-    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
-      <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#000000" flood-opacity="0.04"/>
-    </filter>
-  </defs>
-
+  let cards = '';
+  
+  for (let i = 0; i < 10; i++) {
+    const isLeft = i < 5;
+    const colX = isLeft ? 50 : 615;
+    const rowIdx = isLeft ? i : i - 5;
+    const rowY = 220 + rowIdx * (165 + 13);
+    const m = matrixMeta[i];
+    const b64 = matrixB64[i];
+    
+    cards += `
+    <g transform="translate(${colX}, ${rowY})">
+      <!-- Card Container with subtle shadow border -->
+      <rect width="535" height="165" rx="16" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+      <rect x="0" y="0" width="6" height="165" rx="3" fill="${m.color}"/>
+      
+      <!-- Mini Real Matrix Thumbnail -->
+      <g transform="translate(16, 15)">
+        <rect width="135" height="135" rx="10" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.2"/>
+        <clipPath id="clip-cover-${i}">
+          <rect width="135" height="135" rx="10"/>
+        </clipPath>
+        <image href="data:image/png;base64,${b64}" width="135" height="135" clip-path="url(#clip-cover-${i})" preserveAspectRatio="xMidYMid slice"/>
+      </g>
+      
+      <!-- Content Details -->
+      <g transform="translate(168, 18)">
+        <!-- Badge row -->
+        <rect x="0" y="0" width="28" height="20" rx="4" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1"/>
+        <text x="14" y="14" text-anchor="middle" font-size="11" font-weight="700" fill="#475569">${m.num}</text>
+        
+        <rect x="34" y="0" width="85" height="20" rx="4" fill="${m.bg}" stroke="${m.color}" stroke-opacity="0.3" stroke-width="1"/>
+        <text x="76" y="14" text-anchor="middle" font-size="10" font-weight="700" fill="${m.color}" letter-spacing="0.5">${m.tag}</text>
+        
+        <!-- Title -->
+        <text x="0" y="47" font-size="16" font-weight="700" fill="#0F172A">${m.title}</text>
+        
+        <!-- Sweet spot / top picks -->
+        <text x="0" y="73" font-size="13" font-weight="600" fill="#334155"><tspan fill="${m.color}">★</tspan> ${m.sweet}</text>
+        
+        <!-- Axis specs -->
+        <text x="0" y="97" font-size="11.5" font-weight="500" fill="#64748B">${m.axis}</text>
+        
+        <!-- View matrix prompt -->
+        <g transform="translate(0, 110)">
+          <rect width="114" height="20" rx="10" fill="${m.bg}"/>
+          <text x="57" y="14" text-anchor="middle" font-size="10.5" font-weight="700" fill="${m.color}">Tweet #${i + 2} in Thread ↓</text>
+        </g>
+      </g>
+    </g>`;
+  }
+  
+  return `<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg" style="background:#F8FAFC; font-family:system-ui,-apple-system,'SF Pro Display','Segoe UI',Roboto,Helvetica,sans-serif;">
   <!-- Background Canvas -->
-  <rect width="1200" height="1200" fill="#FFFFFF"/>
-  <rect x="30" y="30" width="1140" height="1140" rx="28" fill="none" stroke="#F3F4F6" stroke-width="2"/>
+  <rect width="1200" height="1200" fill="#F8FAFC"/>
+  <rect x="24" y="24" width="1152" height="1152" rx="24" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
 
-  <!-- Top Pill Badge -->
-  <g transform="translate(600, 110)">
-    <rect x="-170" y="-18" width="340" height="36" rx="18" fill="#F3F4F6" stroke="#E5E7EB" stroke-width="1"/>
-    <text x="0" y="5" text-anchor="middle" font-size="13" font-weight="700" fill="#374151" letter-spacing="1.2">HASHTAG WEB3 RESEARCH · 2026</text>
+  <!-- Top Category / Issuer Pill -->
+  <g transform="translate(600, 58)">
+    <rect x="-175" y="-14" width="350" height="28" rx="14" fill="#EEF2FF" stroke="#C7D2FE" stroke-width="1"/>
+    <text x="0" y="4" text-anchor="middle" font-size="11.5" font-weight="700" fill="#4338CA" letter-spacing="1.2">HASHTAG WEB3 RESEARCH · 2026 BENCHMARK</text>
   </g>
 
   <!-- Main Headline -->
-  <text x="600" y="210" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="52" font-weight="700" fill="#111827">Global Nomads, Visas &amp; Web3</text>
-  <text x="600" y="265" text-anchor="middle" font-size="22" font-weight="500" fill="#4B5563">10 Data-Backed 2×2 Matrix Charts for Remote Builders</text>
+  <text x="600" y="115" text-anchor="middle" font-size="38" font-weight="800" fill="#0F172A" letter-spacing="-0.5">The Remote Builder's Decision Atlas</text>
+  <text x="600" y="148" text-anchor="middle" font-size="16.5" font-weight="500" fill="#475569">10 Data-Backed 2×2 Decision Matrices Across 100+ Cities, 71 Visas &amp; Web3 Tech Hubs</text>
 
-  <!-- 4 Core Themes (2x2 Visual Grid) -->
-  <g transform="translate(100, 320)">
-    <!-- Card 1: Cities & Speed -->
-    <g transform="translate(0, 0)">
-      <rect width="480" height="340" rx="20" fill="url(#cardGrad)" stroke="#E5E7EB" stroke-width="1.5" filter="url(#shadow)"/>
-      <rect x="25" y="25" width="70" height="32" rx="16" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1"/>
-      <text x="60" y="46" text-anchor="middle" font-size="11" font-weight="700" fill="#1D4ED8" letter-spacing="0.5">SPEED</text>
-      <text x="110" y="47" font-size="19" font-weight="700" fill="#111827">Living Cost vs Internet Speed</text>
-      <text x="28" y="82" font-size="14" font-weight="500" fill="#6B7280">Gigabit fiber vs monthly burn across 19 global hubs</text>
-      
-      <!-- Mini Visual Representation -->
-      <line x1="60" y1="210" x2="420" y2="210" stroke="#CBD5E1" stroke-width="2" stroke-dasharray="4 4"/>
-      <line x1="240" y1="120" x2="240" y2="300" stroke="#CBD5E1" stroke-width="2" stroke-dasharray="4 4"/>
-      <circle cx="340" cy="160" r="14" fill="#3B82F6"/>
-      <text x="362" y="165" font-size="13" font-weight="600" fill="#1F2937">Chiang Mai · Da Nang</text>
-      <circle cx="140" cy="250" r="14" fill="#EF4444"/>
-      <text x="162" y="255" font-size="13" font-weight="600" fill="#1F2937">San Francisco · NYC</text>
+  <!-- 4 Stats / Feature Pills -->
+  <g transform="translate(600, 185)">
+    <g transform="translate(-360, 0)">
+      <rect x="-70" y="-12" width="140" height="24" rx="12" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
+      <text x="0" y="4" text-anchor="middle" font-size="11" font-weight="700" fill="#334155">100+ GLOBAL CITIES</text>
     </g>
-
-    <!-- Card 2: Cost vs Safety -->
-    <g transform="translate(520, 0)">
-      <rect width="480" height="340" rx="20" fill="url(#cardGrad)" stroke="#E5E7EB" stroke-width="1.5" filter="url(#shadow)"/>
-      <rect x="25" y="25" width="74" height="32" rx="16" fill="#F0FDF4" stroke="#BBF7D0" stroke-width="1"/>
-      <text x="62" y="46" text-anchor="middle" font-size="11" font-weight="700" fill="#15803D" letter-spacing="0.5">SAFETY</text>
-      <text x="114" y="47" font-size="19" font-weight="700" fill="#111827">Living Cost vs Safety Index</text>
-      <text x="28" y="82" font-size="14" font-weight="500" fill="#6B7280">Ultra-safe destinations ranked by monthly expenses</text>
-
-      <!-- Mini Visual Representation -->
-      <line x1="60" y1="210" x2="420" y2="210" stroke="#CBD5E1" stroke-width="2" stroke-dasharray="4 4"/>
-      <line x1="240" y1="120" x2="240" y2="300" stroke="#CBD5E1" stroke-width="2" stroke-dasharray="4 4"/>
-      <circle cx="350" cy="150" r="14" fill="#10B981"/>
-      <text x="372" y="155" font-size="13" font-weight="600" fill="#1F2937">Taipei · Prague</text>
-      <circle cx="150" cy="150" r="14" fill="#6366F1"/>
-      <text x="172" y="155" font-size="13" font-weight="600" fill="#1F2937">Tokyo · Singapore</text>
+    <g transform="translate(-120, 0)">
+      <rect x="-70" y="-12" width="140" height="24" rx="12" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
+      <text x="0" y="4" text-anchor="middle" font-size="11" font-weight="700" fill="#334155">71 NOMAD VISAS</text>
     </g>
-
-    <!-- Card 3: Visas & Tax -->
-    <g transform="translate(0, 380)">
-      <rect width="480" height="340" rx="20" fill="url(#cardGrad)" stroke="#E5E7EB" stroke-width="1.5" filter="url(#shadow)"/>
-      <rect x="25" y="25" width="66" height="32" rx="16" fill="#FEF3C7" stroke="#FDE68A" stroke-width="1"/>
-      <text x="58" y="46" text-anchor="middle" font-size="11" font-weight="700" fill="#B45309" letter-spacing="0.5">VISAS</text>
-      <text x="106" y="47" font-size="19" font-weight="700" fill="#111827">Nomad Visas: Tax vs Income</text>
-      <text x="28" y="82" font-size="14" font-weight="500" fill="#6B7280">Statutory tax exemptions vs minimum salary thresholds</text>
-
-      <!-- Mini Visual Representation -->
-      <line x1="60" y1="210" x2="420" y2="210" stroke="#CBD5E1" stroke-width="2" stroke-dasharray="4 4"/>
-      <line x1="240" y1="120" x2="240" y2="300" stroke="#CBD5E1" stroke-width="2" stroke-dasharray="4 4"/>
-      <circle cx="340" cy="160" r="14" fill="#F59E0B"/>
-      <text x="362" y="165" font-size="13" font-weight="600" fill="#1F2937">0% Tax Programs</text>
-      <circle cx="150" cy="250" r="14" fill="#8B5CF6"/>
-      <text x="172" y="255" font-size="13" font-weight="600" fill="#1F2937">European Standard</text>
+    <g transform="translate(120, 0)">
+      <rect x="-70" y="-12" width="140" height="24" rx="12" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
+      <text x="0" y="4" text-anchor="middle" font-size="11" font-weight="700" fill="#334155">15 CBI PROGRAMS</text>
     </g>
-
-    <!-- Card 4: Passports & CBI -->
-    <g transform="translate(520, 380)">
-      <rect width="480" height="340" rx="20" fill="url(#cardGrad)" stroke="#E5E7EB" stroke-width="1.5" filter="url(#shadow)"/>
-      <rect x="25" y="25" width="84" height="32" rx="16" fill="#FCE7F3" stroke="#FBCFE8" stroke-width="1"/>
-      <text x="67" y="46" text-anchor="middle" font-size="11" font-weight="700" fill="#BE185D" letter-spacing="0.5">GLOBAL</text>
-      <text x="124" y="47" font-size="19" font-weight="700" fill="#111827">Passports &amp; Web3 Cities</text>
-      <text x="28" y="82" font-size="14" font-weight="500" fill="#6B7280">CBI speed &amp; cost vs regulatory clarity for crypto developers</text>
-
-      <!-- Mini Visual Representation -->
-      <line x1="60" y1="210" x2="420" y2="210" stroke="#CBD5E1" stroke-width="2" stroke-dasharray="4 4"/>
-      <line x1="240" y1="120" x2="240" y2="300" stroke="#CBD5E1" stroke-width="2" stroke-dasharray="4 4"/>
-      <circle cx="350" cy="170" r="14" fill="#EC4899"/>
-      <text x="372" y="175" font-size="13" font-weight="600" fill="#1F2937">Vanuatu · Caribbean</text>
-      <circle cx="160" cy="150" r="14" fill="#06B6D4"/>
-      <text x="182" y="155" font-size="13" font-weight="600" fill="#1F2937">Dubai · Singapore</text>
+    <g transform="translate(360, 0)">
+      <rect x="-70" y="-12" width="140" height="24" rx="12" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
+      <text x="0" y="4" text-anchor="middle" font-size="11" font-weight="700" fill="#334155">10 2×2 FRAMEWORKS</text>
     </g>
   </g>
 
-  <!-- Bottom Stats Pill Banner -->
-  <g transform="translate(600, 1070)">
-    <rect x="-380" y="-22" width="760" height="44" rx="22" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
-    <text x="0" y="6" text-anchor="middle" font-size="15" font-weight="600" fill="#334155">100+ CITIES · 71 DIGITAL NOMAD VISAS · 15 CBI PROGRAMS</text>
-  </g>
+  <!-- Cards Grid (5 left, 5 right) -->
+  ${cards}
 
-  <!-- Footer Footnotes & Watermark -->
-  <text x="45" y="1165" font-size="13" font-weight="400" fill="#9CA3AF">Sources: Hashtag Web3 Index, Official Visa Registries &amp; Numbeo Data.</text>
-  <text x="1155" y="1165" text-anchor="end" font-size="15" class="meta"><tspan fill="#4B5563" font-weight="500">Find Web3 Jobs at </tspan><tspan fill="#111827" font-weight="700">hashtagweb3.com</tspan></text>
+  <!-- Footer Divider & Meta -->
+  <line x1="50" y1="1135" x2="1150" y2="1135" stroke="#E2E8F0" stroke-width="1"/>
+  <text x="50" y="1165" font-size="13" font-weight="500" fill="#64748B">Sources: Hashtag Web3 Index, Official Visa Registries &amp; Numbeo Data.</text>
+  <text x="1150" y="1165" text-anchor="end" font-size="14"><tspan fill="#475569" font-weight="500">Find Web3 Jobs at </tspan><tspan fill="#0F172A" font-weight="700">hashtagweb3.com</tspan></text>
 </svg>`;
 }
 
@@ -165,11 +185,11 @@ function buildOutroSvg(): string {
     <!-- Resource 2: Nomad Visas -->
     <g transform="translate(520, 0)">
       <rect width="480" height="340" rx="24" fill="url(#cardGrad2)" stroke="#E2E8F0" stroke-width="2" filter="url(#shadow2)"/>
-      <rect x="35" y="35" width="76" height="32" rx="16" fill="#F0FDF4" stroke="#BBF7D0" stroke-width="1"/>
-      <text x="73" y="56" text-anchor="middle" font-size="12" font-weight="700" fill="#15803D">VISAS</text>
-      <text x="126" y="58" font-size="24" font-weight="700" fill="#0F172A">Nomad Visa Guide</text>
+      <rect x="35" y="35" width="70" height="32" rx="16" fill="#F0FDF4" stroke="#BBF7D0" stroke-width="1"/>
+      <text x="70" y="56" text-anchor="middle" font-size="12" font-weight="700" fill="#15803D">VISAS</text>
+      <text x="120" y="58" font-size="24" font-weight="700" fill="#0F172A">Nomad Visa Guide</text>
       <text x="35" y="100" font-size="15" font-weight="600" fill="#16A34A">hashtagweb3.com/visas</text>
-      
+
       <text x="35" y="150" font-size="15" font-weight="500" fill="#334155">
         <tspan x="35" dy="0">• 71 sovereign remote work visa programs</tspan>
         <tspan x="35" dy="30">• Official statutory monthly income thresholds</tspan>
@@ -178,14 +198,14 @@ function buildOutroSvg(): string {
       </text>
     </g>
 
-    <!-- Resource 3: Citizenship & CBI -->
+    <!-- Resource 3: Passports & Citizenship -->
     <g transform="translate(0, 380)">
       <rect width="480" height="340" rx="24" fill="url(#cardGrad2)" stroke="#E2E8F0" stroke-width="2" filter="url(#shadow2)"/>
-      <rect x="35" y="35" width="94" height="32" rx="16" fill="#FFFBEB" stroke="#FDE68A" stroke-width="1"/>
-      <text x="82" y="56" text-anchor="middle" font-size="12" font-weight="700" fill="#B45309">PASSPORTS</text>
-      <text x="144" y="58" font-size="24" font-weight="700" fill="#0F172A">Citizenship Guide</text>
+      <rect x="35" y="35" width="105" height="32" rx="16" fill="#FEF3C7" stroke="#FDE68A" stroke-width="1"/>
+      <text x="87" y="56" text-anchor="middle" font-size="12" font-weight="700" fill="#B45309">PASSPORTS</text>
+      <text x="155" y="58" font-size="24" font-weight="700" fill="#0F172A">Citizenship Guide</text>
       <text x="35" y="100" font-size="15" font-weight="600" fill="#D97706">hashtagweb3.com/citizenship</text>
-      
+
       <text x="35" y="150" font-size="15" font-weight="500" fill="#334155">
         <tspan x="35" dy="0">• Statutory Citizenship by Investment routes</tspan>
         <tspan x="35" dy="30">• Minimum capital vs government fee schedules</tspan>
@@ -194,14 +214,14 @@ function buildOutroSvg(): string {
       </text>
     </g>
 
-    <!-- Resource 4: Web3 Jobs -->
+    <!-- Resource 4: Web3 Job Board -->
     <g transform="translate(520, 380)">
       <rect width="480" height="340" rx="24" fill="url(#cardGrad2)" stroke="#E2E8F0" stroke-width="2" filter="url(#shadow2)"/>
-      <rect x="35" y="35" width="80" height="32" rx="16" fill="#FAF5FF" stroke="#E9D5FF" stroke-width="1"/>
-      <text x="75" y="56" text-anchor="middle" font-size="12" font-weight="700" fill="#7E22CE">CAREERS</text>
-      <text x="130" y="58" font-size="24" font-weight="700" fill="#0F172A">Web3 Job Board</text>
+      <rect x="35" y="35" width="90" height="32" rx="16" fill="#FDF4FF" stroke="#F0ABFC" stroke-width="1"/>
+      <text x="80" y="56" text-anchor="middle" font-size="12" font-weight="700" fill="#A21CAF">CAREERS</text>
+      <text x="140" y="58" font-size="24" font-weight="700" fill="#0F172A">Web3 Job Board</text>
       <text x="35" y="100" font-size="15" font-weight="600" fill="#9333EA">hashtagweb3.com/jobs</text>
-      
+
       <text x="35" y="150" font-size="15" font-weight="500" fill="#334155">
         <tspan x="35" dy="0">• Thousands of verified remote Web3 jobs</tspan>
         <tspan x="35" dy="30">• Smart contracts, frontend dApps, &amp; engineering</tspan>
@@ -211,41 +231,55 @@ function buildOutroSvg(): string {
     </g>
   </g>
 
-  <!-- Bottom CTA Pill Banner -->
+  <!-- Bottom CTA Pill -->
   <g transform="translate(600, 1070)">
-    <rect x="-350" y="-22" width="700" height="44" rx="22" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
-    <text x="0" y="6" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF" letter-spacing="0.5">OPEN-ACCESS REMOTE WORK INTELLIGENCE · HASHTAGWEB3.COM</text>
+    <rect x="-350" y="-24" width="700" height="48" rx="24" fill="#0F172A"/>
+    <text x="0" y="7" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF" letter-spacing="1">OPEN-ACCESS REMOTE WORK INTELLIGENCE · HASHTAGWEB3.COM</text>
   </g>
 
   <!-- Footer Footnotes & Watermark -->
   <text x="45" y="1165" font-size="13" font-weight="400" fill="#9CA3AF">Free for all remote workers, digital nomads and builders.</text>
-  <text x="1155" y="1165" text-anchor="end" font-size="15" class="meta"><tspan fill="#4B5563" font-weight="500">Find Web3 Jobs at </tspan><tspan fill="#111827" font-weight="700">hashtagweb3.com</tspan></text>
+  <text x="1155" y="1165" text-anchor="end" font-size="15"><tspan fill="#4B5563" font-weight="500">Find Web3 Jobs at </tspan><tspan fill="#111827" font-weight="700">hashtagweb3.com</tspan></text>
 </svg>`;
 }
 
-async function renderImage(id: string, svg: string) {
-  const svgPath = path.join(OUT_DIR, `${id}.svg`);
-  const pngPath = path.join(OUT_DIR, `${id}.png`);
-
-  fs.writeFileSync(svgPath, svg, 'utf8');
-
-  const resvg = new Resvg(svg, { fitTo: { mode: 'width', value: 1200 } });
-  const pngBuffer = resvg.render().asPng();
-  fs.writeFileSync(pngPath, pngBuffer);
-
-  if (fs.existsSync(ARTIFACT_DIR)) {
-    fs.writeFileSync(path.join(ARTIFACT_DIR, `${id}.svg`), svg, 'utf8');
-    fs.writeFileSync(path.join(ARTIFACT_DIR, `${id}.png`), pngBuffer);
-  }
-
-  console.log(`Generated: ${id}.png (${(pngBuffer.length / 1024).toFixed(1)} KB) and .svg`);
-}
-
 async function main() {
-  console.log('[generate-thread-cover-outro] Generating clean Cover & Outro visuals...');
-  await renderImage('thread-cover-matrices', buildCoverSvg());
-  await renderImage('thread-outro-resources', buildOutroSvg());
-  console.log('[generate-thread-cover-outro] Done!');
+  console.log('Rendering high-fidelity thread cover and outro graphics...');
+  
+  // 1. Cover
+  const coverSvg = buildCoverSvg();
+  const coverSvgPath = path.join(OUT_DIR, 'thread-cover-matrices.svg');
+  const coverPngPath = path.join(OUT_DIR, 'thread-cover-matrices.png');
+  fs.writeFileSync(coverSvgPath, coverSvg);
+  
+  const coverResvg = new Resvg(coverSvg, { fitTo: { mode: 'width', value: 1200 } });
+  const coverPng = coverResvg.render().asPng();
+  fs.writeFileSync(coverPngPath, coverPng);
+  console.log(`Saved Cover: ${coverPngPath} (${coverPng.length} bytes)`);
+
+  // Mirror Cover to artifact directory
+  fs.writeFileSync(path.join(ARTIFACT_DIR, 'thread-cover-matrices.svg'), coverSvg);
+  fs.writeFileSync(path.join(ARTIFACT_DIR, 'thread-cover-matrices.png'), coverPng);
+
+  // 2. Outro
+  const outroSvg = buildOutroSvg();
+  const outroSvgPath = path.join(OUT_DIR, 'thread-outro-resources.svg');
+  const outroPngPath = path.join(OUT_DIR, 'thread-outro-resources.png');
+  fs.writeFileSync(outroSvgPath, outroSvg);
+
+  const outroResvg = new Resvg(outroSvg, { fitTo: { mode: 'width', value: 1200 } });
+  const outroPng = outroResvg.render().asPng();
+  fs.writeFileSync(outroPngPath, outroPng);
+  console.log(`Saved Outro: ${outroPngPath} (${outroPng.length} bytes)`);
+
+  // Mirror Outro to artifact directory
+  fs.writeFileSync(path.join(ARTIFACT_DIR, 'thread-outro-resources.svg'), outroSvg);
+  fs.writeFileSync(path.join(ARTIFACT_DIR, 'thread-outro-resources.png'), outroPng);
+
+  console.log('Finished rendering thread cover and outro visuals successfully!');
 }
 
-main().catch(console.error);
+main().catch(err => {
+  console.error(err);
+  process.exit(1);
+});
