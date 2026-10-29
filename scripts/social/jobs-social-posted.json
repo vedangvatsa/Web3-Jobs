@@ -73443,7 +73443,8 @@
       },
       "account": "channel:dev",
       "attemptId": "f4d50fff-fc38-4420-a011-08bb1a5b2019",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb7b53babbe1b4973ee0aef1d67b9ca5602939f15"
     }
   ]
 }
