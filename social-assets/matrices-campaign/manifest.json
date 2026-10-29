@@ -1,0 +1,112 @@
+[
+  {
+    "index": 1,
+    "date": "2026-10-29",
+    "id": "where-to-work-cost-vs-speed",
+    "title": "Where to Work: Living Cost vs Internet Speed",
+    "image": "where-to-work-cost-vs-speed.png",
+    "xText": "Finding the sweet spot where gigabit fiber meets sub-$1.5k living costs.\n\nCompare city internet speeds, coworking density, and monthly burn rates:\nhashtagweb3.com/nomads/x",
+    "threadsText": "Finding the sweet spot where gigabit fiber meets sub-$1.5k living costs.\n\nCompare city internet speeds, coworking density, and monthly burn rates:\nhashtagweb3.com/nomads/th",
+    "linkedinText": "Finding the sweet spot where gigabit fiber meets sub-$1.5k living costs.\n\nCompare city internet speeds, coworking density, and monthly burn rates: hashtagweb3.com/nomads/li",
+    "alt": "2x2 scatter matrix comparing global cities by internet speed (Mbps) and monthly living cost. Highlights budget fiber hubs like Chiang Mai, Da Nang, Bangkok, and Bucharest alongside high-cost hubs like San Francisco and New York."
+  },
+  {
+    "index": 2,
+    "date": "2026-10-30",
+    "id": "where-to-live-safely-cost-vs-safety",
+    "title": "Where to Live: Cost of Living vs Safety Score",
+    "image": "where-to-live-safely-cost-vs-safety.png",
+    "xText": "High personal safety doesn't always require a $3,000/month budget.\n\nExplore safe, remote-friendly hubs ranked by living cost and crime index:\nhashtagweb3.com/nomads/x",
+    "threadsText": "High personal safety doesn't always require a $3,000/month budget.\n\nExplore safe, remote-friendly hubs ranked by living cost and crime index:\nhashtagweb3.com/nomads/th",
+    "linkedinText": "High personal safety doesn't always require a $3,000/month budget.\n\nExplore safe, remote-friendly hubs ranked by living cost and crime index: hashtagweb3.com/nomads/li",
+    "alt": "2x2 scatter matrix comparing 19 global cities by safety score and monthly cost of living. Highlights ultra-safe and budget-friendly destinations like Taipei, Prague, and Bucharest versus expensive hubs like Singapore, Tokyo, and Zurich."
+  },
+  {
+    "index": 3,
+    "date": "2026-10-31",
+    "id": "city-walkability-vs-cost",
+    "title": "City Walkability vs Monthly Living Cost",
+    "image": "city-walkability-vs-cost.png",
+    "xText": "Ditch the car: which global tech hubs let you walk everywhere without breaking the bank?\n\nSee full walkability scores and transit data across 50+ cities:\nhashtagweb3.com/nomads/x",
+    "threadsText": "Ditch the car: which global tech hubs let you walk everywhere without breaking the bank?\n\nSee full walkability scores and transit data across 50+ cities:\nhashtagweb3.com/nomads/th",
+    "linkedinText": "Ditch the car: which global tech hubs let you walk everywhere without breaking the bank?\n\nSee full walkability scores and transit data across 50+ cities: hashtagweb3.com/nomads/li",
+    "alt": "2x2 scatter matrix ranking international cities by pedestrian walkability score and monthly living cost. Features walkable European favorites like Valencia, Vienna, and Barcelona alongside Asian and American hubs."
+  },
+  {
+    "index": 4,
+    "date": "2026-11-01",
+    "id": "the-nomad-value-index",
+    "title": "The Nomad Value Index",
+    "image": "the-nomad-value-index.png",
+    "xText": "Quality of life vs monthly cost: where do remote builders get the highest return on lifestyle?\n\nCheck out our composite Nomad Value rankings:\nhashtagweb3.com/nomads/x",
+    "threadsText": "Quality of life vs monthly cost: where do remote builders get the highest return on lifestyle?\n\nCheck out our composite Nomad Value rankings:\nhashtagweb3.com/nomads/th",
+    "linkedinText": "Quality of life vs monthly cost: where do remote builders get the highest return on lifestyle?\n\nCheck out our composite Nomad Value rankings: hashtagweb3.com/nomads/li",
+    "alt": "2x2 scatter matrix of the Nomad Value Index mapping composite nomad quality scores against monthly expenses for digital nomads."
+  },
+  {
+    "index": 5,
+    "date": "2026-11-02",
+    "id": "where-to-live-digital-nomad",
+    "title": "Where to Live as a Digital Nomad (Cost vs Quality)",
+    "image": "where-to-live-digital-nomad.png",
+    "xText": "The ultimate digital nomad trade-off: top infrastructure vs monthly budget.\n\nFilter 100+ nomad hubs by speed, safety, climate, and community:\nhashtagweb3.com/nomads/x",
+    "threadsText": "The ultimate digital nomad trade-off: top infrastructure vs monthly budget.\n\nFilter 100+ nomad hubs by speed, safety, climate, and community:\nhashtagweb3.com/nomads/th",
+    "linkedinText": "The ultimate digital nomad trade-off: top infrastructure vs monthly budget.\n\nFilter 100+ nomad hubs by speed, safety, climate, and community: hashtagweb3.com/nomads/li",
+    "alt": "2x2 matrix evaluating premier digital nomad hubs across infrastructure quality and cost of living."
+  },
+  {
+    "index": 6,
+    "date": "2026-11-03",
+    "id": "global-passports-mobility-vs-cost",
+    "title": "Global Passports: Mobility vs Acquisition Cost",
+    "image": "global-passports-mobility-vs-cost.png",
+    "xText": "Passport power vs investment price: comparing legal CBI and Golden Visa residency routes.\n\nExplore visa-free scores and minimum capital requirements:\nhashtagweb3.com/citizenship/x",
+    "threadsText": "Passport power vs investment price: comparing legal CBI and Golden Visa residency routes.\n\nExplore visa-free scores and minimum capital requirements:\nhashtagweb3.com/citizenship/th",
+    "linkedinText": "Passport power vs investment price: comparing legal CBI and Golden Visa residency routes.\n\nExplore visa-free scores and minimum capital requirements: hashtagweb3.com/citizenship/li",
+    "alt": "2x2 scatter matrix analyzing global citizenship by investment and residency programs by visa-free travel access and required capital investment."
+  },
+  {
+    "index": 7,
+    "date": "2026-11-04",
+    "id": "digital-nomad-visas-tax-vs-income",
+    "title": "Digital Nomad Visas: Effective Tax Rate vs Income Requirement",
+    "image": "digital-nomad-visas-tax-vs-income.png",
+    "xText": "0% tax vs high salary bars: how 71 countries structure their digital nomad tax laws.\n\nFind the most tax-efficient visa for your income level:\nhashtagweb3.com/visas/x",
+    "threadsText": "0% tax vs high salary bars: how 71 countries structure their digital nomad tax laws.\n\nFind the most tax-efficient visa for your income level:\nhashtagweb3.com/visas/th",
+    "linkedinText": "0% tax vs high salary bars: how 71 countries structure their digital nomad tax laws.\n\nFind the most tax-efficient visa for your income level: hashtagweb3.com/visas/li",
+    "alt": "2x2 matrix plotting 71 national digital nomad visa policies by official statutory local tax rate and monthly income requirements."
+  },
+  {
+    "index": 8,
+    "date": "2026-11-05",
+    "id": "digital-nomad-visas-income-vs-duration",
+    "title": "Digital Nomad Visas: Income Requirement vs Visa Duration",
+    "image": "digital-nomad-visas-income-vs-duration.png",
+    "xText": "Low income thresholds vs multi-year stay lengths: which nomad visa gives you the longest runway?\n\nFilter all active programs by duration and monthly earnings:\nhashtagweb3.com/visas/x",
+    "threadsText": "Low income thresholds vs multi-year stay lengths: which nomad visa gives you the longest runway?\n\nFilter all active programs by duration and monthly earnings:\nhashtagweb3.com/visas/th",
+    "linkedinText": "Low income thresholds vs multi-year stay lengths: which nomad visa gives you the longest runway?\n\nFilter all active programs by duration and monthly earnings: hashtagweb3.com/visas/li",
+    "alt": "2x2 scatter matrix analyzing remote work visa validity durations (months/years) against required monthly qualifying income thresholds."
+  },
+  {
+    "index": 9,
+    "date": "2026-11-06",
+    "id": "citizenship-by-investment-capital-vs-speed",
+    "title": "Citizenship by Investment: Minimum Capital vs Processing Speed",
+    "image": "citizenship-by-investment-capital-vs-speed.png",
+    "xText": "From 2-month fast tracks to €750k programs: statutory CBI timelines and costs compared.\n\nSee official program breakdowns, fees, and government links:\nhashtagweb3.com/citizenship/x",
+    "threadsText": "From 2-month fast tracks to €750k programs: statutory CBI timelines and costs compared.\n\nSee official program breakdowns, fees, and government links:\nhashtagweb3.com/citizenship/th",
+    "linkedinText": "From 2-month fast tracks to €750k programs: statutory CBI timelines and costs compared.\n\nSee official program breakdowns, fees, and government links: hashtagweb3.com/citizenship/li",
+    "alt": "2x2 chart mapping official Citizenship by Investment (CBI) programs by government processing speed (months) and minimum required capital contribution."
+  },
+  {
+    "index": 10,
+    "date": "2026-11-07",
+    "id": "where-to-build-web3",
+    "title": "Where to Build Web3: Regulatory Clarity vs Dev Talent Density",
+    "image": "where-to-build-web3.png",
+    "xText": "Where is crypto actually building in 2026? Regulatory clarity vs developer density mapped.\n\nBrowse open remote and local Web3 jobs in top tech hubs:\nhashtagweb3.com/jobs/x",
+    "threadsText": "Where is crypto actually building in 2026? Regulatory clarity vs developer density mapped.\n\nBrowse open remote and local Web3 jobs in top tech hubs:\nhashtagweb3.com/jobs/th",
+    "linkedinText": "Where is crypto actually building in 2026? Regulatory clarity vs developer density mapped.\n\nBrowse open remote and local Web3 jobs in top tech hubs: hashtagweb3.com/jobs/li",
+    "alt": "2x2 scatter matrix mapping global crypto hubs by regulatory framework clarity (VARA, MiCA, MAS) and Web3 developer talent concentration."
+  }
+]
