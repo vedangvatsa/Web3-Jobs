@@ -318,5 +318,5 @@
 
   <!-- Footer Footnotes & Watermark -->
   <text x="45" y="1165" font-size="13" font-weight="400" fill="#9CA3AF" class="meta">Sources: Hashtag Web3 Digital Nomad Visa Directory (71 Countries, Oct 2026).</text>
-  <text x="1155" y="1165" text-anchor="end" font-size="15" font-weight="700" fill="#111827" class="meta">@hashtagweb3 · hashtagweb3.com</text>
+  <text x="1155" y="1165" text-anchor="end" font-size="15" class="meta"><tspan fill="#4B5563" font-weight="500">Find Web3 Jobs at </tspan><tspan fill="#111827" font-weight="700">hashtagweb3.com</tspan></text>
 </svg>

@@ -281,7 +281,7 @@ export function generateMatrixSvg(config: MatrixConfig): string {
 
   <!-- Footer Footnotes & Watermark -->
   <text x="45" y="1165" font-size="13" font-weight="400" fill="#9CA3AF" class="meta">${escapeXml(config.sourceText)}</text>
-  <text x="1155" y="1165" text-anchor="end" font-size="15" font-weight="700" fill="#111827" class="meta">@hashtagweb3 · hashtagweb3.com</text>
+  <text x="1155" y="1165" text-anchor="end" font-size="15" class="meta"><tspan fill="#4B5563" font-weight="500">Find Web3 Jobs at </tspan><tspan fill="#111827" font-weight="700">hashtagweb3.com</tspan></text>
 </svg>`;
 }
 
