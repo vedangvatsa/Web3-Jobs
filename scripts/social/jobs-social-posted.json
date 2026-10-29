@@ -70623,8 +70623,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "b3d9aac6-b623-4b8a-9bab-3b3cec9a4f58",
-      "verification": "pending",
-      "postId": "6ae2beee6ffb9bb0dcca30ff"
+      "verification": "verified",
+      "postId": "6ae2beee6ffb9bb0dcca30ff",
+      "permalink": "https://twitter.com/hashtag_web3/status/2115648613833470271"
     }
   ]
 }
