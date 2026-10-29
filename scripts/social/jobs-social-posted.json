@@ -74340,7 +74340,8 @@
       },
       "account": "channel:developers",
       "attemptId": "cbadc7b0-a1d7-4db9-921d-ca6efed9b2c2",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5eea44238aaa531926e01017e260477269531a73"
     }
   ]
 }
