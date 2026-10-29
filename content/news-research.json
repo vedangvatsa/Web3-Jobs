@@ -103396,11 +103396,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "068d5473c616a643e882",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-01T01:06:37.000Z",
-      "lastSeenAt": "2026-10-29T03:34:54.128Z"
+      "lastSeenAt": "2026-10-29T03:34:54.128Z",
+      "reason": "out-of-scope",
+      "note": "New Hampshire Senate race coverage; no crypto, blockchain, or Web3 content beyond generic market-probability framing. Not a Web3 story.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-29T04:30:25.175Z",
+      "lastReviewedDay": "2026-10-29"
     },
     "b123ff645ebcbea117e8": {
       "source": "Crypto Briefing",
@@ -187459,6 +187464,13 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-29T04:28:57.262Z",
           "duplicateOf": "luxorai"
+        },
+        "068d5473c616a643e882": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "New Hampshire Senate race coverage; no crypto, blockchain, or Web3 content beyond generic market-probability framing. Not a Web3 story.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-29T04:30:25.175Z"
         }
       },
       "baselineSlugs": [
