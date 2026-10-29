@@ -71941,7 +71941,8 @@
       },
       "account": "channel:solana",
       "attemptId": "1f2a56c9-d8b6-47e0-ba1c-2bec5679c508",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x669c5deeb88306cec2b754076affe417a621a7c1"
     }
   ]
 }
