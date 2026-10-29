@@ -72972,7 +72972,8 @@
       },
       "account": "channel:growth",
       "attemptId": "9f17f15f-e479-408f-8dea-fd4d47f0ae86",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xbfb7624b9f4426de48dbead266b8ff1269e7d459"
     }
   ]
 }
