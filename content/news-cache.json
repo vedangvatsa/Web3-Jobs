@@ -1,6 +1,102 @@
 {
-  "generatedAt": "2026-10-29T03:34:47.202Z",
+  "generatedAt": "2026-10-29T10:23:17.717Z",
   "items": [
+    {
+      "title": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
+      "link": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
+      "pubDate": "Thu, 29 Oct 2026 10:04:36 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "The court said bitcoin has a market price, can be cashed out and held by the public. It upheld a 10-year sentence for a man who helped the robbers.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bermuda taps WalletConnect to advance its onchain economy plan",
+      "link": "https://www.coindesk.com/business/2026/10/29/bermuda-taps-walletconnect-to-advance-its-onchain-economy-plan",
+      "pubDate": "Thu, 29 Oct 2026 10:00:00 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "Bermuda chose WalletConnect to bring crypto payments to local merchants, starting with ticketing platform PTIX in the second quarter of 2027.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Keystone Wallet Destroying 18,835 Devices After Breach Exposes Authentication Key",
+      "link": "https://dailyhodl.com/2026/10/29/keystone-wallet-destroying-18835-devices-after-breach-exposes-authentication-key/",
+      "pubDate": "Thu, 29 Oct 2026 09:15:05 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Keystone confirmed a website breach that exposed buyer data and a device authentication key, prompting the company to destroy nearly 19,000 unsold har...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "Former Swift CEO joins stablecoin firm OpenTrade as chairman ",
+      "link": "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise",
+      "pubDate": "Thu, 29 Oct 2026 09:00:00 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "Lazaro Campos takes the board role as the London-based company reports $300 million in assets locked and more than $1 billion in annual transaction vo...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Stellar (XLM) highlights native controls for stablecoin issuance",
+      "link": "https://Blockchain.News/news/stellar-highlights-native-controls-for-stablecoin-issuance",
+      "pubDate": "Thu, 29 Oct 2026 08:04:59 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Stellar (XLM) said issuers can use protocol-native authorization, freeze and clawback controls while settling transfers in about five seconds. (Read M...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "The chart bitcoin traders should be paying attention to",
+      "link": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
+      "pubDate": "Thu, 29 Oct 2026 07:44:44 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "A market at an inflection point could shape inflation trends and the prices of risk assets, from bitcoin to tech stocks.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Stellar (XLM) pitches onchain FX rail as Q2 volume reaches $2.78 billion",
+      "link": "https://Blockchain.News/news/stellar-onchain-fx-currency-exchange-q2-2026-volume",
+      "pubDate": "Thu, 29 Oct 2026 07:39:59 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Stellar (XLM) said its onchain FX and exchange rail handled $2.78 billion in Q2 2026 volume and supports 17 stablecoins plus nine fiat currencies. (Re...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Bitcoin ETFs add $137M, pushing October back into the green",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 29 Oct 2026 07:32:20 +0000",
+      "creator": "Helen Partz",
+      "contentSnippet": "Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $111 million despite a hawkish Federal Reserve decision and weaker cryp...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Utah files criminal charges against Kalshi, executives over alleged illegal gambling",
+      "link": "https://www.theblock.co/news/business/2026-10-29-utah-criminal-charges-kalshi-432104",
+      "pubDate": "Thu, 29 Oct 2026 06:40:32 +0000",
+      "creator": "Timmy Shen",
+      "contentSnippet": "Utah AG Derek Brown filed criminal charges against Kalshi, Tarek Mansour and Luana Lopes Lara for allegedly promoting online gambling.",
+      "source": "The Block"
+    },
+    {
+      "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
+      "link": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
+      "pubDate": "Thu, 29 Oct 2026 05:54:39 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "Three flaws a language-model scan dug up are the first disclosed under Core’s new rules for bugs that are easy to find.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
+      "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
+      "pubDate": "Thu, 29 Oct 2026 05:30:34 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "A key blunder at Indian certificate issuer eMudhra left some Teku and Besu setups trusting forged certificates. Default mainnet nodes weren’t exposed.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
+      "link": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 29 Oct 2026 04:39:49 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "CFTC chair Mike Selig says autonomous AI agents could challenge financial rules built around human traders, and regulators need to adapt.",
+      "source": "Cointelegraph"
+    },
     {
       "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
       "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
@@ -362,22 +458,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Here's how much bitcoin and the S&P 500 could rally after midterms",
-      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
-      "pubDate": "Wed, 28 Oct 2026 09:15:22 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "Both bitcoin and the S&P 500 have historically produced positive returns in a year after midterms. BTC's pattern, however, could also be explained by ...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Securitize adds Stellar blockchain as institutional tokenization gathers steam",
-      "link": "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam",
-      "pubDate": "Wed, 28 Oct 2026 09:00:00 +0000",
-      "creator": "Ian Allison",
-      "contentSnippet": "The firms announced the agreement at Meridian 2026, the Stellar Development Foundation’s annual conference in Portugal.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
       "link": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Wed, 28 Oct 2026 07:57:18 +0000",
@@ -418,14 +498,6 @@
       "source": "The Block"
     },
     {
-      "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
-      "link": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
-      "pubDate": "Tue, 27 Oct 2026 20:41:33 +0000",
-      "creator": "Krisztian Sandor",
-      "contentSnippet": "Speaking at Ripple's conference, the U.S. Treasury Secretary said the SEC and CFTC action could help fill the gap left by the Clarity Act's failure, w...",
-      "source": "Coindesk"
-    },
-    {
       "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says ",
       "link": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Tue, 27 Oct 2026 20:33:19 +0000",
@@ -456,14 +528,6 @@
       "creator": "Turner Wright",
       "contentSnippet": "The US state filed a lawsuit against Kalshi last week, seeking to recover up to $60 million in profits related to event contracts on prediction market...",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
-      "link": "https://decrypt.co/381983/bitcoin-wallet-keystone-devices-destroyed-stolen-key",
-      "pubDate": "Tue, 27 Oct 2026 18:16:02 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Attackers obtained the factory key that proves Keystone's hardware wallets are genuine, and 25,964 buyer records were affected. The company says recov...",
-      "source": "Decrypt"
     },
     {
       "title": "Circle Pushes Deeper Into Latin America With USDC Settlement in Colombia",
@@ -586,30 +650,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
-      "link": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 27 Oct 2026 13:30:00 +0000",
-      "creator": "Yohan Yun",
-      "contentSnippet": "Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether ...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Hayes details FLOP’s AI compute derivatives vision after selling his altcoins ",
-      "link": "https://cointelegraph.com/news/hayes-flop-ai-compute-vision-selling-altcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 27 Oct 2026 13:01:10 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "Arthur Hayes revealed the derivatives market design for Flop Network and how he expects its native token could transform AI compute into a tradable co...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "PrimeXBT Brings Tesla, SpaceX, NVIDIA and More to Crypto Futures with New Tokenised Stocks",
-      "link": "https://dailyhodl.com/2026/10/27/primexbt-brings-tesla-spacex-nvidia-and-more-to-crypto-futures-with-new-tokenised-stocks/",
-      "pubDate": "Tue, 27 Oct 2026 12:55:58 +0000",
-      "creator": "Chainwire",
-      "contentSnippet": "Castries, Saint Lucia, 27th October 2026, Chainwire\nThe post PrimeXBT Brings Tesla, SpaceX, NVIDIA and More to Crypto Futures with New Tokenised Stock...",
-      "source": "Daily Hodl"
-    },
-    {
       "title": "Why This Team of Ninjas Is Tripling Down on Mining Bitcoin",
       "link": "https://decrypt.co/381906/why-this-team-of-ninjas-is-tripling-down-on-mining-bitcoin",
       "pubDate": "Tue, 27 Oct 2026 11:46:51 +0000",
@@ -623,14 +663,6 @@
       "pubDate": "Tue, 27 Oct 2026 10:57:34 +0000",
       "creator": "James Hunt",
       "contentSnippet": "Ark Invest rebalanced its fund weightings, adding Circle shares and trimming its Bitcoin ETF holdings as BTC fell below $80,000.",
-      "source": "The Block"
-    },
-    {
-      "title": "Circle faces up to 20% revenue risk from AI agents, Mizuho says",
-      "link": "https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826",
-      "pubDate": "Tue, 27 Oct 2026 06:28:34 +0000",
-      "creator": "Timmy Shen",
-      "contentSnippet": "Mizuho cited 10-20% medium-term reserve revenue downside risk as AI agents steer USDC holders toward higher-yielding fiat alternatives.",
       "source": "The Block"
     }
   ]
