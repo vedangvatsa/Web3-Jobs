@@ -94726,7 +94726,7 @@
         "id": "274cdf337e54ab8ad76f",
         "day": "2026-10-29",
         "articleSlug": "phpctf",
-        "note": "Prior checkpoint cited a draft at content/articles/phpctf.md but no such file exists anywhere in the tree now; the draft must be rewritten from scratch. Sources (stealmybitcoin.com primary, Cybernews, CryptoSlate) were read on Oct 28 and need rechecking, and a hero image is still required.",
+        "note": "Rechecked stealmybitcoin.com primary, Cybernews, CryptoSlate, and the GitHub PoC on Oct 29; all readable. Draft still to write; hero image still required.",
         "sourceChecks": [
           {
             "url": "https://stealmybitcoin.com/",
@@ -94739,9 +94739,13 @@
           {
             "url": "https://cryptoslate.com/bitcoin-hacking-challenge-finally-falls-as-researcher-proves-critical-php-flaw-is-exploitable",
             "outcome": "read"
+          },
+          {
+            "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-10-29T04:02:37.657Z",
+        "updatedAt": "2026-10-29T04:20:01.468Z",
         "approved": false,
         "mustReview": true
       }
