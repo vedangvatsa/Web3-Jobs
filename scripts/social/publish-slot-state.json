@@ -8,7 +8,7 @@
     "afternoon": "2026-10-15",
     "evening": "2026-10-27"
   },
-  "deployed": "2026-10-27",
+  "deployed": "2026-10-29",
   "ingested": "2026-10-29",
   "dailyDeployments": {
     "2026-10-23": [
@@ -296,12 +296,14 @@
           "bitgojupiter",
           "dailydividends"
         ],
-        "phase": "rolling-out",
+        "phase": "succeeded",
         "startedAt": "2026-10-29T10:23:10.994Z",
         "buildId": "daily-20261029-40856932551-1",
         "rolloutId": "daily-20261029-40856932551-1",
         "buildState": "READY",
-        "observedAt": "2026-10-29T10:38:48.391Z"
+        "observedAt": "2026-10-29T10:39:20.809Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-10-29T10:39:20.809Z"
       }
     ]
   }
