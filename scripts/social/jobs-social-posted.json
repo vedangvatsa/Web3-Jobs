@@ -71369,6 +71369,47 @@
       "verification": "verified",
       "postId": "6ae2bfcd6405b3ad114feae5",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7521415326941736960"
+    },
+    {
+      "slug": "qa92",
+      "company": "Bybit",
+      "title": "[EU] Lead QA Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-29T03:35:07.372Z",
+      "expectedText": "Bybit is hiring [EU] Lead QA Engineer: https://hashtagweb3.com/qa92/li?og=7",
+      "snapshot": {
+        "id": "5012065101",
+        "title": "[EU] Lead QA Engineer",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5012065101",
+        "date": "2026-10-21T06:06:34-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "Vienna, Austria",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "qa92"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Lead QA Engineer: https://hashtagweb3.com/qa92/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/qa92/li?og=7",
+          "title": "[EU] Lead QA Engineer at Bybit",
+          "description": "Join Bybit as Lead QA Engineer. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/qa92.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "3a65da25-7260-4b4e-acc2-5efd2f8a5923",
+      "verification": "creating"
     }
   ]
 }
