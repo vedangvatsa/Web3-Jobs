@@ -72727,7 +72727,8 @@
       },
       "account": "channel:base",
       "attemptId": "e9a02c66-9d57-4e45-9493-8d575ab79138",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc11f815074c94f0596a502d7149970bb834916d5"
     }
   ]
 }
