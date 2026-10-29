@@ -26,7 +26,7 @@ function buildCoverSvg(): string {
   <!-- Title Section (Balanced Leading) -->
   <g transform="translate(600, 135)">
     <text x="0" y="0" text-anchor="middle" font-size="68" font-weight="900" fill="#0F172A" letter-spacing="-1.5px">10 Decision Matrices</text>
-    <text x="0" y="66" text-anchor="middle" font-size="38" font-weight="800" fill="#475569" letter-spacing="-0.5px">for Remote Builders</text>
+    <text x="0" y="66" text-anchor="middle" font-size="38" font-weight="800" fill="#475569" letter-spacing="-0.5px">for Digital Nomads</text>
     <text x="0" y="118" text-anchor="middle" font-size="23" font-weight="600" fill="#64748B">Cities · Visas · Passports · Web3 Tech Hubs</text>
   </g>
 
@@ -137,7 +137,7 @@ function buildOutroSvg(): string {
 
   <!-- Clean Minimal Footer -->
   <line x1="60" y1="1130" x2="1140" y2="1130" stroke="#E2E8F0" stroke-width="1.5" />
-  <text x="60" y="1165" font-size="19" font-weight="600" fill="#64748B">Free directory for remote workers and builders.</text>
+  <text x="60" y="1165" font-size="19" font-weight="600" fill="#64748B">Free directory for digital nomads.</text>
   <text x="1140" y="1165" text-anchor="end" font-size="20"><tspan fill="#64748B" font-weight="500">Find Web3 Jobs at </tspan><tspan fill="#0F172A" font-weight="800">hashtagweb3.com</tspan></text>
 </svg>`;
 }

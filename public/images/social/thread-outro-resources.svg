@@ -52,6 +52,6 @@
 
   <!-- Clean Minimal Footer -->
   <line x1="60" y1="1130" x2="1140" y2="1130" stroke="#E2E8F0" stroke-width="1.5" />
-  <text x="60" y="1165" font-size="19" font-weight="600" fill="#64748B">Free directory for remote workers and builders.</text>
+  <text x="60" y="1165" font-size="19" font-weight="600" fill="#64748B">Free directory for digital nomads.</text>
   <text x="1140" y="1165" text-anchor="end" font-size="20"><tspan fill="#64748B" font-weight="500">Find Web3 Jobs at </tspan><tspan fill="#0F172A" font-weight="800">hashtagweb3.com</tspan></text>
 </svg>
