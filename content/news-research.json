@@ -105854,9 +105854,9 @@
         "Unchained"
       ],
       "id": "1fd90b9e013d56864aeb",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-31T18:00:54.000Z",
       "lastSeenAt": "2026-10-29T03:34:54.128Z",
       "articleSlug": "dailydividends",
@@ -105886,7 +105886,29 @@
         "updatedAt": "2026-10-29T03:38:24.454Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the Oct 28 shareholder vote against the Form 8-K primary filing plus Cointelegraph, Bitcoin Magazine and Unchained; hero image on disk and quality, image, duplicate and formatting audits pass.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitcoinmagazine.com/news/strategy-shareholders-daily-dividends",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/strategy-shareholders-approve-daily-dividends-on-its-four-preferred-stocks/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://assets.contentstack.io/v3/assets/bltf8d808d9b8cebd37/blt8000bc44efef681a/6ae1cf3c332c2f6a32a5de85/form-8-k_10-28-2026.pdf",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-29T03:43:59.104Z",
+      "lastReviewedDay": "2026-10-29"
     },
     "7d15a9743b904e570bb8": {
       "source": "CoinDesk",
@@ -186743,6 +186765,31 @@
             "Find independent reporting confirming the event in: Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin",
             "Retry the attempted URLs after any Retry-After time, within the existing verification window."
           ]
+        },
+        "1fd90b9e013d56864aeb": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Oct 28 shareholder vote against the Form 8-K primary filing plus Cointelegraph, Bitcoin Magazine and Unchained; hero image on disk and quality, image, duplicate and formatting audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/strategy-shareholders-daily-dividends",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/strategy-shareholders-approve-daily-dividends-on-its-four-preferred-stocks/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://assets.contentstack.io/v3/assets/bltf8d808d9b8cebd37/blt8000bc44efef681a/6ae1cf3c332c2f6a32a5de85/form-8-k_10-28-2026.pdf",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-29T03:43:59.104Z",
+          "articleSlug": "dailydividends"
         }
       },
       "baselineSlugs": [
