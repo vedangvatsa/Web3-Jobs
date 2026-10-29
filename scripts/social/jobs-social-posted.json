@@ -74620,7 +74620,8 @@
       },
       "account": "channel:product",
       "attemptId": "77090772-113a-4088-aff1-2e699d0b85e4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x98d783d52bf9f3c5208f6cdb798d834a75612530"
     }
   ]
 }
