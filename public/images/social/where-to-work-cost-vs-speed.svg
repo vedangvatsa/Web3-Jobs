@@ -1,376 +1,397 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
   <defs>
-    <style>
-      .title { font-family: Georgia, 'Times New Roman', 'Playfair Display', serif; font-weight: 700; fill: #111827; }
-      .axis-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 800; letter-spacing: 1.5px; fill: #111827; }
-      .meta { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
-      .item-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 700; fill: #111827; paint-order: stroke fill; stroke: #FFFFFF; stroke-width: 4.5px; stroke-linejoin: round; }
-      .item-sub { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 12.5px; font-weight: 500; fill: #4B5563; paint-order: stroke fill; stroke: #FFFFFF; stroke-width: 3.5px; stroke-linejoin: round; }
-    </style>
+    <!-- Dot Grid Pattern -->
+    <pattern id="dotGrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="14" cy="14" r="1.5" fill="#CBD5E1" />
+    </pattern>
+
+    <!-- Drop Shadows for Badges -->
+    <filter id="badgeShadow" x="-10%" y="-20%" width="125%" height="150%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#0F172A" flood-opacity="0.08" />
+    </filter>
+    <filter id="subtleShadow" x="-10%" y="-20%" width="125%" height="150%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#000000" flood-opacity="0.12" />
+    </filter>
   </defs>
 
-  <!-- Clean Background -->
-  <rect width="1200" height="1200" fill="#FFFFFF"/>
+  <!-- Background Canvas with Dot Grid -->
+  <rect width="1200" height="1200" fill="#F8FAFC" />
+  <rect width="1200" height="1200" fill="url(#dotGrid)" />
 
-  <!-- Top Header Title (Dynamically Scaled & Centered, 0% Edge Clipping) -->
-  <text x="600" y="85" text-anchor="middle" font-size="36" class="title">Where to Work: Living Cost vs Internet Speed</text>
+  <!-- Outer Border Frame -->
+  <rect x="24" y="24" width="1152" height="1152" rx="20" fill="none" stroke="#E2E8F0" stroke-width="1.5" />
 
-  <!-- Central Crosshairs Axes with Direct Sharp Polygon Arrows -->
-  <!-- Horizontal X-Axis Line (from 75 to 1125, y=620) -->
-  <line x1="75" y1="620" x2="1125" y2="620" stroke="#1F2937" stroke-width="2.5"/>
+  <!-- Top Title -->
+  <text x="600" y="80" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, Helvetica, sans-serif" font-size="36" font-weight="800" fill="#0F172A" letter-spacing="-0.5px">Where to Work: Living Cost vs Internet Speed</text>
+
+  <!-- Central Crosshairs Axes in Clean Charcoal/Slate -->
+  <!-- Horizontal X-Axis Line (from 90 to 1110, y=620) -->
+  <line x1="90" y1="620" x2="1110" y2="620" stroke="#64748B" stroke-width="2.5" />
   <!-- Left Arrow (pointing LEFT) -->
-  <polygon points="60,620 75,613 75,627" fill="#1F2937"/>
+  <polygon points="75,620 92,612 92,628" fill="#64748B" />
   <!-- Right Arrow (pointing RIGHT) -->
-  <polygon points="1140,620 1125,613 1125,627" fill="#1F2937"/>
+  <polygon points="1125,620 1108,612 1108,628" fill="#64748B" />
 
   <!-- Vertical Y-Axis Line (from 175 to 1065, x=600) -->
-  <line x1="600" y1="175" x2="600" y2="1065" stroke="#1F2937" stroke-width="2.5"/>
+  <line x1="600" y1="175" x2="600" y2="1065" stroke="#64748B" stroke-width="2.5" />
   <!-- Top Arrow (pointing UP) -->
-  <polygon points="600,160 593,175 607,175" fill="#1F2937"/>
+  <polygon points="600,160 592,177 608,177" fill="#64748B" />
   <!-- Bottom Arrow (pointing DOWN) -->
-  <polygon points="600,1080 593,1065 607,1065" fill="#1F2937"/>
+  <polygon points="600,1080 592,1063 608,1063" fill="#64748B" />
 
-  <!-- Axis Labels -->
-  <!-- Top Label -->
-  <text x="600" y="142" text-anchor="middle" font-size="17" class="axis-label">ULTRA-FAST FIBER (300+ MBPS)</text>
+  <!-- Axis Labels (Clean, Modern, Slate) -->
+  <text x="600" y="140" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700" fill="#334155" letter-spacing="1.2px">ULTRA-FAST FIBER (300+ MBPS)</text>
+  <text x="600" y="1112" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700" fill="#334155" letter-spacing="1.2px">MODERATE INTERNET SPEED (&lt;150 MBPS)</text>
+  <text x="100" y="608" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="700" fill="#334155" letter-spacing="1.2px">EXPENSIVE ($3,000+/MO)</text>
+  <text x="1100" y="608" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="700" fill="#334155" letter-spacing="1.2px">AFFORDABLE (&lt;$1,500/MO)</text>
+
+  <!-- Data Badges / Stickers -->
   
-  <!-- Bottom Label -->
-  <text x="600" y="1108" text-anchor="middle" font-size="17" class="axis-label">MODERATE INTERNET SPEED (&lt;150 MBPS)</text>
-  
-  <!-- Left Label (placed cleanly above the left arrow line) -->
-  <text x="80" y="608" text-anchor="start" font-size="16" class="axis-label">EXPENSIVE ($3,000+/MO)</text>
-  
-  <!-- Right Label (placed cleanly above the right arrow line) -->
-  <text x="1120" y="608" text-anchor="end" font-size="16" class="axis-label">AFFORDABLE (&lt;$1,500/MO)</text>
-
-  <!-- Render Data Points -->
-  
-    <g class="matrix-item" data-name="Chiang Mai">
+    <g class="badge" data-name="Chiang Mai">
+      <!-- Badge background container -->
+      <rect x="913" y="209" width="155" height="42" rx="12" fill="#059669"  filter="url(#subtleShadow)"/>
       
-      <!-- Drop shadow for flag circle -->
-      <circle cx="970" cy="243" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="970" cy="241" r="27" fill="#000000" opacity="0.06" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(922, 217)">
+        <clipPath id="flag-clip-where-to-work-cost-vs-speed-0">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjg5bC03OS4yIDE2My43TDUxMiA0MjN2ODlIMHYtODlsODIuNy0xNjkuNkwwIDg5eiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDg5aDUxMnY3OGwtNDIuNiA5MS4yTDUxMiAzNDV2NzhIMHYtNzhsNDAtOTIuNUwwIDE2N3oiLz48cGF0aCBmaWxsPSIjMDA1MmI0IiBkPSJNMCAxNjdoNTEydjE3OEgweiIvPjwvZz48L3N2Zz4=" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-where-to-work-cost-vs-speed-0)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjg5bC03OS4yIDE2My43TDUxMiA0MjN2ODlIMHYtODlsODIuNy0xNjkuNkwwIDg5eiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDg5aDUxMnY3OGwtNDIuNiA5MS4yTDUxMiAzNDV2NzhIMHYtNzhsNDAtOTIuNUwwIDE2N3oiLz48cGF0aCBmaWxsPSIjMDA1MmI0IiBkPSJNMCAxNjdoNTEydjE3OEgweiIvPjwvZz48L3N2Zz4=" x="943" y="213" width="54" height="54" />
-      
-      <!-- Flag borders -->
-      <circle cx="970" cy="240" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="970" cy="240" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="970" y="284" text-anchor="middle" class="item-title">Chiang Mai</text>
-      <text x="970" y="302" text-anchor="middle" class="item-sub">336 Mbps · $900/mo</text>
+      <!-- Text details -->
+      <text x="955" y="227" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Chiang Mai</text>
+      <text x="955" y="241" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#A7F3D0">336 Mbps · $900/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Bangkok">
-      <line x1="860" y1="191" x2="860" y2="180" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
-      <!-- Drop shadow for flag circle -->
-      <circle cx="860" cy="223" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="860" cy="221" r="27" fill="#000000" opacity="0.06" />
+    <g class="badge" data-name="Bangkok">
+      <!-- Badge background container -->
+      <rect x="727" y="191" width="166" height="42" rx="12" fill="#7C3AED"  filter="url(#subtleShadow)"/>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjg5bC03OS4yIDE2My43TDUxMiA0MjN2ODlIMHYtODlsODIuNy0xNjkuNkwwIDg5eiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDg5aDUxMnY3OGwtNDIuNiA5MS4yTDUxMiAzNDV2NzhIMHYtNzhsNDAtOTIuNUwwIDE2N3oiLz48cGF0aCBmaWxsPSIjMDA1MmI0IiBkPSJNMCAxNjdoNTEydjE3OEgweiIvPjwvZz48L3N2Zz4=" x="833" y="193" width="54" height="54" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(736, 199)">
+        <clipPath id="flag-clip-where-to-work-cost-vs-speed-1">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjg5bC03OS4yIDE2My43TDUxMiA0MjN2ODlIMHYtODlsODIuNy0xNjkuNkwwIDg5eiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDg5aDUxMnY3OGwtNDIuNiA5MS4yTDUxMiAzNDV2NzhIMHYtNzhsNDAtOTIuNUwwIDE2N3oiLz48cGF0aCBmaWxsPSIjMDA1MmI0IiBkPSJNMCAxNjdoNTEydjE3OEgweiIvPjwvZz48L3N2Zz4=" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-where-to-work-cost-vs-speed-1)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag borders -->
-      <circle cx="860" cy="220" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="860" cy="220" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="860" y="174" text-anchor="middle" class="item-title">Bangkok</text>
-      <text x="860" y="192" text-anchor="middle" class="item-sub">368 Mbps · $1,100/mo</text>
+      <!-- Text details -->
+      <text x="769" y="209" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Bangkok</text>
+      <text x="769" y="223" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#E9D5FF">368 Mbps · $1,100/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Bucharest">
+    <g class="badge" data-name="Bucharest">
+      <!-- Badge background container -->
+      <rect x="737" y="319" width="166" height="42" rx="12" fill="#2563EB"  filter="url(#subtleShadow)"/>
       
-      <!-- Drop shadow for flag circle -->
-      <circle cx="780" cy="323" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="780" cy="321" r="27" fill="#000000" opacity="0.06" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(746, 327)">
+        <clipPath id="flag-clip-where-to-work-cost-vs-speed-2">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Ik0xNjcgMGgxNzhsMjUuOSAyNTIuM0wzNDUgNTEySDE2N2wtMjkuOC0yNTMuNHoiLz48cGF0aCBmaWxsPSIjMDA1MmI0IiBkPSJNMCAwaDE2N3Y1MTJIMHoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMzQ1IDBoMTY3djUxMkgzNDV6Ii8+PC9nPjwvc3ZnPg==" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-where-to-work-cost-vs-speed-2)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Ik0xNjcgMGgxNzhsMjUuOSAyNTIuM0wzNDUgNTEySDE2N2wtMjkuOC0yNTMuNHoiLz48cGF0aCBmaWxsPSIjMDA1MmI0IiBkPSJNMCAwaDE2N3Y1MTJIMHoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMzQ1IDBoMTY3djUxMkgzNDV6Ii8+PC9nPjwvc3ZnPg==" x="753" y="293" width="54" height="54" />
-      
-      <!-- Flag borders -->
-      <circle cx="780" cy="320" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="780" cy="320" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="780" y="364" text-anchor="middle" class="item-title">Bucharest</text>
-      <text x="780" y="382" text-anchor="middle" class="item-sub">339 Mbps · $1,300/mo</text>
+      <!-- Text details -->
+      <text x="779" y="337" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Bucharest</text>
+      <text x="779" y="351" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#BFDBFE">339 Mbps · $1,300/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Da Nang">
+    <g class="badge" data-name="Da Nang">
+      <!-- Badge background container -->
+      <rect x="913" y="439" width="155" height="42" rx="12" fill="#FF5722"  filter="url(#subtleShadow)"/>
       
-      <!-- Drop shadow for flag circle -->
-      <circle cx="990" cy="463" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="990" cy="461" r="27" fill="#000000" opacity="0.06" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(922, 447)">
+        <clipPath id="flag-clip-where-to-work-cost-vs-speed-3">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjUxMkgwWiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0xNzYgMzc4IDIwOC0xNTBIMTI4bDIwOCAxNTAtODAtMjQ0WiIvPjwvZz48L3N2Zz4=" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-where-to-work-cost-vs-speed-3)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjUxMkgwWiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0xNzYgMzc4IDIwOC0xNTBIMTI4bDIwOCAxNTAtODAtMjQ0WiIvPjwvZz48L3N2Zz4=" x="963" y="433" width="54" height="54" />
-      
-      <!-- Flag borders -->
-      <circle cx="990" cy="460" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="990" cy="460" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="990" y="504" text-anchor="middle" class="item-title">Da Nang</text>
-      <text x="990" y="522" text-anchor="middle" class="item-sub">246 Mbps · $850/mo</text>
+      <!-- Text details -->
+      <text x="955" y="457" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Da Nang</text>
+      <text x="955" y="471" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#FFE0B2">246 Mbps · $850/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Buenos Aires">
+    <g class="badge" data-name="Buenos Aires">
+      <!-- Badge background container -->
+      <rect x="807" y="509" width="166" height="42" rx="12" fill="#C084FC"  filter="url(#subtleShadow)"/>
       
-      <!-- Drop shadow for flag circle -->
-      <circle cx="880" cy="513" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="880" cy="511" r="27" fill="#000000" opacity="0.06" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(816, 517)">
+        <clipPath id="flag-clip-where-to-work-cost-vs-speed-4">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiMzMzhhZjMiIGQ9Ik0wIDBoNTEydjE0NC43TDQ4OCAyNTZsMjQgMTExLjNWNTEySDBWMzY3LjNMMjYgMjU2IDAgMTQ0Ljd6Ii8+PHBhdGggZmlsbD0iI2VlZSIgZD0iTTAgMTQ0LjdoNTEydjIyMi42SDB6Ii8+PHBhdGggZmlsbD0iI2ZmZGE0NCIgZD0ibTMzMi40IDI1Ni0zMS4yIDE0LjcgMTYuNyAzMC4zLTM0LTYuNS00LjIgMzQuMy0yMy43LTI1LjItMjMuNiAyNS4yLTQuMy0zNC4zLTM0IDYuNSAxNi42LTMwLjMtMzEuMi0xNC43IDMxLjMtMTQuN0wxOTQgMjExbDM0IDYuNSA0LjMtMzQuMyAyMy42IDI1LjIgMjMuNi0yNS4yIDQuNCAzNC4zIDM0LTYuNS0xNi43IDMwLjN6Ii8+PC9nPjwvc3ZnPg==" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-where-to-work-cost-vs-speed-4)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiMzMzhhZjMiIGQ9Ik0wIDBoNTEydjE0NC43TDQ4OCAyNTZsMjQgMTExLjNWNTEySDBWMzY3LjNMMjYgMjU2IDAgMTQ0Ljd6Ii8+PHBhdGggZmlsbD0iI2VlZSIgZD0iTTAgMTQ0LjdoNTEydjIyMi42SDB6Ii8+PHBhdGggZmlsbD0iI2ZmZGE0NCIgZD0ibTMzMi40IDI1Ni0zMS4yIDE0LjcgMTYuNyAzMC4zLTM0LTYuNS00LjIgMzQuMy0yMy43LTI1LjItMjMuNiAyNS4yLTQuMy0zNC4zLTM0IDYuNSAxNi42LTMwLjMtMzEuMi0xNC43IDMxLjMtMTQuN0wxOTQgMjExbDM0IDYuNSA0LjMtMzQuMyAyMy42IDI1LjIgMjMuNi0yNS4yIDQuNCAzNC4zIDM0LTYuNS0xNi43IDMwLjN6Ii8+PC9nPjwvc3ZnPg==" x="853" y="483" width="54" height="54" />
-      
-      <!-- Flag borders -->
-      <circle cx="880" cy="510" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="880" cy="510" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="880" y="554" text-anchor="middle" class="item-title">Buenos Aires</text>
-      <text x="880" y="572" text-anchor="middle" class="item-sub">233 Mbps · $1,300/mo</text>
+      <!-- Text details -->
+      <text x="849" y="527" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#1E1B4B">Buenos Aires</text>
+      <text x="849" y="541" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#581C87">233 Mbps · $1,300/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Bali">
+    <g class="badge" data-name="Bali">
+      <!-- Badge background container -->
+      <rect x="817" y="739" width="166" height="42" rx="12" fill="#FACC15"  filter="url(#subtleShadow)"/>
       
-      <!-- Drop shadow for flag circle -->
-      <circle cx="900" cy="763" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="900" cy="761" r="27" fill="#000000" opacity="0.06" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(826, 747)">
+        <clipPath id="flag-clip-where-to-work-cost-vs-speed-5">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0wIDI1NiAyNDkuNi00MS4zTDUxMiAyNTZ2MjU2SDB6Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTAgMGg1MTJ2MjU2SDB6Ii8+PC9nPjwvc3ZnPg==" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-where-to-work-cost-vs-speed-5)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0wIDI1NiAyNDkuNi00MS4zTDUxMiAyNTZ2MjU2SDB6Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTAgMGg1MTJ2MjU2SDB6Ii8+PC9nPjwvc3ZnPg==" x="873" y="733" width="54" height="54" />
-      
-      <!-- Flag borders -->
-      <circle cx="900" cy="760" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="900" cy="760" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="900" y="804" text-anchor="middle" class="item-title">Bali</text>
-      <text x="900" y="822" text-anchor="middle" class="item-sub">102 Mbps · $1,100/mo</text>
+      <!-- Text details -->
+      <text x="859" y="757" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#1E293B">Bali</text>
+      <text x="859" y="771" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#475569">102 Mbps · $1,100/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Cape Town">
+    <g class="badge" data-name="Cape Town">
+      <!-- Badge background container -->
+      <rect x="690" y="859" width="160" height="42" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" filter="url(#badgeShadow)"/>
       
-      <!-- Drop shadow for flag circle -->
-      <circle cx="770" cy="863" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="770" cy="861" r="27" fill="#000000" opacity="0.06" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(699, 867)">
+        <clipPath id="flag-clip-where-to-work-cost-vs-speed-6">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0wIDAgMTkyIDI1NkwwIDUxMmg0N2w0NjUtMTg5di0zNGwtMzItMzMgMzItMzN2LTM0TDQ3IDBaIi8+PHBhdGggZmlsbD0iIzMzMyIgZD0iTTAgMTQydjIyOGwxNDAtMTE0eiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Ik0xOTIgMjU2IDAgOTV2NDdsMTE0IDExNEwwIDM3MHY0N3oiLz48cGF0aCBmaWxsPSIjNmRhNTQ0IiBkPSJNNTEyIDIyM0gyMjNMMCAwdjk0bDE2MSAxNjJMMCA0MTh2OTRsMjIzLTIyM2gyODl6Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTUxMiAwSDQ3bDE4OSAxODloMjc2eiIvPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik01MTIgNTEySDQ3bDE4OS0xODloMjc2eiIvPjwvZz48L3N2Zz4=" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-where-to-work-cost-vs-speed-6)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0wIDAgMTkyIDI1NkwwIDUxMmg0N2w0NjUtMTg5di0zNGwtMzItMzMgMzItMzN2LTM0TDQ3IDBaIi8+PHBhdGggZmlsbD0iIzMzMyIgZD0iTTAgMTQydjIyOGwxNDAtMTE0eiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Ik0xOTIgMjU2IDAgOTV2NDdsMTE0IDExNEwwIDM3MHY0N3oiLz48cGF0aCBmaWxsPSIjNmRhNTQ0IiBkPSJNNTEyIDIyM0gyMjNMMCAwdjk0bDE2MSAxNjJMMCA0MTh2OTRsMjIzLTIyM2gyODl6Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTUxMiAwSDQ3bDE4OSAxODloMjc2eiIvPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik01MTIgNTEySDQ3bDE4OS0xODloMjc2eiIvPjwvZz48L3N2Zz4=" x="743" y="833" width="54" height="54" />
-      
-      <!-- Flag borders -->
-      <circle cx="770" cy="860" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="770" cy="860" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="770" y="904" text-anchor="middle" class="item-title">Cape Town</text>
-      <text x="770" y="922" text-anchor="middle" class="item-sub">94 Mbps · $1,400/mo</text>
+      <!-- Text details -->
+      <text x="732" y="877" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#0F172A">Cape Town</text>
+      <text x="732" y="891" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#64748B">94 Mbps · $1,400/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Taipei">
-      <line x1="740" y1="459" x2="778" y2="421" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
-      <!-- Drop shadow for flag circle -->
-      <circle cx="740" cy="433" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="740" cy="431" r="27" fill="#000000" opacity="0.06" />
+    <g class="badge" data-name="Taipei">
+      <!-- Badge background container -->
+      <rect x="657" y="409" width="166" height="42" rx="12" fill="#0D9488"  filter="url(#subtleShadow)"/>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDI1NiAyNTYgMGgyNTZ2NTEySDB6Ii8+PHBhdGggZmlsbD0iIzAwNTJiNCIgZD0iTTI1NiAyNTZWMEgwdjI1NnoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJtMjIyLjYgMTQ5LjgtMzEuMyAxNC43IDE2LjcgMzAuMy0zNC02LjUtNC4zIDM0LjMtMjMuNi0yNS4yLTIzLjcgMjUuMi00LjMtMzQuMy0zNCA2LjUgMTYuNy0zMC4zLTMxLjItMTQuNyAzMS4yLTE0LjctMTYuNi0zMC4zIDM0IDYuNSA0LjItMzQuMyAyMy43IDI1LjNMMTY5LjcgNzdsNC4zIDM0LjMgMzQtNi41LTE2LjcgMzAuM3oiLz48Y2lyY2xlIGN4PSIxNDYuMSIgY3k9IjE0OS44IiByPSI0Ny43IiBmaWxsPSIjMDA1MmI0Ii8+PGNpcmNsZSBjeD0iMTQ2LjEiIGN5PSIxNDkuOCIgcj0iNDEuNSIgZmlsbD0iI2VlZSIvPjwvZz48L3N2Zz4=" x="713" y="403" width="54" height="54" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(666, 417)">
+        <clipPath id="flag-clip-where-to-work-cost-vs-speed-7">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDI1NiAyNTYgMGgyNTZ2NTEySDB6Ii8+PHBhdGggZmlsbD0iIzAwNTJiNCIgZD0iTTI1NiAyNTZWMEgwdjI1NnoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJtMjIyLjYgMTQ5LjgtMzEuMyAxNC43IDE2LjcgMzAuMy0zNC02LjUtNC4zIDM0LjMtMjMuNi0yNS4yLTIzLjcgMjUuMi00LjMtMzQuMy0zNCA2LjUgMTYuNy0zMC4zLTMxLjItMTQuNyAzMS4yLTE0LjctMTYuNi0zMC4zIDM0IDYuNSA0LjItMzQuMyAyMy43IDI1LjNMMTY5LjcgNzdsNC4zIDM0LjMgMzQtNi41LTE2LjcgMzAuM3oiLz48Y2lyY2xlIGN4PSIxNDYuMSIgY3k9IjE0OS44IiByPSI0Ny43IiBmaWxsPSIjMDA1MmI0Ii8+PGNpcmNsZSBjeD0iMTQ2LjEiIGN5PSIxNDkuOCIgcj0iNDEuNSIgZmlsbD0iI2VlZSIvPjwvZz48L3N2Zz4=" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-where-to-work-cost-vs-speed-7)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag borders -->
-      <circle cx="740" cy="430" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="740" cy="430" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="778" y="436" text-anchor="start" class="item-title">Taipei</text>
-      <text x="778" y="454" text-anchor="start" class="item-sub">260 Mbps · $1,800/mo</text>
+      <!-- Text details -->
+      <text x="699" y="427" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Taipei</text>
+      <text x="699" y="441" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#CCFBF1">260 Mbps · $1,800/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Prague">
+    <g class="badge" data-name="Prague">
+      <!-- Badge background container -->
+      <rect x="627" y="519" width="166" height="42" rx="12" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" filter="url(#badgeShadow)"/>
       
-      <!-- Drop shadow for flag circle -->
-      <circle cx="660" cy="523" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="660" cy="521" r="27" fill="#000000" opacity="0.06" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(636, 527)">
+        <clipPath id="flag-clip-where-to-work-cost-vs-speed-8">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDBoNTEydjI1NmwtMjY1IDQ1LjJ6Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTIxMCAyNTZoMzAydjI1NkgweiIvPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDB2NTEybDI1Ni0yNTZMMCAweiIvPjwvZz48L3N2Zz4=" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-where-to-work-cost-vs-speed-8)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDBoNTEydjI1NmwtMjY1IDQ1LjJ6Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTIxMCAyNTZoMzAydjI1NkgweiIvPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDB2NTEybDI1Ni0yNTZMMCAweiIvPjwvZz48L3N2Zz4=" x="633" y="493" width="54" height="54" />
-      
-      <!-- Flag borders -->
-      <circle cx="660" cy="520" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="660" cy="520" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="660" y="564" text-anchor="middle" class="item-title">Prague</text>
-      <text x="660" y="582" text-anchor="middle" class="item-sub">253 Mbps · $1,800/mo</text>
+      <!-- Text details -->
+      <text x="669" y="537" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#0F172A">Prague</text>
+      <text x="669" y="551" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#64748B">253 Mbps · $1,800/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Lisbon">
+    <g class="badge" data-name="Lisbon">
+      <!-- Badge background container -->
+      <rect x="617" y="247" width="166" height="42" rx="12" fill="#FF5722"  filter="url(#subtleShadow)"/>
       
-      <!-- Drop shadow for flag circle -->
-      <circle cx="670" cy="243" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="670" cy="241" r="27" fill="#000000" opacity="0.06" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(626, 255)">
+        <clipPath id="flag-clip-where-to-work-cost-vs-speed-9">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiM2ZGE1NDQiIGQ9Ik0wIDUxMmgxNjdsMzcuOS0yNjAuM0wxNjcgMEgweiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik01MTIgMEgxNjd2NTEyaDM0NXoiLz48Y2lyY2xlIGN4PSIxNjciIGN5PSIyNTYiIHI9Ijg5IiBmaWxsPSIjZmZkYTQ0Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTExNi45IDIxMS41VjI2N2E1MCA1MCAwIDEgMCAxMDAuMSAwdi01NS42SDExN3oiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJNMTY3IDI4My44Yy05LjIgMC0xNi43LTcuNS0xNi43LTE2LjdWMjQ1aDMzLjR2MjJjMCA5LjItNy41IDE2LjctMTYuNyAxNi43eiIvPjwvZz48L3N2Zz4=" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-where-to-work-cost-vs-speed-9)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiM2ZGE1NDQiIGQ9Ik0wIDUxMmgxNjdsMzcuOS0yNjAuM0wxNjcgMEgweiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik01MTIgMEgxNjd2NTEyaDM0NXoiLz48Y2lyY2xlIGN4PSIxNjciIGN5PSIyNTYiIHI9Ijg5IiBmaWxsPSIjZmZkYTQ0Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTExNi45IDIxMS41VjI2N2E1MCA1MCAwIDEgMCAxMDAuMSAwdi01NS42SDExN3oiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJNMTY3IDI4My44Yy05LjIgMC0xNi43LTcuNS0xNi43LTE2LjdWMjQ1aDMzLjR2MjJjMCA5LjItNy41IDE2LjctMTYuNyAxNi43eiIvPjwvZz48L3N2Zz4=" x="643" y="213" width="54" height="54" />
-      
-      <!-- Flag borders -->
-      <circle cx="670" cy="240" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="670" cy="240" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="670" y="284" text-anchor="middle" class="item-title">Lisbon</text>
-      <text x="670" y="302" text-anchor="middle" class="item-sub">361 Mbps · $2,000/mo</text>
+      <!-- Text details -->
+      <text x="659" y="265" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Lisbon</text>
+      <text x="659" y="279" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#FFE0B2">361 Mbps · $2,000/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Barcelona">
-      <line x1="520" y1="389" x2="558" y2="351" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
-      <!-- Drop shadow for flag circle -->
-      <circle cx="520" cy="363" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="520" cy="361" r="27" fill="#000000" opacity="0.06" />
+    <g class="badge" data-name="Barcelona">
+      <!-- Badge background container -->
+      <rect x="402" y="369" width="166" height="42" rx="12" fill="#E11D48"  filter="url(#subtleShadow)"/>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0wIDEyOCAyNTYtMzIgMjU2IDMydjI1NmwtMjU2IDMyTDAgMzg0WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0xOTYgMTY4cS0xMSAxLTE1IDExbC01LTFxLTE1IDEtMTYgMTZjLTEgMTUgNyAxNiAxNiAxNnExMSAwIDE1LTExYTE2IDE2IDAgMCAwIDE3LTQgMTYgMTYgMCAwIDAgMTcgNCAxNiAxNiAwIDEgMCAxMC0yMCAxNiAxNiAwIDAgMC0yNy01cS00LTYtMTItNm0wIDhxOCAxIDggOCAwIDgtOCA4LTcgMC04LTggMS03IDgtOG0yNCAwcTggMSA4IDggMCA4LTggOC03IDAtOC04IDEtNyA4LThtLTQ0IDEwIDQgMSA0IDhxLTEgNy04IDctOSAwLTgtOCAxLTcgOC04bTY0IDBxOCAxIDggOCAwIDgtOCA4LTcgMC04LTdsNC04em0tMTEyIDM4djgwaDE2di04MHptODAgMHY0MGMtMjYgMC00OCAxNC00OCAzMnMyMiAzMiA0OCAzMiA0OC0xNCA0OC0zMnYtNzJ6bTY0IDB2ODBoMTZ2LTgweiIvPjxwYXRoIGZpbGw9IiNmZjk4MTEiIGQ9Ik0yMDAgMTYwaDE2djMyaC0xNnoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMCAwdjEyOGg1MTJWMHptMjA4IDE4NGMtMjIgMC00MCAxMS00MCAyNGw4IDhoNjRsOC04YzAtMTMtMTgtMjQtNDAtMjRtLTcyIDhhOCA4IDAgMCAwLTggOHY4YTggOCAwIDEgMCAxNiAwdi04YTggOCAwIDAgMC04LThtMTQ0IDBhOCA4IDAgMCAwLTggOHY4YTggOCAwIDEgMCAxNiAwdi04YTggOCAwIDAgMC04LThtLTEyMCAzMnYyNGgtMzhhNCA0IDAgMCAwLTQgNCA0IDQgMCAwIDAgNCA0aDM4djQwYTI0IDI0IDAgMCAwIDI0IDI0IDI0IDI0IDAgMCAwIDI0LTI0IDI0IDI0IDAgMCAwIDI0IDI0IDI0IDI0IDAgMCAwIDI0LTI0di0yNGgtNDh2LTQ4em03MiA4YTEwIDEwIDAgMCAwLTEwIDEwdjEyYTEwIDEwIDAgMSAwIDIwIDB2LTEyYTEwIDEwIDAgMCAwLTEwLTEwbTI0IDE2djhoMzhhNCA0IDAgMCAwIDQtNCA0IDQgMCAwIDAtNC00em0tMTM0IDI0YTQgNCAwIDAgMC00IDQgNCA0IDAgMCAwIDQgNGgyOGE0IDQgMCAwIDAgNC00IDQgNCAwIDAgMC00LTR6bTE0NCAwYTQgNCAwIDAgMC00IDQgNCA0IDAgMCAwIDQgNGgyOGE0IDQgMCAwIDAgNC00IDQgNCAwIDAgMC00LTR6TTAgMzg0djEyOGg1MTJWMzg0eiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Ik0xODYgMTk2YTYgNiAwIDAgMC02IDYgNiA2IDAgMCAwIDYgNiA2IDYgMCAwIDAgNi02IDYgNiAwIDAgMC02LTZtMjIgMGE2IDYgMCAwIDAtNiA2IDYgNiAwIDAgMCA2IDYgNiA2IDAgMCAwIDYtNiA2IDYgMCAwIDAtNi02bTIyIDBhNiA2IDAgMCAwLTYgNiA2IDYgMCAwIDAgNiA2IDYgNiAwIDAgMCA2LTYgNiA2IDAgMCAwLTYtNiIvPjxwYXRoIGZpbGw9IiNmZjk4MTEiIGQ9Ik0xMjggMjA4YTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2em0xNDQgMGE4IDggMCAxIDAgMCAxNmgxNmE4IDggMCAxIDAgMC0xNnptLTk2IDh2OGg2NHYtOHptLTggMTZ2OGg4djE2aC04djhoMzJ2LThoLTh2LTE2aDh2LTh6bS04IDQwdjI0cTEgMTIgOSAxOXYtNDN6bTE5IDB2NDdoMTB2LTQ3em0yMCAwdjQzcTktNyA5LTE5di0yNHptLTcxIDMyYTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2em0xNDQgMGE4IDggMCAxIDAgMCAxNmgxNmE4IDggMCAxIDAgMC0xNnoiLz48cGF0aCBmaWxsPSIjMzM4YWYzIiBkPSJNMjA4IDI1NmExNiAxNiAwIDAgMC0xNiAxNiAxNiAxNiAwIDAgMCAxNiAxNiAxNiAxNiAwIDAgMCAxNi0xNiAxNiAxNiAwIDAgMC0xNi0xNm0tODAgNjRhOCA4IDAgMSAwIDAgMTZoMTZhOCA4IDAgMSAwIDAtMTZ6bTE0NCAwYTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2eiIvPjwvZz48L3N2Zz4=" x="493" y="333" width="54" height="54" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(411, 377)">
+        <clipPath id="flag-clip-where-to-work-cost-vs-speed-10">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0wIDEyOCAyNTYtMzIgMjU2IDMydjI1NmwtMjU2IDMyTDAgMzg0WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0xOTYgMTY4cS0xMSAxLTE1IDExbC01LTFxLTE1IDEtMTYgMTZjLTEgMTUgNyAxNiAxNiAxNnExMSAwIDE1LTExYTE2IDE2IDAgMCAwIDE3LTQgMTYgMTYgMCAwIDAgMTcgNCAxNiAxNiAwIDEgMCAxMC0yMCAxNiAxNiAwIDAgMC0yNy01cS00LTYtMTItNm0wIDhxOCAxIDggOCAwIDgtOCA4LTcgMC04LTggMS03IDgtOG0yNCAwcTggMSA4IDggMCA4LTggOC03IDAtOC04IDEtNyA4LThtLTQ0IDEwIDQgMSA0IDhxLTEgNy04IDctOSAwLTgtOCAxLTcgOC04bTY0IDBxOCAxIDggOCAwIDgtOCA4LTcgMC04LTdsNC04em0tMTEyIDM4djgwaDE2di04MHptODAgMHY0MGMtMjYgMC00OCAxNC00OCAzMnMyMiAzMiA0OCAzMiA0OC0xNCA0OC0zMnYtNzJ6bTY0IDB2ODBoMTZ2LTgweiIvPjxwYXRoIGZpbGw9IiNmZjk4MTEiIGQ9Ik0yMDAgMTYwaDE2djMyaC0xNnoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMCAwdjEyOGg1MTJWMHptMjA4IDE4NGMtMjIgMC00MCAxMS00MCAyNGw4IDhoNjRsOC04YzAtMTMtMTgtMjQtNDAtMjRtLTcyIDhhOCA4IDAgMCAwLTggOHY4YTggOCAwIDEgMCAxNiAwdi04YTggOCAwIDAgMC04LThtMTQ0IDBhOCA4IDAgMCAwLTggOHY4YTggOCAwIDEgMCAxNiAwdi04YTggOCAwIDAgMC04LThtLTEyMCAzMnYyNGgtMzhhNCA0IDAgMCAwLTQgNCA0IDQgMCAwIDAgNCA0aDM4djQwYTI0IDI0IDAgMCAwIDI0IDI0IDI0IDI0IDAgMCAwIDI0LTI0IDI0IDI0IDAgMCAwIDI0IDI0IDI0IDI0IDAgMCAwIDI0LTI0di0yNGgtNDh2LTQ4em03MiA4YTEwIDEwIDAgMCAwLTEwIDEwdjEyYTEwIDEwIDAgMSAwIDIwIDB2LTEyYTEwIDEwIDAgMCAwLTEwLTEwbTI0IDE2djhoMzhhNCA0IDAgMCAwIDQtNCA0IDQgMCAwIDAtNC00em0tMTM0IDI0YTQgNCAwIDAgMC00IDQgNCA0IDAgMCAwIDQgNGgyOGE0IDQgMCAwIDAgNC00IDQgNCAwIDAgMC00LTR6bTE0NCAwYTQgNCAwIDAgMC00IDQgNCA0IDAgMCAwIDQgNGgyOGE0IDQgMCAwIDAgNC00IDQgNCAwIDAgMC00LTR6TTAgMzg0djEyOGg1MTJWMzg0eiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Ik0xODYgMTk2YTYgNiAwIDAgMC02IDYgNiA2IDAgMCAwIDYgNiA2IDYgMCAwIDAgNi02IDYgNiAwIDAgMC02LTZtMjIgMGE2IDYgMCAwIDAtNiA2IDYgNiAwIDAgMCA2IDYgNiA2IDAgMCAwIDYtNiA2IDYgMCAwIDAtNi02bTIyIDBhNiA2IDAgMCAwLTYgNiA2IDYgMCAwIDAgNiA2IDYgNiAwIDAgMCA2LTYgNiA2IDAgMCAwLTYtNiIvPjxwYXRoIGZpbGw9IiNmZjk4MTEiIGQ9Ik0xMjggMjA4YTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2em0xNDQgMGE4IDggMCAxIDAgMCAxNmgxNmE4IDggMCAxIDAgMC0xNnptLTk2IDh2OGg2NHYtOHptLTggMTZ2OGg4djE2aC04djhoMzJ2LThoLTh2LTE2aDh2LTh6bS04IDQwdjI0cTEgMTIgOSAxOXYtNDN6bTE5IDB2NDdoMTB2LTQ3em0yMCAwdjQzcTktNyA5LTE5di0yNHptLTcxIDMyYTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2em0xNDQgMGE4IDggMCAxIDAgMCAxNmgxNmE4IDggMCAxIDAgMC0xNnoiLz48cGF0aCBmaWxsPSIjMzM4YWYzIiBkPSJNMjA4IDI1NmExNiAxNiAwIDAgMC0xNiAxNiAxNiAxNiAwIDAgMCAxNiAxNiAxNiAxNiAwIDAgMCAxNi0xNiAxNiAxNiAwIDAgMC0xNi0xNm0tODAgNjRhOCA4IDAgMSAwIDAgMTZoMTZhOCA4IDAgMSAwIDAtMTZ6bTE0NCAwYTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2eiIvPjwvZz48L3N2Zz4=" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-where-to-work-cost-vs-speed-10)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag borders -->
-      <circle cx="520" cy="360" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="520" cy="360" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="558" y="366" text-anchor="start" class="item-title">Barcelona</text>
-      <text x="558" y="384" text-anchor="start" class="item-sub">345 Mbps · $2,200/mo</text>
+      <!-- Text details -->
+      <text x="444" y="387" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Barcelona</text>
+      <text x="444" y="401" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#FECDD3">345 Mbps · $2,200/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Dubai">
-      <line x1="410" y1="279" x2="448" y2="241" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
-      <!-- Drop shadow for flag circle -->
-      <circle cx="410" cy="253" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="410" cy="251" r="27" fill="#000000" opacity="0.06" />
+    <g class="badge" data-name="Dubai">
+      <!-- Badge background container -->
+      <rect x="367" y="229" width="166" height="42" rx="12" fill="#0F172A"  filter="url(#subtleShadow)"/>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNhMjAwMWQiIGQ9Ik0wIDBoMTY3bDUyLjMgMjUyTDE2NyA1MTJIMHoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJtMTY3IDE2NyAxNzAuOC00NC42TDUxMiAxNjd2MTc4bC0xNzMuMiAzNi45TDE2NyAzNDV6Ii8+PHBhdGggZmlsbD0iIzZkYTU0NCIgZD0iTTE2NyAwaDM0NXYxNjdIMTY3eiIvPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik0xNjcgMzQ1aDM0NXYxNjdIMTY3eiIvPjwvZz48L3N2Zz4=" x="383" y="223" width="54" height="54" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(376, 237)">
+        <clipPath id="flag-clip-where-to-work-cost-vs-speed-11">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNhMjAwMWQiIGQ9Ik0wIDBoMTY3bDUyLjMgMjUyTDE2NyA1MTJIMHoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJtMTY3IDE2NyAxNzAuOC00NC42TDUxMiAxNjd2MTc4bC0xNzMuMiAzNi45TDE2NyAzNDV6Ii8+PHBhdGggZmlsbD0iIzZkYTU0NCIgZD0iTTE2NyAwaDM0NXYxNjdIMTY3eiIvPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik0xNjcgMzQ1aDM0NXYxNjdIMTY3eiIvPjwvZz48L3N2Zz4=" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-where-to-work-cost-vs-speed-11)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag borders -->
-      <circle cx="410" cy="250" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="410" cy="250" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="448" y="256" text-anchor="start" class="item-title">Dubai</text>
-      <text x="448" y="274" text-anchor="start" class="item-sub">369 Mbps · $2,500/mo</text>
+      <!-- Text details -->
+      <text x="409" y="247" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Dubai</text>
+      <text x="409" y="261" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#94A3B8">369 Mbps · $2,500/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Berlin">
+    <g class="badge" data-name="Berlin">
+      <!-- Badge background container -->
+      <rect x="397" y="509" width="166" height="42" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" filter="url(#badgeShadow)"/>
       
-      <!-- Drop shadow for flag circle -->
-      <circle cx="470" cy="523" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="470" cy="521" r="27" fill="#000000" opacity="0.06" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(406, 517)">
+        <clipPath id="flag-clip-where-to-work-cost-vs-speed-12">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0wIDM0NSAyNTYuNy0yNS41TDUxMiAzNDV2MTY3SDB6Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0ibTAgMTY3IDI1NS0yMyAyNTcgMjN2MTc4SDB6Ii8+PHBhdGggZmlsbD0iIzMzMyIgZD0iTTAgMGg1MTJ2MTY3SDB6Ii8+PC9nPjwvc3ZnPg==" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-where-to-work-cost-vs-speed-12)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0wIDM0NSAyNTYuNy0yNS41TDUxMiAzNDV2MTY3SDB6Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0ibTAgMTY3IDI1NS0yMyAyNTcgMjN2MTc4SDB6Ii8+PHBhdGggZmlsbD0iIzMzMyIgZD0iTTAgMGg1MTJ2MTY3SDB6Ii8+PC9nPjwvc3ZnPg==" x="443" y="493" width="54" height="54" />
-      
-      <!-- Flag borders -->
-      <circle cx="470" cy="520" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="470" cy="520" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="470" y="564" text-anchor="middle" class="item-title">Berlin</text>
-      <text x="470" y="582" text-anchor="middle" class="item-sub">210 Mbps · $2,500/mo</text>
+      <!-- Text details -->
+      <text x="439" y="527" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#0F172A">Berlin</text>
+      <text x="439" y="541" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#64748B">210 Mbps · $2,500/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Tokyo">
+    <g class="badge" data-name="Tokyo">
+      <!-- Badge background container -->
+      <rect x="222" y="369" width="166" height="42" rx="12" fill="#FB923C"  filter="url(#subtleShadow)"/>
       
-      <!-- Drop shadow for flag circle -->
-      <circle cx="350" cy="373" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="350" cy="371" r="27" fill="#000000" opacity="0.06" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(231, 377)">
+        <clipPath id="flag-clip-where-to-work-cost-vs-speed-13">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDBoNTEydjUxMkgweiIvPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMTExLjMiIGZpbGw9IiNkODAwMjciLz48L2c+PC9zdmc+" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-where-to-work-cost-vs-speed-13)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDBoNTEydjUxMkgweiIvPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMTExLjMiIGZpbGw9IiNkODAwMjciLz48L2c+PC9zdmc+" x="323" y="343" width="54" height="54" />
-      
-      <!-- Flag borders -->
-      <circle cx="350" cy="370" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="350" cy="370" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="350" y="414" text-anchor="middle" class="item-title">Tokyo</text>
-      <text x="350" y="432" text-anchor="middle" class="item-sub">304 Mbps · $2,800/mo</text>
+      <!-- Text details -->
+      <text x="264" y="387" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Tokyo</text>
+      <text x="264" y="401" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#FFEDD5">304 Mbps · $2,800/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Singapore">
-      <line x1="300" y1="249" x2="262" y2="211" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
-      <!-- Drop shadow for flag circle -->
-      <circle cx="300" cy="223" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="300" cy="221" r="27" fill="#000000" opacity="0.06" />
+    <g class="badge" data-name="Singapore">
+      <!-- Badge background container -->
+      <rect x="187" y="209" width="166" height="42" rx="12" fill="#0F172A"  filter="url(#subtleShadow)"/>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjI1NmwtMjU2IDMyTDAgMjU2WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0yMDAgNTZhNzggNzggMCAxIDAgMTcgMTU0IDc4IDc4IDAgMCAxIDAtMTUycS04LTItMTctMm01NiA1LTUgMTdoLTE4bDE0IDExLTUgMTcgMTQtMTEgMTUgMTEtNi0xNyAxNS0xMWgtMTh6bS00MyAzNC02IDE3aC0xOGwxNSAxMC02IDE3IDE1LTEwIDE0IDEwLTUtMTcgMTQtMTBoLTE4em04NiAwLTUgMTdoLTE4bDE0IDEwLTUgMTcgMTQtMTAgMTUgMTAtNi0xNyAxNS0xMGgtMTh6bS03MCA1MC01IDE3aC0xOGwxNCAxMC01IDE3IDE0LTEwIDE1IDEwLTYtMTcgMTUtMTBoLTE4em01NCAwLTYgMTdoLTE4bDE1IDEwLTYgMTcgMTUtMTAgMTQgMTAtNS0xNyAxNC0xMGgtMThaTTAgMjU2djI1Nmg1MTJWMjU2WiIvPjwvZz48L3N2Zz4=" x="273" y="193" width="54" height="54" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(196, 217)">
+        <clipPath id="flag-clip-where-to-work-cost-vs-speed-14">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjI1NmwtMjU2IDMyTDAgMjU2WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0yMDAgNTZhNzggNzggMCAxIDAgMTcgMTU0IDc4IDc4IDAgMCAxIDAtMTUycS04LTItMTctMm01NiA1LTUgMTdoLTE4bDE0IDExLTUgMTcgMTQtMTEgMTUgMTEtNi0xNyAxNS0xMWgtMTh6bS00MyAzNC02IDE3aC0xOGwxNSAxMC02IDE3IDE1LTEwIDE0IDEwLTUtMTcgMTQtMTBoLTE4em04NiAwLTUgMTdoLTE4bDE0IDEwLTUgMTcgMTQtMTAgMTUgMTAtNi0xNyAxNS0xMGgtMTh6bS03MCA1MC01IDE3aC0xOGwxNCAxMC01IDE3IDE0LTEwIDE1IDEwLTYtMTcgMTUtMTBoLTE4em01NCAwLTYgMTdoLTE4bDE1IDEwLTYgMTcgMTUtMTAgMTQgMTAtNS0xNyAxNC0xMGgtMThaTTAgMjU2djI1Nmg1MTJWMjU2WiIvPjwvZz48L3N2Zz4=" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-where-to-work-cost-vs-speed-14)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag borders -->
-      <circle cx="300" cy="220" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="300" cy="220" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="262" y="226" text-anchor="end" class="item-title">Singapore</text>
-      <text x="262" y="244" text-anchor="end" class="item-sub">577 Mbps · $3,000/mo</text>
+      <!-- Text details -->
+      <text x="229" y="227" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Singapore</text>
+      <text x="229" y="241" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#94A3B8">577 Mbps · $3,000/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="London">
+    <g class="badge" data-name="London">
+      <!-- Badge background container -->
+      <rect x="147" y="439" width="166" height="42" rx="12" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" filter="url(#badgeShadow)"/>
       
-      <!-- Drop shadow for flag circle -->
-      <circle cx="240" cy="423" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="240" cy="421" r="27" fill="#000000" opacity="0.06" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(156, 447)">
+        <clipPath id="flag-clip-where-to-work-cost-vs-speed-15">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0wIDAgOCAyMi04IDIzdjIzbDMyIDU0LTMyIDU0djMybDMyIDQ4LTMyIDQ4djMybDMyIDU0LTMyIDU0djY4bDIyLTggMjMgOGgyM2w1NC0zMiA1NCAzMmgzMmw0OC0zMiA0OCAzMmgzMmw1NC0zMiA1NCAzMmg2OGwtOC0yMiA4LTIzdi0yM2wtMzItNTQgMzItNTR2LTMybC0zMi00OCAzMi00OHYtMzJsLTMyLTU0IDMyLTU0VjBsLTIyIDgtMjMtOGgtMjNsLTU0IDMyLTU0LTMyaC0zMmwtNDggMzItNDgtMzJoLTMybC01NCAzMkw2OCAwSDB6Ii8+PHBhdGggZmlsbD0iIzAwNTJiNCIgZD0iTTMzNiAwdjEwOEw0NDQgMFptMTc2IDY4TDQwNCAxNzZoMTA4ek0wIDE3NmgxMDhMMCA2OFpNNjggMGwxMDggMTA4VjBabTEwOCA1MTJWNDA0TDY4IDUxMlpNMCA0NDRsMTA4LTEwOEgwWm01MTItMTA4SDQwNGwxMDggMTA4Wm0tNjggMTc2TDMzNiA0MDR2MTA4eiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDB2NDVsMTMxIDEzMWg0NUwwIDB6bTIwOCAwdjIwOEgwdjk2aDIwOHYyMDhoOTZWMzA0aDIwOHYtOTZIMzA0VjBoLTk2em0yNTkgMEwzMzYgMTMxdjQ1TDUxMiAwaC00NXpNMTc2IDMzNiAwIDUxMmg0NWwxMzEtMTMxdi00NXptMTYwIDAgMTc2IDE3NnYtNDVMMzgxIDMzNmgtNDV6Ii8+PC9nPjwvc3ZnPg==" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-where-to-work-cost-vs-speed-15)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0wIDAgOCAyMi04IDIzdjIzbDMyIDU0LTMyIDU0djMybDMyIDQ4LTMyIDQ4djMybDMyIDU0LTMyIDU0djY4bDIyLTggMjMgOGgyM2w1NC0zMiA1NCAzMmgzMmw0OC0zMiA0OCAzMmgzMmw1NC0zMiA1NCAzMmg2OGwtOC0yMiA4LTIzdi0yM2wtMzItNTQgMzItNTR2LTMybC0zMi00OCAzMi00OHYtMzJsLTMyLTU0IDMyLTU0VjBsLTIyIDgtMjMtOGgtMjNsLTU0IDMyLTU0LTMyaC0zMmwtNDggMzItNDgtMzJoLTMybC01NCAzMkw2OCAwSDB6Ii8+PHBhdGggZmlsbD0iIzAwNTJiNCIgZD0iTTMzNiAwdjEwOEw0NDQgMFptMTc2IDY4TDQwNCAxNzZoMTA4ek0wIDE3NmgxMDhMMCA2OFpNNjggMGwxMDggMTA4VjBabTEwOCA1MTJWNDA0TDY4IDUxMlpNMCA0NDRsMTA4LTEwOEgwWm01MTItMTA4SDQwNGwxMDggMTA4Wm0tNjggMTc2TDMzNiA0MDR2MTA4eiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDB2NDVsMTMxIDEzMWg0NUwwIDB6bTIwOCAwdjIwOEgwdjk2aDIwOHYyMDhoOTZWMzA0aDIwOHYtOTZIMzA0VjBoLTk2em0yNTkgMEwzMzYgMTMxdjQ1TDUxMiAwaC00NXpNMTc2IDMzNiAwIDUxMmg0NWwxMzEtMTMxdi00NXptMTYwIDAgMTc2IDE3NnYtNDVMMzgxIDMzNmgtNDV6Ii8+PC9nPjwvc3ZnPg==" x="213" y="393" width="54" height="54" />
-      
-      <!-- Flag borders -->
-      <circle cx="240" cy="420" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="240" cy="420" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="240" y="464" text-anchor="middle" class="item-title">London</text>
-      <text x="240" y="482" text-anchor="middle" class="item-sub">306 Mbps · $3,200/mo</text>
+      <!-- Text details -->
+      <text x="189" y="457" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#0F172A">London</text>
+      <text x="189" y="471" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#64748B">306 Mbps · $3,200/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="San Francisco">
+    <g class="badge" data-name="San Francisco">
+      <!-- Badge background container -->
+      <rect x="137" y="289" width="166" height="42" rx="12" fill="#2563EB"  filter="url(#subtleShadow)"/>
       
-      <!-- Drop shadow for flag circle -->
-      <circle cx="230" cy="303" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="230" cy="301" r="27" fill="#000000" opacity="0.06" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(146, 297)">
+        <clipPath id="flag-clip-where-to-work-cost-vs-speed-16">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0yNTYgMGgyNTZ2NjRsLTMyIDMyIDMyIDMydjY0bC0zMiAzMiAzMiAzMnY2NGwtMzIgMzIgMzIgMzJ2NjRsLTI1NiAzMkwwIDQ0OHYtNjRsMzItMzItMzItMzJ2LTY0eiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0yMjQgNjRoMjg4djY0SDIyNFptMCAxMjhoMjg4djY0SDI1NlpNMCAzMjBoNTEydjY0SDBabTAgMTI4aDUxMnY2NEgwWiIvPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDBoMjU2djI1NkgwWiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0xODcgMjQzIDU3LTQxaC03MGw1NyA0MS0yMi02N3ptLTgxIDAgNTctNDFIOTNsNTcgNDEtMjItNjd6bS04MSAwIDU3LTQxSDEybDU3IDQxLTIyLTY3em0xNjItODEgNTctNDFoLTcwbDU3IDQxLTIyLTY3em0tODEgMCA1Ny00MUg5M2w1NyA0MS0yMi02N3ptLTgxIDAgNTctNDFIMTJsNTcgNDEtMjItNjdabTE2Mi04MiA1Ny00MWgtNzBsNTcgNDEtMjItNjdabS04MSAwIDU3LTQxSDkzbDU3IDQxLTIyLTY3em0tODEgMCA1Ny00MUgxMmw1NyA0MS0yMi02N1oiLz48L2c+PC9zdmc+" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-where-to-work-cost-vs-speed-16)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0yNTYgMGgyNTZ2NjRsLTMyIDMyIDMyIDMydjY0bC0zMiAzMiAzMiAzMnY2NGwtMzIgMzIgMzIgMzJ2NjRsLTI1NiAzMkwwIDQ0OHYtNjRsMzItMzItMzItMzJ2LTY0eiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0yMjQgNjRoMjg4djY0SDIyNFptMCAxMjhoMjg4djY0SDI1NlpNMCAzMjBoNTEydjY0SDBabTAgMTI4aDUxMnY2NEgwWiIvPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDBoMjU2djI1NkgwWiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0xODcgMjQzIDU3LTQxaC03MGw1NyA0MS0yMi02N3ptLTgxIDAgNTctNDFIOTNsNTcgNDEtMjItNjd6bS04MSAwIDU3LTQxSDEybDU3IDQxLTIyLTY3em0xNjItODEgNTctNDFoLTcwbDU3IDQxLTIyLTY3em0tODEgMCA1Ny00MUg5M2w1NyA0MS0yMi02N3ptLTgxIDAgNTctNDFIMTJsNTcgNDEtMjItNjdabTE2Mi04MiA1Ny00MWgtNzBsNTcgNDEtMjItNjdabS04MSAwIDU3LTQxSDkzbDU3IDQxLTIyLTY3em0tODEgMCA1Ny00MUgxMmw1NyA0MS0yMi02N1oiLz48L2c+PC9zdmc+" x="203" y="273" width="54" height="54" />
-      
-      <!-- Flag borders -->
-      <circle cx="230" cy="300" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="230" cy="300" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="230" y="344" text-anchor="middle" class="item-title">San Francisco</text>
-      <text x="230" y="362" text-anchor="middle" class="item-sub">372 Mbps · $3,500/mo</text>
+      <!-- Text details -->
+      <text x="179" y="307" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">San Francisco</text>
+      <text x="179" y="321" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#BFDBFE">372 Mbps · $3,500/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="New York">
+    <g class="badge" data-name="New York">
+      <!-- Badge background container -->
+      <rect x="137" y="699" width="166" height="42" rx="12" fill="#0F172A"  filter="url(#subtleShadow)"/>
       
-      <!-- Drop shadow for flag circle -->
-      <circle cx="220" cy="693" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="220" cy="691" r="27" fill="#000000" opacity="0.06" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(146, 707)">
+        <clipPath id="flag-clip-where-to-work-cost-vs-speed-17">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0yNTYgMGgyNTZ2NjRsLTMyIDMyIDMyIDMydjY0bC0zMiAzMiAzMiAzMnY2NGwtMzIgMzIgMzIgMzJ2NjRsLTI1NiAzMkwwIDQ0OHYtNjRsMzItMzItMzItMzJ2LTY0eiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0yMjQgNjRoMjg4djY0SDIyNFptMCAxMjhoMjg4djY0SDI1NlpNMCAzMjBoNTEydjY0SDBabTAgMTI4aDUxMnY2NEgwWiIvPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDBoMjU2djI1NkgwWiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0xODcgMjQzIDU3LTQxaC03MGw1NyA0MS0yMi02N3ptLTgxIDAgNTctNDFIOTNsNTcgNDEtMjItNjd6bS04MSAwIDU3LTQxSDEybDU3IDQxLTIyLTY3em0xNjItODEgNTctNDFoLTcwbDU3IDQxLTIyLTY3em0tODEgMCA1Ny00MUg5M2w1NyA0MS0yMi02N3ptLTgxIDAgNTctNDFIMTJsNTcgNDEtMjItNjdabTE2Mi04MiA1Ny00MWgtNzBsNTcgNDEtMjItNjdabS04MSAwIDU3LTQxSDkzbDU3IDQxLTIyLTY3em0tODEgMCA1Ny00MUgxMmw1NyA0MS0yMi02N1oiLz48L2c+PC9zdmc+" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-where-to-work-cost-vs-speed-17)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0yNTYgMGgyNTZ2NjRsLTMyIDMyIDMyIDMydjY0bC0zMiAzMiAzMiAzMnY2NGwtMzIgMzIgMzIgMzJ2NjRsLTI1NiAzMkwwIDQ0OHYtNjRsMzItMzItMzItMzJ2LTY0eiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0yMjQgNjRoMjg4djY0SDIyNFptMCAxMjhoMjg4djY0SDI1NlpNMCAzMjBoNTEydjY0SDBabTAgMTI4aDUxMnY2NEgwWiIvPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDBoMjU2djI1NkgwWiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0xODcgMjQzIDU3LTQxaC03MGw1NyA0MS0yMi02N3ptLTgxIDAgNTctNDFIOTNsNTcgNDEtMjItNjd6bS04MSAwIDU3LTQxSDEybDU3IDQxLTIyLTY3em0xNjItODEgNTctNDFoLTcwbDU3IDQxLTIyLTY3em0tODEgMCA1Ny00MUg5M2w1NyA0MS0yMi02N3ptLTgxIDAgNTctNDFIMTJsNTcgNDEtMjItNjdabTE2Mi04MiA1Ny00MWgtNzBsNTcgNDEtMjItNjdabS04MSAwIDU3LTQxSDkzbDU3IDQxLTIyLTY3em0tODEgMCA1Ny00MUgxMmw1NyA0MS0yMi02N1oiLz48L2c+PC9zdmc+" x="193" y="663" width="54" height="54" />
-      
-      <!-- Flag borders -->
-      <circle cx="220" cy="690" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="220" cy="690" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="220" y="734" text-anchor="middle" class="item-title">New York</text>
-      <text x="220" y="752" text-anchor="middle" class="item-sub">290 Mbps · $6,100/mo</text>
+      <!-- Text details -->
+      <text x="179" y="717" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">New York</text>
+      <text x="179" y="731" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#94A3B8">290 Mbps · $6,100/mo</text>
     </g>
 
-  <!-- Footer Footnotes & Watermark -->
-  <text x="45" y="1165" font-size="13" font-weight="400" fill="#9CA3AF" class="meta">Sources: Hashtag Web3 Nomad Index (Ookla speed tests + Numbeo monthly living costs, Oct 2026).</text>
-  <text x="1155" y="1165" text-anchor="end" font-size="15" class="meta"><tspan fill="#4B5563" font-weight="500">Find Web3 Jobs at </tspan><tspan fill="#111827" font-weight="700">hashtagweb3.com</tspan></text>
+  <!-- Footer Sources & Watermark -->
+  <line x1="45" y1="1138" x2="1155" y2="1138" stroke="#E2E8F0" stroke-width="1" />
+  <text x="45" y="1165" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="13" font-weight="400" fill="#64748B">Sources: Hashtag Web3 Nomad Index (Ookla speed tests + Numbeo monthly living costs, Oct 2026).</text>
+  <text x="1155" y="1165" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="14.5"><tspan fill="#64748B" font-weight="500">Find Web3 Jobs at </tspan><tspan fill="#0F172A" font-weight="700">hashtagweb3.com</tspan></text>
 </svg>

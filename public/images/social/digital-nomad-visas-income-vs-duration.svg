@@ -1,322 +1,340 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
   <defs>
-    <style>
-      .title { font-family: Georgia, 'Times New Roman', 'Playfair Display', serif; font-weight: 700; fill: #111827; }
-      .axis-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 800; letter-spacing: 1.5px; fill: #111827; }
-      .meta { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
-      .item-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 700; fill: #111827; paint-order: stroke fill; stroke: #FFFFFF; stroke-width: 4.5px; stroke-linejoin: round; }
-      .item-sub { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 12.5px; font-weight: 500; fill: #4B5563; paint-order: stroke fill; stroke: #FFFFFF; stroke-width: 3.5px; stroke-linejoin: round; }
-    </style>
+    <!-- Dot Grid Pattern -->
+    <pattern id="dotGrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="14" cy="14" r="1.5" fill="#CBD5E1" />
+    </pattern>
+
+    <!-- Drop Shadows for Badges -->
+    <filter id="badgeShadow" x="-10%" y="-20%" width="125%" height="150%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#0F172A" flood-opacity="0.08" />
+    </filter>
+    <filter id="subtleShadow" x="-10%" y="-20%" width="125%" height="150%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#000000" flood-opacity="0.12" />
+    </filter>
   </defs>
 
-  <!-- Clean Background -->
-  <rect width="1200" height="1200" fill="#FFFFFF"/>
+  <!-- Background Canvas with Dot Grid -->
+  <rect width="1200" height="1200" fill="#F8FAFC" />
+  <rect width="1200" height="1200" fill="url(#dotGrid)" />
 
-  <!-- Top Header Title (Dynamically Scaled & Centered, 0% Edge Clipping) -->
-  <text x="600" y="85" text-anchor="middle" font-size="40" class="title">Digital Nomad Visas: Income vs Stay</text>
+  <!-- Outer Border Frame -->
+  <rect x="24" y="24" width="1152" height="1152" rx="20" fill="none" stroke="#E2E8F0" stroke-width="1.5" />
 
-  <!-- Central Crosshairs Axes with Direct Sharp Polygon Arrows -->
-  <!-- Horizontal X-Axis Line (from 75 to 1125, y=620) -->
-  <line x1="75" y1="620" x2="1125" y2="620" stroke="#1F2937" stroke-width="2.5"/>
+  <!-- Top Title -->
+  <text x="600" y="80" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, Helvetica, sans-serif" font-size="39" font-weight="800" fill="#0F172A" letter-spacing="-0.5px">Digital Nomad Visas: Income vs Stay</text>
+
+  <!-- Central Crosshairs Axes in Clean Charcoal/Slate -->
+  <!-- Horizontal X-Axis Line (from 90 to 1110, y=620) -->
+  <line x1="90" y1="620" x2="1110" y2="620" stroke="#64748B" stroke-width="2.5" />
   <!-- Left Arrow (pointing LEFT) -->
-  <polygon points="60,620 75,613 75,627" fill="#1F2937"/>
+  <polygon points="75,620 92,612 92,628" fill="#64748B" />
   <!-- Right Arrow (pointing RIGHT) -->
-  <polygon points="1140,620 1125,613 1125,627" fill="#1F2937"/>
+  <polygon points="1125,620 1108,612 1108,628" fill="#64748B" />
 
   <!-- Vertical Y-Axis Line (from 175 to 1065, x=600) -->
-  <line x1="600" y1="175" x2="600" y2="1065" stroke="#1F2937" stroke-width="2.5"/>
+  <line x1="600" y1="175" x2="600" y2="1065" stroke="#64748B" stroke-width="2.5" />
   <!-- Top Arrow (pointing UP) -->
-  <polygon points="600,160 593,175 607,175" fill="#1F2937"/>
+  <polygon points="600,160 592,177 608,177" fill="#64748B" />
   <!-- Bottom Arrow (pointing DOWN) -->
-  <polygon points="600,1080 593,1065 607,1065" fill="#1F2937"/>
+  <polygon points="600,1080 592,1063 608,1063" fill="#64748B" />
 
-  <!-- Axis Labels -->
-  <!-- Top Label -->
-  <text x="600" y="142" text-anchor="middle" font-size="17" class="axis-label">LONG STAY (2 TO 5 YEARS)</text>
+  <!-- Axis Labels (Clean, Modern, Slate) -->
+  <text x="600" y="140" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700" fill="#334155" letter-spacing="1.2px">LONG STAY (2 TO 5 YEARS)</text>
+  <text x="600" y="1112" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700" fill="#334155" letter-spacing="1.2px">SHORT STAY (6 TO 12 MONTHS)</text>
+  <text x="100" y="608" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="700" fill="#334155" letter-spacing="1.2px">HIGH INCOME BAR</text>
+  <text x="1100" y="608" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="700" fill="#334155" letter-spacing="1.2px">LOW INCOME BAR</text>
+
+  <!-- Data Badges / Stickers -->
   
-  <!-- Bottom Label -->
-  <text x="600" y="1108" text-anchor="middle" font-size="17" class="axis-label">SHORT STAY (6 TO 12 MONTHS)</text>
-  
-  <!-- Left Label (placed cleanly above the left arrow line) -->
-  <text x="80" y="608" text-anchor="start" font-size="16" class="axis-label">HIGH INCOME BAR</text>
-  
-  <!-- Right Label (placed cleanly above the right arrow line) -->
-  <text x="1120" y="608" text-anchor="end" font-size="16" class="axis-label">LOW INCOME BAR</text>
-
-  <!-- Render Data Points -->
-  
-    <g class="matrix-item" data-name="Thailand (DTV)">
-      <line x1="940" y1="191" x2="940" y2="180" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
-      <!-- Drop shadow for flag circle -->
-      <circle cx="940" cy="223" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="940" cy="221" r="27" fill="#000000" opacity="0.06" />
+    <g class="badge" data-name="Thailand (DTV)">
+      <!-- Badge background container -->
+      <rect x="855" y="199" width="170" height="42" rx="12" fill="#059669"  filter="url(#subtleShadow)"/>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjg5bC03OS4yIDE2My43TDUxMiA0MjN2ODlIMHYtODlsODIuNy0xNjkuNkwwIDg5eiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDg5aDUxMnY3OGwtNDIuNiA5MS4yTDUxMiAzNDV2NzhIMHYtNzhsNDAtOTIuNUwwIDE2N3oiLz48cGF0aCBmaWxsPSIjMDA1MmI0IiBkPSJNMCAxNjdoNTEydjE3OEgweiIvPjwvZz48L3N2Zz4=" x="913" y="193" width="54" height="54" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(864, 207)">
+        <clipPath id="flag-clip-digital-nomad-visas-income-vs-duration-0">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjg5bC03OS4yIDE2My43TDUxMiA0MjN2ODlIMHYtODlsODIuNy0xNjkuNkwwIDg5eiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDg5aDUxMnY3OGwtNDIuNiA5MS4yTDUxMiAzNDV2NzhIMHYtNzhsNDAtOTIuNUwwIDE2N3oiLz48cGF0aCBmaWxsPSIjMDA1MmI0IiBkPSJNMCAxNjdoNTEydjE3OEgweiIvPjwvZz48L3N2Zz4=" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-digital-nomad-visas-income-vs-duration-0)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag borders -->
-      <circle cx="940" cy="220" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="940" cy="220" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="940" y="174" text-anchor="middle" class="item-title">Thailand (DTV)</text>
-      <text x="940" y="192" text-anchor="middle" class="item-sub">5 Years · $28k Proof</text>
+      <!-- Text details -->
+      <text x="897" y="217" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Thailand (DTV)</text>
+      <text x="897" y="231" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#A7F3D0">5 Years · $28k Proof</text>
     </g>
 
-    <g class="matrix-item" data-name="Albania">
+    <g class="badge" data-name="Albania">
+      <!-- Badge background container -->
+      <rect x="792" y="309" width="177" height="42" rx="12" fill="#0D9488"  filter="url(#subtleShadow)"/>
       
-      <!-- Drop shadow for flag circle -->
-      <circle cx="880" cy="333" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="880" cy="331" r="27" fill="#000000" opacity="0.06" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(801, 317)">
+        <clipPath id="flag-clip-digital-nomad-visas-income-vs-duration-1">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjUxMkgweiIvPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik00MDAuNyAxOTBIMzA4YTMzLjMgMzMuMyAwIDAgMC0yNC4yLTU2LjQgMzMuMyAzMy4zIDAgMCAwLTI3LjggMTQuOSAzMy40IDMzLjQgMCAxIDAtNTIgNDEuNWgtOTIuN2E0NS44IDQ1LjggMCAwIDAgNDYgNDQuNWgtMS41YzAgMjQuNiAyMCA0NC42IDQ0LjUgNDQuNiAwIDggMi4xIDE1LjQgNS44IDIxLjhsLTM3IDM3IDI4LjQgMjguMyA0MC4yLTQwLjJhMzAuNSAzMC41IDAgMCAwIDQuOSAxLjRsLTI0LjMgNTQuOEwyNTYgNDIzbDM3LjctNDAuOC0yNC4zLTU0LjhhMzAuNCAzMC40IDAgMCAwIDQuOS0xLjRsNDAuMiA0MC4yIDI4LjMtMjguMy0zNy0zN2E0NC4yIDQ0LjIgMCAwIDAgNS45LTIxLjhjMjQuNSAwIDQ0LjUtMjAgNDQuNS00NC42aC0xLjVjMjQuNiAwIDQ2LTE5LjkgNDYtNDQuNXoiLz48L2c+PC9zdmc+" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-digital-nomad-visas-income-vs-duration-1)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjUxMkgweiIvPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik00MDAuNyAxOTBIMzA4YTMzLjMgMzMuMyAwIDAgMC0yNC4yLTU2LjQgMzMuMyAzMy4zIDAgMCAwLTI3LjggMTQuOSAzMy40IDMzLjQgMCAxIDAtNTIgNDEuNWgtOTIuN2E0NS44IDQ1LjggMCAwIDAgNDYgNDQuNWgtMS41YzAgMjQuNiAyMCA0NC42IDQ0LjUgNDQuNiAwIDggMi4xIDE1LjQgNS44IDIxLjhsLTM3IDM3IDI4LjQgMjguMyA0MC4yLTQwLjJhMzAuNSAzMC41IDAgMCAwIDQuOSAxLjRsLTI0LjMgNTQuOEwyNTYgNDIzbDM3LjctNDAuOC0yNC4zLTU0LjhhMzAuNCAzMC40IDAgMCAwIDQuOS0xLjRsNDAuMiA0MC4yIDI4LjMtMjguMy0zNy0zN2E0NC4yIDQ0LjIgMCAwIDAgNS45LTIxLjhjMjQuNSAwIDQ0LjUtMjAgNDQuNS00NC42aC0xLjVjMjQuNiAwIDQ2LTE5LjkgNDYtNDQuNXoiLz48L2c+PC9zdmc+" x="853" y="303" width="54" height="54" />
-      
-      <!-- Flag borders -->
-      <circle cx="880" cy="330" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="880" cy="330" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="880" y="374" text-anchor="middle" class="item-title">Albania</text>
-      <text x="880" y="392" text-anchor="middle" class="item-sub">Up to 5 Yrs · ~$820/mo</text>
+      <!-- Text details -->
+      <text x="834" y="327" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Albania</text>
+      <text x="834" y="341" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#CCFBF1">Up to 5 Yrs · ~$820/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Spain">
-      <line x1="720" y1="269" x2="758" y2="231" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
-      <!-- Drop shadow for flag circle -->
-      <circle cx="720" cy="243" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="720" cy="241" r="27" fill="#000000" opacity="0.06" />
+    <g class="badge" data-name="Spain">
+      <!-- Badge background container -->
+      <rect x="642" y="219" width="177" height="42" rx="12" fill="#E11D48"  filter="url(#subtleShadow)"/>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0wIDEyOCAyNTYtMzIgMjU2IDMydjI1NmwtMjU2IDMyTDAgMzg0WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0xOTYgMTY4cS0xMSAxLTE1IDExbC01LTFxLTE1IDEtMTYgMTZjLTEgMTUgNyAxNiAxNiAxNnExMSAwIDE1LTExYTE2IDE2IDAgMCAwIDE3LTQgMTYgMTYgMCAwIDAgMTcgNCAxNiAxNiAwIDEgMCAxMC0yMCAxNiAxNiAwIDAgMC0yNy01cS00LTYtMTItNm0wIDhxOCAxIDggOCAwIDgtOCA4LTcgMC04LTggMS03IDgtOG0yNCAwcTggMSA4IDggMCA4LTggOC03IDAtOC04IDEtNyA4LThtLTQ0IDEwIDQgMSA0IDhxLTEgNy04IDctOSAwLTgtOCAxLTcgOC04bTY0IDBxOCAxIDggOCAwIDgtOCA4LTcgMC04LTdsNC04em0tMTEyIDM4djgwaDE2di04MHptODAgMHY0MGMtMjYgMC00OCAxNC00OCAzMnMyMiAzMiA0OCAzMiA0OC0xNCA0OC0zMnYtNzJ6bTY0IDB2ODBoMTZ2LTgweiIvPjxwYXRoIGZpbGw9IiNmZjk4MTEiIGQ9Ik0yMDAgMTYwaDE2djMyaC0xNnoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMCAwdjEyOGg1MTJWMHptMjA4IDE4NGMtMjIgMC00MCAxMS00MCAyNGw4IDhoNjRsOC04YzAtMTMtMTgtMjQtNDAtMjRtLTcyIDhhOCA4IDAgMCAwLTggOHY4YTggOCAwIDEgMCAxNiAwdi04YTggOCAwIDAgMC04LThtMTQ0IDBhOCA4IDAgMCAwLTggOHY4YTggOCAwIDEgMCAxNiAwdi04YTggOCAwIDAgMC04LThtLTEyMCAzMnYyNGgtMzhhNCA0IDAgMCAwLTQgNCA0IDQgMCAwIDAgNCA0aDM4djQwYTI0IDI0IDAgMCAwIDI0IDI0IDI0IDI0IDAgMCAwIDI0LTI0IDI0IDI0IDAgMCAwIDI0IDI0IDI0IDI0IDAgMCAwIDI0LTI0di0yNGgtNDh2LTQ4em03MiA4YTEwIDEwIDAgMCAwLTEwIDEwdjEyYTEwIDEwIDAgMSAwIDIwIDB2LTEyYTEwIDEwIDAgMCAwLTEwLTEwbTI0IDE2djhoMzhhNCA0IDAgMCAwIDQtNCA0IDQgMCAwIDAtNC00em0tMTM0IDI0YTQgNCAwIDAgMC00IDQgNCA0IDAgMCAwIDQgNGgyOGE0IDQgMCAwIDAgNC00IDQgNCAwIDAgMC00LTR6bTE0NCAwYTQgNCAwIDAgMC00IDQgNCA0IDAgMCAwIDQgNGgyOGE0IDQgMCAwIDAgNC00IDQgNCAwIDAgMC00LTR6TTAgMzg0djEyOGg1MTJWMzg0eiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Ik0xODYgMTk2YTYgNiAwIDAgMC02IDYgNiA2IDAgMCAwIDYgNiA2IDYgMCAwIDAgNi02IDYgNiAwIDAgMC02LTZtMjIgMGE2IDYgMCAwIDAtNiA2IDYgNiAwIDAgMCA2IDYgNiA2IDAgMCAwIDYtNiA2IDYgMCAwIDAtNi02bTIyIDBhNiA2IDAgMCAwLTYgNiA2IDYgMCAwIDAgNiA2IDYgNiAwIDAgMCA2LTYgNiA2IDAgMCAwLTYtNiIvPjxwYXRoIGZpbGw9IiNmZjk4MTEiIGQ9Ik0xMjggMjA4YTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2em0xNDQgMGE4IDggMCAxIDAgMCAxNmgxNmE4IDggMCAxIDAgMC0xNnptLTk2IDh2OGg2NHYtOHptLTggMTZ2OGg4djE2aC04djhoMzJ2LThoLTh2LTE2aDh2LTh6bS04IDQwdjI0cTEgMTIgOSAxOXYtNDN6bTE5IDB2NDdoMTB2LTQ3em0yMCAwdjQzcTktNyA5LTE5di0yNHptLTcxIDMyYTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2em0xNDQgMGE4IDggMCAxIDAgMCAxNmgxNmE4IDggMCAxIDAgMC0xNnoiLz48cGF0aCBmaWxsPSIjMzM4YWYzIiBkPSJNMjA4IDI1NmExNiAxNiAwIDAgMC0xNiAxNiAxNiAxNiAwIDAgMCAxNiAxNiAxNiAxNiAwIDAgMCAxNi0xNiAxNiAxNiAwIDAgMC0xNi0xNm0tODAgNjRhOCA4IDAgMSAwIDAgMTZoMTZhOCA4IDAgMSAwIDAtMTZ6bTE0NCAwYTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2eiIvPjwvZz48L3N2Zz4=" x="693" y="213" width="54" height="54" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(651, 227)">
+        <clipPath id="flag-clip-digital-nomad-visas-income-vs-duration-2">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0wIDEyOCAyNTYtMzIgMjU2IDMydjI1NmwtMjU2IDMyTDAgMzg0WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0xOTYgMTY4cS0xMSAxLTE1IDExbC01LTFxLTE1IDEtMTYgMTZjLTEgMTUgNyAxNiAxNiAxNnExMSAwIDE1LTExYTE2IDE2IDAgMCAwIDE3LTQgMTYgMTYgMCAwIDAgMTcgNCAxNiAxNiAwIDEgMCAxMC0yMCAxNiAxNiAwIDAgMC0yNy01cS00LTYtMTItNm0wIDhxOCAxIDggOCAwIDgtOCA4LTcgMC04LTggMS03IDgtOG0yNCAwcTggMSA4IDggMCA4LTggOC03IDAtOC04IDEtNyA4LThtLTQ0IDEwIDQgMSA0IDhxLTEgNy04IDctOSAwLTgtOCAxLTcgOC04bTY0IDBxOCAxIDggOCAwIDgtOCA4LTcgMC04LTdsNC04em0tMTEyIDM4djgwaDE2di04MHptODAgMHY0MGMtMjYgMC00OCAxNC00OCAzMnMyMiAzMiA0OCAzMiA0OC0xNCA0OC0zMnYtNzJ6bTY0IDB2ODBoMTZ2LTgweiIvPjxwYXRoIGZpbGw9IiNmZjk4MTEiIGQ9Ik0yMDAgMTYwaDE2djMyaC0xNnoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMCAwdjEyOGg1MTJWMHptMjA4IDE4NGMtMjIgMC00MCAxMS00MCAyNGw4IDhoNjRsOC04YzAtMTMtMTgtMjQtNDAtMjRtLTcyIDhhOCA4IDAgMCAwLTggOHY4YTggOCAwIDEgMCAxNiAwdi04YTggOCAwIDAgMC04LThtMTQ0IDBhOCA4IDAgMCAwLTggOHY4YTggOCAwIDEgMCAxNiAwdi04YTggOCAwIDAgMC04LThtLTEyMCAzMnYyNGgtMzhhNCA0IDAgMCAwLTQgNCA0IDQgMCAwIDAgNCA0aDM4djQwYTI0IDI0IDAgMCAwIDI0IDI0IDI0IDI0IDAgMCAwIDI0LTI0IDI0IDI0IDAgMCAwIDI0IDI0IDI0IDI0IDAgMCAwIDI0LTI0di0yNGgtNDh2LTQ4em03MiA4YTEwIDEwIDAgMCAwLTEwIDEwdjEyYTEwIDEwIDAgMSAwIDIwIDB2LTEyYTEwIDEwIDAgMCAwLTEwLTEwbTI0IDE2djhoMzhhNCA0IDAgMCAwIDQtNCA0IDQgMCAwIDAtNC00em0tMTM0IDI0YTQgNCAwIDAgMC00IDQgNCA0IDAgMCAwIDQgNGgyOGE0IDQgMCAwIDAgNC00IDQgNCAwIDAgMC00LTR6bTE0NCAwYTQgNCAwIDAgMC00IDQgNCA0IDAgMCAwIDQgNGgyOGE0IDQgMCAwIDAgNC00IDQgNCAwIDAgMC00LTR6TTAgMzg0djEyOGg1MTJWMzg0eiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Ik0xODYgMTk2YTYgNiAwIDAgMC02IDYgNiA2IDAgMCAwIDYgNiA2IDYgMCAwIDAgNi02IDYgNiAwIDAgMC02LTZtMjIgMGE2IDYgMCAwIDAtNiA2IDYgNiAwIDAgMCA2IDYgNiA2IDAgMCAwIDYtNiA2IDYgMCAwIDAtNi02bTIyIDBhNiA2IDAgMCAwLTYgNiA2IDYgMCAwIDAgNiA2IDYgNiAwIDAgMCA2LTYgNiA2IDAgMCAwLTYtNiIvPjxwYXRoIGZpbGw9IiNmZjk4MTEiIGQ9Ik0xMjggMjA4YTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2em0xNDQgMGE4IDggMCAxIDAgMCAxNmgxNmE4IDggMCAxIDAgMC0xNnptLTk2IDh2OGg2NHYtOHptLTggMTZ2OGg4djE2aC04djhoMzJ2LThoLTh2LTE2aDh2LTh6bS04IDQwdjI0cTEgMTIgOSAxOXYtNDN6bTE5IDB2NDdoMTB2LTQ3em0yMCAwdjQzcTktNyA5LTE5di0yNHptLTcxIDMyYTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2em0xNDQgMGE4IDggMCAxIDAgMCAxNmgxNmE4IDggMCAxIDAgMC0xNnoiLz48cGF0aCBmaWxsPSIjMzM4YWYzIiBkPSJNMjA4IDI1NmExNiAxNiAwIDAgMC0xNiAxNiAxNiAxNiAwIDAgMCAxNiAxNiAxNiAxNiAwIDAgMCAxNi0xNiAxNiAxNiAwIDAgMC0xNi0xNm0tODAgNjRhOCA4IDAgMSAwIDAgMTZoMTZhOCA4IDAgMSAwIDAtMTZ6bTE0NCAwYTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2eiIvPjwvZz48L3N2Zz4=" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-digital-nomad-visas-income-vs-duration-2)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag borders -->
-      <circle cx="720" cy="240" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="720" cy="240" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="758" y="246" text-anchor="start" class="item-title">Spain</text>
-      <text x="758" y="264" text-anchor="start" class="item-sub">3-5 Years · ~$2,800/mo</text>
+      <!-- Text details -->
+      <text x="684" y="237" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Spain</text>
+      <text x="684" y="251" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#FECDD3">3-5 Years · ~$2,800/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Colombia">
+    <g class="badge" data-name="Colombia">
+      <!-- Badge background container -->
+      <rect x="777" y="419" width="166" height="42" rx="12" fill="#C084FC"  filter="url(#subtleShadow)"/>
       
-      <!-- Drop shadow for flag circle -->
-      <circle cx="860" cy="443" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="860" cy="441" r="27" fill="#000000" opacity="0.06" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(786, 427)">
+        <clipPath id="flag-clip-digital-nomad-visas-income-vs-duration-3">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Im0wIDM4NCAyNTUuOC0yOS43TDUxMiAzODR2MTI4SDB6Ii8+PHBhdGggZmlsbD0iIzAwNTJiNCIgZD0ibTAgMjU2IDI1OS41LTMxTDUxMiAyNTZ2MTI4SDB6Ii8+PHBhdGggZmlsbD0iI2ZmZGE0NCIgZD0iTTAgMGg1MTJ2MjU2SDB6Ii8+PC9nPjwvc3ZnPg==" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-digital-nomad-visas-income-vs-duration-3)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Im0wIDM4NCAyNTUuOC0yOS43TDUxMiAzODR2MTI4SDB6Ii8+PHBhdGggZmlsbD0iIzAwNTJiNCIgZD0ibTAgMjU2IDI1OS41LTMxTDUxMiAyNTZ2MTI4SDB6Ii8+PHBhdGggZmlsbD0iI2ZmZGE0NCIgZD0iTTAgMGg1MTJ2MjU2SDB6Ii8+PC9nPjwvc3ZnPg==" x="833" y="413" width="54" height="54" />
-      
-      <!-- Flag borders -->
-      <circle cx="860" cy="440" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="860" cy="440" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="860" y="484" text-anchor="middle" class="item-title">Colombia</text>
-      <text x="860" y="502" text-anchor="middle" class="item-sub">2 Years · ~$1,400/mo</text>
+      <!-- Text details -->
+      <text x="819" y="437" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#1E1B4B">Colombia</text>
+      <text x="819" y="451" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#581C87">2 Years · ~$1,400/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Portugal (D8)">
-      <line x1="330" y1="311" x2="330" y2="300" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
-      <!-- Drop shadow for flag circle -->
-      <circle cx="330" cy="343" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="330" cy="341" r="27" fill="#000000" opacity="0.06" />
+    <g class="badge" data-name="Portugal (D8)">
+      <!-- Badge background container -->
+      <rect x="226" y="319" width="166" height="42" rx="12" fill="#FF5722"  filter="url(#subtleShadow)"/>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiM2ZGE1NDQiIGQ9Ik0wIDUxMmgxNjdsMzcuOS0yNjAuM0wxNjcgMEgweiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik01MTIgMEgxNjd2NTEyaDM0NXoiLz48Y2lyY2xlIGN4PSIxNjciIGN5PSIyNTYiIHI9Ijg5IiBmaWxsPSIjZmZkYTQ0Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTExNi45IDIxMS41VjI2N2E1MCA1MCAwIDEgMCAxMDAuMSAwdi01NS42SDExN3oiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJNMTY3IDI4My44Yy05LjIgMC0xNi43LTcuNS0xNi43LTE2LjdWMjQ1aDMzLjR2MjJjMCA5LjItNy41IDE2LjctMTYuNyAxNi43eiIvPjwvZz48L3N2Zz4=" x="303" y="313" width="54" height="54" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(235, 327)">
+        <clipPath id="flag-clip-digital-nomad-visas-income-vs-duration-4">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiM2ZGE1NDQiIGQ9Ik0wIDUxMmgxNjdsMzcuOS0yNjAuM0wxNjcgMEgweiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik01MTIgMEgxNjd2NTEyaDM0NXoiLz48Y2lyY2xlIGN4PSIxNjciIGN5PSIyNTYiIHI9Ijg5IiBmaWxsPSIjZmZkYTQ0Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTExNi45IDIxMS41VjI2N2E1MCA1MCAwIDEgMCAxMDAuMSAwdi01NS42SDExN3oiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJNMTY3IDI4My44Yy05LjIgMC0xNi43LTcuNS0xNi43LTE2LjdWMjQ1aDMzLjR2MjJjMCA5LjItNy41IDE2LjctMTYuNyAxNi43eiIvPjwvZz48L3N2Zz4=" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-digital-nomad-visas-income-vs-duration-4)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag borders -->
-      <circle cx="330" cy="340" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="330" cy="340" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="330" y="294" text-anchor="middle" class="item-title">Portugal (D8)</text>
-      <text x="330" y="312" text-anchor="middle" class="item-sub">2 Years · ~$3,500/mo</text>
+      <!-- Text details -->
+      <text x="268" y="337" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Portugal (D8)</text>
+      <text x="268" y="351" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#FFE0B2">2 Years · ~$3,500/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Mexico">
+    <g class="badge" data-name="Mexico">
+      <!-- Badge background container -->
+      <rect x="406" y="329" width="177" height="42" rx="12" fill="#FACC15"  filter="url(#subtleShadow)"/>
       
-      <!-- Drop shadow for flag circle -->
-      <circle cx="480" cy="353" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="480" cy="351" r="27" fill="#000000" opacity="0.06" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(415, 337)">
+        <clipPath id="flag-clip-digital-nomad-visas-income-vs-duration-5">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0xNDQgMGgyMjNsMzMgMjU2LTMzIDI1NkgxNDRsLTMyLTI1NnoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMzY4IDBoMTQ0djUxMkgzNjh6Ii8+PHBhdGggZmlsbD0iIzc1MWE0NiIgZD0iTTI1NiAxNzRjMjIgMTEgMTIgMzMgMTEgMzRsLTItNGMtNC0xNS0xMy0zMy0zMS0xOHYxMXExMCAxIDExIDExLTExIDEyLTQgMjZsNCA4LTEzIDIzIDI5LTcgMTggMTh2LTExbDExIDExIDIzLTExLTM1LTIxLTItMTNjMjItMiAzNCA0IDUxIDI5IDktODMtNDUtODYtNjQtODZaIi8+PHBhdGggZmlsbD0iIzZkYTU0NCIgZD0iTTIwOSAxODNxLTUgNC00IDEyIDEgMTEgMTAgMTVjMyAyIDggMCAxMCAzIDMgMy0yIDUtNCA2cS04IDUtOSAxNCAzIDEwIDEyIDE1YzIgMiA3IDQgNSA3cS00IDItOS0yLTEyLTYtMTktMTljLTItMy0xLTEwLTctMTAtNyAyLTQgMTAtMiAxNHE4IDE0IDIxIDIzIDkgOCAyMCAzIDEwLTYgNC0xN2MtMy02LTExLTgtMTQtMTQtMi0zIDItNCA0LTZxOC00IDktMTEtMi0xMy0xNC0xNS02IDEtNy02Yy0xLTMgMy03IDAtMTFxLTItMy02LTEiLz48cGF0aCBmaWxsPSIjNDk2ZTJkIiBkPSJNMCAwdjUxMmgxNDRWMHptMTY0IDIzNWE1IDUgMCAwIDAtNSA1IDk3IDk3IDAgMCAwIDE5NCAwIDUgNSAwIDAgMC01LTUgNSA1IDAgMCAwLTUgNSA4NyA4NyAwIDEgMS0xNzQgMCA1IDUgMCAwIDAtNS01bTM1IDI1LTQgMXEtMyA0IDEgOCAyMyAyMSA1NCAyNHYxN2gxMnYtMTdxMzEtMyA1NC0yNCA0LTQgMS04LTQtMy04IDBhNzggNzggMCAwIDEtMTA2IDB6Ii8+PHBhdGggZmlsbD0iIzMzOGFmMyIgZD0iTTI1NiAzMTZxLTIxIDAtNDAtMTNsNi05YzIwIDEzIDQ4IDEzIDY4IDBsNyA5cS0xOCAxMy00MSAxMyIvPjxyZWN0IHdpZHRoPSIzNCIgaGVpZ2h0PSIyMiIgeD0iMjM5IiB5PSIyOTkiIGZpbGw9IiNmZjk4MTEiIHJ4PSIxMSIgcnk9IjExIi8+PHBhdGggZmlsbD0iI2ZmZGE0NCIgZD0ibTIzNCAxODYtMTIgMTF2MTFsMTgtOXE0LTMgMS03em0tNjIgNzlhMTAgMTAgMCAwIDAtMTAgMTAgMTAgMTAgMCAwIDAgMTAgMTAgMTAgMTAgMCAwIDAgMTAtMTAgMTAgMTAgMCAwIDAtMTAtMTBtMTY5IDBhMTAgMTAgMCAwIDAtMTAgMTAgMTAgMTAgMCAwIDAgMTAgMTAgMTAgMTAgMCAwIDAgMTAtMTAgMTAgMTAgMCAwIDAtMTAtMTBtLTY5IDQtMTYgOHY1bDE1LTEgNC05em0tODMgMjNhMTAgMTAgMCAwIDAtMTAgMTAgMTAgMTAgMCAwIDAgMTAgMTAgMTAgMTAgMCAwIDAgMTAtMTAgMTAgMTAgMCAwIDAtMTAtMTBtMTM1IDBhMTAgMTAgMCAwIDAtMTAgMTAgMTAgMTAgMCAwIDAgMTAgMTAgMTAgMTAgMCAwIDAgMTAtMTAgMTAgMTAgMCAwIDAtMTAtMTBtLTEwOCAyMWExMCAxMCAwIDAgMC0xMCAxMCAxMCAxMCAwIDAgMCAxMCAxMCAxMCAxMCAwIDAgMCAxMC0xMCAxMCAxMCAwIDAgMC0xMC0xMG04MSAwYTEwIDEwIDAgMCAwLTEwIDEwIDEwIDEwIDAgMCAwIDEwIDEwIDEwIDEwIDAgMCAwIDEwLTEwIDEwIDEwIDAgMCAwLTEwLTEwIi8+PC9nPjwvc3ZnPg==" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-digital-nomad-visas-income-vs-duration-5)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0xNDQgMGgyMjNsMzMgMjU2LTMzIDI1NkgxNDRsLTMyLTI1NnoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMzY4IDBoMTQ0djUxMkgzNjh6Ii8+PHBhdGggZmlsbD0iIzc1MWE0NiIgZD0iTTI1NiAxNzRjMjIgMTEgMTIgMzMgMTEgMzRsLTItNGMtNC0xNS0xMy0zMy0zMS0xOHYxMXExMCAxIDExIDExLTExIDEyLTQgMjZsNCA4LTEzIDIzIDI5LTcgMTggMTh2LTExbDExIDExIDIzLTExLTM1LTIxLTItMTNjMjItMiAzNCA0IDUxIDI5IDktODMtNDUtODYtNjQtODZaIi8+PHBhdGggZmlsbD0iIzZkYTU0NCIgZD0iTTIwOSAxODNxLTUgNC00IDEyIDEgMTEgMTAgMTVjMyAyIDggMCAxMCAzIDMgMy0yIDUtNCA2cS04IDUtOSAxNCAzIDEwIDEyIDE1YzIgMiA3IDQgNSA3cS00IDItOS0yLTEyLTYtMTktMTljLTItMy0xLTEwLTctMTAtNyAyLTQgMTAtMiAxNHE4IDE0IDIxIDIzIDkgOCAyMCAzIDEwLTYgNC0xN2MtMy02LTExLTgtMTQtMTQtMi0zIDItNCA0LTZxOC00IDktMTEtMi0xMy0xNC0xNS02IDEtNy02Yy0xLTMgMy03IDAtMTFxLTItMy02LTEiLz48cGF0aCBmaWxsPSIjNDk2ZTJkIiBkPSJNMCAwdjUxMmgxNDRWMHptMTY0IDIzNWE1IDUgMCAwIDAtNSA1IDk3IDk3IDAgMCAwIDE5NCAwIDUgNSAwIDAgMC01LTUgNSA1IDAgMCAwLTUgNSA4NyA4NyAwIDEgMS0xNzQgMCA1IDUgMCAwIDAtNS01bTM1IDI1LTQgMXEtMyA0IDEgOCAyMyAyMSA1NCAyNHYxN2gxMnYtMTdxMzEtMyA1NC0yNCA0LTQgMS04LTQtMy04IDBhNzggNzggMCAwIDEtMTA2IDB6Ii8+PHBhdGggZmlsbD0iIzMzOGFmMyIgZD0iTTI1NiAzMTZxLTIxIDAtNDAtMTNsNi05YzIwIDEzIDQ4IDEzIDY4IDBsNyA5cS0xOCAxMy00MSAxMyIvPjxyZWN0IHdpZHRoPSIzNCIgaGVpZ2h0PSIyMiIgeD0iMjM5IiB5PSIyOTkiIGZpbGw9IiNmZjk4MTEiIHJ4PSIxMSIgcnk9IjExIi8+PHBhdGggZmlsbD0iI2ZmZGE0NCIgZD0ibTIzNCAxODYtMTIgMTF2MTFsMTgtOXE0LTMgMS03em0tNjIgNzlhMTAgMTAgMCAwIDAtMTAgMTAgMTAgMTAgMCAwIDAgMTAgMTAgMTAgMTAgMCAwIDAgMTAtMTAgMTAgMTAgMCAwIDAtMTAtMTBtMTY5IDBhMTAgMTAgMCAwIDAtMTAgMTAgMTAgMTAgMCAwIDAgMTAgMTAgMTAgMTAgMCAwIDAgMTAtMTAgMTAgMTAgMCAwIDAtMTAtMTBtLTY5IDQtMTYgOHY1bDE1LTEgNC05em0tODMgMjNhMTAgMTAgMCAwIDAtMTAgMTAgMTAgMTAgMCAwIDAgMTAgMTAgMTAgMTAgMCAwIDAgMTAtMTAgMTAgMTAgMCAwIDAtMTAtMTBtMTM1IDBhMTAgMTAgMCAwIDAtMTAgMTAgMTAgMTAgMCAwIDAgMTAgMTAgMTAgMTAgMCAwIDAgMTAtMTAgMTAgMTAgMCAwIDAtMTAtMTBtLTEwOCAyMWExMCAxMCAwIDAgMC0xMCAxMCAxMCAxMCAwIDAgMCAxMCAxMCAxMCAxMCAwIDAgMCAxMC0xMCAxMCAxMCAwIDAgMC0xMC0xMG04MSAwYTEwIDEwIDAgMCAwLTEwIDEwIDEwIDEwIDAgMCAwIDEwIDEwIDEwIDEwIDAgMCAwIDEwLTEwIDEwIDEwIDAgMCAwLTEwLTEwIi8+PC9nPjwvc3ZnPg==" x="453" y="323" width="54" height="54" />
-      
-      <!-- Flag borders -->
-      <circle cx="480" cy="350" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="480" cy="350" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="480" y="394" text-anchor="middle" class="item-title">Mexico</text>
-      <text x="480" y="412" text-anchor="middle" class="item-sub">1-4 Years · ~$3,200/mo</text>
+      <!-- Text details -->
+      <text x="448" y="347" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#1E293B">Mexico</text>
+      <text x="448" y="361" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#475569">1-4 Years · ~$3,200/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Greece">
+    <g class="badge" data-name="Greece">
+      <!-- Badge background container -->
+      <rect x="248" y="439" width="160" height="42" rx="12" fill="#2563EB"  filter="url(#subtleShadow)"/>
       
-      <!-- Drop shadow for flag circle -->
-      <circle cx="340" cy="463" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="340" cy="461" r="27" fill="#000000" opacity="0.06" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(257, 447)">
+        <clipPath id="flag-clip-digital-nomad-visas-income-vs-duration-6">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDBoOTlsMjkgMzIgMjgtMzJoMzU2djU3bC0zMiAyOCAzMiAyOXY1N2wtMzIgMjggMzIgMjl2NTdsLTMyIDI4IDMyIDI4djU3bC0zMiAyOSAzMiAyOHY1N0gwdi01N2wzMi0yOC0zMi0yOXYtNTZsMzItMjktMzItMjhWMTcxbDMyLTI5LTMyLTI4WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik05OSAwdjExNEgwdjU3aDk5djExNEgwdjU3aDUxMnYtNTdIMTU2VjE3MWgxMDB2LTU3SDE1NlYwWm0xNTcgNTd2NTdoMjU2VjU3Wm0wIDExNHY1N2gyNTZ2LTU3Wk0wIDM5OHY1N2g1MTJ2LTU3eiIvPjwvZz48L3N2Zz4=" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-digital-nomad-visas-income-vs-duration-6)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDBoOTlsMjkgMzIgMjgtMzJoMzU2djU3bC0zMiAyOCAzMiAyOXY1N2wtMzIgMjggMzIgMjl2NTdsLTMyIDI4IDMyIDI4djU3bC0zMiAyOSAzMiAyOHY1N0gwdi01N2wzMi0yOC0zMi0yOXYtNTZsMzItMjktMzItMjhWMTcxbDMyLTI5LTMyLTI4WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik05OSAwdjExNEgwdjU3aDk5djExNEgwdjU3aDUxMnYtNTdIMTU2VjE3MWgxMDB2LTU3SDE1NlYwWm0xNTcgNTd2NTdoMjU2VjU3Wm0wIDExNHY1N2gyNTZ2LTU3Wk0wIDM5OHY1N2g1MTJ2LTU3eiIvPjwvZz48L3N2Zz4=" x="313" y="433" width="54" height="54" />
-      
-      <!-- Flag borders -->
-      <circle cx="340" cy="460" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="340" cy="460" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="340" y="504" text-anchor="middle" class="item-title">Greece</text>
-      <text x="340" y="522" text-anchor="middle" class="item-sub">2 Years · €3,500/mo</text>
+      <!-- Text details -->
+      <text x="290" y="457" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Greece</text>
+      <text x="290" y="471" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#BFDBFE">2 Years · €3,500/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Costa Rica">
+    <g class="badge" data-name="Costa Rica">
+      <!-- Badge background container -->
+      <rect x="422" y="449" width="160" height="42" rx="12" fill="#059669"  filter="url(#subtleShadow)"/>
       
-      <!-- Drop shadow for flag circle -->
-      <circle cx="490" cy="473" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="490" cy="471" r="27" fill="#000000" opacity="0.06" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(431, 457)">
+        <clipPath id="flag-clip-digital-nomad-visas-income-vs-duration-7">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDBoNTEydjg5bC02Ni4zIDE2Ny41TDUxMiA0MjN2ODlIMHYtODlsNjkuNy0xNjcuM0wwIDg5eiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDg5aDUxMnY3OGwtMzkuNyA5MS4xTDUxMiAzNDV2NzhIMHYtNzhsMzYuMy04NS42TDAgMTY3eiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDE2N2g1MTJ2MTc4SDB6Ii8+PC9nPjwvc3ZnPg==" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-digital-nomad-visas-income-vs-duration-7)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDBoNTEydjg5bC02Ni4zIDE2Ny41TDUxMiA0MjN2ODlIMHYtODlsNjkuNy0xNjcuM0wwIDg5eiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDg5aDUxMnY3OGwtMzkuNyA5MS4xTDUxMiAzNDV2NzhIMHYtNzhsMzYuMy04NS42TDAgMTY3eiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDE2N2g1MTJ2MTc4SDB6Ii8+PC9nPjwvc3ZnPg==" x="463" y="443" width="54" height="54" />
-      
-      <!-- Flag borders -->
-      <circle cx="490" cy="470" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="490" cy="470" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="490" y="514" text-anchor="middle" class="item-title">Costa Rica</text>
-      <text x="490" y="532" text-anchor="middle" class="item-sub">2 Years · $3,000/mo</text>
+      <!-- Text details -->
+      <text x="464" y="467" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Costa Rica</text>
+      <text x="464" y="481" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#A7F3D0">2 Years · $3,000/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Dubai">
+    <g class="badge" data-name="Dubai">
+      <!-- Badge background container -->
+      <rect x="248" y="543" width="204" height="42" rx="12" fill="#FF5722"  filter="url(#subtleShadow)"/>
       
-      <!-- Drop shadow for flag circle -->
-      <circle cx="350" cy="593" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="350" cy="591" r="27" fill="#000000" opacity="0.06" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(257, 551)">
+        <clipPath id="flag-clip-digital-nomad-visas-income-vs-duration-8">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNhMjAwMWQiIGQ9Ik0wIDBoMTY3bDUyLjMgMjUyTDE2NyA1MTJIMHoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJtMTY3IDE2NyAxNzAuOC00NC42TDUxMiAxNjd2MTc4bC0xNzMuMiAzNi45TDE2NyAzNDV6Ii8+PHBhdGggZmlsbD0iIzZkYTU0NCIgZD0iTTE2NyAwaDM0NXYxNjdIMTY3eiIvPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik0xNjcgMzQ1aDM0NXYxNjdIMTY3eiIvPjwvZz48L3N2Zz4=" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-digital-nomad-visas-income-vs-duration-8)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNhMjAwMWQiIGQ9Ik0wIDBoMTY3bDUyLjMgMjUyTDE2NyA1MTJIMHoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJtMTY3IDE2NyAxNzAuOC00NC42TDUxMiAxNjd2MTc4bC0xNzMuMiAzNi45TDE2NyAzNDV6Ii8+PHBhdGggZmlsbD0iIzZkYTU0NCIgZD0iTTE2NyAwaDM0NXYxNjdIMTY3eiIvPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik0xNjcgMzQ1aDM0NXYxNjdIMTY3eiIvPjwvZz48L3N2Zz4=" x="323" y="563" width="54" height="54" />
-      
-      <!-- Flag borders -->
-      <circle cx="350" cy="590" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="350" cy="590" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="350" y="634" text-anchor="middle" class="item-title">Dubai</text>
-      <text x="350" y="652" text-anchor="middle" class="item-sub">1 Year · $3,500/mo (0% Tax)</text>
+      <!-- Text details -->
+      <text x="290" y="561" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Dubai</text>
+      <text x="290" y="575" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#FFE0B2">1 Year · $3,500/mo (0% Tax)</text>
     </g>
 
-    <g class="matrix-item" data-name="Croatia">
-      <line x1="680" y1="501" x2="680" y2="490" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
-      <!-- Drop shadow for flag circle -->
-      <circle cx="680" cy="533" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="680" cy="531" r="27" fill="#000000" opacity="0.06" />
+    <g class="badge" data-name="Croatia">
+      <!-- Badge background container -->
+      <rect x="618" y="509" width="209" height="42" rx="12" fill="#7C3AED"  filter="url(#subtleShadow)"/>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0wIDE2NyAyNTMuOC0xOS4zTDUxMiAxNjd2MTc4bC0yNTQuOSAzMi4zTDAgMzQ1eiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjE2N0gweiIvPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDM0NWg1MTJ2MTY3SDB6Ii8+PHBhdGggZmlsbD0iIzMzOGFmMyIgZD0iTTMyMi44IDE3OGgtNDQuNWw3LjQtNTUuNyAyOS43LTIyLjIgMjkuNiAyMi4yVjE2N3ptLTEzMy42IDBoNDQuNWwtNy40LTU1LjctMjkuNy0yMi4yLTI5LjYgMjIuMlYxNjd6Ii8+PHBhdGggZmlsbD0iIzAwNTJiNCIgZD0iTTI4NS43IDE3OGgtNTkuNHYtNTUuN2wyOS43LTIyLjIgMjkuNyAyMi4yeiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0xNjcgMTY3djEyMi4zYTg5IDg5IDAgMCAwIDM1LjggNzEuM2wxNS41LTMuOSAxOS43IDE5LjhhODkuMSA4OS4xIDAgMCAwIDE4IDEuOCA4OSA4OSAwIDAgMCAxNy45LTEuOGwyMi40LTE4LjcgMTMgMi44YTg5IDg5IDAgMCAwIDM1LjctNzEuM1YxNjd6Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTE2NyAxNjdoMzUuNnYzNS41SDE2N3ptNzEuMiAwaDM1LjZ2MzUuNWgtMzUuNnptNzEuMiAwSDM0NXYzNS41aC0zNS42em0tMTA2LjggMzUuNWgzNS42djM1LjZoLTM1LjZ6bTcxLjIgMGgzNS42djM1LjZoLTM1LjZ6TTE2NyAyMzguMWgzNS42djM1LjZIMTY3em0zNS42IDM1LjZoMzUuNnYzNS42aC0zNS42em0zNS42LTM1LjZoMzUuNnYzNS42aC0zNS42em03MS4yIDBIMzQ1djM1LjZoLTM1LjZ6bS0zNS42IDM1LjZoMzUuNnYzNS42aC0zNS42em0tMzUuNiAzNS42aDM1LjZWMzQ1aC0zNS42em0tMzUuNiAwaC0zMy4zYzMgMTMuMyA5IDI1LjQgMTcuMyAzNS42aDE2ek0zMDkuNCAzNDVoMTZhODguOCA4OC44IDAgMCAwIDE3LjMtMzUuNmgtMzMuM3ptLTEwNi44IDB2MTUuNmE4OC43IDg4LjcgMCAwIDAgMzUuNiAxNlYzNDV6bTcxLjIgMHYzMS42YTg4LjcgODguNyAwIDAgMCAzNS42LTE2VjM0NXoiLz48L2c+PC9zdmc+" x="653" y="503" width="54" height="54" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(627, 517)">
+        <clipPath id="flag-clip-digital-nomad-visas-income-vs-duration-9">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0wIDE2NyAyNTMuOC0xOS4zTDUxMiAxNjd2MTc4bC0yNTQuOSAzMi4zTDAgMzQ1eiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjE2N0gweiIvPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDM0NWg1MTJ2MTY3SDB6Ii8+PHBhdGggZmlsbD0iIzMzOGFmMyIgZD0iTTMyMi44IDE3OGgtNDQuNWw3LjQtNTUuNyAyOS43LTIyLjIgMjkuNiAyMi4yVjE2N3ptLTEzMy42IDBoNDQuNWwtNy40LTU1LjctMjkuNy0yMi4yLTI5LjYgMjIuMlYxNjd6Ii8+PHBhdGggZmlsbD0iIzAwNTJiNCIgZD0iTTI4NS43IDE3OGgtNTkuNHYtNTUuN2wyOS43LTIyLjIgMjkuNyAyMi4yeiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0xNjcgMTY3djEyMi4zYTg5IDg5IDAgMCAwIDM1LjggNzEuM2wxNS41LTMuOSAxOS43IDE5LjhhODkuMSA4OS4xIDAgMCAwIDE4IDEuOCA4OSA4OSAwIDAgMCAxNy45LTEuOGwyMi40LTE4LjcgMTMgMi44YTg5IDg5IDAgMCAwIDM1LjctNzEuM1YxNjd6Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTE2NyAxNjdoMzUuNnYzNS41SDE2N3ptNzEuMiAwaDM1LjZ2MzUuNWgtMzUuNnptNzEuMiAwSDM0NXYzNS41aC0zNS42em0tMTA2LjggMzUuNWgzNS42djM1LjZoLTM1LjZ6bTcxLjIgMGgzNS42djM1LjZoLTM1LjZ6TTE2NyAyMzguMWgzNS42djM1LjZIMTY3em0zNS42IDM1LjZoMzUuNnYzNS42aC0zNS42em0zNS42LTM1LjZoMzUuNnYzNS42aC0zNS42em03MS4yIDBIMzQ1djM1LjZoLTM1LjZ6bS0zNS42IDM1LjZoMzUuNnYzNS42aC0zNS42em0tMzUuNiAzNS42aDM1LjZWMzQ1aC0zNS42em0tMzUuNiAwaC0zMy4zYzMgMTMuMyA5IDI1LjQgMTcuMyAzNS42aDE2ek0zMDkuNCAzNDVoMTZhODguOCA4OC44IDAgMCAwIDE3LjMtMzUuNmgtMzMuM3ptLTEwNi44IDB2MTUuNmE4OC43IDg4LjcgMCAwIDAgMzUuNiAxNlYzNDV6bTcxLjIgMHYzMS42YTg4LjcgODguNyAwIDAgMCAzNS42LTE2VjM0NXoiLz48L2c+PC9zdmc+" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-digital-nomad-visas-income-vs-duration-9)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag borders -->
-      <circle cx="680" cy="530" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="680" cy="530" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="680" y="484" text-anchor="middle" class="item-title">Croatia</text>
-      <text x="680" y="502" text-anchor="middle" class="item-sub">1 Year · ~$2,700/mo (0% Tax)</text>
+      <!-- Text details -->
+      <text x="660" y="527" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Croatia</text>
+      <text x="660" y="541" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#E9D5FF">1 Year · ~$2,700/mo (0% Tax)</text>
     </g>
 
-    <g class="matrix-item" data-name="Italy">
+    <g class="badge" data-name="Italy">
+      <!-- Badge background container -->
+      <rect x="420" y="659" width="160" height="42" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" filter="url(#badgeShadow)"/>
       
-      <!-- Drop shadow for flag circle -->
-      <circle cx="500" cy="683" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="500" cy="681" r="27" fill="#000000" opacity="0.06" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(429, 667)">
+        <clipPath id="flag-clip-digital-nomad-visas-income-vs-duration-10">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0xNjcgMGgxNzhsMjUuOSAyNTIuM0wzNDUgNTEySDE2N2wtMjkuOC0yNTMuNHoiLz48cGF0aCBmaWxsPSIjNmRhNTQ0IiBkPSJNMCAwaDE2N3Y1MTJIMHoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMzQ1IDBoMTY3djUxMkgzNDV6Ii8+PC9nPjwvc3ZnPg==" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-digital-nomad-visas-income-vs-duration-10)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0xNjcgMGgxNzhsMjUuOSAyNTIuM0wzNDUgNTEySDE2N2wtMjkuOC0yNTMuNHoiLz48cGF0aCBmaWxsPSIjNmRhNTQ0IiBkPSJNMCAwaDE2N3Y1MTJIMHoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMzQ1IDBoMTY3djUxMkgzNDV6Ii8+PC9nPjwvc3ZnPg==" x="473" y="653" width="54" height="54" />
-      
-      <!-- Flag borders -->
-      <circle cx="500" cy="680" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="500" cy="680" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="500" y="724" text-anchor="middle" class="item-title">Italy</text>
-      <text x="500" y="742" text-anchor="middle" class="item-sub">1 Year · ~$3,000/mo</text>
+      <!-- Text details -->
+      <text x="462" y="677" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#0F172A">Italy</text>
+      <text x="462" y="691" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#64748B">1 Year · ~$3,000/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Malta">
-      <line x1="370" y1="799" x2="408" y2="761" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
-      <!-- Drop shadow for flag circle -->
-      <circle cx="370" cy="773" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="370" cy="771" r="27" fill="#000000" opacity="0.06" />
+    <g class="badge" data-name="Malta">
+      <!-- Badge background container -->
+      <rect x="293" y="726" width="155" height="42" rx="12" fill="#7C3AED"  filter="url(#subtleShadow)"/>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDBoMjU2bDUyIDI1OS4yTDI1NiA1MTJIMHoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMjU2IDBoMjU2djUxMkgyNTZ6Ii8+PHBhdGggZmlsbD0iI2FjYWJiMSIgZD0iTTE2MCAxMjhWOTZoLTMydjMySDk2djMyaDMydjMyaDMydi0zMmgzMnYtMzJ6Ii8+PC9nPjwvc3ZnPg==" x="343" y="743" width="54" height="54" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(302, 734)">
+        <clipPath id="flag-clip-digital-nomad-visas-income-vs-duration-11">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDBoMjU2bDUyIDI1OS4yTDI1NiA1MTJIMHoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMjU2IDBoMjU2djUxMkgyNTZ6Ii8+PHBhdGggZmlsbD0iI2FjYWJiMSIgZD0iTTE2MCAxMjhWOTZoLTMydjMySDk2djMyaDMydjMyaDMydi0zMmgzMnYtMzJ6Ii8+PC9nPjwvc3ZnPg==" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-digital-nomad-visas-income-vs-duration-11)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag borders -->
-      <circle cx="370" cy="770" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="370" cy="770" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="408" y="776" text-anchor="start" class="item-title">Malta</text>
-      <text x="408" y="794" text-anchor="start" class="item-sub">1 Year · €3,500/mo</text>
+      <!-- Text details -->
+      <text x="335" y="744" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Malta</text>
+      <text x="335" y="758" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#E9D5FF">1 Year · €3,500/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Indonesia (E33G)">
-      <line x1="250" y1="809" x2="212" y2="771" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
-      <!-- Drop shadow for flag circle -->
-      <circle cx="250" cy="783" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="250" cy="781" r="27" fill="#000000" opacity="0.06" />
+    <g class="badge" data-name="Indonesia (E33G)">
+      <!-- Badge background container -->
+      <rect x="157" y="782" width="186" height="42" rx="12" fill="#FACC15"  filter="url(#subtleShadow)"/>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0wIDI1NiAyNDkuNi00MS4zTDUxMiAyNTZ2MjU2SDB6Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTAgMGg1MTJ2MjU2SDB6Ii8+PC9nPjwvc3ZnPg==" x="223" y="753" width="54" height="54" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(166, 790)">
+        <clipPath id="flag-clip-digital-nomad-visas-income-vs-duration-12">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0wIDI1NiAyNDkuNi00MS4zTDUxMiAyNTZ2MjU2SDB6Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTAgMGg1MTJ2MjU2SDB6Ii8+PC9nPjwvc3ZnPg==" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-digital-nomad-visas-income-vs-duration-12)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag borders -->
-      <circle cx="250" cy="780" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="250" cy="780" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="212" y="786" text-anchor="end" class="item-title">Indonesia (E33G)</text>
-      <text x="212" y="804" text-anchor="end" class="item-sub">1 Year · $60k/yr</text>
+      <!-- Text details -->
+      <text x="199" y="800" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#1E293B">Indonesia (E33G)</text>
+      <text x="199" y="814" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#475569">1 Year · $60k/yr</text>
     </g>
 
-    <g class="matrix-item" data-name="Japan">
+    <g class="badge" data-name="Japan">
+      <!-- Badge background container -->
+      <rect x="255" y="869" width="171" height="42" rx="12" fill="#FB923C"  filter="url(#subtleShadow)"/>
       
-      <!-- Drop shadow for flag circle -->
-      <circle cx="340" cy="893" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="340" cy="891" r="27" fill="#000000" opacity="0.06" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(264, 877)">
+        <clipPath id="flag-clip-digital-nomad-visas-income-vs-duration-13">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDBoNTEydjUxMkgweiIvPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMTExLjMiIGZpbGw9IiNkODAwMjciLz48L2c+PC9zdmc+" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-digital-nomad-visas-income-vs-duration-13)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDBoNTEydjUxMkgweiIvPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMTExLjMiIGZpbGw9IiNkODAwMjciLz48L2c+PC9zdmc+" x="313" y="863" width="54" height="54" />
-      
-      <!-- Flag borders -->
-      <circle cx="340" cy="890" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="340" cy="890" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="340" y="934" text-anchor="middle" class="item-title">Japan</text>
-      <text x="340" y="952" text-anchor="middle" class="item-sub">6 Months · ~$5,500/mo</text>
+      <!-- Text details -->
+      <text x="297" y="887" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Japan</text>
+      <text x="297" y="901" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#FFEDD5">6 Months · ~$5,500/mo</text>
     </g>
 
-    <g class="matrix-item" data-name="Iceland">
+    <g class="badge" data-name="Iceland">
+      <!-- Badge background container -->
+      <rect x="145" y="939" width="171" height="42" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" filter="url(#badgeShadow)"/>
       
-      <!-- Drop shadow for flag circle -->
-      <circle cx="230" cy="963" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="230" cy="961" r="27" fill="#000000" opacity="0.06" />
+      <!-- Flag circle inside badge -->
+      <g transform="translate(154, 947)">
+        <clipPath id="flag-clip-digital-nomad-visas-income-vs-duration-14">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDBoMTAwLjJsNjYuMSA1My41TDIzMy43IDBINTEydjE4OS4zTDQ2Ni4zIDI1N2w0NS43IDY1LjhWNTEySDIzMy43bC02OC01MC43LTY1LjUgNTAuN0gwVjMyMi44bDUxLjQtNjguNS01MS40LTY1eiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0xMDAuMiAwdjE4OS4zSDB2MzMuNGwyNC42IDMzTDAgMjg5LjV2MzMuNGgxMDAuMlY1MTJoMzMuNGwzMC42LTI2LjMgMzYuMSAyNi4zaDMzLjRWMzIyLjhINTEydi0zMy40bC0yNC42LTMzLjcgMjQuNi0zM3YtMzMuNEgyMzMuN1YwaC0zMy40bC0zMy44IDI1LjNMMTMzLjYgMHoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMTMzLjYgMHYyMjIuN0gwdjY2LjdoMTMzLjZWNTEyaDY2LjdWMjg5LjRINTEydi02Ni43SDIwMC4zVjB6Ii8+PC9nPjwvc3ZnPg==" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-digital-nomad-visas-income-vs-duration-14)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
       
-      <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDBoMTAwLjJsNjYuMSA1My41TDIzMy43IDBINTEydjE4OS4zTDQ2Ni4zIDI1N2w0NS43IDY1LjhWNTEySDIzMy43bC02OC01MC43LTY1LjUgNTAuN0gwVjMyMi44bDUxLjQtNjguNS01MS40LTY1eiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0xMDAuMiAwdjE4OS4zSDB2MzMuNGwyNC42IDMzTDAgMjg5LjV2MzMuNGgxMDAuMlY1MTJoMzMuNGwzMC42LTI2LjMgMzYuMSAyNi4zaDMzLjRWMzIyLjhINTEydi0zMy40bC0yNC42LTMzLjcgMjQuNi0zM3YtMzMuNEgyMzMuN1YwaC0zMy40bC0zMy44IDI1LjNMMTMzLjYgMHoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMTMzLjYgMHYyMjIuN0gwdjY2LjdoMTMzLjZWNTEyaDY2LjdWMjg5LjRINTEydi02Ni43SDIwMC4zVjB6Ii8+PC9nPjwvc3ZnPg==" x="203" y="933" width="54" height="54" />
-      
-      <!-- Flag borders -->
-      <circle cx="230" cy="960" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="230" cy="960" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
-      
-      <!-- Labels with protective white halo for 100% legibility -->
-      <text x="230" y="1004" text-anchor="middle" class="item-title">Iceland</text>
-      <text x="230" y="1022" text-anchor="middle" class="item-sub">6 Months · ~$7,500/mo</text>
+      <!-- Text details -->
+      <text x="187" y="957" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#0F172A">Iceland</text>
+      <text x="187" y="971" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#64748B">6 Months · ~$7,500/mo</text>
     </g>
 
-  <!-- Footer Footnotes & Watermark -->
-  <text x="45" y="1165" font-size="13" font-weight="400" fill="#9CA3AF" class="meta">Sources: Hashtag Web3 Digital Nomad Visa Directory (71 Countries, Oct 2026).</text>
-  <text x="1155" y="1165" text-anchor="end" font-size="15" class="meta"><tspan fill="#4B5563" font-weight="500">Find Web3 Jobs at </tspan><tspan fill="#111827" font-weight="700">hashtagweb3.com</tspan></text>
+  <!-- Footer Sources & Watermark -->
+  <line x1="45" y1="1138" x2="1155" y2="1138" stroke="#E2E8F0" stroke-width="1" />
+  <text x="45" y="1165" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="13" font-weight="400" fill="#64748B">Sources: Hashtag Web3 Digital Nomad Visa Directory (71 Countries, Oct 2026).</text>
+  <text x="1155" y="1165" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="14.5"><tspan fill="#64748B" font-weight="500">Find Web3 Jobs at </tspan><tspan fill="#0F172A" font-weight="700">hashtagweb3.com</tspan></text>
 </svg>
