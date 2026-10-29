@@ -833,6 +833,9 @@
   "https://hashtagweb3.com/shinhanstable?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
   "https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://hashtagweb3.com/osmosis?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/bcatax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/tetherhines?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2405,6 +2408,12 @@
   "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
   "Sam Bankman-Fried contacted actor playing him in Netflix series",
   "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
+  "Osmosis Ends OSMO Minting Following Governance Vote",
+  "Osmosis Votes to End OSMO Inflation and Fund Staking From Revenue",
+  "Blockchain Association requests bipartisan digital asset tax legislation",
+  "Blockchain Association asks Congress for digital asset tax legislation",
+  "Senator Blumenthal requests Tether records regarding payments to Nxum Group",
+  "Senate investigator demands records of Tether payments to Bo Hines firm",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2788,5 +2797,8 @@
   "fp:000|400|abov|asian|by9|chip|cryptocurrency|follow|gain|increas",
   "fp:are|bas|between|card|japan|korea|payment|sbi|shinhan|south",
   "fp:beyond|buy|chip|confirm|consider|googl|hardwar|look|may|neither",
-  "fp:actor|anthony|bankman|boyl|contact|depict|executiv|former|fri|ftx"
+  "fp:actor|anthony|bankman|boyl|contact|depict|executiv|former|fri|ftx",
+  "fp:com|end|follow|fund|governanc|inflation|mint|now|osmo|osmosis",
+  "fp:ask|asset|association|back|bipartisan|blockchain|congress|creat|current|digital",
+  "fp:blumenthal|demand|documentation|firm|found|group|hin|investigator|lobby|mad"
 ]

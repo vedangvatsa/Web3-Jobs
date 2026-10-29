@@ -2485,7 +2485,7 @@
     "sentAt": "2026-10-28T19:43:53.563Z"
   },
   "53e69988-a32a-405f-b640-5658f20b3913": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-29T03:36:48.041Z",
     "stories": [
       {
@@ -2513,6 +2513,8 @@
         "originalTitle": "Senate investigator demands records of Tether payments to Bo Hines firm"
       }
     ],
-    "slotKey": "2026-10-29:morning"
+    "slotKey": "2026-10-29:morning",
+    "messageId": 155975,
+    "sentAt": "2026-10-29T03:36:51.640Z"
   }
 }
