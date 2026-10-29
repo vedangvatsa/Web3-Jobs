@@ -2483,5 +2483,36 @@
     "slotKey": "2026-10-28:evening",
     "messageId": 155970,
     "sentAt": "2026-10-28T19:43:53.563Z"
+  },
+  "53e69988-a32a-405f-b640-5658f20b3913": {
+    "status": "reserved",
+    "reservedAt": "2026-10-29T03:36:48.041Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Osmosis Ends OSMO Minting Following Governance Vote",
+        "summary": "Staking rewards will now come strictly from protocol revenue after Proposal 1053 passed with 91% support.",
+        "link": "https://hashtagweb3.com/osmosis?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Osmosis Votes to End OSMO Inflation and Fund Staking From Revenue"
+      },
+      {
+        "index": -1,
+        "headline": "Blockchain Association requests bipartisan digital asset tax legislation",
+        "summary": "The organization urged House and Senate leaders to create bipartisan rules instead of backing current legislative proposals.",
+        "link": "https://hashtagweb3.com/bcatax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Blockchain Association asks Congress for digital asset tax legislation"
+      },
+      {
+        "index": -1,
+        "headline": "Senator Blumenthal requests Tether records regarding payments to Nxum Group",
+        "summary": "A Senate investigator is seeking documentation on payments Tether made to a lobbying firm co-founded by Bo Hines.",
+        "link": "https://hashtagweb3.com/tetherhines?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Senate investigator demands records of Tether payments to Bo Hines firm"
+      }
+    ],
+    "slotKey": "2026-10-29:morning"
   }
 }
