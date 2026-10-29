@@ -6,7 +6,7 @@ Each post is under 280 characters, pairs with its specific graphic, and includes
 ---
 
 ### Tweet 1 (The Hook)
-*(No image needed — clean opening hook to maximize retweets and replies)*
+**Attach Image:** `public/images/social/thread-cover-matrices.png`
 
 ```text
 We analyzed 100+ cities, 71 digital nomad visas, and global passport programs.
@@ -157,7 +157,7 @@ hashtagweb3.com/jobs/x
 ---
 
 ### Tweet 12 (Summary & Outro)
-*(Text only)*
+**Attach Image:** `public/images/social/thread-outro-resources.png`
 
 ```text
 All interactive comparison matrices, city filters, and visa directories are free to explore on Hashtag Web3:
