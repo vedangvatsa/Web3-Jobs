@@ -74773,7 +74773,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "4e1e77aa-0b40-401b-826b-e3cb6aa9ec2b",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Employer application unverified: The operation was aborted due to timeout"
     }
   ]
 }
