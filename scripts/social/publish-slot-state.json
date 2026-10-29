@@ -281,6 +281,25 @@
         "rolloutId": "daily-20261029-40812787568-1",
         "buildState": "FAILED",
         "observedAt": "2026-10-29T05:10:35.174Z"
+      },
+      {
+        "date": "2026-10-29",
+        "id": "40856932551-1",
+        "sourceCommit": "99aac8e308f132b6eeaf22e6efe9e3e204c5256d",
+        "jobsCheckedAt": "2026-10-29T03:44:10.332Z",
+        "newsCompletedAt": "2026-10-29T04:51:23.333Z",
+        "articleSlugs": [
+          "phpctf",
+          "cftcprobe",
+          "liquidgap",
+          "bithumbraid",
+          "bitgojupiter",
+          "dailydividends"
+        ],
+        "phase": "building",
+        "startedAt": "2026-10-29T10:23:10.994Z",
+        "buildId": "daily-20261029-40856932551-1",
+        "rolloutId": "daily-20261029-40856932551-1"
       }
     ]
   }
