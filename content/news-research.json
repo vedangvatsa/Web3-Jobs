@@ -103075,11 +103075,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "d94cde0c22343bb3b3c6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-31T20:03:08.000Z",
-      "lastSeenAt": "2026-10-29T03:34:54.128Z"
+      "lastSeenAt": "2026-10-29T03:34:54.128Z",
+      "reason": "price-chatter",
+      "note": "Read the piece: it is a markets recap built around BTC price levels around 1,000, trader positioning and Fed rate-decision reactions, with no discrete Web3 event beyond price action and flows. Fits the price-chatter exclusion.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-81500-fed",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-29T03:54:24.972Z",
+      "lastReviewedDay": "2026-10-29"
     },
     "a985e00b83839b859bf0": {
       "source": "Cointelegraph",
@@ -186881,6 +186891,18 @@
           ],
           "reviewedAt": "2026-10-29T03:54:09.370Z",
           "articleSlug": "bithumbraid"
+        },
+        "d94cde0c22343bb3b3c6": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read the piece: it is a markets recap built around BTC price levels around 1,000, trader positioning and Fed rate-decision reactions, with no discrete Web3 event beyond price action and flows. Fits the price-chatter exclusion.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-81500-fed",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-29T03:54:24.972Z"
         }
       },
       "baselineSlugs": [
