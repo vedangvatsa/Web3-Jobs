@@ -9722,5 +9722,121 @@
     "slotKey": "2026-10-28:evening",
     "messageId": 151,
     "sentAt": "2026-10-28T19:37:57.517Z"
+  },
+  "6a45f002-ebd1-4ae0-b5f3-fe69e87018e6": {
+    "status": "reserved",
+    "reservedAt": "2026-10-29T03:35:15.747Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8016752003",
+          "title": "Head of Compliance, EU & UK",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8016752003",
+          "date": "2026-10-08T09:34:21-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "EMEA",
+          "department": "Audit-Risk-Compliance Center",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp105"
+        },
+        "key": "8016752003",
+        "slug": "cmp105",
+        "url": "https://hashtagweb3.com/cmp105?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Head of Compliance"
+      },
+      {
+        "snapshot": {
+          "id": "8257185",
+          "title": "Community Operations Specialist",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8257185",
+          "date": "2026-10-05T18:26:16-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Dublin",
+          "department": "4119 Product Support",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cm10"
+        },
+        "key": "8257185",
+        "slug": "cm10",
+        "url": "https://hashtagweb3.com/cm10?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Community Operations Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "8869949002",
+          "title": "Backend Engineer E3 - India",
+          "company": "BitGo",
+          "link": "https://job-boards.greenhouse.io/bitgo/jobs/8869949002",
+          "date": "2026-10-09T04:41:13-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BitGo [bitgo]",
+          "location": "India",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "be69"
+        },
+        "key": "8869949002",
+        "slug": "be69",
+        "url": "https://hashtagweb3.com/be69?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Backend Engineer E3"
+      },
+      {
+        "snapshot": {
+          "id": "8159896",
+          "title": "Senior Product Designer, Sports",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8159896?t=gh_src=&gh_jid=8159896",
+          "date": "2026-10-05T08:58:23-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Menlo Park, CA; New York, NY",
+          "department": "Futures Product Management",
+          "active": true,
+          "salary": "$166k – $195k/yr",
+          "dateVerified": true,
+          "slug": "pm225"
+        },
+        "key": "8159896",
+        "slug": "pm225",
+        "url": "https://hashtagweb3.com/pm225?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Senior Product Designer"
+      },
+      {
+        "snapshot": {
+          "id": "c0a71032-1efb-40dc-b1e8-aa0f30cd5961",
+          "title": "Senior Backend Engineer | Accounting",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/c0a71032-1efb-40dc-b1e8-aa0f30cd5961",
+          "date": "2026-10-21T18:22:42.345+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "be87"
+        },
+        "key": "c0a71032-1efb-40dc-b1e8-aa0f30cd5961",
+        "slug": "be87",
+        "url": "https://hashtagweb3.com/be87?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Senior Backend Engineer | Accounting"
+      }
+    ],
+    "message": "- OKX is hiring <a href=\"https://hashtagweb3.com/cmp105?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Compliance, EU &amp; UK</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/cm10?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Community Operations Specialist</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/be69?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Backend Engineer E3 - India</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/pm225?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Designer, Sports</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/be87?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Backend Engineer | Accounting</a>",
+    "slotKey": "2026-10-29:morning"
   }
 }
