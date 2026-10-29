@@ -70723,7 +70723,8 @@
       },
       "account": "profile",
       "attemptId": "aaff0cb4-9383-40d1-a054-370ca464c703",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x39d9daa8ba54d2efc2055682ddf52a78e553ed04"
     }
   ]
 }
