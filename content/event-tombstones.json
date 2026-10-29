@@ -2844,5 +2844,33 @@
       "luma-batch-evtgvsk4emqfd6vv",
       "horizonzurichsummit"
     ]
+  },
+  "luma-batch-evt3TbFl9a4Z8Olp": {
+    "until": "2027-10-29T03:34:58.691Z",
+    "slugs": [
+      "luma-batch-evt3tbfl9a4z8olp",
+      "8ewx1c2f"
+    ]
+  },
+  "luma-batch-evtQ9vIypwZVywDw": {
+    "until": "2027-10-29T03:34:58.691Z",
+    "slugs": [
+      "luma-batch-evtq9viypwzvywdw",
+      "gbm1jjwv"
+    ]
+  },
+  "luma-crypto-IJQxzk3Y9DouLNr": {
+    "until": "2027-10-29T03:34:58.691Z",
+    "slugs": [
+      "luma-crypto-ijqxzk3y9doulnr",
+      "sacf"
+    ]
+  },
+  "luma-crypto-lGebHHYYw3c9yBA": {
+    "until": "2027-10-29T03:34:58.691Z",
+    "slugs": [
+      "luma-crypto-lgebhhyyw3c9yba",
+      "aadt"
+    ]
   }
 }

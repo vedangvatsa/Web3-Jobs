@@ -22206,74 +22206,6 @@ The organizer's timeline lists a September 16 kickoff and an October 16 submissi
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
-<a id="event-d20f27b387d853eb"></a>
-
-## Solana AI & Capital Forum
-
-- Record: `luma-crypto-IJQxzk3Y9DouLNr`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-28T19:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/solana-capital-forum>
-
-### About the event
-
-The Solana Capital Forum is a curated executive gathering that brings together leaders across traditional finance, digital assets, and next-generation financial infrastructure.
-
-Designed as a private forum for the world's leading allocators, investors, operators, policymakers, and infrastructure providers, the event sits at the intersection of institutional capital, private capital, and financial innovation. Discussions will focus on how tokenized assets, stablecoins, and internet-native financial infrastructure are reshaping global capital markets.
-
-Attendance is intentionally limited to a carefully selected group to foster meaningful conversations, high-quality networking, and strategic collaboration.
-
-### Event details
-
-Hosted by Solana Foundation. The event takes place on September 28. Registration requires organizer approval.
-
-<a id="event-079523ff3cc633b5"></a>
-
-## AI Agents for Data Teams: A Practical Mini-Hackathon
-
-- Record: `luma-crypto-lGebHHYYw3c9yBA`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-29T00:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/j79caynh>
-
-### About the event
-
-Bring a real problem. Build something useful. Show what works.
-
-Join the Bay Area Snowflake User Group for an evening building with Snowflake's agentic AI products.
-
-Find the right data, access it appropriately, improve documentation, check quality or govern how it is used. No problem is too small if solving it adds value to your team.
-
-Come solo and find collaborators, or bring a team of up to four. Leave with experience collaborating on Snowflake's agentic AI products, something you built and tested, and an explanation of what improved.
-
-### Planned products
-
-Explore Snowflake CoCo for building, Cortex Agents for working with governed data and tools, and Snowflake CoWork as the conversational workspace. A planned Cognee integration example explores memory for Snowflake agents. Final walkthrough and account preparation details will be shared before the session.
-
-### The evening
-
-- 5:00 PM: Arrive & find your team
-- 5:30 PM: Welcome & a practical starting point
-- 5:45 PM: Build with Snowflake's agentic AI products
-- 7:15 PM: Show what works & share what you learned
-- 8:00 PM: Wrap up
-
-### How we'll review the work
-
-- Value Creation: Does it add value to a team?
-- Innovation: Are you using the tools in new ways?
-- Working: How much did you build and get running?
-
-### Partners & support
-
-Snowflake is the lead sponsor. Cognee sponsors the session with its focus on memory for AI agents, and Dave Nielsen supports teams. Silicon Valley AI Hub is the venue host. Organized with support from Milbird.
-
-### What to bring
-
-A laptop and a real data-team task. Use public, synthetic or approved sample data you can share with your team.
-
 <a id="event-ff3470c010c1f3ec"></a>
 
 ## Claude for Blockchain: Trading Agents
@@ -26179,42 +26111,6 @@ Local: Solana House
 
 Se você leva construir a sério, sua garagem começa aqui.
 
-<a id="event-a423c6facbacf317"></a>
-
-## Team1 Brasil Coworking Day: São Paulo
-
-- Record: `luma-batch-evt3TbFl9a4Z8Olp`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-28T17:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/8ewx1c2f>
-
-### About the event
-
-Team1 Brasil Coworking Day
-
-Sobre o evento
-
-No dia 26 de setembro, acontece o Team1 Brasil Coworking Day, um encontro dedicado à comunidade Web3, colaboração, networking e desenvolvimento de novas ideias.
-
-Durante o evento, teremos um espaço aberto para coworking e networking, reunindo membros da comunidade, desenvolvedores e entusiastas para trabalhar, trocar experiências e fortalecer conexões dentro do ecossistema.
-
-A partir das 18h, teremos um workshop especial conduzido pelos membros Moisés e Pedro, DEVs da Team1, trazendo conhecimento prático e compartilhando experiências sobre desenvolvimento e construção no ecossistema Web3.
-
-E para fechar o dia, teremos pizza + networking, criando um ambiente descontraído para continuar as conversas e conexões.
-
-Programação do Evento
-
-14:00 - 18:00 - Coworking & Networking
-
-18:00 - 20:00 - Workshop com Moisés e Pedro, DEVs da Team1
-
-20:00 - 22:00 - Pizza & Networking
-
-22:00 - Encerramento
-
-Um dia para construir, aprender, colaborar e conectar.
-
 <a id="event-53aea53e4d091152"></a>
 
 ## Bittensor After Dark: The Exploit party
@@ -26246,38 +26142,6 @@ The first 1,000 drinks are free.
 So get there early.
 
 This event is free for Exploit guests. You must have a ticket to Exploit Summit to attend. All registrations will be pending approval until we check them against the Exploit ticket holder list.
-
-<a id="event-00b5914243eabd88"></a>
-
-## Settle Up \| G2E Kickoff Happy Hour Hosted by Coinflow
-
-- Record: `luma-batch-evtQ9vIypwZVywDw`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-29T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/gbm1jjwv>
-
-### About the event
-
-G2E (Global Gaming Expo) brings gaming operators from around the world to The Venetian Expo, September 28 - October 1.
-
-Join Coinflow for food & drinks at Gjelina on day one of G2E.
-
-No tab tonight - we're (instantly) settling up.
-
-### Details
-
-Monday, September 28 - 6:00-8:00 PM
-
-The Venetian, Las Vegas
-
-A hosted bar, good bites, and a private room to talk shop with the people building the future of gaming payments before G2E gets busy.
-
-Space is limited - RSVP below.
-
-### About Coinflow
-
-Coinflow is the next-generation payment service provider revolutionizing global financial infrastructure with stablecoins, AI-driven fraud prevention, and instant settlement. Coinflow enables businesses to grow faster with instant settlement, fraud and chargeback indemnity, global pay-in, multi-currency FX, and unified payouts. Founded in 2023, the company serves gaming platforms, marketplaces, fintechs, remittance providers, and ecommerce merchants worldwide. Coinflow is proudly headquartered in Chicago, IL. Learn more at coinflow.cash
 
 <a id="event-b71ebcb04efb2708"></a>
 
@@ -64254,18 +64118,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-00da39abc3633e61"></a>
-
-## BRING IT TO LIFE: A HALLOWEEN BUILDATHON, GAME LAB & PARTY 🎃
-
-- Record: `luma-evt-aD9RLcLVN4JkhvN`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-25T20:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/55hewd0g>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-c17c48a528f03f5d"></a>
 
 ## Good Stocks.  Current Crypto strategy. Beginners welcome -
@@ -65632,6 +65484,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-eab8f1f1f722fd29"></a>
+
+## Superteam NL Co-Working Friday @ AI AM Amsterdam
+
+- Record: `luma-evt-R4drHV8IiLAqDS6`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-30T09:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/h2y769io>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-104981ee6090a56c"></a>
 
 ## MIP-20: Road to Devcon
@@ -65956,6 +65820,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-00da39abc3633e61"></a>
+
+## BRING IT TO LIFE: A HALLOWEEN BUILDATHON, GAME LAB & PARTY 🎃
+
+- Record: `luma-evt-aD9RLcLVN4JkhvN`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-31T14:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/55hewd0g>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-a558e063e9e5f636"></a>
 
 ## South Side Spanish (Bridgeport)
@@ -65968,6 +65844,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-e776b76f50472d37"></a>
+
+## Silicon Valley Turks in AI Summit
+
+- Record: `luma-evt-qzQgTsGecWnCmOD`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-31T17:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/iao7fppf>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-e18f039573962889"></a>
 
 ## Boston - Silicon Valley AI Film Festival Screening Showcase
@@ -65977,6 +65865,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-31T18:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/yfucpvp0>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-f81a6339143d7fbb"></a>
+
+## Solo Unicorn Roundtable · Series 05 \| AI at Work
+
+- Record: `luma-evt-TVbGhSnyrVcmrpC`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-31T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/b596n8vw>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-447fcb521cac9148"></a>
+
+## Halloween: A CINEMATIC COSTUME PARTY
+
+- Record: `luma-evt-Sgo3VUamwWFedQR`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-31T23:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/os8lsbx7>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -67420,6 +67332,18 @@ Tickets are complimentary but strictly invitation-only and subject to manual rev
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-71abbd17425101a4"></a>
+
+## Open Bitcoin Q&A chat!
+
+- Record: `mu-316047399`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T20:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/philadelphia-bitcoin-club/events/316047399/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-802606c3cbeee11f"></a>
 
 ## bitcoin++ Seoul, Privacy Edition 2026
@@ -68211,6 +68135,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 Bluechip's conference examines stablecoin risk, crypto security and institutional safeguards. Published sessions cover crypto derivatives regulation, risks in stablecoin payments, tokenized securities, onchain yield and AI-agent finance.
 
+<a id="event-3d51a885b074f26b"></a>
+
+## Crypto Mondays Culver City LA Meetup
+
+- Record: `luma-evt-BqdpbfI1RojW350`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-10T01:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/oany4azd>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-5e74069346094ef3"></a>
 
 ## Digital Asset Summit London 2026
@@ -68584,6 +68520,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-13T09:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://www.universityblockchain.org/programs/hackathon>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-2ceb2f93ae4166ce"></a>
+
+## Webinar with Cosmos Labs: Designing Tokenized Deposits for a Multi-Ledger Future
+
+- Record: `mu-317156463`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-13T10:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-north-carolina/events/317156463/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -69345,6 +69293,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-01d59ecd3114adf8"></a>
+
+## Lattice Semiconductor Physical AI Session
+
+- Record: `luma-evt-A4M0SWM3q4d1oqf`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-17T21:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/ls2d47li>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-5877d3f2246aca94"></a>
 
 ## NO MORE PITCHES
@@ -69428,6 +69388,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-18T15:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/eqwsf08t>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-8ad8152e51fbf953"></a>
+
+## The Base Camp Dinner: Boston \| Redefining Your Business in the Age of AI \| Hosted by John Rougeux and Jess Meher
+
+- Record: `luma-evt-ayG9AQO07BgKZsF`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-18T23:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/id80owbl>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-294bce2f6aef509b"></a>
+
+## ZK Learning Group: ZK Identity, supporting AML/KYC with ZK
+
+- Record: `mu-317064975`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19T12:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-north-carolina/events/317064975/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

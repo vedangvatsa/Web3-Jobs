@@ -11159,36 +11159,6 @@
     }
   },
   {
-    "id": "luma-batch-evt3TbFl9a4Z8Olp",
-    "slug": "8ewx1c2f",
-    "name": "Team1 Brasil Coworking Day: São Paulo",
-    "description": "Team1 Brasil Coworking Day\n\nSobre o evento\n\nNo dia 26 de setembro, acontece o Team1 Brasil Coworking Day, um encontro dedicado à comunidade Web3, colaboração, networking e desenvolvimento de novas ideias.\n\nDurante o evento, teremos um espaço aberto para coworking e networking, reunindo membros da comunidade, desenvolvedores e entusiastas para trabalhar, trocar experiências e fortalecer conexões dentro do ecossistema.\n\nA partir das 18h, teremos um workshop especial conduzido pelos membros Moisés e Pedro, DEVs da Team1, trazendo conhecimento prático e compartilhando experiências sobre desenvolvimento e construção no ecossistema Web3.\n\nE para fechar o dia, teremos pizza + networking, criando um ambiente descontraído para continuar as conversas e conexões.\n\n🗓️ Programação do Evento\n\n14:00 – 18:00 – Coworking & Networking\n\n18:00 – 20:00 – Workshop com Moisés e Pedro, DEVs da Team1\n\n20:00 – 22:00 – Pizza & Networking\n\n22:00 – Encerramento\n\nUm dia para construir, aprender, colaborar e conectar. 🔺",
-    "startDate": "2026-09-28T17:00:00.000Z",
-    "endDate": "2026-09-29T00:00:00.000Z",
-    "city": "São Paulo",
-    "country": "Brazil",
-    "location": "Alameda Santos, 1165, Alameda Santos, 1165 - Jardim Paulista, São Paulo - SP, 01419-000, Brazil",
-    "url": "https://luma.com/8ewx1c2f",
-    "registrationUrl": "https://luma.com/8ewx1c2f",
-    "coverImage": "/events/luma-batch-evt3TbFl9a4Z8Olp-664a53f4.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Team1 Brasil"
-    ],
-    "price": "Free",
-    "timezone": "America/Sao_Paulo",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/8ewx1c2f",
-      "eventId": "evt-3TbFl9a4Z8OlpDB",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtBKlI1d8fbXECu",
     "slug": "garage-housing",
     "name": "The/Garage Cohort 2 - Housing",
@@ -11618,36 +11588,6 @@
     "sourceVerification": {
       "url": "https://luma.com/4v245j3v",
       "eventId": "evt-KTCZ094vbXb63bC",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtQ9vIypwZVywDw",
-    "slug": "gbm1jjwv",
-    "name": "Settle Up | G2E Kickoff Happy Hour Hosted by Coinflow",
-    "description": "G2E (Global Gaming Expo) brings gaming operators from around the world to The Venetian Expo, September 28 – October 1.\n\nJoin Coinflow for food & drinks at Gjelina on day one of G2E.\n\nNo tab tonight — we're (instantly) settling up. 😎\n\nDetails\n📆 Monday, September 28 · 6:00–8:00 PM\n📍 The Venetian, Las Vegas\n\nA hosted bar, good bites, and a private room to talk shop with the people building the future of gaming payments before G2E gets busy.\n\nSpace is limited — RSVP below.\n\nAbout Coinflow\nCoinflow is the next-generation payment service provider revolutionizing global financial infrastructure with stablecoins, AI-driven fraud prevention, and instant settlement. Coinflow enables businesses to grow faster with instant settlement, fraud and chargeback indemnity, global pay-in, multi-currency FX, and unified payouts. Founded in 2023, the company serves gaming platforms, marketplaces, fintechs, remittance providers, and ecommerce merchants worldwide. Coinflow is proudly headquartered in Chicago, IL. Learn more at coinflow.cash",
-    "startDate": "2026-09-29T01:00:00.000Z",
-    "endDate": "2026-09-29T03:00:00.000Z",
-    "city": "Las Vegas",
-    "country": "United States",
-    "location": "Las Vegas, Nevada, United States",
-    "url": "https://luma.com/gbm1jjwv",
-    "registrationUrl": "https://luma.com/gbm1jjwv",
-    "coverImage": "/events/luma-batch-evtQ9vIypwZVywDw-ff8db895.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Coinflow"
-    ],
-    "price": "Free",
-    "timezone": "America/Los_Angeles",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "party",
-    "sourceVerification": {
-      "url": "https://luma.com/gbm1jjwv",
-      "eventId": "evt-Q9vIypwZVywDwbh",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
