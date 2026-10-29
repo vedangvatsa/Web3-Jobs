@@ -7,244 +7,232 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const ROOT = path.resolve(__dirname, '..');
 const OUT_DIR = path.join(ROOT, 'public/images/social');
+const FLAGS_DIR = path.join(ROOT, 'content/flags-cache');
 const ARTIFACT_DIR = '/Users/vedang/.gemini/antigravity/brain/d8e0523d-8c6b-4440-8112-6fd00000dadf';
 
-const matrixFiles = [
-  'where-to-work-cost-vs-speed.png',
-  'where-to-live-safely-cost-vs-safety.png',
-  'city-walkability-vs-cost.png',
-  'the-nomad-value-index.png',
-  'where-to-live-digital-nomad.png',
-  'global-passports-mobility-vs-cost.png',
-  'digital-nomad-visas-tax-vs-income.png',
-  'digital-nomad-visas-income-vs-duration.png',
-  'citizenship-by-investment-capital-vs-speed.png',
-  'where-to-build-web3.png'
-];
+function loadFlagBase64(countryCode: string): string {
+  const code = countryCode.toLowerCase().trim();
+  const filePath = path.join(FLAGS_DIR, `${code}.svg`);
+  const svg = fs.readFileSync(filePath, 'utf8');
+  return Buffer.from(svg).toString('base64');
+}
 
-const matrixB64 = matrixFiles.map(f => {
-  const p = path.join(OUT_DIR, f);
-  return fs.readFileSync(p).toString('base64');
-});
+const coverItems = [
+  // Top-Right: Maximum Freedom & Affordable
+  { name: 'Chiang Mai', sub: '336 Mbps · $900/mo', code: 'th', x: 860, y: 310, bg: '#059669', text: '#FFFFFF', subColor: '#A7F3D0' },
+  { name: 'Thailand DTV', sub: '5 Yrs · 0% Foreign Tax', code: 'th', x: 800, y: 420, bg: '#FF5722', text: '#FFFFFF', subColor: '#FFE0B2' },
+  { name: 'Prague', sub: 'Walk 8.8 · Safety 8.3', code: 'cz', x: 870, y: 530, bg: '#7C3AED', text: '#FFFFFF', subColor: '#E9D5FF' },
 
-const matrixMeta = [
-  { num: '01', title: 'Living Cost vs Internet Speed', tag: 'SPEED', color: '#2563EB', bg: '#EFF6FF', sweet: 'Chiang Mai · Da Nang · Bucharest', axis: 'Speed: 94–577 Mbps · Cost: $850–$6.1k' },
-  { num: '02', title: 'Living Cost vs Safety Score', tag: 'SAFETY', color: '#059669', bg: '#ECFDF5', sweet: 'Taipei · Prague · Valencia', axis: 'Safety Index: 45–86 · Cost: $850–$6.1k' },
-  { num: '03', title: 'Walkability vs Living Cost', tag: 'LIFESTYLE', color: '#7C3AED', bg: '#F5F3FF', sweet: 'Prague · Budapest · Buenos Aires', axis: 'Walk Score: 40–96 · Cost: $850–$6.1k' },
-  { num: '04', title: 'The Nomad Value Index', tag: 'VALUE', color: '#D97706', bg: '#FFFBEB', sweet: 'Chiang Mai · Da Nang · Lisbon', axis: 'Composite Value: 35–94 · Cost: $850–$6.1k' },
-  { num: '05', title: 'Digital Nomad Hubs: Quality vs Cost', tag: 'HUBS', color: '#0284C7', bg: '#F0F9FF', sweet: 'Lisbon · Barcelona · Prague · Taipei', axis: 'Quality Score: 4.0–9.2 · Cost: $850–$6.1k' },
-  { num: '06', title: 'Global Passports: Mobility vs Cost', tag: 'MOBILITY', color: '#E11D48', bg: '#FFF1F2', sweet: 'Dominica · St. Lucia · Portugal', axis: 'Visa-Free: 140–190 · Capital: $100k–€750k' },
-  { num: '07', title: 'Nomad Visas: Tax vs Income', tag: 'TAXATION', color: '#0D9488', bg: '#F0FDFA', sweet: 'Costa Rica · Dubai · Croatia (0% Tax)', axis: 'Tax Rate: 0%–35% · Income: $0–$10k/mo' },
-  { num: '08', title: 'Nomad Visas: Duration vs Income', tag: 'RUNWAY', color: '#4F46E5', bg: '#EEF2FF', sweet: 'Spain · Portugal · Croatia (Long Stay)', axis: 'Stay: 6–60 months · Income: $0–$10k/mo' },
-  { num: '09', title: 'Citizenship: Capital vs Speed', tag: 'CITIZENSHIP', color: '#9333EA', bg: '#FAF5FF', sweet: 'Vanuatu · St. Kitts · Dominica (2-3 mo)', axis: 'Process: 2–36 mos · Capital: $100k–€750k' },
-  { num: '10', title: 'Where to Build Web3: Law vs Talent', tag: 'WEB3', color: '#EA580C', bg: '#FFF7ED', sweet: 'Dubai (VARA) · Singapore · Zurich', axis: 'Frameworks: VARA, MiCA, MAS · High Dev Density' },
+  // Top-Left: Mega Hubs & Tech Capitals
+  { name: 'San Francisco', sub: 'Top Dev Hub · High Burn', code: 'us', x: 340, y: 310, bg: '#2563EB', text: '#FFFFFF', subColor: '#BFDBFE' },
+  { name: 'Dubai', sub: 'VARA · 0% Income Tax', code: 'ae', x: 410, y: 420, bg: '#0F172A', text: '#FFFFFF', subColor: '#94A3B8' },
+  { name: 'Singapore', sub: '577 Mbps · Top Safety', code: 'sg', x: 330, y: 530, bg: '#FFFFFF', text: '#0F172A', subColor: '#64748B', border: '#CBD5E1', shadow: true },
+
+  // Bottom-Right: Fast Runways & Value Havens
+  { name: 'Vanuatu CBI', sub: '2-Month Passport · $130k', code: 'vu', x: 850, y: 740, bg: '#FACC15', text: '#1E293B', subColor: '#475569' },
+  { name: 'Bali', sub: 'Nomad Value Index: 88/100', code: 'id', x: 790, y: 860, bg: '#C084FC', text: '#1E1B4B', subColor: '#581C87' },
+
+  // Bottom-Left: High Capital & Strict Residency
+  { name: 'Malta CBI', sub: '€750k Statutory EU Route', code: 'mt', x: 340, y: 750, bg: '#E11D48', text: '#FFFFFF', subColor: '#FECDD3' },
+  { name: 'Tokyo', sub: 'Safety 9.2 · 55% Tax Bar', code: 'jp', x: 410, y: 870, bg: '#FFFFFF', text: '#0F172A', subColor: '#64748B', border: '#CBD5E1', shadow: true },
 ];
 
 function buildCoverSvg(): string {
-  let cards = '';
-  
-  for (let i = 0; i < 10; i++) {
-    const isLeft = i < 5;
-    const colX = isLeft ? 50 : 615;
-    const rowIdx = isLeft ? i : i - 5;
-    const rowY = 220 + rowIdx * (165 + 13);
-    const m = matrixMeta[i];
-    const b64 = matrixB64[i];
-    
-    cards += `
-    <g transform="translate(${colX}, ${rowY})">
-      <!-- Card Container with subtle shadow border -->
-      <rect width="535" height="165" rx="16" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
-      <rect x="0" y="0" width="6" height="165" rx="3" fill="${m.color}"/>
-      
-      <!-- Mini Real Matrix Thumbnail -->
-      <g transform="translate(16, 15)">
-        <rect width="135" height="135" rx="10" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.2"/>
-        <clipPath id="clip-cover-${i}">
-          <rect width="135" height="135" rx="10"/>
-        </clipPath>
-        <image href="data:image/png;base64,${b64}" width="135" height="135" clip-path="url(#clip-cover-${i})" preserveAspectRatio="xMidYMid slice"/>
-      </g>
-      
-      <!-- Content Details -->
-      <g transform="translate(168, 18)">
-        <!-- Badge row -->
-        <rect x="0" y="0" width="28" height="20" rx="4" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1"/>
-        <text x="14" y="14" text-anchor="middle" font-size="11" font-weight="700" fill="#475569">${m.num}</text>
-        
-        <rect x="34" y="0" width="85" height="20" rx="4" fill="${m.bg}" stroke="${m.color}" stroke-opacity="0.3" stroke-width="1"/>
-        <text x="76" y="14" text-anchor="middle" font-size="10" font-weight="700" fill="${m.color}" letter-spacing="0.5">${m.tag}</text>
-        
-        <!-- Title -->
-        <text x="0" y="47" font-size="16" font-weight="700" fill="#0F172A">${m.title}</text>
-        
-        <!-- Sweet spot / top picks -->
-        <text x="0" y="73" font-size="13" font-weight="600" fill="#334155"><tspan fill="${m.color}">★</tspan> ${m.sweet}</text>
-        
-        <!-- Axis specs -->
-        <text x="0" y="97" font-size="11.5" font-weight="500" fill="#64748B">${m.axis}</text>
-        
-        <!-- View matrix prompt -->
-        <g transform="translate(0, 110)">
-          <rect width="114" height="20" rx="10" fill="${m.bg}"/>
-          <text x="57" y="14" text-anchor="middle" font-size="10.5" font-weight="700" fill="${m.color}">Tweet #${i + 2} in Thread ↓</text>
-        </g>
-      </g>
-    </g>`;
+  const flagCache = new Map<string, string>();
+  for (const it of coverItems) {
+    if (!flagCache.has(it.code)) {
+      flagCache.set(it.code, loadFlagBase64(it.code));
+    }
   }
-  
-  return `<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg" style="background:#F8FAFC; font-family:system-ui,-apple-system,'SF Pro Display','Segoe UI',Roboto,Helvetica,sans-serif;">
-  <!-- Background Canvas -->
-  <rect width="1200" height="1200" fill="#F8FAFC"/>
-  <rect x="24" y="24" width="1152" height="1152" rx="24" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
 
-  <!-- Top Category / Issuer Pill -->
-  <g transform="translate(600, 58)">
-    <rect x="-175" y="-14" width="350" height="28" rx="14" fill="#EEF2FF" stroke="#C7D2FE" stroke-width="1"/>
-    <text x="0" y="4" text-anchor="middle" font-size="11.5" font-weight="700" fill="#4338CA" letter-spacing="1.2">HASHTAG WEB3 RESEARCH · 2026 BENCHMARK</text>
-  </g>
+  const badgesSvg = coverItems.map((it, idx) => {
+    const b64 = flagCache.get(it.code)!;
+    const w = 210;
+    const h = 44;
+    const bx = it.x - w / 2;
+    const by = it.y - h / 2;
+    const strokeAttr = it.border ? `stroke="${it.border}" stroke-width="1.5"` : '';
+    const shadowFilter = it.shadow ? 'filter="url(#badgeShadow)"' : 'filter="url(#subtleShadow)"';
 
-  <!-- Main Headline -->
-  <text x="600" y="115" text-anchor="middle" font-size="38" font-weight="800" fill="#0F172A" letter-spacing="-0.5">The Remote Builder's Decision Atlas</text>
-  <text x="600" y="148" text-anchor="middle" font-size="16.5" font-weight="500" fill="#475569">10 Data-Backed 2×2 Decision Matrices Across 100+ Cities, 71 Visas &amp; Web3 Tech Hubs</text>
+    return `
+    <g class="badge" data-name="${it.name}">
+      <rect x="${bx}" y="${by}" width="${w}" height="${h}" rx="12" fill="${it.bg}" ${strokeAttr} ${shadowFilter}/>
+      <!-- Flag circle inside badge -->
+      <g transform="translate(${bx + 10}, ${by + 9})">
+        <clipPath id="cflag-${idx}">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,${b64}" x="0" y="0" width="26" height="26" clip-path="url(#cflag-${idx})" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
+      <text x="${bx + 44}" y="${by + 19}" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="${it.text}">${it.name}</text>
+      <text x="${bx + 44}" y="${by + 33}" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="${it.subColor}">${it.sub}</text>
+    </g>`;
+  }).join('\n');
 
-  <!-- 4 Stats / Feature Pills -->
-  <g transform="translate(600, 185)">
-    <g transform="translate(-360, 0)">
-      <rect x="-70" y="-12" width="140" height="24" rx="12" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
-      <text x="0" y="4" text-anchor="middle" font-size="11" font-weight="700" fill="#334155">100+ GLOBAL CITIES</text>
-    </g>
-    <g transform="translate(-120, 0)">
-      <rect x="-70" y="-12" width="140" height="24" rx="12" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
-      <text x="0" y="4" text-anchor="middle" font-size="11" font-weight="700" fill="#334155">71 NOMAD VISAS</text>
-    </g>
-    <g transform="translate(120, 0)">
-      <rect x="-70" y="-12" width="140" height="24" rx="12" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
-      <text x="0" y="4" text-anchor="middle" font-size="11" font-weight="700" fill="#334155">15 CBI PROGRAMS</text>
-    </g>
-    <g transform="translate(360, 0)">
-      <rect x="-70" y="-12" width="140" height="24" rx="12" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
-      <text x="0" y="4" text-anchor="middle" font-size="11" font-weight="700" fill="#334155">10 2×2 FRAMEWORKS</text>
-    </g>
-  </g>
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+  <defs>
+    <!-- Dot Grid Pattern -->
+    <pattern id="dotGridCover" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="14" cy="14" r="1.5" fill="#CBD5E1" />
+    </pattern>
 
-  <!-- Cards Grid (5 left, 5 right) -->
-  ${cards}
+    <!-- Drop Shadows -->
+    <filter id="badgeShadow" x="-10%" y="-20%" width="125%" height="150%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#0F172A" flood-opacity="0.08" />
+    </filter>
+    <filter id="subtleShadow" x="-10%" y="-20%" width="125%" height="150%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#000000" flood-opacity="0.12" />
+    </filter>
+  </defs>
 
-  <!-- Footer Divider & Meta -->
-  <line x1="50" y1="1135" x2="1150" y2="1135" stroke="#E2E8F0" stroke-width="1"/>
-  <text x="50" y="1165" font-size="13" font-weight="500" fill="#64748B">Sources: Hashtag Web3 Index, Official Visa Registries &amp; Numbeo Data.</text>
-  <text x="1150" y="1165" text-anchor="end" font-size="14"><tspan fill="#475569" font-weight="500">Find Web3 Jobs at </tspan><tspan fill="#0F172A" font-weight="700">hashtagweb3.com</tspan></text>
+  <!-- Background Canvas with Dot Grid -->
+  <rect width="1200" height="1200" fill="#F8FAFC" />
+  <rect width="1200" height="1200" fill="url(#dotGridCover)" />
+
+  <!-- Outer Frame -->
+  <rect x="24" y="24" width="1152" height="1152" rx="20" fill="none" stroke="#E2E8F0" stroke-width="1.5" />
+
+  <!-- Title & Subtitle (Clean, Modern, Minimal) -->
+  <text x="600" y="85" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, Helvetica, sans-serif" font-size="40" font-weight="800" fill="#0F172A" letter-spacing="-0.5px">10 Decision Matrices for Remote Builders</text>
+  <text x="600" y="125" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="500" fill="#64748B">The Alignment Chart for Cities, Visas, Passports &amp; Web3 Tech Hubs</text>
+
+  <!-- Central Crosshairs Axes in Slate -->
+  <line x1="90" y1="620" x2="1110" y2="620" stroke="#64748B" stroke-width="2.5" />
+  <polygon points="75,620 92,612 92,628" fill="#64748B" />
+  <polygon points="1125,620 1108,612 1108,628" fill="#64748B" />
+
+  <line x1="600" y1="175" x2="600" y2="1065" stroke="#64748B" stroke-width="2.5" />
+  <polygon points="600,160 592,177 608,177" fill="#64748B" />
+  <polygon points="600,1080 592,1063 608,1063" fill="#64748B" />
+
+  <!-- Axis Labels -->
+  <text x="600" y="148" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700" fill="#334155" letter-spacing="1.2px">MAXIMUM FREEDOM &amp; RUNWAY</text>
+  <text x="600" y="1112" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700" fill="#334155" letter-spacing="1.2px">RESTRICTIVE / HIGH FRICTION</text>
+  <text x="100" y="608" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="700" fill="#334155" letter-spacing="1.2px">EXPENSIVE ($3,000+/MO)</text>
+  <text x="1100" y="608" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="700" fill="#334155" letter-spacing="1.2px">AFFORDABLE (&lt;$1,500/MO)</text>
+
+  <!-- Badges -->
+  ${badgesSvg}
+
+  <!-- Footer Sources & Watermark -->
+  <line x1="45" y1="1138" x2="1155" y2="1138" stroke="#E2E8F0" stroke-width="1" />
+  <text x="45" y="1165" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="13" font-weight="400" fill="#64748B">10-Part Visual Thread · 100+ Cities · 71 Nomad Visas · 15 CBI Programs</text>
+  <text x="1155" y="1165" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="14.5"><tspan fill="#64748B" font-weight="500">Find Web3 Jobs at </tspan><tspan fill="#0F172A" font-weight="700">hashtagweb3.com</tspan></text>
 </svg>`;
 }
 
 function buildOutroSvg(): string {
   return `<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg" style="background:#FFFFFF; font-family:system-ui,-apple-system,'SF Pro Display','Segoe UI',Roboto,Helvetica,sans-serif;">
   <defs>
-    <linearGradient id="cardGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="100%" stop-color="#F8FAFC"/>
-    </linearGradient>
-    <filter id="shadow2" x="-5%" y="-5%" width="110%" height="110%">
-      <feDropShadow dx="0" dy="10" stdDeviation="20" flood-color="#000000" flood-opacity="0.05"/>
+    <!-- Dot Grid Pattern -->
+    <pattern id="dotGridOutro" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="14" cy="14" r="1.5" fill="#CBD5E1" />
+    </pattern>
+    <filter id="outroShadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#0F172A" flood-opacity="0.05"/>
     </filter>
   </defs>
 
   <!-- Background Canvas -->
-  <rect width="1200" height="1200" fill="#FFFFFF"/>
-  <rect x="30" y="30" width="1140" height="1140" rx="28" fill="none" stroke="#F3F4F6" stroke-width="2"/>
+  <rect width="1200" height="1200" fill="#F8FAFC"/>
+  <rect width="1200" height="1200" fill="url(#dotGridOutro)"/>
+  <rect x="24" y="24" width="1152" height="1152" rx="20" fill="none" stroke="#E2E8F0" stroke-width="1.5"/>
 
-  <!-- Top Pill Badge -->
-  <g transform="translate(600, 110)">
-    <rect x="-130" y="-18" width="260" height="36" rx="18" fill="#F3F4F6" stroke="#E5E7EB" stroke-width="1"/>
-    <text x="0" y="5" text-anchor="middle" font-size="13" font-weight="700" fill="#374151" letter-spacing="1.2">HASHTAG WEB3 DIRECTORY</text>
+  <!-- Top Category Pill -->
+  <g transform="translate(600, 95)">
+    <rect x="-140" y="-16" width="280" height="32" rx="16" fill="#EEF2FF" stroke="#C7D2FE" stroke-width="1"/>
+    <text x="0" y="5" text-anchor="middle" font-size="12" font-weight="700" fill="#4338CA" letter-spacing="1.2">HASHTAG WEB3 DIRECTORY</text>
   </g>
 
   <!-- Main Headline -->
-  <text x="600" y="210" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="52" font-weight="700" fill="#111827">Explore All Free Tools Online</text>
-  <text x="600" y="265" text-anchor="middle" font-size="22" font-weight="500" fill="#4B5563">Compare cities, verify visa laws, research citizenship, and find remote roles</text>
+  <text x="600" y="185" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="44" font-weight="800" fill="#0F172A" letter-spacing="-0.5px">Explore All Free Tools Online</text>
+  <text x="600" y="230" text-anchor="middle" font-size="18" font-weight="500" fill="#64748B">Compare cities, verify visa laws, research citizenship, and find remote roles</text>
 
   <!-- 4 Core Resources Grid -->
-  <g transform="translate(100, 320)">
+  <g transform="translate(100, 290)">
     <!-- Resource 1: City Explorer -->
     <g transform="translate(0, 0)">
-      <rect width="480" height="340" rx="24" fill="url(#cardGrad2)" stroke="#E2E8F0" stroke-width="2" filter="url(#shadow2)"/>
-      <rect x="35" y="35" width="80" height="32" rx="16" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1"/>
-      <text x="75" y="56" text-anchor="middle" font-size="12" font-weight="700" fill="#1D4ED8">CITIES</text>
-      <text x="130" y="58" font-size="24" font-weight="700" fill="#0F172A">City Explorer</text>
+      <rect width="480" height="360" rx="20" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" filter="url(#outroShadow)"/>
+      <rect x="35" y="35" width="80" height="30" rx="15" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1"/>
+      <text x="75" y="55" text-anchor="middle" font-size="11.5" font-weight="700" fill="#1D4ED8">CITIES</text>
+      <text x="130" y="57" font-size="22" font-weight="700" fill="#0F172A">City Explorer</text>
       <text x="35" y="100" font-size="15" font-weight="600" fill="#2563EB">hashtagweb3.com/nomads</text>
       
-      <text x="35" y="150" font-size="15" font-weight="500" fill="#334155">
+      <text x="35" y="155" font-size="15" font-weight="500" fill="#334155">
         <tspan x="35" dy="0">• Compare 100+ cities by living cost and rent</tspan>
-        <tspan x="35" dy="30">• Real Ookla internet speeds &amp; fiber availability</tspan>
-        <tspan x="35" dy="30">• Walkability scores, safety index &amp; weather</tspan>
-        <tspan x="35" dy="30">• Direct side-by-side city matchup cards</tspan>
+        <tspan x="35" dy="32">• Real Ookla internet speeds &amp; fiber availability</tspan>
+        <tspan x="35" dy="32">• Walkability scores, safety index &amp; weather</tspan>
+        <tspan x="35" dy="32">• Direct side-by-side city matchup cards</tspan>
       </text>
     </g>
 
     <!-- Resource 2: Nomad Visas -->
     <g transform="translate(520, 0)">
-      <rect width="480" height="340" rx="24" fill="url(#cardGrad2)" stroke="#E2E8F0" stroke-width="2" filter="url(#shadow2)"/>
-      <rect x="35" y="35" width="70" height="32" rx="16" fill="#F0FDF4" stroke="#BBF7D0" stroke-width="1"/>
-      <text x="70" y="56" text-anchor="middle" font-size="12" font-weight="700" fill="#15803D">VISAS</text>
-      <text x="120" y="58" font-size="24" font-weight="700" fill="#0F172A">Nomad Visa Guide</text>
+      <rect width="480" height="360" rx="20" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" filter="url(#outroShadow)"/>
+      <rect x="35" y="35" width="70" height="30" rx="15" fill="#F0FDF4" stroke="#BBF7D0" stroke-width="1"/>
+      <text x="70" y="55" text-anchor="middle" font-size="11.5" font-weight="700" fill="#15803D">VISAS</text>
+      <text x="120" y="57" font-size="22" font-weight="700" fill="#0F172A">Nomad Visa Guide</text>
       <text x="35" y="100" font-size="15" font-weight="600" fill="#16A34A">hashtagweb3.com/visas</text>
 
-      <text x="35" y="150" font-size="15" font-weight="500" fill="#334155">
+      <text x="35" y="155" font-size="15" font-weight="500" fill="#334155">
         <tspan x="35" dy="0">• 71 sovereign remote work visa programs</tspan>
-        <tspan x="35" dy="30">• Official statutory monthly income thresholds</tspan>
-        <tspan x="35" dy="30">• Local tax exemptions vs territorial rules</tspan>
-        <tspan x="35" dy="30">• Passport entry checker &amp; stay durations</tspan>
+        <tspan x="35" dy="32">• Official statutory monthly income thresholds</tspan>
+        <tspan x="35" dy="32">• Local tax exemptions vs territorial rules</tspan>
+        <tspan x="35" dy="32">• Passport entry checker &amp; stay durations</tspan>
       </text>
     </g>
 
     <!-- Resource 3: Passports & Citizenship -->
-    <g transform="translate(0, 380)">
-      <rect width="480" height="340" rx="24" fill="url(#cardGrad2)" stroke="#E2E8F0" stroke-width="2" filter="url(#shadow2)"/>
-      <rect x="35" y="35" width="105" height="32" rx="16" fill="#FEF3C7" stroke="#FDE68A" stroke-width="1"/>
-      <text x="87" y="56" text-anchor="middle" font-size="12" font-weight="700" fill="#B45309">PASSPORTS</text>
-      <text x="155" y="58" font-size="24" font-weight="700" fill="#0F172A">Citizenship Guide</text>
+    <g transform="translate(0, 400)">
+      <rect width="480" height="360" rx="20" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" filter="url(#outroShadow)"/>
+      <rect x="35" y="35" width="105" height="30" rx="15" fill="#FEF3C7" stroke="#FDE68A" stroke-width="1"/>
+      <text x="87" y="55" text-anchor="middle" font-size="11.5" font-weight="700" fill="#B45309">PASSPORTS</text>
+      <text x="155" y="57" font-size="22" font-weight="700" fill="#0F172A">Citizenship Guide</text>
       <text x="35" y="100" font-size="15" font-weight="600" fill="#D97706">hashtagweb3.com/citizenship</text>
 
-      <text x="35" y="150" font-size="15" font-weight="500" fill="#334155">
+      <text x="35" y="155" font-size="15" font-weight="500" fill="#334155">
         <tspan x="35" dy="0">• Statutory Citizenship by Investment routes</tspan>
-        <tspan x="35" dy="30">• Minimum capital vs government fee schedules</tspan>
-        <tspan x="35" dy="30">• Official processing speeds &amp; holding periods</tspan>
-        <tspan x="35" dy="30">• Links to official government program gazettes</tspan>
+        <tspan x="35" dy="32">• Minimum capital vs government fee schedules</tspan>
+        <tspan x="35" dy="32">• Official processing speeds &amp; holding periods</tspan>
+        <tspan x="35" dy="32">• Links to official government program gazettes</tspan>
       </text>
     </g>
 
     <!-- Resource 4: Web3 Job Board -->
-    <g transform="translate(520, 380)">
-      <rect width="480" height="340" rx="24" fill="url(#cardGrad2)" stroke="#E2E8F0" stroke-width="2" filter="url(#shadow2)"/>
-      <rect x="35" y="35" width="90" height="32" rx="16" fill="#FDF4FF" stroke="#F0ABFC" stroke-width="1"/>
-      <text x="80" y="56" text-anchor="middle" font-size="12" font-weight="700" fill="#A21CAF">CAREERS</text>
-      <text x="140" y="58" font-size="24" font-weight="700" fill="#0F172A">Web3 Job Board</text>
+    <g transform="translate(520, 400)">
+      <rect width="480" height="360" rx="20" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" filter="url(#outroShadow)"/>
+      <rect x="35" y="35" width="90" height="30" rx="15" fill="#FDF4FF" stroke="#F0ABFC" stroke-width="1"/>
+      <text x="80" y="55" text-anchor="middle" font-size="11.5" font-weight="700" fill="#A21CAF">CAREERS</text>
+      <text x="140" y="57" font-size="22" font-weight="700" fill="#0F172A">Web3 Job Board</text>
       <text x="35" y="100" font-size="15" font-weight="600" fill="#9333EA">hashtagweb3.com/jobs</text>
 
-      <text x="35" y="150" font-size="15" font-weight="500" fill="#334155">
+      <text x="35" y="155" font-size="15" font-weight="500" fill="#334155">
         <tspan x="35" dy="0">• Thousands of verified remote Web3 jobs</tspan>
-        <tspan x="35" dy="30">• Smart contracts, frontend dApps, &amp; engineering</tspan>
-        <tspan x="35" dy="30">• Growth, marketing, design, &amp; tokenomics</tspan>
-        <tspan x="35" dy="30">• Direct company application links</tspan>
+        <tspan x="35" dy="32">• Smart contracts, frontend dApps, &amp; engineering</tspan>
+        <tspan x="35" dy="32">• Growth, marketing, design, &amp; tokenomics</tspan>
+        <tspan x="35" dy="32">• Direct company application links</tspan>
       </text>
     </g>
   </g>
 
   <!-- Bottom CTA Pill -->
-  <g transform="translate(600, 1070)">
-    <rect x="-350" y="-24" width="700" height="48" rx="24" fill="#0F172A"/>
-    <text x="0" y="7" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF" letter-spacing="1">OPEN-ACCESS REMOTE WORK INTELLIGENCE · HASHTAGWEB3.COM</text>
+  <g transform="translate(600, 1085)">
+    <rect x="-350" y="-22" width="700" height="44" rx="22" fill="#0F172A"/>
+    <text x="0" y="6" text-anchor="middle" font-size="14.5" font-weight="700" fill="#FFFFFF" letter-spacing="1">OPEN-ACCESS REMOTE WORK INTELLIGENCE · HASHTAGWEB3.COM</text>
   </g>
 
   <!-- Footer Footnotes & Watermark -->
-  <text x="45" y="1165" font-size="13" font-weight="400" fill="#9CA3AF">Free for all remote workers, digital nomads and builders.</text>
-  <text x="1155" y="1165" text-anchor="end" font-size="15"><tspan fill="#4B5563" font-weight="500">Find Web3 Jobs at </tspan><tspan fill="#111827" font-weight="700">hashtagweb3.com</tspan></text>
+  <line x1="45" y1="1138" x2="1155" y2="1138" stroke="#E2E8F0" stroke-width="1"/>
+  <text x="45" y="1165" font-size="13" font-weight="400" fill="#64748B">Free for all remote workers, digital nomads and builders.</text>
+  <text x="1155" y="1165" text-anchor="end" font-size="14.5"><tspan fill="#64748B" font-weight="500">Find Web3 Jobs at </tspan><tspan fill="#0F172A" font-weight="700">hashtagweb3.com</tspan></text>
 </svg>`;
 }
 
 async function main() {
-  console.log('Rendering high-fidelity thread cover and outro graphics...');
+  console.log('Rendering clean, minimal thread cover and outro graphics...');
   
   // 1. Cover
   const coverSvg = buildCoverSvg();
