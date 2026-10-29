@@ -99456,11 +99456,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "6e03a234b07de452477c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-30T13:01:00.000Z",
-      "lastSeenAt": "2026-10-28T03:43:47.836Z"
+      "lastSeenAt": "2026-10-28T03:43:47.836Z",
+      "reason": "duplicate",
+      "note": "Same 6M CMT Digital-led round already covered by content/articles/luxorai.md (published 2026-10-28), including the PR Newswire release and Bitcoin Magazine report.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-29T04:28:57.262Z",
+      "duplicateOf": "luxorai",
+      "lastReviewedDay": "2026-10-29"
     },
     "73bd1506096f24d7e81a": {
       "source": "The Defiant",
@@ -187445,6 +187451,14 @@
           "retrySearches": [
             "Find a second independent readable report on the Solflare staking provider security incident of Oct. 27 2026, ideally with the staked SOL figure and Solflare's compensation plan, beyond Crypto Briefing and Unchained"
           ]
+        },
+        "6e03a234b07de452477c": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same 6M CMT Digital-led round already covered by content/articles/luxorai.md (published 2026-10-28), including the PR Newswire release and Bitcoin Magazine report.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-29T04:28:57.262Z",
+          "duplicateOf": "luxorai"
         }
       },
       "baselineSlugs": [
