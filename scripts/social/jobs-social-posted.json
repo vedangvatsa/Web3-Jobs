@@ -74130,7 +74130,8 @@
       },
       "account": "profile",
       "attemptId": "4cc009b1-95a3-45af-a207-6a164c85d0e9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4faddbba576b89046ddda7e43c0d508d936a9b45"
     }
   ]
 }
