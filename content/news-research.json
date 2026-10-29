@@ -103375,11 +103375,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "4a78aa3f48d6be8d5e36",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-01T02:29:25.000Z",
-      "lastSeenAt": "2026-10-29T03:34:54.128Z"
+      "lastSeenAt": "2026-10-29T03:34:54.128Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read the Crypto Briefing piece: Selig forum remarks on hypothetical autonomous AI-agent trading, KYA ideas and developer registration are vision and speculation, with no rule, filing, vote or other concrete agency action. Single-outlet sourcing on the forum.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-29T04:30:28.462Z",
+      "lastReviewedDay": "2026-10-29"
     },
     "068d5473c616a643e882": {
       "source": "Crypto Briefing",
@@ -103422,16 +103427,11 @@
       ],
       "alsoCoveredBy": [],
       "id": "b123ff645ebcbea117e8",
-      "status": "rejected",
+      "status": "pending",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
-      "attempts": 1,
+      "attempts": 0,
       "expiresAt": "2026-11-01T00:04:59.000Z",
-      "lastSeenAt": "2026-10-29T03:34:54.128Z",
-      "reason": "out-of-scope",
-      "note": "Non-binding House Democrat resolution on AI firm bankruptcy; AI policy story with no crypto or Web3 angle.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-29T04:30:28.250Z",
-      "lastReviewedDay": "2026-10-29"
+      "lastSeenAt": "2026-10-29T03:34:54.128Z"
     },
     "c786bc623b898740ceb5": {
       "source": "Crypto Briefing",
@@ -103448,11 +103448,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "c786bc623b898740ceb5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-31T23:26:58.000Z",
-      "lastSeenAt": "2026-10-29T03:34:54.128Z"
+      "lastSeenAt": "2026-10-29T03:34:54.128Z",
+      "reason": "not-a-concrete-event",
+      "note": "Midterm polling mood piece about House Democrats; opinion/analysis with no crypto angle and no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-29T04:30:31.548Z",
+      "lastReviewedDay": "2026-10-29"
     },
     "7de361d60305c39b2c55": {
       "source": "Crypto Briefing",
@@ -187477,12 +187482,19 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-29T04:30:25.175Z"
         },
-        "b123ff645ebcbea117e8": {
+        "4a78aa3f48d6be8d5e36": {
           "status": "rejected",
-          "reason": "out-of-scope",
-          "note": "Non-binding House Democrat resolution on AI firm bankruptcy; AI policy story with no crypto or Web3 angle.",
+          "reason": "not-a-concrete-event",
+          "note": "Read the Crypto Briefing piece: Selig forum remarks on hypothetical autonomous AI-agent trading, KYA ideas and developer registration are vision and speculation, with no rule, filing, vote or other concrete agency action. Single-outlet sourcing on the forum.",
           "sourceChecks": [],
-          "reviewedAt": "2026-10-29T04:30:28.250Z"
+          "reviewedAt": "2026-10-29T04:30:28.462Z"
+        },
+        "c786bc623b898740ceb5": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Midterm polling mood piece about House Democrats; opinion/analysis with no crypto angle and no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-29T04:30:31.548Z"
         }
       },
       "baselineSlugs": [
