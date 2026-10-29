@@ -275,10 +275,12 @@
           "bitgojupiter",
           "dailydividends"
         ],
-        "phase": "building",
+        "phase": "build-failed",
         "startedAt": "2026-10-29T04:52:28.156Z",
         "buildId": "daily-20261029-40812787568-1",
-        "rolloutId": "daily-20261029-40812787568-1"
+        "rolloutId": "daily-20261029-40812787568-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-10-29T05:10:35.174Z"
       }
     ]
   }
