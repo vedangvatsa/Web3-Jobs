@@ -2471,7 +2471,7 @@
     "sentAt": "2026-10-28T19:36:40.230Z"
   },
   "e8bb8623-619e-470c-8809-8347f421cea6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-29T03:37:05.341Z",
     "stories": [
       {
@@ -2501,6 +2501,8 @@
         "originalTitle": "Google AI gets cagey when asked who won the 2020 elections"
       }
     ],
-    "slotKey": "2026-10-29:morning"
+    "slotKey": "2026-10-29:morning",
+    "messageId": 193417,
+    "sentAt": "2026-10-29T03:37:09.156Z"
   }
 }

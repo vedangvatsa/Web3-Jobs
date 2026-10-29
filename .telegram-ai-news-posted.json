@@ -821,6 +821,9 @@
   "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
   "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
   "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+  "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+  "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+  "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2245,6 +2248,12 @@
   "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
   "Google announces Gemini 4 Carbon AI model",
   "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+  "Microsoft discloses quarterly Azure revenue of $33.2 billion",
+  "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+  "Google expands AI search advertisements to global markets",
+  "Google expands AI Search ads globally as core ad growth slows",
+  "Google AI Restricts Election Answers for US Users",
+  "Google AI gets cagey when asked who won the 2020 elections",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2583,5 +2592,8 @@
   "fp:compet|director|eight|googl|leav|meta|microsoft|ndoc|offic|patel",
   "fp:across40|administrativ|application|audio|enterpris|languag|nvidia|open|recognition|record",
   "fp:cleanup|com|continu|cto|discuss|flaw|forc|offlin|organization|patch",
-  "fp:announc|argon|can|carbon|currently|frontier|gemini4|googl|improvement|minor"
+  "fp:announc|argon|can|carbon|currently|frontier|gemini4|googl|improvement|minor",
+  "fp:332b|actual|azur|cloud|demand|disclos|dollar|driven|figur|growth",
+  "fp:1276b|advertisement|alphabet|cor|dur|expand|global|globally|googl|growth",
+  "fp:answer|ask|cagey|direct|domestically|election|get|googl|international|limit"
 ]
