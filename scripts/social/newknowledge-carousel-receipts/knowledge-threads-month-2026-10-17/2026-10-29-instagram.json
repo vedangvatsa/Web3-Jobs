@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-10-29",
+    "threadId": "N04",
+    "sequence": 12,
+    "platform": "instagram",
+    "sourceContentSha256": "1cbe2f93ef8c2be5086df627ff8374c4090b8f42aebe30623ae69d6c3176c55f",
+    "calendarSha256": "70484da3b7319ebb706092e37759daf11ea4a58df5a9beadef96d8dd5ada9ebc",
+    "sourceThreadSha256": "0f7151ca12504d4fad4a381d3a2af6dce1ea2086d9617adc43085826378ccebf",
+    "sourcePostHashes": [
+      "0d67adfbc1f61c4609610323465aa62aada9490622bda0dc618fcab38ad084e3",
+      "0323cb10a56ef5522e1358c4b0df919ea626806007bde6da1a7c44e1f0fd21c6",
+      "3ecabf353f3ca2f2c62f7ee81e555b580347dc530021b04c2a35488cc279d67b",
+      "e4ced65af96cbce1d8d4fdb01eb459364afde2b11ec1ec2be62578b7315429c8",
+      "1da79e87d4a3c8a84c8caaf73203d353d68a7b4ad212d84587663559a9b4c0f8",
+      "7f496ce2e58b0fb39eb14060c6d7076075061a7f56d57776b7a83a914a299ddc"
+    ],
+    "sourceImages": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/N04-01.jpg",
+        "sha256": "fe35c733fece3f11bc866583be6ea2c7822fbb747e7674c8c25e951e1e0b837c",
+        "bytes": 145718,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Frontend dApp interview question FE-F-02 asks how to display a uint256 token balance. Example for a token with 6 decimals: viem formatUnits(1000000n, 6) returns the string '1'.",
+        "renderedText": "Frontend interviews\n\n1000000 raw units can mean 1 token\n\nFrontend dApp Engineer · 6-decimal example · Five answers\n\nAnswer\n\nFor a token with 6 decimals, viem formatUnits(1000000n, 6) returns '1'.\n\nHashtag Web3 interview bank\n\nN04 · 1/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N04-02.jpg",
+        "sha256": "75c85dadae0bf3e4976245a35fe1e877ce9bab538bcca4529bb85729e6321e0b",
+        "bytes": 139296,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Interview question FE-F-01 compares reading and signing. ethers v6: Provider reads chain data; Signer authorizes transactions. viem: Public Client exposes reads; Wallet Client handles signing through a wallet or local account.",
+        "renderedText": "Frontend interviews\n\nReading chain state and authorizing actions\n\nAnswer\n\nIn ethers v6, a Provider reads chain data; a Signer authorizes transactions. In viem, Public Client exposes reads and Wallet Client handles signing via a wallet or local account.\n\nHashtag Web3 interview bank\n\nN04 · 2/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N04-03.jpg",
+        "sha256": "04209bb243c781e5279681bd6a401cf836189c29b9934ed71c3a139c7959d17d",
+        "bytes": 182664,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Interview question FE-F-02 on token balances. Keep the balance as bigint and use formatUnits(balance, decimals). In viem, formatUnits(1000000n, 6) returns '1'. ERC-20 decimals() is optional; if absent, use verified token metadata or label raw units rather than assuming 18.",
+        "renderedText": "Frontend interviews\n\nFormat units without losing integer precision\n\nAnswer\n\nUse formatUnits(balance, decimals), keeping balance as bigint. In viem, formatUnits(1000000n, 6) returns '1'. Get decimals for that token and chain; never assume 18.\n\nERC-20 decimals() is optional. If absent, use verified token metadata or label raw units instead of silently assuming 18.\n\nHashtag Web3 interview bank\n\nN04 · 3/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N04-04.jpg",
+        "sha256": "950c672b2ba1026ba07740ad429930c7c47acd092b7a33e2221d41eb76aaae00",
+        "bytes": 161584,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Interview question FE-I-01 asks why a transaction is stuck and how the UI should respond. Low fees or an earlier pending nonce can block it. Show pending status. Speed-up uses the same nonce with higher fees; a cancellation is a competing replacement, so the original may confirm first.",
+        "renderedText": "Frontend interviews\n\nA cancellation races the pending transaction\n\nAnswer\n\nLow fees or an earlier pending nonce can block it. Show pending status. Speed-up uses the same nonce with higher fees; cancellation competes with the original and can fail.\n\nHashtag Web3 interview bank\n\nN04 · 4/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N04-05.jpg",
+        "sha256": "b416dea926dc508a3c7c3012c1ec0cb073b11cd6c73d7e96fffa36f8eb934ffe",
+        "bytes": 160855,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Interview question FE-A-01 on displaying a wallet's NFTs across contracts. Query an ownership indexer by wallet and chain, follow pagination, and render token IDs, metadata and images with missing-media fallbacks. A balanceOf call cannot list every collection.",
+        "renderedText": "Frontend interviews\n\nNFT ownership needs an index\n\nAnswer\n\nQuery an ownership indexer by wallet and chain, paginate results, then render token IDs, metadata and images. Handle missing media. balanceOf cannot list every collection.\n\nHashtag Web3 interview bank\n\nN04 · 5/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N04-06.jpg",
+        "sha256": "ea7b9ee94b1c43f492cea4a422f26d2a3c16985b5ed0fecb2cb9aa3a1b29aba6",
+        "bytes": 198531,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Interview question FE-E-01 compares EIP-712 with personal_sign for off-chain actions. EIP-712 signs typed fields with a domain so wallets can show structured terms. Include chainId and verifyingContract; the application must still check and consume nonces and enforce expiry.",
+        "renderedText": "Frontend interviews\n\nTyped signatures still need replay controls\n\nAnswer\n\nIt signs typed fields with a domain, so wallets can show structured terms. Include chainId and verifyingContract. The app must still enforce nonces and expiry.\n\nHashtag Web3 interview bank\n\nN04 · 6/6"
+      }
+    ],
+    "assetCommit": "3d99dd1539049e439815cecd1bcdf5a2884ab16f",
+    "target": {
+      "accountId": "17841473830256790",
+      "username": "hashtagweb3",
+      "service": "instagram"
+    },
+    "caption": "For a 6-decimal token, 1000000 raw units is 1 token. Displaying the raw balance makes a million-fold error.\n\nFive frontend dApp interview questions on reads, units, pending transactions, NFTs and signing.\n\n1. Q: What does a provider do in ethers or viem?\n\nA: In ethers v6, a Provider reads chain data; a Signer authorizes transactions. In viem, Public Client exposes reads and Wallet Client handles signing via a wallet or local account.\n\n2. Q: How do you display a uint256 token balance?\n\nA: Use formatUnits(balance, decimals), keeping balance as bigint. In viem, formatUnits(1000000n, 6) returns '1'. Get decimals for that token and chain; never assume 18.\n\n3. Q: Why is an Ethereum transaction stuck?\n\nA: Low fees or an earlier pending nonce can block it. Show pending status. Speed-up uses the same nonce with higher fees; cancellation competes with the original and can fail.\n\n4. Q: How do you show a wallet's NFTs across contracts?\n\nA: Query an ownership indexer by wallet and chain, paginate results, then render token IDs, metadata and images. Handle missing media. balanceOf cannot list every collection.\n\n5. Q: Why use EIP-712 rather than personal_sign for orders?\n\nA: It signs typed fields with a domain, so wallets can show structured terms. Include chainId and verifyingContract. The app must still enforce nonces and expiry.\n\nFull resource: hashtagweb3.com/interview-questions/ig",
+    "images": [
+      {
+        "path": "social-assets/knowledge-threads-month/exports/N04/instagram/01.jpg",
+        "sha256": "ea37d978ac26a10b55ae7e101fd240fed7ee0514c870260f11f58f8d693a20bc",
+        "bytes": 136150,
+        "width": 1080,
+        "height": 1350,
+        "alt": "Frontend dApp interview question FE-F-02 asks how to display a uint256 token balance. Example for a token with 6 decimals: viem formatUnits(1000000n, 6) returns the string '1'.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/3d99dd1539049e439815cecd1bcdf5a2884ab16f/social-assets/knowledge-threads-month/exports/N04/instagram/01.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/exports/N04/instagram/02.jpg",
+        "sha256": "2ad035ffe0461824cb5a8be64dcae43a8b525cf26b15a5af853793730323cef7",
+        "bytes": 130677,
+        "width": 1080,
+        "height": 1350,
+        "alt": "Interview question FE-F-01 compares reading and signing. ethers v6: Provider reads chain data; Signer authorizes transactions. viem: Public Client exposes reads; Wallet Client handles signing through a wallet or local account.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/3d99dd1539049e439815cecd1bcdf5a2884ab16f/social-assets/knowledge-threads-month/exports/N04/instagram/02.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/exports/N04/instagram/03.jpg",
+        "sha256": "f9bf665a3c0742426bb2686e6afe392a70ee7b017e8b039952d94a75b2b40311",
+        "bytes": 161506,
+        "width": 1080,
+        "height": 1350,
+        "alt": "Interview question FE-F-02 on token balances. Keep the balance as bigint and use formatUnits(balance, decimals). In viem, formatUnits(1000000n, 6) returns '1'. ERC-20 decimals() is optional; if absent, use verified token metadata or label raw units rather than assuming 18.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/3d99dd1539049e439815cecd1bcdf5a2884ab16f/social-assets/knowledge-threads-month/exports/N04/instagram/03.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/exports/N04/instagram/04.jpg",
+        "sha256": "73f62e734c34601bb594423b99c2c83fd1f8e9823ace9f77d184a24091ad5367",
+        "bytes": 142697,
+        "width": 1080,
+        "height": 1350,
+        "alt": "Interview question FE-I-01 asks why a transaction is stuck and how the UI should respond. Low fees or an earlier pending nonce can block it. Show pending status. Speed-up uses the same nonce with higher fees; a cancellation is a competing replacement, so the original may confirm first.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/3d99dd1539049e439815cecd1bcdf5a2884ab16f/social-assets/knowledge-threads-month/exports/N04/instagram/04.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/exports/N04/instagram/05.jpg",
+        "sha256": "8811387d487c2b4c29e535b66ace066a6d9650771db4910211de0de6494a6421",
+        "bytes": 151243,
+        "width": 1080,
+        "height": 1350,
+        "alt": "Interview question FE-A-01 on displaying a wallet's NFTs across contracts. Query an ownership indexer by wallet and chain, follow pagination, and render token IDs, metadata and images with missing-media fallbacks. A balanceOf call cannot list every collection.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/3d99dd1539049e439815cecd1bcdf5a2884ab16f/social-assets/knowledge-threads-month/exports/N04/instagram/05.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/exports/N04/instagram/06.jpg",
+        "sha256": "7ddcd3b2629680f4f34f50d94968939f2964a4fc31a4f2aecc2317de9452c462",
+        "bytes": 184059,
+        "width": 1080,
+        "height": 1350,
+        "alt": "Interview question FE-E-01 compares EIP-712 with personal_sign for off-chain actions. EIP-712 signs typed fields with a domain so wallets can show structured terms. Include chainId and verifyingContract; the application must still check and consume nonces and enforce expiry.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/3d99dd1539049e439815cecd1bcdf5a2884ab16f/social-assets/knowledge-threads-month/exports/N04/instagram/06.jpg"
+      }
+    ],
+    "transport": "meta"
+  },
+  "account": {
+    "accountId": "17841473830256790",
+    "username": "hashtagweb3",
+    "service": "instagram"
+  },
+  "claimId": "0095e2db-64d0-42eb-bea3-0f70bae3754e",
+  "startedAt": "2026-10-29T11:32:14.546Z",
+  "status": "claimed",
+  "children": {}
+}
