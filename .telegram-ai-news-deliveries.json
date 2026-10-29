@@ -2504,5 +2504,36 @@
     "slotKey": "2026-10-29:morning",
     "messageId": 193417,
     "sentAt": "2026-10-29T03:37:09.156Z"
+  },
+  "b29b4000-af63-4591-9ff4-51fa6dedc528": {
+    "status": "reserved",
+    "reservedAt": "2026-10-29T11:33:33.063Z",
+    "stories": [
+      {
+        "index": 2,
+        "headline": "Climate Models Fail to Account for Key Feedback Loops",
+        "summary": "Rising greenhouse gases trigger self-reinforcing climate processes that accelerate global warming beyond current targets.",
+        "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+        "source": "MIT Tech Review",
+        "originalTitle": "Our climate models have a big, dangerous blind spot"
+      },
+      {
+        "index": 4,
+        "headline": "Anthropic launches cost-tracking tools for enterprise customers",
+        "summary": "The analytics features give corporate clients clear visibility into model usage costs before a planned IPO.",
+        "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+        "source": "TechCrunch",
+        "originalTitle": "Anthropic just launched tools to show companies what their AI spending is buying"
+      },
+      {
+        "index": 7,
+        "headline": "Tech executives criticized for using AI to message family",
+        "summary": "Public statements about relying on AI for personal relationships suggest executives are disconnected from typical users.",
+        "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+        "source": "TechCrunch",
+        "originalTitle": "AI execs may be too out of touch to build for the general public"
+      }
+    ],
+    "slotKey": "2026-10-29:afternoon"
   }
 }
