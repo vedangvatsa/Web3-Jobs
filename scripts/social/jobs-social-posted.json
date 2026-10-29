@@ -71075,6 +71075,40 @@
       "attemptId": "df668db1-647c-4a22-9a50-47a56036fd38",
       "verification": "verified",
       "postId": "0x7a8b4a697c7121da015fd88d2f596fb9319e404a"
+    },
+    {
+      "slug": "qa92",
+      "company": "Bybit",
+      "title": "[EU] Lead QA Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-29T03:35:07.372Z",
+      "expectedText": "Bybit is hiring [EU] Lead QA Engineer\n\nhttps://hashtagweb3.com/qa92/fc?og=7",
+      "snapshot": {
+        "id": "5012065101",
+        "title": "[EU] Lead QA Engineer",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5012065101",
+        "date": "2026-10-21T06:06:34-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "Vienna, Austria",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "qa92"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Lead QA Engineer\n\nhttps://hashtagweb3.com/qa92/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/qa92/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "29677829-8daf-442f-947a-c4f9d5f67c57",
+      "verification": "creating"
     }
   ]
 }
