@@ -5,263 +5,261 @@
       .title { font-family: Georgia, 'Times New Roman', 'Playfair Display', serif; font-weight: 700; fill: #111827; }
       .axis-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 800; letter-spacing: 1.5px; fill: #111827; }
       .meta { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+      .item-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 700; fill: #111827; paint-order: stroke fill; stroke: #FFFFFF; stroke-width: 4.5px; stroke-linejoin: round; }
+      .item-sub { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 12.5px; font-weight: 500; fill: #4B5563; paint-order: stroke fill; stroke: #FFFFFF; stroke-width: 3.5px; stroke-linejoin: round; }
     </style>
-    <marker id="arrow-right" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
-      <path d="M 0 1.5 L 8 5 L 0 8.5 z" fill="#1F2937"/>
-    </marker>
-    <marker id="arrow-left" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
-      <path d="M 8 1.5 L 0 5 L 8 8.5 z" fill="#1F2937"/>
-    </marker>
-    <marker id="arrow-up" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
-      <path d="M 1.5 8 L 5 0 L 8.5 8 z" fill="#1F2937"/>
-    </marker>
-    <marker id="arrow-down" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
-      <path d="M 1.5 0 L 5 8 L 8.5 0 z" fill="#1F2937"/>
-    </marker>
   </defs>
 
   <!-- Clean Background -->
   <rect width="1200" height="1200" fill="#FFFFFF"/>
 
-  <!-- Top Header Title -->
-  <text x="600" y="90" text-anchor="middle" font-size="52" class="title">Global Passports: Mobility vs Cost</text>
+  <!-- Top Header Title (Dynamically Scaled & Centered, 0% Edge Clipping) -->
+  <text x="600" y="85" text-anchor="middle" font-size="40" class="title">Global Passports: Mobility vs Cost</text>
 
-  <!-- Crosshairs Axes -->
-  <!-- Horizontal X-Axis (from 215 to 985, y=620) -->
-  <line x1="215" y1="620" x2="985" y2="620" stroke="#1F2937" stroke-width="2.2" marker-start="url(#arrow-left)" marker-end="url(#arrow-right)"/>
-  
-  <!-- Vertical Y-Axis (from 195 to 1045, x=600) -->
-  <line x1="600" y1="195" x2="600" y2="1045" stroke="#1F2937" stroke-width="2.2" marker-start="url(#arrow-up)" marker-end="url(#arrow-down)"/>
+  <!-- Central Crosshairs Axes with Direct Sharp Polygon Arrows -->
+  <!-- Horizontal X-Axis Line (from 75 to 1125, y=620) -->
+  <line x1="75" y1="620" x2="1125" y2="620" stroke="#1F2937" stroke-width="2.5"/>
+  <!-- Left Arrow (pointing LEFT) -->
+  <polygon points="60,620 75,613 75,627" fill="#1F2937"/>
+  <!-- Right Arrow (pointing RIGHT) -->
+  <polygon points="1140,620 1125,613 1125,627" fill="#1F2937"/>
+
+  <!-- Vertical Y-Axis Line (from 175 to 1065, x=600) -->
+  <line x1="600" y1="175" x2="600" y2="1065" stroke="#1F2937" stroke-width="2.5"/>
+  <!-- Top Arrow (pointing UP) -->
+  <polygon points="600,160 593,175 607,175" fill="#1F2937"/>
+  <!-- Bottom Arrow (pointing DOWN) -->
+  <polygon points="600,1080 593,1065 607,1065" fill="#1F2937"/>
 
   <!-- Axis Labels -->
   <!-- Top Label -->
-  <text x="600" y="165" text-anchor="middle" font-size="18" class="axis-label">TIER-1 PASSPORT POWER (180+ DESTINATIONS)</text>
+  <text x="600" y="142" text-anchor="middle" font-size="17" class="axis-label">TIER-1 PASSPORT POWER (180+ DESTINATIONS)</text>
   
   <!-- Bottom Label -->
-  <text x="600" y="1080" text-anchor="middle" font-size="18" class="axis-label">MODERATE PASSPORT POWER (&lt;150 DESTINATIONS)</text>
+  <text x="600" y="1108" text-anchor="middle" font-size="17" class="axis-label">MODERATE PASSPORT POWER (&lt;150 DESTINATIONS)</text>
   
-  <!-- Left Label -->
-  <text x="195" y="626" text-anchor="end" font-size="18" class="axis-label">EXPENSIVE CBI</text>
+  <!-- Left Label (placed cleanly above the left arrow line) -->
+  <text x="80" y="608" text-anchor="start" font-size="16" class="axis-label">EXPENSIVE CBI</text>
   
-  <!-- Right Label -->
-  <text x="1005" y="626" text-anchor="start" font-size="18" class="axis-label">ACCESSIBLE CBI</text>
+  <!-- Right Label (placed cleanly above the right arrow line) -->
+  <text x="1120" y="608" text-anchor="end" font-size="16" class="axis-label">ACCESSIBLE CBI</text>
 
   <!-- Render Data Points -->
   
     <g class="matrix-item" data-name="Singapore">
-      
+      <line x1="230" y1="181" x2="230" y2="170" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
       <!-- Drop shadow for flag circle -->
-      <circle cx="230" cy="223" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="230" cy="221" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="230" cy="213" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="230" cy="211" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjI1NmwtMjU2IDMyTDAgMjU2WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0yMDAgNTZhNzggNzggMCAxIDAgMTcgMTU0IDc4IDc4IDAgMCAxIDAtMTUycS04LTItMTctMm01NiA1LTUgMTdoLTE4bDE0IDExLTUgMTcgMTQtMTEgMTUgMTEtNi0xNyAxNS0xMWgtMTh6bS00MyAzNC02IDE3aC0xOGwxNSAxMC02IDE3IDE1LTEwIDE0IDEwLTUtMTcgMTQtMTBoLTE4em04NiAwLTUgMTdoLTE4bDE0IDEwLTUgMTcgMTQtMTAgMTUgMTAtNi0xNyAxNS0xMGgtMTh6bS03MCA1MC01IDE3aC0xOGwxNCAxMC01IDE3IDE0LTEwIDE1IDEwLTYtMTcgMTUtMTBoLTE4em01NCAwLTYgMTdoLTE4bDE1IDEwLTYgMTcgMTUtMTAgMTQgMTAtNS0xNyAxNC0xMGgtMThaTTAgMjU2djI1Nmg1MTJWMjU2WiIvPjwvZz48L3N2Zz4=" x="203" y="193" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjI1NmwtMjU2IDMyTDAgMjU2WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0yMDAgNTZhNzggNzggMCAxIDAgMTcgMTU0IDc4IDc4IDAgMCAxIDAtMTUycS04LTItMTctMm01NiA1LTUgMTdoLTE4bDE0IDExLTUgMTcgMTQtMTEgMTUgMTEtNi0xNyAxNS0xMWgtMTh6bS00MyAzNC02IDE3aC0xOGwxNSAxMC02IDE3IDE1LTEwIDE0IDEwLTUtMTcgMTQtMTBoLTE4em04NiAwLTUgMTdoLTE4bDE0IDEwLTUgMTcgMTQtMTAgMTUgMTAtNi0xNyAxNS0xMGgtMTh6bS03MCA1MC01IDE3aC0xOGwxNCAxMC01IDE3IDE0LTEwIDE1IDEwLTYtMTcgMTUtMTBoLTE4em01NCAwLTYgMTdoLTE4bDE1IDEwLTYgMTcgMTUtMTAgMTQgMTAtNS0xNyAxNC0xMGgtMThaTTAgMjU2djI1Nmg1MTJWMjU2WiIvPjwvZz48L3N2Zz4=" x="203" y="183" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="230" cy="220" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="230" cy="220" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="230" cy="210" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="230" cy="210" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="230" y="264" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Singapore</text>
-      <text x="230" y="282" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">195 Visa-Free · Closed</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="230" y="164" text-anchor="middle" class="item-title">Singapore</text>
+      <text x="230" y="182" text-anchor="middle" class="item-sub">195 Visa-Free · Closed</text>
     </g>
 
     <g class="matrix-item" data-name="Germany">
-      
+      <line x1="300" y1="289" x2="262" y2="251" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
       <!-- Drop shadow for flag circle -->
-      <circle cx="310" cy="263" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="310" cy="261" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="300" cy="263" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="300" cy="261" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0wIDM0NSAyNTYuNy0yNS41TDUxMiAzNDV2MTY3SDB6Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0ibTAgMTY3IDI1NS0yMyAyNTcgMjN2MTc4SDB6Ii8+PHBhdGggZmlsbD0iIzMzMyIgZD0iTTAgMGg1MTJ2MTY3SDB6Ii8+PC9nPjwvc3ZnPg==" x="283" y="233" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0wIDM0NSAyNTYuNy0yNS41TDUxMiAzNDV2MTY3SDB6Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0ibTAgMTY3IDI1NS0yMyAyNTcgMjN2MTc4SDB6Ii8+PHBhdGggZmlsbD0iIzMzMyIgZD0iTTAgMGg1MTJ2MTY3SDB6Ii8+PC9nPjwvc3ZnPg==" x="273" y="233" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="310" cy="260" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="310" cy="260" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="300" cy="260" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="300" cy="260" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="310" y="304" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Germany</text>
-      <text x="310" y="322" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">191 Visa-Free · 5-Yr Route</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="262" y="266" text-anchor="end" class="item-title">Germany</text>
+      <text x="262" y="284" text-anchor="end" class="item-sub">191 Visa-Free · 5y Route</text>
     </g>
 
     <g class="matrix-item" data-name="Spain">
-      
+      <line x1="430" y1="339" x2="468" y2="301" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
       <!-- Drop shadow for flag circle -->
-      <circle cx="400" cy="313" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="400" cy="311" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="430" cy="313" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="430" cy="311" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0wIDEyOCAyNTYtMzIgMjU2IDMydjI1NmwtMjU2IDMyTDAgMzg0WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0xOTYgMTY4cS0xMSAxLTE1IDExbC01LTFxLTE1IDEtMTYgMTZjLTEgMTUgNyAxNiAxNiAxNnExMSAwIDE1LTExYTE2IDE2IDAgMCAwIDE3LTQgMTYgMTYgMCAwIDAgMTcgNCAxNiAxNiAwIDEgMCAxMC0yMCAxNiAxNiAwIDAgMC0yNy01cS00LTYtMTItNm0wIDhxOCAxIDggOCAwIDgtOCA4LTcgMC04LTggMS03IDgtOG0yNCAwcTggMSA4IDggMCA4LTggOC03IDAtOC04IDEtNyA4LThtLTQ0IDEwIDQgMSA0IDhxLTEgNy04IDctOSAwLTgtOCAxLTcgOC04bTY0IDBxOCAxIDggOCAwIDgtOCA4LTcgMC04LTdsNC04em0tMTEyIDM4djgwaDE2di04MHptODAgMHY0MGMtMjYgMC00OCAxNC00OCAzMnMyMiAzMiA0OCAzMiA0OC0xNCA0OC0zMnYtNzJ6bTY0IDB2ODBoMTZ2LTgweiIvPjxwYXRoIGZpbGw9IiNmZjk4MTEiIGQ9Ik0yMDAgMTYwaDE2djMyaC0xNnoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMCAwdjEyOGg1MTJWMHptMjA4IDE4NGMtMjIgMC00MCAxMS00MCAyNGw4IDhoNjRsOC04YzAtMTMtMTgtMjQtNDAtMjRtLTcyIDhhOCA4IDAgMCAwLTggOHY4YTggOCAwIDEgMCAxNiAwdi04YTggOCAwIDAgMC04LThtMTQ0IDBhOCA4IDAgMCAwLTggOHY4YTggOCAwIDEgMCAxNiAwdi04YTggOCAwIDAgMC04LThtLTEyMCAzMnYyNGgtMzhhNCA0IDAgMCAwLTQgNCA0IDQgMCAwIDAgNCA0aDM4djQwYTI0IDI0IDAgMCAwIDI0IDI0IDI0IDI0IDAgMCAwIDI0LTI0IDI0IDI0IDAgMCAwIDI0IDI0IDI0IDI0IDAgMCAwIDI0LTI0di0yNGgtNDh2LTQ4em03MiA4YTEwIDEwIDAgMCAwLTEwIDEwdjEyYTEwIDEwIDAgMSAwIDIwIDB2LTEyYTEwIDEwIDAgMCAwLTEwLTEwbTI0IDE2djhoMzhhNCA0IDAgMCAwIDQtNCA0IDQgMCAwIDAtNC00em0tMTM0IDI0YTQgNCAwIDAgMC00IDQgNCA0IDAgMCAwIDQgNGgyOGE0IDQgMCAwIDAgNC00IDQgNCAwIDAgMC00LTR6bTE0NCAwYTQgNCAwIDAgMC00IDQgNCA0IDAgMCAwIDQgNGgyOGE0IDQgMCAwIDAgNC00IDQgNCAwIDAgMC00LTR6TTAgMzg0djEyOGg1MTJWMzg0eiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Ik0xODYgMTk2YTYgNiAwIDAgMC02IDYgNiA2IDAgMCAwIDYgNiA2IDYgMCAwIDAgNi02IDYgNiAwIDAgMC02LTZtMjIgMGE2IDYgMCAwIDAtNiA2IDYgNiAwIDAgMCA2IDYgNiA2IDAgMCAwIDYtNiA2IDYgMCAwIDAtNi02bTIyIDBhNiA2IDAgMCAwLTYgNiA2IDYgMCAwIDAgNiA2IDYgNiAwIDAgMCA2LTYgNiA2IDAgMCAwLTYtNiIvPjxwYXRoIGZpbGw9IiNmZjk4MTEiIGQ9Ik0xMjggMjA4YTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2em0xNDQgMGE4IDggMCAxIDAgMCAxNmgxNmE4IDggMCAxIDAgMC0xNnptLTk2IDh2OGg2NHYtOHptLTggMTZ2OGg4djE2aC04djhoMzJ2LThoLTh2LTE2aDh2LTh6bS04IDQwdjI0cTEgMTIgOSAxOXYtNDN6bTE5IDB2NDdoMTB2LTQ3em0yMCAwdjQzcTktNyA5LTE5di0yNHptLTcxIDMyYTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2em0xNDQgMGE4IDggMCAxIDAgMCAxNmgxNmE4IDggMCAxIDAgMC0xNnoiLz48cGF0aCBmaWxsPSIjMzM4YWYzIiBkPSJNMjA4IDI1NmExNiAxNiAwIDAgMC0xNiAxNiAxNiAxNiAwIDAgMCAxNiAxNiAxNiAxNiAwIDAgMCAxNi0xNiAxNiAxNiAwIDAgMC0xNi0xNm0tODAgNjRhOCA4IDAgMSAwIDAgMTZoMTZhOCA4IDAgMSAwIDAtMTZ6bTE0NCAwYTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2eiIvPjwvZz48L3N2Zz4=" x="373" y="283" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0wIDEyOCAyNTYtMzIgMjU2IDMydjI1NmwtMjU2IDMyTDAgMzg0WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0xOTYgMTY4cS0xMSAxLTE1IDExbC01LTFxLTE1IDEtMTYgMTZjLTEgMTUgNyAxNiAxNiAxNnExMSAwIDE1LTExYTE2IDE2IDAgMCAwIDE3LTQgMTYgMTYgMCAwIDAgMTcgNCAxNiAxNiAwIDEgMCAxMC0yMCAxNiAxNiAwIDAgMC0yNy01cS00LTYtMTItNm0wIDhxOCAxIDggOCAwIDgtOCA4LTcgMC04LTggMS03IDgtOG0yNCAwcTggMSA4IDggMCA4LTggOC03IDAtOC04IDEtNyA4LThtLTQ0IDEwIDQgMSA0IDhxLTEgNy04IDctOSAwLTgtOCAxLTcgOC04bTY0IDBxOCAxIDggOCAwIDgtOCA4LTcgMC04LTdsNC04em0tMTEyIDM4djgwaDE2di04MHptODAgMHY0MGMtMjYgMC00OCAxNC00OCAzMnMyMiAzMiA0OCAzMiA0OC0xNCA0OC0zMnYtNzJ6bTY0IDB2ODBoMTZ2LTgweiIvPjxwYXRoIGZpbGw9IiNmZjk4MTEiIGQ9Ik0yMDAgMTYwaDE2djMyaC0xNnoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMCAwdjEyOGg1MTJWMHptMjA4IDE4NGMtMjIgMC00MCAxMS00MCAyNGw4IDhoNjRsOC04YzAtMTMtMTgtMjQtNDAtMjRtLTcyIDhhOCA4IDAgMCAwLTggOHY4YTggOCAwIDEgMCAxNiAwdi04YTggOCAwIDAgMC04LThtMTQ0IDBhOCA4IDAgMCAwLTggOHY4YTggOCAwIDEgMCAxNiAwdi04YTggOCAwIDAgMC04LThtLTEyMCAzMnYyNGgtMzhhNCA0IDAgMCAwLTQgNCA0IDQgMCAwIDAgNCA0aDM4djQwYTI0IDI0IDAgMCAwIDI0IDI0IDI0IDI0IDAgMCAwIDI0LTI0IDI0IDI0IDAgMCAwIDI0IDI0IDI0IDI0IDAgMCAwIDI0LTI0di0yNGgtNDh2LTQ4em03MiA4YTEwIDEwIDAgMCAwLTEwIDEwdjEyYTEwIDEwIDAgMSAwIDIwIDB2LTEyYTEwIDEwIDAgMCAwLTEwLTEwbTI0IDE2djhoMzhhNCA0IDAgMCAwIDQtNCA0IDQgMCAwIDAtNC00em0tMTM0IDI0YTQgNCAwIDAgMC00IDQgNCA0IDAgMCAwIDQgNGgyOGE0IDQgMCAwIDAgNC00IDQgNCAwIDAgMC00LTR6bTE0NCAwYTQgNCAwIDAgMC00IDQgNCA0IDAgMCAwIDQgNGgyOGE0IDQgMCAwIDAgNC00IDQgNCAwIDAgMC00LTR6TTAgMzg0djEyOGg1MTJWMzg0eiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Ik0xODYgMTk2YTYgNiAwIDAgMC02IDYgNiA2IDAgMCAwIDYgNiA2IDYgMCAwIDAgNi02IDYgNiAwIDAgMC02LTZtMjIgMGE2IDYgMCAwIDAtNiA2IDYgNiAwIDAgMCA2IDYgNiA2IDAgMCAwIDYtNiA2IDYgMCAwIDAtNi02bTIyIDBhNiA2IDAgMCAwLTYgNiA2IDYgMCAwIDAgNiA2IDYgNiAwIDAgMCA2LTYgNiA2IDAgMCAwLTYtNiIvPjxwYXRoIGZpbGw9IiNmZjk4MTEiIGQ9Ik0xMjggMjA4YTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2em0xNDQgMGE4IDggMCAxIDAgMCAxNmgxNmE4IDggMCAxIDAgMC0xNnptLTk2IDh2OGg2NHYtOHptLTggMTZ2OGg4djE2aC04djhoMzJ2LThoLTh2LTE2aDh2LTh6bS04IDQwdjI0cTEgMTIgOSAxOXYtNDN6bTE5IDB2NDdoMTB2LTQ3em0yMCAwdjQzcTktNyA5LTE5di0yNHptLTcxIDMyYTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2em0xNDQgMGE4IDggMCAxIDAgMCAxNmgxNmE4IDggMCAxIDAgMC0xNnoiLz48cGF0aCBmaWxsPSIjMzM4YWYzIiBkPSJNMjA4IDI1NmExNiAxNiAwIDAgMC0xNiAxNiAxNiAxNiAwIDAgMCAxNiAxNiAxNiAxNiAwIDAgMCAxNi0xNiAxNiAxNiAwIDAgMC0xNi0xNm0tODAgNjRhOCA4IDAgMSAwIDAgMTZoMTZhOCA4IDAgMSAwIDAtMTZ6bTE0NCAwYTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2eiIvPjwvZz48L3N2Zz4=" x="403" y="283" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="400" cy="310" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="400" cy="310" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="430" cy="310" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="430" cy="310" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="400" y="354" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Spain</text>
-      <text x="400" y="372" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">190 Visa-Free · €500k</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="468" y="316" text-anchor="start" class="item-title">Spain</text>
+      <text x="468" y="334" text-anchor="start" class="item-sub">190 Visa-Free · €500k</text>
     </g>
 
     <g class="matrix-item" data-name="Portugal">
-      
+      <line x1="500" y1="409" x2="538" y2="371" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
       <!-- Drop shadow for flag circle -->
-      <circle cx="490" cy="363" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="490" cy="361" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="500" cy="383" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="500" cy="381" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiM2ZGE1NDQiIGQ9Ik0wIDUxMmgxNjdsMzcuOS0yNjAuM0wxNjcgMEgweiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik01MTIgMEgxNjd2NTEyaDM0NXoiLz48Y2lyY2xlIGN4PSIxNjciIGN5PSIyNTYiIHI9Ijg5IiBmaWxsPSIjZmZkYTQ0Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTExNi45IDIxMS41VjI2N2E1MCA1MCAwIDEgMCAxMDAuMSAwdi01NS42SDExN3oiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJNMTY3IDI4My44Yy05LjIgMC0xNi43LTcuNS0xNi43LTE2LjdWMjQ1aDMzLjR2MjJjMCA5LjItNy41IDE2LjctMTYuNyAxNi43eiIvPjwvZz48L3N2Zz4=" x="463" y="333" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiM2ZGE1NDQiIGQ9Ik0wIDUxMmgxNjdsMzcuOS0yNjAuM0wxNjcgMEgweiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik01MTIgMEgxNjd2NTEyaDM0NXoiLz48Y2lyY2xlIGN4PSIxNjciIGN5PSIyNTYiIHI9Ijg5IiBmaWxsPSIjZmZkYTQ0Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTExNi45IDIxMS41VjI2N2E1MCA1MCAwIDEgMCAxMDAuMSAwdi01NS42SDExN3oiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJNMTY3IDI4My44Yy05LjIgMC0xNi43LTcuNS0xNi43LTE2LjdWMjQ1aDMzLjR2MjJjMCA5LjItNy41IDE2LjctMTYuNyAxNi43eiIvPjwvZz48L3N2Zz4=" x="473" y="353" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="490" cy="360" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="490" cy="360" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="500" cy="380" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="500" cy="380" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="490" y="404" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Portugal</text>
-      <text x="490" y="422" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">188 Visa-Free · €500k Fund</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="538" y="386" text-anchor="start" class="item-title">Portugal</text>
+      <text x="538" y="404" text-anchor="start" class="item-sub">188 Visa-Free · €500k</text>
     </g>
 
     <g class="matrix-item" data-name="Malta">
-      
+      <line x1="310" y1="459" x2="272" y2="421" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
       <!-- Drop shadow for flag circle -->
-      <circle cx="310" cy="403" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="310" cy="401" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="310" cy="433" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="310" cy="431" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDBoMjU2bDUyIDI1OS4yTDI1NiA1MTJIMHoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMjU2IDBoMjU2djUxMkgyNTZ6Ii8+PHBhdGggZmlsbD0iI2FjYWJiMSIgZD0iTTE2MCAxMjhWOTZoLTMydjMySDk2djMyaDMydjMyaDMydi0zMmgzMnYtMzJ6Ii8+PC9nPjwvc3ZnPg==" x="283" y="373" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDBoMjU2bDUyIDI1OS4yTDI1NiA1MTJIMHoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMjU2IDBoMjU2djUxMkgyNTZ6Ii8+PHBhdGggZmlsbD0iI2FjYWJiMSIgZD0iTTE2MCAxMjhWOTZoLTMydjMySDk2djMyaDMydjMyaDMydi0zMmgzMnYtMzJ6Ii8+PC9nPjwvc3ZnPg==" x="283" y="403" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="310" cy="400" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="310" cy="400" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="310" cy="430" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="310" cy="430" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="310" y="444" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Malta</text>
-      <text x="310" y="462" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">187 Visa-Free · €750k CBI</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="272" y="436" text-anchor="end" class="item-title">Malta</text>
+      <text x="272" y="454" text-anchor="end" class="item-sub">187 Visa-Free · €750k CBI</text>
     </g>
 
     <g class="matrix-item" data-name="Greece">
-      <line x1="530" y1="211" x2="530" y2="200" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
+      <line x1="720" y1="269" x2="758" y2="231" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
       <!-- Drop shadow for flag circle -->
-      <circle cx="530" cy="243" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="530" cy="241" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="720" cy="243" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="720" cy="241" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDBoOTlsMjkgMzIgMjgtMzJoMzU2djU3bC0zMiAyOCAzMiAyOXY1N2wtMzIgMjggMzIgMjl2NTdsLTMyIDI4IDMyIDI4djU3bC0zMiAyOSAzMiAyOHY1N0gwdi01N2wzMi0yOC0zMi0yOXYtNTZsMzItMjktMzItMjhWMTcxbDMyLTI5LTMyLTI4WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik05OSAwdjExNEgwdjU3aDk5djExNEgwdjU3aDUxMnYtNTdIMTU2VjE3MWgxMDB2LTU3SDE1NlYwWm0xNTcgNTd2NTdoMjU2VjU3Wm0wIDExNHY1N2gyNTZ2LTU3Wk0wIDM5OHY1N2g1MTJ2LTU3eiIvPjwvZz48L3N2Zz4=" x="503" y="213" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDBoOTlsMjkgMzIgMjgtMzJoMzU2djU3bC0zMiAyOCAzMiAyOXY1N2wtMzIgMjggMzIgMjl2NTdsLTMyIDI4IDMyIDI4djU3bC0zMiAyOSAzMiAyOHY1N0gwdi01N2wzMi0yOC0zMi0yOXYtNTZsMzItMjktMzItMjhWMTcxbDMyLTI5LTMyLTI4WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik05OSAwdjExNEgwdjU3aDk5djExNEgwdjU3aDUxMnYtNTdIMTU2VjE3MWgxMDB2LTU3SDE1NlYwWm0xNTcgNTd2NTdoMjU2VjU3Wm0wIDExNHY1N2gyNTZ2LTU3Wk0wIDM5OHY1N2g1MTJ2LTU3eiIvPjwvZz48L3N2Zz4=" x="693" y="213" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="530" cy="240" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="530" cy="240" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="720" cy="240" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="720" cy="240" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="530" y="194" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Greece</text>
-      <text x="530" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">187 Visa-Free · €400k Real Est.</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="758" y="246" text-anchor="start" class="item-title">Greece</text>
+      <text x="758" y="264" text-anchor="start" class="item-sub">187 Visa-Free · €400k Real Est.</text>
     </g>
 
     <g class="matrix-item" data-name="UAE">
       
       <!-- Drop shadow for flag circle -->
-      <circle cx="470" cy="473" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="470" cy="471" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="430" cy="493" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="430" cy="491" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNhMjAwMWQiIGQ9Ik0wIDBoMTY3bDUyLjMgMjUyTDE2NyA1MTJIMHoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJtMTY3IDE2NyAxNzAuOC00NC42TDUxMiAxNjd2MTc4bC0xNzMuMiAzNi45TDE2NyAzNDV6Ii8+PHBhdGggZmlsbD0iIzZkYTU0NCIgZD0iTTE2NyAwaDM0NXYxNjdIMTY3eiIvPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik0xNjcgMzQ1aDM0NXYxNjdIMTY3eiIvPjwvZz48L3N2Zz4=" x="443" y="443" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNhMjAwMWQiIGQ9Ik0wIDBoMTY3bDUyLjMgMjUyTDE2NyA1MTJIMHoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJtMTY3IDE2NyAxNzAuOC00NC42TDUxMiAxNjd2MTc4bC0xNzMuMiAzNi45TDE2NyAzNDV6Ii8+PHBhdGggZmlsbD0iIzZkYTU0NCIgZD0iTTE2NyAwaDM0NXYxNjdIMTY3eiIvPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik0xNjcgMzQ1aDM0NXYxNjdIMTY3eiIvPjwvZz48L3N2Zz4=" x="403" y="463" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="470" cy="470" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="470" cy="470" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="430" cy="490" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="430" cy="490" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="470" y="514" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">UAE</text>
-      <text x="470" y="532" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">182 Visa-Free · $545k 10-Yr</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="430" y="534" text-anchor="middle" class="item-title">UAE</text>
+      <text x="430" y="552" text-anchor="middle" class="item-sub">182 Visa-Free · $545k 10-Yr</text>
     </g>
 
     <g class="matrix-item" data-name="Cyprus">
-      
+      <line x1="560" y1="501" x2="560" y2="490" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
       <!-- Drop shadow for flag circle -->
-      <circle cx="570" cy="533" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="570" cy="531" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="560" cy="533" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="560" cy="531" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDBoNTEydjUxMkgweiIvPjxwYXRoIGZpbGw9IiM2ZGE1NDQiIGQ9Ik00MDAuNyAyMjIuNmgtMzMuNGExMTEuMyAxMTEuMyAwIDAgMS0yMjIuNiAwaC0zMy40YzAgNjYuMiA0NC41IDEyMiAxMDUuMiAxMzkuMmEzNyAzNyAwIDAgMCAzLjkgNDAuNWwzNi4zLTI5LjIgMzYuNCAyOS4yYTM3IDM3IDAgMCAwIDMuNy00MC44IDE0NC44IDE0NC44IDAgMCAwIDEwMy45LTEzOC45eiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Ik0xNjcgMjExLjVzMCA1NS42IDU1LjYgNTUuNmwxMS4xIDExLjJIMjU2czExLjEtMzMuNCAzMy40LTMzLjRjMCAwIDAtMjIuMyAyMi4zLTIyLjNIMzQ1cy0xMS00NC41IDQ0LjYtNzcuOWwtMjIuMy0xMS4xcy03OCA1NS42LTEzMy42IDQ0LjV2MjIuMmgtMjIuMmwtMTEuMi0xMS0zMy4zIDIyLjJ6Ii8+PC9nPjwvc3ZnPg==" x="543" y="503" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDBoNTEydjUxMkgweiIvPjxwYXRoIGZpbGw9IiM2ZGE1NDQiIGQ9Ik00MDAuNyAyMjIuNmgtMzMuNGExMTEuMyAxMTEuMyAwIDAgMS0yMjIuNiAwaC0zMy40YzAgNjYuMiA0NC41IDEyMiAxMDUuMiAxMzkuMmEzNyAzNyAwIDAgMCAzLjkgNDAuNWwzNi4zLTI5LjIgMzYuNCAyOS4yYTM3IDM3IDAgMCAwIDMuNy00MC44IDE0NC44IDE0NC44IDAgMCAwIDEwMy45LTEzOC45eiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Ik0xNjcgMjExLjVzMCA1NS42IDU1LjYgNTUuNmwxMS4xIDExLjJIMjU2czExLjEtMzMuNCAzMy40LTMzLjRjMCAwIDAtMjIuMyAyMi4zLTIyLjNIMzQ1cy0xMS00NC41IDQ0LjYtNzcuOWwtMjIuMy0xMS4xcy03OCA1NS42LTEzMy42IDQ0LjV2MjIuMmgtMjIuMmwtMTEuMi0xMS0zMy4zIDIyLjJ6Ii8+PC9nPjwvc3ZnPg==" x="533" y="503" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="570" cy="530" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="570" cy="530" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="560" cy="530" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="560" cy="530" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="570" y="574" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Cyprus</text>
-      <text x="570" y="592" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">181 Visa-Free · €300k PR</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="560" y="484" text-anchor="middle" class="item-title">Cyprus</text>
+      <text x="560" y="502" text-anchor="middle" class="item-sub">181 Visa-Free · €300k PR</text>
     </g>
 
     <g class="matrix-item" data-name="St. Kitts &amp; Nevis">
-      
+      <line x1="740" y1="501" x2="740" y2="490" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
       <!-- Drop shadow for flag circle -->
-      <circle cx="740" cy="573" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="740" cy="571" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="740" cy="533" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="740" cy="531" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0wIDQwMS45IDE3My42LTIyNS4zTDQwMS45IDBINDQ5bDYzIDYzLS4xIDQ3LjMtMTY3LjMgMjIzLjVMMTEwLjMgNTEySDYzTDAgNDQ5eiIvPjxwYXRoIGZpbGw9IiM2ZGE1NDQiIGQ9Ik0wIDB2NDAxLjlMNDAxLjkgMHoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNNTEyIDUxMlYxMTAuM0wxMTAuMyA1MTJ6Ii8+PHBhdGggZmlsbD0iIzMzMyIgZD0iTTAgNTEyaDYzTDUxMiA2M1YwaC02M0wwIDQ0OXoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJtMTYyLjggMzAyIDI0IDEyLjIgMTktMTktNC40IDI2LjUgMjQgMTIuMi0yNi42IDQuMi00LjIgMjYuNS0xMi0yNEwxNTYgMzQ1bDE5LTE5ek0zMDIgMTYyLjhsMjQgMTIuMSAxOS0xOS00LjMgMjYuNiAyNCAxMi4xLTI2LjYgNC4yLTQuMiAyNi41LTEyLjItMjMuOS0yNi41IDQuMiAxOS0xOXoiLz48L2c+PC9zdmc+" x="713" y="543" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0wIDQwMS45IDE3My42LTIyNS4zTDQwMS45IDBINDQ5bDYzIDYzLS4xIDQ3LjMtMTY3LjMgMjIzLjVMMTEwLjMgNTEySDYzTDAgNDQ5eiIvPjxwYXRoIGZpbGw9IiM2ZGE1NDQiIGQ9Ik0wIDB2NDAxLjlMNDAxLjkgMHoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNNTEyIDUxMlYxMTAuM0wxMTAuMyA1MTJ6Ii8+PHBhdGggZmlsbD0iIzMzMyIgZD0iTTAgNTEyaDYzTDUxMiA2M1YwaC02M0wwIDQ0OXoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJtMTYyLjggMzAyIDI0IDEyLjIgMTktMTktNC40IDI2LjUgMjQgMTIuMi0yNi42IDQuMi00LjIgMjYuNS0xMi0yNEwxNTYgMzQ1bDE5LTE5ek0zMDIgMTYyLjhsMjQgMTIuMSAxOS0xOS00LjMgMjYuNiAyNCAxMi4xLTI2LjYgNC4yLTQuMiAyNi41LTEyLjItMjMuOS0yNi41IDQuMiAxOS0xOXoiLz48L2c+PC9zdmc+" x="713" y="503" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="740" cy="570" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="740" cy="570" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="740" cy="530" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="740" cy="530" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="740" y="614" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">St. Kitts &amp; Nevis</text>
-      <text x="740" y="632" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">157 Visa-Free · $250k CBI</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="740" y="484" text-anchor="middle" class="item-title">St. Kitts &amp; Nevis</text>
+      <text x="740" y="502" text-anchor="middle" class="item-sub">157 Visa-Free · $250k CBI</text>
     </g>
 
     <g class="matrix-item" data-name="Antigua &amp; Barbuda">
-      
+      <line x1="900" y1="571" x2="900" y2="560" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
       <!-- Drop shadow for flag circle -->
-      <circle cx="870" cy="633" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="870" cy="631" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="900" cy="603" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="900" cy="601" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik0wIC40aDUxMmwtMzQgMjI5SDM2eiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0zNjcuMyAyMDUuMy0xMDkuNyAxOS40LTExMi45LTE5LjQgNDUuNS0yMS4zLTI0LjItNDQgNDkuMyA5LjQgNi4zLTQ5LjkgMzQuNCAzNi43IDM0LjQtMzYuNiA2LjMgNTBMMzQ2IDE0MGwtMjQuMiA0NHoiLz48cGF0aCBmaWxsPSIjMDA1MmI0IiBkPSJNMjUuNiAyMDUuM2g0NjYuOEwyNTcgNDM5LjV6Ii8+PHBhdGggZmlsbD0iI2VlZSIgZD0iTTM0IDMwNy40aDQ0NkwyNTYgNTExLjZ6Ii8+PHBhdGggZmlsbD0iI2EyMDAxZCIgZD0ibTAgNTExLjYgMjU2IC40TDAgLjR6bTI1NiAuNCAyNTYtLjRWMHoiLz48L2c+PC9zdmc+" x="843" y="603" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik0wIC40aDUxMmwtMzQgMjI5SDM2eiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0zNjcuMyAyMDUuMy0xMDkuNyAxOS40LTExMi45LTE5LjQgNDUuNS0yMS4zLTI0LjItNDQgNDkuMyA5LjQgNi4zLTQ5LjkgMzQuNCAzNi43IDM0LjQtMzYuNiA2LjMgNTBMMzQ2IDE0MGwtMjQuMiA0NHoiLz48cGF0aCBmaWxsPSIjMDA1MmI0IiBkPSJNMjUuNiAyMDUuM2g0NjYuOEwyNTcgNDM5LjV6Ii8+PHBhdGggZmlsbD0iI2VlZSIgZD0iTTM0IDMwNy40aDQ0NkwyNTYgNTExLjZ6Ii8+PHBhdGggZmlsbD0iI2EyMDAxZCIgZD0ibTAgNTExLjYgMjU2IC40TDAgLjR6bTI1NiAuNCAyNTYtLjRWMHoiLz48L2c+PC9zdmc+" x="873" y="573" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="870" cy="630" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="870" cy="630" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="900" cy="600" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="900" cy="600" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="870" y="674" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Antigua &amp; Barbuda</text>
-      <text x="870" y="692" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">153 Visa-Free · $230k CBI</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="900" y="554" text-anchor="middle" class="item-title">Antigua &amp; Barbuda</text>
+      <text x="900" y="572" text-anchor="middle" class="item-sub">153 Visa-Free · $230k CBI</text>
     </g>
 
     <g class="matrix-item" data-name="Grenada">
-      
+      <line x1="740" y1="739" x2="702" y2="701" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
       <!-- Drop shadow for flag circle -->
-      <circle cx="750" cy="723" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="750" cy="721" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="740" cy="713" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="740" cy="711" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Ik0yMy42IDIzLjdoNDY0Ljh2NDY0LjdIMjMuNnoiLz48cGF0aCBmaWxsPSIjNDk2ZTJkIiBkPSJNMCA3NS4xIDM4IDM4bDQzNi4zIDQzNi40IDM3LjctMzcuNVY3NWwtMzkuNi0zNS41TDQwLjIgNDcxLjggMCA0MzYuOHoiLz48Y2lyY2xlIGN4PSIyNTYiIGN5PSIyNTYuMSIgcj0iODkiIGZpbGw9IiNhMjAwMWQiLz48cGF0aCBmaWxsPSIjZmZkYTQ0IiBkPSJtMjU2IDE2NyAyMCA2MS41aDY0LjZsLTUyLjMgMzggMjAgNjEuMy01Mi4zLTM4LTUyLjMgMzggMjAtNjEuMy01Mi4zLTM4SDIzNnpNMjU2IC4yeiIvPjxwYXRoIGZpbGw9IiNhMjAwMWQiIGQ9Ik0wIDBoNTEydjc1LjFIMHptMCA0MzYuOGg1MTJ2NzUuMUgweiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0yNTYgMjggNC4xIDEyLjdoMTMuNWwtMTAuOSA4IDQuMiAxMi42LTEwLjktNy45LTEwLjggOCA0LjEtMTIuOC0xMC45LThIMjUyem0tNjIgMCA0IDEyLjdoMTMuNWwtMTAuOSA4IDQuMiAxMi42LTEwLjktNy45LTEwLjggOCA0LjEtMTIuOC0xMC44LThoMTMuNHptMTI0IDAgNC4yIDEyLjdoMTMuNGwtMTAuOCA4IDQuMSAxMi42LTEwLjgtNy45LTEwLjkgOCA0LjItMTIuOC0xMC45LThIMzE0em0tNjIgNDIyLjggNC4xIDEyLjdoMTMuNWwtMTAuOSA4IDQuMiAxMi43LTEwLjktOC0xMC44IDggNC4xLTEyLjgtMTAuOS03LjlIMjUyem0tNjIgMCA0IDEyLjdoMTMuNWwtMTAuOSA4IDQuMiAxMi43LTEwLjktOC0xMC44IDggNC4xLTEyLjgtMTAuOC03LjloMTMuNHptMTI0IDAgNC4yIDEyLjdoMTMuNGwtMTAuOCA4IDQuMSAxMi43LTEwLjgtOC0xMC45IDggNC4yLTEyLjgtMTAuOS03LjlIMzE0em0tMjQwLTE5OWEyMi4zIDIyLjMgMCAwIDEtMzcuNiAyMy45Yy0xMi0xOC44LTUtNDkuNS01LTQ5LjVTNjYgMjMzIDc4IDI1MS45eiIvPjxjaXJjbGUgY3g9IjY1LjEiIGN5PSIyNzMuMiIgcj0iMTEuMSIgZmlsbD0iI2EyMDAxZCIvPjwvZz48L3N2Zz4=" x="723" y="693" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Ik0yMy42IDIzLjdoNDY0Ljh2NDY0LjdIMjMuNnoiLz48cGF0aCBmaWxsPSIjNDk2ZTJkIiBkPSJNMCA3NS4xIDM4IDM4bDQzNi4zIDQzNi40IDM3LjctMzcuNVY3NWwtMzkuNi0zNS41TDQwLjIgNDcxLjggMCA0MzYuOHoiLz48Y2lyY2xlIGN4PSIyNTYiIGN5PSIyNTYuMSIgcj0iODkiIGZpbGw9IiNhMjAwMWQiLz48cGF0aCBmaWxsPSIjZmZkYTQ0IiBkPSJtMjU2IDE2NyAyMCA2MS41aDY0LjZsLTUyLjMgMzggMjAgNjEuMy01Mi4zLTM4LTUyLjMgMzggMjAtNjEuMy01Mi4zLTM4SDIzNnpNMjU2IC4yeiIvPjxwYXRoIGZpbGw9IiNhMjAwMWQiIGQ9Ik0wIDBoNTEydjc1LjFIMHptMCA0MzYuOGg1MTJ2NzUuMUgweiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0yNTYgMjggNC4xIDEyLjdoMTMuNWwtMTAuOSA4IDQuMiAxMi42LTEwLjktNy45LTEwLjggOCA0LjEtMTIuOC0xMC45LThIMjUyem0tNjIgMCA0IDEyLjdoMTMuNWwtMTAuOSA4IDQuMiAxMi42LTEwLjktNy45LTEwLjggOCA0LjEtMTIuOC0xMC44LThoMTMuNHptMTI0IDAgNC4yIDEyLjdoMTMuNGwtMTAuOCA4IDQuMSAxMi42LTEwLjgtNy45LTEwLjkgOCA0LjItMTIuOC0xMC45LThIMzE0em0tNjIgNDIyLjggNC4xIDEyLjdoMTMuNWwtMTAuOSA4IDQuMiAxMi43LTEwLjktOC0xMC44IDggNC4xLTEyLjgtMTAuOS03LjlIMjUyem0tNjIgMCA0IDEyLjdoMTMuNWwtMTAuOSA4IDQuMiAxMi43LTEwLjktOC0xMC44IDggNC4xLTEyLjgtMTAuOC03LjloMTMuNHptMTI0IDAgNC4yIDEyLjdoMTMuNGwtMTAuOCA4IDQuMSAxMi43LTEwLjgtOC0xMC45IDggNC4yLTEyLjgtMTAuOS03LjlIMzE0em0tMjQwLTE5OWEyMi4zIDIyLjMgMCAwIDEtMzcuNiAyMy45Yy0xMi0xOC44LTUtNDkuNS01LTQ5LjVTNjYgMjMzIDc4IDI1MS45eiIvPjxjaXJjbGUgY3g9IjY1LjEiIGN5PSIyNzMuMiIgcj0iMTEuMSIgZmlsbD0iI2EyMDAxZCIvPjwvZz48L3N2Zz4=" x="713" y="683" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="750" cy="720" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="750" cy="720" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="740" cy="710" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="740" cy="710" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="750" y="764" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Grenada</text>
-      <text x="750" y="782" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">148 Visa-Free · $235k (US E-2)</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="702" y="716" text-anchor="end" class="item-title">Grenada</text>
+      <text x="702" y="734" text-anchor="end" class="item-sub">148 Visa-Free · $235k</text>
     </g>
 
     <g class="matrix-item" data-name="Dominica">
       
       <!-- Drop shadow for flag circle -->
-      <circle cx="910" cy="773" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="910" cy="771" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="920" cy="743" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="920" cy="741" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiM0OTZlMmQiIGQ9Ik0wIDBoMjA4bDQ4IDMyIDQ4LTMyaDIwOHYyMDhsLTMyIDQ4IDMyIDQ4djIwOEgzMDRsLTQ4LTMyLTQ4IDMySDBWMzA0bDMyLTQ4LTMyLTQ4WiIvPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik01MTIgMjQwdjMybC0yNTYgMzJMMCAyNzJ2LTMybDI1Ni0zMnoiLz48cGF0aCBmaWxsPSIjZmZkYTQ0IiBkPSJNNTEyIDIwOHYzMkgwdi0zMnoiLz48cGF0aCBmaWxsPSIjMzMzIiBkPSJNMjQwIDBoMzJsMzIgMjU2LTMyIDI1NmgtMzJsLTMyLTI1NloiLz48cGF0aCBmaWxsPSIjZmZkYTQ0IiBkPSJNMjA4IDBoMzJ2NTEyaC0zMnoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJNMjcyIDBoMzJ2NTEyaC0zMnoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJNNTEyIDI3MnYzMkgwdi0zMnoiLz48Y2lyY2xlIGN4PSIyNTYiIGN5PSIyNTYiIHI9IjEyMi40IiBmaWxsPSIjZDgwMDI3Ii8+PHBhdGggZmlsbD0iIzQ5NmUyZCIgZD0iTTI4NCAyNzBjLTktMTktMjEtMzctMjEtMzd2LTEzYTE0IDE0IDAgMCAwLTI3LTIgMTEgMTEgMCAwIDAtNCAyMSAxNiAxNiAwIDAgMSA5LTkgMTQgMTQgMCAwIDAgMiAyaDJzLTcgMTktNyAyOWMwIDI3IDE5IDM2IDE5IDM2bC0xMCA5aDE5di0xOGw5IDlzMTctMTEgOS0yN3ptLTI4LTExNCA0IDEzaDE0bC0xMSA4IDQgMTItMTEtOC0xMSA4IDQtMTItMTEtOGgxNFptLTU5IDE5IDExIDggMTEtOC00IDEzIDExIDhoLTE0bC00IDEyLTQtMTJoLTE0bDExLTh6bS0zNiA1MGgxM2w0LTEzIDQgMTNoMTRsLTExIDggNCAxMy0xMS04LTExIDggNS0xM3ptMCA2MiAxMS04LTUtMTMgMTEgOCAxMS04LTQgMTMgMTEgOGgtMTRsLTQgMTMtNC0xM1ptMzYgNTAgNC0xMy0xMS04aDE0bDQtMTIgNCAxMmgxM2wtMTAgOCA0IDEzLTExLTh6bTU5IDE5LTQtMTNoLTE0bDExLTgtNC0xMiAxMSA4IDExLTgtNCAxMiAxMSA5aC0xNFptNTktMTktMTEtOC0xMSA4IDQtMTMtMTAtOGgxM2w0LTEyIDQgMTJoMTRsLTExIDh6bTM2LTUwaC0xM2wtNCAxMy00LTEzaC0xNGwxMS04LTQtMTMgMTEgOCAxMS04LTUgMTN6bTAtNjItMTEgOCA1IDEzLTExLTgtMTEgOCA0LTEzLTExLThoMTRsNC0xMyA0IDEzem0tMzYtNTAtNCAxMyAxMSA4aC0xNGwtNCAxMi00LTEyaC0xNGwxMS04LTQtMTMgMTEgOHoiLz48L2c+PC9zdmc+" x="883" y="743" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiM0OTZlMmQiIGQ9Ik0wIDBoMjA4bDQ4IDMyIDQ4LTMyaDIwOHYyMDhsLTMyIDQ4IDMyIDQ4djIwOEgzMDRsLTQ4LTMyLTQ4IDMySDBWMzA0bDMyLTQ4LTMyLTQ4WiIvPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik01MTIgMjQwdjMybC0yNTYgMzJMMCAyNzJ2LTMybDI1Ni0zMnoiLz48cGF0aCBmaWxsPSIjZmZkYTQ0IiBkPSJNNTEyIDIwOHYzMkgwdi0zMnoiLz48cGF0aCBmaWxsPSIjMzMzIiBkPSJNMjQwIDBoMzJsMzIgMjU2LTMyIDI1NmgtMzJsLTMyLTI1NloiLz48cGF0aCBmaWxsPSIjZmZkYTQ0IiBkPSJNMjA4IDBoMzJ2NTEyaC0zMnoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJNMjcyIDBoMzJ2NTEyaC0zMnoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJNNTEyIDI3MnYzMkgwdi0zMnoiLz48Y2lyY2xlIGN4PSIyNTYiIGN5PSIyNTYiIHI9IjEyMi40IiBmaWxsPSIjZDgwMDI3Ii8+PHBhdGggZmlsbD0iIzQ5NmUyZCIgZD0iTTI4NCAyNzBjLTktMTktMjEtMzctMjEtMzd2LTEzYTE0IDE0IDAgMCAwLTI3LTIgMTEgMTEgMCAwIDAtNCAyMSAxNiAxNiAwIDAgMSA5LTkgMTQgMTQgMCAwIDAgMiAyaDJzLTcgMTktNyAyOWMwIDI3IDE5IDM2IDE5IDM2bC0xMCA5aDE5di0xOGw5IDlzMTctMTEgOS0yN3ptLTI4LTExNCA0IDEzaDE0bC0xMSA4IDQgMTItMTEtOC0xMSA4IDQtMTItMTEtOGgxNFptLTU5IDE5IDExIDggMTEtOC00IDEzIDExIDhoLTE0bC00IDEyLTQtMTJoLTE0bDExLTh6bS0zNiA1MGgxM2w0LTEzIDQgMTNoMTRsLTExIDggNCAxMy0xMS04LTExIDggNS0xM3ptMCA2MiAxMS04LTUtMTMgMTEgOCAxMS04LTQgMTMgMTEgOGgtMTRsLTQgMTMtNC0xM1ptMzYgNTAgNC0xMy0xMS04aDE0bDQtMTIgNCAxMmgxM2wtMTAgOCA0IDEzLTExLTh6bTU5IDE5LTQtMTNoLTE0bDExLTgtNC0xMiAxMSA4IDExLTgtNCAxMiAxMSA5aC0xNFptNTktMTktMTEtOC0xMSA4IDQtMTMtMTAtOGgxM2w0LTEyIDQgMTJoMTRsLTExIDh6bTM2LTUwaC0xM2wtNCAxMy00LTEzaC0xNGwxMS04LTQtMTMgMTEgOCAxMS04LTUgMTN6bTAtNjItMTEgOCA1IDEzLTExLTgtMTEgOCA0LTEzLTExLThoMTRsNC0xMyA0IDEzem0tMzYtNTAtNCAxMyAxMSA4aC0xNGwtNCAxMi00LTEyaC0xNGwxMS04LTQtMTMgMTEgOHoiLz48L2c+PC9zdmc+" x="893" y="713" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="910" cy="770" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="910" cy="770" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="920" cy="740" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="920" cy="740" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="910" y="814" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Dominica</text>
-      <text x="910" y="832" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">145 Visa-Free · $200k CBI</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="920" y="784" text-anchor="middle" class="item-title">Dominica</text>
+      <text x="920" y="802" text-anchor="middle" class="item-sub">145 Visa-Free · $200k CBI</text>
     </g>
 
     <g class="matrix-item" data-name="St. Lucia">
@@ -277,9 +275,9 @@
       <circle cx="780" cy="840" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
       <circle cx="780" cy="840" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="780" y="884" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">St. Lucia</text>
-      <text x="780" y="902" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">146 Visa-Free · $240k CBI</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="780" y="884" text-anchor="middle" class="item-title">St. Lucia</text>
+      <text x="780" y="902" text-anchor="middle" class="item-sub">146 Visa-Free · $240k CBI</text>
     </g>
 
     <g class="matrix-item" data-name="El Salvador">
@@ -295,9 +293,9 @@
       <circle cx="250" cy="890" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
       <circle cx="250" cy="890" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="250" y="934" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">El Salvador</text>
-      <text x="250" y="952" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">136 Visa-Free · $1M BTC</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="250" y="934" text-anchor="middle" class="item-title">El Salvador</text>
+      <text x="250" y="952" text-anchor="middle" class="item-sub">136 Visa-Free · $1M BTC</text>
     </g>
 
     <g class="matrix-item" data-name="Turkey">
@@ -313,9 +311,9 @@
       <circle cx="490" cy="920" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
       <circle cx="490" cy="920" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="490" y="964" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Turkey</text>
-      <text x="490" y="982" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">118 Visa-Free · $400k Real Est.</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="490" y="964" text-anchor="middle" class="item-title">Turkey</text>
+      <text x="490" y="982" text-anchor="middle" class="item-sub">118 Visa-Free · $400k</text>
     </g>
 
     <g class="matrix-item" data-name="Vanuatu">
@@ -331,9 +329,9 @@
       <circle cx="960" cy="920" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
       <circle cx="960" cy="920" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="960" y="964" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Vanuatu</text>
-      <text x="960" y="982" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">117 Visa-Free · $130k (30 Days)</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="960" y="964" text-anchor="middle" class="item-title">Vanuatu</text>
+      <text x="960" y="982" text-anchor="middle" class="item-sub">117 Visa-Free · $130k</text>
     </g>
 
   <!-- Footer Footnotes & Watermark -->

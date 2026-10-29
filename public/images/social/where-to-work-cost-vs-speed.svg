@@ -5,83 +5,81 @@
       .title { font-family: Georgia, 'Times New Roman', 'Playfair Display', serif; font-weight: 700; fill: #111827; }
       .axis-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 800; letter-spacing: 1.5px; fill: #111827; }
       .meta { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+      .item-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 700; fill: #111827; paint-order: stroke fill; stroke: #FFFFFF; stroke-width: 4.5px; stroke-linejoin: round; }
+      .item-sub { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 12.5px; font-weight: 500; fill: #4B5563; paint-order: stroke fill; stroke: #FFFFFF; stroke-width: 3.5px; stroke-linejoin: round; }
     </style>
-    <marker id="arrow-right" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
-      <path d="M 0 1.5 L 8 5 L 0 8.5 z" fill="#1F2937"/>
-    </marker>
-    <marker id="arrow-left" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
-      <path d="M 8 1.5 L 0 5 L 8 8.5 z" fill="#1F2937"/>
-    </marker>
-    <marker id="arrow-up" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
-      <path d="M 1.5 8 L 5 0 L 8.5 8 z" fill="#1F2937"/>
-    </marker>
-    <marker id="arrow-down" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
-      <path d="M 1.5 0 L 5 8 L 8.5 0 z" fill="#1F2937"/>
-    </marker>
   </defs>
 
   <!-- Clean Background -->
   <rect width="1200" height="1200" fill="#FFFFFF"/>
 
-  <!-- Top Header Title -->
-  <text x="600" y="90" text-anchor="middle" font-size="52" class="title">Where to Work: Living Cost vs Internet Speed</text>
+  <!-- Top Header Title (Dynamically Scaled & Centered, 0% Edge Clipping) -->
+  <text x="600" y="85" text-anchor="middle" font-size="36" class="title">Where to Work: Living Cost vs Internet Speed</text>
 
-  <!-- Crosshairs Axes -->
-  <!-- Horizontal X-Axis (from 215 to 985, y=620) -->
-  <line x1="215" y1="620" x2="985" y2="620" stroke="#1F2937" stroke-width="2.2" marker-start="url(#arrow-left)" marker-end="url(#arrow-right)"/>
-  
-  <!-- Vertical Y-Axis (from 195 to 1045, x=600) -->
-  <line x1="600" y1="195" x2="600" y2="1045" stroke="#1F2937" stroke-width="2.2" marker-start="url(#arrow-up)" marker-end="url(#arrow-down)"/>
+  <!-- Central Crosshairs Axes with Direct Sharp Polygon Arrows -->
+  <!-- Horizontal X-Axis Line (from 75 to 1125, y=620) -->
+  <line x1="75" y1="620" x2="1125" y2="620" stroke="#1F2937" stroke-width="2.5"/>
+  <!-- Left Arrow (pointing LEFT) -->
+  <polygon points="60,620 75,613 75,627" fill="#1F2937"/>
+  <!-- Right Arrow (pointing RIGHT) -->
+  <polygon points="1140,620 1125,613 1125,627" fill="#1F2937"/>
+
+  <!-- Vertical Y-Axis Line (from 175 to 1065, x=600) -->
+  <line x1="600" y1="175" x2="600" y2="1065" stroke="#1F2937" stroke-width="2.5"/>
+  <!-- Top Arrow (pointing UP) -->
+  <polygon points="600,160 593,175 607,175" fill="#1F2937"/>
+  <!-- Bottom Arrow (pointing DOWN) -->
+  <polygon points="600,1080 593,1065 607,1065" fill="#1F2937"/>
 
   <!-- Axis Labels -->
   <!-- Top Label -->
-  <text x="600" y="165" text-anchor="middle" font-size="18" class="axis-label">ULTRA-FAST FIBER (300+ MBPS)</text>
+  <text x="600" y="142" text-anchor="middle" font-size="17" class="axis-label">ULTRA-FAST FIBER (300+ MBPS)</text>
   
   <!-- Bottom Label -->
-  <text x="600" y="1080" text-anchor="middle" font-size="18" class="axis-label">MODERATE INTERNET SPEED (&lt;150 MBPS)</text>
+  <text x="600" y="1108" text-anchor="middle" font-size="17" class="axis-label">MODERATE INTERNET SPEED (&lt;150 MBPS)</text>
   
-  <!-- Left Label -->
-  <text x="195" y="626" text-anchor="end" font-size="18" class="axis-label">EXPENSIVE ($3,000+/MO)</text>
+  <!-- Left Label (placed cleanly above the left arrow line) -->
+  <text x="80" y="608" text-anchor="start" font-size="16" class="axis-label">EXPENSIVE ($3,000+/MO)</text>
   
-  <!-- Right Label -->
-  <text x="1005" y="626" text-anchor="start" font-size="18" class="axis-label">AFFORDABLE (&lt;$1,500/MO)</text>
+  <!-- Right Label (placed cleanly above the right arrow line) -->
+  <text x="1120" y="608" text-anchor="end" font-size="16" class="axis-label">AFFORDABLE (&lt;$1,500/MO)</text>
 
   <!-- Render Data Points -->
   
     <g class="matrix-item" data-name="Chiang Mai">
       
       <!-- Drop shadow for flag circle -->
-      <circle cx="970" cy="263" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="970" cy="261" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="970" cy="243" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="970" cy="241" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjg5bC03OS4yIDE2My43TDUxMiA0MjN2ODlIMHYtODlsODIuNy0xNjkuNkwwIDg5eiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDg5aDUxMnY3OGwtNDIuNiA5MS4yTDUxMiAzNDV2NzhIMHYtNzhsNDAtOTIuNUwwIDE2N3oiLz48cGF0aCBmaWxsPSIjMDA1MmI0IiBkPSJNMCAxNjdoNTEydjE3OEgweiIvPjwvZz48L3N2Zz4=" x="943" y="233" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjg5bC03OS4yIDE2My43TDUxMiA0MjN2ODlIMHYtODlsODIuNy0xNjkuNkwwIDg5eiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDg5aDUxMnY3OGwtNDIuNiA5MS4yTDUxMiAzNDV2NzhIMHYtNzhsNDAtOTIuNUwwIDE2N3oiLz48cGF0aCBmaWxsPSIjMDA1MmI0IiBkPSJNMCAxNjdoNTEydjE3OEgweiIvPjwvZz48L3N2Zz4=" x="943" y="213" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="970" cy="260" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="970" cy="260" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="970" cy="240" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="970" cy="240" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="970" y="304" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Chiang Mai</text>
-      <text x="970" y="322" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">336 Mbps · $900/mo</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="970" y="284" text-anchor="middle" class="item-title">Chiang Mai</text>
+      <text x="970" y="302" text-anchor="middle" class="item-sub">336 Mbps · $900/mo</text>
     </g>
 
     <g class="matrix-item" data-name="Bangkok">
-      
+      <line x1="860" y1="191" x2="860" y2="180" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
       <!-- Drop shadow for flag circle -->
-      <circle cx="860" cy="233" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="860" cy="231" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="860" cy="223" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="860" cy="221" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjg5bC03OS4yIDE2My43TDUxMiA0MjN2ODlIMHYtODlsODIuNy0xNjkuNkwwIDg5eiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDg5aDUxMnY3OGwtNDIuNiA5MS4yTDUxMiAzNDV2NzhIMHYtNzhsNDAtOTIuNUwwIDE2N3oiLz48cGF0aCBmaWxsPSIjMDA1MmI0IiBkPSJNMCAxNjdoNTEydjE3OEgweiIvPjwvZz48L3N2Zz4=" x="833" y="203" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjg5bC03OS4yIDE2My43TDUxMiA0MjN2ODlIMHYtODlsODIuNy0xNjkuNkwwIDg5eiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDg5aDUxMnY3OGwtNDIuNiA5MS4yTDUxMiAzNDV2NzhIMHYtNzhsNDAtOTIuNUwwIDE2N3oiLz48cGF0aCBmaWxsPSIjMDA1MmI0IiBkPSJNMCAxNjdoNTEydjE3OEgweiIvPjwvZz48L3N2Zz4=" x="833" y="193" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="860" cy="230" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="860" cy="230" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="860" cy="220" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="860" cy="220" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="860" y="274" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Bangkok</text>
-      <text x="860" y="292" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">368 Mbps · $1,100/mo</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="860" y="174" text-anchor="middle" class="item-title">Bangkok</text>
+      <text x="860" y="192" text-anchor="middle" class="item-sub">368 Mbps · $1,100/mo</text>
     </g>
 
     <g class="matrix-item" data-name="Bucharest">
@@ -97,9 +95,9 @@
       <circle cx="780" cy="320" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
       <circle cx="780" cy="320" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="780" y="364" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Bucharest</text>
-      <text x="780" y="382" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">339 Mbps · $1,300/mo</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="780" y="364" text-anchor="middle" class="item-title">Bucharest</text>
+      <text x="780" y="382" text-anchor="middle" class="item-sub">339 Mbps · $1,300/mo</text>
     </g>
 
     <g class="matrix-item" data-name="Da Nang">
@@ -115,9 +113,9 @@
       <circle cx="990" cy="460" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
       <circle cx="990" cy="460" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="990" y="504" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Da Nang</text>
-      <text x="990" y="522" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">246 Mbps · $850/mo</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="990" y="504" text-anchor="middle" class="item-title">Da Nang</text>
+      <text x="990" y="522" text-anchor="middle" class="item-sub">246 Mbps · $850/mo</text>
     </g>
 
     <g class="matrix-item" data-name="Buenos Aires">
@@ -133,9 +131,9 @@
       <circle cx="880" cy="510" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
       <circle cx="880" cy="510" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="880" y="554" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Buenos Aires</text>
-      <text x="880" y="572" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">233 Mbps · $1,300/mo</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="880" y="554" text-anchor="middle" class="item-title">Buenos Aires</text>
+      <text x="880" y="572" text-anchor="middle" class="item-sub">233 Mbps · $1,300/mo</text>
     </g>
 
     <g class="matrix-item" data-name="Bali">
@@ -151,9 +149,9 @@
       <circle cx="900" cy="760" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
       <circle cx="900" cy="760" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="900" y="804" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Bali</text>
-      <text x="900" y="822" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">102 Mbps · $1,100/mo</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="900" y="804" text-anchor="middle" class="item-title">Bali</text>
+      <text x="900" y="822" text-anchor="middle" class="item-sub">102 Mbps · $1,100/mo</text>
     </g>
 
     <g class="matrix-item" data-name="Cape Town">
@@ -169,207 +167,207 @@
       <circle cx="770" cy="860" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
       <circle cx="770" cy="860" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="770" y="904" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Cape Town</text>
-      <text x="770" y="922" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">94 Mbps · $1,400/mo</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="770" y="904" text-anchor="middle" class="item-title">Cape Town</text>
+      <text x="770" y="922" text-anchor="middle" class="item-sub">94 Mbps · $1,400/mo</text>
     </g>
 
     <g class="matrix-item" data-name="Taipei">
-      
+      <line x1="740" y1="459" x2="778" y2="421" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
       <!-- Drop shadow for flag circle -->
-      <circle cx="720" cy="443" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="720" cy="441" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="740" cy="433" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="740" cy="431" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDI1NiAyNTYgMGgyNTZ2NTEySDB6Ii8+PHBhdGggZmlsbD0iIzAwNTJiNCIgZD0iTTI1NiAyNTZWMEgwdjI1NnoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJtMjIyLjYgMTQ5LjgtMzEuMyAxNC43IDE2LjcgMzAuMy0zNC02LjUtNC4zIDM0LjMtMjMuNi0yNS4yLTIzLjcgMjUuMi00LjMtMzQuMy0zNCA2LjUgMTYuNy0zMC4zLTMxLjItMTQuNyAzMS4yLTE0LjctMTYuNi0zMC4zIDM0IDYuNSA0LjItMzQuMyAyMy43IDI1LjNMMTY5LjcgNzdsNC4zIDM0LjMgMzQtNi41LTE2LjcgMzAuM3oiLz48Y2lyY2xlIGN4PSIxNDYuMSIgY3k9IjE0OS44IiByPSI0Ny43IiBmaWxsPSIjMDA1MmI0Ii8+PGNpcmNsZSBjeD0iMTQ2LjEiIGN5PSIxNDkuOCIgcj0iNDEuNSIgZmlsbD0iI2VlZSIvPjwvZz48L3N2Zz4=" x="693" y="413" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDI1NiAyNTYgMGgyNTZ2NTEySDB6Ii8+PHBhdGggZmlsbD0iIzAwNTJiNCIgZD0iTTI1NiAyNTZWMEgwdjI1NnoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJtMjIyLjYgMTQ5LjgtMzEuMyAxNC43IDE2LjcgMzAuMy0zNC02LjUtNC4zIDM0LjMtMjMuNi0yNS4yLTIzLjcgMjUuMi00LjMtMzQuMy0zNCA2LjUgMTYuNy0zMC4zLTMxLjItMTQuNyAzMS4yLTE0LjctMTYuNi0zMC4zIDM0IDYuNSA0LjItMzQuMyAyMy43IDI1LjNMMTY5LjcgNzdsNC4zIDM0LjMgMzQtNi41LTE2LjcgMzAuM3oiLz48Y2lyY2xlIGN4PSIxNDYuMSIgY3k9IjE0OS44IiByPSI0Ny43IiBmaWxsPSIjMDA1MmI0Ii8+PGNpcmNsZSBjeD0iMTQ2LjEiIGN5PSIxNDkuOCIgcj0iNDEuNSIgZmlsbD0iI2VlZSIvPjwvZz48L3N2Zz4=" x="713" y="403" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="720" cy="440" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="720" cy="440" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="740" cy="430" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="740" cy="430" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="720" y="484" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Taipei</text>
-      <text x="720" y="502" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">260 Mbps · $1,800/mo</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="778" y="436" text-anchor="start" class="item-title">Taipei</text>
+      <text x="778" y="454" text-anchor="start" class="item-sub">260 Mbps · $1,800/mo</text>
     </g>
 
     <g class="matrix-item" data-name="Prague">
       
       <!-- Drop shadow for flag circle -->
-      <circle cx="650" cy="573" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="650" cy="571" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="660" cy="523" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="660" cy="521" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDBoNTEydjI1NmwtMjY1IDQ1LjJ6Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTIxMCAyNTZoMzAydjI1NkgweiIvPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDB2NTEybDI1Ni0yNTZMMCAweiIvPjwvZz48L3N2Zz4=" x="623" y="543" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDBoNTEydjI1NmwtMjY1IDQ1LjJ6Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTIxMCAyNTZoMzAydjI1NkgweiIvPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDB2NTEybDI1Ni0yNTZMMCAweiIvPjwvZz48L3N2Zz4=" x="633" y="493" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="650" cy="570" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="650" cy="570" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="660" cy="520" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="660" cy="520" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="650" y="614" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Prague</text>
-      <text x="650" y="632" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">253 Mbps · $1,800/mo</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="660" y="564" text-anchor="middle" class="item-title">Prague</text>
+      <text x="660" y="582" text-anchor="middle" class="item-sub">253 Mbps · $1,800/mo</text>
     </g>
 
     <g class="matrix-item" data-name="Lisbon">
       
       <!-- Drop shadow for flag circle -->
-      <circle cx="590" cy="253" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="590" cy="251" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="670" cy="243" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="670" cy="241" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiM2ZGE1NDQiIGQ9Ik0wIDUxMmgxNjdsMzcuOS0yNjAuM0wxNjcgMEgweiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik01MTIgMEgxNjd2NTEyaDM0NXoiLz48Y2lyY2xlIGN4PSIxNjciIGN5PSIyNTYiIHI9Ijg5IiBmaWxsPSIjZmZkYTQ0Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTExNi45IDIxMS41VjI2N2E1MCA1MCAwIDEgMCAxMDAuMSAwdi01NS42SDExN3oiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJNMTY3IDI4My44Yy05LjIgMC0xNi43LTcuNS0xNi43LTE2LjdWMjQ1aDMzLjR2MjJjMCA5LjItNy41IDE2LjctMTYuNyAxNi43eiIvPjwvZz48L3N2Zz4=" x="563" y="223" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiM2ZGE1NDQiIGQ9Ik0wIDUxMmgxNjdsMzcuOS0yNjAuM0wxNjcgMEgweiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik01MTIgMEgxNjd2NTEyaDM0NXoiLz48Y2lyY2xlIGN4PSIxNjciIGN5PSIyNTYiIHI9Ijg5IiBmaWxsPSIjZmZkYTQ0Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTExNi45IDIxMS41VjI2N2E1MCA1MCAwIDEgMCAxMDAuMSAwdi01NS42SDExN3oiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJNMTY3IDI4My44Yy05LjIgMC0xNi43LTcuNS0xNi43LTE2LjdWMjQ1aDMzLjR2MjJjMCA5LjItNy41IDE2LjctMTYuNyAxNi43eiIvPjwvZz48L3N2Zz4=" x="643" y="213" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="590" cy="250" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="590" cy="250" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="670" cy="240" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="670" cy="240" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="590" y="294" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Lisbon</text>
-      <text x="590" y="312" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">361 Mbps · $2,000/mo</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="670" y="284" text-anchor="middle" class="item-title">Lisbon</text>
+      <text x="670" y="302" text-anchor="middle" class="item-sub">361 Mbps · $2,000/mo</text>
     </g>
 
     <g class="matrix-item" data-name="Barcelona">
-      
+      <line x1="520" y1="389" x2="558" y2="351" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
       <!-- Drop shadow for flag circle -->
-      <circle cx="500" cy="333" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="500" cy="331" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="520" cy="363" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="520" cy="361" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0wIDEyOCAyNTYtMzIgMjU2IDMydjI1NmwtMjU2IDMyTDAgMzg0WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0xOTYgMTY4cS0xMSAxLTE1IDExbC01LTFxLTE1IDEtMTYgMTZjLTEgMTUgNyAxNiAxNiAxNnExMSAwIDE1LTExYTE2IDE2IDAgMCAwIDE3LTQgMTYgMTYgMCAwIDAgMTcgNCAxNiAxNiAwIDEgMCAxMC0yMCAxNiAxNiAwIDAgMC0yNy01cS00LTYtMTItNm0wIDhxOCAxIDggOCAwIDgtOCA4LTcgMC04LTggMS03IDgtOG0yNCAwcTggMSA4IDggMCA4LTggOC03IDAtOC04IDEtNyA4LThtLTQ0IDEwIDQgMSA0IDhxLTEgNy04IDctOSAwLTgtOCAxLTcgOC04bTY0IDBxOCAxIDggOCAwIDgtOCA4LTcgMC04LTdsNC04em0tMTEyIDM4djgwaDE2di04MHptODAgMHY0MGMtMjYgMC00OCAxNC00OCAzMnMyMiAzMiA0OCAzMiA0OC0xNCA0OC0zMnYtNzJ6bTY0IDB2ODBoMTZ2LTgweiIvPjxwYXRoIGZpbGw9IiNmZjk4MTEiIGQ9Ik0yMDAgMTYwaDE2djMyaC0xNnoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMCAwdjEyOGg1MTJWMHptMjA4IDE4NGMtMjIgMC00MCAxMS00MCAyNGw4IDhoNjRsOC04YzAtMTMtMTgtMjQtNDAtMjRtLTcyIDhhOCA4IDAgMCAwLTggOHY4YTggOCAwIDEgMCAxNiAwdi04YTggOCAwIDAgMC04LThtMTQ0IDBhOCA4IDAgMCAwLTggOHY4YTggOCAwIDEgMCAxNiAwdi04YTggOCAwIDAgMC04LThtLTEyMCAzMnYyNGgtMzhhNCA0IDAgMCAwLTQgNCA0IDQgMCAwIDAgNCA0aDM4djQwYTI0IDI0IDAgMCAwIDI0IDI0IDI0IDI0IDAgMCAwIDI0LTI0IDI0IDI0IDAgMCAwIDI0IDI0IDI0IDI0IDAgMCAwIDI0LTI0di0yNGgtNDh2LTQ4em03MiA4YTEwIDEwIDAgMCAwLTEwIDEwdjEyYTEwIDEwIDAgMSAwIDIwIDB2LTEyYTEwIDEwIDAgMCAwLTEwLTEwbTI0IDE2djhoMzhhNCA0IDAgMCAwIDQtNCA0IDQgMCAwIDAtNC00em0tMTM0IDI0YTQgNCAwIDAgMC00IDQgNCA0IDAgMCAwIDQgNGgyOGE0IDQgMCAwIDAgNC00IDQgNCAwIDAgMC00LTR6bTE0NCAwYTQgNCAwIDAgMC00IDQgNCA0IDAgMCAwIDQgNGgyOGE0IDQgMCAwIDAgNC00IDQgNCAwIDAgMC00LTR6TTAgMzg0djEyOGg1MTJWMzg0eiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Ik0xODYgMTk2YTYgNiAwIDAgMC02IDYgNiA2IDAgMCAwIDYgNiA2IDYgMCAwIDAgNi02IDYgNiAwIDAgMC02LTZtMjIgMGE2IDYgMCAwIDAtNiA2IDYgNiAwIDAgMCA2IDYgNiA2IDAgMCAwIDYtNiA2IDYgMCAwIDAtNi02bTIyIDBhNiA2IDAgMCAwLTYgNiA2IDYgMCAwIDAgNiA2IDYgNiAwIDAgMCA2LTYgNiA2IDAgMCAwLTYtNiIvPjxwYXRoIGZpbGw9IiNmZjk4MTEiIGQ9Ik0xMjggMjA4YTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2em0xNDQgMGE4IDggMCAxIDAgMCAxNmgxNmE4IDggMCAxIDAgMC0xNnptLTk2IDh2OGg2NHYtOHptLTggMTZ2OGg4djE2aC04djhoMzJ2LThoLTh2LTE2aDh2LTh6bS04IDQwdjI0cTEgMTIgOSAxOXYtNDN6bTE5IDB2NDdoMTB2LTQ3em0yMCAwdjQzcTktNyA5LTE5di0yNHptLTcxIDMyYTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2em0xNDQgMGE4IDggMCAxIDAgMCAxNmgxNmE4IDggMCAxIDAgMC0xNnoiLz48cGF0aCBmaWxsPSIjMzM4YWYzIiBkPSJNMjA4IDI1NmExNiAxNiAwIDAgMC0xNiAxNiAxNiAxNiAwIDAgMCAxNiAxNiAxNiAxNiAwIDAgMCAxNi0xNiAxNiAxNiAwIDAgMC0xNi0xNm0tODAgNjRhOCA4IDAgMSAwIDAgMTZoMTZhOCA4IDAgMSAwIDAtMTZ6bTE0NCAwYTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2eiIvPjwvZz48L3N2Zz4=" x="473" y="303" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0wIDEyOCAyNTYtMzIgMjU2IDMydjI1NmwtMjU2IDMyTDAgMzg0WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0xOTYgMTY4cS0xMSAxLTE1IDExbC01LTFxLTE1IDEtMTYgMTZjLTEgMTUgNyAxNiAxNiAxNnExMSAwIDE1LTExYTE2IDE2IDAgMCAwIDE3LTQgMTYgMTYgMCAwIDAgMTcgNCAxNiAxNiAwIDEgMCAxMC0yMCAxNiAxNiAwIDAgMC0yNy01cS00LTYtMTItNm0wIDhxOCAxIDggOCAwIDgtOCA4LTcgMC04LTggMS03IDgtOG0yNCAwcTggMSA4IDggMCA4LTggOC03IDAtOC04IDEtNyA4LThtLTQ0IDEwIDQgMSA0IDhxLTEgNy04IDctOSAwLTgtOCAxLTcgOC04bTY0IDBxOCAxIDggOCAwIDgtOCA4LTcgMC04LTdsNC04em0tMTEyIDM4djgwaDE2di04MHptODAgMHY0MGMtMjYgMC00OCAxNC00OCAzMnMyMiAzMiA0OCAzMiA0OC0xNCA0OC0zMnYtNzJ6bTY0IDB2ODBoMTZ2LTgweiIvPjxwYXRoIGZpbGw9IiNmZjk4MTEiIGQ9Ik0yMDAgMTYwaDE2djMyaC0xNnoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMCAwdjEyOGg1MTJWMHptMjA4IDE4NGMtMjIgMC00MCAxMS00MCAyNGw4IDhoNjRsOC04YzAtMTMtMTgtMjQtNDAtMjRtLTcyIDhhOCA4IDAgMCAwLTggOHY4YTggOCAwIDEgMCAxNiAwdi04YTggOCAwIDAgMC04LThtMTQ0IDBhOCA4IDAgMCAwLTggOHY4YTggOCAwIDEgMCAxNiAwdi04YTggOCAwIDAgMC04LThtLTEyMCAzMnYyNGgtMzhhNCA0IDAgMCAwLTQgNCA0IDQgMCAwIDAgNCA0aDM4djQwYTI0IDI0IDAgMCAwIDI0IDI0IDI0IDI0IDAgMCAwIDI0LTI0IDI0IDI0IDAgMCAwIDI0IDI0IDI0IDI0IDAgMCAwIDI0LTI0di0yNGgtNDh2LTQ4em03MiA4YTEwIDEwIDAgMCAwLTEwIDEwdjEyYTEwIDEwIDAgMSAwIDIwIDB2LTEyYTEwIDEwIDAgMCAwLTEwLTEwbTI0IDE2djhoMzhhNCA0IDAgMCAwIDQtNCA0IDQgMCAwIDAtNC00em0tMTM0IDI0YTQgNCAwIDAgMC00IDQgNCA0IDAgMCAwIDQgNGgyOGE0IDQgMCAwIDAgNC00IDQgNCAwIDAgMC00LTR6bTE0NCAwYTQgNCAwIDAgMC00IDQgNCA0IDAgMCAwIDQgNGgyOGE0IDQgMCAwIDAgNC00IDQgNCAwIDAgMC00LTR6TTAgMzg0djEyOGg1MTJWMzg0eiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Ik0xODYgMTk2YTYgNiAwIDAgMC02IDYgNiA2IDAgMCAwIDYgNiA2IDYgMCAwIDAgNi02IDYgNiAwIDAgMC02LTZtMjIgMGE2IDYgMCAwIDAtNiA2IDYgNiAwIDAgMCA2IDYgNiA2IDAgMCAwIDYtNiA2IDYgMCAwIDAtNi02bTIyIDBhNiA2IDAgMCAwLTYgNiA2IDYgMCAwIDAgNiA2IDYgNiAwIDAgMCA2LTYgNiA2IDAgMCAwLTYtNiIvPjxwYXRoIGZpbGw9IiNmZjk4MTEiIGQ9Ik0xMjggMjA4YTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2em0xNDQgMGE4IDggMCAxIDAgMCAxNmgxNmE4IDggMCAxIDAgMC0xNnptLTk2IDh2OGg2NHYtOHptLTggMTZ2OGg4djE2aC04djhoMzJ2LThoLTh2LTE2aDh2LTh6bS04IDQwdjI0cTEgMTIgOSAxOXYtNDN6bTE5IDB2NDdoMTB2LTQ3em0yMCAwdjQzcTktNyA5LTE5di0yNHptLTcxIDMyYTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2em0xNDQgMGE4IDggMCAxIDAgMCAxNmgxNmE4IDggMCAxIDAgMC0xNnoiLz48cGF0aCBmaWxsPSIjMzM4YWYzIiBkPSJNMjA4IDI1NmExNiAxNiAwIDAgMC0xNiAxNiAxNiAxNiAwIDAgMCAxNiAxNiAxNiAxNiAwIDAgMCAxNi0xNiAxNiAxNiAwIDAgMC0xNi0xNm0tODAgNjRhOCA4IDAgMSAwIDAgMTZoMTZhOCA4IDAgMSAwIDAtMTZ6bTE0NCAwYTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2eiIvPjwvZz48L3N2Zz4=" x="493" y="333" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="500" cy="330" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="500" cy="330" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="520" cy="360" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="520" cy="360" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="500" y="374" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Barcelona</text>
-      <text x="500" y="392" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">345 Mbps · $2,200/mo</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="558" y="366" text-anchor="start" class="item-title">Barcelona</text>
+      <text x="558" y="384" text-anchor="start" class="item-sub">345 Mbps · $2,200/mo</text>
     </g>
 
     <g class="matrix-item" data-name="Dubai">
-      
+      <line x1="410" y1="279" x2="448" y2="241" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
       <!-- Drop shadow for flag circle -->
-      <circle cx="420" cy="243" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="420" cy="241" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="410" cy="253" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="410" cy="251" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNhMjAwMWQiIGQ9Ik0wIDBoMTY3bDUyLjMgMjUyTDE2NyA1MTJIMHoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJtMTY3IDE2NyAxNzAuOC00NC42TDUxMiAxNjd2MTc4bC0xNzMuMiAzNi45TDE2NyAzNDV6Ii8+PHBhdGggZmlsbD0iIzZkYTU0NCIgZD0iTTE2NyAwaDM0NXYxNjdIMTY3eiIvPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik0xNjcgMzQ1aDM0NXYxNjdIMTY3eiIvPjwvZz48L3N2Zz4=" x="393" y="213" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNhMjAwMWQiIGQ9Ik0wIDBoMTY3bDUyLjMgMjUyTDE2NyA1MTJIMHoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJtMTY3IDE2NyAxNzAuOC00NC42TDUxMiAxNjd2MTc4bC0xNzMuMiAzNi45TDE2NyAzNDV6Ii8+PHBhdGggZmlsbD0iIzZkYTU0NCIgZD0iTTE2NyAwaDM0NXYxNjdIMTY3eiIvPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik0xNjcgMzQ1aDM0NXYxNjdIMTY3eiIvPjwvZz48L3N2Zz4=" x="383" y="223" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="420" cy="240" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="420" cy="240" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="410" cy="250" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="410" cy="250" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="420" y="284" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Dubai</text>
-      <text x="420" y="302" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">369 Mbps · $2,500/mo</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="448" y="256" text-anchor="start" class="item-title">Dubai</text>
+      <text x="448" y="274" text-anchor="start" class="item-sub">369 Mbps · $2,500/mo</text>
     </g>
 
     <g class="matrix-item" data-name="Berlin">
       
       <!-- Drop shadow for flag circle -->
-      <circle cx="470" cy="543" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="470" cy="541" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="470" cy="523" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="470" cy="521" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0wIDM0NSAyNTYuNy0yNS41TDUxMiAzNDV2MTY3SDB6Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0ibTAgMTY3IDI1NS0yMyAyNTcgMjN2MTc4SDB6Ii8+PHBhdGggZmlsbD0iIzMzMyIgZD0iTTAgMGg1MTJ2MTY3SDB6Ii8+PC9nPjwvc3ZnPg==" x="443" y="513" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0wIDM0NSAyNTYuNy0yNS41TDUxMiAzNDV2MTY3SDB6Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0ibTAgMTY3IDI1NS0yMyAyNTcgMjN2MTc4SDB6Ii8+PHBhdGggZmlsbD0iIzMzMyIgZD0iTTAgMGg1MTJ2MTY3SDB6Ii8+PC9nPjwvc3ZnPg==" x="443" y="493" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="470" cy="540" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="470" cy="540" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="470" cy="520" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="470" cy="520" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="470" y="584" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Berlin</text>
-      <text x="470" y="602" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">210 Mbps · $2,500/mo</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="470" y="564" text-anchor="middle" class="item-title">Berlin</text>
+      <text x="470" y="582" text-anchor="middle" class="item-sub">210 Mbps · $2,500/mo</text>
     </g>
 
     <g class="matrix-item" data-name="Tokyo">
       
       <!-- Drop shadow for flag circle -->
-      <circle cx="370" cy="373" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="370" cy="371" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="350" cy="373" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="350" cy="371" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDBoNTEydjUxMkgweiIvPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMTExLjMiIGZpbGw9IiNkODAwMjciLz48L2c+PC9zdmc+" x="343" y="343" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDBoNTEydjUxMkgweiIvPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMTExLjMiIGZpbGw9IiNkODAwMjciLz48L2c+PC9zdmc+" x="323" y="343" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="370" cy="370" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="370" cy="370" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="350" cy="370" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="350" cy="370" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="370" y="414" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Tokyo</text>
-      <text x="370" y="432" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">304 Mbps · $2,800/mo</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="350" y="414" text-anchor="middle" class="item-title">Tokyo</text>
+      <text x="350" y="432" text-anchor="middle" class="item-sub">304 Mbps · $2,800/mo</text>
     </g>
 
     <g class="matrix-item" data-name="Singapore">
-      
+      <line x1="300" y1="249" x2="262" y2="211" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="2 3" opacity="0.85" />
       <!-- Drop shadow for flag circle -->
-      <circle cx="310" cy="223" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="310" cy="221" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="300" cy="223" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="300" cy="221" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjI1NmwtMjU2IDMyTDAgMjU2WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0yMDAgNTZhNzggNzggMCAxIDAgMTcgMTU0IDc4IDc4IDAgMCAxIDAtMTUycS04LTItMTctMm01NiA1LTUgMTdoLTE4bDE0IDExLTUgMTcgMTQtMTEgMTUgMTEtNi0xNyAxNS0xMWgtMTh6bS00MyAzNC02IDE3aC0xOGwxNSAxMC02IDE3IDE1LTEwIDE0IDEwLTUtMTcgMTQtMTBoLTE4em04NiAwLTUgMTdoLTE4bDE0IDEwLTUgMTcgMTQtMTAgMTUgMTAtNi0xNyAxNS0xMGgtMTh6bS03MCA1MC01IDE3aC0xOGwxNCAxMC01IDE3IDE0LTEwIDE1IDEwLTYtMTcgMTUtMTBoLTE4em01NCAwLTYgMTdoLTE4bDE1IDEwLTYgMTcgMTUtMTAgMTQgMTAtNS0xNyAxNC0xMGgtMThaTTAgMjU2djI1Nmg1MTJWMjU2WiIvPjwvZz48L3N2Zz4=" x="283" y="193" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjI1NmwtMjU2IDMyTDAgMjU2WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0yMDAgNTZhNzggNzggMCAxIDAgMTcgMTU0IDc4IDc4IDAgMCAxIDAtMTUycS04LTItMTctMm01NiA1LTUgMTdoLTE4bDE0IDExLTUgMTcgMTQtMTEgMTUgMTEtNi0xNyAxNS0xMWgtMTh6bS00MyAzNC02IDE3aC0xOGwxNSAxMC02IDE3IDE1LTEwIDE0IDEwLTUtMTcgMTQtMTBoLTE4em04NiAwLTUgMTdoLTE4bDE0IDEwLTUgMTcgMTQtMTAgMTUgMTAtNi0xNyAxNS0xMGgtMTh6bS03MCA1MC01IDE3aC0xOGwxNCAxMC01IDE3IDE0LTEwIDE1IDEwLTYtMTcgMTUtMTBoLTE4em01NCAwLTYgMTdoLTE4bDE1IDEwLTYgMTcgMTUtMTAgMTQgMTAtNS0xNyAxNC0xMGgtMThaTTAgMjU2djI1Nmg1MTJWMjU2WiIvPjwvZz48L3N2Zz4=" x="273" y="193" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="310" cy="220" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="310" cy="220" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="300" cy="220" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="300" cy="220" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="310" y="264" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">Singapore</text>
-      <text x="310" y="282" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">577 Mbps · $3,000/mo</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="262" y="226" text-anchor="end" class="item-title">Singapore</text>
+      <text x="262" y="244" text-anchor="end" class="item-sub">577 Mbps · $3,000/mo</text>
     </g>
 
     <g class="matrix-item" data-name="London">
       
       <!-- Drop shadow for flag circle -->
-      <circle cx="250" cy="423" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="250" cy="421" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="240" cy="423" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="240" cy="421" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0wIDAgOCAyMi04IDIzdjIzbDMyIDU0LTMyIDU0djMybDMyIDQ4LTMyIDQ4djMybDMyIDU0LTMyIDU0djY4bDIyLTggMjMgOGgyM2w1NC0zMiA1NCAzMmgzMmw0OC0zMiA0OCAzMmgzMmw1NC0zMiA1NCAzMmg2OGwtOC0yMiA4LTIzdi0yM2wtMzItNTQgMzItNTR2LTMybC0zMi00OCAzMi00OHYtMzJsLTMyLTU0IDMyLTU0VjBsLTIyIDgtMjMtOGgtMjNsLTU0IDMyLTU0LTMyaC0zMmwtNDggMzItNDgtMzJoLTMybC01NCAzMkw2OCAwSDB6Ii8+PHBhdGggZmlsbD0iIzAwNTJiNCIgZD0iTTMzNiAwdjEwOEw0NDQgMFptMTc2IDY4TDQwNCAxNzZoMTA4ek0wIDE3NmgxMDhMMCA2OFpNNjggMGwxMDggMTA4VjBabTEwOCA1MTJWNDA0TDY4IDUxMlpNMCA0NDRsMTA4LTEwOEgwWm01MTItMTA4SDQwNGwxMDggMTA4Wm0tNjggMTc2TDMzNiA0MDR2MTA4eiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDB2NDVsMTMxIDEzMWg0NUwwIDB6bTIwOCAwdjIwOEgwdjk2aDIwOHYyMDhoOTZWMzA0aDIwOHYtOTZIMzA0VjBoLTk2em0yNTkgMEwzMzYgMTMxdjQ1TDUxMiAwaC00NXpNMTc2IDMzNiAwIDUxMmg0NWwxMzEtMTMxdi00NXptMTYwIDAgMTc2IDE3NnYtNDVMMzgxIDMzNmgtNDV6Ii8+PC9nPjwvc3ZnPg==" x="223" y="393" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0wIDAgOCAyMi04IDIzdjIzbDMyIDU0LTMyIDU0djMybDMyIDQ4LTMyIDQ4djMybDMyIDU0LTMyIDU0djY4bDIyLTggMjMgOGgyM2w1NC0zMiA1NCAzMmgzMmw0OC0zMiA0OCAzMmgzMmw1NC0zMiA1NCAzMmg2OGwtOC0yMiA4LTIzdi0yM2wtMzItNTQgMzItNTR2LTMybC0zMi00OCAzMi00OHYtMzJsLTMyLTU0IDMyLTU0VjBsLTIyIDgtMjMtOGgtMjNsLTU0IDMyLTU0LTMyaC0zMmwtNDggMzItNDgtMzJoLTMybC01NCAzMkw2OCAwSDB6Ii8+PHBhdGggZmlsbD0iIzAwNTJiNCIgZD0iTTMzNiAwdjEwOEw0NDQgMFptMTc2IDY4TDQwNCAxNzZoMTA4ek0wIDE3NmgxMDhMMCA2OFpNNjggMGwxMDggMTA4VjBabTEwOCA1MTJWNDA0TDY4IDUxMlpNMCA0NDRsMTA4LTEwOEgwWm01MTItMTA4SDQwNGwxMDggMTA4Wm0tNjggMTc2TDMzNiA0MDR2MTA4eiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDB2NDVsMTMxIDEzMWg0NUwwIDB6bTIwOCAwdjIwOEgwdjk2aDIwOHYyMDhoOTZWMzA0aDIwOHYtOTZIMzA0VjBoLTk2em0yNTkgMEwzMzYgMTMxdjQ1TDUxMiAwaC00NXpNMTc2IDMzNiAwIDUxMmg0NWwxMzEtMTMxdi00NXptMTYwIDAgMTc2IDE3NnYtNDVMMzgxIDMzNmgtNDV6Ii8+PC9nPjwvc3ZnPg==" x="213" y="393" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="250" cy="420" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="250" cy="420" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="240" cy="420" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="240" cy="420" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="250" y="464" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">London</text>
-      <text x="250" y="482" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">306 Mbps · $3,200/mo</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="240" y="464" text-anchor="middle" class="item-title">London</text>
+      <text x="240" y="482" text-anchor="middle" class="item-sub">306 Mbps · $3,200/mo</text>
     </g>
 
     <g class="matrix-item" data-name="San Francisco">
       
       <!-- Drop shadow for flag circle -->
-      <circle cx="230" cy="293" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="230" cy="291" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="230" cy="303" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="230" cy="301" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0yNTYgMGgyNTZ2NjRsLTMyIDMyIDMyIDMydjY0bC0zMiAzMiAzMiAzMnY2NGwtMzIgMzIgMzIgMzJ2NjRsLTI1NiAzMkwwIDQ0OHYtNjRsMzItMzItMzItMzJ2LTY0eiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0yMjQgNjRoMjg4djY0SDIyNFptMCAxMjhoMjg4djY0SDI1NlpNMCAzMjBoNTEydjY0SDBabTAgMTI4aDUxMnY2NEgwWiIvPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDBoMjU2djI1NkgwWiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0xODcgMjQzIDU3LTQxaC03MGw1NyA0MS0yMi02N3ptLTgxIDAgNTctNDFIOTNsNTcgNDEtMjItNjd6bS04MSAwIDU3LTQxSDEybDU3IDQxLTIyLTY3em0xNjItODEgNTctNDFoLTcwbDU3IDQxLTIyLTY3em0tODEgMCA1Ny00MUg5M2w1NyA0MS0yMi02N3ptLTgxIDAgNTctNDFIMTJsNTcgNDEtMjItNjdabTE2Mi04MiA1Ny00MWgtNzBsNTcgNDEtMjItNjdabS04MSAwIDU3LTQxSDkzbDU3IDQxLTIyLTY3em0tODEgMCA1Ny00MUgxMmw1NyA0MS0yMi02N1oiLz48L2c+PC9zdmc+" x="203" y="263" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0yNTYgMGgyNTZ2NjRsLTMyIDMyIDMyIDMydjY0bC0zMiAzMiAzMiAzMnY2NGwtMzIgMzIgMzIgMzJ2NjRsLTI1NiAzMkwwIDQ0OHYtNjRsMzItMzItMzItMzJ2LTY0eiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0yMjQgNjRoMjg4djY0SDIyNFptMCAxMjhoMjg4djY0SDI1NlpNMCAzMjBoNTEydjY0SDBabTAgMTI4aDUxMnY2NEgwWiIvPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDBoMjU2djI1NkgwWiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0xODcgMjQzIDU3LTQxaC03MGw1NyA0MS0yMi02N3ptLTgxIDAgNTctNDFIOTNsNTcgNDEtMjItNjd6bS04MSAwIDU3LTQxSDEybDU3IDQxLTIyLTY3em0xNjItODEgNTctNDFoLTcwbDU3IDQxLTIyLTY3em0tODEgMCA1Ny00MUg5M2w1NyA0MS0yMi02N3ptLTgxIDAgNTctNDFIMTJsNTcgNDEtMjItNjdabTE2Mi04MiA1Ny00MWgtNzBsNTcgNDEtMjItNjdabS04MSAwIDU3LTQxSDkzbDU3IDQxLTIyLTY3em0tODEgMCA1Ny00MUgxMmw1NyA0MS0yMi02N1oiLz48L2c+PC9zdmc+" x="203" y="273" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="230" cy="290" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="230" cy="290" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="230" cy="300" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="230" cy="300" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="230" y="334" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">San Francisco</text>
-      <text x="230" y="352" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">372 Mbps · $3,500/mo</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="230" y="344" text-anchor="middle" class="item-title">San Francisco</text>
+      <text x="230" y="362" text-anchor="middle" class="item-sub">372 Mbps · $3,500/mo</text>
     </g>
 
     <g class="matrix-item" data-name="New York">
       
       <!-- Drop shadow for flag circle -->
-      <circle cx="220" cy="533" r="27" fill="#000000" opacity="0.08" />
-      <circle cx="220" cy="531" r="27" fill="#000000" opacity="0.06" />
+      <circle cx="220" cy="693" r="27" fill="#000000" opacity="0.08" />
+      <circle cx="220" cy="691" r="27" fill="#000000" opacity="0.06" />
       
       <!-- Flag circle image -->
-      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0yNTYgMGgyNTZ2NjRsLTMyIDMyIDMyIDMydjY0bC0zMiAzMiAzMiAzMnY2NGwtMzIgMzIgMzIgMzJ2NjRsLTI1NiAzMkwwIDQ0OHYtNjRsMzItMzItMzItMzJ2LTY0eiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0yMjQgNjRoMjg4djY0SDIyNFptMCAxMjhoMjg4djY0SDI1NlpNMCAzMjBoNTEydjY0SDBabTAgMTI4aDUxMnY2NEgwWiIvPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDBoMjU2djI1NkgwWiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0xODcgMjQzIDU3LTQxaC03MGw1NyA0MS0yMi02N3ptLTgxIDAgNTctNDFIOTNsNTcgNDEtMjItNjd6bS04MSAwIDU3LTQxSDEybDU3IDQxLTIyLTY3em0xNjItODEgNTctNDFoLTcwbDU3IDQxLTIyLTY3em0tODEgMCA1Ny00MUg5M2w1NyA0MS0yMi02N3ptLTgxIDAgNTctNDFIMTJsNTcgNDEtMjItNjdabTE2Mi04MiA1Ny00MWgtNzBsNTcgNDEtMjItNjdabS04MSAwIDU3LTQxSDkzbDU3IDQxLTIyLTY3em0tODEgMCA1Ny00MUgxMmw1NyA0MS0yMi02N1oiLz48L2c+PC9zdmc+" x="193" y="503" width="54" height="54" />
+      <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0yNTYgMGgyNTZ2NjRsLTMyIDMyIDMyIDMydjY0bC0zMiAzMiAzMiAzMnY2NGwtMzIgMzIgMzIgMzJ2NjRsLTI1NiAzMkwwIDQ0OHYtNjRsMzItMzItMzItMzJ2LTY0eiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0yMjQgNjRoMjg4djY0SDIyNFptMCAxMjhoMjg4djY0SDI1NlpNMCAzMjBoNTEydjY0SDBabTAgMTI4aDUxMnY2NEgwWiIvPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDBoMjU2djI1NkgwWiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Im0xODcgMjQzIDU3LTQxaC03MGw1NyA0MS0yMi02N3ptLTgxIDAgNTctNDFIOTNsNTcgNDEtMjItNjd6bS04MSAwIDU3LTQxSDEybDU3IDQxLTIyLTY3em0xNjItODEgNTctNDFoLTcwbDU3IDQxLTIyLTY3em0tODEgMCA1Ny00MUg5M2w1NyA0MS0yMi02N3ptLTgxIDAgNTctNDFIMTJsNTcgNDEtMjItNjdabTE2Mi04MiA1Ny00MWgtNzBsNTcgNDEtMjItNjdabS04MSAwIDU3LTQxSDkzbDU3IDQxLTIyLTY3em0tODEgMCA1Ny00MUgxMmw1NyA0MS0yMi02N1oiLz48L2c+PC9zdmc+" x="193" y="663" width="54" height="54" />
       
       <!-- Flag borders -->
-      <circle cx="220" cy="530" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
-      <circle cx="220" cy="530" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
+      <circle cx="220" cy="690" r="27" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+      <circle cx="220" cy="690" r="27" fill="none" stroke="#E5E7EB" stroke-width="0.75" />
       
-      <!-- Labels -->
-      <text x="220" y="574" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#111827">New York</text>
-      <text x="220" y="592" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6B7280">290 Mbps · $6,100/mo</text>
+      <!-- Labels with protective white halo for 100% legibility -->
+      <text x="220" y="734" text-anchor="middle" class="item-title">New York</text>
+      <text x="220" y="752" text-anchor="middle" class="item-sub">290 Mbps · $6,100/mo</text>
     </g>
 
   <!-- Footer Footnotes & Watermark -->
