@@ -79783,7 +79783,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "d279cc54-7cec-48c9-bfa3-7b3998b07351",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae4f27d406ab8a0187bbd12"
     }
   ]
 }
