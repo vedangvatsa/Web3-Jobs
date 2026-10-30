@@ -75901,6 +75901,41 @@
       "attemptId": "230390b9-2313-4f24-87e6-29e4dec204da",
       "verification": "verified",
       "postId": "0x6850ebbe2cc6c6ac9d22e37bc0165984426afde9"
+    },
+    {
+      "slug": "be85",
+      "company": "Sardine",
+      "title": "Senior Software Engineer, Backend - KYC",
+      "platform": "farcaster",
+      "postedAt": "2026-10-30T03:44:32.584Z",
+      "expectedText": "Sardine is hiring Senior Software Engineer, Backend - KYC\n\nhttps://hashtagweb3.com/be85/fc?og=7",
+      "snapshot": {
+        "id": "c9979045-5ce5-471b-9900-f7244da0cb10",
+        "title": "Senior Software Engineer, Backend - KYC",
+        "company": "Sardine",
+        "link": "https://jobs.ashbyhq.com/Sardine/c9979045-5ce5-471b-9900-f7244da0cb10",
+        "date": "2026-10-20T20:42:49.167+00:00",
+        "source": "Ashby: Sardine [Sardine]",
+        "location": "Remote (Canada)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "be85"
+      },
+      "payload": {
+        "text": "Sardine is hiring Senior Software Engineer, Backend - KYC\n\nhttps://hashtagweb3.com/be85/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/be85/fc?og=7"
+          }
+        ],
+        "channel_id": "bounties"
+      },
+      "account": "channel:bounties",
+      "attemptId": "216b11ba-0d61-492b-8a82-ea4a1536de7e",
+      "verification": "creating"
     }
   ]
 }
