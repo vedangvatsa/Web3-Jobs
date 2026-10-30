@@ -99650,14 +99650,22 @@
       "id": "1b466b2ecd15e5bdd185",
       "status": "deferred",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-30T20:13:59.000Z",
       "lastSeenAt": "2026-10-28T03:43:47.836Z",
       "reason": "source-blocked",
-      "note": "Read Crypto Briefing's report that Ripio filed with Banco Central do Brasil on Oct. 27 for virtual asset broker authorization and forex clearance ahead of the Oct. 30 deadline. The Defiant original returns HTTP 403, and Crypto Briefing's piece rests on a Crypto Crib X post rather than Ripio's own announcement. Need an independent outlet or Ripio/BCB primary confirmation before drafting.",
+      "note": "Read Ripio's own Oct. 27 announcement, Crypto Briefing, and Exame: filing with Banco Central do Brasil for virtual asset broker and forex authorization ahead of the Oct. 30 deadline. Two readable sites exist but both rest on Ripio's announcement; The Defiant original still 403. Holding for an independent outlet that does not quote the company release before drafting.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/ripio-applies-crypto-broker-license-brazil/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://launchpad.ripio.com/novedades/ripio-protocola-no-banco-central-do-brasil/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://exame.com/future-of-money/corretora-de-criptomoedas-ripio-protocola-pedido-de-licenca-no-bc/",
           "outcome": "read"
         },
         {
@@ -99665,12 +99673,12 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-29T04:23:41.981Z",
+      "reviewedAt": "2026-10-30T11:00:57.778Z",
       "retrySearches": [
-        "Find independent reporting or a Ripio/Banco Central do Brasil primary notice confirming Ripio's Oct. 27 2026 virtual asset broker license application and forex market filing in Brazil"
+        "Find independent reporting on Ripio's Oct. 27 2026 Banco Central do Brasil virtual asset broker and forex license filings that does not rest solely on Ripio's own announcement, or a BCB public register entry for the filing"
       ],
-      "lastReviewedDay": "2026-10-29",
-      "nextReviewDate": "2026-10-30",
+      "lastReviewedDay": "2026-10-30",
+      "nextReviewDate": "2026-10-31",
       "articleSlug": "ripio",
       "draftProgress": {
         "id": "1b466b2ecd15e5bdd185",
@@ -197794,6 +197802,33 @@
           ],
           "reviewedAt": "2026-10-30T11:00:17.395Z",
           "articleSlug": "amplitude"
+        },
+        "1b466b2ecd15e5bdd185": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Ripio's own Oct. 27 announcement, Crypto Briefing, and Exame: filing with Banco Central do Brasil for virtual asset broker and forex authorization ahead of the Oct. 30 deadline. Two readable sites exist but both rest on Ripio's announcement; The Defiant original still 403. Holding for an independent outlet that does not quote the company release before drafting.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/ripio-applies-crypto-broker-license-brazil/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://launchpad.ripio.com/novedades/ripio-protocola-no-banco-central-do-brasil/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://exame.com/future-of-money/corretora-de-criptomoedas-ripio-protocola-pedido-de-licenca-no-bc/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/converge/regulation/ripio-seeks-brazil-crypto-broker-license-ahead-of-filing-deadline",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-30T11:00:57.778Z",
+          "retrySearches": [
+            "Find independent reporting on Ripio's Oct. 27 2026 Banco Central do Brasil virtual asset broker and forex license filings that does not rest solely on Ripio's own announcement, or a BCB public register entry for the filing"
+          ]
         }
       },
       "baselineSlugs": [
