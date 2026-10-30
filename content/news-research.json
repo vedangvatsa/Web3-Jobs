@@ -99671,7 +99671,23 @@
         "Find independent reporting or a Ripio/Banco Central do Brasil primary notice confirming Ripio's Oct. 27 2026 virtual asset broker license application and forex market filing in Brazil"
       ],
       "lastReviewedDay": "2026-10-29",
-      "nextReviewDate": "2026-10-30"
+      "nextReviewDate": "2026-10-30",
+      "articleSlug": "ripio",
+      "draftProgress": {
+        "id": "1b466b2ecd15e5bdd185",
+        "day": "2026-10-30",
+        "articleSlug": "ripio",
+        "note": "Crypto Briefing re-read today; found Ripio's own Oct. 27 primary announcement plus Exame and BitNoticias coverage. Opening those now; draft not started.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptobriefing.com/ripio-applies-crypto-broker-license-brazil/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-30T10:56:20.904Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "931cb4cf0c79ecbd20a7": {
       "source": "Cointelegraph",
@@ -104331,22 +104347,14 @@
         "id": "ababcf9f363ddbe2a345",
         "day": "2026-10-30",
         "articleSlug": "robinhoodchain",
-        "note": "Opened and read Altcoin Buzz's full report of the Oct. 28 listing of eight stock and ETF tokens (JPM, V, PYPL, BMNR, MCD, DIS, UBER, GDX) on Robinhood Chain; the Robinhood Crypto X announcement text is visible in the page embed but x.com itself is blocked. The Defiant original and Gate both return HTTP 403. Need one more fully readable independent outlet (BlockBeats flash 374215 or KuCoin's Defiant carry) before drafting; draft not started.",
+        "note": "Altcoin Buzz re-read today; TokenPost and ChainCatcher found as second outlets, opening now. Defiant still 403. Draft not started.",
         "sourceChecks": [
           {
             "url": "https://www.altcoinbuzz.io/robinhood-chain-adds-eight-tokenized-stocks",
             "outcome": "read"
-          },
-          {
-            "url": "https://thedefiant.io/news/blockchains/robinhood-adds-eight-stock-and-etf-tokens-to-its-chain",
-            "outcome": "blocked"
-          },
-          {
-            "url": "https://www.gate.com/news/detail/robinhood-chain-adds-8-stock-tokens-including-jp-morgan-visa-paypal-25259171",
-            "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-10-30T10:50:37.163Z",
+        "updatedAt": "2026-10-30T10:56:22.852Z",
         "approved": false,
         "mustReview": true
       }
