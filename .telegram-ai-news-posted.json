@@ -830,6 +830,9 @@
   "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
   "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
   "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+  "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+  "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+  "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2272,6 +2275,12 @@
   "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
   "Meta releases Style Sketch AI fashion application",
   "Meta quietly launches an AI fashion app called Style Sketch",
+  "University employee granted religious exemption from using AI",
+  "You don’t need to believe in a god to get a religious exemption from using AI at work",
+  "Amazon CEO expects AWS to reach $1 trillion revenue",
+  "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+  "Reddit requires user logins as search engine traffic declines",
+  "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2619,5 +2628,8 @@
   "fp:are|build|criticiz|disconnect|exec|executiv|general|may|messag|out",
   "fp:control|cyber|cybersecurity|defens|direct|larg|mistral|open|organization|parameter",
   "fp:agent|allow|business|corporation|delawar|director|driven|entir|framework|helm",
-  "fp:app|application|call|cloth|creat|fashion|imag|import|instagram|meta"
+  "fp:app|application|call|cloth|creat|fashion|imag|import|instagram|meta",
+  "fp:bas|belief|believ|david|don|durman|employe|exemption|get|god",
+  "fp:amazon|big|business|capital|ceo|cloud|expect|expenditur|increas|infrastructur",
+  "fp:access|announc|business|chang|declin|dry|end|engin|experienc|habit"
 ]
