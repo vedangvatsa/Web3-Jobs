@@ -104238,11 +104238,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "2426eedf8f085831572b",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-31T18:13:39.000Z",
-      "lastSeenAt": "2026-10-29T03:34:54.128Z"
+      "lastSeenAt": "2026-10-29T03:34:54.128Z",
+      "reason": "source-blocked",
+      "note": "Attempted The Defiant article directly (HTTP 403 via fetch and curl with the readiness User-Agent) and opened Phemex's item, which mirrors a single Defiant X post reporting a 50 BTC transfer narrowing Liquid's reserve gap to about 550 BTC at 87.07% coverage. No second outlet with independent reporting was found; the mirrors all trace to the same inaccessible X post. This is also a small increment on the already-published liquidgap.md and needs federation-level confirmation before a standalone follow-up.",
+      "sourceChecks": [
+        {
+          "url": "https://phemex.com/news/article/liquid-network-cuts-reserve-gap-to-550-btc-after-50bitcoin-transfer-101598",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-550-btc-after-50-btc-transfer",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-30T10:50:25.659Z",
+      "retrySearches": [
+        "Find Liquid federation or Blockstream confirmation of the Oct. 28 50 BTC reserve transfer and 87.07% L-BTC coverage, or a second independent outlet reporting it beyond Defiant syndications"
+      ],
+      "lastReviewedDay": "2026-10-30",
+      "nextReviewDate": "2026-10-31"
     },
     "ababcf9f363ddbe2a345": {
       "source": "The Defiant",
@@ -197559,6 +197577,25 @@
           ],
           "reviewedAt": "2026-10-30T10:49:53.987Z",
           "articleSlug": "aavebtc"
+        },
+        "2426eedf8f085831572b": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Attempted The Defiant article directly (HTTP 403 via fetch and curl with the readiness User-Agent) and opened Phemex's item, which mirrors a single Defiant X post reporting a 50 BTC transfer narrowing Liquid's reserve gap to about 550 BTC at 87.07% coverage. No second outlet with independent reporting was found; the mirrors all trace to the same inaccessible X post. This is also a small increment on the already-published liquidgap.md and needs federation-level confirmation before a standalone follow-up.",
+          "sourceChecks": [
+            {
+              "url": "https://phemex.com/news/article/liquid-network-cuts-reserve-gap-to-550-btc-after-50bitcoin-transfer-101598",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-550-btc-after-50-btc-transfer",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-30T10:50:25.659Z",
+          "retrySearches": [
+            "Find Liquid federation or Blockstream confirmation of the Oct. 28 50 BTC reserve transfer and 87.07% L-BTC coverage, or a second independent outlet reporting it beyond Defiant syndications"
+          ]
         }
       },
       "baselineSlugs": [
