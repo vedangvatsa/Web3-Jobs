@@ -1837,40 +1837,6 @@
       }
     ]
   },
-  "premier-instonchain": {
-    "summaryLead": "Institutional Onchain: RWAs & Stablecoins Seoul 2026 is a one-day session on September 30, 2026, examining how real-world assets and stablecoins are moving from pitch decks onto actual balance sheets. It forms part of the KBW side-event program in Seoul.",
-    "sections": [
-      {
-        "heading": "The institutional agenda, unpacked",
-        "content": [
-          "This session takes place between 09:00 and 18:00 on the second-to-last stretch of Korea Blockchain Week, which is a smart slot. By September 30, the week's bigger keynotes have landed their headlines, and the people still in town tend to be the ones doing actual deals. The listing frames the day as institutional perspectives on RWA and stablecoin adoption on-chain, which in practice means fewer token price debates and more custody, settlement, and compliance talk.",
-          "The timing could hardly be better. Tokenized treasuries, private credit pools, and stablecoin payment corridors have crossed from whitepaper concepts into products that banks and asset managers actively evaluate. Seoul, sitting inside a market where policymakers openly discuss won-pegged stablecoins, gives that conversation a natural home turf."
-        ]
-      },
-      {
-        "heading": "RWAs: past the pilot stage",
-        "content": [
-          "The honest state of play is that tokenized real-world assets work technically and struggle commercially. Issuance platforms exist, legal wrappers exist, secondary liquidity remains thin. A room full of practitioners arguing about which friction point falls first is exactly what this day promises, and it beats reading another consultancy slide deck on the same question.",
-          "Korea adds its own texture. Domestic institutions have been cautious but methodical, watching precedents set elsewhere in Asia before committing capital. Attendees from outside the country get a rare window into how a major economy weighs adoption on its own terms rather than importing Silicon Valley assumptions wholesale."
-        ]
-      },
-      {
-        "heading": "Stablecoins carry the conversation",
-        "content": [
-          "If RWAs are the long game, stablecoins are the present tense, and the program reflects that ordering. Payment settlement, FX corridors, and reserve management dominate institutional stablecoin discussions because they touch revenue lines today rather than hypothetical futures. Anyone building wallets, remittance products, or merchant rails will find the most immediately applicable material here.",
-          "Regulatory posture will inevitably thread through every panel. The gap between Korean deliberation, US legislation, and Singapore's licensing regime is precisely the kind of comparative detail that practitioners trade in, and a single-topic day lets it breathe instead of competing with a hundred other themes.",
-          "One more thing separates this from a typical KBW side event: the framing starts from institutional constraints rather than protocol capabilities. That inversion matters. When the day begins with custody requirements and accounting treatment instead of throughput benchmarks, the discussion lands closer to what a bank's digital asset committee actually asks before signing anything."
-        ]
-      },
-      {
-        "heading": "Who belongs in the room",
-        "content": [
-          "Product leads at exchanges and custodians, digital asset teams at banks, and fintech founders working on payments infrastructure form the core audience. Lawyers and compliance officers are equally well served; RWA structures live or die on legal engineering, and the KBW crowd usually includes strong representation from regional firms.",
-          "Check the organizer's page at lilroom.xyz for registration mechanics and the confirmed venue, and note the scheduling overlap: a separate session on perpetuals and institutional trading runs the same day. If your job spans both worlds, pick based on which conversation you cannot replicate over coffee, because the coffee opportunities in Seoul that week are plentiful."
-        ]
-      }
-    ]
-  },
   "premier-perpsinst": {
     "summaryLead": "Perps x Institutional Seoul 2026 gathers trading desks and protocol teams on September 30, 2026, to argue about perpetual futures: where the liquidity lives, and what it would take for institutions to participate on-chain at scale. It runs during Korea Blockchain Week.",
     "sections": [

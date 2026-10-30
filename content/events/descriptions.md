@@ -21,80 +21,6 @@ Octaloop's India Blockchain & AI Tour 2026 is the fifth edition of a national ev
 
 Each city has its own registration route. The main tour page describes the series as a whole rather than a confirmed session program for every stop. Select the relevant city and verify its date, venue and ticket conditions before attending.
 
-<a id="event-942fa424658c6bf7"></a>
-
-## GWDC 2026 KOREA
-
-- Record: `kbw-gwdc-korea-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-29T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/cp87au4f>
-
-### Event Details / 행사 정보
-
-- Date / 일시: Sep 29th - 30th, 2026 | 09:00 AM - 06:00 PM
-- Location / 장소: AT Center, Seoul, South Korea (서울 aT센터)
-- [Official Website / 공식 웹사이트: www.gwdc.net](https://www.gwdc.net)
-
-Join the Community / 공식 커뮤니티 참여
-
-- [GWDC 2026 Telegram Group: t.me/Web3LabsHK](https://t.me/Web3LabsHK)
-
-### About Event / 행사 소개
-
-Following the huge success of our inaugural event in Hong Kong this February, the 2nd Global Web3 Developer Conference 2026 (Global Web3 Dev Con) is officially landing in Seoul, expanding its scale to an unprecedented milestone!
-
-Hosted by Web3Labs, GWDC is Asia's premier developer-focused Web3 summit. Taking place from September 29-30, 2026 (2 days) at the AT Center in Seoul, this mega-edition will champion the ethos of "For Builders, By Builders" on a much grander stage. This year, we are targeting 10,000+ Web3 enthusiasts, 200+ elite global developers, and 100+ tier-1 VCs for deep coding sessions, technical breakthroughs, and high-impact ecosystem exchange.
-
-지난 2월 홍콩에서 성황리에 개최된 첫 대회에 이어, 제2회 글로벌 Web3 개발자 콘퍼런스 2026 (Global Web3 Dev Con)이 전례 없는 역대급 규모로 대한민국 서울에서 개최됩니다!
-
-Web3Labs가 주최하는 GWDC는 아시아 최고의 개발자 중심 Web3 서밋입니다. 2026년 9월 29일부터 30일까지 이틀간 서울 aT센터에서 열리는 이번 대형 서밋은 "For Builders, By Builders(빌더를 위한, 빌더에 의한)"라는 핵심 이념을 더욱 거대한 무대에서 실현합니다. 올해 대회는 10,000명 이상의 Web3 애호가, 200명 이상의 글로벌 엘리트 개발자, 100개 이상의 탑티어 VC가 한자리에 모여 깊이 있는 코딩 세션, 기술적 돌파구 마련, 그리고 영향력 있는 생태계 교류를 펼칠 예정입니다.
-
-Host : Web3Labs
-
-### Event Highlights / 행사 하이라이트
-
-- 10,000+ Mega Summit / 만인 규모의 글로벌 서밋: Connecting 10,000+ attendees worldwide, bringing together foundational layers, applications, and top-tier capitals under one roof. (전 세계 10,000명 이상의 참가자를 연결하고 하위 레이어 공공 체인, 상위 애플리케이션 및 최정상 자본을 한자리에 모으는 메가 서밋입니다.)
-- Premier Hackathon / 프리미어 해커톤: 200+ global developers, 50+ breakthrough projects, real-chain tasks + top-tier mentor guidance + institutional VC judging. (200명 이상의 글로벌 개발자, 50개 이상의 혁신적 프로젝트가 참여하며, 퍼블릭 체인 실전 미션, 탑티어 멘토링 및 기관급 VC 심사가 함께 진행됩니다.)
-- Global Innovation Exhibition / 글로벌 혁신 프로젝트 전시: 50+ Web3 innovative projects and direct VC matchmaking to accelerate global project launch, liquidity growth, and ecosystem building. (50개 이상의 혁신적인 Web3 프로젝트의 현장 노출 및 VC 직접 매칭을 통해 프로젝트의 글로벌 출시와 생태계 구축을 가속화합니다.)
-
-### Speakers & Agenda / 연사 및 아젠다
-
-Confirmed Speakers & VIP Guests / 참석 확정 연사 및 VIP 라인업
-
-- (More featured speakers will be announced continuously / 추가 연사 라인업은 지속적으로 업데이트될 예정입니다)
-
-### Agenda Focus Themes / 핵심 아젠다 하이라이트
-
-- AI Agents & Autonomous Payments / AI 에이전트 및 온체인 자율 경제 Exploring how AI agents utilize stablecoins for automated micro-payments to power a frictionless decentralized economy. (AI 에이전트가 스테이블코인을 활용해 자율 미세 결제를 수행하며 마찰 없는 탈중앙화 경제를 촉진하는 방향을 모색합니다.)
-- DePIN Commercialization / DePIN(탈중앙화 물리적 인프라 네트워크) 상용화 Driving real-world enterprise demand, revenue scaling, and sustainable token-burn mechanisms for hardware networks. (하드웨어 및 컴퓨팅 네트워크의 실제 기업 수요 창출, 매출 확장 및 지속 가능한 토큰 소각 메커니즘을 집중 조명합니다.)
-- Tokenomics 2.0 / 토크노믹스 2.0 및 실질 수익 Shifting the paradigm from inflationary narratives to sustainable on-chain revenue models and fee-sharing mechanisms. (단순 내러티브와 인플레이션 덫에서 벗어나 온체인 바이백, 소각 및 수수료 분배를 통한 지속 가능한 실질 수익 모델에 주목합니다.)
-- RWA & Institutional Capital / RWA(실물자산) 및 기관급 금융 Bringing traditional assets like T-bills and private credit on-chain to unlock deep liquidity and DeFi composability. (국채 및 사모 신용 등 실물자산을 토큰화하여 깊은 유동성을 확보하고 디파이(DeFi)와의 유기적 결합을 추진합니다.)
-- Modular Infra & Restaking / 모듈러 인프라 및 리스테이킹 생태계 Advancing the frontiers of shared security, modular scalability, and seamless omnichain interoperability. (기술적 돌파구를 깊이 있게 다루며 모듈러 블록체인, 리스테이킹 및 옴니체인 상호운용성 네트워크의 공유 보안 진화를 탐구합니다.)
-- Prediction Markets & Derivatives / 예측 시장 및 탈중앙화 파생상품 Analyzing the structural growth of on-chain prediction aggregators and next-generation crypto derivatives. (온체인 예측 시장의 기하급수적 성장 트렌드와 차세대 탈중앙화 무기한 선물(Perp DEX) 및 파생상품 도구의 진화를 분석합니다.)
-
-### Collaboration & Sponsors / 비즈니스 협력 및 후원
-
-- Host: Web3Labs
-- Sponsors: (Updating soon... / 후원사 모집 중)
-
-Contact Us / 제휴 문의
-
-If you have any questions about the event or want to become our partners / sponsors, please Contact Us via website, or just connect via: 본 행사에 대해 문의 사항이 있거나 파트너 및 후원사로 참여를 원하시면 공식 웹사이트의 'Contact Us'를 작성하시거나 아래 채널로 연락해 주시기 바랍니다.
-
-[email: info@web3labs.club](https://info@web3labs.club)
-
-Sponsorship Cooperation (TG) : @[eddiedede](https://t.me/eddiedede) | @[jennik2](https://x.com/Jenni_Web3)
-
-Media Cooperation (TG) : @[hhtyng](https://t.me/hhtyng)
-
-### About Organizers / 주최 및 파트너 소개
-
-- About Web3Labs
-  - Web3Labs serves as a one-stop gateway for Web3.0 entrepreneurship. Aiming to respond to global market trends and policy declarations, Web3Labs supports global Web3 enterprises in expanding internationally through landing services, investment acceleration, technical cooperation, PR support, and compliance assistance. Currently, it operates offline incubators in Hong Kong, Singapore, Malaysia, South Korea, Hangzhou, Beijing, and other locations. Additionally, Web3Labs has launched a $10M Web3.0 Global Accelerator Program, establishing strategic partnerships with leading global organizations such as Neo, Zetrix, ICP, KuCoin Labs, TON, Mango, 0G LABS, Plume, etc., providing comprehensive empowerment and acceleration for high-quality global projects.(Web3Labs는 Web3.0 창업을 위한 원스톱 관문입니다. 글로벌 시장의 흐름과 정책 선언에 발맞추어 현지화 서비스, 투자 가속화, 기술 협력, PR 지원, 컴플라이언스 어시스턴스 등을 통해 글로벌 Web3 기업의 해외 진출과 글로벌 연결을 지원합니다. 현재 서울, 홍콩, 싱가포르, 말레이시아, 항저우, 베이징 등지에 오프라인 인큐베이터를 보유하고 있습니다. 또한 Web3Labs는 총 1,000만 달러 규모의 글로벌 액셀러레이팅 프로그램을 출시하여 Neo, Zetrix, ICP, KuCoin Labs, TON, Mango, 0G LABS, Plume 등 다수의 글로벌 선두 기관과 전략적 파트너십을 체결하고 우수한 글로벌 프로젝트에 전방위적 역량 강화 및 가속화를 제공하고 있습니다.)
-    [X](https://x.com/LabsWeb368672?utm_source=luma)｜
-
 <a id="event-f5700723435473ca"></a>
 
 ## CV Summit 2026
@@ -199,71 +125,6 @@ Copyright © 2026, Korea Blockchain Week KBW 사무국, 상호: 팩트블록(주
 1) This payment method is provided by Eximbay and is billed as www.eximbay.com. 2) Note: Please note that the billing descriptor will be listed as EXIMBAY.COM.
 
 Copyright © 2026, Korea Blockchain Week KBW 사무국, 상호: 팩트블록(주) 대표: 박위익, 사업자등록번호: 5718800913, 통신판매업 신고번호: 제 2020-서울서초-2780호, 주소: 서울특별시 서초구 강남대로 337, 9Fl, 06626. 1) This payment method is provided by Eximbay and is billed as www.eximbay.com. 2) Note: Please note that the billing descriptor will be listed as EXIMBAY.COM.
-
-<a id="event-669c7ba061c93a95"></a>
-
-## Institutional Onchain: RWAs & Stablecoins📍Seoul, South Korea \| 🗓 Sep 29 - Oct 1\| During Korea Blockchain Week
-
-- Record: `premier-instonchain`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-30T05:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/qsfjc56x>
-
-### About the Event
-
-Institutional Onchain: RWAs & Stablecoins is a focused forum for institutions, funds, market makers, and protocol teams exploring how real-world assets and stablecoin infrastructure are reshaping global capital markets.
-
-This event is designed to cut through narratives and focus on what is actually being deployed onchain today and what institutions need next in terms of settlement, compliance, liquidity, and capital efficiency.
-
-### Topics You'll See
-
-- Tokenized RWAs: bonds, funds, and real-world yield
-- Stablecoin infrastructure and settlement layers
-- Institutional capital flows into DeFi
-- Compliance, custody, and onchain risk frameworks
-- Market design for institutional liquidity
-- Cross-border payments and onchain treasuries
-
-### What to Expect
-
-- Senior operators from funds, TradFi, and crypto infrastructure
-- Case studies from live institutional deployments
-- Thoughtful panels and closed-door discussions
-- High-quality networking with capital allocators and builders
-- A serious, signal-driven environment
-
-### Past Activations
-
-##
-
-### Agenda (Indicative)
-
-16:00 - 16:30 | Institutional Networking & Welcome
-
-16:30 - 17:00 | Panel: RWAs & Stablecoin Settlement
-
-17:15 - 17:30 | Keynote: Institutional Onchain Infrastructure
-
-17:45 - 18:15 | Panel: AI in Institutional Markets
-
-18:20 - 18:35 | Fireside Chat
-
-18:35 - 19:00 | Open Roundtable & Networking
-
-19:00 | Close
-
-- To discuss sponsorship opportunities, feel free to reach out on Telegram: @saurabh_0x
-
-### Past Events
-
-https://luma.com/3loqk0iz
-
-https://luma.com/zn02vlx2
-
-https://luma.com/wxa40k7a
-
-https://luma.com/7obq3bf2
 
 <a id="event-965d9cc63451aed0"></a>
 
@@ -10262,80 +10123,6 @@ Visitor Pass now just $100 (Regular Price: $499)!
 
 Registration requires host approval. Registration is listed as free.
 
-<a id="event-8b8ade6522ebecaf"></a>
-
-## GWDC 2026 KOREA
-
-- Record: `kbw-official-gwdc-2026-korea-09-29`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-09-29T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/cp87au4f>
-
-### Event Details / 행사 정보
-
-- Date / 일시: Sep 29th - 30th, 2026 | 09:00 AM - 06:00 PM
-- Location / 장소: AT Center, Seoul, South Korea (서울 aT센터)
-- [Official Website / 공식 웹사이트: www.gwdc.net](https://www.gwdc.net)
-
-Join the Community / 공식 커뮤니티 참여
-
-- [GWDC 2026 Telegram Group: t.me/Web3LabsHK](https://t.me/Web3LabsHK)
-
-### About Event / 행사 소개
-
-Following the huge success of our inaugural event in Hong Kong this February, the 2nd Global Web3 Developer Conference 2026 (Global Web3 Dev Con) is officially landing in Seoul, expanding its scale to an unprecedented milestone!
-
-Hosted by Web3Labs, GWDC is Asia's premier developer-focused Web3 summit. Taking place from September 29-30, 2026 (2 days) at the AT Center in Seoul, this mega-edition will champion the ethos of "For Builders, By Builders" on a much grander stage. This year, we are targeting 10,000+ Web3 enthusiasts, 200+ elite global developers, and 100+ tier-1 VCs for deep coding sessions, technical breakthroughs, and high-impact ecosystem exchange.
-
-지난 2월 홍콩에서 성황리에 개최된 첫 대회에 이어, 제2회 글로벌 Web3 개발자 콘퍼런스 2026 (Global Web3 Dev Con)이 전례 없는 역대급 규모로 대한민국 서울에서 개최됩니다!
-
-Web3Labs가 주최하는 GWDC는 아시아 최고의 개발자 중심 Web3 서밋입니다. 2026년 9월 29일부터 30일까지 이틀간 서울 aT센터에서 열리는 이번 대형 서밋은 "For Builders, By Builders(빌더를 위한, 빌더에 의한)"라는 핵심 이념을 더욱 거대한 무대에서 실현합니다. 올해 대회는 10,000명 이상의 Web3 애호가, 200명 이상의 글로벌 엘리트 개발자, 100개 이상의 탑티어 VC가 한자리에 모여 깊이 있는 코딩 세션, 기술적 돌파구 마련, 그리고 영향력 있는 생태계 교류를 펼칠 예정입니다.
-
-Host : Web3Labs
-
-### Event Highlights / 행사 하이라이트
-
-- 10,000+ Mega Summit / 만인 규모의 글로벌 서밋: Connecting 10,000+ attendees worldwide, bringing together foundational layers, applications, and top-tier capitals under one roof. (전 세계 10,000명 이상의 참가자를 연결하고 하위 레이어 공공 체인, 상위 애플리케이션 및 최정상 자본을 한자리에 모으는 메가 서밋입니다.)
-- Premier Hackathon / 프리미어 해커톤: 200+ global developers, 50+ breakthrough projects, real-chain tasks + top-tier mentor guidance + institutional VC judging. (200명 이상의 글로벌 개발자, 50개 이상의 혁신적 프로젝트가 참여하며, 퍼블릭 체인 실전 미션, 탑티어 멘토링 및 기관급 VC 심사가 함께 진행됩니다.)
-- Global Innovation Exhibition / 글로벌 혁신 프로젝트 전시: 50+ Web3 innovative projects and direct VC matchmaking to accelerate global project launch, liquidity growth, and ecosystem building. (50개 이상의 혁신적인 Web3 프로젝트의 현장 노출 및 VC 직접 매칭을 통해 프로젝트의 글로벌 출시와 생태계 구축을 가속화합니다.)
-
-### Speakers & Agenda / 연사 및 아젠다
-
-Confirmed Speakers & VIP Guests / 참석 확정 연사 및 VIP 라인업
-
-- (More featured speakers will be announced continuously / 추가 연사 라인업은 지속적으로 업데이트될 예정입니다)
-
-### Agenda Focus Themes / 핵심 아젠다 하이라이트
-
-- AI Agents & Autonomous Payments / AI 에이전트 및 온체인 자율 경제 Exploring how AI agents utilize stablecoins for automated micro-payments to power a frictionless decentralized economy. (AI 에이전트가 스테이블코인을 활용해 자율 미세 결제를 수행하며 마찰 없는 탈중앙화 경제를 촉진하는 방향을 모색합니다.)
-- DePIN Commercialization / DePIN(탈중앙화 물리적 인프라 네트워크) 상용화 Driving real-world enterprise demand, revenue scaling, and sustainable token-burn mechanisms for hardware networks. (하드웨어 및 컴퓨팅 네트워크의 실제 기업 수요 창출, 매출 확장 및 지속 가능한 토큰 소각 메커니즘을 집중 조명합니다.)
-- Tokenomics 2.0 / 토크노믹스 2.0 및 실질 수익 Shifting the paradigm from inflationary narratives to sustainable on-chain revenue models and fee-sharing mechanisms. (단순 내러티브와 인플레이션 덫에서 벗어나 온체인 바이백, 소각 및 수수료 분배를 통한 지속 가능한 실질 수익 모델에 주목합니다.)
-- RWA & Institutional Capital / RWA(실물자산) 및 기관급 금융 Bringing traditional assets like T-bills and private credit on-chain to unlock deep liquidity and DeFi composability. (국채 및 사모 신용 등 실물자산을 토큰화하여 깊은 유동성을 확보하고 디파이(DeFi)와의 유기적 결합을 추진합니다.)
-- Modular Infra & Restaking / 모듈러 인프라 및 리스테이킹 생태계 Advancing the frontiers of shared security, modular scalability, and seamless omnichain interoperability. (기술적 돌파구를 깊이 있게 다루며 모듈러 블록체인, 리스테이킹 및 옴니체인 상호운용성 네트워크의 공유 보안 진화를 탐구합니다.)
-- Prediction Markets & Derivatives / 예측 시장 및 탈중앙화 파생상품 Analyzing the structural growth of on-chain prediction aggregators and next-generation crypto derivatives. (온체인 예측 시장의 기하급수적 성장 트렌드와 차세대 탈중앙화 무기한 선물(Perp DEX) 및 파생상품 도구의 진화를 분석합니다.)
-
-### Collaboration & Sponsors / 비즈니스 협력 및 후원
-
-- Host: Web3Labs
-- Sponsors: (Updating soon... / 후원사 모집 중)
-
-Contact Us / 제휴 문의
-
-If you have any questions about the event or want to become our partners / sponsors, please Contact Us via website, or just connect via: 본 행사에 대해 문의 사항이 있거나 파트너 및 후원사로 참여를 원하시면 공식 웹사이트의 'Contact Us'를 작성하시거나 아래 채널로 연락해 주시기 바랍니다.
-
-[email: info@web3labs.club](https://info@web3labs.club)
-
-Sponsorship Cooperation (TG) : @[eddiedede](https://t.me/eddiedede) | @[jennik2](https://x.com/Jenni_Web3)
-
-Media Cooperation (TG) : @[hhtyng](https://t.me/hhtyng)
-
-### About Organizers / 주최 및 파트너 소개
-
-- About Web3Labs
-  - Web3Labs serves as a one-stop gateway for Web3.0 entrepreneurship. Aiming to respond to global market trends and policy declarations, Web3Labs supports global Web3 enterprises in expanding internationally through landing services, investment acceleration, technical cooperation, PR support, and compliance assistance. Currently, it operates offline incubators in Hong Kong, Singapore, Malaysia, South Korea, Hangzhou, Beijing, and other locations. Additionally, Web3Labs has launched a $10M Web3.0 Global Accelerator Program, establishing strategic partnerships with leading global organizations such as Neo, Zetrix, ICP, KuCoin Labs, TON, Mango, 0G LABS, Plume, etc., providing comprehensive empowerment and acceleration for high-quality global projects.(Web3Labs는 Web3.0 창업을 위한 원스톱 관문입니다. 글로벌 시장의 흐름과 정책 선언에 발맞추어 현지화 서비스, 투자 가속화, 기술 협력, PR 지원, 컴플라이언스 어시스턴스 등을 통해 글로벌 Web3 기업의 해외 진출과 글로벌 연결을 지원합니다. 현재 서울, 홍콩, 싱가포르, 말레이시아, 항저우, 베이징 등지에 오프라인 인큐베이터를 보유하고 있습니다. 또한 Web3Labs는 총 1,000만 달러 규모의 글로벌 액셀러레이팅 프로그램을 출시하여 Neo, Zetrix, ICP, KuCoin Labs, TON, Mango, 0G LABS, Plume 등 다수의 글로벌 선두 기관과 전략적 파트너십을 체결하고 우수한 글로벌 프로젝트에 전방위적 역량 강화 및 가속화를 제공하고 있습니다.)
-    [X](https://x.com/LabsWeb368672?utm_source=luma)｜
-
 <a id="event-68e461c6d3e0a47a"></a>
 
 ## DIGITAL AF! • United Art & Tech • Web3 meets culture in Seoul
@@ -10396,432 +10183,6 @@ DIGITAL AF (하나됨 - "unity")는 현대 미술, 기술, 게임, 그리고 한
   - 2026년 9월 29일 → 10월 3일
   - 주최: Wildcat × Digital AF
   - 서울에서 만나요.
-
-<a id="event-03a02de8f5a42f38"></a>
-
-## Solana Summit Korea
-
-- Record: `kbw-official-solana-summit-korea-09-30`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-09-30T00:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/solana-summit-korea-2026>
-
-### 솔라나 서밋, 한국에 상륙합니다 🇰🇷
-
-> *English version is available below.
-
-Solana Summit Korea는 한국의 스테이블코인, 규제 프레임워크, 그리고 자본시장의 미래를 그려나갈 기관 중심의 Invite-only 컨퍼런스입니다. 기관 리더, 정책 입안자, 규제 당국, 그리고 디지털 자산 분야를 개척하는 선구자들을 모십니다.
-
-- 일시: 9월 30일 (수) 9:30 - 17:00
-- 장소: 서울 여의도
-  *상세 정보는 승인된 티켓 소지자에게 안내됩니다.
-
-현재 정부가 스테이블코인 제도화를 적극적으로 추진함에 따라, 서울은 글로벌 정책과 기관 금융이 교차하는 독보적인 위치에 서게 되었습니다.
-
-Korea Blockchain Week(KBW) 2026 기간 중 개최되는 본 서밋은 리테일 마케팅을 배제하고, 기관의 실질적 도입, 운영 준비, 그리고 규제 대응에 집중합니다. 스테이블코인 시대를 준비하는 전통 금융기관과 그 전환을 이끄는 글로벌 선구자들이 직접 연결되는 최고 수준의 장을 지향합니다.
-
-공식 웹사이트 (https://summit.superteamkr.com)
-
-### 기대할 수 있는 것
-
-- 한국 금융 허브의 중심: 서울 여의도에서 열리는 기관 중심 컨퍼런스
-- 실행 가능한 인사이트: 솔라나의 주요 전략적 글로벌 파트너들이 전하는 실질적 강연과 임원급 키노트
-- 기관 PoC 쇼케이스: 솔라나 재단과 국내 주요 금융기관이 공동 구축한 개념검증(PoC)의 라이브 시연
-- 최고 수준의 네트워킹: 메인 컨퍼런스 홀과 분리된 네트워킹 공간 및 프라이빗 오찬
-
-### 참석 대상
-
-- 기관: 디지털 자산 관련 실질적 과제를 추진 중인 상업은행, 자산운용사, 증권사, 핀테크의 임원급 리더
-- 정책 입안자 및 규제 당국: 한국의 스테이블코인 및 디지털 자산 입법 프레임워크를 설계하는 관계자 및 자문위원
-- 디지털 자산 선구자: 스테이블코인, RWA, 기관용 DeFi에 집중하는 솔라나 생태계 내 창업자 및 핵심 인프라 구축자
-- 오피니언 리더: 엄선된 기관 리서치 애널리스트 및 최상위 금융-기술 분야 저널리스트
-
-> 초청제 및 신청 기반으로 운영되며, 신청이 곧 승인을 보장하지는 않습니다. 행사장 수용 인원이 제한적인 관계로, 승인을 받은 분만 입장이 가능합니다.
-
-### 솔라나 서밋 참여 신청
-
-스폰서십/파트너십, 혹은 스피커 참여에 관심 있는 기관은 아래 링크를 통해 해당하는 양식을 제출하시거나 이메일로 문의해 주시기 바랍니다.
-
-- 파트너 신청하기 (https://tally.so/r/PdWOg0)
-- 스피커 신청하기 (https://tally.so/r/WOkzqJ)
-- 미디어 패스 신청하기 (https://tally.so/r/dW4dXD)
-
-> 문의: summit@superteamkr.com
-
-> 웹사이트: [summit.superteamkr.com](https://summit.superteamkr.com)
-
-### Solana Summit is Coming To Korea 🇰🇷
-
-Solana Summit Korea 2026 is a private, curated, and invitation-only conference designed to bring together institutional leaders, policymakers, regulators, and digital asset pioneers in a room where real decisions get made.
-
-- September 30, Wed 10:30 - 17:00
-- Yeouido, Seoul
-
-> Please note: Detailed location and entry instructions will be provided to approved ticket holders.
-
-[Official Website](https://summit.superteamkr.com)
-
-The defining institutional gathering shaping the future of stablecoins, regulatory frameworks, and capital markets in Korea.
-
-Korea's current administration is actively legislating a stablecoin framework, uniquely positioning Seoul at the intersection of global policy and institutional finance.
-
-Held during Korea Blockchain Week (KBW) 2026, this summit bypasses retail marketing to focus exclusively on institutional adoption, operational readiness, and regulatory compliance.
-
-It serves as the premier space where traditional financial organizations preparing for the stablecoin era connect directly with the global pioneers driving that transition forward.
-
-### What To Expect
-
-- The Center of Korea's Financial Hub: A focused, high-touch institutional conference located in Yeouido, Seoul.
-- Actionable Insights: Practical talks and executive keynotes from Solana's major strategic global partners.
-- Institutional PoC Showcase: Live demonstrations of Proof of Concepts (PoC) co-built by Superteam Korea and leading Korean financial institutions.
-- High-Caliber Networking: A dedicated executive networking lounge separate from the main conference hall, paired with a networking lunch.
-
-### Who Should Attend?
-
-- Institutions: Executive leaders from commercial banks, asset managers, securities firms, and fintechs with active digital asset mandates.
-- Policymakers & Regulators: Officials and advisors shaping Korea's stablecoin and digital asset legislative framework.
-- Digital Asset Pioneers: Founders and core infrastructure builders within the Solana ecosystem focusing on Stablecoins, RWA, and Institutional DeFi.
-- Thought Leaders: Select institutional research analysts and top-tier financial/tech journalists.
-
-> Entry is invite-only & application-based. Due to venue capacity and the curated nature of the event, registration does not guarantee approval.
-
-### Join Us
-
-For organizations interested in sponsorships, speaking slots, or partnerships, please submit the relevant form or contact us via email.
-
-- Partner Application (https://tally.so/r/PdWOg0 )
-- Speaker Application (https://tally.so/r/WOkzqJ )
-- Media Pass Application (https://tally.so/r/dW4dXD )
-
-> Inquiries: summit@superteamkr.com
-
-> Website: https://summit.superteamkr.com
-
-<a id="event-3b567315ded56010"></a>
-
-## Institutional Privacy Day @ KBW 2026 \| Co-Hosted by Citrea & Four Pillars
-
-- Record: `kbw-official-institutional-privacy-day-09-30`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-09-30T03:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/xnzbz5c6>
-
-### About the event
-
-As institutional capital moves deeper into digital assets, one question is becoming impossible to ignore: how do institutions bring real financial activity on-chain without giving up the privacy and confidentiality their business demands?
-
-Institutional Privacy Day brings together privacy builders, funds, custodians, and policymakers on the sidelines of Korea Blockchain Week for a focused, closed-door conversation on privacy infrastructure for institutional capital.
-
-Institutional Privacy Day is co-hosted by Citrea and Four Pillars.
-
-Who should attend: Institutional investors, fund managers, custodians, exchanges, policymakers, and builders working at the intersection of Bitcoin, privacy, and institutional finance.
-
-This is an invite-only gathering with limited capacity. Apply below - approved guests will receive confirmation and venue details ahead of the event.
-
-### What to expect
-
-- Deep-dive talks and panels on privacy tech for institutional DeFi
-- Perspectives from funds, custodians, and regulators navigating on-chain privacy
-- High-signal networking with the institutional side of the Bitcoin ecosystem
-
-### About Citrea
-
-Citrea is the Bitcoin application layer, enabling institutions and users to access Bitcoin capital markets. With zero-knowledge technology, Citrea expands Bitcoin's utility while remaining anchored to its security model. Access [Bitcoin lending, yield and private BTC at app.citrea.xyz](https://app.citrea.xyz)
-
-### About Four Pillars
-
-Four Pillars is a blockchain research house founded in Seoul in 2023 and backed by Pantera, and Kakao Ventures. The firm has published over 500 research articles and partnered with more than 100 protocols and companies worldwide.
-
-It also provides institutional digital asset research, operates validator infrastructure through FP Validated, and advises traditional financial institutions entering the digital asset market across Asia.
-
-<a id="event-18247c4f1e7896e0"></a>
-
-## Alpha in Seoul - Korean SMA Trading House Roundtable
-
-- Record: `kbw-official-alpha-in-seoul-korean-sma-trading-house-meetup-09-30`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-09-30T06:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/vefqyxer>
-
-### About the event
-
-Korea's API-based SMA (separately managed account) trading houses, together in one room.
-
-Hosted by Silentist, Hedron, Ascend, and Onyx Union - trading houses with proven multi-year track records
-
-What Each House Will Share
-
-- How it views the market & thesis
-- Which inefficiencies it believes are worth trading
-- How those ideas are implemented across exchanges, infrastructure, and client accounts
-- What it learned from its most challenging periods
-- Its track record, presented in its own words
-
-Individual strategies will remain private. A separate fact sheet for each house will be provided.
-
-Who This Is For
-
-- Allocators, family offices, and funds of funds evaluating managed-account structures
-- Brokers, prime services, and custody teams serving APAC allocators
-- A limited number of invited infrastructure and advisory partners
-
-As seating is limited, we are unable to accommodate attendees whose primary purpose is project BD, media coverage, or recruiting.
-
-### Program
-
-- 3:00 PM - Opening & co-host introductions
-- 3:05 PM - House sessions: 10-15 minutes per house, 4 houses
-- 4:00 PM - Panel Q&A: submitted questions followed by live questions from the floor
-- 4:35 PM - Lounge sessions: meet each house to discuss mandates and operating structures directly
-- 5:25 PM - Closing
-
-### Please Note
-
-- Invitation-based; all registrations are subject to approval.
-- This event does not constitute a solicitation or offer of any investment product.
-- Each house will present its approach and track record for informational purposes only.
-- Photography and audio or video recording are not permitted.
-
-Getting There
-
-Dreaum Sky Hall (8F), Seonghong Tower, 138 Teheran-ro - 30 seconds from Yeoksam Station (Line 2). From Walkerhill (KBW main venue): shuttle to Gangbyeon Station, then Line 2 direct to Yeoksam (~30 minutes door to door).
-
-### ***
-
-한국에서 API 기반 SMA(Separately Managed Account)를 운용하는 트레이딩 하우스들이 한자리에 모입니다.
-
-수년 간 시장에서 성과를 증명한 4개의 하우스 - 사일런티스트, 헤드론, 어센드, 오닉스 유니온이 주최합니다.
-
-각 하우스가 공유하는 내용
-
-- 시장을 바라보는 관점과 철학
-- 어떤 시장의 비효율을 타겟하는지
-- 거래소-인프라-고객 계좌 전반에 걸쳐 구현하는 방식
-- 가장 어려웠던 운용 구간에서 얻은 교훈
-- 각 팀의 언어로 설명하는 트랙레코드
-
-개별 전략은 공개하지 않습니다. 각 하우스의 팩트시트는 별도로 제공됩니다.
-
-이런 분들을 위한 자리입니다
-
-- SMA 구조를 검토 중인 얼로케이터-패밀리오피스-FoF
-- APAC 얼로케이터를 담당하는 브로커-프라임 서비스-커스터디 팀
-- 소수의 초청 인프라-자문 파트너
-
-좌석이 제한된 관계로 프로젝트 BD, 미디어 취재 또는 리크루팅을 주된 목적으로 하는 참석은 받기 어렵습니다.
-
-프로그램
-
-- 15:00 - 오프닝 및 공동 주최사 소개
-- 15:05 - 하우스 세션: 4개 하우스, 각 10~15분
-- 16:00 - 패널 Q&A: 사전 접수된 질문 및 현장 질의
-- 16:35 - 라운지 세션: 각 하우스와 위임 구조 및 운용 방식 직접 논의
-- 17:25 - 클로징
-
-안내 사항
-
-- 초청 기반 행사이며, 모든 참가 등록은 승인 절차를 거쳐 확정됩니다.
-- 본 행사는 특정 투자상품에 대한 권유나 청약의 제안이 아닙니다.
-- 각 팀의 운용 접근법과 트랙레코드는 정보 제공 목적으로만 소개됩니다.
-- 행사 중 사진 촬영 및 녹음-녹화는 허용되지 않습니다.
-
-오시는 길
-
-역삼역 도보 30초, 테헤란로 138 성홍타워 8층 스카이홀. 워커힐(KBW 메인 베뉴)에서는 셔틀로 강변역 이동 후 2호선으로 역삼역까지 환승 없이 약 30분입니다.
-
-<a id="event-668127fd74981a47"></a>
-
-## THE NEXT AI & Payment CARNIVAL
-
-- Record: `kbw-official-the-next-ai-payment-carnival-09-30`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-09-30T06:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/zoplh23g>
-
-### Step into the next digital economy. One market, many ways to explore
-
-On September 30, THE NEXT AI & Payment CARNIVAL will take place at Big Place in Gangnam. Co-hosted by Animoca Brands' Minds, MOCA NETWORK, and LINE NEXT's Unifi, this KBW side event combines AI agent experiences, digital payments, fun, and food.
-
-On stage, Animoca Brands Co-Founder Yat Siu will deliver a keynote speech titled "Why Persistent Agents Change the Interface," and all attendees will receive an instant reward worth $50.
-
-The event will feature the unveiling of Minds, an AI agent that remembers user goals and preferences - along with various talks by MOCA NETWORK on agent identity verification and credential utilization.
-
-At the booths, pay for food, drinks, and goods with Unifi using a simple QR code - no different from any everyday payment app. See how stablecoins move from concept to daily life, and experience Unifi's vision for what everyday stablecoin payments can look like, right in the market.
-
-Whether you want to dive deep into products and technology or just drop by to say hello, everyone is welcome. Feel free to attend the sessions that interest you, check out the booths, and enjoy the event!
-
-### Explore the Carnival
-
-- Meet Minds - Discover the vision and product demo behind AI agents that remember your goals and preferences.
-- Pay with Unifi - See Unifi's vision for how stablecoins are becoming part of everyday life, then try it yourself with a simple QR payment for food, drinks, and goods and services at the event. Participating booths and payment instructions will be available on site.
-- Play at the Carnival - Try the claw machines and lucky wheel, and enjoy the atmosphere.
-- Food & Drinks - Explore the F&B booths and make room for a good conversation.
-- The Next Talks - Product demos and partner conversations on how AI, commerce, and payments could change everyday life.
-- Meet Your Next Connection - An afternoon and evening with builders, creators, product teams, and communities.
-- Lucky Draw - Join us for the live prize draw at 7:30 PM.
-
-### On-Site Perks
-
-- City-Wide 10% Off Campaign - Beyond the event, Unifi's 10% discount campaign is live at offline locations all across Seoul. Curious about the details? Stop by the Unifi booth on site for the full scoop.
-- USDT Gacha & F&B Carnival - Try your luck at the on-site USDT gacha for a chance to win up to $100, then dig into the F&B booths and soak up the carnival atmosphere.
-
-### Agenda
-
-3:00-4:00 PM - Carnival Opens
-
-Check in, explore the food and drink booths, enjoy the carnival games, try payments with Unifi, and start meeting people.
-
-4:00-5:30 PM - The Next Talks
-
-The Minds vision and product demo, partner talks, and conversations about practical uses of AI and payments. Detailed sessions and speakers will be announced progressively.
-
-5:30-7:00 PM - Carnival After Hours
-
-Enjoy the market and carnival as evening networking continues with speakers, partners, builders, and the community.
-
-6:00 PM - Lucky Draw
-
-A live prize draw during evening networking.
-
-### Who Should Join
-
-- Founders and builders creating AI agents and new products
-- Product teams working across commerce, payments, wallets, and Web3
-- KOLs and creators exploring the intersection of games, content, IP, and technology
-- Community operators, investors, and media looking for new collaborations
-- Anyone curious to experience AI and digital assets in everyday use
-
-Come for what's next. Stay for the fun.
-
-Co-hosted by Minds by Animoca Brands and Unifi by LINE NEXT. Additional speakers and partners will be announced progressively.
-
-The program and booth operating hours are subject to change. Booth pricing and instructions for games and the lucky draw will be announced separately.
-
-This event is for informational and networking purposes only and does not constitute financial or investment advice.
-
-[About Animoca Brands](https://www.animocabrands.com/?utm_source=luma)
-
-Animoca Brands is a global digital assets leader building and investing in impactful technologies and ecosystems to reimagine future economies through AI and the agentic web. It is is recognized for building digital asset platforms such as the Moca Network, Open Campus, Anichess, and The Sandbox, as well as institutional-grade platforms; providing digital asset services to help Web3 companies launch and grow; and investing in frontier Web3 technology, with a portfolio of over 600 companies and digital assets.
-
-[About Minds by Animoca Brands]
-
-Minds by Animoca Brands is a persistent AI agent platform that removes complexity while preserving full control and customization for both builders and general users. It enables anyone to deploy and direct sovereign, always-on AI agents, called Minds, without having to operate local servers or [manage any hardware or software. Learn more at hellominds.ai](https://hellominds.ai).
-
-[About AIR]
-
-AIR provides infrastructure for decentralized identity, money and loyalty. Through one integration stack, businesses can use AIR Identity to acquire and verify users through selective disclosure, sharing only the attributes each check requires; AIR Money to integrate payments, payouts, and settlement; and AIR Loyalty to run programmable rewards with points that settle at a fixed rate. AIR extends the same model to AI agents, granting scoped, verifiable authority to act for users and businesses. AIR is built by Moca Network, the identity network of Animoca Brands.
-
-### AI부터 먹거리까지, 즐길 거리 가득한 KBW 마켓
-
-9월 30일, 강남 Big Place에서 THE NEXT AI & Payment CARNIVAL이 열립니다. Animoca Brands의 Minds, MOCA NETWORK, 그리고 LINE NEXT의 Unifi가 함께 준비한 이번 행사는 AI 에이전트 체험과 디지털 결제에 놀이와 먹거리를 더한 KBW 사이드 이벤트입니다.
-
-무대에서는 애니모카 브랜즈 공동 창업자 얏 시우(Yat Siu)의 "Why Persistent Agents Change the Interface" 기조연설이 진행되며, 현장을 방문하신 모든 분께 $50 상당의 리워드를 즉시 지급해 드립니다.
-
-사용자의 목표와 선호를 기억하는 AI 에이전트 Minds의 공개와 에이전트의 신원 검증 및 자격증명 활용법을 다루는 MOCA NETWORK의 다양한 토크가 펼쳐집니다.
-
-부스에서는 Unifi로 음식과 음료, 현장 상품을 QR 결제로 간편하게 결제하며, 스테이블코인이 '개념'을 넘어 우리 일상의 결제 수단으로 자리잡아가는 과정을 마켓 현장에서 직접 체험하실 수 있습니다. Unifi가 그리는 '일상 속 스테이블코인' 비전을 눈으로 확인하고, 손으로 직접 결제해 보세요.
-
-제품과 기술 이야기부터 가벼운 인사까지 모두 환영합니다. 관심 있는 세션을 듣고 부스를 둘러보며 편하게 즐겨주세요!
-
-### 주요 즐길 거리
-
-- Minds AI 데모 - 사용자의 목표와 선호를 기억하는 AI 에이전트가 어떻게 작동하는지 현장에서 확인해 보세요.
-- 인형뽑기 & 에어볼 - 인형뽑기와 룰렛에 도전하며 행사를 더욱 즐겁게 보내세요.
-- F&B 부스 - 다양한 음식과 음료를 즐기며 함께 온 사람들, 현장에서 만난 사람들과 이야기를 나눠보세요.
-- AI & 결제 토크 - AI와 디지털 결제가 일상에서 어떻게 쓰이는지, 제품을 만드는 팀들의 이야기를 들어보세요.
-- 네트워킹 - 빌더, 크리에이터, 제품팀, 커뮤니티 관계자들과 자유롭게 교류하세요.
-- 경품 추첨 - 오후 7시 30분에는 현장 경품 추첨이 진행됩니다.
-
-### 행사 일정
-
-오후 3-4시 - 마켓 오픈 & 네트워킹
-
-체크인 후 F&B 부스와 인형뽑기-룰렛을 즐겨보세요. Unifi 현장 결제와 자유로운 네트워킹도 시작됩니다.
-
-오후 4-5시 반 - The Next Talks
-
-Minds의 비전과 제품 데모, 파트너 토크를 통해 AI와 디지털 결제의 활용 사례를 살펴봅니다. 세부 프로그램과 연사는 순차적으로 공개됩니다.
-
-오후 5시반-7시 - Market After Hours
-
-세션이 끝난 뒤에는 먹거리와 게임을 즐기며 저녁 네트워킹을 이어갑니다. 연사와 참가자들을 만나 세션에서 궁금했던 이야기, 함께해 보고 싶은 아이디어를 나눠보세요.
-
-오후 6시 - 경품 추첨
-
-### 이런 분들께 추천합니다
-
-- AI 에이전트와 새로운 서비스를 만드는 창업가-개발자
-- B2C/컨슈머 서비스의 그로스, 프로덕트, 컴플라이언스 리드
-- AI 서비스와 디지털 자산 결제를 직접 경험해 보고 싶은 분
-- 게임, 콘텐츠, IP에 AI를 접목하고 싶은 KOL 및 크리에이터
-- 커머스, 결제, 지갑 및 Web3 서비스를 기획하고 운영하는 팀
-
-[Animoca Brands 소개]
-
-Animoca Brands는 AI와 에이전틱 웹(agentic web)을 통해 미래 경제를 재구상하며, 영향력 있는 기술과 생태계를 구축하고 투자하는 글로벌 디지털 자산 선도 기업입니다. Moca Network, Open Campus, Anichess, The Sandbox와 같은 디지털 자산 플랫폼 및 기관급 플랫폼 구축으로 널리 알려져 있습니다. 또한 Web3 기업의 출범과 성장을 돕는 디지털 자산 서비스를 제공하며, 600개 이상의 기업 및 디지털 자산 포트폴리오를 바탕으로 차세대 Web3 기술에 투자하고 있습니다.
-
-[Minds by Animoca Brands 소개]
-
-Minds by Animoca Brands는 개발자와 일반 사용자 모두에게 완전한 제어권과 맞춤 설정 기능을 제공하면서도 복잡성을 제거한 영구형 AI 에이전트 플랫폼입니다. 로컬 서버를 가동하거나 별도의 하드웨어 및 소프트웨어를 관리할 필요 없이, 누구나 'Minds'라고 불리는 지속적으로 작동하는 주권적 [AI 에이전트를 배포하고 지시할 수 있습니다. 자세한 내용은 hellominds.ai](https://hellominds.ai)에서 확인할 수 있습니다.
-
-[AIR 소개]
-
-AIR는 탈중앙화된 신원(Identity), 금융(Money), 로열티(Loyalty)를 위한 인프라를 제공합니다. 기업은 단 하나의 통합 스택을 통해 다음 기능들을 활용할 수 있습니다.
-
-- AIR Identity: 각 검증에 필요한 속성만 선택적으로 공개하여 사용자를 확보하고 검증
-- AIR Money: 결제, 정산 및 지급 기능 통합
-- AIR Loyalty: 고정 환율로 정산되는 포인트를 활용한 프로그래밍 가능 리워드 운영
-
-AIR는 동일한 모델을 AI 에이전트로 확장하여, 사용자 및 기업을 대리해 행동할 수 있는 범위 지정 및 검증 가능한 권한을 부여합니다. AIR는 Animoca Brands의 신원 네트워크인 Moca Network에 의해 개발되었습니다.
-
-<a id="event-b674f06ecea6d7cb"></a>
-
-## Token Sale Summit 2026 - Korea Blockchain Week
-
-- Record: `kbw-official-token-sale-summit-2026-09-30`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-09-30T06:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/jh3ulvtq>
-
-### About the event
-
-Join us for an exclusive Token Sale Summit during Korea Blockchain Week, designed for founders, C-suites and project leaders preparing a token sale (TGE) or rethinking their launch plan for today's market.
-
-Token sales in 2026 work differently from previous cycles. Most capital is now raised in private rounds before any public allocation opens, and the public sale has become a distribution and community event rather than the main fundraise.
-
-In this invite-only session, our TokenMinds expert team will share practical strategies for this new environment.
-
-Date: Wednesday, September 30, 2026 (during Korea Blockchain Week)
-
-Time: 3:00 PM - 4:00 PM (KST)
-
-Location: Seoul, South Korea
-
-Admission: Free (RSVP required)*
-
-*Attendance will be carefully curated, please register to be considered.
-
-### Key Takeaways
-
-- Token Sale setup for 2026, including round structure (private to public route), tokenomics, whitepaper, legal framework and more
-- Choosing, and getting selected for, the right launchpads and platforms under today's stricter vetting and compliance
-- Token Sale marketing strategies for a more selective market
-- Post-TGE liquidity, listings & market engagement
-
-### Why now
-
-Token sale has become more selective now. Exchanges, launchpads and regulators ask sharper questions about sale terms, token rights and unlock schedules, and retail buyers do the same. This session helps you finalize a launch plan that holds up under that scrutiny before the year-end window closes.
-
-### Hosted by TokenMinds
-
-TokenMinds is an award-winning blockchain and AI firm that has run token sales since 2017, supporting 150+ projects through the ICO boom, the IEO phase, DeFi Summer, the NFT wave and today's launchpad era. TokenMinds provides end-to-end support, from concept and implementation to advisory and maintenance. TokenMinds ensures comprehensive solutions by combining strategic engineering, creative approach, and market analysis. It has been recognized as a leading Web3 and AI company by renowned organizations such as Hackernoon, Metapress, Coinranking, and more.
-
-Important Notes: This is an exclusive summit with a curated guest list. Registration does not guarantee admission; approvals will be sent to selected attendees.
 
 <a id="event-c372efe47a06780a"></a>
 
@@ -10958,112 +10319,6 @@ Interested in sponsoring or partnering with this event? Please contact Kevin:
 [Telegram: @kevin_km_wang](https://t.me/kevin_km_wang)
 
 Email: kevin@pharos.xyz
-
-<a id="event-818bcb69f1935057"></a>
-
-## The Best Event: Sundown
-
-- Record: `kbw-official-the-best-event-sundown-09-30`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-09-30T06:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/tbe-kbw26>
-
-### About the event
-
-While the sun's going down in Seoul, The Best Event is once again bringing the whole Web3 crowd together for an evening you won't want to miss. Expect free drinks flowing all night, great conversations, and the same event quality The Best Event is known for. If you've been to one of these before, you already know. If you haven't, well, now's your chance.
-
-This isn't your average networking mixer with awkward small talk and business card exchanges. Come meet the people building the future of Web3, swap ideas, make real connections, and enjoy a few drinks while the sun sets on what's shaping up to be a great night.
-
-It's happening at Fountain, right in the centre of Itaewon's main hub. One of Seoul's most popular multi-level cocktail bars and lounges, this iconic venue has the best cocktails and YOU will make it the best crowd.
-
-See you there.
-
-### Hosted By
-
-[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
-
-For sponsor inquiries [for upcoming events, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.
-
-[TBV](http://www.tbv.xyz/?utm_source=luma) (TB Ventures) is a VC fund focused on leading rounds in early-stage web3 companies in South East Asia and North America. TBV is supported by TBE (TB Events) and TBA (TB Advisory), creating a network of services that are underpinned by a 100k+ social following and 10k+ active TG community.
-
-[Golden Ratio Group](https://goldenratiogroup.co/) is a European-focused, MiCA-aligned ecosystem bridging traditional finance and digital assets through instant trading, borderless payments, and tokenized real-world assets.
-
-[Brickken](http://www.brickken.com/?referrer=luma&utm_source=luma) is an institutional-grade software provider delivering end-to-end infrastructure for the compliant tokenization and management of real-world assets (RWA).
-
-[EAK Digital](https://eakdigital.com/)is an award-winning global Web3 communications and marketing agency specialising in strategic communications, public relations, influencer marketing, brand development and live experiences.
-
-<a id="event-64bb298566194c6f"></a>
-
-## R25 2.0 Genesis Curator Meetup — Seoul
-
-- Record: `kbw-official-r25-2-0-genesis-curator-meetup-seoul-09-30`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-09-30T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/cdq9hzss>
-
-### About the event
-
-R25 2.0 Genesis Curator Program
-
-[R25](https://www.r25.xyz/) is the institutional-grade on-chain vault infrastructure for the next generation of finance. As we launch R25 2.0, we are inviting a select group of institutional curators, crypto funds, market makers, and ecosystem partners to join the Genesis Curator Program - the first cohort to build, deploy, and scale structured vaults on R25.
-
-This invite-only meetup, held during Korea Blockchain Week, is where strategy meets infrastructure. We will showcase how real-world and digital assets are transformed into standardized, programmable vaults - and how curators can turn their strategies into investable, on-chain products with global distribution.
-
-### What to expect
-
-- Live vault examples and real strategy showcases from Genesis curators.
-- A hands-on Strategy Studio demo - from strategy to deployable vault.
-- The Curator Playground, where you can test and deploy a vault on-site.
-- Private 1:1 meetings with R25 leadership, capital partners, and distribution channels.
-- Networking with institutional capital, crypto funds, and market makers building in Korea.
-
-### Who should attend
-
-- Institutional curators and asset managers exploring on-chain vaults.
-- Crypto funds and market makers seeking new distribution and yield infrastructure.
-- Capital allocators, family offices, and treasury teams.
-- Media, KOLs, and ecosystem partners covering the next generation of on-chain asset management.
-
-Space is limited. Request an invite to join the Genesis cohort.
-
-### Agenda
-
-4:00 - 4:15 PM - Registration & Networking
-
-- Check-in, badge pickup, and warm-up introductions.
-- Early networking with curators, funds, and market makers.
-
-4:15 - 4:20 PM - Introducing R25 2.0
-
-- Setting the market narrative for institutional-grade on-chain vault infrastructure.
-- Why R25 is building the vault layer for the next generation of finance.
-
-4:20 - 4:40 PM - Genesis Curator Showcase
-
-- Live demonstration of a real strategy vault.
-- Curator perspectives on building, deploying, and scaling strategies on R25.
-
-4:40 - 4:50 PM - R25 Distribution Channel Partner
-
-- How R25 vaults reach institutional and retail capital.
-- Distribution rails connecting vaults to global capital networks.
-
-4:50 - 5:00 PM - Strategy Studio: From Strategy to Vault
-
-- How investment strategies become investable on-chain products.
-- Walkthrough of the vault creation workflow - from asset selection to deployment.
-
-5:00 - 5:30 PM - Curator Playground
-
-- On-site hands-on session: test and deploy a strategy vault via R25.
-- Live support from the R25 team.
-
-5:30 - 6:00 PM - VIP Networking / 1:1 Meetings
-
-- Private 1:1 meetings with R25 leadership and capital partners.
-- Convert relationships into BD and partnership opportunities.
 
 <a id="event-0c149e6fe6a019f9"></a>
 
@@ -23011,40 +22266,6 @@ X: @pudgypenguinsWebsite: pudgypenguins.com
 
 Fracton Ventures
 
-<a id="event-39b81f73e1383a76"></a>
-
-## Startup Village Chitwan
-
-- Record: `luma-batch-KQkIiD9NTVDJXXk`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T05:45:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/hxlpa8x4>
-
-### About the event
-
-Join us at the Startup Village for Nepal's best builders working on Solana projects, aiming for the crypto world's fair hackathon. Come learn, earn, and build together, and have the time of your life.
-
-What you can expect:
-
-Accommodation in dorms/on a sharing basis
-
-Breakfast, Lunch, Dinner & Tea/Coffee
-
-Workstations with charging points & WiFi
-
-Top-quality peer group shipping alongside you
-
-If you have multiple team members, each of them will have to apply individually as well.
-
-### Hosts
-
-Hosted by Superteam Nepal, Ronak Raj Rauniyar.
-
-### Event details
-
-The event takes place on September 25. Venue: Tigerland Safari - Lemon Tree Resort, Tigerland Safari - Lemon Tree Resort, Chitwan National Park, Narayani, Bagmati Province 44200, Nepal.
-
 <a id="event-32fcb787829d388c"></a>
 
 ## The/Garage Cohort 2 - Housing
@@ -23361,56 +22582,6 @@ Switzerland is one of Europe's most established hubs for fintech, digital assets
 
 Participation is curated and subject to selection.
 
-<a id="event-89752ba943f0f36e"></a>
-
-## What are Quantum computers and why should you care?
-
-- Record: `luma-batch-evt76rPztNPHTqhD`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-30T01:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/jyb1fz3j>
-
-### About the event
-
-What quantum computers are, why they break the maths behind Bitcoin, and what is being done about it.
-
-Quantum computers are becoming useful devices rather than just research tools. Beyond modeling the real world, they can speed up cryptographic calculations. Most notably, reversing the encryption used by Bitcoin, bank transfers, and much of the web. Governments and banks already have a published plan for moving to quantum-safe cryptography. Bitcoin, many chains, and most exchanges have not yet published plans. The urgency has increased now that big public quantum companies are giving a roadmap for a break; IonQ is saying late 2028. Two problems need solving: migration to post-quantum addresses and the coins-left-behind problem. How will we handle Satoshi's original coins?
-
-This session explains what a quantum computer is and how it is different from the computers we use today. It shows, in everyday terms, why a large enough quantum computer could break the secret key that protects a Bitcoin, something no ordinary computer could do in any realistic amount of time. It then gives a fair overview of the ideas the Bitcoin community is considering, along with a quick survey of other chains, followed by open discussion.
-
-No background in physics, cryptography, or programming is needed. You will leave understanding the problem well enough to explain it to someone else, knowing what options are on the table, and knowing what, if anything, you should do today.
-
-Speaker: James Tagg, inventor with over 200 patents, founder of Truphone, and co-founder of the Penrose Institute.
-
-Streaming link: https://www.youtube.com/c/Edgewallet/streams
-
-Hosted by Edge.app & QSAVE, where James and his team are building post-quantum key protection for Bitcoin and other chains.
-
-<a id="event-9c312fafd06470ef"></a>
-
-## Stellar Lounge Korea
-
-- Record: `luma-batch-evtyhFDuYEifgjbA`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-30T02:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/stellarloungekorea>
-
-### About the event
-
-Korea Blockchain Week brings the world's most influential founders, builders, and institutions to Seoul and we're making sure you have somewhere great to land between sessions.
-
-Need a moment off the conference floor? Come join us at Stellar Lounge Korea.
-
-We've taken over 121 Fiat Cafe - just a 5-minute walk from the main venue - to create a cozy space to relax and recharge during KBW. Drop in for a coffee, take that meeting, or pull up a chair with the people building on Stellar.
-
-Bites and drinks on us. Stay as long as you like.
-
-### Event details
-
-Organized by SDF. Venue: Seoul, South Korea, Seoul, South Korea. Tickets: Free.
-
 <a id="event-59720994991a100a"></a>
 
 ## Web3 AI Seoul 2026: Artist Agent
@@ -23509,34 +22680,6 @@ AINA의 독창적인 시선으로 풀어내는 작품 스토리를 통해 예술
 
 Web3의 미래가 단순한 기술을 넘어 왜 '문화적 울림'으로 확장될 수밖에 없는지, 이번 전시에서 그 명확한 해답을 발견해보시기 바랍니다.
 
-<a id="event-8fba452355f368fd"></a>
-
-## Trading Workshop: Making Sense of Crypto
-
-- Record: `luma-batch-evt1fn1QcsOeuXbg`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-30T03:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/nnp60kyd>
-
-### About the event
-
-Before the Event
-
-To help you enjoy a smoother experience on the day, we recommend setting up your OKX Australia account before attending.
-
-It only takes around 5 minutes, and completing it in advance means you'll have more time to focus on the workshop, ask questions and connect with others.
-
-If you don't have an OKX Australia Account, create one before the event
-
-Once registered, you'll be able to find your UID in your account
-
-KYC verification How to Complete Your KYC Verification on OKX
-
-### Event details
-
-Organized by Personal. Venue: Brisbane City, Queensland, Australia. Tickets: Free.
-
 <a id="event-7402571f82e57267"></a>
 
 ## BAYC 성수 브랜드 팝업
@@ -23582,28 +22725,6 @@ Date: September 30 - October 4, 2026
 Location: Seongsu, Seoul
 
 Select experiences, merchandise, and giveaways will be available in limited quantities and while supplies last.
-
-<a id="event-f8b8267077bc3c3e"></a>
-
-## Upside Private Mainnet Launch
-
-- Record: `luma-batch-evt4BoSyI6IEbOX0`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-30T05:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/m9ap2ft1>
-
-### About the event
-
-We believe the future of finance won't be built by just a handful of institutions. We believe it will be built by millions of humans and billions of AI agents together creating markets for assets worth trillions.
-
-We have been hard at work to bring you Upside - a blockchain purpose-built to deliver uncompromising performance and trading experience.
-
-Join us for the launch of Upside's private mainnet in Seoul.
-
-### About Upside
-
-Upside is a blockchain purpose-built for trading, where millions of humans and billions of AI agents are able to create, own, operate and trade financial markets for assets worth trillions fully onchain, permissionlessly, borderlessly and 24/7. Visit https://upsidemax.xyz to learn more.
 
 <a id="event-2f0a49724808912c"></a>
 
@@ -24043,38 +23164,6 @@ YZi Labs의 포트폴리오는 6개 대륙 25개국 이상에 걸쳐 300개가 �
 
 YZi Labs는 2026년 8월 SmartX를 인큐베이팅하고 투자했습니다.
 
-<a id="event-a068744d53fe0e76"></a>
-
-## MME's Web3 Breakfast: Coffee, Croissants & Crypto Law
-
-- Record: `luma-batch-evtFH1KIW8N3Spa7`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-30T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/a7cb1quh>
-
-### About the event
-
-Start your second day at CV Summit 2026 - Switzerland's premier gathering for blockchain, AI, and digital assets innovators - with fresh coffee, warm croissants, and inspiring conversations.
-
-Before immersing yourself once again in the energy, ideas, and opportunities of the summit, join us for a relaxed morning meetup designed to spark new connections and meaningful discussions. Meet fellow founders, investors, builders, and visionaries shaping the future of the digital economy.
-
-Take this opportunity to exchange perspectives with MME's Web3 specialists and explore the legal, tax, and regulatory developments that matter most to your business.
-
-MME Zurich Office, Zollstrasse 62, Floor 5
-
-Wednesday, Sept 30
-
-9 - 11 a.m.
-
-Whether you are scaling a project, navigating new markets, or preparing for the next wave of innovation, we look forward to sharing insights and ideas over breakfast.
-
-About CV Summit: www.cvsummit.ch
-
-About MME: www.mme.ch
-
-We look forward to welcoming you!
-
 <a id="event-6a228663bc669875"></a>
 
 ## 🌐Ave.ai KBW Commemorative Thanksgiving Dinner
@@ -24160,34 +23249,6 @@ Powered By:
 The Best Event is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
 
 For sponsor inquiries for upcoming events, please contact Mihir via Telegram or email mihir@tbv.xyz.
-
-<a id="event-1db3e28d20c81008"></a>
-
-## Weekly Pitch Practice #3
-
-- Record: `luma-batch-8LNB8L3t1PGE6le`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-30T08:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/superteam-u5r4>
-
-### About the event
-
-Three to five minutes to pitch. Five to seven minutes of honest feedback.
-
-Week three pitch practice. Pitch practice runs every Wednesday of the hackathon. Book a slot, pitch for three to five minutes, and get five to seven minutes of direct feedback on the idea, the framing and the delivery.
-
-The feedback is honest and specific. The point is not encouragement, it's finding the thing that isn't landing while there's still time to fix it. Most teams pitch more than once across the four weeks, and the difference between week one and week four is usually obvious.
-
-Watching is open to everyone. You'll learn nearly as much from other people's feedback as your own, and it's a low-pressure way to see what a good Colosseum pitch sounds like.
-
-Who it's for: Teams and solo builders entering Colosseum, at any stage of readiness.
-
-You'll leave with: A sharper pitch, and a clear list of what to fix before next week.
-
-Book a pitch slot when you register, or just come and watch.
-
-https://au.superteam.fun/colosseum for more information
 
 <a id="event-92245fd06a8be117"></a>
 
@@ -39931,131 +38992,6 @@ DIGITAL AF (하나됨 - "unity")는 현대 미술, 기술, 게임, 그리고 한
   - 주최: Wildcat × Digital AF
   - 서울에서 만나요.
 
-<a id="event-1e9255c34e7bb6a5"></a>
-
-## Solana Summit Korea
-
-- Record: `luma-host-evt-evt-xf0qHgukzEbjKNO`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-30T00:30:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/solana-summit-korea-2026>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-9247e495e9bb180d"></a>
-
-## Solana Summit Korea
-
-- Record: `w3v-solana-summit-korea`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-30T00:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/solana-summit-korea-2026>
-
-### 솔라나 서밋, 한국에 상륙합니다 🇰🇷
-
-> *English version is available below.
-
-Solana Summit Korea는 한국의 스테이블코인, 규제 프레임워크, 그리고 자본시장의 미래를 그려나갈 기관 중심의 Invite-only 컨퍼런스입니다. 기관 리더, 정책 입안자, 규제 당국, 그리고 디지털 자산 분야를 개척하는 선구자들을 모십니다.
-
-- 일시: 9월 30일 (수) 9:30 - 17:00
-- 장소: 서울 여의도
-  *상세 정보는 승인된 티켓 소지자에게 안내됩니다.
-
-현재 정부가 스테이블코인 제도화를 적극적으로 추진함에 따라, 서울은 글로벌 정책과 기관 금융이 교차하는 독보적인 위치에 서게 되었습니다.
-
-Korea Blockchain Week(KBW) 2026 기간 중 개최되는 본 서밋은 리테일 마케팅을 배제하고, 기관의 실질적 도입, 운영 준비, 그리고 규제 대응에 집중합니다. 스테이블코인 시대를 준비하는 전통 금융기관과 그 전환을 이끄는 글로벌 선구자들이 직접 연결되는 최고 수준의 장을 지향합니다.
-
-공식 웹사이트 (https://summit.superteamkr.com)
-
-### 기대할 수 있는 것
-
-- 한국 금융 허브의 중심: 서울 여의도에서 열리는 기관 중심 컨퍼런스
-- 실행 가능한 인사이트: 솔라나의 주요 전략적 글로벌 파트너들이 전하는 실질적 강연과 임원급 키노트
-- 기관 PoC 쇼케이스: 솔라나 재단과 국내 주요 금융기관이 공동 구축한 개념검증(PoC)의 라이브 시연
-- 최고 수준의 네트워킹: 메인 컨퍼런스 홀과 분리된 네트워킹 공간 및 프라이빗 오찬
-
-### 참석 대상
-
-- 기관: 디지털 자산 관련 실질적 과제를 추진 중인 상업은행, 자산운용사, 증권사, 핀테크의 임원급 리더
-- 정책 입안자 및 규제 당국: 한국의 스테이블코인 및 디지털 자산 입법 프레임워크를 설계하는 관계자 및 자문위원
-- 디지털 자산 선구자: 스테이블코인, RWA, 기관용 DeFi에 집중하는 솔라나 생태계 내 창업자 및 핵심 인프라 구축자
-- 오피니언 리더: 엄선된 기관 리서치 애널리스트 및 최상위 금융-기술 분야 저널리스트
-
-> 초청제 및 신청 기반으로 운영되며, 신청이 곧 승인을 보장하지는 않습니다. 행사장 수용 인원이 제한적인 관계로, 승인을 받은 분만 입장이 가능합니다.
-
-### 솔라나 서밋 참여 신청
-
-스폰서십/파트너십, 혹은 스피커 참여에 관심 있는 기관은 아래 링크를 통해 해당하는 양식을 제출하시거나 이메일로 문의해 주시기 바랍니다.
-
-- 파트너 신청하기 (https://tally.so/r/PdWOg0)
-- 스피커 신청하기 (https://tally.so/r/WOkzqJ)
-- 미디어 패스 신청하기 (https://tally.so/r/dW4dXD)
-
-> 문의: summit@superteamkr.com
-
-> 웹사이트: [summit.superteamkr.com](https://summit.superteamkr.com)
-
-### Solana Summit is Coming To Korea 🇰🇷
-
-Solana Summit Korea 2026 is a private, curated, and invitation-only conference designed to bring together institutional leaders, policymakers, regulators, and digital asset pioneers in a room where real decisions get made.
-
-- September 30, Wed 10:30 - 17:00
-- Yeouido, Seoul
-
-> Please note: Detailed location and entry instructions will be provided to approved ticket holders.
-
-[Official Website](https://summit.superteamkr.com)
-
-The defining institutional gathering shaping the future of stablecoins, regulatory frameworks, and capital markets in Korea.
-
-Korea's current administration is actively legislating a stablecoin framework, uniquely positioning Seoul at the intersection of global policy and institutional finance.
-
-Held during Korea Blockchain Week (KBW) 2026, this summit bypasses retail marketing to focus exclusively on institutional adoption, operational readiness, and regulatory compliance.
-
-It serves as the premier space where traditional financial organizations preparing for the stablecoin era connect directly with the global pioneers driving that transition forward.
-
-### What To Expect
-
-- The Center of Korea's Financial Hub: A focused, high-touch institutional conference located in Yeouido, Seoul.
-- Actionable Insights: Practical talks and executive keynotes from Solana's major strategic global partners.
-- Institutional PoC Showcase: Live demonstrations of Proof of Concepts (PoC) co-built by Superteam Korea and leading Korean financial institutions.
-- High-Caliber Networking: A dedicated executive networking lounge separate from the main conference hall, paired with a networking lunch.
-
-### Who Should Attend?
-
-- Institutions: Executive leaders from commercial banks, asset managers, securities firms, and fintechs with active digital asset mandates.
-- Policymakers & Regulators: Officials and advisors shaping Korea's stablecoin and digital asset legislative framework.
-- Digital Asset Pioneers: Founders and core infrastructure builders within the Solana ecosystem focusing on Stablecoins, RWA, and Institutional DeFi.
-- Thought Leaders: Select institutional research analysts and top-tier financial/tech journalists.
-
-> Entry is invite-only & application-based. Due to venue capacity and the curated nature of the event, registration does not guarantee approval.
-
-### Join Us
-
-For organizations interested in sponsorships, speaking slots, or partnerships, please submit the relevant form or contact us via email.
-
-- Partner Application (https://tally.so/r/PdWOg0 )
-- Speaker Application (https://tally.so/r/WOkzqJ )
-- Media Pass Application (https://tally.so/r/dW4dXD )
-
-> Inquiries: summit@superteamkr.com
-
-> Website: https://summit.superteamkr.com
-
-<a id="event-59e11b715727e99e"></a>
-
-## The 0x Poker Table
-
-- Record: `w3v-0x-poker-table-26-09-30`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-30T02:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/15txc5ww>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-b9dfb358e42154aa"></a>
 
 ## Web3 AI Seoul 2026: Artist Agent
@@ -40080,83 +39016,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-829ee67f4baeb88c"></a>
-
-## Institutional Onchain: RWAs & Stablecoins📍Seoul, South Korea \| 🗓 Sep 29 - Oct 1\| During Korea Blockchain Week
-
-- Record: `w3v-institutional-onchain-rwas--stablecoins`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-30T05:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/qsfjc56x>
-
-### About the Event
-
-Institutional Onchain: RWAs & Stablecoins is a focused forum for institutions, funds, market makers, and protocol teams exploring how real-world assets and stablecoin infrastructure are reshaping global capital markets.
-
-This event is designed to cut through narratives and focus on what is actually being deployed onchain today and what institutions need next in terms of settlement, compliance, liquidity, and capital efficiency.
-
-### Topics You'll See
-
-- Tokenized RWAs: bonds, funds, and real-world yield
-- Stablecoin infrastructure and settlement layers
-- Institutional capital flows into DeFi
-- Compliance, custody, and onchain risk frameworks
-- Market design for institutional liquidity
-- Cross-border payments and onchain treasuries
-
-### What to Expect
-
-- Senior operators from funds, TradFi, and crypto infrastructure
-- Case studies from live institutional deployments
-- Thoughtful panels and closed-door discussions
-- High-quality networking with capital allocators and builders
-- A serious, signal-driven environment
-
-### Past Activations
-
-##
-
-### Agenda (Indicative)
-
-16:00 - 16:30 | Institutional Networking & Welcome
-
-16:30 - 17:00 | Panel: RWAs & Stablecoin Settlement
-
-17:15 - 17:30 | Keynote: Institutional Onchain Infrastructure
-
-17:45 - 18:15 | Panel: AI in Institutional Markets
-
-18:20 - 18:35 | Fireside Chat
-
-18:35 - 19:00 | Open Roundtable & Networking
-
-19:00 | Close
-
-- To discuss sponsorship opportunities, feel free to reach out on Telegram: @saurabh_0x
-
-### Past Events
-
-https://luma.com/3loqk0iz
-
-https://luma.com/zn02vlx2
-
-https://luma.com/wxa40k7a
-
-https://luma.com/7obq3bf2
-
-<a id="event-6b4ba48abe1be268"></a>
-
-## Upside Private Mainnet Launch
-
-- Record: `w3v-upside-private-mainnet-launch-26-09-30`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-30T05:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/m9ap2ft1>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-5bd05f12532026f3"></a>
 
 ## Trading Floor on the Han River · KBW SIDE EVENT
@@ -40166,18 +39025,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-09-30T06:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/5r4qb76u>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-1196e0f2f4836ab1"></a>
-
-## MME's Web3 Breakfast: Coffee, Croissants & Crypto Law
-
-- Record: `luma-evt-FH1KIW8N3Spa70k`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-30T07:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/a7cb1quh>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -61848,6 +60695,18 @@ The reception is hosted at an upscale hospitality venue in central Mumbai on Wed
 
 Tickets are complimentary but strictly invitation-only and subject to manual review. Founders must provide a project overview, and investors must verify their fund affiliation when requesting an RSVP.
 
+<a id="event-354d5eb6e7fd82b2"></a>
+
+## FORWARD - WOMEN'S HEALTH SUMMIT
+
+- Record: `luma-evt-Wh9NlYi9GwQqF2J`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T17:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/wkt3e8lq>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-cf5698c19b5f4f87"></a>
 
 ## Bitcoin 101
@@ -61860,6 +60719,18 @@ Tickets are complimentary but strictly invitation-only and subject to manual rev
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-e33cef5c3f8859e7"></a>
+
+## Wednesday RIPPLE Making for Adults
+
+- Record: `luma-evt-GyFA3IbvJA5LHYv`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T18:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/mzei2fr5>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-71abbd17425101a4"></a>
 
 ## Open Bitcoin Q&A chat!
@@ -61869,6 +60740,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-04T20:00:00-05:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/philadelphia-bitcoin-club/events/316047399/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-1efae612051729df"></a>
+
+## Agentic Payments Startup Pitches & Institutional Digital Assets Panel \| Plug and Play's Crypto & Digital Assets Expo @ Silicon Valley Summit
+
+- Record: `luma-evt-GKvPT4GmbkMhIGo`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T21:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/xfm2b1yr>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -61911,6 +60794,18 @@ A Bitcoin developer conference focused on transaction privacy, with talks and wo
 ### About the event
 
 Unchained Summit India takes place at Courtyard by Marriott Mumbai International Airport on November 5 and 6. Day one focuses on markets, finance and digital assets; day two covers Web3 infrastructure and emerging technology. Daily clock times have not been verified.
+
+<a id="event-81b9c2ff21e3310e"></a>
+
+## Silicon Valley Capital for Democracy Roundtable
+
+- Record: `luma-evt-FmzXFA6C2S6GcK7`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T00:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/capital-for-democracy>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-6d35678af3c56ea0"></a>
 
@@ -62202,7 +61097,7 @@ An organizer description has not been verified for this record. Any previous cop
 
 <a id="event-9f894a4abfe552af"></a>
 
-## Pragma Mumbai 2026
+## Pragma Mumbai @ Devcon 8
 
 - Record: `luma-host-evt-evt-kMiEnUFXe3rtY7k`
 - Source: [events-cache.json](sources/events-cache.json)
@@ -62340,6 +61235,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-06T12:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/i4bpbsxn>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-08d45fbdfc308f4f"></a>
+
+## Devcon Girlies Diwali Party in Mumbai
+
+- Record: `w3v-devcon-girlies-diwali-party-in-mumbai`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-06T13:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/4jt54kqx>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -63172,6 +62079,18 @@ Seats are intentionally limited.
 - Starts: 2026-11-13T17:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/6b8uss6b>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-7a9b3be480332650"></a>
+
+## Pizza at Pimlico's \| Breakpoint 2026
+
+- Record: `w3v-pizza-at-pimlico-s-breakpoint-2026-14-1793276114683`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-13T18:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/klgng11i>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

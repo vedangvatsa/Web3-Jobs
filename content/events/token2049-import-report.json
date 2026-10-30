@@ -1,31 +1,22 @@
 {
-  "checkedAt": "2026-10-30T03:40:13.424Z",
+  "checkedAt": "2026-10-30T10:25:57.750Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
-    "https://luma.com/2049events": 3,
+    "https://luma.com/2049events": 2,
     "https://luma.com/singaporesideevents": 0,
     "https://week.token2049.com": 601,
     "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view": 600,
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 239,
-    "excluded": 366,
-    "needs-review": 43
+    "existing": 238,
+    "excluded": 370,
+    "needs-review": 39
   },
   "importedTotal": 257,
   "added": [],
   "receipts": [
-    {
-      "url": "https://luma.com/fazra9qw",
-      "name": "Plug and Play APAC Summit",
-      "sources": [
-        "https://luma.com/2049events"
-      ],
-      "status": "existing",
-      "slug": "plug-play"
-    },
     {
       "url": "https://luma.com/n6e4pmtn",
       "name": "Fireside Chat on a Super Yacht: AI Agents, AI in Space & What Gets Funded Next",
@@ -6755,8 +6746,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://luma.com/9eycszeo",
@@ -6764,8 +6755,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://luma.com/2ezvuwxk",
@@ -6773,8 +6764,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://www.sui.io/basecamp",
@@ -6782,8 +6773,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "",

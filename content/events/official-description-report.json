@@ -683,22 +683,6 @@
       "preview": "A curated prediction markets summit - 400 attendees, 50+ speakers, two stages across four hours - at Suntec City, Singapore, on October 8, 2026, during TOKEN2049 week."
     },
     {
-      "id": "premier-instonchain",
-      "file": "curated-events.json",
-      "name": "Institutional Onchain: RWAs & Stablecoins Seoul 2026",
-      "status": "unavailable",
-      "attempts": [
-        {
-          "url": "https://lilroom.xyz/",
-          "reason": "event-not-matched"
-        },
-        {
-          "url": "https://lilroom.xyz",
-          "reason": "event-not-matched"
-        }
-      ]
-    },
-    {
       "id": "premier-raylsseoul",
       "file": "curated-events.json",
       "status": "source-backed",

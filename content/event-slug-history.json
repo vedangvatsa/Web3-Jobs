@@ -15,9 +15,6 @@
     "slug": "esbfl3ud",
     "aliases": []
   },
-  "luma-batch-KQkIiD9NTVDJXXk": {
-    "slug": "hxlpa8x4"
-  },
   "premier-ibt-tour-2026": {
     "slug": "ibt",
     "aliases": []
@@ -40,12 +37,6 @@
   "token2049-1044b9e351b65628": {
     "slug": "tech-week"
   },
-  "kbw-gwdc-korea-2026": {
-    "slug": "gwdc-korea",
-    "aliases": [
-      "kbw-official-gwdc-2026-korea-09-29"
-    ]
-  },
   "kbw-official-digital-af-exhibition-side-events-space-korea-blockchain-week-09-29": {
     "slug": "daeseskbw",
     "aliases": [
@@ -63,64 +54,18 @@
   "luma-batch-evt9KvD0EYKvt2ZX": {
     "slug": "yxgfedrf"
   },
-  "kbw-official-solana-summit-korea-09-30": {
-    "slug": "ssk",
-    "aliases": [
-      "w3v-solana-summit-korea"
-    ]
-  },
-  "luma-batch-evt76rPztNPHTqhD": {
-    "slug": "jyb1fz3j"
-  },
-  "luma-batch-evtyhFDuYEifgjbA": {
-    "slug": "stellarloungekorea"
-  },
-  "kbw-official-institutional-privacy-day-09-30": {
-    "slug": "ipd"
-  },
   "luma-batch-evtrzXLDMSFDAuLv": {
     "slug": "83oq4sls",
     "aliases": []
   },
-  "luma-batch-evt1fn1QcsOeuXbg": {
-    "slug": "nnp60kyd"
-  },
-  "premier-instonchain": {
-    "slug": "institutional5",
-    "aliases": [
-      "institutional-onchain",
-      "w3v-institutional-onchain-rwas--stablecoins"
-    ]
-  },
   "luma-batch-evtc37hgnYFLpfen": {
     "slug": "qpz0ozya"
-  },
-  "luma-batch-evt4BoSyI6IEbOX0": {
-    "slug": "m9ap2ft1"
-  },
-  "kbw-official-alpha-in-seoul-korean-sma-trading-house-meetup-09-30": {
-    "slug": "asksthm"
   },
   "kbw-official-where-ai-meets-realfi-at-kbw-2026-09-30": {
     "slug": "wamrk"
   },
-  "kbw-official-the-next-ai-payment-carnival-09-30": {
-    "slug": "napc"
-  },
-  "kbw-official-token-sale-summit-2026-09-30": {
-    "slug": "tss3"
-  },
   "luma-batch-evttqDr39ILkOhCL": {
     "slug": "5r4qb76u"
-  },
-  "kbw-official-the-best-event-sundown-09-30": {
-    "slug": "best-event"
-  },
-  "kbw-official-r25-2-0-genesis-curator-meetup-seoul-09-30": {
-    "slug": "r20gcms"
-  },
-  "luma-batch-evtFH1KIW8N3Spa7": {
-    "slug": "a7cb1quh"
   },
   "premier-perpsinst": {
     "slug": "perps2",
@@ -140,9 +85,6 @@
   },
   "luma-batch-evtsh92jjqXB4pNz": {
     "slug": "kbw-hedera-tbv"
-  },
-  "luma-batch-8LNB8L3t1PGE6le": {
-    "slug": "superteam-u5r4"
   },
   "luma-batch-evtdVOLw6RJTIHbd": {
     "slug": "hikxx9hq"

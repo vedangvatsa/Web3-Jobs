@@ -3197,100 +3197,6 @@
     }
   },
   {
-    "id": "luma-batch-KQkIiD9NTVDJXXk",
-    "slug": "hxlpa8x4",
-    "name": "Startup Village Chitwan",
-    "description": "Join us at the Startup Village for Nepal's best builders working on Solana projects, aiming for the crypto world's fair hackathon. Come learn, earn, and build together, and have the time of your life.\n\nWhat you can expect:\n\nAccommodation in dorms/on a sharing basis\n\nBreakfast, Lunch, Dinner & Tea/Coffee\n\nWorkstations with charging points & WiFi\n\nTop-quality peer group shipping alongside you\n\nIf you have multiple team members, each of them will have to apply individually as well.\n\n## Hosts\n\nHosted by Superteam Nepal, Ronak Raj Rauniyar.\n\n## Event details\n\nThe event takes place on September 25. Venue: Tigerland Safari - Lemon Tree Resort, Tigerland Safari - Lemon Tree Resort, Chitwan National Park, Narayani, Bagmati Province 44200, Nepal.",
-    "startDate": "2026-09-25T05:45:00.000Z",
-    "endDate": "2026-09-30T06:45:00.000Z",
-    "city": "Narayani",
-    "country": "Nepal",
-    "location": "Tigerland Safari - Lemon Tree Resort, Tigerland Safari - Lemon Tree Resort, Chitwan National Park, Narayani, Bagmati Province 44200, Nepal",
-    "url": "https://luma.com/hxlpa8x4",
-    "registrationUrl": "https://luma.com/hxlpa8x4",
-    "coverImage": "/events/luma-batch-KQkIiD9NTVDJXXk-69ecb718.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Nepal",
-      "Ronak Raj Rauniyar"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Kathmandu",
-    "neighborhood": "Jagatpur",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Tigerland Safari - Lemon Tree Resort",
-    "addressLocality": "Narayani",
-    "addressRegion": "Bagmati Province",
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Nepal",
-      "url": "https://luma.com/user/SuperteamNP"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/hxlpa8x4",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/hxlpa8x4",
-      "eventId": "calev-KQkIiD9NTVDJXXk",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T11:00:44.000Z"
-    }
-  },
-  {
-    "id": "luma-batch-8LNB8L3t1PGE6le",
-    "slug": "superteam-u5r4",
-    "name": "Weekly Pitch Practice #3",
-    "description": "Three to five minutes to pitch. Five to seven minutes of honest feedback.\n\nWeek three pitch practice. Pitch practice runs every Wednesday of the hackathon. Book a slot, pitch for three to five minutes, and get five to seven minutes of direct feedback on the idea, the framing and the delivery.\n\nThe feedback is honest and specific. The point is not encouragement, it's finding the thing that isn't landing while there's still time to fix it. Most teams pitch more than once across the four weeks, and the difference between week one and week four is usually obvious.\n\nWatching is open to everyone. You'll learn nearly as much from other people's feedback as your own, and it's a low-pressure way to see what a good Colosseum pitch sounds like.\n\nWho it's for: Teams and solo builders entering Colosseum, at any stage of readiness.\n\nYou'll leave with: A sharper pitch, and a clear list of what to fix before next week.\n\nBook a pitch slot when you register, or just come and watch.\n\nhttps://au.superteam.fun/colosseum for more information",
-    "startDate": "2026-09-30T08:30:00.000Z",
-    "endDate": "2026-09-30T10:00:00.000Z",
-    "location": "TBA",
-    "url": "https://luma.com/superteam-u5r4",
-    "registrationUrl": "https://luma.com/superteam-u5r4",
-    "coverImage": "/events/luma-batch-8LNB8L3t1PGE6le-1bcbdbad.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Australia"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "Australia/Brisbane",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Australia",
-      "url": "https://luma.com/user/SuperteamAU"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/superteam-u5r4",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/superteam-u5r4",
-      "eventId": "calev-8LNB8L3t1PGE6le",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-lfKfG6fJ1qbK6BD",
     "slug": "superteam-d6y2",
     "name": "RPC workshop w/ Solami",
@@ -7274,36 +7180,6 @@
     }
   },
   {
-    "id": "luma-batch-evtFH1KIW8N3Spa7",
-    "slug": "a7cb1quh",
-    "name": "MME's Web3 Breakfast: Coffee, Croissants & Crypto Law",
-    "description": "Start your second day at CV Summit 2026 – Switzerland’s premier gathering for blockchain, AI, and digital assets innovators – with fresh coffee, warm croissants, and inspiring conversations.\n\nBefore immersing yourself once again in the energy, ideas, and opportunities of the summit, join us for a relaxed morning meetup designed to spark new connections and meaningful discussions. Meet fellow founders, investors, builders, and visionaries shaping the future of the digital economy.\n\nTake this opportunity to exchange perspectives with MME’s Web3 specialists and explore the legal, tax, and regulatory developments that matter most to your business.\n\n📍 MME Zurich Office, Zollstrasse 62, Floor 5\n📅 Wednesday, Sept 30\n⏰ 9 - 11 a.m.\n\nWhether you are scaling a project, navigating new markets, or preparing for the next wave of innovation, we look forward to sharing insights and ideas over breakfast.\n\n🔗 About CV Summit: www.cvsummit.ch\n🔗 About MME: www.mme.ch\n\nWe look forward to welcoming you!",
-    "startDate": "2026-09-30T07:00:00.000Z",
-    "endDate": "2026-09-30T09:00:00.000Z",
-    "city": "Zürich",
-    "country": "Switzerland",
-    "location": "MME Legal | Tax | Compliance, MME Legal | Tax | Compliance, Zweigniederlassung, Zollstrasse 62, 8005 Zürich, Switzerland",
-    "url": "https://luma.com/a7cb1quh",
-    "registrationUrl": "https://luma.com/a7cb1quh",
-    "coverImage": "/events/luma-batch-evtFH1KIW8N3Spa7-e23c00e8.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Zurich",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "summit",
-    "sourceVerification": {
-      "url": "https://luma.com/a7cb1quh",
-      "eventId": "evt-FH1KIW8N3Spa70k",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evt9KvD0EYKvt2ZX",
     "slug": "yxgfedrf",
     "name": "Israel Fintech Visit to Zurich CV Summit 2026: 29th and 30th Sep",
@@ -7483,36 +7359,6 @@
     }
   },
   {
-    "id": "luma-batch-evtyhFDuYEifgjbA",
-    "slug": "stellarloungekorea",
-    "name": "Stellar Lounge Korea",
-    "description": "Korea Blockchain Week brings the world's most influential founders, builders, and institutions to Seoul and we're making sure you have somewhere great to land between sessions.\n\nNeed a moment off the conference floor? Come join us at Stellar Lounge Korea.\n\nWe've taken over 121 Fiat Cafe — just a 5-minute walk from the main venue — to create a cozy space to relax and recharge during KBW. Drop in for a coffee, take that meeting, or pull up a chair with the people building on Stellar.\n\nBites and drinks on us. Stay as long as you like.\n\n## Event details\n\nOrganized by SDF. Venue: Seoul, South Korea, Seoul, South Korea. Tickets: Free.",
-    "startDate": "2026-09-30T02:00:00.000Z",
-    "endDate": "2026-09-30T07:00:00.000Z",
-    "city": "Seoul, South Korea",
-    "country": "South Korea",
-    "location": "Seoul, South Korea, Seoul, South Korea",
-    "url": "https://luma.com/stellarloungekorea",
-    "registrationUrl": "https://luma.com/stellarloungekorea",
-    "coverImage": "/events/luma-batch-evtyhFDuYEifgjbA-a0647dfc.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "SDF"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Seoul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "conference",
-    "sourceVerification": {
-      "url": "https://luma.com/stellarloungekorea",
-      "eventId": "evt-yhFDuYEifgjbAec",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtrzXLDMSFDAuLv",
     "slug": "83oq4sls",
     "name": "Web3 AI Seoul 2026: Artist Agent",
@@ -7567,36 +7413,6 @@
     "sourceVerification": {
       "url": "https://luma.com/0a0g9am0",
       "eventId": "evt-K1x9BrE2Ya68ESn",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evt4BoSyI6IEbOX0",
-    "slug": "m9ap2ft1",
-    "name": "Upside Private Mainnet Launch",
-    "description": "We believe the future of finance won’t be built by just a handful of institutions. We believe it will be built by millions of humans and billions of AI agents together creating markets for assets worth trillions.\n\nWe have been hard at work to bring you Upside — a blockchain purpose-built to deliver uncompromising performance and trading experience.\n\nJoin us for the launch of Upside's private mainnet in Seoul.\n\nAbout Upside\n\nUpside is a blockchain purpose-built for trading, where millions of humans and billions of AI agents are able to create, own, operate and trade financial markets for assets worth trillions fully onchain, permissionlessly, borderlessly and 24/7. Visit https://upsidemax.xyz to learn more.",
-    "startDate": "2026-09-30T05:00:00.000Z",
-    "endDate": "2026-09-30T08:30:00.000Z",
-    "city": "Seoul, South Korea",
-    "country": "South Korea",
-    "location": "Seoul, South Korea, Seoul, South Korea",
-    "url": "https://luma.com/m9ap2ft1",
-    "registrationUrl": "https://luma.com/m9ap2ft1",
-    "coverImage": "/events/luma-batch-evt4BoSyI6IEbOX0-44423951.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Seoul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/m9ap2ft1",
-      "eventId": "evt-4BoSyI6IEbOX0h9",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
@@ -8826,36 +8642,6 @@
     "sourceVerification": {
       "url": "https://luma.com/tbc26",
       "eventId": "evt-9GgBM7ScK61zTbb",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evt76rPztNPHTqhD",
-    "slug": "jyb1fz3j",
-    "name": "What are Quantum computers and why should you care?",
-    "description": "What quantum computers are, why they break the maths behind Bitcoin, and what is being done about it.\n\nQuantum computers are becoming useful devices rather than just research tools.  Beyond modeling the real world, they can speed up cryptographic calculations. Most notably, reversing the encryption used by Bitcoin, bank transfers, and much of the web. Governments and banks already have a published plan for moving to quantum-safe cryptography. Bitcoin, many  chains, and most exchanges have not yet published plans. The urgency has increased now that big public quantum companies are giving a roadmap for a break; IonQ is saying late 2028. Two problems need solving: migration to post-quantum addresses and the coins-left-behind problem. How will we handle Satoshi's original coins?\n\nThis session explains what a quantum computer is and how it is different from the computers we use today. It shows, in everyday terms, why a large enough quantum computer could break the secret key that protects a Bitcoin, something no ordinary computer could do in any realistic amount of time. It then gives a fair overview of the ideas the Bitcoin community is considering, along with a quick survey of other chains, followed by open discussion.\n\nNo background in physics, cryptography, or programming is needed. You will leave understanding the problem well enough to explain it to someone else, knowing what options are on the table, and knowing what, if anything, you should do today.\n\nSpeaker: James Tagg, inventor with over 200 patents, founder of Truphone, and co-founder of the Penrose Institute.\n\nStreaming link: https://www.youtube.com/c/Edgewallet/streams\n\nHosted by Edge.app & QSAVE, where James and his team are building post-quantum key protection for Bitcoin and other chains.",
-    "startDate": "2026-09-30T01:30:00.000Z",
-    "endDate": "2026-09-30T04:00:00.000Z",
-    "city": "San Diego",
-    "country": "United States",
-    "location": "Edge wallet, Edge wallet, 1495 Pacific Hwy #300, San Diego, CA 92101, USA",
-    "url": "https://luma.com/jyb1fz3j",
-    "registrationUrl": "https://luma.com/jyb1fz3j",
-    "coverImage": "/events/luma-batch-evt76rPztNPHTqhD-f7f769bf.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Bitcoin and Open Blockchain San Diego"
-    ],
-    "price": "Free",
-    "timezone": "America/Los_Angeles",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/jyb1fz3j",
-      "eventId": "evt-76rPztNPHTqhDWY",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
@@ -11086,36 +10872,6 @@
     "sourceVerification": {
       "url": "https://luma.com/tn1iwfoh",
       "eventId": "evt-ceTF1z3WvKJ1ieY",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evt1fn1QcsOeuXbg",
-    "slug": "nnp60kyd",
-    "name": "Trading Workshop: Making Sense of Crypto",
-    "description": "Before the Event\n\nTo help you enjoy a smoother experience on the day, we recommend setting up your OKX Australia account before attending.\n\nIt only takes around 5 minutes, and completing it in advance means you’ll have more time to focus on the workshop, ask questions and connect with others.\n\nIf you don’t have an OKX Australia Account, create one before the event\n\nOnce registered, you'll be able to find your UID in your account\n\n⚠️  KYC verification  ➡️ How to Complete Your KYC Verification on OKX\n\n## Event details\n\nOrganized by Personal. Venue: Brisbane City, Queensland, Australia. Tickets: Free.",
-    "startDate": "2026-09-30T03:30:00.000Z",
-    "endDate": "2026-09-30T07:30:00.000Z",
-    "city": "Brisbane City",
-    "country": "Australia",
-    "location": "Brisbane City, Queensland, Australia",
-    "url": "https://luma.com/nnp60kyd",
-    "registrationUrl": "https://luma.com/nnp60kyd",
-    "coverImage": "/events/luma-batch-evt1fn1QcsOeuXbg-738c9579.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Australia/Brisbane",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/nnp60kyd",
-      "eventId": "evt-1fn1QcsOeuXbgcn",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

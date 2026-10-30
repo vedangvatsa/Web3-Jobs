@@ -3435,5 +3435,142 @@
       "cahs",
       "luma-crypto-ks1xgehmagtqker"
     ]
+  },
+  "kbw-gwdc-korea-2026": {
+    "until": "2027-10-30T10:25:50.467Z",
+    "slugs": [
+      "gwdc-korea",
+      "kbw-official-gwdc-2026-korea-09-29",
+      "kbw-gwdc-korea-2026"
+    ]
+  },
+  "premier-instonchain": {
+    "until": "2027-10-30T10:25:50.467Z",
+    "slugs": [
+      "institutional5",
+      "institutional-onchain",
+      "w3v-institutional-onchain-rwas--stablecoins",
+      "premier-instonchain",
+      "instonchain"
+    ]
+  },
+  "w3v-solana-summit-korea": {
+    "until": "2027-10-30T10:25:50.467Z",
+    "slugs": [
+      "w3v-solana-summit-korea",
+      "ssk"
+    ]
+  },
+  "w3v-institutional-onchain-rwas--stablecoins": {
+    "until": "2027-10-30T10:25:50.467Z",
+    "slugs": [
+      "w3v-institutional-onchain-rwas--stablecoins",
+      "institutional-onchain"
+    ]
+  },
+  "kbw-official-gwdc-2026-korea-09-29": {
+    "until": "2027-10-30T10:25:50.467Z",
+    "slugs": [
+      "kbw-official-gwdc-2026-korea-09-29",
+      "gwdc-korea"
+    ]
+  },
+  "kbw-official-solana-summit-korea-09-30": {
+    "until": "2027-10-30T10:25:50.467Z",
+    "slugs": [
+      "ssk",
+      "w3v-solana-summit-korea",
+      "kbw-official-solana-summit-korea-09-30"
+    ]
+  },
+  "kbw-official-alpha-in-seoul-korean-sma-trading-house-meetup-09-30": {
+    "until": "2027-10-30T10:25:50.467Z",
+    "slugs": [
+      "asksthm",
+      "kbw-official-alpha-in-seoul-korean-sma-trading-house-meetup-09-30"
+    ]
+  },
+  "kbw-official-the-next-ai-payment-carnival-09-30": {
+    "until": "2027-10-30T10:25:50.467Z",
+    "slugs": [
+      "napc",
+      "kbw-official-the-next-ai-payment-carnival-09-30"
+    ]
+  },
+  "kbw-official-token-sale-summit-2026-09-30": {
+    "until": "2027-10-30T10:25:50.467Z",
+    "slugs": [
+      "kbw-official-token-sale-summit-2026-09-30"
+    ]
+  },
+  "kbw-official-r25-2-0-genesis-curator-meetup-seoul-09-30": {
+    "until": "2027-10-30T10:25:50.467Z",
+    "slugs": [
+      "r20gcms",
+      "kbw-official-r25-2-0-genesis-curator-meetup-seoul-09-30"
+    ]
+  },
+  "kbw-official-the-best-event-sundown-09-30": {
+    "until": "2027-10-30T10:25:50.467Z",
+    "slugs": [
+      "best-event",
+      "kbw-official-the-best-event-sundown-09-30"
+    ]
+  },
+  "kbw-official-institutional-privacy-day-09-30": {
+    "until": "2027-10-30T10:25:50.467Z",
+    "slugs": [
+      "ipd",
+      "kbw-official-institutional-privacy-day-09-30"
+    ]
+  },
+  "luma-batch-KQkIiD9NTVDJXXk": {
+    "until": "2027-10-30T10:25:50.467Z",
+    "slugs": [
+      "hxlpa8x4",
+      "luma-batch-kqkiid9ntvdjxxk"
+    ]
+  },
+  "luma-batch-8LNB8L3t1PGE6le": {
+    "until": "2027-10-30T10:25:50.467Z",
+    "slugs": [
+      "superteam-u5r4",
+      "luma-batch-8lnb8l3t1pge6le"
+    ]
+  },
+  "luma-batch-evtFH1KIW8N3Spa7": {
+    "until": "2027-10-30T10:25:50.467Z",
+    "slugs": [
+      "a7cb1quh",
+      "luma-batch-evtfh1kiw8n3spa7"
+    ]
+  },
+  "luma-batch-evtyhFDuYEifgjbA": {
+    "until": "2027-10-30T10:25:50.467Z",
+    "slugs": [
+      "stellarloungekorea",
+      "luma-batch-evtyhfduyeifgjba"
+    ]
+  },
+  "luma-batch-evt4BoSyI6IEbOX0": {
+    "until": "2027-10-30T10:25:50.467Z",
+    "slugs": [
+      "m9ap2ft1",
+      "luma-batch-evt4bosyi6iebox0"
+    ]
+  },
+  "luma-batch-evt76rPztNPHTqhD": {
+    "until": "2027-10-30T10:25:50.467Z",
+    "slugs": [
+      "jyb1fz3j",
+      "luma-batch-evt76rpztnphtqhd"
+    ]
+  },
+  "luma-batch-evt1fn1QcsOeuXbg": {
+    "until": "2027-10-30T10:25:50.467Z",
+    "slugs": [
+      "nnp60kyd",
+      "luma-batch-evt1fn1qcsoeuxbg"
+    ]
   }
 }

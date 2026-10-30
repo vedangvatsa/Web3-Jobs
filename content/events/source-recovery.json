@@ -20,18 +20,6 @@
       "reason": "The source title and image-based heading did not match the old punctuation variant; the organizer's event-specific page provides the full program."
     },
     {
-      "id": "premier-instonchain",
-      "kind": "luma",
-      "sourceUrl": "https://luma.com/qsfjc56x",
-      "contains": [
-        "Institutional Onchain",
-        "RWAs & Stablecoins",
-        "Seoul"
-      ],
-      "eventId": "evt-a0PGWXfAij4vNVH",
-      "reason": "Located the exact institutional forum source and verified its identity against the existing Luma record."
-    },
-    {
       "id": "token2049-side-6a5dff0dd1b48ddf39d0827c",
       "kind": "luma",
       "sourceUrl": "https://luma.com/event/evt-SRSeRqJykejGWY3",
