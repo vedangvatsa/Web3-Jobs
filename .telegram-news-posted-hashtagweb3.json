@@ -845,6 +845,9 @@
   "https://hashtagweb3.com/depositbug?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/luxorai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/vaneckbuilder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/aavebtc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cftc247?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/binancebr?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2441,6 +2444,12 @@
   "Luxor Raises $16 Million to Expand AI Compute Business",
   "VanEck Launches Wealth Builder ETF With Bitcoin Allocation",
   "VanEck Lists Wealth Builder ETF With Bitcoin Exposure",
+  "Aave increases loan-to-value ratios for Bitcoin and Ether",
+  "Aave raises Bitcoin and Ether borrowing limits across V3 and V4",
+  "CFTC to Review 24/7 Derivatives Trading at December Roundtable",
+  "CFTC Sets Dec. 15 Roundtable on 24/7 Derivatives Trading",
+  "Binance seeks Brazil license and cuts local product offerings",
+  "Binance Files for Brazil License as Product Cuts Take Effect",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2836,5 +2845,8 @@
   "fp:accru|approv|business|daily|day|dividend|four|november|out|pay",
   "fp:block|bug|builder|captur|deposit|developer|eth|fix|glamsterdam|incorrectly",
   "fp:16m|brokerag|business|cloud|cmt|comput|derivativ|desk|digital|expand",
-  "fp:allocation|alongsid|bond|builder|etf|exposur|fund|gold|list|nys"
+  "fp:allocation|alongsid|bond|builder|etf|exposur|fund|gold|list|nys",
+  "fp:aav|analysis|borrow|cbbtc|collateral|ether|factor|historical|increas|limit",
+  "fp:bas|cftc|comment|dec15|december|derivativ|dur|examin|feasibility|feedback",
+  "fp:and22|appli|bank|binanc|brazil|brazilian|central|cut|effect|eight"
 ]
