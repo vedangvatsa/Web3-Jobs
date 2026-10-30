@@ -320,10 +320,12 @@
           "aavebtc",
           "cbbrasil"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-10-30T11:43:35.060Z",
         "buildId": "daily-20261030-41040419973-1",
-        "rolloutId": "daily-20261030-41040419973-1"
+        "rolloutId": "daily-20261030-41040419973-1",
+        "buildState": "READY",
+        "observedAt": "2026-10-30T12:06:51.501Z"
       }
     ]
   }
