@@ -76043,7 +76043,8 @@
       },
       "account": "channel:developers",
       "attemptId": "a492d78a-532e-4d17-a09a-7aa53c3f814b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x012d4aac327264faa1519f83d729474d2f519bd9"
     }
   ]
 }
