@@ -78978,8 +78978,9 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "7055060b-f242-4846-aef6-4cc953441d83",
-      "verification": "pending",
-      "postId": "6ae4f1a2f34210fa7659b02f"
+      "verification": "verified",
+      "postId": "6ae4f1a2f34210fa7659b02f",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7522018589302927360"
     }
   ]
 }
