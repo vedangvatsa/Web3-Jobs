@@ -10563,5 +10563,120 @@
     "slotKey": "2026-10-30:morning",
     "messageId": 154,
     "sentAt": "2026-10-30T03:40:17.008Z"
+  },
+  "989dd72f-aba6-4fe8-b50a-4da458c99f1b": {
+    "status": "reserved",
+    "reservedAt": "2026-10-30T11:32:27.432Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "it-administrator_paris",
+          "title": "IT Administrator",
+          "company": "Zama",
+          "link": "https://jobs.zama.org/jobs/it-administrator_paris",
+          "date": "2026-10-01T11:25:47+02:00",
+          "dateVerified": true,
+          "source": "FirstParty: Zama [zama-careers]",
+          "location": "Paris",
+          "active": true,
+          "slug": "ia2"
+        },
+        "key": "it-administrator_paris",
+        "slug": "ia2",
+        "url": "https://hashtagweb3.com/ia2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Zama",
+        "title": "IT Administrator"
+      },
+      {
+        "snapshot": {
+          "id": "8300320",
+          "title": "VIP Relationship Manager",
+          "company": "Consensys",
+          "link": "https://job-boards.greenhouse.io/consensys/jobs/8300320",
+          "date": "2026-10-26T05:55:43-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Consensys [consensys]",
+          "location": "United States - Remote",
+          "department": "Marketing",
+          "active": true,
+          "salary": "$115k – $162k/yr",
+          "dateVerified": true,
+          "slug": "mgr201"
+        },
+        "key": "8300320",
+        "slug": "mgr201",
+        "url": "https://hashtagweb3.com/mgr201?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Consensys",
+        "title": "VIP Relationship Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8318060",
+          "title": "Senior Brand Designer (Maternity Cover)",
+          "company": "Blockchain.com",
+          "link": "https://job-boards.greenhouse.io/blockchain/jobs/8318060",
+          "date": "2026-10-23T10:10:43-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Blockchain.com [blockchain]",
+          "location": "Paris",
+          "department": "Marketing & Communications",
+          "active": true,
+          "dateVerified": true,
+          "slug": "des10"
+        },
+        "key": "8318060",
+        "slug": "des10",
+        "url": "https://hashtagweb3.com/des10?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Blockchain.com",
+        "title": "Senior Brand Designer"
+      },
+      {
+        "snapshot": {
+          "id": "c887c9fe-e9de-445a-9504-9d034465313e",
+          "title": "Solutions Architect",
+          "company": "Chainalysis",
+          "link": "https://jobs.ashbyhq.com/chainalysis-careers/c887c9fe-e9de-445a-9504-9d034465313e",
+          "date": "2026-10-28T18:54:33.235+00:00",
+          "source": "Ashby: Chainalysis [chainalysis-careers]",
+          "location": "Remote - USA",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Sales",
+          "active": true,
+          "slug": "arc15",
+          "dateVerified": true
+        },
+        "key": "c887c9fe-e9de-445a-9504-9d034465313e",
+        "slug": "arc15",
+        "url": "https://hashtagweb3.com/arc15?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Chainalysis",
+        "title": "Solutions Architect"
+      },
+      {
+        "snapshot": {
+          "id": "96237912",
+          "title": "Social Media & Content Manager (Remote - Europe, FT)",
+          "company": "Streamflow",
+          "link": "https://jobs.solana.com/companies/streamflow-2/jobs/96237912-social-media-content-manager-remote-europe-ft",
+          "date": "2026-10-08T10:35:27.000Z",
+          "dateVerified": true,
+          "dateSource": "Solana.JobPosting.postedAt",
+          "source": "Solana Ecosystem: Streamflow [getro-solana]",
+          "location": "Remote",
+          "department": "Marketing & Communications",
+          "salary": "$2k – $3k/yr",
+          "active": true,
+          "slug": "mgr207"
+        },
+        "key": "96237912",
+        "slug": "mgr207",
+        "url": "https://hashtagweb3.com/mgr207?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Streamflow",
+        "title": "Social Media & Content Manager"
+      }
+    ],
+    "message": "- Zama is hiring <a href=\"https://hashtagweb3.com/ia2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">IT Administrator</a>\n- Consensys is hiring <a href=\"https://hashtagweb3.com/mgr201?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VIP Relationship Manager</a>\n- Blockchain.com is hiring <a href=\"https://hashtagweb3.com/des10?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Brand Designer (Maternity Cover)</a>\n- Chainalysis is hiring <a href=\"https://hashtagweb3.com/arc15?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Architect</a>\n- Streamflow is hiring <a href=\"https://hashtagweb3.com/mgr207?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Social Media &amp; Content Manager (Remote - Europe, FT)</a>",
+    "slotKey": "2026-10-30:afternoon"
   }
 }
