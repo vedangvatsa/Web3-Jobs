@@ -8,7 +8,7 @@
     "afternoon": "2026-10-15",
     "evening": "2026-10-27"
   },
-  "deployed": "2026-10-29",
+  "deployed": "2026-10-30",
   "ingested": "2026-10-30",
   "dailyDeployments": {
     "2026-10-23": [
@@ -320,12 +320,14 @@
           "aavebtc",
           "cbbrasil"
         ],
-        "phase": "rolling-out",
+        "phase": "succeeded",
         "startedAt": "2026-10-30T11:43:35.060Z",
         "buildId": "daily-20261030-41040419973-1",
         "rolloutId": "daily-20261030-41040419973-1",
         "buildState": "READY",
-        "observedAt": "2026-10-30T12:06:51.501Z"
+        "observedAt": "2026-10-30T12:07:24.345Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-10-30T12:07:24.345Z"
       }
     ]
   }
