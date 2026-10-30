@@ -104529,9 +104529,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "415ee5aff505874490c6",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-31T13:38:08.000Z",
       "lastSeenAt": "2026-10-29T03:34:54.128Z",
       "articleSlug": "comer",
@@ -104557,7 +104557,29 @@
         "updatedAt": "2026-10-30T11:01:29.828Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "source-blocked",
+      "note": "Read Decrypt, the Oversight Committee Oct. 26 press release, and WHYY's independent report; primary letter PDF downloaded from oversight.house.gov. Two-plus readable sites exist but all trace to the same letter. Holding for one more outlet with independent Delaware-side reporting (Fortune/Spotlight Delaware/Ars) before drafting; Ars Technica not yet opened.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382035/house-oversight-chair-comer-probes-delaware-plan-for-ai-run-companies",
+          "outcome": "read"
+        },
+        {
+          "url": "https://oversight.house.gov/release/comer-investigates-potential-for-harm-lack-of-transparency-in-delaware-initiative-to-create-new-artificial-intelligence-companies/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://whyy.org/articles/delaware-ai-companies-us-house-comer-oversight/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-30T11:03:02.360Z",
+      "retrySearches": [
+        "Open Ars Technica or Spotlight Delaware reporting on Comer's Oct. 26 letter to Gov. Meyer about the Delaware AIC and confirm independent details before drafting"
+      ],
+      "lastReviewedDay": "2026-10-30",
+      "nextReviewDate": "2026-10-31"
     },
     "8fc89eddfe8a98cbd66e": {
       "source": "The Defiant",
@@ -197828,6 +197850,29 @@
           "reviewedAt": "2026-10-30T11:00:57.778Z",
           "retrySearches": [
             "Find independent reporting on Ripio's Oct. 27 2026 Banco Central do Brasil virtual asset broker and forex license filings that does not rest solely on Ripio's own announcement, or a BCB public register entry for the filing"
+          ]
+        },
+        "415ee5aff505874490c6": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Decrypt, the Oversight Committee Oct. 26 press release, and WHYY's independent report; primary letter PDF downloaded from oversight.house.gov. Two-plus readable sites exist but all trace to the same letter. Holding for one more outlet with independent Delaware-side reporting (Fortune/Spotlight Delaware/Ars) before drafting; Ars Technica not yet opened.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382035/house-oversight-chair-comer-probes-delaware-plan-for-ai-run-companies",
+              "outcome": "read"
+            },
+            {
+              "url": "https://oversight.house.gov/release/comer-investigates-potential-for-harm-lack-of-transparency-in-delaware-initiative-to-create-new-artificial-intelligence-companies/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://whyy.org/articles/delaware-ai-companies-us-house-comer-oversight/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-30T11:03:02.360Z",
+          "retrySearches": [
+            "Open Ars Technica or Spotlight Delaware reporting on Comer's Oct. 26 letter to Gov. Meyer about the Delaware AIC and confirm independent details before drafting"
           ]
         }
       },
