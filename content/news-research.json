@@ -99432,13 +99432,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "f73a1c7235e439f04dff",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-30T23:42:23.000Z",
       "lastSeenAt": "2026-10-28T03:43:47.836Z",
-      "reason": "source-blocked",
-      "note": "Opened Unchained's report via Yahoo Finance: Solflare's staking provider reported a security incident affecting validator keys on Oct. 27, pausing rewards; Stakewiz showed about 1,559,012 SOL delegated and delinquent status. Crypto Briefing was already read. The Solflare X announcement itself still returns a JS shell. Two readable outlets now exist (Crypto Briefing and Unchained), but need to re-verify Crypto Briefing text and confirm the ~1.56M SOL figure against a second non-agggregator before drafting.",
+      "reason": "verified-event",
+      "note": "Re-read Crypto Briefing and Unchained via Yahoo Finance in full; both support the draft quotes, the 1,559,012 SOL Stakewiz figure, the delinquent status, the migration plan and the open compensation details. The Solflare X post returns HTTP 200 but its text is only verified through Unchained verbatim quotes, which the article attributes accordingly. Draft repaired to 636 words with slug solflareincident because the solflare root is owned by the company page. Hero self-hosted from Wikimedia, TechCrunch CC BY 2.0, credit page verified. Quality, images, formatting, duplicates and tsc audits pass.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/solflare-staking-provider-security-incident-rewards/",
@@ -99449,21 +99449,20 @@
           "outcome": "read"
         },
         {
-          "url": "https://x.com/solflare/status/2115223521395896530",
-          "outcome": "blocked"
+          "url": "https://commons.wikimedia.org/wiki/File:Anatoly_Yakovenko_(TechCrunch_2022).jpg",
+          "outcome": "read"
         },
         {
-          "url": "https://thedefiant.io/news/security/solflare-validator-stops-earning-rewards-after-provider-security-incident",
+          "url": "https://x.com/solflare/status/2115223521395896530",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-29T04:23:41.981Z",
+      "reviewedAt": "2026-10-30T11:30:56.803Z",
       "retrySearches": [
         "Find a second independent readable report on the Solflare staking provider security incident of Oct. 27 2026, ideally with the staked SOL figure and Solflare's compensation plan, beyond Crypto Briefing and Unchained"
       ],
-      "lastReviewedDay": "2026-10-29",
-      "nextReviewDate": "2026-10-30",
-      "articleSlug": "solflare",
+      "lastReviewedDay": "2026-10-30",
+      "articleSlug": "solflareincident",
       "draftProgress": {
         "id": "f73a1c7235e439f04dff",
         "day": "2026-10-30",
@@ -197874,6 +197873,31 @@
           "retrySearches": [
             "Open Ars Technica or Spotlight Delaware reporting on Comer's Oct. 26 letter to Gov. Meyer about the Delaware AIC and confirm independent details before drafting"
           ]
+        },
+        "f73a1c7235e439f04dff": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Crypto Briefing and Unchained via Yahoo Finance in full; both support the draft quotes, the 1,559,012 SOL Stakewiz figure, the delinquent status, the migration plan and the open compensation details. The Solflare X post returns HTTP 200 but its text is only verified through Unchained verbatim quotes, which the article attributes accordingly. Draft repaired to 636 words with slug solflareincident because the solflare root is owned by the company page. Hero self-hosted from Wikimedia, TechCrunch CC BY 2.0, credit page verified. Quality, images, formatting, duplicates and tsc audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/solflare-staking-provider-security-incident-rewards/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://finance.yahoo.com/markets/crypto/articles/solana-wallet-solflare-plans-validator-145600477.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://commons.wikimedia.org/wiki/File:Anatoly_Yakovenko_(TechCrunch_2022).jpg",
+              "outcome": "read"
+            },
+            {
+              "url": "https://x.com/solflare/status/2115223521395896530",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-30T11:30:56.803Z",
+          "articleSlug": "solflareincident"
         }
       },
       "baselineSlugs": [
