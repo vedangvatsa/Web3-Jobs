@@ -75577,7 +75577,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "2bfd50b0-773a-42a0-9876-ca5a5564fe6f",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae4124c4b8768bfb2da06d3"
     }
   ]
 }
