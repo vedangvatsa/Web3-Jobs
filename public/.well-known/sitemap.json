@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-10-30T22:03:22.741Z",
+  "generatedAt": "2026-10-30T22:23:18.877Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 3855,
+  "count": 3859,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -2274,6 +2274,12 @@
     {
       "url": "https://hashtagweb3.com/bitcoin-amsterdam",
       "lastmod": "2026-11-05",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/bitcoin-asia-2027",
+      "lastmod": "2027-08-26",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -4784,6 +4790,12 @@
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/crypto-web3-startups-investors-london-nov-2026",
+      "lastmod": "2026-11-16",
+      "changefreq": "weekly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/crypto-wednesday-unconference-meetup-dao-gathering",
@@ -9146,6 +9158,12 @@
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/hk-web3-festival-2027",
+      "lastmod": "2027-04-19",
+      "changefreq": "weekly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/hkghh-even",
@@ -17914,12 +17932,6 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/sls198",
-      "lastmod": "2026-09-30",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/sls199",
       "lastmod": "2026-09-30",
       "changefreq": "daily",
@@ -20134,6 +20146,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/tokenize-ldn-2026",
+      "lastmod": "2026-12-01",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/tokenized-assets-open-markets-",
       "lastmod": "2026-11-03",
       "changefreq": "weekly",
@@ -22044,6 +22062,12 @@
     {
       "url": "https://hashtagweb3.com/web3-week-asia-trader-trencher-night",
       "lastmod": "2026-11-04",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/webx-2027",
+      "lastmod": "2027-08-25",
       "changefreq": "weekly",
       "priority": 0.6
     },

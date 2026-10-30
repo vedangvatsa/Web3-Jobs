@@ -2636,6 +2636,20 @@ CryptoCon Sydney brings founders, investors, institutions and the crypto communi
 
 General admission is free and covers the expo and speakers. Paid ticket options add access to the November 28 Industry Networking Event, the November 29 Super Yacht Party or the Whale Lounge, depending on the pass. The yacht event is listed as a four-hour Sydney Harbour trip with dining and an open bar. Check each pass's inclusions before booking.
 
+<a id="event-4771f65c123f7087"></a>
+
+## Tokenize: LDN 2026
+
+- Record: `premier-tokenize-ldn-2026`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-01T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://tokenize-event.com/>
+
+### About the event
+
+Tokenize: LDN is London's dedicated institutional summit focused entirely on real-world asset (RWA) tokenization, tokenized credit, debt instruments, and institutional digital asset market infrastructure. Hosted at ExCeL London, the conference brings together global tier-1 investment banks, asset managers, hedge funds, custodians, and enterprise blockchain architects to explore on-chain fund tokenization, settlement interoperability, and regulatory compliance under the UK and European frameworks.
+
 <a id="event-868f2327eef135c3"></a>
 
 ## Blockchain Life 2026
@@ -2825,6 +2839,20 @@ The organizer invites contributions on decentralization, tokenization, privacy, 
 
 The venue is at 1 Boulevard de la Croisette, 06400 Cannes. Check the official site for the current agenda, ticket availability and eligibility for community access.
 
+<a id="event-47c5edb1a8153240"></a>
+
+## Hong Kong Web3 Festival 2027
+
+- Record: `premier-hk-web3-festival-2027`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-04-19T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.web3festival.org/>
+
+### About the event
+
+The 5th annual Hong Kong Web3 Festival, co-hosted by Wanxiang Blockchain Labs and HashKey Group and organized by W3ME at the Hong Kong Convention and Exhibition Centre (HKCEC). As one of the largest cryptocurrency and blockchain summits in Asia, the festival convenes industry leaders, builders, policymakers, and venture capitalists to discuss Layer-2 scaling, open finance, digital asset regulation, decentralized AI, and institutional blockchain adoption across global markets.
+
 <a id="event-cbcb72990157ab61"></a>
 
 ## TOKEN2049 Dubai 2027
@@ -2982,6 +3010,34 @@ Past stages have hosted Changpeng Zhao (Binance), Jeremy Allaire (Circle), Lily 
 ### Participation
 
 Participants span digital-asset native builders, TradFi and fintech institutions deploying at scale, AI-for-finance providers and ecosystem partners. Founding partnerships for Signal Week 2027 are open.
+
+<a id="event-11106a1e3d6efa56"></a>
+
+## WebX 2027 Tokyo
+
+- Record: `premier-webx-2027`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-08-25T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://webx-asia.com/>
+
+### About the event
+
+Produced by CoinPost, WebX is Asia's premier crypto and Web3 conference held at Tokyo Big Sight in Japan. The summit bridges Japan's leading public enterprises, major financial conglomerates, and top government regulatory bodies with international Web3 protocols, founders, and venture funds. Featuring keynotes, technical tracks, investor roundtables, and high-impact networking, WebX accelerates mass adoption and mainstream digital asset integration in Japan and across the Asia-Pacific region.
+
+<a id="event-696408ee033a6fa3"></a>
+
+## Bitcoin Asia 2027
+
+- Record: `premier-bitcoin-asia-2027`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-08-26T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://b.tc/conference/asia>
+
+### About the event
+
+Organized by BTC Inc (the team behind the flagship Bitcoin Conference), Bitcoin Asia returns to the Hong Kong Convention and Exhibition Centre (HKCEC). Bringing together thousands of Bitcoin builders, miners, institutional allocators, and protocol engineers from across the world, the conference explores Bitcoin Layer-2 scalability, Lightning Network adoption, Ordinals and Runes ecosystem growth, mining sustainability, and global macroeconomic sovereignty.
 
 <a id="event-446a4eaa04fada1e"></a>
 
@@ -62847,6 +62903,20 @@ An organizer description has not been verified for this record. Any previous cop
 - Original page: <https://luma.com/encode-t73d>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-6250ce1ee6a1499c"></a>
+
+## Crypto, Web3 & Blockchain Startups, Investors & Builders Networking Event
+
+- Record: `eb-2003199972041`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-16T19:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.eventbrite.co.uk/e/crypto-web3-blockchain-startups-investors-builders-networking-event-tickets-2003199972041>
+
+### About the event
+
+Join founders, startup builders, Web3 engineers, and angel & venture capital investors in London at The Refinery Bankside. This evening meetup offers focused informal networking, peer discussions on fundraising in current market conditions, decentralization trends, and tokenized ecosystem scaling across Europe and the UK.
 
 <a id="event-c2c72c8fb85da49f"></a>
 

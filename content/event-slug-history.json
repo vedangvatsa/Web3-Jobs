@@ -5766,5 +5766,25 @@
   "luma-crypto-N7aIok5arp1ECB9": {
     "slug": "tacnode-ap",
     "aliases": []
+  },
+  "eb-2003199972041": {
+    "slug": "crypto-web3-startups-investors-london-nov-2026",
+    "aliases": []
+  },
+  "premier-tokenize-ldn-2026": {
+    "slug": "tokenize-ldn-2026",
+    "aliases": []
+  },
+  "premier-hk-web3-festival-2027": {
+    "slug": "hk-web3-festival-2027",
+    "aliases": []
+  },
+  "premier-webx-2027": {
+    "slug": "webx-2027",
+    "aliases": []
+  },
+  "premier-bitcoin-asia-2027": {
+    "slug": "bitcoin-asia-2027",
+    "aliases": []
   }
 }

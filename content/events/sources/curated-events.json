@@ -3699,5 +3699,97 @@
         }
       ]
     }
+  },
+  {
+    "id": "premier-hk-web3-festival-2027",
+    "slug": "hk-web3-festival-2027",
+    "name": "Hong Kong Web3 Festival 2027",
+    "description": "The 5th annual Hong Kong Web3 Festival, co-hosted by Wanxiang Blockchain Labs and HashKey Group and organized by W3ME at the Hong Kong Convention and Exhibition Centre (HKCEC). As one of the largest cryptocurrency and blockchain summits in Asia, the festival convenes industry leaders, builders, policymakers, and venture capitalists to discuss Layer-2 scaling, open finance, digital asset regulation, decentralized AI, and institutional blockchain adoption across global markets.",
+    "startDate": "2027-04-19T09:00:00.000Z",
+    "endDate": "2027-04-21T18:00:00.000Z",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "location": "Hong Kong Convention and Exhibition Centre (HKCEC), 1 Expo Drive, Wan Chai, Hong Kong",
+    "url": "https://www.web3festival.org/",
+    "website": "https://www.web3festival.org/",
+    "coverImage": null,
+    "twitter": null,
+    "source": "curated-premier",
+    "descriptionSource": {
+      "url": "https://www.web3festival.org/",
+      "fetchedAt": "2026-10-30T22:21:58.692Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Hong Kong Web3 Festival 2027",
+      "sha256": "7517668e05d289ae5002ceea082ffde9b7c952d3f6efa12781952248a5c84ae6"
+    }
+  },
+  {
+    "id": "premier-webx-2027",
+    "slug": "webx-2027",
+    "name": "WebX 2027 Tokyo",
+    "description": "Produced by CoinPost, WebX is Asia's premier crypto and Web3 conference held at Tokyo Big Sight in Japan. The summit bridges Japan's leading public enterprises, major financial conglomerates, and top government regulatory bodies with international Web3 protocols, founders, and venture funds. Featuring keynotes, technical tracks, investor roundtables, and high-impact networking, WebX accelerates mass adoption and mainstream digital asset integration in Japan and across the Asia-Pacific region.",
+    "startDate": "2027-08-25T09:00:00.000Z",
+    "endDate": "2027-08-26T18:00:00.000Z",
+    "city": "Tokyo",
+    "country": "Japan",
+    "location": "Tokyo Big Sight, 3 Chome-11-1 Ariake, Koto City, Tokyo 135-0063, Japan",
+    "url": "https://webx-asia.com/",
+    "website": "https://webx-asia.com/",
+    "coverImage": null,
+    "twitter": null,
+    "source": "curated-premier",
+    "descriptionSource": {
+      "url": "https://webx-asia.com/",
+      "fetchedAt": "2026-10-30T22:21:58.692Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "WebX 2027 Tokyo",
+      "sha256": "d9d6cca1047d93468a0982412cab4b8b611c72d2a53f7e3f059be3312256e271"
+    }
+  },
+  {
+    "id": "premier-bitcoin-asia-2027",
+    "slug": "bitcoin-asia-2027",
+    "name": "Bitcoin Asia 2027",
+    "description": "Organized by BTC Inc (the team behind the flagship Bitcoin Conference), Bitcoin Asia returns to the Hong Kong Convention and Exhibition Centre (HKCEC). Bringing together thousands of Bitcoin builders, miners, institutional allocators, and protocol engineers from across the world, the conference explores Bitcoin Layer-2 scalability, Lightning Network adoption, Ordinals and Runes ecosystem growth, mining sustainability, and global macroeconomic sovereignty.",
+    "startDate": "2027-08-26T09:00:00.000Z",
+    "endDate": "2027-08-27T18:00:00.000Z",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "location": "Hong Kong Convention and Exhibition Centre (HKCEC), 1 Expo Drive, Wan Chai, Hong Kong",
+    "url": "https://b.tc/conference/asia",
+    "website": "https://b.tc/conference/asia",
+    "coverImage": null,
+    "twitter": null,
+    "source": "curated-premier",
+    "descriptionSource": {
+      "url": "https://b.tc/conference/asia",
+      "fetchedAt": "2026-10-30T22:21:58.692Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Bitcoin Asia 2027",
+      "sha256": "763d08b45a596ab2939b925a6470e33d7cc2248026806da4067202aa79e299e3"
+    }
+  },
+  {
+    "id": "premier-tokenize-ldn-2026",
+    "slug": "tokenize-ldn-2026",
+    "name": "Tokenize: LDN 2026",
+    "description": "Tokenize: LDN is London's dedicated institutional summit focused entirely on real-world asset (RWA) tokenization, tokenized credit, debt instruments, and institutional digital asset market infrastructure. Hosted at ExCeL London, the conference brings together global tier-1 investment banks, asset managers, hedge funds, custodians, and enterprise blockchain architects to explore on-chain fund tokenization, settlement interoperability, and regulatory compliance under the UK and European frameworks.",
+    "startDate": "2026-12-01T09:00:00.000Z",
+    "endDate": "2026-12-02T18:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "ExCeL London, Royal Victoria Dock, 1 Western Gateway, London E16 1XL, United Kingdom",
+    "url": "https://tokenize-event.com/",
+    "website": "https://tokenize-event.com/",
+    "coverImage": null,
+    "twitter": null,
+    "source": "curated-premier",
+    "descriptionSource": {
+      "url": "https://tokenize-event.com/",
+      "fetchedAt": "2026-10-30T22:21:58.692Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Tokenize: LDN 2026",
+      "sha256": "d2b535445f0724ceed04043f6d271f810c89e014dc64de5c3bb333489f8a97c6"
+    }
   }
 ]

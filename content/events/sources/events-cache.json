@@ -29286,5 +29286,52 @@
     "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
+  },
+  {
+    "id": "eb-2003199972041",
+    "name": "Crypto, Web3 & Blockchain Startups, Investors & Builders Networking Event",
+    "slug": "crypto-web3-startups-investors-london-nov-2026",
+    "description": "Join founders, startup builders, Web3 engineers, and angel & venture capital investors in London at The Refinery Bankside. This evening meetup offers focused informal networking, peer discussions on fundraising in current market conditions, decentralization trends, and tokenized ecosystem scaling across Europe and the UK.",
+    "startDate": "2026-11-16T19:00:00.000Z",
+    "endDate": "2026-11-16T22:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "The Refinery, 110 Southwark Street, London, SE1 0TA, United Kingdom",
+    "url": "https://www.eventbrite.co.uk/e/crypto-web3-blockchain-startups-investors-builders-networking-event-tickets-2003199972041",
+    "coverImage": null,
+    "source": "curated-reviewed",
+    "month": "November 2026",
+    "timezone": "Europe/London",
+    "venueName": "The Refinery",
+    "streetAddress": "110 Southwark Street",
+    "postalCode": "SE1 0TA",
+    "addressCountry": "GB",
+    "organizer": {
+      "type": "Organization",
+      "name": "The Business Minds"
+    },
+    "approvalRequired": false,
+    "locationHidden": false,
+    "visibility": "public",
+    "attendanceMode": "offline",
+    "sourceVerification": {
+      "url": "https://www.eventbrite.co.uk/e/crypto-web3-blockchain-startups-investors-builders-networking-event-tickets-2003199972041",
+      "eventId": "2003199972041",
+      "fetchedAt": "2026-10-30T22:20:47.389Z",
+      "method": "eventbrite-page"
+    },
+    "registrationAvailability": "open",
+    "price": "Free",
+    "ticketOffers": [
+      {
+        "name": "General Admission",
+        "url": "https://www.eventbrite.co.uk/e/crypto-web3-blockchain-startups-investors-builders-networking-event-tickets-2003199972041",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "hosts": [
+      "The Business Minds"
+    ]
   }
 ]

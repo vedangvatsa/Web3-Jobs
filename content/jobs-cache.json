@@ -23114,34 +23114,5 @@
     "active": true,
     "dateVerified": true,
     "slug": "fin2"
-  },
-  {
-    "id": "8189213",
-    "title": "Crypto Onchain Attorney",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/8189213?t=gh_src=&gh_jid=8189213",
-    "date": "2026-09-30T18:23:45-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Robinhood [robinhood]",
-    "location": "Menlo Park, CA; New York, NY; Washington, DC",
-    "department": "Legal",
-    "active": true,
-    "salary": "$187k – $220k/yr",
-    "dateVerified": true,
-    "slug": "coa"
-  },
-  {
-    "id": "8240148",
-    "title": "Equity and Reporting Accountant",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8240148",
-    "date": "2026-09-30T18:18:52-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Stripe [stripe]",
-    "location": "San Francisco, Seattle",
-    "department": "6420 Accounting",
-    "active": true,
-    "dateVerified": true,
-    "slug": "sls198"
   }
 ]

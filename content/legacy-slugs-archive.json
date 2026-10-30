@@ -151695,5 +151695,17 @@
     "link": "https://jobs.ashbyhq.com/trm-labs/1f9b3bac-2ac3-4b74-b5b9-4ea1de8a347b",
     "title": "Lead Instructor",
     "company": "TRM Labs"
+  },
+  "sls198": {
+    "id": "8240148",
+    "link": "https://stripe.com/jobs/search?gh_jid=8240148",
+    "title": "Equity and Reporting Accountant",
+    "company": "Stripe"
+  },
+  "coa": {
+    "id": "8189213",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8189213?t=gh_src=&gh_jid=8189213",
+    "company": "Robinhood",
+    "title": "Crypto Onchain Attorney"
   }
 }
