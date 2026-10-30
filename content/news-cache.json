@@ -1,6 +1,102 @@
 {
-  "generatedAt": "2026-10-30T03:39:48.714Z",
+  "generatedAt": "2026-10-30T10:25:38.647Z",
   "items": [
+    {
+      "title": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
+      "link": "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5",
+      "pubDate": "Fri, 30 Oct 2026 10:07:29 +0000",
+      "creator": "Agent",
+      "contentSnippet": "The hardware wallet manufacturer has yet to examine the device, but is treating the report as credible and told buyers to move their funds.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack",
+      "link": "https://cointelegraph.com/markets/rune-token-surges-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 30 Oct 2026 09:52:29 +0000",
+      "creator": "Zoltan Vardai",
+      "contentSnippet": "North Korean hackers previously used THORChain to move funds stolen from Bybit and Bitget, prompting calls for the protocol to intervene.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
+      "link": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
+      "pubDate": "Fri, 30 Oct 2026 09:41:07 +0000",
+      "creator": "James Van Straten",
+      "contentSnippet": "Andrew Kang’s departure comes as Strategy reports $21 billion in quarterly operating income and bitcoin holdings of 848,517 BTC.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "JPMorgan Chase, Wells Fargo and Goldman Sachs Among 33 Listed Companies Blocking Tokenized Versions of Their Stock on a Crypto Exchange-Fronted Joint Venture",
+      "link": "https://dailyhodl.com/2026/10/30/jpmorgan-chase-wells-fargo-and-goldman-sachs-among-33-listed-companies-blocking-tokenized-versions-of-their-stock-on-a-crypto-exchange-fronted-joint-venture/",
+      "pubDate": "Fri, 30 Oct 2026 09:15:45 +0000",
+      "creator": "Agent",
+      "contentSnippet": "JPMorgan Chase, AMD, Coca-Cola, Applied Materials, Adobe, Dell Technologies and Sandisk have joined the list of companies blocking tokenized versions ...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "Coinbase Q3 net income jumps 66% as prediction markets gain traction",
+      "link": "https://www.theblock.co/news/business/2026-10-30-coinbase-q3-net-income-jumps-432189",
+      "pubDate": "Fri, 30 Oct 2026 08:57:09 +0000",
+      "creator": "Timmy Shen",
+      "contentSnippet": "Bernstein analysts said Coinbase's expanding prediction markets and derivatives businesses helped offset weaker spot trading activity.",
+      "source": "The Block"
+    },
+    {
+      "title": "Binance hacker dumps a little-known 2017 token and it crashes 90% ",
+      "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
+      "pubDate": "Fri, 30 Oct 2026 07:54:07 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "The hacker dumped FUN and other smaller tokens into markets too small to absorb large selling, leading to price crashes.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+      "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
+      "pubDate": "Fri, 30 Oct 2026 06:22:00 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "Bets on rising prices accounted for nearly 84% of forced closures, with Binance handling almost half the total. A rebound has since started catching s...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
+      "link": "https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 30 Oct 2026 05:53:07 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "Michael Saylor says Strategy could create up to $30 billion in digital credit without new common-stock fundraising or further Bitcoin price gains, as ...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
+      "link": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
+      "pubDate": "Fri, 30 Oct 2026 05:45:27 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "A set of fixes would tighten who can hold permissioned tokens on the network. The XRP Ledger Foundation says no users were affected.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
+      "link": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
+      "pubDate": "Fri, 30 Oct 2026 05:43:07 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "CoinDCX has restricted new futures positions after Binance’s security incident disrupted a key liquidity provider. Deposits, withdrawals and customer ...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+      "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
+      "pubDate": "Fri, 30 Oct 2026 04:50:42 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "All 18,270 coins sit in 19 wallets, 17 of them holding exactly 1,000 BTC each, and none has moved since Thursday night, a CoinDesk trace of the blockc...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
+      "link": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 30 Oct 2026 03:47:01 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "Standard Chartered’s Geoffrey Kendrick says the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI...",
+      "source": "Cointelegraph"
+    },
     {
       "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
       "link": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
@@ -26,14 +122,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "Binance points to engineer’s hacked laptop in $6.3B breach ",
-      "link": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 30 Oct 2026 00:11:26 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "Binance says attackers may have used a compromised DevOps laptop to access internal infrastructure.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
       "link": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
       "pubDate": "Thu, 29 Oct 2026 22:57:48 +0000",
@@ -56,6 +144,14 @@
       "creator": "Jason Shubnell and Yogita Khatri",
       "contentSnippet": "Tether and Circle froze $1.79 billion in USDT and USDC after billions moved out of Binance hot wallets. Binance says it is investigating.",
       "source": "The Block"
+    },
+    {
+      "title": "Binance investigates multibillion-dollar security breach",
+      "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 29 Oct 2026 21:24:36 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "Binance is investigating a potential multibillion-dollar security breach that is estimated to have impacted $6.3 billion in funds.",
+      "source": "Cointelegraph"
     },
     {
       "title": "Strategy reports $19.5 billion in Q3 net income as preferred shareholders approve daily dividends",
@@ -170,14 +266,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
-      "link": "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 29 Oct 2026 16:27:39 +0000",
-      "creator": "Sam Bourgi",
-      "contentSnippet": "The tokenized shares would carry the same shareholder rights as traditional stock, with round-the-clock trading and immediate settlement under the SEC...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Crypto exchange HTX exits the UK after settling with the FCA",
       "link": "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca",
       "pubDate": "Thu, 29 Oct 2026 16:11:18 +0000",
@@ -282,6 +370,14 @@
       "source": "Coindesk"
     },
     {
+      "title": "Walmart, Eli Lilly join growing pushback against OKX–ICE tokenized stock plans",
+      "link": "https://www.coindesk.com/business/2026/10/29/walmart-eli-lilly-join-growing-pushback-against-okx-ice-tokenized-stock-plans",
+      "pubDate": "Thu, 29 Oct 2026 13:39:18 +0000",
+      "creator": "Krisztian Sandor",
+      "contentSnippet": "Five more companies have objected, bringing the total to 38 as a rival Canton venue prepares to launch with an issuer-sponsored stock under the SEC's ...",
+      "source": "Coindesk"
+    },
+    {
       "title": "Brazil’s Halloween eve crypto deadline brings more tricks than treats",
       "link": "https://cointelegraph.com/news/brazil-crypto-license-filing-deadline-hurdles-uncertainty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Thu, 29 Oct 2026 13:30:00 +0000",
@@ -346,22 +442,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers",
-      "link": "https://www.coindesk.com/business/2026/10/29/u-s-sanctions-russian-crypto-middlemen-tied-to-north-korean-it-worker-fraud",
-      "pubDate": "Thu, 29 Oct 2026 12:18:20 +0000",
-      "creator": "Francisco Rodrigues",
-      "contentSnippet": "Russian nationals Ilya Boykov and Vitold Obertas allegedly converted about $3.5 million and nearly $2 million in crypto, respectively, for North Korea...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "As $10 billion in bitcoin options near expiry, the tell is in the pricing",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing",
-      "pubDate": "Thu, 29 Oct 2026 12:04:50 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "Your day-ahead look for Oct. 29, 2026",
-      "source": "Coindesk"
-    },
-    {
       "title": "EU investors rank crypto above retirement plans for lasting wealth creation: OKX survey ",
       "link": "https://cointelegraph.com/news/eu-investors-crypto-above-retirement-lasting-wealth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Thu, 29 Oct 2026 12:00:00 +0000",
@@ -386,28 +466,12 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "OFAC sanctions DPRK IT worker fraud network and cash-out facilitators",
-      "link": "https://Blockchain.News/news/ofac-sanctions-dprk-it-worker-fraud-network-cash-out-facilitators",
-      "pubDate": "Thu, 29 Oct 2026 11:35:59 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Treasury sanctioned 10 individuals and one entity over North Korean IT worker schemes that used crypto and intermediaries to fund weapons programs. (R...",
-      "source": "Blockchain.News"
-    },
-    {
-      "title": "xU3O8 builds custody, trading and lending rails after tokenization",
-      "link": "https://Blockchain.News/news/xu3o8-builds-custody-trading-and-lending-rails-after-tokenization",
-      "pubDate": "Thu, 29 Oct 2026 11:26:59 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Uranium token xU3O8 has added custody, exchange access and lending support since launch, according to source material and recent reports. (Read More)",
-      "source": "Blockchain.News"
-    },
-    {
-      "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
-      "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
-      "pubDate": "Thu, 29 Oct 2026 11:11:48 +0000",
-      "creator": "Oliver Knight",
-      "contentSnippet": "Bitcoin fell 1.4% since midnight UTC to around $80,100 as disappointing reports from Samsung and Alphabet weighed on tech stocks. The Fed’s preferred ...",
-      "source": "Coindesk"
+      "title": "Treasury Sanctions 11 Over North Korean IT Worker Scheme That Moved Millions in Crypto",
+      "link": "https://decrypt.co/382132/treasury-sanctions-11-over-north-korean-it-worker-scheme-that-moved-millions-in-crypto",
+      "pubDate": "Thu, 29 Oct 2026 11:32:51 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Two Russian nationals converted more than $5 million in crypto for North Korean networks, according to OFAC, which listed their wallets.",
+      "source": "Decrypt"
     },
     {
       "title": "Utah Files Felony Charges Against Kalshi, Co-Founders Over Sports Bets",
@@ -426,68 +490,12 @@
       "source": "The Block"
     },
     {
-      "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K ",
-      "link": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 29 Oct 2026 10:46:43 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "BTC price analysis from Glassnode drew attention to $85,000 as the lower boundary of a cost-basis zone for long-term holders.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
-      "link": "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline",
-      "pubDate": "Thu, 29 Oct 2026 10:44:48 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "About 1.56 million SOL sat on a validator that stopped earning, and the wallet still hasn’t named the firm that held its keys.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
-      "link": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
-      "pubDate": "Thu, 29 Oct 2026 10:04:36 +0000",
-      "creator": "Francisco Rodrigues",
-      "contentSnippet": "The court said bitcoin has a market price, can be cashed out and held by the public. It upheld a 10-year sentence for a man who helped the robbers.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Bermuda taps WalletConnect to advance its onchain economy plan",
-      "link": "https://www.coindesk.com/business/2026/10/29/bermuda-taps-walletconnect-to-advance-its-onchain-economy-plan",
-      "pubDate": "Thu, 29 Oct 2026 10:00:00 +0000",
-      "creator": "Francisco Rodrigues",
-      "contentSnippet": "Bermuda chose WalletConnect to bring crypto payments to local merchants, starting with ticketing platform PTIX in the second quarter of 2027.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Keystone Wallet Destroying 18,835 Devices After Breach Exposes Authentication Key",
       "link": "https://dailyhodl.com/2026/10/29/keystone-wallet-destroying-18835-devices-after-breach-exposes-authentication-key/",
       "pubDate": "Thu, 29 Oct 2026 09:15:05 +0000",
       "creator": "Agent",
       "contentSnippet": "Keystone confirmed a website breach that exposed buyer data and a device authentication key, prompting the company to destroy nearly 19,000 unsold har...",
       "source": "Daily Hodl"
-    },
-    {
-      "title": "Bitcoin ETFs add $137M, pushing October back into the green",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 29 Oct 2026 07:32:20 +0000",
-      "creator": "Helen Partz",
-      "contentSnippet": "Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $111 million despite a hawkish Federal Reserve decision and weaker cryp...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
-      "link": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 29 Oct 2026 04:39:49 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "CFTC chair Mike Selig says autonomous AI agents could challenge financial rules built around human traders, and regulators need to adapt.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
-      "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 29 Oct 2026 01:12:01 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could deter...",
-      "source": "Cointelegraph"
     },
     {
       "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
@@ -554,14 +562,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
-      "link": "https://decrypt.co/382043/jpmorgan-coca-cola-7-more-companies-objecting-okx-ice-tokenized-stocks",
-      "pubDate": "Wed, 28 Oct 2026 15:05:03 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Seven more companies, including JPMorgan Chase, Coca-Cola and Dell, have objected to trading of their shares on the planned OKX-ICE tokenized stock ve...",
-      "source": "Decrypt"
-    },
-    {
       "title": "Avail launches ShieldTX privacy tool targeting copy-trading bots on Hyperliquid",
       "link": "https://www.theblock.co/news/defi/2026-10-28-avail-launches-shieldtx-privacy-tool-targeting-copy-trading-bots-on-hyperliquid-431977",
       "pubDate": "Wed, 28 Oct 2026 15:00:02 +0000",
@@ -610,14 +610,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "The World Trades Here: Bybit’s WSOT Is Coming Back With a Prize Pool of Up to 10 Million USDT",
-      "link": "https://dailyhodl.com/2026/10/28/the-world-trades-here-bybits-wsot-is-coming-back-with-a-prize-pool-of-up-to-10-million-usdt/",
-      "pubDate": "Wed, 28 Oct 2026 10:14:22 +0000",
-      "creator": "Chainwire",
-      "contentSnippet": "Dubai, United Arab Emirates, 28th October 2026, Chainwire\nThe post The World Trades Here: Bybit’s WSOT Is Coming Back With a Prize Pool of Up to 10 Mi...",
-      "source": "Daily Hodl"
-    },
-    {
       "title": "Coinbase Customer Data Hit in Analytics Vendor Breach, Funds ‘Not Impacted’",
       "link": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
       "pubDate": "Wed, 28 Oct 2026 10:10:31 +0000",
@@ -639,38 +631,6 @@
       "pubDate": "Tue, 27 Oct 2026 20:55:35 +0000",
       "creator": "Kyle Baird",
       "contentSnippet": "Robinhood’s blockchain boosted crypto revenue, while prediction markets brought in $173 million in the third quarter.",
-      "source": "The Block"
-    },
-    {
-      "title": "Robinhood Taps Ripple's Stablecoin, Treasury Software and Trading Loans",
-      "link": "https://decrypt.co/382002/robinhood-taps-ripple-stablecoin-treasury-software-trading-loans",
-      "pubDate": "Tue, 27 Oct 2026 20:16:02 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Ripple's RLUSD stablecoin is live on Robinhood Chain and Bitstamp, and heads to the Robinhood app later this year as the companies deepen ties in trea...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Anchorage Positions Itself as Custody Backbone of US-Mexico Stablecoin Corridor",
-      "link": "https://decrypt.co/381988/anchorage-custody-backbone-us-mexico-stablecoin-corridor",
-      "pubDate": "Tue, 27 Oct 2026 19:46:02 +0000",
-      "creator": "Agent",
-      "contentSnippet": "An expanded deal with Bitso puts Anchorage Digital Bank’s custody beneath both sides of the US-Mexico remittance route.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "CFTC sues Utah as battle over prediction market regulation intensifies",
-      "link": "https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922",
-      "pubDate": "Tue, 27 Oct 2026 18:51:46 +0000",
-      "creator": "Sarah Wynn",
-      "contentSnippet": "The CFTC is escalating its legal fight with states, suing Utah after the state filed a lawsuit against prediction market platform Kalshi.",
-      "source": "The Block"
-    },
-    {
-      "title": "Crypto.com and OG.com launch US crypto perps with up to 5x leverage",
-      "link": "https://www.theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902",
-      "pubDate": "Tue, 27 Oct 2026 17:07:10 +0000",
-      "creator": "Kyle Baird",
-      "contentSnippet": "The contracts have no expiration date and allow traders to bet on crypto prices rising or falling.",
       "source": "The Block"
     }
   ]
