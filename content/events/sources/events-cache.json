@@ -26604,7 +26604,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/los-angeles-double-your-crypto-club/events/317014775/",
-    "coverImage": "/events/mu-317014775-516a8fba.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -27426,7 +27426,7 @@
     "country": "us",
     "location": "San Francisco, us",
     "url": "https://www.meetup.com/renegadephilosophers/events/317040834/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317040834-4be0dfe6.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -27510,7 +27510,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261030%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261030T113524Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=a095b5d9235bc5e341b1d7a4ada8f25b11dac841c261ec22e24a7ed96c5cd7e9",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261030%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261030T193638Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=dee97fb7c74a3922ac6cd9e0f3d56e628f56de3ce6e6abb5a073eccc46d7c55d",
     "month": "November 2026"
   },
   {
@@ -28402,7 +28402,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-phoenix/events/317156432/",
-    "coverImage": "/events/mu-317156432-be7e6ca8.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -28864,7 +28864,10 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/317064975/",
     "coverImage": "/events/mu-317064975-0dc78544.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-evt-1YkeGIX5PJN3Q9d",
@@ -29254,6 +29257,34 @@
     "url": "https://lu.ma/8rwtdutu",
     "coverImage": "/events/luma-evt-utplenwm3nbf7gc-d7975af4.webp",
     "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-4fisniJjxMzaKmn",
+    "name": "GUEST KITCHEN DIA DE MUERTOS TABLE WITH CHIQUITO EL SUPPER CLUB FROM MEXICO CITY",
+    "description": "",
+    "startDate": "2026-10-30T18:00:00.000Z",
+    "endDate": "2026-10-30T21:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/b5lccqa9",
+    "coverImage": "/events/luma-evt-4fisnijjxmzakmn-61072e40.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-317065033",
+    "name": "ZK Learning Group: ZK Identity, supporting AML/KYC with ZK",
+    "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
+    "startDate": "2026-11-19T10:00:00-07:00",
+    "endDate": "2026-11-19T10:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-phoenix/events/317065033/",
+    "coverImage": null,
+    "source": "meetup",
     "month": "November 2026"
   }
 ]

@@ -55506,6 +55506,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-704b7d374733da6f"></a>
+
+## GUEST KITCHEN DIA DE MUERTOS TABLE WITH CHIQUITO EL SUPPER CLUB FROM MEXICO CITY
+
+- Record: `luma-evt-4fisniJjxMzaKmn`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-30T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/b5lccqa9>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-ed4ac431feccb888"></a>
 
 ## Codecrax Stay \| Affordable Accommodation for Devcon 8 & IBW Mumbai
@@ -59510,6 +59522,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-18T23:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/id80owbl>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-02544ce5dc81724d"></a>
+
+## ZK Learning Group: ZK Identity, supporting AML/KYC with ZK
+
+- Record: `mu-317065033`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19T10:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-phoenix/events/317065033/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

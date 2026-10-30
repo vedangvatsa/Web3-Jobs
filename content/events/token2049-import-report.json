@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-30T11:31:58.141Z",
+  "checkedAt": "2026-10-30T19:32:14.486Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -10,11 +10,11 @@
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 238,
-    "excluded": 370,
-    "needs-review": 39
+    "existing": 236,
+    "excluded": 369,
+    "needs-review": 40
   },
-  "importedTotal": 257,
+  "importedTotal": 254,
   "added": [],
   "receipts": [
     {
@@ -6755,8 +6755,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 429"
     },
     {
       "url": "",
