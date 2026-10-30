@@ -79011,6 +79011,36 @@
       "attemptId": "45afe669-947a-40c2-8e2b-1214082ec661",
       "verification": "verified",
       "postId": "691827047618629_1130668892873678"
+    },
+    {
+      "slug": "sec40",
+      "company": "Chainlink Labs",
+      "title": "Security Engineer, Product Security",
+      "platform": "x",
+      "postedAt": "2026-10-30T19:37:07.863Z",
+      "expectedText": "Chainlink Labs is hiring Security Engineer, Product Security\n\nhttps://hashtagweb3.com/sec40/x?og=7",
+      "snapshot": {
+        "id": "f192a8ac-f788-4e9e-88d2-3ad906c5e734",
+        "title": "Security Engineer, Product Security",
+        "company": "Chainlink Labs",
+        "link": "https://jobs.ashbyhq.com/chainlink-labs/f192a8ac-f788-4e9e-88d2-3ad906c5e734",
+        "date": "2026-10-21",
+        "dateVerified": true,
+        "source": "Ashby: Chainlink Labs [chainlink-labs]",
+        "location": "Remote (United States)",
+        "workplaceType": "Remote",
+        "department": "Security",
+        "active": true,
+        "slug": "sec40"
+      },
+      "payload": {
+        "text": "Chainlink Labs is hiring Security Engineer, Product Security\n\nhttps://hashtagweb3.com/sec40/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "7520e383-e64c-493d-b981-19f3643a56aa",
+      "verification": "creating"
     }
   ]
 }
