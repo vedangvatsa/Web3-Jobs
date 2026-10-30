@@ -78252,6 +78252,35 @@
       "attemptId": "45308b38-b70b-4376-95fc-f3dc922625ee",
       "verification": "verified",
       "postId": "urn:li:share:7521898754237554689"
+    },
+    {
+      "slug": "pm339",
+      "company": "Kamino",
+      "title": "Senior Product Data Analyst",
+      "platform": "facebook",
+      "postedAt": "2026-10-30T11:37:05.675Z",
+      "expectedText": "Kamino is hiring Senior Product Data Analyst: https://hashtagweb3.com/pm339/fb?og=7",
+      "snapshot": {
+        "id": "97930172",
+        "title": "Senior Product Data Analyst",
+        "company": "Kamino",
+        "link": "https://jobs.ashbyhq.com/kamino/311fb42a-8c5f-4847-bbbc-d651dee9d9bb",
+        "date": "2026-10-23T18:34:13.000Z",
+        "dateVerified": true,
+        "dateSource": "Solana.JobPosting.postedAt",
+        "source": "Solana Ecosystem: Kamino [getro-solana]",
+        "location": "Remote",
+        "department": "Product",
+        "salary": "$160k – $190k/yr",
+        "active": true,
+        "slug": "pm339"
+      },
+      "payload": {
+        "message": "Kamino is hiring Senior Product Data Analyst: https://hashtagweb3.com/pm339/fb?og=7",
+        "link": "https://hashtagweb3.com/pm339/fb?og=7"
+      },
+      "attemptId": "8a9b6498-43f4-4a41-a019-ee20d1a9c9ac",
+      "verification": "creating"
     }
   ]
 }
