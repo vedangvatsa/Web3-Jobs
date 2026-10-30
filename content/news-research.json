@@ -99468,7 +99468,7 @@
         "id": "f73a1c7235e439f04dff",
         "day": "2026-10-30",
         "articleSlug": "solflare",
-        "note": "Re-read Crypto Briefing in full today; it rests on Solflare's own Oct. 27 statements and notes major outlets had not yet covered the incident. Unchained's report via Yahoo Finance (read yesterday, with the Stakewiz ~1.56M SOL delegated figure) still needs re-verification before drafting; Solflare's X announcement remains a JS shell. Two readable outlets exist but the draft is not started.",
+        "note": "Re-read Crypto Briefing and Unchained (via Yahoo) in full today; both readable. Stakewiz 1,559,012 SOL figure attributed to Unchained only. BLOCKER: draftProgress slug solflare collides with company page /solflare (slug-types companies + preview/solflare.html); checkpoint refuses slug change, so ready record must use solflareincident. Draft not started.",
         "sourceChecks": [
           {
             "url": "https://cryptobriefing.com/solflare-staking-provider-security-incident-rewards/",
@@ -99479,7 +99479,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-10-30T10:50:30.276Z",
+        "updatedAt": "2026-10-30T11:01:26.362Z",
         "approved": false,
         "mustReview": true
       }
