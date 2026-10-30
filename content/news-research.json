@@ -104382,11 +104382,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "764cb677c453c228b817",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-31T15:07:38.000Z",
-      "lastSeenAt": "2026-10-29T03:34:54.128Z"
+      "lastSeenAt": "2026-10-29T03:34:54.128Z",
+      "reason": "price-chatter",
+      "note": "Read Bitcoin Magazine's full report: it covers Bitwise's 2027 long-term assumptions raising a 2036 bitcoin price target to ,599,766 with bear/bull cases. A forecast of future price is predictions and price chatter, not a concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/markets/bitwise-raises-bitcoin-target",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-30T10:54:41.525Z",
+      "lastReviewedDay": "2026-10-30"
     },
     "5b7a8eed12aafa62d842": {
       "source": "Bitcoin Magazine",
@@ -197640,6 +197650,18 @@
           "retrySearches": [
             "Find Liquid federation or Blockstream confirmation of the Oct. 28 50 BTC reserve transfer and 87.07% L-BTC coverage, or a second independent outlet reporting it beyond Defiant syndications"
           ]
+        },
+        "764cb677c453c228b817": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read Bitcoin Magazine's full report: it covers Bitwise's 2027 long-term assumptions raising a 2036 bitcoin price target to ,599,766 with bear/bull cases. A forecast of future price is predictions and price chatter, not a concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/markets/bitwise-raises-bitcoin-target",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-30T10:54:41.525Z"
         }
       },
       "baselineSlugs": [
