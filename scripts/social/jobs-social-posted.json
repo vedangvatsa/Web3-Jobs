@@ -75662,7 +75662,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "b2c21996-1a96-45d4-bf6a-7a19930c6973",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7521778936410701825"
     }
   ]
 }
