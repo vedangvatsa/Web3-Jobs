@@ -78049,7 +78049,8 @@
       },
       "account": "channel:product",
       "attemptId": "598760fa-c6f6-42fd-a692-524b9346037c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x75d7ad2dbe25a8fe95246fc2802b7369582ec51d"
     }
   ]
 }
