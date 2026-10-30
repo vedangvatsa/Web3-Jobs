@@ -78206,7 +78206,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "32a515dd-b68a-445a-a471-807014b8fcf4",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae481ffe97270550558c672"
     }
   ]
 }
