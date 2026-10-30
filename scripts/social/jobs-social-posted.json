@@ -74877,7 +74877,8 @@
       "account": "hashtag_web3",
       "attemptId": "30f6e79b-7e6c-4892-8d9d-f1016c7eea79",
       "verification": "pending",
-      "postId": "6ae411b34b8768bfb2d9ed86"
+      "postId": "6ae411b34b8768bfb2d9ed86",
+      "error": "Buffer X returned an unexpected published URL for 6ae411b34b8768bfb2d9ed86"
     }
   ]
 }
