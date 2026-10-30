@@ -78587,7 +78587,8 @@
       },
       "account": "channel:dev",
       "attemptId": "6d4b8d1a-8145-4184-aa7b-0e364757e5e4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x14e4e92da1fac690633a7608d0665f5e0bed6090"
     }
   ]
 }
