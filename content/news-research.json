@@ -99776,33 +99776,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "cbbf00e45a6c9c386fb1",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-30T18:29:16.000Z",
       "lastSeenAt": "2026-10-28T03:43:47.836Z",
-      "reason": "source-blocked",
-      "note": "Read Bitcoin Magazine's summary of the Reuters exclusive that the CFTC is again probing whether Polymarket broke its 2022 settlement. Reuters itself returns HTTP 401 and Bitcoin Magazine only summarizes it. CNBC published its own related report citing a person familiar; opened CNBC and Reuters syndicated text via Yahoo Finance/US News search results. Need to confirm two fully readable independent articles before drafting; CFTC and Polymarket declined comment.",
+      "reason": "duplicate",
+      "note": "Existing article cftcprobe.md (published 2026-10-29) already covers the Oct. 27 CFTC probe into whether Polymarket broke its 2022 settlement, citing CNBC and Unchained/Reuters. Re-read Bitcoin Magazine and CNBC today; same event, same settlement, same probe scope. No new development beyond the published piece.",
       "sourceChecks": [
         {
           "url": "https://bitcoinmagazine.com/news/cftc-reopens-questions-about-polymarkets",
           "outcome": "read"
         },
         {
-          "url": "https://www.reuters.com/business/finance/us-agency-is-again-probing-if-polymarket-broke-2022-settlement-sources-says-2026-10-27/",
-          "outcome": "blocked"
-        },
-        {
           "url": "https://www.cnbc.com/2026/10/27/cftc-probes-polymarket-over-2022-settlement.html",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-29T04:23:41.981Z",
+      "reviewedAt": "2026-10-30T10:45:43.383Z",
       "retrySearches": [
         "Confirm a second fully readable independent report on the CFTC Polymarket 2022-settlement probe of Oct. 27 2026 beyond Bitcoin Magazine and CNBC, or obtain Amplitude/CFTC primary comment"
       ],
-      "lastReviewedDay": "2026-10-29",
-      "nextReviewDate": "2026-10-30"
+      "lastReviewedDay": "2026-10-30",
+      "duplicateOf": "cftcprobe"
     },
     "135179b5e6dda769e49b": {
       "source": "Bitcoin Magazine",
@@ -197514,6 +197510,23 @@
           "retrySearches": [
             "Find independent readable coverage of SIX Swiss Exchange confirming overseas banks and brokers can access the BBIT spot bitcoin ETF, or a non-CoinDesk source for the international-access detail"
           ]
+        },
+        "cbbf00e45a6c9c386fb1": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Existing article cftcprobe.md (published 2026-10-29) already covers the Oct. 27 CFTC probe into whether Polymarket broke its 2022 settlement, citing CNBC and Unchained/Reuters. Re-read Bitcoin Magazine and CNBC today; same event, same settlement, same probe scope. No new development beyond the published piece.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/cftc-reopens-questions-about-polymarkets",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cnbc.com/2026/10/27/cftc-probes-polymarket-over-2022-settlement.html",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-30T10:45:43.383Z",
+          "duplicateOf": "cftcprobe"
         }
       },
       "baselineSlugs": [
