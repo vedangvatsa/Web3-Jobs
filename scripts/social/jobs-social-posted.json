@@ -79040,8 +79040,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "7520e383-e64c-493d-b981-19f3643a56aa",
-      "verification": "pending",
-      "postId": "6ae4f1e6b84259308b9990ad"
+      "verification": "verified",
+      "postId": "6ae4f1e6b84259308b9990ad",
+      "permalink": "https://twitter.com/hashtag_web3/status/2116253098565894181"
     }
   ]
 }
