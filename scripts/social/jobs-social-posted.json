@@ -76367,7 +76367,8 @@
       },
       "account": "channel:design",
       "attemptId": "2eff5b8e-cfbf-488e-8d9c-15b07369d361",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa7a9b5ba997ac10c1de1dd62f5e8d975f689eacc"
     }
   ]
 }
