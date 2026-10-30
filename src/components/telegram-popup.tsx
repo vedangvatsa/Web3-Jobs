@@ -57,7 +57,7 @@ export function PromoPopup() {
               'h-10 w-full bg-zinc-900 text-white hover:bg-zinc-800'
             )}
           >
-            Web3 Job Feed
+            Web3 Jobs Feed
           </a>
           <a
             href="https://t.me/eventsweb3"
