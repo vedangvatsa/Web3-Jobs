@@ -839,6 +839,9 @@
   "https://hashtagweb3.com/bithumbraid?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/liquidgap?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/phpctf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/bitgojupiter?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cftcprobe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/dailydividends?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2423,6 +2426,12 @@
   "Liquid reserve gap narrows to 600 BTC after test transfer",
   "Researcher claims Bitcoin prize by exploiting PHP vulnerability",
   "Researcher claims Steal My Bitcoin prize by exploiting patched PHP flaw",
+  "BitGo adds Jupiter validator for client SOL staking",
+  "BitGo adds Jupiter validator as SOL staking option for custody clients",
+  "CFTC Reopens Investigation Into Polymarket US User Access",
+  "CFTC reopens probe into whether Polymarket broke its 2022 US-user settlement",
+  "Strategy Shareholders Approve Daily Dividends for Four Preferred Stocks",
+  "Strategy shareholders approve daily dividends on four preferred stocks",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2812,5 +2821,8 @@
   "fp:blumenthal|demand|documentation|firm|found|group|hin|investigator|lobby|mad",
   "fp:access|bithumb|compromis|data|employe|exchang|external|information|inspect|inspection",
   "fp:btc|ceo|cover|day|deficit|gap|jan3|liquid|mow|narrow",
-  "fp:020|claim|developer|exploit|flaw|october25|patch|php|priz|recently"
+  "fp:020|claim|developer|exploit|flaw|october25|patch|php|priz|recently",
+  "fp:972m|add|bitgo|can|client|custody|delegat|eligibl|jupiter|nod",
+  "fp:access|american|are|block|brok|cftc|check|effectively|investigation|its2022",
+  "fp:accru|approv|business|daily|day|dividend|four|november|out|pay"
 ]

@@ -2551,7 +2551,7 @@
     "sentAt": "2026-10-29T19:36:21.335Z"
   },
   "6dd9efcc-4973-410b-82a1-d0236e9a022f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-30T03:40:47.015Z",
     "stories": [
       {
@@ -2579,6 +2579,8 @@
         "originalTitle": "Strategy shareholders approve daily dividends on four preferred stocks"
       }
     ],
-    "slotKey": "2026-10-30:morning"
+    "slotKey": "2026-10-30:morning",
+    "messageId": 156002,
+    "sentAt": "2026-10-30T03:40:50.159Z"
   }
 }
