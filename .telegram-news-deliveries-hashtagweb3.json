@@ -2549,5 +2549,36 @@
     "slotKey": "2026-10-29:evening",
     "messageId": 155987,
     "sentAt": "2026-10-29T19:36:21.335Z"
+  },
+  "6dd9efcc-4973-410b-82a1-d0236e9a022f": {
+    "status": "reserved",
+    "reservedAt": "2026-10-30T03:40:47.015Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "BitGo adds Jupiter validator for client SOL staking",
+        "summary": "Eligible custody clients can now delegate SOL to Jupiter, whose primary node holds about 9.72 million tokens.",
+        "link": "https://hashtagweb3.com/bitgojupiter?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "BitGo adds Jupiter validator as SOL staking option for custody clients"
+      },
+      {
+        "index": -1,
+        "headline": "CFTC Reopens Investigation Into Polymarket US User Access",
+        "summary": "US regulators are checking if the prediction platform effectively blocked American traders from using its offshore website.",
+        "link": "https://hashtagweb3.com/cftcprobe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC reopens probe into whether Polymarket broke its 2022 US-user settlement"
+      },
+      {
+        "index": -1,
+        "headline": "Strategy Shareholders Approve Daily Dividends for Four Preferred Stocks",
+        "summary": "Dividends for tickers STRF, STRC, STRK, and STRD will accrue daily and pay out on business days starting November.",
+        "link": "https://hashtagweb3.com/dailydividends?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Strategy shareholders approve daily dividends on four preferred stocks"
+      }
+    ],
+    "slotKey": "2026-10-30:morning"
   }
 }
