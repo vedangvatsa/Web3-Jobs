@@ -75760,6 +75760,39 @@
       "postId": "18117995455819182",
       "permalink": "https://www.threads.com/@hashtagweb3/post/DfGpWyJl0p2",
       "account": "hashtagweb3"
+    },
+    {
+      "slug": "be85",
+      "company": "Sardine",
+      "title": "Senior Software Engineer, Backend - KYC",
+      "platform": "bluesky",
+      "postedAt": "2026-10-30T03:44:32.584Z",
+      "expectedText": "Sardine is hiring Senior Software Engineer, Backend - KYC: https://hashtagweb3.com/be85/bsky?og=7",
+      "snapshot": {
+        "id": "c9979045-5ce5-471b-9900-f7244da0cb10",
+        "title": "Senior Software Engineer, Backend - KYC",
+        "company": "Sardine",
+        "link": "https://jobs.ashbyhq.com/Sardine/c9979045-5ce5-471b-9900-f7244da0cb10",
+        "date": "2026-10-20T20:42:49.167+00:00",
+        "source": "Ashby: Sardine [Sardine]",
+        "location": "Remote (Canada)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "be85"
+      },
+      "payload": {
+        "text": "Sardine is hiring Senior Software Engineer, Backend - KYC: https://hashtagweb3.com/be85/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/be85/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/be85.png?v=7",
+        "company": "Sardine",
+        "title": "Senior Software Engineer, Backend - KYC",
+        "description": "Join Sardine as Senior Software Engineer, Backend. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "befa80ca-6a97-458a-97b2-ea2cb0d99037",
+      "verification": "creating"
     }
   ]
 }
