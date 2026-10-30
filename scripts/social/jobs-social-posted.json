@@ -77184,7 +77184,8 @@
       },
       "account": "channel:product",
       "attemptId": "67c0ee19-a2ac-47db-bc01-2ad08f5a4e92",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xeee9166af8ba590b41ed702c0d527e67cfea0782"
     }
   ]
 }
