@@ -10917,7 +10917,7 @@
     "sentAt": "2026-10-30T19:32:14.821Z"
   },
   "38c42418-80b3-45ba-864d-0aaa26bc4421": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-30T19:32:28.228Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -11030,6 +11030,8 @@
       }
     ],
     "message": "- DRW is hiring <a href=\"https://hashtagweb3.com/sec93?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Offensive Security Engineer</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm330?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Designer, Fiat/Earn</a>\n- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/infra49?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Research Engineer - RL Infrastructure</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/ih?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Global Industry Lead, Healthcare</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/dshk?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Desktop Support, Hong Kong</a>",
-    "slotKey": "2026-10-30:evening"
+    "slotKey": "2026-10-30:evening",
+    "messageId": 156,
+    "sentAt": "2026-10-30T19:32:44.663Z"
   }
 }
