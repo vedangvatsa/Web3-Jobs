@@ -5967,7 +5967,7 @@
     "sentAt": "2026-10-30T11:33:30.873Z"
   },
   "03df90a7-264a-47ce-80a3-b65d40b7669c": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-30T19:32:49.184Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -6082,6 +6082,8 @@
       }
     ],
     "message": "- Ripple is hiring <a href=\"https://hashtagweb3.com/psc6?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Professional Services Consultant</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sec89?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Security GRC Program Manager, Third Party Risk</a>\n- Mesh is hiring <a href=\"https://hashtagweb3.com/mgr209?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Treasury Manager</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/rec45?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Post Sales Recruiter</a>\n- Sei Labs is hiring <a href=\"https://hashtagweb3.com/mgr182?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Risk Manager - Centralized Exchange</a>",
-    "slotKey": "2026-10-30:evening"
+    "slotKey": "2026-10-30:evening",
+    "messageId": 156012,
+    "sentAt": "2026-10-30T19:32:54.638Z"
   }
 }
