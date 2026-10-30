@@ -25216,38 +25216,6 @@ Thank you to PubKey DC for hosting!
 
 Organized by BitDevs DMV. Venue: Pubkey, Pubkey, 410 7th St NW, Washington, DC 20004, USA. Tickets: Free.
 
-<a id="event-15349929d3b4579d"></a>
-
-## SuperteamBR: Meetup University
-
-- Record: `luma-batch-t3Gp6ysBjCMzB6S`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-30T21:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/gyphbsbo>
-
-### About the event
-
-O Meetup University é um encontro para conectar estudantes universitários ao ecossistema Solana e às oportunidades da Web3.
-
-Durante o evento, vamos conversar sobre blockchain, carreira em tecnologia, comunidades e possibilidades de participação em hackathons e projetos do ecossistema.
-
-Será também um espaço para conhecer novas pessoas, trocar experiências e ampliar conexões profissionais, com pizza e networking.
-
-Não é necessário ter conhecimento prévio em Web3.
-
-Data: 30 de setembroHorário: 18h30
-
-Realização: Superteam Brasil e SolanaParceria: Carol Labs e FIAP
-
-### Hosts
-
-Hosted by Carol Santos, Superteam Brasil, Maria Clara Bastos.
-
-### Event details
-
-The event takes place on September 30. Venue: FIAP - Rio de Janeiro, FIAP - Rio de Janeiro, Centro Empresarial Botafogo - Praia de Botafogo, 300 - Conjuntos 33 e 34 - Botafogo, Rio de Janeiro - RJ, 22250-040, Brazil.
-
 <a id="event-3da8155cd76b2557"></a>
 
 ## An Introduction to Blockchains with Tangem

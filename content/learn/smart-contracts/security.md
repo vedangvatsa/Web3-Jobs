@@ -58,7 +58,7 @@ quiz:
     explanation: >-
       If you have a function like `withdrawProtocolFees()` and leave it `public`
       without a `require(msg.sender == owner)`, anyone can call it and steal the
-      fees. Access control is vital.
+      fees. Access control prevents unauthorized calls.
   - question: >-
       Why should you use audited libraries like OpenZeppelin instead of writing
       your own token logic?

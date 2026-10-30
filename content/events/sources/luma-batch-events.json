@@ -3147,59 +3147,6 @@
     }
   },
   {
-    "id": "luma-batch-t3Gp6ysBjCMzB6S",
-    "slug": "gyphbsbo",
-    "name": "SuperteamBR: Meetup University",
-    "description": "O Meetup University é um encontro para conectar estudantes universitários ao ecossistema Solana e às oportunidades da Web3.\n\nDurante o evento, vamos conversar sobre blockchain, carreira em tecnologia, comunidades e possibilidades de participação em hackathons e projetos do ecossistema.\n\nSerá também um espaço para conhecer novas pessoas, trocar experiências e ampliar conexões profissionais, com pizza e networking.\n\nNão é necessário ter conhecimento prévio em Web3.\n\nData: 30 de setembroHorário: 18h30\n\nRealização: Superteam Brasil e SolanaParceria: Carol Labs e FIAP\n\n## Hosts\n\nHosted by Carol Santos, Superteam Brasil, Maria Clara Bastos.\n\n## Event details\n\nThe event takes place on September 30. Venue: FIAP - Rio de Janeiro, FIAP - Rio de Janeiro, Centro Empresarial Botafogo - Praia de Botafogo, 300 - Conjuntos 33 e 34 - Botafogo, Rio de Janeiro - RJ, 22250-040, Brazil.",
-    "startDate": "2026-09-30T21:30:00.000Z",
-    "endDate": "2026-09-30T22:30:00.000Z",
-    "city": "Rio de Janeiro",
-    "country": "Brazil",
-    "location": "FIAP - Rio de Janeiro, FIAP - Rio de Janeiro, Centro Empresarial Botafogo - Praia de Botafogo, 300 - Conjuntos 33 e 34 - Botafogo, Rio de Janeiro - RJ, 22250-040, Brazil",
-    "url": "https://luma.com/gyphbsbo",
-    "registrationUrl": "https://luma.com/gyphbsbo",
-    "coverImage": "/events/luma-batch-t3Gp6ysBjCMzB6S-c9777028.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Carol Santos",
-      "Superteam Brasil",
-      "Maria Clara Bastos"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "America/Sao_Paulo",
-    "neighborhood": "Botafogo",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "FIAP - Rio de Janeiro",
-    "addressLocality": "Rio de Janeiro",
-    "addressRegion": "Rio de Janeiro",
-    "addressCountry": "BR",
-    "organizer": {
-      "type": "Organization",
-      "name": "Carol Santos",
-      "url": "https://luma.com/user/carols2antos"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/gyphbsbo",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/gyphbsbo",
-      "eventId": "calev-t3Gp6ysBjCMzB6S",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T11:00:44.000Z"
-    }
-  },
-  {
     "id": "luma-batch-tawLwbwrv8b5KOO",
     "slug": "superteam-fxat",
     "name": "SME Clinic Night: Security, DeFi & Design",

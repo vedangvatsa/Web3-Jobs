@@ -1985,10 +1985,6 @@
       "sha256": "b10895ebda2873ee1c5774112e4a466b4396085d18e7e702d6e97912b74f522b",
       "status": "optimized"
     },
-    "/events/luma-batch-t3Gp6ysBjCMzB6S-c9777028.webp": {
-      "sha256": "0a61b182715e7358172728db39d9e7154788b8c12a38e3bffd4d5d5fdb8f14ad",
-      "status": "optimized"
-    },
     "/events/luma-batch-tawLwbwrv8b5KOO-dab44379.webp": {
       "sha256": "88a6cf2dff3e7a9704b755032513c4b913a273fb5d73a6bba4266d79d26f6b21",
       "status": "optimized"
@@ -22243,10 +22239,6 @@
     },
     "/og/jobs/sls195.png": {
       "sha256": "c78fbd5627e178eff5aaf4ae3a20d3d138b99948bf7e6da1136822aa6c041534",
-      "status": "retained"
-    },
-    "/og/jobs/sls198.png": {
-      "sha256": "879a6c47075b91787554a44562bddd214c8584218e348c3d4542a02d384641f2",
       "status": "retained"
     },
     "/og/jobs/sls199.png": {
