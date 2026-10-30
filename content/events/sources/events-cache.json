@@ -436,58 +436,6 @@
     }
   },
   {
-    "id": "w3v-korea-blockchain-week-networking-rooftop",
-    "name": "Korea Blockchain Week Networking Rooftop",
-    "description": "## Korea Blockchain Week Networking Rooftop 🇰🇷\n\n📅 Date: Wednesday, September 30, 2026\n🕕 Time: 7:00 PM – 11:00 PM (KST)\n📍 Location: Rooftop Kloud, Seoul\n🌉 Venue: Premium riverside rooftop venue overlooking the Han River\n\n## About\n\nJoin us during Korea Blockchain Week for an exclusive evening of networking, conversations, and connections with the global crypto community.\n\nAfter a full day of panels, meetings, and conference activities, this is the perfect opportunity to relax, enjoy great food and drinks, and connect with founders, investors, traders, developers, creators, and blockchain professionals from around the world.\n\nSet against the beautiful Seoul skyline and Han River views, the evening will bring together some of the most active minds in the Web3 ecosystem for meaningful conversations, new partnerships, and unforgettable memories.\n\n## What to Expect\n\n🍸 Complimentary drinks throughout the evening\n\n🍽️ Korean-inspired food & appetizers\n\n🤝 High-quality networking with crypto professionals\n\n🌆 Stunning Seoul skyline and Han River views\n\n💬 Conversations with founders, investors, builders, and industry leaders\n\n📸 Photo opportunities and content creation\n\n## Who Should Attend?\n\n• Blockchain founders & entrepreneurs\n• Venture capitalists & investors\n• Crypto traders & analysts\n• Exchanges and infrastructure providers\n• Web3 developers\n• KOLs and content creators\n• Blockchain enthusiasts attending Korea Blockchain Week\n\n## Agenda\n\n7:00 PM – Doors Open & Welcome Drinks\n\n7:30 PM – Networking & Food Service Begins\n\n8:30 PM – Community Introductions\n\n9:00 PM – Open Networking\n\n11:00 PM – Event Ends\n\nLimited capacity. Registration is required.\n\nJoin us for one of the most exciting networking evenings of Korea Blockchain Week and connect with the people shaping the future of Web3.",
-    "startDate": "2026-09-30T10:00:00.000Z",
-    "endDate": "2026-09-30T14:00:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "Rooftop Kloud, South Korea, Seoul, Gangnam District, Teheran-ro 25-gil, 10 21 층",
-    "url": "https://luma.com/to04r60x",
-    "coverImage": "/events/w3v-korea-blockchain-week-networking-rooftop-2413a198.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "hosts": [
-      "Michael Coinfest"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Seoul",
-    "neighborhood": "Teheran-ro 25-gil",
-    "slug": "kbwnr",
-    "registrationUrl": "https://luma.com/to04r60x",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Rooftop Kloud",
-    "streetAddress": "Gangnam District, Teheran-ro 25-gil, 10 21 층",
-    "addressLocality": "Seoul",
-    "addressRegion": "Seoul",
-    "addressCountry": "KR",
-    "coordinates": {
-      "latitude": 37.501255,
-      "longitude": 127.03545589999999
-    },
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/to04r60x",
-        "price": 0,
-        "availability": "SoldOut"
-      }
-    ],
-    "registrationAvailability": "waitlist",
-    "sourceVerification": {
-      "url": "https://luma.com/to04r60x",
-      "eventId": "evt-5oBIKdmJwjmgUoW",
-      "fetchedAt": "2026-09-19T23:54:09.525Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-evt-YpFXSHbNG9yCntK",
     "name": "Convergence: Onchain Finance Soirée at Sibos Miami | OpenZeppelin x WisdomTree x DFNS",
     "description": "Convergence is a curated evening soirée during Sibos Miami 2026, hosted by OpenZeppelin, WisdomTree, and DFNS, for the leaders bringing traditional finance onchain.\n\nFinance is moving onchain. Tokenized funds, stablecoins, digital custody, and onchain settlement are becoming part of institutional infrastructure, and the people building that shift rarely get a room of their own at a conference of 10,000.\n\nThis evening is that room: banks, asset managers, payment networks, capital markets infrastructure, fintechs and neobanks, alongside the teams securing and powering their move onchain. Real conversations, away from the noise of the conference floor.\n\nJoin us on Wednesday, September 30 for cocktails in a private venue surrounded by modern art, 4 minutes from the Miami Beach Convention Center (MBCC).\n\nPrevious Convergence events drew senior guests from firms including J.P. Morgan, Citi, UBS, Morgan Stanley, Bank of America, BNY, Fidelity, Mastercard, Deloitte, and more.\n\nThe evening is limited to 100 guests to keep it at conversation scale. Registration is subject to hosts' approval.\n\n## About the hosts\n\n[OpenZeppelin](https://www.openzeppelin.com/) is the security standard for onchain finance. Since 2015, its industry-standard smart contracts library has powered $37 trillion in value transferred, alongside 900+ security engagements for leading institutions, blockchain networks, and protocols including DTCC, Fidelity Digital Assets, WisdomTree, Aave, the Canton Foundation [and the Ethereum Foundation. Learn more at openzeppelin.com](https://openzeppelin.com).\n\n[WisdomTree](https://www.wisdomtree.com/corporate) is a global financial innovator offering a diverse suite of exchange-traded products, models, digital assets, and solutions. A pioneer in bringing regulated tokenized funds to market, WisdomTree is building the bridge between traditional asset management and onchain finance.\n\n[Dfns](http://dfns.co/?utm_source=luma) is the leading Wallets-as-a-Service (WaaS) platform to manage digital asset operations and build applications onchain. Dfns is trusted by over 400 fintechs and financial institutions, including Circle, Stripe, First Abu Dhabi Bank, Standard Chartered Bank, Apex, Susquehanna, MoonPay, Fidelity, and many others.\n\n📸 Event Photography\n\nWe'll be capturing photos and videos throughout the event. By attending, you agree that we may use event content (including your image) in our marketing materials, social media, and future promotions. If you prefer not to be photographed, please let us know at check-in.\n\nRegistration details may be shared with event co-hosts WisdomTree and Dfns for event coordination.",
@@ -532,117 +480,6 @@
       "eventId": "evt-YpFXSHbNG9yCntK",
       "fetchedAt": "2026-09-19T23:54:10.002Z",
       "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "w3v-perps--institutional-trading-liquidity--the-onchain-economy",
-    "name": "Perps × Institutional: Trading, Liquidity & the Onchain Economy | Seoul | 🗓 30th September | During Korea Blockchain Week",
-    "description": "## About the Event\n\nPerps × Institutional is where onchain markets meet institutional capital a live gathering during Korea Blockchain Week bringing together perps, exchanges, funds, and the projects building the onchain economy.\n\nAcross one stage: Sessions spanning perps and market structure, institutional onchain, RWAs, stablecoins, DeFi liquidity, and AI. Alongside it runs a live trading floor a competition that turns the room into the most active table in Seoul during KBW.\n\nPrevious Speakers\n\n## On the Stage\n\n• Perps & Market Structure - where onchain leverage and volume head next\n• Institutional Onchain - how capital and desks are deploying into crypto\n• RWAs & the Real Economy - tokenizing real assets and their yield\n• Stablecoins & Settlement - the rail under every trade and treasury\n• DeFi & Onchain Liquidity - moving capital without intermediaries\n• AI × Crypto - the intelligence layer reshaping how markets trade\n  What to Expect\n\n• Senior operators from funds, TradFi, and crypto infrastructure\n• Case studies from live institutional deployments\n• Thoughtful panels and closed-door discussions\n• High-quality networking with capital allocators and builders\n• A serious, signal-driven environment\n\nPast Activations\n\n## Agenda (Indicative)\n\n16:00 – 16:45 · Arrival, registration & networking\n\n16:45 – 17:15 · Opening keynote - State of Onchain Markets in Asia (title partner)\n\n17:15 – 17:45 · Panel 1 - Perps & Market Structure: where leverage and volume head next\n\n17:45 – 18:15 · Panel 2 - Institutional Onchain: how capital and desks are deploying\n\n18:15 – 18:30 · Fireside - RWAs & the Real Economy\n\n18:30 – 19:00 · Panel 3 - Stablecoins, DeFi & Onchain Liquidity\n\n19:00 – 19:20 · AI × Crypto - the intelligence layer reshaping how markets trade\n\n19:20 – 19:40 ·  closing remarks\n\n• To discuss sponsorship opportunities, feel free to reach out on Telegram: @saurabh_0x\n\n## Past Events\n\nhttps://luma.com/3loqk0iz\n\nhttps://luma.com/zn02vlx2\n\nhttps://luma.com/wxa40k7a\n\nhttps://luma.com/7obq3bf2",
-    "startDate": "2026-09-30T07:30:00.000Z",
-    "endDate": "2026-09-30T12:00:00.000Z",
-    "country": "South Korea",
-    "location": "South Korea",
-    "url": "https://luma.com/v6bkeysx",
-    "coverImage": "/events/luma-recover-w3vperpsinstitut-466936dc.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "hosts": [
-      "lil room"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Seoul",
-    "slug": "perps-institutional",
-    "registrationUrl": "https://luma.com/v6bkeysx",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "addressCountry": "KR",
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/v6bkeysx",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/v6bkeysx",
-      "eventId": "evt-USmNC1PxmwCRB7C",
-      "fetchedAt": "2026-09-19T23:54:11.312Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "mu-316361033",
-    "name": "ZK Learning Group: Zero Knowledge Bridges",
-    "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
-    "startDate": "2026-09-30T12:00:00-04:00",
-    "endDate": "2026-09-30T12:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/lfdt-north-carolina/events/316361033/",
-    "coverImage": "/events/zk-learning-group-zero-knowledge-bridges-9c50f897.webp",
-    "source": "meetup",
-    "month": "September 2026"
-  },
-  {
-    "id": "w3v-rayls-in-seoul",
-    "name": "Rayls in Seoul | KBW",
-    "description": "Rayls will be in Seoul during Korea Blockchain Week, bringing together leaders across financial services, digital assets and onchain infrastructure.\n\nMore details will be announced soon.Register now to receive priority access and be first to hear about what’s planned.About Rayls\n\nRayls is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement\n\n## Event details\n\nHosted by Rayls . (Bringing Finance Onchain.). Venue: Seoul, South Korea. The event takes place on September 30. Registration requires organizer approval.",
-    "startDate": "2026-09-30T09:00:00.000Z",
-    "endDate": "2026-09-30T12:30:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "Seoul, South Korea",
-    "url": "https://luma.com/r5p3iwb8",
-    "coverImage": "/events/w3v-rayls-in-seoul-2b369e9a.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "hosts": [
-      "Rayls ."
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Seoul",
-    "slug": "rayls-seoul",
-    "registrationUrl": "https://luma.com/r5p3iwb8",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Seoul",
-    "addressLocality": "Seoul",
-    "addressRegion": "Seoul",
-    "addressCountry": "KR",
-    "coordinates": {
-      "latitude": 37.550263,
-      "longitude": 126.9970831
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "Rayls",
-      "url": "https://www.rayls.com/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/r5p3iwb8",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/r5p3iwb8",
-      "eventId": "evt-uMma490f6FR40ix",
-      "fetchedAt": "2026-09-22T11:53:33.000Z",
-      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -12595,99 +12432,6 @@
     "month": "September 2026"
   },
   {
-    "id": "luma-evt-lkUxdnNMACqJwVC",
-    "name": "So werden Teams & Prozesse fit für künstliche Intelligenz - KI-Management in der öffentlichen Verwaltung",
-    "description": "",
-    "startDate": "2026-09-30T07:15:00.000Z",
-    "endDate": "2026-09-30T15:00:00.000Z",
-    "city": "Zürich",
-    "country": "Switzerland",
-    "location": "Zürich, Switzerland",
-    "url": "https://lu.ma/nf9zn3vt",
-    "coverImage": "/events/luma-evt-lkuxdnnmacqjwvc-40e55a7c.webp",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
-    "id": "w3v-plasma-x-seoul-spend-it-like-26-09-30",
-    "name": "Plasma x Seoul: Spend It Like Money",
-    "description": "Plasma x Seoul: Spend It Like Money: Stablecoin issuance, payments and Plasma One sessions in Seoul.",
-    "startDate": "2026-09-30T08:30:00.000Z",
-    "endDate": "2026-09-30T13:00:00.000Z",
-    "city": "Global",
-    "country": "KR",
-    "location": "Global, KR",
-    "url": "https://luma.com/hikxx9hq",
-    "coverImage": "/events/w3v-plasma-x-seoul-spend-it-like-26-09-30-9f99532c.webp",
-    "month": "September 2026"
-  },
-  {
-    "id": "w3v-realfi-mainnet-launch-countdown-korea-blockchain-26-09-30",
-    "name": "RealFi - Mainnet Launch Countdown",
-    "description": "RealFi - Mainnet Launch Countdown: Korea Blockchain Week: a Cardano and DeFi gathering with a mainnet update.",
-    "startDate": "2026-09-30T09:00:00.000Z",
-    "endDate": "2026-09-30T12:00:00.000Z",
-    "city": "Global",
-    "country": "KR",
-    "location": "Global, KR",
-    "url": "https://luma.com/x5dssav0",
-    "coverImage": "/events/w3v-realfi-mainnet-launch-countdown-korea-blockcha-4b03a07a.webp",
-    "month": "September 2026"
-  },
-  {
-    "id": "w3v-tinageo-dashcam-d1-unveiled-26-09-30",
-    "name": "TINAGeo Dashcam D1 Unveiled",
-    "description": "TINAGeo Dashcam D1 Unveiled: A Seoul side event previewing a Geo-DePIN dashcam and real-world data network.",
-    "startDate": "2026-09-30T09:00:00.000Z",
-    "endDate": "2026-09-30T13:00:00.000Z",
-    "city": "Global",
-    "country": "KR",
-    "location": "Global, KR",
-    "url": "https://luma.com/tqux4q7e",
-    "coverImage": "/events/w3v-tinageo-dashcam-d1-unveiled-26-09-30-7d0c824a.webp",
-    "month": "September 2026"
-  },
-  {
-    "id": "w3v-seoul-chain-bonk-evg-rexy-26-09-30",
-    "name": "Seoul On Chain: By BONK, EVG and REXY",
-    "description": "Seoul On Chain: By BONK, EVG and REXY: a Seoul gathering on digital assets, trading and consumer crypto.",
-    "startDate": "2026-09-30T09:00:00.000Z",
-    "endDate": "2026-09-30T12:00:00.000Z",
-    "city": "Global",
-    "country": "KR",
-    "location": "Global, KR",
-    "url": "https://luma.com/3kt0wnsh",
-    "coverImage": "/events/w3v-seoul-chain-bonk-evg-rexy-26-09-30-5ba6a4c2.webp",
-    "month": "September 2026"
-  },
-  {
-    "id": "w3v-kbw-investor-reception-26-09-30",
-    "name": "KBW Investor & Trader Reception",
-    "description": "KBW Investor Reception: Seoul gathering for founders, investors, and Web3 participants during Korea Blockchain Week.",
-    "startDate": "2026-09-30T09:00:00.000Z",
-    "endDate": "2026-09-30T12:00:00.000Z",
-    "city": "Global",
-    "country": "KR",
-    "location": "Global, KR",
-    "url": "https://luma.com/grr5zhyd",
-    "coverImage": "/events/w3v-kbw-investor-reception-26-09-30-520ef051.webp",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-ahJ7KxjdoBG67Bb",
-    "name": "Stablecoins Through Different Lenses Payments, Fintech & Consumer Perspectives",
-    "description": "",
-    "startDate": "2026-09-30T12:30:00.000Z",
-    "endDate": "2026-09-30T15:00:00.000Z",
-    "city": "Miami",
-    "country": "United States",
-    "location": "Miami, United States",
-    "url": "https://lu.ma/mcc3fg5s",
-    "coverImage": "/events/luma-evt-ahj7kxjdobg67bb-07cc16f8.webp",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
     "id": "w3v-wyoming-blockchain-stampede-26-09-30",
     "name": "Wyoming Blockchain Stampede 2026",
     "description": "Wyoming Blockchain Stampede 2026: blockchain and AI conference in Laramie, September 30, 2026.",
@@ -12698,20 +12442,6 @@
     "location": "Laramie, US",
     "url": "https://luma.com/8vubx2wd",
     "coverImage": "/events/w3v-wyoming-blockchain-stampede-26-09-30-4353b784.webp",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-S4RFx0peQX7bgGR",
-    "name": "Geneva Loading… Bringing a Silicon Valley Perspective to the AI Summit 2027",
-    "description": "",
-    "startDate": "2026-09-30T16:00:00.000Z",
-    "endDate": "2026-09-30T18:30:00.000Z",
-    "city": "Zürich",
-    "country": "Switzerland",
-    "location": "Zürich, Switzerland",
-    "url": "https://lu.ma/GenevaLoading",
-    "coverImage": "/events/luma-evt-s4rfx0peqx7bggr-864fad36.webp",
-    "source": "luma",
     "month": "September 2026"
   },
   {
@@ -12795,20 +12525,6 @@
     "location": "Global, KR",
     "url": "https://luma.com/40pngz3o",
     "coverImage": "/events/w3v-forum-one-meet-regulators-26-10-01-aed5b9f0.webp",
-    "month": "September 2026"
-  },
-  {
-    "id": "mu-316361088",
-    "name": "ZK Learning Group: Zero Knowledge Bridges",
-    "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
-    "startDate": "2026-09-30T12:00:00-04:00",
-    "endDate": "2026-09-30T12:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/lfdt-washington-dc/events/316361088/",
-    "coverImage": null,
-    "source": "meetup",
     "month": "September 2026"
   },
   {

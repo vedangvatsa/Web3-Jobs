@@ -31,12 +31,6 @@
     "slug": "ds4ej40u",
     "aliases": []
   },
-  "token2049-41972aea13998db5": {
-    "slug": "fundforum-asia"
-  },
-  "token2049-1044b9e351b65628": {
-    "slug": "tech-week"
-  },
   "kbw-official-digital-af-exhibition-side-events-space-korea-blockchain-week-09-29": {
     "slug": "daeseskbw",
     "aliases": [
@@ -48,130 +42,9 @@
     "slug": "kbw",
     "aliases": []
   },
-  "premier-cvsummit": {
-    "slug": "cv"
-  },
-  "luma-batch-evt9KvD0EYKvt2ZX": {
-    "slug": "yxgfedrf"
-  },
   "luma-batch-evtrzXLDMSFDAuLv": {
     "slug": "83oq4sls",
     "aliases": []
-  },
-  "premier-perpsinst": {
-    "slug": "perps2",
-    "aliases": [
-      "perps-institutional",
-      "w3v-perps--institutional-trading-liquidity--the-onchain-economy"
-    ]
-  },
-  "kbw-official-stellar-night-seoul-09-30": {
-    "slug": "sns"
-  },
-  "luma-batch-evtdVOLw6RJTIHbd": {
-    "slug": "hikxx9hq"
-  },
-  "premier-raylsseoul": {
-    "slug": "rayls"
-  },
-  "kbw-official-bitgo-x-op-labs-x-plan-g-networking-drinks-seoul-09-30": {
-    "slug": "bxolxpgnds"
-  },
-  "kbw-official-mining-the-night-09-30": {
-    "slug": "mining-night"
-  },
-  "kbw-official-proof-of-liquidity-seoul-edition-by-yield-network-09-30": {
-    "slug": "proof-liquidity"
-  },
-  "kbw-official-altus-x-decipher-career-meet-up-the-first-penguin-09-30": {
-    "slug": "axdcmu"
-  },
-  "kbw-official-variational-private-event-09-30": {
-    "slug": "vpe"
-  },
-  "kbw-official-ourbit-kbw-after-hours-vip-party-09-30": {
-    "slug": "okahvp"
-  },
-  "luma-crypto-SIDB65YWRiPF0ZH": {
-    "slug": "cxs"
-  },
-  "luma-batch-evtqWKSTRzg4Y2cF": {
-    "slug": "3kt0wnsh"
-  },
-  "luma-batch-evtrMXADT4HwJJeX": {
-    "slug": "ut4s2v7m"
-  },
-  "luma-batch-evthEOPuocNwO1Dl": {
-    "slug": "tqux4q7e"
-  },
-  "luma-batch-evtyj1CNkjaBwyoJ": {
-    "slug": "hypern-ssv0"
-  },
-  "luma-batch-evta0QlFFdVtITQ1": {
-    "slug": "grr5zhyd"
-  },
-  "w3v-rayls-in-seoul": {
-    "slug": "rayls-seoul"
-  },
-  "kbw-official-quantstamp-x-common-defense-gangnam-mixer-09-30": {
-    "slug": "qxcdgm"
-  },
-  "luma-batch-evtzFxh5b4z7zKyH": {
-    "slug": "uy4s7f0z"
-  },
-  "luma-batch-evtBW8QIGxrRCHVE": {
-    "slug": "proofofai-kbw2026"
-  },
-  "w3v-korea-blockchain-week-networking-rooftop": {
-    "slug": "kbwnr"
-  },
-  "token2049-evt-iwlAee1GmHJX4Pd": {
-    "slug": "kopichat-ai"
-  },
-  "kbw-official-kbw-vip-party-beldex-x-acurast-09-30": {
-    "slug": "kvp"
-  },
-  "luma-crypto-RvnjOCvIWttcRXU": {
-    "slug": "twadn"
-  },
-  "luma-batch-evtSjRQeKMUJV5na": {
-    "slug": "frontier-traders-kr"
-  },
-  "luma-batch-evt1b1bEqcAVG1nL": {
-    "slug": "krsbyvk6"
-  },
-  "kbw-official-echo-in-color-where-web3-comes-alive-09-30": {
-    "slug": "ecwwca"
-  },
-  "luma-batch-evtFHEOnLxSFQKCi": {
-    "slug": "hack-k1fk"
-  },
-  "luma-batch-evtWD4MZ17No7f7H": {
-    "slug": "kastxpudgy_kbw"
-  },
-  "luma-batch-evtH1enTFF9eOqrP": {
-    "slug": "abab0r0n"
-  },
-  "luma-batch-evtNJphoAgBuOgrf": {
-    "slug": "2wm2b3ck"
-  },
-  "luma-batch-evtahJ7KxjdoBG67": {
-    "slug": "mcc3fg5s"
-  },
-  "luma-batch-evtHdTkV3aVBkRzW": {
-    "slug": "po151xsp"
-  },
-  "luma-batch-lfKfG6fJ1qbK6BD": {
-    "slug": "superteam-d6y2"
-  },
-  "luma-batch-RdKSClhxxiWWC2e": {
-    "slug": "a7oznc4g"
-  },
-  "luma-batch-evtIfnNAG5STwfOe": {
-    "slug": "3c8xo6kl"
-  },
-  "luma-batch-evtKamAQFlgwZ3YU": {
-    "slug": "hdcegf8a"
   },
   "luma-batch-evtGpyh3ZXaayPwW": {
     "slug": "sept_cryptodrinks_amsterdam"
@@ -5491,6 +5364,10 @@
   },
   "ibw-luma-evt-KFAiFGbSf0EbFnU": {
     "slug": "indiahouse",
+    "aliases": []
+  },
+  "luma-crypto-hH5qVNRMs3UbwXp": {
+    "slug": "krexa-agents-showdown",
     "aliases": []
   }
 }

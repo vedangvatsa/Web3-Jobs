@@ -285,21 +285,6 @@
       "preview": "TOKEN2049 Dubai brings together the global Web3 industry, uniting entrepreneurs, investors, developers, industry insiders and global media, and creates unparalleled networking opportunities."
     },
     {
-      "id": "premier-cvsummit",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://www.cvsummit.ch/",
-        "fetchedAt": "2026-09-20T00:20:12.817Z",
-        "method": "official-meta",
-        "pageTitle": "CV Summit Zurich - Join The Room",
-        "sha256": "6b82373d5b19d5d8151fe354679b937450aef1d9d94275397483b5a4b9fe7f49"
-      },
-      "previousStartDate": "2026-09-29T09:00:00.000Z",
-      "characters": 113,
-      "preview": "Switzerland's largest institutional digital assets & AI conference is back! Join us for CV Summit 2026 in Zürich."
-    },
-    {
       "id": "premier-cdnbitcoin",
       "file": "curated-events.json",
       "status": "source-backed",
@@ -681,21 +666,6 @@
       "previousStartDate": "2026-10-06T09:00:00.000Z",
       "characters": 167,
       "preview": "A curated prediction markets summit - 400 attendees, 50+ speakers, two stages across four hours - at Suntec City, Singapore, on October 8, 2026, during TOKEN2049 week."
-    },
-    {
-      "id": "premier-raylsseoul",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/r5p3iwb8",
-        "fetchedAt": "2026-09-19T23:54:12.111Z",
-        "method": "matched-organizer-record",
-        "pageTitle": "Rayls in Seoul | KBW",
-        "sha256": "70671a274708ce7bb60401707e7ad77e6170e07015d5e79b3acaac9e1d58f410"
-      },
-      "matchedRecordId": "w3v-rayls-in-seoul",
-      "characters": 767,
-      "preview": "Rayls will be in Seoul during Korea Blockchain Week, bringing together leaders across financial services, digital assets and onchain infrastructure.\n\nMore details will be announced soon.\n\nRegister now to receive priority access and be first to hear about what’s planned.\n\n\n\nAbout Rayls (https://www.rayls.com/?utm_source=luma)\n\nRayls (https://www.rayls.com/?utm_source=luma) is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement"
     },
     {
       "id": "premier-gbshow",

@@ -40,177 +40,6 @@
     }
   },
   {
-    "id": "luma-crypto-uhw289wfAXAVAdO",
-    "slug": "2ctufd",
-    "name": "2867 Club - top UIUC Founders Dinner (SF)",
-    "description": "An invite-only dinner for UIUC alumni building early-stage companies in the Bay Area.\n\nWe’re bringing together a small group of pre-seed through Series A founders for candid conversation, new connections, and a chance to learn from peers navigating similar challenges.\n\nThis is deliberately founder-focused and off the record. No formal programming, just a great group and a shared table.\n\nWho it’s for\n\n• UIUC alumni founders\n• Pre-seed, seed, and Series A-stage startups\n• Builders based in or visiting the Bay Area\n\nWhy attend\n\n• Meet other exceptional UIUC founders\n• Share lessons, challenges, and useful resources candidly\n• Help shape a growing UIUC founder community in SF and beyond\n• [Inaugural 2867.club](https://2867.club) dinner\n\nSpace is limited. Request an invite or RSVP if you received this link.",
-    "startDate": "2026-10-02T02:30:00.000Z",
-    "endDate": "2026-10-02T03:30:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "The Cavalier, 360 Jessie St, San Francisco, CA 94103, USA",
-    "url": "https://luma.com/itqo25g6",
-    "registrationUrl": "https://luma.com/itqo25g6",
-    "coverImage": "/events/luma-crypto-uhw289wfaxavado-661b873b.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Johnny Chang",
-      "Tatijana Janko"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/Los_Angeles",
-    "neighborhood": "Yerba Buena",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "The Cavalier",
-    "streetAddress": "360 Jessie St, San Francisco",
-    "addressLocality": "San Francisco",
-    "addressRegion": "California",
-    "addressCountry": "US",
-    "coordinates": {
-      "latitude": 37.7833359,
-      "longitude": -122.40699330000001
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/itqo25g6",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/itqo25g6",
-      "eventId": "evt-uhw289wfAXAVAdO",
-      "fetchedAt": "2026-09-19T23:46:03.145Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "luma-crypto-SIDB65YWRiPF0ZH",
-    "slug": "cxs",
-    "name": "Claude x Softr: AI Build Day Hackathon",
-    "description": "You've got a real business problem. Today you build the fix.\n\nMaybe it's a CRM that's actually just three spreadsheets and a prayer. An inventory system nobody trusts. An HR process that lives in someone's inbox. A client portal you've been meaning to build for a year but never had the dev time for.\n\nBring that problem. By 3 pm, you'll have a working app that solves it.\n\nThis isn't a talk about AI. It's a day of building with Claude and Softr, alongside other people running businesses who are tired of waiting on developers to build their internal tools.\n\nThis is for you if:\n→ You're running ops on spreadsheets that don't talk to each other\n→ Your CRM is a mess, and you know it\n→ Inventory, stock, or orders are tracked somewhere nobody fully trusts\n→ HR processes still live in email threads and shared docs\n→ You've wanted an internal portal or dashboard but never had the time or budget to build one\n→ You're the person who'd actually use the thing you build today, not just approve it\n\nWhat the day looks like:\n→ 10:00 Doors, coffee, meet the room\n→ 10:30 Welcome and a look at what's already been built\n→ 11:00 Build session I\n→ 12:30 Lunch (on us)\n→ 13:15 Build session II\n→ 14:30 Show and tell\n→ 15:00 Close\n\nSeats are capped at 30, so everyone gets proper help.\nBring a laptop and a specific problem; that's the only requirement.\n\nLunch is included.",
-    "startDate": "2026-09-30T09:00:00.000Z",
-    "endDate": "2026-09-30T14:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "Yellow Building, Nicholas Rd, London W11 4AN, UK",
-    "url": "https://luma.com/softr-build-day-london",
-    "registrationUrl": "https://luma.com/softr-build-day-london",
-    "coverImage": "/events/luma-crypto-sidb65ywripf0zh-dd3ebb2f.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Francisco Opazo"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/London",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Yellow Building",
-    "addressLocality": "London",
-    "addressRegion": "England",
-    "addressCountry": "GB",
-    "coordinates": {
-      "latitude": 51.5104544,
-      "longitude": -0.2186635
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "Softr",
-      "url": "https://softr.io/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/softr-build-day-london",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/softr-build-day-london",
-      "eventId": "evt-SIDB65YWRiPF0ZH",
-      "fetchedAt": "2026-09-19T23:46:13.096Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "luma-crypto-RvnjOCvIWttcRXU",
-    "slug": "twadn",
-    "name": "Singapore Tech Week 2026 AfterParty & Demo Night",
-    "description": "## 🌏 From Tech Week to What’s Next\n\n[Tech Week Singapore 2026](https://www.singaporetechnologyweek.com/) takes place on September 29–30 at Sands Expo & Convention Centre, bringing together technology leaders and practitioners from across Southeast Asia and the wider Asia-Pacific region.\n\nThis year’s five co-located events span Cloud & AI Infrastructure, DevOps, Cyber Security, Big Data & AI, and Data Centres—connecting the technologies powering the next wave of enterprise innovation.\n\nAs an official partner of Tech Week Singapore 2026, EPIC Connector is bringing the community together for a closing-night Afterparty & Demo Night.\n\nIf you’re a founder coming straight from a day at Tech Week Singapore, you’re especially welcome. Bring the ideas you’ve been exploring, the challenges you’re working through, and the product you can’t stop talking about.\n\n📅 September 30, 2026 · Evening\n📍 Marina Bay Sands, Singapore\n\n## ✨ What to Expect\n\n🚀 Products in the Spotlight\nDiscover what founders are building through live demos. Explore the problems behind the products, ask questions, and continue the conversation directly with the teams.\n\n🤝 Connections Beyond the Exhibition Floor\nMeet people working through similar challenges—from finding early customers and commercializing technology to building partnerships and entering new markets.\n\n🥂 Space to Unwind\nStep out of conference mode and settle into a more relaxed evening. Catch up with someone you met during the day or start a conversation with someone new.\n\n## 👀 Look Who’s Shipping\n\nJeff (Jiajun) [Lu](https://www.linkedin.com/in/lujiajun) | Founder & CEO, AKOOL\n\n[Bruce Yang](https://sg.linkedin.com/in/tongbruceyang) | Founder, Agnes AI\n\nKisson Lin | Founder, MegaHit.ai\n\nHong Chen | Founder, NevaMind\n\n## 🗓 Agenda\n\n6:30–7:00 PM · Arrival & Welcome Networking\n\n7:00–7:10 PM · Opening Remarks\n\n7:10–8:30 PM · Founder Demo Showcase\n\n8:00–9:30 PM · Open Networking\n\n## 👥 Who Should Join?\n\nWe welcome founders, builders, investors, and ecosystem partners, especially those working across this year’s Tech Week Singapore focus areas.\n\nWhether you’re building a startup, exploring investment opportunities, or looking for your next technology partner, join us to exchange perspectives and get to know the people behind the work.\n\nWant to showcase your product? Apply through the Demo Pitch ticket option on this page.\n\nCome with a question, a product, or an idea. Leave with a conversation worth continuing.\n\n## ABOUT US\n\nEPIC Connector is a leading global AI-native innovation community and ecosystem platform focused on technology commercialization and global growth. We are committed to accelerating the development of innovative projects from product building to global market expansion through venture incubation, brand events, growth services and global industrial ecosystem connectivity, and building a value network that links Builders, Founders and the global innovation ecosystem.\n\n• Connects 80,000+ global Founders and Builders\n• Global community spanning 9 countries and regions: the United States, Singapore, Chinese Mainland, Hong Kong, Macao and Taiwan, the United Kingdom, Australia, Japan, Switzerland and more\n• Incubated 10+ products with ARR exceeding $1 million\n• Supported 200+ products in successfully launching on Product Hunt\n• Cumulatively hosted 2,000+ global tech innovation events\n• Built a network of 200+ global strategic partners\n\n## Partners\n\n## Agnes AI\n\nAI Parity for the 99%: Inclusion and Accessibility for All.\n\nAgnes AI is a global full-modality foundation model company developing proprietary models across text, image, video, and reasoning. Through a unified API and intelligent applications, we help developers, teams, and businesses bring advanced AI into products, creation, and collaboration—making world-class intelligence more accessible, scalable, and practical for everyone.\n\n## AKOOL\n\nAKOOL Inc. is a leading enterprise-grade multimodal AI and large language model platform, providing unified access to advanced text, image, video, voice, and digital human models, along with the AI infrastructure needed to build and scale production-ready generative AI applications.\n\n## [MegaHit.ai](https://MegaHit.ai)\n\n[MegaHit.ai](https://MegaHit.ai) — Your Growth Co-Founder.\n\n[MegaHit.ai](https://MegaHit.ai) is an AI growth agent platform for startups and growth teams. It goes beyond giving advice: it understands your brand, goals, and long-term context, then continuously plans, executes, and optimizes your growth strategy. From social media, content, and SEO to KOLs, ads, and customer acquisition, MegaHit turns fragmented growth workflows into one proactive, continuously learning AI growth team.\n\n## NevaMind\n\nPut AI to work across your business.\n\nNevaMind is an enterprise AI operating system that brings specialized agents for research, sales, service, finance, and operations onto one shared knowledge layer. Our forward-deployed engineers work alongside your team to map workflows, connect business systems, deploy in your approved cloud environment, and continuously optimize production outcomes. Human approval, role-based access, and traceable outputs keep your organization in control.",
-    "startDate": "2026-09-30T10:30:00.000Z",
-    "endDate": "2026-09-30T13:30:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "CapitaSky, 79 Robinson Rd, Singapore 068897",
-    "url": "https://luma.com/techweeksg",
-    "registrationUrl": "https://luma.com/techweeksg",
-    "coverImage": "/events/luma-crypto-rvnjocviwttcrxu-7c619104.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "EpicConnector"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "neighborhood": "Downtown Core",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "CapitaSky",
-    "streetAddress": "79 Robinson Rd, Singapore",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "coordinates": {
-      "latitude": 1.2769049,
-      "longitude": 103.8479309
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "FounderGro Events",
-      "url": "https://www.epicconnector.ai/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/techweeksg",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "Demo Pitch",
-        "url": "https://luma.com/techweeksg",
-        "price": 30,
-        "priceCurrency": "USD",
-        "availability": "InStock"
-      },
-      {
-        "name": "Volunteer Helper",
-        "url": "https://luma.com/techweeksg",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/techweeksg",
-      "eventId": "evt-RvnjOCvIWttcRXU",
-      "fetchedAt": "2026-09-19T23:46:13.891Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-bjFFo8TJeoWZLmW",
     "slug": "pahfdrs4",
     "name": "Physical AI Hardware Founder Dinner with Rho @ Studio 45",
@@ -262,6 +91,57 @@
       "url": "https://luma.com/ysnawrb2",
       "eventId": "evt-bjFFo8TJeoWZLmW",
       "fetchedAt": "2026-09-19T23:46:14.418Z",
+      "method": "luma-api",
+      "apifyRunId": "uAC0NtYT5fM5WLkuu"
+    }
+  },
+  {
+    "id": "luma-crypto-uhw289wfAXAVAdO",
+    "slug": "2ctufd",
+    "name": "2867 Club - top UIUC Founders Dinner (SF)",
+    "description": "An invite-only dinner for UIUC alumni building early-stage companies in the Bay Area.\n\nWe’re bringing together a small group of pre-seed through Series A founders for candid conversation, new connections, and a chance to learn from peers navigating similar challenges.\n\nThis is deliberately founder-focused and off the record. No formal programming, just a great group and a shared table.\n\nWho it’s for\n\n• UIUC alumni founders\n• Pre-seed, seed, and Series A-stage startups\n• Builders based in or visiting the Bay Area\n\nWhy attend\n\n• Meet other exceptional UIUC founders\n• Share lessons, challenges, and useful resources candidly\n• Help shape a growing UIUC founder community in SF and beyond\n• [Inaugural 2867.club](https://2867.club) dinner\n\nSpace is limited. Request an invite or RSVP if you received this link.",
+    "startDate": "2026-10-02T02:30:00.000Z",
+    "endDate": "2026-10-02T03:30:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "The Cavalier, 360 Jessie St, San Francisco, CA 94103, USA",
+    "url": "https://luma.com/itqo25g6",
+    "registrationUrl": "https://luma.com/itqo25g6",
+    "coverImage": "/events/luma-crypto-uhw289wfaxavado-661b873b.webp",
+    "source": "luma-crypto",
+    "hosts": [
+      "Johnny Chang",
+      "Tatijana Janko"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "America/Los_Angeles",
+    "neighborhood": "Yerba Buena",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "venueName": "The Cavalier",
+    "streetAddress": "360 Jessie St, San Francisco",
+    "addressLocality": "San Francisco",
+    "addressRegion": "California",
+    "addressCountry": "US",
+    "coordinates": {
+      "latitude": 37.7833359,
+      "longitude": -122.40699330000001
+    },
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/itqo25g6",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/itqo25g6",
+      "eventId": "evt-uhw289wfAXAVAdO",
+      "fetchedAt": "2026-09-19T23:46:03.145Z",
       "method": "luma-api",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
@@ -3222,6 +3102,44 @@
       "fetchedAt": "2026-09-19T23:54:06.785Z",
       "method": "luma-api",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
+    }
+  },
+  {
+    "id": "luma-crypto-hH5qVNRMs3UbwXp",
+    "slug": "krexa-agents-showdown",
+    "name": "Krexa Agents Showdown",
+    "description": "## Krexa Agents Showdown\n\nThe Cursor for trading. Now put your agent to the test.\n\nKrexa lets you turn any trading idea into an AI agent. Choose an existing trading strategy or deploy your own custom strategy, then let your agent trade across venues and markets, from crypto and stocks to prediction markets.\n\nNow, it's time to see whose strategy comes out on top.\n\nWelcome to Krexa Agents Showdown, a competition where AI trading agents go head-to-head on Krexa. Deploy your strategy, compete against other participants, and climb the leaderboard by generating the highest profit.\n\nNo real money at stake. Just your strategy against everyone else's.\n\n## How It Works\n\n1. Choose Your Strategy\n\nStart with an existing trading strategy on Krexa or bring your own custom strategy. Build your approach around how you think the markets will move.\n\n2. Deploy Your Agent\n\nPut your strategy to work. Your AI agent can trade across supported venues and markets, including crypto, stocks, and prediction markets.\n\n3. Trade With Krexa Cash\n\nYour agent trades using Krexa Cash, Krexa's simulated trading funds. Experiment with strategies and compete without risking real trading capital.\n\n4. Climb the Leaderboard\n\nYour agent's performance is measured by profit and loss (PnL). Generate the highest profit and claim your spot at the top.\n\n## 🏆 Prize Pool: $600\n\nThree spots. One leaderboard. Make them count.\n\n🥇 1st Place: $300\n🥈 2nd Place: $200\n🥉 3rd Place: $100\n\n## Who Can Participate?\n\nAnyone, anywhere.\n\nWhether you're a trader, an AI builder, a developer, or someone curious about autonomous trading, you're welcome. You don't need to build everything from scratch. Start with an existing strategy or deploy your own.\n\nFree to enter. Open worldwide. No real trading capital required.\n\n## Competition Details\n\n• Entry fee: Free\n• Trading funds: Krexa Cash (simulated funds)\n• Markets: Crypto, stocks, prediction markets, and other markets supported by Krexa\n• Strategies: Existing strategies or custom strategies\n• Leaderboard: Ranked by profit and loss (PnL)\n• Duration: Multiple days; exact dates to be announced\n• Total prize pool: $600\n\n## How to Participate\n\nJoin the Krexa Discord to get competition updates and instructions on how to participate.\n\nJoin Discord: https://discord.gg/BermYSwseM\n\nExplore Krexa: https://www.krexa.xyz/\n\n## The Showdown Begins\n\nEvery participant has a strategy. Every agent gets its shot.\n\nDeploy yours. Trade with Krexa Cash. Beat the leaderboard.\n\nLet's see whose agent wins.",
+    "startDate": "2026-11-05T04:00:00.000Z",
+    "endDate": "2026-11-05T11:00:00.000Z",
+    "location": "Location to be announced",
+    "url": "https://luma.com/8qbzuam8",
+    "registrationUrl": "https://luma.com/8qbzuam8",
+    "coverImage": "/events/luma-crypto-hh5qvnrms3ubwxp-e03dca2b.webp",
+    "source": "luma-crypto",
+    "hosts": [
+      "tejas keshwani",
+      "Yatharth Kher"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Kolkata",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/8qbzuam8",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/8qbzuam8",
+      "eventId": "evt-hH5qVNRMs3UbwXp",
+      "fetchedAt": "2026-10-30T18:49:21.314Z",
+      "method": "luma-page"
     }
   }
 ]

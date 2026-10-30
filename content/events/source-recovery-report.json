@@ -637,37 +637,6 @@
       ]
     },
     {
-      "id": "premier-perpsinst",
-      "outcome": "recovered",
-      "sourceUrl": "https://luma.com/v6bkeysx",
-      "reason": "A second curated lil room entry became visible when the earlier generic-homepage duplicate was corrected. Match it to the verified Perps event rather than leave an uncovered duplicate.",
-      "fetchedAt": "2026-09-20T09:02:12.688Z",
-      "characters": 2029,
-      "changes": [
-        "name",
-        "startDate",
-        "endDate",
-        "description",
-        "timezone",
-        "registrationUrl",
-        "coverImage",
-        "attendanceMode",
-        "visibility",
-        "locationHidden",
-        "city",
-        "location",
-        "addressCountry",
-        "hosts",
-        "price",
-        "approvalRequired",
-        "ticketOffers",
-        "registrationAvailability",
-        "sourceVerification",
-        "url",
-        "website"
-      ]
-    },
-    {
       "id": "w3v-ethereum-cypherpunk-congress-mumbai",
       "outcome": "recovered",
       "sourceUrl": "https://luma.com/spsnos9t",

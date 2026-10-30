@@ -6584,11 +6584,6 @@
     "hosts": [
       "Rayls ."
     ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Rayls Community Meetups",
-      "url": "https://www.rayls.com/"
-    },
     "price": "Free",
     "approvalRequired": true,
     "ticketOffers": [
@@ -7333,7 +7328,11 @@
   },
   "premier-indiabw-2026": {
     "attendanceMode": "offline",
-    "organizer": { "type": "Organization", "name": "Hashed Emergent", "url": "https://www.hashedem.com/" },
+    "organizer": {
+      "type": "Organization",
+      "name": "Hashed Emergent",
+      "url": "https://www.hashedem.com/"
+    },
     "venueName": "Fairmont Mumbai",
     "location": "Fairmont Mumbai, T2 C06 At C T S No 1405 (Part), Chhatrapati Shivaji Maharaj International Airport T2, Mumbai 400099, India",
     "streetAddress": "T2 C06 At C T S No 1405 (Part), Chhatrapati Shivaji Maharaj International Airport T2",
@@ -7443,7 +7442,11 @@
   },
   "premier-devcon-2026": {
     "attendanceMode": "offline",
-    "organizer": { "type": "Organization", "name": "Ethereum Foundation", "url": "https://ethereum.foundation/" },
+    "organizer": {
+      "type": "Organization",
+      "name": "Ethereum Foundation",
+      "url": "https://ethereum.foundation/"
+    },
     "venueName": "Jio World Centre",
     "location": "Jio World Centre, G Block, Bandra Kurla Complex (BKC), Mumbai, India",
     "streetAddress": "G Block, Bandra Kurla Complex (BKC)",

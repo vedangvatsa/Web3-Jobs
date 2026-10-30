@@ -526,18 +526,6 @@
   ],
   "relatedRepairs": [
     {
-      "id": "premier-perpsinst",
-      "kind": "luma",
-      "sourceUrl": "https://luma.com/v6bkeysx",
-      "contains": [
-        "Perps",
-        "Institutional",
-        "Seoul"
-      ],
-      "eventId": "evt-USmNC1PxmwCRB7C",
-      "reason": "A second curated lil room entry became visible when the earlier generic-homepage duplicate was corrected. Match it to the verified Perps event rather than leave an uncovered duplicate."
-    },
-    {
       "id": "w3v-ethereum-cypherpunk-congress-mumbai",
       "kind": "luma",
       "sourceUrl": "https://luma.com/spsnos9t",

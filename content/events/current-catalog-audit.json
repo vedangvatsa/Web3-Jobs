@@ -5328,12 +5328,7 @@
       "previousCharacters": 719,
       "characters": 719,
       "factChanges": {
-        "location": "London, United Kingdom",
-        "organizer": {
-          "type": "Organization",
-          "name": "Rayls Community Meetups",
-          "url": "https://www.rayls.com/"
-        }
+        "location": "London, United Kingdom"
       },
       "source": {
         "url": "https://luma.com/yp556lph",

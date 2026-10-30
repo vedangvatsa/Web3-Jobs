@@ -1,42 +1,42 @@
 [
   {
-    "slug": "bitgojupiter",
-    "title": "BitGo adds Jupiter validator as SOL staking option for custody clients",
-    "description": "Eligible BitGo institutional clients can now delegate SOL from custody to a validator run by Jupiter, whose main validator holds about 9.72 million SOL.",
+    "slug": "aavebtc",
+    "title": "Aave raises Bitcoin and Ether borrowing limits across V3 and V4",
+    "description": "Governance proposal 536 lifted maximum loan-to-value ratios for WBTC and cbBTC to 81% on V3 Ethereum Core and raised V4 Main Spoke collateral factors, based on a LlamaRisk calibration against two years of price data.",
     "category": "News",
-    "publishedDate": "2026-10-29",
-    "image": "/images/news/bitgojupiter.jpg"
+    "publishedDate": "2026-10-30",
+    "image": "/images/news/aavebtc.jpg"
   },
   {
-    "slug": "bithumbraid",
-    "title": "Bithumb staff data leak prompts on-site inspections by Korean regulators",
-    "description": "South Korean regulators opened on-site inspections at Bithumb on Oct. 28 after the exchange reported that abnormal outside access leaked employee data.",
+    "slug": "amplitude",
+    "title": "Coinbase Says Analytics Vendor Amplitude Exposed Customer Contact Data",
+    "description": "Coinbase said a security incident at analytics vendor Amplitude touched contact data for a small subset of customers, while the exchange reported no breach of its own systems and no impact to customer funds.",
     "category": "News",
-    "publishedDate": "2026-10-29",
-    "image": "/images/news/bithumbraid.jpg"
+    "publishedDate": "2026-10-30",
+    "image": "/images/news/amplitude.jpg"
   },
   {
-    "slug": "cftcprobe",
-    "title": "CFTC reopens probe into whether Polymarket broke its 2022 US-user settlement",
-    "description": "The Commodity Futures Trading Commission is again examining whether Polymarket kept US users off its offshore platform, a year after earlier probes closed without charges.",
+    "slug": "cbbrasil",
+    "title": "Coinbase Files for Brazil Crypto License Before Central Bank Deadline",
+    "description": "Coinbase applied to Brazil's central bank on Wednesday under the country's new virtual asset service provider framework, joining Binance and Itau Unibanco in the Oct. 30 filing rush.",
     "category": "News",
-    "publishedDate": "2026-10-29",
-    "image": "/images/news/cftcprobe.jpg"
+    "publishedDate": "2026-10-30",
+    "image": "/images/news/cbbrasil.jpg"
   },
   {
-    "slug": "dailydividends",
-    "title": "Strategy shareholders approve daily dividends on four preferred stocks",
-    "description": "Strategy shareholders voted on Oct. 28 to let STRF, STRC, STRK and STRD accrue dividends every calendar day, with payments on business days starting in November.",
+    "slug": "cftc247",
+    "title": "CFTC Sets Dec. 15 Roundtable on 24/7 Derivatives Trading",
+    "description": "The Commodity Futures Trading Commission will hold a public roundtable on Dec. 15 to examine whether derivatives markets can move to around-the-clock trading, building on its summer request for comment.",
     "category": "News",
-    "publishedDate": "2026-10-29",
-    "image": "/images/news/dailydividends.jpg"
+    "publishedDate": "2026-10-30",
+    "image": "/images/news/cftc247.jpg"
   },
   {
-    "slug": "liquidgap",
-    "title": "Liquid reserve gap narrows to 600 BTC after test transfer",
-    "description": "A 2.53 BTC test transfer on Oct. 27 left Liquid's federation wallet about 600 BTC short of circulating L-BTC, and JAN3 CEO Samson Mow said the remainder will be covered within days.",
+    "slug": "solflareincident",
+    "title": "Solflare Says Staking Provider Key Incident Stopped Validator Rewards",
+    "description": "Solflare told users on Oct. 27 that a security incident at its staking provider affected the keys held for its validator, pausing rewards for about 1.56 million SOL delegated while user principal stayed in their own stake accounts.",
     "category": "News",
-    "publishedDate": "2026-10-29",
-    "image": "/images/news/liquidgap.jpg"
+    "publishedDate": "2026-10-30",
+    "image": "/images/news/solflareincident.jpg"
   }
 ]

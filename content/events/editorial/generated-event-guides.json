@@ -1007,39 +1007,6 @@
       }
     ]
   },
-  "premier-cvsummit": {
-    "summaryLead": "Switzerland's largest institutional digital assets and AI conference returns to the Kongresshaus in Zurich on 29-30 September 2026. CV Summit promises three stages, 200 speakers, more than 3,000 attendees and enough tokenization talk to fill a banker's October reading list.",
-    "sections": [
-      {
-        "heading": "Two Days on Crypto Valley's Home Turf",
-        "content": [
-          "CV VC and CV Labs run this event, and they enjoy home advantage: Zug and Zurich together form Crypto Valley, the densest cluster of digital-asset companies in Europe. The Kongresshaus sits right by Lake Zurich, a short walk from the old town, and it is the kind of venue that makes institutional visitors feel like they are somewhere that matters rather than at another rented hall. The organizers position CV Summit as a business conference, not a developer one. It is built for financial institutions, asset and wealth managers, investors, regulators and technology leaders - people who decide things rather than just talk about them.",
-          "The numbers come straight from the organizers: 200 speakers, 3,000-plus physical attendees, over 1,000 square metres of exhibition space, and three stages plus workshops across two days. The site also lists BlackRock, UBS, Citi, Visa, the World Bank and Roche among past attendees, which tells you how the room skews. If your job involves deciding whether your institution touches stablecoins, tokenized funds or AI-driven services, this is the crowd you would want to be standing in."
-        ]
-      },
-      {
-        "heading": "Four Tracks That Map the Institutional Agenda",
-        "content": [
-          "The program splits into four tracks, and together they read like a checklist of what banks are actually worrying about this year. Financial Infrastructure covers stablecoins, digital custody and how institutions rebuild payment rails. Tokenization of Capital Markets digs into tokenized securities, institutional DeFi, digital exchanges and trading infrastructure. The third track, AI and the Intelligent Economy, looks at autonomous systems, intelligent organizations and agentic intelligence as a new layer of value creation, while Wealth & Asset Management asks how investment strategies adapt to all of the above.",
-          "What I like is that the framing questions published by the organizers are concrete instead of vague. How are institutions rebuilding the rails of finance? Does tokenization actually create more efficient and liquid capital markets? Where will investors allocate capital over the next decade? How will AI change decision-making and markets? Panels and workshops run in parallel, so study the agenda page before you arrive and pick your lanes; trying to see everything is a good way to see nothing."
-        ]
-      },
-      {
-        "heading": "A Speaker Bench That Reads Like a Bank Boardroom",
-        "content": [
-          "The announced lineup leans institutional. Christopher Perkins, head of Franklin Crypto Investments, represents presenting partner Franklin Templeton, with colleague Mike Reed joining from the firm's digital asset partnership team. Cassie Craddock comes as Ripple's managing director for UK and Europe, Manuel Klein speaks for Deutsche Bank's payments and digital currencies unit, and Dr. Alexander Thoma leads digital assets at PostFinance. Sygnum co-founder and group CEO Mathias Imbach, Binance's Catherine Chen and Serge Kaulitz of Luzerner Kantonalbank round out the early names.",
-          "That mix says more than any marketing line could. When a Swiss cantonal bank, the national postal service's bank and a German universal bank all send digital-asset leadership to one stage, you are watching mainstream finance show its hand, not a crypto conference talking to itself. Beyond the main program, a side events calendar spreads conversations across the city, and there is an official app for building your personal schedule."
-        ]
-      },
-      {
-        "heading": "Tickets, Timing and a Sunset Boat",
-        "content": [
-          "Standard passes cost CHF 699 and cover both days. The VIP ticket runs CHF 1,999 and adds extras designed for leaders who want to squeeze more meetings out of the trip. Teams get a nudge too: buy three standard tickets and the fourth comes free, which makes sending a small delegation painless.",
-          "My favorite scheduled item might not be a panel at all. On the evening of day two, every ticket holder is invited aboard the Panta Rhei for networking on Lake Zurich while the sun goes down behind the skyline. Register through the official site, grab the app beforehand, and book accommodation early - late September is high season in Zurich, and rooms near the lake do not get cheaper closer to the date."
-        ]
-      }
-    ]
-  },
   "premier-bitcoinberlin": {
     "summaryLead": "bitcoin++ Berlin lands on 1-3 October 2026 at w3.hub with a payments theme: three days of talks, workshops and a 24-hour hackathon where the goal is literally to make bitcoin move the most money. Tickets start at EUR 315 if you pay in sats.",
     "sections": [
@@ -1833,74 +1800,6 @@
         "content": [
           "Attendance is application-based, with a waitlist rather than open ticketing - plan ahead and apply early, because curation takes time and TOKEN2049 week calendars fill months out. Partners get private meeting rooms and an exhibition zone, which tells you deals are meant to happen on-site, not in follow-up emails.",
           "Note the independence: this is a More & More production held during TOKEN2049 week, not an official TOKEN2049 event. That's standard practice in the side-event economy, but worth knowing when budgeting your calendar - and when deciding which badge actually gets you into which conversations."
-        ]
-      }
-    ]
-  },
-  "premier-perpsinst": {
-    "summaryLead": "Perps x Institutional Seoul 2026 gathers trading desks and protocol teams on September 30, 2026, to argue about perpetual futures: where the liquidity lives, and what it would take for institutions to participate on-chain at scale. It runs during Korea Blockchain Week.",
-    "sections": [
-      {
-        "heading": "Perpetuals grow up",
-        "content": [
-          "Perpetual futures were born in crypto-native venues and remain the engine room of crypto trading volume. What has changed is who cares. Pension allocations, hedging programs, and structured products have started circling perps because they are the instrument institutions would actually use, and this session, running 09:00 to 18:00 in Seoul, puts desks and protocol teams in the same room to negotiate that reality.",
-          "The listing keeps the framing simple: perpetuals liquidity and institutional participation on-chain. Behind those eight words sit hard questions about margin architecture, counterparty risk, oracle dependencies, and whether decentralized venues can handle block-sized flow without falling over. Expect blunt answers from people whose P&L depends on getting it right."
-        ]
-      },
-      {
-        "heading": "The liquidity question dominates everything",
-        "content": [
-          "Liquidity is the whole argument. Institutions will not route meaningful size into a venue where slippage eats the edge, and decentralized perps venues have historically struggled to match centralized books. The interesting recent development is the arrival of hybrid models, off-chain matching with on-chain settlement, and the session is well timed to take stock of which approaches survived contact with volume.",
-          "Seoul's audience sharpens the discussion. Korean trading culture is famously active, and local quant firms and prop desks understand derivatives markets from the inside. When those attendees push back on protocol teams' throughput claims, the exchange tends to be more useful than anything you would hear from a conference stage."
-        ]
-      },
-      {
-        "heading": "Desks, protocols, and the terms of engagement",
-        "content": [
-          "The pairing of trading desks and protocol builders is deliberate. Desks bring execution requirements; protocols bring roadmap constraints. Somewhere in the middle sits product-market fit for institutional perps: clearer liquidation mechanics, insurance funds that inspire confidence, APIs that do not require a PhD. Watching those two constituencies translate jargon at each other is the quiet appeal of a session like this.",
-          "Risk framing deserves its own mention. Institutions approaching perps care less about headline funding rates than about tail scenarios: what happens to an on-chain position during a cascade, how oracle failure is handled, who bears the shortfall when insurance funds run dry. Sessions that put those questions to protocol teams in front of an audience produce answers far more concrete than documentation pages ever manage.",
-          "For anyone building tooling, analytics, or market-making infrastructure around perps, the day doubles as customer discovery. The people deciding where institutional order flow goes will be within arm's reach, which is worth more than any badge tier at the main conference."
-        ]
-      },
-      {
-        "heading": "Timing, overlap, and logistics",
-        "content": [
-          "September 30 is a crowded day on the KBW side-event calendar, and this session shares its slot with a neighboring program on institutional RWAs and stablecoins from the same event family. Choose based on mandate: if you hedge with derivatives, come here; if you tokenize assets, go there. Both listings point through lilroom.xyz for details.",
-          "Leave buffer time between commitments. Seoul traffic between Gangnam venues eats schedules during KBW, and the best conversations at sessions like this happen in the gaps, over convenience-store coffee, long after the formal blocks end."
-        ]
-      }
-    ]
-  },
-  "premier-raylsseoul": {
-    "summaryLead": "Rayls brings its privacy-focused interbank blockchain protocol to Seoul on September 30, 2026, for demonstrations and partner meetings timed to Korea Blockchain Week. For anyone tracking how banks actually put finance on-chain, it is a rare chance to see the machinery up close.",
-    "sections": [
-      {
-        "heading": "The blockchain for banks, in town for the week",
-        "content": [
-          "Rayls bills itself plainly: the blockchain for banks. Its EVM-compatible Layer 1 is built to connect financial institutions to on-chain liquidity while keeping privacy and compliance baked into the base layer rather than bolted on afterward. During KBW, the team is hosting demonstrations and partner meetings rather than a stage show, which suits the product. This is infrastructure meant to be inspected, not applauded.",
-          "The Seoul trip lands amid visible momentum. The company launched its public chain mainnet on April 30, opened its Axyl Consensus Protocol code to the public in July, and used late August to announce Rayls Sovereign, described as the onchain gateway for institutions. Visitors in September will therefore be looking at shipped software and a fresh product line, not vaporware slides."
-        ]
-      },
-      {
-        "heading": "What the demonstrations cover",
-        "content": [
-          "The stack on display maps to three concrete use cases. Tokenised deposits let banks mint fiat balances as EVM-standard tokens inside a sovereign Privacy Node, keeping the deposit on the bank's balance sheet while making it programmable. Yield-bearing asset vaults extend institutional products to suitable investors with public chains serving as secondary markets. Cross-border payments use what the team calls a stablecoin sandwich: tokenised deposit converted to stablecoin, moved privately via the Rayls Enygma system, converted back, settling in seconds instead of days.",
-          "That last mechanism is the demo most bankers ask about, because correspondent banking delays are a shared pain across every market. Seeing the path from deposit token to settled cross-border transfer in one session explains more than any litepaper."
-        ]
-      },
-      {
-        "heading": "Momentum worth weighing before a meeting",
-        "content": [
-          "The company's ecosystem page reads like a central banker's contact list, with Banco Central do Brasil, the BIS, Mastercard, Accenture, Tether, XP, and LayerZero among listed partners, alongside Brazilian credit and tokenization firms such as AmFi and Nuclea whose executives appear in testimonials about building private networks on the stack. Backers named on the site include Framework, ParaFi, Valor Capital, Alexia Ventures, and Accenture.",
-          "Recent operational signals matter too. Parfin, the company behind Rayls, extended the lock-up on its RLS allocation by a year and migrated it on-chain in August, and the consensus layer went open source weeks earlier. Whether or not you buy the thesis, the team is behaving like it plans to stay.",
-          "Context for newcomers: the interbank angle is not marketing garnish. The protocol emerged from Parfin's work on Latin American financial infrastructure, and its design choices, permissioned participation at the edges with public-chain settlement at the center, reflect years of sitting in rooms with bank CTOs rather than DeFi summits. That lineage shows in the product decisions, for better and occasionally for worse if you arrive expecting crypto-native defaults."
-        ]
-      },
-      {
-        "heading": "Who should request time",
-        "content": [
-          "Digital asset teams at banks evaluating tokenized deposits, payment companies wrestling with FX settlement, and regulators studying privacy-preserving compliance models form the obvious meeting list. Korean institutions in particular have been methodical about interbank pilots, and a working EVM chain with privacy nodes answers several questions they usually raise.",
-          "Meetings during KBW book out fast, so reach out through rayls.com well ahead of the week. If you cannot secure a slot, the transparency portal and published documentation offer a reasonable substitute, though neither replaces watching a cross-border settlement complete in front of you."
         ]
       }
     ]

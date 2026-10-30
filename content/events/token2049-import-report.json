@@ -2474,15 +2474,6 @@
       "slug": "superreturn-asia"
     },
     {
-      "url": "https://informaconnect.com/fundforumasia",
-      "name": "FundForum Asia",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "fundforum-asia"
-    },
-    {
       "url": "https://www.hyperliquidforum.com",
       "name": "Hyperliquid Forum",
       "sources": [
@@ -2499,15 +2490,6 @@
       ],
       "status": "existing",
       "slug": "days"
-    },
-    {
-      "url": "https://www.singaporetechnologyweek.com",
-      "name": "Singapore Tech Week",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "tech-week"
     },
     {
       "url": "https://megatix.com.sg/events/after2049",

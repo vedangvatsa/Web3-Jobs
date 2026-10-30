@@ -38,24 +38,6 @@
     }
   },
   {
-    "url": "https://www.singaporetechnologyweek.com",
-    "evidence": [
-      "29-30 September 2026",
-      "Marina Bay Sands"
-    ],
-    "facts": {
-      "name": "Tech Week Singapore 2026",
-      "startDate": "2026-09-29",
-      "endDate": "2026-09-30",
-      "city": "Singapore",
-      "country": "Singapore",
-      "venueName": "Sands Expo and Convention Centre",
-      "location": "Marina Bay Sands, Singapore",
-      "timezone": "Asia/Singapore",
-      "description": "Tech Week Singapore takes place on 29–30 September 2026 at Sands Expo and Convention Centre, Marina Bay Sands. The event covers cloud and AI infrastructure, data centres, cybersecurity, and enterprise technology. The organizer publishes conference programmes, speaker details, and an exhibitor list."
-    }
-  },
-  {
     "url": "https://www.forbesglobalceoconference.com/2026",
     "evidence": [
       "Forbes Global CEO Conference 2026",

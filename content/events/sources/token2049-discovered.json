@@ -13576,35 +13576,6 @@
     }
   },
   {
-    "id": "token2049-41972aea13998db5",
-    "name": "FundForum Asia",
-    "description": "FundForum Asia is scheduled for 29 September 2026 online.",
-    "startDate": "2026-09-29",
-    "location": "Online",
-    "url": "https://informaconnect.com/fundforumasia",
-    "registrationUrl": "https://informaconnect.com/fundforumasia",
-    "coverImage": "/events/token2049-41972aea13998db5-5c4eacd3.webp",
-    "endDate": "2026-09-30",
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "online",
-    "slug": "fundforum-asia",
-    "source": "token2049-verified",
-    "descriptionSource": {
-      "url": "https://informaconnect.com/fundforumasia",
-      "fetchedAt": "2026-09-27T20:13:12.611Z",
-      "method": "matched-organizer-record",
-      "pageTitle": "FundForum Asia",
-      "sha256": "31b8bd8d4c1dbf59e84565eb77fc3c756c12c21ecef6c9d0a0b1cd101b778447",
-      "evidence": [
-        {
-          "url": "https://informaconnect.com/fundforumasia",
-          "fetchedAt": "2026-09-27T20:13:12.611Z",
-          "sha256": "71c58d5ad9fd2ed180d90586b48d47d8c42f08d47cdd8d07504906087dab9727"
-        }
-      ]
-    }
-  },
-  {
     "id": "token2049-2aaeb7b8b6a51c5c",
     "name": "Forbes Global CEO Conference 2026",
     "description": "The Forbes Global CEO Conference is scheduled for 7–8 October 2026 in Singapore. The organizer describes a conference for chief executives, entrepreneurs, and investors, with discussions on global business issues.",
@@ -13673,37 +13644,6 @@
           "url": "https://www.hyperliquidforum.com/singapore",
           "fetchedAt": "2026-09-27T20:13:18.180Z",
           "sha256": "35c5d09ac3017a7c72f59ef363880774c56c92f738679cb125e705d11a1246d2"
-        }
-      ]
-    }
-  },
-  {
-    "id": "token2049-1044b9e351b65628",
-    "name": "Tech Week Singapore 2026",
-    "description": "Tech Week Singapore takes place on 29–30 September 2026 at Sands Expo and Convention Centre, Marina Bay Sands. The event covers cloud and AI infrastructure, data centres, cybersecurity, and enterprise technology. The organizer publishes conference programmes, speaker details, and an exhibitor list.",
-    "startDate": "2026-09-29",
-    "location": "Marina Bay Sands, Singapore",
-    "url": "https://www.singaporetechnologyweek.com",
-    "registrationUrl": "https://www.singaporetechnologyweek.com",
-    "coverImage": "/events/token2049-1044b9e351b65628-b8940387.webp",
-    "endDate": "2026-09-30",
-    "city": "Singapore",
-    "country": "Singapore",
-    "venueName": "Sands Expo and Convention Centre",
-    "timezone": "Asia/Singapore",
-    "slug": "tech-week",
-    "source": "token2049-verified",
-    "descriptionSource": {
-      "url": "https://www.singaporetechnologyweek.com",
-      "fetchedAt": "2026-09-27T20:43:39.678Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Tech Week Singapore 2026",
-      "sha256": "71ff34f89362296d3023f314e67fbe8e4847707ed70db2ce3c5a5b418fd1e243",
-      "evidence": [
-        {
-          "url": "https://www.singaporetechnologyweek.com",
-          "fetchedAt": "2026-09-27T20:43:39.678Z",
-          "sha256": "a8b1bd400c9c7eed32e556daf43fc08d4323a9cb7eb37cb6668669cad4f17524"
         }
       ]
     }
@@ -14580,79 +14520,6 @@
           "url": "https://luma.com/hsnky9ms",
           "fetchedAt": "2026-09-29T19:48:04.753Z",
           "sha256": "49c429b3bbdc14e83246feffb96142bffc5a3906ce7312d3957bebab5a1aef6a"
-        }
-      ]
-    }
-  },
-  {
-    "id": "token2049-evt-iwlAee1GmHJX4Pd",
-    "name": "KopiChat: The AI-Powered CFO - A Cluedo Game Night",
-    "description": "KopiChat: The AI-Powered CFO - A Cluedo Game Night is scheduled for 30 September 2026 at 18:30 (Asia/Singapore) in Singapore. Hosted by Shreeya, Aneesha Reihana, Shyam Velumani, Pare, Soiree Singapore.\n\nArrive to drinks and canapes, and pick up your character or investigation card (no heavy role-play required).\n\nPast ones have run 50+ and 70+ people deep, so expect a full room.\n\nRegistration requires host approval.",
-    "startDate": "2026-09-30T10:30:00.000Z",
-    "location": "BYD Boat Quay 1826, 33/34 Boat Quay, Level 2, Singapore 049822",
-    "url": "https://luma.com/js2bjm2y",
-    "registrationUrl": "https://luma.com/js2bjm2y",
-    "coverImage": "/events/token2049-evt-iwlaee1gmhjx4pd-ced3a20f.webp",
-    "endDate": "2026-09-30T13:30:00.000Z",
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "city": "Singapore",
-    "country": "Singapore",
-    "venueName": "BYD Boat Quay 1826",
-    "streetAddress": "33/34 Boat Quay, Level 2, Singapore",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "neighborhood": "Central Area",
-    "coordinates": {
-      "latitude": 1.2862228,
-      "longitude": 103.8498206
-    },
-    "hosts": [
-      "Shreeya",
-      "Aneesha Reihana",
-      "Shyam Velumani",
-      "Pare",
-      "Soiree Singapore"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "NewWorld Foundry",
-      "url": "https://www.newworldfoundry.sg/"
-    },
-    "price": "SGD 65",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/js2bjm2y",
-        "price": 65,
-        "priceCurrency": "SGD",
-        "availability": "InStock",
-        "validFrom": "2026-09-15T07:00:00.000Z"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/js2bjm2y",
-      "eventId": "evt-iwlAee1GmHJX4Pd",
-      "fetchedAt": "2026-09-29T19:48:04.755Z",
-      "method": "luma-api"
-    },
-    "slug": "kopichat-ai",
-    "source": "token2049-verified",
-    "descriptionSource": {
-      "url": "https://luma.com/js2bjm2y",
-      "fetchedAt": "2026-09-29T19:48:04.755Z",
-      "method": "matched-organizer-record",
-      "pageTitle": "KopiChat: The AI-Powered CFO - A Cluedo Game Night",
-      "sha256": "641093699beffc294f78ada6fe21effdf6d6053a0f8b9f0a46605fa573a87640",
-      "evidence": [
-        {
-          "url": "https://luma.com/js2bjm2y",
-          "fetchedAt": "2026-09-29T19:48:04.755Z",
-          "sha256": "835b83da71a63b05681c87c10b7385a5fc7e4e7c199d29ff248db9b372f43ee0"
         }
       ]
     }

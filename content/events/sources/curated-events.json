@@ -1108,34 +1108,6 @@
     }
   },
   {
-    "id": "premier-cvsummit",
-    "slug": "cv",
-    "name": "CV Summit 2026",
-    "description": "CV Summit is Switzerland's leading institutional digital assets and AI business conference, uniting 3,000+ attendees in Zürich. Across two days and three stages it covers payment systems and digital money infrastructure, tokenized capital markets, next-generation wealth management and AI-powered financial services — built for financial institutions, asset and wealth managers, investors, regulators and technology leaders.\n\n## Program\n\nExplore tokenized securities, institutional DeFi, digital exchanges, trading infrastructure, and the evolution of programmable financial markets, with workshops, panels, and summit tracks throughout both days.\n\n## Speakers\n\nLeading voices in technology at CV Summit 2026 include Christopher Perkins, Manuel Klein, Dr. Alexander Thoma, Emilio Anting, Mathias Imbach, Catherine Chen, Serge Kaulitz and Jonas Epp, among others.\n\n## Tickets\n\nThe standard ticket covers both days of the conference. The VIP experience adds curated extras for leaders, and groups buy three standard tickets and get one free. Exhibition stands to VIP dinners are available for sponsors.",
-    "startDate": "2026-09-29T09:00:00.000Z",
-    "endDate": "2026-09-30T18:00:00.000Z",
-    "city": "Zurich",
-    "country": "Switzerland",
-    "location": "Kongresshaus Zürich, Zurich, Switzerland",
-    "url": "https://www.cvsummit.ch",
-    "website": "https://www.cvsummit.ch",
-    "coverImage": "/events/cv.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "descriptionSource": {
-      "url": "https://www.cvsummit.ch/",
-      "fetchedAt": "2026-09-22T12:01:12.000Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "CV Summit Zurich - Join The Room",
-      "sha256": "6b82373d5b19d5d8151fe354679b937450aef1d9d94275397483b5a4b9fe7f49"
-    },
-    "sourceVerification": {
-      "url": "https://www.cvsummit.ch",
-      "fetchedAt": "2026-09-22T08:21:52.144Z",
-      "method": "reviewed-primary-sources"
-    }
-  },
-  {
     "id": "premier-bitcoinberlin",
     "slug": "bitcoin1",
     "name": "bitcoin++ Berlin 2026",
@@ -1818,70 +1790,6 @@
       "method": "reviewed-primary-sources",
       "pageTitle": "The Odds: Prediction Markets Summit Singapore 2026",
       "sha256": "9b0cb49d44d0ac827cfdc94f2e11705572ad851eb4820807e9deb83d9b30dc3d"
-    }
-  },
-  {
-    "id": "premier-perpsinst",
-    "slug": "perps",
-    "name": "Perps × Institutional: Trading, Liquidity & the Onchain Economy | Seoul | 🗓 30th September | During Korea Blockchain Week",
-    "description": "## About the Event\n\nPerps × Institutional is where onchain markets meet institutional capital a live gathering during Korea Blockchain Week bringing together perps, exchanges, funds, and the projects building the onchain economy.\n\nAcross one stage: Sessions spanning perps and market structure, institutional onchain, RWAs, stablecoins, DeFi liquidity, and AI. Alongside it runs a live trading floor a competition that turns the room into the most active table in Seoul during KBW.\n\nPrevious Speakers\n\n## On the Stage\n\n• Perps & Market Structure - where onchain leverage and volume head next\n• Institutional Onchain - how capital and desks are deploying into crypto\n• RWAs & the Real Economy - tokenizing real assets and their yield\n• Stablecoins & Settlement - the rail under every trade and treasury\n• DeFi & Onchain Liquidity - moving capital without intermediaries\n• AI × Crypto - the intelligence layer reshaping how markets trade\n  What to Expect\n\n• Senior operators from funds, TradFi, and crypto infrastructure\n• Case studies from live institutional deployments\n• Thoughtful panels and closed-door discussions\n• High-quality networking with capital allocators and builders\n• A serious, signal-driven environment\n\nPast Activations\n\n## Agenda (Indicative)\n\n16:00 – 16:45 · Arrival, registration & networking\n\n16:45 – 17:15 · Opening keynote - State of Onchain Markets in Asia (title partner)\n\n17:15 – 17:45 · Panel 1 - Perps & Market Structure: where leverage and volume head next\n\n17:45 – 18:15 · Panel 2 - Institutional Onchain: how capital and desks are deploying\n\n18:15 – 18:30 · Fireside - RWAs & the Real Economy\n\n18:30 – 19:00 · Panel 3 - Stablecoins, DeFi & Onchain Liquidity\n\n19:00 – 19:20 · AI × Crypto - the intelligence layer reshaping how markets trade\n\n19:20 – 19:40 ·  closing remarks\n\n• To discuss sponsorship opportunities, feel free to reach out on Telegram: @saurabh_0x\n\n## Past Events\n\nhttps://luma.com/3loqk0iz\n\nhttps://luma.com/zn02vlx2\n\nhttps://luma.com/wxa40k7a\n\nhttps://luma.com/7obq3bf2",
-    "startDate": "2026-09-30T07:30:00.000Z",
-    "endDate": "2026-09-30T12:00:00.000Z",
-    "country": "South Korea",
-    "location": "South Korea",
-    "url": "https://luma.com/v6bkeysx",
-    "website": "https://luma.com/v6bkeysx",
-    "coverImage": "/events/premier-perpsinst-1f784d0e.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "timezone": "Asia/Seoul",
-    "registrationUrl": "https://luma.com/v6bkeysx",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "addressCountry": "KR",
-    "hosts": [
-      "lil room"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/v6bkeysx",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/v6bkeysx",
-      "eventId": "evt-USmNC1PxmwCRB7C",
-      "fetchedAt": "2026-09-20T09:02:12.688Z",
-      "method": "luma-page"
-    }
-  },
-  {
-    "id": "premier-raylsseoul",
-    "slug": "rayls",
-    "name": "Rayls in Seoul 2026",
-    "description": "Rayls will be in Seoul during Korea Blockchain Week, bringing together leaders across financial services, digital assets and onchain infrastructure. More details will be announced soon. Register now to receive priority updates.\n\n## About Rayls\n\nBringing finance onchain: Rayls Sovereign is the onchain gateway for institutions — a three-layer system enabling secure, verifiable capital flows between banks and DeFi. The programmable foundation for institutional blockchain lets participants mint, transfer, and extend fiat deposits as EVM-standard tokens within a Sovereign, preserving the bank's balance sheet while unlocking tokenisation. Trusted by leading institutions, with a global network of partners, dApps, validators, and builders.",
-    "startDate": "2026-09-30T09:00:00.000Z",
-    "endDate": "2026-09-30T18:00:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "Seoul, South Korea",
-    "url": "https://www.rayls.com",
-    "website": "https://www.rayls.com",
-    "coverImage": "/events/rayls.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "descriptionSource": {
-      "url": "https://www.rayls.com/",
-      "fetchedAt": "2026-09-22T12:14:29.000Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Rayls",
-      "sha256": "70671a274708ce7bb60401707e7ad77e6170e07015d5e79b3acaac9e1d58f410"
     }
   },
   {

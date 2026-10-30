@@ -619,29 +619,6 @@
     }
   },
   {
-    "name": "Rayls in Seoul 2026",
-    "url": "https://www.rayls.com",
-    "emails": [
-      "joe@gmail.com"
-    ],
-    "event": {
-      "id": "premier-raylsseoul",
-      "slug": "rayls",
-      "name": "Rayls in Seoul 2026",
-      "description": "Rayls brings its privacy-focused interbank blockchain protocol to Seoul for demonstrations and partner meetings during KBW.",
-      "startDate": "2026-09-30T09:00:00.000Z",
-      "endDate": "2026-09-30T18:00:00.000Z",
-      "city": "Seoul",
-      "country": "South Korea",
-      "location": "Seoul, South Korea",
-      "url": "https://www.rayls.com",
-      "website": "https://www.rayls.com",
-      "coverImage": "/events/rayls.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
     "name": "Global Blockchain Show Abu Dhabi 2026",
     "url": "https://www.globalblockchainshow.com/abu-dhabi/",
     "emails": [
