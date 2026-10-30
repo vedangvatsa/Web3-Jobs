@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-10-30",
+    "threadId": "C05",
+    "sequence": 13,
+    "platform": "linkedin",
+    "sourceContentSha256": "1cbe2f93ef8c2be5086df627ff8374c4090b8f42aebe30623ae69d6c3176c55f",
+    "calendarSha256": "70484da3b7319ebb706092e37759daf11ea4a58df5a9beadef96d8dd5ada9ebc",
+    "sourceThreadSha256": "951e06efff8ff5267c8d4f69df39b8334853a637f1a9486ba6870311b7aa5769",
+    "sourcePostHashes": [
+      "0d4869b4b95ed2ed2f3b3fd6da62d2cfde059be3c7e2ba28cf9db5403eea1e85",
+      "c6123e660d8fc722f5c9132cfbbb8f0d6f5b73cae76debc89ee59c8eb2b40516",
+      "3d06110418efeaa58cd4b5202614ceb17614f1e3c4cc09771a18aff65e56bffb",
+      "c0bd2238fc0285b4e21a1b8f8a76761c1145a920b0bca0e66bdd2e70db131f8d",
+      "12303fd35146cbd981c8c3c420d82c7c1279fd0f97cd39192bfa16526491f1e0",
+      "a7cc7cc2d1b3b28c9018a8f6e58723d59bd829bd2438fe2fe2e8c8ee4eda998a"
+    ],
+    "sourceImages": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/C05-01.jpg",
+        "sha256": "b9a6e575f9fa94e2efffb58d8da647e0e32b14b413381c24d496afac04d36e7d",
+        "bytes": 155304,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Destination photo beside remote-work visa durations. Japan's Digital Nomad visa allows 6 months with no extension. Thailand's DTV has 5-year multiple-entry validity and allows 180 days per entry. Work, financial, nationality and application-location requirements differ. Rules checked October 20, 2026.",
+        "renderedText": "Remote-work visas\n\nFive remote-work routes, five different tests\n\nRemote-work route\nRules checked October 20, 2026\n\nJapan\nDigital Nomad: 6 months, no extension.\nThailand DTV\n5-year multiple-entry validity; 180 days per entry.\n\nFive routes in this thread. Worker, money, nationality and application-location requirements differ.\n\nRules: Japan MOFA · Royal Thai Embassy, London · Photo: Osaka\n\nC05 · 1/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C05-02.jpg",
+        "sha256": "e406312848b63a709a6bbadc8daeb86c0d0724cad97ba865772604089ba61b71",
+        "bytes": 174210,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Thailand photo and DTV requirements. Remote-work or freelance evidence and THB 500,000 in funds; 5-year multiple-entry validity, 180 days per entry, with one extension up to 180 days before departure and re-entry. London's checklist requires permanent residence in the UK, Ireland or British Overseas Territories and police clearance issued within 6 months. Apply within London's consular jurisdiction. Checked October 20, 2026.",
+        "renderedText": "Remote-work visas\n\nThailand DTV: eligibility\n\nRemote-work route\nRules checked October 20, 2026\n\nFunds\nEvidence of THB 500,000 and remote work or freelancing.\nDuration\n5-year multiple-entry visa; 180 days per entry. Extend once by up to 180 days, then leave and re-enter.\nLondon only\nPermanent residence: UK, Ireland or British Overseas Territories. Police clearance ≤6 months old.\n\nApply within London's consular jurisdiction.\n\nRules: Royal Thai Embassy, London · Photo: Bangkok\n\nC05 · 2/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C05-03.jpg",
+        "sha256": "daa8b4088da1f36bfda8d2483a409716391bde3573342656cdf79cbfb8f1202e",
+        "bytes": 185531,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Malaysia photo and DE Rantau comparison. Minimum annual income: USD 24,000 for tech freelancers or remote employees; USD 60,000 for non-tech talent. Pass lasts 3-12 months, up to 24 with renewal, in Peninsular Malaysia and Labuan. Employees need a foreign employer; freelancers may serve Malaysian clients. Contracts must have started at least 3 months before application. Checked October 20, 2026.",
+        "renderedText": "Remote-work visas\n\nMalaysia DE Rantau: tech versus non-tech\n\nRemote-work route\nRules checked October 20, 2026\n\nTech income\nAt least USD 24,000/year for freelancers or remote employees.\nNon-tech income\nUSD 60,000/year minimum.\nPass + territory\n3-12 months; up to 24 with renewal. Peninsular Malaysia and Labuan.\n\nEmployees need a foreign employer; freelancers may serve Malaysian clients. Contracts must start at least 3 months before application.\n\nRules: mdec.my · Photo: Kuala Lumpur\n\nC05 · 3/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C05-04.jpg",
+        "sha256": "910ef2186d6aa905be890bf01ce59ee08c7c905bdf2e3c930115a6b1600e0cc8",
+        "bytes": 171112,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Japan photo and Digital Nomad visa requirements: at least JPY 10 million annual income; death, injury or illness insurance with at least JPY 10 million for injury or illness treatment. Stay: 6 months, no extension. The principal-applicant nationality list includes the US, but not India; the spouse and child list differs. Checked October 20, 2026.",
+        "renderedText": "Remote-work visas\n\nJapan: income, insurance and nationality\n\nRemote-work route\nRules checked October 20, 2026\n\nAnnual income\nAt least JPY 10 million for remote work.\nInsurance\nDeath, injury or illness cover; at least JPY 10 million for injury/illness treatment.\nStay\n6 months, no extension.\n\nPrincipal-applicant nationality list: US included; India absent. The spouse/child list differs.\n\nRules: Japan MOFA · Immigration Services Agency · Photo: Osaka\n\nC05 · 4/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C05-05.jpg",
+        "sha256": "30dc46f42286c435c414fe6375ec2222f95ebba479d329adacdc74b38d9cc52c",
+        "bytes": 163977,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Costa Rica flag and remote-worker Estancia requirements. Overseas monthly income for the previous year: USD 3,000 individual or USD 4,000 with dependants. Medical cover: at least USD 50,000 for the full stay, including each dependant. Stay: 1 year, renewable once; renewal requires at least 80 days physically in Costa Rica. Checked October 20, 2026.",
+        "renderedText": "Remote-work visas\n\nCosta Rica: evidence for the previous year\n\nRemote-work route\nRules checked October 20, 2026\n\nMonthly income\nUSD 3,000 individual / USD 4,000 with dependants, from overseas work. Evidence for the previous year.\nMedical cover\nAt least USD 50,000 for the full stay; each dependant covered.\nEstancia\n1 year, renewable once.\n\nRenewal requires at least 80 days physically in Costa Rica.\n\nRules: visitcostarica.com\n\nC05 · 5/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C05-06.jpg",
+        "sha256": "7cf4bf3fed5a11438586a7c0b5d833bf380904875b8c89f5b8fae540dc3b6f17",
+        "bytes": 159019,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Barbados flag and Welcome Stamp requirements. Remote work for overseas clients or employers for 12 months; expected income of at least USD 50,000 over that year. Non-refundable fee after approval: USD 2,000 individual or USD 3,000 family. Reapplication is possible after the year. Checked October 20, 2026.",
+        "renderedText": "Remote-work visas\n\nBarbados: income test and visa fee are separate\n\nRemote-work route\nRules checked October 20, 2026\n\nExpected income\nAt least USD 50,000 over the intended 12 months.\nFee after approval\nUSD 2,000 individual / USD 3,000 family; non-refundable.\nWork + duration\n12 months of remote work for overseas clients or employers.\n\nReapplication is possible after the year.\n\nRules: visitbarbados.org\n\nC05 · 6/6"
+      }
+    ],
+    "assetCommit": "0dbe3a415a1bb18b0411e7458897b7f9a618a26c",
+    "target": {
+      "channelId": "69c5b139af47dacb695b5feb",
+      "service": "linkedin",
+      "serviceId": "89714573",
+      "profile": "https://www.linkedin.com/company/hashtagweb3/"
+    },
+    "caption": "Japan's nomad visa allows 6 months; Thailand's DTV is valid for 5 years, with 180 days per entry.\n\nCompare five remote-work routes. Eligibility depends on your work, finances, nationality and application location.\n\n1. Thailand DTV: 5-year multiple-entry visa; 180 days per entry. Remote workers/freelancers need work evidence and THB 500,000 in funds.\n\nLondon also requires permanent-residence proof and police clearance.\n\n2. Malaysia's DE Rantau pass: 3-12 months, up to 24 with renewal, for Peninsular Malaysia and Labuan.\n\nAnnual income: USD 24,000 for tech freelancers/remote employees; USD 60,000 for non-tech talent.\n\n3. Japan's Digital Nomad visa: 6 months, no extension. Remote workers need JPY 10 million annual income and JPY 10 million medical cover.\n\nThe principal-applicant nationality list includes the US; India is not listed.\n\n4. Costa Rica's remote-worker Estancia lasts 1 year, renewable once.\n\nShow USD 3,000/month from overseas work for the previous year (USD 4,000 with dependants), plus USD 50,000 medical cover for the full stay.\n\n5. Barbados Welcome Stamp: 12 months of remote work for overseas clients or employers. Expected income: at least USD 50,000 over that year.\n\nFee after approval: USD 2,000 individual or USD 3,000 family.\n\nFull resource: hashtagweb3.com/visas/li",
+    "title": "Five remote-work visas and permits: stay, funds and eligibility",
+    "pdf": {
+      "path": "social-assets/knowledge-threads-month/exports/C05/linkedin.pdf",
+      "sha256": "8b871a01231d17f8d65917bb466941b688f820e57fee6753ae3c9dcd8401b738",
+      "bytes": 1013041,
+      "pageCount": 6,
+      "widthPt": 600,
+      "heightPt": 750,
+      "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/0dbe3a415a1bb18b0411e7458897b7f9a618a26c/social-assets/knowledge-threads-month/exports/C05/linkedin.pdf"
+    },
+    "thumbnail": {
+      "path": "social-assets/knowledge-threads-month/exports/C05/cover.jpg",
+      "sha256": "b9a6e575f9fa94e2efffb58d8da647e0e32b14b413381c24d496afac04d36e7d",
+      "bytes": 155304,
+      "width": 1200,
+      "height": 1500,
+      "alt": "Destination photo beside remote-work visa durations. Japan's Digital Nomad visa allows 6 months with no extension. Thailand's DTV has 5-year multiple-entry validity and allows 180 days per entry. Work, financial, nationality and application-location requirements differ. Rules checked October 20, 2026.",
+      "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/0dbe3a415a1bb18b0411e7458897b7f9a618a26c/social-assets/knowledge-threads-month/exports/C05/cover.jpg"
+    }
+  },
+  "account": {
+    "channelId": "69c5b139af47dacb695b5feb",
+    "service": "linkedin",
+    "serviceId": "89714573",
+    "profile": "https://www.linkedin.com/company/hashtagweb3/",
+    "type": "page",
+    "organizationId": "69c5b0f799d3bd8de475e25a"
+  },
+  "claimId": "c8904ee5-4f94-41ec-91cf-ac152f765783",
+  "startedAt": "2026-10-30T11:31:58.167Z",
+  "status": "claimed"
+}
