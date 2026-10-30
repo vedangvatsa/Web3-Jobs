@@ -78206,8 +78206,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "32a515dd-b68a-445a-a471-807014b8fcf4",
-      "verification": "pending",
-      "postId": "6ae481ffe97270550558c672"
+      "verification": "verified",
+      "postId": "6ae481ffe97270550558c672",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7521898718909075456"
     }
   ]
 }
