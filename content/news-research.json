@@ -104302,7 +104302,7 @@
         "id": "688b99307c9c2e3b079e",
         "day": "2026-10-30",
         "articleSlug": "selig",
-        "note": "Read CFTC Chairman Selig's Oct. 28 Frontier Forum remarks and nextpredict's forum report. CoinDesk 429. Two independent readable sites. Draft not started.",
+        "note": "Read CFTC Chairman Selig's Oct. 28 Frontier Forum remarks (primary) and nextpredict's forum report; CoinDesk 429. Two independent readable sites. Draft not started before deadline.",
         "sourceChecks": [
           {
             "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/opaselig14",
@@ -104317,7 +104317,7 @@
             "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-10-30T11:00:04.723Z",
+        "updatedAt": "2026-10-30T11:03:48.419Z",
         "approved": false,
         "mustReview": true
       }
