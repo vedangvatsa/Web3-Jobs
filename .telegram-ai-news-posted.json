@@ -833,6 +833,9 @@
   "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
   "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
   "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+  "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+  "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+  "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2281,6 +2284,12 @@
   "AWS will be a $1T business, Jassy says. But first, it will spend big.",
   "Reddit requires user logins as search engine traffic declines",
   "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+  "Dream launches with $17 million for construction world models",
+  "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+  "GLP-1 weight-loss drugs may increase eating disorder risks",
+  "Eating disorders are on the rise. GLP-1s could make things worse.",
+  "Rivian and Volkswagen include AI assistant in joint venture",
+  "Rivian expands joint venture with VW to include AI assistant",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2631,5 +2640,8 @@
   "fp:app|application|call|cloth|creat|fashion|imag|import|instagram|meta",
   "fp:bas|belief|believ|david|don|durman|employe|exemption|get|god",
   "fp:amazon|big|business|capital|ceo|cloud|expect|expenditur|increas|infrastructur",
-  "fp:access|announc|business|chang|declin|dry|end|engin|experienc|habit"
+  "fp:access|announc|business|chang|declin|dry|end|engin|experienc|habit",
+  "fp:17m|a16z|automat|build|construction|data|dream|exec|palantir|permit",
+  "fp:anorexia|are|bulimia|clinical|disorder|drug|eat|expert|glp|glp1",
+  "fp:58b|assistant|did|expand|includ|increas|joint|not|partnership|rivian"
 ]
