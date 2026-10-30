@@ -74876,7 +74876,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "30f6e79b-7e6c-4892-8d9d-f1016c7eea79",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae411b34b8768bfb2d9ed86"
     }
   ]
 }
