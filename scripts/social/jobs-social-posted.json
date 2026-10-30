@@ -76079,7 +76079,8 @@
       },
       "account": "channel:build",
       "attemptId": "b61c7754-e109-4f5e-b592-874cc25fa396",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x018a834a1f08b5a2607c6f531e5e1157e69b50bd"
     }
   ]
 }
