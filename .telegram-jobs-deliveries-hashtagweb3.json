@@ -5732,7 +5732,7 @@
     "sentAt": "2026-10-29T19:35:54.002Z"
   },
   "25f82be7-66de-4781-86bf-ba08ba11733f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-30T03:40:23.348Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -5844,6 +5844,8 @@
       }
     ],
     "message": "- SwissBorg is hiring <a href=\"https://hashtagweb3.com/int49?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Financial Controlling Intern</a>\n- Newton is hiring <a href=\"https://hashtagweb3.com/dfcw?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director of Finance - Canada Wide - Remote</a>\n- Jane Street is hiring <a href=\"https://hashtagweb3.com/ob12?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AML Onboarding Analyst</a>\n- Polymarket is hiring <a href=\"https://hashtagweb3.com/rs16?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Trust and Safety Program Manager</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/an109?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Processing Cost Analyst</a>",
-    "slotKey": "2026-10-30:morning"
+    "slotKey": "2026-10-30:morning",
+    "messageId": 156001,
+    "sentAt": "2026-10-30T03:40:28.734Z"
   }
 }
