@@ -79350,7 +79350,8 @@
       },
       "account": "channel:developers",
       "attemptId": "dbb565fd-c336-4b26-9c1e-a88e8dac43b6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x85fbad2bfbe675be8a08edaded2dd978f3e4c7ac"
     }
   ]
 }
