@@ -78978,7 +78978,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "7055060b-f242-4846-aef6-4cc953441d83",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae4f1a2f34210fa7659b02f"
     }
   ]
 }
