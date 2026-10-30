@@ -77380,7 +77380,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "3edd45ce-4358-4653-8eed-337b997c41ca",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7521897864185171968"
     }
   ]
 }
