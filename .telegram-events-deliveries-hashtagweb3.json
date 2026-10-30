@@ -4014,5 +4014,52 @@
     "slotKey": "2026-10-30:afternoon",
     "messageId": 156004,
     "sentAt": "2026-10-30T11:32:25.618Z"
+  },
+  "b9a3ef75-7cf9-487c-9b79-05e17cbb7284": {
+    "status": "reserved",
+    "reservedAt": "2026-10-30T19:32:14.297Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-batch-evtKhUrCbu57vTQe",
+        "slug": "bitcoin-hong-kong-meetup-november-2026",
+        "name": "BTC HK - bitcoin meetup IFC P4 Rooftop Garden(tables outside Shake Shack) walk-in (The 2nd Thursday)",
+        "startDate": "2026-11-12T11:30:00.000Z",
+        "keys": [
+          "luma-batch-evtkhurcbu57vtqe",
+          "llqbx5ts",
+          "page:bitcoin-hong-kong-meetup-november-2026:2026-11-12",
+          "luma:evt-khurcbu57vtqekw",
+          "luma-url:/llqbx5ts",
+          "event:btchkbitcoinmeetupifcp4rooftopgardentablesoutsideshakeshackwalkinthe2ndthursday:2026-11-12:hong kong"
+        ]
+      },
+      {
+        "id": "premier-singapore-blockchain-week-2026",
+        "slug": "singapore-blockchain-week",
+        "name": "Singapore Blockchain Week 2026",
+        "startDate": "2026-11-13T09:00:00+08:00",
+        "keys": [
+          "premier-singapore-blockchain-week-2026",
+          "page:singapore-blockchain-week:2026-11-13",
+          "event:singaporeblockchainweek2026:2026-11-13:singapore"
+        ]
+      },
+      {
+        "id": "discovery-evt-dqMVS2PrUBDRnF3",
+        "slug": "bitcoin-beginners-2026-11-13",
+        "name": "Bitcoin for Beginners",
+        "startDate": "2026-11-13T17:00:00+08:00",
+        "keys": [
+          "discovery-evt-dqmvs2prubdrnf3",
+          "page:bitcoin-beginners-2026-11-13:2026-11-13",
+          "luma:evt-dqmvs2prubdrnf3",
+          "luma-url:/3mubvjso",
+          "event:bitcoinforbeginners:2026-11-13:canggu"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-30:evening"
   }
 }
