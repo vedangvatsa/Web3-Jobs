@@ -78013,7 +78013,8 @@
       },
       "account": "channel:ai",
       "attemptId": "b4dc7cf3-522b-41a9-b5fa-419560c78de6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xce7962555ac19c8d0f8bde9ee8d5958664409500"
     }
   ]
 }
