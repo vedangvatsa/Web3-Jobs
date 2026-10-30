@@ -104301,7 +104301,31 @@
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
       "attempts": 0,
       "expiresAt": "2026-10-31T16:56:48.000Z",
-      "lastSeenAt": "2026-10-29T03:34:54.128Z"
+      "lastSeenAt": "2026-10-29T03:34:54.128Z",
+      "articleSlug": "robinhoodchain",
+      "draftProgress": {
+        "id": "ababcf9f363ddbe2a345",
+        "day": "2026-10-30",
+        "articleSlug": "robinhoodchain",
+        "note": "Opened and read Altcoin Buzz's full report of the Oct. 28 listing of eight stock and ETF tokens (JPM, V, PYPL, BMNR, MCD, DIS, UBER, GDX) on Robinhood Chain; the Robinhood Crypto X announcement text is visible in the page embed but x.com itself is blocked. The Defiant original and Gate both return HTTP 403. Need one more fully readable independent outlet (BlockBeats flash 374215 or KuCoin's Defiant carry) before drafting; draft not started.",
+        "sourceChecks": [
+          {
+            "url": "https://www.altcoinbuzz.io/robinhood-chain-adds-eight-tokenized-stocks",
+            "outcome": "read"
+          },
+          {
+            "url": "https://thedefiant.io/news/blockchains/robinhood-adds-eight-stock-and-etf-tokens-to-its-chain",
+            "outcome": "blocked"
+          },
+          {
+            "url": "https://www.gate.com/news/detail/robinhood-chain-adds-8-stock-tokens-including-jp-morgan-visa-paypal-25259171",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-10-30T10:50:37.163Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "9de5cd94a762e3660bde": {
       "source": "The Block",
