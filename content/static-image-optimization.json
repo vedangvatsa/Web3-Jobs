@@ -389,10 +389,6 @@
       "sha256": "c03f4332e3a1c5c5314ec6e73b8c31ada3c552d6c156dc7ffe73939f1ee8b032",
       "status": "optimized"
     },
-    "/events/kbw-official-kyobo-x-sbi-holdings-x-ripple-onchain-7c655483.webp": {
-      "sha256": "69745231f7ec407e7495c37db5394159c57062b116437fffa28fe55cf2f8aec9",
-      "status": "optimized"
-    },
     "/events/kbw-official-lambda256-join-the-blockchain-node-cr-7380025b.webp": {
       "sha256": "8eddb7c02cd9d986cf8870183cd9a0e573720e5aa04f7aa8baf7b3e35d7716c5",
       "status": "retained"
@@ -475,10 +471,6 @@
     },
     "/events/kbw-official-variational-private-event-09-30-b5e6492b.webp": {
       "sha256": "2779a6a76abccdc1da34208498bb3de46372ceb388585bf9eaf381efa5ce0f03",
-      "status": "retained"
-    },
-    "/events/kbw-official-where-ai-meets-realfi-at-kbw-2026-09--eee3dbde.webp": {
-      "sha256": "ef8db8f0949d6dece3acf4435223c0fae18452f74c1ee3b428fae184f7e5d4f8",
       "status": "retained"
     },
     "/events/kbw-official-xrp-seoul-2026-vip-afterparty-10-03-5e5cc7dd.webp": {
@@ -965,10 +957,6 @@
       "sha256": "6143871364180fb6867431adad2164cc7833237b7051f40d02e0ae388c90567f",
       "status": "optimized"
     },
-    "/events/luma-batch-evtHBzAjBMgGlgV3-8aa202d9.webp": {
-      "sha256": "8175b356ca12de5f7cbe2e16942916a97140cc46bd4f11cbd1491457110ea903",
-      "status": "optimized"
-    },
     "/events/luma-batch-evtHdTkV3aVBkRzW-9b840b3a.webp": {
       "sha256": "f9a3db20b8e35f8ebe848b1bb5d49a37131600c2ec698868e2c233da557dda4a",
       "status": "retained"
@@ -1249,10 +1237,6 @@
       "sha256": "c2bd1d8f4cdafd4337c50cf163bb489fd1e3026b48f444eba8b7cc4e98645fb0",
       "status": "optimized"
     },
-    "/events/luma-batch-evtc37hgnYFLpfen-4be073f6.webp": {
-      "sha256": "946a0d3aaf79c0f516e1120e20f40f65780d36f29f34b67c833c8dfc1efa1fe6",
-      "status": "optimized"
-    },
     "/events/luma-batch-evtccJeRPeBYE7uZ-d9116ad6.webp": {
       "sha256": "38b939a6b48e850ad062e950e7e4e8304c17607d00be86055c572b0607ad145c",
       "status": "optimized"
@@ -1421,10 +1405,6 @@
       "sha256": "0f15c37585f1a30c321053d82cf8438cda17769ddee00516adedf8cf6d03b2a7",
       "status": "optimized"
     },
-    "/events/luma-batch-evtsh92jjqXB4pNz-087a551f.webp": {
-      "sha256": "c52fd34b7bedfffa4bf6e2e63fd428dd55ac43a68788b748c6c3d4bd096a2175",
-      "status": "optimized"
-    },
     "/events/luma-batch-evtt671wDnUAzkDr-27a1bb61.webp": {
       "sha256": "6e8dcc33918263ead006ce717f6083f37883e3b569d2ff118c5e88eac0fcf12e",
       "status": "optimized"
@@ -1443,10 +1423,6 @@
     },
     "/events/luma-batch-evtthEKKGG0CkEEX-c7c36e87.webp": {
       "sha256": "8fbe14043c9d84ac02eaf32ef8b6d91999f368a1890776a1d446cb00a940f33d",
-      "status": "optimized"
-    },
-    "/events/luma-batch-evttqDr39ILkOhCL-413778f4.webp": {
-      "sha256": "71be0a58645344143fe96c6cf23eaf14139aba7c4adddc8d13a20a38f9fc7301",
       "status": "optimized"
     },
     "/events/luma-batch-evtugG45AgUzqewk-3279cc69.webp": {
