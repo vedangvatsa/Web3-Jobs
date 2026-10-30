@@ -2607,5 +2607,38 @@
     "slotKey": "2026-10-30:morning",
     "messageId": 193422,
     "sentAt": "2026-10-30T03:42:28.923Z"
+  },
+  "82095a7e-be40-4f50-8dd1-c7375f5f1355": {
+    "status": "reserved",
+    "reservedAt": "2026-10-30T11:35:48.742Z",
+    "stories": [
+      {
+        "index": 7,
+        "original_title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+        "headline": "Dream launches with $17 million for construction world models",
+        "summary": "The startup uses building permit data to train physical world models for automating construction planning and standards.",
+        "event_rationale": "This covers a new application of world model research in the construction sector, distinct from general-purpose LLM or agent developments.",
+        "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+        "source": "TechCrunch",
+        "originalTitle": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction"
+      },
+      {
+        "index": 1,
+        "headline": "GLP-1 weight-loss drugs may increase eating disorder risks",
+        "summary": "Clinical experts report that these new medications might trigger anorexia or bulimia in vulnerable individuals.",
+        "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+        "source": "MIT Tech Review",
+        "originalTitle": "Eating disorders are on the rise. GLP-1s could make things worse."
+      },
+      {
+        "index": 2,
+        "headline": "Rivian and Volkswagen include AI assistant in joint venture",
+        "summary": "The company did not say if the $5.8 billion partnership value will increase after this update.",
+        "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+        "source": "TechCrunch",
+        "originalTitle": "Rivian expands joint venture with VW to include AI assistant"
+      }
+    ],
+    "slotKey": "2026-10-30:afternoon"
   }
 }
