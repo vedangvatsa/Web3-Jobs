@@ -79420,7 +79420,8 @@
       },
       "account": "channel:founders",
       "attemptId": "1104fb3a-1129-41d9-b33f-1286d26b8c23",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5db44045389075fd2149076893503eea89e014d8"
     }
   ]
 }
