@@ -78657,7 +78657,8 @@
       },
       "account": "channel:build",
       "attemptId": "6a0fa9e1-20b4-4a05-8605-5e47acef0ca8",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Employer application unverified: The operation was aborted due to timeout"
     }
   ]
 }
