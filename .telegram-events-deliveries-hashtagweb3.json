@@ -3966,5 +3966,51 @@
     "slotKey": "2026-10-30:morning",
     "messageId": 156000,
     "sentAt": "2026-10-30T03:40:05.693Z"
+  },
+  "578c656a-9653-4091-94a7-4aa91098e93b": {
+    "status": "reserved",
+    "reservedAt": "2026-10-30T11:32:22.401Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "curated-w3node-conference-hackathon-2026-11-12",
+        "slug": "w3node-conference-hackathon",
+        "name": "W3Node Conference & Hackathon 2026",
+        "startDate": "2026-11-12",
+        "keys": [
+          "curated-w3node-conference-hackathon-2026-11-12",
+          "page:w3node-conference-hackathon:2026-11-12",
+          "event:w3nodeconferencehackathon2026:2026-11-12:cape town"
+        ]
+      },
+      {
+        "id": "premier-africastablecoin",
+        "slug": "africa-stablecoin-summit",
+        "name": "Africa Stablecoin Summit 2026",
+        "startDate": "2026-11-12T09:00:00.000Z",
+        "keys": [
+          "premier-africastablecoin",
+          "ass2",
+          "ass",
+          "page:africa-stablecoin-summit:2026-11-12",
+          "event:africastablecoinsummit2026:2026-11-12:cape town"
+        ]
+      },
+      {
+        "id": "w3v-solana-demo-day--london-2026",
+        "slug": "solana-demo-day-london",
+        "name": "Solana Demo Day | London 2026",
+        "startDate": "2026-11-12T10:00:00.000Z",
+        "keys": [
+          "w3v-solana-demo-day--london-2026",
+          "page:solana-demo-day-london:2026-11-12",
+          "luma:evt-a5hth6nhkylqspq",
+          "luma-url:/sol-demo-day",
+          "event:solanademodaylondon2026:2026-11-12:london"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-30:afternoon"
   }
 }
