@@ -78939,6 +78939,46 @@
       "attemptId": "1c633207-3905-41fd-b8a2-ea5901aca859",
       "verification": "verified",
       "postId": "0x2f4be5c0fcc18977b74233b5c27189df000461a2"
+    },
+    {
+      "slug": "scda",
+      "company": "CertiK",
+      "title": "Solutions Consultant, Digital Assets",
+      "platform": "linkedin",
+      "postedAt": "2026-10-30T19:32:22.352Z",
+      "expectedText": "CertiK is hiring Solutions Consultant, Digital Assets: https://hashtagweb3.com/scda/li?og=7",
+      "snapshot": {
+        "id": "90a1766e-ab70-4303-9819-1d9f9178e55d",
+        "title": "Solutions Consultant, Digital Assets",
+        "company": "CertiK",
+        "link": "https://jobs.lever.co/certik/90a1766e-ab70-4303-9819-1d9f9178e55d",
+        "date": "2026-10-06T05:27:56.090Z",
+        "source": "Lever: CertiK [certik]",
+        "location": "Remote (Dubai)",
+        "workplaceType": "remote",
+        "department": "Product Management",
+        "active": true,
+        "dateVerified": true,
+        "slug": "scda"
+      },
+      "payload": {
+        "text": "CertiK is hiring Solutions Consultant, Digital Assets: https://hashtagweb3.com/scda/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/scda/li?og=7",
+          "title": "Solutions Consultant, Digital Assets at CertiK",
+          "description": "Join CertiK as Solutions Consultant, Digital Assets. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/scda.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "7055060b-f242-4846-aef6-4cc953441d83",
+      "verification": "creating"
     }
   ]
 }
