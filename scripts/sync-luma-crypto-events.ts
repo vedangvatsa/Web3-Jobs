@@ -40,6 +40,11 @@ const SOURCE_FILES = [
   'content/events/sources/ibw-side-events.json',
   'content/events/sources/india-luma-events.json',
   'content/events/sources/events-cache.json',
+  'content/events/sources/luma-batch-events.json',
+  'content/events/sources/luma-crypto-events.json',
+  'content/events/sources/token2049-discovered.json',
+  'content/events/sources/verified-discovery.json',
+  'content/events-runtime.json',
 ];
 
 type LumaGeo = {
@@ -105,6 +110,40 @@ function loadKnownUrls(): Set<string> {
     }
   }
   return known;
+}
+
+function loadKnownIds(): Set<string> {
+  const known = new Set<string>();
+  for (const file of SOURCE_FILES) {
+    if (!fs.existsSync(file)) continue;
+    try {
+      const events = JSON.parse(fs.readFileSync(file, 'utf8'));
+      if (Array.isArray(events)) {
+        for (const e of events) {
+          if (e.id) known.add(e.id.toLowerCase());
+          if (e.sourceVerification?.eventId) known.add(e.sourceVerification.eventId.toLowerCase());
+        }
+      }
+    } catch {}
+  }
+  return known;
+}
+
+async function fetchDirectEvent(slug: string): Promise<LumaApiEvent | null> {
+  try {
+    const res = await fetch(`https://luma.com/${encodeURIComponent(slug)}`, { headers: { 'user-agent': UA } });
+    if (!res.ok) return null;
+    const html = await res.text();
+    const m = html.match(/<script id="__NEXT_DATA__" type="application\/json">([\s\S]*?)<\/script>/);
+    if (!m) return null;
+    const initial = JSON.parse(m[1]);
+    const data = initial.props?.pageProps?.initialData;
+    const e = data?.event || data?.data?.event;
+    if (!e || !e.api_id) return null;
+    return e as LumaApiEvent;
+  } catch {
+    return null;
+  }
 }
 
 function loadReservedSlugs(): Set<string> {
@@ -305,8 +344,13 @@ async function fetchCalendarPageEvents(slug: string): Promise<LumaApiEvent[]> {
   const initial = JSON.parse(m[1]);
   const calendarId = initial.props?.pageProps?.initialData?.data?.calendar?.api_id;
   if (typeof calendarId === 'string') {
-    const result = await fetchLumaCalendarEntries(calendarId, { headers: { 'user-agent': UA } });
-    return result.entries.map(entry => entry.event as LumaApiEvent).filter(event => event.api_id?.startsWith('evt-'));
+    try {
+      const result = await fetchLumaCalendarEntries(calendarId, { headers: { 'user-agent': UA } });
+      return result.entries.map(entry => entry.event as LumaApiEvent).filter(event => event.api_id?.startsWith('evt-'));
+    } catch (err) {
+      console.warn(`[sync-luma-crypto] calendar ${slug} (${calendarId}) skipped: ${(err as Error).message}`);
+      return [];
+    }
   }
   const events: LumaApiEvent[] = [];
   const walk = (obj: unknown) => {
@@ -330,6 +374,7 @@ async function fetchCalendarPageEvents(slug: string): Promise<LumaApiEvent[]> {
 async function main() {
   const dryRun = process.argv.includes('--dry-run');
   const knownUrls = loadKnownUrls();
+  const knownIds = loadKnownIds();
   const takenSlugs = loadReservedSlugs();
 
   const existingById = new Map<string, StoredEvent>();
@@ -359,9 +404,16 @@ async function main() {
     await new Promise((r) => setTimeout(r, 100));
   }
 
-  const now = Date.now();
+  const directSlugs = ['a3rkoop3', 't2xpm5gj', 'mgxg6ko8', 'guz9u3ic'];
+  console.log(`Direct events: ${directSlugs.length}`);
+  for (const slug of directSlugs) {
+    const ev = await fetchDirectEvent(slug);
+    if (ev) merged.set(ev.api_id, ev);
+  }
+
+  const CUTOFF = new Date('2026-11-01T00:00:00.000Z').getTime();
   const candidates = [...merged.values()].filter(
-    (e) => new Date(e.start_at).getTime() > now - 86400000 && passesQuality(e),
+    (e) => new Date(e.start_at).getTime() >= CUTOFF && passesQuality(e),
   );
 
   const nextEvents: StoredEvent[] = [];
@@ -369,18 +421,17 @@ async function main() {
   let skippedQuality = 0;
 
   for (const e of merged.values()) {
-    if (new Date(e.start_at).getTime() <= now - 86400000) continue;
+    if (new Date(e.start_at).getTime() < CUTOFF) continue;
     if (!passesQuality(e)) skippedQuality++;
   }
 
   for (const e of candidates) {
     const url = normLumaUrl(e.url);
-    if (knownUrls.has(url)) {
+    const id = `luma-crypto-${e.api_id.replace(/^evt-/, '')}`;
+    if (knownUrls.has(url) || knownIds.has(e.api_id.toLowerCase()) || knownIds.has(id.toLowerCase())) {
       skippedKnown++;
       continue;
     }
-
-    const id = `luma-crypto-${e.api_id.replace(/^evt-/, '')}`;
     if (!canImportEvent({ id, startDate: e.start_at, endDate: e.end_at }, eventTombstones)) continue;
     const prev = existingById.get(id);
     if (prev?.sourceVerification) {

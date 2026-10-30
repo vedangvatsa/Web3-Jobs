@@ -1098,56 +1098,6 @@
     }
   },
   {
-    "id": "luma-batch-WqXt70Ey78SI4hn",
-    "slug": "ljhi3gn2",
-    "name": "ETHLDN: Back to the tokens",
-    "description": "Revisit two of the largest price ascents (and subsequent crashes) in Ethereum's history - Tokens\n\n2018 Fungible Tokens (ICO boom)\n\n2021 Non Fungible Tokens (NFT/art boom)\n\n(And to the highest price of Aug 2025 due to seemingly favourable regulation at the time)\n\n🗓 Agenda\n\n💬 6:30 entry and networking\n\n1🎤 Introduction & all about tokens - Where do they make sense?\n\n2🎤 Project roundup - players in the space\n\n💬 Open format: Open networking, idea sharing, and connections with fellow builders, founders, and researchers\n\nSpecial guests:\n\nLO:TECH (sponsor)\n\nLO:TECH is a capital markets firm for the onchain world.Market making, data and execution, powered by the same systems we use to trade in live markets.\n\nYour name here? - ...\n\nDoes your product/project use a token meaningfully? Message ETHLDN / James Zaki.\n\nAbout Blue Garage (venue host)\n\nBLUE GARAGE IS AN INNOVATION ECOSYSTEM OFFERING HIGH-END TOOLS AND MACHINERY, FLEXIBLE WORKSPACES, UPSKILLING WORKSHOPS, AND A LOYAL COMMUNITY.\n\nAbout Ethereum London\n\nEthereum London (ETHLDN.org) is the first and longest-running Ethereum meetup in the world, founded in January 2014. Staying true to Ethereum’s ethos, we organise and collaborate on talks, technical workshops, and industry seminars.",
-    "startDate": "2026-09-30T17:30:00.000Z",
-    "endDate": "2026-09-30T20:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "BLUE GARAGE - Innovation Hub, accelerating the commercialisation of hardware scaleups., BLUE GARAGE - Innovation Hub, accelerating the commercialisation of hardware scaleups., 30 Engate St, London SE13 7HA, UK",
-    "url": "https://luma.com/ljhi3gn2",
-    "registrationUrl": "https://luma.com/ljhi3gn2",
-    "coverImage": "/events/luma-batch-WqXt70Ey78SI4hn-6eded330.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Ethereum London",
-      "James Zaki"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/London",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "BLUE GARAGE - Innovation Hub, accelerating the commercialisation of hardware scaleups.",
-    "addressLocality": "London",
-    "addressRegion": "England",
-    "addressCountry": "GB",
-    "organizer": {
-      "type": "Organization",
-      "name": "Ethereum London",
-      "url": "https://luma.com/user/ethldn"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/ljhi3gn2",
-        "price": 0,
-        "availability": "SoldOut"
-      }
-    ],
-    "registrationAvailability": "soldOut",
-    "sourceVerification": {
-      "url": "https://luma.com/ljhi3gn2",
-      "eventId": "evt-WqXt70Ey78SI4hn",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-EwjSgEBWEWYY0oM",
     "slug": "rivbfm31",
     "name": "Demo Day UDAX - Oxford 2026",
@@ -6765,65 +6715,6 @@
     }
   },
   {
-    "id": "luma-batch-evtE3ugczWPDFkHd",
-    "slug": "fgdkn4vb",
-    "name": "Crypto Community Connections",
-    "description": "Crypto Community Connections\nHosted by Crypto Women Collective and BCNL Foundation.\n\nThe market's growing, and there's a lot happening. But when's the last time you actually sat down with someone from the industry and caught up, properly? Most of the time we only run into each other at big events with no real room to actually talk. So we built a smaller room instead: one evening, every quarter, just for that.\n\nNo stage, no pitch decks, no name tag doing the talking for you. Just a relaxed setting with drinks, plenty of room to meet new people, and enough time to catch up with the ones you already know.\n\nFounders who want peers, not pitches. First-timers who want a friendly way in. Anyone who'd rather meet the person behind the profile picture than read another thread about them.\n\n📍 Bar Restaurant Lucy, Amsterdam\n🕗 Wednesday 30 September, 20:00–22:00\n🎟️ €12,10, includes two drinks\n🎫 Capped at 30 spots, on purpose. Built for real conversations, not networking-event noise.\n\nWe are looking forward to seeing you there!\n\nPS. Crypto Women Collective co-hosts this one, but it's not a women-only room - everyone's invited.\n\nPlease note: Crypto Women Collective (CWC) and/or BCNL Foundation may take photos and/or video at this event for promotional use on our website and social media channels. If you'd prefer not to be photographed, let our team know on arrival. For more on how we handle your data, see our Privacy & Cookie Policy on our website.",
-    "startDate": "2026-09-30T18:00:00.000Z",
-    "endDate": "2026-09-30T20:00:00.000Z",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "location": "Bar-Restaurant Lucy, Bar-Restaurant Lucy, Hildegard Von Bingenstraat 2, 1081 LH Amsterdam, Netherlands",
-    "url": "https://luma.com/fgdkn4vb",
-    "registrationUrl": "https://luma.com/fgdkn4vb",
-    "coverImage": "/events/luma-batch-evtE3ugczWPDFkHd-0a69a999.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Crypto Women Collective"
-    ],
-    "timezone": "Europe/Amsterdam",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/fgdkn4vb",
-      "eventId": "evt-E3ugczWPDFkHdY3",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtGpyh3ZXaayPwW",
-    "slug": "sept_cryptodrinks_amsterdam",
-    "name": "Crypto Drinks is Common S3nse - Amsterdam Edition",
-    "description": "Crypto Drinks Amsterdam is back on Wednesday, September 30th, at Meet Berlage in the heart of Amsterdam, across from Centraal Station.\n\nDebrief Common S3nse, and come connect with fellow crypto enthusiasts and enjoy a great evening together.\n\nProgram\n\n18:30 Walk in, grab a drink and make friends\n\n19:30 Welcome chat with Eleonore Blanc, Founder of CryptoCanal\n\n19:40 Join 30s Community Pitches\n\nHosted by\n\nSuperteam NL -  A home for everyone building on Solana.\n\nCryptoCanal offers education, event and consultancy services for the crypto industry and we're not afraid to be political. Follow us on Twitter and join our Telegram group for the daily updates.\n\nCrypto Drinks Sponsors\n\nEdge Wallet. Download Edge to buy/swap/trade all of your crypto assets and remain in full custody, you are sovereign.\n\nCyber Capital is Europe’s oldest cryptocurrency based fund with a 10 year track record. Value investing. HNWI/Family Offices/Fund of Funds. Tell them we send you.\n\nPrivacy Pools - A compliant way to transact privately on Ethereum. Privacy Pools blocks illicit actors to help maintain the integrity of the pool.\n\nZcash - Privacy is normal\n\nCrypto Donations\n\nZcash ($ZEC)  zs1e8t4xjhmmmsdeqs6efpmr3elupfupt06nrrsengf4mkqzcqfcd8a0tx3acsfan6l72gg5zqr049\n\nDash ($DASH)   Xt5YFs5wzwnTDzXcwuPWNuwCBDbY1zcDzR\n\nBitcoin Cash  ($BCH)  qrmxpu87k0sn2qae3uyq2l2jq9jxgp8udvuxmhzjru\n\nEthereum  ($ETH)  0x8754bf57ae6320f871685A155EbcD16f903E0760\n\nZano ($ZANO)   ZxCV8GWx4DUDibGogBsSws8BLzWQ9ue5YF9ggUL7qu8GfRm82Y1abdoa2DTYSSYEVnPHXUSBkkAJ2FoCBKwyxXrf2DS4Nz61Q\n\nSolana ($SOL)  7EN4Rskuff1h8ZmtAx6ABiGMcPgriY5ys2syaoJQcCc\n\nMonero ($XMR)  49NaDPwUiya6XfwCTNN2gdRFG2NwQo4hTDrgiykZAcHR3rdc5XszJjn8A8tVpRrQQERZvw7Aq4Y9oHDGFSgn6ZYBNiUmUP5\n\nMore about CryptoCanal\n\nCryptoCanal offers education, event and consultancy services for the crypto industry and we're not afraid to be political. Follow us on Twitter and join our Telegram group for the daily updates.\n\nDisclaimer\n\nPhotos and videos may be taken during the event for promotional and marketing purposes. By participating in CryptoDrinks, you consent to the use of your image and agree to share your contact details with our event partners. You may also receive occasional newsletters or updates related to future events or community news. You can withdraw your consent at any time by emailing hello@cryptocanal.org or using the unsubscribe link provided in each message.\n\nPlease note that discussions and content shared during CryptoDrinks do not constitute financial advice. The cryptocurrency market involves significant risks, and participants should always conduct their own research and seek professional guidance before making any investment decisions.",
-    "startDate": "2026-09-30T16:30:00.000Z",
-    "endDate": "2026-09-30T20:30:00.000Z",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "location": "Meet Berlage, Meet Berlage, Oudebrugsteeg 9, 1012 JN Amsterdam, Netherlands",
-    "url": "https://luma.com/sept_cryptodrinks_amsterdam",
-    "registrationUrl": "https://luma.com/sept_cryptodrinks_amsterdam",
-    "coverImage": "/events/luma-batch-evtGpyh3ZXaayPwW-81c8190b.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "CryptoCanal"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Amsterdam",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/sept_cryptodrinks_amsterdam",
-      "eventId": "evt-Gpyh3ZXaayPwWIv",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtMJacaICJiBqTU",
     "slug": "oz4zmqjc",
     "name": "BCNL x VBNL x PwC - CARF & DAC8 Roundtable",
@@ -6938,36 +6829,6 @@
     "sourceVerification": {
       "url": "https://luma.com/54c9x6ri",
       "eventId": "evt-npZcSPkY2es66Te",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evto623qGRuMMCP7",
-    "slug": "5ohqcwr6",
-    "name": "dizrupt Web3 CFO Roundtable #7",
-    "description": "The dizrupt Web3 CFO Roundtable is an invitation-only dinner series for finance leaders in digital assets: CFOs, Treasurers, and Heads of Finance of protocols and crypto banks. No service providers, no sales pitches, no sponsored stage time - just a small circle of peers under Chatham House Rules, exchanging honestly on treasury, digital asset management, and regulation in a way that is surprisingly hard to find elsewhere.\n\nAttendance is limited to 20 seats per edition, personally selected or peer-recommended. You are our guest - and since a free lunch famously does not exist, we serve a free dinner instead.\n\n## Event details\n\nOrganized by dizrupt collective. Venue: Zug, Zug, Switzerland. Tickets: Free.",
-    "startDate": "2026-09-30T16:30:00.000Z",
-    "endDate": "2026-09-30T20:30:00.000Z",
-    "city": "Zug",
-    "country": "Switzerland",
-    "location": "Zug, Zug, Switzerland",
-    "url": "https://luma.com/5ohqcwr6",
-    "registrationUrl": "https://luma.com/5ohqcwr6",
-    "coverImage": "/events/luma-batch-evto623qGRuMMCP7-57e51614.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "dizrupt collective"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Zurich",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/5ohqcwr6",
-      "eventId": "evt-o623qGRuMMCP7A9",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

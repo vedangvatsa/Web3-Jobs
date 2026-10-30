@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-10-30T19:08:17.358Z",
+  "generatedAt": "2026-10-30T21:31:38.749Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 3794,
+  "count": 3779,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -4534,12 +4534,6 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/crafting-cryptoeconomy-conference",
-      "lastmod": "2026-10-29",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
       "url": "https://hashtagweb3.com/cre",
       "lastmod": "2026-10-23",
       "changefreq": "daily",
@@ -4664,12 +4658,6 @@
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
-    },
-    {
-      "url": "https://hashtagweb3.com/crypto-taxation-greece",
-      "lastmod": "2026-10-30",
-      "changefreq": "weekly",
-      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/crypto-taxes-guide",
@@ -6084,12 +6072,6 @@
     {
       "url": "https://hashtagweb3.com/eng110",
       "lastmod": "2026-10-19",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/eng161",
-      "lastmod": "2026-09-30",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -7598,12 +7580,6 @@
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/ese",
-      "lastmod": "2026-09-30",
-      "changefreq": "daily",
-      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/esma-eu",
@@ -10804,12 +10780,6 @@
       "priority": 0.6
     },
     {
-      "url": "https://hashtagweb3.com/kyc2",
-      "lastmod": "2026-09-30",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/kztg-stablecoin",
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
@@ -11130,12 +11100,6 @@
     {
       "url": "https://hashtagweb3.com/london-nov-13",
       "lastmod": "2026-11-13",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/london-oct-30",
-      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -12490,18 +12454,6 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/mkt76",
-      "lastmod": "2026-09-30",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/mkt77",
-      "lastmod": "2026-09-30",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/mkt79",
       "lastmod": "2026-10-01",
       "changefreq": "daily",
@@ -12728,12 +12680,6 @@
       "lastmod": "2026-10-16",
       "changefreq": "monthly",
       "priority": 0.7
-    },
-    {
-      "url": "https://hashtagweb3.com/mse2",
-      "lastmod": "2026-09-30",
-      "changefreq": "daily",
-      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/msms",
@@ -14304,30 +14250,6 @@
     {
       "url": "https://hashtagweb3.com/pm192",
       "lastmod": "2026-10-15",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/pm196",
-      "lastmod": "2026-09-30",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/pm197",
-      "lastmod": "2026-09-30",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/pm198",
-      "lastmod": "2026-09-30",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/pm199",
-      "lastmod": "2026-09-30",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -17422,12 +17344,6 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/skyline-coworking-2026-10-30",
-      "lastmod": "2026-10-30",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
       "url": "https://hashtagweb3.com/skyline-coworking-2026-11-06",
       "lastmod": "2026-11-06",
       "changefreq": "weekly",
@@ -17443,12 +17359,6 @@
       "url": "https://hashtagweb3.com/slashing",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/slc-xpr-community-activation",
-      "lastmod": "2026-10-30",
-      "changefreq": "weekly",
       "priority": 0.6
     },
     {

@@ -3313,8 +3313,7 @@
   "luma-crypto-8r1XuPjp1xyA9EO": {
     "until": "2027-10-29T19:35:06.447Z",
     "slugs": [
-      "luma-crypto-8r1xupjp1xya9eo",
-      "hkghh-even"
+      "luma-crypto-8r1xupjp1xya9eo"
     ]
   },
   "luma-evt-REWXMIhzOXT25u3": {
@@ -3912,6 +3911,34 @@
     "slugs": [
       "kopichat-ai",
       "token2049-evt-iwlaee1gmhjx4pd"
+    ]
+  },
+  "luma-batch-WqXt70Ey78SI4hn": {
+    "until": "2027-10-30T21:23:10.004Z",
+    "slugs": [
+      "ljhi3gn2",
+      "luma-batch-wqxt70ey78si4hn"
+    ]
+  },
+  "luma-batch-evtE3ugczWPDFkHd": {
+    "until": "2027-10-30T21:23:10.004Z",
+    "slugs": [
+      "fgdkn4vb",
+      "luma-batch-evte3ugczwpdfkhd"
+    ]
+  },
+  "luma-batch-evtGpyh3ZXaayPwW": {
+    "until": "2027-10-30T21:23:10.004Z",
+    "slugs": [
+      "sept_cryptodrinks_amsterdam",
+      "luma-batch-evtgpyh3zxaaypww"
+    ]
+  },
+  "luma-batch-evto623qGRuMMCP7": {
+    "until": "2027-10-30T21:23:10.004Z",
+    "slugs": [
+      "5ohqcwr6",
+      "luma-batch-evto623qgrummcp7"
     ]
   }
 }
