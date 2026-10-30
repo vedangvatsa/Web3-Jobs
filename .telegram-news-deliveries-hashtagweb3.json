@@ -2584,7 +2584,7 @@
     "sentAt": "2026-10-30T03:40:50.159Z"
   },
   "63389d16-ef65-4cf3-82af-e0ce5482222b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-30T11:34:00.865Z",
     "stories": [
       {
@@ -2612,6 +2612,8 @@
         "originalTitle": "VanEck Lists Wealth Builder ETF With Bitcoin Exposure"
       }
     ],
-    "slotKey": "2026-10-30:afternoon"
+    "slotKey": "2026-10-30:afternoon",
+    "messageId": 156006,
+    "sentAt": "2026-10-30T11:34:07.012Z"
   }
 }
