@@ -10915,5 +10915,121 @@
     "slotKey": "2026-10-30:evening",
     "messageId": 16589,
     "sentAt": "2026-10-30T19:32:14.821Z"
+  },
+  "38c42418-80b3-45ba-864d-0aaa26bc4421": {
+    "status": "reserved",
+    "reservedAt": "2026-10-30T19:32:28.228Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8230558",
+          "title": "Senior Offensive Security Engineer",
+          "company": "DRW",
+          "link": "https://job-boards.greenhouse.io/drweng/jobs/8230558",
+          "date": "2026-10-06T12:26:47-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DRW [drweng]",
+          "location": "Chicago",
+          "department": "Security",
+          "active": true,
+          "salary": "$175k – $275k/yr",
+          "dateVerified": true,
+          "slug": "sec93"
+        },
+        "key": "8230558",
+        "slug": "sec93",
+        "url": "https://hashtagweb3.com/sec93?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DRW",
+        "title": "Senior Offensive Security Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8044830003",
+          "title": "Senior Product Designer, Fiat/Earn",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8044830003",
+          "date": "2026-10-26T13:23:07-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Singapore",
+          "department": "Product Design",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm330"
+        },
+        "key": "8044830003",
+        "slug": "pm330",
+        "url": "https://hashtagweb3.com/pm330?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Senior Product Designer"
+      },
+      {
+        "snapshot": {
+          "id": "07f6f7bc-5f5b-4565-8897-9876763198dd",
+          "title": "Research Engineer - RL Infrastructure",
+          "company": "Prime Intellect",
+          "link": "https://jobs.ashbyhq.com/primeintellect/07f6f7bc-5f5b-4565-8897-9876763198dd",
+          "date": "2026-10-19T09:21:25.990+00:00",
+          "source": "Ashby: Prime Intellect [primeintellect]",
+          "location": "San Francisco",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Research",
+          "active": true,
+          "dateVerified": true,
+          "slug": "infra49"
+        },
+        "key": "07f6f7bc-5f5b-4565-8897-9876763198dd",
+        "slug": "infra49",
+        "url": "https://hashtagweb3.com/infra49?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Prime Intellect",
+        "title": "Research Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8224607",
+          "title": "Global Industry Lead, Healthcare",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8224607",
+          "date": "2026-10-06T16:17:12-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "San Francisco; New York City; Seattle",
+          "department": "1530 GTM Industries",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ih"
+        },
+        "key": "8224607",
+        "slug": "ih",
+        "url": "https://hashtagweb3.com/ih?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Global Industry Lead"
+      },
+      {
+        "snapshot": {
+          "id": "6220131004",
+          "title": "Senior Desktop Support, Hong Kong",
+          "company": "Galaxy Digital",
+          "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+          "date": "2026-10-08T01:48:47-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+          "location": "Hong Kong",
+          "department": "IT, Infrastructure, Security ",
+          "active": true,
+          "dateVerified": true,
+          "slug": "dshk"
+        },
+        "key": "6220131004",
+        "slug": "dshk",
+        "url": "https://hashtagweb3.com/dshk?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Galaxy Digital",
+        "title": "Senior Desktop Support"
+      }
+    ],
+    "message": "- DRW is hiring <a href=\"https://hashtagweb3.com/sec93?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Offensive Security Engineer</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm330?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Designer, Fiat/Earn</a>\n- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/infra49?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Research Engineer - RL Infrastructure</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/ih?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Global Industry Lead, Healthcare</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/dshk?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Desktop Support, Hong Kong</a>",
+    "slotKey": "2026-10-30:evening"
   }
 }
