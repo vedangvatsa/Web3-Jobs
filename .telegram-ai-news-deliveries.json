@@ -2642,5 +2642,40 @@
     "slotKey": "2026-10-30:afternoon",
     "messageId": 193425,
     "sentAt": "2026-10-30T11:35:58.120Z"
+  },
+  "d07626f7-f72d-4df2-bd95-575faac6b55e": {
+    "status": "reserved",
+    "reservedAt": "2026-10-30T19:33:39.303Z",
+    "stories": [
+      {
+        "index": 3,
+        "original_title": "Google’s first data center satellite is online and writing poetry",
+        "headline": "Google deploys first orbital TPU satellite running Gemma model",
+        "summary": "The experimental space mission tests specialized hardware and machine learning software in orbit for off-planet data processing.",
+        "event_rationale": "Covers the first operational deployment of AI processing hardware in space, distinct from terrestrial data center infrastructure stories.",
+        "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+        "source": "TechCrunch",
+        "originalTitle": "Google’s first data center satellite is online and writing poetry"
+      },
+      {
+        "index": 4,
+        "original_title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+        "headline": "DOJ targets AI fraud scheme using fake student applicants",
+        "summary": "Federal law enforcement uncovered automated schemes using artificial intelligence to create fake identities and steal millions in federal aid.",
+        "event_rationale": "Covers federal criminal prosecution targeting systemic AI-generated financial fraud, distinct from copyright or privacy regulatory actions.",
+        "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+        "source": "Ars Technica",
+        "originalTitle": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says"
+      },
+      {
+        "index": 5,
+        "headline": "Tyler Shultz warns AI boom could facilitate corporate deception",
+        "summary": "The former Theranos employee cautions that investors are funding unprofitable AI companies at extremely high valuations.",
+        "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+        "source": "TechCrunch",
+        "originalTitle": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’"
+      }
+    ],
+    "slotKey": "2026-10-30:evening"
   }
 }
