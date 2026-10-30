@@ -78589,6 +78589,40 @@
       "attemptId": "6d4b8d1a-8145-4184-aa7b-0e364757e5e4",
       "verification": "verified",
       "postId": "0x14e4e92da1fac690633a7608d0665f5e0bed6090"
+    },
+    {
+      "slug": "scda",
+      "company": "CertiK",
+      "title": "Solutions Consultant, Digital Assets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-30T19:32:22.352Z",
+      "expectedText": "CertiK is hiring Solutions Consultant, Digital Assets\n\nhttps://hashtagweb3.com/scda/fc?og=7",
+      "snapshot": {
+        "id": "90a1766e-ab70-4303-9819-1d9f9178e55d",
+        "title": "Solutions Consultant, Digital Assets",
+        "company": "CertiK",
+        "link": "https://jobs.lever.co/certik/90a1766e-ab70-4303-9819-1d9f9178e55d",
+        "date": "2026-10-06T05:27:56.090Z",
+        "source": "Lever: CertiK [certik]",
+        "location": "Remote (Dubai)",
+        "workplaceType": "remote",
+        "department": "Product Management",
+        "active": true,
+        "dateVerified": true,
+        "slug": "scda"
+      },
+      "payload": {
+        "text": "CertiK is hiring Solutions Consultant, Digital Assets\n\nhttps://hashtagweb3.com/scda/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/scda/fc?og=7"
+          }
+        ],
+        "channel_id": "developers"
+      },
+      "account": "channel:developers",
+      "attemptId": "375ad56c-b25c-4b52-b82f-d568a4f3bd79",
+      "verification": "creating"
     }
   ]
 }
