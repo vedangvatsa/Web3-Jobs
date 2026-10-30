@@ -836,6 +836,9 @@
   "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
   "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
   "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+  "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+  "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+  "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2290,6 +2293,12 @@
   "Eating disorders are on the rise. GLP-1s could make things worse.",
   "Rivian and Volkswagen include AI assistant in joint venture",
   "Rivian expands joint venture with VW to include AI assistant",
+  "Google deploys first orbital TPU satellite running Gemma model",
+  "Google’s first data center satellite is online and writing poetry",
+  "DOJ targets AI fraud scheme using fake student applicants",
+  "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+  "Tyler Shultz warns AI boom could facilitate corporate deception",
+  "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2643,5 +2652,8 @@
   "fp:access|announc|business|chang|declin|dry|end|engin|experienc|habit",
   "fp:17m|a16z|automat|build|construction|data|dream|exec|palantir|permit",
   "fp:anorexia|are|bulimia|clinical|disorder|drug|eat|expert|glp|glp1",
-  "fp:58b|assistant|did|expand|includ|increas|joint|not|partnership|rivian"
+  "fp:58b|assistant|did|expand|includ|increas|joint|not|partnership|rivian",
+  "fp:center|data|deploy|experimental|gemma|googl|hardwar|learn|machin|mission",
+  "fp:aid|applicant|automat|creat|doj|enforcement|fak|federal|fraud|ghost",
+  "fp:are|boom|caution|corporat|deceiv|deception|employe|extremely|facilitat|former"
 ]
