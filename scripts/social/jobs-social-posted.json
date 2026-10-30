@@ -76007,7 +76007,8 @@
       },
       "account": "channel:dev",
       "attemptId": "9a481680-fa94-412b-b9fa-9e05699e58c9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x07b02deed5f594069cc566e1cba0878637e49d34"
     }
   ]
 }
