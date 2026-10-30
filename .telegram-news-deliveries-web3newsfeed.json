@@ -2681,5 +2681,36 @@
     "slotKey": "2026-10-29:evening",
     "messageId": 65788,
     "sentAt": "2026-10-29T19:38:14.629Z"
+  },
+  "6f804d9e-95ab-4e7b-a770-8960ee7c6e9a": {
+    "status": "reserved",
+    "reservedAt": "2026-10-30T03:40:35.731Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Researcher Wins $2,020 Bitcoin Prize Exploiting PHP Flaw",
+        "summary": "An analyst claimed $2,020 from stealmybitcoin.com on October 25 to demonstrate that recent PHP vulnerabilities are exploitable.",
+        "link": "https://hashtagweb3.com/phpctf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Researcher claims Steal My Bitcoin prize by exploiting patched PHP flaw"
+      },
+      {
+        "index": -1,
+        "headline": "Luxor Secures $16 Million for AI Compute Expansion",
+        "summary": "CMT Digital led the funding to scale the bitcoin miner's cloud platform, hardware brokerage, and compute derivatives services.",
+        "link": "https://hashtagweb3.com/luxorai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Luxor Raises $16 Million to Expand AI Compute Business"
+      },
+      {
+        "index": -1,
+        "headline": "NBA signs integrity pact with CFTC for prediction markets",
+        "summary": "The league named Kalshi and Polymarket preferred exchanges, though the NFL rejected similar deals with the federal regulator.",
+        "link": "https://hashtagweb3.com/nba?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "NBA signs CFTC integrity pact and names Kalshi, Polymarket preferred exchanges"
+      }
+    ],
+    "slotKey": "2026-10-30:morning"
   }
 }
