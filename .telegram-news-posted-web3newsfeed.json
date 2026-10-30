@@ -881,6 +881,9 @@
   "https://hashtagweb3.com/zcgstream?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/utexomint?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/zodia?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cftc247?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/solflareincident?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/vaneckbuilder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2543,6 +2546,12 @@
   "Utexo opens early access to bridged USDT on Bitcoin ahead of Nov. 28 launch",
   "Standard Chartered to acquire 100% of Zodia Custody",
   "Standard Chartered signs definitive agreements to acquire Zodia Custody",
+  "CFTC to Host Roundtable on 24/7 Derivatives Trading",
+  "CFTC Sets Dec. 15 Roundtable on 24/7 Derivatives Trading",
+  "Solflare Staking Provider Security Issue Pauses Validator Rewards",
+  "Solflare Says Staking Provider Key Incident Stopped Validator Rewards",
+  "VanEck Launches Wealth Builder ETF With Bitcoin Exposure",
+  "VanEck Lists Wealth Builder ETF With Bitcoin Exposure",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2953,5 +2962,8 @@
   "fp:cftc|exchang|federal|integrity|kalshi|leagu|market|nam|nba|nfl",
   "fp:125m|allocation|becaus|block|community|draft|end|founder|fund|grant",
   "fp:access|ahead|bas|begin|bridg|can|early|exchang|network|nov28",
-  "fp:acquir|acquire100|agreement|australia|charter|clearanc|custody|definitiv|hong|includ"
+  "fp:acquir|acquire100|agreement|australia|charter|clearanc|custody|definitiv|hong|includ",
+  "fp:cftc|constant|dec15|december|derivativ|dur|evaluat|host|market|meet",
+  "fp:156m|halt|incident|issu|paus|principal|provider|remain|reward|saf",
+  "fp:allocation|alongsid|bond|builder|etf|exposur|fund|gold|includ|list"
 ]
