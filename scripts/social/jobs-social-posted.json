@@ -75827,7 +75827,8 @@
       },
       "account": "profile",
       "attemptId": "250f2a4e-cb25-4f78-be41-99c7f99cbf71",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4420919d0f19af8b5cbe97b2d3ed004a6fbc700e"
     }
   ]
 }
