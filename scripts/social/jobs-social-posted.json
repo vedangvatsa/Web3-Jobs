@@ -79280,7 +79280,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "6e11c514-7154-4b5e-aa72-8ebc2d46ac12",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe92e8d130be90a60246753591c0a9bb9cab5e71c"
     }
   ]
 }
