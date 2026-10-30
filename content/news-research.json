@@ -99677,14 +99677,18 @@
         "id": "1b466b2ecd15e5bdd185",
         "day": "2026-10-30",
         "articleSlug": "ripio",
-        "note": "Crypto Briefing re-read today; found Ripio's own Oct. 27 primary announcement plus Exame and BitNoticias coverage. Opening those now; draft not started.",
+        "note": "Crypto Briefing re-read; Ripio's own Oct. 27 primary announcement read in full (Spanish): filing with BCB for virtual asset broker authorization plus forex authorization, CEO Serrano quote, CNPJ 23.351.302/0001-00 under review. Exame needs recompress fetch. Draft not started.",
         "sourceChecks": [
           {
             "url": "https://cryptobriefing.com/ripio-applies-crypto-broker-license-brazil/",
             "outcome": "read"
+          },
+          {
+            "url": "https://launchpad.ripio.com/novedades/ripio-protocola-no-banco-central-do-brasil",
+            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-10-30T10:56:20.904Z",
+        "updatedAt": "2026-10-30T10:57:41.666Z",
         "approved": false,
         "mustReview": true
       }
@@ -104469,7 +104473,23 @@
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
       "attempts": 0,
       "expiresAt": "2026-10-31T14:14:36.000Z",
-      "lastSeenAt": "2026-10-29T03:34:54.128Z"
+      "lastSeenAt": "2026-10-29T03:34:54.128Z",
+      "articleSlug": "bessent",
+      "draftProgress": {
+        "id": "5b7a8eed12aafa62d842",
+        "day": "2026-10-30",
+        "articleSlug": "bessent",
+        "note": "Read Bitcoin Magazine's report of Bessent's Oct. 27 Swell remarks. Downloaded Bitcoin.com News independent report; reading now.",
+        "sourceChecks": [
+          {
+            "url": "https://bitcoinmagazine.com/news/treasury-says-win-in-the-digital-asset",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-30T10:57:10.580Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "415ee5aff505874490c6": {
       "source": "Decrypt",
