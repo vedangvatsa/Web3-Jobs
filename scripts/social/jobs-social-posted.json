@@ -77298,6 +77298,46 @@
       "verification": "verified",
       "postId": "6ae481091c1ab1e7bc340d77",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7521897688901087232"
+    },
+    {
+      "slug": "mgr42",
+      "company": "BitGo",
+      "title": "Customer Success Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-30T11:32:36.549Z",
+      "expectedText": "BitGo is hiring Customer Success Manager: https://hashtagweb3.com/mgr42/li?og=7",
+      "snapshot": {
+        "id": "8384217002",
+        "title": "Customer Success Manager",
+        "company": "BitGo",
+        "link": "https://job-boards.greenhouse.io/bitgo/jobs/8384217002",
+        "date": "2026-10-16T13:48:13-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BitGo [bitgo]",
+        "location": "Singapore",
+        "department": "CSM",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr42"
+      },
+      "payload": {
+        "text": "BitGo is hiring Customer Success Manager: https://hashtagweb3.com/mgr42/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/mgr42/li?og=7",
+          "title": "Customer Success Manager at BitGo",
+          "description": "Join BitGo as Customer Success Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/mgr42.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "c9fe471c-b440-455b-9e1b-16dd003871cd",
+      "verification": "creating"
     }
   ]
 }
