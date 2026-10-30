@@ -104498,7 +104498,7 @@
         "id": "5b7a8eed12aafa62d842",
         "day": "2026-10-30",
         "articleSlug": "bessent",
-        "note": "Read Bitcoin Magazine report and Bitcoin.com News independent report of Bessent Oct. 27 Swell remarks: Treasury to work with SEC and CFTC after Clarity Act 49-50 Senate failure; no formal plan or timeline set out.",
+        "note": "Read Bitcoin Magazine and Bitcoin.com News on Bessent's Oct. 27 Swell remarks: SEC and CFTC to fill Clarity Act gap; no formal plan or timeline. Draft not started.",
         "sourceChecks": [
           {
             "url": "https://bitcoinmagazine.com/news/treasury-says-win-in-the-digital-asset",
@@ -104509,7 +104509,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-10-30T10:58:18.861Z",
+        "updatedAt": "2026-10-30T11:01:52.748Z",
         "approved": false,
         "mustReview": true
       }
