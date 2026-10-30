@@ -79560,7 +79560,8 @@
       },
       "account": "channel:defi",
       "attemptId": "ad82573c-2f17-47d3-8c3b-64fdb4051015",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x66bfc9cca26f1434e75296d3f04efb0e1ae598cd"
     }
   ]
 }
