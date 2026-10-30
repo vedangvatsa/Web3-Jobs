@@ -150681,5 +150681,683 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8227570",
     "company": "Stripe",
     "title": "Global People Operations - Systems Administrator"
+  },
+  "ops131": {
+    "id": "8919499002",
+    "link": "https://job-boards.greenhouse.io/figure/jobs/8919499002",
+    "company": "Figure",
+    "title": "Lead Analyst, Business Operations & Strategy"
+  },
+  "cmp138": {
+    "id": "8329350",
+    "link": "https://www.coinbase.com/careers/positions/8329350?gh_jid=8329350",
+    "company": "Coinbase",
+    "title": "Compliance Associate"
+  },
+  "cssc": {
+    "id": "8275558",
+    "link": "https://stripe.com/jobs/search?gh_jid=8275558",
+    "company": "Stripe",
+    "title": "Customer Support Specialist, Clerky"
+  },
+  "an113": {
+    "id": "E3.47D",
+    "link": "https://www.comeet.com/jobs/hypernative/8A.00E/fpa-analyst/E3.47D",
+    "company": "Hypernative",
+    "title": "FP&A Analyst"
+  },
+  "tir": {
+    "id": "8046685003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8046685003",
+    "company": "OKX",
+    "title": "Head of Tax Information Reporting"
+  },
+  "arc28": {
+    "id": "ed4eb772-6485-4125-895b-f3dca08cbcdd",
+    "link": "https://jobs.ashbyhq.com/Sardine/ed4eb772-6485-4125-895b-f3dca08cbcdd",
+    "company": "Sardine",
+    "title": "Solutions Architect, Integrations - Public Sector (US/CA)"
+  },
+  "eng684": {
+    "id": "34.47F",
+    "link": "https://www.comeet.com/jobs/hypernative/8A.00E/solution-engineer---us/34.47F",
+    "company": "Hypernative",
+    "title": "Solution Engineer - US"
+  },
+  "dev34": {
+    "id": "5453094008",
+    "link": "http://block.xyz/careers/jobs/5453094008?gh_jid=5453094008",
+    "company": "Block",
+    "title": "Senior Software Engineer, Developer Experience"
+  },
+  "sls363": {
+    "id": "DB.F5E",
+    "link": "https://www.comeet.com/jobs/hypernative/8A.00E/senior-account-executive---emea/DB.F5E",
+    "company": "Hypernative",
+    "title": "Senior Account Executive - EMEA"
+  },
+  "sls362": {
+    "id": "36.F6E",
+    "link": "https://www.comeet.com/jobs/hypernative/8A.00E/senior-account-executive-us/36.F6E",
+    "company": "Hypernative",
+    "title": "Senior Account Executive US"
+  },
+  "eng324": {
+    "id": "8288641",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8288641",
+    "company": "Flow Traders",
+    "title": "Core Data Engineer"
+  },
+  "sec137": {
+    "id": "21.F6B",
+    "link": "https://www.comeet.com/jobs/hypernative/8A.00E/senior-security-solutions-engineer/21.F6B",
+    "company": "Hypernative",
+    "title": "Senior Security Solutions Engineer"
+  },
+  "sls361": {
+    "id": "58.372",
+    "link": "https://www.comeet.com/jobs/hypernative/8A.00E/business-development-executive---emea/58.372",
+    "company": "Hypernative",
+    "title": "Business Development Executive - EMEA"
+  },
+  "udaf": {
+    "id": "2793343",
+    "link": "https://careers.tether.io/o/head-of-underwriting-digital-asset-financing-5",
+    "company": "Tether",
+    "title": "Head of Underwriting - Digital Asset Financing"
+  },
+  "pm321": {
+    "id": "2791425",
+    "link": "https://careers.tether.io/o/product-engineering-lead-keet-100-remote-worldwide-12",
+    "company": "Tether",
+    "title": "Product Engineering Lead, Keet (100% Remote, Worldwide)"
+  },
+  "int46": {
+    "id": "3caaf068-9c67-4b7a-b630-d725a330fcb8",
+    "link": "https://jobs.ashbyhq.com/Elliptic/3caaf068-9c67-4b7a-b630-d725a330fcb8",
+    "company": "Elliptic",
+    "title": "Internal Communications Lead"
+  },
+  "et1": {
+    "id": "2785724",
+    "link": "https://careers.tether.io/o/head-of-global-events-and-travel-100-remote-2",
+    "company": "Tether",
+    "title": "Head of Global Events and Travel (100% REMOTE)"
+  },
+  "infra46": {
+    "id": "2785484",
+    "link": "https://careers.tether.io/o/head-of-financial-infrastructure-partnerships-expansion-digital-assets-expertise",
+    "company": "Tether",
+    "title": "Head of Financial Infrastructure Partnerships & Expansion (Digital assets expertise)"
+  },
+  "fs29": {
+    "id": "2785216",
+    "link": "https://careers.tether.io/o/fullstack-engineer-agenticops-100-remote-15",
+    "company": "Tether",
+    "title": "Fullstack Engineer - AgenticOps (100% Remote)"
+  },
+  "eng603": {
+    "id": "2784266",
+    "link": "https://careers.tether.io/o/mobile-engineer-react-native-100-remote-4",
+    "company": "Tether",
+    "title": "Mobile Engineer - React Native (100% Remote)"
+  },
+  "qa87": {
+    "id": "2784248",
+    "link": "https://careers.tether.io/o/automation-qa-engineer-qvac-100-remote-eg",
+    "company": "Tether",
+    "title": "Automation QA Engineer (QVAC) (100% remote)"
+  },
+  "rale": {
+    "id": "2784173",
+    "link": "https://careers.tether.io/o/regulatory-affairs-licensing-expert-thailand-lead",
+    "company": "Tether",
+    "title": "Regulatory Affairs & licensing Expert (Thailand Lead)"
+  },
+  "eng599": {
+    "id": "2784152",
+    "link": "https://careers.tether.io/o/ai-harness-engineer-100-remote-worldwide-4",
+    "company": "Tether",
+    "title": "AI Harness Engineer (100% Remote, Worldwide)"
+  },
+  "eng597": {
+    "id": "2783903",
+    "link": "https://careers.tether.io/o/mobile-engineer-react-native-100-remote-worldwide",
+    "company": "Tether",
+    "title": "Mobile Engineer - React Native (100% Remote) - Worldwide"
+  },
+  "fe22": {
+    "id": "2783822",
+    "link": "https://careers.tether.io/o/frontend-desktop-engineer-nigeria",
+    "company": "Tether",
+    "title": "Frontend Desktop Engineer"
+  },
+  "cmp116": {
+    "id": "4740719005",
+    "link": "https://job-boards.greenhouse.io/falconx/jobs/4740719005",
+    "company": "FalconX",
+    "title": "Compliance Associate (Onboarding)"
+  },
+  "af1w": {
+    "id": "2780786",
+    "link": "https://careers.tether.io/o/ai-filmmaker-100-remote-worldwide-1",
+    "company": "Tether",
+    "title": "AI Filmmaker (100% Remote Worldwide)"
+  },
+  "mgr96": {
+    "id": "2780491",
+    "link": "https://careers.tether.io/o/corporate-development-portfolio-manager-fintech-digital-assets-2",
+    "company": "Tether",
+    "title": "Corporate Development Portfolio Manager ( Fintech & Digital assets)"
+  },
+  "fe21": {
+    "id": "2780416",
+    "link": "https://careers.tether.io/o/frontend-desktop-engineer-internal",
+    "company": "Tether",
+    "title": "Frontend Desktop Engineer (Internal)"
+  },
+  "fe20": {
+    "id": "2780406",
+    "link": "https://careers.tether.io/o/frontend-desktop-engineer-100-remote-worldwide",
+    "company": "Tether",
+    "title": "Frontend Desktop Engineer (100% remote - Worldwide)"
+  },
+  "tr125": {
+    "id": "2779562",
+    "link": "https://careers.tether.io/o/ai-research-engineer-model-compression-quantization-zurich",
+    "company": "Tether",
+    "title": "AI Research Engineer (Model Compression & Quantization)"
+  },
+  "mgr94": {
+    "id": "2778853",
+    "link": "https://careers.tether.io/o/junior-project-manager-keet-p2p-100-remote-sp",
+    "company": "Tether",
+    "title": "Junior Project Manager (Keet P2P) (100% remote)"
+  },
+  "pm281": {
+    "id": "2778844",
+    "link": "https://careers.tether.io/o/product-engineering-lead-qvac-100-remote-sw",
+    "company": "Tether",
+    "title": "Product Engineering Lead (QVAC) (100% remote)"
+  },
+  "cmp108": {
+    "id": "2778555",
+    "link": "https://careers.tether.io/o/legal-operations-assistant-2",
+    "company": "Tether",
+    "title": "Legal Operations Assistant"
+  },
+  "sls360": {
+    "id": "A2.271",
+    "link": "https://www.comeet.com/jobs/hypernative/8A.00E/vp-sales-of-apac/A2.271",
+    "company": "Hypernative",
+    "title": "VP Sales of APAC"
+  },
+  "fs34": {
+    "id": "2A.B5B",
+    "link": "https://www.comeet.com/jobs/hypernative/8A.00E/senior-full-stack-engineer/2A.B5B",
+    "company": "Hypernative",
+    "title": "Senior Full Stack Engineer"
+  },
+  "sec136": {
+    "id": "81.262",
+    "link": "https://www.comeet.com/jobs/hypernative/8A.00E/security-research-engineer/81.262",
+    "company": "Hypernative",
+    "title": "Security Research Engineer"
+  },
+  "brdt": {
+    "id": "00.463",
+    "link": "https://www.comeet.com/jobs/hypernative/8A.00E/be-rd-team-lead/00.463",
+    "company": "Hypernative",
+    "title": "BE R&D Team Lead"
+  },
+  "be95": {
+    "id": "2A.B5C",
+    "link": "https://www.comeet.com/jobs/hypernative/8A.00E/backend-infrastructure--data-engineer/2A.B5C",
+    "company": "Hypernative",
+    "title": "Backend Infrastructure & Data Engineer"
+  },
+  "dcet3": {
+    "id": "6219938004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6219938004",
+    "company": "Alpaca",
+    "title": "Director, Customer Experience, Trading API"
+  },
+  "aso50": {
+    "id": "995D122E55",
+    "link": "https://apply.workable.com/j/995D122E55",
+    "company": "Hex Trust",
+    "title": "Executive Assistant"
+  },
+  "pm247": {
+    "id": "2773829",
+    "link": "https://careers.tether.io/o/ai-technical-product-manager-qvac-100-remote-dub",
+    "company": "Tether",
+    "title": "AI Technical Product Manager (QVAC) (100% remote)"
+  },
+  "pm244": {
+    "id": "2773731",
+    "link": "https://careers.tether.io/o/product-manager-on-ramp-swap-100-remote-9",
+    "company": "Tether",
+    "title": "Product Manager On-Ramp & Swap (100% remote)"
+  },
+  "wr5": {
+    "id": "2772775",
+    "link": "https://careers.tether.io/o/credit-lead-underwriter-fintech-payments-expertise-1",
+    "company": "Tether",
+    "title": "Credit Lead (Underwriter)-fintech & payments expertise"
+  },
+  "pm230": {
+    "id": "2771833",
+    "link": "https://careers.tether.io/o/senior-technical-product-manager-keet-100-remote-14",
+    "company": "Tether",
+    "title": "Senior Technical Product Manager - Keet (100% Remote)"
+  },
+  "vte1": {
+    "id": "2771672",
+    "link": "https://careers.tether.io/o/vp-of-tech-expansion-100-remote-4",
+    "company": "Tether",
+    "title": "VP of Tech Expansion (100% REMOTE)"
+  },
+  "ts": {
+    "id": "70424962-79de-4f61-9e43-d71abfb66f00",
+    "link": "https://jobs.ashbyhq.com/braiins/70424962-79de-4f61-9e43-d71abfb66f00",
+    "company": "Braiins",
+    "title": "Technical Support"
+  },
+  "an62": {
+    "id": "bef90256-e06c-412f-84d3-8a9e19915b0d",
+    "link": "https://jobs.ashbyhq.com/Polymarket/bef90256-e06c-412f-84d3-8a9e19915b0d",
+    "company": "Polymarket",
+    "title": "Real Time Analyst"
+  },
+  "ops80": {
+    "id": "27f9dee6-3db3-40ad-a386-cc8efa456ebf",
+    "link": "https://jobs.ashbyhq.com/Polymarket/27f9dee6-3db3-40ad-a386-cc8efa456ebf",
+    "company": "Polymarket",
+    "title": "In-House Support Operations"
+  },
+  "ec": {
+    "id": "1f8a5f5c-06b7-4b1d-8fa3-8bb43f9dbbbd",
+    "link": "https://jobs.ashbyhq.com/Polymarket/1f8a5f5c-06b7-4b1d-8fa3-8bb43f9dbbbd",
+    "company": "Polymarket",
+    "title": "Escalations And Complaints Lead"
+  },
+  "cm9": {
+    "id": "53f9adfb-b37d-40e1-bff9-83df3ff7c7fd",
+    "link": "https://jobs.ashbyhq.com/Polymarket/53f9adfb-b37d-40e1-bff9-83df3ff7c7fd",
+    "company": "Polymarket",
+    "title": "Executive Community Relations Lead"
+  },
+  "da": {
+    "id": "0752edc4-e728-4946-b3d9-4719a6271072",
+    "link": "https://jobs.ashbyhq.com/Polymarket/0752edc4-e728-4946-b3d9-4719a6271072",
+    "company": "Polymarket",
+    "title": "Data and Analytics Lead"
+  },
+  "eng289": {
+    "id": "8ba7acca-aa38-48cc-a994-78577eba6d96",
+    "link": "https://jobs.ashbyhq.com/Polymarket/8ba7acca-aa38-48cc-a994-78577eba6d96",
+    "company": "Polymarket",
+    "title": "Analytics Engineer, Customer Experience"
+  },
+  "qa75": {
+    "id": "c5c86bc3-978a-4da9-9477-a1f8a195696f",
+    "link": "https://jobs.ashbyhq.com/Polymarket/c5c86bc3-978a-4da9-9477-a1f8a195696f",
+    "company": "Polymarket",
+    "title": "Content, QA, And Learning Development"
+  },
+  "edce": {
+    "id": "2767660",
+    "link": "https://careers.tether.io/o/event-design-coordinator-remote-europe-10",
+    "company": "Tether",
+    "title": "Event Design Coordinator (Remote / Europe)"
+  },
+  "pm192": {
+    "id": "02318fa1-e707-41ee-a218-35a8cfd5797b",
+    "link": "https://jobs.lever.co/coinmarketcap/02318fa1-e707-41ee-a218-35a8cfd5797b",
+    "company": "CoinMarketCap",
+    "title": "Senior Product Designer - CoinGlass"
+  },
+  "eng369": {
+    "id": "8857516002",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8857516002",
+    "company": "BitGo",
+    "title": "Senior Software Engineer - Accounting & Ledger Systems"
+  },
+  "sec75": {
+    "id": "8857515002",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8857515002",
+    "company": "BitGo",
+    "title": "Senior Security Application Engineer"
+  },
+  "sec74": {
+    "id": "8857514002",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8857514002",
+    "company": "BitGo",
+    "title": "Senior Security Application Engineer"
+  },
+  "eng379": {
+    "id": "8241603",
+    "link": "https://ripple.com/careers/all-jobs/job/8241603?gh_jid=8241603",
+    "company": "Ripple",
+    "title": "Software Engineer II"
+  },
+  "qa71": {
+    "id": "8241752",
+    "link": "https://www.coinbase.com/careers/positions/8241752?gh_jid=8241752",
+    "company": "Coinbase",
+    "title": "Staff Software Engineer, Mobile QA"
+  },
+  "qa47": {
+    "id": "8241748",
+    "link": "https://www.coinbase.com/careers/positions/8241748?gh_jid=8241748",
+    "company": "Coinbase",
+    "title": "Senior Software Engineer, Mobile QA"
+  },
+  "eng367": {
+    "id": "8241720",
+    "link": "https://www.coinbase.com/careers/positions/8241720?gh_jid=8241720",
+    "company": "Coinbase",
+    "title": "Staff Software Engineer, Native Mobile"
+  },
+  "eng366": {
+    "id": "8241716",
+    "link": "https://www.coinbase.com/careers/positions/8241716?gh_jid=8241716",
+    "company": "Coinbase",
+    "title": "Senior Staff Software Engineer, Native Mobile"
+  },
+  "eng365": {
+    "id": "8241724",
+    "link": "https://www.coinbase.com/careers/positions/8241724?gh_jid=8241724",
+    "company": "Coinbase",
+    "title": "Senior Software Engineer, Native Mobile"
+  },
+  "sec73": {
+    "id": "8004626003",
+    "link": "https://a16z.com/about/jobs/?gh_jid=8004626003",
+    "company": "a16z crypto",
+    "title": "Partner 20, Staff Engineer, Enterprise Security"
+  },
+  "sol2": {
+    "id": "7bdef1e8-e97d-4a9b-8f7e-67d6b1628570",
+    "link": "https://jobs.ashbyhq.com/Sardine/7bdef1e8-e97d-4a9b-8f7e-67d6b1628570",
+    "company": "Sardine",
+    "title": "Global Head of Solutions"
+  },
+  "ctra": {
+    "id": "27e3cc81-2162-426c-81d2-b5184c4f6bca",
+    "link": "https://jobs.ashbyhq.com/trm-labs/27e3cc81-2162-426c-81d2-b5184c4f6bca",
+    "company": "TRM Labs",
+    "title": "Senior / Staff Cyber Threat Response Advisor"
+  },
+  "mgr110": {
+    "id": "8008766003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8008766003",
+    "company": "OKX",
+    "title": "Senior Fraud Risk Manager"
+  },
+  "sec72": {
+    "id": "5435037008",
+    "link": "https://job-boards.greenhouse.io/hut8/jobs/5435037008",
+    "company": "Hut 8",
+    "title": "Cybersecurity Engineer, Principal"
+  },
+  "sec71": {
+    "id": "5439137008",
+    "link": "https://job-boards.greenhouse.io/hut8/jobs/5439137008",
+    "company": "Hut 8",
+    "title": "Cybersecurity, Partner"
+  },
+  "an47": {
+    "id": "5439140008",
+    "link": "http://block.xyz/careers/jobs/5439140008?gh_jid=5439140008",
+    "company": "Block",
+    "title": "Business Intelligence Analyst"
+  },
+  "mpr": {
+    "id": "8008711003",
+    "link": "https://boards.greenhouse.io/drivewealth/jobs/8008711003?gh_jid=8008711003",
+    "company": "DriveWealth",
+    "title": "Senior Media and Public Relations Lead"
+  },
+  "pm190": {
+    "id": "8240638",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8240638?t=gh_src=&gh_jid=8240638",
+    "company": "Robinhood",
+    "title": "Product Designer, International"
+  },
+  "eng363": {
+    "id": "8241212",
+    "link": "https://ripple.com/careers/all-jobs/job/8241212?gh_jid=8241212",
+    "company": "Ripple",
+    "title": "Staff Software Engineer"
+  },
+  "pm189": {
+    "id": "8238021",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8238021",
+    "company": "DRW",
+    "title": "Risk Product Analyst"
+  },
+  "pm188": {
+    "id": "8221691",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8221691",
+    "company": "DRW",
+    "title": "Risk Product Analyst"
+  },
+  "ops73": {
+    "id": "8238250",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8238250",
+    "company": "DRW",
+    "title": "Crypto Wallet Operations Specialist"
+  },
+  "dgcp": {
+    "id": "65332c3f-8bab-4341-98d5-2fef60a9d1d6",
+    "link": "https://careers.ethena.fi/jobs/8475342-deputy-general-counsel-ethena-pay",
+    "company": "Ethena Labs",
+    "title": "Deputy General Counsel - Ethena Pay"
+  },
+  "sec70": {
+    "id": "8240446",
+    "link": "https://ripple.com/careers/all-jobs/job/8240446?gh_jid=8240446",
+    "company": "Ripple",
+    "title": "Senior Security Engineer"
+  },
+  "eng362": {
+    "id": "8230509",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8230509",
+    "company": "DRW",
+    "title": "AI Inference Platform Engineer"
+  },
+  "aso47": {
+    "id": "8240482",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8240482",
+    "company": "DRW",
+    "title": "Executive Assistant to the CEO"
+  },
+  "sls189": {
+    "id": "5121335008",
+    "link": "http://block.xyz/careers/jobs/5121335008?gh_jid=5121335008",
+    "company": "Block",
+    "title": "Commerce Account Executive"
+  },
+  "idds": {
+    "id": "352cdac4-5d11-4bae-8ce4-8e27ad722d54",
+    "link": "https://jobs.ashbyhq.com/lightspark/352cdac4-5d11-4bae-8ce4-8e27ad722d54",
+    "company": "Lightspark",
+    "title": "Institutional Due Diligence Specialist, EU"
+  },
+  "infra27": {
+    "id": "4177925009",
+    "link": "https://job-boards.greenhouse.io/turnkeycareers/jobs/4177925009",
+    "company": "Turnkey",
+    "title": "Senior Infrastructure Engineer"
+  },
+  "sec69": {
+    "id": "8237244",
+    "link": "https://stripe.com/jobs/search?gh_jid=8237244",
+    "company": "Stripe",
+    "title": "Security GRC Analyst/Program Manager, Bridge"
+  },
+  "eng361": {
+    "id": "b566c5d0-67e4-4173-857f-382e808290ff",
+    "link": "https://crossmint.na.teamtailor.com/jobs/709196-anti-fraud-engineer-spain",
+    "company": "Crossmint",
+    "title": "Anti-Fraud Engineer (Spain)"
+  },
+  "cmp70": {
+    "id": "4989839101",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4989839101",
+    "company": "Bitpanda",
+    "title": "Lead Legal Counsel, Group DPO"
+  },
+  "cmp69": {
+    "id": "4988645101",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4988645101",
+    "company": "Bitpanda",
+    "title": "Lead Legal Counsel, Group DPO"
+  },
+  "sls187": {
+    "id": "8237505",
+    "link": "https://stripe.com/jobs/search?gh_jid=8237505",
+    "company": "Stripe",
+    "title": "M&A/Integration Accounting Lead"
+  },
+  "eng656": {
+    "id": "95189298",
+    "link": "https://nousresearch.com/careers/support-engineer",
+    "company": "Nous Research",
+    "title": "Support Engineer"
+  },
+  "sec133": {
+    "id": "95189296",
+    "link": "https://nousresearch.com/careers/security-engineer",
+    "company": "Nous Research",
+    "title": "Security Engineer"
+  },
+  "pm342": {
+    "id": "95189295",
+    "link": "https://nousresearch.com/careers/product-analytics-engineer",
+    "company": "Nous Research",
+    "title": "Product Analytics Engineer"
+  },
+  "eng655": {
+    "id": "95189293",
+    "link": "https://nousresearch.com/careers/forward-deployed-engineer",
+    "company": "Nous Research",
+    "title": "Forward Deployed Engineer"
+  },
+  "pm341": {
+    "id": "95189291",
+    "link": "https://nousresearch.com/careers/software-engineer-product",
+    "company": "Nous Research",
+    "title": "Software Engineer, Product"
+  },
+  "eng654": {
+    "id": "95189288",
+    "link": "https://nousresearch.com/careers/software-engineer-mobile",
+    "company": "Nous Research",
+    "title": "Software Engineer, Mobile"
+  },
+  "infra53": {
+    "id": "95189286",
+    "link": "https://nousresearch.com/careers/software-engineer-infrastructure",
+    "company": "Nous Research",
+    "title": "Software Engineer, Infrastructure"
+  },
+  "eng653": {
+    "id": "95189285",
+    "link": "https://nousresearch.com/careers/software-engineer",
+    "company": "Nous Research",
+    "title": "Software Engineer"
+  },
+  "eng657": {
+    "id": "95189284",
+    "link": "https://nousresearch.com/careers/machine-learning-engineer-evals",
+    "company": "Nous Research",
+    "title": "Machine Learning Engineer, Evals"
+  },
+  "mgr205": {
+    "id": "95189283",
+    "link": "https://nousresearch.com/careers/office-manager",
+    "company": "Nous Research",
+    "title": "Office Manager"
+  },
+  "ops72": {
+    "id": "8214620",
+    "link": "https://stripe.com/jobs/search?gh_jid=8214620",
+    "company": "Stripe",
+    "title": "Strategy & Operations Business Partner, Solution Architecture"
+  },
+  "mkt55": {
+    "id": "8224614",
+    "link": "https://stripe.com/jobs/search?gh_jid=8224614",
+    "company": "Stripe",
+    "title": "Enterprise Field Marketing Manager"
+  },
+  "arc13": {
+    "id": "8223712",
+    "link": "https://stripe.com/jobs/search?gh_jid=8223712",
+    "company": "Stripe",
+    "title": "Specialist Solutions Architect, Money Management"
+  },
+  "arc12": {
+    "id": "8147491",
+    "link": "https://stripe.com/jobs/search?gh_jid=8147491",
+    "company": "Stripe",
+    "title": "Solutions Architect, Platforms, UK"
+  },
+  "mgr107": {
+    "id": "1fd6777b-0f50-4d34-859b-7152aff410be",
+    "link": "https://jobs.ashbyhq.com/0g/1fd6777b-0f50-4d34-859b-7152aff410be",
+    "company": "0G Labs",
+    "title": "Project Manager"
+  },
+  "pm187": {
+    "id": "8008087003",
+    "link": "https://job-boards.greenhouse.io/grayscaleinvestments/jobs/8008087003",
+    "company": "Grayscale",
+    "title": "Senior Associate, Product Operations"
+  },
+  "tcs": {
+    "id": "8008024003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8008024003",
+    "company": "OKX",
+    "title": "Team Lead, Customer Service"
+  },
+  "sls186": {
+    "id": "b1dd96f3-b7fa-4bcb-b292-3f7fa1b7a78e",
+    "link": "https://jobs.ashbyhq.com/Blockworks/b1dd96f3-b7fa-4bcb-b292-3f7fa1b7a78e",
+    "company": "Blockworks",
+    "title": "Business Development Representative"
+  },
+  "mgr106": {
+    "id": "8167558",
+    "link": "https://stripe.com/jobs/search?gh_jid=8167558",
+    "company": "Stripe",
+    "title": "Incident Response Manager"
+  },
+  "pm186": {
+    "id": "8221774",
+    "link": "https://stripe.com/jobs/search?gh_jid=8221774",
+    "company": "Stripe",
+    "title": "Product Support Manager"
+  },
+  "eng360": {
+    "id": "8232855",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8232855?t=gh_src=&gh_jid=8232855",
+    "company": "Robinhood",
+    "title": "Senior Software Engineer, Prime"
+  },
+  "eng359": {
+    "id": "8232853",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8232853?t=gh_src=&gh_jid=8232853",
+    "company": "Robinhood",
+    "title": "Senior Software Engineer, Prime"
+  },
+  "sls282": {
+    "id": "4701715006",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4701715006",
+    "company": "Fireblocks",
+    "title": "Sales Director"
   }
 }
