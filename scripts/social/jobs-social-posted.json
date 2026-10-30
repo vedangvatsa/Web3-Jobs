@@ -79140,7 +79140,8 @@
       },
       "account": "profile",
       "attemptId": "5ff392e9-3c9d-42de-8862-360020f1a2a7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x56414d8011102ed5184145b1256f91ce09dbf662"
     }
   ]
 }
