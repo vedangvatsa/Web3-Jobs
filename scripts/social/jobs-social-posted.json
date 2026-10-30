@@ -79595,7 +79595,8 @@
       },
       "account": "channel:ai",
       "attemptId": "5caac92f-7066-47e5-9f37-a25848104366",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x6420569e4e167e08662aedc0fdc9beb8a244aeec"
     }
   ]
 }
