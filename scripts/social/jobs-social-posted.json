@@ -77833,7 +77833,8 @@
       },
       "account": "channel:founders",
       "attemptId": "f826404f-74b7-4d31-9126-b624248865da",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf6735f015f72942cedf907b071006169edf46365"
     }
   ]
 }
