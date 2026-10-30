@@ -875,6 +875,9 @@
   "https://hashtagweb3.com/dailydividends?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/binancebr?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/depositbug?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/phpctf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/luxorai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/nba?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2525,6 +2528,12 @@
   "Binance Files for Brazil License as Product Cuts Take Effect",
   "Ethereum developers fix Glamsterdam upgrade staking deposit bug",
   "Ethereum Merges Fix for Glamsterdam Staking Deposit Bug",
+  "Researcher Wins $2,020 Bitcoin Prize Exploiting PHP Flaw",
+  "Researcher claims Steal My Bitcoin prize by exploiting patched PHP flaw",
+  "Luxor Secures $16 Million for AI Compute Expansion",
+  "Luxor Raises $16 Million to Expand AI Compute Business",
+  "NBA signs integrity pact with CFTC for prediction markets",
+  "NBA signs CFTC integrity pact and names Kalshi, Polymarket preferred exchanges",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2929,5 +2938,8 @@
   "fp:back|btc|ceo|day|deficit|deposit|gap|jan3|liquid|mow",
   "fp:accru|approv|beginn|business|daily|day|distribut|dividend|four|november",
   "fp:and22|appli|apply|bank|binanc|brazil|central|cut|effect|eight",
-  "fp:block|bug|builder|captur|deposit|developer|eth|fix|glamsterdam|intend"
+  "fp:block|bug|builder|captur|deposit|developer|eth|fix|glamsterdam|intend",
+  "fp:020|analyst|are|claim|com|demonstrat|exploit|exploitabl|flaw|october25",
+  "fp:16m|brokerag|business|cloud|cmt|comput|derivativ|digital|expand|expansion",
+  "fp:cftc|exchang|federal|integrity|kalshi|leagu|market|nam|nba|nfl"
 ]
