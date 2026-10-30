@@ -10565,7 +10565,7 @@
     "sentAt": "2026-10-30T03:40:17.008Z"
   },
   "989dd72f-aba6-4fe8-b50a-4da458c99f1b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-30T11:32:27.432Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -10677,6 +10677,8 @@
       }
     ],
     "message": "- Zama is hiring <a href=\"https://hashtagweb3.com/ia2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">IT Administrator</a>\n- Consensys is hiring <a href=\"https://hashtagweb3.com/mgr201?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VIP Relationship Manager</a>\n- Blockchain.com is hiring <a href=\"https://hashtagweb3.com/des10?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Brand Designer (Maternity Cover)</a>\n- Chainalysis is hiring <a href=\"https://hashtagweb3.com/arc15?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Architect</a>\n- Streamflow is hiring <a href=\"https://hashtagweb3.com/mgr207?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Social Media &amp; Content Manager (Remote - Europe, FT)</a>",
-    "slotKey": "2026-10-30:afternoon"
+    "slotKey": "2026-10-30:afternoon",
+    "messageId": 16587,
+    "sentAt": "2026-10-30T11:32:33.151Z"
   }
 }
