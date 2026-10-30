@@ -79630,7 +79630,8 @@
       },
       "account": "channel:product",
       "attemptId": "4170c5b0-ef5c-44e8-bc50-ed0a72a3a550",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xec9360009044125eecf85a9f93fb977df9dbdf96"
     }
   ]
 }
