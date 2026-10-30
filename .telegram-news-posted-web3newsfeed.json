@@ -878,6 +878,9 @@
   "https://hashtagweb3.com/phpctf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/luxorai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/nba?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/zcgstream?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/utexomint?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/zodia?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2534,6 +2537,12 @@
   "Luxor Raises $16 Million to Expand AI Compute Business",
   "NBA signs integrity pact with CFTC for prediction markets",
   "NBA signs CFTC integrity pact and names Kalshi, Polymarket preferred exchanges",
+  "Zcash Co-Founder Proposes Ending Community Grants Block Subsidy",
+  "Zcash Co-Founder Proposes Ending Grants Funding Stream",
+  "Utexo begins early testing for Bitcoin-based USDT",
+  "Utexo opens early access to bridged USDT on Bitcoin ahead of Nov. 28 launch",
+  "Standard Chartered to acquire 100% of Zodia Custody",
+  "Standard Chartered signs definitive agreements to acquire Zodia Custody",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2941,5 +2950,8 @@
   "fp:block|bug|builder|captur|deposit|developer|eth|fix|glamsterdam|intend",
   "fp:020|analyst|are|claim|com|demonstrat|exploit|exploitabl|flaw|october25",
   "fp:16m|brokerag|business|cloud|cmt|comput|derivativ|digital|expand|expansion",
-  "fp:cftc|exchang|federal|integrity|kalshi|leagu|market|nam|nba|nfl"
+  "fp:cftc|exchang|federal|integrity|kalshi|leagu|market|nam|nba|nfl",
+  "fp:125m|allocation|becaus|block|community|draft|end|founder|fund|grant",
+  "fp:access|ahead|bas|begin|bridg|can|early|exchang|network|nov28",
+  "fp:acquir|acquire100|agreement|australia|charter|clearanc|custody|definitiv|hong|includ"
 ]
