@@ -2574,5 +2574,36 @@
     "slotKey": "2026-10-29:evening",
     "messageId": 193421,
     "sentAt": "2026-10-29T19:36:08.280Z"
+  },
+  "23e0499a-99cf-492a-9ba0-4c72cd6cc532": {
+    "status": "reserved",
+    "reservedAt": "2026-10-30T03:42:22.329Z",
+    "stories": [
+      {
+        "index": 1,
+        "headline": "University employee granted religious exemption from using AI",
+        "summary": "David Durman secured the waiver from the University of Kentucky based on his personal spiritual beliefs.",
+        "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+        "source": "TechCrunch",
+        "originalTitle": "You don’t need to believe in a god to get a religious exemption from using AI at work"
+      },
+      {
+        "index": 2,
+        "headline": "Amazon CEO expects AWS to reach $1 trillion revenue",
+        "summary": "The company plans to increase capital expenditures for its cloud and artificial intelligence infrastructure.",
+        "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+        "source": "TechCrunch",
+        "originalTitle": "AWS will be a $1T business, Jassy says. But first, it will spend big."
+      },
+      {
+        "index": 3,
+        "headline": "Reddit requires user logins as search engine traffic declines",
+        "summary": "The platform is ending open-web access to protect its business model from changing online search habits.",
+        "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+        "source": "TechCrunch",
+        "originalTitle": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience"
+      }
+    ],
+    "slotKey": "2026-10-30:morning"
   }
 }
