@@ -10438,5 +10438,128 @@
     "slotKey": "2026-10-30:morning",
     "messageId": 16585,
     "sentAt": "2026-10-30T03:40:13.432Z"
+  },
+  "82b31ae6-08a4-4cf7-8dc5-2db8ac8eb407": {
+    "status": "reserved",
+    "reservedAt": "2026-10-30T03:40:14.997Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "674a8e53-59e4-413c-a830-97df8ab5f320",
+          "title": "Fraud Risk Manager",
+          "company": "Aspora",
+          "link": "https://jobs.ashbyhq.com/Aspora/674a8e53-59e4-413c-a830-97df8ab5f320",
+          "date": "2026-10-20T12:26:34.501+00:00",
+          "source": "Ashby: Aspora [Aspora]",
+          "location": "London",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr195"
+        },
+        "key": "674a8e53-59e4-413c-a830-97df8ab5f320",
+        "slug": "mgr195",
+        "url": "https://hashtagweb3.com/mgr195?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Aspora",
+        "title": "Fraud Risk Manager"
+      },
+      {
+        "snapshot": {
+          "id": "6231747004",
+          "title": "Senior Software Engineer - Identity",
+          "company": "Alpaca",
+          "link": "https://job-boards.greenhouse.io/alpaca/jobs/6231747004",
+          "date": "2026-10-22T22:08:34-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Alpaca [alpaca]",
+          "location": "Remote Americas",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng432"
+        },
+        "key": "6231747004",
+        "slug": "eng432",
+        "url": "https://hashtagweb3.com/eng432?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alpaca",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "3b5b2924-4210-419e-b02a-9536bb039c59",
+          "title": "Data & Analytics Lead",
+          "company": "1inch",
+          "link": "https://jobs.lever.co/1inch/3b5b2924-4210-419e-b02a-9536bb039c59",
+          "date": "2026-10-01T14:39:58.608Z",
+          "source": "Lever: 1inch [1inch]",
+          "location": "UAE - Dubai",
+          "workplaceType": "onsite",
+          "department": "Operations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "da2"
+        },
+        "key": "3b5b2924-4210-419e-b02a-9536bb039c59",
+        "slug": "da2",
+        "url": "https://hashtagweb3.com/da2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "1inch",
+        "title": "Data & Analytics Lead"
+      },
+      {
+        "snapshot": {
+          "id": "8258078",
+          "title": "Account Executive, Commercial Hunter, AUNZ",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8258078",
+          "date": "2026-10-06T01:36:09-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Sydney",
+          "department": "1195 Account Executives (APAC)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls223"
+        },
+        "key": "8258078",
+        "slug": "sls223",
+        "url": "https://hashtagweb3.com/sls223?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "695e3daf8ca2",
+          "title": "Senior Legal Counsel, Power & Land",
+          "company": "Bitdeer",
+          "link": "https://bitdeer.breezy.hr/p/695e3daf8ca2-senior-legal-counsel-power-land",
+          "date": "2026-10-28",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Bitdeer [bitdeer]",
+          "location": "Austin, TX",
+          "isRemote": false,
+          "department": "Legal",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://bitdeer.breezy.hr/p/695e3daf8ca2-senior-legal-counsel-power-land",
+            "checkedAt": "2026-10-29T03:36:54.814Z",
+            "bodySha256": "a3f78779028bb48f6c9f518d27cbf2332718a5e915ad51d2f99305e98a180b19",
+            "provider": "breezy",
+            "datePosted": "2026-10-28"
+          },
+          "slug": "cmp132"
+        },
+        "key": "695e3daf8ca2",
+        "slug": "cmp132",
+        "url": "https://hashtagweb3.com/cmp132?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "Senior Legal Counsel"
+      }
+    ],
+    "message": "- Aspora is hiring <a href=\"https://hashtagweb3.com/mgr195?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Fraud Risk Manager</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/eng432?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer - Identity</a>\n- 1inch is hiring <a href=\"https://hashtagweb3.com/da2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Data &amp; Analytics Lead</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls223?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Commercial Hunter, AUNZ</a>\n- Bitdeer is hiring <a href=\"https://hashtagweb3.com/cmp132?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Legal Counsel, Power &amp; Land</a>",
+    "slotKey": "2026-10-30:morning"
   }
 }
