@@ -5730,5 +5730,120 @@
     "slotKey": "2026-10-29:evening",
     "messageId": 155986,
     "sentAt": "2026-10-29T19:35:54.002Z"
+  },
+  "25f82be7-66de-4781-86bf-ba08ba11733f": {
+    "status": "reserved",
+    "reservedAt": "2026-10-30T03:40:23.348Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "182415a7-3e55-4f68-ae50-44b324873022",
+          "title": "Financial Controlling Intern",
+          "company": "SwissBorg",
+          "link": "https://jobs.lever.co/swissborg/182415a7-3e55-4f68-ae50-44b324873022",
+          "date": "2026-10-27T18:27:14.335Z",
+          "source": "Lever: SwissBorg [swissborg]",
+          "location": "Remote - Europe Timezone",
+          "workplaceType": "remote",
+          "department": "Corporate Governance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "int49"
+        },
+        "key": "182415a7-3e55-4f68-ae50-44b324873022",
+        "slug": "int49",
+        "url": "https://hashtagweb3.com/int49?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "SwissBorg",
+        "title": "Financial Controlling Intern"
+      },
+      {
+        "snapshot": {
+          "id": "95af2a56-949e-4c33-b5eb-205726328d4c",
+          "title": "Director of Finance - Canada Wide - Remote",
+          "company": "Newton",
+          "link": "https://jobs.lever.co/newton/95af2a56-949e-4c33-b5eb-205726328d4c",
+          "date": "2026-10-19T17:41:43.735Z",
+          "source": "Lever: Newton [newton]",
+          "location": "Remote (Toronto, Ontario)",
+          "workplaceType": "remote",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "dfcw"
+        },
+        "key": "95af2a56-949e-4c33-b5eb-205726328d4c",
+        "slug": "dfcw",
+        "url": "https://hashtagweb3.com/dfcw?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Newton",
+        "title": "Director of Finance"
+      },
+      {
+        "snapshot": {
+          "id": "8919585002",
+          "title": "AML Onboarding Analyst",
+          "company": "Jane Street",
+          "link": "https://www.janestreet.com/join-jane-street/apply/8919585002?gh_jid=8919585002",
+          "date": "2026-10-28T12:45:15-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Jane Street [janestreet]",
+          "location": "London, England, United Kingdom",
+          "department": "Legal and Compliance",
+          "active": true,
+          "slug": "ob12",
+          "dateVerified": true
+        },
+        "key": "8919585002",
+        "slug": "ob12",
+        "url": "https://hashtagweb3.com/ob12?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Jane Street",
+        "title": "AML Onboarding Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "218587df-4c7d-437f-bcbc-ab7755629207",
+          "title": "Trust and Safety Program Manager",
+          "company": "Polymarket",
+          "link": "https://jobs.ashbyhq.com/Polymarket/218587df-4c7d-437f-bcbc-ab7755629207",
+          "date": "2026-10-23T19:10:51.751+00:00",
+          "source": "Ashby: Polymarket [Polymarket]",
+          "location": "New York",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Legal",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rs16"
+        },
+        "key": "218587df-4c7d-437f-bcbc-ab7755629207",
+        "slug": "rs16",
+        "url": "https://hashtagweb3.com/rs16?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Polymarket",
+        "title": "Trust and Safety Program Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8324207",
+          "title": "Processing Cost Analyst",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8324207",
+          "date": "2026-10-26T09:24:50-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "IN-Bengaluru",
+          "department": "4203 BFin - Accounting (SDC)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an109"
+        },
+        "key": "8324207",
+        "slug": "an109",
+        "url": "https://hashtagweb3.com/an109?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Processing Cost Analyst"
+      }
+    ],
+    "message": "- SwissBorg is hiring <a href=\"https://hashtagweb3.com/int49?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Financial Controlling Intern</a>\n- Newton is hiring <a href=\"https://hashtagweb3.com/dfcw?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director of Finance - Canada Wide - Remote</a>\n- Jane Street is hiring <a href=\"https://hashtagweb3.com/ob12?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AML Onboarding Analyst</a>\n- Polymarket is hiring <a href=\"https://hashtagweb3.com/rs16?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Trust and Safety Program Manager</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/an109?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Processing Cost Analyst</a>",
+    "slotKey": "2026-10-30:morning"
   }
 }
