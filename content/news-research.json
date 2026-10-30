@@ -104470,7 +104470,23 @@
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
       "attempts": 0,
       "expiresAt": "2026-10-31T13:38:08.000Z",
-      "lastSeenAt": "2026-10-29T03:34:54.128Z"
+      "lastSeenAt": "2026-10-29T03:34:54.128Z",
+      "articleSlug": "comer",
+      "draftProgress": {
+        "id": "415ee5aff505874490c6",
+        "day": "2026-10-30",
+        "articleSlug": "comer",
+        "note": "Read Decrypt's report; downloaded Oversight Committee press release and WHYY report, reading now. Primary letter PDF available at oversight.house.gov.",
+        "sourceChecks": [
+          {
+            "url": "https://decrypt.co/382035/house-oversight-chair-comer-probes-delaware-plan-for-ai-run-companies",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-30T10:57:05.790Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "8fc89eddfe8a98cbd66e": {
       "source": "The Defiant",
