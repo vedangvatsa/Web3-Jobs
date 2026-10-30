@@ -77340,6 +77340,47 @@
       "verification": "verified",
       "postId": "6ae48127c56bf7afb3b03bc1",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7521897809856598016"
+    },
+    {
+      "slug": "mgr42",
+      "company": "BitGo",
+      "title": "Customer Success Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-30T11:32:36.549Z",
+      "expectedText": "BitGo is hiring Customer Success Manager: https://hashtagweb3.com/mgr42/li?og=7",
+      "snapshot": {
+        "id": "8384217002",
+        "title": "Customer Success Manager",
+        "company": "BitGo",
+        "link": "https://job-boards.greenhouse.io/bitgo/jobs/8384217002",
+        "date": "2026-10-16T13:48:13-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BitGo [bitgo]",
+        "location": "Singapore",
+        "department": "CSM",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr42"
+      },
+      "payload": {
+        "text": "BitGo is hiring Customer Success Manager: https://hashtagweb3.com/mgr42/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/mgr42/li?og=7",
+          "title": "Customer Success Manager at BitGo",
+          "description": "Join BitGo as Customer Success Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/mgr42.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "3edd45ce-4358-4653-8eed-337b997c41ca",
+      "verification": "creating"
     }
   ]
 }
