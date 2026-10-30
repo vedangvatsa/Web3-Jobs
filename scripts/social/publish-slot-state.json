@@ -305,6 +305,26 @@
         "rolloutState": "SUCCEEDED",
         "confirmedAt": "2026-10-29T10:39:20.809Z"
       }
+    ],
+    "2026-10-30": [
+      {
+        "date": "2026-10-30",
+        "id": "41040419973-1",
+        "sourceCommit": "2019adde7b123a232b9d26db5498e41e17678a05",
+        "jobsCheckedAt": "2026-10-30T03:48:25.428Z",
+        "newsCompletedAt": "2026-10-30T11:42:13.586Z",
+        "articleSlugs": [
+          "amplitude",
+          "solflareincident",
+          "cftc247",
+          "aavebtc",
+          "cbbrasil"
+        ],
+        "phase": "building",
+        "startedAt": "2026-10-30T11:43:35.060Z",
+        "buildId": "daily-20261030-41040419973-1",
+        "rolloutId": "daily-20261030-41040419973-1"
+      }
     ]
   }
 }
