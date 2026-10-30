@@ -2582,5 +2582,36 @@
     "slotKey": "2026-10-30:morning",
     "messageId": 156002,
     "sentAt": "2026-10-30T03:40:50.159Z"
+  },
+  "63389d16-ef65-4cf3-82af-e0ce5482222b": {
+    "status": "reserved",
+    "reservedAt": "2026-10-30T11:34:00.865Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Ethereum developers fix Glamsterdam staking deposit bug",
+        "summary": "This update prevents block builders from incorrectly capturing ETH meant for new network validators.",
+        "link": "https://hashtagweb3.com/depositbug?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ethereum Merges Fix for Glamsterdam Staking Deposit Bug"
+      },
+      {
+        "index": -1,
+        "headline": "Luxor Secures $16 Million for AI Compute Expansion",
+        "summary": "CMT Digital led the funding round to expand Luxor's cloud platform, hardware brokerage, and compute derivatives desk.",
+        "link": "https://hashtagweb3.com/luxorai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Luxor Raises $16 Million to Expand AI Compute Business"
+      },
+      {
+        "index": -1,
+        "headline": "VanEck Launches Wealth Builder ETF With Bitcoin Allocation",
+        "summary": "The NYSE-listed WBMO fund holds stocks, bonds, and gold, alongside a two percent allocation to bitcoin.",
+        "link": "https://hashtagweb3.com/vaneckbuilder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "VanEck Lists Wealth Builder ETF With Bitcoin Exposure"
+      }
+    ],
+    "slotKey": "2026-10-30:afternoon"
   }
 }
