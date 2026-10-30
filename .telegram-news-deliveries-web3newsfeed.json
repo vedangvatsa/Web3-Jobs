@@ -2714,5 +2714,36 @@
     "slotKey": "2026-10-30:morning",
     "messageId": 65789,
     "sentAt": "2026-10-30T03:40:38.544Z"
+  },
+  "d2a39f48-06a2-436a-8de2-5da37a390ed3": {
+    "status": "reserved",
+    "reservedAt": "2026-10-30T11:36:26.877Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Zcash Co-Founder Proposes Ending Community Grants Block Subsidy",
+        "summary": "The draft ZIP redirects the 8% allocation to the Network Sustainability Mechanism because the treasury holds $125 million.",
+        "link": "https://hashtagweb3.com/zcgstream?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Zcash Co-Founder Proposes Ending Grants Funding Stream"
+      },
+      {
+        "index": -1,
+        "headline": "Utexo begins early testing for Bitcoin-based USDT",
+        "summary": "Exchanges and wallets can now test bridged USDT on the Bitcoin Signet network before the November 28 launch.",
+        "link": "https://hashtagweb3.com/utexomint?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Utexo opens early access to bridged USDT on Bitcoin ahead of Nov. 28 launch"
+      },
+      {
+        "index": -1,
+        "headline": "Standard Chartered to acquire 100% of Zodia Custody",
+        "summary": "The deal includes regulated units in Singapore, Hong Kong, Australia, Luxembourg, and the UAE, pending official regulatory clearance.",
+        "link": "https://hashtagweb3.com/zodia?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Standard Chartered signs definitive agreements to acquire Zodia Custody"
+      }
+    ],
+    "slotKey": "2026-10-30:afternoon"
   }
 }
