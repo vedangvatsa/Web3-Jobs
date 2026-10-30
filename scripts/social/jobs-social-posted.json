@@ -77337,7 +77337,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "c9fe471c-b440-455b-9e1b-16dd003871cd",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae48127c56bf7afb3b03bc1"
     }
   ]
 }
