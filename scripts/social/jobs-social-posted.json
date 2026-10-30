@@ -78250,7 +78250,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "45308b38-b70b-4376-95fc-f3dc922625ee",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7521898754237554689"
     }
   ]
 }
