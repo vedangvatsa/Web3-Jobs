@@ -75622,6 +75622,47 @@
       "verification": "verified",
       "postId": "6ae412684b8768bfb2da1ff1",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7521778902151725056"
+    },
+    {
+      "slug": "sls248",
+      "company": "Chainlink Labs",
+      "title": "Sales Executive, APAC - Banking & Capital Markets",
+      "platform": "linkedin",
+      "postedAt": "2026-10-30T03:40:32.439Z",
+      "expectedText": "Chainlink Labs is hiring Sales Executive, APAC - Banking & Capital Markets: https://hashtagweb3.com/sls248/li?og=7",
+      "snapshot": {
+        "id": "1c718a25-79c6-4dce-8f71-350eda862cef",
+        "title": "Sales Executive, APAC - Banking & Capital Markets",
+        "company": "Chainlink Labs",
+        "link": "https://jobs.ashbyhq.com/chainlink-labs/1c718a25-79c6-4dce-8f71-350eda862cef",
+        "date": "2026-10-21",
+        "dateVerified": true,
+        "source": "Ashby: Chainlink Labs [chainlink-labs]",
+        "location": "Remote (Hong Kong)",
+        "workplaceType": "Remote",
+        "department": "Capital Markets",
+        "active": true,
+        "slug": "sls248"
+      },
+      "payload": {
+        "text": "Chainlink Labs is hiring Sales Executive, APAC - Banking & Capital Markets: https://hashtagweb3.com/sls248/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls248/li?og=7",
+          "title": "Sales Executive, APAC - Banking & Capital Markets at Chainlink Labs",
+          "description": "Join Chainlink Labs as Sales Executive, APAC - Banking &. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls248.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "b2c21996-1a96-45d4-bf6a-7a19930c6973",
+      "verification": "creating"
     }
   ]
 }
