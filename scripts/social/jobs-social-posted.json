@@ -79700,7 +79700,8 @@
       },
       "account": "channel:growth",
       "attemptId": "7ec15e4b-4293-4dda-9a86-34a078638706",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x6d0dd72cced0567a969d3165dbaa74a4a422cf02"
     }
   ]
 }
