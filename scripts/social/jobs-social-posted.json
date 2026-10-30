@@ -76491,6 +76491,48 @@
       "verification": "verified",
       "postId": "6ae4133f2782e7f331ce6697",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7521779802505183232"
+    },
+    {
+      "slug": "be85",
+      "company": "Sardine",
+      "title": "Senior Software Engineer, Backend - KYC",
+      "platform": "linkedin",
+      "postedAt": "2026-10-30T03:44:32.584Z",
+      "expectedText": "Sardine is hiring Senior Software Engineer, Backend - KYC: https://hashtagweb3.com/be85/li?og=7",
+      "snapshot": {
+        "id": "c9979045-5ce5-471b-9900-f7244da0cb10",
+        "title": "Senior Software Engineer, Backend - KYC",
+        "company": "Sardine",
+        "link": "https://jobs.ashbyhq.com/Sardine/c9979045-5ce5-471b-9900-f7244da0cb10",
+        "date": "2026-10-20T20:42:49.167+00:00",
+        "source": "Ashby: Sardine [Sardine]",
+        "location": "Remote (Canada)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "be85"
+      },
+      "payload": {
+        "text": "Sardine is hiring Senior Software Engineer, Backend - KYC: https://hashtagweb3.com/be85/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/be85/li?og=7",
+          "title": "Senior Software Engineer, Backend - KYC at Sardine",
+          "description": "Join Sardine as Senior Software Engineer, Backend. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/be85.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "59eeec96-d36e-45c1-a57d-1491e5e46591",
+      "verification": "creating"
     }
   ]
 }
