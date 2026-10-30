@@ -79070,8 +79070,9 @@
         "link_attachment": "https://hashtagweb3.com/sec40/th?og=7"
       },
       "attemptId": "fabfc1fe-c266-47c8-a1db-e1fbd47752ab",
-      "verification": "creating",
-      "containerId": "18099269204199925"
+      "verification": "pending",
+      "containerId": "18099269204199925",
+      "postId": "18130560541891623"
     }
   ]
 }
