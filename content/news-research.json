@@ -99335,33 +99335,32 @@
       ],
       "alsoCoveredBy": [],
       "id": "d87a107ce85341dce745",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-28T03:43:47.836Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-31T03:16:33.000Z",
       "lastSeenAt": "2026-10-28T03:43:47.836Z",
-      "reason": "source-blocked",
-      "note": "Reopened Decrypt's independent report on the Amplitude vendor incident affecting Coinbase contact data, plus CoinDesk's earlier coverage. Both cite the Coinbase Support X post, which still serves a JS shell to automated clients. Decrypt and CoinDesk are separate sites, but the underlying statement remains the same X post and Amplitude has not published its own disclosure. Holding for Amplitude's own incident notice or a third outlet with independent confirmation before drafting.",
+      "reason": "verified-event",
+      "note": "Verified Coinbase's Oct. 27 Support statement via Decrypt, Cointelegraph (with spokesperson comment on contact and limited transaction data), and TokenPost's summary of Amplitude's own Oct. 28 update (detected Sept. 28, under 0.3% of customer accounts). Drafted content/articles/amplitude.md with hero public/images/news/amplitude.jpg.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
           "outcome": "read"
         },
         {
-          "url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+          "url": "https://ct.com/news/coinbase-analytics-provider-customer-data",
           "outcome": "read"
         },
         {
-          "url": "https://x.com/CoinbaseSupport/status/2115274731310002356",
-          "outcome": "blocked"
+          "url": "https://www.tokenpost.com/news/technology/44413",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-29T04:23:41.981Z",
+      "reviewedAt": "2026-10-30T11:00:17.395Z",
       "retrySearches": [
         "Find Amplitude's own public incident disclosure or a third independent report on the Coinbase contact-data exposure beyond CoinDesk and Decrypt"
       ],
-      "lastReviewedDay": "2026-10-29",
-      "nextReviewDate": "2026-10-30",
+      "lastReviewedDay": "2026-10-30",
       "articleSlug": "amplitude",
       "draftProgress": {
         "id": "d87a107ce85341dce745",
@@ -197774,6 +197773,27 @@
             }
           ],
           "reviewedAt": "2026-10-30T10:54:41.525Z"
+        },
+        "d87a107ce85341dce745": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Coinbase's Oct. 27 Support statement via Decrypt, Cointelegraph (with spokesperson comment on contact and limited transaction data), and TokenPost's summary of Amplitude's own Oct. 28 update (detected Sept. 28, under 0.3% of customer accounts). Drafted content/articles/amplitude.md with hero public/images/news/amplitude.jpg.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
+              "outcome": "read"
+            },
+            {
+              "url": "https://ct.com/news/coinbase-analytics-provider-customer-data",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/technology/44413",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-30T11:00:17.395Z",
+          "articleSlug": "amplitude"
         }
       },
       "baselineSlugs": [
