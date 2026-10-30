@@ -30,9 +30,6 @@
     "slug": "superreturn-asia",
     "aliases": []
   },
-  "luma-batch-evtKbCYaseYinm3t": {
-    "slug": "exploitsummit26"
-  },
   "luma-batch-evtNzk61xwxYWp0G": {
     "slug": "ds4ej40u",
     "aliases": []
@@ -66,51 +63,6 @@
   "luma-batch-evt9KvD0EYKvt2ZX": {
     "slug": "yxgfedrf"
   },
-  "luma-batch-evtm4tdHBp8HEQNC": {
-    "slug": "4kxvvovj"
-  },
-  "luma-crypto-Ks1XgEhMaGtqKer": {
-    "slug": "cahs"
-  },
-  "luma-batch-mOufXHP89aFrhMJ": {
-    "slug": "dev-day-cafe"
-  },
-  "luma-batch-BoM95fZa8eC0uYw": {
-    "slug": "5vobblhk"
-  },
-  "luma-batch-evtoJA7Ag2jOcOri": {
-    "slug": "kicunlff"
-  },
-  "luma-batch-evtM2gOf28hbEXIM": {
-    "slug": "g5syqv64"
-  },
-  "luma-batch-evteWjz59gjiEYo5": {
-    "slug": "fireblocks-canton-sibos"
-  },
-  "luma-batch-evtDsqpaDwZXmt6b": {
-    "slug": "dfns-ihpw"
-  },
-  "luma-batch-NDlEpPqTzDgYHGq": {
-    "slug": "wprc-nyc-260929-formal-verification-in-cryptograph"
-  },
-  "luma-batch-AbVnI08nHVEPSFb": {
-    "slug": "xfzvs7vy"
-  },
-  "luma-batch-evtHyXIXimgcKPgr": {
-    "slug": "jm02qppl"
-  },
-  "luma-evt-REWXMIhzOXT25u3": {
-    "slug": "sunsets-stablecoins"
-  },
-  "kbw-official-the-capital-forum-canton-network-at-institutional-scale-09-30": {
-    "slug": "capital-forum"
-  },
-  "kbw-official-wiring-korea-to-the-world-the-institutional-case-for-cross-border-digita-09-30": {
-    "slug": "wkw"
-  },
-  "luma-batch-evt8xniVLxM5VY4R": {
-    "slug": "avyrn49z"
-  },
   "kbw-official-solana-summit-korea-09-30": {
     "slug": "ssk",
     "aliases": [
@@ -122,9 +74,6 @@
   },
   "luma-batch-evtyhFDuYEifgjbA": {
     "slug": "stellarloungekorea"
-  },
-  "luma-batch-evtqbmGeuIFJF4wj": {
-    "slug": "0nd1kahu"
   },
   "kbw-official-institutional-privacy-day-09-30": {
     "slug": "ipd"

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-29T19:35:15.053Z",
+  "checkedAt": "2026-10-30T03:40:13.424Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -11,8 +11,8 @@
   },
   "counts": {
     "existing": 239,
-    "excluded": 370,
-    "needs-review": 39
+    "excluded": 366,
+    "needs-review": 43
   },
   "importedTotal": 257,
   "added": [],
@@ -6755,8 +6755,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 429"
     },
     {
       "url": "https://luma.com/9eycszeo",
@@ -6764,8 +6764,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 429"
     },
     {
       "url": "https://luma.com/2ezvuwxk",
@@ -6773,8 +6773,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 429"
     },
     {
       "url": "https://www.sui.io/basecamp",
@@ -6782,8 +6782,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 429"
     },
     {
       "url": "",

@@ -1,105 +1,5 @@
 [
   {
-    "id": "luma-batch-NDlEpPqTzDgYHGq",
-    "slug": "wprc-nyc-260929-formal-verification-in-cryptograph",
-    "name": "Whitepaper Reading Club: Formal Verification in Cryptography",
-    "description": "Formal Verification in Cryptography\n\nYou’ve probably heard plenty about formal verification, autoformalization, and Lean in the context of AI and mathematics. But what might it take for machine-checked proofs to become a routine part of secure cryptographic research? And how much of the work from a paper’s security argument on invariants can we now automate and autoformalize into a verified implementation?\n\nJoin us for a discussion of what formal verification makes possible today. We’ll explore how researchers formalize security arguments, make assumptions explicit, and check that implementations satisfy their specifications. We’ll also discuss where AI is making this work more accessible, what still requires specialist judgment, and what these tools guarantee in practice on circuits, code, and proofs.\n\nPapers:\n\nhttps://eprint.iacr.org/2026/1493.pdf\n\nhttps://github.com/Verified-zkEVM/clean\n\nbetter.codes\n\nSummary of the above\n\nFormat\n\nShort introduction and context setting to start.\n\nA short walkthrough of the paper and its key ideas.\n\nQuestions and discussion grounded in the original source.\n\nModerator-led discussion with no promotions.\n\nSession Guides:\n\nKobi Gurkan is an applied cryptographer at zkSecurity, focusing on zero-knowledge proofs and threshold cryptography. He previously served as Partner and Head of Research at Bain Capital Crypto and founded Geometry Research. His earlier work includes leading cryptography at Celo and conducting research at the Ethereum Foundation.\n\nAbhi Shah works on scalable formal verification and holds a PhD in Computer Science from Columbia. His past program analysis experience includes Google X, Amazon, Bloomberg and MIT Lincoln Laboratory.\n\nAbout Whitepaper Reading Club\n\nWe are a community of founders, researchers, and builders across Singapore, Malaysia, San Francisco, Bangkok, New York, Lagos, Taipei, and Hong Kong. We meet in person every month to read, discuss, and pressure-test the latest blockchain papers, protocols, and technical ideas.\n\nLearn more: Website · Summaries · Calendar\n\nWe create detailed, easy-to-understand summaries for each paper and have held 80+ sessions since June 2023, covering Account Abstraction, Parallel Chains, EIPs, the Bitcoin ecosystem, and AI x Crypto. We are ecosystem-agnostic, not for profit, and focused on projects with technical, product, or social innovation.",
-    "startDate": "2026-09-29T21:00:00.000Z",
-    "endDate": "2026-09-29T23:30:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "Manhattan, New York, New York, United States",
-    "url": "https://luma.com/wprc-nyc-260929-formal-verification-in-cryptograph",
-    "registrationUrl": "https://luma.com/wprc-nyc-260929-formal-verification-in-cryptograph",
-    "coverImage": "/events/luma-batch-NDlEpPqTzDgYHGq-ca0876da.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Whitepaper Reading Club",
-      "Aadharsh Pannirselvam"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "America/New_York",
-    "neighborhood": "Manhattan",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "New York",
-    "addressRegion": "New York",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "Whitepaper Reading Club",
-      "url": "https://luma.com/user/whitepaper"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/wprc-nyc-260929-formal-verification-in-cryptograph",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/wprc-nyc-260929-formal-verification-in-cryptograph",
-      "eventId": "evt-NDlEpPqTzDgYHGq",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-AbVnI08nHVEPSFb",
-    "slug": "xfzvs7vy",
-    "name": "Cocktail Reception at the Harvard Club",
-    "description": "Join Lukka and the Wall Street Blockchain Alliance for an evening of cocktails, conversation, and networking at the Harvard Club of New York City.\n\nConnect with leaders across digital assets, financial services, blockchain, and institutional finance in an intimate setting designed for meaningful conversation and new connections.\n\nWe look forward to bringing together members of our community for a great evening in New York.\n\n## Event details\n\nHosted by Paige Connor (Head of Marketing). The event takes place on September 29. Registration requires organizer approval.",
-    "startDate": "2026-09-29T21:30:00.000Z",
-    "endDate": "2026-09-29T23:30:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "Midtown Manhattan, New York, New York, United States",
-    "url": "https://luma.com/xfzvs7vy",
-    "registrationUrl": "https://luma.com/xfzvs7vy",
-    "coverImage": "/events/luma-batch-AbVnI08nHVEPSFb-0f530689.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Paige Connor"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/New_York",
-    "neighborhood": "Midtown Manhattan",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "New York",
-    "addressRegion": "New York",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "Paige Connor",
-      "url": "https://luma.com/user/paigeconnor"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/xfzvs7vy",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/xfzvs7vy",
-      "eventId": "evt-AbVnI08nHVEPSFb",
-      "fetchedAt": "2026-09-22T11:53:33.000Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T11:00:44.000Z"
-    }
-  },
-  {
     "id": "luma-batch-gzayLEghrE7BFek",
     "slug": "pubkey-h7b7",
     "name": "Bitcoin Self Custody in the Age of AI w/ SeedSigner & HRF | PubKey NYC",
@@ -1016,56 +916,6 @@
     }
   },
   {
-    "id": "luma-batch-mOufXHP89aFrhMJ",
-    "slug": "dev-day-cafe",
-    "name": "Dev Day Cafe",
-    "description": "Join Solana, Circle, MoonPay, and others at Radhaus in Fort Mason on September 29.\n\nWe're hosting an all-day Dev Cafe with coffee, coworking, swag, demos, and a happy hour. There will definitely be some other surprises too.\n\nSchedule\n\n10am: Doors open\n\n10am-11am: Light breakfast available\n\n12pm-2pm: Lunch available\n\n4pm-6pm: Happy hour\n\nSpace is limited. Please register to attend.\n\n## Event details\n\nHosted by Solana Foundation. The event takes place on September 29. Registration requires organizer approval.",
-    "startDate": "2026-09-29T17:00:00.000Z",
-    "endDate": "2026-09-30T01:00:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "Fort Mason, San Francisco, California, United States",
-    "url": "https://luma.com/dev-day-cafe",
-    "registrationUrl": "https://luma.com/dev-day-cafe",
-    "coverImage": "/events/luma-batch-mOufXHP89aFrhMJ-4ea3a9de.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Solana Foundation"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/Los_Angeles",
-    "neighborhood": "Fort Mason",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "San Francisco",
-    "addressRegion": "California",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "Solana Foundation"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/dev-day-cafe",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/dev-day-cafe",
-      "eventId": "evt-mOufXHP89aFrhMJ",
-      "fetchedAt": "2026-09-22T11:53:33.000Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T11:00:44.000Z",
-      "enrichMethod": "organizer-facts"
-    }
-  },
-  {
     "id": "luma-batch-D7DHEvhxQaPwdc1",
     "slug": "0psua4hi",
     "name": "The Future of Finance Summit",
@@ -1245,55 +1095,6 @@
       "apifyRunId": "xaRAFVxiGJ65xirOe",
       "enrichedAt": "2026-09-22T11:00:44.000Z",
       "enrichMethod": "organizer-facts"
-    }
-  },
-  {
-    "id": "luma-batch-BoM95fZa8eC0uYw",
-    "slug": "5vobblhk",
-    "name": "OpenFX, Atomico, Yellowcard | Happy Hour & Dinner",
-    "description": "OpenFX, Atomico and Yellow Card invite you to an evening for the people who actually move the money.\n\nTuesday, 29 September · 6:30–10:00 PMBroadwick Soho, Soho, London\n\nCocktails, canapés and conversation with the founders and operators building cross-border payments and stablecoin infrastructure, the investors backing them, and the treasury and banking teams on the other side of the wire.\n\nA short walk from Oxford Circus, in the middle of Soho.\n\nInvite-only. Please RSVP early. Exact room and address shared once your request is approved.\n\nCo-hosted by OpenFX, Atomico and Yellow Card.\n\n## Hosts\n\nHosted by OpenFX (Liquidity for Institutional FX).",
-    "startDate": "2026-09-29T17:30:00.000Z",
-    "endDate": "2026-09-29T21:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, England, United Kingdom",
-    "url": "https://luma.com/5vobblhk",
-    "registrationUrl": "https://luma.com/5vobblhk",
-    "coverImage": "/events/luma-batch-BoM95fZa8eC0uYw-4b6ef970.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "OpenFX"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/London",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "London",
-    "addressRegion": "England",
-    "addressCountry": "GB",
-    "organizer": {
-      "type": "Organization",
-      "name": "OpenFX",
-      "url": "https://luma.com/user/openfx"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/5vobblhk",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/5vobblhk",
-      "eventId": "evt-BoM95fZa8eC0uYw",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T11:00:44.000Z"
     }
   },
   {
@@ -7503,35 +7304,6 @@
     }
   },
   {
-    "id": "luma-batch-evtm4tdHBp8HEQNC",
-    "slug": "4kxvvovj",
-    "name": "Alpine Tech Forum - Swiss Tokenization Ecosystem Report 2026 Launch",
-    "description": "From Real-World Asset Fragmentation to Liquidity\n\nAs on-chain finance matures, the next competitive edge is no longer simply access to blockchain infrastructure. It is the ability to connect fragmented liquidity, protocols, infrastructure, and asset rails into seamless, investable products and better client experiences.\n\nOn September 29, 2026, during Swiss Fund Day, the Alpine Tech Forum will bring together leading voices from Switzerland’s digital asset ecosystem, on-chain institutions, layer-one protocols, and global builders shaping this convergence.\n\nThe evening will be the official launch of the Swiss Tokenization Ecosystem Report 2026, offering a new perspective on the players, infrastructure, and developments shaping Switzerland’s tokenization landscape.\n\nThe Digital Asset Superstack framework approaches digital assets from the client perspective, spanning access, products, infrastructure, and platforms - offering a blueprint for how the industry can move from fragmentation toward scalable, liquid financial ecosystems.\n\nAgenda\n\n5.45 - 6.00 pm - Doors Opening\n6.00 - 6.15 pm - Launch of Swiss Tokenization Ecosystem Report 2026\nIntroduction and key findings presented by Alexander E. Brunner, the report co-author.\n\n6.15 - 6.45 pm  - Fireside Chat about What Works and What Doesn't Work in Tokenization\nWith Frederik Gregaard, CEO of Cardano Foundation, and Sagar Barvaliya, BFC Capital, exploring the evolution of tokenized assets, digital financial infrastructure, and the path from fragmentation to liquidity.\n\n7.00 - 10.00 pm - Rooftop Champagne Networking & Finger Food\n\nJoin Alpine Tech Forum for an evening of insights, connections, and conversations with the people building the next generation of digital financial infrastructure in Switzerland and beyond.\n\nSecure your spot and join us in Zurich!",
-    "startDate": "2026-09-29T16:00:00.000Z",
-    "endDate": "2026-09-29T20:00:00.000Z",
-    "city": "Zürich",
-    "country": "Switzerland",
-    "location": "Zürich, Zürich, Switzerland",
-    "url": "https://luma.com/4kxvvovj",
-    "registrationUrl": "https://luma.com/4kxvvovj",
-    "coverImage": "/events/luma-batch-evtm4tdHBp8HEQNC-4068daa0.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Alpine Tech Forum 2026"
-    ],
-    "timezone": "Europe/Zurich",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/4kxvvovj",
-      "eventId": "evt-m4tdHBp8HEQNCUs",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evt9KvD0EYKvt2ZX",
     "slug": "yxgfedrf",
     "name": "Israel Fintech Visit to Zurich CV Summit 2026: 29th and 30th Sep",
@@ -7711,36 +7483,6 @@
     }
   },
   {
-    "id": "luma-batch-evt8xniVLxM5VY4R",
-    "slug": "avyrn49z",
-    "name": "The RWA Morning Minute: Stellar x Figure",
-    "description": "Kick off Korea Blockchain Week the right way. Grab a coffee, tea, or something sweet, and connect with the builders shaping the future of onchain finance before the conference floor opens.\n\nJoin the Figure and Stellar teams alongside fellow founders, developers, and investors for a relaxed morning gathering. No panels, no pitches, just good coffee, good company, and the kind of conversations that set the tone for the day.\n\nWhat to Expect\n\nCoffee, tea, matcha, and a spread of pastries and light bites, with something familiar for local guests and international guests alike\n\nMeet the founders, developers, and investors actually building in payments and DeFi\n\nNo panels, no pitches, just real conversation before the week gets loud\n\nA standing, come-and-go format, built for meeting people, not sitting through a program\n\nHosted by: Figure\n\nFigure Technology Solutions, Inc. (NASDAQ: FIGR) is a blockchain native financial technology company founded in 2018 that leverages the Provenance Blockchain to streamline lending, capital markets, and asset tokenization. The company operates as a major non-bank HELOC lender, having processed over $30B in loans on-chain, and is recognized for bringing real-world assets onto the blockchain to enhance efficiency.\n\nCo-Hosted by: Stellar\n\nThe Stellar Development Foundation is a nonprofit organization built to create equitable access to the global financial system through blockchain technology. Stellar enables fast, low-cost payments and settlement, with a mission to make blockchain-based financial infrastructure accessible to everyone, including the unbanked and underbanked.",
-    "startDate": "2026-09-30T00:00:00.000Z",
-    "endDate": "2026-09-30T02:00:00.000Z",
-    "city": "Seoul, South Korea",
-    "country": "South Korea",
-    "location": "Seoul, South Korea, Seoul, South Korea",
-    "url": "https://luma.com/avyrn49z",
-    "registrationUrl": "https://luma.com/avyrn49z",
-    "coverImage": "/events/luma-batch-evt8xniVLxM5VY4R-4aef32c3.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Myosin Events"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Seoul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "conference",
-    "sourceVerification": {
-      "url": "https://luma.com/avyrn49z",
-      "eventId": "evt-8xniVLxM5VY4Rx4",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtyhFDuYEifgjbA",
     "slug": "stellarloungekorea",
     "name": "Stellar Lounge Korea",
@@ -7765,36 +7507,6 @@
     "sourceVerification": {
       "url": "https://luma.com/stellarloungekorea",
       "eventId": "evt-yhFDuYEifgjbAec",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtqbmGeuIFJF4wj",
-    "slug": "0nd1kahu",
-    "name": "Yoga with New Frens",
-    "description": "Start your KBW morning with good energy, easy conversations, and a room full of fresh faces! New Frens is a relaxed meetup for anyone looking to kick off the day with great vibes and enjoy a fun, social break from the rush of the week.\n\nHosted by Sarah and Jihyo—both veteran marketers in crypto—this edition brings something extra special: an exclusive morning session at a private yoga studio near Yeoksam Station, just for our group, guided by a professional yoga instructor.\n\nAfter grounding yourself on the mat, stick around for a light, delicious morning snack spread, hang out with people who truly know the space, and make a few high-quality connections before the rest of your day gets moving.\n\nLocation: Private yoga studio near Yeoksam Station, Seoul\n\nCapacity: Strictly limited to 10 attendees (Intimate group)\n\nTicket: ₩35,000 / $25 (payable in USD, USDT, or USDC)\n\nIncludes: Private Yoga Class + Light Morning Snacks & Drinks\n\nCome reset your mind, grab a bite, and meet your next crypto frens!",
-    "startDate": "2026-09-30T02:00:00.000Z",
-    "endDate": "2026-09-30T03:30:00.000Z",
-    "city": "Seoul, South Korea",
-    "country": "South Korea",
-    "location": "Seoul, South Korea, Seoul, South Korea",
-    "url": "https://luma.com/0nd1kahu",
-    "registrationUrl": "https://luma.com/0nd1kahu",
-    "coverImage": "/events/luma-batch-evtqbmGeuIFJF4wj-61ef92c5.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Seoul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/0nd1kahu",
-      "eventId": "evt-qbmGeuIFJF4wj2Q",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
@@ -8971,36 +8683,6 @@
     }
   },
   {
-    "id": "luma-batch-evtoJA7Ag2jOcOri",
-    "slug": "kicunlff",
-    "name": "PARTY IN THE CLOUDS - 8PM Till Late - HOSTED By SPINLAB STUDIO",
-    "description": "☁️ A PARTY IN THE CLOUDS: Lisbon Crypto Casino Meetup\n\nThat's right! SBC's premier crypto side event is happening — and seats are limited.\n\nSpinlab Studio, the world's leading casino platform provider, is throwing the rooftop party of the year and you're invited.\n\nThis isn't a conference. No panels. No slides. Just the builders, founders, and degens shaping the future of crypto casinos — in one of Lisbon's most legendary rooftop bars.\n\n📍 Mona Verde - R. Castilho 14C 8th Floor, 1250-066 Lisboa, Portugal\n\n📅 Tuesday, 29 Sept 2026 ⏰ 20:00 – 02:00\n\n🍹 Drinks & bites included.\n\n⚠️ CAPACITY IS STRICTLY LIMITED. Approval required to attend. First come, first served on the day — if you're approved, don't be late.\n\nThis is where the real conversations happen. Request your spot before it's gone.",
-    "startDate": "2026-09-29T19:00:00.000Z",
-    "endDate": "2026-09-30T00:00:00.000Z",
-    "city": "Lisboa",
-    "country": "Portugal",
-    "location": "Mona Verde, Mona Verde, R. Castilho 14C 8th Floor, 1250-066 Lisboa, Portugal",
-    "url": "https://luma.com/kicunlff",
-    "registrationUrl": "https://luma.com/kicunlff",
-    "coverImage": "/events/luma-batch-evtoJA7Ag2jOcOri-d63d6c5f.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Lisbon",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "conference",
-    "sourceVerification": {
-      "url": "https://luma.com/kicunlff",
-      "eventId": "evt-oJA7Ag2jOcOrimE",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtiZfgiZ21Navgx",
     "slug": "uuzq0ula",
     "name": "Devs Onsite: Zero to App",
@@ -9091,35 +8773,6 @@
     }
   },
   {
-    "id": "luma-batch-evtKbCYaseYinm3t",
-    "slug": "exploitsummit26",
-    "name": "Exploit Summit 2026",
-    "description": "Bittensor's breakthrough conference is here.\n\nThe forefront of incentivized compute. The frontier of decentralized AI.\n\nJoin leaders from the intersection of machine learning, incentive design, and distributed networks for Exploit Summit, Bittensor's breakthrough conference.\n\nExploit's talks, debates, workshops, and live demos reveal Bittensor's signature concept: game-theoretic competitive design.\n\nAcross two days of debates, demos, and workshops, Exploit gathers the ecosystem and beyond to stress-test ideas, challenge assumptions, and evolve together in public.\n\nAdversarial by design, Bittensor's game-theoretic network has generated a thriving sub-economy of start-ups who are using the network to unlock unreasonable performance.\n\nThere are now over 100 subnet teams leveraging distributed compute and other resources across the board, from code-ready AI agents to quantum, robotics, and drug discovery.\n\nAnd this September in Montreal, we invite you to discover how.",
-    "startDate": "2026-09-28T13:00:00.000Z",
-    "endDate": "2026-09-29T21:00:00.000Z",
-    "city": "Montréal",
-    "country": "Canada",
-    "location": "New City Gas, New City Gas, 950 Rue Ottawa, Montréal, QC H3C 2J9, Canada",
-    "url": "https://luma.com/exploitsummit26",
-    "registrationUrl": "https://luma.com/exploitsummit26",
-    "coverImage": "/events/luma-batch-evtKbCYaseYinm3t-0a804e53.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "timezone": "America/Toronto",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "summit",
-    "sourceVerification": {
-      "url": "https://luma.com/exploitsummit26",
-      "eventId": "evt-KbCYaseYinm3tx4",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evt7c8SYhld2UAo4",
     "slug": "68s6b096",
     "name": "AI・オンチェーン金融サミット",
@@ -9144,36 +8797,6 @@
     "sourceVerification": {
       "url": "https://luma.com/68s6b096",
       "eventId": "evt-7c8SYhld2UAo4RI",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtHyXIXimgcKPgr",
-    "slug": "jm02qppl",
-    "name": "TAO & Tonic: Closing Cocktail",
-    "description": "Renno & Co is hosting the Closing Cocktail for the Exploit Summit\n\nClose out the conference in style. Join the Renno & Co. & our Collective of savvy founders and investors for a private evening at NHAU Bar with signature cocktails and sounds by DJ Just Sky.\n\nNo panels, no pitches. Just a close-knit room of builders, investors, and friends winding down the week and closing the deals that follow.\n\n6–9 PM.\n\nSpace is limited, so RSVP early.\n\nYour first two drinks are on us, with finger foods served all evening.\n\nWant to attend the full conference, learn more here: https://exploitsummit.com/\n\n--\n\nRenno & Co is a North American's boutique emerging tech law firm specializing in decentralized AI, fintech and crypto.\n\nSince 2017, Renno has served 750+ crypto clients, $550M+ in token financings closed, and 70+ Canadian MSBs.\n\nBuilding a subnet or running a validator? Find the Renno team at Exploit or DM us to grab time in Montreal.",
-    "startDate": "2026-09-29T22:00:00.000Z",
-    "endDate": "2026-09-30T01:00:00.000Z",
-    "city": "Montréal",
-    "country": "Canada",
-    "location": "Nhậu bar, Nhậu bar, 600 Rue William, Montréal, QC H2Y 2E5, Canada",
-    "url": "https://luma.com/jm02qppl",
-    "registrationUrl": "https://luma.com/jm02qppl",
-    "coverImage": "/events/luma-batch-evtHyXIXimgcKPgr-a19f96f2.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Renno & Co"
-    ],
-    "price": "Free",
-    "timezone": "America/Toronto",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "summit",
-    "sourceVerification": {
-      "url": "https://luma.com/jm02qppl",
-      "eventId": "evt-HyXIXimgcKPgrLF",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
@@ -9686,36 +9309,6 @@
     }
   },
   {
-    "id": "luma-batch-evtM2gOf28hbEXIM",
-    "slug": "g5syqv64",
-    "name": "Fintech Across Industries: Stablecoins, Health IT, Sustainability & Gaming in Atlanta",
-    "description": "In partnership with Tech Atlanta Advocates, and as an official event during Atlanta FinTech Week, please join us for a conversation on how fintech looks different depending on which industry cluster you're building in.\n\nFrom cross-border stablecoin rails to health IT, sustainability to gaming and esports, four voices will unpack how payments, capital, and infrastructure get reimagined across very different corners of the economy, setting the stage for TAA's official US launch the next morning.\n\nModerated by Grant Wainscott, GM of North America at Ekko, who'll bring his own sustainability-industry lens to the discussion.\n\nPanelists:\n\nJordan Lawrence, CEO & Co-Founder of Damisa — building cross-border stablecoin infrastructure for international payments and trade.\n\nKornelius Bankston, Managing Partner at TECHPLUG — a health IT lens on where fintech and healthcare systems intersect.\n\nTodd Harris, CEO of Resurgens Gaming — fintech inside gaming and esports, including how in-app purchases actually work, drawing on his own background as a fintech co-founder.",
-    "startDate": "2026-09-29T19:00:00.000Z",
-    "endDate": "2026-09-29T21:00:00.000Z",
-    "city": "Atlanta",
-    "country": "United States",
-    "location": "Cox Cleantech Accelerator Powered by gener8tor, Cox Cleantech Accelerator Powered by gener8tor, 675 Ponce De Leon Ave NE #9500, Atlanta, GA 30308, USA",
-    "url": "https://luma.com/g5syqv64",
-    "registrationUrl": "https://luma.com/g5syqv64",
-    "coverImage": "/events/luma-batch-evtM2gOf28hbEXIM-1cd1419f.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "America/New_York",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/g5syqv64",
-      "eventId": "evt-M2gOf28hbEXIM03",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtbEptLaEt5lj5u",
     "slug": "fahm95ov",
     "name": "The Fintech Accord Strategy Lab",
@@ -9925,36 +9518,6 @@
     }
   },
   {
-    "id": "luma-batch-evteWjz59gjiEYo5",
-    "slug": "fireblocks-canton-sibos",
-    "name": "The Convergence Hour @ Sibos",
-    "description": "The Convergence Hour - Where TradFi Meets Digital Assets\n\nFireblocks x Canton\n\nJoin executives from banks, financial institutions, fintechs, payments companies, and digital asset platforms for an early evening celebrating the convergence that's reshaping finance.\n\nCome for drinks and hors d'oeuvres. Stay for candid conversations with the executives building the next era of finance.\n\nThis is an exclusive gathering. Attendance requires approval.\n\n📍 Fireblocks Booth (DISL11) | Sibos Miami\n🕐 Tuesday, Sept 29 | 4–6pm\n\n## Event details\n\nOrganized by Fireblocks. Venue: Miami Beach Convention Center, Miami Beach Convention Center, 1901 Convention Ctr Dr, Miami Beach, FL 33139, USA. Tickets: Free.",
-    "startDate": "2026-09-29T20:00:00.000Z",
-    "endDate": "2026-09-29T22:00:00.000Z",
-    "city": "Miami Beach",
-    "country": "United States",
-    "location": "Miami Beach Convention Center, Miami Beach Convention Center, 1901 Convention Ctr Dr, Miami Beach, FL 33139, USA",
-    "url": "https://luma.com/fireblocks-canton-sibos",
-    "registrationUrl": "https://luma.com/fireblocks-canton-sibos",
-    "coverImage": "/events/luma-batch-evteWjz59gjiEYo5-d3b81358.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Fireblocks"
-    ],
-    "price": "Free",
-    "timezone": "America/New_York",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/fireblocks-canton-sibos",
-      "eventId": "evt-eWjz59gjiEYo5P5",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtf75dF4pPOcL4z",
     "slug": "tribaja-32pw",
     "name": "WRTH MRKT X TRIBAJA Macabre and Mint",
@@ -10009,36 +9572,6 @@
     "sourceVerification": {
       "url": "https://luma.com/mcc3fg5s",
       "eventId": "evt-ahJ7KxjdoBG67Bb",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtDsqpaDwZXmt6b",
-    "slug": "dfns-ihpw",
-    "name": "The DFNS Reception at Sibos",
-    "description": "DFNS invites you to a private reception on the Sibos exhibition floor.\n\nJoin us for an hour of cocktails, canapés, and conversation with senior leaders from banks, market infrastructures, and asset managers, together with the DFNS team. No sales pitch, just well-made drinks and meaningful discussions on how financial institutions should or shouldn't move onchain.\n\nDFNS is the core banking platform for onchain finance, trusted by more than 400 institutions worldwide. If these questions are on your roadmap, we would be glad to welcome you.\n\nAttendance is by invitation, and the guest list is limited. We recommend confirming early.\n\nWhen: Tuesday 29 September, 3:00 to 4:00 PM\nWhere: Sibos Discovery area, DFNS booth DISL64, Miami Beach Convention Center\n\nDFNS is the core banking platform for digital assets. Since 2020, we have helped fintechs and institutions build and operate onchain, with the security and reliability expected of systemically important firms. Our platform brings together everything required to run digital asset operations: wallets and key management, transaction processing, treasury, identity and access, policy and workflow orchestration, compliance integrations, and connectivity across 100+ blockchains.",
-    "startDate": "2026-09-29T20:00:00.000Z",
-    "endDate": "2026-09-29T21:30:00.000Z",
-    "city": "Miami Beach",
-    "country": "United States",
-    "location": "Miami Beach, Florida, United States",
-    "url": "https://luma.com/dfns-ihpw",
-    "registrationUrl": "https://luma.com/dfns-ihpw",
-    "coverImage": "/events/luma-batch-evtDsqpaDwZXmt6b-790f262a.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "DFNS"
-    ],
-    "price": "Free",
-    "timezone": "America/New_York",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/dfns-ihpw",
-      "eventId": "evt-DsqpaDwZXmt6bS3",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

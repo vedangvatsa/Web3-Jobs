@@ -10397,122 +10397,6 @@ DIGITAL AF (하나됨 - "unity")는 현대 미술, 기술, 게임, 그리고 한
   - 주최: Wildcat × Digital AF
   - 서울에서 만나요.
 
-<a id="event-d033d958a75b40ba"></a>
-
-## The Capital Forum: 캔톤 네트워크가 여는 기관 금융과 자본시장
-
-- Record: `kbw-official-the-capital-forum-canton-network-at-institutional-scale-09-30`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-09-30T00:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/g5dczrl8>
-
-### About The Capital Forum
-
-더 캐피털 포럼은 캔톤 네트워크 (https://canton.network) 위에 자본시장을 만들어가는 디지털자산 시장 리더들이 모이는 기관 중심의 비공개 행사입니다.
-
-본 프로그램에서는 캔톤 네트워크 내에서 성장하고 있는 기관 금융 및 토큰화 자산, 대규모 운영에 필요한 시장 인프라와 운영 요건, 그리고 한국 및 글로벌 금융기관에 새롭게 열리는 기회를 살펴봅니다.
-
-VIP 참석 관련 문의: christian@noves.fi
-
-The Capital Forum is a private institutional [gathering of leaders shaping capital markets on Canton](https://canton.network).
-
-The program will examine the growth of institutional finance and tokenized assets on Canton Network, the market infrastructure and operating requirements needed at scale, and the opportunities emerging for Korean and global financial institutions.
-
-Inquiries for VIP access: christian@noves.fi
-
-### Agenda
-
-09:00 - Refreshments
-
-10:00 - Welcome by Canton
-
-10:05 - Tiger Research
-
-10:25 - Panel (TBD)
-
-11:00 - Keynote by IBM
-
-11:10 - Keynote by Noves
-
-11:20 - Discussion and Networking
-
-13:00 - Close
-
-### Presented by
-
-[Canton Foundation](https://canton.foundation/)
-
-The independent, non-profit steward of Canton Network.
-
-[Tiger Research](https://tiger-research.com/)
-
-Independent digital asset research and data company.
-
-[IBM Digital Asset Haven](https://www.ibm.com/products/digital-asset-haven)
-
-Institutional-grade platform for managing digital assets.
-
-[Noves](https://www.noves.fi)
-
-Private data infrastructure for Canton Network.
-
-<a id="event-e7d064daca0ae649"></a>
-
-## SDMS 2026 Q4 : Wiring Korea to the World - The Institutional Case for Cross-Border Digital Assets
-
-- Record: `kbw-official-wiring-korea-to-the-world-the-institutional-case-for-cross-border-digita-09-30`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-09-30T00:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/y2cqlrik>
-
-### Seoul Digital Money Summit 2026 Q4 : Wiring Korea to the World
-
-The Institutional Case for Cross-Border Digital Assets
-
-Wiring Korea to the World is a premier gathering for institutional leaders, journalists, and industry professionals shaping the future of capital markets and global financial networks.
-
-The way money and assets cross borders is undergoing a fundamental transformation. As Deposit Tokens and Real-World Asset (RWA) tokenization transition into core financial infrastructure, this program will examine the market infrastructure and operational requirements needed at scale.
-
-Join us as we explore the seamless connection between global networks and Korea's domestic financial systems, and discuss the emerging opportunities and practical challenges for financial institutions worldwide.
-
-### Event Details
-
-- Date & Time: Wednesday, September 30, 2026 | 09:30 AM - 12:00 PM (KST)
-- Location: Hashed Lounge (20F, K-Square Gangnam 2, Seoul)
-- Hosted by: SOOHO.IO
-
-### Program (Timetable)
-
-- 09:00 - 10:00 |
-  - Registration & Networking (Breakfast provided)
-- 10:00 - 10:15 |
-  - [KEYNOTE] A New Infrastructure Connecting Korean Finance to the Global Financial Network
-    - Jisu Park | CEO, SOOHO.IO
-- 10:20 - 11:00 |
-  - [PANEL 1] The Future of Deposit Token-Based Financial Infrastructure
-    - Theme: To Swift or Not to Swift
-    - Panelists: Partior, KB Securities, NH Investment & Securities, and more
-- 11:10 - 11:50 |
-  - [PANEL 2] RWA Tokenization and the Structural Shift in Capital Markets
-    - Theme: Rewiring the Capital Markets Stack (Tracking actual fund flows on-chain and exploring constraints and opportunities for domestic securities firms)
-    - Panelists: Ondo Finance, Meritz Securities, Tiger Research, and more
-- 12:00 | Closing
-  (※ Detailed programs and speakers are subject to change based on on-site conditions.
-
-### Featuring
-
-Partior, KB Securities, NH Investment & Securities, Ondo Finance, Meritz Securities, Tiger Research and more
-
-### Hosted by SOOHO.IO
-
-([Website: https://www.sooho.io](https://www.sooho.io/))
-
-Founded in 2019, SOOHO.IO is a financial infrastructure company that builds institutional-grade digital asset infrastructure based on its deep expertise in blockchain security. The company's core service, 'SOOHO PartnerHub,' is a distributed ledger-based global payment and settlement platform. It empowers institutions to seamlessly integrate cross-border remittances, foreign exchange (FX), and settlement functions while maintaining bank-grade security.
-
-In addition, SOOHO.IO operates 'Purplace,' a Purpose Bound Money (PBM) platform, and 'Reagent,' a smart contract security management platform, establishing new standards for next-generation payment and settlement technologies.
-
 <a id="event-03a02de8f5a42f38"></a>
 
 ## Solana Summit Korea
@@ -19766,96 +19650,6 @@ The organizer's timeline lists a September 16 kickoff and an October 16 submissi
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
-<a id="event-83d28bf85de52dd6"></a>
-
-## Collaborative Agent Hackathon @ Stanford
-
-- Record: `luma-crypto-Ks1XgEhMaGtqKer`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-29T16:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/flwrlabs-bamu>
-
-### Build open agents that work together
-
-The Collaborative Agent Hackathon is a one-day event for building open-source, collaborative AI agents using Flower.
-
-Agents are changing what is possible, and their greatest potential emerges when they collaborate safely in human-supervised multi-agent teams.
-
-Participants will form teams on the day, develop a working prototype and present it at the end of the event. Each team will explore how open-source collaborative agents of varying complexity can work together safely.
-
-You do not need an existing team or a fully developed idea. Bring your laptop, your interests and a willingness to collaborate.
-
-### The hackathon challenge
-
-Build an open-source agent or multi-agent system using Flower in which the safe collaboration of agent teams is central to the solution.
-
-Projects can range across the full collaborative spectrum. Multiple agents might:
-
-- Automate a task
-- Form self-improving loops with one another
-- Operate across distributed machines and datasets
-
-[Flower](https://flower.ai/) is built together with an open-source community spanning more than 7k users world-wide. Flower simplifies building multi-agent systems, supporting distributed coordination, collaborative learning and inference, and privacy-aware deployment.
-
-Projects from all industries and application areas are welcome - including scientific research, healthcare, finance, education, public services, software development and entirely new forms of human-agent collaboration.
-
-### Team formation
-
-Participants register individually.
-
-Teams of two to four people will be formed during the morning, unless formed earlier. The organisers will help participants find teammates with complementary interests and experience.
-
-Already know your team? Please provide your teammates' names when registering.
-
-Bringing an idea is optional.
-
-Eligibility: Everyone is welcome, including builders from startups and companies, as well as students, researchers, and postdocs from all universities.
-
-### Awards
-
-Awards will be presented at the end of the day to recognise outstanding projects and contributions.
-
-Further details about prizes and the selection process will be shared before the event.
-
-### Schedule
-
-9:30-10:00 - Opening, check-in and breakfast
-
-Meet other participants and share your interests and experience.
-
-10:00-10:15 - Welcome
-
-Introduction to the event, the challenge and the day's practical arrangements.
-
-10:15-10:45 - Collaborative agents with Flower
-
-A technical introduction covering collaborative agent architectures, safe coordination, self-improvement loops and the available Flower resources.
-
-10:45-11:00 - Team formation
-
-Meet potential collaborators and form teams of two to four, unless your team was formed earlier.
-
-11:00-12:45 - Build session
-
-Define the project, design the agent interactions and begin implementation.
-
-12:45-1:30 - Lunch
-
-1:30-5:15 - Build session
-
-Develop and test the system, refine the collaboration or self-improvement loop and prepare the demonstration. Mentors will be available throughout.
-
-5:15-5:30 - Demo preparation
-
-5:30-6:45 - Project demonstrations
-
-Teams present their projects, followed by brief questions.
-
-6:45-7:30 - Dinner, awards and closing remarks
-
-Enjoy dinner as we celebrate the winning projects and bring the hackathon to a close.
-
 <a id="event-03649bfe037d92d3"></a>
 
 ## Claude x Softr: AI Build Day Hackathon
@@ -23309,34 +23103,6 @@ Datas do programa: 28 de setembro a 10 de outubro de 2026
 
 Local: Solana House, São Paulo
 
-<a id="event-2843a0aa00c2b2ae"></a>
-
-## Exploit Summit 2026
-
-- Record: `luma-batch-evtKbCYaseYinm3t`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-28T13:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/exploitsummit26>
-
-### About the event
-
-Bittensor's breakthrough conference is here.
-
-The forefront of incentivized compute. The frontier of decentralized AI.
-
-Join leaders from the intersection of machine learning, incentive design, and distributed networks for Exploit Summit, Bittensor's breakthrough conference.
-
-Exploit's talks, debates, workshops, and live demos reveal Bittensor's signature concept: game-theoretic competitive design.
-
-Across two days of debates, demos, and workshops, Exploit gathers the ecosystem and beyond to stress-test ideas, challenge assumptions, and evolve together in public.
-
-Adversarial by design, Bittensor's game-theoretic network has generated a thriving sub-economy of start-ups who are using the network to unlock unreasonable performance.
-
-There are now over 100 subnet teams leveraging distributed compute and other resources across the board, from code-ready AI agents to quantum, robotics, and drug discovery.
-
-And this September in Montreal, we invite you to discover how.
-
 <a id="event-964797fd0fe64b13"></a>
 
 ## Nethermind at Sibos 2026
@@ -23595,360 +23361,6 @@ Switzerland is one of Europe's most established hubs for fintech, digital assets
 
 Participation is curated and subject to selection.
 
-<a id="event-4e8ef1a3ae98f7fd"></a>
-
-## Alpine Tech Forum - Swiss Tokenization Ecosystem Report 2026 Launch
-
-- Record: `luma-batch-evtm4tdHBp8HEQNC`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-29T16:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/4kxvvovj>
-
-### About the event
-
-From Real-World Asset Fragmentation to Liquidity
-
-As on-chain finance matures, the next competitive edge is no longer simply access to blockchain infrastructure. It is the ability to connect fragmented liquidity, protocols, infrastructure, and asset rails into seamless, investable products and better client experiences.
-
-On September 29, 2026, during Swiss Fund Day, the Alpine Tech Forum will bring together leading voices from Switzerland's digital asset ecosystem, on-chain institutions, layer-one protocols, and global builders shaping this convergence.
-
-The evening will be the official launch of the Swiss Tokenization Ecosystem Report 2026, offering a new perspective on the players, infrastructure, and developments shaping Switzerland's tokenization landscape.
-
-The Digital Asset Superstack framework approaches digital assets from the client perspective, spanning access, products, infrastructure, and platforms - offering a blueprint for how the industry can move from fragmentation toward scalable, liquid financial ecosystems.
-
-### Agenda
-
-5.45 - 6.00 pm - Doors Opening
-
-6.00 - 6.15 pm - Launch of Swiss Tokenization Ecosystem Report 2026
-
-Introduction and key findings presented by Alexander E. Brunner, the report co-author.
-
-6.15 - 6.45 pm - Fireside Chat about What Works and What Doesn't Work in Tokenization
-
-With Frederik Gregaard, CEO of Cardano Foundation, and Sagar Barvaliya, BFC Capital, exploring the evolution of tokenized assets, digital financial infrastructure, and the path from fragmentation to liquidity.
-
-7.00 - 10.00 pm - Rooftop Champagne Networking & Finger Food
-
-Join Alpine Tech Forum for an evening of insights, connections, and conversations with the people building the next generation of digital financial infrastructure in Switzerland and beyond.
-
-Secure your spot and join us in Zurich!
-
-<a id="event-73879504c95178c1"></a>
-
-## Dev Day Cafe
-
-- Record: `luma-batch-mOufXHP89aFrhMJ`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-29T17:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/dev-day-cafe>
-
-### About the event
-
-Join Solana, Circle, MoonPay, and others at Radhaus in Fort Mason on September 29.
-
-We're hosting an all-day Dev Cafe with coffee, coworking, swag, demos, and a happy hour. There will definitely be some other surprises too.
-
-### Schedule
-
-10am: Doors open
-
-10am-11am: Light breakfast available
-
-12pm-2pm: Lunch available
-
-4pm-6pm: Happy hour
-
-Space is limited. Please register to attend.
-
-### Event details
-
-Hosted by Solana Foundation. The event takes place on September 29. Registration requires organizer approval.
-
-<a id="event-03dcb86274ecac29"></a>
-
-## OpenFX, Atomico, Yellowcard \| Happy Hour & Dinner
-
-- Record: `luma-batch-BoM95fZa8eC0uYw`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-29T17:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/5vobblhk>
-
-### About the event
-
-OpenFX, Atomico and Yellow Card invite you to an evening for the people who actually move the money.
-
-Tuesday, 29 September - 6:30-10:00 PMBroadwick Soho, Soho, London
-
-Cocktails, canapés and conversation with the founders and operators building cross-border payments and stablecoin infrastructure, the investors backing them, and the treasury and banking teams on the other side of the wire.
-
-A short walk from Oxford Circus, in the middle of Soho.
-
-Invite-only. Please RSVP early. Exact room and address shared once your request is approved.
-
-Co-hosted by OpenFX, Atomico and Yellow Card.
-
-### Hosts
-
-Hosted by OpenFX (Liquidity for Institutional FX).
-
-<a id="event-0f197eada634eaa6"></a>
-
-## Fintech Across Industries: Stablecoins, Health IT, Sustainability & Gaming in Atlanta
-
-- Record: `luma-batch-evtM2gOf28hbEXIM`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-29T19:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/g5syqv64>
-
-### About the event
-
-In partnership with Tech Atlanta Advocates, and as an official event during Atlanta FinTech Week, please join us for a conversation on how fintech looks different depending on which industry cluster you're building in.
-
-From cross-border stablecoin rails to health IT, sustainability to gaming and esports, four voices will unpack how payments, capital, and infrastructure get reimagined across very different corners of the economy, setting the stage for TAA's official US launch the next morning.
-
-Moderated by Grant Wainscott, GM of North America at Ekko, who'll bring his own sustainability-industry lens to the discussion.
-
-Panelists:
-
-Jordan Lawrence, CEO & Co-Founder of Damisa - building cross-border stablecoin infrastructure for international payments and trade.
-
-Kornelius Bankston, Managing Partner at TECHPLUG - a health IT lens on where fintech and healthcare systems intersect.
-
-Todd Harris, CEO of Resurgens Gaming - fintech inside gaming and esports, including how in-app purchases actually work, drawing on his own background as a fintech co-founder.
-
-<a id="event-a57bd16c8953b305"></a>
-
-## PARTY IN THE CLOUDS - 8PM Till Late - HOSTED By SPINLAB STUDIO
-
-- Record: `luma-batch-evtoJA7Ag2jOcOri`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-29T19:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/kicunlff>
-
-### About the event
-
-A PARTY IN THE CLOUDS: Lisbon Crypto Casino Meetup
-
-That's right! SBC's premier crypto side event is happening - and seats are limited.
-
-Spinlab Studio, the world's leading casino platform provider, is throwing the rooftop party of the year and you're invited.
-
-This isn't a conference. No panels. No slides. Just the builders, founders, and degens shaping the future of crypto casinos - in one of Lisbon's most legendary rooftop bars.
-
-Mona Verde - R. Castilho 14C 8th Floor, 1250-066 Lisboa, Portugal
-
-Tuesday, 29 Sept 2026 20:00 - 02:00
-
-Drinks & bites included.
-
-CAPACITY IS STRICTLY LIMITED. Approval required to attend. First come, first served on the day - if you're approved, don't be late.
-
-This is where the real conversations happen. Request your spot before it's gone.
-
-<a id="event-ba99b2e164a456ef"></a>
-
-## The DFNS Reception at Sibos
-
-- Record: `luma-batch-evtDsqpaDwZXmt6b`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-29T20:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/dfns-ihpw>
-
-### About the event
-
-DFNS invites you to a private reception on the Sibos exhibition floor.
-
-Join us for an hour of cocktails, canapés, and conversation with senior leaders from banks, market infrastructures, and asset managers, together with the DFNS team. No sales pitch, just well-made drinks and meaningful discussions on how financial institutions should or shouldn't move onchain.
-
-DFNS is the core banking platform for onchain finance, trusted by more than 400 institutions worldwide. If these questions are on your roadmap, we would be glad to welcome you.
-
-Attendance is by invitation, and the guest list is limited. We recommend confirming early.
-
-When: Tuesday 29 September, 3:00 to 4:00 PM
-
-Where: Sibos Discovery area, DFNS booth DISL64, Miami Beach Convention Center
-
-DFNS is the core banking platform for digital assets. Since 2020, we have helped fintechs and institutions build and operate onchain, with the security and reliability expected of systemically important firms. Our platform brings together everything required to run digital asset operations: wallets and key management, transaction processing, treasury, identity and access, policy and workflow orchestration, compliance integrations, and connectivity across 100+ blockchains.
-
-<a id="event-3fd5dad32b179653"></a>
-
-## The Convergence Hour @ Sibos
-
-- Record: `luma-batch-evteWjz59gjiEYo5`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-29T20:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/fireblocks-canton-sibos>
-
-### About the event
-
-The Convergence Hour - Where TradFi Meets Digital Assets
-
-Fireblocks x Canton
-
-Join executives from banks, financial institutions, fintechs, payments companies, and digital asset platforms for an early evening celebrating the convergence that's reshaping finance.
-
-Come for drinks and hors d'oeuvres. Stay for candid conversations with the executives building the next era of finance.
-
-This is an exclusive gathering. Attendance requires approval.
-
-Fireblocks Booth (DISL11) | Sibos Miami
-
-Tuesday, Sept 29 | 4-6pm
-
-### Event details
-
-Organized by Fireblocks. Venue: Miami Beach Convention Center, Miami Beach Convention Center, 1901 Convention Ctr Dr, Miami Beach, FL 33139, USA. Tickets: Free.
-
-<a id="event-2305a725d8d8eda6"></a>
-
-## Whitepaper Reading Club: Formal Verification in Cryptography
-
-- Record: `luma-batch-NDlEpPqTzDgYHGq`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-29T21:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/wprc-nyc-260929-formal-verification-in-cryptograph>
-
-### About the event
-
-Formal Verification in Cryptography
-
-You've probably heard plenty about formal verification, autoformalization, and Lean in the context of AI and mathematics. But what might it take for machine-checked proofs to become a routine part of secure cryptographic research? And how much of the work from a paper's security argument on invariants can we now automate and autoformalize into a verified implementation?
-
-Join us for a discussion of what formal verification makes possible today. We'll explore how researchers formalize security arguments, make assumptions explicit, and check that implementations satisfy their specifications. We'll also discuss where AI is making this work more accessible, what still requires specialist judgment, and what these tools guarantee in practice on circuits, code, and proofs.
-
-Papers:
-
-https://eprint.iacr.org/2026/1493.pdf
-
-https://github.com/Verified-zkEVM/clean
-
-better.codes
-
-Summary of the above
-
-### Format
-
-Short introduction and context setting to start.
-
-A short walkthrough of the paper and its key ideas.
-
-Questions and discussion grounded in the original source.
-
-Moderator-led discussion with no promotions.
-
-Session Guides:
-
-Kobi Gurkan is an applied cryptographer at zkSecurity, focusing on zero-knowledge proofs and threshold cryptography. He previously served as Partner and Head of Research at Bain Capital Crypto and founded Geometry Research. His earlier work includes leading cryptography at Celo and conducting research at the Ethereum Foundation.
-
-Abhi Shah works on scalable formal verification and holds a PhD in Computer Science from Columbia. His past program analysis experience includes Google X, Amazon, Bloomberg and MIT Lincoln Laboratory.
-
-### About Whitepaper Reading Club
-
-We are a community of founders, researchers, and builders across Singapore, Malaysia, San Francisco, Bangkok, New York, Lagos, Taipei, and Hong Kong. We meet in person every month to read, discuss, and pressure-test the latest blockchain papers, protocols, and technical ideas.
-
-Learn more: Website - Summaries - Calendar
-
-We create detailed, easy-to-understand summaries for each paper and have held 80+ sessions since June 2023, covering Account Abstraction, Parallel Chains, EIPs, the Bitcoin ecosystem, and AI x Crypto. We are ecosystem-agnostic, not for profit, and focused on projects with technical, product, or social innovation.
-
-<a id="event-6bcacf040375c631"></a>
-
-## Cocktail Reception at the Harvard Club
-
-- Record: `luma-batch-AbVnI08nHVEPSFb`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-29T21:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/xfzvs7vy>
-
-### About the event
-
-Join Lukka and the Wall Street Blockchain Alliance for an evening of cocktails, conversation, and networking at the Harvard Club of New York City.
-
-Connect with leaders across digital assets, financial services, blockchain, and institutional finance in an intimate setting designed for meaningful conversation and new connections.
-
-We look forward to bringing together members of our community for a great evening in New York.
-
-### Event details
-
-Hosted by Paige Connor (Head of Marketing). The event takes place on September 29. Registration requires organizer approval.
-
-<a id="event-e6a57bf9c9d2d5ad"></a>
-
-## TAO & Tonic: Closing Cocktail
-
-- Record: `luma-batch-evtHyXIXimgcKPgr`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-29T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/jm02qppl>
-
-### About the event
-
-Renno & Co is hosting the Closing Cocktail for the Exploit Summit
-
-Close out the conference in style. Join the Renno & Co. & our Collective of savvy founders and investors for a private evening at NHAU Bar with signature cocktails and sounds by DJ Just Sky.
-
-No panels, no pitches. Just a close-knit room of builders, investors, and friends winding down the week and closing the deals that follow.
-
-6-9 PM.
-
-Space is limited, so RSVP early.
-
-Your first two drinks are on us, with finger foods served all evening.
-
-Want to attend the full conference, learn more here: https://exploitsummit.com/
-
---
-
-Renno & Co is a North American's boutique emerging tech law firm specializing in decentralized AI, fintech and crypto.
-
-Since 2017, Renno has served 750+ crypto clients, $550M+ in token financings closed, and 70+ Canadian MSBs.
-
-Building a subnet or running a validator? Find the Renno team at Exploit or DM us to grab time in Montreal.
-
-<a id="event-e2aff387bd86cba9"></a>
-
-## The RWA Morning Minute: Stellar x Figure
-
-- Record: `luma-batch-evt8xniVLxM5VY4R`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-30T00:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/avyrn49z>
-
-### About the event
-
-Kick off Korea Blockchain Week the right way. Grab a coffee, tea, or something sweet, and connect with the builders shaping the future of onchain finance before the conference floor opens.
-
-Join the Figure and Stellar teams alongside fellow founders, developers, and investors for a relaxed morning gathering. No panels, no pitches, just good coffee, good company, and the kind of conversations that set the tone for the day.
-
-### What to Expect
-
-Coffee, tea, matcha, and a spread of pastries and light bites, with something familiar for local guests and international guests alike
-
-Meet the founders, developers, and investors actually building in payments and DeFi
-
-No panels, no pitches, just real conversation before the week gets loud
-
-A standing, come-and-go format, built for meeting people, not sitting through a program
-
-Hosted by: Figure
-
-Figure Technology Solutions, Inc. (NASDAQ: FIGR) is a blockchain native financial technology company founded in 2018 that leverages the Provenance Blockchain to streamline lending, capital markets, and asset tokenization. The company operates as a major non-bank HELOC lender, having processed over $30B in loans on-chain, and is recognized for bringing real-world assets onto the blockchain to enhance efficiency.
-
-Co-Hosted by: Stellar
-
-The Stellar Development Foundation is a nonprofit organization built to create equitable access to the global financial system through blockchain technology. Stellar enables fast, low-cost payments and settlement, with a mission to make blockchain-based financial infrastructure accessible to everyone, including the unbanked and underbanked.
-
 <a id="event-89752ba943f0f36e"></a>
 
 ## What are Quantum computers and why should you care?
@@ -23974,34 +23386,6 @@ Speaker: James Tagg, inventor with over 200 patents, founder of Truphone, and co
 Streaming link: https://www.youtube.com/c/Edgewallet/streams
 
 Hosted by Edge.app & QSAVE, where James and his team are building post-quantum key protection for Bitcoin and other chains.
-
-<a id="event-bce71e5bb066df9c"></a>
-
-## Yoga with New Frens
-
-- Record: `luma-batch-evtqbmGeuIFJF4wj`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-30T02:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/0nd1kahu>
-
-### About the event
-
-Start your KBW morning with good energy, easy conversations, and a room full of fresh faces! New Frens is a relaxed meetup for anyone looking to kick off the day with great vibes and enjoy a fun, social break from the rush of the week.
-
-Hosted by Sarah and Jihyo - both veteran marketers in crypto - this edition brings something extra special: an exclusive morning session at a private yoga studio near Yeoksam Station, just for our group, guided by a professional yoga instructor.
-
-After grounding yourself on the mat, stick around for a light, delicious morning snack spread, hang out with people who truly know the space, and make a few high-quality connections before the rest of your day gets moving.
-
-Location: Private yoga studio near Yeoksam Station, Seoul
-
-Capacity: Strictly limited to 10 attendees (Intimate group)
-
-Ticket: ₩35,000 / $25 (payable in USD, USDT, or USDC)
-
-Includes: Private Yoga Class + Light Morning Snacks & Drinks
-
-Come reset your mind, grab a bite, and meet your next crypto frens!
 
 <a id="event-9c312fafd06470ef"></a>
 
@@ -40486,18 +39870,6 @@ All workshops stream live on Discord, including the kickoff with the Colosseum f
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-13f83f12f67ea221"></a>
-
-## GWDC 2026 Korea
-
-- Record: `w3v-gwdc-korea-26-09-29`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-29T00:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://www.gwdc.net/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-0add12c3cd820df8"></a>
 
 ## DIGITAL AF! • United Art & Tech • Web3 meets culture in Seoul
@@ -40558,127 +39930,6 @@ DIGITAL AF (하나됨 - "unity")는 현대 미술, 기술, 게임, 그리고 한
   - 2026년 9월 29일 → 10월 3일
   - 주최: Wildcat × Digital AF
   - 서울에서 만나요.
-
-<a id="event-711060f0f227d548"></a>
-
-## Dev Day Cafe
-
-- Record: `w3v-dev-day-cafe`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-29T17:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/dev-day-cafe>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-8357026aadc7d74d"></a>
-
-## Smarter, Faster Cell Imaging with the Licorbio Atlas™: Unlocking High-Content 2D & 3D Assays
-
-- Record: `luma-evt-pVn2cQOnWfBs2io`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-29T19:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/26jgjuj1>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-ea4e8c78717422a3"></a>
-
-## Licorbio Atlas Training
-
-- Record: `luma-evt-oNnkG7Gc02yiy4I`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-29T20:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/c2q6js6z>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-e193a3103849474d"></a>
-
-## Want to Learn About Crypto?
-
-- Record: `luma-evt-QoJ1BJyewOpHF9K`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-29T20:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/zxodo3en>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-5bd79e02745054d0"></a>
-
-## Bringing World's Proof of Human to peaq's Robots
-
-- Record: `w3v-bringing-world-s-proof-human-peaq-26-09-30`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-29T20:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/d3k8q1l9>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-41420041c4c8759f"></a>
-
-## Whitepaper Reading Club: Formal Verification in Cryptography
-
-- Record: `luma-evt-NDlEpPqTzDgYHGq`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-29T21:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/wprc-nyc-260929-formal-verification-in-cryptograph>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-6dbc2113e804e5de"></a>
-
-## MoleDAO  BUB. Helen Liu CEO Forum
-
-- Record: `luma-evt-fOIAp5OgFWTnrqB`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-29T22:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/qf6k0lre>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-0e228505cf887024"></a>
-
-## Sunsets & Stablecoins: A zerohash Happy Hour
-
-- Record: `luma-evt-REWXMIhzOXT25u3`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-29T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/4ossewg8>
-- Original page: <https://luma.com/4ossewg8>
-
-### About the event
-
-Join zerohash after SIBOS for cocktails and conversations as the sun sets over the Miami skyline. No agenda just networking with fellow attendees.
-
-Located a quick walk from the Miami Beach Convention Center, Twisted Tonic offers unbeatable views of Miami Beach paired with apothecary-inspired cocktails.
-
-Space is limited so RSVP and secure your spot today.
-
-### Event details
-
-Hosted by zerohash (Where Transactions Move At The Speed Of Ideas.). Venue: The Twisted Tonic - Rooftop Bar, 723 Lincoln Ln N Unit 107, Miami Beach, FL 33139, USA. The event takes place on September 29. Registration requires organizer approval.
-
-Doors open at 6:00 PM local time.
-
-<a id="event-13912f8d7a99d2a4"></a>
-
-## The RWA Morning Minute: Stellar x Figure
-
-- Record: `w3v-rwa-morning-minute-stellar-x-figure-26-09-30`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-30T00:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/avyrn49z>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-1e9255c34e7bb6a5"></a>
 
@@ -60941,6 +60192,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-7666c6523fad4361"></a>
+
+## Día De Muertos-México FC
+
+- Record: `luma-evt-vKvPdE23hzpC7zT`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-31T14:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/m7h7gyfg>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-a558e063e9e5f636"></a>
 
 ## South Side Spanish (Bridgeport)
@@ -61575,6 +60838,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-c29af8859c56d199"></a>
+
+## AI DevCon NYC
+
+- Record: `luma-evt-E5Jx9D0IsF3kqY5`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-02T16:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/aidevcon-nyc2026>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-cca854395589030e"></a>
 
 ## Fireworks: Deploy Buildathon with Microsoft & NVIDIA
@@ -61635,6 +60910,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-b39bc84b97286f62"></a>
+
+## The Future of 24/7 Capital Markets: A Fireside Chat with Alex Davidoff
+
+- Record: `luma-evt-lkhDHFVGWu5I6IY`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-02T19:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/yx149453>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-9a70c5fc9b6f2f66"></a>
 
 ## Stand With Crypto GOTV meet up
@@ -61644,6 +60931,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-02T22:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/z3r4fk0w>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-8b16d35935551290"></a>
+
+## Nov 2nd CRYPTOMONDAYS Wall St + Inception Capital at Clarke & Moore in Chelsea 201 8th Ave (@ 20th St) 5:30 - 7:30
+
+- Record: `luma-evt-Tn2cySjdjlT1AhV`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-02T22:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/CryptoMondaysWallStreetNov2>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-4277bc1b8e3fb648"></a>
+
+## StrongHER — Women's Strength Training
+
+- Record: `luma-evt-DSmVp2B2E7Pwilu`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-02T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/orrtdrhz>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -61680,6 +60991,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-03T02:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/32111cac>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-af44d5cebe03a935"></a>
+
+## From Silicon Valley to Canada: Rethinking Corporate Venture
+
+- Record: `luma-evt-zHPWBSq2AlDl8px`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-03T03:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/n7rhminc>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -61989,6 +61312,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-bdf63a09a67ad969"></a>
+
+## Silicon Valley November Summit 2026
+
+- Record: `luma-evt-oIlsMq7HYZ8DohT`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-03T16:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/pnpsvnovsummit26>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-93383524970d9393"></a>
 
 ## AG UI: Building Agentic Interfaces
@@ -62014,6 +61349,18 @@ An organizer description has not been verified for this record. Any previous cop
 ### About the event
 
 CAT Investigators and Finoverse host short keynotes and a practitioner panel on stalled digital-asset investigations. Topics include fund ownership, attribution, fragmented intelligence and cross-border escalation. Announced panelists represent AlixPartners, CMS, PwC Hong Kong and The Synthetic Outlaw, with Devon J. Euring moderating. Attendance requires registration approval.
+
+<a id="event-8c318e7e3d4daf77"></a>
+
+## Bienvenidos a charla en Español.
+
+- Record: `mu-316987086`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-03T18:30:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/des-moines-spanish-conversation-group/events/316987086/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-f85407c0427c59f5"></a>
 
@@ -62525,6 +61872,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-799ee3470be9319c"></a>
+
+## Cinéma Tricot - Les Aimants
+
+- Record: `luma-evt-a8oHhz61kihCz21`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/gq7x0m20>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-802606c3cbeee11f"></a>
 
 ## bitcoin++ Seoul, Privacy Edition 2026
@@ -62552,6 +61911,18 @@ A Bitcoin developer conference focused on transaction privacy, with talks and wo
 ### About the event
 
 Unchained Summit India takes place at Courtyard by Marriott Mumbai International Airport on November 5 and 6. Day one focuses on markets, finance and digital assets; day two covers Web3 infrastructure and emerging technology. Daily clock times have not been verified.
+
+<a id="event-6d35678af3c56ea0"></a>
+
+## Dinner & Dialogue with Confido Health
+
+- Record: `luma-evt-ISiFhLh4RjteVhD`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T01:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/7k3oyqan>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-fcaabf5ff8529f81"></a>
 
@@ -62802,6 +62173,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-05T22:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/talent-ik5v>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-83d0b1610270b6a3"></a>
+
+## Helicon Fireside Chat
+
+- Record: `luma-evt-9a2F5FdMUs5Ll7h`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-06T01:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/qawasswk>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -63591,6 +62974,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-12T19:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/lo-qqld>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-5ba6ffd8759e5795"></a>
+
+## Launchpad Session (In-Person)
+
+- Record: `luma-evt-UIyklW0CzbnyK7M`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-12T20:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/4gdc1dyd>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -64773,6 +64168,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-23T07:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/x8ilsq7o>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-97a166c19e4ca79b"></a>
+
+## From Kitchen Readiness to Profitable Growth: Building a Stronger Food Business
+
+- Record: `luma-evt-bju5TqHEx1WKePr`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-23T20:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/zcaxtqsh>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

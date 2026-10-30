@@ -354,57 +354,6 @@
     "month": "September 2026"
   },
   {
-    "id": "luma-evt-REWXMIhzOXT25u3",
-    "name": "Sunsets & Stablecoins: A zerohash Happy Hour",
-    "description": "Join zerohash after SIBOS for cocktails and conversations as the sun sets over the Miami skyline. No agenda just networking with fellow attendees.\n\nLocated a quick walk from the Miami Beach Convention Center, Twisted Tonic offers unbeatable views of Miami Beach paired with apothecary-inspired cocktails.\n\nSpace is limited so RSVP and secure your spot today.\n\n## Event details\n\nHosted by zerohash (Where Transactions Move At The Speed Of Ideas.). Venue: The Twisted Tonic - Rooftop Bar, 723 Lincoln Ln N Unit 107, Miami Beach, FL 33139, USA. The event takes place on September 29. Registration requires organizer approval.\n Doors open at 6:00 PM local time.",
-    "startDate": "2026-09-29T22:00:00.000Z",
-    "endDate": "2026-09-30T00:00:00.000Z",
-    "city": "Miami Beach",
-    "country": "United States",
-    "location": "The Twisted Tonic - Rooftop Bar, 723 Lincoln Ln N Unit 107, Miami Beach, FL 33139, USA",
-    "url": "https://lu.ma/4ossewg8",
-    "coverImage": "/events/luma-evt-rewxmihzoxt25u3-b017761d.webp",
-    "source": "luma",
-    "month": "September 2026",
-    "slug": "sunsets-stablecoins",
-    "timezone": "America/New_York",
-    "registrationUrl": "https://luma.com/4ossewg8",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "The Twisted Tonic - Rooftop Bar",
-    "streetAddress": "723 Lincoln Ln N Unit 107, Miami Beach",
-    "addressLocality": "Miami Beach",
-    "addressRegion": "Florida",
-    "addressCountry": "US",
-    "neighborhood": "Lincoln Road",
-    "coordinates": {
-      "latitude": 25.7913908,
-      "longitude": -80.1361068
-    },
-    "hosts": [
-      "zerohash"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/4ossewg8",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/4ossewg8",
-      "eventId": "evt-REWXMIhzOXT25u3",
-      "fetchedAt": "2026-09-22T11:53:33.000Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "w3v-digital-af--exhibition--side-events-space",
     "name": "DIGITAL AF! • United Art & Tech • Web3 meets culture in Seoul",
     "description": "DIGITAL AF 하나됨 — Seoul '26\nSept 29 → Oct 3 · ARC Gangnam, Seoul\n\nDIGITAL AF deliberately brings together communities that do not usually share the same room.\n\nThe program spans blockchain, AI, gaming and emerging technology alongside contemporary art, music and Korean culture.\n\nThe idea is to create an environment where a founder can meet an artist, an investor can discover a gaming project, a developer can find their next collaborator, or an international visitor can connect with a Korean builder outside the usual conference setting.\n\nFor Sponsorship Opportunities : digitalaf.xyz@gmail.com\n\nWhat's On?\n\n- Talks and exhibition area at the intersection of art, gaming & AI\n-  Large-format art installations & live volumetric light work immersive space\n- Live sets, concerts & a closing party that runs late\n\nLanding during Korea Blockchain Week, when Seoul is full of the people building what's next.\n\n📍 ARC, Seoul\n🗓️ Sept 29 → Oct 3, 2026\n\nBy Wildcat × Digital AF\n\nSee you in Seoul.\n------------------------------------------------------------------\n\n하나의 공간. 5일간의 여정. 경계 없는 융합.\n\nDIGITAL AF (하나됨 — \"unity\")는 현대 미술, 기술, 게임, 그리고 한국 문화가 실시간으로 충돌하고 반응하며 서로 영감을 주고받는 독창적인 콘퍼런스 겸 전시 공간입니다.\n\n9m의 층고와 3개의 층으로 연결된 800m² 규모의 옛 철강 공장을 개조한 공간 'ARC'에서 진행되는 DIGITAL AF는 유럽과 한국의 기업, 빌더, 아티스트, 그리고 투자자들이 한자리에 모이는 네트워크의 장입니다.\n\n스폰서십 문의: digitalaf.xyz@gmail.com\n\n주요 프로그램:\n\n• 예술, 게임, AI의 접점을 다루는 토크 세션 및 전시 구역\n• 대형 아트 인스톨레이션 및 라이브 볼류메트릭 라이트 워크 몰입형 공간\n• 라이브 셋, 콘서트, 그리고 늦은 밤까지 이어지는 클로징 파티\n  • 다음 시대를 만들어가는 이들로 서울이 가득 차는 Korea Blockchain Week 기간에 맞춰 개최됩니다.\n  • 📍 서울 ARC\n  • 🗓️ 2026년 9월 29일 → 10월 3일\n  • 주최: Wildcat × Digital AF\n  • 서울에서 만나요.",
@@ -12718,128 +12667,6 @@
     "slug": "cbed2"
   },
   {
-    "id": "w3v-gwdc-korea-26-09-29",
-    "name": "GWDC 2026 Korea",
-    "description": "GWDC 2026 Korea: Web3 developer conference in Seoul with government officials, industry leaders, and 48-hour hackathon.",
-    "startDate": "2026-09-29T00:00:00.000Z",
-    "endDate": "2026-09-30T00:00:00.000Z",
-    "city": "Global",
-    "country": "KR",
-    "location": "Global, KR",
-    "url": "https://www.gwdc.net/",
-    "coverImage": "/events/w3v-gwdc-korea-26-09-29-3643a32d.webp",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-pVn2cQOnWfBs2io",
-    "name": "Smarter, Faster Cell Imaging with the Licorbio Atlas™: Unlocking High-Content 2D & 3D Assays",
-    "description": "",
-    "startDate": "2026-09-29T19:00:00.000Z",
-    "endDate": "2026-09-29T20:00:00.000Z",
-    "city": "San Carlos",
-    "country": "United States",
-    "location": "San Carlos, United States",
-    "url": "https://lu.ma/26jgjuj1",
-    "coverImage": "/events/luma-evt-pvn2cqonwfbs2io-9f9befe8.webp",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-oNnkG7Gc02yiy4I",
-    "name": "Licorbio Atlas Training",
-    "description": "",
-    "startDate": "2026-09-29T20:00:00.000Z",
-    "endDate": "2026-09-30T00:00:00.000Z",
-    "city": "San Carlos",
-    "country": "United States",
-    "location": "San Carlos, United States",
-    "url": "https://lu.ma/c2q6js6z",
-    "coverImage": "/events/luma-evt-onnkg7gc02yiy4i-c536e39e.webp",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-QoJ1BJyewOpHF9K",
-    "name": "Want to Learn About Crypto?",
-    "description": "",
-    "startDate": "2026-09-29T20:00:00.000Z",
-    "endDate": "2026-09-29T22:00:00.000Z",
-    "city": "Miami",
-    "country": "United States",
-    "location": "Miami, United States",
-    "url": "https://lu.ma/zxodo3en",
-    "coverImage": "/events/luma-evt-qoj1bjyewophf9k-0cc86dc7.webp",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
-    "id": "w3v-bringing-world-s-proof-human-peaq-26-09-30",
-    "name": "Bringing World's Proof of Human to peaq's Robots",
-    "description": "Bringing World's Proof of Human to peaq's Robots: Seoul gathering on World ID verification and onchain robotics.",
-    "startDate": "2026-09-29T20:00:00.000Z",
-    "endDate": "2026-09-29T23:00:00.000Z",
-    "city": "Global",
-    "country": "KR",
-    "location": "Global, KR",
-    "url": "https://luma.com/d3k8q1l9",
-    "coverImage": "/events/w3v-bringing-world-s-proof-human-peaq-26-09-30-0040f904.webp",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-NDlEpPqTzDgYHGq",
-    "name": "Whitepaper Reading Club: Formal Verification in Cryptography",
-    "description": "",
-    "startDate": "2026-09-29T21:00:00.000Z",
-    "endDate": "2026-09-29T23:30:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/wprc-nyc-260929-formal-verification-in-cryptograph",
-    "coverImage": "/events/luma-evt-ndleppqtzdgyhgq-287f9ef7.webp",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-fOIAp5OgFWTnrqB",
-    "name": "MoleDAO <> BUB. Helen Liu CEO Forum",
-    "description": "",
-    "startDate": "2026-09-29T22:00:00.000Z",
-    "endDate": "2026-09-29T23:30:00.000Z",
-    "city": "Boston",
-    "country": "United States",
-    "location": "Boston, United States",
-    "url": "https://lu.ma/qf6k0lre",
-    "coverImage": "/events/luma-evt-foiap5ogfwtnrqb-9fb6266e.webp",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
-    "id": "w3v-dev-day-cafe",
-    "name": "Dev Day Cafe",
-    "description": "Dev Day Cafe: a Solana-hosted San Francisco developer gathering on September 29 with coworking, demos, food, swag and happy hour.",
-    "startDate": "2026-09-29T17:00:00.000Z",
-    "endDate": "2026-09-30T01:00:00.000Z",
-    "city": "San Francisco",
-    "country": "US",
-    "location": "San Francisco, US",
-    "url": "https://luma.com/dev-day-cafe",
-    "coverImage": null,
-    "month": "September 2026"
-  },
-  {
-    "id": "w3v-rwa-morning-minute-stellar-x-figure-26-09-30",
-    "name": "The RWA Morning Minute: Stellar x Figure",
-    "description": "The RWA Morning Minute: Stellar x Figure: Morning meetup on onchain finance, payments and DeFi.",
-    "startDate": "2026-09-30T00:00:00.000Z",
-    "endDate": "2026-09-30T02:00:00.000Z",
-    "city": "Global",
-    "country": "KR",
-    "location": "Global, KR",
-    "url": "https://luma.com/avyrn49z",
-    "coverImage": "/events/w3v-rwa-morning-minute-stellar-x-figure-26-09-30-84213fa2.webp",
-    "month": "September 2026"
-  },
-  {
     "id": "luma-host-evt-evt-xf0qHgukzEbjKNO",
     "name": "Solana Summit Korea",
     "description": "",
@@ -17944,26 +17771,26 @@
       "Catherine Porter",
       "Dan Morehead",
       "Faryar Shirzad",
-      "Rebecca Rettig",
       "Matthew Long",
       "Geoffrey Kendrick",
-      "Samantha Bohbot",
-      "Jasmine Jia",
-      "Jason Yanowitz",
-      "Laurie Katz",
       "Stani Kulechov",
       "Lord Holmes of Richmond MBE",
+      "Laurie Katz",
+      "Michele Curtoni",
       "David Mercer",
-      "Katie Harries",
-      "Theo Golden",
-      "Anatoly Crachilov",
-      "Sophia Bantanidis",
-      "Simon Taylor",
-      "Ryan Hayward",
-      "Stephanie Ramezan",
+      "Samantha Bohbot",
       "Francisco Maroto Castro",
-      "Kash Razzaghi",
-      "Alex Seddon"
+      "Katie Harries",
+      "Andrew O'Neill",
+      "Jasmine Jia",
+      "Theo Golden",
+      "Thomas Pikett",
+      "Anatoly Crachilov",
+      "Rebecca Rettig",
+      "Alex Seddon",
+      "Simon Taylor",
+      "Joe Medioli",
+      "Ryan Hayward"
     ]
   },
   {
@@ -18807,7 +18634,7 @@
     "country": "Netherlands",
     "location": "Amsterdam, Netherlands",
     "url": "https://dutchblockchainweek.com/",
-    "coverImage": "/events/ma-dutch-blockchain-week-2027-1ab72e9e.webp",
+    "coverImage": null,
     "source": "marketacross",
     "month": "May 2027",
     "descriptionSource": {
@@ -19198,7 +19025,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://webx-asia.com/",
-    "coverImage": "/events/ma-webx-2027-86bdb833.webp",
+    "coverImage": null,
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -27460,7 +27287,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/btvqwap1",
-    "coverImage": null,
+    "coverImage": "/events/w3v-born-up-breakpoint-london-community-networking-84fe2283.webp",
     "month": "November 2026"
   },
   {
@@ -27473,7 +27300,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/6ung8frj",
-    "coverImage": null,
+    "coverImage": "/events/w3v-vcs-lps-cocktail-hour-breakpoint-london-93ac5f14.webp",
     "month": "November 2026"
   },
   {
@@ -27486,7 +27313,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/cnswgn30",
-    "coverImage": null,
+    "coverImage": "/events/w3v-forward-industries-breakpoint-dinner-c6fb2fca.webp",
     "month": "November 2026"
   },
   {
@@ -27499,7 +27326,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/zkpwmk83",
-    "coverImage": null,
+    "coverImage": "/events/w3v-proof-pour-london-a-private-cocktail-evening-94e740a0.webp",
     "month": "November 2026"
   },
   {
@@ -27512,7 +27339,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/solanaboxing",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solana-fitness-zone-group-boxing-breakpoint-20-a8768aed.webp",
     "month": "November 2026"
   },
   {
@@ -27525,7 +27352,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/ti7vdsai",
-    "coverImage": null,
+    "coverImage": "/events/w3v-fwdi-breakpoint-happy-hour-7d31eb3b.webp",
     "month": "November 2026"
   },
   {
@@ -27538,7 +27365,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/39ckiuiy",
-    "coverImage": null,
+    "coverImage": "/events/w3v-ggc-gmgn-global-championship-london-finals-a8e33695.webp",
     "month": "November 2026"
   },
   {
@@ -27551,7 +27378,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/lajgsnqb",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solana-breakpoint-security-drinks-by-fidesium-81c0fb30.webp",
     "month": "November 2026"
   },
   {
@@ -27564,7 +27391,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/gpxfy249",
-    "coverImage": null,
+    "coverImage": "/events/w3v-sol-calling-solana-breakpoint-happy-hour-1c83cf72.webp",
     "month": "November 2026"
   },
   {
@@ -27577,7 +27404,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/snrmcp50",
-    "coverImage": null,
+    "coverImage": "/events/w3v-beyond-business-an-exclusive-dinner-in-mayfair-e624d328.webp",
     "month": "November 2026"
   },
   {
@@ -27590,7 +27417,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/solanahiits",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solana-fitness-zone-hiit-class-breakpoint-2026-9e5b4832.webp",
     "month": "November 2026"
   },
   {
@@ -27603,7 +27430,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/LondonHappyHour",
-    "coverImage": null,
+    "coverImage": "/events/w3v-london-happy-hour-dbd282ac.webp",
     "month": "November 2026"
   },
   {
@@ -27616,7 +27443,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/n41tqnps",
-    "coverImage": null,
+    "coverImage": "/events/w3v-breakpoint-pub-quiz-c8e56359.webp",
     "month": "November 2026"
   },
   {
@@ -27629,7 +27456,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/e9iw08nn",
-    "coverImage": null,
+    "coverImage": "/events/w3v-no-more-pitches-83ba7a54.webp",
     "month": "November 2026"
   },
   {
@@ -27838,7 +27665,7 @@
     "country": "DE",
     "location": "Munich, DE",
     "url": "https://luma.com/rgk5ab91",
-    "coverImage": null,
+    "coverImage": "/events/w3v-softstack-tum-blockchain-dinner-9-179278608884-f85e92d9.webp",
     "month": "October 2026"
   },
   {
@@ -28145,7 +27972,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261029%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261029T193840Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=c3ae2c8bd568447880f2d85c3a2117fa593ec95ae7eefece0c5f05165ca139e8",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261030%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261030T034608Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=cbc9b98c0ea34058077668564ec02999345af3429b1de17df57436751dc7fb44",
     "month": "November 2026"
   },
   {
@@ -28239,7 +28066,7 @@
     "country": "IT",
     "location": "Bari, IT",
     "url": "https://luma.com/IXH26-xrpl-hackathon",
-    "coverImage": null,
+    "coverImage": "/events/w3v-ixh26-italian-xrpl-hackathon-db972dc1.webp",
     "month": "November 2026"
   },
   {
@@ -28497,7 +28324,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/8zpe32j0",
-    "coverImage": null,
+    "coverImage": "/events/w3v-an-evening-at-the-us-embassy-london-hosted-by--701b6bea.webp",
     "month": "November 2026"
   },
   {
@@ -28510,7 +28337,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/j6gxeshu",
-    "coverImage": null,
+    "coverImage": "/events/w3v-signal-evening-reception-das-london-63f6ffec.webp",
     "month": "November 2026"
   },
   {
@@ -29177,7 +29004,7 @@
     "country": "us",
     "location": "Palo Alto, us",
     "url": "https://www.meetup.com/palo-alto-cryptomondays-meetup/events/316970507/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316970507-7ab55310.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -29261,7 +29088,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/loajg3ik",
-    "coverImage": null,
+    "coverImage": "/events/w3v-build-across-chains-a-solana-builder-briefing--81981407.webp",
     "month": "November 2026"
   },
   {
@@ -29499,10 +29326,7 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/317064975/",
     "coverImage": "/events/mu-317064975-0dc78544.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "luma-evt-1YkeGIX5PJN3Q9d",
@@ -29599,6 +29423,188 @@
     "location": "Palo Alto, United States",
     "url": "https://lu.ma/kjjnwjny",
     "coverImage": "/events/luma-evt-ldkixsyteaqecmq-789b3ece.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-vKvPdE23hzpC7zT",
+    "name": "Día De Muertos-México FC",
+    "description": "",
+    "startDate": "2026-10-31T14:00:00.000Z",
+    "endDate": "2026-10-31T19:00:00.000Z",
+    "city": "Madrid",
+    "country": "Spain",
+    "location": "Madrid, Spain",
+    "url": "https://lu.ma/m7h7gyfg",
+    "coverImage": "/events/luma-evt-vkvpde23hzpc7zt-de3025c5.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-E5Jx9D0IsF3kqY5",
+    "name": "AI DevCon NYC",
+    "description": "",
+    "startDate": "2026-11-02T16:00:00.000Z",
+    "endDate": "2026-11-04T23:00:00.000Z",
+    "city": "Brooklyn",
+    "country": "United States",
+    "location": "Brooklyn, United States",
+    "url": "https://lu.ma/aidevcon-nyc2026",
+    "coverImage": "/events/luma-evt-e5jx9d0isf3kqy5-00c91543.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-lkhDHFVGWu5I6IY",
+    "name": "The Future of 24/7 Capital Markets: A Fireside Chat with Alex Davidoff",
+    "description": "",
+    "startDate": "2026-11-02T19:00:00.000Z",
+    "endDate": "2026-11-02T20:30:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/yx149453",
+    "coverImage": "/events/luma-evt-lkhdhfvgwu5i6iy-8b78b9b5.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-Tn2cySjdjlT1AhV",
+    "name": "Nov 2nd CRYPTOMONDAYS Wall St + Inception Capital at Clarke & Moore in Chelsea 201 8th Ave (@ 20th St) 5:30 - 7:30",
+    "description": "",
+    "startDate": "2026-11-02T22:30:00.000Z",
+    "endDate": "2026-11-03T00:30:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/CryptoMondaysWallStreetNov2",
+    "coverImage": "/events/luma-evt-tn2cysjdjlt1ahv-92846c1f.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-DSmVp2B2E7Pwilu",
+    "name": "StrongHER — Women's Strength Training",
+    "description": "",
+    "startDate": "2026-11-02T23:00:00.000Z",
+    "endDate": "2026-12-03T01:00:00.000Z",
+    "city": "North Brunswick Township",
+    "country": "United States",
+    "location": "North Brunswick Township, United States",
+    "url": "https://lu.ma/orrtdrhz",
+    "coverImage": "/events/luma-evt-dsmvp2b2e7pwilu-912d56ee.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-zHPWBSq2AlDl8px",
+    "name": "From Silicon Valley to Canada: Rethinking Corporate Venture",
+    "description": "",
+    "startDate": "2026-11-03T03:30:00.000Z",
+    "endDate": "2026-11-03T05:30:00.000Z",
+    "city": "Palo Alto",
+    "country": "United States",
+    "location": "Palo Alto, United States",
+    "url": "https://lu.ma/n7rhminc",
+    "coverImage": "/events/luma-evt-zhpwbsq2aldl8px-21573c61.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-oIlsMq7HYZ8DohT",
+    "name": "Silicon Valley November Summit 2026",
+    "description": "",
+    "startDate": "2026-11-03T16:00:00.000Z",
+    "endDate": "2026-11-06T01:00:00.000Z",
+    "city": "Sunnyvale",
+    "country": "United States",
+    "location": "Sunnyvale, United States",
+    "url": "https://lu.ma/pnpsvnovsummit26",
+    "coverImage": "/events/luma-evt-oilsmq7hyz8doht-a7839efe.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-a8oHhz61kihCz21",
+    "name": "Cinéma Tricot - Les Aimants",
+    "description": "",
+    "startDate": "2026-11-04T23:00:00.000Z",
+    "endDate": "2026-11-05T01:00:00.000Z",
+    "city": "Montréal",
+    "country": "Canada",
+    "location": "Montréal, Canada",
+    "url": "https://lu.ma/gq7x0m20",
+    "coverImage": "/events/luma-evt-a8ohhz61kihcz21-273331a5.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-316987086",
+    "name": "Bienvenidos a charla en Español.",
+    "description": "Bienvenidos! Charlamos en Español. Somos buenas gente.",
+    "startDate": "2026-11-03T18:30:00-06:00",
+    "endDate": "2026-11-03T18:30:00-06:00",
+    "city": "West Des Moines",
+    "country": "us",
+    "location": "West Des Moines, us",
+    "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/316987086/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-ISiFhLh4RjteVhD",
+    "name": "Dinner & Dialogue with Confido Health",
+    "description": "",
+    "startDate": "2026-11-05T01:00:00.000Z",
+    "endDate": "2026-11-05T03:00:00.000Z",
+    "city": "Chicago",
+    "country": "United States",
+    "location": "Chicago, United States",
+    "url": "https://lu.ma/7k3oyqan",
+    "coverImage": "/events/luma-evt-isifhlh4rjtevhd-8d92e0cf.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-9a2F5FdMUs5Ll7h",
+    "name": "Helicon Fireside Chat",
+    "description": "",
+    "startDate": "2026-11-06T01:00:00.000Z",
+    "endDate": "2026-11-06T02:00:00.000Z",
+    "city": "Irvine",
+    "country": "United States",
+    "location": "Irvine, United States",
+    "url": "https://lu.ma/qawasswk",
+    "coverImage": "/events/luma-evt-9a2f5fdmus5ll7h-a6c959fc.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-UIyklW0CzbnyK7M",
+    "name": "Launchpad Session (In-Person)",
+    "description": "",
+    "startDate": "2026-11-12T20:00:00.000Z",
+    "endDate": "2026-11-12T21:00:00.000Z",
+    "city": "El Segundo",
+    "country": "United States",
+    "location": "El Segundo, United States",
+    "url": "https://lu.ma/4gdc1dyd",
+    "coverImage": "/events/luma-evt-uiyklw0czbnyk7m-6b909839.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-bju5TqHEx1WKePr",
+    "name": "From Kitchen Readiness to Profitable Growth: Building a Stronger Food Business",
+    "description": "",
+    "startDate": "2026-11-23T20:00:00.000Z",
+    "endDate": "2026-11-23T21:30:00.000Z",
+    "city": "Cambridge",
+    "country": "United States",
+    "location": "Cambridge, United States",
+    "url": "https://lu.ma/zcaxtqsh",
+    "coverImage": "/events/luma-evt-bju5tqhex1wkepr-f66e4463.webp",
     "source": "luma",
     "month": "November 2026"
   }

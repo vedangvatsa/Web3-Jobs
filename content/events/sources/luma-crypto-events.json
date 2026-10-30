@@ -91,63 +91,6 @@
     }
   },
   {
-    "id": "luma-crypto-Ks1XgEhMaGtqKer",
-    "slug": "cahs",
-    "name": "Collaborative Agent Hackathon @ Stanford",
-    "description": "## Build open agents that work together\n\nThe Collaborative Agent Hackathon is a one-day event for building open-source, collaborative AI agents using Flower.\n\nAgents are changing what is possible, and their greatest potential emerges when they collaborate safely in human-supervised multi-agent teams.\n\nParticipants will form teams on the day, develop a working prototype and present it at the end of the event. Each team will explore how open-source collaborative agents of varying complexity can work together safely.\n\nYou do not need an existing team or a fully developed idea. Bring your laptop, your interests and a willingness to collaborate.\n\n## The hackathon challenge\n\n## Build an open-source agent or multi-agent system using Flower in which the safe collaboration of agent teams is central to the solution.\n\nProjects can range across the full collaborative spectrum. Multiple agents might:\n\n• Automate a task\n• Form self-improving loops with one another\n• Operate across distributed machines and datasets\n\n[Flower](https://flower.ai/) is built together with an open-source community spanning more than 7k users world-wide. Flower simplifies building multi-agent systems, supporting distributed coordination, collaborative learning and inference, and privacy-aware deployment.\n\nProjects from all industries and application areas are welcome — including scientific research, healthcare, finance, education, public services, software development and entirely new forms of human-agent collaboration.\n\n## Team formation\n\nParticipants register individually.\n\nTeams of two to four people will be formed during the morning, unless formed earlier. The organisers will help participants find teammates with complementary interests and experience.\n\nAlready know your team? Please provide your teammates’ names when registering.\n\nBringing an idea is optional.\n\nEligibility: Everyone is welcome, including builders from startups and companies, as well as students, researchers, and postdocs from all universities.\n\n## Awards\n\nAwards will be presented at the end of the day to recognise outstanding projects and contributions.\n\nFurther details about prizes and the selection process will be shared before the event.\n\n## Schedule\n\n9:30–10:00 — Opening, check-in and breakfast\nMeet other participants and share your interests and experience.\n\n10:00–10:15 — Welcome\nIntroduction to the event, the challenge and the day’s practical arrangements.\n\n10:15–10:45 — Collaborative agents with Flower\nA technical introduction covering collaborative agent architectures, safe coordination, self-improvement loops and the available Flower resources.\n\n10:45–11:00 — Team formation\nMeet potential collaborators and form teams of two to four, unless your team was formed earlier.\n\n11:00–12:45 — Build session\nDefine the project, design the agent interactions and begin implementation.\n\n12:45–1:30 — Lunch\n\n1:30–5:15 — Build session\nDevelop and test the system, refine the collaboration or self-improvement loop and prepare the demonstration. Mentors will be available throughout.\n\n5:15–5:30 — Demo preparation\n\n5:30–6:45 — Project demonstrations\nTeams present their projects, followed by brief questions.\n\n6:45–7:30 — Dinner, awards and closing remarks\nEnjoy dinner as we celebrate the winning projects and bring the hackathon to a close.",
-    "startDate": "2026-09-29T16:30:00.000Z",
-    "endDate": "2026-09-30T02:30:00.000Z",
-    "city": "Stanford",
-    "country": "United States",
-    "location": "389 Jane Stanford Way, Stanford, CA 94305, USA",
-    "url": "https://luma.com/flwrlabs-bamu",
-    "registrationUrl": "https://luma.com/flwrlabs-bamu",
-    "coverImage": "/events/luma-crypto-ks1xgehmagtqker-08e7b7e8.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Nicolas Heinz",
-      "Nic Lane",
-      "Ruth Galindo",
-      "Pedro Mesa"
-    ],
-    "price": "Free",
-    "timezone": "America/Los_Angeles",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "389 Jane Stanford Way",
-    "streetAddress": "Computing and Data Science (CoDa), 389 Jane Stanford Way, Stanford",
-    "addressLocality": "Stanford",
-    "addressRegion": "California",
-    "addressCountry": "US",
-    "coordinates": {
-      "latitude": 37.429902,
-      "longitude": -122.1716781
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "Flower Labs",
-      "url": "https://flower.ai/"
-    },
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/flwrlabs-bamu",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/flwrlabs-bamu",
-      "eventId": "evt-Ks1XgEhMaGtqKer",
-      "fetchedAt": "2026-09-19T23:46:12.572Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-SIDB65YWRiPF0ZH",
     "slug": "cxs",
     "name": "Claude x Softr: AI Build Day Hackathon",
