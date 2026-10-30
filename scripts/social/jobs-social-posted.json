@@ -75466,7 +75466,8 @@
       },
       "account": "channel:product",
       "attemptId": "f582b939-6367-4384-9092-c9e6b41dc165",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x58a8e8b856714d8a97c72786f6a8da5648746ac3"
     }
   ]
 }
