@@ -5847,5 +5847,121 @@
     "slotKey": "2026-10-30:morning",
     "messageId": 156001,
     "sentAt": "2026-10-30T03:40:28.734Z"
+  },
+  "b9a78f13-892d-4303-96a5-d921868ea158": {
+    "status": "reserved",
+    "reservedAt": "2026-10-30T11:33:11.211Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "4999262101",
+          "title": "[EU] Regulatory Legal Counsel",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4999262101",
+          "date": "2026-10-07T01:58:37-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Vienna, Austria",
+          "department": "Europe",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp13"
+        },
+        "key": "4999262101",
+        "slug": "cmp13",
+        "url": "https://hashtagweb3.com/cmp13?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "[EU] Regulatory Legal Counsel"
+      },
+      {
+        "snapshot": {
+          "id": "8279202",
+          "title": "Specialist Solutions Architecture, Link",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8279202",
+          "date": "2026-10-13T16:34:39-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Remote (US)",
+          "department": "1154 Specialized Solutions Architecture",
+          "active": true,
+          "dateVerified": true,
+          "slug": "arc22"
+        },
+        "key": "8279202",
+        "slug": "arc22",
+        "url": "https://hashtagweb3.com/arc22?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Specialist Solutions Architecture"
+      },
+      {
+        "snapshot": {
+          "id": "8259694",
+          "title": "Senior Technical Recruiter, Infrastructure",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8259694?t=gh_src=&gh_jid=8259694",
+          "date": "2026-10-09T16:13:28-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Chicago, IL; Menlo Park, CA",
+          "department": "Talent Acquisition",
+          "active": true,
+          "salary": "$128k – $150k/yr",
+          "dateVerified": true,
+          "slug": "infra41"
+        },
+        "key": "8259694",
+        "slug": "infra41",
+        "url": "https://hashtagweb3.com/infra41?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Senior Technical Recruiter"
+      },
+      {
+        "snapshot": {
+          "id": "8035255003",
+          "title": "Specialist, Legal Response",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8035255003",
+          "date": "2026-10-16T06:41:18-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Kuala Lumpur, Malaysia",
+          "department": "Global Business Service Center",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp14"
+        },
+        "key": "8035255003",
+        "slug": "cmp14",
+        "url": "https://hashtagweb3.com/cmp14?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Specialist, Legal Response"
+      },
+      {
+        "snapshot": {
+          "id": "5441177008",
+          "title": "People Automations Builder",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5441177008?gh_jid=5441177008",
+          "date": "2026-10-02T10:02:11-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Bay Area, CA, United States of America",
+          "department": "30708 Foundational - People - Operations & Technology",
+          "active": true,
+          "salary": "$142k – $213k/yr",
+          "dateVerified": true,
+          "slug": "pab"
+        },
+        "key": "5441177008",
+        "slug": "pab",
+        "url": "https://hashtagweb3.com/pab?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "People Automations Builder"
+      }
+    ],
+    "message": "- Bybit is hiring <a href=\"https://hashtagweb3.com/cmp13?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">[EU] Regulatory Legal Counsel</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/arc22?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Specialist Solutions Architecture, Link</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/infra41?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Technical Recruiter, Infrastructure</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/cmp14?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Specialist, Legal Response</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/pab?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">People Automations Builder</a>",
+    "slotKey": "2026-10-30:afternoon"
   }
 }
