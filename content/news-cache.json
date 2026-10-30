@@ -1,6 +1,86 @@
 {
-  "generatedAt": "2026-10-29T19:34:31.566Z",
+  "generatedAt": "2026-10-30T03:39:48.714Z",
   "items": [
+    {
+      "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
+      "link": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
+      "pubDate": "Fri, 30 Oct 2026 03:36:11 +0000",
+      "creator": "Nikhilesh De",
+      "contentSnippet": "Security researchers suggested that the hermit kingdom's Lazarus Group was behind Thursday's nearly $6 billion hack of the world's largest crypto exch...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
+      "link": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
+      "pubDate": "Fri, 30 Oct 2026 02:22:31 +0000",
+      "creator": "Timmy Shen",
+      "contentSnippet": "BNB lost 7.1%, while Binance Co-CEO Yi He pledged that the exchange will cover all user losses resulting from the hack.",
+      "source": "The Block"
+    },
+    {
+      "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+      "link": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+      "pubDate": "Fri, 30 Oct 2026 00:17:10 +0000",
+      "creator": "Oliver Knight",
+      "contentSnippet": "Binance’s own reserve data lists the drained wallets as backing customer balances, leaving its ether backing an estimated 6% short until the exchange ...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Binance points to engineer’s hacked laptop in $6.3B breach ",
+      "link": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 30 Oct 2026 00:11:26 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "Binance says attackers may have used a compromised DevOps laptop to access internal infrastructure.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
+      "link": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
+      "pubDate": "Thu, 29 Oct 2026 22:57:48 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
+      "link": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 29 Oct 2026 22:31:07 +0000",
+      "creator": "Andrew Fenton",
+      "contentSnippet": "Singapore police say tampered Ledgers started showing up there on September 10. South Korean lawmakers look set to delay the crypto tax law for a four...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
+      "link": "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171",
+      "pubDate": "Thu, 29 Oct 2026 21:49:16 +0000",
+      "creator": "Jason Shubnell and Yogita Khatri",
+      "contentSnippet": "Tether and Circle froze $1.79 billion in USDT and USDC after billions moved out of Binance hot wallets. Binance says it is investigating.",
+      "source": "The Block"
+    },
+    {
+      "title": "Strategy reports $19.5 billion in Q3 net income as preferred shareholders approve daily dividends",
+      "link": "https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141",
+      "pubDate": "Thu, 29 Oct 2026 20:58:35 +0000",
+      "creator": "Jason Shubnell",
+      "contentSnippet": "Strategy reported $19.53B in Q3 net income on a $20.91B bitcoin gain, holds 848,517 BTC, and moves preferreds to daily dividends.",
+      "source": "The Block"
+    },
+    {
+      "title": "Coinbase Swings to $719 Million Q3 Profit on Crypto Gains",
+      "link": "https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains",
+      "pubDate": "Thu, 29 Oct 2026 20:46:43 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Coinbase reported third-quarter net income of $719 million, driven largely by gains on its crypto holdings, as revenue held flat at $1.22 billion.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Public companies double share of blockchain revenue since 2022: Report ",
+      "link": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 29 Oct 2026 19:53:14 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "A new 1kx report finds that public companies are capturing a larger share of blockchain revenue, driven by institutional adoption and real-world appli...",
+      "source": "Cointelegraph"
+    },
     {
       "title": "Polymarket suspended trading amid reports of user funds being drained",
       "link": "https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -10,7 +90,7 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Polymarket pauses trading after $2.65 million exploit, says third-party provider was compromised",
+      "title": "Polymarket resumes trading after $2.65 million exploit, says third-party provider was compromised",
       "link": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158",
       "pubDate": "Thu, 29 Oct 2026 19:00:06 +0000",
       "creator": "Sarah Wynn",
@@ -24,6 +104,14 @@
       "creator": "Blockchain.News",
       "contentSnippet": "The SEC said BG Wealth Sharing Ltd. and DSJ Exchange Pty Ltd used false filings to bolster confidence in a fraud scheme tied to cryptocurrency trading...",
       "source": "Blockchain.News"
+    },
+    {
+      "title": "Polymarket Pauses Trading as Prediction Market Investigates Security Incident",
+      "link": "https://decrypt.co/382185/polymarket-pauses-trading-prediction-market-security-incident",
+      "pubDate": "Thu, 29 Oct 2026 18:53:44 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Polymarket restricted trading and paused relayer actions as users report funds leaving their accounts. A suspected attacker wallet holds about $2.65 m...",
+      "source": "Decrypt"
     },
     {
       "title": "Celestia introduces Voyager blockchain for agent payments",
@@ -63,14 +151,6 @@
       "pubDate": "Thu, 29 Oct 2026 17:04:19 +0000",
       "creator": "Aoyon Ashraf",
       "contentSnippet": "The billionaire investor disclosed an investment in Trade[XYZ] as the platform teams up with the NYSE's parent company. His family office previously r...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
-      "link": "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets",
-      "pubDate": "Thu, 29 Oct 2026 16:51:18 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "The exchange is closing accounts in both countries after MEXC and Bitget announced similar moves earlier this month.",
       "source": "Coindesk"
     },
     {
@@ -362,14 +442,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "Live updates: Bitcoin gives up gains as Nasdaq slides to session low",
-      "link": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
-      "pubDate": "Thu, 29 Oct 2026 10:41:39 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "Strategy's STRC has hit its highest price since May, and the company could soon be ready to restart large bitcoin purchases.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
       "link": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
       "pubDate": "Thu, 29 Oct 2026 10:04:36 +0000",
@@ -394,22 +466,6 @@
       "source": "Daily Hodl"
     },
     {
-      "title": "Former Swift CEO joins stablecoin firm OpenTrade as chairman ",
-      "link": "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise",
-      "pubDate": "Thu, 29 Oct 2026 09:00:00 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "Lazaro Campos takes the board role as the London-based company reports $300 million in assets locked and more than $1 billion in annual transaction vo...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "The chart bitcoin traders should be paying attention to",
-      "link": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
-      "pubDate": "Thu, 29 Oct 2026 07:44:44 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "A market at an inflection point could shape inflation trends and the prices of risk assets, from bitcoin to tech stocks.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Bitcoin ETFs add $137M, pushing October back into the green",
       "link": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Thu, 29 Oct 2026 07:32:20 +0000",
@@ -418,27 +474,11 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
-      "link": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
-      "pubDate": "Thu, 29 Oct 2026 05:54:39 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "Three flaws a language-model scan dug up are the first disclosed under Core’s new rules for bugs that are easy to find.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
       "link": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Thu, 29 Oct 2026 04:39:49 +0000",
       "creator": "Felix Ng",
       "contentSnippet": "CFTC chair Mike Selig says autonomous AI agents could challenge financial rules built around human traders, and regulators need to adapt.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
-      "link": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 29 Oct 2026 03:16:32 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "Police say at least two cases were reported as early as Sept. 10, nearly a month before the wider incident became public.",
       "source": "Cointelegraph"
     },
     {
@@ -458,28 +498,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down ",
-      "link": "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 28 Oct 2026 21:35:52 +0000",
-      "creator": "Turner Wright",
-      "contentSnippet": "Aiden Pleterski, facing fraud charges in Canada over his alleged role in a digital asset Ponzi scheme, said that he was innocent at closing.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "More Americans Have Tried Crypto, But Few Are Sticking With It: Survey",
       "link": "https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey",
       "pubDate": "Wed, 28 Oct 2026 19:46:03 +0000",
       "creator": "Staff",
       "contentSnippet": "A survey conducted by Ipsos for the DeFi Education Fund found that 22% of Americans have ever owned or used crypto, up from 18%, while past-year use h...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series ",
-      "link": "https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 28 Oct 2026 19:10:40 +0000",
-      "creator": "Turner Wright",
-      "contentSnippet": "The former FTX CEO remains incarcerated as Irish actor Anthony Boyle portrays him in a series about the downfall of the crypto exchange and his relati...",
-      "source": "Cointelegraph"
     },
     {
       "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
@@ -490,36 +514,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Strategy shareholders approve daily dividends for four preferred stocks ",
-      "link": "https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 28 Oct 2026 18:00:54 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "The largest Bitcoin treasury company will begin daily dividend payments on STRC in November, with three other preferred securities following in Januar...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Robinhood earnings miss, crypto weakness fail to shake Wall Street’s bullish outlook",
       "link": "https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011",
       "pubDate": "Wed, 28 Oct 2026 17:06:24 +0000",
       "creator": "Kyle Baird",
       "contentSnippet": "Bernstein sees Robinhood’s crypto business shifting toward infrastructure as new products like prediction markets and perps gain ground.",
       "source": "The Block"
-    },
-    {
-      "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
-      "link": "https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 28 Oct 2026 17:05:42 +0000",
-      "creator": "Turner Wright",
-      "contentSnippet": "The FEC reported an “electronic filing system outage” on Tuesday as groups are expected to ramp up spending before the US midterm elections.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 28 Oct 2026 16:53:26 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings.",
-      "source": "Cointelegraph"
     },
     {
       "title": "Aptos Advisor Leaves Post, Moves Meme-Fueled Campaign to Meta Stock",
@@ -666,35 +666,11 @@
       "source": "The Block"
     },
     {
-      "title": "Circle Pushes Deeper Into Latin America With USDC Settlement in Colombia",
-      "link": "https://decrypt.co/381982/circle-pushes-deeper-latin-america-usdc-settlement-colombia",
-      "pubDate": "Tue, 27 Oct 2026 17:45:18 +0000",
-      "creator": "Agent",
-      "contentSnippet": "A collaboration with payments-tech firm ACI Worldwide will pilot folding USDC settlement into Colombia’s instant-payments network.",
-      "source": "Decrypt"
-    },
-    {
       "title": "Crypto.com and OG.com launch US crypto perps with up to 5x leverage",
       "link": "https://www.theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902",
       "pubDate": "Tue, 27 Oct 2026 17:07:10 +0000",
       "creator": "Kyle Baird",
       "contentSnippet": "The contracts have no expiration date and allow traders to bet on crypto prices rising or falling.",
-      "source": "The Block"
-    },
-    {
-      "title": "SoFi discloses 503,000 crypto products as gross crypto revenue hits $162 million",
-      "link": "https://www.theblock.co/news/markets/2026-10-27-sofi-discloses-503000-crypto-products-as-gross-crypto-revenue-hits-162-million-431897",
-      "pubDate": "Tue, 27 Oct 2026 15:35:32 +0000",
-      "creator": "Jason Shubnell",
-      "contentSnippet": "SoFi broke out crypto products for the first time. Gross crypto revenue rose 20%, while total net revenue hit a record $1.39 billion.",
-      "source": "The Block"
-    },
-    {
-      "title": "Ripple, BNY explore using the XRP Ledger to finance approved invoices",
-      "link": "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891",
-      "pubDate": "Tue, 27 Oct 2026 15:01:12 +0000",
-      "creator": "Brian Danga",
-      "contentSnippet": "BNY adds XRP and RLUSD to its custody platform, as Ripple and C2FO test settling invoice payments on the XRP Ledger.",
       "source": "The Block"
     }
   ]
