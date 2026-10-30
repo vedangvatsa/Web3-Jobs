@@ -2615,5 +2615,36 @@
     "slotKey": "2026-10-30:afternoon",
     "messageId": 156006,
     "sentAt": "2026-10-30T11:34:07.012Z"
+  },
+  "887150d7-72c7-45de-b2d4-a911b81d21f2": {
+    "status": "reserved",
+    "reservedAt": "2026-10-30T19:33:23.254Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Aave increases loan-to-value ratios for Bitcoin and Ether",
+        "summary": "Proposal 536 increased collateral factors for WBTC and cbBTC to 81% after a historical price risk analysis.",
+        "link": "https://hashtagweb3.com/aavebtc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Aave raises Bitcoin and Ether borrowing limits across V3 and V4"
+      },
+      {
+        "index": -1,
+        "headline": "CFTC to Review 24/7 Derivatives Trading at December Roundtable",
+        "summary": "Regulators will examine the feasibility of non-stop trading based on feedback received during the summer comment period.",
+        "link": "https://hashtagweb3.com/cftc247?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC Sets Dec. 15 Roundtable on 24/7 Derivatives Trading"
+      },
+      {
+        "index": -1,
+        "headline": "Binance seeks Brazil license and cuts local product offerings",
+        "summary": "The exchange applied to the central bank while removing eight products and 22 tokens for Brazilian users.",
+        "link": "https://hashtagweb3.com/binancebr?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Binance Files for Brazil License as Product Cuts Take Effect"
+      }
+    ],
+    "slotKey": "2026-10-30:evening"
   }
 }
