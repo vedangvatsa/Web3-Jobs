@@ -5965,5 +5965,123 @@
     "slotKey": "2026-10-30:afternoon",
     "messageId": 156005,
     "sentAt": "2026-10-30T11:33:30.873Z"
+  },
+  "03df90a7-264a-47ce-80a3-b65d40b7669c": {
+    "status": "reserved",
+    "reservedAt": "2026-10-30T19:32:49.184Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8328965",
+          "title": "Professional Services Consultant",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8328965?gh_jid=8328965",
+          "date": "2026-10-28T20:10:17-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "New York, NY, United States",
+          "department": "Service & Delivery",
+          "active": true,
+          "salary": "$112k – $130k/yr",
+          "dateVerified": true,
+          "slug": "psc6"
+        },
+        "key": "8328965",
+        "slug": "psc6",
+        "url": "https://hashtagweb3.com/psc6?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Professional Services Consultant"
+      },
+      {
+        "snapshot": {
+          "id": "8241288",
+          "title": "Security GRC Program Manager, Third Party Risk",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8241288",
+          "date": "2026-10-06T06:58:35-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "US - Hybrid",
+          "department": "8614 Office of the CISO & Partnership",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec89"
+        },
+        "key": "8241288",
+        "slug": "sec89",
+        "url": "https://hashtagweb3.com/sec89?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Security GRC Program Manager"
+      },
+      {
+        "snapshot": {
+          "id": "5464915008",
+          "title": "Treasury Manager",
+          "company": "Mesh",
+          "link": "https://job-boards.greenhouse.io/mesh/jobs/5464915008",
+          "date": "2026-10-27T13:25:27-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Mesh [mesh]",
+          "location": "United States - Remote",
+          "department": "Finance",
+          "active": true,
+          "salary": "$170k – $210k/yr",
+          "dateVerified": true,
+          "slug": "mgr209"
+        },
+        "key": "5464915008",
+        "slug": "mgr209",
+        "url": "https://hashtagweb3.com/mgr209?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Mesh",
+        "title": "Treasury Manager"
+      },
+      {
+        "snapshot": {
+          "id": "2037b1cc-6b4e-46f1-8cbe-b5359e4af734",
+          "title": "Post Sales Recruiter",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/2037b1cc-6b4e-46f1-8cbe-b5359e4af734",
+          "date": "2026-10-22T18:55:30.068+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "G&A",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rec45"
+        },
+        "key": "2037b1cc-6b4e-46f1-8cbe-b5359e4af734",
+        "slug": "rec45",
+        "url": "https://hashtagweb3.com/rec45?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Post Sales Recruiter"
+      },
+      {
+        "snapshot": {
+          "id": "bac2dbe4-d4c7-4313-be40-1289ebca4a1e",
+          "title": "Risk Manager - Centralized Exchange",
+          "company": "Sei Labs",
+          "link": "https://jobs.ashbyhq.com/sei-labs/bac2dbe4-d4c7-4313-be40-1289ebca4a1e",
+          "date": "2026-10-13T16:32:36.594+00:00",
+          "source": "Ashby: Sei Labs [sei-labs]",
+          "location": "Remote (New York City)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Incubations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr182"
+        },
+        "key": "bac2dbe4-d4c7-4313-be40-1289ebca4a1e",
+        "slug": "mgr182",
+        "url": "https://hashtagweb3.com/mgr182?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sei Labs",
+        "title": "Risk Manager"
+      }
+    ],
+    "message": "- Ripple is hiring <a href=\"https://hashtagweb3.com/psc6?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Professional Services Consultant</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sec89?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Security GRC Program Manager, Third Party Risk</a>\n- Mesh is hiring <a href=\"https://hashtagweb3.com/mgr209?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Treasury Manager</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/rec45?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Post Sales Recruiter</a>\n- Sei Labs is hiring <a href=\"https://hashtagweb3.com/mgr182?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Risk Manager - Centralized Exchange</a>",
+    "slotKey": "2026-10-30:evening"
   }
 }
