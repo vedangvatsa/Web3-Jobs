@@ -3918,5 +3918,51 @@
     "slotKey": "2026-10-29:evening",
     "messageId": 155985,
     "sentAt": "2026-10-29T19:35:11.520Z"
+  },
+  "4175282a-d292-45eb-b8fa-58b658bfa203": {
+    "status": "reserved",
+    "reservedAt": "2026-10-30T03:40:02.857Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "w3v-bluechip26-crypto-safety-conference-26-11-10",
+        "slug": "bluechip26-crypto-safety-conference",
+        "name": "Bluechip26: The Crypto Safety Conference",
+        "startDate": "2026-11-10",
+        "keys": [
+          "w3v-bluechip26-crypto-safety-conference-26-11-10",
+          "page:bluechip26-crypto-safety-conference:2026-11-10",
+          "event:bluechip26thecryptosafetyconference:2026-11-10:vienna"
+        ]
+      },
+      {
+        "id": "discovery-evt-BqdpbfI1RojW350",
+        "slug": "crypto-mondays-culver-city-la-meetup",
+        "name": "Crypto Mondays Culver City LA Meetup",
+        "startDate": "2026-11-10T01:00:00.000Z",
+        "keys": [
+          "discovery-evt-bqdpbfi1rojw350",
+          "page:crypto-mondays-culver-city-la-meetup:2026-11-09",
+          "luma:evt-bqdpbfi1rojw350",
+          "luma-url:/oany4azd",
+          "event:cryptomondaysculvercitylameetup:2026-11-09:culver city"
+        ]
+      },
+      {
+        "id": "premier-bigwhale",
+        "slug": "big-whale-geneva-summit",
+        "name": "The Big Whale Geneva Summit 2026",
+        "startDate": "2026-11-12",
+        "keys": [
+          "premier-bigwhale",
+          "the1",
+          "page:big-whale-geneva-summit:2026-11-12",
+          "url:thebigwhale.io/summit:2026-11-12",
+          "event:thebigwhalegenevasummit2026:2026-11-12:geneva"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-30:morning"
   }
 }
