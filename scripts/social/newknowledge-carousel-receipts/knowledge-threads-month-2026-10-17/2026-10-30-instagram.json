@@ -146,5 +146,11 @@
   "claimId": "9595be09-da48-4fc4-a8ce-249e629d5976",
   "startedAt": "2026-10-30T11:32:13.152Z",
   "status": "claimed",
-  "children": {}
+  "children": {
+    "0": {
+      "createClaim": "699103ff-70b2-4c71-be45-15cd7393b42a",
+      "startedAt": "2026-10-30T11:32:15.572Z",
+      "status": "claimed"
+    }
+  }
 }
