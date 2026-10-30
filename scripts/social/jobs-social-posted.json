@@ -79210,7 +79210,8 @@
       },
       "account": "channel:web3",
       "attemptId": "9a63af7f-3af6-4570-98aa-62a82e683353",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8a93c859dd983b9343cdbcb73d24a0154f221b64"
     }
   ]
 }
