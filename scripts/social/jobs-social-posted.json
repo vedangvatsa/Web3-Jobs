@@ -77797,7 +77797,8 @@
       },
       "account": "channel:build",
       "attemptId": "1d434ed3-4925-44a1-80fc-505ce5caf68a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0ae43aa809774bf14e6c0f6f831ef880a7a16eac"
     }
   ]
 }
