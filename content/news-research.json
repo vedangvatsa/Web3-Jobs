@@ -104281,7 +104281,27 @@
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
       "attempts": 0,
       "expiresAt": "2026-10-31T19:01:53.000Z",
-      "lastSeenAt": "2026-10-29T03:34:54.128Z"
+      "lastSeenAt": "2026-10-29T03:34:54.128Z",
+      "articleSlug": "selig",
+      "draftProgress": {
+        "id": "688b99307c9c2e3b079e",
+        "day": "2026-10-30",
+        "articleSlug": "selig",
+        "note": "Read CFTC Chairman Selig's Frontier Forum remarks on cftc.gov. CoinDesk returns 429. Downloaded nextpredict.io report of the forum; reading now.",
+        "sourceChecks": [
+          {
+            "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/opaselig14",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-10-30T10:57:08.898Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "2426eedf8f085831572b": {
       "source": "The Defiant",
