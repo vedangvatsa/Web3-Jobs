@@ -99677,18 +99677,22 @@
         "id": "1b466b2ecd15e5bdd185",
         "day": "2026-10-30",
         "articleSlug": "ripio",
-        "note": "Crypto Briefing re-read; Ripio's own Oct. 27 primary announcement read in full (Spanish): filing with BCB for virtual asset broker authorization plus forex authorization, CEO Serrano quote, CNPJ 23.351.302/0001-00 under review. Exame needs recompress fetch. Draft not started.",
+        "note": "Read Ripio primary announcement, Crypto Briefing, and Exame in full: BCB filing Oct. 27 for virtual asset broker plus forex authorization; Oct. 30 deadline; CEO Serrano quote. Draft not started.",
         "sourceChecks": [
           {
             "url": "https://cryptobriefing.com/ripio-applies-crypto-broker-license-brazil/",
             "outcome": "read"
           },
           {
-            "url": "https://launchpad.ripio.com/novedades/ripio-protocola-no-banco-central-do-brasil",
+            "url": "https://launchpad.ripio.com/novedades/ripio-protocola-no-banco-central-do-brasil/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://exame.com/future-of-money/corretora-de-criptomoedas-ripio-protocola-pedido-de-licenca-no-bc/",
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-10-30T10:57:41.666Z",
+        "updatedAt": "2026-10-30T10:59:31.146Z",
         "approved": false,
         "mustReview": true
       }
