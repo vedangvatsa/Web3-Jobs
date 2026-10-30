@@ -2747,5 +2747,36 @@
     "slotKey": "2026-10-30:afternoon",
     "messageId": 65790,
     "sentAt": "2026-10-30T11:36:30.640Z"
+  },
+  "5d354606-13ca-4455-8519-afde2bc9f63a": {
+    "status": "reserved",
+    "reservedAt": "2026-10-30T19:33:29.222Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "CFTC to Host Roundtable on 24/7 Derivatives Trading",
+        "summary": "Regulators will evaluate the possibility of constant market operations during a public meeting in December.",
+        "link": "https://hashtagweb3.com/cftc247?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC Sets Dec. 15 Roundtable on 24/7 Derivatives Trading"
+      },
+      {
+        "index": -1,
+        "headline": "Solflare Staking Provider Security Issue Pauses Validator Rewards",
+        "summary": "A security incident at Solflare's staking provider halted rewards for 1.56 million SOL, though user principal remains safe.",
+        "link": "https://hashtagweb3.com/solflareincident?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Solflare Says Staking Provider Key Incident Stopped Validator Rewards"
+      },
+      {
+        "index": -1,
+        "headline": "VanEck Launches Wealth Builder ETF With Bitcoin Exposure",
+        "summary": "The new NYSE-listed fund includes a 2% bitcoin allocation alongside stocks, bonds, and gold.",
+        "link": "https://hashtagweb3.com/vaneckbuilder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "VanEck Lists Wealth Builder ETF With Bitcoin Exposure"
+      }
+    ],
+    "slotKey": "2026-10-30:evening"
   }
 }
