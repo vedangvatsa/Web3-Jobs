@@ -75293,6 +75293,40 @@
       "attemptId": "fb64e73c-92f5-465a-b694-a7bb39eafd5e",
       "verification": "verified",
       "postId": "0xd6c3bc17d25fc9d3266e919ac1bc389e8f282464"
+    },
+    {
+      "slug": "sls248",
+      "company": "Chainlink Labs",
+      "title": "Sales Executive, APAC - Banking & Capital Markets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-30T03:40:32.439Z",
+      "expectedText": "Chainlink Labs is hiring Sales Executive, APAC - Banking & Capital Markets\n\nhttps://hashtagweb3.com/sls248/fc?og=7",
+      "snapshot": {
+        "id": "1c718a25-79c6-4dce-8f71-350eda862cef",
+        "title": "Sales Executive, APAC - Banking & Capital Markets",
+        "company": "Chainlink Labs",
+        "link": "https://jobs.ashbyhq.com/chainlink-labs/1c718a25-79c6-4dce-8f71-350eda862cef",
+        "date": "2026-10-21",
+        "dateVerified": true,
+        "source": "Ashby: Chainlink Labs [chainlink-labs]",
+        "location": "Remote (Hong Kong)",
+        "workplaceType": "Remote",
+        "department": "Capital Markets",
+        "active": true,
+        "slug": "sls248"
+      },
+      "payload": {
+        "text": "Chainlink Labs is hiring Sales Executive, APAC - Banking & Capital Markets\n\nhttps://hashtagweb3.com/sls248/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls248/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "a2127462-f917-4f27-bdc3-d4901e054353",
+      "verification": "creating"
     }
   ]
 }
