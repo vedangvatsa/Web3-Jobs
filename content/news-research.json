@@ -99439,7 +99439,27 @@
         "Find a second independent readable report on the Solflare staking provider security incident of Oct. 27 2026, ideally with the staked SOL figure and Solflare's compensation plan, beyond Crypto Briefing and Unchained"
       ],
       "lastReviewedDay": "2026-10-29",
-      "nextReviewDate": "2026-10-30"
+      "nextReviewDate": "2026-10-30",
+      "articleSlug": "solflare",
+      "draftProgress": {
+        "id": "f73a1c7235e439f04dff",
+        "day": "2026-10-30",
+        "articleSlug": "solflare",
+        "note": "Re-read Crypto Briefing in full today; it rests on Solflare's own Oct. 27 statements and notes major outlets had not yet covered the incident. Unchained's report via Yahoo Finance (read yesterday, with the Stakewiz ~1.56M SOL delegated figure) still needs re-verification before drafting; Solflare's X announcement remains a JS shell. Two readable outlets exist but the draft is not started.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptobriefing.com/solflare-staking-provider-security-incident-rewards/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://finance.yahoo.com/markets/crypto/articles/solana-wallet-solflare-plans-validator-145600477.html",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-30T10:50:30.276Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "8bf9fd870e2f7b2b906a": {
       "source": "Unchained",
