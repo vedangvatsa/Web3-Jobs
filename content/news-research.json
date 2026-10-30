@@ -104181,11 +104181,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "0185615f26e643c52e9f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-31T19:14:19.000Z",
-      "lastSeenAt": "2026-10-29T03:34:54.128Z"
+      "lastSeenAt": "2026-10-29T03:34:54.128Z",
+      "reason": "verified-event",
+      "note": "Verified governance proposal 536 execution via the LlamaRisk ARFC on the Aave governance forum (primary) and a Defiant report carried by KuCoin with the implemented LTV/LT pairs, execution time, and liquidation-cushion calculations. Both sites opened and read; all outbound links returned HTTP 200; quality, formatting, image and duplicate audits show no failures for aavebtc.md.",
+      "sourceChecks": [
+        {
+          "url": "https://governance.aave.com/t/arfc-revision-of-eth-btc-collateral-efficiency-on-aave/25649",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.kucoin.com/news/flash/aave-raises-bitcoin-and-ether-collateral-borrowing-limits-on-v3-and-v4",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-30T10:49:53.987Z",
+      "articleSlug": "aavebtc",
+      "lastReviewedDay": "2026-10-30"
     },
     "688b99307c9c2e3b079e": {
       "source": "CoinDesk",
@@ -197527,6 +197542,23 @@
           ],
           "reviewedAt": "2026-10-30T10:45:43.383Z",
           "duplicateOf": "cftcprobe"
+        },
+        "0185615f26e643c52e9f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified governance proposal 536 execution via the LlamaRisk ARFC on the Aave governance forum (primary) and a Defiant report carried by KuCoin with the implemented LTV/LT pairs, execution time, and liquidation-cushion calculations. Both sites opened and read; all outbound links returned HTTP 200; quality, formatting, image and duplicate audits show no failures for aavebtc.md.",
+          "sourceChecks": [
+            {
+              "url": "https://governance.aave.com/t/arfc-revision-of-eth-btc-collateral-efficiency-on-aave/25649",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.kucoin.com/news/flash/aave-raises-bitcoin-and-ether-collateral-borrowing-limits-on-v3-and-v4",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-30T10:49:53.987Z",
+          "articleSlug": "aavebtc"
         }
       },
       "baselineSlugs": [
