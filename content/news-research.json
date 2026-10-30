@@ -104386,7 +104386,7 @@
         "id": "ababcf9f363ddbe2a345",
         "day": "2026-10-30",
         "articleSlug": "robinhoodchain",
-        "note": "Read Altcoin Buzz and TokenPost in full: Oct. 28 addition of JPM, V, PYPL, BMNR, MCD, DIS, UBER, GDX tokens; mainnet July 1 2026 per TokenPost. Two independent readable sites now. Draft not started.",
+        "note": "Read Altcoin Buzz and TokenPost in full: Oct. 28 addition of JPM, V, PYPL, BMNR, MCD, DIS, UBER, GDX; mainnet July 1 2026 per TokenPost; Altcoin Buzz reports 19M RWA figure as reported figures. Two independent readable sites. Draft not started before deadline.",
         "sourceChecks": [
           {
             "url": "https://www.altcoinbuzz.io/robinhood-chain-adds-eight-tokenized-stocks",
@@ -104397,7 +104397,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-10-30T10:58:21.775Z",
+        "updatedAt": "2026-10-30T11:03:45.457Z",
         "approved": false,
         "mustReview": true
       }
