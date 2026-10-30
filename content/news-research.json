@@ -104291,10 +104291,14 @@
         "id": "688b99307c9c2e3b079e",
         "day": "2026-10-30",
         "articleSlug": "selig",
-        "note": "Read CFTC Chairman Selig's Frontier Forum remarks on cftc.gov. CoinDesk returns 429. Downloaded nextpredict.io report of the forum; reading now.",
+        "note": "Read CFTC Chairman Selig's Oct. 28 Frontier Forum remarks and nextpredict's report of the forum panels. CoinDesk 429. Two independent readable sites (cftc.gov primary + nextpredict). Draft not started.",
         "sourceChecks": [
           {
             "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/opaselig14",
+            "outcome": "read"
+          },
+          {
+            "url": "https://nextpredict.io/market-news/legal/cftc-forum-ai-trading-questions-prediction-markets/",
             "outcome": "read"
           },
           {
@@ -104302,7 +104306,7 @@
             "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-10-30T10:57:08.898Z",
+        "updatedAt": "2026-10-30T10:57:57.794Z",
         "approved": false,
         "mustReview": true
       }
@@ -104371,14 +104375,18 @@
         "id": "ababcf9f363ddbe2a345",
         "day": "2026-10-30",
         "articleSlug": "robinhoodchain",
-        "note": "Altcoin Buzz re-read today; TokenPost and ChainCatcher found as second outlets, opening now. Defiant still 403. Draft not started.",
+        "note": "Read Altcoin Buzz and TokenPost in full: Oct. 28 addition of JPM, V, PYPL, BMNR, MCD, DIS, UBER, GDX tokens; mainnet July 1 2026 per TokenPost. Two independent readable sites now. Draft not started.",
         "sourceChecks": [
           {
             "url": "https://www.altcoinbuzz.io/robinhood-chain-adds-eight-tokenized-stocks",
             "outcome": "read"
+          },
+          {
+            "url": "https://www.tokenpost.com/news/business/42942",
+            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-10-30T10:56:22.852Z",
+        "updatedAt": "2026-10-30T10:57:53.718Z",
         "approved": false,
         "mustReview": true
       }
