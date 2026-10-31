@@ -845,6 +845,9 @@
   "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
   "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
   "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+  "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+  "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+  "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2317,6 +2320,12 @@
   "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
   "Dartmouth provost resigns over undisclosed use of AI tools",
   "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+  "OpenAI lowers funding target for latest capital round",
+  "OpenAI reportedly lowers funding target for new round",
+  "Apple updates operating systems with Siri artificial intelligence controls",
+  "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+  "Investors question heavy tech spending on AI infrastructure",
+  "Cracks are emerging in the AI spending boom",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2679,5 +2688,8 @@
   "fp:12b|caus|chipmaker|component|cost|crash|declin|demand|government|intel",
   "fp:agent|bryan|costum|entrepreneur|halloween|icon|idea|includ|johnson|last",
   "fp:access|account|anthropic|are|backdoor|cod|compromis|cursor|determin|developer",
-  "fp:becaus|cheat|cost|dartmouth|draft|him|his|job|messag|own"
+  "fp:becaus|cheat|cost|dartmouth|draft|him|his|job|messag|own",
+  "fp:amount|capital|dollar|dur|fund|global|investor|lower|major|negotiation",
+  "fp:access|allow|appl|application|control|desktop|featur|logo|macos272|mobil",
+  "fp:are|boom|cash|caus|crack|debt|doubt|emerg|financial|flow"
 ]

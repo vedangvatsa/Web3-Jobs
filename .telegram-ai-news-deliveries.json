@@ -2749,7 +2749,7 @@
     "sentAt": "2026-10-31T11:35:42.190Z"
   },
   "a4df48e1-8052-4faf-9b6c-293fb2388727": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-31T19:34:04.519Z",
     "stories": [
       {
@@ -2781,6 +2781,8 @@
         "originalTitle": "Cracks are emerging in the AI spending boom"
       }
     ],
-    "slotKey": "2026-10-31:evening"
+    "slotKey": "2026-10-31:evening",
+    "messageId": 193432,
+    "sentAt": "2026-10-31T19:34:29.127Z"
   }
 }
