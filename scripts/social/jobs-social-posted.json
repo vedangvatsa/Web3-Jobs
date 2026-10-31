@@ -84346,6 +84346,41 @@
       "attemptId": "3d1c7604-ddf0-4a7c-942e-3298cf7d71a3",
       "verification": "verified",
       "postId": "0xfa866e20873753ada2787b295f8d88769689410c"
+    },
+    {
+      "slug": "eng303",
+      "company": "Sardine",
+      "title": "Forward Deployed Engineer, Integrations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-31T19:36:40.515Z",
+      "expectedText": "Sardine is hiring Forward Deployed Engineer, Integrations\n\nhttps://hashtagweb3.com/eng303/fc?og=7",
+      "snapshot": {
+        "id": "5a6411d4-455f-48d5-a282-7bec2bec3494",
+        "title": "Forward Deployed Engineer, Integrations",
+        "company": "Sardine",
+        "link": "https://jobs.ashbyhq.com/Sardine/5a6411d4-455f-48d5-a282-7bec2bec3494",
+        "date": "2026-10-23T19:24:15.885+00:00",
+        "source": "Ashby: Sardine [Sardine]",
+        "location": "United States / Canada",
+        "isRemote": null,
+        "workplaceType": null,
+        "department": "Integrations",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng303"
+      },
+      "payload": {
+        "text": "Sardine is hiring Forward Deployed Engineer, Integrations\n\nhttps://hashtagweb3.com/eng303/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng303/fc?og=7"
+          }
+        ],
+        "channel_id": "bounties"
+      },
+      "account": "channel:bounties",
+      "attemptId": "164d87de-8da3-420d-a4c5-939722cb1edd",
+      "verification": "creating"
     }
   ]
 }
