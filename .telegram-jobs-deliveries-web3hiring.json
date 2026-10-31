@@ -11151,5 +11151,121 @@
     "slotKey": "2026-10-31:morning",
     "messageId": 16591,
     "sentAt": "2026-10-31T03:32:49.850Z"
+  },
+  "5fea634b-5d9a-4559-88c2-0c525f649311": {
+    "status": "reserved",
+    "reservedAt": "2026-10-31T03:32:53.996Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "95944478",
+          "title": "Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Taiwan)",
+          "company": "Perle",
+          "link": "https://ats.rippling.com/perle/jobs/12d7e277-a8ac-4bc2-962b-c45742c1558c",
+          "date": "2026-10-06T11:52:24.000Z",
+          "dateVerified": true,
+          "dateSource": "Solana.JobPosting.postedAt",
+          "source": "Solana Ecosystem: Perle [getro-solana]",
+          "location": "Remote / Taiwan",
+          "department": "AI",
+          "active": true,
+          "slug": "bces5"
+        },
+        "key": "95944478",
+        "slug": "bces5",
+        "url": "https://hashtagweb3.com/bces5?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Perle",
+        "title": "Bilingual Chinese"
+      },
+      {
+        "snapshot": {
+          "id": "12165f07-7ac6-40cf-a2b9-554c1a52ad06",
+          "title": "Member of People Experience",
+          "company": "Anchorage Digital",
+          "link": "https://jobs.lever.co/anchorage/12165f07-7ac6-40cf-a2b9-554c1a52ad06",
+          "date": "2026-10-13T20:01:43.868Z",
+          "source": "Lever: Anchorage Digital [anchorage]",
+          "location": "Remote (United States)",
+          "workplaceType": "remote",
+          "department": "People",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mpe"
+        },
+        "key": "12165f07-7ac6-40cf-a2b9-554c1a52ad06",
+        "slug": "mpe",
+        "url": "https://hashtagweb3.com/mpe?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Anchorage Digital",
+        "title": "Member of People Experience"
+      },
+      {
+        "snapshot": {
+          "id": "8316059",
+          "title": "Account Executive, Product Sales (Terminal)",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8316059",
+          "date": "2026-10-29T19:17:22-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "San Francisco, CA, New York, NY, Remote (US)",
+          "department": "1640 Product Sales - Payments",
+          "active": true,
+          "slug": "pm347",
+          "dateVerified": true
+        },
+        "key": "8316059",
+        "slug": "pm347",
+        "url": "https://hashtagweb3.com/pm347?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "29a5da77-37f0-402a-92bc-072778e77ed8",
+          "title": "Software Engineer, Forward Deployed",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8",
+          "date": "2026-10-22T19:20:16.077+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng315"
+        },
+        "key": "29a5da77-37f0-402a-92bc-072778e77ed8",
+        "slug": "eng315",
+        "url": "https://hashtagweb3.com/eng315?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8333973",
+          "title": "US Trading Analyst",
+          "company": "DRW",
+          "link": "https://job-boards.greenhouse.io/drweng/jobs/8333973",
+          "date": "2026-10-29T11:11:12-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DRW [drweng]",
+          "location": "Houston",
+          "department": "Commodities",
+          "active": true,
+          "salary": "$120k – $160k/yr",
+          "slug": "an115",
+          "dateVerified": true
+        },
+        "key": "8333973",
+        "slug": "an115",
+        "url": "https://hashtagweb3.com/an115?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DRW",
+        "title": "US Trading Analyst"
+      }
+    ],
+    "message": "- Perle is hiring <a href=\"https://hashtagweb3.com/bces5?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Taiwan)</a>\n- Anchorage Digital is hiring <a href=\"https://hashtagweb3.com/mpe?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Member of People Experience</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/pm347?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Product Sales (Terminal)</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/eng315?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer, Forward Deployed</a>\n- DRW is hiring <a href=\"https://hashtagweb3.com/an115?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">US Trading Analyst</a>",
+    "slotKey": "2026-10-31:morning"
   }
 }
