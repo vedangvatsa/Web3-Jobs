@@ -854,6 +854,9 @@
   "https://hashtagweb3.com/selig?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/spacexstake?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/comer?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/coindcxfutures?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/bybitvara?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/francevote?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2468,6 +2471,12 @@
   "CZ cites billion-dollar SpaceX stake in reply to Musk after Binance hack",
   "House Oversight Panel Investigates Delaware AI Corporate Plan",
   "House Oversight Chair Opens Investigation of Delaware Plan for AI-Run Companies",
+  "CoinDCX Restricts Futures Trading After Binance Disruption",
+  "CoinDCX Puts Futures Into Reduce-Only Mode After Binance Disruption",
+  "Bybit obtains Dubai VARA license for spot trading",
+  "Bybit secures full VARA license for spot trading in Dubai",
+  "France schedules budget vote after passing stablecoin tax amendment",
+  "France sets Nov. 3 budget vote after one-vote stablecoin tax win",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2872,5 +2881,8 @@
   "fp:accept|agency|arriv|clos|comment|continu|deadlin|despit|end|feedback",
   "fp:agent|are|autonomous|break|cftc|debat|developer|discuss|forum|frontier",
   "fp:63b|annual|binanc|cit|cover|dollar|exchang|hack|loss|musk",
-  "fp:chair|comer|concern|corporat|delawar|document|firm|framework|hous|investigat"
+  "fp:chair|comer|concern|corporat|delawar|document|firm|framework|hous|investigat",
+  "fp:binanc|coindcx|day|disruption|four|futur|limit|market|mod|most",
+  "fp:bybit|complet|customer|dubai|exchang|full|licens|must|obtain|operation",
+  "fp:amendment|approv|budget|decision|final|franc|french|lawmaker|narrowly|nov3"
 ]
