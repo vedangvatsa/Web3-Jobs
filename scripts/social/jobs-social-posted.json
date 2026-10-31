@@ -82749,7 +82749,8 @@
       },
       "account": "channel:dev",
       "attemptId": "9ded2d2c-18ba-4a78-af5d-1f347d6969be",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4cc493d73e3bd17ad1a184787b73e1e2c1730497"
     }
   ]
 }
