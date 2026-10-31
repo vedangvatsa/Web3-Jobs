@@ -109208,11 +109208,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "23430ada7d0f6792ddfe",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T09:08:25.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "duplicate",
+      "note": "Opened and read the Cointelegraph live blog; its lead items (additional points of breach, the $6.34 billion reserve, $3 billion frozen, EIP-7702 and the TraderTraitor attribution) are the same Oct. 29-30 developments content/articles/binancecover.md already reports.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-31T04:39:08.117Z",
+      "duplicateOf": "binancecover",
+      "mergedInto": "41687ee10fb86446183e",
+      "lastReviewedDay": "2026-10-31"
     },
     "cd37a29f6cf080b85c39": {
       "source": "The Defiant",
@@ -109229,11 +109241,27 @@
       ],
       "alsoCoveredBy": [],
       "id": "cd37a29f6cf080b85c39",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T08:54:07.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "duplicate",
+      "note": "The Defiant URL returned a Cloudflare 403 on an actual GET. Its subject, the additional-points-of-breach finding, is the same Oct. 30 update verified in the opened Cointelegraph live blog and already covered in binancecover.md, which reports that a wider review found additional points of breach.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/hacks/binance-reports-more-breach-points-in-6-3-billion-attack",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-31T04:39:08.118Z",
+      "duplicateOf": "binancecover",
+      "mergedInto": "41687ee10fb86446183e",
+      "lastReviewedDay": "2026-10-31"
     },
     "2de06bfd6430457d64fb": {
       "source": "CoinDesk",
@@ -109250,11 +109278,27 @@
       ],
       "alsoCoveredBy": [],
       "id": "2de06bfd6430457d64fb",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T08:36:52.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "duplicate",
+      "note": "CoinDesk returned HTTP 429 with a Vercel security checkpoint on an actual GET, so the live blog itself was not opened. The development its headline advertises, more breaches found in the $6.3 billion hack, is the same event verified in the opened Cointelegraph live blog of Oct. 30 and already reported in binancecover.md.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-31T04:39:08.118Z",
+      "duplicateOf": "binancecover",
+      "mergedInto": "41687ee10fb86446183e",
+      "lastReviewedDay": "2026-10-31"
     },
     "16fa5674fb614e44231a": {
       "source": "The Defiant",
@@ -109271,11 +109315,27 @@
       ],
       "alsoCoveredBy": [],
       "id": "16fa5674fb614e44231a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T08:26:05.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "duplicate",
+      "note": "The Defiant URL returned a Cloudflare 403 on an actual GET. Teng's statement that the breach was not a single one-click action was read in Cointelegraph's live coverage; it is part of the same investigation update (compromised laptop, no private-key leak, additional points of breach, SAFU coverage) that binancecover.md already carries, and an earlier review opened Decrypt's article with the same quotes and recorded it as a duplicate of binancecover.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/hacks/teng-says-binance-breach-was-not-a-one-click-attack",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-31T04:39:08.118Z",
+      "duplicateOf": "binancecover",
+      "mergedInto": "41687ee10fb86446183e",
+      "lastReviewedDay": "2026-10-31"
     },
     "ad15523477fe16c2037b": {
       "source": "Cointelegraph",
@@ -109292,11 +109352,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "ad15523477fe16c2037b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T05:51:41.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "duplicate",
+      "note": "Opened and read the Cointelegraph attribution report; TRM Labs' high-confidence attribution to TraderTraitor and Chainalysis CEO Jonathan Levin's matching assessment are already reported in binancecover.md, which cites the same TRM findings.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-31T04:39:08.123Z",
+      "duplicateOf": "binancecover",
+      "mergedInto": "41687ee10fb86446183e",
+      "lastReviewedDay": "2026-10-31"
     },
     "74f2227737b03a0e953c": {
       "source": "CoinDesk",
@@ -109313,11 +109385,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "74f2227737b03a0e953c",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T05:43:07.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "verified-event",
+      "note": "Opened and read New Indian Express and InvestIn.News in full; verified CoinDCX's Oct. 30 reduce-only notice and its quoted text, the trading rules during the restriction, the spokesperson-identified Binance link as reported by InvestIn.News, and the same-day reopening with SOPH, ERA, GTC and LA still limited with no date. Cointelegraph's live coverage, also opened and read, supplies the Binance incident figures used as context in the draft.",
+      "sourceChecks": [
+        {
+          "url": "https://www.newindianexpress.com/business/2026/Oct/30/binance-estimates-63-billion-impact-from-security-breach-indian-exchanges-restrict-futures-trading",
+          "outcome": "read"
+        },
+        {
+          "url": "https://investin.news/originals/coindcx-paused-futures-after-binance-liquidity-disruption",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-31T04:39:08.117Z",
+      "articleSlug": "coindcxfutures",
+      "lastReviewedDay": "2026-10-31"
     },
     "9d95ce61ced6727edb05": {
       "source": "CryptoSlate",
@@ -109334,11 +109429,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "9d95ce61ced6727edb05",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T05:40:52.000Z",
-      "lastSeenAt": "2026-10-30T10:25:44.767Z"
+      "lastSeenAt": "2026-10-30T10:25:44.767Z",
+      "reason": "duplicate",
+      "note": "Opened and read the CryptoSlate reconstruction; it rests on the same TRM Labs report binancecover.md already cites, including the 36-hour preparation, most funds moved in roughly 20 minutes, about $6.36 billion across 10 blockchains and the TraderTraitor attribution. The $296 million XRP opening figure is a detail of that same covered report, not a new event.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/binance-hack-began-with-a-296-million-xrp-drain-after-36-hour-preparation/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-31T04:39:08.124Z",
+      "duplicateOf": "binancecover",
+      "mergedInto": "41687ee10fb86446183e",
+      "lastReviewedDay": "2026-10-31"
     },
     "2d48962f7de928f1ed55": {
       "source": "The Defiant",
@@ -109355,11 +109462,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "2d48962f7de928f1ed55",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T05:01:18.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "source-blocked",
+      "note": "The Defiant URL returned a Cloudflare 403 on an actual GET even though the readiness pass reported HTTP 200. Every located item restating the 14,040 ETH transfer (woofun.ai, basisdesk.news, lypp.com, bi.run) credits The Defiant as the original source rather than reporting independent on-chain data, so no second readable source could be opened this round.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/hacks/binance-exploit-linked-wallet-moves-14-040-eth-to-another-holding-address",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-31T04:39:08.124Z",
+      "retrySearches": [
+        "Find readable independent on-chain coverage (Decrypt, The Block, CryptoSlate, Arkham Intelligence) of the Oct. 30, 2026 transfer of 14,040 ETH from a Binance exploit-linked wallet to a holding address"
+      ],
+      "lastReviewedDay": "2026-10-31",
+      "nextReviewDate": "2026-11-01"
     },
     "ca74039d6ec0547db06d": {
       "source": "The Defiant",
@@ -206327,6 +206448,142 @@
           "reviewedAt": "2026-10-31T04:24:11.867Z",
           "retrySearches": [
             "Find a second readable independent report (Decrypt, The Block, Bitcoin Magazine or company blog) on the Amplitude incident exposing Coinbase customer contact data on Oct. 28, 2026"
+          ]
+        },
+        "74f2227737b03a0e953c": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Opened and read New Indian Express and InvestIn.News in full; verified CoinDCX's Oct. 30 reduce-only notice and its quoted text, the trading rules during the restriction, the spokesperson-identified Binance link as reported by InvestIn.News, and the same-day reopening with SOPH, ERA, GTC and LA still limited with no date. Cointelegraph's live coverage, also opened and read, supplies the Binance incident figures used as context in the draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.newindianexpress.com/business/2026/Oct/30/binance-estimates-63-billion-impact-from-security-breach-indian-exchanges-restrict-futures-trading",
+              "outcome": "read"
+            },
+            {
+              "url": "https://investin.news/originals/coindcx-paused-futures-after-binance-liquidity-disruption",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-31T04:39:08.117Z",
+          "articleSlug": "coindcxfutures"
+        },
+        "23430ada7d0f6792ddfe": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Opened and read the Cointelegraph live blog; its lead items (additional points of breach, the $6.34 billion reserve, $3 billion frozen, EIP-7702 and the TraderTraitor attribution) are the same Oct. 29-30 developments content/articles/binancecover.md already reports.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T04:39:08.117Z",
+          "duplicateOf": "binancecover",
+          "mergedInto": "41687ee10fb86446183e"
+        },
+        "cd37a29f6cf080b85c39": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "The Defiant URL returned a Cloudflare 403 on an actual GET. Its subject, the additional-points-of-breach finding, is the same Oct. 30 update verified in the opened Cointelegraph live blog and already covered in binancecover.md, which reports that a wider review found additional points of breach.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/binance-reports-more-breach-points-in-6-3-billion-attack",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T04:39:08.118Z",
+          "duplicateOf": "binancecover",
+          "mergedInto": "41687ee10fb86446183e"
+        },
+        "2de06bfd6430457d64fb": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "CoinDesk returned HTTP 429 with a Vercel security checkpoint on an actual GET, so the live blog itself was not opened. The development its headline advertises, more breaches found in the $6.3 billion hack, is the same event verified in the opened Cointelegraph live blog of Oct. 30 and already reported in binancecover.md.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T04:39:08.118Z",
+          "duplicateOf": "binancecover",
+          "mergedInto": "41687ee10fb86446183e"
+        },
+        "16fa5674fb614e44231a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "The Defiant URL returned a Cloudflare 403 on an actual GET. Teng's statement that the breach was not a single one-click action was read in Cointelegraph's live coverage; it is part of the same investigation update (compromised laptop, no private-key leak, additional points of breach, SAFU coverage) that binancecover.md already carries, and an earlier review opened Decrypt's article with the same quotes and recorded it as a duplicate of binancecover.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/teng-says-binance-breach-was-not-a-one-click-attack",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T04:39:08.118Z",
+          "duplicateOf": "binancecover",
+          "mergedInto": "41687ee10fb86446183e"
+        },
+        "ad15523477fe16c2037b": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Opened and read the Cointelegraph attribution report; TRM Labs' high-confidence attribution to TraderTraitor and Chainalysis CEO Jonathan Levin's matching assessment are already reported in binancecover.md, which cites the same TRM findings.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T04:39:08.123Z",
+          "duplicateOf": "binancecover",
+          "mergedInto": "41687ee10fb86446183e"
+        },
+        "9d95ce61ced6727edb05": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Opened and read the CryptoSlate reconstruction; it rests on the same TRM Labs report binancecover.md already cites, including the 36-hour preparation, most funds moved in roughly 20 minutes, about $6.36 billion across 10 blockchains and the TraderTraitor attribution. The $296 million XRP opening figure is a detail of that same covered report, not a new event.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/binance-hack-began-with-a-296-million-xrp-drain-after-36-hour-preparation/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T04:39:08.124Z",
+          "duplicateOf": "binancecover",
+          "mergedInto": "41687ee10fb86446183e"
+        },
+        "2d48962f7de928f1ed55": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "The Defiant URL returned a Cloudflare 403 on an actual GET even though the readiness pass reported HTTP 200. Every located item restating the 14,040 ETH transfer (woofun.ai, basisdesk.news, lypp.com, bi.run) credits The Defiant as the original source rather than reporting independent on-chain data, so no second readable source could be opened this round.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/binance-exploit-linked-wallet-moves-14-040-eth-to-another-holding-address",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-31T04:39:08.124Z",
+          "retrySearches": [
+            "Find readable independent on-chain coverage (Decrypt, The Block, CryptoSlate, Arkham Intelligence) of the Oct. 30, 2026 transfer of 14,040 ETH from a Binance exploit-linked wallet to a holding address"
           ]
         }
       },
