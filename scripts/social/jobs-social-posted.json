@@ -80423,7 +80423,8 @@
       },
       "account": "channel:defi",
       "attemptId": "ed3acf12-e4d6-41dd-ac37-1e80cccb4a33",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x1d3d7b1841b9f6775c6b4643ab4d0909c8f97d76"
     }
   ]
 }
