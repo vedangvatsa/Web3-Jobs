@@ -6085,5 +6085,120 @@
     "slotKey": "2026-10-30:evening",
     "messageId": 156012,
     "sentAt": "2026-10-30T19:32:54.638Z"
+  },
+  "278b8eb3-9157-40bc-b07f-a70a1b2965d4": {
+    "status": "reserved",
+    "reservedAt": "2026-10-31T03:33:00.690Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8330801",
+          "title": "Enterprise Account Executive, Hunter",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8330801",
+          "date": "2026-10-29T23:01:23-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Sydney Or Melbourne",
+          "department": "1195 Account Executives (APAC)",
+          "active": true,
+          "slug": "sls371",
+          "dateVerified": true
+        },
+        "key": "8330801",
+        "slug": "sls371",
+        "url": "https://hashtagweb3.com/sls371?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Enterprise Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "5467707008",
+          "title": "SMB Account Executive",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5467707008?gh_jid=5467707008",
+          "date": "2026-10-29T20:30:41-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Sydney, Australia",
+          "department": "20209 S&M - Sales - Square Inside",
+          "active": true,
+          "slug": "sls369",
+          "dateVerified": true
+        },
+        "key": "5467707008",
+        "slug": "sls369",
+        "url": "https://hashtagweb3.com/sls369?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "SMB Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "f1ceb46a-3329-4774-851d-baaa32035588",
+          "title": "Executive Assistant (Bucharest)",
+          "company": "Alchemy",
+          "link": "https://jobs.ashbyhq.com/alchemy/f1ceb46a-3329-4774-851d-baaa32035588",
+          "date": "2026-10-27T17:57:19.759+00:00",
+          "source": "Ashby: Alchemy [alchemy]",
+          "location": "Hybrid (Bucharest)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "People",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso74"
+        },
+        "key": "f1ceb46a-3329-4774-851d-baaa32035588",
+        "slug": "aso74",
+        "url": "https://hashtagweb3.com/aso74?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alchemy",
+        "title": "Executive Assistant"
+      },
+      {
+        "snapshot": {
+          "id": "605403",
+          "title": "Backend Engineering Lead (Go; Compliance)",
+          "company": "Kast",
+          "link": "https://careers.kast.xyz/en/postings/4d0a8d84-b9de-40df-a596-7c4d956dc6ce",
+          "date": "2026-10-23T09:25:24+01:00",
+          "dateVerified": true,
+          "dateSource": "Pinpoint.JobPosting.datePosted",
+          "source": "Pinpoint: Kast [kast]",
+          "location": "London (Hybrid)",
+          "department": "Engineering",
+          "active": true,
+          "slug": "be96"
+        },
+        "key": "605403",
+        "slug": "be96",
+        "url": "https://hashtagweb3.com/be96?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kast",
+        "title": "Backend Engineering Lead"
+      },
+      {
+        "snapshot": {
+          "id": "8289239",
+          "title": "Talent Acquisition Coordinator",
+          "company": "Blockchain.com",
+          "link": "https://job-boards.greenhouse.io/blockchain/jobs/8289239",
+          "date": "2026-10-16T11:59:41-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Blockchain.com [blockchain]",
+          "location": "Buenos Aires",
+          "department": "People Success",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rec4"
+        },
+        "key": "8289239",
+        "slug": "rec4",
+        "url": "https://hashtagweb3.com/rec4?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Blockchain.com",
+        "title": "Talent Acquisition Coordinator"
+      }
+    ],
+    "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/sls371?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Enterprise Account Executive, Hunter</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/sls369?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">SMB Account Executive</a>\n- Alchemy is hiring <a href=\"https://hashtagweb3.com/aso74?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Executive Assistant (Bucharest)</a>\n- Kast is hiring <a href=\"https://hashtagweb3.com/be96?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Backend Engineering Lead (Go; Compliance)</a>\n- Blockchain.com is hiring <a href=\"https://hashtagweb3.com/rec4?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Talent Acquisition Coordinator</a>",
+    "slotKey": "2026-10-31:morning"
   }
 }
