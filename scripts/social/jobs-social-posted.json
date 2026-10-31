@@ -81727,7 +81727,8 @@
       },
       "account": "profile",
       "attemptId": "db4623a3-f779-4539-8341-14fe5097fba4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc6f5722345263c15f95888f1fea5dc35b775f1bc"
     }
   ]
 }
