@@ -82182,7 +82182,8 @@
       },
       "account": "channel:ai",
       "attemptId": "5b055e4d-0ccc-4e11-ab5b-b921685aee51",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9f08bf11ececa367a0c36ba708b41fd59566cb7c"
     }
   ]
 }
