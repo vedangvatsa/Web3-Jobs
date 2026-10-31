@@ -108937,11 +108937,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1293da5372bad034a595",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T09:52:29.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "price-chatter",
+      "note": "RUNE token price move after the Binance hack is market chatter, not a concrete event; out of scope per editorial rules.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-31T04:07:03.673Z",
+      "lastReviewedDay": "2026-10-31"
     },
     "a258dfba01720d584de7": {
       "source": "The Defiant",
@@ -114031,9 +114036,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "704545a628f5ee66c298",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-31T03:31:46.182Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T14:54:39.000Z",
       "lastSeenAt": "2026-10-31T03:31:46.182Z",
       "articleSlug": "tengreport",
@@ -114051,7 +114056,23 @@
         "updatedAt": "2026-10-31T04:01:27.714Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "duplicate",
+      "note": "The Teng video described by The Defiant (Nov. 1 withdrawal target, Nov. 2 proof-of-reserves report, $6.34B reserve, EIP-7702, extra breach points) is the same Oct. 30 address already covered in content/articles/binancecover.md, which cites Decrypt, Crypto Briefing and CNBC. TokenPost 44892 and CoinDesk's Oct. 30 tech report confirm the same facts; no new event.",
+      "sourceChecks": [
+        {
+          "url": "https://www.tokenpost.com/news/business/44892",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-31T04:07:03.672Z",
+      "duplicateOf": "binancecover",
+      "mergedInto": "41687ee10fb86446183e",
+      "lastReviewedDay": "2026-10-31"
     },
     "0c372b539fba35d1e876": {
       "source": "Bitcoin Magazine",
@@ -205974,6 +205995,31 @@
           "retrySearches": [
             "Find Liquid federation or Blockstream official confirmation of the Oct. 28 50 BTC reserve transfer and about 87.07 percent L-BTC coverage, or a second independent outlet with figures not sourced to The Defiant"
           ]
+        },
+        "704545a628f5ee66c298": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "The Teng video described by The Defiant (Nov. 1 withdrawal target, Nov. 2 proof-of-reserves report, $6.34B reserve, EIP-7702, extra breach points) is the same Oct. 30 address already covered in content/articles/binancecover.md, which cites Decrypt, Crypto Briefing and CNBC. TokenPost 44892 and CoinDesk's Oct. 30 tech report confirm the same facts; no new event.",
+          "sourceChecks": [
+            {
+              "url": "https://www.tokenpost.com/news/business/44892",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T04:07:03.672Z",
+          "duplicateOf": "binancecover",
+          "mergedInto": "41687ee10fb86446183e"
+        },
+        "1293da5372bad034a595": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "RUNE token price move after the Binance hack is market chatter, not a concrete event; out of scope per editorial rules.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-31T04:07:03.673Z"
         }
       },
       "baselineSlugs": [
