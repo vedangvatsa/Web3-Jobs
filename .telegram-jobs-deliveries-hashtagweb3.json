@@ -6322,7 +6322,7 @@
     "sentAt": "2026-10-31T11:33:37.885Z"
   },
   "6020577e-3233-4423-bfbb-e6d99bba731d": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-31T19:33:09.473Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -6435,6 +6435,8 @@
       }
     ],
     "message": "- Augustus is hiring <a href=\"https://hashtagweb3.com/cmp129?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Corporate Counsel</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/an106?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">M&amp;A Analyst</a>\n- Hut 8 is hiring <a href=\"https://hashtagweb3.com/rec47?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Executive Recruiter</a>\n- LI.FI is hiring <a href=\"https://hashtagweb3.com/pm302?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/pm246?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Tax Specialist</a>",
-    "slotKey": "2026-10-31:evening"
+    "slotKey": "2026-10-31:evening",
+    "messageId": 156029,
+    "sentAt": "2026-10-31T19:33:12.427Z"
   }
 }
