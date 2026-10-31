@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-10-31T03:31:44.879Z",
+  "generatedAt": "2026-10-31T11:31:43.513Z",
   "items": [
+    {
+      "title": "Binance $6.3B record hack sparks pre-election political chatter  ",
+      "link": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 31 Oct 2026 09:58:50 +0000",
+      "creator": "Michael Millard",
+      "contentSnippet": "Some political and administration figures tried to make hay of the biggest-ever crypto heist.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+      "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+      "pubDate": "Sat, 31 Oct 2026 05:01:32 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "The 18,270 BTC haul is worth about $1.4 billion and comes within 442 coins of SpaceX’s disclosed holdings. Blockchain investigators link the attack to...",
+      "source": "Coindesk"
+    },
     {
       "title": "Chainalysis links Binance exploit to North Korea’s TraderTraitor",
       "link": "https://Blockchain.News/news/chainalysis-links-binance-exploit-to-north-koreas-tradertraitor",
@@ -24,14 +40,6 @@
       "creator": "Christina Comben",
       "contentSnippet": "Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry players like Tether and Circle moved to immobilize...",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion",
-      "link": "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225",
-      "pubDate": "Fri, 30 Oct 2026 21:20:23 +0000",
-      "creator": "Jason Shubnell",
-      "contentSnippet": "Investigators tie the $6B Binance hack to North Korea. Here's how hot-wallet signing infrastructure was compromised and where funds went.",
-      "source": "The Block"
     },
     {
       "title": "Binance Hack Shows Why Offshore Exchanges Need US Oversight, CFTC Chair Says",
@@ -114,6 +122,14 @@
       "source": "Cointelegraph"
     },
     {
+      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+      "link": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
+      "pubDate": "Fri, 30 Oct 2026 16:31:17 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "CEO Richard Teng said hackers erased evidence and bypassed security checks. Binance plans to publish its proof of reserves Monday.",
+      "source": "Coindesk"
+    },
+    {
       "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
       "link": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 30 Oct 2026 16:06:28 +0000",
@@ -160,6 +176,14 @@
       "creator": "Helen Partz",
       "contentSnippet": "The exchange said it set aside more than $6.34 billion to cover losses and would include the assets in its next proof-of-reserves report.",
       "source": "Cointelegraph"
+    },
+    {
+      "title": "Here's how big bitcoin traders responded after the Binance hack hit",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
+      "pubDate": "Fri, 30 Oct 2026 11:51:26 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Your day-ahead look for Oct. 30, 2026",
+      "source": "Coindesk"
     },
     {
       "title": "Zcash grants group offers $124M compromise as governance backlash grows",
@@ -394,22 +418,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Crypto exchange HTX exits the UK after settling with the FCA",
-      "link": "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca",
-      "pubDate": "Thu, 29 Oct 2026 16:11:18 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "The former Huobi exchange has stopped accepting deposits from British customers and agreed not to target them with crypto promotions.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Kalshi raises $1B at $40B valuation as non-sports revenue run rate tops $1B",
-      "link": "https://cointelegraph.com/news/kalshi-closes-1b-funding-round-at-40b-valuation-as-non-sports-revenue-run-rate-tops-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 29 Oct 2026 15:52:43 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "The funding round comes as Kalshi expands its partnerships with the NBA and S&P Dow Jones Indices while facing legal challenges over its sports contra...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Justin Sun's HTX Agrees to Leave UK in Settlement With Financial Watchdog",
       "link": "https://decrypt.co/382138/justin-suns-htx-agrees-to-leave-uk-in-settlement-with-financial-watchdog",
       "pubDate": "Thu, 29 Oct 2026 12:58:28 +0000",
@@ -448,14 +456,6 @@
       "creator": "Yogita Khatri",
       "contentSnippet": "Curve Finance has launched on Stellar mainnet, its first native deployment outside the Ethereum Virtual Machine (EVM) ecosystem.",
       "source": "The Block"
-    },
-    {
-      "title": "Keystone Wallet Destroying 18,835 Devices After Breach Exposes Authentication Key",
-      "link": "https://dailyhodl.com/2026/10/29/keystone-wallet-destroying-18835-devices-after-breach-exposes-authentication-key/",
-      "pubDate": "Thu, 29 Oct 2026 09:15:05 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Keystone confirmed a website breach that exposed buyer data and a device authentication key, prompting the company to destroy nearly 19,000 unsold har...",
-      "source": "Daily Hodl"
     },
     {
       "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
