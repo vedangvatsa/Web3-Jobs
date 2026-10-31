@@ -105078,9 +105078,9 @@
       "articleSlug": "comer",
       "draftProgress": {
         "id": "415ee5aff505874490c6",
-        "day": "2026-10-30",
+        "day": "2026-10-31",
         "articleSlug": "comer",
-        "note": "Read Decrypt, Oversight Committee Oct. 26 press release, and WHYY. Facts verified: letter to Gov. Matt Meyer dated Oct. 26; documents due Nov. 9; draft bill expected next year; 30-month sandbox; Zeberkiewicz principal drafter. Draft not started.",
+        "note": "Retry search located Ars Technica Oct 27 piece with full independent details and Spotlight Delaware June background via search results; Ars page not opened via WebFetch before deadline and draft not started. Next batch: open Ars URL, confirm facts, draft.",
         "sourceChecks": [
           {
             "url": "https://decrypt.co/382035/house-oversight-chair-comer-probes-delaware-plan-for-ai-run-companies",
@@ -105095,7 +105095,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-10-30T11:01:29.828Z",
+        "updatedAt": "2026-10-31T04:09:28.205Z",
         "approved": false,
         "mustReview": true
       },
