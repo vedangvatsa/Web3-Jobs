@@ -80862,7 +80862,8 @@
       },
       "account": "profile",
       "attemptId": "746b8f44-6e93-4077-97d4-e477cbb7533f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x423c6c9de0cd14cb881807354fb83d3a5bd418fb"
     }
   ]
 }
