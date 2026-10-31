@@ -2813,5 +2813,36 @@
     "slotKey": "2026-10-31:morning",
     "messageId": 65792,
     "sentAt": "2026-10-31T03:37:02.418Z"
+  },
+  "149baa1c-1fcf-4524-a979-812cc83d8210": {
+    "status": "reserved",
+    "reservedAt": "2026-10-31T11:34:41.096Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "CFTC debates liability for autonomous AI trading software",
+        "summary": "Panelists at a recent forum discussed whether developers or users are responsible for illegal automated trades.",
+        "link": "https://hashtagweb3.com/selig?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC Frontier Forum presses who is liable when AI agents trade"
+      },
+      {
+        "index": -1,
+        "headline": "CoinDCX Restricts Futures Trading After Binance Security Incident",
+        "summary": "The exchange restored most futures markets on October 30, while four tokens remained restricted.",
+        "link": "https://hashtagweb3.com/coindcxfutures?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CoinDCX Puts Futures Into Reduce-Only Mode After Binance Disruption"
+      },
+      {
+        "index": -1,
+        "headline": "CZ states Binance holds $1 billion in SpaceX shares",
+        "summary": "Annual revenue covers $6.3 billion in hack losses without selling holdings, according to co-founder Yi He.",
+        "link": "https://hashtagweb3.com/spacexstake?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CZ cites billion-dollar SpaceX stake in reply to Musk after Binance hack"
+      }
+    ],
+    "slotKey": "2026-10-31:afternoon"
   }
 }
