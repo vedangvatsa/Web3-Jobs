@@ -2648,5 +2648,36 @@
     "slotKey": "2026-10-30:evening",
     "messageId": 156013,
     "sentAt": "2026-10-30T19:33:27.118Z"
+  },
+  "0d39dcae-970d-4487-b44c-9aaad4a376ee": {
+    "status": "reserved",
+    "reservedAt": "2026-10-31T03:36:14.007Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Zcash Proposal Redirects Block Subsidies From Community Grants",
+        "summary": "Sean Bowe's proposal moves the 8% block share to the Network Sustainability Mechanism, citing a $125 million treasury.",
+        "link": "https://hashtagweb3.com/zcgstream?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Zcash Co-Founder Proposes Ending Grants Funding Stream"
+      },
+      {
+        "index": -1,
+        "headline": "CME CEO says perpetual funding rates are regulated swaps",
+        "summary": "CME will delay listing perpetual futures until its ongoing legal dispute with the CFTC is resolved.",
+        "link": "https://hashtagweb3.com/duffyperps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CME's Duffy calls perp funding a swap as CFTC lawsuit heads to full briefing"
+      },
+      {
+        "index": -1,
+        "headline": "SEC Crypto Regulation Comment Period Ends",
+        "summary": "The agency received 140 submissions and continues to accept public feedback despite the official deadline passing.",
+        "link": "https://hashtagweb3.com/regcrypto?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEC comment window closes on Reg Crypto with submissions still arriving"
+      }
+    ],
+    "slotKey": "2026-10-31:morning"
   }
 }
