@@ -80531,7 +80531,8 @@
       },
       "account": "channel:design",
       "attemptId": "1864f4d4-989d-4061-9223-cf3d22cef6ff",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x25ba159080ceb5bd7a42d43e3b268fa916a6a43a"
     }
   ]
 }
