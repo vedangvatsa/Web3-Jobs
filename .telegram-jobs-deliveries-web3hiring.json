@@ -11627,7 +11627,7 @@
     "sentAt": "2026-10-31T19:33:00.789Z"
   },
   "d89a01fc-b6db-438b-8351-1a04b43e2c5b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-31T19:33:02.508Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -11740,6 +11740,8 @@
       }
     ],
     "message": "- Figure is hiring <a href=\"https://hashtagweb3.com/aso58?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Success Associate</a>\n- DriveWealth is hiring <a href=\"https://hashtagweb3.com/sec116?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Security &amp; Threat Operations Manager</a>\n- MoonPay is hiring <a href=\"https://hashtagweb3.com/brc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Business Risk &amp; Controls</a>\n- Jane Street is hiring <a href=\"https://hashtagweb3.com/infra34?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Talent Development, Infrastructure and Operations Specialist</a>\n- Alchemy is hiring <a href=\"https://hashtagweb3.com/eng587?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer, Data Services</a>",
-    "slotKey": "2026-10-31:evening"
+    "slotKey": "2026-10-31:evening",
+    "messageId": 159,
+    "sentAt": "2026-10-31T19:33:04.692Z"
   }
 }
