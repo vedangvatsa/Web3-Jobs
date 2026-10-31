@@ -84524,7 +84524,8 @@
       },
       "account": "channel:build",
       "attemptId": "8c058196-3ed7-46e0-9dc0-e1b88500960f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x3609d0eb6c4751de505172856e700679282214e9"
     }
   ]
 }
