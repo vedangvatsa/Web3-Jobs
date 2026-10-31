@@ -84064,7 +84064,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "95ec4c01-b9a7-4856-b8a8-6038ff4806d8",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae64314f0984eef33293f8a"
     }
   ]
 }
