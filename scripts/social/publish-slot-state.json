@@ -8,7 +8,7 @@
     "afternoon": "2026-10-30",
     "evening": "2026-10-27"
   },
-  "deployed": "2026-10-30",
+  "deployed": "2026-10-31",
   "ingested": "2026-10-30",
   "dailyDeployments": {
     "2026-10-23": [
@@ -344,12 +344,14 @@
           "coindcxfutures",
           "binancecover"
         ],
-        "phase": "rolling-out",
+        "phase": "succeeded",
         "startedAt": "2026-10-31T05:20:06.745Z",
         "buildId": "daily-20261031-41164628414-1",
         "rolloutId": "daily-20261031-41164628414-1",
         "buildState": "READY",
-        "observedAt": "2026-10-31T05:40:47.103Z"
+        "observedAt": "2026-10-31T05:41:19.021Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-10-31T05:41:19.021Z"
       }
     ]
   }
