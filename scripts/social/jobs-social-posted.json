@@ -82252,7 +82252,8 @@
       },
       "account": "channel:design",
       "attemptId": "1ca556d4-f4a3-42fb-a820-b2b85fc2379d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x32b8a04110536a06b86d063635c795696b171935"
     }
   ]
 }
