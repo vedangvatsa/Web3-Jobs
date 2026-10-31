@@ -2,16 +2,16 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-10-30T22:33:16.884Z",
+  "generatedAt": "2026-10-31T03:40:16.386Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 3858,
+  "count": 3907,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "daily",
       "priority": 1
     },
@@ -83,7 +83,7 @@
     },
     {
       "url": "https://hashtagweb3.com/4seas",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -179,7 +179,7 @@
     },
     {
       "url": "https://hashtagweb3.com/a16z-crypto",
-      "lastmod": "2026-10-29",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -197,8 +197,14 @@
     },
     {
       "url": "https://hashtagweb3.com/about",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "monthly",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/abpc",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
       "priority": 0.8
     },
     {
@@ -209,7 +215,7 @@
     },
     {
       "url": "https://hashtagweb3.com/ac",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -317,7 +323,7 @@
     },
     {
       "url": "https://hashtagweb3.com/afro",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -491,7 +497,7 @@
     },
     {
       "url": "https://hashtagweb3.com/ajaib-crypto",
-      "lastmod": "2026-10-27",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -503,7 +509,7 @@
     },
     {
       "url": "https://hashtagweb3.com/akiya",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -522,6 +528,12 @@
     {
       "url": "https://hashtagweb3.com/alliance-dao",
       "lastmod": "2026-10-26",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/allium",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -574,14 +586,8 @@
       "priority": 0.6
     },
     {
-      "url": "https://hashtagweb3.com/am",
-      "lastmod": "2026-10-12",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/amagi",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -611,12 +617,6 @@
     },
     {
       "url": "https://hashtagweb3.com/an100",
-      "lastmod": "2026-10-20",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/an102",
       "lastmod": "2026-10-20",
       "changefreq": "daily",
       "priority": 0.8
@@ -696,6 +696,18 @@
     {
       "url": "https://hashtagweb3.com/an115",
       "lastmod": "2026-10-29",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/an116",
+      "lastmod": "2026-10-29",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/an117",
+      "lastmod": "2026-10-30",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -1061,7 +1073,7 @@
     },
     {
       "url": "https://hashtagweb3.com/arc",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -1217,7 +1229,7 @@
     },
     {
       "url": "https://hashtagweb3.com/arkpad",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -1259,7 +1271,7 @@
     },
     {
       "url": "https://hashtagweb3.com/ary",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -1536,6 +1548,12 @@
     {
       "url": "https://hashtagweb3.com/aso76",
       "lastmod": "2026-10-29",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/aso77",
+      "lastmod": "2026-10-30",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -2170,12 +2188,6 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/bifc3",
-      "lastmod": "2026-10-14",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/big-whale-geneva-summit",
       "lastmod": "2026-11-12",
       "changefreq": "weekly",
@@ -2597,7 +2609,7 @@
     },
     {
       "url": "https://hashtagweb3.com/blc",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -2639,7 +2651,7 @@
     },
     {
       "url": "https://hashtagweb3.com/blockchain-com",
-      "lastmod": "2026-10-23",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -2975,13 +2987,13 @@
     },
     {
       "url": "https://hashtagweb3.com/breeze-cash",
-      "lastmod": "2026-10-20",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/brevan-howard",
-      "lastmod": "2026-10-23",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -3347,7 +3359,7 @@
     },
     {
       "url": "https://hashtagweb3.com/cc",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -3382,6 +3394,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/ccb",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/ccm2",
       "lastmod": "2026-10-29",
       "changefreq": "daily",
@@ -3401,7 +3419,7 @@
     },
     {
       "url": "https://hashtagweb3.com/certik",
-      "lastmod": "2026-10-27",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -3467,7 +3485,7 @@
     },
     {
       "url": "https://hashtagweb3.com/chainalysis",
-      "lastmod": "2026-10-28",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -3922,6 +3940,18 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/cmp144",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/cmp145",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/cmp17",
       "lastmod": "2026-10-26",
       "changefreq": "daily",
@@ -4193,7 +4223,7 @@
     },
     {
       "url": "https://hashtagweb3.com/coinbase",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -4349,13 +4379,13 @@
     },
     {
       "url": "https://hashtagweb3.com/commons",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/community",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "monthly",
       "priority": 0.5
     },
@@ -4391,7 +4421,7 @@
     },
     {
       "url": "https://hashtagweb3.com/companies",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.8
     },
@@ -4403,7 +4433,7 @@
     },
     {
       "url": "https://hashtagweb3.com/companyventures",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -4505,7 +4535,7 @@
     },
     {
       "url": "https://hashtagweb3.com/consensys",
-      "lastmod": "2026-10-29",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -4517,7 +4547,7 @@
     },
     {
       "url": "https://hashtagweb3.com/contact",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "monthly",
       "priority": 0.8
     },
@@ -4643,7 +4673,7 @@
     },
     {
       "url": "https://hashtagweb3.com/creci",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -4721,7 +4751,7 @@
     },
     {
       "url": "https://hashtagweb3.com/crypto-finance",
-      "lastmod": "2026-10-06",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -4919,7 +4949,7 @@
     },
     {
       "url": "https://hashtagweb3.com/cssl2",
-      "lastmod": "2026-10-29",
+      "lastmod": "2026-10-30",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -4937,7 +4967,7 @@
     },
     {
       "url": "https://hashtagweb3.com/culdesac",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -5381,7 +5411,7 @@
     },
     {
       "url": "https://hashtagweb3.com/des6",
-      "lastmod": "2026-10-01",
+      "lastmod": "2026-10-30",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -5476,6 +5506,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/dev39",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/dev3pack-devcon-career-fair",
       "lastmod": "2026-11-06",
       "changefreq": "weekly",
@@ -5531,7 +5567,7 @@
     },
     {
       "url": "https://hashtagweb3.com/developers",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.9
     },
@@ -5794,6 +5830,18 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/do23",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/do24",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/do7",
       "lastmod": "2026-10-01",
       "changefreq": "daily",
@@ -5921,15 +5969,9 @@
     },
     {
       "url": "https://hashtagweb3.com/drw",
-      "lastmod": "2026-10-29",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/ds15",
-      "lastmod": "2026-10-01",
-      "changefreq": "daily",
-      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/ds16",
@@ -6149,7 +6191,7 @@
     },
     {
       "url": "https://hashtagweb3.com/edge",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -6185,7 +6227,7 @@
     },
     {
       "url": "https://hashtagweb3.com/elliptic",
-      "lastmod": "2026-10-24",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -6257,7 +6299,7 @@
     },
     {
       "url": "https://hashtagweb3.com/eng189",
-      "lastmod": "2026-10-01",
+      "lastmod": "2026-10-09",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -6485,7 +6527,7 @@
     },
     {
       "url": "https://hashtagweb3.com/eng323",
-      "lastmod": "2026-10-02",
+      "lastmod": "2026-10-23",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -7127,7 +7169,7 @@
     },
     {
       "url": "https://hashtagweb3.com/eng588",
-      "lastmod": "2026-10-13",
+      "lastmod": "2026-10-30",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -7139,7 +7181,7 @@
     },
     {
       "url": "https://hashtagweb3.com/eng590",
-      "lastmod": "2026-10-14",
+      "lastmod": "2026-10-30",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -7151,13 +7193,13 @@
     },
     {
       "url": "https://hashtagweb3.com/eng592",
-      "lastmod": "2026-10-14",
+      "lastmod": "2026-10-30",
       "changefreq": "daily",
       "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/eng593",
-      "lastmod": "2026-10-14",
+      "lastmod": "2026-10-30",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -7636,6 +7678,42 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/eng683",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/eng685",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/eng686",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/eng687",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/eng688",
+      "lastmod": "2026-10-31",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/eng689",
+      "lastmod": "2026-10-31",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/eng69",
       "lastmod": "2026-10-12",
       "changefreq": "daily",
@@ -7805,7 +7883,7 @@
     },
     {
       "url": "https://hashtagweb3.com/eth",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -7949,7 +8027,7 @@
     },
     {
       "url": "https://hashtagweb3.com/events",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -8273,7 +8351,7 @@
     },
     {
       "url": "https://hashtagweb3.com/figure",
-      "lastmod": "2026-10-28",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -8288,12 +8366,6 @@
       "lastmod": "2026-10-15",
       "changefreq": "weekly",
       "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/fin2",
-      "lastmod": "2026-09-30",
-      "changefreq": "daily",
-      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/fin3",
@@ -8345,7 +8417,7 @@
     },
     {
       "url": "https://hashtagweb3.com/fireblocks",
-      "lastmod": "2026-10-22",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -8411,7 +8483,7 @@
     },
     {
       "url": "https://hashtagweb3.com/flow-traders",
-      "lastmod": "2026-10-28",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -8453,7 +8525,7 @@
     },
     {
       "url": "https://hashtagweb3.com/forma",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -8633,7 +8705,7 @@
     },
     {
       "url": "https://hashtagweb3.com/ft",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -8711,7 +8783,7 @@
     },
     {
       "url": "https://hashtagweb3.com/galaxy-digital",
-      "lastmod": "2026-10-29",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -8776,8 +8848,14 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/gelephu",
+      "url": "https://hashtagweb3.com/gd",
       "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/gelephu",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -10115,7 +10193,7 @@
     },
     {
       "url": "https://hashtagweb3.com/hrg",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -10247,13 +10325,13 @@
     },
     {
       "url": "https://hashtagweb3.com/idao",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/ig",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -10313,7 +10391,7 @@
     },
     {
       "url": "https://hashtagweb3.com/infinita",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -10456,6 +10534,18 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/infra57",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/infra58",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/initial-dex-offering-complete-guide",
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
@@ -10570,6 +10660,18 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/int50",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/int51",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/intellecteu",
       "lastmod": "2026-10-14",
       "changefreq": "weekly",
@@ -10619,7 +10721,7 @@
     },
     {
       "url": "https://hashtagweb3.com/ipe",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -10721,7 +10823,7 @@
     },
     {
       "url": "https://hashtagweb3.com/itana",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -10769,7 +10871,7 @@
     },
     {
       "url": "https://hashtagweb3.com/jobs",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "daily",
       "priority": 0.9
     },
@@ -10793,7 +10895,7 @@
     },
     {
       "url": "https://hashtagweb3.com/jungli",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -10955,7 +11057,7 @@
     },
     {
       "url": "https://hashtagweb3.com/kraken",
-      "lastmod": "2026-10-29",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -11267,13 +11369,13 @@
     },
     {
       "url": "https://hashtagweb3.com/llms-full.txt",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.7
     },
     {
       "url": "https://hashtagweb3.com/llms.txt",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.8
     },
@@ -11303,7 +11405,7 @@
     },
     {
       "url": "https://hashtagweb3.com/logos-society",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -12184,6 +12286,60 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/mgr213",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/mgr214",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/mgr215",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/mgr216",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/mgr217",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/mgr218",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/mgr219",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/mgr220",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/mgr221",
+      "lastmod": "2026-10-31",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/mgr24",
       "lastmod": "2026-10-14",
       "changefreq": "daily",
@@ -12598,6 +12754,30 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/mkt132",
+      "lastmod": "2026-10-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/mkt133",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/mkt134",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/mkt135",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/mkt15",
       "lastmod": "2026-10-16",
       "changefreq": "daily",
@@ -12636,12 +12816,6 @@
     {
       "url": "https://hashtagweb3.com/mkt51",
       "lastmod": "2026-10-24",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/mkt55",
-      "lastmod": "2026-10-06",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -12767,7 +12941,7 @@
     },
     {
       "url": "https://hashtagweb3.com/ml",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -12881,7 +13055,7 @@
     },
     {
       "url": "https://hashtagweb3.com/morazan",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -12953,7 +13127,7 @@
     },
     {
       "url": "https://hashtagweb3.com/mtndao",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -12971,7 +13145,7 @@
     },
     {
       "url": "https://hashtagweb3.com/mu",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -13157,7 +13331,7 @@
     },
     {
       "url": "https://hashtagweb3.com/netx",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -13169,7 +13343,7 @@
     },
     {
       "url": "https://hashtagweb3.com/news",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "daily",
       "priority": 0.7
     },
@@ -13253,13 +13427,13 @@
     },
     {
       "url": "https://hashtagweb3.com/noma",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/nomad",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -13307,7 +13481,7 @@
     },
     {
       "url": "https://hashtagweb3.com/ns",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -13427,7 +13601,7 @@
     },
     {
       "url": "https://hashtagweb3.com/okx",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -13679,7 +13853,7 @@
     },
     {
       "url": "https://hashtagweb3.com/ops118",
-      "lastmod": "2026-10-20",
+      "lastmod": "2026-10-30",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -13752,6 +13926,18 @@
     {
       "url": "https://hashtagweb3.com/ops130",
       "lastmod": "2026-10-28",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/ops132",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/ops133",
+      "lastmod": "2026-10-30",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -13859,7 +14045,7 @@
     },
     {
       "url": "https://hashtagweb3.com/ops78",
-      "lastmod": "2026-10-01",
+      "lastmod": "2026-10-30",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -14015,7 +14201,7 @@
     },
     {
       "url": "https://hashtagweb3.com/oz",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -14291,7 +14477,7 @@
     },
     {
       "url": "https://hashtagweb3.com/plasma",
-      "lastmod": "2026-10-27",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -15316,8 +15502,50 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/pm348",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/pm349",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/pm35",
       "lastmod": "2026-10-16",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/pm350",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/pm351",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/pm352",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/pm353",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/pm354",
+      "lastmod": "2026-10-30",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -15437,13 +15665,13 @@
     },
     {
       "url": "https://hashtagweb3.com/polygon-labs",
-      "lastmod": "2026-10-26",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/polymarket",
-      "lastmod": "2026-10-28",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -15479,7 +15707,7 @@
     },
     {
       "url": "https://hashtagweb3.com/popups",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.7
     },
@@ -15635,7 +15863,7 @@
     },
     {
       "url": "https://hashtagweb3.com/praxis",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -15677,7 +15905,7 @@
     },
     {
       "url": "https://hashtagweb3.com/privacy",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "monthly",
       "priority": 0.7
     },
@@ -15785,13 +16013,13 @@
     },
     {
       "url": "https://hashtagweb3.com/prospera",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/proto",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -15904,18 +16132,6 @@
       "priority": 0.6
     },
     {
-      "url": "https://hashtagweb3.com/pvcc",
-      "lastmod": "2026-10-12",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/pvcc2",
-      "lastmod": "2026-10-12",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/python-for-ai-complete-tutorial",
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
@@ -15972,6 +16188,12 @@
     {
       "url": "https://hashtagweb3.com/qa95",
       "lastmod": "2026-10-28",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/qa96",
+      "lastmod": "2026-10-30",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -16097,7 +16319,7 @@
     },
     {
       "url": "https://hashtagweb3.com/ramp",
-      "lastmod": "2026-10-28",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -16493,7 +16715,7 @@
     },
     {
       "url": "https://hashtagweb3.com/ripple",
-      "lastmod": "2026-10-29",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -16523,7 +16745,7 @@
     },
     {
       "url": "https://hashtagweb3.com/rns",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -16775,7 +16997,7 @@
     },
     {
       "url": "https://hashtagweb3.com/sardine",
-      "lastmod": "2026-10-29",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -17050,6 +17272,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/sec138",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/sec14",
       "lastmod": "2026-10-01",
       "changefreq": "daily",
@@ -17213,7 +17441,7 @@
     },
     {
       "url": "https://hashtagweb3.com/sec80",
-      "lastmod": "2026-10-01",
+      "lastmod": "2026-10-30",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -17603,7 +17831,7 @@
     },
     {
       "url": "https://hashtagweb3.com/shw",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -17860,12 +18088,6 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/sls175",
-      "lastmod": "2026-10-08",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/sls176",
       "lastmod": "2026-10-28",
       "changefreq": "daily",
@@ -17886,12 +18108,6 @@
     {
       "url": "https://hashtagweb3.com/sls182",
       "lastmod": "2026-10-28",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/sls186",
-      "lastmod": "2026-10-02",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -17927,7 +18143,7 @@
     },
     {
       "url": "https://hashtagweb3.com/sls199",
-      "lastmod": "2026-09-30",
+      "lastmod": "2026-10-02",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -18419,13 +18635,13 @@
     },
     {
       "url": "https://hashtagweb3.com/sls317",
-      "lastmod": "2026-10-20",
+      "lastmod": "2026-10-16",
       "changefreq": "daily",
       "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/sls318",
-      "lastmod": "2026-10-20",
+      "lastmod": "2026-10-30",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -18725,6 +18941,66 @@
     },
     {
       "url": "https://hashtagweb3.com/sls371",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sls372",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sls373",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sls374",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sls375",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sls376",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sls377",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sls378",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sls379",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sls380",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sls381",
       "lastmod": "2026-10-30",
       "changefreq": "daily",
       "priority": 0.8
@@ -19265,7 +19541,7 @@
     },
     {
       "url": "https://hashtagweb3.com/starbase",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -19385,7 +19661,7 @@
     },
     {
       "url": "https://hashtagweb3.com/straitsx",
-      "lastmod": "2026-10-20",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -19619,7 +19895,7 @@
     },
     {
       "url": "https://hashtagweb3.com/talos",
-      "lastmod": "2026-10-28",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -19667,7 +19943,7 @@
     },
     {
       "url": "https://hashtagweb3.com/tdf",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -20009,7 +20285,7 @@
     },
     {
       "url": "https://hashtagweb3.com/theresidency",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -20362,6 +20638,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/tr137",
+      "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/tr26",
       "lastmod": "2026-10-01",
       "changefreq": "daily",
@@ -20561,7 +20843,7 @@
     },
     {
       "url": "https://hashtagweb3.com/turnkey",
-      "lastmod": "2026-10-23",
+      "lastmod": "2026-10-30",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -20596,7 +20878,7 @@
       "priority": 0.6
     },
     {
-      "url": "https://hashtagweb3.com/udaf",
+      "url": "https://hashtagweb3.com/udaf2",
       "lastmod": "2026-10-22",
       "changefreq": "daily",
       "priority": 0.8
@@ -21070,8 +21352,14 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/vibe",
+      "url": "https://hashtagweb3.com/vf",
       "lastmod": "2026-10-30",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/vibe",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -21125,7 +21413,7 @@
     },
     {
       "url": "https://hashtagweb3.com/viva",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -21161,7 +21449,7 @@
     },
     {
       "url": "https://hashtagweb3.com/w3v",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -21194,6 +21482,12 @@
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/walrus-foundation",
+      "lastmod": "2026-10-30",
+      "changefreq": "weekly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/waltio",
@@ -22943,7 +23237,7 @@
     },
     {
       "url": "https://hashtagweb3.com/zanzalu",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -23105,37 +23399,37 @@
     },
     {
       "url": "https://hashtagweb3.com/zuafrique",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/zuberlin",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/zucity",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/zugrama",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/zui",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/zukas",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -23147,7 +23441,7 @@
     },
     {
       "url": "https://hashtagweb3.com/zuzalu",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
     },

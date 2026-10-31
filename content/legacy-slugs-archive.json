@@ -151707,5 +151707,137 @@
     "link": "https://boards.greenhouse.io/robinhood/jobs/8189213?t=gh_src=&gh_jid=8189213",
     "company": "Robinhood",
     "title": "Crypto Onchain Attorney"
+  },
+  "cssl2": {
+    "id": "8334234",
+    "link": "https://www.coinbase.com/careers/positions/8334234?gh_jid=8334234",
+    "company": "Coinbase",
+    "title": "Customer Support Specialist ll"
+  },
+  "css2": {
+    "id": "8334152",
+    "link": "https://www.coinbase.com/careers/positions/8334152?gh_jid=8334152",
+    "company": "Coinbase",
+    "title": "Customer Support Specialist II"
+  },
+  "ops118": {
+    "id": "8302496",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8302496?t=gh_src=&gh_jid=8302496",
+    "company": "Robinhood",
+    "title": "Campus Operations Manager"
+  },
+  "sls318": {
+    "id": "effaa2a9-4c98-49d7-aa0f-c5e44b5da8d0",
+    "link": "https://jobs.ashbyhq.com/0x/effaa2a9-4c98-49d7-aa0f-c5e44b5da8d0",
+    "company": "0x",
+    "title": "Business Development Manager, Crypto"
+  },
+  "sls317": {
+    "id": "4717630006",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4717630006",
+    "company": "Fireblocks",
+    "title": "Sales Director, Payments"
+  },
+  "eng593": {
+    "id": "8126314",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8126314?t=gh_src=&gh_jid=8126314",
+    "company": "Robinhood",
+    "title": "Senior Software Engineer, International"
+  },
+  "eng592": {
+    "id": "8126312",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8126312?t=gh_src=&gh_jid=8126312",
+    "company": "Robinhood",
+    "title": "Senior Software Engineer, International"
+  },
+  "bifc3": {
+    "id": "64cd245d-9483-4302-9f02-2f02d20d273c",
+    "link": "https://jobs.lever.co/crypto/64cd245d-9483-4302-9f02-2f02d20d273c",
+    "company": "Crypto.com",
+    "title": "Blockchain Investigator, Financial Crimes, Malta"
+  },
+  "eng590": {
+    "id": "6207262004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6207262004",
+    "company": "Alpaca",
+    "title": "Software Engineer, Securities Finance"
+  },
+  "eng588": {
+    "id": "a04294fa-aadb-40c4-ace9-4db84e0f1a7a",
+    "link": "https://jobs.ashbyhq.com/alchemy/a04294fa-aadb-40c4-ace9-4db84e0f1a7a",
+    "company": "Alchemy",
+    "title": "Senior Blockchain Engineer, Moonshot"
+  },
+  "am": {
+    "id": "5003790101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5003790101",
+    "company": "Bybit",
+    "title": "Admin Lead, Malaysia"
+  },
+  "pvcc2": {
+    "id": "4e95f0e7-46b9-4a40-8c3b-c0d8107f9082",
+    "link": "https://jobs.ashbyhq.com/kraken.com/4e95f0e7-46b9-4a40-8c3b-c0d8107f9082",
+    "company": "Kraken",
+    "title": "Senior Video Creative, Performance - Kraken Consumer"
+  },
+  "pvcc": {
+    "id": "9cdd4c99-0f19-4886-aa13-ca0327cec800",
+    "link": "https://jobs.ashbyhq.com/kraken.com/9cdd4c99-0f19-4886-aa13-ca0327cec800",
+    "company": "Kraken",
+    "title": "Senior Video Creative, Performance - Kraken Consumer"
+  },
+  "sls238": {
+    "id": "8250479",
+    "link": "https://stripe.com/jobs/search?gh_jid=8250479",
+    "company": "Stripe",
+    "title": "Account Executive, SMB Grower (French speaking)"
+  },
+  "eng323": {
+    "id": "8249901",
+    "link": "https://stripe.com/jobs/search?gh_jid=8249901",
+    "company": "Stripe",
+    "title": "Software Engineer"
+  },
+  "sec80": {
+    "id": "1167ee73-5d20-40c0-9f0d-cdf6f1e8988f",
+    "link": "https://jobs.ashbyhq.com/trm-labs/1167ee73-5d20-40c0-9f0d-cdf6f1e8988f",
+    "company": "TRM Labs",
+    "title": "Cloud Security Engineer"
+  },
+  "ops78": {
+    "id": "8010134003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8010134003",
+    "company": "OKX",
+    "title": "Global Financial Operations Platform Director"
+  },
+  "des6": {
+    "id": "7299a0d3-527f-4119-8d6a-7b64a020b169",
+    "link": "https://jobs.ashbyhq.com/trm-labs/7299a0d3-527f-4119-8d6a-7b64a020b169",
+    "company": "TRM Labs",
+    "title": "Instructional Designer, TRM Academy (Compliance)"
+  },
+  "ds15": {
+    "id": "47efd510-290c-4114-b4b5-8cfa384dd7dd",
+    "link": "https://jobs.ashbyhq.com/trm-labs/47efd510-290c-4114-b4b5-8cfa384dd7dd",
+    "company": "TRM Labs",
+    "title": "Deployment Strategist, Public Sector (Embedded Account)"
+  },
+  "eng189": {
+    "id": "JR101142",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Site-Reliability-Engineer---Infra-Ops_JR101142",
+    "company": "Circle",
+    "title": "Senior Site Reliability Engineer - Infra Ops"
+  },
+  "sls199": {
+    "id": "b55447c0-4adc-42eb-9ca2-f88fd44e0e5b",
+    "link": "https://jobs.ashbyhq.com/ramp/b55447c0-4adc-42eb-9ca2-f88fd44e0e5b",
+    "company": "Ramp",
+    "title": "Partner Development Representative | Accounting"
+  },
+  "fin2": {
+    "id": "1e7eb2e8-f257-42e3-aa1e-0b49d3081fea",
+    "link": "https://jobs.ashbyhq.com/ether.fi/1e7eb2e8-f257-42e3-aa1e-0b49d3081fea",
+    "company": "ether.fi",
+    "title": "Head of Finance"
   }
 }
