@@ -104801,7 +104801,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "688b99307c9c2e3b079e",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
       "attempts": 1,
       "expiresAt": "2026-10-31T19:01:53.000Z",
@@ -104847,7 +104847,8 @@
         }
       ],
       "reviewedAt": "2026-10-31T03:58:45.638Z",
-      "lastReviewedDay": "2026-10-31"
+      "lastReviewedDay": "2026-10-31",
+      "publishedAt": "2026-10-31T05:18:58.028Z"
     },
     "2426eedf8f085831572b": {
       "source": "The Defiant",
@@ -104903,7 +104904,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "ababcf9f363ddbe2a345",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
       "attempts": 1,
       "expiresAt": "2026-10-31T16:56:48.000Z",
@@ -104928,8 +104929,8 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "verified-event",
-      "note": "Re-read Altcoin Buzz and TokenPost 42942 on Oct. 31. The Oct. 28 roster of eight stock tokens matches across both sources and the Robinhood Crypto X post embedded in the Altcoin Buzz page; mainnet July 1 date and debt-security structure verified. Drafted robinhoodchain.md with a TechCrunch photo of Vlad Tenev. Distinct from the AMC-dispute robinhood-tokens article.",
+      "reason": "quality-gate",
+      "note": "Actual article audits still failed after bounded repair attempts: robinhoodchain.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
       "sourceChecks": [
         {
           "url": "https://www.altcoinbuzz.io/robinhood-chain-adds-eight-tokenized-stocks",
@@ -104940,8 +104941,35 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-31T03:58:45.638Z",
-      "lastReviewedDay": "2026-10-31"
+      "reviewedAt": "2026-10-31T05:18:45.458Z",
+      "lastReviewedDay": "2026-10-31",
+      "retrySearches": [
+        "Repair and revalidate the preserved robinhoodchain draft against its original sources: robinhoodchain.md: under 600 words"
+      ],
+      "nextReviewDate": "2026-11-01",
+      "qualityIsolation": {
+        "previousReview": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Altcoin Buzz and TokenPost 42942 on Oct. 31. The Oct. 28 roster of eight stock tokens matches across both sources and the Robinhood Crypto X post embedded in the Altcoin Buzz page; mainnet July 1 date and debt-security structure verified. Drafted robinhoodchain.md with a TechCrunch photo of Vlad Tenev. Distinct from the AMC-dispute robinhood-tokens article.",
+          "sourceChecks": [
+            {
+              "url": "https://www.altcoinbuzz.io/robinhood-chain-adds-eight-tokenized-stocks",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/business/42942",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T03:58:45.638Z",
+          "articleSlug": "robinhoodchain"
+        },
+        "validationErrors": [
+          "robinhoodchain.md: under 600 words"
+        ],
+        "isolatedAt": "2026-10-31T05:18:45.458Z"
+      }
     },
     "9de5cd94a762e3660bde": {
       "source": "The Block",
@@ -105029,7 +105057,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "5b7a8eed12aafa62d842",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
       "attempts": 1,
       "expiresAt": "2026-10-31T14:14:36.000Z",
@@ -105054,8 +105082,8 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "verified-event",
-      "note": "Verified Bessent Oct. 27 Swell remarks across Bitcoin Magazine and Bitcoin.com News: SEC/CFTC coordination after Clarity Act 49-50 failure, stablecoin dollar share above 90 percent, no formal plan or timeline.",
+      "reason": "quality-gate",
+      "note": "Actual article audits still failed after bounded repair attempts: bessent.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
       "sourceChecks": [
         {
           "url": "https://bitcoinmagazine.com/news/treasury-says-win-in-the-digital-asset",
@@ -105066,8 +105094,35 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-31T04:19:51.974Z",
-      "lastReviewedDay": "2026-10-31"
+      "reviewedAt": "2026-10-31T05:18:45.458Z",
+      "lastReviewedDay": "2026-10-31",
+      "retrySearches": [
+        "Repair and revalidate the preserved bessent draft against its original sources: bessent.md: under 600 words"
+      ],
+      "nextReviewDate": "2026-11-01",
+      "qualityIsolation": {
+        "previousReview": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Bessent Oct. 27 Swell remarks across Bitcoin Magazine and Bitcoin.com News: SEC/CFTC coordination after Clarity Act 49-50 failure, stablecoin dollar share above 90 percent, no formal plan or timeline.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/treasury-says-win-in-the-digital-asset",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bitcoin.com/regulation-and-legal/bessent-clarity-act-plan-b-ripple-swell/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T04:19:51.974Z",
+          "articleSlug": "bessent"
+        },
+        "validationErrors": [
+          "bessent.md: under 600 words"
+        ],
+        "isolatedAt": "2026-10-31T05:18:45.458Z"
+      }
     },
     "415ee5aff505874490c6": {
       "source": "Decrypt",
@@ -105084,7 +105139,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "415ee5aff505874490c6",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
       "attempts": 2,
       "expiresAt": "2026-10-31T13:38:08.000Z",
@@ -105129,7 +105184,8 @@
       "retrySearches": [
         "Open Ars Technica or Spotlight Delaware reporting on Comer's Oct. 26 letter to Gov. Meyer about the Delaware AIC and confirm independent details before drafting"
       ],
-      "lastReviewedDay": "2026-10-31"
+      "lastReviewedDay": "2026-10-31",
+      "publishedAt": "2026-10-31T05:18:58.028Z"
     },
     "8fc89eddfe8a98cbd66e": {
       "source": "The Defiant",
@@ -105146,7 +105202,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "8fc89eddfe8a98cbd66e",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
       "attempts": 1,
       "expiresAt": "2026-10-31T13:19:46.000Z",
@@ -105167,8 +105223,8 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "verified-event",
-      "note": "Verified the DTCC Tokenization Service launch across Ondo's Oct. 29 blog and Ledger Insights' independent Oct. 28 report; drafted dtslive.md.",
+      "reason": "quality-gate",
+      "note": "Actual article audits still failed after bounded repair attempts: dtslive.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
       "sourceChecks": [
         {
           "url": "https://ondo.finance/blog/dtcc-tokenization-service-is-live",
@@ -105179,8 +105235,35 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-31T04:23:46.173Z",
-      "lastReviewedDay": "2026-10-31"
+      "reviewedAt": "2026-10-31T05:18:45.458Z",
+      "lastReviewedDay": "2026-10-31",
+      "retrySearches": [
+        "Repair and revalidate the preserved dtslive draft against its original sources: dtslive.md: under 600 words"
+      ],
+      "nextReviewDate": "2026-11-01",
+      "qualityIsolation": {
+        "previousReview": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the DTCC Tokenization Service launch across Ondo's Oct. 29 blog and Ledger Insights' independent Oct. 28 report; drafted dtslive.md.",
+          "sourceChecks": [
+            {
+              "url": "https://ondo.finance/blog/dtcc-tokenization-service-is-live",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.ledgerinsights.com/alpaca-citi-jp-morgan-among-early-adopters-as-dtcc-tokenization-service-goes-live/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T04:23:46.173Z",
+          "articleSlug": "dtslive"
+        },
+        "validationErrors": [
+          "dtslive.md: under 600 words"
+        ],
+        "isolatedAt": "2026-10-31T05:18:45.458Z"
+      }
     },
     "8d2242eab8a1e38b4662": {
       "source": "Decrypt",
@@ -108973,7 +109056,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "1c9b106c0d67f0a193e6",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
       "attempts": 1,
       "expiresAt": "2026-11-02T09:58:07.000Z",
@@ -108996,7 +109079,8 @@
       ],
       "reviewedAt": "2026-10-31T04:09:18.480Z",
       "articleSlug": "spacexstake",
-      "lastReviewedDay": "2026-10-31"
+      "lastReviewedDay": "2026-10-31",
+      "publishedAt": "2026-10-31T05:18:58.028Z"
     },
     "1293da5372bad034a595": {
       "source": "Cointelegraph",
@@ -109385,7 +109469,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "74f2227737b03a0e953c",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
       "attempts": 1,
       "expiresAt": "2026-11-02T05:43:07.000Z",
@@ -109412,7 +109496,8 @@
       ],
       "reviewedAt": "2026-10-31T04:39:08.117Z",
       "articleSlug": "coindcxfutures",
-      "lastReviewedDay": "2026-10-31"
+      "lastReviewedDay": "2026-10-31",
+      "publishedAt": "2026-10-31T05:18:58.028Z"
     },
     "9d95ce61ced6727edb05": {
       "source": "CryptoSlate",
@@ -114080,7 +114165,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "44ecef98039b3e014e72",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-10-31T03:31:46.182Z",
       "attempts": 1,
       "expiresAt": "2026-11-02T21:16:04.000Z",
@@ -114105,8 +114190,8 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "verified-event",
-      "note": "Re-read Decrypt 382285 and the CNBC video page on Oct. 31. Selig's Oct. 30 Squawk on the Street quotes, the laptop-vulnerability account, the additional-points-of-breach update from Teng, and the $6.34B reserve figure all verified in the two sources. Drafted cftchack.md with CFTC headquarters hero from Wikimedia.",
+      "reason": "quality-gate",
+      "note": "Actual article audits still failed after bounded repair attempts: cftchack.md: template phrasing: leverag(?:e|ing). Draft and original source checks are retained for repair; this article was not published.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
@@ -114117,8 +114202,35 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-31T03:58:45.637Z",
-      "lastReviewedDay": "2026-10-31"
+      "reviewedAt": "2026-10-31T05:18:45.458Z",
+      "lastReviewedDay": "2026-10-31",
+      "retrySearches": [
+        "Repair and revalidate the preserved cftchack draft against its original sources: cftchack.md: template phrasing: leverag(?:e|ing)"
+      ],
+      "nextReviewDate": "2026-11-01",
+      "qualityIsolation": {
+        "previousReview": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Decrypt 382285 and the CNBC video page on Oct. 31. Selig's Oct. 30 Squawk on the Street quotes, the laptop-vulnerability account, the additional-points-of-breach update from Teng, and the $6.34B reserve figure all verified in the two sources. Drafted cftchack.md with CFTC headquarters hero from Wikimedia.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cnbc.com/video/2026/10/30/cftc-chair-on-binance-hack-these-are-unregulated-offshare-exchanges.html",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T03:58:45.637Z",
+          "articleSlug": "cftchack"
+        },
+        "validationErrors": [
+          "cftchack.md: template phrasing: leverag(?:e|ing)"
+        ],
+        "isolatedAt": "2026-10-31T05:18:45.458Z"
+      }
     },
     "b3b596fab6fff05dacfb": {
       "source": "CoinDesk",
@@ -114174,7 +114286,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "e8a0cc4f409e9496577b",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-10-31T03:31:46.182Z",
       "attempts": 1,
       "expiresAt": "2026-11-02T21:16:54.000Z",
@@ -114199,8 +114311,8 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "verified-event",
-      "note": "Re-read Crypto Briefing and TokenPost 45172 on Oct. 31. Both confirm Lummis's Oct. 30 statement that the Clarity Act would put Binance in the covered-person category, and both preserve that the bill stalled after the September cloture failure. Drafted lummisclarity.md with a Gage Skidmore photo of Lummis.",
+      "reason": "quality-gate",
+      "note": "Actual article audits still failed after bounded repair attempts: lummisclarity.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/clarity-act-could-classify-binance-as-covered-person-says-lummis/",
@@ -114211,8 +114323,35 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-31T03:58:45.637Z",
-      "lastReviewedDay": "2026-10-31"
+      "reviewedAt": "2026-10-31T05:18:45.458Z",
+      "lastReviewedDay": "2026-10-31",
+      "retrySearches": [
+        "Repair and revalidate the preserved lummisclarity draft against its original sources: lummisclarity.md: under 600 words"
+      ],
+      "nextReviewDate": "2026-11-01",
+      "qualityIsolation": {
+        "previousReview": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Crypto Briefing and TokenPost 45172 on Oct. 31. Both confirm Lummis's Oct. 30 statement that the Clarity Act would put Binance in the covered-person category, and both preserve that the bill stalled after the September cloture failure. Drafted lummisclarity.md with a Gage Skidmore photo of Lummis.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/clarity-act-could-classify-binance-as-covered-person-says-lummis/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/regulation/45172",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T03:58:45.637Z",
+          "articleSlug": "lummisclarity"
+        },
+        "validationErrors": [
+          "lummisclarity.md: under 600 words"
+        ],
+        "isolatedAt": "2026-10-31T05:18:45.458Z"
+      }
     },
     "7e83a11224f244c8fb2e": {
       "source": "Crypto Briefing",
@@ -115136,7 +115275,7 @@
         "The Defiant"
       ],
       "id": "41687ee10fb86446183e",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-31T03:31:46.182Z",
       "attempts": 1,
       "expiresAt": "2026-11-02T13:14:56.000Z",
@@ -115202,7 +115341,8 @@
         }
       ],
       "reviewedAt": "2026-10-31T03:43:59.297Z",
-      "lastReviewedDay": "2026-10-31"
+      "lastReviewedDay": "2026-10-31",
+      "publishedAt": "2026-10-31T05:18:58.028Z"
     },
     "2367313e9c0d287c0847": {
       "source": "Cointelegraph",
@@ -203103,7 +203243,7 @@
     "2026-10-31": {
       "day": "2026-10-31",
       "startedAt": "2026-10-31T03:31:46.182Z",
-      "status": "prepared",
+      "status": "incomplete",
       "candidateIds": [
         "be7b7c2c9f808b839161",
         "1b466b2ecd15e5bdd185",
@@ -206040,7 +206180,7 @@
           ]
         },
         "41687ee10fb86446183e": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Wrote binancecover.md on Binance reserving $6.34B to cover the Oct. 29 hack. Verified against Decrypt 382237 (Teng video, $5B in affected tokens, EIP-7702 delegation, Arkham TRX movement, CZ comment), Crypto Briefing proof-of-reserves article (second security update, 34-hour withdrawal target, Nov. 2 PoR, ~$3B frozen separately), and CNBC (TRM Labs $6.36B/10-chain estimate, TraderTraitor attribution, Fundstrat Farrell solvency view). The Block and The Defiant feed URLs return Cloudflare 403; Binance primary announcement is AWS-WAF gated, so the story cites the three readable independent reports.",
           "sourceChecks": [
@@ -206070,7 +206210,8 @@
             }
           ],
           "reviewedAt": "2026-10-31T03:43:59.297Z",
-          "articleSlug": "binancecover"
+          "articleSlug": "binancecover",
+          "publishedAt": "2026-10-31T05:18:58.028Z"
         },
         "a084f31192741f001eff": {
           "status": "deferred",
@@ -206141,9 +206282,9 @@
           ]
         },
         "44ecef98039b3e014e72": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-read Decrypt 382285 and the CNBC video page on Oct. 31. Selig's Oct. 30 Squawk on the Street quotes, the laptop-vulnerability account, the additional-points-of-breach update from Teng, and the $6.34B reserve figure all verified in the two sources. Drafted cftchack.md with CFTC headquarters hero from Wikimedia.",
+          "status": "deferred",
+          "reason": "quality-gate",
+          "note": "Actual article audits still failed after bounded repair attempts: cftchack.md: template phrasing: leverag(?:e|ing). Draft and original source checks are retained for repair; this article was not published.",
           "sourceChecks": [
             {
               "url": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
@@ -206154,13 +206295,39 @@
               "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-10-31T03:58:45.637Z",
-          "articleSlug": "cftchack"
+          "reviewedAt": "2026-10-31T05:18:45.458Z",
+          "articleSlug": "cftchack",
+          "retrySearches": [
+            "Repair and revalidate the preserved cftchack draft against its original sources: cftchack.md: template phrasing: leverag(?:e|ing)"
+          ],
+          "qualityIsolation": {
+            "previousReview": {
+              "status": "ready",
+              "reason": "verified-event",
+              "note": "Re-read Decrypt 382285 and the CNBC video page on Oct. 31. Selig's Oct. 30 Squawk on the Street quotes, the laptop-vulnerability account, the additional-points-of-breach update from Teng, and the $6.34B reserve figure all verified in the two sources. Drafted cftchack.md with CFTC headquarters hero from Wikimedia.",
+              "sourceChecks": [
+                {
+                  "url": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://www.cnbc.com/video/2026/10/30/cftc-chair-on-binance-hack-these-are-unregulated-offshare-exchanges.html",
+                  "outcome": "read"
+                }
+              ],
+              "reviewedAt": "2026-10-31T03:58:45.637Z",
+              "articleSlug": "cftchack"
+            },
+            "validationErrors": [
+              "cftchack.md: template phrasing: leverag(?:e|ing)"
+            ],
+            "isolatedAt": "2026-10-31T05:18:45.458Z"
+          }
         },
         "e8a0cc4f409e9496577b": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-read Crypto Briefing and TokenPost 45172 on Oct. 31. Both confirm Lummis's Oct. 30 statement that the Clarity Act would put Binance in the covered-person category, and both preserve that the bill stalled after the September cloture failure. Drafted lummisclarity.md with a Gage Skidmore photo of Lummis.",
+          "status": "deferred",
+          "reason": "quality-gate",
+          "note": "Actual article audits still failed after bounded repair attempts: lummisclarity.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
           "sourceChecks": [
             {
               "url": "https://cryptobriefing.com/clarity-act-could-classify-binance-as-covered-person-says-lummis/",
@@ -206171,8 +206338,34 @@
               "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-10-31T03:58:45.637Z",
-          "articleSlug": "lummisclarity"
+          "reviewedAt": "2026-10-31T05:18:45.458Z",
+          "articleSlug": "lummisclarity",
+          "retrySearches": [
+            "Repair and revalidate the preserved lummisclarity draft against its original sources: lummisclarity.md: under 600 words"
+          ],
+          "qualityIsolation": {
+            "previousReview": {
+              "status": "ready",
+              "reason": "verified-event",
+              "note": "Re-read Crypto Briefing and TokenPost 45172 on Oct. 31. Both confirm Lummis's Oct. 30 statement that the Clarity Act would put Binance in the covered-person category, and both preserve that the bill stalled after the September cloture failure. Drafted lummisclarity.md with a Gage Skidmore photo of Lummis.",
+              "sourceChecks": [
+                {
+                  "url": "https://cryptobriefing.com/clarity-act-could-classify-binance-as-covered-person-says-lummis/",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://www.tokenpost.com/news/regulation/45172",
+                  "outcome": "read"
+                }
+              ],
+              "reviewedAt": "2026-10-31T03:58:45.637Z",
+              "articleSlug": "lummisclarity"
+            },
+            "validationErrors": [
+              "lummisclarity.md: under 600 words"
+            ],
+            "isolatedAt": "2026-10-31T05:18:45.458Z"
+          }
         },
         "7e83a11224f244c8fb2e": {
           "status": "rejected",
@@ -206189,7 +206382,7 @@
           "mergedInto": "e8a0cc4f409e9496577b"
         },
         "688b99307c9c2e3b079e": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read the CFTC Frontier Forum speech (primary) and NextPredict's forum report on Oct. 31. Selig's KYA questions, the panel liability hypotheticals, the Harrison and Jain quotes, and the no-action relief context verified. Drafted selig.md with a Capitol dusk photo; CoinDesk remains 429 but two independent readable sites stand.",
           "sourceChecks": [
@@ -206207,12 +206400,13 @@
             }
           ],
           "reviewedAt": "2026-10-31T03:58:45.638Z",
-          "articleSlug": "selig"
+          "articleSlug": "selig",
+          "publishedAt": "2026-10-31T05:18:58.028Z"
         },
         "ababcf9f363ddbe2a345": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-read Altcoin Buzz and TokenPost 42942 on Oct. 31. The Oct. 28 roster of eight stock tokens matches across both sources and the Robinhood Crypto X post embedded in the Altcoin Buzz page; mainnet July 1 date and debt-security structure verified. Drafted robinhoodchain.md with a TechCrunch photo of Vlad Tenev. Distinct from the AMC-dispute robinhood-tokens article.",
+          "status": "deferred",
+          "reason": "quality-gate",
+          "note": "Actual article audits still failed after bounded repair attempts: robinhoodchain.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
           "sourceChecks": [
             {
               "url": "https://www.altcoinbuzz.io/robinhood-chain-adds-eight-tokenized-stocks",
@@ -206223,8 +206417,34 @@
               "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-10-31T03:58:45.638Z",
-          "articleSlug": "robinhoodchain"
+          "reviewedAt": "2026-10-31T05:18:45.458Z",
+          "articleSlug": "robinhoodchain",
+          "retrySearches": [
+            "Repair and revalidate the preserved robinhoodchain draft against its original sources: robinhoodchain.md: under 600 words"
+          ],
+          "qualityIsolation": {
+            "previousReview": {
+              "status": "ready",
+              "reason": "verified-event",
+              "note": "Re-read Altcoin Buzz and TokenPost 42942 on Oct. 31. The Oct. 28 roster of eight stock tokens matches across both sources and the Robinhood Crypto X post embedded in the Altcoin Buzz page; mainnet July 1 date and debt-security structure verified. Drafted robinhoodchain.md with a TechCrunch photo of Vlad Tenev. Distinct from the AMC-dispute robinhood-tokens article.",
+              "sourceChecks": [
+                {
+                  "url": "https://www.altcoinbuzz.io/robinhood-chain-adds-eight-tokenized-stocks",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://www.tokenpost.com/news/business/42942",
+                  "outcome": "read"
+                }
+              ],
+              "reviewedAt": "2026-10-31T03:58:45.638Z",
+              "articleSlug": "robinhoodchain"
+            },
+            "validationErrors": [
+              "robinhoodchain.md: under 600 words"
+            ],
+            "isolatedAt": "2026-10-31T05:18:45.458Z"
+          }
         },
         "0c372b539fba35d1e876": {
           "status": "rejected",
@@ -206283,7 +206503,7 @@
           "reviewedAt": "2026-10-31T04:07:03.673Z"
         },
         "1c9b106c0d67f0a193e6": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified CZ's X exchange with Musk and Yi He's revenue reply across Crypto Briefing, Bitcoin.com News and CNA/Reuters; SPCX stake from the $500M Twitter investment valued above $1B per CZ; drafted spacexstake.md with three readable independent sites.",
           "sourceChecks": [
@@ -206301,7 +206521,8 @@
             }
           ],
           "reviewedAt": "2026-10-31T04:09:18.480Z",
-          "articleSlug": "spacexstake"
+          "articleSlug": "spacexstake",
+          "publishedAt": "2026-10-31T05:18:58.028Z"
         },
         "a258dfba01720d584de7": {
           "status": "rejected",
@@ -206322,9 +206543,9 @@
           "mergedInto": "1c9b106c0d67f0a193e6"
         },
         "5b7a8eed12aafa62d842": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Verified Bessent Oct. 27 Swell remarks across Bitcoin Magazine and Bitcoin.com News: SEC/CFTC coordination after Clarity Act 49-50 failure, stablecoin dollar share above 90 percent, no formal plan or timeline.",
+          "status": "deferred",
+          "reason": "quality-gate",
+          "note": "Actual article audits still failed after bounded repair attempts: bessent.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
           "sourceChecks": [
             {
               "url": "https://bitcoinmagazine.com/news/treasury-says-win-in-the-digital-asset",
@@ -206335,11 +206556,37 @@
               "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-10-31T04:19:51.974Z",
-          "articleSlug": "bessent"
+          "reviewedAt": "2026-10-31T05:18:45.458Z",
+          "articleSlug": "bessent",
+          "retrySearches": [
+            "Repair and revalidate the preserved bessent draft against its original sources: bessent.md: under 600 words"
+          ],
+          "qualityIsolation": {
+            "previousReview": {
+              "status": "ready",
+              "reason": "verified-event",
+              "note": "Verified Bessent Oct. 27 Swell remarks across Bitcoin Magazine and Bitcoin.com News: SEC/CFTC coordination after Clarity Act 49-50 failure, stablecoin dollar share above 90 percent, no formal plan or timeline.",
+              "sourceChecks": [
+                {
+                  "url": "https://bitcoinmagazine.com/news/treasury-says-win-in-the-digital-asset",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://news.bitcoin.com/regulation-and-legal/bessent-clarity-act-plan-b-ripple-swell/",
+                  "outcome": "read"
+                }
+              ],
+              "reviewedAt": "2026-10-31T04:19:51.974Z",
+              "articleSlug": "bessent"
+            },
+            "validationErrors": [
+              "bessent.md: under 600 words"
+            ],
+            "isolatedAt": "2026-10-31T05:18:45.458Z"
+          }
         },
         "415ee5aff505874490c6": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Comer Oct. 26 letter to Gov. Meyer on Delaware AIC across Decrypt and WHYY with original Delaware-side quotes; primary committee release previously read. Nov. 9 document deadline confirmed.",
           "sourceChecks": [
@@ -206357,12 +206604,13 @@
             }
           ],
           "reviewedAt": "2026-10-31T04:19:54.805Z",
-          "articleSlug": "comer"
+          "articleSlug": "comer",
+          "publishedAt": "2026-10-31T05:18:58.028Z"
         },
         "8fc89eddfe8a98cbd66e": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Verified the DTCC Tokenization Service launch across Ondo's Oct. 29 blog and Ledger Insights' independent Oct. 28 report; drafted dtslive.md.",
+          "status": "deferred",
+          "reason": "quality-gate",
+          "note": "Actual article audits still failed after bounded repair attempts: dtslive.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
           "sourceChecks": [
             {
               "url": "https://ondo.finance/blog/dtcc-tokenization-service-is-live",
@@ -206373,8 +206621,34 @@
               "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-10-31T04:23:46.173Z",
-          "articleSlug": "dtslive"
+          "reviewedAt": "2026-10-31T05:18:45.458Z",
+          "articleSlug": "dtslive",
+          "retrySearches": [
+            "Repair and revalidate the preserved dtslive draft against its original sources: dtslive.md: under 600 words"
+          ],
+          "qualityIsolation": {
+            "previousReview": {
+              "status": "ready",
+              "reason": "verified-event",
+              "note": "Verified the DTCC Tokenization Service launch across Ondo's Oct. 29 blog and Ledger Insights' independent Oct. 28 report; drafted dtslive.md.",
+              "sourceChecks": [
+                {
+                  "url": "https://ondo.finance/blog/dtcc-tokenization-service-is-live",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://www.ledgerinsights.com/alpaca-citi-jp-morgan-among-early-adopters-as-dtcc-tokenization-service-goes-live/",
+                  "outcome": "read"
+                }
+              ],
+              "reviewedAt": "2026-10-31T04:23:46.173Z",
+              "articleSlug": "dtslive"
+            },
+            "validationErrors": [
+              "dtslive.md: under 600 words"
+            ],
+            "isolatedAt": "2026-10-31T05:18:45.458Z"
+          }
         },
         "1c6967cbacb912ef18ef": {
           "status": "rejected",
@@ -206451,7 +206725,7 @@
           ]
         },
         "74f2227737b03a0e953c": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Opened and read New Indian Express and InvestIn.News in full; verified CoinDCX's Oct. 30 reduce-only notice and its quoted text, the trading rules during the restriction, the spokesperson-identified Binance link as reported by InvestIn.News, and the same-day reopening with SOPH, ERA, GTC and LA still limited with no date. Cointelegraph's live coverage, also opened and read, supplies the Binance incident figures used as context in the draft.",
           "sourceChecks": [
@@ -206473,7 +206747,8 @@
             }
           ],
           "reviewedAt": "2026-10-31T04:39:08.117Z",
-          "articleSlug": "coindcxfutures"
+          "articleSlug": "coindcxfutures",
+          "publishedAt": "2026-10-31T05:18:58.028Z"
         },
         "23430ada7d0f6792ddfe": {
           "status": "rejected",
@@ -207001,6 +207276,520 @@
         ],
         "total": 181,
         "checkedAt": "2026-10-31T03:31:46.182Z"
+      },
+      "validationErrors": [],
+      "publication": {
+        "status": "completed",
+        "completedAt": "2026-10-31T05:18:58.028Z",
+        "publishedIds": [
+          "688b99307c9c2e3b079e",
+          "415ee5aff505874490c6",
+          "1c9b106c0d67f0a193e6",
+          "74f2227737b03a0e953c",
+          "41687ee10fb86446183e"
+        ],
+        "articleSlugs": [
+          "selig",
+          "comer",
+          "spacexstake",
+          "coindcxfutures",
+          "binancecover"
+        ],
+        "pendingIds": [
+          "11987fa1907dcf8fbd8f",
+          "2426eedf8f085831572b",
+          "ababcf9f363ddbe2a345",
+          "9de5cd94a762e3660bde",
+          "5b7a8eed12aafa62d842",
+          "8fc89eddfe8a98cbd66e",
+          "9200d0baca7ed0d83da5",
+          "d9d3a16a7e25d4dddaa7",
+          "98c88828854438666ae8",
+          "30453d81b5088ec22b94",
+          "2887e1c19cc095cd0ec3",
+          "2734f925d3f9bc09d90d",
+          "2482fce5415d0573eaa9",
+          "0ab5c465b464d867c54c",
+          "32fb250be0fce72914e7",
+          "f2a8d6870762467fed40",
+          "84d84028a9ce2bf4ee55",
+          "da2ba8e4f49c57026156",
+          "ecaa604d1811daf6170c",
+          "59665d29b6f94827fe96",
+          "8f68b9804d0f89d50cc6",
+          "80af2b4a087c1a1c80dc",
+          "d840ea8bb7c0202402cd",
+          "89fb28f36e18c2d1f589",
+          "453943aa5edaaed2820b",
+          "52328fb68fa93c0ae07a",
+          "c3a4567967bf83962230",
+          "206bcb7ef6f7cc25e7b6",
+          "a22e0c366abbaf4dc9d0",
+          "a5c931d2f356f90a11dc",
+          "f06db8bd5239c03c0348",
+          "ad4a7264660a7d5c5f14",
+          "f56004287baecd76a0cc",
+          "9dbd02b371af65ae8be8",
+          "7c83a2d45a497d62184c",
+          "950a8e287f6e7600e7b9",
+          "7a9ae23b28f531458d67",
+          "508ed73d5596775ec2b2",
+          "369b3813d7880d71ab6e",
+          "380b474d25466384b25a",
+          "5f50e6252f9add0a385c",
+          "b342bf717a96b1924011",
+          "585a45cd3b4c050a1248",
+          "2feb6aa3ea613782da80",
+          "28face29704228ae067c",
+          "d48d278dd541131c2289",
+          "6ba079c672e881eebb23",
+          "b538c5dbae55202d6f74",
+          "ebdd2413eb89dd8cd95a",
+          "0b4b2a78903a9a65c3f6",
+          "85f79c6ba8af0158443a",
+          "45fdcf5f48d47fba5873",
+          "b6c7cc38a4ebebf64ca7",
+          "d5e7b5cb35ff28932cdc",
+          "a50b81bfed3f6cbf5bd8",
+          "f804b1c473dbb1bb5999",
+          "e0f271b343c492927866",
+          "ba52bef14335b0c2bfbb",
+          "7707485735896d4340a1",
+          "73b32ca963f164663574",
+          "10df54398f3f304801ed",
+          "3b8cf0d46be780be1196",
+          "693eb06fb9075465e48e",
+          "0e3727568a372397a898",
+          "77312f1b097e9808f3a6",
+          "327f52f8dc705f93f678",
+          "595dca2c68e2bdde5f31",
+          "345ed875cd7783068118",
+          "35790cdefb125712b306",
+          "be46e5c5cd41d481ac65",
+          "1661b039026bf88efd3b",
+          "ff158beacfcf8da4e887",
+          "b3e8d845c7b566bc8dd3",
+          "a1ca5ddbd780a1ec03a5",
+          "a9ee6e1063725b67ce81",
+          "8af69d3e0ad54f0f0778",
+          "1b4f35a3eb0d1a80ae3a",
+          "3d21dd736cded29b06df",
+          "81e86fc093f588c16dd8",
+          "01ec83dcfcbca1677928",
+          "97db8568fe3929ee0e34",
+          "8f5bc228665302233564",
+          "c59e9a18559c98b9cfa5",
+          "1cddd8dc000b3a6a08f5",
+          "b1c41f1022e53e121b57",
+          "e3d6ba9df218a3d1d0f5",
+          "1db874003e3ea3c95c58",
+          "51f3a25c36b01484b3c7",
+          "f358ff546cc8ffa91c95",
+          "9fdc2e7b9c211493aef6",
+          "4196ad09d1bb1f018976",
+          "d23b9db6d0390d3e2095",
+          "efd242bbf5d4fc61b539",
+          "572aa372d642b0f1ec84",
+          "da0815ce042450f02b7c",
+          "2982b2068ef364993347",
+          "549060201c108898070d",
+          "468766a0dbae5076c075",
+          "900c565148f830a32df5",
+          "9a6bbf34817a37cb5263",
+          "596828f7c8cedd25833a",
+          "30d09381b8a16104a74a",
+          "ed0f95fa0cc69b29108b",
+          "5e8dd155ad54cee59fdb",
+          "fe0105426962b5eaf8fb",
+          "92f85b50cc2e238fe744",
+          "2af107007de45b391bb3",
+          "a77286cbbd8ef182e991",
+          "6b2d201c4932ec7eb6eb",
+          "d9ae533f4a8378b40a92",
+          "f130f3cdc8e3daa4f14d",
+          "7d15a9743b904e570bb8",
+          "17f016b7ac1822748ebb",
+          "f68496c094aafa9d1879",
+          "bd50270d910035b188bf",
+          "1dbcc7737a7bebd7b4a0",
+          "734f356bed22a5506d84",
+          "5c15c016c96775ab2ad1",
+          "17ef2ed2975320042fc5",
+          "791be09e6cef4d103764",
+          "516aa95f85f7142a3e35",
+          "680300d261dfa5bf2304",
+          "2c0fd89301d722608e98",
+          "d0048ddce7a7e3b588d2",
+          "2927669ea4c23c074585",
+          "349dbb0a0d156c0c1ecb",
+          "06f7b7473157df3bcaec",
+          "a80a1ad17aa5925da1a9",
+          "41f001981833614ff10c",
+          "2138f1c0a9b8249fc26d",
+          "77915fd193065a61e5e4",
+          "d90e24f35630c9c00640",
+          "d9ec3860db835b633088",
+          "3aaffda38e7a143241c6",
+          "35974d9761482145cf29",
+          "e572083f5d0ac5cc8d42",
+          "ca43deb6846c41587f4d",
+          "28820c37e2b6cb85019c",
+          "f613f7fd4e308b28f16b",
+          "d5f12c0a086f9c31f2c1",
+          "44f60498822f554b3299",
+          "5d2d0112ceb6afe38a76",
+          "ab65ebcdabf8953b9de0",
+          "333fcf8e880c845da201",
+          "9e1ae8d307740ee3a8c8",
+          "1d932aa36f0db8bd14c6",
+          "ca2d4c0ac3324458b683",
+          "9059b54b5e130ea3e353",
+          "96f453cfb62a88fc3037",
+          "84cfe0b0c0bf07e14886",
+          "c2e0b042b6d2a75500b5",
+          "60531fee8d2df6024b94",
+          "4f62801f0bd150fb30ac",
+          "8b1d4d04309127160ae2",
+          "5e47eed2afce108f6e3a",
+          "bf73bba37264fcce4b72",
+          "4765e10750428e633b50",
+          "5ce4b508722bdc98b51a",
+          "a084f31192741f001eff",
+          "816922470b6340d4dcfa",
+          "255ced4ef652981507ee",
+          "2d48962f7de928f1ed55",
+          "ca74039d6ec0547db06d",
+          "eec0143970a0bc9f1ec3",
+          "ca3f298b0967383d2df7",
+          "c03f6ce520d2ff9f5440",
+          "fd1265bc46f18244be88",
+          "8b4fdd24535c50a4154d",
+          "c0f283f600d21895c4bb",
+          "0e7502ccfb6173ebe09f",
+          "b3e2734da81cef8e4597",
+          "53a652d957b4e0ad3691",
+          "66b22ef12a92df281a8d",
+          "b50457ef32b6d173b522",
+          "b3628346f627f7be60d2",
+          "f412618474d6295e6b16",
+          "1e16f989cb320752ae97",
+          "c4ce1a5677f3930f4ef3",
+          "f618eaf6a6a81eb34667",
+          "3cf52e0aa84be6f0a17f",
+          "fe55f5c981eb2a47ae91",
+          "6df36c3e1f35dd28ce85",
+          "512cc9b7f1a0cc776f6b",
+          "632ca8210c2f18fc6b05",
+          "c20c1376ebd2db05ea47",
+          "f66660e6d4cc738d5dc1",
+          "3b2af874d4fd16dc2c36",
+          "071e9378ab043c1e7c3e",
+          "9938eb78d0921b29a0f7",
+          "307937e5b26b2fe36023",
+          "4002f50807851fc1df5e",
+          "eb6538906c0157f12da3",
+          "6c1b20dd56bc6716a721",
+          "f68d1ab9ea4d92966c64",
+          "8560dd9678b41a157667",
+          "47d722be65bd661eb934",
+          "4dfaf9c18ded2442e6cb",
+          "884d1c79ce2827dc3835",
+          "ac972ab3953b7f03fb9e",
+          "bbce1907476395d04f47",
+          "42a1c2debbe341b479c5",
+          "1ed6d738ece02e2ae6ff",
+          "1c33537ddbe65fbd3846",
+          "4bddd515efcc416ad10f",
+          "fd7f0ee880e0cc4de67c",
+          "b6cdc5f554eeac269470",
+          "c11ca7d9e0419aafb8e7",
+          "96dbef72c8bf514f17cd",
+          "eb8485fb72e77877aad7",
+          "68903424a4f121b0240d",
+          "53ba66bddc8beaac7bfc",
+          "b9505effa64187cb3422",
+          "add322d5f3bacba5cec3",
+          "c8e5c82dd0fbac0a0547",
+          "8091bf4d62eb0ded0cc4",
+          "52b03ec51f4676212c93",
+          "ad9dac80baaf36396021",
+          "8c536710a2c56f33f075",
+          "41638171e8284f7612e5",
+          "c2143265857a17c7425d",
+          "e59da79256f5f6b18244",
+          "bc4c150ec79bd4039254",
+          "9f219237592f2d0a7184",
+          "a7b81762e7ec9c395abb",
+          "98dade6fcdc277222293",
+          "137a144c6a2dd121d1ff",
+          "7b3ca0e278d17963acbb",
+          "5eabfb936b6d3b21d8a2",
+          "f9caf3b05de985d300b5",
+          "940ed4cbf8f0f2e991d7",
+          "bcd0a07ece25b4820dfa",
+          "06a0480683ad64c089cb",
+          "87baaa87e1a5c40f42f6",
+          "01382b3e2e348fb0910c",
+          "3176238ab7e99194b062",
+          "aafc86c59a5570e318bb",
+          "5a4613dd4bdb1ad87de9",
+          "94963de9cfd4d043d2d1",
+          "95aaa354ee7d0a64a6aa",
+          "f601fdee7282368f3db1",
+          "c102ab00b4eb392e9d74",
+          "18b0eaf79671492fb19c",
+          "c3d8e61de24553e26798",
+          "2a6318acdd2b643f8e92",
+          "4052cdd602a422d46dc1",
+          "1846de8148d9a5efa642",
+          "f34ec8f7742e0085ded2",
+          "c6a0397c98950f145bcf",
+          "3301e5accffea6a3dffb",
+          "88d879bfcd055c4878fd",
+          "5f7c9a54116128bc6b14",
+          "496723136860729a9c4e",
+          "902735b0ea935ca91660",
+          "92dd32d9dc13842108d6",
+          "05280b4d29dd5b6eec3f",
+          "b7ca2ba73d5c76e2e447",
+          "2c103378682fc3a2f400",
+          "22db596a31bd912a7d87",
+          "7cb50a0690f35513f0a8",
+          "0be4625db055146703ca",
+          "3422847e106ebb763457",
+          "9da4835879e2c4b0c88c",
+          "bce1760ec6939239ec79",
+          "b7f7b9126f3226c0b534",
+          "1dcf63565481ffca7c2d",
+          "1816366748abe1f998aa",
+          "eca9e44ba9d6fa2fdaf3",
+          "87e1ec64d5b5e466c0bd",
+          "58298ba8324a6974e971",
+          "66bc95688423d64e5f64",
+          "1b420e210b4b7664ee08",
+          "32507318ad08c5e71619",
+          "aab50d5bc54956ea4ce4",
+          "42ee2a94902cac320e6e",
+          "561116a2cf1a7b2a28bf",
+          "bdb86ad5eea4c7aa03f8",
+          "8ecf5dcd5ce920518fee",
+          "8c05444b4fa84990b871",
+          "fdc2126b225a4b149f92",
+          "7619ac28061f12eaf340",
+          "50aefd653a725b0cfb9f",
+          "552c68a1c5df0516b0ed",
+          "3240f4adb8383bf4cdd8",
+          "608272447d9c50b459fc",
+          "a61366f20b2931199d4c",
+          "5c9615e2d539260e868c",
+          "077f13acc6bfcf360144",
+          "e616d60f8def54673283",
+          "4f0ef3a0f78b6efe3b15",
+          "fdb50bf97bb69cb32787",
+          "8b66cc67ad50c0fac06f",
+          "36233a780a20279f821d",
+          "e48839e47d23218c6497",
+          "632d4acbf1c36c17b798",
+          "0da1941a168e49d93c90",
+          "9eaa0298d3b49e079a5d",
+          "cecdc72da9ff22649fab",
+          "892d2577e9a01409797f",
+          "465bf0d1fa1d6532d04d",
+          "64995188925a67317500",
+          "a7cf03d3db9da121ddd3",
+          "ea6098e674b22f6581d9",
+          "96a9d2e9146d28d935a8",
+          "3a4fd46de684ed66f8a8",
+          "6a605445ef1fda06ad30",
+          "742f35805ed11fba90f3",
+          "fc3fd977952202a6c15b",
+          "ef31a6df6fedbe5d30d2",
+          "c742eb8c1edd68919391",
+          "688958549a991c2aa28b",
+          "caaa7a9edfe22071e284",
+          "05dbe0e838c1a7a1ff3f",
+          "f456d2d477a4e6873ddd",
+          "ac7900b7588658945c48",
+          "566d96fca561ccfd1526",
+          "97d316d215067db8007b",
+          "a09f4639dfff255eddda",
+          "e6d924a83efb1927515b",
+          "6c2a5450f127cb5942ff",
+          "8ab61b55a8d15f61ec42",
+          "b915f1b991a324e73407",
+          "bfb135e4d603ad77e137",
+          "7e79e097b1d88b485c00",
+          "717c04ac9607d1cc2b89",
+          "b2128b23863797cb011f",
+          "9d2c3a118333971db193",
+          "5e843e64edf4c46597f6",
+          "1719ee357c9b965bb763",
+          "05928dcabc8ac6bbef88",
+          "4abde37893a86c6aad5b",
+          "0cdeb95f7f570e190ae5",
+          "7fa6e27a7a25a0800e38",
+          "f6c160ff3cbf30b7345f",
+          "f73c88d756d43cfa5f94",
+          "1923566493fb18e7c766",
+          "b3407faef308f17e8545",
+          "fc0ae5827bfbf4d2f8fa",
+          "8b90af332ba6e253aa1b",
+          "e765d3df29b37e0f4195",
+          "7958a4c07a9fe47797c4",
+          "049014bdacc36c79a949",
+          "c825ca3cd9b6ef54d39a",
+          "4b23c7fefdf2a4823be2",
+          "bc2e898361026e01d36a",
+          "52ca61bf77b10fdb52cb",
+          "bdf5296924aa49b2b31a",
+          "8bf0e00bc458ff0ec1f8",
+          "7da02da4c80c876b3d33",
+          "d106018fdb4cbde55eb4",
+          "e9393667c987faadcef5",
+          "95059329e9a35649b56b",
+          "229b164fbaff83e368c9",
+          "6ba0e851ae1edf047ad5",
+          "7281a362b3b83fdd2168",
+          "09a8f28db2ef3ea34f34",
+          "de3670524ec6ab7224df",
+          "991a86d82addb1cf1578",
+          "0d4cfbea17c70e28fed0",
+          "e4fdbcc7d7787d1953ae",
+          "44ecef98039b3e014e72",
+          "b3b596fab6fff05dacfb",
+          "e8a0cc4f409e9496577b",
+          "7519084819981865bd3c",
+          "9f883fd7833850371f31",
+          "3c0db5962e7de4d5c33e",
+          "290a31d300bcd56ca045",
+          "4f7c7477edfc0751445f",
+          "4bafb43e5b9349818738",
+          "4f19ec995340bdfc9285",
+          "4cf3213f23713d753b5e",
+          "31352f18237226db0583",
+          "4c6c3714b908376c6b64",
+          "b8703bdb99129275a4e2",
+          "1ce0cb7c85faa2bd12ea",
+          "9bc47e6790f96991573c",
+          "501f630cbb3dec15cabb",
+          "f72e3704d372e95c61f0",
+          "27686d512d43077ed6d1",
+          "4b704f6fe470951ff97c",
+          "54ea9274a8242906d3ae",
+          "01cd5685c50d2b7b40bf",
+          "60289ed77dd908c82b60",
+          "8e59d0fb20abaccdf1da",
+          "51b4f907417fac254d9f",
+          "56867d15a8eb168ad396",
+          "33c13af357f51d730b27",
+          "d20cab7be45cfb5ff240",
+          "a90fd50e1fde03f63b9e",
+          "8935d081e47b29b6dd12",
+          "9aa70c804930ca90b44b",
+          "72089aae524b7d222303",
+          "4fece4b7d2330b55cc29",
+          "1db5b8a9c41c2938b8a8",
+          "36c98861aee2aa292e6d",
+          "9805c35aad5cc5bd1503",
+          "2367313e9c0d287c0847",
+          "a9ae3afcb4765322118a",
+          "92362574d53da066517d",
+          "4f14ade00b5cea3860e0",
+          "b9324c208b62c8eadb0d",
+          "f8ba837e16bb96b324ea",
+          "0816b8057eecad50a3bb",
+          "ac3d3651536768d05fb4",
+          "af099e4f563e7dd97945",
+          "b05fab8af10268f36f5c",
+          "20981ab695d8f9bb7a8a",
+          "dfe48a69583d3e43bc92",
+          "eb1d4c4a5227afd19948",
+          "187845dfd18efc627269",
+          "437c292652607c5f3815",
+          "b5524874c0d15f81157f",
+          "62f5139e42e7d7c67830",
+          "f9e61371e27994bc6453",
+          "50a4eea22fdf848b56d9",
+          "92e8bbda55bdd8557189",
+          "f5c5873928cdd5e343d8",
+          "039954730831138e8573",
+          "9743ca1d8cd46c861246",
+          "ff0186b53d2f393ad2af",
+          "962ad0e586c233b9a556",
+          "913f627f39cfedcb178c",
+          "04d593605328d60b4cfb",
+          "5f861b3d5621743ad94f",
+          "b029a941c6a637a4576d",
+          "548f3d6ffaf782111362",
+          "9c4cc9e7c925b9f10f7a",
+          "526e1e3ae7def054009a",
+          "cdb251195271318ddaad",
+          "298c5504a6d5e90a0b5d",
+          "283667b05709da427f9e",
+          "3364acfb9a6a5f5d951d",
+          "12787558c0f3d7cce2d8",
+          "24d373d7ed6a47f4de1b",
+          "ab449421330e62fd47e0",
+          "e2cad4d9a183149ff8d2",
+          "be10bdec69ae61110fd0",
+          "0f31705ef70300a642ea",
+          "1ef64fdf28801410ce7a",
+          "7ed748615e24fa4b3bc7",
+          "4c7ddfd725ff259d7d6e",
+          "806264d6fff5d33b46ad",
+          "f7b37f689b074645d8e6",
+          "78845ad40e75ab83870f",
+          "821eceb74bd52b18ffa8",
+          "83c6a82407601835047e",
+          "9ed779911f8fde056f3f",
+          "2cf08b94de1e0ebde6a2",
+          "8e8549dccd45f74fd719",
+          "596013afd69085955599",
+          "d4723616220dcbfad7af",
+          "c22f7b5c9a20aec177bb",
+          "03301691221d20e3e5a9",
+          "d8a8f8a6669e19d1655d",
+          "1195f58cb72fec40bf0e",
+          "8d5b4a1aa7c4eee9412d",
+          "d34a4209de394d1e33ba",
+          "e3736f82d7caa9da5858",
+          "00265ab52e5caad0066f",
+          "480d4beaf83ecdabbaf6",
+          "e590f8121e06af7362d4",
+          "5ecd4477dd874b1fa9bc",
+          "9c69616c87a0bb5769c0",
+          "9bd1a98aa71b74ad0140",
+          "360257ed1f6537b6f1f5",
+          "abc5f73e102a2b22e3c2",
+          "892880f271819394358a",
+          "c72a4b972e69a3bd1f84",
+          "4e1e0bb03e12d7444d59",
+          "89ad48d8d3c3885a7fe4",
+          "bfffd30b3ce3d993dfc9",
+          "418fbac9eed39ac59b4e",
+          "66c45e378053c1496287",
+          "1be190b904675bf41b0b",
+          "2361eaeb71e13ff311fc",
+          "638f126f13ef1f88431a",
+          "bcaee15b4248bc36d5d0",
+          "a36c25fce003fdae8d31",
+          "c17573c9998e73902538",
+          "a02178e9988f02684571",
+          "be0d2312497bc4d3b8cf",
+          "270afd79a44f3c0b728d",
+          "ac386ea0d0c3c412ca94",
+          "88fa3303afe1adf5b95f",
+          "a0ff8d582986f73400e5",
+          "ff329cf887175dbf3f5f",
+          "d9be888c8af380707c1a",
+          "6dff734ac99e33ae23ab",
+          "5d654d392f5ff3f7dc64",
+          "48bac02c92688b652405",
+          "9eebdab0239ee0c6416c",
+          "18aff7639e0810e63c9e",
+          "a7656275efc7e8bd4c46",
+          "a160388d51c46f3eb0f5"
+        ]
       }
     }
   }

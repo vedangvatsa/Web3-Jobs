@@ -1,0 +1,32 @@
+---
+title: Binance Sets Aside $6.34 Billion to Cover Hack Losses
+ogTitle: "BINANCE SETS ASIDE $6.34 BILLION TO COVER HACK LOSSES"
+description: >-
+  Binance said it has reserved more than $6.34 billion in company funds to restore
+  customer balances after attackers stole an estimated $6.3 billion, with about
+  $5 billion already held in the affected tokens and a withdrawal restart targeted
+  within about 34 hours.
+image: /images/news/binancecover.jpg
+imageCaption: "Binance CEO Richard Teng at Blockchain Week Istanbul in November 2023. Photo: Binance via Wikimedia Commons (CC BY 4.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:RichardTeng%20BBW2023%20Istanbul1.jpg
+category: News
+data-ai-hint: conference speaker on stage
+publishedDate: '2026-10-31'
+lastUpdated: '2026-10-31'
+---
+
+Binance said on Friday it has reserved more than $6.34 billion in company funds to restore customer balances after attackers stole an estimated $6.3 billion in the largest such theft on record. About $5 billion of that reserve is already held in the exact tokens taken, including USDC, USDT, bitcoin, ether and BNB, CEO Richard Teng said in a [video address](https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe), which [Decrypt reported](https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe). The exchange is buying the rest through market and over-the-counter channels, he said.
+
+"We are committed to covering all hacked losses through our company funds. Your assets are safe," Teng said in the address, repeating the line in a [posted transcript](https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe). He said the hack hit Binance's own hot wallet rather than customer balances. "We never use any customer funds, so they are not impacted," he said, adding that most user assets sit in cold storage and move into a hot wallet only when a customer withdraws. Binance had told users earlier on Friday that losses would be covered from its Secure Asset Fund for Users and corporate money.
+
+"Binance will absorb the financial impact of these stolen funds, not our users," the exchange said in its [second security incident update](https://cryptobriefing.com/binance-first-proof-of-reserves-snapshot/), which Crypto Briefing summarized. The update listed four priorities: phased withdrawal restoration, verification of customer reserves, recovery of frozen assets, and a technical report explaining the attack.
+
+Industry partners have frozen roughly $3 billion of the stolen assets, a total that sits [separate from the $6.34 billion reserve](https://cryptobriefing.com/binance-first-proof-of-reserves-snapshot/) and is still subject to recovery and verification. Binance is working with law enforcement, blockchain intelligence firms and token issuers to trace those funds. TRM Labs estimated that about $6.36 billion moved out of Binance wallets across 10 blockchains, with most transfers completed in roughly 20 minutes, and said preparations began at least 36 hours before the theft, including funding attacker wallets through Tornado Cash, [CNBC reported](https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html). The firm attributed the attack with high confidence to TraderTraitor, a North Korean state-sponsored unit, and Chainalysis CEO Jonathan Levin publicly assessed that the same group was likely responsible.
+
+The attack began around 20:05 UTC on Oct. 29, when compromised hot-wallet infrastructure allowed unauthorized withdrawals, according to [Crypto Briefing](https://cryptobriefing.com/binance-first-proof-of-reserves-snapshot/). Teng said the intruders used EIP-7702, an Ethereum feature that lets regular wallets run smart-contract code, to obtain execution approval over a hot wallet. "That delegation did not pass through our normal approval controls," he said, which is why Binance paused withdrawals to rebuild and retest its systems. The attackers also deployed a self-destruct mechanism that destroyed their tooling and traces along the way, Teng said in the [same address](https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe). Binance's first investigation pointed to a compromised employee laptop, but a wider review found additional points of breach, and the exchange said it has found no evidence that wallet private keys leaked.
+
+Withdrawals remain suspended while deposits and other services keep running, [Crypto Briefing reported](https://cryptobriefing.com/binance-first-proof-of-reserves-snapshot/). The technical team is targeting an initial reopening within 34 hours of the Friday update, subject to security reviews and validation of affected systems, and plans to capture a proof-of-reserves snapshot within 12 hours with results published by Nov. 2. Binance said it expects to share further verified technical findings within about 48 hours and will publish a detailed post-mortem on how the attack happened. Teng expressed hope that withdrawals would resume before [Sunday](https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe).
+
+Sean Farrell, head of digital asset strategy at Fundstrat Global Advisors, told [CNBC](https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html) that the attack does not currently appear to create meaningful solvency risk for Binance. Farrell estimated about $3.3 billion in stolen assets remained unfrozen and said the SAFU emergency fund, worth roughly $1.2 billion, could cover about a third of the remaining losses if frozen stablecoins are eventually returned, with the balance coming from company funds. He said the key indicators are how quickly withdrawals resume and whether outflows stay orderly.
+
+The attacker was still moving funds on Friday. Between 11:37 a.m. and 12:12 p.m. ET, a Tron wallet that Arkham attributes to the hacker sent about 5.19 million TRX, worth roughly $1.73 million, to 12 addresses, according to Arkham data cited by [Decrypt](https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe). Binance co-founder Changpeng Zhao wrote that the theft is the largest in dollar terms but not in bitcoin terms, pointing to Mt. Gox's loss of 650,000 BTC, and added: "It hurts, but we survive."
