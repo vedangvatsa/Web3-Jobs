@@ -113786,7 +113786,27 @@
       "firstSeenAt": "2026-10-31T03:31:46.182Z",
       "attempts": 0,
       "expiresAt": "2026-11-02T21:16:04.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "articleSlug": "cftchack",
+      "draftProgress": {
+        "id": "44ecef98039b3e014e72",
+        "day": "2026-10-31",
+        "articleSlug": "cftchack",
+        "note": "Read Decrypt 382285 fully (Selig CNBC quotes: 'proves our exact point', unregulated offshore exchanges, laptop-introduced vulnerability, on-chain traceability) and the CNBC video page confirming the Oct. 30 Squawk on the Street appearance and quote. Two independent sources open; article draft and hero image still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.cnbc.com/video/2026/10/30/cftc-chair-on-binance-hack-these-are-unregulated-offshare-exchanges.html",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-31T03:46:27.406Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "b3b596fab6fff05dacfb": {
       "source": "CoinDesk",
