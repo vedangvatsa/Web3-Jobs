@@ -11035,7 +11035,7 @@
     "sentAt": "2026-10-30T19:32:44.663Z"
   },
   "965e68c7-8aa7-4774-a9a5-4e4fa38c3ed9": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-31T03:32:47.154Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -11148,6 +11148,8 @@
       }
     ],
     "message": "- Perle is hiring <a href=\"https://hashtagweb3.com/bces5?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Taiwan)</a>\n- Anchorage Digital is hiring <a href=\"https://hashtagweb3.com/mpe?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Member of People Experience</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/pm347?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Product Sales (Terminal)</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/eng315?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer, Forward Deployed</a>\n- DRW is hiring <a href=\"https://hashtagweb3.com/an115?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">US Trading Analyst</a>",
-    "slotKey": "2026-10-31:morning"
+    "slotKey": "2026-10-31:morning",
+    "messageId": 16591,
+    "sentAt": "2026-10-31T03:32:49.850Z"
   }
 }
