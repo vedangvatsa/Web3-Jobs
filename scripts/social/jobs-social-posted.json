@@ -82112,7 +82112,8 @@
       },
       "account": "channel:solana",
       "attemptId": "6bc48ba4-6a06-467f-8c35-e62bfa3ef93b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x33c58f4cc061245959c182350148a2f733682e9a"
     }
   ]
 }
