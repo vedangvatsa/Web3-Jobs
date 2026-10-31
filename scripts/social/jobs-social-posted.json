@@ -83666,7 +83666,8 @@
       },
       "account": "channel:build",
       "attemptId": "31a716c2-0b25-46d1-9c15-499af7722929",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2cac0f72f5a5f4c312f43fb2e9de6c690f70812d"
     }
   ]
 }
