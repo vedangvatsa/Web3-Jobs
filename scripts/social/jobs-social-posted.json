@@ -80495,7 +80495,8 @@
       },
       "account": "channel:product",
       "attemptId": "69b54fe9-e99d-4761-bee2-31eb56e20db9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xbbf04f397e293da3bbed9593634479e2206d1098"
     }
   ]
 }
