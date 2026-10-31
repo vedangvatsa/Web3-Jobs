@@ -82413,7 +82413,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "b46d1061-4f17-44c3-a9c2-17c54a2878c3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7522260225664503809"
     }
   ]
 }
