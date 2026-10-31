@@ -80934,7 +80934,8 @@
       },
       "account": "channel:web3",
       "attemptId": "fde439a2-8c5a-4750-9e58-b155259ca9f0",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa800cbd334860f99c918cb22456375ec2c455621"
     }
   ]
 }
