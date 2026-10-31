@@ -2681,5 +2681,36 @@
     "slotKey": "2026-10-31:morning",
     "messageId": 156020,
     "sentAt": "2026-10-31T03:36:24.274Z"
+  },
+  "a4b10bd0-e2bc-4cc0-8ec0-1a137ebb74a3": {
+    "status": "reserved",
+    "reservedAt": "2026-10-31T11:36:14.709Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "CFTC Panel Discusses Liability for Illegal AI Trading",
+        "summary": "Panelists debated whether developers, operators, or users are responsible when autonomous trading software breaks market regulations.",
+        "link": "https://hashtagweb3.com/selig?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC Frontier Forum presses who is liable when AI agents trade"
+      },
+      {
+        "index": -1,
+        "headline": "Binance Cites $1 Billion SpaceX Stake After Exchange Hack",
+        "summary": "Yi He stated annual revenue covers the $6.3 billion hack losses without selling Binance's SpaceX stake.",
+        "link": "https://hashtagweb3.com/spacexstake?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CZ cites billion-dollar SpaceX stake in reply to Musk after Binance hack"
+      },
+      {
+        "index": -1,
+        "headline": "House Oversight Panel Investigates Delaware AI Corporate Plan",
+        "summary": "Representative James Comer requested state documents over concerns the framework shields AI firms and investors from legal liability.",
+        "link": "https://hashtagweb3.com/comer?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "House Oversight Chair Opens Investigation of Delaware Plan for AI-Run Companies"
+      }
+    ],
+    "slotKey": "2026-10-31:afternoon"
   }
 }
