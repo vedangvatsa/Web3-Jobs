@@ -80567,7 +80567,8 @@
       },
       "account": "channel:growth",
       "attemptId": "6a4e0038-f302-4a98-89c9-1cb63f8d31be",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xfef30356a75f158d0bde489e34a7a984141ad02e"
     }
   ]
 }
