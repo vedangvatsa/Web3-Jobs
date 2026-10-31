@@ -52,3 +52,39 @@ export function getEventVenueLabel(event: Pick<Web3Event, 'locationHidden' | 'lo
   if (!street || location.toLowerCase().includes(street.toLowerCase())) return location;
   return [...new Set([event.venueName || location, street, event.addressLocality || event.city, event.addressRegion, event.postalCode, event.addressCountry || event.country].filter(Boolean))].join(', ');
 }
+
+export type EventDisplayLocation = {
+  primary: string;
+  detail?: string;
+};
+
+export function getEventDisplayLocation(
+  event: Pick<Web3Event, 'locationHidden' | 'location' | 'venueName' | 'streetAddress' | 'addressLocality' | 'addressRegion' | 'postalCode' | 'addressCountry' | 'city' | 'country' | 'venueAddresses' | 'attendanceMode' | 'venueAddressSource'>
+): EventDisplayLocation {
+  if (event.locationHidden) {
+    return {
+      primary: [event.city, event.country].filter(Boolean).join(', ') || 'Location shared with registered guests',
+    };
+  }
+  if ((event.venueAddresses?.length || 0) > 1) {
+    return { primary: 'Multiple venues' };
+  }
+
+  const cityCountry = [event.city, event.country].filter(Boolean).join(', ');
+  const venue = (event.venueName || '').trim();
+  const primary = venue && cityCountry && !venue.toLowerCase().includes(cityCountry.toLowerCase())
+    ? `${venue} · ${cityCountry}`
+    : (venue || cityCountry || event.location || 'Location TBA');
+
+  let detail: string | undefined = undefined;
+  if (event.streetAddress && (hasDetailedStreetAddress(event.streetAddress) || hasVerifiedVenueAddress(event))) {
+    const parts = [event.streetAddress, event.postalCode].filter(Boolean);
+    const candidate = parts.join(', ');
+    if (candidate && !primary.toLowerCase().includes(candidate.toLowerCase())) {
+      detail = candidate;
+    }
+  }
+
+  return { primary, detail };
+}
+

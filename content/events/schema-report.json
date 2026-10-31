@@ -1,10 +1,10 @@
 {
-  "total": 437,
-  "eligible": 131,
+  "total": 428,
+  "eligible": 129,
   "exclusions": {
-    "missing-detailed-address": 259,
-    "restricted-registration": 180,
-    "hidden-address": 113,
+    "missing-detailed-address": 254,
+    "restricted-registration": 175,
+    "hidden-address": 110,
     "multiple-venues": 5,
     "online-only": 10,
     "missing-location": 3
@@ -66,19 +66,6 @@
       ]
     },
     {
-      "id": "curated-field-station-rajasthan-2026",
-      "name": "Field Station Rajasthan 2026",
-      "url": "https://hashtagweb3.com/field-station-rajasthan",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
       "id": "india-luma-bitshalaboss",
       "name": "Bitshala BOSS Summit 2026 | Jaipur | 26 Oct - 31 Oct",
       "url": "https://hashtagweb3.com/bitshala-boss-summit",
@@ -99,22 +86,6 @@
       "eligible": true,
       "issues": [],
       "missingRecommended": []
-    },
-    {
-      "id": "w3v-hacker-house-goa-26-10-28",
-      "name": "Hacker House Goa 2026",
-      "url": "https://hashtagweb3.com/hacker-house-goa",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "image",
-        "offers",
-        "organizer"
-      ]
     },
     {
       "id": "luma-batch-evt9GgBM7ScK61zT",
@@ -179,98 +150,11 @@
       ]
     },
     {
-      "id": "premier-ibt-mumbai-2026",
-      "name": "India Blockchain & AI Tour 2026 - Mumbai",
-      "url": "https://hashtagweb3.com/ibtmumbai",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
       "id": "w3v-btc-balkans-2026",
       "name": "BTC Balkans 2026",
       "url": "https://hashtagweb3.com/btc-balkans",
       "eligible": false,
       "issues": [
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-C3uwilHHM2nQueB",
-      "name": "Base Builder Meetup",
-      "url": "https://hashtagweb3.com/base-builder-meetup",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-RHhcoJ4MoApAvw1",
-      "name": "SuiHub Lagos: The Linq Experience",
-      "url": "https://hashtagweb3.com/suihub-lagos-linq-experience",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
-      "id": "mu-316996838",
-      "name": "Bitcoin Turns 18",
-      "url": "https://hashtagweb3.com/bitcoin-turns-18",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers"
-      ]
-    },
-    {
-      "id": "mu-317050872",
-      "name": "Whitepaper Day BBQ [acto asociado a Barcelona Bitcoin Only]",
-      "url": "https://hashtagweb3.com/whitepaper-day-bbq-acto-asociado-barcelona-bitcoin-only",
-      "eligible": false,
-      "issues": [
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "ibw-official-ibw2026-pre-conference-vip-night-10-31",
-      "name": "IBW2026 Pre-Conference VIP Night",
-      "url": "https://hashtagweb3.com/ibwvip",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "ibw-luma-evt-5vtPTw3cBLlbd4R",
-      "name": "Indie Builders Dinner w/ Harkirat Singh",
-      "url": "https://hashtagweb3.com/harkirat",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
         "missing-detailed-address"
       ],
       "missingRecommended": [
