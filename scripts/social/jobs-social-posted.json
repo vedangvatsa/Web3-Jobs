@@ -84933,8 +84933,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "787ae007-6526-4048-bb21-17811ef15f20",
-      "verification": "pending",
-      "postId": "6ae643df37c1acd2a0c8b3ad"
+      "verification": "verified",
+      "postId": "6ae643df37c1acd2a0c8b3ad",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7522381768344367105"
     }
   ]
 }
