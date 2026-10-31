@@ -81523,8 +81523,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "ecec35db-5c6a-4128-a304-cba331ac9537",
-      "verification": "pending",
-      "postId": "6ae56308ceb491e585d63763"
+      "verification": "verified",
+      "postId": "6ae56308ceb491e585d63763",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7522140348341608448"
     }
   ]
 }
