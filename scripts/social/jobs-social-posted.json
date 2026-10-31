@@ -249,7 +249,8 @@
     "mgr42",
     "pm339",
     "sec40",
-    "ds17"
+    "ds17",
+    "sec123"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -332,8 +333,7 @@
     "qa92",
     "an108",
     "sls248",
-    "scda",
-    "sec123"
+    "scda"
   ],
   "history": [
     {
