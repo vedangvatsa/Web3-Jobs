@@ -4063,5 +4063,51 @@
     "slotKey": "2026-10-30:evening",
     "messageId": 156011,
     "sentAt": "2026-10-30T19:32:17.146Z"
+  },
+  "a4213543-86f7-4d33-b4bd-b08141db3eed": {
+    "status": "reserved",
+    "reservedAt": "2026-10-31T03:32:29.664Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "w3v-solana-intelligence-summit",
+        "slug": "solana-intelligence-summit",
+        "name": "Solana Intelligence Summit",
+        "startDate": "2026-11-13T10:00:00.000Z",
+        "keys": [
+          "w3v-solana-intelligence-summit",
+          "page:solana-intelligence-summit:2026-11-13",
+          "luma:evt-5gtpowbyoupmorq",
+          "luma-url:/intelligence-summit",
+          "event:solanaintelligencesummit:2026-11-13:london"
+        ]
+      },
+      {
+        "id": "curated-ubc-hackathon-2026-11-13",
+        "slug": "ubc-hackathon",
+        "name": "UBC 2026 Hackathon",
+        "startDate": "2026-11-13T12:00:00-06:00",
+        "keys": [
+          "curated-ubc-hackathon-2026-11-13",
+          "page:ubc-hackathon:2026-11-13",
+          "url:universityblockchain.org/programs/hackathon:2026-11-13",
+          "event:ubc2026hackathon:2026-11-13:austin"
+        ]
+      },
+      {
+        "id": "premier-ibt-delhi-2026",
+        "slug": "ibt-delhi",
+        "name": "India Blockchain & AI Tour 2026 - Delhi",
+        "startDate": "2026-11-14T10:00:00+05:30",
+        "keys": [
+          "premier-ibt-delhi-2026",
+          "page:ibt-delhi:2026-11-14",
+          "url:indiablockchaintour.com/2026-nodes/delhi/ticket:2026-11-14",
+          "event:indiablockchainaitour2026delhi:2026-11-14:delhi ncr"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-31:morning"
   }
 }
