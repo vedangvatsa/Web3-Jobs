@@ -6087,7 +6087,7 @@
     "sentAt": "2026-10-30T19:32:54.638Z"
   },
   "278b8eb3-9157-40bc-b07f-a70a1b2965d4": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-31T03:33:00.690Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -6199,6 +6199,8 @@
       }
     ],
     "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/sls371?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Enterprise Account Executive, Hunter</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/sls369?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">SMB Account Executive</a>\n- Alchemy is hiring <a href=\"https://hashtagweb3.com/aso74?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Executive Assistant (Bucharest)</a>\n- Kast is hiring <a href=\"https://hashtagweb3.com/be96?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Backend Engineering Lead (Go; Compliance)</a>\n- Blockchain.com is hiring <a href=\"https://hashtagweb3.com/rec4?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Talent Acquisition Coordinator</a>",
-    "slotKey": "2026-10-31:morning"
+    "slotKey": "2026-10-31:morning",
+    "messageId": 156019,
+    "sentAt": "2026-10-31T03:33:08.704Z"
   }
 }
