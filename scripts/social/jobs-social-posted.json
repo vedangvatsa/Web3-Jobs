@@ -81150,7 +81150,8 @@
       },
       "account": "channel:founders",
       "attemptId": "6849d5ed-1a8b-4798-997a-3c9454156086",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf0cc37efa26d73e0dc7e2cc855ba3d015e6f2169"
     }
   ]
 }
