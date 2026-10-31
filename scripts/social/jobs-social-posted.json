@@ -83101,6 +83101,40 @@
       "attemptId": "81153a4e-7448-4be4-9953-b98102d56952",
       "verification": "verified",
       "postId": "0x63371048a65f532058f9b9bca9b1fc1a014d8771"
+    },
+    {
+      "slug": "mgr110",
+      "company": "OKX",
+      "title": "Senior Manager PR and Communications APAC",
+      "platform": "farcaster",
+      "postedAt": "2026-10-31T11:36:55.264Z",
+      "expectedText": "OKX is hiring Senior Manager PR and Communications APAC\n\nhttps://hashtagweb3.com/mgr110/fc?og=7",
+      "snapshot": {
+        "id": "8089223003",
+        "title": "Senior Manager PR and Communications APAC",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8089223003",
+        "date": "2026-10-29T20:14:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Sydney, New South Wales, Australia",
+        "department": "Global Marketing and Growth",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr110"
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Manager PR and Communications APAC\n\nhttps://hashtagweb3.com/mgr110/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mgr110/fc?og=7"
+          }
+        ],
+        "channel_id": "growth"
+      },
+      "account": "channel:growth",
+      "attemptId": "96b1a3c8-fc2f-487d-b7e6-debd665c7d1a",
+      "verification": "creating"
     }
   ]
 }
