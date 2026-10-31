@@ -105146,12 +105146,12 @@
       ],
       "alsoCoveredBy": [],
       "id": "8fc89eddfe8a98cbd66e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-31T13:19:46.000Z",
       "lastSeenAt": "2026-10-29T03:34:54.128Z",
-      "articleSlug": "dtccroster",
+      "articleSlug": "dtslive",
       "draftProgress": {
         "id": "8fc89eddfe8a98cbd66e",
         "day": "2026-10-31",
@@ -105166,7 +105166,21 @@
         "updatedAt": "2026-10-31T04:09:53.769Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the DTCC Tokenization Service launch across Ondo's Oct. 29 blog and Ledger Insights' independent Oct. 28 report; drafted dtslive.md.",
+      "sourceChecks": [
+        {
+          "url": "https://ondo.finance/blog/dtcc-tokenization-service-is-live",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.ledgerinsights.com/alpaca-citi-jp-morgan-among-early-adopters-as-dtcc-tokenization-service-goes-live/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-31T04:23:46.173Z",
+      "lastReviewedDay": "2026-10-31"
     },
     "8d2242eab8a1e38b4662": {
       "source": "Decrypt",
@@ -206157,6 +206171,23 @@
           ],
           "reviewedAt": "2026-10-31T04:19:54.805Z",
           "articleSlug": "comer"
+        },
+        "8fc89eddfe8a98cbd66e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the DTCC Tokenization Service launch across Ondo's Oct. 29 blog and Ledger Insights' independent Oct. 28 report; drafted dtslive.md.",
+          "sourceChecks": [
+            {
+              "url": "https://ondo.finance/blog/dtcc-tokenization-service-is-live",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.ledgerinsights.com/alpaca-citi-jp-morgan-among-early-adopters-as-dtcc-tokenization-service-goes-live/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T04:23:46.173Z",
+          "articleSlug": "dtslive"
         }
       },
       "baselineSlugs": [
