@@ -11271,7 +11271,7 @@
     "sentAt": "2026-10-31T03:32:56.080Z"
   },
   "bfc61dfb-593f-4f33-9695-cdd2cd794f80": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-31T11:32:12.638Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -11385,6 +11385,8 @@
       }
     ],
     "message": "- Robinhood is hiring <a href=\"https://hashtagweb3.com/sec96?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Internal Audit Senior Manager, Crypto</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/ops116?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Support Operations Manager</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/cmp81?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Manager, Contracts &amp; Compliance</a>\n- Coinbase is hiring <a href=\"https://hashtagweb3.com/be78?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Software Engineer, Backend - FinHub (Transfers)</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/eng462?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Integration Engineer</a>",
-    "slotKey": "2026-10-31:afternoon"
+    "slotKey": "2026-10-31:afternoon",
+    "messageId": 16593,
+    "sentAt": "2026-10-31T11:32:21.061Z"
   }
 }
