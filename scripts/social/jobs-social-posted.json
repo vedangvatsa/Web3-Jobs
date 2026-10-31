@@ -81869,6 +81869,40 @@
       "attemptId": "77e8461c-bca1-4b7e-8690-7bb07d295e6e",
       "verification": "verified",
       "postId": "0xf0081dedb5945f4b8ff12945fe88babc0ad8ba8c"
+    },
+    {
+      "slug": "bces5",
+      "company": "Perle",
+      "title": "Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Taiwan)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-31T11:32:55.187Z",
+      "expectedText": "Perle is hiring Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Taiwan)\n\nhttps://hashtagweb3.com/bces5/fc?og=7",
+      "snapshot": {
+        "id": "95944478",
+        "title": "Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Taiwan)",
+        "company": "Perle",
+        "link": "https://ats.rippling.com/perle/jobs/12d7e277-a8ac-4bc2-962b-c45742c1558c",
+        "date": "2026-10-06T11:52:24.000Z",
+        "dateVerified": true,
+        "dateSource": "Solana.JobPosting.postedAt",
+        "source": "Solana Ecosystem: Perle [getro-solana]",
+        "location": "Remote / Taiwan",
+        "department": "AI",
+        "active": true,
+        "slug": "bces5"
+      },
+      "payload": {
+        "text": "Perle is hiring Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Taiwan)\n\nhttps://hashtagweb3.com/bces5/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/bces5/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "fcd861a2-08a8-403e-9d3f-245d0c727407",
+      "verification": "creating"
     }
   ]
 }
