@@ -80171,7 +80171,8 @@
       },
       "account": "channel:dev",
       "attemptId": "69574ebd-2edb-43c4-884c-06f57952c625",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf6ab732a1e7dc3febd83efb067be4e097de15bff"
     }
   ]
 }
