@@ -80652,7 +80652,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "53e5e94e-08da-4209-bcf8-fc289d6f398a",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae56212ceb491e585d60d09"
     }
   ]
 }
