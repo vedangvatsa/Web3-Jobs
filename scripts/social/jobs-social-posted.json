@@ -84067,6 +84067,47 @@
       "verification": "verified",
       "postId": "6ae64314f0984eef33293f8a",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7522380915684306945"
+    },
+    {
+      "slug": "eng592",
+      "company": "Stripe",
+      "title": "Master's Machine Learning Engineer, Intern",
+      "platform": "linkedin",
+      "postedAt": "2026-10-31T19:32:26.798Z",
+      "expectedText": "Stripe is hiring Master's Machine Learning Engineer, Intern: https://hashtagweb3.com/eng592/li?og=7",
+      "snapshot": {
+        "id": "8333122",
+        "title": "Master's Machine Learning Engineer, Intern",
+        "company": "Stripe",
+        "link": "https://stripe.com/jobs/search?gh_jid=8333122",
+        "date": "2026-10-30T12:19:21-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Stripe [stripe]",
+        "location": "Toronto",
+        "department": "5112 General University",
+        "active": true,
+        "slug": "eng592",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Stripe is hiring Master's Machine Learning Engineer, Intern: https://hashtagweb3.com/eng592/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng592/li?og=7",
+          "title": "Master's Machine Learning Engineer, Intern at Stripe",
+          "description": "Join Stripe as Master's Machine Learning Engineer. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng592.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "4b268794-3ae5-4db5-ba8c-17c3c95f239c",
+      "verification": "creating"
     }
   ]
 }
