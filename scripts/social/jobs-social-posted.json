@@ -80135,7 +80135,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "c4e98211-1a80-49f1-bcb1-c8870ba01de3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7d646207e46fa3e927b7df4ce4006542cc02da94"
     }
   ]
 }
