@@ -84308,7 +84308,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "bfa968d1-a29e-4c47-a482-724b9640af8c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5e2c65887a98c250c2d96a1862a9e0bce477a33c"
     }
   ]
 }
