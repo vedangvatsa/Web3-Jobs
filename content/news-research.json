@@ -105225,11 +105225,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "9200d0baca7ed0d83da5",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-31T07:42:55.000Z",
-      "lastSeenAt": "2026-10-29T03:34:54.128Z"
+      "lastSeenAt": "2026-10-29T03:34:54.128Z",
+      "reason": "source-blocked",
+      "note": "Read Cointelegraph's report on the Amplitude vendor incident exposing some Coinbase customers' contact and limited transaction data, with Coinbase denying a breach of its own systems. Only one readable outlet this round; the CoinDesk account of the same incident returned HTTP 429 in the readiness pass, so corroboration on a second site is still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-31T04:24:11.867Z",
+      "retrySearches": [
+        "Find a second readable independent report (Decrypt, The Block, Bitcoin Magazine or company blog) on the Amplitude incident exposing Coinbase customer contact data on Oct. 28, 2026"
+      ],
+      "lastReviewedDay": "2026-10-31",
+      "nextReviewDate": "2026-11-01"
     },
     "d9d3a16a7e25d4dddaa7": {
       "source": "The Defiant",
@@ -109058,11 +109076,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "c0a6fc9964f174caaabd",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T09:43:25.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "duplicate",
+      "note": "The Defiant URL returned HTTP 403. The freeze of tokens linked to the Binance exploit is already covered in binancecover.md, which reports industry partners froze roughly $3 billion of the stolen assets; a single issuer's 6.19 million freeze is a component of that same covered event.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/hacks/usdt0-freezes-6-19-million-tokens-linked-to-binance-exploit",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-31T04:24:11.867Z",
+      "duplicateOf": "binancecover",
+      "mergedInto": "41687ee10fb86446183e",
+      "lastReviewedDay": "2026-10-31"
     },
     "1c6967cbacb912ef18ef": {
       "source": "Decrypt",
@@ -109079,11 +109109,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "1c6967cbacb912ef18ef",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T09:31:59.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "duplicate",
+      "note": "Opened the Decrypt article; its additional-points-of-breach finding, $3 billion frozen figure, Teng quotes and withdrawal timeline are already covered in content/articles/binancecover.md, which reports the same wider review finding.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382203/binance-finds-additional-points-of-breach-in-6-3b-hack",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-31T04:24:11.867Z",
+      "duplicateOf": "binancecover",
+      "mergedInto": "41687ee10fb86446183e",
+      "lastReviewedDay": "2026-10-31"
     },
     "255ced4ef652981507ee": {
       "source": "The Defiant",
@@ -109100,11 +109142,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "255ced4ef652981507ee",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T09:31:28.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "source-blocked",
+      "note": "The Defiant article on Unit pausing deposits and withdrawals after the Binance breach returned HTTP 403. Unit's action would be a distinct third-party development not covered in binancecover.md, but no readable source could be opened this round.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/unit-delays-all-deposits-and-withdrawals-after-binance-breach",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-31T04:24:11.867Z",
+      "retrySearches": [
+        "Find readable independent coverage of Unit delaying deposits and withdrawals after the Binance hack, with the company's stated reason and duration"
+      ],
+      "lastReviewedDay": "2026-10-31",
+      "nextReviewDate": "2026-11-01"
     },
     "955e929ba67b99202943": {
       "source": "Crypto Briefing",
@@ -109121,11 +109177,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "955e929ba67b99202943",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T09:24:16.000Z",
-      "lastSeenAt": "2026-10-30T10:25:44.767Z"
+      "lastSeenAt": "2026-10-30T10:25:44.767Z",
+      "reason": "out-of-scope",
+      "note": "Opened the Crypto Briefing item; it covers a Senate energy permitting bill, gas exploration and oil-price prediction markets with no digital-asset event. Not a Web3 story.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/democrat-warns-permitting-bill-may-trigger-gold-rush-for-gas-amid-senate-talks/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-31T04:24:11.867Z",
+      "lastReviewedDay": "2026-10-31"
     },
     "23430ada7d0f6792ddfe": {
       "source": "Cointelegraph",
@@ -206188,6 +206254,80 @@
           ],
           "reviewedAt": "2026-10-31T04:23:46.173Z",
           "articleSlug": "dtslive"
+        },
+        "1c6967cbacb912ef18ef": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Opened the Decrypt article; its additional-points-of-breach finding, $3 billion frozen figure, Teng quotes and withdrawal timeline are already covered in content/articles/binancecover.md, which reports the same wider review finding.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382203/binance-finds-additional-points-of-breach-in-6-3b-hack",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T04:24:11.867Z",
+          "duplicateOf": "binancecover",
+          "mergedInto": "41687ee10fb86446183e"
+        },
+        "c0a6fc9964f174caaabd": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "The Defiant URL returned HTTP 403. The freeze of tokens linked to the Binance exploit is already covered in binancecover.md, which reports industry partners froze roughly $3 billion of the stolen assets; a single issuer's 6.19 million freeze is a component of that same covered event.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/usdt0-freezes-6-19-million-tokens-linked-to-binance-exploit",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-31T04:24:11.867Z",
+          "duplicateOf": "binancecover",
+          "mergedInto": "41687ee10fb86446183e"
+        },
+        "255ced4ef652981507ee": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "The Defiant article on Unit pausing deposits and withdrawals after the Binance breach returned HTTP 403. Unit's action would be a distinct third-party development not covered in binancecover.md, but no readable source could be opened this round.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/unit-delays-all-deposits-and-withdrawals-after-binance-breach",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-31T04:24:11.867Z",
+          "retrySearches": [
+            "Find readable independent coverage of Unit delaying deposits and withdrawals after the Binance hack, with the company's stated reason and duration"
+          ]
+        },
+        "955e929ba67b99202943": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Opened the Crypto Briefing item; it covers a Senate energy permitting bill, gas exploration and oil-price prediction markets with no digital-asset event. Not a Web3 story.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/democrat-warns-permitting-bill-may-trigger-gold-rush-for-gas-amid-senate-talks/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T04:24:11.867Z"
+        },
+        "9200d0baca7ed0d83da5": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Cointelegraph's report on the Amplitude vendor incident exposing some Coinbase customers' contact and limited transaction data, with Coinbase denying a breach of its own systems. Only one readable outlet this round; the CoinDesk account of the same incident returned HTTP 429 in the readiness pass, so corroboration on a second site is still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-31T04:24:11.867Z",
+          "retrySearches": [
+            "Find a second readable independent report (Decrypt, The Block, Bitcoin Magazine or company blog) on the Amplitude incident exposing Coinbase customer contact data on Oct. 28, 2026"
+          ]
         }
       },
       "baselineSlugs": [
