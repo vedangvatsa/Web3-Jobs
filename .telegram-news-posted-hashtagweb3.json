@@ -848,6 +848,9 @@
   "https://hashtagweb3.com/aavebtc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/cftc247?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/binancebr?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/zcgstream?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/duffyperps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/regcrypto?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2450,6 +2453,12 @@
   "CFTC Sets Dec. 15 Roundtable on 24/7 Derivatives Trading",
   "Binance seeks Brazil license and cuts local product offerings",
   "Binance Files for Brazil License as Product Cuts Take Effect",
+  "Zcash Proposal Redirects Block Subsidies From Community Grants",
+  "Zcash Co-Founder Proposes Ending Grants Funding Stream",
+  "CME CEO says perpetual funding rates are regulated swaps",
+  "CME's Duffy calls perp funding a swap as CFTC lawsuit heads to full briefing",
+  "SEC Crypto Regulation Comment Period Ends",
+  "SEC comment window closes on Reg Crypto with submissions still arriving",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2848,5 +2857,8 @@
   "fp:allocation|alongsid|bond|builder|etf|exposur|fund|gold|list|nys",
   "fp:aav|analysis|borrow|cbbtc|collateral|ether|factor|historical|increas|limit",
   "fp:bas|cftc|comment|dec15|december|derivativ|dur|examin|feasibility|feedback",
-  "fp:and22|appli|bank|binanc|brazil|brazilian|central|cut|effect|eight"
+  "fp:and22|appli|bank|binanc|brazil|brazilian|central|cut|effect|eight",
+  "fp:125m|block|bow|cit|community|end|founder|fund|grant|mechanism",
+  "fp:are|brief|call|ceo|cftc|cme|delay|disput|duffy|full",
+  "fp:accept|agency|arriv|clos|comment|continu|deadlin|despit|end|feedback"
 ]
