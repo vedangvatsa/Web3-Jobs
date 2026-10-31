@@ -80317,6 +80317,41 @@
       "attemptId": "5454f3df-3446-4a2e-9eac-d9c1a593c269",
       "verification": "verified",
       "postId": "0xdf6216df7ff31b1ac15eab40f050f6a7a5034aeb"
+    },
+    {
+      "slug": "ds17",
+      "company": "Elliptic",
+      "title": "Data Science Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-31T03:33:01.878Z",
+      "expectedText": "Elliptic is hiring Data Science Lead\n\nhttps://hashtagweb3.com/ds17/fc?og=7",
+      "snapshot": {
+        "id": "4e5149ef-0e8f-462f-985e-ddc50e68a489",
+        "title": "Data Science Lead",
+        "company": "Elliptic",
+        "link": "https://jobs.ashbyhq.com/Elliptic/4e5149ef-0e8f-462f-985e-ddc50e68a489",
+        "date": "2026-10-08T08:40:02.634+00:00",
+        "source": "Ashby: Elliptic [Elliptic]",
+        "location": "Hybrid (London, United Kingdom)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Intelligence",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ds17"
+      },
+      "payload": {
+        "text": "Elliptic is hiring Data Science Lead\n\nhttps://hashtagweb3.com/ds17/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ds17/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "fcc785c1-9647-4419-90e5-5c406bd9189f",
+      "verification": "creating"
     }
   ]
 }
