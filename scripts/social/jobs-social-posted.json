@@ -80762,6 +80762,35 @@
       "verification": "verified",
       "postId": "6ae56250a1145743498417f9",
       "permalink": "https://twitter.com/hashtag_web3/status/2116373799201354029"
+    },
+    {
+      "slug": "sec123",
+      "company": "BVNK",
+      "title": "Security Operations & Risk Automation Engineer",
+      "platform": "threads",
+      "postedAt": "2026-10-31T03:36:44.855Z",
+      "expectedText": "BVNK is hiring Security Operations & Risk Automation Engineer: https://hashtagweb3.com/sec123/th?og=7",
+      "snapshot": {
+        "id": "5010660101",
+        "title": "Security Operations & Risk Automation Engineer",
+        "company": "BVNK",
+        "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5010660101",
+        "date": "2026-10-20T04:11:58-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BVNK [bvnk]",
+        "location": "South Africa, Bulgaria",
+        "department": "Technology",
+        "active": true,
+        "salary": "€55k – €80k/yr",
+        "dateVerified": true,
+        "slug": "sec123"
+      },
+      "payload": {
+        "text": "BVNK is hiring Security Operations & Risk Automation Engineer: https://hashtagweb3.com/sec123/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/sec123/th?og=7"
+      },
+      "attemptId": "f15a11ca-432b-4790-8d18-c0d93ed7c37d",
+      "verification": "creating"
     }
   ]
 }
