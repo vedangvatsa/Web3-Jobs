@@ -1,6 +1,86 @@
 {
-  "generatedAt": "2026-10-30T19:32:32.796Z",
+  "generatedAt": "2026-10-31T03:31:44.879Z",
   "items": [
+    {
+      "title": "Chainalysis links Binance exploit to North Korea’s TraderTraitor",
+      "link": "https://Blockchain.News/news/chainalysis-links-binance-exploit-to-north-koreas-tradertraitor",
+      "pubDate": "Fri, 30 Oct 2026 23:55:35 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Chainalysis said the $6.4 billion Binance hack was likely carried out by North Korea-linked TraderTraitor, with about $2.8 billion frozen so far. (Rea...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Chainalysis says cybersecurity incident exposed some customer data",
+      "link": "https://Blockchain.News/news/chainalysis-cybersecurity-incident-customer-data-october-2026",
+      "pubDate": "Fri, 30 Oct 2026 23:46:35 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Chainalysis said it detected a cybersecurity incident and found no evidence of access to investigation content, credentials or session tokens. (Read M...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Binance hackers raced to move billions before it could be frozen",
+      "link": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 30 Oct 2026 22:00:00 +0000",
+      "creator": "Christina Comben",
+      "contentSnippet": "Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry players like Tether and Circle moved to immobilize...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion",
+      "link": "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225",
+      "pubDate": "Fri, 30 Oct 2026 21:20:23 +0000",
+      "creator": "Jason Shubnell",
+      "contentSnippet": "Investigators tie the $6B Binance hack to North Korea. Here's how hot-wallet signing infrastructure was compromised and where funds went.",
+      "source": "The Block"
+    },
+    {
+      "title": "Binance Hack Shows Why Offshore Exchanges Need US Oversight, CFTC Chair Says",
+      "link": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
+      "pubDate": "Fri, 30 Oct 2026 21:16:04 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Michael Selig said the record $6.4 billion theft shows why offshore exchanges should register with the CFTC and adopt U.S.-grade cybersecurity standar...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "President Trump says they’re looking into Binance hack as calls grow for crypto rules",
+      "link": "https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236",
+      "pubDate": "Fri, 30 Oct 2026 21:06:03 +0000",
+      "creator": "Sarah Wynn",
+      "contentSnippet": "Following the $6.3 billion hack of the world's largest crypto exchange, Binance, calls are growing for legislation.",
+      "source": "The Block"
+    },
+    {
+      "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
+      "link": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
+      "pubDate": "Fri, 30 Oct 2026 20:06:03 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the record $6.4 billion theft is a Binance security failure, not a crypto-wide threat, p...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Binance exploit tied to EIP-7702 delegation, preliminary losses mount",
+      "link": "https://Blockchain.News/news/binance-exploit-eip-7702-delegation-preliminary-losses",
+      "pubDate": "Fri, 30 Oct 2026 19:59:28 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Fireblocks says a signed EIP-7702 delegation enabled withdrawals from Binance hot wallets; Binance’s preliminary update points to a compromised DevOps...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+      "link": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
+      "pubDate": "Fri, 30 Oct 2026 19:55:00 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "Tether, Circle and others moved within hours to block billions in stolen crypto, but legal experts question whether smaller victims would get the same...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "SEC grants Treasury clearing relief for certain repo transactions",
+      "link": "https://Blockchain.News/news/sec-grants-treasury-clearing-relief-for-certain-repo-transactions",
+      "pubDate": "Fri, 30 Oct 2026 19:51:28 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "The SEC issued exemptive relief for certain inter-affiliate and non-U.S. repo transactions as it advances Treasury central clearing implementation. (R...",
+      "source": "Blockchain.News"
+    },
     {
       "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B ",
       "link": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -10,36 +90,12 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
-      "link": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
-      "pubDate": "Fri, 30 Oct 2026 18:45:03 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Binance lost about $6.4 billion, the largest crypto hack on record, yet Bitcoin fell about 3%, against nearly 11% in 2018 when the exchange was last a...",
-      "source": "Decrypt"
-    },
-    {
       "title": "$8 Million Crypto Kidnapping Lands Texas Brothers 15-Year Prison Terms",
       "link": "https://decrypt.co/382269/crypto-kidnapping-texas-brothers-15-year-prison",
       "pubDate": "Fri, 30 Oct 2026 18:16:02 +0000",
       "creator": "Agent",
       "contentSnippet": "Raymond and Isiah Garcia held a Minnesota family at gunpoint for more than nine hours, forcing the father to transfer over $8 million in crypto, in on...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
-      "link": "https://decrypt.co/382268/secret-service-fbi-binance-hack-probe",
-      "pubDate": "Fri, 30 Oct 2026 17:50:26 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Binance says it has set aside $6.34 billion to cover losses from the breach and the FBI and Secret Service are now working with the exchange as invest...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
-      "link": "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 30 Oct 2026 17:48:27 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "Circle, Strategy and other crypto-linked stocks fell sharply Friday, a day after Binance disclosed a $6.3 billion security breach.",
-      "source": "Cointelegraph"
     },
     {
       "title": "Circle says CCTP can now connect non-USDC ERC-20s on Arc",
@@ -58,14 +114,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
-      "link": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
-      "pubDate": "Fri, 30 Oct 2026 16:31:17 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "CEO Richard Teng said hackers erased evidence and bypassed security checks. Binance plans to publish its proof of reserves Monday.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
       "link": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 30 Oct 2026 16:06:28 +0000",
@@ -80,14 +128,6 @@
       "creator": "Blockchain.News",
       "contentSnippet": "Uniswap (UNI) details how TJAR uses Token Jars and searchers to convert mixed onchain fees into a chosen token across supported chains. (Read More)",
       "source": "Blockchain.News"
-    },
-    {
-      "title": "Strategy’s preferred-stock fix sets up renewed bitcoin buying, analysts say",
-      "link": "https://www.theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214",
-      "pubDate": "Fri, 30 Oct 2026 14:30:49 +0000",
-      "creator": "Jason Shubnell",
-      "contentSnippet": "Strategy fell after Q3 earnings, but StoneX & TD Cowen kept buy ratings, citing $4.83B cash reserve and more stable STRC preferred structure.",
-      "source": "The Block"
     },
     {
       "title": "South Africa Leads Sub-Saharan Africa's Crypto Growth",
@@ -122,14 +162,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Here's how big bitcoin traders responded after the Binance hack hit",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
-      "pubDate": "Fri, 30 Oct 2026 11:51:26 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "Your day-ahead look for Oct. 30, 2026",
-      "source": "Coindesk"
-    },
-    {
       "title": "Zcash grants group offers $124M compromise as governance backlash grows",
       "link": "https://cointelegraph.com/news/zcash-grants-46m-proposal-governance-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 30 Oct 2026 11:36:23 +0000",
@@ -138,12 +170,12 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-      "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
-      "pubDate": "Fri, 30 Oct 2026 11:09:24 +0000",
-      "creator": "Oliver Knight",
-      "contentSnippet": "Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion.",
-      "source": "Coindesk"
+      "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 30 Oct 2026 11:29:23 +0000",
+      "creator": "William Suberg",
+      "contentSnippet": "Bitcoin held above $76,000 after a $6.3 billion Binance hack and a tech-stock sell-off, as momentum indicators pointed to a possible rebound.",
+      "source": "Cointelegraph"
     },
     {
       "title": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
@@ -202,6 +234,14 @@
       "source": "Coindesk"
     },
     {
+      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+      "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
+      "pubDate": "Fri, 30 Oct 2026 06:22:00 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "Bets on rising prices accounted for nearly 84% of forced closures, with Binance handling almost half the total. A rebound has since started catching s...",
+      "source": "Coindesk"
+    },
+    {
       "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
       "link": "https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 30 Oct 2026 05:53:07 +0000",
@@ -218,11 +258,11 @@
       "source": "Coindesk"
     },
     {
-      "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
-      "link": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
-      "pubDate": "Fri, 30 Oct 2026 05:43:07 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "CoinDCX has restricted new futures positions after Binance’s security incident disrupted a key liquidity provider. Deposits, withdrawals and customer ...",
+      "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+      "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
+      "pubDate": "Fri, 30 Oct 2026 04:50:42 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "All 18,270 coins sit in 19 wallets, 17 of them holding exactly 1,000 BTC each, and none has moved since Thursday night, a CoinDesk trace of the blockc...",
       "source": "Coindesk"
     },
     {
@@ -232,22 +272,6 @@
       "creator": "Felix Ng",
       "contentSnippet": "Standard Chartered’s Geoffrey Kendrick said the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI...",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
-      "link": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
-      "pubDate": "Fri, 30 Oct 2026 03:36:11 +0000",
-      "creator": "Nikhilesh De",
-      "contentSnippet": "Security researchers suggested that the hermit kingdom's Lazarus Group was behind Thursday's nearly $6 billion hack of the world's largest crypto exch...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Binance hack drained wallets backing customer assets, reserve data shows",
-      "link": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
-      "pubDate": "Fri, 30 Oct 2026 00:17:10 +0000",
-      "creator": "Oliver Knight",
-      "contentSnippet": "Binance’s own reserve data lists the drained wallets as backing customer balances, leaving its ether backing an estimated 6% short until the exchange ...",
-      "source": "Coindesk"
     },
     {
       "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
@@ -386,22 +410,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
-      "link": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 29 Oct 2026 15:39:54 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "BTC price action returned to a key weekly resistance level as US stock markets digested Alphabet’s Q3 earnings miss.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
-      "link": "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform",
-      "pubDate": "Thu, 29 Oct 2026 14:55:47 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "Polymarket’s new Up/Down crypto contracts come as the CFTC renews scrutiny of the prediction market’s compliance with its 2022 U.S. onboarding terms.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Justin Sun's HTX Agrees to Leave UK in Settlement With Financial Watchdog",
       "link": "https://decrypt.co/382138/justin-suns-htx-agrees-to-leave-uk-in-settlement-with-financial-watchdog",
       "pubDate": "Thu, 29 Oct 2026 12:58:28 +0000",
@@ -482,14 +490,6 @@
       "source": "The Block"
     },
     {
-      "title": "Aptos Advisor Leaves Post, Moves Meme-Fueled Campaign to Meta Stock",
-      "link": "https://decrypt.co/382061/aptos-advisor-leaves-post-moves-meme-fueled-campaign-to-meta-stock",
-      "pubDate": "Wed, 28 Oct 2026 16:22:58 +0000",
-      "creator": "Ryan Gladwin",
-      "contentSnippet": "Former Aptos advisor \"Buzz” has left the crypto project and is turning his attention to Facebook's parent company Meta—here's why.",
-      "source": "Decrypt"
-    },
-    {
       "title": "Bitwise raises bitcoin price target to $1.6 million by 2036, projects 34% annualized returns",
       "link": "https://www.theblock.co/news/markets/2026-10-28-bitwise-raises-bitcoin-price-target-to-1-6-million-by-2036-projects-34-annualized-returns-432010",
       "pubDate": "Wed, 28 Oct 2026 16:07:08 +0000",
@@ -511,14 +511,6 @@
       "pubDate": "Wed, 28 Oct 2026 15:00:02 +0000",
       "creator": "James Hunt",
       "contentSnippet": "Avail launched ShieldTX, a Hyperliquid privacy tool that creates a separate wallet for each perpetual futures position.",
-      "source": "The Block"
-    },
-    {
-      "title": "Crypto braces for potential shift in congressional oversight after midterms",
-      "link": "https://www.theblock.co/news/regulation/2026-10-28-crypto-braces-for-potential-shift-in-congressional-oversight-after-midterms-431949",
-      "pubDate": "Wed, 28 Oct 2026 14:43:01 +0000",
-      "creator": "Sarah Wynn",
-      "contentSnippet": "Post-Clarity Act, the crypto sector could find itself navigating a very different political landscape under a new Congress.",
       "source": "The Block"
     }
   ]
