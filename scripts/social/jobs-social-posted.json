@@ -81402,7 +81402,8 @@
       },
       "account": "channel:design",
       "attemptId": "4b26a69e-e663-49dc-8586-1db352caec0e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf347c50d10aa0a949e8479ba2fd392f685d90242"
     }
   ]
 }
