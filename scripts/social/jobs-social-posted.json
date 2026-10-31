@@ -84560,7 +84560,8 @@
       },
       "account": "channel:founders",
       "attemptId": "970469aa-9709-4bf0-80ee-c44239ebc4d6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x81d488d245cea5a4b7a11ca62d162e73712bab15"
     }
   ]
 }
