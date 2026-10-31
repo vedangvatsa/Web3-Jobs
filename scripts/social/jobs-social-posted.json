@@ -84205,6 +84205,39 @@
       "postId": "17910991491595127",
       "permalink": "https://www.threads.com/@hashtagweb3/post/DfK7HWRIzep",
       "account": "hashtagweb3"
+    },
+    {
+      "slug": "eng303",
+      "company": "Sardine",
+      "title": "Forward Deployed Engineer, Integrations",
+      "platform": "bluesky",
+      "postedAt": "2026-10-31T19:36:40.515Z",
+      "expectedText": "Sardine is hiring Forward Deployed Engineer, Integrations: https://hashtagweb3.com/eng303/bsky?og=7",
+      "snapshot": {
+        "id": "5a6411d4-455f-48d5-a282-7bec2bec3494",
+        "title": "Forward Deployed Engineer, Integrations",
+        "company": "Sardine",
+        "link": "https://jobs.ashbyhq.com/Sardine/5a6411d4-455f-48d5-a282-7bec2bec3494",
+        "date": "2026-10-23T19:24:15.885+00:00",
+        "source": "Ashby: Sardine [Sardine]",
+        "location": "United States / Canada",
+        "isRemote": null,
+        "workplaceType": null,
+        "department": "Integrations",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng303"
+      },
+      "payload": {
+        "text": "Sardine is hiring Forward Deployed Engineer, Integrations: https://hashtagweb3.com/eng303/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/eng303/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/eng303.png?v=7",
+        "company": "Sardine",
+        "title": "Forward Deployed Engineer, Integrations",
+        "description": "Join Sardine as Forward Deployed Engineer, Integra. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "b113b61b-0f34-4650-a6e2-d52cded0fab1",
+      "verification": "creating"
     }
   ]
 }
