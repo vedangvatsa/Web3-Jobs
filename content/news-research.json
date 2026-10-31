@@ -105080,14 +105080,10 @@
         "id": "415ee5aff505874490c6",
         "day": "2026-10-31",
         "articleSlug": "comer",
-        "note": "Retry search located Ars Technica Oct 27 piece with full independent details and Spotlight Delaware June background via search results; Ars page not opened via WebFetch before deadline and draft not started. Next batch: open Ars URL, confirm facts, draft.",
+        "note": "Re-read Decrypt and WHYY with original Delaware-side reporting and quotes; sufficient independent sources. Drafting now.",
         "sourceChecks": [
           {
             "url": "https://decrypt.co/382035/house-oversight-chair-comer-probes-delaware-plan-for-ai-run-companies",
-            "outcome": "read"
-          },
-          {
-            "url": "https://oversight.house.gov/release/comer-investigates-potential-for-harm-lack-of-transparency-in-delaware-initiative-to-create-new-artificial-intelligence-companies/",
             "outcome": "read"
           },
           {
@@ -105095,7 +105091,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-10-31T04:09:28.205Z",
+        "updatedAt": "2026-10-31T04:16:23.456Z",
         "approved": false,
         "mustReview": true
       },
