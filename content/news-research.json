@@ -105029,9 +105029,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "5b7a8eed12aafa62d842",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-31T14:14:36.000Z",
       "lastSeenAt": "2026-10-29T03:34:54.128Z",
       "articleSlug": "bessent",
@@ -105053,7 +105053,21 @@
         "updatedAt": "2026-10-31T04:16:20.453Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified Bessent Oct. 27 Swell remarks across Bitcoin Magazine and Bitcoin.com News: SEC/CFTC coordination after Clarity Act 49-50 failure, stablecoin dollar share above 90 percent, no formal plan or timeline.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/treasury-says-win-in-the-digital-asset",
+          "outcome": "read"
+        },
+        {
+          "url": "https://news.bitcoin.com/regulation-and-legal/bessent-clarity-act-plan-b-ripple-swell/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-31T04:19:51.974Z",
+      "lastReviewedDay": "2026-10-31"
     },
     "415ee5aff505874490c6": {
       "source": "Decrypt",
@@ -206106,6 +206120,23 @@
           "reviewedAt": "2026-10-31T04:09:18.481Z",
           "duplicateOf": "spacexstake",
           "mergedInto": "1c9b106c0d67f0a193e6"
+        },
+        "5b7a8eed12aafa62d842": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Bessent Oct. 27 Swell remarks across Bitcoin Magazine and Bitcoin.com News: SEC/CFTC coordination after Clarity Act 49-50 failure, stablecoin dollar share above 90 percent, no formal plan or timeline.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/treasury-says-win-in-the-digital-asset",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bitcoin.com/regulation-and-legal/bessent-clarity-act-plan-b-ripple-swell/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T04:19:51.974Z",
+          "articleSlug": "bessent"
         }
       },
       "baselineSlugs": [
