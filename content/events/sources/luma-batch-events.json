@@ -3047,33 +3047,6 @@
     }
   },
   {
-    "id": "luma-batch-tawLwbwrv8b5KOO",
-    "slug": "superteam-fxat",
-    "name": "SME Clinic Night: Security, DeFi & Design",
-    "description": "Three rooms, three specialisms, one night.\n\nOne night, three breakout rooms, each led by people who do this work professionally.\n\nSecurity: smart contract review, common vulnerability patterns, and what to check before you ship something that holds funds.\n\nDeFi, stablecoins and payments: protocol design decisions, what's working on Solana right now, and where the real opportunities sit.\n\nDesign and demo polish: making a rough product look considered, and making a demo that holds attention for sixty seconds.\n\nPick the room that matches your problem, or move between them. Bring a specific question — these sessions work best when someone puts real work on the screen.\n\nWho it's for: Teams with a technical, financial or design problem they can't solve alone.\n\nYou'll leave with: A specialist answer to a specific problem.\n\nFree and open. Choose your room on the night.\n\nhttps://au.superteam.fun/colosseum for more information",
-    "startDate": "2026-10-01T08:00:00.000Z",
-    "endDate": "2026-10-01T09:30:00.000Z",
-    "url": "https://luma.com/superteam-fxat",
-    "registrationUrl": "https://luma.com/superteam-fxat",
-    "coverImage": "/events/luma-batch-tawLwbwrv8b5KOO-dab44379.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Australia"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "Australia/Brisbane",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "sourceVerification": {
-      "url": "https://luma.com/superteam-fxat",
-      "eventId": "calev-tawLwbwrv8b5KOO",
-      "fetchedAt": "2026-09-22T11:31:03.000Z",
-      "method": "luma-page",
-      "apifyRunId": "WHcLsVUsFvlHmcVYz"
-    }
-  },
-  {
     "id": "luma-batch-qRxVoonMmCSALeT",
     "slug": "workshop-cryptoworldsfair3",
     "name": "#3 AI Workshop for Colosseum｜AIで自分のGoogleカレンダーを操作してみよう",
@@ -6832,126 +6805,6 @@
     }
   },
   {
-    "id": "luma-batch-evtYc4IGEQ8uynsq",
-    "slug": "5tjt4qme",
-    "name": "The Seoul Table - Institutional Lunch",
-    "description": "디지털자산 시장이 기관 중심으로 재편되면서, 국내 금융회사들은 \"무엇을 할 것인가\"에서 이제 \"어떤 인프라 위에서 할 것인가\"가 실질적인 과제가 되고 있습니다.\n\nKorea Blockchain Week 2026을 맞아, 글로벌 기관 디지털자산 인프라의 각 영역을 대표하는 네 개 회사가 금융의 중심지 여의도에서 국내 금융기관 전문가 여러분을 모십니다. 각 사가 실제로 운영 중인 인프라와, 이를 국내 금융회사 업무에 어떻게 접목할 수 있는지를 사례 중심으로 공유하고자 합니다.\n\n(English version continues below)\n\n📅 일시\n2026년 10월 1일(목) 오전 11:00 - 오후 2:00\n\n🕐 타임라인\n오전 11:00 ~ 11:30 등록 및 커피/차\n오전 11:45 ~ 12:15 각 사 기조 연설\n오후 12:15 ~ 14:00 자유로운 네트워킹\n\n📍 장소\n콘래드 서울 (6F), STUDIO 1+2+3\n\n👥 대상\n디지털자산 신사업·전환을 준비 중인 금융회사 담당자 및 실무자\n\n🎟 형식\nInvited-only 오찬 라운드 테이블\n\n🤝 함께하는 회사와 다루는 영역\n\nUtila :\nUtila는 핀테크, 은행, 기업을 위한 선도적인 스테이블코인 및 디지털자산 인프라 플랫폼입니다. 규모에 관계없이 모든 조직이 스테이블코인 결제, 트레저리 운용, 트레이딩, 토큰화를 비롯한 디지털자산 업무를 안전하게 구축·관리·확장할 수 있도록 지원합니다. 350곳 이상의 업계 선도 기관이 Utila를 신뢰하고 있으며, 월 300억 달러 이상의 거래량을 처리하고 현재까지 누적 2,000억 달러 이상의 거래를 안전하게 보호해 왔습니다.\n\nKaiko :\nKaiko는 온체인 금융을 위한 규제 준수 데이터 서비스를 제공하는 회사입니다. 2014년 설립된 이래 토큰화 시장과 전통 시장 양쪽을 아우르는 기관급 디지털자산 시장데이터, 애널리틱스, 지수, 데이터 인프라를 공급하고 있으며, 전 세계 은행, 자산운용사, 거래소 및 주요 금융기관을 고객으로 두고 있습니다. Kaiko의 데이터와 인프라는 트레이딩, 자산 평가(밸류에이션), 리스크관리, 토큰화 자산, 온체인 애플리케이션을 뒷받침하며 전통 금융시장과 블록체인 기반 시장을 연결합니다.\n\nZenith :\nZenith는 Canton Network의 네이티브 EVM 실행환경입니다. Canton Network는 Goldman Sachs, JPMorgan, DTCC, Nasdaq을 비롯한 600곳 이상의 금융기관이 월 수조 달러 규모의 거래를 결제하는 데 사용하는 기관용 블록체인입니다. Zenith는 Digital Asset과 공동 설계되어, 개발자와 기업이 익숙한 이더리움 개발도구와 컨트랙트를 그대로 활용해 해당 인프라 위에서 직접 개발할 수 있는 경로를 제공합니다. 일본 3대 메가뱅크와 함께 일본 국채를 토큰화하는 Progmat 워킹그룹에 참여하고 있으며, Canton의 Global Synchronizer에서 Tier-1 슈퍼 밸리데이터로 활동하고 있습니다.\n\n해피블록 :\n해피블록은 기관투자자 전용 디지털자산 브로커딜러 플랫폼 '바우맨(Bowman)'을 운영하는 국내 가상자산사업자(VASP)입니다. 안전한 거래 실행, 유동성 소싱, 리스크 관리 역량을 기반으로 시장조성 및 유동성공급 업무와 금융회사와의 협업을 통해 디지털자산 인프라와 중개 서비스를 제공하고 있습니다. 디지털자산을 금융시장에 융합하는 분야에서 국내에서 가장 신뢰받는 파트너 중 하나로서, 비트코인, 스테이블코인, RWA, STO 등 다양한 디지털자산 시장에 대한 기관투자자의 접근성을 확대해 나가고 있습니다.\n\n👥이런 분들께 도움이 됩니다\n\n✅디지털자산 신사업 기획·검토를 담당하고 계신 분\n✅수탁, 중개, 토큰화, 스테이블코인 관련 파트너 선정을 앞두고 계신 분\n✅기존 금융 인프라와 디지털자산 인프라의 연결 구조를 고민하고 계신 분\n✅국내외 규제 환경에서의 실제 운영 사례를 확인하고 싶으신 분\n\n📝참가 신청\n좌석이 제한되어 있어 사전 등록 후 승인 절차를 거칩니다. 등록만으로 참석이 확정되지는 않으며, 승인되신 분께는 별도 확인 안내를 드리겠습니다.\n\nUtila, Kaiko, Happyblock, and Zenith are pleased to invite you to an invite-only institutional lunch in Seoul during KBW 2026. Meet the teams behind the infrastructure powering institutional digital asset adoption.\n\n📅 Date & Time\nThursday, October 1, 2026, 11:00 AM – 2:00 PM (KST)\n\n🕐 Schedule\n11:00 am – 11:30 am Registration & Coffee/Tea\n11:45 am – 12:15 am Keynote remarks from each company\n12:15 pm – 14:00 pm Open networking\n\n📍 Venue\nConrad Seoul (6F), STUDIO 1+2+3\n\n👥 Who should attend\nRepresentatives and practitioners at financial institutions preparing new digital asset businesses or transformation initiatives\n\n🎟 Format\nInvited-only luncheon roundtable\n\n🤝 About the hosts:\n\nUtila:\nUtila is the leading stablecoin and digital asset infrastructure platform for fintechs, banks and enterprises. Utila enables organizations of all sizes to securely build, manage, and scale digital asset operations across stablecoin payments, treasury, trading, tokenization, and beyond. Trusted by 350+ industry leaders, Utila processes more than $30B in monthly volume and has secured over $200B in transactions to date.\n\nKaiko:\nKaiko provides regulated data services for onchain finance. Founded in 2014, the company delivers institutional-grade digital asset market data, analytics, indices, and data infrastructure for tokenized and traditional markets. Its clients include banks, asset managers, exchanges, and leading financial institutions worldwide. Kaiko's data and infrastructure support trading, valuation, risk management, tokenized assets, and onchain applications, connecting traditional and blockchain-based markets.\n\nZenith:\nZenith is Canton Network's native EVM execution environment — the institutional blockchain used by Goldman Sachs, JPMorgan, DTCC, Nasdaq, and 600+ financial institutions to settle trillions in monthly transaction volume. Co-designed with Digital Asset, Zenith gives developers and enterprises a direct path to build on that infrastructure using familiar Ethereum tools and contracts. Part of Progmat's working group tokenizing Japanese government bonds alongside three Japanese megabanks, Zenith operates as a Tier-1 Super Validator on Canton's Global Synchronizer.\n\nHappyblock:\nHappyblock is a licensed Virtual Asset Service Provider (VASP) in Korea operating Bowman, a digital asset broker-dealer platform dedicated to institutional investors. Based on its capabilities in secure trading, liquidity sourcing, and risk management, Happyblock provides digital asset infrastructure and brokerage services through market making, liquidity provision, and partnerships with financial institutions. As one of Korea's most trusted partners for digital asset ETF structuring, the company is expanding institutional access to a wide range of digital asset markets, including Bitcoin, stablecoins, RWA, and STO.\n\nKindly note that this event is invite-only. Submitting a registration does not guarantee entry. Approved guests will receive a confirmation shortly.",
-    "startDate": "2026-10-01T02:00:00.000Z",
-    "endDate": "2026-10-01T05:00:00.000Z",
-    "city": "Seoul, South Korea",
-    "country": "South Korea",
-    "location": "Seoul, South Korea, Seoul, South Korea",
-    "url": "https://luma.com/5tjt4qme",
-    "registrationUrl": "https://luma.com/5tjt4qme",
-    "coverImage": "/events/luma-batch-evtYc4IGEQ8uynsq-53e9f2dd.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Kaiko"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Seoul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/5tjt4qme",
-      "eventId": "evt-Yc4IGEQ8uynsqOC",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtRFGkwBVmMwc5A",
-    "slug": "yw50tbv3",
-    "name": "Bubblemaps × Four.Meme Private Lunch @ KBW 2026",
-    "description": "Bubblemaps × Four.Meme Private Lunch @ KBW 2026\n\nKorea Blockchain Week 2026 기간, Bubblemaps × Four.Meme가 한국의 Web3 KOL 및 주요 커뮤니티 관계자들을 위한 프라이빗 런치에 여러분을 초대합니다.\n\nGrand Walkerhill Seoul의 Pizza Hill에서 좋은 음식과 함께 편하게 이야기를 나누며, Bubblemaps와 Four.Meme 팀을 비롯한 다양한 Web3 관계자들과 교류할 수 있는 소규모 네트워킹 자리입니다.\n\n형식적인 세션이나 발표보다는 서로를 알아가고, 새로운 아이디어와 협업 가능성을 자연스럽게 나눌 수 있는 시간을 준비했습니다.\n\nEvent Details\n• Date: October 1, 2026\n• Time: 12:00 PM – 2:00 PM KST\n• Venue: Pizza Hill, Grand Walkerhill Seoul\n• Private Lunch & Networking\n• Limited Capacity\n\nAbout Bubblemaps\nBubblemaps는 복잡한 블록체인 데이터를 직관적인 시각화 방식으로 탐색할 수 있도록 돕는 온체인 인텔리전스 플랫폼입니다.\n\n지갑 간 연결 관계, 토큰 분포, 자금 흐름 및 다양한 온체인 활동을 여러 네트워크에서 분석할 수 있습니다.\n\nWebsite | X | Telegram\n\nAbout Four.Meme\nFour.Meme는 BNB Chain 기반의 밈코인 및 다양한 토큰 런치 플랫폼으로, 간단한 No-code 방식으로 누구나 쉽게 토큰을 생성하고 출시할 수 있도록 지원합니다.\n\n2026년 7월 기준 210만 명 이상의 사용자와 155만 개 이상의 토큰 출시 기록을 보유하며 BNB Chain 생태계에서 활발한 토큰 런치 플랫폼으로 성장하고 있습니다.\n\nWebsite | X | Telegram\n\nBubblemaps × Four.Meme Private Lunch @ KBW 2026\n\nDuring Korea Blockchain Week 2026, Bubblemaps × Four.Meme invite Web3 KOLs and key community members in Korea to an intimate private lunch.\n\nHosted at Pizza Hill, Grand Walkerhill Seoul, this small gathering is designed for relaxed conversations over good food and an opportunity to connect with the Bubblemaps and Four.Meme teams, alongside fellow Web3 KOLs and community leaders.\n\nRather than formal sessions or presentations, the lunch will focus on meaningful conversations, new connections, and opportunities to exchange ideas and explore future collaborations.\n\nEvent Details\n• Date: October 1, 2026\n• Time: 12:00 PM – 2:00 PM KST\n• Venue: Pizza Hill, Grand Walkerhill Seoul\n• Private Lunch & Networking\n• Limited Capacity\n\nAccess\nThis is a private, invite-only event. Admission is limited to approved guests only.\n\nAbout Bubblemaps\nBubblemaps is an onchain intelligence platform that makes complex blockchain data easier to explore through intuitive visual analytics.\n\nIt enables users to analyze wallet connections, token distributions, fund flows, and onchain activity across multiple networks.\n\nWebsite | X | Telegram\n\nAbout Four.Meme\nFour.Meme is a BNB Chain-native launchpad for meme coins and other tokens, making token creation and launch accessible through a simple, no-code platform.\n\nWith 2.1M+ users and 1.55M+ tokens launched as of July 2026, Four.Meme has grown into an active token launch ecosystem on BNB Chain.\n\nWebsite | X | Telegram",
-    "startDate": "2026-10-01T03:00:00.000Z",
-    "endDate": "2026-10-01T05:00:00.000Z",
-    "city": "Seoul, South Korea",
-    "country": "South Korea",
-    "location": "Seoul, South Korea, Seoul, South Korea",
-    "url": "https://luma.com/yw50tbv3",
-    "registrationUrl": "https://luma.com/yw50tbv3",
-    "coverImage": "/events/luma-batch-evtRFGkwBVmMwc5A-c0ecf8ad.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Seoul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/yw50tbv3",
-      "eventId": "evt-RFGkwBVmMwc5A2L",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtpN85tBSVOni4C",
-    "slug": "gwffy8ec",
-    "name": "Seoul Creators Lunch: Injective",
-    "description": "인젝티브 파운데이션이 Korea Blockchain Week (KBW) 2026 기간 중 크리에이터를 위한 초청 런치를 개최합니다.\n\nSeoul Creators Lunch는 국내 크립토 크리에이터들과 인젝티브 팀이 한 테이블에 모여 편하게 이야기를 나누는 자리입니다.\n\n본 행사는 초청 전용으로 진행되며, 참석은 승인을 거쳐 확정됩니다. 승인된 참석자에게는 행사 전 장소가 별도로 안내됩니다.\n\n인젝티브 소개\n인젝티브(Injective)는 차세대 웹3 금융 애플리케이션 구축에 최적화된, 빠른 속도와 상호운용성을 갖춘 레이어1 블록체인입니다. 개발자들이 강력하고 즉시 활용 가능한 모듈을 통해 독보적인 탈중앙화 애플리케이션을 만들 수 있도록 지원합니다. 인젝티브는 Binance의 인큐베이팅을 받았으며, Jump Crypto, Pantera Capital, Mark Cuban 등 주요 투자자들의 지원을 받고 있습니다.\nhttps://injective.com/\n\nhttps://x.com/injective\n\nInjective Foundation is hosting an invite-only lunch for creators during Korea Blockchain Week 2026.\n\nSeoul Creators Lunch brings together Korean crypto creators and the Injective team around one table for an open, unhurried conversation.\n\nThis is an invite-only event. Attendance is by approval, and confirmed guests will receive venue details ahead of the lunch.\n\nAbout Injective\nInjective is a lightning-fast, interoperable Layer 1 blockchain optimized for building next-generation Web3 finance applications. Injective provides developers with powerful, plug-and-play modules to create unmatched decentralized applications. Injective is incubated by Binance and backed by leading investors including Jump Crypto, Pantera Capital, and Mark Cuban.\nhttps://injective.com/\n\nhttps://x.com/injective",
-    "startDate": "2026-10-01T03:00:00.000Z",
-    "endDate": "2026-10-01T05:30:00.000Z",
-    "city": "Seoul, South Korea",
-    "country": "South Korea",
-    "location": "Seoul, South Korea, Seoul, South Korea",
-    "url": "https://luma.com/gwffy8ec",
-    "registrationUrl": "https://luma.com/gwffy8ec",
-    "coverImage": "/events/luma-batch-evtpN85tBSVOni4C-5458d3b0.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Seoul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/gwffy8ec",
-      "eventId": "evt-pN85tBSVOni4Clq",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtraKbv5ad7Ma0n",
-    "slug": "builde-5cd9",
-    "name": "DIGITAL AF Seoul: Hackathon - In person",
-    "description": "The Seoul Build Session drops builders into the middle of a five day art, gaming and tech festival during Korea Blockchain Week.\n\nBuild something real, judged the same night.\n\nTech partners are https://lovable.dev and https://elevenlabs.io/\n\nFull event info here:\nhttps://builderbase.com/event/digital-af-seoul-hackathon\n\nThis event is for;\n\nDevelopers & designers\nComfortable moving fast on a rough idea in a live setting.\n\nAI & web3 builders\nCurious where digital culture, gaming and real world data collide.\n\nStudents & first timers\nNo hackathon résumé required. Just show up and build.\n\nSeoul based & travelling in\nOn the ground for Korea Blockchain Week and ready to build.",
-    "startDate": "2026-10-01T05:00:00.000Z",
-    "endDate": "2026-10-01T09:00:00.000Z",
-    "city": "Seoul, South Korea",
-    "country": "South Korea",
-    "location": "14-15, 14-15 Yangjae-dong, Seocho District, Seoul, South Korea",
-    "url": "https://luma.com/builde-5cd9",
-    "registrationUrl": "https://luma.com/builde-5cd9",
-    "coverImage": "/events/luma-batch-evtraKbv5ad7Ma0n-941b1c23.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Builderbase Hackathons"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Seoul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "hackathon",
-    "sourceVerification": {
-      "url": "https://luma.com/builde-5cd9",
-      "eventId": "evt-raKbv5ad7Ma0nK2",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtTfpxY3jBF6BFV",
     "slug": "b0p1kudt",
     "name": "THE TRADING FLOOR — KBW 2026",
@@ -9205,36 +9058,6 @@
     "sourceVerification": {
       "url": "https://luma.com/gvzg802n",
       "eventId": "evt-1ZuO7a3vQvpzL5P",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtxynyfrCDssQqX",
-    "slug": "luxq9jt4",
-    "name": "Monthly Dweb Meetup",
-    "description": "Join the local Dweb community at the monthly DwebPDX meetup, held every last Wednesday of the month.\n\nThe event is open format: feel free to arrive and leave whenever you want, there is no agenda or presentations. Relax, ask questions, and share what you've been working on or thinking about.\n\nTopics range from decentralized web technologies, localism, digital commons, community resilience, privacy, smart contracts, DAO's (decentralized autonomous organizations) and more.\n\nKnowledge levels of any kind are welcome!\n\n—-\n\nDWeb connects the people, projects and protocols essential to building a decentralized web. A web that is more private, reliable, secure and open. A web with many winners—returning to the original vision of the World Wide Web and internet.\n\nLearn more at https://getdweb.net/",
-    "startDate": "2026-10-01T02:00:00.000Z",
-    "endDate": "2026-10-01T04:00:00.000Z",
-    "city": "Portland",
-    "country": "United States",
-    "location": "Rontoms, Rontoms, 600 E Burnside St, Portland, OR 97214, USA",
-    "url": "https://luma.com/luxq9jt4",
-    "registrationUrl": "https://luma.com/luxq9jt4",
-    "coverImage": "/events/luma-batch-evtxynyfrCDssQqX-76c17101.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "DWebPDX"
-    ],
-    "price": "Free",
-    "timezone": "America/Los_Angeles",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/luxq9jt4",
-      "eventId": "evt-xynyfrCDssQqXL1",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

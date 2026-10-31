@@ -1,42 +1,42 @@
 [
   {
-    "slug": "aavebtc",
-    "title": "Aave raises Bitcoin and Ether borrowing limits across V3 and V4",
-    "description": "Governance proposal 536 lifted maximum loan-to-value ratios for WBTC and cbBTC to 81% on V3 Ethereum Core and raised V4 Main Spoke collateral factors, based on a LlamaRisk calibration against two years of price data.",
+    "slug": "binancecover",
+    "title": "Binance Sets Aside $6.34 Billion to Cover Hack Losses",
+    "description": "Binance said it has reserved more than $6.34 billion in company funds to restore customer balances after attackers stole an estimated $6.3 billion, with about $5 billion already held in the affected tokens and a withdrawal restart targeted within about 34 hours.",
     "category": "News",
-    "publishedDate": "2026-10-30",
-    "image": "/images/news/aavebtc.jpg"
+    "publishedDate": "2026-10-31",
+    "image": "/images/news/binancecover.jpg"
   },
   {
-    "slug": "amplitude",
-    "title": "Coinbase Says Analytics Vendor Amplitude Exposed Customer Contact Data",
-    "description": "Coinbase said a security incident at analytics vendor Amplitude touched contact data for a small subset of customers, while the exchange reported no breach of its own systems and no impact to customer funds.",
+    "slug": "coindcxfutures",
+    "title": "CoinDCX Puts Futures Into Reduce-Only Mode After Binance Disruption",
+    "description": "CoinDCX restricted new futures positions on Oct. 30 after Binance's security incident disrupted a liquidity provider, then reopened most markets the same day while four tokens stayed limited.",
     "category": "News",
-    "publishedDate": "2026-10-30",
-    "image": "/images/news/amplitude.jpg"
+    "publishedDate": "2026-10-31",
+    "image": "/images/news/coindcxfutures.jpg"
   },
   {
-    "slug": "cbbrasil",
-    "title": "Coinbase Files for Brazil Crypto License Before Central Bank Deadline",
-    "description": "Coinbase applied to Brazil's central bank on Wednesday under the country's new virtual asset service provider framework, joining Binance and Itau Unibanco in the Oct. 30 filing rush.",
+    "slug": "comer",
+    "title": "House Oversight Chair Opens Investigation of Delaware Plan for AI-Run Companies",
+    "description": "Rep. James Comer asked Delaware's governor for documents on the state's proposed Artificial Intelligence Company structure, warning it could shield AI companies and their investors from liability for harms caused by the agents running the firms.",
     "category": "News",
-    "publishedDate": "2026-10-30",
-    "image": "/images/news/cbbrasil.jpg"
+    "publishedDate": "2026-10-31",
+    "image": "/images/news/comer.jpg"
   },
   {
-    "slug": "cftc247",
-    "title": "CFTC Sets Dec. 15 Roundtable on 24/7 Derivatives Trading",
-    "description": "The Commodity Futures Trading Commission will hold a public roundtable on Dec. 15 to examine whether derivatives markets can move to around-the-clock trading, building on its summer request for comment.",
+    "slug": "selig",
+    "title": "CFTC Frontier Forum presses who is liable when AI agents trade",
+    "description": "At the CFTC's first Frontier Forum on Oct. 28, Chairman Michael Selig and panelists debated whether developers, operators or customers bear responsibility when autonomous trading software breaks market rules.",
     "category": "News",
-    "publishedDate": "2026-10-30",
-    "image": "/images/news/cftc247.jpg"
+    "publishedDate": "2026-10-31",
+    "image": "/images/news/selig.jpg"
   },
   {
-    "slug": "solflareincident",
-    "title": "Solflare Says Staking Provider Key Incident Stopped Validator Rewards",
-    "description": "Solflare told users on Oct. 27 that a security incident at its staking provider affected the keys held for its validator, pausing rewards for about 1.56 million SOL delegated while user principal stayed in their own stake accounts.",
+    "slug": "spacexstake",
+    "title": "CZ cites billion-dollar SpaceX stake in reply to Musk after Binance hack",
+    "description": "Changpeng Zhao told Elon Musk that Binance holds more than $1 billion in SPCX shares from its $500 million Twitter investment, while co-founder Yi He said annual revenue covers the $6.3 billion hack losses without selling the stake.",
     "category": "News",
-    "publishedDate": "2026-10-30",
-    "image": "/images/news/solflareincident.jpg"
+    "publishedDate": "2026-10-31",
+    "image": "/images/news/spacexstake.jpg"
   }
 ]

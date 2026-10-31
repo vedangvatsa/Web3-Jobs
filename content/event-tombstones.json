@@ -4024,5 +4024,151 @@
       "pahfdrs4",
       "luma-crypto-bjffo8tjeowzlmw"
     ]
+  },
+  "kbw-bridge-seoul-2026": {
+    "until": "2027-10-31T10:37:07.478Z",
+    "slugs": [
+      "bridge-seoul",
+      "kbw-official-bridge-seoul-2026-10-01",
+      "kbw-bridge-seoul-2026"
+    ]
+  },
+  "kbw-realfi-asia-stablecoin-2026": {
+    "until": "2027-10-31T10:37:07.478Z",
+    "slugs": [
+      "realfi-asia-stablecoin",
+      "rxasc",
+      "kbw-official-realfi-x-asia-stablecoin-conference-10-01",
+      "kbw-realfi-asia-stablecoin-2026"
+    ]
+  },
+  "w3v-blockfesta-2026": {
+    "until": "2027-10-31T10:37:07.478Z",
+    "slugs": [
+      "w3v-blockfesta-2026",
+      "blockfesta"
+    ]
+  },
+  "w3v-hsc-conference-seoul": {
+    "until": "2027-10-31T10:37:07.478Z",
+    "slugs": [
+      "w3v-hsc-conference-seoul",
+      "hcs"
+    ]
+  },
+  "w3v-yellow-korea-workshop--ai-agents": {
+    "until": "2027-10-31T10:37:07.478Z",
+    "slugs": [
+      "w3v-yellow-korea-workshop--ai-agents",
+      "ykw"
+    ]
+  },
+  "kbw-official-blockfesta-2026-10-01": {
+    "until": "2027-10-31T10:37:07.478Z",
+    "slugs": [
+      "blockfesta",
+      "w3v-blockfesta-2026",
+      "kbw-official-blockfesta-2026-10-01"
+    ]
+  },
+  "kbw-official-hsc-conference-seoul-10-01": {
+    "until": "2027-10-31T10:37:07.478Z",
+    "slugs": [
+      "hcs",
+      "w3v-hsc-conference-seoul",
+      "kbw-official-hsc-conference-seoul-10-01"
+    ]
+  },
+  "kbw-official-realfi-x-asia-stablecoin-conference-10-01": {
+    "until": "2027-10-31T10:37:07.478Z",
+    "slugs": [
+      "kbw-official-realfi-x-asia-stablecoin-conference-10-01",
+      "rxasc"
+    ]
+  },
+  "kbw-official-bridge-seoul-2026-10-01": {
+    "until": "2027-10-31T10:37:07.478Z",
+    "slugs": [
+      "kbw-official-bridge-seoul-2026-10-01",
+      "bridge-seoul"
+    ]
+  },
+  "kbw-official-yellow-korea-workshop-ai-agents-10-01": {
+    "until": "2027-10-31T10:37:07.478Z",
+    "slugs": [
+      "ykw",
+      "w3v-yellow-korea-workshop--ai-agents",
+      "kbw-official-yellow-korea-workshop-ai-agents-10-01"
+    ]
+  },
+  "kbw-official-sanc-nine-10-01": {
+    "until": "2027-10-31T10:37:07.478Z",
+    "slugs": [
+      "sanc-nine",
+      "kbw-official-sanc-nine-10-01"
+    ]
+  },
+  "kbw-official-seoul-on-chain-10-01": {
+    "until": "2027-10-31T10:37:07.478Z",
+    "slugs": [
+      "seoul-chain",
+      "kbw-official-seoul-on-chain-10-01"
+    ]
+  },
+  "kbw-official-bridging-finance-onchain-a-korea-blockchain-week-2026-side-event-with-ky-10-01": {
+    "until": "2027-10-31T10:37:07.478Z",
+    "slugs": [
+      "bfokbwsekcsb",
+      "kbw-official-bridging-finance-onchain-a-korea-blockchain-week-2026-side-event-with-ky-10-01"
+    ]
+  },
+  "luma-batch-tawLwbwrv8b5KOO": {
+    "until": "2027-10-31T10:37:07.478Z",
+    "slugs": [
+      "superteam-fxat",
+      "luma-batch-tawlwbwrv8b5koo"
+    ]
+  },
+  "luma-batch-evtYc4IGEQ8uynsq": {
+    "until": "2027-10-31T10:37:07.478Z",
+    "slugs": [
+      "5tjt4qme",
+      "luma-batch-evtyc4igeq8uynsq"
+    ]
+  },
+  "luma-batch-evtRFGkwBVmMwc5A": {
+    "until": "2027-10-31T10:37:07.478Z",
+    "slugs": [
+      "yw50tbv3",
+      "luma-batch-evtrfgkwbvmmwc5a"
+    ]
+  },
+  "luma-batch-evtpN85tBSVOni4C": {
+    "until": "2027-10-31T10:37:07.478Z",
+    "slugs": [
+      "gwffy8ec",
+      "luma-batch-evtpn85tbsvoni4c"
+    ]
+  },
+  "luma-batch-evtraKbv5ad7Ma0n": {
+    "until": "2027-10-31T10:37:07.478Z",
+    "slugs": [
+      "builde-5cd9",
+      "luma-batch-evtrakbv5ad7ma0n"
+    ]
+  },
+  "luma-batch-evtxynyfrCDssQqX": {
+    "until": "2027-10-31T10:37:07.478Z",
+    "slugs": [
+      "luxq9jt4",
+      "luma-batch-evtxynyfrcdssqqx"
+    ]
+  },
+  "token2049-evt-Cc2bDtTNBajOQuN": {
+    "until": "2027-10-31T10:37:07.478Z",
+    "slugs": [
+      "programmable-economy",
+      "token2049-evt-cc2bdttnbajoqun"
+    ]
   }
 }

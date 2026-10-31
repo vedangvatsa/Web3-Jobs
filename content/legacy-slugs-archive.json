@@ -151839,5 +151839,71 @@
     "link": "https://jobs.ashbyhq.com/ether.fi/1e7eb2e8-f257-42e3-aa1e-0b49d3081fea",
     "company": "ether.fi",
     "title": "Head of Finance"
+  },
+  "tssc2": {
+    "id": "8245473",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8245473",
+    "title": "Trading Operations Engineer - Cumberland Options",
+    "company": "DRW"
+  },
+  "sec78": {
+    "id": "7fde47f8-af18-4c2e-97f3-b2161d89b230",
+    "link": "https://jobs.ashbyhq.com/Augustus/7fde47f8-af18-4c2e-97f3-b2161d89b230",
+    "title": "Security Engineer",
+    "company": "Augustus"
+  },
+  "sec77": {
+    "id": "8245077",
+    "link": "https://ripple.com/careers/all-jobs/job/8245077?gh_jid=8245077",
+    "title": "Physical Security Manager, APAC/MENA",
+    "company": "Ripple"
+  },
+  "ia2": {
+    "id": "it-administrator_paris",
+    "link": "https://jobs.zama.org/jobs/it-administrator_paris",
+    "title": "IT Administrator",
+    "company": "Zama"
+  },
+  "mgr122": {
+    "id": "8190032",
+    "link": "https://stripe.com/jobs/search?gh_jid=8190032",
+    "title": "Critical Support Manager - Escalations",
+    "company": "Stripe"
+  },
+  "pm204": {
+    "id": "8010274003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8010274003",
+    "title": "Senior Product Manager / Director, Trading Products",
+    "company": "OKX"
+  },
+  "eng193": {
+    "id": "8859670002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8859670002?gh_jid=8859670002",
+    "title": "Data Centre Facilities Engineer",
+    "company": "Jane Street"
+  },
+  "ops79": {
+    "id": "8239099",
+    "link": "https://www.coinbase.com/careers/positions/8239099?gh_jid=8239099",
+    "title": "Operations Manager",
+    "company": "Coinbase"
+  },
+  "psl2": {
+    "id": "8245356",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8245356",
+    "title": "Senior Power Strategist - Load",
+    "company": "DRW"
+  },
+  "pm191": {
+    "id": "8010187003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8010187003",
+    "title": "Principal Product Manager - Simple Trading, Growth & Retention",
+    "company": "OKX"
+  },
+  "dsci": {
+    "id": "0e7f0f5f-0a3f-4e37-9428-5aa259a22a72",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/0e7f0f5f-0a3f-4e37-9428-5aa259a22a72",
+    "title": "Deployment Strategist - Crypto Investigations",
+    "company": "Chainalysis"
   }
 }

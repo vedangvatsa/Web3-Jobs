@@ -1,0 +1,1052 @@
+[
+  {
+    "duration_interval": "P0Y0M0DT6H0M0S",
+    "geo_address_json": {
+      "city": "Mumbai",
+      "type": "google",
+      "region": "Maharashtra",
+      "address": "Mumbai",
+      "country": "India",
+      "place_id": "ChIJwe1EZjDG5zsRaYxkjY_tpF0",
+      "city_state": "Mumbai, India",
+      "description": "",
+      "sublocality": null,
+      "country_code": "IN",
+      "full_address": "Mumbai, Maharashtra, India",
+      "region_short": "MH",
+      "short_address": "Mumbai",
+      "place_coordinate": {
+        "latitude": 18.9582347,
+        "longitude": 72.8319514
+      },
+      "apple_maps_place_id": null
+    },
+    "coordinate": {
+      "longitude": 72.8319514,
+      "latitude": 18.9582347
+    },
+    "host": null,
+    "name": "India Blockchain & AI Tour 2026 — Mumbai Node",
+    "start_at": "2026-10-31T06:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "url": "https://konfhub.com/india-blockchain-tour-2026-mumbai-node?utm_source=web3meetups",
+    "geo_address_info": {
+      "city": "Mumbai",
+      "type": "google",
+      "region": "Maharashtra",
+      "address": "Mumbai",
+      "country": "India",
+      "place_id": "ChIJwe1EZjDG5zsRaYxkjY_tpF0",
+      "city_state": "Mumbai, India",
+      "description": "",
+      "sublocality": null,
+      "country_code": "IN",
+      "full_address": "Mumbai, Maharashtra, India",
+      "region_short": "MH",
+      "short_address": "Mumbai",
+      "place_coordinate": {
+        "latitude": 18.9582347,
+        "longitude": 72.8319514
+      },
+      "apple_maps_place_id": null,
+      "mode": "shown"
+    }
+  },
+  {
+    "api_id": "evt-5vtPTw3cBLlbd4R",
+    "calendar_api_id": "cal-cl57AMcV2gdbbau",
+    "cover_url": "https://images.lumacdn.com/uploads/1w/4e3c45ce-f384-431e-9237-528750d83a23.png",
+    "end_at": "2026-10-31T15:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Indie Builders Dinner w/ Harkirat Singh",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/uk/80c36b96-5c0b-463d-836a-91277a40f978.png",
+    "start_at": "2026-10-31T13:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "url": "indie-builders-dinner-2026",
+    "user_api_id": "usr-rCaS4JLmR62yKIU",
+    "visibility": "public",
+    "virtual_info": {
+      "has_access": false
+    },
+    "geo_address_info": {
+      "mode": "obfuscated",
+      "city": "Mumbai",
+      "city_state": "Mumbai, India",
+      "sublocality": "G Block BKC",
+      "country": "India",
+      "country_code": "IN",
+      "region": "Maharashtra",
+      "region_short": "MH"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+      "latitude": 19.061397585884944,
+      "longitude": 72.86439656673589
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+  },
+  {
+    "api_id": "evt-6j68WnE2AAaoH5u",
+    "calendar_api_id": "cal-xHgFudCzFtRYNrH",
+    "cover_url": "https://images.lumacdn.com/uploads/bt/9a6ae7aa-1c87-4d7e-9836-df34a28e6ae7.jpg",
+    "end_at": "2026-11-01T04:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Run & Rave: Fhenix x Orviq",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/vo/b7b4c976-0290-49a6-9ae3-e0fcc7da7a0a.png",
+    "start_at": "2026-11-01T01:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "url": "3doehm1b",
+    "user_api_id": "usr-McRZt1Fhm4BLBqC",
+    "visibility": "public",
+    "virtual_info": {
+      "has_access": false
+    },
+    "geo_address_info": {
+      "mode": "obfuscated",
+      "city": "Mumbai",
+      "city_state": "Mumbai, India",
+      "sublocality": "Union Park",
+      "country": "India",
+      "country_code": "IN",
+      "region": "Maharashtra",
+      "region_short": "MH"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+      "latitude": 19.068253059586294,
+      "longitude": 72.82295301635837
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+  },
+  {
+    "api_id": "evt-ZAxjtXnbNBG3bus",
+    "calendar_api_id": "cal-8C7ikiLuKKvz9FK",
+    "cover_url": "https://images.lumacdn.com/uploads/8y/b1128c37-52eb-4ca0-b00b-2e2edabc95f6.png",
+    "end_at": "2026-11-01T02:15:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Touch Grass, Not Contracts 🌿 | Security Researchers' Walk",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/kj/ad42e136-cd9b-4f7f-85f2-d41d5e0bc60d.png",
+    "start_at": "2026-11-01T01:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "url": "3xehz0zi",
+    "user_api_id": "usr-7XGrvVqCbxy9QM2",
+    "visibility": "public",
+    "virtual_info": {
+      "has_access": false
+    },
+    "geo_address_info": {
+      "city": "Mumbai",
+      "type": "google",
+      "region": "Maharashtra",
+      "address": "Chhatrapati Shivaji Maharaj Monument.",
+      "country": "India",
+      "place_id": "ChIJjSUk6ZXJ5zsRmB_egejUl3g",
+      "localized": {
+        "hi": {
+          "city": "Mumbai",
+          "region": "Maharashtra",
+          "address": "छत्रपति शिवाजी महाराज मॉन्यूमेंट.",
+          "country": "भारत",
+          "city_state": "Mumbai, भारत",
+          "sublocality": "Airport Area",
+          "full_address": "छत्रपति शिवाजी महाराज मॉन्यूमेंट., 1, Juhu Tara Rd, Nazir Wadi, Airport Area, Juhu, Mumbai, Maharashtra 400049, भारत",
+          "region_short": "MH",
+          "short_address": "1, Juhu Tara Rd, Nazir Wadi, Airport Area, Juhu, Mumbai"
+        }
+      },
+      "city_state": "Mumbai, India",
+      "description": null,
+      "sublocality": "Airport Area",
+      "country_code": "IN",
+      "full_address": "Chhatrapati Shivaji Maharaj Monument., 1, Juhu Tara Rd, Nazir Wadi, Airport Area, Juhu, Mumbai, Maharashtra 400049, India",
+      "region_short": "MH",
+      "short_address": "1, Juhu Tara Rd, Nazir Wadi, Airport Area, Juhu, Mumbai",
+      "place_coordinate": {
+        "latitude": 19.0983406,
+        "longitude": 72.82676219999999
+      },
+      "apple_maps_place_id": "IA287AE5A38015C0A",
+      "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+      "longitude": 72.82676219999999,
+      "latitude": 19.0983406
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+  },
+  {
+    "api_id": "evt-vgIvAuAafDBzhhG",
+    "calendar_api_id": "cal-cl57AMcV2gdbbau",
+    "cover_url": "https://images.lumacdn.com/uploads/7u/8792b56d-5fa0-4d00-a2c0-fafd33dbe0c5.png",
+    "end_at": "2026-11-01T04:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "sunday morning padel & pickleball club™",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/8p/2196846e-e16e-45e3-bf9f-22fca02e1de7.png",
+    "start_at": "2026-11-01T02:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "url": "padel-pickle-club",
+    "user_api_id": "usr-rCaS4JLmR62yKIU",
+    "visibility": "public",
+    "virtual_info": {
+      "has_access": false
+    },
+    "geo_address_info": {
+      "mode": "obfuscated",
+      "city": "Mumbai",
+      "city_state": "Mumbai, India",
+      "sublocality": "Mount Mary",
+      "country": "India",
+      "country_code": "IN",
+      "region": "Maharashtra",
+      "region_short": "MH"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+      "latitude": 19.04350097798247,
+      "longitude": 72.82063445822172
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+  },
+  {
+    "api_id": "evt-GotDuGQ76BanHoQ",
+    "calendar_api_id": "cal-rgg7AUMO5WrnFqQ",
+    "cover_url": "https://images.lumacdn.com/uploads/hb/f27621ae-2368-4c59-aab0-f906081edd63.png",
+    "end_at": "2026-11-02T12:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "DeFi Security Summit 2026",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/fu/de84c566-2b57-4c37-855a-708e93d5a346.png",
+    "start_at": "2026-11-01T04:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "url": "9qtxqqxx",
+    "user_api_id": "usr-WToDLrgV9HNUMTY",
+    "visibility": "public",
+    "virtual_info": {
+      "has_access": false
+    },
+    "geo_address_info": {
+      "type": "manual",
+      "address": "Courtyard by Marriott Mumbai International Airport",
+      "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": null,
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+  },
+  {
+    "duration_interval": "P0Y0M0DT33H0M0S",
+    "geo_address_json": {
+      "city": "Mumbai",
+      "type": "google",
+      "region": "Maharashtra",
+      "address": "Fairmont Mumbai",
+      "country": "India",
+      "place_id": "ChIJZ1eluQbJ5zsRVTTiDls0wgg",
+      "city_state": "Mumbai, India",
+      "description": "",
+      "sublocality": "Navpada",
+      "country_code": "IN",
+      "full_address": "Fairmont Mumbai, C06 At, Chhatrapati Shivaji Maharaj International Airport Mumbai, Terminal 2, C T S No 1405 (Part, Navpada, Maharaj, Vile Parle, Mumbai, Maharashtra 400099, India",
+      "region_short": "MH",
+      "short_address": "C06 At, Chhatrapati Shivaji Maharaj International Airport Mumbai (BOM), Terminal 2, C T S No 1405 (Part, Navpada, Maharaj, Vile Parle, Mumbai",
+      "place_coordinate": {
+        "latitude": 19.1022079,
+        "longitude": 72.87696249999999
+      },
+      "apple_maps_place_id": "I1BC9E483F7E9E481"
+    },
+    "coordinate": {
+      "longitude": 72.87696249999999,
+      "latitude": 19.1022079
+    },
+    "host": "Hashed Emergent",
+    "name": "IBW Institutional Forum",
+    "start_at": "2026-11-01T04:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "url": "https://www.indiablockchainweek.com/institutional-forum?utm_source=web3meetups",
+    "geo_address_info": {
+      "city": "Mumbai",
+      "type": "google",
+      "region": "Maharashtra",
+      "address": "Fairmont Mumbai",
+      "country": "India",
+      "place_id": "ChIJZ1eluQbJ5zsRVTTiDls0wgg",
+      "city_state": "Mumbai, India",
+      "description": "",
+      "sublocality": "Navpada",
+      "country_code": "IN",
+      "full_address": "Fairmont Mumbai, C06 At, Chhatrapati Shivaji Maharaj International Airport Mumbai, Terminal 2, C T S No 1405 (Part, Navpada, Maharaj, Vile Parle, Mumbai, Maharashtra 400099, India",
+      "region_short": "MH",
+      "short_address": "C06 At, Chhatrapati Shivaji Maharaj International Airport Mumbai (BOM), Terminal 2, C T S No 1405 (Part, Navpada, Maharaj, Vile Parle, Mumbai",
+      "place_coordinate": {
+        "latitude": 19.1022079,
+        "longitude": 72.87696249999999
+      },
+      "apple_maps_place_id": "I1BC9E483F7E9E481",
+      "mode": "shown"
+    }
+  },
+  {
+    "duration_interval": "P0Y0M0DT33H0M0S",
+    "geo_address_json": {
+      "city": "Mumbai",
+      "type": "google",
+      "region": "Maharashtra",
+      "address": "Fairmont Mumbai",
+      "country": "India",
+      "place_id": "ChIJZ1eluQbJ5zsRVTTiDls0wgg",
+      "city_state": "Mumbai, India",
+      "description": "",
+      "sublocality": "Navpada",
+      "country_code": "IN",
+      "full_address": "Fairmont Mumbai, C06 At, Chhatrapati Shivaji Maharaj International Airport Mumbai, Terminal 2, C T S No 1405 (Part, Navpada, Maharaj, Vile Parle, Mumbai, Maharashtra 400099, India",
+      "region_short": "MH",
+      "short_address": "C06 At, Chhatrapati Shivaji Maharaj International Airport Mumbai (BOM), Terminal 2, C T S No 1405 (Part, Navpada, Maharaj, Vile Parle, Mumbai",
+      "place_coordinate": {
+        "latitude": 19.1022079,
+        "longitude": 72.87696249999999
+      },
+      "apple_maps_place_id": "I1BC9E483F7E9E481"
+    },
+    "coordinate": {
+      "longitude": 72.87696249999999,
+      "latitude": 19.1022079
+    },
+    "host": "Hashed Emergent",
+    "name": "IBW 2026 Conference",
+    "start_at": "2026-11-01T04:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "url": "https://indiablockchainweek.com/?utm_source=web3meetups",
+    "geo_address_info": {
+      "city": "Mumbai",
+      "type": "google",
+      "region": "Maharashtra",
+      "address": "Fairmont Mumbai",
+      "country": "India",
+      "place_id": "ChIJZ1eluQbJ5zsRVTTiDls0wgg",
+      "city_state": "Mumbai, India",
+      "description": "",
+      "sublocality": "Navpada",
+      "country_code": "IN",
+      "full_address": "Fairmont Mumbai, C06 At, Chhatrapati Shivaji Maharaj International Airport Mumbai, Terminal 2, C T S No 1405 (Part, Navpada, Maharaj, Vile Parle, Mumbai, Maharashtra 400099, India",
+      "region_short": "MH",
+      "short_address": "C06 At, Chhatrapati Shivaji Maharaj International Airport Mumbai (BOM), Terminal 2, C T S No 1405 (Part, Navpada, Maharaj, Vile Parle, Mumbai",
+      "place_coordinate": {
+        "latitude": 19.1022079,
+        "longitude": 72.87696249999999
+      },
+      "apple_maps_place_id": "I1BC9E483F7E9E481",
+      "mode": "shown"
+    }
+  },
+  {
+    "api_id": "evt-iIl5cGqz2tmCDky",
+    "calendar_api_id": "cal-GDWcniytgs8PsEj",
+    "cover_url": "https://images.lumacdn.com/uploads/70/da40780f-b835-4152-93de-54d03adc3f46.png",
+    "end_at": "2026-11-01T13:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Zcash World - Mumbai",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/y2/c8aebab5-045d-456e-8de1-21f7e1fa073a.png",
+    "start_at": "2026-11-01T05:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "url": "83ujl6ms",
+    "user_api_id": "usr-2sWz4CjgtKKFHIu",
+    "visibility": "public",
+    "virtual_info": {
+      "has_access": false
+    },
+    "geo_address_info": {
+      "mode": "obfuscated",
+      "city": "Mumbai",
+      "city_state": "Mumbai, India",
+      "sublocality": "Bandra Kurla Complex",
+      "country": "India",
+      "country_code": "IN",
+      "region": "Maharashtra",
+      "region_short": "MH"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+      "latitude": 19.06950986144064,
+      "longitude": 72.87441893895692
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+  },
+  {
+    "api_id": "evt-8AUYRaqULL9TGpM",
+    "calendar_api_id": "cal-sRBoLk62mcAnKUP",
+    "cover_url": "https://images.lumacdn.com/uploads/2y/6ff0cb33-ba3a-4bde-b3a4-a81056c66e79.png",
+    "end_at": "2026-11-01T06:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "BORN UP — India Blockchain Week Mumbai Community Networking Meetup",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/k2/c561a82d-f9cf-4777-b062-2fca82eda2bb.png",
+    "start_at": "2026-11-01T06:00:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "url": "bornlive-tpiy",
+    "user_api_id": "usr-201kCOWJGnxLeq5",
+    "visibility": "public",
+    "virtual_info": {
+      "has_access": false
+    },
+    "geo_address_info": {
+      "city": "Mumbai",
+      "type": "google",
+      "region": "Maharashtra",
+      "address": "Fairmont Mumbai",
+      "country": "India",
+      "place_id": "ChIJZ1eluQbJ5zsRVTTiDls0wgg",
+      "localized": {
+        "hi": {
+          "city": "Mumbai",
+          "region": "Maharashtra",
+          "address": "फॉर्मेंट मुंबई",
+          "country": "भारत",
+          "city_state": "Mumbai, भारत",
+          "sublocality": "Navpada",
+          "full_address": "फॉर्मेंट मुंबई, C06 At, छत्रपती शिवाजी महाराज इंटरनॅशनल एअरपोर्ट, मुंबई, Terminal 2, C T S No 1405 (Part, Navpada, Maharaj, Vile Parle, Mumbai, Maharashtra 400099, भारत",
+          "region_short": "MH",
+          "short_address": "C06 At, छत्रपती शिवाजी महाराज इंटरनॅशनल एअरपोर्ट, मुंबई (BOM), Terminal 2, C T S No 1405 (Part, Navpada, Maharaj, Vile Parle, Mumbai"
+        },
+        "en-GB": {
+          "city": "Mumbai",
+          "region": "Maharashtra",
+          "address": "Fairmont Mumbai",
+          "country": "India",
+          "city_state": "Mumbai, India",
+          "sublocality": "Navpada",
+          "full_address": "Fairmont Mumbai, C06 At, Chhatrapati Shivaji Maharaj International Airport Mumbai, Terminal 2, C T S No 1405 (Part, Navpada, Maharaj, Vile Parle, Mumbai, Maharashtra 400099, India",
+          "region_short": "MH",
+          "short_address": "C06 At, Chhatrapati Shivaji Maharaj International Airport Mumbai (BOM), Terminal 2, C T S No 1405 (Part, Navpada, Maharaj, Vile Parle, Mumbai"
+        }
+      },
+      "city_state": "Mumbai, India",
+      "description": "Exact meeting point at or near Fairmont Mumbai and access arrangements to be confirmed. Check this page before arriving. Meetup registration does not include conference admission.",
+      "sublocality": "Navpada",
+      "country_code": "IN",
+      "full_address": "Fairmont Mumbai, C06 At, Chhatrapati Shivaji Maharaj International Airport Mumbai, Terminal 2, C T S No 1405 (Part, Navpada, Maharaj, Vile Parle, Mumbai, Maharashtra 400099, India",
+      "region_short": "MH",
+      "short_address": "C06 At, Chhatrapati Shivaji Maharaj International Airport Mumbai (BOM), Terminal 2, C T S No 1405 (Part, Navpada, Maharaj, Vile Parle, Mumbai",
+      "place_coordinate": {
+        "latitude": 19.1022079,
+        "longitude": 72.87696249999999
+      },
+      "apple_maps_place_id": "I1BC9E483F7E9E481",
+      "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+      "longitude": 72.87696249999999,
+      "latitude": 19.1022079
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+  },
+  {
+    "api_id": "evt-VaPweR6JCw17XGa",
+    "calendar_api_id": "cal-K1Q62e5PBWEwoJ5",
+    "cover_url": "https://images.lumacdn.com/uploads/9u/a751e568-d42d-43c7-9b48-a719d845cd22.jpg",
+    "end_at": "2026-11-01T11:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Team1 India Connect - IBW Mumbai",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/i2/060370ef-1d42-4db5-994b-081163016a90.png",
+    "start_at": "2026-11-01T10:00:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "url": "rlu6yme0",
+    "user_api_id": "usr-92IEiGloZfe0yPj",
+    "visibility": "public",
+    "virtual_info": {
+      "has_access": false
+    },
+    "geo_address_info": {
+      "city": "Mumbai",
+      "type": "google",
+      "region": "Maharashtra",
+      "address": "Fairmont Mumbai",
+      "country": "India",
+      "place_id": "ChIJZ1eluQbJ5zsRVTTiDls0wgg",
+      "localized": {
+        "hi": {
+          "city": "Mumbai",
+          "region": "Maharashtra",
+          "address": "फॉर्मेंट मुंबई",
+          "country": "भारत",
+          "city_state": "Mumbai, भारत",
+          "sublocality": "Navpada",
+          "full_address": "फॉर्मेंट मुंबई, C06 At, छत्रपती शिवाजी महाराज इंटरनॅशनल एअरपोर्ट, मुंबई, Terminal 2, C T S No 1405 (Part, Navpada, Maharaj, Vile Parle, Mumbai, Maharashtra 400099, भारत",
+          "region_short": "MH",
+          "short_address": "C06 At, छत्रपती शिवाजी महाराज इंटरनॅशनल एअरपोर्ट, मुंबई (BOM), Terminal 2, C T S No 1405 (Part, Navpada, Maharaj, Vile Parle, Mumbai"
+        },
+        "en-GB": {
+          "city": "Mumbai",
+          "region": "Maharashtra",
+          "address": "Fairmont Mumbai",
+          "country": "India",
+          "city_state": "Mumbai, India",
+          "sublocality": "Navpada",
+          "full_address": "Fairmont Mumbai, C06 At, Chhatrapati Shivaji Maharaj International Airport Mumbai, Terminal 2, C T S No 1405 (Part, Navpada, Maharaj, Vile Parle, Mumbai, Maharashtra 400099, India",
+          "region_short": "MH",
+          "short_address": "C06 At, Chhatrapati Shivaji Maharaj International Airport Mumbai (BOM), Terminal 2, C T S No 1405 (Part, Navpada, Maharaj, Vile Parle, Mumbai"
+        }
+      },
+      "city_state": "Mumbai, India",
+      "description": "",
+      "sublocality": "Navpada",
+      "country_code": "IN",
+      "full_address": "Fairmont Mumbai, C06 At, Chhatrapati Shivaji Maharaj International Airport Mumbai, Terminal 2, C T S No 1405 (Part, Navpada, Maharaj, Vile Parle, Mumbai, Maharashtra 400099, India",
+      "region_short": "MH",
+      "short_address": "C06 At, Chhatrapati Shivaji Maharaj International Airport Mumbai (BOM), Terminal 2, C T S No 1405 (Part, Navpada, Maharaj, Vile Parle, Mumbai",
+      "place_coordinate": {
+        "latitude": 19.1022079,
+        "longitude": 72.87696249999999
+      },
+      "apple_maps_place_id": "I1BC9E483F7E9E481",
+      "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+      "longitude": 72.87696249999999,
+      "latitude": 19.1022079
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+  },
+  {
+    "api_id": "evt-cFa8fILMOq8zmBQ",
+    "calendar_api_id": "cal-Ol0nhv906qZ6PMU",
+    "cover_url": "https://images.lumacdn.com/uploads/gg/3f313570-e0e3-4d4a-8fea-6a93b1163ff7.gif",
+    "end_at": "2026-11-01T13:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Frontier Traders Connect: Mumbai (Invite Only)",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/8p/05b113a9-c69f-4670-9540-b6e351b72bc3.png",
+    "start_at": "2026-11-01T10:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "url": "frontier-traders-india",
+    "user_api_id": "usr-rCaS4JLmR62yKIU",
+    "visibility": "public",
+    "virtual_info": {
+      "has_access": false
+    },
+    "geo_address_info": {
+      "mode": "obfuscated",
+      "city": "Mumbai",
+      "city_state": "Mumbai, India",
+      "sublocality": "G Block BKC",
+      "country": "India",
+      "country_code": "IN",
+      "region": "Maharashtra",
+      "region_short": "MH"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+      "latitude": 19.068898678378126,
+      "longitude": 72.86685344298782
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+  },
+  {
+    "api_id": "evt-03aY9MF3WBtvMUc",
+    "calendar_api_id": "cal-1wMgOLwWUS0ApuB",
+    "cover_url": "https://images.lumacdn.com/uploads/z3/f32e73aa-c10e-4b53-b871-9d1c7bd19bfa.gif",
+    "end_at": "2026-11-01T12:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Ready For The Run @ IBW 2026",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/mw/1d4e2efd-3574-445f-b802-1b115e6c7434.png",
+    "start_at": "2026-11-01T11:00:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "url": "t2xpm5gj",
+    "user_api_id": "usr-EU2cn113IX1ApIK",
+    "visibility": "public",
+    "virtual_info": {
+      "has_access": false
+    },
+    "geo_address_info": {
+      "mode": "obfuscated",
+      "city": "Mumbai",
+      "city_state": "Mumbai, India",
+      "sublocality": "Navpada",
+      "country": "India",
+      "country_code": "IN",
+      "region": "Maharashtra",
+      "region_short": "MH"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+      "latitude": 19.104295497662324,
+      "longitude": 72.87738747628978
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "active"
+  },
+  {
+    "api_id": "evt-UFTPBc3GPwAHTjt",
+    "calendar_api_id": "cal-OXXz0WEPV0fPvTG",
+    "cover_url": "https://images.lumacdn.com/uploads/aj/4901f33a-0d7f-41ac-be97-a11ae94da82d.jpg",
+    "end_at": "2026-11-01T15:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Afterhours Mixer: Mumbai",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/j2/e9310a17-3dea-402a-9144-1a462779ded5.png",
+    "start_at": "2026-11-01T11:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "url": "1cnairat",
+    "user_api_id": "usr-XQm1QnJ5CsU2A8f",
+    "visibility": "public",
+    "virtual_info": {
+      "has_access": false
+    },
+    "geo_address_info": {
+      "mode": "obfuscated",
+      "city": "Mumbai",
+      "city_state": "Mumbai, India",
+      "sublocality": "Navpada",
+      "country": "India",
+      "country_code": "IN",
+      "region": "Maharashtra",
+      "region_short": "MH"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+      "latitude": 19.104806831916715,
+      "longitude": 72.87595976344552
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+  },
+  {
+    "api_id": "evt-B8CKjLtOUcmHnET",
+    "calendar_api_id": "cal-oO5ocUKkmiNosu4",
+    "cover_url": "https://images.lumacdn.com/uploads/6t/d69fa337-37ba-4ead-804e-65e4b13c5ea8.jpg",
+    "end_at": "2026-11-01T14:30:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "HyperCup by Hyperliquid India",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/6v/e6927731-3f25-4007-b74e-b578a584bac2.png",
+    "start_at": "2026-11-01T11:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "url": "air2o40t",
+    "user_api_id": "usr-HRGZp66jOuiVVTb",
+    "visibility": "public",
+    "virtual_info": {
+      "has_access": false
+    },
+    "geo_address_info": {
+      "mode": "obfuscated",
+      "city": "Mumbai",
+      "city_state": "Mumbai, India",
+      "sublocality": "Saki Naka",
+      "country": "India",
+      "country_code": "IN",
+      "region": "Maharashtra",
+      "region_short": "MH"
+    },
+    "geo_address_visibility": "guests-only",
+    "coordinate": {
+      "latitude": 19.099600385104495,
+      "longitude": 72.87832276092256
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+  },
+  {
+    "api_id": "evt-XkYzPSXLI1Hh0m9",
+    "calendar_api_id": "cal-8C7ikiLuKKvz9FK",
+    "cover_url": "https://images.lumacdn.com/gallery-images/wm/3cba5809-1daf-4f81-bbad-e74a75537682.png",
+    "end_at": "2026-11-01T14:45:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "404: Conference Room Not Found 🐛 | Security Night Walk",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/lk/89d60372-3613-44b6-aee3-89ae5bafb634.png",
+    "start_at": "2026-11-01T14:00:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "url": "9vf77z15",
+    "user_api_id": "usr-7XGrvVqCbxy9QM2",
+    "visibility": "public",
+    "virtual_info": {
+      "has_access": false
+    },
+    "geo_address_info": {
+      "city": "Mumbai",
+      "type": "google",
+      "region": "Maharashtra",
+      "address": "Chhatrapati Shivaji Maharaj Monument.",
+      "country": "India",
+      "place_id": "ChIJjSUk6ZXJ5zsRmB_egejUl3g",
+      "localized": {
+        "hi": {
+          "city": "Mumbai",
+          "region": "Maharashtra",
+          "address": "छत्रपति शिवाजी महाराज मॉन्यूमेंट.",
+          "country": "भारत",
+          "city_state": "Mumbai, भारत",
+          "sublocality": "Airport Area",
+          "full_address": "छत्रपति शिवाजी महाराज मॉन्यूमेंट., 1, Juhu Tara Rd, Nazir Wadi, Airport Area, Juhu, Mumbai, Maharashtra 400049, भारत",
+          "region_short": "MH",
+          "short_address": "1, Juhu Tara Rd, Nazir Wadi, Airport Area, Juhu, Mumbai"
+        }
+      },
+      "city_state": "Mumbai, India",
+      "description": null,
+      "sublocality": "Airport Area",
+      "country_code": "IN",
+      "full_address": "Chhatrapati Shivaji Maharaj Monument., 1, Juhu Tara Rd, Nazir Wadi, Airport Area, Juhu, Mumbai, Maharashtra 400049, India",
+      "region_short": "MH",
+      "short_address": "1, Juhu Tara Rd, Nazir Wadi, Airport Area, Juhu, Mumbai",
+      "place_coordinate": {
+        "latitude": 19.0983406,
+        "longitude": 72.82676219999999
+      },
+      "apple_maps_place_id": "IA287AE5A38015C0A",
+      "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+      "longitude": 72.82676219999999,
+      "latitude": 19.0983406
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+  },
+  {
+    "api_id": "evt-xDD0qoNkCRNAE8s",
+    "calendar_api_id": "cal-PEDkrB0q7KWkPyW",
+    "cover_url": "https://images.lumacdn.com/uploads/cj/f95159a4-bc4d-4c04-a558-ce1a9dca9ecf.png",
+    "end_at": "2026-11-08T17:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Shaktipith - Women only residency",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/pj/60853ab4-5518-4606-86a8-8107cc06344c.png",
+    "start_at": "2026-11-01T16:00:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "url": "li3sv90r",
+    "user_api_id": "usr-9LEfAz1U9qGHqqU",
+    "visibility": "public",
+    "virtual_info": {
+      "has_access": false
+    },
+    "geo_address_info": {
+      "city": "Mumbai",
+      "type": "google",
+      "region": "Maharashtra",
+      "address": "Mumbai",
+      "country": "India",
+      "place_id": "ChIJwe1EZjDG5zsRaYxkjY_tpF0",
+      "localized": {
+        "hi": {
+          "city": "मुम्बई",
+          "region": "महाराष्ट्र",
+          "address": "मुम्बई",
+          "country": "भारत",
+          "city_state": "मुम्बई, भारत",
+          "sublocality": null,
+          "full_address": "मुम्बई, महाराष्ट्र, भारत",
+          "region_short": "MH",
+          "short_address": "मुम्बई"
+        },
+        "en-GB": {
+          "city": "Mumbai",
+          "region": "Maharashtra",
+          "address": "Mumbai",
+          "country": "India",
+          "city_state": "Mumbai, India",
+          "sublocality": null,
+          "full_address": "Mumbai, Maharashtra, India",
+          "region_short": "MH",
+          "short_address": "Mumbai"
+        }
+      },
+      "city_state": "Mumbai, India",
+      "description": "",
+      "sublocality": null,
+      "country_code": "IN",
+      "full_address": "Mumbai, Maharashtra, India",
+      "region_short": "MH",
+      "short_address": "Mumbai",
+      "place_coordinate": {
+        "latitude": 18.9582347,
+        "longitude": 72.8319514
+      },
+      "apple_maps_place_id": null,
+      "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+      "longitude": 72.8319514,
+      "latitude": 18.9582347
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+  },
+  {
+    "api_id": "evt-l58uYCtUXqOWZzo",
+    "calendar_api_id": "cal-19VBkZFonPiivhr",
+    "cover_url": "https://images.lumacdn.com/gallery-images/ta/8c12c847-8485-42ff-ab48-eaf02538477a",
+    "end_at": "2026-11-08T18:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Catalyst - Founder residency at Devcon",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/a5/7b1e55c1-6a4e-4a21-835a-2615be599170.png",
+    "start_at": "2026-11-01T17:00:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "url": "jb4zsel1",
+    "user_api_id": "usr-9LEfAz1U9qGHqqU",
+    "visibility": "public",
+    "virtual_info": {
+      "has_access": false
+    },
+    "geo_address_info": {
+      "city": "Mumbai",
+      "type": "google",
+      "region": "Maharashtra",
+      "address": "Mumbai",
+      "country": "India",
+      "place_id": "ChIJwe1EZjDG5zsRaYxkjY_tpF0",
+      "localized": {
+        "hi": {
+          "city": "मुम्बई",
+          "region": "महाराष्ट्र",
+          "address": "मुम्बई",
+          "country": "भारत",
+          "city_state": "मुम्बई, भारत",
+          "sublocality": null,
+          "full_address": "मुम्बई, महाराष्ट्र, भारत",
+          "region_short": "MH",
+          "short_address": "मुम्बई"
+        },
+        "en-GB": {
+          "city": "Mumbai",
+          "region": "Maharashtra",
+          "address": "Mumbai",
+          "country": "India",
+          "city_state": "Mumbai, India",
+          "sublocality": null,
+          "full_address": "Mumbai, Maharashtra, India",
+          "region_short": "MH",
+          "short_address": "Mumbai"
+        }
+      },
+      "city_state": "Mumbai, India",
+      "description": "",
+      "sublocality": null,
+      "country_code": "IN",
+      "full_address": "Mumbai, Maharashtra, India",
+      "region_short": "MH",
+      "short_address": "Mumbai",
+      "place_coordinate": {
+        "latitude": 18.9582347,
+        "longitude": 72.8319514
+      },
+      "apple_maps_place_id": null,
+      "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+      "longitude": 72.8319514,
+      "latitude": 18.9582347
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+  },
+  {
+    "api_id": "evt-wvg88v6eCeGG9T5",
+    "calendar_api_id": "cal-8C7ikiLuKKvz9FK",
+    "cover_url": "https://images.lumacdn.com/uploads/01/17be71af-8c9c-4258-bcd0-b2beef81ca28.png",
+    "end_at": "2026-11-02T02:15:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Bug Hunters Anonymous 🐞 | Auditors' Morning Walk",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": false,
+    "social_image_url": "https://images.lumacdn.com/event-social/z8/51fbcf17-8056-403c-bbdc-db91182bb093.png",
+    "start_at": "2026-11-02T01:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "url": "3m6mrikv",
+    "user_api_id": "usr-7XGrvVqCbxy9QM2",
+    "visibility": "public",
+    "virtual_info": {
+      "has_access": false
+    },
+    "geo_address_info": {
+      "city": "Mumbai",
+      "type": "google",
+      "region": "Maharashtra",
+      "address": "Chhatrapati Shivaji Maharaj Monument.",
+      "country": "India",
+      "place_id": "ChIJjSUk6ZXJ5zsRmB_egejUl3g",
+      "localized": {
+        "hi": {
+          "city": "Mumbai",
+          "region": "Maharashtra",
+          "address": "छत्रपति शिवाजी महाराज मॉन्यूमेंट.",
+          "country": "भारत",
+          "city_state": "Mumbai, भारत",
+          "sublocality": "Airport Area",
+          "full_address": "छत्रपति शिवाजी महाराज मॉन्यूमेंट., 1, Juhu Tara Rd, Nazir Wadi, Airport Area, Juhu, Mumbai, Maharashtra 400049, भारत",
+          "region_short": "MH",
+          "short_address": "1, Juhu Tara Rd, Nazir Wadi, Airport Area, Juhu, Mumbai"
+        }
+      },
+      "city_state": "Mumbai, India",
+      "description": null,
+      "sublocality": "Airport Area",
+      "country_code": "IN",
+      "full_address": "Chhatrapati Shivaji Maharaj Monument., 1, Juhu Tara Rd, Nazir Wadi, Airport Area, Juhu, Mumbai, Maharashtra 400049, India",
+      "region_short": "MH",
+      "short_address": "1, Juhu Tara Rd, Nazir Wadi, Airport Area, Juhu, Mumbai",
+      "place_coordinate": {
+        "latitude": 19.0983406,
+        "longitude": 72.82676219999999
+      },
+      "apple_maps_place_id": "IA287AE5A38015C0A",
+      "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+      "longitude": 72.82676219999999,
+      "latitude": 19.0983406
+    },
+    "waitlist_enabled": true,
+    "waitlist_status": "enabled"
+  },
+  {
+    "api_id": "evt-CyZRiDdLECiCPRS",
+    "calendar_api_id": "cal-WJeK56sraztsiIa",
+    "cover_url": "https://images.lumacdn.com/event-covers/cv/284c4fdb-ab37-4cb2-9981-12311c5d62f0.png",
+    "end_at": "2026-11-02T13:00:00.000Z",
+    "event_type": "independent",
+    "hide_rsvp": false,
+    "location_type": "offline",
+    "name": "Ethereum Cypherpunk Congress #3",
+    "one_to_one": true,
+    "recurrence_id": null,
+    "show_guest_list": true,
+    "social_image_url": "https://images.lumacdn.com/event-social/5b/9eec520b-4876-439f-abc2-6ca8ee200180.png",
+    "start_at": "2026-11-02T04:00:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "url": "spsnos9t",
+    "user_api_id": "usr-kdyQtaqVtK7kcH8",
+    "visibility": "public",
+    "virtual_info": {
+      "has_access": false
+    },
+    "geo_address_info": {
+      "city": "Mumbai",
+      "type": "google",
+      "region": "Maharashtra",
+      "address": "Yashwantrao Chavan Centre",
+      "country": "India",
+      "place_id": "ChIJd74E9enR5zsRaPX_EAepD3M",
+      "localized": {
+        "hi": {
+          "city": "Mumbai",
+          "region": "Maharashtra",
+          "address": "यशवंतराव चवन सेंटर",
+          "country": "भारत",
+          "city_state": "Mumbai, भारत",
+          "sublocality": "Nariman Point",
+          "full_address": "यशवंतराव चवन सेंटर, WRFG+MP7 Academy Of Information Technology, 7/8, General Jagannath Bhosle Rd, Nariman Point, Mumbai, Maharashtra 400021, भारत",
+          "region_short": "MH",
+          "short_address": "WRFG+MP7 Academy Of Information Technology, 7/8, General Jagannath Bhosle Rd, Nariman Point, Mumbai"
+        }
+      },
+      "city_state": "Mumbai, India",
+      "description": "",
+      "sublocality": "Nariman Point",
+      "country_code": "IN",
+      "full_address": "Yashwantrao Chavan Centre, WRFG+MP7 Academy Of Information Technology, 7/8, General Jagannath Bhosle Rd, Nariman Point, Mumbai, Maharashtra 400021, India",
+      "region_short": "MH",
+      "short_address": "WRFG+MP7 Academy Of Information Technology, 7/8, General Jagannath Bhosle Rd, Nariman Point, Mumbai",
+      "place_coordinate": {
+        "latitude": 18.9249445,
+        "longitude": 72.8265239
+      },
+      "apple_maps_place_id": "I6E760464BCF08BF1",
+      "mode": "shown"
+    },
+    "geo_address_visibility": "public",
+    "coordinate": {
+      "longitude": 72.8265239,
+      "latitude": 18.9249445
+    },
+    "waitlist_enabled": false,
+    "waitlist_status": "disabled"
+  }
+]

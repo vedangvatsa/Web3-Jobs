@@ -7498,5 +7498,60 @@
         }
       ]
     }
+  },
+  {
+    "id": "ibw-hypercup-hyperliquid-air2o40t",
+    "name": "HyperCup by Hyperliquid India",
+    "slug": "hypercup",
+    "description": "HyperCup by Hyperliquid India brings community members, DeFi traders, and blockchain builders together in Mumbai for a friendly football tournament ahead of India Blockchain Week and Devcon 8. Hosted by Hyperliquid India, participants form teams on-site, connect with fellow ecosystem members, and enjoy post-match networking and refreshments in Saki Naka, Mumbai.",
+    "startDate": "2026-11-01T11:30:00.000Z",
+    "endDate": "2026-11-01T14:30:00.000Z",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Saki Naka, Mumbai, India",
+    "category": "Community/Sports",
+    "sideEventFor": [
+      "ibw"
+    ],
+    "url": "https://luma.com/air2o40t",
+    "coverImage": "/events/hypercup-air2o40t.webp",
+    "source": "ibw-official",
+    "hosts": [
+      "Hyperliquid India",
+      "Uddalak Das"
+    ],
+    "price": "Free",
+    "approvalRequired": false,
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/air2o40t",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "organizer": {
+      "type": "Organization",
+      "name": "Hyperliquid India"
+    },
+    "ticketOffers": [
+      {
+        "name": "General Admission",
+        "url": "https://luma.com/air2o40t",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/air2o40t",
+      "eventId": "evt-B8CKjLtOUcmHnET",
+      "fetchedAt": "2026-10-31T10:37:02.514Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/air2o40t",
+      "fetchedAt": "2026-10-31T10:37:02.520Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "HyperCup by Hyperliquid India · Luma",
+      "sha256": "4866286096de1b1c1afaf1d862b6b0e916f991d018051ae2c6a3fc061ec6a72d"
+    }
   }
 ]
