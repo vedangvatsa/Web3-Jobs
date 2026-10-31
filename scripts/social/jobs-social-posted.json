@@ -80207,7 +80207,8 @@
       },
       "account": "channel:developers",
       "attemptId": "957d974b-5686-48ce-9eb4-5fc1214a978e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x20b768062a11e0e4ed02921fe14568c9b9889e43"
     }
   ]
 }
