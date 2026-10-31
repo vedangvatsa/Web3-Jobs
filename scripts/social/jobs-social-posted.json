@@ -82370,8 +82370,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "ad0fc422-0363-472f-9929-595648460385",
-      "verification": "pending",
-      "postId": "6ae5d2a4b84259308bd343d9"
+      "verification": "verified",
+      "postId": "6ae5d2a4b84259308bd343d9",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7522260188847013889"
     }
   ]
 }
