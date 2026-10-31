@@ -29253,12 +29253,14 @@
     "dateSource": "Greenhouse.first_published"
   },
   "https://careers.kula.ai/relay/59319": {
-    "date": "2026-10-16T16:01:55.000Z",
-    "dateVerified": true
+    "date": "2026-10-01T15:50:11.000Z",
+    "dateVerified": true,
+    "dateSource": "Kula.Job.launch_at"
   },
   "https://careers.kula.ai/relay/54803": {
-    "date": "2026-10-16T16:01:54.000Z",
-    "dateVerified": true
+    "date": "2026-09-21T20:48:27.000Z",
+    "dateVerified": true,
+    "dateSource": "Kula.Job.launch_at"
   },
   "https://careers.kula.ai/relay/53261": {
     "date": "2026-10-16T16:01:53.000Z",
@@ -29269,16 +29271,18 @@
     "dateVerified": true
   },
   "https://careers.kula.ai/relay/51288": {
-    "date": "2026-10-16T16:01:51.000Z",
-    "dateVerified": true
+    "date": "2026-05-15T00:00:00.000Z",
+    "dateVerified": true,
+    "dateSource": "Kula.Job.launch_at"
   },
   "https://careers.kula.ai/relay/52725": {
     "date": "2026-10-16T16:01:51.000Z",
     "dateVerified": true
   },
   "https://careers.kula.ai/relay/50053": {
-    "date": "2026-10-16T16:01:49.000Z",
-    "dateVerified": true
+    "date": "2026-07-01T13:00:00.000Z",
+    "dateVerified": true,
+    "dateSource": "Kula.Job.launch_at"
   },
   "https://jobs.solana.com/companies/temporal-2-0e59b0f4-74c3-42dc-8847-5e62e8055075/jobs/97264636-senior-product-engineer": {
     "date": "2026-10-16T20:05:23.000Z",
@@ -29766,12 +29770,14 @@
     "dateVerified": true
   },
   "https://careers.kula.ai/relay/62220": {
-    "date": "2026-10-17T12:33:19.000Z",
-    "dateVerified": true
+    "date": "2026-10-13T16:46:17.000Z",
+    "dateVerified": true,
+    "dateSource": "Kula.Job.launch_at"
   },
   "https://careers.kula.ai/relay/62219": {
-    "date": "2026-10-17T12:33:19.000Z",
-    "dateVerified": true
+    "date": "2026-10-13T16:45:42.000Z",
+    "dateVerified": true,
+    "dateSource": "Kula.Job.launch_at"
   },
   "greenhouse:5455767008": {
     "date": "2026-10-17T11:27:17.000Z",
@@ -33967,8 +33973,9 @@
     "dateVerified": true
   },
   "https://careers.kula.ai/relay/62222": {
-    "date": "2026-10-28T12:37:24.000Z",
-    "dateVerified": true
+    "date": "2026-10-13T16:47:25.000Z",
+    "dateVerified": true,
+    "dateSource": "Kula.Job.launch_at"
   },
   "https://jobs.solana.com/companies/symmetry/jobs/98159336-product-managerurgente": {
     "date": "2026-10-28T13:42:07.000Z",
@@ -34730,8 +34737,9 @@
     "dateVerified": true
   },
   "https://careers.kula.ai/relay/62221": {
-    "date": "2026-10-29T10:52:53.000Z",
-    "dateVerified": true
+    "date": "2026-10-13T16:46:48.000Z",
+    "dateVerified": true,
+    "dateSource": "Kula.Job.launch_at"
   },
   "https://careers.kast.xyz/en/postings/1c06354b-fa0e-4124-baf1-e4b16f142e85": {
     "date": "2026-10-29T11:30:11.000Z",

@@ -109,6 +109,7 @@
     "ingest:global": "npx tsx scripts/ingest-global-ecosystem-feeds.ts",
     "ingest:untracked": "npx tsx scripts/ingest-untracked-web3-companies.ts",
     "ingest:kast": "npx tsx scripts/ingest-kast-jobs.ts",
+    "ingest:relay": "npx tsx scripts/ingest-relay-jobs.ts",
     "ingest:solana": "npx tsx scripts/ingest-solana-jobs.ts",
     "generate:social-visuals": "npx tsx scripts/generate-social-matrices.ts",
     "build": "npx tsx scripts/run-production-build.ts",
