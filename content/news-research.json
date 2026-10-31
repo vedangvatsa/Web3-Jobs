@@ -105141,7 +105141,23 @@
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
       "attempts": 0,
       "expiresAt": "2026-10-31T13:19:46.000Z",
-      "lastSeenAt": "2026-10-29T03:34:54.128Z"
+      "lastSeenAt": "2026-10-29T03:34:54.128Z",
+      "articleSlug": "dtccroster",
+      "draftProgress": {
+        "id": "8fc89eddfe8a98cbd66e",
+        "day": "2026-10-31",
+        "articleSlug": "dtccroster",
+        "note": "Search surfaced the fresh events behind the Defiant roster roundup: DTCC Tokenization Service live Oct 28 with Ondo as ecosystem collaborator per Ondo blog Oct 29 primary, and OKXICE objections at 38 as of Oct 28 notice per Defiant Converge Oct 29. Defiant roster URL not opened due to paywall pattern. Draft not started; next batch open Ondo blog and an independent report on the DTCC launch and check against okxice.md for the new-objections angle.",
+        "sourceChecks": [
+          {
+            "url": "https://ondo.finance/blog/dtcc-tokenization-service-is-live",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-31T04:09:53.769Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "8d2242eab8a1e38b4662": {
       "source": "Decrypt",
