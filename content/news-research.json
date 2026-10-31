@@ -113866,7 +113866,27 @@
       "firstSeenAt": "2026-10-31T03:31:46.182Z",
       "attempts": 0,
       "expiresAt": "2026-11-02T21:16:54.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "articleSlug": "lummisclarity",
+      "draftProgress": {
+        "id": "e8a0cc4f409e9496577b",
+        "day": "2026-10-31",
+        "articleSlug": "lummisclarity",
+        "note": "Read the Crypto Briefing article and TokenPost's independent short report; both confirm Lummis said the Clarity Act would classify Binance as a covered person. Her X post text is mirrored on forth.news and quoted in full by Gokhshtein. Candidate 7e83a11224f244c8fb2e is the same Crypto Briefing story from 13 seconds earlier and should be recorded as duplicate once this article is drafted. Draft and image still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptobriefing.com/clarity-act-could-classify-binance-as-covered-person-says-lummis/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.tokenpost.com/news/regulation/45172",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-31T03:47:46.859Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "7e83a11224f244c8fb2e": {
       "source": "Crypto Briefing",
