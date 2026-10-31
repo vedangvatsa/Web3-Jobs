@@ -82147,7 +82147,8 @@
       },
       "account": "channel:defi",
       "attemptId": "d434da36-6a35-4a49-9ac4-c9f3a798e568",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xecc253b47b132a176a3c77c80037b5bb2588e5ec"
     }
   ]
 }
