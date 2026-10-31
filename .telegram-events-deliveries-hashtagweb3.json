@@ -4161,7 +4161,7 @@
     "sentAt": "2026-10-31T11:32:15.256Z"
   },
   "461d2673-9b42-4f06-bd5a-d64ff3fc1d38": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-31T19:32:44.565Z",
     "chatId": "@hashtagweb3",
     "threadId": 1454,
@@ -4203,6 +4203,8 @@
         ]
       }
     ],
-    "slotKey": "2026-10-31:evening"
+    "slotKey": "2026-10-31:evening",
+    "messageId": 156028,
+    "sentAt": "2026-10-31T19:32:47.243Z"
   }
 }
