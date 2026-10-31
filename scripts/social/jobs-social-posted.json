@@ -83217,7 +83217,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "bff594e5-eac8-492a-8714-d19f5068ef9d",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae5d378406ab8a018b5d86a"
     }
   ]
 }
