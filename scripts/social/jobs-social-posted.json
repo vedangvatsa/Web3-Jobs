@@ -81366,7 +81366,8 @@
       },
       "account": "channel:product",
       "attemptId": "6493ea6e-27ee-469d-8fe1-62b7fa0367c8",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9291e9001f5064a3b18117cfa2b9049a8870c07e"
     }
   ]
 }
