@@ -84740,7 +84740,8 @@
       },
       "account": "channel:ai",
       "attemptId": "7815034e-36ed-4148-b52c-dd1f559e4b2d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9f99603d9e8045f54e43946590fb26252ab3886b"
     }
   ]
 }
