@@ -4111,5 +4111,51 @@
     "slotKey": "2026-10-31:morning",
     "messageId": 156018,
     "sentAt": "2026-10-31T03:32:32.197Z"
+  },
+  "313e1566-f1f1-4b04-84e0-f60d6dc62509": {
+    "status": "reserved",
+    "reservedAt": "2026-10-31T11:32:12.344Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-tAYni9NdRQ3FZEt",
+        "slug": "bitcoin-in",
+        "name": "Bitcoin India Tour- Goa Edition",
+        "startDate": "2026-11-01T09:30:00.000Z",
+        "keys": [
+          "luma-crypto-tayni9ndrq3fzet",
+          "page:bitcoin-in:2026-11-01",
+          "luma-url:/a3rkoop3",
+          "event:bitcoinindiatourgoaedition:2026-11-01:goa"
+        ]
+      },
+      {
+        "id": "luma-crypto-F8ZFNrYXCCBIuod",
+        "slug": "diy-bitcoin-workshop",
+        "name": "DIY Bitcoin Workshop",
+        "startDate": "2026-11-02T12:00:00.000Z",
+        "keys": [
+          "luma-crypto-f8zfnryxccbiuod",
+          "s17atgcz",
+          "page:diy-bitcoin-workshop:2026-11-02",
+          "luma-url:/s17atgcz",
+          "event:diybitcoinworkshop:2026-11-02:subang jaya"
+        ]
+      },
+      {
+        "id": "luma-crypto-TQDZinnxGDGJiHK",
+        "slug": "ethereum-c",
+        "name": "Ethereum Classic Mumbai",
+        "startDate": "2026-11-02T13:30:00.000Z",
+        "keys": [
+          "luma-crypto-tqdzinnxgdgjihk",
+          "page:ethereum-c:2026-11-02",
+          "luma-url:/flt0wvtq",
+          "event:ethereumclassicmumbai:2026-11-02:mumbai"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-31:afternoon"
   }
 }
