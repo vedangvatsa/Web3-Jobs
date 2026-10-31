@@ -279,7 +279,7 @@ const PAGE_META: Record<string, Omit<OgPreviewMeta, 'canonicalUrl'>> = {
     '/learn': {
       title: `Learn Web3 | ${SITE_NAME}`,
       description: 'Free structured courses for Web3 builders.',
-      ogImageUrl: STATIC_OG.blog,
+      ogImageUrl: `${SITE_URL}/og/pages/learn.png`,
     },
 };
 

@@ -37,6 +37,7 @@ const PAGE_CARDS: Array<{ slug: string; heading: string }> = [
   { slug: 'developers', heading: 'Developer Portal' },
   { slug: 'interview-questions', heading: 'Interview Questions' },
   { slug: 'web3-hiring-report', heading: `Web3 Hiring Report ${hiringReportStats.year}` },
+  { slug: 'learn', heading: 'Learn Web3' },
   ...nomadRoutes().map(({ path }) => ({ slug: path.slice(1), heading: nomadPageInfo(path)!.title })),
 ];
 
