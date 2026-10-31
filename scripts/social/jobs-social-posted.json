@@ -82289,6 +82289,46 @@
       "attemptId": "aa8bf767-32b3-4687-9417-a56c261da633",
       "verification": "verified",
       "postId": "0x5d67e698c7120793b1059a19a1dad3aae33f8ce2"
+    },
+    {
+      "slug": "bces5",
+      "company": "Perle",
+      "title": "Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Taiwan)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-31T11:32:55.187Z",
+      "expectedText": "Perle is hiring Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Taiwan): https://hashtagweb3.com/bces5/li?og=7",
+      "snapshot": {
+        "id": "95944478",
+        "title": "Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Taiwan)",
+        "company": "Perle",
+        "link": "https://ats.rippling.com/perle/jobs/12d7e277-a8ac-4bc2-962b-c45742c1558c",
+        "date": "2026-10-06T11:52:24.000Z",
+        "dateVerified": true,
+        "dateSource": "Solana.JobPosting.postedAt",
+        "source": "Solana Ecosystem: Perle [getro-solana]",
+        "location": "Remote / Taiwan",
+        "department": "AI",
+        "active": true,
+        "slug": "bces5"
+      },
+      "payload": {
+        "text": "Perle is hiring Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Taiwan): https://hashtagweb3.com/bces5/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/bces5/li?og=7",
+          "title": "Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Taiwan) at Perle",
+          "description": "Join Perle as Bilingual Chinese - English Speake. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/bces5.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "e4c33138-d60e-4a1c-8b3b-26f05d712834",
+      "verification": "creating"
     }
   ]
 }
