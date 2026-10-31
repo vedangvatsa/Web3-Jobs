@@ -80459,7 +80459,8 @@
       },
       "account": "channel:ai",
       "attemptId": "8e2d5b98-03bf-40ee-8b83-6105d52d5d02",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x42bc6264da7512b25a55c69e25968376b91315f6"
     }
   ]
 }
