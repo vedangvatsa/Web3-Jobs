@@ -108916,11 +108916,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "1c9b106c0d67f0a193e6",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T09:58:07.000Z",
-      "lastSeenAt": "2026-10-30T10:25:44.767Z"
+      "lastSeenAt": "2026-10-30T10:25:44.767Z",
+      "reason": "verified-event",
+      "note": "Verified CZ's X exchange with Musk and Yi He's revenue reply across Crypto Briefing, Bitcoin.com News and CNA/Reuters; SPCX stake from the $500M Twitter investment valued above $1B per CZ; drafted spacexstake.md with three readable independent sites.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/binance-spacex-stake-cover-hack-losses-cz/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://news.bitcoin.com/featured/cz-tells-elon-musk-stop-trolling-6-3b-binance-hack-binance-spacex/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.channelnewsasia.com/business/binance-does-not-need-sell-spacex-shares-cover-losses-co-founder-says-6506791",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-31T04:09:18.480Z",
+      "articleSlug": "spacexstake",
+      "lastReviewedDay": "2026-10-31"
     },
     "1293da5372bad034a595": {
       "source": "Cointelegraph",
@@ -108963,11 +108982,27 @@
       ],
       "alsoCoveredBy": [],
       "id": "a258dfba01720d584de7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T09:44:00.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "duplicate",
+      "note": "The Defiant headline covers the same CZ X posts about the $2B gap and SpaceX shares as the Crypto Briefing and Bitcoin.com reports already used in spacexstake.md; same event, no separate development.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/binance-spacex-stake-cover-hack-losses-cz/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://news.bitcoin.com/featured/cz-tells-elon-musk-stop-trolling-6-3b-binance-hack-binance-spacex/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-31T04:09:18.481Z",
+      "duplicateOf": "spacexstake",
+      "mergedInto": "1c9b106c0d67f0a193e6",
+      "lastReviewedDay": "2026-10-31"
     },
     "c0a6fc9964f174caaabd": {
       "source": "The Defiant",
@@ -206020,6 +206055,45 @@
           "note": "RUNE token price move after the Binance hack is market chatter, not a concrete event; out of scope per editorial rules.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-31T04:07:03.673Z"
+        },
+        "1c9b106c0d67f0a193e6": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified CZ's X exchange with Musk and Yi He's revenue reply across Crypto Briefing, Bitcoin.com News and CNA/Reuters; SPCX stake from the $500M Twitter investment valued above $1B per CZ; drafted spacexstake.md with three readable independent sites.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/binance-spacex-stake-cover-hack-losses-cz/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bitcoin.com/featured/cz-tells-elon-musk-stop-trolling-6-3b-binance-hack-binance-spacex/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.channelnewsasia.com/business/binance-does-not-need-sell-spacex-shares-cover-losses-co-founder-says-6506791",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T04:09:18.480Z",
+          "articleSlug": "spacexstake"
+        },
+        "a258dfba01720d584de7": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "The Defiant headline covers the same CZ X posts about the $2B gap and SpaceX shares as the Crypto Briefing and Bitcoin.com reports already used in spacexstake.md; same event, no separate development.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/binance-spacex-stake-cover-hack-losses-cz/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bitcoin.com/featured/cz-tells-elon-musk-stop-trolling-6-3b-binance-hack-binance-spacex/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T04:09:18.481Z",
+          "duplicateOf": "spacexstake",
+          "mergedInto": "1c9b106c0d67f0a193e6"
         }
       },
       "baselineSlugs": [
