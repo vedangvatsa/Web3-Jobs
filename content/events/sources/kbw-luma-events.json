@@ -219,61 +219,6 @@
     }
   },
   {
-    "id": "kbw-official-on-chain-night-10-01",
-    "name": "On-ChAIn Night [KBW highlighted side event]",
-    "description": "## On-ChAIn NIGHT in Korea\n\nHOSTED BY\n\nORBS | INJECTIVE | STABLE | PEAR | STARGRAPH | DELTAFORESIGHT\n\n## Where On-Chain meet Finance\n[KBW2026 Highlighted Side event]\n\nWhere on-chain meets Finance. Hosted by Orbs during Korea Blockchain Week.\n\nEvent overview\n📅 When — October 1, 2026, from 5PM\n📍 Where — SAC Art Hall (Gangnam area) - aka. Gabin Art Hall\n\n🤝 Who — AI, DeFi , infrastructure teams on stage\n📊 Track record — 55% founders, C-level and decision-makers; 75% from the global industry, 2,094 registrations in 2025\n✨ 4th edition — Since 2023, official KBW side event\n\nWhat you can expect\n🎤 Project keynotes — followed by an open networking\n🍸 Food & drinks — Full catering and an open bar all night\n🎁 Swag — Branded goods and giveaways for every guest\n🎮 Entertainment — Game zone, photo booth and raffle prizes\n\n## 📋 Program:\n\n• Keynotes by leaders\n• Networking party\n  • Game zone\n  • Instant Photo zone\n  • Social media event\n  • Prizes!!!\n• Food and drink will be served\n• 🎁GIFT and Fun 🎲Games are ready for you!!!\n\n⚠︎ This event is ENGLISH ONLY and translation to Korean is not supported.\n\n## 🌐 HOSTs\n\n## [ORBS](https://www.orbs.com/ko/?utm_source=luma)\n\nOrbs is a decentralized Layer-3 (L3) blockchain infrastructure designed specifically for advanced on-chain trading. Orbs improves on-chain trading by providing technology for aggregated liquidity, advanced trading orders, and decentralized derivatives.\n\n## [INJECTIVE](https://injective.com/)\n\nInjective is a lightning fast interoperable layer one blockchain optimized for building premier Web3 finance applications. Injective provides developers with powerful plug-and-play modules for creating unmatched dApps. Injective is incubated by Binance and is backed by prominent investors such as Jump Crypto, Pantera and Mark Cuban.\n\n## [STABLE](https://www.stable.xyz/)\n\nStable is a blockchain purpose-built for stablecoin payments. It provides a settlement layer where value moves in USD₮ with consistent performance, predictable fees, and sub-second finality\n\n## [PEAR](https://www.pear.garden/)\n\nPear Protocol is a pair and basket trading platform for perpetual futures built on top of Hyperliquid, Lighter and Symmio. Traders go long one asset against a short in another, or build a weighted basket of several long and short legs, and hold it as a single position — the return comes from how those assets perform against each other rather than from market direction.\n\n## Stagraph by Ginco\n\nStagraph is a non-custodial staking service built for institutions. It's backed by Ginco, a Japan-based Web3 infrastructure company trusted by major financial institutions. Stagraph currently supports GRAM (TON) and XDC, with others on the way.\n\n## [DeltaForesight](https://deltaforesight.com/en/)\n\nDeltaForesight is a Japan-based company specializing in crypto assets and stablecoins. We provide consulting, marketing, and product development services across business strategy, regulation and compliance, tokenomics, smart contracts, security, and governance. By connecting regulatory, business, and technical perspectives, we help turn emerging ideas into practical solutions for the Asian market and contribute to the healthy development of Asia’s crypto and stablecoin ecosystem.\n\n## 📰 Media partners\n\n[CoinNess](https://coinness.com/?utm_source=luma)\n\nCoinNess is Korea's largest crypto media + community platform. We provide a space for everything crypto-related including real-time news, press releases, and market data.\n\nSince our launch in 2018, we have accumulated over 1M+ MAU and 150K+ DAU. Currently, we are the only non-exchange media platform with this amount of coverage and traffic.\n\n[BlockMedia](https://www.eblockmedia.com/?utm_source=luma)\n\nBlockmedia is Korea’s leading Blockchain and Crypto media outlet.\n\nWe have an exclusive news provision contract [with CMC for Korean users. You can also find us on YouTube](https://www.youtube.com/@Blockmedia) (over 58K subscribers), [Telegram](https://t.me/blockmedia) (over 35K members) [and X](https://x.com/with_blockmedia) (over 35K members).\n\n한스경제(Hansbiz) (https://www.hansbiz.co.kr/)\n\nData-Driven Economic Journalism: Forecasting the Future (미래를 읽는 데이터기반 경제저널리즘)",
-    "startDate": "2026-10-01T08:00:00.000Z",
-    "endDate": "2026-10-01T11:00:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "SAC Art Hall, 534 Samseong-ro, Gangnam District, Seoul, South Korea",
-    "category": "Conference & Networking",
-    "sideEventFor": [
-      "kbw"
-    ],
-    "url": "https://luma.com/n61tjj9r",
-    "coverImage": "/events/kbw-official-on-chain-night-10-01-b5ebe5a9.webp",
-    "source": "kbw-official",
-    "hosts": [
-      "Edward Park",
-      "Eddy (ORBS)"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Seoul",
-    "neighborhood": "Samseong-ro",
-    "slug": "chain-night",
-    "registrationUrl": "https://luma.com/n61tjj9r",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "SAC Art Hall",
-    "streetAddress": "534 Samseong-ro, Gangnam District",
-    "addressLocality": "Seoul",
-    "addressRegion": "Seoul",
-    "addressCountry": "KR",
-    "coordinates": {
-      "latitude": 37.5096357,
-      "longitude": 127.0555218
-    },
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/n61tjj9r",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/n61tjj9r",
-      "eventId": "evt-nx98HVvY4epdkuc",
-      "fetchedAt": "2026-09-19T23:30:03.893Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "kbw-official-easycon-seoul-social-intelligence-workshop-community-night-10-01",
     "name": "EASYCON SEOUL 🇰🇷: On-Chain + Social Intelligence Workshop & Community Night",
     "description": "## EASYCON SEOUL 🇰🇷\n\n배우고, 먹고, 오래 연결되는 밤.\n\n차트 밖에서 움직이는 관심, 대화, 내러티브도 시장을 이해하는 중요한 맥락이 될 수 있습니다.\n\nEASYCON SEOUL은 Suzanne Pace, Institutional Director at Santiment와 함께 온체인·소셜 인텔리전스를 실제 리서치에 어떻게 활용할 수 있는지 살펴보고, 맛있는 음식과 편안한 대화로 이어지는 커뮤니티 나이트입니다.\n\n복잡한 컨퍼런스보다 한 테이블에 앉아 배우고 이야기하는 저녁에 가깝습니다. 처음 오시는 분도, 혼자 오시는 분도 편하게 함께해 주세요.\n\n워크숍은 영어로 진행되며, 현장 체크인·안내와 Q&A에는 한국어 지원이 제공됩니다.\n\n## WORKSHOP\n\nBeyond Price: The On-Chain and Social Metrics That Actually Drive Alpha in Digital Asset Markets\n\n가격 너머의 온체인·소셜 데이터는 무엇을 보여주고, 무엇은 보여주지 못할까요?\n\n짧고 집중도 높은 워크숍과 오픈 Q&A를 통해 온체인 활동, 시장의 관심 흐름, 내러티브와 커뮤니티 신호를 함께 읽는 방법을 살펴봅니다.\n\nSuzanne Pace Institutional Director, Santiment\n\n## WHAT TO EXPECT\n\n• Santiment와 함께하는 실용적인 온체인·소셜 인텔리전스 워크숍\n• 질문을 편하게 나누는 오픈 Q&A\n• 음식, 커피와 음료\n• 트레이더·빌더·리서처·기관·거래소·커뮤니티가 자연스럽게 섞이는 테이블\n• 빠른 Luma 현장 체크인과 선택형 Telegram 커뮤니티 참여 안내\n\n## MEET THE EASYBOY FRENS\n\nEASYCON의 귀여운 EasyBoy frens를 행사장 곳곳에서 만나보세요. 익숙한 얼굴도, 처음 만나는 새로운 fren도 모두 반갑게 환영합니다.\n\n## AGENDA\n\n17:30 Doors Open · Coffee & Food\n\n18:00 Workshop + Open Q&A · Suzanne Pace, Santiment\n\n19:00 Dinner · Curated Networking\n\n20:15 Community Tables · Open Conversations\n\n21:30 Event Ends\n\n## Our media partners 🗞️\n\n[Tokenpost](https://t.co/Litxvu6uSn?utm_source=luma)\n\nKorea's #1 Crypto media outlet in South Korea since Feb 2017. specialises in blockchain technology and the digital asset ecosystem.\n\n[Blockmedia](https://www.blockmedia.co.kr/?utm_source=luma)\n\nA leading blockchain-focused media outlet in Korea, known for trusted local-market coverage and deep insight into the Korean Web3 ecosystem.\n\n[CoinNess](https://coinness.com/?utm_source=luma)\n\nOne of Korea’s best-known crypto media and community platforms, bringing together real-time news, market data, press releases, and community discussion.\n\n[Mpost](https://mpost.io/?referrer=luma&utm_source=luma)\n\nA global Web3 and AI media platform within the Cryptomeria Capital ecosystem and the team behind the Hack Seasons conference series.\n\n## VENUE\n\n앙트레블 · Entravel 서울 강남구 강남대로102길 45\n\n신논현역과 강남역 사이에 있는 편안한 카페형 라운지입니다. 주차가 어려우므로 대중교통 이용을 권장드립니다.\n\n상세 입구 안내는 행사 전 등록자에게 전달드립니다.\n\n## REGISTRATION & CHECK-IN\n\nLuma에서 이름과 이메일을 입력하면 바로 등록할 수 있습니다. 행사 당일에는 Luma 티켓 QR 또는 이름 확인으로 체크인합니다.\n\nTelegram 참여는 행사 자료와 후속 소식을 원하는 분만 선택할 수 있으며, 등록·입장·워크숍·음식·네트워킹에는 영향을 주지 않습니다.\n\n🎟️ 내 EASYCON 참가 배지 받기\n\n오늘의 참여를 디지털 Passport에 남겨보세요.\n\n현장 QR을 스캔하고 Telegram ‘시작’을 누르면 참가 배지(Passport)와 참석 30 XP를 받을 수 있습니다.\n\nPassport를 저장·공유하고, 다음 EASYCON에서도 참여 이력을 다시 확인할 수 있어요.\n\n지갑 등록 없이 참여할 수 있습니다. Telegram 참여는 선택이며, 미참여해도 입장·워크숍·음식·네트워킹에는 영향이 없습니다. XP는 현금이나 확정된 USDC 보상을 뜻하지 않습니다.\n\nGet your EASYCON Passport\n\nScan the on-site event QR and tap Start in Telegram to receive your digital attendance badge and 30 attendance XP. Save or share your Passport and revisit your attendance history at future EASYCON events. No wallet is required. Participation is optional; XP is not cash or a guaranteed USDC reward.\n\nEASYCON COMMUNITY\n\n💬 EASYCON 커뮤니티 참여하기 https://t.me/coineasy_official\n\n## ENGLISH SUMMARY\n\nMarket signals do not live only in price charts. They also appear in on-chain activity and in what people notice, discuss, and believe.\n\nJoin Suzanne Pace, Institutional Director at Santiment, for Beyond Price: The On-Chain and Social Metrics That Actually Drive Alpha in Digital Asset Markets—a practical session on using on-chain and social intelligence as context for market research. The workshop is followed by warm food, drinks, and enough time for real conversations.\n\nCome for the workshop. Stay for the people.\n\nThe workshop will be delivered in English, with Korean on-site guidance and Q&A support available.\n\nCOMPLIANCE\n\n본 행사는 교육 및 커뮤니티 교류를 위한 자리입니다. 행사에서 제공되는 내용은 투자 권유·자문, 가상자산의 매수·매도 제안 또는 수익 보장을 의미하지 않습니다. 모든 판단과 책임은 참가자 본인에게 있습니다.\n\nThis event is for educational and community purposes only. Nothing presented constitutes investment or financial advice, an offer or solicitation, or a promise of performance. Participants should make their own independent decisions.",
@@ -390,60 +335,6 @@
       "url": "https://luma.com/lplcwljs",
       "eventId": "evt-9XPuKVL69166xQ4",
       "fetchedAt": "2026-09-19T23:30:05.155Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "kbw-official-liquidity-table-by-turtle-with-compound-10-01",
-    "name": "Liquidity Table by Turtle with Compound",
-    "description": "🇬🇧 A private dinner for the people shaping liquidity in Korea.\n\nOn KBW's second night, we're gathering a small, curated group of LPs, family offices, and funds around one table. A full course dinner in a private room, and conversation that wouldn't happen on a conference floor.\n\n[Hosted at the table by Essi Lagevardi,](https://x.com/SuperChad15) [CEO of Turtle,](https://x.com/turtledotxyz) [with partners from Compound Foundation.](https://x.com/Compound_xyz)\n\nDate: Thursday, 1 October 2026\nTime: 6:30 PM to 8:30 PM\nVenue: Private dining room, Gangnam - details shared upon confirmation\nFormat: Full course menu, full service\n\n[Hosted by: Turtle](https://x.com/turtledotxyz) & [Lunar Strategy](https://x.com/LunarStrategy)\n[Co-host: Compound Foundation](https://x.com/Compound_xyz)\n\n## The evening\n\n6:30 PM - Arrival and welcome drinks\n\n7:00 PM - Welcome toast, first course served\n\n8:30 PM - Evening closes\n\n## Your hosts\n\nTurtle is a liquidity distribution protocol connecting asset issuers to a verified network of 432,000+ on-chain LPs through a unified platform that handles deal sourcing, due diligence, incentive distribution, billing, and LP relationship management, all verifiable on chain.\n\nLunar Strategy, part of Turtle Group, is the crypto growth agency behind 400+ projects since 2019 - from token launches to ecosystem campaigns.\n\nCompound is one of DeFi's foundational lending protocols - pioneering on-chain money markets and now stewarding the ecosystem through the Compound Foundation.\n\nTwenty seats, each one curated. Apply below and we'll confirm yours.\n\n🇰🇷 한국의 유동성 시장을 만들어가는 사람들을 위해 준비된 프라이빗 디너.\n\nKBW 둘째 날 저녁, 소수의 엄선된 LP, 패밀리 오피스, 펀드 관계자들이 한 테이블에 모입니다. 프라이빗 룸에서 풀코스 디너를 즐기며, 컨퍼런스 현장에서는 쉽게 나누기 어려운 깊이 있는 대화를 나누는 자리입니다.\n\nTurtle의 CEO인 Essi Lagevardi가 Compound Foundation의 파트너들과 함께 테이블을 호스트합니다.\n\n날짜: 2026년 10월 1일 목요일\n시간: 오후 6:30 ~ 8:30\n장소: 강남 프라이빗 다이닝룸 - 참석 확정 후 상세 장소 안내\n형식: 풀코스 메뉴, 풀서비스\n주최: Turtle & Lunar Strategy\n공동 주최: Compound Foundation\n\n## 저녁 일정\n\n• 오후 6:30 - 도착 및 웰컴 드링크\n• 오후 7:00 - 웰컴 토스트 및 첫 번째 코스 제공\n• 오후 8:30 - 행사 종료\n\n## 호스트 소개\n\nTurtle은 자산 발행사와 432,000명 이상의 검증된 온체인 LP 네트워크를 연결하는 유동성 분배 프로토콜입니다. 딜 소싱, 실사, 인센티브 분배, 빌링, LP 관계 관리까지 하나의 통합 플랫폼에서 지원하며, 모든 과정은 온체인에서 검증 가능합니다.\n\nTurtle Group의 일원인 Lunar Strategy는 2019년부터 400개 이상의 프로젝트와 함께해 온 크립토 성장 에이전시로, 토큰 출시부터 생태계 캠페인까지 다양한 프로젝트의 성장을 지원해 왔습니다.\n\nCompound는 DeFi의 기반을 다진 대표적인 렌딩 프로토콜 중 하나로, 온체인 머니마켓을 개척했으며 현재 Compound Foundation을 통해 생태계를 이끌어가고 있습니다.\n\n단 20석만 마련됩니다. 참석자는 신청자 중 선별되며, 아래에서 신청해 주시면 검토 후 참석 확정 여부를 안내드립니다",
-    "startDate": "2026-10-01T09:30:00.000Z",
-    "endDate": "2026-10-01T11:30:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "Seoul, South Korea",
-    "category": "Networking Event",
-    "sideEventFor": [
-      "kbw"
-    ],
-    "url": "https://luma.com/lunar-z7m7",
-    "coverImage": "/events/kbw-official-liquidity-table-by-turtle-with-compou-143994c6.webp",
-    "source": "kbw-official",
-    "hosts": [
-      "Tim Haldorsson",
-      "Luka Mrkic",
-      "Turtle XYZ",
-      "Doo Wan Nam",
-      "Juan Esquivel",
-      "Essi Lagevardi"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Seoul",
-    "slug": "lttc",
-    "registrationUrl": "https://luma.com/lunar-z7m7",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Lunar Strategy",
-      "url": "https://www.lunarstrategy.com/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/lunar-z7m7",
-        "price": 0,
-        "availability": "SoldOut"
-      }
-    ],
-    "registrationAvailability": "waitlist",
-    "sourceVerification": {
-      "url": "https://luma.com/lunar-z7m7",
-      "eventId": "evt-GaUluxkQSdrEoV0",
-      "fetchedAt": "2026-09-19T23:30:05.161Z",
       "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }

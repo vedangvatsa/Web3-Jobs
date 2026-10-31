@@ -12173,19 +12173,6 @@
     "slug": "cbed2"
   },
   {
-    "id": "w3v-web3-ai-seoul-artist-agent-26-09-30",
-    "name": "Web3 AI Seoul 2026: Artist Agent",
-    "description": "Web3 AI Seoul 2026: Artist Agent: Seoul exhibition exploring AI agents, artist works and docent sessions.",
-    "startDate": "2026-09-30T03:00:00.000Z",
-    "endDate": "2026-10-01T11:00:00.000Z",
-    "city": "Global",
-    "country": "KR",
-    "location": "Global, KR",
-    "url": "https://luma.com/83oq4sls",
-    "coverImage": "/events/w3v-web3-ai-seoul-artist-agent-26-09-30-dfd7d5b1.webp",
-    "month": "September 2026"
-  },
-  {
     "id": "w3v-bayc-26-09-30",
     "name": "BAYC 성수 브랜드 팝업",
     "description": "BAYC 성수 브랜드 팝업: Bored Ape Yacht Club pop-up in Seoul with interactive experiences and merchandise.",
@@ -14028,7 +14015,10 @@
     "url": "https://www.meetup.com/lfdt-washington-dc/events/316485538/",
     "coverImage": "/events/mu-316485538-7d389913.webp",
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Hendrik Ebbers"
+    ]
   },
   {
     "id": "luma-host-evt-evt-wca6MOhUjdjAydZ",
@@ -18278,7 +18268,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -22234,15 +22224,15 @@
     "id": "mu-315688633",
     "name": "Modeling Your Business with Ontologies in Fabric IQ",
     "description": "Learn how to create the semantic foundation that powers business-aware agents. In this session, we'll explore how ontologies in Fabric IQ model the entities, relationships, and concepts that define yo",
-    "startDate": "2026-10-29T09:00:00-07:00",
-    "endDate": "2026-10-29T09:00:00-07:00",
+    "startDate": "2026-11-05T09:00:00-08:00",
+    "endDate": "2026-11-05T09:00:00-08:00",
     "city": "",
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/microsoft-reactor-redmond/events/315688633/",
-    "coverImage": "/events/mu-315688633-fbc596e5.webp",
+    "coverImage": "/events/mu-315688633-c0575cb1.webp",
     "source": "meetup",
-    "month": "October 2026"
+    "month": "November 2026"
   },
   {
     "id": "luma-evt-EDv0S8qAEOI8hQe",
@@ -22723,8 +22713,8 @@
     "id": "mu-316423209",
     "name": "Model Mondays - Spotlight on NVIDIA models",
     "description": "NVIDIA models give developers options for building and deploying AI workloads that require strong reasoning, generation, and accelerated inference across a range of application scenarios.\n\nJoin us as ",
-    "startDate": "2026-11-02T10:30:00-08:00",
-    "endDate": "2026-11-02T10:30:00-08:00",
+    "startDate": "2026-11-09T10:30:00-08:00",
+    "endDate": "2026-11-09T10:30:00-08:00",
     "city": "",
     "country": "",
     "location": "Online",
@@ -27141,7 +27131,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261031%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261031T033553Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=4ecfcd7a2a9bc443608421362874408fcf7599ed94c6339d15b1cecb7865c8f1",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261031%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261031T113617Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=013259afde125a95919d62a4dbdd6705b89899b7798532791e1f38583e774b6d",
     "month": "November 2026"
   },
   {
@@ -29002,6 +28992,48 @@
     "url": "https://luma.com/loajg3ik",
     "coverImage": "/events/luma-host-evt-evt-0iytxt7gbebn9da-519a0dae.webp",
     "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-cTGFhlpSYExklus",
+    "name": "Stream Forward Amsterdam",
+    "description": "",
+    "startDate": "2026-11-03T07:30:00.000Z",
+    "endDate": "2026-11-03T18:00:00.000Z",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://lu.ma/fmkoomdz",
+    "coverImage": "/events/luma-evt-ctgfhlpsyexklus-fea7c260.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317156484",
+    "name": "Webinar with Cosmos Labs: Designing Tokenized Deposits for a Multi-Ledger Future",
+    "description": "Join us for a webinar with Cosmos Labs, an LFDT general member, on Designing Tokenized Deposits for a Multi-Ledger Future. Most tokenized deposit initiatives start within a single institution or conso",
+    "startDate": "2026-11-13T07:00:00-08:00",
+    "endDate": "2026-11-13T07:00:00-08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-seattle-chapter/events/317156484/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317065021",
+    "name": "ZK Learning Group: ZK Identity, supporting AML/KYC with ZK",
+    "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
+    "startDate": "2026-11-19T09:00:00-08:00",
+    "endDate": "2026-11-19T09:00:00-08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-seattle-chapter/events/317065021/",
+    "coverImage": null,
+    "source": "meetup",
     "month": "November 2026"
   }
 ]

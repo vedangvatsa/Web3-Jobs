@@ -4170,5 +4170,47 @@
       "programmable-economy",
       "token2049-evt-cc2bdttnbajoqun"
     ]
+  },
+  "kbw-official-on-chain-night-10-01": {
+    "until": "2027-10-31T11:32:47.039Z",
+    "slugs": [
+      "chain-night",
+      "kbw-official-on-chain-night-10-01"
+    ]
+  },
+  "kbw-official-liquidity-table-by-turtle-with-compound-10-01": {
+    "until": "2027-10-31T11:32:47.039Z",
+    "slugs": [
+      "lttc",
+      "kbw-official-liquidity-table-by-turtle-with-compound-10-01"
+    ]
+  },
+  "luma-batch-8qgX03y1lgl1H4N": {
+    "until": "2027-10-31T11:32:47.039Z",
+    "slugs": [
+      "luma-batch-8qgx03y1lgl1h4n",
+      "solanawomenpotteryatelier"
+    ]
+  },
+  "luma-batch-evtrzXLDMSFDAuLv": {
+    "until": "2027-10-31T11:32:47.039Z",
+    "slugs": [
+      "83oq4sls",
+      "luma-batch-evtrzxldmsfdaulv"
+    ]
+  },
+  "luma-batch-evt9ElkAZcGYpr1d": {
+    "until": "2027-10-31T11:32:47.039Z",
+    "slugs": [
+      "kvnf6yhj",
+      "luma-batch-evt9elkazcgypr1d"
+    ]
+  },
+  "luma-batch-evt7c8SYhld2UAo4": {
+    "until": "2027-10-31T11:32:47.039Z",
+    "slugs": [
+      "68s6b096",
+      "luma-batch-evt7c8syhld2uao4"
+    ]
   }
 }

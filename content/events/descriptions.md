@@ -9942,115 +9942,6 @@ Zia is an AI agent for DeFi: manage liquidity, execute trades, and analyze marke
 - [Websit](https://zia.finance)e (https:// https://zia.finance/)
 - (https://x.com/SentientAGI?utm_source=luma) X (Twitter) (https://x.com/zia_finance)
 
-<a id="event-47e17a4afc537922"></a>
-
-## On-ChAIn Night KBW highlighted side event
-
-- Record: `kbw-official-on-chain-night-10-01`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-10-01T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/n61tjj9r>
-
-### On-ChAIn NIGHT in Korea
-
-HOSTED BY
-
-ORBS | INJECTIVE | STABLE | PEAR | STARGRAPH | DELTAFORESIGHT
-
-### Where On-Chain meet Finance
-
-[KBW2026 Highlighted Side event]
-
-Where on-chain meets Finance. Hosted by Orbs during Korea Blockchain Week.
-
-Event overview
-
-When - October 1, 2026, from 5PM
-
-Where - SAC Art Hall (Gangnam area) - aka. Gabin Art Hall
-
-Who - AI, DeFi, infrastructure teams on stage
-
-Track record - 55% founders, C-level and decision-makers; 75% from the global industry, 2,094 registrations in 2025
-
-4th edition - Since 2023, official KBW side event
-
-What you can expect
-
-Project keynotes - followed by an open networking
-
-Food & drinks - Full catering and an open bar all night
-
-Swag - Branded goods and giveaways for every guest
-
-Entertainment - Game zone, photo booth and raffle prizes
-
-### Program
-
-- Keynotes by leaders
-- Networking party
-  - Game zone
-  - Instant Photo zone
-  - Social media event
-  - Prizes!!!
-- Food and drink will be served
-- GIFT and Fun Games are ready for you!!!
-
-︎ This event is ENGLISH ONLY and translation to Korean is not supported.
-
-### [ORBS]
-
-https://www.orbs.com/ko/?utm_source=luma
-
-Orbs is a decentralized Layer-3 (L3) blockchain infrastructure designed specifically for advanced on-chain trading. Orbs improves on-chain trading by providing technology for aggregated liquidity, advanced trading orders, and decentralized derivatives.
-
-### [INJECTIVE]
-
-https://injective.com/
-
-Injective is a lightning fast interoperable layer one blockchain optimized for building premier Web3 finance applications. Injective provides developers with powerful plug-and-play modules for creating unmatched dApps. Injective is incubated by Binance and is backed by prominent investors such as Jump Crypto, Pantera and Mark Cuban.
-
-### [STABLE]
-
-https://www.stable.xyz/
-
-Stable is a blockchain purpose-built for stablecoin payments. It provides a settlement layer where value moves in USD₮ with consistent performance, predictable fees, and sub-second finality
-
-### [PEAR]
-
-https://www.pear.garden/
-
-Pear Protocol is a pair and basket trading platform for perpetual futures built on top of Hyperliquid, Lighter and Symmio. Traders go long one asset against a short in another, or build a weighted basket of several long and short legs, and hold it as a single position - the return comes from how those assets perform against each other rather than from market direction.
-
-### Stagraph by Ginco
-
-Stagraph is a non-custodial staking service built for institutions. It's backed by Ginco, a Japan-based Web3 infrastructure company trusted by major financial institutions. Stagraph currently supports GRAM (TON) and XDC, with others on the way.
-
-### [DeltaForesight]
-
-https://deltaforesight.com/en/
-
-DeltaForesight is a Japan-based company specializing in crypto assets and stablecoins. We provide consulting, marketing, and product development services across business strategy, regulation and compliance, tokenomics, smart contracts, security, and governance. By connecting regulatory, business, and technical perspectives, we help turn emerging ideas into practical solutions for the Asian market and contribute to the healthy development of Asia's crypto and stablecoin ecosystem.
-
-### Media partners
-
-[CoinNess](https://coinness.com/?utm_source=luma)
-
-CoinNess is Korea's largest crypto media + community platform. We provide a space for everything crypto-related including real-time news, press releases, and market data.
-
-Since our launch in 2018, we have accumulated over 1M+ MAU and 150K+ DAU. Currently, we are the only non-exchange media platform with this amount of coverage and traffic.
-
-[BlockMedia](https://www.eblockmedia.com/?utm_source=luma)
-
-Blockmedia is Korea's leading Blockchain and Crypto media outlet.
-
-We have an exclusive news provision contract [with CMC for Korean users. You can also find us on YouTube](https://www.youtube.com/@Blockmedia) (over 58K subscribers), [Telegram](https://t.me/blockmedia) (over 35K members) [and X](https://x.com/with_blockmedia) (over 35K members).
-
-한스경제(Hansbiz) (https://www.hansbiz.co.kr/)
-
-Data-Driven Economic Journalism: Forecasting the Future (미래를 읽는 데이터기반 경제저널리즘)
-
 <a id="event-e5dcc6267a3241d1"></a>
 
 ## EASYCON SEOUL 🇰🇷: On-Chain + Social Intelligence Workshop & Community Night
@@ -10375,88 +10266,6 @@ TurboFlow의 시그니처 상품, Event Contract로 진행되는 초스피드 �
 *행사 참여자에게는 StandX, RISEx, TurboFlow의 특별 혜택이 제공될 수 있습니다.
 
 현장에서만 준비된 특별 이벤트/혜택도 있어요. 일찍 오시는 분들에게는 더 특별한 보상 혜택을 받을 기회가 있습니다!
-
-<a id="event-db8a7e57a4f64959"></a>
-
-## Liquidity Table by Turtle with Compound
-
-- Record: `kbw-official-liquidity-table-by-turtle-with-compound-10-01`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-10-01T09:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/lunar-z7m7>
-
-### About the event
-
-🇬🇧 A private dinner for the people shaping liquidity in Korea.
-
-On KBW's second night, we're gathering a small, curated group of LPs, family offices, and funds around one table. A full course dinner in a private room, and conversation that wouldn't happen on a conference floor.
-
-[Hosted at the table by Essi Lagevardi,](https://x.com/SuperChad15) [CEO of Turtle,](https://x.com/turtledotxyz) [with partners from Compound Foundation.](https://x.com/Compound_xyz)
-
-Date: Thursday, 1 October 2026
-
-Time: 6:30 PM to 8:30 PM
-
-Venue: Private dining room, Gangnam - details shared upon confirmation
-
-Format: Full course menu, full service
-
-[Hosted by: Turtle](https://x.com/turtledotxyz) & [Lunar Strategy](https://x.com/LunarStrategy)
-
-[Co-host: Compound Foundation](https://x.com/Compound_xyz)
-
-### The evening
-
-6:30 PM - Arrival and welcome drinks
-
-7:00 PM - Welcome toast, first course served
-
-8:30 PM - Evening closes
-
-### Your hosts
-
-Turtle is a liquidity distribution protocol connecting asset issuers to a verified network of 432,000+ on-chain LPs through a unified platform that handles deal sourcing, due diligence, incentive distribution, billing, and LP relationship management, all verifiable on chain.
-
-Lunar Strategy, part of Turtle Group, is the crypto growth agency behind 400+ projects since 2019 - from token launches to ecosystem campaigns.
-
-Compound is one of DeFi's foundational lending protocols - pioneering on-chain money markets and now stewarding the ecosystem through the Compound Foundation.
-
-Twenty seats, each one curated. Apply below and we'll confirm yours.
-
-🇰🇷 한국의 유동성 시장을 만들어가는 사람들을 위해 준비된 프라이빗 디너.
-
-KBW 둘째 날 저녁, 소수의 엄선된 LP, 패밀리 오피스, 펀드 관계자들이 한 테이블에 모입니다. 프라이빗 룸에서 풀코스 디너를 즐기며, 컨퍼런스 현장에서는 쉽게 나누기 어려운 깊이 있는 대화를 나누는 자리입니다.
-
-Turtle의 CEO인 Essi Lagevardi가 Compound Foundation의 파트너들과 함께 테이블을 호스트합니다.
-
-날짜: 2026년 10월 1일 목요일
-
-시간: 오후 6:30 ~ 8:30
-
-장소: 강남 프라이빗 다이닝룸 - 참석 확정 후 상세 장소 안내
-
-형식: 풀코스 메뉴, 풀서비스
-
-주최: Turtle & Lunar Strategy
-
-공동 주최: Compound Foundation
-
-### 저녁 일정
-
-- 오후 6:30 - 도착 및 웰컴 드링크
-- 오후 7:00 - 웰컴 토스트 및 첫 번째 코스 제공
-- 오후 8:30 - 행사 종료
-
-### 호스트 소개
-
-Turtle은 자산 발행사와 432,000명 이상의 검증된 온체인 LP 네트워크를 연결하는 유동성 분배 프로토콜입니다. 딜 소싱, 실사, 인센티브 분배, 빌링, LP 관계 관리까지 하나의 통합 플랫폼에서 지원하며, 모든 과정은 온체인에서 검증 가능합니다.
-
-Turtle Group의 일원인 Lunar Strategy는 2019년부터 400개 이상의 프로젝트와 함께해 온 크립토 성장 에이전시로, 토큰 출시부터 생태계 캠페인까지 다양한 프로젝트의 성장을 지원해 왔습니다.
-
-Compound는 DeFi의 기반을 다진 대표적인 렌딩 프로토콜 중 하나로, 온체인 머니마켓을 개척했으며 현재 Compound Foundation을 통해 생태계를 이끌어가고 있습니다.
-
-단 20석만 마련됩니다. 참석자는 신청자 중 선별되며, 아래에서 신청해 주시면 검토 후 참석 확정 여부를 안내드립니다
 
 <a id="event-af98d08d6dad8b9a"></a>
 
@@ -24647,104 +24456,6 @@ Local: Solana House
 
 Se você leva construir a sério, sua garagem começa aqui.
 
-<a id="event-59720994991a100a"></a>
-
-## Web3 AI Seoul 2026: Artist Agent
-
-- Record: `luma-batch-evtrzXLDMSFDAuLv`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-30T03:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/83oq4sls>
-
-### About the event
-
-Where Human Creativity Meets AI Agents
-
-Launched in 2024, Web3 AI Seoul is back for its 3rd edition alongside KBW 2026.
-
-This year, we invite you to UNCOMMON GALLERY - Korea's first Web3 gallery dedicated to preserving human originality at the intersection of art and tech. Step beyond passive viewing and immerse yourself in an evolved art experience where you interact and engage directly with AI agents.
-
-Meet our...
-
-Humanoid Robot AINA
-
-Say hello to AINA, the humanoid robot welcoming you right at the gallery entrance. Catch AINA stepping in as your docent to share behind-the-scenes stories of Uncommon artists' works, and feel free to spark up a conversation.
-
-UNCOMMON Artist Agents
-
-Meet AI agents designed to mirror the deep artistic universes of Uncommon membership artists. Moving far beyond traditional docents, these agents offer deep dives into the artists' philosophy, guide meaningful artwork appreciation, and even facilitate actual art sales - giving you a firsthand look at true agentic commerce.
-
-### Programme
-
-1. Uncommon Artist Exhibition
-
-The Live Pulse of the Web3 Artist Community
-
-Experience a live demo where tech and art merge seamlessly. Watch agents, artists, and visitors interact in real time to see how artwork is appreciated and traded - and discover what the future of the Web3 art ecosystem really looks like.
-
-Location: UNCOMMON GALLERY (Samseong-dong)
-
-Dates: Wednesday, Sept 30 - Thursday, Oct 1
-
-Hours: 12:00 PM - 8:00 PM
-
-2. Docent Sessions by AINA
-
-A Special Live Docent Demo Powered by AINA
-
-Uncover the intersection of art and technology as AINA unpacks the stories behind the art through its own unique lens.
-
-Location: UNCOMMON GALLERY (Samseong-dong)
-
-Date: Wednesday, Sept 30
-
-Sessions: Session 1 @ 2:00 PM / Session 2 @ 4:30 PM
-
-Come see for yourself why the future of Web3 goes beyond technology to become a truly cultural movement.
-
-인간의 창의성, AI 에이전트를 만나다
-
-2024년 첫 항해를 시작한 Web3 AI Seoul이 KBW2026를 맞아 어느덧 3번째 이야기로 돌아왔습니다.
-
-올해는 예술과 기술의 교차점에서 인간의 독창성을 보존하는 국내 최초의 Web3 갤러리 UNCOMMON GALLERY로 여러분을 초대합니다. 단순한 관람을 넘어 AI 에이전트와 직접 교감하고 상호작용하는 진화된 예술 경험을 선사합니다.
-
-Meet our...
-
-휴머노이드 로봇 AINA
-
-갤러리 입구에서 가장 먼저 관람객을 맞이하는 휴머노이드 로봇 'AINA(아이나)'를 만나보세요. AINA가 직접 도슨트가 되어 전달하는 언커먼 아티스트들의 작품 비하인드 스토리를 듣고, 자유롭게 대화를 나누실 수 있습니다.
-
-언커먼 멤버십 작가 에이전트
-
-언커먼 멤버십 작가들의 깊이 있는 예술 세계관을 반영한 작가 AI 에이전트가 도슨트 그 이상의 역할을 수행합니다. 작가의 철학과 작품 감상에 대한 깊은 대화는 물론, 실제 작품 판매까지 가이드하는 진정한 의미의 에이전트 커머스까지 경험해보세요.
-
-1. Uncommon 아티스트 전시회
-
-Web3 아티스트 커뮤니티의 생생한 현장
-
-기술과 예술이 융합된 생생한 현장을 시연합니다. 에이전트, 아티스트, 그리고 관람객이 실시간으로 상호작용하며 작품이 어떻게 향유되고 거래되는지 Web3 예술 생태계의 미래를 직접 확인하세요.
-
-장소: 언커먼 갤러리 (삼성동)
-
-일자: 9월 30일(수) - 10월 1일(목)
-
-시간: 오후 12시 - 오후 8시
-
-2. 도슨트 세션 By AINA
-
-휴머노이드 로봇 AINA가 선보이는 도슨트 시연
-
-AINA의 독창적인 시선으로 풀어내는 작품 스토리를 통해 예술과 기술이 교차하는 지점을 경험해보세요.
-
-장소: 언커먼 갤러리 (삼성동)
-
-일자: 9월 30일(수)
-
-시간: 오후 2시(1차 세션) / 오후 4시30분(2차 세션)
-
-Web3의 미래가 단순한 기술을 넘어 왜 '문화적 울림'으로 확장될 수밖에 없는지, 이번 전시에서 그 명확한 해답을 발견해보시기 바랍니다.
-
 <a id="event-7402571f82e57267"></a>
 
 ## BAYC 성수 브랜드 팝업
@@ -24791,154 +24502,6 @@ Location: Seongsu, Seoul
 
 Select experiences, merchandise, and giveaways will be available in limited quantities and while supplies last.
 
-<a id="event-95def1dd7bda4722"></a>
-
-## AI・オンチェーン金融サミット
-
-- Record: `luma-batch-evt7c8SYhld2UAo4`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-01T03:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/68s6b096>
-
-### About the event
-
-■ 開催概要
-
-日時：2026年10月1日（木）13:00 - 20:00（12:30 開場・受付開始）
-
-会場：KDDI株式会社 高輪本社内（TAKANAWA GATEWAY CITY THE LINKPILLAR 1 NORTH）13階　※受付は6階　（高輪ゲートウェイ駅直結）
-
-参加費：無料（事前登録制）
-
-主催：株式会社HashPort、KDDI株式会社、au Coincheck Digital Assets株式会社、一般社団法人WebX実行委員会
-
-本カンファレンスでは、AI・オンチェーン金融（ステーブルコイン決済・海外送金・大企業ウォレット等）をめぐる国内外の最新動向を、業界の第一線に立つ実務者の視点から議論いたします。
-
-ステーブルコインをはじめとするブロックチェーン上の金融サービスは、2023年の改正資金決済法施行以降、日本国内でも制度整備が進み、実証段階から実装段階へと移行しつつあります。また、ブロックチェーンは、そのオープンかつプログラマブルな特性からAIとの相性が良いと言われております。一方で、既存の金融インフラとの接続、利用者保護、法律整備など、社会実装に向けて解くべき論点は多く残されています。こうした論点を前に進めるために、業界の第一線に立つ実務者が知見を持ち寄り、業界横断で議論する場が必要であると考え、本カンファレンスを共催します。
-
-■ タイムテーブル・登壇者
-
-※プログラム・登壇者は追加・変更となる場合がございます。
-
-13:20-13:50　【日本初】コンビニレジでステーブルコインが動いた日
-
-登壇者：
-
-・株式会社ローソン　金融カンパニー兼マーケティング戦略本部部長　田村 太郎 氏
-
-・キャナルペイメントサービス株式会社　代表取締役社長　清水 亮佑 氏
-
-・JPYC株式会社　代表取締役　岡部 典孝 氏
-
-・株式会社HashPort　代表取締役CEO　吉田 世博 氏
-
-・株式会社日本経済新聞社　編集委員兼NIKKEI Financial副編集長　関口 慶太 氏（モデレーター）
-
-セッション内容：
-
-コンビニレジでのステーブルコイン決済という日本初の実証実験を振り返り、想定外だった事象や店頭オペレーション上の課題を、ローソン・キャナルペイメントサービス・JPYC・HashPortの各社が率直に共有します。実証から商用化までに残る壁が技術・規制・経済性のどこにあるのかを、当事者の視点から具体的に議論します。
-
-14:00-14:35　クレジットカードビジネスにおけるステーブルコイン活用の可能性
-
-登壇者：
-
-・株式会社オリエントコーポレーション　執行役員コンシューマー・ペイメント企画部長　橋詰 直毅 氏
-
-・株式会社ジェーシービー　イノベーション統括部長　山口 朋晃 氏
-
-・三井住友カード株式会社　執行役員 マーチャントビジネス統括部長　秋田 篤志 氏
-
-・三井住友トラストクラブ株式会社　カード企画本部長　石田 講平 氏
-
-・株式会社HashPort　取締役副社長COO　時田 一広 氏（モデレーター）
-
-セッション内容：
-
-ステーブルコイン決済はカード会社にとって脅威か新たな事業機会か。オリエントコーポレーション・JCB・三井住友カード・三井住友トラストクラブが、クレカとステーブルコインの共存が始まるユースケースや、与信・不正検知・加盟店網といったカード会社の資産がオンチェーン時代にどこまで価値を持つのかを議論します。
-
-14:40-15:20　ステーブルコインが変える金融の未来
-
-登壇者：
-
-・株式会社三井住友フィナンシャルグループ　執行役専務 グループCDIO　磯和 啓雄 氏
-
-・JPYC株式会社　代表取締役　岡部 典孝 氏
-
-・Startale Group　Founder CEO　渡辺 創太 氏
-
-・株式会社HashPort　代表取締役CEO　吉田 世博 氏（モデレーター）
-
-セッション内容：
-
-円建てステーブルコインの発行が本格化するなか、決済・送金の現場がどう変わるのかを展望します。メガバンクグループと国内ステーブルコイン発行体が、既存の金融インフラとの接続、企業間決済や海外送金でのユースケース、そして生活者への浸透に向けた課題を議論します。
-
-15:30-16:00　規制変化とイノベーションが拓くブロックチェーンビジネス
-
-登壇者：
-
-・アンダーソン・毛利・友常法律事務所外国法共同事業　パートナー弁護士／JCBAリーガルアドバイザー　河合 健 氏
-
-・森・濱田松本法律事務所外国法共同事業　パートナー弁護士／JCBAリーガルアドバイザー　増島 雅和 氏
-
-・株式会社MZ Cryptos　代表取締役／JCBA副会長　白石 陽介 氏
-
-・片岡総合法律事務所　パートナー弁護士／JCBAリーガルアドバイザー　佐野 史明 氏（モデレーター）
-
-セッション内容：
-
-暗号資産やステーブルコイン関連の規制の変化において、事業者に求められる対応と、そこから生まれる新たな事業機会を整理します。それぞれの立場から論点を持ち寄り、制度変更がブロックチェーンビジネスの設計や資金調達、投資家保護のあり方に与える影響を具体的に議論します。
-
-16:30-17:05　ウォレットの現在地 〜 マーケットリーダーが語る2030年の未来
-
-登壇者：
-
-・au Coincheck Digital Assets株式会社　代表取締役社長　笠井 道彦 氏
-
-・マイナウォレット株式会社　代表取締役CEO　橘 博之 氏
-
-・株式会社HashPort　代表取締役CEO　吉田 世博 氏
-
-・株式会社CoinPost　代表取締役CEO　各務 貴仁 氏（モデレーター）
-
-セッション内容：
-
-大規模なユーザー基盤を持つ事業者が、ブロックチェーンウォレットの現在地と2030年に向けた展望を語ります。ウォレットが「暗号資産を保管する場所」から生活者の日常的なデジタル資産の入り口へと変わっていくために、UXの設計、安心・安全の担保、既存サービスとの接続をどう進めるのかを議論します。
-
-18:00-18:30　クロージングセッション
-
-・衆議院議員／自由民主党　平 将明 氏
-
-■ Keynote
-
-・KDDIが見据える未来について
-
-・ウォレット開発を支えるHashPortの技術基盤
-
-・AIとつながるノンカストディアルウォレット 〜 HashPort Wallet MCPが目指す未来
-
-※クロージングセッションの後、ネットワーキング（懇親会）を予定しております。
-
-■ ご注意事項
-
-・本イベントは事前申込制です。お申込み後、運営より参加承認のご連絡をいたします。
-
-・会場内では写真・動画の撮影を行います。撮影した映像・写真は、広報目的で使用させていただく場合がございます。
-
-・お申込みの変更・キャンセルは本ページよりお手続きください。
-
-■ 株式会社HashPort 会社概要
-
-HashPortは「まだ見ぬ価値を暮らしの中へ」をミッションに、ブロックチェーンの社会実装を支えるソリューションプロバイダーとして事業を展開しています。国内の多くの金融機関・事業会社・公共機関に対してブロックチェーンウォレットをはじめとするブロックチェーンプロダクトの開発サービスを提供しております。
-
-・代表取締役CEO：吉田 世博
-
-・本社所在地：〒106-0047 東京都港区南麻布三丁目20番1号 Daiwa麻布テラス5階
-
-・設立：2018年7月9日
-
-・URL：https://hashport.io/
-
 <a id="event-6903c40d04b2dba1"></a>
 
 ## SheFi Summit Mumbai
@@ -24974,74 +24537,6 @@ SheFi Summit Brussels
 SheFi Summit Singapore
 
 SheFi Summit Bangkok
-
-<a id="event-8d08a9b152908178"></a>
-
-## QFEX × Superform \| Seoul Traders Mixer
-
-- Record: `luma-batch-evt9ElkAZcGYpr1d`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-01T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/kvnf6yhj>
-
-### About the event
-
-QFEX와 Superform이 함께하는 서울 트레이더 모임에 참여해 보세요.
-
-다양한 트레이더들과 두 팀을 만나 RWA, 무기한 선물, 암호화폐에 대한 아이디어를 나눠보세요. 편안한 분위기에서 좋은 사람들과 교류하며 의미 있는 인연을 만들어보세요.
-
-QFEX 소개
-
-QFEX는 미국-아시아 주식과 원자재 기반의 무기한 선물을 24시간, 주 7일 거래할 수 있는 하이브리드 거래소입니다. Citadel과 Tower Research 출신 퀀트들이 설립했으며, General Catalyst가 주도하고 YC와 다른 투자자들이 참여한 시드 라운드에서 950만 달러를 유치했습니다.
-
-웹사이트 - 트위터
-
-Superform 소개
-
-Superform은 사용자가 자산을 직접 관리하면서 미국 주식 토큰에 투자하고, 암호화폐를 거래하며, 온체인 수익 상품을 이용할 수 있는 금융 앱입니다. Polychain Capital, VanEck Ventures, Circle로부터 1,090만 달러의 투자를 유치했습니다.
-
-웹사이트 - 트위터
-
-음식과 음료가 제공됩니다.
-
-English
-
-Join QFEX and Superform for an evening with traders in Seoul.
-
-Meet fellow traders, catch up with both teams and exchange ideas across RWAs, perps and crypto. Enjoy a relaxed atmosphere, meet great people and make meaningful connections.
-
-### About QFEX
-
-QFEX is a hybrid perps exchange offering 24/7 trading on US/Asian stocks and commodities. Founded by former Citadel and Tower Research quants, QFEX raised a $9.5 million seed round led by General Catalyst, with participation from YC and other investors.
-
-Website - Twitter
-
-### About Superform
-
-Superform is a self-custodial finance app for investing in tokenized U.S. stocks, trading crypto and accessing onchain yield. It has raised $10.9 million from Polychain Capital, VanEck Ventures and Circle.
-
-Website - Twitter
-
-Food and drinks are included.
-
-<a id="event-b5cba943b204307b"></a>
-
-## Solana Women's Pottery Atelier
-
-- Record: `luma-batch-8qgX03y1lgl1H4N`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-01T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/SolanaWomenPotteryAtelier>
-
-### About the event
-
-Solana Women's Pottery Atelier Date: Thursday, 1 October Time: 12:00 PM - 3:00 PM Venue: Details will be shared upon approval
-
-Trade your keyboard for clay. Join the women of the Solana community for an afternoon of pottery and connection.
-
-No experience needed. Bring your curiosity, an instructor handles the rest. Leave with a piece you made and a few new friends in the ecosystem.What to Expect: Terracotta clay workshop (1.5h)Networking with women in the Solana ecosystem Light refreshmentsPlease Note: This is an invite-only event. RSVP required - no +1s, no walk-ins. This event has limited capacity and follows a first-come, first-served policy. Kindly arrive on time to secure your spot. Photos will be taken during the event. By participating, you agree to their use for promotional purposes.Follow us on X: @SuperteamAECome for the craft. Stay for the conversation. We're excited to see you there!
 
 <a id="event-da98ff219ace151b"></a>
 
@@ -38460,18 +37955,6 @@ DIGITAL AF (하나됨 - "unity")는 현대 미술, 기술, 게임, 그리고 한
   - 2026년 9월 29일 → 10월 3일
   - 주최: Wildcat × Digital AF
   - 서울에서 만나요.
-
-<a id="event-b9dfb358e42154aa"></a>
-
-## Web3 AI Seoul 2026: Artist Agent
-
-- Record: `w3v-web3-ai-seoul-artist-agent-26-09-30`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-30T03:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/83oq4sls>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-36a647198eb5b9c7"></a>
 
@@ -57035,18 +56518,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-08b1033be48b6dd2"></a>
-
-## Modeling Your Business with Ontologies in Fabric IQ
-
-- Record: `mu-315688633`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-29T09:00:00-07:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/microsoft-reactor-redmond/events/315688633/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-b38e897f02a91f8f"></a>
 
 ## Measuring Ledgers With The Blockchain Decentralisation Index Lab
@@ -58409,18 +57880,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-7c91b3aad8055053"></a>
-
-## Model Mondays - Spotlight on NVIDIA models
-
-- Record: `mu-316423209`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-02T10:30:00-08:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/microsoft-reactor-redmond/events/316423209/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-fe7981dc6db5abfb"></a>
 
 ## Onchain Dev City - Devcon 8 INDIA 🇮🇳
@@ -58848,6 +58307,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-03T06:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/l5289trw>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-78d3772f4e093612"></a>
+
+## Stream Forward Amsterdam
+
+- Record: `luma-evt-cTGFhlpSYExklus`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-03T07:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/fmkoomdz>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -59735,6 +59206,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-08b1033be48b6dd2"></a>
+
+## Modeling Your Business with Ontologies in Fabric IQ
+
+- Record: `mu-315688633`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T09:00:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/microsoft-reactor-redmond/events/315688633/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-1274690042ed7ee4"></a>
 
 ## Dean's Distinguished Speaker Series - Twenty Years of Crypto: From Experiment to Institutional Finance
@@ -60376,6 +59859,18 @@ Our work spans the Americas, Europe and MENA, with experience across 500+ compan
 
 > [If you're interested, please submit application here](https://docs.google.com/forms/d/e/1FAIpQLSd-vI3uQ_Ves900ahzTRj6FjZr7YbkzYTC7tsSDIJUGxYSOWg/viewform).
 
+<a id="event-7c91b3aad8055053"></a>
+
+## Model Mondays - Spotlight on NVIDIA models
+
+- Record: `mu-316423209`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-09T10:30:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/microsoft-reactor-redmond/events/316423209/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-d25b86780d1fa844"></a>
 
 ## Bitcoin Veterans Summit 2026
@@ -60773,6 +60268,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-13T07:00:00-08:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-sf/events/317156445/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-24d2da2ccade5a1b"></a>
+
+## Webinar with Cosmos Labs: Designing Tokenized Deposits for a Multi-Ledger Future
+
+- Record: `mu-317156484`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-13T07:00:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-seattle-chapter/events/317156484/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -61753,6 +61260,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-18T23:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/id80owbl>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-0b3510337d787738"></a>
+
+## ZK Learning Group: ZK Identity, supporting AML/KYC with ZK
+
+- Record: `mu-317065021`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19T09:00:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-seattle-chapter/events/317065021/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
