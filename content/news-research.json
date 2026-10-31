@@ -104801,9 +104801,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "688b99307c9c2e3b079e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-31T19:01:53.000Z",
       "lastSeenAt": "2026-10-29T03:34:54.128Z",
       "articleSlug": "selig",
@@ -104829,7 +104829,25 @@
         "updatedAt": "2026-10-30T11:03:48.419Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read the CFTC Frontier Forum speech (primary) and NextPredict's forum report on Oct. 31. Selig's KYA questions, the panel liability hypotheticals, the Harrison and Jain quotes, and the no-action relief context verified. Drafted selig.md with a Capitol dusk photo; CoinDesk remains 429 but two independent readable sites stand.",
+      "sourceChecks": [
+        {
+          "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/opaselig14",
+          "outcome": "read"
+        },
+        {
+          "url": "https://nextpredict.io/market-news/legal/cftc-forum-ai-trading-questions-prediction-markets/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-31T03:58:45.638Z",
+      "lastReviewedDay": "2026-10-31"
     },
     "2426eedf8f085831572b": {
       "source": "The Defiant",
@@ -104848,27 +104866,27 @@
       "id": "2426eedf8f085831572b",
       "status": "deferred",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-31T18:13:39.000Z",
       "lastSeenAt": "2026-10-29T03:34:54.128Z",
       "reason": "source-blocked",
-      "note": "Attempted The Defiant article directly (HTTP 403 via fetch and curl with the readiness User-Agent) and opened Phemex's item, which mirrors a single Defiant X post reporting a 50 BTC transfer narrowing Liquid's reserve gap to about 550 BTC at 87.07% coverage. No second outlet with independent reporting was found; the mirrors all trace to the same inaccessible X post. This is also a small increment on the already-published liquidgap.md and needs federation-level confirmation before a standalone follow-up.",
+      "note": "Rechecked on Oct. 31. The Defiant article still returns HTTP 403. The 550 BTC / 87.07 percent figures still trace only to the Defiant post: Phemex mirrors it, BBX cites Bitcoin Archive, and BasisDesk syndicates the same item. Crypto Briefing's Mow story and coingabbar report older or different numbers (about 600 BTC gap, 85.9 percent) from the Oct. 27 test transfer, not this increment. No Liquid federation or Blockstream confirmation found.",
       "sourceChecks": [
-        {
-          "url": "https://phemex.com/news/article/liquid-network-cuts-reserve-gap-to-550-btc-after-50bitcoin-transfer-101598",
-          "outcome": "read"
-        },
         {
           "url": "https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-550-btc-after-50-btc-transfer",
           "outcome": "blocked"
+        },
+        {
+          "url": "https://phemex.com/news/article/liquid-network-cuts-reserve-gap-to-550-btc-after-50bitcoin-transfer-101598",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-30T10:50:25.659Z",
+      "reviewedAt": "2026-10-31T03:58:45.638Z",
       "retrySearches": [
-        "Find Liquid federation or Blockstream confirmation of the Oct. 28 50 BTC reserve transfer and 87.07% L-BTC coverage, or a second independent outlet reporting it beyond Defiant syndications"
+        "Find Liquid federation or Blockstream official confirmation of the Oct. 28 50 BTC reserve transfer and about 87.07 percent L-BTC coverage, or a second independent outlet with figures not sourced to The Defiant"
       ],
-      "lastReviewedDay": "2026-10-30",
-      "nextReviewDate": "2026-10-31"
+      "lastReviewedDay": "2026-10-31",
+      "nextReviewDate": "2026-11-01"
     },
     "ababcf9f363ddbe2a345": {
       "source": "The Defiant",
@@ -104885,9 +104903,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "ababcf9f363ddbe2a345",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-29T03:34:54.128Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-31T16:56:48.000Z",
       "lastSeenAt": "2026-10-29T03:34:54.128Z",
       "articleSlug": "robinhoodchain",
@@ -104909,7 +104927,21 @@
         "updatedAt": "2026-10-30T11:04:02.953Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read Altcoin Buzz and TokenPost 42942 on Oct. 31. The Oct. 28 roster of eight stock tokens matches across both sources and the Robinhood Crypto X post embedded in the Altcoin Buzz page; mainnet July 1 date and debt-security structure verified. Drafted robinhoodchain.md with a TechCrunch photo of Vlad Tenev. Distinct from the AMC-dispute robinhood-tokens article.",
+      "sourceChecks": [
+        {
+          "url": "https://www.altcoinbuzz.io/robinhood-chain-adds-eight-tokenized-stocks",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/business/42942",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-31T03:58:45.638Z",
+      "lastReviewedDay": "2026-10-31"
     },
     "9de5cd94a762e3660bde": {
       "source": "The Block",
@@ -113782,9 +113814,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "44ecef98039b3e014e72",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-31T03:31:46.182Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T21:16:04.000Z",
       "lastSeenAt": "2026-10-31T03:31:46.182Z",
       "articleSlug": "cftchack",
@@ -113806,7 +113838,21 @@
         "updatedAt": "2026-10-31T03:46:27.406Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read Decrypt 382285 and the CNBC video page on Oct. 31. Selig's Oct. 30 Squawk on the Street quotes, the laptop-vulnerability account, the additional-points-of-breach update from Teng, and the $6.34B reserve figure all verified in the two sources. Drafted cftchack.md with CFTC headquarters hero from Wikimedia.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cnbc.com/video/2026/10/30/cftc-chair-on-binance-hack-these-are-unregulated-offshare-exchanges.html",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-31T03:58:45.637Z",
+      "lastReviewedDay": "2026-10-31"
     },
     "b3b596fab6fff05dacfb": {
       "source": "CoinDesk",
@@ -113862,9 +113908,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "e8a0cc4f409e9496577b",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-31T03:31:46.182Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T21:16:54.000Z",
       "lastSeenAt": "2026-10-31T03:31:46.182Z",
       "articleSlug": "lummisclarity",
@@ -113886,7 +113932,21 @@
         "updatedAt": "2026-10-31T03:47:46.859Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read Crypto Briefing and TokenPost 45172 on Oct. 31. Both confirm Lummis's Oct. 30 statement that the Clarity Act would put Binance in the covered-person category, and both preserve that the bill stalled after the September cloture failure. Drafted lummisclarity.md with a Gage Skidmore photo of Lummis.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/clarity-act-could-classify-binance-as-covered-person-says-lummis/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/regulation/45172",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-31T03:58:45.637Z",
+      "lastReviewedDay": "2026-10-31"
     },
     "7e83a11224f244c8fb2e": {
       "source": "Crypto Briefing",
@@ -113903,11 +113963,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "7e83a11224f244c8fb2e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-31T03:31:46.182Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T21:16:41.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "duplicate",
+      "note": "Same Crypto Briefing story and same Lummis covered-person statement as e8a0cc4f409e9496577b, published 13 seconds apart with the same facts; covered by the ready lummisclarity article.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/lummis-clarity-act-binance-covered-person/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-31T03:58:45.637Z",
+      "duplicateOf": "lummisclarity",
+      "mergedInto": "e8a0cc4f409e9496577b",
+      "lastReviewedDay": "2026-10-31"
     },
     "7519084819981865bd3c": {
       "source": "The Defiant",
@@ -113980,11 +114052,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "0c372b539fba35d1e876",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-31T03:31:46.182Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T13:31:15.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "opinion",
+      "note": "Read the Bitcoin Magazine page in full. It is a long-form BMTV interview with Tyler Evans about Fed policy, bond yields, ETF flows and where Bitcoin might go by end-2027, explicitly framed as the participant's views with an investment disclaimer. Price commentary and prediction rather than a concrete event; not suitable as news.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/videos/tyler-evans-bitcoin-etf-flows-flipped-from-highly-negative-to-strong-accumulation",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-31T03:58:45.638Z",
+      "lastReviewedDay": "2026-10-31"
     },
     "9f883fd7833850371f31": {
       "source": "Crypto Briefing",
@@ -205758,6 +205840,123 @@
           "reviewedAt": "2026-10-31T03:47:14.952Z",
           "retrySearches": [
             "Find readable independent coverage or Tether's own Q3 2026 attestation confirming $1.5 billion operating profit and $7.95 billion reserve buffer"
+          ]
+        },
+        "44ecef98039b3e014e72": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Decrypt 382285 and the CNBC video page on Oct. 31. Selig's Oct. 30 Squawk on the Street quotes, the laptop-vulnerability account, the additional-points-of-breach update from Teng, and the $6.34B reserve figure all verified in the two sources. Drafted cftchack.md with CFTC headquarters hero from Wikimedia.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cnbc.com/video/2026/10/30/cftc-chair-on-binance-hack-these-are-unregulated-offshare-exchanges.html",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T03:58:45.637Z",
+          "articleSlug": "cftchack"
+        },
+        "e8a0cc4f409e9496577b": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Crypto Briefing and TokenPost 45172 on Oct. 31. Both confirm Lummis's Oct. 30 statement that the Clarity Act would put Binance in the covered-person category, and both preserve that the bill stalled after the September cloture failure. Drafted lummisclarity.md with a Gage Skidmore photo of Lummis.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/clarity-act-could-classify-binance-as-covered-person-says-lummis/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/regulation/45172",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T03:58:45.637Z",
+          "articleSlug": "lummisclarity"
+        },
+        "7e83a11224f244c8fb2e": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Crypto Briefing story and same Lummis covered-person statement as e8a0cc4f409e9496577b, published 13 seconds apart with the same facts; covered by the ready lummisclarity article.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/lummis-clarity-act-binance-covered-person/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T03:58:45.637Z",
+          "duplicateOf": "lummisclarity",
+          "mergedInto": "e8a0cc4f409e9496577b"
+        },
+        "688b99307c9c2e3b079e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read the CFTC Frontier Forum speech (primary) and NextPredict's forum report on Oct. 31. Selig's KYA questions, the panel liability hypotheticals, the Harrison and Jain quotes, and the no-action relief context verified. Drafted selig.md with a Capitol dusk photo; CoinDesk remains 429 but two independent readable sites stand.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/opaselig14",
+              "outcome": "read"
+            },
+            {
+              "url": "https://nextpredict.io/market-news/legal/cftc-forum-ai-trading-questions-prediction-markets/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-31T03:58:45.638Z",
+          "articleSlug": "selig"
+        },
+        "ababcf9f363ddbe2a345": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Altcoin Buzz and TokenPost 42942 on Oct. 31. The Oct. 28 roster of eight stock tokens matches across both sources and the Robinhood Crypto X post embedded in the Altcoin Buzz page; mainnet July 1 date and debt-security structure verified. Drafted robinhoodchain.md with a TechCrunch photo of Vlad Tenev. Distinct from the AMC-dispute robinhood-tokens article.",
+          "sourceChecks": [
+            {
+              "url": "https://www.altcoinbuzz.io/robinhood-chain-adds-eight-tokenized-stocks",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/business/42942",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T03:58:45.638Z",
+          "articleSlug": "robinhoodchain"
+        },
+        "0c372b539fba35d1e876": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Read the Bitcoin Magazine page in full. It is a long-form BMTV interview with Tyler Evans about Fed policy, bond yields, ETF flows and where Bitcoin might go by end-2027, explicitly framed as the participant's views with an investment disclaimer. Price commentary and prediction rather than a concrete event; not suitable as news.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/videos/tyler-evans-bitcoin-etf-flows-flipped-from-highly-negative-to-strong-accumulation",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T03:58:45.638Z"
+        },
+        "2426eedf8f085831572b": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Rechecked on Oct. 31. The Defiant article still returns HTTP 403. The 550 BTC / 87.07 percent figures still trace only to the Defiant post: Phemex mirrors it, BBX cites Bitcoin Archive, and BasisDesk syndicates the same item. Crypto Briefing's Mow story and coingabbar report older or different numbers (about 600 BTC gap, 85.9 percent) from the Oct. 27 test transfer, not this increment. No Liquid federation or Blockstream confirmation found.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-550-btc-after-50-btc-transfer",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://phemex.com/news/article/liquid-network-cuts-reserve-gap-to-550-btc-after-50bitcoin-transfer-101598",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T03:58:45.638Z",
+          "retrySearches": [
+            "Find Liquid federation or Blockstream official confirmation of the Oct. 28 50 BTC reserve transfer and about 87.07 percent L-BTC coverage, or a second independent outlet with figures not sourced to The Defiant"
           ]
         }
       },
