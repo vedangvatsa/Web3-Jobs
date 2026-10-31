@@ -81662,6 +81662,38 @@
       "verification": "creating",
       "containerId": "18099340766199925",
       "error": "Threads publish failed: 400 {\"error\":{\"message\":\"Fatal\",\"type\":\"OAuthException\",\"code\":-1,\"error_subcode\":4279047,\"is_transient\":false,\"error_user_title\":\"Invalid Link Attachment\",\"error_user_msg\":\"The post you're trying to publish has an invalid link attachment.\",\"fbtrace_id\":\"A4Z3klpYZUi-Nd_D4VQ2inZ\"}}"
+    },
+    {
+      "slug": "bces5",
+      "company": "Perle",
+      "title": "Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Taiwan)",
+      "platform": "bluesky",
+      "postedAt": "2026-10-31T11:32:55.187Z",
+      "expectedText": "Perle is hiring Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Taiwan): https://hashtagweb3.com/bces5/bsky?og=7",
+      "snapshot": {
+        "id": "95944478",
+        "title": "Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Taiwan)",
+        "company": "Perle",
+        "link": "https://ats.rippling.com/perle/jobs/12d7e277-a8ac-4bc2-962b-c45742c1558c",
+        "date": "2026-10-06T11:52:24.000Z",
+        "dateVerified": true,
+        "dateSource": "Solana.JobPosting.postedAt",
+        "source": "Solana Ecosystem: Perle [getro-solana]",
+        "location": "Remote / Taiwan",
+        "department": "AI",
+        "active": true,
+        "slug": "bces5"
+      },
+      "payload": {
+        "text": "Perle is hiring Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Taiwan): https://hashtagweb3.com/bces5/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/bces5/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/bces5.png?v=7",
+        "company": "Perle",
+        "title": "Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Taiwan)",
+        "description": "Join Perle as Bilingual Chinese - English Speake. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "8015aa70-a2e6-4c0f-a752-3e681d7b9418",
+      "verification": "creating"
     }
   ]
 }
