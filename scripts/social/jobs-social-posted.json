@@ -80243,7 +80243,8 @@
       },
       "account": "channel:build",
       "attemptId": "85e119a8-66a9-465d-8b89-a54f6a47f30a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa8ef175bfeedcdf9ca385561974369f826278126"
     }
   ]
 }
