@@ -80063,7 +80063,8 @@
       },
       "account": "channel:web3",
       "attemptId": "e5c980cc-20db-4781-8c6e-e96db76cf7d9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc544b3a6e06431f3bd77d9deceb30c8f7bfc7df7"
     }
   ]
 }
