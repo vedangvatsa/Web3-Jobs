@@ -2846,5 +2846,36 @@
     "slotKey": "2026-10-31:afternoon",
     "messageId": 65793,
     "sentAt": "2026-10-31T11:34:51.327Z"
+  },
+  "bf3b88a0-3e8e-4f59-968c-7bd0b2d3740a": {
+    "status": "reserved",
+    "reservedAt": "2026-10-31T19:36:53.178Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Blockchain Association asks Congress for bipartisan crypto tax laws",
+        "summary": "The group sent a letter requesting new legislation instead of endorsing current bills before tax writers.",
+        "link": "https://hashtagweb3.com/bcatax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Blockchain Association asks Congress for digital asset tax legislation"
+      },
+      {
+        "index": -1,
+        "headline": "Sophon sets November 25 deadline for asset withdrawals",
+        "summary": "The network will close infrastructure on November 25 and shut down its mainnet on November 30.",
+        "link": "https://hashtagweb3.com/sophon?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Sophon sets Nov. 25 withdrawal deadline before mainnet shutdown"
+      },
+      {
+        "index": -1,
+        "headline": "Mt. Gox delays creditor repayments until October 2027",
+        "summary": "The trustee postponed the distribution deadline by one year, marking the fourth such extension for the exchange.",
+        "link": "https://hashtagweb3.com/mtgoxdelay?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Mt. Gox extends creditor repayment deadline to October 2027"
+      }
+    ],
+    "slotKey": "2026-10-31:evening"
   }
 }
