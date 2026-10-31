@@ -833,10 +833,6 @@
       "sha256": "1cfb2668ff84b85d9dd520c9e8290af9a162bd4e4e762d2021dc6329086236ef",
       "status": "optimized"
     },
-    "/events/kbw-official-amigoo-ventures-coffee-capita-10-01-c3bf8d9a.webp": {
-      "sha256": "3a49a2231add486f469bf0fabc490c98883b07f15dbcb27d910731939af102fa",
-      "status": "retained"
-    },
     "/events/kbw-official-blockfesta-2026-10-01-43bb2ed3.webp": {
       "sha256": "58d6c4c5b5a4228d0657132059f21cfd1ac934ca4487048e915ab56b1c21e1ff",
       "status": "retained"
@@ -984,10 +980,6 @@
     "/events/luma-batch-0boKcuyLBEPRDoT-609a935f.webp": {
       "sha256": "733539a0c25f8e114e931308d3253a32098dbaf5277fd38a6d213f9329c15b6f",
       "status": "optimized"
-    },
-    "/events/luma-batch-1IOJ9QDDxRscQva-8d480194.webp": {
-      "sha256": "31cd8c51a7ef2c526c201c118cdfc2d7ec8653c355ce2cb70b0f9963a1cddceb",
-      "status": "retained"
     },
     "/events/luma-batch-1Xx7yJSkhlrHBm6-5eeee021.webp": {
       "sha256": "a268c7d2bfb61ad70d35a1c6b0bc1648cc507f10d1bd0c51217189635169a922",
@@ -1229,10 +1221,6 @@
       "sha256": "f8c5e61a6b587e76404a15f6fdd469b8e8b93b092b547f17a970bab2b1109521",
       "status": "optimized"
     },
-    "/events/luma-batch-evt5zUdGlOrOybDa-e160f6b5.webp": {
-      "sha256": "2428afcb3173c339822202ede84418584c5d1812907d353a9194cb8e0070d820",
-      "status": "retained"
-    },
     "/events/luma-batch-evt6E9WqePUmmJmv-53d659c9.webp": {
       "sha256": "3c260fc7ac96059f92e3e0af29ef3e5efb67171dc3ff928c31908bda96fc4c2a",
       "status": "optimized"
@@ -1305,16 +1293,8 @@
       "sha256": "dcd248ec890022a0e8bcb3b8bdff87be793aa457093e7ceef109473019d6951f",
       "status": "retained"
     },
-    "/events/luma-batch-evtATj4XOeBTgICx-6a574a5c.webp": {
-      "sha256": "35bd5d2be35f1e9fafe186b86f0497da2f4320942b18cf1722ed8e65e7ff8e59",
-      "status": "retained"
-    },
     "/events/luma-batch-evtAhlboiFVShnZR-eab2f1bd.webp": {
       "sha256": "b7a03853006050c0e5001851143c2de9627a23fa0b6a34595bbe5f79c9f4c08c",
-      "status": "optimized"
-    },
-    "/events/luma-batch-evtB10f3UOXBEobq-8c891ee5.webp": {
-      "sha256": "9dfe2feb0cfc27543abb528bc668b3676e1c8f39c6f39df1818ec4fc57e7887a",
       "status": "optimized"
     },
     "/events/luma-batch-evtBKlI1d8fbXECu-f69e875b.webp": {
@@ -1517,10 +1497,6 @@
       "sha256": "1f4f8cbc47774d11fd37d82d28bd0c45c46c8da657d074a9ec0aa84ac0d503f5",
       "status": "optimized"
     },
-    "/events/luma-batch-evtS4OXzyXj1pUX0-b8d9da4b.webp": {
-      "sha256": "ad58adb0c848984e4abb91bf4cbd681ca50adad5b37c45f0b42abe5cfb590e97",
-      "status": "optimized"
-    },
     "/events/luma-batch-evtSK22Vhvj9z3xv-69098de1.webp": {
       "sha256": "e3c18cfaa8b11e318e0f6f26980dcb7b9a3f30ca8f233bad41ba319a2482a99c",
       "status": "optimized"
@@ -1655,10 +1631,6 @@
     },
     "/events/luma-batch-evtceTF1z3WvKJ1i-4eea03f2.webp": {
       "sha256": "f66a311798b79a0cb0d9edea11ee75409c0fbaf7ca26d552cc483e052c6d7f0e",
-      "status": "retained"
-    },
-    "/events/luma-batch-evtclV8SYuZJSdbr-9c581015.webp": {
-      "sha256": "85e5ac85b26596af8320612ef8fbf58e1410ad35c3f6077b90bbe5282fb0f9db",
       "status": "retained"
     },
     "/events/luma-batch-evtcp7WVEPB7iUm9-c438c70d.webp": {
@@ -1909,10 +1881,6 @@
       "sha256": "6e4f4fc5473d5f53ad9385b0d341a76af537dc9084026ad46b09c8efb4a7a735",
       "status": "retained"
     },
-    "/events/luma-batch-gzayLEghrE7BFek-19548aae.webp": {
-      "sha256": "e214b42f924377db75d6d1fa5e5a973a10ecf92159a5d79d03c9cd68090ae1ec",
-      "status": "optimized"
-    },
     "/events/luma-batch-hIZnQMK5SVTWgj8-fc1d14a3.webp": {
       "sha256": "b064fd02ebd52e322ea4310375a927b8fdab26167d7d64f9cc65dff5ebff497b",
       "status": "optimized"
@@ -2156,10 +2124,6 @@
     "/events/luma-crypto-bgwgalfuqt19gq7-0705be99.webp": {
       "sha256": "36a2565fedb61af4bad4a6687734a12deda37688dc190f29ba29e5e26ae783b0",
       "status": "retained"
-    },
-    "/events/luma-crypto-bjffo8tjeowzlmw-b87bc772.webp": {
-      "sha256": "430f8859ce05151468428d1e0f9f12b339b30897604483e8172585d38568867c",
-      "status": "optimized"
     },
     "/events/luma-crypto-bjntzdbanapajyl-4c7e19cc.webp": {
       "sha256": "f3b08a73519807e44d48c6f871dbe7feac2c65373b413a20b2f4ebe5e38a4802",
@@ -3837,10 +3801,6 @@
       "sha256": "35e9ea99b10ce7d09a62e2a3d5c82f0c2f61423dda6e435e84e6be39631e4037",
       "status": "optimized"
     },
-    "/events/luma-evt-ypfxshbng9ycntk-0e9075a8.webp": {
-      "sha256": "adeed69793f37e3cb6560e5e92276f57208fe2dc8d2a05b365d257b7b691bda1",
-      "status": "retained"
-    },
     "/events/luma-evt-yrxhifqonkfchqd-18eee369.webp": {
       "sha256": "45d3992869817bc68d8d5ff1b2869ace0358f39b7b2305081e843abd8ffb43b3",
       "status": "optimized"
@@ -4227,10 +4187,6 @@
     },
     "/events/ma-ethprague-2027-7404011b.webp": {
       "sha256": "b7ef2febf52be9537acfca05a6dc2bb417675f75ab3868993b57ba61b1bf553f",
-      "status": "optimized"
-    },
-    "/events/ma-european-blockchain-convention-2027-638f6cd3.webp": {
-      "sha256": "25545a0af1742c74abd55e8098c6473c6f4788b7c154618a71fa7334a213859f",
       "status": "optimized"
     },
     "/events/ma-india-blockchain-week-2027-f845f14d.webp": {

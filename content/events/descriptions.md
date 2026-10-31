@@ -10087,52 +10087,6 @@ DIGITAL AF (하나됨 - "unity")는 현대 미술, 기술, 게임, 그리고 한
   - 주최: Wildcat × Digital AF
   - 서울에서 만나요.
 
-<a id="event-d44ed1f9ef1e6100"></a>
-
-## Amigoo Ventures Coffee & Capital (SEOUL)
-
-- Record: `kbw-official-amigoo-ventures-coffee-capita-10-01`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-10-01T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/faufjh92>
-
-### About the event
-
-Coffee & Capital by Amigoo Ventures is a carefully curated, small‑pax, private meetup connecting institutional decision‑makers across crypto's secondary and yield markets.
-
-We bring together capital allocators, fund managers, project founders, liquidity providers, yield managers, structured product teams, lenders, borrowers, and OTC brokers for focused networking, off‑market dealmaking, and institutional yield strategies.
-
-### Who This Event Is For
-
-Capital Allocators & Funds
-
-VCs, hedge funds, family offices, and liquid credit desks seeking off‑market secondary allocations and structured yield.
-
-Projects & Treasuries
-
-Listed token projects, foundations, and core teams looking to unlock duration‑managed liquidity for locked or pre‑vesting tokens.
-
-Yield & Liquidity Providers
-
-Yield managers, structured yield product issuers, lenders, borrowers, principal trading desks scaling on‑chain yield and secondary flow.
-
-Who This Event Is Not For
-
-To maintain focus and direct deal value, registration is strictly closed to:
-
-- - Pre‑TGE projects seeking grant or venture funding
-- - Centralized exchanges (CEXs)
-- - Marketing agencies, dev shops, and other third‑party service providers
-
-Event location details will be shared only with approved applicants after ticket confirmation.
-
-### About Amigoo Ventures
-
-Amigoo Ventures is an institutional liquidity firm and a leader in secondary and OTC private markets for both locked and liquid tokens. With over $31M in assessed dealflow and a deep network of funds, projects, and liquidity providers, we work with buyers and sellers to unlock rare, off‑market opportunities, curating and facilitating exclusive OTC trades across private and liquid token markets.
-
-Connect with us: Website ( (https://amigoo.xyz)[Amigoo.xyz](https://Amigoo.xyz)) (https://amigoo.xyz) | X (Twitter) (https://x.com/Teamamigoo) | [LinkedIn](https://www.linkedin.com/company/amigoo-go)
-
 <a id="event-2d7a357b221059aa"></a>
 
 ## BLOCKFESTA 2026 \| During Korea Blockchain Week
@@ -17688,74 +17642,6 @@ The organizer's timeline lists a September 16 kickoff and an October 16 submissi
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
-<a id="event-5d871abc42fd59dc"></a>
-
-## Physical AI Hardware Founder Dinner with Rho @ Studio 45
-
-- Record: `luma-crypto-bjFFo8TJeoWZLmW`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-10-01T01:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ysnawrb2>
-
-### About the event
-
-We run large monthly events, and people are asking for smaller, more intimate gatherings to connect further.
-
-We have 30 spots, 3 courses, a great venue, and a curated experience.
-
-[Thank you to our co-hosts Rho](https://www.rho.co/), a business banking platform, purpose-built for startups. More below.
-
-### This is for any hardware founder, engineer, investor
-
-- All stages of startups and companies welcome.
-
-### Agenda
-
-6:30-7:00 - Arrival, mingle, grab refreshments
-
-7:00-8:15 - Dinner + Discuss
-
-8:15-8:30 - Asks + Offers
-
-6:30-7:00 - Arrival, mingle, grab refreshments
-
-7:00-8:15 - Dinner + Discuss
-
-8:15-8:30 - Asks + Offers
-
-### What to expect
-
-- 3x courses
-- 1x mixed drink with extra options
-- 2hrs to connect over dinner discussion
-- All emails + intros will be sent after the event for further connection
-
-We have 30 spots, 3 courses, a great venue, and a curated experience.
-
-- 3x courses, family style meal
-- 1x mixed drink with extra options
-- 2hrs to connect over dinner discussion
-- All emails + intros will be sent after the event for further connection
-
-### This is for founders, investors, and builders in climate
-
-- All stages of startups and companies welcome.
-
-### Thank you to our co-hosts!
-
-Our dinners are usually $50 a person, thank you to Rho for helping make the ticket 50% off!
-
-[Rho](https://www.rho.co/) is a business banking platform, purpose-built for startups. Manage cash, keep burn in check, and automate finance busywork that distracts founders from building products customers want.
-
-Studio 45 (mission) (https://www.workatthestudio.com/) is a space dedicated to supporting local entrepreneurs and teams building hardware. Located in Mission/Bernal Area, the studio gathers the community, resources, space, and tools needed to build a business making physical products.
-
-If you want to help host a future SF Hardware Dinner, reach out to us at michael (at) hardwaremeetup (dot) com.
-
-Hardware Meetup is a volunteer organization and relies on sponsorships to cover the costs of putting on these events.
-
-We share the RSVP list with sponsors who support 3 or more events. By RSVPing to this event you consent to us sharing your email address and other registration information with our sponsors.
-
 <a id="event-4b2027f7c8696bff"></a>
 
 ## 2867 Club - top UIUC Founders Dinner (SF)
@@ -25189,370 +25075,6 @@ Date: September 30 - October 4, 2026
 Location: Seongsu, Seoul
 
 Select experiences, merchandise, and giveaways will be available in limited quantities and while supplies last.
-
-<a id="event-731fb2eb6eefb516"></a>
-
-## DC BitDevs #022
-
-- Record: `luma-batch-evtS4OXzyXj1pUX0`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-30T21:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/hlpzv0nh>
-
-### About the event
-
-Join us for DC BitDevs #021, our Socratic Seminar covering Bitcoin protocol development, security, and governance. This month: BIP-110's failure and what it tells us about who controls Bitcoin, the $116M Coldcard hack, Bitcoin Core v32's major IBD performance gains, the covenants debate, CLARITY Act's September 15 Senate vote.
-
-Parking / Transport:
-
-Metro - Gallery Place-Chinatown Station (Red, Green, Yellow lines), one block from the venue, or Metro Center Station (Silver, Orange, Blue lines), 10 minute walk
-
-Multiple parking garages available in the Penn Quarter area
-
-Thank you to PubKey DC for hosting!
-
-### Event details
-
-Organized by BitDevs DMV. Venue: Pubkey, Pubkey, 410 7th St NW, Washington, DC 20004, USA. Tickets: Free.
-
-<a id="event-3da8155cd76b2557"></a>
-
-## An Introduction to Blockchains with Tangem
-
-- Record: `luma-batch-1IOJ9QDDxRscQva`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-30T21:45:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/agxiag3l>
-
-### About the event
-
-Join the HBS Bitcoin & Crypto Club for an introduction to the world of blockchain and crypto with the team from Tangem, a leading hardware wallet company.
-
-We'll start with the fundamentals of blockchain and crypto before diving into cybersecurity, digital asset ownership, and how hardware wallets work. The Tangem team will share what they're building, demo their products, and give us a firsthand look at what it's like to build a consumer technology business in the crypto industry.
-
-Whether you're already involved in crypto or simply curious to understand the space, this is a chance to learn the basics, ask questions, and meet an interesting team building in the industry.
-
-September 30, 2026 Batten Hives 201 Snacks & beverages will be served Tangem merch for every attendee + hardware wallet giveaways
-
-No prior blockchain or crypto experience required.
-
-<a id="event-1de05c524db83ca3"></a>
-
-## Bitcoin Self Custody in the Age of AI w/ SeedSigner & HRF \| PubKey NYC
-
-- Record: `luma-batch-gzayLEghrE7BFek`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-30T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/pubkey-h7b7>
-
-### About the event
-
-Together the Human Rights Foundation and PubKey dive into how Freedom Tech and Bitcoin advance humanitarian goals.
-
-In this fireside chat, lead developer of the SeedSigner project Keith Mukai will share the best security practices in self-custodying with hardware devices, the security advantages a DIY hardware wallet with store bought parts can provide, and how human rights defenders who need secure self custody the most can benefit from employing these practices.
-
-As always, this is a FREE and PUBLIC event with an opportunity to participate in a live audience Q&A with the speakers.
-
-### Hosts
-
-Hosted by PubKey.
-
-### Event details
-
-The event takes place on September 30. Venue: Pubkey, Pubkey, 85 W Washington Pl, New York, NY 10011, USA.
-
-<a id="event-8f68af11689c8ba5"></a>
-
-## MetaMask Community Builder Night Dallas, US Edition
-
-- Record: `luma-batch-evtclV8SYuZJSdbr`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-30T23:15:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/cbndallassep2026>
-
-### About the event
-
-MetaMask Community Builder Night Bhopal
-
-This is a community-first edition of MetaMask's global Builder Nights. The focus is simple: bring Web3 education, onboarding, and real conversations closer to local ecosystems.
-
-Texas Stock Exchange just moved to Dallas Texas and the SEC just approved 5-year temporary exemption for tokenized stocks to trade on blockchain.
-
-Alot is happening around assets being traded on blockchain so
-
-Join us for a fun educational/networking event on September 30th on the Future of Trading on Blockchain Rails!
-
-Pizza & drinks will be provided!
-
-### Schedule
-
-6:15 p.m- 7:00 p.m - Networking/Pizza
-
-7:00-7:05 p.m. Announcements
-
-7:05-7:45 p.m. Discussion Karin Kusano
-
-7:45-8:00 p.m. Q & A
-
-8:00- 8:30 p.m. Networking
-
-We will be meeting at the Improving office in Plano Texas.
-
-5445 Legacy Dr #100, Plano, TX 75024
-
-### About Consensys
-
-Consensys is a blockchain and Web3 software company founded in 2014. It builds tools that make decentralized technology easier to build with and use, supporting developers and communities working on dApps, NFTs, DAOs, and DeFi.
-
-### About MetaMask
-
-MetaMask is the world's leading self-custody Web3 wallet, used by millions of people. Built by Consensys, it lets you manage your digital identity, interact with dApps, mint NFTs, join DAOs, and participate in DeFi, all while keeping full control of your assets.
-
-<a id="event-9f1b8405c20ae9b1"></a>
-
-## FW3: The Future Is Here. What Do We Think About It?
-
-- Record: `luma-batch-evtATj4XOeBTgICx`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-01T00:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/futureishere>
-
-### About the event
-
-We'll dive into the fundamentals of Web3 and revisit why so many early crypto believers entered the space in the first place: cypherpunk ideals of self sovereignty, privacy, security and an open, decentralized financial system. Fast forward to today, and some of crypto's biggest companies are focused on institutional adoption, working with Wall Street and integrating with the very financial system the industry once set out to disrupt.
-
-How did we get here? What have we gained? What have we lost? And is today's Web3 still the future we originally set out to build?
-
-### SPEAKERS
-
-Brian Russ, Chief Investment Officer, 1971 Capital - Speaker
-
-Brian is the Founder and Chief Investment Officer of 1971 Capital, where he leads investment strategy, portfolio construction, and risk management. An early web3 adopter with 13 years in the space, he brings experience across digital assets, traditional finance, and global markets. Previously, he was Managing Director and Market Executive at BMO, where he built and led the bank's Colorado market, managing more than $1 billion in committed capital. He also traded the Leonidas Macro Fund at Typhon Capital Management, an unconstrained global macro hedge fund.
-
-Taylor Kendal, Chief Trust & Community Officer, Learning Economy Foundation - Speaker
-
-Taylor Kendal has co-convened The Future of Web3 in Denver since 2023, from crypto happy hours to salons on data sovereignty and cooperative economics. He's Chief Trust and Community Officer at Learning Economy Foundation, co-producer of The Human Layer, Advisor at Factland, and a speaker and network partner liaison for the Transformative Impact Summit. Education, myth, culture, travel, trust - quarterly at tayken.beehiiv.com.
-
-Valeria Kholostenko, Senior Operator, Digital Assets × Capital Markets, ex-ConsenSys & Parity, 1st US Hire at a $100M VC Fund, Founder of FW3 - Moderator and Host
-
-Valeria is a senior web3 operator and founder of The Future of Web3, which launched in Denver in 2023 to bring together leaders across crypto, technology, and emerging industries. Over the past decade, she has led growth, partnerships, and market expansion across the Ethereum, Polkadot, and Filecoin ecosystems, with leadership roles at ConsenSys, Parity, Astar, and LBank Labs. Her work focuses on developing systems and turning emerging technologies into real-world ecosystems through community, partnerships, and commercialization. Over the last year, Valeria has advised companies on go-to-market, business operations, and strategy.
-
-### SCHEDULE
-
-6:00 PM - Mingle
-
-7:00 PM - Panel Talk
-
-8:00 PM - Mingle
-
-ARTWORK
-
-Art by Nissim Ben Aderet
-
-<a id="event-9f43da191ee0672f"></a>
-
-## Asia stablecoin conference VIP kick-off Breakfast
-
-- Record: `luma-batch-evtB10f3UOXBEobq`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-01T00:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/the-4ial>
-
-### About the event
-
-Asia stablecoin conference VIP kick-off Breakfast
-
--Part of the RealFi × Asia Stablecoin Conference Series
-
-Begin the main conference day with a focused morning of senior-level conversation and thoughtfully curated introductions.
-
-This official conference breakfast brings together speakers, sponsors, Korean institutions, and participating organizations before the main program begins. The setting is designed to help guests establish context, identify shared priorities, and connect with the people most relevant to their work.
-
-Speakers include executives from Ant Group, Alchemy, LayerZero, a16z, Franklin Templeton, Canton, and more. The room will be split evenly between leaders from global market institutions and leaders from Asian institutions, giving guests a balanced view of both sides of the market.
-
-Morning Programme
-
-Who Will Attend
-
-Senior representatives from financial institutions, digital-asset companies, conference partners, and participating organizations, with equal representation from global market leaders and Asian institutions.
-
-Format: Seated executive breakfast
-
-Featuring: Executive keynotes, curated tables, and institutional introductions
-
-Confirmed attendees will receive further details before the event.
-
-<a id="event-94c25284ee32d3ae"></a>
-
-## Entendamos mejor las Criptomonedas
-
-- Record: `luma-batch-evtPt93oz47WDC3s`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-01T00:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/159r98fh>
-
-### About the event
-
-La Cervecería - Zona T, piso 3
-
-6:30 p.m. - Puertas abiertas
-
-7:30 p.m. - Inicia la charla
-
-Entrada libre
-
-En esta charla, Bernardo Bermúdez, creador de CriptoBernie donde se explica el ecosistema de criptomonedas, nos invita a conversar sobre cómo entender las criptomonedas desde una perspectiva realista, lejos de falsas promesas y mitos de riqueza fácil.
-
-A partir de sus propios tropiezos y aprendizajes en el camino, Bernardo abrirá una conversación honesta para desmitificar este universo. Exploraremos desde las diferencias básicas entre las principales criptomonedas, hasta las claves fundamentales para identificar estafas, reducir riesgos y conocer cuáles son los canales más confiables para empezar a invertir con criterio propio.
-
-Este espacio está pensado para quienes sienten curiosidad por el ecosistema cripto pero no saben por dónde arrancar, para los que quieren proteger su dinero de promesas engañosas y para cualquier persona interesada en entender las finanzas digitales sin enredos técnicos.
-
-<a id="event-b669963189571e45"></a>
-
-## Solana Onchain: Institutions, Tokenisation & Staking
-
-- Record: `luma-batch-evt5zUdGlOrOybDa`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-01T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/zbes8kt4>
-
-### About the event
-
-Join us for an intimate morning with Sanctum, Orca, Validated by Four Pillars and DeFi Development Corp. (DFDV) supported by Superteam Korea and Solana Foundation, bringing together institutional investors, allocators and leading players across the digital asset ecosystem.
-
-Hear directly from industry leaders on what institutional adoption looks like today and where the biggest opportunities are emerging. More importantly, this is a chance to meet the people shaping the space and build meaningful connections over a relaxed morning of conversation and networking.
-
-### Agenda
-
-10:00 AM - Registration & refreshments
-
-10:30 AM - Panel discussion
-
-11:00 AM - Q&A
-
-11:15 AM - Networking
-
-Limited spots available, come for the conversation, stay for the connections.
-
-Sanctum, Orca, Four Pillars의 Validated, DeFi Development Corp. (DFDV)가 함께하고, Superteam Korea와 Solana Foundation이 지원하는 이번 자리에 기관 투자자, 자산 운용사 및 디지털 자산 생태계의 주요 플레이어들을 모십니다.
-
-업계 리더들과 함께 현재 기관의 온체인 진입과 도입은 어떤 모습인지, 그리고 앞으로 어떤 기회가 열리고 있는지 이야기를 나눕니다. 또한, 편안한 분위기에서 대화를 나누며 이 분야를 만들어가고 있는 다양한 사람들을 만나고 의미 있는 네트워크를 쌓을 수 있는 자리입니다.
-
-의제:
-
-10:00 AM - 등록 및 다과
-
-10:30 AM - 패널 토론
-
-11:00 AM - Q&A
-
-11:15 AM - 네트워킹
-
-참석 인원이 제한되어 있습니다. 인사이트를 나누는 대화부터 새로운 연결까지, 함께해 주세요.
-
-### About Sanctum
-
-Sanctum is the #1 protocol by TVL on Solana and a leading liquid staking infrastructure provider, powering LSTs, validators, applications, and institutional staking solutions across the ecosystem.
-
-Through Infinity, Sanctum enables deep liquidity and composability for liquid staking tokens, while providing white-label LSTs, validator infrastructure, and tailored staking solutions for institutions.
-
-Trusted by leading institutions and Nasdaq-listed companies including Forward Industries, DFDV, and STSS.
-
-For more information, visit sanctum.so or follow Sanctum on X.
-
-Sanctum 소개
-
-Sanctum은 Solana TVL 1위 프로토콜이자 대표적인 리퀴드 스테이킹 인프라 제공업체로, LST, 밸리데이터, 애플리케이션 및 기관용 스테이킹 솔루션을 지원합니다.
-
-Sanctum의 Infinity를 통해 LST 프로젝트는 높은 유동성과 뛰어난 조합성을 확보할 수 있으며, 기관을 위한 화이트라벨 LST, 밸리데이터 인프라 및 맞춤형 스테이킹 솔루션도 제공합니다.
-
-Forward Industries, DFDV, STSS를 포함한 주요 기관 및 Nasdaq 상장 기업들이 Sanctum의 인프라를 활용하고 있습니다.
-
-자세한 내용은 sanctum.so에서 확인하거나 X에서 Sanctum를 팔로우하세요.
-
-### About Orca
-
-Orca is Solana's leading concentrated liquidity DEX and the venue of choice for capital-efficient trading and market making on-chain. Since 2021, Orca has processed over $530B in cumulative volume and paid out more than $500M in fees to liquidity providers across 14M+ trader wallets.
-
-As onchain markets expand into real-world assets, Orca has become the liquidity layer where tokenized equities, gold, and other RWAs trade on Solana, bridging institutional issuers and on-chain markets.
-
-For more information, visit orca.so or follow Orca on X.
-
-Orca 소개
-
-Orca는 솔라나를 대표하는 집중 유동성(Concentrated Liquidity) DEX로, 온체인에서 가장 자본 효율적인 트레이딩과 마켓메이킹 환경을 제공합니다. 2021년 출시 이후 누적 거래량 5,300억 달러를 돌파했으며, 1,400만 개 이상의 트레이더 지갑을 대상으로 유동성 공급자에게 5억 달러 이상의 수수료를 지급해 왔습니다.
-
-온체인 시장이 실물연계자산(RWA)으로 확장됨에 따라, Orca는 토큰화 주식, 금을 비롯한 다양한 RWA가 솔라나에서 거래되는 유동성 레이어로 자리잡으며 기관 발행사와 온체인 시장을 연결하고 있습니다.
-
-자세한 내용은 orca.so에서 확인하거나 X에서 Orca를 팔로우하세요.
-
-### About FP Validated & Four Pillars
-
-Four Pillars is Asia's leading crypto research house, composed of sector-specialized researchers covering markets across Korea, Japan, Hong Kong, and Singapore. Four Pillars has published 600+ articles in both Korean and English, and hosted 20+ seminars and lectures - delivering actionable insights to builders, institutions, and policymakers while raising the industry standard.
-
-FP Validated is the validator arm of Four Pillars. Our experienced SREs and governance specialists support networks through reliable operations, active governance participation, and research-driven insights, building SOC 2-compliant, institutional-grade staking infrastructure across Asia.
-
-Learn more at validated.4pillars.io and follow FP Validated on X.
-
-FP Validated & Four Pillars 소개
-
-Four Pillars(포필러스)는 한국, 일본, 홍콩, 싱가포르 등 아시아 주요 시장을 담당하는 분야별 전문 리서처들로 구성된 아시아 최고의 크립토 리서치 하우스입니다. 한국어와 영어로 600편 이상의 아티클을 발행했으며, 20회 이상의 세미나와 강연을 개최하며 빌더, 기관 및 정책 입안자들에게 실질적인 인사이트를 제공하고 업계의 기준을 높여가고 있습니다.
-
-FP 밸리데이티드(FP Validated)는 포필러스의 밸리데이터 브랜드로, 국내 최고 수준의 SRE들과 거버넌스 스페셜리스트로 구성되어 있습니다. 안정적인 노드 운영과 적극적인 거버넌스 참여, 리서치 기반의 인사이트를 통해 네트워크의 성장을 지원하며, 아시아 전역에서 SOC 2 기준을 충족하는 기관급 스테이킹 인프라를 구축하고 있습니다.
-
-자세한 내용은 validated.4pillars.io 에서 확인하시기 바라며, X에서 FP 밸리데이티드를 팔로우하세요.
-
-About DeFi Development Corp. (DFDV)
-
-DeFi Development Corp. (Nasdaq: DFDV) is the first U.S. public company built around a Solana digital asset treasury, accumulating and compounding SOL to grow SOL Per Share (SPS) for investors. It is one of the largest public SOL treasuries globally, with roughly 2.39 million SOL and SOL equivalents on its balance sheet.
-
-Through owned validator infrastructure, the Sanctum-powered dfdvSOL liquid staking token, onchain yield strategies, and tokenized equity via DFDVx, DFDV turns public-market capital into productive Solana exposure. CHAD, its Nasdaq-listed variable-rate preferred stock, is designed to fund further SOL accumulation without diluting common shareholders.
-
-Learn more at defidevcorp.com and follow DeFi Dev Corp on X.
-
-DeFi Development Corp. (DFDV) 소개
-
-DeFi Development Corp. (Nasdaq: DFDV)는 Solana 디지털 자산 트레저리(Solana digital asset treasury)를 중심으로 설립된 미국 최초의 상장 기업으로, SOL을 지속적으로 매입하고 운용하여 투자자들의 SOL Per Share(SPS)를 성장시키는 것을 목표로 합니다. 현재 약 239만 SOL 및 SOL 등가 자산을 보유하고 있으며, 전 세계 상장 기업 가운데 가장 큰 규모의 SOL 트레저리 중 하나를 운영하고 있습니다.
-
-자체 검증인(Validator) 인프라와 Sanctum 기반의 리퀴드 스테이킹 토큰 dfdvSOL, 온체인 수익 전략, 그리고 토큰화된 주식 DFDVx를 통해 DFDV는 전통적인 자본시장 자금을 생산적인 Solana 익스포저로 전환합니다. Nasdaq에 상장된 변동금리 우선주 CHAD는 보통주 주주의 지분 희석 없이 추가적인 SOL 매입 자금을 조달할 수 있도록 설계되었습니다.
-
-자세한 내용은 defidevcorp.com에서 확인할 수 있으며, DeFi Dev Corp의 X에서도 소식을 확인할 수 있습니다.
-
-### About Superteam Korea
-
-Superteam Korea is the official Korean chapter of the global Superteam network and a Solana Foundation-supported community for builders and founders. It connects talented developers and entrepreneurs in Korea to learn, earn, and launch projects on Solana, helping grow the local Web3 ecosystem.
-
-Learn more at superteamkr.com
-
-Superteam Korea 소개
-
-Superteam Korea는 글로벌 Superteam 네트워크의 공식 한국 지부이자 Solana Foundation의 지원을 받는 커뮤니티입니다. 한국의 개발자, 창업가, 빌더들이 Solana 생태계에서 배우고, 기회를 얻고, 프로젝트를 출시할 수 있도록 연결하며 국내 Web3 생태계의 성장을 지원합니다.
-
-자세한 내용은 superteamkr.com에서 확인하세요.
-
-### About Solana Foundation
-
-The Solana Foundation is a non-profit based in Zug, Switzerland, dedicated to the decentralization, security, adoption, and censorship resistance of the Solana network. Its mandate is to help Solana win - attracting talent and capital so the protocol can become foundational infrastructure for open finance, internet capital markets, and the next generation of applications.
-
-Through grants, the Solana Foundation Delegation Program, hackathons, education, and institutional partnerships, the Foundation funds public goods, grows a globally distributed validator set, and supports builders shipping across DeFi, payments, RWAs, and consumer apps.
-
-Learn more at solana.org and follow Solana Foundation on X.
-
-Solana Foundation 소개
-
-Solana Foundation은 스위스 추크에 기반을 둔 비영리 재단으로, Solana 네트워크의 탈중앙화, 보안, 채택, 검열 저항성 강화를 위해 활동하고 있습니다. 재단의 목표는 Solana가 성공적으로 성장할 수 있도록 인재와 자본을 유치하고, Solana 프로토콜이 오픈 금융, 인터넷 자본시장, 차세대 애플리케이션을 위한 핵심 인프라로 자리 잡도록 지원하는 것입니다.
-
-Solana Foundation은 그랜트, Solana Foundation Delegation Program, 해커톤, 교육 프로그램, 기관 파트너십 등을 통해 공공재에 자금을 지원하고, 전 세계적으로 분산된 밸리데이터 생태계를 확대하며, DeFi, 결제, RWA, 소비자 애플리케이션 등 다양한 분야에서 서비스를 구축하고 있는 빌더들을 지원하고 있습니다.
-
-자세한 내용은 solana.org에서 확인할 수 있으며, Solana Foundation의 X에서 소식을 확인할 수 있습니다.
 
 <a id="event-a07b1c3dedc81962"></a>
 
@@ -39489,18 +39011,6 @@ All hackathon winners are interviewed and considered for the Colosseum accelerat
 
 All workshops stream live on Discord, including the kickoff with the Colosseum founders. Participants can watch live, ask questions and follow the program through the event.
 
-<a id="event-527fa9e7097ba286"></a>
-
-## Korea Blockchain Week 2026 (KBW2026)
-
-- Record: `ma-korea-blockchain-week-2026--kbw2026-`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-29T00:00:00.000Z
-- Description: Missing
-- Original page: <https://koreablockchainweek.com/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-0add12c3cd820df8"></a>
 
 ## DIGITAL AF! • United Art & Tech • Web3 meets culture in Seoul
@@ -39583,129 +39093,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-09-30T04:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/0a0g9am0>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-5dc7e754365d2e53"></a>
-
-## Wyoming Blockchain Stampede 2026
-
-- Record: `w3v-wyoming-blockchain-stampede-26-09-30`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-30T15:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/8vubx2wd>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-910b09a7e92a8005"></a>
-
-## SuperteamBR: Meetup University
-
-- Record: `luma-host-evt-evt-JpRV2d4UKWoJDWD`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-30T21:30:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/gyphbsbo>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-cad17ef4cd0b0b5d"></a>
-
-## An Introduction to Blockchains with Tangem
-
-- Record: `luma-evt-1IOJ9QDDxRscQva`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-30T21:45:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/agxiag3l>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-a5f3c1343461f91e"></a>
-
-## Bitcoin Self Custody in the Age of AI w/ SeedSigner & HRF \| PubKey NYC
-
-- Record: `luma-evt-gzayLEghrE7BFek`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-30T22:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/pubkey-h7b7>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-09a04b5efe17f4ce"></a>
-
-## Best of NYC with Work-Bench: Forward Deployed Engineers!
-
-- Record: `luma-evt-ReT8uCxFLC8TcX5`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-30T22:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/bestofnyc03>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-073c4da0806091dc"></a>
-
-## Convergence: Onchain Finance Soirée at Sibos Miami \| OpenZeppelin x WisdomTree x DFNS
-
-- Record: `luma-evt-YpFXSHbNG9yCntK`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-30T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/convergence-onchain-finance-sibos-miami>
-- Original page: <https://luma.com/convergence-onchain-finance-sibos-miami>
-
-### About the event
-
-Convergence is a curated evening soirée during Sibos Miami 2026, hosted by OpenZeppelin, WisdomTree, and DFNS, for the leaders bringing traditional finance onchain.
-
-Finance is moving onchain. Tokenized funds, stablecoins, digital custody, and onchain settlement are becoming part of institutional infrastructure, and the people building that shift rarely get a room of their own at a conference of 10,000.
-
-This evening is that room: banks, asset managers, payment networks, capital markets infrastructure, fintechs and neobanks, alongside the teams securing and powering their move onchain. Real conversations, away from the noise of the conference floor.
-
-Join us on Wednesday, September 30 for cocktails in a private venue surrounded by modern art, 4 minutes from the Miami Beach Convention Center (MBCC).
-
-Previous Convergence events drew senior guests from firms including J.P. Morgan, Citi, UBS, Morgan Stanley, Bank of America, BNY, Fidelity, Mastercard, Deloitte, and more.
-
-The evening is limited to 100 guests to keep it at conversation scale. Registration is subject to hosts' approval.
-
-### About the hosts
-
-[OpenZeppelin](https://www.openzeppelin.com/) is the security standard for onchain finance. Since 2015, its industry-standard smart contracts library has powered $37 trillion in value transferred, alongside 900+ security engagements for leading institutions, blockchain networks, and protocols including DTCC, Fidelity Digital Assets, WisdomTree, Aave, the Canton Foundation [and the Ethereum Foundation. Learn more at openzeppelin.com](https://openzeppelin.com).
-
-[WisdomTree](https://www.wisdomtree.com/corporate) is a global financial innovator offering a diverse suite of exchange-traded products, models, digital assets, and solutions. A pioneer in bringing regulated tokenized funds to market, WisdomTree is building the bridge between traditional asset management and onchain finance.
-
-[Dfns](http://dfns.co/?utm_source=luma) is the leading Wallets-as-a-Service (WaaS) platform to manage digital asset operations and build applications onchain. Dfns is trusted by over 400 fintechs and financial institutions, including Circle, Stripe, First Abu Dhabi Bank, Standard Chartered Bank, Apex, Susquehanna, MoonPay, Fidelity, and many others.
-
-Event Photography
-
-We'll be capturing photos and videos throughout the event. By attending, you agree that we may use event content (including your image) in our marketing materials, social media, and future promotions. If you prefer not to be photographed, please let us know at check-in.
-
-Registration details may be shared with event co-hosts WisdomTree and Dfns for event coordination.
-
-<a id="event-8a3a09b11ece3a50"></a>
-
-## ATX DAO - Proof of Chill
-
-- Record: `luma-evt-ZFiii05ggYnABUd`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-30T23:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/x9gyyw9l>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-8e8eefff60a7c15b"></a>
-
-## Forum One: Meet Regulators
-
-- Record: `w3v-forum-one-meet-regulators-26-10-01`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-30T23:30:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/40pngz3o>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -61066,6 +60453,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-5b56837b6b8d90a8"></a>
+
+## Stablecoin Sandwich Club: NYC
+
+- Record: `luma-evt-ykpGvJMLZCTk2TP`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T22:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/mtqnzcan>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-799ee3470be9319c"></a>
 
 ## Cinéma Tricot - Les Aimants
@@ -61139,6 +60538,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-05T01:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/CosmoverseHongKong>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-a2b3c64d6ad2cb11"></a>
+
+## The Pragmatic Engineer Unplugged, presented by WorkOS
+
+- Record: `luma-evt-uwr8kFYfwz2pyVq`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T01:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/pragmatic-engineer-unplugged>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -62502,6 +61913,18 @@ Previous Edition:
 Previous Events:
 
 etc.
+
+<a id="event-3bef137fc63cbb6b"></a>
+
+## Build Across Chains: A Solana Builder Briefing, with NEAR Intents x Aurora Intents
+
+- Record: `luma-host-evt-evt-0IYTXT7gbeBn9DA`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-14T15:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/loajg3ik>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-f1216aaba0d85290"></a>
 

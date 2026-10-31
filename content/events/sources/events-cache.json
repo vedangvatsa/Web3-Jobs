@@ -340,20 +340,6 @@
     "slug": "sec"
   },
   {
-    "id": "ma-korea-blockchain-week-2026--kbw2026-",
-    "name": "Korea Blockchain Week 2026 (KBW2026)",
-    "description": "",
-    "startDate": "2026-09-29T00:00:00.000Z",
-    "endDate": "2026-10-01T00:00:00.000Z",
-    "city": "Seoul, South Korea",
-    "country": "South Korea",
-    "location": "Seoul, South Korea",
-    "url": "https://koreablockchainweek.com/",
-    "coverImage": "/events/ma-korea-blockchain-week-2026-kbw2026-450007be.webp",
-    "source": "marketacross",
-    "month": "September 2026"
-  },
-  {
     "id": "w3v-digital-af--exhibition--side-events-space",
     "name": "DIGITAL AF! • United Art & Tech • Web3 meets culture in Seoul",
     "description": "DIGITAL AF 하나됨 — Seoul '26\nSept 29 → Oct 3 · ARC Gangnam, Seoul\n\nDIGITAL AF deliberately brings together communities that do not usually share the same room.\n\nThe program spans blockchain, AI, gaming and emerging technology alongside contemporary art, music and Korean culture.\n\nThe idea is to create an environment where a founder can meet an artist, an investor can discover a gaming project, a developer can find their next collaborator, or an international visitor can connect with a Korean builder outside the usual conference setting.\n\nFor Sponsorship Opportunities : digitalaf.xyz@gmail.com\n\nWhat's On?\n\n- Talks and exhibition area at the intersection of art, gaming & AI\n-  Large-format art installations & live volumetric light work immersive space\n- Live sets, concerts & a closing party that runs late\n\nLanding during Korea Blockchain Week, when Seoul is full of the people building what's next.\n\n📍 ARC, Seoul\n🗓️ Sept 29 → Oct 3, 2026\n\nBy Wildcat × Digital AF\n\nSee you in Seoul.\n------------------------------------------------------------------\n\n하나의 공간. 5일간의 여정. 경계 없는 융합.\n\nDIGITAL AF (하나됨 — \"unity\")는 현대 미술, 기술, 게임, 그리고 한국 문화가 실시간으로 충돌하고 반응하며 서로 영감을 주고받는 독창적인 콘퍼런스 겸 전시 공간입니다.\n\n9m의 층고와 3개의 층으로 연결된 800m² 규모의 옛 철강 공장을 개조한 공간 'ARC'에서 진행되는 DIGITAL AF는 유럽과 한국의 기업, 빌더, 아티스트, 그리고 투자자들이 한자리에 모이는 네트워크의 장입니다.\n\n스폰서십 문의: digitalaf.xyz@gmail.com\n\n주요 프로그램:\n\n• 예술, 게임, AI의 접점을 다루는 토크 세션 및 전시 구역\n• 대형 아트 인스톨레이션 및 라이브 볼류메트릭 라이트 워크 몰입형 공간\n• 라이브 셋, 콘서트, 그리고 늦은 밤까지 이어지는 클로징 파티\n  • 다음 시대를 만들어가는 이들로 서울이 가득 차는 Korea Blockchain Week 기간에 맞춰 개최됩니다.\n  • 📍 서울 ARC\n  • 🗓️ 2026년 9월 29일 → 10월 3일\n  • 주최: Wildcat × Digital AF\n  • 서울에서 만나요.",
@@ -432,54 +418,6 @@
       "eventId": "evt-ZR9kvg5Gf1VTqvI",
       "fetchedAt": "2026-09-19T23:29:55.518Z",
       "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "luma-evt-YpFXSHbNG9yCntK",
-    "name": "Convergence: Onchain Finance Soirée at Sibos Miami | OpenZeppelin x WisdomTree x DFNS",
-    "description": "Convergence is a curated evening soirée during Sibos Miami 2026, hosted by OpenZeppelin, WisdomTree, and DFNS, for the leaders bringing traditional finance onchain.\n\nFinance is moving onchain. Tokenized funds, stablecoins, digital custody, and onchain settlement are becoming part of institutional infrastructure, and the people building that shift rarely get a room of their own at a conference of 10,000.\n\nThis evening is that room: banks, asset managers, payment networks, capital markets infrastructure, fintechs and neobanks, alongside the teams securing and powering their move onchain. Real conversations, away from the noise of the conference floor.\n\nJoin us on Wednesday, September 30 for cocktails in a private venue surrounded by modern art, 4 minutes from the Miami Beach Convention Center (MBCC).\n\nPrevious Convergence events drew senior guests from firms including J.P. Morgan, Citi, UBS, Morgan Stanley, Bank of America, BNY, Fidelity, Mastercard, Deloitte, and more.\n\nThe evening is limited to 100 guests to keep it at conversation scale. Registration is subject to hosts' approval.\n\n## About the hosts\n\n[OpenZeppelin](https://www.openzeppelin.com/) is the security standard for onchain finance. Since 2015, its industry-standard smart contracts library has powered $37 trillion in value transferred, alongside 900+ security engagements for leading institutions, blockchain networks, and protocols including DTCC, Fidelity Digital Assets, WisdomTree, Aave, the Canton Foundation [and the Ethereum Foundation. Learn more at openzeppelin.com](https://openzeppelin.com).\n\n[WisdomTree](https://www.wisdomtree.com/corporate) is a global financial innovator offering a diverse suite of exchange-traded products, models, digital assets, and solutions. A pioneer in bringing regulated tokenized funds to market, WisdomTree is building the bridge between traditional asset management and onchain finance.\n\n[Dfns](http://dfns.co/?utm_source=luma) is the leading Wallets-as-a-Service (WaaS) platform to manage digital asset operations and build applications onchain. Dfns is trusted by over 400 fintechs and financial institutions, including Circle, Stripe, First Abu Dhabi Bank, Standard Chartered Bank, Apex, Susquehanna, MoonPay, Fidelity, and many others.\n\n📸 Event Photography\n\nWe'll be capturing photos and videos throughout the event. By attending, you agree that we may use event content (including your image) in our marketing materials, social media, and future promotions. If you prefer not to be photographed, please let us know at check-in.\n\nRegistration details may be shared with event co-hosts WisdomTree and Dfns for event coordination.",
-    "startDate": "2026-09-30T22:00:00.000Z",
-    "endDate": "2026-10-01T01:00:00.000Z",
-    "city": "Miami Beach",
-    "country": "United States",
-    "location": "Miami Beach, United States",
-    "url": "https://lu.ma/convergence-onchain-finance-sibos-miami",
-    "coverImage": "/events/luma-evt-ypfxshbng9ycntk-0e9075a8.webp",
-    "source": "luma",
-    "month": "September 2026",
-    "slug": "convergence",
-    "timezone": "America/New_York",
-    "registrationUrl": "https://luma.com/convergence-onchain-finance-sibos-miami",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "hosts": [
-      "OpenZeppelin",
-      "Christopher Grilhault des Fontaines",
-      "WisdomTree Onchain"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "OpenZeppelin",
-      "url": "https://www.openzeppelin.com/"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/convergence-onchain-finance-sibos-miami",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/convergence-onchain-finance-sibos-miami",
-      "eventId": "evt-YpFXSHbNG9yCntK",
-      "fetchedAt": "2026-09-19T23:54:10.002Z",
-      "method": "luma-api",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
@@ -12432,102 +12370,6 @@
     "month": "September 2026"
   },
   {
-    "id": "w3v-wyoming-blockchain-stampede-26-09-30",
-    "name": "Wyoming Blockchain Stampede 2026",
-    "description": "Wyoming Blockchain Stampede 2026: blockchain and AI conference in Laramie, September 30, 2026.",
-    "startDate": "2026-09-30T15:00:00.000Z",
-    "endDate": "2026-09-30T23:00:00.000Z",
-    "city": "Laramie",
-    "country": "US",
-    "location": "Laramie, US",
-    "url": "https://luma.com/8vubx2wd",
-    "coverImage": "/events/w3v-wyoming-blockchain-stampede-26-09-30-4353b784.webp",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-JpRV2d4UKWoJDWD",
-    "name": "SuperteamBR: Meetup University",
-    "description": "",
-    "startDate": "2026-09-30T21:30:00.000Z",
-    "endDate": "2026-10-01T00:00:00.000Z",
-    "city": "Rio de Janeiro",
-    "country": "Brazil",
-    "location": "Rio de Janeiro, Brazil",
-    "url": "https://luma.com/gyphbsbo",
-    "coverImage": "/events/luma-host-evt-evt-jprv2d4ukwojdwd-f02e7ca9.webp",
-    "source": "luma-trusted",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-1IOJ9QDDxRscQva",
-    "name": "An Introduction to Blockchains with Tangem",
-    "description": "",
-    "startDate": "2026-09-30T21:45:00.000Z",
-    "endDate": "2026-09-30T22:45:00.000Z",
-    "city": "Boston",
-    "country": "United States",
-    "location": "Boston, United States",
-    "url": "https://lu.ma/agxiag3l",
-    "coverImage": "/events/luma-evt-1ioj9qddxrscqva-99a00a31.webp",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-gzayLEghrE7BFek",
-    "name": "Bitcoin Self Custody in the Age of AI w/ SeedSigner & HRF | PubKey NYC",
-    "description": "",
-    "startDate": "2026-09-30T22:00:00.000Z",
-    "endDate": "2026-10-01T00:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/pubkey-h7b7",
-    "coverImage": "/events/luma-evt-gzayleghre7bfek-1d321935.webp",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-ReT8uCxFLC8TcX5",
-    "name": "Best of NYC with Work-Bench: Forward Deployed Engineers!",
-    "description": "",
-    "startDate": "2026-09-30T22:00:00.000Z",
-    "endDate": "2026-10-01T01:00:00.000Z",
-    "city": "Brooklyn",
-    "country": "United States",
-    "location": "Brooklyn, United States",
-    "url": "https://lu.ma/bestofnyc03",
-    "coverImage": "/events/luma-evt-ret8ucxflc8tcx5-656a2f36.webp",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-ZFiii05ggYnABUd",
-    "name": "ATX DAO - Proof of Chill",
-    "description": "",
-    "startDate": "2026-09-30T23:30:00.000Z",
-    "endDate": "2026-10-01T01:30:00.000Z",
-    "city": "Austin",
-    "country": "United States",
-    "location": "Austin, United States",
-    "url": "https://lu.ma/x9gyyw9l",
-    "coverImage": "/events/luma-evt-zfiii05ggynabud-193e485e.webp",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
-    "id": "w3v-forum-one-meet-regulators-26-10-01",
-    "name": "Forum One: Meet Regulators",
-    "description": "Forum One: Meet Regulators: Invitation-only dinner on Korean virtual-asset regulation, stablecoins and banking partnerships.",
-    "startDate": "2026-09-30T23:30:00.000Z",
-    "endDate": "2026-10-01T01:30:00.000Z",
-    "city": "Global",
-    "country": "KR",
-    "location": "Global, KR",
-    "url": "https://luma.com/40pngz3o",
-    "coverImage": "/events/w3v-forum-one-meet-regulators-26-10-01-aed5b9f0.webp",
-    "month": "September 2026"
-  },
-  {
     "id": "w3v-seoul-creators-lunch-injective-26-10-01",
     "name": "Seoul Creators Lunch: Injective",
     "description": "Seoul Creators Lunch: Injective: invite-only lunch for Korean crypto creators and the Injective team during Korea Blockchain Week 2026.",
@@ -18647,7 +18489,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": "/events/ma-european-blockchain-convention-2027-638f6cd3.webp",
+    "coverImage": null,
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -26105,7 +25947,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/bouldernet-meetup/events/316912416/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316912416-ca1c1669.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -27510,7 +27352,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261030%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261030T193638Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=dee97fb7c74a3922ac6cd9e0f3d56e628f56de3ce6e6abb5a073eccc46d7c55d",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261031%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261031T033553Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=4ecfcd7a2a9bc443608421362874408fcf7599ed94c6339d15b1cecb7865c8f1",
     "month": "November 2026"
   },
   {
@@ -27930,7 +27772,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/comics-etcetera/events/317147004/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317147004-f32b033d.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -27972,7 +27814,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-denver/events/317156401/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317156401-27111040.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -28626,7 +28468,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/loajg3ik",
-    "coverImage": null,
+    "coverImage": "/events/luma-host-evt-evt-0iytxt7gbebn9da-519a0dae.webp",
     "month": "November 2026"
   },
   {
@@ -28864,10 +28706,7 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/317064975/",
     "coverImage": "/events/mu-317064975-0dc78544.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "luma-evt-1YkeGIX5PJN3Q9d",
@@ -29089,7 +28928,7 @@
     "country": "us",
     "location": "West Des Moines, us",
     "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/316987086/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316987086-847c035e.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -29298,7 +29137,7 @@
     "country": "United Kingdom",
     "location": "The Refinery, 110 Southwark Street, London, SE1 0TA, United Kingdom",
     "url": "https://www.eventbrite.co.uk/e/crypto-web3-blockchain-startups-investors-builders-networking-event-tickets-2003199972041",
-    "coverImage": null,
+    "coverImage": "/events/eb-2003199972041-795788cf.webp",
     "source": "curated-reviewed",
     "month": "November 2026",
     "timezone": "Europe/London",
@@ -29333,5 +29172,47 @@
     "hosts": [
       "The Business Minds"
     ]
+  },
+  {
+    "id": "luma-evt-ykpGvJMLZCTk2TP",
+    "name": "Stablecoin Sandwich Club: NYC",
+    "description": "",
+    "startDate": "2026-11-04T22:30:00.000Z",
+    "endDate": "2026-11-05T01:30:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/mtqnzcan",
+    "coverImage": "/events/luma-evt-ykpgvjmlzctk2tp-1ebf69f0.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-uwr8kFYfwz2pyVq",
+    "name": "The Pragmatic Engineer Unplugged, presented by WorkOS",
+    "description": "",
+    "startDate": "2026-11-05T01:00:00.000Z",
+    "endDate": "2026-11-05T03:30:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/pragmatic-engineer-unplugged",
+    "coverImage": "/events/luma-evt-uwr8kfyfwz2pyvq-25fbba80.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-0IYTXT7gbeBn9DA",
+    "name": "Build Across Chains: A Solana Builder Briefing, with NEAR Intents x Aurora Intents",
+    "description": "",
+    "startDate": "2026-11-14T15:00:00.000Z",
+    "endDate": "2026-11-14T17:30:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://luma.com/loajg3ik",
+    "coverImage": "/events/luma-host-evt-evt-0iytxt7gbebn9da-519a0dae.webp",
+    "source": "luma-trusted",
+    "month": "November 2026"
   }
 ]

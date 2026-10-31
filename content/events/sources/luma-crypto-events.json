@@ -40,62 +40,6 @@
     }
   },
   {
-    "id": "luma-crypto-bjFFo8TJeoWZLmW",
-    "slug": "pahfdrs4",
-    "name": "Physical AI Hardware Founder Dinner with Rho @ Studio 45",
-    "description": "We run large monthly events, and people are asking for smaller, more intimate gatherings to connect further.\n\nWe have 30 spots, 3 courses, a great venue, and a curated experience.\n\n[Thank you to our co-hosts Rho](https://www.rho.co/), a business banking platform, purpose-built for startups. More below.\n\n## This is for any hardware founder, engineer, investor.\n\n• All stages of startups and companies welcome.\n\n## Agenda\n\n6:30-7:00 - Arrival, mingle, grab refreshments\n7:00-8:15 - Dinner + Discuss\n8:15-8:30 - Asks + Offers\n\n## What to expect\n\n• 3x courses\n• 1x mixed drink with extra options\n• 2hrs to connect over dinner discussion\n• All emails + intros will be sent after the event for further connection\n\nWe have 30 spots, 3 courses, a great venue, and a curated experience.\n\n## This is for founders, investors, and builders in climate.\n\n• All stages of startups and companies welcome.\n\n## Agenda\n\n6:30-7:00 - Arrival, mingle, grab refreshments\n7:00-8:15 - Dinner + Discuss\n8:15-8:30 - Asks + Offers\n\n## What to expect\n\n• 3x courses, family style meal\n• 1x mixed drink with extra options\n• 2hrs to connect over dinner discussion\n• All emails + intros will be sent after the event for further connection\n\n## Thank you to our co-hosts!\n\nOur dinners are usually $50 a person, thank you to Rho for helping make the ticket 50% off!\n\n[Rho](https://www.rho.co/) is a business banking platform, purpose-built for startups. Manage cash, keep burn in check, and automate finance busywork that distracts founders from building products customers want.\n\nStudio 45 (mission) (https://www.workatthestudio.com/) is a space dedicated to supporting local entrepreneurs and teams building hardware. Located in Mission/Bernal Area, the studio gathers the community, resources, space, and tools needed to build a business making physical products.\n\nIf you want to help host a future SF Hardware Dinner, reach out to us at michael (at) hardwaremeetup (dot) com.\n\nHardware Meetup is a volunteer organization and relies on sponsorships to cover the costs of putting on these events.\n\nWe share the RSVP list with sponsors who support 3 or more events. By RSVPing to this event you consent to us sharing your email address and other registration information with our sponsors.",
-    "startDate": "2026-10-01T01:30:00.000Z",
-    "endDate": "2026-10-01T03:30:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "San Francisco, United States",
-    "url": "https://luma.com/ysnawrb2",
-    "registrationUrl": "https://luma.com/ysnawrb2",
-    "coverImage": "/events/luma-crypto-bjffo8tjeowzlmw-b87bc772.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Michael Raspuzzi",
-      "Nate Padgett",
-      "Tarlon Khoubyari",
-      "Francesca Malayeri"
-    ],
-    "price": "USD 25",
-    "approvalRequired": true,
-    "timezone": "America/Los_Angeles",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "SF Hardware Meetup",
-      "url": "https://luma.com/sf-hardware-meetup"
-    },
-    "ticketOffers": [
-      {
-        "name": "Early Bird (20% off)",
-        "url": "https://luma.com/ysnawrb2",
-        "price": 25,
-        "priceCurrency": "USD",
-        "availability": "InStock"
-      },
-      {
-        "name": "Main Dinner Ticket",
-        "url": "https://luma.com/ysnawrb2",
-        "price": 29,
-        "priceCurrency": "USD",
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/ysnawrb2",
-      "eventId": "evt-bjFFo8TJeoWZLmW",
-      "fetchedAt": "2026-09-19T23:46:14.418Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-uhw289wfAXAVAdO",
     "slug": "2ctufd",
     "name": "2867 Club - top UIUC Founders Dinner (SF)",

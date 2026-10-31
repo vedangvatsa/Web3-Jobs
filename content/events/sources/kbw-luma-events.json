@@ -202,50 +202,6 @@
     }
   },
   {
-    "id": "kbw-official-amigoo-ventures-coffee-capita-10-01",
-    "name": "Amigoo Ventures Coffee & Capital (SEOUL)",
-    "description": "Coffee & Capital by Amigoo Ventures is a carefully curated, small‑pax, private meetup connecting institutional decision‑makers across crypto’s secondary and yield markets.\n\nWe bring together capital allocators, fund managers, project founders, liquidity providers, yield managers, structured product teams, lenders, borrowers, and OTC brokers for focused networking, off‑market dealmaking, and institutional yield strategies.\n\n## Who This Event Is For ✅\n\nCapital Allocators & Funds\nVCs, hedge funds, family offices, and liquid credit desks seeking off‑market secondary allocations and structured yield.\n\nProjects & Treasuries\nListed token projects, foundations, and core teams looking to unlock duration‑managed liquidity for locked or pre‑vesting tokens.\n\nYield & Liquidity Providers\nYield managers, structured yield product issuers, lenders, borrowers, principal trading desks scaling on‑chain yield and secondary flow.\n\nWho This Event Is Not For ❌\n\nTo maintain focus and direct deal value, registration is strictly closed to:\n\n• - Pre‑TGE projects seeking grant or venture funding\n• - Centralized exchanges (CEXs)\n• - Marketing agencies, dev shops, and other third‑party service providers\n\nEvent location details will be shared only with approved applicants after ticket confirmation.\n\n## About Amigoo Ventures\n\nAmigoo Ventures is an institutional liquidity firm and a leader in secondary and OTC private markets for both locked and liquid tokens. With over $31M in assessed dealflow and a deep network of funds, projects, and liquidity providers, we work with buyers and sellers to unlock rare, off‑market opportunities, curating and facilitating exclusive OTC trades across private and liquid token markets.\n\nConnect with us: Website ( (https://amigoo.xyz)[Amigoo.xyz](https://Amigoo.xyz)) (https://amigoo.xyz) | X (Twitter) (https://x.com/Teamamigoo) | [LinkedIn](https://www.linkedin.com/company/amigoo-go)",
-    "startDate": "2026-10-01T01:00:00.000Z",
-    "endDate": "2026-10-01T03:00:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "Seoul, South Korea",
-    "category": "Networking Event",
-    "sideEventFor": [
-      "kbw"
-    ],
-    "url": "https://luma.com/faufjh92",
-    "coverImage": "/events/kbw-official-amigoo-ventures-coffee-capita-10-01-c3bf8d9a.webp",
-    "source": "kbw-official",
-    "hosts": [
-      "Amigoo Ventures"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Seoul",
-    "slug": "avcc",
-    "registrationUrl": "https://luma.com/faufjh92",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/faufjh92",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/faufjh92",
-      "eventId": "evt-v4J85oRtZc71WYX",
-      "fetchedAt": "2026-09-19T23:30:02.420Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "kbw-official-realfi-x-asia-stablecoin-conference-10-01",
     "name": "RealFi x Asia Stablecoin Conference",
     "description": "Title Sponsor: Top Node, S&P Global\n\nCo-Hosts: Pharos Network, Four Pillars, LayerZero\n\nOrganizer: Asia Stablecoin Alliance, The Capital Summit\n\n## Understand the Diverse Asia\n\nAsia is not a single market.\n\nKorea, Japan, Hong Kong, Singapore, Southeast Asia, the UAE, and other markets are each developing their own approach to stablecoins, tokenization, digital money, and financial infrastructure. These approaches are shaped by different regulations, institutions, currencies, payment needs, and capital market structures.\n\nThat’s why ASA Conference 2026 is returning to Seoul on October 1, 2026 to bring these conversations into one dedicated forum!\n\nIn 2025, ASA Conference brought together 700+ builders, issuers, institutions, infrastructure providers, researchers, and policymakers in Seoul. Across 17 sessions, teams including LayerZero, Ethena, Wyoming Stable Token, Canton, Securitize, and Plume explored how Asian stablecoins could move from concept to adoption.\n\nThis year’s conference goes deeper by moving from the big picture to the market level. ASA Conference 2026 will look at each market on its own terms, examining the issuers, distributors, institutions, use cases, and infrastructure shaping how new forms of money move across Asia.\n\nThe program will explore key topics including:\n\n• Stablecoin issuance and distribution\n• Local currency stablecoins\n• Tokenized deposits and CBDCs\n• Tokenization and real-world assets\n• Cross-border payments and settlement\n• Institutional adoption\n• Regulation, compliance, and market infrastructure\n• The role of banks, fintechs, payment firms, asset managers, issuers, and policymakers in shaping Asia’s digital money future\n\nIf you are building, investing, regulating, researching, or operating in stablecoins, tokenization, payments, or digital financial infrastructure across Asia, ASA Conference 2026 is designed for you.\n\nJoin us in Seoul on October 1, 2026.\n\nUnderstand the Diverse Asia.\n\n## About The Capital Summit\n\nThe Capital Summit is a curated institutional forum focused on how capital markets move onchain. It brings together investors, asset managers, banks, family offices, and infrastructure builders working at the intersection of traditional finance and digital assets.\n\nThe summit exists to connect institutional capital with the people building onchain financial infrastructure — not as a trade show, but as a focused forum where allocators, operators, and builders meet across Asia and beyond.\n\n[Website](https://thecapitalsummit.ai/) | [X](https://x.com/CapSummitGlobal) | [LinkedIn](https://www.linkedin.com/company/the-capital-summit) | [YouTube](https://www.youtube.com/@The_Capital_Summit)\n\n## About Asia Stablecoin Alliance\n\nThe Asia Stablecoin Alliance (ASA) is an initiative to accelerate stablecoin adoption across Asia. ASA connects builders, institutions, regulators, researchers, and ecosystem participants working on stablecoin infrastructure, compliance, distribution, and real-world use cases.\n\nThe alliance exists to give Asia its own voice, perspective, and coordination in stablecoin innovation. It is not a top down authority, but a network of people working together to move the ecosystem forward.\n\n[Website](https://asiastable.org/) | [X](https://x.com/AsiaStablecoin) | [Substack](https://asiastablecoin.substack.com/)\n\n[Get in touch](https://t.me/heechang_fp)",
