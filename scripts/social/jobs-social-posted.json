@@ -81114,7 +81114,8 @@
       },
       "account": "channel:build",
       "attemptId": "e9569a7e-4106-4a02-a271-70ecfcb10681",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x59ae09be8462e0d9c7bad655092a5f51ee997a12"
     }
   ]
 }
