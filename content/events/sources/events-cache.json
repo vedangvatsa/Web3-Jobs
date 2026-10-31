@@ -12186,86 +12186,6 @@
     "month": "September 2026"
   },
   {
-    "id": "w3v-best-event-payments-table-26-10-01",
-    "name": "The Best Event: The Payments Table",
-    "description": "The Best Event: The Payments Table: A Seoul meetup on payments, stablecoins and cross-border transactions.",
-    "startDate": "2026-10-01T09:00:00.000Z",
-    "endDate": "2026-10-01T12:00:00.000Z",
-    "city": "Global",
-    "country": "KR",
-    "location": "Global, KR",
-    "url": "https://luma.com/TBE-PaymentsTable",
-    "coverImage": "/events/w3v-best-event-payments-table-26-10-01-83ede956.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-kbw-arcus-trader-evening-26-10-01",
-    "name": "KBW 2026: Arcus Trader Evening",
-    "description": "KBW 2026: Arcus Trader Evening: An in-person gathering for traders and industry leaders during Korea Blockchain Week.",
-    "startDate": "2026-10-01T09:00:00.000Z",
-    "endDate": "2026-10-01T15:00:00.000Z",
-    "city": "Global",
-    "country": "KR",
-    "location": "Global, KR",
-    "url": "https://luma.com/puo2cn10",
-    "coverImage": "/events/w3v-kbw-arcus-trader-evening-26-10-01-e3d44ea0.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-lights-out-private-hours-26-10-01",
-    "name": "Lights Out. Private After Hours",
-    "description": "Lights Out. Private After Hours: An invite-only Seoul gathering for crypto, DeFi and venture capital participants.",
-    "startDate": "2026-10-01T10:00:00.000Z",
-    "endDate": "2026-10-01T14:00:00.000Z",
-    "city": "Global",
-    "country": "KR",
-    "location": "Global, KR",
-    "url": "https://luma.com/k1k0ccre",
-    "coverImage": "/events/w3v-lights-out-private-hours-26-10-01-4d471bc9.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-shinhan-harvest-new-rails-26-10-01",
-    "name": "[Shinhan] HARVEST:New Rails",
-    "description": "[Shinhan] HARVEST:New Rails: Seoul networking event on digital assets, tokenization, policy and compliance.",
-    "startDate": "2026-10-01T10:00:00.000Z",
-    "endDate": "2026-10-01T13:00:00.000Z",
-    "city": "Global",
-    "country": "KR",
-    "location": "Global, KR",
-    "url": "https://luma.com/2b8a36t4",
-    "coverImage": "/events/w3v-shinhan-harvest-new-rails-26-10-01-f87110cd.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-BUcYo9ZCtZ3JerA",
-    "name": "Flight3 x Superteam UK: Design & Presence: Look Like You Belong",
-    "description": "",
-    "startDate": "2026-10-01T12:00:00.000Z",
-    "endDate": "2026-10-01T14:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://luma.com/wqvdsw6h",
-    "coverImage": "/events/luma-host-evt-evt-bucyo9zctz3jera-ae490941.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-Q2frCvTrTotKoBS",
-    "name": "Crain's NY Business Wall Street Meets Blockchain: The Future of Digital Asset Infrastructure",
-    "description": "",
-    "startDate": "2026-10-01T13:00:00.000Z",
-    "endDate": "2026-10-01T15:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/7y2uqnix",
-    "coverImage": "/events/luma-evt-q2frcvtrtotkobs-2e690cbd.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-host-evt-evt-vZ1HR9Rka8ch50U",
     "name": "Superteam Canada Community Call",
     "description": "A 30-minute Google Meet call about Solana and Superteam Canada, hosted by Simon. Participants can ask questions and learn how to get involved in the community.",
@@ -14015,10 +13935,7 @@
     "url": "https://www.meetup.com/lfdt-washington-dc/events/316485538/",
     "coverImage": "/events/mu-316485538-7d389913.webp",
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Hendrik Ebbers"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "luma-host-evt-evt-wca6MOhUjdjAydZ",
@@ -27131,7 +27048,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261031%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261031T113617Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=013259afde125a95919d62a4dbdd6705b89899b7798532791e1f38583e774b6d",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261031%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261031T193617Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=14eb3dd1a06fbdae0def6d336b60fddf1b5f84409322e317b530dc136d867853",
     "month": "November 2026"
   },
   {
@@ -28485,7 +28402,10 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/317064975/",
     "coverImage": "/events/mu-317064975-0dc78544.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-evt-1YkeGIX5PJN3Q9d",
@@ -29034,6 +28954,61 @@
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/317065021/",
     "coverImage": null,
     "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-K5mpQKsNcBa8gWI",
+    "name": "Pause AI! | Für eine menschliche Zukunft ~ For a human future | Protest",
+    "description": "",
+    "startDate": "2026-11-01T13:00:00.000Z",
+    "endDate": "2026-11-01T15:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/ncr5ylrh",
+    "coverImage": "/events/luma-evt-k5mpqksncba8gwi-c8e3edd3.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-ECRfRJxALka4sYB",
+    "name": "Films for Foodies - Spotlight on Mexico 🇲🇽 Día de los Muertos Edition - Sneak Screening + Community Dinner",
+    "description": "",
+    "startDate": "2026-11-01T14:00:00.000Z",
+    "endDate": "2026-11-01T18:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/jz7rj3hz",
+    "coverImage": "/events/luma-evt-ecrfrjxalka4syb-dd30aa30.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-7XgEI9aRe5AG5Up",
+    "name": "Maker Basics: Soldering & Electronics",
+    "description": "",
+    "startDate": "2026-11-02T15:00:00.000Z",
+    "endDate": "2026-11-02T17:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/gbipnh0h",
+    "coverImage": "/events/luma-evt-7xgei9are5ag5up-e44a1b93.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-buzoku-ai-crypto-meetup-15-1793457801872",
+    "name": "BUZOKU | AI & Crypto Meetup",
+    "description": "BUZOKU: a bi-monthly Barcelona meetup for builders, founders and investors working across Web3, AI, crypto and digital systems.",
+    "startDate": "2026-11-04T18:30:00.000Z",
+    "endDate": "2026-11-18T20:00:00.000Z",
+    "city": "Barcelona",
+    "country": "ES",
+    "location": "Barcelona, ES",
+    "url": "https://luma.com/v27ik7m7",
+    "coverImage": null,
     "month": "November 2026"
   }
 ]

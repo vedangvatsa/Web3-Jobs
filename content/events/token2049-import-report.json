@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-31T11:32:52.921Z",
+  "checkedAt": "2026-10-31T19:32:54.067Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -10,11 +10,11 @@
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 236,
-    "excluded": 370,
+    "existing": 233,
+    "excluded": 372,
     "needs-review": 39
   },
-  "importedTotal": 253,
+  "importedTotal": 250,
   "added": [],
   "receipts": [
     {
@@ -2330,24 +2330,6 @@
       "slug": "michelininvest-dinner"
     },
     {
-      "url": "https://luma.com/luhstckd",
-      "name": "GPs × LPs Pickleball | By Invitation · SuperReturn Singapore 2026",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "gps-lps"
-    },
-    {
-      "url": "https://luma.com/rz5lut2r",
-      "name": "Get Down For Real",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "get-down"
-    },
-    {
       "url": "https://luma.com/fumtr19i",
       "name": "Founders & Funds, Paddle Cup",
       "sources": [
@@ -2463,15 +2445,6 @@
       ],
       "status": "existing",
       "slug": "private-trading"
-    },
-    {
-      "url": "https://informaconnect.com/superreturnasia",
-      "name": "SuperReturn Asia",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "superreturn-asia"
     },
     {
       "url": "https://www.hyperliquidforum.com",
@@ -6268,6 +6241,24 @@
       "name": "1 Oct: A Programmable Economy at the Speed of AI with Vitalik Buterin",
       "sources": [
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
+      "url": "https://luma.com/luhstckd",
+      "name": "GPs × LPs Pickleball | By Invitation · SuperReturn Singapore 2026",
+      "sources": [
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
+      "url": "https://luma.com/rz5lut2r",
+      "name": "Get Down For Real",
+      "sources": [
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"

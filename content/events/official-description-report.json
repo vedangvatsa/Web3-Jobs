@@ -35,21 +35,6 @@
       "preview": "The Bridge Between TradFi & Digital Assets. The Institutional Summit for Digital Assets. Paris, July 6-7, 2027."
     },
     {
-      "id": "premier-kbw-2026",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://koreablockchainweek.com/",
-        "fetchedAt": "2026-09-20T00:20:07.364Z",
-        "method": "official-section",
-        "pageTitle": "KBW2026 | Asia's Premier Crypto Event (Sep. 29 - Oct 1, Seoul)",
-        "sha256": "74cd90b63e96e8a8974b1cc3a25f4df6bf35d745f93c4cce8c723932aec410d2"
-      },
-      "previousStartDate": "2026-09-29T09:00:00.000Z",
-      "characters": 7239,
-      "preview": "## Asia’s Premier Crypto Event\n\nJoin the global industry leaders in Seoul for KBW2026. This is where the next cycle begins, and where the world’s most influential founders and institutions congregate.\n\n## Explore the Week at KBW2026\n\nDiscover the conference agenda and side events happening across Seoul during Korea Blockchain Week.\n\n## Agenda\n\nThe KBW2026 agenda features three days of conversations shaping the future of Web3. From keynote presentations to in-depth panel discussions, the program brings together global founders, investors and builders across multiple stages.\n\n## Events\n\nKBW2026 events extend the opportunity to connect far beyond the main conference. Institutions, investors, founders and policymakers gather throughout the week for conversations shaping the future of Web3.\n\n##"
-    },
-    {
       "id": "premier-token2049-singapore-2026",
       "file": "curated-events.json",
       "status": "source-backed",
