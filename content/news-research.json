@@ -114035,7 +114035,23 @@
       "firstSeenAt": "2026-10-31T03:31:46.182Z",
       "attempts": 0,
       "expiresAt": "2026-11-02T14:54:39.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "articleSlug": "tengreport",
+      "draftProgress": {
+        "id": "704545a628f5ee66c298",
+        "day": "2026-10-31",
+        "articleSlug": "tengreport",
+        "note": "Defiant article returned HTTP 403 via WebFetch and curl with the readiness User-Agent. Search surfaced TokenPost 44892 (Teng targets Nov 1 withdrawal restart, Nov 2 reserve report) and a CoinDesk tech piece of Oct. 30 covering the same Teng video; neither has been opened yet. Review not finished; leave pending for the next batch to read those two URLs and decide.",
+        "sourceChecks": [
+          {
+            "url": "https://thedefiant.io/news/hacks/binance-s-teng-sets-monday-reserve-report-deadline-as-withdrawals-stay-paused",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-10-31T04:01:27.714Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "0c372b539fba35d1e876": {
       "source": "Bitcoin Magazine",
