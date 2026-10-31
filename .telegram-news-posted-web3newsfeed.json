@@ -890,6 +890,9 @@
   "https://hashtagweb3.com/selig?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/coindcxfutures?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/spacexstake?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/bcatax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/sophon?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/mtgoxdelay?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2570,6 +2573,12 @@
   "CoinDCX Puts Futures Into Reduce-Only Mode After Binance Disruption",
   "CZ states Binance holds $1 billion in SpaceX shares",
   "CZ cites billion-dollar SpaceX stake in reply to Musk after Binance hack",
+  "Blockchain Association asks Congress for bipartisan crypto tax laws",
+  "Blockchain Association asks Congress for digital asset tax legislation",
+  "Sophon sets November 25 deadline for asset withdrawals",
+  "Sophon sets Nov. 25 withdrawal deadline before mainnet shutdown",
+  "Mt. Gox delays creditor repayments until October 2027",
+  "Mt. Gox extends creditor repayment deadline to October 2027",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2989,5 +2998,8 @@
   "fp:account|adopts10|approv|declaration|fee|futur|gain|in2027|introduc|investment",
   "fp:agent|are|automat|autonomous|cftc|debat|developer|discuss|forum|frontier",
   "fp:binanc|coindcx|disruption|exchang|four|futur|incident|market|mod|most",
-  "fp:63b|accord|annual|binanc|cit|cover|dollar|founder|hack|loss"
+  "fp:63b|accord|annual|binanc|cit|cover|dollar|founder|hack|loss",
+  "fp:ask|asset|association|bill|bipartisan|blockchain|congress|current|digital|endors",
+  "fp:asset|clos|deadlin|down|infrastructur|mainnet|network|nov25|november25|november30",
+  "fp:creditor|deadlin|delay|distribution|exchang|extend|extension|fourth|gox|mark"
 ]
