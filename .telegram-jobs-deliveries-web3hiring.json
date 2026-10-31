@@ -11507,5 +11507,121 @@
     "slotKey": "2026-10-31:afternoon",
     "messageId": 158,
     "sentAt": "2026-10-31T11:33:30.978Z"
+  },
+  "49a63dde-e4d1-4bc5-9d97-6f1af817843e": {
+    "status": "reserved",
+    "reservedAt": "2026-10-31T19:32:55.962Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8821330002",
+          "title": "Customer Success Associate",
+          "company": "Figure",
+          "link": "https://job-boards.greenhouse.io/figure/jobs/8821330002",
+          "date": "2026-10-13T14:31:23-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Figure [figure]",
+          "location": "Charlotte, NC",
+          "department": "Customer Support Center",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso58"
+        },
+        "key": "8821330002",
+        "slug": "aso58",
+        "url": "https://hashtagweb3.com/aso58?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Figure",
+        "title": "Customer Success Associate"
+      },
+      {
+        "snapshot": {
+          "id": "8034511003",
+          "title": "Security & Threat Operations Manager",
+          "company": "DriveWealth",
+          "link": "https://boards.greenhouse.io/drivewealth/jobs/8034511003?gh_jid=8034511003",
+          "date": "2026-10-15T09:58:50-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DriveWealth [drivewealth]",
+          "location": "Remote (US); Austin, TX; Dallas, TX; Denver, CO; Miami, FL; San Francisco, CA; Seattle, WA",
+          "department": "Risk & Compliance",
+          "active": true,
+          "salary": "$200k – $250k/yr",
+          "dateVerified": true,
+          "slug": "sec116"
+        },
+        "key": "8034511003",
+        "slug": "sec116",
+        "url": "https://hashtagweb3.com/sec116?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DriveWealth",
+        "title": "Security & Threat Operations Manager"
+      },
+      {
+        "snapshot": {
+          "id": "5e150bc1-bf8f-485c-861a-a2abc6c81f39",
+          "title": "Head of Business Risk & Controls",
+          "company": "MoonPay",
+          "link": "https://jobs.lever.co/moonpay/5e150bc1-bf8f-485c-861a-a2abc6c81f39",
+          "date": "2026-10-12T16:51:28.949Z",
+          "source": "Lever: MoonPay [moonpay]",
+          "location": "United States - Remote",
+          "workplaceType": "remote",
+          "department": "Executive Office",
+          "active": true,
+          "dateVerified": true,
+          "slug": "brc"
+        },
+        "key": "5e150bc1-bf8f-485c-861a-a2abc6c81f39",
+        "slug": "brc",
+        "url": "https://hashtagweb3.com/brc?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "MoonPay",
+        "title": "Head of Business Risk & Controls"
+      },
+      {
+        "snapshot": {
+          "id": "8868904002",
+          "title": "Talent Development, Infrastructure and Operations Specialist",
+          "company": "Jane Street",
+          "link": "https://www.janestreet.com/join-jane-street/apply/8868904002?gh_jid=8868904002",
+          "date": "2026-10-07T17:42:05-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Jane Street [janestreet]",
+          "location": "New York, NY",
+          "department": "Human Resources",
+          "active": true,
+          "dateVerified": true,
+          "slug": "infra34"
+        },
+        "key": "8868904002",
+        "slug": "infra34",
+        "url": "https://hashtagweb3.com/infra34?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Jane Street",
+        "title": "Talent Development"
+      },
+      {
+        "snapshot": {
+          "id": "bca25725-dbdf-4786-9af9-aa793766d2b5",
+          "title": "Senior Software Engineer, Data Services",
+          "company": "Alchemy",
+          "link": "https://jobs.ashbyhq.com/alchemy/bca25725-dbdf-4786-9af9-aa793766d2b5",
+          "date": "2026-10-13T16:25:05.228+00:00",
+          "source": "Ashby: Alchemy [alchemy]",
+          "location": "Hybrid (San Francisco)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng587"
+        },
+        "key": "bca25725-dbdf-4786-9af9-aa793766d2b5",
+        "slug": "eng587",
+        "url": "https://hashtagweb3.com/eng587?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alchemy",
+        "title": "Senior Software Engineer"
+      }
+    ],
+    "message": "- Figure is hiring <a href=\"https://hashtagweb3.com/aso58?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Success Associate</a>\n- DriveWealth is hiring <a href=\"https://hashtagweb3.com/sec116?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Security &amp; Threat Operations Manager</a>\n- MoonPay is hiring <a href=\"https://hashtagweb3.com/brc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Business Risk &amp; Controls</a>\n- Jane Street is hiring <a href=\"https://hashtagweb3.com/infra34?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Talent Development, Infrastructure and Operations Specialist</a>\n- Alchemy is hiring <a href=\"https://hashtagweb3.com/eng587?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer, Data Services</a>",
+    "slotKey": "2026-10-31:evening"
   }
 }
