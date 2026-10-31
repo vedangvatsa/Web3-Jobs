@@ -2714,5 +2714,36 @@
     "slotKey": "2026-10-31:afternoon",
     "messageId": 156024,
     "sentAt": "2026-10-31T11:36:21.032Z"
+  },
+  "935e69fd-7d4a-4868-a1ec-1a5a8543a2a4": {
+    "status": "reserved",
+    "reservedAt": "2026-10-31T19:34:35.015Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "CoinDCX Restricts Futures Trading After Binance Disruption",
+        "summary": "Most restricted futures markets reopened the same day, while four token pairs remained limited.",
+        "link": "https://hashtagweb3.com/coindcxfutures?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CoinDCX Puts Futures Into Reduce-Only Mode After Binance Disruption"
+      },
+      {
+        "index": -1,
+        "headline": "Bybit obtains Dubai VARA license for spot trading",
+        "summary": "The exchange must complete the regulator's launch process before starting customer operations.",
+        "link": "https://hashtagweb3.com/bybitvara?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bybit secures full VARA license for spot trading in Dubai"
+      },
+      {
+        "index": -1,
+        "headline": "France schedules budget vote after passing stablecoin tax amendment",
+        "summary": "French lawmakers narrowly approved taxing crypto-to-stablecoin swaps, with the final decision scheduled for November 3.",
+        "link": "https://hashtagweb3.com/francevote?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "France sets Nov. 3 budget vote after one-vote stablecoin tax win"
+      }
+    ],
+    "slotKey": "2026-10-31:evening"
   }
 }
