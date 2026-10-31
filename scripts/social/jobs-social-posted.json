@@ -80898,7 +80898,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "a88c6126-535f-4f5e-9a0c-b9389b6286cf",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4a6fef220b403e334d4b42cb84b7a6d60a10fbe3"
     }
   ]
 }
