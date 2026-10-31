@@ -81567,7 +81567,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "9a6b1e33-a954-4a7e-88a1-39523ba4ebfa",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7522140390863519744"
     }
   ]
 }
