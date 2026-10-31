@@ -81330,7 +81330,8 @@
       },
       "account": "channel:ai",
       "attemptId": "235df491-c648-4c77-b7d8-08688e1c4105",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x462575ed539fe14a31f0be7cc3afd452d1ffcea5"
     }
   ]
 }
