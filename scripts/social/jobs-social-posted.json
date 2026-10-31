@@ -80569,6 +80569,47 @@
       "attemptId": "6a4e0038-f302-4a98-89c9-1cb63f8d31be",
       "verification": "verified",
       "postId": "0xfef30356a75f158d0bde489e34a7a984141ad02e"
+    },
+    {
+      "slug": "ds17",
+      "company": "Elliptic",
+      "title": "Data Science Lead",
+      "platform": "linkedin",
+      "postedAt": "2026-10-31T03:33:01.878Z",
+      "expectedText": "Elliptic is hiring Data Science Lead: https://hashtagweb3.com/ds17/li?og=7",
+      "snapshot": {
+        "id": "4e5149ef-0e8f-462f-985e-ddc50e68a489",
+        "title": "Data Science Lead",
+        "company": "Elliptic",
+        "link": "https://jobs.ashbyhq.com/Elliptic/4e5149ef-0e8f-462f-985e-ddc50e68a489",
+        "date": "2026-10-08T08:40:02.634+00:00",
+        "source": "Ashby: Elliptic [Elliptic]",
+        "location": "Hybrid (London, United Kingdom)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Intelligence",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ds17"
+      },
+      "payload": {
+        "text": "Elliptic is hiring Data Science Lead: https://hashtagweb3.com/ds17/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ds17/li?og=7",
+          "title": "Data Science Lead at Elliptic",
+          "description": "Join Elliptic as Data Science Lead. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ds17.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "48015557-36da-473c-b4c4-da66801b1e8c",
+      "verification": "creating"
     }
   ]
 }
