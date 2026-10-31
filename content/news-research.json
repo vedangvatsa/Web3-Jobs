@@ -105037,9 +105037,9 @@
       "articleSlug": "bessent",
       "draftProgress": {
         "id": "5b7a8eed12aafa62d842",
-        "day": "2026-10-30",
+        "day": "2026-10-31",
         "articleSlug": "bessent",
-        "note": "Read Bitcoin Magazine and Bitcoin.com News on Bessent Oct. 27 Swell remarks: Treasury to work with SEC and CFTC after Clarity Act 49-50 Senate failure; no formal plan or timeline set out; stablecoin dollar share above 90 percent per his remarks. Draft not started before deadline.",
+        "note": "Re-read Bitcoin Magazine and Bitcoin.com News; facts confirmed for Oct. 27 Swell remarks. Drafting now.",
         "sourceChecks": [
           {
             "url": "https://bitcoinmagazine.com/news/treasury-says-win-in-the-digital-asset",
@@ -105050,7 +105050,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-10-30T11:04:06.234Z",
+        "updatedAt": "2026-10-31T04:16:20.453Z",
         "approved": false,
         "mustReview": true
       }
