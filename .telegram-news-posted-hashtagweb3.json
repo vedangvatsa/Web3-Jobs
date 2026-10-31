@@ -851,6 +851,9 @@
   "https://hashtagweb3.com/zcgstream?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/duffyperps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/regcrypto?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/selig?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/spacexstake?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/comer?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2459,6 +2462,12 @@
   "CME's Duffy calls perp funding a swap as CFTC lawsuit heads to full briefing",
   "SEC Crypto Regulation Comment Period Ends",
   "SEC comment window closes on Reg Crypto with submissions still arriving",
+  "CFTC Panel Discusses Liability for Illegal AI Trading",
+  "CFTC Frontier Forum presses who is liable when AI agents trade",
+  "Binance Cites $1 Billion SpaceX Stake After Exchange Hack",
+  "CZ cites billion-dollar SpaceX stake in reply to Musk after Binance hack",
+  "House Oversight Panel Investigates Delaware AI Corporate Plan",
+  "House Oversight Chair Opens Investigation of Delaware Plan for AI-Run Companies",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2860,5 +2869,8 @@
   "fp:and22|appli|bank|binanc|brazil|brazilian|central|cut|effect|eight",
   "fp:125m|block|bow|cit|community|end|founder|fund|grant|mechanism",
   "fp:are|brief|call|ceo|cftc|cme|delay|disput|duffy|full",
-  "fp:accept|agency|arriv|clos|comment|continu|deadlin|despit|end|feedback"
+  "fp:accept|agency|arriv|clos|comment|continu|deadlin|despit|end|feedback",
+  "fp:agent|are|autonomous|break|cftc|debat|developer|discuss|forum|frontier",
+  "fp:63b|annual|binanc|cit|cover|dollar|exchang|hack|loss|musk",
+  "fp:chair|comer|concern|corporat|delawar|document|firm|framework|hous|investigat"
 ]
