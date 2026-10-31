@@ -108775,11 +108775,11 @@
       "id": "a084f31192741f001eff",
       "status": "deferred",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-02T00:17:10.000Z",
       "lastSeenAt": "2026-10-30T10:25:44.767Z",
       "reason": "source-blocked",
-      "note": "WebFetch and curl with the readiness User-Agent both hit HTTP 429 then a Vercel security checkpoint on the CoinDesk article; no article text was obtained. CNBC's readable Oct. 30 report covers the broader $6.3B hack (TRM Labs attribution, ~$3B frozen, SAFU ~$1.2B) but not the proof-of-reserves wallet analysis unique to this candidate. No independent outlet was found restating the 204,500 ETH / 94% ether-backing figures from a source other than CoinDesk.",
+      "note": "Retried CoinDesk with the readiness User-Agent on Oct. 31; the proof-of-reserves article still returns HTTP 429. CNBC's Oct. 30 hack coverage was re-read but covers the broader hack and frozen-asset recovery, not the drained reserve-wallet analysis unique to this candidate. No independent outlet found restating the reserve-wallet shortfall figures beyond CoinDesk.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
@@ -108790,12 +108790,12 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-30T10:37:40.390Z",
+      "reviewedAt": "2026-10-31T03:47:14.952Z",
       "retrySearches": [
         "Find a readable independent report on Binance's Oct. 1 proof-of-reserves wallets being drained in the Oct. 29 hack, with the ETH backing shortfall, beyond CoinDesk"
       ],
-      "lastReviewedDay": "2026-10-30",
-      "nextReviewDate": "2026-10-31"
+      "lastReviewedDay": "2026-10-31",
+      "nextReviewDate": "2026-11-01"
     },
     "816922470b6340d4dcfa": {
       "source": "CoinDesk",
@@ -108814,23 +108814,23 @@
       "id": "816922470b6340d4dcfa",
       "status": "deferred",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-01T14:15:46.000Z",
       "lastSeenAt": "2026-10-30T10:25:44.767Z",
       "reason": "source-blocked",
-      "note": "CoinDesk's Oct. 29 story on SIX confirming overseas bank and broker access to the BBIT ETF returned HTTP 429 and a Vercel checkpoint to both WebFetch and curl. Other coverage found (KuCoin, Gate, spendnode) explicitly restates CoinDesk rather than reporting independently; swissinfo and FINMA cover the Oct. 20 approval already handled by content/articles/swissetf.md. Holding for a readable copy of the CoinDesk text or independent reporting on the international-access detail.",
+      "note": "Retried the CoinDesk Oct. 29 story on SIX confirming overseas bank and broker access to the BBIT spot bitcoin ETF with the readiness User-Agent; it still returns HTTP 429. Prior search found only outlets restating CoinDesk or covering the already-published Oct. 20 approval (content/articles/swissetf.md).",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-30T10:37:40.390Z",
+      "reviewedAt": "2026-10-31T03:47:14.952Z",
       "retrySearches": [
         "Find independent readable coverage of SIX Swiss Exchange confirming overseas banks and brokers can access the BBIT spot bitcoin ETF, or a non-CoinDesk source for the international-access detail"
       ],
-      "lastReviewedDay": "2026-10-30",
-      "nextReviewDate": "2026-10-31"
+      "lastReviewedDay": "2026-10-31",
+      "nextReviewDate": "2026-11-01"
     },
     "02b6805e12a005dbd6a0": {
       "source": "Cointelegraph",
@@ -113823,11 +113823,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "b3b596fab6fff05dacfb",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-31T03:31:46.182Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T11:35:16.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "source-blocked",
+      "note": "Retried the CoinDesk Oct. 30 tech story on the Ethereum EIP-7702 permission used to drain about $2.5 billion from Binance with the readiness User-Agent; it returns HTTP 429. Decrypt's readable coverage confirms EIP-7702 was used to obtain execution approval over a hot wallet (cited in content/articles/binancecover.md) but does not carry CoinDesk's unique $2.5 billion single-permission breakdown.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-31T03:47:14.952Z",
+      "retrySearches": [
+        "Find readable independent technical reporting on how the Binance attacker used EIP-7702 delegations to drain about $2.5 billion, beyond CoinDesk"
+      ],
+      "lastReviewedDay": "2026-10-31",
+      "nextReviewDate": "2026-11-01"
     },
     "e8a0cc4f409e9496577b": {
       "source": "Crypto Briefing",
@@ -113886,11 +113904,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "7519084819981865bd3c",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-31T03:31:46.182Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T17:11:22.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "source-blocked",
+      "note": "The Defiant's Oct. 30 Tether Q3 results article returned HTTP 403 to both WebFetch and curl with the readiness User-Agent on Oct. 31 (the readiness pass had seen HTTP 200). No second independent source for the $1.5B Q3 operating profit and $7.95B reserve buffer figures was opened in this round.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/cefi/tether-reports-1-5-billion-q3-operating-profit-7-95-billion-reserve-buffer",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-31T03:47:14.952Z",
+      "retrySearches": [
+        "Find readable independent coverage or Tether's own Q3 2026 attestation confirming $1.5 billion operating profit and $7.95 billion reserve buffer"
+      ],
+      "lastReviewedDay": "2026-10-31",
+      "nextReviewDate": "2026-11-01"
     },
     "704545a628f5ee66c298": {
       "source": "The Defiant",
@@ -205639,6 +205671,74 @@
           ],
           "reviewedAt": "2026-10-31T03:43:59.297Z",
           "articleSlug": "binancecover"
+        },
+        "a084f31192741f001eff": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Retried CoinDesk with the readiness User-Agent on Oct. 31; the proof-of-reserves article still returns HTTP 429. CNBC's Oct. 30 hack coverage was re-read but covers the broader hack and frozen-asset recovery, not the drained reserve-wallet analysis unique to this candidate. No independent outlet found restating the reserve-wallet shortfall figures beyond CoinDesk.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T03:47:14.952Z",
+          "retrySearches": [
+            "Find a readable independent report on Binance's Oct. 1 proof-of-reserves wallets being drained in the Oct. 29 hack, with the ETH backing shortfall, beyond CoinDesk"
+          ]
+        },
+        "816922470b6340d4dcfa": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Retried the CoinDesk Oct. 29 story on SIX confirming overseas bank and broker access to the BBIT spot bitcoin ETF with the readiness User-Agent; it still returns HTTP 429. Prior search found only outlets restating CoinDesk or covering the already-published Oct. 20 approval (content/articles/swissetf.md).",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-31T03:47:14.952Z",
+          "retrySearches": [
+            "Find independent readable coverage of SIX Swiss Exchange confirming overseas banks and brokers can access the BBIT spot bitcoin ETF, or a non-CoinDesk source for the international-access detail"
+          ]
+        },
+        "b3b596fab6fff05dacfb": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Retried the CoinDesk Oct. 30 tech story on the Ethereum EIP-7702 permission used to drain about $2.5 billion from Binance with the readiness User-Agent; it returns HTTP 429. Decrypt's readable coverage confirms EIP-7702 was used to obtain execution approval over a hot wallet (cited in content/articles/binancecover.md) but does not carry CoinDesk's unique $2.5 billion single-permission breakdown.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-31T03:47:14.952Z",
+          "retrySearches": [
+            "Find readable independent technical reporting on how the Binance attacker used EIP-7702 delegations to drain about $2.5 billion, beyond CoinDesk"
+          ]
+        },
+        "7519084819981865bd3c": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "The Defiant's Oct. 30 Tether Q3 results article returned HTTP 403 to both WebFetch and curl with the readiness User-Agent on Oct. 31 (the readiness pass had seen HTTP 200). No second independent source for the $1.5B Q3 operating profit and $7.95B reserve buffer figures was opened in this round.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/cefi/tether-reports-1-5-billion-q3-operating-profit-7-95-billion-reserve-buffer",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-31T03:47:14.952Z",
+          "retrySearches": [
+            "Find readable independent coverage or Tether's own Q3 2026 attestation confirming $1.5 billion operating profit and $7.95 billion reserve buffer"
+          ]
         }
       },
       "baselineSlugs": [
