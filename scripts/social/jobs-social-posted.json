@@ -83563,6 +83563,40 @@
       "attemptId": "7894d585-8801-43c8-a21c-1c620d7d6f0d",
       "verification": "verified",
       "postId": "0x6c24acfa3526e6dbb9c4d70da5b882c9fea40498"
+    },
+    {
+      "slug": "eng592",
+      "company": "Stripe",
+      "title": "Master's Machine Learning Engineer, Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-10-31T19:32:26.798Z",
+      "expectedText": "Stripe is hiring Master's Machine Learning Engineer, Intern\n\nhttps://hashtagweb3.com/eng592/fc?og=7",
+      "snapshot": {
+        "id": "8333122",
+        "title": "Master's Machine Learning Engineer, Intern",
+        "company": "Stripe",
+        "link": "https://stripe.com/jobs/search?gh_jid=8333122",
+        "date": "2026-10-30T12:19:21-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Stripe [stripe]",
+        "location": "Toronto",
+        "department": "5112 General University",
+        "active": true,
+        "slug": "eng592",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Stripe is hiring Master's Machine Learning Engineer, Intern\n\nhttps://hashtagweb3.com/eng592/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng592/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "d5461c60-b38e-4dfc-b738-1378ad732ce0",
+      "verification": "creating"
     }
   ]
 }
