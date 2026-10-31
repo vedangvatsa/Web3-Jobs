@@ -2815,7 +2815,7 @@
     "sentAt": "2026-10-31T03:37:02.418Z"
   },
   "149baa1c-1fcf-4524-a979-812cc83d8210": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-31T11:34:41.096Z",
     "stories": [
       {
@@ -2843,6 +2843,8 @@
         "originalTitle": "CZ cites billion-dollar SpaceX stake in reply to Musk after Binance hack"
       }
     ],
-    "slotKey": "2026-10-31:afternoon"
+    "slotKey": "2026-10-31:afternoon",
+    "messageId": 65793,
+    "sentAt": "2026-10-31T11:34:51.327Z"
   }
 }

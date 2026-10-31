@@ -887,6 +887,9 @@
   "https://hashtagweb3.com/aavebtc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/bitgojupiter?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/latviatax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/selig?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/coindcxfutures?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/spacexstake?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2561,6 +2564,12 @@
   "BitGo adds Jupiter validator as SOL staking option for custody clients",
   "Latvia Approves New Crypto Tax Rules Starting in 2027",
   "Latvia adopts 10% one-time crypto declaration and investment-account tax",
+  "CFTC debates liability for autonomous AI trading software",
+  "CFTC Frontier Forum presses who is liable when AI agents trade",
+  "CoinDCX Restricts Futures Trading After Binance Security Incident",
+  "CoinDCX Puts Futures Into Reduce-Only Mode After Binance Disruption",
+  "CZ states Binance holds $1 billion in SpaceX shares",
+  "CZ cites billion-dollar SpaceX stake in reply to Musk after Binance hack",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2977,5 +2986,8 @@
   "fp:allocation|alongsid|bond|builder|etf|exposur|fund|gold|includ|list",
   "fp:aav|assessment|borrow|ether|follow|governanc|increas|limit|loan|maximum",
   "fp:add|bitgo|can|client|custody|institutional|jupiter|now|operat|option",
-  "fp:account|adopts10|approv|declaration|fee|futur|gain|in2027|introduc|investment"
+  "fp:account|adopts10|approv|declaration|fee|futur|gain|in2027|introduc|investment",
+  "fp:agent|are|automat|autonomous|cftc|debat|developer|discuss|forum|frontier",
+  "fp:binanc|coindcx|disruption|exchang|four|futur|incident|market|mod|most",
+  "fp:63b|accord|annual|binanc|cit|cover|dollar|founder|hack|loss"
 ]
