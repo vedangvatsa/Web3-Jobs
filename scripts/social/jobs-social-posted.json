@@ -82574,7 +82574,8 @@
       },
       "account": "profile",
       "attemptId": "0bd244e8-257c-4559-8d0e-70dba8e6e22d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x6a3233584e5d39ee720b26a8687dcc83efe88442"
     }
   ]
 }
