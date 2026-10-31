@@ -884,6 +884,9 @@
   "https://hashtagweb3.com/cftc247?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/solflareincident?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/vaneckbuilder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/aavebtc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/bitgojupiter?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/latviatax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2552,6 +2555,12 @@
   "Solflare Says Staking Provider Key Incident Stopped Validator Rewards",
   "VanEck Launches Wealth Builder ETF With Bitcoin Exposure",
   "VanEck Lists Wealth Builder ETF With Bitcoin Exposure",
+  "Aave increases Bitcoin and Ether borrowing limits",
+  "Aave raises Bitcoin and Ether borrowing limits across V3 and V4",
+  "BitGo Adds Jupiter as SOL Staking Option for Clients",
+  "BitGo adds Jupiter validator as SOL staking option for custody clients",
+  "Latvia Approves New Crypto Tax Rules Starting in 2027",
+  "Latvia adopts 10% one-time crypto declaration and investment-account tax",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2965,5 +2974,8 @@
   "fp:acquir|acquire100|agreement|australia|charter|clearanc|custody|definitiv|hong|includ",
   "fp:cftc|constant|dec15|december|derivativ|dur|evaluat|host|market|meet",
   "fp:156m|halt|incident|issu|paus|principal|provider|remain|reward|saf",
-  "fp:allocation|alongsid|bond|builder|etf|exposur|fund|gold|includ|list"
+  "fp:allocation|alongsid|bond|builder|etf|exposur|fund|gold|includ|list",
+  "fp:aav|assessment|borrow|ether|follow|governanc|increas|limit|loan|maximum",
+  "fp:add|bitgo|can|client|custody|institutional|jupiter|now|operat|option",
+  "fp:account|adopts10|approv|declaration|fee|futur|gain|in2027|introduc|investment"
 ]
