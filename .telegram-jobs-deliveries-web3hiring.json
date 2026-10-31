@@ -11269,5 +11269,122 @@
     "slotKey": "2026-10-31:morning",
     "messageId": 157,
     "sentAt": "2026-10-31T03:32:56.080Z"
+  },
+  "bfc61dfb-593f-4f33-9695-cdd2cd794f80": {
+    "status": "reserved",
+    "reservedAt": "2026-10-31T11:32:12.638Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8250286",
+          "title": "Internal Audit Senior Manager, Crypto",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8250286?t=gh_src=&gh_jid=8250286",
+          "date": "2026-10-08T16:15:53-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Menlo Park, CA; New York, NY",
+          "department": "Internal Audit",
+          "active": true,
+          "salary": "$170k – $200k/yr",
+          "dateVerified": true,
+          "slug": "sec96"
+        },
+        "key": "8250286",
+        "slug": "sec96",
+        "url": "https://hashtagweb3.com/sec96?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Internal Audit Senior Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8038785003",
+          "title": "Senior Support Operations Manager",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+          "date": "2026-10-20T06:16:07-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Singapore",
+          "department": "Strategic Markets",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops116"
+        },
+        "key": "8038785003",
+        "slug": "ops116",
+        "url": "https://hashtagweb3.com/ops116?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Senior Support Operations Manager"
+      },
+      {
+        "snapshot": {
+          "id": "f745bdb0-a4f7-4108-9e7b-8824889aa265",
+          "title": "Senior Manager, Contracts & Compliance",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/f745bdb0-a4f7-4108-9e7b-8824889aa265",
+          "date": "2026-10-03T00:47:44.297+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "G&A",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp81"
+        },
+        "key": "f745bdb0-a4f7-4108-9e7b-8824889aa265",
+        "slug": "cmp81",
+        "url": "https://hashtagweb3.com/cmp81?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Senior Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8287662",
+          "title": "Staff Software Engineer, Backend - FinHub (Transfers)",
+          "company": "Coinbase",
+          "link": "https://www.coinbase.com/careers/positions/8287662?gh_jid=8287662",
+          "date": "2026-10-16T02:25:34-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Coinbase [coinbase]",
+          "location": "Remote - USA",
+          "department": "Engineering - Backend",
+          "active": true,
+          "salary": "$218.0k – $256.5k/yr",
+          "dateVerified": true,
+          "slug": "be78"
+        },
+        "key": "8287662",
+        "slug": "be78",
+        "url": "https://hashtagweb3.com/be78?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinbase",
+        "title": "Staff Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8203966",
+          "title": "Integration Engineer",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8203966",
+          "date": "2026-10-08T13:12:58-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Mexico City, MX",
+          "department": "1141 AMER Delivery",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng462"
+        },
+        "key": "8203966",
+        "slug": "eng462",
+        "url": "https://hashtagweb3.com/eng462?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Integration Engineer"
+      }
+    ],
+    "message": "- Robinhood is hiring <a href=\"https://hashtagweb3.com/sec96?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Internal Audit Senior Manager, Crypto</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/ops116?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Support Operations Manager</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/cmp81?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Manager, Contracts &amp; Compliance</a>\n- Coinbase is hiring <a href=\"https://hashtagweb3.com/be78?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Software Engineer, Backend - FinHub (Transfers)</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/eng462?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Integration Engineer</a>",
+    "slotKey": "2026-10-31:afternoon"
   }
 }
