@@ -81526,6 +81526,48 @@
       "verification": "verified",
       "postId": "6ae56308ceb491e585d63763",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7522140348341608448"
+    },
+    {
+      "slug": "sec123",
+      "company": "BVNK",
+      "title": "Security Operations & Risk Automation Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-31T03:36:44.855Z",
+      "expectedText": "BVNK is hiring Security Operations & Risk Automation Engineer: https://hashtagweb3.com/sec123/li?og=7",
+      "snapshot": {
+        "id": "5010660101",
+        "title": "Security Operations & Risk Automation Engineer",
+        "company": "BVNK",
+        "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5010660101",
+        "date": "2026-10-20T04:11:58-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BVNK [bvnk]",
+        "location": "South Africa, Bulgaria",
+        "department": "Technology",
+        "active": true,
+        "salary": "€55k – €80k/yr",
+        "dateVerified": true,
+        "slug": "sec123"
+      },
+      "payload": {
+        "text": "BVNK is hiring Security Operations & Risk Automation Engineer: https://hashtagweb3.com/sec123/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sec123/li?og=7",
+          "title": "Security Operations & Risk Automation Engineer at BVNK",
+          "description": "Join BVNK as Security Operations & Risk Automat. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sec123.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "9a6b1e33-a954-4a7e-88a1-39523ba4ebfa",
+      "verification": "creating"
     }
   ]
 }
