@@ -839,6 +839,9 @@
   "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
   "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
   "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+  "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+  "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+  "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2299,6 +2302,12 @@
   "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
   "Tyler Shultz warns AI boom could facilitate corporate deception",
   "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+  "Nvidia considers guaranteeing loans for Nscale AI data center",
+  "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+  "Privacy-focused AI assistant Ollie is shutting down",
+  "Ollie, a privacy-focused AI assistant, is shutting down",
+  "Intel stock decline costs government $12 billion in value",
+  "Intel’s stock crashes, knocking $12B from government’s stake",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2655,5 +2664,8 @@
   "fp:58b|assistant|did|expand|includ|increas|joint|not|partnership|rivian",
   "fp:center|data|deploy|experimental|gemma|googl|hardwar|learn|machin|mission",
   "fp:aid|applicant|automat|creat|doj|enforcement|fak|federal|fraud|ghost",
-  "fp:are|boom|caution|corporat|deceiv|deception|employe|extremely|facilitat|former"
+  "fp:are|boom|caution|corporat|deceiv|deception|employe|extremely|facilitat|former",
+  "fp:act|center|chipmaker|consider|cosigner|data|facility|fund|guarante|guarantor",
+  "fp:announc|assistant|clos|down|enter|focus|founder|market|mor|olli",
+  "fp:12b|caus|chipmaker|component|cost|crash|declin|demand|government|intel"
 ]

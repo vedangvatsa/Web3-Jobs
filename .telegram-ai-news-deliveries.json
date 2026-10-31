@@ -2681,7 +2681,7 @@
     "sentAt": "2026-10-30T19:33:42.492Z"
   },
   "8a2a560b-2fdd-4db5-86c9-88debd99aedf": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-31T03:33:26.572Z",
     "stories": [
       {
@@ -2711,6 +2711,8 @@
         "originalTitle": "Intel’s stock crashes, knocking $12B from government’s stake"
       }
     ],
-    "slotKey": "2026-10-31:morning"
+    "slotKey": "2026-10-31:morning",
+    "messageId": 193428,
+    "sentAt": "2026-10-31T03:33:29.089Z"
   }
 }
