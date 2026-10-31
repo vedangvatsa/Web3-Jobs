@@ -6202,5 +6202,121 @@
     "slotKey": "2026-10-31:morning",
     "messageId": 156019,
     "sentAt": "2026-10-31T03:33:08.704Z"
+  },
+  "854436d2-fdfb-4abe-a600-9f4c8938dfd2": {
+    "status": "reserved",
+    "reservedAt": "2026-10-31T11:33:35.192Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8238489",
+          "title": "Engineering Manager, Self Serve Direct Onboarding",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8238489",
+          "date": "2026-10-15T14:58:40-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "New York City, San Francisco, Seattle",
+          "department": "8216 Risk Onboarding and Trusted Users",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ob6"
+        },
+        "key": "8238489",
+        "slug": "ob6",
+        "url": "https://hashtagweb3.com/ob6?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Engineering Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8303692",
+          "title": "Junior Team Assistant",
+          "company": "Blockchain.com",
+          "link": "https://job-boards.greenhouse.io/blockchain/jobs/8303692",
+          "date": "2026-10-20T12:12:42-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Blockchain.com [blockchain]",
+          "location": "London",
+          "department": "CEO Office",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso24"
+        },
+        "key": "8303692",
+        "slug": "aso24",
+        "url": "https://hashtagweb3.com/aso24?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Blockchain.com",
+        "title": "Junior Team Assistant"
+      },
+      {
+        "snapshot": {
+          "id": "8841922002",
+          "title": "Principal Product Designer",
+          "company": "Figure",
+          "link": "https://job-boards.greenhouse.io/figure/jobs/8841922002",
+          "date": "2026-10-06T22:54:48-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Figure [figure]",
+          "location": "Remote",
+          "department": "Design ",
+          "active": true,
+          "salary": "$158.4k – $237.6k/yr",
+          "dateVerified": true,
+          "slug": "pm189"
+        },
+        "key": "8841922002",
+        "slug": "pm189",
+        "url": "https://hashtagweb3.com/pm189?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Figure",
+        "title": "Principal Product Designer"
+      },
+      {
+        "snapshot": {
+          "id": "c64c46f1-32c6-4694-87a1-7747be941835",
+          "title": "Personal Banking Manager",
+          "company": "Aspora",
+          "link": "https://jobs.ashbyhq.com/Aspora/c64c46f1-32c6-4694-87a1-7747be941835",
+          "date": "2026-10-19T06:50:50.510+00:00",
+          "source": "Ashby: Aspora [Aspora]",
+          "location": "Bangalore",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Customer Support",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr47"
+        },
+        "key": "c64c46f1-32c6-4694-87a1-7747be941835",
+        "slug": "mgr47",
+        "url": "https://hashtagweb3.com/mgr47?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Aspora",
+        "title": "Personal Banking Manager"
+      },
+      {
+        "snapshot": {
+          "id": "5020274101",
+          "title": "Lead DevOps Engineer",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5020274101",
+          "date": "2026-10-29T05:27:32-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Kuala Lumpur, Malaysia",
+          "department": "Blockchain R&D",
+          "active": true,
+          "dateVerified": true,
+          "slug": "do22"
+        },
+        "key": "5020274101",
+        "slug": "do22",
+        "url": "https://hashtagweb3.com/do22?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Lead DevOps Engineer"
+      }
+    ],
+    "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/ob6?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Engineering Manager, Self Serve Direct Onboarding</a>\n- Blockchain.com is hiring <a href=\"https://hashtagweb3.com/aso24?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Junior Team Assistant</a>\n- Figure is hiring <a href=\"https://hashtagweb3.com/pm189?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal Product Designer</a>\n- Aspora is hiring <a href=\"https://hashtagweb3.com/mgr47?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Personal Banking Manager</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/do22?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Lead DevOps Engineer</a>",
+    "slotKey": "2026-10-31:afternoon"
   }
 }
