@@ -2780,5 +2780,36 @@
     "slotKey": "2026-10-30:evening",
     "messageId": 65791,
     "sentAt": "2026-10-30T19:33:33.253Z"
+  },
+  "c0092fb7-c60f-4db5-930f-7b291cce938d": {
+    "status": "reserved",
+    "reservedAt": "2026-10-31T03:36:51.792Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Aave increases Bitcoin and Ether borrowing limits",
+        "summary": "Governance proposal 536 raised maximum loan-to-value ratios for wrapped Bitcoin to 81% following a risk assessment.",
+        "link": "https://hashtagweb3.com/aavebtc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Aave raises Bitcoin and Ether borrowing limits across V3 and V4"
+      },
+      {
+        "index": -1,
+        "headline": "BitGo Adds Jupiter as SOL Staking Option for Clients",
+        "summary": "Institutional BitGo clients can now stake SOL tokens using the validator operated by Jupiter.",
+        "link": "https://hashtagweb3.com/bitgojupiter?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "BitGo adds Jupiter validator as SOL staking option for custody clients"
+      },
+      {
+        "index": -1,
+        "headline": "Latvia Approves New Crypto Tax Rules Starting in 2027",
+        "summary": "The law introduces a 10% one-time declaration fee and transitions future crypto gains to an investment-account tax system.",
+        "link": "https://hashtagweb3.com/latviatax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Latvia adopts 10% one-time crypto declaration and investment-account tax"
+      }
+    ],
+    "slotKey": "2026-10-31:morning"
   }
 }
