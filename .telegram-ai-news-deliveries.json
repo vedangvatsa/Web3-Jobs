@@ -2714,5 +2714,36 @@
     "slotKey": "2026-10-31:morning",
     "messageId": 193428,
     "sentAt": "2026-10-31T03:33:29.089Z"
+  },
+  "26fa6caa-b013-4728-9220-a35a04b00aab": {
+    "status": "reserved",
+    "reservedAt": "2026-10-31T11:35:17.782Z",
+    "stories": [
+      {
+        "index": 2,
+        "headline": "Last-minute tech-themed Halloween costume ideas",
+        "summary": "Proposed costumes include an AI agent icon, a PHP software vulnerability, and tech entrepreneur Bryan Johnson.",
+        "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+        "source": "TechCrunch",
+        "originalTitle": "Last-minute Halloween costumes for tech nerds"
+      },
+      {
+        "index": 4,
+        "headline": "Anthropic VS Code Extension Compromised for Twelve Hours",
+        "summary": "Investigators are still determining how unauthorized users gained access to the company's verified developer account.",
+        "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+        "source": "Ars Technica",
+        "originalTitle": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours"
+      },
+      {
+        "index": 5,
+        "headline": "Dartmouth provost resigns over undisclosed use of AI tools",
+        "summary": "He resigned because he used artificial intelligence to draft a message about the risks of AI cheating.",
+        "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+        "source": "Ars Technica",
+        "originalTitle": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job"
+      }
+    ],
+    "slotKey": "2026-10-31:afternoon"
   }
 }
