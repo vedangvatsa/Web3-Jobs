@@ -80609,8 +80609,9 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "48015557-36da-473c-b4c4-da66801b1e8c",
-      "verification": "pending",
-      "postId": "6ae561f5a114574349840750"
+      "verification": "verified",
+      "postId": "6ae561f5a114574349840750",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7522139195390492672"
     }
   ]
 }
