@@ -80099,7 +80099,8 @@
       },
       "account": "channel:bounties",
       "attemptId": "82888211-12e8-459a-acf7-01e08d5c3262",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x41244f9f5fa3571db2929f4ec6da7eea16f2d7d7"
     }
   ]
 }
