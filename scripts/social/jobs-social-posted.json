@@ -84936,6 +84936,48 @@
       "verification": "verified",
       "postId": "6ae643df37c1acd2a0c8b3ad",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7522381768344367105"
+    },
+    {
+      "slug": "eng303",
+      "company": "Sardine",
+      "title": "Forward Deployed Engineer, Integrations",
+      "platform": "linkedin",
+      "postedAt": "2026-10-31T19:36:40.515Z",
+      "expectedText": "Sardine is hiring Forward Deployed Engineer, Integrations: https://hashtagweb3.com/eng303/li?og=7",
+      "snapshot": {
+        "id": "5a6411d4-455f-48d5-a282-7bec2bec3494",
+        "title": "Forward Deployed Engineer, Integrations",
+        "company": "Sardine",
+        "link": "https://jobs.ashbyhq.com/Sardine/5a6411d4-455f-48d5-a282-7bec2bec3494",
+        "date": "2026-10-23T19:24:15.885+00:00",
+        "source": "Ashby: Sardine [Sardine]",
+        "location": "United States / Canada",
+        "isRemote": null,
+        "workplaceType": null,
+        "department": "Integrations",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng303"
+      },
+      "payload": {
+        "text": "Sardine is hiring Forward Deployed Engineer, Integrations: https://hashtagweb3.com/eng303/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng303/li?og=7",
+          "title": "Forward Deployed Engineer, Integrations at Sardine",
+          "description": "Join Sardine as Forward Deployed Engineer, Integra. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng303.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "063c96e1-6b38-4662-97c6-d3a14ed0c705",
+      "verification": "creating"
     }
   ]
 }
