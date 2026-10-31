@@ -84344,7 +84344,8 @@
       },
       "account": "channel:web3",
       "attemptId": "3d1c7604-ddf0-4a7c-942e-3298cf7d71a3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xfa866e20873753ada2787b295f8d88769689410c"
     }
   ]
 }
