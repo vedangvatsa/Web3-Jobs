@@ -329,6 +329,26 @@
         "rolloutState": "SUCCEEDED",
         "confirmedAt": "2026-10-30T12:07:24.345Z"
       }
+    ],
+    "2026-10-31": [
+      {
+        "date": "2026-10-31",
+        "id": "41164628414-1",
+        "sourceCommit": "7d9d29510284482ef2dcff82b1aba601ab40dc50",
+        "jobsCheckedAt": "2026-10-31T03:40:24.980Z",
+        "newsCompletedAt": "2026-10-31T05:18:58.028Z",
+        "articleSlugs": [
+          "selig",
+          "comer",
+          "spacexstake",
+          "coindcxfutures",
+          "binancecover"
+        ],
+        "phase": "building",
+        "startedAt": "2026-10-31T05:20:06.745Z",
+        "buildId": "daily-20261031-41164628414-1",
+        "rolloutId": "daily-20261031-41164628414-1"
+      }
     ]
   }
 }
