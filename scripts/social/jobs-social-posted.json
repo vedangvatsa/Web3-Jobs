@@ -79891,6 +79891,35 @@
       "verification": "verified",
       "postId": "6ae56171b84259308bb6c7a1",
       "permalink": "https://twitter.com/hashtag_web3/status/2116372862227325002"
+    },
+    {
+      "slug": "ds17",
+      "company": "Elliptic",
+      "title": "Data Science Lead",
+      "platform": "threads",
+      "postedAt": "2026-10-31T03:33:01.878Z",
+      "expectedText": "Elliptic is hiring Data Science Lead: https://hashtagweb3.com/ds17/th?og=7",
+      "snapshot": {
+        "id": "4e5149ef-0e8f-462f-985e-ddc50e68a489",
+        "title": "Data Science Lead",
+        "company": "Elliptic",
+        "link": "https://jobs.ashbyhq.com/Elliptic/4e5149ef-0e8f-462f-985e-ddc50e68a489",
+        "date": "2026-10-08T08:40:02.634+00:00",
+        "source": "Ashby: Elliptic [Elliptic]",
+        "location": "Hybrid (London, United Kingdom)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Intelligence",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ds17"
+      },
+      "payload": {
+        "text": "Elliptic is hiring Data Science Lead: https://hashtagweb3.com/ds17/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/ds17/th?og=7"
+      },
+      "attemptId": "068b7847-4e8a-4b70-bbe5-a6c2d17a6869",
+      "verification": "creating"
     }
   ]
 }
