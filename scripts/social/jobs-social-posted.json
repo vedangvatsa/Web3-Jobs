@@ -84890,7 +84890,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "1bb845b8-0f0a-4dc8-bc7c-47a9e864c67b",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae643c337c1acd2a0c8ae89"
     }
   ]
 }
