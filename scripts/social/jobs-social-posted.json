@@ -81660,7 +81660,8 @@
       },
       "attemptId": "58f78607-17a9-480b-8588-fe4e341a7258",
       "verification": "creating",
-      "containerId": "18099340766199925"
+      "containerId": "18099340766199925",
+      "error": "Threads publish failed: 400 {\"error\":{\"message\":\"Fatal\",\"type\":\"OAuthException\",\"code\":-1,\"error_subcode\":4279047,\"is_transient\":false,\"error_user_title\":\"Invalid Link Attachment\",\"error_user_msg\":\"The post you're trying to publish has an invalid link attachment.\",\"fbtrace_id\":\"A4Z3klpYZUi-Nd_D4VQ2inZ\"}}"
     }
   ]
 }
