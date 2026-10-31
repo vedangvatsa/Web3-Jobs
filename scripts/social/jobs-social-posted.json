@@ -82217,7 +82217,8 @@
       },
       "account": "channel:product",
       "attemptId": "689ac797-8bba-49c1-bb5a-69d62e1c0336",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x233ae81cc94277978bce1b9d9470f0b95d342388"
     }
   ]
 }
