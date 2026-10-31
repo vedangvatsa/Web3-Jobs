@@ -84416,7 +84416,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "ed8c8615-6eea-4cca-a532-b77f042ad5e2",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x1d8a6e0ad024b2b7c7c5de570e6fcceeefc8d609"
     }
   ]
 }
