@@ -84977,7 +84977,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "063c96e1-6b38-4662-97c6-d3a14ed0c705",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7522381800120156160"
     }
   ]
 }
