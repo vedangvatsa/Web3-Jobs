@@ -2716,7 +2716,7 @@
     "sentAt": "2026-10-31T03:33:29.089Z"
   },
   "26fa6caa-b013-4728-9220-a35a04b00aab": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-31T11:35:17.782Z",
     "stories": [
       {
@@ -2744,6 +2744,8 @@
         "originalTitle": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job"
       }
     ],
-    "slotKey": "2026-10-31:afternoon"
+    "slotKey": "2026-10-31:afternoon",
+    "messageId": 193430,
+    "sentAt": "2026-10-31T11:35:42.190Z"
   }
 }

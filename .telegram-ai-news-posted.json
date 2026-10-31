@@ -842,6 +842,9 @@
   "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
   "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
   "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+  "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+  "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+  "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2308,6 +2311,12 @@
   "Ollie, a privacy-focused AI assistant, is shutting down",
   "Intel stock decline costs government $12 billion in value",
   "Intel’s stock crashes, knocking $12B from government’s stake",
+  "Last-minute tech-themed Halloween costume ideas",
+  "Last-minute Halloween costumes for tech nerds",
+  "Anthropic VS Code Extension Compromised for Twelve Hours",
+  "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+  "Dartmouth provost resigns over undisclosed use of AI tools",
+  "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2667,5 +2676,8 @@
   "fp:are|boom|caution|corporat|deceiv|deception|employe|extremely|facilitat|former",
   "fp:act|center|chipmaker|consider|cosigner|data|facility|fund|guarante|guarantor",
   "fp:announc|assistant|clos|down|enter|focus|founder|market|mor|olli",
-  "fp:12b|caus|chipmaker|component|cost|crash|declin|demand|government|intel"
+  "fp:12b|caus|chipmaker|component|cost|crash|declin|demand|government|intel",
+  "fp:agent|bryan|costum|entrepreneur|halloween|icon|idea|includ|johnson|last",
+  "fp:access|account|anthropic|are|backdoor|cod|compromis|cursor|determin|developer",
+  "fp:becaus|cheat|cost|dartmouth|draft|him|his|job|messag|own"
 ]
