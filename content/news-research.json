@@ -114684,9 +114684,9 @@
         "The Defiant"
       ],
       "id": "41687ee10fb86446183e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-31T03:31:46.182Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T13:14:56.000Z",
       "lastSeenAt": "2026-10-31T03:31:46.182Z",
       "articleSlug": "binancecover",
@@ -114720,7 +114720,37 @@
         "updatedAt": "2026-10-31T03:37:18.272Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Wrote binancecover.md on Binance reserving $6.34B to cover the Oct. 29 hack. Verified against Decrypt 382237 (Teng video, $5B in affected tokens, EIP-7702 delegation, Arkham TRX movement, CZ comment), Crypto Briefing proof-of-reserves article (second security update, 34-hour withdrawal target, Nov. 2 PoR, ~$3B frozen separately), and CNBC (TRM Labs $6.36B/10-chain estimate, TraderTraitor attribution, Fundstrat Farrell solvency view). The Block and The Defiant feed URLs return Cloudflare 403; Binance primary announcement is AWS-WAF gated, so the story cites the three readable independent reports.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/binance-first-proof-of-reserves-snapshot/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-30-binance-says-it-has-6-34-billion-ready-to-cover-hack-losses-432208",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/news/hacks/binance-says-it-has-reserved-over-6-34-billion-to-cover-hack-losses",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://www.binance.com/en/support/announcement/detail/c5a8729a97ac486d963784d96c5642d7",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-31T03:43:59.297Z",
+      "lastReviewedDay": "2026-10-31"
     },
     "2367313e9c0d287c0847": {
       "source": "Cointelegraph",
@@ -205556,6 +205586,39 @@
             "Find independent reporting confirming the event in: Can Elon Musk’s $119 Billion Terafab Chip Plant Pay Off Without Outside Customers?",
             "Retry the attempted URLs after any Retry-After time, within the existing verification window."
           ]
+        },
+        "41687ee10fb86446183e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Wrote binancecover.md on Binance reserving $6.34B to cover the Oct. 29 hack. Verified against Decrypt 382237 (Teng video, $5B in affected tokens, EIP-7702 delegation, Arkham TRX movement, CZ comment), Crypto Briefing proof-of-reserves article (second security update, 34-hour withdrawal target, Nov. 2 PoR, ~$3B frozen separately), and CNBC (TRM Labs $6.36B/10-chain estimate, TraderTraitor attribution, Fundstrat Farrell solvency view). The Block and The Defiant feed URLs return Cloudflare 403; Binance primary announcement is AWS-WAF gated, so the story cites the three readable independent reports.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/binance-first-proof-of-reserves-snapshot/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/ecosystems/2026-10-30-binance-says-it-has-6-34-billion-ready-to-cover-hack-losses-432208",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/hacks/binance-says-it-has-reserved-over-6-34-billion-to-cover-hack-losses",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.binance.com/en/support/announcement/detail/c5a8729a97ac486d963784d96c5642d7",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-31T03:43:59.297Z",
+          "articleSlug": "binancecover"
         }
       },
       "baselineSlugs": [
