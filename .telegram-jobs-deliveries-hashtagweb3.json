@@ -6320,5 +6320,121 @@
     "slotKey": "2026-10-31:afternoon",
     "messageId": 156023,
     "sentAt": "2026-10-31T11:33:37.885Z"
+  },
+  "6020577e-3233-4423-bfbb-e6d99bba731d": {
+    "status": "reserved",
+    "reservedAt": "2026-10-31T19:33:09.473Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "e501ae12-8c51-4a95-a0cd-21ae7e990e4d",
+          "title": "Corporate Counsel",
+          "company": "Augustus",
+          "link": "https://jobs.ashbyhq.com/Augustus/e501ae12-8c51-4a95-a0cd-21ae7e990e4d",
+          "date": "2026-10-27T13:46:54.775+00:00",
+          "source": "Ashby: Augustus [Augustus]",
+          "location": "New York City",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Legal",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp129"
+        },
+        "key": "e501ae12-8c51-4a95-a0cd-21ae7e990e4d",
+        "slug": "cmp129",
+        "url": "https://hashtagweb3.com/cmp129?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Augustus",
+        "title": "Corporate Counsel"
+      },
+      {
+        "snapshot": {
+          "id": "cb7e63ce-1be3-48cb-a6e7-4c3069f168c5",
+          "title": "M&A Analyst",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/cb7e63ce-1be3-48cb-a6e7-4c3069f168c5",
+          "date": "2026-10-26T07:56:00.086Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (Hong Kong)",
+          "workplaceType": "hybrid",
+          "department": "Corporate",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an106"
+        },
+        "key": "cb7e63ce-1be3-48cb-a6e7-4c3069f168c5",
+        "slug": "an106",
+        "url": "https://hashtagweb3.com/an106?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "M&A Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "5457254008",
+          "title": "Executive Recruiter",
+          "company": "Hut 8",
+          "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+          "date": "2026-10-20T09:54:10-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Hut 8 [hut8]",
+          "location": "Miami, FL",
+          "department": "People",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rec47"
+        },
+        "key": "5457254008",
+        "slug": "rec47",
+        "url": "https://hashtagweb3.com/rec47?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Hut 8",
+        "title": "Executive Recruiter"
+      },
+      {
+        "snapshot": {
+          "id": "852c6b3d-9f46-47ae-adb1-a5ed2608aac7",
+          "title": "Product Manager",
+          "company": "LI.FI",
+          "link": "https://jobs.ashbyhq.com/LI.FI/852c6b3d-9f46-47ae-adb1-a5ed2608aac7",
+          "date": "2026-10-14T14:00:31.258+00:00",
+          "source": "Ashby: LI.FI [LI.FI]",
+          "location": "Remote EMEA",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm302"
+        },
+        "key": "852c6b3d-9f46-47ae-adb1-a5ed2608aac7",
+        "slug": "pm302",
+        "url": "https://hashtagweb3.com/pm302?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "LI.FI",
+        "title": "Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8248088",
+          "title": "Product Tax Specialist",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8248088",
+          "date": "2026-10-06T16:01:18-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "San Francisco, Seattle, New York City",
+          "department": "6430 Tax",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm246"
+        },
+        "key": "8248088",
+        "slug": "pm246",
+        "url": "https://hashtagweb3.com/pm246?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Product Tax Specialist"
+      }
+    ],
+    "message": "- Augustus is hiring <a href=\"https://hashtagweb3.com/cmp129?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Corporate Counsel</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/an106?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">M&amp;A Analyst</a>\n- Hut 8 is hiring <a href=\"https://hashtagweb3.com/rec47?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Executive Recruiter</a>\n- LI.FI is hiring <a href=\"https://hashtagweb3.com/pm302?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/pm246?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Tax Specialist</a>",
+    "slotKey": "2026-10-31:evening"
   }
 }
