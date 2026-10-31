@@ -80315,7 +80315,8 @@
       },
       "account": "channel:base",
       "attemptId": "5454f3df-3446-4a2e-9eac-d9c1a593c269",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xdf6216df7ff31b1ac15eab40f050f6a7a5034aeb"
     }
   ]
 }
