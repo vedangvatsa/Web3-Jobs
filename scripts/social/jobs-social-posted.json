@@ -84380,7 +84380,8 @@
       },
       "account": "channel:bounties",
       "attemptId": "164d87de-8da3-420d-a4c5-939722cb1edd",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8e353ab360cd75019ee7e9e3300d255bcad38b52"
     }
   ]
 }
