@@ -4159,5 +4159,50 @@
     "slotKey": "2026-10-31:afternoon",
     "messageId": 156022,
     "sentAt": "2026-10-31T11:32:15.256Z"
+  },
+  "461d2673-9b42-4f06-bd5a-d64ff3fc1d38": {
+    "status": "reserved",
+    "reservedAt": "2026-10-31T19:32:44.565Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-ieq8nSKhYS4nMCZ",
+        "slug": "onchain-ro",
+        "name": "「THE ONCHAIN ROOM 」@ Hong Kong Fintech Week",
+        "startDate": "2026-11-03T06:00:00.000Z",
+        "keys": [
+          "luma-crypto-ieq8nskhys4nmcz",
+          "page:onchain-ro:2026-11-03",
+          "luma-url:/0qe0bz78",
+          "event:theonchainroomhongkongfintechweek:2026-11-03:hong kong"
+        ]
+      },
+      {
+        "id": "luma-crypto-crXQbVzgHLjp5Lg",
+        "slug": "compliance",
+        "name": "Compliance Innovation Forum: AI & Digital Assets | Bridging Regulatory Expertise, AI-Powered Risk Intelligence & Blockchain Technology",
+        "startDate": "2026-11-03T06:00:00.000Z",
+        "keys": [
+          "luma-crypto-crxqbvzghljp5lg",
+          "page:compliance:2026-11-03",
+          "luma-url:/8w5xo3ci",
+          "event:complianceinnovationforumaidigitalassetsbridgingregulatoryexpertiseaipoweredriskintelligenceblockchaintechnology:2026-11-03:hong kong"
+        ]
+      },
+      {
+        "id": "luma-crypto-FLpxXn0aRE2igwO",
+        "slug": "tokenized-assets-open-markets-",
+        "name": "Can Regulated, Tokenized Assets Trade on Open Onchain Markets? Live Demo & Panel at Hong Kong Fintech Week",
+        "startDate": "2026-11-03T08:00:00.000Z",
+        "keys": [
+          "luma-crypto-flpxxn0are2igwo",
+          "page:tokenized-assets-open-markets-:2026-11-03",
+          "luma-url:/tokenized-assets-open-markets-hong-kong",
+          "event:canregulatedtokenizedassetstradeonopenonchainmarketslivedemopanelathongkongfintechweek:2026-11-03:hong kong"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-31:evening"
   }
 }
