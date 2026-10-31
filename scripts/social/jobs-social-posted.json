@@ -83175,7 +83175,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "9fecb2bd-dfb6-43ee-853b-3e41ad921fc4",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae5d35bb84259308bd3739e"
     }
   ]
 }
