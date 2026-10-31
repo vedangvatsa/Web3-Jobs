@@ -81972,7 +81972,8 @@
       },
       "account": "channel:build",
       "attemptId": "ed461911-be06-4fcc-b832-bce04fc1bca0",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9e634ef2642702b6d9b48098f733a8699f378ca0"
     }
   ]
 }
