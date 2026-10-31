@@ -80027,7 +80027,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "670d9661-66f6-4ba5-9ced-793aaf9493c3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x951dca4d220feed3a2ff5e3ce62fe79ac09dcba2"
     }
   ]
 }
