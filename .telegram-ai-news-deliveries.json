@@ -2747,5 +2747,40 @@
     "slotKey": "2026-10-31:afternoon",
     "messageId": 193430,
     "sentAt": "2026-10-31T11:35:42.190Z"
+  },
+  "a4df48e1-8052-4faf-9b6c-293fb2388727": {
+    "status": "reserved",
+    "reservedAt": "2026-10-31T19:34:04.519Z",
+    "stories": [
+      {
+        "index": 1,
+        "original_title": "[TechCrunch] OpenAI reportedly lowers funding target for new round",
+        "headline": "OpenAI lowers funding target for latest capital round",
+        "summary": "The company reduced its target dollar amount during ongoing negotiations with major global investors.",
+        "event_rationale": "Covers OpenAI reducing its fundraising target, which is distinct from previous investment announcements.",
+        "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+        "source": "TechCrunch",
+        "originalTitle": "OpenAI reportedly lowers funding target for new round"
+      },
+      {
+        "index": 11,
+        "original_title": "[Ars Technica] Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+        "headline": "Apple updates operating systems with Siri artificial intelligence controls",
+        "summary": "Software updates across mobile and desktop platforms allow users to restrict application access for voice features.",
+        "event_rationale": "Covers Apple's consumer operating system rollout featuring voice control security, distinct from frontier model releases.",
+        "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+        "source": "Ars Technica",
+        "originalTitle": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo"
+      },
+      {
+        "index": 3,
+        "headline": "Investors question heavy tech spending on AI infrastructure",
+        "summary": "Rising debt and negative cash flows cause investors to doubt the financial viability of tech infrastructure spending.",
+        "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+        "source": "TechCrunch",
+        "originalTitle": "Cracks are emerging in the AI spending boom"
+      }
+    ],
+    "slotKey": "2026-10-31:evening"
   }
 }
