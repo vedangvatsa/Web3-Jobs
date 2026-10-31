@@ -83260,7 +83260,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "2c14b700-fb5d-498b-bd79-680f4172f7df",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7522261110167609344"
     }
   ]
 }
