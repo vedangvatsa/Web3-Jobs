@@ -87597,6 +87597,36 @@
       "attemptId": "23d0e283-ec96-4e0b-8021-e908c7d4dfb6",
       "verification": "verified",
       "postId": "691827047618629_1132256596048241"
+    },
+    {
+      "slug": "ks2",
+      "company": "StraitsX",
+      "title": "KYB Specialist",
+      "platform": "x",
+      "postedAt": "2026-11-01T11:37:11.249Z",
+      "expectedText": "StraitsX is hiring KYB Specialist\n\nhttps://hashtagweb3.com/ks2/x?og=7",
+      "snapshot": {
+        "id": "5006646101",
+        "title": "KYB Specialist",
+        "company": "StraitsX",
+        "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5006646101",
+        "date": "2026-10-15T02:04:51-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: StraitsX [straitsx]",
+        "location": "Singapore",
+        "department": "STX - Commercial",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ks2"
+      },
+      "payload": {
+        "text": "StraitsX is hiring KYB Specialist\n\nhttps://hashtagweb3.com/ks2/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "42f1f469-09e1-41af-9c12-26c56b2eb596",
+      "verification": "creating"
     }
   ]
 }
