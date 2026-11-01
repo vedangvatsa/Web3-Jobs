@@ -118,8 +118,8 @@ const PAGE_META: Record<string, Omit<OgPreviewMeta, 'canonicalUrl'>> = {
       ogImageUrl: STATIC_OG.default,
     },
     '/jobs': {
-      title: `Web3 Jobs & Crypto Careers (${getFreshJobCountLabel()}) | ${SITE_NAME}`,
-      description: `Find verified remote Web3 jobs. Discover ${getFreshJobCountLabel()} in Solidity, blockchain development, smart contracts, DeFi, DAOs, and crypto marketing at top Web3 startups.`,
+      title: `Remote Web3 Jobs & Crypto Careers (${getFreshJobCountLabel()}) | ${SITE_NAME}`,
+      description: `Find verified remote Web3 jobs and crypto careers. Discover ${getFreshJobCountLabel()} in Solidity, blockchain development, smart contracts, DeFi, DAOs, and crypto marketing at top Web3 startups.`,
       ogImageUrl: STATIC_OG.jobs,
     },
     '/blog': {
