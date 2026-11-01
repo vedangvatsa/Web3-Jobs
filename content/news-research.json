@@ -109626,23 +109626,23 @@
       "id": "816922470b6340d4dcfa",
       "status": "deferred",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-01T14:15:46.000Z",
       "lastSeenAt": "2026-10-30T10:25:44.767Z",
       "reason": "source-blocked",
-      "note": "Retried the CoinDesk Oct. 29 story on SIX confirming overseas bank and broker access to the BBIT spot bitcoin ETF with the readiness User-Agent; it still returns HTTP 429. Prior search found only outlets restating CoinDesk or covering the already-published Oct. 20 approval (content/articles/swissetf.md).",
+      "note": "Retried the CoinDesk Oct. 29 SIX story on Nov. 1 with the readiness User-Agent; it still returns HTTP 429. A search surfaced two readable-looking independent restatements of the Oct. 29 overseas-broker-access confirmation (dropmintdaily.com and blockchainnewsgroup.com, both quoting SIX's Danielle Reischuk on roughly 90 banks and brokers, direct or indirect access, and public sale limited to Switzerland) plus the BIT Asset Management Oct. 20 pressroom release as a primary source. Neither restatement has been opened yet, so this remains source-blocked pending an actual read. The Oct. 29 access confirmation is a new event distinct from the already-published Oct. 20 FINMA approval story (swissetf.md).",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-31T03:47:14.952Z",
+      "reviewedAt": "2026-11-01T04:01:42.760Z",
       "retrySearches": [
-        "Find independent readable coverage of SIX Swiss Exchange confirming overseas banks and brokers can access the BBIT spot bitcoin ETF, or a non-CoinDesk source for the international-access detail"
+        "Open and read https://www.dropmintdaily.com/bitcoin-crypto/2026/10/six-details-conditional-broker-access-for-swiss-bitcoin-fund and https://blockchainnewsgroup.com/2026/10/29/swiss-bitcoin-etf-opens-broker-access-global-sales/ and the BIT pressroom release https://www.bit.com/pressroom/btc-etf, then draft the Oct. 29 SIX overseas-access confirmation if two independent readable sources hold; this candidate expires 2026-11-01T14:15:46Z"
       ],
-      "lastReviewedDay": "2026-10-31",
-      "nextReviewDate": "2026-11-01"
+      "lastReviewedDay": "2026-11-01",
+      "nextReviewDate": "2026-11-02"
     },
     "02b6805e12a005dbd6a0": {
       "source": "Cointelegraph",
@@ -213560,6 +213560,21 @@
           "reviewedAt": "2026-11-01T04:01:08.483Z",
           "retrySearches": [
             "Find readable independent technical reporting on the EIP-7702 delegation that drained about $2.5 billion from Binance 14 in under four minutes, including the 50-authorization nonce-range mechanism, beyond CoinDesk"
+          ]
+        },
+        "816922470b6340d4dcfa": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Retried the CoinDesk Oct. 29 SIX story on Nov. 1 with the readiness User-Agent; it still returns HTTP 429. A search surfaced two readable-looking independent restatements of the Oct. 29 overseas-broker-access confirmation (dropmintdaily.com and blockchainnewsgroup.com, both quoting SIX's Danielle Reischuk on roughly 90 banks and brokers, direct or indirect access, and public sale limited to Switzerland) plus the BIT Asset Management Oct. 20 pressroom release as a primary source. Neither restatement has been opened yet, so this remains source-blocked pending an actual read. The Oct. 29 access confirmation is a new event distinct from the already-published Oct. 20 FINMA approval story (swissetf.md).",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-01T04:01:42.760Z",
+          "retrySearches": [
+            "Open and read https://www.dropmintdaily.com/bitcoin-crypto/2026/10/six-details-conditional-broker-access-for-swiss-bitcoin-fund and https://blockchainnewsgroup.com/2026/10/29/swiss-bitcoin-etf-opens-broker-access-global-sales/ and the BIT pressroom release https://www.bit.com/pressroom/btc-etf, then draft the Oct. 29 SIX overseas-access confirmation if two independent readable sources hold; this candidate expires 2026-11-01T14:15:46Z"
           ]
         }
       },
