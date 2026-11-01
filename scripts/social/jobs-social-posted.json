@@ -86050,7 +86050,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "99de7077-14c6-48dc-919d-79d544de4c2f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe74824a557dfb0d7b17c5ecb864d8ffea753ce13"
     }
   ]
 }
