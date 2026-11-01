@@ -30,6 +30,7 @@ import { generateGlossaryMetaDescription } from '@/lib/seo-utils';
 import { isRemovedJobPath } from '@/lib/removed-job-path';
 import { isExpiredJobPath } from '@/lib/job-age-path';
 import { canonicalSocialPagePath } from '@/lib/social-share';
+import { getFreshJobCountLabel } from '@/lib/seo-freshness';
 import slugTypes from '../../content/slug-types.json';
 
 const SITE_NAME = 'Hashtag Web3';
@@ -112,13 +113,13 @@ async function resolveArticleMetadata(slug: string): Promise<OgPreviewMeta | nul
 
 const PAGE_META: Record<string, Omit<OgPreviewMeta, 'canonicalUrl'>> = {
     '/': {
-      title: `Web3 Jobs and Crypto Careers | ${SITE_NAME}`,
-      description: 'Find verified Web3 jobs, crypto careers, salary data, and practical guides. Updated daily for builders, marketers, and product teams.',
+      title: `Web3 Jobs & Crypto Careers (${getFreshJobCountLabel()}) | ${SITE_NAME}`,
+      description: `Find verified Web3 jobs, crypto careers, salary data, and remote blockchain roles. ${getFreshJobCountLabel()}. Updated daily for builders, engineers, and operators.`,
       ogImageUrl: STATIC_OG.default,
     },
     '/jobs': {
-      title: `Web3 Jobs & Crypto Careers | ${SITE_NAME}`,
-      description: 'Find the best remote Web3 jobs. Discover verified opportunities in Solidity, blockchain development, DeFi, DAOs, and crypto marketing.',
+      title: `Web3 Jobs & Crypto Careers (${getFreshJobCountLabel()}) | ${SITE_NAME}`,
+      description: `Find verified remote Web3 jobs. Discover ${getFreshJobCountLabel()} in Solidity, blockchain development, smart contracts, DeFi, DAOs, and crypto marketing at top Web3 startups.`,
       ogImageUrl: STATIC_OG.jobs,
     },
     '/blog': {
