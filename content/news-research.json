@@ -110785,11 +110785,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "c4ce1a5677f3930f4ef3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-01T23:24:21.000Z",
-      "lastSeenAt": "2026-10-30T10:25:44.767Z"
+      "lastSeenAt": "2026-10-30T10:25:44.767Z",
+      "reason": "duplicate",
+      "note": "Same Oct. 29 Binance hack event already covered by the published article binancecover.md (Binance Sets Aside $6.34 Billion to Cover Hack Losses, published 2026-10-31), which reports the attack, the withdrawal pause, and the market and stablecoin-freeze fallout. The BNB and bitcoin price slide is a consequence of that same covered event, not a new development.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-11-01T04:29:51.468Z",
+      "duplicateOf": "binancecover",
+      "lastReviewedDay": "2026-11-01"
     },
     "f618eaf6a6a81eb34667": {
       "source": "Bitcoin Magazine",
@@ -110806,11 +110812,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "f618eaf6a6a81eb34667",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-01T23:06:37.000Z",
-      "lastSeenAt": "2026-10-30T10:25:44.767Z"
+      "lastSeenAt": "2026-10-30T10:25:44.767Z",
+      "reason": "duplicate",
+      "note": "Same Oct. 29 Binance hack event already covered by the published article binancecover.md, which reports the estimated $6.3 billion theft as the largest on record and the resulting market moves. This Bitcoin Magazine headline covers the same theft and price slide.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-11-01T04:29:51.468Z",
+      "duplicateOf": "binancecover",
+      "lastReviewedDay": "2026-11-01"
     },
     "3cf52e0aa84be6f0a17f": {
       "source": "The Defiant",
@@ -110827,11 +110839,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "3cf52e0aa84be6f0a17f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-01T22:10:31.000Z",
-      "lastSeenAt": "2026-10-30T10:25:44.767Z"
+      "lastSeenAt": "2026-10-30T10:25:44.767Z",
+      "reason": "duplicate",
+      "note": "The withdrawal pause and the user-funds-safe assurance are both reported in the published article binancecover.md (CEO Richard Teng's address and the exchange's security incident updates). Same Oct. 29 hack event, no new development.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-11-01T04:29:51.468Z",
+      "duplicateOf": "binancecover",
+      "lastReviewedDay": "2026-11-01"
     },
     "fe55f5c981eb2a47ae91": {
       "source": "The Block",
@@ -110888,11 +110906,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "6df36c3e1f35dd28ce85",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-01T21:36:24.000Z",
-      "lastSeenAt": "2026-10-30T10:25:44.767Z"
+      "lastSeenAt": "2026-10-30T10:25:44.767Z",
+      "reason": "duplicate",
+      "note": "The drain estimate and the Tether/Circle stablecoin freezes are covered by the published article binancecover.md, which reports roughly $3 billion frozen by industry partners and the estimated $6.3 billion theft. Same Oct. 29 hack event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-11-01T04:29:51.468Z",
+      "duplicateOf": "binancecover",
+      "lastReviewedDay": "2026-11-01"
     },
     "512cc9b7f1a0cc776f6b": {
       "source": "Cointelegraph",
@@ -110909,11 +110933,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "512cc9b7f1a0cc776f6b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-01T21:24:36.000Z",
-      "lastSeenAt": "2026-10-30T10:25:44.767Z"
+      "lastSeenAt": "2026-10-30T10:25:44.767Z",
+      "reason": "duplicate",
+      "note": "Binance's investigation of the multibillion-dollar breach is the central subject of the published article binancecover.md, which details the attack timeline, EIP-7702 delegation vector, and TRM Labs attribution to TraderTraitor. Same Oct. 29 hack event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-11-01T04:29:51.468Z",
+      "duplicateOf": "binancecover",
+      "lastReviewedDay": "2026-11-01"
     },
     "632ca8210c2f18fc6b05": {
       "source": "The Defiant",
@@ -110930,11 +110960,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "632ca8210c2f18fc6b05",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-01T21:22:00.000Z",
-      "lastSeenAt": "2026-10-30T10:25:44.767Z"
+      "lastSeenAt": "2026-10-30T10:25:44.767Z",
+      "reason": "duplicate",
+      "note": "Tether's USDT freeze tied to the suspected Binance drain is part of the freeze response already reported in the published article binancecover.md (roughly $3 billion frozen by industry partners). Same Oct. 29 hack event, not a separate development.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-11-01T04:29:51.468Z",
+      "duplicateOf": "binancecover",
+      "lastReviewedDay": "2026-11-01"
     },
     "c20c1376ebd2db05ea47": {
       "source": "CoinDesk",
@@ -110951,11 +110987,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "c20c1376ebd2db05ea47",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-01T21:12:45.000Z",
-      "lastSeenAt": "2026-10-30T10:25:44.767Z"
+      "lastSeenAt": "2026-10-30T10:25:44.767Z",
+      "reason": "duplicate",
+      "note": "The '$6 billion biggest crypto hack in history' is exactly the event the published article binancecover.md covers, including the estimated $6.3 billion stolen and the largest-on-record framing. Drafting another article on the same theft would rewrite covered reporting.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-11-01T04:29:51.468Z",
+      "duplicateOf": "binancecover",
+      "lastReviewedDay": "2026-11-01"
     },
     "f66660e6d4cc738d5dc1": {
       "source": "The Defiant",
@@ -214050,6 +214092,62 @@
           ],
           "reviewedAt": "2026-11-01T04:29:08.367Z",
           "articleSlug": "yccrypto"
+        },
+        "c4ce1a5677f3930f4ef3": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct. 29 Binance hack event already covered by the published article binancecover.md (Binance Sets Aside $6.34 Billion to Cover Hack Losses, published 2026-10-31), which reports the attack, the withdrawal pause, and the market and stablecoin-freeze fallout. The BNB and bitcoin price slide is a consequence of that same covered event, not a new development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-11-01T04:29:51.468Z",
+          "duplicateOf": "binancecover"
+        },
+        "f618eaf6a6a81eb34667": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct. 29 Binance hack event already covered by the published article binancecover.md, which reports the estimated $6.3 billion theft as the largest on record and the resulting market moves. This Bitcoin Magazine headline covers the same theft and price slide.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-11-01T04:29:51.468Z",
+          "duplicateOf": "binancecover"
+        },
+        "3cf52e0aa84be6f0a17f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "The withdrawal pause and the user-funds-safe assurance are both reported in the published article binancecover.md (CEO Richard Teng's address and the exchange's security incident updates). Same Oct. 29 hack event, no new development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-11-01T04:29:51.468Z",
+          "duplicateOf": "binancecover"
+        },
+        "6df36c3e1f35dd28ce85": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "The drain estimate and the Tether/Circle stablecoin freezes are covered by the published article binancecover.md, which reports roughly $3 billion frozen by industry partners and the estimated $6.3 billion theft. Same Oct. 29 hack event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-11-01T04:29:51.468Z",
+          "duplicateOf": "binancecover"
+        },
+        "512cc9b7f1a0cc776f6b": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Binance's investigation of the multibillion-dollar breach is the central subject of the published article binancecover.md, which details the attack timeline, EIP-7702 delegation vector, and TRM Labs attribution to TraderTraitor. Same Oct. 29 hack event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-11-01T04:29:51.468Z",
+          "duplicateOf": "binancecover"
+        },
+        "632ca8210c2f18fc6b05": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Tether's USDT freeze tied to the suspected Binance drain is part of the freeze response already reported in the published article binancecover.md (roughly $3 billion frozen by industry partners). Same Oct. 29 hack event, not a separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-11-01T04:29:51.468Z",
+          "duplicateOf": "binancecover"
+        },
+        "c20c1376ebd2db05ea47": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "The '$6 billion biggest crypto hack in history' is exactly the event the published article binancecover.md covers, including the estimated $6.3 billion stolen and the largest-on-record framing. Drafting another article on the same theft would rewrite covered reporting.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-11-01T04:29:51.468Z",
+          "duplicateOf": "binancecover"
         }
       },
       "baselineSlugs": [
