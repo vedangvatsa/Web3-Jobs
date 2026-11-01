@@ -86632,7 +86632,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "3a010d86-a0db-497b-8e79-4ee606249e51",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae6b45321c807e9d59c5baf"
     }
   ]
 }
