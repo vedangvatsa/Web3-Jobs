@@ -85683,7 +85683,8 @@
       },
       "account": "channel:design",
       "attemptId": "7d31b9f5-ae54-4e3f-9983-604631ff4234",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb3c9de484bc5021c23f3d9242fb26bdd466fdd57"
     }
   ]
 }
