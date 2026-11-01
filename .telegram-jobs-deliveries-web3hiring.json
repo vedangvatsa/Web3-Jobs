@@ -12095,5 +12095,119 @@
     "slotKey": "2026-11-01:afternoon",
     "messageId": 16598,
     "sentAt": "2026-11-01T11:32:58.462Z"
+  },
+  "1e411606-1367-49c1-88d1-810becebd756": {
+    "status": "reserved",
+    "reservedAt": "2026-11-01T11:33:54.601Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "ec740f52-ed54-4d6d-a216-ac68b3d5de18",
+          "title": "Business Development Representative",
+          "company": "Altitude",
+          "link": "https://talent.superteam.fun/jobs/business-development-representative-at-altitude-ec740f52-ed54-4d6d-a216-ac68b3d5de18",
+          "date": "2026-10-24T09:40:46.729298+00:00",
+          "source": "Superteam: Altitude [superteam]",
+          "location": "Remote · Europe, North America",
+          "department": "Full-Time",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls340"
+        },
+        "key": "ec740f52-ed54-4d6d-a216-ac68b3d5de18",
+        "slug": "sls340",
+        "url": "https://hashtagweb3.com/sls340?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Altitude",
+        "title": "Business Development Representative"
+      },
+      {
+        "snapshot": {
+          "id": "ad373640-b44e-4a28-8886-013431e9cdec",
+          "title": "Senior IT Engineer",
+          "company": "Morpho",
+          "link": "https://jobs.ashbyhq.com/Morpho/ad373640-b44e-4a28-8886-013431e9cdec",
+          "date": "2026-10-28T16:46:35.371+00:00",
+          "source": "Ashby: Morpho [Morpho]",
+          "location": "France | Remote",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng675"
+        },
+        "key": "ad373640-b44e-4a28-8886-013431e9cdec",
+        "slug": "eng675",
+        "url": "https://hashtagweb3.com/eng675?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Morpho",
+        "title": "Senior IT Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "019b5628-7cb7-4448-a990-cbdfd8f097d1",
+          "title": "Client Operations Specialist",
+          "company": "Dakota",
+          "link": "https://jobs.ashbyhq.com/dakota/019b5628-7cb7-4448-a990-cbdfd8f097d1",
+          "date": "2026-10-27T03:49:21.122+00:00",
+          "source": "Ashby: Dakota [dakota]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Operations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops70"
+        },
+        "key": "019b5628-7cb7-4448-a990-cbdfd8f097d1",
+        "slug": "ops70",
+        "url": "https://hashtagweb3.com/ops70?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Dakota",
+        "title": "Client Operations Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "5004269101",
+          "title": "Senior DevOps Engineer",
+          "company": "BVNK",
+          "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5004269101",
+          "date": "2026-10-13T09:59:52-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BVNK [bvnk]",
+          "location": "South Africa, Bulgaria, Poland, Spain",
+          "department": "Technology",
+          "active": true,
+          "salary": "€70k – €90k/yr",
+          "dateVerified": true,
+          "slug": "do13"
+        },
+        "key": "5004269101",
+        "slug": "do13",
+        "url": "https://hashtagweb3.com/do13?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BVNK",
+        "title": "Senior DevOps Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8d2297ef-3ddb-4367-81dc-904c759d1cdc",
+          "title": "Customer Success Manager - Ethena Pay",
+          "company": "Ethena Labs",
+          "link": "https://careers.ethena.fi/jobs/8495362-customer-success-manager-ethena-pay",
+          "date": "2026-10-03T15:47:04.000Z",
+          "source": "Teamtailor: Ethena Labs [ethena]",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr143",
+          "location": "Not specified"
+        },
+        "key": "8d2297ef-3ddb-4367-81dc-904c759d1cdc",
+        "slug": "mgr143",
+        "url": "https://hashtagweb3.com/mgr143?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ethena Labs",
+        "title": "Customer Success Manager"
+      }
+    ],
+    "message": "- Altitude is hiring <a href=\"https://hashtagweb3.com/sls340?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business Development Representative</a>\n- Morpho is hiring <a href=\"https://hashtagweb3.com/eng675?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior IT Engineer</a>\n- Dakota is hiring <a href=\"https://hashtagweb3.com/ops70?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Client Operations Specialist</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/do13?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior DevOps Engineer</a>\n- Ethena Labs is hiring <a href=\"https://hashtagweb3.com/mgr143?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Success Manager - Ethena Pay</a>",
+    "slotKey": "2026-11-01:afternoon"
   }
 }
