@@ -243,63 +243,6 @@
     }
   },
   {
-    "id": "kbw-starkmart-seoul-2026",
-    "slug": "starkmart-seoul",
-    "name": "StarkMart Seoul",
-    "description": "## StarkMart returns 🛒\n\nJoin Starknet during KBW at StarkMart!\n\nInspired by Seoul’s iconic convenience stores, StarkMart is your space to snack, have fun, and connect with the Starknet community.\n\n🍜 Sample Korean favorites (or take on your own spice challenge at our instant ramen bar)\n\n🎨 Design your own StarkMart merch at our screen printing station\n\n📸 Snap some photos in the photo booth with friends\n\nSnack, snap & stay Stark at KBW!\n\nAll guests must register. Entry is first-come, first-served.\n\n[Follow us on X](https://x.com/StarknetFndn?utm_source=luma)\n\nStarknet is the original Zero-Knowledge Rollup - a battle-tested Ethereum Layer 2 blockchain with over $1.36T in cumulative trading volume. Built by StarkWare Ltd., and backed by leading investors including Sequoia, Paradigm, Coinbase Ventures, and Pantera, Starknet has already brought hyperscale and ultra-low fees to Ethereum.\n\nToday its mission is to deliver institutional-grade Bitcoin finance on-chain and privacy solutions. Starknet is also advancing post-quantum research, with a published roadmap to make its proving and settlement stack quantum-safe, so value secured on Starknet stays secure against future quantum attacks.\n\nPlease note we're unable to cater to specific dietary requirements or allergies at this event, so we'd encourage you to plan ahead if needed. Thanks for understanding!",
-    "startDate": "2026-10-02T02:00:00.000Z",
-    "endDate": "2026-10-02T06:00:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "609-1 Yeoksam-dong, Gangnam District, Seoul, South Korea",
-    "url": "https://luma.com/StarkMart2026",
-    "website": "https://luma.com/StarkMart2026",
-    "coverImage": "/events/kbw-starkmart-seoul-2026-64f32477.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "hosts": [
-      "Starknet Foundation"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Seoul",
-    "neighborhood": "Yeoksam-dong",
-    "registrationUrl": "https://luma.com/StarkMart2026",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "609-1",
-    "streetAddress": "609-1 Yeoksam-dong, Gangnam District",
-    "addressLocality": "Seoul",
-    "addressRegion": "Seoul",
-    "addressCountry": "KR",
-    "coordinates": {
-      "latitude": 37.5057492,
-      "longitude": 127.0331265
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "Starknet Foundation",
-      "url": "https://luma.com/StarknetFndn"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/StarkMart2026",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/StarkMart2026",
-      "eventId": "evt-mUJUjztnBYNJjby",
-      "fetchedAt": "2026-09-19T23:29:46.700Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "kbw-xrp-seoul-2026",
     "slug": "xrp-seoul",
     "name": "XRP Seoul 2026",

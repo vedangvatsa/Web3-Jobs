@@ -1272,21 +1272,6 @@
       "preview": "India's first festival for what comes next for money. Two days in Jaipur, October 30-31, 2026."
     },
     {
-      "id": "kbw-official-secure-crypto-asset-network-2026-scan-10-01",
-      "file": "kbw-luma-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://scan.sx/",
-        "fetchedAt": "2026-09-20T00:20:53.449Z",
-        "method": "official-section",
-        "pageTitle": "SCAN 2026 | Official Event of KBW2026",
-        "sha256": "398558cd7b57dbe0524fb9f9df46e615a55c957d336bacabc070d07a6d20a651"
-      },
-      "previousStartDate": "2026-10-01T15:00:00+09:00",
-      "characters": 319,
-      "preview": "2026. 9. 28. 10am(KST) Monaco Space(B1F), Seoul, South Korea\n\n2026. 10. 1. 10:30am(KST) Théâtre des Lumières(B1F), Walkerhill Hotel, Seoul, South Korea\n\n## Meet the Top 20\n\n## Rank & Prize\n\n## As Featured In\n\n## The Room Where It Matters\n\nA look back at the teams, talks, and award moments from the previous SCAN event."
-    },
-    {
       "id": "ibw-official-ibw2026-pre-conference-vip-night-10-31",
       "file": "ibw-side-events.json",
       "name": "IBW2026 Pre-Conference VIP Night",

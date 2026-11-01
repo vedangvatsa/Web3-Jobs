@@ -40,57 +40,6 @@
     }
   },
   {
-    "id": "luma-crypto-uhw289wfAXAVAdO",
-    "slug": "2ctufd",
-    "name": "2867 Club - top UIUC Founders Dinner (SF)",
-    "description": "An invite-only dinner for UIUC alumni building early-stage companies in the Bay Area.\n\nWe’re bringing together a small group of pre-seed through Series A founders for candid conversation, new connections, and a chance to learn from peers navigating similar challenges.\n\nThis is deliberately founder-focused and off the record. No formal programming, just a great group and a shared table.\n\nWho it’s for\n\n• UIUC alumni founders\n• Pre-seed, seed, and Series A-stage startups\n• Builders based in or visiting the Bay Area\n\nWhy attend\n\n• Meet other exceptional UIUC founders\n• Share lessons, challenges, and useful resources candidly\n• Help shape a growing UIUC founder community in SF and beyond\n• [Inaugural 2867.club](https://2867.club) dinner\n\nSpace is limited. Request an invite or RSVP if you received this link.",
-    "startDate": "2026-10-02T02:30:00.000Z",
-    "endDate": "2026-10-02T03:30:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "The Cavalier, 360 Jessie St, San Francisco, CA 94103, USA",
-    "url": "https://luma.com/itqo25g6",
-    "registrationUrl": "https://luma.com/itqo25g6",
-    "coverImage": "/events/luma-crypto-uhw289wfaxavado-661b873b.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Johnny Chang",
-      "Tatijana Janko"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/Los_Angeles",
-    "neighborhood": "Yerba Buena",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "The Cavalier",
-    "streetAddress": "360 Jessie St, San Francisco",
-    "addressLocality": "San Francisco",
-    "addressRegion": "California",
-    "addressCountry": "US",
-    "coordinates": {
-      "latitude": 37.7833359,
-      "longitude": -122.40699330000001
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/itqo25g6",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/itqo25g6",
-      "eventId": "evt-uhw289wfAXAVAdO",
-      "fetchedAt": "2026-09-19T23:46:03.145Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-Som3hML2sfbwc5R",
     "slug": "ehwfaeh",
     "name": "EAT_HACK - the world's first AI & eating hackathon",
