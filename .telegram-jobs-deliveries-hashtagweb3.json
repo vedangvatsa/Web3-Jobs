@@ -6557,5 +6557,124 @@
     "slotKey": "2026-11-01:morning",
     "messageId": 156033,
     "sentAt": "2026-11-01T03:32:50.477Z"
+  },
+  "a133d419-9bdc-4a50-8bae-71446a064a9d": {
+    "status": "reserved",
+    "reservedAt": "2026-11-01T11:34:13.456Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5458383008",
+          "title": "Enterprise Sales Lead, US",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5458383008?gh_jid=5458383008",
+          "date": "2026-10-27T15:35:45-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Bay Area, CA, United States of America",
+          "department": "20213 S&M - Sales - Square Outside",
+          "active": true,
+          "salary": "$319.0k – $478.6k/yr",
+          "dateVerified": true,
+          "slug": "sls354"
+        },
+        "key": "5458383008",
+        "slug": "sls354",
+        "url": "https://hashtagweb3.com/sls354?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Enterprise Sales Lead"
+      },
+      {
+        "snapshot": {
+          "id": "d2d0a311-b102-4fda-b537-1a8e926b55c7",
+          "title": "Innovation Quant Developer: Intern - DeFi/Corporate Development",
+          "company": "Keyrock",
+          "link": "https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7",
+          "date": "2026-10-29T15:23:32.489+00:00",
+          "source": "Ashby: Keyrock [keyrock]",
+          "location": "Brussels",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Trading & Research",
+          "active": true,
+          "dateVerified": true,
+          "slug": "tr136"
+        },
+        "key": "d2d0a311-b102-4fda-b537-1a8e926b55c7",
+        "slug": "tr136",
+        "url": "https://hashtagweb3.com/tr136?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Keyrock",
+        "title": "Innovation Quant Developer: Intern"
+      },
+      {
+        "snapshot": {
+          "id": "8260181",
+          "title": "Staff Data Scientist",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8260181?gh_jid=8260181",
+          "date": "2026-10-07T12:55:15-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "San Francisco, CA, United States",
+          "department": "Engineering",
+          "active": true,
+          "salary": "$212k – $265k/yr",
+          "dateVerified": true,
+          "slug": "ds16"
+        },
+        "key": "8260181",
+        "slug": "ds16",
+        "url": "https://hashtagweb3.com/ds16?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Staff Data Scientist"
+      },
+      {
+        "snapshot": {
+          "id": "aa0c645d-7aa0-40b0-bdfa-9b3fb19da404",
+          "title": "Customer Activation Manager | Stack Accounting",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/aa0c645d-7aa0-40b0-bdfa-9b3fb19da404",
+          "date": "2026-10-30T19:35:16.997+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Sales",
+          "active": true,
+          "slug": "sls379",
+          "dateVerified": true
+        },
+        "key": "aa0c645d-7aa0-40b0-bdfa-9b3fb19da404",
+        "slug": "sls379",
+        "url": "https://hashtagweb3.com/sls379?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Customer Activation Manager | Stack Accounting"
+      },
+      {
+        "snapshot": {
+          "id": "6737cb1d-d03b-406c-9d13-70546fc0504d",
+          "title": "Head of Security & IT",
+          "company": "Allium",
+          "link": "https://jobs.ashbyhq.com/allium/6737cb1d-d03b-406c-9d13-70546fc0504d",
+          "date": "2026-10-30T20:21:00.386+00:00",
+          "source": "Ashby: Allium [allium]",
+          "location": "New York",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "General",
+          "active": true,
+          "slug": "sec138",
+          "dateVerified": true
+        },
+        "key": "6737cb1d-d03b-406c-9d13-70546fc0504d",
+        "slug": "sec138",
+        "url": "https://hashtagweb3.com/sec138?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Allium",
+        "title": "Head of Security & IT"
+      }
+    ],
+    "message": "- Block is hiring <a href=\"https://hashtagweb3.com/sls354?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Enterprise Sales Lead, US</a>\n- Keyrock is hiring <a href=\"https://hashtagweb3.com/tr136?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Innovation Quant Developer: Intern - DeFi/Corporate Development</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/ds16?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Data Scientist</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/sls379?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Activation Manager | Stack Accounting</a>\n- Allium is hiring <a href=\"https://hashtagweb3.com/sec138?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Security &amp; IT</a>",
+    "slotKey": "2026-11-01:afternoon"
   }
 }
