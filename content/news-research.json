@@ -110553,11 +110553,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "53a652d957b4e0ad3691",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T03:36:11.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "duplicate",
+      "note": "The TraderTraitor/Lazarus attribution this headline reports is already covered in content/articles/tradertraitor.md (Chainalysis and TRM attributions) and in binancecover.md. CoinDesk itself returned HTTP 429 and was not read; the underlying attribution event is already published in the repo.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-01T04:22:32.319Z",
+      "duplicateOf": "tradertraitor",
+      "mergedInto": "eec0143970a0bc9f1ec3",
+      "lastReviewedDay": "2026-11-01"
     },
     "66b22ef12a92df281a8d": {
       "source": "The Block",
@@ -110666,11 +110678,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "f412618474d6295e6b16",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T00:11:26.000Z",
-      "lastSeenAt": "2026-10-30T10:25:44.767Z"
+      "lastSeenAt": "2026-10-30T10:25:44.767Z",
+      "reason": "duplicate",
+      "note": "Read the Cointelegraph report and BleepingComputer's independent report of Binance's Oct. 30 preliminary finding that a compromised DevOps laptop opened a service container. That development is already stated in the published binancecover article ('first investigation pointed to a compromised employee laptop... additional points of breach') and in the tradertraitor draft, so a separate story would rewrite covered ground.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-01T04:22:32.319Z",
+      "duplicateOf": "binancecover",
+      "lastReviewedDay": "2026-11-01"
     },
     "1e16f989cb320752ae97": {
       "source": "CryptoSlate",
@@ -110687,11 +110714,27 @@
       ],
       "alsoCoveredBy": [],
       "id": "1e16f989cb320752ae97",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-01T23:50:05.000Z",
-      "lastSeenAt": "2026-10-30T10:25:44.767Z"
+      "lastSeenAt": "2026-10-30T10:25:44.767Z",
+      "reason": "duplicate",
+      "note": "Read the CryptoSlate freeze round-up (Tether $1.567B, Circle ~$823M, Ripple ~$200M, World Liberty $27M, Paxos PAXG) and BleepingComputer's report of TRM's $2.67B frozen total. The same issuer freeze totals and outflow figures are already reported in content/articles/tradertraitor.md and binancecover.md, so a separate article would duplicate covered content.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/trumps-crypto-firm-joins-tether-circle-and-ripple-in-2-6-billion-stablecoin-freeze-as-binance-hack-outflows-near-6-billion/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-01T04:22:32.319Z",
+      "duplicateOf": "tradertraitor",
+      "mergedInto": "eec0143970a0bc9f1ec3",
+      "lastReviewedDay": "2026-11-01"
     },
     "c4ce1a5677f3930f4ef3": {
       "source": "Cointelegraph",
@@ -213907,6 +213950,55 @@
             }
           ],
           "reviewedAt": "2026-11-01T04:21:46.728Z"
+        },
+        "53a652d957b4e0ad3691": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "The TraderTraitor/Lazarus attribution this headline reports is already covered in content/articles/tradertraitor.md (Chainalysis and TRM attributions) and in binancecover.md. CoinDesk itself returned HTTP 429 and was not read; the underlying attribution event is already published in the repo.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-01T04:22:32.319Z",
+          "duplicateOf": "tradertraitor",
+          "mergedInto": "eec0143970a0bc9f1ec3"
+        },
+        "f412618474d6295e6b16": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Read the Cointelegraph report and BleepingComputer's independent report of Binance's Oct. 30 preliminary finding that a compromised DevOps laptop opened a service container. That development is already stated in the published binancecover article ('first investigation pointed to a compromised employee laptop... additional points of breach') and in the tradertraitor draft, so a separate story would rewrite covered ground.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-01T04:22:32.319Z",
+          "duplicateOf": "binancecover"
+        },
+        "1e16f989cb320752ae97": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Read the CryptoSlate freeze round-up (Tether $1.567B, Circle ~$823M, Ripple ~$200M, World Liberty $27M, Paxos PAXG) and BleepingComputer's report of TRM's $2.67B frozen total. The same issuer freeze totals and outflow figures are already reported in content/articles/tradertraitor.md and binancecover.md, so a separate article would duplicate covered content.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/trumps-crypto-firm-joins-tether-circle-and-ripple-in-2-6-billion-stablecoin-freeze-as-binance-hack-outflows-near-6-billion/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-01T04:22:32.319Z",
+          "duplicateOf": "tradertraitor",
+          "mergedInto": "eec0143970a0bc9f1ec3"
         }
       },
       "baselineSlugs": [
