@@ -2913,5 +2913,36 @@
     "slotKey": "2026-11-01:morning",
     "messageId": 65795,
     "sentAt": "2026-11-01T03:40:01.575Z"
+  },
+  "5ae43b5c-ec2b-40fb-8844-e504d6499044": {
+    "status": "reserved",
+    "reservedAt": "2026-11-01T11:34:34.584Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Akash Network Votes on Migrating AKT Token to Solana",
+        "summary": "Proposal 346 creates a one-way token portal, while moving the compute marketplace requires a later vote.",
+        "link": "https://hashtagweb3.com/akash?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Akash Opens Vote to Move Its Network From Cosmos to Solana"
+      },
+      {
+        "index": -1,
+        "headline": "Osmosis ends token inflation to fund staking from protocol revenue",
+        "summary": "Governance proposal 1053 passed with 91% support, stopping new token minting and pausing daily developer releases.",
+        "link": "https://hashtagweb3.com/osmosis?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Osmosis Votes to End OSMO Inflation and Fund Staking From Revenue"
+      },
+      {
+        "index": -1,
+        "headline": "Visa and Mesh enable direct crypto spending at merchants",
+        "summary": "Users can spend stablecoins from existing wallets across 175 million locations without a separate card.",
+        "link": "https://hashtagweb3.com/visamesh?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Visa and Mesh let wallets spend stablecoins at 175 million merchants"
+      }
+    ],
+    "slotKey": "2026-11-01:afternoon"
   }
 }
