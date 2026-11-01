@@ -2915,7 +2915,7 @@
     "sentAt": "2026-11-01T03:40:01.575Z"
   },
   "5ae43b5c-ec2b-40fb-8844-e504d6499044": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-01T11:34:34.584Z",
     "stories": [
       {
@@ -2943,6 +2943,8 @@
         "originalTitle": "Visa and Mesh let wallets spend stablecoins at 175 million merchants"
       }
     ],
-    "slotKey": "2026-11-01:afternoon"
+    "slotKey": "2026-11-01:afternoon",
+    "messageId": 65796,
+    "sentAt": "2026-11-01T11:34:44.073Z"
   }
 }
