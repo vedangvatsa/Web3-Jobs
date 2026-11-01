@@ -142,6 +142,9 @@ function main(): void {
   const staticCount = copyBuildStatic();
   writeCatalogFreshness(ROOT);
   for (const file of FILES) copyFile(file);
+  if (fs.existsSync(path.join(ROOT, '.next', 'BUILD_ID'))) {
+    copyFile('.next/BUILD_ID');
+  }
   for (const [src, dest] of DIRS) copyDir(src, dest);
   copyPublicRootFiles();
 

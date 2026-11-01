@@ -2,7 +2,7 @@ import path from 'node:path';
 import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { JOB_LISTING_CACHE_HEADER } from './src/lib/job-age-cache.mjs';
-import { PUBLIC_PAGE_ALIASES, SOCIAL_UTM_MAP } from './src/lib/social-share.ts';
+import { PUBLIC_PAGE_ALIASES, SOCIAL_UTM_MAP } from './src/lib/social-share.mjs';
 
 const projectRoot = path.dirname(fileURLToPath(import.meta.url));
 const learnRoutes = JSON.parse(readFileSync(path.join(projectRoot, 'content/learn-routes.json'), 'utf8'));

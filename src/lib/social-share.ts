@@ -2,88 +2,17 @@
  * Social share path suffixes (/ebc/dc → Discord UTM) and link-preview crawlers.
  * Keep og-meta stripSocialPathSuffix, middleware UTM handling, and bot OG rewrites in sync via this module.
  */
+import {
+  PUBLIC_PAGE_ALIASES as RAW_PUBLIC_PAGE_ALIASES,
+  SOCIAL_PATH_SUFFIXES as RAW_SOCIAL_PATH_SUFFIXES,
+  SOCIAL_UTM_MAP as RAW_SOCIAL_UTM_MAP,
+} from './social-share.mjs';
 
-export const SOCIAL_UTM_MAP: Record<string, { utm_source: string; utm_medium: string }> = {
-  li: { utm_source: 'linkedin', utm_medium: 'social' },
-  linkedin: { utm_source: 'linkedin', utm_medium: 'social' },
-  x: { utm_source: 'x', utm_medium: 'social' },
-  tw: { utm_source: 'twitter', utm_medium: 'social' },
-  twitter: { utm_source: 'twitter', utm_medium: 'social' },
-  yt: { utm_source: 'youtube', utm_medium: 'social' },
-  youtube: { utm_source: 'youtube', utm_medium: 'social' },
-  th: { utm_source: 'threads', utm_medium: 'social' },
-  threads: { utm_source: 'threads', utm_medium: 'social' },
-  ig: { utm_source: 'instagram', utm_medium: 'social' },
-  insta: { utm_source: 'instagram', utm_medium: 'social' },
-  instagram: { utm_source: 'instagram', utm_medium: 'social' },
-  tg: { utm_source: 'telegram', utm_medium: 'social' },
-  telegram: { utm_source: 'telegram', utm_medium: 'social' },
-  rd: { utm_source: 'reddit', utm_medium: 'social' },
-  reddit: { utm_source: 'reddit', utm_medium: 'social' },
-  dc: { utm_source: 'discord', utm_medium: 'social' },
-  discord: { utm_source: 'discord', utm_medium: 'social' },
-  fc: { utm_source: 'farcaster', utm_medium: 'social' },
-  warp: { utm_source: 'warpcast', utm_medium: 'social' },
-  farcaster: { utm_source: 'farcaster', utm_medium: 'social' },
-  bsky: { utm_source: 'bluesky', utm_medium: 'social' },
-  bluesky: { utm_source: 'bluesky', utm_medium: 'social' },
-  fb: { utm_source: 'facebook', utm_medium: 'social' },
-  facebook: { utm_source: 'facebook', utm_medium: 'social' },
-  tt: { utm_source: 'tiktok', utm_medium: 'social' },
-  tiktok: { utm_source: 'tiktok', utm_medium: 'social' },
-  hn: { utm_source: 'hackernews', utm_medium: 'social' },
-  wa: { utm_source: 'whatsapp', utm_medium: 'social' },
-  whatsapp: { utm_source: 'whatsapp', utm_medium: 'social' },
-  nl: { utm_source: 'newsletter', utm_medium: 'email' },
-  email: { utm_source: 'email', utm_medium: 'email' },
-};
+export const SOCIAL_UTM_MAP: Record<string, { utm_source: string; utm_medium: string }> = RAW_SOCIAL_UTM_MAP;
 
-export const SOCIAL_PATH_SUFFIXES = new Set(Object.keys(SOCIAL_UTM_MAP));
+export const SOCIAL_PATH_SUFFIXES: Set<string> = RAW_SOCIAL_PATH_SUFFIXES;
 
-export const PUBLIC_PAGE_ALIASES: Record<string, string> = {
-  '/docs': '/developers',
-  '/api-docs': '/developers',
-  '/auth': '/developers',
-  '/api-policy': '/api-policy.md',
-  '/the-shape-of-ethereum-topological-anomaly-detection': '/shape-of-ethereum',
-  '/arbitrum-offchain-labs': '/offchain-labs',
-  '/arbitrum': '/offchain-labs',
-  '/certik-detailed': '/certik',
-  '/aztec-labs-privacy-l2': '/aztec',
-  '/aztec-labs': '/aztec',
-  '/aztec-network': '/aztec',
-  '/tools/interview-questions': '/interview-questions',
-  '/tools/salary-calculator': '/salary-calculator',
-  '/tools/resume-builder': '/resume-builder',
-  '/tools': '/',
-  '/guides/web3-salaries': '/salary-calculator',
-  '/guides': '/',
-  '/what-is-bitcoin': '/bitcoin',
-  '/what-is-ethereum': '/ethereum',
-  '/what-is-solana': '/jobs',
-  '/what-is-defi': '/defi',
-  '/what-is-nft': '/nft',
-  '/what-is-web3': '/web3',
-  '/what-is-blockchain': '/blockchain',
-  '/where-b2b-stablecoin-money-actually-flows': '/b2b-stablecoin-flows',
-  '/what-is-dao': '/dao',
-  '/what-is-staking': '/staking',
-  '/what-is-a-token': '/token',
-  '/how-to-build-a-web3-resume': '/how-to-build-a-web3-resume-that-stands-out',
-  '/gas-optimization-guide-for-solidity-developers': '/gas-optimization-techniques-for-solidity-developers',
-  '/how-to-be-a-good-community-moderator': '/web3-community-manager-career',
-  '/deprecation-policy': '/api-policy.md',
-  '/versioning-policy': '/api-policy.md',
-  '/popups/ns': '/ns',
-  '/popups/logos': '/logos-society',
-  '/popups/logos-society': '/logos-society',
-  '/crypto-tax-bills': '/tax-bills',
-  '/nasdaq-tokenized-stocks': '/nasdaq-tokens',
-  '/jio': '/jio-perpetuals',
-  '/terms-of-use': '/terms-of-use.md',
-  '/terms': '/terms-of-use.md',
-  '/tos': '/terms-of-use.md',
-};
+export const PUBLIC_PAGE_ALIASES: Record<string, string> = RAW_PUBLIC_PAGE_ALIASES;
 
 export function isResourcePath(pathname: string): boolean {
   return pathname.includes('.') || /^\/(?:api|_next|data|job-catalog|job-shards|job-description-shards|articles-data|preview|og|images|logo|fonts|responsive)(?:\/|$)/i.test(pathname);
