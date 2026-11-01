@@ -19819,7 +19819,10 @@
     "url": "https://www.meetup.com/lfdt-silicon-valley/events/316802686/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-evt-9fG9CmDFC7ikDpE",
@@ -26872,7 +26875,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261101T105105Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=89bbec4aae0168123afd952a2a33b3db9ac9e69e25298ae4e54d7a92d37dac92",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261101T113738Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=6728d5035073b29f5e9b8bb5ea3dba3b4010a56de439520f4a676f82cee281e6",
     "month": "November 2026"
   },
   {
@@ -28448,7 +28451,7 @@
     "country": "us",
     "location": "West Des Moines, us",
     "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/316987086/",
-    "coverImage": "/events/mu-316987086-847c035e.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -28829,7 +28832,7 @@
     "country": "ES",
     "location": "Barcelona, ES",
     "url": "https://luma.com/v27ik7m7",
-    "coverImage": null,
+    "coverImage": "/events/w3v-buzoku-ai-crypto-meetup-15-1793457801872-faab781c.webp",
     "month": "November 2026"
   },
   {

@@ -845,10 +845,6 @@
       "sha256": "b41507afcde7f3df5532e2c2b99fddae897baed28e80716dc07e592c82ea970a",
       "status": "optimized"
     },
-    "/events/kbw-official-enter-the-night-10-02-0ed1422a.webp": {
-      "sha256": "f06ca7ea6ab57571cd0343a06ffd4538c0fc2799ac5dcc71018b24f027b6b531",
-      "status": "optimized"
-    },
     "/events/kbw-official-kbw-2026-private-yacht-soir-e-epoch-2-8754446e.webp": {
       "sha256": "178601af8a6c490ab23890b22409e1673feb27a75ce5a863eb1abad0b526d9c7",
       "status": "retained"
@@ -1016,10 +1012,6 @@
     "/events/luma-batch-OZx1friXAoHVZKN-c2143546.webp": {
       "sha256": "de193882896f32687574cc3b8c6c4d3d78bd639f516eba4b7b8024f81751fde3",
       "status": "optimized"
-    },
-    "/events/luma-batch-Q1XsqZEswkD2Wc5-d331a34d.webp": {
-      "sha256": "ff54d7aa42afb968fc455964a7c9d130a2be7c6710ce3f70f328fd231f0de915",
-      "status": "retained"
     },
     "/events/luma-batch-Qzy0En8R3B1O2Rp-609a935f.webp": {
       "sha256": "733539a0c25f8e114e931308d3253a32098dbaf5277fd38a6d213f9329c15b6f",
@@ -1691,10 +1683,6 @@
     },
     "/events/luma-batch-qkMG1UdrLfgDpGZ-2375e716.webp": {
       "sha256": "ae30ce7815f5d8eb732dd998565f86a3dca264c427f5772b1dfb5abf2904dbc9",
-      "status": "optimized"
-    },
-    "/events/luma-batch-rNhL4DpSPhx15YB-1d8e993f.webp": {
-      "sha256": "5714448cf1d4d59b6bd74f5ec69b417a54a2479a30190cd1fa8762c3d3a7702f",
       "status": "optimized"
     },
     "/events/luma-batch-rk5AVFngAATx3XK-c64b3efd.webp": {
@@ -4239,10 +4227,6 @@
     },
     "/events/mu-316962667-20bc80fc.webp": {
       "sha256": "1d54f101e16e1f7c462fe202f8eed1d00bfaf0fe5d653f0202eb4e18a5978939",
-      "status": "optimized"
-    },
-    "/events/mu-316987086-847c035e.webp": {
-      "sha256": "8c27b8713e8a6e905bd74730f4ebdcc2113ff71df7008deb16afc38b039fb543",
       "status": "optimized"
     },
     "/events/mu-316996838-27bc1ab3.webp": {
