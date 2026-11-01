@@ -109591,27 +109591,23 @@
       "id": "a084f31192741f001eff",
       "status": "deferred",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-02T00:17:10.000Z",
       "lastSeenAt": "2026-10-30T10:25:44.767Z",
       "reason": "source-blocked",
-      "note": "Retried CoinDesk with the readiness User-Agent on Oct. 31; the proof-of-reserves article still returns HTTP 429. CNBC's Oct. 30 hack coverage was re-read but covers the broader hack and frozen-asset recovery, not the drained reserve-wallet analysis unique to this candidate. No independent outlet found restating the reserve-wallet shortfall figures beyond CoinDesk.",
+      "note": "Retried the CoinDesk Oct. 30 proof-of-reserves story on Nov. 1 with the readiness User-Agent; it still returns HTTP 429. A search found two readable-looking restatements of CoinDesk's reserve-wallet analysis (cryptonews.gg and news.finst.com) that carry the 204,500 ETH, 100-to-94 percent ETH backing and Oct. 1 Binance 14 snapshot figures, but neither has been opened yet and both attribute the findings to CoinDesk rather than restating independent analysis. Binance's own Nov. 2 reserve snapshot remains the primary check on whether the backing was restored.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
           "outcome": "blocked"
-        },
-        {
-          "url": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-31T03:47:14.952Z",
+      "reviewedAt": "2026-11-01T04:01:08.483Z",
       "retrySearches": [
-        "Find a readable independent report on Binance's Oct. 1 proof-of-reserves wallets being drained in the Oct. 29 hack, with the ETH backing shortfall, beyond CoinDesk"
+        "Open and read cryptonews.gg/article/tech/binance-hack-hit-the-same-wallets-it-uses-to-prove-reserves and news.finst.com/en/articles/binance-hack-hits-reserve-wallets-and-weighs-on-eth-backing, decide whether the two separate-site restatements suffice alongside the primary reserve data, and check Binance's Nov. 2 proof-of-reserves snapshot for the restored backing"
       ],
-      "lastReviewedDay": "2026-10-31",
-      "nextReviewDate": "2026-11-01"
+      "lastReviewedDay": "2026-11-01",
+      "nextReviewDate": "2026-11-02"
     },
     "816922470b6340d4dcfa": {
       "source": "CoinDesk",
@@ -114892,27 +114888,27 @@
       "id": "b3b596fab6fff05dacfb",
       "status": "deferred",
       "firstSeenAt": "2026-10-31T03:31:46.182Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-02T11:35:16.000Z",
       "lastSeenAt": "2026-10-31T03:31:46.182Z",
       "reason": "source-blocked",
-      "note": "Retried the CoinDesk Oct. 30 tech story on the Ethereum EIP-7702 permission used to drain about $2.5 billion from Binance with the readiness User-Agent; it returns HTTP 429. Decrypt's readable coverage confirms EIP-7702 was used to obtain execution approval over a hot wallet (cited in content/articles/binancecover.md) but does not carry CoinDesk's unique $2.5 billion single-permission breakdown.",
+      "note": "Retried the CoinDesk Oct. 30 tech story on Nov. 1 with the readiness User-Agent; it still returns HTTP 429. Decrypt 382285, re-read today, confirms the attacker used EIP-7702 to turn a Binance hot wallet into a sweeper with 50 pre-signed authorizations, but it does not carry CoinDesk's unique $2.5-billion-in-under-four-minutes figure, the 18,914,775-to-18,914,824 nonce range, or the near-four-hour delegation window.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
           "outcome": "blocked"
         },
         {
-          "url": "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe",
+          "url": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-31T03:47:14.952Z",
+      "reviewedAt": "2026-11-01T04:01:08.483Z",
       "retrySearches": [
-        "Find readable independent technical reporting on how the Binance attacker used EIP-7702 delegations to drain about $2.5 billion, beyond CoinDesk"
+        "Find readable independent technical reporting on the EIP-7702 delegation that drained about $2.5 billion from Binance 14 in under four minutes, including the 50-authorization nonce-range mechanism, beyond CoinDesk"
       ],
-      "lastReviewedDay": "2026-10-31",
-      "nextReviewDate": "2026-11-01"
+      "lastReviewedDay": "2026-11-01",
+      "nextReviewDate": "2026-11-02"
     },
     "e8a0cc4f409e9496577b": {
       "source": "Crypto Briefing",
@@ -118306,11 +118302,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "5cc69083e939e9727632",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-01T03:32:04.135Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-04T01:10:55.000Z",
-      "lastSeenAt": "2026-11-01T03:32:04.135Z"
+      "lastSeenAt": "2026-11-01T03:32:04.135Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read the full CryptoSlate Nov. 1 article. It is market analysis of derivatives open interest, funding rates and the Oct. 30 $643M ETF outflow tally, framed as a demand test ahead of the Nov. 6 jobs report. The data points it cites (Block Scholes liquidations, Coinalyze open interest, Farside outflows) serve forward-looking analysis rather than reporting a discrete launch, vote, ruling, filing, hack, raise or upgrade. Price and positioning chatter is out of scope.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/bitcoins-recovery-faces-rising-derivatives-exposure-and-643-million-in-etf-outflows/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-01T04:01:08.483Z",
+      "lastReviewedDay": "2026-11-01"
     },
     "2f4d5f80180695daba38": {
       "source": "CoinDesk",
@@ -118327,11 +118333,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "2f4d5f80180695daba38",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-01T03:32:04.135Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-03T05:01:32.000Z",
-      "lastSeenAt": "2026-11-01T03:32:04.135Z"
+      "lastSeenAt": "2026-11-01T03:32:04.135Z",
+      "reason": "source-blocked",
+      "note": "Retried the CoinDesk Oct. 31 markets story on Nov. 1 with the readiness User-Agent; it still returns HTTP 429. The piece compares the stolen bitcoin haul to Tesla and El Salvador holdings, so its concrete figures need a readable copy before any review can judge scope.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-01T04:01:08.483Z",
+      "retrySearches": [
+        "Find a readable copy or independent restatement of the CoinDesk comparison of Binance-hack stolen bitcoin against Tesla and El Salvador holdings, with the underlying BTC amounts"
+      ],
+      "lastReviewedDay": "2026-11-01",
+      "nextReviewDate": "2026-11-02"
     },
     "f21a9464fc01aeba165e": {
       "source": "CoinDesk",
@@ -213480,6 +213500,67 @@
           ],
           "reviewedAt": "2026-11-01T03:58:21.796Z",
           "articleSlug": "tetherq3"
+        },
+        "5cc69083e939e9727632": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read the full CryptoSlate Nov. 1 article. It is market analysis of derivatives open interest, funding rates and the Oct. 30 $643M ETF outflow tally, framed as a demand test ahead of the Nov. 6 jobs report. The data points it cites (Block Scholes liquidations, Coinalyze open interest, Farside outflows) serve forward-looking analysis rather than reporting a discrete launch, vote, ruling, filing, hack, raise or upgrade. Price and positioning chatter is out of scope.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/bitcoins-recovery-faces-rising-derivatives-exposure-and-643-million-in-etf-outflows/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-01T04:01:08.483Z"
+        },
+        "2f4d5f80180695daba38": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Retried the CoinDesk Oct. 31 markets story on Nov. 1 with the readiness User-Agent; it still returns HTTP 429. The piece compares the stolen bitcoin haul to Tesla and El Salvador holdings, so its concrete figures need a readable copy before any review can judge scope.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-01T04:01:08.483Z",
+          "retrySearches": [
+            "Find a readable copy or independent restatement of the CoinDesk comparison of Binance-hack stolen bitcoin against Tesla and El Salvador holdings, with the underlying BTC amounts"
+          ]
+        },
+        "a084f31192741f001eff": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Retried the CoinDesk Oct. 30 proof-of-reserves story on Nov. 1 with the readiness User-Agent; it still returns HTTP 429. A search found two readable-looking restatements of CoinDesk's reserve-wallet analysis (cryptonews.gg and news.finst.com) that carry the 204,500 ETH, 100-to-94 percent ETH backing and Oct. 1 Binance 14 snapshot figures, but neither has been opened yet and both attribute the findings to CoinDesk rather than restating independent analysis. Binance's own Nov. 2 reserve snapshot remains the primary check on whether the backing was restored.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-01T04:01:08.483Z",
+          "retrySearches": [
+            "Open and read cryptonews.gg/article/tech/binance-hack-hit-the-same-wallets-it-uses-to-prove-reserves and news.finst.com/en/articles/binance-hack-hits-reserve-wallets-and-weighs-on-eth-backing, decide whether the two separate-site restatements suffice alongside the primary reserve data, and check Binance's Nov. 2 proof-of-reserves snapshot for the restored backing"
+          ]
+        },
+        "b3b596fab6fff05dacfb": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Retried the CoinDesk Oct. 30 tech story on Nov. 1 with the readiness User-Agent; it still returns HTTP 429. Decrypt 382285, re-read today, confirms the attacker used EIP-7702 to turn a Binance hot wallet into a sweeper with 50 pre-signed authorizations, but it does not carry CoinDesk's unique $2.5-billion-in-under-four-minutes figure, the 18,914,775-to-18,914,824 nonce range, or the near-four-hour delegation window.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-01T04:01:08.483Z",
+          "retrySearches": [
+            "Find readable independent technical reporting on the EIP-7702 delegation that drained about $2.5 billion from Binance 14 in under four minutes, including the 50-authorization nonce-range mechanism, beyond CoinDesk"
+          ]
         }
       },
       "baselineSlugs": [
