@@ -6438,5 +6438,122 @@
     "slotKey": "2026-10-31:evening",
     "messageId": 156029,
     "sentAt": "2026-10-31T19:33:12.427Z"
+  },
+  "99a60755-ffc2-4172-b0b9-746f0a71b227": {
+    "status": "reserved",
+    "reservedAt": "2026-11-01T03:32:48.052Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "df6c8c7a-e8ee-4a40-9161-c15e5ff5a236",
+          "title": "Sales Director, p(X)",
+          "company": "Talos",
+          "link": "https://jobs.ashbyhq.com/Talos-Trading/df6c8c7a-e8ee-4a40-9161-c15e5ff5a236",
+          "date": "2026-10-09T13:54:13.049+00:00",
+          "source": "Ashby: Talos [Talos-Trading]",
+          "location": "Hybrid (New York)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "PX",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls260"
+        },
+        "key": "df6c8c7a-e8ee-4a40-9161-c15e5ff5a236",
+        "slug": "sls260",
+        "url": "https://hashtagweb3.com/sls260?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Talos",
+        "title": "Sales Director"
+      },
+      {
+        "snapshot": {
+          "id": "c03ba2a8-1ec4-4f32-b4e7-628b521109de",
+          "title": "Lead Product Manager Crypto Custody - Open to remote",
+          "company": "Bitvavo",
+          "link": "https://jobs.ashbyhq.com/bitvavo/c03ba2a8-1ec4-4f32-b4e7-628b521109de",
+          "date": "2026-10-14T08:39:48.101+00:00",
+          "source": "Ashby: Bitvavo [bitvavo]",
+          "location": "Remote (Headquarters)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm126"
+        },
+        "key": "c03ba2a8-1ec4-4f32-b4e7-628b521109de",
+        "slug": "pm126",
+        "url": "https://hashtagweb3.com/pm126?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitvavo",
+        "title": "Lead Product Manager Crypto Custody"
+      },
+      {
+        "snapshot": {
+          "id": "d45f07a8-a506-4e54-8640-23ad76cc9a2e",
+          "title": "Applied Researcher - Ecosystem & Product",
+          "company": "Prime Intellect",
+          "link": "https://jobs.ashbyhq.com/primeintellect/d45f07a8-a506-4e54-8640-23ad76cc9a2e",
+          "date": "2026-10-19T15:29:07.133+00:00",
+          "source": "Ashby: Prime Intellect [primeintellect]",
+          "location": "San Francisco",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Applied Research",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm316"
+        },
+        "key": "d45f07a8-a506-4e54-8640-23ad76cc9a2e",
+        "slug": "pm316",
+        "url": "https://hashtagweb3.com/pm316?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Prime Intellect",
+        "title": "Applied Researcher"
+      },
+      {
+        "snapshot": {
+          "id": "8032296003",
+          "title": "Ad Creative Strategist (AIGC Creative Producer)",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8032296003",
+          "date": "2026-10-13T23:53:19-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Hong Kong",
+          "department": "Product Management",
+          "active": true,
+          "dateVerified": true,
+          "slug": "acsc2"
+        },
+        "key": "8032296003",
+        "slug": "acsc2",
+        "url": "https://hashtagweb3.com/acsc2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Ad Creative Strategist"
+      },
+      {
+        "snapshot": {
+          "id": "a1e06a71-49c8-4d89-b4d7-1dfd2f3d1afc",
+          "title": "M&A Analyst",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/a1e06a71-49c8-4d89-b4d7-1dfd2f3d1afc",
+          "date": "2026-10-26T08:04:16.510Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (Taipei)",
+          "workplaceType": "hybrid",
+          "department": "Corporate",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an107"
+        },
+        "key": "a1e06a71-49c8-4d89-b4d7-1dfd2f3d1afc",
+        "slug": "an107",
+        "url": "https://hashtagweb3.com/an107?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "M&A Analyst"
+      }
+    ],
+    "message": "- Talos is hiring <a href=\"https://hashtagweb3.com/sls260?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Director, p(X)</a>\n- Bitvavo is hiring <a href=\"https://hashtagweb3.com/pm126?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Lead Product Manager Crypto Custody - Open to remote</a>\n- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/pm316?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Applied Researcher - Ecosystem &amp; Product</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/acsc2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Ad Creative Strategist (AIGC Creative Producer)</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/an107?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">M&amp;A Analyst</a>",
+    "slotKey": "2026-11-01:morning"
   }
 }
