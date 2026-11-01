@@ -87567,6 +87567,34 @@
       "attemptId": "86e5a567-9db2-4a1f-b742-c490b50e94b9",
       "verification": "verified",
       "postId": "urn:li:share:7522622669721088000"
+    },
+    {
+      "slug": "aso68",
+      "company": "Flow Traders",
+      "title": "Executive Assistant",
+      "platform": "facebook",
+      "postedAt": "2026-11-01T11:33:14.670Z",
+      "expectedText": "Flow Traders is hiring Executive Assistant: https://hashtagweb3.com/aso68/fb?og=7",
+      "snapshot": {
+        "id": "8305700",
+        "title": "Executive Assistant",
+        "company": "Flow Traders",
+        "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8305700",
+        "date": "2026-10-21T08:12:55-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Flow Traders [flowtraders]",
+        "location": "Amsterdam",
+        "department": "Management Support",
+        "active": true,
+        "dateVerified": true,
+        "slug": "aso68"
+      },
+      "payload": {
+        "message": "Flow Traders is hiring Executive Assistant: https://hashtagweb3.com/aso68/fb?og=7",
+        "link": "https://hashtagweb3.com/aso68/fb?og=7"
+      },
+      "attemptId": "23d0e283-ec96-4e0b-8021-e908c7d4dfb6",
+      "verification": "creating"
     }
   ]
 }
