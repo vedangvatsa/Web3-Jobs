@@ -253,7 +253,8 @@
     "sec123",
     "mgr110",
     "eng592",
-    "eng303"
+    "eng303",
+    "rc4"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -337,8 +338,7 @@
     "an108",
     "sls248",
     "scda",
-    "bces5",
-    "rc4"
+    "bces5"
   ],
   "history": [
     {
