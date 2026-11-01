@@ -4206,5 +4206,50 @@
     "slotKey": "2026-10-31:evening",
     "messageId": 156028,
     "sentAt": "2026-10-31T19:32:47.243Z"
+  },
+  "dca3b7ef-abc6-4bfb-b1c8-cd61b4aafb4f": {
+    "status": "reserved",
+    "reservedAt": "2026-11-01T03:32:16.237Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-j5zx9SCRDt33PMF",
+        "slug": "wall-stree",
+        "name": "From Wall Street to Onchain Vaults: The Convergence of TradFi & Web3",
+        "startDate": "2026-11-03T08:30:00.000Z",
+        "keys": [
+          "luma-crypto-j5zx9scrdt33pmf",
+          "page:wall-stree:2026-11-03",
+          "luma-url:/a50t224y",
+          "event:fromwallstreettoonchainvaultstheconvergenceoftradfiweb3:2026-11-03:hong kong"
+        ]
+      },
+      {
+        "id": "luma-crypto-oQcOIMrOq4peYHS",
+        "slug": "crypto-fus",
+        "name": "Crypto Fusion Night III: Value in Motion",
+        "startDate": "2026-11-03T11:00:00.000Z",
+        "keys": [
+          "luma-crypto-oqcoimroq4peyhs",
+          "page:crypto-fus:2026-11-03",
+          "luma-url:/uw3c7i3q",
+          "event:cryptofusionnightiiivalueinmotion:2026-11-03:hong kong"
+        ]
+      },
+      {
+        "id": "luma-crypto-GzYKMUT6x1P1iIp",
+        "slug": "solana-vir",
+        "name": "Solana Virtual Golf",
+        "startDate": "2026-11-03T15:00:00.000Z",
+        "keys": [
+          "luma-crypto-gzykmut6x1p1iip",
+          "page:solana-vir:2026-11-03",
+          "luma-url:/solanavirtualgolf",
+          "event:solanavirtualgolf:2026-11-03:dubai"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-01:morning"
   }
 }
