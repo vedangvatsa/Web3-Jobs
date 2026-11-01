@@ -88606,7 +88606,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "41b4d2aa-c242-4e4c-a6d8-a1aeb7ddd249",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf91411bc7d4b66f1f5f74e01bd4b12b904ad7f38"
     }
   ]
 }
