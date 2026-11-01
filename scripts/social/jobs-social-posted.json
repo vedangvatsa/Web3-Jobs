@@ -88571,7 +88571,8 @@
       },
       "account": "profile",
       "attemptId": "c9cf1919-05e9-45fb-9f74-2069f5d27682",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x56d4040f74a65874b2a23853201c11d4f0a9c7e4"
     }
   ]
 }
