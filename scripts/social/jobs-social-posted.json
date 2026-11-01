@@ -88853,6 +88853,40 @@
       "attemptId": "f2622732-743f-4ac4-852b-59309b774505",
       "verification": "verified",
       "postId": "0x01115613d810fd5bc4b690fb1eef51eb8e5b8a0c"
+    },
+    {
+      "slug": "sls330",
+      "company": "Bybit",
+      "title": "Business Development Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-11-01T19:33:58.567Z",
+      "expectedText": "Bybit is hiring Business Development Specialist\n\nhttps://hashtagweb3.com/sls330/fc?og=7",
+      "snapshot": {
+        "id": "5016223101",
+        "title": "Business Development Specialist",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5016223101",
+        "date": "2026-10-26T09:51:35-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "LATAM - Remote",
+        "department": "Payment Business Unit",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls330"
+      },
+      "payload": {
+        "text": "Bybit is hiring Business Development Specialist\n\nhttps://hashtagweb3.com/sls330/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls330/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "26bb66d4-3038-4390-be74-1c196b158b6c",
+      "verification": "creating"
     }
   ]
 }
