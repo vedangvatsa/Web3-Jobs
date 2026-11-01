@@ -2819,5 +2819,38 @@
     "slotKey": "2026-11-01:morning",
     "messageId": 193434,
     "sentAt": "2026-11-01T03:35:23.447Z"
+  },
+  "8655a65e-d864-4726-ab07-a326a2234ac8": {
+    "status": "reserved",
+    "reservedAt": "2026-11-01T11:33:52.600Z",
+    "stories": [
+      {
+        "index": 2,
+        "original_title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+        "headline": "Anthropic faces potential junk credit rating following IPO",
+        "summary": "Financial analysts predict high borrowing costs for the AI firm as infrastructure spending outpaces projected revenue.",
+        "event_rationale": "This covers financial market credit forecasts for Anthropic, distinct from corporate risk filings and robotics trade policy.",
+        "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+        "source": "TechCrunch",
+        "originalTitle": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says"
+      },
+      {
+        "index": 1,
+        "headline": "TechCrunch Founder Summit takes place November 4 in Boston",
+        "summary": "Attendees can access networking and business advice at the SoWa Power Station before ticket prices rise.",
+        "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+        "source": "TechCrunch",
+        "originalTitle": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale"
+      },
+      {
+        "index": 3,
+        "headline": "Zest launches text-based AI tool for restaurant reservations",
+        "summary": "The assistant aggregates group dining preferences, conducts votes on choices, and automatically books selected tables via text.",
+        "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+        "source": "TechCrunch",
+        "originalTitle": "Zest’s new AI agent finds restaurants and books reservations over text"
+      }
+    ],
+    "slotKey": "2026-11-01:afternoon"
   }
 }
