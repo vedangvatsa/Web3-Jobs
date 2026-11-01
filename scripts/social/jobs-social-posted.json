@@ -86086,7 +86086,8 @@
       },
       "account": "channel:web3",
       "attemptId": "167877ff-0639-40d6-ada8-cc89785dcd4f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x52f36991ca08ee937ea8bd91105ab94baa34ab75"
     }
   ]
 }
