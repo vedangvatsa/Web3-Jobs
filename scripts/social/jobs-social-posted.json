@@ -86194,7 +86194,8 @@
       },
       "account": "channel:dev",
       "attemptId": "0cf6ff31-57d8-44a8-a573-5b829ffb6221",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xaf2fd45b919e9fde35d2d7791665c95e3eec860f"
     }
   ]
 }
