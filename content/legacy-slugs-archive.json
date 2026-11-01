@@ -151905,5 +151905,173 @@
     "link": "https://jobs.ashbyhq.com/chainalysis-careers/0e7f0f5f-0a3f-4e37-9428-5aa259a22a72",
     "title": "Deployment Strategist - Crypto Investigations",
     "company": "Chainalysis"
+  },
+  "dev38": {
+    "id": "5461961008",
+    "link": "http://block.xyz/careers/jobs/5461961008?gh_jid=5461961008",
+    "company": "Block",
+    "title": "Senior Software Engineer, Developer Experience"
+  },
+  "sls366": {
+    "id": "8326191",
+    "link": "https://stripe.com/jobs/search?gh_jid=8326191",
+    "company": "Stripe",
+    "title": "Sales Manager, Billing"
+  },
+  "sls201": {
+    "id": "5008253101",
+    "link": "https://job-boards.eu.greenhouse.io/rootstocklabsltd/jobs/5008253101",
+    "company": "RootstockLabs",
+    "title": "Director of Sales"
+  },
+  "mgr124": {
+    "id": "4947534101",
+    "link": "https://job-boards.eu.greenhouse.io/rootstocklabsltd/jobs/4947534101",
+    "company": "RootstockLabs",
+    "title": "Capital Formation Manager (Europe)"
+  },
+  "mgr123": {
+    "id": "4989766101",
+    "link": "https://job-boards.eu.greenhouse.io/rootstocklabsltd/jobs/4989766101",
+    "company": "RootstockLabs",
+    "title": "Capital Formation Manager (LATAM)"
+  },
+  "fc4": {
+    "id": "4963988101",
+    "link": "https://job-boards.eu.greenhouse.io/rootstocklabsltd/jobs/4963988101",
+    "company": "RootstockLabs",
+    "title": "Financial Controller Lead"
+  },
+  "mkt132": {
+    "id": "8016694003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8016694003",
+    "company": "OKX",
+    "title": "Head of Marketing Compliance"
+  },
+  "drm": {
+    "id": "5000634101",
+    "link": "https://job-boards.eu.greenhouse.io/rootstocklabsltd/jobs/5000634101",
+    "company": "RootstockLabs",
+    "title": "Director of Risk Management"
+  },
+  "vfm": {
+    "id": "5000640101",
+    "link": "https://job-boards.eu.greenhouse.io/rootstocklabsltd/jobs/5000640101",
+    "company": "RootstockLabs",
+    "title": "VP Fund Management"
+  },
+  "ko": {
+    "id": "3bc9fcc6-ab9c-4679-a514-e8e8a59a9836",
+    "link": "https://jobs.ashbyhq.com/coinhako/3bc9fcc6-ab9c-4679-a514-e8e8a59a9836",
+    "company": "Coinhako",
+    "title": "KYC Officer"
+  },
+  "mgr132": {
+    "id": "6212198004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6212198004",
+    "company": "Alpaca",
+    "title": "Project Manager"
+  },
+  "mssp": {
+    "id": "8241855",
+    "link": "https://stripe.com/jobs/search?gh_jid=8241855",
+    "company": "Stripe",
+    "title": "Pricing Activation Specialist"
+  },
+  "rec23": {
+    "id": "538EA96252",
+    "link": "https://apply.workable.com/j/538EA96252",
+    "company": "Crypto Finance",
+    "title": "HR Specialist"
+  },
+  "dsp2": {
+    "id": "JR101067",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Staff-Data-Scientist---Payments_JR101067",
+    "company": "Circle",
+    "title": "Staff Data Scientist - Payments"
+  },
+  "eng298": {
+    "id": "JR2001256",
+    "link": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/Hong-Kong/AI-Forward-Deployed-Engineer_JR2001256",
+    "company": "CoinDesk",
+    "title": "AI Forward Deployed Engineer"
+  },
+  "int31": {
+    "id": "JR101607",
+    "link": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Geneva/XMLNAME-2027-Summer-Internship-Program---Trading--Geneva_JR101607",
+    "company": "Brevan Howard",
+    "title": "2027 Summer Internship Program – Geneva"
+  },
+  "an63": {
+    "id": "3a3ce52f-6949-451e-95f8-9e98019d7686",
+    "link": "https://jobs.ashbyhq.com/trm-labs/3a3ce52f-6949-451e-95f8-9e98019d7686",
+    "company": "TRM Labs",
+    "title": "Cyber Threat Intelligence Analyst, Scams (DC, MD, VA only)"
+  },
+  "mgr131": {
+    "id": "8248207",
+    "link": "https://stripe.com/jobs/search?gh_jid=8248207",
+    "company": "Stripe",
+    "title": "Integrated Campaigns Manager"
+  },
+  "cmp79": {
+    "id": "bac102fd-d1b5-4c6c-9259-edb48a3ff62f",
+    "link": "https://jobs.ashbyhq.com/lightspark/bac102fd-d1b5-4c6c-9259-edb48a3ff62f",
+    "company": "Lightspark",
+    "title": "Compliance Program Manager"
+  },
+  "cmp78": {
+    "id": "8008742003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8008742003",
+    "company": "OKX",
+    "title": "Head of Compliance, LATAM"
+  },
+  "qa76": {
+    "id": "1fe97e43-5b1d-4b48-970f-a9dfb64132cb",
+    "link": "https://jobs.ashbyhq.com/kalshi/1fe97e43-5b1d-4b48-970f-a9dfb64132cb",
+    "company": "Kalshi",
+    "title": "Media Buyer - Creative Testing & Optimization"
+  },
+  "sec81": {
+    "id": "5427789008",
+    "link": "http://block.xyz/careers/jobs/5427789008?gh_jid=5427789008",
+    "company": "Block",
+    "title": "Security Engineer, Business Continuity & Risk"
+  },
+  "an61": {
+    "id": "39efd8aa-7d91-46e9-94a9-e16aaf8a8f0e",
+    "link": "https://jobs.ashbyhq.com/trm-labs/39efd8aa-7d91-46e9-94a9-e16aaf8a8f0e",
+    "company": "TRM Labs",
+    "title": "Senior / Staff Intelligence Analyst, Environmental Crimes"
+  },
+  "dev25": {
+    "id": "4732225005",
+    "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4732225005",
+    "company": "DV Trading",
+    "title": "Risk Developer"
+  },
+  "dev7": {
+    "id": "4732145005",
+    "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4732145005",
+    "company": "DV Trading",
+    "title": "Risk Developer"
+  },
+  "sec79": {
+    "id": "9baef3fe-045c-4ba0-ba17-05257111505c",
+    "link": "https://jobs.ashbyhq.com/trm-labs/9baef3fe-045c-4ba0-ba17-05257111505c",
+    "company": "TRM Labs",
+    "title": "Product Security Engineer, Senior"
+  },
+  "pm208": {
+    "id": "8247881",
+    "link": "https://www.coinbase.com/careers/positions/8247881?gh_jid=8247881",
+    "company": "Coinbase",
+    "title": "Group Product Manager, Customer Engagement & Experience"
+  },
+  "im": {
+    "id": "163582cd-927f-437d-a1e1-0b58d8982c42",
+    "link": "https://jobs.ashbyhq.com/Polymarket/163582cd-927f-437d-a1e1-0b58d8982c42",
+    "company": "Polymarket",
+    "title": "Incubation Management Lead"
   }
 }

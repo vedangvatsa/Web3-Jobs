@@ -1,5 +1,34 @@
 [
   {
+    "id": "318e7138-151e-4ed2-8b85-a017d234ef12",
+    "title": "Manager, Mid-Market Solutions Consulting",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/318e7138-151e-4ed2-8b85-a017d234ef12",
+    "date": "2026-10-31T19:31:59.653+00:00",
+    "source": "Ashby: Ramp [ramp]",
+    "location": "Hybrid (New York, NY (HQ))",
+    "isRemote": true,
+    "workplaceType": "Hybrid",
+    "department": "Sales",
+    "active": true,
+    "slug": "mgr123",
+    "dateVerified": true
+  },
+  {
+    "id": "8334761",
+    "title": "Customer Success Team Agent II",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8334761?gh_jid=8334761",
+    "date": "2026-10-31T13:54:26-04:00",
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Coinbase [coinbase]",
+    "location": "Remote - USA",
+    "department": "Customer Experience",
+    "active": true,
+    "slug": "csta",
+    "dateVerified": true
+  },
+  {
     "id": "8047150",
     "title": "Staff Analytics Engineer",
     "company": "Coinbase",
@@ -11,8 +40,8 @@
     "department": "Engineering - Data",
     "active": true,
     "salary": "$207.5k – $244.1k/yr",
-    "slug": "eng689",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng689"
   },
   {
     "id": "8112753003",
@@ -26,8 +55,8 @@
     "department": "Strategic Markets",
     "active": true,
     "salary": "$107.0k – $160.5k/yr",
-    "slug": "mgr221",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mgr221"
   },
   {
     "id": "8919490002",
@@ -41,8 +70,8 @@
     "department": "Product",
     "active": true,
     "salary": "$131.4k – $197.1k/yr",
-    "slug": "eng688",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng688"
   },
   {
     "id": "8046730003",
@@ -55,8 +84,8 @@
     "location": "New York, NY",
     "department": "Crypto",
     "active": true,
-    "slug": "int51",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "int51"
   },
   {
     "id": "9e4b9f32-a4f6-47e6-89f1-8b8d4ebc7892",
@@ -70,8 +99,8 @@
     "workplaceType": "Hybrid",
     "department": "GTM",
     "active": true,
-    "slug": "sls381",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls381"
   },
   {
     "id": "398a73d4-e10f-491f-884e-4ab0b5560bc6",
@@ -85,8 +114,8 @@
     "workplaceType": "Hybrid",
     "department": "Sales",
     "active": true,
-    "slug": "mgr220",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mgr220"
   },
   {
     "id": "8338076",
@@ -100,8 +129,8 @@
     "department": "Finance & Accounting",
     "active": true,
     "salary": "$166.3k – $195.7k/yr",
-    "slug": "mgr219",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mgr219"
   },
   {
     "id": "5468839008",
@@ -114,8 +143,8 @@
     "location": "Singapore",
     "department": "Go To Market ",
     "active": true,
-    "slug": "sls380",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls380"
   },
   {
     "id": "bd4f73d1-08b5-410a-9c7a-34a2f65ac45a",
@@ -129,8 +158,8 @@
     "workplaceType": "Remote",
     "department": "Technology",
     "active": true,
-    "slug": "eng687",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng687"
   },
   {
     "id": "6737cb1d-d03b-406c-9d13-70546fc0504d",
@@ -144,8 +173,8 @@
     "workplaceType": null,
     "department": "General",
     "active": true,
-    "slug": "sec138",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sec138"
   },
   {
     "id": "8327254",
@@ -158,8 +187,22 @@
     "location": "Toronto, Canada",
     "department": "8258 Terminal - PM",
     "active": true,
-    "slug": "pm354",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm354"
+  },
+  {
+    "id": "8337782",
+    "title": "Customer Support Specialist ll",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8337782?gh_jid=8337782",
+    "date": "2026-10-30T16:03:24-04:00",
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Coinbase [coinbase]",
+    "location": "Manila, Philippines",
+    "department": "Customer Experience",
+    "active": true,
+    "dateVerified": true,
+    "slug": "cssl3"
   },
   {
     "id": "8335575",
@@ -173,8 +216,8 @@
     "department": "HR & Recruiting",
     "active": true,
     "salary": "$185.9k – $195.7k/yr",
-    "slug": "ops133",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "ops133"
   },
   {
     "id": "1a848261-5b5b-414b-9771-0dad2d45300c",
@@ -188,8 +231,8 @@
     "workplaceType": "Remote",
     "department": "Partnerships",
     "active": true,
-    "slug": "mgr218",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mgr218"
   },
   {
     "id": "f0b10b18-91a7-4348-bbb9-0c2ef697611f",
@@ -203,8 +246,8 @@
     "workplaceType": "Remote",
     "department": "Partnerships",
     "active": true,
-    "slug": "mgr217",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mgr217"
   },
   {
     "id": "aa0c645d-7aa0-40b0-bdfa-9b3fb19da404",
@@ -218,8 +261,8 @@
     "workplaceType": "Hybrid",
     "department": "Sales",
     "active": true,
-    "slug": "sls379",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls379"
   },
   {
     "id": "a0a26a90-7c9a-4a45-a042-ae646911930a",
@@ -233,8 +276,8 @@
     "workplaceType": "Hybrid",
     "department": "Sales",
     "active": true,
-    "slug": "mgr216",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mgr216"
   },
   {
     "id": "8337715",
@@ -248,8 +291,8 @@
     "department": "Engineering",
     "active": true,
     "salary": "$191.1k/yr",
-    "slug": "eng686",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng686"
   },
   {
     "id": "4474003009",
@@ -263,8 +306,8 @@
     "department": "Sales",
     "active": true,
     "salary": "$77k – $125k/yr",
-    "slug": "sls378",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls378"
   },
   {
     "id": "8108181003",
@@ -277,8 +320,8 @@
     "location": "Singapore",
     "department": "Engineering",
     "active": true,
-    "slug": "infra58",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "infra58"
   },
   {
     "id": "8107996003",
@@ -291,8 +334,8 @@
     "location": "Hong Kong",
     "department": "Engineering",
     "active": true,
-    "slug": "infra57",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "infra57"
   },
   {
     "id": "260f0e0c-a600-4108-9293-cc6e574847ee",
@@ -306,8 +349,8 @@
     "workplaceType": "Remote",
     "department": "Marketing",
     "active": true,
-    "slug": "mkt135",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mkt135"
   },
   {
     "id": "efbb65e5-0878-4435-94fd-314f02eec83e",
@@ -321,8 +364,8 @@
     "workplaceType": "OnSite",
     "department": "Finance",
     "active": true,
-    "slug": "vf",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "vf"
   },
   {
     "id": "8328118",
@@ -335,8 +378,8 @@
     "location": "Remote - US",
     "department": "6220 Executive Operations",
     "active": true,
-    "slug": "abpc",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "abpc"
   },
   {
     "id": "5f478541-124e-4a56-b85c-72ea3567511b",
@@ -349,8 +392,8 @@
     "workplaceType": "remote",
     "department": "Operations",
     "active": true,
-    "slug": "mgr215",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mgr215"
   },
   {
     "id": "b0a754b7-ce1b-4549-ab73-bd289a2ba527",
@@ -364,8 +407,8 @@
     "workplaceType": "Hybrid",
     "department": "Customer Office",
     "active": true,
-    "slug": "mgr214",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mgr214"
   },
   {
     "id": "d8012425-f007-43db-b48d-3b456812f940",
@@ -379,8 +422,8 @@
     "workplaceType": "Remote",
     "department": "Compliance",
     "active": true,
-    "slug": "cmp145",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "cmp145"
   },
   {
     "id": "2c02fbc3-5c48-4896-8f2c-a22a70e71c5d",
@@ -394,8 +437,8 @@
     "workplaceType": "Remote",
     "department": "Compliance",
     "active": true,
-    "slug": "cmp144",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "cmp144"
   },
   {
     "id": "8335758",
@@ -408,8 +451,8 @@
     "location": "Remote (US)",
     "department": "6320 Commercial Legal",
     "active": true,
-    "slug": "ccb",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "ccb"
   },
   {
     "id": "5f4fdc58-82be-4e28-95ec-b3b04211cf01",
@@ -423,8 +466,8 @@
     "workplaceType": "Remote",
     "department": "Sales",
     "active": true,
-    "slug": "mkt134",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mkt134"
   },
   {
     "id": "8328662",
@@ -437,8 +480,8 @@
     "location": "San Francisco, New York City, Seattle",
     "department": "5112 General University",
     "active": true,
-    "slug": "eng685",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng685"
   },
   {
     "id": "8333074",
@@ -451,8 +494,8 @@
     "location": "San Francisco, New York City, Seattle",
     "department": "5112 General University",
     "active": true,
-    "slug": "eng683",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng683"
   },
   {
     "id": "8328664",
@@ -465,8 +508,8 @@
     "location": "Toronto",
     "department": "5112 General University",
     "active": true,
-    "slug": "eng593",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng593"
   },
   {
     "id": "8333122",
@@ -479,8 +522,8 @@
     "location": "Toronto",
     "department": "5112 General University",
     "active": true,
-    "slug": "eng592",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng592"
   },
   {
     "id": "8330131",
@@ -493,8 +536,8 @@
     "location": "N/A",
     "department": "8121 Commerce Systems",
     "active": true,
-    "slug": "eng590",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng590"
   },
   {
     "id": "bca280c9-b272-49f6-aa14-67f29bf5a6aa",
@@ -508,8 +551,8 @@
     "workplaceType": "Hybrid",
     "department": "Data",
     "active": true,
-    "slug": "gd",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "gd"
   },
   {
     "id": "6238377004",
@@ -523,8 +566,8 @@
     "department": "Marketing & PR",
     "active": true,
     "salary": "$120k – $150k/yr",
-    "slug": "aso77",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "aso77"
   },
   {
     "id": "8336982",
@@ -537,8 +580,8 @@
     "location": "New York",
     "department": "Marketing & Communications",
     "active": true,
-    "slug": "pm353",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm353"
   },
   {
     "id": "0f752c3b-418d-43e8-91d3-658d08b5b2c6",
@@ -552,8 +595,8 @@
     "workplaceType": "OnSite",
     "department": "Exchange",
     "active": true,
-    "slug": "tr137",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "tr137"
   },
   {
     "id": "52117eb8-a8c0-45d5-ad74-fe31a347a15b",
@@ -567,8 +610,8 @@
     "workplaceType": "Remote",
     "department": "Go-To-Market",
     "active": true,
-    "slug": "sls377",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls377"
   },
   {
     "id": "5427619008",
@@ -581,8 +624,8 @@
     "location": "Manchester, United Kingdom",
     "department": "20249 S&M - Sales - Square Field Sales",
     "active": true,
-    "slug": "sls376",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls376"
   },
   {
     "id": "4725490006",
@@ -596,8 +639,8 @@
     "department": "Sales",
     "active": true,
     "salary": "$280k – $390k/yr",
-    "slug": "sls375",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls375"
   },
   {
     "id": "8336819",
@@ -610,8 +653,8 @@
     "location": "Luxembourg",
     "department": "8504 Bridge - R&D",
     "active": true,
-    "slug": "sec80",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sec80"
   },
   {
     "id": "8336514",
@@ -624,8 +667,8 @@
     "location": "London",
     "department": "GD1 Embedded Technology",
     "active": true,
-    "slug": "dev39",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "dev39"
   },
   {
     "id": "ba81abcf-62e1-4840-9051-344d025234a0",
@@ -639,8 +682,8 @@
     "workplaceType": null,
     "department": "Customer Experience",
     "active": true,
-    "slug": "ops132",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "ops132"
   },
   {
     "id": "8330754",
@@ -653,8 +696,8 @@
     "location": "London, UK",
     "department": "Engineering",
     "active": true,
-    "slug": "do24",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "do24"
   },
   {
     "id": "8330752",
@@ -667,8 +710,8 @@
     "location": "Dublin, Ireland",
     "department": "Engineering",
     "active": true,
-    "slug": "do23",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "do23"
   },
   {
     "id": "8248415",
@@ -681,8 +724,8 @@
     "location": "Remote (US)",
     "department": "3710 Startup Product",
     "active": true,
-    "slug": "pm352",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm352"
   },
   {
     "id": "8234710",
@@ -695,8 +738,8 @@
     "location": "Remote US",
     "department": "3710 Startup Product",
     "active": true,
-    "slug": "pm351",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm351"
   },
   {
     "id": "8288690",
@@ -709,8 +752,8 @@
     "location": "Amsterdam",
     "department": "Data",
     "active": true,
-    "slug": "eng588",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng588"
   },
   {
     "id": "8329366",
@@ -723,8 +766,8 @@
     "location": "EMEA - Remote",
     "department": "Corporate",
     "active": true,
-    "slug": "ops118",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "ops118"
   },
   {
     "id": "5022514101",
@@ -737,8 +780,8 @@
     "location": "Singapore",
     "department": "STX - Product",
     "active": true,
-    "slug": "pm350",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm350"
   },
   {
     "id": "5017286101",
@@ -751,8 +794,8 @@
     "location": "Jakarta, Indonesia",
     "department": "STX - Product",
     "active": true,
-    "slug": "pm349",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm349"
   },
   {
     "id": "8289414",
@@ -765,8 +808,8 @@
     "location": "Dublin",
     "department": "1180 GEO Sales HQ (EMEA)",
     "active": true,
-    "slug": "sls374",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls374"
   },
   {
     "id": "8334161",
@@ -780,8 +823,8 @@
     "department": "Customer Experience",
     "active": true,
     "salary": "₹8.6 L/yr",
-    "slug": "an117",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "an117"
   },
   {
     "id": "8318694",
@@ -794,8 +837,8 @@
     "location": "London",
     "department": "1180 GEO Sales HQ (EMEA)",
     "active": true,
-    "slug": "sls373",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls373"
   },
   {
     "id": "5017325101",
@@ -808,22 +851,8 @@
     "location": "Jakarta, Indonesia",
     "department": "STX - Finance",
     "active": true,
-    "slug": "ops78",
-    "dateVerified": true
-  },
-  {
-    "id": "8334228",
-    "title": "Customer Support Specialist ll",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8334228?gh_jid=8334228",
-    "date": "2026-10-30T06:55:30-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Coinbase [coinbase]",
-    "location": "Manila, Philippines",
-    "department": "Customer Experience",
-    "active": true,
-    "slug": "cssl2",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "ops78"
   },
   {
     "id": "8265389",
@@ -836,8 +865,8 @@
     "location": "Barcelona",
     "department": "8113 Brand Studio",
     "active": true,
-    "slug": "des6",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "des6"
   },
   {
     "id": "8283786",
@@ -850,8 +879,8 @@
     "location": "US Remote",
     "department": "2315 Marketing - Marketing Operations",
     "active": true,
-    "slug": "mkt133",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mkt133"
   },
   {
     "id": "8330815",
@@ -864,8 +893,8 @@
     "location": "Sydney Or Melbourne",
     "department": "1195 Account Executives (APAC)",
     "active": true,
-    "slug": "sls372",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls372"
   },
   {
     "id": "8336023",
@@ -878,8 +907,8 @@
     "location": "Sydney Or Melbourne",
     "department": "1195 Account Executives (APAC)",
     "active": true,
-    "slug": "sls318",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls318"
   },
   {
     "id": "8093059003",
@@ -1023,8 +1052,8 @@
       "Crypto Finance AG"
     ],
     "active": true,
-    "slug": "qa96",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "qa96"
   },
   {
     "id": "53E906C9F0",
@@ -1039,8 +1068,8 @@
       "Crypto Finance AG"
     ],
     "active": true,
-    "slug": "mgr213",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mgr213"
   },
   {
     "id": "F9B5CD37E4",
@@ -1052,8 +1081,8 @@
     "location": "Jakarta, Indonesia",
     "department": "Product Manager",
     "active": true,
-    "slug": "pm348",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm348"
   },
   {
     "id": "JR101650",
@@ -1064,8 +1093,8 @@
     "source": "Workday: Brevan Howard [BH_ExternalCareers]",
     "location": "Israel",
     "active": true,
-    "slug": "int50",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "int50"
   },
   {
     "id": "8331714",
@@ -1196,21 +1225,6 @@
     "active": true,
     "dateVerified": true,
     "slug": "mgr107"
-  },
-  {
-    "id": "5461961008",
-    "title": "Senior Software Engineer, Developer Experience",
-    "company": "Block",
-    "link": "http://block.xyz/careers/jobs/5461961008?gh_jid=5461961008",
-    "date": "2026-10-29T16:54:13-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Block [block]",
-    "location": "Bay Area, CA, United States of America",
-    "department": "10410 Engineering - Developer Experience",
-    "active": true,
-    "salary": "$217.8k – $326.8k/yr",
-    "dateVerified": true,
-    "slug": "dev38"
   },
   {
     "id": "8289327",
@@ -1388,18 +1402,18 @@
     "location": "Not specified"
   },
   {
-    "id": "8326191",
+    "id": "8326189",
     "title": "Sales Manager, Billing",
     "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8326191",
-    "date": "2026-10-29T15:28:22-04:00",
+    "link": "https://stripe.com/jobs/search?gh_jid=8326189",
+    "date": "2026-10-29T15:28:26-04:00",
     "dateSource": "Greenhouse.first_published",
     "source": "Greenhouse: Stripe [stripe]",
     "location": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US",
-    "department": "1643 Product Sales - Billing",
+    "department": "1641 Product Sales - RFA ex Billing",
     "active": true,
     "dateVerified": true,
-    "slug": "sls366"
+    "slug": "sls203"
   },
   {
     "id": "dd612889-7e10-4f9a-bcb0-fae2ec26ed66",
@@ -1694,21 +1708,6 @@
     "slug": "an115"
   },
   {
-    "id": "8333981",
-    "title": "Customer Support Specialist II",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8333981?gh_jid=8333981",
-    "date": "2026-10-29T10:58:36-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Coinbase [coinbase]",
-    "location": "Hyderabad, India",
-    "department": "Customer Experience",
-    "active": true,
-    "salary": "₹7 L/yr",
-    "dateVerified": true,
-    "slug": "css2"
-  },
-  {
     "id": "8286685",
     "title": "Account Executive, SMB Grower (DACH)",
     "company": "Stripe",
@@ -1733,8 +1732,8 @@
     "location": "Amsterdam",
     "department": "Data",
     "active": true,
-    "slug": "an116",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "an116"
   },
   {
     "id": "8203201",
@@ -1881,6 +1880,21 @@
     "active": true,
     "dateVerified": true,
     "slug": "sec72"
+  },
+  {
+    "id": "8333273",
+    "title": "Customer Support Specialist II",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8333273?gh_jid=8333273",
+    "date": "2026-10-29T07:39:06-04:00",
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Coinbase [coinbase]",
+    "location": "Hyderabad, India",
+    "department": "Customer Experience",
+    "active": true,
+    "salary": "₹7 L/yr",
+    "dateVerified": true,
+    "slug": "css3"
   },
   {
     "id": "4eedfc5b-c5a3-4800-be41-d0ed14f6d86f",
@@ -2066,20 +2080,6 @@
     "active": true,
     "dateVerified": true,
     "slug": "pm244"
-  },
-  {
-    "id": "8066179003",
-    "title": "Head of Tax Information Reporting",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/8066179003",
-    "date": "2026-10-29T03:19:19-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: OKX [okx]",
-    "location": "EMEA (Remote)",
-    "department": "Compliance",
-    "active": true,
-    "dateVerified": true,
-    "slug": "tir"
   },
   {
     "id": "8333165",
@@ -3493,28 +3493,6 @@
     "slug": "pcac"
   },
   {
-    "id": "cee1769dc482",
-    "title": "Regional Account Executive, GPUaaS (GPU as a Service) Sales",
-    "company": "Bitdeer",
-    "link": "https://bitdeer.breezy.hr/p/cee1769dc482-regional-account-executive-gpuaas-gpu-as-a-service-sales",
-    "date": "2026-10-28",
-    "dateVerified": true,
-    "dateSource": "Breezy.JobPosting.datePosted",
-    "source": "Breezy: Bitdeer [bitdeer]",
-    "location": "San Jose, CA",
-    "isRemote": false,
-    "department": "AI Cloud",
-    "active": true,
-    "dateEvidence": {
-      "url": "https://bitdeer.breezy.hr/p/cee1769dc482-regional-account-executive-gpuaas-gpu-as-a-service-sales",
-      "checkedAt": "2026-10-30T03:42:02.721Z",
-      "bodySha256": "2440e8713e9f1ae623424ad9218bd2d59ae21027a14bc6dbcacff93016e791e3",
-      "provider": "breezy",
-      "datePosted": "2026-10-28"
-    },
-    "slug": "sls189"
-  },
-  {
     "id": "62b347cbd2e2",
     "title": "Regional Account Executive, MaaS (Model as a Service) Sales Junior Middle",
     "company": "Bitdeer",
@@ -3535,6 +3513,28 @@
       "datePosted": "2026-10-28"
     },
     "slug": "sls187"
+  },
+  {
+    "id": "cee1769dc482",
+    "title": "Regional Account Executive, GPUaaS (GPU as a Service) Sales",
+    "company": "Bitdeer",
+    "link": "https://bitdeer.breezy.hr/p/cee1769dc482-regional-account-executive-gpuaas-gpu-as-a-service-sales",
+    "date": "2026-10-28",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "source": "Breezy: Bitdeer [bitdeer]",
+    "location": "San Jose, CA",
+    "isRemote": false,
+    "department": "AI Cloud",
+    "active": true,
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/cee1769dc482-regional-account-executive-gpuaas-gpu-as-a-service-sales",
+      "checkedAt": "2026-10-30T03:42:02.721Z",
+      "bodySha256": "2440e8713e9f1ae623424ad9218bd2d59ae21027a14bc6dbcacff93016e791e3",
+      "provider": "breezy",
+      "datePosted": "2026-10-28"
+    },
+    "slug": "sls189"
   },
   {
     "id": "605451fdfa56",
@@ -3559,28 +3559,6 @@
     "slug": "mgr97"
   },
   {
-    "id": "695e3daf8ca2",
-    "title": "Senior Legal Counsel, Power & Land",
-    "company": "Bitdeer",
-    "link": "https://bitdeer.breezy.hr/p/695e3daf8ca2-senior-legal-counsel-power-land",
-    "date": "2026-10-28",
-    "dateVerified": true,
-    "dateSource": "Breezy.JobPosting.datePosted",
-    "source": "Breezy: Bitdeer [bitdeer]",
-    "location": "Austin, TX",
-    "isRemote": false,
-    "department": "Legal",
-    "active": true,
-    "dateEvidence": {
-      "url": "https://bitdeer.breezy.hr/p/695e3daf8ca2-senior-legal-counsel-power-land",
-      "checkedAt": "2026-10-29T03:36:54.814Z",
-      "bodySha256": "a3f78779028bb48f6c9f518d27cbf2332718a5e915ad51d2f99305e98a180b19",
-      "provider": "breezy",
-      "datePosted": "2026-10-28"
-    },
-    "slug": "cmp132"
-  },
-  {
     "id": "63526b406ecf",
     "title": "Senior Legal Counsel, Litigation & Regulatory Affairs",
     "company": "Bitdeer",
@@ -3601,6 +3579,28 @@
       "datePosted": "2026-10-28"
     },
     "slug": "cmp131"
+  },
+  {
+    "id": "695e3daf8ca2",
+    "title": "Senior Legal Counsel, Power & Land",
+    "company": "Bitdeer",
+    "link": "https://bitdeer.breezy.hr/p/695e3daf8ca2-senior-legal-counsel-power-land",
+    "date": "2026-10-28",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "source": "Breezy: Bitdeer [bitdeer]",
+    "location": "Austin, TX",
+    "isRemote": false,
+    "department": "Legal",
+    "active": true,
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/695e3daf8ca2-senior-legal-counsel-power-land",
+      "checkedAt": "2026-10-29T03:36:54.814Z",
+      "bodySha256": "a3f78779028bb48f6c9f518d27cbf2332718a5e915ad51d2f99305e98a180b19",
+      "provider": "breezy",
+      "datePosted": "2026-10-28"
+    },
+    "slug": "cmp132"
   },
   {
     "id": "JR2001283",
@@ -3844,6 +3844,20 @@
     "active": true,
     "dateVerified": true,
     "slug": "sec97"
+  },
+  {
+    "id": "8046685003",
+    "title": "Head of Tax Information Reporting",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8046685003",
+    "date": "2026-10-27T16:32:34-04:00",
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: OKX [okx]",
+    "location": "EMEA (Remote)",
+    "department": "Compliance",
+    "active": true,
+    "dateVerified": true,
+    "slug": "tir2"
   },
   {
     "id": "e8815463-ee2b-4fb8-bb18-4890866dc61a",
@@ -5749,7 +5763,7 @@
     "link": "https://apply.workable.com/j/2E1DBD4A14",
     "date": "2026-10-26",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
+    "location": "Cairo, Egypt",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -5919,7 +5933,7 @@
     "link": "https://apply.workable.com/j/3DAF98D87C",
     "date": "2026-10-24",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
+    "location": "Bangkok, Thailand",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -6276,6 +6290,21 @@
     "active": true,
     "dateVerified": true,
     "slug": "aso46"
+  },
+  {
+    "id": "5453094008",
+    "title": "Senior Software Engineer, Developer Experience",
+    "company": "Block",
+    "link": "http://block.xyz/careers/jobs/5453094008?gh_jid=5453094008",
+    "date": "2026-10-23T13:33:43-04:00",
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Block [block]",
+    "location": "Bay Area, CA, United States of America",
+    "department": "10410 Engineering - Developer Experience",
+    "active": true,
+    "salary": "$217.8k – $326.8k/yr",
+    "dateVerified": true,
+    "slug": "dev7"
   },
   {
     "id": "5453318008",
@@ -11023,18 +11052,6 @@
     "slug": "rs14"
   },
   {
-    "id": "JR101176",
-    "title": "Senior Director, Business Development, MEA",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/United-Arab-Emirates---remote-first-in-UAE/Senior-Director--Business-Development--MEA_JR101176",
-    "date": "2026-10-19",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "United Arab Emirates - remote first in UAE",
-    "active": true,
-    "dateVerified": true,
-    "slug": "sls303"
-  },
-  {
     "id": "JR101177",
     "title": "Director, Partner Manager, Enterprise, EMEA",
     "company": "Circle",
@@ -11045,6 +11062,18 @@
     "active": true,
     "dateVerified": true,
     "slug": "mgr58"
+  },
+  {
+    "id": "JR101176",
+    "title": "Senior Director, Business Development, MEA",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/United-Arab-Emirates---remote-first-in-UAE/Senior-Director--Business-Development--MEA_JR101176",
+    "date": "2026-10-19",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "United Arab Emirates - remote first in UAE",
+    "active": true,
+    "dateVerified": true,
+    "slug": "sls303"
   },
   {
     "id": "5009500101",
@@ -12068,20 +12097,6 @@
     "slug": "ops107"
   },
   {
-    "id": "5008253101",
-    "title": "Director of Sales",
-    "company": "RootstockLabs",
-    "link": "https://job-boards.eu.greenhouse.io/rootstocklabsltd/jobs/5008253101",
-    "date": "2026-10-16T04:07:01-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: RootstockLabs [rootstocklabsltd]",
-    "location": "Remote",
-    "department": "Partnerships",
-    "active": true,
-    "slug": "sls201",
-    "dateVerified": true
-  },
-  {
     "id": "83c125fb-85fb-41b2-83d2-528d85a66354",
     "title": "Counterparty/Credit Risk Manager",
     "company": "Augustus",
@@ -12227,16 +12242,16 @@
     "slug": "ops19"
   },
   {
-    "id": "JR101174",
-    "title": "Senior Data Scientist",
+    "id": "JR101173",
+    "title": "Senior Data Analyst",
     "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Data-Scientist_JR101174-1",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Data-Analyst_JR101173",
     "date": "2026-10-16",
     "source": "Workday: Circle [circle/Circle]",
     "location": "San Francisco - remote first in US",
     "active": true,
     "dateVerified": true,
-    "slug": "ds18"
+    "slug": "an97"
   },
   {
     "id": "JR101171",
@@ -12251,16 +12266,16 @@
     "slug": "sctm"
   },
   {
-    "id": "JR101173",
-    "title": "Senior Data Analyst",
+    "id": "JR101174",
+    "title": "Senior Data Scientist",
     "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Data-Analyst_JR101173",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Data-Scientist_JR101174-1",
     "date": "2026-10-16",
     "source": "Workday: Circle [circle/Circle]",
     "location": "San Francisco - remote first in US",
     "active": true,
     "dateVerified": true,
-    "slug": "an97"
+    "slug": "ds18"
   },
   {
     "id": "f849cb62e155",
@@ -13004,34 +13019,6 @@
     "active": true,
     "dateVerified": true,
     "slug": "infra46"
-  },
-  {
-    "id": "4947534101",
-    "title": "Capital Formation Manager (Europe)",
-    "company": "RootstockLabs",
-    "link": "https://job-boards.eu.greenhouse.io/rootstocklabsltd/jobs/4947534101",
-    "date": "2026-10-15T08:44:55-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: RootstockLabs [rootstocklabsltd]",
-    "location": "Remote",
-    "department": "Partnerships",
-    "active": true,
-    "slug": "mgr124",
-    "dateVerified": true
-  },
-  {
-    "id": "4989766101",
-    "title": "Capital Formation Manager (LATAM)",
-    "company": "RootstockLabs",
-    "link": "https://job-boards.eu.greenhouse.io/rootstocklabsltd/jobs/4989766101",
-    "date": "2026-10-15T08:37:00-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: RootstockLabs [rootstocklabsltd]",
-    "location": "Remote",
-    "department": "Partnerships",
-    "active": true,
-    "slug": "mgr123",
-    "dateVerified": true
   },
   {
     "id": "e4e52261-16bf-4285-aced-636fa7f6c28d",
@@ -14717,60 +14704,52 @@
     "slug": "mgr183"
   },
   {
-    "id": "62222",
+    "id": "98279576",
     "title": "Internal Tooling Engineer",
-    "company": "Relay",
+    "company": "Uneven Labs",
     "link": "https://careers.kula.ai/relay/62222",
     "date": "2026-10-13T16:47:25.000Z",
+    "source": "https://jobs.archetype.fund/jobs",
     "dateVerified": true,
     "dateSource": "Kula.Job.launch_at",
-    "source": "Kula: Relay [relay]",
-    "location": "Remote (United States, United Kingdom, Germany, France)",
-    "department": "Engineering",
-    "active": true,
-    "slug": "eng691"
+    "slug": "eng691",
+    "location": "Not specified"
   },
   {
-    "id": "62221",
+    "id": "98353349",
     "title": "Full-Stack Engineer (Security)",
-    "company": "Relay",
+    "company": "Uneven Labs",
     "link": "https://careers.kula.ai/relay/62221",
     "date": "2026-10-13T16:46:48.000Z",
+    "source": "https://jobs.archetype.fund/jobs",
     "dateVerified": true,
     "dateSource": "Kula.Job.launch_at",
-    "source": "Kula: Relay [relay]",
-    "location": "Remote (United States, United Kingdom, Germany, France)",
-    "department": "Infrastructure",
-    "active": true,
-    "slug": "sec139"
+    "slug": "sec139",
+    "location": "Not specified"
   },
   {
-    "id": "62220",
+    "id": "97321628",
     "title": "Senior AI Agent Engineer",
-    "company": "Relay",
+    "company": "Uneven Labs",
     "link": "https://careers.kula.ai/relay/62220",
     "date": "2026-10-13T16:46:17.000Z",
+    "source": "https://jobs.archetype.fund/jobs",
     "dateVerified": true,
     "dateSource": "Kula.Job.launch_at",
-    "source": "Kula: Relay [relay]",
-    "location": "Remote",
-    "department": "Engineering",
-    "active": true,
-    "slug": "eng690"
+    "slug": "eng690",
+    "location": "Not specified"
   },
   {
-    "id": "62219",
+    "id": "97321625",
     "title": "Senior Developer Success Engineer",
-    "company": "Relay",
+    "company": "Uneven Labs",
     "link": "https://careers.kula.ai/relay/62219",
     "date": "2026-10-13T16:45:42.000Z",
+    "source": "https://jobs.archetype.fund/jobs",
     "dateVerified": true,
     "dateSource": "Kula.Job.launch_at",
-    "source": "Kula: Relay [relay]",
-    "location": "Remote",
-    "department": "Engineering",
-    "active": true,
-    "slug": "dev40"
+    "slug": "dev40",
+    "location": "Not specified"
   },
   {
     "id": "bac2dbe4-d4c7-4313-be40-1289ebca4a1e",
@@ -15315,23 +15294,11 @@
     "link": "https://apply.workable.com/j/62BEE65E0B",
     "date": "2026-10-13",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
+    "location": "Bangkok, Thailand",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
     "slug": "eng39"
-  },
-  {
-    "id": "JR101166",
-    "title": "Senior Director, Product Finance",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Director--Product-Finance_JR101166",
-    "date": "2026-10-13",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "dateVerified": true,
-    "slug": "pm296"
   },
   {
     "id": "JR101164",
@@ -15344,6 +15311,18 @@
     "active": true,
     "dateVerified": true,
     "slug": "pm295"
+  },
+  {
+    "id": "JR101166",
+    "title": "Senior Director, Product Finance",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Director--Product-Finance_JR101166",
+    "date": "2026-10-13",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "dateVerified": true,
+    "slug": "pm296"
   },
   {
     "id": "dd1b9b44eb8d",
@@ -15950,20 +15929,6 @@
     "active": true,
     "dateVerified": true,
     "slug": "pm293"
-  },
-  {
-    "id": "4963988101",
-    "title": "Financial Controller Lead",
-    "company": "RootstockLabs",
-    "link": "https://job-boards.eu.greenhouse.io/rootstocklabsltd/jobs/4963988101",
-    "date": "2026-10-12T07:46:02-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: RootstockLabs [rootstocklabsltd]",
-    "location": "Remote",
-    "department": "Finance & Legal",
-    "active": true,
-    "slug": "fc4",
-    "dateVerified": true
   },
   {
     "id": "8264005",
@@ -16797,21 +16762,6 @@
     "salary": "$50/hr",
     "dateVerified": true,
     "slug": "rec37"
-  },
-  {
-    "id": "8267736",
-    "title": "Software Engineer",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8267736",
-    "date": "2026-10-09T12:47:42-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Stripe [stripe]",
-    "location": "Seattle, WA",
-    "department": "Global Operations",
-    "active": true,
-    "salary": "$190.4k – $285.6k/yr",
-    "dateVerified": true,
-    "slug": "eng189"
   },
   {
     "id": "8265763",
@@ -17656,13 +17606,26 @@
     "slug": "spso"
   },
   {
+    "id": "C21D47EAFD",
+    "title": "VP, People Business Partner",
+    "company": "Ajaib Crypto",
+    "link": "https://apply.workable.com/j/C21D47EAFD",
+    "date": "2026-10-09",
+    "source": "Workable: Ajaib Crypto [ajaib]",
+    "location": "Jakarta, Indonesia",
+    "department": "People",
+    "active": true,
+    "dateVerified": true,
+    "slug": "vpbp"
+  },
+  {
     "id": "956B29F453",
     "title": "VP of Technical & Executive Hiring",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/956B29F453",
     "date": "2026-10-09",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Bangkok, Thailand",
+    "location": "Jakarta, Indonesia",
     "department": "People",
     "active": true,
     "dateVerified": true,
@@ -17682,29 +17645,16 @@
     "slug": "vpcl"
   },
   {
-    "id": "C21D47EAFD",
-    "title": "VP, People Business Partner",
-    "company": "Ajaib Crypto",
-    "link": "https://apply.workable.com/j/C21D47EAFD",
-    "date": "2026-10-09",
-    "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
-    "department": "People",
-    "active": true,
-    "dateVerified": true,
-    "slug": "vpbp"
-  },
-  {
-    "id": "JR100895",
-    "title": "Manager, Know Your Customer (KYC)",
+    "id": "JR101167",
+    "title": "Partner Development Coordinator",
     "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Manager--Know-Your-Customer_JR100895-1",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Partner-Development-Coordinator_JR101167",
     "date": "2026-10-09",
     "source": "Workday: Circle [circle/Circle]",
     "location": "San Francisco - remote first in US",
     "active": true,
     "dateVerified": true,
-    "slug": "manager483"
+    "slug": "pdc"
   },
   {
     "id": "JR101168",
@@ -17719,16 +17669,16 @@
     "slug": "aso54"
   },
   {
-    "id": "JR101167",
-    "title": "Partner Development Coordinator",
+    "id": "JR100895",
+    "title": "Manager, Know Your Customer (KYC)",
     "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Partner-Development-Coordinator_JR101167",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Manager--Know-Your-Customer_JR100895-1",
     "date": "2026-10-09",
     "source": "Workday: Circle [circle/Circle]",
     "location": "San Francisco - remote first in US",
     "active": true,
     "dateVerified": true,
-    "slug": "pdc"
+    "slug": "manager483"
   },
   {
     "id": "973b5919d162",
@@ -18317,20 +18267,6 @@
     "slug": "an81"
   },
   {
-    "id": "8016694003",
-    "title": "Head of Marketing Compliance",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/8016694003",
-    "date": "2026-10-08T10:16:23-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: OKX [okx]",
-    "location": "EMEA (Remote)",
-    "department": "Compliance",
-    "active": true,
-    "dateVerified": true,
-    "slug": "mkt132"
-  },
-  {
     "id": "8206729",
     "title": "Team Lead, Quality Analyst, Product Support Operations",
     "company": "Stripe",
@@ -18345,20 +18281,6 @@
     "slug": "qa81"
   },
   {
-    "id": "8257711",
-    "title": "Senior Sales Manager",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/8257711?gh_jid=8257711",
-    "date": "2026-10-08T09:47:34-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Ripple [ripple]",
-    "location": "London, UK",
-    "department": "Sales",
-    "active": true,
-    "dateVerified": true,
-    "slug": "sls238"
-  },
-  {
     "id": "8016752003",
     "title": "Head of Compliance, EU & UK",
     "company": "OKX",
@@ -18371,6 +18293,20 @@
     "active": true,
     "dateVerified": true,
     "slug": "cmp105"
+  },
+  {
+    "id": "8257746",
+    "title": "Senior Sales Manager",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/8257746?gh_jid=8257746",
+    "date": "2026-10-08T09:30:41-04:00",
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Ripple [ripple]",
+    "location": "London, UK",
+    "department": "Sales",
+    "active": true,
+    "dateVerified": true,
+    "slug": "sls201"
   },
   {
     "id": "5f6db674-0df4-4ee6-a090-ccdbec873ece",
@@ -18458,34 +18394,6 @@
     "active": true,
     "dateVerified": true,
     "slug": "mgr89"
-  },
-  {
-    "id": "5000634101",
-    "title": "Director of Risk Management",
-    "company": "RootstockLabs",
-    "link": "https://job-boards.eu.greenhouse.io/rootstocklabsltd/jobs/5000634101",
-    "date": "2026-10-08T07:29:51-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: RootstockLabs [rootstocklabsltd]",
-    "location": "Remote",
-    "department": "Finance & Legal",
-    "active": true,
-    "slug": "drm",
-    "dateVerified": true
-  },
-  {
-    "id": "5000640101",
-    "title": "VP Fund Management",
-    "company": "RootstockLabs",
-    "link": "https://job-boards.eu.greenhouse.io/rootstocklabsltd/jobs/5000640101",
-    "date": "2026-10-08T07:28:57-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: RootstockLabs [rootstocklabsltd]",
-    "location": "Remote",
-    "department": "Finance & Legal",
-    "active": true,
-    "slug": "vfm",
-    "dateVerified": true
   },
   {
     "id": "96262026",
@@ -19738,18 +19646,6 @@
     "slug": "sls149"
   },
   {
-    "id": "JR100886",
-    "title": "Investor Relations Manager",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/New-York-City---remote-first-in-US/Investor-Relations-Senior-Manager_JR100886",
-    "date": "2026-10-07",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "New York City - remote first in US",
-    "active": true,
-    "dateVerified": true,
-    "slug": "mgr46"
-  },
-  {
     "id": "JR101161",
     "title": "Regulatory and Licensing Program Manager",
     "company": "Circle",
@@ -19760,6 +19656,18 @@
     "active": true,
     "dateVerified": true,
     "slug": "mgr92"
+  },
+  {
+    "id": "JR100886",
+    "title": "Investor Relations Manager",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/New-York-City---remote-first-in-US/Investor-Relations-Senior-Manager_JR100886",
+    "date": "2026-10-07",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "New York City - remote first in US",
+    "active": true,
+    "dateVerified": true,
+    "slug": "mgr46"
   },
   {
     "id": "JR101549",
@@ -20177,6 +20085,20 @@
     "active": true,
     "dateVerified": true,
     "slug": "mkt43"
+  },
+  {
+    "id": "8014747003",
+    "title": "Head of Marketing Compliance",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8014747003",
+    "date": "2026-10-06T13:17:17-04:00",
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: OKX [okx]",
+    "location": "EMEA (Remote)",
+    "department": "Compliance",
+    "active": true,
+    "dateVerified": true,
+    "slug": "mkt132"
   },
   {
     "id": "8014746003",
@@ -21157,20 +21079,6 @@
     "slug": "mkt73"
   },
   {
-    "id": "62C72A5277",
-    "title": "Senior Content Manager",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/62C72A5277",
-    "date": "2026-10-06T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Remote (Georgia / Serbia / Armenia / Cyprus)",
-    "isRemote": true,
-    "department": [],
-    "active": true,
-    "dateVerified": true,
-    "slug": "mgr147"
-  },
-  {
     "id": "84ED0C1CC7",
     "title": "Senior DevOps / Platform Engineer - GCP",
     "company": "GoMining",
@@ -21185,6 +21093,20 @@
     "active": true,
     "dateVerified": true,
     "slug": "do11"
+  },
+  {
+    "id": "62C72A5277",
+    "title": "Senior Content Manager",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/62C72A5277",
+    "date": "2026-10-06T00:00:00.000Z",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Remote (Georgia / Serbia / Armenia / Cyprus)",
+    "isRemote": true,
+    "department": [],
+    "active": true,
+    "dateVerified": true,
+    "slug": "mgr147"
   },
   {
     "id": "14BE3435F9",
@@ -21216,19 +21138,6 @@
     "slug": "sls222"
   },
   {
-    "id": "CD65E0F9CB",
-    "title": "Compliance Supervisor",
-    "company": "Ajaib Crypto",
-    "link": "https://apply.workable.com/j/CD65E0F9CB",
-    "date": "2026-10-06T00:00:00.000Z",
-    "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
-    "department": "Compliance",
-    "active": true,
-    "dateVerified": true,
-    "slug": "cmp89"
-  },
-  {
     "id": "28D57CB5F6",
     "title": "COO Office, Strategy & Projects Manager",
     "company": "Ajaib Crypto",
@@ -21255,6 +21164,19 @@
     "slug": "asp"
   },
   {
+    "id": "CD65E0F9CB",
+    "title": "Compliance Supervisor",
+    "company": "Ajaib Crypto",
+    "link": "https://apply.workable.com/j/CD65E0F9CB",
+    "date": "2026-10-06T00:00:00.000Z",
+    "source": "Workable: Ajaib Crypto [ajaib]",
+    "location": "Jakarta, Indonesia",
+    "department": "Compliance",
+    "active": true,
+    "dateVerified": true,
+    "slug": "cmp89"
+  },
+  {
     "id": "5121DB5151",
     "title": "Business Development Manager",
     "company": "Ajaib Crypto",
@@ -21274,7 +21196,7 @@
     "link": "https://apply.workable.com/j/BA01EDB717",
     "date": "2026-10-06",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Bangkok, Thailand",
+    "location": "Jakarta, Indonesia",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -21287,7 +21209,7 @@
     "link": "https://apply.workable.com/j/9CD8AE6027",
     "date": "2026-10-06",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
+    "location": "Bangkok, Thailand",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -21703,21 +21625,6 @@
     "active": true,
     "dateVerified": true,
     "slug": "aso31"
-  },
-  {
-    "id": "8209410",
-    "title": "Manager, Software Engineering",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/8209410?gh_jid=8209410",
-    "date": "2026-10-05T08:33:03-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Ripple [ripple]",
-    "location": "Chicago, IL",
-    "department": "Engineering",
-    "active": true,
-    "salary": "$180k – $225k/yr",
-    "dateVerified": true,
-    "slug": "eng313"
   },
   {
     "id": "170538",
@@ -22211,7 +22118,7 @@
     "link": "https://apply.workable.com/j/9D3736EB28",
     "date": "2026-10-03",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
+    "location": "Bangkok, Thailand",
     "department": "People",
     "active": true,
     "dateVerified": true,
@@ -22450,6 +22357,21 @@
     "active": true,
     "dateVerified": true,
     "slug": "sec84"
+  },
+  {
+    "id": "8249901",
+    "title": "Software Engineer",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8249901",
+    "date": "2026-10-02T14:52:10-04:00",
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Stripe [stripe]",
+    "location": "Seattle, WA",
+    "department": "Global Operations",
+    "active": true,
+    "salary": "$156.8k – $235.2k/yr",
+    "dateVerified": true,
+    "slug": "eng298"
   },
   {
     "id": "8249865",
@@ -22896,319 +22818,5 @@
     "active": true,
     "dateVerified": true,
     "slug": "eng380"
-  },
-  {
-    "id": "3bc9fcc6-ab9c-4679-a514-e8e8a59a9836",
-    "title": "KYC Officer",
-    "company": "Coinhako",
-    "link": "https://jobs.ashbyhq.com/coinhako/3bc9fcc6-ab9c-4679-a514-e8e8a59a9836",
-    "date": "2026-10-02T03:30:57.148+00:00",
-    "source": "Ashby: Coinhako [coinhako]",
-    "location": "Singapore",
-    "isRemote": false,
-    "workplaceType": "OnSite",
-    "department": "Compliance",
-    "active": true,
-    "dateVerified": true,
-    "slug": "ko"
-  },
-  {
-    "id": "6212198004",
-    "title": "Project Manager",
-    "company": "Alpaca",
-    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6212198004",
-    "date": "2026-10-01T21:23:04-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Alpaca [alpaca]",
-    "location": "Remote - EMEA",
-    "department": "Sales",
-    "active": true,
-    "dateVerified": true,
-    "slug": "mgr132"
-  },
-  {
-    "id": "8241855",
-    "title": "Pricing Activation Specialist",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8241855",
-    "date": "2026-10-01T20:24:41-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Stripe [stripe]",
-    "location": "SEA",
-    "department": "6426 Monetization Operations",
-    "active": true,
-    "dateVerified": true,
-    "slug": "mssp"
-  },
-  {
-    "id": "538EA96252",
-    "title": "HR Specialist",
-    "company": "Crypto Finance",
-    "link": "https://apply.workable.com/j/538EA96252",
-    "date": "2026-10-02T00:00:00.000Z",
-    "source": "Workable: Crypto Finance [crypto-finance]",
-    "location": "Zürich, Switzerland",
-    "isRemote": false,
-    "department": [
-      "Crypto Finance AG"
-    ],
-    "active": true,
-    "dateVerified": true,
-    "slug": "rec23"
-  },
-  {
-    "id": "JR101067",
-    "title": "Staff Data Scientist - Payments",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Staff-Data-Scientist---Payments_JR101067",
-    "date": "2026-10-02",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "dateVerified": true,
-    "slug": "dsp2"
-  },
-  {
-    "id": "JR2001256",
-    "title": "AI Forward Deployed Engineer",
-    "company": "CoinDesk",
-    "link": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/Hong-Kong/AI-Forward-Deployed-Engineer_JR2001256",
-    "date": "2026-10-02",
-    "source": "Workday: CoinDesk [CoinDesk]",
-    "location": "2 Locations",
-    "active": true,
-    "dateVerified": true,
-    "slug": "eng298"
-  },
-  {
-    "id": "JR2001256",
-    "title": "AI Forward Deployed Engineer",
-    "company": "Bullish",
-    "link": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/Hong-Kong/AI-Engineer_JR2001256",
-    "date": "2026-10-02",
-    "source": "Workday: Bullish [Bullish]",
-    "location": "2 Locations",
-    "active": true,
-    "dateVerified": true,
-    "slug": "engineer738"
-  },
-  {
-    "id": "JR101607",
-    "title": "2027 Summer Internship Program – Geneva",
-    "company": "Brevan Howard",
-    "link": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Geneva/XMLNAME-2027-Summer-Internship-Program---Trading--Geneva_JR101607",
-    "date": "2026-10-02",
-    "source": "Workday: Brevan Howard [BH_ExternalCareers]",
-    "location": "Geneva",
-    "active": true,
-    "dateVerified": true,
-    "slug": "int31"
-  },
-  {
-    "id": "9755bee1-3e57-4de0-905d-c6f2c144ca57",
-    "title": "Support Engineer",
-    "company": "Sardine",
-    "link": "https://jobs.ashbyhq.com/Sardine/9755bee1-3e57-4de0-905d-c6f2c144ca57",
-    "date": "2026-10-01T23:08:55.807+00:00",
-    "source": "Ashby: Sardine [Sardine]",
-    "location": "Remote (United Arab Emirates)",
-    "isRemote": true,
-    "workplaceType": "Remote",
-    "department": "Support Engineering",
-    "active": true,
-    "dateVerified": true,
-    "slug": "eng296"
-  },
-  {
-    "id": "3a3ce52f-6949-451e-95f8-9e98019d7686",
-    "title": "Cyber Threat Intelligence Analyst, Scams (DC, MD, VA only)",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/3a3ce52f-6949-451e-95f8-9e98019d7686",
-    "date": "2026-10-01T22:23:02.403+00:00",
-    "source": "Ashby: TRM Labs [trm-labs]",
-    "location": "Remote (Washington D.C.)",
-    "isRemote": true,
-    "workplaceType": "Remote",
-    "department": "R&D",
-    "active": true,
-    "dateVerified": true,
-    "slug": "an63"
-  },
-  {
-    "id": "8248207",
-    "title": "Integrated Campaigns Manager",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8248207",
-    "date": "2026-10-01T18:04:51-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Stripe [stripe]",
-    "location": "Remote",
-    "department": "2326 Bridge - Marketing",
-    "active": true,
-    "dateVerified": true,
-    "slug": "mgr131"
-  },
-  {
-    "id": "bac102fd-d1b5-4c6c-9259-edb48a3ff62f",
-    "title": "Compliance Program Manager",
-    "company": "Lightspark",
-    "link": "https://jobs.ashbyhq.com/lightspark/bac102fd-d1b5-4c6c-9259-edb48a3ff62f",
-    "date": "2026-10-01T21:31:05.190+00:00",
-    "source": "Ashby: Lightspark [lightspark]",
-    "location": "Los Angeles HQ",
-    "isRemote": null,
-    "workplaceType": null,
-    "department": "Legal & Compliance",
-    "active": true,
-    "dateVerified": true,
-    "slug": "cmp79"
-  },
-  {
-    "id": "8008742003",
-    "title": "Head of Compliance, LATAM",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/8008742003",
-    "date": "2026-10-01T17:27:12-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: OKX [okx]",
-    "location": "El Salvador (Remote)",
-    "department": "Compliance",
-    "active": true,
-    "dateVerified": true,
-    "slug": "cmp78"
-  },
-  {
-    "id": "1fe97e43-5b1d-4b48-970f-a9dfb64132cb",
-    "title": "Media Buyer - Creative Testing & Optimization",
-    "company": "Kalshi",
-    "link": "https://jobs.ashbyhq.com/kalshi/1fe97e43-5b1d-4b48-970f-a9dfb64132cb",
-    "date": "2026-10-01T21:10:31.636+00:00",
-    "source": "Ashby: Kalshi [kalshi]",
-    "location": "New York Office",
-    "isRemote": false,
-    "workplaceType": "OnSite",
-    "department": "Growth",
-    "active": true,
-    "dateVerified": true,
-    "slug": "qa76"
-  },
-  {
-    "id": "5427789008",
-    "title": "Security Engineer, Business Continuity & Risk",
-    "company": "Block",
-    "link": "http://block.xyz/careers/jobs/5427789008?gh_jid=5427789008",
-    "date": "2026-10-01T16:58:29-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Block [block]",
-    "location": "Bay Area, CA, United States of America",
-    "department": "30315 Foundational - SFS - Ops",
-    "active": true,
-    "salary": "$180k – $270k/yr",
-    "dateVerified": true,
-    "slug": "sec81"
-  },
-  {
-    "id": "39efd8aa-7d91-46e9-94a9-e16aaf8a8f0e",
-    "title": "Senior / Staff Intelligence Analyst, Environmental Crimes",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/39efd8aa-7d91-46e9-94a9-e16aaf8a8f0e",
-    "date": "2026-10-01T20:46:22.046+00:00",
-    "source": "Ashby: TRM Labs [trm-labs]",
-    "location": "Remote (London, United Kingdom)",
-    "isRemote": true,
-    "workplaceType": "Remote",
-    "department": "R&D",
-    "active": true,
-    "dateVerified": true,
-    "slug": "an61"
-  },
-  {
-    "id": "4732225005",
-    "title": "Risk Developer",
-    "company": "DV Trading",
-    "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4732225005",
-    "date": "2026-10-01T16:44:11-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: DV Trading [dvtrading]",
-    "location": "London",
-    "department": "Technology",
-    "active": true,
-    "dateVerified": true,
-    "slug": "dev25"
-  },
-  {
-    "id": "4732145005",
-    "title": "Risk Developer",
-    "company": "DV Trading",
-    "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4732145005",
-    "date": "2026-10-01T16:44:08-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: DV Trading [dvtrading]",
-    "location": "Chicago",
-    "department": "Technology",
-    "active": true,
-    "salary": "$170k – $225k/yr",
-    "dateVerified": true,
-    "slug": "dev7"
-  },
-  {
-    "id": "8234278",
-    "title": "Software Engineer, CDP - Stablecoin",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8234278?gh_jid=8234278",
-    "date": "2026-10-01T16:38:28-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Coinbase [coinbase]",
-    "location": "Remote - USA",
-    "department": "Engineering",
-    "active": true,
-    "salary": "$152.4k – $179.3k/yr",
-    "dateVerified": true,
-    "slug": "eng291"
-  },
-  {
-    "id": "9baef3fe-045c-4ba0-ba17-05257111505c",
-    "title": "Product Security Engineer, Senior",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/9baef3fe-045c-4ba0-ba17-05257111505c",
-    "date": "2026-10-01T20:35:00.572+00:00",
-    "source": "Ashby: TRM Labs [trm-labs]",
-    "location": "Remote (United States)",
-    "isRemote": true,
-    "workplaceType": "Remote",
-    "department": "R&D",
-    "active": true,
-    "dateVerified": true,
-    "slug": "sec79"
-  },
-  {
-    "id": "8247881",
-    "title": "Group Product Manager, Customer Engagement & Experience",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8247881?gh_jid=8247881",
-    "date": "2026-10-01T16:26:07-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Coinbase [coinbase]",
-    "location": "Remote - USA",
-    "department": "Product",
-    "active": true,
-    "salary": "$243.9k – $286.9k/yr",
-    "dateVerified": true,
-    "slug": "pm208"
-  },
-  {
-    "id": "163582cd-927f-437d-a1e1-0b58d8982c42",
-    "title": "Incubation Management Lead",
-    "company": "Polymarket",
-    "link": "https://jobs.ashbyhq.com/Polymarket/163582cd-927f-437d-a1e1-0b58d8982c42",
-    "date": "2026-10-01T20:23:33.836+00:00",
-    "source": "Ashby: Polymarket [Polymarket]",
-    "location": "Remote",
-    "isRemote": true,
-    "workplaceType": "Remote",
-    "department": "CX",
-    "active": true,
-    "dateVerified": true,
-    "slug": "im"
   }
 ]
