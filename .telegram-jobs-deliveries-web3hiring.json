@@ -12213,7 +12213,7 @@
     "sentAt": "2026-11-01T11:33:57.294Z"
   },
   "aace3033-25d1-4edc-965c-fa4f555643e7": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-01T19:33:05.655Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -12328,6 +12328,8 @@
       }
     ],
     "message": "- Crypto.com is hiring <a href=\"https://hashtagweb3.com/pm276?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior/ Principal Product Manager, Trading(Crypto.com App) - Relocate to HK</a>\n- Open Standard is hiring <a href=\"https://hashtagweb3.com/eng652?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Smart Contract Engineer</a>\n- Coinflow is hiring <a href=\"https://hashtagweb3.com/fds2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Fraud Data Scientist</a>\n- Talos is hiring <a href=\"https://hashtagweb3.com/sls260?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Director, p(X)</a>\n- Braiins is hiring <a href=\"https://hashtagweb3.com/pm299?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">BRAIINS FORGE: Product Manager</a>",
-    "slotKey": "2026-11-01:evening"
+    "slotKey": "2026-11-01:evening",
+    "messageId": 16599,
+    "sentAt": "2026-11-01T19:33:08.169Z"
   }
 }
