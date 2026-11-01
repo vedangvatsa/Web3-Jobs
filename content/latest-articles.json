@@ -1,6 +1,6 @@
 [
   {
-    "slug": "citizenship-by-investment-capital-vs-speed",
+    "slug": "cbi",
     "title": "Citizenship by Investment Programs Ranked by Upfront Capital and Processing Speed",
     "description": "A comparative review of legal citizenship by investment and fast-track naturalization programs analyzing minimum capital requirements and statutory processing times.",
     "category": "Career Guides",
@@ -8,7 +8,23 @@
     "image": "/images/articles/citizenship-by-investment-capital-vs-speed.png"
   },
   {
-    "slug": "digital-nomad-visas-tax-vs-income",
+    "slug": "cftchack",
+    "title": "CFTC Chair Says Binance Hack Proves Case for US Oversight of Offshore Exchanges",
+    "description": "CFTC Chairman Michael Selig said the roughly $6.4 billion Binance hack shows why offshore crypto exchanges should register with his agency and submit to US cybersecurity standards, comments he made on CNBC on Oct. 30.",
+    "category": "News",
+    "publishedDate": "2026-11-01",
+    "image": "/images/news/cftchack.jpg"
+  },
+  {
+    "slug": "hubs",
+    "title": "The Leading Web3 Nomad Hubs Where Builders and Capital Congregate",
+    "description": "A global index mapping cryptocurrency and Web3 physical clusters across regulatory clarity, venture activity, developer density, and daily nomad livability.",
+    "category": "Industry Insights",
+    "publishedDate": "2026-11-01",
+    "image": "/images/articles/where-to-build-web3.png"
+  },
+  {
+    "slug": "nomadtax",
     "title": "Comparing Global Digital Nomad Visas by Minimum Income and Local Tax Rates",
     "description": "A comparative legal and financial review of remote worker visas analyzing qualifying monthly income thresholds alongside foreign-earned income tax rates.",
     "category": "Career Guides",
@@ -16,27 +32,11 @@
     "image": "/images/articles/digital-nomad-visas-tax-vs-income.png"
   },
   {
-    "slug": "nomad-cities-cost-vs-speed-2026",
+    "slug": "speed",
     "title": "The Best Digital Nomad Cities for 2026 Ranked by Cost and Internet Speed",
     "description": "An empirical evaluation of global digital nomad destinations plotting verified median fiber and 5G internet speeds against real monthly living costs.",
     "category": "Career Guides",
     "publishedDate": "2026-11-01",
     "image": "/images/articles/where-to-work-cost-vs-speed.png"
-  },
-  {
-    "slug": "safe-affordable-nomad-cities-walkability",
-    "title": "Where You Can Live Safely on a Budget Ranked by Walkability and Living Costs",
-    "description": "An index assessing international destinations on personal safety metrics, pedestrian walkability, and monthly living expenses for remote professionals.",
-    "category": "Career Guides",
-    "publishedDate": "2026-11-01",
-    "image": "/images/articles/where-to-live-safely-cost-vs-safety.png"
-  },
-  {
-    "slug": "top-web3-digital-nomad-hubs",
-    "title": "The Leading Web3 Nomad Hubs Where Builders and Capital Congregate",
-    "description": "A global index mapping cryptocurrency and Web3 physical clusters across regulatory clarity, venture activity, developer density, and daily nomad livability.",
-    "category": "Industry Insights",
-    "publishedDate": "2026-11-01",
-    "image": "/images/articles/where-to-build-web3.png"
   }
 ]
