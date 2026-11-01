@@ -88816,7 +88816,8 @@
       },
       "account": "channel:build",
       "attemptId": "ae1beb07-2c27-4fc8-866e-96cdf67677b7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x56d25196fbfae0c5de3d3e3771c44cf3866e205a"
     }
   ]
 }
