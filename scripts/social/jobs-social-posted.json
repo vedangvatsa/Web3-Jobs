@@ -85804,8 +85804,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "8a07ca6c-d3f3-47b9-8cd2-d6202ca56a80",
-      "verification": "pending",
-      "postId": "6ae6b39bab019b90873bc3c3"
+      "verification": "verified",
+      "postId": "6ae6b39bab019b90873bc3c3",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7522501744753352705"
     }
   ]
 }
