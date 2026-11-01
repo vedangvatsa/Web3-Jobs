@@ -86556,6 +86556,41 @@
       "attemptId": "e0af7ea6-5f5d-4546-8b32-5078523b28bf",
       "verification": "verified",
       "postId": "0x7b33ad45155032b338df36a8c4b37fd843c935ee"
+    },
+    {
+      "slug": "is4",
+      "company": "Block",
+      "title": "Implementation Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-11-01T03:36:46.193Z",
+      "expectedText": "Block is hiring Implementation Specialist\n\nhttps://hashtagweb3.com/is4/fc?og=7",
+      "snapshot": {
+        "id": "5466269008",
+        "title": "Implementation Specialist",
+        "company": "Block",
+        "link": "http://block.xyz/careers/jobs/5466269008?gh_jid=5466269008",
+        "date": "2026-10-28T14:33:32-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Block [block]",
+        "location": "Seattle, WA, United States of America",
+        "department": "20333 S&M - Sales - GSO",
+        "active": true,
+        "salary": "$42 – $63/hr",
+        "dateVerified": true,
+        "slug": "is4"
+      },
+      "payload": {
+        "text": "Block is hiring Implementation Specialist\n\nhttps://hashtagweb3.com/is4/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/is4/fc?og=7"
+          }
+        ],
+        "channel_id": "growth"
+      },
+      "account": "channel:growth",
+      "attemptId": "e481f8c0-ca73-4394-9b61-317bc68ece54",
+      "verification": "creating"
     }
   ]
 }
