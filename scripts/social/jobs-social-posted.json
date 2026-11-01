@@ -85287,7 +85287,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "8ae4819a-5f98-4ffb-ad98-9b5589f7f224",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa37a2ec90780f86f29a7f3ccfea8f26396970e5a"
     }
   ]
 }
