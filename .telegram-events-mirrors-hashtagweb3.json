@@ -795,5 +795,12 @@
     "attempts": 1,
     "reservedAt": "2026-11-01T11:32:38.018Z",
     "deliveredMessageId": 96
+  },
+  "@hashtagweb3:156042:@eventsweb3": {
+    "fromChatId": "@hashtagweb3",
+    "sourceMessageId": 156042,
+    "destination": "@eventsweb3",
+    "status": "pending",
+    "attempts": 0
   }
 }
