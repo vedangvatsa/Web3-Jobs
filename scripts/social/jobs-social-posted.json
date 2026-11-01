@@ -85215,7 +85215,8 @@
       },
       "account": "channel:web3",
       "attemptId": "9e524473-0fb3-4b5c-98f9-45631f7ddd1d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x24a661642ba522eec2e01a64ada076ba6bfff280"
     }
   ]
 }
