@@ -87659,6 +87659,38 @@
       "verification": "creating",
       "containerId": "18099477086199925",
       "error": "Threads publish failed: 400 {\"error\":{\"message\":\"Fatal\",\"type\":\"OAuthException\",\"code\":-1,\"error_subcode\":4279047,\"is_transient\":false,\"error_user_title\":\"Invalid Link Attachment\",\"error_user_msg\":\"The post you're trying to publish has an invalid link attachment.\",\"fbtrace_id\":\"AjQR0KcDcmPTkIbRtaVsrGf\"}}"
+    },
+    {
+      "slug": "ks2",
+      "company": "StraitsX",
+      "title": "KYB Specialist",
+      "platform": "bluesky",
+      "postedAt": "2026-11-01T11:37:11.249Z",
+      "expectedText": "StraitsX is hiring KYB Specialist: https://hashtagweb3.com/ks2/bsky?og=7",
+      "snapshot": {
+        "id": "5006646101",
+        "title": "KYB Specialist",
+        "company": "StraitsX",
+        "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5006646101",
+        "date": "2026-10-15T02:04:51-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: StraitsX [straitsx]",
+        "location": "Singapore",
+        "department": "STX - Commercial",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ks2"
+      },
+      "payload": {
+        "text": "StraitsX is hiring KYB Specialist: https://hashtagweb3.com/ks2/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/ks2/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/ks2.png?v=7",
+        "company": "StraitsX",
+        "title": "KYB Specialist",
+        "description": "Join StraitsX as KYB Specialist. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "c30cee47-ad26-45cd-ae43-0fe510fe5422",
+      "verification": "creating"
     }
   ]
 }
