@@ -4300,5 +4300,53 @@
     "slotKey": "2026-11-01:afternoon",
     "messageId": 156037,
     "sentAt": "2026-11-01T11:32:36.469Z"
+  },
+  "e98b6759-bcca-4396-92ac-292c5f276181": {
+    "status": "reserved",
+    "reservedAt": "2026-11-01T19:33:47.098Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-j1ZvQzyjxZWRLtd",
+        "slug": "web3-week-asia-trader-trencher-night",
+        "name": "Web3 Week Asia: Trader & Trencher night",
+        "startDate": "2026-11-04T10:30:00.000Z",
+        "keys": [
+          "luma-crypto-j1zvqzyjxzwrltd",
+          "35hjl1y5",
+          "page:web3-week-asia-trader-trencher-night:2026-11-04",
+          "luma-url:/35hjl1y5",
+          "event:web3weekasiatradertrenchernight:2026-11-04:jakarta"
+        ]
+      },
+      {
+        "id": "luma-crypto-mBAHL16fOTQj9ai",
+        "slug": "slice-bitcoin-culture",
+        "name": "A Slice of Bitcoin Culture",
+        "startDate": "2026-11-04T16:00:00.000Z",
+        "keys": [
+          "luma-crypto-mbahl16fotqj9ai",
+          "uqs749ko",
+          "page:slice-bitcoin-culture:2026-11-04",
+          "luma-url:/uqs749ko",
+          "event:asliceofbitcoinculture:2026-11-04:amsterdam"
+        ]
+      },
+      {
+        "id": "luma-crypto-7q5sJj37ZWkeNAc",
+        "slug": "buzoku-ai-crypto-meetup",
+        "name": "BUZOKU | AI & Crypto Meetup",
+        "startDate": "2026-11-04T18:30:00.000Z",
+        "keys": [
+          "luma-crypto-7q5sjj37zwkenac",
+          "v27ik7m7",
+          "page:buzoku-ai-crypto-meetup:2026-11-04",
+          "luma-url:/v27ik7m7",
+          "event:buzokuaicryptomeetup:2026-11-04:barcelona"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-01:evening"
   }
 }
