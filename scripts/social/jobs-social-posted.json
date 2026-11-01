@@ -89096,7 +89096,8 @@
       },
       "account": "channel:design",
       "attemptId": "2f79ce35-135d-48d1-8f42-81be7f8b25b2",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x210e8702ff7fc507f2f925274e28d05170cf635c"
     }
   ]
 }
