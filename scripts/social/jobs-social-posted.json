@@ -85721,6 +85721,47 @@
       "attemptId": "e0f73176-2020-429a-9b0d-81c30e644f25",
       "verification": "verified",
       "postId": "0x4a04331265536aaa99da519209e11d57953f27bd"
+    },
+    {
+      "slug": "rc4",
+      "company": "TRM Labs",
+      "title": "Recruiting Coordinator (Contract)",
+      "platform": "linkedin",
+      "postedAt": "2026-11-01T03:33:05.889Z",
+      "expectedText": "TRM Labs is hiring Recruiting Coordinator (Contract): https://hashtagweb3.com/rc4/li?og=7",
+      "snapshot": {
+        "id": "242cd1a8-a3fa-423b-a136-6cd57dfbce1d",
+        "title": "Recruiting Coordinator (Contract)",
+        "company": "TRM Labs",
+        "link": "https://jobs.ashbyhq.com/trm-labs/242cd1a8-a3fa-423b-a136-6cd57dfbce1d",
+        "date": "2026-10-27T22:13:01.895+00:00",
+        "source": "Ashby: TRM Labs [trm-labs]",
+        "location": "Remote (New Delhi, India)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "G&A",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rc4"
+      },
+      "payload": {
+        "text": "TRM Labs is hiring Recruiting Coordinator (Contract): https://hashtagweb3.com/rc4/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/rc4/li?og=7",
+          "title": "Recruiting Coordinator (Contract) at TRM Labs",
+          "description": "Join TRM Labs as Recruiting Coordinator. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/rc4.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "d9833e4c-2ce8-4f75-9673-97a760ff77ad",
+      "verification": "creating"
     }
   ]
 }
