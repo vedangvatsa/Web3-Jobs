@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import type { ReactNode } from 'react';
 import { PageHeader } from '@/components/page-header';
 import { PageShell } from '@/components/page-shell';
@@ -68,22 +69,37 @@ export default function Web3HiringReport() {
   return (
     <main id="main-content" className="bg-background text-foreground">
       <PageShell containerClassName="space-y-16 pb-16 md:space-y-20">
-        <header className="mx-auto max-w-4xl text-center">
-          <p className="mb-4 text-sm text-muted-foreground">Job-board snapshot · {s.snapshotLabel}</p>
-          <PageHeader
-            align="center"
-            className="mb-0 [&_h1]:text-balance [&_p]:max-w-3xl [&_p]:leading-relaxed"
-            title={`The Web3 Hiring Report ${s.year}`}
-            description="Job functions, skills mentioned in descriptions, salary ranges, and remote-work wording across the listings on Hashtag Web3."
-          />
-          <nav aria-label="Report sections" className="mt-7 flex flex-wrap justify-center gap-x-5 gap-y-3 text-sm">
-            <a className={linkStyle} href="#functions">Job functions</a>
-            <a className={linkStyle} href="#skills">Skills</a>
-            <a className={linkStyle} href="#experience">Experience</a>
-            <a className={linkStyle} href="#work-arrangements">Work arrangements</a>
-            <a className={linkStyle} href="#salary">Salary sample</a>
-            <a className={linkStyle} href="#methodology">Methodology &amp; data</a>
-          </nav>
+        <header className="mx-auto max-w-5xl">
+          <div className="grid grid-cols-1 items-center gap-8 lg:grid-cols-12 lg:gap-10">
+            <div className="text-left lg:col-span-7">
+              <PageHeader
+                align="left"
+                className="mb-0 [&_h1]:text-balance [&_p]:max-w-2xl [&_p]:leading-relaxed"
+                title={`The Web3 Hiring Report ${s.year}`}
+                description="Job functions, skills mentioned in descriptions, salary ranges, and remote-work wording across the listings on Hashtag Web3."
+              />
+              <nav aria-label="Report sections" className="mt-6 flex flex-wrap gap-x-5 gap-y-2.5 text-sm">
+                <a className={linkStyle} href="#functions">Job functions</a>
+                <a className={linkStyle} href="#skills">Skills</a>
+                <a className={linkStyle} href="#experience">Experience</a>
+                <a className={linkStyle} href="#work-arrangements">Work arrangements</a>
+                <a className={linkStyle} href="#salary">Salary sample</a>
+                <a className={linkStyle} href="#methodology">Methodology &amp; data</a>
+              </nav>
+            </div>
+            <div className="flex justify-center lg:col-span-5 lg:justify-end">
+              <div className="relative aspect-[16/10] w-full max-w-md overflow-hidden rounded-2xl border border-border/70 shadow-sm bg-muted/20">
+                <Image
+                  src="/og/pages/web3-hiring-report.png"
+                  alt={`The Web3 Hiring Report ${s.year}`}
+                  width={640}
+                  height={400}
+                  priority
+                  className="h-full w-full object-cover"
+                />
+              </div>
+            </div>
+          </div>
         </header>
 
         <dl className="grid grid-cols-2 gap-4 lg:grid-cols-4">
@@ -236,7 +252,7 @@ export default function Web3HiringReport() {
           </p>
           <p className={paragraph}>
             A description that does not meet these rules may still disclose pay in another format or currency.
-            <a className={linkStyle} href="/data/hiring-report-salary-sample.json"> Download the salary sample</a> to inspect each range and its original wording, or explore role-specific compensation with our <Link className={linkStyle} href="/salary-calculator">Web3 Salary Calculator</Link>.
+            Explore role-specific compensation with our <Link className={linkStyle} href="/salary-calculator">Web3 Salary Calculator</Link>.
           </p>
         </Section>
 
@@ -348,10 +364,8 @@ export default function Web3HiringReport() {
             A listing present in the catalog may have changed or closed since it was collected. The employer&apos;s current posting is the place to confirm availability and terms.
           </p>
           <ul className="space-y-3 text-sm">
-            <li><a className={linkStyle} href="/data/hiring-report-stats.json">Download the report figures and input-file checksums (JSON)</a></li>
-            <li><a className={linkStyle} href="/data/hiring-report-salary-sample.json">Download the salary ranges, excerpts, and listing links (JSON)</a></li>
-            <li><a className={linkStyle} href="/data/hiring-report-analysis-evidence.json">Download the per-listing skill matches, experience excerpts, and work-arrangement excerpts (JSON)</a></li>
-            <li><Link className={linkStyle} href="/jobs">Browse the current jobs board</Link></li>
+            <li><Link className={linkStyle} href="/salary-calculator">Explore the Web3 Salary Calculator</Link></li>
+            <li><Link className={linkStyle} href="/jobs">Browse current Web3 job listings</Link></li>
           </ul>
         </Section>
       </PageShell>
