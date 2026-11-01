@@ -857,6 +857,9 @@
   "https://hashtagweb3.com/coindcxfutures?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/bybitvara?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/francevote?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/charonupgrade?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cakeflip?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/emudhra?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2477,6 +2480,12 @@
   "Bybit secures full VARA license for spot trading in Dubai",
   "France schedules budget vote after passing stablecoin tax amendment",
   "France sets Nov. 3 budget vote after one-vote stablecoin tax win",
+  "Obol releases Charon update following certificate authority compromise",
+  "Obol ships urgent Charon patch after eMudhra certificate compromise",
+  "PancakeSwap Proposal Faces 98% Opposition Ahead of Voting Deadline",
+  "PancakeSwap fee overhaul vote faces 98% opposition before Saturday close",
+  "Tech Companies Block eMudhra Certificates Due to Security Flaws",
+  "Tech giants block eMudhra certificates as CertiK warns crypto apps may stay exposed",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2884,5 +2893,8 @@
   "fp:chair|comer|concern|corporat|delawar|document|firm|framework|hous|investigat",
   "fp:binanc|coindcx|day|disruption|four|futur|limit|market|mod|most",
   "fp:bybit|complet|customer|dubai|exchang|full|licens|must|obtain|operation",
-  "fp:amendment|approv|budget|decision|final|franc|french|lawmaker|narrowly|nov3"
+  "fp:amendment|approv|budget|decision|final|franc|french|lawmaker|narrowly|nov3",
+  "fp:affect|are|authority|certificat|charon|check|compromis|emudhra|follow|issu",
+  "fp:ahead|by69|cak|clos|daily|deadlin|emission|faces98|fee|increas",
+  "fp:app|application|block|browser|certificat|certik|due|eight|emudhra|environment"
 ]

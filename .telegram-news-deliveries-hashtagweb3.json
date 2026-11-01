@@ -2749,7 +2749,7 @@
     "sentAt": "2026-10-31T19:34:39.353Z"
   },
   "79b64b93-c48a-4f16-817f-f1a2fa6caf57": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-01T03:34:52.135Z",
     "stories": [
       {
@@ -2777,6 +2777,8 @@
         "originalTitle": "Tech giants block eMudhra certificates as CertiK warns crypto apps may stay exposed"
       }
     ],
-    "slotKey": "2026-11-01:morning"
+    "slotKey": "2026-11-01:morning",
+    "messageId": 156034,
+    "sentAt": "2026-11-01T03:35:05.482Z"
   }
 }
