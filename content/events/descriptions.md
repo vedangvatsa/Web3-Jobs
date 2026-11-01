@@ -9632,67 +9632,6 @@ Visitor Pass now just $100 (Regular Price: $499)!
 
 Registration requires host approval. Registration is listed as free.
 
-<a id="event-68e461c6d3e0a47a"></a>
-
-## DIGITAL AF! • United Art & Tech • Web3 meets culture in Seoul
-
-- Record: `kbw-official-digital-af-exhibition-side-events-space-korea-blockchain-week-09-29`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-09-29T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/zecq09tp>
-
-### About the event
-
-DIGITAL AF 하나됨 - Seoul '26
-
-Sept 29 → Oct 3 - ARC Gangnam, Seoul
-
-DIGITAL AF deliberately brings together communities that do not usually share the same room.
-
-The program spans blockchain, AI, gaming and emerging technology alongside contemporary art, music and Korean culture.
-
-The idea is to create an environment where a founder can meet an artist, an investor can discover a gaming project, a developer can find their next collaborator, or an international visitor can connect with a Korean builder outside the usual conference setting.
-
-For Sponsorship Opportunities : digitalaf.xyz@gmail.com
-
-What's On?
-
-- Talks and exhibition area at the intersection of art, gaming & AI
-- Large-format art installations & live volumetric light work immersive space
-- Live sets, concerts & a closing party that runs late
-
-Landing during Korea Blockchain Week, when Seoul is full of the people building what's next.
-
-ARC, Seoul
-
-Sept 29 → Oct 3, 2026
-
-By Wildcat × Digital AF
-
-See you in Seoul.
-
-------------------------------------------------------------------
-
-하나의 공간. 5일간의 여정. 경계 없는 융합.
-
-DIGITAL AF (하나됨 - "unity")는 현대 미술, 기술, 게임, 그리고 한국 문화가 실시간으로 충돌하고 반응하며 서로 영감을 주고받는 독창적인 콘퍼런스 겸 전시 공간입니다.
-
-9m의 층고와 3개의 층으로 연결된 800m² 규모의 옛 철강 공장을 개조한 공간 'ARC'에서 진행되는 DIGITAL AF는 유럽과 한국의 기업, 빌더, 아티스트, 그리고 투자자들이 한자리에 모이는 네트워크의 장입니다.
-
-스폰서십 문의: digitalaf.xyz@gmail.com
-
-주요 프로그램:
-
-- 예술, 게임, AI의 접점을 다루는 토크 세션 및 전시 구역
-- 대형 아트 인스톨레이션 및 라이브 볼류메트릭 라이트 워크 몰입형 공간
-- 라이브 셋, 콘서트, 그리고 늦은 밤까지 이어지는 클로징 파티
-  - 다음 시대를 만들어가는 이들로 서울이 가득 차는 Korea Blockchain Week 기간에 맞춰 개최됩니다.
-  - 서울 ARC
-  - 2026년 9월 29일 → 10월 3일
-  - 주최: Wildcat × Digital AF
-  - 서울에서 만나요.
-
 <a id="event-52da310d8b558547"></a>
 
 ## FuturaCanvas 2026
@@ -9710,262 +9649,6 @@ If you would like to register, please click here to go to the registration page.
 ### Event details
 
 Hosted by FuturaCanvas (Korea's first global art&tech conference). Venue: Platform-L Contemporary Art Center, 11 Eonju-ro 133-gil, Gangnam District, Seoul, South Korea. The event takes place on October 1.
-
-<a id="event-8f50684bac058da9"></a>
-
-## KBW 2026 Private Yacht Soirée - Epoch 2
-
-- Record: `kbw-official-kbw-2026-private-yacht-soir-e-epoch-2-10-02`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-10-02T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/YachtEpoch2>
-
-### KBW 2026 Private Yacht Soirée
-
-Epoch 2
-
-02 October2026 - Seoul, Han River
-
-Hosted by Covey × Saffron × CryptosBatman
-
-Korea Blockchain Week starts on the Han River.
-
-Epoch 1 is an intimate, invite-only yacht evening bringing together a hand-picked group of founders, investors, protocols, operators and crypto-native leaders before the week gets into full swing.
-
-Just a curated room on the water, Seoul at sunset, premium food and drinks, music, and the kind of conversations that are much harder to have in a packed conference hall.
-
-The Evening
-
-17:00 - Boarding & welcome drinks
-
-18:00-21:00 - Private Han River yacht experience
-
-21:00 - Return
-
-21:30 - Latest disembarkation
-
-Food, drinks and music are included.
-
-Hosted by
-
-Covey
-
-An embedded engineering, advisory, execution and capital partner for ambitious crypto and AI companies.
-
-[covey.tech](https://covey.tech)
-
-Saffron
-
-DeFi infrastructure enabling new ways to structure, deploy and access onchain liquidity and fee generation.
-
-[saffron.finance](https://saffron.finance)
-
-CryptosBatman
-
-Crypto investor, market commentator and connector across the global digital asset ecosystem.
-
-[x.com/cryptosbatman](https://x.com/cryptosbatman)
-
-Access
-
-Attendance is curated and subject to approval.
-
-Seoul - Han River - 02 October 2026
-
-Some of the best conversations at KBW happen before the conference begins.
-
-<a id="event-f0867ea347038032"></a>
-
-## XRPfi Night Seoul
-
-- Record: `kbw-official-xrpfi-night-seoul-10-02`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-10-02T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ikda4x51>
-
-### XRPfi Night Seoul
-
-*English event details are provided below the Korean description
-
-본 행사는 단순한 네트워킹 모임이 아닌, XRPfi를 깊이 있게 배우는 '교육 중심(Educational Focus)' 행사입니다. 본 이벤트는 실제 XRP를 보유하고 있으며, 온체인 활용법과 XRPfi 생태계를 진정성 있게 공부하고자 하는 실제 XRP 홀더분들만 신청 및 참석이 가능합니다. XRPfi에 대해 배우고 실질적인 지식을 얻어가고자 하는 분들만 등록을 진행해 주시길 부탁드립니다.
-
-국내외 XRP 커뮤니티와 XRPfi 프로젝트를 서울에서 만나보세요
-
-DCENT가 주최하는 XRP Seoul 2026 공식 사이드 이벤트, XRPfi Night Seoul에 여러분을 초대합니다. Korea Blockchain Week 2026 기간 중, XRP Seoul 본 행사 전날 밤에 열립니다.
-
-XRPL EU, XRPL Japan을 비롯해 XRP Seoul 위크를 위해 서울을 찾은 글로벌 XRPL 커뮤니티와 국내 XRP 홀더들 한자리에 모입니다. XRPL 위에서 실제 서비스를 만들고 있는 팀들의 세션을 듣고, 부스에서 XRPfi를 직접 경험하며, 같은 자산을 보유한 분들과 이야기 나누는 자리입니다.
-
-XRP를 보유하고 계시지만 온체인에서 무엇을 할 수 있는지 아직 확인해 보지 못하셨다면, 이 밤에서 그 답을 찾아보세요.
-
-Official side event of XRP Seoul 2026 - Korea Blockchain Week 2026
-
-Please note: This event is an educational-focused session on XRPfi, rather than a casual networking gathering. Attendance is strictly reserved for actual XRP holders who are genuinely eager to learn and explore on-chain XRPfi opportunities. We kindly ask that only those dedicated to gaining practical insights and learning from the teams register for this event.
-
-Meet the XRP Community and XRPfi Projects in Seoul
-
-Join XRPfi Night Seoul, hosted by DCENT as an official side event of XRP Seoul 2026. The event takes place during Korea Blockchain Week 2026, on the evening before the main XRP Seoul conference.
-
-Global XRPL communities visiting Seoul for XRP Seoul week - including XRPL EU and XRPL Japan - will gather together with Korea's XRP holders for one evening. Hear sessions from the teams building real services on XRPL, experience XRPfi hands-on at the partner booths, and connect with people who hold the same asset you do.
-
-If you hold XRP but haven't yet explored what you can do with it on-chain, this is the night to find out.
-
-### 행사 정보
-
-- 일시: 2026년 10월 2일(금) 오후 5시 ~ 9시
-- 장소: 등록 후 확인 가능
-- 주최: DCENT
-- 스폰서: Flare - SOIL - t54 - Santiment - SIVAX
-- 진행 언어: 한국어 중심, 영어 별도
-
-본 행사는 승인제로 운영됩니다. 참석 확정 여부는 별도 안내되며 승인된 참석자에 한해 입장 가능합니다.
-
-### 이런 행사에서 만나볼 이야기
-
-XRPfi의 다음 단계
-
-결제와 토큰화 자산, 온체인 금융이 XRP 위에서 만나고 있습니다. 볼트와 스왑, AI 기반 도구까지 확장되고 있는 XRPfi 생태계의 방향을 직접 만들고 있는 팀들이 설명해 드립니다.
-
-지금 바로 활용 가능한 것들
-
-보유 중인 XRP를 온체인에서 운용하는 방법, XRP 위에서 자산을 전송하고 교환하는 방법, 자동화와 AI를 활용한 차세대 도구까지 실질적인 활용 사례를 확인하실 수 있습니다.
-
-부스에서의 직접 경험
-
-행사 내내 운영되는 파트너 부스에서 첫 예치 과정을 처음부터 함께 진행해 보고, 데모 키오스크에서 제품을 직접 사용해 보실 수 있습니다. 각 프로젝트 팀에게 궁금한 점을 바로 질문하실 수 있으며, 굿즈와 이벤트도 준비되어 있습니다.
-
-### 행사 프로그램
-
-- 17:00 등록 및 웰컴 - 부스 오픈, 핑거푸드 및 음료
-- 17:20 오프닝
-- 행사 프로그램 추후 업데이트
-- 19:35 네트워킹 및 부스 체험
-- 21:00 종료
-
-※ 세부 프로그램과 연사 구성은 추후 업데이트될 수 있습니다.
-
-### 경품 추첨
-
-행사 중 참가자를 위한 두 차례의 경품 추첨이 진행됩니다. 경품과 참여 방법은 추후 공개됩니다.
-
-### 이런 분들께 추천합니다
-
-- XRP를 보유하고 계시며 온체인 활용 방법이 궁금하신 분
-- XRPfi에 대해 들어보셨지만 시작 방법을 찾고 계신 분
-- 국내외 XRPL 커뮤니티와 직접 교류하고 싶으신 분
-- XRP 생태계에서 기회를 찾고 계신 빌더 및 프로젝트 관계자
-- KOL, 크리에이터와 직접 만나 이야기 나누고 싶으신 분
-
-### ABOUT DCENT
-
-DCENT는 암호화폐를 안전하고 간편하게 보유하고 사용할 수 있도록 만든 셀프 커스터디 월렛입니다. 100개 이상의 블록체인 네트워크와 10,000개 이상의 디지털 자산을 지원하며, 전 세계 100만 명 이상의 앱 사용자가 이용하고 있습니다. 안전한 보관을 넘어 XRPFi, 스왑, DeFi, dApp까지 연결해, 자산에 대한 통제권을 유지하면서도 넓어지는 온체인 생태계를 더 쉽게 탐색하고 활용할 수 있게 합니다.
-
-Beyond Storage. Own Your Future, At Ease.
-
-공식 웹페이지 - 한국 공식 X - 영문 공식 X
-
-DCENT is a self-custody wallet built to make owning and using cryptocurrencies secure and simple. Supporting 100+ blockchain networks and 10,000+ digital assets, DCENT serves 1M+ app users worldwide. Beyond secure storage, DCENT connects users to XRPFi, swaps, DeFi, dApps, and more, making it easier to explore and use the growing on-chain ecosystem while staying in control of their assets.
-
-Beyond Storage. Own Your Future, At Ease.
-
-[Official Website](https://www.dcentwallet.com) - X (Korea) (https://x.com/DCENTWALLETS_KR) - X (Global) (https://x.com/DCENTWALLETS)
-
-### Flare
-
-Flare는 그동안 활용되지 못했던 디지털 자산을 실질적으로 운용 가능한 자본으로 전환하는 데이터 및 컴퓨팅 레이어입니다. XRPFi는 이를 보여주는 첫 번째이자 가장 대표적인 사례입니다. FXRP를 통해 XRP 홀더들은 그동안 스마트 컨트랙트 생태계 밖에 머물러 있던 XRP를 대출과 볼트(Vault)를 비롯한 온체인 금융에 활용할 수 있습니다. 현재까지 1억 5천만 XRP 이상이 Flare로 이동했습니다.
-
-공식 웹페이지 (https://xrpfi.flare.network/)- 한국 공식 [X](https://x.com/FlareNetworksKR)- 영문 공식 [X](https://x.com/FlareNetworks)
-
-Flare is the data and compute layer that turns dormant digital assets into working capital. XRPFi is the first and largest example. Through FXRP, XRP holders can take an asset that has largely lived outside smart contract ecosystems and put it to work in onchain finance, such as lending and vaults. More than 150 million XRP has already moved onto Flare.
-
-[Official Website](https://xrpfi.flare.network) - X (Korea) (https://x.com/FlareNetworksKR) - X (Global) (https://x.com/FlareNetworks)
-
-### SOIL
-
-SOIL은 XRP Ledger 위에 네이티브로 구축된 기관급 수익 프로토콜입니다. 래핑도 브리징도 없이 XRP와 RLUSD를 온체인 볼트에서 운용합니다. 수익은 토큰 인센티브가 아니라 실제 기관 전략 - 프라임 브로커-헤지펀드 대상 담보 대출, 프라이빗 크레딧, 마켓 뉴트럴 디지털 자산 헤지펀드 배분 - 에서 나오며, 규제 자산운용 분야에서 다년간의 트랙 레코드를 쌓아온 팀이 직접 운용합니다. SOIL은 폴란드와 몰타의 라이선스 자산운용사 및 펀드를 통해 3억 1천만 달러 이상을 운용하는 ORQO Digital의 일원입니다.
-
-공식 웹페이지 (https://soil.co) - 공식 [X](https://x.com/FlareNetworks)- 링크드인 (https://linkedin.com/company/soilfarm)
-
-SOIL is an institutional-grade yield protocol built natively on the XRP Ledger. It puts XRP and RLUSD to work in on-chain vaults - no wrapping, no bridging. Yield is generated from real institutional strategies, not token emissions: secured lending to prime brokers and hedge funds, private credit, and allocations to market-neutral digital asset hedge funds - all run by a team with a multi-year track record in regulated asset management. SOIL is part of ORQO Digital, a group with $310M+ under management across licensed asset managers and funds in Poland and Malta.
-
-[Official Website](https://soil.co) - [X](https://x.com/soil_farm) - [LinkedIn](https://linkedin.com/company/soilfarm)
-
-### t54
-
-t54 Labs는 에이전틱 이코노미(agentic economy)를 위한 신뢰 레이어를 만듭니다. 기관과 애플리케이션이 에이전트의 신원과 의도를 검증하고, 자금이 움직이기 전에 거래-상대방 리스크를 평가하며, 컴플라이언스와 책임 추적을 위한 증적을 남길 수 있도록 리스크-언더라이팅 인프라를 제공합니다. 또한 이러한 통제 장치를 에이전트가 실제로 거래하는 프로토콜과 금융 레일 위에 구현하는 에이전틱 금융 인프라를 개발하고 있습니다.
-
-공식 웹페이지 (https://t54.ai) - 공식 [X](https://x.com/t54ai)- 한국 텔레그램 채널 (https://t.me/t54ai_Korea)
-
-t54 Labs is building the trust layer for the agentic economy. It provides risk and underwriting infrastructure that helps institutions and applications verify agent identity and intent, assess transaction and counterparty risk before money moves, and preserve evidence for compliance and accountability. t54 also develops agentic financial infrastructure that brings these controls to the protocols and financial rails where agents transact.
-
-[Official Website](https://t54.ai) - [X](https://x.com/t54ai) - Telegram (Korea) (https://t.me/t54ai_Korea)
-
-### Santiment
-
-가격은 무슨 일이 일어났는지 알려주지만, Santiment는 그 주변에서 사람들이 무엇을 했는지 보여줍니다 - 거래소에서 빠져나가는 코인, 조용해진 고래, 돌아서는 심리. 2016년부터 비트코인, 이더리움을 비롯한 2,800개 이상 자산의 온체인-소셜-금융 데이터를 펀드, 트레이더, 애널리스트에게 제공해 왔습니다.
-
-공식 웹페이지 (https://santiment.net/) - 텔레그램 채널 (https://t.me/santiment_network) - 디스코드 커뮤니티 (https://discord.com/invite/MRya3zxh5u)
-
-Price tells you what happened. Santiment shows what people did around it - coins moving off exchanges, whales going quiet, sentiment turning. Since 2016, Santiment has supplied funds, traders, and analysts with on-chain, social, and financial data on Bitcoin, Ethereum, and 2,800+ other assets.
-
-[Official Website](https://santiment.net) - [Telegram](https://t.me/santiment_network) - [Discord](https://discord.gg/MRya3zxh5u)
-
-### SIVAX
-
-SIVAX는 XRP Ledger 기반의 구조화 수익 플랫폼입니다. 전통 금융에서 검증된 구조화 전략(ex. FCN, ELS, 커버드콜 등)을 상시 운용 펀드 하나에 담아 온체인으로 옮겼고, 진입 후 배분-헤징-리스크 관리는 전략 엔진이 처리합니다. 수익의 원천이 토큰 인센티브나 레버리지 수요가 아닌 변동성이라 기존 web3 수익과 상관관계가 낮고, 이미 운용 중인 전략 위에 더할 수 있는 별도의 수익 레이어가 됩니다. 자산은 온체인 볼트에서 누구나 확인할 수 있으며 수익은 매일 지급됩니다.
-
-공식 웹페이지 (https://sivax.io) - 공식 [X](https://x.com/sivax_official)
-
-SIVAX is a structured income platform on the XRP Ledger. It takes strategies that have been running in traditional finance for decades (e.g. FCNs, ELS, covered calls) and puts them in a single always-on fund. You enter once, and the engine handles allocation, hedging and risk from there. Returns come from volatility rather than token emissions or leverage demand, so they have little correlation with staking, LP or lending yields. SIVAX is a layer you add to a web3 portfolio, not one you swap in. Assets sit in an on-chain vault anyone can verify, and payouts go out daily.
-
-[Official Website](https://sivax.io) - [X](https://x.com/sivax_official)
-
-### Event Information
-
-- Date: Friday, October 2, 2026 - 5:00 PM - 9:00 PM
-- Venue: Shared after registration
-- Host: DCENT
-- Sponsors: Flare - SOIL - t54 - Santiment - SIVAX
-- Language: Primarily Korean, with separate sessions in English
-
-This is an approval-only event. Confirmation will be shared separately, and entry is limited to approved guests.
-
-### What You'll Discover
-
-Where XRPfi goes next
-
-Payments, tokenized assets and on-chain finance are converging on XRP. The teams building it will walk through where the XRPfi ecosystem is heading, from vaults and swaps to AI-powered tools.
-
-What you can use today
-
-How to put the XRP you hold to work on-chain, how to send and trade assets natively on XRP, and how next-generation tools from automation to AI are being used in practice.
-
-Hands-on at the booths
-
-At the partner booths, open throughout the evening, you can walk through your first deposit from start to finish and try the products at the demo kiosks. Ask each project team your questions directly, and join the giveaways on site.
-
-### Event Program
-
-- 17:00 Registration & welcome - booths open, finger food & drinks
-- 17:20 Opening
-- Full program to be announced
-- 19:35 Networking & booth experience
-- 21:00 Close
-
-※ The detailed program and speaker lineup will be updated.
-
-### Lucky Draw
-
-Two lucky draws will be held for guests during the event. Prizes and how to enter will be announced.
-
-### Who Should Attend?
-
-- XRP holders who want to know how to use their assets on-chain
-- Anyone who has heard of XRPfi and is looking for a place to start
-- Anyone who wants to connect with the XRPL community, in Korea and abroad
-- Builders and project teams looking for opportunities in the XRP ecosystem
-- Anyone who wants to meet KOLs and creators in person
 
 <a id="event-927d5a1c87a39968"></a>
 
@@ -23130,328 +22813,6 @@ Anyone interested in turning an idea into a real product
 
 Guest founders, mentors, and the full agenda will be announced soon.
 
-<a id="event-2127d16d0511585f"></a>
-
-## The Great Rotation “大転換” — 日本は世界のオンチェーン利回りをどう獲るか┊Apyx, Allied Architects
-
-- Record: `luma-batch-lK6NF3IfdVCqmMZ`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-02T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/jc3r23yp>
-
-### About the event
-
-The Great Rotation - Japan's Path to Global Onchain Yield
-
-大転換 - 日本は世界のオンチェーン利回りをどう獲るか
-
-国内の金融・Web3市場が "大転換" を迎える中、日本の企業や機関投資家がグローバルなオンチェーン利回りをいかに安全かつ最大化して取り込むか - - 。本イベントは、市場の最前線で指揮を執る当事者のみが集う完全クローズドな戦略カンファレンスです。
-
-前半は市場構造の変化や最新のイールド戦略を深く掘り下げるセッションを展開し、後半はVIPゲスト同士が直接議論を深められる立食形式のネットワーキングディナーをご用意。業界を牽引するリーダー陣と密なネットワークを構築し、次なる一手を探る有意義な時間を提供します。
-
-【 開催概要 】
-
-日時｜2026年10月2日（金）16:30〜21:00（開場 16:00〜）会場｜東京都港区 某所（承認後に共有されます）形式｜オフライン開催参加費｜無料（事前登録・完全承認制）
-
-【 アジェンダ（想定）】
-
-16:00 - 16:30｜開場・受付16:30 - 18:30｜キーノート＆パネルディスカッション18:30 - 21:00 ｜立食ネットワーキングディナー
-
-【 参加対象 】
-
-本イベントは、Web3領域および伝統的金融（TradFi）における意思決定者やプロフェッショナルを対象としています。
-
-機関投資家 / ファンド
-
-プロトレーダー
-
-銀行・証券などの金融機関
-
-VC（ベンチャーキャピタル）
-
-暗号資産取引所（CEX/DEX）幹部
-
-クリプトKOL / Web3事業責任者
-
-【 注意事項 】
-
-本イベントは審査制（完全承認制）となっております。定員に達し次第、受付を終了とさせていただきます。
-
-会場内での過度な勧誘行為や迷惑行為はお控えください。
-
-【 開催企業・プロジェクト 】
-
-◻ Apyx
-
-Apyxは、オフチェーンの配当利回りをオンチェーンへもたらす世界初の「配当担保型ステーブルコインプロトコル」です。デジタル資産保有企業（DAT）が発行する優先株の配当をDeFi上の流動性に変換します。流動性層となる合成ドル「apxUSD」と、配当利回りを蓄積する「apyUSD」の2トークン構造で運用されています。https://apyx.fi/ / https://x.com/apyx_fi
-
-◻ アライドアーキテクツ株式会社
-
-アライドアーキテクツは、事業構造をAI前提で再設計するAX（AIトランスフォーメーション）を推進するAXカンパニーです。AIを活用した「マーケティングAX事業」と、オンチェーン経済圏で資産価値向上を目指す「資産AX事業」を展開しています。2005年の創業以来培った6,000社以上の支援実績、UGCをはじめとするデータ資産、独自SaaS・AI技術を結集し、「世界中の人と企業の創造がめぐる社会」の実現を目指しています。
-
-https://www.aainc.co.jp/ / https://x.com/AlliedCrpt / https://x.com/aa_official
-
-【 協賛企業・プロジェクト 】
-
-◻ DeFi Development Corp.（DFDV）
-
-DeFi Development Corp.（Nasdaq: DFDV）は、Solana（SOL）を中心としたデジタル資産財務戦略を推進するテクノロジー企業（DAT）です。自社バリデータの運用やステーキングを通じてSOLの保有・複利運用を行い、株主に対してSolanaエコシステムへの直接的な経済的エクスポージャーを提供しています。
-
-https://defidevcorp.com/ / https://x.com/defidevcorp
-
-◻ 株式会社Datachain
-
-Datachainは、ステーブルコインをはじめとするオンチェーン金融を社会実装するためのインフラ・ソリューションを開発・提供する日本発のブロックチェーンテクノロジーカンパニーです。 金融機関・決済事業者・事業会社等を対象に、ステーブルコイン・トークン化預金等の事業化・システム構築支援に加え、法人向けWeb3ウォレット「Datachain Wallet」、パブリックブロックチェーン上の取引情報を保護する「KuraPrivacy」、異なるブロックチェーン間を安全に接続するクロスチェーン技術等を提供しています。
-
-https://www.datachain.jp/ja / https://x.com/datachain_jp
-
-The Great Rotation - Japan's Path to Global Onchain Yield
-
-As Japan's financial and Web3 sectors reach a pivotal turning point, institutional investors and corporations face a crucial challenge: unlocking global on-chain yields safely and at scale.
-
-This closed-door strategic conference brings together key market leaders at the forefront of this evolution. Featuring deep-dive sessions on evolving market structures and cutting-edge yield strategies, the event transitions into an exclusive networking dinner for meaningful VIP discussions. Join top executives to expand your network and position yourself for what's next.
-
-Event Overview
-
-Date｜Friday, October 2, 2026Time｜16:30 - 21:00 (Doors open at 16:00)Location｜Minato-ku,Tokyo (Location details will be shared upon approval)Format｜In-personAdmission｜Free (Pre-registration required / Approval-only)
-
-Agenda (Tentative)
-
-16:00 - 16:30｜Doors Open & Check-in16:30 - 18:30｜Keynote & Panel Discussions18:30 - 21:00｜Networking Dinner (Buffet Style)
-
-Target Audience
-
-This event is tailored for decision-makers and industry professionals in the Web3 and Traditional Finance (TradFi) sectors:
-
-Institutional Investors / Funds
-
-Professional Traders
-
-Financial Institutions (Banks, Securities Firms, etc.)
-
-Venture Capitalists (VCs)
-
-Executives from Crypto Exchanges (CEX / DEX)
-
-Crypto KOLs / Web3 Business Leaders
-
-Notes / Guidelines
-
-This is an approval-only event with limited capacity. Registration will close once all seats are filled.
-
-Excessive solicitation or disruptive behavior at the venue is strictly prohibited.
-
-### Co-hosts
-
-◻ Apyx
-
-Apyx is the first dividend-backed stablecoin protocol designed to bring off-chain digital credit yields on-chain. By converting preferred equity issued by Digital Asset Treasuries (DATs) into programmable digital dollars, Apyx channels off-chain dividend cash flows into DeFi liquidity. The protocol features a dual-token system: apxUSD for primary liquidity and apyUSD for yield-bearing savings.
-
-https://apyx.fi/ / https://x.com/apyx_fi
-
-◻ Allied Architects, Inc.
-
-Allied Architects, Inc. is an AX company driving AI Transformation across conventional business structures to enable enterprise growth. Operating the "Marketing AX Business" (AI-powered data & creative) and "Asset AX Business" (on-chain economy assets), the company leverages 2005-founded expertise, UGC data, and proprietary SaaS/AI technologies to achieve its mission: "Circulate creativity for the better society."
-
-https://www.aainc.co.jp/company/profile-en/ / https://x.com/AlliedCrpt / https://x.com/aa_official
-
-### Sponsors
-
-◻ DeFi Development Corp.（DFDV）
-
-DeFi Development Corp. (Nasdaq: DFDV) is a technology company operating as a Solana-centric Digital Asset Treasury (DAT). The company focuses on acquiring, holding, and compounding Solana (SOL) through native staking and operating its own validator infrastructure, providing shareholders with direct economic exposure to the Solana ecosystem.
-
-https://defidevcorp.com/ / https://x.com/defidevcorp
-
-◻ Datachain, Inc.
-
-Datachain is a Japan-based blockchain technology company that develops and provides the infrastructure and solutions needed to bring on-chain finance into real-world use. Working with financial institutions, payment providers, and enterprises, we support the commercialization and system development of stablecoins, tokenized deposits, and related initiatives. We also offer Datachain Wallet, an enterprise Web3 wallet; KuraPrivacy, which protects transaction data on public blockchains; and cross-chain technology that securely connects different blockchains.
-
-https://www.datachain.jp/ / https://x.com/datachain_en
-
-<a id="event-d5e37662eabf6f15"></a>
-
-## 💻 Coworking Fridays Istanbul — SuperteamTR
-
-- Record: `luma-batch-LKJsBAGLapPGuQj`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-02T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/o1v2czfh>
-
-### About the event
-
-Free coworking in Istanbul, every Friday.
-
-Come work with us, meet other founders and builders, get feedback on what you're building, or just spend the day around people shipping.
-
-Whether you're already building on Solana or simply curious about the ecosystem, you're welcome.
-
-### What to expect
-
-→ Free coworking→ Superteam Türkiye team on-site→ Founder & builder community→ Feedback, intros, and ecosystem support→ Coffee, conversations, and heads-down building
-
-Open to founders, developers, designers, creators, students - basically anyone building something.
-
-You don't need to be a Superteam member to join.
-
-Bring your laptop. See you Friday.
-
-By signing up, you agree that Superteam Türkiye may take and share photos and videos of you from the event.
-
-<a id="event-ca134c8ce7431806"></a>
-
-## OnlyBulls x Ault Markets in Seoul
-
-- Record: `luma-batch-evtPhLUCrJYRWBET`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-02T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/zyx04nyc>
-
-### About the event
-
-OnlyBulls x Ault Markets in Seoul
-
-OnlyBulls와 Ault Markets가 함께하는 특별한 오프라인 네트워킹 이벤트에 여러분을 초대합니다.
-
-크립토 투자자, 트레이더, Web3 관계자, 크리에이터는 물론 Ault Markets와 OnlyBulls에 관심 있는 분이라면 누구나 신청하실 수 있습니다.
-
-이번 행사는 단순한 프로젝트 소개를 넘어, 트레이딩과 디지털 자산, Web3를 중심으로 국내외 업계 관계자와 투자자들이 자연스럽게 교류할 수 있는 네트워킹 자리로 준비하고 있습니다.
-
-특히 KBW 기간에 맞춰 진행되는 만큼 다양한 크립토 인플루언서와 업계 관계자들이 함께할 예정입니다.
-
-국내 구독자 10만~20만 명 이상 규모의 주요 크립토 유튜버들도 다수 참석 예정이며, 프로젝트뿐만 아니라 새로운 사람과 네트워크를 만나고 싶은 분들에게도 특별한 자리가 될 수 있도록 준비하고 있습니다.
-
-또한 편안하게 네트워킹을 즐기실 수 있도록 스파클링 와인 100병과 레드와인 50병을 비롯한 다양한 주류와 케이터링, 먹거리도 함께 준비될 예정입니다.
-
-프로젝트와 시장에 대한 이야기부터 새로운 비즈니스와 네트워크까지, 음악과 함께 자유롭게 대화를 나누며 새로운 연결을 만들어갈 수 있는 밤을 준비하고 있습니다.
-
-### About Ault Markets
-
-Ault Markets는 Ault Blockchain을 기반으로 구축된 금융 플랫폼입니다.
-
-트레이딩, 포트폴리오 관리, 시장 데이터, 리서치 기능을 하나의 통합된 플랫폼에서 제공하는 것을 목표로 하고 있습니다.
-
-첫 번째 제품은 자체 Spot 오더북 거래소이며, 향후 플랫폼 확장에 따라 무기한 선물(Perpetuals), 대출(Lending), 마진 거래, Vaults, 토큰화 자산 등의 기능도 추가될 예정입니다.
-
-### About OnlyBulls
-
-OnlyBulls is a self-custody wallet built for people who want more from their crypto.
-
-Sign up with an email or social login and your wallet is ready in seconds. No seed phrase setup, no browser extension, no second app. Your keys, your assets, always.
-
-Most wallets stop at storing and swapping. OnlyBulls is where you actually put your money to work:
-
-Buy, sell and swap crypto with gas covered on eligible transactions
-
-Add cash in a few taps and hold dollars as stablecoins
-
-Savings that earn yield on your balance
-
-Perps for trading perpetual futures with leverage
-
-Prediction markets on the events that move the world
-
-Send money to anyone, peer to peer
-
-Built-in AI keeps you ahead with real-time market insights, recaps and price alerts, so you can go from idea to trade without leaving the app.
-
-And we're just getting started. Tokenized stocks, real-world assets and commodities are on the way through Ault Markets.
-
-OnlyBulls. One wallet. Every move.
-
-Event Information
-
-Date
-
-October 2, 2026
-
-Time
-
-18:00 - 24:00
-
-Main Event
-
-19:00 - 23:00
-
-### Venue
-
-People The Terrace
-
-Seoul, Korea
-
-※ 18:00부터 입장 및 자유 네트워킹이 가능합니다.
-
-Who Can Join?
-
-Ault Markets 및 OnlyBulls에 관심 있는 분
-
-크립토 및 Web3 투자자
-
-트레이더 및 시장 참여자
-
-업계 관계자 및 프로젝트 팀
-
-크리에이터 및 미디어 관계자
-
-크립토 인플루언서 및 KOL
-
-새로운 프로젝트와 네트워크를 만나고 싶은 분
-
-Ault Markets와 OnlyBulls를 이미 알고 계신 분은 물론, 이번 행사를 통해 처음 접하는 분들도 자유롭게 신청하실 수 있습니다.
-
-### What to Expect
-
-이번 행사에서는
-
-Ault Markets 및 OnlyBulls 소개
-
-프로젝트 팀 및 커뮤니티와의 만남
-
-주요 크립토 유튜버 및 인플루언서 네트워킹
-
-국내외 Web3 관계자들과의 교류
-
-트레이더 및 투자자들과의 네트워킹
-
-스파클링 와인 100병 & 레드와인 50병
-
-다양한 주류와 Drinks & Catering
-
-다양한 먹거리
-
-Music & DJ
-
-KBW 기간 다양한 업계 참가자들과의 네트워킹
-
-등이 진행될 예정입니다.
-
-프로젝트와 사람, 음식과 음악이 자연스럽게 어우러지는 네트워킹 이벤트로 준비하고 있습니다.
-
-세부 프로그램 및 게스트 라인업은 순차적으로 공개됩니다.
-
-Venue & Access
-
-행사는 People The Terrace의 1층부터 3층까지 운영됩니다.
-
-일반 참가자들이 자유롭게 네트워킹할 수 있는 공간과 별도의 VIP 공간이 함께 운영될 예정입니다.
-
-※ VIP 공간은 초청자 및 지정 참가자에 한해 입장이 가능합니다.
-
-### Registration
-
-본 행사는 사전 신청 및 승인제로 운영됩니다.
-
-Luma를 통해 참가 신청 후, 승인된 참가자에게 최종 입장 안내가 전달됩니다.
-
-행사장 수용 인원에 따라 신청이 조기 마감될 수 있습니다.
-
-OnlyBulls x Ault Markets
-
-More guests and event details will be announced soon.
-
 <a id="event-7079219fc68e2386"></a>
 
 ## Co-Working Fridays : London Chapter
@@ -23483,326 +22844,6 @@ Superteam is a global co-operative organised into regional non-profit organisati
 ** Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.
 
 By signing up to this event you agree that Solana, The SRI, & SuperteamUK can capture any footage of you, and contact you directly about future events, major news, and more.
-
-<a id="event-8d2ce6494dee1f12"></a>
-
-## Waves After Hours
-
-- Record: `luma-batch-evtK2fkpDNQZuAiS`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-02T10:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/nfnqe1ol>
-
-### About the event
-
-Waves After Hours
-
-An intimate evening with the Surf community
-
-Surf 커뮤니티와 함께하는 KBW의 밤에 여러분을 초대합니다.
-
-일시: 2026년 10월 2일 (금) 오후 7:00 - 10:00 (KST)
-
-참석 대상
-
-실제 Surf를 사용하는 유저, 그리고 크립토를 만들어가는 빌더-트레이더, 크립토에 AI를 활용하시는 분들을 모십니다.
-
-아래 중 하나에 해당하고 인증해 주시면 우선 승인해 드릴 예정입니다.
-
-Surf 구독자 인증 또는 NFT 홀더
-
-Surf 한국 크리에이터 미션 참여자
-
-텔레그램 또는 X(트위터) 인증 링크 제출
-
-Surf × Plasma Mystery Box Giveaway 참여자
-
-참여 시 입력한 이름/이메일 또는 참여 내역 제출
-
-진행 순서
-
-19:00 - 체크인 - 웰컴 드링크
-
-칵테일 & 자유 네트워킹
-
-22:00 - 마무리
-
-참가 안내
-
-신청 후 승인 기반으로 진행되며, 공간 특성상 입장이 제한될 수 있습니다. 현장 담당자의 안전 수칙에 따르지 않을 경우, 입장이 제한되거나 취소될 수 있습니다.
-
-본 행사에서는 기록 및 홍보 목적의 사진-영상 촬영이 진행될 수 있으며, 촬영된 자료는 Surf의 공식 SNS-웹사이트 등 홍보 채널에 활용될 수 있습니다. 참석 시 촬영 및 초상권 사용에 동의하는 것으로 간주되오니, 너른 양해 부탁드립니다.
-
-함께하는 파트너
-
-이번 행사는 아래 파트너들과 함께합니다. 크립토 생태계의 다양한 영역을 이끌어가는 팀들이 Surf 커뮤니티와 자리를 함께합니다.
-
-Fabric Foundation
-
-Fabric Foundation은 인간과 지능형 기계가 안전하고 생산적으로 협력할 수 있도록, 그 바탕이 되는 거버넌스-경제-협력 인프라를 구축하는 독립 비영리 기관입니다.
-
-홈페이지 - 트위터(X)
-
-t54
-
-t54 Labs는 에이전트 경제를 위한 신뢰 계층을 구축합니다.
-
-기관과 애플리케이션이 에이전트의 신원과 의도를 검증하고, 자금이 움직이기 전에 거래와 상대방 리스크를 평가하며, 컴플라이언스와 책임 소재를 위한 증거를 보존할 수 있도록 리스크-언더라이팅 인프라를 제공합니다. 나아가 t54는 이러한 통제 장치를 에이전트가 실제로 거래하는 프로토콜과 금융 레일에 적용하는 에이전트 금융 인프라를 개발합니다.
-
-홈페이지 - 트위터(X)
-
-Donut
-
-Donut은 모든 시장을 위한 당신의 개인 AI 트레이딩 에이전트입니다.
-
-원하는 목표를 알려주고 거래 계정을 연결하면, Donut이 거래와 투자를 시작합니다. 기회를 리서치하고 시장을 지켜보며, 당신의 아이디어를 실제 거래로 만들어냅니다. 자리를 비운 사이에도 멈추지 않습니다.
-
-Donut은 당신의 선호와 과거 결정을 기억하고, 당신의 트레이딩 스타일에 맞춰 적응하며, 당신이 설정한 한도 안에서 작동합니다.
-
-홈페이지 - 트위터(X)
-
-Waves After Hours
-
-An intimate evening with the Surf community
-
-Join us for a night with the Surf community during KBW.
-
-Date: Friday, October 2, 2026 - 7:00 - 10:00 PM (KST)
-
-Who's Coming
-
-We're bringing together active Surf users, the builders and traders shaping crypto, and those using AI in their crypto work.
-
-You'll be approved first if you qualify for any of the below and verify it:
-
-Surf subscriber or NFT holder
-
-Surf Korea Creator Mission participant
-
-submit your content link (X or Telegram)
-
-Surf × Plasma Mystery Box Giveaway participant
-
-submit the name/email used to enter, or proof of participation
-
-Flow of the Night
-
-7:00 PM - Check-in - Welcome drink
-
-Cocktails & open networking
-
-10:00 PM - Wrap-up
-
-Good to Know
-
-Entry is approval-based, and space is limited due to venue capacity. Failure to follow the on-site staff's safety guidelines may result in restricted entry or removal.
-
-Photos and videos may be taken during the event for documentation and promotional purposes, and may be used on Surf's official social media, website, and other channels. By attending, you consent to being photographed and to the use of your likeness. Thank you for your understanding.
-
-### Partners
-
-This evening is made possible with our partners. Teams leading different corners of the crypto ecosystem are joining the Surf community for the night.
-
-Fabric Foundation
-
-The Fabric Foundation is an independent, non-profit organization dedicated to building the governance, economic, and coordination infrastructure that enables humans and intelligent machines to work together safely and productively.
-
-Website - Twitter(X)
-
-t54
-
-t54 Labs is building the trust layer for the agentic economy.
-
-It provides risk and underwriting infrastructure that helps institutions and applications verify agent identity and intent, assess transaction and counterparty risk before money moves, and preserve evidence for compliance and accountability. t54 also develops agentic financial infrastructure that brings these controls to the protocols and financial rails where agents transact.
-
-Website - Twitter(X)
-
-Donut
-
-Donut is your personal AI trading agent for every market.
-
-Tell it what you want to achieve, connect your trading accounts, and let it start trading and investing. Donut researches opportunities, watches the markets, and turns your ideas into trades - keeping things moving even when you're away.
-
-It remembers your preferences and past decisions, adapts to your trading style, and works within the limits you set.
-
-Website - Twitter(X)
-
-<a id="event-25abe6a10821041b"></a>
-
-## Industry Night 2.0
-
-- Record: `luma-batch-evtK4wC53e8Tmg2n`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-02T10:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/e2nwl5sk>
-
-### About the event
-
-"The Future is Web3: Redefining Careers in Digital Economy"
-
-We are back for our premier networking event of the year! Industry Night 2.0 is designed to bring together diverse companies, startups, communities, accelerators, incubators, and venture capitalists from Malaysia and beyond for Web3 and Blockchain industry.
-
-Whether you are a student, builder, creator, or industry professional, this is your opportunity to connect with the innovators shaping the decentralized digital economy, in Malaysia and Globally.
-
-This event is open to the public, including students across all faculties (Business, Information Technology, Engineering, etc.) and enthusiasts from other universities or companies! Luma Registration is strictly required.
-
-### Event Details
-
-Date: 2nd October, 2026
-
-Time: 6:00 PM - 10:00 PM
-
-Venue: Monash University Malaysia
-
-### What to Expect
-
-Industry Keynotes: Hear directly from industry leaders during Keynote Sessions.
-
-Company & Community Booths: Explore active company and community booths displayed throughout the entire session.
-
-Talent Recruitment: Discover exclusive job openings via on-site QR codes, positioning yourself for a career in Web3.
-
-Blockchain Game Session: Participate in interactive gaming activities.
-
-Exclusive Merch & Prizes: Score limited-edition merch, physical crypto cards, and stand a chance to win exclusive prizes throughout the night!
-
-Dinner & Networking: Enjoy dinner while building connections with the audiences, including students, founders, and industry players.
-
-### Itinerary
-
-6:00 PM - 7:00 PM Registration Opens
-
-7:00 PM - 7:05 PM Event Opening by Monash Blockchain Club
-
-7:05 PM - 7:55 PM Company Keynote Sessions
-
-7:55 PM - 8:20 PM Blockchain Game Session
-
-8:20 PM - 9:30 PM Dinner and Networking
-
-9:30 PM - 10:00 PM Event Closing
-
-### About Monash Blockchain Club
-
-Established in July 2024, the Monash Blockchain Club is the hub for blockchain initiatives and education at Monash University. We aim to empower students with the knowledge and skills to explore blockchain technology, connect with industry leaders, and foster a community of future-ready innovators.
-
-Backed by over 500 club members and a network of 40+ sponsors and partners, we have hosted 20+ events to help you get started in the industry.
-
-Our Partners:
-
-1. BLOX
-
-BLOX is a Malaysian company building digital settlement infrastructure powered by MYRC, a 1:1 Malaysian Ringgit-backed stablecoin. We enable businesses, developers and digital platforms to bring Ringgit value on-chain and build new payment, settlement and real-world applications for the digital economy.
-
-We have already secured 8 incredible partners for this event! The first wave of partner reveals is dropping gradually - stay tuned!
-
-<a id="event-788e68bff7016070"></a>
-
-## TOKENISED MALAYSIA - VIP DINNER
-
-- Record: `luma-batch-evtyVCHtyiERlXLe`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-02T10:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/tokenisedmy>
-
-### About the Event
-
-Join global institutional leaders, regulators, and digital asset pioneers for the official launch of TOKENISED MALAYSIA - the premiere event series dedicated to the development and education Real-World Asset (RWA), Real-World Business (RWB), and Security Token Offering (STO) tokenization in Malaysia.
-
-Organized in strategic partnership with the Labuan Financial Services Authority (LFSA) and held in conjunction with the main event, Asia FinTech Forum (AFF 2026: https://asiafintech.org/), this exclusive VIP dinner takes place at the World Trade Centre (WTC) Kuala Lumpur immediately following the conclusion of AFF 2026.
-
-RSVP and event details are hosted on Luma (https://luma.com/z7et0cdt?utm_source=fc | https://luma.com/tokenisedmy). The evening brings together high-level executive networking, regulatory insights, technology showcases, and high-impact discussions on the future of tokenized finance.
-
-### About Tokenised
-
-[Tokenised](https://tokenised.hk) is the premier global platform and summit series driving the adoption of tokenized real-world assets, institutional digital finance, and compliant security tokens. Bringing together traditional financial institutions, regulators, asset managers, and web3 innovators, Tokenised bridges international capital markets with cutting-edge blockchain infrastructure across Asia and globally. Explore all Tokenised Malaysia events on Luma at https://luma.com/tokenisedmy.
-
-### Agenda
-
-5:30 PM - Registrations & Welcoming Drinks
-
-6:15 PM - Opening Speech | Ivan V. Ivanov, Founder - Tokenised Global Series & RWA Week
-
-6:30 PM - Keynote Address | Labuan Financial Services Authority (LFSA) -⁠ ⁠6:45 PM - Welcome to Labuan Presentation | Ben, CEO of Labuan IBFC
-
-7:00 PM - VIP Table Dinner Starts | NexStox Presentation
-
-7:15 PM - Red Table Dinner Starts | Bored2AI Presentation
-
-7:30 PM - Blue Table Dinner Starts
-
-8:00 PM - The Tokenised Debate: Will Institutions or Retail Drive Future Capital Inflows in Tokenized Markets?
-
-8:30 PM - Executive Panel: Islamic Finance & Tokenization
-
-9:00 PM - Closing Remarks & Open Networking
-
-### Event Details
-
-Date & Time: Friday, 2 October | 18:00 - 21:00 GMT+8 (Registrations start at 5:30 PM)
-
-Venue: World Trade Centre (WTC) Kuala Lumpur
-
-Admission: Invite-only / Approved Luma Registration Required
-
-Luma Event Page: https://luma.com/z7et0cdt?utm_source=fc
-
-Tokenised Luma Calendar: https://luma.com/tokenisedmy
-
-⁠Main Event (AFF): Asia FinTech Forum (AFF 2026) - https://asiafintech.org/
-
-Strategic Regulatory Partner: Labuan Financial Services Authority (LFSA)
-
-⁠[Organizer Platform: Tokenised](https://tokenised.hk) & RWA Week
-
-<a id="event-f3ec417fe8334718"></a>
-
-## Pantera X Multipli X yieldbasis \| Liquid VIP Dinner Table
-
-- Record: `luma-batch-evtQitFqCNjHFb5o`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-02T10:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/cwub7gk3>
-
-### About the event
-
-Here's what you can expect:
-
-No panels - just a group of smart individuals with whom you can sit down, have meaningful discussions, explore partnership opportunities, and enjoy a meal.
-
-This is an invite-only event, bringing together a carefully curated group of people who manage over $10B in capital across liquid funds, venture funds, bullion funds, and the builders driving adoption in the space.
-
-### About Multipli
-
-Multipli.fi is the first RWA protocol that enables users to earn yield and borrow against real-world assets like Stocks (AAPL, TSLA), Gold, Silver, and ETFs. Multipli manages $250M+ in TVL and powers credit facilities for neo-banks and top institutions across the globe.
-
-### About Pantera
-
-Pantera Capital is an American hedge fund and venture capital firm focused on digital assets headquartered in Menlo Park, California. The fund specializes in cryptocurrencies and blockchain technology. It is one of the largest digital asset funds in the world by managed assets.
-
-<a id="event-2a4169bf82c8d07d"></a>
-
-## BAYC Taipei Happy Hour
-
-- Record: `luma-batch-evtccJeRPeBYE7uZ`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-02T12:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/y8sft1wx>
-
-### About the event
-
-歡迎參加 BAYC 台北 Happy Hour，和 Figge 一起度過一個輕鬆愉快的夜晚。下班後來喝一杯，認識更多 BAYC 持有者與社群朋友，在台北市中心自在交流、放鬆一下。
-
-無論是下班後順道過來，還是把這裡當作今晚的主要行程，都是和台北 BAYC 社群敘舊、分享故事、認識新朋友的好機會。輕鬆來玩，讓我們一起把氣氛拉滿、聊得盡興，也喝得開心！
-
-Join BAYC Taipei Happy Hour for a relaxed evening with Figge. Come by to unwind over drinks, meet fellow BAYC holders and friends, and enjoy a lively hangout in the heart of Taipei.
-
-Whether you are stopping in after work or making it your main plan for the night, this is a great chance to catch up, share stories, and spend time with the local BAYC crowd in a fun, easygoing setting. We'll keep the vibes high, the conversation flowing, and the glasses full.
 
 <a id="event-ec60103a7813fa70"></a>
 
@@ -23885,32 +22926,6 @@ Complimentary tickets are reserved for currently enrolled UC Berkeley students o
 Industry professionals, alumni, and other guests are kindly asked to register using a paid ticket.
 
 Spots are limited. Register to join the builders and leaders shaping the future of finance.
-
-<a id="event-8a8661b1df3a44c8"></a>
-
-## SuperteamTR — Colosseum Office Hours
-
-- Record: `luma-batch-EqAZsTDmrT3F1Ix`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-02T16:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/dl00mens>
-
-### About the event
-
-Bring your blocker.
-
-Every Friday, we get builders in one room and work through whatever is slowing them down.
-
-Bring your:
-
-→ idea you're not sure about→ technical blocker→ pricing or distribution question→ repo, demo, deck or submission→ pitch that needs to be challenged→ scope that desperately needs cutting
-
-We'll help you figure out what's worth building, who would actually pay for it, what you can realistically ship by the deadline, and what needs fixing before submission.
-
-Sometimes the best part is hearing another team get challenged on the exact thing you haven't thought about yet.
-
-Every Friday, 19:00. One hour.
 
 <a id="event-660486dfa9d7dc93"></a>
 
@@ -34778,67 +33793,6 @@ All hackathon winners are interviewed and considered for the Colosseum accelerat
 
 All workshops stream live on Discord, including the kickoff with the Colosseum founders. Participants can watch live, ask questions and follow the program through the event.
 
-<a id="event-0add12c3cd820df8"></a>
-
-## DIGITAL AF! • United Art & Tech • Web3 meets culture in Seoul
-
-- Record: `w3v-digital-af--exhibition--side-events-space`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-29T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/zecq09tp>
-
-### About the event
-
-DIGITAL AF 하나됨 - Seoul '26
-
-Sept 29 → Oct 3 - ARC Gangnam, Seoul
-
-DIGITAL AF deliberately brings together communities that do not usually share the same room.
-
-The program spans blockchain, AI, gaming and emerging technology alongside contemporary art, music and Korean culture.
-
-The idea is to create an environment where a founder can meet an artist, an investor can discover a gaming project, a developer can find their next collaborator, or an international visitor can connect with a Korean builder outside the usual conference setting.
-
-For Sponsorship Opportunities : digitalaf.xyz@gmail.com
-
-What's On?
-
-- Talks and exhibition area at the intersection of art, gaming & AI
-- Large-format art installations & live volumetric light work immersive space
-- Live sets, concerts & a closing party that runs late
-
-Landing during Korea Blockchain Week, when Seoul is full of the people building what's next.
-
-ARC, Seoul
-
-Sept 29 → Oct 3, 2026
-
-By Wildcat × Digital AF
-
-See you in Seoul.
-
-------------------------------------------------------------------
-
-하나의 공간. 5일간의 여정. 경계 없는 융합.
-
-DIGITAL AF (하나됨 - "unity")는 현대 미술, 기술, 게임, 그리고 한국 문화가 실시간으로 충돌하고 반응하며 서로 영감을 주고받는 독창적인 콘퍼런스 겸 전시 공간입니다.
-
-9m의 층고와 3개의 층으로 연결된 800m² 규모의 옛 철강 공장을 개조한 공간 'ARC'에서 진행되는 DIGITAL AF는 유럽과 한국의 기업, 빌더, 아티스트, 그리고 투자자들이 한자리에 모이는 네트워크의 장입니다.
-
-스폰서십 문의: digitalaf.xyz@gmail.com
-
-주요 프로그램:
-
-- 예술, 게임, AI의 접점을 다루는 토크 세션 및 전시 구역
-- 대형 아트 인스톨레이션 및 라이브 볼류메트릭 라이트 워크 몰입형 공간
-- 라이브 셋, 콘서트, 그리고 늦은 밤까지 이어지는 클로징 파티
-  - 다음 시대를 만들어가는 이들로 서울이 가득 차는 Korea Blockchain Week 기간에 맞춰 개최됩니다.
-  - 서울 ARC
-  - 2026년 9월 29일 → 10월 3일
-  - 주최: Wildcat × Digital AF
-  - 서울에서 만나요.
-
 <a id="event-36a647198eb5b9c7"></a>
 
 ## BAYC 성수 브랜드 팝업
@@ -34860,101 +33814,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-02T07:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://dark.events/events/prague/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-2c89ecb5ccae5e2f"></a>
-
-## Metropolis Hackathon Builder Day: London \| $250,000 in prizes
-
-- Record: `luma-host-evt-evt-x18sFHsWoSwnaIP`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-02T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/metropolis-lon-oct-2026>
-- Original page: <https://luma.com/metropolis-lon-oct-2026>
-
-### About the event
-
-Monad Metropolis is Monad's flagship global hackathon - six weeks, online-first, $250,000 in prizes. This is the London hacker house: one day at Encode Hub to meet other builders working on Metropolis, get your questions answered, and put real hours into your submission.
-
-Metropolis runs 1 September to 13 October. Wherever you are in that window - still shaping an idea, looking for teammates, or deep in the build - this day is for you.
-
-### What to expect
-
-Morning: around two hours of talks and workshops. A technical session run by Monad's engineering team, plus speakers on the things that decide whether a hackathon project becomes a company - go-to-market, fundraising, business model, community and hiring.
-
-Rest of the day: coworking. Desks, fast wifi, coffee, and mentors on the floor.
-
-Come with a team or find one here.
-
-### The Tracks
-
-Onchain Finance & Trading - asset primitives and market infrastructure that only work with fast settlement.
-
-Consumer Products & Payments - crypto that doesn't feel like crypto. Social payments, salary streaming, programmable gifts.
-
-Social, Attention & Culture - open social graphs, attention markets, generative art, competitive feeds.
-
-Trust, Identity & AI Infrastructure - primitives for an AI-native internet. Proof of personhood, content passports, data lockers.
-
-### Prizes
-
-$250,000 total. $30,000 overall winner, $30,000 per track, plus 20+ sponsor bounties from Dynamic, Privy, Perpl, Nansen, Chainlink, Agora, Kuru, MetaMask and others.
-
-### Who should come
-
-Developers, designers and founders building on Monad - or curious about it. Solo builders welcome; teams form on the day. You don't need prior Monad experience, but bring a laptop.
-
-Registration is free and capacity is limited.
-
-Register for Metropolis itself at hackathon.monad.xyz - this event is a London meetup during the build window, not a substitute for entering.
-
-<a id="event-ebc9e92451ae301c"></a>
-
-## OnlyBulls x Ault Markets in Seoul
-
-- Record: `w3v-onlybulls-x-ault-markets-seoul-26-10-02`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-02T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/zyx04nyc>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-3b9bda84aebf8d54"></a>
-
-## Waves After Hours
-
-- Record: `w3v-waves-hours-26-10-02`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-02T10:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/nfnqe1ol>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-49998b5fa8faa256"></a>
-
-## SuperteamTR x Paribu: Colosseum Builder Day
-
-- Record: `luma-host-evt-evt-WNFhhoIvf9VA75A`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-02T12:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/wstdyp57>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-1fd65a972fbe2c6c"></a>
-
-## SuperteamTR — Colosseum Office Hours
-
-- Record: `luma-host-evt-evt-WMrTSQ9uJmQxttw`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-02T16:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/dl00mens>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -54358,6 +53217,18 @@ The residency operates 24 hours a day from November 3 through November 7 at a pr
 
 Applications are evaluated based on project traction, team background, and stage of development. Approved founders receive check-in credentials, residency passes, and room details.
 
+<a id="event-3f42ebe40cba5dd8"></a>
+
+## Chicago Polymarket Profit Strategy
+
+- Record: `mu-317234011`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-01T17:30:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/beat-makers-and-sound-engineers-unite/events/317234011/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-7eefcb0436105598"></a>
 
 ## Formula 1 Mexico City Watch Speakeasy
@@ -55669,6 +54540,18 @@ The reception is hosted at an upscale hospitality venue in central Mumbai on Wed
 
 Tickets are complimentary but strictly invitation-only and subject to manual review. Founders must provide a project overview, and investors must verify their fund affiliation when requesting an RSVP.
 
+<a id="event-0d2a47ddf9ab6ede"></a>
+
+## A Slice of Bitcoin Culture
+
+- Record: `luma-evt-mBAHL16fOTQj9ai`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T16:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/uqs749ko>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-354d5eb6e7fd82b2"></a>
 
 ## FORWARD - WOMEN'S HEALTH SUMMIT
@@ -55714,6 +54597,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-04T18:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/v27ik7m7>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-65769eea26f0c615"></a>
+
+## Open Bitcoin Discussion
+
+- Record: `mu-316047225`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T20:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/meetup-group-cttlfnfm/events/316047225/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -56918,6 +55813,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-81634bbe55391210"></a>
+
+## Socratic Seminar
+
+- Record: `mu-317110095`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-12T18:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/chibitdevs/events/317110095/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-6e515edade4a36ac"></a>
 
 ## The LOCAL W.M.C - Breakpoint/DAS Edition
@@ -57035,6 +55942,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-13T08:00:00-07:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-phoenix/events/317156432/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-97c95d890419b774"></a>
+
+## Webinar with Cosmos Labs: Designing Tokenized Deposits for a Multi-Ledger Future
+
+- Record: `mu-317156436`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-13T09:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-chicago/events/317156436/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -57249,6 +56168,18 @@ Previous Edition:
 Previous Events:
 
 etc.
+
+<a id="event-396109b368ddb020"></a>
+
+## South Side Spanish (Bridgeport)
+
+- Record: `mu-315621742`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-14T15:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/chicago-spanish-language/events/315621742/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-3bef137fc63cbb6b"></a>
 
@@ -58030,6 +56961,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-c2cc7a612aef73e0"></a>
+
+## ZK Learning Group: ZK Identity, supporting AML/KYC with ZK
+
+- Record: `mu-317065030`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19T11:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-chicago/events/317065030/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-294bce2f6aef509b"></a>
 
 ## ZK Learning Group: ZK Identity, supporting AML/KYC with ZK
@@ -58051,6 +56994,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-19T15:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/SolanaPadelMatchDXB>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-d44aa25ddd722fa4"></a>
+
+## B.O.B. Social with Ryan Kuester (Mujina)
+
+- Record: `mu-316858413`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19T18:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/bitcoin-open-blockchain-community-chicago/events/316858413/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -58183,6 +57138,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-21T03:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://herhack.devpost.com>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-0ae0b631abe6e976"></a>
+
+## (Maybe) Walk and (Definitely) Talk..coffee/snacks to follow
+
+- Record: `mu-317136068`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-21T10:00:00-06:00
+- Description: Missing
+- Original page: <https://www.meetup.com/ppwofil/events/317136068/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

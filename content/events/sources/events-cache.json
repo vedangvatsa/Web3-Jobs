@@ -340,145 +340,6 @@
     "slug": "sec"
   },
   {
-    "id": "w3v-digital-af--exhibition--side-events-space",
-    "name": "DIGITAL AF! • United Art & Tech • Web3 meets culture in Seoul",
-    "description": "DIGITAL AF 하나됨 — Seoul '26\nSept 29 → Oct 3 · ARC Gangnam, Seoul\n\nDIGITAL AF deliberately brings together communities that do not usually share the same room.\n\nThe program spans blockchain, AI, gaming and emerging technology alongside contemporary art, music and Korean culture.\n\nThe idea is to create an environment where a founder can meet an artist, an investor can discover a gaming project, a developer can find their next collaborator, or an international visitor can connect with a Korean builder outside the usual conference setting.\n\nFor Sponsorship Opportunities : digitalaf.xyz@gmail.com\n\nWhat's On?\n\n- Talks and exhibition area at the intersection of art, gaming & AI\n-  Large-format art installations & live volumetric light work immersive space\n- Live sets, concerts & a closing party that runs late\n\nLanding during Korea Blockchain Week, when Seoul is full of the people building what's next.\n\n📍 ARC, Seoul\n🗓️ Sept 29 → Oct 3, 2026\n\nBy Wildcat × Digital AF\n\nSee you in Seoul.\n------------------------------------------------------------------\n\n하나의 공간. 5일간의 여정. 경계 없는 융합.\n\nDIGITAL AF (하나됨 — \"unity\")는 현대 미술, 기술, 게임, 그리고 한국 문화가 실시간으로 충돌하고 반응하며 서로 영감을 주고받는 독창적인 콘퍼런스 겸 전시 공간입니다.\n\n9m의 층고와 3개의 층으로 연결된 800m² 규모의 옛 철강 공장을 개조한 공간 'ARC'에서 진행되는 DIGITAL AF는 유럽과 한국의 기업, 빌더, 아티스트, 그리고 투자자들이 한자리에 모이는 네트워크의 장입니다.\n\n스폰서십 문의: digitalaf.xyz@gmail.com\n\n주요 프로그램:\n\n• 예술, 게임, AI의 접점을 다루는 토크 세션 및 전시 구역\n• 대형 아트 인스톨레이션 및 라이브 볼류메트릭 라이트 워크 몰입형 공간\n• 라이브 셋, 콘서트, 그리고 늦은 밤까지 이어지는 클로징 파티\n  • 다음 시대를 만들어가는 이들로 서울이 가득 차는 Korea Blockchain Week 기간에 맞춰 개최됩니다.\n  • 📍 서울 ARC\n  • 🗓️ 2026년 9월 29일 → 10월 3일\n  • 주최: Wildcat × Digital AF\n  • 서울에서 만나요.",
-    "startDate": "2026-09-29T07:00:00.000Z",
-    "endDate": "2026-10-02T17:00:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "14-15 Yangjae-dong, Seocho District, Seoul, South Korea",
-    "url": "https://luma.com/zecq09tp",
-    "coverImage": "/events/luma-recover-w3vdigitalafexhi-843d4c1e.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "hosts": [
-      "Comooooab",
-      "AI Builders",
-      "BuilderBase",
-      "RayRay",
-      "bruce"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Seoul",
-    "neighborhood": "Yangjae-dong",
-    "slug": "daeses",
-    "registrationUrl": "https://luma.com/zecq09tp",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "14-15",
-    "streetAddress": "14-15 Yangjae-dong, Seocho District",
-    "addressLocality": "Seoul",
-    "addressRegion": "Seoul",
-    "addressCountry": "KR",
-    "coordinates": {
-      "latitude": 37.4818065,
-      "longitude": 127.0373673
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "Digital AF! Korea",
-      "url": "https://digitalaf.xyz/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Free Entrance Ticket",
-        "url": "https://luma.com/zecq09tp",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "Business Pass - Early-bird",
-        "url": "https://luma.com/zecq09tp",
-        "price": 49,
-        "priceCurrency": "USD",
-        "availability": "InStock"
-      },
-      {
-        "name": "VIP Pass - Early-bird",
-        "url": "https://luma.com/zecq09tp",
-        "price": 149,
-        "priceCurrency": "USD",
-        "availability": "InStock"
-      },
-      {
-        "name": "Closing Party - Early-bird",
-        "url": "https://luma.com/zecq09tp",
-        "price": 25,
-        "priceCurrency": "EUR",
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/zecq09tp",
-      "eventId": "evt-ZR9kvg5Gf1VTqvI",
-      "fetchedAt": "2026-09-19T23:29:55.518Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "luma-host-evt-evt-x18sFHsWoSwnaIP",
-    "name": "Metropolis Hackathon Builder Day: London | $250,000 in prizes",
-    "description": "Monad Metropolis is Monad's flagship global hackathon - six weeks, online-first, $250,000 in prizes. This is the London hacker house: one day at Encode Hub to meet other builders working on Metropolis, get your questions answered, and put real hours into your submission.\n\nMetropolis runs 1 September to 13 October. Wherever you are in that window — still shaping an idea, looking for teammates, or deep in the build — this day is for you.\n\n## What to expect\n\nMorning: around two hours of talks and workshops. A technical session run by Monad's engineering team, plus speakers on the things that decide whether a hackathon project becomes a company — go-to-market, fundraising, business model, community and hiring.\n\nRest of the day: coworking. Desks, fast wifi, coffee, and mentors on the floor.\nCome with a team or find one here.\n\n## The Tracks\n\nOnchain Finance & Trading - asset primitives and market infrastructure that only work with fast settlement.\n\nConsumer Products & Payments - crypto that doesn't feel like crypto. Social payments, salary streaming, programmable gifts.\n\nSocial, Attention & Culture - open social graphs, attention markets, generative art, competitive feeds.\n\nTrust, Identity & AI Infrastructure - primitives for an AI-native internet. Proof of personhood, content passports, data lockers.\n\n## Prizes\n\n$250,000 total. $30,000 overall winner, $30,000 per track, plus 20+ sponsor bounties from Dynamic, Privy, Perpl, Nansen, Chainlink, Agora, Kuru, MetaMask and others.\n\n## Who should come\n\nDevelopers, designers and founders building on Monad — or curious about it. Solo builders welcome; teams form on the day. You don't need prior Monad experience, but bring a laptop.\n\nRegistration is free and capacity is limited.\n\nRegister for Metropolis itself at hackathon.monad.xyz — this event is a London meetup during the build window, not a substitute for entering.",
-    "startDate": "2026-10-02T09:00:00.000Z",
-    "endDate": "2026-10-02T17:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "url": "https://lu.ma/metropolis-lon-oct-2026",
-    "coverImage": "/events/luma-host-evt-evt-x18sfhswoswnaip-7f938619.webp",
-    "source": "luma-trusted",
-    "month": "October 2026",
-    "slug": "mmhh",
-    "timezone": "Europe/London",
-    "registrationUrl": "https://luma.com/metropolis-lon-oct-2026",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Encode Hub",
-    "streetAddress": "41 Pitfield St, London",
-    "addressLocality": "London",
-    "addressRegion": "England",
-    "addressCountry": "GB",
-    "coordinates": {
-      "latitude": 51.5275865,
-      "longitude": -0.08377020000000002
-    },
-    "hosts": [
-      "Encode Club",
-      "Monad Foundation",
-      "Elton Yeo"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Encode Club",
-      "url": "https://www.encode.club/"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/metropolis-lon-oct-2026",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/metropolis-lon-oct-2026",
-      "eventId": "evt-x18sFHsWoSwnaIP",
-      "fetchedAt": "2026-09-19T23:54:13.408Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "w3v-rwa-capital-forum",
     "name": "RWA Capital Forum",
     "description": "Connecting Capital with Onchain Opportunities.\n\nLunch will be provided for registered guests.\n\nThe RWA Capital Forum brings together institutional investors, digital asset funds, family offices, liquidity providers and leading RWA companies for an afternoon focused on one question: where are the most compelling opportunities emerging across onchain real-world assets?\n\nHosted by Taisu Ventures, the forum connects capital with a curated group of companies building across private credit, tokenized assets, institutional yield and next-generation onchain financial infrastructure.\n\nThe afternoon will feature perspectives from active market participants, a curated showcase of RWA opportunities from the Taisu ecosystem, and dedicated time for direct conversations between capital providers and builders.\n\nLunch will be served. Please register in advance to help us plan accordingly.",
@@ -12206,60 +12067,6 @@
     "month": "October 2026"
   },
   {
-    "id": "w3v-onlybulls-x-ault-markets-seoul-26-10-02",
-    "name": "OnlyBulls x Ault Markets in Seoul",
-    "description": "OnlyBulls x Ault Markets in Seoul: networking meetup for crypto traders and Web3 participants on October 2.",
-    "startDate": "2026-10-02T09:00:00.000Z",
-    "endDate": "2026-10-02T15:00:00.000Z",
-    "city": "Global",
-    "country": "KR",
-    "location": "Global, KR",
-    "url": "https://luma.com/zyx04nyc",
-    "coverImage": "/events/w3v-onlybulls-x-ault-markets-seoul-26-10-02-06e2aad2.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-waves-hours-26-10-02",
-    "name": "Waves After Hours",
-    "description": "Waves After Hours: a Seoul gathering for Surf users, crypto builders and traders with cocktails and networking on October 2.",
-    "startDate": "2026-10-02T10:00:00.000Z",
-    "endDate": "2026-10-02T13:00:00.000Z",
-    "city": "Global",
-    "country": "KR",
-    "location": "Global, KR",
-    "url": "https://luma.com/nfnqe1ol",
-    "coverImage": "/events/w3v-waves-hours-26-10-02-8a4466f9.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-WNFhhoIvf9VA75A",
-    "name": "SuperteamTR x Paribu: Colosseum Builder Day",
-    "description": "",
-    "startDate": "2026-10-02T12:00:00.000Z",
-    "endDate": "2026-10-02T14:00:00.000Z",
-    "city": "Sarıyer",
-    "country": "Türkiye",
-    "location": "Sarıyer, Türkiye",
-    "url": "https://luma.com/wstdyp57",
-    "coverImage": "/events/luma-host-evt-evt-wnfhhoivf9va75a-24fc7e7d.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-WMrTSQ9uJmQxttw",
-    "name": "SuperteamTR — Colosseum Office Hours",
-    "description": "",
-    "startDate": "2026-10-02T16:00:00.000Z",
-    "endDate": "2026-10-02T17:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "TBA",
-    "url": "https://luma.com/dl00mens",
-    "coverImage": "/events/luma-host-evt-evt-wmrtsq9ujmqxttw-d3f2b8a5.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-evt-jnnzTiiXQ3jkCaH",
     "name": "Builders Pitch & Pizza Night: Uncork Capital x Silicon Hills Project",
     "description": "",
@@ -19819,10 +19626,7 @@
     "url": "https://www.meetup.com/lfdt-silicon-valley/events/316802686/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "luma-evt-9fG9CmDFC7ikDpE",
@@ -26103,7 +25907,7 @@
     "country": "us",
     "location": "Chicago, us",
     "url": "https://www.meetup.com/como-agua-para-lectores-de-chicago-book-club/events/316644745/",
-    "coverImage": "/events/mu-316644745-af1c1659.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -26117,7 +25921,7 @@
     "country": "us",
     "location": "Chicago, us",
     "url": "https://www.meetup.com/bitcoin-open-blockchain-community-chicago/events/316884574/",
-    "coverImage": "/events/mu-316884574-848e55ae.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -26133,10 +25937,7 @@
     "url": "https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946609/",
     "coverImage": "/events/mu-312946609-64a47ab1.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Frank Migacz"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "mu-316901080",
@@ -26148,7 +25949,7 @@
     "country": "us",
     "location": "Chicago, us",
     "url": "https://www.meetup.com/aittg-chicago/events/316901080/",
-    "coverImage": "/events/mu-316901080-e8ffd8c4.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -26875,7 +26676,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261101T113738Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=6728d5035073b29f5e9b8bb5ea3dba3b4010a56de439520f4a676f82cee281e6",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261101T171843Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=b71d593a538030b5848fe3658d2bd71e38ea95f54c21c63c1b8c4f27694d7145",
     "month": "November 2026"
   },
   {
@@ -28832,7 +28633,7 @@
     "country": "ES",
     "location": "Barcelona, ES",
     "url": "https://luma.com/v27ik7m7",
-    "coverImage": "/events/w3v-buzoku-ai-crypto-meetup-15-1793457801872-faab781c.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -28901,6 +28702,132 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-silicon-valley/events/317065042/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317234011",
+    "name": "Chicago Polymarket Profit Strategy",
+    "description": "📈 **Win on Prediction Markets – Polymarket Masterclass**\n\nMaster prediction markets with a systematic approach that works across any event.\n\n⚠️ Register below to confirm — RSVP is not your ticket in.",
+    "startDate": "2026-11-01T17:30:00-05:00",
+    "endDate": "2026-11-01T17:30:00-05:00",
+    "city": "Chicago",
+    "country": "us",
+    "location": "Chicago, us",
+    "url": "https://www.meetup.com/beat-makers-and-sound-engineers-unite/events/317234011/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-mBAHL16fOTQj9ai",
+    "name": "A Slice of Bitcoin Culture",
+    "description": "",
+    "startDate": "2026-11-04T16:00:00.000Z",
+    "endDate": "2026-11-04T19:00:00.000Z",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://lu.ma/uqs749ko",
+    "coverImage": "/events/luma-evt-mbahl16fotqj9ai-d61b5082.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-316047225",
+    "name": "Open Bitcoin Discussion",
+    "description": "Our weekly **open Bitcoin discussion**.\nTo join, RSVP for the event that you can make\n\nThe usual format: live market dashboard to open, \\~20 minutes of curated slides, then open discussion. Bring your",
+    "startDate": "2026-11-04T20:00:00-05:00",
+    "endDate": "2026-11-04T20:00:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/meetup-group-cttlfnfm/events/316047225/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317110095",
+    "name": "Socratic Seminar",
+    "description": "Please note that Chicago BitDevs aims at a technical audience. A general expectation is that people are quite familiar with the design, security, and specification of Bitcoin. Everyone is welcome and ",
+    "startDate": "2026-11-12T18:00:00-06:00",
+    "endDate": "2026-11-12T18:00:00-06:00",
+    "city": "Chicago",
+    "country": "us",
+    "location": "Chicago, us",
+    "url": "https://www.meetup.com/chibitdevs/events/317110095/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317156436",
+    "name": "Webinar with Cosmos Labs: Designing Tokenized Deposits for a Multi-Ledger Future",
+    "description": "Join us for a webinar with Cosmos Labs, an LFDT general member, on Designing Tokenized Deposits for a Multi-Ledger Future. Most tokenized deposit initiatives start within a single institution or conso",
+    "startDate": "2026-11-13T09:00:00-06:00",
+    "endDate": "2026-11-13T09:00:00-06:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-chicago/events/317156436/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-315621742",
+    "name": "South Side Spanish (Bridgeport)",
+    "description": "Estás invitado a un grupo de habla español. Aquí no se juzga, es bienvenido/a el que sea nativo/a o al que este recién empezando. Lo único que te pedimos es que hagas un esfuerzo ya que es primordial ",
+    "startDate": "2026-11-14T15:00:00-06:00",
+    "endDate": "2026-11-14T15:00:00-06:00",
+    "city": "Chicago",
+    "country": "us",
+    "location": "Chicago, us",
+    "url": "https://www.meetup.com/chicago-spanish-language/events/315621742/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317065030",
+    "name": "ZK Learning Group: ZK Identity, supporting AML/KYC with ZK",
+    "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
+    "startDate": "2026-11-19T11:00:00-06:00",
+    "endDate": "2026-11-19T11:00:00-06:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-chicago/events/317065030/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-316858413",
+    "name": "B.O.B. Social with Ryan Kuester (Mujina)",
+    "description": "Join us for an informal B.O.B. social featuring Ryan Kuester of Mujina, the open source Bitcoin miner firmware project. Come hang out, ask questions, and meet fellow Bitcoiners.\nBeginner-friendly comm",
+    "startDate": "2026-11-19T18:00:00-06:00",
+    "endDate": "2026-11-19T18:00:00-06:00",
+    "city": "Chicago",
+    "country": "us",
+    "location": "Chicago, us",
+    "url": "https://www.meetup.com/bitcoin-open-blockchain-community-chicago/events/316858413/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317136068",
+    "name": "(Maybe) Walk and (Definitely) Talk..coffee/snacks to follow",
+    "description": "",
+    "startDate": "2026-11-21T10:00:00-06:00",
+    "endDate": "2026-11-21T10:00:00-06:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/ppwofil/events/317136068/",
     "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
