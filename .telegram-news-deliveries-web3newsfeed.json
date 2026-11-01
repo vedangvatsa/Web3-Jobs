@@ -2946,5 +2946,36 @@
     "slotKey": "2026-11-01:afternoon",
     "messageId": 65796,
     "sentAt": "2026-11-01T11:34:44.073Z"
+  },
+  "cb6a77bc-bf55-46c2-a440-22dcd6967a54": {
+    "status": "reserved",
+    "reservedAt": "2026-11-01T19:36:00.376Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Judge upholds Gemini and CFTC $5 million settlement",
+        "summary": "The ruling maintains the exchange's 2025 penalty and conduct order after a joint request to vacate was denied.",
+        "link": "https://hashtagweb3.com/geminiorder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Judge rejects Gemini and CFTC bid to void $5 million settlement"
+      },
+      {
+        "index": -1,
+        "headline": "Qubic halts network after attacker drains 1,404 wallets",
+        "summary": "Developers froze most of the 2.94 trillion stolen tokens on the network following the security breach.",
+        "link": "https://hashtagweb3.com/qubicdrain?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Qubic halts network after attacker drains 1,404 wallets"
+      },
+      {
+        "index": -1,
+        "headline": "Strategy increases share buyback authorization to $3 billion",
+        "summary": "The company purchased 267 bitcoin and $193.1 million in shares during the week ending October 18.",
+        "link": "https://hashtagweb3.com/strategystrc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Strategy lifts STRC buyback cap to $3 billion after $193 million week"
+      }
+    ],
+    "slotKey": "2026-11-01:evening"
   }
 }
