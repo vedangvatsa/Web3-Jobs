@@ -89214,7 +89214,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "60b14984-151c-46ce-b3ec-5abd316eec90",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae794db41177396479980a7"
     }
   ]
 }
