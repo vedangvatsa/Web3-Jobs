@@ -87724,7 +87724,8 @@
       },
       "account": "profile",
       "attemptId": "4374254c-bb46-4ec5-b8b8-38016741df2c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x6c810ad0235e21ad18a15b69811e8d2641117bbc"
     }
   ]
 }
