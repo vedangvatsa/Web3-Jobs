@@ -88367,7 +88367,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "da74f4ac-a6bb-40ca-a401-9688fcd16a41",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae724f721c807e9d5b6ceb3"
     }
   ]
 }
