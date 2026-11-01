@@ -2881,7 +2881,7 @@
     "sentAt": "2026-10-31T19:36:57.069Z"
   },
   "eaece3dc-2204-4f4b-997a-e5b93e95cd41": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-01T03:39:57.822Z",
     "stories": [
       {
@@ -2910,6 +2910,8 @@
         "originalTitle": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses"
       }
     ],
-    "slotKey": "2026-11-01:morning"
+    "slotKey": "2026-11-01:morning",
+    "messageId": 65795,
+    "sentAt": "2026-11-01T03:40:01.575Z"
   }
 }
