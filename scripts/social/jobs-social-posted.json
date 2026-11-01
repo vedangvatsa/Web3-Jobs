@@ -85575,7 +85575,8 @@
       },
       "account": "channel:defi",
       "attemptId": "0e431749-6bb7-4dd3-9c72-cef1d0566b66",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4cf034293dee93b8e9de2100bc095243f23ece1d"
     }
   ]
 }
