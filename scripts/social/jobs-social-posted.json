@@ -88471,8 +88471,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "df59e538-1bdf-4305-a2c9-18b6f3238211",
-      "verification": "pending",
-      "postId": "6ae7942a5604f9d85b840df0"
+      "verification": "verified",
+      "postId": "6ae7942a5604f9d85b840df0",
+      "permalink": "https://twitter.com/hashtag_web3/status/2116977081850400905"
     }
   ]
 }
