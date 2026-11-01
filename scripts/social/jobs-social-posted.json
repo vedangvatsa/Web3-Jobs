@@ -87759,7 +87759,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "92d48291-770e-421e-83ba-c03b9ce7058c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x61dadfa272114b124c98f305cf6dbbeaeefd647c"
     }
   ]
 }
