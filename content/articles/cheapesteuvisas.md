@@ -2,7 +2,7 @@
 title: The Cheapest European Residency and Remote Worker Visas to Apply For
 ogTitle: "THE CHEAPEST EUROPEAN RESIDENCY AND REMOTE WORKER VISAS TO APPLY FOR"
 description: A financial guide ranking the lowest application cost European digital nomad and freelance visas with minimum fees and income requirements.
-image: /images/articles/digital-nomad-visas-income-vs-duration.png
+image: /images/articles/citizenship-by-investment-capital-vs-speed.png
 category: Career Guides
 data-ai-hint: cheapest european residency remote worker visas apply
 publishedDate: '2026-11-01'
@@ -18,7 +18,7 @@ These visas grant you legal residency, an official biometric residence card, the
 
 This guide ranks the most affordable European digital nomad and freelance visas by total application cost and minimum income requirements, based on data from our [Digital Nomad Visas Guide](/visas).
 
-![Digital nomad visas ranked by income thresholds and permit durations](/images/articles/digital-nomad-visas-income-vs-duration.png)
+![European residency and citizenship routes compared by capital and speed](/images/articles/citizenship-by-investment-capital-vs-speed.png)
 
 ## What Costs are Involved in Applying for a European Visa
 

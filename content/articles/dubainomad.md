@@ -2,7 +2,7 @@
 title: Living in Dubai on the Virtual Working Programme with Zero Personal Tax
 ogTitle: "LIVING IN DUBAI ON THE VIRTUAL WORKING PROGRAMME WITH ZERO PERSONAL TAX"
 description: A complete operational guide to moving to Dubai on the one year Virtual Working Visa enjoying zero personal tax and first world infrastructure.
-image: /images/nomads/dubai.webp
+image: /images/articles/digital-nomad-visas-tax-vs-income.png
 category: Career Guides
 data-ai-hint: dubai virtual working programme zero personal tax digital nomad guide
 publishedDate: '2026-11-01'
@@ -20,7 +20,7 @@ Combine this fiscal freedom with world-class public safety, ultra-fast fiber int
 
 This guide provides a comprehensive, practical roadmap to qualifying for and applying for Dubai's Virtual Working Programme, securing your physical Emirates ID card, and managing daily living expenses.
 
-![Digital nomad visas compared by monthly income and foreign tax rate](/images/nomads/dubai.webp)
+![Digital nomad visas compared by monthly income and foreign tax rate](/images/articles/digital-nomad-visas-tax-vs-income.png)
 
 ## Core Specifications of Dubai's Virtual Working Programme
 

@@ -2,7 +2,7 @@
 title: How US Citizens Manage State Taxes and FEIE While Living as Digital Nomads
 ogTitle: "HOW US CITIZENS MANAGE STATE TAXES AND FEIE WHILE LIVING AS DIGITAL NOMADS"
 description: A legal tax guide for American remote workers covering the Foreign Earned Income Exclusion state tax domicile de-registration and FBAR compliance.
-image: /images/articles/digital-nomad-visas-tax-vs-income.png
+image: /images/articles/global-passports-mobility-vs-cost.png
 category: Career Guides
 data-ai-hint: us citizens state taxes feie foreign earned income exclusion guide
 publishedDate: '2026-11-01'
@@ -20,7 +20,7 @@ In addition, severing state-level tax domicile from high-tax states like Califor
 
 This guide provides a comprehensive tax blueprint for American digital nomads, explaining how the FEIE works, how to satisfy the 330-day Physical Presence Test, how to break state tax residency, and how to maintain total IRS compliance.
 
-![Digital nomad visas compared by monthly income and foreign tax rate](/images/articles/digital-nomad-visas-tax-vs-income.png)
+![Global passports and residency mobility compared by cost](/images/articles/global-passports-mobility-vs-cost.png)
 
 ## 1. The Foreign Earned Income Exclusion (FEIE / Form 2555)
 
