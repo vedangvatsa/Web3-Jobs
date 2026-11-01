@@ -89026,7 +89026,8 @@
       },
       "account": "channel:ai",
       "attemptId": "008b11ea-4db4-440b-ab7b-38c156a191ab",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0dc8fb6e2ad0128386be7face2b90626f583a065"
     }
   ]
 }
