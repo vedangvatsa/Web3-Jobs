@@ -87525,6 +87525,47 @@
       "verification": "verified",
       "postId": "6ae7243221c807e9d5b6926c",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7522622637219561472"
+    },
+    {
+      "slug": "aso68",
+      "company": "Flow Traders",
+      "title": "Executive Assistant",
+      "platform": "linkedin",
+      "postedAt": "2026-11-01T11:33:14.670Z",
+      "expectedText": "Flow Traders is hiring Executive Assistant: https://hashtagweb3.com/aso68/li?og=7",
+      "snapshot": {
+        "id": "8305700",
+        "title": "Executive Assistant",
+        "company": "Flow Traders",
+        "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8305700",
+        "date": "2026-10-21T08:12:55-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Flow Traders [flowtraders]",
+        "location": "Amsterdam",
+        "department": "Management Support",
+        "active": true,
+        "dateVerified": true,
+        "slug": "aso68"
+      },
+      "payload": {
+        "text": "Flow Traders is hiring Executive Assistant: https://hashtagweb3.com/aso68/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/aso68/li?og=7",
+          "title": "Executive Assistant at Flow Traders",
+          "description": "Join Flow Traders as Executive Assistant. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/aso68.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "86e5a567-9db2-4a1f-b742-c490b50e94b9",
+      "verification": "creating"
     }
   ]
 }
