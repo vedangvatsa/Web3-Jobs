@@ -14,8 +14,8 @@ import { getFreshJobCountLabel } from '@/lib/seo-freshness';
 export const dynamic = 'force-static';
 export const revalidate = 3600;
 
-const pageTitle = `Web3 Jobs & Crypto Careers (${getFreshJobCountLabel()})`;
-const pageDesc = `Find verified Web3 jobs, crypto careers, salary data, and remote blockchain roles. ${getFreshJobCountLabel()}. Updated daily for builders, engineers, and operators.`;
+const pageTitle = `Remote Web3 Jobs (${getFreshJobCountLabel()})`;
+const pageDesc = `Find verified remote Web3 jobs, crypto careers, salary data, and blockchain roles. ${getFreshJobCountLabel()}. Updated daily for builders, engineers, and operators.`;
 
 export const metadata: Metadata = {
   title: pageTitle,

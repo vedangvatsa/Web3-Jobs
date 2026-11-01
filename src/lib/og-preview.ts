@@ -113,8 +113,8 @@ async function resolveArticleMetadata(slug: string): Promise<OgPreviewMeta | nul
 
 const PAGE_META: Record<string, Omit<OgPreviewMeta, 'canonicalUrl'>> = {
     '/': {
-      title: `Web3 Jobs & Crypto Careers (${getFreshJobCountLabel()}) | ${SITE_NAME}`,
-      description: `Find verified Web3 jobs, crypto careers, salary data, and remote blockchain roles. ${getFreshJobCountLabel()}. Updated daily for builders, engineers, and operators.`,
+      title: `Remote Web3 Jobs (${getFreshJobCountLabel()}) | ${SITE_NAME}`,
+      description: `Find verified remote Web3 jobs, crypto careers, salary data, and blockchain roles. ${getFreshJobCountLabel()}. Updated daily for builders, engineers, and operators.`,
       ogImageUrl: STATIC_OG.default,
     },
     '/jobs': {
