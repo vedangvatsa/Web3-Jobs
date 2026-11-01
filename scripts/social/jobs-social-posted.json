@@ -88711,7 +88711,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "b7e4f82f-fad7-4fdb-9b8c-16d9a7dac9cd",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4ed1df7df7a5dbd46293aeefe7b30a37246eb70d"
     }
   ]
 }
