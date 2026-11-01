@@ -87334,7 +87334,8 @@
       },
       "account": "channel:ai",
       "attemptId": "8c165d73-6248-436f-844a-1f752f58f235",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa96507d10575cdf84f96dfa553dbf331f145f7a2"
     }
   ]
 }
