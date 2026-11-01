@@ -12331,5 +12331,123 @@
     "slotKey": "2026-11-01:evening",
     "messageId": 16599,
     "sentAt": "2026-11-01T19:33:08.169Z"
+  },
+  "e72624a4-9f7c-47bb-9815-763425f1ab73": {
+    "status": "reserved",
+    "reservedAt": "2026-11-01T19:33:10.009Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "35c98674-9bbc-476e-a0f9-a1c48705966a",
+          "title": "Senior/ Principal Product Manager, Trading(Crypto.com App) - Relocate to HK",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/35c98674-9bbc-476e-a0f9-a1c48705966a",
+          "date": "2026-10-09T05:47:41.565Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (United States)",
+          "workplaceType": "hybrid",
+          "department": "Product Management & Product Design",
+          "salary": "USD 130,000 - USD 180,000 per year",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm276"
+        },
+        "key": "35c98674-9bbc-476e-a0f9-a1c48705966a",
+        "slug": "pm276",
+        "url": "https://hashtagweb3.com/pm276?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Senior/ Principal Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "7e7e5e09-9e60-4ec0-9837-d87e379d5f29",
+          "title": "Smart Contract Engineer",
+          "company": "Open Standard",
+          "link": "https://jobs.ashbyhq.com/openstandard/7e7e5e09-9e60-4ec0-9837-d87e379d5f29",
+          "date": "2026-10-15T17:24:36.700+00:00",
+          "source": "Ashby: Open Standard [openstandard]",
+          "location": "New York City",
+          "department": "Engineering",
+          "applyUrl": "https://jobs.ashbyhq.com/openstandard/7e7e5e09-9e60-4ec0-9837-d87e379d5f29/application",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng652"
+        },
+        "key": "7e7e5e09-9e60-4ec0-9837-d87e379d5f29",
+        "slug": "eng652",
+        "url": "https://hashtagweb3.com/eng652?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Open Standard",
+        "title": "Smart Contract Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "c463c363-b2e2-425f-bc7f-332a53955ded",
+          "title": "Fraud Data Scientist",
+          "company": "Coinflow",
+          "link": "https://jobs.ashbyhq.com/coinflow/c463c363-b2e2-425f-bc7f-332a53955ded",
+          "date": "2026-10-29T14:03:57.836+00:00",
+          "source": "Ashby: Coinflow [coinflow]",
+          "location": "Chicago",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "fds2"
+        },
+        "key": "c463c363-b2e2-425f-bc7f-332a53955ded",
+        "slug": "fds2",
+        "url": "https://hashtagweb3.com/fds2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinflow",
+        "title": "Fraud Data Scientist"
+      },
+      {
+        "snapshot": {
+          "id": "df6c8c7a-e8ee-4a40-9161-c15e5ff5a236",
+          "title": "Sales Director, p(X)",
+          "company": "Talos",
+          "link": "https://jobs.ashbyhq.com/Talos-Trading/df6c8c7a-e8ee-4a40-9161-c15e5ff5a236",
+          "date": "2026-10-09T13:54:13.049+00:00",
+          "source": "Ashby: Talos [Talos-Trading]",
+          "location": "Hybrid (New York)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "PX",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls260"
+        },
+        "key": "df6c8c7a-e8ee-4a40-9161-c15e5ff5a236",
+        "slug": "sls260",
+        "url": "https://hashtagweb3.com/sls260?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Talos",
+        "title": "Sales Director"
+      },
+      {
+        "snapshot": {
+          "id": "a0ccb1fa-730e-49dd-8986-8581a4fc25db",
+          "title": "BRAIINS FORGE: Product Manager",
+          "company": "Braiins",
+          "link": "https://jobs.ashbyhq.com/braiins/a0ccb1fa-730e-49dd-8986-8581a4fc25db",
+          "date": "2026-10-13T13:56:20.171+00:00",
+          "source": "Ashby: Braiins [braiins]",
+          "location": "Hybrid",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Braiins Forge",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm299"
+        },
+        "key": "a0ccb1fa-730e-49dd-8986-8581a4fc25db",
+        "slug": "pm299",
+        "url": "https://hashtagweb3.com/pm299?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Braiins",
+        "title": "BRAIINS FORGE: Product Manager"
+      }
+    ],
+    "message": "- Crypto.com is hiring <a href=\"https://hashtagweb3.com/pm276?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior/ Principal Product Manager, Trading(Crypto.com App) - Relocate to HK</a>\n- Open Standard is hiring <a href=\"https://hashtagweb3.com/eng652?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Smart Contract Engineer</a>\n- Coinflow is hiring <a href=\"https://hashtagweb3.com/fds2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Fraud Data Scientist</a>\n- Talos is hiring <a href=\"https://hashtagweb3.com/sls260?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Director, p(X)</a>\n- Braiins is hiring <a href=\"https://hashtagweb3.com/pm299?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">BRAIINS FORGE: Product Manager</a>",
+    "slotKey": "2026-11-01:evening"
   }
 }
