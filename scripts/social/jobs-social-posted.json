@@ -88410,7 +88410,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "376f6d29-fae9-4ac2-8d74-4ab484c37788",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7522623490995257344"
     }
   ]
 }
