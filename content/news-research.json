@@ -109868,23 +109868,27 @@
       "id": "255ced4ef652981507ee",
       "status": "deferred",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-02T09:31:28.000Z",
       "lastSeenAt": "2026-10-31T03:31:46.182Z",
       "reason": "source-blocked",
-      "note": "The Defiant article on Unit pausing deposits and withdrawals after the Binance breach returned HTTP 403. Unit's action would be a distinct third-party development not covered in binancecover.md, but no readable source could be opened this round.",
+      "note": "Retried The Defiant original this round: actual GET with the readiness User-Agent returned a Cloudflare 403 (curl), and WebFetch returned 403, even though the readiness pass reported HTTP 200. Did read TokenPost's report of Unit delaying all deposits and withdrawals with Guardian screening, but only one independent outlet could be opened, so corroboration is still missing. Located crypt.ru and telem.news items in search results but did not open or verify them as independent.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/unit-delays-all-deposits-and-withdrawals-after-binance-breach",
           "outcome": "blocked"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/technology/44491",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-31T04:24:11.867Z",
+      "reviewedAt": "2026-11-01T04:15:09.715Z",
       "retrySearches": [
-        "Find readable independent coverage of Unit delaying deposits and withdrawals after the Binance hack, with the company's stated reason and duration"
+        "Find a second independent readable source, or Unit's own official announcement, corroborating that Unit paused all deposits and withdrawals after the Binance breach, with the stated duration and Guardian screening details"
       ],
-      "lastReviewedDay": "2026-10-31",
-      "nextReviewDate": "2026-11-01"
+      "lastReviewedDay": "2026-11-01",
+      "nextReviewDate": "2026-11-02"
     },
     "955e929ba67b99202943": {
       "source": "Crypto Briefing",
@@ -110189,23 +110193,23 @@
       "id": "2d48962f7de928f1ed55",
       "status": "deferred",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-02T05:01:18.000Z",
       "lastSeenAt": "2026-10-31T03:31:46.182Z",
       "reason": "source-blocked",
-      "note": "The Defiant URL returned a Cloudflare 403 on an actual GET even though the readiness pass reported HTTP 200. Every located item restating the 14,040 ETH transfer (woofun.ai, basisdesk.news, lypp.com, bi.run) credits The Defiant as the original source rather than reporting independent on-chain data, so no second readable source could be opened this round.",
+      "note": "Retried The Defiant URL with the readiness User-Agent on an actual GET; Cloudflare returned 403 despite the readiness pass reporting 200. A new search again surfaced only mirrors and aggregators crediting The Defiant as the original source (basisdesk.news, undercurrent.capital, web3news.kordislabs.io, digitalmoneybox.com, woofun.ai), so no second independent readable source could be opened this round.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/hacks/binance-exploit-linked-wallet-moves-14-040-eth-to-another-holding-address",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-31T04:39:08.124Z",
+      "reviewedAt": "2026-11-01T04:15:09.715Z",
       "retrySearches": [
-        "Find readable independent on-chain coverage (Decrypt, The Block, CryptoSlate, Arkham Intelligence) of the Oct. 30, 2026 transfer of 14,040 ETH from a Binance exploit-linked wallet to a holding address"
+        "Find readable independent on-chain coverage from Decrypt, The Block, CryptoSlate, Nansen or Arkham of the Oct. 30, 2026 transfer of 14,040 ETH from a Binance exploit-linked wallet to a holding address, with the recipient balance"
       ],
-      "lastReviewedDay": "2026-10-31",
-      "nextReviewDate": "2026-11-01"
+      "lastReviewedDay": "2026-11-01",
+      "nextReviewDate": "2026-11-02"
     },
     "ca74039d6ec0547db06d": {
       "source": "The Defiant",
@@ -110222,11 +110226,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "ca74039d6ec0547db06d",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T05:00:29.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "source-blocked",
+      "note": "The Defiant original returned Cloudflare 403 on an actual GET with the readiness User-Agent. Did read ChainCatcher's report of Arkham's assessment, which states that 18,270.2 BTC worth about $1.41 billion has not moved since 20:48 UTC and sits distributed across 19 addresses, but a second independent readable outlet is still needed for this specific finding.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/hacks/binance-hack-s-bitcoin-sits-unspent-across-19-addresses",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://www.chaincatcher.com/en/article/2300305",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-01T04:15:09.715Z",
+      "retrySearches": [
+        "Open and verify cryptonews.net/news/security/33674870/ or another independent outlet reporting Arkham's finding that 18,270.2 BTC of the Binance hack proceeds sits unspent across 19 addresses"
+      ],
+      "lastReviewedDay": "2026-11-01",
+      "nextReviewDate": "2026-11-02"
     },
     "eec0143970a0bc9f1ec3": {
       "source": "The Defiant",
@@ -110243,9 +110265,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "eec0143970a0bc9f1ec3",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T04:51:49.000Z",
       "lastSeenAt": "2026-10-31T03:31:46.182Z",
       "articleSlug": "tradertraitor",
@@ -110267,7 +110289,21 @@
         "updatedAt": "2026-11-01T04:08:58.298Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read the Chainalysis Oct. 30 blog post in full and the Decrypt report in full; verified the $6.4B figure, the 4:20 p.m. ET timeline, the Bitget commingling evidence, the $2.8B frozen total and the TRM holdings figures against both sources. Drafted content/articles/tradertraitor.md; quality, images, duplicates, formatting and tsc all pass, both cited links return HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://www.chainalysis.com/blog/binance-exploit-latest-findings-and-response/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/382224/trm-and-chainalysis-tie-6-4b-binance-hack-to-north-koreas-tradertraitor",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-01T04:15:09.715Z",
+      "lastReviewedDay": "2026-11-01"
     },
     "ca3f298b0967383d2df7": {
       "source": "The Defiant",
@@ -110284,11 +110320,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "ca3f298b0967383d2df7",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T04:30:53.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "source-blocked",
+      "note": "The Defiant original returned Cloudflare 403 on an actual GET with the readiness User-Agent. Read ChainCatcher's report of Arkham's Oct. 30 assessment ($6.01 billion across nine chains between 20:10 and 23:05 UTC, $2.8 billion frozen, about $2.9 billion still movable, plus the chain-by-chain breakdown), but a second independent readable outlet covering the same Arkham assessment is still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/hacks/arkham-puts-binance-hack-at-6-01-billion-with-2-9-billion-still-movable",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://www.chaincatcher.com/en/article/2300305",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-01T04:15:09.715Z",
+      "retrySearches": [
+        "Open and verify a second independent outlet such as cryptonews.net or The Block reporting Arkham's Oct. 30 assessment of $6.01 billion taken from Binance hot wallets with $2.9 billion still movable"
+      ],
+      "lastReviewedDay": "2026-11-01",
+      "nextReviewDate": "2026-11-02"
     },
     "c03f6ce520d2ff9f5440": {
       "source": "Bitcoin Magazine",
@@ -110305,11 +110359,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "c03f6ce520d2ff9f5440",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T04:05:40.000Z",
-      "lastSeenAt": "2026-10-30T10:25:44.767Z"
+      "lastSeenAt": "2026-10-30T10:25:44.767Z",
+      "reason": "price-chatter",
+      "note": "Read the full Bitcoin Magazine article. Its substance is the bitcoin price slide to $76,301, the $81,890 session high and long liquidations; the hack facts it carries (Binance's X post, the $6.3B estimate, about $3B frozen, the compromised-laptop explanation) are already covered in content/articles/binancecover.md, so the distinguishing content is price movement rather than a concrete new event.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/bitcoin-price-slides-near-76000-binance",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-01T04:15:09.715Z",
+      "lastReviewedDay": "2026-11-01"
     },
     "fd1265bc46f18244be88": {
       "source": "CoinDesk",
@@ -110326,11 +110390,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "fd1265bc46f18244be88",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T04:00:43.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "source-blocked",
+      "note": "Actual GET with the readiness User-Agent returned HTTP 429 this round, matching the readiness pass cooldown, so the article could not be opened or read. Its headline suggests Standard Chartered loss forecasts after the hack, which may fail the concrete-event test once readable.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-01T04:15:09.715Z",
+      "retrySearches": [
+        "Fetch the CoinDesk Standard Chartered article once the 429 clears and verify whether it reports a concrete event beyond market commentary before judging it against the price-chatter exclusion"
+      ],
+      "lastReviewedDay": "2026-11-01",
+      "nextReviewDate": "2026-11-02"
     },
     "8b4fdd24535c50a4154d": {
       "source": "CoinDesk",
@@ -110347,11 +110425,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "8b4fdd24535c50a4154d",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T03:56:40.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "source-blocked",
+      "note": "Actual GET with the readiness User-Agent returned HTTP 429 this round, matching the readiness pass cooldown, so the article could not be opened or read. If readable later, check whether it carries concrete outflow figures from a named data provider or is only exchange-outflow commentary.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-01T04:15:09.715Z",
+      "retrySearches": [
+        "Fetch the CoinDesk institutional outflows article once the 429 clears and verify concrete outflow figures with named data sources for a possible event story, or judge it as market commentary"
+      ],
+      "lastReviewedDay": "2026-11-01",
+      "nextReviewDate": "2026-11-02"
     },
     "c0f283f600d21895c4bb": {
       "source": "Crypto Briefing",
@@ -213595,6 +213687,137 @@
           "reviewedAt": "2026-11-01T04:01:42.760Z",
           "retrySearches": [
             "Open and read https://www.dropmintdaily.com/bitcoin-crypto/2026/10/six-details-conditional-broker-access-for-swiss-bitcoin-fund and https://blockchainnewsgroup.com/2026/10/29/swiss-bitcoin-etf-opens-broker-access-global-sales/ and the BIT pressroom release https://www.bit.com/pressroom/btc-etf, then draft the Oct. 29 SIX overseas-access confirmation if two independent readable sources hold; this candidate expires 2026-11-01T14:15:46Z"
+          ]
+        },
+        "eec0143970a0bc9f1ec3": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the Chainalysis Oct. 30 blog post in full and the Decrypt report in full; verified the $6.4B figure, the 4:20 p.m. ET timeline, the Bitget commingling evidence, the $2.8B frozen total and the TRM holdings figures against both sources. Drafted content/articles/tradertraitor.md; quality, images, duplicates, formatting and tsc all pass, both cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.chainalysis.com/blog/binance-exploit-latest-findings-and-response/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/382224/trm-and-chainalysis-tie-6-4b-binance-hack-to-north-koreas-tradertraitor",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-01T04:15:09.715Z",
+          "articleSlug": "tradertraitor"
+        },
+        "c03f6ce520d2ff9f5440": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read the full Bitcoin Magazine article. Its substance is the bitcoin price slide to $76,301, the $81,890 session high and long liquidations; the hack facts it carries (Binance's X post, the $6.3B estimate, about $3B frozen, the compromised-laptop explanation) are already covered in content/articles/binancecover.md, so the distinguishing content is price movement rather than a concrete new event.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/bitcoin-price-slides-near-76000-binance",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-01T04:15:09.715Z"
+        },
+        "255ced4ef652981507ee": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Retried The Defiant original this round: actual GET with the readiness User-Agent returned a Cloudflare 403 (curl), and WebFetch returned 403, even though the readiness pass reported HTTP 200. Did read TokenPost's report of Unit delaying all deposits and withdrawals with Guardian screening, but only one independent outlet could be opened, so corroboration is still missing. Located crypt.ru and telem.news items in search results but did not open or verify them as independent.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/unit-delays-all-deposits-and-withdrawals-after-binance-breach",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/technology/44491",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-01T04:15:09.715Z",
+          "retrySearches": [
+            "Find a second independent readable source, or Unit's own official announcement, corroborating that Unit paused all deposits and withdrawals after the Binance breach, with the stated duration and Guardian screening details"
+          ]
+        },
+        "2d48962f7de928f1ed55": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Retried The Defiant URL with the readiness User-Agent on an actual GET; Cloudflare returned 403 despite the readiness pass reporting 200. A new search again surfaced only mirrors and aggregators crediting The Defiant as the original source (basisdesk.news, undercurrent.capital, web3news.kordislabs.io, digitalmoneybox.com, woofun.ai), so no second independent readable source could be opened this round.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/binance-exploit-linked-wallet-moves-14-040-eth-to-another-holding-address",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-01T04:15:09.715Z",
+          "retrySearches": [
+            "Find readable independent on-chain coverage from Decrypt, The Block, CryptoSlate, Nansen or Arkham of the Oct. 30, 2026 transfer of 14,040 ETH from a Binance exploit-linked wallet to a holding address, with the recipient balance"
+          ]
+        },
+        "ca74039d6ec0547db06d": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "The Defiant original returned Cloudflare 403 on an actual GET with the readiness User-Agent. Did read ChainCatcher's report of Arkham's assessment, which states that 18,270.2 BTC worth about $1.41 billion has not moved since 20:48 UTC and sits distributed across 19 addresses, but a second independent readable outlet is still needed for this specific finding.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/binance-hack-s-bitcoin-sits-unspent-across-19-addresses",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.chaincatcher.com/en/article/2300305",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-01T04:15:09.715Z",
+          "retrySearches": [
+            "Open and verify cryptonews.net/news/security/33674870/ or another independent outlet reporting Arkham's finding that 18,270.2 BTC of the Binance hack proceeds sits unspent across 19 addresses"
+          ]
+        },
+        "ca3f298b0967383d2df7": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "The Defiant original returned Cloudflare 403 on an actual GET with the readiness User-Agent. Read ChainCatcher's report of Arkham's Oct. 30 assessment ($6.01 billion across nine chains between 20:10 and 23:05 UTC, $2.8 billion frozen, about $2.9 billion still movable, plus the chain-by-chain breakdown), but a second independent readable outlet covering the same Arkham assessment is still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/arkham-puts-binance-hack-at-6-01-billion-with-2-9-billion-still-movable",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.chaincatcher.com/en/article/2300305",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-01T04:15:09.715Z",
+          "retrySearches": [
+            "Open and verify a second independent outlet such as cryptonews.net or The Block reporting Arkham's Oct. 30 assessment of $6.01 billion taken from Binance hot wallets with $2.9 billion still movable"
+          ]
+        },
+        "fd1265bc46f18244be88": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Actual GET with the readiness User-Agent returned HTTP 429 this round, matching the readiness pass cooldown, so the article could not be opened or read. Its headline suggests Standard Chartered loss forecasts after the hack, which may fail the concrete-event test once readable.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-01T04:15:09.715Z",
+          "retrySearches": [
+            "Fetch the CoinDesk Standard Chartered article once the 429 clears and verify whether it reports a concrete event beyond market commentary before judging it against the price-chatter exclusion"
+          ]
+        },
+        "8b4fdd24535c50a4154d": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Actual GET with the readiness User-Agent returned HTTP 429 this round, matching the readiness pass cooldown, so the article could not be opened or read. If readable later, check whether it carries concrete outflow figures from a named data provider or is only exchange-outflow commentary.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-01T04:15:09.715Z",
+          "retrySearches": [
+            "Fetch the CoinDesk institutional outflows article once the 429 clears and verify concrete outflow figures with named data sources for a possible event story, or judge it as market commentary"
           ]
         }
       },
