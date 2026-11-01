@@ -848,6 +848,9 @@
   "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
   "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
   "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+  "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+  "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+  "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2326,6 +2329,12 @@
   "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
   "Investors question heavy tech spending on AI infrastructure",
   "Cracks are emerging in the AI spending boom",
+  "Fujifilm quintuples magnetic tape production for AI data storage",
+  "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+  "Apple CEO discusses company approach to artificial intelligence",
+  "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+  "Few customers use AI agents for DoorDash orders",
+  "Basically no one is using AI agents for their DoorDash orders",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2691,5 +2700,8 @@
   "fp:becaus|cheat|cost|dartmouth|draft|him|his|job|messag|own",
   "fp:amount|capital|dollar|dur|fund|global|investor|lower|major|negotiation",
   "fp:access|allow|appl|application|control|desktop|featur|logo|macos272|mobil",
-  "fp:are|boom|cash|caus|crack|debt|doubt|emerg|financial|flow"
+  "fp:are|boom|cash|caus|crack|debt|doubt|emerg|financial|flow",
+  "fp:archiv|boost|capacity|data|demand|expand|fivefold|fuel|fujifilm|handl",
+  "fp:appl|approach|ceo|cook|discuss|doesn|firm|focus|follow|practical",
+  "fp:adoption|agent|automat|basically|consumer|customer|development|doordash|few|initial"
 ]

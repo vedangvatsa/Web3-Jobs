@@ -2786,7 +2786,7 @@
     "sentAt": "2026-10-31T19:34:29.127Z"
   },
   "5ae82847-8ed9-444c-b7a8-78cd9e5cd4fd": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-01T03:34:42.753Z",
     "stories": [
       {
@@ -2816,6 +2816,8 @@
         "originalTitle": "Basically no one is using AI agents for their DoorDash orders"
       }
     ],
-    "slotKey": "2026-11-01:morning"
+    "slotKey": "2026-11-01:morning",
+    "messageId": 193434,
+    "sentAt": "2026-11-01T03:35:23.447Z"
   }
 }
