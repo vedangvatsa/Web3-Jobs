@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-01T03:31:41.412Z",
+  "generatedAt": "2026-11-01T10:46:56.553Z",
   "items": [
     {
-      "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-      "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-      "pubDate": "Sun, 01 Nov 2026 01:10:05 +0000",
-      "creator": "Nikhilesh De",
-      "contentSnippet": "While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects ...",
+      "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
+      "link": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
+      "pubDate": "Sun, 01 Nov 2026 10:35:42 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Binance reopens customer withdrawals following a record $6.3 billion exploit. Bitcoin leads the first phase.",
       "source": "Coindesk"
     },
     {
@@ -162,28 +162,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Binance exploit tied to EIP-7702 delegation, preliminary losses mount",
-      "link": "https://Blockchain.News/news/binance-exploit-eip-7702-delegation-preliminary-losses",
-      "pubDate": "Fri, 30 Oct 2026 19:59:28 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Fireblocks says a signed EIP-7702 delegation enabled withdrawals from Binance hot wallets; Binance’s preliminary update points to a compromised DevOps...",
-      "source": "Blockchain.News"
-    },
-    {
       "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
       "link": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
       "pubDate": "Fri, 30 Oct 2026 19:55:00 +0000",
       "creator": "Olivier Acuna",
       "contentSnippet": "Tether, Circle and others moved within hours to block billions in stolen crypto, but legal experts question whether smaller victims would get the same...",
       "source": "Coindesk"
-    },
-    {
-      "title": "SEC grants Treasury clearing relief for certain repo transactions",
-      "link": "https://Blockchain.News/news/sec-grants-treasury-clearing-relief-for-certain-repo-transactions",
-      "pubDate": "Fri, 30 Oct 2026 19:51:28 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "The SEC issued exemptive relief for certain inter-affiliate and non-U.S. repo transactions as it advances Treasury central clearing implementation. (R...",
-      "source": "Blockchain.News"
     },
     {
       "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B ",
@@ -258,14 +242,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 30 Oct 2026 11:29:23 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Bitcoin held above $76,000 after a $6.3 billion Binance hack and a tech-stock sell-off, as momentum indicators pointed to a possible rebound.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
       "link": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 30 Oct 2026 10:54:30 +0000",
@@ -288,14 +264,6 @@
       "creator": "James Van Straten",
       "contentSnippet": "Andrew Kang’s departure comes as Strategy reports $21 billion in quarterly operating income and bitcoin holdings of 848,517 BTC.",
       "source": "Coindesk"
-    },
-    {
-      "title": "JPMorgan Chase, Wells Fargo and Goldman Sachs Among 33 Listed Companies Blocking Tokenized Versions of Their Stock on a Crypto Exchange-Fronted Joint Venture",
-      "link": "https://dailyhodl.com/2026/10/30/jpmorgan-chase-wells-fargo-and-goldman-sachs-among-33-listed-companies-blocking-tokenized-versions-of-their-stock-on-a-crypto-exchange-fronted-joint-venture/",
-      "pubDate": "Fri, 30 Oct 2026 09:15:45 +0000",
-      "creator": "Agent",
-      "contentSnippet": "JPMorgan Chase, AMD, Coca-Cola, Applied Materials, Adobe, Dell Technologies and Sandisk have joined the list of companies blocking tokenized versions ...",
-      "source": "Daily Hodl"
     },
     {
       "title": "Coinbase Q3 net income jumps 66% as prediction markets gain traction",
@@ -338,27 +306,11 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
-      "link": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
-      "pubDate": "Fri, 30 Oct 2026 05:45:27 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "A set of fixes would tighten who can hold permissioned tokens on the network. The XRP Ledger Foundation says no users were affected.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
       "link": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 30 Oct 2026 03:47:01 +0000",
       "creator": "Felix Ng",
       "contentSnippet": "Standard Chartered’s Geoffrey Kendrick said the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Binance points to engineer’s hacked laptop in $6.3B breach ",
-      "link": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 30 Oct 2026 00:11:26 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "Binance said attackers may have used a compromised DevOps laptop to access internal infrastructure.",
       "source": "Cointelegraph"
     },
     {
@@ -376,14 +328,6 @@
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
-      "link": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 29 Oct 2026 22:31:07 +0000",
-      "creator": "Andrew Fenton",
-      "contentSnippet": "Singapore police say tampered Ledgers started showing up there on September 10. South Korean lawmakers look set to delay the crypto tax law for a four...",
-      "source": "Cointelegraph"
     },
     {
       "title": "Strategy reports $19.5 billion in Q3 net income as preferred shareholders approve daily dividends",
@@ -447,6 +391,14 @@
       "pubDate": "Thu, 29 Oct 2026 15:59:48 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Intercontinental Exchange signed a deal with Trade[XYZ] to launch regulated perpetual futures built on Hyperliquid in the United States, sending HYPE ...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Walmart Blocks Its Stock From OKX-ICE Tokenized Trading Venue",
+      "link": "https://decrypt.co/382145/walmart-blocks-stock-okx-ice-tokenized-trading-venue",
+      "pubDate": "Thu, 29 Oct 2026 15:07:15 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Walmart, Eli Lilly, Cigna, Carniva,l and Arcos Dorados objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the ...",
       "source": "Decrypt"
     },
     {
