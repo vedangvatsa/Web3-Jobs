@@ -110661,7 +110661,27 @@
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
       "attempts": 0,
       "expiresAt": "2026-11-02T00:40:53.000Z",
-      "lastSeenAt": "2026-10-30T10:25:44.767Z"
+      "lastSeenAt": "2026-10-30T10:25:44.767Z",
+      "articleSlug": "yccrypto",
+      "draftProgress": {
+        "id": "b3628346f627f7be60d2",
+        "day": "2026-11-01",
+        "articleSlug": "yccrypto",
+        "note": "Read the CryptoSlate report and the independent Pivot News report of Y Combinator October Crypto Request for Startups, shared by visiting partner Nemil Dalal on Oct. 28: AI capital raising, stablecoins for underserved segments, tokenized assets, agent trading infrastructure, Winter 2027 on-time deadline Nov. 2. Two sources read; draft, image and duplicate check still pending.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptoslate.com/silicon-valley-shifts-ai-funding-to-crypto-using-an-ethereum-ico-blueprint/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://pivotnews.ai/crypto/y-combinator-courts-crypto-founders-in-ai-agents-and",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-01T04:24:00.363Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "f412618474d6295e6b16": {
       "source": "Cointelegraph",
