@@ -11861,5 +11861,121 @@
     "slotKey": "2026-11-01:morning",
     "messageId": 16597,
     "sentAt": "2026-11-01T03:32:41.022Z"
+  },
+  "24fd3cf9-822f-4f44-a74e-0126c963d382": {
+    "status": "reserved",
+    "reservedAt": "2026-11-01T03:32:42.568Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "6a508863-352b-4f39-b299-5a3b6693605a",
+          "title": "Manager, Customer Activation, Mid-Market",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/6a508863-352b-4f39-b299-5a3b6693605a",
+          "date": "2026-10-22T22:24:53.127+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr191"
+        },
+        "key": "6a508863-352b-4f39-b299-5a3b6693605a",
+        "slug": "mgr191",
+        "url": "https://hashtagweb3.com/mgr191?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Manager, Customer Activation, Mid-Market"
+      },
+      {
+        "snapshot": {
+          "id": "2037b1cc-6b4e-46f1-8cbe-b5359e4af734",
+          "title": "Post Sales Recruiter",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/2037b1cc-6b4e-46f1-8cbe-b5359e4af734",
+          "date": "2026-10-22T18:55:30.068+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "G&A",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rec45"
+        },
+        "key": "2037b1cc-6b4e-46f1-8cbe-b5359e4af734",
+        "slug": "rec45",
+        "url": "https://hashtagweb3.com/rec45?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Post Sales Recruiter"
+      },
+      {
+        "snapshot": {
+          "id": "8286438",
+          "title": "Professional Services Consultant (TMS Implementation)",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8286438?gh_jid=8286438",
+          "date": "2026-10-27T04:24:07-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "Sydney, New South Wales, Australia",
+          "department": "Service & Delivery",
+          "active": true,
+          "dateVerified": true,
+          "slug": "psct"
+        },
+        "key": "8286438",
+        "slug": "psct",
+        "url": "https://hashtagweb3.com/psct?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Professional Services Consultant"
+      },
+      {
+        "snapshot": {
+          "id": "8241857",
+          "title": "Comms Strategy & Operations Associate",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8241857",
+          "date": "2026-10-02T14:07:40-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "NYC, SF",
+          "department": "2413 Communications",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops81"
+        },
+        "key": "8241857",
+        "slug": "ops81",
+        "url": "https://hashtagweb3.com/ops81?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Comms Strategy & Operations Associate"
+      },
+      {
+        "snapshot": {
+          "id": "5455065008",
+          "title": "NOC Engineer - Highrise AI",
+          "company": "Hut 8",
+          "link": "https://job-boards.greenhouse.io/hut8/jobs/5455065008",
+          "date": "2026-10-16T15:37:56-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Hut 8 [hut8]",
+          "location": "Remote",
+          "department": "Highrise.ai",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng618"
+        },
+        "key": "5455065008",
+        "slug": "eng618",
+        "url": "https://hashtagweb3.com/eng618?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Hut 8",
+        "title": "NOC Engineer"
+      }
+    ],
+    "message": "- Ramp is hiring <a href=\"https://hashtagweb3.com/mgr191?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Customer Activation, Mid-Market</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/rec45?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Post Sales Recruiter</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/psct?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Professional Services Consultant (TMS Implementation)</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/ops81?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Comms Strategy &amp; Operations Associate</a>\n- Hut 8 is hiring <a href=\"https://hashtagweb3.com/eng618?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">NOC Engineer - Highrise AI</a>",
+    "slotKey": "2026-11-01:morning"
   }
 }
