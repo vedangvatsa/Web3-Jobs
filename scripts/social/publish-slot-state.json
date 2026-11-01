@@ -443,10 +443,12 @@
           "cftchack",
           "tetherq3"
         ],
-        "phase": "building",
+        "phase": "build-failed",
         "startedAt": "2026-11-01T19:32:29.664Z",
         "buildId": "daily-20261101-41342110650-1",
-        "rolloutId": "daily-20261101-41342110650-1"
+        "rolloutId": "daily-20261101-41342110650-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-01T19:48:35.666Z"
       }
     ]
   }
