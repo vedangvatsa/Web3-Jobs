@@ -86230,7 +86230,8 @@
       },
       "account": "channel:developers",
       "attemptId": "5f464a48-4a25-4451-b813-7270ce461b84",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8dbfd5f301def5ff53cd7f23d01bd77b8717714f"
     }
   ]
 }
