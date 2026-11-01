@@ -86814,6 +86814,38 @@
       "verification": "creating",
       "containerId": "18099476606199925",
       "error": "Threads publish failed: 400 {\"error\":{\"message\":\"Fatal\",\"type\":\"OAuthException\",\"code\":-1,\"error_subcode\":4279047,\"is_transient\":false,\"error_user_title\":\"Invalid Link Attachment\",\"error_user_msg\":\"The post you're trying to publish has an invalid link attachment.\",\"fbtrace_id\":\"AM01Ho0XrECUs1Mqtl4M5XB\"}}"
+    },
+    {
+      "slug": "aso68",
+      "company": "Flow Traders",
+      "title": "Executive Assistant",
+      "platform": "bluesky",
+      "postedAt": "2026-11-01T11:33:14.670Z",
+      "expectedText": "Flow Traders is hiring Executive Assistant: https://hashtagweb3.com/aso68/bsky?og=7",
+      "snapshot": {
+        "id": "8305700",
+        "title": "Executive Assistant",
+        "company": "Flow Traders",
+        "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8305700",
+        "date": "2026-10-21T08:12:55-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Flow Traders [flowtraders]",
+        "location": "Amsterdam",
+        "department": "Management Support",
+        "active": true,
+        "dateVerified": true,
+        "slug": "aso68"
+      },
+      "payload": {
+        "text": "Flow Traders is hiring Executive Assistant: https://hashtagweb3.com/aso68/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/aso68/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/aso68.png?v=7",
+        "company": "Flow Traders",
+        "title": "Executive Assistant",
+        "description": "Join Flow Traders as Executive Assistant. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "082ae205-46e5-4bca-b4dd-c6241364c8e9",
+      "verification": "creating"
     }
   ]
 }
