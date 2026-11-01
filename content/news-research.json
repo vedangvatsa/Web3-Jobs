@@ -110247,7 +110247,27 @@
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
       "attempts": 0,
       "expiresAt": "2026-11-02T04:51:49.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "articleSlug": "tradertraitor",
+      "draftProgress": {
+        "id": "eec0143970a0bc9f1ec3",
+        "day": "2026-11-01",
+        "articleSlug": "tradertraitor",
+        "note": "Read the Chainalysis blog post and the Decrypt report in full; draft and second-source link checks still in progress.",
+        "sourceChecks": [
+          {
+            "url": "https://www.chainalysis.com/blog/binance-exploit-latest-findings-and-response/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://decrypt.co/382224/trm-and-chainalysis-tie-6-4b-binance-hack-to-north-koreas-tradertraitor",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-01T04:08:58.298Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "ca3f298b0967383d2df7": {
       "source": "The Defiant",
