@@ -24,19 +24,19 @@
     "image": "/images/articles/where-to-build-web3.png"
   },
   {
+    "slug": "euvisas",
+    "title": "European Digital Nomad Visas Ranked by Minimum Salary Requirements",
+    "description": "A complete review of European digital nomad visas ranked from lowest to highest qualifying income requirements with practical application rules.",
+    "category": "Career Guides",
+    "publishedDate": "2026-11-01",
+    "image": "/images/articles/digital-nomad-visas-income-vs-duration.png"
+  },
+  {
     "slug": "nomadtax",
     "title": "Comparing Global Digital Nomad Visas by Minimum Income and Local Tax Rates",
     "description": "A comparative legal and financial review of remote worker visas analyzing qualifying monthly income thresholds alongside foreign-earned income tax rates.",
     "category": "Career Guides",
     "publishedDate": "2026-11-01",
     "image": "/images/articles/digital-nomad-visas-tax-vs-income.png"
-  },
-  {
-    "slug": "speed",
-    "title": "The Best Digital Nomad Cities for 2026 Ranked by Cost and Internet Speed",
-    "description": "An empirical evaluation of global digital nomad destinations plotting verified median fiber and 5G internet speeds against real monthly living costs.",
-    "category": "Career Guides",
-    "publishedDate": "2026-11-01",
-    "image": "/images/articles/where-to-work-cost-vs-speed.png"
   }
 ]
