@@ -88506,6 +88506,38 @@
       "postId": "17918465286261946",
       "permalink": "https://www.threads.com/@hashtagweb3/post/DfNfmpnCfcF",
       "account": "hashtagweb3"
+    },
+    {
+      "slug": "sls330",
+      "company": "Bybit",
+      "title": "Business Development Specialist",
+      "platform": "bluesky",
+      "postedAt": "2026-11-01T19:33:58.567Z",
+      "expectedText": "Bybit is hiring Business Development Specialist: https://hashtagweb3.com/sls330/bsky?og=7",
+      "snapshot": {
+        "id": "5016223101",
+        "title": "Business Development Specialist",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5016223101",
+        "date": "2026-10-26T09:51:35-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "LATAM - Remote",
+        "department": "Payment Business Unit",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls330"
+      },
+      "payload": {
+        "text": "Bybit is hiring Business Development Specialist: https://hashtagweb3.com/sls330/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/sls330/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/sls330.png?v=7",
+        "company": "Bybit",
+        "title": "Business Development Specialist",
+        "description": "Join Bybit as Business Development Specialist. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "ef30cae1-d0b4-4e4c-a345-06ca8b080918",
+      "verification": "creating"
     }
   ]
 }
