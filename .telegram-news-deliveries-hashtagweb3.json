@@ -2813,5 +2813,36 @@
     "slotKey": "2026-11-01:afternoon",
     "messageId": 156040,
     "sentAt": "2026-11-01T11:35:46.568Z"
+  },
+  "9cf0c3df-2914-4e3a-83bc-b891c1ba4600": {
+    "status": "reserved",
+    "reservedAt": "2026-11-01T19:37:02.956Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Tether invests $15 million in fintech startup Mural",
+        "summary": "Mural raised $15 million to develop payment systems and account controls for AI agents.",
+        "link": "https://hashtagweb3.com/tethermural?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Tether leads $15 million Series A in AI payments startup Mural"
+      },
+      {
+        "index": -1,
+        "headline": "Bitget to acquire Thai crypto exchange",
+        "summary": "The company is buying a licensed Thai platform despite recent security issues involving a major wallet hack.",
+        "link": "https://hashtagweb3.com/bitgetthai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bitget plans Thai exchange acquisition after $388 million hack"
+      },
+      {
+        "index": -1,
+        "headline": "Ramp Seeks Federal Charter for Digital Asset Custody",
+        "summary": "The company filed with the OCC to provide fiduciary services without offering traditional banking loans or deposits.",
+        "link": "https://hashtagweb3.com/ramptrust?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ramp applies to the OCC for a national trust bank and digital asset custody"
+      }
+    ],
+    "slotKey": "2026-11-01:evening"
   }
 }
