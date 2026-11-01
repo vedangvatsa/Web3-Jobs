@@ -85040,7 +85040,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "f0be60dd-ae39-45e1-91da-22272d5b6f17",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae6b2f437c1acd2a0e54d7f"
     }
   ]
 }
