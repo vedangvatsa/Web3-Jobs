@@ -6680,7 +6680,7 @@
     "sentAt": "2026-11-01T11:34:22.621Z"
   },
   "60c02ac1-698f-44f8-af66-661ad0c8b885": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-01T19:33:17.006Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -6794,6 +6794,8 @@
       }
     ],
     "message": "- MoonPay is hiring <a href=\"https://hashtagweb3.com/aso47?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Executive Assistant</a>\n- Bitvavo is hiring <a href=\"https://hashtagweb3.com/be14?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Backend Engineer - Securities Trading</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/infra36?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Engineering Manager - Infrastructure</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/cmp118?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Chief Compliance Officer, Ramp Advisory LLC</a>\n- Ellipsis Labs is hiring <a href=\"https://hashtagweb3.com/str?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Strategy</a>",
-    "slotKey": "2026-11-01:evening"
+    "slotKey": "2026-11-01:evening",
+    "messageId": 156041,
+    "sentAt": "2026-11-01T19:33:19.991Z"
   }
 }
