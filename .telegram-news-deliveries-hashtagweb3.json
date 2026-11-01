@@ -2747,5 +2747,36 @@
     "slotKey": "2026-10-31:evening",
     "messageId": 156030,
     "sentAt": "2026-10-31T19:34:39.353Z"
+  },
+  "79b64b93-c48a-4f16-817f-f1a2fa6caf57": {
+    "status": "reserved",
+    "reservedAt": "2026-11-01T03:34:52.135Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Obol releases Charon update following certificate authority compromise",
+        "summary": "Mainnet operators are urged to upgrade to version 1.11.2 after eMudhra issues affected Go certificate checks.",
+        "link": "https://hashtagweb3.com/charonupgrade?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Obol ships urgent Charon patch after eMudhra certificate compromise"
+      },
+      {
+        "index": -1,
+        "headline": "PancakeSwap Proposal Faces 98% Opposition Ahead of Voting Deadline",
+        "summary": "The measure would increase liquidity provider fee shares to 88% while reducing daily CAKE emissions by 69%.",
+        "link": "https://hashtagweb3.com/cakeflip?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "PancakeSwap fee overhaul vote faces 98% opposition before Saturday close"
+      },
+      {
+        "index": -1,
+        "headline": "Tech Companies Block eMudhra Certificates Due to Security Flaws",
+        "summary": "Major tech firms revoked eight eMudhra certificates, leaving some crypto applications vulnerable outside of standard browser environments.",
+        "link": "https://hashtagweb3.com/emudhra?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Tech giants block eMudhra certificates as CertiK warns crypto apps may stay exposed"
+      }
+    ],
+    "slotKey": "2026-11-01:morning"
   }
 }
