@@ -110657,9 +110657,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "b3628346f627f7be60d2",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T00:40:53.000Z",
       "lastSeenAt": "2026-10-30T10:25:44.767Z",
       "articleSlug": "yccrypto",
@@ -110681,7 +110681,21 @@
         "updatedAt": "2026-11-01T04:24:00.363Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Rechecked both sources this run. CryptoSlate (Oct. 30) and Pivot News (Oct. 29) independently report YC's October Crypto Request for Startups shared by visiting partner Nemil Dalal on Oct. 28: AI capital raising citing the Ethereum ICO precedent, dollar stablecoins for underserved segments with a distribution requirement, tokenized real-world assets for continuous trading, agent trading infrastructure and APIs, Winter 2027 on-time deadline Nov. 2 at 8pm Pacific. Wrote the draft, added a self-hosted Wikimedia photo of YC's Mountain View headquarters.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/silicon-valley-shifts-ai-funding-to-crypto-using-an-ethereum-ico-blueprint/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://pivotnews.ai/crypto/y-combinator-courts-crypto-founders-in-ai-agents-and",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-01T04:29:08.367Z",
+      "lastReviewedDay": "2026-11-01"
     },
     "f412618474d6295e6b16": {
       "source": "Cointelegraph",
@@ -214019,6 +214033,23 @@
           "reviewedAt": "2026-11-01T04:22:32.319Z",
           "duplicateOf": "tradertraitor",
           "mergedInto": "eec0143970a0bc9f1ec3"
+        },
+        "b3628346f627f7be60d2": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Rechecked both sources this run. CryptoSlate (Oct. 30) and Pivot News (Oct. 29) independently report YC's October Crypto Request for Startups shared by visiting partner Nemil Dalal on Oct. 28: AI capital raising citing the Ethereum ICO precedent, dollar stablecoins for underserved segments with a distribution requirement, tokenized real-world assets for continuous trading, agent trading infrastructure and APIs, Winter 2027 on-time deadline Nov. 2 at 8pm Pacific. Wrote the draft, added a self-hosted Wikimedia photo of YC's Mountain View headquarters.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/silicon-valley-shifts-ai-funding-to-crypto-using-an-ethereum-ico-blueprint/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://pivotnews.ai/crypto/y-combinator-courts-crypto-founders-in-ai-agents-and",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-01T04:29:08.367Z",
+          "articleSlug": "yccrypto"
         }
       },
       "baselineSlugs": [
