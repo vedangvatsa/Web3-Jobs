@@ -1,12 +1,52 @@
 {
-  "generatedAt": "2026-11-01T11:31:57.996Z",
+  "generatedAt": "2026-11-01T17:14:27.947Z",
   "items": [
     {
-      "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
-      "link": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
-      "pubDate": "Sun, 01 Nov 2026 10:35:42 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "Binance reopens customer withdrawals following a record $6.3 billion exploit. Bitcoin leads the first phase.",
+      "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
+      "link": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
+      "pubDate": "Sun, 01 Nov 2026 17:00:00 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "The researchers say any approval an agent can reach is unreliable, and they built Countersign, an app tying approval to a physical action the agent ca...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
+      "link": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259",
+      "pubDate": "Sun, 01 Nov 2026 16:32:31 +0000",
+      "creator": "Zack Abrams",
+      "contentSnippet": "The exchange said the outflows equal 2.1% of its $171 billion in assets and that withdrawal volumes have declined after an initial spike.",
+      "source": "The Block"
+    },
+    {
+      "title": "The key races to watch for the 2026 election",
+      "link": "https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election",
+      "pubDate": "Sun, 01 Nov 2026 15:00:00 +0000",
+      "creator": "Nikhilesh De",
+      "contentSnippet": "While crypto isn't a major issue in the 2026 election, the industry will be shaped by who takes office in January. Here are the main races CoinDesk is...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
+      "link": "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards",
+      "pubDate": "Sun, 01 Nov 2026 15:00:00 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "Providers are betting trading, lending and staking revenue can cover rewards and turn card users into profitable customers.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Crypto PACs made big Republican push in final weeks before November 3 election",
+      "link": "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election",
+      "pubDate": "Sun, 01 Nov 2026 14:00:00 +0000",
+      "creator": "Jesse Hamilton",
+      "contentSnippet": "Even as polling and online wagers put Democrats at a high chance to claim greater power in Congress, the industry's high-profile support has gone the ...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
+      "link": "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year",
+      "pubDate": "Sun, 01 Nov 2026 13:00:00 +0000",
+      "creator": "Jesse Hamilton",
+      "contentSnippet": "The industry's $63 million question revolves around whether its political adversary in Ohio rides the Trump backlash back into the Senate.",
       "source": "Coindesk"
     },
     {
@@ -194,6 +234,14 @@
       "source": "Cointelegraph"
     },
     {
+      "title": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
+      "link": "https://decrypt.co/382236/elon-musk-cz-trade-blows-spacex-shares-binance-hack",
+      "pubDate": "Fri, 30 Oct 2026 16:25:06 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "After Musk appeared to mock Binance’s $6.3 billion hack, CZ reminded him that the exchange’s $500 million bet on his Twitter takeover is now worth ove...",
+      "source": "Decrypt"
+    },
+    {
       "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
       "link": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 30 Oct 2026 16:06:28 +0000",
@@ -258,44 +306,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
-      "link": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
-      "pubDate": "Fri, 30 Oct 2026 09:41:07 +0000",
-      "creator": "James Van Straten",
-      "contentSnippet": "Andrew Kang’s departure comes as Strategy reports $21 billion in quarterly operating income and bitcoin holdings of 848,517 BTC.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Coinbase Q3 net income jumps 66% as prediction markets gain traction",
       "link": "https://www.theblock.co/news/business/2026-10-30-coinbase-q3-net-income-jumps-432189",
       "pubDate": "Fri, 30 Oct 2026 08:57:09 +0000",
       "creator": "Timmy Shen",
       "contentSnippet": "Bernstein analysts said Coinbase's expanding prediction markets and derivatives businesses helped offset weaker spot trading activity.",
       "source": "The Block"
-    },
-    {
-      "title": "Live updates: Bitcoin falls below $77,000 as Binance exploit combines with tech woes",
-      "link": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
-      "pubDate": "Fri, 30 Oct 2026 08:36:52 +0000",
-      "creator": "James Van Straten",
-      "contentSnippet": "The $6.3 billion Binance hack added to crypto jitters, while weak earnings outlooks and mounting concerns over AI spending pushed the Nasdaq down more...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Binance hacker dumps a little-known 2017 token and it crashes 90% ",
-      "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
-      "pubDate": "Fri, 30 Oct 2026 07:54:07 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "The hacker dumped FUN and other smaller tokens into markets too small to absorb large selling, leading to price crashes.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
-      "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
-      "pubDate": "Fri, 30 Oct 2026 06:22:00 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "Bets on rising prices accounted for nearly 84% of forced closures, with Binance handling almost half the total. A rebound has since started catching s...",
-      "source": "Coindesk"
     },
     {
       "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
@@ -314,11 +330,19 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
-      "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 29 Oct 2026 23:24:21 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "Bitcoin, Ether and the broader crypto market took a dive as Binance suffered a multibillion-dollar hack.",
+      "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
+      "link": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
+      "pubDate": "Fri, 30 Oct 2026 02:22:31 +0000",
+      "creator": "Timmy Shen",
+      "contentSnippet": "BNB lost 7.1%, while Binance Co-CEO Yi He pledged that the exchange will cover all user losses resulting from the hack.",
+      "source": "The Block"
+    },
+    {
+      "title": "Binance points to engineer’s hacked laptop in $6.3B breach ",
+      "link": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 30 Oct 2026 00:11:26 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "Binance said attackers may have used a compromised DevOps laptop to access internal infrastructure.",
       "source": "Cointelegraph"
     },
     {
@@ -474,27 +498,11 @@
       "source": "Decrypt"
     },
     {
-      "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
-      "link": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
-      "pubDate": "Wed, 28 Oct 2026 18:25:18 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "The Federal Reserve left rates unchanged Wednesday in a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack favoring a hike.",
-      "source": "Decrypt"
-    },
-    {
       "title": "Robinhood earnings miss, crypto weakness fail to shake Wall Street’s bullish outlook",
       "link": "https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011",
       "pubDate": "Wed, 28 Oct 2026 17:06:24 +0000",
       "creator": "Kyle Baird",
       "contentSnippet": "Bernstein sees Robinhood’s crypto business shifting toward infrastructure as new products like prediction markets and perps gain ground.",
-      "source": "The Block"
-    },
-    {
-      "title": "Bitwise raises bitcoin price target to $1.6 million by 2036, projects 34% annualized returns",
-      "link": "https://www.theblock.co/news/markets/2026-10-28-bitwise-raises-bitcoin-price-target-to-1-6-million-by-2036-projects-34-annualized-returns-432010",
-      "pubDate": "Wed, 28 Oct 2026 16:07:08 +0000",
-      "creator": "James Hunt",
-      "contentSnippet": "Bitwise's bear case puts bitcoin at $130,686 by 2036, while its bull case reaches $3.67 million over the next decade.",
       "source": "The Block"
     }
   ]
