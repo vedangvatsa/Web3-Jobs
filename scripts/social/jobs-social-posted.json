@@ -87480,7 +87480,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "266b39bb-e634-43da-85cb-f4dbe4dfb865",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae7241721c807e9d5b68ec9"
     }
   ]
 }
