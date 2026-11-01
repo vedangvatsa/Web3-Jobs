@@ -88328,6 +88328,46 @@
       "verification": "verified",
       "postId": "6ae724dbf0984eef336130b8",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7522623345562091520"
+    },
+    {
+      "slug": "ks2",
+      "company": "StraitsX",
+      "title": "KYB Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-11-01T11:37:11.249Z",
+      "expectedText": "StraitsX is hiring KYB Specialist: https://hashtagweb3.com/ks2/li?og=7",
+      "snapshot": {
+        "id": "5006646101",
+        "title": "KYB Specialist",
+        "company": "StraitsX",
+        "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5006646101",
+        "date": "2026-10-15T02:04:51-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: StraitsX [straitsx]",
+        "location": "Singapore",
+        "department": "STX - Commercial",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ks2"
+      },
+      "payload": {
+        "text": "StraitsX is hiring KYB Specialist: https://hashtagweb3.com/ks2/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ks2/li?og=7",
+          "title": "KYB Specialist at StraitsX",
+          "description": "Join StraitsX as KYB Specialist. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ks2.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "da74f4ac-a6bb-40ca-a401-9688fcd16a41",
+      "verification": "creating"
     }
   ]
 }
