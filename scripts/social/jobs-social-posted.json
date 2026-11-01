@@ -89257,7 +89257,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "9c171a9f-22db-4c01-81bc-90c61042a45b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7522743651739869184"
     }
   ]
 }
