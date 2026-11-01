@@ -86014,7 +86014,8 @@
       },
       "account": "profile",
       "attemptId": "0e76f6e8-4971-4fb2-8f11-e40b96be0376",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd6e76bb346f68db6d64eaa81ed0eedfe212c3bc5"
     }
   ]
 }
