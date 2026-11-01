@@ -88179,7 +88179,8 @@
       },
       "account": "channel:ai",
       "attemptId": "65082985-0799-44ed-8f46-ccdfd3041e75",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb5b641eb0f2c06d5c0d410c0d56f3cc4e84f50c7"
     }
   ]
 }
