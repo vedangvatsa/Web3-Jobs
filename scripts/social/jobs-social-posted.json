@@ -88004,7 +88004,8 @@
       },
       "account": "channel:founders",
       "attemptId": "2cd38ee6-91fc-4d7f-8296-89682323cc4b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x695eff65b380247e005ce208a308df48fb9e19ed"
     }
   ]
 }
