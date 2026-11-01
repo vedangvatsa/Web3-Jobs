@@ -236,7 +236,7 @@ export default function Web3HiringReport() {
           </p>
           <p className={paragraph}>
             A description that does not meet these rules may still disclose pay in another format or currency.
-            <a className={linkStyle} href="/data/hiring-report-salary-sample.json"> Download the salary sample</a> to inspect each range and its original wording.
+            <a className={linkStyle} href="/data/hiring-report-salary-sample.json"> Download the salary sample</a> to inspect each range and its original wording, or explore role-specific compensation with our <Link className={linkStyle} href="/salary-calculator">Web3 Salary Calculator</Link>.
           </p>
         </Section>
 
