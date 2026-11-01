@@ -22769,82 +22769,6 @@ Location: Seongsu, Seoul
 
 Select experiences, merchandise, and giveaways will be available in limited quantities and while supplies last.
 
-<a id="event-d32fabc91f909802"></a>
-
-## Product Bootcamp - Road to Colosseum Hackathon
-
-- Record: `luma-batch-qkMG1UdrLfgDpGZ`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-01T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/productbootcamp>
-
-### About the event
-
-Product Bootcamp: Road to Colosseum Hackathon
-
-2 Days | Product Strategy | Mentoring | Feedback
-
-Join us for a two-day Product Bootcamp focused on finding strong ideas, validating them, and building products and businesses that can last.
-
-We'll look at the questions that matter before and around building: What problem are you solving? Who is it for? Why now? And how do you know when to keep going, change direction, or pivot?
-
-Throughout the bootcamp, you'll also hear from and get feedback from founders and experienced builders from the ecosystem, including people who have launched startups, gone through accelerators, pivoted products, and learned firsthand what happens when an idea doesn't work out as planned.
-
-Road to the Solana Hackathon
-
-The bootcamp is also designed to help builders prepare for the upcoming Solana startup competition powered by Colosseum.
-
-Use these two days to pressure-test your idea, understand the problem more deeply, and start with a stronger product direction.
-
-Who's this for?
-
-Founders and aspiring founders
-
-Developers looking for their next project
-
-Product builders and designers
-
-Hackathon teams
-
-Existing teams considering a pivot
-
-Anyone interested in turning an idea into a real product
-
-Guest founders, mentors, and the full agenda will be announced soon.
-
-<a id="event-7079219fc68e2386"></a>
-
-## Co-Working Fridays : London Chapter
-
-- Record: `luma-batch-xjvRpBHMpZu6GBG`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-02T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/london-oct-02>
-
-### About the event
-
-Join SuperteamUK every Friday at our co-working space for builders, leaders and creatives at the frontier of tech in London (Every Friday: 10:00AM - 8:30PM)!
-
-Attendance is free but entry via approval only, so make sure to register and be accepted for your name to be on the guestlist.
-
-Come and meet and collaborate with like-minded developers & builders, discover new team members, and gain insights from industry leaders.
-
-On arrival you will receive your event wristband which must be worn at all times on site! Please keep the safe as you found it to represent the other members and venue staff.
-
-For more info, reach out to us on the Solana UK Telegram.
-
-### About Superteam UK
-
-Superteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.Learn more and apply for membership at superteamuk.org
-
-* This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.
-
-** Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.
-
-By signing up to this event you agree that Solana, The SRI, & SuperteamUK can capture any footage of you, and contact you directly about future events, major news, and more.
-
 <a id="event-ec60103a7813fa70"></a>
 
 ## The Future of Finance Summit
@@ -22926,178 +22850,6 @@ Complimentary tickets are reserved for currently enrolled UC Berkeley students o
 Industry professionals, alumni, and other guests are kindly asked to register using a paid ticket.
 
 Spots are limited. Register to join the builders and leaders shaping the future of finance.
-
-<a id="event-660486dfa9d7dc93"></a>
-
-## Stellar Barcelona Builders Evening x CryptoDays \| Road to Lisbon — Build Session & HackMeridian Prep
-
-- Record: `luma-batch-evtoENvZQAxQSuZa`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-02T17:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/10oqhols>
-
-### About the event
-
-🇪🇸 (English below 🇬🇧)
-
-La primera sesión fue para descubrir Stellar, la segunda es para construir.
-
-Stellar junto a CryptoDays, cierra Road to Lisbon Barcelona con una sesión práctica para preparar proyectos de cara a HackMeridian Lisboa. Trae tu idea, un MVP, un contrato inteligente o el repositorio en el que estás trabajando y recibe feedback en directo para fortalecer tu candidatura al hackathon.
-
-Además, revisaremos el proceso de inscripción a HackMeridian, los travel grants disponibles y todo lo necesario para llegar preparado a Lisboa.
-
-Qué esperar
-
-Feedback técnico sobre proyectos y arquitectura
-
-Casos de uso de IA sobre Stellar: agent-to-agent payments y machine-to-machine value transfer
-
-Formación de equipos para builders que viajen solos
-
-Registro para HackMeridian, travel grants y logística para Lisboa
-
-Detalles del evento
-
-Akasha Hub
-
-Viernes 2 de octubre de 2026
-
-Horario
-
-19:00 - Puertas abiertas
-
-19:15 - Bienvenida + Stellar Passport
-
-19:30 - Build reviews & workshop
-
-20:30 - Road to Lisbon briefing + HackMeridian registration & travel grants
-
-20:45 - Networking
-
-21:30 - Fin
-
-Organizado por CryptoDays en colaboración con Guava
-
-Sobre CrytoDays
-
-CryptoDays es una plataforma de eventos de Crypto + IA con base en España, dedicada a construir trust networks a través de experiencias presenciales cuidadosamente curadas. Reunimos a builders, founders, developers, protocolos y comunidades en torno a tecnologías emergentes, creando espacios donde las ideas se convierten en colaboraciones y las conversaciones en relaciones a largo plazo.
-
-Sobre HackMeridian
-
-HackMeridian es un evento de builders de dos días que reúne a developers, founders, diseñadores y equipos técnicos para convertir ideas ambiciosas en productos reales sobre Stellar. El evento principal se realiza del 25 al 26 de octubre de 2026 en Lisboa, Portugal.
-
-Hay más de una forma de llegar a HackMeridian. Empieza donde estás, encuentra a tu gente, encuentra tu idea, y encuentra tu camino. Aplica hoy en HackMeridian.com.
-
-HackMeridian tiene dos caminos:
-
-Genesis: para founders primerizos, builders emergentes, expertos de dominio y equipos multidisciplinarios que están trabajando en una idea nueva o un prototipo inicial.
-
-Scale: para founders con experiencia, equipos de producto, developers y startups con un producto existente o un prototipo avanzado que buscan llevarlo más lejos. No hace falta tener experiencia previa en Stellar.
-
-Los participantes pueden acceder a soporte de ingenieros de Stellar, mentores técnicos, expertos de producto, founders, workshops, horas de oficina, formación de equipos, y soporte de desarrollo con IA.
-
-🇬🇧
-
-Round one introduced you to the Stellar stack.
-
-Round two is about shipping.
-
-CryptoDays, together with Stellar, wraps up Road to Lisbon Barcelona with a hands-on working session designed to prepare builders for HackMeridian Lisbon. Bring your idea, MVP, smart contract or repository and get direct feedback to strengthen your hackathon submission.
-
-We'll also cover HackMeridian registration, available travel grants, and everything you need to be ready for Lisbon.
-
-### What to expect
-
-Technical feedback on projects and architecture
-
-AI-first use cases on Stellar: agent-to-agent payments and machine-to-machine value transfer
-
-Team formation for solo builders
-
-HackMeridian registration, travel grants and Lisbon logistics
-
-Feedback on projects and MVPs
-
-Open Q&A and technical guidance
-
-Networking with builders and founders from Madrid
-
-HackMeridian, Road to Lisbon and travel grants
-
-### Event details
-
-Umbra (Gràcia)
-
-Friday, October 2nd, 2026
-
-C/ Noviciado, Madrid
-
-Thursday, October 1st, 2026
-
-7:00 PM - 10:00 PM
-
-Presented by CryptoDays
-
-In partnership with Guava
-
-### Schedule
-
-19:00 - Doors open
-
-19:15 - Welcome + Stellar Passport check-in
-
-19:30 - Build reviews & workshop
-
-20:30 - Road to Lisbon briefing + HackMeridian registration & travel grants
-
-20:45 - Networking
-
-21:30 - Event ends
-
-Presented by CryptoDays in partnership with Guava
-
-### About CryptoDays
-
-CryptoDays is a Crypto + AI events platform based in Spain, building trust networks through curated in-person experiences. We bring together builders, founders, developers, protocols and communities around emerging technologies, creating spaces where ideas become collaborations and conversations become long-term relationships.
-
-Sobre HackMeridian
-
-HackMeridian es un evento de builders de dos días que reúne a developers, founders, diseñadores y equipos técnicos para convertir ideas ambiciosas en productos reales sobre Stellar. El evento principal se realiza del 25 al 26 de octubre de 2026 en Lisboa, Portugal.
-
-Hay más de una forma de llegar a HackMeridian. Empieza donde estás, encuentra a tu gente, encuentra tu idea, y encuentra tu camino. Aplica hoy en HackMeridian.com.
-
-HackMeridian tiene dos caminos:
-
-Genesis: para founders primerizos, builders emergentes, expertos de dominio y equipos multidisciplinarios que están trabajando en una idea nueva o un prototipo inicial.
-
-Scale: para founders con experiencia, equipos de producto, developers y startups con un producto existente o un prototipo avanzado que buscan llevarlo más lejos. No hace falta tener experiencia previa en Stellar.
-
-Los participantes pueden acceder a soporte de ingenieros de Stellar, mentores técnicos, expertos de producto, founders, workshops, horas de oficina, formación de equipos, y soporte de desarrollo con IA.
-
-🇬🇧
-
-HackMeridian is getting closer.
-
-This session is designed for builders who are ready to start building on Stellar or want to prepare a strong project for HackMeridian 2026.
-
-We'll work through ideas, MVPs and projects already in progress, providing technical feedback, answering questions and exploring the opportunities Stellar offers to builders looking to take their projects further.
-
-We'll also cover the HackMeridian application process, available travel grants, and everything you need to know to travel to Lisbon with the rest of the community.
-
-### About HackMeridian
-
-HackMeridian is a two-day builder event bringing together developers, founders, designers, and technical teams to turn ambitious ideas into working products on Stellar. The main event takes place October 25-26, 2026 in Lisbon, Portugal.
-
-There's more than one way into HackMeridian. Start where you are, find your people, find your idea, and find your way. Apply today at HackMeridian.com.
-
-HackMeridian has two paths:
-
-Genesis: for first-time founders, emerging builders, domain experts, and multidisciplinary teams working on a new idea or early prototype.
-
-Scale: for experienced founders, product teams, developers, and startups with an existing product or advanced prototype looking to take it further. Experience does not need to be on Stellar.
-
-Participants can access support from Stellar engineers, technical mentors, product experts, founders, workshops, office hours, team formation, and AI development support.
 
 <a id="event-93d89db7f3296ab3"></a>
 
@@ -33814,18 +33566,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-02T07:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://dark.events/events/prague/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-880dad9fa5bc13fd"></a>
-
-## DUPONT Investment, Trade & Crypto Networking PLEASE READ
-
-- Record: `mu-316186926`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-02T17:00:00-04:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/dc-investo/events/316186926/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -54973,6 +54713,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-05T18:00:00-06:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946609/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-037bd488bdf5249b"></a>
+
+## WSBA 2026 Crypto & Blockchain Summit
+
+- Record: `luma-evt-WH7tWtbYfsx5oAu`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/i4bz66av>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

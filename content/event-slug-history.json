@@ -29,10 +29,6 @@
     "slug": "ps3",
     "aliases": []
   },
-  "luma-batch-qkMG1UdrLfgDpGZ": {
-    "slug": "productbootcamp",
-    "aliases": []
-  },
   "premier-bitchill-s04-2026": {
     "slug": "bitchill",
     "aliases": []
@@ -41,20 +37,12 @@
     "slug": "canadian",
     "aliases": []
   },
-  "luma-batch-xjvRpBHMpZu6GBG": {
-    "slug": "london-oct-02",
-    "aliases": []
-  },
   "premier-wob-madrid-2026": {
     "slug": "wobitcoin",
     "aliases": []
   },
   "luma-batch-D7DHEvhxQaPwdc1": {
     "slug": "0psua4hi",
-    "aliases": []
-  },
-  "luma-batch-evtoENvZQAxQSuZa": {
-    "slug": "10oqhols",
     "aliases": []
   },
   "luma-batch-KKgrPCY2VBv0rcx": {
@@ -4960,7 +4948,8 @@
     "slug": "rwa-hong-kong",
     "aliases": [
       "0p20jvwy",
-      "luma-crypto-xphsbclyge55yny"
+      "luma-crypto-xphsbclyge55yny",
+      "rwa"
     ]
   },
   "luma-crypto-F8ZFNrYXCCBIuod": {

@@ -1453,10 +1453,6 @@
       "sha256": "2c17bcc4e6643f0b7eddaa01b48c8ffd58938592e34a5460e3dda25e959f6323",
       "status": "optimized"
     },
-    "/events/luma-batch-evtoENvZQAxQSuZa-4bd952e3.webp": {
-      "sha256": "b65ff1859f8dc0546f092541c30f9880f050cb9ee320ea18e057d53e26ed4cca",
-      "status": "optimized"
-    },
     "/events/luma-batch-evtp4SouuKrUrejZ-594ba950.webp": {
       "sha256": "44b277e266c1436c1ef92233b730bb9a74416a351aa12d0a60560a2e23f64b6a",
       "status": "optimized"
@@ -1633,10 +1629,6 @@
       "sha256": "d6dc9d6f78f4ebdad4e813c8157be1308d026647240fb7a4fb8bb782a080fcbb",
       "status": "optimized"
     },
-    "/events/luma-batch-qkMG1UdrLfgDpGZ-2375e716.webp": {
-      "sha256": "ae30ce7815f5d8eb732dd998565f86a3dca264c427f5772b1dfb5abf2904dbc9",
-      "status": "optimized"
-    },
     "/events/luma-batch-rk5AVFngAATx3XK-c64b3efd.webp": {
       "sha256": "b10895ebda2873ee1c5774112e4a466b4396085d18e7e702d6e97912b74f522b",
       "status": "optimized"
@@ -1659,10 +1651,6 @@
     },
     "/events/luma-batch-xFFX1w014DYQNxw-74b39158.webp": {
       "sha256": "8416204d63d6421ebfd9d1562602300b581fb03392867cb0b0d512b993b85646",
-      "status": "optimized"
-    },
-    "/events/luma-batch-xjvRpBHMpZu6GBG-609a935f.webp": {
-      "sha256": "733539a0c25f8e114e931308d3253a32098dbaf5277fd38a6d213f9329c15b6f",
       "status": "optimized"
     },
     "/events/luma-batch-yCu03jZbXJloNc6-f8f6afaf.webp": {

@@ -2239,54 +2239,6 @@
     }
   },
   {
-    "id": "luma-batch-qkMG1UdrLfgDpGZ",
-    "slug": "productbootcamp",
-    "name": "Product Bootcamp - Road to Colosseum Hackathon",
-    "description": "Product Bootcamp: Road to Colosseum Hackathon\n\n2 Days | Product Strategy | Mentoring | Feedback\n\nJoin us for a two-day Product Bootcamp focused on finding strong ideas, validating them, and building products and businesses that can last.\n\nWe’ll look at the questions that matter before and around building: What problem are you solving? Who is it for? Why now? And how do you know when to keep going, change direction, or pivot?\n\nThroughout the bootcamp, you’ll also hear from and get feedback from founders and experienced builders from the ecosystem, including people who have launched startups, gone through accelerators, pivoted products, and learned firsthand what happens when an idea doesn’t work out as planned.\n\n🏟 Road to the Solana Hackathon\n\nThe bootcamp is also designed to help builders prepare for the upcoming Solana startup competition powered by Colosseum.\n\nUse these two days to pressure-test your idea, understand the problem more deeply, and start with a stronger product direction.\n\n👩‍💼 Who’s this for?\n\nFounders and aspiring founders\n\nDevelopers looking for their next project\n\nProduct builders and designers\n\nHackathon teams\n\nExisting teams considering a pivot\n\nAnyone interested in turning an idea into a real product\n\n🎤 Guest founders, mentors, and the full agenda will be announced soon.",
-    "startDate": "2026-10-01T09:00:00.000Z",
-    "endDate": "2026-10-02T18:00:00.000Z",
-    "city": "Berlin",
-    "country": "Germany",
-    "location": "Berlin, Berlin, Germany",
-    "url": "https://luma.com/productbootcamp",
-    "registrationUrl": "https://luma.com/productbootcamp",
-    "coverImage": "/events/luma-batch-qkMG1UdrLfgDpGZ-2375e716.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Germany"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/Berlin",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "Berlin",
-    "addressRegion": "Berlin",
-    "addressCountry": "DE",
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Germany",
-      "url": "https://luma.com/user/superteamde"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/productbootcamp",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/productbootcamp",
-      "eventId": "evt-qkMG1UdrLfgDpGZ",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-hPFyfHyof2hYVIp",
     "slug": "kv670yys",
     "name": "SOIRÉE XD #20",
@@ -2432,36 +2384,6 @@
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-xjvRpBHMpZu6GBG",
-    "slug": "london-oct-02",
-    "name": "Co-Working Fridays : London Chapter",
-    "description": "Join SuperteamUK every Friday at our co-working space for builders, leaders and creatives at the frontier of tech in London (Every Friday: 10:00AM - 8:30PM)!\n\nAttendance is free but entry via approval only, so make sure to register and be accepted for your name to be on the guestlist.\n\nCome and meet and collaborate with like-minded developers & builders, discover new team members, and gain insights from industry leaders.\n\nOn arrival you will receive your event wristband which must be worn at all times on site! Please keep the safe as you found it to represent the other members and venue staff.\n\nFor more info, reach out to us on the Solana UK Telegram.\n\nAbout Superteam UK\n\nSuperteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.Learn more and apply for membership at superteamuk.org\n\n* This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.\n\n** Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.\n\nBy signing up to this event you agree that Solana, The SRI, & SuperteamUK can capture any footage of you, and contact you directly about future events, major news, and more.",
-    "startDate": "2026-10-02T09:00:00.000Z",
-    "endDate": "2026-10-02T19:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "Somerset House, London, United Kingdom",
-    "url": "https://luma.com/london-oct-02",
-    "registrationUrl": "https://luma.com/london-oct-02",
-    "coverImage": "/events/luma-batch-xjvRpBHMpZu6GBG-609a935f.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam UK"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/London",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "sourceVerification": {
-      "url": "https://luma.com/london-oct-02",
-      "eventId": "calev-xjvRpBHMpZu6GBG",
-      "fetchedAt": "2026-09-22T11:31:03.000Z",
-      "method": "luma-page",
-      "apifyRunId": "WHcLsVUsFvlHmcVYz"
     }
   },
   {
@@ -6055,36 +5977,6 @@
     "sourceVerification": {
       "url": "https://luma.com/uoqavs7x",
       "eventId": "evt-DE6g45qZhsILOXS",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtoENvZQAxQSuZa",
-    "slug": "10oqhols",
-    "name": "Stellar Barcelona Builders Evening x CryptoDays | Road to Lisbon — Build Session & HackMeridian Prep",
-    "description": "🇪🇸 (English below 🇬🇧👇)\n\nLa primera sesión fue para descubrir Stellar, la segunda es para construir.\n\nStellar junto a CryptoDays, cierra Road to Lisbon Barcelona con una sesión práctica para preparar proyectos de cara a HackMeridian Lisboa. Trae tu idea, un MVP, un contrato inteligente o el repositorio en el que estás trabajando y recibe feedback en directo para fortalecer tu candidatura al hackathon.\n\nAdemás, revisaremos el proceso de inscripción a HackMeridian, los travel grants disponibles y todo lo necesario para llegar preparado a Lisboa.\n\nQué esperar\n\n🔍 Feedback técnico sobre proyectos y arquitectura\n\n🤖 Casos de uso de IA sobre Stellar: agent-to-agent payments y machine-to-machine value transfer\n\n👥 Formación de equipos para builders que viajen solos\n\n✈️ Registro para HackMeridian, travel grants y logística para Lisboa\n\nDetalles del evento\n\n📍 Akasha Hub\n\n🗓️ Viernes 2 de octubre de 2026\n\n🕖 Horario\n\n19:00 — Puertas abiertas\n\n19:15 — Bienvenida + Stellar Passport\n\n19:30 — Build reviews & workshop\n\n20:30 — Road to Lisbon briefing + HackMeridian registration & travel grants\n\n20:45 — Networking\n\n21:30 — Fin\n\n🎤 Organizado por CryptoDays en colaboración con Guava\n\nSobre CrytoDays\n\nCryptoDays es una plataforma de eventos de Crypto + IA con base en España, dedicada a construir trust networks a través de experiencias presenciales cuidadosamente curadas. Reunimos a builders, founders, developers, protocolos y comunidades en torno a tecnologías emergentes, creando espacios donde las ideas se convierten en colaboraciones y las conversaciones en relaciones a largo plazo.\n\nSobre HackMeridian\n\nHackMeridian es un evento de builders de dos días que reúne a developers, founders, diseñadores y equipos técnicos para convertir ideas ambiciosas en productos reales sobre Stellar. El evento principal se realiza del 25 al 26 de octubre de 2026 en Lisboa, Portugal.\n\nHay más de una forma de llegar a HackMeridian. Empieza donde estás, encuentra a tu gente, encuentra tu idea, y encuentra tu camino. Aplica hoy en HackMeridian.com.\n\nHackMeridian tiene dos caminos:\n\nGenesis: para founders primerizos, builders emergentes, expertos de dominio y equipos multidisciplinarios que están trabajando en una idea nueva o un prototipo inicial.\n\nScale: para founders con experiencia, equipos de producto, developers y startups con un producto existente o un prototipo avanzado que buscan llevarlo más lejos. No hace falta tener experiencia previa en Stellar.\n\nLos participantes pueden acceder a soporte de ingenieros de Stellar, mentores técnicos, expertos de producto, founders, workshops, horas de oficina, formación de equipos, y soporte de desarrollo con IA.\n\n🇬🇧\n\nRound one introduced you to the Stellar stack.\n\nRound two is about shipping.\n\nCryptoDays, together with Stellar, wraps up Road to Lisbon Barcelona with a hands-on working session designed to prepare builders for HackMeridian Lisbon. Bring your idea, MVP, smart contract or repository and get direct feedback to strengthen your hackathon submission.\n\nWe'll also cover HackMeridian registration, available travel grants, and everything you need to be ready for Lisbon.\n\nWhat to expect\n\n🔍 Technical feedback on projects and architecture\n\n🤖 AI-first use cases on Stellar: agent-to-agent payments and machine-to-machine value transfer\n\n👥 Team formation for solo builders\n\n✈️ HackMeridian registration, travel grants and Lisbon logistics\n\nEvent details\n\n📍 Umbra (Gràcia)\n\n🗓️ Friday, October 2nd, 2026\n\n🕖 Schedule\n\n19:00 — Doors open\n\n19:15 — Welcome + Stellar Passport check-in\n\n19:30 — Build reviews & workshop\n\n20:30 — Road to Lisbon briefing + HackMeridian registration & travel grants\n\n20:45 — Networking\n\n21:30 — Event ends\n\n🎤 Presented by CryptoDays in partnership with Guava\n\nAbout CryptoDays\nCryptoDays is a Crypto + AI events platform based in Spain, building trust networks through curated in-person experiences. We bring together builders, founders, developers, protocols and communities around emerging technologies, creating spaces where ideas become collaborations and conversations become long-term relationships.\n\nSobre HackMeridian\n\nHackMeridian es un evento de builders de dos días que reúne a developers, founders, diseñadores y equipos técnicos para convertir ideas ambiciosas en productos reales sobre Stellar. El evento principal se realiza del 25 al 26 de octubre de 2026 en Lisboa, Portugal.\n\nHay más de una forma de llegar a HackMeridian. Empieza donde estás, encuentra a tu gente, encuentra tu idea, y encuentra tu camino. Aplica hoy en HackMeridian.com.\n\nHackMeridian tiene dos caminos:\n\nGenesis: para founders primerizos, builders emergentes, expertos de dominio y equipos multidisciplinarios que están trabajando en una idea nueva o un prototipo inicial.\n\nScale: para founders con experiencia, equipos de producto, developers y startups con un producto existente o un prototipo avanzado que buscan llevarlo más lejos. No hace falta tener experiencia previa en Stellar.\n\nLos participantes pueden acceder a soporte de ingenieros de Stellar, mentores técnicos, expertos de producto, founders, workshops, horas de oficina, formación de equipos, y soporte de desarrollo con IA.\n\n🇬🇧\n\nHackMeridian is getting closer.\n\nThis session is designed for builders who are ready to start building on Stellar or want to prepare a strong project for HackMeridian 2026.\n\nWe'll work through ideas, MVPs and projects already in progress, providing technical feedback, answering questions and exploring the opportunities Stellar offers to builders looking to take their projects further.\n\nWe'll also cover the HackMeridian application process, available travel grants, and everything you need to know to travel to Lisbon with the rest of the community.\n\nWhat to expect\n\n💻 Feedback on projects and MVPs\n\n🔍 Open Q&A and technical guidance\n\n🤝 Networking with builders and founders from Madrid\n\n✈️ HackMeridian, Road to Lisbon and travel grants\n\nEvent details\n\n📍 C/ Noviciado, Madrid\n\n🗓️ Thursday, October 1st, 2026\n\n🕖 7:00 PM – 10:00 PM\n\n🎤 Presented by CryptoDays\n\n🤝 In partnership with Guava\n\nAbout CryptoDays\n\nCryptoDays is a Crypto + AI events platform based in Spain, building trust networks through curated in-person experiences. We bring together builders, founders, developers, protocols and communities around emerging technologies, creating spaces where ideas become collaborations and conversations become long-term relationships.\n\nAbout HackMeridian\n\nHackMeridian is a two-day builder event bringing together developers, founders, designers, and technical teams to turn ambitious ideas into working products on Stellar. The main event takes place October 25–26, 2026 in Lisbon, Portugal.\n\nThere’s more than one way into HackMeridian. Start where you are, find your people, find your idea, and find your way. Apply today at HackMeridian.com.\n\nHackMeridian has two paths:\n\nGenesis: for first-time founders, emerging builders, domain experts, and multidisciplinary teams working on a new idea or early prototype.\n\nScale: for experienced founders, product teams, developers, and startups with an existing product or advanced prototype looking to take it further. Experience does not need to be on Stellar.\n\nParticipants can access support from Stellar engineers, technical mentors, product experts, founders, workshops, office hours, team formation, and AI development support.",
-    "startDate": "2026-10-02T17:00:00.000Z",
-    "endDate": "2026-10-02T20:00:00.000Z",
-    "city": "Barcelona",
-    "country": "Spain",
-    "location": "Barcelona, Cataluña, Spain",
-    "url": "https://luma.com/10oqhols",
-    "registrationUrl": "https://luma.com/10oqhols",
-    "coverImage": "/events/luma-batch-evtoENvZQAxQSuZa-4bd952e3.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Crypto Days"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Madrid",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "hackathon",
-    "sourceVerification": {
-      "url": "https://luma.com/10oqhols",
-      "eventId": "evt-oENvZQAxQSuZaQu",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
