@@ -85143,7 +85143,8 @@
       },
       "account": "profile",
       "attemptId": "7a7ab0f9-5cbb-4f81-8278-cb85f3a0e0d9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x12ed466d3672bf68739407d540f92bf798219e1b"
     }
   ]
 }
