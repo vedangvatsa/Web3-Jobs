@@ -2782,7 +2782,7 @@
     "sentAt": "2026-11-01T03:35:05.482Z"
   },
   "37e03b83-760d-49b1-a72d-d6b6159f431b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-01T11:35:35.493Z",
     "stories": [
       {
@@ -2810,6 +2810,8 @@
         "originalTitle": "Zcash developers lock Nov. activation height for NU7 upgrade"
       }
     ],
-    "slotKey": "2026-11-01:afternoon"
+    "slotKey": "2026-11-01:afternoon",
+    "messageId": 156040,
+    "sentAt": "2026-11-01T11:35:46.568Z"
   }
 }

@@ -860,6 +860,9 @@
   "https://hashtagweb3.com/charonupgrade?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/cakeflip?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/emudhra?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/spacextesla?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/trumpscam?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/zcashnu7?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2486,6 +2489,12 @@
   "PancakeSwap fee overhaul vote faces 98% opposition before Saturday close",
   "Tech Companies Block eMudhra Certificates Due to Security Flaws",
   "Tech giants block eMudhra certificates as CertiK warns crypto apps may stay exposed",
+  "Tesla and SpaceX evaluate merger to combine Bitcoin holdings",
+  "Tesla and SpaceX explore merger that would unite 30,221 bitcoin",
+  "Trump schedules White House event on international crypto fraud",
+  "Trump to spotlight overseas crypto scams at White House cybercrime event",
+  "Zcash Schedules NU7 Upgrade for November",
+  "Zcash developers lock Nov. activation height for NU7 upgrade",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2896,5 +2905,8 @@
   "fp:amendment|approv|budget|decision|final|franc|french|lawmaker|narrowly|nov3",
   "fp:affect|are|authority|certificat|charon|check|compromis|emudhra|follow|issu",
   "fp:ahead|by69|cak|clos|daily|deadlin|emission|faces98|fee|increas",
-  "fp:app|application|block|browser|certificat|certik|due|eight|emudhra|environment"
+  "fp:app|application|block|browser|certificat|certik|due|eight|emudhra|environment",
+  "fp:221|are|balanc|btc|combin|committe|corporat|evaluat|explor|merger",
+  "fp:cover|cybercrim|event|foreign|fraud|fraudulent|hous|international|investment|meet",
+  "fp:activation|around|block|developer|from75|height|lock|mainnet|nov|november"
 ]
