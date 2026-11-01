@@ -2,7 +2,7 @@
 title: The Most Affordable Digital Nomad Cities in Asia for Bootstrapping
 ogTitle: "THE MOST AFFORDABLE DIGITAL NOMAD CITIES IN ASIA FOR BOOTSTRAPPING"
 description: A detailed ranking of the top budget-friendly nomad cities in Asia analyzing monthly living costs internet speed safety and coworking quality.
-image: /images/articles/where-to-work-cost-vs-speed.png
+image: /images/nomads/chiang-mai.webp
 category: Career Guides
 data-ai-hint: affordable digital nomad cities in asia bootstrapping guide
 publishedDate: '2026-11-01'
@@ -16,7 +16,7 @@ However, choosing the right Asian base requires looking beyond raw cost numbers.
 
 This guide analyzes the six most affordable and functional digital nomad cities across Asia, detailing real monthly living costs, internet infrastructure, and legal stay pathways from our [Digital Nomad City Explorer](/nomads).
 
-![Digital nomad cities ranked by monthly living cost and median internet speed](/images/articles/where-to-work-cost-vs-speed.png)
+![Digital nomad cities ranked by monthly living cost and median internet speed](/images/nomads/chiang-mai.webp)
 
 ## 1. Chiang Mai, Thailand ($1,200 - $1,500/Month)
 - **Median Download Speed:** 185 Mbps

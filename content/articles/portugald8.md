@@ -2,7 +2,7 @@
 title: The Portugal D8 Digital Nomad Visa Requirements and Application Guide
 ogTitle: "THE PORTUGAL D8 DIGITAL NOMAD VISA REQUIREMENTS AND APPLICATION GUIDE"
 description: A comprehensive guide to Portugal's D8 Remote Work Visa covering minimum income proof NHR 2.0 tax rules and path to EU citizenship.
-image: /images/articles/digital-nomad-visas-income-vs-duration.png
+image: /images/nomads/lisbon.webp
 category: Career Guides
 data-ai-hint: portugal d8 digital nomad visa requirements application guide
 publishedDate: '2026-11-01'
@@ -18,7 +18,7 @@ However, navigating Portugal's immigration and tax system requires understanding
 
 This guide provides an exhaustive analysis of the Portugal D8 visa requirements, bank balance rules, application timelines, and long-term tax structures.
 
-![Digital nomad visas ranked by income thresholds and permit durations](/images/articles/digital-nomad-visas-income-vs-duration.png)
+![Digital nomad visas ranked by income thresholds and permit durations](/images/nomads/lisbon.webp)
 
 ## The Two Distinct Pathways of the D8 Visa
 

@@ -2,7 +2,7 @@
 title: The Best Walkable European Nomad Cities with Low Monthly Living Costs
 ogTitle: "THE BEST WALKABLE EUROPEAN NOMAD CITIES WITH LOW MONTHLY LIVING COSTS"
 description: An index of the top pedestrian-friendly European destinations for digital nomads offering low living costs high safety and rich cultural amenities.
-image: /images/articles/city-walkability-vs-cost.png
+image: /images/nomads/prague.webp
 category: Career Guides
 data-ai-hint: walkable european nomad cities low monthly living costs
 publishedDate: '2026-11-01'
@@ -18,7 +18,7 @@ Fortunately, several vibrant European hubs combine exceptional pedestrian infras
 
 This guide analyzes five of Europe's best walkable budget cities for remote workers, evaluating pedestrian infrastructure, transit networks, safety metrics, and realistic monthly living budgets from our [Digital Nomad City Explorer](/nomads).
 
-![City walkability plotted against monthly living costs](/images/articles/city-walkability-vs-cost.png)
+![City walkability plotted against monthly living costs](/images/nomads/prague.webp)
 
 ## 1. Valencia, Spain (The Mediterranean Walkability Benchmark)
 - **Safety Rating:** 78 / 100

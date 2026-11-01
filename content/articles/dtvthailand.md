@@ -2,7 +2,7 @@
 title: The Complete Guide to the Destination Thailand Visa for Digital Nomads
 ogTitle: "THE COMPLETE GUIDE TO THE DESTINATION THAILAND VISA FOR DIGITAL NOMADS"
 description: An exhaustive statutory review of Thailand's Destination Thailand Visa covering income requirements financial proof 180-day extensions and application rules.
-image: /images/articles/digital-nomad-visas-income-vs-duration.png
+image: /images/nomads/bangkok.webp
 category: Career Guides
 data-ai-hint: destination thailand visa dtv guide digital nomads requirements
 publishedDate: '2026-11-01'
@@ -18,7 +18,7 @@ The DTV is a five-year, multiple-entry digital nomad visa that allows foreign re
 
 This comprehensive guide details the statutory requirements, financial proof thresholds, step-by-step e-visa application procedures, and tax implications of Thailand's Destination Thailand Visa, using data from our [Digital Nomad Visas Guide](/visas).
 
-![Digital nomad visas ranked by income thresholds and permit durations](/images/articles/digital-nomad-visas-income-vs-duration.png)
+![Digital nomad visas ranked by income thresholds and permit durations](/images/nomads/bangkok.webp)
 
 ## Core Parameters of the Destination Thailand Visa (DTV)
 

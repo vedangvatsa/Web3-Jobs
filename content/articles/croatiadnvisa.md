@@ -2,7 +2,7 @@
 title: How to Apply for the Croatia Digital Nomad Permit with Zero Local Tax
 ogTitle: "HOW TO APPLY FOR THE CROATIA DIGITAL NOMAD PERMIT WITH ZERO LOCAL TAX"
 description: A field tested guide to securing Croatia's Digital Nomad Residence Permit enjoying complete local income tax exemptions along the Adriatic coast.
-image: /images/articles/digital-nomad-visas-tax-vs-income.png
+image: /images/nomads/split.webp
 category: Career Guides
 data-ai-hint: croatia digital nomad permit zero local tax application guide
 publishedDate: '2026-11-01'
@@ -18,7 +18,7 @@ Combine this tax holiday with over 1,000 islands along the Adriatic coast, histo
 
 This guide provides an exhaustive, step-by-step roadmap to applying for the Croatia Digital Nomad Permit, verifying required documents, and maximizing your stay.
 
-![Digital nomad visas compared by monthly income and foreign tax rate](/images/articles/digital-nomad-visas-tax-vs-income.png)
+![Digital nomad visas compared by monthly income and foreign tax rate](/images/nomads/split.webp)
 
 ## Core Parameters of the Croatia Digital Nomad Permit
 
