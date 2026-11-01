@@ -88325,7 +88325,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "ab133285-b382-45cf-bc05-82ec5056c0f3",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae724dbf0984eef336130b8"
     }
   ]
 }
