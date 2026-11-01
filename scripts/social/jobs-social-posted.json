@@ -85323,7 +85323,8 @@
       },
       "account": "channel:dev",
       "attemptId": "a430ccc9-b23b-4906-b72f-364074c46cb8",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x81798be550903e72b69db1d01c7c09a811667a41"
     }
   ]
 }
