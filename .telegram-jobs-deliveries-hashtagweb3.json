@@ -6678,5 +6678,122 @@
     "slotKey": "2026-11-01:afternoon",
     "messageId": 156039,
     "sentAt": "2026-11-01T11:34:22.621Z"
+  },
+  "60c02ac1-698f-44f8-af66-661ad0c8b885": {
+    "status": "reserved",
+    "reservedAt": "2026-11-01T19:33:17.006Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "4eedfc5b-c5a3-4800-be41-d0ed14f6d86f",
+          "title": "Executive Assistant",
+          "company": "MoonPay",
+          "link": "https://jobs.lever.co/moonpay/4eedfc5b-c5a3-4800-be41-d0ed14f6d86f",
+          "date": "2026-10-29T11:36:27.399Z",
+          "source": "Lever: MoonPay [moonpay]",
+          "location": "New York - Hybrid",
+          "workplaceType": "hybrid",
+          "department": "Executive Office",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso47"
+        },
+        "key": "4eedfc5b-c5a3-4800-be41-d0ed14f6d86f",
+        "slug": "aso47",
+        "url": "https://hashtagweb3.com/aso47?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "MoonPay",
+        "title": "Executive Assistant"
+      },
+      {
+        "snapshot": {
+          "id": "4792a3ff-c812-4633-b5c0-95a0027a2d4f",
+          "title": "Senior Backend Engineer - Securities Trading",
+          "company": "Bitvavo",
+          "link": "https://jobs.ashbyhq.com/bitvavo/4792a3ff-c812-4633-b5c0-95a0027a2d4f",
+          "date": "2026-10-23T15:21:24.351+00:00",
+          "source": "Ashby: Bitvavo [bitvavo]",
+          "location": "Headquarters",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "be14"
+        },
+        "key": "4792a3ff-c812-4633-b5c0-95a0027a2d4f",
+        "slug": "be14",
+        "url": "https://hashtagweb3.com/be14?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitvavo",
+        "title": "Senior Backend Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8880870002",
+          "title": "Engineering Manager - Infrastructure",
+          "company": "BitGo",
+          "link": "https://job-boards.greenhouse.io/bitgo/jobs/8880870002",
+          "date": "2026-10-09T12:10:18-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BitGo [bitgo]",
+          "location": "New York, NY",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "infra36"
+        },
+        "key": "8880870002",
+        "slug": "infra36",
+        "url": "https://hashtagweb3.com/infra36?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Engineering Manager"
+      },
+      {
+        "snapshot": {
+          "id": "abd1360f-bd9d-4649-ac02-9af2a437ff98",
+          "title": "Chief Compliance Officer, Ramp Advisory LLC",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/abd1360f-bd9d-4649-ac02-9af2a437ff98",
+          "date": "2026-10-16T21:05:12.511+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp118"
+        },
+        "key": "abd1360f-bd9d-4649-ac02-9af2a437ff98",
+        "slug": "cmp118",
+        "url": "https://hashtagweb3.com/cmp118?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Chief Compliance Officer"
+      },
+      {
+        "snapshot": {
+          "id": "dd612889-7e10-4f9a-bcb0-fae2ec26ed66",
+          "title": "Head of Strategy",
+          "company": "Ellipsis Labs",
+          "link": "https://jobs.ashbyhq.com/ellipsislabs/dd612889-7e10-4f9a-bcb0-fae2ec26ed66",
+          "date": "2026-10-29T18:50:51.893+00:00",
+          "source": "Ashby: Ellipsis Labs [ellipsislabs]",
+          "location": "New York, NY",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Growth",
+          "active": true,
+          "dateVerified": true,
+          "slug": "str"
+        },
+        "key": "dd612889-7e10-4f9a-bcb0-fae2ec26ed66",
+        "slug": "str",
+        "url": "https://hashtagweb3.com/str?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ellipsis Labs",
+        "title": "Head of Strategy"
+      }
+    ],
+    "message": "- MoonPay is hiring <a href=\"https://hashtagweb3.com/aso47?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Executive Assistant</a>\n- Bitvavo is hiring <a href=\"https://hashtagweb3.com/be14?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Backend Engineer - Securities Trading</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/infra36?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Engineering Manager - Infrastructure</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/cmp118?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Chief Compliance Officer, Ramp Advisory LLC</a>\n- Ellipsis Labs is hiring <a href=\"https://hashtagweb3.com/str?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Strategy</a>",
+    "slotKey": "2026-11-01:evening"
   }
 }
