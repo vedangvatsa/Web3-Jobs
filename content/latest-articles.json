@@ -1,42 +1,42 @@
 [
   {
-    "slug": "binancecover",
-    "title": "Binance Sets Aside $6.34 Billion to Cover Hack Losses",
-    "description": "Binance said it has reserved more than $6.34 billion in company funds to restore customer balances after attackers stole an estimated $6.3 billion, with about $5 billion already held in the affected tokens and a withdrawal restart targeted within about 34 hours.",
-    "category": "News",
-    "publishedDate": "2026-10-31",
-    "image": "/images/news/binancecover.jpg"
+    "slug": "citizenship-by-investment-capital-vs-speed",
+    "title": "Citizenship by Investment Programs Ranked by Upfront Capital and Processing Speed",
+    "description": "A comparative review of legal citizenship by investment and fast-track naturalization programs analyzing minimum capital requirements and statutory processing times.",
+    "category": "Career Guides",
+    "publishedDate": "2026-11-01",
+    "image": "/images/articles/citizenship-by-investment-capital-vs-speed.png"
   },
   {
-    "slug": "coindcxfutures",
-    "title": "CoinDCX Puts Futures Into Reduce-Only Mode After Binance Disruption",
-    "description": "CoinDCX restricted new futures positions on Oct. 30 after Binance's security incident disrupted a liquidity provider, then reopened most markets the same day while four tokens stayed limited.",
-    "category": "News",
-    "publishedDate": "2026-10-31",
-    "image": "/images/news/coindcxfutures.jpg"
+    "slug": "digital-nomad-visas-tax-vs-income",
+    "title": "Comparing Global Digital Nomad Visas by Minimum Income and Local Tax Rates",
+    "description": "A comparative legal and financial review of remote worker visas analyzing qualifying monthly income thresholds alongside foreign-earned income tax rates.",
+    "category": "Career Guides",
+    "publishedDate": "2026-11-01",
+    "image": "/images/articles/digital-nomad-visas-tax-vs-income.png"
   },
   {
-    "slug": "comer",
-    "title": "House Oversight Chair Opens Investigation of Delaware Plan for AI-Run Companies",
-    "description": "Rep. James Comer asked Delaware's governor for documents on the state's proposed Artificial Intelligence Company structure, warning it could shield AI companies and their investors from liability for harms caused by the agents running the firms.",
-    "category": "News",
-    "publishedDate": "2026-10-31",
-    "image": "/images/news/comer.jpg"
+    "slug": "nomad-cities-cost-vs-speed-2026",
+    "title": "The Best Digital Nomad Cities for 2026 Ranked by Cost and Internet Speed",
+    "description": "An empirical evaluation of global digital nomad destinations plotting verified median fiber and 5G internet speeds against real monthly living costs.",
+    "category": "Career Guides",
+    "publishedDate": "2026-11-01",
+    "image": "/images/articles/where-to-work-cost-vs-speed.png"
   },
   {
-    "slug": "selig",
-    "title": "CFTC Frontier Forum presses who is liable when AI agents trade",
-    "description": "At the CFTC's first Frontier Forum on Oct. 28, Chairman Michael Selig and panelists debated whether developers, operators or customers bear responsibility when autonomous trading software breaks market rules.",
-    "category": "News",
-    "publishedDate": "2026-10-31",
-    "image": "/images/news/selig.jpg"
+    "slug": "safe-affordable-nomad-cities-walkability",
+    "title": "Where You Can Live Safely on a Budget Ranked by Walkability and Living Costs",
+    "description": "An index assessing international destinations on personal safety metrics, pedestrian walkability, and monthly living expenses for remote professionals.",
+    "category": "Career Guides",
+    "publishedDate": "2026-11-01",
+    "image": "/images/articles/where-to-live-safely-cost-vs-safety.png"
   },
   {
-    "slug": "spacexstake",
-    "title": "CZ cites billion-dollar SpaceX stake in reply to Musk after Binance hack",
-    "description": "Changpeng Zhao told Elon Musk that Binance holds more than $1 billion in SPCX shares from its $500 million Twitter investment, while co-founder Yi He said annual revenue covers the $6.3 billion hack losses without selling the stake.",
-    "category": "News",
-    "publishedDate": "2026-10-31",
-    "image": "/images/news/spacexstake.jpg"
+    "slug": "top-web3-digital-nomad-hubs",
+    "title": "The Leading Web3 Nomad Hubs Where Builders and Capital Congregate",
+    "description": "A global index mapping cryptocurrency and Web3 physical clusters across regulatory clarity, venture activity, developer density, and daily nomad livability.",
+    "category": "Industry Insights",
+    "publishedDate": "2026-11-01",
+    "image": "/images/articles/where-to-build-web3.png"
   }
 ]
