@@ -899,6 +899,9 @@
   "https://hashtagweb3.com/akash?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/osmosis?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/visamesh?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/geminiorder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/qubicdrain?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/strategystrc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2597,6 +2600,11 @@
   "Osmosis Votes to End OSMO Inflation and Fund Staking From Revenue",
   "Visa and Mesh enable direct crypto spending at merchants",
   "Visa and Mesh let wallets spend stablecoins at 175 million merchants",
+  "Judge upholds Gemini and CFTC $5 million settlement",
+  "Judge rejects Gemini and CFTC bid to void $5 million settlement",
+  "Qubic halts network after attacker drains 1,404 wallets",
+  "Strategy increases share buyback authorization to $3 billion",
+  "Strategy lifts STRC buyback cap to $3 billion after $193 million week",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -3025,5 +3033,8 @@
   "fp:address|ask|binanc|block|breach|btc|community|confirm|defi|eth",
   "fp:akash|akt|comput|cosmo|creat|later|marketplac|migrat|mov|network",
   "fp:daily|developer|end|fund|governanc|inflation|mint|osmo|osmosis|pass",
-  "fp:175m|can|card|direct|enabl|exist|let|location|merchant|mesh"
+  "fp:175m|can|card|direct|enabl|exist|let|location|merchant|mesh",
+  "fp:2025|bid|cftc|conduct|deni|exchang|gemini|joint|judg|maintain",
+  "fp:404|attacker|breach|developer|drains1|follow|froz|halt|most|network",
+  "fp:1931m|193m|authorization|buyback|cap|dur|end|increas|lift|october18"
 ]

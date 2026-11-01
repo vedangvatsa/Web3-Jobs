@@ -2948,7 +2948,7 @@
     "sentAt": "2026-11-01T11:34:44.073Z"
   },
   "cb6a77bc-bf55-46c2-a440-22dcd6967a54": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-01T19:36:00.376Z",
     "stories": [
       {
@@ -2976,6 +2976,8 @@
         "originalTitle": "Strategy lifts STRC buyback cap to $3 billion after $193 million week"
       }
     ],
-    "slotKey": "2026-11-01:evening"
+    "slotKey": "2026-11-01:evening",
+    "messageId": 65797,
+    "sentAt": "2026-11-01T19:36:36.965Z"
   }
 }
