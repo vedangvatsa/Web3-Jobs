@@ -86554,7 +86554,8 @@
       },
       "account": "channel:design",
       "attemptId": "e0af7ea6-5f5d-4546-8b32-5078523b28bf",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7b33ad45155032b338df36a8c4b37fd843c935ee"
     }
   ]
 }
