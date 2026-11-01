@@ -863,6 +863,9 @@
   "https://hashtagweb3.com/spacextesla?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/trumpscam?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/zcashnu7?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/tethermural?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/bitgetthai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/ramptrust?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2495,6 +2498,12 @@
   "Trump to spotlight overseas crypto scams at White House cybercrime event",
   "Zcash Schedules NU7 Upgrade for November",
   "Zcash developers lock Nov. activation height for NU7 upgrade",
+  "Tether invests $15 million in fintech startup Mural",
+  "Tether leads $15 million Series A in AI payments startup Mural",
+  "Bitget to acquire Thai crypto exchange",
+  "Bitget plans Thai exchange acquisition after $388 million hack",
+  "Ramp Seeks Federal Charter for Digital Asset Custody",
+  "Ramp applies to the OCC for a national trust bank and digital asset custody",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2908,5 +2917,8 @@
   "fp:app|application|block|browser|certificat|certik|due|eight|emudhra|environment",
   "fp:221|are|balanc|btc|combin|committe|corporat|evaluat|explor|merger",
   "fp:cover|cybercrim|event|foreign|fraud|fraudulent|hous|international|investment|meet",
-  "fp:activation|around|block|developer|from75|height|lock|mainnet|nov|november"
+  "fp:activation|around|block|developer|from75|height|lock|mainnet|nov|november",
+  "fp:15m|account|agent|control|develop|fintech|invest|lead|mural|payment",
+  "fp:388m|acquir|acquisition|bitget|buy|despit|exchang|hack|involv|issu",
+  "fp:apply|asset|bank|charter|custody|deposit|digital|federal|fiduciary|fil"
 ]

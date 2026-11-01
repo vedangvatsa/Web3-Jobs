@@ -2815,7 +2815,7 @@
     "sentAt": "2026-11-01T11:35:46.568Z"
   },
   "9cf0c3df-2914-4e3a-83bc-b891c1ba4600": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-01T19:37:02.956Z",
     "stories": [
       {
@@ -2843,6 +2843,8 @@
         "originalTitle": "Ramp applies to the OCC for a national trust bank and digital asset custody"
       }
     ],
-    "slotKey": "2026-11-01:evening"
+    "slotKey": "2026-11-01:evening",
+    "messageId": 156043,
+    "sentAt": "2026-11-01T19:37:09.459Z"
   }
 }
