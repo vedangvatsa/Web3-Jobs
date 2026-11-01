@@ -430,6 +430,23 @@
         "rolloutId": "daily-20261101-41330309267-1",
         "buildState": "FAILED",
         "observedAt": "2026-11-01T17:27:57.488Z"
+      },
+      {
+        "date": "2026-11-01",
+        "id": "41342110650-1",
+        "sourceCommit": "1fd7fec65e23514ba3d4172cd732bd2f9bd57e9c",
+        "jobsCheckedAt": "2026-11-01T03:40:06.202Z",
+        "newsCompletedAt": "2026-11-01T05:19:01.281Z",
+        "articleSlugs": [
+          "tradertraitor",
+          "yccrypto",
+          "cftchack",
+          "tetherq3"
+        ],
+        "phase": "building",
+        "startedAt": "2026-11-01T19:32:29.664Z",
+        "buildId": "daily-20261101-41342110650-1",
+        "rolloutId": "daily-20261101-41342110650-1"
       }
     ]
   }
