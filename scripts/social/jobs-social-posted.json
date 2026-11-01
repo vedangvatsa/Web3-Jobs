@@ -86122,7 +86122,8 @@
       },
       "account": "channel:bounties",
       "attemptId": "637365dd-9edf-434d-a8c3-2f7ab8cae55f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xedb02232029143e5cb6e988ed331013dbf7f5490"
     }
   ]
 }
