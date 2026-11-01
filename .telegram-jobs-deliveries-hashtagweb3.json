@@ -6559,7 +6559,7 @@
     "sentAt": "2026-11-01T03:32:50.477Z"
   },
   "a133d419-9bdc-4a50-8bae-71446a064a9d": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-01T11:34:13.456Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -6675,6 +6675,8 @@
       }
     ],
     "message": "- Block is hiring <a href=\"https://hashtagweb3.com/sls354?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Enterprise Sales Lead, US</a>\n- Keyrock is hiring <a href=\"https://hashtagweb3.com/tr136?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Innovation Quant Developer: Intern - DeFi/Corporate Development</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/ds16?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Data Scientist</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/sls379?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Activation Manager | Stack Accounting</a>\n- Allium is hiring <a href=\"https://hashtagweb3.com/sec138?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Security &amp; IT</a>",
-    "slotKey": "2026-11-01:afternoon"
+    "slotKey": "2026-11-01:afternoon",
+    "messageId": 156039,
+    "sentAt": "2026-11-01T11:34:22.621Z"
   }
 }
