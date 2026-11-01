@@ -1,15 +1,15 @@
 {
-  "news": "2026-10-31",
-  "morning": "2026-10-31",
+  "news": "2026-11-01",
+  "morning": "2026-11-01",
   "afternoon": "2026-09-24",
   "evening": "2026-09-24",
   "slots": {
-    "morning": "2026-10-31",
+    "morning": "2026-11-01",
     "afternoon": "2026-10-30",
     "evening": "2026-10-31"
   },
   "deployed": "2026-10-31",
-  "ingested": "2026-10-31",
+  "ingested": "2026-11-01",
   "dailyDeployments": {
     "2026-10-23": [
       {
