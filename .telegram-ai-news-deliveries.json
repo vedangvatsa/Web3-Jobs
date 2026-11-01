@@ -2856,7 +2856,7 @@
     "sentAt": "2026-11-01T11:34:05.915Z"
   },
   "7ee2bbad-0adc-4b6b-a68b-b94e5dbe24c8": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-01T19:35:32.973Z",
     "stories": [
       {
@@ -2880,6 +2880,8 @@
         "originalTitle": "We urgently need to monitor AI agents’ actions in real time"
       }
     ],
-    "slotKey": "2026-11-01:evening"
+    "slotKey": "2026-11-01:evening",
+    "messageId": 193438,
+    "sentAt": "2026-11-01T19:35:46.677Z"
   }
 }

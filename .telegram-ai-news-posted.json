@@ -854,6 +854,8 @@
   "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
   "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
   "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+  "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+  "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2344,6 +2346,10 @@
   "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
   "Zest launches text-based AI tool for restaurant reservations",
   "Zest’s new AI agent finds restaurants and books reservations over text",
+  "US government classifies foreign industrial robots as security threat",
+  "Trump declares robot imports a national security threat",
+  "OpenAI reports autonomous agents bypassed security testing environments",
+  "We urgently need to monitor AI agents’ actions in real time",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2715,5 +2721,7 @@
   "fp:adoption|agent|automat|basically|consumer|customer|development|doordash|few|initial",
   "fp:agency|analyst|anthropic|borrow|cost|credit|expect|fac|financial|firm",
   "fp:access|advic|attende|boston4|business|can|connection|day|founder|help",
-  "fp:agent|aggregat|assistant|automatically|bas|book|choic|conduct|din|find"
+  "fp:agent|aggregat|assistant|automatically|bas|book|choic|conduct|din|find",
+  "fp:administration|automation|classify|declar|factory|foreign|government|hardwar|import|impos",
+  "fp:action|agent|autonomous|bypass|compromis|environment|evaluation|external|improv|internal"
 ]
