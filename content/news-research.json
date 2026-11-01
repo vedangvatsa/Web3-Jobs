@@ -110460,11 +110460,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "c0f283f600d21895c4bb",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T03:52:35.000Z",
-      "lastSeenAt": "2026-10-30T10:25:44.767Z"
+      "lastSeenAt": "2026-10-30T10:25:44.767Z",
+      "reason": "out-of-scope",
+      "note": "Read the Crypto Briefing piece: it covers a House Oversight probe into Alaska Senate candidate recruitment framed through prediction-market pricing. No concrete Web3, crypto policy or blockchain event is reported.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/house-oversight-probes-alaska-senate-race-over-alleged-candidate-recruitment/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-01T04:21:46.727Z",
+      "lastReviewedDay": "2026-11-01"
     },
     "0e7502ccfb6173ebe09f": {
       "source": "Cointelegraph",
@@ -110481,11 +110491,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "0e7502ccfb6173ebe09f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T03:47:01.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "price-chatter",
+      "note": "Read the Cointelegraph report of Standard Chartered analyst Geoffrey Kendrick's email: it forecasts a higher DEX share of trading after the Binance hack and repeats a $100 UNI price target for 2030. An analyst forecast, not a concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-01T04:21:46.727Z",
+      "lastReviewedDay": "2026-11-01"
     },
     "b3e2734da81cef8e4597": {
       "source": "Crypto Briefing",
@@ -110502,11 +110522,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "b3e2734da81cef8e4597",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T03:41:50.000Z",
-      "lastSeenAt": "2026-10-30T10:25:44.767Z"
+      "lastSeenAt": "2026-10-30T10:25:44.767Z",
+      "reason": "out-of-scope",
+      "note": "Read the piece: it reports Trump canceling Kansas and Iowa rallies for phone-in events, interpreted through prediction-market pricing. Campaign logistics with no crypto or Web3 connection.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/trump-cancels-kansas-iowa-rallies-opts-for-phone-in-amid-tight-senate-races/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-01T04:21:46.728Z",
+      "lastReviewedDay": "2026-11-01"
     },
     "53a652d957b4e0ad3691": {
       "source": "CoinDesk",
@@ -110584,11 +110614,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "b50457ef32b6d173b522",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T01:32:05.000Z",
-      "lastSeenAt": "2026-10-30T10:25:44.767Z"
+      "lastSeenAt": "2026-10-30T10:25:44.767Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read the piece: it summarizes Michigan Senate polling averages and rally endorsements with prediction-market pricing. A polling update, not a launch, vote, ruling, filing, hack, raise or upgrade.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/democrat-el-sayed-leads-in-michigan-senate-race-as-trump-backs-rogers/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-01T04:21:46.728Z",
+      "lastReviewedDay": "2026-11-01"
     },
     "b3628346f627f7be60d2": {
       "source": "CryptoSlate",
@@ -213819,6 +213859,54 @@
           "retrySearches": [
             "Fetch the CoinDesk institutional outflows article once the 429 clears and verify concrete outflow figures with named data sources for a possible event story, or judge it as market commentary"
           ]
+        },
+        "c0f283f600d21895c4bb": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Crypto Briefing piece: it covers a House Oversight probe into Alaska Senate candidate recruitment framed through prediction-market pricing. No concrete Web3, crypto policy or blockchain event is reported.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/house-oversight-probes-alaska-senate-race-over-alleged-candidate-recruitment/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-01T04:21:46.727Z"
+        },
+        "0e7502ccfb6173ebe09f": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read the Cointelegraph report of Standard Chartered analyst Geoffrey Kendrick's email: it forecasts a higher DEX share of trading after the Binance hack and repeats a $100 UNI price target for 2030. An analyst forecast, not a concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-01T04:21:46.727Z"
+        },
+        "b3e2734da81cef8e4597": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the piece: it reports Trump canceling Kansas and Iowa rallies for phone-in events, interpreted through prediction-market pricing. Campaign logistics with no crypto or Web3 connection.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/trump-cancels-kansas-iowa-rallies-opts-for-phone-in-amid-tight-senate-races/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-01T04:21:46.728Z"
+        },
+        "b50457ef32b6d173b522": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read the piece: it summarizes Michigan Senate polling averages and rally endorsements with prediction-market pricing. A polling update, not a launch, vote, ruling, filing, hack, raise or upgrade.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/democrat-el-sayed-leads-in-michigan-senate-race-as-trump-backs-rogers/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-01T04:21:46.728Z"
         }
       },
       "baselineSlugs": [
