@@ -88886,7 +88886,8 @@
       },
       "account": "channel:base",
       "attemptId": "26bb66d4-3038-4390-be74-1c196b158b6c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x1bb23c3ddaacf09a41f82493cb0f6edbe273a916"
     }
   ]
 }
