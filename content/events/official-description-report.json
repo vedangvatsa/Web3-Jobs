@@ -270,21 +270,6 @@
       "preview": "TOKEN2049 Dubai brings together the global Web3 industry, uniting entrepreneurs, investors, developers, industry insiders and global media, and creates unparalleled networking opportunities."
     },
     {
-      "id": "premier-cdnbitcoin",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://canadianbitcoinconf.com/",
-        "fetchedAt": "2026-09-20T00:45:01.213Z",
-        "method": "official-section",
-        "pageTitle": "",
-        "sha256": "019257556ce6b170a2938a46797a4e79180cee1336c8d5d8ee328420a41fc575"
-      },
-      "previousStartDate": "2026-10-02T09:00:00.000Z",
-      "characters": 213,
-      "preview": "## 2026 Canadian Bitcoin Conference Update\n\nRather than delivering an experience that falls short, we have made the difficult decision to cancel this year’s Canadian Bitcoin Conference and Industry Day in Toronto."
-    },
-    {
       "id": "premier-pslisbon",
       "file": "curated-events.json",
       "status": "source-backed",

@@ -19,12 +19,6 @@
     "slug": "garage-housing",
     "aliases": []
   },
-  "kbw-futuracanvas-2026": {
-    "slug": "futuracanvas",
-    "aliases": [
-      "kbw-official-futuracanvas-2026-10-01"
-    ]
-  },
   "premier-pslisbon": {
     "slug": "ps3",
     "aliases": []
@@ -33,40 +27,12 @@
     "slug": "bitchill",
     "aliases": []
   },
-  "premier-cdnbitcoin": {
-    "slug": "canadian",
-    "aliases": []
-  },
   "premier-wob-madrid-2026": {
     "slug": "wobitcoin",
     "aliases": []
   },
-  "luma-batch-a0UuZQuz1MorKpB": {
-    "slug": "monad-blitz-pune-sep-2026",
-    "aliases": []
-  },
-  "token2049-evt-YL6KpUrRu4CGVus": {
-    "slug": "pre-token2049",
-    "aliases": []
-  },
-  "luma-crypto-Som3hML2sfbwc5R": {
-    "slug": "ehwfaeh",
-    "aliases": []
-  },
   "luma-batch-evtFAjSMVwIfNEE9": {
     "slug": "w8d9t7jw",
-    "aliases": []
-  },
-  "kbw-official-xrp-seoul-2026-vip-afterparty-10-03": {
-    "slug": "xsva",
-    "aliases": []
-  },
-  "luma-batch-evtiZfgiZ21Navgx": {
-    "slug": "uuzq0ula",
-    "aliases": []
-  },
-  "luma-batch-iBDz4DhXR1Zrudq": {
-    "slug": "zmvrj6cy",
     "aliases": []
   },
   "luma-crypto-9G13qSATpaiBBSX": {
@@ -5408,6 +5374,26 @@
   },
   "ibw-mgxg6ko8": {
     "slug": "polkadotmumbai",
+    "aliases": []
+  },
+  "token2049-evt-C1gxjRKWyH9xmZe": {
+    "slug": "get-down-real2",
+    "aliases": []
+  },
+  "token2049-evt-WfCQCLKJaYQzDW4": {
+    "slug": "get-down-real3",
+    "aliases": []
+  },
+  "token2049-evt-w1Dt8n6KOOiWo6K": {
+    "slug": "get-down-real4",
+    "aliases": []
+  },
+  "token2049-evt-hibdrdDywIqLsxW": {
+    "slug": "founder-venture",
+    "aliases": []
+  },
+  "token2049-evt-Jaa6PcGwwk21efW": {
+    "slug": "get-down-real5",
     "aliases": []
   }
 }

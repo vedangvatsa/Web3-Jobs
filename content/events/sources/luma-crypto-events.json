@@ -40,53 +40,6 @@
     }
   },
   {
-    "id": "luma-crypto-Som3hML2sfbwc5R",
-    "slug": "ehwfaeh",
-    "name": "EAT_HACK - the world's first AI & eating hackathon",
-    "description": "## 50 seats. £1,000+ in prizes. And we're hiring.\n\n30 seats taken from 100+ applicants. 20 seats remaining. Applications reviewed on a rolling basis.\n\nThe brief: build AI for retail using behavioural data.\n\nAlongside you will be The Shelf. 25 of the most innovative and exciting challenger brands which all 50 builders can eat, drink and vote on.\n\nWhat you get:\n\n• A day building on the layer underneath retail decisions, grounded in 28 behavioural science principles, applied across 4M+ products and 56,000+ product attributes.\n• £1000+ in prizes.\n• The opportunity to be hired.\n• Great food. And lots of it:)\n\n## Structure & Prizes\n\n2 tracks (to be announced). 1 sidequest.\n\n• £300 overall winner for build score x multiplier\n• 2x £100 track winners for build score alone (has to be different from overall winner)\n• £50 side-quest winner\n• Hampers, gadgets, merch and other prizes!\n\n## Timetable:\n\n• 09:00 - Arrival & team formation\n• 10:00 - Intro\n• 11:00 - Build\n• 14:00 - Lunch\n• 17:30 - Submission, closed judging & break\n• 18:30 - Live final\n• 19:30 - Closing Ceremony\n• 20:00 - Home\n\nOpen to technical and non-technical specialists and generalists. You can come with a team, form one on the day or go solo. Judges to be announced.\n\nEAT_HACK is hosted by Really Good Culture. We're building the world's first predictive retail intelligence system.",
-    "startDate": "2026-10-03T08:00:00.000Z",
-    "endDate": "2026-10-03T19:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://luma.com/hdf7uc43",
-    "registrationUrl": "https://luma.com/hdf7uc43",
-    "coverImage": "/events/luma-crypto-som3hml2sfbwc5r-c13142a8.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Gianni Austin",
-      "Oriol Morros Vilaseca",
-      "Sophie Yau"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/London",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Really Good Culture",
-      "url": "https://reallygoodculture.com/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/hdf7uc43",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/hdf7uc43",
-      "eventId": "evt-Som3hML2sfbwc5R",
-      "fetchedAt": "2026-09-19T23:46:15.195Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-9G13qSATpaiBBSX",
     "slug": "acgh",
     "name": "The AI Commerce Gallery - Hackathon | Walt Disney Family Museum",

@@ -6328,75 +6328,6 @@
     }
   },
   {
-    "id": "token2049-evt-YL6KpUrRu4CGVus",
-    "name": "Pre Token2049: Meet Up",
-    "description": "Pre Token2049: Meet Up is scheduled for 3 October 2026 at 16:00 (Asia/Singapore) in Singapore. Hosted by Asia Web3 Ai Association (AWAA), Insight Genesis.\n\nCraft beers + Food: which you can order from menu\n\nApply to attend or respond to your private invitation.\n\nAs this is an invite-only event, please be aware that registering does not guarantee access due to limited availability.\n\nPlease note that entry will be granted only to ticketed guests, and tickets are not transferable.\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
-    "startDate": "2026-10-03T08:00:00.000Z",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/av3tpir8",
-    "registrationUrl": "https://luma.com/av3tpir8",
-    "coverImage": "/events/token2049-evt-yl6kpurru4cgvus-b4f7f8af.webp",
-    "endDate": "2026-10-03T13:00:00.000Z",
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "city": "Singapore",
-    "country": "Singapore",
-    "hosts": [
-      "Asia Web3 Ai Association (AWAA)",
-      "Insight Genesis"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Asia Web3 Ai Association (AWAA)",
-      "url": "https://asiaweb3aiassociation.org/"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Pre Token2049 Meet up",
-        "url": "https://luma.com/av3tpir8",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "VIP Guests",
-        "url": "https://luma.com/av3tpir8",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/av3tpir8",
-      "eventId": "evt-YL6KpUrRu4CGVus",
-      "fetchedAt": "2026-09-27T20:19:06.444Z",
-      "method": "luma-api"
-    },
-    "slug": "pre-token2049",
-    "source": "token2049-verified",
-    "sideEventFor": [
-      "token2049"
-    ],
-    "token2049SideEvent": true,
-    "descriptionSource": {
-      "url": "https://luma.com/av3tpir8",
-      "fetchedAt": "2026-09-27T20:19:06.444Z",
-      "method": "matched-organizer-record",
-      "pageTitle": "Pre Token2049: Meet Up",
-      "sha256": "6bf93d77c54a91ffd652176780935660e0b307ae16b9f72b30a6677a3315f828",
-      "evidence": [
-        {
-          "url": "https://luma.com/av3tpir8",
-          "fetchedAt": "2026-09-27T20:19:06.444Z",
-          "sha256": "3a4b18c798b10db6ed8f1bd7683f8361323cf1c9404a9cd28ba440ec9e24b454"
-        }
-      ]
-    }
-  },
-  {
     "id": "token2049-evt-LogZtWT8oa5fv8p",
     "name": "Founders & Funds: Paddle Cup",
     "description": "Founders & Funds: Paddle Cup is scheduled for 4 October 2026 at 07:30 (Asia/Singapore). Hosted by Luvon Labs Official, SpedaxAI Official.\n\nTOKEN2049 week is full of fifteen-minute pitch meetings and identical VC dinners.\n\nIt's a structured format built for one outcome: immediate founder-fund pairing and relationships that outlast the tournament.\n\n16 invite-only VIP founder-fund teams compete alongside 8 open wildcard teams, 24 teams, and 48 players in all, with roughly 60 to 80 people total once you count non-playing guests and press.\n\n1:15 to 2:00 PM, Closing Brunch: Relaxed networking with the people you just played against\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
@@ -16117,6 +16048,336 @@
           "url": "https://luma.com/y586ohae",
           "fetchedAt": "2026-10-24T14:47:20.616Z",
           "sha256": "5be2844e8ac93418b6267f4b80fc5e8ed297c56bab3786d28544422f28b2e936"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-C1gxjRKWyH9xmZe",
+    "name": "Get Down For Real",
+    "description": "Get Down For Real is scheduled for 5 November 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.\n\nSoundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-11-05T14:30:00.000Z",
+    "location": "Avenue Lounge, 10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore 018956",
+    "url": "https://luma.com/jn1ajcsy",
+    "registrationUrl": "https://luma.com/jn1ajcsy",
+    "coverImage": "/events/token2049-evt-c1gxjrkwyh9xmze-ff371ecd.webp",
+    "endDate": "2026-11-05T17:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Avenue Lounge",
+    "streetAddress": "10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Central Area",
+    "coordinates": {
+      "latitude": 1.2851522,
+      "longitude": 103.8605316
+    },
+    "hosts": [],
+    "organizer": {
+      "type": "Organization",
+      "name": "2049 Events",
+      "url": "https://asiaweb3aiassociation.org/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/jn1ajcsy",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/jn1ajcsy",
+      "eventId": "evt-C1gxjRKWyH9xmZe",
+      "fetchedAt": "2026-11-02T19:33:18.534Z",
+      "method": "luma-api"
+    },
+    "slug": "get-down-real2",
+    "source": "token2049-verified",
+    "descriptionSource": {
+      "url": "https://luma.com/jn1ajcsy",
+      "fetchedAt": "2026-11-02T19:33:18.534Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Get Down For Real",
+      "sha256": "6a8665f26c9ceb21d6de5187bb20d305f59f31cd45086dba0e67344bd84064da",
+      "evidence": [
+        {
+          "url": "https://luma.com/jn1ajcsy",
+          "fetchedAt": "2026-11-02T19:33:18.534Z",
+          "sha256": "fef3e1f648f0ef99fa969586f678326116300c81db1097143e67bd59e551f689"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-WfCQCLKJaYQzDW4",
+    "name": "Get Down For Real",
+    "description": "Get Down For Real is scheduled for 12 November 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.\n\nSoundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-11-12T14:30:00.000Z",
+    "location": "Avenue Lounge, 10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore 018956",
+    "url": "https://luma.com/wacw4gtv",
+    "registrationUrl": "https://luma.com/wacw4gtv",
+    "coverImage": "/events/token2049-evt-wfcqclkjayqzdw4-8cb19ee1.webp",
+    "endDate": "2026-11-12T17:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Avenue Lounge",
+    "streetAddress": "10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Central Area",
+    "coordinates": {
+      "latitude": 1.2851522,
+      "longitude": 103.8605316
+    },
+    "hosts": [],
+    "organizer": {
+      "type": "Organization",
+      "name": "2049 Events",
+      "url": "https://asiaweb3aiassociation.org/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/wacw4gtv",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/wacw4gtv",
+      "eventId": "evt-WfCQCLKJaYQzDW4",
+      "fetchedAt": "2026-11-02T19:33:18.480Z",
+      "method": "luma-api"
+    },
+    "slug": "get-down-real3",
+    "source": "token2049-verified",
+    "descriptionSource": {
+      "url": "https://luma.com/wacw4gtv",
+      "fetchedAt": "2026-11-02T19:33:18.480Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Get Down For Real",
+      "sha256": "2bff77ed86e804a08699d2fab258e69c39f7736d81db5ee733138f00ce50782e",
+      "evidence": [
+        {
+          "url": "https://luma.com/wacw4gtv",
+          "fetchedAt": "2026-11-02T19:33:18.480Z",
+          "sha256": "ce2d55b1e4aace115868738c9f112b892349357ffe6c85f3d3220acdbce0ac12"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-w1Dt8n6KOOiWo6K",
+    "name": "Get Down For Real",
+    "description": "Get Down For Real is scheduled for 19 November 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.\n\nSoundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-11-19T14:30:00.000Z",
+    "location": "Avenue Lounge, 10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore 018956",
+    "url": "https://luma.com/e3w6b50m",
+    "registrationUrl": "https://luma.com/e3w6b50m",
+    "coverImage": "/events/token2049-evt-w1dt8n6kooiwo6k-9c148896.webp",
+    "endDate": "2026-11-19T17:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Avenue Lounge",
+    "streetAddress": "10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Central Area",
+    "coordinates": {
+      "latitude": 1.2851522,
+      "longitude": 103.8605316
+    },
+    "hosts": [],
+    "organizer": {
+      "type": "Organization",
+      "name": "2049 Events",
+      "url": "https://asiaweb3aiassociation.org/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/e3w6b50m",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/e3w6b50m",
+      "eventId": "evt-w1Dt8n6KOOiWo6K",
+      "fetchedAt": "2026-11-02T19:33:19.556Z",
+      "method": "luma-api"
+    },
+    "slug": "get-down-real4",
+    "source": "token2049-verified",
+    "descriptionSource": {
+      "url": "https://luma.com/e3w6b50m",
+      "fetchedAt": "2026-11-02T19:33:19.556Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Get Down For Real",
+      "sha256": "16371f631bc90ebd2886e165155cd40911b7a5ca860131e80eec7e9efdc219d0",
+      "evidence": [
+        {
+          "url": "https://luma.com/e3w6b50m",
+          "fetchedAt": "2026-11-02T19:33:19.556Z",
+          "sha256": "056d6dbcf5ec237d7c39debcc52287b5714c7450ae31117eb822eda05848bcd1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-hibdrdDywIqLsxW",
+    "name": "Founder & Venture Networking Night @ Fintech Week 🚀",
+    "description": "Founder & Venture Networking Night @ Fintech Week 🚀 is scheduled for 20 November 2026 at 15:30 (Asia/Singapore) in Singapore. Hosted by Asia Web3 Ai Association (AWAA).\n\n3:30 - 4:00 PM: Registration\n\n4:30 - 4:45 PM: Welcoming Remarks\n\n4:45 - 5:15 PM: BCC Studio Key Note Presentation\n\n5:15 - 6:30 PM: Food & Drinks & Networking\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
+    "startDate": "2026-11-20T07:30:00.000Z",
+    "location": "Singapore, Singapore",
+    "url": "https://luma.com/ivpr3wve",
+    "registrationUrl": "https://luma.com/ivpr3wve",
+    "coverImage": "/events/token2049-evt-hibdrddywiqlsxw-1593d80a.webp",
+    "endDate": "2026-11-20T10:30:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Singapore",
+    "country": "Singapore",
+    "hosts": [
+      "Asia Web3 Ai Association (AWAA)"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Asia Web3 Ai Association (AWAA)",
+      "url": "https://asiaweb3aiassociation.org/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "VIP Invite",
+        "url": "https://luma.com/ivpr3wve",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "Venture Ticket",
+        "url": "https://luma.com/ivpr3wve",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "Founder Ticket",
+        "url": "https://luma.com/ivpr3wve",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/ivpr3wve",
+      "eventId": "evt-hibdrdDywIqLsxW",
+      "fetchedAt": "2026-11-02T19:33:19.278Z",
+      "method": "luma-api"
+    },
+    "slug": "founder-venture",
+    "source": "token2049-verified",
+    "descriptionSource": {
+      "url": "https://luma.com/ivpr3wve",
+      "fetchedAt": "2026-11-02T19:33:19.278Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Founder & Venture Networking Night @ Fintech Week 🚀",
+      "sha256": "4f90111d8873a6ec6fd2240034fe3d1cc5d5d3c311330edca6fcb35ed02a69ec",
+      "evidence": [
+        {
+          "url": "https://luma.com/ivpr3wve",
+          "fetchedAt": "2026-11-02T19:33:19.278Z",
+          "sha256": "464a282af6a81ba44f921121b726dc229332e776d435b9058a3b63946b2dc870"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-Jaa6PcGwwk21efW",
+    "name": "Get Down For Real",
+    "description": "Get Down For Real is scheduled for 26 November 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.\n\nSoundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-11-26T14:30:00.000Z",
+    "location": "Avenue Lounge, 10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore 018956",
+    "url": "https://luma.com/rfmu8am6",
+    "registrationUrl": "https://luma.com/rfmu8am6",
+    "coverImage": "/events/token2049-evt-jaa6pcgwwk21efw-37958b4b.webp",
+    "endDate": "2026-11-26T17:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Avenue Lounge",
+    "streetAddress": "10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Central Area",
+    "coordinates": {
+      "latitude": 1.2851522,
+      "longitude": 103.8605316
+    },
+    "hosts": [],
+    "organizer": {
+      "type": "Organization",
+      "name": "2049 Events",
+      "url": "https://asiaweb3aiassociation.org/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/rfmu8am6",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/rfmu8am6",
+      "eventId": "evt-Jaa6PcGwwk21efW",
+      "fetchedAt": "2026-11-02T19:33:20.182Z",
+      "method": "luma-api"
+    },
+    "slug": "get-down-real5",
+    "source": "token2049-verified",
+    "descriptionSource": {
+      "url": "https://luma.com/rfmu8am6",
+      "fetchedAt": "2026-11-02T19:33:20.182Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Get Down For Real",
+      "sha256": "7713a591a1ee50bbe259f54f6782385c45d0511b673389bc68ee0655a07a456e",
+      "evidence": [
+        {
+          "url": "https://luma.com/rfmu8am6",
+          "fetchedAt": "2026-11-02T19:33:20.182Z",
+          "sha256": "0bddc680dc0c6c8fd83e7251707a281627846db0d0cd67c1de3de0c810062d1e"
         }
       ]
     }

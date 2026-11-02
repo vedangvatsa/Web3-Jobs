@@ -2181,57 +2181,6 @@
     }
   },
   {
-    "id": "luma-batch-a0UuZQuz1MorKpB",
-    "slug": "monad-blitz-pune-sep-2026",
-    "name": "Monad Blitz Pune V3",
-    "description": "One Day. No Limits. Just Ship.\n\nMonad Blitz is storming into Pune for Blitz V3! This isn't your typical multi-day hackathon. It's a high-intensity, one-day IRL build sprint where you'll learn Monad, ship fast, and plug directly into one of the most exciting high-performance blockchain ecosystems today.\n\nSince launching in 2025, Monad Blitz has energized builders from Shenzhen to San Francisco through 50+ Blitz Hacks. Now, the energy continues in Pune.\n\nGet ready for an all-action day where you learn, build, vibe, and ship, all at ludicrous speed.\n\n⚡ THE VIBE\n\nPune Blitz isn't about fancy zones or over-engineered setups. It's about pure builder energy and a day dedicated to creating, collaborating, and shipping at speed.\n\n🤝 Connect with Pune's Sharpest Builders\n\nMeet some of the city's most talented developers. Share ideas, spark new ones, form teams instantly, and build alongside people who move as fast as you do.\n\n💡 Collaborate & Ship Wild Ideas\n\nCome with an idea or discover one on the spot. Blitz is designed for momentum. Prototype fast, get real feedback, iterate quickly, and ship a consumer-ready dApp on Monad by evening.\n\n🍽️ Energise, Build, Repeat\n\nGood food, good conversations, and a lot of code. Expect a full day of vibes, velocity, and execution.\n\n🎯 THE STAKES\n\n$1,500 Prize Pool\n\n🥇 1st Place: $500\n\n🥈 2nd Place: $400\n\n🥉 3rd Place: $300\n\n🎖️ 4th Place: $200\n\n🎗️ 5th Place: $100\n\nPeer-Judged: Your fellow builders choose the winners. Zero Constraints: Build any consumer app on Monad. If it runs, it's fair game.\n\nTHE FLOW\n\nLearn: Morning workshops and hands-on mentoring to get you up to speed on Monad.\n\nBuild: 7 hours of high-speed execution. Form a team or go solo.\n\nShip: Demo your MVP to the crowd.\n\nWin: Claim your share of the prize.\n\nWHY BLITZ?\n\nMonad is built for speed, and Blitz is how we prove it.\n\nWe provide the environment, the mentors, and the brain fuel (yes, everything is purple). You bring the code.\n\nWhether you're a seasoned EVM developer or just curious about high-performance blockchains, if you can ship, you belong here.\n\n📅 Event Date: 26 September 📝 Applications close: 24 September\n\nCapacity is limited. Apply early to secure your spot.\n\n🧑‍💻 WHO SHOULD APPLY?\n\nPune's best builders:\n\nProven Builders: Show off your GitHub, portfolio, or past projects.\n\nExperimenters & Innovators: Bring that idea you've been itching to test.\n\nFast Learners: You thrive in high-tempo environments.\n\nCommunity-Minded Devs: Ready to connect and join the Monad ecosystem.\n\nTeams of up to 3 members allowed.\n\nAbout Monad\n\nMonad is a high-performance, EVM-compatible Layer 1 blockchain built from the ground up for parallel execution.\n\nWith innovations in consensus and execution, Monad can scale to 10,000 TPS, enabling new classes of hyper-responsive, consumer-ready applications.\n\nAbout Monad Blitz\n\nMonad Blitz is a global one-day hackathon series designed for speed, experimentation, and real output.\n\nIt has traveled from Shenzhen to San Francisco, empowering thousands of developers and producing hundreds of prototypes, all in a single day per city.\n\nIf you like working fast, this is where you belong.\n\nDisclaimer\n\nBy attending an event organized by Monad Foundation, you are entering an area where photography, audio and video live-streaming and/or recording may occur.\n\nYour entry and presence at such an event constitutes your consent to be photographed, filmed (including live-streamed), and/or otherwise recorded and to the release, publication, exhibition, or reproduction of any recorded media of your appearance, voice, and name for any purpose in connection with Monad Foundation and its initiatives.\n\nBy attending the event, you waive and release any claims related to the use of such media.",
-    "startDate": "2026-10-03T03:30:00.000Z",
-    "endDate": "2026-10-03T15:30:00.000Z",
-    "city": "Pune",
-    "country": "India",
-    "location": "Pallod Farms, Pune, Maharashtra, India",
-    "url": "https://luma.com/monad-blitz-pune-sep-2026",
-    "registrationUrl": "https://luma.com/monad-blitz-pune-sep-2026",
-    "coverImage": "/events/luma-batch-a0UuZQuz1MorKpB-e310e6f4.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Monad Foundation",
-      "Arsh Goyal",
-      "Kushal Vijay",
-      "Kartikey Garg"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Kolkata",
-    "neighborhood": "Pallod Farms",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "Pune",
-    "addressRegion": "Maharashtra",
-    "addressCountry": "IN",
-    "organizer": {
-      "type": "Organization",
-      "name": "Monad Foundation"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/monad-blitz-pune-sep-2026",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/monad-blitz-pune-sep-2026",
-      "eventId": "calev-a0UuZQuz1MorKpB",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-cy4MdiJptug7TkG",
     "slug": "burningmon",
     "name": "Burning Mon",
@@ -2276,66 +2225,6 @@
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-DYJtljVj9Y6UqT5",
-    "slug": "za2hn72f",
-    "name": "FOUNDERS' OFFICE | Kyiv",
-    "description": "Є ідея проєкту або вже навіть MVP?\n\nПриходь в наш коворкінг! Наші office hours 👇Київ:12 вересня [13:00-18:00]19 вересня [13:00-18:00]26 вересня [13:00-18:00]3 жовтня [13:00-18:00]10 жовтня [13:00-18:00]Онлайн: Бронюй дзвінок тут.Тут тебе чекає:\n\nдопомога з валідацією ідеї та фідбек\n\nпрожарки твого проєкту, які допоможуть стати краще\n\nконсультації щодо хакатону Colosseum\n\nможливість попрацювати з командою в зручному коворкінгу\n\nтусовка з іншими білдерами\n\nможливість вигравати додатково гроші за участь в BuildStation івентахВхід можливий виключно після реєстрації в день, коли плануєш прийти.",
-    "startDate": "2026-10-03T10:00:00.000Z",
-    "endDate": "2026-10-03T15:00:00.000Z",
-    "city": "Kyiv",
-    "country": "Ukraine",
-    "location": "Kyiv, Ukraine",
-    "url": "https://luma.com/za2hn72f",
-    "registrationUrl": "https://luma.com/za2hn72f",
-    "coverImage": "/events/luma-recover-lumabatchDYJtljV-93aef27c.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Ukraine"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/Kiev",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "sourceVerification": {
-      "url": "https://luma.com/za2hn72f",
-      "eventId": "calev-DYJtljVj9Y6UqT5",
-      "fetchedAt": "2026-09-22T11:31:03.000Z",
-      "method": "luma-page",
-      "apifyRunId": "WHcLsVUsFvlHmcVYz"
-    }
-  },
-  {
-    "id": "luma-batch-iBDz4DhXR1Zrudq",
-    "slug": "zmvrj6cy",
-    "name": "[IRL + Livestream] Shipyard #4: Gaming, Consumer & GTM",
-    "description": "Build something people actually want to use. 🎮\n\nCrypto World’s Fair is entering the final stretch — and Shipyard #4 is all about gaming, consumer products and getting users in the door.\n\nThis Saturday, we’re bringing builders together in Istanbul — and livestreaming for everyone joining remotely — for a full day around products people actually use, return to, and pay for.\n\nExpect:\n\n→ Gaming on Solana — what’s working now, why gameplay matters more than token loops & where Turkish studios can win→ Consumer that converts — Superteam Türkiye builders breaking down products, revenue models & what they learned from real users→ GTM, Solana-native — launches, activation, retention, incentives & what actually gets people to stick around→ What went wrong — a real launch teardown and the mistakes worth avoiding→ Pitch practice — sharpen your story before Demo Day→ Build session + feedback — turn your GTM into something you can actually execute\n\nThis is the last open Shipyard before Buildstation.\n\nCome with a product.\n\nLeave with a plan to get it into people’s hands.\n\nSee you there. 🇹🇷",
-    "startDate": "2026-10-03T11:00:00.000Z",
-    "endDate": "2026-10-03T15:00:00.000Z",
-    "city": "Şişli",
-    "country": "Türkiye",
-    "location": "Nişantaşı, Şişli, Türkiye",
-    "url": "https://luma.com/zmvrj6cy",
-    "registrationUrl": "https://luma.com/zmvrj6cy",
-    "coverImage": "/events/luma-batch-iBDz4DhXR1Zrudq-3863695a.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Türkiye"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "Europe/Istanbul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "sourceVerification": {
-      "url": "https://luma.com/zmvrj6cy",
-      "eventId": "calev-iBDz4DhXR1Zrudq",
-      "fetchedAt": "2026-09-22T11:31:03.000Z",
-      "method": "luma-page",
-      "apifyRunId": "WHcLsVUsFvlHmcVYz"
     }
   },
   {
@@ -5787,36 +5676,6 @@
     }
   },
   {
-    "id": "luma-batch-evtiZfgiZ21Navgx",
-    "slug": "uuzq0ula",
-    "name": "Devs Onsite: Zero to App",
-    "description": "Build your first AI app on 0G: no code, no setup, no excuses.\n\n0G is the first decentralized AI Operating System. Verifiable compute, cheap storage, and a full blockchain stack built for AI.\n\nBut you don't need to know any of that to start building. That's the whole point!\n\n🎯 What's happening\n\nPlain-language intro to 0G: What is it and why it matters. No buzzwords.\n\nLive demo: we'll build a real AI app live, on stage, using the 0G App, from a text prompt to a deployed URL.\n\nYou'll build alongside us. Bring your laptop and leave with something live!\n\nQ&A with Mário Vasconcelos, 0G Ambassador in Lisbon\n\nNetworking + food & drinks after\n\n💻 What to bring\n\nA laptop (strongly recommended, the hands-on part is way more fun if you're building, not just watching)\n\nCuriosity — no coding background needed\n\n👥 Who should come\n\nFounders, builders, designers\n\nAI-curious and crypto-curious folks\n\nDevelopers who want to explore the 0G stack hands-on\n\n🔗 Useful links\n\n0G App (what we'll be building on): app.0g.ai\n\n0G Docs (for devs): docs.0g.ai\n\n0G Lisbon community: t.me/OgLabsEU\n\nThis is part of an ongoing community of meetups, workshops, hackathons, and founder gatherings for anyone building or curious about decentralized AI in Portugal and across Europe.\n\nAbout Zero Gravity (0G)\n\n0G is the blockchain for AI agents. Modular storage, compute, data availability, and an AI-first chain in one stack. Every AI action verified onchain. Build your first AI agent app in minutes.\n\n🌐 Website\n\n❌ X (Twitter)\n\n🎮 Discord\n\n📨 Telegram",
-    "startDate": "2026-10-03T10:30:00.000Z",
-    "endDate": "2026-10-03T15:30:00.000Z",
-    "city": "Lisboa",
-    "country": "Portugal",
-    "location": "Kube Coworking | Lisboa, Kube Coworking | Lisboa, R. do Centro Cultural 27A, 1700-106 Lisboa, Portugal",
-    "url": "https://luma.com/uuzq0ula",
-    "registrationUrl": "https://luma.com/uuzq0ula",
-    "coverImage": "/events/luma-batch-evtiZfgiZ21Navgx-6dab5666.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "0G's Event Calendar"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Lisbon",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "hackathon",
-    "sourceVerification": {
-      "url": "https://luma.com/uuzq0ula",
-      "eventId": "evt-iZfgiZ21NavgxlP",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtDE6g45qZhsILO",
     "slug": "uoqavs7x",
     "name": "Pr1me [Lisbon Series] - Exclusive Dinner for Web3 Finance",
@@ -6227,36 +6086,6 @@
     "sourceVerification": {
       "url": "https://luma.com/w8d9t7jw",
       "eventId": "evt-FAjSMVwIfNEE9pO",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evt37ROtqa7zr4Y4",
-    "slug": "7st8vkaa",
-    "name": "Build Station | Kickoff 🍻",
-    "description": "Let's connect. 🍻\n\nAfter the first day of building, it's time to close the laptops, grab a beer and actually get to know the people you'll be spending the next five days with.\n\n📅 October 3\r\n⏰ From 18:00\r\n📍 Starting at Marina Pivovar, Prague\n\nNo presentations. No agenda. No pitching on stage.\n\nJust builders, founders, mentors and friends moving through a few Prague pubs together.\n\n🍺 Explore some local pubs\r\n🤝 Meet other Build Station participants\r\n💡 Exchange ideas\r\n🧑‍💻 Find potential teammates\r\n🚀 Talk about what you're building\r\n🌍 Connect with builders from Czechia, Slovakia and beyond\n\nStill looking for a team? Perfect.\n\nHave an idea and need someone with a different skill set? Tell people about it.\n\nAlready have your team? Come meet everyone else and see what they're working on.\n\nThe next few days will be about building together – this evening is about getting to know each other first.\n\nBuild connections before building products.\n\nSee you for the first beer. 🍻",
-    "startDate": "2026-10-03T16:00:00.000Z",
-    "endDate": "2026-10-03T19:00:00.000Z",
-    "city": "Hlavní město Praha",
-    "country": "Czechia",
-    "location": "Pivovar Marina, Pivovar Marina, Jankovcova 1059/12, 170 00 Praha 7-Holešovice, Czechia",
-    "url": "https://luma.com/7st8vkaa",
-    "registrationUrl": "https://luma.com/7st8vkaa",
-    "coverImage": "/events/luma-batch-evt37ROtqa7zr4Y4-6cea5eab.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Prague",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/7st8vkaa",
-      "eventId": "evt-37ROtqa7zr4Y40H",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

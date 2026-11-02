@@ -21,24 +21,6 @@ Octaloop's India Blockchain & AI Tour 2026 is the fifth edition of a national ev
 
 Each city has its own registration route. The main tour page describes the series as a whole rather than a confirmed session program for every stop. Select the relevant city and verify its date, venue and ticket conditions before attending.
 
-<a id="event-a6ae3cc1566f34aa"></a>
-
-## FuturaCanvas 2026
-
-- Record: `kbw-futuracanvas-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-01T03:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/9yusdba1>
-
-### About the event
-
-If you would like to register, please click here to go to the registration page. Website: https://www.futuracanvas.com Instagram: https://www.instagram.com/futuracanvas.con X: https://twitter.com/FuturaCanvas LinkedIn: https://www.linkedin.com/showcase/futuracanvas Youtube: https://youtube.com/@FuturaCanvas
-
-### Event details
-
-Hosted by FuturaCanvas (Korea's first global art&tech conference). Venue: Platform-L Contemporary Art Center, 11 Eonju-ro 133-gil, Gangnam District, Seoul, South Korea. The event takes place on October 1.
-
 <a id="event-5de3c832859d2cfe"></a>
 
 ## Bitchill s04
@@ -155,18 +137,6 @@ Come to Roatán anytime, or bring your team for a retreat! We'll tailor and orga
 
 Join us for business opportunities, networking, events, networking, sovereign lifestyle and a free life.
 
-<a id="event-78bd09b908cacfd3"></a>
-
-## bitcoin++ Berlin 2026
-
-- Record: `premier-bitcoinberlin`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-01T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://btcplusplus.dev/conf/berlin26>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-bcd058b8d3af72d9"></a>
 
 ## P.S. Lisbon 2026
@@ -234,20 +204,6 @@ Our work spans the Americas, Europe and MENA, with experience across 500+ compan
 [Join INPUT Offstage](https://t.me/+3XURWkx0QXE2MDRk) on Telegram for event and speaking opportunities, media updates, webinars and streams, unreleased KNOWN podcast content, and conversations across our global network.
 
 [X](https://x.com/INPUT_global?utm_source=luma) | [LinkedIn](https://www.linkedin.com/company/inputglobal/?utm_source=luma) | [Website](https://input.global/?utm_source=luma) | [Telegram](https://t.me/+3XURWkx0QXE2MDRk)
-
-<a id="event-4b6f0fd4c3192cb9"></a>
-
-## Canadian Bitcoin Conference 2026
-
-- Record: `premier-cdnbitcoin`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-02T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://canadianbitcoinconf.com>
-
-### 2026 Canadian Bitcoin Conference Update
-
-Rather than delivering an experience that falls short, we have made the difficult decision to cancel this year's Canadian Bitcoin Conference and Industry Day in Toronto.
 
 <a id="event-a4b8ddd09a14a1a5"></a>
 
@@ -4823,30 +4779,6 @@ TOKEN2049's inaugural New York edition brings together crypto founders, investor
 ### About the event
 
 Global Startup Ecosystem lists a two-hour blockchain gathering for entrepreneurs, investors and creatives in New York. The venue has not been announced.
-
-<a id="event-0f5eace05e584293"></a>
-
-## Pre Token2049: Meet Up
-
-- Record: `token2049-evt-YL6KpUrRu4CGVus`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-03T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/av3tpir8>
-
-### About the event
-
-Pre Token2049: Meet Up is scheduled for 3 October 2026 at 16:00 (Asia/Singapore) in Singapore. Hosted by Asia Web3 Ai Association (AWAA), Insight Genesis.
-
-Craft beers + Food: which you can order from menu
-
-Apply to attend or respond to your private invitation.
-
-As this is an invite-only event, please be aware that registering does not guarantee access due to limited availability.
-
-Please note that entry will be granted only to ticketed guests, and tickets are not transferable.
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
 
 <a id="event-6e80293da47d4a52"></a>
 
@@ -9584,6 +9516,102 @@ Plug and Play APAC's summit brings together startups, corporations, investors, g
 
 Registration is free and subject to host approval. The exact Singapore venue is shared with registered guests.
 
+<a id="event-42eb50f6d9fcc278"></a>
+
+## Get Down For Real
+
+- Record: `token2049-evt-C1gxjRKWyH9xmZe`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-11-05T14:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/jn1ajcsy>
+
+### About the event
+
+Get Down For Real is scheduled for 5 November 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.
+
+Soundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-09ea2c532317cb3a"></a>
+
+## Get Down For Real
+
+- Record: `token2049-evt-WfCQCLKJaYQzDW4`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-11-12T14:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/wacw4gtv>
+
+### About the event
+
+Get Down For Real is scheduled for 12 November 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.
+
+Soundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-9cee970f58cb560a"></a>
+
+## Get Down For Real
+
+- Record: `token2049-evt-w1Dt8n6KOOiWo6K`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-11-19T14:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/e3w6b50m>
+
+### About the event
+
+Get Down For Real is scheduled for 19 November 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.
+
+Soundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.
+
+Registration requires host approval. Registration is listed as free.
+
+<a id="event-5d6972081c870a03"></a>
+
+## Founder & Venture Networking Night @ Fintech Week 🚀
+
+- Record: `token2049-evt-hibdrdDywIqLsxW`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-11-20T07:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ivpr3wve>
+
+### About the event
+
+Founder & Venture Networking Night @ Fintech Week is scheduled for 20 November 2026 at 15:30 (Asia/Singapore) in Singapore. Hosted by Asia Web3 Ai Association (AWAA).
+
+3:30 - 4:00 PM: Registration
+
+4:30 - 4:45 PM: Welcoming Remarks
+
+4:45 - 5:15 PM: BCC Studio Key Note Presentation
+
+5:15 - 6:30 PM: Food & Drinks & Networking
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
+<a id="event-af11accefd12bd41"></a>
+
+## Get Down For Real
+
+- Record: `token2049-evt-Jaa6PcGwwk21efW`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-11-26T14:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/rfmu8am6>
+
+### About the event
+
+Get Down For Real is scheduled for 26 November 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.
+
+Soundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.
+
+Registration requires host approval. Registration is listed as free.
+
 <a id="event-c066a0c6620b580f"></a>
 
 ## Tech X Summit Global
@@ -9603,52 +9631,6 @@ We bring together the leaders who are not just observing the shift, but are acti
 Visitor Pass now just $100 (Regular Price: $499)!
 
 Registration requires host approval. Registration is listed as free.
-
-<a id="event-52da310d8b558547"></a>
-
-## FuturaCanvas 2026
-
-- Record: `kbw-official-futuracanvas-2026-10-01`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-10-01T03:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/9yusdba1>
-
-### About the event
-
-If you would like to register, please click here to go to the registration page. Website: https://www.futuracanvas.com Instagram: https://www.instagram.com/futuracanvas.con X: https://twitter.com/FuturaCanvas LinkedIn: https://www.linkedin.com/showcase/futuracanvas Youtube: https://youtube.com/@FuturaCanvas
-
-### Event details
-
-Hosted by FuturaCanvas (Korea's first global art&tech conference). Venue: Platform-L Contemporary Art Center, 11 Eonju-ro 133-gil, Gangnam District, Seoul, South Korea. The event takes place on October 1.
-
-<a id="event-ae2465f54a75117b"></a>
-
-## XRP Seoul 2026 VIP Afterparty
-
-- Record: `kbw-official-xrp-seoul-2026-vip-afterparty-10-03`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-10-03T09:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/q0wmg82n>
-
-### About the event
-
-Invitation-Only: XRP Seoul 2026 VIP Afterparty
-
-Continue the conversations from XRP Seoul 2026 at our official VIP afterparty.
-
-Speakers, partners, investors, financial institutions, and industry leaders from across the XRP ecosystem and broader Web3 industry will gather for an evening of networking and conversation at JJ Mahoney's, Grand Hyatt Seoul.
-
-Venue: JJ Mahoney's, Grand Hyatt Seoul
-
-Location: B2, Grand Hyatt Seoul, 322 Sowol-ro, Yongsan-gu, Seoul, Republic of Korea
-
-### Event details
-
-Hosted by XRPL Korea (xrplkorea.org). Venue: JJ Mahoney's, 322 Sowol-ro, 한남동 Yongsan District, Seoul, South Korea. The event takes place on October 3. Registration requires organizer approval.
-
-Doors open at 6:30 PM local time.
 
 <a id="event-b07c1e570a0f016d"></a>
 
@@ -15411,55 +15393,6 @@ Tencent Cloud and AI Singapore co-host AI CAN DO IT Hackathon Singapore 2026. Pa
 The organizer's timeline lists a September 16 kickoff and an October 16 submission deadline, followed by finalist announcements on October 23 and Demo Day on November 3. Industry contributors participate in evaluating and judging solutions.
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
-
-<a id="event-8124e45ed2f53776"></a>
-
-## EAT_HACK - the world's first AI & eating hackathon
-
-- Record: `luma-crypto-Som3hML2sfbwc5R`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-10-03T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/hdf7uc43>
-
-### 50 seats. £1,000+ in prizes. And we're hiring
-
-30 seats taken from 100+ applicants. 20 seats remaining. Applications reviewed on a rolling basis.
-
-The brief: build AI for retail using behavioural data.
-
-Alongside you will be The Shelf. 25 of the most innovative and exciting challenger brands which all 50 builders can eat, drink and vote on.
-
-What you get:
-
-- A day building on the layer underneath retail decisions, grounded in 28 behavioural science principles, applied across 4M+ products and 56,000+ product attributes.
-- £1000+ in prizes.
-- The opportunity to be hired.
-- Great food. And lots of it:)
-
-### Structure & Prizes
-
-2 tracks (to be announced). 1 sidequest.
-
-- £300 overall winner for build score x multiplier
-- 2x £100 track winners for build score alone (has to be different from overall winner)
-- £50 side-quest winner
-- Hampers, gadgets, merch and other prizes!
-
-### Timetable
-
-- 09:00 - Arrival & team formation
-- 10:00 - Intro
-- 11:00 - Build
-- 14:00 - Lunch
-- 17:30 - Submission, closed judging & break
-- 18:30 - Live final
-- 19:30 - Closing Ceremony
-- 20:00 - Home
-
-Open to technical and non-technical specialists and generalists. You can come with a team, form one on the day or go solo. Judges to be announced.
-
-EAT_HACK is hosted by Really Good Culture. We're building the world's first predictive retail intelligence system.
 
 <a id="event-ce39e85336631825"></a>
 
@@ -22571,116 +22504,6 @@ Location: Seongsu, Seoul
 
 Select experiences, merchandise, and giveaways will be available in limited quantities and while supplies last.
 
-<a id="event-9da39e7e8802159a"></a>
-
-## Monad Blitz Pune V3
-
-- Record: `luma-batch-a0UuZQuz1MorKpB`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-03T03:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/monad-blitz-pune-sep-2026>
-
-### About the event
-
-One Day. No Limits. Just Ship.
-
-Monad Blitz is storming into Pune for Blitz V3! This isn't your typical multi-day hackathon. It's a high-intensity, one-day IRL build sprint where you'll learn Monad, ship fast, and plug directly into one of the most exciting high-performance blockchain ecosystems today.
-
-Since launching in 2025, Monad Blitz has energized builders from Shenzhen to San Francisco through 50+ Blitz Hacks. Now, the energy continues in Pune.
-
-Get ready for an all-action day where you learn, build, vibe, and ship, all at ludicrous speed.
-
-THE VIBE
-
-Pune Blitz isn't about fancy zones or over-engineered setups. It's about pure builder energy and a day dedicated to creating, collaborating, and shipping at speed.
-
-Connect with Pune's Sharpest Builders
-
-Meet some of the city's most talented developers. Share ideas, spark new ones, form teams instantly, and build alongside people who move as fast as you do.
-
-Collaborate & Ship Wild Ideas
-
-Come with an idea or discover one on the spot. Blitz is designed for momentum. Prototype fast, get real feedback, iterate quickly, and ship a consumer-ready dApp on Monad by evening.
-
-Energise, Build, Repeat
-
-Good food, good conversations, and a lot of code. Expect a full day of vibes, velocity, and execution.
-
-THE STAKES
-
-$1,500 Prize Pool
-
-1st Place: $500
-
-2nd Place: $400
-
-3rd Place: $300
-
-4th Place: $200
-
-5th Place: $100
-
-Peer-Judged: Your fellow builders choose the winners. Zero Constraints: Build any consumer app on Monad. If it runs, it's fair game.
-
-THE FLOW
-
-Learn: Morning workshops and hands-on mentoring to get you up to speed on Monad.
-
-Build: 7 hours of high-speed execution. Form a team or go solo.
-
-Ship: Demo your MVP to the crowd.
-
-Win: Claim your share of the prize.
-
-WHY BLITZ?
-
-Monad is built for speed, and Blitz is how we prove it.
-
-We provide the environment, the mentors, and the brain fuel (yes, everything is purple). You bring the code.
-
-Whether you're a seasoned EVM developer or just curious about high-performance blockchains, if you can ship, you belong here.
-
-Event Date: 26 September Applications close: 24 September
-
-Capacity is limited. Apply early to secure your spot.
-
-WHO SHOULD APPLY?
-
-Pune's best builders:
-
-Proven Builders: Show off your GitHub, portfolio, or past projects.
-
-Experimenters & Innovators: Bring that idea you've been itching to test.
-
-Fast Learners: You thrive in high-tempo environments.
-
-Community-Minded Devs: Ready to connect and join the Monad ecosystem.
-
-Teams of up to 3 members allowed.
-
-### About Monad
-
-Monad is a high-performance, EVM-compatible Layer 1 blockchain built from the ground up for parallel execution.
-
-With innovations in consensus and execution, Monad can scale to 10,000 TPS, enabling new classes of hyper-responsive, consumer-ready applications.
-
-### About Monad Blitz
-
-Monad Blitz is a global one-day hackathon series designed for speed, experimentation, and real output.
-
-It has traveled from Shenzhen to San Francisco, empowering thousands of developers and producing hundreds of prototypes, all in a single day per city.
-
-If you like working fast, this is where you belong.
-
-### Disclaimer
-
-By attending an event organized by Monad Foundation, you are entering an area where photography, audio and video live-streaming and/or recording may occur.
-
-Your entry and presence at such an event constitutes your consent to be photographed, filmed (including live-streamed), and/or otherwise recorded and to the release, publication, exhibition, or reproduction of any recorded media of your appearance, voice, and name for any purpose in connection with Monad Foundation and its initiatives.
-
-By attending the event, you waive and release any claims related to the use of such media.
-
 <a id="event-ec9d227e89b901ca"></a>
 
 ## SolanaCZE Build Station \| Zero to Hero 2.0
@@ -22770,180 +22593,6 @@ Build products.
 Ship something people want.
 
 See you at the Build Station.
-
-<a id="event-1ba42833702ad761"></a>
-
-## FOUNDERS' OFFICE \| Kyiv
-
-- Record: `luma-batch-DYJtljVj9Y6UqT5`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-03T10:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/za2hn72f>
-
-### About the event
-
-Є ідея проєкту або вже навіть MVP?
-
-Приходь в наш коворкінг! Наші office hours Київ:12 вересня [13:00-18:00]19 вересня [13:00-18:00]26 вересня [13:00-18:00]3 жовтня [13:00-18:00]10 жовтня [13:00-18:00]Онлайн: Бронюй дзвінок тут.Тут тебе чекає:
-
-допомога з валідацією ідеї та фідбек
-
-прожарки твого проєкту, які допоможуть стати краще
-
-консультації щодо хакатону Colosseum
-
-можливість попрацювати з командою в зручному коворкінгу
-
-тусовка з іншими білдерами
-
-можливість вигравати додатково гроші за участь в BuildStation івентахВхід можливий виключно після реєстрації в день, коли плануєш прийти.
-
-<a id="event-143fcfa88bdcf0fc"></a>
-
-## Devs Onsite: Zero to App
-
-- Record: `luma-batch-evtiZfgiZ21Navgx`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-03T10:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/uuzq0ula>
-
-### About the event
-
-Build your first AI app on 0G: no code, no setup, no excuses.
-
-0G is the first decentralized AI Operating System. Verifiable compute, cheap storage, and a full blockchain stack built for AI.
-
-But you don't need to know any of that to start building. That's the whole point!
-
-What's happening
-
-Plain-language intro to 0G: What is it and why it matters. No buzzwords.
-
-Live demo: we'll build a real AI app live, on stage, using the 0G App, from a text prompt to a deployed URL.
-
-You'll build alongside us. Bring your laptop and leave with something live!
-
-Q&A with Mário Vasconcelos, 0G Ambassador in Lisbon
-
-Networking + food & drinks after
-
-What to bring
-
-A laptop (strongly recommended, the hands-on part is way more fun if you're building, not just watching)
-
-Curiosity - no coding background needed
-
-Who should come
-
-Founders, builders, designers
-
-AI-curious and crypto-curious folks
-
-Developers who want to explore the 0G stack hands-on
-
-Useful links
-
-0G App (what we'll be building on): app.0g.ai
-
-0G Docs (for devs): docs.0g.ai
-
-0G Lisbon community: t.me/OgLabsEU
-
-This is part of an ongoing community of meetups, workshops, hackathons, and founder gatherings for anyone building or curious about decentralized AI in Portugal and across Europe.
-
-About Zero Gravity (0G)
-
-0G is the blockchain for AI agents. Modular storage, compute, data availability, and an AI-first chain in one stack. Every AI action verified onchain. Build your first AI agent app in minutes.
-
-Website
-
-X (Twitter)
-
-Discord
-
-Telegram
-
-<a id="event-dcff896b86364c66"></a>
-
-## IRL + Livestream Shipyard #4: Gaming, Consumer & GTM
-
-- Record: `luma-batch-iBDz4DhXR1Zrudq`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-03T11:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/zmvrj6cy>
-
-### About the event
-
-Build something people actually want to use.
-
-Crypto World's Fair is entering the final stretch - and Shipyard #4 is all about gaming, consumer products and getting users in the door.
-
-This Saturday, we're bringing builders together in Istanbul - and livestreaming for everyone joining remotely - for a full day around products people actually use, return to, and pay for.
-
-Expect:
-
-→ Gaming on Solana - what's working now, why gameplay matters more than token loops & where Turkish studios can win→ Consumer that converts - Superteam Türkiye builders breaking down products, revenue models & what they learned from real users→ GTM, Solana-native - launches, activation, retention, incentives & what actually gets people to stick around→ What went wrong - a real launch teardown and the mistakes worth avoiding→ Pitch practice - sharpen your story before Demo Day→ Build session + feedback - turn your GTM into something you can actually execute
-
-This is the last open Shipyard before Buildstation.
-
-Come with a product.
-
-Leave with a plan to get it into people's hands.
-
-See you there. 🇹🇷
-
-<a id="event-71c5a6b64d9a90e9"></a>
-
-## Build Station \| Kickoff 🍻
-
-- Record: `luma-batch-evt37ROtqa7zr4Y4`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-03T16:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/7st8vkaa>
-
-### About the event
-
-Let's connect.
-
-After the first day of building, it's time to close the laptops, grab a beer and actually get to know the people you'll be spending the next five days with.
-
-October 3
-
-From 18:00
-
-Starting at Marina Pivovar, Prague
-
-No presentations. No agenda. No pitching on stage.
-
-Just builders, founders, mentors and friends moving through a few Prague pubs together.
-
-Explore some local pubs
-
-Meet other Build Station participants
-
-Exchange ideas
-
-Find potential teammates
-
-Talk about what you're building
-
-Connect with builders from Czechia, Slovakia and beyond
-
-Still looking for a team? Perfect.
-
-Have an idea and need someone with a different skill set? Tell people about it.
-
-Already have your team? Come meet everyone else and see what they're working on.
-
-The next few days will be about building together - this evening is about getting to know each other first.
-
-Build connections before building products.
-
-See you for the first beer.
 
 <a id="event-5f26760c1bf84f74"></a>
 
@@ -33052,18 +32701,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-02T07:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://dark.events/events/prague/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-ed5a83a9e650caa4"></a>
-
-## Pre Token2049: Meet Up
-
-- Record: `luma-host-evt-evt-YL6KpUrRu4CGVus`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-03T08:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/av3tpir8>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -52804,21 +52441,9 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-9a70c5fc9b6f2f66"></a>
-
-## Stand With Crypto GOTV meet up
-
-- Record: `luma-evt-57DpPjU8L0Bt0hD`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-02T22:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/z3r4fk0w>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-8b16d35935551290"></a>
 
-## Nov 2nd CRYPTOMONDAYS Wall St + Inception Capital at Clarke & Moore in Chelsea 201 8th Ave (@ 20th St) 5:30 - 7:30
+## Nov 2nd CRYPTOMONDAYS Wall St + World Markets at Clarke & Moore in Chelsea 201 8th Ave (@ 20th St) 5:30 - 7:30
 
 - Record: `luma-evt-Tn2cySjdjlT1AhV`
 - Source: [events-cache.json](sources/events-cache.json)
@@ -52945,6 +52570,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-03T04:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/a0e6b8at>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-51afd54e1f166f40"></a>
+
+## Security Hub @Devcon VIII India
+
+- Record: `w3v-security-hub-devcon-viii-india-26-11-03`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-03T04:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/uxs32jih>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-fc29ab03b27396ec"></a>
+
+## Privacy Hub, Devcon 8
+
+- Record: `w3v-privacy-hub-devcon-8-26-11-03`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-03T04:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/qzlsn6lt>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -53270,6 +52919,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 HKGHH hosts an informal business and technology meetup at Chef's Cuts during Hong Kong FinTech Week. The stated audience includes blockchain professionals, developers, founders and investors. Doors open at 18:45. Attendees buy their own drinks, with a one-drink minimum, and the organizer asks guests to bring business cards and wear smart casual clothing.
 
+<a id="event-9a70c5fc9b6f2f66"></a>
+
+## Stand With Crypto GOTV meet up
+
+- Record: `luma-evt-57DpPjU8L0Bt0hD`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-03T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/z3r4fk0w>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-09c84f91c4bb114e"></a>
 
 ## Ethereum Forward Defence Summit
@@ -53279,6 +52940,18 @@ HKGHH hosts an informal business and technology meetup at Chef's Cuts during Hon
 - Starts: 2026-11-03T23:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/vwmfpmaz>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-2659ace20a584064"></a>
+
+## Pragma MumbaiMumbai, IndiaNov 4 (opens in a new tab)
+
+- Record: `ethorg-pragma-mumbaimumbai--indianov-4--opens-in-a-new-ta`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T00:00:00.000Z
+- Description: Missing
+- Original page: <https://ethglobal.com/events/pragma-mumbai>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -53549,6 +53222,18 @@ The symposium takes place at a conference auditorium in Mumbai on Monday, Novemb
 
 Attendance is free with registration approval required. Applicants are asked to share their academic affiliation, research papers, or GitHub profiles when requesting admission.
 
+<a id="event-db850f4237356832"></a>
+
+## Devcon IRL Event
+
+- Record: `w3v-devcon-irl-event-26-11-04`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T12:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/developer-7uu0>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-7c017106c0048254"></a>
 
 ## Toast with Sumsub Before Unchained Summit
@@ -53558,6 +53243,18 @@ Attendance is free with registration approval required. Applicants are asked to 
 - Starts: 2026-11-04T12:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/z0hipllt>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-94ba508c855e5bc9"></a>
+
+## Truth Pays: Queryable Data, Prediction Markets & Onchain Justice
+
+- Record: `w3v-truth-pays-queryable-data-prediction-markets-26-11-04`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T12:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/qewnqhas>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -53689,6 +53386,18 @@ Merkle Science hosts an afternoon on digital-asset regulation and financial infr
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-8fda84e1e5862790"></a>
+
+## Seed Phrases Stay Home 🔐 \| Wallet & dApp Walk
+
+- Record: `w3v-seed-phrases-stay-home-wallet-dapp-26-11-04`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T14:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/rkhah22j>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-26631efce8b7fa62"></a>
 
 ## Sidequest: Happy Hour
@@ -53723,6 +53432,18 @@ The meetup takes place at a vibrant rooftop venue in Mumbai on Wednesday, Novemb
 ### Registration and admission
 
 Admission is free of charge via Luma. Registration approval is required to confirm attendance. Approved guests receive the venue coordinates prior to the evening.
+
+<a id="event-44cb80b31f5a32d2"></a>
+
+## Sovrency C8 Launch · The first hardware MPC wallet for stablecoins
+
+- Record: `w3v-sovrency-c8-launch-first-hardware-mpc-26-11-04`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T14:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/qwlh11yl>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-e786f4756d4a392a"></a>
 
@@ -53787,6 +53508,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-04T18:00:00-07:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/arizona-bitcoin-meetup/events/317153094/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-523f3a536631a6d4"></a>
+
+## Offline Hangout + Speedfriending \| GenZ Editie \| Live Gitaar \| Zuidoost
+
+- Record: `luma-evt-nof9IT86GJXTVip`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/offline-hangout-gemeente-amsterdam-1>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -53998,6 +53731,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-9032386af240beb0"></a>
+
+## Africa Builders Day \| Open Call @ ZuZone Community Hub \| Devcon Mumbai
+
+- Record: `w3v-africa-builders-day-open-call-zuzone-26-11-05`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T04:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/zuzalu-gh7a>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-487326abe19a73e7"></a>
 
 ## Liquidity Pool @Devcon 8
@@ -54178,6 +53923,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-0b144b5930f16f89"></a>
+
+## Zero Knowledge, Actual Friends 🕶️ \| Privacy & ZK Walk
+
+- Record: `w3v-zero-knowledge-actual-friends-privacy-zk-26-11-05`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T14:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/hgkcvozg>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-361bb1dd5ec40f19"></a>
 
 ## El Ocaso de Narva \| Wargame Estratégico
@@ -54199,6 +53956,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-05T18:00:00-06:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946609/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-59f0047bc4635a88"></a>
+
+## OKX x Alchemy Coworking Day
+
+- Record: `luma-evt-5gBhT6ELauo5bcD`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/3v1dukjn>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -54295,6 +54064,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-06T03:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://www.dev3pack.xyz/programs/career-fair>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-61d0c64e7010e052"></a>
+
+## Proof of Breakfast
+
+- Record: `w3v-proof-breakfast-devcon-side-event-26-11-06`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-06T04:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/cdhahklm>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -54429,6 +54210,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-1e39b4b7299fba56"></a>
+
+## Yield Farming? Try Step Farming 🥾 \| DeFi Users' Walk
+
+- Record: `w3v-yield-farming-try-step-farming-defi-26-11-06`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-06T14:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/zmsks9jh>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-427e1846e43897fe"></a>
 
 ## Devcon Afterparty
@@ -54485,6 +54278,18 @@ AlpineChain's fourth B-Only conference in Annecy includes Bitcoin talks, worksho
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-4068cc342f25fd59"></a>
+
+## One Last GM, Mumbai ☀️ \| Ethereum Farewell Walk
+
+- Record: `w3v-one-last-gm-mumbai-ethereum-farewell-26-11-07`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-07T01:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/hqe3sz43>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-a27d4824828af13c"></a>
 
 ## Monad India Community Meetup - Devcon Mumbai 26' Edition
@@ -54518,6 +54323,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-07T09:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/4p7vm8o9>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-8e4af7979547d223"></a>
+
+## Don't Ghost After Devcon 👻 \| Farewell Waterfront Walk
+
+- Record: `w3v-don-t-ghost-devcon-farewell-waterfront-26-11-07`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-07T14:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/odo7gaar>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -54833,6 +54650,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-68eb43cfcf599ad3"></a>
+
+## Two Steps Forward: November Co-Working
+
+- Record: `luma-evt-wfzTJmboQoXUEb1`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-10T14:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/4tnjcywz>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-58474e46b0fd1b50"></a>
 
 ## Data+AI meetup with Databricks
@@ -54842,6 +54671,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-10T17:00:00-06:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/aittg-chicago/events/316901080/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-bc1b66af44485292"></a>
+
+## How to Beat a 7% Interest Rate - Webinar
+
+- Record: `mu-317207775`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-10T17:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/the-denver-real-estate-meetup/events/317207775/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -56220,6 +56061,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-19T10:00:00-07:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-phoenix/events/317065033/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-83c984f7db2af7bb"></a>
+
+## ZK Learning Group: ZK Identity, supporting AML/KYC with ZK
+
+- Record: `mu-317065061`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19T10:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-denver/events/317065061/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

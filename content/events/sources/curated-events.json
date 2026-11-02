@@ -192,57 +192,6 @@
     }
   },
   {
-    "id": "kbw-futuracanvas-2026",
-    "slug": "futuracanvas",
-    "name": "FuturaCanvas 2026",
-    "description": "If you would like to register, please click here to go to the registration page.🏠 Website: https://www.futuracanvas.com🖤 Instagram: https://www.instagram.com/futuracanvas.con🖤 X: https://twitter.com/FuturaCanvas🖤 LinkedIn: https://www.linkedin.com/showcase/futuracanvas🖤 Youtube: https://youtube.com/@FuturaCanvas\n\n## Event details\n\nHosted by FuturaCanvas (Korea's first global art&tech conference). Venue: Platform-L Contemporary Art Center, 11 Eonju-ro 133-gil, Gangnam District, Seoul, South Korea. The event takes place on October 1.",
-    "startDate": "2026-10-01T03:00:00.000Z",
-    "endDate": "2026-10-03T12:00:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "Platform-L Contemporary Art Center, 11 Eonju-ro 133-gil, Gangnam District, Seoul, South Korea",
-    "url": "https://luma.com/9yusdba1",
-    "website": "https://luma.com/9yusdba1",
-    "coverImage": "/events/kbw-futuracanvas-2026-695a4648.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "hosts": [
-      "FuturaCanvas"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Seoul",
-    "neighborhood": "Eonju-ro 133-gil",
-    "registrationUrl": "https://luma.com/9yusdba1",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Platform-L Contemporary Art Center",
-    "streetAddress": "11 Eonju-ro 133-gil, Gangnam District",
-    "addressLocality": "Seoul",
-    "addressRegion": "Seoul",
-    "addressCountry": "KR",
-    "coordinates": {
-      "latitude": 37.5160984,
-      "longitude": 127.03429799999998
-    },
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/9yusdba1",
-        "price": 0
-      }
-    ],
-    "registrationAvailability": "sold-out",
-    "sourceVerification": {
-      "url": "https://luma.com/9yusdba1",
-      "eventId": "evt-9lY6X7rJm7JrLQu",
-      "fetchedAt": "2026-09-22T11:53:33.000Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "premier-token2049-singapore-2026",
     "slug": "token2049",
     "name": "TOKEN2049 Singapore 2026",
@@ -857,45 +806,6 @@
       "url": "https://dubai.token2049.com",
       "fetchedAt": "2026-09-22T08:21:52.153Z",
       "method": "reviewed-primary-sources"
-    }
-  },
-  {
-    "id": "premier-bitcoinberlin",
-    "slug": "bitcoin1",
-    "name": "bitcoin++ Berlin 2026",
-    "description": "bitcoin++ is the technical Bitcoin conference for protocol engineers and researchers, with the Berlin edition focused on advanced Bitcoin development.",
-    "startDate": "2026-10-01T09:00:00.000Z",
-    "endDate": "2026-10-03T18:00:00.000Z",
-    "city": "Berlin",
-    "country": "Germany",
-    "location": "Berlin, Germany",
-    "url": "https://btcplusplus.dev/conf/berlin26",
-    "website": "https://btcplusplus.dev/conf/berlin26",
-    "coverImage": "/events/bitcoin1.webp",
-    "twitter": null,
-    "source": "curated-premier"
-  },
-  {
-    "id": "premier-cdnbitcoin",
-    "slug": "canadian",
-    "name": "Canadian Bitcoin Conference 2026",
-    "description": "## 2026 Canadian Bitcoin Conference Update\n\nRather than delivering an experience that falls short, we have made the difficult decision to cancel this year’s Canadian Bitcoin Conference and Industry Day in Toronto.",
-    "startDate": "2026-10-02T09:00:00.000Z",
-    "endDate": "2026-10-03T18:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Toronto, Canada",
-    "url": "https://canadianbitcoinconf.com",
-    "website": "https://canadianbitcoinconf.com",
-    "coverImage": "/events/canadian.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "descriptionSource": {
-      "url": "https://canadianbitcoinconf.com/",
-      "fetchedAt": "2026-09-20T00:45:01.213Z",
-      "method": "official-section",
-      "pageTitle": "",
-      "sha256": "019257556ce6b170a2938a46797a4e79180cee1336c8d5d8ee328420a41fc575"
     }
   },
   {

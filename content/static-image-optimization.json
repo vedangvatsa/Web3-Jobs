@@ -53,10 +53,6 @@
       "sha256": "42ced0ab2d6e61a66b9f9a777d3efa112123377b57c523ce67fa51392981cc2b",
       "status": "optimized"
     },
-    "/events/canadian.webp": {
-      "sha256": "015eb55c2fcc3c388dce58d3ea171d0ea11b8e43b0c0aecf13f27de840d007ab",
-      "status": "retained"
-    },
     "/events/claudecode-a2e8bc19.webp": {
       "sha256": "bc190b0e58456972592db8e3e030405e74fbfa72e283a4969471e8dee78b80cd",
       "status": "optimized"
@@ -813,10 +809,6 @@
       "sha256": "8ac39f1463f9245b6cf18a59a9f8e2c116af519c95c91144779eaee040e3b3ae",
       "status": "optimized"
     },
-    "/events/kbw-futuracanvas-2026-695a4648.webp": {
-      "sha256": "f152fa7c22b4d5010d6ba6ebf774843667e04b3ee42762d4e8e5b01aac8d1ac5",
-      "status": "optimized"
-    },
     "/events/kbw-luma-celo-espresso-brews-2026-bd8679fa.webp": {
       "sha256": "1107d0bed066fd108420ba7464deb8bd37637c6866c20e4f15528261820e7d5e",
       "status": "retained"
@@ -840,10 +832,6 @@
     "/events/kbw-official-token-sale-summit-2026-09-30-29fc2629.webp": {
       "sha256": "b09cec4e531ca81b63b1f70b07516fe32f9952aa35f77a3d305b55342047928e",
       "status": "optimized"
-    },
-    "/events/kbw-official-xrp-seoul-2026-vip-afterparty-10-03-5e5cc7dd.webp": {
-      "sha256": "573fb32f9bb0a7ba2ebd08594d406a816a01222228bd8a01b138ca33fc2f1d93",
-      "status": "retained"
     },
     "/events/l2beat-62fd8259.webp": {
       "sha256": "a7abfd6979fd8c083f4ce952366614e2dee7d3dc206a68d85d3a21b00d16f511",
@@ -987,10 +975,6 @@
     },
     "/events/luma-batch-Xn8sMlufqyme16Q-c1760a0a.webp": {
       "sha256": "3288b9ac8388105c819b5ecb7218bd48258b9c90852592a7fac96ebc1405b089",
-      "status": "optimized"
-    },
-    "/events/luma-batch-a0UuZQuz1MorKpB-e310e6f4.webp": {
-      "sha256": "d59bfae0e4b4ebdf7888ce67d2396f96cd0f35c67aebc0071f566ed13902e41b",
       "status": "optimized"
     },
     "/events/luma-batch-aTKfB4uWCos54nU-423487d5.webp": {
@@ -1397,10 +1381,6 @@
       "sha256": "0f0f049ed5fae067cec19ac94c054570d394b8aa2dc4fc08b633c1d27b93b3a0",
       "status": "optimized"
     },
-    "/events/luma-batch-evtiZfgiZ21Navgx-6dab5666.webp": {
-      "sha256": "d965576032a894170301f0253e00bf701957a375e667cd0daee4f62a2afccc06",
-      "status": "retained"
-    },
     "/events/luma-batch-evtjDoErMvoz0EqG-17dc27e9.webp": {
       "sha256": "593a4acae95b90090b8500aeca43fb7e2616359d145d86bca8fc68df11de7715",
       "status": "optimized"
@@ -1564,10 +1544,6 @@
     "/events/luma-batch-hPFyfHyof2hYVIp-cb349fd0.webp": {
       "sha256": "dd34c502e6b8d6815ae11cdfc8cf67c9888cf53ff6c22237220ae0a3d8e77adb",
       "status": "retained"
-    },
-    "/events/luma-batch-iBDz4DhXR1Zrudq-3863695a.webp": {
-      "sha256": "23977a8cd099e632054987ea76cf0f4d4531e81687390db10d2b6ca4181e1a09",
-      "status": "optimized"
     },
     "/events/luma-batch-jR6a4UNcsq5XvJN-ddd36a73.webp": {
       "sha256": "af226ead9190a1a94c58f88850e1b25baa9788db7e6f6cb5d57fd77e54009c6e",
@@ -2073,10 +2049,6 @@
       "sha256": "e9bb1a2ad084097603fed2370bf9684dea8fca66fbf1d42aceece5a6fa34e294",
       "status": "optimized"
     },
-    "/events/luma-crypto-som3hml2sfbwc5r-c13142a8.webp": {
-      "sha256": "983f34215f6cda690dab4629ec4deefa3715d40c2aa2c402044989a32793c16d",
-      "status": "optimized"
-    },
     "/events/luma-crypto-suejpogrsntznub-f5c4ab97.webp": {
       "sha256": "41d6a214448b014636df358e5a972e7965030d94846e28acb3d98abfc0e44446",
       "status": "retained"
@@ -2279,10 +2251,6 @@
     },
     "/events/luma-evt-4myaembnh4r5dwq-ff30258d.webp": {
       "sha256": "6ce61ced0207ef6f79da87c663c271623da40578d1f6be83caaec1ee1eb85389",
-      "status": "optimized"
-    },
-    "/events/luma-evt-57dppju8l0bt0hd-cd2df9a6.webp": {
-      "sha256": "2a8ca84cf563a3abef68df4c0dbbd9c1bee99ba29d98aff3e53bc4a0a89a10d8",
       "status": "optimized"
     },
     "/events/luma-evt-5o8lzuq7b05wqd4-e8b8adfc.webp": {
@@ -4137,10 +4105,6 @@
       "sha256": "7b0123e06ee810f2e6ff14dfa82e2c47346b6bd4b1f48b8f7db46775fc5ea5f3",
       "status": "optimized"
     },
-    "/events/mu-317156401-27111040.webp": {
-      "sha256": "d13c2b2dd3984302e7d4e72b86365b2f98580d8e3923482a189f6dbab5b0d4fb",
-      "status": "retained"
-    },
     "/events/near-builders-cafe-2-e87a9de0.webp": {
       "sha256": "dc089470e699d6ae9722ca061942880529d1fed199e09a5c330669070d703903",
       "status": "optimized"
@@ -5303,10 +5267,6 @@
     },
     "/events/token2049-evt-ykenkkhehintib5-f362e073.webp": {
       "sha256": "512becfab3c2e638be05ba52c0c490856d40753df3288428490975013defe6c3",
-      "status": "optimized"
-    },
-    "/events/token2049-evt-yl6kpurru4cgvus-b4f7f8af.webp": {
-      "sha256": "7ea7d2b6855cd63909a521a9a2199d8d9800ae94750501e0c78fdb3c8fae543a",
       "status": "optimized"
     },
     "/events/token2049-evt-ylh1zv6vgnhshhf-40075138.webp": {

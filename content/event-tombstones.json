@@ -4819,5 +4819,92 @@
       "qntyo9af",
       "luma-batch-evtsfwwgumxlgec2"
     ]
+  },
+  "kbw-futuracanvas-2026": {
+    "until": "2027-11-02T19:33:08.281Z",
+    "slugs": [
+      "futuracanvas",
+      "kbw-official-futuracanvas-2026-10-01",
+      "kbw-futuracanvas-2026"
+    ]
+  },
+  "premier-bitcoinberlin": {
+    "until": "2027-11-02T19:33:08.281Z",
+    "slugs": [
+      "premier-bitcoinberlin",
+      "bitcoinberlin",
+      "bitcoin1"
+    ]
+  },
+  "premier-cdnbitcoin": {
+    "until": "2027-11-02T19:33:08.281Z",
+    "slugs": [
+      "canadian",
+      "premier-cdnbitcoin",
+      "cdnbitcoin"
+    ]
+  },
+  "kbw-official-futuracanvas-2026-10-01": {
+    "until": "2027-11-02T19:33:08.281Z",
+    "slugs": [
+      "kbw-official-futuracanvas-2026-10-01",
+      "futuracanvas"
+    ]
+  },
+  "kbw-official-xrp-seoul-2026-vip-afterparty-10-03": {
+    "until": "2027-11-02T19:33:08.281Z",
+    "slugs": [
+      "xsva",
+      "kbw-official-xrp-seoul-2026-vip-afterparty-10-03"
+    ]
+  },
+  "luma-batch-a0UuZQuz1MorKpB": {
+    "until": "2027-11-02T19:33:08.281Z",
+    "slugs": [
+      "monad-blitz-pune-sep-2026",
+      "luma-batch-a0uuzquz1morkpb"
+    ]
+  },
+  "luma-batch-DYJtljVj9Y6UqT5": {
+    "until": "2027-11-02T19:33:08.281Z",
+    "slugs": [
+      "luma-batch-dyjtljvj9y6uqt5",
+      "za2hn72f"
+    ]
+  },
+  "luma-batch-iBDz4DhXR1Zrudq": {
+    "until": "2027-11-02T19:33:08.281Z",
+    "slugs": [
+      "zmvrj6cy",
+      "luma-batch-ibdz4dhxr1zrudq"
+    ]
+  },
+  "luma-batch-evtiZfgiZ21Navgx": {
+    "until": "2027-11-02T19:33:08.281Z",
+    "slugs": [
+      "uuzq0ula",
+      "luma-batch-evtizfgiz21navgx"
+    ]
+  },
+  "luma-batch-evt37ROtqa7zr4Y4": {
+    "until": "2027-11-02T19:33:08.281Z",
+    "slugs": [
+      "luma-batch-evt37rotqa7zr4y4",
+      "7st8vkaa"
+    ]
+  },
+  "luma-crypto-Som3hML2sfbwc5R": {
+    "until": "2027-11-02T19:33:08.281Z",
+    "slugs": [
+      "ehwfaeh",
+      "luma-crypto-som3hml2sfbwc5r"
+    ]
+  },
+  "token2049-evt-YL6KpUrRu4CGVus": {
+    "until": "2027-11-02T19:33:08.281Z",
+    "slugs": [
+      "pre-token2049",
+      "token2049-evt-yl6kpurru4cgvus"
+    ]
   }
 }

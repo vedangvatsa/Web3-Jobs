@@ -1,21 +1,48 @@
 {
-  "checkedAt": "2026-11-02T11:44:00.896Z",
+  "checkedAt": "2026-11-02T19:33:14.688Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
-    "https://luma.com/2049events": 2,
+    "https://luma.com/2049events": 7,
     "https://luma.com/singaporesideevents": 0,
     "https://week.token2049.com": 601,
     "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view": 600,
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 233,
-    "excluded": 369,
+    "existing": 232,
+    "added": 5,
+    "excluded": 370,
     "needs-review": 39
   },
-  "importedTotal": 250,
-  "added": [],
+  "importedTotal": 254,
+  "added": [
+    {
+      "id": "token2049-evt-C1gxjRKWyH9xmZe",
+      "slug": "get-down-real2",
+      "name": "Get Down For Real"
+    },
+    {
+      "id": "token2049-evt-WfCQCLKJaYQzDW4",
+      "slug": "get-down-real3",
+      "name": "Get Down For Real"
+    },
+    {
+      "id": "token2049-evt-w1Dt8n6KOOiWo6K",
+      "slug": "get-down-real4",
+      "name": "Get Down For Real"
+    },
+    {
+      "id": "token2049-evt-hibdrdDywIqLsxW",
+      "slug": "founder-venture",
+      "name": "Founder & Venture Networking Night @ Fintech Week 🚀"
+    },
+    {
+      "id": "token2049-evt-Jaa6PcGwwk21efW",
+      "slug": "get-down-real5",
+      "name": "Get Down For Real"
+    }
+  ],
   "receipts": [
     {
       "url": "https://luma.com/n6e4pmtn",
@@ -109,17 +136,6 @@
       ],
       "status": "existing",
       "slug": "lphym"
-    },
-    {
-      "url": "https://luma.com/av3tpir8",
-      "name": "Meet Up",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "pre-token2049"
     },
     {
       "url": "https://luma.com/v8dfyohz",
@@ -2465,6 +2481,56 @@
       "slug": "days"
     },
     {
+      "url": "https://luma.com/jn1ajcsy",
+      "name": "Get Down For Real",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "added",
+      "slug": "get-down-real2",
+      "eventId": "evt-C1gxjRKWyH9xmZe"
+    },
+    {
+      "url": "https://luma.com/wacw4gtv",
+      "name": "Get Down For Real",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "added",
+      "slug": "get-down-real3",
+      "eventId": "evt-WfCQCLKJaYQzDW4"
+    },
+    {
+      "url": "https://luma.com/e3w6b50m",
+      "name": "Get Down For Real",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "added",
+      "slug": "get-down-real4",
+      "eventId": "evt-w1Dt8n6KOOiWo6K"
+    },
+    {
+      "url": "https://luma.com/ivpr3wve",
+      "name": "Founder & Venture Networking Night @ Fintech Week 🚀",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "added",
+      "slug": "founder-venture",
+      "eventId": "evt-hibdrdDywIqLsxW"
+    },
+    {
+      "url": "https://luma.com/rfmu8am6",
+      "name": "Get Down For Real",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "added",
+      "slug": "get-down-real5",
+      "eventId": "evt-Jaa6PcGwwk21efW"
+    },
+    {
       "url": "https://megatix.com.sg/events/after2049",
       "name": "AFTER 2049: The Official TOKEN2049 Closing Party",
       "sources": [
@@ -2653,6 +2719,17 @@
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
+      "url": "https://luma.com/av3tpir8",
+      "name": "Meet Up",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
