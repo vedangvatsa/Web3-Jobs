@@ -89633,7 +89633,8 @@
       },
       "account": "channel:dev",
       "attemptId": "d92eec28-eac3-4886-9ea5-38880ee4253e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x62f4e40c82d8ab60bdf53604b7969f57691a0357"
     }
   ]
 }
