@@ -91798,7 +91798,8 @@
       },
       "account": "channel:product",
       "attemptId": "07967229-4647-4c9f-b230-66bb81277fd1",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xbc3d96a0ddd8d8eab7c9e0ccba6988d85bb3ca7a"
     }
   ]
 }
