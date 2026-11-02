@@ -92450,7 +92450,8 @@
       },
       "account": "channel:founders",
       "attemptId": "b4555425-1454-4f46-851c-90c298e6f30e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xda01faf690a36442d8ac63af8242539c2c2a6873"
     }
   ]
 }
