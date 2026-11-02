@@ -116071,7 +116071,31 @@
       "firstSeenAt": "2026-10-31T03:31:46.182Z",
       "attempts": 0,
       "expiresAt": "2026-11-03T01:10:41.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "articleSlug": "trxmove",
+      "draftProgress": {
+        "id": "3c0db5962e7de4d5c33e",
+        "day": "2026-11-02",
+        "articleSlug": "trxmove",
+        "note": "Read Whale Alert's transaction record (120,000,000 TRX, 2026-10-31T01:01:15Z, Binance Hack 2026 to unknown wallet) and Crypto Briefing's Oct 30 report; Gate.com secondary returned 403. Two independent readable sources confirmed. Draft, image and audits still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://whale-alert.io/transaction/tron/bb05d43bfde6cb869448ad03bf06969e32cc7cd77252a78d41dd7f7c26dbf0b3",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cryptobriefing.com/binance-hack-120m-trx-unknown-wallet/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.gate.com/news/detail/TRX/120m-trx-from-binance-hack-transferred-to-unknown-wallet-25316110",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-11-02T05:30:54.562Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "290a31d300bcd56ca045": {
       "source": "Bitcoin Magazine",
