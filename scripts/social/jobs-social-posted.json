@@ -91087,7 +91087,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "6483c19c-8600-441c-8b14-ec2d03279c32",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae876cbe364127fe0d8feb5"
     }
   ]
 }
