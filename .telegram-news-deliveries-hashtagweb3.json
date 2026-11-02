@@ -2881,7 +2881,7 @@
     "sentAt": "2026-11-02T11:36:03.455Z"
   },
   "7c7f91c0-1d17-4000-9a68-504df5b603e1": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-02T19:37:15.589Z",
     "stories": [
       {
@@ -2909,6 +2909,8 @@
         "originalTitle": "Mt. Gox extends creditor repayment deadline to October 2027"
       }
     ],
-    "slotKey": "2026-11-02:evening"
+    "slotKey": "2026-11-02:evening",
+    "messageId": 156050,
+    "sentAt": "2026-11-02T19:37:30.554Z"
   }
 }

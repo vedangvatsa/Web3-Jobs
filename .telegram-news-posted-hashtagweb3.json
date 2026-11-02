@@ -869,6 +869,9 @@
   "https://hashtagweb3.com/starknetresearch?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/xrplending?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/jpmcoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/zodia?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/hoodiupgrade?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/mtgoxdelay?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2513,6 +2516,12 @@
   "XRP Ledger patches its lending code before the feature ever turns on",
   "JPMorgan Expands JPM Coin to Ethereum Mainnet",
   "JPMorgan brings JPM Coin to Ethereum for institutional clients",
+  "Standard Chartered to acquire 100% of Zodia Custody",
+  "Standard Chartered signs definitive agreements to acquire Zodia Custody",
+  "Ethereum Glamsterdam upgrade scheduled for Hoodi testnet",
+  "Ethereum sets Oct. 26 for Glamsterdam's Hoodi testnet activation",
+  "Mt. Gox trustee extends repayment deadline to October 2027",
+  "Mt. Gox extends creditor repayment deadline to October 2027",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2932,5 +2941,8 @@
   "fp:apply|asset|bank|charter|custody|deposit|digital|federal|fiduciary|fil",
   "fp:back|bind|blockchain|community|follow|foundation|independent|joint|layer1|non",
   "fp:activation|amendment|cod|design|ever|featur|fix|ledger|lend|october23",
-  "fp:allow|approv|bas|beyond|client|coin|deployment|deposit|expand|institutional"
+  "fp:allow|approv|bas|beyond|client|coin|deployment|deposit|expand|institutional",
+  "fp:acquir|acquire100|agreement|approval|australia|charter|cover|custody|definitiv|entity",
+  "fp:200m|activation|glamsterdam|hoodi|increas|nod|oct26|operator|requir|schedul",
+  "fp:consecutiv|creditor|dat|deadlin|delay|distribution|extend|final|fourth|gox"
 ]
