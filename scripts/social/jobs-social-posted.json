@@ -90824,6 +90824,41 @@
       "attemptId": "2e70b276-7e3b-4a87-acdc-e45d6a85bad0",
       "verification": "verified",
       "postId": "0xf0adee842c2f089ec0d855f3f58ce02e82894418"
+    },
+    {
+      "slug": "cc5",
+      "company": "Paxos",
+      "title": "Senior Commercial Counsel",
+      "platform": "farcaster",
+      "postedAt": "2026-11-02T11:38:31.123Z",
+      "expectedText": "Paxos is hiring Senior Commercial Counsel\n\nhttps://hashtagweb3.com/cc5/fc?og=7",
+      "snapshot": {
+        "id": "5d5a5382-c7bf-46c8-8a68-aad31d84154a",
+        "title": "Senior Commercial Counsel",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/5d5a5382-c7bf-46c8-8a68-aad31d84154a",
+        "date": "2026-10-07T13:54:35.682+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - United States",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Legal",
+        "active": true,
+        "dateVerified": true,
+        "slug": "cc5"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Commercial Counsel\n\nhttps://hashtagweb3.com/cc5/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/cc5/fc?og=7"
+          }
+        ],
+        "channel_id": "defi"
+      },
+      "account": "channel:defi",
+      "attemptId": "81241536-4a81-4eb0-9670-aebac6671a4c",
+      "verification": "creating"
     }
   ]
 }
