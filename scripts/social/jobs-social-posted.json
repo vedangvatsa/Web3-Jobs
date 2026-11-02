@@ -92095,6 +92095,39 @@
       "attemptId": "d364e194-e4ef-45eb-8e79-6ccbec0da4fe",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Monday, 02-Nov-26 11:37:37 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AfSLHXin3VoUC-ehiQDDZC_\"}"
+    },
+    {
+      "slug": "sls350",
+      "company": "Kamino",
+      "title": "Senior Business Development",
+      "platform": "bluesky",
+      "postedAt": "2026-11-02T19:37:17.179Z",
+      "expectedText": "Kamino is hiring Senior Business Development: https://hashtagweb3.com/sls350/bsky?og=7",
+      "snapshot": {
+        "id": "97930167",
+        "title": "Senior Business Development",
+        "company": "Kamino",
+        "link": "https://jobs.ashbyhq.com/kamino/970dd7fc-161d-45e5-94d2-473cdcf77159",
+        "date": "2026-10-23T18:34:12.000Z",
+        "dateVerified": true,
+        "dateSource": "Solana.JobPosting.postedAt",
+        "source": "Solana Ecosystem: Kamino [getro-solana]",
+        "location": "New York, NY, USA",
+        "department": "Sales & Business Development",
+        "salary": "$160k – $220k/yr",
+        "active": true,
+        "slug": "sls350"
+      },
+      "payload": {
+        "text": "Kamino is hiring Senior Business Development: https://hashtagweb3.com/sls350/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/sls350/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/sls350.png?v=7",
+        "company": "Kamino",
+        "title": "Senior Business Development",
+        "description": "Join Kamino as Senior Business Development. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "fd3fb742-dc48-478a-8c8e-11695bf0f609",
+      "verification": "creating"
     }
   ]
 }
