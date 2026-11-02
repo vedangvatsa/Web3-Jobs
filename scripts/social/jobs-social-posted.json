@@ -91958,6 +91958,48 @@
       "verification": "verified",
       "postId": "6ae8e633e0045ccb8d7c91bb",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7523105822348849152"
+    },
+    {
+      "slug": "rec41",
+      "company": "BitGo",
+      "title": "Recruiter (Contract)",
+      "platform": "linkedin",
+      "postedAt": "2026-11-02T19:33:08.895Z",
+      "expectedText": "BitGo is hiring Recruiter (Contract): https://hashtagweb3.com/rec41/li?og=7",
+      "snapshot": {
+        "id": "8893460002",
+        "title": "Recruiter (Contract)",
+        "company": "BitGo",
+        "link": "https://job-boards.greenhouse.io/bitgo/jobs/8893460002",
+        "date": "2026-10-15T19:03:55-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BitGo [bitgo]",
+        "location": "Palo Alto, CA",
+        "department": "People",
+        "active": true,
+        "salary": "$190k – $275k/yr",
+        "dateVerified": true,
+        "slug": "rec41"
+      },
+      "payload": {
+        "text": "BitGo is hiring Recruiter (Contract): https://hashtagweb3.com/rec41/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/rec41/li?og=7",
+          "title": "Recruiter (Contract) at BitGo",
+          "description": "Join BitGo as Recruiter. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/rec41.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "632bfd3d-cbe9-4f92-8c81-fcb69f5646ed",
+      "verification": "creating"
     }
   ]
 }
