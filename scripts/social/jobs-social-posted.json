@@ -91999,7 +91999,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "632bfd3d-cbe9-4f92-8c81-fcb69f5646ed",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7523105860504428544"
     }
   ]
 }
