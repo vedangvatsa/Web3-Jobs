@@ -91090,6 +91090,48 @@
       "verification": "verified",
       "postId": "6ae876cbe364127fe0d8feb5",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7522986200438165504"
+    },
+    {
+      "slug": "cc5",
+      "company": "Paxos",
+      "title": "Senior Commercial Counsel",
+      "platform": "linkedin",
+      "postedAt": "2026-11-02T11:38:31.123Z",
+      "expectedText": "Paxos is hiring Senior Commercial Counsel: https://hashtagweb3.com/cc5/li?og=7",
+      "snapshot": {
+        "id": "5d5a5382-c7bf-46c8-8a68-aad31d84154a",
+        "title": "Senior Commercial Counsel",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/5d5a5382-c7bf-46c8-8a68-aad31d84154a",
+        "date": "2026-10-07T13:54:35.682+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - United States",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Legal",
+        "active": true,
+        "dateVerified": true,
+        "slug": "cc5"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Commercial Counsel: https://hashtagweb3.com/cc5/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/cc5/li?og=7",
+          "title": "Senior Commercial Counsel at Paxos",
+          "description": "Join Paxos as Senior Commercial Counsel. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/cc5.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "630cc8cd-0e73-45b9-a4d6-70d8144770b9",
+      "verification": "creating"
     }
   ]
 }
