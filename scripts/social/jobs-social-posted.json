@@ -90606,7 +90606,8 @@
       },
       "account": "channel:dev",
       "attemptId": "6d7f5e1a-2333-4c9c-b2fc-f4709de0aae0",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8e4a12b9791191539f691cace011066d6c782cf2"
     }
   ]
 }
