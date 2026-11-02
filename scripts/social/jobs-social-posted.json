@@ -90063,7 +90063,8 @@
       },
       "account": "channel:design",
       "attemptId": "e9d6c407-1c5d-4880-9389-a629dc311c2d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc4c977c4e2f81a35c2b6c69fa752b01e1bbfe8e7"
     }
   ]
 }
