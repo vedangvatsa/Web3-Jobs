@@ -91087,8 +91087,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "6483c19c-8600-441c-8b14-ec2d03279c32",
-      "verification": "pending",
-      "postId": "6ae876cbe364127fe0d8feb5"
+      "verification": "verified",
+      "postId": "6ae876cbe364127fe0d8feb5",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7522986200438165504"
     }
   ]
 }
