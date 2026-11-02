@@ -6797,5 +6797,123 @@
     "slotKey": "2026-11-01:evening",
     "messageId": 156041,
     "sentAt": "2026-11-01T19:33:19.991Z"
+  },
+  "07e2687d-3ebf-451c-9662-e0d48f53678a": {
+    "status": "reserved",
+    "reservedAt": "2026-11-02T11:33:59.942Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "ec51d0aa-a167-4c38-b955-07c55057267d",
+          "title": "Enterprise Manager, Sales Development",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/ec51d0aa-a167-4c38-b955-07c55057267d",
+          "date": "2026-10-08T16:51:24.792+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls289"
+        },
+        "key": "ec51d0aa-a167-4c38-b955-07c55057267d",
+        "slug": "sls289",
+        "url": "https://hashtagweb3.com/sls289?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Enterprise Manager"
+      },
+      {
+        "snapshot": {
+          "id": "104efd49-475b-4e42-8804-5d728db9fe74",
+          "title": "AI Engineer, Trading Ops & Management",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/104efd49-475b-4e42-8804-5d728db9fe74",
+          "date": "2026-10-09T09:07:22.848Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (United States)",
+          "workplaceType": "hybrid",
+          "department": "Trading",
+          "salary": "USD 80,000 - USD 130,000 per year",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng36"
+        },
+        "key": "104efd49-475b-4e42-8804-5d728db9fe74",
+        "slug": "eng36",
+        "url": "https://hashtagweb3.com/eng36?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "AI Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "5435960008",
+          "title": "Senior Business Resilience Program Manager",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5435960008?gh_jid=5435960008",
+          "date": "2026-10-08T14:42:32-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Bay Area, CA, United States of America",
+          "department": "10404 Engineering - Information Security",
+          "active": true,
+          "salary": "$198k – $297k/yr",
+          "dateVerified": true,
+          "slug": "mgr162"
+        },
+        "key": "5435960008",
+        "slug": "mgr162",
+        "url": "https://hashtagweb3.com/mgr162?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Senior Business Resilience Program Manager"
+      },
+      {
+        "snapshot": {
+          "id": "4968567101",
+          "title": "Senior Product Manager - Trading & Onchain",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4968567101",
+          "date": "2026-10-07T10:19:16-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Abu Dhabi, UAE",
+          "department": "Spots Business Unit (SBU)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm253"
+        },
+        "key": "4968567101",
+        "slug": "pm253",
+        "url": "https://hashtagweb3.com/pm253?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Senior Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8332676",
+          "title": "Software Engineer - Full stack",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8332676",
+          "date": "2026-10-28T19:38:42-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Seattle, WA",
+          "department": "Global Operations",
+          "active": true,
+          "salary": "$156.8k – $235.2k/yr",
+          "dateVerified": true,
+          "slug": "fs33"
+        },
+        "key": "8332676",
+        "slug": "fs33",
+        "url": "https://hashtagweb3.com/fs33?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Software Engineer"
+      }
+    ],
+    "message": "- Ramp is hiring <a href=\"https://hashtagweb3.com/sls289?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Enterprise Manager, Sales Development</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/eng36?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Engineer, Trading Ops &amp; Management</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/mgr162?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Business Resilience Program Manager</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/pm253?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager - Trading &amp; Onchain</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/fs33?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer - Full stack</a>",
+    "slotKey": "2026-11-02:afternoon"
   }
 }
