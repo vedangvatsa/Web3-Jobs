@@ -115755,9 +115755,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "e8a0cc4f409e9496577b",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-31T03:31:46.182Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-02T21:16:54.000Z",
       "lastSeenAt": "2026-10-31T03:31:46.182Z",
       "articleSlug": "lummisclarity",
@@ -115784,8 +115784,8 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "quality-gate",
-      "note": "Actual article audits still failed after bounded repair attempts: lummisclarity.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
+      "reason": "verified-event",
+      "note": "Repaired the under-600-word gate by rewriting the article from scratch (prior draft absent from this checkout). Re-read Crypto Briefing Oct. 30, TokenPost 45172 and Decrypt 382285, plus Decrypt 382309 for the Oct. 29 theft timing; all quotes and the .4B/.34B figures match. Wrote lummisclarity.md with a Gage Skidmore photo of Lummis; quality, formatting and image audits pass.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/clarity-act-could-classify-binance-as-covered-person-says-lummis/",
@@ -115798,10 +115798,14 @@
         {
           "url": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
           "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-01T05:18:42.976Z",
-      "lastReviewedDay": "2026-11-01",
+      "reviewedAt": "2026-11-02T05:07:39.015Z",
+      "lastReviewedDay": "2026-11-02",
       "retrySearches": [
         "Repair and revalidate the preserved lummisclarity draft against its original sources: lummisclarity.md: under 600 words"
       ],
@@ -115831,8 +115835,7 @@
           "lummisclarity.md: under 600 words"
         ],
         "isolatedAt": "2026-11-01T05:18:42.976Z"
-      },
-      "nextReviewDate": "2026-11-02"
+      }
     },
     "7e83a11224f244c8fb2e": {
       "source": "Crypto Briefing",
@@ -220712,6 +220715,31 @@
           ],
           "reviewedAt": "2026-11-02T05:03:32.937Z",
           "articleSlug": "b14gcore"
+        },
+        "e8a0cc4f409e9496577b": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Repaired the under-600-word gate by rewriting the article from scratch (prior draft absent from this checkout). Re-read Crypto Briefing Oct. 30, TokenPost 45172 and Decrypt 382285, plus Decrypt 382309 for the Oct. 29 theft timing; all quotes and the .4B/.34B figures match. Wrote lummisclarity.md with a Gage Skidmore photo of Lummis; quality, formatting and image audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/clarity-act-could-classify-binance-as-covered-person-says-lummis/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/regulation/45172",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-02T05:07:39.015Z",
+          "articleSlug": "lummisclarity"
         }
       },
       "baselineSlugs": [
