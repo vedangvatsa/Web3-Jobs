@@ -2885,7 +2885,7 @@
     "sentAt": "2026-11-01T19:35:46.677Z"
   },
   "94c7daf6-c59d-481e-9ea0-cbfb755009bd": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-02T11:35:36.707Z",
     "stories": [
       {
@@ -2905,6 +2905,8 @@
         "originalTitle": "AI can make tech CEOs’ lives easier. What about everyone else?"
       }
     ],
-    "slotKey": "2026-11-02:afternoon"
+    "slotKey": "2026-11-02:afternoon",
+    "messageId": 193441,
+    "sentAt": "2026-11-02T11:35:39.936Z"
   }
 }

@@ -856,6 +856,8 @@
   "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
   "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
   "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+  "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+  "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2350,6 +2352,10 @@
   "Trump declares robot imports a national security threat",
   "OpenAI reports autonomous agents bypassed security testing environments",
   "We urgently need to monitor AI agents’ actions in real time",
+  "Tim Berners-Lee Proposed the Semantic Web Concept in 2001",
+  "The agentic web is here",
+  "Tech CEO views on AI benefits and public perception",
+  "AI can make tech CEOs’ lives easier. What about everyone else?",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2723,5 +2729,7 @@
   "fp:access|advic|attende|boston4|business|can|connection|day|founder|help",
   "fp:agent|aggregat|assistant|automatically|bas|book|choic|conduct|din|find",
   "fp:administration|automation|classify|declar|factory|foreign|government|hardwar|import|impos",
-  "fp:action|agent|autonomous|bypass|compromis|environment|evaluation|external|improv|internal"
+  "fp:action|agent|autonomous|bypass|compromis|environment|evaluation|external|improv|internal",
+  "fp:2001|agentic|american|articl|autonomous|berner|concept|design|detail|her",
+  "fp:benefit|can|ceo|disconnect|easier|els|equity|everyon|examin|executiv"
 ]
