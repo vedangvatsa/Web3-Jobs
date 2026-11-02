@@ -1,8 +1,56 @@
 {
-  "generatedAt": "2026-11-02T19:32:16.674Z",
+  "generatedAt": "2026-11-02T20:53:18.183Z",
   "items": [
     {
-      "title": "Mercado Bitcoin wallets keep moving funds after $46M hack",
+      "title": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
+      "link": "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 02 Nov 2026 20:22:23 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "Slowing trading activity and fallout from the Binance hack are clouding Coinbase’s revenue prospects, prompting Morgan Stanley to lower its rating on ...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach",
+      "link": "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
+      "pubDate": "Mon, 02 Nov 2026 20:19:49 +0000",
+      "creator": "Jason Shubnell",
+      "contentSnippet": "Brazil's largest crypto exchange Mercado Bitcoin confirmed earlier Monday a security incident and paused withdrawals.",
+      "source": "The Block"
+    },
+    {
+      "title": "Bitcoin trades near $78K as perpetual selling pressures leverage",
+      "link": "https://blockchain.news/news/bitcoin-trades-near-78k-as-perpetual-selling-pressures-leverage",
+      "pubDate": "Mon, 02 Nov 2026 20:05:05 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Glassnode’s Week 45 report said Bitcoin slipped below $80,000 as perpetual sellers led the decline and options traders bought protection. (Read More)",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
+      "link": "https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto",
+      "pubDate": "Mon, 02 Nov 2026 19:46:02 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "The Fundstrat strategist says constraints on AI spending have slowed growth without ending the boom, while crypto’s response to the Binance hack sugge...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Coinhub Funded Goes Live: Crypto Prop Firm Offers Funded Trading Accounts Up to $200K & 30-Minute Tournaments",
+      "link": "https://dailyhodl.com/2026/11/02/coinhub-funded-goes-live-crypto-prop-firm-offers-funded-trading-accounts-up-to-200k-30-minute-tournaments/",
+      "pubDate": "Mon, 02 Nov 2026 19:29:56 +0000",
+      "creator": "Chainwire",
+      "contentSnippet": "Charlestown, Saint Kitts and Nevis, 2nd November 2026, Chainwire\nThe post Coinhub Funded Goes Live: Crypto Prop Firm Offers Funded Trading Accounts Up...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
+      "link": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 02 Nov 2026 19:27:58 +0000",
+      "creator": "William Suberg",
+      "contentSnippet": "Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
       "link": "https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Mon, 02 Nov 2026 19:05:35 +0000",
       "creator": "Isabelle Castro",
@@ -58,28 +106,12 @@
       "source": "The Block"
     },
     {
-      "title": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
-      "link": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
-      "pubDate": "Mon, 02 Nov 2026 16:46:03 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Brazil's largest crypto exchange paused deposits and withdrawals after a security incident. Tether froze more than 4.5 million USDT tied to the attack...",
-      "source": "Decrypt"
-    },
-    {
       "title": "NYSE tokenized stock plans take shape as four more transfer agents join",
       "link": "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails",
       "pubDate": "Mon, 02 Nov 2026 16:41:46 +0000",
       "creator": "Krisztian Sandor",
       "contentSnippet": "Broadridge, Computershare, Equiniti and Superstate join the exchange's planned blockchain market, bringing shareholder records and voting services onc...",
       "source": "Coindesk"
-    },
-    {
-      "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
-      "link": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish",
-      "pubDate": "Mon, 02 Nov 2026 16:23:24 +0000",
-      "creator": "Staff",
-      "contentSnippet": "The chairman laid out six reasons the market’s “muted” 4% ETH drop after the record Binance theft shows crypto is “increasingly resilient,” as the fir...",
-      "source": "Decrypt"
     },
     {
       "title": "Strive inches closer to becoming second-largest public bitcoin holder after latest $10 million buy",
@@ -106,12 +138,12 @@
       "source": "Coindesk"
     },
     {
-      "title": "Coinbase downgraded at Morgan Stanley; price target slashed 53% on weak earnings outlook",
-      "link": "https://www.coindesk.com/markets/2026/11/02/morgan-stanley-downgrades-coinbase-slashes-price-target-53-on-weak-earnings-outlook",
-      "pubDate": "Mon, 02 Nov 2026 14:29:33 +0000",
-      "creator": "Helene Braun",
-      "contentSnippet": "Analyst Michael Cyprys cited weak crypto trading activity and doubts about an earnings recovery.",
-      "source": "Coindesk"
+      "title": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
+      "link": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307",
+      "pubDate": "Mon, 02 Nov 2026 14:40:53 +0000",
+      "creator": "Brian Danga",
+      "contentSnippet": "Bitmine added 8,573 ETH last week, lifting holdings to 6.06 million ETH, as Tom Lee flagged muted market response to Binance's hack.",
+      "source": "The Block"
     },
     {
       "title": "Tokenization firm tZERO plans to go public in $350 million SPAC deal",
@@ -240,6 +272,14 @@
       "creator": "Zoltan Vardai",
       "contentSnippet": "OKX led cryptocurrency exchanges with $445 million in daily inflows, while Binance processed about $7 billion in net outflows.",
       "source": "Cointelegraph"
+    },
+    {
+      "title": "Live updates: Bitcoin bounce fades as Binance exploit, AI unwind continue to weigh",
+      "link": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
+      "pubDate": "Mon, 02 Nov 2026 08:49:30 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "The Nasdaq flipped from a 1% gain to a 1% decline on Monday even as interest rates pulled back and oil plunged on hopes for Middle East peace.",
+      "source": "Coindesk"
     },
     {
       "title": "China’s Communist Party calls for a crackdown on corruption that uses crypto and blockchain",
@@ -378,12 +418,12 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Binance hackers raced to move billions before it could be frozen",
-      "link": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 30 Oct 2026 22:00:00 +0000",
-      "creator": "Christina Comben",
-      "contentSnippet": "Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry players like Tether and Circle moved to immobilize...",
-      "source": "Cointelegraph"
+      "title": "President Trump says they’re looking into Binance hack as calls grow for crypto rules",
+      "link": "https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236",
+      "pubDate": "Fri, 30 Oct 2026 21:06:03 +0000",
+      "creator": "Sarah Wynn",
+      "contentSnippet": "Following the $6.3 billion hack of the world's largest crypto exchange, Binance, calls are growing for legislation.",
+      "source": "The Block"
     },
     {
       "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
@@ -392,14 +432,6 @@
       "creator": "Staff",
       "contentSnippet": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the record $6.4 billion theft is a Binance security failure, not a crypto-wide threat, p...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B ",
-      "link": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 30 Oct 2026 19:01:58 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "The stablecoin issuer’s US Treasury holdings are comparable to those of major foreign holders, while its Bitcoin reserves were valued at $8.37 billion...",
-      "source": "Cointelegraph"
     },
     {
       "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
@@ -442,36 +474,12 @@
       "source": "The Block"
     },
     {
-      "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
-      "link": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
-      "pubDate": "Fri, 30 Oct 2026 02:22:31 +0000",
-      "creator": "Timmy Shen",
-      "contentSnippet": "BNB lost 7.1%, while Binance Co-CEO Yi He pledged that the exchange will cover all user losses resulting from the hack.",
-      "source": "The Block"
-    },
-    {
       "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
       "link": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
       "pubDate": "Thu, 29 Oct 2026 22:57:48 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
-      "link": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
-      "pubDate": "Thu, 29 Oct 2026 21:36:24 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Strategy reports $19.5 billion in Q3 net income as preferred shareholders approve daily dividends",
-      "link": "https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141",
-      "pubDate": "Thu, 29 Oct 2026 20:58:35 +0000",
-      "creator": "Jason Shubnell",
-      "contentSnippet": "Strategy reported $19.53B in Q3 net income on a $20.91B bitcoin gain, holds 848,517 BTC, and moves preferreds to daily dividends.",
-      "source": "The Block"
     },
     {
       "title": "Coinbase Swings to $719 Million Q3 Profit on Crypto Gains",
@@ -495,30 +503,6 @@
       "pubDate": "Thu, 29 Oct 2026 17:46:02 +0000",
       "creator": "Staff",
       "contentSnippet": "Only 13% of Americans say a candidate’s support for crypto growth is very important, according to a survey conducted by Ipsos for the DeFi Education F...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "$11 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
-      "link": "https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means",
-      "pubDate": "Thu, 29 Oct 2026 17:15:11 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "A third of Deribit's Bitcoin options settle Friday, a day after the Fed held rates with two officials voting to hike. Here's why that matters for Bitc...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
-      "link": "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode",
-      "pubDate": "Thu, 29 Oct 2026 16:32:47 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Bitcoin is trading close to the average price paid by U.S. spot ETF holders, a day after the Federal Reserve held rates steady.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Hyperliquid's HYPE Jumps 13% as NYSE Owner ICE Moves to Bring Its Perpetual Futures to the US",
-      "link": "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us",
-      "pubDate": "Thu, 29 Oct 2026 15:59:48 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Intercontinental Exchange signed a deal with Trade[XYZ] to launch regulated perpetual futures built on Hyperliquid in the United States, sending HYPE ...",
       "source": "Decrypt"
     }
   ]
