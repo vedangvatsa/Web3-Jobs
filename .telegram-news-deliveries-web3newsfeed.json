@@ -3012,5 +3012,36 @@
     "slotKey": "2026-11-02:afternoon",
     "messageId": 65798,
     "sentAt": "2026-11-02T11:35:47.070Z"
+  },
+  "2603d153-674b-462b-bfc7-a6eb43eaf0ad": {
+    "status": "reserved",
+    "reservedAt": "2026-11-02T19:38:37.246Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "IMF Disburses 138 Million Dollars to El Salvador",
+        "summary": "The IMF released funds to El Salvador despite the country failing to meet its Bitcoin accumulation targets.",
+        "link": "https://hashtagweb3.com/imf-salvador?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "IMF clears 138 million dollars for El Salvador after Bitcoin waivers"
+      },
+      {
+        "index": -1,
+        "headline": "Japan Sanctions Crypto Exchange Garantex",
+        "summary": "The Japanese government added the exchange to its Russia sanctions list effective October 2, 2026.",
+        "link": "https://hashtagweb3.com/garantex-sanctions?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Japan adds Garantex crypto exchange to Russia sanctions"
+      },
+      {
+        "index": 1,
+        "headline": "StoneX maintains buy rating for Securitize after DTCC launch",
+        "summary": "StoneX analysts believe the new DTCC tokenization service supports the business model used by Securitize.",
+        "link": "https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331",
+        "source": "The Block",
+        "originalTitle": "DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says"
+      }
+    ],
+    "slotKey": "2026-11-02:evening"
   }
 }
