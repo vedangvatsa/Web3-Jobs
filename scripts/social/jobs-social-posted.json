@@ -90966,7 +90966,8 @@
       },
       "account": "channel:design",
       "attemptId": "f4d6494d-e7d5-487b-9c5a-3c9df0061261",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xfdaa148bbeabb98a8b1c5417b2bd7daad3294dcd"
     }
   ]
 }
