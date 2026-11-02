@@ -89977,7 +89977,8 @@
       },
       "account": "channel:ai",
       "attemptId": "d6343232-215a-4bf2-8032-909e64ab0067",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x1003147a24b1ddf0486b561c6bfa2c8d958cdc1e"
     }
   ]
 }
