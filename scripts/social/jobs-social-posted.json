@@ -90678,7 +90678,8 @@
       },
       "account": "channel:build",
       "attemptId": "fdaef0d2-b2fd-425f-9a3d-0ccb21a5dded",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xac5e6a83e6237021d4b7662a1904773ea38903ef"
     }
   ]
 }
