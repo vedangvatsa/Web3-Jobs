@@ -91834,7 +91834,8 @@
       },
       "account": "channel:design",
       "attemptId": "a7d06843-32a3-4a67-af5e-b82a86623473",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x303c966ac57394641a555cb317a76c3ed6bcd886"
     }
   ]
 }
