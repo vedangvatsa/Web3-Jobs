@@ -121267,9 +121267,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "56261a55f47928b1a14a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-02T04:39:30.853Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-04T16:01:02.000Z",
       "lastSeenAt": "2026-11-02T04:39:30.853Z",
       "articleSlug": "etfoutflows",
@@ -121291,7 +121291,21 @@
         "updatedAt": "2026-11-02T04:56:01.645Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read Decrypt Nov. 1 and bitcoin.com Oct. 31 this round; all flow figures match (43.2-643.3M Friday, IBIT/FBTC/ARKB splits, week -02.6M, ETH -55.85M, SOL -0.74M). Wrote etfoutflows.md with a self-hosted Frankfurt Stock Exchange photo; quality, formatting and image audits pass.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
+          "outcome": "read"
+        },
+        {
+          "url": "https://news.bitcoin.com/market-updates/bitcoin-etfs-lose-643m-after-binance-hack-ends-4-day-inflow-run/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-02T04:59:32.313Z",
+      "lastReviewedDay": "2026-11-02"
     },
     "a6af70760b7302f9b4ca": {
       "source": "CryptoSlate",
@@ -220634,6 +220648,23 @@
             }
           ],
           "reviewedAt": "2026-11-02T04:53:22.014Z"
+        },
+        "56261a55f47928b1a14a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Decrypt Nov. 1 and bitcoin.com Oct. 31 this round; all flow figures match (43.2-643.3M Friday, IBIT/FBTC/ARKB splits, week -02.6M, ETH -55.85M, SOL -0.74M). Wrote etfoutflows.md with a self-hosted Frankfurt Stock Exchange photo; quality, formatting and image audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bitcoin.com/market-updates/bitcoin-etfs-lose-643m-after-binance-hack-ends-4-day-inflow-run/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-02T04:59:32.313Z",
+          "articleSlug": "etfoutflows"
         }
       },
       "baselineSlugs": [
