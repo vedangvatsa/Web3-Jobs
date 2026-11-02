@@ -6917,5 +6917,122 @@
     "slotKey": "2026-11-02:afternoon",
     "messageId": 156047,
     "sentAt": "2026-11-02T11:34:05.087Z"
+  },
+  "96e854b3-5769-4a3d-97c9-efdb2880861c": {
+    "status": "reserved",
+    "reservedAt": "2026-11-02T19:33:35.358Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "4bb9b3a5-4cf6-49d1-a309-6ea01b35a31c",
+          "title": "Senior Product Manager, Trading Connectivity",
+          "company": "Talos",
+          "link": "https://jobs.ashbyhq.com/Talos-Trading/4bb9b3a5-4cf6-49d1-a309-6ea01b35a31c",
+          "date": "2026-10-09T21:57:23.635+00:00",
+          "source": "Ashby: Talos [Talos-Trading]",
+          "location": "Hybrid (London, Cyprus)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm282"
+        },
+        "key": "4bb9b3a5-4cf6-49d1-a309-6ea01b35a31c",
+        "slug": "pm282",
+        "url": "https://hashtagweb3.com/pm282?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Talos",
+        "title": "Senior Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8013228003",
+          "title": "Director of Engineering",
+          "company": "DriveWealth",
+          "link": "https://boards.greenhouse.io/drivewealth/jobs/8013228003?gh_jid=8013228003",
+          "date": "2026-10-05T13:03:20-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DriveWealth [drivewealth]",
+          "location": "Chicago, IL; New York, NY",
+          "department": "Engineering",
+          "active": true,
+          "salary": "$250k – $280k/yr",
+          "dateVerified": true,
+          "slug": "eng400"
+        },
+        "key": "8013228003",
+        "slug": "eng400",
+        "url": "https://hashtagweb3.com/eng400?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DriveWealth",
+        "title": "Director of Engineering"
+      },
+      {
+        "snapshot": {
+          "id": "8860479002",
+          "title": "Senior Data Analyst",
+          "company": "Figure",
+          "link": "https://job-boards.greenhouse.io/figure/jobs/8860479002",
+          "date": "2026-10-08T15:13:10-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Figure [figure]",
+          "location": "Remote",
+          "department": "Data Analytics",
+          "active": true,
+          "salary": "$110k – $140k/yr",
+          "dateVerified": true,
+          "slug": "an62"
+        },
+        "key": "8860479002",
+        "slug": "an62",
+        "url": "https://hashtagweb3.com/an62?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Figure",
+        "title": "Senior Data Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "4742897005",
+          "title": "Junior Fixed Income Relative Value Trader",
+          "company": "DV Trading",
+          "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4742897005",
+          "date": "2026-10-12T10:32:15-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DV Trading [dvtrading]",
+          "location": "Chicago",
+          "department": "Trading",
+          "active": true,
+          "dateVerified": true,
+          "slug": "tr126"
+        },
+        "key": "4742897005",
+        "slug": "tr126",
+        "url": "https://hashtagweb3.com/tr126?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DV Trading",
+        "title": "Junior Fixed Income Relative Value Trader"
+      },
+      {
+        "snapshot": {
+          "id": "95944478",
+          "title": "Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Taiwan)",
+          "company": "Perle",
+          "link": "https://ats.rippling.com/perle/jobs/12d7e277-a8ac-4bc2-962b-c45742c1558c",
+          "date": "2026-10-06T11:52:24.000Z",
+          "dateVerified": true,
+          "dateSource": "Solana.JobPosting.postedAt",
+          "source": "Solana Ecosystem: Perle [getro-solana]",
+          "location": "Remote / Taiwan",
+          "department": "AI",
+          "active": true,
+          "slug": "bces5"
+        },
+        "key": "95944478",
+        "slug": "bces5",
+        "url": "https://hashtagweb3.com/bces5?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Perle",
+        "title": "Bilingual Chinese"
+      }
+    ],
+    "message": "- Talos is hiring <a href=\"https://hashtagweb3.com/pm282?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager, Trading Connectivity</a>\n- DriveWealth is hiring <a href=\"https://hashtagweb3.com/eng400?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director of Engineering</a>\n- Figure is hiring <a href=\"https://hashtagweb3.com/an62?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Analyst</a>\n- DV Trading is hiring <a href=\"https://hashtagweb3.com/tr126?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Junior Fixed Income Relative Value Trader</a>\n- Perle is hiring <a href=\"https://hashtagweb3.com/bces5?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Taiwan)</a>",
+    "slotKey": "2026-11-02:evening"
   }
 }
