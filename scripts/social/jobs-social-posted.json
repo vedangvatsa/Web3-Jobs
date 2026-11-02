@@ -90426,7 +90426,8 @@
       },
       "account": "profile",
       "attemptId": "33c3ad47-1b03-4f68-8e87-2403277376f9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5577241fdfcf3cc06323129db49911c42eec70f4"
     }
   ]
 }
