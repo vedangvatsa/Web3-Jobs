@@ -91402,7 +91402,8 @@
       },
       "account": "channel:bounties",
       "attemptId": "f6f35e29-174a-4a09-b023-d303dddb40b3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf3ec6cd2a8a5ad79ccc1fd77b90389de62c229ff"
     }
   ]
 }
