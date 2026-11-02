@@ -121393,9 +121393,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "a76afa30e6febccdc8b1",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-02T04:39:30.853Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-05T00:23:12.000Z",
       "lastSeenAt": "2026-11-02T04:39:30.853Z",
       "articleSlug": "anzalinux",
@@ -121425,7 +121425,37 @@
         "updatedAt": "2026-11-02T05:12:11.244Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified Anza's Nov. 1 warning to Solana validators on CVE-2026-98432 across TokenPost, ChainCatcher's report of Tim Garcia's guidance, the Ubuntu CVE tracker, The Hacker News technical account, a DURE validator guide, and The Defiant's full text via the cryptonews.net syndication. Drafted anzalinux.md with a self-hosted CC0 NERSC server-rack hero; quality, formatting, image, duplicate and typecheck audits pass.",
+      "sourceChecks": [
+        {
+          "url": "https://www.tokenpost.com/news/technology/46026",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.chaincatcher.com/en/article/2300907",
+          "outcome": "read"
+        },
+        {
+          "url": "https://ubuntu.com/security/CVE-2026-98432",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://durenodes.com/guides/mptcp-cve-2026-98432/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptonews.net/news/security/33686402/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-02T05:19:58.782Z",
+      "lastReviewedDay": "2026-11-02"
     },
     "4fb4333307dcd6a71268": {
       "source": "CryptoSlate",
@@ -220783,6 +220813,39 @@
           "reviewedAt": "2026-11-02T05:07:48.912Z",
           "duplicateOf": "lummisclarity",
           "mergedInto": "e8a0cc4f409e9496577b"
+        },
+        "a76afa30e6febccdc8b1": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Anza's Nov. 1 warning to Solana validators on CVE-2026-98432 across TokenPost, ChainCatcher's report of Tim Garcia's guidance, the Ubuntu CVE tracker, The Hacker News technical account, a DURE validator guide, and The Defiant's full text via the cryptonews.net syndication. Drafted anzalinux.md with a self-hosted CC0 NERSC server-rack hero; quality, formatting, image, duplicate and typecheck audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.tokenpost.com/news/technology/46026",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.chaincatcher.com/en/article/2300907",
+              "outcome": "read"
+            },
+            {
+              "url": "https://ubuntu.com/security/CVE-2026-98432",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://durenodes.com/guides/mptcp-cve-2026-98432/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptonews.net/news/security/33686402/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-02T05:19:58.782Z",
+          "articleSlug": "anzalinux"
         }
       },
       "baselineSlugs": [
