@@ -90930,7 +90930,8 @@
       },
       "account": "channel:product",
       "attemptId": "00558ad9-1583-4a1e-b776-bd6e493564f2",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa80932c9d5fbe669ff1befc879b0c3a88b35d073"
     }
   ]
 }
