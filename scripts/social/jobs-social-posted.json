@@ -91690,7 +91690,8 @@
       },
       "account": "channel:solana",
       "attemptId": "d1953c47-3910-40e8-aa23-2dbdb8b57de4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x513bdb7ac053ceee02500c2372a5e45d8d6e26c3"
     }
   ]
 }
