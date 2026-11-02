@@ -90750,7 +90750,8 @@
       },
       "account": "channel:base",
       "attemptId": "d1a00836-e9cf-453a-a56b-1239839a4c50",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xdc9883465f02c7f5d8f8db6e0c9a92d3276e68a2"
     }
   ]
 }
