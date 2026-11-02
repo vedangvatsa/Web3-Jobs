@@ -92032,6 +92032,37 @@
       "attemptId": "14b0b727-45cd-4719-bb4f-2c848e6dc6b2",
       "verification": "verified",
       "postId": "691827047618629_1133560449251189"
+    },
+    {
+      "slug": "sls350",
+      "company": "Kamino",
+      "title": "Senior Business Development",
+      "platform": "x",
+      "postedAt": "2026-11-02T19:37:17.179Z",
+      "expectedText": "Kamino is hiring Senior Business Development\n\nhttps://hashtagweb3.com/sls350/x?og=7",
+      "snapshot": {
+        "id": "97930167",
+        "title": "Senior Business Development",
+        "company": "Kamino",
+        "link": "https://jobs.ashbyhq.com/kamino/970dd7fc-161d-45e5-94d2-473cdcf77159",
+        "date": "2026-10-23T18:34:12.000Z",
+        "dateVerified": true,
+        "dateSource": "Solana.JobPosting.postedAt",
+        "source": "Solana Ecosystem: Kamino [getro-solana]",
+        "location": "New York, NY, USA",
+        "department": "Sales & Business Development",
+        "salary": "$160k – $220k/yr",
+        "active": true,
+        "slug": "sls350"
+      },
+      "payload": {
+        "text": "Kamino is hiring Senior Business Development\n\nhttps://hashtagweb3.com/sls350/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "6dce23a2-e68b-4fef-afef-5344c42cfb50",
+      "verification": "creating"
     }
   ]
 }
