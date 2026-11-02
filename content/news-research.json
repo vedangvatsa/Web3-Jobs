@@ -121322,9 +121322,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "a6af70760b7302f9b4ca",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-02T04:39:30.853Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-04T13:20:52.000Z",
       "lastSeenAt": "2026-11-02T04:39:30.853Z",
       "articleSlug": "b14gcore",
@@ -121350,7 +121350,25 @@
         "updatedAt": "2026-11-02T05:00:11.057Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read CryptoSlate Nov. 1 and Bitquery Oct. 31, opened third source TokenPost 45685 (Core DAO response); all figures match (97.05M CORE/.47M, 91 orders, 99 zero requests, 66-minute pause, 68.15M unmoved, 11.0M to MEXC, 17-month logic). Wrote b14gcore.md with self-hosted Hut 8 facility photo; quality, formatting and image audits pass.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/zero-token-withdrawals-let-a-hacker-drain-97-million-core-from-bitcoin-staking-platform-b14g/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitquery.io/investigations/b14g-hack",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/regulation/45685",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-02T05:03:32.937Z",
+      "lastReviewedDay": "2026-11-02"
     },
     "a76afa30e6febccdc8b1": {
       "source": "The Defiant",
@@ -220669,6 +220687,27 @@
           ],
           "reviewedAt": "2026-11-02T04:59:32.313Z",
           "articleSlug": "etfoutflows"
+        },
+        "a6af70760b7302f9b4ca": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read CryptoSlate Nov. 1 and Bitquery Oct. 31, opened third source TokenPost 45685 (Core DAO response); all figures match (97.05M CORE/.47M, 91 orders, 99 zero requests, 66-minute pause, 68.15M unmoved, 11.0M to MEXC, 17-month logic). Wrote b14gcore.md with self-hosted Hut 8 facility photo; quality, formatting and image audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/zero-token-withdrawals-let-a-hacker-drain-97-million-core-from-bitcoin-staking-platform-b14g/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitquery.io/investigations/b14g-hack",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/regulation/45685",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-02T05:03:32.937Z",
+          "articleSlug": "b14gcore"
         }
       },
       "baselineSlugs": [
