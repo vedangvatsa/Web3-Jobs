@@ -2883,5 +2883,28 @@
     "slotKey": "2026-11-01:evening",
     "messageId": 193438,
     "sentAt": "2026-11-01T19:35:46.677Z"
+  },
+  "94c7daf6-c59d-481e-9ea0-cbfb755009bd": {
+    "status": "reserved",
+    "reservedAt": "2026-11-02T11:35:36.707Z",
+    "stories": [
+      {
+        "index": 1,
+        "headline": "Tim Berners-Lee Proposed the Semantic Web Concept in 2001",
+        "summary": "A 2001 Scientific American article detailed an internet designed for navigation by autonomous software.",
+        "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+        "source": "MIT Tech Review",
+        "originalTitle": "The agentic web is here"
+      },
+      {
+        "index": 3,
+        "headline": "Tech CEO views on AI benefits and public perception",
+        "summary": "The Equity podcast examines why executive statements about artificial intelligence often seem disconnected from the general workforce.",
+        "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+        "source": "TechCrunch",
+        "originalTitle": "AI can make tech CEOs’ lives easier. What about everyone else?"
+      }
+    ],
+    "slotKey": "2026-11-02:afternoon"
   }
 }
