@@ -90642,7 +90642,8 @@
       },
       "account": "channel:developers",
       "attemptId": "b1ee922b-d31f-4a74-b486-e74af0869bb5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x06be676558f5bd2bd1d4601eb6c79836a9b9bfb2"
     }
   ]
 }
