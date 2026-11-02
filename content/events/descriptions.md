@@ -32716,18 +32716,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-4026ca382f5c803a"></a>
-
-## Small Business EV Launchpad Informational Session + Ride and Drive
-
-- Record: `luma-evt-FhYzLgbadAWUPGk`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-03T19:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/x0g214lj>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-554003be8c1aaa5a"></a>
 
 ## Pre Token 2049 Web3 Ai : Mixers
@@ -54445,6 +54433,18 @@ The celebration takes place at a festive rooftop and banquet venue in Mumbai on 
 
 Tickets are free via Luma and subject to venue capacity limits. Registration is free and requires host approval. Guests receive the full venue coordinates and dress code details upon confirmation.
 
+<a id="event-a3f8f424265c0215"></a>
+
+## Devin's Trading Desk: Forex, Futures, Crypto, Stocks & Options
+
+- Record: `luma-evt-8K68kl1G0Y64sG2`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-08T17:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/id3r4jxd>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-acb5f3db181a977d"></a>
 
 ## International Conference on Smart Contracts and Blockchain (ICSCB)
@@ -55171,6 +55171,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-13T18:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/klgng11i>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-98e6c88be886b3f9"></a>
+
+## 2026 Design-A-Thon: Panopticon
+
+- Record: `luma-evt-g2ixiFPhdGyc3OV`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-13T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/d2ykxhh1>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

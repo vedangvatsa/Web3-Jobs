@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-02T19:33:14.688Z",
+  "checkedAt": "2026-11-02T20:54:10.832Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -10,40 +10,49 @@
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 232,
-    "added": 5,
+    "existing": 237,
     "excluded": 370,
     "needs-review": 39
   },
   "importedTotal": 254,
-  "added": [
-    {
-      "id": "token2049-evt-C1gxjRKWyH9xmZe",
-      "slug": "get-down-real2",
-      "name": "Get Down For Real"
-    },
-    {
-      "id": "token2049-evt-WfCQCLKJaYQzDW4",
-      "slug": "get-down-real3",
-      "name": "Get Down For Real"
-    },
-    {
-      "id": "token2049-evt-w1Dt8n6KOOiWo6K",
-      "slug": "get-down-real4",
-      "name": "Get Down For Real"
-    },
-    {
-      "id": "token2049-evt-hibdrdDywIqLsxW",
-      "slug": "founder-venture",
-      "name": "Founder & Venture Networking Night @ Fintech Week 🚀"
-    },
-    {
-      "id": "token2049-evt-Jaa6PcGwwk21efW",
-      "slug": "get-down-real5",
-      "name": "Get Down For Real"
-    }
-  ],
+  "added": [],
   "receipts": [
+    {
+      "url": "https://luma.com/jn1ajcsy",
+      "name": "Get Down For Real",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "existing",
+      "slug": "get-down-real2"
+    },
+    {
+      "url": "https://luma.com/wacw4gtv",
+      "name": "Get Down For Real",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "existing",
+      "slug": "get-down-real3"
+    },
+    {
+      "url": "https://luma.com/e3w6b50m",
+      "name": "Get Down For Real",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "existing",
+      "slug": "get-down-real4"
+    },
+    {
+      "url": "https://luma.com/ivpr3wve",
+      "name": "Founder & Venture Networking Night @ Fintech Week 🚀",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "existing",
+      "slug": "founder-venture"
+    },
     {
       "url": "https://luma.com/n6e4pmtn",
       "name": "Fireside Chat on a Super Yacht: AI Agents, AI in Space & What Gets Funded Next",
@@ -52,6 +61,15 @@
       ],
       "status": "existing",
       "slug": "fcsy"
+    },
+    {
+      "url": "https://luma.com/rfmu8am6",
+      "name": "Get Down For Real",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "existing",
+      "slug": "get-down-real5"
     },
     {
       "url": "https://luma.com/y586ohae",
@@ -2479,56 +2497,6 @@
       ],
       "status": "existing",
       "slug": "days"
-    },
-    {
-      "url": "https://luma.com/jn1ajcsy",
-      "name": "Get Down For Real",
-      "sources": [
-        "https://luma.com/2049events"
-      ],
-      "status": "added",
-      "slug": "get-down-real2",
-      "eventId": "evt-C1gxjRKWyH9xmZe"
-    },
-    {
-      "url": "https://luma.com/wacw4gtv",
-      "name": "Get Down For Real",
-      "sources": [
-        "https://luma.com/2049events"
-      ],
-      "status": "added",
-      "slug": "get-down-real3",
-      "eventId": "evt-WfCQCLKJaYQzDW4"
-    },
-    {
-      "url": "https://luma.com/e3w6b50m",
-      "name": "Get Down For Real",
-      "sources": [
-        "https://luma.com/2049events"
-      ],
-      "status": "added",
-      "slug": "get-down-real4",
-      "eventId": "evt-w1Dt8n6KOOiWo6K"
-    },
-    {
-      "url": "https://luma.com/ivpr3wve",
-      "name": "Founder & Venture Networking Night @ Fintech Week 🚀",
-      "sources": [
-        "https://luma.com/2049events"
-      ],
-      "status": "added",
-      "slug": "founder-venture",
-      "eventId": "evt-hibdrdDywIqLsxW"
-    },
-    {
-      "url": "https://luma.com/rfmu8am6",
-      "name": "Get Down For Real",
-      "sources": [
-        "https://luma.com/2049events"
-      ],
-      "status": "added",
-      "slug": "get-down-real5",
-      "eventId": "evt-Jaa6PcGwwk21efW"
     },
     {
       "url": "https://megatix.com.sg/events/after2049",

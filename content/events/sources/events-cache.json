@@ -12081,20 +12081,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-evt-FhYzLgbadAWUPGk",
-    "name": "Small Business EV Launchpad Informational Session + Ride and Drive",
-    "description": "",
-    "startDate": "2026-10-03T19:30:00.000Z",
-    "endDate": "2026-10-03T21:00:00.000Z",
-    "city": "Tukwila",
-    "country": "United States",
-    "location": "Tukwila, United States",
-    "url": "https://lu.ma/x0g214lj",
-    "coverImage": "/events/luma-evt-fhyzlgbadawupgk-16d045be.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "ma-coinferencex-singapore-2026",
     "name": "CoinFerenceX Singapore 2026",
     "description": "CoinFerenceX Singapore 2026 takes place at Gardens by the Bay on October 5-6, 2026, during Asia Crypto Week. The two-day Web3 and blockchain summit brings together builders, founders, Tier-1 VCs and D",
@@ -19008,7 +18994,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/www-marylandblockchainassociation-org/events/315962979/",
-    "coverImage": "/events/mu-315962979-975e4753.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -26620,7 +26606,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261102%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261102T193659Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=2ef11449730a7edc2234031e1cb1e0ec959d5d989443dec92c024e9b84988429",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261102%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261102T205735Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=f066295afa74294db4adf942c85db81d71c695cfc3d1b6d1703549b0a6a99083",
     "month": "November 2026"
   },
   {
@@ -26917,7 +26903,7 @@
     "country": "US",
     "location": "Peoria, US",
     "url": "https://www.meetup.com/seasoned-readers/events/315752491/",
-    "coverImage": null,
+    "coverImage": "/events/mu-315752491-cae47927.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -27974,10 +27960,7 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/317064975/",
     "coverImage": null,
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "luma-evt-1YkeGIX5PJN3Q9d",
@@ -28649,7 +28632,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-silicon-valley/events/317065042/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317065042-83b359c7.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -29087,6 +29070,34 @@
     "url": "https://www.meetup.com/lfdt-denver/events/317065061/",
     "coverImage": null,
     "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-8K68kl1G0Y64sG2",
+    "name": "Devin's Trading Desk: Forex, Futures, Crypto, Stocks & Options",
+    "description": "",
+    "startDate": "2026-11-08T17:00:00.000Z",
+    "endDate": "2026-11-08T22:00:00.000Z",
+    "city": "Miami",
+    "country": "United States",
+    "location": "Miami, United States",
+    "url": "https://lu.ma/id3r4jxd",
+    "coverImage": "/events/luma-evt-8k68kl1g0y64sg2-bf48b7fb.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-g2ixiFPhdGyc3OV",
+    "name": "2026 Design-A-Thon: Panopticon",
+    "description": "",
+    "startDate": "2026-11-13T23:00:00.000Z",
+    "endDate": "2026-11-15T20:00:00.000Z",
+    "city": "Austin",
+    "country": "United States",
+    "location": "Austin, United States",
+    "url": "https://lu.ma/d2ykxhh1",
+    "coverImage": "/events/luma-evt-g2ixifphdgyc3ov-69837e58.webp",
+    "source": "luma",
     "month": "November 2026"
   }
 ]
