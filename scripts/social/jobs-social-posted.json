@@ -90894,7 +90894,8 @@
       },
       "account": "channel:ai",
       "attemptId": "0e701a91-0bce-47c0-9a96-43a788716825",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa1c582d4c8068b2fd46c81fa8e7f0c6c13a7251d"
     }
   ]
 }
