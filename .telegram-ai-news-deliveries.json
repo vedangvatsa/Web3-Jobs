@@ -2908,5 +2908,42 @@
     "slotKey": "2026-11-02:afternoon",
     "messageId": 193441,
     "sentAt": "2026-11-02T11:35:39.936Z"
+  },
+  "67832abf-043a-46cf-a9e6-7085656a6b71": {
+    "status": "reserved",
+    "reservedAt": "2026-11-02T19:33:56.830Z",
+    "stories": [
+      {
+        "index": 1,
+        "original_title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+        "headline": "New York Times sues Brave over AI content scraping",
+        "summary": "The lawsuit alleges the browser company illegally scraped copyrighted material to provide data to artificial intelligence developers.",
+        "event_rationale": "This legal action targets a data intermediary for scraping rather than the AI model developers themselves.",
+        "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+        "source": "TechCrunch",
+        "originalTitle": "New York Times and other outlets sue web browser Brave over alleged content scraping"
+      },
+      {
+        "index": 5,
+        "original_title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+        "headline": "42AI raises $62.5 million for human behavior prediction models",
+        "summary": "The startup launched from stealth to develop world models that forecast human actions in novel situations.",
+        "event_rationale": "This funding round supports a startup building specialized world models for predicting human behavior.",
+        "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+        "source": "TechCrunch",
+        "originalTitle": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’"
+      },
+      {
+        "index": 7,
+        "original_title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+        "headline": "Omen AI acquires Aquatic Labs for data center cooling",
+        "summary": "The acquisition combines two startups to manage the water consumption and thermal needs of artificial intelligence infrastructure.",
+        "event_rationale": "This acquisition represents consolidation in the AI infrastructure sector focusing on data center water cooling.",
+        "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+        "source": "TechCrunch",
+        "originalTitle": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition"
+      }
+    ],
+    "slotKey": "2026-11-02:evening"
   }
 }
