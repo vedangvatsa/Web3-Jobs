@@ -90326,8 +90326,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "64287a36-6d5b-4ef3-92f9-0942ca34127f",
-      "verification": "pending",
-      "postId": "6ae8763a6d4b19decd3fdd3f"
+      "verification": "verified",
+      "postId": "6ae8763a6d4b19decd3fdd3f",
+      "permalink": "https://twitter.com/hashtag_web3/status/2117219814003368080"
     }
   ]
 }
