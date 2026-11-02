@@ -89335,7 +89335,8 @@
         "link_attachment": "https://hashtagweb3.com/cmp131/th?og=7"
       },
       "attemptId": "ced53dae-1935-4cc5-8785-c4fabcd06ab8",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Monday, 02-Nov-26 03:34:20 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Aeb7TVqC528ovmVQCpmJ41t\"}"
     }
   ]
 }
