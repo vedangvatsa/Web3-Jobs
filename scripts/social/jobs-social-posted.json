@@ -92270,7 +92270,8 @@
       },
       "account": "channel:bounties",
       "attemptId": "a0629d6f-e4f9-4760-a04a-3d6e31f8b23f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x895be6ff5374c4de2135a3a104bd911e6c965af6"
     }
   ]
 }
