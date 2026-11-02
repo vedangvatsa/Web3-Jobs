@@ -121330,11 +121330,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "4fb4333307dcd6a71268",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-02T04:39:30.853Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-04T16:30:46.000Z",
-      "lastSeenAt": "2026-11-02T04:39:30.853Z"
+      "lastSeenAt": "2026-11-02T04:39:30.853Z",
+      "reason": "opinion",
+      "note": "Read CryptoSlate Nov. 1 in full: the story is OneKey founder Yishi Wang's warning that IBIT 'is already on North Korea's shortlist' after the Binance hack. CryptoSlate itself states there is no evidence IBIT or Coinbase custody was compromised and that the warning does not establish active targeting. bitcoin.com's Oct. 31 ETF outflow report also characterizes Wang's comments as a hypothetical security risk. No concrete event (launch, vote, ruling, filing, hack, raise, upgrade) occurred around the warning, so this fails the concrete-event test.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/onekey-founder-warns-blackrocks-bitcoin-etf-could-be-a-north-korean-target/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://news.bitcoin.com/market-updates/bitcoin-etfs-lose-643m-after-binance-hack-ends-4-day-inflow-run/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-02T04:53:22.014Z",
+      "lastReviewedDay": "2026-11-02"
     },
     "29154a4602c1e84fdde1": {
       "source": "The Defiant",
@@ -220564,6 +220578,22 @@
           "retrySearches": [
             "Find a readable copy or independent restatement of the CoinDesk comparison of Binance-hack stolen bitcoin against Tesla and El Salvador holdings, with the underlying BTC amounts"
           ]
+        },
+        "4fb4333307dcd6a71268": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Read CryptoSlate Nov. 1 in full: the story is OneKey founder Yishi Wang's warning that IBIT 'is already on North Korea's shortlist' after the Binance hack. CryptoSlate itself states there is no evidence IBIT or Coinbase custody was compromised and that the warning does not establish active targeting. bitcoin.com's Oct. 31 ETF outflow report also characterizes Wang's comments as a hypothetical security risk. No concrete event (launch, vote, ruling, filing, hack, raise, upgrade) occurred around the warning, so this fails the concrete-event test.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/onekey-founder-warns-blackrocks-bitcoin-etf-could-be-a-north-korean-target/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bitcoin.com/market-updates/bitcoin-etfs-lose-643m-after-binance-hack-ends-4-day-inflow-run/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-02T04:53:22.014Z"
         }
       },
       "baselineSlugs": [
