@@ -1,13 +1,109 @@
 {
-  "generatedAt": "2026-11-02T04:39:27.915Z",
+  "generatedAt": "2026-11-02T11:32:19.902Z",
   "items": [
     {
-      "title": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
-      "link": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
-      "pubDate": "Mon, 02 Nov 2026 04:11:05 +0000",
-      "creator": "Timmy Shen",
-      "contentSnippet": "US spot bitcoin ETFs shed $643 million on Friday, marking their largest single-day outflow since June 25, following Thursday's Binance's hack.",
-      "source": "The Block"
+      "title": "Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen",
+      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
+      "pubDate": "Mon, 02 Nov 2026 11:30:00 +0000",
+      "creator": "Oliver Knight",
+      "contentSnippet": "Bitcoin fell 0.4% to around $77,900 since midnight UTC as Binance customers pulled a net $3.64 billion after withdrawals reopened and ETFs lost $643 m...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?",
+      "link": "https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 02 Nov 2026 11:19:18 +0000",
+      "creator": "Helen Partz",
+      "contentSnippet": "Bitcoin lost 7.3% in October 2026 after another decline the previous year, despite the month’s historically strong returns, as analysts reassess seaso...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Trezor lifts password ceiling after Coldcard’s $100M wallet thefts",
+      "link": "https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 02 Nov 2026 10:46:59 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "Trezor cited July’s Coldcard attacks, in which strong passphrases helped protect some users whose wallet recovery information was compromised.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
+      "link": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 02 Nov 2026 10:14:55 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "The HKMA plans to bring regulated stablecoins into tokenized government debt trials, while HSBC says its RedCoin stablecoin has reached 50,000 users.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 02 Nov 2026 09:41:36 +0000",
+      "creator": "William Suberg",
+      "contentSnippet": "Bitcoin price action held its 100-day moving average into the monthly close as crypto markets braced for US midterm election and tech earnings volatil...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead",
+      "pubDate": "Mon, 02 Nov 2026 09:04:49 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "Your look at what’s coming in the week starting Nov. 2.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "OKX draws $445M in net inflows as Binance outflows exceed $7B",
+      "link": "https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 02 Nov 2026 08:56:03 +0000",
+      "creator": "Zoltan Vardai",
+      "contentSnippet": "OKX led cryptocurrency exchanges with $445 million in daily inflows, while Binance processed about $7 billion in net outflows.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "China’s Communist Party calls for a crackdown on corruption that uses crypto and blockchain",
+      "link": "https://www.coindesk.com/markets/2026/11/02/china-s-communist-party-calls-for-a-crackdown-on-corruption-that-uses-crypto-and-blockchain",
+      "pubDate": "Mon, 02 Nov 2026 08:41:28 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "China's Communist Party has named virtual currency and blockchain in a new anti-corruption call.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Why stealing billions from a crypto exchange can be harder to stop than a bank theft",
+      "link": "https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks",
+      "pubDate": "Mon, 02 Nov 2026 08:32:01 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "The $6.3 billion Binance breach has revived a debate over whether crypto exchanges are less secure than banks or simply harder to protect once hackers...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 02 Nov 2026 07:50:36 +0000",
+      "creator": "Helen Partz",
+      "contentSnippet": "US spot Bitcoin ETFs ended October with $515 million in net withdrawals, while Ether funds posted a record $1.61 billion in monthly outflows.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
+      "link": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 02 Nov 2026 05:34:02 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "BTCPay Server urged operators to shut down their servers after receiving reports of unauthorized attackers draining funds from hot wallets.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
+      "link": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
+      "pubDate": "Mon, 02 Nov 2026 05:18:12 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "The 19 wallets holding 18,270 stolen BTC have taken in nothing since Thursday except payments worth under a dollar, each carrying a message, from plea...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+      "pubDate": "Mon, 02 Nov 2026 04:42:22 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "ZEC led the majors and oil slid on a report that Trump wants to give Iran diplomacy more time, with U.S. midterm elections on Tuesday.",
+      "source": "Coindesk"
     },
     {
       "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
@@ -74,12 +170,12 @@
       "source": "Coindesk"
     },
     {
-      "title": "Binance says phase one of withdrawals opens after $6.3B hack",
-      "link": "https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sun, 01 Nov 2026 09:38:18 +0000",
-      "creator": "Michael Millard",
-      "contentSnippet": "The crypto exchange said it has begun phased withdrawals after the record hack the FBI has blamed on North Korea.",
-      "source": "Cointelegraph"
+      "title": "Binance Says It Has Replaced 90% of $6,300,000,000 Stolen in Record Crypto Hack",
+      "link": "https://dailyhodl.com/2026/11/01/binance-says-it-has-replaced-90-of-6300000000-stolen-in-record-crypto-hack/",
+      "pubDate": "Sun, 01 Nov 2026 10:15:12 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Crypto exchange Binance says it has now covered 90% of the roughly $6.3 billion stolen from its hot wallets in what is believed to be the largest cryp...",
+      "source": "Daily Hodl"
     },
     {
       "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
@@ -112,14 +208,6 @@
       "creator": "Oliver Knight",
       "contentSnippet": "Trade.xyz’s new ANT contract fell about 20% in its first hour on Hyperliquid. There are no shares behind it, and U.S. traders are locked out.",
       "source": "Coindesk"
-    },
-    {
-      "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
-      "link": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sat, 31 Oct 2026 15:36:01 +0000",
-      "creator": "Bryan O'Shea",
-      "contentSnippet": "Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades.",
-      "source": "Cointelegraph"
     },
     {
       "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
@@ -178,36 +266,12 @@
       "source": "The Block"
     },
     {
-      "title": "18 years in, what has Bitcoin truly done?",
-      "link": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
-      "pubDate": "Sat, 31 Oct 2026 13:00:00 +0000",
-      "creator": "Nikhilesh De",
-      "contentSnippet": "The Bitcoin white paper achieved a lot of what Satoshi Nakamoto set out to accomplish, but the cultural impact it had may outweigh Bitcoin itself, wri...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
-      "link": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
-      "pubDate": "Sat, 31 Oct 2026 12:49:47 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "Next Technology Holding cited exchange security and quantum computing risks in authorizing sales or loans against its 5,833 BTC. It says none of the c...",
-      "source": "Coindesk"
-    },
-    {
       "title": "Blockchain investigator Chainalysis hit by cybersecurity incident ",
       "link": "https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Sat, 31 Oct 2026 11:22:49 +0000",
       "creator": "Michael Millard",
       "contentSnippet": "The company said some non-sensitive customer data was exposed, including user IDs, names and email addresses.",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
-      "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
-      "pubDate": "Sat, 31 Oct 2026 05:01:32 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "The 18,270 BTC haul is worth about $1.4 billion and comes within 442 coins of SpaceX’s disclosed holdings. Blockchain investigators link the attack to...",
-      "source": "Coindesk"
     },
     {
       "title": "Binance hackers raced to move billions before it could be frozen",
@@ -232,14 +296,6 @@
       "creator": "Staff",
       "contentSnippet": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the record $6.4 billion theft is a Binance security failure, not a crypto-wide threat, p...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
-      "link": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
-      "pubDate": "Fri, 30 Oct 2026 19:55:00 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "Tether, Circle and others moved within hours to block billions in stolen crypto, but legal experts question whether smaller victims would get the same...",
-      "source": "Coindesk"
     },
     {
       "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B ",
@@ -290,38 +346,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Binance says it holds $5B in matching tokens to cover hack losses",
-      "link": "https://cointelegraph.com/news/binance-5-billion-replacement-crypto-in-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 30 Oct 2026 12:41:43 +0000",
-      "creator": "Helen Partz",
-      "contentSnippet": "The exchange said it set aside more than $6.34 billion to cover losses and would include the assets in its next proof-of-reserves report.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Here's how big bitcoin traders responded after the Binance hack hit",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
-      "pubDate": "Fri, 30 Oct 2026 11:51:26 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "Your day-ahead look for Oct. 30, 2026",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Zcash grants group offers $124M compromise as governance backlash grows",
-      "link": "https://cointelegraph.com/news/zcash-grants-46m-proposal-governance-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 30 Oct 2026 11:36:23 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "Zcash Community Grants proposed redirecting about $124 million in existing and future funding toward mining rewards, but critics say the plan fails to...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
-      "link": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 30 Oct 2026 10:54:30 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "The attackers held 18,270 BTC early Friday, topping Coinbase’s reported corporate holdings, and an Ether stash exceeding 500,000 ETH.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
       "link": "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5",
       "pubDate": "Fri, 30 Oct 2026 10:07:29 +0000",
@@ -338,19 +362,19 @@
       "source": "The Block"
     },
     {
-      "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
-      "link": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
-      "pubDate": "Fri, 30 Oct 2026 02:22:31 +0000",
-      "creator": "Timmy Shen",
-      "contentSnippet": "BNB lost 7.1%, while Binance Co-CEO Yi He pledged that the exchange will cover all user losses resulting from the hack.",
-      "source": "The Block"
-    },
-    {
       "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
       "link": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
       "pubDate": "Thu, 29 Oct 2026 22:57:48 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
+      "link": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
+      "pubDate": "Thu, 29 Oct 2026 21:36:24 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion.",
       "source": "Decrypt"
     },
     {
@@ -487,150 +511,6 @@
       "pubDate": "Wed, 28 Oct 2026 21:46:02 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Datavault AI says it has been unable to withdraw its Bitcoin from Biconomy since June and will restate four financial reports tied to a $150 million S...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "More Americans Have Tried Crypto, But Few Are Sticking With It: Survey",
-      "link": "https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey",
-      "pubDate": "Wed, 28 Oct 2026 19:46:03 +0000",
-      "creator": "Staff",
-      "contentSnippet": "A survey conducted by Ipsos for the DeFi Education Fund found that 22% of Americans have ever owned or used crypto, up from 18%, while past-year use h...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC! ",
-      "link": "https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc",
-      "pubDate": "Fri, 23 Jan 2026 16:40:55 +0000",
-      "creator": "Decrypt",
-      "contentSnippet": "Crypto majors are red while Gold nears $5,000 and Silver closes in on $100; BTC -1% at $89,100; ETH -2% at $2,925, SOL -2% at $127; XRP -2% to $1.90. ...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Crypto rebounds after Trump TACO’s on Tariffs! BitGo $2.1B IPO! Solana’s SKR token soars 250% FDV!  ",
-      "link": "https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv",
-      "pubDate": "Thu, 22 Jan 2026 16:14:50 +0000",
-      "creator": "Decrypt",
-      "contentSnippet": "Crypto majors are green and rebounding after Trump pivoted on EU tariffs; BTC +2% at $89,900; ETH +2% at $2,995, SOL +2% at $130; XRP +3% to $1.94. CC...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Trump’s speech at Davos gives small boost to Crypto! Saylor buys $2.13B BTC! Blondish Interview!",
-      "link": "https://decrypt.co/videos/interviews/nWmEOl4c/trumps-speech-at-davos-gives-small-boost-to-crypto-saylor-buys-213b-btc-blondish-interview",
-      "pubDate": "Wed, 21 Jan 2026 16:17:26 +0000",
-      "creator": "Decrypt",
-      "contentSnippet": "Crypto majors are very red following a red Tuesday across markets; BTC -3% at $88,200; ETH -6% at $2,905, SOL -2% at $127; XRP -2% to $1.88. MYX (+11%...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Trump Tariffs 3: Return of the Bull Market! NYSE Tokenising, what that means for $Hype! Claude Meme Meta! ",
-      "link": "https://decrypt.co/videos/interviews/O1HZN4PH/trump-tariffs-3-return-of-the-bull-market-nyse-tokenising-what-that-means-for-hype-claude-meme-meta",
-      "pubDate": "Tue, 20 Jan 2026 18:12:06 +0000",
-      "creator": "Decrypt",
-      "contentSnippet": "Crypto majors are red following Trump’s tariff turmoil; BTC -2% at $91,100; ETH -4% at $3,105, SOL -3% at $129; XRP -2% to $1.93. CC (+12%), MYX (+5%)...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Crypto sells off amidst Trump Tariff Turmoil! $Trove falls 90% in awful TGE! Pump Fund announced! ",
-      "link": "https://decrypt.co/videos/interviews/lokwS0bc/crypto-sells-off-amidst-trump-tariff-turmoil-trove-falls-90-in-awful-tge-pump-fund-announced",
-      "pubDate": "Tue, 20 Jan 2026 16:07:15 +0000",
-      "creator": "Decrypt",
-      "contentSnippet": "Crypto majors are red following Trump’s tariff turmoil; BTC -2% at $91,100; ETH -4% at $3,105, SOL -3% at $129; XRP -2% to $1.93. CC (+12%), MYX (+5%)...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Massive Coinbase News! Bitcoin Rips to $96,750! Football.Fun TGE Interview with Founder!",
-      "link": "https://decrypt.co/videos/interviews/9g4stfJX/massive-coinbase-news-bitcoin-rips-to-96-750-footballfun-tge-interview-with-founder",
-      "pubDate": "Thu, 15 Jan 2026 16:49:34 +0000",
-      "creator": "Decrypt",
-      "contentSnippet": "Crypto majors are very green with Bitcoin making a new another 2-month high; BTC +2% at $96,7500; ETH +2% at $3,360, SOL even at $145; XRP -1% to $2.1...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Are we back? Crypto is Green! Solana Intern goes rogue! Pump up 13%! Monero hits another ATH!",
-      "link": "https://decrypt.co/videos/interviews/Iv1NIhI4/are-we-back-crypto-is-green-solana-intern-goes-rogue-pump-up-13-monero-hits-another-ath",
-      "pubDate": "Wed, 14 Jan 2026 16:38:32 +0000",
-      "creator": "Decrypt",
-      "contentSnippet": "BTC: 95k (+3%) | BTC.D: 59.2% (-0.1%). ETH: 3313 (+6%) | BNB: 936 (+3%) | SOL: 145 (+2%). Top Gainers: IP, ICP, PUMP, PEPE, ENA. BTC ETFs: +$754m | ET...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Pump & Memes HEATING up! XMR vs ZEC! How important are these rate cuts? - Under Exposed",
-      "link": "https://decrypt.co/videos/interviews/IuLdmgP6/pump-memes-heating-up-xmr-vs-zec-how-important-are-these-rate-cuts-under-exposed",
-      "pubDate": "Wed, 14 Jan 2026 16:01:53 +0000",
-      "creator": "Decrypt",
-      "contentSnippet": "Crypto majors are green; BTC +1.5% at $92,000; ETH +1% at $3,130, SOL +2% at $142; XRP +1% to $2.06. DASH (+60%), IP (+30%) and XMR (+13%) led top mov...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "A16z raise $15B! Jerome Powell vs Trump! Crypto remains flat! Special Guest: Dudas! ",
-      "link": "https://decrypt.co/videos/interviews/0y90noNs/a16z-raise-15b-jerome-powell-vs-trump-crypto-remains-flat-special-guest-dudas",
-      "pubDate": "Mon, 12 Jan 2026 17:15:46 +0000",
-      "creator": "Decrypt",
-      "contentSnippet": "Crypto majors are mostly flat headed into Monday open; btc even at $90,600; eth +1% at $3,110, sol +2% at $140; xrp -2% to $2.04. Ip (+20%) and xmr (+...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "ZEC Rebounds 11%! Trump says he won’t pardon Sam Bankman-Fried! Florida revisits it’s Strategic Bitcoin Reserve!",
-      "link": "https://decrypt.co/videos/interviews/72tPnqPX/zec-rebounds-11-trump-says-he-wont-pardon-sam-bankman-fried-florida-revisits-its-strategic-bitcoin-reserve",
-      "pubDate": "Fri, 09 Jan 2026 17:17:12 +0000",
-      "creator": "Decrypt",
-      "contentSnippet": "Crypto majors are mostly flat ahead of today’s supreme court opinion on the trump tariffs; btc +1% at $90,300; eth 13% at $3,090, sol +3% at $138; xrp...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "The ZCash situation explained! Interview with ZEC bull Mert! BTC below $90K! ZEC falls 19%! ",
-      "link": "https://decrypt.co/videos/interviews/wmsgKRFW/the-zcash-situation-explained-interview-with-zec-bull-mert-btc-below-90k-zec-falls-19",
-      "pubDate": "Thu, 08 Jan 2026 17:04:56 +0000",
-      "creator": "Decrypt",
-      "contentSnippet": "Crypto majors fell again yesterday as btc lost $90k; btc -2% at $89,900; eth -3% at $3,100, sol -3% at $134; xrp -7% to $2.08. Lit (+3%), wlfi (+3%) a...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "First 2026 Dip! BTC at 92K! Morgan Stanley file for BTC, ETH & SOL ETFs! Hyperliquid Airdrop Speculation! ",
-      "link": "https://decrypt.co/videos/interviews/GVQVX2ND/first-2026-dip-btc-at-92k-morgan-stanley-file-for-btc-eth-sol-etfs-hyperliquid-airdrop-speculation",
-      "pubDate": "Wed, 07 Jan 2026 16:14:54 +0000",
-      "creator": "Decrypt",
-      "contentSnippet": "Crypto majors fall for first time in 2026; BTC at $92k. Morgan Stanley files for BTC, ETH and SOL ETFs. US Senate schedules key vote for crypto market...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Crypto starts 2026 STRONG! Venezuela Impacts on the market! Lighter TGE reactions!",
-      "link": "https://decrypt.co/videos/interviews/XjhRjGIk/crypto-starts-2026-strong-venezuela-impacts-on-the-market-lighter-tge-reactions",
-      "pubDate": "Tue, 06 Jan 2026 18:16:42 +0000",
-      "creator": "Decrypt",
-      "contentSnippet": "The global crypto market cap pushed another 2% to $3.22T as majors continue to grind up; BTC +1% at $93,780; ETH +2% at $3,240, SOL +3% at $139; XRP l...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Global Crypto MCap up to $3.22 Trillion! XRP up 12%! Japan Endorse Crypto! Fear & Greed back to Neutral! ",
-      "link": "https://decrypt.co/videos/interviews/OS1PGiAq/global-crypto-mcap-up-to-322-trillion-xrp-up-12-japan-endorse-crypto-fear-greed-back-to-neutral",
-      "pubDate": "Tue, 06 Jan 2026 16:13:32 +0000",
-      "creator": "Decrypt",
-      "contentSnippet": "The global crypto market cap pushed another 2% to $3.22T as majors continue to grind up; BTC +1% at $93,780; ETH +2% at $3,240, SOL +3% at $139; XRP l...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Crypto is Green! Up 6-9%! Memes outperform! Pepe up 67%! Infinex Founder Interview!",
-      "link": "https://decrypt.co/videos/interviews/EmmJkWJn/crypto-is-green-up-6-9-memes-outperform-pepe-up-67-infinex-founder-interview",
-      "pubDate": "Mon, 05 Jan 2026 16:28:36 +0000",
-      "creator": "Decrypt",
-      "contentSnippet": "The global crypto market cap hit $3.16t (+1.5%) with majors trading higher; btc +2% at $93,000; eth +1% at $3,175, bnb +2.5% at $906, sol +1% at $135...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Crypto Wallets Can ‘Directly Compete With Neobanks'",
-      "link": "https://decrypt.co/videos/interviews/WsvLVFlp/crypto-wallets-can-directly-compete-with-neobanks",
-      "pubDate": "Mon, 05 Jan 2026 13:44:47 +0000",
-      "creator": "Decrypt",
-      "contentSnippet": "Bitget Wallet CMO Jamie Elkaleh tells Decrypt how the platform is evolving from a crypto wallet to a everyday finance app that seamlessly integrates c...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "2026 Crypto Predictions! Tom Lee still buying ETH! Rekt tease WorldStar collab! ",
-      "link": "https://decrypt.co/videos/interviews/dBDZqp65/2026-crypto-predictions-tom-lee-still-buying-eth-rekt-tease-worldstar-collab",
-      "pubDate": "Tue, 30 Dec 2025 16:29:12 +0000",
-      "creator": "Decrypt",
-      "contentSnippet": "Btc: 87k (0%) | btc.D: 59.0% (0%). Eth: 2975 (1%) | bnb: 855 (+1%) | sol: 124 (0%). Tom Lee bought another $130M in ETH for Christmas, and still holds...",
       "source": "Decrypt"
     }
   ]
