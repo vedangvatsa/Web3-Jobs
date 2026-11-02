@@ -90205,7 +90205,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "fcccd145-0da4-453a-a76a-1797b5d47fff",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae875fa339e85e6016a4714"
     }
   ]
 }
