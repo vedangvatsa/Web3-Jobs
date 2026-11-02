@@ -91044,7 +91044,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "32c5c016-7c9a-418e-8ea1-032f6862053b",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae876ae2dd80afa12f6756c"
     }
   ]
 }
