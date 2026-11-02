@@ -121277,7 +121277,7 @@
         "id": "56261a55f47928b1a14a",
         "day": "2026-11-02",
         "articleSlug": "etfoutflows",
-        "note": "Read Decrypt Nov. 1 ETF tracker story and bitcoin.com Oct. 31 outflow report; both confirm $643.2-643.3M spot bitcoin ETF net outflows on Friday Oct. 30, the first full session after the Binance hack, with IBIT -$233.7M, FBTC -$201.0M, ARKB -$129.5M, week -$202.6M, ETH -$155.85M, SOL -$10.74M. Draft and hero image still needed.",
+        "note": "Re-read Decrypt Nov. 1 ETF tracker story and bitcoin.com Oct. 31 outflow report this round; figures confirmed. Draft and hero image in progress.",
         "sourceChecks": [
           {
             "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
@@ -121288,7 +121288,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-02T04:54:16.045Z",
+        "updatedAt": "2026-11-02T04:56:01.645Z",
         "approved": false,
         "mustReview": true
       }
