@@ -12810,7 +12810,7 @@
     "sentAt": "2026-11-02T19:33:24.938Z"
   },
   "6f935372-784b-4141-aa29-c91b3ac78d6a": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-02T19:33:27.032Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -12924,6 +12924,8 @@
       }
     ],
     "message": "- Crypto.com is hiring <a href=\"https://hashtagweb3.com/an100?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business &amp; AI Process Automation Analyst</a>\n- Bitpanda is hiring <a href=\"https://hashtagweb3.com/cmp38?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Associate, AFC Compliance</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/aso22?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Executive Assistant</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/sci?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sanctions Crypto Investigator</a>\n- Coinbase is hiring <a href=\"https://hashtagweb3.com/infra52?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sr Manager, Infrastructure Sales</a>",
-    "slotKey": "2026-11-02:evening"
+    "slotKey": "2026-11-02:evening",
+    "messageId": 164,
+    "sentAt": "2026-11-02T19:33:29.931Z"
   }
 }
