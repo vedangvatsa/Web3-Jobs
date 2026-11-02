@@ -109879,7 +109879,7 @@
         "id": "255ced4ef652981507ee",
         "day": "2026-11-02",
         "articleSlug": "unitguard",
-        "note": "Read Unit's official X post (full text, Oct 30 9:21 AM) and TokenPost's Oct 30 report; The Defiant original remains Cloudflare-403. Two independent readable sources now confirmed. Draft, image and audits still needed.",
+        "note": "Rechecked Unit X post and TokenPost; two sources readable. Writing draft now.",
         "sourceChecks": [
           {
             "url": "https://x.com/unitxyz/status/2116098065262334073",
@@ -109888,13 +109888,9 @@
           {
             "url": "https://www.tokenpost.com/news/technology/44491",
             "outcome": "read"
-          },
-          {
-            "url": "https://thedefiant.io/news/defi/unit-delays-all-deposits-and-withdrawals-after-binance-breach",
-            "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-11-02T05:30:51.732Z",
+        "updatedAt": "2026-11-02T05:38:05.822Z",
         "approved": false,
         "mustReview": true
       }
