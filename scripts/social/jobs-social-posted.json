@@ -92780,7 +92780,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "75632e12-ed94-4b93-89be-42decb8edfcf",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae8e6f32e33fbc3e1b4c6e4"
     }
   ]
 }
