@@ -92867,7 +92867,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "25a5a5b3-ee1d-4ac8-aabf-7e61b7a3f918",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7523106792990552065"
     }
   ]
 }
