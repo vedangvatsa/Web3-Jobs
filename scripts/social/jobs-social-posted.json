@@ -91366,7 +91366,8 @@
       },
       "account": "channel:web3",
       "attemptId": "5984a4bb-4121-4d52-b6b5-412c22740622",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x1b3c65003510c15d645e92bf7fbf7b753f465d15"
     }
   ]
 }
