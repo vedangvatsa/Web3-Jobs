@@ -12808,5 +12808,122 @@
     "slotKey": "2026-11-02:evening",
     "messageId": 16601,
     "sentAt": "2026-11-02T19:33:24.938Z"
+  },
+  "6f935372-784b-4141-aa29-c91b3ac78d6a": {
+    "status": "reserved",
+    "reservedAt": "2026-11-02T19:33:27.032Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "bc9b829d-77a4-436d-85ba-d8973c461b54",
+          "title": "Business & AI Process Automation Analyst",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/bc9b829d-77a4-436d-85ba-d8973c461b54",
+          "date": "2026-10-20T06:23:09.880Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (Hong Kong)",
+          "workplaceType": "hybrid",
+          "department": "Corporate",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an100"
+        },
+        "key": "bc9b829d-77a4-436d-85ba-d8973c461b54",
+        "slug": "an100",
+        "url": "https://hashtagweb3.com/an100?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Business & AI Process Automation Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "5012230101",
+          "title": "Associate, AFC Compliance",
+          "company": "Bitpanda",
+          "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5012230101",
+          "date": "2026-10-22T08:52:14-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bitpanda [bitpanda]",
+          "location": "Vienna, Austria",
+          "department": "Legal & Compliance & Risk",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp38"
+        },
+        "key": "5012230101",
+        "slug": "cmp38",
+        "url": "https://hashtagweb3.com/cmp38?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitpanda",
+        "title": "Associate, AFC Compliance"
+      },
+      {
+        "snapshot": {
+          "id": "79ae4bca-6f6e-4c2c-b8bb-ddcbb7256c28",
+          "title": "Executive Assistant",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/79ae4bca-6f6e-4c2c-b8bb-ddcbb7256c28",
+          "date": "2026-10-22T13:10:08.128+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Business Expansion",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso22"
+        },
+        "key": "79ae4bca-6f6e-4c2c-b8bb-ddcbb7256c28",
+        "slug": "aso22",
+        "url": "https://hashtagweb3.com/aso22?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Executive Assistant"
+      },
+      {
+        "snapshot": {
+          "id": "8162450",
+          "title": "Sanctions Crypto Investigator",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8162450?t=gh_src=&gh_jid=8162450",
+          "date": "2026-10-27T13:40:29-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Denver, CO; New York, NY; Westlake, TX",
+          "department": "Financial Crimes",
+          "active": true,
+          "salary": "$94k – $110k/yr",
+          "dateVerified": true,
+          "slug": "sci"
+        },
+        "key": "8162450",
+        "slug": "sci",
+        "url": "https://hashtagweb3.com/sci?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Sanctions Crypto Investigator"
+      },
+      {
+        "snapshot": {
+          "id": "8311335",
+          "title": "Sr Manager, Infrastructure Sales",
+          "company": "Coinbase",
+          "link": "https://www.coinbase.com/careers/positions/8311335?gh_jid=8311335",
+          "date": "2026-10-21T20:27:21-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Coinbase [coinbase]",
+          "location": "Remote - USA",
+          "department": "Institutional Sales, Trading, and Prime Services",
+          "active": true,
+          "salary": "$294.2k – $346.1k/yr",
+          "dateVerified": true,
+          "slug": "infra52"
+        },
+        "key": "8311335",
+        "slug": "infra52",
+        "url": "https://hashtagweb3.com/infra52?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinbase",
+        "title": "Sr Manager"
+      }
+    ],
+    "message": "- Crypto.com is hiring <a href=\"https://hashtagweb3.com/an100?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business &amp; AI Process Automation Analyst</a>\n- Bitpanda is hiring <a href=\"https://hashtagweb3.com/cmp38?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Associate, AFC Compliance</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/aso22?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Executive Assistant</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/sci?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sanctions Crypto Investigator</a>\n- Coinbase is hiring <a href=\"https://hashtagweb3.com/infra52?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sr Manager, Infrastructure Sales</a>",
+    "slotKey": "2026-11-02:evening"
   }
 }
