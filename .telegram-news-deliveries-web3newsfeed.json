@@ -2979,5 +2979,36 @@
     "slotKey": "2026-11-01:evening",
     "messageId": 65797,
     "sentAt": "2026-11-01T19:36:36.965Z"
+  },
+  "e18c2bae-0fc9-4d1e-8675-67cc8f7bbcfd": {
+    "status": "reserved",
+    "reservedAt": "2026-11-02T11:35:30.004Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Solana Alpenglow update reduces transaction finality to 150 milliseconds",
+        "summary": "The October 21 activation replaces TowerBFT and lowers confirmation times from 12.8 seconds.",
+        "link": "https://hashtagweb3.com/alpenglowlive?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Solana Alpenglow goes live on mainnet, cutting finality to 150 milliseconds"
+      },
+      {
+        "index": -1,
+        "headline": "Strive holds 36,818 bitcoin before $700 million settlement",
+        "summary": "The company purchased 4,045 bitcoin this week ahead of its October 20 offering settlement date.",
+        "link": "https://hashtagweb3.com/strivesats?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Strive holds 36,818 bitcoin ahead of $700 million SATS settlement"
+      },
+      {
+        "index": -1,
+        "headline": "Zcash Developer Proposes Per-Swap Keys for Quantum Privacy",
+        "summary": "Zakura's design assigns unique viewing keys to NEAR Intents swap addresses to limit future quantum linking.",
+        "link": "https://hashtagweb3.com/zcashquantum?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Zcash builder Zakura proposes per-swap keys to close a quantum privacy gap"
+      }
+    ],
+    "slotKey": "2026-11-02:afternoon"
   }
 }
