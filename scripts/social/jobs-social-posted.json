@@ -91438,7 +91438,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "9480a5aa-305b-47d9-bc7b-f75ced72eff3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x95d3f86a68a80cbe4e400cf5aec2088c91e95eda"
     }
   ]
 }
