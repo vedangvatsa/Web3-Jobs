@@ -121332,7 +121332,7 @@
         "id": "a6af70760b7302f9b4ca",
         "day": "2026-11-02",
         "articleSlug": "b14gcore",
-        "note": "Read CryptoSlate Nov. 1 and Bitquery Oct. 31 primary on-chain investigation; both confirm 97.05M CORE ($1.47M) drained from 91 b14g staking positions at 09:29:51 UTC Oct. 31 via 99 zero-value withdrawal requests, pause 66 minutes later at 10:35:51, 68.15M CORE (70%) unmoved by 19:43 UTC, ~9M frozen per b14g (unverifiable on-chain), 11.0M routed to MEXC via fee-funding service, logic in place ~17 months, no admin key needed. Core DAO TokenPost 45685 found but not yet opened. Draft and hero image still needed.",
+        "note": "Re-read CryptoSlate Nov. 1 and Bitquery Oct. 31 investigation, and opened the third source (TokenPost 45685, Core DAO response). Draft and hero image in progress.",
         "sourceChecks": [
           {
             "url": "https://cryptoslate.com/zero-token-withdrawals-let-a-hacker-drain-97-million-core-from-bitcoin-staking-platform-b14g/",
@@ -121341,9 +121341,13 @@
           {
             "url": "https://bitquery.io/investigations/b14g-hack",
             "outcome": "read"
+          },
+          {
+            "url": "https://www.tokenpost.com/news/regulation/45685",
+            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-02T04:54:22.719Z",
+        "updatedAt": "2026-11-02T05:00:11.057Z",
         "approved": false,
         "mustReview": true
       }
