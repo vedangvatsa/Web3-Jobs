@@ -109879,7 +109879,7 @@
         "id": "255ced4ef652981507ee",
         "day": "2026-11-02",
         "articleSlug": "unitguard",
-        "note": "Rechecked Unit X post and TokenPost; two sources readable. Writing draft now.",
+        "note": "Re-read Unit X post and TokenPost in full this round; The Defiant still 403 on GET. Two independent sites readable (x.com primary, tokenpost.com). Drafting now.",
         "sourceChecks": [
           {
             "url": "https://x.com/unitxyz/status/2116098065262334073",
@@ -109888,9 +109888,13 @@
           {
             "url": "https://www.tokenpost.com/news/technology/44491",
             "outcome": "read"
+          },
+          {
+            "url": "https://thedefiant.io/news/defi/unit-delays-all-deposits-and-withdrawals-after-binance-breach",
+            "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-11-02T05:38:05.822Z",
+        "updatedAt": "2026-11-02T05:51:40.492Z",
         "approved": false,
         "mustReview": true
       }
