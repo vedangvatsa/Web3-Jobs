@@ -91546,7 +91546,8 @@
       },
       "account": "channel:build",
       "attemptId": "85825966-27ab-40b0-8ba1-027c5a124a41",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x58caa1e1096feb6cdd06e26767a2426960991e9f"
     }
   ]
 }
