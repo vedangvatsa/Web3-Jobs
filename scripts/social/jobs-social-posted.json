@@ -91955,7 +91955,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "2d93a3a0-0653-4da7-8385-901bbd1e36c4",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae8e633e0045ccb8d7c91bb"
     }
   ]
 }
