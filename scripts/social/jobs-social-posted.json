@@ -91194,7 +91194,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "0c8c0ac2-6225-40c7-abd0-01301459ff49",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae8e5782e33fbc3e1b448dc"
     }
   ]
 }
