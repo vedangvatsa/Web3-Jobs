@@ -121507,11 +121507,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "29154a4602c1e84fdde1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-02T04:39:30.853Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-04T09:08:24.000Z",
-      "lastSeenAt": "2026-11-02T04:39:30.853Z"
+      "lastSeenAt": "2026-11-02T04:39:30.853Z",
+      "reason": "not-a-concrete-event",
+      "note": "Explainer, not a concrete event. The Defiant original returned Cloudflare 403 on WebFetch and on a GET with the readiness User-Agent, but the Undercurrent syndication was opened and read: it is a TLDR of Circle's already-published second-quarter accounts (01.315M revenue and reserve income tracing to 8.214M net income) framed as 'how Circle makes money', filed under The Defiant's explainers alongside pieces on Uniswap position ranges and USDT vs USDC. The underlying Q2 results were reported months before Nov. 1, so this is analysis of old figures rather than a new development.",
+      "sourceChecks": [
+        {
+          "url": "https://undercurrent.capital/posts/how-circle-makes-money-from-usdcand-why-reserve-income-is-not-profit-cbfb83",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/cefi/how-circle-makes-money-from-usdc-and-why-reserve-income-is-not-profit",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-02T05:20:48.684Z",
+      "lastReviewedDay": "2026-11-02"
     },
     "33293c12393f414bd8e7": {
       "source": "BeInCrypto",
@@ -220846,6 +220860,22 @@
           ],
           "reviewedAt": "2026-11-02T05:19:58.782Z",
           "articleSlug": "anzalinux"
+        },
+        "29154a4602c1e84fdde1": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Explainer, not a concrete event. The Defiant original returned Cloudflare 403 on WebFetch and on a GET with the readiness User-Agent, but the Undercurrent syndication was opened and read: it is a TLDR of Circle's already-published second-quarter accounts (01.315M revenue and reserve income tracing to 8.214M net income) framed as 'how Circle makes money', filed under The Defiant's explainers alongside pieces on Uniswap position ranges and USDT vs USDC. The underlying Q2 results were reported months before Nov. 1, so this is analysis of old figures rather than a new development.",
+          "sourceChecks": [
+            {
+              "url": "https://undercurrent.capital/posts/how-circle-makes-money-from-usdcand-why-reserve-income-is-not-profit-cbfb83",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/cefi/how-circle-makes-money-from-usdc-and-why-reserve-income-is-not-profit",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-02T05:20:48.684Z"
         }
       },
       "baselineSlugs": [
