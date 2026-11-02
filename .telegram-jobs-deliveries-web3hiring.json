@@ -12570,5 +12570,122 @@
     "slotKey": "2026-11-02:afternoon",
     "messageId": 16600,
     "sentAt": "2026-11-02T11:33:32.045Z"
+  },
+  "94e975be-721f-49ae-a0a9-b2d4305502e7": {
+    "status": "reserved",
+    "reservedAt": "2026-11-02T11:33:42.746Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5012707101",
+          "title": "Onboarding - KYC Onboarding - Senior Associate",
+          "company": "B2C2",
+          "link": "https://job-boards.eu.greenhouse.io/b2c2/jobs/5012707101",
+          "date": "2026-10-21T11:29:41-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: B2C2 [b2c2]",
+          "location": "New York",
+          "department": "Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ob9"
+        },
+        "key": "5012707101",
+        "slug": "ob9",
+        "url": "https://hashtagweb3.com/ob9?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "B2C2",
+        "title": "KYC Onboarding - Senior Associate"
+      },
+      {
+        "snapshot": {
+          "id": "225dd840-3938-4fe4-84cd-cca280efafc2",
+          "title": "Software Engineer II - Rust - Pro",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/225dd840-3938-4fe4-84cd-cca280efafc2",
+          "date": "2026-10-13T19:21:10.828+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (Brazil)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rs13"
+        },
+        "key": "225dd840-3938-4fe4-84cd-cca280efafc2",
+        "slug": "rs13",
+        "url": "https://hashtagweb3.com/rs13?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Software Engineer II"
+      },
+      {
+        "snapshot": {
+          "id": "8288690",
+          "title": "Data Platform Engineer",
+          "company": "Flow Traders",
+          "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8288690",
+          "date": "2026-10-30T09:07:32-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Flow Traders [flowtraders]",
+          "location": "Amsterdam",
+          "department": "Data",
+          "active": true,
+          "slug": "eng588",
+          "dateVerified": true
+        },
+        "key": "8288690",
+        "slug": "eng588",
+        "url": "https://hashtagweb3.com/eng588?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Flow Traders",
+        "title": "Data Platform Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "398a73d4-e10f-491f-884e-4ab0b5560bc6",
+          "title": "Manager, Enterprise Technical Consulting",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/398a73d4-e10f-491f-884e-4ab0b5560bc6",
+          "date": "2026-10-30T22:22:42.298+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Sales",
+          "active": true,
+          "slug": "mgr220",
+          "dateVerified": true
+        },
+        "key": "398a73d4-e10f-491f-884e-4ab0b5560bc6",
+        "slug": "mgr220",
+        "url": "https://hashtagweb3.com/mgr220?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Manager, Enterprise Technical Consulting"
+      },
+      {
+        "snapshot": {
+          "id": "dd612889-7e10-4f9a-bcb0-fae2ec26ed66",
+          "title": "Head of Strategy",
+          "company": "Ellipsis Labs",
+          "link": "https://jobs.ashbyhq.com/ellipsislabs/dd612889-7e10-4f9a-bcb0-fae2ec26ed66",
+          "date": "2026-10-29T18:50:51.893+00:00",
+          "source": "Ashby: Ellipsis Labs [ellipsislabs]",
+          "location": "New York, NY",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Growth",
+          "active": true,
+          "dateVerified": true,
+          "slug": "str"
+        },
+        "key": "dd612889-7e10-4f9a-bcb0-fae2ec26ed66",
+        "slug": "str",
+        "url": "https://hashtagweb3.com/str?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ellipsis Labs",
+        "title": "Head of Strategy"
+      }
+    ],
+    "message": "- B2C2 is hiring <a href=\"https://hashtagweb3.com/ob9?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Onboarding - KYC Onboarding - Senior Associate</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/rs13?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer II - Rust - Pro</a>\n- Flow Traders is hiring <a href=\"https://hashtagweb3.com/eng588?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Data Platform Engineer</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/mgr220?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Enterprise Technical Consulting</a>\n- Ellipsis Labs is hiring <a href=\"https://hashtagweb3.com/str?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Strategy</a>",
+    "slotKey": "2026-11-02:afternoon"
   }
 }
