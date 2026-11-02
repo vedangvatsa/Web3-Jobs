@@ -91131,7 +91131,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "630cc8cd-0e73-45b9-a4d6-70d8144770b9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7522986239327842304"
     }
   ]
 }
