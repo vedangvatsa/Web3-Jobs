@@ -91440,6 +91440,41 @@
       "attemptId": "9480a5aa-305b-47d9-bc7b-f75ced72eff3",
       "verification": "verified",
       "postId": "0x95d3f86a68a80cbe4e400cf5aec2088c91e95eda"
+    },
+    {
+      "slug": "rec41",
+      "company": "BitGo",
+      "title": "Recruiter (Contract)",
+      "platform": "farcaster",
+      "postedAt": "2026-11-02T19:33:08.895Z",
+      "expectedText": "BitGo is hiring Recruiter (Contract)\n\nhttps://hashtagweb3.com/rec41/fc?og=7",
+      "snapshot": {
+        "id": "8893460002",
+        "title": "Recruiter (Contract)",
+        "company": "BitGo",
+        "link": "https://job-boards.greenhouse.io/bitgo/jobs/8893460002",
+        "date": "2026-10-15T19:03:55-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BitGo [bitgo]",
+        "location": "Palo Alto, CA",
+        "department": "People",
+        "active": true,
+        "salary": "$190k – $275k/yr",
+        "dateVerified": true,
+        "slug": "rec41"
+      },
+      "payload": {
+        "text": "BitGo is hiring Recruiter (Contract)\n\nhttps://hashtagweb3.com/rec41/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec41/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "3208b1d6-0136-4d8a-8e0f-a98be4b2d60b",
+      "verification": "creating"
     }
   ]
 }
