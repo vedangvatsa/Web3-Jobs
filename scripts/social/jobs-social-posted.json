@@ -90858,7 +90858,8 @@
       },
       "account": "channel:defi",
       "attemptId": "81241536-4a81-4eb0-9670-aebac6671a4c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9aa2956a266fea4e2cc6d1eb2a6812233fd1a261"
     }
   ]
 }
