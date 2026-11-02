@@ -12067,20 +12067,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-evt-jnnzTiiXQ3jkCaH",
-    "name": "Builders Pitch & Pizza Night: Uncork Capital x Silicon Hills Project",
-    "description": "",
-    "startDate": "2026-10-02T22:30:00.000Z",
-    "endDate": "2026-10-03T01:30:00.000Z",
-    "city": "Austin",
-    "country": "United States",
-    "location": "Austin, United States",
-    "url": "https://lu.ma/u7tm39f0",
-    "coverImage": "/events/luma-evt-jnnztiixq3jkcah-676fe9af.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-host-evt-evt-yNeFHGW3OsMkSd9",
     "name": "Solana Build Day Tokyo｜Solana × AI 実践ワークショップ",
     "description": "",
@@ -25935,7 +25921,7 @@
     "country": "us",
     "location": "Chicago, us",
     "url": "https://www.meetup.com/aittg-chicago/events/316901080/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316901080-e8ffd8c4.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -26662,7 +26648,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261101%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261101T230201Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=09afd9b0896c0310d6271e31ca616e8f90958f812ed75a471ec70e11e280f1af",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261102%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261102T044349Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=f7663531aa1102f9c9154db326b82c7abc74264e1a7b269beaa1fa727b3c79ae",
     "month": "November 2026"
   },
   {
@@ -28829,6 +28815,62 @@
     "location": "New York, United States",
     "url": "https://lu.ma/i4bz66av",
     "coverImage": "/events/luma-evt-wh7twtbyfsx5oau-0327a81c.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-eQ6fBJPJbEo97Cj",
+    "name": "Superteam CM Co-Working",
+    "description": "",
+    "startDate": "2026-11-02T06:00:00.000Z",
+    "endDate": "2026-11-02T09:00:00.000Z",
+    "city": "Amphoe Mueang Chiang Mai",
+    "country": "Thailand",
+    "location": "Amphoe Mueang Chiang Mai, Thailand",
+    "url": "https://luma.com/qt77l67h",
+    "coverImage": "/events/luma-host-evt-evt-eq6fbjpjbeo97cj-8876bea0.webp",
+    "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-7q5sJj37ZWkeNAc",
+    "name": "BUZOKU | AI & Crypto Meetup",
+    "description": "",
+    "startDate": "2026-11-04T18:30:00.000Z",
+    "endDate": "2026-11-04T20:00:00.000Z",
+    "city": "Barcelona",
+    "country": "Spain",
+    "location": "Barcelona, Spain",
+    "url": "https://lu.ma/v27ik7m7",
+    "coverImage": "/events/luma-evt-7q5sjj37zwkenac-d688c3d9.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-FyhuoitprIMCIGH",
+    "name": "SYSTEM UPDATE with The Pragmatic Engineer",
+    "description": "",
+    "startDate": "2026-11-06T01:00:00.000Z",
+    "endDate": "2026-11-06T04:00:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/systemupdate",
+    "coverImage": "/events/luma-evt-fyhuoitprimcigh-7aa52cb3.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-5fsMatduexJDL8i",
+    "name": "Crypto AI And Chill",
+    "description": "",
+    "startDate": "2026-11-12T02:00:00.000Z",
+    "endDate": "2026-11-12T04:00:00.000Z",
+    "city": "Newport Beach",
+    "country": "United States",
+    "location": "Newport Beach, United States",
+    "url": "https://lu.ma/rzk1407q",
+    "coverImage": "/events/luma-evt-5fsmatduexjdl8i-1832437b.webp",
     "source": "luma",
     "month": "November 2026"
   }

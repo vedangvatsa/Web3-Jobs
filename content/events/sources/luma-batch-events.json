@@ -668,64 +668,6 @@
     }
   },
   {
-    "id": "luma-batch-D7DHEvhxQaPwdc1",
-    "slug": "0psua4hi",
-    "name": "The Future of Finance Summit",
-    "description": "The Future of Finance Summit\n\nThe infrastructure of finance is being rebuilt.\n\nAI-native systems, programmable money, tokenized assets, and autonomous commerce are beginning to reshape how financial services are built and delivered.\n\nJoin us at UC Berkeley for the inaugural Future of Finance Summit, bringing together founders, investors, executives, researchers, and students shaping the next generation of global finance.\n\nOrganized by the Haas Blockchain Club and Haas Fintech Club, and sponsored by the Berkeley Center for Digital Assets, Berkeley SkyDeck Blockchain and Fintech Track, and the Berkeley Haas Fong Master of Financial Engineering Program, the summit will explore how AI, fintech, stablecoins, tokenization, and agentic commerce are transforming financial infrastructure and services.\n\nExpect a keynote from Prakhar Mehrotra, SVP and Global Head of AI at PayPal, plus expert panels featuring leaders across finance and technology, curated networking, and a closing reception.\n\nConfirmed Speakers\n\nPrakhar Mehrotra — SVP, Global Head of AI, PayPal\n\nSabira Alloo — Senior Managing Director & Global Head of Private Equity, OpenAI\n\nShreya Adiraju — Policy Development and Strategy Lead, Stripe\n\nMatt Austin — Senior Director, Stablecoins, Visa\n\nMatt Yalowitz — Head of Ventures, Stripe\n\nSophie Marnhier-Foy — VP, Product Strategy, Head of Digital Assets Solutions, Nasdaq\n\nMatthew Danzig — Managing Director, FinTech, Lazard\n\nGagan Mac — VP Product, Head of Developer Products, Circle\n\nMatt Hougan — Chief Investment Officer, Bitwise\n\nDavid Lawant — Head of Research, Anchorage Digital\n\nZev Shimko — Head of Agentic Banking, Anchorage Digital\n\nSina Nader — Head of Network Growth, Canton Network\n\nChi Zhang — Co-founder & CEO, Kite\n\nStephen Hedlund — Head of Finance, Rillet\n\nShivam Bharuka — Founder & CEO, Finn (formerly Finvest)\n\nSpencer Yang — Managing Partner, BlockSpaceForce\n\nYody Chiu — Product Lead, AI, Airwallex\n\nMore speakers to be announced.\n\nThe full agenda will be announced during the week of September 21.\n\nLogistics\n\n📍 Jarvis Auditorium, UC Berkeley\n\n📅 Friday, October 2, 2026\n\n🕣 8:30 AM – 5:00 PM\n\nCoffee, light breakfast, lunch, and refreshments will be provided throughout the day.\n\nRegistration\n\nComplimentary tickets are reserved for currently enrolled UC Berkeley students only. To register for a student ticket, please use your @berkeley.edu email address and the dedicated student registration link/code shared through Berkeley student channels. Student registrations may be reviewed to confirm current enrollment.\n\nIndustry professionals, alumni, and other guests are kindly asked to register using a paid ticket.\n\nSpots are limited. Register to join the builders and leaders shaping the future of finance.",
-    "startDate": "2026-10-02T15:30:00.000Z",
-    "endDate": "2026-10-03T00:30:00.000Z",
-    "city": "Berkeley",
-    "country": "United States",
-    "location": "Berkeley, California, United States",
-    "url": "https://luma.com/0psua4hi",
-    "registrationUrl": "https://luma.com/0psua4hi",
-    "coverImage": "/events/luma-batch-D7DHEvhxQaPwdc1-09a9698f.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Larry Wang",
-      "James Takami",
-      "Haas Blockchain Club",
-      "Haas Fintech Club",
-      "Yidi",
-      "Taylor Dahlgren"
-    ],
-    "price": "USD 30",
-    "approvalRequired": false,
-    "timezone": "America/Los_Angeles",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "Berkeley",
-    "addressRegion": "California",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "Larry Wang"
-    },
-    "ticketOffers": [
-      {
-        "name": "Industry Professionals (EARLY)",
-        "url": "https://luma.com/0psua4hi",
-        "price": 30,
-        "availability": "InStock"
-      },
-      {
-        "name": "Industry Professionals (REG)",
-        "url": "https://luma.com/0psua4hi",
-        "price": 45,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/0psua4hi",
-      "eventId": "evt-D7DHEvhxQaPwdc1",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-plkQDIgx2uXuvPr",
     "slug": "tfot-globalinnovationshowcase2026",
     "name": "TFOT: Global Innovation Showcase: Deep Tech, Dual Tech, FinTech, Web3, Global Expansion and Scaling at SF War Memorial",
@@ -2384,34 +2326,6 @@
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-KKgrPCY2VBv0rcx",
-    "slug": "superteam-v13q",
-    "name": "Saturday Builder Support Window",
-    "description": "The usual Saturday support window, run from Singapore.\n\nThe normal Saturday slot, running as an open support window this week.\n\nA drop-in room for whatever is in the way: a technical problem, a scope decision, a question about what the submission actually needs. This is the last weekend before the final sprint week, so it's a good moment to get an outside read on whether your plan for the remaining days is realistic.\n\nRun remotely from Singapore. 10am AEST is 8am SGT. Daylight saving starts in NSW, Victoria, SA and Tasmania the next day, so this is the last session on AEST.\n\nWho it's for: Anyone building toward the deadline.\n\nYou'll leave with: A realistic plan for the final week.\n\nFree and open. Drop in for as long as you need.\n\nhttps://au.superteam.fun/colosseum for more information",
-    "startDate": "2026-10-03T00:00:00.000Z",
-    "endDate": "2026-10-03T02:00:00.000Z",
-    "url": "https://luma.com/superteam-v13q",
-    "registrationUrl": "https://luma.com/superteam-v13q",
-    "coverImage": "/events/luma-batch-KKgrPCY2VBv0rcx-98e5d07e.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Darren R",
-      "Superteam Australia"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "Australia/Brisbane",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "sourceVerification": {
-      "url": "https://luma.com/superteam-v13q",
-      "eventId": "calev-KKgrPCY2VBv0rcx",
-      "fetchedAt": "2026-09-22T11:31:03.000Z",
-      "method": "luma-page",
-      "apifyRunId": "WHcLsVUsFvlHmcVYz"
     }
   },
   {

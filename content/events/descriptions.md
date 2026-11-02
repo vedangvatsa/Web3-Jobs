@@ -22769,116 +22769,6 @@ Location: Seongsu, Seoul
 
 Select experiences, merchandise, and giveaways will be available in limited quantities and while supplies last.
 
-<a id="event-ec60103a7813fa70"></a>
-
-## The Future of Finance Summit
-
-- Record: `luma-batch-D7DHEvhxQaPwdc1`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-02T15:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/0psua4hi>
-
-### About the event
-
-The Future of Finance Summit
-
-The infrastructure of finance is being rebuilt.
-
-AI-native systems, programmable money, tokenized assets, and autonomous commerce are beginning to reshape how financial services are built and delivered.
-
-Join us at UC Berkeley for the inaugural Future of Finance Summit, bringing together founders, investors, executives, researchers, and students shaping the next generation of global finance.
-
-Organized by the Haas Blockchain Club and Haas Fintech Club, and sponsored by the Berkeley Center for Digital Assets, Berkeley SkyDeck Blockchain and Fintech Track, and the Berkeley Haas Fong Master of Financial Engineering Program, the summit will explore how AI, fintech, stablecoins, tokenization, and agentic commerce are transforming financial infrastructure and services.
-
-Expect a keynote from Prakhar Mehrotra, SVP and Global Head of AI at PayPal, plus expert panels featuring leaders across finance and technology, curated networking, and a closing reception.
-
-Confirmed Speakers
-
-Prakhar Mehrotra - SVP, Global Head of AI, PayPal
-
-Sabira Alloo - Senior Managing Director & Global Head of Private Equity, OpenAI
-
-Shreya Adiraju - Policy Development and Strategy Lead, Stripe
-
-Matt Austin - Senior Director, Stablecoins, Visa
-
-Matt Yalowitz - Head of Ventures, Stripe
-
-Sophie Marnhier-Foy - VP, Product Strategy, Head of Digital Assets Solutions, Nasdaq
-
-Matthew Danzig - Managing Director, FinTech, Lazard
-
-Gagan Mac - VP Product, Head of Developer Products, Circle
-
-Matt Hougan - Chief Investment Officer, Bitwise
-
-David Lawant - Head of Research, Anchorage Digital
-
-Zev Shimko - Head of Agentic Banking, Anchorage Digital
-
-Sina Nader - Head of Network Growth, Canton Network
-
-Chi Zhang - Co-founder & CEO, Kite
-
-Stephen Hedlund - Head of Finance, Rillet
-
-Shivam Bharuka - Founder & CEO, Finn (formerly Finvest)
-
-Spencer Yang - Managing Partner, BlockSpaceForce
-
-Yody Chiu - Product Lead, AI, Airwallex
-
-More speakers to be announced.
-
-The full agenda will be announced during the week of September 21.
-
-Logistics
-
-Jarvis Auditorium, UC Berkeley
-
-Friday, October 2, 2026
-
-8:30 AM - 5:00 PM
-
-Coffee, light breakfast, lunch, and refreshments will be provided throughout the day.
-
-### Registration
-
-Complimentary tickets are reserved for currently enrolled UC Berkeley students only. To register for a student ticket, please use your @berkeley.edu email address and the dedicated student registration link/code shared through Berkeley student channels. Student registrations may be reviewed to confirm current enrollment.
-
-Industry professionals, alumni, and other guests are kindly asked to register using a paid ticket.
-
-Spots are limited. Register to join the builders and leaders shaping the future of finance.
-
-<a id="event-93d89db7f3296ab3"></a>
-
-## Saturday Builder Support Window
-
-- Record: `luma-batch-KKgrPCY2VBv0rcx`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-03T00:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/superteam-v13q>
-
-### About the event
-
-The usual Saturday support window, run from Singapore.
-
-The normal Saturday slot, running as an open support window this week.
-
-A drop-in room for whatever is in the way: a technical problem, a scope decision, a question about what the submission actually needs. This is the last weekend before the final sprint week, so it's a good moment to get an outside read on whether your plan for the remaining days is realistic.
-
-Run remotely from Singapore. 10am AEST is 8am SGT. Daylight saving starts in NSW, Victoria, SA and Tasmania the next day, so this is the last session on AEST.
-
-Who it's for: Anyone building toward the deadline.
-
-You'll leave with: A realistic plan for the final week.
-
-Free and open. Drop in for as long as you need.
-
-https://au.superteam.fun/colosseum for more information
-
 <a id="event-9da39e7e8802159a"></a>
 
 ## Monad Blitz Pune V3
@@ -33566,18 +33456,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-02T07:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://dark.events/events/prague/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-541a67f7c1067634"></a>
-
-## Builders Pitch & Pizza Night: Uncork Capital x Silicon Hills Project
-
-- Record: `luma-evt-jnnzTiiXQ3jkCaH`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-02T22:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/u7tm39f0>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -53150,6 +53028,18 @@ Solana Summit India is a one-day program of talks, panels and workshops about th
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-95dd25e1a0ab3a0f"></a>
+
+## Superteam CM Co-Working
+
+- Record: `luma-host-evt-evt-eQ6fBJPJbEo97Cj`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-02T06:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/qt77l67h>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-4cdf9a4a439a8b23"></a>
 
 ## Ripple & HashKey Group: Institutional Networking Night
@@ -54316,6 +54206,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-5c9230c5ec90a2bc"></a>
+
+## BUZOKU \| AI & Crypto Meetup
+
+- Record: `luma-evt-7q5sJj37ZWkeNAc`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T18:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/v27ik7m7>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-e33cef5c3f8859e7"></a>
 
 ## Wednesday RIPPLE Making for Adults
@@ -54761,6 +54663,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-06T01:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/qawasswk>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-b11eb58d9a4d51d1"></a>
+
+## SYSTEM UPDATE with The Pragmatic Engineer
+
+- Record: `luma-evt-FyhuoitprIMCIGH`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-06T01:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/systemupdate>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -55488,6 +55402,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-11T19:00:00-07:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/seasoned-readers/events/315752491/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-9b4a24d90c4e3329"></a>
+
+## Crypto AI And Chill
+
+- Record: `luma-evt-5fsMatduexJDL8i`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-12T02:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/rzk1407q>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
