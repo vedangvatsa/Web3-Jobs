@@ -90498,7 +90498,8 @@
       },
       "account": "channel:web3",
       "attemptId": "4c7983d8-2a08-4cf2-91dc-6ef1f9120625",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc2d973bca6d4d918af39dfbf628800ae489ff520"
     }
   ]
 }
