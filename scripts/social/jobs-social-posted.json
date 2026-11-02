@@ -91870,7 +91870,8 @@
       },
       "account": "channel:growth",
       "attemptId": "1b0ea6ec-3ccb-4889-8dbb-d9c17748abcb",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5692610a0f91db4aa38ba2e9bddb419e5ae3cdb4"
     }
   ]
 }
