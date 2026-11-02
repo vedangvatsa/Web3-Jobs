@@ -2846,5 +2846,36 @@
     "slotKey": "2026-11-01:evening",
     "messageId": 156043,
     "sentAt": "2026-11-01T19:37:09.459Z"
+  },
+  "49769a73-ee80-47c8-836c-2093769edea1": {
+    "status": "reserved",
+    "reservedAt": "2026-11-02T11:35:56.467Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Starknet community votes to research independent layer 1 blockchain",
+        "summary": "StarkWare and the Starknet Foundation started joint technical studies following the non-binding vote on October 22.",
+        "link": "https://hashtagweb3.com/starknetresearch?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Starknet poll backs layer 1 research with 93.5% of voting power"
+      },
+      {
+        "index": -1,
+        "headline": "XRP Ledger Fixes Lending Code Before Feature Activation",
+        "summary": "An October 23 update repairs uncollateralized lending design while the amendment remains in the voting queue.",
+        "link": "https://hashtagweb3.com/xrplending?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "XRP Ledger patches its lending code before the feature ever turns on"
+      },
+      {
+        "index": -1,
+        "headline": "JPMorgan Expands JPM Coin to Ethereum Mainnet",
+        "summary": "The Oct. 19 deployment allows approved institutional clients to use the deposit token beyond the Base network.",
+        "link": "https://hashtagweb3.com/jpmcoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "JPMorgan brings JPM Coin to Ethereum for institutional clients"
+      }
+    ],
+    "slotKey": "2026-11-02:afternoon"
   }
 }
