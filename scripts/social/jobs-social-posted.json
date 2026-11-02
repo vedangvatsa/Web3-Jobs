@@ -89300,6 +89300,42 @@
       "verification": "verified",
       "postId": "6ae8752ae364127fe0d855b4",
       "permalink": "https://twitter.com/hashtag_web3/status/2117218676260688066"
+    },
+    {
+      "slug": "cmp131",
+      "company": "Bitdeer",
+      "title": "Senior Legal Counsel, Litigation & Regulatory Affairs",
+      "platform": "threads",
+      "postedAt": "2026-11-02T11:33:52.221Z",
+      "expectedText": "Bitdeer is hiring Senior Legal Counsel, Litigation & Regulatory Affairs: https://hashtagweb3.com/cmp131/th?og=7",
+      "snapshot": {
+        "id": "63526b406ecf",
+        "title": "Senior Legal Counsel, Litigation & Regulatory Affairs",
+        "company": "Bitdeer",
+        "link": "https://bitdeer.breezy.hr/p/63526b406ecf-senior-legal-counsel-litigation-regulatory-affairs",
+        "date": "2026-10-28",
+        "dateVerified": true,
+        "dateSource": "Breezy.JobPosting.datePosted",
+        "source": "Breezy: Bitdeer [bitdeer]",
+        "location": "DC",
+        "isRemote": false,
+        "department": "Legal",
+        "active": true,
+        "dateEvidence": {
+          "url": "https://bitdeer.breezy.hr/p/63526b406ecf-senior-legal-counsel-litigation-regulatory-affairs",
+          "checkedAt": "2026-10-29T03:36:54.814Z",
+          "bodySha256": "939b24a862e45e678cdf11dbd1e4dca74059ca1e8970c06522da073845fe5e58",
+          "provider": "breezy",
+          "datePosted": "2026-10-28"
+        },
+        "slug": "cmp131"
+      },
+      "payload": {
+        "text": "Bitdeer is hiring Senior Legal Counsel, Litigation & Regulatory Affairs: https://hashtagweb3.com/cmp131/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/cmp131/th?og=7"
+      },
+      "attemptId": "ced53dae-1935-4cc5-8785-c4fabcd06ab8",
+      "verification": "creating"
     }
   ]
 }
