@@ -866,6 +866,9 @@
   "https://hashtagweb3.com/tethermural?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/bitgetthai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/ramptrust?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/starknetresearch?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/xrplending?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/jpmcoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2504,6 +2507,12 @@
   "Bitget plans Thai exchange acquisition after $388 million hack",
   "Ramp Seeks Federal Charter for Digital Asset Custody",
   "Ramp applies to the OCC for a national trust bank and digital asset custody",
+  "Starknet community votes to research independent layer 1 blockchain",
+  "Starknet poll backs layer 1 research with 93.5% of voting power",
+  "XRP Ledger Fixes Lending Code Before Feature Activation",
+  "XRP Ledger patches its lending code before the feature ever turns on",
+  "JPMorgan Expands JPM Coin to Ethereum Mainnet",
+  "JPMorgan brings JPM Coin to Ethereum for institutional clients",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2920,5 +2929,8 @@
   "fp:activation|around|block|developer|from75|height|lock|mainnet|nov|november",
   "fp:15m|account|agent|control|develop|fintech|invest|lead|mural|payment",
   "fp:388m|acquir|acquisition|bitget|buy|despit|exchang|hack|involv|issu",
-  "fp:apply|asset|bank|charter|custody|deposit|digital|federal|fiduciary|fil"
+  "fp:apply|asset|bank|charter|custody|deposit|digital|federal|fiduciary|fil",
+  "fp:back|bind|blockchain|community|follow|foundation|independent|joint|layer1|non",
+  "fp:activation|amendment|cod|design|ever|featur|fix|ledger|lend|october23",
+  "fp:allow|approv|bas|beyond|client|coin|deployment|deposit|expand|institutional"
 ]
