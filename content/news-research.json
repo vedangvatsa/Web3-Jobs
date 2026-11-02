@@ -115852,9 +115852,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "7e83a11224f244c8fb2e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-31T03:31:46.182Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-02T21:16:41.000Z",
       "lastSeenAt": "2026-10-31T03:31:46.182Z",
       "reason": "duplicate",
@@ -115865,9 +115865,10 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-01T03:58:21.796Z",
+      "reviewedAt": "2026-11-02T05:07:48.912Z",
       "duplicateOf": "lummisclarity",
-      "lastReviewedDay": "2026-11-01"
+      "lastReviewedDay": "2026-11-02",
+      "mergedInto": "e8a0cc4f409e9496577b"
     },
     "7519084819981865bd3c": {
       "source": "The Defiant",
@@ -220740,6 +220741,20 @@
           ],
           "reviewedAt": "2026-11-02T05:07:39.015Z",
           "articleSlug": "lummisclarity"
+        },
+        "7e83a11224f244c8fb2e": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Crypto Briefing story and same Lummis covered-person statement as e8a0cc4f409e9496577b, published 13 seconds earlier on the same site with identical facts; covered by the ready lummisclarity article.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/lummis-clarity-act-binance-covered-person/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-02T05:07:48.912Z",
+          "duplicateOf": "lummisclarity",
+          "mergedInto": "e8a0cc4f409e9496577b"
         }
       },
       "baselineSlugs": [
