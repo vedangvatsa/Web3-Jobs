@@ -542,6 +542,22 @@
         "rolloutId": "daily-20261102-41510492292-1",
         "buildState": "FAILED",
         "observedAt": "2026-11-02T19:45:52.566Z"
+      },
+      {
+        "date": "2026-11-02",
+        "id": "41522983581-1",
+        "sourceCommit": "75d16babed24bf95f761c22ae7f5da569c9c13f4",
+        "jobsCheckedAt": "2026-11-02T04:47:05.652Z",
+        "newsCompletedAt": "2026-11-02T06:26:34.481Z",
+        "articleSlugs": [
+          "etfoutflows",
+          "b14gcore",
+          "anzalinux"
+        ],
+        "phase": "building",
+        "startedAt": "2026-11-02T20:53:23.007Z",
+        "buildId": "daily-20261102-41522983581-1",
+        "rolloutId": "daily-20261102-41522983581-1"
       }
     ]
   }
