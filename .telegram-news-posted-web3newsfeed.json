@@ -905,6 +905,9 @@
   "https://hashtagweb3.com/alpenglowlive?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/strivesats?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/zcashquantum?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/imf-salvador?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/garantex-sanctions?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2614,6 +2617,12 @@
   "Strive holds 36,818 bitcoin ahead of $700 million SATS settlement",
   "Zcash Developer Proposes Per-Swap Keys for Quantum Privacy",
   "Zcash builder Zakura proposes per-swap keys to close a quantum privacy gap",
+  "IMF Disburses 138 Million Dollars to El Salvador",
+  "IMF clears 138 million dollars for El Salvador after Bitcoin waivers",
+  "Japan Sanctions Crypto Exchange Garantex",
+  "Japan adds Garantex crypto exchange to Russia sanctions",
+  "StoneX maintains buy rating for Securitize after DTCC launch",
+  "DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -3048,5 +3057,8 @@
   "fp:1931m|193m|authorization|buyback|cap|dur|end|increas|lift|october18",
   "fp:activation|alpenglow|confirmation|cutt|finality|from128|goe|liv|lower|mainnet",
   "fp:045|700m|818|ahead|dat|holds36|october20|offer|purchased4|sat",
-  "fp:address|assign|builder|clos|design|developer|futur|gap|intent|limit"
+  "fp:address|assign|builder|clos|design|developer|futur|gap|intent|limit",
+  "fp:138m|accumulation|clear|country|despit|disburs|dollar|fail|fund|imf",
+  "fp:2026|add|effectiv|exchang|garantex|government|japan|japanes|list|october2",
+  "fp:accelerat|adoption|analyst|believ|boost|business|buy|dtcc|maintain|rat"
 ]

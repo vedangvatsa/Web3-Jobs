@@ -3014,7 +3014,7 @@
     "sentAt": "2026-11-02T11:35:47.070Z"
   },
   "2603d153-674b-462b-bfc7-a6eb43eaf0ad": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-02T19:38:37.246Z",
     "stories": [
       {
@@ -3042,6 +3042,8 @@
         "originalTitle": "DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says"
       }
     ],
-    "slotKey": "2026-11-02:evening"
+    "slotKey": "2026-11-02:evening",
+    "messageId": 65799,
+    "sentAt": "2026-11-02T19:38:48.717Z"
   }
 }
