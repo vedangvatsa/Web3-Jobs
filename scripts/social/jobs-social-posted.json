@@ -92823,7 +92823,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "9d8ad749-fd92-4b11-b387-fd04920ac4eb",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae8e7102e33fbc3e1b4cbc4"
     }
   ]
 }
