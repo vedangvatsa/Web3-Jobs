@@ -90570,7 +90570,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "90d703c0-887e-471f-a2c8-5b47cdaa5734",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xacdd8736a5eb182f6097a8c4515759bbc835a6f1"
     }
   ]
 }
