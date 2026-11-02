@@ -969,6 +969,14 @@
     "lastUrl": "https://hashtagweb3.com/pm225",
     "updatedAt": "2026-10-29T03:35:28.772Z"
   },
+  "8162450": {
+    "slugs": [
+      "sci"
+    ],
+    "lastSlug": "sci",
+    "lastUrl": "https://hashtagweb3.com/sci",
+    "updatedAt": "2026-11-02T19:33:24.938Z"
+  },
   "8164943": {
     "slugs": [
       "developer40",
@@ -1439,6 +1447,14 @@
     "lastSlug": "mgr201",
     "lastUrl": "https://hashtagweb3.com/mgr201",
     "updatedAt": "2026-10-30T11:32:44.201Z"
+  },
+  "8311335": {
+    "slugs": [
+      "infra52"
+    ],
+    "lastSlug": "infra52",
+    "lastUrl": "https://hashtagweb3.com/infra52",
+    "updatedAt": "2026-11-02T19:33:24.938Z"
   },
   "8311680": {
     "slugs": [
@@ -6353,5 +6369,29 @@
     "lastSlug": "str",
     "lastUrl": "https://hashtagweb3.com/str",
     "updatedAt": "2026-11-02T11:33:50.300Z"
+  },
+  "bc9b829d-77a4-436d-85ba-d8973c461b54": {
+    "slugs": [
+      "an100"
+    ],
+    "lastSlug": "an100",
+    "lastUrl": "https://hashtagweb3.com/an100",
+    "updatedAt": "2026-11-02T19:33:24.938Z"
+  },
+  "5012230101": {
+    "slugs": [
+      "cmp38"
+    ],
+    "lastSlug": "cmp38",
+    "lastUrl": "https://hashtagweb3.com/cmp38",
+    "updatedAt": "2026-11-02T19:33:24.938Z"
+  },
+  "79ae4bca-6f6e-4c2c-b8bb-ddcbb7256c28": {
+    "slugs": [
+      "aso22"
+    ],
+    "lastSlug": "aso22",
+    "lastUrl": "https://hashtagweb3.com/aso22",
+    "updatedAt": "2026-11-02T19:33:24.938Z"
   }
 }
