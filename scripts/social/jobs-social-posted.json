@@ -90108,6 +90108,54 @@
       "attemptId": "e2f0c591-976a-4123-8fb3-acccc5b4a894",
       "verification": "verified",
       "postId": "0x47287528eb5d8ca3d68dd7e25ab76bd88f34adf0"
+    },
+    {
+      "slug": "cmp131",
+      "company": "Bitdeer",
+      "title": "Senior Legal Counsel, Litigation & Regulatory Affairs",
+      "platform": "linkedin",
+      "postedAt": "2026-11-02T11:33:52.221Z",
+      "expectedText": "Bitdeer is hiring Senior Legal Counsel, Litigation & Regulatory Affairs: https://hashtagweb3.com/cmp131/li?og=7",
+      "snapshot": {
+        "id": "63526b406ecf",
+        "title": "Senior Legal Counsel, Litigation & Regulatory Affairs",
+        "company": "Bitdeer",
+        "link": "https://bitdeer.breezy.hr/p/63526b406ecf-senior-legal-counsel-litigation-regulatory-affairs",
+        "date": "2026-10-28",
+        "dateVerified": true,
+        "dateSource": "Breezy.JobPosting.datePosted",
+        "source": "Breezy: Bitdeer [bitdeer]",
+        "location": "DC",
+        "isRemote": false,
+        "department": "Legal",
+        "active": true,
+        "dateEvidence": {
+          "url": "https://bitdeer.breezy.hr/p/63526b406ecf-senior-legal-counsel-litigation-regulatory-affairs",
+          "checkedAt": "2026-10-29T03:36:54.814Z",
+          "bodySha256": "939b24a862e45e678cdf11dbd1e4dca74059ca1e8970c06522da073845fe5e58",
+          "provider": "breezy",
+          "datePosted": "2026-10-28"
+        },
+        "slug": "cmp131"
+      },
+      "payload": {
+        "text": "Bitdeer is hiring Senior Legal Counsel, Litigation & Regulatory Affairs: https://hashtagweb3.com/cmp131/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/cmp131/li?og=7",
+          "title": "Senior Legal Counsel, Litigation & Regulatory Affairs at Bitdeer",
+          "description": "Join Bitdeer as Senior Legal Counsel, Litigation &. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/cmp131.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "ebabf87d-2da8-4de7-97ce-fb704dafff96",
+      "verification": "creating"
     }
   ]
 }
