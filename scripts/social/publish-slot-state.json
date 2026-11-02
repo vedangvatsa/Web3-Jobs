@@ -554,10 +554,12 @@
           "b14gcore",
           "anzalinux"
         ],
-        "phase": "building",
+        "phase": "build-failed",
         "startedAt": "2026-11-02T20:53:23.007Z",
         "buildId": "daily-20261102-41522983581-1",
-        "rolloutId": "daily-20261102-41522983581-1"
+        "rolloutId": "daily-20261102-41522983581-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-02T21:10:01.389Z"
       }
     ]
   }
