@@ -90020,7 +90020,8 @@
       },
       "account": "channel:product",
       "attemptId": "26238a02-652f-40b5-bed0-eca0b128b1c1",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd69694b68fd4656e95023fdeac5953d3fffd879b"
     }
   ]
 }
