@@ -90155,8 +90155,9 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "ebabf87d-2da8-4de7-97ce-fb704dafff96",
-      "verification": "pending",
-      "postId": "6ae875da339e85e6016a3a3c"
+      "verification": "verified",
+      "postId": "6ae875da339e85e6016a3a3c",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7522985190286352385"
     }
   ]
 }
