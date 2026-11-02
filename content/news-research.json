@@ -119177,23 +119177,23 @@
       "id": "2f4d5f80180695daba38",
       "status": "deferred",
       "firstSeenAt": "2026-11-01T03:32:04.135Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-03T05:01:32.000Z",
       "lastSeenAt": "2026-11-01T03:32:04.135Z",
       "reason": "source-blocked",
-      "note": "Retried the CoinDesk Oct. 31 markets story on Nov. 1 with the readiness User-Agent; it still returns HTTP 429. The piece compares the stolen bitcoin haul to Tesla and El Salvador holdings, so its concrete figures need a readable copy before any review can judge scope.",
+      "note": "Second attempt on Nov. 2 with the readiness User-Agent: CoinDesk Oct. 31 markets URL still returns HTTP 429. The comparison of the stolen bitcoin haul to Tesla and El Salvador holdings still needs a readable copy before any review can judge scope.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-01T04:01:08.483Z",
+      "reviewedAt": "2026-11-02T04:47:00.154Z",
       "retrySearches": [
         "Find a readable copy or independent restatement of the CoinDesk comparison of Binance-hack stolen bitcoin against Tesla and El Salvador holdings, with the underlying BTC amounts"
       ],
-      "lastReviewedDay": "2026-11-01",
-      "nextReviewDate": "2026-11-02"
+      "lastReviewedDay": "2026-11-02",
+      "nextReviewDate": "2026-11-03"
     },
     "f21a9464fc01aeba165e": {
       "source": "CoinDesk",
@@ -220548,6 +220548,21 @@
           "reviewedAt": "2026-11-02T04:46:55.772Z",
           "retrySearches": [
             "Find readable independent technical reporting on the EIP-7702 delegation that drained about .5 billion from Binance 14 in under four minutes, including the 50-authorization nonce-range mechanism, beyond CoinDesk"
+          ]
+        },
+        "2f4d5f80180695daba38": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Second attempt on Nov. 2 with the readiness User-Agent: CoinDesk Oct. 31 markets URL still returns HTTP 429. The comparison of the stolen bitcoin haul to Tesla and El Salvador holdings still needs a readable copy before any review can judge scope.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-02T04:47:00.154Z",
+          "retrySearches": [
+            "Find a readable copy or independent restatement of the CoinDesk comparison of Binance-hack stolen bitcoin against Tesla and El Salvador holdings, with the underlying BTC amounts"
           ]
         }
       },
