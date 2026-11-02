@@ -91330,7 +91330,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "ad817154-9653-4f96-b72a-f49a3b88e600",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xbe592d8dbacf6f73e41d7e918f36f8bd211c4423"
     }
   ]
 }
