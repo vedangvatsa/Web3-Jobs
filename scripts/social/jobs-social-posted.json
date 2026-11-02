@@ -91510,7 +91510,8 @@
       },
       "account": "channel:developers",
       "attemptId": "5d86f2f9-4abe-4a46-a980-be0d1f6bc418",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7588c89da1e736354d53d9b8a293f177cce7737b"
     }
   ]
 }
