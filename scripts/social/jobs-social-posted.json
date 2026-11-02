@@ -92378,7 +92378,8 @@
       },
       "account": "channel:developers",
       "attemptId": "f91c8ae2-e474-49cb-a903-a40f041b7dea",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xacd4b0841eeca266fe8f03bef6df8a1b8a00cf5b"
     }
   ]
 }
