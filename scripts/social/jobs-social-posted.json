@@ -92162,7 +92162,8 @@
       },
       "account": "profile",
       "attemptId": "f466896c-dd23-4fcc-ad2a-c584eb6328b2",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2172b68acea8c81b942571503a6aa2d06cf41d22"
     }
   ]
 }
