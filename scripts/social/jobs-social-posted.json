@@ -91259,7 +91259,8 @@
         "description": "Join BitGo as Recruiter. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "e6278136-a074-466d-a5f6-162226ea5c93",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mze2wsv4k42t"
     }
   ]
 }
