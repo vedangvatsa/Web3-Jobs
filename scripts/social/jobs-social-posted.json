@@ -92630,7 +92630,8 @@
       },
       "account": "channel:ai",
       "attemptId": "732a37b9-a202-4ef7-9b78-ad959c6eeb71",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x21e3aedcd154a91df51666b7a2607ddad82dc616"
     }
   ]
 }
