@@ -91762,7 +91762,8 @@
       },
       "account": "channel:ai",
       "attemptId": "234e7561-992a-4a2d-97f0-fa09c29dbf8d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x686b5c7933ae3ad65c3def4d05b1f8f1719c1aa3"
     }
   ]
 }
