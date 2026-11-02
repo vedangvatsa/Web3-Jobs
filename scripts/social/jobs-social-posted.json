@@ -91294,7 +91294,8 @@
       },
       "account": "profile",
       "attemptId": "3e67d965-7035-4d09-958a-750ab3373245",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x73c1114e84323ae8b4aefe2cebc6c9cdabd5cb8a"
     }
   ]
 }
