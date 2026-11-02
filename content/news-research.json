@@ -121397,7 +121397,35 @@
       "firstSeenAt": "2026-11-02T04:39:30.853Z",
       "attempts": 0,
       "expiresAt": "2026-11-05T00:23:12.000Z",
-      "lastSeenAt": "2026-11-02T04:39:30.853Z"
+      "lastSeenAt": "2026-11-02T04:39:30.853Z",
+      "articleSlug": "anzalinux",
+      "draftProgress": {
+        "id": "a76afa30e6febccdc8b1",
+        "day": "2026-11-02",
+        "articleSlug": "anzalinux",
+        "note": "Read TokenPost, ChainCatcher, DURE guide and Ubuntu CVE tracker; The Defiant original is Cloudflare-blocked but its full text was read via the cryptonews.net mirror. Draft and hero image still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://www.tokenpost.com/news/technology/46026",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.chaincatcher.com/en/article/2300907",
+            "outcome": "read"
+          },
+          {
+            "url": "https://durenodes.com/guides/mptcp-cve-2026-98432/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://ubuntu.com/security/CVE-2026-98432",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-02T05:12:11.244Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "4fb4333307dcd6a71268": {
       "source": "CryptoSlate",
