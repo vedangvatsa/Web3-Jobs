@@ -2981,7 +2981,7 @@
     "sentAt": "2026-11-01T19:36:36.965Z"
   },
   "e18c2bae-0fc9-4d1e-8675-67cc8f7bbcfd": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-02T11:35:30.004Z",
     "stories": [
       {
@@ -3009,6 +3009,8 @@
         "originalTitle": "Zcash builder Zakura proposes per-swap keys to close a quantum privacy gap"
       }
     ],
-    "slotKey": "2026-11-02:afternoon"
+    "slotKey": "2026-11-02:afternoon",
+    "messageId": 65798,
+    "sentAt": "2026-11-02T11:35:47.070Z"
   }
 }

@@ -902,6 +902,9 @@
   "https://hashtagweb3.com/geminiorder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/qubicdrain?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/strategystrc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/alpenglowlive?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/strivesats?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/zcashquantum?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2605,6 +2608,12 @@
   "Qubic halts network after attacker drains 1,404 wallets",
   "Strategy increases share buyback authorization to $3 billion",
   "Strategy lifts STRC buyback cap to $3 billion after $193 million week",
+  "Solana Alpenglow update reduces transaction finality to 150 milliseconds",
+  "Solana Alpenglow goes live on mainnet, cutting finality to 150 milliseconds",
+  "Strive holds 36,818 bitcoin before $700 million settlement",
+  "Strive holds 36,818 bitcoin ahead of $700 million SATS settlement",
+  "Zcash Developer Proposes Per-Swap Keys for Quantum Privacy",
+  "Zcash builder Zakura proposes per-swap keys to close a quantum privacy gap",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -3036,5 +3045,8 @@
   "fp:175m|can|card|direct|enabl|exist|let|location|merchant|mesh",
   "fp:2025|bid|cftc|conduct|deni|exchang|gemini|joint|judg|maintain",
   "fp:404|attacker|breach|developer|drains1|follow|froz|halt|most|network",
-  "fp:1931m|193m|authorization|buyback|cap|dur|end|increas|lift|october18"
+  "fp:1931m|193m|authorization|buyback|cap|dur|end|increas|lift|october18",
+  "fp:activation|alpenglow|confirmation|cutt|finality|from128|goe|liv|lower|mainnet",
+  "fp:045|700m|818|ahead|dat|holds36|october20|offer|purchased4|sat",
+  "fp:address|assign|builder|clos|design|developer|futur|gap|intent|limit"
 ]
