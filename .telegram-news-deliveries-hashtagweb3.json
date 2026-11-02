@@ -2879,5 +2879,36 @@
     "slotKey": "2026-11-02:afternoon",
     "messageId": 156048,
     "sentAt": "2026-11-02T11:36:03.455Z"
+  },
+  "7c7f91c0-1d17-4000-9a68-504df5b603e1": {
+    "status": "reserved",
+    "reservedAt": "2026-11-02T19:37:15.589Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Standard Chartered to acquire 100% of Zodia Custody",
+        "summary": "The agreement covers regulated entities in Singapore, Hong Kong, Australia, Luxembourg, and the UAE pending regulatory approval.",
+        "link": "https://hashtagweb3.com/zodia?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Standard Chartered signs definitive agreements to acquire Zodia Custody"
+      },
+      {
+        "index": -1,
+        "headline": "Ethereum Glamsterdam upgrade scheduled for Hoodi testnet",
+        "summary": "The testnet will increase its gas target to 200 million, requiring node operators to update their software.",
+        "link": "https://hashtagweb3.com/hoodiupgrade?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ethereum sets Oct. 26 for Glamsterdam's Hoodi testnet activation"
+      },
+      {
+        "index": -1,
+        "headline": "Mt. Gox trustee extends repayment deadline to October 2027",
+        "summary": "The rehabilitation trustee delayed the final distribution date for the fourth consecutive year.",
+        "link": "https://hashtagweb3.com/mtgoxdelay?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Mt. Gox extends creditor repayment deadline to October 2027"
+      }
+    ],
+    "slotKey": "2026-11-02:evening"
   }
 }
