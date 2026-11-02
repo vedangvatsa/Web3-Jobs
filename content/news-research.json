@@ -110176,25 +110176,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "2d48962f7de928f1ed55",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-02T05:01:18.000Z",
       "lastSeenAt": "2026-10-31T03:31:46.182Z",
-      "reason": "source-blocked",
-      "note": "Retried The Defiant URL with the readiness User-Agent on an actual GET; Cloudflare returned 403 despite the readiness pass reporting 200. A new search again surfaced only mirrors and aggregators crediting The Defiant as the original source (basisdesk.news, undercurrent.capital, web3news.kordislabs.io, digitalmoneybox.com, woofun.ai), so no second independent readable source could be opened this round.",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours (publication 2026-10-30T05:01Z, expiry 2026-11-02T05:01Z) with corroboration still missing. Previous blockers: The Defiant original returns Cloudflare 403 on an actual GET with the readiness User-Agent despite the readiness pass reporting 200; two search rounds surfaced only mirrors and aggregators crediting The Defiant as the original source, so no second independent readable outlet covering the 14,040 ETH transfer could be opened.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/hacks/binance-exploit-linked-wallet-moves-14-040-eth-to-another-holding-address",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-01T04:15:09.715Z",
+      "reviewedAt": "2026-11-02T05:30:38.289Z",
       "retrySearches": [
         "Find readable independent on-chain coverage from Decrypt, The Block, CryptoSlate, Nansen or Arkham of the Oct. 30, 2026 transfer of 14,040 ETH from a Binance exploit-linked wallet to a holding address, with the recipient balance"
       ],
-      "lastReviewedDay": "2026-11-01",
-      "nextReviewDate": "2026-11-02"
+      "lastReviewedDay": "2026-11-02"
     },
     "ca74039d6ec0547db06d": {
       "source": "The Defiant",
@@ -110211,13 +110210,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "ca74039d6ec0547db06d",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-30T10:25:44.767Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-02T05:00:29.000Z",
       "lastSeenAt": "2026-10-31T03:31:46.182Z",
-      "reason": "source-blocked",
-      "note": "The Defiant original returned Cloudflare 403 on an actual GET with the readiness User-Agent. Did read ChainCatcher's report of Arkham's assessment, which states that 18,270.2 BTC worth about $1.41 billion has not moved since 20:48 UTC and sits distributed across 19 addresses, but a second independent readable outlet is still needed for this specific finding.",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours (publication 2026-10-30T05:00Z, expiry 2026-11-02T05:00Z) with corroboration still missing. Previous blockers: The Defiant original returns Cloudflare 403 on an actual GET with the readiness User-Agent; ChainCatcher's report of Arkham's 18,270.2 BTC / 19-addresses finding was read, but the identified cryptonews.net alternative and any other independent outlet were never opened to confirm the same finding.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/hacks/binance-hack-s-bitcoin-sits-unspent-across-19-addresses",
@@ -110228,12 +110227,11 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-01T04:15:09.715Z",
+      "reviewedAt": "2026-11-02T05:30:38.289Z",
       "retrySearches": [
         "Open and verify cryptonews.net/news/security/33674870/ or another independent outlet reporting Arkham's finding that 18,270.2 BTC of the Binance hack proceeds sits unspent across 19 addresses"
       ],
-      "lastReviewedDay": "2026-11-01",
-      "nextReviewDate": "2026-11-02"
+      "lastReviewedDay": "2026-11-02"
     },
     "eec0143970a0bc9f1ec3": {
       "source": "The Defiant",
@@ -116013,11 +116011,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "9f883fd7833850371f31",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-31T03:31:46.182Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-03T03:28:05.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "duplicate",
+      "note": "Read the Crypto Briefing page in full. It restates Richard Teng's confirmation of the hot-wallet breach, the ~$6.3B impact and the $6.34B company-funded cover already reported in content/articles/binancecover.md, with no new event; the page is framed as prediction-market analysis with key-takeaway boxes rather than fresh reporting.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/binance-hot-wallet-breach-affects-6b-customer-funds-secure/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-02T05:30:38.289Z",
+      "duplicateOf": "binancecover",
+      "lastReviewedDay": "2026-11-02"
     },
     "3c0db5962e7de4d5c33e": {
       "source": "Crypto Briefing",
@@ -116055,11 +116064,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "290a31d300bcd56ca045",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-31T03:31:46.182Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-03T00:57:26.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read the page in full. It is a Bitcoin Magazine TV video explainer with a chapter list breaking down the already-covered $6.3B Binance hack (frozen stablecoins, TRM Labs attribution, solvency questions); no new event beyond what content/articles/binancecover.md already reports.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-02T05:30:38.289Z",
+      "lastReviewedDay": "2026-11-02"
     },
     "4f7c7477edfc0751445f": {
       "source": "Crypto Briefing",
@@ -116076,11 +116095,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "4f7c7477edfc0751445f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-31T03:31:46.182Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-03T00:54:58.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read the article in full. It recaps the Oct. 29 hack and offers generic industry reaction (unnamed exchanges 'pushing for faster sharing of threat intelligence', Kraken 'watching industry incidents') without a dated, verifiable action, announcement or attributable quote on record; it is analysis and recap, not a concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/crypto-exchanges-security-binance-hack/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-02T05:30:38.289Z",
+      "lastReviewedDay": "2026-11-02"
     },
     "4bafb43e5b9349818738": {
       "source": "Crypto Briefing",
@@ -116097,11 +116126,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "4bafb43e5b9349818738",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-31T03:31:46.182Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-02T23:55:58.000Z",
-      "lastSeenAt": "2026-10-31T03:31:46.182Z"
+      "lastSeenAt": "2026-10-31T03:31:46.182Z",
+      "reason": "out-of-scope",
+      "note": "Read the page in full. It is an AI-assisted prediction-market analysis of a Trump/Moody Florida Senate race tax-cut claim; no crypto or Web3 dimension, and the page itself says the claim 'has not been independently verified by current reporting'. Politics is outside this site's Web3 news scope.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/trump-moody-claim-largest-middle-class-tax-cut-amid-florida-senate-race/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-02T05:30:38.289Z",
+      "lastReviewedDay": "2026-11-02"
     },
     "4f19ec995340bdfc9285": {
       "source": "Unchained",
@@ -220876,6 +220915,83 @@
             }
           ],
           "reviewedAt": "2026-11-02T05:20:48.684Z"
+        },
+        "9f883fd7833850371f31": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Read the Crypto Briefing page in full. It restates Richard Teng's confirmation of the hot-wallet breach, the ~$6.3B impact and the $6.34B company-funded cover already reported in content/articles/binancecover.md, with no new event; the page is framed as prediction-market analysis with key-takeaway boxes rather than fresh reporting.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/binance-hot-wallet-breach-affects-6b-customer-funds-secure/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-02T05:30:38.289Z",
+          "duplicateOf": "binancecover"
+        },
+        "4f7c7477edfc0751445f": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read the article in full. It recaps the Oct. 29 hack and offers generic industry reaction (unnamed exchanges 'pushing for faster sharing of threat intelligence', Kraken 'watching industry incidents') without a dated, verifiable action, announcement or attributable quote on record; it is analysis and recap, not a concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/crypto-exchanges-security-binance-hack/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-02T05:30:38.289Z"
+        },
+        "4bafb43e5b9349818738": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the page in full. It is an AI-assisted prediction-market analysis of a Trump/Moody Florida Senate race tax-cut claim; no crypto or Web3 dimension, and the page itself says the claim 'has not been independently verified by current reporting'. Politics is outside this site's Web3 news scope.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/trump-moody-claim-largest-middle-class-tax-cut-amid-florida-senate-race/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-02T05:30:38.289Z"
+        },
+        "290a31d300bcd56ca045": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read the page in full. It is a Bitcoin Magazine TV video explainer with a chapter list breaking down the already-covered $6.3B Binance hack (frozen stablecoins, TRM Labs attribution, solvency questions); no new event beyond what content/articles/binancecover.md already reports.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-02T05:30:38.289Z"
+        },
+        "2d48962f7de928f1ed55": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours (publication 2026-10-30T05:01Z, expiry 2026-11-02T05:01Z) with corroboration still missing. Previous blockers: The Defiant original returns Cloudflare 403 on an actual GET with the readiness User-Agent despite the readiness pass reporting 200; two search rounds surfaced only mirrors and aggregators crediting The Defiant as the original source, so no second independent readable outlet covering the 14,040 ETH transfer could be opened.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/binance-exploit-linked-wallet-moves-14-040-eth-to-another-holding-address",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-02T05:30:38.289Z"
+        },
+        "ca74039d6ec0547db06d": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours (publication 2026-10-30T05:00Z, expiry 2026-11-02T05:00Z) with corroboration still missing. Previous blockers: The Defiant original returns Cloudflare 403 on an actual GET with the readiness User-Agent; ChainCatcher's report of Arkham's 18,270.2 BTC / 19-addresses finding was read, but the identified cryptonews.net alternative and any other independent outlet were never opened to confirm the same finding.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/binance-hack-s-bitcoin-sits-unspent-across-19-addresses",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.chaincatcher.com/en/article/2300305",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-02T05:30:38.289Z"
         }
       },
       "baselineSlugs": [
