@@ -243,58 +243,6 @@
     }
   },
   {
-    "id": "kbw-xrp-seoul-2026",
-    "slug": "xrp-seoul",
-    "name": "XRP Seoul 2026",
-    "description": "[Free Ticket Event - Luma RSVP]\n\nWin a free XRP Seoul 2026 Pass (worth $74.99).Follow @XRPSEOUL on X, Quote Tweet our post, and RSVP here to enter. Winners will be selected by random draw.\n\n📅 Oct 3, 2026 | 📍 Grand Hyatt Seoul🕙 10:00 – Booth Opening 🕛 12:00 – Conference Start\n\nXRP Seoul 2026 is Asia's largest XRP conference, held during Korea Blockchain Week with Ripple as title sponsor. Last year drew 3,000+ participants from 40+ countries to Seoul, one of the world's fastest-growing markets.\n\nWebsite: xrp-seoul.com\n\nOfficial X: x.com/XRPSEOUL\n\n## Event details\n\nVenue: Grand Hyatt Seoul, Seoul. Organized by XRPL Korea. The event takes place on October 3. Registration requires organizer approval.",
-    "startDate": "2026-10-03T01:00:00.000Z",
-    "endDate": "2026-10-03T10:00:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "Grand Hyatt Seoul, Seoul",
-    "url": "https://luma.com/wm5ub5wk",
-    "website": "https://luma.com/wm5ub5wk",
-    "coverImage": "/events/kbw-xrp-seoul-2026-a2e91503.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Seoul",
-    "registrationUrl": "https://luma.com/wm5ub5wk",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Grand Hyatt Seoul",
-    "addressLocality": "Seoul",
-    "addressRegion": "Seoul",
-    "addressCountry": "KR",
-    "coordinates": {
-      "latitude": 37.539167,
-      "longitude": 126.9975
-    },
-    "hosts": [],
-    "organizer": {
-      "type": "Organization",
-      "name": "XRPL Korea"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/wm5ub5wk",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/wm5ub5wk",
-      "eventId": "evt-vWDMfekhpbDcoc8",
-      "fetchedAt": "2026-09-22T11:53:33.000Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "premier-token2049-singapore-2026",
     "slug": "token2049",
     "name": "TOKEN2049 Singapore 2026",

@@ -4769,5 +4769,55 @@
       "superteam-v13q",
       "luma-batch-kkgrpcy2vbv0rcx"
     ]
+  },
+  "kbw-xrp-seoul-2026": {
+    "until": "2027-11-02T11:32:56.864Z",
+    "slugs": [
+      "xrp-seoul",
+      "kbw-official-xrp-seoul-2026-10-03",
+      "kbw-xrp-seoul-2026"
+    ]
+  },
+  "india-luma-pgsg2efr": {
+    "until": "2027-11-02T11:32:56.864Z",
+    "slugs": [
+      "rrc",
+      "india-luma-pgsg2efr"
+    ]
+  },
+  "kbw-official-xrp-seoul-2026-10-03": {
+    "until": "2027-11-02T11:32:56.864Z",
+    "slugs": [
+      "kbw-official-xrp-seoul-2026-10-03",
+      "xrp-seoul"
+    ]
+  },
+  "kbw-official-lambda256-join-the-blockchain-node-crew-10-03": {
+    "until": "2027-11-02T11:32:56.864Z",
+    "slugs": [
+      "ljbnc",
+      "kbw-official-lambda256-join-the-blockchain-node-crew-10-03"
+    ]
+  },
+  "luma-batch-yNeFHGW3OsMkSd9": {
+    "until": "2027-11-02T11:32:56.864Z",
+    "slugs": [
+      "jiogurpk",
+      "luma-batch-ynefhgw3osmksd9"
+    ]
+  },
+  "luma-batch-evtKTCZ094vbXb63": {
+    "until": "2027-11-02T11:32:56.864Z",
+    "slugs": [
+      "4v245j3v",
+      "luma-batch-evtktcz094vbxb63"
+    ]
+  },
+  "luma-batch-evtsfWWgUmXLgec2": {
+    "until": "2027-11-02T11:32:56.864Z",
+    "slugs": [
+      "qntyo9af",
+      "luma-batch-evtsfwwgumxlgec2"
+    ]
   }
 }

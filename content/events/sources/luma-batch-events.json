@@ -1167,56 +1167,6 @@
     }
   },
   {
-    "id": "luma-batch-yNeFHGW3OsMkSd9",
-    "slug": "jiogurpk",
-    "name": "Solana Build Day Tokyo｜Solana × AI 実践ワークショップ",
-    "description": "Solana Build Day Tokyoは、AIとSolanaブロックチェーンを使って、アプリやサービスをつくる実践ワークショップです。セッションでヒントを得て、会場でアイデアを相談し、その場で開発に取り組みます。\n\nエンジニアでなくても参加できます。ブロックチェーンやAIに興味がある方、つくってみたいサービスがある方を歓迎します。Solana FoundationのDevRelチームとSuperteam Japanが、アイデアづくりから開発までをサポートします。\n\n学んで、話して、その場でつくる\n\nまずはSolana FoundationのDevRelチームによるセッションから。Solanaでできることや開発のヒントに触れながら、取り組んでみたいテーマを見つけます。まだアイデアが固まっていなくても大丈夫です。\n\n続くワークショップでは、AI開発ツールを使って、自分のアイデアを試作品にしていきます。「誰の、どんな課題を解決するか」「Solanaをどう生かせるか」。DevRelチームやSolanaに詳しい参加者との対話を通じて、発想を広げながら開発を進めます。開発中のプロダクトを持ち込み、実装や改善について相談することもできます。\n\n目指すのは、実際に触って試せる小さなプロトタイプ。最後はつくったものを見せ合い、フィードバックをもらいながら、次の開発のヒントや、一緒に取り組む仲間を見つけましょう。\n\nつくったものを、世界のハッカソンへ\n\n当日は、Colosseumのグローバルハッカソン「Crypto World's Fair」の開催期間中です。この日に生まれた試作品をさらに磨き、ハッカソンへの応募も目指せます。\n\n自分のアイデアを世界に向けて発表し、入賞すれば賞金獲得のチャンスも。ここでの学びと出会いを、プロダクトを世の中に届けるきっかけにしてみませんか。\n\n応募には、別途ハッカソンへの登録と提出要件を満たす必要があります。詳細はColosseum公式の参加案内をご確認ください。\n\nこんな方におすすめ\n\nAIやブロックチェーンに興味があり、自分でも何かつくってみたい方\n\n企画・ビジネス・デザインなどの経験を、アプリやサービスづくりに生かしたい方\n\nSolanaでの開発を始めたい方、開発中のプロダクトについて相談したい方\n\nハッカソンへの応募に挑戦したい方、一緒につくる仲間を見つけたい方\n\n当日のプログラム\n\n13:00–13:15　インプットセッション｜Yuki（External DevRel Japan, Solana Foundation）13:15–13:30　インプットセッション｜Chaerin Kim（Solana Foundation DevRel）13:30–15:30　ワークショップ15:30–16:30　ネットワーキング\n\n準備するもの\n\nノートPC\n\n充電器\n\nClaude Code、CodexなどのAI開発ツール（事前に利用できる状態にしてお持ちください）\n\n開催概要\n\n日時：2026年10月3日（土）13:00–16:30会場：登録後に表示されます参加費：無料",
-    "startDate": "2026-10-03T04:00:00.000Z",
-    "endDate": "2026-10-03T07:30:00.000Z",
-    "city": "Chiyoda City",
-    "country": "Japan",
-    "location": "5, Chiyoda City, Tokyo, Japan",
-    "url": "https://luma.com/jiogurpk",
-    "registrationUrl": "https://luma.com/jiogurpk",
-    "coverImage": "/events/luma-batch-yNeFHGW3OsMkSd9-6af458e4.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Takuya Matsumaru",
-      "AJ",
-      "Yuki Takahashi"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Tokyo",
-    "neighborhood": "5",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "Chiyoda City",
-    "addressRegion": "Tokyo",
-    "addressCountry": "JP",
-    "organizer": {
-      "type": "Organization",
-      "name": "Takuya Matsumaru"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/jiogurpk",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/jiogurpk",
-      "eventId": "evt-yNeFHGW3OsMkSd9",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-S9B2IYXx5PHfaEg",
     "slug": "zsvc8ner",
     "name": "Coincheck Crypto Lounge #8 x Komlock lab/ＳＭＢＣ日興証券｜エージェント経済圏 LT＆懇親会",
@@ -6836,36 +6786,6 @@
     }
   },
   {
-    "id": "luma-batch-evtKTCZ094vbXb63",
-    "slug": "4v245j3v",
-    "name": "AI × Bitcoin: Create Faster, Own Your Audience",
-    "description": "Hosted by Bitcoin House Malaysia\n\nCo-hosted by The AI Collective\n\nTech Support: YakiHonne × PIPress\n\nAbout the Event\n\nCreating content is becoming easier than ever. Keeping control of your audience is not.\n\nAI × Bitcoin: Create Faster, Own Your Audience brings together practical AI workflows, decentralized publishing, and creator ownership in one interactive afternoon.\n\nThe event begins with a practical session on using AI to move from ideas to finished content more efficiently. We will then explore how decentralized publishing can help creators build direct relationships with their audiences instead of depending entirely on platforms and algorithms.\n\nThe afternoon concludes with a panel discussion:\n\nWho Owns Your Audience in the Age of AI?\n\nWhat to Expect\n\nA practical AI content creation session\n\nReal workflows for turning ideas into publishable content\n\nAn introduction to decentralized publishing\n\nA closer look at creator identity, distribution, and audience ownership\n\nA live technology showcase supported by YakiHonne and PIPress\n\nPanel discussion and audience Q&A\n\nSpeakers and Panelists\n\nFiruz Alimov\n\nFounder & CEO, Aether Builders\n\nFiruz will lead the practical AI session, sharing how creators and teams can use AI tools to develop ideas and produce content faster.\n\nAmos Tan\n\nFounder, Pukecast & Ainstein\n\nAmos is building a new media network across six Asian countries. He has interviewed more than 1,000 founders and helps brands communicate their stories more effectively.\n\nJean Ng\n\nChapter Co-Lead, The AI Collective Kuala Lumpur\n\nJean supports Kuala Lumpur’s AI community by connecting practitioners, founders, and people interested in understanding how AI is changing work and creativity.\n\nDr. Wendy Ding\n\nCEO, PIPress\n\nWendy works at the intersection of technology, publishing, and creator empowerment, helping creators explore new ways to publish and build direct relationships with their audiences.\n\nWho Is This For?\n\nThis event is designed for:\n\nContent creators and podcasters\n\nFounders and entrepreneurs\n\nMarketing and media professionals\n\nCommunity builders\n\nAI and Bitcoin enthusiasts\n\nAnyone interested in the future of publishing and creator ownership\n\nNo technical background is required.\n\nEvent Details\n\nDate: Saturday, October 3, 2026\n\nTime: 3:00 PM - 5:30 PM\n\nVenue: Bitcoin House Malaysia, Sunway Velocity, Kuala Lumpur\n\nCost: Free\n\nCapacity: Limited to 30 participants\n\nRegistration is required and seats are limited. Register early to secure your place.\n\nAbout Bitcoin House Malaysia\n\nBitcoin House Malaysia is a community-driven education space in Kuala Lumpur. We host workshops, discussions, podcasts, and community events focused on Bitcoin, decentralized technology, and practical freedom tools.\n\nWhether you are a creator, builder, student, founder, or simply curious, our door is open.",
-    "startDate": "2026-10-03T07:00:00.000Z",
-    "endDate": "2026-10-03T08:30:00.000Z",
-    "city": "Kuala Lumpur",
-    "country": "Malaysia",
-    "location": "Sunway Velocity Mall, Sunway Velocity Mall, Lingkaran SV, Sunway Velocity, 55100 Kuala Lumpur, Malaysia",
-    "url": "https://luma.com/4v245j3v",
-    "registrationUrl": "https://luma.com/4v245j3v",
-    "coverImage": "/events/luma-batch-evtKTCZ094vbXb63-914d8e2b.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Kuala_Lumpur",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/4v245j3v",
-      "eventId": "evt-KTCZ094vbXb63bC",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evt6E9WqePUmmJmv",
     "slug": "knlonxwk",
     "name": "CryptoMondays Vegas",
@@ -7250,36 +7170,6 @@
     "sourceVerification": {
       "url": "https://luma.com/fan9g1ft",
       "eventId": "evt-PICyDbNudDA4Zpp",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtsfWWgUmXLgec2",
-    "slug": "qntyo9af",
-    "name": "Bitcoin Indonesia Community Meetup Bogor 03 Oktober 2026",
-    "description": "Pulang dari Meetup, Sudah Punya Dompet Bitcoin Sendiri\n\nBitcoin mungkin sudah sering kamu dengar. Tapi kalau ditanya, “Bitcoin kamu disimpan di mana?” — masih bingung jawabnya? 😅\n\nDi meetup ini, kita bakal ngobrol dari nol tentang dasar-dasar Bitcoin dan cara kerja wallet, lalu mengenal Fedi sebagai salah satu pilihan untuk menyimpan dan menggunakan Bitcoin.\n\nNggak cuma bahas istilah dan teori. Kita bikin Bitcoin terasa lebih dekat dengan mencoba memahami apa yang sebenarnya terjadi ketika kamu punya wallet sendiri. 🔐\n\n✨ Jangan cuma tahu Bitcoin dari cerita orang. Datang, belajar, dan mulai kenal Bitcoin dari tanganmu sendiri.\n\nYuk, hadir di meetup Bitcoin Indonesia Bogor dan ajak teman yang masih penasaran dengan Bitcoin! 🙌\n\n*NOTE: Tersedia ruangan untuk belajar bitcoin di Bitcoin House Bogor - GOR Pajajaran Kota Bogor. Hubungi admin ya di X (@bitcoinsportsid), di TikTok (@bitcoinsportsid), di Instagram (@bitcoinsports.id) atau di group telegram Bitcoin Indonesia chapter Bogor.\n\n📌 Info Penting:🔸 Tiket GRATIS, tapi peserta beli makan/minum sendiri selama acara🔸 Tidak ada promosi altcoin, NFT, token, atau proyek “kripto” lainnya🔸 100% tentang Bitcoin — teknologi, nilai, dan potensinya untuk dunia\n\n🔗 Tentang Kami🟠 Bitcoin Indonesia adalah inisiatif nirlaba yang bertujuan untuk:\n\n🕊️ Menyebarkan pemahaman soal Bitcoin sebagai alat pembebasan individu\n\n⚖️ Mendorong kedaulatan finansial lewat edukasi netral dan jujur\n\n📚 Menyediakan konten edukasi open-source & gratis untuk semua\n\n📲 Telegram: https://t.me/+OIIRyKQmvJY0MWFk\n\n📸 Instagram: https://instagram.com/bitcoinindo21\n\n🌐 Website: https://bitcoinindonesia.xyz",
-    "startDate": "2026-10-03T06:00:00.000Z",
-    "endDate": "2026-10-03T08:00:00.000Z",
-    "city": "Kota Bogor",
-    "country": "Indonesia",
-    "location": "Background Coffee n munch, Background Coffee n munch, RT.03/RW.15, Kedung Waringin, Tanah Sareal, Kota Bogor, Jawa Barat 16164, Indonesia",
-    "url": "https://luma.com/qntyo9af",
-    "registrationUrl": "https://luma.com/qntyo9af",
-    "coverImage": "/events/luma-batch-evtsfWWgUmXLgec2-f4edede0.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Bitcoin Indonesia Meetups"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Jakarta",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/qntyo9af",
-      "eventId": "evt-sfWWgUmXLgec2Mj",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
