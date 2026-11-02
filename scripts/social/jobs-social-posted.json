@@ -90359,6 +90359,39 @@
       "attemptId": "a75ad169-3e3a-406f-b3ed-edf3c47d3473",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Monday, 02-Nov-26 03:38:43 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A2OmzcRyaxgnLsko5EPRZAr\"}"
+    },
+    {
+      "slug": "cc5",
+      "company": "Paxos",
+      "title": "Senior Commercial Counsel",
+      "platform": "bluesky",
+      "postedAt": "2026-11-02T11:38:31.123Z",
+      "expectedText": "Paxos is hiring Senior Commercial Counsel: https://hashtagweb3.com/cc5/bsky?og=7",
+      "snapshot": {
+        "id": "5d5a5382-c7bf-46c8-8a68-aad31d84154a",
+        "title": "Senior Commercial Counsel",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/5d5a5382-c7bf-46c8-8a68-aad31d84154a",
+        "date": "2026-10-07T13:54:35.682+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - United States",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Legal",
+        "active": true,
+        "dateVerified": true,
+        "slug": "cc5"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Commercial Counsel: https://hashtagweb3.com/cc5/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/cc5/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/cc5.png?v=7",
+        "company": "Paxos",
+        "title": "Senior Commercial Counsel",
+        "description": "Join Paxos as Senior Commercial Counsel. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "1a3f63ad-077b-4a18-bcbf-9750e9f12409",
+      "verification": "creating"
     }
   ]
 }
