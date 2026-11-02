@@ -858,6 +858,9 @@
   "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
   "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
   "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+  "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+  "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+  "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2356,6 +2359,12 @@
   "The agentic web is here",
   "Tech CEO views on AI benefits and public perception",
   "AI can make tech CEOs’ lives easier. What about everyone else?",
+  "New York Times sues Brave over AI content scraping",
+  "New York Times and other outlets sue web browser Brave over alleged content scraping",
+  "42AI raises $62.5 million for human behavior prediction models",
+  "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+  "Omen AI acquires Aquatic Labs for data center cooling",
+  "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2731,5 +2740,8 @@
   "fp:administration|automation|classify|declar|factory|foreign|government|hardwar|import|impos",
   "fp:action|agent|autonomous|bypass|compromis|environment|evaluation|external|improv|internal",
   "fp:2001|agentic|american|articl|autonomous|berner|concept|design|detail|her",
-  "fp:benefit|can|ceo|disconnect|easier|els|equity|everyon|examin|executiv"
+  "fp:benefit|can|ceo|disconnect|easier|els|equity|everyon|examin|executiv",
+  "fp:alleg|brav|browser|content|copyright|data|developer|illegally|lawsuit|material",
+  "fp:42ai|625m|action|behavior|can|com|develop|forecast|human|novel",
+  "fp:16m|acquir|acquisition|add|aquatic|center|combin|consumption|cool|data"
 ]

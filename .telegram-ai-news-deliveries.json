@@ -2910,7 +2910,7 @@
     "sentAt": "2026-11-02T11:35:39.936Z"
   },
   "67832abf-043a-46cf-a9e6-7085656a6b71": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-02T19:33:56.830Z",
     "stories": [
       {
@@ -2944,6 +2944,8 @@
         "originalTitle": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition"
       }
     ],
-    "slotKey": "2026-11-02:evening"
+    "slotKey": "2026-11-02:evening",
+    "messageId": 193443,
+    "sentAt": "2026-11-02T19:34:08.763Z"
   }
 }
