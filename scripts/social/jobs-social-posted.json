@@ -90714,7 +90714,8 @@
       },
       "account": "channel:founders",
       "attemptId": "1d8a699d-b6b3-40dd-94d4-2beb3d9731a0",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa3a3ec74ac3aecb61b0e5ec025603268b326c44e"
     }
   ]
 }
