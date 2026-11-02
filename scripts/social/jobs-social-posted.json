@@ -92342,7 +92342,8 @@
       },
       "account": "channel:dev",
       "attemptId": "e3e161c9-d2ae-4092-bcef-b68a66782631",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc74c3480133a3ddf1ade3e0f7b58bf3d16adec22"
     }
   ]
 }
