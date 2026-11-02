@@ -92702,7 +92702,8 @@
       },
       "account": "channel:design",
       "attemptId": "82990b7f-3d3b-4638-8c5a-d93aaacc18d9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe8c407055f4dce7c6a584ffbd39358fd0373f5d9"
     }
   ]
 }
