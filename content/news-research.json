@@ -124595,7 +124595,31 @@
       "firstSeenAt": "2026-11-03T01:43:52.711Z",
       "attempts": 0,
       "expiresAt": "2026-11-05T23:05:00.000Z",
-      "lastSeenAt": "2026-11-03T01:43:52.711Z"
+      "lastSeenAt": "2026-11-03T01:43:52.711Z",
+      "articleSlug": "kimjong",
+      "draftProgress": {
+        "id": "af2b60f4b8fd8c6a5490",
+        "day": "2026-11-03",
+        "articleSlug": "kimjong",
+        "note": "Read Unchained, SBS and Cointelegraph on Kim Yo Jong's KCNA statement. Image and draft still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://unchainedcrypto.com/kim-yo-jong-ties-fbis-binance-hack-blame-to-trumps-crypto-reserve/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008827368",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-03T02:24:47.475Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "5ece4d41d5bac765c722": {
       "source": "CryptoSlate",
