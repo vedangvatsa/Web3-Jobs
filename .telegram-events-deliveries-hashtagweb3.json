@@ -4400,5 +4400,53 @@
     "slotKey": "2026-11-02:afternoon",
     "messageId": 156046,
     "sentAt": "2026-11-02T11:32:54.221Z"
+  },
+  "f9ddc3e3-cc0d-4464-92eb-cf4fef5f45c4": {
+    "status": "reserved",
+    "reservedAt": "2026-11-03T03:35:35.530Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-vaT2S2VUTmlJI3x",
+        "slug": "wolfswap-x-crypto-com-mixer-bitcoin-amsterdam-edition",
+        "name": "The WolfSwap x Crypto.com Mixer: Bitcoin Amsterdam Edition",
+        "startDate": "2026-11-06T17:00:00.000Z",
+        "keys": [
+          "luma-crypto-vat2s2vutmlji3x",
+          "azrnakmq",
+          "page:wolfswap-x-crypto-com-mixer-bitcoin-amsterdam-edition:2026-11-06",
+          "luma-url:/azrnakmq",
+          "event:thewolfswapxcryptocommixerbitcoinamsterdamedition:2026-11-06:amsterdam"
+        ]
+      },
+      {
+        "id": "luma-crypto-futrlVtSKm5AC1e",
+        "slug": "london-workshop-vaults-practice-how-financial-institutions-capture-onchain-yield",
+        "name": "London Workshop: Vaults in Practice - How Financial Institutions Capture Onchain Yield",
+        "startDate": "2026-11-09T16:00:00.000Z",
+        "keys": [
+          "luma-crypto-futrlvtskm5ac1e",
+          "cwufkzk1",
+          "page:london-workshop-vaults-practice-how-financial-institutions-capture-onchain-yield:2026-11-09",
+          "luma-url:/cwufkzk1",
+          "event:londonworkshopvaultsinpracticehowfinancialinstitutionscaptureonchainyield:2026-11-09:london"
+        ]
+      },
+      {
+        "id": "luma-crypto-i1tMtsPFib0VzBF",
+        "slug": "convergence-onchain-finance-soiree-das-london",
+        "name": "Convergence: Onchain Finance Soirée at DAS London",
+        "startDate": "2026-11-10T16:00:00.000Z",
+        "keys": [
+          "luma-crypto-i1tmtspfib0vzbf",
+          "convergenc",
+          "page:convergence-onchain-finance-soiree-das-london:2026-11-10",
+          "luma-url:/convergence-onchain-finance-das-london",
+          "event:convergenceonchainfinancesoiréeatdaslondon:2026-11-10:london"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-03:morning"
   }
 }
