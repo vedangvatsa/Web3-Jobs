@@ -52441,18 +52441,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-4277bc1b8e3fb648"></a>
-
-## StrongHER — Women's Strength Training
-
-- Record: `luma-evt-DSmVp2B2E7Pwilu`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-02T23:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/orrtdrhz>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-4c6b55520491402e"></a>
 
 ## MIDGUARD SYSTEMS GOES SILICON VALLEY!
@@ -53607,6 +53595,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-4277bc1b8e3fb648"></a>
+
+## StrongHER — Women's Strength Training
+
+- Record: `luma-evt-DSmVp2B2E7Pwilu`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/orrtdrhz>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-802606c3cbeee11f"></a>
 
 ## bitcoin++ Seoul, Privacy Edition 2026
@@ -53971,6 +53971,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-10195916ff5ee344"></a>
+
+## An Evening with Solana NYC \| Presented by the Incubator
+
+- Record: `luma-evt-QDHRipbLQ3B980D`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/ylza1vtd>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-5c98611a9862ee6c"></a>
 
 ## An Evening with Solana NYC \| Presented by the Incubator
@@ -54275,6 +54287,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-07T01:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/hqe3sz43>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-c8758719c9164441"></a>
+
+## CryptoFridays x NewFriendshipTech x StandWithCrypto x Avalanche Team1
+
+- Record: `luma-evt-ss253SskrQf5jWH`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-07T03:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/5dnherzt>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -54973,6 +54997,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-12T23:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/qqlmf5ou>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-8033c133367c9165"></a>
+
+## DFA: Forward
+
+- Record: `luma-evt-IWC32GpbFPDAsm3`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-13T01:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/6jsgo4kg>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -56539,6 +56575,18 @@ Proof of Talk Abu Dhabi takes place at the Louvre Abu Dhabi on December 3 and 4,
 Attendance is application-based: the organizer says every guest is individually approved rather than admitted through open ticket sales. The room is capped at 2,000 participants. Speaking slots are selected by the program team and are not sold.
 
 The website currently displays speakers and statistics from previous Paris editions. The Abu Dhabi lineup will be announced to the priority list; those past names should not be treated as confirmed Abu Dhabi speakers.
+
+<a id="event-caff2a7748943b49"></a>
+
+## Khoury Ice Skating - Kraken Iceplex
+
+- Record: `luma-evt-xjlQOKo4NYAADFb`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-04T20:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/vrxcwgdd>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-b284437ff5eb87a8"></a>
 
