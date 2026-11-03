@@ -93426,7 +93426,8 @@
       },
       "account": "channel:solana",
       "attemptId": "9b5b8063-5509-4f31-af9d-21e447c684b2",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5098949ffc5b83382275184e85f14fbdb7dec673"
     }
   ]
 }
