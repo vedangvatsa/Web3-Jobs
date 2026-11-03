@@ -911,6 +911,9 @@
   "https://hashtagweb3.com/ramptrust?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/stablecoinpay?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/prysm-fix?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
+  "https://cointelegraph.com/news/crypto-com-hong-kong-app-shutdown-license-pending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2632,6 +2635,12 @@
   "Stablecoin payments jump 45% to $482B while supply barely moves",
   "Prysm Updates Gas Limit Ahead of Sepolia Test",
   "Prysm Ships 200M Gas Limit Fix Hours Before Sepolia Test",
+  "Mercado Bitcoin pauses withdrawals after 46 million dollar breach",
+  "Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach",
+  "Crypto.com to shut down Hong Kong app following regulatory changes",
+  "Crypto.com to withdraw Hong Kong consumer app citing regulatory changes",
+  "Bitcoin price stabilizes near $76,900 amid market outflows",
+  "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -3072,5 +3081,8 @@
   "fp:accelerat|adoption|analyst|believ|boost|business|buy|dtcc|maintain|rat",
   "fp:accept|apply|asset|bank|charter|custody|deposit|digital|federal|fiduciary",
   "fp:482b|barely|chang|despit|drov|grew45|growth|increas|jump45|major",
-  "fp:200m|activation|ahead|fix|hour|limit|network|october6|prysm|sepolia"
+  "fp:200m|activation|ahead|fix|hour|limit|network|october6|prysm|sepolia",
+  "fp:46m|brazil|breach|cryptocurrency|customer|dollar|exchang|freez|fund|hit",
+  "fp:app|chang|cit|com|complianc|consumer|down|end|february|follow",
+  "fp:300|399m|472b|900|binanc|despit|dip|election|etf|market"
 ]

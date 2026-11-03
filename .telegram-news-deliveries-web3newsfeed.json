@@ -3080,7 +3080,7 @@
     "sentAt": "2026-11-03T03:39:59.673Z"
   },
   "6ba459ea-451e-4012-aba8-10d663fc405c": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-03T11:41:05.053Z",
     "stories": [
       {
@@ -3110,6 +3110,8 @@
         "originalTitle": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto"
       }
     ],
-    "slotKey": "2026-11-03:afternoon"
+    "slotKey": "2026-11-03:afternoon",
+    "messageId": 65801,
+    "sentAt": "2026-11-03T11:41:12.236Z"
   }
 }
