@@ -93210,7 +93210,8 @@
       },
       "account": "channel:dev",
       "attemptId": "1622090b-a68d-451d-8cf5-6788541adea2",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe27af81745be835b350ff26fb179fb1b8107c9bd"
     }
   ]
 }
