@@ -579,6 +579,21 @@
         "rolloutId": "daily-20261103-41561364672-1",
         "buildState": "FAILED",
         "observedAt": "2026-11-03T03:50:57.491Z"
+      },
+      {
+        "date": "2026-11-03",
+        "id": "41572846513-1",
+        "sourceCommit": "0ed7ee25eb4f711d135b5280c4ba7ec0cfb5d550",
+        "jobsCheckedAt": "2026-11-03T03:43:45.007Z",
+        "newsCompletedAt": "2026-11-03T03:30:56.853Z",
+        "articleSlugs": [
+          "kimjong",
+          "njstaking"
+        ],
+        "phase": "building",
+        "startedAt": "2026-11-03T03:52:10.448Z",
+        "buildId": "daily-20261103-41572846513-1",
+        "rolloutId": "daily-20261103-41572846513-1"
       }
     ]
   }
