@@ -93282,7 +93282,8 @@
       },
       "account": "channel:build",
       "attemptId": "6c7329e9-8bed-464d-91ef-ef87e43b6bc4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x39c1134324214cc27579cc7f28555ca0f772bd60"
     }
   ]
 }
