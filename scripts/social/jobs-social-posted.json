@@ -94104,7 +94104,8 @@
       },
       "account": "channel:developers",
       "attemptId": "64ff2e3f-36b9-4935-9580-3523043bcea0",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7d0a7227835e0ff985a999095b6d14ec8f2cdb56"
     }
   ]
 }
