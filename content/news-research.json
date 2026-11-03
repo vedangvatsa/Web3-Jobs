@@ -124700,11 +124700,27 @@
       ],
       "alsoCoveredBy": [],
       "id": "0a817205dcf8d92b0ea3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-03T01:43:52.711Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-05T19:11:35.000Z",
-      "lastSeenAt": "2026-11-03T01:43:52.711Z"
+      "lastSeenAt": "2026-11-03T01:43:52.711Z",
+      "reason": "duplicate",
+      "note": "Same New Jersey rescission of the Coinbase staking order as the ready njstaking article; Defiant dek confirms the same  million withdrawal without prejudice.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/regulation/new-jersey-rescinds-coinbase-staking-order-clearing-path-for-restart",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/new-jersey-coinbase-staking",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-03T02:08:25.278Z",
+      "duplicateOf": "njstaking",
+      "mergedInto": "eb058751d7a24ceec909",
+      "lastReviewedDay": "2026-11-03"
     },
     "a34bdce8f57402044165": {
       "source": "Cointelegraph",
@@ -229846,6 +229862,24 @@
           ],
           "reviewedAt": "2026-11-03T02:08:21.277Z",
           "articleSlug": "njstaking"
+        },
+        "0a817205dcf8d92b0ea3": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same New Jersey rescission of the Coinbase staking order as the ready njstaking article; Defiant dek confirms the same  million withdrawal without prejudice.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/regulation/new-jersey-rescinds-coinbase-staking-order-clearing-path-for-restart",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/new-jersey-coinbase-staking",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-03T02:08:25.278Z",
+          "duplicateOf": "njstaking",
+          "mergedInto": "eb058751d7a24ceec909"
         }
       },
       "baselineSlugs": [
