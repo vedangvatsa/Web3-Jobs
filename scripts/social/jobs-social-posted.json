@@ -94856,7 +94856,8 @@
       },
       "account": "channel:web3",
       "attemptId": "6b345439-68c1-4686-8660-d3f68930cd56",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xae4ca394b8e9455c33df0bf54bc27b103346d61e"
     }
   ]
 }
