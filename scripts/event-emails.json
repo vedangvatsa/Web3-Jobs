@@ -359,30 +359,6 @@
     }
   },
   {
-    "name": "P.S. Lisbon 2026",
-    "url": "https://input.global",
-    "emails": [
-      "alek@input.global",
-      "hello@input.global"
-    ],
-    "event": {
-      "id": "premier-pslisbon",
-      "slug": "ps",
-      "name": "P.S. Lisbon 2026",
-      "description": "Input Global's curated web3 gathering in Lisbon, pairing intimate programming with the city's builder community.",
-      "startDate": "2026-10-01T09:00:00.000Z",
-      "endDate": "2026-10-04T18:00:00.000Z",
-      "city": "Lisbon",
-      "country": "Portugal",
-      "location": "Lisbon, Portugal",
-      "url": "https://input.global",
-      "website": "https://input.global",
-      "coverImage": "/events/crypto1.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
     "name": "Plan B Forum Lugano 2026",
     "url": "https://planb.lugano.ch",
     "emails": [

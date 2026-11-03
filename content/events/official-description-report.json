@@ -270,21 +270,6 @@
       "preview": "TOKEN2049 Dubai brings together the global Web3 industry, uniting entrepreneurs, investors, developers, industry insiders and global media, and creates unparalleled networking opportunities."
     },
     {
-      "id": "premier-pslisbon",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/P.S.Lisbon",
-        "fetchedAt": "2026-09-19T23:54:12.641Z",
-        "method": "matched-organizer-record",
-        "pageTitle": "P.S. Lisbon",
-        "sha256": "287ee0a2786c6bad8214cf4414768efad532855b5eeaebebd3495af5efe73374"
-      },
-      "matchedRecordId": "w3v-ps-lisbon",
-      "characters": 4658,
-      "preview": "Lisbon has always been a city for the people who explore and build. Following that same spirit, INPUT, Paybis  and nSureAI (https://Nsure.ai) are bringing together the founders, investors and operators reshaping iGaming and payments, for an evening in Alfama, the oldest neighbourhood in Lisbon.\n\nOctober 1st, at La Distillerie, a 19th century distillery at the heart of the neighbourhood. Music, Portuguese wine, and the kind of company worth writing home about.\n\nWhat to expect\n\n\n• Founders, investors, and leaders from across iGaming and payments\n• Portuguese wine tasting led by a sommelier\n• Cocktails and canapés throughout\n• DJ set through the night\n• Postcard Corner: pick a card, write something worth sending, and drop it in the box. It gets stamped and mailed straight to your door.\n• A re"
-    },
-    {
       "id": "premier-stablecoinsg",
       "file": "curated-events.json",
       "name": "Stablecoin Summit Singapore 2026",
@@ -692,21 +677,6 @@
       "previousStartDate": "2026-09-28T08:00:00-04:00",
       "characters": 155,
       "preview": "A closed-door conference on corporate bitcoin treasury strategy — allocators, executives, and strategists in one room. September 28, 2026 in New York City."
-    },
-    {
-      "id": "premier-wob-madrid-2026",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://wobitcoin.org/",
-        "fetchedAt": "2026-09-20T00:20:39.704Z",
-        "method": "official-section",
-        "pageTitle": "Watch out, Bitcoin! — WOB 5",
-        "sha256": "bef494f089711e3e19acec092871c9b8431ac81de2668985e6260a5573cc87e2"
-      },
-      "previousStartDate": "2026-10-02T16:00:00+02:00",
-      "characters": 1831,
-      "preview": "Cinco años de debate global sobre Bitcoin. Tres días de paneles, talleres y networking en Madrid.\n\n## Cinco bloques. Una cadena.\n\nCinco años construyendo sobre principios. Cinco años minando comunidad.\n\n## Madrid.Octubre.Bitcoin.\n\n## Tres días. Una forma de entender Bitcoin.\n\n## Talleres\n\nViernes práctico. Lightning, multisig, nodos, privacidad. Trae tu portátil.\n\n## Debates\n\nSábado y domingo de paneles sin filtros. Las preguntas difíciles, las que importan.\n\n## Comunidad\n\nCocktails, cenas y la red WoB. El motivo real por el que la gente vuelve cada año.\n\n## Quiénes hablan.\n\n## Quienes hacen posible WOB 5\n\n## Qué ocurre cada día.\n\nLos talleres son a la misma hora. Tu entrada te da acceso a uno: lo eliges después de comprar.\n\n## Compras la entrada y te escribimos por email para que elijas t"
     },
     {
       "id": "premier-rwa-week-2026",

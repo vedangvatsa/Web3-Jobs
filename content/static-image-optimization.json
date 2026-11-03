@@ -4305,10 +4305,6 @@
       "sha256": "6cce9a61d06363f3482393cf63e893ca86a26723ab4d9e04f31ae33ea057741f",
       "status": "optimized"
     },
-    "/events/premier-wob-madrid-2026-d6a188a8.webp": {
-      "sha256": "ec224e5f4c29857d38a3a7a67a0740182959fca4ff35e432638d8afc2f1d6988",
-      "status": "retained"
-    },
     "/events/premier-world-token-congress-2026-7d8074c1.webp": {
       "sha256": "e6542926dffd10d24145e7097760bca2312859708e21862ecb16635e00c82b8c",
       "status": "optimized"
@@ -5388,10 +5384,6 @@
     "/events/token2049-side-6a7ea639d354d830a22402c7-36de15ad.webp": {
       "sha256": "a4b457f6d2a89951649ce11734b0d9813e3915c59e21161dca67af531183fc61",
       "status": "retained"
-    },
-    "/events/token2049-side-6a7fe7d3298f21044c271195-e8dfbe91.webp": {
-      "sha256": "5f1b54f779c81c8f361193e9280e18cc9de1f012bd6a6abd394951bfb5829921",
-      "status": "optimized"
     },
     "/events/token2049-side-6a82cebe298f21044c271646-37834739.webp": {
       "sha256": "182f88711e6a94b7a6839947a46cd36e995d75505da612760765b2b8306c3c27",

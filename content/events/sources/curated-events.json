@@ -809,29 +809,6 @@
     }
   },
   {
-    "id": "premier-pslisbon",
-    "slug": "ps",
-    "name": "P.S. Lisbon 2026",
-    "description": "Lisbon has always been a city for the people who explore and [build. Following that same spirit, INPUT, Paybis  and nSureAI](https://Nsure.ai) are bringing together the founders, investors and operators reshaping iGaming and payments, for an evening in Alfama, the oldest neighbourhood in Lisbon.\n\nOctober 1st, at La Distillerie, a 19th century distillery at the heart of the neighbourhood. Music, Portuguese wine, and the kind of company worth writing home about.\n\nWhat to expect\n\n• Founders, investors, and leaders from across iGaming and payments\n• Portuguese wine tasting led by a sommelier\n• Cocktails and canapés throughout\n• DJ set through the night\n• Postcard Corner: pick a card, write something worth sending, and drop it in the box. It gets stamped and mailed straight to your door.\n• A relaxed evening, no agenda, no panels, just good company\n\nThe venue\n\nLa Distillerie sits at the heart of Alfama, Lisbon's oldest neighbourhood. A 19th century distillery, high ceilings, stone walls, authentic Portuguese details.\n\nCo-hosted by Paybis\n\nPaybis makes crypto simple for individuals and enterprises. Established in 2014, the company combines a trusted crypto exchange and wallet—to buy, sell, swap and hold over 90 cryptocurrencies—with award-winning crypto-fiat infrastructure. This infrastructure empowers businesses to transfer capital globally, eliminating traditional payment friction.\n\nIn 2026, Paybis was recognized as the Best Crypto Payment Provider, a testament to our expansive global reach, rapid onboarding protocols, and the deep expertise of the 200 dedicated professionals who drive our operations.\n\nProcessing more than $6bn annually, Paybis is one of the most efficient platforms for acquiring and transacting in digital assets. This commitment to operational excellence is why Paybis maintains one of the highest ratings for crypto companies on Trustpilot, and why 7 million users and hundreds of the world's fastest-growing enterprises consistently rely on our services.\n\n[X](https://x.com/paybis?utm_source=luma) | [LinkedIn](https://www.linkedin.com/company/paybis/?utm_source=luma) | [Website](https://paybis.com/business/on-off-ramp/?utm_source=luma) | [YouTube](https://www.youtube.com/@Paybis/videos?utm_source=luma)\n\n[Co-hosted by nSureAI](https://www.nsure.ai/?utm_source=luma)\n\nnSureAI is an AI-native payment fraud prevention solution that turns risk management into a scalable growth engine. It serves crypto exchanges, digital asset platforms, fintechs, stablecoin PSPs, remittance providers, iGaming operators, and prepaid platforms (incl. gift cards), empowering high-risk merchants to maximize net incremental profit by removing payment friction and false declines.\n\nInstead of static rules or shared pooled models,nSureAI builds a dedicated AI model for every merchant, trained on their unique transaction data to isolate legitimate buyer behavior. Backed by a 100% financial liability shift (chargeback guarantee), the platform approves more valid customers to deliver approval rates up to 98%.\n\nProcessing over $200B in annual volume, nSureAIis one of the most scalable fraud engines in digital commerce. Rendering decisions under 500ms and handling peak volumes of $80M/hr, nSureAI’s operational excellence has driven 3x YoY growth while safeguarding leading global enterprises.\n\n[LinkedIn](https://www.linkedin.com/company/nsureai/about/?utm_source=luma) | [Website](https://www.nsure.ai/?utm_source=luma)\n\nPowered by INPUT Global\n\nINPUT Global is a global communications partner for companies and founders across financial services, digital assets and emerging technology.\n\nWe build market credibility, recognition and influence through:\n\n• PR & Strategic Communications - shaping narratives and building media presence\n• Personal Branding (Voice™) - building visible, credible industry voices\n• Influencer Marketing - connecting brands with the right creators and communities\n• Events - creating the rooms, stages and moments that matter\n\nOur work spans the Americas, Europe and MENA, with experience across 500+ companies and leadership teams, including CBI, Tether, Ledger, Napster, The Vault, Bitget and Outlier Ventures.\n\n90% of our clients stay with us year after year.\n\n[Join INPUT Offstage](https://t.me/+3XURWkx0QXE2MDRk) on Telegram for event and speaking opportunities, media updates, webinars and streams, unreleased KNOWN podcast content, and conversations across our global network.\n\n[X](https://x.com/INPUT_global?utm_source=luma) | [LinkedIn](https://www.linkedin.com/company/inputglobal/?utm_source=luma) | [Website](https://input.global/?utm_source=luma) |  [Telegram](https://t.me/+3XURWkx0QXE2MDRk)",
-    "startDate": "2026-10-01T09:00:00.000Z",
-    "endDate": "2026-10-04T18:00:00.000Z",
-    "city": "Lisbon",
-    "country": "Portugal",
-    "location": "Lisbon, Portugal",
-    "url": "https://input.global",
-    "website": "https://input.global",
-    "coverImage": "/events/crypto1.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "descriptionSource": {
-      "url": "https://luma.com/P.S.Lisbon",
-      "fetchedAt": "2026-09-19T23:54:12.641Z",
-      "method": "matched-organizer-record",
-      "pageTitle": "P.S. Lisbon",
-      "sha256": "287ee0a2786c6bad8214cf4414768efad532855b5eeaebebd3495af5efe73374"
-    }
-  },
-  {
     "id": "premier-stablecoinsg",
     "slug": "stablecoin-summit-2026",
     "name": "Stablecoin Summit Singapore 2026",
@@ -1848,33 +1825,6 @@
     "source": "curated-premier",
     "slug": "ship-safe-devcon-mumbai-security-sessions",
     "coverImage": "/logo/partners/ibw.png"
-  },
-  {
-    "twitter": null,
-    "source": "curated-premier",
-    "coverImage": "/events/premier-wob-madrid-2026-d6a188a8.webp",
-    "id": "premier-wob-madrid-2026",
-    "slug": "wobitcoin",
-    "name": "Watch Out Bitcoin 2026",
-    "description": "Cinco años de debate global sobre Bitcoin. Tres días de paneles, talleres y networking en Madrid.\n\n## Cinco bloques. Una cadena.\n\nCinco años construyendo sobre principios. Cinco años minando comunidad.\n\n## Madrid.Octubre.Bitcoin.\n\n## Tres días. Una forma de entender Bitcoin.\n\n## Talleres\n\nViernes práctico. Lightning, multisig, nodos, privacidad. Trae tu portátil.\n\n## Debates\n\nSábado y domingo de paneles sin filtros. Las preguntas difíciles, las que importan.\n\n## Comunidad\n\nCocktails, cenas y la red WoB. El motivo real por el que la gente vuelve cada año.\n\n## Quiénes hablan.\n\n## Quienes hacen posible WOB 5\n\n## Qué ocurre cada día.\n\nLos talleres son a la misma hora. Tu entrada te da acceso a uno: lo eliges después de comprar.\n\n## Compras la entrada y te escribimos por email para que elijas tu taller.\n\n## Elige cómo vivir WOB 5\n\nAcceso al taller de tu elección; aprende lo que quieras desde las bases.\n\n## ¿Qué incluye cada entrada?\n\n## La tienda WOB.\n\nProductos exclusivos del evento. Paga directamente con ⚡️ o ₿\n\n## Quienes suman al 5º bloque WOB 5\n\n## Cinco años de historia.\n\n## Quiénes ya vivieron WOB.\n\n\"WoB es el sitio donde realmente se discute lo que importa. Volveré sin dudarlo.\"\n\n\"Una de las pocas citas donde puedes hablar de Bitcoin sin ruido ni postureo. Repetiré.\"\n\n\"Buen ambiente, conversaciones de verdad y gente que viene a aportar. Una experiencia que merece la pena.\"\n\n\"Si quieres escuchar ideas interesantes y debatir sobre Bitcoin con gente que sabe de lo que habla, WoB es el lugar.\"\n\n\"Soy de los más veteranos y siempre me llevo mucho más de lo que esperaba: buenas conversaciones, nuevas ideas y ganas de volver el próximo año.\"\n\n\"La calidad de los paneles y de la conversación es difícil de encontrar en otro evento.\"\n\n## ¿Tienes dudas? Las resolvemos.\n\n## No te quedes fueradel 5° aniversario.",
-    "startDate": "2026-10-02T16:00:00+02:00",
-    "endDate": "2026-10-04T18:00:00+02:00",
-    "city": "Madrid",
-    "country": "Spain",
-    "location": "Espacio Pablo VI, Madrid, Spain",
-    "venueName": "Espacio Pablo VI",
-    "streetAddress": "Paseo Juan XXIII, 3",
-    "postalCode": "28040",
-    "url": "https://wobitcoin.org/",
-    "website": "https://wobitcoin.org/",
-    "registrationUrl": "https://wobitcoin.org/",
-    "descriptionSource": {
-      "url": "https://wobitcoin.org/",
-      "fetchedAt": "2026-09-20T00:20:39.704Z",
-      "method": "official-section",
-      "pageTitle": "Watch out, Bitcoin! — WOB 5",
-      "sha256": "bef494f089711e3e19acec092871c9b8431ac81de2668985e6260a5573cc87e2"
-    }
   },
   {
     "twitter": null,

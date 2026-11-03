@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-03T11:32:41.404Z",
+  "checkedAt": "2026-11-03T18:44:14.133Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -11,8 +11,8 @@
   },
   "counts": {
     "existing": 235,
-    "excluded": 372,
-    "needs-review": 39
+    "excluded": 365,
+    "needs-review": 44
   },
   "importedTotal": 253,
   "added": [],
@@ -6282,24 +6282,6 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/fumtr19i",
-      "name": "Founders & Funds, Paddle Cup",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/paddlecup-pitchfest",
-      "name": "Founders & Funds: Paddle Cup",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
       "url": "https://luma.com/vphe8bv5",
       "name": "Derivatives Sunset Lounge",
       "sources": [
@@ -6701,8 +6683,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 429"
     },
     {
       "url": "https://vaultsummit.xyz",
@@ -6719,8 +6701,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 429"
     },
     {
       "url": "https://luma.com/3b3624jr",
@@ -6728,8 +6710,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 429"
     },
     {
       "url": "https://luma.com/TBE-Fasset-Reserve",
@@ -6737,8 +6719,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 429"
     },
     {
       "url": "https://luma.com/9eycszeo",
@@ -6746,8 +6728,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 429"
     },
     {
       "url": "https://luma.com/2ezvuwxk",

@@ -137,130 +137,6 @@ Come to Roatán anytime, or bring your team for a retreat! We'll tailor and orga
 
 Join us for business opportunities, networking, events, networking, sovereign lifestyle and a free life.
 
-<a id="event-bcd058b8d3af72d9"></a>
-
-## P.S. Lisbon 2026
-
-- Record: `premier-pslisbon`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-01T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://input.global>
-
-### About the event
-
-Lisbon has always been a city for the people who explore and [build. Following that same spirit, INPUT, Paybis and nSureAI](https://Nsure.ai) are bringing together the founders, investors and operators reshaping iGaming and payments, for an evening in Alfama, the oldest neighbourhood in Lisbon.
-
-October 1st, at La Distillerie, a 19th century distillery at the heart of the neighbourhood. Music, Portuguese wine, and the kind of company worth writing home about.
-
-### What to expect
-
-- Founders, investors, and leaders from across iGaming and payments
-- Portuguese wine tasting led by a sommelier
-- Cocktails and canapés throughout
-- DJ set through the night
-- Postcard Corner: pick a card, write something worth sending, and drop it in the box. It gets stamped and mailed straight to your door.
-- A relaxed evening, no agenda, no panels, just good company
-
-The venue
-
-La Distillerie sits at the heart of Alfama, Lisbon's oldest neighbourhood. A 19th century distillery, high ceilings, stone walls, authentic Portuguese details.
-
-Co-hosted by Paybis
-
-Paybis makes crypto simple for individuals and enterprises. Established in 2014, the company combines a trusted crypto exchange and wallet - to buy, sell, swap and hold over 90 cryptocurrencies - with award-winning crypto-fiat infrastructure. This infrastructure empowers businesses to transfer capital globally, eliminating traditional payment friction.
-
-In 2026, Paybis was recognized as the Best Crypto Payment Provider, a testament to our expansive global reach, rapid onboarding protocols, and the deep expertise of the 200 dedicated professionals who drive our operations.
-
-Processing more than $6bn annually, Paybis is one of the most efficient platforms for acquiring and transacting in digital assets. This commitment to operational excellence is why Paybis maintains one of the highest ratings for crypto companies on Trustpilot, and why 7 million users and hundreds of the world's fastest-growing enterprises consistently rely on our services.
-
-[X](https://x.com/paybis?utm_source=luma) | [LinkedIn](https://www.linkedin.com/company/paybis/?utm_source=luma) | [Website](https://paybis.com/business/on-off-ramp/?utm_source=luma) | [YouTube](https://www.youtube.com/@Paybis/videos?utm_source=luma)
-
-[Co-hosted by nSureAI](https://www.nsure.ai/?utm_source=luma)
-
-nSureAI is an AI-native payment fraud prevention solution that turns risk management into a scalable growth engine. It serves crypto exchanges, digital asset platforms, fintechs, stablecoin PSPs, remittance providers, iGaming operators, and prepaid platforms (incl. gift cards), empowering high-risk merchants to maximize net incremental profit by removing payment friction and false declines.
-
-Instead of static rules or shared pooled models,nSureAI builds a dedicated AI model for every merchant, trained on their unique transaction data to isolate legitimate buyer behavior. Backed by a 100% financial liability shift (chargeback guarantee), the platform approves more valid customers to deliver approval rates up to 98%.
-
-Processing over $200B in annual volume, nSureAIis one of the most scalable fraud engines in digital commerce. Rendering decisions under 500ms and handling peak volumes of $80M/hr, nSureAI's operational excellence has driven 3x YoY growth while safeguarding leading global enterprises.
-
-[LinkedIn](https://www.linkedin.com/company/nsureai/about/?utm_source=luma) | [Website](https://www.nsure.ai/?utm_source=luma)
-
-Powered by INPUT Global
-
-INPUT Global is a global communications partner for companies and founders across financial services, digital assets and emerging technology.
-
-We build market credibility, recognition and influence through:
-
-- PR & Strategic Communications - shaping narratives and building media presence
-- Personal Branding (Voice™) - building visible, credible industry voices
-- Influencer Marketing - connecting brands with the right creators and communities
-- Events - creating the rooms, stages and moments that matter
-
-Our work spans the Americas, Europe and MENA, with experience across 500+ companies and leadership teams, including CBI, Tether, Ledger, Napster, The Vault, Bitget and Outlier Ventures.
-
-90% of our clients stay with us year after year.
-
-[Join INPUT Offstage](https://t.me/+3XURWkx0QXE2MDRk) on Telegram for event and speaking opportunities, media updates, webinars and streams, unreleased KNOWN podcast content, and conversations across our global network.
-
-[X](https://x.com/INPUT_global?utm_source=luma) | [LinkedIn](https://www.linkedin.com/company/inputglobal/?utm_source=luma) | [Website](https://input.global/?utm_source=luma) | [Telegram](https://t.me/+3XURWkx0QXE2MDRk)
-
-<a id="event-a4b8ddd09a14a1a5"></a>
-
-## Watch Out Bitcoin 2026
-
-- Record: `premier-wob-madrid-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-02T16:00:00+02:00
-- Description: Source-backed
-- Original page: <https://wobitcoin.org/>
-
-### About the event
-
-Cinco años de debate global sobre Bitcoin. Tres días de paneles, talleres y networking en Madrid.
-
-### Cinco bloques. Una cadena
-
-Cinco años construyendo sobre principios. Cinco años minando comunidad.
-
-### Talleres
-
-Viernes práctico. Lightning, multisig, nodos, privacidad. Trae tu portátil.
-
-### Debates
-
-Sábado y domingo de paneles sin filtros. Las preguntas difíciles, las que importan.
-
-### Comunidad
-
-Cocktails, cenas y la red WoB. El motivo real por el que la gente vuelve cada año.
-
-### Qué ocurre cada día
-
-Los talleres son a la misma hora. Tu entrada te da acceso a uno: lo eliges después de comprar.
-
-### Elige cómo vivir WOB 5
-
-Acceso al taller de tu elección; aprende lo que quieras desde las bases.
-
-### La tienda WOB
-
-Productos exclusivos del evento. Paga directamente con o ₿
-
-### Quiénes ya vivieron WOB
-
-"WoB es el sitio donde realmente se discute lo que importa. Volveré sin dudarlo."
-
-"Una de las pocas citas donde puedes hablar de Bitcoin sin ruido ni postureo. Repetiré."
-
-"Buen ambiente, conversaciones de verdad y gente que viene a aportar. Una experiencia que merece la pena."
-
-"Si quieres escuchar ideas interesantes y debatir sobre Bitcoin con gente que sabe de lo que habla, WoB es el lugar."
-
-"Soy de los más veteranos y siempre me llevo mucho más de lo que esperaba: buenas conversaciones, nuevas ideas y ganas de volver el próximo año."
-
-"La calidad de los paneles y de la conversación es difícil de encontrar en otro evento."
-
 <a id="event-46c5fdf8a9d60a49"></a>
 
 ## Ethereum Brasil 2026
@@ -32247,138 +32123,6 @@ All workshops stream live on Discord, including the kickoff with the Colosseum f
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-554003be8c1aaa5a"></a>
-
-## Pre Token 2049 Web3 Ai : Mixers
-
-- Record: `token2049-side-6a7fe7d3298f21044c271195`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-04T10:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/rweo2o60>
-
-### About the event
-
-Oct 4, 2026 (Sunday)
-
-6 PM - 1 AM
-
-Location: Disclosed to approved guests
-
-Access: Curated invite / Application only
-
-### What It Is
-
-Key Note + Panel + Food + Drinks + Networking + Party before the Token 2049 week starts
-
-This is not a conference event. It's a kick-off gathering night. Where capital meets narratives.
-
-### 6 PM - 10 PM: Event Highlights
-
-Keynote Sharing
-
-Hear from leading founders, investors, and industry experts as they share insights on the latest trends shaping AI, Web3, digital assets, and the future of decentralized technologies. Gain practical perspectives on market opportunities, emerging innovations, fundraising, regulation, and building scalable businesses.
-
-Panel Discussion
-
-Join an engaging discussion featuring ecosystem leaders, venture capitalists, entrepreneurs, and technology innovators as they explore the future of AI and Web3.
-
-### 10 PM - 1 AM: After Dark Party
-
-- Live music, movement, and energy unchained
-- Forget agendas. Expect serendipity
-- A place where you'll meet allies, rivals, and maybe future legends
-
-### Expect
-
-Curated Networking
-
-Continue the conversations after the sessions with founders, investors, builders, enterprises, and community leaders. Exchange ideas, explore partnerships, and build valuable relationships before TOKEN2049 officially begins.
-
-Who You'll Meet
-
-- Founders & Startup Teams
-- Venture Capital & Angel Investors
-- Family Offices
-- Corporate Innovation Leaders
-- AI & Web3 Builders
-- Exchanges & Infrastructure Providers
-- Media & Ecosystem Partners
-
-Craft beers & Wine + Food: a curated drink and food menu for refined degens.
-
-Whale Density: Every guest is handpicked based on reputation, wallet history, or warm intro.
-
-Off-Record Energy: The stories, alpha, and deals you won't hear on stage.
-
-Music & Atmosphere: Live sets and a soundscape built for both movement and conversation.
-
-### Access is limited
-
-Apply to attend or respond to your private invitation.
-
-Location revealed to approved guests.
-
-DM for partnerships and sponsorships @Jay_Koh
-
-### Hosted by
-
-[A decentralized platform that leverages Insight Genesis AI](https://insightgenesis.ai/)technology for remote video and voice-based for personality, wellness, career, education, financial and health risk assessments and psychometric testing.
-
-By combining the principles of Web 3.0 with AI-powered health analytics, we create a community-driven ecosystem where users can earn, contribute, and engage with behavior data in a privacy-focused, transparent manner.
-
-Insight Genesis Ai is Live on Beta now at https://insightgenesis.ai/insights-form
-
-Follow X https://x.com/genesis_insight
-
-Join TG https://t.me/InsightGenesis
-
-### Hosting Association
-
-Leading Asia's Digital Frontier: Connecting governments, enterprises, startups, and communities to drive innovation and collaboration across Blockchain, Web3, AI, and Real-World Asset
-
-Join as member
-
-https://asiaweb3aiassociation.org/membership
-
-Follow us across our official channels:
-
-Twitter (X): [https://x.com/AsiaWeb3Ai]
-
-LinkedIn: [https://linkedin.com/company/asia-web3-ai-association/]
-
-Website: [https://asiaweb3aiassociation.org]
-
-Telegram: [https://t.me/AsiaBlockchainEvents]
-
-Facebook Group: [https://www.facebook.com/groups/asiaweb3aiassociation]
-
-WhatsApp's Group https://chat.whatsapp.com/DzGnNA8akAW06e0NBiWcft
-
-Let's build the future of AI × Web3 in Asia - together.
-
-Get your Early 𝐛𝐢𝐫𝐝 𝐭𝐢𝐜𝐤𝐞𝐭 𝐟𝐨𝐫 𝐓𝐨𝐤𝐞𝐧2049 𝐒𝐢𝐧𝐠𝐚𝐩𝐨𝐫𝐞 2026 now!
-
-p.s. Apply this promo code "UN42W7F" to get an extra 15% discount upon checkout!
-
-https://checkout.token2049.com/events/asia?promo=UN42W7F&referral_source=api
-
-Submit your side event here https://luma.com/2049events
-
-### Previous Edition
-
-2025
-
-2024
-
-Supporting Community Partners:
-
-Note
-
-As this is an invite-only event, please be aware that registering does not guarantee access due to limited availability.
-
-Please note that entry will be granted only to ticketed guests, and tickets are not transferable.
-
 <a id="event-c25323b91ea10b08"></a>
 
 ## CoinFerenceX Singapore 2026 - Day 1
@@ -53610,6 +53354,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-9916f149ebef34e5"></a>
+
+## Lean LaunchPad Spring 2027: Ideas Showcase 🚀
+
+- Record: `luma-evt-tv3CO8xS7El1TFM`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-06T00:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/6y6ydmui>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-83d0b1610270b6a3"></a>
 
 ## Helicon Fireside Chat
@@ -53867,6 +53623,18 @@ RSVP is free via Luma and subject to venue capacity limits. Guests are encourage
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-92f54df87269d658"></a>
+
+## Chainlink Community Pulse (English) – October Edition
+
+- Record: `luma-host-evt-evt-2cAnZH8JAM24HBD`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-06T20:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/cloctpulse>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-a7e777b06db9a4e8"></a>
 
 ## B-Only 2026
@@ -53943,7 +53711,7 @@ An organizer description has not been verified for this record. Any previous cop
 
 <a id="event-0490605ac31e4fcf"></a>
 
-## SuperteamTR x Dev3pack: University Hackathon ⚡️ — Istanbul & Online
+## SuperteamTR x Dev3pack: University Hackathon ⚡️ — Online + Istanbul
 
 - Record: `luma-host-evt-evt-XpEsg0H2F3OHceq`
 - Source: [events-cache.json](sources/events-cache.json)
@@ -54612,6 +54380,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-12T19:00:00-05:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/the-territory-unread/events/315599215/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-26bb02c38af42579"></a>
+
+## Understanding DISC: Communicate, Connect & Build Stronger Relationships with Coach Cheryl McDonald
+
+- Record: `luma-evt-ZMHHGIja0ON2I7A`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-12T19:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/yhou4sgg>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -55775,6 +55555,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-7329892cffcb7edf"></a>
+
+## Clay in Boston: Clay+Hubspot- creating a living ICP model for your CRM
+
+- Record: `luma-evt-q2lQHoXHuJhCcdi`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-18T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/rpf9vl03>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-8ad8152e51fbf953"></a>
 
 ## The Base Camp Dinner: Boston \| Redefining Your Business in the Age of AI \| Hosted by John Rougeux and Jess Meher
@@ -56036,6 +55828,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-20T15:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://www.universityblockchain.org/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-835a4e519c470ff0"></a>
+
+## Dinner at Oliver's Modern American
+
+- Record: `mu-317181350`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-20T17:30:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/arizona-stock-options-and-futures-investors/events/317181350/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -56397,6 +56201,18 @@ Your ticket automatically carries over to the new dates. You do not need to do a
 
 Your commitment carries forward to 2027, and our team will be in touch directly to walk through the details and make sure everything you planned for still delivers.
 
+<a id="event-1dcbca9e04036d3b"></a>
+
+## Solana Padel Match
+
+- Record: `luma-host-evt-evt-w3iE1ZeeFBWQUCH`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-07T05:30:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/SolanaPadelMatchSuperweek>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-97d4019858a57a64"></a>
 
 ## Solana Arcade Night
@@ -56433,6 +56249,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-d19cc15b876f0654"></a>
+
+## Solana Coffee Connect
+
+- Record: `luma-host-evt-evt-ag6JFY5WZrCIGbi`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-08T08:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/SolanaCoffeeConnectSuperweek>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-795ef3db2eb03adf"></a>
 
 ## Solana After Dark @SEZ
@@ -56454,6 +56282,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-09T04:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/SEZRun>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-038173ad790509f8"></a>
+
+## Solana Afternoon Soirée
+
+- Record: `luma-host-evt-evt-KAos7sj5AAyZqKS`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-09T11:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/SolanaAfternoonSoireeADFW>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -56480,6 +56320,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Description: Unverified stored copy
 - Original page: <https://conferenceindex.org/event/international-conference-on-blockchain-icb-2026-december-kuala-lumpur-my>
 - Original page: <https://waset.org/blockchain-conference-in-december-2026-in-kuala-lumpur?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-c05e06624d018368"></a>
+
+## Solana Muay Thai
+
+- Record: `luma-host-evt-evt-TAgdaghwfv42w8q`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-10T06:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/SolanaMuayThaiSupeweek>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -56529,6 +56381,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-12T16:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/nd5e5m4z>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-071572fb805bf799"></a>
+
+## Solana Dunes
+
+- Record: `luma-host-evt-evt-bJh9tTLff2UOpEA`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-13T12:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/SolanaDunesSuperweek>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
