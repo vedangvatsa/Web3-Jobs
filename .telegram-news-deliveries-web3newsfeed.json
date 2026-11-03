@@ -3045,5 +3045,36 @@
     "slotKey": "2026-11-02:evening",
     "messageId": 65799,
     "sentAt": "2026-11-02T19:38:48.717Z"
+  },
+  "f302f869-8258-4d38-bb2f-cc5b70451798": {
+    "status": "reserved",
+    "reservedAt": "2026-11-03T03:39:45.414Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Ramp Seeks Federal Charter for Digital Asset Custody",
+        "summary": "The company filed with the OCC to provide fiduciary services without accepting deposits or issuing loans.",
+        "link": "https://hashtagweb3.com/ramptrust?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ramp applies to the OCC for a national trust bank and digital asset custody"
+      },
+      {
+        "index": -1,
+        "headline": "Stablecoin payment volume grew 45 percent to 482 billion",
+        "summary": "Increased usage by major payment processors drove transaction growth despite minimal changes to the total stablecoin supply.",
+        "link": "https://hashtagweb3.com/stablecoinpay?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Stablecoin payments jump 45% to $482B while supply barely moves"
+      },
+      {
+        "index": -1,
+        "headline": "Prysm Updates Gas Limit Ahead of Sepolia Test",
+        "summary": "Version 7.2.1 sets a 200 million gas limit for Sepolia validators before the October 6 network activation.",
+        "link": "https://hashtagweb3.com/prysm-fix?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Prysm Ships 200M Gas Limit Fix Hours Before Sepolia Test"
+      }
+    ],
+    "slotKey": "2026-11-03:morning"
   }
 }
