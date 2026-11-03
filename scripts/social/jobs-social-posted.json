@@ -95510,6 +95510,54 @@
       "verification": "verified",
       "postId": "6ae9c727f81926b932922e57",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7523347365215514624"
+    },
+    {
+      "slug": "pm288",
+      "company": "Zero Hash",
+      "title": "Product Counsel",
+      "platform": "linkedin",
+      "postedAt": "2026-11-03T11:33:08.079Z",
+      "expectedText": "Zero Hash is hiring Product Counsel: https://hashtagweb3.com/pm288/li?og=7",
+      "snapshot": {
+        "id": "802e7802dcfb",
+        "title": "Product Counsel",
+        "company": "Zero Hash",
+        "link": "https://zero-hash.breezy.hr/p/802e7802dcfb-product-counsel",
+        "date": "2026-10-12",
+        "dateVerified": true,
+        "dateSource": "Breezy.JobPosting.datePosted",
+        "source": "Breezy: Zero Hash [zero-hash]",
+        "location": "Remote (United States)",
+        "isRemote": true,
+        "department": "Legal",
+        "active": true,
+        "dateEvidence": {
+          "url": "https://zero-hash.breezy.hr/p/802e7802dcfb-product-counsel",
+          "checkedAt": "2026-10-13T01:34:00.433Z",
+          "bodySha256": "22acace2554592590633620ed5895b0da27c58a314ca7898c93a13d7b0c23d4f",
+          "provider": "breezy",
+          "datePosted": "2026-10-12"
+        },
+        "slug": "pm288"
+      },
+      "payload": {
+        "text": "Zero Hash is hiring Product Counsel: https://hashtagweb3.com/pm288/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm288/li?og=7",
+          "title": "Product Counsel at Zero Hash",
+          "description": "Join Zero Hash as Product Counsel. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm288.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "e19c8f6e-6753-4821-acdc-958fdd7de6aa",
+      "verification": "creating"
     }
   ]
 }
