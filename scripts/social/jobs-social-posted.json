@@ -95774,7 +95774,8 @@
       },
       "account": "profile",
       "attemptId": "016ddacb-f2dc-44f3-9fc2-4c195e3d6193",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc90fcfdce34dfda10e10e387876e67dbc16a8cc7"
     }
   ]
 }
