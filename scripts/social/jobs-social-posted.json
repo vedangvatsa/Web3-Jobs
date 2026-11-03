@@ -94689,6 +94689,46 @@
       "attemptId": "b78eee3a-a4eb-40f2-a7f2-4a62994c1b6d",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Tuesday, 03-Nov-26 03:33:38 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A4mROKjQG2XpYMFc1_wZ28w\"}"
+    },
+    {
+      "slug": "pm288",
+      "company": "Zero Hash",
+      "title": "Product Counsel",
+      "platform": "bluesky",
+      "postedAt": "2026-11-03T11:33:08.079Z",
+      "expectedText": "Zero Hash is hiring Product Counsel: https://hashtagweb3.com/pm288/bsky?og=7",
+      "snapshot": {
+        "id": "802e7802dcfb",
+        "title": "Product Counsel",
+        "company": "Zero Hash",
+        "link": "https://zero-hash.breezy.hr/p/802e7802dcfb-product-counsel",
+        "date": "2026-10-12",
+        "dateVerified": true,
+        "dateSource": "Breezy.JobPosting.datePosted",
+        "source": "Breezy: Zero Hash [zero-hash]",
+        "location": "Remote (United States)",
+        "isRemote": true,
+        "department": "Legal",
+        "active": true,
+        "dateEvidence": {
+          "url": "https://zero-hash.breezy.hr/p/802e7802dcfb-product-counsel",
+          "checkedAt": "2026-10-13T01:34:00.433Z",
+          "bodySha256": "22acace2554592590633620ed5895b0da27c58a314ca7898c93a13d7b0c23d4f",
+          "provider": "breezy",
+          "datePosted": "2026-10-12"
+        },
+        "slug": "pm288"
+      },
+      "payload": {
+        "text": "Zero Hash is hiring Product Counsel: https://hashtagweb3.com/pm288/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/pm288/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/pm288.png?v=7",
+        "company": "Zero Hash",
+        "title": "Product Counsel",
+        "description": "Join Zero Hash as Product Counsel. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "71c15f85-2f66-4ab1-be9a-dfdeb2d2f97a",
+      "verification": "creating"
     }
   ]
 }
