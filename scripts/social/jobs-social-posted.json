@@ -96417,7 +96417,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "0b92c057-8e7e-4c18-b4b9-61ce64252165",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae9c802e9a91b5943cdd34d"
     }
   ]
 }
