@@ -53018,6 +53018,42 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-f517fe2b8d4a13c3"></a>
+
+## Eastern Timezone Drupal Meetup - Lightning Talks
+
+- Record: `mu-317243501`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T17:45:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/drupalatlanta/events/317243501/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-85930a173e5d98b8"></a>
+
+## Bitcoin Builders #11
+
+- Record: `mu-317194269`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T18:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/atlbitlab/events/317194269/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-70b837e698a963ab"></a>
+
+## Bitcoin Builders #11
+
+- Record: `mu-317195011`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T18:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/atlantabitdevs/events/317195011/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-cf5698c19b5f4f87"></a>
 
 ## Bitcoin 101
@@ -53087,6 +53123,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-04T19:00:00-06:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/satoshi-service-center/events/316047306/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-7f1a633b0f265c23"></a>
+
+## Crypto Make Up Meeting
+
+- Record: `mu-317003166`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T19:15:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/atlanta-meetup-and-trade-community/events/317003166/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -53807,6 +53855,18 @@ The party takes place at a premium nightlife venue in Mumbai on November 6, begi
 
 RSVP is free via Luma and subject to venue capacity limits. Guests are encouraged to arrive early with a valid ID and their confirmation QR code, as entry is managed on a first-come, first-served basis at the door.
 
+<a id="event-24b0596cd7c0c8f2"></a>
+
+## Beginning Concepts to Foreign and Crypto Trading
+
+- Record: `mu-317029425`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-06T19:15:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/atlanta-meetup-and-trade-community/events/317029425/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-a7e777b06db9a4e8"></a>
 
 ## B-Only 2026
@@ -54373,6 +54433,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-c7cbd8005e99899f"></a>
+
+## BitPlebs Bitcoin Meetup @ ATL BitLab
+
+- Record: `mu-315045010`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-11T18:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/atlantabitdevs/events/315045010/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-7afea9394efc6e4b"></a>
+
+## BitPlebs Bitcoin Meetup @ ATL BitLab
+
+- Record: `mu-317134789`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-11T18:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/atlbitlab/events/317134789/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-343ca9f17870e9da"></a>
 
 ## •	Linux on IBM Z and LinuxONE Crypto News
@@ -54516,6 +54600,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-12T18:00:00-06:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/chibitdevs/events/317110095/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-e743f4cc89184075"></a>
+
+## Nadja by André Breton, Translated by Mark Polizzotti
+
+- Record: `mu-315599215`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-12T19:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/the-territory-unread/events/315599215/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -54710,6 +54806,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-13T10:00:00-05:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-north-carolina/events/317156463/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-257513a756ac2131"></a>
+
+## Webinar with Cosmos Labs: Designing Tokenized Deposits for a Multi-Ledger Future
+
+- Record: `mu-317156493`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-13T10:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-atlanta/events/317156493/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -55643,6 +55751,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-38ef5168481d4057"></a>
+
+## BitDevs: Bitcoin Socratic Seminar #56
+
+- Record: `mu-317194305`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-18T18:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/atlbitlab/events/317194305/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-186cd1f1e4c782a8"></a>
+
+## BitDevs: Bitcoin Socratic Seminar #56
+
+- Record: `mu-317195141`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-18T18:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/atlantabitdevs/events/317195141/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-8ad8152e51fbf953"></a>
 
 ## The Base Camp Dinner: Boston \| Redefining Your Business in the Age of AI \| Hosted by John Rougeux and Jess Meher
@@ -55736,6 +55868,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-19T11:00:00-06:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-chicago/events/317065030/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-16ade0b490521772"></a>
+
+## ZK Learning Group: ZK Identity, supporting AML/KYC with ZK
+
+- Record: `mu-317064964`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19T12:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-atlanta/events/317064964/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -55997,6 +56141,18 @@ Check the organizer's current pass comparison for meal, activity and invitation-
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-3b26d03edfb57fdb"></a>
+
+## BitPlebs: Bitcoin Pub Night @ Manuel's Tavern
+
+- Record: `mu-315045051`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-25T18:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/atlantabitdevs/events/315045051/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-ccce9c031580ff44"></a>
 
 ## Beyond Lemonade & Tractable: How Insurers Win with AI
@@ -56170,6 +56326,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-01T19:00:00-06:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/real-estate-investing-free-education-mentor-san-antonio/events/316913789/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-5de9f1038082f3ac"></a>
+
+## Bitcoin Builders #12
+
+- Record: `mu-317194380`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-02T18:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/atlbitlab/events/317194380/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
