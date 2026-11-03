@@ -124605,7 +124605,23 @@
       "firstSeenAt": "2026-11-03T01:43:52.711Z",
       "attempts": 0,
       "expiresAt": "2026-11-05T22:22:30.000Z",
-      "lastSeenAt": "2026-11-03T01:43:52.711Z"
+      "lastSeenAt": "2026-11-03T01:43:52.711Z",
+      "articleSlug": "njstaking",
+      "draftProgress": {
+        "id": "eb058751d7a24ceec909",
+        "day": "2026-11-03",
+        "articleSlug": "njstaking",
+        "note": "Read Cointelegraph report of NJ rescission; need Defiant body or other outlet plus primary notice.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/new-jersey-coinbase-staking",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-03T02:01:24.608Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "4d5b38fe2c943764ba36": {
       "source": "BeInCrypto",
