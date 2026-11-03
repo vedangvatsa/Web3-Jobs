@@ -2914,7 +2914,7 @@
     "sentAt": "2026-11-02T19:37:30.554Z"
   },
   "06150df2-61b5-401e-a31f-b4365c06bbde": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-03T03:39:27.480Z",
     "stories": [
       {
@@ -2942,6 +2942,8 @@
         "originalTitle": "Stablecoin payments jump 45% to $482B while supply barely moves"
       }
     ],
-    "slotKey": "2026-11-03:morning"
+    "slotKey": "2026-11-03:morning",
+    "messageId": 156053,
+    "sentAt": "2026-11-03T03:39:38.954Z"
   }
 }
