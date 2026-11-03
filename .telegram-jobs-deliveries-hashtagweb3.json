@@ -7156,7 +7156,7 @@
     "sentAt": "2026-11-03T03:37:09.057Z"
   },
   "f7baf10f-1e1c-4927-b011-12dbd8c9c282": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-03T11:34:13.301Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -7266,6 +7266,8 @@
       }
     ],
     "message": "- DRW is hiring <a href=\"https://hashtagweb3.com/dev39?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Global Delta1 - Software Developer</a>\n- CertiK is hiring <a href=\"https://hashtagweb3.com/mgr215?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Project Manager</a>\n- Ethena Labs is hiring <a href=\"https://hashtagweb3.com/csap?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Success Agent - Ethena Pay</a>\n- StraitsX is hiring <a href=\"https://hashtagweb3.com/pm350?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager, Internal Tools</a>\n- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/sec72?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Member of Technical Staff - IT &amp; Security Eng.</a>",
-    "slotKey": "2026-11-03:afternoon"
+    "slotKey": "2026-11-03:afternoon",
+    "messageId": 156057,
+    "sentAt": "2026-11-03T11:34:32.685Z"
   }
 }
