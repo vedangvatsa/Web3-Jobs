@@ -95028,7 +95028,8 @@
       },
       "account": "channel:developers",
       "attemptId": "e0ea1ccd-2de6-46a5-887e-ecbdf87312f4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x660401e3aea379faaa260788ce430d44a4eb1977"
     }
   ]
 }
