@@ -96417,8 +96417,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "0b92c057-8e7e-4c18-b4b9-61ce64252165",
-      "verification": "pending",
-      "postId": "6ae9c802e9a91b5943cdd34d"
+      "verification": "verified",
+      "postId": "6ae9c802e9a91b5943cdd34d",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7523348281683324928"
     }
   ]
 }
