@@ -120069,11 +120069,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "c9d3c6b9331537a5ef2a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-01T03:32:04.135Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-03T20:33:38.000Z",
-      "lastSeenAt": "2026-11-01T03:32:04.135Z"
+      "lastSeenAt": "2026-11-01T03:32:04.135Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read the Crypto Briefing piece. It is prediction-market-framed analysis of how the hack is being debated in Washington before the election, with no named official statement, vote, filing or other concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/binance-6b-hack-fuels-washington-debate-on-crypto-regulation-before-election/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-03T02:21:57.017Z",
+      "lastReviewedDay": "2026-11-03"
     },
     "460a4c19bf5c1dca6bc7": {
       "source": "Crypto Briefing",
@@ -229958,6 +229968,18 @@
             }
           ],
           "reviewedAt": "2026-11-03T02:21:23.726Z"
+        },
+        "c9d3c6b9331537a5ef2a": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read the Crypto Briefing piece. It is prediction-market-framed analysis of how the hack is being debated in Washington before the election, with no named official statement, vote, filing or other concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/binance-6b-hack-fuels-washington-debate-on-crypto-regulation-before-election/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-03T02:21:57.017Z"
         }
       },
       "baselineSlugs": [
