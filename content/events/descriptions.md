@@ -4780,30 +4780,6 @@ TOKEN2049's inaugural New York edition brings together crypto founders, investor
 
 Global Startup Ecosystem lists a two-hour blockchain gathering for entrepreneurs, investors and creatives in New York. The venue has not been announced.
 
-<a id="event-6e80293da47d4a52"></a>
-
-## Founders & Funds: Paddle Cup
-
-- Record: `token2049-evt-LogZtWT8oa5fv8p`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-03T23:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/fumtr19i>
-
-### About the event
-
-Founders & Funds: Paddle Cup is scheduled for 4 October 2026 at 07:30 (Asia/Singapore). Hosted by Luvon Labs Official, SpedaxAI Official.
-
-TOKEN2049 week is full of fifteen-minute pitch meetings and identical VC dinners.
-
-It's a structured format built for one outcome: immediate founder-fund pairing and relationships that outlast the tournament.
-
-16 invite-only VIP founder-fund teams compete alongside 8 open wildcard teams, 24 teams, and 48 players in all, with roughly 60 to 80 people total once you count non-playing guests and press.
-
-1:15 to 2:00 PM, Closing Brunch: Relaxed networking with the people you just played against
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
 <a id="event-dbfb89084979f0d3"></a>
 
 ## Web3TV Interview Feature With Singapore Blockchain Week
@@ -15394,133 +15370,6 @@ The organizer's timeline lists a September 16 kickoff and an October 16 submissi
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
-<a id="event-ce39e85336631825"></a>
-
-## The AI Commerce Gallery - Hackathon \| Walt Disney Family Museum
-
-- Record: `luma-crypto-9G13qSATpaiBBSX`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-10-03T16:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/6bbloggr>
-
-### About the event
-
-AI Commerce Gallery - ZooWork × AI Valley
-
-### What does the next generation of AI-powered commerce look like?
-
-ZooWork and AI Valley are bringing together builders, founders, engineers, designers, and commerce leaders for AI Commerce Gallery - a curated one-day hackathon and interactive showcase for products pushing commerce forward.
-
-On October 3rd, AI Commerce Gallery takes over The Walt Disney Family Museum in San Francisco for a full day of building, demos, and exploration.
-
-Teams will build throughout the day in the Diane Disney Miller Exhibition Hall before the evening program moves into the Main Museum, with presentations in the Theater and Lower Lobby and private access to the Museum's Main Galleries from 6-8 PM.
-
-Teams will build AI-powered products across:
-
-- E-commerce & storefront experiences
-- Merchant operations, inventory, fulfillment & payments
-- Restaurants, retail, POS & physical commerce
-- AI agents, MCP integrations & workflow automation
-
-But this isn't a traditional hackathon.
-
-Instead of spending the evening watching dozens of back-to-back pitches, every team will turn their project into an exhibit for the AI Commerce Gallery Walk.
-
-After the Gallery Walk, the evening moves into the Main Museum for featured demos, awards, networking, and two hours to explore The Walt Disney Family Museum's Main Galleries.
-
-Attendees, judges, partners, and investors will move through the gallery, interact with live demos, meet the builders, and experience what the future of commerce could actually feel like.
-
-Throughout the day, builders will have access to AI tools, APIs, integrations, technical workshops, mentors, and partner resources to help turn ideas into working products.
-
-The strongest projects will be selected as Featured Exhibits and invited to demo on the main stage before the Gallery Awards.
-
-Awards include
-
-Best in Gallery
-
-Best AI Commerce Product
-
-Most Commercially Viable
-
-Best Use of ZooWork
-
-People's Choice
-
-October 3rd, 2026
-
-The Walt Disney Family Museum - San Francisco
-
-100-150 curated builders, founders, investors & industry leaders
-
-25-35 teams
-
-### Event Schedule
-
-9:00 AM - Registration & Breakfast
-
-Check-in, networking, and breakfast.
-
-10:30 AM - Opening Ceremony
-
-Welcome, AI Commerce Gallery introduction & challenge briefing.
-
-11:00 AM - Workshops & Curator Hours
-
-Technical workshops, partner resources & mentor support.
-
-12:30 PM - Lunch
-
-Networking lunch + continued hacking.
-
-4:00 PM - Progress Review
-
-Final team check-ins, product feedback & mentor support.
-
-5:00 PM - Exhibit Submission Deadline
-
-Final projects, demos & gallery categories submitted.
-
-5:00 PM - Dinner + Gallery Setup
-
-Teams prepare their exhibit stations while judges review submissions.
-
-5:30 PM - AI Commerce Gallery Walk
-
-Explore every team's live project exhibit and meet the builders.
-
-6:15 PM - Featured Exhibit Presentations
-
-Top 5-8 projects demo on the main stage.
-
-7:00 PM - Gallery Awards
-
-Winner announcements & prizes.
-
-7:30-9:00 PM - Gallery Reception
-
-Networking with builders, partners, judges, investors & industry guests.
-
-9:00 PM - Event Closing
-
-The formal program will conclude with a Gallery Reception bringing together builders, partners, judges, investors, and industry guests.
-
-Come build - or come see - what the next generation of AI-powered commerce looks like.
-
-[ZooWork](https://zoowork.ai) - The AI agent delivery platform for FDEs and domain experts. Build, deploy, and deliver production-ready AI agents to your team or clients in minutes - with Agent Builder, Agent Runtime, model gateway, data, and integrations all in one place. ZooWork turns your expertise into repeatable AI solutions that run inside real business operations, connected [to the tools your teams already use. Learn more at zoowork.ai](https://zoowork.ai).
-
-[AI Valley](http://aivalley.io/?referrer=luma) is a community rooted in supporting exceptional first generation builders, founders, and creators. We curate environments where ambitious people meet collaborators, mentors, and opportunities through hackathons, workshops, and intimate gatherings across AI, tech, and the arts. If you care about who you build with as much as what you build, this is your place.
-
-Website: https://aivalley.io
-
-Events: https://lu.ma/aivalley
-
-Community (Discord): https://discord.gg/QESCnSUPC9
-
-Newsletter: https://aivalleyio.substack.com
-
-All links: https://aivalley.io/links
-
 <a id="event-978f0a83d2a7c2e4"></a>
 
 ## Roundtable during TOKEN2049 week in Singapore
@@ -22458,52 +22307,6 @@ Local: Solana House
 
 Se você leva construir a sério, sua garagem começa aqui.
 
-<a id="event-7402571f82e57267"></a>
-
-## BAYC 성수 브랜드 팝업
-
-- Record: `luma-batch-evtK1x9BrE2Ya68E`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-30T04:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/0a0g9am0>
-
-### About the event
-
-KBW 2026을 맞아, Bored Ape Yacht Club이 성수에 새로운 공간을 엽니다.
-
-9월 30일부터 10월 4일까지, BAYC의 세계를 서울에서 직접 경험해보세요.
-
-이번 팝업은 BAYC의 아이덴티티를 서울의 문화와 연결해 새롭게 풀어낸 공간입니다. 한국 아티스트와 함께한 협업을 비롯해 서울에서 처음 공개되는 새로운 드롭과 머천다이즈, 인터랙티브 경험까지 팝업 곳곳에서 만나볼 수 있습니다.
-
-또한 KBW를 통해 처음 선보이는 ApePay를 직접 경험하며, BAYC가 디지털 커뮤니티를 넘어 현실 세계로 확장해 나가는 새로운 방식도 만나볼 수 있습니다.
-
-BAYC 커뮤니티는 물론, BAYC를 처음 접하는 분들도 누구나 방문할 수 있습니다.
-
-Date: 2026년 9월 30일 - 10월 4일
-
-Location: 성수, 서울
-
-일부 프로그램, 머천다이즈 및 증정품은 한정 수량으로 운영되며 조기 종료될 수 있습니다.
-
-[ENGLISH]
-
-Bored Ape Yacht Club takes over Seongsu for KBW 2026.
-
-From September 30 to October 4, step into the world of BAYC and experience it IRL in Seoul.
-
-The pop-up brings the world of Bored Ape Yacht Club together with Seoul's culture through a space created specifically for the city. Discover a collaboration with a Korean artist alongside new drops and merchandise debuting in Seoul, with interactive experiences throughout the space.
-
-You'll also get a first look at ApePay, making its debut during KBW, and experience a new way BAYC is extending its digital community into the real world.
-
-Whether you're already part of the BAYC community or discovering it for the first time, everyone is welcome.
-
-Date: September 30 - October 4, 2026
-
-Location: Seongsu, Seoul
-
-Select experiences, merchandise, and giveaways will be available in limited quantities and while supplies last.
-
 <a id="event-ec9d227e89b901ca"></a>
 
 ## SolanaCZE Build Station \| Zero to Hero 2.0
@@ -22593,254 +22396,6 @@ Build products.
 Ship something people want.
 
 See you at the Build Station.
-
-<a id="event-5f26760c1bf84f74"></a>
-
-## Coincheck Crypto Lounge #8 x Komlock lab/ＳＭＢＣ日興証券｜エージェント経済圏 LT＆懇親会
-
-- Record: `luma-batch-S9B2IYXx5PHfaEg`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-04T02:15:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/zsvc8ner>
-
-### About the event
-
-エージェント経済圏（AI × ブロックチェーン）をテーマにしたLT＋懇親会形式のミートアップ。エンジニアもビジネスサイドも歓迎。
-
-Coincheck Crypto Lounge とは
-
-ブロックチェーン技術やクリプト業界に興味のある方なら、エンジニアでもビジネスサイドでも、研究者でも学生でも歓迎するカジュアルな勉強会＆交流会です。コインチェック社内で開催しているクリプト勉強会をオープンな場に展開し、技術トレンドやセキュリティ課題、キャリアの可能性についてざっくばらんに語り合います。
-
-第8回のテーマ「AI×ブロックチェーン - 取引所・開発会社・証券会社の描くエージェント経済圏の未来」
-
-コインチェック株式会社とKomlock labが共同で開催する、LT＆交流イベントです。今回のテーマは前回に引き続き「エージェント経済圏」。スペシャルゲストとしてＳＭＢＣ日興証券をお迎えし、AIエージェントが自分で支払い・受け取り・資産運用を行う世界で、取引所・開発会社・証券会社はそれぞれ何を作り、何に備えているのかを持ち寄ります。
-
-当日は前半に各社エンジニアとゲストによるLT、後半は軽食つきの懇親会です。日曜日のお昼開催なので、ランチを兼ねてゆっくり語り合って締めます。ブロックチェーン人材の育成と業界活性化を目的に、社内外から幅広くブロックチェーン、AI、暗号資産、証券・金融に関心を持つ方々を歓迎します。
-
-初めての方も、そうじゃない方もぜひお気軽にご参加ください！
-
-こんな人におすすめ
-
-クリプト・ブロックチェーン技術に興味があるエンジニアやPM
-
-AIエージェントに決済・資産運用をさせる仕組みに興味がある人
-
-証券・金融の現場からブロックチェーンを見ている人
-
-ブロックチェーン関連のキャリアに関心がある人
-
-クリプト仲間とつながりたい人
-
-プログラム
-
-11:15 受付開始
-
-11:45 オープニング & 各社紹介
-
-11:55 LT① コインチェック株式会社 澤村 周平
-
-12:03 LT② スペシャルゲスト ＳＭＢＣ日興証券 磯野 太佑「How to Realize an Agentic Economy」
-
-12:11 LT③ Komlock lab 小原 冬威
-
-12:19 LT④ コインチェック株式会社 坂口 万斎「nonceでボスを殴る：x402決済にPoWを埋め込んだ話」
-
-12:27 LT⑤ JFET株式会社 Cardene
-
-12:35 LT⑥ ＳＭＢＣ日興証券 サラ・ホー「Agent to Agent ―旅の最先端」
-
-12:50 休憩（5分）
-
-12:55 懇親会（軽食とドリンクを片手に、登壇者・参加者同士でフリートーク）
-
-14:00-14:30 クロージング
-
-※ 懇親会では軽食とビール or ソフトドリンクを用意します。カジュアルにトークしましょう！
-
-受付について
-
-1階エントランスの呼び鈴で【801】を呼び出してください。開錠後、エレベーターで8階までお上がりいただき、8Fエレベーターホールにて受付いたします。
-
-ご参加に当たり入館者情報をご提出いただく場合があります。予めご了承ください。
-
-登壇者
-
-澤村 周平 / コインチェック株式会社 専門役員 Head of Product
-
-大学卒業後、2020年に新卒でコインチェック入社。マーケティング部においてデータ分析業務、自社ポジション管理およびWeb広告運用をはじめとする新規ユーザー獲得業務、新規通貨取扱い業務、取引所のサービス改善など幅広い業務に従事。2023年9月執行役員、2024年9月執行役員CPO（最高プロダクト責任者）を経て、2026年6月より専門役員 / Head of Product。
-
-磯野 太佑 / ＳＭＢＣ日興証券株式会社 Nikko Open Innovation Lab長 兼 DeFiテクノロジー部長（スペシャルゲスト）
-
-2012年にＳＭＢＣ日興証券に入社し、投資銀行部門に配属。2014年からは同部門にて、主にコンシューマー・リテール（消費財・小売）業界におけるM&Aや資金調達（ファイナンス）業務に従事。2020年、社内ベンチャープログラムへの参加を経て、Nikko Open Innovation Lab（NOIL）に立ち上げと同時に参画。同部では「次世代技術 × 地方創生」プロジェクトをリードし、2021年には「高専インカレチャレンジ」を、2022年には「ふるさと納税」と連動した金融スキームなどのプロジェクトを立ち上げる。2023年には、合弁会社「Proof of Japan」を設立。AIとWeb3技術を活用した日本文化の支援・発信事業を展開する。さらに2025年には、Web3VC大手のHashedが組成した第3号ファンドへの出資を主導し、同社のインキュベーションプログラム「Protocol Camp」を通じた協業を推進。現在は、ＳＭＢＣ日興証券におけるオープンイノベーションの取り組みを牽引しながら、オンチェーン金融の推進に注力している。
-
-小原 冬威 / Komlock lab株式会社
-
-2020年よりソフトウェアエンジニアとしてキャリアをスタート。複数のプロジェクトでフルスタック開発を経験し、フロントエンドからバックエンドまで幅広く携わる。2025年よりブロックチェーン領域に挑戦し、現在はブロックチェーンエンジニアとして活動中。x402プロトコル、Payments MCP、JPYC統合など、AI Agentの自律的な支払い・経済活動を実現する技術に注力している。Zennにて技術記事を積極的に発信している。
-
-坂口 万斎 / コインチェック株式会社 プロダクトエンジニアリング部 リスティング＆プロトコルG｜クリプト基盤Gバックエンドエンジニア。2025年3月にコインチェックに新卒入社し、暗号資産の入出金システムの開発・運用を担当。x402とAIエージェントで遊ぶのが最近の趣味。
-
-Cardene（かるでね）/ JFET株式会社 スマートコントラクトエンジニア
-
-CryptoGames株式会社、Ava Labsにて様々なDappsやスマートコントラクトの開発を担当。ブロックチェーン関連の技術記事をこれまで700記事以上執筆。その経験をもとに『DApps開発入門』という書籍を執筆。AI x ブロックチェーンの領域を主軸に開発・リサーチを行っている。
-
-サラ・ホー / ＳＭＢＣ日興証券株式会社 Nikko Open Innovation Lab
-
-Nikko Open Innovation Labにおいて、ブロックチェーンやAIをはじめとする最先端技術と既存産業との橋渡しに取り組んでいる。新規事業開発やアクセラレーションプログラムの企画・運営、教育・啓発活動に加え、規制に準拠したDeFiプラットフォームの構築にも携わる。また、ブロックチェーンを活用した知的財産の創出・管理に取り組んできた経験を生かし、新興技術による持続的な事業価値および社会的価値の創出について、独自の知見を培ってきた。
-
-MC・ファシリテーター
-
-山口 夏生 / Komlock lab株式会社 CTO
-
-当日の進行とQ&Aのファシリテーションを担当します。2018年よりCryptoGames株式会社にてテックリードとして7年間ブロックチェーン開発に従事し、CryptoSpells、AstarFarmなど8つ以上のプロジェクトの立ち上げを主導。Komlock lab設立に伴いCTOに就任し、オンチェーン金融やAIエージェント決済など最先端領域の設計&開発を手掛ける。エージェント経済圏共同研究会ではKomlock lab側の技術面を担当。
-
-主催
-
-コインチェック株式会社
-
-「新しい価値交換を、もっと身近に」コインチェックは、2014年8月に暗号資産取引サービス「Coincheck」を開始して以来、金融リテラシーにかかわらず、誰でも使いやすいサービスを提供することにより、「新しい価値交換」を身近に感じられる機会をお客さまに届けてきました。暗号資産やブロックチェーンは日々進化を重ね、より個々人を主体とした「新たな価値交換」を実現しつつありますが、あたらしい技術がもたらす恩恵はまだほんの一部の人にしか行き届いておらず、情報リテラシーによる格差が生じています。コインチェックは、暗号資産やブロックチェーンにより生まれる「新しい価値交換」、またその次に現れる新しいテクノロジーにより実現される変革を誰もが身近に感じられるように、より良いサービスを創出し続けます。
-
-会社紹介資料: https://speakerdeck.com/coincheck_recruit/coincheck-company-description
-
-エンジニア採用サイト: https://engineer-recruit.coincheck.com/
-
-note: https://note.coincheck.com/m/m245fff7b3f4c
-
-Komlock lab株式会社
-
-Komlock labは、「ブロックチェーン×AI Agent」が実現する、自律的な経済圏の創出を目指す集団です。2018年からブロックチェーンサービスの開発・運営を手掛けてきたCryptoGames社のエンタープライズ部門を分社化し2024年に設立。25以上の多様なプロジェクトで培われた豊富な技術と知見を基に、未来の基盤となるテクノロジーを社会に実装します。
-
-エンジニア大募集です！ブロックチェーンにご興味を持った方、当日ぜひKomlockメンバーにお声がけください。
-
-会社紹介: https://komlock-lab.com/
-
-エンジニア募集: https://youtrust.jp/recruitment_posts/a9a1ec572d3c2c27f6131910f6264713
-
-スペシャルゲスト
-
-ＳＭＢＣ日興証券株式会社
-
-ＳＭＢＣ日興証券は、1918年創業の歴史を持つ、日本を代表する総合証券会社のひとつです。ＳＭＢＣグループの中核証券会社として、個人・法人のお客さまに資産運用・投資銀行業務など幅広い金融サービスを提供しています。近年は「Nikko Open Innovation Lab」を中心にブロックチェーン領域への取り組みを加速しており、DeFiテクノロジー部を新設するなど、証券ビジネスとブロックチェーン技術の融合による次世代金融サービスの創出に挑戦しています。
-
-会場協力
-
-株式会社Pacific Meta
-
-Pacific Metaは、「To Create the Standard for Blockchain from Japan」をミッションに、事業戦略の立案からトークン設計、資金調達、マーケティングまで、ブロックチェーン事業の立ち上げと運営を包括的に支援するコンサルティングファームです。創業から3年でグループ累計260件以上・41カ国以上のプロジェクトを支援するグローバルチームです。浜松町の自社オフィス内に構えるイベントスペース「Pacific Hub」を、国内外のブロックチェーンコミュニティをつなぐ場として提供しており、本イベントもPacific Hubにて開催します。
-
-エージェント経済圏共同研究会について
-
-コインチェックとKomlock labは、2026年5月より「エージェント経済圏共同研究会」を通じて、AIが人間や企業の代理として経済活動に参加する世界で、企業・金融・決済がどう変わるのかを共同で検証しています。AIエージェントを用いた取引モデルの整理、既存規制との整合性、リスク管理・内部管理体制のあり方、x402をはじめとするエージェント間決済プロトコルの研究とユースケース創出に取り組んでいます。
-
-研究会の議論はNADA NEWSで連載として公開中です。第1回はコインチェック 澤村周平とKomlock lab CEO 布目雅登の対話「なぜ今、AIエージェント経済なのか」。本イベントのLTや懇親会では、この研究会の現在地もお話しします。研究会への参加や連携にご関心のある企業・団体の方は、当日Komlock labまたはコインチェックのメンバーにお声がけください。
-
-連載第1回: https://www.nadanews.com/366689/
-
-共同研究のプレスリリース: https://corporate.coincheck.com/press/j5yXEpHV
-
-翌日開催：Blockchain Summit 2026 Autumn
-
-本イベントの翌日、10月5日(月)には、会場協力のPacific Metaが主催するオンチェーン金融のカンファレンス「Blockchain Summit 2026 Autumn」が大手町サンケイプラザで開催されます（10:00-18:00、参加無料・事前登録制）。テーマは「オンチェーン金融の最前線　進む実装とAI経済圏」。三井住友FG、みずほ銀行、三井物産、野村ホールディングス、a16z cryptoなど、メガバンク・証券・決済事業者・グローバル投資家が登壇します。
-
-日曜日のCrypto Loungeでエンジニアと事業担当の目線から議論し、月曜日のSummitで金融機関の実装の現在地を確かめる。2日続けての参加をおすすめします。
-
-詳細・参加登録: https://luma.com/bcs2026autumn
-
-注意事項
-
-お申込みは承認制となります。あらかじめご了承ください。
-
-主催者の判断において申込をキャンセルさせて頂く場合がございます。ご了承ください。
-
-当日予告なく時間配分・内容が変更になる可能性がございます。あらかじめご了承ください。
-
-個人情報の取り扱いについて
-
-イベント参加時にご入力いただいた情報や参加後のアンケート等の個人情報は、コインチェック株式会社の個人情報保護ポリシーに基づき適切に取り扱います。コインチェック株式会社 プライバシーポリシー: https://campaign.coincheck.com/ja/privacy_policy
-
-<a id="event-c97ee54cee490038"></a>
-
-## TOKEN2049 Singapore — Opening Mixer 🇸🇬
-
-- Record: `luma-batch-F6tYBRLjT5mDEU0`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-04T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/bae06r0t>
-
-### About the event
-
-TOKEN2049 Singapore - Opening Mixer 🇸🇬
-
-Start the week connected.
-
-In Singapore early for TOKEN2049?
-
-Join BORN.LIVE + Otomato on Sunday afternoon for a relaxed opening mixer before the main week gets busy.
-
-Meet founders, builders, investors, creators and people arriving from around the world.
-
-No long panels. No packed agenda. Just drinks, good people and great connections - with a few quick hellos from the teams bringing everyone together.
-
-Come alone, bring your crew, catch up with old friends or meet someone completely new.
-
-Meet a few people on Sunday, and you'll already have familiar faces everywhere you go for the rest of the week.
-
-GET SUPER-CONNECTED
-
-Everyone attending will receive a BORN.LIVE NFC wristband or connection device - among the first ever released.
-
-Use it throughout TOKEN2049 week to connect with the people you meet and start building your BORN.LIVE network.
-
-Tap. Connect. Keep moving.
-
-And don't wait until Singapore.
-
-BORN.LIVE numbers are issued in order. Join the waitlist now for your chance to get one of the earliest numbers.
-
-GET YOUR BORN.LIVE NUMBER → https://born.live
-
-Sunday 4 October - 3-6PMClarke Quay, Singapore
-
-Free to attend. Drinks available to purchase from the bar.
-
-Arrive early. Start the week connected.
-
-GET CONNECTED BEFORE SINGAPORE
-
-Start meeting people before you arrive.
-
-TOKEN2049 Singapore Community - find people, side events and connections throughout the week.JOIN THE TOKEN2049 SINGAPORE COMMUNITY on TG
-
-BORN.LIVE Community - join the community and follow what we're building beyond Singapore.JOIN THE BORN.LIVE COMMUNITY on TG
-
-CO-HOST - OTOMATO
-
-Otomato is building portfolio-aware intelligence for DeFi - monitoring on-chain positions and surfacing important risks, costs and opportunities.
-
-Fresh from a $2M investment from Improbable, the team will be joining us in Singapore.
-
-DISCOVER OTOMATO
-
-### MEDIA PARTNERS
-
-CoinGabbar - Crypto News, Research & Market Insights.
-
-An Official Media Partner for the TOKEN2049 Singapore Opening Mixer & BORN.LIVE Launch.
-
-DISCOVER COINGABBAR
-
-WANT TO GET INVOLVED?
-
-We're open to a small number of additional co-hosts and partners.
-
-If you're a project, VC, ecosystem, community or brand heading to Singapore and want to help bring great people together, get in touch:
-
-GET IN TOUCH - hello@born.live
-
-Hosted by BORN.LIVE
-
-Independent community event during TOKEN2049 Singapore week. Not affiliated with or officially endorsed by TOKEN2049.
 
 <a id="event-fc54f9472bcb12ac"></a>
 
@@ -32679,18 +32234,6 @@ All hackathon winners are interviewed and considered for the Colosseum accelerat
 ### Livestream workshops
 
 All workshops stream live on Discord, including the kickoff with the Colosseum founders. Participants can watch live, ask questions and follow the program through the event.
-
-<a id="event-36a647198eb5b9c7"></a>
-
-## BAYC 성수 브랜드 팝업
-
-- Record: `w3v-bayc-26-09-30`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-30T04:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/0a0g9am0>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-1a405ddea659732d"></a>
 
@@ -52869,6 +52412,18 @@ CAT Investigators and Finoverse host short keynotes and a practitioner panel on 
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-61b625f182d01b80"></a>
+
+## Let's discuss Bitcoin and the Crypto Sector
+
+- Record: `mu-316988321`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-03T19:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/austin-bitcoin-meetup/events/316988321/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-f85407c0427c59f5"></a>
 
 ## HKGHH Networking Night: Hong Kong FinTech Week Side Event
@@ -53520,6 +53075,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-04T18:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/v27ik7m7>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-e4ba79d6d280ec52"></a>
+
+## Open Bitcoin Q&A Chat!
+
+- Record: `mu-316047306`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T19:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/satoshi-service-center/events/316047306/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -54314,6 +53881,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-0490605ac31e4fcf"></a>
+
+## SuperteamTR x Dev3pack: University Hackathon ⚡️ — Istanbul & Online
+
+- Record: `luma-host-evt-evt-XpEsg0H2F3OHceq`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-07T09:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/uwr4zd04>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-9d0569739fd3982c"></a>
 
 ## SuperteamTR x Dev3pack: University Hackathon ⚡️ — Bursa Chapter
@@ -55072,6 +54651,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-920b002ac87d8fc6"></a>
+
+## Webinar with Cosmos Labs: Designing Tokenized Deposits for a Multi-Ledger Future
+
+- Record: `mu-317156434`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-13T09:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-austin/events/317156434/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-97c95d890419b774"></a>
 
 ## Webinar with Cosmos Labs: Designing Tokenized Deposits for a Multi-Ledger Future
@@ -55307,6 +54898,18 @@ Previous Edition:
 Previous Events:
 
 etc.
+
+<a id="event-db145f5599efdf0c"></a>
+
+## BU Blockchain x UPE Hackathon
+
+- Record: `luma-evt-Wdr0r9UyziI3u9O`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-14T14:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/wsyijrny>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-396109b368ddb020"></a>
 
@@ -56112,6 +55715,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-99d78b9295ea8ace"></a>
+
+## ZK Learning Group: ZK Identity, supporting AML/KYC with ZK
+
+- Record: `mu-317065012`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19T11:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-austin/events/317065012/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-c2cc7a612aef73e0"></a>
 
 ## ZK Learning Group: ZK Identity, supporting AML/KYC with ZK
@@ -56546,6 +56161,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-61d104869eb57565"></a>
+
+## ONLINE EVENT: Sell Smart, Defer the Tax: A Practical Guide to 1031 Exchanges
+
+- Record: `mu-316913789`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-01T19:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/real-estate-investing-free-education-mentor-san-antonio/events/316913789/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-2e8567471710baee"></a>
 
 ## Proof of Talk Abu Dhabi
@@ -56610,7 +56237,7 @@ Your commitment carries forward to 2027, and our team will be in touch directly 
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-12-07T15:00:00.000Z
 - Description: Missing
-- Original page: <https://luma.com/SolanaArcadeSEZ>
+- Original page: <https://luma.com/SolanaArcadeSuperweek>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -56721,7 +56348,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-12-12T12:00:00.000Z
 - Description: Missing
-- Original page: <https://luma.com/SEZSolanaYachtCruise>
+- Original page: <https://luma.com/SolanaYachtCruiseSuperweek>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

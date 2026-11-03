@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-03T03:35:44.414Z",
+  "checkedAt": "2026-11-03T11:18:47.164Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -10,11 +10,11 @@
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 237,
-    "excluded": 370,
+    "existing": 235,
+    "excluded": 372,
     "needs-review": 39
   },
-  "importedTotal": 254,
+  "importedTotal": 253,
   "added": [],
   "receipts": [
     {
@@ -2362,24 +2362,6 @@
       ],
       "status": "existing",
       "slug": "michelininvest-dinner"
-    },
-    {
-      "url": "https://luma.com/fumtr19i",
-      "name": "Founders & Funds, Paddle Cup",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "founders-funds"
-    },
-    {
-      "url": "https://luma.com/paddlecup-pitchfest",
-      "name": "Founders & Funds: Paddle Cup",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "founders-funds"
     },
     {
       "url": "https://luma.com/HaseebQureshi",
@@ -6293,6 +6275,24 @@
     {
       "url": "https://www.allthatmatters.asia",
       "name": "All That Matters",
+      "sources": [
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
+      "url": "https://luma.com/fumtr19i",
+      "name": "Founders & Funds, Paddle Cup",
+      "sources": [
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
+      "url": "https://luma.com/paddlecup-pitchfest",
+      "name": "Founders & Funds: Paddle Cup",
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],

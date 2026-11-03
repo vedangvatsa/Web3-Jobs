@@ -40,53 +40,6 @@
     }
   },
   {
-    "id": "luma-crypto-9G13qSATpaiBBSX",
-    "slug": "acgh",
-    "name": "The AI Commerce Gallery - Hackathon | Walt Disney Family Museum",
-    "description": "AI Commerce Gallery — ZooWork × AI Valley\n\n## What does the next generation of AI-powered commerce look like?\n\nZooWork and AI Valley are bringing together builders, founders, engineers, designers, and commerce leaders for AI Commerce Gallery — a curated one-day hackathon and interactive showcase for products pushing commerce forward.\n\nOn October 3rd, AI Commerce Gallery takes over The Walt Disney Family Museum in San Francisco for a full day of building, demos, and exploration.\n\nTeams will build throughout the day in the Diane Disney Miller Exhibition Hall before the evening program moves into the Main Museum, with presentations in the Theater and Lower Lobby and private access to the Museum’s Main Galleries from 6–8 PM.\n\nTeams will build AI-powered products across:\n\n• E-commerce & storefront experiences\n• Merchant operations, inventory, fulfillment & payments\n• Restaurants, retail, POS & physical commerce\n• AI agents, MCP integrations & workflow automation\n\nBut this isn’t a traditional hackathon.\n\nInstead of spending the evening watching dozens of back-to-back pitches, every team will turn their project into an exhibit for the AI Commerce Gallery Walk.\n\nAfter the Gallery Walk, the evening moves into the Main Museum for featured demos, awards, networking, and two hours to explore The Walt Disney Family Museum’s Main Galleries.\n\nAttendees, judges, partners, and investors will move through the gallery, interact with live demos, meet the builders, and experience what the future of commerce could actually feel like.\n\nThroughout the day, builders will have access to AI tools, APIs, integrations, technical workshops, mentors, and partner resources to help turn ideas into working products.\n\nThe strongest projects will be selected as Featured Exhibits and invited to demo on the main stage before the Gallery Awards.\n\n🏆 Awards include\n\nBest in Gallery\nBest AI Commerce Product\nMost Commercially Viable\nBest Use of ZooWork\nPeople’s Choice\n\n🗓 October 3rd, 2026\n📍 The Walt Disney Family Museum · San Francisco\n👥 100–150 curated builders, founders, investors & industry leaders\n🛠 25–35 teams\n\n## 🗓 Event Schedule\n\n9:00 AM — Registration & Breakfast\nCheck-in, networking, and breakfast.\n\n10:30 AM — Opening Ceremony\nWelcome, AI Commerce Gallery introduction & challenge briefing.\n\n11:00 AM — Workshops & Curator Hours\nTechnical workshops, partner resources & mentor support.\n\n12:30 PM — Lunch\nNetworking lunch + continued hacking.\n\n4:00 PM — Progress Review\nFinal team check-ins, product feedback & mentor support.\n\n5:00 PM — Exhibit Submission Deadline\nFinal projects, demos & gallery categories submitted.\n\n5:00 PM — Dinner + Gallery Setup\nTeams prepare their exhibit stations while judges review submissions.\n\n5:30 PM — AI Commerce Gallery Walk\nExplore every team’s live project exhibit and meet the builders.\n\n6:15 PM — Featured Exhibit Presentations\nTop 5–8 projects demo on the main stage.\n\n7:00 PM — Gallery Awards 🏆\nWinner announcements & prizes.\n\n7:30–9:00 PM — Gallery Reception\nNetworking with builders, partners, judges, investors & industry guests.\n\n9:00 PM — Event Closing\n\nThe formal program will conclude with a Gallery Reception bringing together builders, partners, judges, investors, and industry guests.\n\nCome build — or come see — what the next generation of AI-powered commerce looks like.\n\n[ZooWork](https://zoowork.ai) — The AI agent delivery platform for FDEs and domain experts. Build, deploy, and deliver production-ready AI agents to your team or clients in minutes—with Agent Builder, Agent Runtime, model gateway, data, and integrations all in one place. ZooWork turns your expertise into repeatable AI solutions that run inside real business operations, connected [to the tools your teams already use. Learn more at zoowork.ai](https://zoowork.ai).\n\n[AI Valley](http://aivalley.io/?referrer=luma) is a community rooted in supporting exceptional first generation builders, founders, and creators. We curate environments where ambitious people meet collaborators, mentors, and opportunities through hackathons, workshops, and intimate gatherings across AI, tech, and the arts. If you care about who you build with as much as what you build, this is your place.\n\n🌐 Website: https://aivalley.io\n\n📅 Events: https://lu.ma/aivalley\n\n👥 Community (Discord): https://discord.gg/QESCnSUPC9\n\n📰 Newsletter: https://aivalleyio.substack.com\n\n🔗 All links: https://aivalley.io/links",
-    "startDate": "2026-10-03T16:00:00.000Z",
-    "endDate": "2026-10-04T04:00:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "San Francisco, United States",
-    "url": "https://luma.com/6bbloggr",
-    "registrationUrl": "https://luma.com/6bbloggr",
-    "coverImage": "/events/luma-crypto-9g13qsatpaibbsx-a390ffde.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "AI Valley",
-      "ZooWork Team",
-      "Courtney Ko"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/Los_Angeles",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "AI Valley",
-      "url": "https://aivalley.io/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/6bbloggr",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/6bbloggr",
-      "eventId": "evt-9G13qSATpaiBBSX",
-      "fetchedAt": "2026-09-19T23:46:15.723Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-1QNFYg0hnersq5F",
     "slug": "rdtw",
     "name": "Roundtable during TOKEN2049 week in Singapore",

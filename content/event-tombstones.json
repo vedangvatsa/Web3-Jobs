@@ -4906,5 +4906,40 @@
       "pre-token2049",
       "token2049-evt-yl6kpurru4cgvus"
     ]
+  },
+  "luma-batch-F6tYBRLjT5mDEU0": {
+    "until": "2027-11-03T11:18:41.174Z",
+    "slugs": [
+      "bae06r0t",
+      "luma-batch-f6tybrljt5mdeu0"
+    ]
+  },
+  "luma-batch-S9B2IYXx5PHfaEg": {
+    "until": "2027-11-03T11:18:41.174Z",
+    "slugs": [
+      "zsvc8ner",
+      "luma-batch-s9b2iyxx5phfaeg"
+    ]
+  },
+  "luma-batch-evtK1x9BrE2Ya68E": {
+    "until": "2027-11-03T11:18:41.174Z",
+    "slugs": [
+      "luma-batch-evtk1x9bre2ya68e",
+      "0a0g9am0"
+    ]
+  },
+  "luma-crypto-9G13qSATpaiBBSX": {
+    "until": "2027-11-03T11:18:41.174Z",
+    "slugs": [
+      "acgh",
+      "luma-crypto-9g13qsatpaibbsx"
+    ]
+  },
+  "token2049-evt-LogZtWT8oa5fv8p": {
+    "until": "2027-11-03T11:18:41.174Z",
+    "slugs": [
+      "founders-funds",
+      "token2049-evt-logztwt8oa5fv8p"
+    ]
   }
 }
