@@ -13048,7 +13048,7 @@
     "sentAt": "2026-11-03T03:36:12.993Z"
   },
   "f52b0235-16c6-4ad0-a27e-f3ac25def3db": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-03T03:36:48.818Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -13162,6 +13162,8 @@
       }
     ],
     "message": "- Kraken is hiring <a href=\"https://hashtagweb3.com/cmp145?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sr. Compliance Associate Lead - Market Surveillance</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/do24?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior DevOps Engineer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/mgr55?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Workplace Experience Manager, Bengaluru</a>\n- Polygon Labs is hiring <a href=\"https://hashtagweb3.com/eng687?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Platform Engineer</a>\n- Lightspark is hiring <a href=\"https://hashtagweb3.com/sec112?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Licensing and Audit Manager</a>",
-    "slotKey": "2026-11-03:morning"
+    "slotKey": "2026-11-03:morning",
+    "messageId": 165,
+    "sentAt": "2026-11-03T03:36:51.711Z"
   }
 }
