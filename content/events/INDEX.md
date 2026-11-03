@@ -1085,7 +1085,6 @@ Each entry links to its formatted description and original source file. All stor
 | [Crypto World's Fair Hackathon by Colosseum](descriptions.md#event-40861364655f00c3) | 2026-09-14 | Source-backed (1658 chars) |
 | [BAYC 성수 브랜드 팝업](descriptions.md#event-36a647198eb5b9c7) | 2026-09-30 | Unverified stored copy (98 chars) |
 | [DARK Prague 2026](descriptions.md#event-1a405ddea659732d) | 2026-10-02 | Unverified stored copy (145 chars) |
-| [SuperteamTR \| Malatya Submission Night #3](descriptions.md#event-e7e866e09ed4dba1) | 2026-10-03 | Missing (0 chars) |
 | [Pre Token 2049 Web3 Ai : Mixers](descriptions.md#event-554003be8c1aaa5a) | 2026-10-04 | Source-backed (4127 chars) |
 | [CoinFerenceX Singapore 2026 - Day 1](descriptions.md#event-c25323b91ea10b08) | 2026-10-05 | Source-backed (2584 chars) |
 | [CoinFerenceX Singapore 2026](descriptions.md#event-3b86387eec5520db) | 2026-10-05 | Unverified stored copy (200 chars) |
@@ -2315,6 +2314,7 @@ Each entry links to its formatted description and original source file. All stor
 | [International Conference on Blockchain Technology and Applications (ICBTA)](descriptions.md#event-34ecbc5049ca4bf9) | 2026-12-11 | Unverified stored copy (367 chars) |
 | [Solana Gym @ SEZ](descriptions.md#event-3786493849d6b723) | 2026-12-11 | Missing (0 chars) |
 | [Solana Yacht Cruise](descriptions.md#event-98c5655cd94ca500) | 2026-12-12 | Missing (0 chars) |
+| [Merry & Iconic](descriptions.md#event-aad7c90e9ea9eecd) | 2026-12-12 | Missing (0 chars) |
 | [Global Trading Show 2026](descriptions.md#event-f41fac558b07adad) | 2026-12-15 | Unverified stored copy (188 chars) |
 | [BTC HK - bitcoin meetup IFC P4 Rooftop Garden(tables outside Shake Shack) walk-in (changed to Dec 17)](descriptions.md#event-e9202bf5e2753e8f) | 2026-12-17 | Missing (0 chars) |
 | [☕Coffee Chat Hangout by Web3 Digest — New Date Coming Soon](descriptions.md#event-fb07576df1f2d335) | 2026-12-22 | Missing (0 chars) |

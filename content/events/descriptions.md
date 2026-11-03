@@ -32704,18 +32704,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-e7e866e09ed4dba1"></a>
-
-## SuperteamTR \| Malatya Submission Night #3
-
-- Record: `luma-host-evt-evt-peeOpQ7WBzVtauV`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-03T18:30:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/dkxbsira>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-554003be8c1aaa5a"></a>
 
 ## Pre Token 2049 Web3 Ai : Mixers
@@ -56734,6 +56722,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-12T12:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/SEZSolanaYachtCruise>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-aad7c90e9ea9eecd"></a>
+
+## Merry & Iconic
+
+- Record: `luma-evt-KMIUJZJTWbS5jnm`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-12T16:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/nd5e5m4z>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
