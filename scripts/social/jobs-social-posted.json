@@ -93797,7 +93797,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "e387c9bd-5dfb-4596-a031-a5514cee898d",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae95764a5f6b0f74385b254"
     }
   ]
 }
