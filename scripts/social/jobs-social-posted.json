@@ -94071,6 +94071,40 @@
       "attemptId": "728c1bd6-e9fe-44a7-8eac-35d5fd9a24a3",
       "verification": "verified",
       "postId": "0x159d11086dfa25aaeca414be73b70a546226edc8"
+    },
+    {
+      "slug": "sec42",
+      "company": "Bitpanda",
+      "title": "Senior SOC Analyst, Security Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-11-03T03:39:14.062Z",
+      "expectedText": "Bitpanda is hiring Senior SOC Analyst, Security Operations\n\nhttps://hashtagweb3.com/sec42/fc?og=7",
+      "snapshot": {
+        "id": "5012693101",
+        "title": "Senior SOC Analyst, Security Operations",
+        "company": "Bitpanda",
+        "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5012693101",
+        "date": "2026-10-21T11:21:29-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bitpanda [bitpanda]",
+        "location": "Vienna, Austria",
+        "department": "Engineering & Technology",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sec42"
+      },
+      "payload": {
+        "text": "Bitpanda is hiring Senior SOC Analyst, Security Operations\n\nhttps://hashtagweb3.com/sec42/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sec42/fc?og=7"
+          }
+        ],
+        "channel_id": "developers"
+      },
+      "account": "channel:developers",
+      "attemptId": "64ff2e3f-36b9-4935-9580-3523043bcea0",
+      "verification": "creating"
     }
   ]
 }
