@@ -92930,7 +92930,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "bec405e4-28a4-4a71-bd1d-a385c82d7da3",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae9569c94b13c6dd7923900"
     }
   ]
 }
