@@ -2949,7 +2949,7 @@
     "sentAt": "2026-11-02T19:34:08.763Z"
   },
   "b09d475f-0503-45e1-a276-dec0a6de24d7": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-03T03:35:38.175Z",
     "stories": [
       {
@@ -2983,6 +2983,8 @@
         "originalTitle": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs"
       }
     ],
-    "slotKey": "2026-11-03:morning"
+    "slotKey": "2026-11-03:morning",
+    "messageId": 193445,
+    "sentAt": "2026-11-03T03:35:40.631Z"
   }
 }

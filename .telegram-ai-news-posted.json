@@ -861,6 +861,9 @@
   "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
   "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
   "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+  "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+  "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+  "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2365,6 +2368,12 @@
   "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
   "Omen AI acquires Aquatic Labs for data center cooling",
   "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+  "Trajectory raises $45 million to simplify AI model training",
+  "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+  "Anthropic warns AI is nearing recursive self-improvement capabilities",
+  "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+  "xAI restricts Grok usage limits citing high operational costs",
+  "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2743,5 +2752,8 @@
   "fp:benefit|can|ceo|disconnect|easier|els|equity|everyon|examin|executiv",
   "fp:alleg|brav|browser|content|copyright|data|developer|illegally|lawsuit|material",
   "fp:42ai|625m|action|behavior|can|com|develop|forecast|human|novel",
-  "fp:16m|acquir|acquisition|add|aquatic|center|combin|consumption|cool|data"
+  "fp:16m|acquir|acquisition|add|aquatic|center|combin|consumption|cool|data",
+  "fp:300m|45m|accessibl|allow|expand|expert|mak|nontechnical|rais|reach",
+  "fp:accelerat|aka|anthropic|are|autonomously|build|capability|clos|concern|growth",
+  "fp:access|activ|bot|cit|comput|conversational|cost|due|elon|expens"
 ]
