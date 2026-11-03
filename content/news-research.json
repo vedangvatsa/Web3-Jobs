@@ -120090,11 +120090,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "460a4c19bf5c1dca6bc7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-01T03:32:04.135Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-03T19:03:35.000Z",
-      "lastSeenAt": "2026-11-01T03:32:04.135Z"
+      "lastSeenAt": "2026-11-01T03:32:04.135Z",
+      "reason": "out-of-scope",
+      "note": "Read the Crypto Briefing report of Judge Debra Brown's denial of SpaceXAI's motion to dismiss the NAACP Clean Air Act suit over gas turbines at the Colossus plant. A real court ruling, but the story concerns air-permit litigation for AI data centers with no crypto or Web3 element, so it is outside this site's coverage.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/spacexai-loses-bid-dismiss-naacp-lawsuit/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-03T02:21:23.726Z",
+      "lastReviewedDay": "2026-11-03"
     },
     "c1cb336544dd7a87f46b": {
       "source": "Crypto Briefing",
@@ -229936,6 +229946,18 @@
           "reviewedAt": "2026-11-03T02:21:19.911Z",
           "duplicateOf": "fbireopen",
           "mergedInto": "f4109208240fecb8e60c"
+        },
+        "460a4c19bf5c1dca6bc7": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Crypto Briefing report of Judge Debra Brown's denial of SpaceXAI's motion to dismiss the NAACP Clean Air Act suit over gas turbines at the Colossus plant. A real court ruling, but the story concerns air-permit litigation for AI data centers with no crypto or Web3 element, so it is outside this site's coverage.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/spacexai-loses-bid-dismiss-naacp-lawsuit/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-03T02:21:23.726Z"
         }
       },
       "baselineSlugs": [
