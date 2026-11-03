@@ -93691,7 +93691,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "a941f6ec-ff95-41de-a331-950abea5a2d4",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae957305d60da1eff72dc05"
     }
   ]
 }
