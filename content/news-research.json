@@ -125600,9 +125600,9 @@
         "Bankless"
       ],
       "id": "f4109208240fecb8e60c",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-03T01:43:52.711Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-05T10:36:19.000Z",
       "lastSeenAt": "2026-11-03T01:43:52.711Z",
       "articleSlug": "fbireopen",
@@ -125624,7 +125624,25 @@
         "updatedAt": "2026-11-03T01:48:49.376Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read the FBI alert in full, plus Decrypt and Bankless; matched the B attribution, address counts, and reopening figures across all three. Image self-hosted from Wikimedia.",
+      "sourceChecks": [
+        {
+          "url": "https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.bankless.com/read/news/binance-reopens-withdrawals-fbi-pins-hack-on-north-korea",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-03T01:53:48.834Z",
+      "lastReviewedDay": "2026-11-03"
     },
     "9f9294f4cf90a635bc35": {
       "source": "CoinDesk",
@@ -229744,6 +229762,27 @@
             "Find independent reporting confirming the event in: $106 Million Crypto Theft Hits EU Entity With Multiple Exchange Accounts",
             "Retry the attempted URLs after any Retry-After time, within the existing verification window."
           ]
+        },
+        "f4109208240fecb8e60c": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the FBI alert in full, plus Decrypt and Bankless; matched the B attribution, address counts, and reopening figures across all three. Image self-hosted from Wikimedia.",
+          "sourceChecks": [
+            {
+              "url": "https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bankless.com/read/news/binance-reopens-withdrawals-fbi-pins-hack-on-north-korea",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-03T01:53:48.834Z",
+          "articleSlug": "fbireopen"
         }
       },
       "baselineSlugs": [
