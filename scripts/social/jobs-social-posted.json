@@ -94540,6 +94540,47 @@
       "verification": "verified",
       "postId": "6ae957f6a86fdc4e317b6115",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7523227973768880128"
+    },
+    {
+      "slug": "sec42",
+      "company": "Bitpanda",
+      "title": "Senior SOC Analyst, Security Operations",
+      "platform": "linkedin",
+      "postedAt": "2026-11-03T03:39:14.062Z",
+      "expectedText": "Bitpanda is hiring Senior SOC Analyst, Security Operations: https://hashtagweb3.com/sec42/li?og=7",
+      "snapshot": {
+        "id": "5012693101",
+        "title": "Senior SOC Analyst, Security Operations",
+        "company": "Bitpanda",
+        "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5012693101",
+        "date": "2026-10-21T11:21:29-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bitpanda [bitpanda]",
+        "location": "Vienna, Austria",
+        "department": "Engineering & Technology",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sec42"
+      },
+      "payload": {
+        "text": "Bitpanda is hiring Senior SOC Analyst, Security Operations: https://hashtagweb3.com/sec42/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sec42/li?og=7",
+          "title": "Senior SOC Analyst, Security Operations at Bitpanda",
+          "description": "Join Bitpanda as Senior SOC Analyst, Security Opera. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sec42.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "b7e3242c-6044-4482-ac8d-5eb755758d31",
+      "verification": "creating"
     }
   ]
 }
