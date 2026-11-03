@@ -94813,7 +94813,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "f605e5ac-69d5-483e-80f6-98a0825120a9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xcfa6685c898e62c1a5d4c13dc3431879b6c6b6ee"
     }
   ]
 }
