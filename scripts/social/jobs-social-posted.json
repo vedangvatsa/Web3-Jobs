@@ -93829,6 +93829,38 @@
       "attemptId": "a6bb02a3-963f-47ec-bbd2-d2871b6f1e5d",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Monday, 02-Nov-26 19:39:24 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ATwdBFpj5bADOyPOG4RYia_\"}"
+    },
+    {
+      "slug": "sec42",
+      "company": "Bitpanda",
+      "title": "Senior SOC Analyst, Security Operations",
+      "platform": "bluesky",
+      "postedAt": "2026-11-03T03:39:14.062Z",
+      "expectedText": "Bitpanda is hiring Senior SOC Analyst, Security Operations: https://hashtagweb3.com/sec42/bsky?og=7",
+      "snapshot": {
+        "id": "5012693101",
+        "title": "Senior SOC Analyst, Security Operations",
+        "company": "Bitpanda",
+        "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5012693101",
+        "date": "2026-10-21T11:21:29-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bitpanda [bitpanda]",
+        "location": "Vienna, Austria",
+        "department": "Engineering & Technology",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sec42"
+      },
+      "payload": {
+        "text": "Bitpanda is hiring Senior SOC Analyst, Security Operations: https://hashtagweb3.com/sec42/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/sec42/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/sec42.png?v=7",
+        "company": "Bitpanda",
+        "title": "Senior SOC Analyst, Security Operations",
+        "description": "Join Bitpanda as Senior SOC Analyst, Security Opera. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "d94774e5-9768-4d8a-b5cd-2179bde2d31a",
+      "verification": "creating"
     }
   ]
 }
