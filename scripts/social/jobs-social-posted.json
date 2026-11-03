@@ -94944,6 +94944,48 @@
       "attemptId": "58fc5ff9-432d-4d94-a459-64123bbf74fa",
       "verification": "verified",
       "postId": "0x62892886da0269499b3ff91f2d27e6549834781b"
+    },
+    {
+      "slug": "pm288",
+      "company": "Zero Hash",
+      "title": "Product Counsel",
+      "platform": "farcaster",
+      "postedAt": "2026-11-03T11:33:08.079Z",
+      "expectedText": "Zero Hash is hiring Product Counsel\n\nhttps://hashtagweb3.com/pm288/fc?og=7",
+      "snapshot": {
+        "id": "802e7802dcfb",
+        "title": "Product Counsel",
+        "company": "Zero Hash",
+        "link": "https://zero-hash.breezy.hr/p/802e7802dcfb-product-counsel",
+        "date": "2026-10-12",
+        "dateVerified": true,
+        "dateSource": "Breezy.JobPosting.datePosted",
+        "source": "Breezy: Zero Hash [zero-hash]",
+        "location": "Remote (United States)",
+        "isRemote": true,
+        "department": "Legal",
+        "active": true,
+        "dateEvidence": {
+          "url": "https://zero-hash.breezy.hr/p/802e7802dcfb-product-counsel",
+          "checkedAt": "2026-10-13T01:34:00.433Z",
+          "bodySha256": "22acace2554592590633620ed5895b0da27c58a314ca7898c93a13d7b0c23d4f",
+          "provider": "breezy",
+          "datePosted": "2026-10-12"
+        },
+        "slug": "pm288"
+      },
+      "payload": {
+        "text": "Zero Hash is hiring Product Counsel\n\nhttps://hashtagweb3.com/pm288/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm288/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "fad8b85c-8d61-4bcf-9c4d-43df5067d4ce",
+      "verification": "creating"
     }
   ]
 }
