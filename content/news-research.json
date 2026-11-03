@@ -124623,7 +124623,7 @@
         "mustReview": true
       },
       "reason": "verified-event",
-      "note": "Read the NJ Bureau notice of rescission, Coinbase Q3 10-Q, Cointelegraph report, and Defiant headline/dek. Drafted njstaking.",
+      "note": "Read NJ Bureau notice, Coinbase 10-Q, Cointelegraph, Defiant dek. Drafted njstaking at 695 words; quality, images, formatting, duplicates clean.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/new-jersey-coinbase-staking",
@@ -124640,9 +124640,13 @@
         {
           "url": "https://thedefiant.io/news/regulation/new-jersey-rescinds-coinbase-staking-order-clearing-path-for-restart",
           "outcome": "read"
+        },
+        {
+          "url": "https://dfpi.ca.gov/wp-content/uploads/sites/337/2023/06/Coinbase-Securities-Action-PR-June-2023.pdf",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-03T02:08:21.277Z",
+      "reviewedAt": "2026-11-03T02:14:18.389Z",
       "lastReviewedDay": "2026-11-03"
     },
     "4d5b38fe2c943764ba36": {
@@ -229841,7 +229845,7 @@
         "eb058751d7a24ceec909": {
           "status": "ready",
           "reason": "verified-event",
-          "note": "Read the NJ Bureau notice of rescission, Coinbase Q3 10-Q, Cointelegraph report, and Defiant headline/dek. Drafted njstaking.",
+          "note": "Read NJ Bureau notice, Coinbase 10-Q, Cointelegraph, Defiant dek. Drafted njstaking at 695 words; quality, images, formatting, duplicates clean.",
           "sourceChecks": [
             {
               "url": "https://cointelegraph.com/news/new-jersey-coinbase-staking",
@@ -229858,9 +229862,13 @@
             {
               "url": "https://thedefiant.io/news/regulation/new-jersey-rescinds-coinbase-staking-order-clearing-path-for-restart",
               "outcome": "read"
+            },
+            {
+              "url": "https://dfpi.ca.gov/wp-content/uploads/sites/337/2023/06/Coinbase-Securities-Action-PR-June-2023.pdf",
+              "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-11-03T02:08:21.277Z",
+          "reviewedAt": "2026-11-03T02:14:18.389Z",
           "articleSlug": "njstaking"
         },
         "0a817205dcf8d92b0ea3": {
