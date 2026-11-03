@@ -12927,5 +12927,122 @@
     "slotKey": "2026-11-02:evening",
     "messageId": 164,
     "sentAt": "2026-11-02T19:33:29.931Z"
+  },
+  "ba1f9240-b2aa-4df8-b968-3942f8e1f622": {
+    "status": "reserved",
+    "reservedAt": "2026-11-03T03:35:58.411Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "d8012425-f007-43db-b48d-3b456812f940",
+          "title": "Sr. Compliance Associate Lead - Market Surveillance",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/d8012425-f007-43db-b48d-3b456812f940",
+          "date": "2026-10-30T17:15:19.273+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (United Kingdom)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Compliance",
+          "active": true,
+          "slug": "cmp145",
+          "dateVerified": true
+        },
+        "key": "d8012425-f007-43db-b48d-3b456812f940",
+        "slug": "cmp145",
+        "url": "https://hashtagweb3.com/cmp145?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Sr. Compliance Associate Lead"
+      },
+      {
+        "snapshot": {
+          "id": "8330754",
+          "title": "Senior DevOps Engineer",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8330754?gh_jid=8330754",
+          "date": "2026-10-30T09:34:52-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "London, UK",
+          "department": "Engineering",
+          "active": true,
+          "slug": "do24",
+          "dateVerified": true
+        },
+        "key": "8330754",
+        "slug": "do24",
+        "url": "https://hashtagweb3.com/do24?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Senior DevOps Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8231223",
+          "title": "Workplace Experience Manager, Bengaluru",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8231223",
+          "date": "2026-10-08T02:10:23-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Bengaluru",
+          "department": "6620 Workplace Services",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr55"
+        },
+        "key": "8231223",
+        "slug": "mgr55",
+        "url": "https://hashtagweb3.com/mgr55?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Workplace Experience Manager"
+      },
+      {
+        "snapshot": {
+          "id": "bd4f73d1-08b5-410a-9c7a-34a2f65ac45a",
+          "title": "Platform Engineer",
+          "company": "Polygon Labs",
+          "link": "https://jobs.ashbyhq.com/polygon-labs/bd4f73d1-08b5-410a-9c7a-34a2f65ac45a",
+          "date": "2026-10-30T20:24:31.855+00:00",
+          "source": "Ashby: Polygon Labs [polygon-labs]",
+          "location": "EMEA - Remote",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Technology",
+          "active": true,
+          "slug": "eng687",
+          "dateVerified": true
+        },
+        "key": "bd4f73d1-08b5-410a-9c7a-34a2f65ac45a",
+        "slug": "eng687",
+        "url": "https://hashtagweb3.com/eng687?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Polygon Labs",
+        "title": "Platform Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "26efda6f-5654-45e5-91cd-058814fb4d6a",
+          "title": "Licensing and Audit Manager",
+          "company": "Lightspark",
+          "link": "https://jobs.ashbyhq.com/lightspark/26efda6f-5654-45e5-91cd-058814fb4d6a",
+          "date": "2026-10-12T22:02:47.181+00:00",
+          "source": "Ashby: Lightspark [lightspark]",
+          "location": "Los Angeles HQ",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Legal & Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec112"
+        },
+        "key": "26efda6f-5654-45e5-91cd-058814fb4d6a",
+        "slug": "sec112",
+        "url": "https://hashtagweb3.com/sec112?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Lightspark",
+        "title": "Licensing and Audit Manager"
+      }
+    ],
+    "message": "- Kraken is hiring <a href=\"https://hashtagweb3.com/cmp145?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sr. Compliance Associate Lead - Market Surveillance</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/do24?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior DevOps Engineer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/mgr55?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Workplace Experience Manager, Bengaluru</a>\n- Polygon Labs is hiring <a href=\"https://hashtagweb3.com/eng687?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Platform Engineer</a>\n- Lightspark is hiring <a href=\"https://hashtagweb3.com/sec112?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Licensing and Audit Manager</a>",
+    "slotKey": "2026-11-03:morning"
   }
 }
