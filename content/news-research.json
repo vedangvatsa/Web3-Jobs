@@ -124601,9 +124601,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "eb058751d7a24ceec909",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-03T01:43:52.711Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-05T22:22:30.000Z",
       "lastSeenAt": "2026-11-03T01:43:52.711Z",
       "articleSlug": "njstaking",
@@ -124621,7 +124621,29 @@
         "updatedAt": "2026-11-03T02:01:24.608Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read the NJ Bureau notice of rescission, Coinbase Q3 10-Q, Cointelegraph report, and Defiant headline/dek. Drafted njstaking.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/new-jersey-coinbase-staking",
+          "outcome": "read"
+        },
+        {
+          "url": "https://assets.ctfassets.net/sygt3q11s4a9/UP8DDH65wMBLgeI2RbWRR/90945f6360884dfa75aadcbac57d4f9f/Coinbase_Withdrawal_Order_10_30_26.pdf",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/0001679788/000167978826000122/coin-20260930.htm",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/regulation/new-jersey-rescinds-coinbase-staking-order-clearing-path-for-restart",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-03T02:08:21.277Z",
+      "lastReviewedDay": "2026-11-03"
     },
     "4d5b38fe2c943764ba36": {
       "source": "BeInCrypto",
@@ -229799,6 +229821,31 @@
           ],
           "reviewedAt": "2026-11-03T01:53:48.834Z",
           "articleSlug": "fbireopen"
+        },
+        "eb058751d7a24ceec909": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the NJ Bureau notice of rescission, Coinbase Q3 10-Q, Cointelegraph report, and Defiant headline/dek. Drafted njstaking.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/new-jersey-coinbase-staking",
+              "outcome": "read"
+            },
+            {
+              "url": "https://assets.ctfassets.net/sygt3q11s4a9/UP8DDH65wMBLgeI2RbWRR/90945f6360884dfa75aadcbac57d4f9f/Coinbase_Withdrawal_Order_10_30_26.pdf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/Archives/edgar/data/0001679788/000167978826000122/coin-20260930.htm",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/regulation/new-jersey-rescinds-coinbase-staking-order-clearing-path-for-restart",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-03T02:08:21.277Z",
+          "articleSlug": "njstaking"
         }
       },
       "baselineSlugs": [
