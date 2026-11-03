@@ -93570,7 +93570,8 @@
       },
       "account": "channel:design",
       "attemptId": "f06c23d8-115b-49e5-986b-5b40188278d5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x344f396507d0b9e4dd2fc8965d78adc49501c354"
     }
   ]
 }
