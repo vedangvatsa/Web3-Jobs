@@ -93894,7 +93894,8 @@
       },
       "account": "profile",
       "attemptId": "808500ae-1e64-409c-a75b-b979fab35cb2",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9b248049c0eae25750d180f416b5d6d2b29b58c8"
     }
   ]
 }
