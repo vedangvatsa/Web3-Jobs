@@ -4450,5 +4450,53 @@
     "slotKey": "2026-11-03:morning",
     "messageId": 156051,
     "sentAt": "2026-11-03T03:35:38.466Z"
+  },
+  "a1a34b91-2f0d-4066-baa3-f1f53192a6ff": {
+    "status": "reserved",
+    "reservedAt": "2026-11-03T11:32:41.579Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-u6jIcByTmjvnRkM",
+        "slug": "crypto-what-happens-next",
+        "name": "Crypto 2027: What Happens Next?",
+        "startDate": "2026-11-11T06:30:00.000Z",
+        "keys": [
+          "luma-crypto-u6jicbytmjvnrkm",
+          "tbab5uz8",
+          "page:crypto-what-happens-next:2026-11-11",
+          "luma-url:/tbab5uz8",
+          "event:crypto2027whathappensnext:2026-11-11:melbourne"
+        ]
+      },
+      {
+        "id": "luma-crypto-MEbXp19ZPmMKn0A",
+        "slug": "race-against-machine-ai-quantum-future-bitcoin",
+        "name": "Race Against the Machine: AI, Quantum and the Future of Bitcoin",
+        "startDate": "2026-11-12T16:00:00.000Z",
+        "keys": [
+          "luma-crypto-mebxp19zpmmkn0a",
+          "j8ks5br9",
+          "page:race-against-machine-ai-quantum-future-bitcoin:2026-11-12",
+          "luma-url:/j8ks5br9",
+          "event:raceagainstthemachineaiquantumandthefutureofbitcoin:2026-11-12:berlin"
+        ]
+      },
+      {
+        "id": "luma-crypto-8VfRDGPg3naAUqD",
+        "slug": "stablecoin-networking-evening-luno-blocktower-gtxn",
+        "name": "Stablecoin Networking Evening | Luno, BlockTower, GTXN",
+        "startDate": "2026-11-12T16:00:00.000Z",
+        "keys": [
+          "luma-crypto-8vfrdgpg3naauqd",
+          "iclquft2",
+          "page:stablecoin-networking-evening-luno-blocktower-gtxn:2026-11-12",
+          "luma-url:/iclquft2",
+          "event:stablecoinnetworkingeveninglunoblocktowergtxn:2026-11-12:cape town"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-03:afternoon"
   }
 }
