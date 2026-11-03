@@ -94537,7 +94537,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "19485e71-7c1c-4f10-a631-3cf9d1ba190c",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae957f6a86fdc4e317b6115"
     }
   ]
 }
