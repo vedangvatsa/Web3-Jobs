@@ -2947,7 +2947,7 @@
     "sentAt": "2026-11-03T03:39:38.954Z"
   },
   "c69754d6-29ea-4e12-bb71-a53bc332dc17": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-03T11:34:33.870Z",
     "stories": [
       {
@@ -2975,6 +2975,8 @@
         "originalTitle": "Judge rejects Gemini and CFTC bid to void $5 million settlement"
       }
     ],
-    "slotKey": "2026-11-03:afternoon"
+    "slotKey": "2026-11-03:afternoon",
+    "messageId": 156058,
+    "sentAt": "2026-11-03T11:34:46.959Z"
   }
 }

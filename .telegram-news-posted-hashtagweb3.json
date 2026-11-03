@@ -875,6 +875,9 @@
   "https://hashtagweb3.com/alpenglowlive?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/novig?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/stablecoinpay?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cftcutah?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/nba?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/geminiorder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2531,6 +2534,12 @@
   "Crypto.com and Novig sue Missouri over sports event contracts",
   "Stablecoin payment volume grew 45% to $482 billion",
   "Stablecoin payments jump 45% to $482B while supply barely moves",
+  "CFTC and DOJ sue Utah over prediction market enforcement",
+  "CFTC sues Utah to block enforcement against Kalshi prediction markets",
+  "NBA partners with CFTC and names preferred prediction markets",
+  "NBA signs CFTC integrity pact and names Kalshi, Polymarket preferred exchanges",
+  "Judge rejects bid to void Gemini's $5 million settlement",
+  "Judge rejects Gemini and CFTC bid to void $5 million settlement",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2956,5 +2965,8 @@
   "fp:consecutiv|creditor|dat|deadlin|delay|distribution|extend|final|fourth|gox",
   "fp:alpenglow|confirm|cutt|decreas|finality|goe|liv|mainnet|millisecond|october21",
   "fp:argu|attempt|bett|com|contract|event|exchang|federal|gambl|law",
-  "fp:482b|barely|blockchain|circulation|flat|grew45|increas|integrat|jump45|major"
+  "fp:482b|barely|blockchain|circulation|flat|grew45|increas|integrat|jump45|major",
+  "fp:against|aim|apply|block|cftc|doj|enforcement|federal|gambl|kalshi",
+  "fp:agreement|cftc|declin|enter|establish|exchang|integrity|kalshi|leagu|market",
+  "fp:agreement|ask|bid|both|cftc|conduct|court|gemini|judg|maintain"
 ]
