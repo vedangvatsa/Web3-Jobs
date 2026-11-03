@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-11-03",
+    "threadId": "E06",
+    "sequence": 17,
+    "platform": "linkedin",
+    "sourceContentSha256": "1cbe2f93ef8c2be5086df627ff8374c4090b8f42aebe30623ae69d6c3176c55f",
+    "calendarSha256": "70484da3b7319ebb706092e37759daf11ea4a58df5a9beadef96d8dd5ada9ebc",
+    "sourceThreadSha256": "267b4d632e9d885033bec54e6227a36a4ffb7bfb89411026890a0c1727716232",
+    "sourcePostHashes": [
+      "780a8f8c5ac5c8d193ea22a9f1da01307fc1965b2860f399380931a794e4b1ca",
+      "5a93d26e250cc929798daccd3625798b6175279acba45af96ca21aaf5a9bca61",
+      "4d22c9d845d86e2f60c26ffcc7a09cb4c8686685eb3f3f3da93913c270da6056",
+      "c5d93ba22b1e8f3d3b67d4ec205beb0c7a8dfb6dec497e3846342a4499f71ae7",
+      "3e71e2aede7101fd4fd1bc281bebbf33f586aade4969b0099f0354f496346971",
+      "5d64b39ddb0c98f6fe27c72543dddf454a6a2e30609243ca60b222ef13cb2b48"
+    ],
+    "sourceImages": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/E06-01.jpg",
+        "sha256": "552e677bfeaa0943c45aa26c77ef62ee96eabaf7728fb0c3d27b14ca720597e7",
+        "bytes": 133090,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Dominica flag beside a property-holding comparison. Dominica: 3 years from citizenship, or 5 years before resale to another citizenship-by-investment applicant. Saint Kitts and Nevis: approved developer property requires a minimum 7-year hold. Qualifying family and asset conditions differ; fees are extra and approval checks apply.",
+        "renderedText": "Family citizenship\n\nProperty holds: 3, 5 or 7 years\nDominica\n3 years from citizenship; 5 years before resale to another CBI applicant.\nSaint Kitts and Nevis\nApproved developer property: minimum 7-year hold.\n\nFive Caribbean programs. Qualifying family and asset conditions differ; fees additional. Approval required.\n\nHashtag Web3 · Official program rules\n\nE06 · 1/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E06-02.jpg",
+        "sha256": "7ba05c9738231d1603ea18db02f6135da953aa339988bc803e29d2a085f092d6",
+        "bytes": 152490,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Dominica flag and two citizenship routes. EDF: USD 200,000 single applicant or USD 250,000 with up to 3 qualifying dependants. Approved property: from USD 200,000 plus USD 75,000 main-applicant government fee. Hold 3 years from citizenship, or 5 before resale to another CBI applicant. Other fees and approval checks apply.",
+        "renderedText": "Family citizenship\n\nDominica: contribution or property\nEDF contribution\nUSD 200,000 single / USD 250,000 applicant + up to 3 qualifying dependants.\nApproved property\nFrom USD 200,000 + USD 75,000 main-applicant government fee.\nProperty hold\n3 years from citizenship; 5 years before resale to another CBI applicant.\n\nOther fees are separate. Approval required.\n\nHashtag Web3 · Official program rules\n\nE06 · 2/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E06-03.jpg",
+        "sha256": "9df24b3847ca4d0bafc0e4ddd05a3a04cc9a8800c6550b28da06a83668dae8b1",
+        "bytes": 164959,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Antigua and Barbuda flag and two citizenship routes. NDF: USD 230,000 for up to 4 qualifying family members plus USD 20,000 processing. Approved property: from USD 300,000, held 5 years from purchase unless replaced with another officially approved property. Larger NDF families retain the USD 230,000 base with incremental processing fees. Other fees and approval checks apply.",
+        "renderedText": "Family citizenship\n\nAntigua and Barbuda: two routes\nNDF contribution\nUSD 230,000 for up to 4 qualifying family members + USD 20,000 processing.\nApproved property\nFrom USD 300,000.\nProperty hold\n5 years from purchase, unless replaced with another officially approved property.\n\nLarger NDF families retain the USD 230,000 base; incremental processing and other fees apply. Approval required.\n\nHashtag Web3 · Official program rules\n\nE06 · 3/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E06-04.jpg",
+        "sha256": "74fbf7adc9ff712ea3404ee06de93093b203afa5570b00be5bae8afabe7c7373",
+        "bytes": 167090,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Grenada flag and citizenship routes. NTF: USD 235,000 for up to 4 qualifying family members; siblings and parents or grandparents aged 55 or under cost extra. Tourism share: USD 270,000 plus USD 50,000 government contribution; approved units, 2 or more joint buyers and developer equity conditions. Resale to another CBI applicant requires 5 years from citizenship. General approved-project threshold: USD 350,000. Other fees and approval checks apply.",
+        "renderedText": "Family citizenship\n\nGrenada: two routes\nNTF contribution\nUSD 235,000, up to 4 qualifying family members. Extra for siblings and parents/grandparents ≤55.\nTourism share\nUSD 270,000 + USD 50,000 government contribution. Approved units, 2+ joint buyers; developer equity conditions.\nCBI resale\n5 years from citizenship before resale to another CBI applicant.\n\nGeneral project threshold: USD 350,000. Extra fees apply. Approval required.\n\nHashtag Web3 · Official program rules\n\nE06 · 4/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E06-05.jpg",
+        "sha256": "c1cb292ba5b8a1c76c731ef503a1899eb38eda8db6c4701ed4af3cd2957e2938",
+        "bytes": 168199,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Saint Kitts and Nevis flag and citizenship routes. SISC: USD 250,000 for one applicant or up to 4 qualifying family members. Extra dependants: USD 25,000 under 18 or USD 50,000 at 18+. Approved developer property: from USD 325,000, minimum 7-year hold, plus USD 25,000 main-applicant post-approval fee. Due diligence and purchase costs are extra; approval checks apply.",
+        "renderedText": "Family citizenship\n\nSaint Kitts and Nevis: a 7-year hold\nSISC contribution\nUSD 250,000 for one applicant or up to 4 qualifying family members.\nExtra dependants\nUSD 25,000 under 18 / USD 50,000 at 18+.\nDeveloper property\nFrom USD 325,000; minimum 7-year hold. USD 25,000 main-applicant post-approval fee.\n\nApproved developer units only. Due diligence and purchase costs extra. Approval required.\n\nHashtag Web3 · Official program rules\n\nE06 · 5/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E06-06.jpg",
+        "sha256": "8150f9d3073dabbcf5a94187a4bfc66e4e23f533b60edf02a9ab7ed086a641f9",
+        "bytes": 166120,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Saint Lucia flag and citizenship routes. NEF: USD 240,000 for applicant plus up to 3 qualifying dependants. National Action Bonds: USD 300,000 plus USD 50,000 administration, covering any number of qualifying dependants. Bonds stay in the applicant's name for 5 years from first issue and pay no interest. USD 350,000 financial-resources declaration applies. Processing, due diligence and other fees are extra; approval checks apply.",
+        "renderedText": "Family citizenship\n\nSaint Lucia: contribution or bonds\nNEF contribution\nUSD 240,000: applicant + up to 3 qualifying dependants.\nNational Action Bonds\nUSD 300,000 + USD 50,000 administration. Any number of qualifying dependants.\nBond hold\n5 years from first issue, in applicant's name; no interest.\n\nUSD 350,000 financial-resources declaration also applies. Processing, due diligence and other fees extra. Approval required.\n\nHashtag Web3 · Official program rules\n\nE06 · 6/6"
+      }
+    ],
+    "assetCommit": "dfbfc37d2260315ed26db8f47f1f55c5cd134931",
+    "target": {
+      "channelId": "69c5b139af47dacb695b5feb",
+      "service": "linkedin",
+      "serviceId": "89714573",
+      "profile": "https://www.linkedin.com/company/hashtagweb3/"
+    },
+    "caption": "Dominica can require a 3-year property hold; Saint Kitts and Nevis requires 7.\n\nCompare five Caribbean citizenship routes by family contribution and asset rules. USD base amounts exclude fees; approval checks apply.\n\n1. Dominica EDF: USD 200,000 alone or USD 250,000 for applicant + 3 qualifying dependants.\n\nApproved property starts at USD 200,000; hold 3 years from citizenship, or 5 before resale to another CBI applicant.\n\n2. Antigua and Barbuda: USD 230,000 NDF covers a family of up to 4, plus fees.\n\nApproved property starts at USD 300,000, held for 5 years after purchase unless replaced with another officially approved property.\n\n3. Grenada: USD 235,000 NTF for up to 4 people; siblings and parents/grandparents 55 or younger cost extra.\n\nQualifying tourism shares start at USD 270,000 plus USD 50,000; 5 years before resale to another CBI applicant.\n\n4. Saint Kitts and Nevis: USD 250,000 SISC covers one applicant or family up to 4. Extra dependants: USD 25,000 under 18; USD 50,000 at 18+.\n\nApproved developer property starts at USD 325,000 with a 7-year hold.\n\n5. Saint Lucia: USD 240,000 NEF for applicant + up to 3 qualifying dependants.\n\nAlternative: USD 300,000 National Action Bonds held 5 years without interest, plus USD 50,000 administration; other fees extra.\n\nFull resource: hashtagweb3.com/citizenship/li",
+    "title": "Five Caribbean citizenship programs: family prices and asset holding periods",
+    "pdf": {
+      "path": "social-assets/knowledge-threads-month/exports/E06/linkedin.pdf",
+      "sha256": "1b5c93a5610c212ab63702be50b7c707dcca007c167fd00e064f7516565b999e",
+      "bytes": 955850,
+      "pageCount": 6,
+      "widthPt": 600,
+      "heightPt": 750,
+      "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/dfbfc37d2260315ed26db8f47f1f55c5cd134931/social-assets/knowledge-threads-month/exports/E06/linkedin.pdf"
+    },
+    "thumbnail": {
+      "path": "social-assets/knowledge-threads-month/exports/E06/cover.jpg",
+      "sha256": "552e677bfeaa0943c45aa26c77ef62ee96eabaf7728fb0c3d27b14ca720597e7",
+      "bytes": 133090,
+      "width": 1200,
+      "height": 1500,
+      "alt": "Dominica flag beside a property-holding comparison. Dominica: 3 years from citizenship, or 5 years before resale to another citizenship-by-investment applicant. Saint Kitts and Nevis: approved developer property requires a minimum 7-year hold. Qualifying family and asset conditions differ; fees are extra and approval checks apply.",
+      "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/dfbfc37d2260315ed26db8f47f1f55c5cd134931/social-assets/knowledge-threads-month/exports/E06/cover.jpg"
+    }
+  },
+  "account": {
+    "channelId": "69c5b139af47dacb695b5feb",
+    "service": "linkedin",
+    "serviceId": "89714573",
+    "profile": "https://www.linkedin.com/company/hashtagweb3/",
+    "type": "page",
+    "organizationId": "69c5b0f799d3bd8de475e25a"
+  },
+  "claimId": "4b12ec1a-d2aa-4988-bd91-b2d76a54807a",
+  "startedAt": "2026-11-03T11:32:10.099Z",
+  "status": "claimed"
+}
