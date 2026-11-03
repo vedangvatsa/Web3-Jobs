@@ -94770,7 +94770,8 @@
       },
       "account": "profile",
       "attemptId": "fd6d1f73-9dd9-4463-ae6d-1eb51f45858f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x946620215b6c29283e91b9e953ea994da90f19e3"
     }
   ]
 }
