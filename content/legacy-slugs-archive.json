@@ -152343,5 +152343,131 @@
     "link": "https://jobs.ashbyhq.com/trust-wallet/87c32867-4e32-473c-b818-8eae0306f46a",
     "company": "Trust Wallet",
     "title": "Lead AI Engineer (LLM & Agents)"
+  },
+  "csta": {
+    "id": "8334761",
+    "link": "https://www.coinbase.com/careers/positions/8334761?gh_jid=8334761",
+    "company": "Coinbase",
+    "title": "Customer Success Team Agent II"
+  },
+  "kors": {
+    "id": "8289327",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8289327?t=gh_src=&gh_jid=8289327",
+    "company": "Robinhood",
+    "title": "Knowledge & Operational Readiness Specialist"
+  },
+  "sls203": {
+    "id": "8326189",
+    "link": "https://stripe.com/jobs/search?gh_jid=8326189",
+    "company": "Stripe",
+    "title": "Sales Manager, Billing"
+  },
+  "css3": {
+    "id": "8333273",
+    "link": "https://www.coinbase.com/careers/positions/8333273?gh_jid=8333273",
+    "company": "Coinbase",
+    "title": "Customer Support Specialist II"
+  },
+  "pm343": {
+    "id": "8329718",
+    "link": "https://stripe.com/jobs/search?gh_jid=8329718",
+    "company": "Stripe",
+    "title": "Staff Software Engineer, Dashboard Product"
+  },
+  "tir2": {
+    "id": "8046685003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8046685003",
+    "company": "OKX",
+    "title": "Head of Tax Information Reporting"
+  },
+  "fe25": {
+    "id": "8212319",
+    "link": "https://stripe.com/jobs/search?gh_jid=8212319",
+    "company": "Stripe",
+    "title": "Backend Engineer, UI Platform"
+  },
+  "aso64": {
+    "id": "63fb5f4c-0bda-4956-b313-06357027ece3",
+    "link": "https://jobs.lever.co/crypto/63fb5f4c-0bda-4956-b313-06357027ece3",
+    "company": "Crypto.com",
+    "title": "Associate, Finance Administration & Bank Management"
+  },
+  "psp": {
+    "id": "5457311008",
+    "link": "https://job-boards.greenhouse.io/hut8/jobs/5457311008",
+    "company": "Hut 8",
+    "title": "Planner / Scheduler, Partner"
+  },
+  "sls305": {
+    "id": "8286649",
+    "link": "https://stripe.com/jobs/search?gh_jid=8286649",
+    "company": "Stripe",
+    "title": "Commercial Counsel, Sales"
+  },
+  "pm303": {
+    "id": "08bd791a-dbe0-4ef7-8a23-8a78b5b20368",
+    "link": "https://jobs.ashbyhq.com/kraken.com/08bd791a-dbe0-4ef7-8a23-8a78b5b20368",
+    "company": "Kraken",
+    "title": "Senior Counsel – Product (Asia-Pacific)"
+  },
+  "pm298": {
+    "id": "6221619004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6221619004",
+    "company": "Alpaca",
+    "title": "Product Manager, Digital Assets - Tokenization"
+  },
+  "pm297": {
+    "id": "4391015009",
+    "link": "https://job-boards.greenhouse.io/ondofinance/jobs/4391015009",
+    "company": "Ondo Finance",
+    "title": "Senior Product Manager, Platform Experience"
+  },
+  "mgr173": {
+    "id": "8268415",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8268415?t=gh_src=&gh_jid=8268415",
+    "company": "Robinhood",
+    "title": "Investor Relations Manager"
+  },
+  "cmp98": {
+    "id": "5000000101",
+    "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5000000101",
+    "company": "BVNK",
+    "title": "Deputy MLRO (Malta)"
+  },
+  "aso48": {
+    "id": "1b65dbb7-ee75-459e-b658-2b271be26e51",
+    "link": "https://jobs.lever.co/crypto/1b65dbb7-ee75-459e-b658-2b271be26e51",
+    "company": "Crypto.com",
+    "title": "Treausry Associate"
+  },
+  "aso45": {
+    "id": "08711490-46bf-437a-9f39-2a4effc570cb",
+    "link": "https://jobs.lever.co/crypto/08711490-46bf-437a-9f39-2a4effc570cb",
+    "company": "Crypto.com",
+    "title": "Associate, Finance Administration"
+  },
+  "mgr78": {
+    "id": "ddf10f1b-c35d-4a74-b18c-b1b32374bdd0",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/ddf10f1b-c35d-4a74-b18c-b1b32374bdd0",
+    "company": "Chainalysis",
+    "title": "Channel Partner Manager, AMER"
+  },
+  "sls214": {
+    "id": "4f7f3088-e290-400e-8ca4-391d5ef0aa03",
+    "link": "https://jobs.ashbyhq.com/fence-finance/4f7f3088-e290-400e-8ca4-391d5ef0aa03",
+    "company": "Fence Finance",
+    "title": "Partnerships and Business Development Manager"
+  },
+  "eve": {
+    "id": "8012558003",
+    "link": "https://job-boards.greenhouse.io/grayscaleinvestments/jobs/8012558003",
+    "company": "Grayscale",
+    "title": "Events Lead"
+  },
+  "mgr143": {
+    "id": "8d2297ef-3ddb-4367-81dc-904c759d1cdc",
+    "link": "https://careers.ethena.fi/jobs/8495362-customer-success-manager-ethena-pay",
+    "company": "Ethena Labs",
+    "title": "Customer Success Manager - Ethena Pay"
   }
 }

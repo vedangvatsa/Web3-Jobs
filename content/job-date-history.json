@@ -1468,9 +1468,16 @@
     "dateSource": "Greenhouse.first_published"
   },
   "breezy:bitdeer.breezy.hr:d88429072644": {
-    "date": "2026-10-06T21:50:14.265Z",
-    "dateVerified": false,
-    "dateSource": "Breezy.API-republication-unverified"
+    "date": "2026-10-06",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/d88429072644-mechanical-engineer-smt-manufacturing",
+      "checkedAt": "2026-11-03T01:45:48.904Z",
+      "bodySha256": "cf013a1e4a2a127a5d668b49a36879c3ecda8dd8299bb983322c39885c31bd69",
+      "provider": "breezy",
+      "datePosted": "2026-10-06"
+    }
   },
   "greenhouse:8158086": {
     "date": "2026-10-06T17:44:09-04:00",
@@ -36972,6 +36979,540 @@
   },
   "https://bullish.wd3.myworkdayjobs.com/Bullish/job/London/Senior-Software-Engineer--CoinDesk-Media_JR2001286-1": {
     "date": "2026-11-02",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/98658699-account-executive-kast-business": {
+    "date": "2026-11-02T12:47:11.000Z",
+    "dateVerified": true
+  },
+  "https://careers.circle.com/us/en/job/JR101198": {
+    "date": "2026-11-02T13:33:07.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8327701": {
+    "date": "2026-11-02T02:44:13-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337038": {
+    "date": "2026-11-02T05:18:35-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337032": {
+    "date": "2026-11-02T05:07:49-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337058": {
+    "date": "2026-11-02T05:43:40-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337061": {
+    "date": "2026-11-02T05:51:03-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337042": {
+    "date": "2026-11-02T05:27:47-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337035": {
+    "date": "2026-11-02T05:47:30-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337049": {
+    "date": "2026-11-02T05:20:58-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337045": {
+    "date": "2026-11-02T05:35:33-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337055": {
+    "date": "2026-11-02T05:33:20-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337048": {
+    "date": "2026-11-02T05:41:45-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "https://www.linkedin.com/jobs/view/it-field-engineer-at-hadrian-4474484405": {
+    "date": "2026-11-02T14:23:41.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/internal-communications-knowledge-systems-partner-at-hadrian-4483912232": {
+    "date": "2026-11-02T14:23:41.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/all-levels-software-engineer-builder-tools-at-hadrian-4451775535": {
+    "date": "2026-11-02T14:23:40.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/senior-backend-engineer-nitro-at-offchain-4485667349": {
+    "date": "2026-11-02T14:41:14.000Z",
+    "dateVerified": true
+  },
+  "https://www.comeet.com/jobs/blockaid/69.00B/threat-intelligence-analyst/23.47E": {
+    "date": "2026-11-02T13:59:52.000Z",
+    "dateVerified": true
+  },
+  "https://eg.linkedin.com/jobs/view/senior-data-engineer-at-axis-4483973865": {
+    "date": "2026-11-02T14:27:53.000Z",
+    "dateVerified": true
+  },
+  "https://eg.linkedin.com/jobs/view/senior-sdet-software-development-engineer-in-test-at-axis-4483987576": {
+    "date": "2026-11-02T14:27:53.000Z",
+    "dateVerified": true
+  },
+  "https://eg.linkedin.com/jobs/view/talent-acquisition-staffing-employer-branding-lead-manager-at-axis-4485427201": {
+    "date": "2026-11-02T14:27:52.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8345344": {
+    "date": "2026-11-02T01:05:50-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8164080003": {
+    "date": "2026-11-02T15:45:06-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8322584": {
+    "date": "2026-11-02T09:47:39-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8319488": {
+    "date": "2026-11-02T04:45:37-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:7997555": {
+    "date": "2026-06-10T15:14:52-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8287920": {
+    "date": "2026-11-02T15:24:35-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8319823": {
+    "date": "2026-11-02T12:47:04-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8332880": {
+    "date": "2026-11-02T15:24:38-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8346778": {
+    "date": "2026-11-02T13:49:07-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8346831": {
+    "date": "2026-11-02T13:54:08-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8346417": {
+    "date": "2026-11-02T14:26:47-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8324997": {
+    "date": "2026-11-02T08:21:14-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8325019": {
+    "date": "2026-11-02T08:13:57-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:7975721": {
+    "date": "2026-06-09T03:20:07-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8167556": {
+    "date": "2026-09-02T15:53:46-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8346070": {
+    "date": "2026-11-02T10:04:13-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8346064": {
+    "date": "2026-11-02T09:54:34-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8346073": {
+    "date": "2026-11-02T10:21:41-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8334387": {
+    "date": "2026-11-02T09:12:41-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8304052": {
+    "date": "2026-11-02T18:22:19-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8346266": {
+    "date": "2026-11-02T12:01:02-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337064": {
+    "date": "2026-11-02T06:12:01-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337052": {
+    "date": "2026-11-02T06:04:22-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8329023": {
+    "date": "2026-11-02T17:58:51-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8346319": {
+    "date": "2026-11-02T11:37:43-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8346318": {
+    "date": "2026-11-02T11:37:05-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8345460": {
+    "date": "2026-11-02T08:50:12-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8223889": {
+    "date": "2026-11-02T14:46:52-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8348035": {
+    "date": "2026-11-02T17:11:27-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8231449": {
+    "date": "2026-11-02T19:56:12-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8202183": {
+    "date": "2026-11-02T17:44:52-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8331310": {
+    "date": "2026-11-02T04:40:12-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8334344": {
+    "date": "2026-11-02T05:06:33-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8348038": {
+    "date": "2026-11-02T17:02:31-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8927816002": {
+    "date": "2026-11-02T19:53:04-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8927814002": {
+    "date": "2026-11-02T19:52:59-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8397753002": {
+    "date": "2026-01-30T04:00:33-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8328881": {
+    "date": "2026-11-02T16:49:40-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5024897101": {
+    "date": "2026-11-02T09:06:08-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5024599101": {
+    "date": "2026-11-02T01:05:38-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5024600101": {
+    "date": "2026-11-02T01:06:19-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5020051101": {
+    "date": "2026-11-02T01:58:57-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5440719008": {
+    "date": "2026-11-02T13:27:51-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5470119008": {
+    "date": "2026-11-02T18:12:01-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5470387008": {
+    "date": "2026-11-02T16:38:03-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6240963004": {
+    "date": "2026-11-02T16:21:21-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6240414004": {
+    "date": "2026-11-02T04:55:40-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6240404004": {
+    "date": "2026-11-02T04:29:50-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5024636101": {
+    "date": "2026-11-02T03:39:58-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4987248101": {
+    "date": "2026-09-25T05:14:08-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4987243101": {
+    "date": "2026-09-25T05:06:35-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4834634101": {
+    "date": "2026-09-25T05:06:33-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8105382003": {
+    "date": "2026-11-02T00:44:10-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8163961003": {
+    "date": "2026-11-02T15:23:25-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8163791003": {
+    "date": "2026-11-02T15:24:07-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8157974003": {
+    "date": "2026-11-02T06:46:48-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4749903005": {
+    "date": "2026-11-02T17:13:49-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6241656004": {
+    "date": "2026-11-02T20:32:57-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6240586004": {
+    "date": "2026-11-02T10:03:25-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6241653004": {
+    "date": "2026-11-02T20:23:25-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6241652004": {
+    "date": "2026-11-02T20:18:20-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8302909": {
+    "date": "2026-11-02T14:12:39-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8237635": {
+    "date": "2026-11-02T10:19:39-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:7943130": {
+    "date": "2026-11-02T17:28:42-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8331536": {
+    "date": "2026-11-02T14:21:39-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8328365": {
+    "date": "2026-11-02T14:35:30-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8237633": {
+    "date": "2026-11-02T17:09:53-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "lever:558520f3-d3ef-41b6-964b-2f51da8bbcde": {
+    "date": "2026-04-21T09:01:04.555Z",
+    "dateVerified": true
+  },
+  "lever:7983ff1a-dd4a-45c2-9f6a-dda28ccca9ce": {
+    "date": "2026-04-21T08:33:23.118Z",
+    "dateVerified": true
+  },
+  "lever:c7f5a76d-d079-4e07-af06-290252d475f0": {
+    "date": "2026-04-21T08:32:51.684Z",
+    "dateVerified": true
+  },
+  "ashby:70c26b31-1afb-4fab-b3d3-019261d428c2": {
+    "date": "2026-11-02T14:04:22.562+00:00",
+    "dateVerified": true
+  },
+  "ashby:d8925f84-562f-470c-a5bd-4f6c20009361": {
+    "date": "2026-11-03T00:39:43.962+00:00",
+    "dateVerified": true
+  },
+  "ashby:e652e1b6-174d-4f25-b925-123d724ec7d4": {
+    "date": "2026-11-02T20:36:55.071+00:00",
+    "dateVerified": true
+  },
+  "ashby:ffa65512-ae82-432f-a079-c17faf3ec636": {
+    "date": "2026-11-02T14:37:41.230+00:00",
+    "dateVerified": true
+  },
+  "ashby:f9c84be6-bc81-4cbb-a06c-be1a06c222da": {
+    "date": "2026-11-02T15:54:46.456+00:00",
+    "dateVerified": true
+  },
+  "ashby:7a783045-75ec-4c15-a62a-2937227638d7": {
+    "date": "2026-11-02T18:12:11.884+00:00",
+    "dateVerified": true
+  },
+  "ashby:da8bfeb0-8d43-4fa0-808b-28025ce70feb": {
+    "date": "2026-11-02T19:52:15.177+00:00",
+    "dateVerified": true
+  },
+  "ashby:c06e4344-c7b0-4c1b-beb8-a9646594ff7c": {
+    "date": "2026-11-02T19:43:33.905+00:00",
+    "dateVerified": true
+  },
+  "ashby:5256ef0f-55d0-4a1f-9696-edd6fe56bf1e": {
+    "date": "2026-11-02T17:27:09.937+00:00",
+    "dateVerified": true
+  },
+  "ashby:3da75b5a-8b2c-48d6-9088-16886bb1dc09": {
+    "date": "2026-11-02T18:49:54.734+00:00",
+    "dateVerified": true
+  },
+  "ashby:17c84802-2133-4e30-a297-4809aaec89d2": {
+    "date": "2026-11-02T18:49:57.086+00:00",
+    "dateVerified": true
+  },
+  "ashby:bab2528f-ba76-4508-9aab-9af56ab06178": {
+    "date": "2026-11-02T12:47:47.665+00:00",
+    "dateVerified": true
+  },
+  "ashby:888d6fa4-7e63-4552-a174-1fffdb661de6": {
+    "date": "2026-11-02T18:16:55.921+00:00",
+    "dateVerified": true
+  },
+  "ashby:6ee740e8-dd6b-4b51-b2e3-d36e8d361b70": {
+    "date": "2026-11-02T23:34:33.608+00:00",
+    "dateVerified": true
+  },
+  "ashby:fa0582d2-2057-4fe6-b632-335a91df8f89": {
+    "date": "2026-11-02",
+    "dateVerified": true
+  },
+  "workable:5e5fadbea0": {
+    "date": "2026-11-02",
+    "dateVerified": true
+  },
+  "workable:23e677eee1": {
+    "date": "2026-11-02",
+    "dateVerified": true
+  },
+  "workable:57da69985e": {
+    "date": "2026-11-02",
+    "dateVerified": true
+  },
+  "workable:b4ad47f599": {
+    "date": "2026-11-02",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-agentic-reinforcement-learning-100-remote-worldwide": {
+    "date": "2026-05-19T11:29:06Z",
+    "dateVerified": true
+  },
+  "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Data-Engineer---Finance_JR101155": {
+    "date": "2026-11-02",
+    "dateVerified": true
+  },
+  "https://ats.rippling.com/riot-platforms-careers/jobs/89bd89c6-e5f8-43c7-9751-a2d83dfc358f": {
+    "date": "2026-11-02T11:56:38.249000-08:00",
+    "dateVerified": true
+  },
+  "https://hrmos.co/pages/bitbank/jobs/0000325": {
+    "date": "2026-11-02T08:54:50.000Z",
     "dateVerified": true
   }
 }
