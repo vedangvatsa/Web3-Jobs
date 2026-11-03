@@ -7036,5 +7036,121 @@
     "slotKey": "2026-11-02:evening",
     "messageId": 156049,
     "sentAt": "2026-11-02T19:33:38.599Z"
+  },
+  "eaf14500-103b-4909-8d83-730114cc06e2": {
+    "status": "reserved",
+    "reservedAt": "2026-11-03T03:36:56.487Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "c0ca6bd8-cf64-42c5-9378-d20003e66fae",
+          "title": "Head of Tokenization",
+          "company": "Talos",
+          "link": "https://jobs.ashbyhq.com/Talos-Trading/c0ca6bd8-cf64-42c5-9378-d20003e66fae",
+          "date": "2026-10-09T08:21:44.060+00:00",
+          "source": "Ashby: Talos [Talos-Trading]",
+          "location": "Hybrid (London, NYC)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "tok"
+        },
+        "key": "c0ca6bd8-cf64-42c5-9378-d20003e66fae",
+        "slug": "tok",
+        "url": "https://hashtagweb3.com/tok?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Talos",
+        "title": "Head of Tokenization"
+      },
+      {
+        "snapshot": {
+          "id": "4918278101",
+          "title": "Country Manager",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4918278101",
+          "date": "2026-10-22T05:51:20-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Europe - Remote",
+          "department": "Europe",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr71"
+        },
+        "key": "4918278101",
+        "slug": "mgr71",
+        "url": "https://hashtagweb3.com/mgr71?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Country Manager"
+      },
+      {
+        "snapshot": {
+          "id": "5008131101",
+          "title": "Strategic Finance Senior Manager",
+          "company": "StraitsX",
+          "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5008131101",
+          "date": "2026-10-15T23:45:45-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: StraitsX [straitsx]",
+          "location": "Singapore",
+          "department": "Corporate - Strategic Finance ",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr26"
+        },
+        "key": "5008131101",
+        "slug": "mgr26",
+        "url": "https://hashtagweb3.com/mgr26?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "StraitsX",
+        "title": "Strategic Finance Senior Manager"
+      },
+      {
+        "snapshot": {
+          "id": "4742079005",
+          "title": "Director, Electronic Trading",
+          "company": "FalconX",
+          "link": "https://job-boards.greenhouse.io/falconx/jobs/4742079005",
+          "date": "2026-10-16T13:55:13-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: FalconX [falconx]",
+          "location": "New York City, NY",
+          "department": "Revenue Sales and Coverage",
+          "active": true,
+          "dateVerified": true,
+          "slug": "det"
+        },
+        "key": "4742079005",
+        "slug": "det",
+        "url": "https://hashtagweb3.com/det?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "FalconX",
+        "title": "Director, Electronic Trading"
+      },
+      {
+        "snapshot": {
+          "id": "e8815463-ee2b-4fb8-bb18-4890866dc61a",
+          "title": "Accounts Payable Accountant (Remote)",
+          "company": "Alchemy",
+          "link": "https://jobs.ashbyhq.com/alchemy/e8815463-ee2b-4fb8-bb18-4890866dc61a",
+          "date": "2026-10-27T20:12:58.953+00:00",
+          "source": "Ashby: Alchemy [alchemy]",
+          "location": "Hybrid (San Francisco)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls356"
+        },
+        "key": "e8815463-ee2b-4fb8-bb18-4890866dc61a",
+        "slug": "sls356",
+        "url": "https://hashtagweb3.com/sls356?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alchemy",
+        "title": "Accounts Payable Accountant"
+      }
+    ],
+    "message": "- Talos is hiring <a href=\"https://hashtagweb3.com/tok?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Tokenization</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/mgr71?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Country Manager</a>\n- StraitsX is hiring <a href=\"https://hashtagweb3.com/mgr26?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Strategic Finance Senior Manager</a>\n- FalconX is hiring <a href=\"https://hashtagweb3.com/det?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, Electronic Trading</a>\n- Alchemy is hiring <a href=\"https://hashtagweb3.com/sls356?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Accounts Payable Accountant (Remote)</a>",
+    "slotKey": "2026-11-03:morning"
   }
 }
