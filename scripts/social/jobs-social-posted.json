@@ -94314,7 +94314,8 @@
       },
       "account": "channel:defi",
       "attemptId": "97d95b55-9506-4403-8f39-e1be69684d23",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x38f1dd95bd9321cc675045f6980b3977958be540"
     }
   ]
 }
