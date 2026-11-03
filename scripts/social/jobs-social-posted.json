@@ -96460,7 +96460,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "27b0c6dd-248e-4f2e-9ef5-879910e77db0",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7523348312318586880"
     }
   ]
 }
