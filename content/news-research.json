@@ -124580,11 +124580,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "5ece4d41d5bac765c722",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-03T01:43:52.711Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-05T18:40:47.000Z",
-      "lastSeenAt": "2026-11-03T01:43:52.711Z"
+      "lastSeenAt": "2026-11-03T01:43:52.711Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read the CryptoSlate analysis of October US spot ETF flows. It is monthly flow data and interpretation of SoSoValue figures, with no launch, vote, ruling, filing, hack, raise or upgrade event.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/bnbs-99-million-etf-inflows-came-almost-entirely-before-binances-hack/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-03T02:21:00.500Z",
+      "lastReviewedDay": "2026-11-03"
     },
     "eb058751d7a24ceec909": {
       "source": "Cointelegraph",
@@ -229888,6 +229898,18 @@
           "reviewedAt": "2026-11-03T02:08:25.278Z",
           "duplicateOf": "njstaking",
           "mergedInto": "eb058751d7a24ceec909"
+        },
+        "5ece4d41d5bac765c722": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read the CryptoSlate analysis of October US spot ETF flows. It is monthly flow data and interpretation of SoSoValue figures, with no launch, vote, ruling, filing, hack, raise or upgrade event.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/bnbs-99-million-etf-inflows-came-almost-entirely-before-binances-hack/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-03T02:21:00.500Z"
         }
       },
       "baselineSlugs": [
