@@ -93030,7 +93030,8 @@
       },
       "account": "profile",
       "attemptId": "22c231e1-d0b3-43e4-ba76-a4b474170f5a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x894e96bf524e4adc4cd68a547c5be3a378334514"
     }
   ]
 }
