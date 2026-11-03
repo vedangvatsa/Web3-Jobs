@@ -93606,7 +93606,8 @@
       },
       "account": "channel:growth",
       "attemptId": "b4ff9790-0fe7-4d3d-9640-b0a9937ace18",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x86011d86fbbbd8d5f9582faec2c16af9ce22446c"
     }
   ]
 }
