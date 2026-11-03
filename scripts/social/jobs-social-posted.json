@@ -93694,6 +93694,48 @@
       "verification": "verified",
       "postId": "6ae957305d60da1eff72dc05",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7523227144026488833"
+    },
+    {
+      "slug": "cmp94",
+      "company": "FalconX",
+      "title": "Compliance Onboarding Analyst",
+      "platform": "linkedin",
+      "postedAt": "2026-11-03T03:35:54.087Z",
+      "expectedText": "FalconX is hiring Compliance Onboarding Analyst: https://hashtagweb3.com/cmp94/li?og=7",
+      "snapshot": {
+        "id": "4740566005",
+        "title": "Compliance Onboarding Analyst",
+        "company": "FalconX",
+        "link": "https://job-boards.greenhouse.io/falconx/jobs/4740566005",
+        "date": "2026-10-08T15:26:06-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: FalconX [falconx]",
+        "location": "New York City, NY",
+        "department": "Compliance",
+        "active": true,
+        "salary": "$94k – $119k/yr",
+        "dateVerified": true,
+        "slug": "cmp94"
+      },
+      "payload": {
+        "text": "FalconX is hiring Compliance Onboarding Analyst: https://hashtagweb3.com/cmp94/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/cmp94/li?og=7",
+          "title": "Compliance Onboarding Analyst at FalconX",
+          "description": "Join FalconX as Compliance Onboarding Analyst. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/cmp94.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "19a840a9-55e1-4dc4-b2d3-9e9ec8ddb7c7",
+      "verification": "creating"
     }
   ]
 }
