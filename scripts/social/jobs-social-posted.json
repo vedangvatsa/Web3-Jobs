@@ -94495,7 +94495,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "d9c2be0e-e5ae-4f26-9415-6da59c2f4141",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae957daa86fdc4e317b5ab9"
     }
   ]
 }
