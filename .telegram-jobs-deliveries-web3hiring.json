@@ -13286,7 +13286,7 @@
     "sentAt": "2026-11-03T11:32:40.298Z"
   },
   "a4788cfe-0c03-4596-9d97-931a3592412e": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-03T11:32:42.304Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -13400,6 +13400,8 @@
       }
     ],
     "message": "- Plasma is hiring <a href=\"https://hashtagweb3.com/eng195?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Data Engineering Lead</a>\n- Chainalysis is hiring <a href=\"https://hashtagweb3.com/an27?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Intelligence Analyst - Russia &amp; Eurasia Regional Focus</a>\n- Flow Traders is hiring <a href=\"https://hashtagweb3.com/mgr194?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Property &amp; Facilities Manager (Part-Time)</a>\n- DRW is hiring <a href=\"https://hashtagweb3.com/tr75?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">UP - Analytics/Middle Office - Quant Developer</a>\n- Blockchain.com is hiring <a href=\"https://hashtagweb3.com/pm238?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Communications Lead</a>",
-    "slotKey": "2026-11-03:afternoon"
+    "slotKey": "2026-11-03:afternoon",
+    "messageId": 166,
+    "sentAt": "2026-11-03T11:32:44.855Z"
   }
 }
