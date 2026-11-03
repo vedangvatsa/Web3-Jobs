@@ -93498,7 +93498,8 @@
       },
       "account": "channel:ai",
       "attemptId": "42706b0a-1fc0-4e05-8f4c-0f2b1c06cdce",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x6d1ec6871303e40d0806cb08560f102c0a0bf3b9"
     }
   ]
 }
