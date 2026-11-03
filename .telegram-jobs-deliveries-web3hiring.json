@@ -13284,5 +13284,122 @@
     "slotKey": "2026-11-03:afternoon",
     "messageId": 16603,
     "sentAt": "2026-11-03T11:32:40.298Z"
+  },
+  "a4788cfe-0c03-4596-9d97-931a3592412e": {
+    "status": "reserved",
+    "reservedAt": "2026-11-03T11:32:42.304Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "4b6ba5e5-9d66-418f-86a3-84fa23342f76",
+          "title": "Data Engineering Lead",
+          "company": "Plasma",
+          "link": "https://jobs.ashbyhq.com/plasma/4b6ba5e5-9d66-418f-86a3-84fa23342f76",
+          "date": "2026-10-21T09:43:32.866+00:00",
+          "source": "Ashby: Plasma [plasma]",
+          "location": "London Office",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng195"
+        },
+        "key": "4b6ba5e5-9d66-418f-86a3-84fa23342f76",
+        "slug": "eng195",
+        "url": "https://hashtagweb3.com/eng195?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Plasma",
+        "title": "Data Engineering Lead"
+      },
+      {
+        "snapshot": {
+          "id": "c8d62394-dfb4-40ac-9cf7-7224f32fcf76",
+          "title": "Senior Intelligence Analyst - Russia & Eurasia Regional Focus",
+          "company": "Chainalysis",
+          "link": "https://jobs.ashbyhq.com/chainalysis-careers/c8d62394-dfb4-40ac-9cf7-7224f32fcf76",
+          "date": "2026-10-20T10:38:58.413+00:00",
+          "source": "Ashby: Chainalysis [chainalysis-careers]",
+          "location": "Remote - USA",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "R&D",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an27"
+        },
+        "key": "c8d62394-dfb4-40ac-9cf7-7224f32fcf76",
+        "slug": "an27",
+        "url": "https://hashtagweb3.com/an27?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Chainalysis",
+        "title": "Senior Intelligence Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "8302928",
+          "title": "Property & Facilities Manager (Part-Time)",
+          "company": "Flow Traders",
+          "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8302928",
+          "date": "2026-10-20T05:43:49-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Flow Traders [flowtraders]",
+          "location": "Amsterdam",
+          "department": "Operations and Middle Office",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr194"
+        },
+        "key": "8302928",
+        "slug": "mgr194",
+        "url": "https://hashtagweb3.com/mgr194?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Flow Traders",
+        "title": "Property & Facilities Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8303364",
+          "title": "UP - Analytics/Middle Office - Quant Developer",
+          "company": "DRW",
+          "link": "https://job-boards.greenhouse.io/drweng/jobs/8303364",
+          "date": "2026-10-23T09:32:15-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DRW [drweng]",
+          "location": "Chicago",
+          "department": "UP - Analytics - Middle Office",
+          "active": true,
+          "salary": "$150k – $200k/yr",
+          "dateVerified": true,
+          "slug": "tr75"
+        },
+        "key": "8303364",
+        "slug": "tr75",
+        "url": "https://hashtagweb3.com/tr75?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DRW",
+        "title": "Analytics/Middle Office - Quant Developer"
+      },
+      {
+        "snapshot": {
+          "id": "8258731",
+          "title": "Product Communications Lead",
+          "company": "Blockchain.com",
+          "link": "https://job-boards.greenhouse.io/blockchain/jobs/8258731",
+          "date": "2026-10-06T10:37:15-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Blockchain.com [blockchain]",
+          "location": "London",
+          "department": "Marketing & Communications",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm238"
+        },
+        "key": "8258731",
+        "slug": "pm238",
+        "url": "https://hashtagweb3.com/pm238?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Blockchain.com",
+        "title": "Product Communications Lead"
+      }
+    ],
+    "message": "- Plasma is hiring <a href=\"https://hashtagweb3.com/eng195?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Data Engineering Lead</a>\n- Chainalysis is hiring <a href=\"https://hashtagweb3.com/an27?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Intelligence Analyst - Russia &amp; Eurasia Regional Focus</a>\n- Flow Traders is hiring <a href=\"https://hashtagweb3.com/mgr194?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Property &amp; Facilities Manager (Part-Time)</a>\n- DRW is hiring <a href=\"https://hashtagweb3.com/tr75?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">UP - Analytics/Middle Office - Quant Developer</a>\n- Blockchain.com is hiring <a href=\"https://hashtagweb3.com/pm238?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Communications Lead</a>",
+    "slotKey": "2026-11-03:afternoon"
   }
 }
