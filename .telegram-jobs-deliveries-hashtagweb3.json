@@ -7154,5 +7154,118 @@
     "slotKey": "2026-11-03:morning",
     "messageId": 156052,
     "sentAt": "2026-11-03T03:37:09.057Z"
+  },
+  "f7baf10f-1e1c-4927-b011-12dbd8c9c282": {
+    "status": "reserved",
+    "reservedAt": "2026-11-03T11:34:13.301Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8336514",
+          "title": "Global Delta1 - Software Developer",
+          "company": "DRW",
+          "link": "https://job-boards.greenhouse.io/drweng/jobs/8336514",
+          "date": "2026-10-30T10:04:43-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DRW [drweng]",
+          "location": "London",
+          "department": "GD1 Embedded Technology",
+          "active": true,
+          "slug": "dev39",
+          "dateVerified": true
+        },
+        "key": "8336514",
+        "slug": "dev39",
+        "url": "https://hashtagweb3.com/dev39?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DRW",
+        "title": "Global Delta1"
+      },
+      {
+        "snapshot": {
+          "id": "5f478541-124e-4a56-b85c-72ea3567511b",
+          "title": "Project Manager",
+          "company": "CertiK",
+          "link": "https://jobs.lever.co/certik/5f478541-124e-4a56-b85c-72ea3567511b",
+          "date": "2026-10-30T17:29:49.269Z",
+          "source": "Lever: CertiK [certik]",
+          "location": "US / Remote",
+          "workplaceType": "remote",
+          "department": "Operations",
+          "active": true,
+          "slug": "mgr215",
+          "dateVerified": true
+        },
+        "key": "5f478541-124e-4a56-b85c-72ea3567511b",
+        "slug": "mgr215",
+        "url": "https://hashtagweb3.com/mgr215?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CertiK",
+        "title": "Project Manager"
+      },
+      {
+        "snapshot": {
+          "id": "d1a21120-3eb6-411f-ad6a-83ab51bac475",
+          "title": "Customer Success Agent - Ethena Pay",
+          "company": "Ethena Labs",
+          "link": "https://careers.ethena.fi/jobs/8639513-customer-success-agent-ethena-pay",
+          "date": "2026-10-29T19:35:46.000Z",
+          "source": "Teamtailor: Ethena Labs [ethena]",
+          "active": true,
+          "dateVerified": true,
+          "slug": "csap",
+          "location": "Not specified"
+        },
+        "key": "d1a21120-3eb6-411f-ad6a-83ab51bac475",
+        "slug": "csap",
+        "url": "https://hashtagweb3.com/csap?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ethena Labs",
+        "title": "Customer Success Agent"
+      },
+      {
+        "snapshot": {
+          "id": "5022514101",
+          "title": "Product Manager, Internal Tools",
+          "company": "StraitsX",
+          "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5022514101",
+          "date": "2026-10-30T08:25:13-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: StraitsX [straitsx]",
+          "location": "Singapore",
+          "department": "STX - Product",
+          "active": true,
+          "slug": "pm350",
+          "dateVerified": true
+        },
+        "key": "5022514101",
+        "slug": "pm350",
+        "url": "https://hashtagweb3.com/pm350?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "StraitsX",
+        "title": "Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "393db694-2537-4343-b2bb-03cd369f3d94",
+          "title": "Member of Technical Staff - IT & Security Eng.",
+          "company": "Prime Intellect",
+          "link": "https://jobs.ashbyhq.com/primeintellect/393db694-2537-4343-b2bb-03cd369f3d94",
+          "date": "2026-10-29T12:30:24.937+00:00",
+          "source": "Ashby: Prime Intellect [primeintellect]",
+          "location": "San Francisco",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec72"
+        },
+        "key": "393db694-2537-4343-b2bb-03cd369f3d94",
+        "slug": "sec72",
+        "url": "https://hashtagweb3.com/sec72?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Prime Intellect",
+        "title": "Member of Technical Staff"
+      }
+    ],
+    "message": "- DRW is hiring <a href=\"https://hashtagweb3.com/dev39?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Global Delta1 - Software Developer</a>\n- CertiK is hiring <a href=\"https://hashtagweb3.com/mgr215?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Project Manager</a>\n- Ethena Labs is hiring <a href=\"https://hashtagweb3.com/csap?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Success Agent - Ethena Pay</a>\n- StraitsX is hiring <a href=\"https://hashtagweb3.com/pm350?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager, Internal Tools</a>\n- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/sec72?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Member of Technical Staff - IT &amp; Security Eng.</a>",
+    "slotKey": "2026-11-03:afternoon"
   }
 }
