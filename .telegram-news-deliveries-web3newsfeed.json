@@ -3047,7 +3047,7 @@
     "sentAt": "2026-11-02T19:38:48.717Z"
   },
   "f302f869-8258-4d38-bb2f-cc5b70451798": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-03T03:39:45.414Z",
     "stories": [
       {
@@ -3075,6 +3075,8 @@
         "originalTitle": "Prysm Ships 200M Gas Limit Fix Hours Before Sepolia Test"
       }
     ],
-    "slotKey": "2026-11-03:morning"
+    "slotKey": "2026-11-03:morning",
+    "messageId": 65800,
+    "sentAt": "2026-11-03T03:39:59.673Z"
   }
 }

@@ -908,6 +908,9 @@
   "https://hashtagweb3.com/imf-salvador?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/garantex-sanctions?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331",
+  "https://hashtagweb3.com/ramptrust?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/stablecoinpay?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/prysm-fix?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2623,6 +2626,12 @@
   "Japan adds Garantex crypto exchange to Russia sanctions",
   "StoneX maintains buy rating for Securitize after DTCC launch",
   "DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says",
+  "Ramp Seeks Federal Charter for Digital Asset Custody",
+  "Ramp applies to the OCC for a national trust bank and digital asset custody",
+  "Stablecoin payment volume grew 45 percent to 482 billion",
+  "Stablecoin payments jump 45% to $482B while supply barely moves",
+  "Prysm Updates Gas Limit Ahead of Sepolia Test",
+  "Prysm Ships 200M Gas Limit Fix Hours Before Sepolia Test",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -3060,5 +3069,8 @@
   "fp:address|assign|builder|clos|design|developer|futur|gap|intent|limit",
   "fp:138m|accumulation|clear|country|despit|disburs|dollar|fail|fund|imf",
   "fp:2026|add|effectiv|exchang|garantex|government|japan|japanes|list|october2",
-  "fp:accelerat|adoption|analyst|believ|boost|business|buy|dtcc|maintain|rat"
+  "fp:accelerat|adoption|analyst|believ|boost|business|buy|dtcc|maintain|rat",
+  "fp:accept|apply|asset|bank|charter|custody|deposit|digital|federal|fiduciary",
+  "fp:482b|barely|chang|despit|drov|grew45|growth|increas|jump45|major",
+  "fp:200m|activation|ahead|fix|hour|limit|network|october6|prysm|sepolia"
 ]
