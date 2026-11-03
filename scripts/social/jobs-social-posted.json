@@ -95648,6 +95648,36 @@
       "attemptId": "b611a3f1-b16d-45c1-bbb5-4971cd410908",
       "verification": "verified",
       "postId": "691827047618629_1134150305858870"
+    },
+    {
+      "slug": "bces4",
+      "company": "Perle",
+      "title": "Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Malaysia, Singapore)",
+      "platform": "x",
+      "postedAt": "2026-11-03T11:37:27.044Z",
+      "expectedText": "Perle is hiring Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Malaysia, Singapore)\n\nhttps://hashtagweb3.com/bces4/x?og=7",
+      "snapshot": {
+        "id": "95944476",
+        "title": "Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Malaysia, Singapore)",
+        "company": "Perle",
+        "link": "https://ats.rippling.com/perle/jobs/bab2db1c-ec92-4bfc-a6ea-c2b5d6d0760e",
+        "date": "2026-10-06T11:52:23.000Z",
+        "dateVerified": true,
+        "dateSource": "Solana.JobPosting.postedAt",
+        "source": "Solana Ecosystem: Perle [getro-solana]",
+        "location": "Remote / Singapore",
+        "department": "AI",
+        "active": true,
+        "slug": "bces4"
+      },
+      "payload": {
+        "text": "Perle is hiring Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Malaysia, Singapore)\n\nhttps://hashtagweb3.com/bces4/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "096a1040-b481-4ea8-b9b5-d119e93fda56",
+      "verification": "creating"
     }
   ]
 }
