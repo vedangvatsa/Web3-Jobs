@@ -94580,7 +94580,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "b7e3242c-6044-4482-ac8d-5eb755758d31",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7523228013417705472"
     }
   ]
 }
