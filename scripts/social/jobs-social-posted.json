@@ -95709,6 +95709,38 @@
       "attemptId": "9fea36a0-9109-4a1b-914f-902eb2b49193",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Tuesday, 03-Nov-26 03:37:38 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A-quWvpD4BjmkdkzMN75dgg\"}"
+    },
+    {
+      "slug": "bces4",
+      "company": "Perle",
+      "title": "Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Malaysia, Singapore)",
+      "platform": "bluesky",
+      "postedAt": "2026-11-03T11:37:27.044Z",
+      "expectedText": "Perle is hiring Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Malaysia, Singapore): https://hashtagweb3.com/bces4/bsky?og=7",
+      "snapshot": {
+        "id": "95944476",
+        "title": "Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Malaysia, Singapore)",
+        "company": "Perle",
+        "link": "https://ats.rippling.com/perle/jobs/bab2db1c-ec92-4bfc-a6ea-c2b5d6d0760e",
+        "date": "2026-10-06T11:52:23.000Z",
+        "dateVerified": true,
+        "dateSource": "Solana.JobPosting.postedAt",
+        "source": "Solana Ecosystem: Perle [getro-solana]",
+        "location": "Remote / Singapore",
+        "department": "AI",
+        "active": true,
+        "slug": "bces4"
+      },
+      "payload": {
+        "text": "Perle is hiring Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Malaysia, Singapore): https://hashtagweb3.com/bces4/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/bces4/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/bces4.png?v=7",
+        "company": "Perle",
+        "title": "Bilingual Chinese - English Speakers: Audio Recording Freelance Opportunity (Malaysia, Singapore)",
+        "description": "Join Perle as Bilingual Chinese - English Speake. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "1893ce3f-b629-4f87-b0ae-73cef3652dc9",
+      "verification": "creating"
     }
   ]
 }
