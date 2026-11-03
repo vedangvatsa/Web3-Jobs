@@ -2945,5 +2945,36 @@
     "slotKey": "2026-11-03:morning",
     "messageId": 156053,
     "sentAt": "2026-11-03T03:39:38.954Z"
+  },
+  "c69754d6-29ea-4e12-bb71-a53bc332dc17": {
+    "status": "reserved",
+    "reservedAt": "2026-11-03T11:34:33.870Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "CFTC and DOJ sue Utah over prediction market enforcement",
+        "summary": "Federal regulators aim to stop Utah from applying state gambling laws to registered prediction markets.",
+        "link": "https://hashtagweb3.com/cftcutah?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC sues Utah to block enforcement against Kalshi prediction markets"
+      },
+      {
+        "index": -1,
+        "headline": "NBA partners with CFTC and names preferred prediction markets",
+        "summary": "The league established an integrity memorandum with regulators while the NFL declined to enter similar prediction market agreements.",
+        "link": "https://hashtagweb3.com/nba?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "NBA signs CFTC integrity pact and names Kalshi, Polymarket preferred exchanges"
+      },
+      {
+        "index": -1,
+        "headline": "Judge rejects bid to void Gemini's $5 million settlement",
+        "summary": "The court maintained the penalty and conduct order after both parties asked to vacate the previous agreement.",
+        "link": "https://hashtagweb3.com/geminiorder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Judge rejects Gemini and CFTC bid to void $5 million settlement"
+      }
+    ],
+    "slotKey": "2026-11-03:afternoon"
   }
 }
