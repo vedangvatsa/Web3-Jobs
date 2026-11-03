@@ -124787,7 +124787,27 @@
       "firstSeenAt": "2026-11-03T01:43:52.711Z",
       "attempts": 0,
       "expiresAt": "2026-11-05T13:21:47.000Z",
-      "lastSeenAt": "2026-11-03T01:43:52.711Z"
+      "lastSeenAt": "2026-11-03T01:43:52.711Z",
+      "articleSlug": "safubtc",
+      "draftProgress": {
+        "id": "a34bdce8f57402044165",
+        "day": "2026-11-03",
+        "articleSlug": "safubtc",
+        "note": "Read Cointelegraph and Coin Courier on the 7,499 BTC SAFU drawdown. Image and draft still needed; Binance official announcement link noted.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear",
+            "outcome": "read"
+          },
+          {
+            "url": "https://coincourier.io/binance-deploys-7499-btc-safu-hack-recovery/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-03T02:24:42.244Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "e211d030e308f802ae25": {
       "source": "Cointelegraph",
