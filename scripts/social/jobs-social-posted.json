@@ -95677,8 +95677,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "096a1040-b481-4ea8-b9b5-d119e93fda56",
-      "verification": "pending",
-      "postId": "6ae9c77a3b7ecdee655c1a17"
+      "verification": "verified",
+      "postId": "6ae9c77a3b7ecdee655c1a17",
+      "permalink": "https://twitter.com/hashtag_web3/status/2117581933697761402"
     }
   ]
 }
