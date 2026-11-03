@@ -92963,6 +92963,39 @@
       "attemptId": "92514a69-c17e-4662-a4b4-c2028074045f",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Monday, 02-Nov-26 19:36:05 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Atfsn6skSIArjPKc__qc5kC\"}"
+    },
+    {
+      "slug": "cmp94",
+      "company": "FalconX",
+      "title": "Compliance Onboarding Analyst",
+      "platform": "bluesky",
+      "postedAt": "2026-11-03T03:35:54.087Z",
+      "expectedText": "FalconX is hiring Compliance Onboarding Analyst: https://hashtagweb3.com/cmp94/bsky?og=7",
+      "snapshot": {
+        "id": "4740566005",
+        "title": "Compliance Onboarding Analyst",
+        "company": "FalconX",
+        "link": "https://job-boards.greenhouse.io/falconx/jobs/4740566005",
+        "date": "2026-10-08T15:26:06-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: FalconX [falconx]",
+        "location": "New York City, NY",
+        "department": "Compliance",
+        "active": true,
+        "salary": "$94k – $119k/yr",
+        "dateVerified": true,
+        "slug": "cmp94"
+      },
+      "payload": {
+        "text": "FalconX is hiring Compliance Onboarding Analyst: https://hashtagweb3.com/cmp94/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/cmp94/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/cmp94.png?v=7",
+        "company": "FalconX",
+        "title": "Compliance Onboarding Analyst",
+        "description": "Join FalconX as Compliance Onboarding Analyst. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "772e6238-1e15-437e-9df5-be940ee527c9",
+      "verification": "creating"
     }
   ]
 }
