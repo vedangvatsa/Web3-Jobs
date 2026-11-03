@@ -95557,8 +95557,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "e19c8f6e-6753-4821-acdc-958fdd7de6aa",
-      "verification": "pending",
-      "postId": "6ae9c74335443b847afe5eae"
+      "verification": "verified",
+      "postId": "6ae9c74335443b847afe5eae",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7523347483528175616"
     }
   ]
 }
