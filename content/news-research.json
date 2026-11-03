@@ -120036,11 +120036,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "c12d13c2ff1b1e4b4e28",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-01T03:32:04.135Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-03T21:43:30.000Z",
-      "lastSeenAt": "2026-11-01T03:32:04.135Z"
+      "lastSeenAt": "2026-11-01T03:32:04.135Z",
+      "reason": "duplicate",
+      "note": "Read the Crypto Briefing write-up. It covers the same Oct. 31 FBI alert naming North Korea's TraderTraitor in the  billion Binance theft, already reported in content/articles/fbireopen.md. No new development beyond that coverage.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/fbi-links-6b-binance-hack-to-north-koreas-tradertraitor-group/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-03T02:21:19.911Z",
+      "duplicateOf": "fbireopen",
+      "mergedInto": "f4109208240fecb8e60c",
+      "lastReviewedDay": "2026-11-03"
     },
     "c9d3c6b9331537a5ef2a": {
       "source": "Crypto Briefing",
@@ -229910,6 +229922,20 @@
             }
           ],
           "reviewedAt": "2026-11-03T02:21:00.500Z"
+        },
+        "c12d13c2ff1b1e4b4e28": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Read the Crypto Briefing write-up. It covers the same Oct. 31 FBI alert naming North Korea's TraderTraitor in the  billion Binance theft, already reported in content/articles/fbireopen.md. No new development beyond that coverage.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/fbi-links-6b-binance-hack-to-north-koreas-tradertraitor-group/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-03T02:21:19.911Z",
+          "duplicateOf": "fbireopen",
+          "mergedInto": "f4109208240fecb8e60c"
         }
       },
       "baselineSlugs": [
