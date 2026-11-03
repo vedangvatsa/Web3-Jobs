@@ -124591,9 +124591,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "af2b60f4b8fd8c6a5490",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-03T01:43:52.711Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-05T23:05:00.000Z",
       "lastSeenAt": "2026-11-03T01:43:52.711Z",
       "articleSlug": "kimjong",
@@ -124619,7 +124619,25 @@
         "updatedAt": "2026-11-03T02:24:47.475Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Rechecked the restored draft against all three sources: Unchained (Nov 2 filing), SBS (Nov 3 English report) and Cointelegraph (Nov 2), each confirming the KCNA statement, the .3B FBI attribution, the reserve-order argument and the quotes. Word count 640, hero image on disk with credit, quality/images/formatting/duplicates audits clean, all links HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/kim-yo-jong-ties-fbis-binance-hack-blame-to-trumps-crypto-reserve/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008827368",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-03T02:48:15.745Z",
+      "lastReviewedDay": "2026-11-03"
     },
     "5ece4d41d5bac765c722": {
       "source": "CryptoSlate",
@@ -230024,6 +230042,27 @@
             }
           ],
           "reviewedAt": "2026-11-03T02:21:57.017Z"
+        },
+        "af2b60f4b8fd8c6a5490": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Rechecked the restored draft against all three sources: Unchained (Nov 2 filing), SBS (Nov 3 English report) and Cointelegraph (Nov 2), each confirming the KCNA statement, the .3B FBI attribution, the reserve-order argument and the quotes. Word count 640, hero image on disk with credit, quality/images/formatting/duplicates audits clean, all links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/kim-yo-jong-ties-fbis-binance-hack-blame-to-trumps-crypto-reserve/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008827368",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-03T02:48:15.745Z",
+          "articleSlug": "kimjong"
         }
       },
       "baselineSlugs": [
