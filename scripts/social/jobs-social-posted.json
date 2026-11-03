@@ -95608,7 +95608,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "3c807bca-9a8d-4e26-9940-d705b6d31f3c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7523347516528959488"
     }
   ]
 }
