@@ -94174,7 +94174,8 @@
       },
       "account": "channel:founders",
       "attemptId": "7338af84-e902-499f-8445-b4cbc6b5e677",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x57b1f621701d4bb66c8f2605bd4d37cd0fdf5760"
     }
   ]
 }
