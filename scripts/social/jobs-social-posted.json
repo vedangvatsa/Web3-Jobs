@@ -93691,8 +93691,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "a941f6ec-ff95-41de-a331-950abea5a2d4",
-      "verification": "pending",
-      "postId": "6ae957305d60da1eff72dc05"
+      "verification": "verified",
+      "postId": "6ae957305d60da1eff72dc05",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7523227144026488833"
     }
   ]
 }
