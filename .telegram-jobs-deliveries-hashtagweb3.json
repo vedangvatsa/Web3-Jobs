@@ -7038,7 +7038,7 @@
     "sentAt": "2026-11-02T19:33:38.599Z"
   },
   "eaf14500-103b-4909-8d83-730114cc06e2": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-03T03:36:56.487Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -7151,6 +7151,8 @@
       }
     ],
     "message": "- Talos is hiring <a href=\"https://hashtagweb3.com/tok?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Tokenization</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/mgr71?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Country Manager</a>\n- StraitsX is hiring <a href=\"https://hashtagweb3.com/mgr26?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Strategic Finance Senior Manager</a>\n- FalconX is hiring <a href=\"https://hashtagweb3.com/det?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, Electronic Trading</a>\n- Alchemy is hiring <a href=\"https://hashtagweb3.com/sls356?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Accounts Payable Accountant (Remote)</a>",
-    "slotKey": "2026-11-03:morning"
+    "slotKey": "2026-11-03:morning",
+    "messageId": 156052,
+    "sentAt": "2026-11-03T03:37:09.057Z"
   }
 }
