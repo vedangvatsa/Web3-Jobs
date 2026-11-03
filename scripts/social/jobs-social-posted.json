@@ -93392,6 +93392,41 @@
       "attemptId": "59c22f47-a8ff-48e9-9bbd-2b0676d9f3cb",
       "verification": "verified",
       "postId": "0x7d8956e9b9f79172208ef417f33a6f9bef9c029e"
+    },
+    {
+      "slug": "cmp94",
+      "company": "FalconX",
+      "title": "Compliance Onboarding Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-11-03T03:35:54.087Z",
+      "expectedText": "FalconX is hiring Compliance Onboarding Analyst\n\nhttps://hashtagweb3.com/cmp94/fc?og=7",
+      "snapshot": {
+        "id": "4740566005",
+        "title": "Compliance Onboarding Analyst",
+        "company": "FalconX",
+        "link": "https://job-boards.greenhouse.io/falconx/jobs/4740566005",
+        "date": "2026-10-08T15:26:06-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: FalconX [falconx]",
+        "location": "New York City, NY",
+        "department": "Compliance",
+        "active": true,
+        "salary": "$94k – $119k/yr",
+        "dateVerified": true,
+        "slug": "cmp94"
+      },
+      "payload": {
+        "text": "FalconX is hiring Compliance Onboarding Analyst\n\nhttps://hashtagweb3.com/cmp94/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/cmp94/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "9b5b8063-5509-4f31-af9d-21e447c684b2",
+      "verification": "creating"
     }
   ]
 }
