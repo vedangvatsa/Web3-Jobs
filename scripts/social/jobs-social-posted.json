@@ -95157,7 +95157,8 @@
       },
       "account": "channel:base",
       "attemptId": "bdd24aee-5fbe-4d5e-881e-6a37faf68af5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4887887e2a85a4bd5abca2af772aa6cea3d9bb74"
     }
   ]
 }
