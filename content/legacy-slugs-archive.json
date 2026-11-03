@@ -152469,5 +152469,59 @@
     "link": "https://careers.ethena.fi/jobs/8495362-customer-success-manager-ethena-pay",
     "company": "Ethena Labs",
     "title": "Customer Success Manager - Ethena Pay"
+  },
+  "sss": {
+    "id": "8337061",
+    "link": "https://www.coinbase.com/careers/positions/8337061?gh_jid=8337061",
+    "company": "Coinbase",
+    "title": "Social Support Specialist I"
+  },
+  "cssl4": {
+    "id": "8337048",
+    "link": "https://www.coinbase.com/careers/positions/8337048?gh_jid=8337048",
+    "company": "Coinbase",
+    "title": "Customer Support Specialist ll"
+  },
+  "dev41": {
+    "id": "5461961008",
+    "link": "http://block.xyz/careers/jobs/5461961008?gh_jid=5461961008",
+    "company": "Block",
+    "title": "Senior Software Engineer, Developer Experience"
+  },
+  "sls325": {
+    "id": "6b32c57b-0476-41ad-8ef2-66887704cacd",
+    "link": "https://talent.superteam.fun/jobs/head-of-business-development-at-very-ai-6b32c57b-0476-41ad-8ef2-66887704cacd",
+    "company": "Very AI",
+    "title": "Head of Business Development"
+  },
+  "ops120": {
+    "id": "6230565004",
+    "link": "https://www.alphalab.capital/career/6230565004?gh_jid=6230565004",
+    "company": "Caladan",
+    "title": "Trade Operations Specialist"
+  },
+  "eng583": {
+    "id": "dcf76078-582a-4c72-a6bb-5fe33999ff06",
+    "link": "https://talent.superteam.fun/jobs/senior-solana-engineer-at-staking-facilities-dcf76078-582a-4c72-a6bb-5fe33999ff06",
+    "company": "Staking Facilities",
+    "title": "Senior Solana Engineer"
+  },
+  "pm285": {
+    "id": "d57f99df-77b9-4ea7-988f-625ead238068",
+    "link": "https://talent.superteam.fun/jobs/product-engineer-consumer-mobile-at-gacha-d57f99df-77b9-4ea7-988f-625ead238068",
+    "company": "Gacha",
+    "title": "Product Engineer — Consumer Mobile"
+  },
+  "con2": {
+    "id": "955eca58-f234-4fc9-ae95-8cde7377bbe5",
+    "link": "https://talent.superteam.fun/jobs/content-lead-at-superteam-talent-955eca58-f234-4fc9-ae95-8cde7377bbe5",
+    "company": "Superteam Talent",
+    "title": "Content Lead"
+  },
+  "eng393": {
+    "id": "06da5896-7bff-4e79-b4cd-5c3f2dc5c24a",
+    "link": "https://talent.superteam.fun/jobs/data-engineer-at-gacha-06da5896-7bff-4e79-b4cd-5c3f2dc5c24a",
+    "company": "Gacha",
+    "title": "Data Engineer"
   }
 }

@@ -37514,5 +37514,14 @@
   "https://hrmos.co/pages/bitbank/jobs/0000325": {
     "date": "2026-11-02T08:54:50.000Z",
     "dateVerified": true
+  },
+  "greenhouse:8083051": {
+    "date": "2026-07-24T20:12:22-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "https://circle.wd1.myworkdayjobs.com/Circle/job/Singapore---remote-first-in-Singapore/Principal-Program-Manager--Commercial_JR101199": {
+    "date": "2026-11-03",
+    "dateVerified": true
   }
 }
