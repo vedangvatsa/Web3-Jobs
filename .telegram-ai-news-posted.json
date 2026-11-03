@@ -864,6 +864,9 @@
   "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
   "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
   "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+  "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+  "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+  "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2374,6 +2377,12 @@
   "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
   "xAI restricts Grok usage limits citing high operational costs",
   "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+  "Researchers propose reverse game theory for AI alignment",
+  "How “reverse game theory” could keep AI agents in check",
+  "Apple develops home robotics hardware for 2027 release",
+  "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+  "Apple explores revenue options for third-party AI apps",
+  "Apple may try to increase revenue by doing…something with third-party AI apps",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2755,5 +2764,8 @@
   "fp:16m|acquir|acquisition|add|aquatic|center|combin|consumption|cool|data",
   "fp:300m|45m|accessibl|allow|expand|expert|mak|nontechnical|rais|reach",
   "fp:accelerat|aka|anthropic|are|autonomously|build|capability|clos|concern|growth",
-  "fp:access|activ|bot|cit|comput|conversational|cost|due|elon|expens"
+  "fp:access|activ|bot|cit|comput|conversational|cost|due|elon|expens",
+  "fp:agent|aim|alignment|check|choic|complianc|follow|framework|gam|how",
+  "fp:000|appl|approximately|automation|com|communication|cost|design|develop|devic",
+  "fp:app|appl|call|discuss|dur|earn|executiv|explor|external|increas"
 ]

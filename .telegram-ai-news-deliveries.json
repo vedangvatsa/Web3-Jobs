@@ -2988,7 +2988,7 @@
     "sentAt": "2026-11-03T03:35:40.631Z"
   },
   "0552939f-5085-4eeb-90f0-a5bbb0cd407b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-03T11:35:30.369Z",
     "stories": [
       {
@@ -3020,6 +3020,8 @@
         "originalTitle": "Apple may try to increase revenue by doing…something with third-party AI apps"
       }
     ],
-    "slotKey": "2026-11-03:afternoon"
+    "slotKey": "2026-11-03:afternoon",
+    "messageId": 193447,
+    "sentAt": "2026-11-03T11:35:37.680Z"
   }
 }
