@@ -95243,7 +95243,8 @@
       },
       "account": "channel:solana",
       "attemptId": "dddc76ae-3d0f-4736-8db0-c77903de6fd5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4bcd42b6d21d858603ec4407f5b64aab65db257f"
     }
   ]
 }
