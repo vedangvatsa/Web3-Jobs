@@ -95809,7 +95809,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "420b1713-cdde-4929-a228-c67deb087be1",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9eab237236d22c046944ecd5eae6b9e9611792e0"
     }
   ]
 }
