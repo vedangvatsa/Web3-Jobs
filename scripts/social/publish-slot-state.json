@@ -624,10 +624,12 @@
           "kimjong",
           "njstaking"
         ],
-        "phase": "building",
+        "phase": "build-failed",
         "startedAt": "2026-11-03T11:36:07.567Z",
         "buildId": "daily-20261103-41628015120-1",
-        "rolloutId": "daily-20261103-41628015120-1"
+        "rolloutId": "daily-20261103-41628015120-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-03T11:53:22.747Z"
       }
     ]
   }
