@@ -98144,7 +98144,8 @@
       },
       "account": "channel:product",
       "attemptId": "4bbfeb9d-a740-4e76-865e-4075a04ddaeb",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf1c0c80cfbdb365e7d21fd8037cde4335dc8e034"
     }
   ]
 }
