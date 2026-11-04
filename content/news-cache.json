@@ -1,16 +1,96 @@
 {
-  "generatedAt": "2026-11-04T07:26:22.752Z",
+  "generatedAt": "2026-11-04T11:29:31.305Z",
   "items": [
     {
-      "title": "US midterm election 2026 live: Democrats sweep Congress, flipping House and Senate",
-      "link": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 04 Nov 2026 06:40:13 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for...",
+      "title": "ZachXBT Names French Bank Crédit Mutuel Arkéa as Alleged Victim of $133M Crypto Theft",
+      "link": "https://decrypt.co/382486/zachxbt-names-french-bank-credit-mutuel-arkea-as-alleged-victim-of-133m-crypto-theft",
+      "pubDate": "Wed, 04 Nov 2026 11:20:31 +0000",
+      "creator": "Agent",
+      "contentSnippet": "The onchain investigator says the theft is being \"covered up,\" and that a lack of disclosure let more than $30 million be laundered.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
+      "link": "https://cointelegraph.com/markets/crypto-market-recovery-grayscale-binance-hack-temporary-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 04 Nov 2026 11:11:57 +0000",
+      "creator": "Zoltan Vardai",
+      "contentSnippet": "Zach Pandl highlighted institutional custody safeguards as crypto markets recovered some losses following the record $6.3 billion Binance hack.",
       "source": "Cointelegraph"
     },
     {
-      "title": "Bitcoin knocks on $78,000 in V-shaped comeback as midterm election uncertainty fades",
+      "title": "DeFi Explained",
+      "link": "https://www.theblock.co/learn/defi/defi-explained-432391",
+      "pubDate": "Wed, 04 Nov 2026 11:05:30 +0000",
+      "creator": "Research",
+      "contentSnippet": "DeFi 201 explains decentralized finance as a connected protocol system. It follows how DEXs and AMMs, liquidity pools, lending markets, yield aggregat...",
+      "source": "The Block"
+    },
+    {
+      "title": "Judge Orders Bitcoin Wallet Returned to Family of Convicted Canadian Killer",
+      "link": "https://decrypt.co/382484/judge-orders-bitcoin-wallet-returned-to-family-of-convicted-canadian-killer",
+      "pubDate": "Wed, 04 Nov 2026 10:35:01 +0000",
+      "creator": "Agent",
+      "contentSnippet": "A Nova Scotia judge found prosecutors failed to link William Sandeson's Bitcoin to the 2015 murder of fellow student Taylor Samson.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Justin Sun seeks $264K sanctions over World Liberty’s UAE disclosure",
+      "link": "https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 04 Nov 2026 10:30:42 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "Sun plans to refile his token-freeze lawsuit in California state court after the sanctions motion is resolved. A hearing is set for Dec. 10.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 04 Nov 2026 09:38:07 +0000",
+      "creator": "Helen Partz",
+      "contentSnippet": "Bitwise’s André Dragosch attributed Bitcoin ETF outflows to weaker market sentiment, saying institutions have largely maintained their exposure.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "US midterm elections 2026 as it happened: Democrats win control of Congress",
+      "link": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 04 Nov 2026 09:27:34 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "Democrats won control of Congress in the 2026 US midterms. Catch up on key races, crypto-backed candidates and the outlook for crypto regulation.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Binance hackers move 81% of stolen Solana, route funds via THORChain ",
+      "link": "https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 04 Nov 2026 09:15:55 +0000",
+      "creator": "Zoltan Vardai",
+      "contentSnippet": "The Binance attackers moved most of the stolen SOL and continued laundering funds through THORChain after the protocol resumed swaps.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "$2,850,000,000 in Crypto Involved in Binance Hack Frozen or Intercepted, Says CEO Richard Teng",
+      "link": "https://dailyhodl.com/2026/11/04/2850000000-in-crypto-involved-in-binance-hack-frozen-or-intercepted-says-ceo-richard-teng/",
+      "pubDate": "Wed, 04 Nov 2026 08:04:35 +0000",
+      "creator": "Henry Kanapi",
+      "contentSnippet": "The co-CEO of the largest crypto exchange in the world says billions of dollars in crypto are now safeguarded by authorities and private firms followi...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards",
+      "link": "https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards",
+      "pubDate": "Wed, 04 Nov 2026 08:04:04 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "The committee withdrew its proposal after community backlash, leaving competing plans to cut off its funding or preserve the existing grants system.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
+      "link": "https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 04 Nov 2026 07:25:47 +0000",
+      "creator": "William Suberg",
+      "contentSnippet": "Bitcoin price downside reached a seven-week-low of $75,618 as 24-hour crypto long liquidations neared $300 million.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin surges to $78,300 in V-shaped comeback as midterm election uncertainty fades",
       "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
       "pubDate": "Wed, 04 Nov 2026 06:16:40 +0000",
       "creator": "Omkar Godbole",
@@ -50,6 +130,14 @@
       "source": "Coindesk"
     },
     {
+      "title": "Democrats surge toward Senate, House majorities, with crypto braced for new direction",
+      "link": "https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction",
+      "pubDate": "Wed, 04 Nov 2026 04:55:11 +0000",
+      "creator": "Jesse Hamilton",
+      "contentSnippet": "The dominance of Republicans in all three government branches has been broken by the midterms, and the industry will feel the result as Congress chang...",
+      "source": "Coindesk"
+    },
+    {
       "title": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
       "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets",
       "pubDate": "Wed, 04 Nov 2026 04:48:16 +0000",
@@ -74,14 +162,6 @@
       "source": "The Block"
     },
     {
-      "title": "ZachXBT identifies French bank as alleged victim of $133M crypto theft",
-      "link": "https://cointelegraph.com/news/zachxbt-french-bank-credit-mutuel-arkea-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 04 Nov 2026 03:35:30 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "The French bank has not confirmed its alleged involvement in the crypto theft, which ZachXBT said could have resulted in losses exceeding $133 million...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "1inch lawyer sees agencies driving US crypto regulation as midterms unfold",
       "link": "https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Wed, 04 Nov 2026 00:45:16 +0000",
@@ -90,7 +170,7 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Live updates: Crypto's election gamble falters as Democratic victories usher in a 'blue wave'",
+      "title": "Live updates: Rep. Garcia vows to investigate Trump after 'blue wave' defeats crypto election gamble",
       "link": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
       "pubDate": "Wed, 04 Nov 2026 00:00:00 +0000",
       "creator": "Nikhilesh De",
@@ -202,14 +282,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
-      "link": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties",
-      "pubDate": "Tue, 03 Nov 2026 16:55:10 +0000",
-      "creator": "Helene Braun",
-      "contentSnippet": "The Tron founder says World Liberty failed to disclose its UAE ties until months into his lawsuit over $45 million in WLFI tokens.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen ",
       "link": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Tue, 03 Nov 2026 16:47:01 +0000",
@@ -282,14 +354,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Binance net outflows reach $5.3 billion after record hack. CEO says recovery underway",
-      "link": "https://www.coindesk.com/business/2026/11/03/binance-net-outflows-reach-usd5-3b-after-record-hack-though-ceo-cites-recovery",
-      "pubDate": "Tue, 03 Nov 2026 12:57:28 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "Nearly $11 billion left the exchange over 46 hours, although CEO Richard Teng said hourly deposits were beginning to exceed withdrawals.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Fundstrat’s Tom Lee Declares AI Stock Selloff Has Bottomed Amid Supply Tightness, Crypto Resilience",
       "link": "https://dailyhodl.com/2026/11/03/fundstrat-strategist-declares-ai-stock-selloff-has-bottomed-amid-supply-tightness-crypto-resilience/",
       "pubDate": "Tue, 03 Nov 2026 12:45:50 +0000",
@@ -322,14 +386,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "ETHGas wants to bring Wall Street to public Ethereum with institutional controls",
-      "link": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
-      "pubDate": "Tue, 03 Nov 2026 12:01:05 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "The proposed service would offer sanctions screening and qualified validators, but current compensation for failed commitments is set at zero.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Liquid Network restores full bitcoin backing following $320 million exploit",
       "link": "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387",
       "pubDate": "Tue, 03 Nov 2026 11:49:20 +0000",
@@ -344,14 +400,6 @@
       "creator": "Zoltan Vardai",
       "contentSnippet": "Binance led exchanges in 24-hour net inflows, reversing Monday’s heavy outflows as it restored access to funds after its $6.3 billion hack.",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
-      "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
-      "pubDate": "Tue, 03 Nov 2026 11:28:00 +0000",
-      "creator": "Oliver Knight",
-      "contentSnippet": "Bitcoin edged up 0.2% to around $76,900 since midnight UTC as spot ETFs lost $399 million for a second day and Binance customers pulled a net $4.72 bi...",
-      "source": "Coindesk"
     },
     {
       "title": "France postpones 2027 budget vote, crypto exit-tax proposals scrapped",
@@ -418,36 +466,12 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Binance begins second withdrawal phase, exchange outflows slow",
-      "link": "https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 03 Nov 2026 03:03:44 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "The exchange says additional assets will become available for withdrawal from 04:00 UTC on Tuesday as security checks are completed, following an init...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
-      "link": "https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 02 Nov 2026 22:22:30 +0000",
-      "creator": "Isabelle Castro",
-      "contentSnippet": "New Jersey lifted its staking ban and dropped a $5 million penalty, clearing the way for Coinbase to restore staking access for users in the US state.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy",
       "link": "https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy",
       "pubDate": "Mon, 02 Nov 2026 22:16:02 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Strive added 124 Bitcoin for about $10 million and now trails Twenty One Capital by 390 BTC for third place among Treasury companies.",
       "source": "Decrypt"
-    },
-    {
-      "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
-      "link": "https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 02 Nov 2026 21:54:41 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "The Swan Bitcoin founder warned that hackers are using large language models to exploit security flaws with just a few prompts.",
-      "source": "Cointelegraph"
     },
     {
       "title": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
@@ -474,19 +498,19 @@
       "source": "Daily Hodl"
     },
     {
-      "title": "Strive inches closer to becoming second-largest public bitcoin holder after latest $10 million buy",
-      "link": "https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312",
-      "pubDate": "Mon, 02 Nov 2026 15:01:36 +0000",
-      "creator": "James Hunt",
-      "contentSnippet": "Strive bought another 124 BTC, bringing it closer to becoming the second-largest public company holder of bitcoin after Strategy.",
-      "source": "The Block"
-    },
-    {
       "title": "How T7X Is Building the Infrastructure for a New Era of Capital Markets",
       "link": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
       "pubDate": "Mon, 02 Nov 2026 15:01:03 +0000",
       "creator": "Staff",
       "contentSnippet": "T7X records ownership directly on-chain instead of wrapping assets held elsewhere, keeping token and asset under one legal framework.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Morning Minute: Binance Hack Leads to Mass Outflows While FBI Opens Probe",
+      "link": "https://decrypt.co/382332/morning-minute-the-binance-hack-leads-to-mass-outflows-while-fbi-opens-probe",
+      "pubDate": "Mon, 02 Nov 2026 13:34:02 +0000",
+      "creator": "Tyler Warner",
+      "contentSnippet": "Uptober was far from it, with the Binance hack punctuating a red month. Will November be better? Or will the Binance hack hang over crypto?",
       "source": "Decrypt"
     },
     {
@@ -506,11 +530,11 @@
       "source": "Decrypt"
     },
     {
-      "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
-      "link": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
-      "pubDate": "Sat, 31 Oct 2026 15:01:02 +0000",
+      "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
+      "link": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
+      "pubDate": "Sun, 01 Nov 2026 16:01:02 +0000",
       "creator": "Staff",
-      "contentSnippet": "Attackers tied to North Korea drained roughly $6.4 billion from the world’s largest crypto exchange. Here’s what we know about how it happened, who’s ...",
+      "contentSnippet": "Bitcoin ETFs saw $643.2 million in outflows Friday, the first full trading session after the $6.4 billion Binance hack, ending October with roughly $5...",
       "source": "Decrypt"
     }
   ]
