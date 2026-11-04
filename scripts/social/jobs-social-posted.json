@@ -99102,6 +99102,46 @@
       "verification": "verified",
       "postId": "6aeb8b82f67f30658c55a1b4",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7523833079317266432"
+    },
+    {
+      "slug": "pm349",
+      "company": "StraitsX",
+      "title": "Product Manager, Internal Tools",
+      "platform": "linkedin",
+      "postedAt": "2026-11-04T19:42:53.955Z",
+      "expectedText": "StraitsX is hiring Product Manager, Internal Tools: https://hashtagweb3.com/pm349/li?og=7",
+      "snapshot": {
+        "id": "5017286101",
+        "title": "Product Manager, Internal Tools",
+        "company": "StraitsX",
+        "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5017286101",
+        "date": "2026-10-30T08:22:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: StraitsX [straitsx]",
+        "location": "Jakarta, Indonesia",
+        "department": "STX - Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm349"
+      },
+      "payload": {
+        "text": "StraitsX is hiring Product Manager, Internal Tools: https://hashtagweb3.com/pm349/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm349/li?og=7",
+          "title": "Product Manager, Internal Tools at StraitsX",
+          "description": "Join StraitsX as Product Manager, Internal Tools. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm349.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "0b5bf301-4fce-42cf-8481-d3fd1f425973",
+      "verification": "creating"
     }
   ]
 }
