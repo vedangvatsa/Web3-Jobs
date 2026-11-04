@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-04T07:26:19.881Z",
+  "checkedAt": "2026-11-04T07:43:28.322Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -11,8 +11,8 @@
   },
   "counts": {
     "existing": 233,
-    "excluded": 367,
-    "needs-review": 43
+    "excluded": 371,
+    "needs-review": 39
   },
   "importedTotal": 251,
   "added": [],
@@ -6655,8 +6655,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://luma.com/KASTSolidGold_Table",
@@ -6664,8 +6664,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://luma.com/h4wd3gwl",
@@ -6673,8 +6673,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://vaultsummit.xyz",
@@ -6691,8 +6691,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://luma.com/3b3624jr",
