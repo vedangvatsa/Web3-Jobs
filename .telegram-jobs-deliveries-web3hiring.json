@@ -13761,5 +13761,123 @@
     "slotKey": "2026-11-04:evening",
     "messageId": 16607,
     "sentAt": "2026-11-04T19:43:33.238Z"
+  },
+  "bbae78cb-6a63-446d-8202-b4805cb92c66": {
+    "status": "reserved",
+    "reservedAt": "2026-11-04T19:43:35.462Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "606205",
+          "title": "Product Manager (Onboarding/KYC)",
+          "company": "Kast",
+          "link": "https://careers.kast.xyz/en/postings/975e32c1-3ca9-4027-9a7d-db2d59323505",
+          "date": "2026-10-26T03:29:02+00:00",
+          "dateVerified": true,
+          "dateSource": "Pinpoint.JobPosting.datePosted",
+          "source": "Pinpoint: Kast [kast]",
+          "location": "London (Hybrid)",
+          "department": "Product",
+          "active": true,
+          "slug": "pm334"
+        },
+        "key": "606205",
+        "slug": "pm334",
+        "url": "https://hashtagweb3.com/pm334?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kast",
+        "title": "Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "fb3d814d-bcfc-4192-912b-4e02e21e8e22",
+          "title": "VIP Relationship Manager, LATAM",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/fb3d814d-bcfc-4192-912b-4e02e21e8e22",
+          "date": "2026-10-20T13:07:49.780+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (Brazil)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "VIP Relationship Management",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr196"
+        },
+        "key": "fb3d814d-bcfc-4192-912b-4e02e21e8e22",
+        "slug": "mgr196",
+        "url": "https://hashtagweb3.com/mgr196?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "VIP Relationship Manager"
+      },
+      {
+        "snapshot": {
+          "id": "d24a6d19-ae39-4625-85e5-f5a704e80883",
+          "title": "Product Operations & Strategy Associate",
+          "company": "Coinflow",
+          "link": "https://jobs.ashbyhq.com/coinflow/d24a6d19-ae39-4625-85e5-f5a704e80883",
+          "date": "2026-11-03T17:24:15.547+00:00",
+          "source": "Ashby: Coinflow [coinflow]",
+          "location": "Chicago",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Product",
+          "active": true,
+          "slug": "pm360",
+          "dateVerified": true
+        },
+        "key": "d24a6d19-ae39-4625-85e5-f5a704e80883",
+        "slug": "pm360",
+        "url": "https://hashtagweb3.com/pm360?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinflow",
+        "title": "Product Operations & Strategy Associate"
+      },
+      {
+        "snapshot": {
+          "id": "4bb9b3a5-4cf6-49d1-a309-6ea01b35a31c",
+          "title": "Senior Product Manager, Trading Connectivity",
+          "company": "Talos",
+          "link": "https://jobs.ashbyhq.com/Talos-Trading/4bb9b3a5-4cf6-49d1-a309-6ea01b35a31c",
+          "date": "2026-10-09T21:57:23.635+00:00",
+          "source": "Ashby: Talos [Talos-Trading]",
+          "location": "Hybrid (London, Cyprus)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm282"
+        },
+        "key": "4bb9b3a5-4cf6-49d1-a309-6ea01b35a31c",
+        "slug": "pm282",
+        "url": "https://hashtagweb3.com/pm282?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Talos",
+        "title": "Senior Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "12285dd7-2993-4da2-946f-ddd6f768e0bd",
+          "title": "Senior Compliance Associate, KYC",
+          "company": "Paxos",
+          "link": "https://jobs.ashbyhq.com/Paxos/12285dd7-2993-4da2-946f-ddd6f768e0bd",
+          "date": "2026-11-03T14:24:41.129+00:00",
+          "source": "Ashby: Paxos [Paxos]",
+          "location": "Remote - United States",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Risk & Compliance",
+          "active": true,
+          "slug": "cmp150",
+          "dateVerified": true
+        },
+        "key": "12285dd7-2993-4da2-946f-ddd6f768e0bd",
+        "slug": "cmp150",
+        "url": "https://hashtagweb3.com/cmp150?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Paxos",
+        "title": "Senior Compliance Associate"
+      }
+    ],
+    "message": "- Kast is hiring <a href=\"https://hashtagweb3.com/pm334?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager (Onboarding/KYC)</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/mgr196?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VIP Relationship Manager, LATAM</a>\n- Coinflow is hiring <a href=\"https://hashtagweb3.com/pm360?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Operations &amp; Strategy Associate</a>\n- Talos is hiring <a href=\"https://hashtagweb3.com/pm282?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager, Trading Connectivity</a>\n- Paxos is hiring <a href=\"https://hashtagweb3.com/cmp150?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Compliance Associate, KYC</a>",
+    "slotKey": "2026-11-04:evening"
   }
 }
