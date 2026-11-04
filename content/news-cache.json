@@ -1,6 +1,94 @@
 {
-  "generatedAt": "2026-11-03T18:36:31.728Z",
+  "generatedAt": "2026-11-04T00:03:53.623Z",
   "items": [
+    {
+      "title": "What voters said about their views on crypto",
+      "link": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
+      "pubDate": "Tue, 03 Nov 2026 23:19:44 +0000",
+      "creator": "Nikhilesh De",
+      "contentSnippet": "A CoinDesk-commissioned poll from April sheds light on how voters — who aren't necessarily part of the crypto sector — view this industry.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "US midterms election 2026 live: What they mean for crypto",
+      "link": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 03 Nov 2026 23:01:32 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "What happens if North Korea steals Wall Street's tokenized assets next",
+      "link": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next",
+      "pubDate": "Tue, 03 Nov 2026 23:00:07 +0000",
+      "creator": "Krisztian Sandor",
+      "contentSnippet": "The $6.3 billion Binance hack showed how quickly cryptocurrencies can disappear on blockchain rails. Tokenized securities may offer better recourse th...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
+      "link": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
+      "pubDate": "Tue, 03 Nov 2026 22:46:02 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Paolo Ardoino told the Plan ₿ Forum in Lugano the company owns “give or take 150,000 Bitcoin,” but its Q3 reserve report implies just 100,060.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
+      "link": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
+      "pubDate": "Tue, 03 Nov 2026 22:14:44 +0000",
+      "creator": "Jesse Hamilton",
+      "contentSnippet": "A group backed by Citadel Securities and other firms sued the U.S. derivatives regulator for opening a path for perps that it argued belong in the SEC...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "SEC division views Canton Coin as digital commodity in no-action letter",
+      "link": "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492",
+      "pubDate": "Tue, 03 Nov 2026 22:11:51 +0000",
+      "creator": "Jason Shubnell",
+      "contentSnippet": "SEC's Division of Corporation Finance won't recommend enforcement over Canton Coin's programmatic issuance, calling CC a digital commodity.",
+      "source": "The Block"
+    },
+    {
+      "title": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
+      "link": "https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 03 Nov 2026 21:47:20 +0000",
+      "creator": "Isabelle Castro",
+      "contentSnippet": "SpaceX joined several other issuers objecting to OKXICE tokenized trading, months after crypto platforms offered tokens tied to its shares.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",
+      "link": "https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458",
+      "pubDate": "Tue, 03 Nov 2026 20:43:38 +0000",
+      "creator": "Jason Shubnell",
+      "contentSnippet": "In his first interview since the Binance hack, Changpeng Zhao says AI is accelerating cyberattacks and calls for industry security alliance.",
+      "source": "The Block"
+    },
+    {
+      "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
+      "link": "https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach",
+      "pubDate": "Tue, 03 Nov 2026 19:46:03 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "GitBook says attackers accessed infrastructure credentials in an AI-assisted breach, prompting a shutdown and emergency token resets.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "US midterms: Prediction markets favor Democrats in key crypto races",
+      "link": "https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 03 Nov 2026 19:38:19 +0000",
+      "creator": "Isabelle Castro",
+      "contentSnippet": "Kalshi and Polymarket price a 75% chance of a Democratic sweep, days after markets misjudged Brazil’s runoff.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures",
+      "link": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures",
+      "pubDate": "Tue, 03 Nov 2026 19:16:02 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Chairman Michael Selig said “equity perpetual futures” can now trade on CFTC-registered exchanges, extending a crypto-native instrument to traditional...",
+      "source": "Decrypt"
+    },
     {
       "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
       "link": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack",
@@ -66,14 +154,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "CFTC approves individual stock perpetual futures trading in US for the first time",
-      "link": "https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422",
-      "pubDate": "Tue, 03 Nov 2026 15:37:50 +0000",
-      "creator": "Sarah Wynn",
-      "contentSnippet": "The CFTC approved the ability for exchanges in the U.S. to offer perpetual futures contracts tied to individual stocks.",
-      "source": "The Block"
-    },
-    {
       "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
       "link": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
       "pubDate": "Tue, 03 Nov 2026 14:01:02 +0000",
@@ -112,14 +192,6 @@
       "creator": "Ezra Reguerra",
       "contentSnippet": "Moscow Exchange plans to launch crypto trading on Dec. 1 under Russia’s new law, with annual purchase limits for non-qualified investors.",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum",
-      "link": "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
-      "pubDate": "Tue, 03 Nov 2026 13:11:47 +0000",
-      "creator": "Tyler Warner",
-      "contentSnippet": "Meanwhile, both the BTC ETFs and ETH ETFs bleed outflows in the Binance hack aftermath, dragging down prices.",
-      "source": "Decrypt"
     },
     {
       "title": "Binance net outflows reach $5.3 billion after record hack. CEO says recovery underway",
@@ -162,11 +234,11 @@
       "source": "Decrypt"
     },
     {
-      "title": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations",
+      "title": "ETHGas wants to bring Wall Street to public Ethereum with institutional controls",
       "link": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
       "pubDate": "Tue, 03 Nov 2026 12:01:05 +0000",
       "creator": "Olivier Acuna",
-      "contentSnippet": "But there’s a catch: validators that fail to deliver on their commitments currently face no financial compensation requirement under the service.",
+      "contentSnippet": "The proposed service would offer sanctions screening and qualified validators, but current compensation for failed commitments is set at zero.",
       "source": "Coindesk"
     },
     {
@@ -210,6 +282,14 @@
       "source": "Cointelegraph"
     },
     {
+      "title": "Live updates: Bitcoin and tech stocks edge higher as U.S. voters head to the polls",
+      "link": "https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets",
+      "pubDate": "Tue, 03 Nov 2026 09:50:16 +0000",
+      "creator": "James Van Straten",
+      "contentSnippet": "Bitcoin is currently on pace for a fifth straight weekly decline, which would tie for its third-longest losing streak ever.",
+      "source": "Coindesk"
+    },
+    {
       "title": "Consensys launches cross-ledger settlement and routing stack for institutional networks",
       "link": "https://www.theblock.co/news/ecosystems/2026-11-03-consensys-cross-ledger-settlement-routing-stack-432375",
       "pubDate": "Tue, 03 Nov 2026 08:56:07 +0000",
@@ -234,7 +314,7 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Kraken restricts accounts amid suspected $133M EU crypto theft",
+      "title": "Kraken restricts accounts linked to suspected $133M EU crypto theft",
       "link": "https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Tue, 03 Nov 2026 08:18:22 +0000",
       "creator": "Ezra Reguerra",
@@ -274,14 +354,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "Arbitrum’s council moved $30 million of Binance hack funds without the hacker’s key",
-      "link": "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key",
-      "pubDate": "Tue, 03 Nov 2026 05:25:12 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "A 12-person committee briefly rewrote one of Arbitrum’s core contracts to spend from an address it held no key for, then put the code back. It’s the s...",
-      "source": "Coindesk"
-    },
-    {
       "title": "Crypto.com to withdraw Hong Kong consumer app citing regulatory changes",
       "link": "https://cointelegraph.com/news/crypto-com-hong-kong-app-shutdown-license-pending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Tue, 03 Nov 2026 05:10:19 +0000",
@@ -290,19 +362,19 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
-      "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote",
-      "pubDate": "Tue, 03 Nov 2026 04:48:17 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "ZEC tumbled nearly 10% and BNB fell under $700 as the Nasdaq 100 slid into a correction, dragging Asian stocks lower.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Binance begins second withdrawal phase, exchange outflows slow",
       "link": "https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Tue, 03 Nov 2026 03:03:44 +0000",
       "creator": "Felix Ng",
       "contentSnippet": "The exchange says additional assets will become available for withdrawal from 04:00 UTC on Tuesday as security checks are completed, following an init...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
+      "link": "https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 02 Nov 2026 22:22:30 +0000",
+      "creator": "Isabelle Castro",
+      "contentSnippet": "New Jersey lifted its staking ban and dropped a $5 million penalty, clearing the way for Coinbase to restore staking access for users in the US state.",
       "source": "Cointelegraph"
     },
     {
@@ -322,20 +394,20 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Big crypto wants the one thing it can’t buy: your vote",
-      "link": "https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote",
-      "pubDate": "Mon, 02 Nov 2026 21:38:53 +0000",
-      "creator": "Hermine Wong",
-      "contentSnippet": "Our loyalty has been to the technology. This election, the trap is to let the biggest intermediaries claim it for themselves, argues Berkeley Law lect...",
-      "source": "Coindesk"
-    },
-    {
       "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
       "link": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Mon, 02 Nov 2026 21:16:24 +0000",
       "creator": "Nate Kostar",
       "contentSnippet": "A European entity may have lost $106 million from exchange accounts, while a wallet associated with a Solana arbitrage bot may have lost another $786,...",
       "source": "Cointelegraph"
+    },
+    {
+      "title": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
+      "link": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack",
+      "pubDate": "Mon, 02 Nov 2026 21:16:03 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Onchain investigator ZachXBT says an unidentified EU entity lost more than $106 million from centralized exchange accounts on Sunday,.",
+      "source": "Decrypt"
     },
     {
       "title": "Michael Saylor’s Strategy Buys the Dip, Acquiring $66,000,000 Worth of Bitcoin (BTC) in the Past Week",
@@ -378,14 +450,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
-      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
-      "pubDate": "Mon, 02 Nov 2026 18:13:57 +0000",
-      "creator": "Helene Braun",
-      "contentSnippet": "Bulls are watching short positions, exchange withdrawals and key price levels for signs of a rebound after the midterms.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
       "link": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Mon, 02 Nov 2026 18:00:16 +0000",
@@ -410,12 +474,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
-      "link": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 02 Nov 2026 13:48:28 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "Strategy spent $208.2 million buying back STRC preferred shares and $65.5 million on Bitcoin, while allocating $98.5 million to its USD Cash balance.",
-      "source": "Cointelegraph"
+      "title": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
+      "link": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307",
+      "pubDate": "Mon, 02 Nov 2026 14:40:53 +0000",
+      "creator": "Brian Danga",
+      "contentSnippet": "Bitmine added 8,573 ETH last week, lifting holdings to 6.06 million ETH, as Tom Lee flagged muted market response to Binance's hack.",
+      "source": "The Block"
     },
     {
       "title": "Strategy Resumes Bitcoin Buys With $66M Purchase",
@@ -426,14 +490,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "FATF targets crypto hubs in review of money laundering controls",
-      "link": "https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 02 Nov 2026 12:56:07 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "The watchdog has not named the jurisdictions under review. Initial findings on compliance with its crypto standards are due in June 2027.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "BTCPay Tells Merchants to Switch Off Servers Amid Hot Wallet Attack Reports",
       "link": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports",
       "pubDate": "Mon, 02 Nov 2026 12:24:18 +0000",
@@ -442,43 +498,11 @@
       "source": "Decrypt"
     },
     {
-      "title": "Hackers hijack a dozen DeFi websites, all registered with Name.com, and steal about $138,000",
-      "link": "https://www.theblock.co/news/defi/2026-10-31-hackers-hijack-a-dozen-defi-websites-all-registered-with-name-com-and-steal-about-138000-432251",
-      "pubDate": "Sat, 31 Oct 2026 15:26:27 +0000",
-      "creator": "Zack Abrams",
-      "contentSnippet": "All 12 hijacked domains are registered through Name.com, according to registry records accessed by The Block, suggesting a compromise.",
-      "source": "The Block"
-    },
-    {
       "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
       "link": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
       "pubDate": "Sat, 31 Oct 2026 15:01:02 +0000",
       "creator": "Staff",
       "contentSnippet": "Attackers tied to North Korea drained roughly $6.4 billion from the world’s largest crypto exchange. Here’s what we know about how it happened, who’s ...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
-      "link": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
-      "pubDate": "Fri, 30 Oct 2026 20:06:03 +0000",
-      "creator": "Staff",
-      "contentSnippet": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the record $6.4 billion theft is a Binance security failure, not a crypto-wide threat, p...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
-      "link": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
-      "pubDate": "Fri, 30 Oct 2026 18:45:03 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Binance lost about $6.4 billion, the largest crypto hack on record, yet Bitcoin fell about 3%, against nearly 11% in 2018 when the exchange was last a...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "$8 Million Crypto Kidnapping Lands Texas Brothers 15-Year Prison Terms",
-      "link": "https://decrypt.co/382269/crypto-kidnapping-texas-brothers-15-year-prison",
-      "pubDate": "Fri, 30 Oct 2026 18:16:02 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Raymond and Isiah Garcia held a Minnesota family at gunpoint for more than nine hours, forcing the father to transfer over $8 million in crypto, in on...",
       "source": "Decrypt"
     }
   ]
