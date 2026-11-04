@@ -96608,7 +96608,8 @@
         "description": "Join Bitdeer as Procurement Category Lead. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "bec42215-c174-46fd-84c0-ad5302130df4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mziazslk7z2k"
     }
   ]
 }
