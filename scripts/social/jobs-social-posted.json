@@ -97557,7 +97557,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "9333adce-ce4c-430e-a4b0-088215610cff",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6aeb18e76e21919416d69a3c"
     }
   ]
 }
