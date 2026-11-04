@@ -53419,6 +53419,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-7968b7288dfaad5a"></a>
+
+## Bienvenidos a charla en Español.
+
+- Record: `mu-317081989`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-10T18:30:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/des-moines-spanish-conversation-group/events/317081989/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-ae398d5be4dad0db"></a>
 
 ## Inner Freedom: Stop Letting Your Past Define You
