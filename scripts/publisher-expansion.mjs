@@ -137,18 +137,29 @@ async function readReceipt(path) {
 
 async function writeReceipt(path, receipt, sha, message) {
   const endpoint = `https://api.github.com/repos/vedangvatsa/Web3-Jobs/contents/${path}`;
-  const saved = await fetch(endpoint, {
-    method: 'PUT',
-    headers,
-    signal: AbortSignal.timeout(20_000),
-    body: JSON.stringify({
-      branch: 'main',
-      message,
-      content: Buffer.from(JSON.stringify(receipt, null, 2) + '\n').toString('base64'),
-      ...(sha && { sha }),
-    }),
-  });
-  if (!saved.ok) throw new Error(`Receipt write failed: ${saved.status}; do not resend.`);
+  let saved;
+  for (let attempt = 0; ; attempt++) {
+    saved = await fetch(endpoint, {
+      method: 'PUT',
+      headers,
+      signal: AbortSignal.timeout(20_000),
+      body: JSON.stringify({
+        branch: 'main',
+        message,
+        content: Buffer.from(JSON.stringify(receipt, null, 2) + '\n').toString('base64'),
+        ...(sha && { sha }),
+      }),
+    });
+    if (saved.ok) break;
+    // Transient GitHub 5xx: safe to retry; receipt writes are CAS idempotent and
+    // no message is sent until this write succeeds.
+    if (saved.status >= 500 && attempt < 4) {
+      console.log(`Receipt write got ${saved.status}; retry ${attempt + 1}/4`);
+      await new Promise((resolve) => setTimeout(resolve, 15_000 * (attempt + 1)));
+      continue;
+    }
+    throw new Error(`Receipt write failed: ${saved.status}; do not resend.`);
+  }
   const ack = await saved.json();
   if (!ack.content?.sha || !ack.commit?.sha) throw new Error('Receipt acknowledgement missing; do not resend.');
   return ack.content.sha;
