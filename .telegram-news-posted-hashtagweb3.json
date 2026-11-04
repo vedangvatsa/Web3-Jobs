@@ -881,6 +881,9 @@
   "https://hashtagweb3.com/tetherbtc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/njstaking?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/anzalinux?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/tetherq3?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/visastablecoins?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2549,6 +2552,12 @@
   "New Jersey Rescinds Coinbase Staking Order and Drops $5 Million Penalty",
   "Anza Advises Solana Validators to Mitigate Ubuntu Kernel Flaw",
   "Anza Tells Solana Validators to Mitigate Critical Linux Kernel Flaw",
+  "Tether earns $1.5 billion profit as reserve buffer grows",
+  "Tether Reports $1.5 Billion Q3 Operating Profit as Reserve Buffer Nears $8 Billion",
+  "Visa stablecoin settlement volume reaches $25 billion annually",
+  "Visa reports $25 billion annualized stablecoin settlement run rate in Q4",
+  "Schroders launches tokenized emerging markets debt fund on Solana",
+  "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2980,5 +2989,8 @@
   "fp:agreement|ask|bid|both|cftc|conduct|court|gemini|judg|maintain",
   "fp:000|about150|about50|ardoino|ceo|firm|higher|holds150|indicat|paolo",
   "fp:bureau|coinbas|drop|fin|its2023|jersey|merit|order|penalty|rescind",
-  "fp:98432|advis|anza|block|critical|cve2026|disabl|featur|flaw|inbound"
+  "fp:98432|advis|anza|block|critical|cve2026|disabl|featur|flaw|inbound",
+  "fp:15b|795b|bill|buffer|dur|earn|excess|grow|help|increas",
+  "fp:25b|annualiz|annually|card|drove150|dur|fiscal|fourth|growth|mor",
+  "fp:asset|blockchain|bond|bring|centrifug|debt|emerg|expand|fund|manager"
 ]
