@@ -707,10 +707,12 @@
         "articleSlugs": [
           "tetherbtc"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-11-04T11:29:20.698Z",
         "buildId": "daily-20261104-41821105011-1",
-        "rolloutId": "daily-20261104-41821105011-1"
+        "rolloutId": "daily-20261104-41821105011-1",
+        "buildState": "READY",
+        "observedAt": "2026-11-04T11:45:31.044Z"
       }
     ]
   }
