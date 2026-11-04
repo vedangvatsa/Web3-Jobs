@@ -98433,6 +98433,38 @@
       "attemptId": "8963ece0-fe90-49e2-bc7b-dc72124d9c4e",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Wednesday, 04-Nov-26 11:43:09 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A848X7bc42Kzr9msEdigoWX\"}"
+    },
+    {
+      "slug": "pm349",
+      "company": "StraitsX",
+      "title": "Product Manager, Internal Tools",
+      "platform": "bluesky",
+      "postedAt": "2026-11-04T19:42:53.955Z",
+      "expectedText": "StraitsX is hiring Product Manager, Internal Tools: https://hashtagweb3.com/pm349/bsky?og=7",
+      "snapshot": {
+        "id": "5017286101",
+        "title": "Product Manager, Internal Tools",
+        "company": "StraitsX",
+        "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5017286101",
+        "date": "2026-10-30T08:22:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: StraitsX [straitsx]",
+        "location": "Jakarta, Indonesia",
+        "department": "STX - Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm349"
+      },
+      "payload": {
+        "text": "StraitsX is hiring Product Manager, Internal Tools: https://hashtagweb3.com/pm349/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/pm349/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/pm349.png?v=7",
+        "company": "StraitsX",
+        "title": "Product Manager, Internal Tools",
+        "description": "Join StraitsX as Product Manager, Internal Tools. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "aab41079-a57b-487a-8130-74274a542fa8",
+      "verification": "creating"
     }
   ]
 }
