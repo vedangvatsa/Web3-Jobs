@@ -8,7 +8,7 @@
     "afternoon": "2026-10-30",
     "evening": "2026-10-31"
   },
-  "deployed": "2026-10-31",
+  "deployed": "2026-11-04",
   "ingested": "2026-11-04",
   "dailyDeployments": {
     "2026-10-23": [
@@ -707,12 +707,14 @@
         "articleSlugs": [
           "tetherbtc"
         ],
-        "phase": "rolling-out",
+        "phase": "succeeded",
         "startedAt": "2026-11-04T11:29:20.698Z",
         "buildId": "daily-20261104-41821105011-1",
         "rolloutId": "daily-20261104-41821105011-1",
         "buildState": "READY",
-        "observedAt": "2026-11-04T11:45:31.044Z"
+        "observedAt": "2026-11-04T11:46:02.880Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-11-04T11:46:02.880Z"
       }
     ]
   }
