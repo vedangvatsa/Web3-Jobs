@@ -97123,7 +97123,8 @@
       },
       "account": "channel:solana",
       "attemptId": "523801f7-6900-4566-8492-7ef52aff12cb",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x22e6ce5d110f306851db4d0ce66082eda899a0c2"
     }
   ]
 }
