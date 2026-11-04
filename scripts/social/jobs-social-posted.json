@@ -98214,7 +98214,8 @@
       },
       "account": "channel:growth",
       "attemptId": "f81d7a7e-b221-4289-aa6e-bab44051922e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7954b720bad29fd6055b0dc9a93f1946ccefc42f"
     }
   ]
 }
