@@ -3113,5 +3113,36 @@
     "slotKey": "2026-11-03:afternoon",
     "messageId": 65801,
     "sentAt": "2026-11-03T11:41:12.236Z"
+  },
+  "1f50e461-4a3c-4f4b-952f-8448f0c671ec": {
+    "status": "reserved",
+    "reservedAt": "2026-11-04T11:32:57.410Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Tether CEO Says Firm Holds 150,000 Bitcoin",
+        "summary": "Paolo Ardoino stated in Lugano that Tether's holdings exceed its Q3 reserve attestation by about 50,000 bitcoin.",
+        "link": "https://hashtagweb3.com/tetherbtc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Tether CEO Says Company Holds About 150,000 Bitcoin"
+      },
+      {
+        "index": -1,
+        "headline": "New Jersey Drops Coinbase Staking Order and Penalty",
+        "summary": "Regulators withdrew the 2023 cease-and-desist action and $5 million fine without issuing a ruling on the merits.",
+        "link": "https://hashtagweb3.com/njstaking?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "New Jersey Rescinds Coinbase Staking Order and Drops $5 Million Penalty"
+      },
+      {
+        "index": -1,
+        "headline": "Anza advises Solana validators to mitigate Linux kernel flaw.",
+        "summary": "Ubuntu node operators are urged to block inbound traffic while a fix for CVE-2026-98432 is finalized.",
+        "link": "https://hashtagweb3.com/anzalinux?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Anza Tells Solana Validators to Mitigate Critical Linux Kernel Flaw"
+      }
+    ],
+    "slotKey": "2026-11-04:afternoon"
   }
 }
