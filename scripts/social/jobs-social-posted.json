@@ -98498,7 +98498,8 @@
       },
       "account": "profile",
       "attemptId": "a5b6ecf3-7f61-4a03-ae27-bf7c7c9d84df",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x11274332e893da1b61024777e57a680797dfea15"
     }
   ]
 }
