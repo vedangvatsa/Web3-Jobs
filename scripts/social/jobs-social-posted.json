@@ -96567,7 +96567,8 @@
         "link_attachment": "https://hashtagweb3.com/pcac/th?og=7"
       },
       "attemptId": "5648e7de-9d1d-4b67-ba9f-a0bab546aa43",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Wednesday, 04-Nov-26 03:33:21 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A2Qvvfus5IAOaHvuzGw3Ae8\"}"
     }
   ]
 }
