@@ -6328,277 +6328,6 @@
     }
   },
   {
-    "id": "token2049-evt-sdwlrb9SNEOyZfG",
-    "name": "GPs × LPs Pickleball | Match Point Capital Series | By Invitation · SuperReturn Singapore 2026",
-    "description": "GPs × LPs Pickleball | Match Point Capital Series | By Invitation · SuperReturn Singapore 2026 is scheduled for 1 October 2026 at 19:30 (Asia/Singapore) in Singapore. Hosted by Bridgestar Capital, XForge Mobile, Peter Atli, Darknight | Ape Ventures.\n\nSubmitting an RSVP does not guarantee entry; your place is confirmed only after host approval.\n\n7:30pm — Arrivals, introductions and warm-up\n\n8:00pm — Friendly doubles and rotating matchups\n\n9:30pm — Final games and closing conversations\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
-    "startDate": "2026-10-01T11:30:00.000Z",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/luhstckd",
-    "registrationUrl": "https://luma.com/luhstckd",
-    "coverImage": "/events/token2049-evt-sdwlrb9sneoyzfg-233017bd.webp",
-    "endDate": "2026-10-01T14:00:00.000Z",
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "city": "Singapore",
-    "country": "Singapore",
-    "hosts": [
-      "Bridgestar Capital",
-      "XForge Mobile",
-      "Peter Atli",
-      "Darknight | Ape Ventures"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/luhstckd",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/luhstckd",
-      "eventId": "evt-sdwlrb9SNEOyZfG",
-      "fetchedAt": "2026-09-27T20:19:05.644Z",
-      "method": "luma-api"
-    },
-    "slug": "gps-lps",
-    "source": "token2049-verified",
-    "sideEventFor": [
-      "token2049"
-    ],
-    "token2049SideEvent": true,
-    "descriptionSource": {
-      "url": "https://luma.com/luhstckd",
-      "fetchedAt": "2026-09-27T20:19:05.644Z",
-      "method": "matched-organizer-record",
-      "pageTitle": "GPs × LPs Pickleball | Match Point Capital Series | By Invitation · SuperReturn Singapore 2026",
-      "sha256": "cd23af17a51c3590ba82f3a077620c1a6c9bb1feebc31e0b5668d871cc7da406",
-      "evidence": [
-        {
-          "url": "https://luma.com/luhstckd",
-          "fetchedAt": "2026-09-27T20:19:05.644Z",
-          "sha256": "ae584882de261c62279a9dc64341c0d6d20bc8e0f002921559f65024076a0fc9"
-        }
-      ]
-    }
-  },
-  {
-    "id": "token2049-evt-IRjj872ozIIxPAS",
-    "name": "Get Down For Real",
-    "description": "Get Down For Real is scheduled for 1 October 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.\n\nSoundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.\n\nRegistration requires host approval. Registration is listed as free.",
-    "startDate": "2026-10-01T14:30:00.000Z",
-    "location": "Avenue Lounge, 10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore 018956",
-    "url": "https://luma.com/rz5lut2r",
-    "registrationUrl": "https://luma.com/rz5lut2r",
-    "coverImage": "/events/token2049-evt-irjj872oziixpas-ac50bf00.webp",
-    "endDate": "2026-10-01T17:00:00.000Z",
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "city": "Singapore",
-    "country": "Singapore",
-    "venueName": "Avenue Lounge",
-    "streetAddress": "10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "neighborhood": "Central Area",
-    "coordinates": {
-      "latitude": 1.2851522,
-      "longitude": 103.8605316
-    },
-    "hosts": [],
-    "organizer": {
-      "type": "Organization",
-      "name": "2049 Events",
-      "url": "https://asiaweb3aiassociation.org/"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/rz5lut2r",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/rz5lut2r",
-      "eventId": "evt-IRjj872ozIIxPAS",
-      "fetchedAt": "2026-09-27T20:19:05.626Z",
-      "method": "luma-api"
-    },
-    "slug": "get-down",
-    "source": "token2049-verified",
-    "sideEventFor": [
-      "token2049"
-    ],
-    "token2049SideEvent": true,
-    "descriptionSource": {
-      "url": "https://luma.com/rz5lut2r",
-      "fetchedAt": "2026-09-27T20:19:05.626Z",
-      "method": "matched-organizer-record",
-      "pageTitle": "Get Down For Real",
-      "sha256": "4d4b45c3b414434afc788ed7763dc4ef8145ea580439ffd7de1da4ed2520f7a1",
-      "evidence": [
-        {
-          "url": "https://luma.com/rz5lut2r",
-          "fetchedAt": "2026-09-27T20:19:05.626Z",
-          "sha256": "cd13b086a675119a777ff0abbd5ee20b62bdf979a20c643548be3cf6eca39e77"
-        }
-      ]
-    }
-  },
-  {
-    "id": "token2049-evt-YL6KpUrRu4CGVus",
-    "name": "Pre Token2049: Meet Up",
-    "description": "Pre Token2049: Meet Up is scheduled for 3 October 2026 at 16:00 (Asia/Singapore) in Singapore. Hosted by Asia Web3 Ai Association (AWAA), Insight Genesis.\n\nCraft beers + Food: which you can order from menu\n\nApply to attend or respond to your private invitation.\n\nAs this is an invite-only event, please be aware that registering does not guarantee access due to limited availability.\n\nPlease note that entry will be granted only to ticketed guests, and tickets are not transferable.\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
-    "startDate": "2026-10-03T08:00:00.000Z",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/av3tpir8",
-    "registrationUrl": "https://luma.com/av3tpir8",
-    "coverImage": "/events/token2049-evt-yl6kpurru4cgvus-b4f7f8af.webp",
-    "endDate": "2026-10-03T13:00:00.000Z",
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "city": "Singapore",
-    "country": "Singapore",
-    "hosts": [
-      "Asia Web3 Ai Association (AWAA)",
-      "Insight Genesis"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Asia Web3 Ai Association (AWAA)",
-      "url": "https://asiaweb3aiassociation.org/"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Pre Token2049 Meet up",
-        "url": "https://luma.com/av3tpir8",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "VIP Guests",
-        "url": "https://luma.com/av3tpir8",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/av3tpir8",
-      "eventId": "evt-YL6KpUrRu4CGVus",
-      "fetchedAt": "2026-09-27T20:19:06.444Z",
-      "method": "luma-api"
-    },
-    "slug": "pre-token2049",
-    "source": "token2049-verified",
-    "sideEventFor": [
-      "token2049"
-    ],
-    "token2049SideEvent": true,
-    "descriptionSource": {
-      "url": "https://luma.com/av3tpir8",
-      "fetchedAt": "2026-09-27T20:19:06.444Z",
-      "method": "matched-organizer-record",
-      "pageTitle": "Pre Token2049: Meet Up",
-      "sha256": "6bf93d77c54a91ffd652176780935660e0b307ae16b9f72b30a6677a3315f828",
-      "evidence": [
-        {
-          "url": "https://luma.com/av3tpir8",
-          "fetchedAt": "2026-09-27T20:19:06.444Z",
-          "sha256": "3a4b18c798b10db6ed8f1bd7683f8361323cf1c9404a9cd28ba440ec9e24b454"
-        }
-      ]
-    }
-  },
-  {
-    "id": "token2049-evt-LogZtWT8oa5fv8p",
-    "name": "Founders & Funds: Paddle Cup",
-    "description": "Founders & Funds: Paddle Cup is scheduled for 4 October 2026 at 07:30 (Asia/Singapore). Hosted by Luvon Labs Official, SpedaxAI Official.\n\nTOKEN2049 week is full of fifteen-minute pitch meetings and identical VC dinners.\n\nIt's a structured format built for one outcome: immediate founder-fund pairing and relationships that outlast the tournament.\n\n16 invite-only VIP founder-fund teams compete alongside 8 open wildcard teams, 24 teams, and 48 players in all, with roughly 60 to 80 people total once you count non-playing guests and press.\n\n1:15 to 2:00 PM, Closing Brunch: Relaxed networking with the people you just played against\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
-    "startDate": "2026-10-03T23:30:00.000Z",
-    "location": "Location to be announced",
-    "url": "https://luma.com/fumtr19i",
-    "registrationUrl": "https://luma.com/fumtr19i",
-    "coverImage": "/events/token2049-evt-logztwt8oa5fv8p-9db0a37a.webp",
-    "endDate": "2026-10-04T05:30:00.000Z",
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "hosts": [
-      "Luvon Labs Official",
-      "SpedaxAI Official"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Luvon Labs X SpedaxAI",
-      "url": "https://luvonlabs.com/"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/fumtr19i",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "VC / FAMILY OFFICE",
-        "url": "https://luma.com/fumtr19i",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "VIP Lounge Pass",
-        "url": "https://luma.com/fumtr19i",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/fumtr19i",
-      "eventId": "evt-LogZtWT8oa5fv8p",
-      "fetchedAt": "2026-09-27T20:19:06.461Z",
-      "method": "luma-api"
-    },
-    "slug": "founders-funds",
-    "source": "token2049-verified",
-    "sideEventFor": [
-      "token2049"
-    ],
-    "token2049SideEvent": true,
-    "descriptionSource": {
-      "url": "https://luma.com/fumtr19i",
-      "fetchedAt": "2026-09-27T20:19:06.461Z",
-      "method": "matched-organizer-record",
-      "pageTitle": "Founders & Funds: Paddle Cup",
-      "sha256": "e0c8d612390e15919965c563642396951776cb28b55427eee2841b6e0717dfe3",
-      "evidence": [
-        {
-          "url": "https://luma.com/fumtr19i",
-          "fetchedAt": "2026-09-27T20:19:06.461Z",
-          "sha256": "8475d6234c00704e38f5c6884cf59706d47682d09b7e39d41a830d58968a6b8a"
-        }
-      ]
-    }
-  },
-  {
     "id": "token2049-evt-uciKSAp6TdWKkWn",
     "name": "Day One (Public) | Nobel Heroes & AI4SCI Summit Singapore 2026",
     "description": "Day One (Public) | Nobel Heroes & AI4SCI Summit Singapore 2026 is scheduled for 5 October 2026 at 09:00 (Asia/Singapore) in Singapore. Hosted by 499 Group, Symbosis Science.\n\n09:00-12:00——LT1, NTU (Invite Only)\n\n13:30-17:00——NEC, NTU (Open Registration)\n\nMorning session (Invite Only)\n\n09:30–09:50 - Opening Remarks\n\nRegistration requires host approval. Registration is listed as free.",
@@ -10597,76 +10326,6 @@
     }
   },
   {
-    "id": "token2049-evt-E3WtjeLuIe9GJHu",
-    "name": "Coffee & Credentials",
-    "description": "Coffee & Credentials is scheduled for 5 October 2026 at 09:00 (Asia/Singapore) in Complex. Hosted by Branson Lee.\n\nStill a coffee meetup though, just with a presentation folded into it.\n\nRSVPs still need approval, because we want it to stay a real conversation, not a crowd.\n\nRegistration requires host approval. Registration is listed as free.",
-    "startDate": "2026-10-05T01:00:00.000Z",
-    "location": "Ketojiak Ice Creams, Waffles & Bakes (Sugar-Free, Ultra Low Carb, Diabetic & Keto Friendly), 231 Bain St, #01-75, Complex 180231",
-    "url": "https://luma.com/6bv4rjiv",
-    "registrationUrl": "https://luma.com/6bv4rjiv",
-    "coverImage": "/events/token2049-evt-e3wtjeluie9gjhu-7d852cd2.webp",
-    "endDate": "2026-10-05T03:30:00.000Z",
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "private",
-    "locationHidden": false,
-    "city": "Complex",
-    "country": "Singapore",
-    "venueName": "Ketojiak Ice Creams, Waffles & Bakes (Sugar-Free, Ultra Low Carb, Diabetic & Keto Friendly)",
-    "streetAddress": "231 Bain St, #01-75, Complex",
-    "addressLocality": "Complex",
-    "addressCountry": "SG",
-    "neighborhood": "Bras Basah",
-    "coordinates": {
-      "latitude": 1.2968305,
-      "longitude": 103.85349459999999
-    },
-    "hosts": [
-      "Branson Lee"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Provd.ai"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/6bv4rjiv",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/6bv4rjiv",
-      "eventId": "evt-E3WtjeLuIe9GJHu",
-      "fetchedAt": "2026-09-27T20:19:37.683Z",
-      "method": "luma-page"
-    },
-    "slug": "coffee-credentials",
-    "source": "token2049-verified",
-    "sideEventFor": [
-      "token2049"
-    ],
-    "token2049SideEvent": true,
-    "descriptionSource": {
-      "url": "https://luma.com/6bv4rjiv",
-      "fetchedAt": "2026-09-27T20:19:37.683Z",
-      "method": "matched-organizer-record",
-      "pageTitle": "Coffee & Credentials",
-      "sha256": "9bde86d4adf20b5f462f43e50dd0263cf7f407c59043e91ca5577b4f0aea3474",
-      "evidence": [
-        {
-          "url": "https://luma.com/6bv4rjiv",
-          "fetchedAt": "2026-09-27T20:19:37.683Z",
-          "sha256": "c3eb863aed93ac1fa441a9c46edbee7e0109ef41b17332c6daf8846b4b20716a"
-        }
-      ]
-    }
-  },
-  {
     "id": "token2049-evt-qYRiPyDkDWEUNGs",
     "name": "The Liquidity Pool - Hosted by Yuzu Money",
     "description": "The Liquidity Pool - Hosted by Yuzu Money is scheduled for 5 October 2026 at 15:00 (Asia/Singapore) in Singapore. Hosted by Ouroboros, Sam OuroCap.\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
@@ -12253,76 +11912,6 @@
     }
   },
   {
-    "id": "token2049-evt-Cc2bDtTNBajOQuN",
-    "name": "A Programmable Economy at the Speed of AI?",
-    "description": "A Programmable Economy at the Speed of AI? is scheduled for 1 October 2026 at 13:30 (Asia/Singapore) in Singapore. Hosted by Ops @ EEF.\n\nAll registrations are reviewed manually, and attendance is confirmed only once your registration has been approved.\n\nEntry is limited to approved guests.\n\n2:15 pm: Presentation by Vitalik Buterin\n\nRegistration requires host approval. Registration is listed as free.",
-    "startDate": "2026-10-01T05:30:00.000Z",
-    "location": "Singapore FinTech Association, 80 Robinson Rd, Singapore 068898",
-    "url": "https://luma.com/rdr0irad",
-    "registrationUrl": "https://luma.com/rdr0irad",
-    "coverImage": "/events/token2049-evt-cc2bdttnbajoqun-fb8e8001.webp",
-    "endDate": "2026-10-01T08:30:00.000Z",
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "private",
-    "locationHidden": false,
-    "city": "Singapore",
-    "country": "Singapore",
-    "venueName": "Singapore FinTech Association",
-    "streetAddress": "80 Robinson Rd, Singapore",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "neighborhood": "Central Area",
-    "coordinates": {
-      "latitude": 1.2800304999999998,
-      "longitude": 103.84920679999999
-    },
-    "hosts": [
-      "Ops @ EEF"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "EEF Events"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/rdr0irad",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/rdr0irad",
-      "eventId": "evt-Cc2bDtTNBajOQuN",
-      "fetchedAt": "2026-09-27T20:43:24.933Z",
-      "method": "luma-api"
-    },
-    "slug": "programmable-economy",
-    "source": "token2049-verified",
-    "sideEventFor": [
-      "token2049"
-    ],
-    "token2049SideEvent": true,
-    "descriptionSource": {
-      "url": "https://luma.com/rdr0irad",
-      "fetchedAt": "2026-09-27T20:43:24.933Z",
-      "method": "matched-organizer-record",
-      "pageTitle": "A Programmable Economy at the Speed of AI?",
-      "sha256": "f0f7c7f040490c723809cd0b7db87939e4eeb0d078dc2c13ff6c8e3f60995dcd",
-      "evidence": [
-        {
-          "url": "https://luma.com/rdr0irad",
-          "fetchedAt": "2026-09-27T20:43:24.933Z",
-          "sha256": "1b119455e6a8cdd7484dfcf06bd949a3e772ce4a38e0ec542b1fa71d028522de"
-        }
-      ]
-    }
-  },
-  {
     "id": "token2049-evt-JrqDBw5ETIo46aV",
     "name": "Vibrez × La Royale | Singapore Grand Prix Screening",
     "description": "Vibrez × La Royale | Singapore Grand Prix Screening is scheduled for 11 October 2026 at 18:30 (Asia/Singapore) in Singapore. Hosted by Vibrez !.\n\nWatch the race live at the La Royale office with drinks, dinner-style food and a small group of founders, investors, partners and friends.\n\nJoining us from Sunday’s Race Day Yacht Party?\n\nTransport will be arranged from MYKONOS at ONE°15 Marina, Sentosa Cove, to La Royale’s office at Millenia Tower for guests with an approved RSVP to this screening.\n\nRegistration is subject to approval.\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
@@ -13258,37 +12847,6 @@
     }
   },
   {
-    "id": "token2049-35b952e1b7ba13df",
-    "name": "SuperReturn Asia 2026",
-    "description": "SuperReturn Asia runs from 28 September to 1 October 2026 at Marina Bay Sands Convention Centre. The programme covers private equity, private credit, venture capital, infrastructure, and private wealth. Specialist summits take place on 28 September.",
-    "startDate": "2026-09-28",
-    "location": "Marina Bay Sands Convention Centre, Singapore",
-    "url": "https://informaconnect.com/superreturnasia",
-    "registrationUrl": "https://informaconnect.com/superreturnasia",
-    "coverImage": "/events/token2049-35b952e1b7ba13df-7444b579.webp",
-    "endDate": "2026-10-01",
-    "city": "Singapore",
-    "country": "Singapore",
-    "venueName": "Marina Bay Sands Convention Centre",
-    "timezone": "Asia/Singapore",
-    "slug": "superreturn-asia",
-    "source": "token2049-verified",
-    "descriptionSource": {
-      "url": "https://informaconnect.com/superreturnasia",
-      "fetchedAt": "2026-09-27T20:43:09.442Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "SuperReturn Asia 2026",
-      "sha256": "1fa97277d36f126f18c69ecafedc78254bcbd4f7b561699dcb73126f3ca43a37",
-      "evidence": [
-        {
-          "url": "https://informaconnect.com/superreturnasia",
-          "fetchedAt": "2026-09-27T20:43:09.442Z",
-          "sha256": "cd5861b889c64bcab0afce4346c5bb6779750d9f8b7a747ff25f9475d3867986"
-        }
-      ]
-    }
-  },
-  {
     "id": "token2049-f506060cb0999771",
     "name": "TOKEN2049 Investor Hours",
     "description": "TOKEN2049 Investor Hours is scheduled for 7 October 2026 at 14:00 (Asia/Singapore) in Singapore. Hosted by TOKEN2049.\n\nRegistration is listed as free.",
@@ -13576,35 +13134,6 @@
     }
   },
   {
-    "id": "token2049-41972aea13998db5",
-    "name": "FundForum Asia",
-    "description": "FundForum Asia is scheduled for 29 September 2026 online.",
-    "startDate": "2026-09-29",
-    "location": "Online",
-    "url": "https://informaconnect.com/fundforumasia",
-    "registrationUrl": "https://informaconnect.com/fundforumasia",
-    "coverImage": "/events/token2049-41972aea13998db5-5c4eacd3.webp",
-    "endDate": "2026-09-30",
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "online",
-    "slug": "fundforum-asia",
-    "source": "token2049-verified",
-    "descriptionSource": {
-      "url": "https://informaconnect.com/fundforumasia",
-      "fetchedAt": "2026-09-27T20:13:12.611Z",
-      "method": "matched-organizer-record",
-      "pageTitle": "FundForum Asia",
-      "sha256": "31b8bd8d4c1dbf59e84565eb77fc3c756c12c21ecef6c9d0a0b1cd101b778447",
-      "evidence": [
-        {
-          "url": "https://informaconnect.com/fundforumasia",
-          "fetchedAt": "2026-09-27T20:13:12.611Z",
-          "sha256": "71c58d5ad9fd2ed180d90586b48d47d8c42f08d47cdd8d07504906087dab9727"
-        }
-      ]
-    }
-  },
-  {
     "id": "token2049-2aaeb7b8b6a51c5c",
     "name": "Forbes Global CEO Conference 2026",
     "description": "The Forbes Global CEO Conference is scheduled for 7–8 October 2026 in Singapore. The organizer describes a conference for chief executives, entrepreneurs, and investors, with discussions on global business issues.",
@@ -13673,37 +13202,6 @@
           "url": "https://www.hyperliquidforum.com/singapore",
           "fetchedAt": "2026-09-27T20:13:18.180Z",
           "sha256": "35c5d09ac3017a7c72f59ef363880774c56c92f738679cb125e705d11a1246d2"
-        }
-      ]
-    }
-  },
-  {
-    "id": "token2049-1044b9e351b65628",
-    "name": "Tech Week Singapore 2026",
-    "description": "Tech Week Singapore takes place on 29–30 September 2026 at Sands Expo and Convention Centre, Marina Bay Sands. The event covers cloud and AI infrastructure, data centres, cybersecurity, and enterprise technology. The organizer publishes conference programmes, speaker details, and an exhibitor list.",
-    "startDate": "2026-09-29",
-    "location": "Marina Bay Sands, Singapore",
-    "url": "https://www.singaporetechnologyweek.com",
-    "registrationUrl": "https://www.singaporetechnologyweek.com",
-    "coverImage": "/events/token2049-1044b9e351b65628-b8940387.webp",
-    "endDate": "2026-09-30",
-    "city": "Singapore",
-    "country": "Singapore",
-    "venueName": "Sands Expo and Convention Centre",
-    "timezone": "Asia/Singapore",
-    "slug": "tech-week",
-    "source": "token2049-verified",
-    "descriptionSource": {
-      "url": "https://www.singaporetechnologyweek.com",
-      "fetchedAt": "2026-09-27T20:43:39.678Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Tech Week Singapore 2026",
-      "sha256": "71ff34f89362296d3023f314e67fbe8e4847707ed70db2ce3c5a5b418fd1e243",
-      "evidence": [
-        {
-          "url": "https://www.singaporetechnologyweek.com",
-          "fetchedAt": "2026-09-27T20:43:39.678Z",
-          "sha256": "a8b1bd400c9c7eed32e556daf43fc08d4323a9cb7eb37cb6668669cad4f17524"
         }
       ]
     }
@@ -14585,79 +14083,6 @@
     }
   },
   {
-    "id": "token2049-evt-iwlAee1GmHJX4Pd",
-    "name": "KopiChat: The AI-Powered CFO - A Cluedo Game Night",
-    "description": "KopiChat: The AI-Powered CFO - A Cluedo Game Night is scheduled for 30 September 2026 at 18:30 (Asia/Singapore) in Singapore. Hosted by Shreeya, Aneesha Reihana, Shyam Velumani, Pare, Soiree Singapore.\n\nArrive to drinks and canapes, and pick up your character or investigation card (no heavy role-play required).\n\nPast ones have run 50+ and 70+ people deep, so expect a full room.\n\nRegistration requires host approval.",
-    "startDate": "2026-09-30T10:30:00.000Z",
-    "location": "BYD Boat Quay 1826, 33/34 Boat Quay, Level 2, Singapore 049822",
-    "url": "https://luma.com/js2bjm2y",
-    "registrationUrl": "https://luma.com/js2bjm2y",
-    "coverImage": "/events/token2049-evt-iwlaee1gmhjx4pd-ced3a20f.webp",
-    "endDate": "2026-09-30T13:30:00.000Z",
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "city": "Singapore",
-    "country": "Singapore",
-    "venueName": "BYD Boat Quay 1826",
-    "streetAddress": "33/34 Boat Quay, Level 2, Singapore",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "neighborhood": "Central Area",
-    "coordinates": {
-      "latitude": 1.2862228,
-      "longitude": 103.8498206
-    },
-    "hosts": [
-      "Shreeya",
-      "Aneesha Reihana",
-      "Shyam Velumani",
-      "Pare",
-      "Soiree Singapore"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "NewWorld Foundry",
-      "url": "https://www.newworldfoundry.sg/"
-    },
-    "price": "SGD 65",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/js2bjm2y",
-        "price": 65,
-        "priceCurrency": "SGD",
-        "availability": "InStock",
-        "validFrom": "2026-09-15T07:00:00.000Z"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/js2bjm2y",
-      "eventId": "evt-iwlAee1GmHJX4Pd",
-      "fetchedAt": "2026-09-29T19:48:04.755Z",
-      "method": "luma-api"
-    },
-    "slug": "kopichat-ai",
-    "source": "token2049-verified",
-    "descriptionSource": {
-      "url": "https://luma.com/js2bjm2y",
-      "fetchedAt": "2026-09-29T19:48:04.755Z",
-      "method": "matched-organizer-record",
-      "pageTitle": "KopiChat: The AI-Powered CFO - A Cluedo Game Night",
-      "sha256": "641093699beffc294f78ada6fe21effdf6d6053a0f8b9f0a46605fa573a87640",
-      "evidence": [
-        {
-          "url": "https://luma.com/js2bjm2y",
-          "fetchedAt": "2026-09-29T19:48:04.755Z",
-          "sha256": "835b83da71a63b05681c87c10b7385a5fc7e4e7c199d29ff248db9b372f43ee0"
-        }
-      ]
-    }
-  },
-  {
     "id": "token2049-evt-03NqHNdVoqOAv0U",
     "name": "Solana Huddle",
     "description": "Solana Huddle is scheduled for 6 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by Pudgy Penguins, Divinefallacy, Symphony Young.\n\nRegistration requires host approval. Registration is listed as free.",
@@ -15198,72 +14623,6 @@
           "url": "https://luma.com/dd8728yc",
           "fetchedAt": "2026-09-29T19:48:09.299Z",
           "sha256": "be65894378b32b5613101964de9517d47652babd1b6d17cd73d98ba37740973f"
-        }
-      ]
-    }
-  },
-  {
-    "id": "token2049-evt-kt7ZI4H2Gn4m4Ql",
-    "name": "AI & Web3 Networking Heist",
-    "description": "AI & Web3 Networking Heist is scheduled for 5 October 2026 at 11:00 (Asia/Singapore) in Singapore. Hosted by Divyesh Gupta.\n\nAI & Web3 Networking Heist brings together founders, entrepreneurs, builders, investors, developers, and technology leaders to discuss what’s being built, what’s changing, and where AI and Web3 are heading next.\n\nRegistration requires host approval. Registration is listed as free.",
-    "startDate": "2026-10-05T03:00:00.000Z",
-    "location": "Foura (Gardens By The Bay), 18 Marina Gardens Dr, #01-23 IMBA Theatre, Singapore 018953",
-    "url": "https://luma.com/bg9x3kjw",
-    "registrationUrl": "https://luma.com/bg9x3kjw",
-    "coverImage": "/events/token2049-evt-kt7zi4h2gn4m4ql-ba576ec8.webp",
-    "endDate": "2026-10-05T05:00:00.000Z",
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "city": "Singapore",
-    "country": "Singapore",
-    "venueName": "Foura (Gardens By The Bay)",
-    "streetAddress": "18 Marina Gardens Dr, #01-23 IMBA Theatre, Singapore",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "neighborhood": "Central Area",
-    "coordinates": {
-      "latitude": 1.283323,
-      "longitude": 103.86213869999999
-    },
-    "hosts": [
-      "Divyesh Gupta"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/bg9x3kjw",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/bg9x3kjw",
-      "eventId": "evt-kt7ZI4H2Gn4m4Ql",
-      "fetchedAt": "2026-09-29T19:48:10.434Z",
-      "method": "luma-api"
-    },
-    "slug": "ai-web3",
-    "source": "token2049-verified",
-    "sideEventFor": [
-      "token2049"
-    ],
-    "token2049SideEvent": true,
-    "descriptionSource": {
-      "url": "https://luma.com/bg9x3kjw",
-      "fetchedAt": "2026-09-29T19:48:10.434Z",
-      "method": "matched-organizer-record",
-      "pageTitle": "AI & Web3 Networking Heist",
-      "sha256": "fe2135b97698334099f5e56742ccd1d71f6dd411d150fbaedb878ca78d967eaf",
-      "evidence": [
-        {
-          "url": "https://luma.com/bg9x3kjw",
-          "fetchedAt": "2026-09-29T19:48:10.434Z",
-          "sha256": "2718b6eaf1d33a5986f9393ad6094c499669cf69e108821b2776cb329e760b29"
         }
       ]
     }
@@ -16480,6 +15839,336 @@
           "url": "https://luma.com/y586ohae",
           "fetchedAt": "2026-10-24T14:47:20.616Z",
           "sha256": "5be2844e8ac93418b6267f4b80fc5e8ed297c56bab3786d28544422f28b2e936"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-C1gxjRKWyH9xmZe",
+    "name": "Get Down For Real",
+    "description": "Get Down For Real is scheduled for 5 November 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.\n\nSoundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-11-05T14:30:00.000Z",
+    "location": "Avenue Lounge, 10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore 018956",
+    "url": "https://luma.com/jn1ajcsy",
+    "registrationUrl": "https://luma.com/jn1ajcsy",
+    "coverImage": "/events/token2049-evt-c1gxjrkwyh9xmze-ff371ecd.webp",
+    "endDate": "2026-11-05T17:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Avenue Lounge",
+    "streetAddress": "10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Central Area",
+    "coordinates": {
+      "latitude": 1.2851522,
+      "longitude": 103.8605316
+    },
+    "hosts": [],
+    "organizer": {
+      "type": "Organization",
+      "name": "2049 Events",
+      "url": "https://asiaweb3aiassociation.org/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/jn1ajcsy",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/jn1ajcsy",
+      "eventId": "evt-C1gxjRKWyH9xmZe",
+      "fetchedAt": "2026-11-02T19:33:18.534Z",
+      "method": "luma-api"
+    },
+    "slug": "get-down-real2",
+    "source": "token2049-verified",
+    "descriptionSource": {
+      "url": "https://luma.com/jn1ajcsy",
+      "fetchedAt": "2026-11-02T19:33:18.534Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Get Down For Real",
+      "sha256": "6a8665f26c9ceb21d6de5187bb20d305f59f31cd45086dba0e67344bd84064da",
+      "evidence": [
+        {
+          "url": "https://luma.com/jn1ajcsy",
+          "fetchedAt": "2026-11-02T19:33:18.534Z",
+          "sha256": "fef3e1f648f0ef99fa969586f678326116300c81db1097143e67bd59e551f689"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-WfCQCLKJaYQzDW4",
+    "name": "Get Down For Real",
+    "description": "Get Down For Real is scheduled for 12 November 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.\n\nSoundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-11-12T14:30:00.000Z",
+    "location": "Avenue Lounge, 10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore 018956",
+    "url": "https://luma.com/wacw4gtv",
+    "registrationUrl": "https://luma.com/wacw4gtv",
+    "coverImage": "/events/token2049-evt-wfcqclkjayqzdw4-8cb19ee1.webp",
+    "endDate": "2026-11-12T17:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Avenue Lounge",
+    "streetAddress": "10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Central Area",
+    "coordinates": {
+      "latitude": 1.2851522,
+      "longitude": 103.8605316
+    },
+    "hosts": [],
+    "organizer": {
+      "type": "Organization",
+      "name": "2049 Events",
+      "url": "https://asiaweb3aiassociation.org/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/wacw4gtv",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/wacw4gtv",
+      "eventId": "evt-WfCQCLKJaYQzDW4",
+      "fetchedAt": "2026-11-02T19:33:18.480Z",
+      "method": "luma-api"
+    },
+    "slug": "get-down-real3",
+    "source": "token2049-verified",
+    "descriptionSource": {
+      "url": "https://luma.com/wacw4gtv",
+      "fetchedAt": "2026-11-02T19:33:18.480Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Get Down For Real",
+      "sha256": "2bff77ed86e804a08699d2fab258e69c39f7736d81db5ee733138f00ce50782e",
+      "evidence": [
+        {
+          "url": "https://luma.com/wacw4gtv",
+          "fetchedAt": "2026-11-02T19:33:18.480Z",
+          "sha256": "ce2d55b1e4aace115868738c9f112b892349357ffe6c85f3d3220acdbce0ac12"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-w1Dt8n6KOOiWo6K",
+    "name": "Get Down For Real",
+    "description": "Get Down For Real is scheduled for 19 November 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.\n\nSoundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-11-19T14:30:00.000Z",
+    "location": "Avenue Lounge, 10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore 018956",
+    "url": "https://luma.com/e3w6b50m",
+    "registrationUrl": "https://luma.com/e3w6b50m",
+    "coverImage": "/events/token2049-evt-w1dt8n6kooiwo6k-9c148896.webp",
+    "endDate": "2026-11-19T17:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Avenue Lounge",
+    "streetAddress": "10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Central Area",
+    "coordinates": {
+      "latitude": 1.2851522,
+      "longitude": 103.8605316
+    },
+    "hosts": [],
+    "organizer": {
+      "type": "Organization",
+      "name": "2049 Events",
+      "url": "https://asiaweb3aiassociation.org/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/e3w6b50m",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/e3w6b50m",
+      "eventId": "evt-w1Dt8n6KOOiWo6K",
+      "fetchedAt": "2026-11-02T19:33:19.556Z",
+      "method": "luma-api"
+    },
+    "slug": "get-down-real4",
+    "source": "token2049-verified",
+    "descriptionSource": {
+      "url": "https://luma.com/e3w6b50m",
+      "fetchedAt": "2026-11-02T19:33:19.556Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Get Down For Real",
+      "sha256": "16371f631bc90ebd2886e165155cd40911b7a5ca860131e80eec7e9efdc219d0",
+      "evidence": [
+        {
+          "url": "https://luma.com/e3w6b50m",
+          "fetchedAt": "2026-11-02T19:33:19.556Z",
+          "sha256": "056d6dbcf5ec237d7c39debcc52287b5714c7450ae31117eb822eda05848bcd1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-hibdrdDywIqLsxW",
+    "name": "Founder & Venture Networking Night @ Fintech Week 🚀",
+    "description": "Founder & Venture Networking Night @ Fintech Week 🚀 is scheduled for 20 November 2026 at 15:30 (Asia/Singapore) in Singapore. Hosted by Asia Web3 Ai Association (AWAA).\n\n3:30 - 4:00 PM: Registration\n\n4:30 - 4:45 PM: Welcoming Remarks\n\n4:45 - 5:15 PM: BCC Studio Key Note Presentation\n\n5:15 - 6:30 PM: Food & Drinks & Networking\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
+    "startDate": "2026-11-20T07:30:00.000Z",
+    "location": "Singapore, Singapore",
+    "url": "https://luma.com/ivpr3wve",
+    "registrationUrl": "https://luma.com/ivpr3wve",
+    "coverImage": "/events/token2049-evt-hibdrddywiqlsxw-1593d80a.webp",
+    "endDate": "2026-11-20T10:30:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Singapore",
+    "country": "Singapore",
+    "hosts": [
+      "Asia Web3 Ai Association (AWAA)"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Asia Web3 Ai Association (AWAA)",
+      "url": "https://asiaweb3aiassociation.org/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "VIP Invite",
+        "url": "https://luma.com/ivpr3wve",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "Venture Ticket",
+        "url": "https://luma.com/ivpr3wve",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "Founder Ticket",
+        "url": "https://luma.com/ivpr3wve",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/ivpr3wve",
+      "eventId": "evt-hibdrdDywIqLsxW",
+      "fetchedAt": "2026-11-02T19:33:19.278Z",
+      "method": "luma-api"
+    },
+    "slug": "founder-venture",
+    "source": "token2049-verified",
+    "descriptionSource": {
+      "url": "https://luma.com/ivpr3wve",
+      "fetchedAt": "2026-11-02T19:33:19.278Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Founder & Venture Networking Night @ Fintech Week 🚀",
+      "sha256": "4f90111d8873a6ec6fd2240034fe3d1cc5d5d3c311330edca6fcb35ed02a69ec",
+      "evidence": [
+        {
+          "url": "https://luma.com/ivpr3wve",
+          "fetchedAt": "2026-11-02T19:33:19.278Z",
+          "sha256": "464a282af6a81ba44f921121b726dc229332e776d435b9058a3b63946b2dc870"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-Jaa6PcGwwk21efW",
+    "name": "Get Down For Real",
+    "description": "Get Down For Real is scheduled for 26 November 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.\n\nSoundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-11-26T14:30:00.000Z",
+    "location": "Avenue Lounge, 10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore 018956",
+    "url": "https://luma.com/rfmu8am6",
+    "registrationUrl": "https://luma.com/rfmu8am6",
+    "coverImage": "/events/token2049-evt-jaa6pcgwwk21efw-37958b4b.webp",
+    "endDate": "2026-11-26T17:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Avenue Lounge",
+    "streetAddress": "10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Central Area",
+    "coordinates": {
+      "latitude": 1.2851522,
+      "longitude": 103.8605316
+    },
+    "hosts": [],
+    "organizer": {
+      "type": "Organization",
+      "name": "2049 Events",
+      "url": "https://asiaweb3aiassociation.org/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/rfmu8am6",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/rfmu8am6",
+      "eventId": "evt-Jaa6PcGwwk21efW",
+      "fetchedAt": "2026-11-02T19:33:20.182Z",
+      "method": "luma-api"
+    },
+    "slug": "get-down-real5",
+    "source": "token2049-verified",
+    "descriptionSource": {
+      "url": "https://luma.com/rfmu8am6",
+      "fetchedAt": "2026-11-02T19:33:20.182Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Get Down For Real",
+      "sha256": "7713a591a1ee50bbe259f54f6782385c45d0511b673389bc68ee0655a07a456e",
+      "evidence": [
+        {
+          "url": "https://luma.com/rfmu8am6",
+          "fetchedAt": "2026-11-02T19:33:20.182Z",
+          "sha256": "0bddc680dc0c6c8fd83e7251707a281627846db0d0cd67c1de3de0c810062d1e"
         }
       ]
     }

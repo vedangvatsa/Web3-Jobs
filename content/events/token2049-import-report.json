@@ -1,39 +1,57 @@
 {
-  "checkedAt": "2026-10-29T03:35:06.261Z",
+  "checkedAt": "2026-11-04T07:43:28.322Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
-    "https://luma.com/2049events": 4,
+    "https://luma.com/2049events": 7,
     "https://luma.com/singaporesideevents": 0,
     "https://week.token2049.com": 601,
     "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view": 600,
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 240,
-    "excluded": 370,
+    "existing": 233,
+    "excluded": 371,
     "needs-review": 39
   },
-  "importedTotal": 257,
+  "importedTotal": 251,
   "added": [],
   "receipts": [
     {
-      "url": "https://luma.com/tw82xsrs",
+      "url": "https://luma.com/jn1ajcsy",
       "name": "Get Down For Real",
       "sources": [
         "https://luma.com/2049events"
       ],
       "status": "existing",
-      "slug": "get-down-for"
+      "slug": "get-down-real2"
     },
     {
-      "url": "https://luma.com/fazra9qw",
-      "name": "Plug and Play APAC Summit",
+      "url": "https://luma.com/wacw4gtv",
+      "name": "Get Down For Real",
       "sources": [
         "https://luma.com/2049events"
       ],
       "status": "existing",
-      "slug": "plug-play"
+      "slug": "get-down-real3"
+    },
+    {
+      "url": "https://luma.com/e3w6b50m",
+      "name": "Get Down For Real",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "existing",
+      "slug": "get-down-real4"
+    },
+    {
+      "url": "https://luma.com/ivpr3wve",
+      "name": "Founder & Venture Networking Night @ Fintech Week 🚀",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "existing",
+      "slug": "founder-venture"
     },
     {
       "url": "https://luma.com/n6e4pmtn",
@@ -43,6 +61,15 @@
       ],
       "status": "existing",
       "slug": "fcsy"
+    },
+    {
+      "url": "https://luma.com/rfmu8am6",
+      "name": "Get Down For Real",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "existing",
+      "slug": "get-down-real5"
     },
     {
       "url": "https://luma.com/y586ohae",
@@ -86,17 +113,6 @@
       "slug": "day-one"
     },
     {
-      "url": "https://luma.com/6bv4rjiv",
-      "name": "Coffee & Credentials",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "coffee-credentials"
-    },
-    {
       "url": "https://luma.com/dd8728yc",
       "name": "Web3TV Interview Feature With Singapore Blockchain Week - Day 1",
       "sources": [
@@ -127,17 +143,6 @@
       ],
       "status": "existing",
       "slug": "lphym"
-    },
-    {
-      "url": "https://luma.com/av3tpir8",
-      "name": "Meet Up",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "pre-token2049"
     },
     {
       "url": "https://luma.com/v8dfyohz",
@@ -1983,17 +1988,6 @@
       "slug": "vlr"
     },
     {
-      "url": "https://luma.com/bg9x3kjw",
-      "name": "AI & Web3 Networking Heist",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "ai-web3"
-    },
-    {
       "url": "https://luma.com/circolo-kvry",
       "name": "Coffee Tasting (Circolo Life)",
       "sources": [
@@ -2348,42 +2342,6 @@
       "slug": "michelininvest-dinner"
     },
     {
-      "url": "https://luma.com/luhstckd",
-      "name": "GPs × LPs Pickleball | By Invitation · SuperReturn Singapore 2026",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "gps-lps"
-    },
-    {
-      "url": "https://luma.com/rz5lut2r",
-      "name": "Get Down For Real",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "get-down"
-    },
-    {
-      "url": "https://luma.com/fumtr19i",
-      "name": "Founders & Funds, Paddle Cup",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "founders-funds"
-    },
-    {
-      "url": "https://luma.com/paddlecup-pitchfest",
-      "name": "Founders & Funds: Paddle Cup",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "founders-funds"
-    },
-    {
       "url": "https://luma.com/HaseebQureshi",
       "name": "Opening Morning Chat with Haseeb Qureshi 🇸🇬 (In Person)",
       "sources": [
@@ -2483,24 +2441,6 @@
       "slug": "private-trading"
     },
     {
-      "url": "https://informaconnect.com/superreturnasia",
-      "name": "SuperReturn Asia",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "superreturn-asia"
-    },
-    {
-      "url": "https://informaconnect.com/fundforumasia",
-      "name": "FundForum Asia",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "fundforum-asia"
-    },
-    {
       "url": "https://www.hyperliquidforum.com",
       "name": "Hyperliquid Forum",
       "sources": [
@@ -2517,15 +2457,6 @@
       ],
       "status": "existing",
       "slug": "days"
-    },
-    {
-      "url": "https://www.singaporetechnologyweek.com",
-      "name": "Singapore Tech Week",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "tech-week"
     },
     {
       "url": "https://megatix.com.sg/events/after2049",
@@ -2593,8 +2524,8 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/0g-devday-2026",
-      "name": "0G Dev Day: ZERO TO INFINITY",
+      "url": "https://luma.com/6bv4rjiv",
+      "name": "Coffee & Credentials",
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
@@ -2604,11 +2535,12 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/8tn5529r",
-      "name": "WIBA Breakfast",
+      "url": "https://luma.com/0g-devday-2026",
+      "name": "0G Dev Day: ZERO TO INFINITY",
       "sources": [
         "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
@@ -2716,6 +2648,17 @@
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
+      "url": "https://luma.com/av3tpir8",
+      "name": "Meet Up",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
@@ -5847,6 +5790,17 @@
       "reason": "Primary source event has ended"
     },
     {
+      "url": "https://luma.com/bg9x3kjw",
+      "name": "AI & Web3 Networking Heist",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
       "url": "https://luma.com/dfu8hhvi?tk=OF5qCA",
       "name": "What Comes After Tokenized Stocks",
       "sources": [
@@ -6304,15 +6258,6 @@
       "name": "1 Oct: A Programmable Economy at the Speed of AI with Vitalik Buterin",
       "sources": [
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://arbitrum-singapore.hackquest.io",
-      "name": "Arbitrum HackHouse",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"

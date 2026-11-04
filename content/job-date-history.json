@@ -1468,9 +1468,16 @@
     "dateSource": "Greenhouse.first_published"
   },
   "breezy:bitdeer.breezy.hr:d88429072644": {
-    "date": "2026-10-06T21:50:14.265Z",
-    "dateVerified": false,
-    "dateSource": "Breezy.API-republication-unverified"
+    "date": "2026-10-06",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/d88429072644-mechanical-engineer-smt-manufacturing",
+      "checkedAt": "2026-11-03T01:45:48.904Z",
+      "bodySha256": "cf013a1e4a2a127a5d668b49a36879c3ecda8dd8299bb983322c39885c31bd69",
+      "provider": "breezy",
+      "datePosted": "2026-10-06"
+    }
   },
   "greenhouse:8158086": {
     "date": "2026-10-06T17:44:09-04:00",
@@ -29253,12 +29260,14 @@
     "dateSource": "Greenhouse.first_published"
   },
   "https://careers.kula.ai/relay/59319": {
-    "date": "2026-10-16T16:01:55.000Z",
-    "dateVerified": true
+    "date": "2026-10-01T15:50:11.000Z",
+    "dateVerified": true,
+    "dateSource": "Kula.Job.launch_at"
   },
   "https://careers.kula.ai/relay/54803": {
-    "date": "2026-10-16T16:01:54.000Z",
-    "dateVerified": true
+    "date": "2026-09-21T20:48:27.000Z",
+    "dateVerified": true,
+    "dateSource": "Kula.Job.launch_at"
   },
   "https://careers.kula.ai/relay/53261": {
     "date": "2026-10-16T16:01:53.000Z",
@@ -29269,16 +29278,18 @@
     "dateVerified": true
   },
   "https://careers.kula.ai/relay/51288": {
-    "date": "2026-10-16T16:01:51.000Z",
-    "dateVerified": true
+    "date": "2026-05-15T00:00:00.000Z",
+    "dateVerified": true,
+    "dateSource": "Kula.Job.launch_at"
   },
   "https://careers.kula.ai/relay/52725": {
     "date": "2026-10-16T16:01:51.000Z",
     "dateVerified": true
   },
   "https://careers.kula.ai/relay/50053": {
-    "date": "2026-10-16T16:01:49.000Z",
-    "dateVerified": true
+    "date": "2026-07-01T13:00:00.000Z",
+    "dateVerified": true,
+    "dateSource": "Kula.Job.launch_at"
   },
   "https://jobs.solana.com/companies/temporal-2-0e59b0f4-74c3-42dc-8847-5e62e8055075/jobs/97264636-senior-product-engineer": {
     "date": "2026-10-16T20:05:23.000Z",
@@ -29766,12 +29777,14 @@
     "dateVerified": true
   },
   "https://careers.kula.ai/relay/62220": {
-    "date": "2026-10-17T12:33:19.000Z",
-    "dateVerified": true
+    "date": "2026-10-13T16:46:17.000Z",
+    "dateVerified": true,
+    "dateSource": "Kula.Job.launch_at"
   },
   "https://careers.kula.ai/relay/62219": {
-    "date": "2026-10-17T12:33:19.000Z",
-    "dateVerified": true
+    "date": "2026-10-13T16:45:42.000Z",
+    "dateVerified": true,
+    "dateSource": "Kula.Job.launch_at"
   },
   "greenhouse:5455767008": {
     "date": "2026-10-17T11:27:17.000Z",
@@ -33967,8 +33980,9 @@
     "dateVerified": true
   },
   "https://careers.kula.ai/relay/62222": {
-    "date": "2026-10-28T12:37:24.000Z",
-    "dateVerified": true
+    "date": "2026-10-13T16:47:25.000Z",
+    "dateVerified": true,
+    "dateSource": "Kula.Job.launch_at"
   },
   "https://jobs.solana.com/companies/symmetry/jobs/98159336-product-managerurgente": {
     "date": "2026-10-28T13:42:07.000Z",
@@ -34562,5 +34576,3536 @@
   "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/Senior-Accountant_JR2001265-1": {
     "date": "2026-07-17",
     "dateVerified": true
+  },
+  "https://www.comeet.com/jobs/hypernative/8A.00E/backend-infrastructure--data-engineer/2A.B5C": {
+    "date": "2026-10-08T14:28:58Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted"
+  },
+  "https://www.comeet.com/jobs/hypernative/8A.00E/be-rd-team-lead/00.463": {
+    "date": "2026-10-08T14:29:05Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted"
+  },
+  "https://www.comeet.com/jobs/hypernative/8A.00E/business-development-executive---emea/58.372": {
+    "date": "2026-10-22T11:05:35Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted"
+  },
+  "https://www.comeet.com/jobs/hypernative/8A.00E/fpa-analyst/E3.47D": {
+    "date": "2026-10-28T09:29:03Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted"
+  },
+  "https://www.comeet.com/jobs/hypernative/8A.00E/security-research-engineer/81.262": {
+    "date": "2026-10-08T14:29:19Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted"
+  },
+  "https://www.comeet.com/jobs/hypernative/8A.00E/senior-account-executive---emea/DB.F5E": {
+    "date": "2026-10-23T09:32:11Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted"
+  },
+  "https://www.comeet.com/jobs/hypernative/8A.00E/senior-account-executive-us/36.F6E": {
+    "date": "2026-10-23T09:31:10Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted"
+  },
+  "https://www.comeet.com/jobs/hypernative/8A.00E/senior-full-stack-engineer/2A.B5B": {
+    "date": "2026-10-08T14:29:42Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted"
+  },
+  "https://www.comeet.com/jobs/hypernative/8A.00E/senior-security-solutions-engineer/21.F6B": {
+    "date": "2026-10-22T13:54:55Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted"
+  },
+  "https://www.comeet.com/jobs/hypernative/8A.00E/senior-software-engineer---detection/D1.D61": {
+    "date": "2026-09-27T09:06:27Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted"
+  },
+  "https://www.comeet.com/jobs/hypernative/8A.00E/solution-engineer---us/34.47F": {
+    "date": "2026-10-26T14:01:11Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted"
+  },
+  "https://www.comeet.com/jobs/hypernative/8A.00E/vp-sales-of-apac/A2.271": {
+    "date": "2026-10-08T14:31:20Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted"
+  },
+  "ashby:231a36db-b487-4fb7-b8aa-b861778a288a": {
+    "date": "2026-10-29T11:29:08.659+00:00",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/ondo-finance/jobs/98311966-director-of-business-development-latam": {
+    "date": "2026-10-29T11:55:05.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/ondo-finance/jobs/98353447-senior-ux-researcher-quantitative": {
+    "date": "2026-10-29T11:55:05.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/veryai-2-80ddb347-bec3-4a7f-a703-a177e5173a37/jobs/98307051-senior-engineer": {
+    "date": "2026-10-29T11:55:05.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/98265609-kast-fellow": {
+    "date": "2026-10-29T11:55:05.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:5020274101": {
+    "date": "2026-10-29T05:27:32-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "ashby:d40eda63-0bda-4559-8f0d-fc275c6760ea": {
+    "date": "2026-10-29T11:51:52.000Z",
+    "dateVerified": true
+  },
+  "ashby:7594d737-5744-49e6-b9d4-1154d080d954": {
+    "date": "2026-10-29T11:51:52.000Z",
+    "dateVerified": true
+  },
+  "ashby:28c03346-c659-4f7d-8a35-5b6467ff717c": {
+    "date": "2026-10-29T11:51:52.000Z",
+    "dateVerified": true
+  },
+  "ashby:4e479e29-9ddf-4ef0-822a-105dff0eb1e8": {
+    "date": "2026-10-29T11:51:52.000Z",
+    "dateVerified": true
+  },
+  "ashby:1d2e246c-bef2-48d1-aaf4-789120921851": {
+    "date": "2026-10-29T11:51:52.000Z",
+    "dateVerified": true
+  },
+  "ashby:7db491a6-5adc-443c-8513-f4c0743178c7": {
+    "date": "2026-10-29T11:51:51.000Z",
+    "dateVerified": true
+  },
+  "ashby:7c950821-e4b2-4eeb-a73a-989456d55aa6": {
+    "date": "2026-10-29T11:51:51.000Z",
+    "dateVerified": true
+  },
+  "ashby:a3b40100-cb00-41cb-ac93-fe81bd614c9d": {
+    "date": "2026-10-29T11:51:51.000Z",
+    "dateVerified": true
+  },
+  "ashby:fbbe6b53-4c75-4d8a-badb-73e547176152": {
+    "date": "2026-10-29T11:51:51.000Z",
+    "dateVerified": true
+  },
+  "https://durianpay.kantorku.id/job/associate-security-operations-analyst": {
+    "date": "2026-10-29T13:06:47.000Z",
+    "dateVerified": true
+  },
+  "https://durianpay.kantorku.id/job/business-intelligence-senior-associate": {
+    "date": "2026-10-29T13:06:47.000Z",
+    "dateVerified": true
+  },
+  "workable:faff83abd3": {
+    "date": "2026-10-29T13:04:16.000Z",
+    "dateVerified": true
+  },
+  "https://careers.circle.com/us/en/job/JR101193": {
+    "date": "2026-10-29T12:03:36.000Z",
+    "dateVerified": true
+  },
+  "https://careers.circle.com/us/en/job/JR101194": {
+    "date": "2026-10-29T12:03:35.000Z",
+    "dateVerified": true
+  },
+  "https://careers.circle.com/us/en/job/JR101187": {
+    "date": "2026-10-29T12:03:35.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8333165": {
+    "date": "2026-10-29T02:02:17-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "https://morpho.org/jobs/ashby-account-manager-8d24e3a6-a509-48d8-bc17-0894c252fcb2": {
+    "date": "2026-10-29T13:00:40.000Z",
+    "dateVerified": true
+  },
+  "https://morpho.org/jobs/ashby-senior-it-engineer-ad373640-b44e-4a28-8886-013431e9cdec": {
+    "date": "2026-10-29T13:00:40.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:5466785008": {
+    "date": "2026-10-29T12:04:17.000Z",
+    "dateVerified": true
+  },
+  "ashby:7ac3f3d8-c1a9-4c0f-b100-536341a9c922": {
+    "date": "2026-10-29T11:49:11.000Z",
+    "dateVerified": true
+  },
+  "https://careers.kula.ai/relay/62221": {
+    "date": "2026-10-13T16:46:48.000Z",
+    "dateVerified": true,
+    "dateSource": "Kula.Job.launch_at"
+  },
+  "https://careers.kast.xyz/en/postings/1c06354b-fa0e-4124-baf1-e4b16f142e85": {
+    "date": "2026-10-29T11:30:11.000Z",
+    "dateVerified": true
+  },
+  "lever:4eedfc5b-c5a3-4800-be41-d0ed14f6d86f": {
+    "date": "2026-10-29T11:36:27.399Z",
+    "dateVerified": true
+  },
+  "ashby:d7a70d6a-cd39-4595-9f4a-2c76f5d7c819": {
+    "date": "2026-10-29T11:34:30.000Z",
+    "dateVerified": true
+  },
+  "ashby:1f2542f3-4cb1-417a-8661-d0a52515d34c": {
+    "date": "2026-10-29T11:34:30.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8046890003": {
+    "date": "2026-10-29T16:44:09-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8046894003": {
+    "date": "2026-10-29T16:44:18-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8330795": {
+    "date": "2026-10-29T01:12:26-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8316059": {
+    "date": "2026-10-29T19:17:22-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8330813": {
+    "date": "2026-10-29T19:01:58-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8286685": {
+    "date": "2026-10-29T10:58:35-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8318707": {
+    "date": "2026-10-29T05:14:34-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8330791": {
+    "date": "2026-10-29T18:43:33-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8311735": {
+    "date": "2026-10-29T09:45:37-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8330801": {
+    "date": "2026-10-29T23:01:23-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8212672": {
+    "date": "2026-10-29T14:50:03-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8329743": {
+    "date": "2026-10-29T17:38:16-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8326577": {
+    "date": "2026-10-29T10:10:24-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8326191": {
+    "date": "2026-10-29T15:28:22-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8326189": {
+    "date": "2026-10-29T15:28:26-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8203201": {
+    "date": "2026-10-29T10:18:28-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8260982": {
+    "date": "2026-10-23T12:19:34-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8332821": {
+    "date": "2026-10-29T10:16:01-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8335796": {
+    "date": "2026-10-29T20:57:31-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8334152": {
+    "date": "2026-10-29T11:30:34-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8333981": {
+    "date": "2026-10-29T10:58:36-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8333273": {
+    "date": "2026-10-29T07:39:06-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8334157": {
+    "date": "2026-10-29T11:37:35-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8334234": {
+    "date": "2026-10-29T14:31:15-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8335547": {
+    "date": "2026-10-29T18:43:45-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8331714": {
+    "date": "2026-10-29T19:44:07-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8289327": {
+    "date": "2026-10-29T16:54:11-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8335168": {
+    "date": "2026-10-29T16:31:44-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:7982640": {
+    "date": "2026-06-04T11:57:43-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8077370": {
+    "date": "2026-08-13T15:12:33-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8332458": {
+    "date": "2026-10-29T15:39:59-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8324648": {
+    "date": "2026-10-29T11:20:17-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8334429": {
+    "date": "2026-10-29T13:52:47-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8265786": {
+    "date": "2026-10-29T13:24:48-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5616144": {
+    "date": "2024-01-22T19:26:13-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8334532": {
+    "date": "2026-10-29T13:12:42-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5467200008": {
+    "date": "2026-10-29T13:51:35-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5467197008": {
+    "date": "2026-10-29T13:51:19-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5467189008": {
+    "date": "2026-10-29T13:27:30-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5461961008": {
+    "date": "2026-10-29T16:54:13-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5467707008": {
+    "date": "2026-10-29T20:30:41-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6238219004": {
+    "date": "2026-10-29T06:05:36-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6238470004": {
+    "date": "2026-10-29T12:55:33-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6238465004": {
+    "date": "2026-10-29T12:49:45-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6238217004": {
+    "date": "2026-10-29T06:02:51-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8093059003": {
+    "date": "2026-10-29T23:08:30-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8091184003": {
+    "date": "2026-10-29T21:52:45-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:7691998003": {
+    "date": "2026-04-07T06:57:53-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8066179003": {
+    "date": "2026-10-29T03:19:19-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8071912003": {
+    "date": "2026-10-29T06:55:13-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8071743003": {
+    "date": "2026-10-29T06:55:11-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8071296003": {
+    "date": "2026-10-29T06:27:15-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8071200003": {
+    "date": "2026-10-29T06:27:13-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8069473003": {
+    "date": "2026-10-29T05:07:24-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8089223003": {
+    "date": "2026-10-29T20:14:39-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8089237003": {
+    "date": "2026-10-29T20:15:19-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8087931003": {
+    "date": "2026-10-29T19:16:34-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4749008005": {
+    "date": "2026-10-29T15:43:23-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4749057005": {
+    "date": "2026-10-29T16:35:33-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6238590004": {
+    "date": "2026-10-29T14:29:56-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6238868004": {
+    "date": "2026-10-29T16:08:13-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6238284004": {
+    "date": "2026-10-29T14:48:57-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:981628": {
+    "date": "2026-06-22T05:55:23-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8333973": {
+    "date": "2026-10-29T11:11:12-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "lever:f7e499db-04ef-487c-b097-7a5c113f0bba": {
+    "date": "2026-10-29T16:34:00.458Z",
+    "dateVerified": true
+  },
+  "lever:c2582588-49e0-4a92-b618-8d3e5286aec3": {
+    "date": "2026-10-29T22:32:05.536Z",
+    "dateVerified": true
+  },
+  "ashby:393db694-2537-4343-b2bb-03cd369f3d94": {
+    "date": "2026-10-29T12:30:24.937+00:00",
+    "dateVerified": true
+  },
+  "ashby:3a947740-84c3-43d8-80cb-870399eb637d": {
+    "date": "2026-10-29T12:30:58.552+00:00",
+    "dateVerified": true
+  },
+  "ashby:d2d0a311-b102-4fda-b537-1a8e926b55c7": {
+    "date": "2026-10-29T15:23:32.489+00:00",
+    "dateVerified": true
+  },
+  "ashby:6b46ce15-7e6b-4213-9eb4-41cc64577e24": {
+    "date": "2026-10-29T13:05:01.114+00:00",
+    "dateVerified": true
+  },
+  "ashby:990a52f7-77f8-43ee-9cdc-1f930eb6a945": {
+    "date": "2026-10-30T03:05:20.887+00:00",
+    "dateVerified": true
+  },
+  "ashby:2aafaa5c-11db-4dde-b567-39709479e0cc": {
+    "date": "2026-10-29T13:57:46.992+00:00",
+    "dateVerified": true
+  },
+  "ashby:f367c81e-aa74-4e09-8838-a9816178ae48": {
+    "date": "2026-10-29T13:04:59.727+00:00",
+    "dateVerified": true
+  },
+  "ashby:c463c363-b2e2-425f-bc7f-332a53955ded": {
+    "date": "2026-10-29T14:03:57.836+00:00",
+    "dateVerified": true
+  },
+  "ashby:dd612889-7e10-4f9a-bcb0-fae2ec26ed66": {
+    "date": "2026-10-29T18:50:51.893+00:00",
+    "dateVerified": true
+  },
+  "ashby:ff286fc8-8890-497e-9792-c51a283f167d": {
+    "date": "2026-10-29T09:42:05.697+00:00",
+    "dateVerified": true
+  },
+  "ashby:3dc0be0b-2db8-47b5-b81d-2f79cb0eeb2d": {
+    "date": "2026-10-29T17:31:35.279+00:00",
+    "dateVerified": true
+  },
+  "ashby:bd016cd2-e4a6-40f2-a44b-91946533985a": {
+    "date": "2026-10-29T19:45:16.225+00:00",
+    "dateVerified": true
+  },
+  "ashby:303b5c3d-ede9-4b3f-abba-ea1e3a5f2464": {
+    "date": "2026-10-29T19:45:18.081+00:00",
+    "dateVerified": true
+  },
+  "ashby:356c681c-d5b9-4078-8530-d29520987a34": {
+    "date": "2026-10-29T22:38:18.202+00:00",
+    "dateVerified": true
+  },
+  "ashby:5aa7e212-37a1-4743-8e04-76d879c71778": {
+    "date": "2026-10-30T02:53:41.152+00:00",
+    "dateVerified": true
+  },
+  "ashby:fbba5535-fcc7-4350-ba81-6b6eeddb41c7": {
+    "date": "2026-10-29T15:15:39.097+00:00",
+    "dateVerified": true
+  },
+  "ashby:b03b9dc7-9655-4eda-b918-7acd3da2ffb0": {
+    "date": "2026-10-29T20:21:51.079+00:00",
+    "dateVerified": true
+  },
+  "ashby:5ce7afce-2a92-42dc-adf5-26baa4e8b904": {
+    "date": "2026-10-29T09:14:37.101+00:00",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/corporate-offsites-and-travel-manager-100-remote-3": {
+    "date": "2026-10-28T18:48:11Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/corporate-offsites-and-travel-manager-100-remote-1": {
+    "date": "2026-10-28T18:46:20Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/corporate-offsites-and-travel-manager-100-remote": {
+    "date": "2026-10-28T18:43:21Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-nodejs-software-engineer-holepunch-100-remote-worldwide-17": {
+    "date": "2026-10-26T15:18:28Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-nodejs-software-engineer-holepunch-100-remote-worldwide-16": {
+    "date": "2026-10-26T15:15:59Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-nodejs-software-engineer-holepunch-100-remote-worldwide-14": {
+    "date": "2026-10-26T15:11:12Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-nodejs-software-engineer-holepunch-100-remote-worldwide-15": {
+    "date": "2026-10-26T15:13:40Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-nodejs-software-engineer-holepunch-100-remote-worldwide-13": {
+    "date": "2026-10-26T15:09:42Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-underwriting-digital-asset-financing-5": {
+    "date": "2026-10-22T07:17:34Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-regulatory-affairs-europe-digital-assets-fintech-exposure": {
+    "date": "2026-10-24T12:38:12Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-underwriting-digital-asset-financing-4": {
+    "date": "2026-10-22T07:16:05Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-underwriting-digital-asset-financing-3": {
+    "date": "2026-10-22T07:14:46Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-underwriting-digital-asset-financing-1": {
+    "date": "2026-10-22T07:13:18Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-underwriting-digital-asset-financing": {
+    "date": "2026-10-22T07:11:35Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-engineering-lead-keet-100-remote-worldwide-12": {
+    "date": "2026-10-20T16:28:43Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-engineering-lead-keet-100-remote-worldwide-11": {
+    "date": "2026-10-20T16:27:17Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-engineering-lead-keet-100-remote-worldwide-10": {
+    "date": "2026-10-20T16:23:03Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-engineering-lead-keet-100-remote-worldwide-9": {
+    "date": "2026-10-20T16:21:30Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-engineering-lead-keet-100-remote-worldwide-8": {
+    "date": "2026-10-20T16:19:33Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-nodejs-software-engineer-holepunch-100-remote-worldwide-12": {
+    "date": "2026-10-16T12:28:24Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-global-events-and-travel-100-remote-2": {
+    "date": "2026-10-15T14:19:35Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-global-events-and-travel-100-remote-1": {
+    "date": "2026-10-15T14:18:18Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-financial-infrastructure-partnerships-expansion-digital-assets-expertise": {
+    "date": "2026-10-15T12:47:57Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/developer-productivity-engineer-100-remote-7": {
+    "date": "2026-10-15T12:07:13Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/developer-productivity-engineer-100-remote-6": {
+    "date": "2026-10-15T12:02:42Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/developer-productivity-engineer-100-remote-5": {
+    "date": "2026-10-15T12:01:28Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/developer-productivity-engineer-100-remote-4": {
+    "date": "2026-10-15T12:00:26Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/developer-productivity-engineer-100-remote-2": {
+    "date": "2026-10-15T11:58:25Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/developer-productivity-engineer-100-remote-3": {
+    "date": "2026-10-15T11:59:05Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/developer-productivity-engineer-100-remote-1": {
+    "date": "2026-10-15T11:57:09Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/developer-productivity-engineer-100-remote": {
+    "date": "2026-10-15T11:56:13Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/fullstack-engineer-agenticops-100-remote-15": {
+    "date": "2026-10-15T11:36:50Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/fullstack-engineer-agenticops-100-remote-13": {
+    "date": "2026-10-15T11:35:41Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/fullstack-engineer-agenticops-100-remote-12": {
+    "date": "2026-10-15T11:35:08Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/fullstack-engineer-agenticops-100-remote-14": {
+    "date": "2026-10-15T11:36:15Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/fullstack-engineer-agenticops-100-remote-16": {
+    "date": "2026-10-15T11:37:18Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/fullstack-engineer-agenticops-100-remote-10": {
+    "date": "2026-10-15T11:33:24Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/fullstack-engineer-agenticops-100-remote-11": {
+    "date": "2026-10-15T11:33:54Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/fullstack-engineer-agenticops-100-remote-9": {
+    "date": "2026-10-15T11:32:37Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/fullstack-engineer-agenticops-100-remote": {
+    "date": "2026-10-15T11:30:25Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/mobile-engineer-react-native-100-remote-4": {
+    "date": "2026-10-14T19:11:38Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/mobile-engineer-react-native-100-remote-3": {
+    "date": "2026-10-14T19:10:47Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/mobile-engineer-react-native-100-remote-2": {
+    "date": "2026-10-14T19:09:34Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/mobile-engineer-react-native-100-remote-1": {
+    "date": "2026-10-14T19:08:47Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/mobile-engineer-react-native-100-remote": {
+    "date": "2026-10-14T19:07:47Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/automation-qa-engineer-qvac-100-remote-eg": {
+    "date": "2026-10-14T18:29:30Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/automation-qa-engineer-qvac-100-remote-port": {
+    "date": "2026-10-14T18:25:23Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/automation-qa-engineer-qvac-100-remote-geo": {
+    "date": "2026-10-14T18:23:54Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/automation-qa-engineer-qvac-100-remote-uae": {
+    "date": "2026-10-14T18:22:17Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/automation-qa-engineer-qvac-100-remote-ind": {
+    "date": "2026-10-14T18:19:16Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/automation-qa-engineer-qvac-100-remote-sp": {
+    "date": "2026-10-14T18:17:52Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/automation-qa-engineer-qvac-internal-arg": {
+    "date": "2026-10-14T18:15:34Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/regulatory-affairs-licensing-expert-thailand-lead": {
+    "date": "2026-10-14T16:30:03Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-financial-infrastructure-expansion-digital-assets-expertise-4": {
+    "date": "2026-10-14T16:11:45Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-financial-infrastructure-expansion-digital-assets-expertise-3": {
+    "date": "2026-10-14T16:09:40Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-financial-infrastructure-partnerships-expansion-digital-assets-expertise-1": {
+    "date": "2026-10-14T16:08:56Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-harness-engineer-100-remote-worldwide-4": {
+    "date": "2026-10-14T16:05:41Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-harness-engineer-100-remote-worldwide-3": {
+    "date": "2026-10-14T16:04:13Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-financial-infrastructure-partnerships-expansion-digital-assets-expertise-2": {
+    "date": "2026-10-14T16:01:26Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/mobile-engineer-react-native-100-remote-worldwide": {
+    "date": "2026-10-14T13:59:25Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/frontend-desktop-engineer-nigeria": {
+    "date": "2026-10-14T13:27:17Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/frontend-desktop-engineer-sweden": {
+    "date": "2026-10-14T13:24:50Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/frontend-desktop-engineer-netherlands": {
+    "date": "2026-10-14T13:24:02Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/frontend-desktop-engineer-georgia": {
+    "date": "2026-10-14T13:19:59Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/frontend-desktop-engineer-romania": {
+    "date": "2026-10-14T13:19:15Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/frontend-desktop-engineer-armenia": {
+    "date": "2026-10-14T13:18:43Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/frontend-desktop-engineer-italy": {
+    "date": "2026-10-14T13:17:03Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/frontend-desktop-engineer-pakistan": {
+    "date": "2026-10-14T13:13:04Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/frontend-desktop-engineer-india": {
+    "date": "2026-10-14T13:12:04Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/frontend-desktop-engineer-colombia": {
+    "date": "2026-10-14T13:11:27Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/frontend-desktop-engineer-brazil": {
+    "date": "2026-10-14T13:10:43Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-filmmaker-100-remote-worldwide-1": {
+    "date": "2026-10-13T03:34:32Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/corporate-development-portfolio-manager-fintech-digital-assets-2": {
+    "date": "2026-10-12T14:59:17Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/corporate-development-portfolio-manager-fintech-digital-assets-3": {
+    "date": "2026-10-12T15:01:59Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/corporate-development-portfolio-manager-fintech-digital-assets-1": {
+    "date": "2026-10-12T14:53:32Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/frontend-desktop-engineer-internal": {
+    "date": "2026-10-12T14:20:25Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/frontend-desktop-engineer-100-remote-worldwide": {
+    "date": "2026-10-12T14:19:22Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-model-compression-quantization-zurich": {
+    "date": "2026-10-12T09:08:42Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/junior-project-manager-keet-p2p-100-remote-sp": {
+    "date": "2026-10-28T13:38:10Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/junior-project-manager-keet-p2p-100-remote-els": {
+    "date": "2026-10-09T22:22:15Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/junior-project-manager-keet-p2p-100-remote-col": {
+    "date": "2026-10-09T22:20:48Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/junior-project-manager-keet-p2p-100-remote-bra": {
+    "date": "2026-10-09T22:19:31Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/junior-project-manager-keet-p2p-100-remote-chile": {
+    "date": "2026-10-09T22:18:32Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/junior-project-manager-keet-p2p-100-remote-uru": {
+    "date": "2026-10-09T22:17:25Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/junior-project-manager-keet-p2p-internal-arg": {
+    "date": "2026-10-09T22:12:59Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-engineering-lead-qvac-100-remote-sw": {
+    "date": "2026-10-09T21:49:44Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-engineering-lead-qvac-100-remote-ire": {
+    "date": "2026-10-09T21:47:46Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-engineering-lead-qvac-100-remote-uae": {
+    "date": "2026-10-09T21:44:39Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-engineering-lead-qvac-100-remote-geo": {
+    "date": "2026-10-09T21:43:22Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-engineering-lead-qvac-100-remote-port": {
+    "date": "2026-10-09T21:42:16Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-engineering-lead-qvac-100-remote-sp": {
+    "date": "2026-10-09T21:41:10Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-engineering-lead-qvac-100-remote-india": {
+    "date": "2026-10-09T21:20:38Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-engineering-lead-qvac-100-remote-uk": {
+    "date": "2026-10-09T21:18:21Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/legal-operations-assistant-2": {
+    "date": "2026-10-09T13:42:49Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-engineering-lead-keet-100-remote-worldwide-7": {
+    "date": "2026-10-08T17:42:52Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-engineering-lead-keet-100-remote-worldwide-6": {
+    "date": "2026-10-08T17:39:39Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-engineering-lead-keet-100-remote-worldwide-5": {
+    "date": "2026-10-08T17:36:28Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-engineering-lead-keet-100-remote-worldwide-4": {
+    "date": "2026-10-08T17:08:24Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-engineering-lead-keet-100-remote-worldwide-3": {
+    "date": "2026-10-08T17:03:28Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-engineering-lead-keet-100-remote-worldwide": {
+    "date": "2026-10-07T16:48:13Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-technical-product-manager-qvac-100-remote-dub": {
+    "date": "2026-10-06T20:37:03Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-technical-product-manager-qvac-100-remote-ire": {
+    "date": "2026-10-06T20:34:04Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-technical-product-manager-qvac-100-remote-sw": {
+    "date": "2026-10-06T20:31:34Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-technical-product-manager-qvac-100-remote-geo": {
+    "date": "2026-10-06T20:29:22Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-ai-expansion-7": {
+    "date": "2026-10-06T12:40:07Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-technical-product-manager-qvac-100-remote-portugal": {
+    "date": "2026-10-06T20:19:21Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-technical-product-manager-qvac-100-remote-sp": {
+    "date": "2026-10-06T20:17:55Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-ai-expansion-6": {
+    "date": "2026-10-06T12:39:11Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-technical-product-manager-qvac-100-remote-uk": {
+    "date": "2026-10-06T20:12:52Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/credit-lead-underwriter-institutional-lending-liquidity-1": {
+    "date": "2026-10-06T09:59:42Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-manager-on-ramp-swap-100-remote-9": {
+    "date": "2026-10-06T16:22:06Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-manager-on-ramp-swap-100-remote-8": {
+    "date": "2026-10-06T16:21:51Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-manager-on-ramp-swap-100-remote-7": {
+    "date": "2026-10-06T16:21:13Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-manager-on-ramp-swap-100-remote-6": {
+    "date": "2026-10-06T16:21:03Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-manager-on-ramp-swap-100-remote-5": {
+    "date": "2026-10-06T16:20:52Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-manager-on-ramp-swap-100-remote-1": {
+    "date": "2026-10-06T16:18:15Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/product-manager-on-ramp-swap-100-remote-2": {
+    "date": "2026-10-06T16:19:50Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/credit-lead-underwriter-fintech-payments-expertise-1": {
+    "date": "2026-10-06T10:01:58Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/credit-lead-underwriter-fintech-payments-expertise": {
+    "date": "2026-10-06T08:57:54Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/vp-of-tech-expansion-100-remote-4": {
+    "date": "2026-10-05T14:49:53Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/vp-of-tech-expansion-100-remote-3": {
+    "date": "2026-10-05T14:48:46Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/vp-of-tech-expansion-100-remote-1": {
+    "date": "2026-10-05T14:47:32Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-technical-product-manager-keet-100-remote-14": {
+    "date": "2026-10-05T17:42:09Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-technical-product-manager-keet-100-remote-13": {
+    "date": "2026-10-05T17:41:17Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-technical-product-manager-keet-100-remote-12": {
+    "date": "2026-10-05T17:41:03Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-technical-product-manager-keet-100-remote-11": {
+    "date": "2026-10-05T17:40:12Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/event-design-coordinator-remote-europe-10": {
+    "date": "2026-10-01T14:34:40Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-technical-product-manager-keet-100-remote-10": {
+    "date": "2026-10-05T17:39:55Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-technical-product-manager-keet-100-remote-9": {
+    "date": "2026-10-05T17:39:43Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-technical-product-manager-keet-100-remote-8": {
+    "date": "2026-10-05T17:39:27Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-technical-product-manager-keet-100-remote-7": {
+    "date": "2026-10-05T17:38:59Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/event-design-coordinator-remote-europe-london": {
+    "date": "2026-10-01T14:22:29Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-technical-product-manager-keet-100-remote-1": {
+    "date": "2026-10-05T17:37:37Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/vp-of-tech-expansion-100-remote": {
+    "date": "2026-10-05T14:44:58Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/event-design-coordinator-remote-europe-8": {
+    "date": "2026-10-01T14:33:48Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/event-design-coordinator-remote-europe-9": {
+    "date": "2026-10-01T14:34:12Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/expansion-manager-cote-divoire-1": {
+    "date": "2026-09-29T08:40:18Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/event-design-coordinator-remote-europe-italy": {
+    "date": "2026-10-01T14:28:24Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/event-design-coordinator-remote-europe-switz": {
+    "date": "2026-10-01T14:29:10Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/event-design-coordinator-remote-europe-belgium": {
+    "date": "2026-10-01T14:29:43Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/event-design-coordinator-remote-europe-6": {
+    "date": "2026-09-25T18:09:06Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/event-design-coordinator-remote-europe-5": {
+    "date": "2026-09-25T18:07:20Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-ai-expansion-5": {
+    "date": "2026-10-01T13:27:13Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/event-design-coordinator-remote-europe-4": {
+    "date": "2026-09-25T18:04:54Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-ai-expansion-4": {
+    "date": "2026-10-01T13:25:47Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-ai-expansion-3": {
+    "date": "2026-10-01T11:28:23Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-ai-expansion": {
+    "date": "2026-10-01T11:16:45Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/blockchain-investigator-and-law-enforcement-liaison-nz": {
+    "date": "2026-09-24T13:42:43Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-kernel-inference-optimization-100-remoteworldwide": {
+    "date": "2026-09-28T17:17:17Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/event-design-coordinator-remote-europe-7": {
+    "date": "2026-09-25T18:11:04Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/event-design-coordinator-remote-europe-3": {
+    "date": "2026-09-25T18:03:46Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/technical-content-creator-worldwide": {
+    "date": "2026-09-08T17:51:35Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/expansion-manager-ivory-coast-1": {
+    "date": "2026-08-26T06:33:24Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/devops-engineer-100-remote-17": {
+    "date": "2026-09-03T13:35:09Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/devops-engineer-100-remote-16": {
+    "date": "2026-09-03T13:34:58Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/devops-engineer-100-remote-15": {
+    "date": "2026-09-03T13:34:42Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/devops-engineer-100-remote-14": {
+    "date": "2026-09-03T13:25:28Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/devops-engineer-100-remote-11": {
+    "date": "2026-09-03T13:22:51Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/devops-engineer-100-remote-10": {
+    "date": "2026-09-03T13:29:21Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/devops-engineer-100-remote-12": {
+    "date": "2026-09-03T13:23:36Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/devops-engineer-100-remote-13": {
+    "date": "2026-09-03T13:24:09Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/devops-engineer-100-remote": {
+    "date": "2026-09-02T17:27:30Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-product-designer-wallets-100-remote-worldwide": {
+    "date": "2026-08-21T17:39:32Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/frontend-software-engineer-100-remote-worldwide": {
+    "date": "2026-09-23T11:38:05Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-pre-training-llm-multi-modal-100-remote-worldwide": {
+    "date": "2026-08-10T17:32:57Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/p2p-nodejs-engineer-holepunch-100-remote-worldwide": {
+    "date": "2026-07-30T14:44:44Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/engagement-manager-ai-implementations-19": {
+    "date": "2026-07-21T08:34:40Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/engagement-manager-ai-implementations-18": {
+    "date": "2026-07-21T08:33:52Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/engagement-manager-ai-implementations-17": {
+    "date": "2026-07-21T08:33:10Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/engagement-manager-ai-implementations-16": {
+    "date": "2026-07-21T08:32:31Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/engagement-manager-ai-implementations-15": {
+    "date": "2026-07-21T08:26:38Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/engagement-manager-ai-implementations-14": {
+    "date": "2026-07-21T08:25:51Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/engagement-manager-ai-implementations-13": {
+    "date": "2026-07-21T08:23:05Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/engagement-manager-ai-implementations-12": {
+    "date": "2026-07-21T08:20:55Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/engagement-manager-ai-implementations-11": {
+    "date": "2026-07-21T08:19:23Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/engagement-manager-ai-implementations-10": {
+    "date": "2026-07-21T08:17:04Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/blockchain-investigator-and-law-enforcement-liaison": {
+    "date": "2026-07-15T14:36:27Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/regulatory-affairs-and-licensing-francophone-africa-lead": {
+    "date": "2026-07-07T08:43:32Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-multi-modal-vision-6": {
+    "date": "2026-06-16T22:16:22Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/program-manager-mining-100-remote-11": {
+    "date": "2026-06-16T16:52:43Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-multi-modal-vision-5": {
+    "date": "2026-06-16T22:16:00Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/program-manager-mining-100-remote-10": {
+    "date": "2026-06-16T16:50:17Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-multi-modal-vision-4": {
+    "date": "2026-06-16T22:12:52Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/program-manager-mining-100-remote-9": {
+    "date": "2026-06-16T16:49:22Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-multi-modal-vision": {
+    "date": "2026-06-16T22:12:19Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/program-manager-mining-100-remote-8": {
+    "date": "2026-06-16T16:48:10Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/program-manager-mining-100-remote-7": {
+    "date": "2026-06-16T16:47:26Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-pre-training-llm-multi-modal-8": {
+    "date": "2026-06-11T19:43:09Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-pre-training-llm-multi-modal-7": {
+    "date": "2026-06-11T19:42:27Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-pre-training-llm-multi-modal-6": {
+    "date": "2026-06-11T19:37:12Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-pre-training-llm-multi-modal-4": {
+    "date": "2026-06-11T19:36:40Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-pre-training-llm-multi-modal-3": {
+    "date": "2026-06-11T19:35:57Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-pre-training-llm-multi-modal-1": {
+    "date": "2026-06-11T19:34:43Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-pre-training-llm-multi-modal": {
+    "date": "2026-06-11T19:33:39Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-business-analyst-mining-100-remote-10": {
+    "date": "2026-06-10T13:51:00Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-business-analyst-mining-100-remote-9": {
+    "date": "2026-06-10T13:50:25Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-business-analyst-mining-100-remote-8": {
+    "date": "2026-06-10T13:49:48Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-business-analyst-mining-100-remote-7": {
+    "date": "2026-06-10T13:49:12Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-business-analyst-mining-100-remote-6": {
+    "date": "2026-06-10T13:48:28Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/program-manager-mining-100-remote-6": {
+    "date": "2026-06-09T08:57:23Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/program-manager-mining-100-remote-5": {
+    "date": "2026-06-09T08:56:44Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/program-manager-mining-100-remote-4": {
+    "date": "2026-06-09T08:56:15Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/program-manager-mining-100-remote-3": {
+    "date": "2026-06-09T08:55:31Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/program-manager-mining-100-remote-2": {
+    "date": "2026-06-09T08:54:26Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/program-manager-mining-100-remote-worldwide": {
+    "date": "2026-06-05T11:34:54Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/program-manager-mining-100-remote": {
+    "date": "2026-06-05T11:28:27Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-business-analyst-mining-100-remote-5": {
+    "date": "2026-06-03T16:00:57Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-business-analyst-mining-100-remote-4": {
+    "date": "2026-06-03T15:59:50Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-business-analyst-mining-100-remote-3": {
+    "date": "2026-06-03T15:59:05Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-business-analyst-mining-100-remote-1": {
+    "date": "2026-06-03T15:58:10Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/senior-business-analyst-mining-100-remote": {
+    "date": "2026-06-03T15:56:33Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/financial-controller-vc-or-hedge-fund-investment-accountant": {
+    "date": "2026-06-02T13:45:18Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/trading-operations-associate-hedge-fund-exposure": {
+    "date": "2026-05-27T08:09:16Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-model-compression-quantization-100-remote-worldwide": {
+    "date": "2026-05-19T16:23:55Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-model-compression-quantization-16": {
+    "date": "2026-05-19T16:19:54Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-model-compression-quantization-15": {
+    "date": "2026-05-19T16:16:41Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-model-compression-quantization-14": {
+    "date": "2026-05-19T16:12:46Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-model-compression-quantization-13": {
+    "date": "2026-05-19T16:11:55Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-model-compression-quantization-11": {
+    "date": "2026-05-19T16:07:26Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-model-compression-quantization-12": {
+    "date": "2026-05-19T16:05:07Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-model-compression-quantization-10": {
+    "date": "2026-05-19T16:04:18Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-model-compression-quantization-9": {
+    "date": "2026-05-19T13:52:09Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-model-compression-quantization-8": {
+    "date": "2026-05-19T13:50:01Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-model-compression-quantization": {
+    "date": "2026-05-19T13:47:30Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-multi-modal-vision-100-remote-worldwide": {
+    "date": "2026-05-19T11:51:58Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/finance-analyst": {
+    "date": "2026-05-19T09:05:20Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-multi-modal-reinforcement-learning-100-remote-worldwide": {
+    "date": "2026-05-19T11:29:06Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-agentic-post-training-100-remote-worldwide": {
+    "date": "2026-05-19T11:05:57Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/regulatory-affairs-and-licensing-lead-mexico-and-colombia-3": {
+    "date": "2026-05-06T14:15:09Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-regulatory-affairs-japan-1": {
+    "date": "2026-04-01T14:35:36Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-inference-engineer-qvac-100-remote-worldwide": {
+    "date": "2026-03-11T09:12:41Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/regulatory-affairs-and-licensing-southern-africa-lead-100-remote": {
+    "date": "2026-03-10T15:09:17Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-regulatory-affairs-ai-and-p2p-100-remote-3": {
+    "date": "2026-02-22T22:29:05Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-regulatory-affairs-ai-and-p2p-100-remote-1": {
+    "date": "2026-02-22T22:27:46Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-licensing-and-regulatory-authorisations-8": {
+    "date": "2026-02-22T22:23:54Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-licensing-and-regulatory-authorisations-7": {
+    "date": "2026-02-22T22:22:41Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-licensing-and-regulatory-authorisations-6": {
+    "date": "2026-02-22T22:21:45Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-licensing-and-regulatory-authorisations-5": {
+    "date": "2026-02-22T22:20:21Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-licensing-and-regulatory-authorisations-3": {
+    "date": "2026-02-22T22:18:07Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-licensing-and-regulatory-authorisations-4": {
+    "date": "2026-02-22T22:19:24Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-regulatory-affairs-japan": {
+    "date": "2026-02-22T22:12:07Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-regulatory-affairs-and-licensing-middle-east-4": {
+    "date": "2026-02-20T21:34:40Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-regulatory-affairs-and-licensing-middle-east-3": {
+    "date": "2026-02-20T21:33:54Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/head-of-regulatory-affairs-and-licensing-middle-east-1": {
+    "date": "2026-02-20T21:32:58Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/marketing-project-manager-100-remote-3": {
+    "date": "2026-01-09T14:25:13Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/marketing-project-manager-100-remote-1": {
+    "date": "2026-01-09T14:24:34Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/marketing-project-manager-100-remote": {
+    "date": "2026-01-09T14:23:52Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/research-engineer-intern-videomultimodal-llm-remote": {
+    "date": "2025-11-27T11:05:31Z",
+    "dateVerified": true
+  },
+  "https://circle.wd1.myworkdayjobs.com/Circle/job/New-York-City---remote-first-in-US/Staff-Data-Analyst_JR101195": {
+    "date": "2026-10-29",
+    "dateVerified": true
+  },
+  "https://circle.wd1.myworkdayjobs.com/Circle/job/New-York-City---remote-first-in-US/Talent-Acquisition-Operations-Associate_JR101197": {
+    "date": "2026-10-29",
+    "dateVerified": true
+  },
+  "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Manager--Engineering---Onboarding_JR101190": {
+    "date": "2026-10-29",
+    "dateVerified": true
+  },
+  "breezy:bitdeer.breezy.hr:60e864cee6d8": {
+    "date": "2026-10-28",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/60e864cee6d8-procurement-category-lead-ai-crypto-data-center-construction",
+      "checkedAt": "2026-10-30T03:42:02.245Z",
+      "bodySha256": "4105a51a61bec9bb3a3cfe09f58f66f963d0ab8ae180a0fc0da28824d5818b5d",
+      "provider": "breezy",
+      "datePosted": "2026-10-28"
+    }
+  },
+  "breezy:bitdeer.breezy.hr:cee1769dc482": {
+    "date": "2026-10-28",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/cee1769dc482-regional-account-executive-gpuaas-gpu-as-a-service-sales",
+      "checkedAt": "2026-10-30T03:42:02.721Z",
+      "bodySha256": "2440e8713e9f1ae623424ad9218bd2d59ae21027a14bc6dbcacff93016e791e3",
+      "provider": "breezy",
+      "datePosted": "2026-10-28"
+    }
+  },
+  "breezy:bitdeer.breezy.hr:62b347cbd2e2": {
+    "date": "2026-10-28",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/62b347cbd2e2-regional-account-executive-maas-model-as-a-service-sales-junior-middle",
+      "checkedAt": "2026-10-30T03:42:02.721Z",
+      "bodySha256": "fafb95c5acbbd42ab3afcb83ce080a94de074f745d29bb1db1ef9bc30fbaa681",
+      "provider": "breezy",
+      "datePosted": "2026-10-28"
+    }
+  },
+  "breezy:alliance.breezy.hr:1e3add85778c": {
+    "date": "2026-10-26",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://alliance.breezy.hr/p/1e3add85778c-head-of-capital-formation",
+      "checkedAt": "2026-10-30T03:42:09.975Z",
+      "bodySha256": "8d0b315a29e8e7c56333ae278f2a1cd7d5cfb6d985fb37f24bb333567e48ce26",
+      "provider": "breezy",
+      "datePosted": "2026-10-26"
+    }
+  },
+  "https://careers.ethena.fi/jobs/8639513-customer-success-agent-ethena-pay": {
+    "date": "2026-10-29T19:35:46.000Z",
+    "dateVerified": true
+  },
+  "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/BSA-AML-Officer---Blockchain-Compliance_JR2001283": {
+    "date": "2026-10-28",
+    "dateVerified": true
+  },
+  "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/BSA-AML-Officer---Blockchain-Compliance_JR2001283-1": {
+    "date": "2026-10-28",
+    "dateVerified": true
+  },
+  "https://talent.superteam.fun/jobs/senior-engineer-at-very-ai-1c252001-6fcd-4f69-bc5a-14af18d55d71": {
+    "date": "2026-03-04T15:01:38.323263+00:00",
+    "dateVerified": true
+  },
+  "ashby:183426cb-4795-432b-bce2-bcf178282aa9": {
+    "date": "2026-10-29T17:57:35.987+00:00",
+    "dateVerified": true
+  },
+  "greenhouse:8334228": {
+    "date": "2026-10-30T06:55:30-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8334231": {
+    "date": "2026-10-30T07:08:06-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8334164": {
+    "date": "2026-10-30T07:56:37-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8334161": {
+    "date": "2026-10-30T08:06:35-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8334281": {
+    "date": "2026-10-30T07:19:12-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8334290": {
+    "date": "2026-10-30T07:29:58-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "https://careers.circle.com/us/en/job/JR101195": {
+    "date": "2026-10-30T12:25:57.000Z",
+    "dateVerified": true
+  },
+  "https://careers.circle.com/us/en/job/JR101197": {
+    "date": "2026-10-30T12:25:55.000Z",
+    "dateVerified": true
+  },
+  "https://careers.circle.com/us/en/job/JR101190": {
+    "date": "2026-10-30T12:25:49.000Z",
+    "dateVerified": true
+  },
+  "https://hk.linkedin.com/jobs/view/business-development-manager-structured-products-at-bit-official-4482596639": {
+    "date": "2026-10-30T13:44:30.000Z",
+    "dateVerified": true
+  },
+  "https://hk.linkedin.com/jobs/view/sales-and-business-development-manager-at-bit-official-4482592974": {
+    "date": "2026-10-30T13:44:30.000Z",
+    "dateVerified": true
+  },
+  "https://hk.linkedin.com/jobs/view/us-equity-market-strategist-at-bit-official-4483010113": {
+    "date": "2026-10-30T13:44:30.000Z",
+    "dateVerified": true
+  },
+  "https://hk.linkedin.com/jobs/view/us-equity-research-analyst-at-bit-official-4482598500": {
+    "date": "2026-10-30T13:44:30.000Z",
+    "dateVerified": true
+  },
+  "https://my.linkedin.com/jobs/view/user-operations-specialist-at-bit-official-4482588731": {
+    "date": "2026-10-30T13:44:30.000Z",
+    "dateVerified": true
+  },
+  "https://hk.linkedin.com/jobs/view/public-relations-lead-at-bit-official-4483821677": {
+    "date": "2026-10-30T13:44:29.000Z",
+    "dateVerified": true
+  },
+  "https://sg.linkedin.com/jobs/view/public-relations-lead-at-bit-official-4483831346": {
+    "date": "2026-10-30T13:44:29.000Z",
+    "dateVerified": true
+  },
+  "https://sg.linkedin.com/jobs/view/chief-financial-officer-cfo-at-cinch-4484404288": {
+    "date": "2026-10-30T14:47:13.000Z",
+    "dateVerified": true
+  },
+  "https://id.linkedin.com/jobs/view/senior-data-analytics-manager-remote-at-cinch-4484079071": {
+    "date": "2026-10-30T14:47:13.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/customer-due-diligence-analyst-at-augustus-4483038041": {
+    "date": "2026-10-30T09:55:40.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/corporate-counsel-at-augustus-4484092643": {
+    "date": "2026-10-30T09:55:40.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/it-site-lead-at-hadrian-4482569433": {
+    "date": "2026-10-30T14:35:19.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/m-a-integration-manager-at-hadrian-4483094379": {
+    "date": "2026-10-30T14:35:19.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/director-mechanical-engineering-at-hadrian-4482249577": {
+    "date": "2026-10-30T14:35:18.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/r-d-applications-engineer-sheet-metal-at-hadrian-4483402093": {
+    "date": "2026-10-30T14:35:18.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/mechatronics-engineer-robotic-fastening-at-hadrian-4478647380": {
+    "date": "2026-10-30T14:35:18.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/factory-technician-2nd-shift-at-hadrian-4483099234": {
+    "date": "2026-10-30T14:35:18.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/people-programs-manager-at-hadrian-4483092478": {
+    "date": "2026-10-30T14:35:18.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/director-forward-deployed-engineering-manufacturing-at-hadrian-4482555845": {
+    "date": "2026-10-30T14:35:18.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/cad-modeler-at-hadrian-4482251497": {
+    "date": "2026-10-30T14:35:18.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/coinflow-labs/jobs/98471122-fraud-data-scientist": {
+    "date": "2026-10-30T11:57:14.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/coinflow-labs/jobs/98471119-ml-ops-engineer": {
+    "date": "2026-10-30T11:57:14.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/98366628-it-security-officer": {
+    "date": "2026-10-30T11:57:14.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/coinflow-labs/jobs/98471120-software-engineer": {
+    "date": "2026-10-30T11:57:14.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/rain/jobs/98460633-it-manager": {
+    "date": "2026-10-30T11:57:14.000Z",
+    "dateVerified": true
+  },
+  "workable:5fad84648d": {
+    "date": "2026-10-30T00:00:00.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:4464460009": {
+    "date": "2026-10-30T13:17:01.000Z",
+    "dateVerified": true
+  },
+  "ashby:db42ecb7-0697-45cd-9d82-ec6858bb6c5b": {
+    "date": "2026-10-30T10:23:44.000Z",
+    "dateVerified": true
+  },
+  "ashby:059284e3-7e71-4d8a-9379-7a485a8a4513": {
+    "date": "2026-10-30T10:23:44.000Z",
+    "dateVerified": true
+  },
+  "ashby:0ecaf27a-dbd1-44da-9e68-495eecd798db": {
+    "date": "2026-10-30T10:23:44.000Z",
+    "dateVerified": true
+  },
+  "ashby:214c1bf9-761a-4a81-b690-1a89e940f56b": {
+    "date": "2026-10-30T10:23:43.000Z",
+    "dateVerified": true
+  },
+  "ashby:5635688b-3bfa-4232-9c67-1a789e513dee": {
+    "date": "2026-10-30T10:23:42.000Z",
+    "dateVerified": true
+  },
+  "ashby:f1bcbca2-2c44-40b5-81e7-2186360efb92": {
+    "date": "2026-10-30T10:23:41.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8114458": {
+    "date": "2026-08-18T05:46:54-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8330815": {
+    "date": "2026-10-30T01:32:26-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8328118": {
+    "date": "2026-10-30T13:30:15-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8336819": {
+    "date": "2026-10-30T10:27:02-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8335758": {
+    "date": "2026-10-30T12:53:11-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8330131": {
+    "date": "2026-10-30T12:11:22-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8336023": {
+    "date": "2026-10-30T01:26:32-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8283786": {
+    "date": "2026-10-30T05:19:03-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8333074": {
+    "date": "2026-10-30T12:19:26-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8333122": {
+    "date": "2026-10-30T12:19:21-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8265389": {
+    "date": "2026-10-30T05:53:15-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8328664": {
+    "date": "2026-10-30T12:19:24-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8328662": {
+    "date": "2026-10-30T12:19:28-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8327254": {
+    "date": "2026-10-30T16:12:57-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8318694": {
+    "date": "2026-10-30T08:03:34-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8289414": {
+    "date": "2026-10-30T08:07:02-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8234710": {
+    "date": "2026-10-30T09:11:32-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8248415": {
+    "date": "2026-10-30T09:13:31-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8336564": {
+    "date": "2026-10-30T08:37:25-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8336586": {
+    "date": "2026-10-30T10:52:36-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337029": {
+    "date": "2026-10-30T12:31:08-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337144": {
+    "date": "2026-10-30T14:50:36-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337203": {
+    "date": "2026-10-30T15:03:20-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337206": {
+    "date": "2026-10-30T15:18:14-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337209": {
+    "date": "2026-10-30T15:09:54-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337782": {
+    "date": "2026-10-30T16:03:24-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8335575": {
+    "date": "2026-10-30T15:49:29-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8338076": {
+    "date": "2026-10-30T18:09:51-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337715": {
+    "date": "2026-10-30T15:22:50-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8047150": {
+    "date": "2026-10-30T22:38:15-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8330752": {
+    "date": "2026-10-30T09:34:49-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8330754": {
+    "date": "2026-10-30T09:34:52-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8189874": {
+    "date": "2026-09-19T19:47:51-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4725490006": {
+    "date": "2026-10-30T10:31:40-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8329366": {
+    "date": "2026-10-30T08:59:33-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8919490002": {
+    "date": "2026-10-30T20:15:57-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5017325101": {
+    "date": "2026-10-30T06:58:01-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5017286101": {
+    "date": "2026-10-30T08:22:47-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5022514101": {
+    "date": "2026-10-30T08:25:13-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5468839008": {
+    "date": "2026-10-30T17:20:20-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5427619008": {
+    "date": "2026-10-30T11:11:46-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6238377004": {
+    "date": "2026-10-30T11:58:52-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8336982": {
+    "date": "2026-10-30T11:35:15-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4474003009": {
+    "date": "2026-10-30T15:08:44-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8108181003": {
+    "date": "2026-10-30T14:23:47-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8107996003": {
+    "date": "2026-10-30T14:19:02-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8112753003": {
+    "date": "2026-10-30T20:26:19-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8046730003": {
+    "date": "2026-10-30T19:04:24-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8288652": {
+    "date": "2026-10-29T10:41:21-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8288690": {
+    "date": "2026-10-30T09:07:32-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8336514": {
+    "date": "2026-10-30T10:04:43-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "lever:5f478541-124e-4a56-b85c-72ea3567511b": {
+    "date": "2026-10-30T17:29:49.269Z",
+    "dateVerified": true
+  },
+  "ashby:398a73d4-e10f-491f-884e-4ab0b5560bc6": {
+    "date": "2026-10-30T22:22:42.298+00:00",
+    "dateVerified": true
+  },
+  "ashby:aa0c645d-7aa0-40b0-bdfa-9b3fb19da404": {
+    "date": "2026-10-30T19:35:16.997+00:00",
+    "dateVerified": true
+  },
+  "ashby:a0a26a90-7c9a-4a45-a042-ae646911930a": {
+    "date": "2026-10-30T19:35:07.164+00:00",
+    "dateVerified": true
+  },
+  "ashby:5f4fdc58-82be-4e28-95ec-b3b04211cf01": {
+    "date": "2026-10-30T16:19:42.943+00:00",
+    "dateVerified": true
+  },
+  "ashby:bca280c9-b272-49f6-aa14-67f29bf5a6aa": {
+    "date": "2026-10-30T16:10:02.835+00:00",
+    "dateVerified": true
+  },
+  "ashby:efbb65e5-0878-4435-94fd-314f02eec83e": {
+    "date": "2026-10-30T17:31:24.689+00:00",
+    "dateVerified": true
+  },
+  "ashby:9e4b9f32-a4f6-47e6-89f1-8b8d4ebc7892": {
+    "date": "2026-10-30T22:59:52.677+00:00",
+    "dateVerified": true
+  },
+  "ashby:6737cb1d-d03b-406c-9d13-70546fc0504d": {
+    "date": "2026-10-30T20:21:00.386+00:00",
+    "dateVerified": true
+  },
+  "ashby:ba81abcf-62e1-4840-9051-344d025234a0": {
+    "date": "2026-10-30T14:03:09.784+00:00",
+    "dateVerified": true
+  },
+  "ashby:2c02fbc3-5c48-4896-8f2c-a22a70e71c5d": {
+    "date": "2026-10-30T17:02:38.556+00:00",
+    "dateVerified": true
+  },
+  "ashby:d8012425-f007-43db-b48d-3b456812f940": {
+    "date": "2026-10-30T17:15:19.273+00:00",
+    "dateVerified": true
+  },
+  "ashby:260f0e0c-a600-4108-9293-cc6e574847ee": {
+    "date": "2026-10-30T18:04:51.065+00:00",
+    "dateVerified": true
+  },
+  "ashby:bd4f73d1-08b5-410a-9c7a-34a2f65ac45a": {
+    "date": "2026-10-30T20:24:31.855+00:00",
+    "dateVerified": true
+  },
+  "ashby:0f752c3b-418d-43e8-91d3-658d08b5b2c6": {
+    "date": "2026-10-30T15:20:49.631+00:00",
+    "dateVerified": true
+  },
+  "ashby:b0a754b7-ce1b-4549-ab73-bd289a2ba527": {
+    "date": "2026-10-30T17:20:17.945+00:00",
+    "dateVerified": true
+  },
+  "ashby:52117eb8-a8c0-45d5-ad74-fe31a347a15b": {
+    "date": "2026-10-30T15:15:25.926+00:00",
+    "dateVerified": true
+  },
+  "ashby:f0b10b18-91a7-4348-bbb9-0c2ef697611f": {
+    "date": "2026-10-30T19:48:09.267+00:00",
+    "dateVerified": true
+  },
+  "ashby:1a848261-5b5b-414b-9771-0dad2d45300c": {
+    "date": "2026-10-30T19:49:10.401+00:00",
+    "dateVerified": true
+  },
+  "workable:5839e5cb77": {
+    "date": "2026-10-30T00:00:00.000Z",
+    "dateVerified": true
+  },
+  "workable:f69c4b4c08": {
+    "date": "2026-10-30T00:00:00.000Z",
+    "dateVerified": true
+  },
+  "workable:75d41f3abd": {
+    "date": "2026-10-30T00:00:00.000Z",
+    "dateVerified": true
+  },
+  "workable:53e906c9f0": {
+    "date": "2026-10-30T00:00:00.000Z",
+    "dateVerified": true
+  },
+  "workable:f9b5cd37e4": {
+    "date": "2026-10-30",
+    "dateVerified": true
+  },
+  "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Israel/XMLNAME-6-Month-Internship---Trading--Tel-Aviv_JR101650": {
+    "date": "2026-10-30",
+    "dateVerified": true
+  },
+  "greenhouse:4947534101": {
+    "date": "2026-10-15T08:44:55-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4989766101": {
+    "date": "2026-10-15T08:37:00-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4860276101": {
+    "date": "2026-05-06T04:09:10-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5000634101": {
+    "date": "2026-10-08T07:29:51-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5008253101": {
+    "date": "2026-10-16T04:07:01-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4963988101": {
+    "date": "2026-10-12T07:46:02-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4972579101": {
+    "date": "2026-09-10T02:53:51-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4860266101": {
+    "date": "2026-05-06T03:56:00-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5000640101": {
+    "date": "2026-10-08T07:28:57-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5469263008": {
+    "date": "2026-10-31T11:31:36.000Z",
+    "dateVerified": true
+  },
+  "https://uk.linkedin.com/jobs/view/video-editor-at-aave-labs-4483680106": {
+    "date": "2026-10-31T14:05:36.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/veda/jobs/98545454-customer-engineering-lead": {
+    "date": "2026-10-31T11:06:20.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/ellipsis-labs/jobs/98491423-head-of-strategy": {
+    "date": "2026-10-31T11:06:20.000Z",
+    "dateVerified": true
+  },
+  "https://yellowcard.bamboohr.com/careers/431": {
+    "date": "2026-10-31T12:34:57.000Z",
+    "dateVerified": true
+  },
+  "https://yellowcard.bamboohr.com/careers/430": {
+    "date": "2026-10-31T12:34:57.000Z",
+    "dateVerified": true
+  },
+  "ashby:17a81581-d5b8-45c6-a680-937179fcd8c8": {
+    "date": "2026-10-31T13:20:51.000Z",
+    "dateVerified": true
+  },
+  "ashby:5f2c020e-2c0e-408c-8a1f-8e79af8e2ed5": {
+    "date": "2026-10-31T13:20:51.000Z",
+    "dateVerified": true
+  },
+  "ashby:e2658f41-bf91-4e0c-90b3-652ddb7dda50": {
+    "date": "2026-10-31T11:33:09.000Z",
+    "dateVerified": true
+  },
+  "https://careers.kast.xyz/en/postings/d190c080-6281-43cd-b68c-fb6ad46e9a1e": {
+    "date": "2026-10-31T13:56:33.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8334761": {
+    "date": "2026-10-31T13:54:26-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8334752": {
+    "date": "2026-10-31T14:07:52-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8334767": {
+    "date": "2026-10-31T14:23:06-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8334764": {
+    "date": "2026-10-31T14:31:57-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "ashby:318e7138-151e-4ed2-8b85-a017d234ef12": {
+    "date": "2026-10-31T19:31:59.653+00:00",
+    "dateVerified": true
+  },
+  "ashby:9878d47b-d834-40fc-b1ab-47fba307a47f": {
+    "date": "2026-11-01T11:40:14.000Z",
+    "dateVerified": true
+  },
+  "ashby:9e9d8f03-a8eb-4510-8607-d719bdaeb04f": {
+    "date": "2026-10-31T13:38:10.000Z",
+    "dateVerified": true
+  },
+  "https://wellfound.com/company/pods-finance/jobs/4958182-market-manager-ii": {
+    "date": "2026-11-01T11:59:40.000Z",
+    "dateVerified": true
+  },
+  "https://www.welcometothejungle.com/companies/coinhouse/jobs/assistant-sales-intye_paris": {
+    "date": "2026-11-01T15:31:41.000Z",
+    "dateVerified": true
+  },
+  "https://www.welcometothejungle.com/companies/coinhouse/jobs/operations-assistant-intern_paris": {
+    "date": "2026-11-01T15:31:41.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/rain/jobs/98641564-business-development-lead-agentic-commerce": {
+    "date": "2026-11-01T10:43:24.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8336062": {
+    "date": "2026-11-01T09:40:06-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5024586101": {
+    "date": "2026-11-01T23:05:28-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5024587101": {
+    "date": "2026-11-01T23:16:27-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8139839003": {
+    "date": "2026-11-01T02:28:22-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8139942003": {
+    "date": "2026-11-01T02:29:46-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8100277003": {
+    "date": "2026-11-01T09:45:07-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5024572101": {
+    "date": "2026-11-01T15:44:58-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5024579101": {
+    "date": "2026-11-01T16:09:49-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5024577101": {
+    "date": "2026-11-01T16:04:20-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5024525101": {
+    "date": "2026-11-01T08:53:58-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6239835004": {
+    "date": "2026-11-01T17:44:38-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "ashby:8768d39b-2600-432a-bf09-54b6ba73133f": {
+    "date": "2026-11-02T03:53:46.350+00:00",
+    "dateVerified": true
+  },
+  "ashby:eb6d6d04-3dab-4494-bc5e-58840e5618d2": {
+    "date": "2026-11-02T02:35:58.898+00:00",
+    "dateVerified": true
+  },
+  "workable:65b230465c": {
+    "date": "2026-11-02",
+    "dateVerified": true
+  },
+  "workable:ee299bda8c": {
+    "date": "2026-11-02",
+    "dateVerified": true
+  },
+  "https://circle.wd1.myworkdayjobs.com/Circle/job/London---remote-first-in-UK/Senior-Solutions-Engineer-II--Payments--EMEA_JR101198": {
+    "date": "2026-11-01",
+    "dateVerified": true
+  },
+  "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/London/Senior-Software-Engineer--CoinDesk-Media_JR2001286": {
+    "date": "2026-11-02",
+    "dateVerified": true
+  },
+  "https://bullish.wd3.myworkdayjobs.com/Bullish/job/London/Senior-Software-Engineer--CoinDesk-Media_JR2001286-1": {
+    "date": "2026-11-02",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/98658699-account-executive-kast-business": {
+    "date": "2026-11-02T12:47:11.000Z",
+    "dateVerified": true
+  },
+  "https://careers.circle.com/us/en/job/JR101198": {
+    "date": "2026-11-02T13:33:07.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8327701": {
+    "date": "2026-11-02T02:44:13-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337038": {
+    "date": "2026-11-02T05:18:35-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337032": {
+    "date": "2026-11-02T05:07:49-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337058": {
+    "date": "2026-11-02T05:43:40-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337061": {
+    "date": "2026-11-02T05:51:03-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337042": {
+    "date": "2026-11-02T05:27:47-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337035": {
+    "date": "2026-11-02T05:47:30-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337049": {
+    "date": "2026-11-02T05:20:58-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337045": {
+    "date": "2026-11-02T05:35:33-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337055": {
+    "date": "2026-11-02T05:33:20-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337048": {
+    "date": "2026-11-02T05:41:45-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "https://www.linkedin.com/jobs/view/it-field-engineer-at-hadrian-4474484405": {
+    "date": "2026-11-02T14:23:41.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/internal-communications-knowledge-systems-partner-at-hadrian-4483912232": {
+    "date": "2026-11-02T14:23:41.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/all-levels-software-engineer-builder-tools-at-hadrian-4451775535": {
+    "date": "2026-11-02T14:23:40.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/senior-backend-engineer-nitro-at-offchain-4485667349": {
+    "date": "2026-11-02T14:41:14.000Z",
+    "dateVerified": true
+  },
+  "https://www.comeet.com/jobs/blockaid/69.00B/threat-intelligence-analyst/23.47E": {
+    "date": "2026-11-02T13:59:52.000Z",
+    "dateVerified": true
+  },
+  "https://eg.linkedin.com/jobs/view/senior-data-engineer-at-axis-4483973865": {
+    "date": "2026-11-02T14:27:53.000Z",
+    "dateVerified": true
+  },
+  "https://eg.linkedin.com/jobs/view/senior-sdet-software-development-engineer-in-test-at-axis-4483987576": {
+    "date": "2026-11-02T14:27:53.000Z",
+    "dateVerified": true
+  },
+  "https://eg.linkedin.com/jobs/view/talent-acquisition-staffing-employer-branding-lead-manager-at-axis-4485427201": {
+    "date": "2026-11-02T14:27:52.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8345344": {
+    "date": "2026-11-02T01:05:50-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8164080003": {
+    "date": "2026-11-02T15:45:06-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8322584": {
+    "date": "2026-11-02T09:47:39-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8319488": {
+    "date": "2026-11-02T04:45:37-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:7997555": {
+    "date": "2026-06-10T15:14:52-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8287920": {
+    "date": "2026-11-02T15:24:35-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8319823": {
+    "date": "2026-11-02T12:47:04-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8332880": {
+    "date": "2026-11-02T15:24:38-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8346778": {
+    "date": "2026-11-02T13:49:07-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8346831": {
+    "date": "2026-11-02T13:54:08-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8346417": {
+    "date": "2026-11-02T14:26:47-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8324997": {
+    "date": "2026-11-02T08:21:14-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8325019": {
+    "date": "2026-11-02T08:13:57-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:7975721": {
+    "date": "2026-06-09T03:20:07-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8167556": {
+    "date": "2026-09-02T15:53:46-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8346070": {
+    "date": "2026-11-02T10:04:13-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8346064": {
+    "date": "2026-11-02T09:54:34-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8346073": {
+    "date": "2026-11-02T10:21:41-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8334387": {
+    "date": "2026-11-02T09:12:41-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8304052": {
+    "date": "2026-11-02T18:22:19-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8346266": {
+    "date": "2026-11-02T12:01:02-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337064": {
+    "date": "2026-11-02T06:12:01-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337052": {
+    "date": "2026-11-02T06:04:22-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8329023": {
+    "date": "2026-11-02T17:58:51-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8346319": {
+    "date": "2026-11-02T11:37:43-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8346318": {
+    "date": "2026-11-02T11:37:05-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8345460": {
+    "date": "2026-11-02T08:50:12-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8223889": {
+    "date": "2026-11-02T14:46:52-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8348035": {
+    "date": "2026-11-02T17:11:27-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8231449": {
+    "date": "2026-11-02T19:56:12-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8202183": {
+    "date": "2026-11-02T17:44:52-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8331310": {
+    "date": "2026-11-02T04:40:12-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8334344": {
+    "date": "2026-11-02T05:06:33-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8348038": {
+    "date": "2026-11-02T17:02:31-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8927816002": {
+    "date": "2026-11-02T19:53:04-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8927814002": {
+    "date": "2026-11-02T19:52:59-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8397753002": {
+    "date": "2026-01-30T04:00:33-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8328881": {
+    "date": "2026-11-02T16:49:40-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5024897101": {
+    "date": "2026-11-02T09:06:08-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5024599101": {
+    "date": "2026-11-02T01:05:38-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5024600101": {
+    "date": "2026-11-02T01:06:19-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5020051101": {
+    "date": "2026-11-02T01:58:57-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5440719008": {
+    "date": "2026-11-02T13:27:51-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5470119008": {
+    "date": "2026-11-02T18:12:01-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5470387008": {
+    "date": "2026-11-02T16:38:03-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6240963004": {
+    "date": "2026-11-02T16:21:21-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6240414004": {
+    "date": "2026-11-02T04:55:40-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6240404004": {
+    "date": "2026-11-02T04:29:50-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5024636101": {
+    "date": "2026-11-02T03:39:58-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4987248101": {
+    "date": "2026-09-25T05:14:08-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4987243101": {
+    "date": "2026-09-25T05:06:35-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4834634101": {
+    "date": "2026-09-25T05:06:33-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8105382003": {
+    "date": "2026-11-02T00:44:10-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8163961003": {
+    "date": "2026-11-02T15:23:25-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8163791003": {
+    "date": "2026-11-02T15:24:07-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8157974003": {
+    "date": "2026-11-02T06:46:48-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4749903005": {
+    "date": "2026-11-02T17:13:49-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6241656004": {
+    "date": "2026-11-02T20:32:57-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6240586004": {
+    "date": "2026-11-02T10:03:25-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6241653004": {
+    "date": "2026-11-02T20:23:25-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6241652004": {
+    "date": "2026-11-02T20:18:20-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8302909": {
+    "date": "2026-11-02T14:12:39-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8237635": {
+    "date": "2026-11-02T10:19:39-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:7943130": {
+    "date": "2026-11-02T17:28:42-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8331536": {
+    "date": "2026-11-02T14:21:39-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8328365": {
+    "date": "2026-11-02T14:35:30-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8237633": {
+    "date": "2026-11-02T17:09:53-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "lever:558520f3-d3ef-41b6-964b-2f51da8bbcde": {
+    "date": "2026-04-21T09:01:04.555Z",
+    "dateVerified": true
+  },
+  "lever:7983ff1a-dd4a-45c2-9f6a-dda28ccca9ce": {
+    "date": "2026-04-21T08:33:23.118Z",
+    "dateVerified": true
+  },
+  "lever:c7f5a76d-d079-4e07-af06-290252d475f0": {
+    "date": "2026-04-21T08:32:51.684Z",
+    "dateVerified": true
+  },
+  "ashby:70c26b31-1afb-4fab-b3d3-019261d428c2": {
+    "date": "2026-11-02T14:04:22.562+00:00",
+    "dateVerified": true
+  },
+  "ashby:d8925f84-562f-470c-a5bd-4f6c20009361": {
+    "date": "2026-11-03T00:39:43.962+00:00",
+    "dateVerified": true
+  },
+  "ashby:e652e1b6-174d-4f25-b925-123d724ec7d4": {
+    "date": "2026-11-02T20:36:55.071+00:00",
+    "dateVerified": true
+  },
+  "ashby:ffa65512-ae82-432f-a079-c17faf3ec636": {
+    "date": "2026-11-02T14:37:41.230+00:00",
+    "dateVerified": true
+  },
+  "ashby:f9c84be6-bc81-4cbb-a06c-be1a06c222da": {
+    "date": "2026-11-02T15:54:46.456+00:00",
+    "dateVerified": true
+  },
+  "ashby:7a783045-75ec-4c15-a62a-2937227638d7": {
+    "date": "2026-11-02T18:12:11.884+00:00",
+    "dateVerified": true
+  },
+  "ashby:da8bfeb0-8d43-4fa0-808b-28025ce70feb": {
+    "date": "2026-11-02T19:52:15.177+00:00",
+    "dateVerified": true
+  },
+  "ashby:c06e4344-c7b0-4c1b-beb8-a9646594ff7c": {
+    "date": "2026-11-02T19:43:33.905+00:00",
+    "dateVerified": true
+  },
+  "ashby:5256ef0f-55d0-4a1f-9696-edd6fe56bf1e": {
+    "date": "2026-11-02T17:27:09.937+00:00",
+    "dateVerified": true
+  },
+  "ashby:3da75b5a-8b2c-48d6-9088-16886bb1dc09": {
+    "date": "2026-11-02T18:49:54.734+00:00",
+    "dateVerified": true
+  },
+  "ashby:17c84802-2133-4e30-a297-4809aaec89d2": {
+    "date": "2026-11-02T18:49:57.086+00:00",
+    "dateVerified": true
+  },
+  "ashby:bab2528f-ba76-4508-9aab-9af56ab06178": {
+    "date": "2026-11-02T12:47:47.665+00:00",
+    "dateVerified": true
+  },
+  "ashby:888d6fa4-7e63-4552-a174-1fffdb661de6": {
+    "date": "2026-11-02T18:16:55.921+00:00",
+    "dateVerified": true
+  },
+  "ashby:6ee740e8-dd6b-4b51-b2e3-d36e8d361b70": {
+    "date": "2026-11-02T23:34:33.608+00:00",
+    "dateVerified": true
+  },
+  "ashby:fa0582d2-2057-4fe6-b632-335a91df8f89": {
+    "date": "2026-11-02",
+    "dateVerified": true
+  },
+  "workable:5e5fadbea0": {
+    "date": "2026-11-02",
+    "dateVerified": true
+  },
+  "workable:23e677eee1": {
+    "date": "2026-11-02",
+    "dateVerified": true
+  },
+  "workable:57da69985e": {
+    "date": "2026-11-02",
+    "dateVerified": true
+  },
+  "workable:b4ad47f599": {
+    "date": "2026-11-02",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-research-engineer-agentic-reinforcement-learning-100-remote-worldwide": {
+    "date": "2026-05-19T11:29:06Z",
+    "dateVerified": true
+  },
+  "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Data-Engineer---Finance_JR101155": {
+    "date": "2026-11-02",
+    "dateVerified": true
+  },
+  "https://ats.rippling.com/riot-platforms-careers/jobs/89bd89c6-e5f8-43c7-9751-a2d83dfc358f": {
+    "date": "2026-11-02T11:56:38.249000-08:00",
+    "dateVerified": true
+  },
+  "https://hrmos.co/pages/bitbank/jobs/0000325": {
+    "date": "2026-11-02T08:54:50.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8083051": {
+    "date": "2026-07-24T20:12:22-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "https://circle.wd1.myworkdayjobs.com/Circle/job/Singapore---remote-first-in-Singapore/Principal-Program-Manager--Commercial_JR101199": {
+    "date": "2026-11-03",
+    "dateVerified": true
+  },
+  "https://hk.linkedin.com/jobs/view/card-operations-manager-at-bit-official-4484651237": {
+    "date": "2026-11-03T15:40:20.000Z",
+    "dateVerified": true
+  },
+  "https://hk.linkedin.com/jobs/view/senior-card-issuing-risk-fraud-specialist-at-bit-official-4484659058": {
+    "date": "2026-11-03T15:40:20.000Z",
+    "dateVerified": true
+  },
+  "https://sg.linkedin.com/jobs/view/senior-card-issuing-risk-fraud-specialist-at-bit-official-4484659039": {
+    "date": "2026-11-03T15:40:20.000Z",
+    "dateVerified": true
+  },
+  "https://my.linkedin.com/jobs/view/settlement-manager-at-bit-official-4484635790": {
+    "date": "2026-11-03T15:40:20.000Z",
+    "dateVerified": true
+  },
+  "https://my.linkedin.com/jobs/view/accountant-assistant-manager-at-bit-official-4486040137": {
+    "date": "2026-11-03T15:40:19.000Z",
+    "dateVerified": true
+  },
+  "https://hk.linkedin.com/jobs/view/graduate-hiring-business-operations-rwa-at-bit-official-4484657334": {
+    "date": "2026-11-03T15:40:19.000Z",
+    "dateVerified": true
+  },
+  "https://sg.linkedin.com/jobs/view/graduate-hiring-business-operations-rwa-at-bit-official-4485442363": {
+    "date": "2026-11-03T15:40:19.000Z",
+    "dateVerified": true
+  },
+  "https://sg.linkedin.com/jobs/view/graduate-hiring-business-operations-at-bit-official-4485440389": {
+    "date": "2026-11-03T15:40:19.000Z",
+    "dateVerified": true
+  },
+  "https://sg.linkedin.com/jobs/view/card-operations-manager-at-bit-official-4484638894": {
+    "date": "2026-11-03T15:40:19.000Z",
+    "dateVerified": true
+  },
+  "https://sg.linkedin.com/jobs/view/business-operations-at-bit-official-4485446361": {
+    "date": "2026-11-03T15:40:19.000Z",
+    "dateVerified": true
+  },
+  "https://sg.linkedin.com/jobs/view/head-of-aml-at-bit-official-4485434451": {
+    "date": "2026-11-03T15:40:19.000Z",
+    "dateVerified": true
+  },
+  "https://my.linkedin.com/jobs/view/banking-operations-analyst-at-bit-official-4484647444": {
+    "date": "2026-11-03T15:40:18.000Z",
+    "dateVerified": true
+  },
+  "https://sg.linkedin.com/jobs/view/graduate-hiring-business-operations-at-bit-official-4484646279": {
+    "date": "2026-11-03T15:40:18.000Z",
+    "dateVerified": true
+  },
+  "https://my.linkedin.com/jobs/view/settlement-assistant-manager-at-bit-official-4484638624": {
+    "date": "2026-11-03T15:40:18.000Z",
+    "dateVerified": true
+  },
+  "https://sg.linkedin.com/jobs/view/settlement-manager-at-bit-official-4486026703": {
+    "date": "2026-11-03T15:40:18.000Z",
+    "dateVerified": true
+  },
+  "https://sg.linkedin.com/jobs/view/card-issuing-product-manager-at-bit-official-4484653439": {
+    "date": "2026-11-03T15:40:18.000Z",
+    "dateVerified": true
+  },
+  "https://hk.linkedin.com/jobs/view/accountant-assistant-manager-at-bit-official-4486037178": {
+    "date": "2026-11-03T15:40:17.000Z",
+    "dateVerified": true
+  },
+  "https://sg.linkedin.com/jobs/view/accountant-assistant-manager-at-bit-official-4486023864": {
+    "date": "2026-11-03T15:40:17.000Z",
+    "dateVerified": true
+  },
+  "https://hk.linkedin.com/jobs/view/community-operations-executive-at-bit-official-4485446197": {
+    "date": "2026-11-03T15:40:17.000Z",
+    "dateVerified": true
+  },
+  "https://hk.linkedin.com/jobs/view/settlement-manager-at-bit-official-4484642441": {
+    "date": "2026-11-03T15:40:17.000Z",
+    "dateVerified": true
+  },
+  "https://www.comeet.com/jobs/blockaid/69.00B/office-manager--executive-assistant-to-the-ceo-new-york/3B.475": {
+    "date": "2026-11-03T13:30:48.000Z",
+    "dateVerified": true
+  },
+  "ashby:bfa48746-d419-4523-9c33-40f8a770c406": {
+    "date": "2026-11-03T13:01:31.061+00:00",
+    "dateVerified": true
+  },
+  "workable:e9d16aa20b": {
+    "date": "2026-11-03T13:11:12.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8926499002": {
+    "date": "2026-11-03T00:29:26-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "ashby:8147f1f8-bbe5-4c63-b1b6-115eaf6efad2": {
+    "date": "2026-11-03T10:53:16.000Z",
+    "dateVerified": true
+  },
+  "https://careers.circle.com/us/en/job/JR101199": {
+    "date": "2026-11-03T10:50:16.000Z",
+    "dateVerified": true
+  },
+  "https://careers.circle.com/us/en/job/JR101155": {
+    "date": "2026-11-03T10:50:13.000Z",
+    "dateVerified": true
+  },
+  "https://yellowcard.bamboohr.com/careers/432": {
+    "date": "2026-11-03T12:40:50.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/baton-corporation/jobs/98772884-staff-data-scientist-marketing-science-200k-300k-salary-bonus": {
+    "date": "2026-11-03T13:04:36.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/magic-eden/jobs/98723023-people-operations-lead-global": {
+    "date": "2026-11-03T13:04:36.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/helius-2-7e8cadd4-2bdb-4abf-9466-437cb089e155/jobs/98777137-head-of-security": {
+    "date": "2026-11-03T13:04:36.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/helius/jobs/98822637-head-of-security": {
+    "date": "2026-11-03T13:04:36.000Z",
+    "dateVerified": true
+  },
+  "workable:315db9f750": {
+    "date": "2026-11-03T00:00:00.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:5470690008": {
+    "date": "2026-11-02T23:00:22-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "https://sugared-duckling-ec8.notion.site/Senior-Brand-Visual-Designer-379bc95efcca80a299b4db8bddb1a7ad?pvs=25": {
+    "date": "2026-11-03T14:17:56.000Z",
+    "dateVerified": true
+  },
+  "https://sugared-duckling-ec8.notion.site/Lead-Product-Designer-379bc95efcca80d4bc63cf74aa6762dd?pvs=25": {
+    "date": "2026-11-03T14:17:55.000Z",
+    "dateVerified": true
+  },
+  "https://sugared-duckling-ec8.notion.site/Software-Engineer-React-Native-f1a81ed3a18642bf99e06617e5b7a439?pvs=25": {
+    "date": "2026-11-03T14:17:55.000Z",
+    "dateVerified": true
+  },
+  "https://sugared-duckling-ec8.notion.site/Custody-Software-Engineer-Rust-379bc95efcca808a813dc649c9fab945?pvs=25": {
+    "date": "2026-11-03T14:17:55.000Z",
+    "dateVerified": true
+  },
+  "ashby:af030479-f72e-489f-9a76-794cc1d35fac": {
+    "date": "2026-11-03T11:00:31.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8326105": {
+    "date": "2026-11-03T16:56:32-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8322582": {
+    "date": "2026-11-03T14:05:09-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8301936": {
+    "date": "2026-11-03T15:32:07-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8315954": {
+    "date": "2026-11-03T10:12:00-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8328323": {
+    "date": "2026-11-03T08:49:44-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8155002": {
+    "date": "2026-08-24T15:46:34-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337362": {
+    "date": "2026-11-03T13:26:44-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8210218": {
+    "date": "2026-11-03T15:27:00-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8315966": {
+    "date": "2026-11-03T15:31:19-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8335426": {
+    "date": "2026-11-02T05:07:24-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8261010": {
+    "date": "2026-11-02T04:51:12-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8304858": {
+    "date": "2026-11-03T16:02:53-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8350362": {
+    "date": "2026-11-03T15:38:43-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8350017": {
+    "date": "2026-11-03T11:49:47-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8348406": {
+    "date": "2026-11-03T12:17:23-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8351163": {
+    "date": "2026-11-03T16:52:11-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8348153": {
+    "date": "2026-11-03T16:24:26-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8310197": {
+    "date": "2026-11-03T14:57:43-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8120094": {
+    "date": "2026-08-18T14:25:23-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8207701": {
+    "date": "2026-11-03T08:45:05-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8346031": {
+    "date": "2026-11-03T08:27:04-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4726672006": {
+    "date": "2026-11-03T06:50:31-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8792016002": {
+    "date": "2026-11-03T14:26:01-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8831161002": {
+    "date": "2026-11-03T14:25:45-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8925481002": {
+    "date": "2026-11-03T18:27:08-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8843517002": {
+    "date": "2026-09-29T09:45:29-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5025273101": {
+    "date": "2026-11-03T08:56:13-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5025855101": {
+    "date": "2026-11-03T07:43:35-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5470904008": {
+    "date": "2026-11-03T06:54:08-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4434891009": {
+    "date": "2026-11-03T15:39:36-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5471572008": {
+    "date": "2026-11-03T15:29:24-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5025176101": {
+    "date": "2026-11-03T07:47:44-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5469755008": {
+    "date": "2026-11-03T12:55:15-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5471298008": {
+    "date": "2026-11-03T12:55:17-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5471720008": {
+    "date": "2026-11-03T16:56:42-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5428440008": {
+    "date": "2026-11-03T15:21:51-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6242350004": {
+    "date": "2026-11-03T12:49:19-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8174275003": {
+    "date": "2026-11-03T04:37:36-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8176146003": {
+    "date": "2026-11-03T07:24:07-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5011951101": {
+    "date": "2026-11-03T05:11:05-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8168871003": {
+    "date": "2026-11-03T13:53:25-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8928754002": {
+    "date": "2026-11-03T14:41:31-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4750517005": {
+    "date": "2026-11-03T10:39:45-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8927588002": {
+    "date": "2026-11-03T15:16:08-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8922042002": {
+    "date": "2026-11-03T15:15:57-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8331827": {
+    "date": "2026-11-03T09:39:46-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8350492": {
+    "date": "2026-11-03T16:13:56-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8337809": {
+    "date": "2026-11-03T13:58:18-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8156100": {
+    "date": "2026-11-03T12:37:37-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6242341004": {
+    "date": "2026-11-03T12:12:33-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "lever:a5306282-856a-4345-a27b-becaf3724cb3": {
+    "date": "2026-09-09T08:58:57.822Z",
+    "dateVerified": true
+  },
+  "lever:92182c93-f4f7-4126-8de6-471e138e6910": {
+    "date": "2026-10-27T10:59:39.758Z",
+    "dateVerified": true
+  },
+  "lever:76cca257-0961-4aa7-b234-eeb777196399": {
+    "date": "2026-09-02T11:20:19.017Z",
+    "dateVerified": true
+  },
+  "lever:22db3e8c-7e77-4127-ada6-47c7bb93595b": {
+    "date": "2026-11-03T16:37:45.966Z",
+    "dateVerified": true
+  },
+  "lever:0d177c47-cfe2-48ff-894f-eebd881009e8": {
+    "date": "2026-11-03T10:03:58.417Z",
+    "dateVerified": true
+  },
+  "lever:c0e5ae29-dce4-4290-a621-8bc0e93bb5dc": {
+    "date": "2026-11-03T07:28:40.146Z",
+    "dateVerified": true
+  },
+  "ashby:4132d698-c931-4b9c-a11c-6edcc9be6a19": {
+    "date": "2026-11-03T15:20:44.428+00:00",
+    "dateVerified": true
+  },
+  "ashby:220e674a-fc70-439f-bacf-687553ca59c9": {
+    "date": "2026-11-03T17:04:10.236+00:00",
+    "dateVerified": true
+  },
+  "ashby:fe280d10-4258-420a-b0bb-0dc9021bd803": {
+    "date": "2026-11-03T23:23:04.552+00:00",
+    "dateVerified": true
+  },
+  "ashby:79370191-233b-4d60-94cc-26914b98f75e": {
+    "date": "2026-11-03T13:58:07.353+00:00",
+    "dateVerified": true
+  },
+  "ashby:0a764ab7-1f62-4d80-9741-674bd3d540f2": {
+    "date": "2026-11-03T22:41:56.273+00:00",
+    "dateVerified": true
+  },
+  "ashby:6e303e8c-9d97-485a-9676-e0471e4bdc70": {
+    "date": "2026-11-03T22:13:56.857+00:00",
+    "dateVerified": true
+  },
+  "ashby:d24a6d19-ae39-4625-85e5-f5a704e80883": {
+    "date": "2026-11-03T17:24:15.547+00:00",
+    "dateVerified": true
+  },
+  "ashby:c41dff23-f502-42a7-a17e-5c8f759e7905": {
+    "date": "2026-11-03T17:32:10.264+00:00",
+    "dateVerified": true
+  },
+  "ashby:5f7c8bb0-810a-4ea4-ad6a-2d7c2e2dbdcb": {
+    "date": "2026-11-03T17:32:17.961+00:00",
+    "dateVerified": true
+  },
+  "ashby:caa8b2cc-2968-479d-bc4b-0bf196276459": {
+    "date": "2026-11-03T20:00:20.576+00:00",
+    "dateVerified": true
+  },
+  "ashby:f9107517-12c6-4c43-892d-7438db8a6b25": {
+    "date": "2026-11-03T15:50:27.597+00:00",
+    "dateVerified": true
+  },
+  "ashby:bdcb3db2-7e31-406c-813b-1cc7456b7343": {
+    "date": "2026-11-03T16:17:28.641+00:00",
+    "dateVerified": true
+  },
+  "ashby:0287cd72-6f37-4fe2-8e6a-a9ebfd2b5163": {
+    "date": "2026-11-03T16:00:20.028+00:00",
+    "dateVerified": true
+  },
+  "ashby:12285dd7-2993-4da2-946f-ddd6f768e0bd": {
+    "date": "2026-11-03T14:24:41.129+00:00",
+    "dateVerified": true
+  },
+  "ashby:7dc576a5-5f68-42db-9bfb-faec7450d4c5": {
+    "date": "2026-11-03T12:16:18.070+00:00",
+    "dateVerified": true
+  },
+  "ashby:e469f906-13ab-4e5b-a7cf-09a16a64a23a": {
+    "date": "2026-11-03T16:24:27.895+00:00",
+    "dateVerified": true
+  },
+  "ashby:5556a1e7-7711-49f3-8d73-6428cad2940b": {
+    "date": "2026-10-31T12:29:59.752+00:00",
+    "dateVerified": true
+  },
+  "workable:d841f3d1ad": {
+    "date": "2026-11-03T00:00:00.000Z",
+    "dateVerified": true
+  },
+  "workable:b6c4743a0c": {
+    "date": "2026-11-03T00:00:00.000Z",
+    "dateVerified": true
+  },
+  "workable:bed1743981": {
+    "date": "2026-11-03T00:00:00.000Z",
+    "dateVerified": true
+  },
+  "workable:b422eebeaa": {
+    "date": "2026-11-03T00:00:00.000Z",
+    "dateVerified": true
+  },
+  "workable:d7e4b33b4d": {
+    "date": "2026-11-03T00:00:00.000Z",
+    "dateVerified": true
+  },
+  "workable:82d0418695": {
+    "date": "2026-11-03",
+    "dateVerified": true
+  },
+  "breezy:bitdeer.breezy.hr:966674063fc9": {
+    "date": "2026-11-02",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/966674063fc9-ai-datacenter-construction-manager",
+      "checkedAt": "2026-11-04T00:07:21.158Z",
+      "bodySha256": "9757f51554fd57ef8b60c5021bc30f6431436012aa604ddc3801ba79d8f28336",
+      "provider": "breezy",
+      "datePosted": "2026-11-02"
+    }
+  },
+  "breezy:bitdeer.breezy.hr:68ff9c2948ca": {
+    "date": "2026-11-02",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/68ff9c2948ca-ai-datacenter-electrical-high-voltage-construction-manager",
+      "checkedAt": "2026-11-04T00:07:21.159Z",
+      "bodySha256": "0d48bf8f480b847432805ba8db91b42d43b237e1d1a807af8974d08e0de49a94",
+      "provider": "breezy",
+      "datePosted": "2026-11-02"
+    }
+  },
+  "breezy:bitdeer.breezy.hr:e8a7c1b900b1": {
+    "date": "2026-11-03",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/e8a7c1b900b1-legal-counsel-norway",
+      "checkedAt": "2026-11-04T00:07:24.645Z",
+      "bodySha256": "fff1eefc4718a6255d20076c7901d7469ca2140555bfd25f0562d13f6be16de8",
+      "provider": "breezy",
+      "datePosted": "2026-11-03"
+    }
+  },
+  "breezy:bitdeer.breezy.hr:e89b32dd03f5": {
+    "date": "2026-11-02",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/e89b32dd03f5-senior-staff-si-pi-engineer",
+      "checkedAt": "2026-11-04T00:07:28.466Z",
+      "bodySha256": "3063f60a577e1f82d0e4842c89aae375c0574f821f95ee5e1fe413dfb2689e8f",
+      "provider": "breezy",
+      "datePosted": "2026-11-02"
+    }
+  },
+  "breezy:xrex.breezy.hr:16372b5314e8": {
+    "date": "2020-07-15",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://xrex.breezy.hr/p/16372b5314e8-senior-sre-engineer",
+      "checkedAt": "2026-11-04T00:08:43.854Z",
+      "bodySha256": "cc8496c476d62f968c1078e83a8c5fe22d529ce281d3d2557a9bf5342d3233db",
+      "provider": "breezy",
+      "datePosted": "2020-07-15"
+    }
   }
 }

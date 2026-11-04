@@ -1,10 +1,11 @@
 import type { EventVenueAddress, Web3Event } from './events';
 
-const STREET_DESIGNATOR = /(?:\b(?:street|st\.?|road|rd\.?|avenue|ave\.?|boulevard|blvd\.?|lane|ln\.?|drive|dr\.?|way|place|pl\.?|square|sq\.?|terrace|highway|hwy\.?|parkway|pkwy\.?|court|ct\.?|close|crescent|mews|quay|wharf|esplanade|promenade|plaza|broadway|green|grn\.?|hill|center|centre|ctr\.?|marg|tower|city|ward|chome|rue|chemin|allee|allée|route|strasse|straße|platz|gasse|via|viale|piazza|calle|carrera|avenida|av\.?|rua|travessa|estrada|jalan|lorong|soi|ro|gil|daero|airport|point|block|complex)\b|[路街道巷])/i;
+const STREET_DESIGNATOR = /(?:\b(?:street|st\.?|road|rd\.?|avenue|ave\.?|boulevard|blvd\.?|lane|ln\.?|drive|dr\.?|way|place|pl\.?|square|sq\.?|terrace|highway|hwy\.?|parkway|pkwy\.?|court|ct\.?|close|crescent|mews|quay|wharf|esplanade|promenade|plaza|broadway|green|grn\.?|hill|center|centre|ctr\.?|marg|tower|city|ward|chome|rue|chemin|allee|allée|route|strasse|straße|platz|gasse|via|viale|piazza|calle|carrera|avenida|av\.?|rua|travessa|estrada|jalan|lorong|soi|ro|gil|daero|airport|point|block|complex|carrer|cl\.?|yard|thanon|strand|causeway)\b|[路街道巷]|(?:^|[\s,])(?:đường|duong)(?:$|[\s,]))/iu;
 const HOUSE_NUMBER = /(?:^|[\s,])#?\d{1,5}[a-z]?(?:-\d{1,5}[a-z]?)?(?:\/\d{1,5})?(?=$|[\s,])/i;
+const POSTAL_CODE = /\b(?:\d{5,6}|[A-Z]{1,2}\d[A-Z\d]?\s*\d[A-Z]{2}|\d{4}\s*[A-Z]{2})\b/i;
 const KOREAN_LOT_ADDRESS = /\b\d{1,4}(?:-\d{1,4})?\s+[\p{Script=Hangul}A-Za-z0-9-]+-dong\b/iu;
 const LETTERED_BLOCK_ADDRESS = /\b[A-Z]\s+Block\s*,\s*[^,]{5,}\bComplex\b/i;
-const COMPOUND_STREET_NAME = /\b[\p{L}]+(?:straße|strasse|gasse|platz|straat|laan|kade|plein)\b/iu;
+const COMPOUND_STREET_NAME = /\b[\p{L}]+(?:straße|strasse|gasse|platz|straat|laan|kade|plein|gata|schans)\b/iu;
 const ADDITIONAL_STREET_DESIGNATOR = /\b(?:quai|speedway|causeway|alameda|jl\.?|carrera|carretera)\b/i;
 
 // Require a street locator, including lettered blocks used in Indian addresses.
@@ -13,7 +14,7 @@ export function hasDetailedStreetAddress(value?: string | null): boolean {
   const address = value?.trim() ?? '';
   if (address.length < 7 || address.length > 250) return false;
   if (LETTERED_BLOCK_ADDRESS.test(address)) return true;
-  if (!HOUSE_NUMBER.test(address)) return false;
+  if (!HOUSE_NUMBER.test(address) && !POSTAL_CODE.test(address)) return false;
   return STREET_DESIGNATOR.test(address) || KOREAN_LOT_ADDRESS.test(address) || COMPOUND_STREET_NAME.test(address) || ADDITIONAL_STREET_DESIGNATOR.test(address);
 }
 
@@ -51,3 +52,39 @@ export function getEventVenueLabel(event: Pick<Web3Event, 'locationHidden' | 'lo
   if (!street || location.toLowerCase().includes(street.toLowerCase())) return location;
   return [...new Set([event.venueName || location, street, event.addressLocality || event.city, event.addressRegion, event.postalCode, event.addressCountry || event.country].filter(Boolean))].join(', ');
 }
+
+export type EventDisplayLocation = {
+  primary: string;
+  detail?: string;
+};
+
+export function getEventDisplayLocation(
+  event: Pick<Web3Event, 'locationHidden' | 'location' | 'venueName' | 'streetAddress' | 'addressLocality' | 'addressRegion' | 'postalCode' | 'addressCountry' | 'city' | 'country' | 'venueAddresses' | 'attendanceMode' | 'venueAddressSource'>
+): EventDisplayLocation {
+  if (event.locationHidden) {
+    return {
+      primary: [event.city, event.country].filter(Boolean).join(', ') || 'Location shared with registered guests',
+    };
+  }
+  if ((event.venueAddresses?.length || 0) > 1) {
+    return { primary: 'Multiple venues' };
+  }
+
+  const cityCountry = [event.city, event.country].filter(Boolean).join(', ');
+  const venue = (event.venueName || '').trim();
+  const primary = venue && cityCountry && !venue.toLowerCase().includes(cityCountry.toLowerCase())
+    ? `${venue} · ${cityCountry}`
+    : (venue || cityCountry || event.location || 'Location TBA');
+
+  let detail: string | undefined = undefined;
+  if (event.streetAddress && (hasDetailedStreetAddress(event.streetAddress) || hasVerifiedVenueAddress(event))) {
+    const parts = [event.streetAddress, event.postalCode].filter(Boolean);
+    const candidate = parts.join(', ');
+    if (candidate && !primary.toLowerCase().includes(candidate.toLowerCase())) {
+      detail = candidate;
+    }
+  }
+
+  return { primary, detail };
+}
+

@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-11-02",
+    "threadId": "C06",
+    "sequence": 16,
+    "platform": "linkedin",
+    "sourceContentSha256": "1cbe2f93ef8c2be5086df627ff8374c4090b8f42aebe30623ae69d6c3176c55f",
+    "calendarSha256": "70484da3b7319ebb706092e37759daf11ea4a58df5a9beadef96d8dd5ada9ebc",
+    "sourceThreadSha256": "31e953bbe75d34dd06ab3423f8006b7c8d3c2ed5144a8fe36a3eb824d1753f35",
+    "sourcePostHashes": [
+      "869557dc67d4e048efcdf3645d45020afcc30b0c50a31a76e57eba89adbf619e",
+      "1de48abde947a260d1662e528cf1327441afa3fb80a882f40e4141a5554e1269",
+      "4ae767b2fdc580dc93aa91ca0e8c434476e0538f8ab5715e51ca275bd83b7999",
+      "d382d69241c54ec5478e1184e9bfaafd7d4028317df9b2f4c2a2f51b4dc5d81c",
+      "517155a9e4e534c176895adb59ce320a699257d0d7bd4329cc77e9c9507c7e50",
+      "cac5e143d833befbace37d405210ddb4f24108b23aafee8dcb0fa95a45410409"
+    ],
+    "sourceImages": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/C06-01.jpg",
+        "sha256": "0bde2c99dc0b552da0876172192b7a0421aedf2449feb8b9ddeca289dac3e614",
+        "bytes": 162625,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Five event posters with November 2026 dates and cities: Devcon 8, Mumbai, Nov 3-6; Toronto VibeStation, Toronto, Nov 6; W3Node, Cape Town, Nov 12-14; Solana Breakpoint, London, Nov 15-17; CryptoCon Sydney, Sydney, Nov 28-29. Details checked with organizers October 20.",
+        "renderedText": "November events\n\nFive November Web3 gatherings\n\nNovember 2026 · Organizer checks: October 20\n\nDevcon 8\n\nMumbai · Nov 3-6\n\nToronto VibeStation\n\nToronto · Nov 6\n\nW3Node\n\nCape Town · Nov 12-14\n\nSolana Breakpoint\n\nLondon · Nov 15-17\n\nCryptoCon Sydney\n\nSydney · Nov 28-29\n\nSources: event organizers\n\nC06 · 1/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C06-02.jpg",
+        "sha256": "9a2c2811a2eb7ad450ac070d9b11e6c69a92b90b354ca537986aa3d7aeecf497",
+        "bytes": 234169,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Devcon 8 poster and event details: Mumbai, India, Nov 3-6, 2026. Ethereum talks and workshops on core protocol, privacy and security. Paid general admission has no eligibility test; discounted tickets have separate conditions. Organizer details checked October 20.",
+        "renderedText": "November events\n\nDevcon 8\n\nNovember 2026 · Organizer checks: October 20\n\nDevcon 8 | Nov 3-6, 2026 | Mumbai, India.\n\nEthereum talks and workshops on core protocol, privacy and security. Paid general admission has no eligibility test; discounted tickets have separate conditions.\n\nSources: event organizers\n\nC06 · 2/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C06-03.jpg",
+        "sha256": "caf821ef6df6cc26993b53e60dda6aa1d6f6010154961666204e9f783b201acd",
+        "bytes": 149979,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Toronto VibeStation poster and event details: Toronto, Canada, Nov 6, 2026. Superteam Canada's Solana coworking day includes project work, lunch and snacks. Free attendance through public applications with host approval; exact address shared with guests. Checked October 20.",
+        "renderedText": "November events\n\nToronto VibeStation\n\nNovember 2026 · Organizer checks: October 20\n\nToronto VibeStation | Nov 6, 2026 | Toronto, Canada.\n\nSuperteam Canada's Solana coworking day: project work, lunch and snacks. Free; public applications require approval. Address shared with guests.\n\nSources: event organizers\n\nC06 · 3/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C06-04.jpg",
+        "sha256": "f591dc4447b2f0d0c51534462358ffe15a17916a87a5e859ffe6d1e920a9c95c",
+        "bytes": 157093,
+        "width": 1200,
+        "height": 1500,
+        "alt": "W3Node Conference & Hackathon poster and details: Cape Town, South Africa, Nov 12-14, 2026, at Parkview Event Space. Keynotes, technical workshops and a 3-day hackathon. Conference passes are paid; hacker participation is free by application. Checked October 20.",
+        "renderedText": "November events\n\nW3Node Conference & Hackathon\n\nNovember 2026 · Organizer checks: October 20\n\nW3Node | Nov 12-14, 2026 | Cape Town, South Africa.\n\nKeynotes, technical workshops and a 3-day hackathon at Parkview Event Space. Paid conference passes; free hacker participation by application.\n\nSources: event organizers\n\nC06 · 4/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C06-05.jpg",
+        "sha256": "2fd0003547f1d392a3348fc0cfb05354794191e3c082728c03ded5fadf370c94",
+        "bytes": 184817,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Solana Breakpoint poster and details: London, UK, Nov 15-17, 2026, at Olympia Convention Centre. Topics include stablecoins, tokenized assets and payments. Paid general, developer and student ticket categories. Checked October 20.",
+        "renderedText": "November events\n\nSolana Breakpoint\n\nNovember 2026 · Organizer checks: October 20\n\nSolana Breakpoint | Nov 15-17, 2026 | London, UK.\n\nOlympia Convention Centre; stablecoins, tokenized assets and payments. Paid general, developer and student ticket categories.\n\nSources: event organizers\n\nC06 · 5/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C06-06.jpg",
+        "sha256": "aa602e8dcf81a229c2eb224fc6e96d68fd086d70533d4d39201306dc3d253842",
+        "bytes": 144759,
+        "width": 1200,
+        "height": 1500,
+        "alt": "CryptoCon Sydney poster and details: ICC Sydney, Australia, Nov 28-29, 2026. Topics include regulation, startups and blockchain infrastructure. General admission covers expo and speaker sessions for free; premium networking and yacht access require paid passes. Checked October 20.",
+        "renderedText": "November events\n\nCryptoCon Sydney\n\nNovember 2026 · Organizer checks: October 20\n\nCryptoCon Sydney | Nov 28-29, 2026 | Sydney, Australia.\n\nICC Sydney: regulation, startups and blockchain infrastructure. General admission covers expo and speakers for free; premium events require a paid pass.\n\nSources: event organizers\n\nC06 · 6/6"
+      }
+    ],
+    "assetCommit": "33bcc5a1726490bba11686701b09f37c30cc72de",
+    "target": {
+      "channelId": "69c5b139af47dacb695b5feb",
+      "service": "linkedin",
+      "serviceId": "89714573",
+      "profile": "https://www.linkedin.com/company/hashtagweb3/"
+    },
+    "caption": "Five November 2026 Web3 gatherings ahead on Nov 2: Mumbai, Toronto, Cape Town, London and Sydney.\n\nDates, programs and entry terms checked with organizers on Oct 20.\n\n1. Devcon 8 | Nov 3-6, 2026 | Mumbai, India.\n\nEthereum talks and workshops on core protocol, privacy and security. Paid general admission has no eligibility test; discounted tickets have separate conditions.\n\n2. Toronto VibeStation | Nov 6, 2026 | Toronto, Canada.\n\nSuperteam Canada's Solana coworking day: project work, lunch and snacks. Free; public applications require approval. Address shared with guests.\n\n3. W3Node | Nov 12-14, 2026 | Cape Town, South Africa.\n\nKeynotes, technical workshops and a 3-day hackathon at Parkview Event Space. Paid conference passes; free hacker participation by application.\n\n4. Solana Breakpoint | Nov 15-17, 2026 | London, UK.\n\nOlympia Convention Centre; stablecoins, tokenized assets and payments. Paid general, developer and student ticket categories.\n\n5. CryptoCon Sydney | Nov 28-29, 2026 | Sydney, Australia.\n\nICC Sydney: regulation, startups and blockchain infrastructure. General admission covers expo and speakers for free; premium events require a paid pass.\n\nFull resource: hashtagweb3.com/events/li",
+    "title": "Five November Web3 gatherings, with dates and entry conditions",
+    "pdf": {
+      "path": "social-assets/knowledge-threads-month/exports/C06/linkedin.pdf",
+      "sha256": "7da80c1b931d10f7c2ce50c5de4605a5c69ce581da8bf2fb682d9e452b7125be",
+      "bytes": 1037281,
+      "pageCount": 6,
+      "widthPt": 600,
+      "heightPt": 750,
+      "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/33bcc5a1726490bba11686701b09f37c30cc72de/social-assets/knowledge-threads-month/exports/C06/linkedin.pdf"
+    },
+    "thumbnail": {
+      "path": "social-assets/knowledge-threads-month/exports/C06/cover.jpg",
+      "sha256": "0bde2c99dc0b552da0876172192b7a0421aedf2449feb8b9ddeca289dac3e614",
+      "bytes": 162625,
+      "width": 1200,
+      "height": 1500,
+      "alt": "Five event posters with November 2026 dates and cities: Devcon 8, Mumbai, Nov 3-6; Toronto VibeStation, Toronto, Nov 6; W3Node, Cape Town, Nov 12-14; Solana Breakpoint, London, Nov 15-17; CryptoCon Sydney, Sydney, Nov 28-29. Details checked with organizers October 20.",
+      "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/33bcc5a1726490bba11686701b09f37c30cc72de/social-assets/knowledge-threads-month/exports/C06/cover.jpg"
+    }
+  },
+  "account": {
+    "channelId": "69c5b139af47dacb695b5feb",
+    "service": "linkedin",
+    "serviceId": "89714573",
+    "profile": "https://www.linkedin.com/company/hashtagweb3/",
+    "type": "page",
+    "organizationId": "69c5b0f799d3bd8de475e25a"
+  },
+  "claimId": "1751fd7b-6dd2-4454-8edd-20083424a5c1",
+  "startedAt": "2026-11-02T11:32:23.874Z",
+  "status": "accepted",
+  "postId": "6ae874c9339e85e60169dccc"
+}

@@ -1,8 +1,9 @@
 import type { Company, Job } from '../types';
-import { jobAgeExclusionReason } from './job-age-policy.mjs';
+import { MAX_JOB_AGE_DAYS, jobAgeExclusionReason, parseJobPostingDate } from './job-age-policy.mjs';
 import { getJobPostingLocation } from './job-posting-location';
 import { getCompanySlug, getJobSlug } from './job-slugs';
 import { resolveJobLocation } from './job-location';
+import { getJobSalaryInfo } from './job-salary';
 
 interface JobPostingInput {
   job: Job;
@@ -28,6 +29,13 @@ function escapeHtml(value: string): string {
   return value.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
 }
 
+/** Detect employment type only when explicitly specified in role title or workplace/description */
+function detectVerifiedEmploymentType(title: string): 'INTERN' | 'CONTRACTOR' | undefined {
+  if (/\bintern(?:ship)?\b/i.test(title)) return 'INTERN';
+  if (/\b(?:contractor|freelance)\b/i.test(title)) return 'CONTRACTOR';
+  return undefined;
+}
+
 /** Return diagnostics instead of publishing incomplete or inferred job claims. */
 export function buildJobPostingSchema({ job, contentHtml, descriptionIsFallback = false, company, siteUrl, logoUrl, now = Date.now() }: JobPostingInput) {
   const reasons: string[] = [];
@@ -46,6 +54,17 @@ export function buildJobPostingSchema({ job, contentHtml, descriptionIsFallback 
 
   const sameAs = httpUrl(company?.website);
   const logo = httpUrl(logoUrl);
+
+  const postedMs = parseJobPostingDate(job.date);
+  const validThrough = Number.isFinite(postedMs)
+    ? new Date(postedMs + MAX_JOB_AGE_DAYS * 86_400_000).toISOString()
+    : undefined;
+
+  const salaryInfo = getJobSalaryInfo(job, contentHtml);
+  const baseSalary = !salaryInfo.isEstimated && salaryInfo.schema ? salaryInfo.schema : undefined;
+
+  const employmentType = detectVerifiedEmploymentType(job.title);
+
   return {
     reasons,
     schema: {
@@ -56,6 +75,9 @@ export function buildJobPostingSchema({ job, contentHtml, descriptionIsFallback 
       description: `<p>Location: ${escapeHtml(resolveJobLocation(job))}</p>${contentHtml}`,
       identifier: { '@type': 'PropertyValue', name: 'hashtagweb3.com', value: job.id },
       datePosted: job.date,
+      ...(validThrough && { validThrough }),
+      ...(employmentType && { employmentType }),
+      ...(baseSalary && { baseSalary }),
       hiringOrganization: {
         '@type': 'Organization',
         name: job.company,
@@ -63,8 +85,6 @@ export function buildJobPostingSchema({ job, contentHtml, descriptionIsFallback 
         ...(sameAs && { sameAs }),
         ...(logo && { logo }),
       },
-      // The catalog has no verified employment type, application flow, employer
-      // deadline, or salary units/currency. Optional claims stay absent.
       ...location.fields,
       url: `${siteUrl}/${getJobSlug(job)}`,
     },

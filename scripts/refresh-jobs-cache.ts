@@ -1609,6 +1609,7 @@ async function refreshJobsCache() {
   // --- Comeet Sources ---
   const COMEET_BOARDS = [
     { board: '41.009', token: '14952452466D3DB7B61495240B91', company: 'eToro' },
+    { board: '8A.00E', token: 'A8E49E234C634C62A385EFE49E22A38A8E151C', company: 'Hypernative' },
   ];
 
   for (const cm of COMEET_BOARDS) {
@@ -1634,13 +1635,15 @@ async function refreshJobsCache() {
         const title = cleanTitle(posting.name);
         const link = posting.url_active_page || posting.url_comeet_hosted_page;
         if (!title || !link || !isConcreteOpening(title)) continue;
+        const date = normalizeSourcePostingDate(posting.time_updated);
         const candidate: CachedJob = {
           id: posting.uid,
           title,
           company: cm.company,
           link,
-          date: '',
-          dateVerified: false,
+          date,
+          dateVerified: Boolean(date),
+          dateSource: 'Comeet.positions.datePosted',
           source: sourceLabel('Comeet', cm.board, cm.company),
           location: posting.location?.name,
           department: posting.department,

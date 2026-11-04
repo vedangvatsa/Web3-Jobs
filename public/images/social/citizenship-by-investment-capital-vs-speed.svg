@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+  <defs>
+    <!-- Dot Grid Pattern -->
+    <pattern id="dotGrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="14" cy="14" r="1.5" fill="#CBD5E1" />
+    </pattern>
+
+    <!-- Drop Shadows for Badges -->
+    <filter id="badgeShadow" x="-10%" y="-20%" width="125%" height="150%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#0F172A" flood-opacity="0.08" />
+    </filter>
+    <filter id="subtleShadow" x="-10%" y="-20%" width="125%" height="150%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#000000" flood-opacity="0.12" />
+    </filter>
+  </defs>
+
+  <!-- Background Canvas with Dot Grid -->
+  <rect width="1200" height="1200" fill="#F8FAFC" />
+  <rect width="1200" height="1200" fill="url(#dotGrid)" />
+
+  <!-- Outer Border Frame -->
+  <rect x="24" y="24" width="1152" height="1152" rx="20" fill="none" stroke="#E2E8F0" stroke-width="1.5" />
+
+  <!-- Top Title -->
+  <text x="600" y="80" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, Helvetica, sans-serif" font-size="39" font-weight="800" fill="#0F172A" letter-spacing="-0.5px">Global Citizenship: Capital vs Speed</text>
+
+  <!-- Central Crosshairs Axes in Clean Charcoal/Slate -->
+  <!-- Horizontal X-Axis Line (from 90 to 1110, y=620) -->
+  <line x1="90" y1="620" x2="1110" y2="620" stroke="#64748B" stroke-width="2.5" />
+  <!-- Left Arrow (pointing LEFT) -->
+  <polygon points="75,620 92,612 92,628" fill="#64748B" />
+  <!-- Right Arrow (pointing RIGHT) -->
+  <polygon points="1125,620 1108,612 1108,628" fill="#64748B" />
+
+  <!-- Vertical Y-Axis Line (from 175 to 1065, x=600) -->
+  <line x1="600" y1="175" x2="600" y2="1065" stroke="#64748B" stroke-width="2.5" />
+  <!-- Top Arrow (pointing UP) -->
+  <polygon points="600,160 592,177 608,177" fill="#64748B" />
+  <!-- Bottom Arrow (pointing DOWN) -->
+  <polygon points="600,1080 592,1063 608,1063" fill="#64748B" />
+
+  <!-- Axis Labels (Clean, Modern, Slate) -->
+  <text x="600" y="140" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700" fill="#334155" letter-spacing="1.2px">FAST-TRACK PASSPORT (1 - 6 MONTHS)</text>
+  <text x="600" y="1112" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700" fill="#334155" letter-spacing="1.2px">NATURALIZATION ROUTE (5 - 10 YEARS)</text>
+  <text x="100" y="608" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="700" fill="#334155" letter-spacing="1.2px">EXPENSIVE CAPITAL ($500K+)</text>
+  <text x="1100" y="608" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="700" fill="#334155" letter-spacing="1.2px">ACCESSIBLE CAPITAL (&lt;$250K)</text>
+
+  <!-- Data Badges / Stickers -->
+  
+    <g class="badge" data-name="Vanuatu">
+      <!-- Badge background container -->
+      <rect x="888" y="189" width="171" height="42" rx="12" fill="#C084FC"  filter="url(#subtleShadow)"/>
+      
+      <!-- Flag circle inside badge -->
+      <g transform="translate(897, 197)">
+        <clipPath id="flag-clip-citizenship-by-investment-capital-vs-speed-0">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik01MTIgMjIzVjBIMGwxOTMgMjU2eiIvPjxwYXRoIGZpbGw9IiM2ZGE1NDQiIGQ9Ik01MTIgMjg5djIyM0gwbDE5My0yNTZaIi8+PHBhdGggZmlsbD0iIzMzMyIgZD0ibTAgMCAyMjMgMjIzaDI4OXYyMmwtOCAxMSA4IDExdjIySDIyM0wwIDUxMnYtMzFsOC0yNC04LThWNjNsOC03LTgtMjRaIi8+PHBhdGggZmlsbD0iI2ZmZGE0NCIgZD0iTTAgMzJ2MzFsMTkzIDE5M0wwIDQ0OXYzMmwyMTMtMjE0aDI5OXYtMjJIMjEzem03MyAxNjljLTIyIDAtNDAgMTgtNDAgNDEgMCAxOCAxNSAzMyAzNCAzM2EyOCAyOCAwIDAgMCAyOC0yOEg3NHEtMSA2LTcgN2ExMiAxMiAwIDAgMS0xMi0xMiAxOSAxOSAwIDAgMSAxOS0xOSAyOCAyOCAwIDAgMSAyNyAyNyAzOSAzOSAwIDAgMS0zOSAzOXYyMmMzMyAwIDYwLTI4IDYwLTYxYTQ5IDQ5IDAgMCAwLTQ5LTQ5Ii8+PC9nPjwvc3ZnPg==" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-citizenship-by-investment-capital-vs-speed-0)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
+      
+      <!-- Text details -->
+      <text x="930" y="207" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#1E1B4B">Vanuatu</text>
+      <text x="930" y="221" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#581C87">117 Visa-Free · $130k</text>
+    </g>
+
+    <g class="badge" data-name="Dominica">
+      <!-- Badge background container -->
+      <rect x="835" y="309" width="171" height="42" rx="12" fill="#059669"  filter="url(#subtleShadow)"/>
+      
+      <!-- Flag circle inside badge -->
+      <g transform="translate(844, 317)">
+        <clipPath id="flag-clip-citizenship-by-investment-capital-vs-speed-1">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiM0OTZlMmQiIGQ9Ik0wIDBoMjA4bDQ4IDMyIDQ4LTMyaDIwOHYyMDhsLTMyIDQ4IDMyIDQ4djIwOEgzMDRsLTQ4LTMyLTQ4IDMySDBWMzA0bDMyLTQ4LTMyLTQ4WiIvPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik01MTIgMjQwdjMybC0yNTYgMzJMMCAyNzJ2LTMybDI1Ni0zMnoiLz48cGF0aCBmaWxsPSIjZmZkYTQ0IiBkPSJNNTEyIDIwOHYzMkgwdi0zMnoiLz48cGF0aCBmaWxsPSIjMzMzIiBkPSJNMjQwIDBoMzJsMzIgMjU2LTMyIDI1NmgtMzJsLTMyLTI1NloiLz48cGF0aCBmaWxsPSIjZmZkYTQ0IiBkPSJNMjA4IDBoMzJ2NTEyaC0zMnoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJNMjcyIDBoMzJ2NTEyaC0zMnoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJNNTEyIDI3MnYzMkgwdi0zMnoiLz48Y2lyY2xlIGN4PSIyNTYiIGN5PSIyNTYiIHI9IjEyMi40IiBmaWxsPSIjZDgwMDI3Ii8+PHBhdGggZmlsbD0iIzQ5NmUyZCIgZD0iTTI4NCAyNzBjLTktMTktMjEtMzctMjEtMzd2LTEzYTE0IDE0IDAgMCAwLTI3LTIgMTEgMTEgMCAwIDAtNCAyMSAxNiAxNiAwIDAgMSA5LTkgMTQgMTQgMCAwIDAgMiAyaDJzLTcgMTktNyAyOWMwIDI3IDE5IDM2IDE5IDM2bC0xMCA5aDE5di0xOGw5IDlzMTctMTEgOS0yN3ptLTI4LTExNCA0IDEzaDE0bC0xMSA4IDQgMTItMTEtOC0xMSA4IDQtMTItMTEtOGgxNFptLTU5IDE5IDExIDggMTEtOC00IDEzIDExIDhoLTE0bC00IDEyLTQtMTJoLTE0bDExLTh6bS0zNiA1MGgxM2w0LTEzIDQgMTNoMTRsLTExIDggNCAxMy0xMS04LTExIDggNS0xM3ptMCA2MiAxMS04LTUtMTMgMTEgOCAxMS04LTQgMTMgMTEgOGgtMTRsLTQgMTMtNC0xM1ptMzYgNTAgNC0xMy0xMS04aDE0bDQtMTIgNCAxMmgxM2wtMTAgOCA0IDEzLTExLTh6bTU5IDE5LTQtMTNoLTE0bDExLTgtNC0xMiAxMSA4IDExLTgtNCAxMiAxMSA5aC0xNFptNTktMTktMTEtOC0xMSA4IDQtMTMtMTAtOGgxM2w0LTEyIDQgMTJoMTRsLTExIDh6bTM2LTUwaC0xM2wtNCAxMy00LTEzaC0xNGwxMS04LTQtMTMgMTEgOCAxMS04LTUgMTN6bTAtNjItMTEgOCA1IDEzLTExLTgtMTEgOCA0LTEzLTExLThoMTRsNC0xMyA0IDEzem0tMzYtNTAtNCAxMyAxMSA4aC0xNGwtNCAxMi00LTEyaC0xNGwxMS04LTQtMTMgMTEgOHoiLz48L2c+PC9zdmc+" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-citizenship-by-investment-capital-vs-speed-1)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
+      
+      <!-- Text details -->
+      <text x="877" y="327" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Dominica</text>
+      <text x="877" y="341" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#A7F3D0">145 Visa-Free · $200k</text>
+    </g>
+
+    <g class="badge" data-name="Antigua &amp; Barbuda">
+      <!-- Badge background container -->
+      <rect x="680" y="196" width="194" height="42" rx="12" fill="#0D9488"  filter="url(#subtleShadow)"/>
+      
+      <!-- Flag circle inside badge -->
+      <g transform="translate(689, 204)">
+        <clipPath id="flag-clip-citizenship-by-investment-capital-vs-speed-2">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik0wIC40aDUxMmwtMzQgMjI5SDM2eiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0zNjcuMyAyMDUuMy0xMDkuNyAxOS40LTExMi45LTE5LjQgNDUuNS0yMS4zLTI0LjItNDQgNDkuMyA5LjQgNi4zLTQ5LjkgMzQuNCAzNi43IDM0LjQtMzYuNiA2LjMgNTBMMzQ2IDE0MGwtMjQuMiA0NHoiLz48cGF0aCBmaWxsPSIjMDA1MmI0IiBkPSJNMjUuNiAyMDUuM2g0NjYuOEwyNTcgNDM5LjV6Ii8+PHBhdGggZmlsbD0iI2VlZSIgZD0iTTM0IDMwNy40aDQ0NkwyNTYgNTExLjZ6Ii8+PHBhdGggZmlsbD0iI2EyMDAxZCIgZD0ibTAgNTExLjYgMjU2IC40TDAgLjR6bTI1NiAuNCAyNTYtLjRWMHoiLz48L2c+PC9zdmc+" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-citizenship-by-investment-capital-vs-speed-2)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
+      
+      <!-- Text details -->
+      <text x="722" y="214" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Antigua &amp; Barbuda</text>
+      <text x="722" y="228" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#CCFBF1">153 Visa-Free · $230k</text>
+    </g>
+
+    <g class="badge" data-name="Grenada">
+      <!-- Badge background container -->
+      <rect x="755" y="419" width="171" height="42" rx="12" fill="#FB923C"  filter="url(#subtleShadow)"/>
+      
+      <!-- Flag circle inside badge -->
+      <g transform="translate(764, 427)">
+        <clipPath id="flag-clip-citizenship-by-investment-capital-vs-speed-3">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Ik0yMy42IDIzLjdoNDY0Ljh2NDY0LjdIMjMuNnoiLz48cGF0aCBmaWxsPSIjNDk2ZTJkIiBkPSJNMCA3NS4xIDM4IDM4bDQzNi4zIDQzNi40IDM3LjctMzcuNVY3NWwtMzkuNi0zNS41TDQwLjIgNDcxLjggMCA0MzYuOHoiLz48Y2lyY2xlIGN4PSIyNTYiIGN5PSIyNTYuMSIgcj0iODkiIGZpbGw9IiNhMjAwMWQiLz48cGF0aCBmaWxsPSIjZmZkYTQ0IiBkPSJtMjU2IDE2NyAyMCA2MS41aDY0LjZsLTUyLjMgMzggMjAgNjEuMy01Mi4zLTM4LTUyLjMgMzggMjAtNjEuMy01Mi4zLTM4SDIzNnpNMjU2IC4yeiIvPjxwYXRoIGZpbGw9IiNhMjAwMWQiIGQ9Ik0wIDBoNTEydjc1LjFIMHptMCA0MzYuOGg1MTJ2NzUuMUgweiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0yNTYgMjggNC4xIDEyLjdoMTMuNWwtMTAuOSA4IDQuMiAxMi42LTEwLjktNy45LTEwLjggOCA0LjEtMTIuOC0xMC45LThIMjUyem0tNjIgMCA0IDEyLjdoMTMuNWwtMTAuOSA4IDQuMiAxMi42LTEwLjktNy45LTEwLjggOCA0LjEtMTIuOC0xMC44LThoMTMuNHptMTI0IDAgNC4yIDEyLjdoMTMuNGwtMTAuOCA4IDQuMSAxMi42LTEwLjgtNy45LTEwLjkgOCA0LjItMTIuOC0xMC45LThIMzE0em0tNjIgNDIyLjggNC4xIDEyLjdoMTMuNWwtMTAuOSA4IDQuMiAxMi43LTEwLjktOC0xMC44IDggNC4xLTEyLjgtMTAuOS03LjlIMjUyem0tNjIgMCA0IDEyLjdoMTMuNWwtMTAuOSA4IDQuMiAxMi43LTEwLjktOC0xMC44IDggNC4xLTEyLjgtMTAuOC03LjloMTMuNHptMTI0IDAgNC4yIDEyLjdoMTMuNGwtMTAuOCA4IDQuMSAxMi43LTEwLjgtOC0xMC45IDggNC4yLTEyLjgtMTAuOS03LjlIMzE0em0tMjQwLTE5OWEyMi4zIDIyLjMgMCAwIDEtMzcuNiAyMy45Yy0xMi0xOC44LTUtNDkuNS01LTQ5LjVTNjYgMjMzIDc4IDI1MS45eiIvPjxjaXJjbGUgY3g9IjY1LjEiIGN5PSIyNzMuMiIgcj0iMTEuMSIgZmlsbD0iI2EyMDAxZCIvPjwvZz48L3N2Zz4=" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-citizenship-by-investment-capital-vs-speed-3)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
+      
+      <!-- Text details -->
+      <text x="797" y="437" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Grenada</text>
+      <text x="797" y="451" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#FFEDD5">148 Visa-Free · $235k</text>
+    </g>
+
+    <g class="badge" data-name="St. Lucia">
+      <!-- Badge background container -->
+      <rect x="645" y="339" width="171" height="42" rx="12" fill="#2563EB"  filter="url(#subtleShadow)"/>
+      
+      <!-- Flag circle inside badge -->
+      <g transform="translate(654, 347)">
+        <clipPath id="flag-clip-citizenship-by-investment-capital-vs-speed-4">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiMzMzhhZjMiIGQ9Ik0wIDBoNTEydjUxMkgweiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0xNjEuNCAzNDVoMTg5LjJMMjU2IDEyMi40eiIvPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik0xOTQuMyAzMjIuOCAyNTYgMTgyLjRsNjEuNyAxNDAuNHoiLz48cGF0aCBmaWxsPSIjZmZkYTQ0IiBkPSJNMTYxLjQgMzQ1aDE4OS4yTDI1NiAyNTZ6Ii8+PC9nPjwvc3ZnPg==" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-citizenship-by-investment-capital-vs-speed-4)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
+      
+      <!-- Text details -->
+      <text x="687" y="357" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">St. Lucia</text>
+      <text x="687" y="371" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#BFDBFE">146 Visa-Free · $240k</text>
+    </g>
+
+    <g class="badge" data-name="St. Kitts &amp; Nevis">
+      <!-- Badge background container -->
+      <rect x="618" y="252" width="194" height="42" rx="12" fill="#059669"  filter="url(#subtleShadow)"/>
+      
+      <!-- Flag circle inside badge -->
+      <g transform="translate(627, 260)">
+        <clipPath id="flag-clip-citizenship-by-investment-capital-vs-speed-5">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0wIDQwMS45IDE3My42LTIyNS4zTDQwMS45IDBINDQ5bDYzIDYzLS4xIDQ3LjMtMTY3LjMgMjIzLjVMMTEwLjMgNTEySDYzTDAgNDQ5eiIvPjxwYXRoIGZpbGw9IiM2ZGE1NDQiIGQ9Ik0wIDB2NDAxLjlMNDAxLjkgMHoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNNTEyIDUxMlYxMTAuM0wxMTAuMyA1MTJ6Ii8+PHBhdGggZmlsbD0iIzMzMyIgZD0iTTAgNTEyaDYzTDUxMiA2M1YwaC02M0wwIDQ0OXoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJtMTYyLjggMzAyIDI0IDEyLjIgMTktMTktNC40IDI2LjUgMjQgMTIuMi0yNi42IDQuMi00LjIgMjYuNS0xMi0yNEwxNTYgMzQ1bDE5LTE5ek0zMDIgMTYyLjhsMjQgMTIuMSAxOS0xOS00LjMgMjYuNiAyNCAxMi4xLTI2LjYgNC4yLTQuMiAyNi41LTEyLjItMjMuOS0yNi41IDQuMiAxOS0xOXoiLz48L2c+PC9zdmc+" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-citizenship-by-investment-capital-vs-speed-5)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
+      
+      <!-- Text details -->
+      <text x="660" y="270" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">St. Kitts &amp; Nevis</text>
+      <text x="660" y="284" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#A7F3D0">157 Visa-Free · $250k</text>
+    </g>
+
+    <g class="badge" data-name="El Salvador">
+      <!-- Badge background container -->
+      <rect x="149" y="249" width="182" height="42" rx="12" fill="#FACC15"  filter="url(#subtleShadow)"/>
+      
+      <!-- Flag circle inside badge -->
+      <g transform="translate(158, 257)">
+        <clipPath id="flag-clip-citizenship-by-investment-capital-vs-speed-6">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDBoNTEydjE0NC43bC00MC41IDExMi42IDQwLjUgMTEwVjUxMkgwVjM2Ny4zbDQyLjItMTE0TDAgMTQ0Ljd6Ii8+PHBhdGggZmlsbD0iI2VlZSIgZD0iTTAgMTQ0LjdoNTEydjIyMi42SDB6Ii8+PHBhdGggZmlsbD0iI2ZmZGE0NCIgZD0ibTIwNC42IDI2Ny4xIDUxLjQtODkgNTEuNCA4OXoiLz48cGF0aCBmaWxsPSIjNmRhNTQ0IiBkPSJNMzIyLjggMjk2LjUgMjU2IDMzMGwtNjYuOC0zMy40VjI1MmgxMzMuNnoiLz48cGF0aCBmaWxsPSIjZmZkYTQ0IiBkPSJtMzE5IDE4Mi0yMy42IDIzLjVhNTUuNSA1NS41IDAgMCAxLTM5LjQgOTUgNTUuNyA1NS43IDAgMCAxLTM5LjMtOTVMMTkzIDE4MmE4OSA4OSAwIDEgMCAxMjYgMHoiLz48L2c+PC9zdmc+" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-citizenship-by-investment-capital-vs-speed-6)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
+      
+      <!-- Text details -->
+      <text x="191" y="267" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#1E293B">El Salvador</text>
+      <text x="191" y="281" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#475569">136 Visa-Free · $1M BTC</text>
+    </g>
+
+    <g class="badge" data-name="Turkey">
+      <!-- Badge background container -->
+      <rect x="385" y="422" width="171" height="42" rx="12" fill="#E11D48"  filter="url(#subtleShadow)"/>
+      
+      <!-- Flag circle inside badge -->
+      <g transform="translate(394, 430)">
+        <clipPath id="flag-clip-citizenship-by-investment-capital-vs-speed-7">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjUxMkgweiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0yMDggMTE1YTE0MSAxNDEgMCAxIDAgMTA2IDI0MnEtMjUgMTMtNTQgMTNhMTE0IDExNCAwIDEgMSA1NC0yMTUgMTQxIDE0MSAwIDAgMC0xMDYtNDBtMTQyIDY3djU2bC01NCAxOCA1NCAxN3Y1N2wzMy00NiA1NCAxOC0zMy00NiAzMy00Ni01NCAxOHoiLz48L2c+PC9zdmc+" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-citizenship-by-investment-capital-vs-speed-7)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
+      
+      <!-- Text details -->
+      <text x="427" y="440" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Turkey</text>
+      <text x="427" y="454" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#FECDD3">118 Visa-Free · $400k</text>
+    </g>
+
+    <g class="badge" data-name="Malta">
+      <!-- Badge background container -->
+      <rect x="255" y="366" width="171" height="42" rx="12" fill="#7C3AED"  filter="url(#subtleShadow)"/>
+      
+      <!-- Flag circle inside badge -->
+      <g transform="translate(264, 374)">
+        <clipPath id="flag-clip-citizenship-by-investment-capital-vs-speed-8">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0wIDBoMjU2bDUyIDI1OS4yTDI1NiA1MTJIMHoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMjU2IDBoMjU2djUxMkgyNTZ6Ii8+PHBhdGggZmlsbD0iI2FjYWJiMSIgZD0iTTE2MCAxMjhWOTZoLTMydjMySDk2djMyaDMydjMyaDMydi0zMmgzMnYtMzJ6Ii8+PC9nPjwvc3ZnPg==" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-citizenship-by-investment-capital-vs-speed-8)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
+      
+      <!-- Text details -->
+      <text x="297" y="384" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Malta</text>
+      <text x="297" y="398" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#E9D5FF">187 Visa-Free · €750k</text>
+    </g>
+
+    <g class="badge" data-name="UAE">
+      <!-- Badge background container -->
+      <rect x="345" y="529" width="171" height="42" rx="12" fill="#FF5722"  filter="url(#subtleShadow)"/>
+      
+      <!-- Flag circle inside badge -->
+      <g transform="translate(354, 537)">
+        <clipPath id="flag-clip-citizenship-by-investment-capital-vs-speed-9">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNhMjAwMWQiIGQ9Ik0wIDBoMTY3bDUyLjMgMjUyTDE2NyA1MTJIMHoiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJtMTY3IDE2NyAxNzAuOC00NC42TDUxMiAxNjd2MTc4bC0xNzMuMiAzNi45TDE2NyAzNDV6Ii8+PHBhdGggZmlsbD0iIzZkYTU0NCIgZD0iTTE2NyAwaDM0NXYxNjdIMTY3eiIvPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik0xNjcgMzQ1aDM0NXYxNjdIMTY3eiIvPjwvZz48L3N2Zz4=" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-citizenship-by-investment-capital-vs-speed-9)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
+      
+      <!-- Text details -->
+      <text x="387" y="547" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">UAE</text>
+      <text x="387" y="561" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#FFE0B2">182 Visa-Free · $545k</text>
+    </g>
+
+    <g class="badge" data-name="Greece">
+      <!-- Badge background container -->
+      <rect x="406" y="749" width="177" height="42" rx="12" fill="#2563EB"  filter="url(#subtleShadow)"/>
+      
+      <!-- Flag circle inside badge -->
+      <g transform="translate(415, 757)">
+        <clipPath id="flag-clip-citizenship-by-investment-capital-vs-speed-10">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiMwMDUyYjQiIGQ9Ik0wIDBoOTlsMjkgMzIgMjgtMzJoMzU2djU3bC0zMiAyOCAzMiAyOXY1N2wtMzIgMjggMzIgMjl2NTdsLTMyIDI4IDMyIDI4djU3bC0zMiAyOSAzMiAyOHY1N0gwdi01N2wzMi0yOC0zMi0yOXYtNTZsMzItMjktMzItMjhWMTcxbDMyLTI5LTMyLTI4WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik05OSAwdjExNEgwdjU3aDk5djExNEgwdjU3aDUxMnYtNTdIMTU2VjE3MWgxMDB2LTU3SDE1NlYwWm0xNTcgNTd2NTdoMjU2VjU3Wm0wIDExNHY1N2gyNTZ2LTU3Wk0wIDM5OHY1N2g1MTJ2LTU3eiIvPjwvZz48L3N2Zz4=" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-citizenship-by-investment-capital-vs-speed-10)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
+      
+      <!-- Text details -->
+      <text x="448" y="767" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Greece</text>
+      <text x="448" y="781" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#BFDBFE">187 Visa-Free · €400k+</text>
+    </g>
+
+    <g class="badge" data-name="Portugal">
+      <!-- Badge background container -->
+      <rect x="618" y="679" width="171" height="42" rx="12" fill="#FF5722"  filter="url(#subtleShadow)"/>
+      
+      <!-- Flag circle inside badge -->
+      <g transform="translate(627, 687)">
+        <clipPath id="flag-clip-citizenship-by-investment-capital-vs-speed-11">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiM2ZGE1NDQiIGQ9Ik0wIDUxMmgxNjdsMzcuOS0yNjAuM0wxNjcgMEgweiIvPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik01MTIgMEgxNjd2NTEyaDM0NXoiLz48Y2lyY2xlIGN4PSIxNjciIGN5PSIyNTYiIHI9Ijg5IiBmaWxsPSIjZmZkYTQ0Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0iTTExNi45IDIxMS41VjI2N2E1MCA1MCAwIDEgMCAxMDAuMSAwdi01NS42SDExN3oiLz48cGF0aCBmaWxsPSIjZWVlIiBkPSJNMTY3IDI4My44Yy05LjIgMC0xNi43LTcuNS0xNi43LTE2LjdWMjQ1aDMzLjR2MjJjMCA5LjItNy41IDE2LjctMTYuNyAxNi43eiIvPjwvZz48L3N2Zz4=" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-citizenship-by-investment-capital-vs-speed-11)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
+      
+      <!-- Text details -->
+      <text x="660" y="697" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Portugal</text>
+      <text x="660" y="711" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#FFE0B2">188 Visa-Free · €500k</text>
+    </g>
+
+    <g class="badge" data-name="Spain">
+      <!-- Badge background container -->
+      <rect x="335" y="859" width="171" height="42" rx="12" fill="#E11D48"  filter="url(#subtleShadow)"/>
+      
+      <!-- Flag circle inside badge -->
+      <g transform="translate(344, 867)">
+        <clipPath id="flag-clip-citizenship-by-investment-capital-vs-speed-12">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0wIDEyOCAyNTYtMzIgMjU2IDMydjI1NmwtMjU2IDMyTDAgMzg0WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0xOTYgMTY4cS0xMSAxLTE1IDExbC01LTFxLTE1IDEtMTYgMTZjLTEgMTUgNyAxNiAxNiAxNnExMSAwIDE1LTExYTE2IDE2IDAgMCAwIDE3LTQgMTYgMTYgMCAwIDAgMTcgNCAxNiAxNiAwIDEgMCAxMC0yMCAxNiAxNiAwIDAgMC0yNy01cS00LTYtMTItNm0wIDhxOCAxIDggOCAwIDgtOCA4LTcgMC04LTggMS03IDgtOG0yNCAwcTggMSA4IDggMCA4LTggOC03IDAtOC04IDEtNyA4LThtLTQ0IDEwIDQgMSA0IDhxLTEgNy04IDctOSAwLTgtOCAxLTcgOC04bTY0IDBxOCAxIDggOCAwIDgtOCA4LTcgMC04LTdsNC04em0tMTEyIDM4djgwaDE2di04MHptODAgMHY0MGMtMjYgMC00OCAxNC00OCAzMnMyMiAzMiA0OCAzMiA0OC0xNCA0OC0zMnYtNzJ6bTY0IDB2ODBoMTZ2LTgweiIvPjxwYXRoIGZpbGw9IiNmZjk4MTEiIGQ9Ik0yMDAgMTYwaDE2djMyaC0xNnoiLz48cGF0aCBmaWxsPSIjZDgwMDI3IiBkPSJNMCAwdjEyOGg1MTJWMHptMjA4IDE4NGMtMjIgMC00MCAxMS00MCAyNGw4IDhoNjRsOC04YzAtMTMtMTgtMjQtNDAtMjRtLTcyIDhhOCA4IDAgMCAwLTggOHY4YTggOCAwIDEgMCAxNiAwdi04YTggOCAwIDAgMC04LThtMTQ0IDBhOCA4IDAgMCAwLTggOHY4YTggOCAwIDEgMCAxNiAwdi04YTggOCAwIDAgMC04LThtLTEyMCAzMnYyNGgtMzhhNCA0IDAgMCAwLTQgNCA0IDQgMCAwIDAgNCA0aDM4djQwYTI0IDI0IDAgMCAwIDI0IDI0IDI0IDI0IDAgMCAwIDI0LTI0IDI0IDI0IDAgMCAwIDI0IDI0IDI0IDI0IDAgMCAwIDI0LTI0di0yNGgtNDh2LTQ4em03MiA4YTEwIDEwIDAgMCAwLTEwIDEwdjEyYTEwIDEwIDAgMSAwIDIwIDB2LTEyYTEwIDEwIDAgMCAwLTEwLTEwbTI0IDE2djhoMzhhNCA0IDAgMCAwIDQtNCA0IDQgMCAwIDAtNC00em0tMTM0IDI0YTQgNCAwIDAgMC00IDQgNCA0IDAgMCAwIDQgNGgyOGE0IDQgMCAwIDAgNC00IDQgNCAwIDAgMC00LTR6bTE0NCAwYTQgNCAwIDAgMC00IDQgNCA0IDAgMCAwIDQgNGgyOGE0IDQgMCAwIDAgNC00IDQgNCAwIDAgMC00LTR6TTAgMzg0djEyOGg1MTJWMzg0eiIvPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Ik0xODYgMTk2YTYgNiAwIDAgMC02IDYgNiA2IDAgMCAwIDYgNiA2IDYgMCAwIDAgNi02IDYgNiAwIDAgMC02LTZtMjIgMGE2IDYgMCAwIDAtNiA2IDYgNiAwIDAgMCA2IDYgNiA2IDAgMCAwIDYtNiA2IDYgMCAwIDAtNi02bTIyIDBhNiA2IDAgMCAwLTYgNiA2IDYgMCAwIDAgNiA2IDYgNiAwIDAgMCA2LTYgNiA2IDAgMCAwLTYtNiIvPjxwYXRoIGZpbGw9IiNmZjk4MTEiIGQ9Ik0xMjggMjA4YTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2em0xNDQgMGE4IDggMCAxIDAgMCAxNmgxNmE4IDggMCAxIDAgMC0xNnptLTk2IDh2OGg2NHYtOHptLTggMTZ2OGg4djE2aC04djhoMzJ2LThoLTh2LTE2aDh2LTh6bS04IDQwdjI0cTEgMTIgOSAxOXYtNDN6bTE5IDB2NDdoMTB2LTQ3em0yMCAwdjQzcTktNyA5LTE5di0yNHptLTcxIDMyYTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2em0xNDQgMGE4IDggMCAxIDAgMCAxNmgxNmE4IDggMCAxIDAgMC0xNnoiLz48cGF0aCBmaWxsPSIjMzM4YWYzIiBkPSJNMjA4IDI1NmExNiAxNiAwIDAgMC0xNiAxNiAxNiAxNiAwIDAgMCAxNiAxNiAxNiAxNiAwIDAgMCAxNi0xNiAxNiAxNiAwIDAgMC0xNi0xNm0tODAgNjRhOCA4IDAgMSAwIDAgMTZoMTZhOCA4IDAgMSAwIDAtMTZ6bTE0NCAwYTggOCAwIDEgMCAwIDE2aDE2YTggOCAwIDEgMCAwLTE2eiIvPjwvZz48L3N2Zz4=" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-citizenship-by-investment-capital-vs-speed-12)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
+      
+      <!-- Text details -->
+      <text x="377" y="877" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Spain</text>
+      <text x="377" y="891" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#FECDD3">190 Visa-Free · €500k</text>
+    </g>
+
+    <g class="badge" data-name="Germany">
+      <!-- Badge background container -->
+      <rect x="188" y="719" width="204" height="42" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" filter="url(#badgeShadow)"/>
+      
+      <!-- Flag circle inside badge -->
+      <g transform="translate(197, 727)">
+        <clipPath id="flag-clip-citizenship-by-investment-capital-vs-speed-13">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNmZmRhNDQiIGQ9Im0wIDM0NSAyNTYuNy0yNS41TDUxMiAzNDV2MTY3SDB6Ii8+PHBhdGggZmlsbD0iI2Q4MDAyNyIgZD0ibTAgMTY3IDI1NS0yMyAyNTcgMjN2MTc4SDB6Ii8+PHBhdGggZmlsbD0iIzMzMyIgZD0iTTAgMGg1MTJ2MTY3SDB6Ii8+PC9nPjwvc3ZnPg==" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-citizenship-by-investment-capital-vs-speed-13)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
+      
+      <!-- Text details -->
+      <text x="230" y="737" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#0F172A">Germany</text>
+      <text x="230" y="751" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#64748B">191 Visa-Free · 5y Natural.</text>
+    </g>
+
+    <g class="badge" data-name="Singapore">
+      <!-- Badge background container -->
+      <rect x="142" y="939" width="177" height="42" rx="12" fill="#0F172A"  filter="url(#subtleShadow)"/>
+      
+      <!-- Flag circle inside badge -->
+      <g transform="translate(151, 947)">
+        <clipPath id="flag-clip-citizenship-by-investment-capital-vs-speed-14">
+          <circle cx="13" cy="13" r="13"/>
+        </clipPath>
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PG1hc2sgaWQ9ImEiPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2IiBmaWxsPSIjZmZmIi8+PC9tYXNrPjxnIG1hc2s9InVybCgjYSkiPjxwYXRoIGZpbGw9IiNkODAwMjciIGQ9Ik0wIDBoNTEydjI1NmwtMjU2IDMyTDAgMjU2WiIvPjxwYXRoIGZpbGw9IiNlZWUiIGQ9Ik0yMDAgNTZhNzggNzggMCAxIDAgMTcgMTU0IDc4IDc4IDAgMCAxIDAtMTUycS04LTItMTctMm01NiA1LTUgMTdoLTE4bDE0IDExLTUgMTcgMTQtMTEgMTUgMTEtNi0xNyAxNS0xMWgtMTh6bS00MyAzNC02IDE3aC0xOGwxNSAxMC02IDE3IDE1LTEwIDE0IDEwLTUtMTcgMTQtMTBoLTE4em04NiAwLTUgMTdoLTE4bDE0IDEwLTUgMTcgMTQtMTAgMTUgMTAtNi0xNyAxNS0xMGgtMTh6bS03MCA1MC01IDE3aC0xOGwxNCAxMC01IDE3IDE0LTEwIDE1IDEwLTYtMTcgMTUtMTBoLTE4em01NCAwLTYgMTdoLTE4bDE1IDEwLTYgMTcgMTUtMTAgMTQgMTAtNS0xNyAxNC0xMGgtMThaTTAgMjU2djI1Nmg1MTJWMjU2WiIvPjwvZz48L3N2Zz4=" x="0" y="0" width="26" height="26" clip-path="url(#flag-clip-citizenship-by-investment-capital-vs-speed-14)" preserveAspectRatio="xMidYMid slice"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.9"/>
+        <circle cx="13" cy="13" r="13" fill="none" stroke="#000000" stroke-width="0.5" stroke-opacity="0.15"/>
+      </g>
+      
+      <!-- Text details -->
+      <text x="184" y="957" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Singapore</text>
+      <text x="184" y="971" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" fill="#94A3B8">195 Visa-Free · Closed</text>
+    </g>
+
+  <!-- Footer Sources & Watermark -->
+  <line x1="45" y1="1138" x2="1155" y2="1138" stroke="#E2E8F0" stroke-width="1" />
+  <text x="45" y="1165" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="13" font-weight="400" fill="#64748B">Sources: Hashtag Web3 Passport &amp; CBI Guide (Statutory citizenship &amp; Golden Visa laws 2026).</text>
+  <text x="1155" y="1165" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="14.5"><tspan fill="#64748B" font-weight="500">Find Web3 Jobs at </tspan><tspan fill="#0F172A" font-weight="700">hashtagweb3.com</tspan></text>
+</svg>

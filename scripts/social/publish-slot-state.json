@@ -1,15 +1,15 @@
 {
-  "news": "2026-10-29",
-  "morning": "2026-10-29",
+  "news": "2026-11-04",
+  "morning": "2026-11-04",
   "afternoon": "2026-09-24",
   "evening": "2026-09-24",
   "slots": {
-    "morning": "2026-10-25",
-    "afternoon": "2026-10-15",
-    "evening": "2026-10-27"
+    "morning": "2026-11-01",
+    "afternoon": "2026-10-30",
+    "evening": "2026-10-31"
   },
-  "deployed": "2026-10-27",
-  "ingested": "2026-10-29",
+  "deployed": "2026-10-31",
+  "ingested": "2026-11-04",
   "dailyDeployments": {
     "2026-10-23": [
       {
@@ -281,6 +281,422 @@
         "rolloutId": "daily-20261029-40812787568-1",
         "buildState": "FAILED",
         "observedAt": "2026-10-29T05:10:35.174Z"
+      },
+      {
+        "date": "2026-10-29",
+        "id": "40856932551-1",
+        "sourceCommit": "99aac8e308f132b6eeaf22e6efe9e3e204c5256d",
+        "jobsCheckedAt": "2026-10-29T03:44:10.332Z",
+        "newsCompletedAt": "2026-10-29T04:51:23.333Z",
+        "articleSlugs": [
+          "phpctf",
+          "cftcprobe",
+          "liquidgap",
+          "bithumbraid",
+          "bitgojupiter",
+          "dailydividends"
+        ],
+        "phase": "succeeded",
+        "startedAt": "2026-10-29T10:23:10.994Z",
+        "buildId": "daily-20261029-40856932551-1",
+        "rolloutId": "daily-20261029-40856932551-1",
+        "buildState": "READY",
+        "observedAt": "2026-10-29T10:39:20.809Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-10-29T10:39:20.809Z"
+      }
+    ],
+    "2026-10-30": [
+      {
+        "date": "2026-10-30",
+        "id": "41040419973-1",
+        "sourceCommit": "2019adde7b123a232b9d26db5498e41e17678a05",
+        "jobsCheckedAt": "2026-10-30T03:48:25.428Z",
+        "newsCompletedAt": "2026-10-30T11:42:13.586Z",
+        "articleSlugs": [
+          "amplitude",
+          "solflareincident",
+          "cftc247",
+          "aavebtc",
+          "cbbrasil"
+        ],
+        "phase": "succeeded",
+        "startedAt": "2026-10-30T11:43:35.060Z",
+        "buildId": "daily-20261030-41040419973-1",
+        "rolloutId": "daily-20261030-41040419973-1",
+        "buildState": "READY",
+        "observedAt": "2026-10-30T12:07:24.345Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-10-30T12:07:24.345Z"
+      }
+    ],
+    "2026-10-31": [
+      {
+        "date": "2026-10-31",
+        "id": "41164628414-1",
+        "sourceCommit": "7d9d29510284482ef2dcff82b1aba601ab40dc50",
+        "jobsCheckedAt": "2026-10-31T03:40:24.980Z",
+        "newsCompletedAt": "2026-10-31T05:18:58.028Z",
+        "articleSlugs": [
+          "selig",
+          "comer",
+          "spacexstake",
+          "coindcxfutures",
+          "binancecover"
+        ],
+        "phase": "succeeded",
+        "startedAt": "2026-10-31T05:20:06.745Z",
+        "buildId": "daily-20261031-41164628414-1",
+        "rolloutId": "daily-20261031-41164628414-1",
+        "buildState": "READY",
+        "observedAt": "2026-10-31T05:41:19.021Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-10-31T05:41:19.021Z"
+      }
+    ],
+    "2026-11-01": [
+      {
+        "date": "2026-11-01",
+        "id": "41269427065-1",
+        "sourceCommit": "7c387612b4c0d86b35004d4302c89c56e242f6dd",
+        "jobsCheckedAt": "2026-11-01T03:40:06.202Z",
+        "newsCompletedAt": "2026-11-01T05:19:01.281Z",
+        "articleSlugs": [
+          "tradertraitor",
+          "yccrypto",
+          "cftchack",
+          "tetherq3"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-11-01T05:20:14.264Z",
+        "buildId": "daily-20261101-41269427065-1",
+        "rolloutId": "daily-20261101-41269427065-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-01T05:33:19.781Z"
+      },
+      {
+        "date": "2026-11-01",
+        "id": "41298836378-1",
+        "sourceCommit": "24353119e34426317a09d9e19e95a09be0a55e92",
+        "jobsCheckedAt": "2026-11-01T03:40:06.202Z",
+        "newsCompletedAt": "2026-11-01T05:19:01.281Z",
+        "articleSlugs": [
+          "tradertraitor",
+          "yccrypto",
+          "cftchack",
+          "tetherq3"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-11-01T10:46:45.614Z",
+        "buildId": "daily-20261101-41298836378-1",
+        "rolloutId": "daily-20261101-41298836378-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-01T10:59:22.185Z"
+      },
+      {
+        "date": "2026-11-01",
+        "id": "41302141989-1",
+        "sourceCommit": "4e65e4ce8f069db9136d6c56f50c6d3ea1a5ca68",
+        "jobsCheckedAt": "2026-11-01T03:40:06.202Z",
+        "newsCompletedAt": "2026-11-01T05:19:01.281Z",
+        "articleSlugs": [
+          "tradertraitor",
+          "yccrypto",
+          "cftchack",
+          "tetherq3"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-11-01T11:32:06.777Z",
+        "buildId": "daily-20261101-41302141989-1",
+        "rolloutId": "daily-20261101-41302141989-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-01T11:44:46.745Z"
+      },
+      {
+        "date": "2026-11-01",
+        "id": "41330309267-1",
+        "sourceCommit": "e49dbb82f90fb7615b049cc61d8a29395a2f3fe7",
+        "jobsCheckedAt": "2026-11-01T03:40:06.202Z",
+        "newsCompletedAt": "2026-11-01T05:19:01.281Z",
+        "articleSlugs": [
+          "tradertraitor",
+          "yccrypto",
+          "cftchack",
+          "tetherq3"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-11-01T17:14:21.758Z",
+        "buildId": "daily-20261101-41330309267-1",
+        "rolloutId": "daily-20261101-41330309267-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-01T17:27:57.488Z"
+      },
+      {
+        "date": "2026-11-01",
+        "id": "41342110650-1",
+        "sourceCommit": "1fd7fec65e23514ba3d4172cd732bd2f9bd57e9c",
+        "jobsCheckedAt": "2026-11-01T03:40:06.202Z",
+        "newsCompletedAt": "2026-11-01T05:19:01.281Z",
+        "articleSlugs": [
+          "tradertraitor",
+          "yccrypto",
+          "cftchack",
+          "tetherq3"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-11-01T19:32:29.664Z",
+        "buildId": "daily-20261101-41342110650-1",
+        "rolloutId": "daily-20261101-41342110650-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-01T19:48:35.666Z"
+      },
+      {
+        "date": "2026-11-01",
+        "id": "41359548579-1",
+        "sourceCommit": "16e07f070bd94b42e982f714501155d12ed18102",
+        "jobsCheckedAt": "2026-11-01T03:40:06.202Z",
+        "newsCompletedAt": "2026-11-01T05:19:01.281Z",
+        "articleSlugs": [
+          "tradertraitor",
+          "yccrypto",
+          "cftchack",
+          "tetherq3"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-11-01T22:57:30.146Z",
+        "buildId": "daily-20261101-41359548579-1",
+        "rolloutId": "daily-20261101-41359548579-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-01T23:11:09.889Z"
+      }
+    ],
+    "2026-11-02": [
+      {
+        "date": "2026-11-02",
+        "id": "41389522311-1",
+        "sourceCommit": "414a50052dac66657aac361bcdb452f315093519",
+        "jobsCheckedAt": "2026-11-02T04:47:05.652Z",
+        "newsCompletedAt": "2026-11-02T06:26:34.481Z",
+        "articleSlugs": [
+          "etfoutflows",
+          "b14gcore",
+          "anzalinux"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-11-02T06:27:47.363Z",
+        "buildId": "daily-20261102-41389522311-1",
+        "rolloutId": "daily-20261102-41389522311-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-02T06:42:54.949Z"
+      },
+      {
+        "date": "2026-11-02",
+        "id": "41437320098-1",
+        "sourceCommit": "33bcc5a1726490bba11686701b09f37c30cc72de",
+        "jobsCheckedAt": "2026-11-02T04:47:05.652Z",
+        "newsCompletedAt": "2026-11-02T06:26:34.481Z",
+        "articleSlugs": [
+          "etfoutflows",
+          "b14gcore",
+          "anzalinux"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-11-02T11:32:18.292Z",
+        "buildId": "daily-20261102-41437320098-1",
+        "rolloutId": "daily-20261102-41437320098-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-02T11:49:25.858Z"
+      },
+      {
+        "date": "2026-11-02",
+        "id": "41438264431-1",
+        "sourceCommit": "886796c86143ea076d74e8eb88c1d3293cb054d3",
+        "jobsCheckedAt": "2026-11-02T04:47:05.652Z",
+        "newsCompletedAt": "2026-11-02T06:26:34.481Z",
+        "articleSlugs": [
+          "etfoutflows",
+          "b14gcore",
+          "anzalinux"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-11-02T11:50:30.974Z",
+        "buildId": "daily-20261102-41438264431-1",
+        "rolloutId": "daily-20261102-41438264431-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-02T12:08:39.784Z"
+      },
+      {
+        "date": "2026-11-02",
+        "id": "41510492292-1",
+        "sourceCommit": "1ac4e22545f74cae0fc5c5393ec1af62c1a1c65a",
+        "jobsCheckedAt": "2026-11-02T04:47:05.652Z",
+        "newsCompletedAt": "2026-11-02T06:26:34.481Z",
+        "articleSlugs": [
+          "etfoutflows",
+          "b14gcore",
+          "anzalinux"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-11-02T19:32:11.842Z",
+        "buildId": "daily-20261102-41510492292-1",
+        "rolloutId": "daily-20261102-41510492292-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-02T19:45:52.566Z"
+      },
+      {
+        "date": "2026-11-02",
+        "id": "41522983581-1",
+        "sourceCommit": "75d16babed24bf95f761c22ae7f5da569c9c13f4",
+        "jobsCheckedAt": "2026-11-02T04:47:05.652Z",
+        "newsCompletedAt": "2026-11-02T06:26:34.481Z",
+        "articleSlugs": [
+          "etfoutflows",
+          "b14gcore",
+          "anzalinux"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-11-02T20:53:23.007Z",
+        "buildId": "daily-20261102-41522983581-1",
+        "rolloutId": "daily-20261102-41522983581-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-02T21:10:01.389Z"
+      }
+    ],
+    "2026-11-03": [
+      {
+        "date": "2026-11-03",
+        "id": "41561364672-1",
+        "sourceCommit": "5a334507e354d3ad5c2c13e915c0566a27531a71",
+        "jobsCheckedAt": "2026-11-03T01:52:18.418Z",
+        "newsCompletedAt": "2026-11-03T03:30:56.853Z",
+        "articleSlugs": [
+          "kimjong",
+          "njstaking"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-11-03T03:32:19.846Z",
+        "buildId": "daily-20261103-41561364672-1",
+        "rolloutId": "daily-20261103-41561364672-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-03T03:50:57.491Z"
+      },
+      {
+        "date": "2026-11-03",
+        "id": "41572846513-1",
+        "sourceCommit": "0ed7ee25eb4f711d135b5280c4ba7ec0cfb5d550",
+        "jobsCheckedAt": "2026-11-03T03:43:45.007Z",
+        "newsCompletedAt": "2026-11-03T03:30:56.853Z",
+        "articleSlugs": [
+          "kimjong",
+          "njstaking"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-11-03T03:52:10.448Z",
+        "buildId": "daily-20261103-41572846513-1",
+        "rolloutId": "daily-20261103-41572846513-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-03T04:08:21.868Z"
+      },
+      {
+        "date": "2026-11-03",
+        "id": "41626105585-1",
+        "sourceCommit": "909f819984e2ad315c41b965b4231c216ec098dc",
+        "jobsCheckedAt": "2026-11-03T03:43:45.007Z",
+        "newsCompletedAt": "2026-11-03T03:30:56.853Z",
+        "articleSlugs": [
+          "kimjong",
+          "njstaking"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-11-03T11:17:41.554Z",
+        "buildId": "daily-20261103-41626105585-1",
+        "rolloutId": "daily-20261103-41626105585-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-03T11:34:55.050Z"
+      },
+      {
+        "date": "2026-11-03",
+        "id": "41628015120-1",
+        "sourceCommit": "a24403c638eb9dc1eb596e54a93ee4e3f5d6bc4a",
+        "jobsCheckedAt": "2026-11-03T03:43:45.007Z",
+        "newsCompletedAt": "2026-11-03T03:30:56.853Z",
+        "articleSlugs": [
+          "kimjong",
+          "njstaking"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-11-03T11:36:07.567Z",
+        "buildId": "daily-20261103-41628015120-1",
+        "rolloutId": "daily-20261103-41628015120-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-03T11:53:22.747Z"
+      },
+      {
+        "date": "2026-11-03",
+        "id": "41695085509-1",
+        "sourceCommit": "d9c30e1efb2d18ffddb38852885fecb557204edd",
+        "jobsCheckedAt": "2026-11-03T03:43:45.007Z",
+        "newsCompletedAt": "2026-11-03T03:30:56.853Z",
+        "articleSlugs": [
+          "kimjong",
+          "njstaking"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-11-03T18:37:46.093Z",
+        "buildId": "daily-20261103-41695085509-1",
+        "rolloutId": "daily-20261103-41695085509-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-03T18:59:38.805Z"
+      }
+    ],
+    "2026-11-04": [
+      {
+        "date": "2026-11-04",
+        "id": "41743772185-1",
+        "sourceCommit": "3142f93be68a8211484b3f242b2c509e0d67e7e6",
+        "jobsCheckedAt": "2026-11-04T00:14:06.165Z",
+        "newsCompletedAt": "2026-11-04T01:02:26.714Z",
+        "articleSlugs": [
+          "tetherbtc"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-11-04T01:03:44.311Z",
+        "buildId": "daily-20261104-41743772185-1",
+        "rolloutId": "daily-20261104-41743772185-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-04T01:20:55.987Z"
+      },
+      {
+        "date": "2026-11-04",
+        "id": "41791931136-1",
+        "sourceCommit": "4f528816c0bb2933a0a6233238a6ccc3a2a581b1",
+        "jobsCheckedAt": "2026-11-04T00:14:06.165Z",
+        "newsCompletedAt": "2026-11-04T01:02:26.714Z",
+        "articleSlugs": [
+          "tetherbtc"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-11-04T07:25:02.986Z",
+        "buildId": "daily-20261104-41791931136-1",
+        "rolloutId": "daily-20261104-41791931136-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-04T07:38:38.395Z"
+      },
+      {
+        "date": "2026-11-04",
+        "id": "41791929278-1",
+        "sourceCommit": "2e1ea23aea65d59786424d688155ea98e9dd4571",
+        "jobsCheckedAt": "2026-11-04T00:14:06.165Z",
+        "newsCompletedAt": "2026-11-04T01:02:26.714Z",
+        "articleSlugs": [
+          "tetherbtc"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-11-04T07:39:58.957Z",
+        "buildId": "daily-20261104-41791929278-1",
+        "rolloutId": "daily-20261104-41791929278-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-04T07:53:39.490Z"
       }
     ]
   }

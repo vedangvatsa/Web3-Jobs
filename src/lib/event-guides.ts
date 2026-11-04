@@ -825,35 +825,6 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
       },
     ],
   },
-  kbw: {
-    summaryLead:
-      "Korea Blockchain Week centers on September 30 to October 1 in Seoul at Walkerhill Hotels and Resorts, preceded by the invite-only Upbit Institutional Summit on September 29. The site frames the week as three stages with more than 100 sessions and more than 300 speakers, plus more than 300 side events across the city. Listed speaker highlights include Balaji Srinivasan, Hyperliquid CEO Jeff Yan, Arthur Hayes, BitMine chairman Tom Lee, Consensys CEO Joseph Lubin, Upbit CEO Kyoungsuk Oh, Tether USA CEO Bo Hines, and former CFTC commissioner Brian Quintenz. The 2025 edition drew more than 13,000 attendees.",
-    speakers: "Balaji Srinivasan, Jeff Yan, Arthur Hayes, Tom Lee, Joseph Lubin, Kyoungsuk Oh, Bo Hines, Brian Quintenz",
-    expectedAttendance: "13,000+ attended in 2025; 2026 lists 300+ speakers and 300+ side events",
-    sections: [
-      {
-        heading: "How the week is structured",
-        content: [
-          "The main conference runs September 30 to October 1 at Walkerhill Hotels and Resorts, with three stages, more than 100 sessions, and more than 300 speakers listed. The Upbit Institutional Summit on September 29 opens the week as an invite-only affair. An agenda page and a side-events page carry the schedules as they are released.",
-          "Side events are a major part of the format, with more than 300 listed across Seoul. Institutions, investors, founders, and policymakers host gatherings beyond the main venue. A side-event application form is posted for teams that want to add their own.",
-        ],
-      },
-      {
-        heading: "Leadership & Speaker Roster",
-        content: [
-          "The highlights list mixes crypto founders, fund voices, and policy figures. Balaji Srinivasan appears as a virtual speaker, alongside Hyperliquid CEO Jeff Yan, Maelstrom CIO Arthur Hayes, and BitMine chairman Tom Lee. Consensys founder and CEO Joseph Lubin represents the Ethereum side.",
-          "Korean market and policy voices include Upbit CEO Kyoungsuk Oh, Tether USA CEO Bo Hines, and former CFTC commissioner Brian Quintenz. A full speakers page holds the wider roster, and a speaker application form remains open. Last year the event cites more than 340 speakers.",
-        ],
-      },
-      {
-        heading: "Scale, lodging, and applications",
-        content: [
-          "The 2025 highlights cited on the page put attendance above 13,000. For 2026 the published scale markers are the 300-plus speakers and 300-plus side events. Ticket sales run through the official ticketing subdomain linked from the homepage.",
-          "The organizers flag official Walkerhill hotel rates with a direct booking link, which matters because the venue sits outside central Seoul. Sponsor, speaker, side-event, and media-pass applications are all posted. The event is produced by FACTBLOCK, described on the page as a Korean ecosystem builder.",
-        ],
-      },
-    ],
-  },
   ibw: {
     summaryLead:
       "India Blockchain Week runs November 1 to 2, 2026 at the Fairmont Mumbai for its fourth edition after three years in Bangalore. Hosted by Hashed Emergent, the two-day conference anchors a wider week of hackathons, workshops and side events across the city. The site lists tiered passes from general to executive VIP, with Binance named as title sponsor. Confirmed 2026 speakers include Eli Ben-Sasson of StarkWare, Prabal Banerjee of Avail, and Marcin Kazmierczak of RedStone Oracles, with more names on the official speakers page. The move to Mumbai places the event near financial firms and investors in India's financial capital.",

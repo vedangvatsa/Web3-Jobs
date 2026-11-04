@@ -359,53 +359,6 @@
     }
   },
   {
-    "name": "Ethereum Korea One 2026",
-    "url": "https://one.ethereumkorea.io",
-    "emails": [
-      "contact@ethereumkorea.io"
-    ],
-    "event": {
-      "id": "premier-ethkorea",
-      "slug": "ethereum-korea-one",
-      "name": "Ethereum Korea One 2026",
-      "description": "Korea's Ethereum community conference running alongside Korea Blockchain Week in Seoul.",
-      "startDate": "2026-09-28T09:00:00.000Z",
-      "endDate": "2026-09-29T18:00:00.000Z",
-      "city": "Seoul",
-      "country": "South Korea",
-      "location": "Seoul, South Korea",
-      "url": "https://one.ethereumkorea.io",
-      "website": "https://one.ethereumkorea.io",
-      "coverImage": "/events/ethereum.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
-    "name": "P.S. Lisbon 2026",
-    "url": "https://input.global",
-    "emails": [
-      "alek@input.global",
-      "hello@input.global"
-    ],
-    "event": {
-      "id": "premier-pslisbon",
-      "slug": "ps",
-      "name": "P.S. Lisbon 2026",
-      "description": "Input Global's curated web3 gathering in Lisbon, pairing intimate programming with the city's builder community.",
-      "startDate": "2026-10-01T09:00:00.000Z",
-      "endDate": "2026-10-04T18:00:00.000Z",
-      "city": "Lisbon",
-      "country": "Portugal",
-      "location": "Lisbon, Portugal",
-      "url": "https://input.global",
-      "website": "https://input.global",
-      "coverImage": "/events/crypto1.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
     "name": "Plan B Forum Lugano 2026",
     "url": "https://planb.lugano.ch",
     "emails": [
@@ -637,76 +590,6 @@
       "url": "https://mnm.live/theodds/t2049singapore",
       "website": "https://mnm.live/theodds/t2049singapore",
       "coverImage": "https://mnm.live/og/the-odds-singapore.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
-    "name": "Crypto Compliance & Legal Roundtable Seoul 2026",
-    "url": "https://www.soliduslabs.com",
-    "emails": [
-      "press@soliduslabs.com",
-      "hello@soliduslabs.com"
-    ],
-    "event": {
-      "id": "premier-solidusroundtable",
-      "slug": "crypto-compliance-roundtable-seoul-2026",
-      "name": "Crypto Compliance & Legal Roundtable Seoul 2026",
-      "description": "Solidus Labs hosts a closed-door roundtable on crypto compliance, Travel Rule implementation, and AML tooling during Korea Blockchain Week.",
-      "startDate": "2026-09-29T09:00:00.000Z",
-      "endDate": "2026-09-29T18:00:00.000Z",
-      "city": "Seoul",
-      "country": "South Korea",
-      "location": "Seoul, South Korea",
-      "url": "https://www.soliduslabs.com",
-      "website": "https://www.soliduslabs.com",
-      "coverImage": "/events/crypto1.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
-    "name": "Onchain Capital & Liquidity Seoul 2026",
-    "url": "https://lilroom.xyz",
-    "emails": [
-      "avg.litt@lilroom.xyz"
-    ],
-    "event": {
-      "id": "premier-onchaincapital",
-      "slug": "onchain",
-      "name": "Onchain Capital & Liquidity Seoul 2026",
-      "description": "A DeFi and AI-focused session on on-chain capital markets and liquidity infrastructure during Korea Blockchain Week.",
-      "startDate": "2026-09-29T09:00:00.000Z",
-      "endDate": "2026-09-29T18:00:00.000Z",
-      "city": "Seoul",
-      "country": "South Korea",
-      "location": "Seoul, South Korea",
-      "url": "https://lilroom.xyz",
-      "website": "https://lilroom.xyz",
-      "coverImage": "/events/onchain.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
-    "name": "Rayls in Seoul 2026",
-    "url": "https://www.rayls.com",
-    "emails": [
-      "joe@gmail.com"
-    ],
-    "event": {
-      "id": "premier-raylsseoul",
-      "slug": "rayls",
-      "name": "Rayls in Seoul 2026",
-      "description": "Rayls brings its privacy-focused interbank blockchain protocol to Seoul for demonstrations and partner meetings during KBW.",
-      "startDate": "2026-09-30T09:00:00.000Z",
-      "endDate": "2026-09-30T18:00:00.000Z",
-      "city": "Seoul",
-      "country": "South Korea",
-      "location": "Seoul, South Korea",
-      "url": "https://www.rayls.com",
-      "website": "https://www.rayls.com",
-      "coverImage": "/events/rayls.png",
       "twitter": null,
       "source": "curated-premier"
     }

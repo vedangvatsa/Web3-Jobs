@@ -27,7 +27,7 @@ import { getEventSlug, getEventEcosystems, getEventDatePill, formatEventDate, fo
 import { getEventExternalUrl } from '@/lib/event-external-url';
 import { getEventListItem } from '@/lib/event-public';
 import { buildGoogleEventSchema, getGoogleEventSchemaIssues } from '@/lib/event-schema';
-import { getEventVenueLabel } from '@/lib/event-address';
+import { getEventDisplayLocation, getEventVenueLabel } from '@/lib/event-address';
 import { resolveEventGuide } from '@/lib/event-guide-store';
 import { buildEventMetaDescription } from '@/lib/event-editorial-facts';
 import { hasCuratedEventGuide } from '@/lib/event-page-quality';
@@ -535,12 +535,20 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                         <Calendar className="h-4 w-4 shrink-0 text-muted-foreground" aria-hidden="true" />
                         <span>{event.eventStatus === 'EventPostponed' ? 'Postponed — new date to be announced' : formatEventDate(event.startDate, event.endDate, event.timezone)}</span>
                       </div>
-                      <div className="flex min-w-0 items-center gap-1.5">
-                        <MapPin className="h-4 w-4 shrink-0 text-muted-foreground" />
-                        <span className="break-words">
-                          {getEventVenueLabel(event) || formatEventLocation(event)}
-                        </span>
-                      </div>
+                      {(() => {
+                        const displayLocation = getEventDisplayLocation(event);
+                        return (
+                          <div className="flex min-w-0 items-start gap-1.5">
+                            <MapPin className="mt-0.5 h-4 w-4 shrink-0 text-muted-foreground" aria-hidden="true" />
+                            <div className="flex min-w-0 flex-col">
+                              <span className="font-medium text-foreground break-words">{displayLocation.primary}</span>
+                              {displayLocation.detail && (
+                                <span className="text-xs text-muted-foreground break-words">{displayLocation.detail}</span>
+                              )}
+                            </div>
+                          </div>
+                        );
+                      })()}
                   </>
                 }
                 actions={

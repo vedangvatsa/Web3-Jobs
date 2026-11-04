@@ -11,13 +11,6 @@
       "tcacdihkoe"
     ]
   },
-  "luma-batch-lRcBZd4DNFlnMDf": {
-    "slug": "esbfl3ud",
-    "aliases": []
-  },
-  "luma-batch-KQkIiD9NTVDJXXk": {
-    "slug": "hxlpa8x4"
-  },
   "premier-ibt-tour-2026": {
     "slug": "ibt",
     "aliases": []
@@ -26,793 +19,12 @@
     "slug": "garage-housing",
     "aliases": []
   },
-  "token2049-35b952e1b7ba13df": {
-    "slug": "superreturn-asia",
-    "aliases": []
-  },
-  "luma-batch-evtKbCYaseYinm3t": {
-    "slug": "exploitsummit26"
-  },
-  "luma-batch-evtNzk61xwxYWp0G": {
-    "slug": "ds4ej40u",
-    "aliases": []
-  },
-  "token2049-41972aea13998db5": {
-    "slug": "fundforum-asia"
-  },
-  "token2049-1044b9e351b65628": {
-    "slug": "tech-week"
-  },
-  "kbw-gwdc-korea-2026": {
-    "slug": "gwdc-korea",
-    "aliases": [
-      "kbw-official-gwdc-2026-korea-09-29"
-    ]
-  },
-  "kbw-official-digital-af-exhibition-side-events-space-korea-blockchain-week-09-29": {
-    "slug": "daeseskbw",
-    "aliases": [
-      "daeses",
-      "w3v-digital-af--exhibition--side-events-space"
-    ]
-  },
-  "premier-kbw-2026": {
-    "slug": "kbw",
-    "aliases": []
-  },
-  "premier-cvsummit": {
-    "slug": "cv"
-  },
-  "luma-batch-evt9KvD0EYKvt2ZX": {
-    "slug": "yxgfedrf"
-  },
-  "luma-batch-evtm4tdHBp8HEQNC": {
-    "slug": "4kxvvovj"
-  },
-  "luma-crypto-Ks1XgEhMaGtqKer": {
-    "slug": "cahs"
-  },
-  "luma-batch-mOufXHP89aFrhMJ": {
-    "slug": "dev-day-cafe"
-  },
-  "luma-batch-BoM95fZa8eC0uYw": {
-    "slug": "5vobblhk"
-  },
-  "luma-batch-evtoJA7Ag2jOcOri": {
-    "slug": "kicunlff"
-  },
-  "luma-batch-evtM2gOf28hbEXIM": {
-    "slug": "g5syqv64"
-  },
-  "luma-batch-evteWjz59gjiEYo5": {
-    "slug": "fireblocks-canton-sibos"
-  },
-  "luma-batch-evtDsqpaDwZXmt6b": {
-    "slug": "dfns-ihpw"
-  },
-  "luma-batch-NDlEpPqTzDgYHGq": {
-    "slug": "wprc-nyc-260929-formal-verification-in-cryptograph"
-  },
-  "luma-batch-AbVnI08nHVEPSFb": {
-    "slug": "xfzvs7vy"
-  },
-  "luma-batch-evtHyXIXimgcKPgr": {
-    "slug": "jm02qppl"
-  },
-  "luma-evt-REWXMIhzOXT25u3": {
-    "slug": "sunsets-stablecoins"
-  },
-  "kbw-official-the-capital-forum-canton-network-at-institutional-scale-09-30": {
-    "slug": "capital-forum"
-  },
-  "kbw-official-wiring-korea-to-the-world-the-institutional-case-for-cross-border-digita-09-30": {
-    "slug": "wkw"
-  },
-  "luma-batch-evt8xniVLxM5VY4R": {
-    "slug": "avyrn49z"
-  },
-  "kbw-official-solana-summit-korea-09-30": {
-    "slug": "ssk",
-    "aliases": [
-      "w3v-solana-summit-korea"
-    ]
-  },
-  "luma-batch-evt76rPztNPHTqhD": {
-    "slug": "jyb1fz3j"
-  },
-  "luma-batch-evtyhFDuYEifgjbA": {
-    "slug": "stellarloungekorea"
-  },
-  "luma-batch-evtqbmGeuIFJF4wj": {
-    "slug": "0nd1kahu"
-  },
-  "kbw-official-institutional-privacy-day-09-30": {
-    "slug": "ipd"
-  },
-  "luma-batch-evtrzXLDMSFDAuLv": {
-    "slug": "83oq4sls",
-    "aliases": []
-  },
-  "luma-batch-evt1fn1QcsOeuXbg": {
-    "slug": "nnp60kyd"
-  },
-  "premier-instonchain": {
-    "slug": "institutional5",
-    "aliases": [
-      "institutional-onchain",
-      "w3v-institutional-onchain-rwas--stablecoins"
-    ]
-  },
-  "luma-batch-evtc37hgnYFLpfen": {
-    "slug": "qpz0ozya"
-  },
-  "luma-batch-evt4BoSyI6IEbOX0": {
-    "slug": "m9ap2ft1"
-  },
-  "kbw-official-alpha-in-seoul-korean-sma-trading-house-meetup-09-30": {
-    "slug": "asksthm"
-  },
-  "kbw-official-where-ai-meets-realfi-at-kbw-2026-09-30": {
-    "slug": "wamrk"
-  },
-  "kbw-official-the-next-ai-payment-carnival-09-30": {
-    "slug": "napc"
-  },
-  "kbw-official-token-sale-summit-2026-09-30": {
-    "slug": "tss3"
-  },
-  "luma-batch-evttqDr39ILkOhCL": {
-    "slug": "5r4qb76u"
-  },
-  "kbw-official-the-best-event-sundown-09-30": {
-    "slug": "best-event"
-  },
-  "kbw-official-r25-2-0-genesis-curator-meetup-seoul-09-30": {
-    "slug": "r20gcms"
-  },
-  "luma-batch-evtFH1KIW8N3Spa7": {
-    "slug": "a7cb1quh"
-  },
-  "premier-perpsinst": {
-    "slug": "perps2",
-    "aliases": [
-      "perps-institutional",
-      "w3v-perps--institutional-trading-liquidity--the-onchain-economy"
-    ]
-  },
-  "kbw-official-stellar-night-seoul-09-30": {
-    "slug": "sns"
-  },
-  "kbw-official-kyobo-x-sbi-holdings-x-ripple-onchain-finance-exchange-tokenization-at-i-09-30": {
-    "slug": "kxshxrofe"
-  },
-  "luma-batch-evtHBzAjBMgGlgV3": {
-    "slug": "2igxk7no"
-  },
-  "luma-batch-evtsh92jjqXB4pNz": {
-    "slug": "kbw-hedera-tbv"
-  },
-  "luma-batch-8LNB8L3t1PGE6le": {
-    "slug": "superteam-u5r4"
-  },
-  "luma-batch-evtdVOLw6RJTIHbd": {
-    "slug": "hikxx9hq"
-  },
-  "premier-raylsseoul": {
-    "slug": "rayls"
-  },
-  "kbw-official-bitgo-x-op-labs-x-plan-g-networking-drinks-seoul-09-30": {
-    "slug": "bxolxpgnds"
-  },
-  "kbw-official-mining-the-night-09-30": {
-    "slug": "mining-night"
-  },
-  "kbw-official-proof-of-liquidity-seoul-edition-by-yield-network-09-30": {
-    "slug": "proof-liquidity"
-  },
-  "kbw-official-altus-x-decipher-career-meet-up-the-first-penguin-09-30": {
-    "slug": "axdcmu"
-  },
-  "kbw-official-variational-private-event-09-30": {
-    "slug": "vpe"
-  },
-  "kbw-official-ourbit-kbw-after-hours-vip-party-09-30": {
-    "slug": "okahvp"
-  },
-  "luma-crypto-SIDB65YWRiPF0ZH": {
-    "slug": "cxs"
-  },
-  "luma-batch-evtqWKSTRzg4Y2cF": {
-    "slug": "3kt0wnsh"
-  },
-  "luma-batch-evtrMXADT4HwJJeX": {
-    "slug": "ut4s2v7m"
-  },
-  "luma-batch-evthEOPuocNwO1Dl": {
-    "slug": "tqux4q7e"
-  },
-  "luma-batch-evtyj1CNkjaBwyoJ": {
-    "slug": "hypern-ssv0"
-  },
-  "luma-batch-evta0QlFFdVtITQ1": {
-    "slug": "grr5zhyd"
-  },
-  "w3v-rayls-in-seoul": {
-    "slug": "rayls-seoul"
-  },
-  "kbw-official-quantstamp-x-common-defense-gangnam-mixer-09-30": {
-    "slug": "qxcdgm"
-  },
-  "luma-batch-evtzFxh5b4z7zKyH": {
-    "slug": "uy4s7f0z"
-  },
-  "luma-batch-evtBW8QIGxrRCHVE": {
-    "slug": "proofofai-kbw2026"
-  },
-  "w3v-korea-blockchain-week-networking-rooftop": {
-    "slug": "kbwnr"
-  },
-  "token2049-evt-iwlAee1GmHJX4Pd": {
-    "slug": "kopichat-ai"
-  },
-  "kbw-official-kbw-vip-party-beldex-x-acurast-09-30": {
-    "slug": "kvp"
-  },
-  "luma-crypto-RvnjOCvIWttcRXU": {
-    "slug": "twadn"
-  },
-  "luma-batch-evtSjRQeKMUJV5na": {
-    "slug": "frontier-traders-kr"
-  },
-  "luma-batch-evt1b1bEqcAVG1nL": {
-    "slug": "krsbyvk6"
-  },
-  "kbw-official-echo-in-color-where-web3-comes-alive-09-30": {
-    "slug": "ecwwca"
-  },
-  "luma-batch-evtFHEOnLxSFQKCi": {
-    "slug": "hack-k1fk"
-  },
-  "luma-batch-evtWD4MZ17No7f7H": {
-    "slug": "kastxpudgy_kbw"
-  },
-  "luma-batch-evtH1enTFF9eOqrP": {
-    "slug": "abab0r0n"
-  },
-  "luma-batch-evtNJphoAgBuOgrf": {
-    "slug": "2wm2b3ck"
-  },
-  "luma-batch-evtahJ7KxjdoBG67": {
-    "slug": "mcc3fg5s"
-  },
-  "luma-batch-evtHdTkV3aVBkRzW": {
-    "slug": "po151xsp"
-  },
-  "luma-batch-lfKfG6fJ1qbK6BD": {
-    "slug": "superteam-d6y2"
-  },
-  "luma-batch-RdKSClhxxiWWC2e": {
-    "slug": "a7oznc4g"
-  },
-  "luma-batch-evtIfnNAG5STwfOe": {
-    "slug": "3c8xo6kl"
-  },
-  "luma-batch-evtKamAQFlgwZ3YU": {
-    "slug": "hdcegf8a"
-  },
-  "luma-batch-evtGpyh3ZXaayPwW": {
-    "slug": "sept_cryptodrinks_amsterdam"
-  },
-  "luma-batch-evto623qGRuMMCP7": {
-    "slug": "5ohqcwr6"
-  },
-  "luma-batch-WqXt70Ey78SI4hn": {
-    "slug": "ljhi3gn2"
-  },
-  "luma-batch-evtE3ugczWPDFkHd": {
-    "slug": "fgdkn4vb"
-  },
-  "luma-batch-t3Gp6ysBjCMzB6S": {
-    "slug": "gyphbsbo"
-  },
-  "luma-batch-evtS4OXzyXj1pUX0": {
-    "slug": "hlpzv0nh",
-    "aliases": []
-  },
-  "luma-batch-1IOJ9QDDxRscQva": {
-    "slug": "agxiag3l"
-  },
-  "luma-batch-gzayLEghrE7BFek": {
-    "slug": "pubkey-h7b7",
-    "aliases": []
-  },
-  "luma-evt-YpFXSHbNG9yCntK": {
-    "slug": "convergence",
-    "aliases": []
-  },
-  "luma-batch-evtclV8SYuZJSdbr": {
-    "slug": "cbndallassep2026",
-    "aliases": []
-  },
-  "luma-batch-evtB10f3UOXBEobq": {
-    "slug": "the-4ial",
-    "aliases": []
-  },
-  "luma-batch-evtATj4XOeBTgICx": {
-    "slug": "futureishere",
-    "aliases": []
-  },
-  "kbw-official-blockfesta-2026-10-01": {
-    "slug": "blockfesta",
-    "aliases": [
-      "w3v-blockfesta-2026"
-    ]
-  },
-  "kbw-official-hsc-conference-seoul-10-01": {
-    "slug": "hcs",
-    "aliases": [
-      "w3v-hsc-conference-seoul"
-    ]
-  },
-  "kbw-official-amigoo-ventures-coffee-capita-10-01": {
-    "slug": "avcc",
-    "aliases": []
-  },
-  "luma-batch-evt5zUdGlOrOybDa": {
-    "slug": "zbes8kt4",
-    "aliases": []
-  },
-  "luma-crypto-bjFFo8TJeoWZLmW": {
-    "slug": "pahfdrs4",
-    "aliases": []
-  },
-  "luma-batch-evtYc4IGEQ8uynsq": {
-    "slug": "5tjt4qme",
-    "aliases": []
-  },
-  "luma-batch-evtxynyfrCDssQqX": {
-    "slug": "luxq9jt4",
-    "aliases": []
-  },
-  "kbw-futuracanvas-2026": {
-    "slug": "futuracanvas",
-    "aliases": [
-      "kbw-official-futuracanvas-2026-10-01"
-    ]
-  },
-  "luma-batch-evtRFGkwBVmMwc5A": {
-    "slug": "yw50tbv3",
-    "aliases": []
-  },
-  "luma-batch-evtpN85tBSVOni4C": {
-    "slug": "gwffy8ec",
-    "aliases": []
-  },
-  "luma-batch-evt7c8SYhld2UAo4": {
-    "slug": "68s6b096",
-    "aliases": []
-  },
-  "kbw-bridge-seoul-2026": {
-    "slug": "bridge-seoul",
-    "aliases": [
-      "kbw-official-bridge-seoul-2026-10-01"
-    ]
-  },
-  "kbw-realfi-asia-stablecoin-2026": {
-    "slug": "realfi-asia-stablecoin",
-    "aliases": [
-      "rxasc",
-      "kbw-official-realfi-x-asia-stablecoin-conference-10-01"
-    ]
-  },
-  "kbw-official-yellow-korea-workshop-ai-agents-10-01": {
-    "slug": "ykw",
-    "aliases": [
-      "w3v-yellow-korea-workshop--ai-agents"
-    ]
-  },
-  "kbw-official-sanc-nine-10-01": {
-    "slug": "sanc-nine",
-    "aliases": []
-  },
-  "kbw-official-seoul-on-chain-10-01": {
-    "slug": "seoul-chain",
-    "aliases": []
-  },
-  "luma-batch-evtraKbv5ad7Ma0n": {
-    "slug": "builde-5cd9",
-    "aliases": []
-  },
-  "token2049-evt-Cc2bDtTNBajOQuN": {
-    "slug": "programmable-economy",
-    "aliases": []
-  },
-  "kbw-official-bridging-finance-onchain-a-korea-blockchain-week-2026-side-event-with-ky-10-01": {
-    "slug": "bfokbwsekcsb",
-    "aliases": []
-  },
-  "luma-batch-WYKUCJt9duc123W": {
-    "slug": "lfyvk8yk",
-    "aliases": []
-  },
-  "kbw-official-secure-crypto-asset-network-2026-scan-10-01": {
-    "slug": "scans",
-    "aliases": []
-  },
-  "luma-batch-evt9ElkAZcGYpr1d": {
-    "slug": "kvnf6yhj",
-    "aliases": []
-  },
-  "kbw-official-house-of-ai-kbw2026-10-01": {
-    "slug": "hak",
-    "aliases": []
-  },
-  "kbw-official-on-chain-night-10-01": {
-    "slug": "chain-night",
-    "aliases": []
-  },
-  "luma-batch-tawLwbwrv8b5KOO": {
-    "slug": "superteam-fxat",
-    "aliases": []
-  },
-  "luma-batch-evtTfpxY3jBF6BFV": {
-    "slug": "b0p1kudt",
-    "aliases": []
-  },
-  "kbw-official-tch-venture-connect-10-01": {
-    "slug": "tvc",
-    "aliases": []
-  },
-  "kbw-official-easycon-seoul-social-intelligence-workshop-community-night-10-01": {
-    "slug": "easycon-seoul",
-    "aliases": []
-  },
-  "premier-pslisbon": {
-    "slug": "ps3",
-    "aliases": []
-  },
-  "kbw-official-perpdex-night-10-01": {
-    "slug": "perpdex-night",
-    "aliases": []
-  },
-  "luma-batch-qkMG1UdrLfgDpGZ": {
-    "slug": "productbootcamp",
-    "aliases": []
-  },
-  "luma-batch-evtFhoJSlRwlmlaj": {
-    "slug": "tbe-paymentstable",
-    "aliases": []
-  },
-  "luma-batch-evtWbOH6Tum2Frqo": {
-    "slug": "ykv9o7xu",
-    "aliases": []
-  },
-  "kbw-official-liquidity-table-by-turtle-with-compound-10-01": {
-    "slug": "lttc",
-    "aliases": []
-  },
-  "luma-batch-evtHgyuCdfx8gIWl": {
-    "slug": "c7bu8cqk",
-    "aliases": []
-  },
-  "kbw-official-four-pillars-research-challenge-2026-awards-ceremony-10-01": {
-    "slug": "fprcac",
-    "aliases": []
-  },
-  "kbw-official-lighter-meetup-10-01": {
-    "slug": "lighter-meetup",
-    "aliases": []
-  },
-  "kbw-official-satoshi-dinner-club-seoul-10-01": {
-    "slug": "sdcs",
-    "aliases": []
-  },
-  "kbw-official-shard-vip-dinner-10-01": {
-    "slug": "svd",
-    "aliases": []
-  },
-  "luma-batch-9lFoIKPGXQTfgYD": {
-    "slug": "r478jev9",
-    "aliases": []
-  },
-  "luma-batch-evtToucHS4BqrUd5": {
-    "slug": "s035gxat",
-    "aliases": []
-  },
-  "luma-batch-evt0kMfVAtrgQ0Go": {
-    "slug": "2b8a36t4",
-    "aliases": []
-  },
-  "kbw-official-kbw-vip-mixer-10-01": {
-    "slug": "kvm",
-    "aliases": []
-  },
-  "luma-batch-evtbniIXcStExSgF": {
-    "slug": "z54nxasf",
-    "aliases": []
-  },
-  "luma-batch-evtTvGBzLMI2Cc3S": {
-    "slug": "kbwclosingreception",
-    "aliases": []
-  },
-  "token2049-evt-sdwlrb9SNEOyZfG": {
-    "slug": "gps-lps",
-    "aliases": []
-  },
-  "luma-batch-qRxVoonMmCSALeT": {
-    "slug": "workshop-cryptoworldsfair3",
-    "aliases": []
-  },
-  "kbw-official-ravedao-presents-baddiejuice-at-soap-seoul-10-01": {
-    "slug": "rpbss",
-    "aliases": []
-  },
-  "luma-batch-evtM62NKXnk5B92g": {
-    "slug": "t2p6pvlo",
-    "aliases": []
-  },
-  "luma-batch-Q2frCvTrTotKoBS": {
-    "slug": "7y2uqnix",
-    "aliases": []
-  },
-  "luma-batch-EwjSgEBWEWYY0oM": {
-    "slug": "rivbfm31",
-    "aliases": []
-  },
-  "token2049-evt-IRjj872ozIIxPAS": {
-    "slug": "get-down",
-    "aliases": []
-  },
   "premier-bitchill-s04-2026": {
     "slug": "bitchill",
     "aliases": []
   },
-  "luma-batch-evtbEptLaEt5lj5u": {
-    "slug": "fahm95ov",
-    "aliases": []
-  },
-  "luma-batch-evtluNqDh9W2bNrZ": {
-    "slug": "decentralisedfinance",
-    "aliases": []
-  },
-  "luma-batch-gVS58YpuRyJfWfB": {
-    "slug": "aq7rqqmn",
-    "aliases": []
-  },
-  "luma-batch-evtRIWjMcv0z64vC": {
-    "slug": "odwhsr37",
-    "aliases": []
-  },
-  "luma-batch-evt1ZuO7a3vQvpzL": {
-    "slug": "gvzg802n",
-    "aliases": []
-  },
-  "luma-batch-evtA3LD8spkbZLai": {
-    "slug": "fmam7qi6",
-    "aliases": []
-  },
-  "luma-batch-evtDPhPDPn5B3lki": {
-    "slug": "5uchp71s",
-    "aliases": []
-  },
-  "luma-batch-pFrBRTtF3KEgLmM": {
-    "slug": "sadmstwa",
-    "aliases": []
-  },
-  "luma-batch-evtKCgUuidfNgUH7": {
-    "slug": "u0lcflgx",
-    "aliases": []
-  },
-  "luma-batch-1Xx7yJSkhlrHBm6": {
-    "slug": "szhcophp",
-    "aliases": []
-  },
-  "luma-batch-GjyoFxg7yY80JIt": {
-    "slug": "d1gkjhb1",
-    "aliases": []
-  },
-  "luma-batch-evttYMzMhDl0Efqu": {
-    "slug": "z7et0cdt",
-    "aliases": []
-  },
-  "kbw-starkmart-seoul-2026": {
-    "slug": "starkmart-seoul",
-    "aliases": [
-      "kbw-official-starkmart-seoul-10-02"
-    ]
-  },
-  "luma-crypto-uhw289wfAXAVAdO": {
-    "slug": "2ctufd",
-    "aliases": []
-  },
-  "kbw-official-the-private-table-seoul-vip-dinner-10-02": {
-    "slug": "pts",
-    "aliases": []
-  },
-  "luma-batch-evt0P2iHO6bCg8fL": {
-    "slug": "1j1oxie8",
-    "aliases": []
-  },
-  "luma-batch-evtVIDRVMfyywz1C": {
-    "slug": "lhykeej3",
-    "aliases": []
-  },
-  "kbw-official-bnb-seoul-10-02": {
-    "slug": "bnb-seoul",
-    "aliases": []
-  },
-  "luma-batch-evtx9QSaw5OwpBZu": {
-    "slug": "wy4epmx4",
-    "aliases": []
-  },
-  "kbw-official-trader-gathering-10-02": {
-    "slug": "trader-gathering",
-    "aliases": []
-  },
-  "luma-batch-evtXUDYDB1YnypZT": {
-    "slug": "courtsideretreat",
-    "aliases": []
-  },
-  "luma-batch-evtqBNPraDCBbRlz": {
-    "slug": "vo6wux6s",
-    "aliases": []
-  },
-  "luma-batch-lK6NF3IfdVCqmMZ": {
-    "slug": "jc3r23yp",
-    "aliases": []
-  },
-  "luma-batch-LKJsBAGLapPGuQj": {
-    "slug": "o1v2czfh",
-    "aliases": []
-  },
-  "kbw-official-enter-the-night-10-02": {
-    "slug": "enter-night",
-    "aliases": []
-  },
-  "kbw-official-xrpfi-night-seoul-10-02": {
-    "slug": "xns",
-    "aliases": []
-  },
-  "kbw-official-kbw-2026-private-yacht-soir-e-epoch-2-10-02": {
-    "slug": "kpysee2",
-    "aliases": []
-  },
-  "premier-cdnbitcoin": {
-    "slug": "canadian",
-    "aliases": []
-  },
-  "luma-batch-Q1XsqZEswkD2Wc5": {
-    "slug": "jzkhfszb",
-    "aliases": []
-  },
-  "luma-batch-xjvRpBHMpZu6GBG": {
-    "slug": "london-oct-02",
-    "aliases": []
-  },
-  "luma-batch-evtPhLUCrJYRWBET": {
-    "slug": "zyx04nyc",
-    "aliases": []
-  },
-  "luma-host-evt-evt-x18sFHsWoSwnaIP": {
-    "slug": "mmhh",
-    "aliases": []
-  },
-  "luma-batch-rNhL4DpSPhx15YB": {
-    "slug": "xa7798vx",
-    "aliases": []
-  },
-  "luma-batch-evtK2fkpDNQZuAiS": {
-    "slug": "nfnqe1ol",
-    "aliases": []
-  },
-  "luma-batch-evtK4wC53e8Tmg2n": {
-    "slug": "e2nwl5sk",
-    "aliases": []
-  },
-  "luma-batch-evtyVCHtyiERlXLe": {
-    "slug": "tokenisedmy",
-    "aliases": []
-  },
-  "luma-batch-evtQitFqCNjHFb5o": {
-    "slug": "cwub7gk3",
-    "aliases": []
-  },
-  "luma-batch-evtccJeRPeBYE7uZ": {
-    "slug": "y8sft1wx",
-    "aliases": []
-  },
-  "premier-wob-madrid-2026": {
-    "slug": "wobitcoin",
-    "aliases": []
-  },
-  "luma-batch-D7DHEvhxQaPwdc1": {
-    "slug": "0psua4hi",
-    "aliases": []
-  },
-  "luma-batch-EqAZsTDmrT3F1Ix": {
-    "slug": "dl00mens",
-    "aliases": []
-  },
-  "luma-batch-evtoENvZQAxQSuZa": {
-    "slug": "10oqhols",
-    "aliases": []
-  },
-  "luma-batch-KKgrPCY2VBv0rcx": {
-    "slug": "superteam-v13q",
-    "aliases": []
-  },
-  "kbw-xrp-seoul-2026": {
-    "slug": "xrp-seoul",
-    "aliases": [
-      "kbw-official-xrp-seoul-2026-10-03"
-    ]
-  },
-  "luma-batch-a0UuZQuz1MorKpB": {
-    "slug": "monad-blitz-pune-sep-2026",
-    "aliases": []
-  },
-  "luma-batch-yNeFHGW3OsMkSd9": {
-    "slug": "jiogurpk",
-    "aliases": []
-  },
-  "luma-batch-evtsfWWgUmXLgec2": {
-    "slug": "qntyo9af",
-    "aliases": []
-  },
-  "india-luma-pgsg2efr": {
-    "slug": "rrc",
-    "aliases": []
-  },
-  "kbw-official-lambda256-join-the-blockchain-node-crew-10-03": {
-    "slug": "ljbnc",
-    "aliases": []
-  },
-  "luma-batch-evtKTCZ094vbXb63": {
-    "slug": "4v245j3v",
-    "aliases": []
-  },
-  "token2049-evt-YL6KpUrRu4CGVus": {
-    "slug": "pre-token2049",
-    "aliases": []
-  },
-  "luma-crypto-Som3hML2sfbwc5R": {
-    "slug": "ehwfaeh",
-    "aliases": []
-  },
   "luma-batch-evtFAjSMVwIfNEE9": {
     "slug": "w8d9t7jw",
-    "aliases": []
-  },
-  "kbw-official-xrp-seoul-2026-vip-afterparty-10-03": {
-    "slug": "xsva",
-    "aliases": []
-  },
-  "luma-batch-evtiZfgiZ21Navgx": {
-    "slug": "uuzq0ula",
-    "aliases": []
-  },
-  "luma-batch-iBDz4DhXR1Zrudq": {
-    "slug": "zmvrj6cy",
-    "aliases": []
-  },
-  "luma-crypto-9G13qSATpaiBBSX": {
-    "slug": "acgh",
-    "aliases": []
-  },
-  "token2049-evt-LogZtWT8oa5fv8p": {
-    "slug": "founders-funds",
-    "aliases": []
-  },
-  "luma-batch-S9B2IYXx5PHfaEg": {
-    "slug": "zsvc8ner",
-    "aliases": []
-  },
-  "luma-batch-F6tYBRLjT5mDEU0": {
-    "slug": "bae06r0t",
-    "aliases": []
-  },
-  "token2049-side-6a7fe7d3298f21044c271195": {
-    "slug": "web3-ai",
     "aliases": []
   },
   "premier-rwa-week-2026": {
@@ -825,10 +37,6 @@
   },
   "token2049-evt-uciKSAp6TdWKkWn": {
     "slug": "day-one",
-    "aliases": []
-  },
-  "token2049-evt-E3WtjeLuIe9GJHu": {
-    "slug": "coffee-credentials",
     "aliases": []
   },
   "token2049-ea89b871a8872b45": {
@@ -851,10 +59,6 @@
     "slug": "dpdxyo2d",
     "aliases": []
   },
-  "token2049-side-6a69774bd1b48ddf39d09150": {
-    "slug": "dib",
-    "aliases": []
-  },
   "token2049-side-6aa026db967be0befa88cabc": {
     "slug": "cbed12",
     "aliases": [
@@ -863,14 +67,6 @@
       "cbed1",
       "token2049-side-6a5dff0dd1b48ddf39d0827c"
     ]
-  },
-  "token2049-evt-kt7ZI4H2Gn4m4Ql": {
-    "slug": "ai-web3",
-    "aliases": []
-  },
-  "w3v-rwa-capital-forum": {
-    "slug": "rcf",
-    "aliases": []
   },
   "token2049-06041dac33726be9": {
     "slug": "time-heist",
@@ -4288,9 +3484,9 @@
     ]
   },
   "india-luma-team1mumbai": {
-    "slug": "team1-mumbai-networking-gala",
+    "slug": "team1mumbai",
     "aliases": [
-      "team1mumbai"
+      "team1-mumbai-networking-gala"
     ]
   },
   "india-luma-mc8pq06y": {
@@ -5618,6 +4814,542 @@
   },
   "ibw-luma-evt-KFAiFGbSf0EbFnU": {
     "slug": "indiahouse",
+    "aliases": []
+  },
+  "luma-crypto-hH5qVNRMs3UbwXp": {
+    "slug": "krexa-agents-showdown",
+    "aliases": []
+  },
+  "luma-crypto-tAYni9NdRQ3FZEt": {
+    "slug": "bitcoin-in",
+    "aliases": []
+  },
+  "luma-crypto-VaPweR6JCw17XGa": {
+    "slug": "team1-indi",
+    "aliases": []
+  },
+  "luma-crypto-03aY9MF3WBtvMUc": {
+    "slug": "ready-run-",
+    "aliases": []
+  },
+  "luma-crypto-gNTVHMUFj01ZOGH": {
+    "slug": "rwa-hong-kong",
+    "aliases": [
+      "0p20jvwy",
+      "luma-crypto-xphsbclyge55yny",
+      "rwa"
+    ]
+  },
+  "luma-crypto-F8ZFNrYXCCBIuod": {
+    "slug": "diy-bitcoin-workshop",
+    "aliases": [
+      "s17atgcz"
+    ]
+  },
+  "luma-crypto-TQDZinnxGDGJiHK": {
+    "slug": "ethereum-c",
+    "aliases": []
+  },
+  "luma-crypto-kklvl7cMy5rxIoE": {
+    "slug": "build-brea",
+    "aliases": []
+  },
+  "luma-crypto-PM9nDu0lcrCpfon": {
+    "slug": "cryptomondays-mena-x-minds-animoca-brands-ai-week-edition",
+    "aliases": [
+      "j4fykt2k"
+    ]
+  },
+  "luma-crypto-YDbBqAEHg0T7aEr": {
+    "slug": "cryptomondays-dallas-kickoff",
+    "aliases": [
+      "4rdnut9a"
+    ]
+  },
+  "luma-crypto-SuEJPOgrsntzNUb": {
+    "slug": "digital-assets-coffee-club-brisbane",
+    "aliases": [
+      "bdl5wygs"
+    ]
+  },
+  "luma-crypto-tQZ28utl5iQg7PW": {
+    "slug": "ripple-bri",
+    "aliases": []
+  },
+  "luma-crypto-loPSIA36NxKgl2a": {
+    "slug": "when-rwa-meets-ai-agentic-economy-goes-live",
+    "aliases": [
+      "i4lfa6fj"
+    ]
+  },
+  "luma-crypto-ieq8nSKhYS4nMCZ": {
+    "slug": "onchain-ro",
+    "aliases": []
+  },
+  "luma-crypto-n2dqFCLFNQxfBCl": {
+    "slug": "ai-rwa",
+    "aliases": []
+  },
+  "luma-crypto-crXQbVzgHLjp5Lg": {
+    "slug": "compliance",
+    "aliases": []
+  },
+  "luma-crypto-FLpxXn0aRE2igwO": {
+    "slug": "tokenized-assets-open-markets-",
+    "aliases": []
+  },
+  "luma-crypto-j5zx9SCRDt33PMF": {
+    "slug": "wall-stree",
+    "aliases": []
+  },
+  "luma-crypto-kcq3Tf5L8ED7kFF": {
+    "slug": "payments-reimagined-stablecoins",
+    "aliases": [
+      "ckwik05b"
+    ]
+  },
+  "luma-crypto-bBkAawD0d920iKZ": {
+    "slug": "institutional-rwa-night-golden-rails",
+    "aliases": [
+      "institutio"
+    ]
+  },
+  "luma-crypto-oQcOIMrOq4peYHS": {
+    "slug": "crypto-fus",
+    "aliases": []
+  },
+  "luma-crypto-w8GpnXSrqkM3hCX": {
+    "slug": "hkghh-even",
+    "aliases": []
+  },
+  "luma-crypto-GzYKMUT6x1P1iIp": {
+    "slug": "solana-vir",
+    "aliases": []
+  },
+  "luma-crypto-DqOeGl4izFiC1WT": {
+    "slug": "yield-bear",
+    "aliases": []
+  },
+  "luma-crypto-PYvWS6O3OTkzfLy": {
+    "slug": "rwa-2-0",
+    "aliases": []
+  },
+  "luma-crypto-BKrFtZZIVFX60QH": {
+    "slug": "web3-caree",
+    "aliases": []
+  },
+  "luma-crypto-tcFoFxwDZkn1fdl": {
+    "slug": "bitcoin-me",
+    "aliases": []
+  },
+  "luma-crypto-j1ZvQzyjxZWRLtd": {
+    "slug": "web3-week-asia-trader-trencher-night",
+    "aliases": [
+      "35hjl1y5"
+    ]
+  },
+  "luma-crypto-oVtTG5eEsb9lrDq": {
+    "slug": "mandate-production-how-banks-are-building-digital-asset-capabilities",
+    "aliases": [
+      "pgltt6rs"
+    ]
+  },
+  "luma-crypto-P3AsIwMZQQM7rbV": {
+    "slug": "devcon-irl",
+    "aliases": []
+  },
+  "luma-crypto-oGq7JRJkO9n7UNV": {
+    "slug": "superteam-",
+    "aliases": []
+  },
+  "luma-crypto-mBAHL16fOTQj9ai": {
+    "slug": "slice-bitcoin-culture",
+    "aliases": [
+      "uqs749ko"
+    ]
+  },
+  "luma-crypto-7q5sJj37ZWkeNAc": {
+    "slug": "buzoku-ai-crypto-meetup",
+    "aliases": [
+      "v27ik7m7"
+    ]
+  },
+  "luma-crypto-b2pn6DAYk3q6mrG": {
+    "slug": "africa-bui",
+    "aliases": []
+  },
+  "luma-crypto-Fw1yTjUhXsgHN7y": {
+    "slug": "crypto-morning-meetup-women-crypto-arabia",
+    "aliases": [
+      "tproeorh"
+    ]
+  },
+  "luma-crypto-3Mznc44ZsOJ4MS5": {
+    "slug": "build-breabui",
+    "aliases": []
+  },
+  "luma-crypto-T2tQkKnZEqXWxYO": {
+    "slug": "superteam-sti",
+    "aliases": []
+  },
+  "luma-crypto-vU811G7xGdKFIos": {
+    "slug": "build-brea3",
+    "aliases": []
+  },
+  "luma-crypto-3v83XedpM49zqTy": {
+    "slug": "proof-brea",
+    "aliases": []
+  },
+  "luma-crypto-Bx1HQlWNBsdddFP": {
+    "slug": "next-finan",
+    "aliases": []
+  },
+  "luma-crypto-0cx5b6t5IfrCvgQ": {
+    "slug": "zama-web3bridge-workshop",
+    "aliases": [
+      "rxse8qq7"
+    ]
+  },
+  "luma-crypto-2LCyHGGKlcqXm47": {
+    "slug": "ntu-master-science-blockchain-msbt-programme-ho-chi-minh-city",
+    "aliases": [
+      "2xdeh8y1"
+    ]
+  },
+  "luma-crypto-ynpyBNFruHUdriF": {
+    "slug": "suye-art-ordinals-btc-meetup-ordinal-io-museum-eta",
+    "aliases": [
+      "2cwyujqm"
+    ]
+  },
+  "luma-crypto-vaT2S2VUTmlJI3x": {
+    "slug": "wolfswap-x-crypto-com-mixer-bitcoin-amsterdam-edition",
+    "aliases": [
+      "azrnakmq"
+    ]
+  },
+  "luma-crypto-futrlVtSKm5AC1e": {
+    "slug": "london-workshop-vaults-practice-how-financial-institutions-capture-onchain-yield",
+    "aliases": [
+      "cwufkzk1"
+    ]
+  },
+  "luma-crypto-AvNFzDNPSKFXge2": {
+    "slug": "cryptomondays-berlin-edition-2",
+    "aliases": [
+      "bn9y6z5y"
+    ]
+  },
+  "luma-crypto-hEPVDHswwbLlwGV": {
+    "slug": "riserva-lo",
+    "aliases": []
+  },
+  "luma-crypto-oh0AOKJnVNaqZP3": {
+    "slug": "binance-university-tour-uniandes",
+    "aliases": [
+      "h2adb3az"
+    ]
+  },
+  "luma-crypto-i1tMtsPFib0VzBF": {
+    "slug": "convergence-onchain-finance-soiree-das-london",
+    "aliases": [
+      "convergenc"
+    ]
+  },
+  "luma-crypto-Yh2TedbQLKaf52j": {
+    "slug": "cryptouk-36w1",
+    "aliases": []
+  },
+  "luma-crypto-EE9MycFCpEgkV5P": {
+    "slug": "executive-",
+    "aliases": []
+  },
+  "luma-crypto-u6jIcByTmjvnRkM": {
+    "slug": "crypto-what-happens-next",
+    "aliases": [
+      "tbab5uz8"
+    ]
+  },
+  "luma-crypto-ZZpz1OndEAv0JN7": {
+    "slug": "digital-assets-executive-brunch-barcelona-edition",
+    "aliases": [
+      "g5h2etb4"
+    ]
+  },
+  "luma-crypto-Jw3CgPkBftQcFSt": {
+    "slug": "rwa-realiz",
+    "aliases": []
+  },
+  "luma-crypto-1F0DAf4iEFBhM9N": {
+    "slug": "meet-jerse",
+    "aliases": []
+  },
+  "luma-crypto-Q5K80WKUGz3LW6m": {
+    "slug": "awic-x-das-london-panel-phantom-assets-counterfeit-tokens-collateral",
+    "aliases": [
+      "shdn5h19"
+    ]
+  },
+  "luma-crypto-MEbXp19ZPmMKn0A": {
+    "slug": "race-against-machine-ai-quantum-future-bitcoin",
+    "aliases": [
+      "j8ks5br9"
+    ]
+  },
+  "luma-crypto-8VfRDGPg3naAUqD": {
+    "slug": "stablecoin-networking-evening-luno-blocktower-gtxn",
+    "aliases": [
+      "iclquft2"
+    ]
+  },
+  "luma-crypto-pkigd1Z6cz1gtH7": {
+    "slug": "happy-hour-dc-dao-willo",
+    "aliases": [
+      "zmw8w5d9"
+    ]
+  },
+  "luma-crypto-o1VjeTTkG1mOb1K": {
+    "slug": "no-vibestation-due-breakpoint",
+    "aliases": [
+      "no-vibesta"
+    ]
+  },
+  "luma-crypto-05d3N885FABhJ0q": {
+    "slug": "crypto-padel-whitebit-play-padel-club-spredo",
+    "aliases": [
+      "hrem9w27"
+    ]
+  },
+  "luma-crypto-NxGET8DPBle4IYg": {
+    "slug": "presentacion-del-club-privado-de-inversion-en-rwa-tutellus-buenos-aires",
+    "aliases": [
+      "xknmwggz"
+    ]
+  },
+  "luma-crypto-cFBQ9xrFbjI3av2": {
+    "slug": "p777-web3-clouds",
+    "aliases": [
+      "dspdy7rl"
+    ]
+  },
+  "luma-crypto-rvTrhOFrZjU1t4G": {
+    "slug": "bitcoin-brunch-boro-mclean",
+    "aliases": [
+      "xvqy8tmn"
+    ]
+  },
+  "luma-crypto-5f8DApeYV9EOQrM": {
+    "slug": "solana-fit",
+    "aliases": []
+  },
+  "luma-crypto-hXFJAwhWGjDusCS": {
+    "slug": "draper-dra",
+    "aliases": []
+  },
+  "luma-crypto-0Sn4QB5KWkR4LeX": {
+    "slug": "solana-fitkzh",
+    "aliases": []
+  },
+  "luma-crypto-ye20BagHxEHh8CO": {
+    "slug": "solana-fitsfz",
+    "aliases": []
+  },
+  "luma-crypto-4aQg4F5ApsIZFHS": {
+    "slug": "que-aporta-una-blockchain-regulada-encuentro-139-superpioneros",
+    "aliases": [
+      "9na7snow"
+    ]
+  },
+  "luma-crypto-QRCPU4eBHlR2IuK": {
+    "slug": "money-laye",
+    "aliases": []
+  },
+  "luma-crypto-hj7ObeemnBUZFgQ": {
+    "slug": "unofficial",
+    "aliases": []
+  },
+  "luma-crypto-1yFFRNxP28wg7wF": {
+    "slug": "housewarming-breakpoint-closing-party-akash",
+    "aliases": [
+      "housewarmi"
+    ]
+  },
+  "luma-crypto-hlKrPIIiRiniy1E": {
+    "slug": "blockchain-london",
+    "aliases": []
+  },
+  "luma-crypto-CRKd13ywnfX44wC": {
+    "slug": "meetup-crypto-fribourg-novembre",
+    "aliases": [
+      "wynsjfk7"
+    ]
+  },
+  "luma-crypto-CcXIPGvIGnzZuVE": {
+    "slug": "presentacion-del-club-privado-de-inversion-en-rwa-tutellus",
+    "aliases": [
+      "ga6xzn79"
+    ]
+  },
+  "luma-crypto-Az6et278GZSUI8O": {
+    "slug": "ai-meets-rwa-real-world-shift",
+    "aliases": [
+      "0x7ox8tl"
+    ]
+  },
+  "luma-crypto-qLu7rrrTEWVAUBR": {
+    "slug": "ecox-6m8d",
+    "aliases": []
+  },
+  "luma-crypto-xynHNpzhFQ55syM": {
+    "slug": "holiday-party-tellor-dc-dao",
+    "aliases": [
+      "whwe5ioe"
+    ]
+  },
+  "luma-crypto-cnwHGaAliHIMYkq": {
+    "slug": "hong-kong-",
+    "aliases": []
+  },
+  "luma-crypto-CKQ1hP5qJ9yvNDH": {
+    "slug": "solana-soc",
+    "aliases": []
+  },
+  "luma-crypto-MVwDRG3qHUDIzVf": {
+    "slug": "bitcoin-book-club-resistance-money",
+    "aliases": [
+      "9q2by4vu"
+    ]
+  },
+  "luma-crypto-AhWkzWCrBlruGDq": {
+    "slug": "bitcoin-brunch-boro",
+    "aliases": [
+      "8bwrwh40"
+    ]
+  },
+  "luma-crypto-N7aIok5arp1ECB9": {
+    "slug": "tacnode-ap",
+    "aliases": []
+  },
+  "eb-2003199972041": {
+    "slug": "crypto-web3-startups-investors-london-nov-2026",
+    "aliases": []
+  },
+  "premier-tokenize-ldn-2026": {
+    "slug": "tokenize-ldn-2026",
+    "aliases": []
+  },
+  "premier-hk-web3-festival-2027": {
+    "slug": "hk-web3-festival-2027",
+    "aliases": []
+  },
+  "premier-webx-2027": {
+    "slug": "webx-2027",
+    "aliases": []
+  },
+  "premier-bitcoin-asia-2027": {
+    "slug": "bitcoin-asia-2027",
+    "aliases": []
+  },
+  "ibw-hypercup-hyperliquid-air2o40t": {
+    "slug": "hypercup",
+    "aliases": []
+  },
+  "ibw-i0vz9q6c": {
+    "slug": "kashif",
+    "aliases": []
+  },
+  "ibw-c9nw11qi": {
+    "slug": "glamsterdam-mumbai",
+    "aliases": []
+  },
+  "ibw-vm795qzx": {
+    "slug": "baseb20",
+    "aliases": []
+  },
+  "ibw-t0e7b24u": {
+    "slug": "chillplants",
+    "aliases": []
+  },
+  "ibw-w61rovyw": {
+    "slug": "endlesscoffee",
+    "aliases": []
+  },
+  "ibw-wprc-kol-261104-zcash-tachyon-what-is-it-lessons-l": {
+    "slug": "zcashtachyon",
+    "aliases": []
+  },
+  "ibw-wprc-kol-261104-at-monad-blitz-devcon": {
+    "slug": "propamms",
+    "aliases": []
+  },
+  "ibw-cu2jm5bn": {
+    "slug": "smokingsummit",
+    "aliases": []
+  },
+  "ibw-9qzvhhxs": {
+    "slug": "fhenixarcade",
+    "aliases": []
+  },
+  "ibw-kf553io8": {
+    "slug": "privacyszn",
+    "aliases": []
+  },
+  "ibw-0qwpaxre": {
+    "slug": "xdcai",
+    "aliases": []
+  },
+  "ibw-43x56ltz": {
+    "slug": "web3indiacoffee",
+    "aliases": []
+  },
+  "ibw-t3u5q76p": {
+    "slug": "tachi-btc-hacker-shop-devcon-edition",
+    "aliases": [
+      "tachibtc"
+    ]
+  },
+  "ibw-bunkerautoresearch": {
+    "slug": "bunkerauto",
+    "aliases": []
+  },
+  "ibw-545iup8w": {
+    "slug": "tangemhouse",
+    "aliases": []
+  },
+  "ibw-pwpukays": {
+    "slug": "risex",
+    "aliases": []
+  },
+  "ibw-4jt54kqx": {
+    "slug": "devcongirlies",
+    "aliases": []
+  },
+  "ibw-4hcsc1r3": {
+    "slug": "arkadian",
+    "aliases": []
+  },
+  "ibw-mgxg6ko8": {
+    "slug": "polkadotmumbai",
+    "aliases": []
+  },
+  "token2049-evt-C1gxjRKWyH9xmZe": {
+    "slug": "get-down-real2",
+    "aliases": []
+  },
+  "token2049-evt-WfCQCLKJaYQzDW4": {
+    "slug": "get-down-real3",
+    "aliases": []
+  },
+  "token2049-evt-w1Dt8n6KOOiWo6K": {
+    "slug": "get-down-real4",
+    "aliases": []
+  },
+  "token2049-evt-hibdrdDywIqLsxW": {
+    "slug": "founder-venture",
+    "aliases": []
+  },
+  "token2049-evt-Jaa6PcGwwk21efW": {
+    "slug": "get-down-real5",
     "aliases": []
   }
 }

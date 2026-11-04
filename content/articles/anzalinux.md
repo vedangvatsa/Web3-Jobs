@@ -1,0 +1,27 @@
+---
+title: Anza Tells Solana Validators to Mitigate Critical Linux Kernel Flaw
+ogTitle: "ANZA TELLS SOLANA VALIDATORS TO MITIGATE CRITICAL LINUX KERNEL FLAW"
+description: >-
+  Anza warned Solana validators running Ubuntu to block inbound packets and
+  disable two networking features while Ubuntu's kernel package for
+  CVE-2026-98432 remains a work in progress.
+image: /images/news/anzalinux.jpg
+imageCaption: "A technician working on a server rack at the National Energy Research Scientific Computing Center. Photo: Derrick Coetzee via Wikimedia Commons (CC0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Technician_with_laptop_working_on_server_rack_at_NERSC.jpg
+category: News
+data-ai-hint: server rack technician
+publishedDate: '2026-11-02'
+lastUpdated: '2026-11-02'
+---
+
+Anza, the team that maintains Solana's Agave validator client, told mainnet-beta validators on Nov. 1 to act on a critical Linux kernel vulnerability, warning operators running Ubuntu to restrict incoming connections and disable two networking features while a corrected kernel is pending. [TokenPost reported](https://www.tokenpost.com/news/technology/46026) the alert, published Nov. 1 at 7:26 p.m. EST, and said it calls for those temporary changes on Ubuntu machines used by Solana validators.
+
+The flaw is CVE-2026-98432, a use-after-free in the Linux kernel's IPv4 TCP connection setup that the kernel's own CVE authority rates 9.8 out of 10, critical. [Ubuntu's tracker](https://ubuntu.com/security/CVE-2026-98432) carries a publication date of Oct. 15 and a last update of Oct. 30, assigns the issue priority High, and lists the main linux package on releases 22.04, 24.04, 26.04 and 26.10 as "Vulnerable work in progress". No fixed Ubuntu kernel appears on the page for those releases. Kernel developers applied the upstream fix on Oct. 5, ten days before the CVE was published, and the kernel CVE team added the 9.8 score on Oct. 24, [The Hacker News account](https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html) said. The race does not affect IPv6 because the kernel copies the options for IPv6 connections.
+
+Anthropic disclosed on Oct. 27 that its AI model Claude wrote an exploit for the bug. The same [Hacker News report](https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html) states that the exploit lets a remote attacker with no credentials run commands as root on a Linux server that has a multipath TCP listener, and that in Anthropic's test leaking a kernel address took 48 minutes while reaching command execution took 5 more. The kernel fix credits Anthropic researcher Xinyang Ge with reporting the bug. As of Oct. 29 no vendor advisory, the CVE record or Anthropic's post reported attacks using the flaw, the report added.
+
+The warning reaches Solana because validators typically run Ubuntu and expose a public network address. Anza's notice amplified a thread from Tim Garcia, the Solana Foundation's validator relations lead. [ChainCatcher reported](https://www.chaincatcher.com/en/article/2300907) on Nov. 2 that Garcia advised validators on Ubuntu to block inbound TCP packets containing IPv4 options with nftables, disable multipath TCP, and switch off TCP request socket migration. [The Defiant's report](https://cryptonews.net/news/security/33686402/) adds that Anza's requirements say Agave builds and runs on Ubuntu 24.04 and requires a public IPv4 address, and that a successful host takeover could expose the validator identity key stored on the machine while a kernel crash could interrupt block production. The same report says Anza's operator guidance tells operators to keep the separate withdrawer key off the server.
+
+Those interim steps have limits. A [validator operator guide](https://durenodes.com/guides/mptcp-cve-2026-98432/) published Nov. 1 states that turning multipath TCP off removes the demonstrated attack path rather than the bug, because the flaw sits in plain TCP code and nobody has established whether root is reachable without a multipath TCP listener. Since Go 1.24, Go programs open Linux listeners with multipath TCP by default, which is how node software can expose the feature without an operator configuring it, the guide says. Changing the sysctl value does not convert listeners that are already open, so an operator has to restart the node before its sockets reopen as plain TCP. Its authors call a patched kernel plus a reboot the real fix and the sysctl switch a stopgap.
+
+Distribution patch status still varies. A [separate Oct. 29 account](https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html) put Debian, Oracle Linux, SUSE and Amazon Linux among the vendors that had shipped fixed packages by that date, while Ubuntu and Red Hat had not; Red Hat rated the flaw Moderate at 5.9 on its CVE page and Important at 8.1 in its machine-readable advisory, below the kernel team's 9.8. Red Hat says no available mitigation meets its standards for being easy to deploy, suitable for most installations and stable. Red Hat published kernel fixes for RHEL 8, 9 and 10 in advisories dated Nov. 1, and those updates require a reboot to take effect, [the Defiant report](https://cryptonews.net/news/security/33686402/) said. Debian's tracker lists fixed security packages for bookworm and trixie. As of the Ubuntu tracker's last update on Oct. 30, no fixed Ubuntu kernel was listed for 22.04, 24.04, 26.04 or 26.10.

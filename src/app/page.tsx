@@ -9,27 +9,31 @@ import { PageShell } from '@/components/page-shell';
 import { breadcrumbSchema, faqSchema, serviceSchema } from '@/lib/site-schema';
 import type { Metadata } from 'next';
 import { withLogoImageVariants } from '@/lib/responsive-images-server';
+import { getFreshJobCountLabel } from '@/lib/seo-freshness';
 
 export const dynamic = 'force-static';
 export const revalidate = 3600;
 
+const pageTitle = `Remote Web3 Jobs (${getFreshJobCountLabel()})`;
+const pageDesc = `Find verified remote Web3 jobs, crypto careers, salary data, and blockchain roles. ${getFreshJobCountLabel()}. Updated daily for builders, engineers, and operators.`;
+
 export const metadata: Metadata = {
-  title: 'Web3 Jobs and Crypto Careers',
-  description: 'Find verified Web3 jobs, crypto careers, salary data, and remote blockchain roles. Updated daily for builders, engineers, and operators.',
+  title: pageTitle,
+  description: pageDesc,
   alternates: {
     canonical: 'https://hashtagweb3.com',
   },
   openGraph: {
     type: 'website',
-    title: 'Web3 Jobs and Crypto Careers',
-    description: 'Find verified Web3 jobs, crypto careers, salary data, and remote blockchain roles. Updated daily.',
+    title: pageTitle,
+    description: pageDesc,
     url: 'https://hashtagweb3.com',
     images: [{ url: 'https://hashtagweb3.com/og-image.png', width: 1200, height: 630 }],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Web3 Jobs and Crypto Careers',
-    description: 'Find verified Web3 jobs, crypto careers, salary data, and remote blockchain roles. Updated daily.',
+    title: pageTitle,
+    description: pageDesc,
     images: ['https://hashtagweb3.com/og-image.png'],
   },
 };

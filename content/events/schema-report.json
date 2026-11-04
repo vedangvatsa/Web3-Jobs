@@ -1,13 +1,13 @@
 {
-  "total": 390,
-  "eligible": 133,
+  "total": 428,
+  "eligible": 129,
   "exclusions": {
-    "missing-detailed-address": 201,
-    "restricted-registration": 180,
-    "hidden-address": 122,
-    "online-only": 12,
-    "multiple-venues": 6,
-    "missing-location": 2
+    "missing-detailed-address": 254,
+    "restricted-registration": 175,
+    "hidden-address": 110,
+    "multiple-venues": 5,
+    "online-only": 10,
+    "missing-location": 3
   },
   "events": [
     {
@@ -52,17 +52,6 @@
       ]
     },
     {
-      "id": "ma-money-20-20-usa",
-      "name": "Money20/20 USA",
-      "url": "https://hashtagweb3.com/money2020-usa",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
       "id": "luma-batch-jR6a4UNcsq5XvJN",
       "name": "IslandDAO v5 🇧🇷",
       "url": "https://hashtagweb3.com/islanddao-v5",
@@ -74,859 +63,6 @@
       "missingRecommended": [
         "offers",
         "organizer"
-      ]
-    },
-    {
-      "id": "mu-317025728",
-      "name": "Timechain Tuesdays - Coffee & Bitcoin",
-      "url": "https://hashtagweb3.com/timechain-tuesdays-coffee-bitcoin",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers"
-      ]
-    },
-    {
-      "id": "luma-host-evt-evt-H1GEOEuxvdcGh7m",
-      "name": "Building Apps and Communities on Solana",
-      "url": "https://hashtagweb3.com/building-apps-communities-solana",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-batch-evt9nYvpCnI7IZyX",
-      "name": "Merkle Science Meet Las Vegas: Enterprise Compliance for Stablecoin",
-      "url": "https://hashtagweb3.com/merkle-science-las-vegas",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "mu-316316148",
-      "name": "South Beach Miami Bitcoin Happy Hour",
-      "url": "https://hashtagweb3.com/south-beach-miami-bitcoin-happy-hour",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers"
-      ]
-    },
-    {
-      "id": "luma-batch-evt8IJVONJcTwMP6",
-      "name": "Cryptolina 2026",
-      "url": "https://hashtagweb3.com/cryptolina",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-XzdNZYQvs1Okah0",
-      "name": "20/20 Vision: Solana x Huma Happy Hour",
-      "url": "https://hashtagweb3.com/20-20-vision-solana-x-huma-happy-hour",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-batch-evt7gjnLEpvcig2Z",
-      "name": "Solana Across Campuses - San Diego State University",
-      "url": "https://hashtagweb3.com/solana-san-diego-state-university",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-batch-evtaVuHzMqExnGSR",
-      "name": "Money20/20 Happy Hour",
-      "url": "https://hashtagweb3.com/money2020-happy-hour",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-batch-evtGnX3Bt3QfsZya",
-      "name": "On the House with Privy & Bridge",
-      "url": "https://hashtagweb3.com/on-the-house-privy-bridge",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "mu-316790235",
-      "name": "Crypto Clubhouse: Privacy on Tap + GOTV Trivia + Giveaways 6-9pm Goat Bar",
-      "url": "https://hashtagweb3.com/crypto-clubhouse-privacy-tap-gotv-trivia-giveaways-6-9pm-goat",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers"
-      ]
-    },
-    {
-      "id": "luma-batch-evtycWrx5n01IFcf",
-      "name": "Bitcoin & Brews Port Moody",
-      "url": "https://hashtagweb3.com/bitcoin-brews-port-moody",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
-      "id": "luma-batch-evtGMos7F0qQNyQF",
-      "name": "金融機構數位資產實務轉型 Presented by TAAS - 年度系列講座 (五) 從 API 到操作流程：金融機構如何串接數位資產基礎設施",
-      "url": "https://hashtagweb3.com/taas-digital-asset-infrastructure-seminar",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-host-evt-evt-CgjAsxd2TK5PXtq",
-      "name": "Superteam Poland Co-work: Kraków",
-      "url": "https://hashtagweb3.com/superteam-poland-co-work-krakow-2026-10-21",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "w3v-arcade-day-2026",
-      "name": "Arkade Day 2026",
-      "url": "https://hashtagweb3.com/arkade-day",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-rYg9kJJBZfME4d1",
-      "name": "Bitcoin For Merchants - Use Bitcoin For Your Business (Bali Bitcoin Island)",
-      "url": "https://hashtagweb3.com/bitcoin-merchants-use-bitcoin-your-business-bali-bitcoin-island-2026-10-21",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
-      "id": "discovery-evt-LvRdeiNaeZflUIs",
-      "name": "What If Someone Tried to Create 1 million Extra Bitcoin? | Vadodara",
-      "url": "https://hashtagweb3.com/what-if-someone-tried-create-1-million-extra-bitcoin-vadodara",
-      "eligible": false,
-      "issues": [
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "mu-316413134",
-      "name": "DUC Bitcoin Paris Montmartre",
-      "url": "https://hashtagweb3.com/duc-bitcoin-paris-montmartre",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers"
-      ]
-    },
-    {
-      "id": "discovery-evt-UMNVKyy1Q3q7JgE",
-      "name": "Community Roundtable",
-      "url": "https://hashtagweb3.com/community-roundtable-2026-10-21",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
-      "id": "mu-312264805",
-      "name": "Bitcoin am Holzmarkt (Stammtisch)",
-      "url": "https://hashtagweb3.com/bitcoin-am-holzmarkt-stammtisch",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers"
-      ]
-    },
-    {
-      "id": "luma-batch-evtyRjNoO6i0QmUp",
-      "name": "LME After-Hours: Mid-Week Mixer",
-      "url": "https://hashtagweb3.com/lme-after-hours-mixer",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-xcJ3hkBPmdfgdHm",
-      "name": "21MeetUp | Octubre",
-      "url": "https://hashtagweb3.com/21meetup-octubre",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
-      "id": "mu-316573253",
-      "name": "Houston Crypto Meetup #43",
-      "url": "https://hashtagweb3.com/houston-crypto-meetup-43",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers"
-      ]
-    },
-    {
-      "id": "discovery-evt-HlX4KTQytAD4DH7",
-      "name": "Team1 India University Workshop - MIT - WPU, Pune",
-      "url": "https://hashtagweb3.com/team1-india-university-workshop-mit-wpu-pune",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-batch-OZx1friXAoHVZKN",
-      "name": "Rust Melbourne Meetup",
-      "url": "https://hashtagweb3.com/rust-melbourne-meetup",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
-      "id": "premier-blockfest-africa-2026",
-      "name": "Blockf3st Africa 2026",
-      "url": "https://hashtagweb3.com/blockfest-africa",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-batch-evtpzY4t9z1ap4VH",
-      "name": "UnBundled - Autumn edition",
-      "url": "https://hashtagweb3.com/unbundled-autumn",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-S85peLd1TLeNc05",
-      "name": "Solana Student Bootcamp | AIで始める、ブロックチェーン開発",
-      "url": "https://hashtagweb3.com/solana-student-bootcamp-ai",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-host-evt-evt-3vTAJvXoBBaY3HB",
-      "name": "Cowork with ETHGlobal in Vadodara with PU DAO & NEAR Protocol",
-      "url": "https://hashtagweb3.com/cowork-ethglobal-vadodara-pu-dao-near-protocol",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
-      "id": "luma-host-evt-evt-9qbXxI87FMFkdFf",
-      "name": "ETHGlobal Happy Hour New Delhi",
-      "url": "https://hashtagweb3.com/ethglobal-happy-hour-new-delhi",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "mu-316952339",
-      "name": "Blockchain In the Age of Quantum",
-      "url": "https://hashtagweb3.com/blockchain-age-quantum",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers"
-      ]
-    },
-    {
-      "id": "token2049-evt-t9Ts4NTXVMW7o9r",
-      "name": "Get Down For Real",
-      "url": "https://hashtagweb3.com/get-down-real",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-GBKABMGTvkCfyPg",
-      "name": "Build For Breakpoint: How We Exited KnownOrigin to eBay",
-      "url": "https://hashtagweb3.com/build-breakpoint-how-we-exited-knownorigin-ebay",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-q3nE7Ggih7EifUJ",
-      "name": "LinkLab | CCIP 2.0",
-      "url": "https://hashtagweb3.com/linklab-ccip-2-0",
-      "eligible": false,
-      "issues": [
-        "online-only",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-batch-hPFyfHyof2hYVIp",
-      "name": "SOIRÉE XD #20",
-      "url": "https://hashtagweb3.com/soiree-xd-20",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
-      "id": "mu-316850208",
-      "name": "Coldcard post-mortem: ¿Qué pasó? + Debate abierto",
-      "url": "https://hashtagweb3.com/coldcard-post-mortem-que-paso-debate-abierto",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers"
-      ]
-    },
-    {
-      "id": "luma-batch-evtdYbK287YZ3bbj",
-      "name": "AWIC x Rutgers Center for Corporate Law and Governance: The Future of Digital Asset Governance",
-      "url": "https://hashtagweb3.com/awic-rutgers-digital-asset-governance",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
-      "id": "luma-batch-evtmWdmu40qCxBTk",
-      "name": "My First Bitcoin: Education Is Freedom",
-      "url": "https://hashtagweb3.com/my-first-bitcoin-education-is-freedom",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
-      "id": "mu-313235525",
-      "name": "Austin Bitcoin Club Presents: Gamenight!",
-      "url": "https://hashtagweb3.com/austin-bitcoin-club-presents-gamenight",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers"
-      ]
-    },
-    {
-      "id": "premier-planblugano",
-      "name": "Plan B Forum Lugano 2026",
-      "url": "https://hashtagweb3.com/plan-b-forum-lugano",
-      "eligible": false,
-      "issues": [
-        "multiple-venues"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "curated-field-station-rajasthan-2026",
-      "name": "Field Station Rajasthan 2026",
-      "url": "https://hashtagweb3.com/field-station-rajasthan",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "mu-316716892",
-      "name": "Austin Bitcoin Developers Meetup",
-      "url": "https://hashtagweb3.com/austin-bitcoin-developers-meetup",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers"
-      ]
-    },
-    {
-      "id": "mu-316822252",
-      "name": "EthVan weekly meetup",
-      "url": "https://hashtagweb3.com/ethvan-weekly-meetup",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers"
-      ]
-    },
-    {
-      "id": "token2049-evt-2gHTqhbNIut9G5D",
-      "name": "Founder House Singapore 🇸🇬",
-      "url": "https://hashtagweb3.com/founder-house",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-Jiz1nYxlG75X1SX",
-      "name": "Team1 India University Workshop - Indira College of Engineering & Management, Pune",
-      "url": "https://hashtagweb3.com/team1-india-university-workshop-indira-college-engineering-management-pune",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-host-evt-evt-JRloloPOnjwowzA",
-      "name": "Coworking Fridays Belgrade | Superteam Balkan",
-      "url": "https://hashtagweb3.com/coworking-fridays-belgrade-superteam-balkan",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
-      "id": "premier-toksummituk",
-      "name": "UK Tokenisation Summit 2026",
-      "url": "https://hashtagweb3.com/uk-tokenisation-summit",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-batch-9tJirJDFIno1LUr",
-      "name": "Co-Working Fridays : London Chapter",
-      "url": "https://hashtagweb3.com/london-oct-23",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-batch-7iIJgmckKWYczPb",
-      "name": "Encode London Hackathon",
-      "url": "https://hashtagweb3.com/encode-london-2026",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "india-luma-ppg3gw8l",
-      "name": "Road to Devcon India | Pune Edition",
-      "url": "https://hashtagweb3.com/road-to-devcon-pune-a36",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-haz6jOnoJHBqX0Q",
-      "name": "Build For Breakpoint: Sailing Through Sales",
-      "url": "https://hashtagweb3.com/build-breakpoint-sailing-through-sales",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-UCVyELUtCmRFEgU",
-      "name": "Montreal VibeStation",
-      "url": "https://hashtagweb3.com/montreal-vibestation-2026-10-23",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-FCjHbklpkjJhS08",
-      "name": "Toronto VibeStation",
-      "url": "https://hashtagweb3.com/toronto-vibestation-2026-10-23",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-7IqcX8M9irXvPE3",
-      "name": "Skyline Coworking",
-      "url": "https://hashtagweb3.com/skyline-coworking-2026-10-23",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-61qMI4lIR0KZSDR",
-      "name": "Vancouver VibeStation",
-      "url": "https://hashtagweb3.com/vancouver-vibestation-2026-10-23",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "curated-tokeniq-mumbai-2026",
-      "name": "TokenIQ Mumbai 2026",
-      "url": "https://hashtagweb3.com/tokeniq-mumbai",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-evt-eKm7z2RHvU2RJ7B",
-      "name": "Ignite Room: Devcon Mumbai",
-      "url": "https://hashtagweb3.com/ignite-room-devcon-mumbai",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-TiZnPxscDelGhid",
-      "name": "ETH Shenzhen 2026",
-      "url": "https://hashtagweb3.com/eth-shenzhen",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-batch-evtPICyDbNudDA4Z",
-      "name": "Bitcoin Indonesia Community Meetup Jakarta 24 Oktober 2026",
-      "url": "https://hashtagweb3.com/bitcoin-indonesia-jakarta-meetup",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
-      "id": "india-luma-76s6hwzv",
-      "name": "Ready for the Run @ Lucknow",
-      "url": "https://hashtagweb3.com/ready-for-the-run-lucknow",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-eEhN4p4N79AW1PR",
-      "name": "Team1 India University Workshop - Vishwakarma Institute of Technology, Pune",
-      "url": "https://hashtagweb3.com/team1-india-university-workshop-vishwakarma-institute-technology-pune",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-evt-sAAM7t4xPhiGJtV",
-      "name": "BitGo x Giottus: Crypto Custody in Action",
-      "url": "https://hashtagweb3.com/bitgo-x-giottus-crypto-custody-action",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "w3v-xrp-ledger-hackathon",
-      "name": "AI & Fintech XRPL Hackathon in New York",
-      "url": "https://hashtagweb3.com/ai-fintech-xrpl-hackathon",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "mu-316839883",
-      "name": "Crypto Social & Networking Night: Web3, AI, Blockchain, DeFi, NFTs",
-      "url": "https://hashtagweb3.com/crypto-social-networking-night-web3-ai-blockchain-defi-nfts",
-      "eligible": false,
-      "issues": [
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-crypto-KdgiJ5gO82TXRB9",
-      "name": "AI × GTM Day: Growth Hackathon, Talks & Social",
-      "url": "https://hashtagweb3.com/ai-gtm-day",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-evt-V53ojWka5tr7GSw",
-      "name": "Hands-On Bitcoin Multisig Workshop",
-      "url": "https://hashtagweb3.com/hands-bitcoin-multisig-workshop",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
-      "id": "premier-hackmeridian",
-      "name": "HackMeridian 2026",
-      "url": "https://hashtagweb3.com/hackmeridian",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-UhNfhuMgGZHqE7F",
-      "name": "Bitcoin Indonesia Community Meetup Magelang 25 Oktober 2026",
-      "url": "https://hashtagweb3.com/bitcoin-indonesia-community-meetup-magelang-25-oktober",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
-      "id": "discovery-evt-vJUx9grI6doLBwb",
-      "name": "Bitcoin Indonesia Community Meetup Bandung Barat 25 Oktober 2026",
-      "url": "https://hashtagweb3.com/bitcoin-indonesia-community-meetup-bandung-barat-25-oktober",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
-      "id": "mu-316810808",
-      "name": "Bitcoin Women Meetup mit Les Femmes Orange",
-      "url": "https://hashtagweb3.com/bitcoin-women-meetup-mit-les-femmes-orange",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers"
-      ]
-    },
-    {
-      "id": "luma-batch-evt8I0lRm1lzJXpE",
-      "name": "Evening Panel + Rooftop Cocktails - our new home at SNC",
-      "url": "https://hashtagweb3.com/snc-evening-panel-rooftop-cocktails",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-crypto-pMblGmFDgWwshUx",
-      "name": "Bay Area AI+car hackathon",
-      "url": "https://hashtagweb3.com/bay-area-ai-car-hackathon",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
-      "id": "mu-317049329",
-      "name": "Bitcoin for Beginners",
-      "url": "https://hashtagweb3.com/bitcoin-beginners-2026-10-25",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers"
       ]
     },
     {
@@ -944,313 +80,12 @@
       ]
     },
     {
-      "id": "discovery-evt-XFoMM2nGSakEMj8",
-      "name": "Mid-Chain Conference: Blockchain & Decentralized Economics",
-      "url": "https://hashtagweb3.com/mid-chain-conference-blockchain-decentralized-economics",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-batch-JrwT6SseTVJgIBs",
-      "name": "El Encuentro",
-      "url": "https://hashtagweb3.com/el-encuentro",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-H7r7sZBCzbTUXsJ",
-      "name": "Build For Breakpoint: Laptops to Terminals - How Ecosystem Helps You Scale From Retail to Institutions",
-      "url": "https://hashtagweb3.com/build-breakpoint-laptops-terminals-how-ecosystem-helps-you-scale-retail",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "mu-316869344",
-      "name": "Crypto Coffee & Networking Night: Web3, AI, Blockchain, DeFi, NFTs",
-      "url": "https://hashtagweb3.com/crypto-coffee-networking-night-web3-ai-blockchain-defi-nfts",
-      "eligible": false,
-      "issues": [
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-vxHTXfYAtLW0JqS",
-      "name": "NEAR x SVRN Happy Hour @ The Bridge",
-      "url": "https://hashtagweb3.com/near-x-svrn-happy-hour-bridge",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-pb7TG5mtKrOmFwr",
-      "name": "CryptoMondays Bahamas Launch",
-      "url": "https://hashtagweb3.com/cryptomondays-bahamas-launch",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-batch-evti0AaTIcicsFFO",
-      "name": "XRP Sidekick - NY",
-      "url": "https://hashtagweb3.com/xrp-sidekick-ny",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "organizer"
-      ]
-    },
-    {
-      "id": "curated-zcon-7-2026-10-27",
-      "name": "Zcon 7",
-      "url": "https://hashtagweb3.com/zcon-7",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "image",
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "premier-swell-2026",
-      "name": "Ripple Swell 2026",
-      "url": "https://hashtagweb3.com/ripple-swell-2026",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-angHOkD4gtGuepG",
-      "name": "Mariblock House: Moonshot Edition",
-      "url": "https://hashtagweb3.com/mariblock-house-moonshot-edition",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-evt-hrybBLtJ4Gzmaba",
-      "name": "Ethereum Meetup Tokyo Vol.26",
-      "url": "https://hashtagweb3.com/ethereum-meetup-tokyo-vol-26",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
       "id": "discovery-evt-4GbxA81G5iwo5UA",
       "name": "Bitcoin en las Universidades en Universidad de Belgrano",
       "url": "https://hashtagweb3.com/bitcoin-en-las-universidades-en-universidad-de-belgrano",
       "eligible": true,
       "issues": [],
       "missingRecommended": []
-    },
-    {
-      "id": "discovery-evt-RDHzi9B3vL2FkcZ",
-      "name": "Road to ETHPrague",
-      "url": "https://hashtagweb3.com/road-ethprague",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
-      "id": "mu-316885523",
-      "name": "Linux Foundation Decentralized Trust (LFDT) Berlin Monthly Live Gathering",
-      "url": "https://hashtagweb3.com/linux-foundation-decentralized-trust-lfdt-berlin-monthly-live-gathering",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers"
-      ]
-    },
-    {
-      "id": "w3v-hacker-house-goa-26-10-28",
-      "name": "Hacker House Goa 2026",
-      "url": "https://hashtagweb3.com/hacker-house-goa",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "image",
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "premier-meridian",
-      "name": "Meridian 2026",
-      "url": "https://hashtagweb3.com/meridian",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-host-evt-evt-aIh5owwCOVedwMw",
-      "name": "Superteam Poland Co-work: Kraków",
-      "url": "https://hashtagweb3.com/superteam-poland-co-work-krakow-2026-10-28",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-evt-jfJFCNApP1oVyb2",
-      "name": "India OnChain Tour #50 - Haryana Edition",
-      "url": "https://hashtagweb3.com/india-onchain-tour-50-haryana-edition",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
-      "id": "luma-crypto-Q9pqBMhbxoTeN4u",
-      "name": "Solana Indoor Skydiving",
-      "url": "https://hashtagweb3.com/solana-indoor-skydiving",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-1DcDrdOjAH9DBML",
-      "name": "The Future of Value: AI & Tokenised Assets",
-      "url": "https://hashtagweb3.com/future-value-ai-tokenised-assets",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
-      "id": "luma-batch-evtMJacaICJiBqTU",
-      "name": "BCNL x VBNL x PwC - CARF & DAC8 Roundtable",
-      "url": "https://hashtagweb3.com/bcnl-vbnl-pwc-carf-dac8-roundtable",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "mu-316768752",
-      "name": "Oslo Blockchain Meetup - Nexa",
-      "url": "https://hashtagweb3.com/oslo-blockchain-meetup-nexa",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-BSnrt893V7uhtCu",
-      "name": "Community Roundtable",
-      "url": "https://hashtagweb3.com/community-roundtable-2026-10-28",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
-      "id": "discovery-evt-b30Bmhw4B0gQehq",
-      "name": "Founders' Society Meetup",
-      "url": "https://hashtagweb3.com/founders-society-meetup",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-batch-evtEMssqLAKyB5Cb",
-      "name": "Bit2Me Side Event en MERGE Madrid 2026",
-      "url": "https://hashtagweb3.com/bit2me-merge-madrid",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
     },
     {
       "id": "luma-batch-evt9GgBM7ScK61zT",
@@ -1263,191 +98,6 @@
       "missingRecommended": [
         "offers",
         "organizer"
-      ]
-    },
-    {
-      "id": "w3v-linknyc",
-      "name": "Link:NYC 2026",
-      "url": "https://hashtagweb3.com/link-nyc",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "mu-316905431",
-      "name": "Crypto Halloween & Chill - Socialize, Discuss & Learn About CRYPTO",
-      "url": "https://hashtagweb3.com/crypto-halloween-chill-socialize-discuss-learn-about-crypto",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers"
-      ]
-    },
-    {
-      "id": "luma-batch-evt869aA865WPNn0",
-      "name": "[DA] Top 50 Impact List 2026",
-      "url": "https://hashtagweb3.com/dalist2026",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-batch-evt6EvkOXhufIAua",
-      "name": "AWIC x MERGE Madrid: Panel & Networking",
-      "url": "https://hashtagweb3.com/awic-merge-madrid-breakfast",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
-      "id": "luma-batch-evtrN879vRTa1NBn",
-      "name": "Crypto Compliance and Legal Community Drinks - Hong Kong",
-      "url": "https://hashtagweb3.com/crypto-compliance-legal-drinks-hong-kong",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-evt-rLBYBxQDjgYF9wR",
-      "name": "LABITCONF Bitcoin College",
-      "url": "https://hashtagweb3.com/labitconf-bitcoin-college",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "curated-crafting-cryptoeconomy-conference-2026-10-29",
-      "name": "Crafting the Cryptoeconomy Conference 2026",
-      "url": "https://hashtagweb3.com/crafting-cryptoeconomy-conference",
-      "eligible": false,
-      "issues": [
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-host-evt-evt-S1a3G141Dsg60pk",
-      "name": "The Solana Ecosystem Call | October",
-      "url": "https://hashtagweb3.com/solana-ecosystem-call-october",
-      "eligible": false,
-      "issues": [
-        "online-only",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "token2049-evt-k5CCYE5vIpcBRt6",
-      "name": "Get Down For Real",
-      "url": "https://hashtagweb3.com/get-down-for",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "mu-316859645",
-      "name": "Measuring Ledgers With The Blockchain Decentralisation Index Lab",
-      "url": "https://hashtagweb3.com/measuring-ledgers-blockchain-decentralisation-index-lab",
-      "eligible": false,
-      "issues": [
-        "online-only",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "mu-316802767",
-      "name": "ZK Learning Group: Quantum resistance and ZKP",
-      "url": "https://hashtagweb3.com/zk-learning-group-quantum-resistance-zkp",
-      "eligible": false,
-      "issues": [
-        "online-only",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "mu-316754646",
-      "name": "Gaming Ethereum: How Trading Bots Cut the Line and Threaten Consensus",
-      "url": "https://hashtagweb3.com/gaming-ethereum-how-trading-bots-cut-line-threaten-consensus",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers"
-      ]
-    },
-    {
-      "id": "mu-316914263",
-      "name": "Bitcoin Manchester Monthly",
-      "url": "https://hashtagweb3.com/bitcoin-manchester-monthly",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers"
-      ]
-    },
-    {
-      "id": "mu-316836791",
-      "name": "₿uilder Miami",
-      "url": "https://hashtagweb3.com/bitcoin-builder-miami",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers"
-      ]
-    },
-    {
-      "id": "mu-313246741",
-      "name": "Bitcoin Bay Sauga Meetup",
-      "url": "https://hashtagweb3.com/bitcoin-bay-sauga-meetup",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers"
       ]
     },
     {
@@ -1473,66 +123,6 @@
       ]
     },
     {
-      "id": "luma-crypto-5FMmAfCas90BSxo",
-      "name": "Codex Community Meetup-San Francisco #11",
-      "url": "https://hashtagweb3.com/codex-community-meetup-san-francisco-11",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "token2049-evt-6PaUG2QqaTu8EqJ",
-      "name": "Plug and Play APAC Summit",
-      "url": "https://hashtagweb3.com/plug-play",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "ibw-official-mip-20-road-to-devcon-10-24",
-      "name": "MIP-20: Road to Devcon",
-      "url": "https://hashtagweb3.com/mip-20",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-batch-k8AK0WzF9fIxpCI",
-      "name": "Co-Working Fridays : London Chapter",
-      "url": "https://hashtagweb3.com/london-oct-30",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
       "id": "discovery-evt-VGgpJ5y4iCEv7z0",
       "name": "Hackathon EDU by LABITCONF",
       "url": "https://hashtagweb3.com/hackathon-edu-labitconf",
@@ -1544,116 +134,6 @@
         "offers",
         "organizer"
       ]
-    },
-    {
-      "id": "discovery-evt-lney7efAlAR4ckm",
-      "name": "Bitcoin Indonesia Community Online Meetup",
-      "url": "https://hashtagweb3.com/bitcoin-indonesia-community-online-meetup",
-      "eligible": false,
-      "issues": [
-        "online-only",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-batch-evt4MMdjvkDdqk5f",
-      "name": "AI Startup Rodeo @ Austin Tech Week '26 October 30th",
-      "url": "https://hashtagweb3.com/ai-startup-rodeo-austin",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
-      "id": "discovery-evt-Hjvm4014VjuSoa4",
-      "name": "Toronto VibeStation",
-      "url": "https://hashtagweb3.com/toronto-vibestation-2026-10-30",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-N8Y7ox5RWrVULyV",
-      "name": "Montreal VibeStation",
-      "url": "https://hashtagweb3.com/montreal-vibestation-2026-10-30",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-aY6cwqLQyssLxaR",
-      "name": "Skyline Coworking",
-      "url": "https://hashtagweb3.com/skyline-coworking-2026-10-30",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-batch-evtH1TbnZCL0kjl2",
-      "name": "SLC XPR Community Activation",
-      "url": "https://hashtagweb3.com/slc-xpr-community-activation",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-N58HD6XQiQjOqyw",
-      "name": "Vancouver VibeStation",
-      "url": "https://hashtagweb3.com/vancouver-vibestation-2026-10-30",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "mu-316958855",
-      "name": "Crypto Taxation in Greece (Φορολογία Κρυπτονομισμάτων στην Ελλάδα)",
-      "url": "https://hashtagweb3.com/crypto-taxation-greece",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers"
-      ]
-    },
-    {
-      "id": "luma-evt-lzupoprFFkUQski",
-      "name": "AI & Web3 Music Meetup",
-      "url": "https://hashtagweb3.com/ai-web3-music-meetup",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
     },
     {
       "id": "curated-bce-3-bitcoin-white-paper-day-2026-10-31",
@@ -1683,103 +163,6 @@
       ]
     },
     {
-      "id": "luma-batch-evtxsQpQLAW6ikXL",
-      "name": "Privacy,Technology,and Bitcoin",
-      "url": "https://hashtagweb3.com/privacy-technology-bitcoin",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "organizer"
-      ]
-    },
-    {
-      "id": "india-luma-co5dtixa",
-      "name": "Ready for the Run @ Pune",
-      "url": "https://hashtagweb3.com/ready-for-the-run-pune",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "premier-ibt-mumbai-2026",
-      "name": "India Blockchain & AI Tour 2026 - Mumbai",
-      "url": "https://hashtagweb3.com/india-blockchain-ai-tour-mumbai",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-C3uwilHHM2nQueB",
-      "name": "Base Builder Meetup",
-      "url": "https://hashtagweb3.com/base-builder-meetup",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "discovery-evt-RHhcoJ4MoApAvw1",
-      "name": "SuiHub Lagos: The Linq Experience",
-      "url": "https://hashtagweb3.com/suihub-lagos-linq-experience",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": []
-    },
-    {
-      "id": "mu-316996838",
-      "name": "Bitcoin Turns 18",
-      "url": "https://hashtagweb3.com/bitcoin-turns-18",
-      "eligible": true,
-      "issues": [],
-      "missingRecommended": [
-        "offers"
-      ]
-    },
-    {
-      "id": "mu-317050872",
-      "name": "Whitepaper Day BBQ [acto asociado a Barcelona Bitcoin Only]",
-      "url": "https://hashtagweb3.com/whitepaper-day-bbq-acto-asociado-barcelona-bitcoin-only",
-      "eligible": false,
-      "issues": [
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "ibw-official-ibw2026-pre-conference-vip-night-10-31",
-      "name": "IBW2026 Pre-Conference VIP Night",
-      "url": "https://hashtagweb3.com/ibw-pre-conference-vip-night",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
       "id": "premier-indiabw-2026",
       "name": "India Blockchain Week 2026",
       "url": "https://hashtagweb3.com/ibw",
@@ -1795,6 +178,7 @@
       "url": "https://hashtagweb3.com/shanhaiwoo-mumbai-extension",
       "eligible": false,
       "issues": [
+        "restricted-registration",
         "missing-detailed-address"
       ],
       "missingRecommended": [
@@ -1805,7 +189,7 @@
     {
       "id": "ibw-official-ibw-institutional-forum-11-02",
       "name": "IBW Institutional Forum",
-      "url": "https://hashtagweb3.com/ibw-institutional-forum",
+      "url": "https://hashtagweb3.com/ibwforum",
       "eligible": false,
       "issues": [
         "restricted-registration"
@@ -1831,10 +215,33 @@
     {
       "id": "india-luma-3doehm1b",
       "name": "Run & Rave",
-      "url": "https://hashtagweb3.com/run-and-rave",
+      "url": "https://hashtagweb3.com/runrave",
       "eligible": false,
       "issues": [
         "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-ZAxjtXnbNBG3bus",
+      "name": "Touch Grass, Not Contracts | Security Researchers' Walk",
+      "url": "https://hashtagweb3.com/touchgrass",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": []
+    },
+    {
+      "id": "ibw-luma-evt-vgIvAuAafDBzhhG",
+      "name": "sunday morning padel & pickleball club™",
+      "url": "https://hashtagweb3.com/pickleball",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
         "missing-detailed-address"
       ],
       "missingRecommended": [
@@ -1858,7 +265,7 @@
     {
       "id": "ibw-official-defi-security-summit-day-1-11-01",
       "name": "DeFi Security Summit 2026",
-      "url": "https://hashtagweb3.com/defi-security-summit",
+      "url": "https://hashtagweb3.com/defisecmumbai",
       "eligible": false,
       "issues": [
         "restricted-registration"
@@ -1871,7 +278,7 @@
     {
       "id": "india-luma-83ujl6ms",
       "name": "Zcash World - Mumbai",
-      "url": "https://hashtagweb3.com/zcash-world-mumbai",
+      "url": "https://hashtagweb3.com/zcashmumbai",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -1886,7 +293,7 @@
     {
       "id": "india-luma-bornlive-tpiy",
       "name": "BORN UP - India Blockchain Week Mumbai Community Networking Meetup",
-      "url": "https://hashtagweb3.com/born-up-ibw-mumbai",
+      "url": "https://hashtagweb3.com/bornupmumbai",
       "eligible": true,
       "issues": [],
       "missingRecommended": []
@@ -1898,6 +305,19 @@
       "eligible": true,
       "issues": [],
       "missingRecommended": []
+    },
+    {
+      "id": "luma-crypto-tAYni9NdRQ3FZEt",
+      "name": "Bitcoin India Tour- Goa Edition",
+      "url": "https://hashtagweb3.com/bitcoin-in",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
     },
     {
       "id": "luma-evt-szEAISbh7eCdngg",
@@ -1923,9 +343,20 @@
       ]
     },
     {
-      "id": "ibw-official-ravecon-b-ender-11-04",
-      "name": "Afterhours Mixer: Mumbai",
-      "url": "https://hashtagweb3.com/afterhours-mixer-mumbai",
+      "id": "luma-crypto-VaPweR6JCw17XGa",
+      "name": "Team1 India Connect - IBW Mumbai",
+      "url": "https://hashtagweb3.com/team1-indi",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-cFa8fILMOq8zmBQ",
+      "name": "Frontier Traders Mixer @ Solana Summit India",
+      "url": "https://hashtagweb3.com/frontiertraders",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -1938,9 +369,71 @@
       ]
     },
     {
+      "id": "luma-crypto-03aY9MF3WBtvMUc",
+      "name": "Ready For The Run @ IBW 2026",
+      "url": "https://hashtagweb3.com/ready-run-",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-official-ravecon-b-ender-11-04",
+      "name": "Afterhours Mixer: Mumbai",
+      "url": "https://hashtagweb3.com/mixermumbai",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-ePIIFhD8Ah3L5au",
+      "name": "The CMO Summit: Top 0.01% Club",
+      "url": "https://hashtagweb3.com/cmosummit",
+      "eligible": false,
+      "issues": [
+        "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-hypercup-hyperliquid-air2o40t",
+      "name": "HyperCup by Hyperliquid India",
+      "url": "https://hashtagweb3.com/hypercup",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-XkYzPSXLI1Hh0m9",
+      "name": "404: Conference Room Not Found | Security Night Walk",
+      "url": "https://hashtagweb3.com/walk404",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": []
+    },
+    {
       "id": "india-luma-li3sv90r",
       "name": "Shaktipith - Women only residency",
-      "url": "https://hashtagweb3.com/shaktipith-women-residency",
+      "url": "https://hashtagweb3.com/shaktipith",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -1954,7 +447,7 @@
     {
       "id": "india-luma-jb4zsel1",
       "name": "Catalyst - Founder residency at Devcon",
-      "url": "https://hashtagweb3.com/catalyst-founder-residency",
+      "url": "https://hashtagweb3.com/catalystmumbai",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -2004,6 +497,14 @@
       ]
     },
     {
+      "id": "ibw-luma-evt-wvg88v6eCeGG9T5",
+      "name": "Bug Hunters Anonymous | Auditors' Morning Walk",
+      "url": "https://hashtagweb3.com/bughunters",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": []
+    },
+    {
       "id": "india-luma-m8jxna31",
       "name": "Off-Chain Padel",
       "url": "https://hashtagweb3.com/off-chain-padel-mumbai",
@@ -2020,7 +521,7 @@
     {
       "id": "premier-cypherpunk",
       "name": "Ethereum Cypherpunk Congress #3",
-      "url": "https://hashtagweb3.com/ethereum-cypherpunk-congress",
+      "url": "https://hashtagweb3.com/cypherpunkmumbai",
       "eligible": true,
       "issues": [],
       "missingRecommended": []
@@ -2028,11 +529,37 @@
     {
       "id": "ibw-official-solana-summit-india-11-02",
       "name": "Solana Summit India",
-      "url": "https://hashtagweb3.com/solana-summit-india",
+      "url": "https://hashtagweb3.com/solanamumbai",
       "eligible": false,
       "issues": [
         "restricted-registration",
         "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-DUqmVKaajhfQ1xU",
+      "name": "ZECsy at ETH Cypherpunk Congress #3",
+      "url": "https://hashtagweb3.com/zecsycypherpunk",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-i0vz9q6c",
+      "name": "Kashif Raza - Fan Meetup",
+      "url": "https://hashtagweb3.com/kashif",
+      "eligible": false,
+      "issues": [
         "missing-detailed-address"
       ],
       "missingRecommended": [
@@ -2043,7 +570,7 @@
     {
       "id": "india-luma-arbiverse-mumbai",
       "name": "ArbiVerse Mumbai",
-      "url": "https://hashtagweb3.com/arbiverse-mumbai",
+      "url": "https://hashtagweb3.com/arbiverse",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -2056,9 +583,22 @@
       ]
     },
     {
+      "id": "luma-crypto-gNTVHMUFj01ZOGH",
+      "name": "RWA新階段：實物資產如何真正上鏈",
+      "url": "https://hashtagweb3.com/rwa-hong-kong",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "ibw-official-onchain-dev-city-india-11-02",
       "name": "Onchain Dev City - Devcon [8] INDIA 🇮🇳",
-      "url": "https://hashtagweb3.com/onchain-dev-city",
+      "url": "https://hashtagweb3.com/devcitymumbai",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -2070,9 +610,35 @@
       ]
     },
     {
+      "id": "luma-crypto-F8ZFNrYXCCBIuod",
+      "name": "DIY Bitcoin Workshop",
+      "url": "https://hashtagweb3.com/diy-bitcoin-workshop",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "india-luma-team1mumbai",
       "name": "Team1 India: Networking Gala Mumbai",
-      "url": "https://hashtagweb3.com/team1-mumbai-networking-gala",
+      "url": "https://hashtagweb3.com/team1mumbai",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-PcFq3OesDO3CXGW",
+      "name": "MEV - Maximal Evening Vibes",
+      "url": "https://hashtagweb3.com/mevibes",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -2087,7 +653,7 @@
     {
       "id": "ibw-official-ibw-official-after-party-11-02",
       "name": "IBW Official After-Party",
-      "url": "https://hashtagweb3.com/ibw-official-after-party",
+      "url": "https://hashtagweb3.com/ibwafterparty",
       "eligible": false,
       "issues": [
         "missing-detailed-address"
@@ -2098,13 +664,104 @@
       ]
     },
     {
+      "id": "ibw-luma-evt-qPONpLv4GlXAofz",
+      "name": "The Payments Night Mumbai Mixer",
+      "url": "https://hashtagweb3.com/paymentsnight",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-TQDZinnxGDGJiHK",
+      "name": "Ethereum Classic Mumbai",
+      "url": "https://hashtagweb3.com/ethereum-c",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "ibw-official-the-institutional-table-private-dinner-on-tokenization-stablecoins-and-s-11-02",
       "name": "The Institutional Table: Private Dinner on Tokenization, Stablecoins and Security | Mumbai",
-      "url": "https://hashtagweb3.com/institutional-table-mumbai",
+      "url": "https://hashtagweb3.com/tablemumbai",
       "eligible": false,
       "issues": [
         "restricted-registration",
         "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-UMczcjylUMol0HW",
+      "name": "CryptoMondays Devcon India Edition",
+      "url": "https://hashtagweb3.com/cryptomondays",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-98I7yeD0tlpcCbM",
+      "name": "Post-DSS: No More Slides | Security Community Walk",
+      "url": "https://hashtagweb3.com/post-dss-no-more-slides-security-community-walk",
+      "eligible": false,
+      "issues": [
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-u4DFCi8nOPYqY7A",
+      "name": "The Longs Table",
+      "url": "https://hashtagweb3.com/longstable",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-kklvl7cMy5rxIoE",
+      "name": "Build For Breakpoint: YC Application Reviews",
+      "url": "https://hashtagweb3.com/build-brea",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-PM9nDu0lcrCpfon",
+      "name": "CryptoMondays MENA x Minds by Animoca Brands - AI Week Edition",
+      "url": "https://hashtagweb3.com/cryptomondays-mena-x-minds-animoca-brands-ai-week-edition",
+      "eligible": false,
+      "issues": [
         "missing-detailed-address"
       ],
       "missingRecommended": [
@@ -2138,6 +795,7 @@
       "url": "https://hashtagweb3.com/alchemy-devcon-meetings",
       "eligible": false,
       "issues": [
+        "restricted-registration",
         "missing-detailed-address"
       ],
       "missingRecommended": [
@@ -2146,12 +804,57 @@
       ]
     },
     {
+      "id": "luma-crypto-YDbBqAEHg0T7aEr",
+      "name": "CryptoMondays Dallas Kickoff",
+      "url": "https://hashtagweb3.com/cryptomondays-dallas-kickoff",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-SuEJPOgrsntzNUb",
+      "name": "Digital Assets Coffee Club - Brisbane",
+      "url": "https://hashtagweb3.com/digital-assets-coffee-club-brisbane",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-uR7BoNCWfzzMst8",
+      "name": "Pitch Decks Not Allowed | Protocol Founders' Walk",
+      "url": "https://hashtagweb3.com/nopitches",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": []
+    },
+    {
       "id": "luma-evt-r8RE9W5oFCCIL0x",
       "name": "The Future of Institutional Finance: AI & Digital Assets",
       "url": "https://hashtagweb3.com/future-institutional-finance-ai-digital-assets",
       "eligible": false,
       "issues": [
         "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-QTjNSAnTUo9U0Nd",
+      "name": "Devcon Assassin",
+      "url": "https://hashtagweb3.com/assassin",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
       ],
       "missingRecommended": [
         "offers",
@@ -2182,15 +885,38 @@
     {
       "id": "india-luma-mc8pq06y",
       "name": "World of DeSci @DEVCON VIII, India",
-      "url": "https://hashtagweb3.com/world-of-desci-devcon",
+      "url": "https://hashtagweb3.com/descimumbai",
       "eligible": true,
       "issues": [],
       "missingRecommended": []
     },
     {
-      "id": "ibw-official-ai-economic-forum-aief-truth-intelligence-summit-11-03",
-      "name": "AI ECONOMIC FORUM (AIEF), MUMBAI 2026 ⟡ Truth Intelligence Summit - Official AI Side Event of India Blockchain Week 2026 & Devcon 8",
-      "url": "https://hashtagweb3.com/ai-economic-forum-mumbai",
+      "id": "ibw-sheet-evt-WP32nMhXbmHisMb",
+      "name": "Dabao Open Hardware Hackathon",
+      "url": "https://hashtagweb3.com/dabaohack",
+      "eligible": false,
+      "issues": [
+        "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-sheet-evt-26jnyHUBFxt6ooC",
+      "name": "Open Silicon: IRIS Demo and Dabao Board Pickup",
+      "url": "https://hashtagweb3.com/irismumbai",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers"
+      ]
+    },
+    {
+      "id": "luma-crypto-tQZ28utl5iQg7PW",
+      "name": "Ripple × Brinc Showcase: Executive Dealmaking Lunch",
+      "url": "https://hashtagweb3.com/ripple-bri",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -2202,17 +928,152 @@
       ]
     },
     {
-      "id": "india-luma-4al1ai5x",
-      "name": "BORN UP - Devcon Mumbai Community Networking Meetup",
-      "url": "https://hashtagweb3.com/born-up-devcon-mumbai",
+      "id": "ibw-official-ai-economic-forum-aief-truth-intelligence-summit-11-03",
+      "name": "AI ECONOMIC FORUM (AIEF), MUMBAI 2026 ⟡ Truth Intelligence Summit - Official AI Side Event of India Blockchain Week 2026 & Devcon 8",
+      "url": "https://hashtagweb3.com/aiefmumbai",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-6fLWZpo8X0CcYxz",
+      "name": "Security Hub @Devcon VIII India",
+      "url": "https://hashtagweb3.com/sechub",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-OFEismQuGjAUfLX",
+      "name": "Stark Space Mumbai | Day 1",
+      "url": "https://hashtagweb3.com/starkday1",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-KCJhfbrKPukDWTG",
+      "name": "Privacy Hub, Devcon 8",
+      "url": "https://hashtagweb3.com/privacyhub",
+      "eligible": false,
+      "issues": [
+        "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-yB4ZxpGaCyYrvvA",
+      "name": "ZECsy at Devcon 8",
+      "url": "https://hashtagweb3.com/zecsydevcon",
       "eligible": true,
       "issues": [],
       "missingRecommended": []
     },
     {
+      "id": "ibw-c9nw11qi",
+      "name": "Glamsterdam Readiness Clinic: 1:1s with ChainSecurity Engineers @ Devcon",
+      "url": "https://hashtagweb3.com/glamsterdam-mumbai",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-loPSIA36NxKgl2a",
+      "name": "When RWA Meets AI: The Agentic Economy Goes Live",
+      "url": "https://hashtagweb3.com/when-rwa-meets-ai-agentic-economy-goes-live",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-vm795qzx",
+      "name": "Base Workshop: B20 Token Standard",
+      "url": "https://hashtagweb3.com/baseb20",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "india-luma-4al1ai5x",
+      "name": "BORN UP - Devcon Mumbai Community Networking Meetup",
+      "url": "https://hashtagweb3.com/devconbornup",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": []
+    },
+    {
+      "id": "luma-crypto-ieq8nSKhYS4nMCZ",
+      "name": "「THE ONCHAIN ROOM 」@ Hong Kong Fintech Week",
+      "url": "https://hashtagweb3.com/onchain-ro",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-n2dqFCLFNQxfBCl",
+      "name": "AI × RWA 投資論壇 2026",
+      "url": "https://hashtagweb3.com/ai-rwa",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-crXQbVzgHLjp5Lg",
+      "name": "Compliance Innovation Forum: AI & Digital Assets | Bridging Regulatory Expertise, AI-Powered Risk Intelligence & Blockchain Technology",
+      "url": "https://hashtagweb3.com/compliance",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "india-luma-h0x443s9",
       "name": "The Money House",
-      "url": "https://hashtagweb3.com/money-house",
+      "url": "https://hashtagweb3.com/moneyhouse",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -2227,7 +1088,7 @@
     {
       "id": "india-luma-08ogvz1i",
       "name": "Ready for the Run @ Mumbai",
-      "url": "https://hashtagweb3.com/ready-for-the-run-mumbai",
+      "url": "https://hashtagweb3.com/rrmumbai",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -2255,6 +1116,45 @@
       ]
     },
     {
+      "id": "luma-crypto-FLpxXn0aRE2igwO",
+      "name": "Can Regulated, Tokenized Assets Trade on Open Onchain Markets? Live Demo & Panel at Hong Kong Fintech Week",
+      "url": "https://hashtagweb3.com/tokenized-assets-open-markets-",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-j5zx9SCRDt33PMF",
+      "name": "From Wall Street to Onchain Vaults: The Convergence of TradFi & Web3",
+      "url": "https://hashtagweb3.com/wall-stree",
+      "eligible": false,
+      "issues": [
+        "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-kcq3Tf5L8ED7kFF",
+      "name": "Payments Reimagined with Stablecoins",
+      "url": "https://hashtagweb3.com/payments-reimagined-stablecoins",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "luma-evt-G5BtB9gzQtmxuzo",
       "name": "Why Financial Crime Investigations Fail: The Digital Asset Angle",
       "url": "https://hashtagweb3.com/why-financial-crime-investigations-fail-digital-asset-angle",
@@ -2272,10 +1172,24 @@
     {
       "id": "ibw-official-media-accelerator-startup-cohort-11-03",
       "name": "Media Accelerator & Startup Cohort",
-      "url": "https://hashtagweb3.com/media-accelerator-startup-cohort",
+      "url": "https://hashtagweb3.com/acceleratormumbai",
       "eligible": false,
       "issues": [
         "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-vDX2V51hGW9MGEn",
+      "name": "Family Offices Investors Summit: Michelin Dinners Mumbai",
+      "url": "https://hashtagweb3.com/familyoffices",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
       ],
       "missingRecommended": [
         "offers",
@@ -2296,12 +1210,106 @@
       ]
     },
     {
+      "id": "luma-crypto-bBkAawD0d920iKZ",
+      "name": "Institutional RWA Night 2026 - Golden Rails",
+      "url": "https://hashtagweb3.com/institutional-rwa-night-golden-rails",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-sheet-evt-zlSNS0eZPLZsGcM",
+      "name": "ClickOptions × NextWave: Live Crypto Trading Competition",
+      "url": "https://hashtagweb3.com/clickoptionstrading",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-t0e7b24u",
+      "name": "Chill with Plants.",
+      "url": "https://hashtagweb3.com/chillplants",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-oQcOIMrOq4peYHS",
+      "name": "Crypto Fusion Night III: Value in Motion",
+      "url": "https://hashtagweb3.com/crypto-fus",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-w8GpnXSrqkM3hCX",
+      "name": "HKGHH Event 1: Premier Networking Night @ Central Market THEME: HONG KONG FINTECH WEEK side event",
+      "url": "https://hashtagweb3.com/hkghh-even",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "luma-evt-8r1XuPjp1xyA9EO",
       "name": "HKGHH Networking Night: Hong Kong FinTech Week Side Event",
       "url": "https://hashtagweb3.com/hkghh-networking-night-hong-kong-fintech-week-side-event",
       "eligible": true,
       "issues": [],
       "missingRecommended": []
+    },
+    {
+      "id": "ibw-luma-evt-HVcn0c3qr2JoL1L",
+      "name": "Builder Nights Mumbai - Agentic Edition | Hosted by MetaMask, Monad, ENS, ARKIV, Strato and Diligence",
+      "url": "https://hashtagweb3.com/buildernights",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-4BPahiHsZbnPfhz",
+      "name": "House of HYPE: Hyperliquid India x Bitget Wallet",
+      "url": "https://hashtagweb3.com/houseofhype",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
     },
     {
       "id": "curated-6th-annual-canadian-bitcoin-summit-2026-11-03",
@@ -2314,12 +1322,56 @@
       ]
     },
     {
+      "id": "ibw-luma-evt-lEdV5rOtFA9Zysr",
+      "name": "Mumbai | Claude Code Meetup & Workshop",
+      "url": "https://hashtagweb3.com/claudecode",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "india-luma-uqmzpq5k",
       "name": "Fluid at Mumbai | Smart Liquidity",
-      "url": "https://hashtagweb3.com/fluid-mumbai-smart-liquidity",
+      "url": "https://hashtagweb3.com/fluidmumbai",
       "eligible": false,
       "issues": [
         "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-yRqDres5j6ELDNi",
+      "name": "Stark After Dark: Starknet Party",
+      "url": "https://hashtagweb3.com/starkafterdark",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-f7G6H4VGNrSXYIR",
+      "name": "Armada - Privacy in Practice",
+      "url": "https://hashtagweb3.com/armada",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
         "missing-detailed-address"
       ],
       "missingRecommended": [
@@ -2358,9 +1410,37 @@
       ]
     },
     {
+      "id": "ibw-luma-evt-XsVZI9S06blxMwr",
+      "name": "No Slippage, Just Steps | DeFi Night Walk",
+      "url": "https://hashtagweb3.com/noslippage",
+      "eligible": false,
+      "issues": [
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-GzYKMUT6x1P1iIp",
+      "name": "Solana Virtual Golf",
+      "url": "https://hashtagweb3.com/solana-vir",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "ibw-official-eip-hub-3-7-nov-11-03",
       "name": "EIP Hub @ Devcon 8 India - Where Ethereum Standards Come Together",
-      "url": "https://hashtagweb3.com/eip-hub-devcon",
+      "url": "https://hashtagweb3.com/eiphub",
       "eligible": true,
       "issues": [],
       "missingRecommended": []
@@ -2368,7 +1448,7 @@
     {
       "id": "india-luma-sgrf4yq5",
       "name": "Liquidity Pool @Devcon 8 | Mumbai 🇮🇳",
-      "url": "https://hashtagweb3.com/liquidity-pool-devcon",
+      "url": "https://hashtagweb3.com/liquiditymumbai",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -2431,9 +1511,76 @@
       ]
     },
     {
+      "id": "ibw-luma-evt-lDxWVZcnDDnyXAC",
+      "name": "Low Gas, High Steps | Solidity Devs' Walk",
+      "url": "https://hashtagweb3.com/lowgas",
+      "eligible": false,
+      "issues": [
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-DqOeGl4izFiC1WT",
+      "name": "From Yield Bearing Stablecoins, Digital Asset Custodians to Layer 1 protocols: Opportunities at the Intersection of Web3 & TradFi",
+      "url": "https://hashtagweb3.com/yield-bear",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "india-luma-qk93a446",
       "name": "Monad Blitz Mumbai: Devcon Edition",
-      "url": "https://hashtagweb3.com/monad-blitz-mumbai",
+      "url": "https://hashtagweb3.com/monadmumbai",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-w61rovyw",
+      "name": "Names & Coffee | 1:1 Coffee with the Endless Domains Team",
+      "url": "https://hashtagweb3.com/endlesscoffee",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-rkYNBXqNYl6ZLBm",
+      "name": "HashKey Chain Horizon - Mumbai Demo Day",
+      "url": "https://hashtagweb3.com/hashkey",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-3XbijAWU2D4ZDpt",
+      "name": "Stark Space Mumbai | Day 2",
+      "url": "https://hashtagweb3.com/starkday2",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -2448,7 +1595,7 @@
     {
       "id": "luma-batch-G3fjJAlPZ0oK9GC",
       "name": "The Yield Layer of Social Impact",
-      "url": "https://hashtagweb3.com/yield-layer-social-impact",
+      "url": "https://hashtagweb3.com/yieldimpact",
       "eligible": false,
       "issues": [
         "restricted-registration"
@@ -2461,7 +1608,7 @@
     {
       "id": "luma-evt-b6kmwqzyuuetkip",
       "name": "Zcash Presents: FREE SOCIETY HACKATHON",
-      "url": "https://hashtagweb3.com/free-society-hackathon",
+      "url": "https://hashtagweb3.com/freesociety",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -2473,9 +1620,39 @@
       ]
     },
     {
+      "id": "ibw-luma-evt-fa4YPMi1DWA09q9",
+      "name": "OPEN HOUSE by lil room Mumbai | 4th November | During Devcon India",
+      "url": "https://hashtagweb3.com/openhouse",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-08jX7ADSLH1huIV",
+      "name": "0G Builders Brunch",
+      "url": "https://hashtagweb3.com/0g-builders-brunch",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "luma-batch-kBSIe7BSMtDFldg",
       "name": "Onchain Legal Summit :: Devcon India 2026",
-      "url": "https://hashtagweb3.com/onchain-legal-summit",
+      "url": "https://hashtagweb3.com/legalsummit",
       "eligible": false,
       "issues": [
         "hidden-address",
@@ -2495,9 +1672,88 @@
       "missingRecommended": []
     },
     {
+      "id": "ibw-luma-evt-NDGCExZGe7BfYks",
+      "name": "DeFi Lunch at Devcon",
+      "url": "https://hashtagweb3.com/defilunch",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-wprc-kol-261104-zcash-tachyon-what-is-it-lessons-l",
+      "name": "Tachyon Reading Session: How we are going to scale Zcash",
+      "url": "https://hashtagweb3.com/zcashtachyon",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-PYvWS6O3OTkzfLy",
+      "name": "RWA 2.0:从资产上链到金融机会触达",
+      "url": "https://hashtagweb3.com/rwa-2-0",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-BKrFtZZIVFX60QH",
+      "name": "Web3 Career Connect",
+      "url": "https://hashtagweb3.com/web3-caree",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-wprc-kol-261104-at-monad-blitz-devcon",
+      "name": "Whitepaper Reading Club: Multiple Concurrent Proposers + Rise of PropAMMs",
+      "url": "https://hashtagweb3.com/propamms",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-tcFoFxwDZkn1fdl",
+      "name": "Bitcoin Meetup/ Custody Night",
+      "url": "https://hashtagweb3.com/bitcoin-me",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "india-luma-6gnkjcqx",
       "name": "Digital Asset Regulation, Policy and Global Compliance Roundtable",
-      "url": "https://hashtagweb3.com/digital-asset-regulation-roundtable",
+      "url": "https://hashtagweb3.com/roundtablemumbai",
       "eligible": false,
       "issues": [
         "restricted-registration"
@@ -2510,10 +1766,78 @@
     {
       "id": "india-luma-hr8w0hmd",
       "name": "Diyas : Near @Devcon",
-      "url": "https://hashtagweb3.com/diyas-near-devcon",
+      "url": "https://hashtagweb3.com/diyasnear",
       "eligible": false,
       "issues": [
         "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-sheet-evt-mD9IikmzLZVweco",
+      "name": "The Best Event: Stable - Payments & Stablecoins",
+      "url": "https://hashtagweb3.com/stablemumbai",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-CTqpCOXclC0Tmfb",
+      "name": "Trade Smarter. Never Get Liquidated. | ClickOptions × NextWave",
+      "url": "https://hashtagweb3.com/clickoptions",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-j1ZvQzyjxZWRLtd",
+      "name": "Web3 Week Asia: Trader & Trencher night",
+      "url": "https://hashtagweb3.com/web3-week-asia-trader-trencher-night",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-cu2jm5bn",
+      "name": "Smoking Summit",
+      "url": "https://hashtagweb3.com/smokingsummit",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-9qzvhhxs",
+      "name": "Fhenix Arcade",
+      "url": "https://hashtagweb3.com/fhenixarcade",
+      "eligible": false,
+      "issues": [
         "missing-detailed-address"
       ],
       "missingRecommended": [
@@ -2537,11 +1861,109 @@
     {
       "id": "india-luma-ai6owvhz",
       "name": "EVA Symposium III",
-      "url": "https://hashtagweb3.com/eva-symposium-iii",
+      "url": "https://hashtagweb3.com/evasymposium",
       "eligible": false,
       "issues": [
         "restricted-registration",
         "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-3xF3F3ZaJP4REwg",
+      "name": "Pizza, Protocols & People",
+      "url": "https://hashtagweb3.com/pizzaprotocols",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-kf553io8",
+      "name": "Privacy SZN Happy Hour",
+      "url": "https://hashtagweb3.com/privacyszn",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-0qwpaxre",
+      "name": "Future of AI, Quantum, Web3 with XDC Networks",
+      "url": "https://hashtagweb3.com/xdcai",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-oVtTG5eEsb9lrDq",
+      "name": "From Mandate to Production - How Banks Are Building Digital Asset Capabilities",
+      "url": "https://hashtagweb3.com/mandate-production-how-banks-are-building-digital-asset-capabilities",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-iTFBTwT5IzcPZcF",
+      "name": "UNDISCLOSED : MUMBAI",
+      "url": "https://hashtagweb3.com/undisclosed",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-P3AsIwMZQQM7rbV",
+      "name": "Devcon IRL Event",
+      "url": "https://hashtagweb3.com/devcon-irl",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "w3v-x-quantus-happy-hour-devcon-mumbai-26-11-04",
+      "name": "NEAR x Quantus Happy Hour @ Devcon Mumbai",
+      "url": "https://hashtagweb3.com/quantusmumbai",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
         "missing-detailed-address"
       ],
       "missingRecommended": [
@@ -2563,7 +1985,7 @@
     {
       "id": "india-luma-qzzu690f",
       "name": "Collateral Call: Institutional Credit Night by Alpend",
-      "url": "https://hashtagweb3.com/alpend-collateral-call",
+      "url": "https://hashtagweb3.com/alpendmumbai",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -2578,7 +2000,37 @@
     {
       "id": "india-luma-islzi7v3",
       "name": "Money Layer @Devcon🇮🇳 Week",
-      "url": "https://hashtagweb3.com/money-layer-devcon",
+      "url": "https://hashtagweb3.com/moneylayer",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-Xs3C0Owpa4JQHSQ",
+      "name": "Cafe Compute Meetup: Mumbai",
+      "url": "https://hashtagweb3.com/cafecompute",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-cIn46v6nJNmtSYu",
+      "name": "The Allowlist",
+      "url": "https://hashtagweb3.com/allowlist",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -2593,7 +2045,7 @@
     {
       "id": "discovery-evt-CrfUNgdw4aVQtjy",
       "name": "UNFOLLOW_002 Mumbai: Afterparty with Zcash & Bitrefill",
-      "url": "https://hashtagweb3.com/unfollow-002-mumbai-afterparty-zcash-bitrefill",
+      "url": "https://hashtagweb3.com/unfollowmumbai",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -2608,7 +2060,7 @@
     {
       "id": "ibw-official-quantstamp-mumbai-lounge-11-04",
       "name": "Quantstamp x Common Defense | Mumbai Lounge | Devcon 2026",
-      "url": "https://hashtagweb3.com/quantstamp-mumbai-lounge",
+      "url": "https://hashtagweb3.com/quantstampmumbai",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -2623,7 +2075,7 @@
     {
       "id": "india-luma-2kj0jqf9",
       "name": "Sidequest: Happy Hour",
-      "url": "https://hashtagweb3.com/sidequest-happy-hour",
+      "url": "https://hashtagweb3.com/sidequesthappyhour",
       "eligible": false,
       "issues": [
         "missing-detailed-address"
@@ -2634,9 +2086,36 @@
       ]
     },
     {
+      "id": "ibw-sheet-evt-3HoI2mTbd1euCxd",
+      "name": "Sovrency C8 Launch",
+      "url": "https://hashtagweb3.com/sovrencymumbai",
+      "eligible": false,
+      "issues": [
+        "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-rUOnUMPkGfGF1CH",
+      "name": "Seed Phrases Stay Home | Wallet & dApp Walk",
+      "url": "https://hashtagweb3.com/seedphrases",
+      "eligible": false,
+      "issues": [
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "india-luma-kz3klqjq",
       "name": "Capital connect",
-      "url": "https://hashtagweb3.com/capital-connect",
+      "url": "https://hashtagweb3.com/capitalconnect",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -2663,6 +2142,45 @@
       ]
     },
     {
+      "id": "ibw-luma-evt-HUylEhXPcRpb1Uv",
+      "name": "Institutional Open Doors Mixer",
+      "url": "https://hashtagweb3.com/opendoors",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-oGq7JRJkO9n7UNV",
+      "name": "Superteam member office hours",
+      "url": "https://hashtagweb3.com/superteam-",
+      "eligible": false,
+      "issues": [
+        "online-only",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-mBAHL16fOTQj9ai",
+      "name": "A Slice of Bitcoin Culture",
+      "url": "https://hashtagweb3.com/slice-bitcoin-culture",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "discovery-evt-jMB76t6BDXdYFbP",
       "name": "Community Roundtable",
       "url": "https://hashtagweb3.com/community-roundtable-2026-11-04",
@@ -2678,6 +2196,17 @@
       "issues": [],
       "missingRecommended": [
         "offers"
+      ]
+    },
+    {
+      "id": "luma-crypto-7q5sJj37ZWkeNAc",
+      "name": "BUZOKU | AI & Crypto Meetup",
+      "url": "https://hashtagweb3.com/buzoku-ai-crypto-meetup",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
       ]
     },
     {
@@ -2706,7 +2235,7 @@
     {
       "id": "premier-ethmumbai-2026",
       "name": "ETHGlobal Mumbai 2026",
-      "url": "https://hashtagweb3.com/ethglobal-mumbai",
+      "url": "https://hashtagweb3.com/ethglobalmumbai",
       "eligible": false,
       "issues": [
         "restricted-registration"
@@ -2719,7 +2248,7 @@
     {
       "id": "premier-unchained-summit-india-2026",
       "name": "Unchained Summit India 2026",
-      "url": "https://hashtagweb3.com/unchained-summit",
+      "url": "https://hashtagweb3.com/unchainedmumbai",
       "eligible": true,
       "issues": [],
       "missingRecommended": [
@@ -2741,9 +2270,17 @@
       ]
     },
     {
+      "id": "ibw-luma-evt-BabRKkjuW29SOdD",
+      "name": "Nodes Need Fresh Air Too | Ethereum Infra Walk",
+      "url": "https://hashtagweb3.com/nodes-need-fresh-air-too-ethereum-infra-walk",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": []
+    },
+    {
       "id": "india-luma-ub56pe38",
       "name": "Frontier Of Intelligence Hackathon",
-      "url": "https://hashtagweb3.com/frontier-of-intelligence-hackathon",
+      "url": "https://hashtagweb3.com/foihackathon",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -2756,9 +2293,59 @@
       ]
     },
     {
-      "id": "india-luma-5u1evsou",
-      "name": "Builders Brunch, Mumbai 🇮🇳",
-      "url": "https://hashtagweb3.com/builders-brunch-mumbai",
+      "id": "ibw-luma-evt-E1BEaj56Aeln5ih",
+      "name": "L2BEAT - The Next Chapter",
+      "url": "https://hashtagweb3.com/l2beat",
+      "eligible": false,
+      "issues": [
+        "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-43x56ltz",
+      "name": "Web3India Coffee Meetup @ Devcon 8",
+      "url": "https://hashtagweb3.com/web3indiacoffee",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-H9Bv5SoWd40O8eC",
+      "name": "Practical Privacy Day at Devcon Mumbai",
+      "url": "https://hashtagweb3.com/practicalprivacy",
+      "eligible": false,
+      "issues": [
+        "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-b2pn6DAYk3q6mrG",
+      "name": "Africa Builders Day | Open Call @ ZuZone Community Hub | Devcon Mumbai",
+      "url": "https://hashtagweb3.com/africa-bui",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-hH5qVNRMs3UbwXp",
+      "name": "Krexa Agents Showdown",
+      "url": "https://hashtagweb3.com/krexa-agents-showdown",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -2767,6 +2354,57 @@
       ],
       "missingRecommended": [
         "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-t3u5q76p",
+      "name": "Tachi BTC Hacker Shop - Devcon Edition",
+      "url": "https://hashtagweb3.com/tachi-btc-hacker-shop-devcon-edition",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-Fw1yTjUhXsgHN7y",
+      "name": "Crypto Morning Meetup, Women in Crypto Arabia",
+      "url": "https://hashtagweb3.com/crypto-morning-meetup-women-crypto-arabia",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "india-luma-5u1evsou",
+      "name": "Builders Brunch, Mumbai 🇮🇳",
+      "url": "https://hashtagweb3.com/brunchmumbai",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-KAttU3Qk9jmQdfG",
+      "name": "Devcon Coffee Exchange",
+      "url": "https://hashtagweb3.com/coffeex",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
         "organizer"
       ]
     },
@@ -2778,6 +2416,30 @@
       "issues": [
         "restricted-registration"
       ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-bunkerautoresearch",
+      "name": "Bunker Autoresearch",
+      "url": "https://hashtagweb3.com/bunkerauto",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-3Mznc44ZsOJ4MS5",
+      "name": "Build For Breakpoint: The Last Mile",
+      "url": "https://hashtagweb3.com/build-breabui",
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -2799,6 +2461,43 @@
       ]
     },
     {
+      "id": "ibw-545iup8w",
+      "name": "Tangem House: Mumbai Edition 🇮🇳",
+      "url": "https://hashtagweb3.com/tangemhouse",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-pwpukays",
+      "name": "RISEx Traders' Lounge",
+      "url": "https://hashtagweb3.com/risex",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-kGC3kShrdk8B6Ip",
+      "name": "Women's Networking",
+      "url": "https://hashtagweb3.com/womens-networking",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "organizer"
+      ]
+    },
+    {
       "id": "india-luma-xuofsg0p",
       "name": "NEAR x Quantus Happy Hour @ Devcon Mumbai",
       "url": "https://hashtagweb3.com/near-quantus-happy-hour",
@@ -2814,13 +2513,82 @@
       ]
     },
     {
-      "id": "india-luma-kfh8wkql",
-      "name": "notneils' stealth founder dinner",
-      "url": "https://hashtagweb3.com/notneils-stealth-founder-dinner",
+      "id": "ibw-luma-evt-VLyTum0FswtPeAH",
+      "name": "Founder x VC Happy Hour @ DEVCON 8",
+      "url": "https://hashtagweb3.com/foundervc",
       "eligible": false,
       "issues": [
         "restricted-registration",
+        "hidden-address",
         "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-T2tQkKnZEqXWxYO",
+      "name": "Superteam India Community Call",
+      "url": "https://hashtagweb3.com/superteam-sti",
+      "eligible": false,
+      "issues": [
+        "online-only",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-W3bxtS9mKSeIwVK",
+      "name": "Onchain Execution Dinner: Deepflow × Eureka Labs",
+      "url": "https://hashtagweb3.com/deepflow",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-4jt54kqx",
+      "name": "Devcon Girlies Diwali Party in Mumbai",
+      "url": "https://hashtagweb3.com/devcongirlies",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-4hcsc1r3",
+      "name": "Arkadian Community Meetup | Mumbai",
+      "url": "https://hashtagweb3.com/arkadian",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "india-luma-kfh8wkql",
+      "name": "notneils' stealth founder dinner",
+      "url": "https://hashtagweb3.com/stealthdinner",
+      "eligible": false,
+      "issues": [
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -2830,7 +2598,36 @@
     {
       "id": "luma-batch-evtaPGKR2FFDEuck",
       "name": "The Best Event: Afterdark Devcon",
-      "url": "https://hashtagweb3.com/afterdark-devcon",
+      "url": "https://hashtagweb3.com/afterdarkmumbai",
+      "eligible": false,
+      "issues": [
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-hIZnQMK5SVTWgj8",
+      "name": "Biggest CT G.A.Y Party",
+      "url": "https://hashtagweb3.com/ctparty",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-EjZWupM0D19CQZ8",
+      "name": "Zero Knowledge, Actual Friends | Privacy & ZK Walk",
+      "url": "https://hashtagweb3.com/zkfriends",
       "eligible": false,
       "issues": [
         "hidden-address",
@@ -2848,6 +2645,49 @@
       "eligible": false,
       "issues": [
         "online-only",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-official-kast-gold-party-mumbai-11-05",
+      "name": "KAST Gold Party - Mumbai",
+      "url": "https://hashtagweb3.com/kast-gold",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-kGt7AWmF9nKwHHT",
+      "name": "Zcash Educational Forum & University Mixer",
+      "url": "https://hashtagweb3.com/zcashforum",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-vU811G7xGdKFIos",
+      "name": "Build For Breakpoint: Why Your Customers Are Still Choosing Your Competitor",
+      "url": "https://hashtagweb3.com/build-brea3",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
         "missing-detailed-address"
       ],
       "missingRecommended": [
@@ -2916,7 +2756,45 @@
     {
       "id": "ibw-official-pragma-mumbai-11-05",
       "name": "Pragma Mumbai",
-      "url": "https://hashtagweb3.com/pragma-mumbai",
+      "url": "https://hashtagweb3.com/pragmamumbai",
+      "eligible": false,
+      "issues": [
+        "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-d7PXEaGekwoGpzw",
+      "name": "DAO Vote: Touch Grass | Governance Walk",
+      "url": "https://hashtagweb3.com/daovote",
+      "eligible": false,
+      "issues": [
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-3v83XedpM49zqTy",
+      "name": "Proof of Breakfast - DevCon Side Event",
+      "url": "https://hashtagweb3.com/proof-brea",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-Bx1HQlWNBsdddFP",
+      "name": "The Next Financial Frontier: Connecting Investment, Payments & Digital Assets",
+      "url": "https://hashtagweb3.com/next-finan",
       "eligible": false,
       "issues": [
         "restricted-registration"
@@ -2929,7 +2807,7 @@
     {
       "id": "luma-batch-cFXe8eT3nFr409n",
       "name": "MONEY MAKER",
-      "url": "https://hashtagweb3.com/money-maker",
+      "url": "https://hashtagweb3.com/moneymaker",
       "eligible": true,
       "issues": [],
       "missingRecommended": [
@@ -2943,6 +2821,17 @@
       "eligible": true,
       "issues": [],
       "missingRecommended": []
+    },
+    {
+      "id": "luma-crypto-0cx5b6t5IfrCvgQ",
+      "name": "ZAMA Web3bridge Workshop",
+      "url": "https://hashtagweb3.com/zama-web3bridge-workshop",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
     },
     {
       "id": "luma-batch-Qzy0En8R3B1O2Rp",
@@ -2962,7 +2851,7 @@
     {
       "id": "ibw-official-ship-safe-devcon-mumbai-security-sessions-11-06",
       "name": "Ship Safe: Devcon Mumbai Security Sessions by QuillAudits",
-      "url": "https://hashtagweb3.com/ship-safe",
+      "url": "https://hashtagweb3.com/shipsafemumbai",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -2975,12 +2864,51 @@
       ]
     },
     {
+      "id": "luma-crypto-2LCyHGGKlcqXm47",
+      "name": "NTU Master of Science in Blockchain (MSBT) Programme 2026 Ho Chi Minh City Information Session",
+      "url": "https://hashtagweb3.com/ntu-master-science-blockchain-msbt-programme-ho-chi-minh-city",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "w3v-perps--chai-with-hyprearn",
       "name": "Perps & Chai with HyprEarn @Devcon 8",
-      "url": "https://hashtagweb3.com/perps-and-chai-hyprearn-mumbai",
+      "url": "https://hashtagweb3.com/hyprearnmumbai",
       "eligible": false,
       "issues": [
         "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-KFAiFGbSf0EbFnU",
+      "name": "The India House",
+      "url": "https://hashtagweb3.com/indiahouse",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-0Hr9OEq92aSEqFs",
+      "name": "Yield Farming? Try Step Farming | DeFi Users' Walk",
+      "url": "https://hashtagweb3.com/stepfarming",
+      "eligible": false,
+      "issues": [
         "hidden-address",
         "missing-detailed-address"
       ],
@@ -3037,7 +2965,7 @@
     {
       "id": "india-luma-tswdcctj",
       "name": "Devcon Afterparty",
-      "url": "https://hashtagweb3.com/unofficial-devcon-afterparty",
+      "url": "https://hashtagweb3.com/devconafterparty",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -3057,6 +2985,31 @@
       "issues": [
         "restricted-registration",
         "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-ynpyBNFruHUdriF",
+      "name": "SUYE - ART Ordinals BTC Meetup - Ordinal.io - Museum ETA",
+      "url": "https://hashtagweb3.com/suye-art-ordinals-btc-meetup-ordinal-io-museum-eta",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-vaT2S2VUTmlJI3x",
+      "name": "The WolfSwap x Crypto.com Mixer: Bitcoin Amsterdam Edition",
+      "url": "https://hashtagweb3.com/wolfswap-x-crypto-com-mixer-bitcoin-amsterdam-edition",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
         "missing-detailed-address"
       ],
       "missingRecommended": [
@@ -3089,6 +3042,20 @@
       ]
     },
     {
+      "id": "ibw-luma-evt-fi1E5JHRmTD6D6r",
+      "name": "One Last GM, Mumbai | Ethereum Farewell Walk",
+      "url": "https://hashtagweb3.com/onelastgm",
+      "eligible": false,
+      "issues": [
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "discovery-evt-Nr9CNLkcyZkdgCa",
       "name": "Bitcoin Indonesia Community Meetup Tangerang 07 November 2026",
       "url": "https://hashtagweb3.com/bitcoin-indonesia-community-meetup-tangerang-07-november",
@@ -3100,6 +3067,19 @@
       "id": "premier-ibt-goa-2026",
       "name": "India Blockchain & AI Tour 2026 - Goa",
       "url": "https://hashtagweb3.com/ibt-goa",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-mgxg6ko8",
+      "name": "Polkadot Assemble Conference",
+      "url": "https://hashtagweb3.com/polkadotmumbai",
       "eligible": false,
       "issues": [
         "missing-detailed-address"
@@ -3126,6 +3106,21 @@
       "missingRecommended": []
     },
     {
+      "id": "ibw-luma-evt-7bLYYfCCvXDasQt",
+      "name": "Clear-Signing & Wallet Security @ DEVCON",
+      "url": "https://hashtagweb3.com/clearsigning",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "discovery-evt-L7t2B9ipCCZ8g6Z",
       "name": "Bitcoin Indonesia Community Meetup Makassar 07 November 2026",
       "url": "https://hashtagweb3.com/bitcoin-indonesia-community-meetup-makassar-07-november",
@@ -3144,9 +3139,37 @@
       ]
     },
     {
+      "id": "ibw-luma-evt-T1kmYGfXl5QxzLA",
+      "name": "YACHT RAVE { PRIVATE }",
+      "url": "https://hashtagweb3.com/yachtrave",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ibw-luma-evt-QkWwyZht8EIQiUy",
+      "name": "Don't Ghost After Devcon | Farewell Waterfront Walk",
+      "url": "https://hashtagweb3.com/dontghost",
+      "eligible": false,
+      "issues": [
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "india-luma-v0fimew1",
       "name": "Mumbai Edition: Crypto Afterhours",
-      "url": "https://hashtagweb3.com/crypto-afterhours-mumbai",
+      "url": "https://hashtagweb3.com/afterhoursmumbai",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -3209,6 +3232,17 @@
       ]
     },
     {
+      "id": "luma-crypto-futrlVtSKm5AC1e",
+      "name": "London Workshop: Vaults in Practice - How Financial Institutions Capture Onchain Yield",
+      "url": "https://hashtagweb3.com/london-workshop-vaults-practice-how-financial-institutions-capture-onchain-yield",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "luma-batch-EB8O1EGWTmiaFIp",
       "name": "Blockstories Horizon 2026: London Summit 🇬🇧",
       "url": "https://hashtagweb3.com/horizonlondonsummit",
@@ -3216,6 +3250,43 @@
       "issues": [
         "restricted-registration"
       ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-AvNFzDNPSKFXge2",
+      "name": "CryptoMondays Berlin - Edition #2",
+      "url": "https://hashtagweb3.com/cryptomondays-berlin-edition-2",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-hEPVDHswwbLlwGV",
+      "name": "Riserva London | Digital Assets under pressure: Sanctions, Enforcement and Economic Crime, Fireside with Fieldfisher.",
+      "url": "https://hashtagweb3.com/riserva-lo",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-oh0AOKJnVNaqZP3",
+      "name": "Binance University Tour @ UNIANDES",
+      "url": "https://hashtagweb3.com/binance-university-tour-uniandes",
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -3271,6 +3342,20 @@
       ]
     },
     {
+      "id": "luma-crypto-i1tMtsPFib0VzBF",
+      "name": "Convergence: Onchain Finance Soirée at DAS London",
+      "url": "https://hashtagweb3.com/convergence-onchain-finance-soiree-das-london",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "luma-batch-evtIbEJtZTwhozec",
       "name": "An Evening with Lukka - DAS London Edition",
       "url": "https://hashtagweb3.com/lukka-mugi",
@@ -3278,6 +3363,31 @@
       "issues": [
         "restricted-registration",
         "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-Yh2TedbQLKaf52j",
+      "name": "CryptoUK x The Digital Chamber: Member Networking Event",
+      "url": "https://hashtagweb3.com/cryptouk-36w1",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-EE9MycFCpEgkV5P",
+      "name": "Executive Digital Assets Dinner w/ Halborn",
+      "url": "https://hashtagweb3.com/executive-",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
         "missing-detailed-address"
       ],
       "missingRecommended": [
@@ -3294,6 +3404,55 @@
       "missingRecommended": []
     },
     {
+      "id": "luma-crypto-u6jIcByTmjvnRkM",
+      "name": "Crypto 2027: What Happens Next?",
+      "url": "https://hashtagweb3.com/crypto-what-happens-next",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-ZZpz1OndEAv0JN7",
+      "name": "Digital Assets Executive Brunch: Barcelona Edition",
+      "url": "https://hashtagweb3.com/digital-assets-executive-brunch-barcelona-edition",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-Jw3CgPkBftQcFSt",
+      "name": "RWA Realized: Market Integrity Summit 2026",
+      "url": "https://hashtagweb3.com/rwa-realiz",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-1F0DAf4iEFBhM9N",
+      "name": "Meet Jersey: Digital Assets Breakfast",
+      "url": "https://hashtagweb3.com/meet-jerse",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "premier-bitcoinhistorico",
       "name": "Bitcoin Histórico 2026",
       "url": "https://hashtagweb3.com/bitcoin-historico",
@@ -3302,6 +3461,17 @@
         "multiple-venues",
         "missing-detailed-address"
       ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-Q5K80WKUGz3LW6m",
+      "name": "AWIC x DAS London Panel \"Phantom Assets: Counterfeit Tokens, Collateral Risk and Digital Asset Resilience\"",
+      "url": "https://hashtagweb3.com/awic-x-das-london-panel-phantom-assets-counterfeit-tokens-collateral",
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -3388,6 +3558,30 @@
       "missingRecommended": []
     },
     {
+      "id": "luma-crypto-MEbXp19ZPmMKn0A",
+      "name": "Race Against the Machine: AI, Quantum and the Future of Bitcoin",
+      "url": "https://hashtagweb3.com/race-against-machine-ai-quantum-future-bitcoin",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-8VfRDGPg3naAUqD",
+      "name": "Stablecoin Networking Evening | Luno, BlockTower, GTXN",
+      "url": "https://hashtagweb3.com/stablecoin-networking-evening-luno-blocktower-gtxn",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "discovery-evt-no4dPWhKPtAMNU0",
       "name": "The LOCAL W.M.C - Breakpoint/DAS Edition",
       "url": "https://hashtagweb3.com/local-w-m-c-breakpoint-das-edition",
@@ -3395,6 +3589,17 @@
       "issues": [
         "restricted-registration"
       ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-pkigd1Z6cz1gtH7",
+      "name": "Happy Hour with DC DAO & Willo!",
+      "url": "https://hashtagweb3.com/happy-hour-dc-dao-willo",
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -3493,9 +3698,48 @@
       ]
     },
     {
+      "id": "luma-crypto-o1VjeTTkG1mOb1K",
+      "name": "NO VibeStation due to Breakpoint",
+      "url": "https://hashtagweb3.com/no-vibestation-due-breakpoint",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-05d3N885FABhJ0q",
+      "name": "Crypto Padel by WhiteBIT & Play Padel Club & Spredo",
+      "url": "https://hashtagweb3.com/crypto-padel-whitebit-play-padel-club-spredo",
+      "eligible": false,
+      "issues": [
+        "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "curated-ubc-hackathon-2026-11-13",
       "name": "UBC 2026 Hackathon",
       "url": "https://hashtagweb3.com/ubc-hackathon",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-NxGET8DPBle4IYg",
+      "name": "Presentación del Club Privado de Inversión en RWA - Tutellus",
+      "url": "https://hashtagweb3.com/presentacion-del-club-privado-de-inversion-en-rwa-tutellus-buenos-aires",
       "eligible": false,
       "issues": [
         "missing-detailed-address"
@@ -3562,6 +3806,19 @@
       ]
     },
     {
+      "id": "luma-crypto-cFBQ9xrFbjI3av2",
+      "name": "P777 Web3 in the Clouds",
+      "url": "https://hashtagweb3.com/p777-web3-clouds",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "w3v-founder-x-vc-summit-demo-day-26-11-14",
       "name": "Founder x VC Summit | Demo Day | Breakpoint 🇬🇧",
       "url": "https://hashtagweb3.com/founder-vc-summit-demo-day",
@@ -3583,6 +3840,17 @@
       "issues": [
         "online-only"
       ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-rvTrhOFrZjU1t4G",
+      "name": "Bitcoin Brunch - The Boro",
+      "url": "https://hashtagweb3.com/bitcoin-brunch-boro-mclean",
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -3694,6 +3962,19 @@
       ]
     },
     {
+      "id": "luma-crypto-5f8DApeYV9EOQrM",
+      "name": "Solana Fitness Zone: Content Freestyle | Breakpoint 2026",
+      "url": "https://hashtagweb3.com/solana-fit",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "w3v-breakpoint-trading-battle-26-11-15",
       "name": "Breakpoint Trading Battle",
       "url": "https://hashtagweb3.com/breakpoint-trading-battle",
@@ -3701,6 +3982,19 @@
       "issues": [
         "online-only",
         "missing-location",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-hXFJAwhWGjDusCS",
+      "name": "Draper Dragon After Hours | Breakpoint Day 1",
+      "url": "https://hashtagweb3.com/draper-dra",
+      "eligible": false,
+      "issues": [
         "missing-detailed-address"
       ],
       "missingRecommended": [
@@ -3778,6 +4072,58 @@
       ]
     },
     {
+      "id": "luma-crypto-0Sn4QB5KWkR4LeX",
+      "name": "Solana Fitness Zone: Group Reiki Experience | Breakpoint 2026",
+      "url": "https://hashtagweb3.com/solana-fitkzh",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-ye20BagHxEHh8CO",
+      "name": "Solana Fitness Zone: Content Freestyle | Breakpoint 2026",
+      "url": "https://hashtagweb3.com/solana-fitsfz",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-4aQg4F5ApsIZFHS",
+      "name": "¿Qué aporta una Blockchain regulada? - Encuentro #139 SuperPioneros",
+      "url": "https://hashtagweb3.com/que-aporta-una-blockchain-regulada-encuentro-139-superpioneros",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-QRCPU4eBHlR2IuK",
+      "name": "Money Layer @Breakpoint🇬🇧 Week",
+      "url": "https://hashtagweb3.com/money-laye",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "w3v-pr1me-london-series-exclusive-dinner-web3-26-11-16",
       "name": "Pr1me [London Series] - Exclusive Dinner for Web3 Finance",
       "url": "https://hashtagweb3.com/pr1me-london-web3-finance-dinner",
@@ -3791,6 +4137,14 @@
         "offers",
         "organizer"
       ]
+    },
+    {
+      "id": "eb-2003199972041",
+      "name": "Crypto, Web3 & Blockchain Startups, Investors & Builders Networking Event",
+      "url": "https://hashtagweb3.com/crypto-web3-startups-investors-london-nov-2026",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": []
     },
     {
       "id": "w3v-beyond-frame-immersive-art-activation-render-26-11-16",
@@ -3881,6 +4235,41 @@
       "eligible": false,
       "issues": [
         "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-hj7ObeemnBUZFgQ",
+      "name": "Unofficial Official After Party to Breakpoint 2026: The Great British Pub Crawl",
+      "url": "https://hashtagweb3.com/unofficial",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-1yFFRNxP28wg7wF",
+      "name": "Housewarming! A Breakpoint Closing Party with Akash",
+      "url": "https://hashtagweb3.com/housewarming-breakpoint-closing-party-akash",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-hlKrPIIiRiniy1E",
+      "name": "Blockchain.com: TYB Party",
+      "url": "https://hashtagweb3.com/blockchain-london",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
       ],
       "missingRecommended": [
         "offers",
@@ -3991,6 +4380,17 @@
       ]
     },
     {
+      "id": "luma-crypto-CRKd13ywnfX44wC",
+      "name": "Meetup Crypto Fribourg Novembre 2026",
+      "url": "https://hashtagweb3.com/meetup-crypto-fribourg-novembre",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "discovery-evt-JGCnNvxry6bJozI",
       "name": "Community Roundtable",
       "url": "https://hashtagweb3.com/community-roundtable-2026-11-18",
@@ -4041,6 +4441,17 @@
         "hidden-address",
         "missing-detailed-address"
       ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-CcXIPGvIGnzZuVE",
+      "name": "Presentación del Club Privado de Inversión en RWA - Tutellus",
+      "url": "https://hashtagweb3.com/presentacion-del-club-privado-de-inversion-en-rwa-tutellus",
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -4192,13 +4603,10 @@
       "id": "mu-316768461",
       "name": "Krypto-skatt v/ Reese Legal",
       "url": "https://hashtagweb3.com/krypto-skatt-v-reese-legal",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
-        "offers",
-        "organizer"
+        "offers"
       ]
     },
     {
@@ -4286,6 +4694,17 @@
       ]
     },
     {
+      "id": "luma-crypto-Az6et278GZSUI8O",
+      "name": "AI Meets RWA: The Real-World Shift",
+      "url": "https://hashtagweb3.com/ai-meets-rwa-real-world-shift",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "curated-bitcoin-altcoins-cryptocurrency-enthusiast-night-crypto-gathering-2026-11-30",
       "name": "Bitcoin/Altcoins & Cryptocurrency Enthusiast Night - Crypto Gathering",
       "url": "https://hashtagweb3.com/bitcoin-altcoins-cryptocurrency-enthusiast-night-crypto-gathering",
@@ -4307,11 +4726,37 @@
       ]
     },
     {
+      "id": "premier-tokenize-ldn-2026",
+      "name": "Tokenize: LDN 2026",
+      "url": "https://hashtagweb3.com/tokenize-ldn-2026",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "premier-africabitcoin",
       "name": "Africa Bitcoin Conference 2026",
       "url": "https://hashtagweb3.com/africa-bitcoin-conference",
       "eligible": true,
       "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-qLu7rrrTEWVAUBR",
+      "name": "Blockchain Week Dubai - Ecox Network Side Event",
+      "url": "https://hashtagweb3.com/ecox-6m8d",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -4325,6 +4770,17 @@
       "issues": [
         "restricted-registration"
       ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-xynHNpzhFQ55syM",
+      "name": "Holiday Party with Tellor & DC DAO!",
+      "url": "https://hashtagweb3.com/holiday-party-tellor-dc-dao",
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -4440,6 +4896,68 @@
       ]
     },
     {
+      "id": "token2049-evt-JZv1H985Ggdevr9",
+      "name": "Tech X Summit Global",
+      "url": "https://hashtagweb3.com/tech-summit",
+      "eligible": false,
+      "issues": [
+        "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-cnwHGaAliHIMYkq",
+      "name": "Hong Kong Crypto Compliance & Legal Community Drinks",
+      "url": "https://hashtagweb3.com/hong-kong-",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-CKQ1hP5qJ9yvNDH",
+      "name": "Solana Social Mixer",
+      "url": "https://hashtagweb3.com/solana-soc",
+      "eligible": false,
+      "issues": [
+        "online-only",
+        "restricted-registration",
+        "missing-location",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-MVwDRG3qHUDIzVf",
+      "name": "Bitcoin Book Club: Resistance Money",
+      "url": "https://hashtagweb3.com/bitcoin-book-club-resistance-money",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-AhWkzWCrBlruGDq",
+      "name": "Bitcoin Brunch - The Boro",
+      "url": "https://hashtagweb3.com/bitcoin-brunch-boro",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "luma-batch-evtsJTiDuzqsClRt",
       "name": "BTC HK - bitcoin meetup IFC P4 Rooftop Garden(tables outside Shake Shack) walk-in (changed to Dec 17)",
       "url": "https://hashtagweb3.com/bitcoin-hong-kong-meetup-december-2026",
@@ -4531,25 +5049,26 @@
       ]
     },
     {
-      "id": "ma-digital-assets-forum-2027",
-      "name": "Digital Assets Forum London 2027",
-      "url": "https://hashtagweb3.com/digital-assets-forum-london",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
       "id": "premier-consensus-hk-2027",
       "name": "Consensus Hong Kong 2027",
       "url": "https://hashtagweb3.com/consensus",
       "eligible": true,
       "issues": [],
       "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "ma-digital-assets-forum-2027",
+      "name": "Digital Assets Forum 2027",
+      "url": "https://hashtagweb3.com/digital-assets-forum-london",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "image",
         "offers",
         "organizer"
       ]
@@ -4620,7 +5139,7 @@
     },
     {
       "id": "ma-teamz-web3-ai-summit-2027",
-      "name": "TEAMZ Summit 2027 (AI Edition)",
+      "name": "TEAMZ Web3/AI Summit 2027",
       "url": "https://hashtagweb3.com/teamz-summit-ai-edition",
       "eligible": false,
       "issues": [
@@ -4650,6 +5169,31 @@
       "issues": [],
       "missingRecommended": [
         "offers"
+      ]
+    },
+    {
+      "id": "premier-hk-web3-festival-2027",
+      "name": "Hong Kong Web3 Festival 2027",
+      "url": "https://hashtagweb3.com/hk-web3-festival-2027",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "image",
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-N7aIok5arp1ECB9",
+      "name": "Tacnode APEX @ Token2049 Dubai",
+      "url": "https://hashtagweb3.com/tacnode-ap",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
       ]
     },
     {
@@ -4716,7 +5260,7 @@
     },
     {
       "id": "ma-dutch-blockchain-week-2027",
-      "name": "Dutch Blockchain Week Summit 2027",
+      "name": "Dutch Blockchain Week 2027",
       "url": "https://hashtagweb3.com/dutch-blockchain-week-summit",
       "eligible": false,
       "issues": [
@@ -4837,6 +5381,28 @@
       "issues": [],
       "missingRecommended": [
         "offers"
+      ]
+    },
+    {
+      "id": "premier-webx-2027",
+      "name": "WebX 2027 Tokyo",
+      "url": "https://hashtagweb3.com/webx-2027",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "premier-bitcoin-asia-2027",
+      "name": "Bitcoin Asia 2027",
+      "url": "https://hashtagweb3.com/bitcoin-asia-2027",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
       ]
     },
     {

@@ -8,34 +8,38 @@ import { PageHeader } from "@/components/page-header";
 import { PageShell } from '@/components/page-shell';
 import { CommunityFeedBanner } from '@/components/community-feed-banner';
 import { withLogoImageVariants } from '@/lib/responsive-images-server';
+import { getFreshJobCountLabel } from '@/lib/seo-freshness';
 
 export const dynamic = 'force-static';
 export const revalidate = 3600;
 
+const jobsTitle = `Remote Web3 Jobs & Crypto Careers (${getFreshJobCountLabel()})`;
+const jobsDesc = `Find verified remote Web3 jobs and crypto careers. Discover ${getFreshJobCountLabel()} in Solidity, blockchain development, smart contracts, DeFi, DAOs, and crypto marketing at top Web3 startups.`;
+
 export const metadata: Metadata = {
- title: 'Web3 Jobs & Crypto Careers',
- description: 'Find the best remote Web3 jobs. Discover verified opportunities in Solidity, blockchain development, smart contracts, DeFi, DAOs, and crypto marketing at top Web3 startups.',
- alternates: {
-  canonical: 'https://hashtagweb3.com/jobs',
- },
- openGraph: {
-  type: 'website',
-  title: 'Web3 Jobs & Crypto Careers',
-  description: 'Find the best remote Web3 jobs. Discover verified opportunities in Solidity, blockchain development, DeFi, DAOs, and crypto marketing.',
-  url: 'https://hashtagweb3.com/jobs',
-  images: [{
-   url: 'https://hashtagweb3.com/og-image-jobs.png',
-   width: 1200,
-   height: 630,
-   alt: 'Hashtag Web3 Remote Jobs',
-  }],
- },
- twitter: {
-  card: 'summary_large_image',
-  title: 'Web3 Jobs & Crypto Careers',
-  description: 'Find the best remote Web3 jobs. Discover verified opportunities in Solidity, blockchain development, DeFi, DAOs, and crypto marketing.',
-  images: ['https://hashtagweb3.com/og-image-jobs.png'],
- },
+  title: jobsTitle,
+  description: jobsDesc,
+  alternates: {
+    canonical: 'https://hashtagweb3.com/jobs',
+  },
+  openGraph: {
+    type: 'website',
+    title: jobsTitle,
+    description: jobsDesc,
+    url: 'https://hashtagweb3.com/jobs',
+    images: [{
+      url: 'https://hashtagweb3.com/og-image-jobs.png',
+      width: 1200,
+      height: 630,
+      alt: 'Hashtag Web3 Remote Jobs',
+    }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: jobsTitle,
+    description: jobsDesc,
+    images: ['https://hashtagweb3.com/og-image-jobs.png'],
+  },
 };
 
 export default async function JobsPage() {

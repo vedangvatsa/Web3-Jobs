@@ -79,14 +79,26 @@ test('physical offices stay separate and unresolved cities cannot borrow another
   }
 });
 
-test('optional employment, direct-apply, deadline and salary claims require evidence absent from this catalog', () => {
+test('employment, direct-apply, deadline and salary claims require verified source evidence', () => {
+  // False positive titles must NOT be tagged as intern or contractor
   for (const title of ['VP, International Communications', 'Internal Audit Senior Manager', 'Smart Contract Engineer', 'Software Engineer']) {
-    const result = build({ title, salary: '$100k - $150k', department: 'International Operations' });
+    const result = build({ title, salary: undefined, department: 'International Operations' });
     assert.ok(result.schema);
-    for (const property of ['employmentType', 'directApply', 'validThrough', 'baseSalary']) {
-      assert.equal(Object.hasOwn(result.schema, property), false, `${title}: ${property}`);
-    }
+    assert.equal(Object.hasOwn(result.schema, 'employmentType'), false, `${title} should not have employmentType`);
+    assert.equal(Object.hasOwn(result.schema, 'directApply'), false);
+    assert.equal(Object.hasOwn(result.schema, 'baseSalary'), false, `${title} should not have baseSalary without explicit source data`);
+    assert.ok(result.schema.validThrough, 'validThrough should reflect 30-day catalog policy');
   }
+
+  // Explicit verified roles and salaries are included
+  const internResult = build({ title: 'Software Engineering Intern' });
+  assert.equal(internResult.schema?.employmentType, 'INTERN');
+
+  const contractorResult = build({ title: 'Technical Writer (Contractor)' });
+  assert.equal(contractorResult.schema?.employmentType, 'CONTRACTOR');
+
+  const salaryResult = build({ salary: '$100k - $150k' });
+  assert.equal(salaryResult.schema?.baseSalary?.currency, 'USD');
 });
 
 test('the original-date age policy remains inclusive at 30 days and rejects every invalid provenance state', () => {

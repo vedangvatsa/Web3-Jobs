@@ -20,41 +20,6 @@
       "reason": "The source title and image-based heading did not match the old punctuation variant; the organizer's event-specific page provides the full program."
     },
     {
-      "id": "premier-solidusroundtable",
-      "kind": "luma",
-      "sourceUrl": "https://luma.com/fop77t0t",
-      "contains": [
-        "Crypto Compliance and Legal Roundtable",
-        "Solidus Labs",
-        "Yulchon"
-      ],
-      "eventId": "evt-1XCx48uyAdwb72y",
-      "reason": "Matched the shortened curated title to the exact Solidus Labs and Yulchon event instead of the company homepage."
-    },
-    {
-      "id": "premier-onchaincapital",
-      "kind": "luma",
-      "sourceUrl": "https://luma.com/uz21gg7p",
-      "contains": [
-        "Onchain Capital & Liquidity",
-        "Seoul"
-      ],
-      "eventId": "evt-SZI6XvDhbmFz2tH",
-      "reason": "Located the organizer's exact Seoul registration page instead of lil room's general homepage."
-    },
-    {
-      "id": "premier-instonchain",
-      "kind": "luma",
-      "sourceUrl": "https://luma.com/qsfjc56x",
-      "contains": [
-        "Institutional Onchain",
-        "RWAs & Stablecoins",
-        "Seoul"
-      ],
-      "eventId": "evt-a0PGWXfAij4vNVH",
-      "reason": "Located the exact institutional forum source and verified its identity against the existing Luma record."
-    },
-    {
       "id": "token2049-side-6a5dff0dd1b48ddf39d0827c",
       "kind": "luma",
       "sourceUrl": "https://luma.com/event/evt-SRSeRqJykejGWY3",
@@ -560,18 +525,6 @@
     }
   ],
   "relatedRepairs": [
-    {
-      "id": "premier-perpsinst",
-      "kind": "luma",
-      "sourceUrl": "https://luma.com/v6bkeysx",
-      "contains": [
-        "Perps",
-        "Institutional",
-        "Seoul"
-      ],
-      "eventId": "evt-USmNC1PxmwCRB7C",
-      "reason": "A second curated lil room entry became visible when the earlier generic-homepage duplicate was corrected. Match it to the verified Perps event rather than leave an uncovered duplicate."
-    },
     {
       "id": "w3v-ethereum-cypherpunk-congress-mumbai",
       "kind": "luma",

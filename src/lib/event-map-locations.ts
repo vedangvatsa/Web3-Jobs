@@ -278,6 +278,10 @@ export const EVENT_MAP_CITY_COORDINATES: Record<string, [number, number]> = {
   'vancouver|CA': [49.24966, -123.11934],
   'warsaw|PL': [52.22977, 21.01178],
   'yogyakarta|ID': [-7.80139, 110.36472],
+  'dallas|US': [32.7767, -96.797],
+  'mclean|US': [38.9339, -77.1773],
+  'ikorodu|NG': [6.6194, 3.5105],
+  'fribourg|CH': [46.8065, 7.162],
 };
 
 export const EVENT_MAP_CITY_ALIASES: Record<string, string> = {
@@ -332,6 +336,9 @@ export const EVENT_MAP_CITY_ALIASES: Record<string, string> = {
   warszawa: 'warsaw',
   'bandung barat regency': 'bandung barat',
   'jakarta barat (administrative city)': 'jakarta barat',
+  farmagudi: 'goa',
+  'kecamatan setiabudi': 'jakarta',
+  'south melbourne': 'melbourne',
 };
 
 export const EVENT_MAP_CITY_DISPLAY_NAMES: Record<string, string> = {

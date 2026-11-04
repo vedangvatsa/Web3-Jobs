@@ -1,4 +1,5 @@
 import assert from 'node:assert/strict';
+import fsSync from 'node:fs';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -57,6 +58,20 @@ export async function main(args = process.argv.slice(2), env = process.env) {
   const entry = calendar.dates.find(item => item.date === date);
   assert.ok(entry, 'Choose a date in the campaign calendar');
   const thread = threads.find(item => item.id === entry.id);
+
+  // If a Matrix visual is scheduled for this date (2026-10-29 onwards),
+  // supersede legacy thread and publish across X, LinkedIn, and Threads!
+  const matrixManifestPath = path.join(ROOT, 'social-assets/matrices-campaign/manifest.json');
+  if (fsSync.existsSync(matrixManifestPath) && mode !== 'validate' && date >= '2026-10-29') {
+    const { getPostForDate, publishMatrixPost } = await import('./publish-matrix-social.mjs');
+    const matrixPost = getPostForDate(date);
+    if (matrixPost) {
+      console.log(`[newknowledge] Superseding legacy thread with Matrix Visual #${matrixPost.index}: "${matrixPost.title}" (${date}) across X, LinkedIn, and Threads`);
+      const matrixResult = await publishMatrixPost({ post: matrixPost, mode, env });
+      return matrixResult;
+    }
+  }
+
   const results = [], failures = [];
   for (const target of platform === 'both' ? ['x', 'threads'] : [platform]) {
     const record = await localJournal(path.join(WORK, date, target));

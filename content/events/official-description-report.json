@@ -35,21 +35,6 @@
       "preview": "The Bridge Between TradFi & Digital Assets. The Institutional Summit for Digital Assets. Paris, July 6-7, 2027."
     },
     {
-      "id": "premier-kbw-2026",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://koreablockchainweek.com/",
-        "fetchedAt": "2026-09-20T00:20:07.364Z",
-        "method": "official-section",
-        "pageTitle": "KBW2026 | Asia's Premier Crypto Event (Sep. 29 - Oct 1, Seoul)",
-        "sha256": "74cd90b63e96e8a8974b1cc3a25f4df6bf35d745f93c4cce8c723932aec410d2"
-      },
-      "previousStartDate": "2026-09-29T09:00:00.000Z",
-      "characters": 7239,
-      "preview": "## Asia’s Premier Crypto Event\n\nJoin the global industry leaders in Seoul for KBW2026. This is where the next cycle begins, and where the world’s most influential founders and institutions congregate.\n\n## Explore the Week at KBW2026\n\nDiscover the conference agenda and side events happening across Seoul during Korea Blockchain Week.\n\n## Agenda\n\nThe KBW2026 agenda features three days of conversations shaping the future of Web3. From keynote presentations to in-depth panel discussions, the program brings together global founders, investors and builders across multiple stages.\n\n## Events\n\nKBW2026 events extend the opportunity to connect far beyond the main conference. Institutions, investors, founders and policymakers gather throughout the week for conversations shaping the future of Web3.\n\n##"
-    },
-    {
       "id": "premier-token2049-singapore-2026",
       "file": "curated-events.json",
       "status": "source-backed",
@@ -283,66 +268,6 @@
       "previousStartDate": "2027-04-21T09:00:00.000Z",
       "characters": 190,
       "preview": "TOKEN2049 Dubai brings together the global Web3 industry, uniting entrepreneurs, investors, developers, industry insiders and global media, and creates unparalleled networking opportunities."
-    },
-    {
-      "id": "premier-cvsummit",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://www.cvsummit.ch/",
-        "fetchedAt": "2026-09-20T00:20:12.817Z",
-        "method": "official-meta",
-        "pageTitle": "CV Summit Zurich - Join The Room",
-        "sha256": "6b82373d5b19d5d8151fe354679b937450aef1d9d94275397483b5a4b9fe7f49"
-      },
-      "previousStartDate": "2026-09-29T09:00:00.000Z",
-      "characters": 113,
-      "preview": "Switzerland's largest institutional digital assets & AI conference is back! Join us for CV Summit 2026 in Zürich."
-    },
-    {
-      "id": "premier-ethkorea",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://one.ethereumkorea.io/",
-        "fetchedAt": "2026-09-20T00:20:13.338Z",
-        "method": "official-section",
-        "pageTitle": "Ethereum Korea Week | Two Days, Two Worlds · Sept 28-29, 2026",
-        "sha256": "5c4c400ddf496bc0f266168319a287ed4b6b33052e829a2e3ef4d86f58d75f68"
-      },
-      "previousStartDate": "2026-09-28T09:00:00.000Z",
-      "characters": 1699,
-      "preview": "## Ethereum Korea One\n\nTwo days in Seoul where institutions & builders write Ethereum's next chapter.\n\n같은 체인을 두고 서로 다른 언어를 씁니다.한쪽은 자본과 정책으로, 다른 한쪽은 코드와 커뮤니티로.그 두 대화를 서울에서 잇습니다. One chain, two languages.Two audiences, one city.One speaks in capital and policy,the other in code and community.\n\n## Day 01 · 제도권의 언어The Institutional Voice\n\n토큰화, 스테이블코인, RWA, 디지털 자본시장을 다룹니다. 자산운용사와 은행, 증권사, 정책 입안자가 함께하는 키노트와 라운드테이블로 하루를 채웁니다. Tokenization, stablecoins, RWAs, the digital capital stack. Keynotes and roundtables built for asset managers, banks, brokerages, and regulators.\n\n## Day 02 · 빌더의 언어The Builder Voice\n\n코어 컨트리뷰터부터 이제 막 시작한 프로토콜 팀까지 모입니다. 토크와 패널, 라이트닝 데모, 파이어사이드가 종일 이어지는 한국 빌더 커뮤니티의 하루입니다. From core contributors to emerging protocol teams. Talks, panels, lightning demos, and firesides: a day by"
-    },
-    {
-      "id": "premier-cdnbitcoin",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://canadianbitcoinconf.com/",
-        "fetchedAt": "2026-09-20T00:45:01.213Z",
-        "method": "official-section",
-        "pageTitle": "",
-        "sha256": "019257556ce6b170a2938a46797a4e79180cee1336c8d5d8ee328420a41fc575"
-      },
-      "previousStartDate": "2026-10-02T09:00:00.000Z",
-      "characters": 213,
-      "preview": "## 2026 Canadian Bitcoin Conference Update\n\nRather than delivering an experience that falls short, we have made the difficult decision to cancel this year’s Canadian Bitcoin Conference and Industry Day in Toronto."
-    },
-    {
-      "id": "premier-pslisbon",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/P.S.Lisbon",
-        "fetchedAt": "2026-09-19T23:54:12.641Z",
-        "method": "matched-organizer-record",
-        "pageTitle": "P.S. Lisbon",
-        "sha256": "287ee0a2786c6bad8214cf4414768efad532855b5eeaebebd3495af5efe73374"
-      },
-      "matchedRecordId": "w3v-ps-lisbon",
-      "characters": 4658,
-      "preview": "Lisbon has always been a city for the people who explore and build. Following that same spirit, INPUT, Paybis  and nSureAI (https://Nsure.ai) are bringing together the founders, investors and operators reshaping iGaming and payments, for an evening in Alfama, the oldest neighbourhood in Lisbon.\n\nOctober 1st, at La Distillerie, a 19th century distillery at the heart of the neighbourhood. Music, Portuguese wine, and the kind of company worth writing home about.\n\nWhat to expect\n\n\n• Founders, investors, and leaders from across iGaming and payments\n• Portuguese wine tasting led by a sommelier\n• Cocktails and canapés throughout\n• DJ set through the night\n• Postcard Corner: pick a card, write something worth sending, and drop it in the box. It gets stamped and mailed straight to your door.\n• A re"
     },
     {
       "id": "premier-stablecoinsg",
@@ -698,69 +623,6 @@
       "preview": "A curated prediction markets summit - 400 attendees, 50+ speakers, two stages across four hours - at Suntec City, Singapore, on October 8, 2026, during TOKEN2049 week."
     },
     {
-      "id": "premier-solidusroundtable",
-      "file": "curated-events.json",
-      "name": "Crypto Compliance & Legal Roundtable Seoul 2026",
-      "status": "unavailable",
-      "attempts": [
-        {
-          "url": "https://www.soliduslabs.com/",
-          "reason": "event-not-matched"
-        },
-        {
-          "url": "https://www.soliduslabs.com",
-          "reason": "event-not-matched"
-        }
-      ]
-    },
-    {
-      "id": "premier-onchaincapital",
-      "file": "curated-events.json",
-      "name": "Onchain Capital & Liquidity Seoul 2026",
-      "status": "unavailable",
-      "attempts": [
-        {
-          "url": "https://lilroom.xyz/",
-          "reason": "event-not-matched"
-        },
-        {
-          "url": "https://lilroom.xyz",
-          "reason": "event-not-matched"
-        }
-      ]
-    },
-    {
-      "id": "premier-instonchain",
-      "file": "curated-events.json",
-      "name": "Institutional Onchain: RWAs & Stablecoins Seoul 2026",
-      "status": "unavailable",
-      "attempts": [
-        {
-          "url": "https://lilroom.xyz/",
-          "reason": "event-not-matched"
-        },
-        {
-          "url": "https://lilroom.xyz",
-          "reason": "event-not-matched"
-        }
-      ]
-    },
-    {
-      "id": "premier-raylsseoul",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/r5p3iwb8",
-        "fetchedAt": "2026-09-19T23:54:12.111Z",
-        "method": "matched-organizer-record",
-        "pageTitle": "Rayls in Seoul | KBW",
-        "sha256": "70671a274708ce7bb60401707e7ad77e6170e07015d5e79b3acaac9e1d58f410"
-      },
-      "matchedRecordId": "w3v-rayls-in-seoul",
-      "characters": 767,
-      "preview": "Rayls will be in Seoul during Korea Blockchain Week, bringing together leaders across financial services, digital assets and onchain infrastructure.\n\nMore details will be announced soon.\n\nRegister now to receive priority access and be first to hear about what’s planned.\n\n\n\nAbout Rayls (https://www.rayls.com/?utm_source=luma)\n\nRayls (https://www.rayls.com/?utm_source=luma) is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement"
-    },
-    {
       "id": "premier-gbshow",
       "file": "curated-events.json",
       "status": "source-backed",
@@ -815,21 +677,6 @@
       "previousStartDate": "2026-09-28T08:00:00-04:00",
       "characters": 155,
       "preview": "A closed-door conference on corporate bitcoin treasury strategy — allocators, executives, and strategists in one room. September 28, 2026 in New York City."
-    },
-    {
-      "id": "premier-wob-madrid-2026",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://wobitcoin.org/",
-        "fetchedAt": "2026-09-20T00:20:39.704Z",
-        "method": "official-section",
-        "pageTitle": "Watch out, Bitcoin! — WOB 5",
-        "sha256": "bef494f089711e3e19acec092871c9b8431ac81de2668985e6260a5573cc87e2"
-      },
-      "previousStartDate": "2026-10-02T16:00:00+02:00",
-      "characters": 1831,
-      "preview": "Cinco años de debate global sobre Bitcoin. Tres días de paneles, talleres y networking en Madrid.\n\n## Cinco bloques. Una cadena.\n\nCinco años construyendo sobre principios. Cinco años minando comunidad.\n\n## Madrid.Octubre.Bitcoin.\n\n## Tres días. Una forma de entender Bitcoin.\n\n## Talleres\n\nViernes práctico. Lightning, multisig, nodos, privacidad. Trae tu portátil.\n\n## Debates\n\nSábado y domingo de paneles sin filtros. Las preguntas difíciles, las que importan.\n\n## Comunidad\n\nCocktails, cenas y la red WoB. El motivo real por el que la gente vuelve cada año.\n\n## Quiénes hablan.\n\n## Quienes hacen posible WOB 5\n\n## Qué ocurre cada día.\n\nLos talleres son a la misma hora. Tu entrada te da acceso a uno: lo eliges después de comprar.\n\n## Compras la entrada y te escribimos por email para que elijas t"
     },
     {
       "id": "premier-rwa-week-2026",
@@ -1378,21 +1225,6 @@
       "previousStartDate": "2026-10-30T09:00:00+05:30",
       "characters": 94,
       "preview": "India's first festival for what comes next for money. Two days in Jaipur, October 30-31, 2026."
-    },
-    {
-      "id": "kbw-official-secure-crypto-asset-network-2026-scan-10-01",
-      "file": "kbw-luma-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://scan.sx/",
-        "fetchedAt": "2026-09-20T00:20:53.449Z",
-        "method": "official-section",
-        "pageTitle": "SCAN 2026 | Official Event of KBW2026",
-        "sha256": "398558cd7b57dbe0524fb9f9df46e615a55c957d336bacabc070d07a6d20a651"
-      },
-      "previousStartDate": "2026-10-01T15:00:00+09:00",
-      "characters": 319,
-      "preview": "2026. 9. 28. 10am(KST) Monaco Space(B1F), Seoul, South Korea\n\n2026. 10. 1. 10:30am(KST) Théâtre des Lumières(B1F), Walkerhill Hotel, Seoul, South Korea\n\n## Meet the Top 20\n\n## Rank & Prize\n\n## As Featured In\n\n## The Room Where It Matters\n\nA look back at the teams, talks, and award moments from the previous SCAN event."
     },
     {
       "id": "ibw-official-ibw2026-pre-conference-vip-night-10-31",
