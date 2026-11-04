@@ -648,6 +648,22 @@
         "buildState": "FAILED",
         "observedAt": "2026-11-03T18:59:38.805Z"
       }
+    ],
+    "2026-11-04": [
+      {
+        "date": "2026-11-04",
+        "id": "41743772185-1",
+        "sourceCommit": "3142f93be68a8211484b3f242b2c509e0d67e7e6",
+        "jobsCheckedAt": "2026-11-04T00:14:06.165Z",
+        "newsCompletedAt": "2026-11-04T01:02:26.714Z",
+        "articleSlugs": [
+          "tetherbtc"
+        ],
+        "phase": "building",
+        "startedAt": "2026-11-04T01:03:44.311Z",
+        "buildId": "daily-20261104-41743772185-1",
+        "rolloutId": "daily-20261104-41743772185-1"
+      }
     ]
   }
 }
