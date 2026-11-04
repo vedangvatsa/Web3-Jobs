@@ -98300,6 +98300,47 @@
       "verification": "verified",
       "postId": "6aeb19766e21919416d6da8a",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7523710618126835712"
+    },
+    {
+      "slug": "do24",
+      "company": "Ripple",
+      "title": "Senior DevOps Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-11-04T11:37:07.866Z",
+      "expectedText": "Ripple is hiring Senior DevOps Engineer: https://hashtagweb3.com/do24/li?og=7",
+      "snapshot": {
+        "id": "8330754",
+        "title": "Senior DevOps Engineer",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8330754?gh_jid=8330754",
+        "date": "2026-10-30T09:34:52-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "London, UK",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "do24"
+      },
+      "payload": {
+        "text": "Ripple is hiring Senior DevOps Engineer: https://hashtagweb3.com/do24/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/do24/li?og=7",
+          "title": "Senior DevOps Engineer at Ripple",
+          "description": "Join Ripple as Senior DevOps Engineer. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/do24.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "422bdbd7-ae9d-4b68-a3c1-4df3351c1095",
+      "verification": "creating"
     }
   ]
 }
