@@ -99184,7 +99184,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "1f7af28c-742c-4c54-8c40-80b177d23502",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7523833272716431360"
     }
   ]
 }
