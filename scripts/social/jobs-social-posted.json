@@ -97390,6 +97390,54 @@
       "verification": "verified",
       "postId": "6aeb1892dde3f600e5921c1e",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7523709664740564992"
+    },
+    {
+      "slug": "pcac",
+      "company": "Bitdeer",
+      "title": "Procurement Category Lead (AI & Crypto Data Center Construction)",
+      "platform": "linkedin",
+      "postedAt": "2026-11-04T11:32:52.389Z",
+      "expectedText": "Bitdeer is hiring Procurement Category Lead (AI & Crypto Data Center Construction): https://hashtagweb3.com/pcac/li?og=7",
+      "snapshot": {
+        "id": "60e864cee6d8",
+        "title": "Procurement Category Lead (AI & Crypto Data Center Construction)",
+        "company": "Bitdeer",
+        "link": "https://bitdeer.breezy.hr/p/60e864cee6d8-procurement-category-lead-ai-crypto-data-center-construction",
+        "date": "2026-10-28",
+        "dateVerified": true,
+        "dateSource": "Breezy.JobPosting.datePosted",
+        "source": "Breezy: Bitdeer [bitdeer]",
+        "location": "Austin, TX",
+        "isRemote": false,
+        "department": "Procurement",
+        "active": true,
+        "dateEvidence": {
+          "url": "https://bitdeer.breezy.hr/p/60e864cee6d8-procurement-category-lead-ai-crypto-data-center-construction",
+          "checkedAt": "2026-10-30T03:42:02.245Z",
+          "bodySha256": "4105a51a61bec9bb3a3cfe09f58f66f963d0ab8ae180a0fc0da28824d5818b5d",
+          "provider": "breezy",
+          "datePosted": "2026-10-28"
+        },
+        "slug": "pcac"
+      },
+      "payload": {
+        "text": "Bitdeer is hiring Procurement Category Lead (AI & Crypto Data Center Construction): https://hashtagweb3.com/pcac/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pcac/li?og=7",
+          "title": "Procurement Category Lead (AI & Crypto Data Center Construction) at Bitdeer",
+          "description": "Join Bitdeer as Procurement Category Lead. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pcac.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "bee87e43-4054-4c34-90e3-f31e50c16da9",
+      "verification": "creating"
     }
   ]
 }
