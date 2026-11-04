@@ -4500,5 +4500,54 @@
     "slotKey": "2026-11-03:afternoon",
     "messageId": 156056,
     "sentAt": "2026-11-03T11:32:47.719Z"
+  },
+  "56f95241-cafd-4cd9-a5ef-ab8921d90bb5": {
+    "status": "reserved",
+    "reservedAt": "2026-11-04T11:32:14.163Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "ibw-t3u5q76p",
+        "slug": "tachi-btc-hacker-shop-devcon-edition",
+        "name": "Tachi BTC Hacker Shop - Devcon Edition",
+        "startDate": "2026-11-05T04:30:00.000Z",
+        "keys": [
+          "ibw-t3u5q76p",
+          "tachibtc",
+          "page:tachi-btc-hacker-shop-devcon-edition:2026-11-05",
+          "luma:evt-gviwjkok3tgttb2",
+          "luma-url:/t3u5q76p",
+          "event:tachibtchackershopdevconedition:2026-11-05:mumbai"
+        ]
+      },
+      {
+        "id": "luma-crypto-05d3N885FABhJ0q",
+        "slug": "crypto-padel-whitebit-play-padel-club-spredo",
+        "name": "Crypto Padel by WhiteBIT & Play Padel Club & Spredo",
+        "startDate": "2026-11-13T16:00:00.000Z",
+        "keys": [
+          "luma-crypto-05d3n885fabhj0q",
+          "hrem9w27",
+          "page:crypto-padel-whitebit-play-padel-club-spredo:2026-11-13",
+          "luma-url:/hrem9w27",
+          "event:cryptopadelbywhitebitplaypadelclubspredo:2026-11-13:lisbon"
+        ]
+      },
+      {
+        "id": "w3v-445-crew-x-solana-breakpoint--community-run",
+        "slug": "445-crew-x-solana-breakpoint-community-run",
+        "name": "445 CREW x Solana Breakpoint | Community Run",
+        "startDate": "2026-11-14T09:15:00.000Z",
+        "keys": [
+          "w3v-445-crew-x-solana-breakpoint--community-run",
+          "page:445-crew-x-solana-breakpoint-community-run:2026-11-14",
+          "luma:evt-m82atau2uejirti",
+          "luma-url:/n6r4k7vb",
+          "event:445crewxsolanabreakpointcommunityrun:2026-11-14:london"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-04:afternoon"
   }
 }
