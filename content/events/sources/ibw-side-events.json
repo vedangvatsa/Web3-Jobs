@@ -248,7 +248,6 @@
       "ibw"
     ],
     "url": "https://luma.com/spsnos9t",
-    "coverImage": "/events/ibw-official-ethereum-cypherpunk-congress-3-11-02-dbd44d45.webp",
     "source": "ibw-official",
     "hosts": [
       "Mykola x Web3Privacy now",
@@ -425,7 +424,6 @@
       "devcon"
     ],
     "url": "https://defisecuritysummit.org/",
-    "coverImage": "/events/ibw-official-defi-security-summit-day-2-11-02-c492bb00.webp",
     "source": "ibw-official",
     "descriptionSource": {
       "url": "https://luma.com/9qtxqqxx",
@@ -1201,7 +1199,6 @@
     "startDate": "2026-10-18T03:30:00.000Z",
     "location": "Mumbai, India",
     "url": "https://luma.com/g3oz48ck",
-    "coverImage": "/events/india-luma-g3oz48ck-34bf511d.webp",
     "source": "luma-india",
     "endDate": "2026-11-02T18:00:00.000Z",
     "timezone": "Asia/Kolkata",
@@ -1269,7 +1266,6 @@
     "startDate": "2026-11-02T14:00:00.000Z",
     "location": "Location to be announced",
     "url": "https://luma.com/9bhu9f28",
-    "coverImage": "/events/india-luma-9bhu9f28-2e028b9a.webp",
     "source": "luma-india",
     "endDate": "2026-11-02T17:30:00.000Z",
     "timezone": "Asia/Dubai",
@@ -7569,7 +7565,7 @@
       "ibw"
     ],
     "url": "https://luma.com/i0vz9q6c",
-    "coverImage": "/public/events/ibw-i0vz9q6c.webp",
+    "coverImage": "/events/ibw-i0vz9q6c.webp",
     "source": "ibw-official",
     "hosts": [
       "India Crypto Research"
@@ -7623,7 +7619,7 @@
       "ibw"
     ],
     "url": "https://luma.com/c9nw11qi",
-    "coverImage": "/public/events/ibw-c9nw11qi.webp",
+    "coverImage": "/events/ibw-c9nw11qi.webp",
     "source": "ibw-official",
     "hosts": [
       "ChainSecurity",
@@ -7679,7 +7675,7 @@
       "ibw"
     ],
     "url": "https://luma.com/vm795qzx",
-    "coverImage": "/public/events/ibw-vm795qzx.webp",
+    "coverImage": "/events/ibw-vm795qzx.webp",
     "source": "ibw-official",
     "hosts": [
       "India Blockchain Week Community"
@@ -7733,7 +7729,7 @@
       "ibw"
     ],
     "url": "https://luma.com/t0e7b24u",
-    "coverImage": "/public/events/ibw-t0e7b24u.webp",
+    "coverImage": "/events/ibw-t0e7b24u.webp",
     "source": "ibw-official",
     "hosts": [
       "Agnel Vishal"
@@ -7787,7 +7783,7 @@
       "ibw"
     ],
     "url": "https://luma.com/w61rovyw",
-    "coverImage": "/public/events/ibw-w61rovyw.webp",
+    "coverImage": "/events/ibw-w61rovyw.webp",
     "source": "ibw-official",
     "hosts": [
       "endless team",
@@ -7843,7 +7839,7 @@
       "ibw"
     ],
     "url": "https://luma.com/wprc-kol-261104-zcash-tachyon-what-is-it-lessons-l",
-    "coverImage": "/public/events/ibw-wprc-kol-261104-zcash-tachyon-.webp",
+    "coverImage": "/events/ibw-wprc-kol-261104-zcash-tachyon-.webp",
     "source": "ibw-official",
     "hosts": [
       "Whitepaper Reading Club",
@@ -7898,7 +7894,7 @@
       "ibw"
     ],
     "url": "https://luma.com/wprc-kol-261104-at-monad-blitz-devcon",
-    "coverImage": "/public/events/ibw-wprc-kol-261104-at-monad-blitz.webp",
+    "coverImage": "/events/ibw-wprc-kol-261104-at-monad-blitz.webp",
     "source": "ibw-official",
     "hosts": [
       "Whitepaper Reading Club",
@@ -7954,7 +7950,7 @@
       "ibw"
     ],
     "url": "https://luma.com/cu2jm5bn",
-    "coverImage": "/public/events/ibw-cu2jm5bn.webp",
+    "coverImage": "/events/ibw-cu2jm5bn.webp",
     "source": "ibw-official",
     "hosts": [
       "skiv the creator"
@@ -8008,7 +8004,7 @@
       "ibw"
     ],
     "url": "https://luma.com/9qzvhhxs",
-    "coverImage": "/public/events/ibw-9qzvhhxs.webp",
+    "coverImage": "/events/ibw-9qzvhhxs.webp",
     "source": "ibw-official",
     "hosts": [
       "Radhika Rungta",
@@ -8063,7 +8059,7 @@
       "ibw"
     ],
     "url": "https://luma.com/kf553io8",
-    "coverImage": "/public/events/ibw-kf553io8.webp",
+    "coverImage": "/events/ibw-kf553io8.webp",
     "source": "ibw-official",
     "hosts": [
       "Hisoka",
@@ -8118,7 +8114,7 @@
       "ibw"
     ],
     "url": "https://luma.com/0qwpaxre",
-    "coverImage": "/public/events/ibw-0qwpaxre.webp",
+    "coverImage": "/events/ibw-0qwpaxre.webp",
     "source": "ibw-official",
     "hosts": [
       "Law Blocks AI",
@@ -8174,7 +8170,7 @@
       "ibw"
     ],
     "url": "https://luma.com/43x56ltz",
-    "coverImage": "/public/events/ibw-43x56ltz.webp",
+    "coverImage": "/events/ibw-43x56ltz.webp",
     "source": "ibw-official",
     "hosts": [
       "Harsh Gupta"
@@ -8228,7 +8224,7 @@
       "ibw"
     ],
     "url": "https://luma.com/t3u5q76p",
-    "coverImage": "/public/events/ibw-t3u5q76p.webp",
+    "coverImage": "/events/ibw-t3u5q76p.webp",
     "source": "ibw-official",
     "hosts": [
       "Viivek Mehata",
@@ -8283,7 +8279,7 @@
       "ibw"
     ],
     "url": "https://luma.com/bunkerautoresearch",
-    "coverImage": "/public/events/ibw-bunkerautoresearch.webp",
+    "coverImage": "/events/ibw-bunkerautoresearch.webp",
     "source": "ibw-official",
     "hosts": [
       "Adithya",
@@ -8341,7 +8337,7 @@
       "ibw"
     ],
     "url": "https://luma.com/545iup8w",
-    "coverImage": "/public/events/ibw-545iup8w.webp",
+    "coverImage": "/events/ibw-545iup8w.webp",
     "source": "ibw-official",
     "hosts": [
       "Tangem",
@@ -8397,7 +8393,7 @@
       "ibw"
     ],
     "url": "https://luma.com/pwpukays",
-    "coverImage": "/public/events/ibw-pwpukays.webp",
+    "coverImage": "/events/ibw-pwpukays.webp",
     "source": "ibw-official",
     "hosts": [
       "Uddalak Das",
@@ -8453,7 +8449,7 @@
       "ibw"
     ],
     "url": "https://luma.com/4jt54kqx",
-    "coverImage": "/public/events/ibw-4jt54kqx.webp",
+    "coverImage": "/events/ibw-4jt54kqx.webp",
     "source": "ibw-official",
     "hosts": [
       "Babes net",
@@ -8510,7 +8506,7 @@
       "ibw"
     ],
     "url": "https://luma.com/4hcsc1r3",
-    "coverImage": "/public/events/ibw-4hcsc1r3.webp",
+    "coverImage": "/events/ibw-4hcsc1r3.webp",
     "source": "ibw-official",
     "hosts": [
       "Anmol Ratan"
@@ -8564,7 +8560,7 @@
       "ibw"
     ],
     "url": "https://luma.com/mgxg6ko8",
-    "coverImage": "/public/events/ibw-mgxg6ko8.webp",
+    "coverImage": "/events/ibw-mgxg6ko8.webp",
     "source": "ibw-official",
     "hosts": [
       "Polkadot",
