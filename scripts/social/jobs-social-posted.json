@@ -97724,7 +97724,8 @@
       },
       "account": "channel:web3",
       "attemptId": "11265b2e-aa4e-4c4b-8f4a-945367512fe9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xda0bd1540aa51bee6c6aa09da2a015fd485919c3"
     }
   ]
 }
