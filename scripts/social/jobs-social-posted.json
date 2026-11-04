@@ -96650,7 +96650,8 @@
       },
       "account": "profile",
       "attemptId": "49653802-2241-41fc-b4d2-ae957939bb58",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc3a8e0da5fec1a26aacae2ea888419e25cfd6587"
     }
   ]
 }
