@@ -35,18 +35,6 @@
       "preview": "The Bridge Between TradFi & Digital Assets. The Institutional Summit for Digital Assets. Paris, July 6-7, 2027."
     },
     {
-      "id": "premier-ethtokyo-2026",
-      "file": "curated-events.json",
-      "name": "ETHGlobal Tokyo 2026",
-      "status": "unavailable",
-      "attempts": [
-        {
-          "url": "https://ethglobal.com/events/tokyo2026",
-          "reason": "HTTP 500"
-        }
-      ]
-    },
-    {
       "id": "premier-kbw-2026",
       "file": "curated-events.json",
       "status": "source-backed",
@@ -295,90 +283,6 @@
       "previousStartDate": "2027-04-21T09:00:00.000Z",
       "characters": 190,
       "preview": "TOKEN2049 Dubai brings together the global Web3 industry, uniting entrepreneurs, investors, developers, industry insiders and global media, and creates unparalleled networking opportunities."
-    },
-    {
-      "id": "premier-ethtokyoweek",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://www.ethtokyo.org/",
-        "fetchedAt": "2026-09-20T00:20:11.399Z",
-        "method": "official-section",
-        "pageTitle": "ETHTokyo 2026",
-        "sha256": "696b23cce3cede01a1577b42fb3761f17bc1318a44a68c8fc3bc8279684afa8f"
-      },
-      "previousStartDate": "2026-09-19T09:00:00.000Z",
-      "characters": 11633,
-      "preview": "## ETHTokyo 2026\n\n## What is ETHTokyo?\n\nETHTokyo is a Tokyo-based Ethereum community and coordination layer, bringing together builders, researchers, artists, founders, institutions, public-goods contributors, and independent communities around a shared cypherpunk ethos and optimism for the future.\n\nWe exist to advance the development, adoption, and cultural relevance of Ethereum from Tokyo — through credible, open, permissionless spaces for people building the next generation of programmable, verifiable, and privacy-preserving systems. Our role is to help Ethereum in Tokyo become more connected, credible, permissionless, and alive — not through one venue or one official narrative, but through a city-wide network of people and events.\n\nETHTokyo Week 2026 will take place from September 19 t"
-    },
-    {
-      "id": "premier-freedomtech",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://www.btcpolicy.org/summit",
-        "fetchedAt": "2026-09-20T00:39:52.581Z",
-        "method": "official-section",
-        "pageTitle": "Freedom Tech DC | September 22-23, 2026",
-        "sha256": "967066da2f4c8eb3a5c2a184ab568a8e3905da33277ffe312795015c52262253"
-      },
-      "previousStartDate": "2026-09-22T09:00:00.000Z",
-      "characters": 1179,
-      "preview": "For most of the last century, national power was counted in steel, oil, and warheads. In this one it runs on the technologies of money, speech, and compute, the rails beneath economic life and public argument, and now intelligence itself.\n\nIf we get this right, America compounds a generational advantage; get it wrong and we cede the century to surveillance, capture, and rivals who have already chosen control.\n\nWho gets access to the most capable systems, and on whose authority?\n\nDoes the enormous build-out of energy and compute we need to outpace China become an engine of broad competition, or a set of chokepoints a few firms and agencies can throttle?\n\nCan frontier capability stay open and lawful without being surrendered either to a handful of incumbents or to the most dangerous people o"
-    },
-    {
-      "id": "premier-midwestbtc",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://midwestbtc.com/",
-        "fetchedAt": "2026-09-20T00:20:11.830Z",
-        "method": "official-meta",
-        "pageTitle": "Midwest Bitcoin Summit",
-        "sha256": "dc64e4f4f4ca90b43ffef9f915c7377da13ec921ec1a46ff374ca36f948e578f"
-      },
-      "previousStartDate": "2026-09-23T09:00:00.000Z",
-      "characters": 166,
-      "preview": "The Midwest Bitcoin Summit brings thousands of attendees, 150+ speakers, and the brightest minds in Bitcoin to Columbus, OH on Sept 23-24, 2026. Get your tickets now."
-    },
-    {
-      "id": "premier-ethsofia",
-      "file": "curated-events.json",
-      "name": "ETHSofia 2026",
-      "status": "unavailable",
-      "attempts": [
-        {
-          "url": "https://drive.google.com/file/d/1EBXbTYap_bOnnqeYZxNIyk4D3tJNVfyj/view?usp=sharing",
-          "reason": "no-event-description"
-        },
-        {
-          "url": "https://drive.google.com/file/d/1JHMpDrZc7gXI-NuOgpxTXA-dxbBOhBNk/view?usp=sharing",
-          "reason": "no-event-description"
-        },
-        {
-          "url": "https://www.blockchainweek.bg/",
-          "reason": "event-not-matched"
-        },
-        {
-          "url": "https://www.blockchainweek.bg",
-          "reason": "event-not-matched"
-        }
-      ]
-    },
-    {
-      "id": "premier-btchel",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://btchel.com/",
-        "fetchedAt": "2026-09-20T00:20:12.355Z",
-        "method": "official-section",
-        "pageTitle": "BTCHEL2026 – The Nordic Bitcoin Conference.",
-        "sha256": "307dd99355f648474f804b0ea56ef2f3c0fa2589ac299a5be4e4d8fd668eda71"
-      },
-      "previousStartDate": "2026-09-25T09:00:00.000Z",
-      "characters": 1422,
-      "preview": "## THE NORDIC BITCOIN CONFERENCE\n\n## The Nordic Bitcoin Conference\n\nConnect with community, builders, and experts in the field, shaping the future of a decentralised world.​\n\n## 2026\n\n## Helsinki\n\n## #1\n\n## Innovation First\n\nFeaturing cutting-edge developments in Bitcoin payments, finances, and mining. BTCHEL demonstrates the real-world use of Bitcoin as money.\n\n## Nordic Focus\n\nThe only Bitcoin conference dedicated to the Nordic region, bringing local and international perspectives together. BTCHEL advances local adoption and creates virality among the public.\n\n## Community Driven\n\nConnecting all Bitcoiners in the Nordics, while staying true to the Bitcoin culture and ethos. BTCHEL is an independent, bootstrapped, grassroots conference.\n\n## Sponsors\n\n## Main\n\n## Innovators\n\n## Early Adopt"
     },
     {
       "id": "premier-cvsummit",
@@ -752,21 +656,6 @@
       "preview": "## 2026\n\nAfrica’s largest gathering of the Bitcoin & freedom-tech community.\n\n## 2 – 5 December 2026, Amaryllis Hotel in Blantyre, Malawi\n\n## What is The Africa Bitcoin Conference ?\n\nEvery year, we bring together activists, innovators, and decision-makers to explore how Bitcoin safeguards fundamental freedoms, strengthens economic autonomy, and paves the way for lasting sovereignty.\n\n## Take the stage at ABC26\n\n## Let’s amplify Africa’s voice in the global Bitcoin story\n\nEvery year, the Africa Bitcoin Conference features dozens of inspiring speakers. Would you like to be part of this journey and share your insights and perspective on Bitcoin’s role in shaping a more liberated Africa and world?\n\n## ABC 26 Speakers\n\nEach Year, Visionary Leaders Share Their Insights at the Africa Bitcoin Conf"
     },
     {
-      "id": "premier-agenticpay",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/mw84pfjm",
-        "fetchedAt": "2026-09-19T23:29:49.798Z",
-        "method": "matched-organizer-record",
-        "pageTitle": "Agentic Payments Onchain",
-        "sha256": "db0818c5f9169b6f24c5b417a01f084a029e576e45654272b6bba194cd62d8c7"
-      },
-      "matchedRecordId": "w3v-agentic-payments-onchain",
-      "characters": 2458,
-      "preview": "## Agentic Payments Onchain\n\n\n> 행사는 한국어로 진행됩니다.\n> \n> The event is going to be conducted in Korean.\n\nRipple (https://ripple.com), t54 (https://t54.ai), Tenity (https://www.tenity.com/), Bloom (https://bloomworld.ai/community/)이 함께하는 KBW 공식 사이드 이벤트입니다.\n\n📅 2026.09.28 (월) 18:00–23:00 KST   📍 강남 (신청 승인 후 안내)   🎟 무료 · 승인제\n\n\n## 이런 분들을 환영합니다\n\n\n• XRPL (https://xrpl.org) 및 온체인 AI 인프라에 관심 있는 빌더/개발자\n• Agentic payment, x402, MPP, AP2, ACP 등 machine to machine 결제 표준에 관심 있는 분\n• 자율 금융 에이전트(autonomous financial agent)의 보안 모델에 관심 있는 리서처/엔지니어\n• 블록체인과 t54 생태계 위에서 프로젝트를 구상 중인 빌더\n• 웹3 x AI 생태계 네트워킹을 희망하는 분\n\n직종 관련없이 위 항목 중 하나라도 해당된다면 모두 환영입니다.\n\n\n## 시간표\n\n18:00 – 19:00 · 입장, 다과 및 네트워킹\n\n19:00 – 19:15 · 오프닝\n\n\n• 오프닝: Joel Mun (Sr. Devrel, Ripple) (https://www.linkedin.com/in/7oelm/)\n• t54 소개: Claire Jung (APAC Reg"
-    },
-    {
       "id": "premier-finalityforum",
       "file": "curated-events.json",
       "name": "Finality Forum Singapore 2026",
@@ -913,47 +802,6 @@
       ]
     },
     {
-      "id": "premier-shaka-biarritz-2026",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://shaka.events/",
-        "fetchedAt": "2026-09-20T00:20:38.642Z",
-        "method": "event-jsonld",
-        "pageTitle": "SHAKA Festival Biarritz 2026 | IA, Blockchain & Business",
-        "sha256": "29b3bbb719af7e9262ee1379723b7b581f1aa5098853a589b7d8cb040c703481"
-      },
-      "eventFacts": {
-        "startDate": "2026-09-24",
-        "endDate": "2026-09-26",
-        "venueName": "Cité de l'Océan",
-        "addressLocality": "Biarritz",
-        "addressRegion": "Nouvelle-Aquitaine",
-        "addressCountry": "FR",
-        "city": "Biarritz",
-        "country": "FR",
-        "location": "Cité de l'Océan, Biarritz, Nouvelle-Aquitaine, FR"
-      },
-      "previousStartDate": "2026-09-24T09:00:00+02:00",
-      "characters": 143,
-      "preview": "Le festival IA, blockchain et business à Biarritz: 3 jours de talks, workshops, startups, networking, surf et soirées pour prendre de l'avance."
-    },
-    {
-      "id": "premier-metamorphosis-2026",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://metamorphosisconf.com/tickets/",
-        "fetchedAt": "2026-09-20T00:20:39.112Z",
-        "method": "official-meta",
-        "pageTitle": "Metamorphosis 2026 | India's Premier Web3 & AI Gala",
-        "sha256": "b1f8e93bee0664251d8004c9eb4e00345eb8318421cc727c32b9b3d35326b010"
-      },
-      "previousStartDate": "2026-09-26T09:00:00+05:30",
-      "characters": 192,
-      "preview": "Join Metamorphosis 2026 in Hyderabad on September 26–27 for India's largest\nWeb3 and AI event. Connect with global thought leaders, developers, and innovators shaping the future of\ntechnology."
-    },
-    {
       "id": "premier-bitcoin-treasuries-2026",
       "file": "curated-events.json",
       "status": "source-backed",
@@ -963,19 +811,6 @@
         "method": "event-jsonld",
         "pageTitle": "Bitcoin Treasuries Conference - September 28, 2026 - NYC",
         "sha256": "40d167a12ad99faec9689c252c56296454a98a438220eff8cbcf6f9a2a7b12be"
-      },
-      "eventFacts": {
-        "startDate": "2026-09-28T08:00:00-04:00",
-        "endDate": "2026-09-28T17:30:00-04:00",
-        "venueName": "SECOND",
-        "streetAddress": "849 6th Avenue",
-        "addressLocality": "New York",
-        "addressRegion": "NY",
-        "postalCode": "10001",
-        "addressCountry": "US",
-        "city": "New York",
-        "country": "US",
-        "location": "SECOND, 849 6th Avenue, New York, NY, 10001, US"
       },
       "previousStartDate": "2026-09-28T08:00:00-04:00",
       "characters": 155,
@@ -1698,49 +1533,6 @@
           "reason": "event-not-matched"
         }
       ]
-    },
-    {
-      "id": "w3v-ethereum-institutional-summit-2026",
-      "file": "events-cache.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://eis.fracton.ventures/",
-        "fetchedAt": "2026-09-20T00:20:56.083Z",
-        "method": "official-section",
-        "pageTitle": "Ethereum Institutional Summit 2026 · Tokyo · Sep 25, 2026",
-        "sha256": "9e061ebf9f348f487d0e178c5ea10ba0466054e78270900ab3c22cbff29a8465"
-      },
-      "previousStartDate": "2026-09-25T08:00:00.000Z",
-      "characters": 1358,
-      "preview": "## About\n\nA one-day, invitation-only summit in Tokyo for institutional decision-makers and the founders and researchers shaping the institutional layer of Ethereum.\n\nThe summit brings together global institutional investors, Japanese financial institutions, and project leaders for the first time in Japan at this scale.\n\nThe summit takes up the moment Ethereum evolves beyond a digital asset into the financial infrastructure of enterprises.\n\nStablecoin payments connecting corporate treasuries, tokenized real-world assets entering institutional portfolios, onchain treasury operations restructuring accounting and audit, and institutional-grade DeFi protocols — these are no longer thought experiments. They are working systems being built, deployed, and evaluated right now.\n\nHeld in English, wit"
-    },
-    {
-      "id": "w3v-eastpoint2026",
-      "file": "events-cache.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://www.eastpoint.xyz/",
-        "fetchedAt": "2026-09-20T00:20:56.327Z",
-        "method": "event-jsonld",
-        "pageTitle": "EastPoint:Seoul 2026 | Digital Asset & AI Summit",
-        "sha256": "c041c7ccf874b3597da21309520c88d6c2f6b7326adfae664b6b3555088c7930"
-      },
-      "eventFacts": {
-        "startDate": "2026-09-28T09:00:00+09:00",
-        "endDate": "2026-09-28T22:00:00+09:00",
-        "venueName": "The Westin Seoul Parnas",
-        "streetAddress": "524 Bongeunsa-ro, Gangnam-gu",
-        "addressLocality": "Seoul",
-        "addressRegion": "Seoul",
-        "postalCode": "06164",
-        "addressCountry": "KR",
-        "city": "Seoul",
-        "country": "KR",
-        "location": "The Westin Seoul Parnas, 524 Bongeunsa-ro, Gangnam-gu, Seoul, 06164, KR"
-      },
-      "previousStartDate": "2026-09-28T07:00:00.000Z",
-      "characters": 247,
-      "preview": "EastPoint:Seoul 2026 — Korea's premier private, invitation-only summit on digital assets, stablecoins, RWA tokenization, and the AI economy. Co-hosted by Hashed, Bloomingbit, and The Korea Economic Daily. September 28, 2026 at Westin Seoul Parnas."
     },
     {
       "id": "ma-money-20-20-usa",

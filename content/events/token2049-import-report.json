@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-23T11:32:16.181Z",
+  "checkedAt": "2026-10-29T03:35:06.261Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -11,22 +11,12 @@
   },
   "counts": {
     "existing": 240,
-    "excluded": 369,
-    "needs-review": 39,
-    "duplicate": 1
+    "excluded": 370,
+    "needs-review": 39
   },
-  "importedTotal": 258,
+  "importedTotal": 257,
   "added": [],
   "receipts": [
-    {
-      "url": "https://luma.com/openhouse-singapore",
-      "name": "Founder House Singapore 🇸🇬",
-      "sources": [
-        "https://luma.com/2049events"
-      ],
-      "status": "existing",
-      "slug": "founder-house"
-    },
     {
       "url": "https://luma.com/tw82xsrs",
       "name": "Get Down For Real",
@@ -53,6 +43,15 @@
       ],
       "status": "existing",
       "slug": "fcsy"
+    },
+    {
+      "url": "https://luma.com/y586ohae",
+      "name": "Tech X Summit Global",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "existing",
+      "slug": "tech-summit"
     },
     {
       "url": "https://luma.com/circlehouse2026",
@@ -6315,8 +6314,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "duplicate",
-      "slug": "founder-house"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://www.allthatmatters.asia",

@@ -359,29 +359,6 @@
     }
   },
   {
-    "name": "Freedom Tech DC 2026",
-    "url": "https://www.btcpolicy.org",
-    "emails": [
-      "mboyer@btcpolicy.org"
-    ],
-    "event": {
-      "id": "premier-freedomtech",
-      "slug": "freedom",
-      "name": "Freedom Tech DC 2026",
-      "description": "The Bitcoin Policy Institute's flagship gathering on Bitcoin, freedom technology, and policy, returning to Washington DC.",
-      "startDate": "2026-09-22T09:00:00.000Z",
-      "endDate": "2026-09-23T18:00:00.000Z",
-      "city": "Washington DC",
-      "country": "United States",
-      "location": "Washington, DC, USA",
-      "url": "https://www.btcpolicy.org",
-      "website": "https://www.btcpolicy.org",
-      "coverImage": "https://cdn.prod.website-files.com/68f7cddcae0b61add08140fc/696e4e1d57e5456bda73085e_website%20share.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
     "name": "Ethereum Korea One 2026",
     "url": "https://one.ethereumkorea.io",
     "emails": [
@@ -619,30 +596,6 @@
     }
   },
   {
-    "name": "Agentic Payments Onchain 2026",
-    "url": "https://t54.ai",
-    "emails": [
-      "hr@t54.ai",
-      "press@t54.ai"
-    ],
-    "event": {
-      "id": "premier-agenticpay",
-      "slug": "apo",
-      "name": "Agentic Payments Onchain 2026",
-      "description": "A working session on agentic payments: how autonomous AI agents transact, settle, and hold balances on-chain, during Korea Blockchain Week.",
-      "startDate": "2026-09-28T09:00:00.000Z",
-      "endDate": "2026-09-28T18:00:00.000Z",
-      "city": "Seoul",
-      "country": "South Korea",
-      "location": "Seoul, South Korea",
-      "url": "https://t54.ai",
-      "website": "https://t54.ai",
-      "coverImage": "/events/agentic.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
     "name": "Finality Forum Singapore 2026",
     "url": "https://ethenelabs.xyz",
     "emails": [
@@ -759,30 +712,6 @@
     }
   },
   {
-    "name": "CONNECT by Cointelegraph Seoul 2026",
-    "url": "https://cointelegraph.com",
-    "emails": [
-      "advertise@cointelegraph.com",
-      "editor@cointelegraph.com"
-    ],
-    "event": {
-      "id": "premier-connectseoul",
-      "slug": "connect",
-      "name": "CONNECT by Cointelegraph Seoul 2026",
-      "description": "Cointelegraph's CONNECT forum arrives in Seoul during Korea Blockchain Week with media-led panels and networking.",
-      "startDate": "2026-09-28T09:00:00.000Z",
-      "endDate": "2026-09-28T18:00:00.000Z",
-      "city": "Seoul",
-      "country": "South Korea",
-      "location": "Seoul, South Korea",
-      "url": "https://cointelegraph.com",
-      "website": "https://cointelegraph.com",
-      "coverImage": "https://s3.cointelegraph.com/uploads/2026-04/019db5ee-14fd-72a4-a0e1-746d60971f5f.jpg",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
     "name": "Global Blockchain Show Abu Dhabi 2026",
     "url": "https://www.globalblockchainshow.com/abu-dhabi/",
     "emails": [
@@ -890,71 +819,6 @@
       "source": "curated-premier",
       "slug": "quantstamp-common-defense-mumbai-lounge",
       "coverImage": "/events/ibw.png"
-    }
-  },
-  {
-    "name": "Agentic Summit",
-    "url": "https://agentic-summit.org/",
-    "emails": [
-      "contact@nyx.foundation"
-    ],
-    "event": {
-      "id": "w3v-agentic-summit",
-      "name": "Agentic Summit",
-      "description": "Agentic Summit: Tokyo conference on September 23, 2026 focused on autonomous finance and AI agents infrastructure.",
-      "startDate": "2026-09-23T09:00:00.000Z",
-      "endDate": "2026-09-23T16:00:00.000Z",
-      "city": "Bunkyo City",
-      "country": "JP",
-      "location": "Bunkyo City, JP",
-      "url": "https://agentic-summit.org/",
-      "coverImage": "https://agentic-summit.org/og.png",
-      "bypassedFilter": true,
-      "month": "September 2026"
-    }
-  },
-  {
-    "name": "Ethereum Institutional Summit 2026",
-    "url": "https://eis.fracton.ventures",
-    "emails": [
-      "contact@fracton.ventures"
-    ],
-    "event": {
-      "id": "w3v-ethereum-institutional-summit-2026",
-      "name": "Ethereum Institutional Summit 2026",
-      "description": "Ethereum Institutional Summit 2026: invitation-only Tokyo summit by Fracton Ventures during ETHTokyo Week in Central Tokyo.",
-      "startDate": "2026-09-25T08:00:00.000Z",
-      "endDate": "2026-09-25T16:00:00.000Z",
-      "city": "Nakano City",
-      "country": "JP",
-      "location": "Nakano City, JP",
-      "url": "https://eis.fracton.ventures",
-      "coverImage": "https://eis.fracton.ventures/opengraph-image?cd0b264fee0666ff",
-      "bypassedFilter": true,
-      "month": "September 2026"
-    }
-  },
-  {
-    "name": "EastPoint 2026",
-    "url": "https://www.eastpoint.xyz",
-    "emails": [
-      "contact@eastpoint.xyz",
-      "you@company.com",
-      "seoul@eastpoint.xyz"
-    ],
-    "event": {
-      "id": "w3v-eastpoint2026",
-      "name": "EastPoint 2026",
-      "description": "EastPoint 2026: a September 28 conference in Seoul covering digital assets, stablecoins, tokenized markets, Web3 and AI.",
-      "startDate": "2026-09-28T07:00:00.000Z",
-      "endDate": "2026-09-28T19:00:00.000Z",
-      "city": "Global",
-      "country": "KR",
-      "location": "Global, KR",
-      "url": "https://www.eastpoint.xyz",
-      "coverImage": "https://www.eastpoint.xyz/og-image-v3.png",
-      "bypassedFilter": true,
-      "month": "September 2026"
     }
   },
   {

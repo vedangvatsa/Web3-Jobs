@@ -1465,10 +1465,6 @@
       "sha256": "24a04c3a753357c57a3f7f9db6ee04093e351a1bdcd78bc41542f4371b42f07d",
       "status": "optimized"
     },
-    "/events/luma-batch-evtqAbspeAvaINu0-96b7fd02.jpg": {
-      "sha256": "9e703fc88cb152e4286f4aa78558f41281b18c4d432b95b09703e33140bae193",
-      "status": "retained"
-    },
     "/events/luma-batch-evtqBNPraDCBbRlz-c8d6f595.webp": {
       "sha256": "96bf81f3e3740c2444f0e0e85b2eddb19182361af1c0378967653745351b8a2b",
       "status": "optimized"
@@ -1512,10 +1508,6 @@
     "/events/luma-batch-evtsJTiDuzqsClRt-5f43bb31.webp": {
       "sha256": "2f09701e3778a987fdbae3d1b0994a6c7a3ed722d34ee4c568cd90f769c6796f",
       "status": "optimized"
-    },
-    "/events/luma-batch-evtsOiG3YbNn0yIj-211fb44e.jpg": {
-      "sha256": "dbaf186888a45a32f3b04e19b3cb66ef7a5ffb686f192ff3f31021af04cc73fb",
-      "status": "retained"
     },
     "/events/luma-batch-evtsPhAqOtfGigBJ-754b48e2.webp": {
       "sha256": "775c38fa37d42dad359376cd7d04aa0480f3fb797b9ed9cee16570e2809f2211",
@@ -2449,10 +2441,6 @@
       "sha256": "9f73c112fa50d51d55163b4a2b6498a55d248529e460167bdc278f9341517e0d",
       "status": "optimized"
     },
-    "/events/luma-host-evt-evt-xdzrcpdha2tj2qu-66a40b5a.webp": {
-      "sha256": "2522b4707e3069012b05971033ac715c5bf78dae17c3a22196aa394182dda98d",
-      "status": "optimized"
-    },
     "/events/luma-host-evt-evt-zzpvga0qimrtnrp-ef2059a9.webp": {
       "sha256": "2c377f43e1d249f80540f0c96393754b3327af53467dbff40f5e428ee6083a1f",
       "status": "optimized"
@@ -2525,14 +2513,6 @@
       "sha256": "34f461a66a6a71ec83457f2998690ad8a8105526253f26c4826cf44798eb5949",
       "status": "optimized"
     },
-    "/events/ma-crypto-expo-europe-2027-58c75062.webp": {
-      "sha256": "6ff8ab5b4e3ef6a125a1c58767752d173f7d3bd5b1d3b2df625949e43f2f2bbc",
-      "status": "optimized"
-    },
-    "/events/ma-davosweb3-roundtable-2027-b69b21aa.webp": {
-      "sha256": "1f5ce29776e5b1d434dce3f0eb20ac89ffd7d21b76d5d1848e69cf341cc9ea9d",
-      "status": "optimized"
-    },
     "/events/ma-devconnect-2027-f20d9c2e.webp": {
       "sha256": "593e44be7293c0cb1998be0355c8bbbecdb15fbafb5c455005a59e5db5e4fdd3",
       "status": "optimized"
@@ -2573,10 +2553,6 @@
       "sha256": "e48fadf03df93092c6ec6e320ba2cc37fa042f516fea2d83587ad061cae055e2",
       "status": "optimized"
     },
-    "/events/ma-solana-breakpoint-2027-1eb0c0ce.webp": {
-      "sha256": "9c0a0f53003ca2a3380aead955c3f46e258b4e21d2ef3f9b4bc56dd71ec22dc0",
-      "status": "optimized"
-    },
     "/events/ma-taipei-blockchain-week-2027-d8e6fe4d.webp": {
       "sha256": "e2827312ca38bb4e260de1f85703e8900699e3a1e436fbdb6e86f59610c7a584",
       "status": "optimized"
@@ -2600,10 +2576,6 @@
     "/events/mu-316325979-502bb720.webp": {
       "sha256": "8b25c115297fafca0aeffdface5dbd14bf08b5b0034bc2b183f24a30fbf95a90",
       "status": "optimized"
-    },
-    "/events/mu-316802686-b08fd60c.webp": {
-      "sha256": "2c4ede3c6c4ddf42e9befd3d72ab222275036ced260c883973a2917f8c3d2d5c",
-      "status": "retained"
     },
     "/events/north.webp": {
       "sha256": "e4dab08aeec64d7ba72414b0b10bc42e11c9fe00945556409ab9e83e645280f0",

@@ -1526,6 +1526,10 @@ async function refreshJobsCache() {
     { board: 'lido', company: 'Lido' },
     { board: 'mercuryo', company: 'Mercuryo' },
     { board: 'ambergroup', company: 'Amber Group' },
+    { board: 'yellowcard', company: 'Yellow Card' },
+    { board: 'fasset', company: 'Fasset' },
+    { board: 'bitcoin', company: 'Bitcoin.com' },
+    { board: 'uphold', company: 'Uphold' },
   ];
 
   for (const bh of BAMBOO_BOARDS) {
@@ -1538,7 +1542,8 @@ async function refreshJobsCache() {
           id: string;
           jobOpeningName: string;
           departmentLabel?: string;
-          atsLocation?: { city?: string; state?: string; country?: string };
+          atsLocation?: { city?: string | null; state?: string | null; country?: string | null };
+          location?: { city?: string | null; state?: string | null; postalCode?: string | null; addressCountry?: string | null; country?: string | null };
         }>;
       };
       removeJobs((job) => matchesRefreshedSource(job, 'BambooHR', bh.board, bh.company));
@@ -1556,14 +1561,29 @@ async function refreshJobsCache() {
             departmentLabel?: string;
             description?: string;
             datePosted?: string;
-            atsLocation?: { city?: string; state?: string; country?: string };
+            atsLocation?: { city?: string | null; state?: string | null; country?: string | null };
+            location?: { city?: string | null; state?: string | null; postalCode?: string | null; addressCountry?: string | null; country?: string | null };
           } };
         };
         const detail = detailData.result?.jobOpening;
         const title = cleanTitle(detail?.jobOpeningName || opening.jobOpeningName);
         const link = detail?.jobOpeningShareUrl || `https://${bh.board}.bamboohr.com/careers/${opening.id}`;
         if (!title) return;
-        const location = detail?.atsLocation || opening.atsLocation;
+        const loc = detail?.location?.city || (detail?.location as any)?.addressCountry
+          ? detail.location
+          : detail?.atsLocation?.city || detail?.atsLocation?.country
+          ? detail.atsLocation
+          : opening?.location?.city || (opening?.location as any)?.addressCountry
+          ? opening.location
+          : opening.atsLocation;
+        const city = loc?.city;
+        const state = loc?.state;
+        const country = loc?.country || (loc as any)?.addressCountry;
+        let rawLoc = [city, state, country].filter(Boolean).join(', ');
+        if (!rawLoc && (detail?.locationType === 1 || (detail as any)?.locationType === '1' || opening?.locationType === '1' || (opening as any)?.locationType === 1 || detail?.isRemote || opening?.isRemote)) {
+          rawLoc = 'Remote';
+        }
+        const location = rawLoc ? cleanJobLocation(rawLoc) : undefined;
         const candidate: CachedJob = {
           id: opening.id,
           title,
@@ -1571,7 +1591,7 @@ async function refreshJobsCache() {
           link,
           date: detail?.datePosted || '',
           source: sourceLabel('BambooHR', bh.board, bh.company),
-          location: [location?.city, location?.state, location?.country].filter(Boolean).join(', ') || undefined,
+          location,
           department: detail?.departmentLabel || opening.departmentLabel,
           active: true,
         };

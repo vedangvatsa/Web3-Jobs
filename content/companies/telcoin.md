@@ -1,12 +1,12 @@
 ---
 name: Telcoin
-website: 'https://www.telcoin.com'
+website: 'https://www.telco.in'
 category: Crypto Payments
 headquarters: Singapore
-description: "Telcoin, founded in 2017 by Paul Neuner and Claude Eguienta with headquarters in Los Angeles and Singapore, builds telecom-integrated crypto payments and remittance infrastructure. Its core products include Telcoin Mobile, stablecoin issuance and the Telcoin Network, a decentralized telecom validator layer that extends mobile carrier reach into compliant money movement. Focused on leveraging existing carrier billing and compliance relationships, Telcoin aims to bring fast, low-cost transfers and stablecoin rails to mobile users worldwide, particularly for remittances. Headquartered between the US and Singapore with a globally distributed team, the company navigates telecom regulation and financial licensing in tandem. It stewards open development alongside carrier partnerships and app distribution. Expect a mission-driven culture centered on financial inclusion, carrier collaboration and building compliant bridges between telecom and Web3 at scale."
-lastUpdated: 2026-09-04
+description: "Telcoin is revolutionizing global finance by uniting blockchain technology, digital banking, and telecommunications into a compliant Internet of Money. Founded in 2017 and headquartered between Los Angeles and Singapore, Telcoin operates Telcoin Digital Asset Bank (TDAB) — a Nebraska-chartered Digital Asset Depository Institution (DADI) that connects traditional bank accounts directly to bank-issued eUSD Digital Cash and stablecoin rails. The company offers the self-custodial Telcoin Wallet, low-cost global remittances to over 40 mobile money platforms in 20+ countries, and the Telcoin Network, an EVM-compatible layer 1 blockchain secured and validated by GSMA mobile network operators."
+lastUpdated: 2026-10-24
 ---
 
-Telcoin is an organization building technology in the cryptocurrency and Web3 ecosystem.
+Telcoin is a regulated blockchain banking and payments company uniting telecommunications, digital asset custody, and decentralized finance.
 
-The company actively hires professionals across software engineering, protocol design, product development, operations, and growth.
+Through Telcoin Digital Asset Bank, the company provides compliant on-chain banking services, bank-issued stablecoins (eUSD), and peer-to-peer remittances across global telecom networks.

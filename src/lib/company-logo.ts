@@ -182,6 +182,7 @@ const COMPANY_FAVICON_DOMAINS: Record<string, string> = {
   'mysten-labs': 'mystenlabs.com',
   'subzero-labs': 'subzerolabs.org',
   'transak': 'transak.com',
+  'telcoin': 'www.telco.in',
   'aspora': 'aspora.com',
   'augustus': 'augustus.com',
   'mural': 'muralpay.com',

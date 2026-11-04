@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-10-25",
+    "threadId": "E03",
+    "sequence": 8,
+    "platform": "threads",
+    "assetCommit": "85876169e9986b56909bcb64c8df324ab43b6d60",
+    "contentDigest": "2233536928d0b7dcfdf90d0f39c12024fb097b908da2360cf10be4355bb49241",
+    "posts": [
+      {
+        "number": 1,
+        "text": "The quiz has four archetypes. The Builder matches with Smart Contract Developer: writing on-chain dApp logic.\n\nPractice example: a local deposit/withdrawal contract with tests.",
+        "alt": "Career Quiz result for The Builder: Smart Contract Developer, writing on-chain dApp logic. Practice example beside the role card: a local deposit and withdrawal contract with tests.",
+        "image": "social-assets/knowledge-threads-month/images/E03-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "The Strategist matches with Web3 Product Manager: guiding a decentralized product's vision and roadmap.\n\nPractice example: a wallet-onboarding spec with connection, wrong-network and failed-transaction screens.",
+        "alt": "Career Quiz result for The Strategist: Web3 Product Manager, guiding a decentralized product's vision and roadmap. A wallet-onboarding specification is shown as a practice example.",
+        "image": "social-assets/knowledge-threads-month/images/E03-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "The Analyst matches with On-Chain Data Analyst, using tools such as Dune.\n\nPractice example: a query counting daily active wallets, with the chain, time window and wallet definition stated.",
+        "alt": "Career Quiz result for The Analyst: On-Chain Data Analyst, using tools such as Dune to analyze blockchain data. Practice example: a daily active-wallet query with its chain, time window and wallet definition stated.",
+        "image": "social-assets/knowledge-threads-month/images/E03-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "The Community Weaver matches with Community Manager, Marketing / Growth Lead and DevRel. The quiz describes Discord management.\n\nPractice example: a support queue with issue category, escalation owner and resolution note.",
+        "alt": "Career Quiz Community Manager card for The Community Weaver, describing Discord management. Practice example: a support queue recording the issue category, escalation owner and resolution.",
+        "image": "social-assets/knowledge-threads-month/images/E03-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "The fifth role match, Frontend/Web3 Developer, shares The Builder archetype with contract development.\n\nPractice example: a token-balance screen with disconnected, loading and RPC-error states.",
+        "alt": "Career Quiz Frontend/Web3 Developer card for The Builder: builds dApp interfaces. Practice example: a token-balance screen with disconnected, loading and RPC-error states.",
+        "image": "social-assets/knowledge-threads-month/images/E03-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "The Builder result recommends Smart Contract Developer, Frontend/Web3 Developer and Protocol Engineer.\n\nAnswer 16 questions to see your archetype and its three suggested roles.\n\nhashtagweb3.com/web3-career-quiz/th",
+        "alt": "The Builder's three Career Quiz role cards: Smart Contract Developer writes on-chain dApp logic; Frontend/Web3 Developer builds dApp interfaces; Protocol Engineer works on core blockchain infrastructure.",
+        "image": "social-assets/knowledge-threads-month/images/E03-06.jpg"
+      }
+    ],
+    "assets": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-01.jpg",
+        "sha256": "6fdb8bcd987289c98c408bd7235aa01aac0fde6eb3c5aea9d85e28d95fda32a9",
+        "bytes": 104556,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Career Quiz result for The Builder: Smart Contract Developer, writing on-chain dApp logic. Practice example beside the role card: a local deposit and withdrawal contract with tests.",
+        "renderedText": "Career quiz\n\nThe Builder writes on-chain logic\n\nCareer quiz match\n\nPractice task\n\nExample task: local deposit/withdrawal contract and tests\n\nHashtag Web3 career quiz\n\nE03 · 1/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/85876169e9986b56909bcb64c8df324ab43b6d60/social-assets/knowledge-threads-month/images/E03-01.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-02.jpg",
+        "sha256": "9b83b6f5f7b21eb7ef1fa2836889cc5b5295a60e75b3222ad3008fc586a33e87",
+        "bytes": 108043,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Career Quiz result for The Strategist: Web3 Product Manager, guiding a decentralized product's vision and roadmap. A wallet-onboarding specification is shown as a practice example.",
+        "renderedText": "Career quiz\n\nThe Strategist plans the product\n\nCareer quiz match\n\nPractice task\n\nExample output: wallet-onboarding specification\n\nHashtag Web3 career quiz\n\nE03 · 2/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/85876169e9986b56909bcb64c8df324ab43b6d60/social-assets/knowledge-threads-month/images/E03-02.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-03.jpg",
+        "sha256": "34f39a564bb82fe595d6be546e8a57c6975e865870d0227ce9472cb1f87738c7",
+        "bytes": 114345,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Career Quiz result for The Analyst: On-Chain Data Analyst, using tools such as Dune to analyze blockchain data. Practice example: a daily active-wallet query with its chain, time window and wallet definition stated.",
+        "renderedText": "Career quiz\n\nThe Analyst investigates blockchain data\n\nCareer quiz match\n\nPractice task\n\nExample output: daily active-wallet query with definitions\n\nHashtag Web3 career quiz\n\nE03 · 3/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/85876169e9986b56909bcb64c8df324ab43b6d60/social-assets/knowledge-threads-month/images/E03-03.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-04.jpg",
+        "sha256": "1a098f62e36e6f804039790c151fcda337e5a3c1856800af1f90f39a2f99ac93",
+        "bytes": 115487,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Career Quiz Community Manager card for The Community Weaver, describing Discord management. Practice example: a support queue recording the issue category, escalation owner and resolution.",
+        "renderedText": "Career quiz\n\nThe Community Weaver organizes support\n\nCareer quiz match\n\nPractice task\n\nExample output: support queue with owner and resolution\n\nHashtag Web3 career quiz\n\nE03 · 4/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/85876169e9986b56909bcb64c8df324ab43b6d60/social-assets/knowledge-threads-month/images/E03-04.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-05.jpg",
+        "sha256": "df20ac4f05aaa22fb2acb02023dd07c95eca1462d366ff24b2362a9c0effec41",
+        "bytes": 114141,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Career Quiz Frontend/Web3 Developer card for The Builder: builds dApp interfaces. Practice example: a token-balance screen with disconnected, loading and RPC-error states.",
+        "renderedText": "Career quiz\n\nThe Builder also designs dApp interfaces\n\nCareer quiz match\n\nPractice task\n\nExample output: disconnected, loading and RPC-error states\n\nHashtag Web3 career quiz\n\nE03 · 5/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/85876169e9986b56909bcb64c8df324ab43b6d60/social-assets/knowledge-threads-month/images/E03-05.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-06.jpg",
+        "sha256": "7700f23d1c9bb635faad59288c362349b0c4e517b11159d8bb55876e3d595479",
+        "bytes": 119938,
+        "width": 1200,
+        "height": 1500,
+        "alt": "The Builder's three Career Quiz role cards: Smart Contract Developer writes on-chain dApp logic; Frontend/Web3 Developer builds dApp interfaces; Protocol Engineer works on core blockchain infrastructure.",
+        "renderedText": "Career quiz\n\nThe Builder: three role matches\n\nHashtag Web3 career quiz · 16 questions\n\nE03 · 6/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/85876169e9986b56909bcb64c8df324ab43b6d60/social-assets/knowledge-threads-month/images/E03-06.jpg"
+      }
+    ]
+  },
+  "accountId": "28140464265581606",
+  "claimId": "a5d76b0c-dda5-4d68-b4ed-d917fc2eeb09",
+  "startedAt": "2026-10-25T11:31:40.594Z",
+  "status": "verified",
+  "steps": {
+    "0": {
+      "createClaim": "a0d9fd71-57cf-4fdf-9178-83a58f78b937",
+      "startedAt": "2026-10-25T11:31:41.648Z",
+      "status": "verified",
+      "containerId": "18098455889199925",
+      "publishClaim": "d0edfab3-4d65-4beb-abcb-81d7e5994f0d",
+      "postId": "18118361878792661",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/De6m0uWlaHu",
+      "verifiedAt": "2026-10-25T11:31:57.065Z"
+    },
+    "1": {
+      "createClaim": "3c85f3e3-05eb-44b5-af01-39618c10bc8e",
+      "startedAt": "2026-10-25T11:31:58.151Z",
+      "status": "verified",
+      "replyTo": "18118361878792661",
+      "containerId": "18098455922199925",
+      "publishClaim": "a7c4ada8-5ddf-4346-a289-ebff7a997e02",
+      "postId": "17992636899114804",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/De6m2wFlbR-",
+      "verifiedAt": "2026-10-25T11:32:11.281Z"
+    },
+    "2": {
+      "createClaim": "39930851-7513-4249-961b-f9acf2767967",
+      "startedAt": "2026-10-25T11:32:16.487Z",
+      "status": "verified",
+      "replyTo": "17992636899114804",
+      "containerId": "18098455970199925",
+      "publishClaim": "450ab0a3-6438-4e81-ac17-ec527d88e883",
+      "postId": "17903338386377338",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/De6m4-DlU5-",
+      "verifiedAt": "2026-10-25T11:32:28.972Z"
+    },
+    "3": {
+      "createClaim": "f6845fe1-ec84-4c0d-93eb-742b5aacdd83",
+      "startedAt": "2026-10-25T11:32:30.037Z",
+      "status": "verified",
+      "replyTo": "17903338386377338",
+      "containerId": "18098456066199925",
+      "publishClaim": "c3ff272d-b1d1-482d-afb9-d6a3f08a53a1",
+      "postId": "18122509801821701",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/De6m6npleiB",
+      "verifiedAt": "2026-10-25T11:32:50.188Z"
+    },
+    "4": {
+      "createClaim": "1b9a1226-57ff-461a-a37c-753f19fc5841",
+      "startedAt": "2026-10-25T11:32:51.479Z",
+      "status": "verified",
+      "replyTo": "18122509801821701",
+      "containerId": "18098456162199925",
+      "publishClaim": "a2191d02-dd73-4708-9465-f315b2852013",
+      "postId": "18129099112873396",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/De6m9R7leeu",
+      "verifiedAt": "2026-10-25T11:33:21.173Z"
+    },
+    "5": {
+      "createClaim": "bca38553-f0ab-4c42-b9de-0b96d96c0421",
+      "startedAt": "2026-10-25T11:33:22.359Z",
+      "status": "verified",
+      "replyTo": "18129099112873396",
+      "containerId": "18098456300199925",
+      "publishClaim": "bf1493ce-f035-42b2-ae7f-e5da1717800b",
+      "postId": "17866780446676862",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/De6nBAzFZ-Z",
+      "verifiedAt": "2026-10-25T11:33:40.853Z"
+    }
+  },
+  "permalink": "https://www.threads.com/@hashtagweb3/post/De6m0uWlaHu",
+  "verifiedAt": "2026-10-25T11:33:41.998Z"
+}

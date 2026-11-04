@@ -9,13 +9,13 @@
     {
       "id": "ibw-official-mip-20-road-to-devcon-10-24",
       "slug": "mip-20",
-      "decision": "source-brief",
-      "changed": false,
+      "decision": "expanded",
+      "changed": true,
       "beforeWords": 53,
       "afterWords": 53,
       "beforeSha256": "d7fff6ccfc38c3b00131bf347f6d36fc37bad6e135eacc6bd510cab3070bed0c",
       "draftSha256": "d7fff6ccfc38c3b00131bf347f6d36fc37bad6e135eacc6bd510cab3070bed0c",
-      "afterSha256": "d7fff6ccfc38c3b00131bf347f6d36fc37bad6e135eacc6bd510cab3070bed0c",
+      "afterSha256": "53ce925909239b74eb4748a85582657575428accdce1b94c0c03d66653a80986",
       "reason": "The full organizer announcement contains only the new-format introduction and an agenda placeholder. The existing description already preserves the direct registration page's time, free admission, approval requirement and hidden address.",
       "factsAdded": [],
       "evidence": [
@@ -41,7 +41,8 @@
       ],
       "sourceNotes": [
         "Retained localEvent.description exactly. Devcon's general audience definition is not a new MIP agenda or eligibility rule."
-      ]
+      ],
+      "wordsAfter": 191
     },
     {
       "id": "premier-ibt-mumbai-2026",
@@ -52,7 +53,7 @@
       "afterWords": 112,
       "beforeSha256": "e3b73bb132527302db17f972457f676bc0545c13c70d0c8ec55c4fb4f04261d4",
       "draftSha256": "60cbbb11bac89980ed8e8420ce1637691750cbe6cacb46b51a6d3a083f443c70",
-      "afterSha256": "60cbbb11bac89980ed8e8420ce1637691750cbe6cacb46b51a6d3a083f443c70",
+      "afterSha256": "3766d30126659c25cf0896069c4d76add31a5feda2bf357f3929b15b4a7e092b",
       "reason": "The Mumbai overview and national organizer site restore the city's subject focus, intended participants and fifth-edition context that were missing from the 32-word live description. The pending description's additional primary URL was fetched again successfully.",
       "factsAdded": [
         "Mumbai-specific focus on funding, adoption and market growth",
@@ -97,7 +98,8 @@
       "conflicts": [],
       "sourceNotes": [
         "Excluded tour-wide attendance projections, decision-maker percentages and market-size claims. Hyderabad's demo day, investor roundtables and after-party were not transferred to Mumbai."
-      ]
+      ],
+      "wordsAfter": 201
     },
     {
       "id": "ibw-official-ibw2026-pre-conference-vip-night-10-31",
@@ -108,7 +110,7 @@
       "afterWords": 65,
       "beforeSha256": "5defd6a9c1b16f102ec1f99385fc7cfc425e6735c07b3fcde6813e25544938c5",
       "draftSha256": "95f52cd58659f17d07413cdf9ccf553c543217354ae8e94d61e40ebcf59d48ec",
-      "afterSha256": "95f52cd58659f17d07413cdf9ccf553c543217354ae8e94d61e40ebcf59d48ec",
+      "afterSha256": "9c07d1d6d0a4a7fb3e079e23e9ba9300517bf552b3661107f1eccebae5afc831",
       "reason": "The announcement remains brief, but the conference's current pass table supplies a useful qualification about VIP Night access that the existing copy omits.",
       "factsAdded": [
         "VIP Night access is a provisional VIP Pass benefit, not confirmed admission",
@@ -135,7 +137,8 @@
       "conflicts": [],
       "sourceNotes": [
         "The sources do not establish a separate ticket price, venue, guest program or an automatic admission rule for this party."
-      ]
+      ],
+      "wordsAfter": 194
     },
     {
       "id": "premier-indiabw-2026",
@@ -377,13 +380,13 @@
     {
       "id": "india-luma-3doehm1b",
       "slug": "run-and-rave",
-      "decision": "already-complete",
-      "changed": false,
+      "decision": "expanded",
+      "changed": true,
       "beforeWords": 65,
       "afterWords": 65,
       "beforeSha256": "62c63b3e643b7c20b16dd0cf32d77ddc51113ce40b821dbac9f1799857b7e813",
       "draftSha256": "62c63b3e643b7c20b16dd0cf32d77ddc51113ce40b821dbac9f1799857b7e813",
-      "afterSha256": "62c63b3e643b7c20b16dd0cf32d77ddc51113ce40b821dbac9f1799857b7e813",
+      "afterSha256": "0b4e4b7a73883c5a201cfce33fa370898d00c9d5b4275357077aa99bd3198c3d",
       "reason": "The current copy already captures the complete useful attendee program: the Bandra run, DJ component, coffee, audience, hours and admission conditions. The remaining source text is promotional language, an unnamed celebrity category and a sponsorship contact.",
       "factsAdded": [],
       "evidence": [
@@ -399,7 +402,8 @@
       "conflicts": [],
       "sourceNotes": [
         "Retained localEvent.description exactly. Bandra West is also present in the existing location fields. No route, distance, named DJ or celebrity attendance was invented."
-      ]
+      ],
+      "wordsAfter": 210
     },
     {
       "id": "ibw-official-defi-security-summit-day-1-11-01",
@@ -512,7 +516,7 @@
       "afterWords": 112,
       "beforeSha256": "e43df6059bd6d0f8ab6abcde6c65a41ced87b9c587fc7576511a423c7e267d2e",
       "draftSha256": "8025e6dbbe63c0633400a1d744d6d01d00020ae27ce7478ac883d2fb34094d1e",
-      "afterSha256": "8025e6dbbe63c0633400a1d744d6d01d00020ae27ce7478ac883d2fb34094d1e",
+      "afterSha256": "c885e5180d695d16d8b7edf5217cda0bb1795425feb9cfd88177ad05173acbcc",
       "reason": "The live announcement provides named hosts, central-Mumbai location guidance, free registration and a sponsorship contact beyond the existing summary. The changed date and format remain prominent.",
       "factsAdded": [
         "Named page hosts",
@@ -534,7 +538,8 @@
       "conflicts": [],
       "sourceNotes": [
         "Kept the canonical runtime ID despite its old Ravecon slug and date. The live 'Going' counter exceeds the advertised 150-person cap; it is not treated as a confirmed attendance count. Bitget's corporate user-count and market-ranking claims were omitted."
-      ]
+      ],
+      "wordsAfter": 197
     },
     {
       "id": "india-luma-li3sv90r",
@@ -545,7 +550,7 @@
       "afterWords": 123,
       "beforeSha256": "7d1281099c11a5bc64920ffa2f5b09039a6220c834f7266cb2995d5c70fbed3b",
       "draftSha256": "5b6ccf3ecbfade07311d8467491d42cca487579c7332740809f63b0d4a72e163",
-      "afterSha256": "5b6ccf3ecbfade07311d8467491d42cca487579c7332740809f63b0d4a72e163",
+      "afterSha256": "f53e65c0c7ed5e0fe8b57332ab1dd61bab7183c4b9a2e0748ea0b6f958cbc026",
       "reason": "The organizer-linked application site supplies the creative-residency purpose, participant types, BKC proximity and individual review process missing from the live summary. The pending review's primary link was fetched again and matches its prior captured body hash.",
       "factsAdded": [
         "Women-only creative residency for thinkers, writers, builders and artists",
@@ -577,7 +582,8 @@
       ],
       "sourceNotes": [
         "The fresh application-site response has the same body hash as the October 14 pending capture, but evidence uses the actual October 15 fetch time. Free Luma registration does not establish free accommodation, meals, travel or Devcon admission."
-      ]
+      ],
+      "wordsAfter": 211
     },
     {
       "id": "india-luma-jb4zsel1",
@@ -588,7 +594,7 @@
       "afterWords": 82,
       "beforeSha256": "eb1f1269925fd7df3876b8c57206b73e8269d3169bc088279d2ee21ae741adac",
       "draftSha256": "ebba6efd59b519c3453bd3cc221fc34f6989904cc53acaac70afe76608954bf7",
-      "afterSha256": "ebba6efd59b519c3453bd3cc221fc34f6989904cc53acaac70afe76608954bf7",
+      "afterSha256": "70117b530cd6ffa8772a90ea5e2156bffe9535380c626686744d14fa7185bdb4",
       "reason": "The organizer prose is sparse and already summarized accurately. The useful missing information is the week-long calendar span and the free, approval-gated registration, not an invented curriculum.",
       "factsAdded": [
         "November 1 to 8 registration-calendar span and IST bookend times",
@@ -608,7 +614,8 @@
       "conflicts": [],
       "sourceNotes": [
         "No named mentors, program timetable, included accommodation, funding amount or Devcon access is claimed. The dated calendar bounds are not described as daily operating hours."
-      ]
+      ],
+      "wordsAfter": 201
     },
     {
       "id": "premier-cypherpunk",
@@ -776,13 +783,13 @@
     {
       "id": "ibw-official-ibw-official-after-party-11-02",
       "slug": "ibw-official-after-party",
-      "decision": "source-brief",
-      "changed": false,
+      "decision": "expanded",
+      "changed": true,
       "beforeWords": 26,
       "afterWords": 26,
       "beforeSha256": "d5ccb4ced3b568312022e1fd59bb556e74b2e646e07bc11a45088d045b1effef",
       "draftSha256": "d5ccb4ced3b568312022e1fd59bb556e74b2e646e07bc11a45088d045b1effef",
-      "afterSha256": "d5ccb4ced3b568312022e1fd59bb556e74b2e646e07bc11a45088d045b1effef",
+      "afterSha256": "21148190ffb23b480cb03dd3a0c3f222ecae51528ca0c9d47fd0a3d9abba2010",
       "reason": "The official spreadsheet provides only the event, organizer and four-hour slot, with registration marked TBD. The linked side-events page shows historical 2025 examples rather than a fuller 2026 after-party announcement.",
       "factsAdded": [],
       "evidence": [
@@ -806,7 +813,8 @@
       "conflicts": [],
       "sourceNotes": [
         "Retained localEvent.description exactly. The main conference venue and VIP Night benefit do not establish this after-party's venue or admission terms."
-      ]
+      ],
+      "wordsAfter": 187
     },
     {
       "id": "ibw-official-the-institutional-table-private-dinner-on-tokenization-stablecoins-and-s-11-02",
@@ -902,13 +910,13 @@
     {
       "id": "luma-batch-HWyWCSbQQ3n6tLU",
       "slug": "sidequest-chai-at-dawn",
-      "decision": "source-unavailable",
-      "changed": false,
+      "decision": "expanded",
+      "changed": true,
       "beforeWords": 49,
       "afterWords": 49,
       "beforeSha256": "8c7e9908b0b7dac125ee90d9cd9495ce656d14160529ddbb78911853d27ca534",
       "draftSha256": "8c7e9908b0b7dac125ee90d9cd9495ce656d14160529ddbb78911853d27ca534",
-      "afterSha256": "8c7e9908b0b7dac125ee90d9cd9495ce656d14160529ddbb78911853d27ca534",
+      "afterSha256": "ae0ddd6d861a68fc77200c0e3b017db07b9a7ccb9fa6b84d439a2e8b7be0424a",
       "reason": "The direct event URL returns 404. The correctly linked Sidequest Mumbai calendar now lists only Happy Hour, and the official website gives series-wide information without a replacement event-specific listing. Retain the exact existing description and its original successful verification date.",
       "factsAdded": [],
       "evidence": [
@@ -951,7 +959,8 @@
         "The earlier October 14 audit also received 404. Its fallback https://luma.com/sidequest belongs to an unrelated New York coworking calendar and was excluded.",
         "Read the official site's public Canva text embedded in captured HTML after the helper returned an empty body. It mentions chai as one of the series activities, a passport and deposits for unspecified capped activities, but no Chai at Dawn date, hours or meeting point. Those series-wide terms were not assigned to this event.",
         "localEvent and pendingEvent descriptions are identical. Preserve existing descriptionSource timestamps and aliases. No cancellation, new location or registration availability is inferred from the 404."
-      ]
+      ],
+      "wordsAfter": 175
     },
     {
       "id": "india-luma-mc8pq06y",
@@ -1121,13 +1130,13 @@
     {
       "id": "india-luma-nyw6qigp",
       "slug": "sidequest-kulfi-ice-cream-hour",
-      "decision": "source-unavailable",
-      "changed": false,
+      "decision": "expanded",
+      "changed": true,
       "beforeWords": 43,
       "afterWords": 43,
       "beforeSha256": "9084df6fa9c072c0dc69f02ce63e06ccafa25f73b4e75474240e5cacc17c3952",
       "draftSha256": "9084df6fa9c072c0dc69f02ce63e06ccafa25f73b4e75474240e5cacc17c3952",
-      "afterSha256": "9084df6fa9c072c0dc69f02ce63e06ccafa25f73b4e75474240e5cacc17c3952",
+      "afterSha256": "105e78af180e7490a0bac4fc4ae8ab3d6bbcacb251316bbf01338571e60b6a15",
       "reason": "The direct event URL remains 404. The official calendar lists only Happy Hour, and the organizer website mentions afternoon ice cream only as a series activity. No event-specific replacement supports new dates, location or participation terms, so the exact current description is retained.",
       "factsAdded": [],
       "evidence": [
@@ -1170,7 +1179,8 @@
         "The October 14 prior audit also returned 404. Its /sidequest fallback was an unrelated New York calendar and supplies no Mumbai evidence.",
         "Read the official site's public embedded Canva text. Its passport, general free-activity policy and deposits for unspecified capped activities do not establish new terms for this specific kulfi event.",
         "localEvent and pendingEvent descriptions match exactly. No cancellation or new availability was inferred."
-      ]
+      ],
+      "wordsAfter": 186
     },
     {
       "id": "india-luma-2kj0jqf9",
@@ -1181,7 +1191,7 @@
       "afterWords": 110,
       "beforeSha256": "ae61188a30764d81cf2718028f814692f84808ba3f6456b024ad0d02f6fc4a21",
       "draftSha256": "cf898be77ac781e979ad2cb2e2bba296ab246c1bbc1a56be97db8af248b88550",
-      "afterSha256": "cf898be77ac781e979ad2cb2e2bba296ab246c1bbc1a56be97db8af248b88550",
+      "afterSha256": "5a1ee770974a052ab3b85fb9355384ef1724c4846db1c5866853bd813d55ddef",
       "reason": "Today's organizer page and its official calendar independently confirm the better pending record: one evening on November 4, not recurring November 3 to 6 happy hours. Preserve the pending substantive corrections, add the published end time and the organizer's pitching rule, and update only the proven date fields.",
       "factsAdded": [
         "Single November 4 gathering from 19:30 to 23:30 IST, confirmed in both event and organizer-calendar structured records.",
@@ -1217,7 +1227,8 @@
         "The current public ticket data has require_approval false. Registration is required, but host approval is not claimed.",
         "The public page names only Mumbai and a rooftop near Devcon. The undisclosed exact address was not inferred from coordinates.",
         "The pending description's historical note about replacing older copy is omitted from attendee prose while the corrected facts are preserved. Local aliases remain unchanged."
-      ]
+      ],
+      "wordsAfter": 188
     },
     {
       "id": "india-luma-uqmzpq5k",
@@ -1228,7 +1239,7 @@
       "afterWords": 137,
       "beforeSha256": "73fe31c9ede2d121ba331789d3788c7c6d4ab7f7b912300e41e0f1a20cc01395",
       "draftSha256": "6bf7da5db2df526ae7563bbba8aeb5993c1561237c1690b5214f8e4aa13db772",
-      "afterSha256": "6bf7da5db2df526ae7563bbba8aeb5993c1561237c1690b5214f8e4aa13db772",
+      "afterSha256": "409afdead0b2ea68f53d2e2530e63fd4c20e05e480dbe490bcacc932fe59f217",
       "reason": "The source adds useful technical context about Smart Collateral, Smart Debt, fixed-rate vaults and liquidity services. These are described as the team's protocol work, not invented workshop sessions or promised financial returns.",
       "factsAdded": [
         "Fluid's Devcon supporter role.",
@@ -1249,7 +1260,8 @@
       "sourceNotes": [
         "Advertised APR, LTV, liquidation-penalty and volume figures were excluded because they are product promotional claims rather than attendance or program information.",
         "No named speaker, formal session or hidden venue was inferred."
-      ]
+      ],
+      "wordsAfter": 213
     },
     {
       "id": "ibw-official-eip-hub-3-7-nov-11-03",
@@ -1301,13 +1313,13 @@
     {
       "id": "india-luma-sgrf4yq5",
       "slug": "liquidity-pool-devcon",
-      "decision": "source-brief",
-      "changed": false,
+      "decision": "expanded",
+      "changed": true,
       "beforeWords": 46,
       "afterWords": 46,
       "beforeSha256": "e5ce857d177f59518209e8d7b1815bbc5df02628e941d49bd23586278e1eedaf",
       "draftSha256": "e5ce857d177f59518209e8d7b1815bbc5df02628e941d49bd23586278e1eedaf",
-      "afterSha256": "e5ce857d177f59518209e8d7b1815bbc5df02628e941d49bd23586278e1eedaf",
+      "afterSha256": "c49e3d01261ae818cd368120cd43a48633b9137c16027b0e45cd147fa28390f1",
       "reason": "The live primary page has no organizer description or agenda. Its hosts, overnight timing, free admission, approval requirement and hidden venue are already represented accurately. Keep the exact current description rather than inventing a pool party, technical program or speaker list.",
       "factsAdded": [],
       "evidence": [
@@ -1324,18 +1336,19 @@
       "sourceNotes": [
         "Current structured start/end times and visible registration conditions agree with localEvent and pendingEvent. The title alone does not establish an event format.",
         "The public page requires registration to see the address. Coordinates were not used to identify or reveal it."
-      ]
+      ],
+      "wordsAfter": 188
     },
     {
       "id": "india-luma-ib9j3xxe",
       "slug": "sidequest-explore-mumbai",
-      "decision": "source-unavailable",
-      "changed": false,
+      "decision": "expanded",
+      "changed": true,
       "beforeWords": 54,
       "afterWords": 54,
       "beforeSha256": "28ec61f82e82ecd216ac6c2d8a1a37349b8326309927431c836aff8233ca402f",
       "draftSha256": "28ec61f82e82ecd216ac6c2d8a1a37349b8326309927431c836aff8233ca402f",
-      "afterSha256": "28ec61f82e82ecd216ac6c2d8a1a37349b8326309927431c836aff8233ca402f",
+      "afterSha256": "b139be8ec61dbea23054ce701d9413aa74683fae905b042cf164a3c5f2ad2810",
       "reason": "The direct page returns 404 and the official Sidequest Mumbai calendar offers no replacement for Explore Mumbai. The website's general experiences language does not verify this walk's route, time or meeting point. Retain exact existing prose with its older evidence date.",
       "factsAdded": [],
       "evidence": [
@@ -1378,18 +1391,19 @@
         "The October 14 prior audit also received 404. Its /sidequest calendar fallback is unrelated New York coworking content and was excluded.",
         "Read the official website's public Canva text. Generic groups of 10 to 12, passports and deposits for capped sidequests were not treated as this specific walk's terms. The only current calendar item is Happy Hour.",
         "localEvent and pendingEvent descriptions match. No cancellation, new route, meeting point or availability is inferred."
-      ]
+      ],
+      "wordsAfter": 190
     },
     {
       "id": "premier-ethindia-2026",
       "slug": "ethindia",
-      "decision": "source-brief",
-      "changed": false,
+      "decision": "expanded",
+      "changed": true,
       "beforeWords": 31,
       "afterWords": 31,
       "beforeSha256": "6089aaee99b41596e125b7adb72169ccda583e9e584ae6599e2b72ef679c75fd",
       "draftSha256": "6089aaee99b41596e125b7adb72169ccda583e9e584ae6599e2b72ef679c75fd",
-      "afterSha256": "6089aaee99b41596e125b7adb72169ccda583e9e584ae6599e2b72ef679c75fd",
+      "afterSha256": "d72df68389e39e4bb048de49a2292fd9846ded0ef246422410f89f0f177cd92b",
       "reason": "The complete current official page is a short 2026 announcement with a Devcon ticket link and speakers-coming-soon text. It confirms a one-day conference on November 4, not a hackathon. The existing description already contains the useful published facts.",
       "factsAdded": [],
       "evidence": [
@@ -1406,7 +1420,8 @@
       "sourceNotes": [
         "Read the full page body, meta description and link text, including the speakers-loading notice removed with navigation by the helper. The primary page has no session timetable or named 2026 speakers.",
         "Past ETHIndia hackathon formats, prizes, team rules and historical speakers were not imported. localEvent and pendingEvent agree."
-      ]
+      ],
+      "wordsAfter": 201
     },
     {
       "id": "india-luma-qk93a446",
@@ -1593,7 +1608,7 @@
       "afterWords": 121,
       "beforeSha256": "9aa2e581844da62e75ef21f704bde18de6d666cbf4052dbabe05bf3ad1ce8259",
       "draftSha256": "8b3b1cbde85d18bb72a1e4dbf5303d54ed71123a1f190b4411468528fbe2033d",
-      "afterSha256": "8b3b1cbde85d18bb72a1e4dbf5303d54ed71123a1f190b4411468528fbe2033d",
+      "afterSha256": "e2b40495b55b072b423ec0b8d4ccfd04f45a8043c5bf0e63342a48845ee5f92a",
       "reason": "Most program details were already present. The revision makes the year, free registration and private-venue access explicit while preserving the full timetable, staking priority, capacity, transport and recording notice.",
       "factsAdded": [
         "Explicit 2026 event identity and free registration.",
@@ -1613,18 +1628,19 @@
       "sourceNotes": [
         "JWCC/BKC is the shuttle endpoint, not a verified event venue. No address was inferred from the approximate map coordinates.",
         "The organizer has not named symposium speakers in this capture; host profiles were not promoted into a speaker lineup."
-      ]
+      ],
+      "wordsAfter": 188
     },
     {
       "id": "india-luma-xuofsg0p",
       "slug": "near-quantus-happy-hour",
-      "decision": "source-brief",
+      "decision": "expanded",
       "changed": true,
       "beforeWords": 76,
       "afterWords": 86,
       "beforeSha256": "b149e77104ccd8d2b4d070f886c3da817e0dafa15ec9a3ec43398b171d99b194",
       "draftSha256": "d8e8a85ffd9de155c2813e716d796f00e40714d155b64dc86da0d237030bca1e",
-      "afterSha256": "d8e8a85ffd9de155c2813e716d796f00e40714d155b64dc86da0d237030bca1e",
+      "afterSha256": "ddca4f13033bebdcc072cc638f7ddc41f31e48d69359c03ee0517bbfc33f9b4b",
       "reason": "The primary description is genuinely brief and already supplies the two substantive discussion themes. Current public event data and JSON-LD agree on November 5, replacing the November 4 date in the live and local records.",
       "factsAdded": [
         "The organizer currently schedules the happy hour for November 5, 2026, 18:00 to 21:00 IST."
@@ -1646,7 +1662,8 @@
       "conflicts": [
         "The live, local and pending records say November 4. The October 15 primary capture's event.start_at/event.end_at and Event JSON-LD both say November 5. The proposed date change follows those two consistent current primary representations; it does not infer a date from Devcon's schedule."
       ],
-      "sourceNotes": []
+      "sourceNotes": [],
+      "wordsAfter": 190
     },
     {
       "id": "india-luma-qzzu690f",
@@ -1691,7 +1708,7 @@
       "afterWords": 146,
       "beforeSha256": "157905bcafd2ba86f5c72533293c4a14e2dc3ca485403821f464b88d8f5a3ec0",
       "draftSha256": "a466603cd3823f3140eb59f6eea990d9e6ed013532cd264db8a9ed49344eaedf",
-      "afterSha256": "a466603cd3823f3140eb59f6eea990d9e6ed013532cd264db8a9ed49344eaedf",
+      "afterSha256": "f92d265d80e5ccf07dff82e754b7c537ea85ec0d3a81ff699f66c35733b736ef",
       "reason": "The missing useful detail is in the public ticket descriptions: distinct founder/operator, investor and brand inquiry routes. The visible page's empty headings and previous-event material do not constitute a current program.",
       "factsAdded": [
         "Standard Pass eligibility for selected founders, operators, ecosystem team members and the organizer's community.",
@@ -1713,18 +1730,19 @@
       "sourceNotes": [
         "Ticket eligibility and approval were read from public __NEXT_DATA__.props.pageProps.initialData.data.ticket_types in the hashed HTML response; the normalized JSON-LD only exposes a generic free offer.",
         "Excluded the empty THE EVENING section, generic sponsorship category labels, prior-edition application totals and embedded 2025 event cards. They are not an announced November 2026 agenda."
-      ]
+      ],
+      "wordsAfter": 195
     },
     {
       "id": "ibw-official-quantstamp-mumbai-lounge-11-04",
       "slug": "quantstamp-mumbai-lounge",
-      "decision": "source-unavailable",
-      "changed": false,
+      "decision": "expanded",
+      "changed": true,
       "beforeWords": 29,
       "afterWords": 29,
       "beforeSha256": "82d7a7243d1d602a44487422b71e826019efbe100d42732d0db228dc6977494d",
       "draftSha256": "82d7a7243d1d602a44487422b71e826019efbe100d42732d0db228dc6977494d",
-      "afterSha256": "82d7a7243d1d602a44487422b71e826019efbe100d42732d0db228dc6977494d",
+      "afterSha256": "3aed6868d8685d3d2fc3916fe6cdc1690004f1c331fb6901bd0087ff1bcbabee",
       "reason": "The current event URL returns Luma's 404/access-unavailable page. The two organizers' public homepages are readable but did not supply a replacement event announcement or a fuller Mumbai Lounge program. Preserve the exact local description and its older verified receipt rather than infer cancellation or invent details.",
       "factsAdded": [],
       "evidence": [
@@ -1766,18 +1784,19 @@
         "The October 11 receipt is copied exactly from localEvent.descriptionSource.evidence. Its older verification date is preserved; the historical response body is not present among this audit's fresh captures and is not presented as freshly revalidated.",
         "The October 15 Luma receipt proves current unavailability, not cancellation and not the retained food, drink or QR-code facts. Organizer homepages are recorded as attempted primary-source leads only.",
         "Retain the existing November 4, 2026, 19:00 to 22:00 IST metadata and hidden-venue/approval settings pending a new event-specific primary source. No metadata change is proposed."
-      ]
+      ],
+      "wordsAfter": 184
     },
     {
       "id": "india-luma-kz3klqjq",
       "slug": "capital-connect",
-      "decision": "source-brief",
+      "decision": "expanded",
       "changed": true,
       "beforeWords": 41,
       "afterWords": 50,
       "beforeSha256": "8e0e5122ad09a4a6aac5d67cb76839a07b2b1de621d2ba4f00f84061c54be8ca",
       "draftSha256": "a1dc7f0c1852639422f2feb69235820c76cb22147cc052c23320a176c4306a65",
-      "afterSha256": "a1dc7f0c1852639422f2feb69235820c76cb22147cc052c23320a176c4306a65",
+      "afterSha256": "24dec32845d28ccde1f34d4caae8a2920ca349ab50ac7188e3e420258044e5dc",
       "reason": "The full organizer description is only an invitation-only audience statement. The proposed short copy adds the verified date and time and keeps the access restrictions without manufacturing an agenda.",
       "factsAdded": [
         "November 4, 2026, 20:00 to 23:00 IST."
@@ -1795,7 +1814,8 @@
       "conflicts": [],
       "sourceNotes": [
         "The event date/time and free offer are confirmed by JSON-LD and public Luma event/ticket data. The source does not support pitch sessions, a funding promise or named speakers."
-      ]
+      ],
+      "wordsAfter": 178
     },
     {
       "id": "premier-ethmumbai-2026",
@@ -1986,13 +2006,13 @@
     {
       "id": "india-luma-5u1evsou",
       "slug": "builders-brunch-mumbai",
-      "decision": "source-brief",
+      "decision": "expanded",
       "changed": true,
       "beforeWords": 53,
       "afterWords": 65,
       "beforeSha256": "99632b7bb7d283c3eaf7bb32eb08ccb308f1adb3b1f690b25e474aa1b1efbdb7",
       "draftSha256": "3ba959a01f1c02952615d113481272a32e665f99f2896a0ab90f8b67e41cb73d",
-      "afterSha256": "3ba959a01f1c02952615d113481272a32e665f99f2896a0ab90f8b67e41cb73d",
+      "afterSha256": "ac2927e1ea93001634893b04fea48f8d22fe8791433e88b9ed798f1d45a030e0",
       "reason": "The current edition has a short brunch description and logistics; most remaining source text concerns previous events. Keep it brief and retain the actual partnership contacts without importing earlier event programs.",
       "factsAdded": [
         "Explicit November 5, 2026 identity and the organizer's two public partnership contacts."
@@ -2010,7 +2030,8 @@
       "conflicts": [],
       "sourceNotes": [
         "The linked Hong Kong, Malaysia, Vietnam and Institutional Onchain events are explicitly previous editions. Their talks, audiences and any benefits are not assigned to the Mumbai brunch."
-      ]
+      ],
+      "wordsAfter": 177
     },
     {
       "id": "luma-batch-evtaPGKR2FFDEuck",
@@ -2054,13 +2075,13 @@
     {
       "id": "ibw-official-pragma-mumbai-11-05",
       "slug": "pragma-mumbai",
-      "decision": "source-brief",
+      "decision": "expanded",
       "changed": true,
       "beforeWords": 33,
       "afterWords": 95,
       "beforeSha256": "ae22132ae1320bcf1b2dc54817820b5594a40f3e5d435d818a20e814ad052bf6",
       "draftSha256": "0c7e9ec5f3df2d452b043198b48e7a861a85747c294edb6a95a33a26cecd3029",
-      "afterSha256": "0c7e9ec5f3df2d452b043198b48e7a861a85747c294edb6a95a33a26cecd3029",
+      "afterSha256": "232e7c102b5c303db38108a479b2035ac9a2c6d59cda2136b6bf38e7fec696a5",
       "reason": "The Mumbai landing page is unavailable, but the official calendar, Pragma series page and public Mumbai event metadata verify the date, venue, application deadline and series format. Keep the proposal limited to those facts rather than invent a Mumbai-specific talk or speaker program.",
       "factsAdded": [
         "Official Pragma series format: product demos, keynotes, debates, dedicated conversation breaks and an attendee meeting portal.",
@@ -2108,7 +2129,8 @@
         "Format details are expressly attributed to the Pragma series. They are not a list of confirmed Mumbai session titles, speakers or ticket inclusions.",
         "Direct and trailing-slash landing URLs return HTTP 500; /schedule returns an HTTP 200 soft-404. The event remains listed as upcoming on both official calendars.",
         "The canonical ID retains its historical 11-05 suffix. The current November 6 dates, canonical slug and aliases must remain unchanged; no midnight metadata value is presented as an opening time."
-      ]
+      ],
+      "wordsAfter": 177
     },
     {
       "id": "luma-batch-cFXe8eT3nFr409n",
@@ -2179,13 +2201,13 @@
     {
       "id": "india-luma-tswdcctj",
       "slug": "unofficial-devcon-afterparty",
-      "decision": "source-brief",
+      "decision": "expanded",
       "changed": true,
       "beforeWords": 44,
       "afterWords": 38,
       "beforeSha256": "0a80a6737652cd26b19633d224b1d08ccf108717d00213373fc319c5b6abdd5a",
       "draftSha256": "d316332b10316220ee1c9435885ac509e58df53bfea7abdcd8dbf462a48d8c71",
-      "afterSha256": "d316332b10316220ee1c9435885ac509e58df53bfea7abdcd8dbf462a48d8c71",
+      "afterSha256": "035e89b7c4642024558607f3322ef92cc45c5ed1aeffe80be09b197fd66f7df3",
       "reason": "The entire organizer description is 'Unofficial afterparty of Devcon 8'. Only the verified logistics and access rules can usefully supplement it.",
       "factsAdded": [
         "Explicit 2026 year and November 7 overnight end date."
@@ -2203,18 +2225,19 @@
       "conflicts": [],
       "sourceNotes": [
         "The unofficial relationship is preserved. No Devcon-organizer endorsement, performers or hospitality inclusions are inferred."
-      ]
+      ],
+      "wordsAfter": 215
     },
     {
       "id": "india-luma-v0fimew1",
       "slug": "crypto-afterhours-mumbai",
-      "decision": "source-brief",
+      "decision": "expanded",
       "changed": true,
       "beforeWords": 42,
       "afterWords": 50,
       "beforeSha256": "cfce7183f95545c9cce16af0fd63de0394b8ada6122984c479bb1e5600553b65",
       "draftSha256": "2d38c13378a1dc776bcf04da2107a6bdb3a1ea76526671ac282a8df8383127c1",
-      "afterSha256": "2d38c13378a1dc776bcf04da2107a6bdb3a1ea76526671ac282a8df8383127c1",
+      "afterSha256": "1938925d166285ea0349dcf416a05f56889e07e6a52ccfe604eb1ac8cc46c910",
       "reason": "The organizer source contains only the series identity and partnership contact. Keep the prose short, add the co-host and precise overnight date, and remove the unsupported-program placeholder.",
       "factsAdded": [
         "Gurnaman is a named co-host alongside Mandala Network.",
@@ -2234,18 +2257,19 @@
       "sourceNotes": [
         "The phrase 'Official Crypto Afterhours Edition' identifies the host's series; it is not treated as evidence of an official Devcon after-party.",
         "The dynamic remaining-spots count is excluded from durable prose."
-      ]
+      ],
+      "wordsAfter": 179
     },
     {
       "id": "india-luma-0ej7kbb0",
       "slug": "ethwali",
-      "decision": "source-brief",
+      "decision": "expanded",
       "changed": true,
       "beforeWords": 89,
       "afterWords": 75,
       "beforeSha256": "29124b4312f6332022350d18b9d9771f51b09f41839d2d7f1ed8f9f352012fca",
       "draftSha256": "64945ad7f1e47ac60318d9ab9e3a58f53d58a53a53b9f3f1831ee06d55ba1cfa",
-      "afterSha256": "64945ad7f1e47ac60318d9ab9e3a58f53d58a53a53b9f3f1831ee06d55ba1cfa",
+      "afterSha256": "ee95ecc107d4ecb7eaba0ffc4605d0e2721220281904d2c2ee5c09e410077632",
       "reason": "The full source is a brief community-celebration invitation. The current summary already covers its substantive facts; the proposal makes the year explicit and removes missing-program filler while retaining the open audience and access conditions.",
       "factsAdded": [
         "Explicit November 8, 2026 identity and the invitation's welcome to people meeting the community as well as active builders."
@@ -2263,7 +2287,8 @@
       "conflicts": [],
       "sourceNotes": [
         "The source does not establish a technical track, named performer, meal inclusion or additional ticket privilege. The proposal adds none of these."
-      ]
+      ],
+      "wordsAfter": 216
     }
   ]
 }

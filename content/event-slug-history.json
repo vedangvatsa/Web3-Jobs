@@ -3483,12 +3483,16 @@
     ]
   },
   "ibw-official-mip-20-road-to-devcon-10-24": {
-    "slug": "mip-20",
+    "slug": "mip20",
     "aliases": [
+      "mip-20",
       "india-luma-ndrr1yqe",
       "meetupmip-20",
       "ethorg-meetupmip-20--road-to-devconoct-24mumbai--india--o",
-      "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi"
+      "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
+      "mip-20-road-devcon",
+      "w3v-mip-20-road-devcon-26-10-30",
+      "luma-evt-3viktghh3kfrsy3"
     ]
   },
   "india-luma-76s6hwzv": {
@@ -3628,8 +3632,9 @@
     ]
   },
   "premier-ibt-mumbai-2026": {
-    "slug": "india-blockchain-ai-tour-mumbai",
+    "slug": "ibtmumbai",
     "aliases": [
+      "india-blockchain-ai-tour-mumbai",
       "ibt-mumbai"
     ]
   },
@@ -3640,8 +3645,9 @@
     ]
   },
   "ibw-official-ibw2026-pre-conference-vip-night-10-31": {
-    "slug": "ibw-pre-conference-vip-night",
+    "slug": "ibwvip",
     "aliases": [
+      "ibw-pre-conference-vip-night",
       "ipcvn"
     ]
   },
@@ -3652,8 +3658,9 @@
     ]
   },
   "ibw-official-ibw-institutional-forum-11-02": {
-    "slug": "ibw-institutional-forum",
+    "slug": "ibwforum",
     "aliases": [
+      "ibw-institutional-forum",
       "iif",
       "w3v-ibw-institutional-forum-26-11-01"
     ]
@@ -3671,8 +3678,9 @@
     "aliases": []
   },
   "ibw-official-defi-security-summit-day-1-11-01": {
-    "slug": "defi-security-summit",
+    "slug": "defisecmumbai",
     "aliases": [
+      "defi-security-summit",
       "dssd1",
       "ibw-official-defi-security-summit-day-2-11-02",
       "dssd2"
@@ -3693,14 +3701,16 @@
     "aliases": []
   },
   "luma-batch-kBSIe7BSMtDFldg": {
-    "slug": "onchain-legal-summit",
+    "slug": "legalsummit",
     "aliases": [
+      "onchain-legal-summit",
       "cw0h549b"
     ]
   },
   "premier-cypherpunk": {
-    "slug": "ethereum-cypherpunk-congress",
+    "slug": "cypherpunkmumbai",
     "aliases": [
+      "ethereum-cypherpunk-congress",
       "ethereum2",
       "ecc3",
       "ibw-official-ethereum-cypherpunk-congress-3-11-02",
@@ -3716,8 +3726,9 @@
     "aliases": []
   },
   "ibw-official-solana-summit-india-11-02": {
-    "slug": "solana-summit-india",
+    "slug": "solanamumbai",
     "aliases": [
+      "solana-summit-india",
       "ssi",
       "india-luma-solana-summit-india",
       "w3v-solana-summit-india",
@@ -3730,22 +3741,25 @@
     "canonicalId": "ibw-official-defi-security-summit-day-1-11-01"
   },
   "ibw-official-onchain-dev-city-india-11-02": {
-    "slug": "onchain-dev-city",
+    "slug": "devcitymumbai",
     "aliases": [
+      "onchain-dev-city",
       "odci",
       "odcd8i",
       "india-luma-n0a39ago"
     ]
   },
   "ibw-official-ibw-official-after-party-11-02": {
-    "slug": "ibw-official-after-party",
+    "slug": "ibwafterparty",
     "aliases": [
+      "ibw-official-after-party",
       "ioap"
     ]
   },
   "ibw-official-the-institutional-table-private-dinner-on-tokenization-stablecoins-and-s-11-02": {
-    "slug": "institutional-table-mumbai",
+    "slug": "tablemumbai",
     "aliases": [
+      "institutional-table-mumbai",
       "institutional-table2"
     ]
   },
@@ -3760,41 +3774,48 @@
     ]
   },
   "ibw-official-ai-economic-forum-aief-truth-intelligence-summit-11-03": {
-    "slug": "ai-economic-forum-mumbai",
+    "slug": "aiefmumbai",
     "aliases": [
+      "ai-economic-forum-mumbai",
       "aefatis",
       "aefamtisoaseibwd8",
       "india-luma-a0e6b8at"
     ]
   },
   "india-luma-08ogvz1i": {
-    "slug": "ready-for-the-run-mumbai",
+    "slug": "rrmumbai",
     "aliases": [
+      "ready-for-the-run-mumbai",
       "rrm"
     ]
   },
   "ibw-official-media-accelerator-startup-cohort-11-03": {
-    "slug": "media-accelerator-startup-cohort",
+    "slug": "acceleratormumbai",
     "aliases": [
+      "media-accelerator-startup-cohort",
       "masc",
       "india-luma-mh0xmqg0"
     ]
   },
   "ibw-official-eip-hub-3-7-nov-11-03": {
-    "slug": "eip-hub-devcon",
+    "slug": "eiphub",
     "aliases": [
+      "eip-hub-devcon",
       "eh37n",
       "ehd8i",
       "india-luma-czi58jpe"
     ]
   },
   "ibw-official-pragma-mumbai-11-05": {
-    "slug": "pragma-mumbai",
-    "aliases": []
+    "slug": "pragmamumbai",
+    "aliases": [
+      "pragma-mumbai"
+    ]
   },
   "luma-batch-G3fjJAlPZ0oK9GC": {
-    "slug": "yield-layer-social-impact",
+    "slug": "yieldimpact",
     "aliases": [
+      "yield-layer-social-impact",
       "7729jnr3"
     ]
   },
@@ -3807,18 +3828,22 @@
     "aliases": []
   },
   "ibw-official-quantstamp-mumbai-lounge-11-04": {
-    "slug": "quantstamp-mumbai-lounge",
-    "aliases": []
+    "slug": "quantstampmumbai",
+    "aliases": [
+      "quantstamp-mumbai-lounge"
+    ]
   },
   "ibw-official-ravecon-b-ender-11-04": {
-    "slug": "afterhours-mixer-mumbai",
+    "slug": "mixermumbai",
     "aliases": [
+      "afterhours-mixer-mumbai",
       "rbe"
     ]
   },
   "premier-ethmumbai-2026": {
-    "slug": "ethglobal-mumbai",
+    "slug": "ethglobalmumbai",
     "aliases": [
+      "ethglobal-mumbai",
       "ethglobal1"
     ]
   },
@@ -3830,8 +3855,9 @@
     "canonicalId": "premier-cosmoverse-2026"
   },
   "premier-unchained-summit-india-2026": {
-    "slug": "unchained-summit",
+    "slug": "unchainedmumbai",
     "aliases": [
+      "unchained-summit",
       "usd1",
       "ibw-official-unchained-summit-day-1-11-05",
       "ibw-official-unchained-summit-day-2-11-06",
@@ -3845,8 +3871,9 @@
     "aliases": []
   },
   "luma-batch-evtaPGKR2FFDEuck": {
-    "slug": "afterdark-devcon",
+    "slug": "afterdarkmumbai",
     "aliases": [
+      "afterdark-devcon",
       "tbe-devcon26"
     ]
   },
@@ -3866,8 +3893,9 @@
     "canonicalId": "premier-unchained-summit-india-2026"
   },
   "luma-batch-cFXe8eT3nFr409n": {
-    "slug": "money-maker",
+    "slug": "moneymaker",
     "aliases": [
+      "money-maker",
       "np3wx7v5"
     ]
   },
@@ -3876,8 +3904,10 @@
     "aliases": []
   },
   "ibw-official-ship-safe-devcon-mumbai-security-sessions-11-06": {
-    "slug": "ship-safe",
-    "aliases": []
+    "slug": "shipsafemumbai",
+    "aliases": [
+      "ship-safe"
+    ]
   },
   "premier-bitcoin-korea-2026": {
     "slug": "bitcoin-korea",
@@ -4226,27 +4256,35 @@
     ]
   },
   "india-luma-3doehm1b": {
-    "slug": "run-and-rave",
+    "slug": "runrave",
     "aliases": [
-      "3doehm1b"
+      "run-and-rave",
+      "3doehm1b",
+      "run-rave",
+      "w3v-run-rave-26-11-01"
     ]
   },
   "india-luma-83ujl6ms": {
-    "slug": "zcash-world-mumbai",
+    "slug": "zcashmumbai",
     "aliases": [
+      "zcash-world-mumbai",
       "83ujl6ms"
     ]
   },
   "india-luma-li3sv90r": {
-    "slug": "shaktipith-women-residency",
+    "slug": "shaktipith",
     "aliases": [
+      "shaktipith-women-residency",
       "li3sv90r"
     ]
   },
   "india-luma-jb4zsel1": {
-    "slug": "catalyst-founder-residency",
+    "slug": "catalystmumbai",
     "aliases": [
-      "jb4zsel1"
+      "catalyst-founder-residency",
+      "jb4zsel1",
+      "catalyst-founder-residency-devcon",
+      "w3v-catalyst-founder-residency-devcon-26-11-01"
     ]
   },
   "india-luma-team1mumbai": {
@@ -4256,14 +4294,16 @@
     ]
   },
   "india-luma-mc8pq06y": {
-    "slug": "world-of-desci-devcon",
+    "slug": "descimumbai",
     "aliases": [
+      "world-of-desci-devcon",
       "mc8pq06y"
     ]
   },
   "india-luma-h0x443s9": {
-    "slug": "money-house",
+    "slug": "moneyhouse",
     "aliases": [
+      "money-house",
       "h0x443s9"
     ]
   },
@@ -4274,20 +4314,24 @@
     ]
   },
   "india-luma-2kj0jqf9": {
-    "slug": "sidequest-happy-hour",
+    "slug": "sidequesthappyhour",
     "aliases": [
-      "2kj0jqf9"
+      "sidequest-happy-hour",
+      "2kj0jqf9",
+      "w3v-sidequest-happy-hour"
     ]
   },
   "india-luma-uqmzpq5k": {
-    "slug": "fluid-mumbai-smart-liquidity",
+    "slug": "fluidmumbai",
     "aliases": [
+      "fluid-mumbai-smart-liquidity",
       "uqmzpq5k"
     ]
   },
   "india-luma-sgrf4yq5": {
-    "slug": "liquidity-pool-devcon",
+    "slug": "liquiditymumbai",
     "aliases": [
+      "liquidity-pool-devcon",
       "sgrf4yq5"
     ]
   },
@@ -4302,27 +4346,32 @@
     "aliases": []
   },
   "india-luma-qk93a446": {
-    "slug": "monad-blitz-mumbai",
+    "slug": "monadmumbai",
     "aliases": [
+      "monad-blitz-mumbai",
       "qk93a446"
     ]
   },
   "india-luma-6gnkjcqx": {
-    "slug": "digital-asset-regulation-roundtable",
+    "slug": "roundtablemumbai",
     "aliases": [
+      "digital-asset-regulation-roundtable",
       "6gnkjcqx"
     ]
   },
   "india-luma-hr8w0hmd": {
-    "slug": "diyas-near-devcon",
+    "slug": "diyasnear",
     "aliases": [
+      "diyas-near-devcon",
       "hr8w0hmd"
     ]
   },
   "india-luma-ai6owvhz": {
-    "slug": "eva-symposium-iii",
+    "slug": "evasymposium",
     "aliases": [
-      "ai6owvhz"
+      "eva-symposium-iii",
+      "ai6owvhz",
+      "w3v-eva-symposium-iii-26-11-04"
     ]
   },
   "india-luma-xuofsg0p": {
@@ -4332,51 +4381,66 @@
     ]
   },
   "india-luma-qzzu690f": {
-    "slug": "alpend-collateral-call",
+    "slug": "alpendmumbai",
     "aliases": [
+      "alpend-collateral-call",
       "qzzu690f"
     ]
   },
   "india-luma-islzi7v3": {
-    "slug": "money-layer-devcon",
+    "slug": "moneylayer",
     "aliases": [
-      "islzi7v3"
+      "money-layer-devcon",
+      "islzi7v3",
+      "money-layer-devcon-week",
+      "w3v-money-layer-devcon-week-26-11-04"
     ]
   },
   "india-luma-kz3klqjq": {
-    "slug": "capital-connect",
+    "slug": "capitalconnect",
     "aliases": [
-      "kz3klqjq"
+      "capital-connect",
+      "kz3klqjq",
+      "w3v-capital-connect-26-11-04"
     ]
   },
   "india-luma-ub56pe38": {
-    "slug": "frontier-of-intelligence-hackathon",
+    "slug": "foihackathon",
     "aliases": [
+      "frontier-of-intelligence-hackathon",
       "ub56pe38"
     ]
   },
   "india-luma-5u1evsou": {
-    "slug": "builders-brunch-mumbai",
+    "slug": "brunchmumbai",
     "aliases": [
+      "builders-brunch-mumbai",
       "5u1evsou"
     ]
   },
   "india-luma-tswdcctj": {
-    "slug": "unofficial-devcon-afterparty",
+    "slug": "devconafterparty",
     "aliases": [
-      "tswdcctj"
+      "unofficial-devcon-afterparty",
+      "tswdcctj",
+      "devcon-afterparty",
+      "w3v-devcon-afterparty-26-11-06"
     ]
   },
   "india-luma-v0fimew1": {
-    "slug": "crypto-afterhours-mumbai",
+    "slug": "afterhoursmumbai",
     "aliases": [
-      "v0fimew1"
+      "crypto-afterhours-mumbai",
+      "v0fimew1",
+      "mumbai-edition-crypto-afterhours",
+      "w3v-mumbai-edition-crypto-afterhours-26-11-07"
     ]
   },
   "india-luma-0ej7kbb0": {
     "slug": "ethwali",
     "aliases": [
-      "0ej7kbb0"
+      "0ej7kbb0",
+      "w3v-ethwali-26-11-08"
     ]
   },
   "token2049-evt-YO7GY1OwI4l0QR6": {
@@ -4391,8 +4455,9 @@
     "canonicalId": "premier-gbshow"
   },
   "luma-evt-b6kmwqzyuuetkip": {
-    "slug": "free-society-hackathon",
+    "slug": "freesociety",
     "aliases": [
+      "free-society-hackathon",
       "freesocietyhackathon"
     ]
   },
@@ -4401,8 +4466,10 @@
     "aliases": []
   },
   "india-luma-arbiverse-mumbai": {
-    "slug": "arbiverse-mumbai",
-    "aliases": []
+    "slug": "arbiverse",
+    "aliases": [
+      "arbiverse-mumbai"
+    ]
   },
   "curated-alchemy-devcon-meetings-2026": {
     "slug": "alchemy-devcon-meetings",
@@ -4445,32 +4512,46 @@
     "aliases": []
   },
   "india-luma-bornlive-tpiy": {
-    "slug": "born-up-ibw-mumbai",
-    "aliases": []
+    "slug": "bornupmumbai",
+    "aliases": [
+      "born-up-ibw-mumbai",
+      "born-up-india-blockchain-week-mumbai-community-networking-meetup",
+      "luma-evt-8auyraqull9tgpm",
+      "w3v-born-up-india-blockchain-week-mumbai-26-11-01"
+    ]
   },
   "india-luma-m8jxna31": {
     "slug": "off-chain-padel-mumbai",
     "aliases": []
   },
   "india-luma-4al1ai5x": {
-    "slug": "born-up-devcon-mumbai",
-    "aliases": []
+    "slug": "devconbornup",
+    "aliases": [
+      "born-up-devcon-mumbai",
+      "born-up-devcon-mumbai-community-networking-meetup",
+      "luma-evt-vmyghzx4k8su1uq",
+      "w3v-born-up-devcon-mumbai-community-networking-26-11-03"
+    ]
   },
   "india-luma-86nrj6he": {
     "slug": "midweek-block-party-mumbai",
     "aliases": []
   },
   "india-luma-kfh8wkql": {
-    "slug": "notneils-stealth-founder-dinner",
-    "aliases": []
+    "slug": "stealthdinner",
+    "aliases": [
+      "notneils-stealth-founder-dinner"
+    ]
   },
   "curated-dev3pack-career-fair-2026": {
     "slug": "dev3pack-devcon-career-fair",
     "aliases": []
   },
   "w3v-perps--chai-with-hyprearn": {
-    "slug": "perps-and-chai-hyprearn-mumbai",
-    "aliases": []
+    "slug": "hyprearnmumbai",
+    "aliases": [
+      "perps-and-chai-hyprearn-mumbai"
+    ]
   },
   "mu-317025728": {
     "slug": "timechain-tuesdays-coffee-bitcoin",
@@ -4873,8 +4954,11 @@
     "aliases": []
   },
   "discovery-evt-CrfUNgdw4aVQtjy": {
-    "slug": "unfollow-002-mumbai-afterparty-zcash-bitrefill",
-    "aliases": []
+    "slug": "unfollowmumbai",
+    "aliases": [
+      "unfollow-002-mumbai-afterparty-zcash-bitrefill",
+      "w3v-unfollow-002-mumbai-afterparty-with-zcash-bitrefill-7-1792432810004"
+    ]
   },
   "discovery-evt-jMB76t6BDXdYFbP": {
     "slug": "community-roundtable-2026-11-04",
@@ -5245,27 +5329,295 @@
     "aliases": []
   },
   "ibw-sheet-evt-ZwfO8bu83v1Qqe8": {
-    "slug": "near-builders-cafe-2",
-    "aliases": []
+    "slug": "nearcafe",
+    "aliases": [
+      "near-builders-cafe-2"
+    ]
   },
   "ibw-sheet-evt-WP32nMhXbmHisMb": {
-    "slug": "dabao-open-hardware-hackathon",
-    "aliases": []
+    "slug": "dabaohack",
+    "aliases": [
+      "dabao-open-hardware-hackathon"
+    ]
   },
   "ibw-sheet-evt-26jnyHUBFxt6ooC": {
-    "slug": "crossbar-iris-demo-devcon8",
-    "aliases": []
+    "slug": "irismumbai",
+    "aliases": [
+      "crossbar-iris-demo-devcon8"
+    ]
   },
   "ibw-sheet-evt-zlSNS0eZPLZsGcM": {
-    "slug": "clickoptions-nextwave-trading",
-    "aliases": []
+    "slug": "clickoptionstrading",
+    "aliases": [
+      "clickoptions-nextwave-trading"
+    ]
   },
   "ibw-sheet-evt-mD9IikmzLZVweco": {
-    "slug": "stable-payments-stablecoins-mumbai",
-    "aliases": []
+    "slug": "stablemumbai",
+    "aliases": [
+      "stable-payments-stablecoins-mumbai"
+    ]
   },
   "ibw-sheet-evt-3HoI2mTbd1euCxd": {
-    "slug": "sovrency-c8-launch",
+    "slug": "sovrencymumbai",
+    "aliases": [
+      "sovrency-c8-launch"
+    ]
+  },
+  "token2049-evt-JZv1H985Ggdevr9": {
+    "slug": "tech-summit",
+    "aliases": []
+  },
+  "ibw-luma-evt-5vtPTw3cBLlbd4R": {
+    "slug": "harkirat",
+    "aliases": []
+  },
+  "ibw-luma-evt-ZAxjtXnbNBG3bus": {
+    "slug": "touchgrass",
+    "aliases": []
+  },
+  "ibw-luma-evt-vgIvAuAafDBzhhG": {
+    "slug": "pickleball",
+    "aliases": []
+  },
+  "ibw-luma-evt-cFa8fILMOq8zmBQ": {
+    "slug": "frontiertraders",
+    "aliases": []
+  },
+  "ibw-luma-evt-ePIIFhD8Ah3L5au": {
+    "slug": "cmosummit",
+    "aliases": []
+  },
+  "ibw-luma-evt-XkYzPSXLI1Hh0m9": {
+    "slug": "walk404",
+    "aliases": []
+  },
+  "ibw-luma-evt-wvg88v6eCeGG9T5": {
+    "slug": "bughunters",
+    "aliases": []
+  },
+  "ibw-luma-evt-PcFq3OesDO3CXGW": {
+    "slug": "mevibes",
+    "aliases": []
+  },
+  "ibw-luma-evt-UMczcjylUMol0HW": {
+    "slug": "cryptomondays",
+    "aliases": []
+  },
+  "ibw-luma-evt-98I7yeD0tlpcCbM": {
+    "slug": "post-dss-no-more-slides-security-community-walk",
+    "aliases": [
+      "noslides"
+    ]
+  },
+  "ibw-luma-evt-uR7BoNCWfzzMst8": {
+    "slug": "nopitches",
+    "aliases": []
+  },
+  "ibw-luma-evt-QTjNSAnTUo9U0Nd": {
+    "slug": "assassin",
+    "aliases": []
+  },
+  "ibw-luma-evt-6fLWZpo8X0CcYxz": {
+    "slug": "sechub",
+    "aliases": []
+  },
+  "ibw-luma-evt-OFEismQuGjAUfLX": {
+    "slug": "starkday1",
+    "aliases": []
+  },
+  "ibw-luma-evt-KCJhfbrKPukDWTG": {
+    "slug": "privacyhub",
+    "aliases": []
+  },
+  "ibw-luma-evt-HVcn0c3qr2JoL1L": {
+    "slug": "buildernights",
+    "aliases": []
+  },
+  "ibw-luma-evt-lEdV5rOtFA9Zysr": {
+    "slug": "claudecode",
+    "aliases": []
+  },
+  "ibw-luma-evt-yRqDres5j6ELDNi": {
+    "slug": "starkafterdark",
+    "aliases": []
+  },
+  "ibw-luma-evt-f7G6H4VGNrSXYIR": {
+    "slug": "armada",
+    "aliases": []
+  },
+  "ibw-luma-evt-XsVZI9S06blxMwr": {
+    "slug": "noslippage",
+    "aliases": []
+  },
+  "ibw-luma-evt-lDxWVZcnDDnyXAC": {
+    "slug": "lowgas",
+    "aliases": []
+  },
+  "ibw-luma-evt-rkYNBXqNYl6ZLBm": {
+    "slug": "hashkey",
+    "aliases": []
+  },
+  "ibw-luma-evt-3XbijAWU2D4ZDpt": {
+    "slug": "starkday2",
+    "aliases": []
+  },
+  "ibw-luma-evt-fa4YPMi1DWA09q9": {
+    "slug": "openhouse",
+    "aliases": []
+  },
+  "ibw-luma-evt-08jX7ADSLH1huIV": {
+    "slug": "0g-builders-brunch",
+    "aliases": [
+      "zerog"
+    ]
+  },
+  "ibw-luma-evt-NDGCExZGe7BfYks": {
+    "slug": "defilunch",
+    "aliases": []
+  },
+  "ibw-luma-evt-CTqpCOXclC0Tmfb": {
+    "slug": "clickoptions",
+    "aliases": []
+  },
+  "ibw-luma-evt-iTFBTwT5IzcPZcF": {
+    "slug": "undisclosed",
+    "aliases": []
+  },
+  "ibw-luma-evt-Xs3C0Owpa4JQHSQ": {
+    "slug": "cafecompute",
+    "aliases": []
+  },
+  "ibw-luma-evt-cIn46v6nJNmtSYu": {
+    "slug": "allowlist",
+    "aliases": []
+  },
+  "ibw-luma-evt-rUOnUMPkGfGF1CH": {
+    "slug": "seedphrases",
+    "aliases": []
+  },
+  "ibw-luma-evt-HUylEhXPcRpb1Uv": {
+    "slug": "opendoors",
+    "aliases": []
+  },
+  "ibw-luma-evt-BabRKkjuW29SOdD": {
+    "slug": "nodes-need-fresh-air-too-ethereum-infra-walk",
+    "aliases": [
+      "freshair"
+    ]
+  },
+  "ibw-luma-evt-E1BEaj56Aeln5ih": {
+    "slug": "l2beat",
+    "aliases": []
+  },
+  "ibw-luma-evt-KAttU3Qk9jmQdfG": {
+    "slug": "coffeex",
+    "aliases": []
+  },
+  "ibw-luma-evt-kGC3kShrdk8B6Ip": {
+    "slug": "womens-networking",
+    "aliases": [
+      "womenweb3"
+    ]
+  },
+  "ibw-luma-evt-VLyTum0FswtPeAH": {
+    "slug": "foundervc",
+    "aliases": []
+  },
+  "ibw-luma-evt-W3bxtS9mKSeIwVK": {
+    "slug": "deepflow",
+    "aliases": []
+  },
+  "ibw-luma-evt-hIZnQMK5SVTWgj8": {
+    "slug": "ctparty",
+    "aliases": []
+  },
+  "ibw-luma-evt-EjZWupM0D19CQZ8": {
+    "slug": "zkfriends",
+    "aliases": []
+  },
+  "ibw-luma-evt-d7PXEaGekwoGpzw": {
+    "slug": "daovote",
+    "aliases": []
+  },
+  "ibw-luma-evt-0Hr9OEq92aSEqFs": {
+    "slug": "stepfarming",
+    "aliases": []
+  },
+  "ibw-luma-evt-fi1E5JHRmTD6D6r": {
+    "slug": "onelastgm",
+    "aliases": []
+  },
+  "ibw-luma-evt-7bLYYfCCvXDasQt": {
+    "slug": "clearsigning",
+    "aliases": []
+  },
+  "ibw-luma-evt-T1kmYGfXl5QxzLA": {
+    "slug": "yachtrave",
+    "aliases": []
+  },
+  "ibw-luma-evt-QkWwyZht8EIQiUy": {
+    "slug": "dontghost",
+    "aliases": []
+  },
+  "w3v-x-quantus-happy-hour-devcon-mumbai-26-11-04": {
+    "slug": "quantusmumbai",
+    "aliases": [
+      "near-x-quantus-happy-hour-devcon-mumbai"
+    ]
+  },
+  "ibw-official-kast-gold-party-mumbai-11-05": {
+    "slug": "kast-gold",
+    "aliases": []
+  },
+  "ibw-luma-evt-YVm4KRLRsBEK4un": {
+    "slug": "moneyinmotion",
+    "aliases": []
+  },
+  "ibw-luma-evt-f0mKBjCgH0j1jSp": {
+    "slug": "achija-pav-bhaji-meetup",
+    "aliases": [
+      "pavbhaji"
+    ]
+  },
+  "ibw-luma-evt-DUqmVKaajhfQ1xU": {
+    "slug": "zecsycypherpunk",
+    "aliases": []
+  },
+  "ibw-luma-evt-qPONpLv4GlXAofz": {
+    "slug": "paymentsnight",
+    "aliases": []
+  },
+  "ibw-luma-evt-u4DFCi8nOPYqY7A": {
+    "slug": "longstable",
+    "aliases": []
+  },
+  "ibw-luma-evt-yB4ZxpGaCyYrvvA": {
+    "slug": "zecsydevcon",
+    "aliases": []
+  },
+  "ibw-luma-evt-vDX2V51hGW9MGEn": {
+    "slug": "familyoffices",
+    "aliases": []
+  },
+  "ibw-luma-evt-4BPahiHsZbnPfhz": {
+    "slug": "houseofhype",
+    "aliases": []
+  },
+  "ibw-luma-evt-3xF3F3ZaJP4REwg": {
+    "slug": "pizzaprotocols",
+    "aliases": []
+  },
+  "ibw-luma-evt-H9Bv5SoWd40O8eC": {
+    "slug": "practicalprivacy",
+    "aliases": []
+  },
+  "ibw-luma-evt-kGt7AWmF9nKwHHT": {
+    "slug": "zcashforum",
+    "aliases": []
+  },
+  "ibw-luma-evt-KFAiFGbSf0EbFnU": {
+    "slug": "indiahouse",
     "aliases": []
   }
 }

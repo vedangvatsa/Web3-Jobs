@@ -163,7 +163,7 @@ export async function recordDeploymentResult({ store, claim, resource, kind, now
   });
 }
 
-export async function runDailyDeployment({ store, date, id, sourceCommit, content, token, request = fetch, sleep = delay, now = Date.now, evidence = async () => {}, buildPolls = 60, rolloutPolls = 40 }) {
+export async function runDailyDeployment({ store, date, id, sourceCommit, content, token, request = fetch, sleep = delay, now = Date.now, evidence = async () => {}, buildPolls = 80, rolloutPolls = 40 }) {
   if (!token) throw new Error('Firebase deployment authorization is required');
   const claim = await claimDailyDeployment({ store, date, id, sourceCommit, content, now });
   if (!claim) return { deployed: false };

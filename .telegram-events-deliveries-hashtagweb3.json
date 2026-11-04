@@ -3037,5 +3037,787 @@
     "slotKey": "2026-10-23:afternoon",
     "messageId": 155900,
     "sentAt": "2026-10-23T11:31:51.971Z"
+  },
+  "88dab7c1-9208-4d24-a812-219aaabc0846": {
+    "status": "sent",
+    "reservedAt": "2026-10-23T19:32:05.342Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "discovery-evt-XFoMM2nGSakEMj8",
+        "slug": "mid-chain-conference-blockchain-decentralized-economics",
+        "name": "Mid-Chain Conference: Blockchain & Decentralized Economics",
+        "startDate": "2026-10-26T06:45:00.000Z",
+        "keys": [
+          "discovery-evt-xfomm2ngsakemj8",
+          "page:mid-chain-conference-blockchain-decentralized-economics:2026-10-26",
+          "luma:evt-xfomm2ngsakemj8",
+          "luma-url:/rzaklefv",
+          "event:midchainconferenceblockchaindecentralizedeconomics:2026-10-26:be'er sheva"
+        ]
+      },
+      {
+        "id": "mu-316869344",
+        "slug": "crypto-coffee-networking-night-web3-ai-blockchain-defi-nfts",
+        "name": "Crypto Coffee & Networking Night: Web3, AI, Blockchain, DeFi, NFTs",
+        "startDate": "2026-10-26T19:00:00+04:00",
+        "keys": [
+          "mu-316869344",
+          "page:crypto-coffee-networking-night-web3-ai-blockchain-defi-nfts:2026-10-26",
+          "url:meetup.com/blockchain-workshop-dubai/events/316869344:2026-10-26",
+          "event:cryptocoffeenetworkingnightweb3aiblockchaindefinfts:2026-10-26:dubai"
+        ]
+      },
+      {
+        "id": "luma-evt-hrybBLtJ4Gzmaba",
+        "slug": "ethereum-meetup-tokyo-vol-26",
+        "name": "Ethereum Meetup Tokyo Vol.26",
+        "startDate": "2026-10-27T19:30:00+09:00",
+        "keys": [
+          "luma-evt-hrybbltj4gzmaba",
+          "page:ethereum-meetup-tokyo-vol-26:2026-10-27",
+          "luma:evt-hrybbltj4gzmaba",
+          "luma-url:/lw4cn2jv",
+          "event:ethereummeetuptokyovol26:2026-10-27:tokyo"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-23:evening",
+    "messageId": 155902,
+    "sentAt": "2026-10-23T19:32:08.654Z"
+  },
+  "21c3b158-c7d7-46e4-9b8f-9e2558876dec": {
+    "status": "sent",
+    "reservedAt": "2026-10-24T16:57:12.754Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "discovery-evt-4GbxA81G5iwo5UA",
+        "slug": "bitcoin-en-las-universidades-en-universidad-de-belgrano",
+        "name": "Bitcoin en las Universidades en Universidad de Belgrano",
+        "startDate": "2026-10-27T14:00:00.000Z",
+        "keys": [
+          "discovery-evt-4gbxa81g5iwo5ua",
+          "page:bitcoin-en-las-universidades-en-universidad-de-belgrano:2026-10-27",
+          "luma:evt-4gbxa81g5iwo5ua",
+          "luma-url:/u0uhl239",
+          "event:bitcoinenlasuniversidadesenuniversidaddebelgrano:2026-10-27:buenos aires"
+        ]
+      },
+      {
+        "id": "discovery-evt-RDHzi9B3vL2FkcZ",
+        "slug": "road-ethprague",
+        "name": "Road to ETHPrague",
+        "startDate": "2026-10-27T17:00:00.000Z",
+        "keys": [
+          "discovery-evt-rdhzi9b3vl2fkcz",
+          "page:road-ethprague:2026-10-27",
+          "luma:evt-rdhzi9b3vl2fkcz",
+          "luma-url:/2ns5lk31",
+          "event:roadtoethprague:2026-10-27:prague"
+        ]
+      },
+      {
+        "id": "mu-316768752",
+        "slug": "oslo-blockchain-meetup-nexa",
+        "name": "Oslo Blockchain Meetup - Nexa",
+        "startDate": "2026-10-28T17:00:00+01:00",
+        "keys": [
+          "mu-316768752",
+          "page:oslo-blockchain-meetup-nexa:2026-10-28",
+          "url:meetup.com/oslo-blockchain-meetup/events/316768752:2026-10-28",
+          "event:osloblockchainmeetupnexa:2026-10-28:oslo"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-24:afternoon",
+    "messageId": 155907,
+    "sentAt": "2026-10-24T16:57:15.341Z"
+  },
+  "5cec1442-5826-490c-ae1d-6663a5431af6": {
+    "status": "sent",
+    "reservedAt": "2026-10-24T19:31:33.884Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "mu-316905431",
+        "slug": "crypto-halloween-chill-socialize-discuss-learn-about-crypto",
+        "name": "Crypto Halloween & Chill - Socialize, Discuss & Learn About CRYPTO",
+        "startDate": "2026-10-28T18:00:00-07:00",
+        "keys": [
+          "mu-316905431",
+          "page:crypto-halloween-chill-socialize-discuss-learn-about-crypto:2026-10-29",
+          "url:meetup.com/crypto-and-chill/events/316905431:2026-10-29",
+          "event:cryptohalloweenchillsocializediscusslearnaboutcrypto:2026-10-29:newport beach"
+        ]
+      },
+      {
+        "id": "luma-evt-rLBYBxQDjgYF9wR",
+        "slug": "labitconf-bitcoin-college",
+        "name": "LABITCONF Bitcoin College",
+        "startDate": "2026-10-29T12:00:00.000Z",
+        "keys": [
+          "luma-evt-rlbybxqdjgyf9wr",
+          "page:labitconf-bitcoin-college:2026-10-29",
+          "luma:evt-rlbybxqdjgyf9wr",
+          "luma-url:/cqk6i6vd",
+          "event:labitconfbitcoincollege:2026-10-29:buenos aires"
+        ]
+      },
+      {
+        "id": "luma-host-evt-evt-S1a3G141Dsg60pk",
+        "slug": "solana-ecosystem-call-october",
+        "name": "The Solana Ecosystem Call | October",
+        "startDate": "2026-10-29T14:00:00.000Z",
+        "keys": [
+          "luma-host-evt-evt-s1a3g141dsg60pk",
+          "sec",
+          "page:solana-ecosystem-call-october:2026-10-29",
+          "luma:evt-s1a3g141dsg60pk",
+          "luma-url:/0j8gx7i1",
+          "event:thesolanaecosystemcalloctober:2026-10-29:"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-24:evening",
+    "messageId": 155911,
+    "sentAt": "2026-10-24T19:31:36.157Z"
+  },
+  "189ff60b-fd9a-4411-8066-7fcc409e28fe": {
+    "status": "sent",
+    "reservedAt": "2026-10-25T03:38:59.597Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "mu-316859645",
+        "slug": "measuring-ledgers-blockchain-decentralisation-index-lab",
+        "name": "Measuring Ledgers With The Blockchain Decentralisation Index Lab",
+        "startDate": "2026-10-29T11:00:00-04:00",
+        "keys": [
+          "mu-316859645",
+          "page:measuring-ledgers-blockchain-decentralisation-index-lab:2026-10-29",
+          "url:meetup.com/lfdt-north-carolina/events/316859645:2026-10-29",
+          "event:measuringledgerswiththeblockchaindecentralisationindexlab:2026-10-29:"
+        ]
+      },
+      {
+        "id": "mu-316802767",
+        "slug": "zk-learning-group-quantum-resistance-zkp",
+        "name": "ZK Learning Group: Quantum resistance and ZKP",
+        "startDate": "2026-10-29T13:00:00-04:00",
+        "keys": [
+          "mu-316802767",
+          "page:zk-learning-group-quantum-resistance-zkp:2026-10-29",
+          "url:meetup.com/lfdt-north-carolina/events/316802767:2026-10-29",
+          "event:zklearninggroupquantumresistanceandzkp:2026-10-29:"
+        ]
+      },
+      {
+        "id": "mu-316754646",
+        "slug": "gaming-ethereum-how-trading-bots-cut-line-threaten-consensus",
+        "name": "Gaming Ethereum: How Trading Bots Cut the Line and Threaten Consensus",
+        "startDate": "2026-10-29T18:15:00+01:00",
+        "keys": [
+          "mu-316754646",
+          "page:gaming-ethereum-how-trading-bots-cut-line-threaten-consensus:2026-10-29",
+          "url:meetup.com/papers-we-love-zurich/events/316754646:2026-10-29",
+          "event:gamingethereumhowtradingbotscutthelineandthreatenconsensus:2026-10-29:zurich"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-25:morning",
+    "messageId": 155916,
+    "sentAt": "2026-10-25T03:39:02.076Z"
+  },
+  "a26100ad-06c2-45ef-8b3f-403285b02791": {
+    "status": "sent",
+    "reservedAt": "2026-10-25T11:31:44.735Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "mu-316914263",
+        "slug": "bitcoin-manchester-monthly",
+        "name": "Bitcoin Manchester Monthly",
+        "startDate": "2026-10-29T19:00:00Z",
+        "keys": [
+          "mu-316914263",
+          "page:bitcoin-manchester-monthly:2026-10-29",
+          "url:meetup.com/bitcoin-manchester/events/316914263:2026-10-29",
+          "event:bitcoinmanchestermonthly:2026-10-29:manchester"
+        ]
+      },
+      {
+        "id": "mu-313246741",
+        "slug": "bitcoin-bay-sauga-meetup",
+        "name": "Bitcoin Bay Sauga Meetup",
+        "startDate": "2026-10-29T19:30:00-04:00",
+        "keys": [
+          "mu-313246741",
+          "page:bitcoin-bay-sauga-meetup:2026-10-29",
+          "url:meetup.com/the-bitcoin-bay/events/313246741:2026-10-29",
+          "event:bitcoinbaysaugameetup:2026-10-29:mississauga"
+        ]
+      },
+      {
+        "id": "discovery-evt-VGgpJ5y4iCEv7z0",
+        "slug": "hackathon-edu-labitconf",
+        "name": "Hackathon EDU by LABITCONF",
+        "startDate": "2026-10-30T11:00:00.000Z",
+        "keys": [
+          "discovery-evt-vggpj5y4icev7z0",
+          "page:hackathon-edu-labitconf:2026-10-30",
+          "luma:evt-vggpj5y4icev7z0",
+          "luma-url:/cwhw1uls",
+          "event:hackathonedubylabitconf:2026-10-30:buenos aires"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-25:afternoon",
+    "messageId": 155921,
+    "sentAt": "2026-10-25T11:31:50.987Z"
+  },
+  "5d19d0b2-1176-46c2-ba37-46bd93494bb9": {
+    "status": "sent",
+    "reservedAt": "2026-10-25T19:31:48.453Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "discovery-evt-lney7efAlAR4ckm",
+        "slug": "bitcoin-indonesia-community-online-meetup",
+        "name": "Bitcoin Indonesia Community Online Meetup",
+        "startDate": "2026-10-30T19:30:00+07:00",
+        "keys": [
+          "discovery-evt-lney7efalar4ckm",
+          "page:bitcoin-indonesia-community-online-meetup:2026-10-30",
+          "luma:evt-lney7efalar4ckm",
+          "luma-url:/w6dkwyri",
+          "event:bitcoinindonesiacommunityonlinemeetup:2026-10-30:"
+        ]
+      },
+      {
+        "id": "mu-316958855",
+        "slug": "crypto-taxation-greece",
+        "name": "Crypto Taxation in Greece (Φορολογία Κρυπτονομισμάτων στην Ελλάδα)",
+        "startDate": "2026-10-30T19:30:00+02:00",
+        "keys": [
+          "mu-316958855",
+          "page:crypto-taxation-greece:2026-10-30",
+          "url:meetup.com/blockchaingreece-0/events/316958855:2026-10-30",
+          "event:cryptotaxationingreeceφορολογίακρυπτονομισμάτωνστηνελλάδα:2026-10-30:athens"
+        ]
+      },
+      {
+        "id": "luma-evt-lzupoprFFkUQski",
+        "slug": "ai-web3-music-meetup",
+        "name": "AI & Web3 Music Meetup",
+        "startDate": "2026-10-30T23:00:00.000Z",
+        "keys": [
+          "luma-evt-lzupoprffkuqski",
+          "page:ai-web3-music-meetup:2026-10-30",
+          "luma:evt-lzupoprffkuqski",
+          "luma-url:/eitsogbg",
+          "event:aiweb3musicmeetup:2026-10-30:seattle"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-25:evening",
+    "messageId": 155924,
+    "sentAt": "2026-10-25T19:31:50.802Z"
+  },
+  "ed7b1b86-4501-4c60-81c8-fdb4214fbfc0": {
+    "status": "sent",
+    "reservedAt": "2026-10-26T03:32:59.995Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "curated-bce-3-bitcoin-white-paper-day-2026-10-31",
+        "slug": "bce-3-bitcoin-white-paper-day",
+        "name": "BCE#3: Bitcoin White Paper Day",
+        "startDate": "2026-10-31",
+        "keys": [
+          "curated-bce-3-bitcoin-white-paper-day-2026-10-31",
+          "page:bce-3-bitcoin-white-paper-day:2026-10-31",
+          "event:bce3bitcoinwhitepaperday:2026-10-31:paris"
+        ]
+      },
+      {
+        "id": "w3v-btc-balkans-2026",
+        "slug": "btc-balkans",
+        "name": "BTC Balkans 2026",
+        "startDate": "2026-10-31T07:00:00.000Z",
+        "keys": [
+          "w3v-btc-balkans-2026",
+          "page:btc-balkans:2026-10-31",
+          "url:btcbalkans.com/en:2026-10-31",
+          "event:btcbalkans2026:2026-10-31:sofia"
+        ]
+      },
+      {
+        "id": "discovery-evt-C3uwilHHM2nQueB",
+        "slug": "base-builder-meetup",
+        "name": "Base Builder Meetup",
+        "startDate": "2026-10-31T12:00:00+01:00",
+        "keys": [
+          "discovery-evt-c3uwilhhm2nqueb",
+          "page:base-builder-meetup:2026-10-31",
+          "luma:evt-c3uwilhhm2nqueb",
+          "luma-url:/nv0py8nu",
+          "event:basebuildermeetup:2026-10-31:lagos"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-26:morning",
+    "messageId": 155927,
+    "sentAt": "2026-10-26T03:33:02.945Z"
+  },
+  "f438c523-79e1-4436-b1bf-bb65d2b0698c": {
+    "status": "sent",
+    "reservedAt": "2026-10-26T11:32:03.763Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "mu-316996838",
+        "slug": "bitcoin-turns-18",
+        "name": "Bitcoin Turns 18",
+        "startDate": "2026-10-31T13:00:00Z",
+        "keys": [
+          "mu-316996838",
+          "page:bitcoin-turns-18:2026-10-31",
+          "url:meetup.com/lisbon-bitcoin-maximalists/events/316996838:2026-10-31",
+          "event:bitcointurns18:2026-10-31:lisbon"
+        ]
+      },
+      {
+        "id": "mu-317050872",
+        "slug": "whitepaper-day-bbq-acto-asociado-barcelona-bitcoin-only",
+        "name": "Whitepaper Day BBQ [acto asociado a Barcelona Bitcoin Only]",
+        "startDate": "2026-10-31T14:00:00+01:00",
+        "keys": [
+          "mu-317050872",
+          "page:whitepaper-day-bbq-acto-asociado-barcelona-bitcoin-only:2026-10-31",
+          "url:meetup.com/bitcoin-barcelona/events/317050872:2026-10-31",
+          "event:whitepaperdaybbqactoasociadoabarcelonabitcoinonly:2026-10-31:barcelona"
+        ]
+      },
+      {
+        "id": "discovery-evt-dH0OIQgV4mlarUH",
+        "slug": "bitcoin-indonesia-community-meetup-jakarta-barat-01-november",
+        "name": "Bitcoin Indonesia Community Meetup Jakarta Barat 01 November 2026",
+        "startDate": "2026-11-01T15:00:00+07:00",
+        "keys": [
+          "discovery-evt-dh0oiqgv4mlaruh",
+          "page:bitcoin-indonesia-community-meetup-jakarta-barat-01-november:2026-11-01",
+          "luma:evt-dh0oiqgv4mlaruh",
+          "luma-url:/yo5uyb5d",
+          "event:bitcoinindonesiacommunitymeetupjakartabarat01november2026:2026-11-01:jakarta barat (administrative city)"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-26:afternoon",
+    "messageId": 155935,
+    "sentAt": "2026-10-26T11:32:12.881Z"
+  },
+  "530ea3d5-b952-43ab-98b8-418fe4f1de3f": {
+    "status": "sent",
+    "reservedAt": "2026-10-26T19:39:10.932Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "ibw-luma-evt-cFa8fILMOq8zmBQ",
+        "slug": "frontiertraders",
+        "name": "Frontier Traders Mixer @ Solana Summit India",
+        "startDate": "2026-11-01T11:00:00.000Z",
+        "keys": [
+          "ibw-luma-evt-cfa8filmoq8zmbq",
+          "page:frontiertraders:2026-11-01",
+          "luma:evt-cfa8filmoq8zmbq",
+          "luma-url:/frontier-traders-india",
+          "event:frontiertradersmixersolanasummitindia:2026-11-01:mumbai"
+        ]
+      },
+      {
+        "id": "mu-316962667",
+        "slug": "de-bitcoin-beginner-workshops-entdecke-bitcoin",
+        "name": "[DE] Bitcoin Beginner Workshops - Entdecke Bitcoin",
+        "startDate": "2026-11-02T19:00:00+01:00",
+        "keys": [
+          "mu-316962667",
+          "page:de-bitcoin-beginner-workshops-entdecke-bitcoin:2026-11-02",
+          "url:meetup.com/bitcoin-lab-berlin/events/316962667:2026-11-02",
+          "event:debitcoinbeginnerworkshopsentdeckebitcoin:2026-11-02:berlin"
+        ]
+      },
+      {
+        "id": "ibw-sheet-evt-WP32nMhXbmHisMb",
+        "slug": "dabao-open-hardware-hackathon",
+        "name": "Dabao Open Hardware Hackathon",
+        "startDate": "2026-11-03T03:30:00.000Z",
+        "keys": [
+          "ibw-sheet-evt-wp32nmhxbmhismb",
+          "page:dabao-open-hardware-hackathon:2026-11-03",
+          "luma:evt-wp32nmhxbmhismb",
+          "luma-url:/qivci0a6",
+          "event:dabaoopenhardwarehackathon:2026-11-03:mumbai"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-26:evening",
+    "messageId": 155941,
+    "sentAt": "2026-10-26T19:39:13.902Z"
+  },
+  "46e7892c-38d0-47c9-a361-286508f0b493": {
+    "status": "sent",
+    "reservedAt": "2026-10-27T03:42:28.369Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "ibw-sheet-evt-zlSNS0eZPLZsGcM",
+        "slug": "clickoptions-nextwave-trading",
+        "name": "ClickOptions × NextWave: Live Crypto Trading Competition",
+        "startDate": "2026-11-03T10:30:00.000Z",
+        "keys": [
+          "ibw-sheet-evt-zlsns0ezplzsgcm",
+          "page:clickoptions-nextwave-trading:2026-11-03",
+          "luma:evt-zlsns0ezplzsgcm",
+          "luma-url:/teffnotz",
+          "event:clickoptionsnextwavelivecryptotradingcompetition:2026-11-03:mumbai"
+        ]
+      },
+      {
+        "id": "curated-6th-annual-canadian-bitcoin-summit-2026-11-03",
+        "slug": "6th-annual-canadian-bitcoin-summit",
+        "name": "6th Annual Canadian Bitcoin Summit",
+        "startDate": "2026-11-03T08:00:00-05:00",
+        "keys": [
+          "curated-6th-annual-canadian-bitcoin-summit-2026-11-03",
+          "page:6th-annual-canadian-bitcoin-summit:2026-11-03",
+          "url:eventbrite.ca/e/6th-annual-canadian-bitcoin-summit-tickets-1999307226735:2026-11-03",
+          "event:6thannualcanadianbitcoinsummit:2026-11-03:toronto"
+        ]
+      },
+      {
+        "id": "ibw-luma-evt-XsVZI9S06blxMwr",
+        "slug": "noslippage",
+        "name": "No Slippage, Just Steps | DeFi Night Walk",
+        "startDate": "2026-11-03T14:00:00.000Z",
+        "keys": [
+          "ibw-luma-evt-xsvzi9s06blxmwr",
+          "page:noslippage:2026-11-03",
+          "luma:evt-xsvzi9s06blxmwr",
+          "luma-url:/dvu4zt0s",
+          "event:noslippagejuststepsdefinightwalk:2026-11-03:mumbai"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-27:morning",
+    "messageId": 155944,
+    "sentAt": "2026-10-27T03:42:36.325Z"
+  },
+  "d09a1631-1d6b-40e5-87de-c4aaeebaa912": {
+    "status": "sent",
+    "reservedAt": "2026-10-27T11:31:58.312Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-evt-nRvFLfwAHjMqMTo",
+        "slug": "bitcoin-dev-day-traditional-korea",
+        "name": "Bitcoin dev day in traditional Korea",
+        "startDate": "2026-11-04T10:00:00+09:00",
+        "keys": [
+          "luma-evt-nrvflfwahjmqmto",
+          "page:bitcoin-dev-day-traditional-korea:2026-11-04",
+          "luma:evt-nrvflfwahjmqmto",
+          "luma-url:/1pmwtapp",
+          "event:bitcoindevdayintraditionalkorea:2026-11-04:seoul"
+        ]
+      },
+      {
+        "id": "ibw-luma-evt-NDGCExZGe7BfYks",
+        "slug": "defilunch",
+        "name": "DeFi Lunch at Devcon",
+        "startDate": "2026-11-04T06:30:00.000Z",
+        "keys": [
+          "ibw-luma-evt-ndgcexzge7bfyks",
+          "page:defilunch:2026-11-04",
+          "luma:evt-ndgcexzge7bfyks",
+          "luma-url:/defi-69kr",
+          "event:defilunchatdevcon:2026-11-04:mumbai"
+        ]
+      },
+      {
+        "id": "ibw-luma-evt-rUOnUMPkGfGF1CH",
+        "slug": "seedphrases",
+        "name": "Seed Phrases Stay Home | Wallet & dApp Walk",
+        "startDate": "2026-11-04T14:00:00.000Z",
+        "keys": [
+          "ibw-luma-evt-ruonumpkgfgf1ch",
+          "page:seedphrases:2026-11-04",
+          "luma:evt-ruonumpkgfgf1ch",
+          "luma-url:/rkhah22j",
+          "event:seedphrasesstayhomewalletdappwalk:2026-11-04:mumbai"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-27:afternoon",
+    "messageId": 155946,
+    "sentAt": "2026-10-27T11:32:01.063Z"
+  },
+  "66979222-ffb3-4916-87f8-fa43e0885cb8": {
+    "status": "sent",
+    "reservedAt": "2026-10-27T19:32:41.010Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "mu-316542881",
+        "slug": "crypto-wednesday-unconference-meetup-dao-gathering",
+        "name": "Crypto Wednesday: unconference, meetup and DAO gathering",
+        "startDate": "2026-11-04T19:00:00+01:00",
+        "keys": [
+          "mu-316542881",
+          "page:crypto-wednesday-unconference-meetup-dao-gathering:2026-11-04",
+          "url:meetup.com/daobrussels/events/316542881:2026-11-04",
+          "event:cryptowednesdayunconferencemeetupanddaogathering:2026-11-04:brussels"
+        ]
+      },
+      {
+        "id": "w3v-bitcoin-seoul-privacy-edition-26-11-05",
+        "slug": "bitcoin-seoul-privacy-edition",
+        "name": "bitcoin++ Seoul, Privacy Edition 2026",
+        "startDate": "2026-11-05",
+        "keys": [
+          "w3v-bitcoin-seoul-privacy-edition-26-11-05",
+          "page:bitcoin-seoul-privacy-edition:2026-11-05",
+          "url:btcpp.dev/seoul:2026-11-05",
+          "event:bitcoinseoulprivacyedition2026:2026-11-05:seoul"
+        ]
+      },
+      {
+        "id": "ibw-luma-evt-BabRKkjuW29SOdD",
+        "slug": "nodes-need-fresh-air-too-ethereum-infra-walk",
+        "name": "Nodes Need Fresh Air Too | Ethereum Infra Walk",
+        "startDate": "2026-11-05T01:30:00.000Z",
+        "keys": [
+          "ibw-luma-evt-babrkkjuw29sodd",
+          "freshair",
+          "page:nodes-need-fresh-air-too-ethereum-infra-walk:2026-11-05",
+          "luma:evt-babrkkjuw29sodd",
+          "luma-url:/4o1mzip0",
+          "event:nodesneedfreshairtooethereuminfrawalk:2026-11-05:mumbai"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-27:evening",
+    "messageId": 155953,
+    "sentAt": "2026-10-27T19:32:44.174Z"
+  },
+  "6fc9bda3-39ff-4831-8873-c9096170df8b": {
+    "status": "sent",
+    "reservedAt": "2026-10-28T03:43:54.149Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "ibw-luma-evt-W3bxtS9mKSeIwVK",
+        "slug": "deepflow",
+        "name": "Onchain Execution Dinner: Deepflow × Eureka Labs",
+        "startDate": "2026-11-05T13:30:00.000Z",
+        "keys": [
+          "ibw-luma-evt-w3bxts9mkseiwvk",
+          "page:deepflow:2026-11-05",
+          "luma:evt-w3bxts9mkseiwvk",
+          "luma-url:/defi-32af",
+          "event:onchainexecutiondinnerdeepfloweurekalabs:2026-11-05:mumbai"
+        ]
+      },
+      {
+        "id": "ibw-luma-evt-EjZWupM0D19CQZ8",
+        "slug": "zkfriends",
+        "name": "Zero Knowledge, Actual Friends | Privacy & ZK Walk",
+        "startDate": "2026-11-05T14:00:00.000Z",
+        "keys": [
+          "ibw-luma-evt-ejzwupm0d19cqz8",
+          "page:zkfriends:2026-11-05",
+          "luma:evt-ejzwupm0d19cqz8",
+          "luma-url:/hgkcvozg",
+          "event:zeroknowledgeactualfriendsprivacyzkwalk:2026-11-05:mumbai"
+        ]
+      },
+      {
+        "id": "discovery-evt-7zy6MxoDBJx7klg",
+        "slug": "mastering-bitcoin-mb-cohort-season-8-orientation-session",
+        "name": "Mastering Bitcoin (MB) Cohort - Season 8 - Orientation Session",
+        "startDate": "2026-11-05T14:30:00.000Z",
+        "keys": [
+          "discovery-evt-7zy6mxodbjx7klg",
+          "page:mastering-bitcoin-mb-cohort-season-8-orientation-session:2026-11-05",
+          "luma:evt-7zy6mxodbjx7klg",
+          "luma-url:/qito7z0l",
+          "event:masteringbitcoinmbcohortseason8orientationsession:2026-11-05:"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-28:morning",
+    "messageId": 155959,
+    "sentAt": "2026-10-28T03:44:06.292Z"
+  },
+  "6735f863-74c0-41b0-97e1-d879bf084d23": {
+    "status": "sent",
+    "reservedAt": "2026-10-28T11:48:34.635Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "mu-312669067",
+        "slug": "stockholm-bitcoin-meetup-54",
+        "name": "Stockholm Bitcoin Meetup #54",
+        "startDate": "2026-11-05T17:30:00+01:00",
+        "keys": [
+          "mu-312669067",
+          "page:stockholm-bitcoin-meetup-54:2026-11-05",
+          "url:meetup.com/swedish-bitcoin-meetups/events/312669067:2026-11-05",
+          "event:stockholmbitcoinmeetup54:2026-11-05:stockholm"
+        ]
+      },
+      {
+        "id": "mu-316748938",
+        "slug": "satoshi-radio-meetup-bitcoin-amsterdam",
+        "name": "Satoshi Radio Meetup (Bitcoin Amsterdam)",
+        "startDate": "2026-11-05T18:00:00+01:00",
+        "keys": [
+          "mu-316748938",
+          "page:satoshi-radio-meetup-bitcoin-amsterdam:2026-11-05",
+          "url:meetup.com/satoshi-radio-meetup/events/316748938:2026-11-05",
+          "event:satoshiradiomeetupbitcoinamsterdam:2026-11-05:haarlem"
+        ]
+      },
+      {
+        "id": "discovery-evt-FDr8AjPGzuXH10L",
+        "slug": "bitcoin-games-night",
+        "name": "Bitcoin Games Night",
+        "startDate": "2026-11-06T17:00:00+08:00",
+        "keys": [
+          "discovery-evt-fdr8ajpgzuxh10l",
+          "page:bitcoin-games-night:2026-11-06",
+          "luma:evt-fdr8ajpgzuxh10l",
+          "luma-url:/gs1dx4j4",
+          "event:bitcoingamesnight:2026-11-06:canggu"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-28:afternoon",
+    "messageId": 155962,
+    "sentAt": "2026-10-28T11:48:37.435Z"
+  },
+  "7878a017-2321-4be1-9532-47bebcda46a8": {
+    "status": "sent",
+    "reservedAt": "2026-10-28T19:33:01.579Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "ibw-luma-evt-0Hr9OEq92aSEqFs",
+        "slug": "stepfarming",
+        "name": "Yield Farming? Try Step Farming | DeFi Users' Walk",
+        "startDate": "2026-11-06T14:00:00.000Z",
+        "keys": [
+          "ibw-luma-evt-0hr9oeq92aseqfs",
+          "page:stepfarming:2026-11-06",
+          "luma:evt-0hr9oeq92aseqfs",
+          "luma-url:/zmsks9jh",
+          "event:yieldfarmingtrystepfarmingdefiuserswalk:2026-11-06:mumbai"
+        ]
+      },
+      {
+        "id": "ibw-luma-evt-fi1E5JHRmTD6D6r",
+        "slug": "onelastgm",
+        "name": "One Last GM, Mumbai | Ethereum Farewell Walk",
+        "startDate": "2026-11-07T01:30:00.000Z",
+        "keys": [
+          "ibw-luma-evt-fi1e5jhrmtd6d6r",
+          "page:onelastgm:2026-11-07",
+          "luma:evt-fi1e5jhrmtd6d6r",
+          "luma-url:/hqe3sz43",
+          "event:onelastgmmumbaiethereumfarewellwalk:2026-11-07:mumbai"
+        ]
+      },
+      {
+        "id": "discovery-evt-Nr9CNLkcyZkdgCa",
+        "slug": "bitcoin-indonesia-community-meetup-tangerang-07-november",
+        "name": "Bitcoin Indonesia Community Meetup Tangerang 07 November 2026",
+        "startDate": "2026-11-07T10:00:00+07:00",
+        "keys": [
+          "discovery-evt-nr9cnlkcyzkdgca",
+          "page:bitcoin-indonesia-community-meetup-tangerang-07-november:2026-11-07",
+          "luma:evt-nr9cnlkcyzkdgca",
+          "luma-url:/1s6rr12e",
+          "event:bitcoinindonesiacommunitymeetuptangerang07november2026:2026-11-07:tangerang selatan"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-28:evening",
+    "messageId": 155967,
+    "sentAt": "2026-10-28T19:33:05.922Z"
+  },
+  "de59b171-8ec7-4211-89a1-58b67a666ebb": {
+    "status": "sent",
+    "reservedAt": "2026-10-29T03:35:06.895Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "discovery-evt-iuADCcH9Q16yvM0",
+        "slug": "bitcoin-indonesia-community-meetup-bekasi-07-november",
+        "name": "Bitcoin Indonesia Community Meetup Bekasi 07 November 2026",
+        "startDate": "2026-11-07T13:00:00+07:00",
+        "keys": [
+          "discovery-evt-iuadcch9q16yvm0",
+          "page:bitcoin-indonesia-community-meetup-bekasi-07-november:2026-11-07",
+          "luma:evt-iuadcch9q16yvm0",
+          "luma-url:/ovna9s86",
+          "event:bitcoinindonesiacommunitymeetupbekasi07november2026:2026-11-07:bekasi"
+        ]
+      },
+      {
+        "id": "discovery-evt-A7RyC6d7MsaBgEm",
+        "slug": "bitcoin-indonesia-community-meetup-bogor-07-november",
+        "name": "Bitcoin Indonesia Community Meetup Bogor 07 November 2026",
+        "startDate": "2026-11-07T13:00:00+07:00",
+        "keys": [
+          "discovery-evt-a7ryc6d7msabgem",
+          "page:bitcoin-indonesia-community-meetup-bogor-07-november:2026-11-07",
+          "luma:evt-a7ryc6d7msabgem",
+          "luma-url:/q8584lzq",
+          "event:bitcoinindonesiacommunitymeetupbogor07november2026:2026-11-07:bogor"
+        ]
+      },
+      {
+        "id": "ibw-luma-evt-7bLYYfCCvXDasQt",
+        "slug": "clearsigning",
+        "name": "Clear-Signing & Wallet Security @ DEVCON",
+        "startDate": "2026-11-07T06:30:00.000Z",
+        "keys": [
+          "ibw-luma-evt-7blyyfccvxdasqt",
+          "page:clearsigning:2026-11-07",
+          "luma:evt-7blyyfccvxdasqt",
+          "luma-url:/kwi8jlpk",
+          "event:clearsigningwalletsecuritydevcon:2026-11-07:mumbai"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-29:morning",
+    "messageId": 155973,
+    "sentAt": "2026-10-29T03:35:15.524Z"
   }
 }

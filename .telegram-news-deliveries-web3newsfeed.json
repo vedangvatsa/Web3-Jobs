@@ -2119,5 +2119,501 @@
     "slotKey": "2026-10-23:afternoon",
     "messageId": 65771,
     "sentAt": "2026-10-23T11:32:40.436Z"
+  },
+  "9ee1ac61-8284-499e-81b6-80b4e16d073d": {
+    "status": "sent",
+    "reservedAt": "2026-10-23T19:33:08.364Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Aerodrome and Velodrome merge into Aero on seven chains",
+        "summary": "The unified decentralized exchange converts existing tokens into a single asset and turns locked positions into sAERO.",
+        "link": "https://hashtagweb3.com/aeromerge?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Aero launches as Aerodrome and Velodrome merge across seven chains"
+      },
+      {
+        "index": -1,
+        "headline": "Cardano Foundation opposes expanding MiCA rules to DeFi",
+        "summary": "The organization submitted a report advising the European Commission against creating new regulations for staking and decentralized finance.",
+        "link": "https://hashtagweb3.com/cardanomica?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Cardano Foundation tells EU not to extend MiCA rules to DeFi and staking"
+      },
+      {
+        "index": -1,
+        "headline": "Six organizations urge SEC to codify digital commodity rules",
+        "summary": "A joint letter asks the agency to include commodity definitions in formal rule text instead of interpretive guidance.",
+        "link": "https://hashtagweb3.com/digitalcommodity?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Chainlink, Cardano, five other groups ask SEC to codify digital commodity status"
+      }
+    ],
+    "slotKey": "2026-10-23:evening",
+    "messageId": 65772,
+    "sentAt": "2026-10-23T19:33:16.948Z"
+  },
+  "1b707334-da3f-451e-ac9f-bd73d333114a": {
+    "status": "sent",
+    "reservedAt": "2026-10-24T16:58:17.865Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Robinhood Secures Dubai License Ahead of 2027 Launch",
+        "summary": "On Oct. 22, the company received DFSA authorization to offer trading and custody across 10 asset classes.",
+        "link": "https://hashtagweb3.com/robinhooddubai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Robinhood wins Dubai license for 2027 Middle East launch"
+      },
+      {
+        "index": -1,
+        "headline": "Dogecoin Labs formed to unify key ecosystem products",
+        "summary": "The entity combines the MyDoge wallet, DogeOS platform, and Such App merchant tools under CEO Jordan Jefferson.",
+        "link": "https://hashtagweb3.com/dogecoinlabs?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Dogecoin Labs launches to consolidate MyDoge, DogeOS and merchant tools"
+      },
+      {
+        "index": -1,
+        "headline": "ACINQ releases second Eclair security patch in five days",
+        "summary": "Node operators are urged to install version 0.14.5 to fix newly identified peer-exploitable vulnerabilities.",
+        "link": "https://hashtagweb3.com/eclairpatches?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Eclair ships second Lightning security patch in five days"
+      }
+    ],
+    "slotKey": "2026-10-24:afternoon",
+    "messageId": 65773,
+    "sentAt": "2026-10-24T16:58:20.971Z"
+  },
+  "dbed98d1-92a3-4898-8ed1-246cc5fc83f6": {
+    "status": "sent",
+    "reservedAt": "2026-10-24T19:33:32.710Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Malaysia launches SSDS+ platform for tokenized bonds and sukuk",
+        "summary": "The central bank's distributed ledger integrates with RENTAS+ to enable 24/7 settlement of tokenized securities.",
+        "link": "https://hashtagweb3.com/malayssds?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bank Negara Malaysia launches SSDS+ platform for tokenized bonds and sukuk"
+      },
+      {
+        "index": -1,
+        "headline": "Ethereum staking reaches 43.8 million ETH with lower yields",
+        "summary": "Staked Ethereum supply grew to 35.9% as yields dropped to 2.63% and Solana staking increased.",
+        "link": "https://hashtagweb3.com/stakingrecord?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ethereum staking hits record 43.8 million ETH as gross yield falls to 2.63%"
+      },
+      {
+        "index": -1,
+        "headline": "France approves crypto-to-stablecoin tax amendment",
+        "summary": "The National Assembly passed the tax measure by one vote and scheduled the final budget vote for November 3.",
+        "link": "https://hashtagweb3.com/francevote?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "France sets Nov. 3 budget vote after one-vote stablecoin tax win"
+      }
+    ],
+    "slotKey": "2026-10-24:evening",
+    "messageId": 65774,
+    "sentAt": "2026-10-24T19:33:37.756Z"
+  },
+  "4c2a3326-6b1d-47e6-aaac-fe3203062ad5": {
+    "status": "sent",
+    "reservedAt": "2026-10-25T03:41:19.980Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Winklevoss super PAC spends $81,000 on Texas mailers",
+        "summary": "The Digital Freedom Fund disclosed spending to support Ken Paxton and oppose James Talarico in federal filings.",
+        "link": "https://hashtagweb3.com/winklevosspac?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Winklevoss super PAC reports first Texas Senate mail buy of $81,000"
+      },
+      {
+        "index": -1,
+        "headline": "Kalshi enables crypto collateral for perpetual futures trading margin",
+        "summary": "Users secure margin loans with BitGo-held assets as Webull prepares to list Kalshi perpetuals in November.",
+        "link": "https://hashtagweb3.com/kalshibitgo?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Kalshi lets Prime clients borrow against bitcoin and ether for perpetual futures margin"
+      },
+      {
+        "index": -1,
+        "headline": "NEAR Protocol considers reducing annual token issuance to 1.6%",
+        "summary": "The network is voting on a proposal to lower maximum token inflation over the next two years.",
+        "link": "https://hashtagweb3.com/nearissuance?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "NEAR opens House of Stake vote to cut annual token issuance to 1.6%"
+      }
+    ],
+    "slotKey": "2026-10-25:morning",
+    "messageId": 65775,
+    "sentAt": "2026-10-25T03:41:32.609Z"
+  },
+  "b422c2e4-22e7-4f26-b800-a60dd890c1b1": {
+    "status": "sent",
+    "reservedAt": "2026-10-25T11:34:17.934Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "OCC issues final stablecoin regulations for the GENIUS Act",
+        "summary": "These rules establish reserve and risk standards for payment stablecoin issuers before the law takes effect in 2027.",
+        "link": "https://hashtagweb3.com/occgenius?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "OCC finalizes GENIUS Act stablecoin rules ahead of January deadline"
+      },
+      {
+        "index": -1,
+        "headline": "Optimum launches mump2p block protocol on Ethereum mainnet",
+        "summary": "Sixteen operators managing 22,000 validator keys now use the protocol for faster block delivery than GossipSub.",
+        "link": "https://hashtagweb3.com/mump2p?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Optimum brings mump2p block propagation to Ethereum mainnet with 16 operators"
+      },
+      {
+        "index": -1,
+        "headline": "PancakeSwap fee and emission proposal faces 98% opposition",
+        "summary": "The plan to increase provider fees and reduce token rewards remains largely unpopular ahead of the Saturday deadline.",
+        "link": "https://hashtagweb3.com/cakeflip?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "PancakeSwap fee overhaul vote faces 98% opposition before Saturday close"
+      }
+    ],
+    "slotKey": "2026-10-25:afternoon",
+    "messageId": 65776,
+    "sentAt": "2026-10-25T11:34:21.200Z"
+  },
+  "c7e2a75a-9b19-4c42-a75e-bef9cfe09930": {
+    "status": "sent",
+    "reservedAt": "2026-10-26T03:37:03.600Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Nectar Group Raises $5 Million for Bitcoin Yield Platform",
+        "summary": "The company will allow institutions to earn returns on Bitcoin holdings through credit and options strategies.",
+        "link": "https://hashtagweb3.com/honeyb?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Nectar Group raises $5M seed to build HoneyB, a Bitcoin yield platform for institutions"
+      },
+      {
+        "index": -1,
+        "headline": "Polkadot advises Fearless Wallet users to move funds",
+        "summary": "Four browser extension versions leaked private keys, requiring users to create new wallets and transfer their assets.",
+        "link": "https://hashtagweb3.com/fearlesswallet?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Polkadot tells Fearless Wallet users to move funds after private-key leak"
+      },
+      {
+        "index": -1,
+        "headline": "SEC Crypto Regulation Comment Period Ends",
+        "summary": "The agency received 140 public submissions and will continue accepting additional feedback despite the official deadline passing.",
+        "link": "https://hashtagweb3.com/regcrypto?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEC comment window closes on Reg Crypto with submissions still arriving"
+      }
+    ],
+    "slotKey": "2026-10-26:morning",
+    "messageId": 65777,
+    "sentAt": "2026-10-26T03:37:07.504Z"
+  },
+  "0fecc3f0-34fd-4732-bc3a-83fb2481fe4b": {
+    "status": "sent",
+    "reservedAt": "2026-10-26T11:34:14.959Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Dogecoin Foundation Ends House of Doge Trademark Agreement",
+        "summary": "Both entities must rename by December 31, and the subsidiary will pay $400,000 following the deal's termination.",
+        "link": "https://hashtagweb3.com/dogebrandlicense?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Dogecoin Foundation ends exclusive House of Doge trademark license"
+      },
+      {
+        "index": -1,
+        "headline": "Evernorth Secures $80.7M Equity Facility to Buy XRP",
+        "summary": "The firm agreed to sell up to 5.2 million shares to a Cantor Fitzgerald affiliate.",
+        "link": "https://hashtagweb3.com/evernorthcantor?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Evernorth signs Cantor equity facility to fund XRP purchases"
+      },
+      {
+        "index": -1,
+        "headline": "Fifteen mining firms support Tether's Bitcoin automation software",
+        "summary": "Operators and hardware makers will integrate Tether's kit to automate fleet management using shared software and AI.",
+        "link": "https://hashtagweb3.com/tethermdk?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Tether says 15 mining firms back its MDK automation layer for Bitcoin mines"
+      }
+    ],
+    "slotKey": "2026-10-26:afternoon",
+    "messageId": 65778,
+    "sentAt": "2026-10-26T11:34:17.545Z"
+  },
+  "2952be70-f31c-47bd-bd69-4e815e564d58": {
+    "status": "sent",
+    "reservedAt": "2026-10-26T19:47:45.417Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "New York AG Seeks $1.37 Billion From NovaTech Founders",
+        "summary": "The state also reached $6 million in settlements with four promoters of the alleged cryptocurrency fraud scheme.",
+        "link": "https://hashtagweb3.com/novatechjudgment?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "New York Seeks $1.37 Billion Judgment From NovaTech Founders"
+      },
+      {
+        "index": -1,
+        "headline": "Polymarket sues Ohio over sports betting license requirements",
+        "summary": "The exchange claims state licensing demands violate federal law and the U.S. Constitution.",
+        "link": "https://hashtagweb3.com/polymarketohio?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Polymarket sues Ohio in federal court over sports event contract order"
+      },
+      {
+        "index": -1,
+        "headline": "PHP Patches Two Bugs Following Attacks on Government Websites",
+        "summary": "Fixes for CVE-2026-109618 and CVE-2026-109619 arrived October 21 after Cloudflare observed active exploitation against government infrastructure.",
+        "link": "https://hashtagweb3.com/phppanic?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "PHP releases emergency patches for two critical bugs after government sites go offline"
+      }
+    ],
+    "slotKey": "2026-10-26:evening",
+    "messageId": 65779,
+    "sentAt": "2026-10-26T19:47:51.881Z"
+  },
+  "7b2bcb9d-ac58-4fb4-96d7-3d15159e0b1f": {
+    "status": "sent",
+    "reservedAt": "2026-10-27T03:45:37.549Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Pump.fun sets in-house bridge as default for crosschain trades",
+        "summary": "Test data indicates buy errors fell to 0.9% while average transaction times decreased to 1.95 seconds.",
+        "link": "https://hashtagweb3.com/pumpbridge?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Pump.fun makes its own Pump Bridge the default crosschain route"
+      },
+      {
+        "index": -1,
+        "headline": "SEC Identifies Asset Tokenization as High-Risk for Clearing Agencies",
+        "summary": "The agency included tokenized assets in its 2027 examination priorities for clearing firms and technology infrastructure oversight.",
+        "link": "https://hashtagweb3.com/sectokenization?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEC Exam Priorities Name Tokenization a High-Risk Area at Clearing Agencies"
+      },
+      {
+        "index": -1,
+        "headline": "Shinhan Card and SBI Test Yen Stablecoin Payments",
+        "summary": "The companies are testing stablecoin-based card payments and transfers for travel and trade between Japan and South Korea.",
+        "link": "https://hashtagweb3.com/shinhanstable?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Shinhan Card and SBI test yen stablecoin payments for Japan-Korea travel"
+      }
+    ],
+    "slotKey": "2026-10-27:morning",
+    "messageId": 65780,
+    "sentAt": "2026-10-27T03:45:47.561Z"
+  },
+  "df8d9dea-77cd-4b85-85e9-6c9fe56b892c": {
+    "status": "sent",
+    "reservedAt": "2026-10-27T11:35:56.554Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Canada begins 60-day consultation on draft stablecoin regulations",
+        "summary": "The draft mandates local one-to-one reserves and three-day redemptions while maintaining a ban on interest payments.",
+        "link": "https://hashtagweb3.com/canadastablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Canada Opens 60-Day Consultation on Draft Stablecoin Rules"
+      },
+      {
+        "index": -1,
+        "headline": "Keystone destroys 19,000 wallets following data and key theft",
+        "summary": "The company suspended shipping after an intruder accessed 26,000 customer records and a device authentication key.",
+        "link": "https://hashtagweb3.com/keystonebreach?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Keystone to destroy almost 19,000 wallets after breach exposes customer data and device verification key"
+      },
+      {
+        "index": 30,
+        "headline": "Aviva Investors tokenizes $29 billion liquidity fund on XRP Ledger",
+        "summary": "The asset manager launched a tokenized share class for its sterling liquidity fund using blockchain technology.",
+        "event_rationale": "This covers a major institutional tokenization event involving a multi-billion dollar fund, distinct from previous stablecoin or ETF news.",
+        "link": "https://www.theblock.co/news/business/2026-10-26-aviva-investors-ripple-tokenized-share-class-sterling-fund-xrp-ledger-431712",
+        "source": "The Block",
+        "originalTitle": "Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger"
+      }
+    ],
+    "slotKey": "2026-10-27:afternoon",
+    "messageId": 65781,
+    "sentAt": "2026-10-27T11:36:06.181Z"
+  },
+  "c17cce17-2de2-4c24-9ede-c913c8e3031c": {
+    "status": "sent",
+    "reservedAt": "2026-10-27T19:36:43.773Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Initia exploit drains bridge reserves and halts user withdrawals",
+        "summary": "Attackers stole $2.73 million using unbacked tokens, leaving the Noble USDC reserve with only $63.",
+        "link": "https://hashtagweb3.com/initiareserve?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Initia hack drove its USDC bridge reserve down to $63 as withdrawals failed"
+      },
+      {
+        "index": -1,
+        "headline": "Starknet voters support research into a new layer 1",
+        "summary": "StarkWare and the Starknet Foundation are investigating a potential independent layer 1 following a recent community vote.",
+        "link": "https://hashtagweb3.com/starknetresearch?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Starknet poll backs layer 1 research with 93.5% of voting power"
+      },
+      {
+        "index": -1,
+        "headline": "Three Firms Notify SEC of Tokenized Stock Venue Plans",
+        "summary": "TSV LLC, OKXICE, and Kephas Corp informed regulators of their intent to operate venues for tokenized securities.",
+        "link": "https://hashtagweb3.com/secstocks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEC Names Three Operators Notifying It of Tokenized Stock Venue Plans"
+      }
+    ],
+    "slotKey": "2026-10-27:evening",
+    "messageId": 65782,
+    "sentAt": "2026-10-27T19:36:49.946Z"
+  },
+  "a1a78856-745a-4481-a015-89dff187dba0": {
+    "status": "sent",
+    "reservedAt": "2026-10-28T03:49:41.952Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Tech Companies Block Flawed eMudhra Security Certificates",
+        "summary": "Major browsers removed eight eMudhra certificates, leaving some crypto applications vulnerable to potential security risks.",
+        "link": "https://hashtagweb3.com/emudhra?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Tech giants block eMudhra certificates as CertiK warns crypto apps may stay exposed"
+      },
+      {
+        "index": -1,
+        "headline": "Tesla and SpaceX Consider Potential Merger",
+        "summary": "The companies are evaluating a merger that would consolidate their combined holdings of 30,221 bitcoin.",
+        "link": "https://hashtagweb3.com/spacextesla?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Tesla and SpaceX explore merger that would unite 30,221 bitcoin"
+      },
+      {
+        "index": -1,
+        "headline": "Tether invests $15 million in fintech startup Mural",
+        "summary": "Mural raised $15 million to develop payment systems for AI agents, reaching $28 million in total funding.",
+        "link": "https://hashtagweb3.com/tethermural?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Tether leads $15 million Series A in AI payments startup Mural"
+      }
+    ],
+    "slotKey": "2026-10-28:morning",
+    "messageId": 65783,
+    "sentAt": "2026-10-28T03:49:48.274Z"
+  },
+  "257c5158-3233-47fd-a7a6-c878a20eb7b4": {
+    "status": "sent",
+    "reservedAt": "2026-10-28T11:51:42.591Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "US Senator Requests Tether Records on Bo Hines Firm",
+        "summary": "Senator Blumenthal requested contracts, payments, and lobbying records from Tether and Nxum Group on October 22.",
+        "link": "https://hashtagweb3.com/tetherhines?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Senate investigator demands records of Tether payments to Bo Hines firm"
+      },
+      {
+        "index": -1,
+        "headline": "Trump to discuss international crypto scams at White House event",
+        "summary": "The October 21 meeting covers seizures of fraudulent investment websites and enforcement actions against foreign scam operations.",
+        "link": "https://hashtagweb3.com/trumpscam?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Trump to spotlight overseas crypto scams at White House cybercrime event"
+      },
+      {
+        "index": -1,
+        "headline": "Zcash developers schedule NU7 upgrade for November 5",
+        "summary": "The update reduces block times to 25 seconds and includes the Zebra 7.0.0 software release.",
+        "link": "https://hashtagweb3.com/zcashnu7?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Zcash developers lock Nov. activation height for NU7 upgrade"
+      }
+    ],
+    "slotKey": "2026-10-28:afternoon",
+    "messageId": 65784,
+    "sentAt": "2026-10-28T11:52:22.755Z"
+  },
+  "67200951-a6bf-4888-8f56-cfd9a9b87dd0": {
+    "status": "sent",
+    "reservedAt": "2026-10-28T19:40:35.117Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Drift exploiters move $61 million in ETH to Tornado Cash",
+        "summary": "Attackers from the April Drift protocol hack transferred 25,700 ETH and retain $198 million in stolen assets.",
+        "link": "https://hashtagweb3.com/driftrancho?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Drift exploit wallets push $61 million in ETH to Tornado Cash"
+      },
+      {
+        "index": -1,
+        "headline": "Qubic Restarts Mainnet Following $14 Million Exploit",
+        "summary": "The network resumed operations on October 19 and began processing recovery claims for affected users.",
+        "link": "https://hashtagweb3.com/qubicreclaim?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Qubic restarts mainnet and opens claims after $14 million drain"
+      },
+      {
+        "index": -1,
+        "headline": "Mastercard launches fraud detection tool for stablecoin payments",
+        "summary": "The new API screens stablecoin transactions for fraud and sanctions compliance before funds are settled.",
+        "link": "https://hashtagweb3.com/mastercardrisk?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Mastercard scores stablecoin payments for fraud before they settle"
+      }
+    ],
+    "slotKey": "2026-10-28:evening",
+    "messageId": 65785,
+    "sentAt": "2026-10-28T19:40:40.989Z"
+  },
+  "759e3f64-b116-43c6-a4b6-b13d47aece7a": {
+    "status": "sent",
+    "reservedAt": "2026-10-29T03:39:17.610Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Obol updates Charon software after eMudhra certificate authority incident",
+        "summary": "Mainnet operators should install version 1.11.2 to fix issues with Go certificate checks.",
+        "link": "https://hashtagweb3.com/charonupgrade?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Obol ships urgent Charon patch after eMudhra certificate compromise"
+      },
+      {
+        "index": -1,
+        "headline": "XRP Ledger updates lending protocol code before activation",
+        "summary": "Developers released a patch for the upcoming lending feature ahead of its scheduled October 23 implementation.",
+        "link": "https://hashtagweb3.com/xrplending?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "XRP Ledger patches its lending code before the feature ever turns on"
+      },
+      {
+        "index": -1,
+        "headline": "Circle reports seven percent net profit margin for USDC",
+        "summary": "Circle spent 59 percent of revenue on costs and reinvested 34 percent during the first half of the year.",
+        "link": "https://hashtagweb3.com/circlemargin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Circle says it kept 7 cents of each USDC revenue dollar in first half"
+      }
+    ],
+    "slotKey": "2026-10-29:morning",
+    "messageId": 65786,
+    "sentAt": "2026-10-29T03:39:25.431Z"
   }
 }

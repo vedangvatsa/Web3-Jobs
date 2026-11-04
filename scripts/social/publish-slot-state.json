@@ -1,15 +1,15 @@
 {
-  "news": "2026-10-23",
-  "morning": "2026-10-23",
+  "news": "2026-10-29",
+  "morning": "2026-10-29",
   "afternoon": "2026-09-24",
   "evening": "2026-09-24",
   "slots": {
-    "morning": "2026-10-15",
+    "morning": "2026-10-25",
     "afternoon": "2026-10-15",
-    "evening": "2026-10-15"
+    "evening": "2026-10-27"
   },
-  "deployed": "2026-10-23",
-  "ingested": "2026-10-23",
+  "deployed": "2026-10-27",
+  "ingested": "2026-10-29",
   "dailyDeployments": {
     "2026-10-23": [
       {
@@ -35,6 +35,252 @@
         "observedAt": "2026-10-23T09:44:21.697Z",
         "rolloutState": "SUCCEEDED",
         "confirmedAt": "2026-10-23T09:44:21.697Z"
+      }
+    ],
+    "2026-10-24": [
+      {
+        "date": "2026-10-24",
+        "id": "40125564263-1",
+        "sourceCommit": "3abbf046ea6597c5a4caf906d91543267d05dc93",
+        "jobsCheckedAt": "2026-10-24T08:31:51.802Z",
+        "newsCompletedAt": "2026-10-24T20:47:54.615Z",
+        "articleSlugs": [
+          "wtiperp",
+          "hoodidelay",
+          "bcatax",
+          "winklevosspac",
+          "utexomint",
+          "starknetresearch",
+          "thailandapplicants"
+        ],
+        "phase": "succeeded",
+        "startedAt": "2026-10-24T20:48:54.626Z",
+        "buildId": "daily-20261024-40125564263-1",
+        "rolloutId": "daily-20261024-40125564263-1",
+        "buildState": "READY",
+        "observedAt": "2026-10-24T21:14:35.901Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-10-24T21:14:35.901Z"
+      }
+    ],
+    "2026-10-25": [
+      {
+        "date": "2026-10-25",
+        "id": "40158900174-1",
+        "sourceCommit": "b2137c1652f5b5bed2b1ade6ce84f27050adb5ab",
+        "jobsCheckedAt": "2026-10-25T03:46:50.636Z",
+        "newsCompletedAt": "2026-10-25T04:52:56.057Z",
+        "articleSlugs": [
+          "pumpbridge",
+          "sectokenization",
+          "novatechjudgment",
+          "bokforex"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-10-25T04:54:00.066Z",
+        "buildId": "daily-20261025-40158900174-1",
+        "rolloutId": "daily-20261025-40158900174-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-10-25T05:23:23.077Z"
+      },
+      {
+        "date": "2026-10-25",
+        "id": "40164272326-1",
+        "sourceCommit": "72c1a50f6d262425df7fcd385b32e105dc00484a",
+        "jobsCheckedAt": "2026-10-25T03:46:50.636Z",
+        "newsCompletedAt": "2026-10-25T04:52:56.057Z",
+        "articleSlugs": [
+          "pumpbridge",
+          "sectokenization",
+          "novatechjudgment",
+          "bokforex"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-10-25T05:24:57.971Z",
+        "buildId": "daily-20261025-40164272326-1",
+        "rolloutId": "daily-20261025-40164272326-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-10-25T05:54:38.132Z"
+      }
+    ],
+    "2026-10-27": [
+      {
+        "date": "2026-10-27",
+        "id": "40445498812-1",
+        "sourceCommit": "42cdb2812622419758006b474dee17590f9ee7c2",
+        "jobsCheckedAt": "2026-10-27T03:48:53.148Z",
+        "newsCompletedAt": "2026-10-27T05:29:04.854Z",
+        "articleSlugs": [
+          "keystonebreach",
+          "akash",
+          "osmosis",
+          "canadastablecoin"
+        ],
+        "phase": "succeeded",
+        "startedAt": "2026-10-27T05:30:03.123Z",
+        "buildId": "daily-20261027-40445498812-1",
+        "rolloutId": "daily-20261027-40445498812-1",
+        "buildState": "READY",
+        "observedAt": "2026-10-27T05:55:45.485Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-10-27T05:55:45.485Z"
+      }
+    ],
+    "2026-10-28": [
+      {
+        "date": "2026-10-28",
+        "id": "40628179589-1",
+        "sourceCommit": "9a2940976f742e30b961e3cc5a91de117b63fb2a",
+        "jobsCheckedAt": "2026-10-28T03:50:06.305Z",
+        "newsCompletedAt": "2026-10-28T05:10:25.001Z",
+        "articleSlugs": [
+          "nba",
+          "vaneckbuilder",
+          "binancebr",
+          "depositbug",
+          "cftcutah",
+          "luxorai",
+          "zcgstream"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-10-28T05:11:23.871Z",
+        "buildId": "daily-20261028-40628179589-1",
+        "rolloutId": "daily-20261028-40628179589-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-10-28T05:31:30.858Z"
+      },
+      {
+        "date": "2026-10-28",
+        "id": "40668391378-1",
+        "sourceCommit": "a08be41b1518e779c2f7ce21f283ee80d2cfae0b",
+        "jobsCheckedAt": "2026-10-28T03:50:06.305Z",
+        "newsCompletedAt": "2026-10-28T05:10:25.001Z",
+        "articleSlugs": [
+          "nba",
+          "vaneckbuilder",
+          "binancebr",
+          "depositbug",
+          "cftcutah",
+          "luxorai",
+          "zcgstream"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-10-28T09:59:39.892Z",
+        "buildId": "daily-20261028-40668391378-1",
+        "rolloutId": "daily-20261028-40668391378-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-10-28T10:12:52.251Z"
+      },
+      {
+        "date": "2026-10-28",
+        "id": "40682241170-1",
+        "sourceCommit": "bdf22d166dda0be52022218125fcdc642460c221",
+        "jobsCheckedAt": "2026-10-28T03:50:06.305Z",
+        "newsCompletedAt": "2026-10-28T05:10:25.001Z",
+        "articleSlugs": [
+          "nba",
+          "vaneckbuilder",
+          "binancebr",
+          "depositbug",
+          "cftcutah",
+          "luxorai",
+          "zcgstream"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-10-28T11:48:30.470Z",
+        "buildId": "daily-20261028-40682241170-1",
+        "rolloutId": "daily-20261028-40682241170-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-10-28T12:06:44.106Z"
+      },
+      {
+        "date": "2026-10-28",
+        "id": "40733876383-1",
+        "sourceCommit": "e918b52e14d86e406386cc2f077c4f56f607e8d0",
+        "jobsCheckedAt": "2026-10-28T03:50:06.305Z",
+        "newsCompletedAt": "2026-10-28T05:10:25.001Z",
+        "articleSlugs": [
+          "nba",
+          "vaneckbuilder",
+          "binancebr",
+          "depositbug",
+          "cftcutah",
+          "luxorai",
+          "zcgstream"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-10-28T17:17:26.491Z",
+        "buildId": "daily-20261028-40733876383-1",
+        "rolloutId": "daily-20261028-40733876383-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-10-28T17:36:05.148Z"
+      },
+      {
+        "date": "2026-10-28",
+        "id": "40754846935-1",
+        "sourceCommit": "9e5332a8c09c0138a4b91ca47e5b7e18ce5eccb7",
+        "jobsCheckedAt": "2026-10-28T03:50:06.305Z",
+        "newsCompletedAt": "2026-10-28T05:10:25.001Z",
+        "articleSlugs": [
+          "nba",
+          "vaneckbuilder",
+          "binancebr",
+          "depositbug",
+          "cftcutah",
+          "luxorai",
+          "zcgstream"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-10-28T19:36:19.912Z",
+        "buildId": "daily-20261028-40754846935-1",
+        "rolloutId": "daily-20261028-40754846935-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-10-28T19:55:32.808Z"
+      },
+      {
+        "date": "2026-10-28",
+        "id": "40786818935-1",
+        "sourceCommit": "9b3602d1ec003cae1acde094acb63ce813ed1d02",
+        "jobsCheckedAt": "2026-10-28T03:50:06.305Z",
+        "newsCompletedAt": "2026-10-28T05:10:25.001Z",
+        "articleSlugs": [
+          "nba",
+          "vaneckbuilder",
+          "binancebr",
+          "depositbug",
+          "cftcutah",
+          "luxorai",
+          "zcgstream"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-10-28T23:22:55.057Z",
+        "buildId": "daily-20261028-40786818935-1",
+        "rolloutId": "daily-20261028-40786818935-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-10-28T23:41:04.904Z"
+      }
+    ],
+    "2026-10-29": [
+      {
+        "date": "2026-10-29",
+        "id": "40812787568-1",
+        "sourceCommit": "318bc469755a7350dc8e37260c326e5b81c9e2fe",
+        "jobsCheckedAt": "2026-10-29T03:44:10.332Z",
+        "newsCompletedAt": "2026-10-29T04:51:23.333Z",
+        "articleSlugs": [
+          "phpctf",
+          "cftcprobe",
+          "liquidgap",
+          "bithumbraid",
+          "bitgojupiter",
+          "dailydividends"
+        ],
+        "phase": "build-failed",
+        "startedAt": "2026-10-29T04:52:28.156Z",
+        "buildId": "daily-20261029-40812787568-1",
+        "rolloutId": "daily-20261029-40812787568-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-10-29T05:10:35.174Z"
       }
     ]
   }

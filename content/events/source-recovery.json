@@ -20,48 +20,6 @@
       "reason": "The source title and image-based heading did not match the old punctuation variant; the organizer's event-specific page provides the full program."
     },
     {
-      "id": "premier-ethsofia",
-      "kind": "reviewed",
-      "sourceUrl": "https://www.ethsofia.com/",
-      "contains": [
-        "24 September 2026",
-        "Sofia Tech Park",
-        "ETHSofia is Bulgaria’s premier Ethereum-focused conference"
-      ],
-      "description": "ETHSofia is Bulgaria’s premier Ethereum-focused conference, bringing together builders, researchers, and institutions shaping the future of the original smart contract blockchain. With a strong regional lens and a global perspective, ETHSofia brings together local leaders and international experts to explore the latest Ethereum trends and use cases, from privacy-preserving infrastructure to real-world asset tokenization.\n\n## Main themes\n\n• Onchain privacy and scaling\n• Smart contract security and OPSEC\n• Consumer DeFi\n• Ethereum integrations into Web2\n\n## Who attends\n\nThe program brings together Ethereum teams building applications and core infrastructure, service providers supporting production-grade crypto experience, teams integrating Ethereum in Web2, security professionals focused on audits, risk and resilience, and developers and researchers across scaling, privacy, UX and protocol development.\n\n## Venue\n\nThe conference takes place on 24 September 2026 at Sofia Tech Park. The John Atanasoff Forum is part of Bulgaria's first science and technology park.",
-      "patch": {
-        "startDate": "2026-09-24",
-        "endDate": "2026-09-24",
-        "timezone": "Europe/Sofia",
-        "venueName": "John Atanasoff Forum, Sofia Tech Park",
-        "location": "Sofia Tech Park, Sofia, Bulgaria"
-      },
-      "reason": "Replaced the parent Blockchain Week homepage with ETHSofia's own 2026 event page and corrected the conference from a three-day listing to 24 September."
-    },
-    {
-      "id": "premier-ethtokyo-2026",
-      "kind": "reviewed",
-      "sourceUrl": "https://ethglobal.com/events/tokyo2026",
-      "variant": "reader",
-      "contains": [
-        "ETHGlobal Tokyo 2026",
-        "September 25 – 27, 2026",
-        "Toranomon Hills Forum",
-        "ETHGlobal hackathons enable you to experiment"
-      ],
-      "description": "ETHGlobal hackathons enable you to experiment with cutting edge web3 technologies and develop an idea you're passionate about. This is your opportunity to learn about crypto, expand your network, meet industry professionals, and find like-minded people who are collectively creating a new kind of web.\n\n## Tokyo 2026\n\nThe Tokyo hackathon runs September 25–27, 2026 at Toranomon Hills Forum, on the fifth floor of Toranomon Hills Mori Tower. The organizer lists $75,000 available in prizes.\n\n## Themes and topics\n\n• Zero knowledge proofs\n• AI x Crypto\n• DeFi and crypto consumer applications\n• Layer 2s and interoperability\n• Public goods\n• Privacy, security and TEEs\n• Data availability, identity and developer tools\n\n## Building formats\n\nFor the first time ever, your project doesn't have to start at zero. Bring what you've already built.\n\nThe organizer offers three formats: From Scratch, Extend Open Source, and Ship a Feature. The published rules specify teams of 1–5 members and up to three sponsor SDKs.\n\n## Participation\n\nThe event is beginner friendly and includes technical mentorship, curated content, exclusive swag, and free food and drinks.",
-      "patch": {
-        "timezone": "Asia/Tokyo",
-        "venueName": "Toranomon Hills Forum (5th floor)",
-        "streetAddress": "1 Chome-23-3 Toranomon, Toranomon Hills Mori Tower 5F",
-        "addressLocality": "Minato City",
-        "addressCountry": "JP",
-        "postalCode": "105-0001",
-        "location": "Toranomon Hills Forum, 1 Chome-23-3 Toranomon, Minato City, Tokyo 105-0001, Japan"
-      },
-      "reason": "Recovered the organizer's page through a readable public rendering; the direct endpoint returns HTTP 500 despite publishing event content."
-    },
-    {
       "id": "premier-solidusroundtable",
       "kind": "luma",
       "sourceUrl": "https://luma.com/fop77t0t",

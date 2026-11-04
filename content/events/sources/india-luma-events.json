@@ -84,188 +84,6 @@
     "sideEventFor": []
   },
   {
-    "id": "india-luma-zd0c5ys7",
-    "name": "MIP-19: Road to Devcon w/ ETHGlobal",
-    "description": "Welcome to MIP-19\n\nPresenting a new format of MIP for the Road to Devcon, this time along with ETHGlobal.\n\nDevcon is an Ethereum conference for developers, researchers, thinkers, and makers.\n\nAgenda\n\n12 PM: Doors open\n\n12:20 PM: Devcon 8\n\nGet all the latest updates of Devcon 8 India, the largest gathering for Ethereum, happening from 3 – 6 Nov 2026.\n\n12:40 PM: ETHGlobal Mumbai\n\nLearn about the schedule, format, tracks, and prizes for the ETHGlobal Mumbai hackathon, happening from 5 – 7 Nov 2026.\n\n1 PM: Networking\n\nTea / Coffee will provided to everyone at the venue.\n\n2 PM: Doors close\n\nFollow ETHMumbai on: X | TelegramFollow ETHGlobal on: X | DiscordFollow Devcon on: X | Telegram",
-    "startDate": "2026-09-26T06:30:00.000Z",
-    "endDate": "2026-09-26T08:30:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://luma.com/zd0c5ys7",
-    "coverImage": "/events/india-luma-zd0c5ys7-64e65a93.webp",
-    "source": "luma-india",
-    "hosts": [
-      "ETHMumbai"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Calcutta",
-    "slug": "mip-19",
-    "registrationUrl": "https://luma.com/zd0c5ys7",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "ETHMumbai",
-      "url": "https://ethmumbai.in/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/zd0c5ys7",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/zd0c5ys7",
-      "eventId": "evt-UaoErPKS55Pnk06",
-      "fetchedAt": "2026-09-22T11:53:33.000Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "india-luma-near-ss07",
-    "name": "NEAR Builders Cafe: Roast My Repo",
-    "description": "Think of the late-night bonding at a YC Hacker House or a top-tier AI research retreat. We are bringing together 15-20serious builders in Mumbai for an afternoon of high-trust networking and collaborative building.\n\nNo pitch decks. No VC speed-dating. No awkward small talk. We are engineering an environment where you actually get to know the person next to you by looking at their code, debating architecture, and helping each other get unstuck. If you are building AI agents, Web3 infrastructure, or consumer apps on Confidential AI/ Economy, this is your room.\n\nHow We Network\n\nThe Problem Pitch:\nCome prepared to share what you’re building, the problem you’re facing, and what you’re stuck on right now. Keep it short and concrete, no polished elevator pitches needed.\n\nThe Room Helps:\nAfter each pitch, the audience can jump in with ideas, relevant experience, introductions, or potential solutions. If you’ve faced the same problem before, share what worked (or didn’t).\n\nWe don’t want forced networking, writing exercises, or people splitting off into groups. The goal is simply to put interesting problems in front of smart people and let the conversation happen naturally.\n\nDinner/Drinks Post-Session:\nAfter the session, we’ll head somewhere nearby for food and drinks. That’s where you can continue the conversations, meet people one-on-one, and explore ideas that came up during the session.\n\nWho is this for?\n\n• Builders who want to find technical collaborators, not just \"connections.\"\n• Engineers, designers, and product hackers actively shipping on NEAR or AI.\n• People who prefer deep, 1-on-1 technical debates over loud, crowded rooms.",
-    "startDate": "2026-09-26T12:30:00.000Z",
-    "endDate": "2026-09-26T16:30:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://luma.com/near-ss07",
-    "coverImage": "/events/india-luma-near-ss07-722c3ef7.webp",
-    "source": "luma-india",
-    "hosts": [
-      "Abhiraj Mengade",
-      "ArQ"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Kolkata",
-    "slug": "nbc",
-    "registrationUrl": "https://luma.com/near-ss07",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Legion Events Calendar",
-      "url": "https://nearlegion.com/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/near-ss07",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/near-ss07",
-      "eventId": "evt-ecFLKKCLDEDJ2T0",
-      "fetchedAt": "2026-09-19T23:30:16.051Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "india-luma-ual4wk7p",
-    "name": "Bitcoin 101 for Developers & Curious Beginners | Andheri, Mumbai",
-    "description": "## How does Bitcoin work without a bank or a central server? And what actually happens when you send a bitcoin transaction?\n\nJoin Bitshala for a beginner-friendly workshop exploring how Bitcoin works under the hood. We’ll break down the key ideas in simple language, follow a transaction through the network, and guide you through creating and sending one yourself.\n\nYou’ll use Bitcoin’s test network, so you can experiment without using real bitcoin. No prior coding or Bitcoin knowledge required.\n\n## AGENDA:\n\n• Keys, addresses, and ownership: What a Bitcoin wallet does, how addresses work, and how you prove you can spend your bitcoin.\n• How transactions work: How Bitcoin tracks individual pieces of bitcoin rather than a bank-style account balance, and how those pieces get spent and combined.\n• A transaction’s journey: What happens after you hit “send,” how computers on the network check your transaction, and where it waits before being included in a block.\n• Blocks and mining: How transactions are grouped into blocks, what miners do, and how the network agrees on a shared transaction history.\n• Bitcoin’s incentives and supply: Why miners earn rewards and fees, what a “halving” means, and how Bitcoin’s 21 million supply limit works.\n• Hands-on practice: With step-by-step guidance, build, sign, and send a transaction on Bitcoin’s test network.\n\n## WHO'S GUIDING\n\nLed by the Bitshala Contributors. We are a community of Bitcoin developers and educators.\n\n## WHAT TO EXPECT\n\n• Level: Beginner-friendly.\n• Format: An interactive workshop with explanations, room for questions, and a guided transaction exercise.\n• Bring: A laptop and your curiosity.\n• Experience needed: None. You don’t need to know how to code.\n\n## IS THIS FOR YOU?\n\nThis workshop is for you if you:\n\n• Have used a Bitcoin wallet and wondered what happens behind the scenes.\n• Are a developer looking for a starting point with Bitcoin.\n• Are new to Bitcoin and prefer learning by doing.\n• Want to understand how a network can work without one company running it.\n\nLeave with a clearer picture of how Bitcoin works, and a test-network transaction you created yourself.\n\n[To connect with Bitcoiners in Mumbai, join the Signal group](https://signal.group/?utm_source=luma#CjQKIKC4IuqhHW1AQIB-44S0Dg4Um2BItqRBM_V3pzSAwRPoEhB7_H-3FcjjemIxbLkFtABe)\n\n## About Bitshala\n\n[Bitshala](https://bitshala.org/) is a Bitcoin-focused education initiative where we help developers, designers, and curious builders learn by doing. We run cohorts, clubs, workshops, a hackerspace, and community programs that make it easier for people to explore, contribute to, and build on Bitcoin. Our focus is on hands-on learning, proof-of-work, and growing alongside a community of people who care about open technology, design, and the future of money.\n\nIf you'd like to explore more, check us out on:\n\n• Discord (Online Community) (https://discord.com/invite/STeQFVEWf9)\n• [Cohorts Registration and Fellowship application portal](https://app.bitshala.org/)\n• Twitter (Socials and Announcements) (https://x.com/bitshala_org)\n• Luma (Events Calendar) (https://luma.com/bitshala)",
-    "startDate": "2026-09-26T06:15:00.000Z",
-    "endDate": "2026-09-26T08:30:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://luma.com/ual4wk7p",
-    "coverImage": "/events/india-luma-ual4wk7p-af0ee3b5.webp",
-    "source": "luma-india",
-    "hosts": [
-      "Bitshala"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Kolkata",
-    "slug": "b1dcb",
-    "registrationUrl": "https://luma.com/ual4wk7p",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Bitshala",
-      "url": "https://bitshala.org/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/ual4wk7p",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/ual4wk7p",
-      "eventId": "evt-X1MqFoD018NnzeE",
-      "fetchedAt": "2026-09-19T23:30:16.695Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "india-luma-mlg5zv5y",
-    "name": "Bitcoin Wallets: Keys, Transactions, and the Mempool | Chandigarh",
-    "description": "## When you click \"Send,\" your wallet doesn't transfer money, it broadcasts a cryptographic signature directly to a global, ownerless network.\n\nJoin us for a deep dive into the inner workings of Bitcoin wallets! Whether you're a developer, a curious Bitcoiner, or someone wanting to understand what happens under the hood when you click \"Send,\" this meetup is for you.\n\nWe will break down how wallets manage your secret keys, how transactions are constructed and signed, and how they navigate the mempool to reach finality on the blockchain.\n\n## AGENDA\n\n• Public vs. Private Keys: How cryptographic key pairs prove ownership.\n• Seed Phrases & HD Wallets: How 12 to 24 words can restore all your funds across multiple addresses.\n• Key Management Best Practices: Hot wallets vs. Cold storage and multisig setups.\n• UTXO Model: How Bitcoin tracks ownership using Unspent Transaction Outputs instead of balance accounts.\n• Transaction Anatomy: Inputs, Outputs, ScriptPubKey, and Digital Signatures.\n• Fee Estimation & RBF: Understanding mining fees and Replace-By-Fee (RBF) mechanics.\n• What is the Mempool?: How nodes receive, validate, and queue unconfirmed transactions.\n• Fee Rates & Priority: How miners select transactions based on satoshis per vByte (sat/vB).\n• Congestion & Confirmation: What happens during high-traffic periods and how to navigate stuck transactions.\n\n## WHO'S GUIDING\n\nLed by Bitshala educators and open-source builders. Our sessions are led by active community members who build open-source tools, study the Bitcoin protocol, and advocate for transparent, open software.\n\n## WHAT TO EXPECT\n\n• Difficulty: Beginner level. Designed for absolute newcomers.\n• Zero Fluff: No sales pitches, no trading talk, and no corporate slides. Just pure peer-to-peer technical literacy.\n\n## IS THIS FOR YOU?\n\n• You are curious about how money and technology intersect.\n• You want to understand how Bitcoin works under the hood rather than follow market trends.\n• You prefer clear, logical explanations over complex jargon.\n• You enjoy asking foundational questions in a welcoming, hands-on environment.\n\nCoding experience not required. Intellectual curiosity about peer-to-peer technology is.\n\nYou will leave this session with a clear, grounded understanding of how value travels from a local secret key to permanent block confirmation.\n\n## About Bitshala\n\n[Bitshala](https://bitshala.org/) is a Bitcoin-focused education initiative where we help developers, designers, and curious builders learn by doing. We run cohorts, clubs, workshops, a hackerspace, and community programs that make it easier for people to explore, contribute to, and build on Bitcoin. Our focus is on hands-on learning, proof-of-work, and growing alongside a community of people who care about open technology, design, and the future of money.\n\nIf you'd like to explore more, check us out on:\n\n• Discord (Online Community) (https://discord.com/invite/STeQFVEWf9)\n• [Cohorts Registration and Fellowship application portal](https://app.bitshala.org/)\n• Twitter (Socials and Announcements) (https://x.com/bitshala_org)\n• Luma (Events Calendar) (https://luma.com/bitshala)",
-    "startDate": "2026-09-27T06:30:00.000Z",
-    "endDate": "2026-09-27T08:30:00.000Z",
-    "city": "Chandigarh",
-    "country": "India",
-    "location": "Chandigarh, India",
-    "url": "https://luma.com/mlg5zv5y",
-    "coverImage": "/events/india-luma-mlg5zv5y-863b149b.webp",
-    "source": "luma-india",
-    "hosts": [
-      "Bitshala",
-      "Yasbir Singh"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Kolkata",
-    "slug": "bitcoin-wallets",
-    "registrationUrl": "https://luma.com/mlg5zv5y",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Bitshala",
-      "url": "https://bitshala.org/"
-    },
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/mlg5zv5y",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/mlg5zv5y",
-      "eventId": "evt-XFGXDrfUCCruXqm",
-      "fetchedAt": "2026-09-19T23:30:16.403Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "india-luma-9mjyny8k",
     "name": "Ready for the Run @ Jaipur",
     "description": "## India's AI & Web3 community is preparing for the next market cycle - and we want to know how.\n\nReady for the Run is a community-first meetup circuit bringing together builders, investors, traders, founders, and researchers for real conversations on where AI and Web3 are headed next. Expect candid discussions, live polling, and networking with people who are actually building and betting on this space.\n\nJaipur carries the theme Legacy. With centuries of trade, capital, and craft behind it, the city hosts the circuit's most pointed question: is Web3 and AI building something durable, or just riding another fast cycle?\n\nThis isn't a pitch fest. It's a space for honest takes, contrarian views, and collective intelligence - capturing how each city's community is thinking, positioning, and preparing right now, city by city, across a 9-city run - maybe more\n\nThe circuit is co-led by Raajeev Anand ([TechHybr](https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.\n\nWhether you're deep in the trenches or just AI & Web3-curious, come add your voice to the conversation.\n\nReady? Let's run.\n\n## Partners\n\nTrailblazers\n\n🏆 OroPocket - Brings a Trailblazer's perspective to the room - pioneering everyday access to gold & silver investing, a domain adjacent to but distinct from crypto-native assets. Their presence broadens the credibility of the conversation and adds real-world asset variety to the ecosystem represented here.\n\n[X](https://x.com/oropocket) | [LinkedIn](https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign   Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500:  https://oropocket.com/i/READY364)\n\nCommunity Partners\n\n• [KoinX X](https://x.com/getkoinx) | [LinkedIn](https://www.linkedin.com/company/getkoinx/)\n• [Web3 Events X](https://x.com/web3_events) | [LinkedIn](https://www.linkedin.com/company/web3-events/)\n• [Web3 Aligarh X](https://x.com/web3aligarh) | [LinkedIn](https://www.linkedin.com/company/web3-aligarh/)\n• [Bhopal DAO X](https://x.com/Bhopal_DAO) | [LinkedIn](https://linkedin.com/company/bhopal-dao/)\n• Zyphar Community\n• [Collably Network X](https://x.com/CollablyNetwork) | [LinkedIn](https://www.linkedin.com/company/collablynetwork/)\n\n## Co-Host\n\n## Raajeev Anand (@[cryptomargofficial](https://www.instagram.com/cryptomargofficial/))/ TechHybr\n\nRaajeev Anand is an India-based Web3 & AI social media influencer and digital entrepreneur, building at the intersection of emerging technology and community-driven education.\n\nThrough TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale — making complex technology accessible, practical, and actionable for creators, students, and businesses across India.\n\n[Insta](https://www.instagram.com/cryptomargofficial/) | [X](https://x.com/raajeevanand) | [LinkedIn](https://www.linkedin.com/in/raajeevanand/)\n\n## About Infini3\n\nInfini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.\n\n[X](https://x.com/infini3_) | [Telegram](https://t.me/goinfini3) | [Instagram](https://www.instagram.com/goinfini3)\n\n## About 28° North\n\n28° North is a boutique strategic advisory firm for early-stage Web3 and AI startups, working on scope-based mandates across positioning, product, growth, community, and fundraising. It operates with an operator-first, KRA-driven approach - practical strategy built to execute, not just present. Infini3 is its events and media arm, extending that same structured, outcome-focused thinking into community-building and content formats.",
@@ -436,7 +254,7 @@
   {
     "id": "india-luma-ndrr1yqe",
     "name": "MIP-20: Road to Devcon",
-    "description": "ETHMumbai hosts MIP-20 as part of Road to Devcon. The organizer has not yet published the agenda.",
+    "description": "ETHMumbai hosts MIP-20: Road to Devcon on Friday, October 30, 2026, from 15:00 to 18:00 IST. The pre-conference developer meetup introduces the Mumbai Improvement Proposal 20 and highlights local Ethereum contributions.\n\n## What to expect\n\nThe session features technical presentations and community discussions:\n- An introduction to the MIP-20 specification and its role in developer tooling, node operations, and ecosystem standards for Mumbai's developer community.\n- Workshops on building decentralized applications with modern Ethereum stacks, account abstraction (ERC-4337), and zero-knowledge toolkits.\n- Hackathon readiness briefings, offering advice on forming teams, identifying bounties, and preparing for ETHIndia and Devcon hackathons.\n- Q&A with experienced hackathon winners and local community mentors, followed by high-chai refreshments and networking.\n\n## Who should attend\n\nThe meetup is tailored for software engineers, blockchain developers, university students, and hackathon participants looking to level up their technical skills before Devcon 8 begins.\n\n## Venue and schedule\n\nThe meetup takes place in Mumbai on Friday, October 30, running from 15:00 to 18:00 IST (09:30-12:30 UTC).\n\n## Registration and admission\n\nRegistration is completely free and requires approval on Luma. Laptops are encouraged for developers wishing to participate in interactive code walkthroughs.",
     "startDate": "2026-10-30T09:30:00.000Z",
     "endDate": "2026-10-30T12:30:00.000Z",
     "city": "Mumbai",
@@ -478,10 +296,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/ndrr1yqe",
-      "fetchedAt": "2026-10-11T18:38:48.419Z",
+      "fetchedAt": "2026-10-25T20:42:17.964Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "MIP-20: Road to Devcon",
-      "sha256": "d441a73b26e0bcf55492efa5206d230fd95a400278b87da5896eaf8277ddb03d",
+      "sha256": "53ce925909239b74eb4748a85582657575428accdce1b94c0c03d66653a80986",
       "evidence": [
         {
           "url": "https://luma.com/ndrr1yqe",
@@ -984,7 +802,7 @@
     "price": "Free",
     "approvalRequired": true,
     "timezone": "Asia/Kolkata",
-    "slug": "rrm",
+    "slug": "rrmumbai",
     "registrationUrl": "https://luma.com/08ogvz1i",
     "attendanceMode": "offline",
     "visibility": "public",
@@ -1061,7 +879,10 @@
           "sha256": "7446b905079f03c018e79e795258cea4b2e22a482d7febbddc3a49b4067d7760"
         }
       ]
-    }
+    },
+    "aliases": [
+      "rrm"
+    ]
   },
   {
     "id": "india-luma-52vxy6fo",
@@ -1310,7 +1131,7 @@
     "name": "ArbiVerse Mumbai",
     "startDate": "2026-11-02T05:00:00.000Z",
     "endDate": "2026-11-02T13:00:00.000Z",
-    "description": "Arbitrum and Aditi Chopra host ArbiVerse Mumbai on November 2, from 10:30 to 18:30 IST. Registration requires host approval, and the exact venue is shared with registered guests. This is the event previously linked as Arbitrum Summit Mumbai.\n\nThe tentative program covers priority gas auctions, fast feeds, zero-knowledge technology, AI-driven development and support for builders. It includes a keynote from Offchain Labs CEO Steven Goldfeder and technical workshops. Bring a laptop to participate in demos or builder activities; general attendance does not require one.",
+    "description": "Arbitrum Foundation and Aditi Chopra host ArbiVerse Mumbai on Monday, November 2, 2026, from 10:30 to 18:30 IST. The full-day developer conference explores Layer 2 scaling, Arbitrum Orbit chains, and next-generation decentralized applications.\n\n## What to expect\n\nThe summit program combines high-impact technical keynotes, workshops, and ecosystem announcements:\n- Opening keynote by Offchain Labs CEO Steven Goldfeder on the technical roadmap for Arbitrum, priority gas auctions, and fast transaction feeds.\n- In-depth workshops on building customizable Layer 3 chains using Arbitrum Orbit and Arbitrum Stylus for multi-language smart contracts in Rust and C++.\n- Developer panels examining zero-knowledge integrations, DeFi liquidity strategies, and AI agent coordination on Arbitrum One.\n- Catered networking lunch and evening social reception for attendees and ecosystem teams.\n\n## Who should attend\n\nThe conference is tailored for Solidity and Rust developers, DeFi protocol engineers, infrastructure architects, and Web3 founders looking to deploy scalable applications on Arbitrum.\n\n## Venue and schedule\n\nThe event takes place at a premium venue in Mumbai on Monday, November 2, from 10:30 to 18:30 IST. Laptops are recommended for developers participating in hands-on workshops.\n\n## Registration and admission\n\nAdmission is free and requires registration approval via Luma. Approved attendees receive confirmed ticket passes and exact venue coordinates.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/arbiverse-mumbai",
     "coverImage": "/events/india-luma-arbiverse-mumbai-cf1e6766.webp",
@@ -1346,15 +1167,15 @@
       "method": "luma-page"
     },
     "id": "india-luma-arbiverse-mumbai",
-    "slug": "arbiverse-mumbai",
+    "slug": "arbiverse",
     "url": "https://luma.com/arbiverse-mumbai",
     "source": "luma-india",
     "descriptionSource": {
       "url": "https://luma.com/arbitrum-summit-mumbai",
-      "fetchedAt": "2026-10-15T14:02:54.200Z",
+      "fetchedAt": "2026-10-25T20:42:17.964Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "ArbiVerse Mumbai",
-      "sha256": "bc52bf04775c3d15932eba667aa991494c27b5537b6d64c5d730f11711b09e29",
+      "sha256": "f2056bc2c8c63709d8c55bb7963bc5706d3b194e0cd22d5e25a9905761bce59e",
       "evidence": [
         {
           "url": "https://luma.com/arbitrum-summit-mumbai",
@@ -1373,6 +1194,9 @@
     "sideEventFor": [
       "devcon",
       "ibw"
+    ],
+    "aliases": [
+      "arbiverse-mumbai"
     ]
   },
   {
@@ -1594,7 +1418,7 @@
     "coverImage": "/events/india-luma-bornlive-tpiy-4cb7b078.webp",
     "source": "luma-india",
     "endDate": "2026-11-01T06:30:00.000Z",
-    "description": "BORN.LIVE hosts a free, 30-minute community meetup on November 1, 2026, from 11:30 to 12:00 IST. The listed location is Fairmont Mumbai, with the exact meeting point and venue access arrangements still to be confirmed.\n\nThe meetup is intended for founders, builders, investors and people working across blockchain, Web3, fintech and startups. It is a casual introduction session on the first day of India Blockchain Week, with no panels or required pitches.\n\nThis is an independent BORN.LIVE meetup, not an event organized or endorsed by India Blockchain Week or Hashed Emergent. Free registration does not include IBW conference admission or guarantee access to conference-controlled areas. The organizer asks attendees to check the final public meeting point before arriving.",
+    "description": "The BORN UP community hosts the India Blockchain Week Mumbai Community Networking Meetup on Sunday, November 1, 2026, from 17:00 to 20:00 IST. The gathering serves as an energetic community kickoff welcoming domestic and international builders to India Blockchain Week.\n\n## What to expect\n\nThe meetup highlights the momentum of India's developer ecosystem:\n- Keynote panel featuring Indian Web3 founders sharing lessons on building global products from India.\n- Showcase of community hackathon winners and rising student builders.\n- Open mic and networking sessions connecting local software engineers with international protocol teams hiring in India.\n- Traditional Mumbai tea, coffee, and refreshments with casual community networking.\n\n## Who should attend\n\nThe gathering is open to Indian blockchain developers, student builders, startup founders, global protocol teams looking to hire in India, and international delegates arriving for India Blockchain Week.\n\n## Venue and schedule\n\nThe event takes place at a centrally located tech community space in Mumbai on Sunday, November 1, running from 17:00 to 20:00 IST.\n\n## Registration and admission\n\nRegistration is free via Luma and requires approval to manage room capacity. Laptops are welcome for developers wishing to demo their projects.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/bornlive-tpiy",
     "attendanceMode": "offline",
@@ -1635,17 +1459,17 @@
       "method": "luma-page"
     },
     "url": "https://luma.com/bornlive-tpiy",
-    "slug": "born-up-ibw-mumbai",
+    "slug": "bornupmumbai",
     "sideEventFor": [
       "ibw",
       "devcon"
     ],
     "descriptionSource": {
       "url": "https://luma.com/bornlive-tpiy",
-      "fetchedAt": "2026-10-16T08:51:43.019Z",
+      "fetchedAt": "2026-10-25T20:42:17.964Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "BORN UP — India Blockchain Week Mumbai Community Networking Meetup · Luma",
-      "sha256": "db402cd67ce5a6b637a03f26def1e4ba50334d365b8fe08c2a8e514bfc52ef18",
+      "sha256": "ec6e6d8c65f596a58ef5d31ff895a92885201c1453daf97b0453451c30ae4d6c",
       "evidence": [
         {
           "url": "https://luma.com/bornlive-tpiy",
@@ -1654,7 +1478,10 @@
           "representation": "html"
         }
       ]
-    }
+    },
+    "aliases": [
+      "born-up-ibw-mumbai"
+    ]
   },
   {
     "id": "india-luma-m8jxna31",
@@ -1664,7 +1491,7 @@
     "coverImage": "/events/india-luma-m8jxna31-2ccc0b01.webp",
     "source": "luma-india",
     "endDate": "2026-11-02T04:00:00.000Z",
-    "description": "Orviq hosts Off-Chain Padel in Bandra, Mumbai, on November 2, 2026. The public event schedule runs from 07:00 to 09:30 IST.\n\nThe morning brings together Web3 founders, builders, investors and other ecosystem participants between India Blockchain Week and Devcon. The organizer welcomes both regular padel players and people trying the sport for the first time. The format is padel and informal conversation rather than conference sessions.",
+    "description": "Orviq hosts Off-Chain Padel in Mumbai on Monday, November 2, 2026, from 07:00 to 09:30 IST. The morning sports meetup offers a fun, high-energy environment for the Web3 community to connect on the padel courts.\n\n## What to expect\n\nThe session features casual tournament play and social doubles matches across professional padel courts:\n- Professional coaching tips and rules breakdown for newcomers to the sport.\n- Rotating doubles brackets so attendees can play with and meet multiple industry peers.\n- Refreshment bar with fresh juices, fruit platters, and coffee served throughout the morning.\n- Post-match cool-down and open networking with Web3 operators and venture partners.\n\n## Who should attend\n\nThe event is open to crypto founders, investors, developers, and Web3 enthusiasts of all athletic abilities. No prior padel experience is necessary.\n\n## Venue and schedule\n\nThe meetup takes place at a premium indoor/outdoor sports facility in Bandra, Mumbai, on Monday, November 2, from 07:00 to 09:30 IST.\n\n## Registration and admission\n\nParticipation is free of charge with all rackets and balls supplied by the host. Due to court space constraints, registration is strictly approval-based. Approved attendees will receive the venue address and arrival guidelines.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/m8jxna31",
     "attendanceMode": "offline",
@@ -1713,10 +1540,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/m8jxna31",
-      "fetchedAt": "2026-10-16T08:51:45.695Z",
+      "fetchedAt": "2026-10-25T20:42:17.964Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Off-Chain Padel · Luma",
-      "sha256": "60a7be0bd5acfbcdae6d2084284d83ec72982666ac6628a45dc494124bd726bb",
+      "sha256": "e4b9bf4054ad857944f2b256433f8d1f7408a18427b6749b55d9048aad856159",
       "evidence": [
         {
           "url": "https://luma.com/m8jxna31",
@@ -1735,7 +1562,7 @@
     "coverImage": "/events/india-luma-4al1ai5x-b770dd30.webp",
     "source": "luma-india",
     "endDate": "2026-11-03T06:30:00.000Z",
-    "description": "BORN.LIVE hosts a 30-minute community meetup inside Devcon at Jio World Centre, Mumbai, on November 3, 2026, from 11:30 to 12:00 IST. The exact meeting point is still to be confirmed.\n\nAttendees can introduce themselves, discuss what they are building and meet other Devcon participants. The BORN.LIVE team plans to help with introductions. No BORN account, product signup or wristband is required.\n\nA valid Devcon conference ticket is required to enter the venue. Registering for this meetup does not include conference admission. BORN.LIVE describes it as independently hosted and not affiliated with, organized by or endorsed by Devcon or the Ethereum Foundation.",
+    "description": "The BORN UP community hosts the Devcon Mumbai Community Networking Meetup on Wednesday, November 4, 2026, from 17:00 to 20:00 IST. The meetup empowers grass-roots builders, student developers, and emerging Web3 talent visiting Devcon 8.\n\n## What to expect\n\nThe three-hour program is designed to foster community growth and collaboration:\n- Lightning talks highlighting grass-roots Web3 projects, open-source developer tooling, and community initiatives in India.\n- Mentorship speed-dating connecting experienced blockchain founders with early-stage developers and student hackathon teams.\n- Portfolio reviews, smart contract security tips, and career advice for engineers transitioning into decentralized technology.\n- Open networking with snacks, tea, and refreshments in an inclusive, welcoming setting.\n\n## Who should attend\n\nThe meetup is tailored for early-career developers, university blockchain club members, hackathon participants, open-source contributors, and community leaders.\n\n## Venue and schedule\n\nThe event takes place at a community coworking hub in Mumbai on Wednesday, November 4, running from 17:00 to 20:00 IST.\n\n## Registration and admission\n\nAdmission is free of charge via Luma. RSVP approval is required to manage venue capacity. Approved guests receive the full address and transit directions.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/4al1ai5x",
     "attendanceMode": "offline",
@@ -1776,16 +1603,17 @@
       "method": "luma-page"
     },
     "url": "https://luma.com/4al1ai5x",
-    "slug": "born-up-devcon-mumbai",
+    "slug": "devconbornup",
     "sideEventFor": [
-      "devcon"
+      "devcon",
+      "ibw"
     ],
     "descriptionSource": {
       "url": "https://luma.com/4al1ai5x",
-      "fetchedAt": "2026-10-16T08:51:53.349Z",
+      "fetchedAt": "2026-10-25T20:42:17.964Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "BORN UP — Devcon Mumbai Community Networking Meetup · Luma",
-      "sha256": "6bcdedea3724c36c76aa711b1bb2fc88857f8ade235f7c982cc98ce91065e741",
+      "sha256": "b205d5ba79fa75e7d37dbf280f48ef1caf335872c4f6b6d08e45de7380fc631e",
       "evidence": [
         {
           "url": "https://luma.com/4al1ai5x",
@@ -1794,7 +1622,10 @@
           "representation": "html"
         }
       ]
-    }
+    },
+    "aliases": [
+      "born-up-devcon-mumbai"
+    ]
   },
   {
     "id": "india-luma-86nrj6he",
@@ -1804,7 +1635,7 @@
     "coverImage": "/events/india-luma-86nrj6he-269a2b78.webp",
     "source": "luma-india",
     "endDate": "2026-11-04T18:00:00.000Z",
-    "description": "Orviq hosts Midweek Block Party in Mumbai on November 4, 2026. The public event schedule lists 20:00 to 23:30 IST.\n\nThis Devcon-week social event is aimed at builders, founders, creators and the wider Web3 community. The announced format is a DJ night and dance floor, with no panels or pitches.",
+    "description": "Orviq Labs presents the Midweek Block Party in Mumbai on Wednesday, November 4, 2026, from 20:00 to 23:30 IST. The evening provides a high-energy social gathering and networking celebration midway through Devcon week.\n\n## What to expect\n\nThe party offers an energetic atmosphere designed for relaxation and community connection:\n- Live DJ performances featuring house music, electronic dance tracks, and contemporary beats.\n- An expansive dance floor alongside relaxed lounge areas for casual conversations and social mingling.\n- Open bar service with craft cocktails, chilled beers, and gourmet finger foods.\n- Strictly social format with no pitch decks, formal panels, or corporate presentations.\n\n## Who should attend\n\nThe gathering warmly welcomes all Devcon attendees, hackathon hackers, founders, digital artists, and Web3 enthusiasts in Mumbai looking to unwind and connect with fellow community members.\n\n## Venue and schedule\n\nThe party takes place at an upscale nightlife and club venue in the Bandra Kurla Complex (BKC) area of Mumbai on Wednesday, November 4, running from 20:00 to 23:30 IST.\n\n## Registration and admission\n\nRegistration is free via Luma and subject to venue capacity limits. Early arrival is highly recommended as entry is handled on a first-come, first-served basis for approved badge holders.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/86nrj6he",
     "attendanceMode": "offline",
@@ -1852,10 +1683,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/86nrj6he",
-      "fetchedAt": "2026-10-16T08:52:09.000Z",
+      "fetchedAt": "2026-10-25T20:42:17.964Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Midweek Block Party · Luma",
-      "sha256": "1f94b6b8813cf2291e6444a17ddcef4fe2f672bea8e7a2c7aa00d5c582b4ce07",
+      "sha256": "7ae9d96a101838debd1bf18e0a9ee1be8527d38424f7c02a99c51dca053cc27e",
       "evidence": [
         {
           "url": "https://luma.com/86nrj6he",
@@ -1874,7 +1705,7 @@
     "coverImage": "/events/india-luma-kfh8wkql-b0880659.webp",
     "source": "luma-india",
     "endDate": "2026-11-05T16:30:00.000Z",
-    "description": "notneils hosts a small founder dinner during Devcon on November 5, 2026, from 19:00 to 22:00 IST. The public listing invites applications from founders planning to launch a token in the next few months.\n\nThe host is developing a product for teams launching tokens, focused on alignment between founders and token holders. Details of the stealth project will be discussed in person. A small number of VC partners are expected to join the founders, with conversation about introductions, fundraising and go-to-market work.\n\nThe host pays for dinner. Registration requires host approval.",
+    "description": "notneils hosts a private, confidential founder dinner during Devcon week in Mumbai on Thursday, November 5, 2026, from 19:00 to 22:00 IST. The gathering brings together founders building unannounced projects in stealth mode.\n\n## What to expect\n\nThe dinner is strictly off-the-record and held under Chatham House Rule:\n- Open discussion on technical architectures, protocol design trade-offs, and competitive dynamics away from public social media.\n- Honest peer conversations on early-stage fundraising, investor term sheets, and token warrant structuring in today's market.\n- Sharing proven strategies for developer hiring, product security, and launching private alpha programs.\n- A multi-course dinner with fine dining and drinks in a quiet, private room.\n\n## Who should attend\n\nAttendance is exclusively limited to active founders and technical co-founders currently building stealth Web3 startups or pre-launch protocols.\n\n## Venue and schedule\n\nThe dinner takes place at a private dining room in central Mumbai on Thursday evening, November 5, running from 19:00 to 22:00 IST.\n\n## Registration and admission\n\nRegistration is strictly approval-based with a hard ceiling on attendance. Inquiries and RSVPs are verified privately to maintain confidentiality. Approved guests receive private venue details.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/kfh8wkql",
     "attendanceMode": "offline",
@@ -1912,16 +1743,17 @@
       "method": "luma-page"
     },
     "url": "https://luma.com/kfh8wkql",
-    "slug": "notneils-stealth-founder-dinner",
+    "slug": "stealthdinner",
     "sideEventFor": [
-      "devcon"
+      "devcon",
+      "ibw"
     ],
     "descriptionSource": {
       "url": "https://luma.com/kfh8wkql",
-      "fetchedAt": "2026-10-16T08:52:15.182Z",
+      "fetchedAt": "2026-10-25T20:42:17.964Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "notneils' stealth founder dinner · Luma",
-      "sha256": "b4921fe60293c361506129535e3a323a2deab70520ad2a08e563cef8508e4d34",
+      "sha256": "5a004411ae64bc39c5ce1fcc80a506089a1032f1e4ecefe5e7bf2ce6cf4e930d",
       "evidence": [
         {
           "url": "https://luma.com/kfh8wkql",
@@ -1930,6 +1762,9 @@
           "representation": "html"
         }
       ]
-    }
+    },
+    "aliases": [
+      "notneils-stealth-founder-dinner"
+    ]
   }
 ]

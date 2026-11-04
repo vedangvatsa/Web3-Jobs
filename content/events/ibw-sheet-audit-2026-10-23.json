@@ -1,11 +1,11 @@
 {
-  "checkedAt": "2026-10-23T07:09:56.069Z",
+  "checkedAt": "2026-10-27T10:36:35.755Z",
   "source": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0",
-  "sourceSha256": "afd578163f98cbc027bf4174d72304e1009ec539ebd3d7d8e38ccee5b923cd25",
+  "sourceSha256": "3afbf66a5f621913636b19b4ef6ebe6bf445d74ef1d3b213dbb81a7852684d49",
   "rows": 78,
-  "alreadyPublished": 68,
+  "alreadyPublished": 70,
   "added": 6,
-  "held": 4,
+  "held": 2,
   "needsReview": 0,
   "registrationTbd": 2,
   "entries": [
@@ -23,7 +23,7 @@
       "published": [
         {
           "id": "ibw-official-mip-20-road-to-devcon-10-24",
-          "slug": "mip-20",
+          "slug": "mip20",
           "name": "MIP-20: Road to Devcon",
           "startDate": "2026-10-30T09:30:00.000Z",
           "endDate": "2026-10-30T12:30:00.000Z"
@@ -71,7 +71,7 @@
       "published": [
         {
           "id": "premier-ibt-mumbai-2026",
-          "slug": "india-blockchain-ai-tour-mumbai",
+          "slug": "ibtmumbai",
           "name": "India Blockchain & AI Tour 2026 - Mumbai",
           "startDate": "2026-10-31T12:00:00+05:30",
           "endDate": "2026-10-31T18:00:00+05:30"
@@ -104,7 +104,7 @@
       "published": [
         {
           "id": "ibw-sheet-evt-ZwfO8bu83v1Qqe8",
-          "slug": "near-builders-cafe-2",
+          "slug": "nearcafe",
           "name": "NEAR Builder's Cafe #2",
           "startDate": "2026-10-31T07:30:00.000Z",
           "endDate": "2026-10-31T10:30:00.000Z"
@@ -132,7 +132,7 @@
       "published": [
         {
           "id": "ibw-official-ibw2026-pre-conference-vip-night-10-31",
-          "slug": "ibw-pre-conference-vip-night",
+          "slug": "ibwvip",
           "name": "IBW2026 Pre-Conference VIP Night",
           "startDate": "2026-10-31T19:00:00+05:30",
           "endDate": "2026-10-31T23:00:00+05:30"
@@ -155,7 +155,7 @@
       "published": [
         {
           "id": "india-luma-3doehm1b",
-          "slug": "run-and-rave",
+          "slug": "runrave",
           "name": "Run & Rave",
           "startDate": "2026-11-01T00:30:00.000Z",
           "endDate": "2026-11-01T02:30:00.000Z"
@@ -255,7 +255,7 @@
       "published": [
         {
           "id": "ibw-official-ibw-institutional-forum-11-02",
-          "slug": "ibw-institutional-forum",
+          "slug": "ibwforum",
           "name": "IBW Institutional Forum",
           "startDate": "2026-11-01",
           "endDate": "2026-11-02"
@@ -287,7 +287,7 @@
       "published": [
         {
           "id": "india-luma-83ujl6ms",
-          "slug": "zcash-world-mumbai",
+          "slug": "zcashmumbai",
           "name": "Zcash World - Mumbai",
           "startDate": "2026-11-01T05:30:00.000Z",
           "endDate": "2026-11-01T13:00:00.000Z"
@@ -319,7 +319,7 @@
       "published": [
         {
           "id": "india-luma-bornlive-tpiy",
-          "slug": "born-up-ibw-mumbai",
+          "slug": "bornupmumbai",
           "name": "BORN UP - India Blockchain Week Mumbai Community Networking Meetup",
           "startDate": "2026-11-01T06:00:00.000Z",
           "endDate": "2026-11-01T06:30:00.000Z"
@@ -355,7 +355,7 @@
       "published": [
         {
           "id": "ibw-official-defi-security-summit-day-1-11-01",
-          "slug": "defi-security-summit",
+          "slug": "defisecmumbai",
           "name": "DeFi Security Summit 2026",
           "startDate": "2026-11-01T04:30:00.000Z",
           "endDate": "2026-11-02T12:30:00.000Z"
@@ -395,7 +395,7 @@
       "published": [
         {
           "id": "ibw-official-ravecon-b-ender-11-04",
-          "slug": "afterhours-mixer-mumbai",
+          "slug": "mixermumbai",
           "name": "Afterhours Mixer: Mumbai",
           "startDate": "2026-11-01T11:30:00.000Z",
           "endDate": "2026-11-01T15:30:00.000Z"
@@ -423,7 +423,7 @@
       "published": [
         {
           "id": "india-luma-li3sv90r",
-          "slug": "shaktipith-women-residency",
+          "slug": "shaktipith",
           "name": "Shaktipith - Women only residency",
           "startDate": "2026-11-01T16:00:00.000Z",
           "endDate": "2026-11-08T17:00:00.000Z"
@@ -451,7 +451,7 @@
       "published": [
         {
           "id": "india-luma-jb4zsel1",
-          "slug": "catalyst-founder-residency",
+          "slug": "catalystmumbai",
           "name": "Catalyst - Founder residency at Devcon",
           "startDate": "2026-11-01T17:00:00.000Z",
           "endDate": "2026-11-08T18:00:00.000Z"
@@ -551,7 +551,7 @@
       "published": [
         {
           "id": "ibw-official-ibw-institutional-forum-11-02",
-          "slug": "ibw-institutional-forum",
+          "slug": "ibwforum",
           "name": "IBW Institutional Forum",
           "startDate": "2026-11-01",
           "endDate": "2026-11-02"
@@ -583,7 +583,7 @@
       "published": [
         {
           "id": "luma-batch-kBSIe7BSMtDFldg",
-          "slug": "onchain-legal-summit",
+          "slug": "legalsummit",
           "name": "Onchain Legal Summit :: Devcon India 2026",
           "startDate": "2026-11-04T05:30:00.000Z",
           "endDate": "2026-11-04T11:30:00.000Z"
@@ -622,13 +622,13 @@
       "candidates": [
         {
           "id": "ibw-official-ai-economic-forum-aief-truth-intelligence-summit-11-03",
-          "slug": "ai-economic-forum-mumbai",
+          "slug": "aiefmumbai",
           "name": "AI ECONOMIC FORUM (AIEF), MUMBAI 2026 ⟡ Truth Intelligence Summit - Official AI Side Event of India Blockchain Week 2026 & Devcon 8",
           "url": "https://luma.com/a0e6b8at"
         },
         {
           "id": "ibw-official-quantstamp-mumbai-lounge-11-04",
-          "slug": "quantstamp-mumbai-lounge",
+          "slug": "quantstampmumbai",
           "name": "Quantstamp x Common Defense | Mumbai Lounge | Devcon 2026",
           "url": "https://luma.com/80bnxbwi"
         }
@@ -648,7 +648,7 @@
       "published": [
         {
           "id": "premier-cypherpunk",
-          "slug": "ethereum-cypherpunk-congress",
+          "slug": "cypherpunkmumbai",
           "name": "Ethereum Cypherpunk Congress #3",
           "startDate": "2026-11-02T04:30:00.000Z",
           "endDate": "2026-11-02T13:30:00.000Z"
@@ -696,7 +696,7 @@
       "published": [
         {
           "id": "ibw-official-solana-summit-india-11-02",
-          "slug": "solana-summit-india",
+          "slug": "solanamumbai",
           "name": "Solana Summit India",
           "startDate": "2026-11-02T04:30:00.000Z",
           "endDate": "2026-11-02T13:30:00.000Z"
@@ -740,7 +740,7 @@
       "published": [
         {
           "id": "ibw-official-defi-security-summit-day-1-11-01",
-          "slug": "defi-security-summit",
+          "slug": "defisecmumbai",
           "name": "DeFi Security Summit 2026",
           "startDate": "2026-11-01T04:30:00.000Z",
           "endDate": "2026-11-02T12:30:00.000Z"
@@ -780,7 +780,7 @@
       "published": [
         {
           "id": "india-luma-arbiverse-mumbai",
-          "slug": "arbiverse-mumbai",
+          "slug": "arbiverse",
           "name": "ArbiVerse Mumbai",
           "startDate": "2026-11-02T05:00:00.000Z",
           "endDate": "2026-11-02T13:00:00.000Z"
@@ -812,7 +812,7 @@
       "published": [
         {
           "id": "ibw-official-onchain-dev-city-india-11-02",
-          "slug": "onchain-dev-city",
+          "slug": "devcitymumbai",
           "name": "Onchain Dev City - Devcon [8] INDIA 🇮🇳",
           "startDate": "2026-11-02T10:30:00.000Z",
           "endDate": "2026-11-02T15:30:00.000Z"
@@ -875,12 +875,25 @@
       "organizer": "Minds by Animoca",
       "category": "Networking",
       "url": "https://luma.com/9bhu9f28",
-      "status": "held",
+      "status": "already-published",
       "reviewNote": "CryptoMondays has a current primary page, but its timestamp uses Asia/Dubai (19:30–23:00 IST) while its agenda and the sheet say 18:00–21:30. No confirmed venue. Preserve the existing timing-conflict hold pending organizer clarification.",
-      "published": [],
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "ibw-luma-evt-UMczcjylUMol0HW",
+          "slug": "cryptomondays",
+          "name": "CryptoMondays Devcon India Edition",
+          "startDate": "2026-11-02T14:00:00.000Z",
+          "endDate": "2026-11-02T17:30:00.000Z"
+        }
+      ],
       "sourceMatches": [
         {
           "id": "india-luma-9bhu9f28",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "ibw-luma-evt-UMczcjylUMol0HW",
           "file": "ibw-side-events.json"
         },
         {
@@ -888,14 +901,7 @@
           "file": "events-cache.json"
         }
       ],
-      "candidates": [
-        {
-          "id": "india-luma-ppg3gw8l",
-          "slug": "road-to-devcon-pune-a36",
-          "name": "Road to Devcon India | Pune Edition",
-          "url": "https://luma.com/ppg3gw8l"
-        }
-      ]
+      "candidates": []
     },
     {
       "row": 30,
@@ -911,7 +917,7 @@
       "published": [
         {
           "id": "ibw-official-ibw-official-after-party-11-02",
-          "slug": "ibw-official-after-party",
+          "slug": "ibwafterparty",
           "name": "IBW Official After-Party",
           "startDate": "2026-11-02T19:00:00+05:30",
           "endDate": "2026-11-02T23:00:00+05:30"
@@ -934,7 +940,7 @@
       "published": [
         {
           "id": "ibw-official-the-institutional-table-private-dinner-on-tokenization-stablecoins-and-s-11-02",
-          "slug": "institutional-table-mumbai",
+          "slug": "tablemumbai",
           "name": "The Institutional Table: Private Dinner on Tokenization, Stablecoins and Security | Mumbai",
           "startDate": "2026-11-02T14:00:00.000Z",
           "endDate": "2026-11-02T17:00:00.000Z"
@@ -966,7 +972,7 @@
       "published": [
         {
           "id": "india-luma-mc8pq06y",
-          "slug": "world-of-desci-devcon",
+          "slug": "descimumbai",
           "name": "World of DeSci @DEVCON VIII, India",
           "startDate": "2026-11-03T03:30:00.000Z",
           "endDate": "2026-11-06T12:30:00.000Z"
@@ -999,7 +1005,7 @@
       "published": [
         {
           "id": "ibw-sheet-evt-WP32nMhXbmHisMb",
-          "slug": "dabao-open-hardware-hackathon",
+          "slug": "dabaohack",
           "name": "Dabao Open Hardware Hackathon",
           "startDate": "2026-11-03T03:30:00.000Z",
           "endDate": "2026-12-16T02:00:00.000Z"
@@ -1028,7 +1034,7 @@
       "published": [
         {
           "id": "ibw-sheet-evt-26jnyHUBFxt6ooC",
-          "slug": "crossbar-iris-demo-devcon8",
+          "slug": "irismumbai",
           "name": "Open Silicon: IRIS Demo and Dabao Board Pickup",
           "startDate": "2026-11-03T03:30:00.000Z",
           "endDate": "2026-11-06T09:30:00.000Z"
@@ -1056,7 +1062,7 @@
       "published": [
         {
           "id": "ibw-official-ai-economic-forum-aief-truth-intelligence-summit-11-03",
-          "slug": "ai-economic-forum-mumbai",
+          "slug": "aiefmumbai",
           "name": "AI ECONOMIC FORUM (AIEF), MUMBAI 2026 ⟡ Truth Intelligence Summit - Official AI Side Event of India Blockchain Week 2026 & Devcon 8",
           "startDate": "2026-11-03T04:00:00.000Z",
           "endDate": "2026-11-03T14:30:00.000Z"
@@ -1124,7 +1130,7 @@
       "published": [
         {
           "id": "india-luma-4al1ai5x",
-          "slug": "born-up-devcon-mumbai",
+          "slug": "devconbornup",
           "name": "BORN UP - Devcon Mumbai Community Networking Meetup",
           "startDate": "2026-11-03T06:00:00.000Z",
           "endDate": "2026-11-03T06:30:00.000Z"
@@ -1160,7 +1166,7 @@
       "published": [
         {
           "id": "india-luma-08ogvz1i",
-          "slug": "ready-for-the-run-mumbai",
+          "slug": "rrmumbai",
           "name": "Ready for the Run @ Mumbai",
           "startDate": "2026-11-03T06:30:00.000Z",
           "endDate": "2026-11-03T09:30:00.000Z"
@@ -1192,7 +1198,7 @@
       "published": [
         {
           "id": "india-luma-h0x443s9",
-          "slug": "money-house",
+          "slug": "moneyhouse",
           "name": "The Money House",
           "startDate": "2026-11-03T06:30:00.000Z",
           "endDate": "2026-11-03T12:30:00.000Z"
@@ -1224,7 +1230,7 @@
       "published": [
         {
           "id": "ibw-official-media-accelerator-startup-cohort-11-03",
-          "slug": "media-accelerator-startup-cohort",
+          "slug": "acceleratormumbai",
           "name": "Media Accelerator & Startup Cohort",
           "startDate": "2026-11-03T09:30:00.000Z",
           "endDate": "2026-11-06T09:00:00.000Z"
@@ -1257,7 +1263,7 @@
       "published": [
         {
           "id": "ibw-sheet-evt-zlSNS0eZPLZsGcM",
-          "slug": "clickoptions-nextwave-trading",
+          "slug": "clickoptionstrading",
           "name": "ClickOptions × NextWave: Live Crypto Trading Competition",
           "startDate": "2026-11-03T10:30:00.000Z",
           "endDate": "2026-11-03T13:30:00.000Z"
@@ -1285,7 +1291,7 @@
       "published": [
         {
           "id": "india-luma-uqmzpq5k",
-          "slug": "fluid-mumbai-smart-liquidity",
+          "slug": "fluidmumbai",
           "name": "Fluid at Mumbai | Smart Liquidity",
           "startDate": "2026-11-03T13:30:00.000Z",
           "endDate": "2026-11-03T17:30:00.000Z"
@@ -1313,7 +1319,7 @@
       "published": [
         {
           "id": "ibw-official-eip-hub-3-7-nov-11-03",
-          "slug": "eip-hub-devcon",
+          "slug": "eiphub",
           "name": "EIP Hub @ Devcon 8 India - Where Ethereum Standards Come Together",
           "startDate": "2026-11-03T15:30:00.000Z",
           "endDate": "2026-11-06T12:30:00.000Z"
@@ -1353,7 +1359,7 @@
       "published": [
         {
           "id": "india-luma-sgrf4yq5",
-          "slug": "liquidity-pool-devcon",
+          "slug": "liquiditymumbai",
           "name": "Liquidity Pool @Devcon 8 | Mumbai 🇮🇳",
           "startDate": "2026-11-03T16:00:00.000Z",
           "endDate": "2026-11-03T19:00:00.000Z"
@@ -1382,7 +1388,7 @@
       "published": [
         {
           "id": "india-luma-qk93a446",
-          "slug": "monad-blitz-mumbai",
+          "slug": "monadmumbai",
           "name": "Monad Blitz Mumbai: Devcon Edition",
           "startDate": "2026-11-04T03:30:00.000Z",
           "endDate": "2026-11-04T18:30:00.000Z"
@@ -1465,7 +1471,7 @@
       "published": [
         {
           "id": "luma-batch-G3fjJAlPZ0oK9GC",
-          "slug": "yield-layer-social-impact",
+          "slug": "yieldimpact",
           "name": "The Yield Layer of Social Impact",
           "startDate": "2026-11-04T04:30:00.000Z",
           "endDate": "2026-11-04T10:30:00.000Z"
@@ -1512,7 +1518,7 @@
       "published": [
         {
           "id": "luma-batch-kBSIe7BSMtDFldg",
-          "slug": "onchain-legal-summit",
+          "slug": "legalsummit",
           "name": "Onchain Legal Summit :: Devcon India 2026",
           "startDate": "2026-11-04T05:30:00.000Z",
           "endDate": "2026-11-04T11:30:00.000Z"
@@ -1544,7 +1550,7 @@
       "published": [
         {
           "id": "luma-evt-b6kmwqzyuuetkip",
-          "slug": "free-society-hackathon",
+          "slug": "freesociety",
           "name": "Zcash Presents: FREE SOCIETY HACKATHON",
           "startDate": "2026-11-04T05:30:00.000Z",
           "endDate": "2026-11-05T09:30:00.000Z"
@@ -1576,7 +1582,7 @@
       "published": [
         {
           "id": "india-luma-6gnkjcqx",
-          "slug": "digital-asset-regulation-roundtable",
+          "slug": "roundtablemumbai",
           "name": "Digital Asset Regulation, Policy and Global Compliance Roundtable",
           "startDate": "2026-11-04T10:30:00.000Z",
           "endDate": "2026-11-04T13:00:00.000Z"
@@ -1612,7 +1618,7 @@
       "published": [
         {
           "id": "india-luma-hr8w0hmd",
-          "slug": "diyas-near-devcon",
+          "slug": "diyasnear",
           "name": "Diyas : Near @Devcon",
           "startDate": "2026-11-04T10:30:00.000Z",
           "endDate": "2026-11-04T14:30:00.000Z"
@@ -1649,7 +1655,7 @@
       "published": [
         {
           "id": "ibw-sheet-evt-mD9IikmzLZVweco",
-          "slug": "stable-payments-stablecoins-mumbai",
+          "slug": "stablemumbai",
           "name": "The Best Event: Stable - Payments & Stablecoins",
           "startDate": "2026-11-04T10:30:00.000Z",
           "endDate": "2026-11-04T14:30:00.000Z"
@@ -1677,7 +1683,7 @@
       "published": [
         {
           "id": "india-luma-ai6owvhz",
-          "slug": "eva-symposium-iii",
+          "slug": "evasymposium",
           "name": "EVA Symposium III",
           "startDate": "2026-11-04T11:30:00.000Z",
           "endDate": "2026-11-04T17:30:00.000Z"
@@ -1709,7 +1715,7 @@
       "published": [
         {
           "id": "india-luma-qzzu690f",
-          "slug": "alpend-collateral-call",
+          "slug": "alpendmumbai",
           "name": "Collateral Call: Institutional Credit Night by Alpend",
           "startDate": "2026-11-04T13:00:00.000Z",
           "endDate": "2026-11-04T17:00:00.000Z"
@@ -1737,7 +1743,7 @@
       "published": [
         {
           "id": "india-luma-islzi7v3",
-          "slug": "money-layer-devcon",
+          "slug": "moneylayer",
           "name": "Money Layer @Devcon🇮🇳 Week",
           "startDate": "2026-11-04T13:00:00.000Z",
           "endDate": "2026-11-04T16:30:00.000Z"
@@ -1769,7 +1775,7 @@
       "published": [
         {
           "id": "ibw-official-quantstamp-mumbai-lounge-11-04",
-          "slug": "quantstamp-mumbai-lounge",
+          "slug": "quantstampmumbai",
           "name": "Quantstamp x Common Defense | Mumbai Lounge | Devcon 2026",
           "startDate": "2026-11-04T13:30:00.000Z",
           "endDate": "2026-11-04T16:30:00.000Z"
@@ -1798,7 +1804,7 @@
       "published": [
         {
           "id": "ibw-sheet-evt-3HoI2mTbd1euCxd",
-          "slug": "sovrency-c8-launch",
+          "slug": "sovrencymumbai",
           "name": "Sovrency C8 Launch",
           "startDate": "2026-11-04T14:00:00.000Z",
           "endDate": "2026-11-04T15:00:00.000Z"
@@ -1826,7 +1832,7 @@
       "published": [
         {
           "id": "india-luma-2kj0jqf9",
-          "slug": "sidequest-happy-hour",
+          "slug": "sidequesthappyhour",
           "name": "Sidequest: Happy Hour",
           "startDate": "2026-11-04T14:00:00.000Z",
           "endDate": "2026-11-04T18:00:00.000Z"
@@ -1858,7 +1864,7 @@
       "published": [
         {
           "id": "india-luma-kz3klqjq",
-          "slug": "capital-connect",
+          "slug": "capitalconnect",
           "name": "Capital connect",
           "startDate": "2026-11-04T14:30:00.000Z",
           "endDate": "2026-11-04T17:30:00.000Z"
@@ -1890,7 +1896,7 @@
       "published": [
         {
           "id": "discovery-evt-CrfUNgdw4aVQtjy",
-          "slug": "unfollow-002-mumbai-afterparty-zcash-bitrefill",
+          "slug": "unfollowmumbai",
           "name": "UNFOLLOW_002 Mumbai: Afterparty with Zcash & Bitrefill",
           "startDate": "2026-11-04T13:30:00.000Z",
           "endDate": "2026-11-04T19:30:00.000Z"
@@ -1922,7 +1928,7 @@
       "published": [
         {
           "id": "india-luma-ub56pe38",
-          "slug": "frontier-of-intelligence-hackathon",
+          "slug": "foihackathon",
           "name": "Frontier Of Intelligence Hackathon",
           "startDate": "2026-11-05T03:30:00.000Z",
           "endDate": "2026-11-06T11:30:00.000Z"
@@ -1982,7 +1988,7 @@
       "published": [
         {
           "id": "ibw-official-pragma-mumbai-11-05",
-          "slug": "pragma-mumbai",
+          "slug": "pragmamumbai",
           "name": "Pragma Mumbai",
           "startDate": "2026-11-06",
           "endDate": "2026-11-06"
@@ -2010,7 +2016,7 @@
       "published": [
         {
           "id": "premier-unchained-summit-india-2026",
-          "slug": "unchained-summit",
+          "slug": "unchainedmumbai",
           "name": "Unchained Summit India 2026",
           "startDate": "2026-11-05",
           "endDate": "2026-11-06"
@@ -2050,7 +2056,7 @@
       "published": [
         {
           "id": "india-luma-5u1evsou",
-          "slug": "builders-brunch-mumbai",
+          "slug": "brunchmumbai",
           "name": "Builders Brunch, Mumbai 🇮🇳",
           "startDate": "2026-11-05T07:30:00.000Z",
           "endDate": "2026-11-05T10:30:00.000Z"
@@ -2076,6 +2082,13 @@
       "status": "already-published",
       "matchReason": "registration URL / previously verified identity",
       "published": [
+        {
+          "id": "w3v-x-quantus-happy-hour-devcon-mumbai-26-11-04",
+          "slug": "quantusmumbai",
+          "name": "NEAR x Quantus Happy Hour @ Devcon Mumbai",
+          "startDate": "2026-11-04T12:30:00.000Z",
+          "endDate": "2026-11-04T15:30:00.000Z"
+        },
         {
           "id": "india-luma-xuofsg0p",
           "slug": "near-quantus-happy-hour",
@@ -2110,7 +2123,7 @@
       "published": [
         {
           "id": "india-luma-kfh8wkql",
-          "slug": "notneils-stealth-founder-dinner",
+          "slug": "stealthdinner",
           "name": "notneils' stealth founder dinner",
           "startDate": "2026-11-05T13:30:00.000Z",
           "endDate": "2026-11-05T16:30:00.000Z"
@@ -2138,7 +2151,7 @@
       "published": [
         {
           "id": "luma-batch-evtaPGKR2FFDEuck",
-          "slug": "afterdark-devcon",
+          "slug": "afterdarkmumbai",
           "name": "The Best Event: Afterdark Devcon",
           "startDate": "2026-11-05T13:30:00.000Z",
           "endDate": "2026-11-05T20:00:00.000Z"
@@ -2169,10 +2182,23 @@
       "organizer": "Secret Society",
       "category": "Party",
       "url": "https://luma.com/ena53peq",
-      "status": "held",
+      "status": "already-published",
       "reviewNote": "The CT party's structured schedule and the sheet show November 5, but the organizer's description says December 6, 16:00–19:00. Preserve the existing conflict hold pending clarification.",
-      "published": [],
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "ibw-luma-evt-hIZnQMK5SVTWgj8",
+          "slug": "ctparty",
+          "name": "Biggest CT G.A.Y Party",
+          "startDate": "2026-11-05T14:00:00.000Z",
+          "endDate": "2026-11-05T19:30:00.000Z"
+        }
+      ],
       "sourceMatches": [
+        {
+          "id": "ibw-luma-evt-hIZnQMK5SVTWgj8",
+          "file": "ibw-side-events.json"
+        },
         {
           "id": "luma-batch-hIZnQMK5SVTWgj8",
           "file": "luma-batch-events.json"
@@ -2198,7 +2224,7 @@
       "published": [
         {
           "id": "premier-unchained-summit-india-2026",
-          "slug": "unchained-summit",
+          "slug": "unchainedmumbai",
           "name": "Unchained Summit India 2026",
           "startDate": "2026-11-05",
           "endDate": "2026-11-06"
@@ -2266,7 +2292,7 @@
       "published": [
         {
           "id": "luma-batch-cFXe8eT3nFr409n",
-          "slug": "money-maker",
+          "slug": "moneymaker",
           "name": "MONEY MAKER",
           "startDate": "2026-11-06T07:30:00.000Z",
           "endDate": "2026-11-06T19:30:00.000Z"
@@ -2298,7 +2324,7 @@
       "published": [
         {
           "id": "luma-batch-cFXe8eT3nFr409n",
-          "slug": "money-maker",
+          "slug": "moneymaker",
           "name": "MONEY MAKER",
           "startDate": "2026-11-06T07:30:00.000Z",
           "endDate": "2026-11-06T19:30:00.000Z"
@@ -2330,7 +2356,7 @@
       "published": [
         {
           "id": "ibw-official-ship-safe-devcon-mumbai-security-sessions-11-06",
-          "slug": "ship-safe",
+          "slug": "shipsafemumbai",
           "name": "Ship Safe: Devcon Mumbai Security Sessions by QuillAudits",
           "startDate": "2026-11-06T10:30:00.000Z",
           "endDate": "2026-11-06T14:30:00.000Z"
@@ -2362,7 +2388,7 @@
       "published": [
         {
           "id": "w3v-perps--chai-with-hyprearn",
-          "slug": "perps-and-chai-hyprearn-mumbai",
+          "slug": "hyprearnmumbai",
           "name": "Perps & Chai with HyprEarn @Devcon 8",
           "startDate": "2026-11-06T11:00:00.000Z",
           "endDate": "2026-11-06T14:00:00.000Z"
@@ -2390,7 +2416,7 @@
       "published": [
         {
           "id": "india-luma-tswdcctj",
-          "slug": "unofficial-devcon-afterparty",
+          "slug": "devconafterparty",
           "name": "Devcon Afterparty",
           "startDate": "2026-11-06T16:00:00.000Z",
           "endDate": "2026-11-06T19:30:00.000Z"
@@ -2422,7 +2448,7 @@
       "published": [
         {
           "id": "premier-ethmumbai-2026",
-          "slug": "ethglobal-mumbai",
+          "slug": "ethglobalmumbai",
           "name": "ETHGlobal Mumbai 2026",
           "startDate": "2026-11-05",
           "endDate": "2026-11-07"
@@ -2450,7 +2476,7 @@
       "published": [
         {
           "id": "india-luma-08ogvz1i",
-          "slug": "ready-for-the-run-mumbai",
+          "slug": "rrmumbai",
           "name": "Ready for the Run @ Mumbai",
           "startDate": "2026-11-03T06:30:00.000Z",
           "endDate": "2026-11-03T09:30:00.000Z"
@@ -2482,7 +2508,7 @@
       "published": [
         {
           "id": "india-luma-v0fimew1",
-          "slug": "crypto-afterhours-mumbai",
+          "slug": "afterhoursmumbai",
           "name": "Mumbai Edition: Crypto Afterhours",
           "startDate": "2026-11-07T14:30:00.000Z",
           "endDate": "2026-11-07T18:30:00.000Z"
@@ -2514,7 +2540,7 @@
       "published": [
         {
           "id": "premier-ethmumbai-2026",
-          "slug": "ethglobal-mumbai",
+          "slug": "ethglobalmumbai",
           "name": "ETHGlobal Mumbai 2026",
           "startDate": "2026-11-05",
           "endDate": "2026-11-07"

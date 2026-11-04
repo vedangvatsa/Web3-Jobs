@@ -10469,66 +10469,6 @@
     }
   },
   {
-    "id": "token2049-evt-BkNGF5drLh9HNJB",
-    "name": "Atli Station Singapore: Arrive Ready 🇸🇬 | SuperReturn Asia Week",
-    "description": "Atli Station Singapore: Arrive Ready 🇸🇬 | SuperReturn Asia Week is scheduled for 28 September 2026 at 16:30 (Asia/Singapore). Hosted by Peter Atli, XForge Mobile, Bridgestar Capital.\n\n30% off Atli eSIM plans — no approval or conference ticket required.\n\nSelect “Standard Travel Registration”, enter “N/A” in the ticket reference field, and register.\n\nSuperReturn ticket holders can also use the 30% discount without approval.\n\nBring your eSIM-compatible phone for help installing or activating your plan.\n\nRegistration requires host approval. Registration is listed as free.",
-    "startDate": "2026-09-28T08:30:00.000Z",
-    "location": "Location to be announced",
-    "url": "https://luma.com/x0wrzs6m",
-    "registrationUrl": "https://luma.com/x0wrzs6m",
-    "coverImage": "/events/token2049-evt-bkngf5drlh9hnjb-7c03b296.webp",
-    "endDate": "2026-09-28T11:30:00.000Z",
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "The Greenhouse, Level 3, 40 Stamford Road, Singapore 178908",
-    "hosts": [
-      "Peter Atli",
-      "XForge Mobile",
-      "Bridgestar Capital"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard Travel Registration",
-        "url": "https://luma.com/x0wrzs6m",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "Conference Ticket Holder",
-        "url": "https://luma.com/x0wrzs6m",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/x0wrzs6m",
-      "eventId": "evt-BkNGF5drLh9HNJB",
-      "fetchedAt": "2026-09-27T20:19:35.859Z",
-      "method": "luma-api"
-    },
-    "slug": "atli-station",
-    "source": "token2049-verified",
-    "descriptionSource": {
-      "url": "https://luma.com/x0wrzs6m",
-      "fetchedAt": "2026-09-27T20:19:35.859Z",
-      "method": "matched-organizer-record",
-      "pageTitle": "Atli Station Singapore: Arrive Ready 🇸🇬 | SuperReturn Asia Week",
-      "sha256": "9deb2209eb2fc9edae2b6af1b567c132002a3fa589367b0adf5921c1cf9eb5e3",
-      "evidence": [
-        {
-          "url": "https://luma.com/x0wrzs6m",
-          "fetchedAt": "2026-09-27T20:19:35.859Z",
-          "sha256": "8c99aaf4932b0e69844364325becfe98d27ba2f06c59c57461034c87e2f15c46"
-        }
-      ]
-    }
-  },
-  {
     "id": "token2049-evt-d9OIP043UYmjS1a",
     "name": "Atli Station Singapore: Arrive Connected 🇸🇬 | TOKEN2049 Week",
     "description": "Atli Station Singapore: Arrive Connected 🇸🇬 | TOKEN2049 Week is scheduled for 5 October 2026 at 16:30 (Asia/Singapore). Hosted by Peter Atli, XForge Mobile, Bridgestar Capital.\n\n30% off Atli eSIM plans — no approval required.\n\nApproval is required only for the complimentary 1GB offer.\n\nSelect “Conference Ticket Holder” and enter your valid TOKEN2049 Singapore ticket reference number in the registration form.\n\nSelect “Standard Travel Registration”, enter “N/A” in the ticket reference field, and register.\n\nRegistration requires host approval. Registration is listed as free.",
@@ -13738,37 +13678,6 @@
     }
   },
   {
-    "id": "token2049-2b130b120803646d",
-    "name": "LP/GP Relations & Fundraising Summit",
-    "description": "The LP/GP Relations & Fundraising Summit takes place on 28 September as part of SuperReturn Asia's specialist summits day. Published topics include fundraising, co-investments, reporting, manager selection, and LP/GP relationships. The programme includes a fundraising masterclass.",
-    "startDate": "2026-09-28",
-    "location": "Marina Bay Sands Convention Centre, Singapore",
-    "url": "https://informaconnect.com/superreturnasia/lpgp-relations-fundraising-summit",
-    "registrationUrl": "https://informaconnect.com/superreturnasia/lpgp-relations-fundraising-summit",
-    "coverImage": "/events/token2049-2b130b120803646d-b4af6676.webp",
-    "endDate": "2026-09-28",
-    "city": "Singapore",
-    "country": "Singapore",
-    "venueName": "Marina Bay Sands Convention Centre",
-    "timezone": "Asia/Singapore",
-    "slug": "lpgp-relations",
-    "source": "token2049-verified",
-    "descriptionSource": {
-      "url": "https://informaconnect.com/superreturnasia/lpgp-relations-fundraising-summit",
-      "fetchedAt": "2026-09-27T20:43:39.498Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "LP/GP Relations & Fundraising Summit",
-      "sha256": "9281ca56fffa2fe5e9808be23b9af32371e96bc79b793fb39f10a609402ed27f",
-      "evidence": [
-        {
-          "url": "https://informaconnect.com/superreturnasia/lpgp-relations-fundraising-summit",
-          "fetchedAt": "2026-09-27T20:43:39.498Z",
-          "sha256": "fb476888df8d6c16e80267710cbf2ed626ac4c50e92ed9eb89500c76c6a175b3"
-        }
-      ]
-    }
-  },
-  {
     "id": "token2049-1044b9e351b65628",
     "name": "Tech Week Singapore 2026",
     "description": "Tech Week Singapore takes place on 29–30 September 2026 at Sands Expo and Convention Centre, Marina Bay Sands. The event covers cloud and AI infrastructure, data centres, cybersecurity, and enterprise technology. The organizer publishes conference programmes, speaker details, and an exhibitor list.",
@@ -16504,6 +16413,73 @@
           "url": "https://luma.com/tw82xsrs",
           "fetchedAt": "2026-10-16T08:22:24.667Z",
           "sha256": "03292d7d83cd706296ef339453c760235bb56eb0f3095a697007d2fe92162030"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-JZv1H985Ggdevr9",
+    "name": "Tech X Summit Global",
+    "description": "Tech X Summit Global is scheduled for 10 December 2026 at 10:00 (Asia/Singapore) in Singapore. Hosted by Asia Web3 Ai Association (AWAA).\n\nWe bring together the leaders who are not just observing the shift, but are actively building the infrastructure of tomorrow.\n\nVisitor Pass now just $100 (Regular Price: $499)!\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-12-10T02:00:00.000Z",
+    "location": "Marina Bay Sands Singapore, 10 Bayfront Ave, Singapore 018956",
+    "url": "https://luma.com/y586ohae",
+    "registrationUrl": "https://luma.com/y586ohae",
+    "coverImage": "/events/token2049-evt-jzv1h985ggdevr9-c2a8a729.webp",
+    "endDate": "2026-12-10T10:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Marina Bay Sands Singapore",
+    "streetAddress": "10 Bayfront Ave, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Downtown Core",
+    "coordinates": {
+      "latitude": 1.2837574999999999,
+      "longitude": 103.8591065
+    },
+    "hosts": [
+      "Asia Web3 Ai Association (AWAA)"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Asia Web3 Ai Association (AWAA)",
+      "url": "https://asiaweb3aiassociation.org/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Vistor Expo Pass",
+        "url": "https://luma.com/y586ohae",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/y586ohae",
+      "eventId": "evt-JZv1H985Ggdevr9",
+      "fetchedAt": "2026-10-24T14:47:20.616Z",
+      "method": "luma-api"
+    },
+    "slug": "tech-summit",
+    "source": "token2049-verified",
+    "descriptionSource": {
+      "url": "https://luma.com/y586ohae",
+      "fetchedAt": "2026-10-24T14:47:20.616Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Tech X Summit Global",
+      "sha256": "808fef6c6329c7addd63dfe4cabca74866868bbe9a18dce86801b8a7bcc843f0",
+      "evidence": [
+        {
+          "url": "https://luma.com/y586ohae",
+          "fetchedAt": "2026-10-24T14:47:20.616Z",
+          "sha256": "5be2844e8ac93418b6267f4b80fc5e8ed297c56bab3786d28544422f28b2e936"
         }
       ]
     }

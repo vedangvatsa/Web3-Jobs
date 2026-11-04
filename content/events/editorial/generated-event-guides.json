@@ -1,39 +1,4 @@
 {
-  "ci-https---conferenceindex-org-event-driving-platforms-and-decentralized-tech-in-healthcare-life-scienc": {
-    "summaryLead": "ConV2X Symposia returns to Cambridge on September 24-25, 2026, putting healthcare executives and the builders of decentralized infrastructure in the same deliberately small room.",
-    "sections": [
-      {
-        "heading": "Small Room, Deliberate Design",
-        "content": [
-          "Most industry gatherings measure success in badges printed. ConV2X, organized by Partners in Digital Health, bets the other way: attendance capped at 150 seats, speakers picked for implementation experience rather than logo value. The 2026 summit runs September 24-25 at The Foundry in Cambridge, United States, and its organizers describe it without ornament as an in-person executive summit focused on healthcare transformation through AI infrastructure, decentralized systems, blockchain, interoperability, governance and cybersecurity. Two days, one venue, one argument at a time.",
-          "The cap is not marketing garnish. Curated rosters and limited seating change how a room behaves; questions get asked and answers get finished, because nobody is rationing attention across a thousand strangers. Early-bird pricing is listed at $299 through August 1, after which tickets cost more, and the organizers make a point of noting that seats go by design rather than demand. Given that hard ceiling, late decisions carry real risk of missing the cut entirely."
-        ]
-      },
-      {
-        "heading": "Two Days Inside The Foundry",
-        "content": [
-          "Both days unfold in a single Cambridge venue, which keeps the schedule honest and the transitions short. Keynotes flow into working sessions, and conversations survive lunch instead of scattering across a convention center. Before anyone flies in, registered attendees get access to the ConV2X community platform: build a profile, browse the attendee directory, message speakers and peers, and lock in meetings ahead of time. The organizers frame it as starting the summit before arrival, and for once the phrasing fits the mechanics.",
-          "That pre-event layer quietly changes the economics of attending. Identify the handful of people worth your time, schedule them before departure, and spend the 24th and 25th going deep rather than rehearsing introductions every forty minutes. It is the difference between collecting business cards and leaving with a working shortlist. For executives who bill their time honestly, that arithmetic alone can justify the trip.",
-          "Cambridge itself suits the format. Late September there means walkable streets, university density and enough quiet corners for the unscheduled conversations that end up mattering most."
-        ]
-      },
-      {
-        "heading": "What Gets Argued About",
-        "content": [
-          "Substantively, the summit concentrates on enterprise AI infrastructure for healthcare and life sciences, and on where decentralized technology earns its complexity budget: interoperability standards, governance models, cybersecurity posture, telehealth and telemedicine operations, and the ownership question that follows patient data onto shared ledgers. These are procurement questions as much as research questions, aimed at leaders who sign off on deployments rather than demo them.",
-          "The confirmed speaker list reads like a cross-section of the discipline. Leo Anthony Celi of Harvard Medical School carries a bioethics portfolio; Jim Nasr, CEO of Acoer, has shipped blockchain tooling for clinical contexts; Nitin Gaur arrives from Nethermind with institutional finance credentials. Former FDA regulatory science leadership sits alongside MITRE cybersecurity engineers, hospital data scientists, startup founders and academic researchers translating innovation into practice.",
-          "Expect friction, in other words. This is a crowd assembled to argue about deployment, evidence and regulation, not to applaud concept decks. Past attendees quoted by the organizers single out the audience quality, which is usually the tell for whether a small event compounds year over year."
-        ]
-      },
-      {
-        "heading": "Who Should Book Travel Now",
-        "content": [
-          "Hospital and payer executives weighing AI vendors, pharma and life-sciences leaders mapping data strategy, policy specialists tracking decentralized identity, investors screening health-tech infrastructure, and researchers trying to move findings into clinical practice will all find counterparts in the room. So will cybersecurity leads, since governance of distributed systems has become inseparable from security posture.",
-          "Two days is a short window, and the curation exists to make it enough. For organizations still deciding whether decentralized systems belong anywhere near clinical operations, few 2026 agendas pack this much relevant experience into 150 chairs. Book early or accept the risk that the room fills without you."
-        ]
-      }
-    ]
-  },
   "ci-https---conferenceindex-org-event-international-artificial-intelligence-and-blockchain-conference-ai": {
     "summaryLead": "AIBC 2026 brings its AI-plus-blockchain research program to Ritsumeikan University's Osaka Ibaraki Campus from November 20-22, 2026, with ACM-indexed publication on the line.",
     "sections": [
@@ -291,46 +256,6 @@
       }
     ]
   },
-  "ci-https---conferenceindex-org-event-international-conference-on-cryptography-and-information-security-": {
-    "summaryLead": "The International Conference on Cryptography and Information Security convenes in Kuala Lumpur on August 24-25, 2026, two days for the people who think about keys, ciphers and trust for a living.",
-    "sections": [
-      {
-        "heading": "Cryptography Takes the Stage in KL",
-        "content": [
-          "Kuala Lumpur, Malaysia hosts the International Conference on Cryptography and Information Security (ICCIS) on August 24-25, 2026, per the event's Conference Index listing. Like other entries in this family, it is organized under the World Academy of Science, Engineering and Technology and follows a conventional academic arc: authors submit papers, reviewers respond, and accepted work is presented across the two-day program.",
-          "Its cycle is unusually compact. Final submissions were due July 22, 2026, notifications were set for August 3, 2026, and the conference itself runs August 24-25, 2026. If you missed the submission window, attending-only or targeting a future edition are the realistic remaining options."
-        ]
-      },
-      {
-        "heading": "Beyond Textbook Crypto",
-        "content": [
-          "The call ranges well past substitution-permutation nostalgia. Classical concerns anchor the program: cryptography and coding, key management, authentication, untraceability, privacy and authentication, data integrity, access control and intrusion detection. Quantum cryptography appears too, a topic that has migrated from curiosity to boardroom agenda.",
-          "The wider sweep is telling: biometric security, trust models and metrics, wireless network security, information hiding, vulnerability assessment, insider threats and countermeasures, e-commerce integrity, and computational-intelligence approaches ranging from artificial immune systems to evolutionary computation, fuzzy systems and intelligent agents. Security, in this framing, is as much adaptive behaviour as mathematics."
-        ]
-      },
-      {
-        "heading": "Timeline Check",
-        "content": [
-          "The sequence runs cleanly: final submission July 22, 2026, notification August 3, 2026, conference August 24-25, 2026. That is a compressed, legible cycle, refreshingly straightforward compared with listings where the notification date somehow predates the submission deadline.",
-          "Administration flows through waset.org, and the index tags the event with keywords spanning vulnerability, threat intelligence, network security, mobile security and information security. Venue specifics are not published on the listing itself, so contact organizers for the room before booking anything non-refundable."
-        ]
-      },
-      {
-        "heading": "KL Notes",
-        "content": [
-          "Kuala Lumpur is an easy sell: competitive hotel rates by regional standards, excellent air connectivity through KLIA, and food culture that alone justifies the trip. August sits in a fair weather window, though afternoon rain remains a reliable co-author of your plans.",
-          "For cryptographers, security engineers and graduate students in Southeast Asia, the proximity argument is decisive: a focused, affordable two days without intercontinental travel. Verify program details on the organizer's pages as August progresses, and if you are presenting, arrive with slides that can survive a skeptical room."
-        ]
-      },
-      {
-        "heading": "Who Shows Up, Who Should",
-        "content": [
-          "Events like ICCIS draw a predictable mix: academic cryptographers, graduate students hunting a first proceedings credit, and a scattering of security engineers whose employers will pay for anything with the word security in the title. All three groups get something here. The researchers get a compact program where nothing competes with five parallel tracks, and the engineers get named coverage of insider threats, vulnerability assessment and wireless network security that maps uncomfortably well onto their Monday mornings.",
-          "For Malaysia-based attendees the calculus is easiest. Kuala Lumpur's hotel and flight costs keep the trip inside a modest budget, and the two-day footprint fits a working week without drama. The topic list leans academic, so practitioners should scan for the applied lines, biometric security, trust management, intrusion detection, before registering. And given how tight the July-to-August cycle runs, anyone still hoping to present rather than attend should contact the organizers immediately rather than assuming the window remains open."
-        ]
-      }
-    ]
-  },
   "ci-https---conferenceindex-org-event-international-conference-on-financial-cryptography-and-data-securi": {
     "summaryLead": "Financial cryptography gets two focused days in Rome on September 7-8, 2026, as ICFCDS digs into digital cash, payments fraud and the economics of trust.",
     "sections": [
@@ -445,40 +370,6 @@
       }
     ]
   },
-  "ethorg-meetupweb3privacy-now-tokyo-meetupseptember-18toky": {
-    "summaryLead": "Web3Privacy Now lands in Tokyo on September 18, 2026 for a half-day meetup on open source, public goods and grassroots digital rights, staged as a side event to ETHTokyo and led off by speakers from Railgun and Swarm.",
-    "sections": [
-      {
-        "heading": "Tokyo Gets Its Privacy Turn",
-        "content": [
-          "Privacy is the corner of web3 that thrives on small rooms, and Web3Privacy Now has made a touring habit of them. Its Tokyo meetup, set for September 18, 2026, runs as a side event to ETHTokyo, which means the audience arrives pre-filtered: people already in town for Ethereum's builder scene, looking for the conversation the main track won't host.",
-          "The organizing crew matters here. Web3Privacy Now describes itself as a think-and-do-tank of hundreds of people and projects committed to civil liberties, decentralization and open-source software, explicitly against standardization and maximalism. Mykola fronts this edition. Their 2026 slate runs from a neo-cypherpunk summit at Berlin's Funkhaus during Berlin Blockchain Week to a 5,000-person Ethereum Cypherpunk Congress beside Devcon in Mumbai on November 2."
-        ]
-      },
-      {
-        "heading": "Techno-Politics on the Agenda",
-        "content": [
-          "The session title does a lot of work: Shaping and Defending the Techno-Political Evolution. Organizers frame it as half a day dedicated to solidarity among open-source and human rights advocates, public goods developers and hacker culture, internet freedom defenders and grassroots movements, hacktivists and the general public. That is a wide tent, deliberately so.",
-          "Expect the discussion to sit where code meets politics - funding public goods without capture, keeping privacy tooling legal and usable, deciding which battles matter. Anyone hoping for a token pitch should stay home; anyone curious why protocol developers talk like civil-rights organizers will get the missing context."
-        ]
-      },
-      {
-        "heading": "Railgun and Swarm Lead Off",
-        "content": [
-          "Two first speakers anchor the bill. Alan Scott represents Railgun, the zero-knowledge privacy system he describes as protecting billions in funds, positioning him as one of Ethereum's most persistent privacy advocates. He'll bring the practitioner's view of making private transactions work at scale.",
-          "Alongside him, Daniel Knobelsdorf of Swarm arrives with a longer arc: years embedded in decentralized tech, digital commons, alternative financial systems and digital transformation as a self-described long-lasting digital rights activist. The pairing is telling - one builds the privacy rail, the other defends the broader commons it runs on."
-        ]
-      },
-      {
-        "heading": "First Come, Seriously",
-        "content": [
-          "Registration is free via Luma, but the disclaimer deserves bold type: the event is first come, first served. Tokyo venues fill fast during ETHTokyo week, so an RSVP is necessary but not sufficient - arriving early is part of the ticket.",
-          "If Tokyo misses you, the same crew runs privacy meetups through the year in Prague, Rome and Amsterdam, with a Cypherpunk Retreat planned for September in Europe alongside Protocol Labs. The movement, whatever else you say about it, keeps a calendar.",
-          "Context for newcomers explains why this small room matters. The Tokyo session sits inside a year-long arc: privacy meetups in Prague and Rome established the format, a Cypherpunk Retreat with Protocol Labs was slated for September in Europe for roughly fifty tier-one builders, Berlin hosted a neo-cypherpunk summit at Funkhaus during Berlin Blockchain Week aimed at 2,000 people, and the Ethereum Cypherpunk Congress lands beside Devcon in Mumbai on November 2 targeting 5,000 attendees and 100 speakers, reaching beyond web3 toward Signal, Brave, Tor and EFF circles. Measured against those numbers, a half-day in Tokyo looks modest - but rooms like this are where the movement tests arguments, recruits volunteers via its open forms and decides which fights deserve the bigger stages."
-        ]
-      }
-    ]
-  },
   "luma-evt-XVgMezNYKSfYZHA": {
     "summaryLead": "MyWeb3 throws its official launch party in Fullerton, California on Saturday, September 12, 2026 - part celebration, part hands-on training where creators and small-business owners set up profiles live, eat free food and learn to accept payments across PayPal, Venmo, Zelle, CashApp and crypto.",
     "sections": [
@@ -577,40 +468,6 @@
           "The strongest argument for attending is retrospective: past attendees have landed roles at Coinbase, Circle, Gemini, Galaxy and Polymarket, among other blockchain, fintech and policy employers. That list is the difference between a conference that claims career outcomes and one that can name them.",
           "If you fit either side of the equation - a student or faculty member serious about blockchain, or a company hunting early-career talent - the dates to hold are 20-21 November 2026. Book the early-bird tier while it lasts, apply for the travel subsidy if you qualify, and expect the Austin airport to feel noticeably busier with lanyards that weekend.",
           "Timing helps the cause too. Late November sits past the autumn recruiting rush but ahead of the holidays, close enough to year-end that companies arrive with open headcount and fresh budgets rather than vague intentions. Between the hackathon, the research competition and dozens of employer tables, two days at UT Austin can plausibly accomplish what months of cold applications cannot."
-        ]
-      }
-    ]
-  },
-  "luma-evt-yft0JYJNpkPqwAB": {
-    "summaryLead": "Boston DAO Converge folds stablecoins, policy and agentic finance into one afternoon on Friday 25 September 2026 at Foley Hoag's Seaport conference centre - the merged heir to ETHBoston and Solana Boston, staged as part of Boston Fintech Week.",
-    "sections": [
-      {
-        "heading": "Two ecosystems' conferences become one",
-        "content": [
-          "The Boston DAO has run the city's independent crypto conferences since 2019: ETHBoston in 2019, 2023, 2024 and 2025, then Solana Boston in 2024 and 2025 - the first Solana city conference held anywhere. Converge is what those become in 2026, same organisers and standard but no longer split by ecosystem, with backing from Stand With Crypto and Fintech Sandbox behind the scenes.",
-          "Placement matters as much as lineage. Converge sits inside Boston Fintech Week, which puts the crypto crowd in front of the city's traditional finance and fintech establishment, and vice versa. For an afternoon built around themes that belong to no single chain, that cross-pollination is not decoration - it is the point."
-        ]
-      },
-      {
-        "heading": "Three questions worth an afternoon",
-        "content": [
-          "The first theme is stablecoins, which the organisers call the most boring and most consequential thing in crypto: payment rails, treasury operations, bank integration, and what changes when dollars settle instantly and globally by default. Boston, home to Circle among others, has a genuine claim on that conversation.",
-          "The second is AI - specifically agents starting to hold keys, move value and make decisions without a human in the loop. Agentic finance is the slice of the AI story that runs on crypto rails, and it is arriving faster than the frameworks meant to govern it. The third is policy: market-structure legislation moving with midterms months away, handled by putting candidates, officeholders, counsel and advocates into sessions with the founders they regulate. Additional programming spans DeFi, security, infrastructure and market structure.",
-          "The sequencing of those three themes is deliberate. Stablecoins give the room shared ground - bank counsel and DeFi developers alike hold a stake in dollar rails. Agentic finance supplies the frontier angle, early enough that positioning now pays later. Policy binds both to reality, since nothing discussed survives contact with whatever market-structure rules pass next. An afternoon cannot settle these debates, but it can put every side in one zip code, which is more than most conferences manage in three days."
-        ]
-      },
-      {
-        "heading": "The city that can fill both sides of the room",
-        "content": [
-          "Boston's qualification for this agenda is structural. Fidelity, Circle, Coinbase, Castle Island Ventures and Accomplice all operate there, while MIT, Harvard, BU and Northeastern feed a steady pipeline of founders and engineers. Very few cities hold institutional capital and academic output in the same boundaries; Converge is built as the room where the two sides actually meet.",
-          "The seating chart enforces it. Builders beside investors, startups beside institutions, students beside growing companies, researchers beside operators - two stages in one location, arranged so conversations that usually happen in separate buildings happen in the same one. It is a simple layout choice with outsized consequences for who talks to whom."
-        ]
-      },
-      {
-        "heading": "Sixteenth-floor views, five-dollar tickets, brewery after-party",
-        "content": [
-          "The venue is Foley Hoag's conference centre at 155 Seaport Blvd, spread across the 16th and 17th floors with harbour and skyline views, a main stage, breakout space and dedicated sponsor and networking areas. When sessions end, the after-party moves to Cisco Brewers Seaport's open-air bungalow lounge, a short walk away and open to everyone attending Boston Fintech Week - not just Converge badge holders.",
-          "Ticketing stays deliberately accessible: a $5 early-bird flash sale, a standard tier, discounted admission for students who register with a.edu address, and an approval tier for paid Fintech Sandbox Innovation Forum holders - with name-your-own-price at checkout. Speaker announcements roll out through August and September, and sponsorship remains open, including speaking positions. Watch the Boston DAO calendar for each drop."
         ]
       }
     ]
@@ -845,39 +702,6 @@
       }
     ]
   },
-  "luma-host-evt-HVi8pTdZBEHTVLR": {
-    "summaryLead": "Pragma Tokyo arrives at Toranomon Hills Forum on September 26, 2026, packing ETHGlobal's conference format into a single high-density day of talks, interviews, and panels. The confirmed lineup blends Japanese ecosystem leadership with international founders, and the organizers promise more names before the doors open. It is a paid, ticketed event with no livestream - attendance is the product. For builders watching Asia's Ethereum scene, this is the fall date that matters most in Japan.",
-    "sections": [
-      {
-        "heading": "One Full Day at Toranomon Hills",
-        "content": [
-          "The venue sits in the Mori Tower complex at Toranomon 1-chōme, on the fifth floor of one of Tokyo's most recognizable business landmarks. Toranomon itself occupies useful ground between the political gravity of Kasumigaseki and the nightlife pull of Roppongi, with subway connections that make the rest of the city an easy reach. It is the kind of address that signals intent: this is a serious production, not a popup.",
-          "The single-day format is a feature worth understanding. Multi-day conferences dilute attention and encourage skimming; a compressed schedule forces choices and rewards people who arrive having read the program. ETHGlobal's listing promises beverages and bites across the day for standard ticket holders, which nudges attendees to stay in the building and in the conversation rather than dispersing for lunch."
-        ]
-      },
-      {
-        "heading": "Program and Named Voices",
-        "content": [
-          "Three speakers are confirmed on the listing: Takashi Tezuka, CEO of Startale Japan; Armani Ferrante, CEO of Backpack; and Mai Fujimoto, CEO of zERC20. Organizers frame the program as founders and leaders sharing what they are building, the decisions shaping their work, and where they believe Ethereum heads next - with additional speakers and details still to be announced.",
-          "Read the mix closely and a theme emerges: exchange infrastructure, consumer wallets, and Japan-rooted protocol ventures sitting on one bill. That breadth is the point of the Pragma format. Rather than narrowing to one technical niche, the day aims to surface the whole shape of the onchain economy, with interviews and panels doing the connective work between keynotes."
-        ]
-      },
-      {
-        "heading": "Passes, Packs, and Perks",
-        "content": [
-          "Two ticket types appear on the page. The Standard Pass covers the full day with beverages and bites, and bundles an extra Network Pass to bring a friend - a quietly clever mechanic for growing the room. The Network Pass strips catering and drops to general admission for those watching budgets. Past ETHGlobal hackers and existing Pack holders may qualify for discounts, checked through the event's main website.",
-          "Above both sits the Tokyo Pack, a minted bundle that folds Pragma access together with the ETHGlobal Happy Hour and a collection of partner-hosted experiences and side events. For travelers committing trans-Pacific fares, the pack route converts one purchase into a curated week. For locals, either plain ticket does the job; the friend-pass on Standard makes it easy to recruit a plus-one."
-        ]
-      },
-      {
-        "heading": "Making the Trip Work",
-        "content": [
-          "Late September in Tokyo trades summer humidity for milder air, though typhoon season technically lingers - build slack into any onward travel. Toranomon Hills station adjacency removes most commute friction, and the surrounding district holds enough coffee shops and lunch counters to absorb any gap in the schedule without straying far from the venue.",
-          "Strategy for a one-day event differs from a three-day one. Identify the two or three people you most need to meet before arriving, use the networking blocks deliberately, and resist the urge to attend every session at the cost of every corridor. The talks will not be restreamed, but the relationships you start there will outlast the slides."
-        ]
-      }
-    ]
-  },
   "luma-host-evt-Qm3jiCrG5WYct6j": {
     "summaryLead": "On October 6, 2026, DAYS brings an invite-only Hyperliquid Forum to Singapore, deliberately capped at 200 C-suite executives and department heads. Doors open at 9:00 and stay open until 20:00, with the formal speaking agenda compressed into a late-afternoon block and a catered buffet dinner closing the night. The explicit goal: put institutional capital in a room with the teams building on Hyperliquid. Requests to join are reviewed, not automatic.",
     "sections": [
@@ -940,39 +764,6 @@
         "content": [
           "The sponsorship grid reads as a cross-section of the ecosystem. AlphaFi, EVE Frontier, and Walrus occupy diamond billing; ONE Championship stands alone at platinum; Slush takes gold; RedotPay and Scallop take silver; and Anyflo, Merkle Science, and Sentio fill the bronze tier. A sponsorship application form remains open for teams wanting a place on the wall.",
           "Tickets run on a familiar ladder - early bird, advance, standard, and last-call windows, each opening as the prior phase ends. The lesson of every TOKEN2049-adjacent event is that waiting costs money and sometimes attendance. Participation terms and privacy policies are linked from the listing and worth ten minutes of reading before checkout rather than after."
-        ]
-      }
-    ]
-  },
-  "luma-host-evt-X2V7EOKGbPXL9Gv": {
-    "summaryLead": "Monad Blitz hits Berlin on September 26, 2026 - one day, one room, one goal: ship something real on Monad's high-performance EVM before evening. Run by Encode Club with the Monad Foundation, the series claims more than fifty editions since May 2025, from Shanghai to San Francisco, Lagos to Lisbon. Three thousand dollars in prizes await the best builds. Capacity is limited, and every registration passes host approval.",
-    "sections": [
-      {
-        "heading": "A Hackathon Measured in Hours",
-        "content": [
-          "The timetable is almost aggressively compact. Registration and breakfast open at 9:00; welcome remarks and a Monad 101 workshop fill the morning; hacking begins at 11:15 and freezes promptly at 17:00. Submissions close half an hour later, pitches start at 18:00, and prizes plus closing remarks wrap the night from 19:30. Lunch happens at 13:00, briefly.",
-          "Compression is the pedagogy. Seven hours of building leaves no room for architectural perfectionism, which is exactly the point - participants practice the scoping judgment that separates people who ship from people who refactor. The format's persistence across fifty-plus editions suggests the message has traveled: a working prototype by dusk is achievable, and finishing one recalibrates how you estimate everything afterward."
-        ]
-      },
-      {
-        "heading": "Learn, Build, Ship, Win",
-        "content": [
-          "Organizers describe the flow in four verbs. Learn: morning workshops and hands-on mentoring bring everyone up to speed on Monad. Build: seven hours of focused execution, solo or on ad-hoc teams. Ship: every project demos its MVP to the crowd. Win: the prize pool distributes. The structure deliberately front-loads teaching so that newcomers are not paying dues for the first half of the day.",
-          "The invitation explicitly reaches beyond committed crypto developers - seasoned onchain builders, founders exploring something new, and Web2 developers curious about the ecosystem are all named audiences. That breadth shapes the room's character. Expect pairing conversations at breakfast, unlikely team formations before the workshop ends, and demo pitches that range from polished to gloriously rough."
-        ]
-      },
-      {
-        "heading": "Prizes, Approvals, and Fine Print",
-        "content": [
-          "The prize pool totals three thousand US dollars, distributed when pitches conclude. Money aside, the listing pitches something larger: a direct line into the heart of the Monad ecosystem, putting participants in the same room as the founders, builders, and investors advancing it daily. For career-minded attendees, that framing may outweigh the cash.",
-          "Practicalities deserve attention. Registration requires host approval, and the listing warns plainly that capacity is limited - applying early is the difference between attending and refreshing a waitlist. A photography and recording disclaimer accompanies entry, meaning demos may end up in promotional material. Read it, then decide what you are comfortable showing on a projector."
-        ]
-      },
-      {
-        "heading": "Why Monad Wants Berlin",
-        "content": [
-          "Monad positions itself as an EVM-compatible layer 1 rebuilt from the ground up, citing throughput of up to ten thousand transactions per second achieved through innovations in consensus and parallel execution. Technology at that ambition level needs proof of the social variety: working demos, built fast, by people outside the core team. Blitz is engineered to manufacture exactly that evidence, city by city.",
-          "Berlin supplies a receptive audience. The city's builder density and its tolerance for experimental formats have made it a reliable European stop for developer-focused tours. For local engineers, the calculus is straightforward - a single Saturday, an approved application, mentorship on hand, and a demo reel at the end. Few investments of a weekend return that much signal."
         ]
       }
     ]
@@ -1072,35 +863,6 @@
         "content": [
           "The practical playbook writes itself. Follow the Luma listing for structural updates; watch ETHGlobal's own channels, since past events show announcements flowing through the organization's website and socials first; and diarize a periodic check-in rather than trusting memory. When the date confirmation lands, early-bird pricing windows tend to move quickly.",
           "Between now and then, resist over-planning. The only durable commitments available today are the pass purchases themselves, and those hinge on individual appetite for date risk. Everyone else can afford to treat ETHConf 2027 as a promising placeholder - a name, a city, and an intention - until the organizers convert intention into schedule."
-        ]
-      }
-    ]
-  },
-  "luma-host-evt-vnEBZlxGq6sDbrk": {
-    "summaryLead": "Solana Skyline NYC opens its fifth-floor coworking space for an open Friday session on September 25, 2026 - coffee, snacks and unstructured time with New York's Solana builders.",
-    "sections": [
-      {
-        "heading": "An Open Door on the Fifth Floor",
-        "content": [
-          "Not every worthwhile crypto event has a stage. Skyline Coworking, set for Friday, September 25, 2026, is the opposite of a summit: the Solana Skyline NYC crew throws open the doors of their new fifth-floor coworking space in Manhattan and lets the day unfold. The promise on the listing is disarmingly simple - coffee, snacks and Solana friends - with the implicit fourth ingredient being whatever project you happen to be hacking on.",
-          "The exact address stays hidden until you register, a small bit of theater that keeps the room to genuinely interested people. Host approval is required, so expect a short wait between signing up and getting the location. Once you're in, it's a standard coworking setup: desks, wifi, caffeine and conversation on tap.",
-          "The name winks at Manhattan's skyline, but the substance is homier: a recurring base camp for a community that otherwise only converges around big-ticket productions. Between conferences, this is where ecosystem maintenance actually happens - contract questions over cold brew, hiring chats that never touch job boards, candid feedback from builders who shipped last quarter."
-        ]
-      },
-      {
-        "heading": "Why Unstructured Fridays Work",
-        "content": [
-          "Structured events optimize for speakers; open coworking optimizes for collisions. You sit next to someone debugging a program client, overhear a wallet integration question, and half an hour later you've found a collaborator or a job lead. New York's Solana scene has grown through these low-key recurring formats as much as through headline conferences, and Skyline's team has made the open Friday a fixture of that rhythm.",
-          "For newcomers the barrier to entry is about as low as crypto gets. No ticket tiers, no badge hierarchy - you show up, introduce yourself, and either find your people or get pointed toward them. Veterans use the day to close loops started at louder events earlier in the week.",
-          "There's also a signal in the persistence of the format itself. Ecosystems that survive bear markets tend to be the ones that kept meeting when prices made meetings pointless. An open Friday desk repeated week after week compounds into social capital no sponsored happy hour can buy - and late September, with the city's fall calendar revving back up, is a good moment to sample it."
-        ]
-      },
-      {
-        "heading": "The Practical Bits",
-        "content": [
-          "Date: Friday, September 25, 2026. City: New York, United States, with the address released after registration. Host: Solana Skyline NYC, the group behind ecosystem events across the five boroughs, easily recognized by the Statue of Liberty branding on their listings. Registration runs through Luma with host approval, so sign up before Friday morning rather than hoping walk-ins fly.",
-          "Bring a laptop and headphones; bring business cards only if you still believe in them. The day rewards whoever treats it like a real workday with better-than-average interruptions. If you're building on Solana - or hiring people who do - this is the cheapest scouting trip in the city: free to attend, priced in coffee refills.",
-          "Since the format repeats, the stakes stay pleasantly low: a quiet Friday costs nothing, and the regulars return regardless. For anyone weighing a move into Solana development, one afternoon of ambient conversation here beats a month of Discord lurking. Approval usually lands within a day, so a Thursday signup still makes it through the door by Friday morning."
         ]
       }
     ]
@@ -1309,233 +1071,6 @@
         "content": [
           "Goa gives the experiment a beachfront base with established hospitality infrastructure at prices dramatically below Western equivalents, and late October marks the start of Goa's dry season after the monsoon. Approximately sixty-five percent of Edge India participants are expected from outside India, creating an unusual density of international builders on the subcontinent.",
           "For crypto-native attendees, the AI-crypto overlap is real rather than decorative: SingularityNET's presence anchors serious AGI discussion, while Light DAO's investor and entrepreneur membership keeps commercial pathways visible. Come for the full three weeks if possible; the alumni consensus is that transformation scales with time spent inside the village."
-        ]
-      }
-    ]
-  },
-  "premier-enugu": {
-    "summaryLead": "Web3Conf Enugu runs September 19-26, 2026, bringing African developers, founders, and communities together in Enugu, Nigeria, for eight days of web3 education and on-chain career building under the NextBridge Africa banner.",
-    "sections": [
-      {
-        "heading": "Eight Days, One City",
-        "content": [
-          "Most crypto conferences compress into a weekend and call it density. Web3Conf Enugu stretches across eight full days, from September 19 to 26, 2026, in Enugu, capital city of Enugu State in southeastern Nigeria. That length signals intent: a sustained program of education and community building rather than a single-day keynote parade followed by a party.",
-          "The stated mission, per the organizers, is uniting African developers, founders, and communities around two connected goals: learning and livelihoods. Education comes first, but the explicit endpoint is on-chain career building, which means attendees should expect programming geared toward converting skills into paid work inside the ecosystem, not just accumulating certificates and stickers.",
-          "The event runs under the NextBridge Africa umbrella, whose web3conf subdomain serves as the official home for registration and program details."
-        ]
-      },
-      {
-        "heading": "Who the Week Serves",
-        "content": [
-          "Developers get the most direct draw: concentrated sessions and community contacts in a region where web3 talent runs deep and keeps growing. Founders get a room full of potential collaborators, early users, and local distribution knowledge in one place, which normally requires months of scattered meetups to assemble.",
-          "For students and career-switchers, career-oriented events like this tend to carry the practical material conferences skip: how to contribute to open source in ways that get noticed, where grants and bounties actually live, and how remote work with international teams functions day to day from Nigeria.",
-          "Community is the third leg. Nigerian web3 growth has been substantially community-led, and an eight-day format gives existing groups room to run their own meetups, workshops, and side gatherings around whatever core program the organizers publish."
-        ]
-      },
-      {
-        "heading": "Planning Around a Week-Long Format",
-        "content": [
-          "Week-long events reward pacing over heroics. Do not attempt to attend everything; pick the sessions matching your goals for the week and leave slack for hallway conversations, because at community-driven conferences that is where most real opportunities surface anyway.",
-          "Verify specifics before booking travel. The official site at web3conf.nextbridge.africa carries current schedule, venue, and registration information, and was unreachable at the time of writing, so confirm details there or through the organizers' channels close to your travel dates. Long-format programs routinely finalize venues and session times late.",
-          "Budget extra days on either end if you can manage it. With visitors arriving from across Nigeria and the wider continent, the informal gatherings before and after the formal program carry half the value of the trip."
-        ]
-      },
-      {
-        "heading": "Why Enugu Matters to the Map",
-        "content": [
-          "Events anchored outside the usual capitals matter for how African web3 actually develops. They shorten the distance between global protocols and local builders, keep talent and spending in secondary cities, and force the industry's attention beyond Lagos whenever attendance numbers prove the demand exists.",
-          "If you are a developer in West Africa, this is among the most accessible large-scale web3 gatherings running in September. If you represent a protocol or company hiring in the region, it is the clearest single point of contact with Enugu's community that the calendar offers all year.",
-          "Set expectations accordingly and this format pays off: eight days is long enough for real skill transfer, not just introductions, which is exactly what an education-and-careers mandate requires. Arrive with one skill to deepen and one contact type to find, and the length starts working for you instead of against you."
-        ]
-      }
-    ]
-  },
-  "premier-ethtokyoweek": {
-    "summaryLead": "ETHTokyo Week spreads nine days of Ethereum talks, workshops, and community side events across Tokyo from September 19-27, 2026, organized by the Ethereum Japan community and closing with an ETHGlobal hackathon weekend.",
-    "sections": [
-      {
-        "heading": "A Week Built Like a Festival",
-        "content": [
-          "Instead of one venue and one badge, ETHTokyo Week distributes Ethereum programming across Tokyo for nine days, September 19 through 27, 2026. Talks and workshops anchor the earlier stretch, side events fill the gaps between them, and the whole structure builds toward an ETHGlobal hackathon weekend at the end.",
-          "The format borrows a lesson other cities learned the hard way: cramming everything into a single conference day forces every good session into competition with every other one, while a week lets communities run their own formats without fighting for oxygen. For visitors it also means one flight buys far more than one agenda, provided you pace yourself accordingly.",
-          "The trade-off is that this kind of week demands more from your calendar discipline than any single-venue event. Decide early which days belong to workshops, which to meetings, and which to the hackathon, because Tokyo will otherwise happily fill all nine days for you."
-        ]
-      },
-      {
-        "heading": "The Community Running It",
-        "content": [
-          "Ethereum Japan, the community organization behind the week, describes Ethereum as technology operated by a community, and it operates accordingly. Its public work includes starter resources for setting up wallets, acquiring ETH, reading the whitepaper, and finding developer documentation, alongside standing initiatives such as a digital assets working group and the ETHTokyo project itself.",
-          "That community-first ownership shapes the character of the week. Expect Japanese developer groups, local startups, and international guests sharing programming, with both English and Japanese in play across Tokyo's Ethereum scene. It is a different texture from corporate-produced mega-conferences, closer to a citywide meetup network operating at festival scale for nine days straight."
-        ]
-      },
-      {
-        "heading": "Navigating Nine Days",
-        "content": [
-          "Plan backwards from the ETHGlobal finale. Hackathon weekends consume energy and sleep, so treat the preceding weekdays as prime time for deeper workshop attendance and relationship building, then guard the final weekend for heads-down building rather than sightseeing.",
-          "Side events carry much of the week's value, and they accumulate late. Watch the Ethereum Japan event listings as September approaches, since community-run sessions and company meetups get added continuously rather than announced all at once. Tokyo's rail network makes a multi-venue week genuinely workable; basing yourself near a loop line keeps venue-hopping sane.",
-          "Dates again for the calendar: September 19-27, 2026, with scheduling announcements flowing through ethereum-japan.org as the program locks in. Bookmark both the event and news pages there; a distributed week like this lives or dies on how early you catch its updates."
-        ]
-      },
-      {
-        "heading": "Who Should Make the Trip",
-        "content": [
-          "Builders get the clearest case: workshops during the week, a hackathon finale, and a dense local developer community that rarely travels to Western conferences in comparable numbers. Protocol and research people get a window into Japanese institutional interest in Ethereum through the working group's public activity.",
-          "Newcomers are served explicitly too. The organization maintains beginner pathways covering wallets, acquiring ETH, whitepaper reading, and developer docs, so arriving with zero background and leaving with shipped hackathon project experience is a realistic arc for the full nine days.",
-          "ETHGlobal's involvement changes the stakes of that finale as well. Their hackathon weekends are where many builders first get noticed by protocol teams, so even first-time participants should treat submission day with some seriousness.",
-          "For everyone else: Tokyo in late September, a citywide program, and a hackathon finish make this the easiest Ethereum-branded reason to book Japan all year."
-        ]
-      }
-    ]
-  },
-  "premier-freedomtech": {
-    "summaryLead": "Freedom Tech DC 2026, the Bitcoin Policy Institute's flagship summit, returns to Washington on September 22-23 with policymakers and technologists debating money, speech, and compute, bracketed by a black-tie gala at the Andrew W. Mellon Auditorium.",
-    "sections": [
-      {
-        "heading": "Money, Speech, and Compute on One Agenda",
-        "content": [
-          "The Bitcoin Policy Institute frames its 2026 summit around a plain thesis: national power now runs on technologies of money, speech, and compute, and Washington is writing the rules governing all three. Session themes take up questions like who gets access to the most capable systems and on whose authority, whether the energy and compute build-out becomes broad competition or a set of chokepoints a few firms can throttle, and whether frontier capability can stay open and lawful at all.",
-          "That framing explains the guest-list style. This is a policy gathering where senators share billing with bitcoin CEOs, not a developer conference with a policy track bolted on for optics.",
-          "It is also the institute's flagship return to the capital. BPI is a non-profit think tank established in 2021, publishing research on strategic reserves, mining and energy, financial privacy, and national security, and that pipeline feeds the summit's programming directly."
-        ]
-      },
-      {
-        "heading": "The Venues Tell You the Intent",
-        "content": [
-          "Day one, September 22, runs all day at the National Press Club under the banner Establishing the Stakes. Day two, September 23, moves to PubKey DC, the bitcoin-themed pub downtown, for Hands-On Policy Work, followed by a closing party there that evening.",
-          "The shift from press club to bitcoin pub is the argument made spatially: formal debate first, practical work second. Between the two, on the evening of September 22, sits the Freedom Tech Gala at the Andrew W. Mellon Auditorium, black tie dress, doors opening at 8:00 pm.",
-          "The program extends past the summit proper. An inaugural DC Beefsteak welcome takes place at PubKey DC on September 21, and a Day on the Hill at the United States Capitol follows on the morning of September 24 for those staying through."
-        ]
-      },
-      {
-        "heading": "Who Has Taken This Stage Before",
-        "content": [
-          "Past editions drew senators Cynthia Lummis, Marsha Blackburn, and Ted Cruz; House Majority Whip Tom Emmer; congressmen Ritchie Torres, Josh Gottheimer, and Ro Khanna; SEC Commissioner Hester Peirce; and Bo Hines, executive director of the White House Council on Digital Assets.",
-          "Industry representation has been just as heavy: Strategy executive chairman Michael Saylor, MARA CEO Fred Thiel, River CEO Alex Leishman, Anchorage Digital co-founder Nathan McCauley, BitGo CEO Mike Belshe, and Strive founder Vivek Ramaswamy among them.",
-          "The 2026 lineup had not been published when this guide went up, with the speaker page promising announcements soon. Given the pattern, expect sitting policymakers alongside bitcoin company leadership, and treat the past-speaker wall as the honest preview of caliber."
-        ]
-      },
-      {
-        "heading": "Access, Tickets, and the Gala",
-        "content": [
-          "Full-access tickets covering the entire September 21-24 program are allocated by request rather than checkout: submit the request form and the team follows up with next steps. Capacity is limited, and the request model is stated plainly on the site, so apply early rather than assuming availability.",
-          "The one openly sold item is the gala. Gala passes are available to anyone through the ticketing link, priced separately from the summit, with no invitation or approval step required. If your goal is the room rather than the panels, that is the shortest path in.",
-          "Press inquiries route through BPI communications, same-day responses promised, with credentials requestable by email. For anyone tracking Bitcoin policy in Washington, these remain the most concentrated two days of access the city offers."
-        ]
-      }
-    ]
-  },
-  "premier-midwestbtc": {
-    "summaryLead": "The Midwest Bitcoin Summit takes over the Greater Columbus Convention Center in Columbus, Ohio on September 23-24, 2026, with programming spanning mining, payments, financial infrastructure, and sovereign adoption.",
-    "sections": [
-      {
-        "heading": "Bitcoin's Regional Moment",
-        "content": [
-          "Bitcoin conferences cluster on the coasts and in Miami. The Midwest Bitcoin Summit exists precisely because that clustering misses a large share of the country, and it returns to Columbus on September 23-24, 2026, as the Midwest's dedicated Bitcoin gathering.",
-          "Regional placement matters here more than it sounds. The Midwest carries much of America's energy, industrial, and agricultural base, which is exactly where bitcoin's physical economy touches ground: mining sites, grid dynamics, and the payment needs of ordinary businesses. Holding the summit in Ohio puts those constituencies in one hall instead of flying them to a resort.",
-          "The venue choice signals scale intent too. The Greater Columbus Convention Center is a major downtown facility, not a hotel ballroom, which tells you what kind of gathering the organizers are building toward."
-        ]
-      },
-      {
-        "heading": "Four Pillars on the Program",
-        "content": [
-          "Organizers scope the content along four lines: mining, payments, financial infrastructure, and sovereign adoption. That range is deliberate, bridging the people running machines and managing power with the people building services and custody on top of the protocol.",
-          "Mining coverage placed in the Midwest tends toward the practical end of the spectrum: energy contracts, site operations, hardware realities, and the state-level regulatory terrain miners navigate outside the coastal policy bubble.",
-          "The payments and infrastructure threads speak to merchants, treasury managers, and developers weighing bitcoin rails against card networks, while sovereign adoption sessions address individuals and institutions taking self-custody and monetary independence seriously rather than treating it as a slogan."
-        ]
-      },
-      {
-        "heading": "Columbus Practicalities",
-        "content": [
-          "Columbus is an easy convention city: a major airport with strong domestic connections, a compact downtown, and hotel stock within walking distance of the convention center. Late September typically brings mild Ohio autumn weather, which makes the walk between venues pleasant rather than punishing.",
-          "Confirm ticketing, speaker, and schedule details at midwestbtc.com before locking travel, since the site loads its content through an app shell and details firm up closer to the date. As always with newer regional events, booking refundable rates until the final agenda publishes is the prudent move.",
-          "Driving distance matters for this audience. Columbus sits within a day's drive of Chicago, Detroit, Indianapolis, Pittsburgh, and Cincinnati, which historically makes midwestern gatherings car-friendly in a way coastal conferences never are."
-        ]
-      },
-      {
-        "heading": "Who Should Be in the Room",
-        "content": [
-          "Miners and energy professionals get the most targeted content, given the four-pillar emphasis. Payments builders and bitcoin-forward business owners get vendor exposure and operational case studies. Self-custody-minded individuals get structured education without big-city friction.",
-          "For anyone building bitcoin products aimed at middle America, this is the room where distribution questions get answered by people who live the answer, and where the difference between coastal assumptions and midwestern reality becomes obvious within a couple of conversations.",
-          "One honest caveat for planners: published detail on this event was thin at the time of writing, with the site gating content behind an app shell. Treat everything above as the organizers' stated scope, verify speakers and agenda directly before committing, and expect a regional summit to trade marquee headliners for higher signal-per-attendee anyway.",
-          "If you are choosing one midwestern bitcoin trip this year, the two-day span also makes it feasible to pair with other late-September events without writing off a full week of work."
-        ]
-      }
-    ]
-  },
-  "premier-ethsofia": {
-    "summaryLead": "ETHSofia 2026 headlines Blockchain Week Bulgaria from September 23-25 at Sofia Tech Park, pairing the region's technical Ethereum conference with an institutional finance forum and a curated slate of side events.",
-    "sections": [
-      {
-        "heading": "One Week, One Campus",
-        "content": [
-          "Blockchain Week Bulgaria runs September 23-25, 2026, at Sofia Tech Park, and ETHSofia anchors it as the flagship technical conference. The week is structured as a shared platform: builders, founders, financial institutions, policymakers, and infrastructure providers get one campus and one coordinated calendar instead of competing events scattered across the city.",
-          "The split is clean. September 24 belongs to ETHSofia itself, gathering engineers, founders, and protocol architects working on scalable, secure, production-ready systems. September 25 shifts registers entirely with F3, the Future Finance Forum, convening financial leaders, regulators, and enterprise innovators around tokenized assets, compliant digital finance, and AI-driven financial systems.",
-          "Around both headline days, independently organized side events plug into the official program after review by the team, which is how community workshops and individual team meetups earn a slot on the week's calendar."
-        ]
-      },
-      {
-        "heading": "Six Tracks From Protocol to Policy",
-        "content": [
-          "Programming organizes into six themes spanning blockchain's practical footprint. Technical Innovation covers scalability, security, automation, and production-grade systems. Finance and Institutions spans tokenization, onchain automation, payments, custody, and enterprise adoption.",
-          "AI and Autonomous Finance addresses agentic AI, intelligent automation, risk systems, and AI-enhanced digital asset infrastructure. Consumer and Culture in Web3 covers real adoption, digital ownership, creator economies, and community-driven ecosystems.",
-          "Infrastructure in Production tracks the path from working prototype to deployed-at-scale, and Regulation and Policy rounds things out with compliance, legal frameworks, and the road to institutional adoption. The spread means a compliance officer and a smart-contract engineer both have concrete reasons to attend, occasionally landing in the same session, which is rarer than it should be."
-        ]
-      },
-      {
-        "heading": "Built for Two Audiences at Once",
-        "content": [
-          "Most technical conferences struggle to hold institutional attention, and most finance forums bore engineers into the hallway. Blockchain Week Bulgaria sequences both deliberately: hard technical content on day one, institutional and regulatory content on day two, with the shared campus doing the matchmaking in between.",
-          "For Balkan-region builders especially, the week concentrates relationships that usually require separate trips to Berlin, London, or Zug. The organizing team runs visible curation across partnerships and speaker selection, signaling a reviewed program rather than pay-to-play staging.",
-          "Recap videos from the 2024 and 2025 editions are linked from the site, useful if you want a visual sense of scale and crowd composition before committing travel budget.",
-          "The week's positioning as a shared platform also cuts both ways in a good way: companies and teams that want to host their own session submit through the site for review rather than negotiating separately, which keeps the calendar coherent even while it grows.",
-          "That review step matters for attendees too. A curated side-event list is the difference between a week with a real agenda and a week of guessing which rooftop party has the people you came to meet."
-        ]
-      },
-      {
-        "heading": "Getting In and Getting Around",
-        "content": [
-          "Tickets flow through the Blockchain Week Bulgaria site, where a countdown clock was running at publication. Sofia remains one of Europe's more affordable capitals for flights and lodging, and late September sits comfortably in shoulder season.",
-          "Sofia Tech Park occupies the innovation-district end of the Bulgarian capital, with the city center a short ride away, so pairing conference days with evening side events across town stays realistic rather than aspirational.",
-          "Choosing between headline days: pick ETHSofia for engineering depth, F3 for tokenization and regulatory direction, or the full week if your role straddles both worlds, as most product and founder roles now do whether job descriptions admit it or not."
-        ]
-      }
-    ]
-  },
-  "premier-btchel": {
-    "summaryLead": "BTCHEL 2026 brings the Nordic Bitcoin community to Kaapelitehdas in Helsinki on September 25-26, pairing developer-facing talks and the European Mining Summit with an explicitly grassroots, bootstrapped conference ethos.",
-    "sections": [
-      {
-        "heading": "The Nordics Convene at the Cable Factory",
-        "content": [
-          "BTCHEL bills itself as the number one Bitcoin conference in the Nordics, and the supporting claim has substance: it is the region's only conference dedicated specifically to Bitcoin, returning September 25-26, 2026, to Kaapelitehdas, Helsinki's former cable factory turned cultural center on the waterfront.",
-          "The organizing ethos is printed plainly on the site: independent, bootstrapped, grassroots, and community driven. No corporate parent underwrites the event, which shapes both the economics of attending and the tone of everything on stage.",
-          "Scope is deliberately Nordic. Local adoption stories and international perspectives share the program, and the conference doubles as the annual moment when Nordic bitcoiners who mostly know each other online finally share a room."
-        ]
-      },
-      {
-        "heading": "Payments, Finance, and Mining in Practice",
-        "content": [
-          "Programming leans applied rather than theoretical. Organizers promise developments across Bitcoin payments, finance, and mining, with an explicit aim of demonstrating real-world use of Bitcoin as money instead of re-litigating store-of-value debates.",
-          "This edition pairs the developer-facing conference with the European Mining Summit, per the event listing, giving mining its own concentrated track within the broader program rather than scattering it across unrelated stages.",
-          "The sponsor roster reflects that applied tilt. Mining pool and operations names like Ocean, Braiins, Vnish, and Terahash appear alongside wallet and infrastructure brands including Blockstream, Bull Bitcoin, Trezor, BitBox, Cake Wallet, CoinMotion, and Miners Loop."
-        ]
-      },
-      {
-        "heading": "The 2025 Report Card",
-        "content": [
-          "Last year's edition drew more than 1,000 attendees, upwards of 70 speakers, and over 20 partners, according to the organizers' own recap figures. Anonymous post-event surveys produced ratings the team quotes openly, including phrases like an unusually good industry event and quality over quantity.",
-          "Previous speaker lists read like a cross-section of Bitcoin culture: security researcher Mikko Hypponen, early Satoshi-era contributor Martti Malmi, author and entrepreneur Jeff Booth, and Blockstream CEO Adam Back have all taken the stage.",
-          "For 2026, speaker confirmations continue rolling out through the dedicated agenda site, so check the lineup page close to your booking date rather than relying on this snapshot.",
-          "The community-driven label shows up in the small things too: a biweekly newsletter called Nordic Node keeps the regional scene connected between editions, a community hub page aggregates local groups, and the organizers publish travel guidance for internationals rather than leaving visitors to improvise.",
-          "Press materials and a merch shop round out the operation, which is more infrastructure than most grassroots conferences bother with. It signals an event run by people who intend to keep running it, year after year, on their own terms."
-        ]
-      },
-      {
-        "heading": "Tickets and Logistics",
-        "content": [
-          "Tickets sell through the event shop on btchel.com, and subscribing to the newsletter reportedly unlocks a five percent discount code, which is the cheapest known route in. Side events run around the main program and carry their own page on the site.",
-          "Kaapelitehdas sits west of Helsinki's center and is reached easily by tram. Late September in Helsinki means coat weather and shortening days, so pack for autumn rather than the memory of summer.",
-          "Volunteer and sponsorship pages remain active for anyone wanting in beyond attendance. And if your September itinerary already includes ETHSofia or Freedom Tech DC earlier that week, note the sequencing: BTCHEL closes the month's European run on September 25-26, making Helsinki a natural final stop."
         ]
       }
     ]
@@ -2335,39 +1870,6 @@
       }
     ]
   },
-  "premier-agenticpay": {
-    "summaryLead": "Agentic Payments Onchain comes to Seoul on 28 September, right in the middle of Korea Blockchain Week, and the name tells you most of what you need to know. This is a working session about plumbing nobody shows off: how autonomous AI agents actually pay each other, settle up, and hold a balance on-chain. The host, t54, has spent its whole build cycle on exactly that problem.",
-    "sections": [
-      {
-        "heading": "When software holds the wallet",
-        "content": [
-          "Most payment conversations still assume a human clicks approve. Agents don't work that way. A procurement bot told to watch for concert tickets under a $500 budget doesn't ping you for confirmation at 3 a.m., it just buys - and that example is barely hypothetical, since t54's own demo material walks through an agent auto-purchasing event tickets within a set spending cap. Remove the human checkpoint and every assumption underneath card networks and checkout flows wobbles: identity, authorization, dispute handling, refunds.",
-          "That's the gap this session digs into. The x402 pattern - machines paying machines over HTTP with stablecoins - has moved from whitepaper to working code, and t54 maintains an open-source layer called x402-Secure that bolts verified identity, intent checks, and risk controls onto each payment. Whether that stack is ready for production traffic is precisely the kind of argument worth having in a room, not a comment thread."
-        ]
-      },
-      {
-        "heading": "Know Your Agent",
-        "content": [
-          "t54's flagship product is Trustline, described on the company's site as the trust layer institutional finance runs agents on. The published numbers give a sense of scale: more than 20 million transactions screened, over 41,000 agents put through KYA - know-your-agent - verification, and decision latency under five seconds. There's a live portal where you can watch decisions land in real time, complete with owner mandates and consensus scores.",
-          "It's worth noting the company treats its own house seriously too: SOC 2 Type II auditing is underway, data stays encrypted end to end with AES-256 at rest, and nothing gets used for model training unless you opt in. For compliance-minded attendees at Korea Blockchain Week, those details usually matter more than any roadmap slide."
-        ]
-      },
-      {
-        "heading": "Pricing trust, then lending against it",
-        "content": [
-          "The more interesting intellectual piece is t54's Agentic Risk Standard, a framework for quantifying and pricing trust in autonomous systems. Think of it as underwriting for agents: a principal sets requirements, an underwriter approves or declines, collateral gets locked, execution funds sit in escrow until conditions clear, and settlement either releases the money or refunds it depending on whether protection was in place from the start.",
-          "That machinery feeds Claw Credit, which t54 bills as the first agent-native credit line, underwritten by its own risk engine and already live on XRPL, Solana, and Base. An agent with a track record can tap credit to pay for compute or services while its owner's credentials stay private and spending stays fenced by guardrails. Expect discussion of where this breaks."
-        ]
-      },
-      {
-        "heading": "Who should actually show up",
-        "content": [
-          "Anyone building agent products that touch money will get the most out of it: wallet teams, exchange developers eyeing machine traffic, stablecoin issuers, and the growing pile of startups wiring LLMs to payment rails. The working-session framing suggests fewer panels and more whiteboarding, so come with concrete failure cases rather than pitch decks.",
-          "Seoul during Korea Blockchain Week is dense with competing events, but agentic commerce has reached the stage where details decide who ships - escrow logic, dispute paths, KYA standards. One focused day on those details beats a week of vague keynotes about the future of AI finance."
-        ]
-      }
-    ]
-  },
   "premier-finalityforum": {
     "summaryLead": "On 7 October, mid-TOKEN2049 week in Singapore, Ethene Labs convenes the Finality Forum - a single-day gathering on finality, restaking, and stablecoin infrastructure. Three topics that sound like a syllabus but function as one system: how quickly transactions become irreversible, how that security gets recycled and paid for, and how dollar rails ride on top of both.",
     "sections": [
@@ -2606,40 +2108,6 @@
       }
     ]
   },
-  "premier-connectseoul": {
-    "summaryLead": "CONNECT by Cointelegraph lands in Seoul on September 28, 2026, bringing the media outlet's forum format to Korea Blockchain Week for a day of panels, networking, and the particular energy of a newsroom playing host.",
-    "sections": [
-      {
-        "heading": "A publisher playing host",
-        "content": [
-          "Cointelegraph has covered this industry since 2013 and built one of the largest readerships in crypto media along the way, with daily market coverage, a magazine desk, and a research arm. CONNECT is the brand's move from reporting on the industry to convening it, running under the CT Connect banner alongside the company's accelerator and events operations.",
-          "That origin shapes the format. A media-led forum leans toward conversation over presentation: moderated panels with journalists pressing where sponsors' events go soft, interviews that borrow from the outlet's editorial instincts, and networking blocks designed to keep sources, founders, and investors circulating together. The Seoul edition, per the listing, pairs those panels with dedicated networking during KBW proper."
-        ]
-      },
-      {
-        "heading": "What the CONNECT format does differently",
-        "content": [
-          "Most conference programming optimizes for stage time; a publisher's event optimizes for narrative. Expect sessions built around arguments the outlet has been covering all year, institutional adoption, regulatory divergence across Asia, the intersection of AI and crypto, framed so panelists disagree usefully rather than recite talking points. For attendees, that means the content travels better afterward: you leave with positions to test, not brochures.",
-          "The networking layer deserves equal billing. Cointelegraph's editorial reach means the room skews toward people with something to announce, and the organization's adjacent operations, from its accelerator program to its events portfolio, feed founders and capital into the same hallways. September 28 runs 09:00 to 18:00, enough runway for substance without exhausting anyone before the evening's side-event circuit."
-        ]
-      },
-      {
-        "heading": "Seoul during KBW: crowded but worth it",
-        "content": [
-          "Korea Blockchain Week anchors the industry's autumn migration through Asia, and Seoul rewards the effort. The city pairs world-class transit with a food culture that turns every dinner into a negotiation opportunity, and the late-September weather is the best you will get all year. The density of concurrent events is real, though; plan your KBW calendar in advance or the week plans it for you.",
-          "Positioning CONNECT on September 28, the Monday of KBW week, makes it an effective opening move. Arrive with your week's targets already listed, use the forum to make first contact, and spend the following days converting hallway introductions into meetings."
-        ]
-      },
-      {
-        "heading": "Practical planning notes",
-        "content": [
-          "Registration and venue specifics route through Cointelegraph's official channels, so confirm attendance details there as the date approaches; KBW-season events regularly update locations in the final weeks. Budget time for the commute math between Gangnam venues, which during peak conference hours is less trivial than the map suggests.",
-          "Dress code thinking is worth thirty seconds too. Seoul's KBW crowd splits between exchange-formal and founder-casual, and a media-convened forum sits comfortably in the middle; smart casual covers every room you are likely to enter that day. Carry business cards anyway. The habit persists in Korean business culture more than almost anywhere else in tech.",
-          "Come prepared to introduce yourself quickly and specifically. Rooms convened by media brands reward people with a clear story: what you build, why now, and what you need. Have that answer rehearsed, then spend the day listening as much as pitching, because the journalists in the room remember good sources longer than good pitches."
-        ]
-      }
-    ]
-  },
   "premier-connectsg": {
     "summaryLead": "CONNECT by Cointelegraph brings its accelerator-flavored forum format to Singapore on October 9, 2026, riding the TOKEN2049 halo with a single day of founder showcases and capital conversations in one of the world's most regulated crypto hubs.",
     "sections": [
@@ -2741,35 +2209,6 @@
       }
     ]
   },
-  "luma-host-evt-S1a3G141Dsg60pk": {
-    "summaryLead": "The Solana Ecosystem Call returns for its August edition - a monthly live show with late-night TV production values, hosted by SOL BROTHERS, drawing over 2,500 registered attendees.",
-    "sections": [
-      {
-        "heading": "A Crypto Show That Doesn't Feel Like a Crypto Show",
-        "content": [
-          "The Solana Ecosystem Call is pitched as the boldest show in crypto, and the format backs that up. Each monthly episode uses sketches, in-depth interviews, data-driven segments, and unfiltered commentary to break down what matters across the Solana network. It's produced by SOL BROTHERS Studio, which also runs podcasts and host interviews. The production approach borrows from late-night television structure rather than the usual Web3 Twitter space format.",
-          "The show is explicitly designed to be cringe-intolerant - a direct contrast to the typical crypto space where someone talks at a static avatar for two hours. SOL BROTHERS bring actual production quality: edited segments, multiple hosts with real chemistry, and a commitment to making the content watchable beyond the core audience. Each episode covers sketches that break down complex topics, interviews with people doing the actual work, and unfiltered takes on what's working and what isn't.",
-          "SOL BROTHERS have built their studio around producing content that serves the Solana ecosystem specifically. Their YouTube and X channels host the full archive of past episodes, along with additional podcast content and host interviews. The studio's focus on Solana means they understand the ecosystem deeply enough to ask the right questions and push back when answers feel vague."
-        ]
-      },
-      {
-        "heading": "How the Community Feeds Into the Show",
-        "content": [
-          "The Ecosystem Call isn't a one-way broadcast. Teams and projects can submit announcements, product launches, event promotions, and giveaway proposals through a public submission form on Linktree. The producers then curate what makes it onto the show, which means the content reflects what the community actually cares about rather than what a marketing team wants to push.",
-          "With 2,555 people registered for the August call, the show has become a genuine community gathering point. The hosts include the Solana Foundation, Eno, and Simon Molitor, giving it institutional backing while keeping the personalities front and center. The registration numbers suggest this is one of the larger regular virtual events in the Solana ecosystem, and the curated submission process keeps the quality bar consistent across episodes.",
-          "Solana itself is described as a high performance network powering internet capital markets, payments, AI agents, and crypto applications. The ecosystem call translates that technical breadth into digestible segments, helping people understand how different parts of the network connect and where the most interesting activity is happening."
-        ]
-      },
-      {
-        "heading": "Where to Watch and How to Get Involved",
-        "content": [
-          "The August call is virtual, starting at 10:00 AM Pacific on Wednesday, August 27. Registration is free through Luma, and you can also watch directly on the ecosystemcall.com website. SOL BROTHERS maintains active YouTube and X channels for replays and announcements, so if you miss the live show, you can catch the recording within a reasonable window.",
-          "If you're building something on Solana and want exposure to a large, engaged audience, submitting to the show is worth the effort. The audience skews toward people who are already deep in the ecosystem, so you're reaching actual users and potential collaborators rather than passive spectators. The submission process is straightforward, and the producers are selective - getting featured carries more weight than a random tweet thread.",
-          "The show was featured in Superteam's programming, which adds another layer of community endorsement. For teams launching new products or protocols on Solana, timing a submission to coincide with the monthly Ecosystem Call can generate meaningful visibility. It's not a silver bullet, but it puts your work in front of thousands of people who are already paying attention to what's moving in the ecosystem."
-        ]
-      }
-    ]
-  },
   "luma-evt-aQiimIN6V6gLF9o": {
     "summaryLead": "A three-hour program at MIT exploring how AI is reshaping cinema - featuring curated film screenings, filmmaker discussions, industry panels, and networking in Cambridge, Massachusetts on Halloween night.",
     "sections": [
@@ -2810,39 +2249,6 @@
       }
     ]
   },
-  "luma-evt-SN7UWBBLgEM1tmn": {
-    "summaryLead": "A $10 Women of Customer Success event in Austin exploring how the Forward Deployed Engineer role is reshaping Customer Success, featuring panel discussions and roundtable conversations with Cloudflare participation.",
-    "sections": [
-      {
-        "heading": "The Shift Being Examined",
-        "content": [
-          "WoCS Austin X Cloudflare: The Forward Deployed Era + CS's Shift to Revenue takes place Wednesday, September 24, 2026, from 6:30 PM to 9:30 PM in Austin, Texas. The event, priced at $10, addresses a structural change happening across tech organizations: the emergence of the Forward Deployed Engineer role and how it is pulling technical implementation work away from Customer Success Managers.",
-          "The core question is what happens to the CSM role when hands-on technical delivery moves to a dedicated function. The event argues that the CSM seat is not disappearing - it is being redefined around a different core skill: owning revenue. This is not a theoretical discussion. The description notes that this shift is happening industry-wide, and the evening is designed for CS professionals who need to understand what it means for their careers."
-        ]
-      },
-      {
-        "heading": "The Format and What You Get",
-        "content": [
-          "The evening moves from a panel discussion into small-group roundtable conversations. The panel features leaders and practitioners who have lived through this restructuring firsthand, including, if confirmed, a Cloudflare team member in a Forward Deployed Engineer or Solutions seat. Having someone from Cloudflare - a company that has been vocal about its Forward Deployed approach - in the room gives attendees a concrete example of what this role looks like in practice.",
-          "The roundtable portion is where the real work happens. Attendees break into small groups to discuss where they personally sit in this shift, what they should hand off, what they should hold onto, and how to build the language and instincts of someone who owns a revenue number. Bites and beverages are provided, keeping the atmosphere social while the content stays substantive. The combination of panel and roundtable means you leave with both big-picture understanding and specific, personal next steps."
-        ]
-      },
-      {
-        "heading": "Who Should Attend",
-        "content": [
-          "The event targets four groups: CSMs and Account Managers figuring out what stays on their plate, CS leaders and Directors/VPs who already own or are being asked to own a revenue number, RevOps and CS Ops professionals thinking about team design, and anyone in a post-sales role watching their organization create Forward Deployed Engineer or Solutions Consulting seats. That is a broad but coherent audience - everyone in the room is navigating the same structural shift from a different vantage point.",
-          "Women of Customer Success is the organizing community, and the event is built for women working in tech and post-sales roles. WoCS operates with over 10 chapters worldwide, and this Austin edition is part of their broader mission to connect, educate, and empower women in post-sales leadership. The community aspect matters here because the shift being discussed is not just technical - it is career-defining, and having a peer group navigating the same transition adds a support layer that a generic tech event would not provide."
-        ]
-      },
-      {
-        "heading": "Why This Conversation Is Timely",
-        "content": [
-          "The Forward Deployed Engineer role has gained significant traction in recent years, particularly at companies with complex technical products that require hands-on implementation. As these roles proliferate, the boundary between Customer Success and technical delivery is shifting in real time. CSMs who used to own the full post-sales lifecycle - from onboarding through technical setup to ongoing relationship management - are finding that the technical pieces are being peeled off into dedicated functions.",
-          "This creates both opportunity and anxiety. Opportunity, because CSMs who can own revenue and drive expansion are more strategically valuable than ever. Anxiety, because the skills that defined a successful CSM - technical knowledge, product expertise, hands-on implementation ability - are being redistributed. The WoCS Austin event addresses both sides of that equation, giving attendees a framework for understanding where the role is heading and what they need to build toward over the next year to stay ahead of the shift."
-        ]
-      }
-    ]
-  },
   "luma-evt-pJHThGT11BBYohC": {
     "summaryLead": "The official opening social for Blockchain Futurist Conference Florida, hosted by CryptoMondays Wall Street, Fort Lauderdale, and Miami chapters in Davie, with networking, drinks, and early community insights before the main conference at the Hard Rock Guitar Hotel.",
     "sections": [
@@ -2872,74 +2278,6 @@
         "content": [
           "Registration is through the Luma page, and the exact location is disclosed after you register. The event runs from 6:00 PM to 9:00 PM, which is a standard format for a CryptoMondays kickoff social. Eight people are listed as going on the Luma page, with the description noting that more speakers, special guests, and surprises are to be announced as they are confirmed.",
           "If you are planning to attend the Blockchain Futurist Conference Florida, this kickoff is worth adding to your schedule. It is a lower-stakes environment than the main conference, which means conversations are more likely to be genuine and less likely to feel transactional. The Davie location puts you in South Florida before the conference venue, and the CryptoMondays community - known for being welcoming to newcomers and experienced builders alike - provides a good entry point into the local scene. Register early, show up on time, and use the three hours to build the relationships that make the rest of the conference more productive."
-        ]
-      }
-    ]
-  },
-  "luma-crypto-t4hEnBsbFRmstlp": {
-    "summaryLead": "Blockchain in Real Assets: Opportunities and Challenges on September 23, 2026 in London is an evening hosted by UCL CSRI, PGIM, and UCL CBT on how blockchain, AI, and digital infrastructure apply to real assets and the built environment.",
-    "sections": [
-      {
-        "heading": "Hosts and audience",
-        "content": [
-          "The Luma listing invites leaders from investment management, real estate, technology, academia, and startups for an evening focused on real-world applications—not hype decks. UCL's Centre for Sustainability and RealTech Innovation (CSRI), PGIM, and the UCL Centre for Blockchain Technologies (CBT) convene researchers, founders, investors, and practitioners to compare practical use cases, adoption friction, and emerging opportunities across real assets.",
-          "Organizers say capacity is limited and encourage early registration through https://luma.com/qij60sdb. The exact venue is shown after you register; the public location line is London, United Kingdom."
-        ]
-      },
-      {
-        "heading": "Topics on the agenda",
-        "content": [
-          "Published themes include blockchain in real estate, infrastructure, and investment operations; tokenisation, digital assets, and market adoption; AI plus blockchain for data integrity, automation, and decision support; governance, compliance, and risk; and sustainability, asset records, and digital trust infrastructure.",
-          "The page is aimed at investors, asset managers, real estate professionals, founders, researchers, students, technology teams, policymakers, and anyone tracking digital assets, AI, and innovation tied to real-world assets."
-        ]
-      },
-      {
-        "heading": "Program outline",
-        "content": [
-          "The listed run of show opens with a keynote on industry and technology trends shaping digital assets and real-asset innovation.",
-          "Industry and research case studies follow, with insights from leading organisations, researchers, and founders—including contributors named from PGIM, Ripple, UCL, and the wider ecosystem.",
-          "A fireside discussion covers adoption barriers, commercial realities, and what comes next. The evening closes with a networking reception where attendees can meet investors, founders, researchers, students, and industry leaders over drinks and refreshments."
-        ]
-      },
-      {
-        "heading": "In person and virtual",
-        "content": [
-          "Luma lists separate attendance paths: in-person guests should contact the hosts if they wish to attend on site; virtual participants receive a link closer to the event date.",
-          "Confirm your format and any host instructions on the official registration page before you travel or block calendar time."
-        ]
-      }
-    ]
-  },
-  "luma-crypto-OkQNSxjLO2nH6WD": {
-    "summaryLead": "The Superpollutant Action Summit on September 23, 2026 in New York is a full-day gathering convened by Beyond Alliance for leaders in business, science, government, and civil society to accelerate cuts in methane, black carbon, N₂O, and HFCs—the pollutants that drive the most near-term warming.",
-    "expectedAttendance": "150+ decision-makers in business, finance, policy, and innovation (Luma listing)",
-    "sections": [
-      {
-        "heading": "Why superpollutants matter",
-        "content": [
-          "Beyond Alliance frames this as the first summit of its kind: a dedicated day for senior stakeholders to align on superpollutants rather than treating them as a footnote in broader climate talks. The emphasis is on gases that shape warming over the next few decades—methane, black carbon, nitrous oxide (N₂O), and hydrofluorocarbons (HFCs)—where faster action can change outcomes on a shorter clock than CO₂ alone.",
-          "The Luma listing argues that deep reductions over the next ten years could materially bend the warming curve before mid-century. That makes superpollutant mitigation one of the most immediate levers organizers highlight, alongside cleaner air and health gains in communities affected by short-lived pollutants."
-        ]
-      },
-      {
-        "heading": "Corporate and public momentum",
-        "content": [
-          "Organizers point to rising activity across governments, companies, and civil society—from the Global Methane Pledge to newer corporate commitments. One example on the page is the Superpollutant Action Initiative: a $100 million effort backed by Amazon, Autodesk, Figma, Google, JPMorgan Chase, Salesforce, and Workday to fund high-impact mitigation projects, coordinated by Beyond Alliance.",
-          "The audience target is explicit: more than 150 decision-makers working on climate across business, finance, policy, and innovation. The day is built for people who can move capital, set policy, or implement corporate supply-chain and market mechanisms—not a general-audience expo format."
-        ]
-      },
-      {
-        "heading": "Program themes",
-        "content": [
-          "Session topics listed on Luma include corporate Scope 3 action, emerging market mechanisms, voluntary carbon markets, and the policies and financing needed to scale solutions. The tone is candid dialogue and real commitments rather than keynote-only marketing.",
-          "The published agenda shape includes plenary conversations where science, policy, and capital meet, thematic breakouts, a focus on financing faster action at scale, and a showcase of solutions from innovators and project developers on the ground."
-        ]
-      },
-      {
-        "heading": "Registration and venue",
-        "content": [
-          "Registration runs through the official Luma page at https://luma.com/or8vn8ix. Approval is required—your registration is subject to host approval, and you can enter an access code on the page if you have one.",
-          "The event is listed in New York, NY. Luma notes that the exact venue is shared after you register. Confirm your approval status and any venue details on the organizer page before you travel."
         ]
       }
     ]

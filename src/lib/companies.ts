@@ -405,7 +405,7 @@ export const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'uphold': 'https://uphold.com',
  'daylight': 'https://daylight.xyz',
  'coinme': 'https://coinme.com',
- 'telcoin': 'https://telcoin.com',
+ 'telcoin': 'https://www.telco.in',
  'anza': 'https://anza.xyz',
  'doublezero': 'https://doublezero.xyz',
  'syndica': 'https://syndica.io',
@@ -471,6 +471,27 @@ export const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'bitfinex': 'https://www.bitfinex.com',
  'unocoin': 'https://www.unocoin.com',
  'zebpay': 'https://zebpay.com',
+ 'payoneer': 'https://www.payoneer.com',
+ 'sphere': 'https://spherepay.co',
+ 'proto': 'https://proto.xyz',
+ 'very-ai': 'https://very.org',
+ 'veryai': 'https://very.org',
+ 'r3': 'https://r3.com',
+ 'fomo': 'https://fomo.fund',
+ 'temporal': 'https://temporal.xyz',
+ 'asymmetric-research': 'https://asymmetric.re',
+ 'wormhole': 'https://wormhole.com',
+ 'hylo': 'https://hylo.xyz',
+ 'fin': 'https://fin.xyz',
+ 'perle': 'https://perle.xyz',
+ 'streamflow': 'https://streamflow.finance',
+ 'equa-network': 'https://equa.network',
+ 'steakhouse-financial': 'https://steakhouse.financial',
+ 'baton-corporation': 'https://baton.sh',
+ 'baton': 'https://baton.sh',
+ 'orca': 'https://orca.so',
+ 'quicknode': 'https://www.quicknode.com',
+ 'nous-research': 'https://nousresearch.com',
 };
 
 /**
@@ -581,6 +602,7 @@ async function loadCompanyContent(slug: string): Promise<{ website?: string; des
  */
 function normalizeCompanyName(name: string): string {
   const lower = name.toLowerCase().trim();
+  if (['very ai', 'veryai', 'very-ai'].includes(lower)) return 'very-ai';
   if (['op labs', 'op-labs', 'oplabs', 'optimism'].includes(lower)) return 'op-labs';
   if (lower.includes('offchain') || lower.includes('arbitrum')) {
     return 'arbitrum';
@@ -645,6 +667,7 @@ function normalizeCompanyName(name: string): string {
 }
 
 function resolveCanonicalCompanyName(normalized: string, originalName: string): string {
+  if (normalized === 'very-ai' || normalized === 'veryai') return 'VeryAI';
   if (normalized === 'arbitrum') return 'Offchain Labs';
   if (normalized === 'aztec') return 'Aztec Labs';
   if (normalized === 'symbiotic') return 'Symbiotic';
