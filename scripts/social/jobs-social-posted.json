@@ -97252,7 +97252,8 @@
       },
       "account": "channel:product",
       "attemptId": "e223ac9f-9e9e-49bd-a512-0842b1626dba",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9ca9c87c4acb4cdc75ccf444aba2ebb54a4ac260"
     }
   ]
 }
