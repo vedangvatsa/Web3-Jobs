@@ -100007,8 +100007,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "c25ccd8a-65c1-4490-ae1c-76e5b22b9d82",
-      "verification": "pending",
-      "postId": "6aeb8c948aec178794a2d008"
+      "verification": "verified",
+      "postId": "6aeb8c948aec178794a2d008",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7523834227050860545"
     }
   ]
 }
