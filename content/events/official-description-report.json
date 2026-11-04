@@ -1819,18 +1819,6 @@
       ]
     },
     {
-      "id": "token2049-side-6a5dff0dd1b48ddf39d0827c",
-      "file": "events-cache.json",
-      "name": "CoinFerenceX the best event - Day 1",
-      "status": "unavailable",
-      "attempts": [
-        {
-          "url": "https://coinferencex.com/singapore",
-          "reason": "event-not-matched"
-        }
-      ]
-    },
-    {
       "id": "token2049-side-6a5dff0ed1b48ddf39d0827e",
       "file": "events-cache.json",
       "name": "CoinFerenceX the best event - Day 2",
