@@ -4551,5 +4551,52 @@
     "slotKey": "2026-11-04:afternoon",
     "messageId": 156069,
     "sentAt": "2026-11-04T11:32:19.670Z"
+  },
+  "fae84e0a-1741-4e25-ba55-041b803ffec5": {
+    "status": "reserved",
+    "reservedAt": "2026-11-04T19:43:15.804Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "discovery-evt-gKhtfAiuAFPHESR",
+        "slug": "solana-cup-breakpoint",
+        "name": "Solana Cup at Breakpoint",
+        "startDate": "2026-11-14T10:00:00.000Z",
+        "keys": [
+          "discovery-evt-gkhtfaiuafphesr",
+          "page:solana-cup-breakpoint:2026-11-14",
+          "luma:evt-gkhtfaiuafphesr",
+          "luma-url:/5sf70a63",
+          "event:solanacupatbreakpoint:2026-11-14:london"
+        ]
+      },
+      {
+        "id": "luma-crypto-cFBQ9xrFbjI3av2",
+        "slug": "p777-web3-clouds",
+        "name": "P777 Web3 in the Clouds",
+        "startDate": "2026-11-14T11:00:00.000Z",
+        "keys": [
+          "luma-crypto-cfbq9xrfbji3av2",
+          "dspdy7rl",
+          "page:p777-web3-clouds:2026-11-14",
+          "luma-url:/dspdy7rl",
+          "event:p777web3intheclouds:2026-11-14:kuala lumpur"
+        ]
+      },
+      {
+        "id": "curated-money-shift-crypto-ai-future-money-2026-11-14",
+        "slug": "money-shift-crypto-ai-future-money",
+        "name": "The Money Shift: Crypto, AI & The Future of Money",
+        "startDate": "2026-11-14T11:00:00-05:00",
+        "keys": [
+          "curated-money-shift-crypto-ai-future-money-2026-11-14",
+          "page:money-shift-crypto-ai-future-money:2026-11-14",
+          "url:eventbrite.ca/e/the-money-shift-crypto-ai-the-future-of-money-tickets-1997326416077:2026-11-14",
+          "event:themoneyshiftcryptoaithefutureofmoney:2026-11-14:toronto"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-04:evening"
   }
 }
