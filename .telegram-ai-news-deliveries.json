@@ -3023,5 +3023,38 @@
     "slotKey": "2026-11-03:afternoon",
     "messageId": 193447,
     "sentAt": "2026-11-03T11:35:37.680Z"
+  },
+  "392126e3-c5e2-41ff-9747-fb6725e99d76": {
+    "status": "reserved",
+    "reservedAt": "2026-11-04T11:34:07.422Z",
+    "stories": [
+      {
+        "index": 1,
+        "original_title": "Anthropic is working on a system to prove AI models’ identity",
+        "headline": "Anthropic develops system to verify AI model identity",
+        "summary": "The FlashProve protocol allows users to cryptographically confirm that a specific model generated a given response.",
+        "event_rationale": "This is a distinct technical breakthrough in AI security and model provenance, separate from previous Anthropic stories.",
+        "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+        "source": "TechCrunch",
+        "originalTitle": "Anthropic is working on a system to prove AI models’ identity"
+      },
+      {
+        "index": 2,
+        "headline": "Ballistic Ventures seeks $490 million for cybersecurity funds",
+        "summary": "The firm plans to direct $360 million to a flagship fund and $130 million to a secondary vehicle.",
+        "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+        "source": "TechCrunch",
+        "originalTitle": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom"
+      },
+      {
+        "index": 3,
+        "headline": "Palantir U.S. Commercial Revenue Exceeds Government Sales",
+        "summary": "For the first time, the company earned more from American businesses than from government contracts.",
+        "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+        "source": "TechCrunch",
+        "originalTitle": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal"
+      }
+    ],
+    "slotKey": "2026-11-04:afternoon"
   }
 }
