@@ -32061,18 +32061,6 @@ Event Photo Release: By attending, you agree to be included in photographs or fo
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-0a467ce5fd354927"></a>
-
-## Arbitrum Open House Singapore: Online Buildathon
-
-- Record: `w3v-arbitrum-open-house-singapore-online-buildathon`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-13T07:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://arbitrum-singapore.hackquest.io/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-40861364655f00c3"></a>
 
 ## Crypto World's Fair Hackathon by Colosseum
@@ -32110,18 +32098,6 @@ All hackathon winners are interviewed and considered for the Colosseum accelerat
 ### Livestream workshops
 
 All workshops stream live on Discord, including the kickoff with the Colosseum founders. Participants can watch live, ask questions and follow the program through the event.
-
-<a id="event-1a405ddea659732d"></a>
-
-## DARK Prague 2026
-
-- Record: `w3v-dark-prague-26-10-02`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-02T07:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://dark.events/events/prague/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-c25323b91ea10b08"></a>
 
@@ -52184,7 +52160,7 @@ HKGHH hosts an informal business and technology meetup at Chef's Cuts during Hon
 
 <a id="event-9a70c5fc9b6f2f66"></a>
 
-## Stand With Crypto GOTV meet up
+## Stand With Crypto DIGITAL ELECTION WATCH PARTY.
 
 - Record: `luma-evt-57DpPjU8L0Bt0hD`
 - Source: [events-cache.json](sources/events-cache.json)
@@ -54019,6 +53995,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-9e157927afd2bd0c"></a>
+
+## Web3 and AI networking at The Rose & Crown
+
+- Record: `mu-317068147`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-09T18:30:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/palo-alto-cryptomondays-meetup/events/317068147/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-1e9de612b619c516"></a>
 
 ## Bluechip26: The Crypto Safety Conference
@@ -54114,6 +54102,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-10T17:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/lukka-mugi>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-3c7c4351f9175fc2"></a>
+
+## Uncanny Alley: A New Day at Gray Area
+
+- Record: `mu-317271481`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-10T18:00:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/sfvrcc/events/317271481/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -54786,6 +54786,18 @@ Previous Edition:
 Previous Events:
 
 etc.
+
+<a id="event-2b1ac746dbb11428"></a>
+
+## Berkeley - Bitcoin Meetup
+
+- Record: `mu-317262538`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-14T14:00:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/bay-area-bitcoiners/events/317262538/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-db145f5599efdf0c"></a>
 

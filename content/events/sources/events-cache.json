@@ -76,21 +76,6 @@
     "addressLocality": "Beograd"
   },
   {
-    "id": "w3v-arbitrum-open-house-singapore-online-buildathon",
-    "name": "Arbitrum Open House Singapore: Online Buildathon",
-    "description": "Arbitrum Open House Singapore: Online Buildathon: a September 13–October 4 online buildathon with $115,000 in prizes and grants.",
-    "startDate": "2026-09-13T07:00:00.000Z",
-    "endDate": "2026-10-04T19:00:00.000Z",
-    "city": "Global",
-    "country": "",
-    "location": "Global",
-    "url": "https://arbitrum-singapore.hackquest.io/",
-    "coverImage": "/events/w3v-arbitrum-open-house-singapore-online-buildatho-eceb0484.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026"
-  },
-  {
     "id": "w3v-crypto-worlds-fair-hackathon-by-colosseum",
     "name": "Crypto World's Fair Hackathon by Colosseum",
     "description": "An online hackathon bringing together builders and founders across all crypto ecosystems to launch breakout startups.\n\n## Crypto World's Fair\n\nCrypto World's Fair is an open competition of the ideas, technologies, and communities shaping the blockchain ecosystem. Builders and founders exhibit the products and innovations driving the next wave of crypto startups that bring the world's markets onchain. Submissions are due October 12, 2026.\n\n## Awards and opportunities\n\nTeams compete for $840,000 in prizes and $2.5 million in seed funding, including a $30,000 grand prize and $300,000 shared across the next 20 best projects. All hackathon winners are interviewed and considered for Colosseum's accelerator program with pre-seed funding, founder network access and mentorship.\n\n## Tracks\n\nEcosystem tracks with dedicated prize pools include Solana, Ethereum, Hyperliquid, Base, Tempo, Arbitrum, Zcash and Robinhood Chain, each judged with builders, investors and operators from those ecosystems.\n\n## Judges\n\nThe Colosseum team reviews all submissions, joined by track judges including Clay Robbins, Matty Taylor and Nate Levine alongside builders and investors from Phantom, Base, Arcium, MetaDAO and Ellipsis Labs.\n\n## Accelerator\n\nAll hackathon winners are interviewed and considered for the Colosseum accelerator program with pre-seed funding, founder network access and mentorship, including a residency collaborating directly with the Colosseum team.\n\n## Livestream workshops\n\nAll workshops stream live on Discord, including the kickoff with the Colosseum founders. Participants can watch live, ask questions and follow the program through the event.",
@@ -11987,19 +11972,6 @@
     "registrationUrl": "https://luma.com/aq7rqqmn"
   },
   {
-    "id": "w3v-dark-prague-26-10-02",
-    "name": "DARK Prague 2026",
-    "description": "DARK Prague 2026: October 2–4 gathering on privacy, cryptography, autonomy, and decentralized systems at Prague's Old Wastewater Treatment Plant.",
-    "startDate": "2026-10-02T07:00:00.000Z",
-    "endDate": "2026-10-04T19:00:00.000Z",
-    "city": "Hlavní město Praha",
-    "country": "CZ",
-    "location": "Hlavní město Praha, CZ",
-    "url": "https://dark.events/events/prague/",
-    "coverImage": "/events/w3v-dark-prague-26-10-02-51df9ddd.webp",
-    "month": "October 2026"
-  },
-  {
     "id": "ma-coinferencex-singapore-2026",
     "name": "CoinFerenceX Singapore 2026",
     "description": "CoinFerenceX Singapore 2026 takes place at Gardens by the Bay on October 5-6, 2026, during Asia Crypto Week. The two-day Web3 and blockchain summit brings together builders, founders, Tier-1 VCs and D",
@@ -16324,26 +16296,26 @@
       "Catherine Porter",
       "Dan Morehead",
       "Faryar Shirzad",
+      "Harsh Mehta",
       "Matthew Long",
       "Geoffrey Kendrick",
       "Stani Kulechov",
+      "Jason Yanowitz",
       "Lord Holmes of Richmond MBE",
+      "Michael Ippolito",
       "Laurie Katz",
+      "Samantha Bohbot",
       "Michele Curtoni",
       "David Mercer",
-      "Samantha Bohbot",
       "Francisco Maroto Castro",
       "Katie Harries",
       "Andrew O'Neill",
       "Jasmine Jia",
       "Theo Golden",
-      "Thomas Pikett",
+      "Tom Pikett",
       "Anatoly Crachilov",
       "Rebecca Rettig",
-      "Alex Seddon",
-      "Simon Taylor",
-      "Joe Medioli",
-      "Ryan Hayward"
+      "Alex Seddon"
     ]
   },
   {
@@ -26441,7 +26413,7 @@
     "country": "us",
     "location": "San Francisco, us",
     "url": "https://www.meetup.com/renegadephilosophers/events/317040834/",
-    "coverImage": "/events/mu-317040834-4be0dfe6.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -26525,7 +26497,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261103%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261103T185247Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=788701772db3de0da16352439c8fee3dee8717f1feee9a4355b31fb862ddc516",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261104%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261104T000834Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=cbe7245650e9a3ec48c3ac7664c436558cedb626942a7809682b5480a6463356",
     "month": "November 2026"
   },
   {
@@ -26665,7 +26637,7 @@
   },
   {
     "id": "luma-evt-57DpPjU8L0Bt0hD",
-    "name": "Stand With Crypto GOTV meet up",
+    "name": "Stand With Crypto DIGITAL ELECTION WATCH PARTY.",
     "description": "",
     "startDate": "2026-11-03T22:00:00.000Z",
     "endDate": "2026-11-04T01:30:00.000Z",
@@ -29522,5 +29494,47 @@
     "coverImage": "/events/luma-host-evt-evt-bjh9ttlff2uopea-3d33e173.webp",
     "source": "luma-trusted",
     "month": "December 2026"
+  },
+  {
+    "id": "mu-317068147",
+    "name": "Web3 and AI networking at The Rose & Crown",
+    "description": "Professional Networking, AI and Web3 Chat\n-Meet other people in AI and Web3\n-Discuss current trends and pitch your ideas\n-Come and join us at The Rose and Crown!",
+    "startDate": "2026-11-09T18:30:00-08:00",
+    "endDate": "2026-11-09T18:30:00-08:00",
+    "city": "Palo Alto",
+    "country": "us",
+    "location": "Palo Alto, us",
+    "url": "https://www.meetup.com/palo-alto-cryptomondays-meetup/events/317068147/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317271481",
+    "name": "Uncanny Alley: A New Day at Gray Area",
+    "description": "ACM SIGGRAPH Silicon Valley Chapter is hosting a in-person VR theatre event in San Francisco next week at the Gray Area / Grand Theater (*2665 Mission Street San Francisco, CA 94110)* and would love t",
+    "startDate": "2026-11-10T18:00:00-08:00",
+    "endDate": "2026-11-10T18:00:00-08:00",
+    "city": "San Francisco",
+    "country": "us",
+    "location": "San Francisco, us",
+    "url": "https://www.meetup.com/sfvrcc/events/317271481/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317262538",
+    "name": "Berkeley - Bitcoin Meetup ",
+    "description": "Come meet us at [Espresso Roma Cafe ](https://www.yelp.com/biz/espresso-roma-cafe-berkeley)for tea with other bitcoiners! This is a casual event to meet other local bitcoiners on the weekend (Saturday",
+    "startDate": "2026-11-14T14:00:00-08:00",
+    "endDate": "2026-11-14T14:00:00-08:00",
+    "city": "Berkeley",
+    "country": "us",
+    "location": "Berkeley, us",
+    "url": "https://www.meetup.com/bay-area-bitcoiners/events/317262538/",
+    "coverImage": "/events/mu-317262538-0d0b4db9.webp",
+    "source": "meetup",
+    "month": "November 2026"
   }
 ]
