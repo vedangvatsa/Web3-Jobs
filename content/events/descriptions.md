@@ -4680,86 +4680,6 @@ Programming moves across stages, beach clubs, workshop spaces, exhibition areas,
 
 Registration is listed as free.
 
-<a id="event-f8a31afca9b45716"></a>
-
-## Day One (Public) \| Nobel Heroes & AI4SCI Summit Singapore 2026
-
-- Record: `token2049-evt-uciKSAp6TdWKkWn`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-05T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/nobelheroesday1>
-
-### About the event
-
-Day One (Public) | Nobel Heroes & AI4SCI Summit Singapore 2026 is scheduled for 5 October 2026 at 09:00 (Asia/Singapore) in Singapore. Hosted by 499 Group, Symbosis Science.
-
-09:00-12:00 - - LT1, NTU (Invite Only)
-
-13:30-17:00 - - NEC, NTU (Open Registration)
-
-Morning session (Invite Only)
-
-09:30-09:50 - Opening Remarks
-
-Registration requires host approval. Registration is listed as free.
-
-<a id="event-892f7f1569b2e1c2"></a>
-
-## The Liquidity Pool - Hosted by Yuzu Money
-
-- Record: `token2049-evt-qYRiPyDkDWEUNGs`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-05T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/7l5amv63>
-
-### About the event
-
-The Liquidity Pool - Hosted by Yuzu Money is scheduled for 5 October 2026 at 15:00 (Asia/Singapore) in Singapore. Hosted by Ouroboros, Sam OuroCap.
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
-<a id="event-9a945f748d54d773"></a>
-
-## Risky Business - Singapore '26
-
-- Record: `token2049-evt-XUsiUTKEWJQckqX`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-05T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/dupkf78j>
-
-### About the event
-
-Risky Business - Singapore '26 is scheduled for 5 October 2026 at 15:00 (Asia/Singapore) in Singapore. Hosted by Lu Li.
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
-<a id="event-7fd4676e924e0acc"></a>
-
-## Atli Station Singapore: Arrive Connected 🇸🇬 \| TOKEN2049 Week
-
-- Record: `token2049-evt-d9OIP043UYmjS1a`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-05T08:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ugjskdv7>
-
-### About the event
-
-Atli Station Singapore: Arrive Connected 🇸🇬 | TOKEN2049 Week is scheduled for 5 October 2026 at 16:30 (Asia/Singapore). Hosted by Peter Atli, XForge Mobile, Bridgestar Capital.
-
-30% off Atli eSIM plans - no approval required.
-
-Approval is required only for the complimentary 1GB offer.
-
-Select "Conference Ticket Holder" and enter your valid TOKEN2049 Singapore ticket reference number in the registration form.
-
-Select "Standard Travel Registration", enter "N/A" in the ticket reference field, and register.
-
-Registration requires host approval. Registration is listed as free.
-
 <a id="event-cee7efa81baa1319"></a>
 
 ## Capital & Institutions Cocktail \| Singapore 2026
@@ -4801,22 +4721,6 @@ Bring your swimwear if you'd like to take a dip!
 Pool Party Vibes Bikinis, poolside drinks, and good company - soak up the tropical vibes, take a dip, and mingle with the Web3 crowd.
 
 5:30 PM - Food, drinks & games
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
-<a id="event-481112dac1100234"></a>
-
-## Allium Happy Hour
-
-- Record: `token2049-evt-97TURH7tABoXNOY`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-05T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/allium-HH-token2049>
-
-### About the event
-
-Allium Happy Hour is scheduled for 5 October 2026 at 17:00 (Asia/Singapore) in Singapore. Hosted by.sarah chen, Keith Yeo, Ethan Chan.
 
 Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
 
@@ -15208,28 +15112,6 @@ The organizer's timeline lists a September 16 kickoff and an October 16 submissi
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
-<a id="event-978f0a83d2a7c2e4"></a>
-
-## Roundtable during TOKEN2049 week in Singapore
-
-- Record: `luma-crypto-1QNFYg0hnersq5F`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-10-05T08:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/oyun7q74>
-
-### About the event
-
-Join us for an [exclusive, in-person roundtable jointly hosted by K&L Gates](https://www.klgates.com/), [AlixPartners](https://www.alixpartners.com/), [xcollective_](https://xcollective.global/), [Sphere State Group](https://spherestate.com/en-hk/) and the Blockchain Lawyers Forum (BLF) (https://blf.io/) during TOKEN2049 week in Singapore. The session will bring together legal, regulatory and industry leaders for a candid exchange on the issues shaping blockchain, digital assets, payments and the wider Web3 ecosystem.
-
-With no fixed agenda, the conversation will be driven by participants: attendees will submit and select the topics they most want to explore, creating a timely and highly relevant discussion shaped by perspectives and priorities in the room.
-
-> Event schedule:
-
-> 4:30pm - 6pm: Roundtable
-
-> 6pm - 7pm: Networking drinks
-
 <a id="event-06985927a9f6f431"></a>
 
 ## Utila Run Club: TOKEN2049
@@ -22235,180 +22117,6 @@ Ship something people want.
 
 See you at the Build Station.
 
-<a id="event-fc54f9472bcb12ac"></a>
-
-## Blockchain Summit 2026 Autumn
-
-- Record: `luma-batch-ddBABlCogatqD7p`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-05T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/bcs2026autumn>
-
-### About the event
-
-English information is available below.
-
-Blockchain Summit 2026 Autumn は、国内外の金融機関・大手事業会社が一堂に会し、金融領域を中心とするブロックチェーンの最新動向とビジネス機会を議論する国際サミットです。
-
-10月5日（月）｜大手町サンケイプラザ｜参加無料・承認制
-
-■ 三井住友FG・みずほ銀行・三井物産・野村HD・a16z crypto など、オンチェーン金融の最前線を担う12名が登壇が決定。
-
-■ 6セッション・タイムテーブルを公開
-
-ステーブルコイン決済・運用、AI経済圏、実業資産・国債のトークン化、暗号資産ETFまで。オンチェーン金融における重要トピックを議論します。
-
-※追加の登壇者・基調講演は順次発表します。※プログラム・登壇者は変更となる場合があります。
-
-■ 各セッションのテーマ
-
-01｜人とAIにとって"当たり前"のインフラへ｜オンチェーン決済の本格導入とその先
-
-既存決済との共存や本格導入に向けた課題に加え、AIエージェントが人に代わって決済を担う未来の可能性について論じます。
-
-02｜決済から運用へ、広がるステーブルコインの活用
-
-ひとつのウォレットで「支払い」と「運用」を完結させるユーザー体験や、その背景にある仕組み・資金流動に着目し、日本における新たな金融サービスの可能性を探ります。
-
-03｜The Global AI Economy｜Where Japan Fits In （※英語セッション / 機械翻訳あり）
-
-AIエージェントによる支払い・取引を支える基盤としてのブロックチェーンの役割と、日本企業がこのグローバルな潮流に参画するための機会について議論します。
-
-04｜「日本の実業資産」オンチェーン化の最先端｜大手事業会社と金融の波
-
-ブランド、コンテンツ、実物資産など、日本企業がこれまで培ってきた本業の価値を、オンチェーンでどのような事業につなげられるのかを掘り下げます。
-
-05｜金融の中核・国債のオンチェーン化｜大手金融機関が語る商用化への道筋
-
-伝統的金融の中核である国債取引へのブロックチェーン活用について、決済や担保管理の視点から商用化に向けた論点を整理します。
-
-06｜暗号資産ETF、実装の現場｜解禁までの課題と論点
-
-日本における暗号資産ETFの実現に向け、必要な制度設計や市場基盤について、指数、カストディ、商品設計それぞれの立場から論じます。
-
-※プログラムおよび登壇者は、予告なく変更・追加となる場合がございます。あらかじめご了承ください。
-
-■ 同会場にて公式ネットワーキングパーティーを開催
-
-※写真は前回（2026年2月）開催時の様子です。
-
-お飲み物とお食事を囲みながら、参加者の皆さまと直接お話しいただける場です。
-
-詳細は下記をご確認ください。
-
-■ 特別協力企業
-
-■ スポンサー
-
-〈Gold Sponsor〉
-
-〈Silver Sponsor〉
-
-■ メディアパートナー
-
-■ 後援
-
-本サミットは、日本経済新聞社が主催するAIカンファレンス「GenAI/SUM」の後援を受けて開催します。AIとブロックチェーンが交差する領域の議論を、両イベントの連携でさらに深めていきます。
-
-開催概要
-
-日程：2026年10月5日（月）
-
-会場：大手町サンケイプラザ 4階ホール（大手町駅A4・E1出口直結）時間：10:00〜18:00
-
-主催：Pacific Meta Group
-
-※ご登録後、事務局にて確認のうえ参加承認をご案内いたします※プログラム・登壇者は後日順次公開いたします。
-
-■ 第1回は登壇者50名超・事前登録1,200名超
-
-2026年2月開催の第1回は、「Japan Fintech Week 2026」の公式関連イベントとして開催。50名超が登壇し、事前登録1,200名超、当日は約550名が来場しました。メガバンク・証券・決済・事業会社・VCなどの意思決定層・実務責任者が参加しました。
-
-みなさまのご来場をお待ちしております。
-
-English
-
-Blockchain Summit 2026 Autumn is an international summit where financial institutions and major corporations from Japan and abroad come together to discuss the latest developments in blockchain - with a focus on finance - and the business opportunities they create.
-
-Monday, October 5｜Otemachi Sankei Plaza｜Free to attend, registration subject to approval
-
-■ 12 speakers from the front lines of onchain finance confirmed, including Sumitomo Mitsui Financial Group, Mizuho Bank, Mitsui & Co., Nomura Holdings, and a16z crypto.
-
-■ Six sessions and the timetable are now available
-
-From stablecoin payments and asset management to the AI economy, the tokenization of real-world business assets and government bonds, and crypto asset ETFs - we will discuss the key topics shaping onchain finance.
-
-*Additional speakers and keynote sessions will be announced on a rolling basis.*The program and speakers are subject to change.
-
-■ Session themes
-
-01｜Infrastructure That People and AI Take for Granted: The Full-Scale Adoption of Onchain Payments and Beyond
-
-Alongside coexistence with existing payment rails and the challenges of full-scale adoption, this session explores a future in which AI agents handle payments on people's behalf.
-
-02｜From Payments to Asset Management: The Expanding Use of Stablecoins
-
-Focusing on the user experience of completing both "paying" and "investing" in a single wallet - and the underlying mechanisms and flows of funds - this session explores the potential for new financial services in Japan.
-
-03｜The Global AI Economy: Where Japan Fits In (*Session in English / machine translation available)
-
-This session discusses blockchain's role as the infrastructure supporting payments and transactions by AI agents, and the opportunities for Japanese companies to take part in this global shift.
-
-04｜The Cutting Edge of Bringing Japan's Real Business Assets Onchain: Major Corporations and the Financial Wave
-
-This session digs into how the value Japanese companies have built in their core businesses - brands, content, physical assets - can be turned into onchain businesses.
-
-05｜Bringing Government Bonds, the Core of Finance, Onchain: Major Financial Institutions on the Path to Commercialization
-
-This session maps out the issues on the path to commercializing blockchain in government bond transactions - the core of traditional finance - from the perspectives of settlement and collateral management.
-
-06｜Crypto Asset ETFs in Practice: Challenges and Issues on the Road to Approval
-
-Looking ahead to crypto asset ETFs in Japan, speakers discuss the regulatory frameworks and market infrastructure required, from the standpoints of indices, custody, and product design.
-
-*Please note that the program and speakers are subject to change or addition without prior notice.
-
-■ An official networking party will be held at the same venue
-
-*Photos are from the previous edition (February 2026).Enjoy drinks and food while speaking directly with fellow attendees.Please see below for details.
-
-■ Special Partners
-
-Blockchain Summit 2026 Autumn is held with the special cooperation of the following four companies:
-
-Sumitomo Mitsui Financial Group, Inc.
-
-KDDI CORPORATION
-
-MITSUI & CO., LTD.
-
-Mizuho Bank, Ltd.
-
-■ Sponsors
-
-〈Gold Sponsor〉
-
-〈Silver Sponsor〉
-
-■ Media Partners
-
-■ Supported by
-
-This summit is supported by Gen/AI SUM, an AI conference hosted by Nikkei Inc. Through this partnership, the two events will further deepen the conversation at the intersection of AI and blockchain.
-
-■ Event Overview
-
-Date: Monday, October 5, 2026
-
-Time: 10:00 AM - 6:00 PM (JST)
-
-Venue: Otemachi Sankei Plaza, 4F Hall (directly connected to Otemachi Station, Exits A4 & E1)
-
-Organizer: Pacific Meta Group
-
-※ After you register, our team will review your registration and notify you once your participation has been approved.※ The program and speakers will be announced progressively at a later date.
-
 <a id="event-a38ade3390f66cc2"></a>
 
 ## Solana Mini Hacker House x 021Lab · Singapore 2026
@@ -22506,146 +22214,6 @@ More details on mentors, workshops, ecosystem support and Demo Day will be annou
 Join the 021Lab Telegram group for first-hand updates
 
 See you in Singapore, and come ready to build!
-
-<a id="event-497694e03b477a0e"></a>
-
-## Blockchain Impact Singapore
-
-- Record: `luma-batch-4GappJHse8MqfYd`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-05T06:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/y6nco425>
-
-### About the event
-
-Taking place during TOKEN2049 Week, Blockchain Impact Summit Singapore is an exclusive gathering for decision-makers, industry leaders, investors, founders and technology pioneers shaping the future of Web3 and artificial intelligence.
-
-Hosted in an auditorium facing Marina Bay Sands, the summit will present a carefully curated programme of high-level keynotes, expert panels and cutting-edge solutions across Web3 and AI.
-
-The discussions will explore how blockchain and artificial intelligence are transforming finance, business, digital ownership and the global economy, from RWA and tokenized securities to regulation, decentralized infrastructure and the convergence of AI with Web3.
-
-Designed to encourage meaningful dialogue and valuable connections, Blockchain Impact Summit Singapore brings together the people, ideas and technologies driving the next wave of digital innovation.Join an influential international audience during one of Singapore's most important weeks for technology, finance and digital assetsMiyi Core is a leading Web3 ecosystem platform dedicated to accelerating blockchain innovation. By supporting high-potential projects through strategic exposure, partnerships, and ecosystem development, Miyi Core has become a key force behind the next generation of decentralized technologies.RWA-DAO empowers communities to co-own and co-create luxury brands.
-
-By partnering with token projects, we produce RWA-backed, tokenized diamond QR watches blending real-world assets with blockchain innovation. Through DAO governance, sustainable tokenomics, and shared incentives, customers evolve into co-owners, driving transparent and participatory brand growth.Cobo is a leading digital asset infrastructure company building secure financial rails for both humans and AI agents.Eco Green Token (EGT) is a Web3-driven ecosystem utility token designed to connect sustainable agriculture, real field data, and supply chains using smart technology.
-
-With an Eco Green Token, you are part of a global transformation that places technology at the service of the environment, farmers, and consumers.BAMBITZ is a forward-thinking Web3 project at the intersection of music and technology. Centered around a virtual panda band, BAMBITZ has developed a unique ecosystem on the Solana blockchain where music revenue directly fuels the utility and value of its native token.Singapore Blockchain Week (SBW 13-17 November 2026) is a government and association supported flagship event.
-
-The community driven programme feature convergence of Artificial Intelligence (AI) x Distributed Ledger Technology (DLT), Real World Asset (RWA) and Venture Capital (VC) Assembly. It is held in-conjunction with Singapore Fintech Festival which expects over 70,000 participants from 142 countries and regions.
-
-<a id="event-01954371358b9e05"></a>
-
-## Grayscale x Global Fintech Institute: Privacy, Proof and the Regulatory Perimeter
-
-- Record: `luma-batch-evtyiUOy53vH7rEe`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-05T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/y362597j>
-
-### About the event
-
-An official side event of TOKEN2049 Singapore, co-hosted by Global Fintech Institute and Grayscale.
-
-Financial privacy and regulatory accountability are often treated as competing demands. Zooko Wilcox-O'Hearn built Zcash on a premise worth testing in public: both can hold together in the same system. Supervisors across Asia want traceability. Institutions owe their clients confidentiality. The cryptography that serves both is now audited and deployed, moving the discussion from whether privacy can coexist with supervision to how the two are engineered together.
-
-This in-person session brings leadership from the Zcash ecosystem together with institutional investors, regulators, academics and digital asset operators to examine where the regulatory perimeter sits and what it means for allocation, custody and compliance practice.
-
-Explore how financial privacy and regulatory accountability can be designed into the same system.
-
-Understand the tension between supervisory traceability and client confidentiality.
-
-Examine what privacy-preserving infrastructure means for institutional allocation, custody and compliance.
-
-Hear perspectives from the Zcash ecosystem on the practical deployment of privacy technology.
-
-Consider how regulators and institutions across Asia can approach oversight of privacy-preserving digital assets.
-
-Whether you are a regulator, institutional investor, academic or digital asset professional, join the discussion on how financial privacy can work in institutional practice.
-
-### Programme
-
-All times are in Singapore time (SGT).
-
-2:30 PM - Registration and welcome
-
-3:00 PM - Opening remarks from Grayscale and Global Fintech Institute
-
-3:10 PM - Panel discussion
-
-4:30 PM - Refreshments and networking
-
-6:00 PM - Close
-
-Discussion Topics
-
-Financial privacy and accountability within the same system
-
-The regulatory perimeter for privacy-preserving digital assets
-
-Client confidentiality and supervisory traceability
-
-Implications for institutional allocation and custody
-
-Compliance practice and the deployment of privacy-preserving cryptography
-
-### Speakers
-
-Zooko Wilcox-O'Hearn
-
-Founder, Zcash
-
-Michelle Lai
-
-Executive Chair, Sovright
-
-Liz Steininger
-
-CEO, Least Authority and Industry Fellow, Global Fintech Institute
-
-Moderator: Prof David Lee Kuo Chuen
-
-Chairman, Global Fintech Institute
-
-Further speakers nominated by Grayscale, ZODL and the Zcash Foundation will be announced.
-
-### Registration
-
-Event is in person and registration is subject to approval. The venue will be shared with confirmed guests. Places are limited during TOKEN2049 week.
-
-About Global Fintech Institute (GFI)
-
-The Global Fintech Institute (GFI) is a non-profit think tank that fosters collaboration among regulatory bodies, corporations, and academic institutions. Headquartered in Singapore, GFI addresses challenges in the fintech landscape through research, whitepapers, and thought leadership discussions that shape policy and industry standards.
-
-Our flagship initiatives include the Chartered Fintech Professional (CFtP) and Chartered Fintech Associate (CFtA) certifications, which equip professionals with essential skills for the evolving fintech environment.
-
-Don't miss the announcements. Follow our Luma page for real-time updates.
-
-GFI reserves the right to use any photograph, video, or recording taken during any event hosted or co-hosted by Global Fintech Institute without the expressed written permission of those included.
-
-If you do not wish to have your image, voice, name, or recording used or captured, please inform a member of the GFI team before or during the event.
-
-<a id="event-ed9763664ae792dd"></a>
-
-## GRADE Alliance: Composable, Compliant, Trusted: What It Actually Takes for a Tokenised Asset to Cross Borders
-
-- Record: `luma-batch-mjAftmoYDq7B5NZ`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-05T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/fh6aggg8>
-
-### About the event
-
-An evening reception ahead of Token2049 Singapore, presented by GRADE (Global Regulated Asset & Digital Exchange Alliance).
-
-The discussion explores what needs to travel with a tokenised asset beyond the token itself: identity and credentials, regulatory portability, risk information, and what ultimately makes a foreign-regulated tokenised asset investable. Keynote and panel discussion, followed by drinks and conversation.
-
-Full agenda and speaker line-up to follow. Space is limited. Invite-only.
-
-About GRADEGRADE is a coalition of regulated exchanges, custodians and infrastructure providers working to simplify cross-border listings for tokenised financial instruments. Founding members include Black Manta, Blockmosaic, Evolve, Hydra X, Particula and TOHKN.
-
-Learn more: gradealliance.xyz
 
 <a id="event-dc01a811597ffdff"></a>
 
@@ -32126,84 +31694,6 @@ This is where partnerships start, ideas move forward, and visibility turns into 
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-c666484d94174426"></a>
-
-## 0G Dev Day: ZERO TO INFINITY
-
-- Record: `w3v-0g-dev-day-zero-to-infinity`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T01:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/0g-devday-2026>
-
-### 0G DevDay: ZERO TO INFINITY
-
-National Gallery Singapore - where history was made. Now we build what's next.
-
-0G DevDay takes over the Supreme Court Terrace & Glass Room at National Gallery Singapore, in the heart of the city's historic Civic District. Housed within the former Supreme Court and City Hall - two national monuments that witnessed some of the defining moments in Singapore's history - the Gallery is a place where the past is preserved and new ideas continue to take shape.
-
-Under the iconic Rotunda dome, historic architecture meets a soaring contemporary glass canopy - a fitting home for ZERO TO INFINITY. For this one day, this space becomes our playground for the next frontier: AI demos, ecosystem showcases, conversations, food, drinks, and the people building what comes next.
-
-A place that holds history. A day to create the next chapter.
-
-GUEST OF HONOUR
-
-> Mr Tan Kiat How
-
->
-
-> Senior Minister of State
-
->
-
-> Ministry of Digital Development and Information
-
->
-
-> Ministry of Health
-
->
-
-> Singapore
-
-### Content
-
-- Keynote by Michael Heinrich, CEO & Co-Founder, 0G Labs
-- Live demos of real AI applications on world-class infrastructure
-- Ecosystem Showcase - interactive booths from AI startups and partners
-- Panels with founders, researchers, and industry leaders
-
-### Experience
-
-- 0G Passport - stamp your way through the day, redeem at the swag shop for exclusives like 0G Panda Labubu's
-- Robots on the floor - meet them, get a selfie
-- Connection Zones for networking area for deals and partnerships
-- Hackers Zone - a space to code, collaborate, and ship
-- Photobooths - Capture the moment at DevDay
-- Pull-Up Bar Competition - Test your strength between sessions
-
-### Recharge
-
-- Wellness Zone - massages, haircuts, and lounge spaces
-- F&B Zones - complimentary coffee, refreshments, and food all day
-
-Whether you're building AI, investing in its future, or simply curious where the industry is headed next, ZERO TO INFINITY by 0G DevDay is your opportunity to experience the technologies already redefining what's possible.
-
-The future of AI isn't waiting for permission. It already left the ground.
-
-### Venue: National Gallery Singapore
-
-0G Dev Day takes place on the Supreme Terrace & Glass Room at the iconic National Gallery Singapore, a world-renowned cultural landmark where historic grandeur meets contemporary innovation. Set within one of Singapore's most celebrated destinations, the venue provides an inspiring backdrop for a day of groundbreaking ideas, immersive experiences, meaningful connections, and the future of AI.
-
-### About Zero Gravity (0G)
-
-0G is the blockchain for AI agents. Modular storage, compute, data availability, and an AI-first chain in one stack. Every AI action [verified onchain. Build your first AI agent app in minutes.](https://app.0g.ai/?utm_source=luma)
-
-- [Website](https://0g.ai/?utm_source=luma)
-- (https://emojipedia.org/cross-mark?utm_source=luma) X (Twitter) (https://x.com/0G_labs?utm_source=luma)
-- [Discord](https://discord.com/invite/0glabs?utm_source=luma)
-- [Telegram](https://t.me/web3_0glabs?utm_source=luma)
-
 <a id="event-253f88633af3c149"></a>
 
 ## Solana Mini Hacker House x 021Lab · Singapore 2026
@@ -32334,66 +31824,6 @@ This is where partnerships start, ideas move forward, and visibility turns into 
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-d545292dfc1ad0ff"></a>
-
-## Blockchain Impact Singapore
-
-- Record: `luma-host-evt-evt-4GappJHse8MqfYd`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T06:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/y6nco425>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-10549e785f6737c5"></a>
-
-## Blockchain Impact Singapore
-
-- Record: `w3v-blockchain-impact-singapore-26-10-05`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T06:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/y6nco425>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-4a43ae15e4137dd8"></a>
-
-## Risky Business - Singapore '26
-
-- Record: `w3v-risky-business-singapore-26-26-10-05`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T07:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/dupkf78j>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-6ef6da66ff764290"></a>
-
-## Roundtable during TOKEN2049 week in Singapore
-
-- Record: `luma-host-evt-evt-1QNFYg0hnersq5F`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T08:30:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/oyun7q74>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-474e99443bb63e4b"></a>
-
-## Atli Station Singapore: Arrive Connected 🇸🇬 \| TOKEN2049 Week
-
-- Record: `luma-host-evt-evt-d9OIP043UYmjS1a`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T08:30:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/ugjskdv7>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-4ee00c929c6f03cf"></a>
 
 ## 🚤 Web3 Founders & Builders Boat Party - TOKEN2049🇸🇬
@@ -32403,18 +31833,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-05T09:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/zn7y3boz>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-eed0c83d613f63f3"></a>
-
-## Allium Happy Hour
-
-- Record: `w3v-allium-happy-hour-26-10-05`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/allium-HH-token2049>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -32430,48 +31848,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-e980f25320b9da9c"></a>
-
-## SPACEY VENTURES: Web3 Synergy Night
-
-- Record: `w3v-spacey-ventures-web3-synergy-night`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ss4ktzkq>
-
-### About the event
-
-Join us for an exclusive evening with Spacey Ventures, where Web3 innovators connect with elite investors, visionary VCs, and leading capital partners. Discover groundbreaking projects, share bold ideas, and build lasting synergies that will drive the next wave of decentralized innovation.
-
-### Event Highlights
-
-Curated networking with founders, investors, and ecosystem leaders: Network with a handpicked group of Web3 founders, elite investors, venture capitalists, and industry leaders, where every interaction is intentional and every connection has the potential to create lasting value.
-
-Meet elite venture capitalists, angel investors, family offices, and capital partners
-
-Discover early-stage Web3, AI, DeFi, RWA, and infrastructure projects before they reach the mainstream
-
-Founder introductions and strategic conversations with investors and builders : Unlike traditional networking events, Spacey focuses on quality over quantity. Founders will be introduced to investors and strategic partners whose interests align with their stage, sector, and fundraising goals creating conversations with real potential for future collaboration.
-
-Premium cocktails, drinks, and light refreshments in an intimate setting
-
-Exclusive rooftop atmosphere overlooking Singapore's skyline
-
-Why Attend?
-
-The best opportunities in Web3 often begin with the right conversation. Spacey Synergy Night is designed to bring together founders, investors, venture capitalists, and ecosystem leaders in a setting where meaningful connections can happen naturally.
-
-Whether you're raising capital, exploring investment opportunities, building strategic partnerships, or simply looking to connect with the people driving the industry forward, this evening offers a space to have genuine conversations with people who matter.
-
-With a carefully selected guest list and an intimate atmosphere, every interaction is intended to be valuable, relevant, and worth your time.
-
-Attendance
-
-Attendance is limited to ensure a high quality experience for every guest. Applications are reviewed individually, and approved attendees will receive a confirmation message via email or Telegram handle provided with additional event details prior to TOKEN2049 Singapore.
-
-An exclusive gathering focused on meaningful conversations, strategic introductions, and lasting partnerships.
-
 <a id="event-8130333918de6347"></a>
 
 ## Web3 Founders & Builders Boat Party
@@ -32481,18 +31857,6 @@ An exclusive gathering focused on meaningful conversations, strategic introducti
 - Starts: 2026-10-05T09:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/zn7y3boz>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-444ddc2820419c45"></a>
-
-## All That Matters - Day 1
-
-- Record: `token2049-side-6a8d73e281489b66e4942474`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T09:00:00+08:00
-- Description: Unverified stored copy
-- Original page: <https://events.bizzabo.com/atm26/page/5952104/tickets?utm_source=partner_token2049&utm_medium=referral&utm_campaign=earlybird>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -53145,6 +52509,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-05T15:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/p3nmxz4f>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-3d9d121ef97a2ff3"></a>
+
+## Meet Bitcoin Amsterdam: Investors & Traders, and Web3 Builders
+
+- Record: `luma-evt-m2m7fJhqguKf9Vn`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T15:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/5jftw55z>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

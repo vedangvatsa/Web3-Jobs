@@ -40,56 +40,6 @@
     }
   },
   {
-    "id": "luma-crypto-1QNFYg0hnersq5F",
-    "slug": "rdtw",
-    "name": "Roundtable during TOKEN2049 week in Singapore",
-    "description": "Join us for an [exclusive, in-person roundtable jointly hosted by K&L Gates](https://www.klgates.com/), [AlixPartners](https://www.alixpartners.com/), [xcollective_](https://xcollective.global/), [Sphere State Group](https://spherestate.com/en-hk/) and the Blockchain Lawyers Forum (BLF) (https://blf.io/) during TOKEN2049 week in Singapore. The session will bring together legal, regulatory and industry leaders for a candid exchange on the issues shaping blockchain, digital assets, payments and the wider Web3 ecosystem.\n\nWith no fixed agenda, the conversation will be driven by participants: attendees will submit and select the topics they most want to explore, creating a timely and highly relevant discussion shaped by perspectives and priorities in the room.\n\n> Event schedule:\n> 4:30pm - 6pm: Roundtable\n> 6pm - 7pm: Networking drinks",
-    "startDate": "2026-10-05T08:30:00.000Z",
-    "endDate": "2026-10-05T11:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/oyun7q74",
-    "registrationUrl": "https://luma.com/oyun7q74",
-    "coverImage": "/events/luma-crypto-1qnfyg0hnersq5f-624b6fa4.webp",
-    "source": "luma-crypto",
-    "sideEventFor": [
-      "token2049"
-    ],
-    "hosts": [
-      "Anna Gates",
-      "Lucas Nicolet-Serra",
-      "Jussi AITTOLA"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "AlixPartners",
-      "url": "https://alixpartners.com/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/oyun7q74",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/oyun7q74",
-      "eventId": "evt-1QNFYg0hnersq5F",
-      "fetchedAt": "2026-09-19T23:46:16.512Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-bGWgAlfUqt19gq7",
     "slug": "urc",
     "name": "Utila Run Club: TOKEN2049",

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-04T07:43:28.322Z",
+  "checkedAt": "2026-11-04T11:30:27.931Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -10,11 +10,11 @@
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 233,
+    "existing": 228,
     "excluded": 371,
-    "needs-review": 39
+    "needs-review": 38
   },
-  "importedTotal": 251,
+  "importedTotal": 246,
   "added": [],
   "receipts": [
     {
@@ -102,17 +102,6 @@
       "slug": "token2049-institutional"
     },
     {
-      "url": "https://luma.com/nobelheroesday1",
-      "name": "Day One | Nobel Heroes & AI4SCI Summit Singapore 2026",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "day-one"
-    },
-    {
       "url": "https://luma.com/dd8728yc",
       "name": "Web3TV Interview Feature With Singapore Blockchain Week - Day 1",
       "sources": [
@@ -121,28 +110,6 @@
       ],
       "status": "existing",
       "slug": "web3tv-interview"
-    },
-    {
-      "url": "https://luma.com/dupkf78j",
-      "name": "Risky Business - Singapore '26",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "risky-business"
-    },
-    {
-      "url": "https://luma.com/7l5amv63",
-      "name": "The Liquidity Pool - Hosted by Yuzu Money",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "lphym"
     },
     {
       "url": "https://luma.com/v8dfyohz",
@@ -154,27 +121,6 @@
       ],
       "status": "existing",
       "slug": "capital-institutions"
-    },
-    {
-      "url": "https://luma.com/ugjskdv7",
-      "name": "Atli Station Singapore: Arrive Connected 🇸🇬 | Free 1GB eSIM",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "atli-station-singapore"
-    },
-    {
-      "url": "https://luma.com/allium-HH-token2049",
-      "name": "Allium Happy Hour",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "allium-happy"
     },
     {
       "url": "https://luma.com/p5e1t0u0",
@@ -2524,8 +2470,8 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/6bv4rjiv",
-      "name": "Coffee & Credentials",
+      "url": "https://luma.com/nobelheroesday1",
+      "name": "Day One | Nobel Heroes & AI4SCI Summit Singapore 2026",
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
@@ -2632,8 +2578,8 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/bae06r0t",
-      "name": "BORN.LIVE Singapore — Opening Mixer",
+      "url": "https://luma.com/dupkf78j",
+      "name": "Risky Business - Singapore '26",
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
@@ -2643,11 +2589,12 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/evt-yiUOy53vH7rEeED",
-      "name": "Grayscale x Global Fintech Institute: Privacy, Proof and the Regulatory Per",
+      "url": "https://luma.com/7l5amv63",
+      "name": "The Liquidity Pool - Hosted by Yuzu Money",
       "sources": [
         "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
@@ -2686,16 +2633,6 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/ss4ktzkq",
-      "name": "SPACEY VENTURES: Web3 Synergy Night",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 404"
-    },
-    {
       "url": "https://luma.com/zsgdwcee",
       "name": "Haruko and Kalshi Present: More than a million",
       "sources": [
@@ -2707,8 +2644,8 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/rweo2o60",
-      "name": "Web3 Ai : Mixers",
+      "url": "https://luma.com/allium-HH-token2049",
+      "name": "Allium Happy Hour",
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",

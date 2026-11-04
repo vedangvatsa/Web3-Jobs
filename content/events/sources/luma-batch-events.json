@@ -364,108 +364,6 @@
     }
   },
   {
-    "id": "luma-batch-4GappJHse8MqfYd",
-    "slug": "y6nco425",
-    "name": "Blockchain Impact Singapore",
-    "description": "Taking place during TOKEN2049 Week, Blockchain Impact Summit Singapore is an exclusive gathering for decision-makers, industry leaders, investors, founders and technology pioneers shaping the future of Web3 and artificial intelligence.\n\nHosted in an auditorium facing Marina Bay Sands, the summit will present a carefully curated programme of high-level keynotes, expert panels and cutting-edge solutions across Web3 and AI.\n\nThe discussions will explore how blockchain and artificial intelligence are transforming finance, business, digital ownership and the global economy, from RWA and tokenized securities to regulation, decentralized infrastructure and the convergence of AI with Web3.\n\nDesigned to encourage meaningful dialogue and valuable connections, Blockchain Impact Summit Singapore brings together the people, ideas and technologies driving the next wave of digital innovation.Join an influential international audience during one of Singapore’s most important weeks for technology, finance and digital assetsMiyi Core is a leading Web3 ecosystem platform dedicated to accelerating blockchain innovation. By supporting high-potential projects through strategic exposure, partnerships, and ecosystem development, Miyi Core has become a key force behind the next generation of decentralized technologies.RWA-DAO empowers communities to co-own and co-create luxury brands. By partnering with token projects, we produce RWA-backed, tokenized diamond QR watches blending real-world assets with blockchain innovation. Through DAO governance, sustainable tokenomics, and shared incentives, customers evolve into co-owners, driving transparent and participatory brand growth.Cobo is a leading digital asset infrastructure company building secure financial rails for both humans and AI agents.Eco Green Token (EGT) is a Web3-driven ecosystem utility token designed to connect sustainable agriculture, real field data, and supply chains using smart technology. With an Eco Green Token, you are part of a global transformation that places technology at the service of the environment, farmers, and consumers.BAMBITZ is a forward-thinking Web3 project at the intersection of music and technology. Centered around a virtual panda band, BAMBITZ has developed a unique ecosystem on the Solana blockchain where music revenue directly fuels the utility and value of its native token.Singapore Blockchain Week (SBW 13-17 November 2026) is a government and association supported flagship event. The community driven programme feature convergence of Artificial Intelligence (AI) x Distributed Ledger Technology (DLT), Real World Asset (RWA) and Venture Capital (VC) Assembly. It is held in-conjunction with Singapore Fintech Festival which expects over 70,000 participants from 142 countries and regions.",
-    "startDate": "2026-10-05T06:00:00.000Z",
-    "endDate": "2026-10-05T10:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "One Marina Boulevard, One Marina Boulevard, 1 Marina Blvd, Singapore 018989",
-    "url": "https://luma.com/y6nco425",
-    "registrationUrl": "https://luma.com/y6nco425",
-    "coverImage": "/events/luma-batch-4GappJHse8MqfYd-2567671c.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Eric ALEXANDRE"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "neighborhood": "Downtown Core",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "One Marina Boulevard",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "organizer": {
-      "type": "Organization",
-      "name": "Eric ALEXANDRE"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/y6nco425",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/y6nco425",
-      "eventId": "evt-4GappJHse8MqfYd",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-mjAftmoYDq7B5NZ",
-    "slug": "fh6aggg8",
-    "name": "GRADE Alliance: Composable, Compliant, Trusted: What It Actually Takes for a Tokenised Asset to Cross Borders",
-    "description": "An evening reception ahead of Token2049 Singapore, presented by GRADE (Global Regulated Asset & Digital Exchange Alliance).\n\nThe discussion explores what needs to travel with a tokenised asset beyond the token itself: identity and credentials, regulatory portability, risk information, and what ultimately makes a foreign-regulated tokenised asset investable. Keynote and panel discussion, followed by drinks and conversation.\n\nFull agenda and speaker line-up to follow. Space is limited. Invite-only.\n\nAbout GRADEGRADE is a coalition of regulated exchanges, custodians and infrastructure providers working to simplify cross-border listings for tokenised financial instruments. Founding members include Black Manta, Blockmosaic, Evolve, Hydra X, Particula and TOHKN.\n\nLearn more: gradealliance.xyz",
-    "startDate": "2026-10-05T08:00:00.000Z",
-    "endDate": "2026-10-05T11:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Central Area, Singapore, Singapore",
-    "url": "https://luma.com/fh6aggg8",
-    "registrationUrl": "https://luma.com/fh6aggg8",
-    "coverImage": "/events/luma-batch-mjAftmoYDq7B5NZ-540da32f.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Trina Gan",
-      "Mark Tang | Hydra X",
-      "Hydra X",
-      "Hui Ying",
-      "Nadine Wilke",
-      "Scarlett Ho",
-      "Andrew"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "neighborhood": "Central Area",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "organizer": {
-      "type": "Organization",
-      "name": "Trina Gan",
-      "url": "https://luma.com/user/Trina"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/fh6aggg8",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/fh6aggg8",
-      "eventId": "evt-mjAftmoYDq7B5NZ",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-lnhEJWt2Bdk0cmW",
     "slug": "zsgdwcee",
     "name": "Haruko and Kalshi Present: More than a million",
@@ -1112,55 +1010,6 @@
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe",
       "enrichedAt": "2026-09-22T11:00:44.000Z"
-    }
-  },
-  {
-    "id": "luma-batch-ddBABlCogatqD7p",
-    "slug": "bcs2026autumn",
-    "name": "Blockchain Summit 2026 Autumn",
-    "description": "English information is available below.\n\nBlockchain Summit 2026 Autumn は、国内外の金融機関・大手事業会社が一堂に会し、金融領域を中心とするブロックチェーンの最新動向とビジネス機会を議論する国際サミットです。\n\n10月5日（月）｜大手町サンケイプラザ｜参加無料・承認制\n\n■ 三井住友FG・みずほ銀行・三井物産・野村HD・a16z crypto など、オンチェーン金融の最前線を担う12名が登壇が決定。\n\n■ 6セッション・タイムテーブルを公開\n\nステーブルコイン決済・運用、AI経済圏、実業資産・国債のトークン化、暗号資産ETFまで。オンチェーン金融における重要トピックを議論します。\n\n※追加の登壇者・基調講演は順次発表します。※プログラム・登壇者は変更となる場合があります。\n\n■ 各セッションのテーマ\n\n01｜人とAIにとって“当たり前”のインフラへ｜オンチェーン決済の本格導入とその先\n\n既存決済との共存や本格導入に向けた課題に加え、AIエージェントが人に代わって決済を担う未来の可能性について論じます。\n\n02｜決済から運用へ、広がるステーブルコインの活用\n\nひとつのウォレットで「支払い」と「運用」を完結させるユーザー体験や、その背景にある仕組み・資金流動に着目し、日本における新たな金融サービスの可能性を探ります。\n\n03｜The Global AI Economy｜Where Japan Fits In （※英語セッション / 機械翻訳あり）\n\nAIエージェントによる支払い・取引を支える基盤としてのブロックチェーンの役割と、日本企業がこのグローバルな潮流に参画するための機会について議論します。\n\n04｜「日本の実業資産」オンチェーン化の最先端｜大手事業会社と金融の波\n\nブランド、コンテンツ、実物資産など、日本企業がこれまで培ってきた本業の価値を、オンチェーンでどのような事業につなげられるのかを掘り下げます。\n\n05｜金融の中核・国債のオンチェーン化｜大手金融機関が語る商用化への道筋\n\n伝統的金融の中核である国債取引へのブロックチェーン活用について、決済や担保管理の視点から商用化に向けた論点を整理します。\n\n06｜暗号資産ETF、実装の現場｜解禁までの課題と論点\n\n日本における暗号資産ETFの実現に向け、必要な制度設計や市場基盤について、指数、カストディ、商品設計それぞれの立場から論じます。\n\n※プログラムおよび登壇者は、予告なく変更・追加となる場合がございます。あらかじめご了承ください。\n\n■ 同会場にて公式ネットワーキングパーティーを開催\n\n※写真は前回（2026年2月）開催時の様子です。\n\nお飲み物とお食事を囲みながら、参加者の皆さまと直接お話しいただける場です。\n\n詳細は下記をご確認ください。\n\n■ 特別協力企業\n\n■ スポンサー\n\n〈Gold Sponsor〉\n\n〈Silver Sponsor〉\n\n■ メディアパートナー\n\n■ 後援\n\n本サミットは、日本経済新聞社が主催するAIカンファレンス「GenAI/SUM」の後援を受けて開催します。AIとブロックチェーンが交差する領域の議論を、両イベントの連携でさらに深めていきます。\n\n開催概要\n\n日程：2026年10月5日（月）\n\n会場：大手町サンケイプラザ 4階ホール（大手町駅A4・E1出口直結）時間：10:00〜18:00\n\n主催：Pacific Meta Group\n\n※ご登録後、事務局にて確認のうえ参加承認をご案内いたします※プログラム・登壇者は後日順次公開いたします。\n\n■ 第1回は登壇者50名超・事前登録1,200名超\n\n2026年2月開催の第1回は、「Japan Fintech Week 2026」の公式関連イベントとして開催。50名超が登壇し、事前登録1,200名超、当日は約550名が来場しました。メガバンク・証券・決済・事業会社・VCなどの意思決定層・実務責任者が参加しました。\n\nみなさまのご来場をお待ちしております。\n\nEnglish\n\nBlockchain Summit 2026 Autumn is an international summit where financial institutions and major corporations from Japan and abroad come together to discuss the latest developments in blockchain — with a focus on finance — and the business opportunities they create.\n\nMonday, October 5｜Otemachi Sankei Plaza｜Free to attend, registration subject to approval\n\n■ 12 speakers from the front lines of onchain finance confirmed, including Sumitomo Mitsui Financial Group, Mizuho Bank, Mitsui & Co., Nomura Holdings, and a16z crypto.\n\n■ Six sessions and the timetable are now available\n\nFrom stablecoin payments and asset management to the AI economy, the tokenization of real-world business assets and government bonds, and crypto asset ETFs — we will discuss the key topics shaping onchain finance.\n\n*Additional speakers and keynote sessions will be announced on a rolling basis.*The program and speakers are subject to change.\n\n■ Session themes\n\n01｜Infrastructure That People and AI Take for Granted: The Full-Scale Adoption of Onchain Payments and Beyond\n\nAlongside coexistence with existing payment rails and the challenges of full-scale adoption, this session explores a future in which AI agents handle payments on people's behalf.\n\n02｜From Payments to Asset Management: The Expanding Use of Stablecoins\n\nFocusing on the user experience of completing both \"paying\" and \"investing\" in a single wallet — and the underlying mechanisms and flows of funds — this session explores the potential for new financial services in Japan.\n\n03｜The Global AI Economy: Where Japan Fits In (*Session in English / machine translation available)\n\nThis session discusses blockchain's role as the infrastructure supporting payments and transactions by AI agents, and the opportunities for Japanese companies to take part in this global shift.\n\n04｜The Cutting Edge of Bringing Japan's Real Business Assets Onchain: Major Corporations and the Financial Wave\n\nThis session digs into how the value Japanese companies have built in their core businesses — brands, content, physical assets — can be turned into onchain businesses.\n\n05｜Bringing Government Bonds, the Core of Finance, Onchain: Major Financial Institutions on the Path to Commercialization\n\nThis session maps out the issues on the path to commercializing blockchain in government bond transactions — the core of traditional finance — from the perspectives of settlement and collateral management.\n\n06｜Crypto Asset ETFs in Practice: Challenges and Issues on the Road to Approval\n\nLooking ahead to crypto asset ETFs in Japan, speakers discuss the regulatory frameworks and market infrastructure required, from the standpoints of indices, custody, and product design.\n\n*Please note that the program and speakers are subject to change or addition without prior notice.\n\n■ An official networking party will be held at the same venue\n\n*Photos are from the previous edition (February 2026).Enjoy drinks and food while speaking directly with fellow attendees.Please see below for details.\n\n■ Special Partners\n\nBlockchain Summit 2026 Autumn is held with the special cooperation of the following four companies:\n\nSumitomo Mitsui Financial Group, Inc.\n\nKDDI CORPORATION\n\nMITSUI & CO., LTD.\n\nMizuho Bank, Ltd.\n\n■ Sponsors\n\n〈Gold Sponsor〉\n\n〈Silver Sponsor〉\n\n■ Media Partners\n\n■ Supported by\n\nThis summit is supported by Gen/AI SUM, an AI conference hosted by Nikkei Inc. Through this partnership, the two events will further deepen the conversation at the intersection of AI and blockchain.\n\n■ Event Overview\n\nDate: Monday, October 5, 2026\n\nTime: 10:00 AM – 6:00 PM (JST)\n\nVenue: Otemachi Sankei Plaza, 4F Hall (directly connected to Otemachi Station, Exits A4 & E1)\n\nOrganizer: Pacific Meta Group\n\n※ After you register, our team will review your registration and notify you once your participation has been approved.※ The program and speakers will be announced progressively at a later date.",
-    "startDate": "2026-10-05T01:00:00.000Z",
-    "endDate": "2026-10-05T09:00:00.000Z",
-    "city": "Chiyoda City",
-    "country": "Japan",
-    "location": "Otemachi SANKEI Plaza【大手町サンケイプラザ】東京丸の内 貸し会議室／ホール・セミナー／イベント会場, Otemachi SANKEI Plaza【大手町サンケイプラザ】東京丸の内 貸し会議室／ホール・セミナー／イベント会場, Japan, 〒100-0004 Tokyo, Chiyoda City, Ōtemachi, 1-chōme−7−２ Tokyo Sankei Building, 2階 3階 4階",
-    "url": "https://luma.com/bcs2026autumn",
-    "registrationUrl": "https://luma.com/bcs2026autumn",
-    "coverImage": "/events/luma-batch-ddBABlCogatqD7p-fbe4584a.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Pacific Meta"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Tokyo",
-    "neighborhood": "7",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Otemachi SANKEI Plaza【大手町サンケイプラザ】東京丸の内 貸し会議室／ホール・セミナー／イベント会場",
-    "addressLocality": "Chiyoda City",
-    "addressRegion": "Tokyo",
-    "addressCountry": "JP",
-    "organizer": {
-      "type": "Organization",
-      "name": "Pacific Meta"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/bcs2026autumn",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/bcs2026autumn",
-      "eventId": "evt-ddBABlCogatqD7p",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
     }
   },
   {
@@ -3169,36 +3018,6 @@
     "sourceVerification": {
       "url": "https://luma.com/8q6nb4mw",
       "eventId": "evt-SK22Vhvj9z3xvWx",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtyiUOy53vH7rEe",
-    "slug": "y362597j",
-    "name": "Grayscale x Global Fintech Institute: Privacy, Proof and the Regulatory Perimeter",
-    "description": "An official side event of TOKEN2049 Singapore, co-hosted by Global Fintech Institute and Grayscale.\n\nFinancial privacy and regulatory accountability are often treated as competing demands. Zooko Wilcox-O’Hearn built Zcash on a premise worth testing in public: both can hold together in the same system. Supervisors across Asia want traceability. Institutions owe their clients confidentiality. The cryptography that serves both is now audited and deployed, moving the discussion from whether privacy can coexist with supervision to how the two are engineered together.\n\nThis in-person session brings leadership from the Zcash ecosystem together with institutional investors, regulators, academics and digital asset operators to examine where the regulatory perimeter sits and what it means for allocation, custody and compliance practice.\n\nExplore how financial privacy and regulatory accountability can be designed into the same system.\n\nUnderstand the tension between supervisory traceability and client confidentiality.\n\nExamine what privacy-preserving infrastructure means for institutional allocation, custody and compliance.\n\nHear perspectives from the Zcash ecosystem on the practical deployment of privacy technology.\n\nConsider how regulators and institutions across Asia can approach oversight of privacy-preserving digital assets.\n\nWhether you are a regulator, institutional investor, academic or digital asset professional, join the discussion on how financial privacy can work in institutional practice.\n\nProgramme\n\nAll times are in Singapore time (SGT).\n\n2:30 PM — Registration and welcome\n3:00 PM — Opening remarks from Grayscale and Global Fintech Institute\n3:10 PM — Panel discussion\n4:30 PM — Refreshments and networking\n6:00 PM — Close\n\nDiscussion Topics\n\nFinancial privacy and accountability within the same system\n\nThe regulatory perimeter for privacy-preserving digital assets\n\nClient confidentiality and supervisory traceability\n\nImplications for institutional allocation and custody\n\nCompliance practice and the deployment of privacy-preserving cryptography\n\nSpeakers\n\nZooko Wilcox-O’Hearn\nFounder, Zcash\n\nMichelle Lai\nExecutive Chair, Sovright\n\nLiz Steininger\nCEO, Least Authority and Industry Fellow, Global Fintech Institute\n\nModerator: Prof David Lee Kuo Chuen\nChairman, Global Fintech Institute\n\nFurther speakers nominated by Grayscale, ZODL and the Zcash Foundation will be announced.\n\nRegistration\n\nEvent is in person and registration is subject to approval. The venue will be shared with confirmed guests. Places are limited during TOKEN2049 week.\n\nAbout Global Fintech Institute (GFI)\n\nThe Global Fintech Institute (GFI) is a non-profit think tank that fosters collaboration among regulatory bodies, corporations, and academic institutions. Headquartered in Singapore, GFI addresses challenges in the fintech landscape through research, whitepapers, and thought leadership discussions that shape policy and industry standards.\n\nOur flagship initiatives include the Chartered Fintech Professional (CFtP) and Chartered Fintech Associate (CFtA) certifications, which equip professionals with essential skills for the evolving fintech environment.\n\nDon’t miss the announcements. Follow our Luma page for real-time updates.\n\nGFI reserves the right to use any photograph, video, or recording taken during any event hosted or co-hosted by Global Fintech Institute without the expressed written permission of those included.\n\nIf you do not wish to have your image, voice, name, or recording used or captured, please inform a member of the GFI team before or during the event.",
-    "startDate": "2026-10-05T07:00:00.000Z",
-    "endDate": "2026-10-05T10:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/y362597j",
-    "registrationUrl": "https://luma.com/y362597j",
-    "coverImage": "/events/luma-batch-evtyiUOy53vH7rEe-c2514a20.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Global Fintech Institute"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "party",
-    "sourceVerification": {
-      "url": "https://luma.com/y362597j",
-      "eventId": "evt-yiUOy53vH7rEeED",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
