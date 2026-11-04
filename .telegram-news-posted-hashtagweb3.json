@@ -878,6 +878,9 @@
   "https://hashtagweb3.com/cftcutah?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/nba?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/geminiorder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/tetherbtc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/njstaking?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/anzalinux?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2540,6 +2543,12 @@
   "NBA signs CFTC integrity pact and names Kalshi, Polymarket preferred exchanges",
   "Judge rejects bid to void Gemini's $5 million settlement",
   "Judge rejects Gemini and CFTC bid to void $5 million settlement",
+  "Tether CEO Says Firm Holds 150,000 Bitcoin",
+  "Tether CEO Says Company Holds About 150,000 Bitcoin",
+  "New Jersey Drops Coinbase Staking Order and Fine",
+  "New Jersey Rescinds Coinbase Staking Order and Drops $5 Million Penalty",
+  "Anza Advises Solana Validators to Mitigate Ubuntu Kernel Flaw",
+  "Anza Tells Solana Validators to Mitigate Critical Linux Kernel Flaw",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2968,5 +2977,8 @@
   "fp:482b|barely|blockchain|circulation|flat|grew45|increas|integrat|jump45|major",
   "fp:against|aim|apply|block|cftc|doj|enforcement|federal|gambl|kalshi",
   "fp:agreement|cftc|declin|enter|establish|exchang|integrity|kalshi|leagu|market",
-  "fp:agreement|ask|bid|both|cftc|conduct|court|gemini|judg|maintain"
+  "fp:agreement|ask|bid|both|cftc|conduct|court|gemini|judg|maintain",
+  "fp:000|about150|about50|ardoino|ceo|firm|higher|holds150|indicat|paolo",
+  "fp:bureau|coinbas|drop|fin|its2023|jersey|merit|order|penalty|rescind",
+  "fp:98432|advis|anza|block|critical|cve2026|disabl|featur|flaw|inbound"
 ]
