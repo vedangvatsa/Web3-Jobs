@@ -97209,7 +97209,8 @@
       },
       "account": "channel:ai",
       "attemptId": "75065ba0-3fd8-4971-9784-5e042545aefa",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8ef2dc9e7f2bd8d8b2ce67a9768207701adcc5b8"
     }
   ]
 }
