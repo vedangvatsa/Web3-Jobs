@@ -97297,6 +97297,48 @@
       "attemptId": "85b89f19-ae6f-4f47-a8a5-32ab8bd223ca",
       "verification": "verified",
       "postId": "0xc7645a14dcf02c8239e7452138d74e7976001c08"
+    },
+    {
+      "slug": "pcac",
+      "company": "Bitdeer",
+      "title": "Procurement Category Lead (AI & Crypto Data Center Construction)",
+      "platform": "farcaster",
+      "postedAt": "2026-11-04T11:32:52.389Z",
+      "expectedText": "Bitdeer is hiring Procurement Category Lead (AI & Crypto Data Center Construction)\n\nhttps://hashtagweb3.com/pcac/fc?og=7",
+      "snapshot": {
+        "id": "60e864cee6d8",
+        "title": "Procurement Category Lead (AI & Crypto Data Center Construction)",
+        "company": "Bitdeer",
+        "link": "https://bitdeer.breezy.hr/p/60e864cee6d8-procurement-category-lead-ai-crypto-data-center-construction",
+        "date": "2026-10-28",
+        "dateVerified": true,
+        "dateSource": "Breezy.JobPosting.datePosted",
+        "source": "Breezy: Bitdeer [bitdeer]",
+        "location": "Austin, TX",
+        "isRemote": false,
+        "department": "Procurement",
+        "active": true,
+        "dateEvidence": {
+          "url": "https://bitdeer.breezy.hr/p/60e864cee6d8-procurement-category-lead-ai-crypto-data-center-construction",
+          "checkedAt": "2026-10-30T03:42:02.245Z",
+          "bodySha256": "4105a51a61bec9bb3a3cfe09f58f66f963d0ab8ae180a0fc0da28824d5818b5d",
+          "provider": "breezy",
+          "datePosted": "2026-10-28"
+        },
+        "slug": "pcac"
+      },
+      "payload": {
+        "text": "Bitdeer is hiring Procurement Category Lead (AI & Crypto Data Center Construction)\n\nhttps://hashtagweb3.com/pcac/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pcac/fc?og=7"
+          }
+        ],
+        "channel_id": "growth"
+      },
+      "account": "channel:growth",
+      "attemptId": "2007c00b-ff78-45dc-998c-fb1fe60bd895",
+      "verification": "creating"
     }
   ]
 }
