@@ -98743,7 +98743,8 @@
       },
       "account": "channel:build",
       "attemptId": "cec70929-fa89-4feb-951f-5fa1a12c3b09",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf3d2d1714957abd4b158ea3b070079c09ad82341"
     }
   ]
 }
