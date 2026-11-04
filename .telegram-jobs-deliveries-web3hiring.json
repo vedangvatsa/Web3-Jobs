@@ -13522,5 +13522,122 @@
     "slotKey": "2026-11-04:afternoon",
     "messageId": 16606,
     "sentAt": "2026-11-04T11:32:31.202Z"
+  },
+  "6f587b54-4427-4c91-810d-5634bbb657e8": {
+    "status": "reserved",
+    "reservedAt": "2026-11-04T11:32:48.987Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "6232077004",
+          "title": "Chief Compliance Officer & BSA Officer (TDAB)",
+          "company": "Telcoin",
+          "link": "https://job-boards.greenhouse.io/telcoin/jobs/6232077004",
+          "date": "2026-10-22T11:22:17-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Telcoin [telcoin]",
+          "location": "Norfolk, Nebraska  - Flexible (remote, hybrid or on-site)",
+          "department": "Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp40"
+        },
+        "key": "6232077004",
+        "slug": "cmp40",
+        "url": "https://hashtagweb3.com/cmp40?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Telcoin",
+        "title": "Chief Compliance Officer & BSA Officer"
+      },
+      {
+        "snapshot": {
+          "id": "a5c7c68a-33f9-4f78-929e-29b58f26d22a",
+          "title": "People Business Partner, G&A",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/a5c7c68a-33f9-4f78-929e-29b58f26d22a",
+          "date": "2026-10-28T22:02:17.374+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "People & Talent",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pbpg"
+        },
+        "key": "a5c7c68a-33f9-4f78-929e-29b58f26d22a",
+        "slug": "pbpg",
+        "url": "https://hashtagweb3.com/pbpg?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "People Business Partner"
+      },
+      {
+        "snapshot": {
+          "id": "f906798e-b5da-440b-80a0-639356e72e1d",
+          "title": "Senior Machine Learning Engineer, Knowledge Layer",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/f906798e-b5da-440b-80a0-639356e72e1d",
+          "date": "2026-10-27T16:04:17.974+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (North America)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "R&D",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng666"
+        },
+        "key": "f906798e-b5da-440b-80a0-639356e72e1d",
+        "slug": "eng666",
+        "url": "https://hashtagweb3.com/eng666?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Senior Machine Learning Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "c2582588-49e0-4a92-b618-8d3e5286aec3",
+          "title": "COO",
+          "company": "Airtm",
+          "link": "https://jobs.lever.co/airtm/c2582588-49e0-4a92-b618-8d3e5286aec3",
+          "date": "2026-10-29T22:32:05.536Z",
+          "source": "Lever: Airtm [airtm]",
+          "location": "Remote (LATAM)",
+          "workplaceType": "remote",
+          "department": "Operations Team",
+          "active": true,
+          "dateVerified": true,
+          "slug": "coo"
+        },
+        "key": "c2582588-49e0-4a92-b618-8d3e5286aec3",
+        "slug": "coo",
+        "url": "https://hashtagweb3.com/coo?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Airtm",
+        "title": "COO"
+      },
+      {
+        "snapshot": {
+          "id": "efbb65e5-0878-4435-94fd-314f02eec83e",
+          "title": "VP, Finance",
+          "company": "Talos",
+          "link": "https://jobs.ashbyhq.com/Talos-Trading/efbb65e5-0878-4435-94fd-314f02eec83e",
+          "date": "2026-10-30T17:31:24.689+00:00",
+          "source": "Ashby: Talos [Talos-Trading]",
+          "location": "New York",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "vf"
+        },
+        "key": "efbb65e5-0878-4435-94fd-314f02eec83e",
+        "slug": "vf",
+        "url": "https://hashtagweb3.com/vf?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Talos",
+        "title": "VP, Finance"
+      }
+    ],
+    "message": "- Telcoin is hiring <a href=\"https://hashtagweb3.com/cmp40?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Chief Compliance Officer &amp; BSA Officer (TDAB)</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/pbpg?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">People Business Partner, G&amp;A</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/eng666?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Machine Learning Engineer, Knowledge Layer</a>\n- Airtm is hiring <a href=\"https://hashtagweb3.com/coo?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">COO</a>\n- Talos is hiring <a href=\"https://hashtagweb3.com/vf?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VP, Finance</a>",
+    "slotKey": "2026-11-04:afternoon"
   }
 }
