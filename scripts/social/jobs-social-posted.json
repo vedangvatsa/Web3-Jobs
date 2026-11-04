@@ -99346,7 +99346,8 @@
       },
       "account": "profile",
       "attemptId": "dd2b82eb-9b76-441b-9ffc-9915fb3ae18f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa9a09a47613a2ab52d14821fbcaa3c91052ae0b4"
     }
   ]
 }
