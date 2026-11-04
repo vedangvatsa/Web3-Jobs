@@ -99418,7 +99418,8 @@
       },
       "account": "channel:web3",
       "attemptId": "192ff9f4-b42f-4e00-bc52-0c30e6e1fc28",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x190b1889013d8d4a27fbac3a46f0bb26bc46b35a"
     }
   ]
 }
