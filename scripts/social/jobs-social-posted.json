@@ -97488,7 +97488,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "1c0572b5-b5f7-42f2-94a1-5a33415d6014",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7523709825831141376"
     }
   ]
 }
