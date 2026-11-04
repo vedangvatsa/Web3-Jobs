@@ -99706,7 +99706,8 @@
       },
       "account": "channel:ethereum",
       "attemptId": "ea28be36-52b4-47f8-8d79-942d8bbd3daa",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x51079f4542dc57a8bc016db1f0f05dba0cde229b"
     }
   ]
 }
