@@ -13405,7 +13405,7 @@
     "sentAt": "2026-11-03T11:32:44.855Z"
   },
   "33e50c46-67d1-43cf-8ed2-70e12f4758e7": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-04T11:32:28.477Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -13519,6 +13519,8 @@
       }
     ],
     "message": "- Telcoin is hiring <a href=\"https://hashtagweb3.com/cmp40?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Chief Compliance Officer &amp; BSA Officer (TDAB)</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/pbpg?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">People Business Partner, G&amp;A</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/eng666?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Machine Learning Engineer, Knowledge Layer</a>\n- Airtm is hiring <a href=\"https://hashtagweb3.com/coo?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">COO</a>\n- Talos is hiring <a href=\"https://hashtagweb3.com/vf?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VP, Finance</a>",
-    "slotKey": "2026-11-04:afternoon"
+    "slotKey": "2026-11-04:afternoon",
+    "messageId": 16606,
+    "sentAt": "2026-11-04T11:32:31.202Z"
   }
 }
