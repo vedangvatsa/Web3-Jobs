@@ -99246,7 +99246,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "f53405ef-1822-4058-8ddd-55c354fa542f",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6aeb8be98aec178794a29c92"
     }
   ]
 }
