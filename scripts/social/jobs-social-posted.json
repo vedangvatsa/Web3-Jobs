@@ -99382,7 +99382,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "d9a8d479-6fbb-4465-ad16-2b561d76f5c6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe55faae2cef15ec61cc01e2faecab43939f4e7e6"
     }
   ]
 }
