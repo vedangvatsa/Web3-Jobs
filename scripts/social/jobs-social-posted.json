@@ -98255,8 +98255,9 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "8706cf52-4180-4432-ba02-a3e5ab7d1f58",
-      "verification": "pending",
-      "postId": "6aeb19596e21919416d6cf92"
+      "verification": "verified",
+      "postId": "6aeb19596e21919416d6cf92",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7523710499126181888"
     }
   ]
 }
