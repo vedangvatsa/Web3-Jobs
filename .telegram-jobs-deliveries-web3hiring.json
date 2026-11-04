@@ -13643,7 +13643,7 @@
     "sentAt": "2026-11-04T11:32:51.509Z"
   },
   "0d88548c-3397-4289-840f-c62b576c32a1": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-04T19:43:29.970Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -13758,6 +13758,8 @@
       }
     ],
     "message": "- Kast is hiring <a href=\"https://hashtagweb3.com/pm334?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager (Onboarding/KYC)</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/mgr196?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VIP Relationship Manager, LATAM</a>\n- Coinflow is hiring <a href=\"https://hashtagweb3.com/pm360?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Operations &amp; Strategy Associate</a>\n- Talos is hiring <a href=\"https://hashtagweb3.com/pm282?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager, Trading Connectivity</a>\n- Paxos is hiring <a href=\"https://hashtagweb3.com/cmp150?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Compliance Associate, KYC</a>",
-    "slotKey": "2026-11-04:evening"
+    "slotKey": "2026-11-04:evening",
+    "messageId": 16607,
+    "sentAt": "2026-11-04T19:43:33.238Z"
   }
 }
