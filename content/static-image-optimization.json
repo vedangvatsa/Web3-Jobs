@@ -4653,10 +4653,6 @@
       "sha256": "a852bc2bb27295ee21606197e574f7810068da89e6be1db70b9c8a38387bd926",
       "status": "optimized"
     },
-    "/events/token2049-evt-e3wtjeluie9gjhu-7d852cd2.webp": {
-      "sha256": "a4fd8cabdb9a74938a94a57165e313550f27b985192ab3486d4bc1068067625a",
-      "status": "optimized"
-    },
     "/events/token2049-evt-ecpuhv88hkidbgs-d08ed9f5.webp": {
       "sha256": "7045e0c767b55f9839d81dddeaf54483c39e2854fefbfaaa4b2b39a276bbfb72",
       "status": "optimized"
@@ -4863,10 +4859,6 @@
     },
     "/events/token2049-evt-khl28fvbb2jkrgh-ca79653e.webp": {
       "sha256": "ab6d656256c531c87f9d5dc9c688b3d62be978c77a1d5026d53e9fa0cdc8647c",
-      "status": "optimized"
-    },
-    "/events/token2049-evt-kt7zi4h2gn4m4ql-ba576ec8.webp": {
-      "sha256": "4b45f7ebbe427a961ecb2420957db82b9fcaeae776c41129e90551ab8e82d4aa",
       "status": "optimized"
     },
     "/events/token2049-evt-l6vxeqchcjuftxe-e5c4da70.webp": {
@@ -5331,10 +5323,6 @@
     },
     "/events/token2049-side-6a622e12d1b48ddf39d08981-837c2be4.webp": {
       "sha256": "80a39a5dc1867d339a4cfa487a4a6b7971322a123d98a71f4c2a85ded6e1c248",
-      "status": "retained"
-    },
-    "/events/token2049-side-6a69774bd1b48ddf39d09150-1561bc24.webp": {
-      "sha256": "d6075193181a4007664ad3332f68a20366ca99ad302d85949ca4a935337970db",
       "status": "retained"
     },
     "/events/token2049-side-6a6a54acd1b48ddf39d0929b-0668d1b0.webp": {
@@ -6355,10 +6343,6 @@
     },
     "/events/w3v-rwa-beyond-the-hype-fafee510.webp": {
       "sha256": "92dad4843794b4f69d8d1a54dd927223b295a8210ab598ecd8a159a2a7426797",
-      "status": "retained"
-    },
-    "/events/w3v-rwa-capital-forum-81b80031.webp": {
-      "sha256": "9284e611bb69d002e17c4b9618cce97556cee3b37a362915b7a3d33db4bb75ef",
       "status": "retained"
     },
     "/events/w3v-satoshi-spritz-speciale-365a9500.webp": {

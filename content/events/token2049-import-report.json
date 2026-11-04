@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-04T00:05:10.250Z",
+  "checkedAt": "2026-11-04T07:26:19.881Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -10,11 +10,11 @@
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 235,
-    "excluded": 370,
-    "needs-review": 39
+    "existing": 233,
+    "excluded": 367,
+    "needs-review": 43
   },
-  "importedTotal": 253,
+  "importedTotal": 251,
   "added": [],
   "receipts": [
     {
@@ -111,17 +111,6 @@
       ],
       "status": "existing",
       "slug": "day-one"
-    },
-    {
-      "url": "https://luma.com/6bv4rjiv",
-      "name": "Coffee & Credentials",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "coffee-credentials"
     },
     {
       "url": "https://luma.com/dd8728yc",
@@ -1999,17 +1988,6 @@
       "slug": "vlr"
     },
     {
-      "url": "https://luma.com/bg9x3kjw",
-      "name": "AI & Web3 Networking Heist",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "ai-web3"
-    },
-    {
       "url": "https://luma.com/circolo-kvry",
       "name": "Coffee Tasting (Circolo Life)",
       "sources": [
@@ -2546,8 +2524,8 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/0g-devday-2026",
-      "name": "0G Dev Day: ZERO TO INFINITY",
+      "url": "https://luma.com/6bv4rjiv",
+      "name": "Coffee & Credentials",
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
@@ -2557,11 +2535,12 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/8tn5529r",
-      "name": "WIBA Breakfast",
+      "url": "https://luma.com/0g-devday-2026",
+      "name": "0G Dev Day: ZERO TO INFINITY",
       "sources": [
         "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
@@ -5811,6 +5790,17 @@
       "reason": "Primary source event has ended"
     },
     {
+      "url": "https://luma.com/bg9x3kjw",
+      "name": "AI & Web3 Networking Heist",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
       "url": "https://luma.com/dfu8hhvi?tk=OF5qCA",
       "name": "What Comes After Tokenized Stocks",
       "sources": [
@@ -6665,8 +6655,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 429"
     },
     {
       "url": "https://luma.com/KASTSolidGold_Table",
@@ -6674,8 +6664,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 429"
     },
     {
       "url": "https://luma.com/h4wd3gwl",
@@ -6683,8 +6673,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 429"
     },
     {
       "url": "https://vaultsummit.xyz",
@@ -6701,8 +6691,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 429"
     },
     {
       "url": "https://luma.com/3b3624jr",

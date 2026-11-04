@@ -4680,26 +4680,6 @@ Programming moves across stages, beach clubs, workshop spaces, exhibition areas,
 
 Registration is listed as free.
 
-<a id="event-832e6d28c504776a"></a>
-
-## Coffee & Credentials
-
-- Record: `token2049-evt-E3WtjeLuIe9GJHu`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-05T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/6bv4rjiv>
-
-### About the event
-
-Coffee & Credentials is scheduled for 5 October 2026 at 09:00 (Asia/Singapore) in Complex. Hosted by Branson Lee.
-
-Still a coffee meetup though, just with a presentation folded into it.
-
-RSVPs still need approval, because we want it to stay a real conversation, not a crowd.
-
-Registration requires host approval. Registration is listed as free.
-
 <a id="event-f8a31afca9b45716"></a>
 
 ## Day One (Public) \| Nobel Heroes & AI4SCI Summit Singapore 2026
@@ -4721,24 +4701,6 @@ Day One (Public) | Nobel Heroes & AI4SCI Summit Singapore 2026 is scheduled for 
 Morning session (Invite Only)
 
 09:30-09:50 - Opening Remarks
-
-Registration requires host approval. Registration is listed as free.
-
-<a id="event-8770900dfa1086d6"></a>
-
-## AI & Web3 Networking Heist
-
-- Record: `token2049-evt-kt7ZI4H2Gn4m4Ql`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-05T03:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/bg9x3kjw>
-
-### About the event
-
-AI & Web3 Networking Heist is scheduled for 5 October 2026 at 11:00 (Asia/Singapore) in Singapore. Hosted by Divyesh Gupta.
-
-AI & Web3 Networking Heist brings together founders, entrepreneurs, builders, investors, developers, and technology leaders to discuss what's being built, what's changing, and where AI and Web3 are heading next.
 
 Registration requires host approval. Registration is listed as free.
 
@@ -32254,30 +32216,6 @@ The future of AI isn't waiting for permission. It already left the ground.
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-14dc96dc93358928"></a>
-
-## THE DEALFLOW SINGAPORE - INVESTOR BRUNCH
-
-- Record: `token2049-side-6a69774bd1b48ddf39d09150`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T02:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/dealflowsg>
-
-### About the event
-
-An invitation-only brunch for verified investors, family offices, and VCs. Recognized as one of the highest-quality side events.
-
-THE DEALFLOW SINGAPORE is set to begin a busy RWA WEEK and TOKEN2049 WEEK in Singapore. Join 50 selected investors at the private lounge in the heart of Singapore.
-
-Interested in co-hosting/partnership? Reach out to us: ivan@uvecon.vc
-
-THE DEALFLOW is an event of SINGAPORE RWA WEEK.
-
-### Event details
-
-Hosted by UVECON.VC, Joao Raza. The event takes place on October 5. Registration requires organizer approval.
-
 <a id="event-0205a1d8cee89fda"></a>
 
 ## CoinFerenceX The Best Event Singapore
@@ -32395,54 +32333,6 @@ This is where partnerships start, ideas move forward, and visibility turns into 
 - Original page: <https://luma.com/dpdxyo2d>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-e157ca89d731d47a"></a>
-
-## The Pre-TOKEN2049 by Integral & EDX
-
-- Record: `w3v-pre-token2049-integral-edx-26-10-05`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T02:30:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/9azk2ahd>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-3074c6d1cd90a5f8"></a>
-
-## RWA Capital Forum
-
-- Record: `luma-host-evt-evt-fGZaeLsclU6JMCf`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T03:30:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/ydaq5h18>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-52ce252bee3a25ea"></a>
-
-## RWA Capital Forum
-
-- Record: `w3v-rwa-capital-forum`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T03:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ydaq5h18>
-
-### About the event
-
-Connecting Capital with Onchain Opportunities.
-
-Lunch will be provided for registered guests.
-
-The RWA Capital Forum brings together institutional investors, digital asset funds, family offices, liquidity providers and leading RWA companies for an afternoon focused on one question: where are the most compelling opportunities emerging across onchain real-world assets?
-
-Hosted by Taisu Ventures, the forum connects capital with a curated group of companies building across private credit, tokenized assets, institutional yield and next-generation onchain financial infrastructure.
-
-The afternoon will feature perspectives from active market participants, a curated showcase of RWA opportunities from the Taisu ecosystem, and dedicated time for direct conversations between capital providers and builders.
-
-Lunch will be served. Please register in advance to help us plan accordingly.
 
 <a id="event-d545292dfc1ad0ff"></a>
 
@@ -53327,6 +53217,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-05T22:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/talent-ik5v>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-a8b7506c22217503"></a>
+
+## Fast Forward with Filed.
+
+- Record: `luma-evt-uq6PT7eUbh24vUB`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T23:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/ket3ttrp>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
