@@ -98401,8 +98401,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "fea9bc76-80f0-4c5b-b4c1-7c0fe803c313",
-      "verification": "pending",
-      "postId": "6aeb8ac3c6d064586b7cb5cb"
+      "verification": "verified",
+      "postId": "6aeb8ac3c6d064586b7cb5cb",
+      "permalink": "https://twitter.com/hashtag_web3/status/2118066497763283042"
     }
   ]
 }
