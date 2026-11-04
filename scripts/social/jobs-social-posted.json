@@ -98533,7 +98533,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "51587594-041e-487c-bfcb-20ff8cc0153c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0e3903baf041ff0e2c93c7efb88fed48ee0c7247"
     }
   ]
 }
