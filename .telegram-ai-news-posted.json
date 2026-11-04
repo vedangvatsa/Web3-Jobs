@@ -870,6 +870,9 @@
   "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
   "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
   "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+  "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+  "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+  "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2392,6 +2395,12 @@
   "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
   "Palantir U.S. Commercial Revenue Exceeds Government Sales",
   "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+  "Apple restricts AI companion software to adult users",
+  "Apple restricts dating apps and AI companions to users 18 and up",
+  "Political shifts threaten Texas AI data center expansion",
+  "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+  "How companies profit from open-source AI models",
+  "Open source AI is booming. Hugging Face explains who profits.",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2779,5 +2788,8 @@
   "fp:app|appl|call|discuss|dur|earn|executiv|explor|external|increas",
   "fp:allow|anthropic|confirm|cryptographically|develop|flashprov|generat|given|identity|protocol",
   "fp:130m|360m|490m|ballistic|boom|cybersecurity|direct|driven|firm|flagship",
-  "fp:american|business|commercial|contract|earn|exc|forebod|government|hid|insid"
+  "fp:american|business|commercial|contract|earn|exc|forebod|government|hid|insid",
+  "fp:adult|an18|app|appl|application|companion|dat|guidelin|interaction|plus",
+  "fp:buildout|center|country|data|election|epicenter|expansion|fastest|grow|infrastructur",
+  "fp:adoption|boom|business|captur|cost|enterpris|explain|fac|grow|how"
 ]
