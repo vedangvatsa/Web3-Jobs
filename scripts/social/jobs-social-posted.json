@@ -99886,7 +99886,8 @@
       },
       "account": "channel:design",
       "attemptId": "15bf6787-63a3-4f8e-98f7-90b2a7cb78f6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x08a6998ec39899c4e43adb376dbdd5e592603f61"
     }
   ]
 }
