@@ -97037,7 +97037,8 @@
       },
       "account": "channel:base",
       "attemptId": "97158ee4-6415-44e0-ae78-db32e6467275",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe87194c17bb2852d9146c7668f8da9b17e1b96d6"
     }
   ]
 }
