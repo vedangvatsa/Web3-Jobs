@@ -7269,5 +7269,121 @@
     "slotKey": "2026-11-03:afternoon",
     "messageId": 156057,
     "sentAt": "2026-11-03T11:34:32.685Z"
+  },
+  "c70a9f3d-90bc-45c1-b410-18dd7465daf9": {
+    "status": "reserved",
+    "reservedAt": "2026-11-04T11:33:54.488Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8210230",
+          "title": "Sales Manager, Stripe Crypto Existing Business",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8210230",
+          "date": "2026-10-15T11:55:59-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "SF, NYC",
+          "department": "1642 Product Sales - MaaS",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls298"
+        },
+        "key": "8210230",
+        "slug": "sls298",
+        "url": "https://hashtagweb3.com/sls298?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Sales Manager"
+      },
+      {
+        "snapshot": {
+          "id": "bf05e1f6-17e2-4639-ae9c-9afe0199a028",
+          "title": "Senior Software Engineer, Data Infrastructure (RDBMS) (LATAM)",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/bf05e1f6-17e2-4639-ae9c-9afe0199a028",
+          "date": "2026-10-21T22:12:21.116+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (North America)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "R&D",
+          "active": true,
+          "dateVerified": true,
+          "slug": "infra28"
+        },
+        "key": "bf05e1f6-17e2-4639-ae9c-9afe0199a028",
+        "slug": "infra28",
+        "url": "https://hashtagweb3.com/infra28?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8286878",
+          "title": "Senior Product Marketing Manager",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8286878?t=gh_src=&gh_jid=8286878",
+          "date": "2026-10-23T13:58:35-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "New York, NY",
+          "department": "Customer Care",
+          "active": true,
+          "salary": "$166k – $195k/yr",
+          "dateVerified": true,
+          "slug": "pm130"
+        },
+        "key": "8286878",
+        "slug": "pm130",
+        "url": "https://hashtagweb3.com/pm130?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Senior Product Marketing Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8089237003",
+          "title": "Senior Manager PR and Communications APAC",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8089237003",
+          "date": "2026-10-29T20:15:19-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Singapore",
+          "department": "Global Marketing and Growth",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr205"
+        },
+        "key": "8089237003",
+        "slug": "mgr205",
+        "url": "https://hashtagweb3.com/mgr205?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Senior Manager PR and Communications APAC"
+      },
+      {
+        "snapshot": {
+          "id": "a9695010-f3ae-4264-a0b6-458e43f8a696",
+          "title": "AI Engineer, Trading Ops & Management",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/a9695010-f3ae-4264-a0b6-458e43f8a696",
+          "date": "2026-10-09T09:05:14.672Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (Hong Kong)",
+          "workplaceType": "hybrid",
+          "department": "Trading",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng483"
+        },
+        "key": "a9695010-f3ae-4264-a0b6-458e43f8a696",
+        "slug": "eng483",
+        "url": "https://hashtagweb3.com/eng483?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "AI Engineer"
+      }
+    ],
+    "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/sls298?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Manager, Stripe Crypto Existing Business</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/infra28?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer, Data Infrastructure (RDBMS) (LATAM)</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/pm130?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Marketing Manager</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/mgr205?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Manager PR and Communications APAC</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/eng483?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Engineer, Trading Ops &amp; Management</a>",
+    "slotKey": "2026-11-04:afternoon"
   }
 }
