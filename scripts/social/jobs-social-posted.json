@@ -99967,6 +99967,47 @@
       "verification": "verified",
       "postId": "6aeb8c758aec178794a2c3a7",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7523834096457023488"
+    },
+    {
+      "slug": "sls260",
+      "company": "Talos",
+      "title": "Sales Director, p(X)",
+      "platform": "linkedin",
+      "postedAt": "2026-11-04T19:47:48.768Z",
+      "expectedText": "Talos is hiring Sales Director, p(X): https://hashtagweb3.com/sls260/li?og=7",
+      "snapshot": {
+        "id": "df6c8c7a-e8ee-4a40-9161-c15e5ff5a236",
+        "title": "Sales Director, p(X)",
+        "company": "Talos",
+        "link": "https://jobs.ashbyhq.com/Talos-Trading/df6c8c7a-e8ee-4a40-9161-c15e5ff5a236",
+        "date": "2026-10-09T13:54:13.049+00:00",
+        "source": "Ashby: Talos [Talos-Trading]",
+        "location": "Hybrid (New York)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "PX",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls260"
+      },
+      "payload": {
+        "text": "Talos is hiring Sales Director, p(X): https://hashtagweb3.com/sls260/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls260/li?og=7",
+          "title": "Sales Director, p(X) at Talos",
+          "description": "Join Talos as Sales Director, p. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls260.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "c25ccd8a-65c1-4490-ae1c-76e5b22b9d82",
+      "verification": "creating"
     }
   ]
 }
