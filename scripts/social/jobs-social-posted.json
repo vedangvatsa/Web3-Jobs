@@ -97654,7 +97654,8 @@
       },
       "account": "profile",
       "attemptId": "5869d2c4-b819-497c-9f15-1b9e2dc88e3c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0bf13aefc3f18833297fa8fc5d70ae9f143ec31c"
     }
   ]
 }
