@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:47:33.751293+00:00",
+  "generatedAt": "2026-11-04T09:48:28.561490+00:00",
   "policy": "Platforms that onboard external publishers/feeds. Excludes peer news publishers and already-contacted msn/newsbreak.",
   "excludedAlreadyContacted": [
     "msn",
@@ -364,14 +364,14 @@
       "name": "Feedspot",
       "url": "https://www.feedspot.com/",
       "kind": "feed-discovery",
-      "email": null,
-      "emailSource": null,
-      "emailNote": null,
+      "email": "team@feedspot.com",
+      "emailSource": "https://www.feedspot.com/ page text",
+      "emailNote": "verified",
       "formUrls": [
         "https://www.feedspot.com/"
       ],
-      "route": "form",
-      "researchStatus": "unreviewed"
+      "route": "email",
+      "researchStatus": "verified"
     },
     {
       "name": "FinancialContent",
@@ -826,12 +826,12 @@
       "name": "The Old Reader",
       "url": "https://theoldreader.com/",
       "kind": "feed-discovery",
-      "email": null,
-      "emailSource": null,
-      "emailNote": null,
+      "email": "support@theoldreader.com",
+      "emailSource": "https://theoldreader.com/ page text",
+      "emailNote": "verified",
       "formUrls": [],
-      "route": "research",
-      "researchStatus": "unreviewed"
+      "route": "email",
+      "researchStatus": "verified"
     },
     {
       "name": "TipRanks",
@@ -1390,6 +1390,138 @@
       "formUrls": [],
       "route": "email",
       "researchStatus": "researched"
+    },
+    {
+      "name": "DefiLlama",
+      "url": "https://defillama.com/",
+      "kind": "crypto-aggregator",
+      "email": "support@defillama.com",
+      "emailSource": "https://defillama.com/ page text",
+      "emailNote": "verified",
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "verified"
+    },
+    {
+      "name": "Dune",
+      "url": "https://dune.com/",
+      "kind": "crypto-aggregator",
+      "email": "support@dune.com",
+      "emailSource": "https://dune.com/ page text",
+      "emailNote": "verified",
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "verified"
+    },
+    {
+      "name": "Business Wire",
+      "url": "https://www.businesswire.com/",
+      "kind": "news-distribution",
+      "email": "info@businesswire.com",
+      "emailSource": "https://www.businesswire.com/contact-us page text",
+      "emailNote": "verified",
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "verified"
+    },
+    {
+      "name": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/",
+      "kind": "news-distribution",
+      "email": "support@globenewswire.com",
+      "emailSource": "https://www.globenewswire.com/contact-us page text",
+      "emailNote": "verified",
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "verified"
+    },
+    {
+      "name": "OpenPR",
+      "url": "https://www.openpr.com/",
+      "kind": "news-distribution",
+      "email": "service@openpr.com",
+      "emailSource": "https://www.openpr.com/ page text",
+      "emailNote": "verified",
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "verified"
+    },
+    {
+      "name": "Newswire",
+      "url": "https://www.newswire.com/",
+      "kind": "news-distribution",
+      "email": "sales@newswire.com",
+      "emailSource": "https://www.newswire.com/ page text",
+      "emailNote": "verified",
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "verified"
+    },
+    {
+      "name": "BazQux",
+      "url": "https://bazqux.com/",
+      "kind": "feed-discovery",
+      "email": "hello@bazqux.com",
+      "emailSource": "https://bazqux.com/ page text",
+      "emailNote": "verified",
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "verified"
+    },
+    {
+      "name": "Cision",
+      "url": "https://www.cision.com/",
+      "kind": "news-distribution",
+      "email": "support@cision.com",
+      "emailSource": "https://www.cision.com/ page text",
+      "emailNote": "verified",
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "verified"
+    },
+    {
+      "name": "AllSides (feedback)",
+      "url": "https://www.allsides.com/",
+      "kind": "news-aggregator",
+      "email": "feedback@allsides.com",
+      "emailSource": "https://www.allsides.com/ page text",
+      "emailNote": "verified",
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "verified"
+    },
+    {
+      "name": "CryptoPanic (sources)",
+      "url": "https://cryptopanic.com/",
+      "kind": "crypto-aggregator",
+      "email": "sources@cryptopanic.com",
+      "emailSource": "https://cryptopanic.com/ page text",
+      "emailNote": "verified",
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "verified"
+    },
+    {
+      "name": "DappRadar (partnerships)",
+      "url": "https://dappradar.com/",
+      "kind": "crypto-aggregator",
+      "email": "partnerships@dappradar.com",
+      "emailSource": "https://dappradar.com/ page text",
+      "emailNote": "verified",
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "verified"
+    },
+    {
+      "name": "CoinStats (sales)",
+      "url": "https://coinstats.app/",
+      "kind": "crypto-aggregator",
+      "email": "sales@coinstats.app",
+      "emailSource": "https://coinstats.app/contact/ page text",
+      "emailNote": "verified",
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "verified"
     }
   ]
 }
