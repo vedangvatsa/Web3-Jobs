@@ -691,10 +691,12 @@
         "articleSlugs": [
           "tetherbtc"
         ],
-        "phase": "building",
+        "phase": "build-failed",
         "startedAt": "2026-11-04T07:39:58.957Z",
         "buildId": "daily-20261104-41791929278-1",
-        "rolloutId": "daily-20261104-41791929278-1"
+        "rolloutId": "daily-20261104-41791929278-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-04T07:53:39.490Z"
       }
     ]
   }
