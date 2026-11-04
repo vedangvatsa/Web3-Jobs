@@ -97387,8 +97387,9 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "ccda23b8-9b96-46f9-a804-6b39fc0bf4dc",
-      "verification": "pending",
-      "postId": "6aeb1892dde3f600e5921c1e"
+      "verification": "verified",
+      "postId": "6aeb1892dde3f600e5921c1e",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7523709664740564992"
     }
   ]
 }
