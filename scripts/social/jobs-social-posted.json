@@ -97761,6 +97761,40 @@
       "attemptId": "b3e9694a-21f0-4fd5-8403-faab6f9d8473",
       "verification": "verified",
       "postId": "0x344317041461f59674476a988e90366ae7c37b87"
+    },
+    {
+      "slug": "do24",
+      "company": "Ripple",
+      "title": "Senior DevOps Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-11-04T11:37:07.866Z",
+      "expectedText": "Ripple is hiring Senior DevOps Engineer\n\nhttps://hashtagweb3.com/do24/fc?og=7",
+      "snapshot": {
+        "id": "8330754",
+        "title": "Senior DevOps Engineer",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8330754?gh_jid=8330754",
+        "date": "2026-10-30T09:34:52-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "London, UK",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "do24"
+      },
+      "payload": {
+        "text": "Ripple is hiring Senior DevOps Engineer\n\nhttps://hashtagweb3.com/do24/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/do24/fc?og=7"
+          }
+        ],
+        "channel_id": "crypto"
+      },
+      "account": "channel:crypto",
+      "attemptId": "3257af32-9811-4bf9-a1c1-4729df6cfbd3",
+      "verification": "creating"
     }
   ]
 }
