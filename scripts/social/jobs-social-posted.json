@@ -99420,6 +99420,41 @@
       "attemptId": "192ff9f4-b42f-4e00-bc52-0c30e6e1fc28",
       "verification": "verified",
       "postId": "0x190b1889013d8d4a27fbac3a46f0bb26bc46b35a"
+    },
+    {
+      "slug": "sls260",
+      "company": "Talos",
+      "title": "Sales Director, p(X)",
+      "platform": "farcaster",
+      "postedAt": "2026-11-04T19:47:48.768Z",
+      "expectedText": "Talos is hiring Sales Director, p(X)\n\nhttps://hashtagweb3.com/sls260/fc?og=7",
+      "snapshot": {
+        "id": "df6c8c7a-e8ee-4a40-9161-c15e5ff5a236",
+        "title": "Sales Director, p(X)",
+        "company": "Talos",
+        "link": "https://jobs.ashbyhq.com/Talos-Trading/df6c8c7a-e8ee-4a40-9161-c15e5ff5a236",
+        "date": "2026-10-09T13:54:13.049+00:00",
+        "source": "Ashby: Talos [Talos-Trading]",
+        "location": "Hybrid (New York)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "PX",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls260"
+      },
+      "payload": {
+        "text": "Talos is hiring Sales Director, p(X)\n\nhttps://hashtagweb3.com/sls260/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls260/fc?og=7"
+          }
+        ],
+        "channel_id": "bounties"
+      },
+      "account": "channel:bounties",
+      "attemptId": "c8f9f453-781e-49dd-b269-185925c3f143",
+      "verification": "creating"
     }
   ]
 }
