@@ -98813,7 +98813,8 @@
       },
       "account": "channel:base",
       "attemptId": "550b003f-bc7e-4fb7-b280-614efaf4dbe7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb1708f1b973570f2511780ad730c70123839b5da"
     }
   ]
 }
