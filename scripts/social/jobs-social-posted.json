@@ -99670,7 +99670,8 @@
       },
       "account": "channel:base",
       "attemptId": "eaed208f-08bb-4f8c-871c-9d5112bce23c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x36059a220ab2033380fc78f38eda8720b95ac9fe"
     }
   ]
 }
