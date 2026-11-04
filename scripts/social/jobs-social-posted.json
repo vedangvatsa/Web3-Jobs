@@ -99246,8 +99246,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "f53405ef-1822-4058-8ddd-55c354fa542f",
-      "verification": "pending",
-      "postId": "6aeb8be98aec178794a29c92"
+      "verification": "verified",
+      "postId": "6aeb8be98aec178794a29c92",
+      "permalink": "https://twitter.com/hashtag_web3/status/2118067731509522730"
     }
   ]
 }
