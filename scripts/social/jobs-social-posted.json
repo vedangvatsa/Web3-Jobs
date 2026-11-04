@@ -97340,6 +97340,54 @@
       "attemptId": "2007c00b-ff78-45dc-998c-fb1fe60bd895",
       "verification": "verified",
       "postId": "0x5bdb18b019a5362c63a86f222c5e8d9e2be6f4a9"
+    },
+    {
+      "slug": "pcac",
+      "company": "Bitdeer",
+      "title": "Procurement Category Lead (AI & Crypto Data Center Construction)",
+      "platform": "linkedin",
+      "postedAt": "2026-11-04T11:32:52.389Z",
+      "expectedText": "Bitdeer is hiring Procurement Category Lead (AI & Crypto Data Center Construction): https://hashtagweb3.com/pcac/li?og=7",
+      "snapshot": {
+        "id": "60e864cee6d8",
+        "title": "Procurement Category Lead (AI & Crypto Data Center Construction)",
+        "company": "Bitdeer",
+        "link": "https://bitdeer.breezy.hr/p/60e864cee6d8-procurement-category-lead-ai-crypto-data-center-construction",
+        "date": "2026-10-28",
+        "dateVerified": true,
+        "dateSource": "Breezy.JobPosting.datePosted",
+        "source": "Breezy: Bitdeer [bitdeer]",
+        "location": "Austin, TX",
+        "isRemote": false,
+        "department": "Procurement",
+        "active": true,
+        "dateEvidence": {
+          "url": "https://bitdeer.breezy.hr/p/60e864cee6d8-procurement-category-lead-ai-crypto-data-center-construction",
+          "checkedAt": "2026-10-30T03:42:02.245Z",
+          "bodySha256": "4105a51a61bec9bb3a3cfe09f58f66f963d0ab8ae180a0fc0da28824d5818b5d",
+          "provider": "breezy",
+          "datePosted": "2026-10-28"
+        },
+        "slug": "pcac"
+      },
+      "payload": {
+        "text": "Bitdeer is hiring Procurement Category Lead (AI & Crypto Data Center Construction): https://hashtagweb3.com/pcac/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pcac/li?og=7",
+          "title": "Procurement Category Lead (AI & Crypto Data Center Construction) at Bitdeer",
+          "description": "Join Bitdeer as Procurement Category Lead. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pcac.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "ccda23b8-9b96-46f9-a804-6b39fc0bf4dc",
+      "verification": "creating"
     }
   ]
 }
