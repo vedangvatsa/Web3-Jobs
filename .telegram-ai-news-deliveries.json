@@ -3025,7 +3025,7 @@
     "sentAt": "2026-11-03T11:35:37.680Z"
   },
   "392126e3-c5e2-41ff-9747-fb6725e99d76": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-04T11:34:07.422Z",
     "stories": [
       {
@@ -3055,6 +3055,8 @@
         "originalTitle": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal"
       }
     ],
-    "slotKey": "2026-11-04:afternoon"
+    "slotKey": "2026-11-04:afternoon",
+    "messageId": 193451,
+    "sentAt": "2026-11-04T11:34:21.493Z"
   }
 }

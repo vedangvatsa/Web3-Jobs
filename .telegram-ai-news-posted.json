@@ -867,6 +867,9 @@
   "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
   "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
   "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+  "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+  "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+  "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2383,6 +2386,12 @@
   "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
   "Apple explores revenue options for third-party AI apps",
   "Apple may try to increase revenue by doing…something with third-party AI apps",
+  "Anthropic develops system to verify AI model identity",
+  "Anthropic is working on a system to prove AI models’ identity",
+  "Ballistic Ventures seeks $490 million for cybersecurity funds",
+  "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+  "Palantir U.S. Commercial Revenue Exceeds Government Sales",
+  "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2767,5 +2776,8 @@
   "fp:access|activ|bot|cit|comput|conversational|cost|due|elon|expens",
   "fp:agent|aim|alignment|check|choic|complianc|follow|framework|gam|how",
   "fp:000|appl|approximately|automation|com|communication|cost|design|develop|devic",
-  "fp:app|appl|call|discuss|dur|earn|executiv|explor|external|increas"
+  "fp:app|appl|call|discuss|dur|earn|executiv|explor|external|increas",
+  "fp:allow|anthropic|confirm|cryptographically|develop|flashprov|generat|given|identity|protocol",
+  "fp:130m|360m|490m|ballistic|boom|cybersecurity|direct|driven|firm|flagship",
+  "fp:american|business|commercial|contract|earn|exc|forebod|government|hid|insid"
 ]
