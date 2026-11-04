@@ -98340,7 +98340,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "422bdbd7-ae9d-4b68-a3c1-4df3351c1095",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7523710652851335168"
     }
   ]
 }
