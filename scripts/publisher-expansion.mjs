@@ -135,34 +135,62 @@ async function readReceipt(path) {
   return { sha: data.sha, receipt: JSON.parse(Buffer.from(data.content, 'base64').toString('utf8')) };
 }
 
+async function readReceiptBlob(path) {
+  const { sha, receipt } = await readReceipt(path);
+  return { sha, receipt };
+}
+
+async function putReceipt(path, receipt, sha, message) {
+  const endpoint = `https://api.github.com/repos/vedangvatsa/Web3-Jobs/contents/${path}`;
+  return fetch(endpoint, {
+    method: 'PUT',
+    headers,
+    signal: AbortSignal.timeout(20_000),
+    body: JSON.stringify({
+      branch: 'main',
+      message,
+      content: Buffer.from(JSON.stringify(receipt, null, 2) + '\n').toString('base64'),
+      ...(sha && { sha }),
+    }),
+  });
+}
+
 async function writeReceipt(path, receipt, sha, message) {
   const endpoint = `https://api.github.com/repos/vedangvatsa/Web3-Jobs/contents/${path}`;
-  let saved;
-  for (let attempt = 0; ; attempt++) {
-    saved = await fetch(endpoint, {
-      method: 'PUT',
-      headers,
-      signal: AbortSignal.timeout(20_000),
-      body: JSON.stringify({
-        branch: 'main',
-        message,
-        content: Buffer.from(JSON.stringify(receipt, null, 2) + '\n').toString('base64'),
-        ...(sha && { sha }),
-      }),
-    });
-    if (saved.ok) break;
+  let remainingAttempts = 4;
+  while (true) {
+    const saved = await putReceipt(path, receipt, sha, message);
+    if (saved.ok) {
+      const ack = await saved.json();
+      if (!ack.content?.sha || !ack.commit?.sha) throw new Error('Receipt acknowledgement missing; do not resend.');
+      return ack.content.sha;
+    }
     // Transient GitHub 5xx: safe to retry; receipt writes are CAS idempotent and
     // no message is sent until this write succeeds.
-    if (saved.status >= 500 && attempt < 4) {
-      console.log(`Receipt write got ${saved.status}; retry ${attempt + 1}/4`);
-      await new Promise((resolve) => setTimeout(resolve, 15_000 * (attempt + 1)));
+    if (saved.status >= 500 && remainingAttempts > 0) {
+      remainingAttempts--;
+      console.log(`Receipt write got ${saved.status}; retry ${4 - remainingAttempts}/4`);
+      await new Promise((resolve) => setTimeout(resolve, 15_000));
+      continue;
+    }
+    // 409 means the blob changed since our read. A 5xx attempt may have committed
+    // server-side (phantom commit). Re-read, accept the identical landing, or merge
+    // our update over current content and retry with the fresh sha.
+    if (saved.status === 409 && remainingAttempts > 0) {
+      remainingAttempts--;
+      const { sha: currentSha, receipt: currentReceipt } = await readReceiptBlob(path);
+      if (currentReceipt && JSON.stringify(currentReceipt) === JSON.stringify(receipt)) {
+        console.log('Receipt content already present after conflict; accepting landing.');
+        return currentSha;
+      }
+      const merged = { ...(currentReceipt || {}), ...receipt };
+      console.log('Receipt CAS conflict; re-reading and merging latest content.');
+      sha = currentSha;
+      receipt = merged;
       continue;
     }
     throw new Error(`Receipt write failed: ${saved.status}; do not resend.`);
   }
-  const ack = await saved.json();
-  if (!ack.content?.sha || !ack.commit?.sha) throw new Error('Receipt acknowledgement missing; do not resend.');
-  return ack.content.sha;
 }
 
 await mkdir('outbox', { recursive: true });
