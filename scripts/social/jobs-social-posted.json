@@ -99490,7 +99490,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "21160b18-aa04-41d2-a178-a68c9d58ff42",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe991c0a957f89aa9461df7bc10f28284c4d5e8ca"
     }
   ]
 }
