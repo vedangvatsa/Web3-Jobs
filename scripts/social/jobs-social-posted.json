@@ -99598,7 +99598,8 @@
       },
       "account": "channel:build",
       "attemptId": "f8ac7649-ed2d-4343-95cb-bbd42f627fcf",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xeb9edbe79917beccacf70fa84a79453460e01ef7"
     }
   ]
 }
