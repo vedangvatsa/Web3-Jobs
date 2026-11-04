@@ -97560,6 +97560,34 @@
       "verification": "verified",
       "postId": "6aeb18e76e21919416d69a3c",
       "permalink": "https://twitter.com/hashtag_web3/status/2117944243087925645"
+    },
+    {
+      "slug": "do24",
+      "company": "Ripple",
+      "title": "Senior DevOps Engineer",
+      "platform": "threads",
+      "postedAt": "2026-11-04T11:37:07.866Z",
+      "expectedText": "Ripple is hiring Senior DevOps Engineer: https://hashtagweb3.com/do24/th?og=7",
+      "snapshot": {
+        "id": "8330754",
+        "title": "Senior DevOps Engineer",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8330754?gh_jid=8330754",
+        "date": "2026-10-30T09:34:52-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "London, UK",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "do24"
+      },
+      "payload": {
+        "text": "Ripple is hiring Senior DevOps Engineer: https://hashtagweb3.com/do24/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/do24/th?og=7"
+      },
+      "attemptId": "84844961-feed-4e3b-ae17-4b32a6b98679",
+      "verification": "creating"
     }
   ]
 }
