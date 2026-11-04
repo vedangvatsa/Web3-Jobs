@@ -99141,7 +99141,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "0b5bf301-4fce-42cf-8481-d3fd1f425973",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6aeb8ba1b1d4b989c0c927e7"
     }
   ]
 }
