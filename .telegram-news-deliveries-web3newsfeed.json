@@ -3115,7 +3115,7 @@
     "sentAt": "2026-11-03T11:41:12.236Z"
   },
   "1f50e461-4a3c-4f4b-952f-8448f0c671ec": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-04T11:32:57.410Z",
     "stories": [
       {
@@ -3143,6 +3143,8 @@
         "originalTitle": "Anza Tells Solana Validators to Mitigate Critical Linux Kernel Flaw"
       }
     ],
-    "slotKey": "2026-11-04:afternoon"
+    "slotKey": "2026-11-04:afternoon",
+    "messageId": 65802,
+    "sentAt": "2026-11-04T11:33:00.392Z"
   }
 }
