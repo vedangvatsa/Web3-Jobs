@@ -98988,7 +98988,8 @@
       },
       "account": "channel:product",
       "attemptId": "54569342-b696-411b-9401-2bcb5d7f6c47",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe9de554836dee833afe8acb8de54a29a483acf5f"
     }
   ]
 }
