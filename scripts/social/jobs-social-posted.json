@@ -99186,6 +99186,34 @@
       "attemptId": "1f7af28c-742c-4c54-8c40-80b177d23502",
       "verification": "verified",
       "postId": "urn:li:share:7523833272716431360"
+    },
+    {
+      "slug": "pm349",
+      "company": "StraitsX",
+      "title": "Product Manager, Internal Tools",
+      "platform": "facebook",
+      "postedAt": "2026-11-04T19:42:53.955Z",
+      "expectedText": "StraitsX is hiring Product Manager, Internal Tools: https://hashtagweb3.com/pm349/fb?og=7",
+      "snapshot": {
+        "id": "5017286101",
+        "title": "Product Manager, Internal Tools",
+        "company": "StraitsX",
+        "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5017286101",
+        "date": "2026-10-30T08:22:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: StraitsX [straitsx]",
+        "location": "Jakarta, Indonesia",
+        "department": "STX - Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm349"
+      },
+      "payload": {
+        "message": "StraitsX is hiring Product Manager, Internal Tools: https://hashtagweb3.com/pm349/fb?og=7",
+        "link": "https://hashtagweb3.com/pm349/fb?og=7"
+      },
+      "attemptId": "a182b324-4646-40b8-869a-88196d4a3f58",
+      "verification": "creating"
     }
   ]
 }
