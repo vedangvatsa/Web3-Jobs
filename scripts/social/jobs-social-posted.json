@@ -99141,8 +99141,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "0b5bf301-4fce-42cf-8481-d3fd1f425973",
-      "verification": "pending",
-      "postId": "6aeb8ba1b1d4b989c0c927e7"
+      "verification": "verified",
+      "postId": "6aeb8ba1b1d4b989c0c927e7",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7523833207981797376"
     }
   ]
 }
