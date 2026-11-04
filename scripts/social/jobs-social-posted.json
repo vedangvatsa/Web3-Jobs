@@ -98297,8 +98297,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "b2a78c05-58cb-4f54-a5fc-38055ff38aca",
-      "verification": "pending",
-      "postId": "6aeb19766e21919416d6da8a"
+      "verification": "verified",
+      "postId": "6aeb19766e21919416d6da8a",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7523710618126835712"
     }
   ]
 }
