@@ -103701,7 +103701,8 @@
       },
       "account": "profile",
       "attemptId": "aa2e3480-6b9e-4caa-b40a-eddce492fc4f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8f8accf9647eeabc6c0ac9a169e3b4fa07a93675"
     }
   ]
 }
