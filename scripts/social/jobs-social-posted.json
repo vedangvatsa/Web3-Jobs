@@ -102130,7 +102130,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "433bbed5-259b-44ce-9463-abf8deb51faa",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x653c1e4d90025b571e4872cd56d4c3627b5bbd2e"
     }
   ]
 }
