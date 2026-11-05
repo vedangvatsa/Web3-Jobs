@@ -101344,7 +101344,8 @@
       },
       "account": "channel:developers",
       "attemptId": "f739a5d3-bd19-43fe-81aa-f5074ba62956",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb314da7805b07bd5f15df98cc0fbef4d3540e785"
     }
   ]
 }
