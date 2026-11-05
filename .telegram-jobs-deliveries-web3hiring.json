@@ -14488,7 +14488,7 @@
     "sentAt": "2026-11-05T19:46:09.962Z"
   },
   "876d77b1-0a48-4cc9-9413-6682895f2ce7": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-05T19:46:12.154Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -14600,6 +14600,8 @@
       }
     ],
     "message": "- Very AI is hiring <a href=\"https://hashtagweb3.com/sls392?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Business Development</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/eng380?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer</a>\n- StraitsX is hiring <a href=\"https://hashtagweb3.com/ops134?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Commercial Revenue Operations Manager</a>\n- 0x is hiring <a href=\"https://hashtagweb3.com/pm35?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer, API Products</a>\n- Arbitrum is hiring <a href=\"https://hashtagweb3.com/pm331?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sr Product Marketing Manager</a>",
-    "slotKey": "2026-11-05:evening"
+    "slotKey": "2026-11-05:evening",
+    "messageId": 171,
+    "sentAt": "2026-11-05T19:46:15.037Z"
   }
 }
