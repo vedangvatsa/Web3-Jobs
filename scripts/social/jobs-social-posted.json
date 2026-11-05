@@ -103131,7 +103131,8 @@
       },
       "account": "channel:build",
       "attemptId": "3825ea75-1a02-45e1-9617-6eee3046a70d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc4aaef4409b99eacf734a43d66e6a61fb2c12eb6"
     }
   ]
 }
