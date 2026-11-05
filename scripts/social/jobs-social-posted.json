@@ -104448,8 +104448,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "d82bdcaa-8b37-426c-bae8-f9e726067b91",
-      "verification": "pending",
-      "postId": "6aec6a4cf26542fc33d36be1"
+      "verification": "verified",
+      "postId": "6aec6a4cf26542fc33d36be1",
+      "permalink": "https://twitter.com/hashtag_web3/status/2118306519561216355"
     }
   ]
 }
