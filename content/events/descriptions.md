@@ -31251,18 +31251,6 @@ All hackathon winners are interviewed and considered for the Colosseum accelerat
 
 All workshops stream live on Discord, including the kickoff with the Colosseum founders. Participants can watch live, ask questions and follow the program through the event.
 
-<a id="event-3b86387eec5520db"></a>
-
-## CoinFerenceX Singapore 2026
-
-- Record: `ma-coinferencex-singapore-2026`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T00:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://coinferencex.com/singapore>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-253f88633af3c149"></a>
 
 ## Solana Mini Hacker House x 021Lab · Singapore 2026
@@ -31782,30 +31770,6 @@ _________________
 [www.tradingbattles.com](https://www.tradingbattles.com)
 
 Trading Battles is the infrastructure layer for 24/7 competitive trading, transforming trading into a new category of esports.
-
-<a id="event-015c77b515b7bca4"></a>
-
-## Online Bitcoin Hangout
-
-- Record: `mu-316461100`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T18:30:00-04:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/bitcoincharlotte/events/316461100/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-5b9a9cf1511341dd"></a>
-
-## Maryland Blockchain Association & CryptoMondays Virtual Meetup
-
-- Record: `mu-315962973`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T19:00:00-04:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/www-marylandblockchainassociation-org/events/315962973/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-9c190bb514f05ef4"></a>
 
@@ -47465,18 +47429,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-34b711fa770ebb08"></a>
-
-## Superteam India Poker Night
-
-- Record: `luma-host-evt-evt-uZcNvXgLxoQ26if`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T16:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/stin-pokernight>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-bac35965af305915"></a>
 
 ## Bitcoin with Coffee #15
@@ -52483,6 +52435,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-07T16:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/0awmhyao>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-34b711fa770ebb08"></a>
+
+## Superteam India Poker Night
+
+- Record: `luma-host-evt-evt-uZcNvXgLxoQ26if`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-07T16:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/stin-pokernight>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

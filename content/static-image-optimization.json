@@ -3585,10 +3585,6 @@
       "sha256": "f4312035ffff83dac8be8f3955b825da0a8b8ba53bd084436f700fa750f25038",
       "status": "optimized"
     },
-    "/events/luma-host-evt-evt-uzcnvxglxoq26if-810bcfc1.webp": {
-      "sha256": "6600b7bc1036868baad396d28e61f5427688bf0a4487fbf663e3f3f5a8831fa1",
-      "status": "optimized"
-    },
     "/events/luma-host-evt-evt-vfysso13k4vqj7e-bca03bf6.webp": {
       "sha256": "b185bb47797775597e8030ccdb95737b81ee36dc82f48bd93a931ca40035598a",
       "status": "optimized"
