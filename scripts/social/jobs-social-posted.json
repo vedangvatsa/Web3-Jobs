@@ -105107,6 +105107,46 @@
       "attemptId": "b8a747c5-3c1f-434c-ae67-8fa40855495b",
       "verification": "verified",
       "postId": "0xb9856c8d13bac634405905dc963e50fdb9b65bca"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager: https://hashtagweb3.com/ops141/li?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager: https://hashtagweb3.com/ops141/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ops141/li?og=7",
+          "title": "Finance Operations Senior Manager at OKX",
+          "description": "Join OKX as Finance Operations Senior Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ops141.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "f132bac1-6af7-44b5-9bdc-6bdecf5c0fed",
+      "verification": "creating"
     }
   ]
 }
