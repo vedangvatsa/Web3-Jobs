@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T09:48:28.561490+00:00",
+  "generatedAt": "2026-11-05",
   "policy": "Platforms that onboard external publishers/feeds. Excludes peer news publishers and already-contacted msn/newsbreak.",
   "excludedAlreadyContacted": [
     "msn",
@@ -340,14 +340,12 @@
       "name": "Feeder",
       "url": "https://feeder.co/",
       "kind": "feed-discovery",
-      "email": null,
-      "emailSource": null,
-      "emailNote": null,
-      "formUrls": [
-        "https://feeder.co/contact"
-      ],
-      "route": "form",
-      "researchStatus": "unreviewed"
+      "email": "support@feeder.co",
+      "emailSource": "https://feeder.co/pages/contact-us page text (rendered, harvest batch-1)",
+      "emailNote": "verified 2026-11-04 batch-1; 2026-11-05 re-render inconclusive (JS)",
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "verified"
     },
     {
       "name": "Feedly",
@@ -428,14 +426,12 @@
       "name": "Inoreader",
       "url": "https://www.inoreader.com/",
       "kind": "feed-discovery",
-      "email": null,
-      "emailSource": null,
-      "emailNote": null,
-      "formUrls": [
-        "https://www.inoreader.com/contact"
-      ],
-      "route": "form",
-      "researchStatus": "unreviewed"
+      "email": "support@inoreader.com",
+      "emailSource": "https://www.inoreader.com/contact page text",
+      "emailNote": "verified (re-confirmed 2026-11-05)",
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "verified"
     },
     {
       "name": "Inshorts",
@@ -1519,6 +1515,96 @@
       "email": "sales@coinstats.app",
       "emailSource": "https://coinstats.app/contact/ page text",
       "emailNote": "verified",
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "verified"
+    },
+    {
+      "name": "NewsWhip",
+      "url": "https://www.newswhip.com/",
+      "kind": "publisher-platform",
+      "email": "research@newswhip.com",
+      "emailSource": "https://www.newswhip.com/contact-us/ page text",
+      "emailNote": "verified",
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "verified"
+    },
+    {
+      "name": "Dubai PRNetwork",
+      "url": "https://www.dubaiprnetwork.com/",
+      "kind": "news-distribution",
+      "email": "editor@dubaiprnetwork.com",
+      "emailSource": "https://www.dubaiprnetwork.com/contactus.aspx page text",
+      "emailNote": "verified",
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "verified"
+    },
+    {
+      "name": "MindStick",
+      "url": "https://www.mindstick.com/",
+      "kind": "news-aggregator",
+      "email": "submit.article@mindstick.com",
+      "emailSource": "https://www.mindstick.com/contact page text",
+      "emailNote": "verified (article-submission route)",
+      "formUrls": [
+        "https://www.mindstick.com/contact"
+      ],
+      "route": "email",
+      "researchStatus": "verified"
+    },
+    {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/",
+      "kind": "news-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": "on/about pages expose only advertising routes (sponsor@, events@, my.podcast@); no publisher-onboarding channel — excluded from sends",
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "researched"
+    },
+    {
+      "name": "PR Underground",
+      "url": "https://www.prunderground.com/",
+      "kind": "news-distribution",
+      "email": "help@prunderground.com",
+      "emailSource": "https://www.prunderground.com/contact/ page text",
+      "emailNote": "verified (re-confirmed 2026-11-05)",
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "verified"
+    },
+    {
+      "name": "ClickPress",
+      "url": "https://www.clickpress.com/",
+      "kind": "news-distribution",
+      "email": "editor@clickpress.com",
+      "emailSource": "https://clickpress.com/releases/contact.shtml page text",
+      "emailNote": "verified (re-confirmed 2026-11-05)",
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "verified"
+    },
+    {
+      "name": "1888 Press Release",
+      "url": "https://www.1888pressrelease.com/",
+      "kind": "news-distribution",
+      "email": "support_team@1888pressrelease.com",
+      "emailSource": "https://www.1888pressrelease.com/contact.html page text (harvest batch-1)",
+      "emailNote": "verified 2026-11-04 batch-1; 2026-11-05 re-render inconclusive (JS)",
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "verified"
+    },
+    {
+      "name": "PR Fire",
+      "url": "https://www.prfire.co.uk/",
+      "kind": "news-distribution",
+      "email": "hello@prfire.com",
+      "emailSource": "https://www.prfire.co.uk/contact page text",
+      "emailNote": "verified (re-confirmed 2026-11-05)",
       "formUrls": [],
       "route": "email",
       "researchStatus": "verified"
