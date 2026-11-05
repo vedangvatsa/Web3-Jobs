@@ -100814,6 +100814,46 @@
       "verification": "verified",
       "postId": "6aebf963f283c8dd45b80171",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7523951060533813248"
+    },
+    {
+      "slug": "sls365",
+      "company": "Alpaca",
+      "title": "Senior Accountant",
+      "platform": "linkedin",
+      "postedAt": "2026-11-05T03:32:18.928Z",
+      "expectedText": "Alpaca is hiring Senior Accountant: https://hashtagweb3.com/sls365/li?og=7",
+      "snapshot": {
+        "id": "6238284004",
+        "title": "Senior Accountant",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6238284004",
+        "date": "2026-10-29T14:48:57-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "North America - Remote",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls365"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Senior Accountant: https://hashtagweb3.com/sls365/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls365/li?og=7",
+          "title": "Senior Accountant at Alpaca",
+          "description": "Join Alpaca as Senior Accountant. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls365.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "926e02ba-cb94-437d-a8f0-41c13dd0ec96",
+      "verification": "creating"
     }
   ]
 }
