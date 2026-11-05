@@ -4873,10 +4873,6 @@
       "sha256": "a52bdb24b3e51de2d6dd30781b31e59816f2be6bfb3b6edb6e30602f1affcb03",
       "status": "optimized"
     },
-    "/events/token2049-evt-rbedxnyqtuewibm-a49711ad.webp": {
-      "sha256": "b0725b9347d7d1a575253982d4972d69b66f7f3ce05a6c6ac6757613378d77e6",
-      "status": "optimized"
-    },
     "/events/token2049-evt-rbn0pzpivcchpkd-d3338d51.webp": {
       "sha256": "b0a24c742fded7178d4827e1dde86f630f17854812da041121bec3efc0dbdd2e",
       "status": "retained"
@@ -5245,10 +5241,6 @@
       "sha256": "182f88711e6a94b7a6839947a46cd36e995d75505da612760765b2b8306c3c27",
       "status": "optimized"
     },
-    "/events/token2049-side-6a841e58244677004e8f4431-73078977.webp": {
-      "sha256": "d54272f0dbffc15aebd0129d3c4bc0389413ee7b1f41bfb947f14b94bbbbdae6",
-      "status": "retained"
-    },
     "/events/token2049-side-6a865a0a81489b66e4941879-83053036.webp": {
       "sha256": "42eec26cd394d8f8e6e6cf9ab860281d76b8475b46adc03c4f4eea4c96d903d2",
       "status": "retained"
@@ -5308,10 +5300,6 @@
     "/events/token2049-side-6a9912ffd567345aad68344b-a044e913.webp": {
       "sha256": "a306817e1905ca53505de43279c66b2377c5350e9149ebf780c62ecd4d568754",
       "status": "optimized"
-    },
-    "/events/token2049-side-6a9922a1d567345aad6834a6-0dc859db.webp": {
-      "sha256": "7809669654010d44e8c7aa27adad887d5ff85e18971df83a316e821233f024f4",
-      "status": "retained"
     },
     "/events/token2049-side-6a996e9c967be0befa88b3d7-b981cb5e.webp": {
       "sha256": "89768430dc8e50846043b069e03b247fb8c50e7c7b102a145080c10d027e68b8",
@@ -5576,10 +5564,6 @@
     "/events/w3v-agentic-money-2026-bf3fb6d9.webp": {
       "sha256": "4ee838ec1f01ec1b323d63088d7484a5a6c5f44564271cb66537ce4d535fd4fa",
       "status": "optimized"
-    },
-    "/events/w3v-ai-formal-verification-for-onchain-finance-0ec7f514.webp": {
-      "sha256": "d7cba2a6331b982cfc9a6eab4f9491d132416fbf3ce6f41527b360faa64244a1",
-      "status": "retained"
     },
     "/events/w3v-ai-future-forum-dubai-2026-340d6dcc.webp": {
       "sha256": "f4d4ffc18bbcffbdb3512c1f9d6f0141511281dbfe2d2319e941d136553a0377",

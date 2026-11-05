@@ -5307,5 +5307,33 @@
       "stable-run",
       "token2049-evt-tkfuyu8bizreuiv"
     ]
+  },
+  "w3v-ai--formal-verification-for-onchain-finance": {
+    "until": "2027-11-05T04:07:06.037Z",
+    "slugs": [
+      "afvof",
+      "w3v-ai--formal-verification-for-onchain-finance"
+    ]
+  },
+  "token2049-side-6a9922a1d567345aad6834a6": {
+    "until": "2027-11-05T04:07:06.037Z",
+    "slugs": [
+      "cndcd",
+      "token2049-side-6a9922a1d567345aad6834a6"
+    ]
+  },
+  "token2049-side-6a841e58244677004e8f4431": {
+    "until": "2027-11-05T04:07:06.037Z",
+    "slugs": [
+      "ddd",
+      "token2049-side-6a841e58244677004e8f4431"
+    ]
+  },
+  "token2049-evt-RBEDxNYQTuEwIbm": {
+    "until": "2027-11-05T04:07:06.037Z",
+    "slugs": [
+      "flop-launch",
+      "token2049-evt-rbedxnyqtuewibm"
+    ]
   }
 }

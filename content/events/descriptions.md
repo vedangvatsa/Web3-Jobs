@@ -4758,22 +4758,6 @@ Digital Asset Yield Summit Singapore is scheduled for 6 October 2026 at 09:00 (A
 
 Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
 
-<a id="event-4bfb30dc01b395d4"></a>
-
-## Flop Launch Event - Singapore / Token2049
-
-- Record: `token2049-evt-RBEDxNYQTuEwIbm`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-06T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/km4d5sxq>
-
-### About the event
-
-Flop Launch Event - Singapore / Token2049 is scheduled for 6 October 2026 at 09:00 (Asia/Singapore) in Singapore. Hosted by Maelstrom Events.
-
-Registration requires host approval. Registration is listed as free.
-
 <a id="event-295986388802d297"></a>
 
 ## OKX Now, Singapore
@@ -31704,30 +31688,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-0f61f415073f749e"></a>
-
-## AI & Formal Verification for Onchain Finance \| Token2049 Singapore
-
-- Record: `luma-host-evt-evt-kD8MODAGxp3E7nT`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-06T01:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/craugplf>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-f2d5ea519a5880f4"></a>
-
-## Flop Launch Event - Singapore / Token2049
-
-- Record: `luma-host-evt-evt-RBEDxNYQTuEwIbm`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-06T01:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/km4d5sxq>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-495ae72599e1f8d4"></a>
 
 ## OKX Now, Singapore
@@ -31749,18 +31709,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-06T01:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/solana-summit-singapore-2026>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-e5afd1e7b97ad94f"></a>
-
-## Cardano node diversity celebration day
-
-- Record: `luma-host-evt-evt-ZMjeB8opDVUZQjV`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-06T01:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/x9dm535u>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -31949,82 +31897,6 @@ DSRV is a blockchain infrastructure company providing services for financial ins
 Alchemy provides blockchain infrastructure and developer tools for building and scaling onchain applications. Its platform brings together APIs, blockchain data, and transaction infrastructure, supporting developers and enterprises building digital asset products, payments, and financial services across multiple networks.
 
 [Website](https://www.alchemy.com/) | [X](https://x.com/AlchemyPlatform)
-
-<a id="event-49e5750bf262f82f"></a>
-
-## Cardano node diversity celebration day
-
-- Record: `token2049-side-6a9922a1d567345aad6834a6`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-06T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/x9dm535u>
-
-### About the event
-
-One network. Many builders. A stronger future.
-
-Cardano node diversity is no longer just an ambition. It is becoming real.
-
-On the 6th October in Singapore, Cardano Diversity Celebration Day will bring together representatives from Cardano's different node implementations to share their progress, compare timelines and discuss how independent implementations can strengthen the network. The event will also introduce the Diversity Ambassador Program and invite feedback on the next phase of this collective effort.
-
-Why does this matter? Because a truly resilient blockchain should never depend on one team, one codebase or one way of solving a problem. Independent node implementations give Cardano more protection, more opportunities for innovation and more freedom to evolve.
-
-Node diversity reduces common-mode risk: when implementations are developed independently, they can reveal different edge cases, validate protocol behaviour from different perspectives. It also creates room for improvements in resource efficiency, observability, tooling and operator experience.
-
-This is not about replacing one implementation with another. It is about building complementary infrastructure - giving Cardano more resilience, more engineering options and greater confidence as the protocol evolves.
-
-Cardano Diversity Celebration Day is where the people building that future come together and where the wider community gets to see what comes next
-
-The event will be broadcasted from Singapore but everyone is welcome to join us online.
-
-More information about the even: https://hackmd.io/@Amaru/DiversityCelebrationDraft
-
-### Agenda
-
-- Why diversity matters: decentralization, security and resilience
-- Node implementers progress update and timelines (every Cardano node implementer representative will give an overview of their project)
-- Amaru incoming initiative: Cardano diversity ambassador program, 2027 Amaru proposal first ideas
-
-<a id="event-274d2c1f3337dad6"></a>
-
-## AI & Formal Verification for Onchain Finance \| Token2049 Singapore
-
-- Record: `w3v-ai--formal-verification-for-onchain-finance`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-06T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/craugplf>
-
-### About the event
-
-AI & Formal Verification for Onchain Finance
-
-Defending DeFi, stablecoins and RWAs in the age of AI-powered attacks.
-
-A focused, invite-only gathering for the researchers, founders, and protocol teams shaping the next era of onchain finance, at a moment when attackers have started turning to AI and defense must move from "tested" to "proven."
-
-This session examines a shift already underway. As stablecoins mature into payment rails and RWAs bring real-world value onchain, the value at stake has surged, while AI is making attacks faster, cheaper, and harder to anticipate. Drawing on real exploit investigations and deep security experience across DeFi, stablecoin, and RWA protocols, the conversation centers on what provable security actually looks like when the threat itself becomes intelligent.
-
-Rather than a one-way panel, this is built for genuine exchange among people solving the same problems. Discussions are structured, candid, and grounded in real systems, giving technical and business leaders room to challenge assumptions, compare defensive approaches, and engage directly with leading researchers and peers navigating the same frontier.
-
-### What to Expect
-
-Honest discussion on how AI is reshaping both attack and defence across onchain finance.
-
-Deep dives into recent exploits, failure modes, and the patterns behind them.
-
-A practical look at formal verification, and why provable security is becoming the standard for stablecoins, RWAs, and institutional-grade protocols.
-
-### Who Should Attend
-
-Founders - CTOs - Stablecoin & RWA Teams - Protocol Architects - Security Researchers - Auditors - Institutional & DeFi Builders
-
-Location: Singapore (private venue shared with approved attendees)
-
-Each invitation is personally confirmed.
-
-Seats are extremely limited, and you must confirm.
 
 <a id="event-3a5c64a6ee6f78d2"></a>
 
@@ -34404,36 +34276,6 @@ https://www.linkedin.com/in/chan-wei-xiang/
 Consent Notice
 
 By registering for the Web3 Accountant Meet, you consent to the collection and use of your contact details for event-related communications, as well as future marketing and promotional purposes.
-
-<a id="event-7f39529d4074c889"></a>
-
-## DeltaV Demo Day
-
-- Record: `token2049-side-6a841e58244677004e8f4431`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-06T10:00:00+08:00
-- Description: Source-backed
-- Original page: <https://deltav.monad.xyz/programs/deltav-demo-day>
-
-### About the event
-
-DeltaV Demo Day
-
-One room. 50+ investors. The top 1% of founders.
-
-DeltaV Demo Day takes place on October 6 in Singapore during TOKEN2049 Week. The event is part of Open, the inaugural flagship event of the Monad ecosystem, and founders can apply to pitch through the organizer's application page.
-
-### Who attends
-
-More than 50 investors from previous demo days attend the event, including Paradigm, Dragonfly, Pantera, Castle Island Ventures, Electric Capital, Blockchain Capital, Variant, Framework Ventures, Animoca Brands, Hashed, BITKRAFT Ventures, CoinFund, Archetype, ParaFi Capital, Maelstrom, GSR, Brevan Howard Digital, Spartan Group, IOSG Ventures, Faction, HTX Ventures, White Star Capital, Flowdesk, Mercuryo, Bankless Ventures, Reverie, Greenfield, RockawayX, SevenX Ventures, Fabric Ventures, CMCC Global, Superscrypt, Volt Capital, Eon Capital, Primitive Ventures, Metalayer Ventures and Collab+Currency.
-
-### Format
-
-At most 10 teams pitch to the room of investors. Applications are currently open, and selected founders receive details on timing and attendance through the organizer.
-
-### Event details
-
-The demo day runs on October 6 in Singapore during TOKEN2049 Week. Attendance is free. Founders apply to pitch in advance, and the organizer confirms timing and attendance details with selected teams. The demo day runs alongside TOKEN2049 Singapore week programming in Singapore.
 
 <a id="event-87476b79ee27e8a4"></a>
 

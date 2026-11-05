@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-05T03:32:22.914Z",
+  "checkedAt": "2026-11-05T04:07:12.241Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -10,11 +10,11 @@
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 215,
-    "excluded": 350,
-    "needs-review": 43
+    "existing": 214,
+    "excluded": 353,
+    "needs-review": 38
   },
-  "importedTotal": 231,
+  "importedTotal": 230,
   "added": [],
   "receipts": [
     {
@@ -132,17 +132,6 @@
       ],
       "status": "existing",
       "slug": "okx-now"
-    },
-    {
-      "url": "https://luma.com/km4d5sxq",
-      "name": "Flop Launch Event",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "flop-launch"
     },
     {
       "url": "https://luma.com/kvlkxq0p",
@@ -2546,16 +2535,6 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/x9dm535u",
-      "name": "Cardano Node Diversity Celebration Day",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
       "url": "https://luma.com/k3s11wzz",
       "name": "Web3 Workouts: Calisthenics w Caliversity in Singapore",
       "sources": [
@@ -2586,6 +2565,17 @@
       ],
       "status": "needs-review",
       "reason": "Luma page returned HTTP 404"
+    },
+    {
+      "url": "https://luma.com/km4d5sxq",
+      "name": "Flop Launch Event",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://luma.com/bbstr33c",
@@ -2638,26 +2628,6 @@
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
         "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://deltav.monad.xyz/programs/deltav-demo-day",
-      "name": "DeltaV Demo Day",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/s8i7jczp",
-      "name": "ACTIVATE: Sunrise Yoga",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
@@ -6322,8 +6292,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://luma.com/TBE-Fasset-Reserve",
@@ -6331,8 +6301,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://luma.com/9eycszeo",
@@ -6340,8 +6310,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://luma.com/2ezvuwxk",
@@ -6349,8 +6319,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://www.sui.io/basecamp",
@@ -6358,8 +6328,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "",

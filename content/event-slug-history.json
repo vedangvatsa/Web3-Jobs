@@ -105,10 +105,6 @@
     "slug": "token2049-origins",
     "aliases": []
   },
-  "token2049-evt-RBEDxNYQTuEwIbm": {
-    "slug": "flop-launch",
-    "aliases": []
-  },
   "token2049-evt-SowgDzyegYReFYH": {
     "slug": "okx-now",
     "aliases": []
@@ -121,20 +117,12 @@
     "slug": "hfd",
     "aliases": []
   },
-  "w3v-ai--formal-verification-for-onchain-finance": {
-    "slug": "afvof",
-    "aliases": []
-  },
   "w3v-open": {
     "slug": "open",
     "aliases": []
   },
   "token2049-side-6a7a76aa3647af5c01c0653d": {
     "slug": "solana-summit",
-    "aliases": []
-  },
-  "token2049-side-6a9922a1d567345aad6834a6": {
-    "slug": "cndcd",
     "aliases": []
   },
   "token2049-side-6a98c34d967be0befa88b066": {
@@ -166,10 +154,6 @@
   },
   "w3v-proof-of-health-2026": {
     "slug": "proof-health",
-    "aliases": []
-  },
-  "token2049-side-6a841e58244677004e8f4431": {
-    "slug": "ddd",
     "aliases": []
   },
   "luma-crypto-CuBqqXAPJTj9BgU": {
