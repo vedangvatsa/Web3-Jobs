@@ -130712,7 +130712,7 @@
         "id": "5652eed2b6a23af9e4d3",
         "day": "2026-11-05",
         "articleSlug": "bitgostacks",
-        "note": "Two independent sources read in full: Crypto Briefing (Nov 3) and Stacks Labs official blog (Nov 3). Qualification checks pass. Draft not started; needs image and audits.",
+        "note": "Rechecked both sources in full this run (Crypto Briefing Nov 3, Stacks Labs blog Nov 3). Qualification checks pass; drafting now.",
         "sourceChecks": [
           {
             "url": "https://cryptobriefing.com/bitgo-bitcoin-staking-stacks-institutional/",
@@ -130723,7 +130723,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-05T01:02:26.232Z",
+        "updatedAt": "2026-11-05T01:05:53.297Z",
         "approved": false,
         "mustReview": true
       }
