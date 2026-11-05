@@ -1,0 +1,26 @@
+---
+title: Mystery $106 million theft drains EU entity exchange accounts
+ogTitle: "MYSTERY $106 MILLION THEFT DRAINS EU ENTITY EXCHANGE ACCOUNTS"
+description: Onchain investigator ZachXBT said an unnamed European entity lost more than $106 million from centralized exchange accounts on Nov. 1, with the funds run through instant exchanges and Monero.
+image: /images/news/eustolen.jpg
+imageCaption: "European Union flags outside the Berlaymont building in Brussels. Photo: Thijs ter Haar via Wikimedia Commons (CC BY 2.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:European%20Union%20Flags%202.jpg
+category: News
+data-ai-hint: flags outside building
+publishedDate: '2026-11-05'
+lastUpdated: '2026-11-05'
+---
+
+An unidentified entity in the European Union may have lost more than $106 million from accounts at multiple cryptocurrency exchanges on Sunday, according to blockchain investigator ZachXBT, who laid out the case in a Monday post to his Telegram channel. The funds were withdrawn as USDC and USDT stablecoins from several centralized exchange accounts on Nov. 1, [Cointelegraph reported](https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain), and the affected entity and the exchanges involved have not been publicly named.
+
+ZachXBT identified 11 wallet addresses associated with the funds and described the movement of the money over the 24 hours that followed. He characterized the party that took the funds as an "illicit actor" operating across several exchanges rather than a single venue. The reports describe money leaving exchange accounts, not a flaw in a smart contract or a bridge. The suspected attacker swapped USDC for Ether, routed funds through instant exchange services including WellWallet and Kyrrex, converted some of the holdings into the privacy coin Monero through the swap service Wagyu, and bridged assets across several blockchains, [Decrypt reported](https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack). Instant exchanges process swaps with little identity verification, and Monero hides senders, receivers and amounts, which makes both useful for covering a trail.
+
+Swapping out of USDC and USDT also matters because the issuers of those stablecoins can freeze balances tied to stolen funds. Decrypt framed the trade as the reason the trail goes cold, since a swap into Ether or Monero puts the money outside the tokens issuers control. The suspect remains unidentified. ZachXBT said he could say "with a high degree of confidence" that the attacker is not North Korea's Lazarus Group, citing multiple laundering indicators, and Decrypt reported he did not name the victim.
+
+The Binance case offers the comparison point for both scale and response. Attackers drained about $6.3 billion from Binance's internet-connected hot wallets in the breach the exchange disclosed on Oct. 29, moving most of it in roughly 20 minutes, [Cointelegraph reported](https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack), and the FBI has attributed that attack to TraderTraitor, a North Korean group linked to Lazarus. In that case the stablecoin issuers moved quickly. Tether froze stolen USDT on Ethereum within 37 minutes and Circle froze all $823 million of the stolen USDC, locking up about 44% of the haul, according to blockchain analytics firm Elliptic, and North Korea's launderers have since spread the remaining funds across roughly 12,000 wallets.
+
+Cointelegraph's report also described a smaller incident from the same Monday. A wallet tied to King, an automated arbitrage bot on Solana, may have lost about $786,000, according to monitoring account Onchain Lens, which told the outlet the funds crossed several Solana wallets before moving to Ethereum through the bridge service Mayan. The group said the rapid transfers suggested an attempt to conceal the funds' origin and a possible wallet compromise, and King's operator has not confirmed any breach. Onchain Lens based that view on what it called unusual fund movements, rapid transfers and the cross-chain movement that followed.
+
+No comparable freeze has been reported in the EU case. Decrypt noted it is unclear whether any of the funds there have been frozen, and ZachXBT has not published a recovery figure or a victim name. Both the Sunday theft and the Monday post sit inside the week that opened with Binance's Thursday, Oct. 29 disclosure, an attack [described](https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain) as the largest cryptocurrency theft on record.
+
+ZachXBT's post arrived on Monday, the same day Brazilian exchange [Mercado Bitcoin said](https://cointelegraph.com/news/mercado-bitcoin-hack) it had paused deposits and withdrawals after a security breach of its own. [Cointelegraph](https://cointelegraph.com/news/mercado-bitcoin-hack) cited blockchain analysts who estimated more than $46 million, while [Decrypt](https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack) described a $40 million hack. Neither the post nor the reports built on it identify which exchanges the $106 million came out of, and neither states whether law enforcement has opened an investigation.
