@@ -105105,7 +105105,8 @@
       },
       "account": "channel:growth",
       "attemptId": "b8a747c5-3c1f-434c-ae67-8fa40855495b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb9856c8d13bac634405905dc963e50fdb9b65bca"
     }
   ]
 }
