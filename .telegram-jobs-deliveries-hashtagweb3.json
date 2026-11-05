@@ -7507,7 +7507,7 @@
     "sentAt": "2026-11-04T19:43:53.780Z"
   },
   "af19ef91-5aa8-40c4-a45a-b9cb3f265dec": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-05T03:33:01.480Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -7619,6 +7619,8 @@
       }
     ],
     "message": "- Bybit is hiring <a href=\"https://hashtagweb3.com/sls208?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">[EU] Business Development Specialist,Mini EU</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/mgr59?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Program Manager, Extensibility Platform</a>\n- Bitpanda is hiring <a href=\"https://hashtagweb3.com/sec140?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Expert, Information Security</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm122?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal / Senior Product Manager, Asset (Tax Reporting, Client Statements &amp; Portfolio)</a>\n- Elliptic is hiring <a href=\"https://hashtagweb3.com/pm325?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Compliance Product</a>",
-    "slotKey": "2026-11-05:morning"
+    "slotKey": "2026-11-05:morning",
+    "messageId": 156087,
+    "sentAt": "2026-11-05T03:33:06.580Z"
   }
 }
