@@ -125549,9 +125549,9 @@
       "articleSlug": "safubtc",
       "draftProgress": {
         "id": "a34bdce8f57402044165",
-        "day": "2026-11-03",
+        "day": "2026-11-05",
         "articleSlug": "safubtc",
-        "note": "Read Cointelegraph and Coin Courier on the 7,499 BTC SAFU drawdown. Image and draft still needed; Binance official announcement link noted.",
+        "note": "Re-read Cointelegraph and Coin Courier in full this run; matched the 7,499 BTC SAFU transfer, 15,000 to 7,500 BTC balance and 95% replenishment figures across both. Draft, image and primary Binance announcement still needed.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear",
@@ -125562,7 +125562,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-03T02:24:42.244Z",
+        "updatedAt": "2026-11-05T00:45:17.094Z",
         "approved": false,
         "mustReview": true
       }
