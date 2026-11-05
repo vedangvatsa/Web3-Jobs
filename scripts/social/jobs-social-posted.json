@@ -102819,7 +102819,8 @@
         "link_attachment": "https://hashtagweb3.com/brc/th?og=7"
       },
       "attemptId": "2de5232f-bfbf-4f1a-801f-495fae931a7d",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Employer application unverified: The operation was aborted due to timeout"
     }
   ]
 }
