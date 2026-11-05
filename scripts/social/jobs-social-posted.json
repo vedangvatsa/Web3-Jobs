@@ -104016,7 +104016,8 @@
       },
       "account": "channel:base",
       "attemptId": "3e3a57f3-816a-47a8-87c6-bbecc4c50d63",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xee1e9fa0967da2b49bf678ea815fe36b095ae08f"
     }
   ]
 }
