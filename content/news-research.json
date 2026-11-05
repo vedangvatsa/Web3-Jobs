@@ -131681,18 +131681,18 @@
         "id": "a87a0138cb01050fd0ce",
         "day": "2026-11-05",
         "articleSlug": "fakeinterview",
-        "note": "Read Bitcoin Magazine in full; The Defiant returned HTTP 403. Second-source candidates identified but not yet opened: BBC, Chainalysis blog, CoinDesk, Washington Post. Draft not started.",
+        "note": "Two independent sources read in full: Bitcoin Magazine (Nov 3 incident report details) and BBC (Nov 3). Qualification checks pass (concrete event, fresh, no duplicate). Draft not started; needs image and audits.",
         "sourceChecks": [
           {
             "url": "https://bitcoinmagazine.com/news/binance-says-6-34-billion-hack-job",
             "outcome": "read"
           },
           {
-            "url": "https://thedefiant.io/news/hacks/fake-job-interview-opened-path-to-6-34-billion-hack-binance-says",
-            "outcome": "blocked"
+            "url": "https://www.bbc.com/news/articles/ck5ynwz9gy67o",
+            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-05T00:40:41.900Z",
+        "updatedAt": "2026-11-05T01:02:23.027Z",
         "approved": false,
         "mustReview": true
       }
