@@ -14135,7 +14135,7 @@
     "sentAt": "2026-11-05T03:32:51.814Z"
   },
   "99ca22a6-ebbb-4754-a83f-031c7d8982af": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-05T11:32:23.105Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -14248,6 +14248,8 @@
       }
     ],
     "message": "- TRM Labs is hiring <a href=\"https://hashtagweb3.com/sls416?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sr. Strategic Account Director</a>\n- MoonPay is hiring <a href=\"https://hashtagweb3.com/eng627?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Software Engineer, Identity Platform</a>\n- Localcoin is hiring <a href=\"https://hashtagweb3.com/dev40?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Java Developer</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/mgr129?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff GRC Program Manager</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/eng343?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Associate/VP, Back-End Software Engineer</a>",
-    "slotKey": "2026-11-05:afternoon"
+    "slotKey": "2026-11-05:afternoon",
+    "messageId": 16610,
+    "sentAt": "2026-11-05T11:32:55.271Z"
   }
 }
