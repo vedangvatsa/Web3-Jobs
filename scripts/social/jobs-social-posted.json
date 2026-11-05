@@ -105393,7 +105393,8 @@
       },
       "account": "profile",
       "attemptId": "abd94bc9-8b67-4b18-b363-56ff43ac362c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x1962adaaafe7b3f57dc7ed3a099ea4649906dfb9"
     }
   ]
 }
