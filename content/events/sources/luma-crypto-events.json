@@ -40,55 +40,6 @@
     }
   },
   {
-    "id": "luma-crypto-bGWgAlfUqt19gq7",
-    "slug": "urc",
-    "name": "Utila Run Club: TOKEN2049",
-    "description": "## TOKEN2049 is a marathon. So warm up with a shorter one 👟\n\nJoin us for the first edition of the Utila Run Club.\n\nAn easy 5K morning run around Gardens by the Bay on the day before the conference kicks off. No pressure to set a PB, just some good people sharing a run, laugh and some coffee to start the week on the right foot.\n\nWe'll finish at a specialty coffee place for your daily dose of caffeine and sweets. There will also be an option to leave small personal items at the starting point.\n\nEveryone is welcome but spots are limited and first come first served.\n\nSo don't forget to pack your fastest running shoes. See you at the start! 🏁\n\n🏃 Easy-paced 5K run\n\n👕 DRI-FIT shirts included\n\n☕ Post-run coffee & pastries\n\n🎟️ Limited spots\n\n## About Utila:\n\n[Utila](https://utila.io/?utm_source=luma) is the leading stablecoin and digital asset infrastructure platform for fintechs, banks and enterprises. Utila enables organizations of all sizes to securely build, manage, and scale digital asset operations across stablecoin payments, treasury, trading, tokenization, and beyond. Trusted by 350+ industry leaders, Utila processes more than $30B in monthly volume and has secured over $500B in transactions to date.",
-    "startDate": "2026-10-05T23:00:00.000Z",
-    "endDate": "2026-10-06T01:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/utila-run-club",
-    "registrationUrl": "https://luma.com/utila-run-club",
-    "coverImage": "/events/luma-crypto-bgwgalfuqt19gq7-0705be99.webp",
-    "source": "luma-crypto",
-    "sideEventFor": [
-      "token2049"
-    ],
-    "hosts": [
-      "Utila .io",
-      "Paz"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Utila",
-      "url": "https://utila.io/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/utila-run-club",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/utila-run-club",
-      "eventId": "evt-bGWgAlfUqt19gq7",
-      "fetchedAt": "2026-09-19T23:46:17.028Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-yx5TMJkA5A4WXw1",
     "slug": "dasd",
     "name": "Digital Assets Summit 2026 (DAS2026)",
@@ -164,55 +115,6 @@
       "url": "https://luma.com/76y5n0b7",
       "eventId": "evt-yx5TMJkA5A4WXw1",
       "fetchedAt": "2026-09-19T23:46:17.817Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "luma-crypto-cLpIcq4MIfm8jHk",
-    "slug": "fcrda",
-    "name": "Financial Crime Risks in Digital Assets: A Breakfast Panel",
-    "description": "As digital assets move from the margins into core financial infrastructure, financial crime risk (FCR) teams face a widening set of challenges—from divergent regulatory expectations to the operational realities of scaling compliance across new product lines.\n\nJoin our panel during TOKEN2049 Week in Singapore as senior voices from legal, compliance, and industry unpack how financial institutions and digital asset firms are adapting their financial crime programs for this evolving landscape.\n\nThe conversation will cover:\n\n• How financial crime operations differ between digital assets and traditional finance, and where those lines are blurring\n• The evolving path to securing and managing US licensing applications\n• Structuring reliance arrangements with parent companies or broker-dealer partners\n• Operating crypto within a multi-product financial institution\n• FCR's expanding remit as products diversify — from prediction markets and perpetuals to retail and stablecoin offerings\n• Striking the right balance between rigorous onboarding controls and a seamless client experience\n\n> Moderator:\n> [Anir Bhattacharyya](https://www.linkedin.com/in/anir-bhattacharyya/), Partner, AlixPartners\n>\n> Speakers:\n> [Ali Burney](https://www.linkedin.com/in/ali-burney-023336101/), Partner, Steptoe\n> [Anna Gates](https://www.linkedin.com/in/anna-gates-aa580b21/), Senior Advisor, AlixPartners\n> [Peter Woo](https://www.linkedin.com/in/peterwoo1988/), Director - Crypto Compliance, Moomoo Crypto\n> [Brandon O'Shea](https://www.linkedin.com/in/bo13/), Director - FCSO Digital Asset Investigations, Standard Chartered",
-    "startDate": "2026-10-06T00:30:00.000Z",
-    "endDate": "2026-10-06T02:30:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/rlfbd858",
-    "registrationUrl": "https://luma.com/rlfbd858",
-    "coverImage": "/events/luma-crypto-clpicq4mifm8jhk-3bdff502.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Anir Bhattacharyya",
-      "Ali Burney",
-      "Anna Gates",
-      "Peter Woo",
-      "Brandon O'Shea"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "AlixPartners",
-      "url": "https://alixpartners.com/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/rlfbd858",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/rlfbd858",
-      "eventId": "evt-cLpIcq4MIfm8jHk",
-      "fetchedAt": "2026-09-19T23:46:18.340Z",
       "method": "luma-api",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }

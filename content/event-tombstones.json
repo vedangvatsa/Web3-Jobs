@@ -5216,5 +5216,96 @@
       "lights-out",
       "token2049-evt-mzwpiaulslual2m"
     ]
+  },
+  "token2049-side-6a98c2e2967be0befa88b05e": {
+    "until": "2027-11-05T03:32:15.609Z",
+    "slugs": [
+      "aetb",
+      "token2049-side-6a98c2e2967be0befa88b05e"
+    ]
+  },
+  "token2049-side-6aa25e1fd567345aad685507": {
+    "until": "2027-11-05T03:32:15.609Z",
+    "slugs": [
+      "sccme",
+      "token2049-side-6aa25e1fd567345aad685507"
+    ]
+  },
+  "token2049-side-6aa01b2fd567345aad684c08": {
+    "until": "2027-11-05T03:32:15.609Z",
+    "slugs": [
+      "arwwbv",
+      "token2049-side-6aa01b2fd567345aad684c08"
+    ]
+  },
+  "token2049-side-6aa454d7c0426d278bd87ddd": {
+    "until": "2027-11-05T03:32:15.609Z",
+    "slugs": [
+      "web3-workouts",
+      "token2049-side-6aa454d7c0426d278bd87ddd"
+    ]
+  },
+  "luma-batch-ENfl3rZ7sGbFj5w": {
+    "until": "2027-11-05T03:32:15.609Z",
+    "slugs": [
+      "cja6d4ku",
+      "luma-batch-enfl3rz7sgbfj5w"
+    ]
+  },
+  "luma-batch-evt6E9WqePUmmJmv": {
+    "until": "2027-11-05T03:32:15.609Z",
+    "slugs": [
+      "knlonxwk",
+      "luma-batch-evt6e9wqepummjmv"
+    ]
+  },
+  "luma-crypto-bGWgAlfUqt19gq7": {
+    "until": "2027-11-05T03:32:15.609Z",
+    "slugs": [
+      "urc",
+      "luma-crypto-bgwgalfuqt19gq7"
+    ]
+  },
+  "luma-crypto-cLpIcq4MIfm8jHk": {
+    "until": "2027-11-05T03:32:15.609Z",
+    "slugs": [
+      "fcrda",
+      "luma-crypto-clpicq4mifm8jhk"
+    ]
+  },
+  "token2049-evt-ECpUHV88HkidbGs": {
+    "until": "2027-11-05T03:32:15.609Z",
+    "slugs": [
+      "opening-morning",
+      "token2049-evt-ecpuhv88hkidbgs"
+    ]
+  },
+  "token2049-evt-oYGymLxwHpSaAzS": {
+    "until": "2027-11-05T03:32:15.609Z",
+    "slugs": [
+      "next-era",
+      "token2049-evt-oygymlxwhpsaazs"
+    ]
+  },
+  "token2049-evt-TnrNVvOu9wPsWbl": {
+    "until": "2027-11-05T03:32:15.609Z",
+    "slugs": [
+      "sunrise-yoga",
+      "token2049-evt-tnrnvvou9wpswbl"
+    ]
+  },
+  "token2049-evt-0WANSG42Cl4lzDC": {
+    "until": "2027-11-05T03:32:15.609Z",
+    "slugs": [
+      "tachi-social",
+      "token2049-evt-0wansg42cl4lzdc"
+    ]
+  },
+  "token2049-evt-tkFuyu8BIzrEUIV": {
+    "until": "2027-11-05T03:32:15.609Z",
+    "slugs": [
+      "stable-run",
+      "token2049-evt-tkfuyu8bizreuiv"
+    ]
   }
 }

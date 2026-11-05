@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-05T00:29:09.922Z",
+  "checkedAt": "2026-11-05T03:32:22.914Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -10,11 +10,11 @@
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 220,
-    "excluded": 352,
-    "needs-review": 38
+    "existing": 215,
+    "excluded": 350,
+    "needs-review": 43
   },
-  "importedTotal": 236,
+  "importedTotal": 231,
   "added": [],
   "receipts": [
     {
@@ -112,28 +112,6 @@
       "slug": "web3tv-interview"
     },
     {
-      "url": "https://luma.com/2rs9r9cj",
-      "name": "Tachi Social Run",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "tachi-social"
-    },
-    {
-      "url": "https://luma.com/t3qxbq7y",
-      "name": "StableRun",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "stable-run"
-    },
-    {
       "url": "https://luma.com/rbeycnag",
       "name": "Forex Trading Competition",
       "sources": [
@@ -156,16 +134,6 @@
       "slug": "okx-now"
     },
     {
-      "url": "https://luma.com/tb6f5fst",
-      "name": "The Next Era of Digital Finance: Consumer Trends, AI Adoption",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "next-era"
-    },
-    {
       "url": "https://luma.com/km4d5sxq",
       "name": "Flop Launch Event",
       "sources": [
@@ -175,16 +143,6 @@
       ],
       "status": "existing",
       "slug": "flop-launch"
-    },
-    {
-      "url": "https://luma.com/s8i7jczp",
-      "name": "ACTIVATE: Sunrise Yoga",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "sunrise-yoga"
     },
     {
       "url": "https://luma.com/kvlkxq0p",
@@ -2200,15 +2158,6 @@
       "slug": "michelininvest-dinner"
     },
     {
-      "url": "https://luma.com/HaseebQureshi",
-      "name": "Opening Morning Chat with Haseeb Qureshi 🇸🇬 (In Person)",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "opening-morning"
-    },
-    {
       "url": "https://luma.com/ArthurHayes",
       "name": "Fireside Chat with Arthur Hayes and CNBC 🇸🇬 (In Person)",
       "sources": [
@@ -2435,17 +2384,6 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/tbe-afterdark",
-      "name": "The Best Event: Afterdark",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
       "url": "https://luma.com/ui1o451m",
       "name": "Exclusive Whiskey & Cigar Evening - Day 1",
       "sources": [
@@ -2468,6 +2406,17 @@
       "reason": "Luma page returned HTTP 400"
     },
     {
+      "url": "https://luma.com/2rs9r9cj",
+      "name": "Tachi Social Run",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
       "url": "https://luma.com/utila-run-club",
       "name": "Utila Run Club: TOKEN2049",
       "sources": [
@@ -2488,6 +2437,17 @@
       ],
       "status": "needs-review",
       "reason": "Luma page returned HTTP 404"
+    },
+    {
+      "url": "https://luma.com/t3qxbq7y",
+      "name": "StableRun",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://luma.com/investingsummit2026Singapore?pk=g-SGXdu4UKgMAnNwC",
@@ -2685,6 +2645,16 @@
     {
       "url": "https://deltav.monad.xyz/programs/deltav-demo-day",
       "name": "DeltaV Demo Day",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
+      "url": "https://luma.com/s8i7jczp",
+      "name": "ACTIVATE: Sunrise Yoga",
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
@@ -5924,6 +5894,15 @@
       "reason": "Primary source event has ended"
     },
     {
+      "url": "https://luma.com/HaseebQureshi",
+      "name": "Opening Morning Chat with Haseeb Qureshi 🇸🇬 (In Person)",
+      "sources": [
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
       "url": "https://luma.com/arts-0do0",
       "name": "Web3 Private Lunch - Token2049 : Arts DAO",
       "sources": [
@@ -6343,8 +6322,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 429"
     },
     {
       "url": "https://luma.com/TBE-Fasset-Reserve",
@@ -6352,8 +6331,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 429"
     },
     {
       "url": "https://luma.com/9eycszeo",
@@ -6361,8 +6340,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 429"
     },
     {
       "url": "https://luma.com/2ezvuwxk",
@@ -6370,8 +6349,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 429"
     },
     {
       "url": "https://www.sui.io/basecamp",
@@ -6379,8 +6358,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 429"
     },
     {
       "url": "",

@@ -5463,127 +5463,6 @@
     }
   },
   {
-    "id": "token2049-side-6a98c2e2967be0befa88b05e",
-    "name": "APAC Enterprise & Tokenization Breakfast",
-    "description": "## APAC Enterprise & Tokenization Breakfast\n\nPart of the RealFi × Asia Stablecoin Conference Series\n\nBegin the conference day with a focused morning of senior-level discussion and curated institutional introductions.\n\nThe APAC Enterprise & Tokenization Breakfast will convene financial institutions, asset managers, global enterprises, tokenized-asset issuers, infrastructure providers, and conference partners exploring the institutional adoption of tokenization across Asia-Pacific.\n\nDiscussions will focus on how enterprises and financial institutions are approaching tokenized assets, onchain financial infrastructure, distribution, and cross-border market opportunities. The setting is designed to help participants identify shared priorities, exchange practical perspectives, and connect with organizations relevant to their strategic objectives.\n\n## Morning Programme\n\n• Executive Perspectives: Focused remarks on institutional tokenization and enterprise adoption across APAC\n• Curated Tables: Seating organized by sector, market, institutional mandate, and potential areas of collaboration\n• Institutional Introductions: Facilitated connections among senior decision-makers\n• Strategic Discussion: Small-group conversations on tokenized assets, distribution, infrastructure, and partnership opportunities\n\n## Who Will Attend\n\nSenior representatives from:\n\n• Banks and securities firms\n• Asset managers and institutional investors\n• Global enterprises and financial-technology companies\n• Tokenized-asset issuers and distribution platforms\n• Custodians, settlement providers, and market-infrastructure firms\n• Conference sponsors, partners, and participating organizations\n\n## Purpose\n\nTo strengthen senior institutional relationships, facilitate relevant introductions, and advance practical discussions around enterprise adoption and tokenization opportunities across APAC.\n\nFormat: Seated executive breakfast\nFeaturing: Executive perspectives, curated tables, institutional introductions, and facilitated discussion\n\nParticipation is subject to confirmation. Additional details will be provided to confirmed attendees.\n\nTitle Sponsors\n\n## About Tether\n\nTether is the company behind USD₮, the world’s largest stablecoin, and develops technology that expands access to digital finance. Its financial products span stablecoins, digital assets, and tokenization infrastructure, connecting traditional financial systems with the blockchain economy.\n\n[Website](https://tether.io/) | [X](https://x.com/Tether_to)\n\n## About S&P Dow Jones Indices\n\nS&P Dow Jones Indices, a division of S&P Global, provides benchmarks, index data, and research that help investors measure markets and inform investment decisions. Home to the S&P 500® and Dow Jones Industrial Average®, its index offering spans traditional asset classes and digital assets.",
-    "startDate": "2026-10-06T01:00:00.000Z",
-    "endDate": "2026-10-06T03:30:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/u250ag4s",
-    "coverImage": "/events/token2049-side-6a98c2e2967be0befa88b05e-e7fddd46.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Networking",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "THE CAPITAL SUMMIT",
-      "Four Pillars",
-      "Alex Lim"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "slug": "aetb",
-    "registrationUrl": "https://luma.com/u250ag4s",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "The Capital Summit",
-      "url": "https://thecapitalsummit.ai/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Breakfast Registration",
-        "url": "https://luma.com/u250ag4s",
-        "price": 50,
-        "priceCurrency": "USD",
-        "availability": "InStock"
-      },
-      {
-        "name": "Host Invitation",
-        "url": "https://luma.com/u250ag4s",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "Financial Institutions",
-        "url": "https://luma.com/u250ag4s",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/u250ag4s",
-      "eventId": "evt-hqlrMVTdmiO7nTD",
-      "fetchedAt": "2026-09-19T23:55:13.734Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "token2049-side-6aa25e1fd567345aad685507",
-    "name": "SH3 Connects Coffee Meetup Singapore Edition Token2049 💫",
-    "description": "Join us for a relaxed coffee networking morning before Token2049 kicks off.\n\nNo panels. No presentations. No sales pitches.\n\nJust coffee and genuine conversation with women and allies across Web3, AI, and blockchain. Come to build meaningful relationships, exchange insights, and explore new opportunities all in a warm and welcoming space.\n\n📢 This event is open to everyone! Don’t miss out let’s connect and grow together.\n\nMeet our partners who are making this event possible👇\n\n[Take3](https://take3.io/?utm_source=luma) Not just a marketing agency. Take3 the trust-driven growth partner for Web3.\n\nIn Web3, the projects that win long-term aren’t the loudest, they’re the most trusted. Web3 doesn’t have a marketing problem. It has a trust problem. Take3 helps Web3 and emerging tech teams build, scale, and compound trust into long-term growth. Globally, from Sydney, Dubai and London.\n\n[Nexa](https://www.nexa.org/)is a fast, scalable, and decentralized Layer-1 blockchain built for real-world adoption. With native smart contracts, ultra-low fees, and high throughput, Nexa enables seamless peer-to-peer transactions and powerful dApps. Fairly launched and community-driven, Nexa is designed to empower everyone.\n\n[WeSo](https://wesohq.com/)is your all-in-one human connection app with human identify verification layer. Think Skyscanner, but for events, entertainment, and food and beverage. Discover experiences to share with friends or turn strangers into friends.\n\n[ProvvyPay](https://www.linkedin.com/company/provvypay/?utm_source=luma) is building the data rails of commerce connecting every payment, order, and inventory record into one intelligent network. Our programmable payments infrastructure enables real-time revenue splits, instant reconciliation, and AI-ready data for smarter, fairer commerce.\n\nAbout Us\n\n[EvolvH3R](https://evolvh3r.com/) is dedicated to empowering women and promoting inclusivity in the digital economy. We provide educational and mentorship programs, and engaging networking events. Our mission is to cultivate an inclusive community where every individual, regardless of gender, is empowered to thrive and make their mark in the emerging tech industry.",
-    "startDate": "2026-10-06T01:30:00.000Z",
-    "endDate": "2026-10-06T03:30:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/bbstr33c",
-    "coverImage": "/events/token2049-side-6aa25e1fd567345aad685507-e59a2e68.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Networking",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "Danielle Marie",
-      "Take3",
-      "Nexa Cryptocurrency",
-      "WeSo",
-      "Provvypay P"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "slug": "sccme",
-    "registrationUrl": "https://luma.com/bbstr33c",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "EvolvH3R",
-      "url": "https://evolvh3r.com/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/bbstr33c",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "VIP access invite only",
-        "url": "https://luma.com/bbstr33c",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/bbstr33c",
-      "eventId": "evt-1DqZn1IV88ELEgK",
-      "fetchedAt": "2026-09-19T23:55:14.120Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "token2049-side-6a534c0447aa29a148924643",
     "name": "TRADERS WEEK | SINGAPORE 🇸🇬🏆",
     "description": "🚀 TRADERS WEEK | SINGAPORE 🚀\n\nJoin: https://game.tradingbattles.com/join/298\nYou can join the tournament at any moment of its duration!\n\n📍 100% Online Event | During Token2049 Week\n\nTrading Battles welcomes to a high-intensity, esports-style crypto showdown to find the best traders during the Token2049 Week!\n\nFor 5 days straight, traders from around the world compete in a 100% skill-based online tournament. Each participant trades with virtual funds - no deposits, no entry fees. Pure skill.\n\n🗓 Start: 5 October 2026, 10:00 AM (GMT+8, Singapore time)\n🏁 End: 10 October 2026, 10:00 AM (GMT+8, Singapore time)\n⏳ Duration: 5 days of continuous competition\n\nEvery participant enters the arena with:\n💰 10,000 USDT virtual balance\n📊 Real-time leaderboard tracking\n🎯 Rankings based strictly on performance (PnL)\n\n⚔️ Tournament Setup\n\n• Trade the Top 50 cryptocurrencies (by market cap)\n• Margin trading enabled\n• Leverage options: x2 | x5 | x10 | x20 | x50\n• Pure strategy, execution, and risk management decide the outcome\n\nThis is trading under pressure - competitive, transparent, and global.\n\nTelegram group to discuss your moves with other traders:\nTBA (link)\n\nNo luck. No shortcuts. Just performance.\n\n🚀 Enter the battle:\n[https://game.tradingbattles.com/join/298](https://game.tradingbattles.com/join/298?autojoin=true)\n\n_________________\n\n[www.tradingbattles.com](https://www.tradingbattles.com)\n\nTrading Battles is the infrastructure layer for 24/7 competitive trading, transforming trading into a new category of esports.",
@@ -7456,60 +7335,6 @@
     "category": "Conference/Summit",
     "price": "US$399-4999",
     "token2049SideEvent": true
-  },
-  {
-    "id": "token2049-side-6aa01b2fd567345aad684c08",
-    "name": "AM Run & Workout w/ Bankless VC",
-    "description": "Join us for an early morning Run & Workout!\n\n7.30am we start the Run, don't be late.\n\nHere are the details:\n\n• Date: 6th of October, 2026\n• Time: 7.30am\n• Meeting Point/Location: TBD\n\nWe run 5-7km, stopping every 1-3 km to wait for the group (and do a workout or two while we wait). We're meeting on a public walking trail, no place to leave your things while we run (leave them at home!).\n\n[Bankless Ventures](https://twitter.com/banklessvc?utm_source=luma) is an early-stage fund to empower pioneers to explore the frontier of tech\n\nIf you want to invest in Bankless Ventures, you can submit an interest form as a Limited Partner (LP) [here.](https://forms.gle/6y1fvArxc3Ek3aWj8?utm_source=luma)\n\nIf you’re a startup that wants to be reviewed [by our investment team, show us what you’re building here.](https://forms.gle/trJtadR5rcBLzT3j8?utm_source=luma)\n\n[Updates → https:/](http://twitter.com/benlakoff?utm_source=luma)/[benlakoff](http://twitter.com/benlakoff?utm_source=luma)",
-    "startDate": "2026-10-05T23:30:00.000Z",
-    "endDate": "2026-10-06T01:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore",
-    "url": "https://luma.com/07wqstj3",
-    "coverImage": "/events/token2049-side-6aa01b2fd567345aad684c08-3d5640ac.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Sport",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "Ben Lakoff"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "slug": "arwwbv",
-    "registrationUrl": "https://luma.com/07wqstj3",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "coordinates": {
-      "latitude": 1.352083,
-      "longitude": 103.819836
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "BVC",
-      "url": "https://luma.com/banklessvc"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/07wqstj3",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/07wqstj3",
-      "eventId": "evt-GAVw0G9ljqoChje",
-      "fetchedAt": "2026-09-19T23:55:33.463Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
   },
   {
     "id": "token2049-side-6a7399105a75007b41001064",
@@ -10916,58 +10741,6 @@
     }
   },
   {
-    "id": "token2049-side-6aa454d7c0426d278bd87ddd",
-    "name": "Web3 Workouts: Calisthenics @ Token2049 Singapore",
-    "description": "Start your Token2049 week right with Web3 Workouts -- all levels of fitness are welcome, from beginners to experts.\n\nFor our very first edition, we're doing Calisthenics at a private gym around town. If you're new to calisthenics, we'll teach you and get you started. If you're not, come in and show us your stuff 😎\n\nThis will be a casual meetup - come in and show your stuff, or just drop by and ask about skills/moves you've always wanted to learn (ie pull ups, muscle ups, human flags, dragon flags etc), we'll be happy to help.\n\nExpect a good sweat, great vibes, and amazing company.\n\nLimited spots only.\n\nAs the gym must be booked in advance with an estimated headcount, please do secure your spot early.\n\nThe Gym at Alpha Vitality is a private performance and longevity facility where clinical rehab methodology meets high-performance strength training. Built specifically for healthspan over hype, the venue features top-tier strength equipment, functional conditioning tools, athletic performance gear, and built-in clinical recovery tech including Theragun and Jetboot Prime systems.\n\nIf you're interested - the facility also offers Hyperbaric Oxygen Therapy, Red Light Therapy, performance supplements and complimentary health assessments.\n\nMore info: https://www.alphavitality.co/\n\nFor any sponsorship opportunities or [partnership collaborations, please reach out to @pagingforyx](https://t.me/pagingforyx) on telegram.",
-    "startDate": "2026-10-06T01:00:00.000Z",
-    "endDate": "2026-10-06T03:30:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Alpha Vitality, 1557 Keppel Rd, #01-01, Singapore 089066",
-    "url": "https://luma.com/k3s11wzz",
-    "coverImage": "/events/token2049-side-6aa454d7c0426d278bd87ddd-0398771f.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Sport",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "Ian"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "neighborhood": "Tanjong Pagar",
-    "slug": "web3-workouts",
-    "registrationUrl": "https://luma.com/k3s11wzz",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Alpha Vitality",
-    "streetAddress": "1557 Keppel Rd, #01-01, Singapore",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "coordinates": {
-      "latitude": 1.2730198,
-      "longitude": 103.84061609999999
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/k3s11wzz",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/k3s11wzz",
-      "eventId": "evt-t6VADPS0jgkxUqX",
-      "fetchedAt": "2026-09-19T23:56:07.475Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "token2049-side-6aa17432967be0befa88d00d",
     "name": "The Invite",
     "description": "The Invite: An exclusive evening of Formula 1 qualifying and networking to end Token2049 week in style.\n\nKey decision makers who shape our industry as builders, founders and funds gather in a private penthouse suite with unobstructed views of the Marina Bay Circuit.\n\nThe Experience\n\n• Panoramic penthouse balcony views over the circuit for the qualifying session\n• A short guest list of founders, C-suite, funds and allocators, the people partnerships get signed with\n\nDetails\n🗓️ Saturday 10 October 2026. Qualifying day. 8pm.\n🔒 Invite-only.\n\nToken2049's most exclusive ticket. Kept deliberately small, a room building crypto's next chapter, from the best seats in the house.\n\nRSVP required. Attendance by invitation only.\n\n## About Your Hosts:\n\n[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.\n\n[Zoth](https://zoth.io/?utm_source=luma) is the privacy-first stablecoin neobank for the Global South and the agentic economy. Move it, hold it, grow it: cross-border payments through zPayments, a stablecoin account, and institutional yield through zVaults, now with AI agents that execute while you approve. The first neobank to launch tokenized equities, in partnership with Coinbase. $500M+ processed on licensed, regulated rails, including Money Transmitter Licenses across 50 US states and a NY BitLicense through our Bakkt partnership.\n\n[Movement](https://www.movementnetwork.xyz/) is the global settlement and yield layer for emerging markets, built on Move, the programming language designed to secure financial assets. Neobanks, fintechs, and payment platforms use Movement to deliver instant cross-border settlement, dollar savings, and stablecoin-powered financial products without relying on slow, capital-heavy remittance rails.\n\nSponsored By:\n\n[Taisu Ventures](https://www.taisu.io/) is a venture capital firm that invests in & empowers early-stage web3 companies across the globe.\n\n[Selini](https://www.selinicapital.com/)is a global trading firm focused on systematic trading and venture investing - all within the digital assets space.",
@@ -11357,59 +11130,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-host-evt-evt-ENfl3rZ7sGbFj5w",
-    "name": "Run the Bay: Crypto Whales Edition 🐳🏃🇸🇬",
-    "description": "",
-    "startDate": "2026-10-05T23:00:00.000Z",
-    "endDate": "2026-10-06T02:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore",
-    "url": "https://luma.com/cja6d4ku",
-    "coverImage": "/events/luma-host-evt-evt-enfl3rz7sgbfj5w-7cce6921.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-tachi-social-run-token2049-26-10-06",
-    "name": "Tachi Social Run ",
-    "description": "Tachi Social Run @Token2049: A morning social run for founders, builders and investors with coffee and refreshments.",
-    "startDate": "2026-10-05T23:00:00.000Z",
-    "endDate": "2026-10-06T01:00:00.000Z",
-    "city": "Global",
-    "country": "SG",
-    "location": "Global, SG",
-    "url": "https://luma.com/2rs9r9cj",
-    "coverImage": "/events/w3v-tachi-social-run-token2049-26-10-06-25598c7d.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-run-bay-crypto-whales-edition-26-10-06",
-    "name": "Run the Bay: Crypto Whales Edition",
-    "description": "Run the Bay: Crypto Whales Edition: A 5K social run or walk with breakfast and crypto-industry networking in Singapore.",
-    "startDate": "2026-10-05T23:00:00.000Z",
-    "endDate": "2026-10-06T02:00:00.000Z",
-    "city": "Global",
-    "country": "SG",
-    "location": "Global, SG",
-    "url": "https://luma.com/cja6d4ku",
-    "coverImage": "/events/w3v-run-bay-crypto-whales-edition-26-10-06-ab054a3a.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-forgd-defillama-happy-hour-26-10-06",
-    "name": "Forgd & DefiLlama Happy Hour",
-    "description": "Forgd & DefiLlama Happy Hour: Drinks and conversation on Universal Token Ratings in Singapore.",
-    "startDate": "2026-10-06T00:00:00.000Z",
-    "endDate": "2026-10-06T03:00:00.000Z",
-    "city": "Global",
-    "country": "SG",
-    "location": "Global, SG",
-    "url": "https://luma.com/685mx98g",
-    "coverImage": "/events/w3v-forgd-defillama-happy-hour-26-10-06-80302cf9.webp",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-host-evt-evt-U8GTBMMd55Dqssz",
     "name": "Blockchain.com: Breakfast Inc.",
     "description": "",
@@ -11420,20 +11140,6 @@
     "location": "Singapore",
     "url": "https://luma.com/blockc-ld75",
     "coverImage": "/events/luma-host-evt-evt-u8gtbmmd55dqssz-a7f89df8.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-cLpIcq4MIfm8jHk",
-    "name": "Financial Crime Risks in Digital Assets: A Breakfast Panel",
-    "description": "",
-    "startDate": "2026-10-06T00:30:00.000Z",
-    "endDate": "2026-10-06T02:30:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore",
-    "url": "https://luma.com/rlfbd858",
-    "coverImage": "/events/luma-host-evt-evt-clpicq4mifm8jhk-0c3767f8.webp",
     "source": "luma-trusted",
     "month": "October 2026"
   },
@@ -11536,20 +11242,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-host-evt-evt-t6VADPS0jgkxUqX",
-    "name": "Web3 Workouts: Calisthenics @ Token2049 Singapore",
-    "description": "",
-    "startDate": "2026-10-06T01:00:00.000Z",
-    "endDate": "2026-10-06T03:30:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore",
-    "url": "https://luma.com/k3s11wzz",
-    "coverImage": "/events/luma-host-evt-evt-t6vadps0jgkxuqx-7c269d6e.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-host-evt-evt-ZMjeB8opDVUZQjV",
     "name": "Cardano node diversity celebration day",
     "description": "",
@@ -11588,20 +11280,6 @@
     "location": "Singapore",
     "url": "https://luma.com/onchaindaytokensingapore",
     "coverImage": "/events/luma-host-evt-evt-aggvncxtog5ryje-c30c5d9e.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-1DqZn1IV88ELEgK",
-    "name": "SH3 Connects Coffee Meetup Singapore Edition Token2049 💫",
-    "description": "",
-    "startDate": "2026-10-06T01:30:00.000Z",
-    "endDate": "2026-10-06T03:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore",
-    "url": "https://luma.com/bbstr33c",
-    "coverImage": "/events/luma-host-evt-evt-1dqzn1iv88elegk-05a9bada.webp",
     "source": "luma-trusted",
     "month": "October 2026"
   },
@@ -16760,7 +16438,7 @@
     "country": "Hong Kong",
     "location": "Hong Kong, Hong Kong",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
+    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -19378,7 +19056,7 @@
     "country": "",
     "location": "Global",
     "url": "https://luma.com/eqwsf08t",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solanas-challenges-getblocks-solutions-94692c3f.webp",
     "month": "November 2026"
   },
   {
@@ -19942,7 +19620,7 @@
     "country": "IN",
     "location": "Mumbai, IN",
     "url": "https://luma.com/freesocietyhackathon",
-    "coverImage": null,
+    "coverImage": "/events/w3v-zcash-presents-free-society-hackathon-d385c627.webp",
     "month": "November 2026"
   },
   {
@@ -24787,7 +24465,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/lo-qqld",
-    "coverImage": null,
+    "coverImage": "/events/w3v-the-local-wmc-breakpointdas-edition-4fa07710.webp",
     "month": "November 2026"
   },
   {
@@ -24800,7 +24478,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/solanahiit",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solana-fitness-zone-hiit-class-breakpoint-2026-02bfe2cf.webp",
     "month": "November 2026"
   },
   {
@@ -24813,7 +24491,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/solanareset",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solana-fitness-zone-mental-reset-workshop-brea-28adf2f2.webp",
     "month": "November 2026"
   },
   {
@@ -24980,7 +24658,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/btvqwap1",
-    "coverImage": null,
+    "coverImage": "/events/w3v-born-up-breakpoint-london-community-networking-84fe2283.webp",
     "month": "November 2026"
   },
   {
@@ -24993,7 +24671,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/6ung8frj",
-    "coverImage": null,
+    "coverImage": "/events/w3v-vcs-lps-cocktail-hour-breakpoint-london-93ac5f14.webp",
     "month": "November 2026"
   },
   {
@@ -25006,7 +24684,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/cnswgn30",
-    "coverImage": null,
+    "coverImage": "/events/w3v-forward-industries-breakpoint-dinner-c6fb2fca.webp",
     "month": "November 2026"
   },
   {
@@ -25019,7 +24697,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/zkpwmk83",
-    "coverImage": null,
+    "coverImage": "/events/w3v-proof-pour-london-a-private-cocktail-evening-94e740a0.webp",
     "month": "November 2026"
   },
   {
@@ -25032,7 +24710,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/solanaboxing",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solana-fitness-zone-group-boxing-breakpoint-20-a8768aed.webp",
     "month": "November 2026"
   },
   {
@@ -25045,7 +24723,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/ti7vdsai",
-    "coverImage": null,
+    "coverImage": "/events/w3v-fwdi-breakpoint-happy-hour-7d31eb3b.webp",
     "month": "November 2026"
   },
   {
@@ -25058,7 +24736,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/39ckiuiy",
-    "coverImage": null,
+    "coverImage": "/events/w3v-ggc-gmgn-global-championship-london-finals-a8e33695.webp",
     "month": "November 2026"
   },
   {
@@ -25071,7 +24749,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/lajgsnqb",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solana-breakpoint-security-drinks-by-fidesium-81c0fb30.webp",
     "month": "November 2026"
   },
   {
@@ -25084,7 +24762,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/gpxfy249",
-    "coverImage": null,
+    "coverImage": "/events/w3v-sol-calling-solana-breakpoint-happy-hour-1c83cf72.webp",
     "month": "November 2026"
   },
   {
@@ -25097,7 +24775,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/snrmcp50",
-    "coverImage": null,
+    "coverImage": "/events/w3v-beyond-business-an-exclusive-dinner-in-mayfair-e624d328.webp",
     "month": "November 2026"
   },
   {
@@ -25110,7 +24788,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/solanahiits",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solana-fitness-zone-hiit-class-breakpoint-2026-9e5b4832.webp",
     "month": "November 2026"
   },
   {
@@ -25123,7 +24801,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/LondonHappyHour",
-    "coverImage": null,
+    "coverImage": "/events/w3v-london-happy-hour-dbd282ac.webp",
     "month": "November 2026"
   },
   {
@@ -25136,7 +24814,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/n41tqnps",
-    "coverImage": null,
+    "coverImage": "/events/w3v-breakpoint-pub-quiz-c8e56359.webp",
     "month": "November 2026"
   },
   {
@@ -25149,7 +24827,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/e9iw08nn",
-    "coverImage": null,
+    "coverImage": "/events/w3v-no-more-pitches-83ba7a54.webp",
     "month": "November 2026"
   },
   {
@@ -25665,7 +25343,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261105%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261105T003234Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=9808708b1099e7000dd3f2062f3a27652c73d52f9d2c9ef9bb0696429099a4ae",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261105%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261105T034009Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=daeb021b0ff8a78c74d69133fcb8f9949e328043aa580d1f536b395c649670cc",
     "month": "November 2026"
   },
   {
@@ -25759,7 +25437,7 @@
     "country": "IT",
     "location": "Bari, IT",
     "url": "https://luma.com/IXH26-xrpl-hackathon",
-    "coverImage": null,
+    "coverImage": "/events/w3v-ixh26-italian-xrpl-hackathon-db972dc1.webp",
     "month": "November 2026"
   },
   {
@@ -26017,7 +25695,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/8zpe32j0",
-    "coverImage": null,
+    "coverImage": "/events/w3v-an-evening-at-the-us-embassy-london-hosted-by--701b6bea.webp",
     "month": "November 2026"
   },
   {
@@ -26030,7 +25708,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/j6gxeshu",
-    "coverImage": null,
+    "coverImage": "/events/w3v-signal-evening-reception-das-london-63f6ffec.webp",
     "month": "November 2026"
   },
   {
@@ -26781,7 +26459,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/loajg3ik",
-    "coverImage": "/events/luma-host-evt-evt-0iytxt7gbebn9da-519a0dae.webp",
+    "coverImage": "/events/w3v-build-across-chains-a-solana-builder-briefing--81981407.webp",
     "month": "November 2026"
   },
   {
@@ -27367,7 +27045,7 @@
     "country": "IN",
     "location": "Mumbai, IN",
     "url": "https://luma.com/4jt54kqx",
-    "coverImage": null,
+    "coverImage": "/events/w3v-devcon-girlies-diwali-party-in-mumbai-c2cfe985.webp",
     "month": "November 2026"
   },
   {
@@ -27380,7 +27058,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/klgng11i",
-    "coverImage": null,
+    "coverImage": "/events/w3v-pizza-at-pimlico-s-breakpoint-2026-14-17932761-475ac7db.webp",
     "month": "November 2026"
   },
   {
@@ -27435,7 +27113,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-phoenix/events/317065033/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317065033-3914150e.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -28589,7 +28267,7 @@
     "country": "us",
     "location": "Scottsdale, us",
     "url": "https://www.meetup.com/arizona-stock-options-and-futures-investors/events/317181350/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317181350-e1c4f221.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -29530,5 +29208,33 @@
     "coverImage": "/events/luma-evt-6cz1m8cyqcc4y2p-e67f2216.webp",
     "source": "luma",
     "month": "February 2027"
+  },
+  {
+    "id": "luma-evt-XuOTiNV5f1hHDOL",
+    "name": "CEC x Google Gemini AI Workshop & Mini Buildathon",
+    "description": "",
+    "startDate": "2026-11-06T19:30:00.000Z",
+    "endDate": "2026-11-06T21:30:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/1lbty2g9",
+    "coverImage": "/events/luma-evt-xuotinv5f1hhdol-ff7d6ab2.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-xAyCOgOD6FT9cON",
+    "name": "MakerMods Physical AI Hackathon",
+    "description": "",
+    "startDate": "2026-11-07T16:00:00.000Z",
+    "endDate": "2026-11-09T03:00:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/pah",
+    "coverImage": "/events/luma-evt-xaycogod6ft9con-5b0961e1.webp",
+    "source": "luma",
+    "month": "November 2026"
   }
 ]

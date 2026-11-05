@@ -4710,52 +4710,6 @@ Time Heist by Zusei.com is scheduled for 5 October 2026 at 13:00 (Asia/Singapore
 
 Registration is listed as free.
 
-<a id="event-3f8717a9d1196fe2"></a>
-
-## Tachi Social Run @Token2049
-
-- Record: `token2049-evt-0WANSG42Cl4lzDC`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-05T23:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/2rs9r9cj>
-
-### About the event
-
-Tachi Social Run @Token2049 is scheduled for 6 October 2026 at 07:00 (Asia/Singapore). Hosted by Viivek Mehata, Parth Pathak.
-
-Start your Token 2049 Singapore morning with a short run along Singapore's skyline to set the pace.
-
-Spots are limited, so arrive ready to run, mingle, and start the morning on the right note.
-
-Full route and exact location coming soon!
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
-<a id="event-f4e5a3dacf771084"></a>
-
-## Stable Run by Transak
-
-- Record: `token2049-evt-tkFuyu8BIzrEUIV`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-05T23:45:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/t3qxbq7y>
-
-### About the event
-
-Stable Run by Transak is scheduled for 6 October 2026 at 07:45 (Asia/Singapore) in Singapore. Hosted by Transak, Arda Basaran, Etienne, Jack Lucas, Harshit Gangwar.
-
-After the run: breakfast, coffee and networking with builders from across the industry.
-
-7:45am meeting - 8am start - 5K group run - Networking till ~9:15am
-
-This event has limited spots, and the exact meeting point and route will be shared directly with confirmed runners the day before the event.
-
-8 am - Start the run - 5K group
-
-The organizer shares the exact location with approved guests. Registration is listed as free.
-
 <a id="event-7750d4ed150eee88"></a>
 
 ## Hyperliquid Forum
@@ -4788,22 +4742,6 @@ The competition will be held on MetaTrader 5 (demo accounts).
 
 Registration requires host approval. Registration is listed as free.
 
-<a id="event-dd38a6024cf9b404"></a>
-
-## Opening Morning Chat with Haseeb Qureshi 🇸🇬 (In Person)
-
-- Record: `token2049-evt-ECpUHV88HkidbGs`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-06T00:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/HaseebQureshi>
-
-### About the event
-
-Opening Morning Chat with Haseeb Qureshi 🇸🇬 (In Person) is scheduled for 6 October 2026 at 08:30 (Asia/Singapore) in Singapore. Hosted by Gamma Prime.
-
-Registration requires host approval. Registration is listed as free.
-
 <a id="event-83b94d878d860520"></a>
 
 ## Digital Asset Yield Summit Singapore
@@ -4817,26 +4755,6 @@ Registration requires host approval. Registration is listed as free.
 ### About the event
 
 Digital Asset Yield Summit Singapore is scheduled for 6 October 2026 at 09:00 (Asia/Singapore) in Singapore. Hosted by DAYS.
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
-<a id="event-74eef9e7cefe86db"></a>
-
-## The Next Era of Digital Finance: Consumer Trends, AI Adoption
-
-- Record: `token2049-evt-oYGymLxwHpSaAzS`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-06T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/tb6f5fst>
-
-### About the event
-
-The Next Era of Digital Finance: Consumer Trends, AI Adoption is scheduled for 6 October 2026 at 09:00 (Asia/Singapore). Hosted by ACCESS Secretariat, Katashe Solutions, Grace Chong, Beata Sivak, Ain.
-
-The discussion will be held under the Chatham House Rule to encourage an open and candid exchange, followed by a networking session over breakfast.
-
-Registration closes Friday, 2 October 2026.
 
 Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
 
@@ -4911,28 +4829,6 @@ Registration requires host approval. The organizer shares the exact location wit
 RWA.LTD Private Connect | TOKEN2049 Singapore- Part A is scheduled for 6 October 2026 at 10:00 (Asia/Singapore) in Singapore. Hosted by Astro.
 
 Attendance is complimentary and subject to host approval.
-
-Registration is listed as free.
-
-<a id="event-4b7abff59d6ca0aa"></a>
-
-## Sunrise Yoga
-
-- Record: `token2049-evt-TnrNVvOu9wPsWbl`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-06T02:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/s8i7jczp>
-
-### About the event
-
-Sunrise Yoga is scheduled for 6 October 2026 at 10:30 (Asia/Singapore) in Singapore. Hosted by BTSE Enterprise Solutions.
-
-Whether you're new to yoga or already have a regular practice, this session is open to all levels.
-
-60-minute outdoor yoga session
-
-Please arrive a little early to check in and get settled before the session begins.
 
 Registration is listed as free.
 
@@ -14916,81 +14812,6 @@ The organizer's timeline lists a September 16 kickoff and an October 16 submissi
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
-<a id="event-06985927a9f6f431"></a>
-
-## Utila Run Club: TOKEN2049
-
-- Record: `luma-crypto-bGWgAlfUqt19gq7`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-10-05T23:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/utila-run-club>
-
-### TOKEN2049 is a marathon. So warm up with a shorter one
-
-Join us for the first edition of the Utila Run Club.
-
-An easy 5K morning run around Gardens by the Bay on the day before the conference kicks off. No pressure to set a PB, just some good people sharing a run, laugh and some coffee to start the week on the right foot.
-
-We'll finish at a specialty coffee place for your daily dose of caffeine and sweets. There will also be an option to leave small personal items at the starting point.
-
-Everyone is welcome but spots are limited and first come first served.
-
-So don't forget to pack your fastest running shoes. See you at the start!
-
-Easy-paced 5K run
-
-DRI-FIT shirts included
-
-Post-run coffee & pastries
-
-Limited spots
-
-### About Utila
-
-[Utila](https://utila.io/?utm_source=luma) is the leading stablecoin and digital asset infrastructure platform for fintechs, banks and enterprises. Utila enables organizations of all sizes to securely build, manage, and scale digital asset operations across stablecoin payments, treasury, trading, tokenization, and beyond. Trusted by 350+ industry leaders, Utila processes more than $30B in monthly volume and has secured over $500B in transactions to date.
-
-<a id="event-17c9e4a8e3093340"></a>
-
-## Financial Crime Risks in Digital Assets: A Breakfast Panel
-
-- Record: `luma-crypto-cLpIcq4MIfm8jHk`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-10-06T00:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/rlfbd858>
-
-### About the event
-
-As digital assets move from the margins into core financial infrastructure, financial crime risk (FCR) teams face a widening set of challenges - from divergent regulatory expectations to the operational realities of scaling compliance across new product lines.
-
-Join our panel during TOKEN2049 Week in Singapore as senior voices from legal, compliance, and industry unpack how financial institutions and digital asset firms are adapting their financial crime programs for this evolving landscape.
-
-The conversation will cover:
-
-- How financial crime operations differ between digital assets and traditional finance, and where those lines are blurring
-- The evolving path to securing and managing US licensing applications
-- Structuring reliance arrangements with parent companies or broker-dealer partners
-- Operating crypto within a multi-product financial institution
-- FCR's expanding remit as products diversify - from prediction markets and perpetuals to retail and stablecoin offerings
-- Striking the right balance between rigorous onboarding controls and a seamless client experience
-
-> Moderator:
-
-> [Anir Bhattacharyya](https://www.linkedin.com/in/anir-bhattacharyya/), Partner, AlixPartners
-
->
-
-> Speakers:
-
-> [Ali Burney](https://www.linkedin.com/in/ali-burney-023336101/), Partner, Steptoe
-
-> [Anna Gates](https://www.linkedin.com/in/anna-gates-aa580b21/), Senior Advisor, AlixPartners
-
-> [Peter Woo](https://www.linkedin.com/in/peterwoo1988/), Director - Crypto Compliance, Moomoo Crypto
-
-> [Brandon O'Shea](https://www.linkedin.com/in/bo13/), Director - FCSO Digital Asset Investigations, Standard Chartered
-
 <a id="event-d1a346ffae34699c"></a>
 
 ## Digital Assets Summit 2026 (DAS2026)
@@ -22018,122 +21839,6 @@ More details on mentors, workshops, ecosystem support and Demo Day will be annou
 Join the 021Lab Telegram group for first-hand updates
 
 See you in Singapore, and come ready to build!
-
-<a id="event-0be1d3ba41120c05"></a>
-
-## Run the Bay : 5K + Breakfast 🇸🇬
-
-- Record: `luma-batch-ENfl3rZ7sGbFj5w`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-05T23:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/cja6d4ku>
-
-### About the event
-
-TOKEN2049 starts the next day, so we're kicking off the week outside the meeting rooms
-
-Join us for an easy 5K run or walk around Marina Bay, followed by a light local breakfast, kopi, coffee and good conversations with people arriving in Singapore for the week
-
-No race pressureNo timing chipsRun fast, run slow, walk the route, all good
-
-Come for the run, stay for breakfast and the people you meet along the way
-
-### What to expect
-
-5K social run and walk Kopi and coffee Light local breakfast at MBS Founders, builders, investors and operators Limited swag for confirmed guests
-
-All levels welcome
-
-TOKEN2049 Singapore 2026
-
-A36 Labs is an Official TOKEN2049 Partner
-
-Get 10% off TOKEN2049 Singapore tickets with code A36LABS
-
-Partnerships & Sponsorships
-
-A limited number of partner slots are available across the A36 Singapore event series
-
-Suitable for brand activations, wellness products, food and beverage, merchandise, ecosystem collaborations and sponsorships
-
-Email: events@a36labs.comTelegram: https://t.me/LakshDilliwal
-
-A36 Labs Token Singapore Week:
-
-Hosted by A36 Labs
-
-A36 Labs brings together founders, builders, investors and technology ecosystems through events, builder programs and global community initiatives across AI, Web3 and frontier technology
-
-中文简介
-
-TOKEN2049 前一天，我们从一场轻松的 5 公里跑步开始这一周
-
-跑步或步行都可以，结束后一起吃早餐，喝 kopi 和咖啡，也认识来自不同国家的创始人、开发者和投资人
-
-没有比赛压力，按照自己的节奏参加就好
-
-确认参加的嘉宾还会收到限量 swag
-
-<a id="event-8ca824a6468adda0"></a>
-
-## CryptoMondays Vegas
-
-- Record: `luma-batch-evt6E9WqePUmmJmv`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-06T01:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/knlonxwk>
-
-### About the event
-
-CryptoMondays Vegas Residency
-
-Every Monday, crypto enthusiasts, builders, and investors gather at the iconic Circa Resort & Casino in Downtown Las Vegas to connect, share ideas, and dive into the latest trends in the digital asset space.
-
-Our discussion themes rotate weekly to coincide with major tech, finance, or cryptocurrency conferences occurring in the area. Whether you are a local resident or visiting for the week, CryptoMondays Vegas is the ideal place to start your trip.
-
-### What to Expect
-
-Every week brings a new crowd and a fresh focus. Depending on what's happening in Vegas, our weekly themes will pivot to cover:
-
-Bitcoin & Lightning: Deep dives into BTC-only developments, layer 2s, and mining.
-
-Stablecoins & RWA: Real-world assets, payment rails, and institutional adoption.
-
-Prediction Markets & DeFi: Decentralized exchanges, liquidity protocols, and the future of onchain finance.
-
-Web3 Gaming & NFTs: The intersection of Vegas entertainment, gaming, and blockchain.
-
-General Networking: Open format nights for mingling, deal-making, and more - bring your ideas!
-
-### Who Should Attend?
-
-Founders & Builders: Looking to network, find talent, or pitch ideas.
-
-Investors & VCs: Scouting for new projects and trends.
-
-Industry Conference Attendees: Looking for a high-signal side event to start the week.
-
-Crypto Curious: Anyone wanting to learn more about the space in a welcoming environment.
-
-### Event Details
-
-Location: Legacy Bar, Circa Resort & Casino, Downtown Las Vegas
-
-When: Every Monday
-
-Time: 6:30 PM - 8:30 PM
-
-Vibe: Casual, high-energy, and open. Grab a drink and start a conversation.
-
-Interested in speaking? Fill out this form, and one of our team members will contact you!
-
-Disclaimer & Disclosure
-
-Not Financial Advice (NFA): The conversations, presentations, and opinions shared at CryptoMondays Vegas are for educational and networking purposes only. Nothing discussed at these events should be construed as financial, investment, or legal advice. Always do your own research (DYOR).
-
-Independent Event: This meetup is independently organized. We are not affiliated with, sponsored by, or officially endorsed by Circa Resort & Casino, its parent companies, or any other casino or venue in Las Vegas.
 
 <a id="event-88ddca154e2fa2ec"></a>
 
@@ -31771,74 +31476,6 @@ _________________
 
 Trading Battles is the infrastructure layer for 24/7 competitive trading, transforming trading into a new category of esports.
 
-<a id="event-9c190bb514f05ef4"></a>
-
-## Run the Bay: Crypto Whales Edition 🐳🏃🇸🇬
-
-- Record: `luma-host-evt-evt-ENfl3rZ7sGbFj5w`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T23:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/cja6d4ku>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-dbd0f3d52c36baee"></a>
-
-## Run the Bay: Crypto Whales Edition
-
-- Record: `w3v-run-bay-crypto-whales-edition-26-10-06`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T23:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/cja6d4ku>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-1a969c271143af7a"></a>
-
-## Tachi Social Run
-
-- Record: `w3v-tachi-social-run-token2049-26-10-06`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T23:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/2rs9r9cj>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-901e6b6d222a9eb4"></a>
-
-## AM Run & Workout w/ Bankless VC
-
-- Record: `token2049-side-6aa01b2fd567345aad684c08`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T23:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/07wqstj3>
-
-### About the event
-
-Join us for an early morning Run & Workout!
-
-7.30am we start the Run, don't be late.
-
-Here are the details:
-
-- Date: 6th of October, 2026
-- Time: 7.30am
-- Meeting Point/Location: TBD
-
-We run 5-7km, stopping every 1-3 km to wait for the group (and do a workout or two while we wait). We're meeting on a public walking trail, no place to leave your things while we run (leave them at home!).
-
-[Bankless Ventures](https://twitter.com/banklessvc?utm_source=luma) is an early-stage fund to empower pioneers to explore the frontier of tech
-
-If you want to invest in Bankless Ventures, you can submit an interest form as a Limited Partner (LP) [here.](https://forms.gle/6y1fvArxc3Ek3aWj8?utm_source=luma)
-
-If you're a startup that wants to be reviewed [by our investment team, show us what you're building here.](https://forms.gle/trJtadR5rcBLzT3j8?utm_source=luma)
-
-[Updates → https:/](http://twitter.com/benlakoff?utm_source=luma)/[benlakoff](http://twitter.com/benlakoff?utm_source=luma)
-
 <a id="event-679b7f1ed9a1949b"></a>
 
 ## CoinFerenceX Singapore 2026 - Day 2
@@ -31891,30 +31528,6 @@ This is where partnerships start, ideas move forward, and visibility turns into 
 ### Media Partners
 
 [MarketAcross](https://marketacross.com) is the world's leading [PR firm in Web3, with clients such as Binance, Crypto.com](https://Crypto.com), dYdX, KuCoin & Cardano.
-
-<a id="event-4e94a2a6daeb2ff7"></a>
-
-## Forgd & DefiLlama Happy Hour
-
-- Record: `w3v-forgd-defillama-happy-hour-26-10-06`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-06T00:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/685mx98g>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-1eddbb7eca8d9e20"></a>
-
-## Financial Crime Risks in Digital Assets: A Breakfast Panel
-
-- Record: `luma-host-evt-evt-cLpIcq4MIfm8jHk`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-06T00:30:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/rlfbd858>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-2bc4404894ef92a4"></a>
 
@@ -32127,18 +31740,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-fff51f336b2b3a47"></a>
-
-## Web3 Workouts: Calisthenics @ Token2049 Singapore
-
-- Record: `luma-host-evt-evt-t6VADPS0jgkxUqX`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-06T01:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/k3s11wzz>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-32508f57a41cd706"></a>
 
 ## Solana Summit Singapore
@@ -32208,66 +31809,6 @@ October 6, 2026
 Register now: Entry is subject to approval. If your plans change, please update your RSVP so someone on the waitlist can join.
 
 [Want a sneak peek? Watch the recap from last year here](https://x.com/SolanaSummitOrg/status/1811718123030290464?utm_source=luma).
-
-<a id="event-35ec0bceb05ef3aa"></a>
-
-## APAC Enterprise & Tokenization Breakfast
-
-- Record: `token2049-side-6a98c2e2967be0befa88b05e`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-06T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/u250ag4s>
-
-### APAC Enterprise & Tokenization Breakfast
-
-Part of the RealFi × Asia Stablecoin Conference Series
-
-Begin the conference day with a focused morning of senior-level discussion and curated institutional introductions.
-
-The APAC Enterprise & Tokenization Breakfast will convene financial institutions, asset managers, global enterprises, tokenized-asset issuers, infrastructure providers, and conference partners exploring the institutional adoption of tokenization across Asia-Pacific.
-
-Discussions will focus on how enterprises and financial institutions are approaching tokenized assets, onchain financial infrastructure, distribution, and cross-border market opportunities. The setting is designed to help participants identify shared priorities, exchange practical perspectives, and connect with organizations relevant to their strategic objectives.
-
-### Morning Programme
-
-- Executive Perspectives: Focused remarks on institutional tokenization and enterprise adoption across APAC
-- Curated Tables: Seating organized by sector, market, institutional mandate, and potential areas of collaboration
-- Institutional Introductions: Facilitated connections among senior decision-makers
-- Strategic Discussion: Small-group conversations on tokenized assets, distribution, infrastructure, and partnership opportunities
-
-### Who Will Attend
-
-Senior representatives from:
-
-- Banks and securities firms
-- Asset managers and institutional investors
-- Global enterprises and financial-technology companies
-- Tokenized-asset issuers and distribution platforms
-- Custodians, settlement providers, and market-infrastructure firms
-- Conference sponsors, partners, and participating organizations
-
-### Purpose
-
-To strengthen senior institutional relationships, facilitate relevant introductions, and advance practical discussions around enterprise adoption and tokenization opportunities across APAC.
-
-Format: Seated executive breakfast
-
-Featuring: Executive perspectives, curated tables, institutional introductions, and facilitated discussion
-
-Participation is subject to confirmation. Additional details will be provided to confirmed attendees.
-
-Title Sponsors
-
-### About Tether
-
-Tether is the company behind USD₮, the world's largest stablecoin, and develops technology that expands access to digital finance. Its financial products span stablecoins, digital assets, and tokenization infrastructure, connecting traditional financial systems with the blockchain economy.
-
-[Website](https://tether.io/) | [X](https://x.com/Tether_to)
-
-### About S&P Dow Jones Indices
-
-S&P Dow Jones Indices, a division of S&P Global, provides benchmarks, index data, and research that help investors measure markets and inform investment decisions. Home to the S&P 500® and Dow Jones Industrial Average®, its index offering spans traditional asset classes and digital assets.
 
 <a id="event-9b8bcd147f013132"></a>
 
@@ -32445,38 +31986,6 @@ More information about the even: https://hackmd.io/@Amaru/DiversityCelebrationDr
 - Node implementers progress update and timelines (every Cardano node implementer representative will give an overview of their project)
 - Amaru incoming initiative: Cardano diversity ambassador program, 2027 Amaru proposal first ideas
 
-<a id="event-91909e24acac006c"></a>
-
-## Web3 Workouts: Calisthenics @ Token2049 Singapore
-
-- Record: `token2049-side-6aa454d7c0426d278bd87ddd`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-06T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/k3s11wzz>
-
-### About the event
-
-Start your Token2049 week right with Web3 Workouts -- all levels of fitness are welcome, from beginners to experts.
-
-For our very first edition, we're doing Calisthenics at a private gym around town. If you're new to calisthenics, we'll teach you and get you started. If you're not, come in and show us your stuff
-
-This will be a casual meetup - come in and show your stuff, or just drop by and ask about skills/moves you've always wanted to learn (ie pull ups, muscle ups, human flags, dragon flags etc), we'll be happy to help.
-
-Expect a good sweat, great vibes, and amazing company.
-
-Limited spots only.
-
-As the gym must be booked in advance with an estimated headcount, please do secure your spot early.
-
-The Gym at Alpha Vitality is a private performance and longevity facility where clinical rehab methodology meets high-performance strength training. Built specifically for healthspan over hype, the venue features top-tier strength equipment, functional conditioning tools, athletic performance gear, and built-in clinical recovery tech including Theragun and Jetboot Prime systems.
-
-If you're interested - the facility also offers Hyperbaric Oxygen Therapy, Red Light Therapy, performance supplements and complimentary health assessments.
-
-More info: https://www.alphavitality.co/
-
-For any sponsorship opportunities or [partnership collaborations, please reach out to @pagingforyx](https://t.me/pagingforyx) on telegram.
-
 <a id="event-274d2c1f3337dad6"></a>
 
 ## AI & Formal Verification for Onchain Finance \| Token2049 Singapore
@@ -32561,18 +32070,6 @@ By attending an event organized by Monad Foundation, you are entering an area wh
 Your entry and presence at such an event constitutes your consent to be photographed, filmed (including live-streamed), and/or otherwise recorded and to the release, publication, exhibition, or reproduction of any and all recorded media of your appearance, voice, and name for any purpose whatsoever in connection with Monad Foundation and its initiatives.
 
 By attending the event, you waive and release any claims you may have related to the use of such media of you at the event.
-
-<a id="event-39b540ec7a899001"></a>
-
-## SH3 Connects Coffee Meetup Singapore Edition Token2049 💫
-
-- Record: `luma-host-evt-evt-1DqZn1IV88ELEgK`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-06T01:30:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/bbstr33c>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-9ada85cf8010c339"></a>
 
@@ -32689,42 +32186,6 @@ Additional partners and speakers to be announced.
 Interested in sponsoring Onchain Day or other Wrapped events? Reach out to us on TG @mrmarcrose
 
 Previous Wrapped Events:
-
-<a id="event-e7b8575cc3c79a49"></a>
-
-## SH3 Connects Coffee Meetup Singapore Edition Token2049 💫
-
-- Record: `token2049-side-6aa25e1fd567345aad685507`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-06T01:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/bbstr33c>
-
-### About the event
-
-Join us for a relaxed coffee networking morning before Token2049 kicks off.
-
-No panels. No presentations. No sales pitches.
-
-Just coffee and genuine conversation with women and allies across Web3, AI, and blockchain. Come to build meaningful relationships, exchange insights, and explore new opportunities all in a warm and welcoming space.
-
-This event is open to everyone! Don't miss out let's connect and grow together.
-
-Meet our partners who are making this event possible
-
-[Take3](https://take3.io/?utm_source=luma) Not just a marketing agency. Take3 the trust-driven growth partner for Web3.
-
-In Web3, the projects that win long-term aren't the loudest, they're the most trusted. Web3 doesn't have a marketing problem. It has a trust problem. Take3 helps Web3 and emerging tech teams build, scale, and compound trust into long-term growth. Globally, from Sydney, Dubai and London.
-
-[Nexa](https://www.nexa.org/)is a fast, scalable, and decentralized Layer-1 blockchain built for real-world adoption. With native smart contracts, ultra-low fees, and high throughput, Nexa enables seamless peer-to-peer transactions and powerful dApps. Fairly launched and community-driven, Nexa is designed to empower everyone.
-
-[WeSo](https://wesohq.com/)is your all-in-one human connection app with human identify verification layer. Think Skyscanner, but for events, entertainment, and food and beverage. Discover experiences to share with friends or turn strangers into friends.
-
-[ProvvyPay](https://www.linkedin.com/company/provvypay/?utm_source=luma) is building the data rails of commerce connecting every payment, order, and inventory record into one intelligent network. Our programmable payments infrastructure enables real-time revenue splits, instant reconciliation, and AI-ready data for smarter, fairer commerce.
-
-### About Us
-
-[EvolvH3R](https://evolvh3r.com/) is dedicated to empowering women and promoting inclusivity in the digital economy. We provide educational and mentorship programs, and engaging networking events. Our mission is to cultivate an inclusive community where every individual, regardless of gender, is empowered to thrive and make their mark in the emerging tech industry.
 
 <a id="event-ecd423c43e6f0ebd"></a>
 
@@ -52226,6 +51687,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-78d9cebd0fb54eca"></a>
+
+## CEC x Google Gemini AI Workshop & Mini Buildathon
+
+- Record: `luma-evt-XuOTiNV5f1hHDOL`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-06T19:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/1lbty2g9>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-92f54df87269d658"></a>
 
 ## Chainlink Community Pulse (English) – October Edition
@@ -52435,6 +51908,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-07T16:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/0awmhyao>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-196ca7191bcd50ed"></a>
+
+## MakerMods Physical AI Hackathon
+
+- Record: `luma-evt-xAyCOgOD6FT9cON`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-07T16:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/pah>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
