@@ -104617,6 +104617,40 @@
       "attemptId": "0a7ac1dd-ab04-4aaa-9464-47e1bf3f6701",
       "verification": "verified",
       "postId": "0x2141b2f3165202711fc0b969a03974294a74fc9a"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops141/fc?og=7"
+          }
+        ],
+        "channel_id": "bounties"
+      },
+      "account": "channel:bounties",
+      "attemptId": "4bc323a0-0548-4ef3-944b-56bfd37dc524",
+      "verification": "creating"
     }
   ]
 }
