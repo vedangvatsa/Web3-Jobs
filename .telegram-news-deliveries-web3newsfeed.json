@@ -3247,7 +3247,7 @@
     "sentAt": "2026-11-05T11:33:48.445Z"
   },
   "65fa3981-1e82-4484-8a32-d78838775d05": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-05T19:48:01.745Z",
     "stories": [
       {
@@ -3275,6 +3275,8 @@
         "originalTitle": "NEAR Intents recovers full $3.8M and closes exploit investigation"
       }
     ],
-    "slotKey": "2026-11-05:evening"
+    "slotKey": "2026-11-05:evening",
+    "messageId": 65806,
+    "sentAt": "2026-11-05T19:48:16.685Z"
   }
 }
