@@ -102683,7 +102683,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "00afad48-f182-41dc-97ca-c727828e0d3e",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6aec0175660b2991f14f3b83"
     }
   ]
 }
