@@ -103667,7 +103667,8 @@
         "description": "Join Ripple as Finance Manager. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "2d961347-a5e9-4c2e-9fff-11027c8bcf6b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mzkrj4xfli2c"
     }
   ]
 }
