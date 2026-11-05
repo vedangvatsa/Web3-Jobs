@@ -104720,7 +104720,8 @@
       },
       "account": "channel:dev",
       "attemptId": "03be6524-c71e-433c-a882-946340ee3f3f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5d023803f0acea9d4e0b33dad7baf2d61986eda0"
     }
   ]
 }
