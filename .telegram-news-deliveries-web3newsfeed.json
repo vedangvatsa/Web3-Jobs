@@ -3212,5 +3212,36 @@
     "slotKey": "2026-11-05:morning",
     "messageId": 65804,
     "sentAt": "2026-11-05T03:33:33.142Z"
+  },
+  "ced757cd-7e24-4483-894e-ce2fc5ffe902": {
+    "status": "reserved",
+    "reservedAt": "2026-11-05T11:33:42.906Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Attacker Steals $1.47 Million From Staking Platform b14g",
+        "summary": "A coding error allowed an attacker to withdraw 97 million CORE tokens using zero-value requests on October 31.",
+        "link": "https://hashtagweb3.com/b14gcore?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Hacker Drains 97 Million CORE From Bitcoin Staking Platform b14g"
+      },
+      {
+        "index": -1,
+        "headline": "CFTC Chair Calls for US Oversight of Offshore Exchanges",
+        "summary": "Michael Selig told CNBC that foreign platforms should follow American cybersecurity standards after a $6.4 billion hack.",
+        "link": "https://hashtagweb3.com/cftchack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC Chair Says Binance Hack Proves Case for US Oversight of Offshore Exchanges"
+      },
+      {
+        "index": -1,
+        "headline": "Visa Reports $25 Billion Annualized Stablecoin Run Rate",
+        "summary": "More than 225 card programs drove over 150% volume growth in fiscal Q4 2026.",
+        "link": "https://hashtagweb3.com/visastablecoins?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Visa reports $25 billion annualized stablecoin settlement run rate in Q4"
+      }
+    ],
+    "slotKey": "2026-11-05:afternoon"
   }
 }
