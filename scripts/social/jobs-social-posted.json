@@ -103532,6 +103532,47 @@
       "verification": "verified",
       "postId": "6aec0283e22643a9878d315c",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7523960856770973696"
+    },
+    {
+      "slug": "brc",
+      "company": "MoonPay",
+      "title": "Head of Business Risk & Controls",
+      "platform": "linkedin",
+      "postedAt": "2026-11-05T04:10:16.568Z",
+      "expectedText": "MoonPay is hiring Head of Business Risk & Controls: https://hashtagweb3.com/brc/li?og=7",
+      "snapshot": {
+        "id": "5e150bc1-bf8f-485c-861a-a2abc6c81f39",
+        "title": "Head of Business Risk & Controls",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/5e150bc1-bf8f-485c-861a-a2abc6c81f39",
+        "date": "2026-10-12T16:51:28.949Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "United States - Remote",
+        "workplaceType": "remote",
+        "department": "Executive Office",
+        "active": true,
+        "dateVerified": true,
+        "slug": "brc"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Head of Business Risk & Controls: https://hashtagweb3.com/brc/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/brc/li?og=7",
+          "title": "Head of Business Risk & Controls at MoonPay",
+          "description": "Join MoonPay as Head of Business Risk & Controls. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/brc.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "c392b2c5-5908-47bf-9ec5-230d98c1906a",
+      "verification": "creating"
     }
   ]
 }
