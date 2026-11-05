@@ -101387,7 +101387,8 @@
       },
       "account": "channel:build",
       "attemptId": "dc3b2bd0-eac1-4a37-b309-dc1ad074a846",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf04c58ebac7461d3cf646401cd1d86e2980eee52"
     }
   ]
 }
