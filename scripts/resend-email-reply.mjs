@@ -65,7 +65,23 @@ if (mode === 'list') {
     all.push(...data.data);
     after = data.has_more && data.data.length ? data.data[data.data.length - 1].id : '';
   } while (after);
-  console.log(JSON.stringify({ count: all.length, emails: all.map((e) => ({ id: e.id, from: e.from, to: e.to, subject: e.subject, created_at: e.created_at })) }, null, 2));
+  const inventory = {
+    generatedAt: new Date().toISOString(),
+    count: all.length,
+    emails: all.map((e) => ({ id: e.id, from: e.from, to: e.to, subject: e.subject, created_at: e.created_at })),
+  };
+  const path = `docs/publisher-outreach/received-emails-inventory-${new Date().toISOString().slice(0, 10)}.json`;
+  const content = Buffer.from(JSON.stringify(inventory, null, 2) + '\n').toString('base64');
+  let sha;
+  {
+    const r = await fetch(`${GITHUB}/contents/${path}?ref=main`, { headers, signal: AbortSignal.timeout(20_000) });
+    if (r.ok) sha = (await r.json()).sha;
+  }
+  const put = await fetch(`${GITHUB}/contents/${path}`, {
+    method: 'PUT', headers, signal: AbortSignal.timeout(30_000),
+    body: JSON.stringify({ branch: 'main', message: 'docs: received-emails inventory snapshot [skip ci]', content, ...(sha && { sha }) }),
+  });
+  console.log(JSON.stringify({ count: all.length, inventoryPath: path, inventoryWriteStatus: put.status }));
   process.exit(0);
 }
 
