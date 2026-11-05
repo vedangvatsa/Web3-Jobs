@@ -3181,7 +3181,7 @@
     "sentAt": "2026-11-04T19:47:08.264Z"
   },
   "852b8de2-6864-453a-8f85-6ef1866d55fc": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-05T03:33:27.488Z",
     "stories": [
       {
@@ -3209,6 +3209,8 @@
         "originalTitle": "Mystery $106 million theft drains EU entity exchange accounts"
       }
     ],
-    "slotKey": "2026-11-05:morning"
+    "slotKey": "2026-11-05:morning",
+    "messageId": 65804,
+    "sentAt": "2026-11-05T03:33:33.142Z"
   }
 }
