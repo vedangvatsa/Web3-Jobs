@@ -106011,7 +106011,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "d90a7b17-380f-46ff-ba4e-b83255dec29e",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6aecdd5eef862e889be677c0"
     }
   ]
 }
