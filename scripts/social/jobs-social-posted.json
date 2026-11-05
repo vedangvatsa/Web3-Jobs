@@ -104347,6 +104347,47 @@
       "verification": "verified",
       "postId": "6aec6a18f26542fc33d352fe",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524072079244111872"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager: https://hashtagweb3.com/mgr128/li?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager: https://hashtagweb3.com/mgr128/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/mgr128/li?og=7",
+          "title": "Finance Manager at Ripple",
+          "description": "Join Ripple as Finance Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/mgr128.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "a55fae50-bd72-44f1-9a81-9e9895193879",
+      "verification": "creating"
     }
   ]
 }
