@@ -125883,7 +125883,31 @@
       "firstSeenAt": "2026-11-03T01:43:52.711Z",
       "attempts": 0,
       "expiresAt": "2026-11-05T22:29:14.000Z",
-      "lastSeenAt": "2026-11-03T01:43:52.711Z"
+      "lastSeenAt": "2026-11-03T01:43:52.711Z",
+      "articleSlug": "liquidtopup",
+      "draftProgress": {
+        "id": "dbd812c40ac2c2a7b2c3",
+        "day": "2026-11-05",
+        "articleSlug": "liquidtopup",
+        "note": "Two independent sources read in full: Crypto Briefing (Nov 2) and TokenPost (Nov 2) on the 300 BTC deposit cutting the L-BTC shortfall to 250 BTC. CoinDesk Nov 3 story says a final 250 BTC transfer fully restored backing but returned HTTP 429 (unread); next review must read a full-backing source before drafting so the article does not present the 250 BTC gap as current.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptobriefing.com/blockstream-300-btc-liquid-shortfall-250/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.tokenpost.com/news/technology/47155",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-11-05T01:02:36.403Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "409d6c2169c3534d7cf2": {
       "source": "The Block",
