@@ -106943,7 +106943,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "1874063c-ad73-4dab-89b5-ed98fa1fb377",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7524196957733556224"
     }
   ]
 }
