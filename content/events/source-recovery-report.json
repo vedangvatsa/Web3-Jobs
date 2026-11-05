@@ -196,38 +196,6 @@
       ]
     },
     {
-      "id": "premier-vntr",
-      "outcome": "recovered",
-      "sourceUrl": "https://luma.com/w5ck9zwq",
-      "reason": "Matched the renamed forum and corrected the older 8 October listing to the organizer's actual 6 October event.",
-      "fetchedAt": "2026-09-20T07:56:55.584Z",
-      "characters": 4101,
-      "changes": [
-        "name",
-        "startDate",
-        "endDate",
-        "description",
-        "timezone",
-        "registrationUrl",
-        "coverImage",
-        "attendanceMode",
-        "visibility",
-        "locationHidden",
-        "city",
-        "country",
-        "location",
-        "hosts",
-        "organizer",
-        "price",
-        "approvalRequired",
-        "ticketOffers",
-        "registrationAvailability",
-        "sourceVerification",
-        "url",
-        "website"
-      ]
-    },
-    {
       "id": "token2049-side-6a622e12d1b48ddf39d08981",
       "outcome": "recovered",
       "sourceUrl": "https://sg2026.vaultsummit.xyz/",

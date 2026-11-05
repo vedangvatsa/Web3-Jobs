@@ -5335,5 +5335,427 @@
       "flop-launch",
       "token2049-evt-rbedxnyqtuewibm"
     ]
+  },
+  "premier-vntr": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "vntr",
+      "vif",
+      "w3v-vntr-investor-forum-singapore",
+      "premier-vntr"
+    ]
+  },
+  "premier-global-onchain-summit-sg-2026": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "global-onchain-summit",
+      "gos",
+      "token2049-side-6a50a69910f84b19adc7276d",
+      "premier-global-onchain-summit-sg-2026",
+      "global-onchain-summit-sg-2026"
+    ]
+  },
+  "premier-coinferencex-singapore-2026": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "coinferencex-singapore",
+      "premier-coinferencex-singapore-2026",
+      "coinferencex-singapore-2026"
+    ]
+  },
+  "w3v-open": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "w3v-open"
+    ]
+  },
+  "w3v-proof-of-health-2026": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "proof-health",
+      "w3v-proof-of-health-2026"
+    ]
+  },
+  "w3v-mantle-rwa-day": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "mrds",
+      "w3v-mantle-rwa-day"
+    ]
+  },
+  "w3v-animoca-portfolio-day": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "apdgae",
+      "w3v-animoca-portfolio-day"
+    ]
+  },
+  "w3v-agentic-money-2026": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "agentic-money",
+      "w3v-agentic-money-2026"
+    ]
+  },
+  "w3v-10x-research-get-together": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "w3v-10x-research-get-together",
+      "1rgt"
+    ]
+  },
+  "w3v-vntr-investor-forum-singapore": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "w3v-vntr-investor-forum-singapore",
+      "vif"
+    ]
+  },
+  "token2049-side-6aa026db967be0befa88cabc": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "cbed12",
+      "cbed22",
+      "token2049-side-6aa026dc967be0befa88cabe",
+      "cbed1",
+      "token2049-side-6a5dff0dd1b48ddf39d0827c",
+      "token2049-side-6aa026db967be0befa88cabc"
+    ]
+  },
+  "token2049-side-6aa13a9bd567345aad685089": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "blockchain-com2",
+      "token2049-side-6aa13a9bd567345aad685089"
+    ]
+  },
+  "token2049-side-6a7a76aa3647af5c01c0653d": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "solana-summit",
+      "token2049-side-6a7a76aa3647af5c01c0653d"
+    ]
+  },
+  "token2049-side-6a6cdc395a75007b41000850": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "onchain-day",
+      "token2049-side-6a6cdc395a75007b41000850"
+    ]
+  },
+  "token2049-side-6a6cdbf1d1b48ddf39d095e1": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "multichain-day",
+      "token2049-side-6a6cdbf1d1b48ddf39d095e1"
+    ]
+  },
+  "token2049-side-6aa026dc967be0befa88cabe": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "token2049-side-6aa026dc967be0befa88cabe",
+      "cbed22"
+    ]
+  },
+  "token2049-side-6a6a54acd1b48ddf39d0929b": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "fxvs",
+      "token2049-side-6a6a54acd1b48ddf39d0929b"
+    ]
+  },
+  "token2049-side-6a9fb489967be0befa88c886": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "cbbkg",
+      "token2049-side-6a9fb489967be0befa88c886"
+    ]
+  },
+  "token2049-side-6a82cebe298f21044c271646": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "afif",
+      "token2049-side-6a82cebe298f21044c271646"
+    ]
+  },
+  "token2049-side-6a50a69910f84b19adc7276d": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "token2049-side-6a50a69910f84b19adc7276d",
+      "gos"
+    ]
+  },
+  "token2049-side-6a8c0860244677004e8f54a5": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "apdgae2",
+      "token2049-side-6a8c0860244677004e8f54a5"
+    ]
+  },
+  "token2049-side-6a982b78d567345aad682ccf": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "zfh2",
+      "token2049-side-6a982b78d567345aad682ccf"
+    ]
+  },
+  "token2049-side-6aa18218967be0befa88d05a": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "iofs",
+      "token2049-side-6aa18218967be0befa88d05a"
+    ]
+  },
+  "token2049-side-6a7d3455d354d830a2240048": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "private-sundao",
+      "token2049-side-6a7d3455d354d830a2240048"
+    ]
+  },
+  "token2049-side-6a996e9c967be0befa88b3d7": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "qlqsxp",
+      "token2049-side-6a996e9c967be0befa88b3d7"
+    ]
+  },
+  "token2049-side-6aa15389d567345aad685118": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "ssmchf",
+      "token2049-side-6aa15389d567345aad685118"
+    ]
+  },
+  "token2049-side-6a98d712d567345aad683326": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "osio",
+      "token2049-side-6a98d712d567345aad683326"
+    ]
+  },
+  "luma-batch-74nllBgJJFrnDdQ": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "dpdxyo2d",
+      "luma-batch-74nllbgjjfrnddq"
+    ]
+  },
+  "luma-batch-evtr2Mm8rJDbMu9k": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "dvpbycag",
+      "luma-batch-evtr2mm8rjdbmu9k"
+    ]
+  },
+  "luma-batch-evt1291c5ByLSJbF": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "dktmv7d2",
+      "luma-batch-evt1291c5bylsjbf"
+    ]
+  },
+  "luma-batch-evtzZIHFPD4P6uqW": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "5lyw9ulx",
+      "luma-batch-evtzzihfpd4p6uqw"
+    ]
+  },
+  "luma-batch-evtUiwJpYm0Y5afi": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "gj0iv2kk",
+      "luma-batch-evtuiwjpym0y5afi"
+    ]
+  },
+  "luma-batch-evtea0ExPMp9jrB1": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "5kdau1ak",
+      "luma-batch-evtea0expmp9jrb1"
+    ]
+  },
+  "luma-batch-evtHvT2PQbFrXtHm": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "3cvlquah",
+      "luma-batch-evthvt2pqbfrxthm"
+    ]
+  },
+  "luma-crypto-Qm3jiCrG5WYct6j": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "hfd",
+      "luma-crypto-qm3jicrg5wyct6j"
+    ]
+  },
+  "luma-crypto-CuBqqXAPJTj9BgU": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "ftss",
+      "luma-crypto-cubqqxapjtj9bgu"
+    ]
+  },
+  "luma-crypto-QF47atVqujSc4Gq": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "wpt2wccto",
+      "luma-crypto-qf47atvqujsc4gq"
+    ]
+  },
+  "luma-crypto-B5mJHVEwxexR70t": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "msm",
+      "luma-crypto-b5mjhvewxexr70t"
+    ]
+  },
+  "luma-crypto-VWA51AyjG3qdtpb": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "agnt",
+      "luma-crypto-vwa51ayjg3qdtpb"
+    ]
+  },
+  "luma-crypto-lt0WbNw6gENsUVZ": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "nhhts",
+      "luma-crypto-lt0wbnw6gensuvz"
+    ]
+  },
+  "token2049-evt-lROqsKz6ABcvpIV": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "rwaltd-private",
+      "token2049-evt-lroqskz6abcvpiv"
+    ]
+  },
+  "token2049-evt-IUB3WGqob4BF1Ss": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "building-trust",
+      "token2049-evt-iub3wgqob4bf1ss"
+    ]
+  },
+  "token2049-evt-vgMkvMtis7lDGiI": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "buidlquests-final",
+      "token2049-evt-vgmkvmtis7ldgii"
+    ]
+  },
+  "token2049-evt-SurrMPq7KItfuyZ": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "rekt-invitational",
+      "token2049-evt-surrmpq7kitfuyz"
+    ]
+  },
+  "token2049-evt-YLmC9gJkFAvWMAQ": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "game-on",
+      "token2049-evt-ylmc9gjkfavwmaq"
+    ]
+  },
+  "token2049-evt-qZePXmFRhjLBjB2": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "fireside-chat",
+      "token2049-evt-qzepxmfrhjlbjb2"
+    ]
+  },
+  "token2049-evt-G0W9nyZI9H2mWbH": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "based-afternoon",
+      "token2049-evt-g0w9nyzi9h2mwbh"
+    ]
+  },
+  "token2049-evt-cHRscHxRkfb4HFN": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "arc-run",
+      "token2049-evt-chrschxrkfb4hfn"
+    ]
+  },
+  "token2049-evt-hiGUpzhc8Cu0nhw": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "evg-rexy",
+      "token2049-evt-higupzhc8cu0nhw"
+    ]
+  },
+  "token2049-evt-FMgPTiAfJKFD0Mo": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "polygon-vip",
+      "token2049-evt-fmgptiafjkfd0mo"
+    ]
+  },
+  "token2049-evt-AWbc6L9qlSB041d": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "day-two",
+      "token2049-evt-awbc6l9qlsb041d"
+    ]
+  },
+  "token2049-evt-6Es1pgQEhEEBR0h": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "10x-research",
+      "token2049-evt-6es1pgqeheebr0h"
+    ]
+  },
+  "token2049-evt-l8l4A5NRvNacnGR": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "atli-station2",
+      "token2049-evt-l8l4a5nrvnacngr"
+    ]
+  },
+  "token2049-evt-yRNOA5dEuGxIjiV": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "allocators-table",
+      "token2049-evt-yrnoa5deugxijiv"
+    ]
+  },
+  "token2049-evt-rHXtY6fB3jfHz2h": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "capital-table",
+      "token2049-evt-rhxty6fb3jfhz2h"
+    ]
+  },
+  "token2049-evt-hcz0OuGLtaufrZ0": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "forgd-defillama",
+      "token2049-evt-hcz0ougltaufrz0"
+    ]
+  },
+  "token2049-evt-bQOSK443RBshffY": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "agentic-finance",
+      "token2049-evt-bqosk443rbshffy"
+    ]
+  },
+  "token2049-2d2ed13770496f4e": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "vc-founders",
+      "token2049-2d2ed13770496f4e"
+    ]
+  },
+  "token2049-evt-trBbAUzB4OvqPN8": {
+    "until": "2027-11-05T11:32:01.700Z",
+    "slugs": [
+      "ngc-token2049",
+      "token2049-evt-trbbauzb4ovqpn8"
+    ]
   }
 }

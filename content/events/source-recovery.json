@@ -130,16 +130,6 @@
       "reason": "Replaced XREX's company homepage with the summit's official event website."
     },
     {
-      "id": "premier-vntr",
-      "kind": "luma",
-      "sourceUrl": "https://luma.com/w5ck9zwq",
-      "contains": [
-        "VNTR Capital Allocators Forum Singapore"
-      ],
-      "eventId": "evt-2bmdPRcv3J5m1I5",
-      "reason": "Matched the renamed forum and corrected the older 8 October listing to the organizer's actual 6 October event."
-    },
-    {
       "id": "token2049-side-6a622e12d1b48ddf39d08981",
       "kind": "reviewed",
       "sourceUrl": "https://sg2026.vaultsummit.xyz/",

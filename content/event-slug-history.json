@@ -31,10 +31,6 @@
     "slug": "rwa-week",
     "aliases": []
   },
-  "premier-coinferencex-singapore-2026": {
-    "slug": "coinferencex-singapore",
-    "aliases": []
-  },
   "token2049-ea89b871a8872b45": {
     "slug": "all-that",
     "aliases": []
@@ -42,19 +38,6 @@
   "token2049-evt-1wE8LVXclyqhzEW": {
     "slug": "web3tv-interview",
     "aliases": []
-  },
-  "luma-batch-74nllBgJJFrnDdQ": {
-    "slug": "dpdxyo2d",
-    "aliases": []
-  },
-  "token2049-side-6aa026db967be0befa88cabc": {
-    "slug": "cbed12",
-    "aliases": [
-      "cbed22",
-      "token2049-side-6aa026dc967be0befa88cabe",
-      "cbed1",
-      "token2049-side-6a5dff0dd1b48ddf39d0827c"
-    ]
   },
   "token2049-06041dac33726be9": {
     "slug": "time-heist",
@@ -97,10 +80,6 @@
       "token2049-side-6a511b9110f84b19adc7284c"
     ]
   },
-  "token2049-side-6aa13a9bd567345aad685089": {
-    "slug": "blockchain-com2",
-    "aliases": []
-  },
   "premier-token2049-origins-2026": {
     "slug": "token2049-origins",
     "aliases": []
@@ -113,210 +92,28 @@
     "slug": "days",
     "aliases": []
   },
-  "luma-crypto-Qm3jiCrG5WYct6j": {
-    "slug": "hfd",
-    "aliases": []
-  },
-  "w3v-open": {
-    "slug": "open",
-    "aliases": []
-  },
-  "token2049-side-6a7a76aa3647af5c01c0653d": {
-    "slug": "solana-summit",
-    "aliases": []
-  },
   "token2049-side-6a98c34d967be0befa88b066": {
     "slug": "csxasc",
-    "aliases": []
-  },
-  "premier-vntr": {
-    "slug": "vntr",
-    "aliases": [
-      "vif",
-      "w3v-vntr-investor-forum-singapore"
-    ]
-  },
-  "token2049-side-6a6cdc395a75007b41000850": {
-    "slug": "onchain-day",
-    "aliases": []
-  },
-  "token2049-side-6a6cdbf1d1b48ddf39d095e1": {
-    "slug": "multichain-day",
-    "aliases": []
-  },
-  "token2049-evt-lROqsKz6ABcvpIV": {
-    "slug": "rwaltd-private",
-    "aliases": []
-  },
-  "token2049-evt-bQOSK443RBshffY": {
-    "slug": "agentic-finance",
-    "aliases": []
-  },
-  "w3v-proof-of-health-2026": {
-    "slug": "proof-health",
-    "aliases": []
-  },
-  "luma-crypto-CuBqqXAPJTj9BgU": {
-    "slug": "ftss",
-    "aliases": []
-  },
-  "luma-crypto-QF47atVqujSc4Gq": {
-    "slug": "wpt2wccto",
-    "aliases": []
-  },
-  "luma-batch-evtr2Mm8rJDbMu9k": {
-    "slug": "dvpbycag",
-    "aliases": []
-  },
-  "token2049-side-6a6a54acd1b48ddf39d0929b": {
-    "slug": "fxvs",
-    "aliases": []
-  },
-  "token2049-side-6a9fb489967be0befa88c886": {
-    "slug": "cbbkg",
-    "aliases": []
-  },
-  "token2049-evt-IUB3WGqob4BF1Ss": {
-    "slug": "building-trust",
-    "aliases": []
-  },
-  "token2049-side-6a82cebe298f21044c271646": {
-    "slug": "afif",
-    "aliases": []
-  },
-  "premier-global-onchain-summit-sg-2026": {
-    "slug": "global-onchain-summit",
-    "aliases": [
-      "gos",
-      "token2049-side-6a50a69910f84b19adc7276d"
-    ]
-  },
-  "token2049-evt-vgMkvMtis7lDGiI": {
-    "slug": "buidlquests-final",
-    "aliases": []
-  },
-  "token2049-evt-SurrMPq7KItfuyZ": {
-    "slug": "rekt-invitational",
-    "aliases": []
-  },
-  "token2049-evt-FMgPTiAfJKFD0Mo": {
-    "slug": "polygon-vip",
-    "aliases": []
-  },
-  "token2049-evt-yRNOA5dEuGxIjiV": {
-    "slug": "allocators-table",
-    "aliases": []
-  },
-  "token2049-evt-rHXtY6fB3jfHz2h": {
-    "slug": "capital-table",
-    "aliases": []
-  },
-  "token2049-evt-trBbAUzB4OvqPN8": {
-    "slug": "ngc-token2049",
-    "aliases": []
-  },
-  "luma-batch-evt1291c5ByLSJbF": {
-    "slug": "dktmv7d2",
-    "aliases": []
-  },
-  "luma-batch-evtUiwJpYm0Y5afi": {
-    "slug": "gj0iv2kk",
     "aliases": []
   },
   "w3v-solana-capital-forum-singapore": {
     "slug": "scf",
     "aliases": []
   },
-  "w3v-mantle-rwa-day": {
-    "slug": "mrds",
-    "aliases": []
-  },
-  "w3v-animoca-portfolio-day": {
-    "slug": "apdgae",
-    "aliases": []
-  },
-  "token2049-side-6a982b78d567345aad682ccf": {
-    "slug": "zfh2",
-    "aliases": []
-  },
-  "token2049-evt-YLmC9gJkFAvWMAQ": {
-    "slug": "game-on",
-    "aliases": []
-  },
-  "token2049-evt-AWbc6L9qlSB041d": {
-    "slug": "day-two",
-    "aliases": []
-  },
-  "token2049-side-6a8c0860244677004e8f54a5": {
-    "slug": "apdgae2",
-    "aliases": []
-  },
-  "token2049-side-6aa18218967be0befa88d05a": {
-    "slug": "iofs",
-    "aliases": []
-  },
-  "token2049-evt-qZePXmFRhjLBjB2": {
-    "slug": "fireside-chat",
-    "aliases": []
-  },
-  "luma-crypto-B5mJHVEwxexR70t": {
-    "slug": "msm",
-    "aliases": []
-  },
-  "w3v-agentic-money-2026": {
-    "slug": "agentic-money",
-    "aliases": []
-  },
   "token2049-evt-THbCC1Qq6aulTPD": {
     "slug": "open-interest",
-    "aliases": []
-  },
-  "luma-crypto-VWA51AyjG3qdtpb": {
-    "slug": "agnt",
     "aliases": []
   },
   "luma-batch-6b8kMTMPb1YHCw0": {
     "slug": "buildersstationcolosseumhackathon",
     "aliases": []
   },
-  "luma-batch-evtzZIHFPD4P6uqW": {
-    "slug": "5lyw9ulx",
-    "aliases": []
-  },
-  "luma-batch-evtea0ExPMp9jrB1": {
-    "slug": "5kdau1ak",
-    "aliases": []
-  },
   "token2049-side-6aa25cf5d567345aad685500": {
     "slug": "epw",
     "aliases": []
   },
-  "luma-batch-evtHvT2PQbFrXtHm": {
-    "slug": "3cvlquah",
-    "aliases": []
-  },
-  "token2049-evt-G0W9nyZI9H2mWbH": {
-    "slug": "based-afternoon",
-    "aliases": []
-  },
   "token2049-evt-57E5wz1bV6Aay59": {
     "slug": "family-offices",
-    "aliases": []
-  },
-  "token2049-2d2ed13770496f4e": {
-    "slug": "vc-founders",
-    "aliases": []
-  },
-  "token2049-side-6a7d3455d354d830a2240048": {
-    "slug": "private-sundao",
-    "aliases": []
-  },
-  "token2049-side-6a996e9c967be0befa88b3d7": {
-    "slug": "qlqsxp",
-    "aliases": []
-  },
-  "token2049-side-6aa15389d567345aad685118": {
-    "slug": "ssmchf",
     "aliases": []
   },
   "premier-daweek-london-2026": {
@@ -327,24 +124,8 @@
     "slug": "revo-connect",
     "aliases": []
   },
-  "token2049-side-6a98d712d567345aad683326": {
-    "slug": "osio",
-    "aliases": []
-  },
-  "token2049-evt-cHRscHxRkfb4HFN": {
-    "slug": "arc-run",
-    "aliases": []
-  },
-  "token2049-evt-hiGUpzhc8Cu0nhw": {
-    "slug": "evg-rexy",
-    "aliases": []
-  },
   "token2049-evt-ver9kfBcGTZRx9E": {
     "slug": "tokenised-singapore",
-    "aliases": []
-  },
-  "token2049-evt-hcz0OuGLtaufrZ0": {
-    "slug": "forgd-defillama",
     "aliases": []
   },
   "luma-crypto-C7HgzUqyCNyMBPO": {
@@ -353,14 +134,6 @@
   },
   "luma-crypto-b6043GGltQOzJWN": {
     "slug": "tokenizeth",
-    "aliases": []
-  },
-  "token2049-evt-l8l4A5NRvNacnGR": {
-    "slug": "atli-station2",
-    "aliases": []
-  },
-  "luma-crypto-lt0WbNw6gENsUVZ": {
-    "slug": "nhhts",
     "aliases": []
   },
   "token2049-evt-3vaErW1CTBrRYa3": {
@@ -377,10 +150,6 @@
   },
   "token2049-evt-lA2ioAHylvNokhG": {
     "slug": "kickoff-on",
-    "aliases": []
-  },
-  "token2049-evt-6Es1pgQEhEEBR0h": {
-    "slug": "10x-research",
     "aliases": []
   },
   "luma-batch-cy4MdiJptug7TkG": {
