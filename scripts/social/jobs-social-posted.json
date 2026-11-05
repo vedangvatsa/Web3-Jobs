@@ -105897,7 +105897,8 @@
       },
       "account": "channel:product",
       "attemptId": "299d4cab-8d22-4c20-b278-27903e099822",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb50fa9ca59da8e8741b436eef71b59fff11b9c9c"
     }
   ]
 }
