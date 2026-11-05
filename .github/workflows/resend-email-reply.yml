@@ -10,8 +10,8 @@ on:
         default: lookup
         required: true
       email_id:
-        description: Resend email entity id (uuid)
-        required: true
+        description: Resend email entity id (uuid); not needed for list mode
+        required: false
       subject:
         description: Reply subject (send mode)
         required: false
