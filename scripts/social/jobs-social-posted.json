@@ -106054,8 +106054,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "5c8db91f-781e-44cb-b0bc-d6063775b1d2",
-      "verification": "pending",
-      "postId": "6aecdd7c26d4080d86d12e11"
+      "verification": "verified",
+      "postId": "6aecdd7c26d4080d86d12e11",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524195977071656960"
     }
   ]
 }
