@@ -103636,6 +103636,38 @@
       "attemptId": "d8e77a75-7769-4711-ab5c-07b204fb26ae",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Thursday, 05-Nov-26 03:33:36 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A_LpvwGUIBs9SrA60q_0wpH\"}"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager: https://hashtagweb3.com/mgr128/bsky?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager: https://hashtagweb3.com/mgr128/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/mgr128/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/mgr128.png?v=7",
+        "company": "Ripple",
+        "title": "Finance Manager",
+        "description": "Join Ripple as Finance Manager. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "2d961347-a5e9-4c2e-9fff-11027c8bcf6b",
+      "verification": "creating"
     }
   ]
 }
