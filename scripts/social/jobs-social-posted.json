@@ -104226,7 +104226,8 @@
       },
       "account": "channel:design",
       "attemptId": "35d0dc6f-57f0-4742-b2f9-b44eacfa3d01",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd00e73abe058597859773fe837f9191ac8cb8ed7"
     }
   ]
 }
