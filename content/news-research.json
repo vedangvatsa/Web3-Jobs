@@ -130694,11 +130694,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "3a1140ee3b778e913e91",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T21:20:34.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read the CryptoSlate piece in full: it interprets the Fed's Nov. 2 SLOOS lending survey and speculates about spillovers to Bitcoin, while stating the data show no evidence of forced Bitcoin sales. Single-source macro analysis with no concrete Web3 event.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/bitcoin-investors-could-pay-the-price-as-the-federal-reserve-tightens-bank-lending-rules/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-05T00:33:17.908Z",
+      "lastReviewedDay": "2026-11-05"
     },
     "4ca3186c092c250ec536": {
       "source": "The Defiant",
@@ -134981,11 +134991,25 @@
         "Decrypt"
       ],
       "id": "ca56f1a4859f207c5e02",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T03:58:45.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "out-of-scope",
+      "note": "Read Cointelegraph and Decrypt in full: the story covers the UK NCSC's Annual Review 2026 warning about AI-powered ransomware on national infrastructure by 2028. The report and both articles contain no crypto, blockchain or Web3 element, so the story is outside this site's scope.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/uk-warns-ai-ransomware-attack-on-infrastructure-highly-likely-by-2028",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/382411/uk-says-ai-powered-ransomware-attack-on-critical-infrastructure-highly-likely-by-2028",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-05T00:33:17.908Z",
+      "lastReviewedDay": "2026-11-05"
     },
     "ce92389d50d3a5eff65a": {
       "source": "The Defiant",
@@ -136504,11 +136528,21 @@
         "Unchained"
       ],
       "id": "e86c7c001252ae190acd",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-05T00:28:26.536Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-07T22:46:03.000Z",
-      "lastSeenAt": "2026-11-05T00:28:26.536Z"
+      "lastSeenAt": "2026-11-05T00:28:26.536Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read the Decrypt piece in full: it is analysis of Matt Corallo's comments on BIP-54 odds and developer sentiment, with no activation date, release, vote or filing. Speculation about a future soft fork is not a concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382568/why-bitcoin-next-soft-fork-could-feel-like-practice-run",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-05T00:33:17.908Z",
+      "lastReviewedDay": "2026-11-05"
     },
     "022a7e704c5607a22796": {
       "source": "BeInCrypto",
@@ -249913,6 +249947,46 @@
             "Find independent reporting confirming the event in: DeFi Explained",
             "Retry the attempted URLs after any Retry-After time, within the existing verification window."
           ]
+        },
+        "e86c7c001252ae190acd": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read the Decrypt piece in full: it is analysis of Matt Corallo's comments on BIP-54 odds and developer sentiment, with no activation date, release, vote or filing. Speculation about a future soft fork is not a concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382568/why-bitcoin-next-soft-fork-could-feel-like-practice-run",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-05T00:33:17.908Z"
+        },
+        "3a1140ee3b778e913e91": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read the CryptoSlate piece in full: it interprets the Fed's Nov. 2 SLOOS lending survey and speculates about spillovers to Bitcoin, while stating the data show no evidence of forced Bitcoin sales. Single-source macro analysis with no concrete Web3 event.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/bitcoin-investors-could-pay-the-price-as-the-federal-reserve-tightens-bank-lending-rules/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-05T00:33:17.908Z"
+        },
+        "ca56f1a4859f207c5e02": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read Cointelegraph and Decrypt in full: the story covers the UK NCSC's Annual Review 2026 warning about AI-powered ransomware on national infrastructure by 2028. The report and both articles contain no crypto, blockchain or Web3 element, so the story is outside this site's scope.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/uk-warns-ai-ransomware-attack-on-infrastructure-highly-likely-by-2028",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/382411/uk-says-ai-powered-ransomware-attack-on-critical-infrastructure-highly-likely-by-2028",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-05T00:33:17.908Z"
         }
       },
       "baselineSlugs": [
