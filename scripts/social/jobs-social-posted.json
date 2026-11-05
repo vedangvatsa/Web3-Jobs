@@ -100457,6 +100457,40 @@
       "attemptId": "9f964b1a-b369-4d65-bb44-83ac74e21003",
       "verification": "verified",
       "postId": "0x4e301595a37e3628a53f6cedd28f68110713ca44"
+    },
+    {
+      "slug": "sls365",
+      "company": "Alpaca",
+      "title": "Senior Accountant",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T03:32:18.928Z",
+      "expectedText": "Alpaca is hiring Senior Accountant\n\nhttps://hashtagweb3.com/sls365/fc?og=7",
+      "snapshot": {
+        "id": "6238284004",
+        "title": "Senior Accountant",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6238284004",
+        "date": "2026-10-29T14:48:57-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "North America - Remote",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls365"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Senior Accountant\n\nhttps://hashtagweb3.com/sls365/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls365/fc?og=7"
+          }
+        ],
+        "channel_id": "founders"
+      },
+      "account": "channel:founders",
+      "attemptId": "4ac97c5a-1d84-416b-a0df-6b517a7d477d",
+      "verification": "creating"
     }
   ]
 }
