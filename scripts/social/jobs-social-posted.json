@@ -105191,6 +105191,47 @@
       "verification": "verified",
       "postId": "6aec6adbf5b4b5564cb4e449",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524072896084873216"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager: https://hashtagweb3.com/ops141/li?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager: https://hashtagweb3.com/ops141/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ops141/li?og=7",
+          "title": "Finance Operations Senior Manager at OKX",
+          "description": "Join OKX as Finance Operations Senior Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ops141.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "9a26886e-670d-4948-8eb3-eb80ccbc1fc9",
+      "verification": "creating"
     }
   ]
 }
