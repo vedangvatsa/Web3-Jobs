@@ -106327,7 +106327,8 @@
       },
       "account": "channel:web3",
       "attemptId": "bde427f5-51d7-4404-a3ec-a91e5ccbb643",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x37e23815e4c580054013527324d0d063ca3d7967"
     }
   ]
 }
