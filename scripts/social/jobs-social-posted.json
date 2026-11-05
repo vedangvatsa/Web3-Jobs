@@ -103607,6 +103607,34 @@
       "verification": "pending",
       "postId": "6aec697120e5812fe94550ee",
       "error": "Buffer X returned an unexpected published URL for 6aec697120e5812fe94550ee"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "threads",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager: https://hashtagweb3.com/mgr128/th?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager: https://hashtagweb3.com/mgr128/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/mgr128/th?og=7"
+      },
+      "attemptId": "d8e77a75-7769-4711-ab5c-07b204fb26ae",
+      "verification": "creating"
     }
   ]
 }
