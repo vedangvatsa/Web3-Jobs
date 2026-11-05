@@ -103341,7 +103341,8 @@
       },
       "account": "channel:ai",
       "attemptId": "995365f2-b822-479f-ae85-84a12ff7553c",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Employer application unverified: The operation was aborted due to timeout"
     }
   ]
 }
