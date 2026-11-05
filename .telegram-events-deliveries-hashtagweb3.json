@@ -4600,5 +4600,52 @@
     "slotKey": "2026-11-04:evening",
     "messageId": 156083,
     "sentAt": "2026-11-04T19:43:18.233Z"
+  },
+  "6e316b0f-4dc3-40d1-bf9c-aa6515454a4f": {
+    "status": "reserved",
+    "reservedAt": "2026-11-05T03:32:19.922Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-rvTrhOFrZjU1t4G",
+        "slug": "bitcoin-brunch-boro-mclean",
+        "name": "Bitcoin Brunch - The Boro",
+        "startDate": "2026-11-14T16:00:00.000Z",
+        "keys": [
+          "luma-crypto-rvtrhofrzju1t4g",
+          "xvqy8tmn",
+          "page:bitcoin-brunch-boro-mclean:2026-11-14",
+          "luma-url:/xvqy8tmn",
+          "event:bitcoinbrunchtheboro:2026-11-14:mclean"
+        ]
+      },
+      {
+        "id": "discovery-evt-zgDyaoeNsB7r9bo",
+        "slug": "bitcoin-indonesia-community-meetup-bandung-15-november",
+        "name": "Bitcoin Indonesia Community Meetup Bandung 15 November 2026",
+        "startDate": "2026-11-15T10:00:00+07:00",
+        "keys": [
+          "discovery-evt-zgdyaoensb7r9bo",
+          "page:bitcoin-indonesia-community-meetup-bandung-15-november:2026-11-15",
+          "luma:evt-zgdyaoensb7r9bo",
+          "luma-url:/xdmgev1d",
+          "event:bitcoinindonesiacommunitymeetupbandung15november2026:2026-11-15:bandung"
+        ]
+      },
+      {
+        "id": "premier-ibt-jaipur-2026",
+        "slug": "ibt-jaipur",
+        "name": "India Blockchain & AI Tour 2026 - Jaipur",
+        "startDate": "2026-11-15T10:00:00+05:30",
+        "keys": [
+          "premier-ibt-jaipur-2026",
+          "page:ibt-jaipur:2026-11-15",
+          "url:indiablockchaintour.com/2026-nodes/jaipur/ticket:2026-11-15",
+          "event:indiablockchainaitour2026jaipur:2026-11-15:jaipur"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-05:morning"
   }
 }
