@@ -102166,7 +102166,8 @@
       },
       "account": "channel:bounties",
       "attemptId": "a5a67c8c-f8a0-4455-8298-87766d1c1aff",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x35286794208d138772d21afc6238878b4ba14bb5"
     }
   ]
 }
