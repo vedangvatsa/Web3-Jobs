@@ -103166,7 +103166,8 @@
       },
       "account": "channel:founders",
       "attemptId": "9917d756-6801-4f1f-85e5-f6b7ef506ae3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x3bb7dc2157119e1c765a8fc34309f81bce574f52"
     }
   ]
 }
