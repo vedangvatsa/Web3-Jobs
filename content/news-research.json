@@ -131729,9 +131729,9 @@
         "The Defiant"
       ],
       "id": "a87a0138cb01050fd0ce",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T16:44:20.000Z",
       "lastSeenAt": "2026-11-04T00:03:58.707Z",
       "articleSlug": "fakeinterview",
@@ -131753,7 +131753,21 @@
         "updatedAt": "2026-11-05T01:05:55.280Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read Bitcoin Magazine (Nov 3) and the BBC (Nov 3) in full this run; matched the five-month timeline, Oct. 29 UTC windows, transferred amounts, frozen .85B and98% replenishment across both. No duplicate of binancecover (Oct 31 set-aside story) or kimjong (Nov 2 denial); this covers the Nov 3 incident report. Hero self-hosted from Wikimedia; quality, image, formatting and duplicate audits pass; outbound links 200.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/binance-says-6-34-billion-hack-job",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.bbc.com/news/articles/ck5ynwz9gy67o",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-05T01:13:45.695Z",
+      "lastReviewedDay": "2026-11-05"
     },
     "543f477588f02cb5ff79": {
       "source": "Cointelegraph",
@@ -250337,6 +250351,23 @@
           ],
           "reviewedAt": "2026-11-05T01:10:51.099Z",
           "articleSlug": "bitgostacks"
+        },
+        "a87a0138cb01050fd0ce": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Bitcoin Magazine (Nov 3) and the BBC (Nov 3) in full this run; matched the five-month timeline, Oct. 29 UTC windows, transferred amounts, frozen .85B and98% replenishment across both. No duplicate of binancecover (Oct 31 set-aside story) or kimjong (Nov 2 denial); this covers the Nov 3 incident report. Hero self-hosted from Wikimedia; quality, image, formatting and duplicate audits pass; outbound links 200.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/binance-says-6-34-billion-hack-job",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bbc.com/news/articles/ck5ynwz9gy67o",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-05T01:13:45.695Z",
+          "articleSlug": "fakeinterview"
         }
       },
       "baselineSlugs": [
