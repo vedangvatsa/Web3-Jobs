@@ -102276,6 +102276,41 @@
       "attemptId": "3b484e5b-c4d0-404a-812e-9dfd53d05020",
       "verification": "verified",
       "postId": "0x14d4153b82909ff7fbad2f0eaeaee239ca6e4be7"
+    },
+    {
+      "slug": "int47",
+      "company": "DriveWealth",
+      "title": "AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T04:07:22.065Z",
+      "expectedText": "DriveWealth is hiring AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027\n\nhttps://hashtagweb3.com/int47/fc?og=7",
+      "snapshot": {
+        "id": "8039368003",
+        "title": "AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027",
+        "company": "DriveWealth",
+        "link": "https://boards.greenhouse.io/drivewealth/jobs/8039368003?gh_jid=8039368003",
+        "date": "2026-10-20T14:41:59-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DriveWealth [drivewealth]",
+        "location": "Chicago, IL",
+        "department": "Internships & Early Careers",
+        "active": true,
+        "salary": "$35 – $40/hr",
+        "dateVerified": true,
+        "slug": "int47"
+      },
+      "payload": {
+        "text": "DriveWealth is hiring AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027\n\nhttps://hashtagweb3.com/int47/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/int47/fc?og=7"
+          }
+        ],
+        "channel_id": "build"
+      },
+      "account": "channel:build",
+      "attemptId": "c6892047-0b3d-40f3-b96f-707b140431aa",
+      "verification": "creating"
     }
   ]
 }
