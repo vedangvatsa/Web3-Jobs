@@ -106677,7 +106677,8 @@
       },
       "account": "channel:defi",
       "attemptId": "53b4e9e5-00e0-4859-b864-2836e7cb7b7b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x922736fae31aab9bf2cbdfc20c403a37c174a3bc"
     }
   ]
 }
