@@ -104018,6 +104018,40 @@
       "attemptId": "3e3a57f3-816a-47a8-87c6-bbecc4c50d63",
       "verification": "verified",
       "postId": "0xee1e9fa0967da2b49bf678ea815fe36b095ae08f"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mgr128/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "1c1eb282-479b-4f71-8501-4a82af2efe03",
+      "verification": "creating"
     }
   ]
 }
