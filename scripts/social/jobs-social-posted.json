@@ -103376,7 +103376,8 @@
       },
       "account": "channel:product",
       "attemptId": "a6172934-e445-43c9-ba62-0a9f81ff8748",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Employer application unverified: The operation was aborted due to timeout"
     }
   ]
 }
