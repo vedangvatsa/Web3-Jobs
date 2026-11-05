@@ -105188,7 +105188,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "2cf4b1ee-39a1-4d13-89fa-5bf560d11763",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6aec6adbf5b4b5564cb4e449"
     }
   ]
 }
