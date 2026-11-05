@@ -716,6 +716,28 @@
         "rolloutState": "SUCCEEDED",
         "confirmedAt": "2026-11-04T11:46:02.880Z"
       }
+    ],
+    "2026-11-05": [
+      {
+        "date": "2026-11-05",
+        "id": "41941394796-1",
+        "sourceCommit": "60401b07fd3e184ff12679f02c5e2764478f6cb4",
+        "jobsCheckedAt": "2026-11-05T00:37:38.116Z",
+        "newsCompletedAt": "2026-11-05T01:44:34.490Z",
+        "articleSlugs": [
+          "safubtc",
+          "koreacold",
+          "eustolen",
+          "mercadobitcoin",
+          "bitgostacks",
+          "fakeinterview",
+          "sunsanction"
+        ],
+        "phase": "building",
+        "startedAt": "2026-11-05T01:45:35.215Z",
+        "buildId": "daily-20261105-41941394796-1",
+        "rolloutId": "daily-20261105-41941394796-1"
+      }
     ]
   }
 }
