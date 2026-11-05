@@ -126177,11 +126177,27 @@
       ],
       "alsoCoveredBy": [],
       "id": "08dcd5d8f54963ac6ab9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-03T01:43:52.711Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-05T21:16:03.000Z",
-      "lastSeenAt": "2026-11-03T01:43:52.711Z"
+      "lastSeenAt": "2026-11-03T01:43:52.711Z",
+      "reason": "duplicate",
+      "note": "Same ZachXBT report of the Nov 1 06M EU-entity theft that the ready eustolen article covers; Decrypt and Cointelegraph published within seconds of each other on the same Telegram post. Both sources were read in full for the eustolen review.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-05T01:28:21.583Z",
+      "duplicateOf": "eustolen",
+      "mergedInto": "70ac515295fc9644a73b",
+      "lastReviewedDay": "2026-11-05"
     },
     "313f0ced9566ebbf4180": {
       "source": "The Defiant",
@@ -250477,6 +250493,24 @@
           ],
           "reviewedAt": "2026-11-05T01:28:04.373Z",
           "articleSlug": "eustolen"
+        },
+        "08dcd5d8f54963ac6ab9": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same ZachXBT report of the Nov 1 06M EU-entity theft that the ready eustolen article covers; Decrypt and Cointelegraph published within seconds of each other on the same Telegram post. Both sources were read in full for the eustolen review.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-05T01:28:21.583Z",
+          "duplicateOf": "eustolen",
+          "mergedInto": "70ac515295fc9644a73b"
         }
       },
       "baselineSlugs": [
