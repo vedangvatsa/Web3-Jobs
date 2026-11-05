@@ -38,6 +38,14 @@
     "lastUrl": "https://hashtagweb3.com/lead353",
     "updatedAt": "2026-09-15T19:45:19.773Z"
   },
+  "606205": {
+    "slugs": [
+      "pm334"
+    ],
+    "lastSlug": "pm334",
+    "lastUrl": "https://hashtagweb3.com/pm334",
+    "updatedAt": "2026-11-04T19:43:38.271Z"
+  },
   "2592775": {
     "slugs": [
       "backend135",
@@ -1407,6 +1415,14 @@
     "lastSlug": "rec33",
     "lastUrl": "https://hashtagweb3.com/rec33",
     "updatedAt": "2026-10-16T11:32:22.200Z"
+  },
+  "8266107": {
+    "slugs": [
+      "eng480"
+    ],
+    "lastSlug": "eng480",
+    "lastUrl": "https://hashtagweb3.com/eng480",
+    "updatedAt": "2026-11-05T03:32:51.814Z"
   },
   "8278361": {
     "slugs": [
@@ -6513,5 +6529,69 @@
     "lastSlug": "vf",
     "lastUrl": "https://hashtagweb3.com/vf",
     "updatedAt": "2026-11-04T11:32:51.509Z"
+  },
+  "fb3d814d-bcfc-4192-912b-4e02e21e8e22": {
+    "slugs": [
+      "mgr196"
+    ],
+    "lastSlug": "mgr196",
+    "lastUrl": "https://hashtagweb3.com/mgr196",
+    "updatedAt": "2026-11-04T19:43:38.271Z"
+  },
+  "d24a6d19-ae39-4625-85e5-f5a704e80883": {
+    "slugs": [
+      "pm360"
+    ],
+    "lastSlug": "pm360",
+    "lastUrl": "https://hashtagweb3.com/pm360",
+    "updatedAt": "2026-11-04T19:43:38.271Z"
+  },
+  "4bb9b3a5-4cf6-49d1-a309-6ea01b35a31c": {
+    "slugs": [
+      "pm282"
+    ],
+    "lastSlug": "pm282",
+    "lastUrl": "https://hashtagweb3.com/pm282",
+    "updatedAt": "2026-11-04T19:43:38.271Z"
+  },
+  "12285dd7-2993-4da2-946f-ddd6f768e0bd": {
+    "slugs": [
+      "cmp150"
+    ],
+    "lastSlug": "cmp150",
+    "lastUrl": "https://hashtagweb3.com/cmp150",
+    "updatedAt": "2026-11-04T19:43:38.271Z"
+  },
+  "31eb3e762edd": {
+    "slugs": [
+      "rec26"
+    ],
+    "lastSlug": "rec26",
+    "lastUrl": "https://hashtagweb3.com/rec26",
+    "updatedAt": "2026-11-05T03:32:51.814Z"
+  },
+  "9ed2340b-029e-4f58-82f5-0d55f09aad5b": {
+    "slugs": [
+      "arcd"
+    ],
+    "lastSlug": "arcd",
+    "lastUrl": "https://hashtagweb3.com/arcd",
+    "updatedAt": "2026-11-05T03:32:51.814Z"
+  },
+  "8880855002": {
+    "slugs": [
+      "eng503"
+    ],
+    "lastSlug": "eng503",
+    "lastUrl": "https://hashtagweb3.com/eng503",
+    "updatedAt": "2026-11-05T03:32:51.814Z"
+  },
+  "8093059003": {
+    "slugs": [
+      "mgr212"
+    ],
+    "lastSlug": "mgr212",
+    "lastUrl": "https://hashtagweb3.com/mgr212",
+    "updatedAt": "2026-11-05T03:32:51.814Z"
   }
 }

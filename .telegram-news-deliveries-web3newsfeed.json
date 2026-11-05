@@ -3146,5 +3146,71 @@
     "slotKey": "2026-11-04:afternoon",
     "messageId": 65802,
     "sentAt": "2026-11-04T11:33:00.392Z"
+  },
+  "a9825416-f40c-4faa-8840-c205390181c8": {
+    "status": "sent",
+    "reservedAt": "2026-11-04T19:47:02.271Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "House Oversight Chair Investigates Delaware's AI Company Plan",
+        "summary": "Representative James Comer requested state records over concerns the plan shields investors from liability for AI-driven harms.",
+        "link": "https://hashtagweb3.com/comer?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "House Oversight Chair Opens Investigation of Delaware Plan for AI-Run Companies"
+      },
+      {
+        "index": -1,
+        "headline": "South Korea Plans Foreign Exchange Law Changes for Stablecoins",
+        "summary": "The central bank will draft legislation this year to regulate stablecoins used for payments.",
+        "link": "https://hashtagweb3.com/bokforex?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bank of Korea Sets Out Stablecoin Forex Law Plan in Audit Filing"
+      },
+      {
+        "index": -1,
+        "headline": "Thailand SEC receives no official crypto ETF filings",
+        "summary": "Asset managers have inquired about spot crypto ETFs, but the regulator cannot confirm a 2026 launch date.",
+        "link": "https://hashtagweb3.com/thailandapplicants?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Thailand SEC has received no crypto ETF applications"
+      }
+    ],
+    "slotKey": "2026-11-04:evening",
+    "messageId": 65803,
+    "sentAt": "2026-11-04T19:47:08.264Z"
+  },
+  "852b8de2-6864-453a-8f85-6ef1866d55fc": {
+    "status": "sent",
+    "reservedAt": "2026-11-05T03:33:27.488Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Binance attributes $6.34 billion hack to fake job interview",
+        "summary": "Attackers compromised engineers' computers through malware disguised as a software download during a five-month social engineering campaign.",
+        "link": "https://hashtagweb3.com/fakeinterview?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Binance Says $6.34 Billion Hack Began With Fake Job Interview"
+      },
+      {
+        "index": -1,
+        "headline": "Justin Sun Seeks Sanctions Against World Liberty Financial",
+        "summary": "Tron's founder requested $263,821 over a delayed UAE citizenship court disclosure, with a hearing scheduled for Dec. 10.",
+        "link": "https://hashtagweb3.com/sunsanction?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Justin Sun Seeks $264,000 in Sanctions Over World Liberty's UAE Disclosure"
+      },
+      {
+        "index": -1,
+        "headline": "European Entity Loses $106 Million From Exchange Accounts",
+        "summary": "Investigator ZachXBT reported the stolen funds were laundered through instant exchanges and Monero on November 1.",
+        "link": "https://hashtagweb3.com/eustolen?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Mystery $106 million theft drains EU entity exchange accounts"
+      }
+    ],
+    "slotKey": "2026-11-05:morning",
+    "messageId": 65804,
+    "sentAt": "2026-11-05T03:33:33.142Z"
   }
 }

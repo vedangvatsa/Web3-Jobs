@@ -3011,5 +3011,72 @@
     "slotKey": "2026-11-04:afternoon",
     "messageId": 156070,
     "sentAt": "2026-11-04T11:33:07.926Z"
+  },
+  "80176711-8524-4048-a8e9-3369b172632d": {
+    "status": "sent",
+    "reservedAt": "2026-11-04T19:48:38.639Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Tether earns $1.5 billion profit as reserve buffer grows",
+        "summary": "US Treasury bill earnings helped increase the stablecoin issuer's excess reserves to $7.95 billion during the third quarter.",
+        "link": "https://hashtagweb3.com/tetherq3?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Tether Reports $1.5 Billion Q3 Operating Profit as Reserve Buffer Nears $8 Billion"
+      },
+      {
+        "index": -1,
+        "headline": "Visa stablecoin settlement volume reaches $25 billion annually",
+        "summary": "More than 225 card programs drove 150% growth during the 2026 fiscal fourth quarter.",
+        "link": "https://hashtagweb3.com/visastablecoins?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Visa reports $25 billion annualized stablecoin settlement run rate in Q4"
+      },
+      {
+        "index": 10,
+        "headline": "Schroders launches tokenized emerging markets debt fund on Solana",
+        "summary": "The asset manager is bringing its emerging markets bond strategy to the blockchain to expand onchain fund offerings.",
+        "event_rationale": "This covers the institutional adoption of public blockchain infrastructure for traditional financial products, which is distinct from all previously listed regulatory, security, or protocol-specific events.",
+        "link": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878",
+        "source": "The Block",
+        "originalTitle": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge"
+      }
+    ],
+    "slotKey": "2026-11-04:evening",
+    "messageId": 156085,
+    "sentAt": "2026-11-04T19:48:52.280Z"
+  },
+  "5d83b835-b6f0-426c-ba2c-500567255843": {
+    "status": "sent",
+    "reservedAt": "2026-11-05T03:33:17.464Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Binance Blames $6.34 Billion Hack on Fake Job Interview",
+        "summary": "Attackers gained access to wallet engineers' computers after a five-month campaign involving malicious software downloads.",
+        "link": "https://hashtagweb3.com/fakeinterview?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Binance Says $6.34 Billion Hack Began With Fake Job Interview"
+      },
+      {
+        "index": -1,
+        "headline": "Justin Sun Requests $264,000 Sanctions Against World Liberty Financial",
+        "summary": "The request follows a late disclosure of United Arab Emirates citizenship during the company's ongoing federal court litigation.",
+        "link": "https://hashtagweb3.com/sunsanction?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Justin Sun Seeks $264,000 in Sanctions Over World Liberty's UAE Disclosure"
+      },
+      {
+        "index": -1,
+        "headline": "Mercado Bitcoin restores account access following $46 million hack",
+        "summary": "Users can view account balances starting Monday, while trading and withdrawals will resume in subsequent phases.",
+        "link": "https://hashtagweb3.com/mercadobitcoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Mercado Bitcoin to restore account access Monday after $46M hack"
+      }
+    ],
+    "slotKey": "2026-11-05:morning",
+    "messageId": 156088,
+    "sentAt": "2026-11-05T03:33:26.999Z"
   }
 }

@@ -4551,5 +4551,103 @@
     "slotKey": "2026-11-04:afternoon",
     "messageId": 156069,
     "sentAt": "2026-11-04T11:32:19.670Z"
+  },
+  "fae84e0a-1741-4e25-ba55-041b803ffec5": {
+    "status": "sent",
+    "reservedAt": "2026-11-04T19:43:15.804Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "discovery-evt-gKhtfAiuAFPHESR",
+        "slug": "solana-cup-breakpoint",
+        "name": "Solana Cup at Breakpoint",
+        "startDate": "2026-11-14T10:00:00.000Z",
+        "keys": [
+          "discovery-evt-gkhtfaiuafphesr",
+          "page:solana-cup-breakpoint:2026-11-14",
+          "luma:evt-gkhtfaiuafphesr",
+          "luma-url:/5sf70a63",
+          "event:solanacupatbreakpoint:2026-11-14:london"
+        ]
+      },
+      {
+        "id": "luma-crypto-cFBQ9xrFbjI3av2",
+        "slug": "p777-web3-clouds",
+        "name": "P777 Web3 in the Clouds",
+        "startDate": "2026-11-14T11:00:00.000Z",
+        "keys": [
+          "luma-crypto-cfbq9xrfbji3av2",
+          "dspdy7rl",
+          "page:p777-web3-clouds:2026-11-14",
+          "luma-url:/dspdy7rl",
+          "event:p777web3intheclouds:2026-11-14:kuala lumpur"
+        ]
+      },
+      {
+        "id": "curated-money-shift-crypto-ai-future-money-2026-11-14",
+        "slug": "money-shift-crypto-ai-future-money",
+        "name": "The Money Shift: Crypto, AI & The Future of Money",
+        "startDate": "2026-11-14T11:00:00-05:00",
+        "keys": [
+          "curated-money-shift-crypto-ai-future-money-2026-11-14",
+          "page:money-shift-crypto-ai-future-money:2026-11-14",
+          "url:eventbrite.ca/e/the-money-shift-crypto-ai-the-future-of-money-tickets-1997326416077:2026-11-14",
+          "event:themoneyshiftcryptoaithefutureofmoney:2026-11-14:toronto"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-04:evening",
+    "messageId": 156083,
+    "sentAt": "2026-11-04T19:43:18.233Z"
+  },
+  "6e316b0f-4dc3-40d1-bf9c-aa6515454a4f": {
+    "status": "sent",
+    "reservedAt": "2026-11-05T03:32:19.922Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-rvTrhOFrZjU1t4G",
+        "slug": "bitcoin-brunch-boro-mclean",
+        "name": "Bitcoin Brunch - The Boro",
+        "startDate": "2026-11-14T16:00:00.000Z",
+        "keys": [
+          "luma-crypto-rvtrhofrzju1t4g",
+          "xvqy8tmn",
+          "page:bitcoin-brunch-boro-mclean:2026-11-14",
+          "luma-url:/xvqy8tmn",
+          "event:bitcoinbrunchtheboro:2026-11-14:mclean"
+        ]
+      },
+      {
+        "id": "discovery-evt-zgDyaoeNsB7r9bo",
+        "slug": "bitcoin-indonesia-community-meetup-bandung-15-november",
+        "name": "Bitcoin Indonesia Community Meetup Bandung 15 November 2026",
+        "startDate": "2026-11-15T10:00:00+07:00",
+        "keys": [
+          "discovery-evt-zgdyaoensb7r9bo",
+          "page:bitcoin-indonesia-community-meetup-bandung-15-november:2026-11-15",
+          "luma:evt-zgdyaoensb7r9bo",
+          "luma-url:/xdmgev1d",
+          "event:bitcoinindonesiacommunitymeetupbandung15november2026:2026-11-15:bandung"
+        ]
+      },
+      {
+        "id": "premier-ibt-jaipur-2026",
+        "slug": "ibt-jaipur",
+        "name": "India Blockchain & AI Tour 2026 - Jaipur",
+        "startDate": "2026-11-15T10:00:00+05:30",
+        "keys": [
+          "premier-ibt-jaipur-2026",
+          "page:ibt-jaipur:2026-11-15",
+          "url:indiablockchaintour.com/2026-nodes/jaipur/ticket:2026-11-15",
+          "event:indiablockchainaitour2026jaipur:2026-11-15:jaipur"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-05:morning",
+    "messageId": 156086,
+    "sentAt": "2026-11-05T03:32:23.560Z"
   }
 }

@@ -3058,5 +3058,77 @@
     "slotKey": "2026-11-04:afternoon",
     "messageId": 193451,
     "sentAt": "2026-11-04T11:34:21.493Z"
+  },
+  "ebb6196c-9eb4-4723-8353-07dd30f2204b": {
+    "status": "sent",
+    "reservedAt": "2026-11-04T19:43:48.321Z",
+    "stories": [
+      {
+        "index": 12,
+        "original_title": "Apple restricts dating apps and AI companions to users 18 and up",
+        "headline": "Apple restricts AI companion software to adult users",
+        "summary": "Updated store guidelines require an 18-plus rating for applications that provide romantic or sexual artificial intelligence interactions.",
+        "event_rationale": "Covers a major mobile platform policy change imposing age restrictions on consumer AI tools, distinct from funding and infrastructure stories.",
+        "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+        "source": "TechCrunch",
+        "originalTitle": "Apple restricts dating apps and AI companions to users 18 and up"
+      },
+      {
+        "index": 3,
+        "original_title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+        "headline": "Political shifts threaten Texas AI data center expansion",
+        "summary": "Recent state election results place the country's fastest-growing artificial intelligence data center infrastructure market at risk.",
+        "event_rationale": "Covers political election outcomes impacting physical AI data center infrastructure development in Texas.",
+        "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+        "source": "MIT Tech Review",
+        "originalTitle": "Texas was the new epicenter of the AI data center buildout. That might be kaput."
+      },
+      {
+        "index": 1,
+        "headline": "How companies profit from open-source AI models",
+        "summary": "Growing enterprise adoption of open-source AI for cost savings raises questions about how businesses capture value.",
+        "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+        "source": "TechCrunch",
+        "originalTitle": "Open source AI is booming. Hugging Face explains who profits."
+      }
+    ],
+    "slotKey": "2026-11-04:evening",
+    "messageId": 193453,
+    "sentAt": "2026-11-04T19:43:51.167Z"
+  },
+  "bb8f3cc7-10c2-4e88-9b56-544312aa97d3": {
+    "status": "sent",
+    "reservedAt": "2026-11-05T03:34:31.698Z",
+    "stories": [
+      {
+        "index": 3,
+        "original_title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+        "headline": "AI industry political groups see mixed midterm election results",
+        "summary": "Political action committees spent millions to influence congressional races, resulting in a divided outcome for industry-backed candidates.",
+        "event_rationale": "This covers the political influence and regulatory strategy of the AI industry following a major election.",
+        "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+        "source": "TechCrunch",
+        "originalTitle": "AI PACs spent millions trying to shape Congress — here’s how they fared"
+      },
+      {
+        "index": 1,
+        "headline": "Apple reduces internal AI development budget",
+        "summary": "The company is decreasing financial resources allocated to artificial intelligence projects for its engineering staff.",
+        "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+        "source": "TechCrunch",
+        "originalTitle": "Apple is reportedly cutting budgets for its internal AI usage"
+      },
+      {
+        "index": 4,
+        "headline": "Nothing to release new AI-focused device next month",
+        "summary": "The smartphone company plans to launch a product designed to improve user productivity through artificial intelligence.",
+        "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+        "source": "TechCrunch",
+        "originalTitle": "Nothing CEO says company’s mysterious AI-first device is dropping next month"
+      }
+    ],
+    "slotKey": "2026-11-05:morning",
+    "messageId": 193455,
+    "sentAt": "2026-11-05T03:34:46.980Z"
   }
 }

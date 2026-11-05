@@ -20,22 +20,6 @@
       "reason": "The source title and image-based heading did not match the old punctuation variant; the organizer's event-specific page provides the full program."
     },
     {
-      "id": "token2049-side-6a5dff0dd1b48ddf39d0827c",
-      "kind": "luma",
-      "sourceUrl": "https://luma.com/event/evt-SRSeRqJykejGWY3",
-      "contains": [
-        "CoinFerenceX The Best Event Singapore"
-      ],
-      "eventId": "evt-SRSeRqJykejGWY3",
-      "keepSession": true,
-      "patch": {
-        "name": "CoinFerenceX Singapore 2026 - Day 1",
-        "startDate": "2026-10-05",
-        "endDate": "2026-10-05"
-      },
-      "reason": "Use the organizer's conference description for its first day; do not retain unverified clock times from the older side-event listing."
-    },
-    {
       "id": "token2049-side-6a5dff0ed1b48ddf39d0827e",
       "kind": "luma",
       "sourceUrl": "https://luma.com/event/evt-SRSeRqJykejGWY3",

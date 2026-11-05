@@ -7387,5 +7387,240 @@
     "slotKey": "2026-11-04:afternoon",
     "messageId": 156071,
     "sentAt": "2026-11-04T11:33:59.955Z"
+  },
+  "129df3db-2d49-42fd-a87b-1d5d36a952a5": {
+    "status": "sent",
+    "reservedAt": "2026-11-04T19:43:43.646Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8792016002",
+          "title": "Customer Success Associate",
+          "company": "Figure",
+          "link": "https://job-boards.greenhouse.io/figure/jobs/8792016002",
+          "date": "2026-11-03T14:26:01-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Figure [figure]",
+          "location": "Charlotte, NC",
+          "department": "Customer Support Center",
+          "active": true,
+          "slug": "aso78",
+          "dateVerified": true
+        },
+        "key": "8792016002",
+        "slug": "aso78",
+        "url": "https://hashtagweb3.com/aso78?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Figure",
+        "title": "Customer Success Associate"
+      },
+      {
+        "snapshot": {
+          "id": "e6430d82-f266-475e-a273-255c5b2bd521",
+          "title": "Applied Researcher - Quantitative Finance",
+          "company": "Prime Intellect",
+          "link": "https://jobs.ashbyhq.com/primeintellect/e6430d82-f266-475e-a273-255c5b2bd521",
+          "date": "2026-10-19T15:29:38.800+00:00",
+          "source": "Ashby: Prime Intellect [primeintellect]",
+          "location": "San Francisco",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Applied Research",
+          "active": true,
+          "dateVerified": true,
+          "slug": "tr131"
+        },
+        "key": "e6430d82-f266-475e-a273-255c5b2bd521",
+        "slug": "tr131",
+        "url": "https://hashtagweb3.com/tr131?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Prime Intellect",
+        "title": "Applied Researcher"
+      },
+      {
+        "snapshot": {
+          "id": "8577205002",
+          "title": "Product Manager, Creative Engagement",
+          "company": "Jane Street",
+          "link": "https://www.janestreet.com/join-jane-street/apply/8577205002?gh_jid=8577205002",
+          "date": "2026-10-22T12:16:14-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Jane Street [janestreet]",
+          "location": "New York, NY",
+          "department": "Creative Engagement",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm103"
+        },
+        "key": "8577205002",
+        "slug": "pm103",
+        "url": "https://hashtagweb3.com/pm103?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Jane Street",
+        "title": "Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8164080003",
+          "title": "Account Services Analyst",
+          "company": "DriveWealth",
+          "link": "https://boards.greenhouse.io/drivewealth/jobs/8164080003?gh_jid=8164080003",
+          "date": "2026-11-02T15:45:06-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DriveWealth [drivewealth]",
+          "location": "Office - Mumbai, India",
+          "department": "Revenue",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls389"
+        },
+        "key": "8164080003",
+        "slug": "sls389",
+        "url": "https://hashtagweb3.com/sls389?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DriveWealth",
+        "title": "Account Services Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "0378cc97-de79-42f9-8401-d301c678f4d7",
+          "title": "Business Lead",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/0378cc97-de79-42f9-8401-d301c678f4d7",
+          "date": "2026-10-12T13:48:36.560+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "New York, NY (HQ)",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "bus2"
+        },
+        "key": "0378cc97-de79-42f9-8401-d301c678f4d7",
+        "slug": "bus2",
+        "url": "https://hashtagweb3.com/bus2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Business Lead"
+      }
+    ],
+    "message": "- Figure is hiring <a href=\"https://hashtagweb3.com/aso78?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Success Associate</a>\n- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/tr131?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Applied Researcher - Quantitative Finance</a>\n- Jane Street is hiring <a href=\"https://hashtagweb3.com/pm103?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager, Creative Engagement</a>\n- DriveWealth is hiring <a href=\"https://hashtagweb3.com/sls389?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Services Analyst</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/bus2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business Lead</a>",
+    "slotKey": "2026-11-04:evening",
+    "messageId": 156084,
+    "sentAt": "2026-11-04T19:43:53.780Z"
+  },
+  "af19ef91-5aa8-40c4-a45a-b9cb3f265dec": {
+    "status": "sent",
+    "reservedAt": "2026-11-05T03:33:01.480Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5024579101",
+          "title": "[EU] Business Development Specialist,Mini EU",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024579101",
+          "date": "2026-11-01T16:09:49-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Europe - Remote",
+          "department": "Europe",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls208"
+        },
+        "key": "5024579101",
+        "slug": "sls208",
+        "url": "https://hashtagweb3.com/sls208?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "[EU] Business Development Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "8282859",
+          "title": "Technical Program Manager, Extensibility Platform",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8282859",
+          "date": "2026-10-15T09:22:54-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "US Remote",
+          "department": "8414 MerchantXP - Eng",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr59"
+        },
+        "key": "8282859",
+        "slug": "mgr59",
+        "url": "https://hashtagweb3.com/mgr59?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Technical Program Manager"
+      },
+      {
+        "snapshot": {
+          "id": "5024636101",
+          "title": "Expert, Information Security",
+          "company": "Bitpanda",
+          "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5024636101",
+          "date": "2026-11-02T03:39:58-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bitpanda [bitpanda]",
+          "location": "Barcelona, Spain; Berlin, Germany; București, Bucharest, Romania; Vienna, Austria",
+          "department": "Legal & Compliance & Risk",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec140"
+        },
+        "key": "5024636101",
+        "slug": "sec140",
+        "url": "https://hashtagweb3.com/sec140?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitpanda",
+        "title": "Expert, Information Security"
+      },
+      {
+        "snapshot": {
+          "id": "8015367003",
+          "title": "Principal / Senior Product Manager, Asset (Tax Reporting, Client Statements & Portfolio)",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8015367003",
+          "date": "2026-10-07T02:37:51-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Hong Kong",
+          "department": "Product Management",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm122"
+        },
+        "key": "8015367003",
+        "slug": "pm122",
+        "url": "https://hashtagweb3.com/pm122?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Principal / Senior Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "51f1c7d2-dff9-46dc-8141-c25031b5fcdb",
+          "title": "Head of Compliance Product",
+          "company": "Elliptic",
+          "link": "https://jobs.ashbyhq.com/Elliptic/51f1c7d2-dff9-46dc-8141-c25031b5fcdb",
+          "date": "2026-10-20T20:38:32.153+00:00",
+          "source": "Ashby: Elliptic [Elliptic]",
+          "location": "Hybrid (New York, NY)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm325"
+        },
+        "key": "51f1c7d2-dff9-46dc-8141-c25031b5fcdb",
+        "slug": "pm325",
+        "url": "https://hashtagweb3.com/pm325?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Elliptic",
+        "title": "Head of Compliance Product"
+      }
+    ],
+    "message": "- Bybit is hiring <a href=\"https://hashtagweb3.com/sls208?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">[EU] Business Development Specialist,Mini EU</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/mgr59?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Program Manager, Extensibility Platform</a>\n- Bitpanda is hiring <a href=\"https://hashtagweb3.com/sec140?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Expert, Information Security</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm122?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal / Senior Product Manager, Asset (Tax Reporting, Client Statements &amp; Portfolio)</a>\n- Elliptic is hiring <a href=\"https://hashtagweb3.com/pm325?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Compliance Product</a>",
+    "slotKey": "2026-11-05:morning",
+    "messageId": 156087,
+    "sentAt": "2026-11-05T03:33:06.580Z"
   }
 }

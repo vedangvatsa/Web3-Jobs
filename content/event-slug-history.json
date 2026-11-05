@@ -60,76 +60,8 @@
     "slug": "time-heist",
     "aliases": []
   },
-  "token2049-evt-l6VxEQChCjUfTXe": {
-    "slug": "capital-institutions",
-    "aliases": []
-  },
   "premier-ethbrasil": {
     "slug": "ethereum1",
-    "aliases": []
-  },
-  "token2049-evt-8IVgf5aA4A8sgZR": {
-    "slug": "splash-nodexx",
-    "aliases": []
-  },
-  "token2049-evt-mpuoHZfEeAywllH": {
-    "slug": "web3-founders",
-    "aliases": []
-  },
-  "token2049-evt-Iqxz2ufN55QDlyO": {
-    "slug": "betterx-navigating",
-    "aliases": []
-  },
-  "luma-batch-lnhEJWt2Bdk0cmW": {
-    "slug": "zsgdwcee",
-    "aliases": []
-  },
-  "token2049-evt-xqbG0bdiznK8ohR": {
-    "slug": "fastx-yacht",
-    "aliases": []
-  },
-  "token2049-evt-hlj2M5GpWV1P97k": {
-    "slug": "bullish-bitgo",
-    "aliases": []
-  },
-  "token2049-side-6aa02681967be0befa88cab6": {
-    "slug": "best-event2",
-    "aliases": []
-  },
-  "token2049-side-6aa2607dd567345aad685524": {
-    "slug": "ddapdcgxyxc",
-    "aliases": []
-  },
-  "token2049-evt-Ht5O615EPEuGfpz": {
-    "slug": "0g-dev",
-    "aliases": []
-  },
-  "token2049-evt-cQn0A0xzpbVb6Kd": {
-    "slug": "ptie",
-    "aliases": []
-  },
-  "w3v-skyline-social-singapore": {
-    "slug": "skyline-social",
-    "aliases": []
-  },
-  "w3v-digital-after-hours": {
-    "slug": "dah",
-    "aliases": []
-  },
-  "w3v-exclusive-whiskey--cigar-evening": {
-    "slug": "ewced2",
-    "aliases": []
-  },
-  "token2049-side-6a968fcd967be0befa88a520": {
-    "slug": "allocators",
-    "aliases": []
-  },
-  "token2049-evt-MZWpiAUlsluAl2m": {
-    "slug": "lights-out",
-    "aliases": []
-  },
-  "token2049-evt-yXN9uY9KixjIGXl": {
-    "slug": "exclusive-whiskey",
     "aliases": []
   },
   "token2049-side-6a534c0347aa29a148924641": {
@@ -141,26 +73,6 @@
       "token2049-side-6a534c0747aa29a148924649",
       "token2049-side-6a534c0847aa29a14892464b"
     ]
-  },
-  "token2049-evt-0WANSG42Cl4lzDC": {
-    "slug": "tachi-social",
-    "aliases": []
-  },
-  "luma-crypto-bGWgAlfUqt19gq7": {
-    "slug": "urc",
-    "aliases": []
-  },
-  "luma-batch-ENfl3rZ7sGbFj5w": {
-    "slug": "cja6d4ku",
-    "aliases": []
-  },
-  "token2049-side-6aa01b2fd567345aad684c08": {
-    "slug": "arwwbv",
-    "aliases": []
-  },
-  "token2049-evt-tkFuyu8BIzrEUIV": {
-    "slug": "stable-run",
-    "aliases": []
   },
   "token2049-evt-ylH1Zv6vGNhshHF": {
     "slug": "forex-trading",
@@ -174,16 +86,8 @@
     "slug": "cbed2",
     "aliases": []
   },
-  "token2049-evt-ECpUHV88HkidbGs": {
-    "slug": "opening-morning",
-    "aliases": []
-  },
   "luma-crypto-yx5TMJkA5A4WXw1": {
     "slug": "dasd",
-    "aliases": []
-  },
-  "luma-crypto-cLpIcq4MIfm8jHk": {
-    "slug": "fcrda",
     "aliases": []
   },
   "token2049-side-6a9a8978967be0befa88b76c": {
@@ -201,10 +105,6 @@
     "slug": "token2049-origins",
     "aliases": []
   },
-  "token2049-evt-RBEDxNYQTuEwIbm": {
-    "slug": "flop-launch",
-    "aliases": []
-  },
   "token2049-evt-SowgDzyegYReFYH": {
     "slug": "okx-now",
     "aliases": []
@@ -213,16 +113,8 @@
     "slug": "days",
     "aliases": []
   },
-  "token2049-evt-oYGymLxwHpSaAzS": {
-    "slug": "next-era",
-    "aliases": []
-  },
   "luma-crypto-Qm3jiCrG5WYct6j": {
     "slug": "hfd",
-    "aliases": []
-  },
-  "w3v-ai--formal-verification-for-onchain-finance": {
-    "slug": "afvof",
     "aliases": []
   },
   "w3v-open": {
@@ -233,20 +125,8 @@
     "slug": "solana-summit",
     "aliases": []
   },
-  "token2049-side-6a9922a1d567345aad6834a6": {
-    "slug": "cndcd",
-    "aliases": []
-  },
-  "token2049-side-6a98c2e2967be0befa88b05e": {
-    "slug": "aetb",
-    "aliases": []
-  },
   "token2049-side-6a98c34d967be0befa88b066": {
     "slug": "csxasc",
-    "aliases": []
-  },
-  "token2049-side-6aa454d7c0426d278bd87ddd": {
-    "slug": "web3-workouts",
     "aliases": []
   },
   "premier-vntr": {
@@ -255,14 +135,6 @@
       "vif",
       "w3v-vntr-investor-forum-singapore"
     ]
-  },
-  "luma-batch-evt6E9WqePUmmJmv": {
-    "slug": "knlonxwk",
-    "aliases": []
-  },
-  "token2049-side-6aa25e1fd567345aad685507": {
-    "slug": "sccme",
-    "aliases": []
   },
   "token2049-side-6a6cdc395a75007b41000850": {
     "slug": "onchain-day",
@@ -282,14 +154,6 @@
   },
   "w3v-proof-of-health-2026": {
     "slug": "proof-health",
-    "aliases": []
-  },
-  "token2049-side-6a841e58244677004e8f4431": {
-    "slug": "ddd",
-    "aliases": []
-  },
-  "token2049-evt-TnrNVvOu9wPsWbl": {
-    "slug": "sunrise-yoga",
     "aliases": []
   },
   "luma-crypto-CuBqqXAPJTj9BgU": {

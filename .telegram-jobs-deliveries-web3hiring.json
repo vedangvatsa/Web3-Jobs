@@ -13641,5 +13641,497 @@
     "slotKey": "2026-11-04:afternoon",
     "messageId": 167,
     "sentAt": "2026-11-04T11:32:51.509Z"
+  },
+  "0d88548c-3397-4289-840f-c62b576c32a1": {
+    "status": "sent",
+    "reservedAt": "2026-11-04T19:43:29.970Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "606205",
+          "title": "Product Manager (Onboarding/KYC)",
+          "company": "Kast",
+          "link": "https://careers.kast.xyz/en/postings/975e32c1-3ca9-4027-9a7d-db2d59323505",
+          "date": "2026-10-26T03:29:02+00:00",
+          "dateVerified": true,
+          "dateSource": "Pinpoint.JobPosting.datePosted",
+          "source": "Pinpoint: Kast [kast]",
+          "location": "London (Hybrid)",
+          "department": "Product",
+          "active": true,
+          "slug": "pm334"
+        },
+        "key": "606205",
+        "slug": "pm334",
+        "url": "https://hashtagweb3.com/pm334?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kast",
+        "title": "Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "fb3d814d-bcfc-4192-912b-4e02e21e8e22",
+          "title": "VIP Relationship Manager, LATAM",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/fb3d814d-bcfc-4192-912b-4e02e21e8e22",
+          "date": "2026-10-20T13:07:49.780+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (Brazil)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "VIP Relationship Management",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr196"
+        },
+        "key": "fb3d814d-bcfc-4192-912b-4e02e21e8e22",
+        "slug": "mgr196",
+        "url": "https://hashtagweb3.com/mgr196?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "VIP Relationship Manager"
+      },
+      {
+        "snapshot": {
+          "id": "d24a6d19-ae39-4625-85e5-f5a704e80883",
+          "title": "Product Operations & Strategy Associate",
+          "company": "Coinflow",
+          "link": "https://jobs.ashbyhq.com/coinflow/d24a6d19-ae39-4625-85e5-f5a704e80883",
+          "date": "2026-11-03T17:24:15.547+00:00",
+          "source": "Ashby: Coinflow [coinflow]",
+          "location": "Chicago",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Product",
+          "active": true,
+          "slug": "pm360",
+          "dateVerified": true
+        },
+        "key": "d24a6d19-ae39-4625-85e5-f5a704e80883",
+        "slug": "pm360",
+        "url": "https://hashtagweb3.com/pm360?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinflow",
+        "title": "Product Operations & Strategy Associate"
+      },
+      {
+        "snapshot": {
+          "id": "4bb9b3a5-4cf6-49d1-a309-6ea01b35a31c",
+          "title": "Senior Product Manager, Trading Connectivity",
+          "company": "Talos",
+          "link": "https://jobs.ashbyhq.com/Talos-Trading/4bb9b3a5-4cf6-49d1-a309-6ea01b35a31c",
+          "date": "2026-10-09T21:57:23.635+00:00",
+          "source": "Ashby: Talos [Talos-Trading]",
+          "location": "Hybrid (London, Cyprus)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm282"
+        },
+        "key": "4bb9b3a5-4cf6-49d1-a309-6ea01b35a31c",
+        "slug": "pm282",
+        "url": "https://hashtagweb3.com/pm282?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Talos",
+        "title": "Senior Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "12285dd7-2993-4da2-946f-ddd6f768e0bd",
+          "title": "Senior Compliance Associate, KYC",
+          "company": "Paxos",
+          "link": "https://jobs.ashbyhq.com/Paxos/12285dd7-2993-4da2-946f-ddd6f768e0bd",
+          "date": "2026-11-03T14:24:41.129+00:00",
+          "source": "Ashby: Paxos [Paxos]",
+          "location": "Remote - United States",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Risk & Compliance",
+          "active": true,
+          "slug": "cmp150",
+          "dateVerified": true
+        },
+        "key": "12285dd7-2993-4da2-946f-ddd6f768e0bd",
+        "slug": "cmp150",
+        "url": "https://hashtagweb3.com/cmp150?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Paxos",
+        "title": "Senior Compliance Associate"
+      }
+    ],
+    "message": "- Kast is hiring <a href=\"https://hashtagweb3.com/pm334?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager (Onboarding/KYC)</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/mgr196?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VIP Relationship Manager, LATAM</a>\n- Coinflow is hiring <a href=\"https://hashtagweb3.com/pm360?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Operations &amp; Strategy Associate</a>\n- Talos is hiring <a href=\"https://hashtagweb3.com/pm282?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager, Trading Connectivity</a>\n- Paxos is hiring <a href=\"https://hashtagweb3.com/cmp150?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Compliance Associate, KYC</a>",
+    "slotKey": "2026-11-04:evening",
+    "messageId": 16607,
+    "sentAt": "2026-11-04T19:43:33.238Z"
+  },
+  "bbae78cb-6a63-446d-8202-b4805cb92c66": {
+    "status": "sent",
+    "reservedAt": "2026-11-04T19:43:35.462Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "606205",
+          "title": "Product Manager (Onboarding/KYC)",
+          "company": "Kast",
+          "link": "https://careers.kast.xyz/en/postings/975e32c1-3ca9-4027-9a7d-db2d59323505",
+          "date": "2026-10-26T03:29:02+00:00",
+          "dateVerified": true,
+          "dateSource": "Pinpoint.JobPosting.datePosted",
+          "source": "Pinpoint: Kast [kast]",
+          "location": "London (Hybrid)",
+          "department": "Product",
+          "active": true,
+          "slug": "pm334"
+        },
+        "key": "606205",
+        "slug": "pm334",
+        "url": "https://hashtagweb3.com/pm334?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kast",
+        "title": "Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "fb3d814d-bcfc-4192-912b-4e02e21e8e22",
+          "title": "VIP Relationship Manager, LATAM",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/fb3d814d-bcfc-4192-912b-4e02e21e8e22",
+          "date": "2026-10-20T13:07:49.780+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (Brazil)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "VIP Relationship Management",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr196"
+        },
+        "key": "fb3d814d-bcfc-4192-912b-4e02e21e8e22",
+        "slug": "mgr196",
+        "url": "https://hashtagweb3.com/mgr196?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "VIP Relationship Manager"
+      },
+      {
+        "snapshot": {
+          "id": "d24a6d19-ae39-4625-85e5-f5a704e80883",
+          "title": "Product Operations & Strategy Associate",
+          "company": "Coinflow",
+          "link": "https://jobs.ashbyhq.com/coinflow/d24a6d19-ae39-4625-85e5-f5a704e80883",
+          "date": "2026-11-03T17:24:15.547+00:00",
+          "source": "Ashby: Coinflow [coinflow]",
+          "location": "Chicago",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Product",
+          "active": true,
+          "slug": "pm360",
+          "dateVerified": true
+        },
+        "key": "d24a6d19-ae39-4625-85e5-f5a704e80883",
+        "slug": "pm360",
+        "url": "https://hashtagweb3.com/pm360?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinflow",
+        "title": "Product Operations & Strategy Associate"
+      },
+      {
+        "snapshot": {
+          "id": "4bb9b3a5-4cf6-49d1-a309-6ea01b35a31c",
+          "title": "Senior Product Manager, Trading Connectivity",
+          "company": "Talos",
+          "link": "https://jobs.ashbyhq.com/Talos-Trading/4bb9b3a5-4cf6-49d1-a309-6ea01b35a31c",
+          "date": "2026-10-09T21:57:23.635+00:00",
+          "source": "Ashby: Talos [Talos-Trading]",
+          "location": "Hybrid (London, Cyprus)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm282"
+        },
+        "key": "4bb9b3a5-4cf6-49d1-a309-6ea01b35a31c",
+        "slug": "pm282",
+        "url": "https://hashtagweb3.com/pm282?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Talos",
+        "title": "Senior Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "12285dd7-2993-4da2-946f-ddd6f768e0bd",
+          "title": "Senior Compliance Associate, KYC",
+          "company": "Paxos",
+          "link": "https://jobs.ashbyhq.com/Paxos/12285dd7-2993-4da2-946f-ddd6f768e0bd",
+          "date": "2026-11-03T14:24:41.129+00:00",
+          "source": "Ashby: Paxos [Paxos]",
+          "location": "Remote - United States",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Risk & Compliance",
+          "active": true,
+          "slug": "cmp150",
+          "dateVerified": true
+        },
+        "key": "12285dd7-2993-4da2-946f-ddd6f768e0bd",
+        "slug": "cmp150",
+        "url": "https://hashtagweb3.com/cmp150?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Paxos",
+        "title": "Senior Compliance Associate"
+      }
+    ],
+    "message": "- Kast is hiring <a href=\"https://hashtagweb3.com/pm334?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager (Onboarding/KYC)</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/mgr196?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VIP Relationship Manager, LATAM</a>\n- Coinflow is hiring <a href=\"https://hashtagweb3.com/pm360?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Operations &amp; Strategy Associate</a>\n- Talos is hiring <a href=\"https://hashtagweb3.com/pm282?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager, Trading Connectivity</a>\n- Paxos is hiring <a href=\"https://hashtagweb3.com/cmp150?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Compliance Associate, KYC</a>",
+    "slotKey": "2026-11-04:evening",
+    "messageId": 168,
+    "sentAt": "2026-11-04T19:43:38.271Z"
+  },
+  "f378d62d-475a-4e12-80e7-d7286b8ce4d3": {
+    "status": "sent",
+    "reservedAt": "2026-11-05T03:32:35.144Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8266107",
+          "title": "Staff Software Engineer, Backend Platform",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8266107?t=gh_src=&gh_jid=8266107",
+          "date": "2026-10-08T21:58:08-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "New York, NY",
+          "department": "ENG Data and AI Platform Division",
+          "active": true,
+          "salary": "$230k – $270k/yr",
+          "dateVerified": true,
+          "slug": "eng480"
+        },
+        "key": "8266107",
+        "slug": "eng480",
+        "url": "https://hashtagweb3.com/eng480?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Staff Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "31eb3e762edd",
+          "title": "2027 Sales & Business Development Graduate Talent Trainee",
+          "company": "Bitdeer",
+          "link": "https://bitdeer.breezy.hr/p/31eb3e762edd-2027-sales-business-development-graduate-talent-trainee",
+          "date": "2026-10-22",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Bitdeer [bitdeer]",
+          "location": "Singapore, SG",
+          "isRemote": false,
+          "department": "Graduate Talent Trainee Program",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://bitdeer.breezy.hr/p/31eb3e762edd-2027-sales-business-development-graduate-talent-trainee",
+            "checkedAt": "2026-10-23T03:45:45.677Z",
+            "bodySha256": "8a45110aee863e7c4f0164b1ef110a8aa5dc7f61c43c48fdda487ebc9cbae887",
+            "provider": "breezy",
+            "datePosted": "2026-10-22"
+          },
+          "slug": "rec26"
+        },
+        "key": "31eb3e762edd",
+        "slug": "rec26",
+        "url": "https://hashtagweb3.com/rec26?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "2027 Sales & Business Development Graduate Talent Trainee"
+      },
+      {
+        "snapshot": {
+          "id": "9ed2340b-029e-4f58-82f5-0d55f09aad5b",
+          "title": "Applied Researcher - Chip Design",
+          "company": "Prime Intellect",
+          "link": "https://jobs.ashbyhq.com/primeintellect/9ed2340b-029e-4f58-82f5-0d55f09aad5b",
+          "date": "2026-10-19T15:28:27.247+00:00",
+          "source": "Ashby: Prime Intellect [primeintellect]",
+          "location": "San Francisco",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Applied Research",
+          "active": true,
+          "dateVerified": true,
+          "slug": "arcd"
+        },
+        "key": "9ed2340b-029e-4f58-82f5-0d55f09aad5b",
+        "slug": "arcd",
+        "url": "https://hashtagweb3.com/arcd?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Prime Intellect",
+        "title": "Applied Researcher"
+      },
+      {
+        "snapshot": {
+          "id": "8880855002",
+          "title": "Senior Data Engineer",
+          "company": "BitGo",
+          "link": "https://job-boards.greenhouse.io/bitgo/jobs/8880855002",
+          "date": "2026-10-09T12:11:53-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BitGo [bitgo]",
+          "location": "Palo Alto, CA",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng503"
+        },
+        "key": "8880855002",
+        "slug": "eng503",
+        "url": "https://hashtagweb3.com/eng503?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Senior Data Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8093059003",
+          "title": "Affiliate Manager",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8093059003",
+          "date": "2026-10-29T23:08:30-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Sydney, New South Wales, Australia",
+          "department": "Strategic Markets",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr212"
+        },
+        "key": "8093059003",
+        "slug": "mgr212",
+        "url": "https://hashtagweb3.com/mgr212?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Affiliate Manager"
+      }
+    ],
+    "message": "- Robinhood is hiring <a href=\"https://hashtagweb3.com/eng480?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Software Engineer, Backend Platform</a>\n- Bitdeer is hiring <a href=\"https://hashtagweb3.com/rec26?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">2027 Sales &amp; Business Development Graduate Talent Trainee</a>\n- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/arcd?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Applied Researcher - Chip Design</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/eng503?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Engineer</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/mgr212?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Affiliate Manager</a>",
+    "slotKey": "2026-11-05:morning",
+    "messageId": 16609,
+    "sentAt": "2026-11-05T03:32:47.116Z"
+  },
+  "676496bf-67de-4b31-b0e7-f5ff7afefdab": {
+    "status": "sent",
+    "reservedAt": "2026-11-05T03:32:48.749Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8266107",
+          "title": "Staff Software Engineer, Backend Platform",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8266107?t=gh_src=&gh_jid=8266107",
+          "date": "2026-10-08T21:58:08-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "New York, NY",
+          "department": "ENG Data and AI Platform Division",
+          "active": true,
+          "salary": "$230k – $270k/yr",
+          "dateVerified": true,
+          "slug": "eng480"
+        },
+        "key": "8266107",
+        "slug": "eng480",
+        "url": "https://hashtagweb3.com/eng480?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Staff Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "31eb3e762edd",
+          "title": "2027 Sales & Business Development Graduate Talent Trainee",
+          "company": "Bitdeer",
+          "link": "https://bitdeer.breezy.hr/p/31eb3e762edd-2027-sales-business-development-graduate-talent-trainee",
+          "date": "2026-10-22",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Bitdeer [bitdeer]",
+          "location": "Singapore, SG",
+          "isRemote": false,
+          "department": "Graduate Talent Trainee Program",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://bitdeer.breezy.hr/p/31eb3e762edd-2027-sales-business-development-graduate-talent-trainee",
+            "checkedAt": "2026-10-23T03:45:45.677Z",
+            "bodySha256": "8a45110aee863e7c4f0164b1ef110a8aa5dc7f61c43c48fdda487ebc9cbae887",
+            "provider": "breezy",
+            "datePosted": "2026-10-22"
+          },
+          "slug": "rec26"
+        },
+        "key": "31eb3e762edd",
+        "slug": "rec26",
+        "url": "https://hashtagweb3.com/rec26?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "2027 Sales & Business Development Graduate Talent Trainee"
+      },
+      {
+        "snapshot": {
+          "id": "9ed2340b-029e-4f58-82f5-0d55f09aad5b",
+          "title": "Applied Researcher - Chip Design",
+          "company": "Prime Intellect",
+          "link": "https://jobs.ashbyhq.com/primeintellect/9ed2340b-029e-4f58-82f5-0d55f09aad5b",
+          "date": "2026-10-19T15:28:27.247+00:00",
+          "source": "Ashby: Prime Intellect [primeintellect]",
+          "location": "San Francisco",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Applied Research",
+          "active": true,
+          "dateVerified": true,
+          "slug": "arcd"
+        },
+        "key": "9ed2340b-029e-4f58-82f5-0d55f09aad5b",
+        "slug": "arcd",
+        "url": "https://hashtagweb3.com/arcd?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Prime Intellect",
+        "title": "Applied Researcher"
+      },
+      {
+        "snapshot": {
+          "id": "8880855002",
+          "title": "Senior Data Engineer",
+          "company": "BitGo",
+          "link": "https://job-boards.greenhouse.io/bitgo/jobs/8880855002",
+          "date": "2026-10-09T12:11:53-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BitGo [bitgo]",
+          "location": "Palo Alto, CA",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng503"
+        },
+        "key": "8880855002",
+        "slug": "eng503",
+        "url": "https://hashtagweb3.com/eng503?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Senior Data Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8093059003",
+          "title": "Affiliate Manager",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8093059003",
+          "date": "2026-10-29T23:08:30-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Sydney, New South Wales, Australia",
+          "department": "Strategic Markets",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr212"
+        },
+        "key": "8093059003",
+        "slug": "mgr212",
+        "url": "https://hashtagweb3.com/mgr212?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Affiliate Manager"
+      }
+    ],
+    "message": "- Robinhood is hiring <a href=\"https://hashtagweb3.com/eng480?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Software Engineer, Backend Platform</a>\n- Bitdeer is hiring <a href=\"https://hashtagweb3.com/rec26?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">2027 Sales &amp; Business Development Graduate Talent Trainee</a>\n- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/arcd?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Applied Researcher - Chip Design</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/eng503?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Engineer</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/mgr212?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Affiliate Manager</a>",
+    "slotKey": "2026-11-05:morning",
+    "messageId": 169,
+    "sentAt": "2026-11-05T03:32:51.814Z"
   }
 }
