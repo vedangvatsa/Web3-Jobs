@@ -101518,6 +101518,48 @@
       "attemptId": "d280d3bc-1343-4582-b0cb-8f6b345adf4b",
       "verification": "verified",
       "postId": "0xae6c0ac0cd8c96f0a5ae426cdf8d589385dc3a67"
+    },
+    {
+      "slug": "eng674",
+      "company": "Bitdeer",
+      "title": "Senior/Staff SI/PI Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T03:36:24.569Z",
+      "expectedText": "Bitdeer is hiring Senior/Staff SI/PI Engineer\n\nhttps://hashtagweb3.com/eng674/fc?og=7",
+      "snapshot": {
+        "id": "e89b32dd03f5",
+        "title": "Senior/Staff SI/PI Engineer",
+        "company": "Bitdeer",
+        "link": "https://bitdeer.breezy.hr/p/e89b32dd03f5-senior-staff-si-pi-engineer",
+        "date": "2026-11-02",
+        "dateVerified": true,
+        "dateSource": "Breezy.JobPosting.datePosted",
+        "source": "Breezy: Bitdeer [bitdeer]",
+        "location": "Singapore, SG",
+        "isRemote": false,
+        "department": "IC Lab",
+        "active": true,
+        "dateEvidence": {
+          "url": "https://bitdeer.breezy.hr/p/e89b32dd03f5-senior-staff-si-pi-engineer",
+          "checkedAt": "2026-11-04T00:07:28.466Z",
+          "bodySha256": "3063f60a577e1f82d0e4842c89aae375c0574f821f95ee5e1fe413dfb2689e8f",
+          "provider": "breezy",
+          "datePosted": "2026-11-02"
+        },
+        "slug": "eng674"
+      },
+      "payload": {
+        "text": "Bitdeer is hiring Senior/Staff SI/PI Engineer\n\nhttps://hashtagweb3.com/eng674/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng674/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "3743f878-1382-441f-a9c6-20274687a2af",
+      "verification": "creating"
     }
   ]
 }
