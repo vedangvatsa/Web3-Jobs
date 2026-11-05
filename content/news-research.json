@@ -134409,9 +134409,9 @@
         "The Block"
       ],
       "id": "6d9671bda405947e037d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T16:55:10.000Z",
       "lastSeenAt": "2026-11-04T00:03:58.707Z",
       "articleSlug": "sunsanction",
@@ -134437,7 +134437,25 @@
         "updatedAt": "2026-11-05T00:31:59.168Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Decrypt, Cointelegraph and Unchained in full; matched the sanctions amount, disclosure timeline, case number and Dec. 10 hearing across all three. Hero self-hosted from Wikimedia; quality, image, formatting, duplicate audits and tsc pass; all three outbound links return 200.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/justin-sun-seeks-sanctions-as-world-libertys-uae-citizenship-pushes-his-suit-toward-state-court/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-05T00:39:49.251Z",
+      "lastReviewedDay": "2026-11-05"
     },
     "ef32cddf3704fb3cad6e": {
       "source": "The Defiant",
@@ -249987,6 +250005,27 @@
             }
           ],
           "reviewedAt": "2026-11-05T00:33:17.908Z"
+        },
+        "6d9671bda405947e037d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Decrypt, Cointelegraph and Unchained in full; matched the sanctions amount, disclosure timeline, case number and Dec. 10 hearing across all three. Hero self-hosted from Wikimedia; quality, image, formatting, duplicate audits and tsc pass; all three outbound links return 200.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/justin-sun-seeks-sanctions-as-world-libertys-uae-citizenship-pushes-his-suit-toward-state-court/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-05T00:39:49.251Z",
+          "articleSlug": "sunsanction"
         }
       },
       "baselineSlugs": [
