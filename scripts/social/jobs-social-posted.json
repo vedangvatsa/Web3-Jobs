@@ -102094,7 +102094,8 @@
       },
       "account": "profile",
       "attemptId": "f317464f-6658-4414-aef5-37c1c0bcae62",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x66f17830cdf5ca4d8ddc64e6b582da705f3956e9"
     }
   ]
 }
