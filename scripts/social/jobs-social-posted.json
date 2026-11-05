@@ -104305,6 +104305,46 @@
       "verification": "verified",
       "postId": "6aec69fbf26542fc33d34b35",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524071958435520512"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager: https://hashtagweb3.com/mgr128/li?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager: https://hashtagweb3.com/mgr128/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/mgr128/li?og=7",
+          "title": "Finance Manager at Ripple",
+          "description": "Join Ripple as Finance Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/mgr128.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "94580e31-60d6-423e-a737-df69a586e7fd",
+      "verification": "creating"
     }
   ]
 }
