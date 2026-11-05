@@ -125964,11 +125964,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "f947bc3d952ce00afb64",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-03T01:43:52.711Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-05T22:01:17.000Z",
-      "lastSeenAt": "2026-11-03T01:43:52.711Z"
+      "lastSeenAt": "2026-11-03T01:43:52.711Z",
+      "reason": "out-of-scope",
+      "note": "Read the Crypto Briefing piece (Nov 2) in full. It covers Palantir customer benchmark results for a fine-tuned Nvidia Nemotron 4B model presented at Palantir's Oct 21 Sovereignty Bootcamp, with construction, defense and healthcare examples. No Web3, crypto or blockchain angle; single outlet covering customer-reported AI numbers, so it is out of scope for hashtagweb3.com.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/palantir-nvidia-4b-model-outperforms-larger/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-05T01:15:31.271Z",
+      "lastReviewedDay": "2026-11-05"
     },
     "a7096aa55ac6132ffd3e": {
       "source": "CoinDesk",
@@ -250368,6 +250378,18 @@
           ],
           "reviewedAt": "2026-11-05T01:13:45.695Z",
           "articleSlug": "fakeinterview"
+        },
+        "f947bc3d952ce00afb64": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Crypto Briefing piece (Nov 2) in full. It covers Palantir customer benchmark results for a fine-tuned Nvidia Nemotron 4B model presented at Palantir's Oct 21 Sovereignty Bootcamp, with construction, defense and healthcare examples. No Web3, crypto or blockchain angle; single outlet covering customer-reported AI numbers, so it is out of scope for hashtagweb3.com.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/palantir-nvidia-4b-model-outperforms-larger/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-05T01:15:31.271Z"
         }
       },
       "baselineSlugs": [
