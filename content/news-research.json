@@ -130817,11 +130817,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "526f65f00d4a9ea5f257",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T11:28:00.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "source-blocked",
+      "note": "Single source CoinDesk article; WebFetch and a direct curl with the readiness User-Agent both returned HTTP 429, so no content was read. The headline suggests market-price coverage, but the rejection cannot be confirmed without opening the article.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-05T00:44:46.346Z",
+      "retrySearches": [
+        "Open the CoinDesk BTC steadies Nov 3 article when rate limits clear, or find a readable independent outlet covering the same Nov 3 bitcoin dip to 6,300 story"
+      ],
+      "lastReviewedDay": "2026-11-05",
+      "nextReviewDate": "2026-11-06"
     },
     "e8630a8e9478d36f2036": {
       "source": "Cointelegraph",
@@ -250134,6 +250148,21 @@
             }
           ],
           "reviewedAt": "2026-11-05T00:44:11.382Z"
+        },
+        "526f65f00d4a9ea5f257": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Single source CoinDesk article; WebFetch and a direct curl with the readiness User-Agent both returned HTTP 429, so no content was read. The headline suggests market-price coverage, but the rejection cannot be confirmed without opening the article.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-05T00:44:46.346Z",
+          "retrySearches": [
+            "Open the CoinDesk BTC steadies Nov 3 article when rate limits clear, or find a readable independent outlet covering the same Nov 3 bitcoin dip to 6,300 story"
+          ]
         }
       },
       "baselineSlugs": [
