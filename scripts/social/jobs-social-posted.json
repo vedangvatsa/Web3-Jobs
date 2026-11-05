@@ -105070,7 +105070,8 @@
       },
       "account": "channel:design",
       "attemptId": "417cf926-f70c-45bb-ab60-8943192404a7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf20ef46141ffb19127a3c496c2492cdc92210c89"
     }
   ]
 }
