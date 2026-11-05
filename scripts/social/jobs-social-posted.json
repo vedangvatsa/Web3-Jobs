@@ -101005,6 +101005,46 @@
       "attemptId": "af87ac48-8932-459e-8093-36140b2936ef",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Wednesday, 04-Nov-26 19:36:40 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ApDKVuR2i65DbLtiExwEBKe\"}"
+    },
+    {
+      "slug": "eng674",
+      "company": "Bitdeer",
+      "title": "Senior/Staff SI/PI Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-11-05T03:36:24.569Z",
+      "expectedText": "Bitdeer is hiring Senior/Staff SI/PI Engineer: https://hashtagweb3.com/eng674/bsky?og=7",
+      "snapshot": {
+        "id": "e89b32dd03f5",
+        "title": "Senior/Staff SI/PI Engineer",
+        "company": "Bitdeer",
+        "link": "https://bitdeer.breezy.hr/p/e89b32dd03f5-senior-staff-si-pi-engineer",
+        "date": "2026-11-02",
+        "dateVerified": true,
+        "dateSource": "Breezy.JobPosting.datePosted",
+        "source": "Breezy: Bitdeer [bitdeer]",
+        "location": "Singapore, SG",
+        "isRemote": false,
+        "department": "IC Lab",
+        "active": true,
+        "dateEvidence": {
+          "url": "https://bitdeer.breezy.hr/p/e89b32dd03f5-senior-staff-si-pi-engineer",
+          "checkedAt": "2026-11-04T00:07:28.466Z",
+          "bodySha256": "3063f60a577e1f82d0e4842c89aae375c0574f821f95ee5e1fe413dfb2689e8f",
+          "provider": "breezy",
+          "datePosted": "2026-11-02"
+        },
+        "slug": "eng674"
+      },
+      "payload": {
+        "text": "Bitdeer is hiring Senior/Staff SI/PI Engineer: https://hashtagweb3.com/eng674/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/eng674/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/eng674.png?v=7",
+        "company": "Bitdeer",
+        "title": "Senior/Staff SI/PI Engineer",
+        "description": "Join Bitdeer as Senior/Staff SI/PI Engineer. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "402518c0-296e-4033-a47a-159572852082",
+      "verification": "creating"
     }
   ]
 }
