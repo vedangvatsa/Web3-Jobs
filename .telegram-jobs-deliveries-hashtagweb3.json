@@ -7624,7 +7624,7 @@
     "sentAt": "2026-11-05T03:33:06.580Z"
   },
   "cf58757d-9e4b-43c5-84d2-c17a339bc0f6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-05T11:33:04.814Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -7739,6 +7739,8 @@
       }
     ],
     "message": "- Dune is hiring <a href=\"https://hashtagweb3.com/pm314?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Product</a>\n- Morpho is hiring <a href=\"https://hashtagweb3.com/cc7?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Commercial Counsel</a>\n- Kalshi is hiring <a href=\"https://hashtagweb3.com/eng576?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior IT Engineer</a>\n- Ondo Finance is hiring <a href=\"https://hashtagweb3.com/cmp74?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Compliance Manager, Monitoring &amp; Investigations</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/mgr218?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Partnerships Manager</a>",
-    "slotKey": "2026-11-05:afternoon"
+    "slotKey": "2026-11-05:afternoon",
+    "messageId": 156092,
+    "sentAt": "2026-11-05T11:33:18.737Z"
   }
 }
