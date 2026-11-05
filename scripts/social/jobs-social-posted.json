@@ -100143,7 +100143,8 @@
         "link_attachment": "https://hashtagweb3.com/sls365/th?og=7"
       },
       "attemptId": "28805f9b-1c4a-4413-b11b-0952ec35788c",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Wednesday, 04-Nov-26 19:32:39 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AmeCJUhu2Sk2nR9hUnLioG6\"}"
     }
   ]
 }
