@@ -105293,8 +105293,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "5d2b1268-c8b1-4e06-b93d-9dd657d53ea7",
-      "verification": "pending",
-      "postId": "6aecdcc5845dce9f76636ef1"
+      "verification": "verified",
+      "postId": "6aecdcc5845dce9f76636ef1",
+      "permalink": "https://twitter.com/hashtag_web3/status/2118429432427778093"
     }
   ]
 }
