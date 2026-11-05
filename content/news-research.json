@@ -130668,18 +130668,18 @@
         "id": "5652eed2b6a23af9e4d3",
         "day": "2026-11-05",
         "articleSlug": "bitgostacks",
-        "note": "Read Crypto Briefing in full; The Defiant returned HTTP 403. Still need a second readable independent source (BitGo or Stacks official announcement or another outlet) before drafting.",
+        "note": "Two independent sources read in full: Crypto Briefing (Nov 3) and Stacks Labs official blog (Nov 3). Qualification checks pass. Draft not started; needs image and audits.",
         "sourceChecks": [
           {
             "url": "https://cryptobriefing.com/bitgo-bitcoin-staking-stacks-institutional/",
             "outcome": "read"
           },
           {
-            "url": "https://thedefiant.io/converge/cefi/bitgo-adds-stacks-bitcoin-staking-in-qualified-custody",
-            "outcome": "blocked"
+            "url": "https://www.stacks.co/blog/bitgo-announces-bitcoin-staking-with-stacks-for-institutional-clients-in-qualified-custody",
+            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-05T00:40:44.893Z",
+        "updatedAt": "2026-11-05T01:02:26.232Z",
         "approved": false,
         "mustReview": true
       }
