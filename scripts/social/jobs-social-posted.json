@@ -102886,7 +102886,8 @@
       },
       "account": "profile",
       "attemptId": "567918a7-722a-4274-a87a-c0a04a4d074c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xdf87bc5ed9a0685f0afed2c3ba50847153f3d396"
     }
   ]
 }
