@@ -105717,7 +105717,8 @@
       },
       "account": "channel:base",
       "attemptId": "537f2e37-90e4-4583-9b4d-99e1e1aa068b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc321374a3583439685170fa61e5fdd3ce6c09493"
     }
   ]
 }
