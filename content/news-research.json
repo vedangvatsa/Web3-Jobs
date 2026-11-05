@@ -126133,11 +126133,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "70ac515295fc9644a73b",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-03T01:43:52.711Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-05T21:16:24.000Z",
-      "lastSeenAt": "2026-11-03T01:43:52.711Z"
+      "lastSeenAt": "2026-11-03T01:43:52.711Z",
+      "reason": "verified-event",
+      "note": "Read Cointelegraph (Nov 2) and Decrypt (Nov 2) in full; verified the 06M Nov 1 EU-entity theft, the laundering path (WellWallet, Kyrrex, Wagyu, bridges), the 11 addresses, the not-Lazarus hedge, and the Binance freeze context across both. Wrote eustolen.md (600+ words, audits clean, links 200), self-hosted EU flags hero (275KB).",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack",
+          "outcome": "read"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:European%20Union%20Flags%202.jpg",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-05T01:28:04.373Z",
+      "articleSlug": "eustolen",
+      "lastReviewedDay": "2026-11-05"
     },
     "08dcd5d8f54963ac6ab9": {
       "source": "Decrypt",
@@ -250429,6 +250452,31 @@
           ],
           "reviewedAt": "2026-11-05T01:22:34.842Z",
           "articleSlug": "koreacold"
+        },
+        "70ac515295fc9644a73b": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Cointelegraph (Nov 2) and Decrypt (Nov 2) in full; verified the 06M Nov 1 EU-entity theft, the laundering path (WellWallet, Kyrrex, Wagyu, bridges), the 11 addresses, the not-Lazarus hedge, and the Binance freeze context across both. Wrote eustolen.md (600+ words, audits clean, links 200), self-hosted EU flags hero (275KB).",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack",
+              "outcome": "read"
+            },
+            {
+              "url": "https://commons.wikimedia.org/wiki/File:European%20Union%20Flags%202.jpg",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-05T01:28:04.373Z",
+          "articleSlug": "eustolen"
         }
       },
       "baselineSlugs": [
