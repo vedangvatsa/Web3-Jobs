@@ -14369,5 +14369,120 @@
     "slotKey": "2026-11-05:afternoon",
     "messageId": 170,
     "sentAt": "2026-11-05T11:33:01.532Z"
+  },
+  "e2a3b56c-aff4-48df-9375-f94bfbfbe05a": {
+    "status": "reserved",
+    "reservedAt": "2026-11-05T19:46:06.269Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "6b32c57b-0476-41ad-8ef2-66887704cacd",
+          "title": "Head of Business Development",
+          "company": "Very AI",
+          "link": "https://talent.superteam.fun/jobs/head-of-business-development-at-very-ai-6b32c57b-0476-41ad-8ef2-66887704cacd",
+          "date": "2026-10-21T07:06:03.864657+00:00",
+          "source": "Superteam: Very AI [superteam]",
+          "location": "Onsite · San Francisco, NY",
+          "department": "Full-Time",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls392"
+        },
+        "key": "6b32c57b-0476-41ad-8ef2-66887704cacd",
+        "slug": "sls392",
+        "url": "https://hashtagweb3.com/sls392?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Very AI",
+        "title": "Head of Business Development"
+      },
+      {
+        "snapshot": {
+          "id": "8267736",
+          "title": "Software Engineer",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8267736",
+          "date": "2026-10-09T12:47:42-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Seattle, WA",
+          "department": "Global Operations",
+          "active": true,
+          "salary": "$190.4k – $285.6k/yr",
+          "dateVerified": true,
+          "slug": "eng380"
+        },
+        "key": "8267736",
+        "slug": "eng380",
+        "url": "https://hashtagweb3.com/eng380?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "5024599101",
+          "title": "Commercial Revenue Operations Manager",
+          "company": "StraitsX",
+          "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5024599101",
+          "date": "2026-11-02T01:05:38-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: StraitsX [straitsx]",
+          "location": "Singapore",
+          "department": "STX - Commercial",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops134"
+        },
+        "key": "5024599101",
+        "slug": "ops134",
+        "url": "https://hashtagweb3.com/ops134?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "StraitsX",
+        "title": "Commercial Revenue Operations Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8422810e-c792-4828-8af4-083078d0911d",
+          "title": "Senior Software Engineer, API Products",
+          "company": "0x",
+          "link": "https://jobs.ashbyhq.com/0x/8422810e-c792-4828-8af4-083078d0911d",
+          "date": "2026-10-16T13:53:57.600+00:00",
+          "source": "Ashby: 0x [0x]",
+          "location": "Remote",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm35"
+        },
+        "key": "8422810e-c792-4828-8af4-083078d0911d",
+        "slug": "pm35",
+        "url": "https://hashtagweb3.com/pm35?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "0x",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "ab942e1a-e976-4837-a666-d8ff24606829",
+          "title": "Sr Product Marketing Manager",
+          "company": "Arbitrum",
+          "link": "https://jobs.lever.co/offchainlabs/ab942e1a-e976-4837-a666-d8ff24606829",
+          "date": "2026-10-26T18:40:18.666Z",
+          "source": "Lever: Offchain Labs [offchainlabs]",
+          "location": "Remote",
+          "workplaceType": "remote",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm331"
+        },
+        "key": "ab942e1a-e976-4837-a666-d8ff24606829",
+        "slug": "pm331",
+        "url": "https://hashtagweb3.com/pm331?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Arbitrum",
+        "title": "Sr Product Marketing Manager"
+      }
+    ],
+    "message": "- Very AI is hiring <a href=\"https://hashtagweb3.com/sls392?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Business Development</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/eng380?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer</a>\n- StraitsX is hiring <a href=\"https://hashtagweb3.com/ops134?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Commercial Revenue Operations Manager</a>\n- 0x is hiring <a href=\"https://hashtagweb3.com/pm35?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer, API Products</a>\n- Arbitrum is hiring <a href=\"https://hashtagweb3.com/pm331?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sr Product Marketing Manager</a>",
+    "slotKey": "2026-11-05:evening"
   }
 }
