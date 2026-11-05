@@ -130785,11 +130785,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "d7aefe4249303203fb80",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T14:26:13.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "duplicate",
+      "note": "Read the Bitcoin Magazine report in full: the Oct. 30 notice of rescission, the $5 million penalty withdrawal without prejudice, the Oct. 29 notification in Coinbase's 10-Q and the ten-state 2023 background are the same event already covered by the published njstaking article, sourced to the same notice, filing and Cointelegraph report.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/new-jersey-drops-coinbase-staking-order",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-05T00:44:11.382Z",
+      "duplicateOf": "njstaking",
+      "lastReviewedDay": "2026-11-05"
     },
     "526f65f00d4a9ea5f257": {
       "source": "CoinDesk",
@@ -130827,11 +130838,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "e8630a8e9478d36f2036",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T07:49:51.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "price-chatter",
+      "note": "Read the Cointelegraph piece in full: it reports Farside and SoSoValue daily fund-flow numbers for IBIT and US spot Bitcoin ETFs ($405.3M IBIT outflow, $398.6M net) plus price levels. Fund flows and price moves are market data, not a concrete launch, vote, ruling, filing, hack, raise or upgrade.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-05T00:44:11.382Z",
+      "lastReviewedDay": "2026-11-05"
     },
     "54431d81e5393c722fbd": {
       "source": "Crypto Briefing",
@@ -135164,11 +135185,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "c861cdf43b3090b23f1d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-05T00:28:26.536Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-07T07:57:41.000Z",
-      "lastSeenAt": "2026-11-05T00:28:26.536Z"
+      "lastSeenAt": "2026-11-05T00:28:26.536Z",
+      "reason": "price-chatter",
+      "note": "Read the CoinJournal analysis in full: it is a price and technical-indicator piece on ETH reclaiming $2,300, its realized price of $2,309, EMA support and resistance levels, and SoSoValue ETF outflow figures. No concrete event; the article is filed under its own Analysis category.",
+      "sourceChecks": [
+        {
+          "url": "https://coinjournal.net/news/ethereum-reclaims-2300-as-1-61b-etf-outflows-weigh-on-recovery/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-05T00:44:11.382Z",
+      "lastReviewedDay": "2026-11-05"
     },
     "e755d4d6f2b69ec05fc1": {
       "source": "Crypto Briefing",
@@ -250066,6 +250097,43 @@
           ],
           "reviewedAt": "2026-11-05T00:39:49.251Z",
           "articleSlug": "sunsanction"
+        },
+        "d7aefe4249303203fb80": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Read the Bitcoin Magazine report in full: the Oct. 30 notice of rescission, the $5 million penalty withdrawal without prejudice, the Oct. 29 notification in Coinbase's 10-Q and the ten-state 2023 background are the same event already covered by the published njstaking article, sourced to the same notice, filing and Cointelegraph report.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/new-jersey-drops-coinbase-staking-order",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-05T00:44:11.382Z",
+          "duplicateOf": "njstaking"
+        },
+        "e8630a8e9478d36f2036": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read the Cointelegraph piece in full: it reports Farside and SoSoValue daily fund-flow numbers for IBIT and US spot Bitcoin ETFs ($405.3M IBIT outflow, $398.6M net) plus price levels. Fund flows and price moves are market data, not a concrete launch, vote, ruling, filing, hack, raise or upgrade.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-05T00:44:11.382Z"
+        },
+        "c861cdf43b3090b23f1d": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read the CoinJournal analysis in full: it is a price and technical-indicator piece on ETH reclaiming $2,300, its realized price of $2,309, EMA support and resistance levels, and SoSoValue ETF outflow figures. No concrete event; the article is filed under its own Analysis category.",
+          "sourceChecks": [
+            {
+              "url": "https://coinjournal.net/news/ethereum-reclaims-2300-as-1-61b-etf-outflows-weigh-on-recovery/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-05T00:44:11.382Z"
         }
       },
       "baselineSlugs": [
