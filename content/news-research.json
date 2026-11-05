@@ -126376,11 +126376,27 @@
       ],
       "alsoCoveredBy": [],
       "id": "0892643df2901faac7b3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-03T01:43:52.711Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-05T19:05:35.000Z",
-      "lastSeenAt": "2026-11-03T01:43:52.711Z"
+      "lastSeenAt": "2026-11-03T01:43:52.711Z",
+      "reason": "duplicate",
+      "note": "Same Mercado Bitcoin security incident and post-hack transfer reporting already covered by the mercadobitcoin article, which cites this Cointelegraph report in full.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/mercado-bitcoin-hack",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-05T01:36:53.097Z",
+      "duplicateOf": "mercadobitcoin",
+      "mergedInto": "773ff5def5e80524bdd7",
+      "lastReviewedDay": "2026-11-05"
     },
     "4446efac2e8fa9c08143": {
       "source": "Decrypt",
@@ -126519,11 +126535,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "773ff5def5e80524bdd7",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-03T01:43:52.711Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-05T16:46:03.000Z",
-      "lastSeenAt": "2026-11-03T01:43:52.711Z"
+      "lastSeenAt": "2026-11-03T01:43:52.711Z",
+      "reason": "verified-event",
+      "note": "Read Decrypt, Cointelegraph's hack report, and Cointelegraph's Nov. 4 phased-reopening statement in full. Matched the Nov. 2 suspension, Hypernative's unconfirmed $40M figure, the $46M analyst estimate, the freeze totals, and the Monday access-restoration plan across sources. Hero self-hosted from Wikimedia (CC0).",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/mercado-bitcoin-hack",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-05T01:36:53.097Z",
+      "articleSlug": "mercadobitcoin",
+      "lastReviewedDay": "2026-11-05"
     },
     "be96392bde705364f84f": {
       "source": "CryptoSlate",
@@ -250511,6 +250546,45 @@
           "reviewedAt": "2026-11-05T01:28:21.583Z",
           "duplicateOf": "eustolen",
           "mergedInto": "70ac515295fc9644a73b"
+        },
+        "773ff5def5e80524bdd7": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Decrypt, Cointelegraph's hack report, and Cointelegraph's Nov. 4 phased-reopening statement in full. Matched the Nov. 2 suspension, Hypernative's unconfirmed $40M figure, the $46M analyst estimate, the freeze totals, and the Monday access-restoration plan across sources. Hero self-hosted from Wikimedia (CC0).",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/mercado-bitcoin-hack",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-05T01:36:53.097Z",
+          "articleSlug": "mercadobitcoin"
+        },
+        "0892643df2901faac7b3": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Mercado Bitcoin security incident and post-hack transfer reporting already covered by the mercadobitcoin article, which cites this Cointelegraph report in full.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/mercado-bitcoin-hack",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-05T01:36:53.097Z",
+          "duplicateOf": "mercadobitcoin",
+          "mergedInto": "773ff5def5e80524bdd7"
         }
       },
       "baselineSlugs": [
