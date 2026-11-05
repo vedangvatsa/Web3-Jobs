@@ -101994,7 +101994,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "ff458000-7e2f-47d4-8433-53c23226f530",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6aec00fc660b2991f14f0d89"
     }
   ]
 }
