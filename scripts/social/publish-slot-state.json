@@ -8,7 +8,7 @@
     "afternoon": "2026-10-30",
     "evening": "2026-10-31"
   },
-  "deployed": "2026-11-04",
+  "deployed": "2026-11-05",
   "ingested": "2026-11-04",
   "dailyDeployments": {
     "2026-10-23": [
@@ -733,12 +733,14 @@
           "fakeinterview",
           "sunsanction"
         ],
-        "phase": "rolling-out",
+        "phase": "succeeded",
         "startedAt": "2026-11-05T01:45:35.215Z",
         "buildId": "daily-20261105-41941394796-1",
         "rolloutId": "daily-20261105-41941394796-1",
         "buildState": "READY",
-        "observedAt": "2026-11-05T02:02:11.804Z"
+        "observedAt": "2026-11-05T02:02:43.617Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-11-05T02:02:43.617Z"
       }
     ]
   }
