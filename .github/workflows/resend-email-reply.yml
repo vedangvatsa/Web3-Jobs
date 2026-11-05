@@ -1,0 +1,61 @@
+name: Resend email lookup or reply
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: lookup = read original email metadata; send = send crafted reply (requires confirm)
+        type: choice
+        options: [lookup, send]
+        default: lookup
+        required: true
+      email_id:
+        description: Resend email entity id (uuid)
+        required: true
+      subject:
+        description: Reply subject (send mode)
+        required: false
+        default: ''
+      body_text:
+        description: Reply body in plain text (send mode)
+        required: false
+        default: ''
+      body_html:
+        description: Reply body HTML (optional, send mode)
+        required: false
+        default: ''
+      confirm:
+        description: Must be "yes" to actually send (send mode)
+        required: false
+        default: 'no'
+
+concurrency:
+  group: resend-email-reply
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  reply:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Lookup or send reply
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          GH_TOKEN: ${{ github.token }}
+          REPLY_MODE: ${{ inputs.mode }}
+          REPLY_EMAIL_ID: ${{ inputs.email_id }}
+          REPLY_SUBJECT: ${{ inputs.subject }}
+          REPLY_BODY_TEXT: ${{ inputs.body_text }}
+          REPLY_BODY_HTML: ${{ inputs.body_html }}
+          REPLY_CONFIRM: ${{ inputs.confirm }}
+        run: node scripts/resend-email-reply.mjs
