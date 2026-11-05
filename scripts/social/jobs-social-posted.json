@@ -105035,7 +105035,8 @@
       },
       "account": "channel:product",
       "attemptId": "7bee9d03-62a1-40d5-a07c-aec86448c140",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x32ae59fdb4a41fcf1293f51a3d3e739145da413e"
     }
   ]
 }
