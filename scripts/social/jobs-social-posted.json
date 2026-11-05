@@ -105326,6 +105326,39 @@
       "attemptId": "53e6c4cd-ef91-46c2-b97d-7bebb02162f8",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Thursday, 05-Nov-26 11:45:27 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AUB03Uxyr8ZX1L6qzIjnSbe\"}"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "bluesky",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations: https://hashtagweb3.com/eng700/bsky?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations: https://hashtagweb3.com/eng700/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/eng700/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/eng700.png?v=7",
+        "company": "DRW",
+        "title": "Software Engineer - Trading Operations",
+        "description": "Join DRW as Software Engineer - Trading Operat. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "40c2c9e7-e31a-4505-a98a-b5e447863a6e",
+      "verification": "creating"
     }
   ]
 }
