@@ -69,31 +69,6 @@
     }
   },
   {
-    "name": "Cardano Summit 2026",
-    "url": "https://summit.cardano.org",
-    "emails": [
-      "events@cardanofoundation.org",
-      "event-support@cardanofoundation.org",
-      "cardanosummit@150bond.com"
-    ],
-    "event": {
-      "id": "premier-cardano-summit-2026",
-      "slug": "cardano",
-      "name": "Cardano Summit 2026",
-      "description": "The Cardano ecosystem's annual gathering connecting IOG, Emurgo and Cardano Foundation teams with the global community.",
-      "startDate": "2026-10-05T09:00:00.000Z",
-      "endDate": "2026-10-06T18:00:00.000Z",
-      "city": "Singapore",
-      "country": "Singapore",
-      "location": "Singapore, Singapore",
-      "url": "https://summit.cardano.org",
-      "website": "https://summit.cardano.org",
-      "coverImage": "https://framerusercontent.com/images/T2alYSiWTi1pC1A2z7r4Wf58Qyk.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
     "name": "TOKEN2049 Singapore 2026",
     "url": "https://asia.token2049.com",
     "emails": [
@@ -576,23 +551,7 @@
     "url": "https://mnm.live/theodds/t2049singapore",
     "emails": [
       "tal@mnm.live"
-    ],
-    "event": {
-      "id": "premier-theodds",
-      "slug": "the2",
-      "name": "The Odds: Prediction Markets Summit Singapore 2026",
-      "description": "A prediction-markets summit covering information markets, resolution mechanics, and on-chain forecasting during TOKEN2049 week.",
-      "startDate": "2026-10-06T09:00:00.000Z",
-      "endDate": "2026-10-06T18:00:00.000Z",
-      "city": "Singapore",
-      "country": "Singapore",
-      "location": "Singapore, Singapore",
-      "url": "https://mnm.live/theodds/t2049singapore",
-      "website": "https://mnm.live/theodds/t2049singapore",
-      "coverImage": "https://mnm.live/og/the-odds-singapore.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
+    ]
   },
   {
     "name": "Global Blockchain Show Abu Dhabi 2026",

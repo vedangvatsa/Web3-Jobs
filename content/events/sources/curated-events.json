@@ -858,29 +858,6 @@
     }
   },
   {
-    "id": "premier-ethbrasil",
-    "slug": "ethereum1",
-    "name": "Ethereum Brasil 2026",
-    "description": "## Brazil's main layer for the Ethereum ecosystem\n\n## layer\n\nThe strategic bridge for scaling Ethereum products in LATAM.\n\n## Flagship events of Ethereum in Brazil\n\n## ETH Brasil\n\nLarge-scale community conference in São Paulo bringing together the broader ecosystem, protocols, projects, companies and institutions building on Ethereum in Brazil.\n\n## ETH Rio\n\nHigh-level gathering in Rio de Janeiro focused on founders, builders, partners, investors, researchers and global guests.\n\n## Together\n\nThese two events form Brazil’s main entrypoint and activation layer for the Ethereum ecosystem from deep technical builders to ecosystem scale and adoption.\n\n## Designed for High-Quality In-Person Ethereum Interaction\n\nWhere founders, builders, institutions and partners connect, build relationships, and unlock real business opportunities — all within a world-class venue experience.\n\n## Speakers & Panels\n\nTop Ethereum thinkers and operators discussing Brazil’s tokenized economy and frontier innovation.\n\n## Working and Networking\n\nA premium environment for informal collaboration — where real connections, ideas and deals actually happen.\n\n## Business & VIP Area\n\nA dedicated space for founders, partners and sponsors to connect, talk business and build strategic relationships\n\n## Side Events\n\nSide Events are a hallmark of Crypto Confereces! We look forward to welcoming many of them.\n\n## EVM Builders Track\n\nThe EVMBuilders Track is an exclusive, curated track for Brazilian builders to get face-to-face whith leading VCs and investors.\n\n## Ethereum Brasil goes beyond events\n\n## Ecosystem Connectivity\n\nWe actively connect builders, companies, protocols and institutions.\n\n## Market Intelligence\n\nWe distribute local updates and surface real opportunities in Brazil.\n\n## Discovery Layer for Brazil\n\nWe make it easier for anyone entering Brazil to find who is actually building here.\n\n## Activation & Acceleration\n\nWe help convert connections into real collaborations, pilots, partnerships and adoption inside Brazil.\n\n## Strategic Partners\n\n## Let’s connect your project to the Brazilian Ethereum ecosystem.",
-    "startDate": "2026-10-05T09:00:00.000Z",
-    "endDate": "2026-10-06T18:00:00.000Z",
-    "city": "São Paulo",
-    "country": "Brazil",
-    "location": "São Paulo, Brazil",
-    "url": "https://www.ethereumbrasil.com",
-    "website": "https://www.ethereumbrasil.com",
-    "coverImage": "/events/ethereum1.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "descriptionSource": {
-      "url": "https://www.ethereumbrasil.com/",
-      "fetchedAt": "2026-09-20T00:20:17.365Z",
-      "method": "official-section",
-      "pageTitle": "Ethereum Brasil",
-      "sha256": "876c7ec1fc25d3432fb16c8b16ed9b4e5d677f188ac445719d1c2449c6bb2104"
-    }
-  },
-  {
     "id": "premier-planblugano",
     "slug": "plan",
     "name": "Plan B Forum Lugano 2026",
