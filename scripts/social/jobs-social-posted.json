@@ -106900,8 +106900,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "0df8972e-e422-4804-b1fc-9db4ab6258a6",
-      "verification": "pending",
-      "postId": "6aecde5b845dce9f7663ecc1"
+      "verification": "verified",
+      "postId": "6aecde5b845dce9f7663ecc1",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524196913299152896"
     }
   ]
 }
