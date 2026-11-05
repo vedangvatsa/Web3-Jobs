@@ -125596,9 +125596,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "e211d030e308f802ae25",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-03T01:43:52.711Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T01:32:39.000Z",
       "lastSeenAt": "2026-11-04T00:03:58.707Z",
       "articleSlug": "koreacold",
@@ -125620,7 +125620,25 @@
         "updatedAt": "2026-11-05T01:17:51.613Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read Cointelegraph (Nov 3) and The Asia Business Daily (Nov 2) in full; verified the Nov 2 FSC emergency meeting, chair Yoo Youngjun, the 80% cold-wallet statutory minimum, the exchange ratios, and the meeting asks across both sites. Wrote koreacold.md (600+ words, both audits clean), self-hosted the Seoul hero image (224KB), all outbound links HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.asiae.co.kr/en/article/2026110216375545819",
+          "outcome": "read"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Seoul%20centre%20004.JPG",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-05T01:22:34.842Z",
+      "lastReviewedDay": "2026-11-05"
     },
     "26d516e40d6ba2c39276": {
       "source": "CryptoSlate",
@@ -250390,6 +250408,27 @@
             }
           ],
           "reviewedAt": "2026-11-05T01:15:31.271Z"
+        },
+        "e211d030e308f802ae25": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Cointelegraph (Nov 3) and The Asia Business Daily (Nov 2) in full; verified the Nov 2 FSC emergency meeting, chair Yoo Youngjun, the 80% cold-wallet statutory minimum, the exchange ratios, and the meeting asks across both sites. Wrote koreacold.md (600+ words, both audits clean), self-hosted the Seoul hero image (224KB), all outbound links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.asiae.co.kr/en/article/2026110216375545819",
+              "outcome": "read"
+            },
+            {
+              "url": "https://commons.wikimedia.org/wiki/File:Seoul%20centre%20004.JPG",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-05T01:22:34.842Z",
+          "articleSlug": "koreacold"
         }
       },
       "baselineSlugs": [
