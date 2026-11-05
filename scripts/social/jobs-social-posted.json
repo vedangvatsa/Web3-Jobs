@@ -106057,6 +106057,48 @@
       "verification": "verified",
       "postId": "6aecdd7c26d4080d86d12e11",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524195977071656960"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "linkedin",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations: https://hashtagweb3.com/eng700/li?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations: https://hashtagweb3.com/eng700/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng700/li?og=7",
+          "title": "Software Engineer - Trading Operations at DRW",
+          "description": "Join DRW as Software Engineer - Trading Operat. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng700.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "0d510bc6-13ba-4087-84e6-364fd964e86c",
+      "verification": "creating"
     }
   ]
 }
