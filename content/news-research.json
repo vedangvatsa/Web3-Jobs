@@ -125617,11 +125617,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "26d516e40d6ba2c39276",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-03T01:43:52.711Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T01:05:23.000Z",
-      "lastSeenAt": "2026-11-03T01:43:52.711Z"
+      "lastSeenAt": "2026-11-03T01:43:52.711Z",
+      "reason": "price-chatter",
+      "note": "Read the CryptoSlate piece in full. It is Tom Lee's commentary that ETH's ~4% post-hack decline is bullish, with a Bybit comparison; opinion on price action, no concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/tom-lee-calls-ethereums-4-post-hack-fall-bullish-but-the-bybit-comparison-has-a-catch/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-05T00:59:50.004Z",
+      "lastReviewedDay": "2026-11-05"
     },
     "3bedfab9aacf3c67a011": {
       "source": "The Defiant",
@@ -250194,6 +250204,18 @@
           ],
           "reviewedAt": "2026-11-05T00:56:46.203Z",
           "articleSlug": "safubtc"
+        },
+        "26d516e40d6ba2c39276": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read the CryptoSlate piece in full. It is Tom Lee's commentary that ETH's ~4% post-hack decline is bullish, with a Bybit comparison; opinion on price action, no concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/tom-lee-calls-ethereums-4-post-hack-fall-bullish-but-the-bybit-comparison-has-a-catch/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-05T00:59:50.004Z"
         }
       },
       "baselineSlugs": [
