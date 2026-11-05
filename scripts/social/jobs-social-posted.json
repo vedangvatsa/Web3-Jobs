@@ -100210,7 +100210,8 @@
       },
       "account": "profile",
       "attemptId": "0aaf1065-735d-41f7-9418-17a4d613f11e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x421193f44161b423d52f24189a01e2481eef390a"
     }
   ]
 }
