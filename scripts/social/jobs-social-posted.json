@@ -100280,7 +100280,8 @@
       },
       "account": "channel:web3",
       "attemptId": "9da854fd-4695-4bc4-a5ee-8520c69b2b1f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf7d181128e313a6e7ed27d3ef8ba99e558a7f5d0"
     }
   ]
 }
