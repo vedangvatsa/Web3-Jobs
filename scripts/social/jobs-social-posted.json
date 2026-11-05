@@ -106225,6 +106225,39 @@
       "attemptId": "e40c1657-3738-4df6-9fc4-02ec155b7776",
       "verification": "verified",
       "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mzln7lusnd2f"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls205/fc?og=7"
+          }
+        ]
+      },
+      "account": "profile",
+      "attemptId": "f28958f2-2d30-4be5-b42d-f231f324dee4",
+      "verification": "creating"
     }
   ]
 }
