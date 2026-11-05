@@ -100385,7 +100385,8 @@
       },
       "account": "channel:dev",
       "attemptId": "caf39118-2781-4d7d-9907-5a974560b391",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xdf7881a87a78fde108641253a609c7ffe43a2b18"
     }
   ]
 }
