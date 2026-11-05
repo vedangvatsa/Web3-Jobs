@@ -104302,7 +104302,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "12c4d121-60ef-4783-b5d2-758078e4f43c",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6aec69fbf26542fc33d34b35"
     }
   ]
 }
