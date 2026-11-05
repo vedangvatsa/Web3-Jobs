@@ -286,22 +286,6 @@
       ]
     },
     {
-      "id": "premier-vntr",
-      "file": "curated-events.json",
-      "name": "VNTR Investor Forum Singapore 2026",
-      "status": "unavailable",
-      "attempts": [
-        {
-          "url": "https://www.vntr.vc/",
-          "reason": "event-not-matched"
-        },
-        {
-          "url": "https://www.vntr.vc",
-          "reason": "event-not-matched"
-        }
-      ]
-    },
-    {
       "id": "premier-tabconf",
       "file": "curated-events.json",
       "status": "source-backed",
@@ -315,21 +299,6 @@
       "previousStartDate": "2026-10-12T09:00:00.000Z",
       "characters": 611,
       "preview": "## When you’re here\n\n• Oct 12–13 — Builder Days & workshops (hands-on building and deep dive workshops).\n\n• Oct 14–15 — Conference sessions (villages, main stage, and community-led programming).\n\nVenue: Georgia Tech Exhibition Hall. Need a room? See Hotels (options near the venue; book directly with properties).\n\n## Mission\n\nTABConf’s mission is to create a forum for protocol and application developers to collaborate, debate, and innovate on Bitcoin.\n\nWe bring together sharp minds to share what they’re building — from core devs to new contributors. If you want signal, not hype, you’re in the right place."
-    },
-    {
-      "id": "premier-ethbrasil",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://www.ethereumbrasil.com/",
-        "fetchedAt": "2026-09-20T00:20:17.365Z",
-        "method": "official-section",
-        "pageTitle": "Ethereum Brasil",
-        "sha256": "876c7ec1fc25d3432fb16c8b16ed9b4e5d677f188ac445719d1c2449c6bb2104"
-      },
-      "previousStartDate": "2026-10-05T09:00:00.000Z",
-      "characters": 2111,
-      "preview": "## Brazil's main layer for the Ethereum ecosystem\n\n## layer\n\nThe strategic bridge for scaling Ethereum products in LATAM.\n\n## Flagship events of Ethereum in Brazil\n\n## ETH Brasil\n\nLarge-scale community conference in São Paulo bringing together the broader ecosystem, protocols, projects, companies and institutions building on Ethereum in Brazil.\n\n## ETH Rio\n\nHigh-level gathering in Rio de Janeiro focused on founders, builders, partners, investors, researchers and global guests.\n\n## Together\n\nThese two events form Brazil’s main entrypoint and activation layer for the Ethereum ecosystem from deep technical builders to ecosystem scale and adoption.\n\n## Designed for High-Quality In-Person Ethereum Interaction\n\nWhere founders, builders, institutions and partners connect, build relationships, and"
     },
     {
       "id": "premier-planblugano",
@@ -986,31 +955,6 @@
       "preview": "## Get involved\n\n## Sponsorship Application\n\nPartner with EDCON 2026 and put your brand in front of the global Ethereum community.\n\n## Community Events Application\n\nHost your own EDCON side event, from networking and talks to workshops, exhibitions, meals, or any format you choose.\n\n## Apply to Speak\n\nSpeaker applications are open. Submit your talk, workshop or panel proposal for EDCON 2026.\n\n## Join as Volunteer\n\nVolunteer applications are open. Join the EDCON crew and help make EDCON 2026 happen.\n\n## Strategic Partner: Geode Labs\n\nGeode Labs is an Ethereum ecosystem development organisation and product studio, spun out of Ethereum Foundation to make Ethereum more accessible, resilient, and available to the people who need it most."
     },
     {
-      "id": "premier-coinferencex-singapore-2026",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://coinferencex.com/singapore/tickets",
-        "fetchedAt": "2026-09-20T00:20:50.277Z",
-        "method": "event-jsonld",
-        "pageTitle": "Secure Your Pass | CoinFerenceX Singapore 2026",
-        "sha256": "cc07a8e5314308d4f4e8397b1ff80c44404a3e4c8495e7101c353588df62d08f"
-      },
-      "eventFacts": {
-        "startDate": "2026-10-05T09:00:00+08:00",
-        "endDate": "2026-10-06T18:00:00+08:00",
-        "venueName": "Singapore Venue",
-        "addressLocality": "Singapore",
-        "addressCountry": "SG",
-        "city": "Singapore",
-        "country": "SG",
-        "location": "Singapore Venue, Singapore, SG"
-      },
-      "previousStartDate": "2026-10-05T09:00:00+08:00",
-      "characters": 86,
-      "preview": "Asia's leading decentralized Web3 summit hosting 7,500+ crypto founders and investors."
-    },
-    {
       "id": "premier-bitchill-s04-2026",
       "file": "curated-events.json",
       "status": "source-backed",
@@ -1562,21 +1506,6 @@
       ]
     },
     {
-      "id": "token2049-side-6a8c0860244677004e8f54a5",
-      "file": "events-cache.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://portfolioday.animocabrands.com/",
-        "fetchedAt": "2026-09-20T00:20:59.855Z",
-        "method": "official-section",
-        "pageTitle": "Animoca Portfolio Day 2026 — GTM in the Agentic Era",
-        "sha256": "62fa12e7db41209041daa4017bf115419b0c62c75aa08e84fcdd0f7c934a497c"
-      },
-      "previousStartDate": "2026-10-06T13:00:00+08:00",
-      "characters": 2956,
-      "preview": "## Animoca Portfolio Day\n\nRegistration is required, with priority given to Animoca Brands portfolio companies, investors, and strategic partners.\n\n## Doors Open & Registration\n\nLight lunch is provided — meet the ecosystem before the programme begins.\n\n## Welcome Remarks\n\n## Keynote — GTM in the Agentic Era\n\n## Panel — Agents as Economic Actors: Intelligence, Infrastructure and Money\n\nModerator: Sam Tse, Head of Investment, Advisory & Portfolio, Animoca Brands\n\nGlendon Thaiw, Head of Startups Solutions Architecture ASEAN, AWS\n\n## Panel — Agentic Identity and Trust Framework for AI Agents by AIR\n\n## Keynote — Animoca Brands' Institutional Roadmap\n\n## Panel — Institutional Assets On-Chain: From Fund Structures to Tokenised Vaults\n\nModerator: Brian Chan, Chief Development Officer, Animoca Bran"
-    },
-    {
       "id": "token2049-side-6aa3f80a967be0befa88dd56",
       "file": "events-cache.json",
       "status": "source-backed",
@@ -1799,18 +1728,6 @@
       "attempts": [
         {
           "url": "https://singaporegp.sg/",
-          "reason": "event-not-matched"
-        }
-      ]
-    },
-    {
-      "id": "token2049-side-6a5dff0ed1b48ddf39d0827e",
-      "file": "events-cache.json",
-      "name": "CoinFerenceX the best event - Day 2",
-      "status": "unavailable",
-      "attempts": [
-        {
-          "url": "https://coinferencex.com/singapore",
           "reason": "event-not-matched"
         }
       ]

@@ -7622,5 +7622,243 @@
     "slotKey": "2026-11-05:morning",
     "messageId": 156087,
     "sentAt": "2026-11-05T03:33:06.580Z"
+  },
+  "cf58757d-9e4b-43c5-84d2-c17a339bc0f6": {
+    "status": "sent",
+    "reservedAt": "2026-11-05T11:33:04.814Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "b3fa8dd4-295d-4ddb-ae78-0936c48f3412",
+          "title": "Head of Product",
+          "company": "Dune",
+          "link": "https://jobs.ashbyhq.com/Dune/b3fa8dd4-295d-4ddb-ae78-0936c48f3412",
+          "date": "2026-10-19T11:54:15.743+00:00",
+          "source": "Ashby: Dune [Dune]",
+          "location": "East Coast US & Europe (Remote)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Product & Design",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm314"
+        },
+        "key": "b3fa8dd4-295d-4ddb-ae78-0936c48f3412",
+        "slug": "pm314",
+        "url": "https://hashtagweb3.com/pm314?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Dune",
+        "title": "Head of Product"
+      },
+      {
+        "snapshot": {
+          "id": "dc684ab0-313d-4415-9fac-d8fa7bf390cc",
+          "title": "Commercial Counsel",
+          "company": "Morpho",
+          "link": "https://jobs.ashbyhq.com/Morpho/dc684ab0-313d-4415-9fac-d8fa7bf390cc",
+          "date": "2026-10-12T09:44:35.446+00:00",
+          "source": "Ashby: Morpho [Morpho]",
+          "location": "Remote (US (EST))",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Legal & Policy",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cc7"
+        },
+        "key": "dc684ab0-313d-4415-9fac-d8fa7bf390cc",
+        "slug": "cc7",
+        "url": "https://hashtagweb3.com/cc7?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Morpho",
+        "title": "Commercial Counsel"
+      },
+      {
+        "snapshot": {
+          "id": "241d181f-b081-4e76-b2d1-ac22d2801fac",
+          "title": "Senior IT Engineer",
+          "company": "Kalshi",
+          "link": "https://jobs.ashbyhq.com/kalshi/241d181f-b081-4e76-b2d1-ac22d2801fac",
+          "date": "2026-10-12T14:59:31.507+00:00",
+          "source": "Ashby: Kalshi [kalshi]",
+          "location": "New York Office",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng576"
+        },
+        "key": "241d181f-b081-4e76-b2d1-ac22d2801fac",
+        "slug": "eng576",
+        "url": "https://hashtagweb3.com/eng576?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kalshi",
+        "title": "Senior IT Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "4466965009",
+          "title": "Compliance Manager, Monitoring & Investigations",
+          "company": "Ondo Finance",
+          "link": "https://job-boards.greenhouse.io/ondofinance/jobs/4466965009",
+          "date": "2026-10-26T02:19:08-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ondo Finance [ondofinance]",
+          "location": "Remote",
+          "department": "Legal",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp74"
+        },
+        "key": "4466965009",
+        "slug": "cmp74",
+        "url": "https://hashtagweb3.com/cmp74?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ondo Finance",
+        "title": "Compliance Manager"
+      },
+      {
+        "snapshot": {
+          "id": "1a848261-5b5b-414b-9771-0dad2d45300c",
+          "title": "Partnerships Manager",
+          "company": "Sardine",
+          "link": "https://jobs.ashbyhq.com/Sardine/1a848261-5b5b-414b-9771-0dad2d45300c",
+          "date": "2026-10-30T19:49:10.401+00:00",
+          "source": "Ashby: Sardine [Sardine]",
+          "location": "Remote (London, UK)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Partnerships",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr218"
+        },
+        "key": "1a848261-5b5b-414b-9771-0dad2d45300c",
+        "slug": "mgr218",
+        "url": "https://hashtagweb3.com/mgr218?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sardine",
+        "title": "Partnerships Manager"
+      }
+    ],
+    "message": "- Dune is hiring <a href=\"https://hashtagweb3.com/pm314?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Product</a>\n- Morpho is hiring <a href=\"https://hashtagweb3.com/cc7?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Commercial Counsel</a>\n- Kalshi is hiring <a href=\"https://hashtagweb3.com/eng576?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior IT Engineer</a>\n- Ondo Finance is hiring <a href=\"https://hashtagweb3.com/cmp74?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Compliance Manager, Monitoring &amp; Investigations</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/mgr218?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Partnerships Manager</a>",
+    "slotKey": "2026-11-05:afternoon",
+    "messageId": 156092,
+    "sentAt": "2026-11-05T11:33:18.737Z"
+  },
+  "3c1d3249-09f9-431e-befa-8019bb8410c7": {
+    "status": "sent",
+    "reservedAt": "2026-11-05T19:46:19.949Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8100277003",
+          "title": "Controls and Governance Manager",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8100277003",
+          "date": "2026-11-01T09:45:07-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Sliema, Malta",
+          "department": "Strategic Markets",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr125"
+        },
+        "key": "8100277003",
+        "slug": "mgr125",
+        "url": "https://hashtagweb3.com/mgr125?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Controls and Governance Manager"
+      },
+      {
+        "snapshot": {
+          "id": "5459546008",
+          "title": "Cybersecurity, Architect",
+          "company": "Hut 8",
+          "link": "https://job-boards.greenhouse.io/hut8/jobs/5459546008",
+          "date": "2026-10-22T11:11:27-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Hut 8 [hut8]",
+          "location": "Miami, FL",
+          "department": "Technology",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec126"
+        },
+        "key": "5459546008",
+        "slug": "sec126",
+        "url": "https://hashtagweb3.com/sec126?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Hut 8",
+        "title": "Cybersecurity, Architect"
+      },
+      {
+        "snapshot": {
+          "id": "a7a945ab-550f-492c-992b-2028b76ac35b",
+          "title": "Sales Operations Analyst - Payward Services - Internal",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/a7a945ab-550f-492c-992b-2028b76ac35b",
+          "date": "2026-11-02T15:05:17.391+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (Europe)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Marketing",
+          "active": true,
+          "slug": "sls391",
+          "dateVerified": true
+        },
+        "key": "a7a945ab-550f-492c-992b-2028b76ac35b",
+        "slug": "sls391",
+        "url": "https://hashtagweb3.com/sls391?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Sales Operations Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "c0a71032-1efb-40dc-b1e8-aa0f30cd5961",
+          "title": "Senior Backend Engineer | Accounting",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/c0a71032-1efb-40dc-b1e8-aa0f30cd5961",
+          "date": "2026-10-21T18:22:42.345+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "be87"
+        },
+        "key": "c0a71032-1efb-40dc-b1e8-aa0f30cd5961",
+        "slug": "be87",
+        "url": "https://hashtagweb3.com/be87?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Senior Backend Engineer | Accounting"
+      },
+      {
+        "snapshot": {
+          "id": "5008751101",
+          "title": "Information Security Manager",
+          "company": "BVNK",
+          "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5008751101",
+          "date": "2026-10-16T10:43:12-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BVNK [bvnk]",
+          "location": "São Paulo",
+          "department": "Technology",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec19"
+        },
+        "key": "5008751101",
+        "slug": "sec19",
+        "url": "https://hashtagweb3.com/sec19?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BVNK",
+        "title": "Information Security Manager"
+      }
+    ],
+    "message": "- OKX is hiring <a href=\"https://hashtagweb3.com/mgr125?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Controls and Governance Manager</a>\n- Hut 8 is hiring <a href=\"https://hashtagweb3.com/sec126?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Cybersecurity, Architect</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/sls391?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Operations Analyst - Payward Services - Internal</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/be87?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Backend Engineer | Accounting</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/sec19?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Information Security Manager</a>",
+    "slotKey": "2026-11-05:evening",
+    "messageId": 156101,
+    "sentAt": "2026-11-05T19:46:34.796Z"
   }
 }

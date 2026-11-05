@@ -4,39 +4,6 @@ import type { EventEditorialArticle } from "./events";
 // Facts sourced from each event's official website / organizer announcements.
 export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
 
-
-  cardanosummit: {
-    summaryLead:
-      "Cardano Summit arrives in Singapore on October 5 and 6, bringing Input Output Global, EMURGO, and the Cardano Foundation together with stake pool operators, dApp teams, and the wider community for the ecosystem's annual gathering.",
-    sections: [
-      {
-        heading: "Research-driven and community-run",
-        content: [
-          "Cardano's development culture is academic: peer-reviewed protocol upgrades, formal verification of critical components, and methodical rollout schedules feature heavily in the program. Summit sessions typically pair IOG researchers explaining design decisions with the operators who ran them live on mainnet, a format that rewards attendees who want engineering substance over roadmap theater.",
-          "Governance now dominates much of the conversation following Cardano's transition to community-controlled treasury spending, and the summit is where delegates, DReps, and ecosystem projects coordinate in person about allocating one of crypto's larger treasuries.",
-        ],
-      },
-      {
-        heading: "Singapore fit",
-        content: [
-          "Hosting in Singapore matches the ecosystem's institutional ambitions. The city-state's licensing regime under MAS, its concentration of family offices, and its role as Southeast Asia's corporate hub give Cardano's enterprise and payments narratives a credible backdrop, and regional SPOs and projects use the summit for the year's most efficient coordination window.",
-          "The venue connects easily to Changi Airport and the Marina Bay hotel stock, though book early if TOKEN2049 week extensions overlap your stay; Singapore fills fast whenever major crypto events cluster. Side events tend toward workshops and community dinners rather than mega-parties, consistent with the ecosystem's style.",
-        ],
-      },
-      {
-        heading: "Governance era focus",
-        content: [
-          "Cardano's transition to on-chain governance represents one of crypto's largest experiments in community treasury management, and summit sessions examine outcomes candidly: proposal approval patterns, delegation dynamics, and funded-project accountability. DReps, the delegated representatives voting on proposals, hold in-person coordination meetings that observers consistently rate among the summit's most substantive sessions.",
-          "Singapore's Marina Bay setting provides the polished institutional backdrop Cardano's enterprise partnerships warrant, with Changi airport consistently rated the world's best for smooth arrivals. Side events lean educational rather than celebratory, reflecting ecosystem culture, and hawker-center dinners offer world-class food at prices that make extended stays painless.",
-                  "Singapore's summit hosting aligns with Cardano's APAC institutional strategy. The region accounts for substantial Cardano staking participation and development activity, with Vietnamese, Japanese, and Indonesian communities historically prominent among stake pool operators. Summit programming acknowledges this geography: APAC-focused sessions address regional remittance applications, agricultural traceability pilots in Southeast Asian supply chains, and partnerships with regional payment providers. Technical workshops cover Plutus smart contract development and the Haskell functional programming foundations it builds on, reflecting Cardano's deliberate engineering culture. Community-run side events, often organized by regional SPOs, provide informal settings where the ecosystem's famously engaged retail community interacts directly with IOG and Foundation leadership.",
-                  "Summit tickets include community tiers priced accessibly consistent with ecosystem values, and past editions streamed keynotes live for remote participation. Singapore's hawker centers near Marina Bay provide legendary meals at trivial cost between sessions, a genuine logistical advantage over Western venues.",
-                  "Cardano community channels publish summit side-event calendars independently of the Foundation, and these grassroots gatherings often deliver the year's most substantive ecosystem coordination in informal settings.",
-                  "Recordings of main sessions publish through Cardano's official channels afterward, though the community coordination happening between sessions remains firmly an in-person dividend.",
-        ],
-      },
-    ],
-  },
-
   suibasecamp: {
     summaryLead:
       "Sui Basecamp lands in Singapore on October 7 and 8, timed against TOKEN2049 week, and is the annual gathering for builders working in Move on Sui: object-model applications, consumer products, gaming, and DeFi built on Mysten Labs' high-throughput stack.",

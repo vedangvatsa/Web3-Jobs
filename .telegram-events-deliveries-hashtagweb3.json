@@ -4649,5 +4649,104 @@
     "slotKey": "2026-11-05:morning",
     "messageId": 156086,
     "sentAt": "2026-11-05T03:32:23.560Z"
+  },
+  "daa0eb9c-273d-4e8c-b9ce-f97d01874f05": {
+    "status": "sent",
+    "reservedAt": "2026-11-05T11:32:23.478Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "discovery-evt-JgYTRzXo6yWgqCd",
+        "slug": "solana-fitness-zone-dynamic-pilates-breakpoint-2026-11-15",
+        "name": "Solana Fitness Zone: Dynamic Pilates | Breakpoint 2026",
+        "startDate": "2026-11-15T08:00:00.000Z",
+        "keys": [
+          "discovery-evt-jgytrzxo6ywgqcd",
+          "page:solana-fitness-zone-dynamic-pilates-breakpoint-2026-11-15:2026-11-15",
+          "luma:evt-jgytrzxo6ywgqcd",
+          "luma-url:/solanapilates1",
+          "event:solanafitnesszonedynamicpilatesbreakpoint2026:2026-11-15:london"
+        ]
+      },
+      {
+        "id": "premier-breakpoint-2026",
+        "slug": "solana-breakpoint",
+        "name": "Solana Breakpoint 2026",
+        "startDate": "2026-11-15T09:00:00+00:00",
+        "keys": [
+          "premier-breakpoint-2026",
+          "page:solana-breakpoint:2026-11-15",
+          "url:solana.com/breakpoint:2026-11-15",
+          "event:solanabreakpoint2026:2026-11-15:london"
+        ]
+      },
+      {
+        "id": "discovery-evt-F0ZHBEyHynGIlVo",
+        "slug": "solana-fitness-zone-women-solana-yoga-offline-breakpoint",
+        "name": "Solana Fitness Zone: Women of Solana Yoga by OFFLINE | Breakpoint 2026",
+        "startDate": "2026-11-15T09:00:00.000Z",
+        "keys": [
+          "discovery-evt-f0zhbeyhyngilvo",
+          "page:solana-fitness-zone-women-solana-yoga-offline-breakpoint:2026-11-15",
+          "luma:evt-f0zhbeyhyngilvo",
+          "luma-url:/womenofsolana",
+          "event:solanafitnesszonewomenofsolanayogabyofflinebreakpoint2026:2026-11-15:london"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-05:afternoon",
+    "messageId": 156091,
+    "sentAt": "2026-11-05T11:32:31.846Z"
+  },
+  "44322e61-d2ba-4644-8c67-336005b25fbc": {
+    "status": "sent",
+    "reservedAt": "2026-11-05T19:44:26.631Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "discovery-evt-vL3kHCN39reaPwE",
+        "slug": "solana-fitness-zone-mental-reset-workshop-breakpoint",
+        "name": "Solana Fitness Zone: Mental Reset Workshop | Breakpoint 2026",
+        "startDate": "2026-11-15T10:45:00.000Z",
+        "keys": [
+          "discovery-evt-vl3khcn39reapwe",
+          "page:solana-fitness-zone-mental-reset-workshop-breakpoint:2026-11-15",
+          "luma:evt-vl3khcn39reapwe",
+          "luma-url:/solanareset",
+          "event:solanafitnesszonementalresetworkshopbreakpoint2026:2026-11-15:london"
+        ]
+      },
+      {
+        "id": "luma-crypto-5f8DApeYV9EOQrM",
+        "slug": "solana-fit",
+        "name": "Solana Fitness Zone: Content Freestyle | Breakpoint 2026",
+        "startDate": "2026-11-15T12:00:00.000Z",
+        "keys": [
+          "luma-crypto-5f8dapeyv9eoqrm",
+          "page:solana-fit:2026-11-15",
+          "luma-url:/sfzfreestyle1",
+          "event:solanafitnesszonecontentfreestylebreakpoint2026:2026-11-15:london"
+        ]
+      },
+      {
+        "id": "luma-batch-evt8JjOeNcaN4TA5",
+        "slug": "quantova-web3-ho-chi-minh-city",
+        "name": "Cộng đồng Web3 Việt Nam | Quantova QVM TP. Hồ Chí Minh 🇻🇳",
+        "startDate": "2026-11-16T06:30:00.000Z",
+        "keys": [
+          "luma-batch-evt8jjoencan4ta5",
+          "xumr6pca",
+          "page:quantova-web3-ho-chi-minh-city:2026-11-16",
+          "luma:evt-8jjoencan4ta5hq",
+          "luma-url:/xumr6pca",
+          "event:cộngđồngweb3việtnamquantovaqvmtphồchíminh:2026-11-16:ho chi minh city"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-05:evening",
+    "messageId": 156100,
+    "sentAt": "2026-11-05T19:44:29.206Z"
   }
 }

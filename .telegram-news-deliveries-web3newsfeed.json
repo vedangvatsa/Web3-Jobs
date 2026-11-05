@@ -3212,5 +3212,71 @@
     "slotKey": "2026-11-05:morning",
     "messageId": 65804,
     "sentAt": "2026-11-05T03:33:33.142Z"
+  },
+  "ced757cd-7e24-4483-894e-ce2fc5ffe902": {
+    "status": "sent",
+    "reservedAt": "2026-11-05T11:33:42.906Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Attacker Steals $1.47 Million From Staking Platform b14g",
+        "summary": "A coding error allowed an attacker to withdraw 97 million CORE tokens using zero-value requests on October 31.",
+        "link": "https://hashtagweb3.com/b14gcore?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Hacker Drains 97 Million CORE From Bitcoin Staking Platform b14g"
+      },
+      {
+        "index": -1,
+        "headline": "CFTC Chair Calls for US Oversight of Offshore Exchanges",
+        "summary": "Michael Selig told CNBC that foreign platforms should follow American cybersecurity standards after a $6.4 billion hack.",
+        "link": "https://hashtagweb3.com/cftchack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC Chair Says Binance Hack Proves Case for US Oversight of Offshore Exchanges"
+      },
+      {
+        "index": -1,
+        "headline": "Visa Reports $25 Billion Annualized Stablecoin Run Rate",
+        "summary": "More than 225 card programs drove over 150% volume growth in fiscal Q4 2026.",
+        "link": "https://hashtagweb3.com/visastablecoins?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Visa reports $25 billion annualized stablecoin settlement run rate in Q4"
+      }
+    ],
+    "slotKey": "2026-11-05:afternoon",
+    "messageId": 65805,
+    "sentAt": "2026-11-05T11:33:48.445Z"
+  },
+  "65fa3981-1e82-4484-8a32-d78838775d05": {
+    "status": "sent",
+    "reservedAt": "2026-11-05T19:48:01.745Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Ethereum delays Hoodi testnet activation due to smart contract risks",
+        "summary": "Developers canceled the October 26 launch to investigate how EIP-8037 impacts existing smart contracts.",
+        "link": "https://hashtagweb3.com/hoodidelay?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ethereum postpones Glamsterdam's Hoodi testnet activation over contract risks"
+      },
+      {
+        "index": -1,
+        "headline": "Nine firms block tokenized share trading on OKXICE platform",
+        "summary": "Broadcom, Verizon, and UnitedHealth declined to have their stocks listed on the digital venue from OKX and ICE.",
+        "link": "https://hashtagweb3.com/okxice?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Nine public companies block tokenized shares on OKX and ICE venue"
+      },
+      {
+        "index": -1,
+        "headline": "NEAR Intents Recovers $3.8 Million Following October Exploit",
+        "summary": "The platform will reimburse users after the attacker returned the full amount on October 2.",
+        "link": "https://hashtagweb3.com/near-recovery?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "NEAR Intents recovers full $3.8M and closes exploit investigation"
+      }
+    ],
+    "slotKey": "2026-11-05:evening",
+    "messageId": 65806,
+    "sentAt": "2026-11-05T19:48:16.685Z"
   }
 }

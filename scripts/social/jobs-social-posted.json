@@ -1,5 +1,5 @@
 {
-  "lastIndex": 616,
+  "lastIndex": 623,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -358,7 +358,11 @@
     "sls365",
     "eng674",
     "int47",
-    "brc"
+    "brc",
+    "mgr128",
+    "ops141",
+    "eng700",
+    "sls205"
   ],
   "history": [
     {
@@ -103574,6 +103578,3402 @@
       "attemptId": "c392b2c5-5908-47bf-9ec5-230d98c1906a",
       "verification": "creating",
       "error": "Employer application unverified: The operation was aborted due to timeout"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "x",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/x?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "3db75f84-5260-4c7f-82db-f9361ad77111",
+      "verification": "pending",
+      "postId": "6aec697120e5812fe94550ee",
+      "error": "Buffer X returned an unexpected published URL for 6aec697120e5812fe94550ee"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "threads",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager: https://hashtagweb3.com/mgr128/th?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager: https://hashtagweb3.com/mgr128/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/mgr128/th?og=7"
+      },
+      "attemptId": "d8e77a75-7769-4711-ab5c-07b204fb26ae",
+      "verification": "creating",
+      "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Thursday, 05-Nov-26 03:33:36 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A_LpvwGUIBs9SrA60q_0wpH\"}"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager: https://hashtagweb3.com/mgr128/bsky?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager: https://hashtagweb3.com/mgr128/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/mgr128/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/mgr128.png?v=7",
+        "company": "Ripple",
+        "title": "Finance Manager",
+        "description": "Join Ripple as Finance Manager. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "2d961347-a5e9-4c2e-9fff-11027c8bcf6b",
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mzkrj4xfli2c"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mgr128/fc?og=7"
+          }
+        ]
+      },
+      "account": "profile",
+      "attemptId": "aa2e3480-6b9e-4caa-b40a-eddce492fc4f",
+      "verification": "verified",
+      "postId": "0x8f8accf9647eeabc6c0ac9a169e3b4fa07a93675"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mgr128/fc?og=7"
+          }
+        ],
+        "channel_id": "jobs"
+      },
+      "account": "channel:jobs",
+      "attemptId": "be1647e2-6da7-4cec-864c-12f496ff0ced",
+      "verification": "verified",
+      "postId": "0xb5ae4c6cc2172cd392aa3057ae13b0b35a2689f4"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mgr128/fc?og=7"
+          }
+        ],
+        "channel_id": "web3"
+      },
+      "account": "channel:web3",
+      "attemptId": "8e1a0d97-0d0e-4ba5-ae55-3809558277dc",
+      "verification": "verified",
+      "postId": "0x4e2303b6b8d34ffc53a67ef8d3a421ce8348c635"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mgr128/fc?og=7"
+          }
+        ],
+        "channel_id": "bounties"
+      },
+      "account": "channel:bounties",
+      "attemptId": "9a61a8d6-3161-4b3b-b37c-10d9aa0d82da",
+      "verification": "verified",
+      "postId": "0x5062a2860c2846f4036a7a8d5f3f69de14abeebf"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mgr128/fc?og=7"
+          }
+        ],
+        "channel_id": "crypto"
+      },
+      "account": "channel:crypto",
+      "attemptId": "87d76a0d-c907-4603-a3a4-508d0985f470",
+      "verification": "verified",
+      "postId": "0x61a26aa2eddb022a95def017d285a32b6df4e267"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mgr128/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "98ae6be3-a023-4519-89cf-8d31fb18d3a1",
+      "verification": "verified",
+      "postId": "0x7f70a51f2cd26e577a177dc3668733560405b9f6"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mgr128/fc?og=7"
+          }
+        ],
+        "channel_id": "developers"
+      },
+      "account": "channel:developers",
+      "attemptId": "a6ae977b-c9df-4b94-8a58-1ce4cba4949e",
+      "verification": "verified",
+      "postId": "0x59c80c9c896a12a83b897403de84958f08d5dfb0"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mgr128/fc?og=7"
+          }
+        ],
+        "channel_id": "build"
+      },
+      "account": "channel:build",
+      "attemptId": "52b82c81-893e-41d2-bfb5-1017d384b917",
+      "verification": "verified",
+      "postId": "0x61fa2e93cd1152476ff73213e6c39e08ab5f7a6c"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mgr128/fc?og=7"
+          }
+        ],
+        "channel_id": "founders"
+      },
+      "account": "channel:founders",
+      "attemptId": "2d5156c0-c5c1-43b0-9500-77fd4f78c15f",
+      "verification": "verified",
+      "postId": "0x38da13f969f6079b0d50397193e3b7f9a698db33"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mgr128/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "3e3a57f3-816a-47a8-87c6-bbecc4c50d63",
+      "verification": "verified",
+      "postId": "0xee1e9fa0967da2b49bf678ea815fe36b095ae08f"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mgr128/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "1c1eb282-479b-4f71-8501-4a82af2efe03",
+      "verification": "verified",
+      "postId": "0x11b71ca6d9a1325f5422b43f9c19288b00a14b42"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mgr128/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "eb5fdad6-f090-49ec-9894-dea97f6324bb",
+      "verification": "verified",
+      "postId": "0x67b29ea44fe210883024eb314512e71fc388ff8a"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mgr128/fc?og=7"
+          }
+        ],
+        "channel_id": "defi"
+      },
+      "account": "channel:defi",
+      "attemptId": "c73e2084-b7b8-4876-ae87-81d2d186d743",
+      "verification": "verified",
+      "postId": "0x485f324f03cd4db88b5270dc416d73fcf8a4c1f7"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mgr128/fc?og=7"
+          }
+        ],
+        "channel_id": "ai"
+      },
+      "account": "channel:ai",
+      "attemptId": "0bd0e853-da4d-4073-bc5f-3c98fcb7283f",
+      "verification": "verified",
+      "postId": "0x28fc2a1bdb9ef2f4acc2fcb5f36200a297ac375e"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mgr128/fc?og=7"
+          }
+        ],
+        "channel_id": "product"
+      },
+      "account": "channel:product",
+      "attemptId": "b297d5f0-79e3-4032-a9bb-2c9c147ea759",
+      "verification": "verified",
+      "postId": "0xd843962549cd76b84d71a1997f0088c9e210ed9d"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mgr128/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "35d0dc6f-57f0-4742-b2f9-b44eacfa3d01",
+      "verification": "verified",
+      "postId": "0xd00e73abe058597859773fe837f9191ac8cb8ed7"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager\n\nhttps://hashtagweb3.com/mgr128/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mgr128/fc?og=7"
+          }
+        ],
+        "channel_id": "growth"
+      },
+      "account": "channel:growth",
+      "attemptId": "18572c91-9f77-444c-bbcc-5e0963a9cf9c",
+      "verification": "verified",
+      "postId": "0x1b5ea66cee8928be8aa36a9304ded5b9d0799fda"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager: https://hashtagweb3.com/mgr128/li?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager: https://hashtagweb3.com/mgr128/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/mgr128/li?og=7",
+          "title": "Finance Manager at Ripple",
+          "description": "Join Ripple as Finance Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/mgr128.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "12c4d121-60ef-4783-b5d2-758078e4f43c",
+      "verification": "verified",
+      "postId": "6aec69fbf26542fc33d34b35",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524071958435520512"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager: https://hashtagweb3.com/mgr128/li?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager: https://hashtagweb3.com/mgr128/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/mgr128/li?og=7",
+          "title": "Finance Manager at Ripple",
+          "description": "Join Ripple as Finance Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/mgr128.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "94580e31-60d6-423e-a737-df69a586e7fd",
+      "verification": "verified",
+      "postId": "6aec6a18f26542fc33d352fe",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524072079244111872"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager: https://hashtagweb3.com/mgr128/li?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "text": "Ripple is hiring Finance Manager: https://hashtagweb3.com/mgr128/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/mgr128/li?og=7",
+          "title": "Finance Manager at Ripple",
+          "description": "Join Ripple as Finance Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/mgr128.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "a55fae50-bd72-44f1-9a81-9e9895193879",
+      "verification": "verified",
+      "postId": "urn:li:share:7524072111129268225"
+    },
+    {
+      "slug": "mgr128",
+      "company": "Ripple",
+      "title": "Finance Manager",
+      "platform": "facebook",
+      "postedAt": "2026-11-05T11:32:52.859Z",
+      "expectedText": "Ripple is hiring Finance Manager: https://hashtagweb3.com/mgr128/fb?og=7",
+      "snapshot": {
+        "id": "8327701",
+        "title": "Finance Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+        "date": "2026-11-02T02:44:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Singapore",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr128"
+      },
+      "payload": {
+        "message": "Ripple is hiring Finance Manager: https://hashtagweb3.com/mgr128/fb?og=7",
+        "link": "https://hashtagweb3.com/mgr128/fb?og=7"
+      },
+      "attemptId": "fc4a7206-effa-49a8-b575-955b498e30dc",
+      "verification": "verified",
+      "postId": "691827047618629_1136108338996400"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "x",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/x?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "d82bdcaa-8b37-426c-bae8-f9e726067b91",
+      "verification": "verified",
+      "postId": "6aec6a4cf26542fc33d36be1",
+      "permalink": "https://twitter.com/hashtag_web3/status/2118306519561216355"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "threads",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager: https://hashtagweb3.com/ops141/th?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager: https://hashtagweb3.com/ops141/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/ops141/th?og=7"
+      },
+      "attemptId": "3696aab8-463a-493a-a4ab-b8ca66daad61",
+      "verification": "creating",
+      "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Thursday, 05-Nov-26 03:36:54 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AljlnUzBn8KGEhFDiCaKBdi\"}"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager: https://hashtagweb3.com/ops141/bsky?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager: https://hashtagweb3.com/ops141/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/ops141/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/ops141.png?v=7",
+        "company": "OKX",
+        "title": "Finance Operations Senior Manager",
+        "description": "Join OKX as Finance Operations Senior Manager. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "0939f0d5-f15f-4682-847f-ab0a25aeb99a",
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mzkrp24mwv2i"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops141/fc?og=7"
+          }
+        ]
+      },
+      "account": "profile",
+      "attemptId": "6eac2c4f-d7ac-4f57-9845-c379677617e1",
+      "verification": "verified",
+      "postId": "0xc7e036153ee71c164bf21751e9ae727ee24ec970"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops141/fc?og=7"
+          }
+        ],
+        "channel_id": "jobs"
+      },
+      "account": "channel:jobs",
+      "attemptId": "70be8f53-4686-4065-9455-6b3885a2fa4b",
+      "verification": "verified",
+      "postId": "0x9587172749d555bcb613b92c629b038a35afbd0b"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops141/fc?og=7"
+          }
+        ],
+        "channel_id": "web3"
+      },
+      "account": "channel:web3",
+      "attemptId": "0a7ac1dd-ab04-4aaa-9464-47e1bf3f6701",
+      "verification": "verified",
+      "postId": "0x2141b2f3165202711fc0b969a03974294a74fc9a"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops141/fc?og=7"
+          }
+        ],
+        "channel_id": "bounties"
+      },
+      "account": "channel:bounties",
+      "attemptId": "4bc323a0-0548-4ef3-944b-56bfd37dc524",
+      "verification": "verified",
+      "postId": "0x2ff761b94cd314816e1e29904a9e98b16463a452"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops141/fc?og=7"
+          }
+        ],
+        "channel_id": "crypto"
+      },
+      "account": "channel:crypto",
+      "attemptId": "84ac46a2-fdf6-4f31-a014-f900c54e8924",
+      "verification": "verified",
+      "postId": "0xd405388f32fc816f24dfec5c852e38b55c51cb62"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops141/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "03be6524-c71e-433c-a882-946340ee3f3f",
+      "verification": "verified",
+      "postId": "0x5d023803f0acea9d4e0b33dad7baf2d61986eda0"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops141/fc?og=7"
+          }
+        ],
+        "channel_id": "developers"
+      },
+      "account": "channel:developers",
+      "attemptId": "ca8fabe5-aecb-4898-9786-d720aed684a9",
+      "verification": "verified",
+      "postId": "0x5235cb7296b2126baffd46b4910344c41811de4c"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops141/fc?og=7"
+          }
+        ],
+        "channel_id": "build"
+      },
+      "account": "channel:build",
+      "attemptId": "940c0eea-2e5c-4945-b45f-f58c6b8406bf",
+      "verification": "verified",
+      "postId": "0x1bb4e3cf82650678e74504a134113e5e18fad3f4"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops141/fc?og=7"
+          }
+        ],
+        "channel_id": "founders"
+      },
+      "account": "channel:founders",
+      "attemptId": "7baf2ffa-6a17-400b-bbef-9f8c1c9f313d",
+      "verification": "verified",
+      "postId": "0x872aaab6069b5b590a5698317384e1b8b145ef20"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops141/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "3571385b-27b5-42f3-8b2c-ef91899c48a9",
+      "verification": "verified",
+      "postId": "0x5a1acdb21f5e9a1f0352c2006b3d5b86ec3e0093"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops141/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "b9bb071e-0311-4e08-9e7a-2c771e3b3357",
+      "verification": "verified",
+      "postId": "0x022ebd796196aa919e699fa4c93f18f760879386"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops141/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "5b69d72a-b7e9-4522-8829-d505d08622ae",
+      "verification": "verified",
+      "postId": "0xc270104155cf774faae66dce3c761db7402a9fd6"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops141/fc?og=7"
+          }
+        ],
+        "channel_id": "defi"
+      },
+      "account": "channel:defi",
+      "attemptId": "afc3a100-1f6f-43d5-b5f6-ba24ff9fba7f",
+      "verification": "verified",
+      "postId": "0x02e80280b4c8fe07799fbb04248d26c6de518fa4"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops141/fc?og=7"
+          }
+        ],
+        "channel_id": "ai"
+      },
+      "account": "channel:ai",
+      "attemptId": "8bc5a117-0882-4941-9705-c3edf341d9cf",
+      "verification": "verified",
+      "postId": "0x639ce1890faa5144301ecaf8e29f552b219fe124"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops141/fc?og=7"
+          }
+        ],
+        "channel_id": "product"
+      },
+      "account": "channel:product",
+      "attemptId": "7bee9d03-62a1-40d5-a07c-aec86448c140",
+      "verification": "verified",
+      "postId": "0x32ae59fdb4a41fcf1293f51a3d3e739145da413e"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops141/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "417cf926-f70c-45bb-ab60-8943192404a7",
+      "verification": "verified",
+      "postId": "0xf20ef46141ffb19127a3c496c2492cdc92210c89"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager\n\nhttps://hashtagweb3.com/ops141/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops141/fc?og=7"
+          }
+        ],
+        "channel_id": "growth"
+      },
+      "account": "channel:growth",
+      "attemptId": "b8a747c5-3c1f-434c-ae67-8fa40855495b",
+      "verification": "verified",
+      "postId": "0xb9856c8d13bac634405905dc963e50fdb9b65bca"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager: https://hashtagweb3.com/ops141/li?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager: https://hashtagweb3.com/ops141/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ops141/li?og=7",
+          "title": "Finance Operations Senior Manager at OKX",
+          "description": "Join OKX as Finance Operations Senior Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ops141.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "f132bac1-6af7-44b5-9bdc-6bdecf5c0fed",
+      "verification": "verified",
+      "postId": "6aec6abf8ed5e05aeda477d7",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524072776870060032"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager: https://hashtagweb3.com/ops141/li?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager: https://hashtagweb3.com/ops141/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ops141/li?og=7",
+          "title": "Finance Operations Senior Manager at OKX",
+          "description": "Join OKX as Finance Operations Senior Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ops141.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "2cf4b1ee-39a1-4d13-89fa-5bf560d11763",
+      "verification": "verified",
+      "postId": "6aec6adbf5b4b5564cb4e449",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524072896084873216"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager: https://hashtagweb3.com/ops141/li?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "text": "OKX is hiring Finance Operations Senior Manager: https://hashtagweb3.com/ops141/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ops141/li?og=7",
+          "title": "Finance Operations Senior Manager at OKX",
+          "description": "Join OKX as Finance Operations Senior Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ops141.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "9a26886e-670d-4948-8eb3-eb80ccbc1fc9",
+      "verification": "verified",
+      "postId": "urn:li:share:7524072928238284800"
+    },
+    {
+      "slug": "ops141",
+      "company": "OKX",
+      "title": "Finance Operations Senior Manager",
+      "platform": "facebook",
+      "postedAt": "2026-11-05T11:36:42.152Z",
+      "expectedText": "OKX is hiring Finance Operations Senior Manager: https://hashtagweb3.com/ops141/fb?og=7",
+      "snapshot": {
+        "id": "8174275003",
+        "title": "Finance Operations Senior Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8174275003",
+        "date": "2026-11-03T04:37:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Finance Department",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops141"
+      },
+      "payload": {
+        "message": "OKX is hiring Finance Operations Senior Manager: https://hashtagweb3.com/ops141/fb?og=7",
+        "link": "https://hashtagweb3.com/ops141/fb?og=7"
+      },
+      "attemptId": "dd459c38-362b-48ee-a943-43e8dcc639d7",
+      "verification": "verified",
+      "postId": "691827047618629_1136110655662835"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "x",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/x?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "5d2b1268-c8b1-4e06-b93d-9dd657d53ea7",
+      "verification": "verified",
+      "postId": "6aecdcc5845dce9f76636ef1",
+      "permalink": "https://twitter.com/hashtag_web3/status/2118429432427778093"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "threads",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations: https://hashtagweb3.com/eng700/th?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations: https://hashtagweb3.com/eng700/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/eng700/th?og=7"
+      },
+      "attemptId": "53e6c4cd-ef91-46c2-b97d-7bebb02162f8",
+      "verification": "creating",
+      "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Thursday, 05-Nov-26 11:45:27 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AUB03Uxyr8ZX1L6qzIjnSbe\"}"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "bluesky",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations: https://hashtagweb3.com/eng700/bsky?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations: https://hashtagweb3.com/eng700/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/eng700/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/eng700.png?v=7",
+        "company": "DRW",
+        "title": "Software Engineer - Trading Operations",
+        "description": "Join DRW as Software Engineer - Trading Operat. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "40c2c9e7-e31a-4505-a98a-b5e447863a6e",
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mzlmyop54j2j"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng700/fc?og=7"
+          }
+        ]
+      },
+      "account": "profile",
+      "attemptId": "abd94bc9-8b67-4b18-b363-56ff43ac362c",
+      "verification": "verified",
+      "postId": "0x1962adaaafe7b3f57dc7ed3a099ea4649906dfb9"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng700/fc?og=7"
+          }
+        ],
+        "channel_id": "jobs"
+      },
+      "account": "channel:jobs",
+      "attemptId": "82cc4888-87a4-4eca-bfe8-10b242e59507",
+      "verification": "verified",
+      "postId": "0x368767a1cbd6f5bccf94af37c4d43b1f7df3c16f"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng700/fc?og=7"
+          }
+        ],
+        "channel_id": "web3"
+      },
+      "account": "channel:web3",
+      "attemptId": "f7b8ed7c-5abc-4934-b119-60dce1b35e70",
+      "verification": "verified",
+      "postId": "0xc93aabb8fd47bdf3b176da887272df5468236d51"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng700/fc?og=7"
+          }
+        ],
+        "channel_id": "bounties"
+      },
+      "account": "channel:bounties",
+      "attemptId": "a0b1814a-e40e-455d-9337-3d22706b9b47",
+      "verification": "verified",
+      "postId": "0x281dd33dbfc887ce5bb848b5dff01739d99554d8"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng700/fc?og=7"
+          }
+        ],
+        "channel_id": "crypto"
+      },
+      "account": "channel:crypto",
+      "attemptId": "bcc1b11d-edf6-41be-a262-817785f6e028",
+      "verification": "verified",
+      "postId": "0x5382c3dd05613ce241647f3fb0ec146e7ab20ebd"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng700/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "dd809647-a07c-4d55-a67f-205024672dd9",
+      "verification": "verified",
+      "postId": "0x90a547b50cc79a28ed87825fcd8155c2befbb465"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng700/fc?og=7"
+          }
+        ],
+        "channel_id": "developers"
+      },
+      "account": "channel:developers",
+      "attemptId": "15eaa039-2a27-4244-988d-7773723f30ad",
+      "verification": "verified",
+      "postId": "0x4df9cede43c45c3af9da5566c2106741ca7cec5c"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng700/fc?og=7"
+          }
+        ],
+        "channel_id": "build"
+      },
+      "account": "channel:build",
+      "attemptId": "0fa980e9-dd96-4992-ba83-d56253cf7180",
+      "verification": "verified",
+      "postId": "0xd2e1a3b0b54fb666eb9dcfab2a17c94faf7ccd1d"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng700/fc?og=7"
+          }
+        ],
+        "channel_id": "founders"
+      },
+      "account": "channel:founders",
+      "attemptId": "5c08e253-7366-4bb6-89f3-b86dbb7ea53e",
+      "verification": "verified",
+      "postId": "0x4048da6b620f7fca108c9b97d63285417fe07f71"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng700/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "537f2e37-90e4-4583-9b4d-99e1e1aa068b",
+      "verification": "verified",
+      "postId": "0xc321374a3583439685170fa61e5fdd3ce6c09493"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng700/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "d87debe6-b189-487c-bea5-9f047788f7ec",
+      "verification": "verified",
+      "postId": "0x9e1d1b22c5a596084fdbb02a61b1897c079aaf2b"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng700/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "af4e096b-933f-4a76-8590-e8df2407f11c",
+      "verification": "verified",
+      "postId": "0x480f8cf6e694e6bc029b5ea2635684e361140afc"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng700/fc?og=7"
+          }
+        ],
+        "channel_id": "defi"
+      },
+      "account": "channel:defi",
+      "attemptId": "ed45c9ff-fe88-4c2c-b8a3-96b59820ed43",
+      "verification": "verified",
+      "postId": "0x40dfd7b7ade0b3d4e84e8f11581aff24fafdc4d2"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng700/fc?og=7"
+          }
+        ],
+        "channel_id": "ai"
+      },
+      "account": "channel:ai",
+      "attemptId": "779e4dd6-da6a-4141-83b7-acf71b47bb84",
+      "verification": "verified",
+      "postId": "0xeaaf9c78c1390f83024a4d7af51ad38cbc82c68a"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng700/fc?og=7"
+          }
+        ],
+        "channel_id": "product"
+      },
+      "account": "channel:product",
+      "attemptId": "299d4cab-8d22-4c20-b278-27903e099822",
+      "verification": "verified",
+      "postId": "0xb50fa9ca59da8e8741b436eef71b59fff11b9c9c"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng700/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "80e1cda3-416a-43f8-aab7-6a9452f204c3",
+      "verification": "verified",
+      "postId": "0xdfc4f286d62a2f5fa3881511dfdbd3aec5f22521"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng700/fc?og=7"
+          }
+        ],
+        "channel_id": "growth"
+      },
+      "account": "channel:growth",
+      "attemptId": "62d07b99-a5da-4b38-978c-a467b17d1a60",
+      "verification": "verified",
+      "postId": "0xe62e4795a2bafb5635a4be9c00674251a8e5ffa1"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "linkedin",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations: https://hashtagweb3.com/eng700/li?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations: https://hashtagweb3.com/eng700/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng700/li?og=7",
+          "title": "Software Engineer - Trading Operations at DRW",
+          "description": "Join DRW as Software Engineer - Trading Operat. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng700.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "d90a7b17-380f-46ff-ba4e-b83255dec29e",
+      "verification": "verified",
+      "postId": "6aecdd5eef862e889be677c0",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524195852543000576"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "linkedin",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations: https://hashtagweb3.com/eng700/li?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations: https://hashtagweb3.com/eng700/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng700/li?og=7",
+          "title": "Software Engineer - Trading Operations at DRW",
+          "description": "Join DRW as Software Engineer - Trading Operat. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng700.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "5c8db91f-781e-44cb-b0bc-d6063775b1d2",
+      "verification": "verified",
+      "postId": "6aecdd7c26d4080d86d12e11",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524195977071656960"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "linkedin",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations: https://hashtagweb3.com/eng700/li?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations: https://hashtagweb3.com/eng700/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng700/li?og=7",
+          "title": "Software Engineer - Trading Operations at DRW",
+          "description": "Join DRW as Software Engineer - Trading Operat. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng700.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "0d510bc6-13ba-4087-84e6-364fd964e86c",
+      "verification": "verified",
+      "postId": "urn:li:share:7524196010689028096"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "facebook",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations: https://hashtagweb3.com/eng700/fb?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "message": "DRW is hiring Software Engineer - Trading Operations: https://hashtagweb3.com/eng700/fb?og=7",
+        "link": "https://hashtagweb3.com/eng700/fb?og=7"
+      },
+      "attemptId": "3e8ff56e-fa97-4881-af15-e9efc644d6e0",
+      "verification": "verified",
+      "postId": "691827047618629_1136478292292738"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "x",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/x?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "a3b7a4b2-6462-4362-9169-13b972d247c6",
+      "verification": "verified",
+      "postId": "6aecddb526d4080d86d13b55",
+      "permalink": "https://twitter.com/hashtag_web3/status/2118430437655630314"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "threads",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France: https://hashtagweb3.com/sls205/th?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France: https://hashtagweb3.com/sls205/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/sls205/th?og=7"
+      },
+      "attemptId": "fc698f65-c3f6-40a1-bfb5-4412e7b01c06",
+      "verification": "creating",
+      "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Thursday, 05-Nov-26 11:49:20 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ADGPydLVzvfyw_7CJZ9_Ufj\"}"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "bluesky",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France: https://hashtagweb3.com/sls205/bsky?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France: https://hashtagweb3.com/sls205/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/sls205/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/sls205.png?v=7",
+        "company": "Bybit",
+        "title": "[EU] Business Development Specialist, France",
+        "description": "Join Bybit as Business Development Specialist, F. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "e40c1657-3738-4df6-9fc4-02ec155b7776",
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mzln7lusnd2f"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls205/fc?og=7"
+          }
+        ]
+      },
+      "account": "profile",
+      "attemptId": "f28958f2-2d30-4be5-b42d-f231f324dee4",
+      "verification": "verified",
+      "postId": "0xca3a0fde0a0dd41789a1521e8ca2c43189f26ca7"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls205/fc?og=7"
+          }
+        ],
+        "channel_id": "jobs"
+      },
+      "account": "channel:jobs",
+      "attemptId": "48cf2bb2-6bcb-4320-98fe-3af1c0928881",
+      "verification": "verified",
+      "postId": "0xbaa47a1f1b685e7ceeb757ef60c617dacf3459c0"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls205/fc?og=7"
+          }
+        ],
+        "channel_id": "web3"
+      },
+      "account": "channel:web3",
+      "attemptId": "bde427f5-51d7-4404-a3ec-a91e5ccbb643",
+      "verification": "verified",
+      "postId": "0x37e23815e4c580054013527324d0d063ca3d7967"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls205/fc?og=7"
+          }
+        ],
+        "channel_id": "bounties"
+      },
+      "account": "channel:bounties",
+      "attemptId": "f2cd9888-46e3-4276-b407-4ccb1265b1d4",
+      "verification": "verified",
+      "postId": "0x11c58dc588ef37309856bb865eebb9cfa9bd555d"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls205/fc?og=7"
+          }
+        ],
+        "channel_id": "crypto"
+      },
+      "account": "channel:crypto",
+      "attemptId": "890a83b0-4f76-41d2-a992-2fa50c05672d",
+      "verification": "verified",
+      "postId": "0x95fca035408543069caf0ec85952ccbb973b52cd"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls205/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "45535add-2705-4385-82da-fa86c779fb83",
+      "verification": "verified",
+      "postId": "0xd03090681ac608eb4babbfe3fb51d7cbfa2b13b4"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls205/fc?og=7"
+          }
+        ],
+        "channel_id": "developers"
+      },
+      "account": "channel:developers",
+      "attemptId": "373d2762-7c58-41e2-99ee-a367581944f1",
+      "verification": "verified",
+      "postId": "0xd51920da7fc5a812bc96b3bcd22ce34faf864da9"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls205/fc?og=7"
+          }
+        ],
+        "channel_id": "build"
+      },
+      "account": "channel:build",
+      "attemptId": "fbe24a64-a34c-470b-8969-f36c9801f817",
+      "verification": "verified",
+      "postId": "0x5168d68e192930d42b416d053c2a8e00c9fede7b"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls205/fc?og=7"
+          }
+        ],
+        "channel_id": "founders"
+      },
+      "account": "channel:founders",
+      "attemptId": "860b03ab-5ab2-4d06-b986-327d183927b3",
+      "verification": "verified",
+      "postId": "0x7c71c2b9de24f04c515396e071c832847cbc8e07"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls205/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "f32e003c-85b5-441c-9c08-849b8d15ee8e",
+      "verification": "verified",
+      "postId": "0x7f9f9a2611669f3b6a37c67974ab5b7091ffa196"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls205/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "4d34e76a-1f2d-42f7-92ea-09cda6d45ba3",
+      "verification": "verified",
+      "postId": "0x467fed0de0d29e150a43de16da18b4ae2a0e51e8"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls205/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "dbb8235a-7af9-497b-afb0-2c4e4ca58d52",
+      "verification": "verified",
+      "postId": "0x0fb697e27b96125b8a506c56382df0da819439fc"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls205/fc?og=7"
+          }
+        ],
+        "channel_id": "defi"
+      },
+      "account": "channel:defi",
+      "attemptId": "53b4e9e5-00e0-4859-b864-2836e7cb7b7b",
+      "verification": "verified",
+      "postId": "0x922736fae31aab9bf2cbdfc20c403a37c174a3bc"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls205/fc?og=7"
+          }
+        ],
+        "channel_id": "ai"
+      },
+      "account": "channel:ai",
+      "attemptId": "620c1461-b9c2-4aa1-a245-8ec2685ec6b9",
+      "verification": "verified",
+      "postId": "0xb0d7769e819f744fcaab708f03b04cc02fac54f5"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls205/fc?og=7"
+          }
+        ],
+        "channel_id": "product"
+      },
+      "account": "channel:product",
+      "attemptId": "bd869564-6eba-46c5-ac5d-c4833102751c",
+      "verification": "verified",
+      "postId": "0x652ca421ba945d2147d65c84d1aab7b8b110b7cc"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls205/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "fb969010-f6cd-42de-abbb-f3b0d35319c4",
+      "verification": "verified",
+      "postId": "0x5097ffc05c3bc25d04d9223c6a73f2af19bd3701"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France\n\nhttps://hashtagweb3.com/sls205/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls205/fc?og=7"
+          }
+        ],
+        "channel_id": "growth"
+      },
+      "account": "channel:growth",
+      "attemptId": "18408705-ff28-4754-8616-95852cad2ec7",
+      "verification": "verified",
+      "postId": "0xec9d83564776cd689f958804cfa0f9942bbe479d"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "linkedin",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France: https://hashtagweb3.com/sls205/li?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France: https://hashtagweb3.com/sls205/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls205/li?og=7",
+          "title": "[EU] Business Development Specialist, France at Bybit",
+          "description": "Join Bybit as Business Development Specialist, F. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls205.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "e4f4c190-1d00-44bb-b8d3-716dae79cff5",
+      "verification": "verified",
+      "postId": "6aecde3ef12e77483956c593",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524196790846439424"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "linkedin",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France: https://hashtagweb3.com/sls205/li?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France: https://hashtagweb3.com/sls205/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls205/li?og=7",
+          "title": "[EU] Business Development Specialist, France at Bybit",
+          "description": "Join Bybit as Business Development Specialist, F. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls205.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "0df8972e-e422-4804-b1fc-9db4ab6258a6",
+      "verification": "verified",
+      "postId": "6aecde5b845dce9f7663ecc1",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524196913299152896"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "linkedin",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France: https://hashtagweb3.com/sls205/li?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "text": "Bybit is hiring [EU] Business Development Specialist, France: https://hashtagweb3.com/sls205/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls205/li?og=7",
+          "title": "[EU] Business Development Specialist, France at Bybit",
+          "description": "Join Bybit as Business Development Specialist, F. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls205.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "1874063c-ad73-4dab-89b5-ed98fa1fb377",
+      "verification": "verified",
+      "postId": "urn:li:share:7524196957733556224"
+    },
+    {
+      "slug": "sls205",
+      "company": "Bybit",
+      "title": "[EU] Business Development Specialist, France",
+      "platform": "facebook",
+      "postedAt": "2026-11-05T19:49:05.760Z",
+      "expectedText": "Bybit is hiring [EU] Business Development Specialist, France: https://hashtagweb3.com/sls205/fb?og=7",
+      "snapshot": {
+        "id": "5024572101",
+        "title": "[EU] Business Development Specialist, France",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+        "date": "2026-11-01T15:44:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "France - Remote",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls205"
+      },
+      "payload": {
+        "message": "Bybit is hiring [EU] Business Development Specialist, France: https://hashtagweb3.com/sls205/fb?og=7",
+        "link": "https://hashtagweb3.com/sls205/fb?og=7"
+      },
+      "attemptId": "49a9e53b-f83a-4efa-89b4-07508ac86f85",
+      "verification": "verified",
+      "postId": "691827047618629_1136480742292493"
     }
   ]
 }

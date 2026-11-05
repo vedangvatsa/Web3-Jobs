@@ -20,22 +20,6 @@
       "reason": "The source title and image-based heading did not match the old punctuation variant; the organizer's event-specific page provides the full program."
     },
     {
-      "id": "token2049-side-6a5dff0ed1b48ddf39d0827e",
-      "kind": "luma",
-      "sourceUrl": "https://luma.com/event/evt-SRSeRqJykejGWY3",
-      "contains": [
-        "CoinFerenceX The Best Event Singapore"
-      ],
-      "eventId": "evt-SRSeRqJykejGWY3",
-      "keepSession": true,
-      "patch": {
-        "name": "CoinFerenceX Singapore 2026 - Day 2",
-        "startDate": "2026-10-06",
-        "endDate": "2026-10-06"
-      },
-      "reason": "Use the organizer's conference description for its second day while preserving its separate calendar date."
-    },
-    {
       "id": "premier-finalityforum",
       "kind": "luma",
       "sourceUrl": "https://luma.com/g2lg0htf",
@@ -128,16 +112,6 @@
         "location": "Andaz Singapore, Singapore"
       },
       "reason": "Replaced XREX's company homepage with the summit's official event website."
-    },
-    {
-      "id": "premier-vntr",
-      "kind": "luma",
-      "sourceUrl": "https://luma.com/w5ck9zwq",
-      "contains": [
-        "VNTR Capital Allocators Forum Singapore"
-      ],
-      "eventId": "evt-2bmdPRcv3J5m1I5",
-      "reason": "Matched the renamed forum and corrected the older 8 October listing to the organizer's actual 6 October event."
     },
     {
       "id": "token2049-side-6a622e12d1b48ddf39d08981",
