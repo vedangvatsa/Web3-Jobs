@@ -4649,5 +4649,52 @@
     "slotKey": "2026-11-05:morning",
     "messageId": 156086,
     "sentAt": "2026-11-05T03:32:23.560Z"
+  },
+  "daa0eb9c-273d-4e8c-b9ce-f97d01874f05": {
+    "status": "reserved",
+    "reservedAt": "2026-11-05T11:32:23.478Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "discovery-evt-JgYTRzXo6yWgqCd",
+        "slug": "solana-fitness-zone-dynamic-pilates-breakpoint-2026-11-15",
+        "name": "Solana Fitness Zone: Dynamic Pilates | Breakpoint 2026",
+        "startDate": "2026-11-15T08:00:00.000Z",
+        "keys": [
+          "discovery-evt-jgytrzxo6ywgqcd",
+          "page:solana-fitness-zone-dynamic-pilates-breakpoint-2026-11-15:2026-11-15",
+          "luma:evt-jgytrzxo6ywgqcd",
+          "luma-url:/solanapilates1",
+          "event:solanafitnesszonedynamicpilatesbreakpoint2026:2026-11-15:london"
+        ]
+      },
+      {
+        "id": "premier-breakpoint-2026",
+        "slug": "solana-breakpoint",
+        "name": "Solana Breakpoint 2026",
+        "startDate": "2026-11-15T09:00:00+00:00",
+        "keys": [
+          "premier-breakpoint-2026",
+          "page:solana-breakpoint:2026-11-15",
+          "url:solana.com/breakpoint:2026-11-15",
+          "event:solanabreakpoint2026:2026-11-15:london"
+        ]
+      },
+      {
+        "id": "discovery-evt-F0ZHBEyHynGIlVo",
+        "slug": "solana-fitness-zone-women-solana-yoga-offline-breakpoint",
+        "name": "Solana Fitness Zone: Women of Solana Yoga by OFFLINE | Breakpoint 2026",
+        "startDate": "2026-11-15T09:00:00.000Z",
+        "keys": [
+          "discovery-evt-f0zhbeyhyngilvo",
+          "page:solana-fitness-zone-women-solana-yoga-offline-breakpoint:2026-11-15",
+          "luma:evt-f0zhbeyhyngilvo",
+          "luma-url:/womenofsolana",
+          "event:solanafitnesszonewomenofsolanayogabyofflinebreakpoint2026:2026-11-15:london"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-05:afternoon"
   }
 }
