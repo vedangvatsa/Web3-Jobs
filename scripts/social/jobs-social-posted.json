@@ -103096,7 +103096,8 @@
       },
       "account": "channel:developers",
       "attemptId": "f252f171-3254-4f37-9ec4-a2adabe663e5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7ad95d864fe0ff467c97f2280446b9feaa320cd4"
     }
   ]
 }
