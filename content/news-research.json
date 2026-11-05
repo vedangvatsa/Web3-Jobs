@@ -126664,9 +126664,9 @@
       "articleSlug": "fbireopen",
       "draftProgress": {
         "id": "f4109208240fecb8e60c",
-        "day": "2026-11-03",
+        "day": "2026-11-05",
         "articleSlug": "fbireopen",
-        "note": "Read Decrypt and Bankless in full. FBI alert primary URL, image, and draft still needed.",
+        "note": "No new source reads this run; prior review left fbireopen draft needing repair (under 600 words; FBI.gov 403 and CoinDesk 429 source links). Re-read Decrypt/Bankless/FBI alert and rewrite before next attempt.",
         "sourceChecks": [
           {
             "url": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
@@ -126677,7 +126677,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-03T01:48:49.376Z",
+        "updatedAt": "2026-11-05T00:40:47.919Z",
         "approved": false,
         "mustReview": true
       },
