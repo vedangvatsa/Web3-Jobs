@@ -184,23 +184,54 @@ async function threadsApi(route, body) {
   return data;
 }
 
-async function verifyAccounts() {
+async function verifyAccounts(platform) {
   console.log('--- Verifying accounts ---');
-  // Buffer X channel
-  const { channel } = await bufferGql(
-    'query ($id: ChannelId!) { channel(input: {id: $id}) { id name service isDisconnected isLocked } }',
-    { id: X_CHANNEL }
-  );
-  console.log(`X Channel on Buffer: ${channel.name} (${channel.id}), service: ${channel.service}`);
-  assert.equal(channel.name.replace(/^@/, '').toLowerCase(), X_ACCOUNT);
-  assert.equal(channel.service, 'twitter');
-  assert.equal(channel.isDisconnected, false);
-  assert.equal(channel.isLocked, false);
+  let channel = null;
+  let account = null;
 
-  // Threads Account
-  const account = await threadsApi('me?fields=id,username');
-  console.log(`Threads Account: @${account.username} (ID: ${account.id})`);
-  assert.equal(account.username.toLowerCase(), THREADS_ACCOUNT);
+  if (platform === 'both' || platform === 'x') {
+    // Buffer X channel
+    const res = await bufferGql(
+      'query ($id: ChannelId!) { channel(input: {id: $id}) { id name service organizationId isDisconnected isLocked } }',
+      { id: X_CHANNEL }
+    );
+    channel = res.channel;
+    console.log(`X Channel on Buffer: ${channel.name} (${channel.id}), service: ${channel.service}`);
+    assert.equal(channel.name.replace(/^@/, '').toLowerCase(), X_ACCOUNT);
+    assert.equal(channel.service, 'twitter');
+    assert.equal(channel.isDisconnected, false);
+    assert.equal(channel.isLocked, false);
+
+    // Also inspect other channels in Buffer organization to see if Threads is connected in Buffer
+    try {
+      const orgData = await bufferGql(
+        'query ($org: OrganizationId!) { organization(input: {id: $org}) { channels { id name service isDisconnected } } }',
+        { org: channel.organizationId }
+      );
+      const orgChannels = orgData.organization?.channels || [];
+      console.log('Buffer Channels in Organization:');
+      for (const ch of orgChannels) {
+        console.log(`  - ${ch.name} (${ch.service}): ID=${ch.id}, disconnected=${ch.isDisconnected}`);
+      }
+    } catch (e) {
+      console.log('Could not list organization channels:', e.message);
+    }
+  }
+
+  if (platform === 'both' || platform === 'threads') {
+    try {
+      account = await threadsApi('me?fields=id,username');
+      console.log(`Threads Account: @${account.username} (ID: ${account.id})`);
+      assert.equal(account.username.toLowerCase(), THREADS_ACCOUNT);
+    } catch (err) {
+      if (platform === 'both') {
+        console.warn(`\n⚠️ Warning: Threads direct API check failed: ${err.message}`);
+        console.warn('Proceeding with X-only if requested, or update THREADS_ACCESS_TOKEN.\n');
+      } else {
+        throw err;
+      }
+    }
+  }
 
   return { channel, account };
 }
@@ -352,10 +383,13 @@ async function main() {
   console.log(`=== AI AGENT COURSES THREAD PUBLISHER ===`);
   console.log(`Mode: ${mode} | Platform: ${platform}\n`);
 
-  const { channel, account } = await verifyAccounts();
+  const { channel, account } = await verifyAccounts(platform);
 
   if (mode === 'preflight') {
-    console.log('\n✅ Preflight check passed! Both accounts verified. No posts were published.');
+    console.log('\n✅ Preflight check complete!');
+    if (channel) console.log(`  - X channel verified: @${X_ACCOUNT} (${X_CHANNEL})`);
+    if (account) console.log(`  - Threads account verified: @${account.username}`);
+    else console.log(`  - Threads: Direct API token expired / not available`);
     return;
   }
 
@@ -366,7 +400,11 @@ async function main() {
   }
 
   if (platform === 'both' || platform === 'threads') {
-    results.threads = await postThreads(account);
+    if (account) {
+      results.threads = await postThreads(account);
+    } else {
+      console.warn('\n⚠️ Skipping Threads because THREADS_ACCESS_TOKEN is expired or unavailable.');
+    }
   }
 
   console.log('\n=======================================');
