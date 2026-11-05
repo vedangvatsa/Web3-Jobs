@@ -101776,6 +101776,54 @@
       "attemptId": "6f70da21-6382-40c3-afa5-1600c016e47e",
       "verification": "verified",
       "postId": "0x81a37149aa3ee7508e255611e40372c6e90c5a18"
+    },
+    {
+      "slug": "eng674",
+      "company": "Bitdeer",
+      "title": "Senior/Staff SI/PI Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-11-05T03:36:24.569Z",
+      "expectedText": "Bitdeer is hiring Senior/Staff SI/PI Engineer: https://hashtagweb3.com/eng674/li?og=7",
+      "snapshot": {
+        "id": "e89b32dd03f5",
+        "title": "Senior/Staff SI/PI Engineer",
+        "company": "Bitdeer",
+        "link": "https://bitdeer.breezy.hr/p/e89b32dd03f5-senior-staff-si-pi-engineer",
+        "date": "2026-11-02",
+        "dateVerified": true,
+        "dateSource": "Breezy.JobPosting.datePosted",
+        "source": "Breezy: Bitdeer [bitdeer]",
+        "location": "Singapore, SG",
+        "isRemote": false,
+        "department": "IC Lab",
+        "active": true,
+        "dateEvidence": {
+          "url": "https://bitdeer.breezy.hr/p/e89b32dd03f5-senior-staff-si-pi-engineer",
+          "checkedAt": "2026-11-04T00:07:28.466Z",
+          "bodySha256": "3063f60a577e1f82d0e4842c89aae375c0574f821f95ee5e1fe413dfb2689e8f",
+          "provider": "breezy",
+          "datePosted": "2026-11-02"
+        },
+        "slug": "eng674"
+      },
+      "payload": {
+        "text": "Bitdeer is hiring Senior/Staff SI/PI Engineer: https://hashtagweb3.com/eng674/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng674/li?og=7",
+          "title": "Senior/Staff SI/PI Engineer at Bitdeer",
+          "description": "Join Bitdeer as Senior/Staff SI/PI Engineer. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng674.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "8685357f-b0c7-4e5b-8639-9aac2c81176a",
+      "verification": "creating"
     }
   ]
 }
