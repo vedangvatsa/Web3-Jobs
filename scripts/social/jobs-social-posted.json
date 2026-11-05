@@ -106257,7 +106257,8 @@
       },
       "account": "profile",
       "attemptId": "f28958f2-2d30-4be5-b42d-f231f324dee4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xca3a0fde0a0dd41789a1521e8ca2c43189f26ca7"
     }
   ]
 }
