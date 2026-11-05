@@ -101994,8 +101994,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "ff458000-7e2f-47d4-8433-53c23226f530",
-      "verification": "pending",
-      "postId": "6aec00fc660b2991f14f0d89"
+      "verification": "verified",
+      "postId": "6aec00fc660b2991f14f0d89",
+      "permalink": "https://twitter.com/hashtag_web3/status/2118193440018104574"
     }
   ]
 }
