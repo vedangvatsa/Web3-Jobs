@@ -14133,5 +14133,121 @@
     "slotKey": "2026-11-05:morning",
     "messageId": 169,
     "sentAt": "2026-11-05T03:32:51.814Z"
+  },
+  "99ca22a6-ebbb-4754-a83f-031c7d8982af": {
+    "status": "reserved",
+    "reservedAt": "2026-11-05T11:32:23.105Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "9a6eb3d2-8efb-4889-ae12-28ebbca60189",
+          "title": "Sr. Strategic Account Director",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/9a6eb3d2-8efb-4889-ae12-28ebbca60189",
+          "date": "2026-11-04T21:34:41.708+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (North America)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Go-To-Market",
+          "active": true,
+          "slug": "sls416",
+          "dateVerified": true
+        },
+        "key": "9a6eb3d2-8efb-4889-ae12-28ebbca60189",
+        "slug": "sls416",
+        "url": "https://hashtagweb3.com/sls416?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Sr. Strategic Account Director"
+      },
+      {
+        "snapshot": {
+          "id": "4e6939de-53c0-4faf-93f9-b6c4c047b7d2",
+          "title": "Staff Software Engineer, Identity Platform",
+          "company": "MoonPay",
+          "link": "https://jobs.lever.co/moonpay/4e6939de-53c0-4faf-93f9-b6c4c047b7d2",
+          "date": "2026-10-20T13:00:28.291Z",
+          "source": "Lever: MoonPay [moonpay]",
+          "location": "United States - Hybrid",
+          "workplaceType": "hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng627"
+        },
+        "key": "4e6939de-53c0-4faf-93f9-b6c4c047b7d2",
+        "slug": "eng627",
+        "url": "https://hashtagweb3.com/eng627?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "MoonPay",
+        "title": "Staff Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "6242341004",
+          "title": "Senior Java Developer",
+          "company": "Localcoin",
+          "link": "https://job-boards.greenhouse.io/localcoin/jobs/6242341004",
+          "date": "2026-11-03T12:12:33-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Localcoin [localcoin]",
+          "location": "Canada",
+          "department": "Engineering & Data",
+          "active": true,
+          "salary": "$120k – $140k/yr",
+          "dateVerified": true,
+          "slug": "dev40"
+        },
+        "key": "6242341004",
+        "slug": "dev40",
+        "url": "https://hashtagweb3.com/dev40?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Localcoin",
+        "title": "Senior Java Developer"
+      },
+      {
+        "snapshot": {
+          "id": "8223889",
+          "title": "Staff GRC Program Manager",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8223889?gh_jid=8223889",
+          "date": "2026-11-02T14:46:52-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "São Paulo, Brazil",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr129"
+        },
+        "key": "8223889",
+        "slug": "mgr129",
+        "url": "https://hashtagweb3.com/mgr129?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Staff GRC Program Manager"
+      },
+      {
+        "snapshot": {
+          "id": "6229290004",
+          "title": "Associate/VP, Back-End Software Engineer",
+          "company": "Galaxy Digital",
+          "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6229290004",
+          "date": "2026-10-20T04:00:45-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+          "location": "India",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng343"
+        },
+        "key": "6229290004",
+        "slug": "eng343",
+        "url": "https://hashtagweb3.com/eng343?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Galaxy Digital",
+        "title": "Associate/VP, Back-End Software Engineer"
+      }
+    ],
+    "message": "- TRM Labs is hiring <a href=\"https://hashtagweb3.com/sls416?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sr. Strategic Account Director</a>\n- MoonPay is hiring <a href=\"https://hashtagweb3.com/eng627?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Software Engineer, Identity Platform</a>\n- Localcoin is hiring <a href=\"https://hashtagweb3.com/dev40?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Java Developer</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/mgr129?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff GRC Program Manager</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/eng343?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Associate/VP, Back-End Software Engineer</a>",
+    "slotKey": "2026-11-05:afternoon"
   }
 }
