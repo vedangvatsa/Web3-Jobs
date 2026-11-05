@@ -876,6 +876,9 @@
   "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
   "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
   "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+  "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+  "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+  "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2410,6 +2413,11 @@
   "Apple is reportedly cutting budgets for its internal AI usage",
   "Nothing to release new AI-focused device next month",
   "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+  "Meta acquires AI coding startup Conductor",
+  "US Senate to vote on energy infrastructure bill",
+  "A new bill could change how the US builds energy infrastructure",
+  "Only Four Passengers Booked Uber Rides Using AI Agents",
+  "Almost no one uses AI agents to book their Uber, company says",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2803,5 +2811,8 @@
   "fp:adoption|boom|business|captur|cost|enterpris|explain|fac|grow|how",
   "fp:action|back|candidat|committe|congress|congressional|divid|election|far|group",
   "fp:allocat|appl|budget|cutt|decreas|development|engineer|financial|internal|project",
-  "fp:ceo|design|devic|dropp|focus|improv|month|mysterious|next|noth"
+  "fp:ceo|design|devic|dropp|focus|improv|month|mysterious|next|noth",
+  "fp:acquir|acquisition|agent|capabl|cod|conductor|directly|engineer|manag|meta",
+  "fp:act|affordability|aim|american|bill|bipartisan|build|chang|construction|energy",
+  "fp:adoption|agent|almost|book|busiest|dur|figur|four|last|low"
 ]

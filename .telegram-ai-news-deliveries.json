@@ -3132,7 +3132,7 @@
     "sentAt": "2026-11-05T03:34:46.980Z"
   },
   "99c13169-3984-4c69-b712-a90ef46629b8": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-05T11:33:27.500Z",
     "stories": [
       {
@@ -3162,6 +3162,8 @@
         "originalTitle": "Almost no one uses AI agents to book their Uber, company says"
       }
     ],
-    "slotKey": "2026-11-05:afternoon"
+    "slotKey": "2026-11-05:afternoon",
+    "messageId": 193457,
+    "sentAt": "2026-11-05T11:33:33.039Z"
   }
 }
