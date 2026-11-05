@@ -3047,7 +3047,7 @@
     "sentAt": "2026-11-04T19:48:52.280Z"
   },
   "5d83b835-b6f0-426c-ba2c-500567255843": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-05T03:33:17.464Z",
     "stories": [
       {
@@ -3075,6 +3075,8 @@
         "originalTitle": "Mercado Bitcoin to restore account access Monday after $46M hack"
       }
     ],
-    "slotKey": "2026-11-05:morning"
+    "slotKey": "2026-11-05:morning",
+    "messageId": 156088,
+    "sentAt": "2026-11-05T03:33:26.999Z"
   }
 }
