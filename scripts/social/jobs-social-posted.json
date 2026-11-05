@@ -102727,7 +102727,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "c4b84f41-c11f-418a-824c-f68435a07363",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7523959759591362560"
     }
   ]
 }
