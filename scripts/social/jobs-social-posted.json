@@ -106467,7 +106467,8 @@
       },
       "account": "channel:developers",
       "attemptId": "373d2762-7c58-41e2-99ee-a367581944f1",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd51920da7fc5a812bc96b3bcd22ce34faf864da9"
     }
   ]
 }
