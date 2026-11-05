@@ -104930,7 +104930,8 @@
       },
       "account": "channel:solana",
       "attemptId": "5b69d72a-b7e9-4522-8829-d505d08622ae",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc270104155cf774faae66dce3c761db7402a9fd6"
     }
   ]
 }
