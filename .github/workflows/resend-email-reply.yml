@@ -6,7 +6,7 @@ on:
       mode:
         description: lookup = read original email metadata; list = page through received emails; send = send crafted reply (requires confirm)
         type: choice
-        options: [lookup, list, send]
+        options: [lookup, batch-lookup, list, send]
         default: lookup
         required: true
       email_id:

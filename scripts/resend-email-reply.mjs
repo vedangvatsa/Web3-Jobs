@@ -1,8 +1,10 @@
 import { createHash } from 'node:crypto';
 
 const key = process.env.RESEND_API_KEY;
-const mode = process.env.REPLY_MODE || 'lookup'; // lookup | list | send
-const emailId = process.env.REPLY_EMAIL_ID;
+const receivedIds = process.env.REPLY_EMAIL_ID;
+const mode = process.env.REPLY_MODE || 'lookup'; // lookup | batch-lookup | list | send
+const emailIdParts = (receivedIds || '').split(',').map(s => s.trim()).filter(Boolean);
+const emailId = emailIdParts.length === 1 ? emailIdParts[0] : null;
 const subject = process.env.REPLY_SUBJECT;
 const bodyText = process.env.REPLY_BODY_TEXT;
 const bodyHtml = process.env.REPLY_BODY_HTML || '';
@@ -17,7 +19,16 @@ function fail(msg) {
 }
 
 if (!key) fail('RESEND_API_KEY missing');
-if (['lookup', 'send'].includes(mode) && (!emailId || !/^[a-f0-9-]{36}$/.test(emailId))) fail('REPLY_EMAIL_ID must be a Resend email id');
+if (mode === 'batch-lookup') {
+  if (!emailIdParts.length) fail('REPLY_EMAIL_ID supports comma-separated ids for batch-lookup');
+  for (const id of emailIdParts) {
+    if (!/^[a-f0-9-]{36}$/.test(id)) fail(`bad email id: ${id}`);
+    try { summary(await getReceived(id)); } catch (e) { console.log(JSON.stringify({ lookupError: String(e).slice(0, 120), id })); }
+    console.log('-----8<-----');
+  }
+  process.exit(0);
+}
+if (['lookup', 'send'].includes(mode) && (!emailId || !/^[a-f0-9-]{36}$/.test(emailId))) fail('REPLY_EMAIL_ID must be a single Resend email id');
 
 async function getReceived(id) {
   const res = await fetch(`${RECV}/${encodeURIComponent(id)}`, {
