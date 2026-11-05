@@ -13883,7 +13883,7 @@
     "sentAt": "2026-11-04T19:43:38.271Z"
   },
   "f378d62d-475a-4e12-80e7-d7286b8ce4d3": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-05T03:32:35.144Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -14004,6 +14004,8 @@
       }
     ],
     "message": "- Robinhood is hiring <a href=\"https://hashtagweb3.com/eng480?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Software Engineer, Backend Platform</a>\n- Bitdeer is hiring <a href=\"https://hashtagweb3.com/rec26?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">2027 Sales &amp; Business Development Graduate Talent Trainee</a>\n- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/arcd?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Applied Researcher - Chip Design</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/eng503?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Engineer</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/mgr212?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Affiliate Manager</a>",
-    "slotKey": "2026-11-05:morning"
+    "slotKey": "2026-11-05:morning",
+    "messageId": 16609,
+    "sentAt": "2026-11-05T03:32:47.116Z"
   }
 }
