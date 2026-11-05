@@ -1,0 +1,40 @@
+name: Publish AI Agent Courses Thread
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Execution mode: preflight (verify only) or publish (live post)'
+        type: choice
+        options: [preflight, publish]
+        default: preflight
+      platform:
+        description: 'Target platform: both, x, or threads'
+        type: choice
+        options: [both, x, threads]
+        default: both
+
+concurrency:
+  group: publish-ai-agent-courses-thread
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Run thread test suite
+        run: node --test scripts/social/publish-ai-agent-courses-thread.test.mjs
+      - name: Publish or verify AI Agent Courses thread
+        env:
+          BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/social/publish-ai-agent-courses-thread.mjs --mode="${{ inputs.mode }}" --platform="${{ inputs.platform }}"
