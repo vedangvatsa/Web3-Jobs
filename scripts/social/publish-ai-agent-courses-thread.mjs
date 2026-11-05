@@ -205,10 +205,10 @@ async function verifyAccounts(platform) {
     // Also inspect other channels in Buffer organization to see if Threads is connected in Buffer
     try {
       const orgData = await bufferGql(
-        'query ($org: OrganizationId!) { organization(input: {id: $org}) { channels { id name service isDisconnected } } }',
+        'query ($org: OrganizationId!) { channels(input: {organizationId: $org}) { id name service isDisconnected isLocked } }',
         { org: channel.organizationId }
       );
-      const orgChannels = orgData.organization?.channels || [];
+      const orgChannels = orgData.channels || [];
       console.log('Buffer Channels in Organization:');
       for (const ch of orgChannels) {
         console.log(`  - ${ch.name} (${ch.service}): ID=${ch.id}, disconnected=${ch.isDisconnected}`);
