@@ -125600,7 +125600,27 @@
       "firstSeenAt": "2026-11-03T01:43:52.711Z",
       "attempts": 0,
       "expiresAt": "2026-11-06T01:32:39.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "articleSlug": "koreacold",
+      "draftProgress": {
+        "id": "e211d030e308f802ae25",
+        "day": "2026-11-05",
+        "articleSlug": "koreacold",
+        "note": "Two independent sources read in full: Cointelegraph (Nov 3) and The Asia Business Daily (Nov 2) on the FSC Nov 2 emergency meeting urging higher cold-wallet ratios. Qualification checks pass. Draft not started; needs image and audits.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.asiae.co.kr/en/article/2026110216375545819",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-05T01:02:29.840Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "26d516e40d6ba2c39276": {
       "source": "CryptoSlate",
