@@ -100700,7 +100700,8 @@
       },
       "account": "channel:product",
       "attemptId": "ae217a50-d703-4ec3-8eed-6933287ad7b7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x6bae783e201902df08e00257eaf2358b142f0af8"
     }
   ]
 }
