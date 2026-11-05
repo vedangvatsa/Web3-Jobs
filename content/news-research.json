@@ -125728,11 +125728,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "bb8e51a80b430ecafecc",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-03T01:43:52.711Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T00:30:20.000Z",
-      "lastSeenAt": "2026-11-03T01:43:52.711Z"
+      "lastSeenAt": "2026-11-03T01:43:52.711Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read the CryptoSlate article. The core is Binance's Nov. 2 consumer security advisory warning of scam phishing during the phased withdrawal reopening, plus routine proof-of-reserves updates; a PSA-style warning, not a discrete event (launch, vote, ruling, filing, hack, raise, upgrade).",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/binance-warns-of-second-wave-of-crypto-theft-as-6-3-billion-hack-recovery-continues/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-05T00:59:54.809Z",
+      "lastReviewedDay": "2026-11-05"
     },
     "9598208622e8e66dbf2a": {
       "source": "The Defiant",
@@ -125789,11 +125799,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "52c01ee330126fe501ea",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-03T01:43:52.711Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-05T23:39:56.000Z",
-      "lastSeenAt": "2026-11-03T01:43:52.711Z"
+      "lastSeenAt": "2026-11-03T01:43:52.711Z",
+      "reason": "duplicate",
+      "note": "Read the Crypto Briefing denial story; it covers the same Nov. 2 KCNA statement by Kim Yo Jong rejecting the FBI attribution already covered by content/articles/kimjong.md (published 2026-11-03).",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/north-korea-denies-involvement-in-6-3b-binance-hack-calls-fbi-claims-absurd/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-05T00:59:52.302Z",
+      "duplicateOf": "kimjong",
+      "lastReviewedDay": "2026-11-05"
     },
     "10d0ff42b2419043a8fa": {
       "source": "Cointelegraph",
@@ -250216,6 +250237,31 @@
             }
           ],
           "reviewedAt": "2026-11-05T00:59:50.004Z"
+        },
+        "52c01ee330126fe501ea": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Read the Crypto Briefing denial story; it covers the same Nov. 2 KCNA statement by Kim Yo Jong rejecting the FBI attribution already covered by content/articles/kimjong.md (published 2026-11-03).",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/north-korea-denies-involvement-in-6-3b-binance-hack-calls-fbi-claims-absurd/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-05T00:59:52.302Z",
+          "duplicateOf": "kimjong"
+        },
+        "bb8e51a80b430ecafecc": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read the CryptoSlate article. The core is Binance's Nov. 2 consumer security advisory warning of scam phishing during the phased withdrawal reopening, plus routine proof-of-reserves updates; a PSA-style warning, not a discrete event (launch, vote, ruling, filing, hack, raise, upgrade).",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/binance-warns-of-second-wave-of-crypto-theft-as-6-3-billion-hack-recovery-continues/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-05T00:59:54.809Z"
         }
       },
       "baselineSlugs": [
