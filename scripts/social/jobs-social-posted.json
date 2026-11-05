@@ -102640,8 +102640,9 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "16866346-2d49-4755-917d-d7980f5049a7",
-      "verification": "pending",
-      "postId": "6aec015ae22643a9878ce1e5"
+      "verification": "verified",
+      "postId": "6aec015ae22643a9878ce1e5",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7523959612790767616"
     }
   ]
 }
