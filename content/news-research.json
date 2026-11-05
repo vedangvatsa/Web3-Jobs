@@ -125606,7 +125606,7 @@
         "id": "e211d030e308f802ae25",
         "day": "2026-11-05",
         "articleSlug": "koreacold",
-        "note": "Two independent sources read in full: Cointelegraph (Nov 3) and The Asia Business Daily (Nov 2) on the FSC Nov 2 emergency meeting urging higher cold-wallet ratios. Qualification checks pass. Draft not started; needs image and audits.",
+        "note": "Re-read both sources in full this run: Cointelegraph (Nov 3) and The Asia Business Daily (Nov 2, FSC emergency meeting chaired by Yoo Youngjun, 80% cold-wallet statutory minimum). Qualification checks pass; draft, image and audits still pending.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack",
@@ -125617,7 +125617,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-05T01:02:29.840Z",
+        "updatedAt": "2026-11-05T01:15:06.485Z",
         "approved": false,
         "mustReview": true
       }
