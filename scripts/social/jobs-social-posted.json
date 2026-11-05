@@ -102852,7 +102852,8 @@
         "description": "Join MoonPay as Head of Business Risk & Controls. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "bd909310-1524-49e6-9c48-401c7daad9a9",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Employer application unverified: The operation was aborted due to timeout"
     }
   ]
 }
