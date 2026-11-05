@@ -103487,8 +103487,9 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "b9292fdd-20ab-49eb-9298-47260f442c6a",
-      "verification": "pending",
-      "postId": "6aec02677877e0eab273f570"
+      "verification": "verified",
+      "postId": "6aec02677877e0eab273f570",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7523960738743242752"
     }
   ]
 }
