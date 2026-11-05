@@ -102956,7 +102956,8 @@
       },
       "account": "channel:web3",
       "attemptId": "d9ed62da-56d9-457e-acdb-07b054c60072",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf565db3dd235a021b00cd69bd07f15c7eeff8689"
     }
   ]
 }
