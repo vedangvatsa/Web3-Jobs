@@ -105573,7 +105573,8 @@
       },
       "account": "channel:dev",
       "attemptId": "dd809647-a07c-4d55-a67f-205024672dd9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x90a547b50cc79a28ed87825fcd8155c2befbb465"
     }
   ]
 }
