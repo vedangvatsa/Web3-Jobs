@@ -105467,6 +105467,41 @@
       "attemptId": "f7b8ed7c-5abc-4934-b119-60dce1b35e70",
       "verification": "verified",
       "postId": "0xc93aabb8fd47bdf3b176da887272df5468236d51"
+    },
+    {
+      "slug": "eng700",
+      "company": "DRW",
+      "title": "Software Engineer - Trading Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T19:45:04.978Z",
+      "expectedText": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+      "snapshot": {
+        "id": "8328365",
+        "title": "Software Engineer - Trading Operations",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+        "date": "2026-11-02T14:35:30-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Chicago",
+        "department": "FICC Options Middle Office",
+        "active": true,
+        "salary": "$120k – $175k/yr",
+        "dateVerified": true,
+        "slug": "eng700"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Engineer - Trading Operations\n\nhttps://hashtagweb3.com/eng700/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng700/fc?og=7"
+          }
+        ],
+        "channel_id": "bounties"
+      },
+      "account": "channel:bounties",
+      "attemptId": "a0b1814a-e40e-455d-9337-3d22706b9b47",
+      "verification": "creating"
     }
   ]
 }
