@@ -93,6 +93,25 @@ Blocked or non-form routes: AllTop (policy: does not add new sources), SyndiGate
 
 Delivery of an inquiry email or a form POST does not mean a publisher account was approved, a feed was validated, or ingestion started.
 
+## Expansion waves (November 4–5, 2026)
+
+Registry grew 129 → 137 targets (100 with verified emails) from the news-aggregator harvest batches (batch 1: readers + PR wires; batch 2: aggregator cohort). Evidence: harvester page text in `.cache/publisher-expansion-2026-10-23/verified-emails*.json` (+ `verified-emails-b2-aggregators.json`).
+
+Wave of November 4 (run 41813689186-era send, readback 41815355204 then 41987798491):
+
+- **Delivered (11/11):** Feedspot (`team@`), Business Wire (`info@`), GlobeNewswire (`support@`), OpenPR (`service@`), Newswire (`sales@`), Cision (`support@`), DappRadar partnerships (`partnerships@`), DefiLlama (`support@`), Dune (`support@`), CryptoPanic sources (`sources@`), CoinStats sales (`sales@`).
+
+Wave of November 5 (send run 41987599171, readback 41987798491): 9 targets, 8 delivered / 1 bounced.
+
+- **Delivered (8):** Inoreader (`support@inoreader.com`), Feeder (`support@feeder.co`), PR Underground (`help@prunderground.com`), ClickPress (`editor@clickpress.com`), 1888 Press Release (`support_team@1888pressrelease.com`), PR Fire (`hello@prfire.com`), Dubai PRNetwork (`editor@dubaiprnetwork.com`), MindStick (`submit.article@mindstick.com`).
+- **Bounced (1):** NewsWhip (`research@newswhip.com`) — on-page-verified but invalid; no alternative route published; do not resend without a distinct verified address.
+- **Added as excluded, never sent:** Techmeme (about pages expose only advertising routes — sponsor@, events@, my.podcast@ — no publisher-onboarding channel), KenyanWallstreet (peer news publisher, out of scope).
+- **No verifiable email published:** Worldnews (wn.com), Feed43, Netvibes, SmartNews contact/media retries, Webrazzi.
+
+Running totals after both waves: **101 receipts, 74 confirmed delivered, 22 bounced** (+3 stale `claimed` receipts held and never dispatched: BazQux, AllSides (feedback), The Old Reader — never sent; pending an explicit release decision).
+
+Receipt files: `docs/publisher-outreach/expansion-*-2026-10-23.json` (filename date stamp is the registry batch id; Nov 4/5 sends share it).
+
 ## Technical reference
 
 - [Google News sitemap requirements](https://developers.google.com/search/docs/crawling-indexing/sitemaps/news-sitemap): last two days, original publication date, at most 1,000 news entries per file.

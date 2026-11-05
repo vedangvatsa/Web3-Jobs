@@ -1525,9 +1525,9 @@
       "kind": "publisher-platform",
       "email": "research@newswhip.com",
       "emailSource": "https://www.newswhip.com/contact-us/ page text",
-      "emailNote": "verified",
+      "emailNote": "verified on-page, but bounced 2026-11-05 (run 41987599171); no alternative verified route — do not resend without a distinct verified address",
       "formUrls": [],
-      "route": "email",
+      "route": "bounced",
       "researchStatus": "verified"
     },
     {
