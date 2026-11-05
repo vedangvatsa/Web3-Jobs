@@ -3214,7 +3214,7 @@
     "sentAt": "2026-11-05T03:33:33.142Z"
   },
   "ced757cd-7e24-4483-894e-ce2fc5ffe902": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-05T11:33:42.906Z",
     "stories": [
       {
@@ -3242,6 +3242,8 @@
         "originalTitle": "Visa reports $25 billion annualized stablecoin settlement run rate in Q4"
       }
     ],
-    "slotKey": "2026-11-05:afternoon"
+    "slotKey": "2026-11-05:afternoon",
+    "messageId": 65805,
+    "sentAt": "2026-11-05T11:33:48.445Z"
   }
 }
