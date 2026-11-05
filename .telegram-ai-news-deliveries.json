@@ -3167,7 +3167,7 @@
     "sentAt": "2026-11-05T11:33:33.039Z"
   },
   "1ff40f12-967e-4834-92ce-f59ea29288da": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-05T19:45:17.709Z",
     "stories": [
       {
@@ -3201,6 +3201,8 @@
         "originalTitle": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure"
       }
     ],
-    "slotKey": "2026-11-05:evening"
+    "slotKey": "2026-11-05:evening",
+    "messageId": 193459,
+    "sentAt": "2026-11-05T19:45:21.356Z"
   }
 }
