@@ -102310,7 +102310,8 @@
       },
       "account": "channel:build",
       "attemptId": "c6892047-0b3d-40f3-b96f-707b140431aa",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2196f389ee329bd22d62a74e01469409b87a868d"
     }
   ]
 }
