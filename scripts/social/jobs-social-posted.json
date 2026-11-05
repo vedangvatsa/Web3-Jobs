@@ -105933,7 +105933,8 @@
       },
       "account": "channel:design",
       "attemptId": "80e1cda3-416a-43f8-aab7-6a9452f204c3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xdfc4f286d62a2f5fa3881511dfdbd3aec5f22521"
     }
   ]
 }
