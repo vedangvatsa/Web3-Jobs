@@ -3245,5 +3245,36 @@
     "slotKey": "2026-11-05:afternoon",
     "messageId": 65805,
     "sentAt": "2026-11-05T11:33:48.445Z"
+  },
+  "65fa3981-1e82-4484-8a32-d78838775d05": {
+    "status": "reserved",
+    "reservedAt": "2026-11-05T19:48:01.745Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Ethereum delays Hoodi testnet activation due to smart contract risks",
+        "summary": "Developers canceled the October 26 launch to investigate how EIP-8037 impacts existing smart contracts.",
+        "link": "https://hashtagweb3.com/hoodidelay?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ethereum postpones Glamsterdam's Hoodi testnet activation over contract risks"
+      },
+      {
+        "index": -1,
+        "headline": "Nine firms block tokenized share trading on OKXICE platform",
+        "summary": "Broadcom, Verizon, and UnitedHealth declined to have their stocks listed on the digital venue from OKX and ICE.",
+        "link": "https://hashtagweb3.com/okxice?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Nine public companies block tokenized shares on OKX and ICE venue"
+      },
+      {
+        "index": -1,
+        "headline": "NEAR Intents Recovers $3.8 Million Following October Exploit",
+        "summary": "The platform will reimburse users after the attacker returned the full amount on October 2.",
+        "link": "https://hashtagweb3.com/near-recovery?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "NEAR Intents recovers full $3.8M and closes exploit investigation"
+      }
+    ],
+    "slotKey": "2026-11-05:evening"
   }
 }
