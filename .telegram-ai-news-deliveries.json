@@ -3097,7 +3097,7 @@
     "sentAt": "2026-11-04T19:43:51.167Z"
   },
   "bb8f3cc7-10c2-4e88-9b56-544312aa97d3": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-05T03:34:31.698Z",
     "stories": [
       {
@@ -3127,6 +3127,8 @@
         "originalTitle": "Nothing CEO says company’s mysterious AI-first device is dropping next month"
       }
     ],
-    "slotKey": "2026-11-05:morning"
+    "slotKey": "2026-11-05:morning",
+    "messageId": 193455,
+    "sentAt": "2026-11-05T03:34:46.980Z"
   }
 }

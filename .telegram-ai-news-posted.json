@@ -873,6 +873,9 @@
   "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
   "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
   "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+  "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+  "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+  "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2401,6 +2404,12 @@
   "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
   "How companies profit from open-source AI models",
   "Open source AI is booming. Hugging Face explains who profits.",
+  "AI industry political groups see mixed midterm election results",
+  "AI PACs spent millions trying to shape Congress — here’s how they fared",
+  "Apple reduces internal AI development budget",
+  "Apple is reportedly cutting budgets for its internal AI usage",
+  "Nothing to release new AI-focused device next month",
+  "Nothing CEO says company’s mysterious AI-first device is dropping next month",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2791,5 +2800,8 @@
   "fp:american|business|commercial|contract|earn|exc|forebod|government|hid|insid",
   "fp:adult|an18|app|appl|application|companion|dat|guidelin|interaction|plus",
   "fp:buildout|center|country|data|election|epicenter|expansion|fastest|grow|infrastructur",
-  "fp:adoption|boom|business|captur|cost|enterpris|explain|fac|grow|how"
+  "fp:adoption|boom|business|captur|cost|enterpris|explain|fac|grow|how",
+  "fp:action|back|candidat|committe|congress|congressional|divid|election|far|group",
+  "fp:allocat|appl|budget|cutt|decreas|development|engineer|financial|internal|project",
+  "fp:ceo|design|devic|dropp|focus|improv|month|mysterious|next|noth"
 ]
