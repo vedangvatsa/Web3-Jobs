@@ -105000,7 +105000,8 @@
       },
       "account": "channel:ai",
       "attemptId": "8bc5a117-0882-4941-9705-c3edf341d9cf",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x639ce1890faa5144301ecaf8e29f552b219fe124"
     }
   ]
 }
