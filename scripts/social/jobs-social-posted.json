@@ -103168,6 +103168,40 @@
       "attemptId": "9917d756-6801-4f1f-85e5-f6b7ef506ae3",
       "verification": "verified",
       "postId": "0x3bb7dc2157119e1c765a8fc34309f81bce574f52"
+    },
+    {
+      "slug": "brc",
+      "company": "MoonPay",
+      "title": "Head of Business Risk & Controls",
+      "platform": "farcaster",
+      "postedAt": "2026-11-05T04:10:16.568Z",
+      "expectedText": "MoonPay is hiring Head of Business Risk & Controls\n\nhttps://hashtagweb3.com/brc/fc?og=7",
+      "snapshot": {
+        "id": "5e150bc1-bf8f-485c-861a-a2abc6c81f39",
+        "title": "Head of Business Risk & Controls",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/5e150bc1-bf8f-485c-861a-a2abc6c81f39",
+        "date": "2026-10-12T16:51:28.949Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "United States - Remote",
+        "workplaceType": "remote",
+        "department": "Executive Office",
+        "active": true,
+        "dateVerified": true,
+        "slug": "brc"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Head of Business Risk & Controls\n\nhttps://hashtagweb3.com/brc/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/brc/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "2892f4d9-c83a-49c4-b1ff-64a8790e834e",
+      "verification": "creating"
     }
   ]
 }
