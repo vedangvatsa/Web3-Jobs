@@ -106817,7 +106817,8 @@
       },
       "account": "channel:growth",
       "attemptId": "18408705-ff28-4754-8616-95852cad2ec7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xec9d83564776cd689f958804cfa0f9942bbe479d"
     }
   ]
 }
