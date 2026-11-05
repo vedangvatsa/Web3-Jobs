@@ -106747,7 +106747,8 @@
       },
       "account": "channel:product",
       "attemptId": "bd869564-6eba-46c5-ac5d-c4833102751c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x652ca421ba945d2147d65c84d1aab7b8b110b7cc"
     }
   ]
 }
