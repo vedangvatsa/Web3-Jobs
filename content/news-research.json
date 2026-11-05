@@ -130702,9 +130702,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "5652eed2b6a23af9e4d3",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T23:05:21.000Z",
       "lastSeenAt": "2026-11-04T00:03:58.707Z",
       "articleSlug": "bitgostacks",
@@ -130726,7 +130726,21 @@
         "updatedAt": "2026-11-05T01:05:53.297Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Crypto Briefing (Nov 3) and the Stacks Labs announcement (Nov 3) in full this run; matched the 5% STX pairing, six-month bond, no-slashing, whitelist and Genesis Bond figures across both. Hero self-hosted from Wikimedia; quality, image, formatting and duplicate audits pass for this file; both outbound links return 200.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/bitgo-bitcoin-staking-stacks-institutional/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.stacks.co/blog/bitgo-announces-bitcoin-staking-with-stacks-for-institutional-clients-in-qualified-custody",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-05T01:10:51.099Z",
+      "lastReviewedDay": "2026-11-05"
     },
     "e875bbb36b22d2f4131d": {
       "source": "Decrypt",
@@ -131725,7 +131739,7 @@
         "id": "a87a0138cb01050fd0ce",
         "day": "2026-11-05",
         "articleSlug": "fakeinterview",
-        "note": "Two independent sources read in full: Bitcoin Magazine (Nov 3 incident report details) and BBC (Nov 3). Qualification checks pass (concrete event, fresh, no duplicate). Draft not started; needs image and audits.",
+        "note": "Rechecked both sources in full this run (Bitcoin Magazine Nov 3, BBC Nov 3). Qualification checks pass; drafting after bitgostacks.",
         "sourceChecks": [
           {
             "url": "https://bitcoinmagazine.com/news/binance-says-6-34-billion-hack-job",
@@ -131736,7 +131750,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-05T01:02:23.027Z",
+        "updatedAt": "2026-11-05T01:05:55.280Z",
         "approved": false,
         "mustReview": true
       }
@@ -250306,6 +250320,23 @@
             }
           ],
           "reviewedAt": "2026-11-05T00:59:54.809Z"
+        },
+        "5652eed2b6a23af9e4d3": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Crypto Briefing (Nov 3) and the Stacks Labs announcement (Nov 3) in full this run; matched the 5% STX pairing, six-month bond, no-slashing, whitelist and Genesis Bond figures across both. Hero self-hosted from Wikimedia; quality, image, formatting and duplicate audits pass for this file; both outbound links return 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/bitgo-bitcoin-staking-stacks-institutional/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.stacks.co/blog/bitgo-announces-bitcoin-staking-with-stacks-for-institutional-clients-in-qualified-custody",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-05T01:10:51.099Z",
+          "articleSlug": "bitgostacks"
         }
       },
       "baselineSlugs": [
