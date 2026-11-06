@@ -16,7 +16,7 @@ export const tweets = [
 From basic reentrancy and storage collisions to flash loan attacks, fuzzing, and formal verification:
 
 A complete breakdown 🧵👇`,
-    imageUrl: 'https://iili.io/nt3YeNp.png',
+    imageUrl: 'https://iili.io/ntfa09s.png',
   },
   {
     text: `2/ Damn Vulnerable DeFi
