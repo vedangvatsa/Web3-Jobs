@@ -1,0 +1,27 @@
+{
+  "target": "info@coincodex.com",
+  "channel": "inbound-reply",
+  "originalReceivedEmailId": "52c0cabe-15e9-400a-b9a2-d77754fa8ab4",
+  "originalMessageId": "<CAOSe5iug0bUtAzQmqwsO3FtxNO0K+OrGV2wuMipiNT1Y+wES=g@mail.gmail.com>",
+  "originalSubject": "Re: Hashtag Web3: publisher onboarding and automatic news-feed distribution",
+  "originalFrom": "info@coincodex.com",
+  "status": "claimed",
+  "claimedAt": "2026-11-06T10:27:59.335Z",
+  "recipient": "info@coincodex.com",
+  "payload": {
+    "from": "Hashtag Web3 <hi@hashtagweb3.com>",
+    "reply_to": "hi@hashtagweb3.com",
+    "to": [
+      "info@coincodex.com"
+    ],
+    "subject": "Re: Hashtag Web3: publisher onboarding and automatic news-feed distribution",
+    "text": "Hello CoinCodex team,\n\nThank you for forwarding the proposal. To make the review easier for the appropriate team, here is the compact package:\n\n- Publication: https://hashtagweb3.com/news (Hashtag Web3 - United States organization, English-language crypto and Web3 news)\n- RSS feed: https://hashtagweb3.com/news/feed.xml - headline, summary, original publication date, canonical link per item\n- Example native article: https://hashtagweb3.com/bitgetthai\n- About: https://hashtagweb3.com/about / Contact: hi@hashtagweb3.com\n- Content scope: our native articles only. Our news listing also links to external publishers; those external stories are not supplied as our own content.\n- AI disclosure: our workflow uses AI-assisted research and drafting with source and publication checks; tell us your required disclosure format and we will adopt it.\n- Rights: attribution to Hashtag Web3 with canonical links; image-rights information for our original images available on request.\n\nIf useful, we can send the same package with sample full-content entries as files or via a sandbox feed URL.\n\nThank you,\nHashtag Web3 - hi@hashtagweb3.com",
+    "html": "<p>Hello CoinCodex team,</p>\n\n<p>Thank you for forwarding the proposal. To make the review easier for the appropriate team, here is the compact package:</p>\n\n<ul>\n<li>Publication: <a href=\"https://hashtagweb3.com/news\">https://hashtagweb3.com/news</a> (Hashtag Web3 &mdash; United States organization, English-language crypto and Web3 news)</li>\n<li>RSS feed: <a href=\"https://hashtagweb3.com/news/feed.xml\">https://hashtagweb3.com/news/feed.xml</a> &mdash; headline, summary, original publication date, canonical link per item</li>\n<li>Example native article: <a href=\"https://hashtagweb3.com/bitgetthai\">https://hashtagweb3.com/bitgetthai</a></li>\n<li>About: <a href=\"https://hashtagweb3.com/about\">https://hashtagweb3.com/about</a> &middot; Contact: <a href=\"mailto:hi@hashtagweb3.com\">hi@hashtagweb3.com</a></li>\n<li>Content scope: our native articles only. Our news listing also links to external publishers; those external stories are not supplied as our own content.</li>\n<li>AI disclosure: our workflow uses AI-assisted research and drafting with source and publication checks; tell us your required disclosure format and we will adopt it.</li>\n<li>Rights: attribution to Hashtag Web3 with canonical links; image-rights information for our original images available on request.</li>\n</ul>\n\n<p>If useful, we can send the same package with sample full-content entries as files or via a sandbox feed URL.</p>\n\n<p>Thank you,<br>Hashtag Web3 &mdash; <a href=\"mailto:hi@hashtagweb3.com\">hi@hashtagweb3.com</a></p>",
+    "headers": {
+      "In-Reply-To": "<CAOSe5iug0bUtAzQmqwsO3FtxNO0K+OrGV2wuMipiNT1Y+wES=g@mail.gmail.com>",
+      "References": "<CAOSe5iug0bUtAzQmqwsO3FtxNO0K+OrGV2wuMipiNT1Y+wES=g@mail.gmail.com>"
+    }
+  },
+  "payloadSha256": "1f9f0035e4b790cc0565eaffeeaf8cea5ca7b597fb19511d95527ec40b553e82",
+  "providerId": null
+}
