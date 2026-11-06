@@ -132631,9 +132631,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "72f0db748f62523a3cba",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T15:00:18.000Z",
       "lastSeenAt": "2026-11-04T00:03:58.707Z",
       "articleSlug": "ldkprobe",
@@ -132655,7 +132655,21 @@
         "updatedAt": "2026-11-06T01:00:52.892Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Rechecked CryptoSlate (Nov 3) and Bitcoin Optech #429 (Oct 30); both read, draft verified against PR 5314 details, audits pass, links 200, image self-hosted.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/bitcoin-lightning-fix-blocks-a-probe-linking-private-channels-to-onchain-funding/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitcoinops.org/en/newsletters/2026/10/30",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-06T01:23:26.106Z",
+      "lastReviewedDay": "2026-11-06"
     },
     "d3321a81a8fb1b39153d": {
       "source": "CoinDesk",
@@ -263287,6 +263301,23 @@
           ],
           "reviewedAt": "2026-11-06T01:18:01.206Z",
           "articleSlug": "aztectierra"
+        },
+        "72f0db748f62523a3cba": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Rechecked CryptoSlate (Nov 3) and Bitcoin Optech #429 (Oct 30); both read, draft verified against PR 5314 details, audits pass, links 200, image self-hosted.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/bitcoin-lightning-fix-blocks-a-probe-linking-private-channels-to-onchain-funding/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinops.org/en/newsletters/2026/10/30",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-06T01:23:26.106Z",
+          "articleSlug": "ldkprobe"
         }
       },
       "baselineSlugs": [
