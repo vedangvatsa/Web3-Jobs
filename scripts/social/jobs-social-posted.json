@@ -109165,6 +109165,40 @@
       "attemptId": "6937df79-8187-4663-889a-56d78d23bc51",
       "verification": "verified",
       "postId": "0xc1f57787167a03592069af010d9976c70f245e27"
+    },
+    {
+      "slug": "pm224",
+      "company": "Bitpanda",
+      "title": "Lead Technical Product Manager, Protocol (Vision Chain)",
+      "platform": "farcaster",
+      "postedAt": "2026-11-06T11:32:52.824Z",
+      "expectedText": "Bitpanda is hiring Lead Technical Product Manager, Protocol (Vision Chain)\n\nhttps://hashtagweb3.com/pm224/fc?og=7",
+      "snapshot": {
+        "id": "5027192101",
+        "title": "Lead Technical Product Manager, Protocol (Vision Chain)",
+        "company": "Bitpanda",
+        "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5027192101",
+        "date": "2026-11-04T06:40:43-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bitpanda [bitpanda]",
+        "location": "Barcelona, Spain",
+        "department": "Product & Design",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm224"
+      },
+      "payload": {
+        "text": "Bitpanda is hiring Lead Technical Product Manager, Protocol (Vision Chain)\n\nhttps://hashtagweb3.com/pm224/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm224/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "c884365c-ab33-4fca-ae33-bf275d348280",
+      "verification": "creating"
     }
   ]
 }
