@@ -108453,7 +108453,8 @@
       },
       "account": "channel:product",
       "attemptId": "2d945efe-992a-4101-ab02-273152347762",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x872ac03284c330d33cb261fa4b4d430836fea713"
     }
   ]
 }
