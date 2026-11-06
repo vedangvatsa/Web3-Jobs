@@ -882,6 +882,9 @@
   "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
   "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
   "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+  "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+  "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+  "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2427,6 +2430,12 @@
   "OpenAI president Greg Brockman says company could be IPO ready in 2027",
   "Dropbox acquires Tigris Data for 350 million dollars",
   "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+  "Axiom Math uses AI to verify complex mathematical proofs",
+  "Axiom Math wants to keep AI slop out of mathematics",
+  "Lawsuit claims wife used ChatGPT to plan husband's murder",
+  "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+  "Meta adds video chat feature to Muse AI avatars",
+  "Meta says US users can now video chat with their Muse AI avatar",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2826,5 +2835,8 @@
   "fp:adoption|agent|almost|book|busiest|dur|figur|four|last|low",
   "fp:aim|automat|cybersecurity|defens|digital|enough|fac|grow|infrastructur|openai",
   "fp:announc|brockman|by2027|enterpris|follow|greg|growth|in2027|initial|ipo",
-  "fp:350m|acquir|agent|algorithm|bolster|build|complex|data|developer|dollar"
+  "fp:350m|acquir|agent|algorithm|bolster|build|complex|data|developer|dollar",
+  "fp:agent|automat|axiom|complex|formally|keep|library|massiv|math|mathematic",
+  "fp:alleg|claim|complaint|facilitat|her|his|husband|introduc|lawsuit|legal",
+  "fp:add|animat|avatar|call|can|chat|customizabl|devic|featur|interact"
 ]

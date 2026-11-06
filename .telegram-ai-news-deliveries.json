@@ -3206,7 +3206,7 @@
     "sentAt": "2026-11-05T19:45:21.356Z"
   },
   "53cc25ef-a743-401c-929d-86b6549ad019": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-06T03:34:01.792Z",
     "stories": [
       {
@@ -3236,6 +3236,8 @@
         "originalTitle": "Meta says US users can now video chat with their Muse AI avatar"
       }
     ],
-    "slotKey": "2026-11-06:morning"
+    "slotKey": "2026-11-06:morning",
+    "messageId": 193462,
+    "sentAt": "2026-11-06T03:34:08.646Z"
   }
 }
