@@ -132151,11 +132151,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "b136add771d76740631a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T17:39:34.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read the full piece: it is TD Cowen analyst Jaret Seiberg's election-day note forecasting that a Democratic sweep would stall the CLARITY Act for two years and hand the Banking Committee to Elizabeth Warren. No vote, filing or rule has occurred; it is a prediction about a hypothetical future Congress.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/td-cowen-democratic-congress-clarity-act",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-06T00:41:37.146Z",
+      "lastReviewedDay": "2026-11-06"
     },
     "5f770cc1cb071632acc0": {
       "source": "Unchained",
@@ -262750,6 +262760,18 @@
           ],
           "reviewedAt": "2026-11-06T00:41:04.008Z",
           "duplicateOf": "mercadobitcoin"
+        },
+        "b136add771d76740631a": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read the full piece: it is TD Cowen analyst Jaret Seiberg's election-day note forecasting that a Democratic sweep would stall the CLARITY Act for two years and hand the Banking Committee to Elizabeth Warren. No vote, filing or rule has occurred; it is a prediction about a hypothetical future Congress.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/td-cowen-democratic-congress-clarity-act",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-06T00:41:37.146Z"
         }
       },
       "baselineSlugs": [
