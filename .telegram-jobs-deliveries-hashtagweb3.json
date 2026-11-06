@@ -7982,7 +7982,7 @@
     "sentAt": "2026-11-06T03:33:07.149Z"
   },
   "43ac46b8-00e4-4997-9d59-b176da75b584": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-06T11:32:38.009Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -8095,6 +8095,8 @@
       }
     ],
     "message": "- Polymarket is hiring <a href=\"https://hashtagweb3.com/ret?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Retention</a>\n- Localcoin is hiring <a href=\"https://hashtagweb3.com/do14?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior DevOps Engineer</a>\n- MoonPay is hiring <a href=\"https://hashtagweb3.com/des14?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal Designer, Otherlife</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/eng214?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VP, Finance Engineering - Mumbai</a>\n- Jane Street is hiring <a href=\"https://hashtagweb3.com/eng643?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AV Engineer</a>",
-    "slotKey": "2026-11-06:afternoon"
+    "slotKey": "2026-11-06:afternoon",
+    "messageId": 156108,
+    "sentAt": "2026-11-06T11:32:45.863Z"
   }
 }
