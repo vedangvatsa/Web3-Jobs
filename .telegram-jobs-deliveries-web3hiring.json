@@ -15073,7 +15073,7 @@
     "sentAt": "2026-11-06T11:32:33.194Z"
   },
   "5aa34ffa-f589-485c-af39-4fb77877dc6e": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-06T19:32:04.286Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -15186,6 +15186,8 @@
       }
     ],
     "message": "- CKBA is hiring <a href=\"https://hashtagweb3.com/pct?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Payment Channel Team Lead</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/eng483?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Engineer, Trading Ops &amp; Management</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sbcs?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">SOX Business Controls Specialist</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/bus2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business Lead</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/an37?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Fraud Investigations Analyst</a>",
-    "slotKey": "2026-11-06:evening"
+    "slotKey": "2026-11-06:evening",
+    "messageId": 16616,
+    "sentAt": "2026-11-06T19:32:07.666Z"
   }
 }
