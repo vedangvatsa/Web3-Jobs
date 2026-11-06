@@ -26,6 +26,7 @@ async function main() {
   assert.equal(atsBoardKey('Ashby', '%57arp'), 'ashby:warp');
   assert.deepEqual(getAtsBoardFromUrl('https://boards.greenhouse.io/embed/job_app?for=beam&token=123'), { provider: 'greenhouse', board: 'beam' });
   assert.deepEqual(getAtsBoardFromUrl('https://jobs.eu.lever.co/aavelabs/42'), { provider: 'lever', board: 'aavelabs', region: 'eu' });
+  assert.deepEqual(getAtsBoardFromUrl('https://dcx.keka.com/careers/jobdetails/146600'), { provider: 'keka', board: 'dcx' });
   assert.equal(getAtsBoardFromUrl('https://apply.workable.com/j/ABC123'), undefined);
   assert.equal(getAtsBoardFromUrl('https://jobs.ashbyhq.com.evil.invalid/warp/42'), undefined);
 

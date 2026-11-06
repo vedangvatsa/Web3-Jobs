@@ -58,8 +58,8 @@ jobs:
         run: npx tsx scripts/ingest-infosys-jobs.ts
         continue-on-error: true
 
-      - name: Ingest BitOasis jobs
-        run: npx tsx scripts/ingest-bitoasis-jobs.ts
+      - name: Ingest BitOasis Keka jobs
+        run: npx tsx scripts/ingest-keka-board.ts dcx "BitOasis"
         continue-on-error: true
 
       - name: Ingest Official CoinDCX job openings
