@@ -107705,6 +107705,46 @@
       "verification": "verified",
       "postId": "6aed4addf3498efda768cb1a",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524313421069279232"
+    },
+    {
+      "slug": "sls223",
+      "company": "Block",
+      "title": "Senior Sales Account Executive",
+      "platform": "linkedin",
+      "postedAt": "2026-11-06T03:32:09.954Z",
+      "expectedText": "Block is hiring Senior Sales Account Executive: https://hashtagweb3.com/sls223/li?og=7",
+      "snapshot": {
+        "id": "5471720008",
+        "title": "Senior Sales Account Executive",
+        "company": "Block",
+        "link": "http://block.xyz/careers/jobs/5471720008?gh_jid=5471720008",
+        "date": "2026-11-03T16:56:42-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Block [block]",
+        "location": "London, United Kingdom",
+        "department": "20213 S&M - Sales - Square Outside",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls223"
+      },
+      "payload": {
+        "text": "Block is hiring Senior Sales Account Executive: https://hashtagweb3.com/sls223/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls223/li?og=7",
+          "title": "Senior Sales Account Executive at Block",
+          "description": "Join Block as Senior Sales Account Executive. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls223.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "9f4d5f77-7303-4392-a59c-589e300a5b81",
+      "verification": "creating"
     }
   ]
 }
