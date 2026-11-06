@@ -3111,5 +3111,36 @@
     "slotKey": "2026-11-06:morning",
     "messageId": 156104,
     "sentAt": "2026-11-06T03:33:29.842Z"
+  },
+  "20f46021-971e-466c-be35-24e7923ff5e2": {
+    "status": "reserved",
+    "reservedAt": "2026-11-06T11:33:44.303Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "South Korea Reviews Plan for Central Cybersecurity Agency",
+        "summary": "President Lee Jae Myung proposed unified agency oversight following recent domestic cyberattacks and a major crypto theft.",
+        "link": "https://hashtagweb3.com/cyberczar?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "South Korea's president orders a review of a government-wide cybersecurity czar"
+      },
+      {
+        "index": -1,
+        "headline": "European Entity Loses $106 Million From Exchange Accounts",
+        "summary": "Investigator ZachXBT reported the stolen funds were routed through instant exchanges and Monero on November 1.",
+        "link": "https://hashtagweb3.com/eustolen?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Mystery $106 million theft drains EU entity exchange accounts"
+      },
+      {
+        "index": -1,
+        "headline": "Attacker Steals $1.47 Million From Bitcoin Staking Platform b14g",
+        "summary": "On October 31, zero-value withdrawal requests wrongly triggered full balance payouts due to a code flaw.",
+        "link": "https://hashtagweb3.com/b14gcore?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Hacker Drains 97 Million CORE From Bitcoin Staking Platform b14g"
+      }
+    ],
+    "slotKey": "2026-11-06:afternoon"
   }
 }
