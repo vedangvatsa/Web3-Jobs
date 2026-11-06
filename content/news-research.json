@@ -133325,7 +133325,23 @@
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
       "attempts": 0,
       "expiresAt": "2026-11-06T10:18:48.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "articleSlug": "norkoreadenial",
+      "draftProgress": {
+        "id": "9ebac6fe180baba39a23",
+        "day": "2026-11-06",
+        "articleSlug": "norkoreadenial",
+        "note": "Read the Decrypt report on North Korea's KCNA denial of the FBI's TraderTraitor attribution (Kim Yo Jong statement). Next: read the linked Yonhap wire and the paired CoinDesk candidate for corroboration; draft not started.",
+        "sourceChecks": [
+          {
+            "url": "https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-06T01:37:11.496Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "d738bbe96cb302288176": {
       "source": "CoinDesk",
