@@ -132817,9 +132817,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "3134b34a9771fe614c23",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T14:01:02.000Z",
       "lastSeenAt": "2026-11-04T00:03:58.707Z",
       "articleSlug": "aztectierra",
@@ -132845,7 +132845,25 @@
         "updatedAt": "2026-11-06T01:00:55.939Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Rechecked Aztec Foundation Tierra blog, Decrypt and Altcoin Buzz; all three read, draft verified (V5 flaw dates, 1s proofs, 12s best-case messaging), audits pass, links 200.",
+      "sourceChecks": [
+        {
+          "url": "https://aztec.network/blog/introducing-aztec-tierra",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.altcoinbuzz.io/aztec-tierra-upgrade-patches-critical-v5-flaw-and-doubles-proof-speed",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-06T01:18:01.206Z",
+      "lastReviewedDay": "2026-11-06"
     },
     "66798851e752e963ed7d": {
       "source": "The Block",
@@ -263248,6 +263266,27 @@
           ],
           "reviewedAt": "2026-11-06T01:14:37.190Z",
           "articleSlug": "moexcrypto"
+        },
+        "3134b34a9771fe614c23": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Rechecked Aztec Foundation Tierra blog, Decrypt and Altcoin Buzz; all three read, draft verified (V5 flaw dates, 1s proofs, 12s best-case messaging), audits pass, links 200.",
+          "sourceChecks": [
+            {
+              "url": "https://aztec.network/blog/introducing-aztec-tierra",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.altcoinbuzz.io/aztec-tierra-upgrade-patches-critical-v5-flaw-and-doubles-proof-speed",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-06T01:18:01.206Z",
+          "articleSlug": "aztectierra"
         }
       },
       "baselineSlugs": [
