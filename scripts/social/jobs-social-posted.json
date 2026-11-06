@@ -109459,6 +109459,47 @@
       "verification": "verified",
       "postId": "6aedbb8f36daaa23dcd203b6",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524434427754467328"
+    },
+    {
+      "slug": "pm224",
+      "company": "Bitpanda",
+      "title": "Lead Technical Product Manager, Protocol (Vision Chain)",
+      "platform": "linkedin",
+      "postedAt": "2026-11-06T11:32:52.824Z",
+      "expectedText": "Bitpanda is hiring Lead Technical Product Manager, Protocol (Vision Chain): https://hashtagweb3.com/pm224/li?og=7",
+      "snapshot": {
+        "id": "5027192101",
+        "title": "Lead Technical Product Manager, Protocol (Vision Chain)",
+        "company": "Bitpanda",
+        "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5027192101",
+        "date": "2026-11-04T06:40:43-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bitpanda [bitpanda]",
+        "location": "Barcelona, Spain",
+        "department": "Product & Design",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm224"
+      },
+      "payload": {
+        "text": "Bitpanda is hiring Lead Technical Product Manager, Protocol (Vision Chain): https://hashtagweb3.com/pm224/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm224/li?og=7",
+          "title": "Lead Technical Product Manager, Protocol (Vision Chain) at Bitpanda",
+          "description": "Join Bitpanda as Lead Technical Product Manager, Pr. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm224.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "7ea07fd9-0a29-4d4c-ae23-961480b2956c",
+      "verification": "creating"
     }
   ]
 }
