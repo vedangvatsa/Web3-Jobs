@@ -8098,5 +8098,121 @@
     "slotKey": "2026-11-06:afternoon",
     "messageId": 156108,
     "sentAt": "2026-11-06T11:32:45.863Z"
+  },
+  "3073cde0-7ad1-4737-991f-a5571e38512d": {
+    "status": "reserved",
+    "reservedAt": "2026-11-06T19:32:19.852Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5473172008",
+          "title": "Territory Account Executive, East Bronx",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5473172008?gh_jid=5473172008",
+          "date": "2026-11-04T12:50:58-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "New York, NY, United States of America",
+          "department": "20249 S&M - Sales - Square Field Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls414"
+        },
+        "key": "5473172008",
+        "slug": "sls414",
+        "url": "https://hashtagweb3.com/sls414?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Territory Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "147d0ac4-56cc-43f3-9770-d8e9dbed24b8",
+          "title": "Senior Brand Designer",
+          "company": "0x",
+          "link": "https://jobs.ashbyhq.com/0x/147d0ac4-56cc-43f3-9770-d8e9dbed24b8",
+          "date": "2026-10-15T07:04:38.248+00:00",
+          "source": "Ashby: 0x [0x]",
+          "location": "Remote — North America (Aligned with U.S. Time Zones)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "des7"
+        },
+        "key": "147d0ac4-56cc-43f3-9770-d8e9dbed24b8",
+        "slug": "des7",
+        "url": "https://hashtagweb3.com/des7?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "0x",
+        "title": "Senior Brand Designer"
+      },
+      {
+        "snapshot": {
+          "id": "8330752",
+          "title": "Senior DevOps Engineer",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8330752?gh_jid=8330752",
+          "date": "2026-10-30T09:34:49-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "Dublin, Ireland",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "do23"
+        },
+        "key": "8330752",
+        "slug": "do23",
+        "url": "https://hashtagweb3.com/do23?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Senior DevOps Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "dac100e9-01f6-4bf5-9285-221d572f8278",
+          "title": "Trading Operations Lead",
+          "company": "Gauntlet",
+          "link": "https://jobs.lever.co/gauntlet/dac100e9-01f6-4bf5-9285-221d572f8278",
+          "date": "2026-10-12T13:54:41.299Z",
+          "source": "Lever: Gauntlet [gauntlet]",
+          "location": "Remote (Singapore / Hong Kong)",
+          "workplaceType": "remote",
+          "department": "Engineering",
+          "salary": "USD 120,000 - USD 140,000 per year",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops103"
+        },
+        "key": "dac100e9-01f6-4bf5-9285-221d572f8278",
+        "slug": "ops103",
+        "url": "https://hashtagweb3.com/ops103?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Gauntlet",
+        "title": "Trading Operations Lead"
+      },
+      {
+        "snapshot": {
+          "id": "ckba-payment-channel-team-lead",
+          "title": "Payment Channel Team Lead",
+          "company": "CKBA",
+          "link": "mailto:join@ckba.build?subject=Application%20for%20Payment%20Channel%20Team%20Lead",
+          "date": "2026-11-06T00:00:00.000Z",
+          "dateVerified": true,
+          "dateSource": "CKBA Official Job Description",
+          "source": "CKBA [ckba]",
+          "location": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "slug": "pct"
+        },
+        "key": "ckba-payment-channel-team-lead",
+        "slug": "pct",
+        "url": "https://hashtagweb3.com/pct?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CKBA",
+        "title": "Payment Channel Team Lead"
+      }
+    ],
+    "message": "- Block is hiring <a href=\"https://hashtagweb3.com/sls414?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Territory Account Executive, East Bronx</a>\n- 0x is hiring <a href=\"https://hashtagweb3.com/des7?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Brand Designer</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/do23?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior DevOps Engineer</a>\n- Gauntlet is hiring <a href=\"https://hashtagweb3.com/ops103?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Trading Operations Lead</a>\n- CKBA is hiring <a href=\"https://hashtagweb3.com/pct?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Payment Channel Team Lead</a>",
+    "slotKey": "2026-11-06:evening"
   }
 }
