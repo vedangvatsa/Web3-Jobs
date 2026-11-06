@@ -132111,11 +132111,41 @@
       ],
       "alsoCoveredBy": [],
       "id": "0a41f3c3e5fa0ea29198",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T17:51:00.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "articleSlug": "nearvote",
+      "draftProgress": {
+        "id": "0a41f3c3e5fa0ea29198",
+        "day": "2026-11-06",
+        "articleSlug": "nearvote",
+        "note": "Read the Unchained report of the Nov. 2 House of Stake result in full; the Crypto Economy and The Block coverage of HSP-029 and the primary NEAR announcement were located but the second source body still needs a full read, and no draft has been started. Watch for overlap with the earlier vote-opening story nearissuance.md.",
+        "sourceChecks": [
+          {
+            "url": "https://unchainedcrypto.com/near-blockchain-holders-vote-to-trim-max-issuance-to-1-6-pending-validator-adoption/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-06T00:49:49.980Z",
+        "approved": false,
+        "mustReview": true
+      },
+      "reason": "verified-event",
+      "note": "Read the Unchained report of the Nov. 2 House of Stake result and the Hodl Press account with the tally and next steps; drafted the vote outcome as a new event distinct from the earlier vote-opening story nearissuance.md, with a self-hosted European Parliament vote photo.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/near-blockchain-holders-vote-to-trim-max-issuance-to-1-6-pending-validator-adoption/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://hodl.press/near-community-approves-token-issuance-rate-cut-to-1-6",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-06T00:53:54.481Z",
+      "lastReviewedDay": "2026-11-06"
     },
     "32284406f9f1d13a7a88": {
       "source": "Bankless",
@@ -262984,6 +263014,23 @@
           ],
           "reviewedAt": "2026-11-06T00:49:47.354Z",
           "articleSlug": "cyberczar"
+        },
+        "0a41f3c3e5fa0ea29198": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the Unchained report of the Nov. 2 House of Stake result and the Hodl Press account with the tally and next steps; drafted the vote outcome as a new event distinct from the earlier vote-opening story nearissuance.md, with a self-hosted European Parliament vote photo.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/near-blockchain-holders-vote-to-trim-max-issuance-to-1-6-pending-validator-adoption/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://hodl.press/near-community-approves-token-issuance-rate-cut-to-1-6",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-06T00:53:54.481Z",
+          "articleSlug": "nearvote"
         }
       },
       "baselineSlugs": [
