@@ -132821,7 +132821,31 @@
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
       "attempts": 0,
       "expiresAt": "2026-11-06T14:01:02.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "articleSlug": "aztectierra",
+      "draftProgress": {
+        "id": "3134b34a9771fe614c23",
+        "day": "2026-11-06",
+        "articleSlug": "aztectierra",
+        "note": "Read the Aztec Foundation Tierra announcement, Decrypt and Altcoin Buzz coverage; draft, hero image and link checks still pending.",
+        "sourceChecks": [
+          {
+            "url": "https://aztec.network/blog/introducing-aztec-tierra",
+            "outcome": "read"
+          },
+          {
+            "url": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.altcoinbuzz.io/aztec-tierra-upgrade-patches-critical-v5-flaw-and-doubles-proof-speed",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-06T01:00:55.939Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "66798851e752e963ed7d": {
       "source": "The Block",
