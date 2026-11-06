@@ -146,6 +146,17 @@ function main() {
     if (!jobsBySlug.has(slug)) jobsBySlug.set(slug, []);
   }
 
+  // Non-native / general tech & TradFi firms excluded from the pure Web3 ranking
+  const EXCLUDED_NON_NATIVE_SLUGS = new Set([
+    'stripe',       // Traditional payments processor
+    'ramp',         // Traditional corporate card & spend management (ramp.com)
+    'robinhood',    // Traditional retail stock brokerage
+    'block',        // Traditional payments (Square / Cash App)
+    'alpaca',       // Traditional API stock brokerage
+    'drivewealth',  // Traditional embedded equity brokerage
+    'kalshi',       // CFTC regulated TradFi prediction market
+  ]);
+
   // Exact sets for verifiable stability classification
   const publicSlugs = new Set(['coinbase', 'robinhood', 'block', 'riot-platforms', 'hut-8', 'bitdeer']);
   const institutionalSlugs = new Set(['stripe', 'ripple', 'circle']);
@@ -161,6 +172,9 @@ function main() {
   const candidates: Top100Employer[] = [];
 
   for (const [slug, cJobs] of jobsBySlug.entries()) {
+    if (EXCLUDED_NON_NATIVE_SLUGS.has(slug.toLowerCase())) {
+      continue;
+    }
     const cRuntime = companiesRuntime[slug] || {};
     const mdMeta = mdMetaBySlug.get(slug) || {};
     const name = cRuntime.name || mdMeta.name || slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
