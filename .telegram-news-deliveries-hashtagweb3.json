@@ -3144,5 +3144,36 @@
     "slotKey": "2026-11-06:afternoon",
     "messageId": 156109,
     "sentAt": "2026-11-06T11:33:47.557Z"
+  },
+  "53ae1698-bdba-4321-9d65-e1f5d5ea9e46": {
+    "status": "reserved",
+    "reservedAt": "2026-11-06T19:35:07.321Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Chainalysis Links $6.4 Billion Binance Theft to North Korea",
+        "summary": "The TraderTraitor group mixed stolen assets with Bitget exploit funds, and authorities have frozen $2.8 billion.",
+        "link": "https://hashtagweb3.com/tradertraitor?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Chainalysis Ties $6.4 Billion Binance Hack to North Korea"
+      },
+      {
+        "index": -1,
+        "headline": "Y Combinator requests crypto startups for AI and stablecoin projects",
+        "summary": "The accelerator wants tools for AI fundraising, stablecoins for underserved users, and trading infrastructure for software agents.",
+        "link": "https://hashtagweb3.com/yccrypto?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Y Combinator's October crypto request puts AI fundraising and agent tools at the center"
+      },
+      {
+        "index": -1,
+        "headline": "FINMA approves first Swiss retail bitcoin fund",
+        "summary": "The regulator authorized the investment product for individual investors while keeping the issuer's identity private.",
+        "link": "https://hashtagweb3.com/swissetf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "FINMA clears Switzerland's first retail bitcoin ETF"
+      }
+    ],
+    "slotKey": "2026-11-06:evening"
   }
 }
