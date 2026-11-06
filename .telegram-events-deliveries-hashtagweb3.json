@@ -4748,5 +4748,53 @@
     "slotKey": "2026-11-05:evening",
     "messageId": 156100,
     "sentAt": "2026-11-05T19:44:29.206Z"
+  },
+  "9afd3a84-261d-4b79-aabd-9d1ce6315c0a": {
+    "status": "reserved",
+    "reservedAt": "2026-11-06T03:32:17.966Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "discovery-evt-dG5O5F5HU9O4ikF",
+        "slug": "solana-fitness-zone-dynamic-pilates-breakpoint-2026-11-16",
+        "name": "Solana Fitness Zone: Dynamic Pilates | Breakpoint 2026",
+        "startDate": "2026-11-16T07:00:00.000Z",
+        "keys": [
+          "discovery-evt-dg5o5f5hu9o4ikf",
+          "page:solana-fitness-zone-dynamic-pilates-breakpoint-2026-11-16:2026-11-16",
+          "luma:evt-dg5o5f5hu9o4ikf",
+          "luma-url:/solanapilates2",
+          "event:solanafitnesszonedynamicpilatesbreakpoint2026:2026-11-16:london"
+        ]
+      },
+      {
+        "id": "discovery-evt-yqbouX052XUmpA8",
+        "slug": "solana-fitness-zone-group-boxing-breakpoint",
+        "name": "Solana Fitness Zone: Group Boxing | Breakpoint 2026",
+        "startDate": "2026-11-16T08:00:00.000Z",
+        "keys": [
+          "discovery-evt-yqboux052xumpa8",
+          "page:solana-fitness-zone-group-boxing-breakpoint:2026-11-16",
+          "luma:evt-yqboux052xumpa8",
+          "luma-url:/solanaboxing",
+          "event:solanafitnesszonegroupboxingbreakpoint2026:2026-11-16:london"
+        ]
+      },
+      {
+        "id": "discovery-evt-IME1HwTy1ywWmub",
+        "slug": "solana-fitness-zone-rise-shine-yoga-monkedao-breakpoint",
+        "name": "Solana Fitness Zone: Rise & Shine Yoga by MonkeDAO | Breakpoint 2026",
+        "startDate": "2026-11-16T09:00:00.000Z",
+        "keys": [
+          "discovery-evt-ime1hwty1ywwmub",
+          "page:solana-fitness-zone-rise-shine-yoga-monkedao-breakpoint:2026-11-16",
+          "luma:evt-ime1hwty1ywwmub",
+          "luma-url:/monkesflow",
+          "event:solanafitnesszoneriseshineyogabymonkedaobreakpoint2026:2026-11-16:london"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-06:morning"
   }
 }
