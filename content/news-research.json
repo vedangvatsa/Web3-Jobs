@@ -133132,9 +133132,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "2e8e01540a9c9849a2a2",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T11:22:10.000Z",
       "lastSeenAt": "2026-11-04T00:03:58.707Z",
       "articleSlug": "liquidbacking",
@@ -133164,7 +133164,37 @@
         "updatedAt": "2026-11-06T01:26:29.913Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the Nov 3 federation announcement, the 4,270.54 BTC/L-BTC dashboard figures, the Oct 27-Nov 2 deposit sequence and the still-restricted federation peg-outs across four opened sources; hero image self-hosted from Wikimedia.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/liquid-network-restores-bitcoin-reserves-exploit",
+          "outcome": "read"
+        },
+        {
+          "url": "https://testnet.sideswap.io/news/the-liquid-peg-is-back-to-one-to-one/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://blog.blockstream.com/liquid-network-security-incident-assessment/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://x.com/Liquid_BTC/status/2117407283391214047",
+          "outcome": "read"
+        },
+        {
+          "url": "https://blog.liquid.net/liquid-network-staged-recovery-update/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-06T01:32:07.079Z",
+      "lastReviewedDay": "2026-11-06"
     },
     "4e8b9de8fcda7196c93e": {
       "source": "The Defiant",
@@ -263346,6 +263376,39 @@
           ],
           "reviewedAt": "2026-11-06T01:23:26.106Z",
           "articleSlug": "ldkprobe"
+        },
+        "2e8e01540a9c9849a2a2": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Nov 3 federation announcement, the 4,270.54 BTC/L-BTC dashboard figures, the Oct 27-Nov 2 deposit sequence and the still-restricted federation peg-outs across four opened sources; hero image self-hosted from Wikimedia.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/liquid-network-restores-bitcoin-reserves-exploit",
+              "outcome": "read"
+            },
+            {
+              "url": "https://testnet.sideswap.io/news/the-liquid-peg-is-back-to-one-to-one/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://blog.blockstream.com/liquid-network-security-incident-assessment/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://x.com/Liquid_BTC/status/2117407283391214047",
+              "outcome": "read"
+            },
+            {
+              "url": "https://blog.liquid.net/liquid-network-staged-recovery-update/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-06T01:32:07.079Z",
+          "articleSlug": "liquidbacking"
         }
       },
       "baselineSlugs": [
