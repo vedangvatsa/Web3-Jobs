@@ -132635,7 +132635,27 @@
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
       "attempts": 0,
       "expiresAt": "2026-11-06T15:00:18.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "articleSlug": "ldkprobe",
+      "draftProgress": {
+        "id": "72f0db748f62523a3cba",
+        "day": "2026-11-06",
+        "articleSlug": "ldkprobe",
+        "note": "Read CryptoSlate and Bitcoin Optech #429 on the LDK #5314 onion-message privacy fix; draft, image and outbound-link checks still pending.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptoslate.com/bitcoin-lightning-fix-blocks-a-probe-linking-private-channels-to-onchain-funding/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://bitcoinops.org/en/newsletters/2026/10/30",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-06T01:00:52.892Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "d3321a81a8fb1b39153d": {
       "source": "CoinDesk",
