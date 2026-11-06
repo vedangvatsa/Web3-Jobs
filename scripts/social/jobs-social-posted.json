@@ -110414,6 +110414,39 @@
       "attemptId": "09954a08-a07b-4463-a8c4-1faab4de0555",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Friday, 06-Nov-26 11:32:57 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AYie-yrhBwPg7NKPkeqMjic\"}"
+    },
+    {
+      "slug": "pm162",
+      "company": "Chainalysis",
+      "title": "Sr Product Marketing Manager, Platform",
+      "platform": "bluesky",
+      "postedAt": "2026-11-06T19:32:28.102Z",
+      "expectedText": "Chainalysis is hiring Sr Product Marketing Manager, Platform: https://hashtagweb3.com/pm162/bsky?og=7",
+      "snapshot": {
+        "id": "c3ad81f0-701a-42c7-b008-76fa4076a2dd",
+        "title": "Sr Product Marketing Manager, Platform",
+        "company": "Chainalysis",
+        "link": "https://jobs.ashbyhq.com/chainalysis-careers/c3ad81f0-701a-42c7-b008-76fa4076a2dd",
+        "date": "2026-10-28T15:26:41.499+00:00",
+        "source": "Ashby: Chainalysis [chainalysis-careers]",
+        "location": "Remote - USA",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "R&D",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm162"
+      },
+      "payload": {
+        "text": "Chainalysis is hiring Sr Product Marketing Manager, Platform: https://hashtagweb3.com/pm162/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/pm162/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/pm162.png?v=7",
+        "company": "Chainalysis",
+        "title": "Sr Product Marketing Manager, Platform",
+        "description": "Join Chainalysis as Sr Product Marketing Manager, Plat. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "f95206a5-2f88-40f4-a0dc-556dd05f4dd9",
+      "verification": "creating"
     }
   ]
 }
