@@ -141,7 +141,19 @@ Form follow-ups started on November 6 (receipts `form-readly-2026-11-06.json`, `
 
 - **Readly** `se.readly.com/publishers_info`: every field filled truthfully in-browser (incl. Gratis magazine availability, B2C type, reach + AI-workflow note), stopped at two items only the user can resolve: the required country dropdown has **no United States option** (European/British-Isles only — won't state a false registration country) and a reCAPTCHA v2. If no country fits our legal registration, follow up in the Readly thread asking the correct route for non-EU/EEA publishers instead of submitting.
 - **NewsPicks** `forms.gle/xcDNsPDA7tw28VW46` (= 編成許諾申請フォーム): field entry IDs mapped from `FB_PUBLIC_LOAD_DATA_`, all values prepared, direct formResponse POST rejected with `data-captcha-challenge-failed=true` (reCAPTCHA enforced, nothing submitted), so a **prefilled viewform URL** is open in the browser; user completes 3 radios + captcha + Submit.
-- **NewsBreak** registration at `mp.newsbreak.com/pss/signup` needs first/last name + email + password; representative has only the given name "Alex" (no invented surnames), so credentials await user input.
+- **NewsBreak** registration at `mp.newsbreak.com/pss/signup`: **account created and email activated on November 6** (first name Alex, last name HashtagWeb3, hi@hashtagweb3.com, generated password held locally in `.cache/newsbreak-password.txt`, never committed; confirmation email `welcome@newsbreakapp.me` id `7b75120c…` → activation link `mp.newsbreak.com/pss/activate-email?active_code=…` opened: "email has been activated"). Platform sign-in at `/pss/signin` returned a server error at completion time, so signing in and finishing the application remain a next step.
+
+#### Stale claim release (November 6, 2026)
+
+The user approved re-dispatching the three held claims via verified routes. Stale claim receipts were archived as `expansion-<slug>-2026-11-06-released-stale-claim.json`, the old receipt paths were cleared so fresh claims could be written, and the three sends are `accepted_by_resend`:
+
+| Target | Route verified | Resend id |
+|---|---|---|
+| BazQux | hello@bazqux.com (bazqux.com footer mailto) | `01a1b085-59d7…` |
+| AllSides (feedback) | feedback@allsides.com (decoded mailto on allsides.com/contact; same address the stale claim targeted — never dispatched, so no duplicate) | `01a1b087-75c6…` |
+| The Old Reader | hello@theoldreader.com (theoldreader.com/en/tos; registry's support@theoldreader.com route marked superseded) | `01a1b085-dbf8…` |
+
++3 fresh campaign sends accepted by Resend; delivery readbacks pending like the rest of the expansion waves.
 
 Delivery of these replies/form responses does not itself mean database/stream/catalog inclusion was granted; each thread keeps its own acceptance step.
 
