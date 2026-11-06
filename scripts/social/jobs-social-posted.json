@@ -111675,6 +111675,41 @@
       "attemptId": "9b0a1c8a-8493-4b6a-9708-d5f4bca30634",
       "verification": "verified",
       "postId": "0x800e5b075e8f96523a8a3b8297e16bb0ddbd0770"
+    },
+    {
+      "slug": "ops143",
+      "company": "BVNK",
+      "title": "Senior Business Operations & Strategy Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-06T19:36:19.839Z",
+      "expectedText": "BVNK is hiring Senior Business Operations & Strategy Manager\n\nhttps://hashtagweb3.com/ops143/fc?og=7",
+      "snapshot": {
+        "id": "5025273101",
+        "title": "Senior Business Operations & Strategy Manager",
+        "company": "BVNK",
+        "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5025273101",
+        "date": "2026-11-03T08:56:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BVNK [bvnk]",
+        "location": "London / NYC",
+        "department": "Operations",
+        "active": true,
+        "salary": "$165k – $210k/yr",
+        "dateVerified": true,
+        "slug": "ops143"
+      },
+      "payload": {
+        "text": "BVNK is hiring Senior Business Operations & Strategy Manager\n\nhttps://hashtagweb3.com/ops143/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops143/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "2b6df94b-83f1-4629-9b2a-1204491b335e",
+      "verification": "creating"
     }
   ]
 }
