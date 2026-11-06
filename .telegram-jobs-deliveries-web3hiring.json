@@ -14603,5 +14603,119 @@
     "slotKey": "2026-11-05:evening",
     "messageId": 171,
     "sentAt": "2026-11-05T19:46:15.037Z"
+  },
+  "a5102ab5-fd96-4717-8a8d-ed12f3751d5a": {
+    "status": "reserved",
+    "reservedAt": "2026-11-06T03:32:32.854Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5019132101",
+          "title": "Spots Operations Lead",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5019132101",
+          "date": "2026-11-04T04:34:22-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Abu Dhabi, UAE",
+          "department": "SBU & Assets",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops128"
+        },
+        "key": "5019132101",
+        "slug": "ops128",
+        "url": "https://hashtagweb3.com/ops128?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Spots Operations Lead"
+      },
+      {
+        "snapshot": {
+          "id": "7714d5ef-c07c-493c-a029-e8dc7f533288",
+          "title": "Senior Security Engineer",
+          "company": "Mysten Labs",
+          "link": "https://jobs.ashbyhq.com/mystenlabs/7714d5ef-c07c-493c-a029-e8dc7f533288",
+          "date": "2026-10-21T18:05:20.729+00:00",
+          "source": "Ashby: Mysten Labs [mystenlabs]",
+          "location": "USA (Remote)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Security",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec125"
+        },
+        "key": "7714d5ef-c07c-493c-a029-e8dc7f533288",
+        "slug": "sec125",
+        "url": "https://hashtagweb3.com/sec125?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Mysten Labs",
+        "title": "Senior Security Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8301260",
+          "title": "People Partner, Finance",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8301260",
+          "date": "2026-10-20T16:18:32-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "San Francisco, Seattle or NYC",
+          "department": "6550 People Partners",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ppf"
+        },
+        "key": "8301260",
+        "slug": "ppf",
+        "url": "https://hashtagweb3.com/ppf?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "People Partner"
+      },
+      {
+        "snapshot": {
+          "id": "6238217004",
+          "title": "VP, Senior Blockchain Security Engineer",
+          "company": "Galaxy Digital",
+          "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6238217004",
+          "date": "2026-10-29T06:02:51-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+          "location": "India",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec70"
+        },
+        "key": "6238217004",
+        "slug": "sec70",
+        "url": "https://hashtagweb3.com/sec70?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Galaxy Digital",
+        "title": "VP, Senior Blockchain Security Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "a640c7fd-3c66-40fe-b788-1b89c3a470dc",
+          "title": "Senior Engineer, Data Security",
+          "company": "Riot Platforms",
+          "link": "https://ats.rippling.com/riot-platforms-careers/jobs/a640c7fd-3c66-40fe-b788-1b89c3a470dc",
+          "date": "2026-11-05T08:36:48.338000-08:00",
+          "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+          "location": "Austin, TX",
+          "department": "Cybersecurity",
+          "active": true,
+          "slug": "sec90",
+          "dateVerified": true
+        },
+        "key": "a640c7fd-3c66-40fe-b788-1b89c3a470dc",
+        "slug": "sec90",
+        "url": "https://hashtagweb3.com/sec90?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Riot Platforms",
+        "title": "Senior Engineer"
+      }
+    ],
+    "message": "- Bybit is hiring <a href=\"https://hashtagweb3.com/ops128?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Spots Operations Lead</a>\n- Mysten Labs is hiring <a href=\"https://hashtagweb3.com/sec125?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Security Engineer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/ppf?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">People Partner, Finance</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/sec70?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VP, Senior Blockchain Security Engineer</a>\n- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/sec90?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Engineer, Data Security</a>",
+    "slotKey": "2026-11-06:morning"
   }
 }
