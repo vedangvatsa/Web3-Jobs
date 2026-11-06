@@ -5,7 +5,7 @@
   "originalMessageId": "<1792768742221.064b607e-61e9-4b60-8f7c-43037b8e4e2f@bf.hs-inbox.com>",
   "originalSubject": "Re: Hashtag Web3: publisher onboarding and automatic news-feed distribution",
   "originalFrom": "publishers@newsbreak.com",
-  "status": "claimed",
+  "status": "sent",
   "claimedAt": "2026-11-06T10:36:15.977Z",
   "recipient": "publishers@newsbreak.com",
   "payload": {
@@ -23,5 +23,6 @@
     }
   },
   "payloadSha256": "571612968e24dc88aef2aec050a547d903edb08f943ff2c82054fd97238ba842",
-  "providerId": null
+  "providerId": "01a1b06e-3d81-74d8-80d9-7a813ba9b8d1",
+  "sentAt": "2026-11-06T10:36:17.224Z"
 }
