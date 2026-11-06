@@ -107101,7 +107101,8 @@
       },
       "account": "profile",
       "attemptId": "ed35bd4e-7f1d-443e-929c-e43ba8b1f829",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe49796031cf96f8806d49690bfe8f258f7e4116d"
     }
   ]
 }
