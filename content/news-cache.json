@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-06T00:28:25.198Z",
+  "generatedAt": "2026-11-06T03:31:23.125Z",
   "items": [
+    {
+      "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+      "link": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
+      "pubDate": "Fri, 06 Nov 2026 02:24:23 +0000",
+      "creator": "Jesse Hamilton",
+      "contentSnippet": "The company said it's trying to establish a U.S. \"futures commission merchant\" with full compliance for activity with U.S. clients, though the timing ...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
+      "link": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
+      "pubDate": "Fri, 06 Nov 2026 01:30:00 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "Anyone trying to move vulnerable bitcoin would have to put up matching collateral, giving prepared owners a chance to take both.",
+      "source": "Coindesk"
+    },
     {
       "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
       "link": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -88,6 +104,14 @@
       "creator": "Brian Danga",
       "contentSnippet": "Base activated its fourth network upgrade, Denim, introducing five canonical blocks per second at 200ms intervals.",
       "source": "The Block"
+    },
+    {
+      "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
+      "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
+      "pubDate": "Thu, 05 Nov 2026 18:48:40 +0000",
+      "creator": "Krisztian Sandor",
+      "contentSnippet": "The post-election rally quickly reversed as AI stocks plunged, but cryptocurrencies held up relatively better despite a $1 billion liquidation wave.",
+      "source": "Coindesk"
     },
     {
       "title": "Fed, OCC check US banks after Binance hack as experts flag security risks ",
@@ -408,14 +432,6 @@
       "creator": "Danny Park",
       "contentSnippet": "Democrats are set to reorient the crypto policy debate toward stronger consumer protections and regulatory accountability, the group said.",
       "source": "The Block"
-    },
-    {
-      "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
-      "link": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
-      "pubDate": "Thu, 05 Nov 2026 04:11:33 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "A wallet supposedly linked to Trump Media has made a large BTC transfer to Crypto.com, data tracked by Arkham show.",
-      "source": "Coindesk"
     },
     {
       "title": "India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’",
