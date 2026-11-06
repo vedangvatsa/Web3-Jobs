@@ -140837,11 +140837,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "f11a7e8949a38bb7cabc",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-08T11:30:00.000Z",
-      "lastSeenAt": "2026-11-06T00:28:20.054Z"
+      "lastSeenAt": "2026-11-06T00:28:20.054Z",
+      "reason": "source-blocked",
+      "note": "CoinDesk markets piece returned HTTP 429 on both WebFetch and a curl GET with the readiness User-Agent; could not read any text to verify the Injective staked ETF listing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-06T00:33:19.169Z",
+      "retrySearches": [
+        "Find readable reporting on the Injective staked ETF listing of Nov. 5 2026 and any second independent source covering it"
+      ],
+      "lastReviewedDay": "2026-11-06",
+      "nextReviewDate": "2026-11-07"
     },
     "b2939c80131bac231b32": {
       "source": "Unchained",
@@ -262599,6 +262613,21 @@
           "reviewedAt": "2026-11-06T00:32:56.219Z",
           "duplicateOf": "equityperps",
           "mergedInto": "447f7cccc91b207972c7"
+        },
+        "f11a7e8949a38bb7cabc": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "CoinDesk markets piece returned HTTP 429 on both WebFetch and a curl GET with the readiness User-Agent; could not read any text to verify the Injective staked ETF listing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-06T00:33:19.169Z",
+          "retrySearches": [
+            "Find readable reporting on the Injective staked ETF listing of Nov. 5 2026 and any second independent source covering it"
+          ]
         }
       },
       "baselineSlugs": [
