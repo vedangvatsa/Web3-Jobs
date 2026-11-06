@@ -885,6 +885,9 @@
   "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
   "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
   "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+  "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+  "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+  "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2436,6 +2439,12 @@
   "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
   "Meta adds video chat feature to Muse AI avatars",
   "Meta says US users can now video chat with their Muse AI avatar",
+  "Agility Robotics launches public listing on Nasdaq",
+  "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+  "Palo Alto Networks negotiates $500 million Clutch acquisition",
+  "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+  "Hundreds of Artex AI hacking servers found exposed online",
+  "Hundreds of Artex AI hacking tools found publicly exposed to the web",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2838,5 +2847,8 @@
   "fp:350m|acquir|agent|algorithm|bolster|build|complex|data|developer|dollar",
   "fp:agent|automat|axiom|complex|formally|keep|library|massiv|math|mathematic",
   "fp:alleg|claim|complaint|facilitat|her|his|husband|introduc|lawsuit|legal",
-  "fp:add|animat|avatar|call|can|chat|customizabl|devic|featur|interact"
+  "fp:add|animat|avatar|call|can|chat|customizabl|devic|featur|interact",
+  "fp:agility|commercial|complet|debut|demand|hardwar|humanoid|investor|invit|list",
+  "fp:500m|acquisition|agent|alto|buy|clutch|cybersecurity|firm|negotiat|network",
+  "fp:access|artex|connect|expos|found|hack|hundr|identifi|internet|onlin"
 ]

@@ -3241,7 +3241,7 @@
     "sentAt": "2026-11-06T03:34:08.646Z"
   },
   "8150349c-d12d-4fce-adf7-f4f659e8b29e": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-06T19:32:44.030Z",
     "stories": [
       {
@@ -3273,6 +3273,8 @@
         "originalTitle": "Hundreds of Artex AI hacking tools found publicly exposed to the web"
       }
     ],
-    "slotKey": "2026-11-06:evening"
+    "slotKey": "2026-11-06:evening",
+    "messageId": 193465,
+    "sentAt": "2026-11-06T19:32:48.508Z"
   }
 }
