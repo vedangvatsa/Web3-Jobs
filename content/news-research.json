@@ -131375,11 +131375,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "586d17060cdd77a4a1ee",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T23:05:00.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "opinion",
+      "note": "Read the full piece: it reports podcast remarks by Austin Campbell calling for a 24-hour clock on billion-dollar transfers, plus his view that crypto optimized for tech risk. No regulator, protocol or exchange has proposed or adopted such a rule; it is one commentator's advocacy on Unchained's own Bits + Bips episode with no independent second source reporting a concrete action.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/after-binances-6-3-billion-hack-austin-campbell-calls-for-a-24-hour-clock-on-billion-dollar-crypto-moves/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-06T00:41:41.640Z",
+      "lastReviewedDay": "2026-11-06"
     },
     "02b4dc051b41afb48966": {
       "source": "BeInCrypto",
@@ -262772,6 +262782,18 @@
             }
           ],
           "reviewedAt": "2026-11-06T00:41:37.146Z"
+        },
+        "586d17060cdd77a4a1ee": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Read the full piece: it reports podcast remarks by Austin Campbell calling for a 24-hour clock on billion-dollar transfers, plus his view that crypto optimized for tech risk. No regulator, protocol or exchange has proposed or adopted such a rule; it is one commentator's advocacy on Unchained's own Bits + Bips episode with no independent second source reporting a concrete action.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/after-binances-6-3-billion-hack-austin-campbell-calls-for-a-24-hour-clock-on-billion-dollar-crypto-moves/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-06T00:41:41.640Z"
         }
       },
       "baselineSlugs": [
