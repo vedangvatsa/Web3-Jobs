@@ -107036,6 +107036,38 @@
       "attemptId": "b44d0f04-d31e-465b-bd36-d8654766edd1",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Thursday, 05-Nov-26 19:32:29 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AuJdzWb5TnsHZQlB9L0kLnp\"}"
+    },
+    {
+      "slug": "sls223",
+      "company": "Block",
+      "title": "Senior Sales Account Executive",
+      "platform": "bluesky",
+      "postedAt": "2026-11-06T03:32:09.954Z",
+      "expectedText": "Block is hiring Senior Sales Account Executive: https://hashtagweb3.com/sls223/bsky?og=7",
+      "snapshot": {
+        "id": "5471720008",
+        "title": "Senior Sales Account Executive",
+        "company": "Block",
+        "link": "http://block.xyz/careers/jobs/5471720008?gh_jid=5471720008",
+        "date": "2026-11-03T16:56:42-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Block [block]",
+        "location": "London, United Kingdom",
+        "department": "20213 S&M - Sales - Square Outside",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls223"
+      },
+      "payload": {
+        "text": "Block is hiring Senior Sales Account Executive: https://hashtagweb3.com/sls223/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/sls223/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/sls223.png?v=7",
+        "company": "Block",
+        "title": "Senior Sales Account Executive",
+        "description": "Join Block as Senior Sales Account Executive. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "e12f419e-e96e-4f82-b22c-6ac0345cbaf7",
+      "verification": "creating"
     }
   ]
 }
