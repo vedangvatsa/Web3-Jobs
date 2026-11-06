@@ -1,0 +1,27 @@
+{
+  "target": "info@coincheckup.com",
+  "channel": "inbound-reply",
+  "originalReceivedEmailId": "67f92a25-eab1-47e6-aa34-724fad073e91",
+  "originalMessageId": "<CAMvN33be9-8YNq3RtNkDFDqB3WtUJ5kS+d4y=dGF2rg3g9z=Jg@mail.gmail.com>",
+  "originalSubject": "Re: Hashtag Web3: publisher onboarding and automatic news-feed distribution",
+  "originalFrom": "info@coincheckup.com",
+  "status": "claimed",
+  "claimedAt": "2026-11-06T10:26:45.583Z",
+  "recipient": "info@coincheckup.com",
+  "payload": {
+    "from": "Hashtag Web3 <hi@hashtagweb3.com>",
+    "reply_to": "hi@hashtagweb3.com",
+    "to": [
+      "info@coincheckup.com"
+    ],
+    "subject": "Re: Hashtag Web3: publisher onboarding and automatic news-feed distribution",
+    "text": "Hello CoinCheckup team,\n\nTo answer your question: we are proposing a free content-syndication arrangement - no fees in either direction, and no paid licensing required from you.\n\nConcretely, what we offer at no cost:\n\n- Ongoing supply of our native news articles through our RSS feed: https://hashtagweb3.com/news/feed.xml (headlines, summaries, original publication dates, canonical links back to hashtagweb3.com)\n- Attribution to Hashtag Web3 as the publisher and canonical links to the original article on our site - we are not proposing rewriting or republishing without attribution\n- Image-rights information for our original images where required\n\nIf CoinCheckup's program requires a standard partnership or licensing agreement, we are open to reviewing it, but our proposal itself is a free syndication arrangement.\n\nPublication: https://hashtagweb3.com/news\nAbout: https://hashtagweb3.com/about\nExample native article: https://hashtagweb3.com/bitgetthai\n\nEditorially, our workflow uses AI-assisted research and drafting with source and publication checks. Our news listing also links to external publishers; those external stories are not supplied as our own content. Please advise on your AI-disclosure requirements and next steps.\n\nThank you,\nHashtag Web3 - hi@hashtagweb3.com",
+    "html": "<p>Hello CoinCheckup team,</p>\n\n<p>To answer your question: we are proposing a <strong>free content-syndication arrangement</strong> &mdash; no fees in either direction, and no paid licensing required from you.</p>\n\n<p>Concretely, what we offer at no cost:</p>\n\n<ul>\n<li>Ongoing supply of our native news articles through our RSS feed: <a href=\"https://hashtagweb3.com/news/feed.xml\">https://hashtagweb3.com/news/feed.xml</a> (headlines, summaries, original publication dates, canonical links back to hashtagweb3.com)</li>\n<li>Attribution to Hashtag Web3 as the publisher and canonical links to the original article on our site &mdash; we are not proposing rewriting or republishing without attribution</li>\n<li>Image-rights information for our original images where required</li>\n</ul>\n\n<p>If CoinCheckup's program requires a standard partnership or licensing agreement, we are open to reviewing it, but our proposal itself is a free syndication arrangement.</p>\n\n<p>Publication: <a href=\"https://hashtagweb3.com/news\">https://hashtagweb3.com/news</a> &middot; About: <a href=\"https://hashtagweb3.com/about\">https://hashtagweb3.com/about</a> &middot; Example native article: <a href=\"https://hashtagweb3.com/bitgetthai\">https://hashtagweb3.com/bitgetthai</a></p>\n\n<p>Editorially, our workflow uses AI-assisted research and drafting with source and publication checks. Our news listing also links to external publishers; those external stories are not supplied as our own content. Please advise on your AI-disclosure requirements and next steps.</p>\n\n<p>Thank you,<br>Hashtag Web3 &mdash; <a href=\"mailto:hi@hashtagweb3.com\">hi@hashtagweb3.com</a></p>",
+    "headers": {
+      "In-Reply-To": "<CAMvN33be9-8YNq3RtNkDFDqB3WtUJ5kS+d4y=dGF2rg3g9z=Jg@mail.gmail.com>",
+      "References": "<CAMvN33be9-8YNq3RtNkDFDqB3WtUJ5kS+d4y=dGF2rg3g9z=Jg@mail.gmail.com>"
+    }
+  },
+  "payloadSha256": "a4ba4f39e0d9250711286275cb24af04b1ee8cad258a570f9d9f4f8b9f97e285",
+  "providerId": null
+}
