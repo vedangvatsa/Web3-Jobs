@@ -136472,11 +136472,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "4051989b30ae1d4f9b2a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-05T00:28:26.536Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-07T22:00:00.000Z",
-      "lastSeenAt": "2026-11-05T00:28:26.536Z"
+      "lastSeenAt": "2026-11-05T00:28:26.536Z",
+      "reason": "duplicate",
+      "note": "Bitcoin Magazine reports the same Nov. 3 ruling by Judge Valerie Caproni denying the Capital Markets Alliance's TRO while finding the alliance likely to succeed, which content/articles/equityperps.md (published 2026-11-06) already covers, including the Nov. 6/Nov. 10 briefing schedule.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/judge-lets-stock-perps-keep-trading-cftc",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-06T01:41:48.625Z",
+      "duplicateOf": "equityperps",
+      "mergedInto": "447f7cccc91b207972c7",
+      "lastReviewedDay": "2026-11-06"
     },
     "240f0cdeb3955ed3ce77": {
       "source": "The Defiant",
@@ -263578,6 +263590,20 @@
           "note": "Headline concerns Asian equity indexes and oil prices after a US vote. No concrete crypto or blockchain event; it is macro price chatter with no on-topic development to report.",
           "sourceChecks": [],
           "reviewedAt": "2026-11-06T01:41:04.495Z"
+        },
+        "4051989b30ae1d4f9b2a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Bitcoin Magazine reports the same Nov. 3 ruling by Judge Valerie Caproni denying the Capital Markets Alliance's TRO while finding the alliance likely to succeed, which content/articles/equityperps.md (published 2026-11-06) already covers, including the Nov. 6/Nov. 10 briefing schedule.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/judge-lets-stock-perps-keep-trading-cftc",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-06T01:41:48.625Z",
+          "duplicateOf": "equityperps",
+          "mergedInto": "447f7cccc91b207972c7"
         }
       },
       "baselineSlugs": [
