@@ -1,0 +1,27 @@
+{
+  "target": "support@cision.com",
+  "channel": "inbound-reply",
+  "originalReceivedEmailId": "7f6d4a8c-fb4d-489d-beb7-2aff1a3723ab",
+  "originalMessageId": "<4b8118ee-0719f3ff-1793961726-215476696176824-2534313@outbound.intercom.cision.com>",
+  "originalSubject": "Re: Hashtag Web3: publisher onboarding and automatic news-feed distribution",
+  "originalFrom": "support@cision.com",
+  "status": "claimed",
+  "claimedAt": "2026-11-06T11:23:58.646Z",
+  "recipient": "support@cision.com",
+  "payload": {
+    "from": "Hashtag Web3 <hi@hashtagweb3.com>",
+    "reply_to": "hi@hashtagweb3.com",
+    "to": [
+      "support@cision.com"
+    ],
+    "subject": "Re: Hashtag Web3: publisher onboarding and automatic news-feed distribution",
+    "text": "Hi Kaustav,\n\nThanks for picking this up. Answers to your two questions:\n\n1. Which account: we do not have a Cision/ CisionOne account - this inquiry is from a prospective source, not an existing customer. Hashtag Web3 (a United States organization publishing English-language crypto and Web3 news) started with the email route to your support inbox on November 4; your Support AI and the CisionOne support team thread are the same conversation you just picked up. Our aim: our published news articles tracked as content from Hashtag Web3 in CisionOne monitoring streams (and inclusion in the media database if that is part of the setup path for a prospective source).\n\n2. Is the RSS feed already set up: yes. Our feed is live and self-hosted:\n\n- RSS 2.0: https://hashtagweb3.com/news/feed.xml (headline, summary, original publication date, canonical link per item)\n- Publication: https://hashtagweb3.com/news\n- Example native article: https://hashtagweb3.com/bitgetthai\n- About: https://hashtagweb3.com/about - Contact: hi@hashtagweb3.com\n\nReach context: 55 million job-post views in the last year, 26 million LinkedIn views last month, 150,000 newsletter subscribers, 60,000 Telegram members, weekly X Spaces with 20,000-40,000 listeners.\n\nEditorial note: our workflow uses AI-assisted research and drafting with source and publication checks; our news listing also links to external publishers, and those external stories are not supplied as our own content.\n\nSince we have no account, please let us know if a different setup path (form, contact, or onboarding step) applies, and we will follow it exactly.\n\nThank you,\nHashtag Web3 - hi@hashtagweb3.com",
+    "html": "<p>Hi Kaustav,</p>\n\n<p>Thanks for picking this up. Answers to your two questions:</p>\n\n<p><strong>1. Which account:</strong> we do not have a Cision / CisionOne account &mdash; this inquiry is from a prospective source, not an existing customer. Hashtag Web3 (a United States organization publishing English-language crypto and Web3 news) started with the email route to your support inbox on November 4; your Support AI and the CisionOne support-team thread are the same conversation you just picked up. Our aim: our published news articles tracked as content from Hashtag Web3 in CisionOne monitoring streams (and inclusion in the media database if that is part of the setup path for a prospective source).</p>\n\n<p><strong>2. Is the RSS feed already set up:</strong> yes. Our feed is live and self-hosted:</p>\n\n<ul>\n<li>RSS 2.0: <a href=\"https://hashtagweb3.com/news/feed.xml\">https://hashtagweb3.com/news/feed.xml</a> (headline, summary, original publication date, canonical link per item)</li>\n<li>Publication: <a href=\"https://hashtagweb3.com/news\">https://hashtagweb3.com/news</a></li>\n<li>Example native article: <a href=\"https://hashtagweb3.com/bitgetthai\">https://hashtagweb3.com/bitgetthai</a></li>\n<li>About: <a href=\"https://hashtagweb3.com/about\">https://hashtagweb3.com/about</a> &middot; Contact: <a href=\"mailto:hi@hashtagweb3.com\">hi@hashtagweb3.com</a></li>\n</ul>\n\n<p>Reach context: 55 million job-post views in the last year, 26 million LinkedIn views last month, 150,000 newsletter subscribers, 60,000 Telegram members, weekly X Spaces with 20,000&ndash;40,000 listeners.</p>\n\n<p>Editorial note: our workflow uses AI-assisted research and drafting with source and publication checks; our news listing also links to external publishers, and those external stories are not supplied as our own content.</p>\n\n<p>Since we have no account, please let us know if a different setup path (form, contact, or onboarding step) applies, and we will follow it exactly.</p>\n\n<p>Thank you,<br>Hashtag Web3 &mdash; <a href=\"mailto:hi@hashtagweb3.com\">hi@hashtagweb3.com</a></p>",
+    "headers": {
+      "In-Reply-To": "<4b8118ee-0719f3ff-1793961726-215476696176824-2534313@outbound.intercom.cision.com>",
+      "References": "<4b8118ee-0719f3ff-1793961726-215476696176824-2534313@outbound.intercom.cision.com>"
+    }
+  },
+  "payloadSha256": "a8f7a81734f4702e42d218191af306e50635603cc148b0cd7d01797828578875",
+  "providerId": null
+}
