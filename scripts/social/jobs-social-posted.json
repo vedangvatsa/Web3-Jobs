@@ -110661,7 +110661,8 @@
       },
       "account": "channel:dev",
       "attemptId": "134d3c1a-6253-4b8c-a1e5-72e6e8f7e5d8",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe0b95f9df63807e3efd380033e962760b42e6814"
     }
   ]
 }
