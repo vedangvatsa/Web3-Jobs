@@ -1464,55 +1464,6 @@
     }
   },
   {
-    "id": "luma-batch-9ARpsi5voA8EtMv",
-    "slug": "syl9hjc2",
-    "name": "BitDevs Toronto",
-    "description": "Toronto BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.\n\nWe’ll be digging into technical topics, proposals, research, and developments across the Bitcoin ecosystem. You don’t need to be an expert to join, all are welcome!\n\nThe topics will be posted before the meeting begins at: https://bitdevs.to\n\nSchedule\n\n6:00 PM - Doors open\n\n6:30 - 8:30 PM - Technical topics & discussion\n\n8:30 PM - Drinks & food at a nearby bar (pay your own way)\n\nThe venue for this meeting is sponsored by Bitcoin Bay and the BitDevs Toronto website domain is sponsored by Lygos Finance.\n\nFree to attend.",
-    "startDate": "2026-10-06T22:00:00.000Z",
-    "endDate": "2026-10-07T00:30:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "600 Bay Street, 600 Bay Street, 600 Bay St., Toronto, ON M5G 0B4, Canada",
-    "url": "https://luma.com/syl9hjc2",
-    "registrationUrl": "https://luma.com/syl9hjc2",
-    "coverImage": "/events/luma-batch-9ARpsi5voA8EtMv-5f913fca.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "BitDevs Toronto"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "America/Toronto",
-    "neighborhood": "Yonge-Bay Corridor",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "600 Bay Street",
-    "addressLocality": "Toronto",
-    "addressRegion": "Ontario",
-    "addressCountry": "CA",
-    "organizer": {
-      "type": "Organization",
-      "name": "BitDevs Toronto"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/syl9hjc2",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/syl9hjc2",
-      "eventId": "evt-9ARpsi5voA8EtMv",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-hPFyfHyof2hYVIp",
     "slug": "kv670yys",
     "name": "SOIRÉE XD #20",
@@ -4444,36 +4395,6 @@
     "sourceVerification": {
       "url": "https://luma.com/5xp9r8xd",
       "eventId": "evt-zJSbBU29gOHYbkM",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtjDoErMvoz0EqG",
-    "slug": "ovbndjm6",
-    "name": "The Future of Payments: Fintech Meetup Europe",
-    "description": "Join zerohash, Greendot, Paymentology, and Qivalis after day 1 of Fintech Meetup Europe, alongside industry leaders in fintech, banking, and payments for drinks, food, and conversation about the future of money movement and the convergence of traditional and digital asset payments.\n\n📍 Kais Restaurante, Lisbon — a former 19th-century steam energy warehouse on the Lisbon docks, once used to power the city's trams, now transformed into one of the city's most striking event spaces.\n\nSpace is limited so RSVP today.\n\n## Event details\n\nOrganized by Personal. Venue: Kais Restaurant & Events, Kais Restaurant & Events, Cais da Viscondessa, 1200-109 Lisboa, Portugal. Tickets: Free.",
-    "startDate": "2026-10-06T17:00:00.000Z",
-    "endDate": "2026-10-06T20:00:00.000Z",
-    "city": "Lisboa",
-    "country": "Portugal",
-    "location": "Kais Restaurant & Events, Kais Restaurant & Events, Cais da Viscondessa, 1200-109 Lisboa, Portugal",
-    "url": "https://luma.com/ovbndjm6",
-    "registrationUrl": "https://luma.com/ovbndjm6",
-    "coverImage": "/events/luma-batch-evtjDoErMvoz0EqG-17dc27e9.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Lisbon",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/ovbndjm6",
-      "eventId": "evt-jDoErMvoz0EqGcJ",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

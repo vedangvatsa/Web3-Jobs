@@ -4471,26 +4471,6 @@ Attendance is complimentary and subject to host approval.
 
 Registration is listed as free.
 
-<a id="event-d1d6495434e469d9"></a>
-
-## Founders Run & Rave
-
-- Record: `token2049-evt-icR0VbRLRvvXJaw`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-06T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/p1ql2gs7>
-
-### About the event
-
-Founders Run & Rave is scheduled for 7 October 2026 at 06:00 (Asia/Singapore) in Singapore. Hosted by Orviq Labs.
-
-Morning run around Marina Bay
-
-Drinks & post-run conversations
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
 <a id="event-ca08a6b4918b6bbe"></a>
 
 ## Collably Matchmaking Network — TOKEN2049 Singapore Week
@@ -4522,22 +4502,6 @@ Registration is listed as free.
 BTCC Traders Club @ TOKEN2049 is scheduled for 7 October 2026 at 07:30 (Asia/Singapore) in Singapore. Hosted by BTCC.
 
 You'll find us on Level 1, the first booth you see as you walk in.
-
-Registration is listed as free.
-
-<a id="event-07029c03afd37e62"></a>
-
-## ONE OF US Run & Coffee // Aya, Cudis, 071Labs, & Aethir
-
-- Record: `token2049-evt-W03OB5sltwcVN8a`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-06T23:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/bxuvc1dc>
-
-### About the event
-
-ONE OF US Run & Coffee // Aya, Cudis, 071Labs, & Aethir is scheduled for 7 October 2026 at 07:30 (Asia/Singapore) in Singapore. Hosted by Aya Trade, ONE OF US, Rafik Fellal, Fady.
 
 Registration is listed as free.
 
@@ -4872,22 +4836,6 @@ Two sessions, back to back: Mauvis Ledford (Founder of Sogni, ex-CTO of CoinMark
 Own your AI intelligence Session
 
 Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
-<a id="event-e1e201938134ebe9"></a>
-
-## Block Zero - Run Club - Day 1
-
-- Record: `token2049-official-6aab60b3f5de78483fb5c758`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-07T06:30:00+08:00
-- Description: Source-backed
-- Original page: <https://week.token2049.com>
-
-### About the event
-
-Block Zero - Run Club - Day 1 is scheduled for 7 October 2026 at 06:30 (Asia/Singapore) in Singapore. Hosted by Quarry.
-
-Attendance is by invitation according to the published schedule.
 
 <a id="event-2bca3c1e1b1f3445"></a>
 
@@ -19857,28 +19805,6 @@ Speakers dinner - Raffles Hotel, October 6 VIP room (SOLD OUT) experience with H
 
 If you are planning your week around the best rooms, best people, and best after-hours plans, this is where it begins.
 
-<a id="event-76b1ae4762528431"></a>
-
-## The Future of Payments: Fintech Meetup Europe
-
-- Record: `luma-batch-evtjDoErMvoz0EqG`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-06T17:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ovbndjm6>
-
-### About the event
-
-Join zerohash, Greendot, Paymentology, and Qivalis after day 1 of Fintech Meetup Europe, alongside industry leaders in fintech, banking, and payments for drinks, food, and conversation about the future of money movement and the convergence of traditional and digital asset payments.
-
-Kais Restaurante, Lisbon - a former 19th-century steam energy warehouse on the Lisbon docks, once used to power the city's trams, now transformed into one of the city's most striking event spaces.
-
-Space is limited so RSVP today.
-
-### Event details
-
-Organized by Personal. Venue: Kais Restaurant & Events, Kais Restaurant & Events, Cais da Viscondessa, 1200-109 Lisboa, Portugal. Tickets: Free.
-
 <a id="event-10a2d2e41a2fdc7e"></a>
 
 ## TFOT: Global Innovation Showcase: Deep Tech, Dual Tech, FinTech, Web3, Global Expansion and Scaling at SF War Memorial
@@ -20058,36 +19984,6 @@ Loop8 is an AI and Cloud Transformation partner helping startups and SMBs build 
 Google | Microsoft | Oracle | OpenAI | IBM | TeslaU.S. Army | Internet Computer | Binance | ServiceNow | Hedera | LBankOKX | Stanford University | Gate | World | Gnus.AI | Founders BayMinidoge | Cole-Frieman & Mallon | Filecoin Foundation | Hotcoin Global | Unstoppable Domains | TBVBGA | FIO | OnePiece Labs | Berkeley University | 0xlabs | BitgetAvalanche | Access Granted | Near | TiE | Xecret.io | Animoca Brands
 
 Cryptoniteuae | Bitcoin World | CoinPedia | Voice of Crypto | Bitcoin Insider |The Globe and MailThe Crypto Magazine | All Crypto Whitepaper | Kryptologist | The Blockpedia | BenzingaBusiness Insurance | The Chronicle Journal | openPR | Harbinger Times | MarketnomyCoin Gabbar | Counter Statistics | Crypto Pears | Trade Base | Crypto GraphBD Ventures | Traders Brawl | TUA Crypto | Coin Zebro | Crypto CrazeThe Bit Crypto | Crypto Papers | Crypto News Bulls | Crypto Tion | Bitcoin All
-
-<a id="event-5b25b6421bc3dd8a"></a>
-
-## BitDevs Toronto
-
-- Record: `luma-batch-9ARpsi5voA8EtMv`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-06T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/syl9hjc2>
-
-### About the event
-
-Toronto BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.
-
-We'll be digging into technical topics, proposals, research, and developments across the Bitcoin ecosystem. You don't need to be an expert to join, all are welcome!
-
-The topics will be posted before the meeting begins at: https://bitdevs.to
-
-### Schedule
-
-6:00 PM - Doors open
-
-6:30 - 8:30 PM - Technical topics & discussion
-
-8:30 PM - Drinks & food at a nearby bar (pay your own way)
-
-The venue for this meeting is sponsored by Bitcoin Bay and the BitDevs Toronto website domain is sponsored by Lygos Finance.
-
-Free to attend.
 
 <a id="event-cc93eafbf5cdf551"></a>
 
@@ -28369,30 +28265,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-c83aa72578364a72"></a>
-
-## The Institutional Stack: VIP Lunch by Chainalysis, Definitive & Utila
-
-- Record: `w3v-institutional-stack-vip-lunch-chainalysis-definitive-26-10-07`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-06T19:30:00.000Z
-- Description: Unverified stored copy
-- Original page: <http://luma.com/v3fntqy3>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-699e66362de20978"></a>
-
-## Founders Run & Rave
-
-- Record: `w3v-founders-run-rave-26-10-07`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-06T22:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/p1ql2gs7>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-92c7f01c3c51be0f"></a>
 
 ## Digital Asset Summit Asia 2026
@@ -28555,18 +28427,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-06T23:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/a3dvp6r5>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-cfcc004d32ab14fc"></a>
-
-## TOKEN2049 SINGAPORE 2026
-
-- Record: `dtt-token2049-singapore-2026`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-07T00:00:00.000Z
-- Description: Missing
-- Original page: <https://token2049.com/singapore?utm_source=newsletter&utm_medium=email&utm_campaign=singapore_2026>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -44721,6 +44581,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-1b32536a8cca2c4f"></a>
+
+## Intro to Soldering & Electronics: Make a Mini Piano
+
+- Record: `luma-evt-ZCKHplcZChaOSWv`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-07T19:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/vwjbgb4s>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-6fc2ecce1f1dff1e"></a>
 
 ## Mathematical Sociodynamics reading group (Psychohistory but real)
@@ -45968,6 +45840,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-13T23:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/d2ykxhh1>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-63807a3ec631bce9"></a>
+
+## Co-Hack Night / Double Down Hacker House × Builders Collective
+
+- Record: `luma-evt-Rz7sBo6z8IBAzcE`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-13T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/b36lmsha>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -47242,6 +47126,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-19T11:00:00-06:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-chicago/events/317065030/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-b27cd8eafcb1d429"></a>
+
+## Live AI Crypto Trading Demo + Founder Q&A
+
+- Record: `mu-317208919`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19T11:00:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/carpoolcrypto/events/317208919/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

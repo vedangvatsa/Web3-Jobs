@@ -374,20 +374,6 @@
     }
   },
   {
-    "id": "dtt-token2049-singapore-2026",
-    "name": "TOKEN2049 SINGAPORE 2026",
-    "description": "",
-    "startDate": "2026-10-07T00:00:00.000Z",
-    "endDate": "2026-10-07T00:00:00.000Z",
-    "city": "SINGAPORE 2026October 7-8, 2026Singapore",
-    "country": "",
-    "location": "SINGAPORE 2026October 7-8, 2026Singapore",
-    "url": "https://token2049.com/singapore?utm_source=newsletter&utm_medium=email&utm_campaign=singapore_2026",
-    "coverImage": "/events/dtt-token2049-singapore-2026-8acafa60.webp",
-    "source": "deeptechtimes",
-    "month": "October 2026"
-  },
-  {
     "id": "w3v-definition-singapore-2026",
     "name": "DeFinition Singapore 2026",
     "description": "We are tired of hearing the real conversations happening in the side rooms while the stage is totally scripted. We are fixing it this year in Singapore.\n\nOne day, six panels, and 0 polite corporate platitudes - let's spice up the room.\n\n[Website: definition.global](https://definition.global)\nX (Twitter): [x.com/definition_evt](https://x.com/definition_evt)\n[LinkedIn: linkedin.com/company/definition-global](https://www.linkedin.com/company/definition-global)\n\nOn stage: Galaxy, Chainlink, Pantera Capital, Anchorage Digital, Cumberland, Spartan, Securitize, Centrifuge, M0, Fireblocks, GSR, Keyrock, Dune, Maven11 and more.\n\nLocation: 280 meters high, on the roof of CapitaSpring, inside the world's tallest rooftop food forest. Good food, good produce, and a breathtaking Singapore skyline.\n\nCapacity is strictly limited, and applications are reviewed on a case-by-case basis.\n\nThe event is hosted in collaboration with Galaxy, Pantera Capital, Onigiri Capital, and more co-hosts.\n\nAbout Accountable\n\nAccountable is the new standard for real-time financial verification, allowing institutions to prove assets and liabilities privately.  The platform enables counterparties to demonstrate financial health without exposing sensitive details and power real-time proof of both onchain and offchain activity.\n\nhttps://accountable.capital/\n\nPantera Capital\n\nPantera Capital is the first institutional investment firm focused exclusively on bitcoin, other digital currencies, and companies in the blockchain tech ecosystem.\n\nhttps://panteracapital.com/\n\nAbout Onigiri Capital\n\nOnigiri Capital is a venture capital fund launched by Saison Capital, the corporate venture arm of Japan’s Credit Saison. The fund leverages its Asian institutional heritage to fund, advise, and empower blockchain founders who are unlocking real-world, global financial products and utility across stablecoins, payments, tokenized assets, DeFi, and financial markets infrastructure.\n\n[https://onigiri.vc/](https://www.onigiri.vc/)",
@@ -7714,32 +7700,6 @@
     "month": "October 2026"
   },
   {
-    "id": "w3v-institutional-stack-vip-lunch-chainalysis-definitive-26-10-07",
-    "name": "The Institutional Stack: VIP Lunch by Chainalysis, Definitive & Utila",
-    "description": "The Institutional Stack: VIP Lunch by Chainalysis, Definitive & Utila: Executive lunch on digital asset compliance, custody and execution.",
-    "startDate": "2026-10-06T19:30:00.000Z",
-    "endDate": "2026-10-06T22:30:00.000Z",
-    "city": "Global",
-    "country": "SG",
-    "location": "Global, SG",
-    "url": "http://luma.com/v3fntqy3",
-    "coverImage": "/events/w3v-institutional-stack-vip-lunch-chainalysis-defi-bcbf0f0d.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-founders-run-rave-26-10-07",
-    "name": "Founders Run & Rave",
-    "description": "Founders Run & Rave: A Singapore Web3 networking meetup with a Marina Bay run, music and post-run conversations.",
-    "startDate": "2026-10-06T22:00:00.000Z",
-    "endDate": "2026-10-07T00:00:00.000Z",
-    "city": "Singapore",
-    "country": "SG",
-    "location": "Singapore, SG",
-    "url": "https://luma.com/p1ql2gs7",
-    "coverImage": "/events/w3v-founders-run-rave-26-10-07-bc288f5a.webp",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-host-evt-evt-eTEkZPCdHSRnFz5",
     "name": "Collably Matchmaking Network — TOKEN2049 Singapore Week",
     "description": "",
@@ -12041,7 +12001,7 @@
     "country": "Hong Kong",
     "location": "Hong Kong, Hong Kong",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
+    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -20378,7 +20338,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/snrmcp50",
-    "coverImage": null,
+    "coverImage": "/events/w3v-beyond-business-an-exclusive-dinner-in-mayfair-e624d328.webp",
     "month": "November 2026"
   },
   {
@@ -20391,7 +20351,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/solanahiits",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solana-fitness-zone-hiit-class-breakpoint-2026-9e5b4832.webp",
     "month": "November 2026"
   },
   {
@@ -20404,7 +20364,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/LondonHappyHour",
-    "coverImage": null,
+    "coverImage": "/events/w3v-london-happy-hour-dbd282ac.webp",
     "month": "November 2026"
   },
   {
@@ -20417,7 +20377,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/n41tqnps",
-    "coverImage": null,
+    "coverImage": "/events/w3v-breakpoint-pub-quiz-c8e56359.webp",
     "month": "November 2026"
   },
   {
@@ -20430,7 +20390,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/e9iw08nn",
-    "coverImage": null,
+    "coverImage": "/events/w3v-no-more-pitches-83ba7a54.webp",
     "month": "November 2026"
   },
   {
@@ -20946,7 +20906,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261105%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261105T194741Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=0ef2b1d4344b0530fa2a2c013da1533d802abd46dee85640321e09de318344a0",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261106%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261106T003414Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=0830cd20b4d37fc8e330f830ae47ae512adde3c2ec98a002a0a77073a21773ee",
     "month": "November 2026"
   },
   {
@@ -21040,7 +21000,7 @@
     "country": "IT",
     "location": "Bari, IT",
     "url": "https://luma.com/IXH26-xrpl-hackathon",
-    "coverImage": null,
+    "coverImage": "/events/w3v-ixh26-italian-xrpl-hackathon-db972dc1.webp",
     "month": "November 2026"
   },
   {
@@ -21298,7 +21258,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/8zpe32j0",
-    "coverImage": null,
+    "coverImage": "/events/w3v-an-evening-at-the-us-embassy-london-hosted-by--701b6bea.webp",
     "month": "November 2026"
   },
   {
@@ -21311,7 +21271,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/j6gxeshu",
-    "coverImage": null,
+    "coverImage": "/events/w3v-signal-evening-reception-das-london-63f6ffec.webp",
     "month": "November 2026"
   },
   {
@@ -22300,10 +22260,7 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/317064975/",
     "coverImage": "/events/mu-317064975-0dc78544.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "luma-evt-1YkeGIX5PJN3Q9d",
@@ -22651,7 +22608,7 @@
     "country": "IN",
     "location": "Mumbai, IN",
     "url": "https://luma.com/4jt54kqx",
-    "coverImage": null,
+    "coverImage": "/events/w3v-devcon-girlies-diwali-party-in-mumbai-c2cfe985.webp",
     "month": "November 2026"
   },
   {
@@ -22664,7 +22621,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/klgng11i",
-    "coverImage": null,
+    "coverImage": "/events/w3v-pizza-at-pimlico-s-breakpoint-2026-14-17932761-475ac7db.webp",
     "month": "November 2026"
   },
   {
@@ -22850,7 +22807,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/317065021/",
-    "coverImage": "/events/mu-317065021-c10f5a7d.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -24881,7 +24838,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/8n4yuczc",
-    "coverImage": null,
+    "coverImage": "/events/w3v-little-blue-door-fastshares-after-hours-bd22a439.webp",
     "month": "November 2026"
   },
   {
@@ -24894,7 +24851,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/qe5u8rpd",
-    "coverImage": null,
+    "coverImage": "/events/w3v-the-internet-capital-supermarket-134e3dd9.webp",
     "month": "November 2026"
   },
   {
@@ -24907,7 +24864,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/7oly3746",
-    "coverImage": null,
+    "coverImage": "/events/w3v-powered-by-fastshares-london-walking-tour-with-6c524f68.webp",
     "month": "November 2026"
   },
   {
@@ -24920,7 +24877,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/monkedao-nwio",
-    "coverImage": null,
+    "coverImage": "/events/w3v-the-house-of-monke-25d2eb6f.webp",
     "month": "November 2026"
   },
   {
@@ -24933,7 +24890,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/rtgpxj6h",
-    "coverImage": null,
+    "coverImage": "/events/w3v-rwas-from-tokenized-to-traded-8354f0ad.webp",
     "month": "November 2026"
   },
   {
@@ -24946,7 +24903,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/3n5hl4c7",
-    "coverImage": null,
+    "coverImage": "/events/w3v-draper-dragon-after-hours-breakpoint-day-1-3a2ce3d4.webp",
     "month": "November 2026"
   },
   {
@@ -24959,7 +24916,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/14g91az1",
-    "coverImage": null,
+    "coverImage": "/events/w3v-squid-dinner-london-489fde30.webp",
     "month": "November 2026"
   },
   {
@@ -24972,7 +24929,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/a6xuo4c1",
-    "coverImage": null,
+    "coverImage": "/events/w3v-coffee-with-alpine-a01c88e7.webp",
     "month": "November 2026"
   },
   {
@@ -24985,7 +24942,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/a9yvvi96",
-    "coverImage": null,
+    "coverImage": "/events/w3v-the-rwa-pub-at-breakpoint-fea81c4f.webp",
     "month": "November 2026"
   },
   {
@@ -25106,7 +25063,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/4m0ksi3i",
-    "coverImage": null,
+    "coverImage": "/events/w3v-bullseye-with-multicoin-capital-3079a46a.webp",
     "month": "November 2026"
   },
   {
@@ -25119,7 +25076,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/1xahirkt",
-    "coverImage": null,
+    "coverImage": "/events/w3v-cocktails-with-coinbase-harmonic-21bfbce6.webp",
     "month": "November 2026"
   },
   {
@@ -25132,7 +25089,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/fog_and_fortune",
-    "coverImage": null,
+    "coverImage": "/events/w3v-fog-fortune-5fc228e5.webp",
     "month": "November 2026"
   },
   {
@@ -25145,7 +25102,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/hos-breakpoint",
-    "coverImage": null,
+    "coverImage": "/events/w3v-house-of-sol-breakpoint-ec7d0fb1.webp",
     "month": "November 2026"
   },
   {
@@ -25158,7 +25115,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/tybnsosw",
-    "coverImage": null,
+    "coverImage": "/events/w3v-spis-legal-policy-dinner-breakpoint-2026-e36bce9f.webp",
     "month": "November 2026"
   },
   {
@@ -25171,7 +25128,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/aecztdcz",
-    "coverImage": null,
+    "coverImage": "/events/w3v-privy-home-irl-london-61d1d3ef.webp",
     "month": "November 2026"
   },
   {
@@ -25184,7 +25141,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/blockc-eg04",
-    "coverImage": null,
+    "coverImage": "/events/w3v-blockchaincom-tyb-party-6dba12f5.webp",
     "month": "November 2026"
   },
   {
@@ -25199,6 +25156,48 @@
     "url": "https://lu.ma/pmm5s25v",
     "coverImage": "/events/luma-evt-rpsfdbi2hbr6dhs-74b2992a.webp",
     "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-ZCKHplcZChaOSWv",
+    "name": "Intro to Soldering & Electronics: Make a Mini Piano",
+    "description": "",
+    "startDate": "2026-11-07T19:00:00.000Z",
+    "endDate": "2026-11-07T22:00:00.000Z",
+    "city": "Brooklyn",
+    "country": "United States",
+    "location": "Brooklyn, United States",
+    "url": "https://lu.ma/vwjbgb4s",
+    "coverImage": "/events/luma-evt-zckhplczchaoswv-23c94c30.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-Rz7sBo6z8IBAzcE",
+    "name": "Co-Hack Night / Double Down Hacker House × Builders Collective",
+    "description": "",
+    "startDate": "2026-11-13T23:00:00.000Z",
+    "endDate": "2026-11-14T02:00:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://lu.ma/b36lmsha",
+    "coverImage": "/events/luma-evt-rz7sbo6z8ibazce-dbfa7f10.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317208919",
+    "name": "Live AI Crypto Trading Demo + Founder Q&A",
+    "description": "Crypto markets never stop moving, but that doesn't mean you have to watch charts all day.\n\nJoin me for a live online session with the founder and programmer of a fully automated AI-enhanced trading pl",
+    "startDate": "2026-11-19T11:00:00-08:00",
+    "endDate": "2026-11-19T11:00:00-08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/carpoolcrypto/events/317208919/",
+    "coverImage": null,
+    "source": "meetup",
     "month": "November 2026"
   }
 ]

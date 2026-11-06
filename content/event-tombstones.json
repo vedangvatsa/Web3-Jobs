@@ -6391,5 +6391,40 @@
       "cardano-summit-2026",
       "cardanosummit"
     ]
+  },
+  "luma-batch-evtjDoErMvoz0EqG": {
+    "until": "2027-11-06T00:29:03.808Z",
+    "slugs": [
+      "ovbndjm6",
+      "luma-batch-evtjdoermvoz0eqg"
+    ]
+  },
+  "token2049-evt-icR0VbRLRvvXJaw": {
+    "until": "2027-11-06T00:29:03.808Z",
+    "slugs": [
+      "founders-run",
+      "token2049-evt-icr0vbrlrvvxjaw"
+    ]
+  },
+  "token2049-official-6aab60b3f5de78483fb5c758": {
+    "until": "2027-11-06T00:29:03.808Z",
+    "slugs": [
+      "block-zero",
+      "token2049-official-6aab60b3f5de78483fb5c758"
+    ]
+  },
+  "luma-batch-9ARpsi5voA8EtMv": {
+    "until": "2027-11-06T00:37:21.398Z",
+    "slugs": [
+      "syl9hjc2",
+      "luma-batch-9arpsi5voa8etmv"
+    ]
+  },
+  "token2049-evt-W03OB5sltwcVN8a": {
+    "until": "2027-11-06T00:37:21.398Z",
+    "slugs": [
+      "one-of",
+      "token2049-evt-w03ob5sltwcvn8a"
+    ]
   }
 }
