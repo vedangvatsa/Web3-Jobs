@@ -1,0 +1,27 @@
+{
+  "target": "Support.CisionOne@cision.com",
+  "channel": "inbound-reply",
+  "originalReceivedEmailId": "dac2dda7-6bc3-4a3d-8b2f-e3d5538a0a0e",
+  "originalMessageId": "<36c93ef6-ebef5ea1-1793831031-215476696176824-2534313@outbound.intercom.cision.com>",
+  "originalSubject": "Re: Hashtag Web3: publisher onboarding and automatic news-feed distribution",
+  "originalFrom": "Support.CisionOne@cision.com",
+  "status": "claimed",
+  "claimedAt": "2026-11-06T10:26:13.526Z",
+  "recipient": "Support.CisionOne@cision.com",
+  "payload": {
+    "from": "Hashtag Web3 <hi@hashtagweb3.com>",
+    "reply_to": "hi@hashtagweb3.com",
+    "to": [
+      "Support.CisionOne@cision.com"
+    ],
+    "subject": "Re: Hashtag Web3: publisher onboarding and automatic news-feed distribution",
+    "text": "Hi Cision team,\n\nTo answer your question: we would like both, in whatever combination your workflow supports:\n\n1. Publication to a CisionOne stream / monitoring workflow - our primary goal. We want our published news articles tracked as content from Hashtag Web3 in your monitoring streams, so organizations monitoring the topics we cover receive our stories alongside other industry sources.\n\n2. Inclusion in the media database - if that is the prerequisite or the associated route for source-level recognition, please proceed with that as well.\n\nWhat we publish: Hashtag Web3 is a United States organization publishing English-language crypto and Web3 news (industry news, careers and education).\n\nPublication: https://hashtagweb3.com/news\nAbout: https://hashtagweb3.com/about\nExample native article: https://hashtagweb3.com/bitgetthai\nRSS feed: https://hashtagweb3.com/news/feed.xml (headlines, summaries, original publication dates, canonical links)\n\nReach context: 55 million job-post views in the last year, 26 million LinkedIn views last month, 150,000 newsletter subscribers, 60,000 Telegram members, weekly X Spaces with 20,000-40,000 listeners.\n\nEditorial note: our workflow uses AI-assisted research and drafting with source and publication checks; our news listing also links to external publishers, and those external stories are not supplied as our own content. We are happy to meet any AI-disclosure, image-rights, or attribution requirements you specify.\n\nPlease let me know the next step for whichever stream applies, and whether any form or sender contact is needed on our side.\n\nThank you,\nHashtag Web3 - hi@hashtagweb3.com",
+    "html": "From: Hashtag Web3 <hi@hashtagweb3.com>\nSubject: Re: Hashtag Web3: publisher onboarding and automatic news-feed distribution\n\n<p>Hi Cision team,</p>\n\n<p>To answer your question: we would like <strong>both</strong>, in whatever combination your workflow supports:</p>\n\n<p>\n1. <strong>Publication to a CisionOne stream / monitoring workflow</strong> &mdash; our primary goal. We want our published news articles tracked as content from Hashtag Web3 in your monitoring streams, so organizations monitoring the topics we cover receive our stories alongside other industry sources.<br>\n2. <strong>Inclusion in the media database</strong> &mdash; if that is the prerequisite or the associated route for source-level recognition, please proceed with that as well.\n</p>\n\n<p>What we publish: Hashtag Web3 is a United States organization publishing English-language crypto and Web3 news (industry news, careers and education).</p>\n<p>\nPublication: <a href=\"https://hashtagweb3.com/news\">https://hashtagweb3.com/news</a><br>\nAbout: <a href=\"https://hashtagweb3.com/about\">https://hashtagweb3.com/about</a><br>\nExample native article: <a href=\"https://hashtagweb3.com/bitgetthai\">https://hashtagweb3.com/bitgetthai</a><br>\nRSS feed: <a href=\"https://hashtagweb3.com/news/feed.xml\">https://hashtagweb3.com/news/feed.xml</a> (headlines, summaries, original publication dates, canonical links)\n</p>\n\n<p>Reach context: 55 million job-post views in the last year, 26 million LinkedIn views last month, 150,000 newsletter subscribers, 60,000 Telegram members, weekly X Spaces with 20,000&ndash;40,000 listeners.</p>\n\n<p>Editorial note: our workflow uses AI-assisted research and drafting with source and publication checks; our news listing also links to external publishers, and those external stories are not supplied as our own content. We are happy to meet any AI-disclosure, image-rights, or attribution requirements you specify.</p>\n\n<p>Please let me know the next step for whichever stream applies, and whether any form or sender contact is needed on our side.</p>\n\n<p>Thank you,<br>Hashtag Web3 &mdash; <a href=\"mailto:hi@hashtagweb3.com\">hi@hashtagweb3.com</a></p>",
+    "headers": {
+      "In-Reply-To": "<36c93ef6-ebef5ea1-1793831031-215476696176824-2534313@outbound.intercom.cision.com>",
+      "References": "<36c93ef6-ebef5ea1-1793831031-215476696176824-2534313@outbound.intercom.cision.com>"
+    }
+  },
+  "payloadSha256": "ad11051a0845aacb18e552cb6bc2e6e9cfca014f93a87a540810324850a18916",
+  "providerId": null
+}
