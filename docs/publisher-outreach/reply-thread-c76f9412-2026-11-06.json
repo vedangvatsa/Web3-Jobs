@@ -1,0 +1,27 @@
+{
+  "target": "support@readly.com",
+  "channel": "inbound-reply",
+  "originalReceivedEmailId": "c76f9412-396d-46a6-a709-bc60cb53bc54",
+  "originalMessageId": "<X1PXZK191XR_6adf2acfaf3cf_16dccb418d0924_sprut@zendesk.com>",
+  "originalSubject": "[Readly] Re: Hashtag Web3: publisher onboarding and automatic news-feed distribution",
+  "originalFrom": "support@readly.com",
+  "status": "claimed",
+  "claimedAt": "2026-11-06T10:34:55.468Z",
+  "recipient": "support@readly.com",
+  "payload": {
+    "from": "Hashtag Web3 <hi@hashtagweb3.com>",
+    "reply_to": "hi@hashtagweb3.com",
+    "to": [
+      "support@readly.com"
+    ],
+    "subject": "[Readly] Re: Hashtag Web3: publisher onboarding and automatic news-feed distribution",
+    "text": "Hello Readly team,\n\nThank you - Martin's reply with the publisher form is appreciated. We are filling out the publisher form at https://se.readly.com/publishers_info today on behalf of Hashtag Web3.\n\nTo make the application complete, the details it will carry:\n\n- Publisher: Hashtag Web3 - United States organization publishing English-language crypto and Web3 news\n- Publication: https://hashtagweb3.com/news\n- RSS feed: https://hashtagweb3.com/news/feed.xml (headlines, summaries, original publication dates, canonical links)\n- Example native article: https://hashtagweb3.com/bitgetthai\n- About: https://hashtagweb3.com/about\n- Contact: hi@hashtagweb3.com\n\nReach context: 55 million job-post views in the last year, 26 million LinkedIn views last month, 150,000 newsletter subscribers, 60,000 Telegram members, weekly X Spaces with 20,000-40,000 listeners.\n\nEditorial note: our workflow uses AI-assisted research and drafting with source and publication checks. Anything in the form requiring an alternate disclosure format, we will match.\n\nThank you,\nHashtag Web3 - hi@hashtagweb3.com",
+    "html": "<p>Hello Readly team,</p>\n\n<p>Thank you &mdash; Martin's reply with the publisher form is appreciated. We are filling out the publisher form at <a href=\"https://se.readly.com/publishers_info\">https://se.readly.com/publishers_info</a> today on behalf of Hashtag Web3.</p>\n\n<p>To make the application complete, the details it will carry:</p>\n\n<ul>\n<li>Publisher: Hashtag Web3 &mdash; United States organization publishing English-language crypto and Web3 news</li>\n<li>Publication: <a href=\"https://hashtagweb3.com/news\">https://hashtagweb3.com/news</a></li>\n<li>RSS feed: <a href=\"https://hashtagweb3.com/news/feed.xml\">https://hashtagweb3.com/news/feed.xml</a> (headlines, summaries, original publication dates, canonical links)</li>\n<li>Example native article: <a href=\"https://hashtagweb3.com/bitgetthai\">https://hashtagweb3.com/bitgetthai</a></li>\n<li>About: <a href=\"https://hashtagweb3.com/about\">https://hashtagweb3.com/about</a></li>\n<li>Contact: <a href=\"mailto:hi@hashtagweb3.com\">hi@hashtagweb3.com</a></li>\n</ul>\n\n<p>Reach context: 55 million job-post views in the last year, 26 million LinkedIn views last month, 150,000 newsletter subscribers, 60,000 Telegram members, weekly X Spaces with 20,000&ndash;40,000 listeners.</p>\n\n<p>Editorial note: our workflow uses AI-assisted research and drafting with source and publication checks. Anything in the form requiring an alternate disclosure format, we will match.</p>\n\n<p>Thank you,<br>Hashtag Web3 &mdash; <a href=\"mailto:hi@hashtagweb3.com\">hi@hashtagweb3.com</a></p>",
+    "headers": {
+      "In-Reply-To": "<X1PXZK191XR_6adf2acfaf3cf_16dccb418d0924_sprut@zendesk.com>",
+      "References": "<X1PXZK191XR_6adf2acfaf3cf_16dccb418d0924_sprut@zendesk.com>"
+    }
+  },
+  "payloadSha256": "613874f2f890d076700a97cd66b668332f00833caa65d237a7861dfdf2938be3",
+  "providerId": null
+}
