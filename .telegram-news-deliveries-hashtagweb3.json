@@ -3080,7 +3080,7 @@
     "sentAt": "2026-11-05T03:33:26.999Z"
   },
   "c2cc0f9f-4383-44f9-b9a7-ef6841535959": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-06T03:33:15.270Z",
     "stories": [
       {
@@ -3108,6 +3108,8 @@
         "originalTitle": "Moscow Exchange Sets Dec. 1 for Bitcoin, Ether and USDT Trading"
       }
     ],
-    "slotKey": "2026-11-06:morning"
+    "slotKey": "2026-11-06:morning",
+    "messageId": 156104,
+    "sentAt": "2026-11-06T03:33:29.842Z"
   }
 }

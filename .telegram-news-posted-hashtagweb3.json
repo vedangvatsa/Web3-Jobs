@@ -887,6 +887,9 @@
   "https://hashtagweb3.com/fakeinterview?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/sunsanction?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/mercadobitcoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/aztectierra?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/liquidbacking?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/moexcrypto?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2567,6 +2570,12 @@
   "Justin Sun Seeks $264,000 in Sanctions Over World Liberty's UAE Disclosure",
   "Mercado Bitcoin restores account access following $46 million hack",
   "Mercado Bitcoin to restore account access Monday after $46M hack",
+  "Aztec Releases Tierra Upgrade to Fix Proving Flaw",
+  "Aztec Launches Tierra Upgrade, Patching Critical Flaw in Privacy Network",
+  "Liquid Network restores full bitcoin backing after exploit",
+  "Liquid Network restores full bitcoin backing two months after exploit",
+  "Moscow Exchange to Launch Crypto Trading on December 1",
+  "Moscow Exchange Sets Dec. 1 for Bitcoin, Ether and USDT Trading",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -3004,5 +3013,8 @@
   "fp:asset|blockchain|bond|bring|centrifug|debt|emerg|expand|fund|manager",
   "fp:634b|access|attacker|began|binanc|blam|campaign|computer|download|engineer",
   "fp:000|264|against|arab|citizenship|court|disclosur|dur|emirat|federal",
-  "fp:46m|access|account|balanc|can|follow|hack|mercado|monday|phas"
+  "fp:46m|access|account|balanc|can|follow|hack|mercado|monday|phas",
+  "fp:add|aztec|chain|critical|cross|cryptographic|delivery|fix|flaw|formal",
+  "fp:back|breach|direct|exploit|follow|full|limit|liquid|miss|month",
+  "fp:center|clear|dec1|december1|ether|exchang|moscow|national|offer|through"
 ]
