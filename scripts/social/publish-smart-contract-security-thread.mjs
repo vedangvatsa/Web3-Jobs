@@ -160,191 +160,126 @@ async function bufferGql(query, variables = {}) {
       'Content-Type': 'application/json',
     },
     body: JSON.stringify({ query, variables }),
+    signal: AbortSignal.timeout(60000),
   });
-  const json = await res.json();
-  if (json.errors?.length) {
-    throw new Error(`Buffer API error: ${JSON.stringify(json.errors)}`);
+  const data = await res.json();
+  if (!res.ok || data.errors?.length || !data.data) {
+    throw new Error(`Buffer error: ${JSON.stringify(data.errors || data)}`);
   }
-  return json.data;
+  return data.data;
 }
 
 async function verifyAccounts(platform) {
+  console.log('--- Verifying accounts ---');
   let channel = null;
   let account = null;
 
   if (platform === 'both' || platform === 'x') {
-    const data = await bufferGql(`
-      query Channels {
-        channels {
-          id
-          service
-          name
-        }
-      }
-    `);
-    channel = data?.channels?.find(c => c.id === X_CHANNEL && c.service === 'twitter');
-    assert.ok(channel, `X channel ${X_CHANNEL} not found in Buffer account`);
-    console.log(`Verified X Channel: ${channel.name} (${channel.id})`);
-  }
-
-  if (platform === 'both' || platform === 'threads') {
-    const token = process.env.THREADS_ACCESS_TOKEN;
-    if (!token) {
-      console.warn('THREADS_ACCESS_TOKEN missing. Threads posting will be skipped.');
-    } else {
-      const res = await fetch(`https://graph.threads.net/v1.0/me?fields=id,username&access_token=${token}`);
-      const json = await res.json();
-      if (json.error) {
-        console.warn(`Threads token invalid or expired: ${json.error.message}. Threads posting will be skipped.`);
-      } else {
-        account = json;
-        console.log(`Verified Threads Account: @${account.username} (${account.id})`);
-      }
-    }
+    const res = await bufferGql(
+      'query ($id: ChannelId!) { channel(input: {id: $id}) { id name service organizationId isDisconnected isLocked } }',
+      { id: X_CHANNEL }
+    );
+    channel = res.channel;
+    console.log(`X Channel on Buffer: ${channel.name} (${channel.id}), service: ${channel.service}`);
+    assert.equal(channel.name.replace(/^@/, '').toLowerCase(), X_ACCOUNT);
+    assert.equal(channel.service, 'twitter');
+    assert.equal(channel.isDisconnected, false);
+    assert.equal(channel.isLocked, false);
   }
 
   return { channel, account };
 }
 
 async function postX() {
-  console.log('\n--- Posting complete thread to X (@hashtag_web3) via Buffer ---');
+  console.log('\n=== POSTING THREAD TO X (@hashtag_web3 via Buffer) ===');
 
-  for (let i = 0; i < tweets.length; i++) {
-    const t = tweets[i];
-    console.log(`\nPosting Tweet ${i + 1}/${tweets.length}...`);
-    console.log(`Preview:\n${t.text.split('\n')[0]}...`);
+  const thread = tweets.map((t) => {
+    const item = { text: t.text };
+    if (t.imageUrl) {
+      item.assets = [{ image: { url: t.imageUrl } }];
+    }
+    return item;
+  });
 
-    const mutation = `
-      mutation CreatePost($input: CreatePostInput!) {
-        createPost(input: $input) {
-          post {
-            id
-            status
-          }
+  const input = {
+    channelId: X_CHANNEL,
+    mode: 'shareNow',
+    schedulingType: 'automatic',
+    needsApproval: false,
+    text: tweets[0].text,
+    assets: thread[0].assets,
+    metadata: {
+      twitter: {
+        thread,
+      },
+    },
+  };
+
+  const mutation = `mutation CreatePost($input: CreatePostInput!) {
+    createPost(input: $input) {
+      ... on PostActionSuccess {
+        post {
+          id
+          status
+          externalLink
         }
       }
-    `;
-
-    const metadata = {
-      now: true,
-    };
-    if (t.imageUrl) {
-      metadata.attachment = {
-        photo: {
-          url: t.imageUrl,
-        },
-      };
+      ... on MutationError {
+        message
+      }
     }
+  }`;
 
-    const variables = {
-      input: {
-        channelId: X_CHANNEL,
-        schedulingType: 'now',
-        text: t.text,
-        metadata,
-      },
-    };
+  console.log('Sending thread creation mutation to Buffer...');
+  const data = await bufferGql(mutation, { input });
+  const result = data.createPost;
+  if (!result.post?.id) {
+    throw new Error(`Buffer post creation rejected: ${result.message || JSON.stringify(result)}`);
+  }
 
-    const data = await bufferGql(mutation, variables);
-    console.log(`✅ Tweet ${i + 1} published (Buffer Post ID: ${data?.createPost?.post?.id})`);
+  const postId = result.post.id;
+  console.log(`✅ Buffer post created (ID: ${postId})`);
 
-    if (i < tweets.length - 1) {
-      await sleep(2500);
+  console.log('Waiting for Buffer to publish and return live X permalink...');
+  for (let attempt = 0; attempt < 30; attempt++) {
+    await sleep(4000);
+    const postQuery = `query GetPost($id: PostId!) {
+      post(input: {id: $id}) {
+        id
+        status
+        externalLink
+        error { message }
+      }
+    }`;
+    const check = await bufferGql(postQuery, { id: postId });
+    const post = check.post;
+    console.log(`  Attempt ${attempt + 1}: status = ${post?.status}`);
+
+    if (post?.status === 'sent' && post.externalLink) {
+      console.log(`\n🎉 SUCCESS! X Thread is LIVE: ${post.externalLink}`);
+      return post.externalLink;
+    }
+    if (post?.status === 'error') {
+      throw new Error(`Buffer publication failed: ${post.error?.message}`);
     }
   }
 
-  console.log(`\n🎉 SUCCESS! Complete 13-tweet thread published to X @${X_ACCOUNT}`);
-  return `https://x.com/${X_ACCOUNT}`;
-}
-
-async function postThreads(account) {
-  const token = process.env.THREADS_ACCESS_TOKEN;
-  assert.ok(token, 'THREADS_ACCESS_TOKEN missing');
-  const userId = account.id;
-
-  console.log(`\n--- Posting complete thread to Threads (@${account.username}) ---`);
-  let previousContainerId = null;
-  const permalinks = [];
-
-  for (let i = 0; i < tweets.length; i++) {
-    const t = tweets[i];
-    console.log(`\nPublishing Threads post ${i + 1}/${tweets.length}...`);
-
-    const params = new URLSearchParams({
-      access_token: token,
-      text: t.text,
-    });
-
-    if (t.imageUrl) {
-      params.set('media_type', 'IMAGE');
-      params.set('image_url', t.imageUrl);
-    } else {
-      params.set('media_type', 'TEXT');
-    }
-
-    if (previousContainerId) {
-      params.set('reply_to_id', previousContainerId);
-    }
-
-    const createRes = await fetch(`https://graph.threads.net/v1.0/${userId}/threads`, {
-      method: 'POST',
-      body: params,
-    });
-    const createJson = await createRes.json();
-    if (!createJson.id) {
-      throw new Error(`Failed to create Threads container for post ${i + 1}: ${JSON.stringify(createJson)}`);
-    }
-    const containerId = createJson.id;
-    console.log(`  Container created: ${containerId}. Waiting 3s to publish...`);
-    await sleep(3000);
-
-    const pubParams = new URLSearchParams({
-      access_token: token,
-      creation_id: containerId,
-    });
-    const pubRes = await fetch(`https://graph.threads.net/v1.0/${userId}/threads_publish`, {
-      method: 'POST',
-      body: pubParams,
-    });
-    const pubJson = await pubRes.json();
-    if (!pubJson.id) {
-      throw new Error(`Failed to publish Threads post ${i + 1}: ${JSON.stringify(pubJson)}`);
-    }
-
-    const postId = pubJson.id;
-    previousContainerId = postId;
-    console.log(`  ✅ Published Threads post ${i + 1} (ID: ${postId})`);
-
-    const metaRes = await fetch(`https://graph.threads.net/v1.0/${postId}?fields=permalink&access_token=${token}`);
-    const metaJson = await metaRes.json();
-    if (metaJson.permalink) {
-      permalinks.push(metaJson.permalink);
-      console.log(`  Permalink: ${metaJson.permalink}`);
-    }
-
-    if (i < tweets.length - 1) {
-      await sleep(2000);
-    }
-  }
-
-  console.log(`\n🎉 SUCCESS! Complete Threads thread published: ${permalinks[0]}`);
-  return permalinks[0];
+  console.log(`ℹ️ Post is queued in Buffer. Monitor ID ${postId}`);
+  return `Buffer Post ID: ${postId}`;
 }
 
 async function main() {
   const mode = process.argv.find(arg => arg.startsWith('--mode='))?.split('=')[1] || 'publish';
-  const platform = process.argv.find(arg => arg.startsWith('--platform='))?.split('=')[1] || 'both';
+  const platform = process.argv.find(arg => arg.startsWith('--platform='))?.split('=')[1] || 'x';
 
   console.log(`=== SMART CONTRACT AUDITING THREAD PUBLISHER ===`);
   console.log(`Mode: ${mode} | Platform: ${platform}\n`);
 
-  const { channel, account } = await verifyAccounts(platform);
+  const { channel } = await verifyAccounts(platform);
 
   if (mode === 'preflight') {
     console.log('\n✅ Preflight check complete!');
     if (channel) console.log(`  - X channel verified: @${X_ACCOUNT} (${X_CHANNEL})`);
-    if (account) console.log(`  - Threads account verified: @${account.username}`);
-    else console.log(`  - Threads: Direct API token expired / not available`);
     return;
   }
 
@@ -354,18 +289,9 @@ async function main() {
     results.x = await postX();
   }
 
-  if (platform === 'both' || platform === 'threads') {
-    if (account) {
-      results.threads = await postThreads(account);
-    } else {
-      console.warn('\n⚠️ Skipping Threads because THREADS_ACCESS_TOKEN is expired or unavailable.');
-    }
-  }
-
   console.log('\n=======================================');
   console.log('PUBLICATION SUMMARY:');
   if (results.x) console.log(`  X (@${X_ACCOUNT}): ${results.x}`);
-  if (results.threads) console.log(`  Threads (@${THREADS_ACCOUNT}): ${results.threads}`);
   console.log('=======================================');
 }
 
