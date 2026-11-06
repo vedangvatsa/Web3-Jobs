@@ -156,7 +156,8 @@
     "1": {
       "createClaim": "dd3d091e-4b72-4852-8218-1d4d556f6f75",
       "startedAt": "2026-11-06T11:32:00.876Z",
-      "status": "claimed"
+      "status": "container-created",
+      "containerId": "17921144496461009"
     }
   }
 }
