@@ -131541,7 +131541,23 @@
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
       "attempts": 0,
       "expiresAt": "2026-11-06T22:03:39.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "articleSlug": "koreacoldstorage",
+      "draftProgress": {
+        "id": "02570a1503b3f1a27756",
+        "day": "2026-11-06",
+        "articleSlug": "koreacoldstorage",
+        "note": "Read the full Unchained report on the Nov. 2 FSC emergency meeting; still need to open the FSC statement and a Korean outlet directly; no draft yet.",
+        "sourceChecks": [
+          {
+            "url": "https://unchainedcrypto.com/binances-6-3-billion-hack-has-south-korea-asking-exchanges-to-hold-more-crypto-offline/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-06T00:33:36.103Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "a98a709c979b959a5b34": {
       "source": "The Block",
