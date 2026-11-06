@@ -5,7 +5,7 @@
   "originalMessageId": "<CAMvN33be9-8YNq3RtNkDFDqB3WtUJ5kS+d4y=dGF2rg3g9z=Jg@mail.gmail.com>",
   "originalSubject": "Re: Hashtag Web3: publisher onboarding and automatic news-feed distribution",
   "originalFrom": "info@coincheckup.com",
-  "status": "claimed",
+  "status": "sent",
   "claimedAt": "2026-11-06T10:26:45.583Z",
   "recipient": "info@coincheckup.com",
   "payload": {
@@ -23,5 +23,8 @@
     }
   },
   "payloadSha256": "a4ba4f39e0d9250711286275cb24af04b1ee8cad258a570f9d9f4f8b9f97e285",
-  "providerId": null
+  "providerId": "01a1b065-88cc-7d3e-bd2f-6e3c3b868d54",
+  "sentAt": "2026-11-06T10:26:46.657Z",
+  "recordedFromActionsRun": 42202674028,
+  "statusCorrection": "receipt upgraded claimed->sent from Actions run logs; final write had failed with HTTP 422 (blob sha missing) — bug fixed in scripts/resend-email-reply.mjs"
 }

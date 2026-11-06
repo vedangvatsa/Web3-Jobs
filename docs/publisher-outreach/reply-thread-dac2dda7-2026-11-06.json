@@ -5,7 +5,7 @@
   "originalMessageId": "<36c93ef6-ebef5ea1-1793831031-215476696176824-2534313@outbound.intercom.cision.com>",
   "originalSubject": "Re: Hashtag Web3: publisher onboarding and automatic news-feed distribution",
   "originalFrom": "Support.CisionOne@cision.com",
-  "status": "claimed",
+  "status": "sent",
   "claimedAt": "2026-11-06T10:26:13.526Z",
   "recipient": "Support.CisionOne@cision.com",
   "payload": {
@@ -23,5 +23,8 @@
     }
   },
   "payloadSha256": "ad11051a0845aacb18e552cb6bc2e6e9cfca014f93a87a540810324850a18916",
-  "providerId": null
+  "providerId": "01a1b065-0b8a-7bb3-adf8-092e2647b127",
+  "sentAt": "2026-11-06T10:26:14.598Z",
+  "recordedFromActionsRun": 42202597536,
+  "statusCorrection": "receipt upgraded claimed->sent from Actions run logs; final write had failed with HTTP 422 (blob sha missing) — bug fixed in scripts/resend-email-reply.mjs"
 }

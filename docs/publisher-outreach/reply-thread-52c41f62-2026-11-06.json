@@ -5,7 +5,7 @@
   "originalMessageId": "<CABdDubED4tNcrpEp=yDir-qyB=5SCqHKHiVv-GeovzhgwUNT-g@mail.gmail.com>",
   "originalSubject": "Re: Hashtag Web3: publisher onboarding and automatic news-feed distribution",
   "originalFrom": "info@coincarp.com",
-  "status": "claimed",
+  "status": "sent",
   "claimedAt": "2026-11-06T10:27:22.536Z",
   "recipient": "info@coincarp.com",
   "payload": {
@@ -23,5 +23,8 @@
     }
   },
   "payloadSha256": "f0198f9551a506b093291d4670020a8e1fb807504ecc1ac174b174a12698f726",
-  "providerId": null
+  "providerId": "01a1b066-1945-78ee-9196-7a7026d7e535",
+  "sentAt": "2026-11-06T10:27:23.663Z",
+  "recordedFromActionsRun": 42202749286,
+  "statusCorrection": "receipt upgraded claimed->sent from Actions run logs; final write had failed with HTTP 422 (blob sha missing) — bug fixed in scripts/resend-email-reply.mjs"
 }
