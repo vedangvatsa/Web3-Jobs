@@ -5,7 +5,7 @@
   "originalMessageId": "<9RWRXZWRW013_6adf06a68d6ff_0e80dc52d0798c_sprut@zendesk.com>",
   "originalSubject": "[NewsPicks サポート] 返信: Hashtag Web3: publisher onboarding and automatic news-feed distribution",
   "originalFrom": "support@newspicks.zendesk.com",
-  "status": "claimed",
+  "status": "sent",
   "claimedAt": "2026-11-06T10:35:38.897Z",
   "recipient": "support@newspicks.zendesk.com",
   "payload": {
@@ -23,5 +23,6 @@
     }
   },
   "payloadSha256": "36c9e750ef3d06574fd04930dc6d217727b41fd5f9f516736d60135d35ba1e99",
-  "providerId": null
+  "providerId": "01a1b06d-acc4-753f-a30a-2eefeee3415f",
+  "sentAt": "2026-11-06T10:35:40.198Z"
 }
