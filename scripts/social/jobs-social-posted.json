@@ -107882,6 +107882,39 @@
       "attemptId": "d378c166-5014-4e5f-b250-2472198aa4c6",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Thursday, 05-Nov-26 19:36:23 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AJhA3VXsalP0OKDoBhvzpIC\"}"
+    },
+    {
+      "slug": "eng366",
+      "company": "Galaxy Digital",
+      "title": "Head of Market Data Development and Engineering",
+      "platform": "bluesky",
+      "postedAt": "2026-11-06T03:36:11.383Z",
+      "expectedText": "Galaxy Digital is hiring Head of Market Data Development and Engineering: https://hashtagweb3.com/eng366/bsky?og=7",
+      "snapshot": {
+        "id": "6238465004",
+        "title": "Head of Market Data Development and Engineering",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6238465004",
+        "date": "2026-10-29T12:49:45-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "New York",
+        "department": "Engineering",
+        "active": true,
+        "salary": "$220k – $250k/yr",
+        "dateVerified": true,
+        "slug": "eng366"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Head of Market Data Development and Engineering: https://hashtagweb3.com/eng366/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/eng366/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/eng366.png?v=7",
+        "company": "Galaxy Digital",
+        "title": "Head of Market Data Development and Engineering",
+        "description": "Join Galaxy Digital as Head of Market Data Development an. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "656de10c-ef53-43ce-8bb4-5496af327f22",
+      "verification": "creating"
     }
   ]
 }
