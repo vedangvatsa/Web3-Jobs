@@ -108716,7 +108716,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "a7449b5b-4367-4aa9-8ab9-7785764e3006",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6aedbaee70ee7e2aa7012951"
     }
   ]
 }
