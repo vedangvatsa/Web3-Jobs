@@ -325,210 +325,6 @@
     "slug": "sec"
   },
   {
-    "id": "w3v-utxo-pitch-night",
-    "name": "Rooftop UTXO Pitch Night",
-    "description": "## Rooftop UTXO Pitch Night\n\n## Presented by Draper x Cardano\n\nUp to $500K in Total Funding\n\nThe night TOKEN2049 founders, investors, and ecosystem leaders won't want to miss. Live pitches. Real capital. Opportunities in the room.\n\nFounders building across Cardano, Bitcoin, and the wider UTXO ecosystem — from early to growth stage — go head-to-head for one night in front of investors ready to fund on the spot, competing for up to $500K in total funding.\n\nThis is where high-stakes pitches, real capital, and the projects shaping the next phase of UTXO infrastructure converge—in one room.\n\nSet against the Singapore skyline at LAVO, 57 floors above Marina Bay Sands, the evening moves from live pitches into rooftop drinks, curated bites, networking, and a House DJ.\n\nProject applications [are open August 31 – September 14, 2026. Apply here](https://airtable.com/appgZsFDMlOC9dbNi/pagcBRq0WRIvjnJL1/form). Submission does not guarantee a pitch slot; selected presenters will be notified directly.\n\nCapacity is limited.  Registration approval required upon entry.\n\nPHOTO DISCLAIMER:\n\nAll attendees consent to filming, sound recording and photography when attending the event and give us a right to use any such material for marketing and related purposes.\n\nINVESTMENT DISCLAIMER:\n\nUp to $500,000.00 USD in total funding will be available and distributed among winning teams at the sole discretion of participating investors, based on their individual criteria. All decisions, terms, and due diligence remain solely at the discretion of the investors involved and are subject to their standard processes.\n\nREGISTRATION & PRIVACY DISCLAIMER:\n\nBy registering for this event, you acknowledge that your name, email address, job title, and company name will be collected by Draper Dragon and the Cardano Foundation. Your personal data will be used for the purpose of facilitating your attendance of the event and to contact you for marketing purposes. You can opt-out of marketing communications [at any time. See the Cardano Foundation’s privacy policy here](https://cardanofoundation.org/policy/privacy), [and Draper Dragon’s privacy policy here](https://www.draperdragon.com/privacy).",
-    "startDate": "2026-10-07T10:30:00.000Z",
-    "endDate": "2026-10-07T15:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "LAVO Italian Restaurant And Rooftop Bar, 10 Bayfront Avenue, Marina Bay Sands, Hotel, Level 57 Tower 1, Singapore 018956",
-    "url": "https://luma.com/utxopitchnight",
-    "coverImage": "/events/w3v-utxo-pitch-night-3779db0d.webp",
-    "source": "token2049-official",
-    "bypassedFilter": true,
-    "month": "October 2026",
-    "category": "Networking",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "Samiz Bayan",
-      "Elis Moormaa",
-      "Jennifer Lee"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "neighborhood": "Central Area",
-    "slug": "rupn",
-    "registrationUrl": "https://luma.com/utxopitchnight",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "LAVO Italian Restaurant And Rooftop Bar",
-    "streetAddress": "10 Bayfront Avenue, Marina Bay Sands, Hotel, Level 57 Tower 1, Singapore",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "coordinates": {
-      "latitude": 1.2824615,
-      "longitude": 103.8600908
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "Cardano Events",
-      "url": "https://cardano.org/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/utxopitchnight",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/utxopitchnight",
-      "eventId": "evt-zhNTH1dxGhVXcGE",
-      "fetchedAt": "2026-09-19T23:54:37.059Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "w3v-mini-apps-after-dark",
-    "name": "MINI APPS AFTER DARK 🌙",
-    "description": "## ✨ Connect. Discover. Build. Celebrate.\n\nWhen TOKEN2049 wraps up, the real conversations begin.\n\nJoin MiniApps Store and MA Marketing for an exclusive evening bringing together Web3 founders, builders, investors, AI innovators, creators, KOLs, developers, communities and ecosystem leaders.\n\nThis isn’t another conference-floor conversation.\n\nIt’s a night to meet the people building what comes next from Telegram Mini Apps and AI-powered experiences to Web3 products, communities and digital economies.\n\nExpect great conversations, new connections, ideas worth exploring, and a relaxed atmosphere with unlimited drinks and dinner throughout the evening.\n\n## 🔥 What to Expect\n\n🤝 Meet the right people\nConnect with founders, investors, builders, KOLs, creators and ecosystem leaders.\n\n🚀 Discover what is being built\nExplore emerging ideas across AI, Web3, Mini Apps, gaming, communities and digital experiences.\n\n💡 Exchange ideas\nMove beyond conference conversations and talk openly about products, partnerships, users and growth.\n\n🌐 Expand your network\nMeet people from different ecosystems, markets and communities.\n\n🍸 Relax after TOKEN2049\nUnlimited drinks, dinner, music and a comfortable networking atmosphere.\n\n🎁 Enjoy exclusive experiences\nGiveaways, activities and unexpected moments throughout the night.\n\n## 👥 Who Should Attend?\n\n• Web3 & blockchain founders\n• AI founders and builders\n• Telegram Mini App developers\n• Investors & VCs\n• Crypto traders & ecosystem participants\n• KOLs, creators & media\n• GameFi & DeFi builders\n• Community leaders & DAO contributors\n• Exchanges, launchpads & ecosystem partners\n• Marketing, growth & technology leaders\n\n## Why Mini Apps After Dark?\n\nTOKEN2049 gives you the stage.\n\n🌙 Mini Apps After Dark gives you the room to build relationships.\n\nWhether you’re building the next Telegram Mini App, launching an AI-powered product, investing in Web3, growing a community, creating content or looking for your next strategic partner, this is an evening designed for real conversations.\n\n✨ The idea is simple:\n\n🤝 Build connections. 💡 Discover opportunities. 🚀 Celebrate the future.\n\nLimited capacity. Registration does not guarantee entry, applications are reviewed before approval.\n\n## 🎟️ Free Registration - Community Approval Required\n\n## 🔐 How to Get Approved\n\nTo keep the event community-focused and ensure a high-quality guest list, attendees must complete the following steps:\n\n✅ Step 1 - Follow MiniApps Store on X\n\nFollow our official X account:\n\n[X  Twitter: https://x.com/](https://x.com/miniapps_)[miniapps_](https://x.com/miniapps_)\n\n✅ Step 2 - Join the Official Telegram Channel\n\nStay connected with MiniApps Store announcements and updates:\n\nTG Channel: https://t.me/mini_apps_official\n\n✅ Step 3 - Join the MiniApps Store Community Group\n\nJoin the official community and connect with other attendees:\n\nTG Group: https://t.me/mini_apps_comm\n\n✅ Step 4 - Submit Your Registration\n\nComplete the event registration form with your professional details and social profiles.\n\n✅ Step 5 - Wait for Approval\n\nOur team will review registrations based on event capacity, attendee profile and community fit.\n\nOnly approved guests will receive the final confirmation / entry details.\n\n⚠️ Registration Note:\n\n• Registration is not an automatic confirmation of entry.\n• The event has limited capacity, and the organizers reserve the right to approve or decline registrations.\n• Approved guests should bring the confirmation received from the event organizers for check-in.\n\n## 🤝 Sponsor\n\n## 🚀 MiniApps Store\n\nPowering the Next Generation of Mini App Experiences\n\nMiniApps Store is building an ecosystem for discovering and growing the next generation of mini apps and digital experiences.\n\nAs the Main Sponsor of Mini Apps After Dark, MiniApps Store is bringing together the people shaping the future of Web3, AI, Telegram Mini Apps and digital communities.\n\nTOKEN2049 is where the industry meets.\n\nMini Apps After Dark is where the people behind the industry connect.\n\nDiscover new ideas. Meet builders. Explore partnerships. Find the next opportunity.\n\n🌐 Website: https://www.miniapps.store\n\n𝕏 Twitter (X): https://x.com/miniapps_\n\n## 📈 Growth & Marketing Partner\n\n## 🚀 MA Marketing\n\nMomentum Amplify Marketing\n\nGreat products need more than technology.\n\nThey need positioning, visibility, community, users and growth.\n\nMA Marketing helps Web3, B2B, SaaS and technology companies turn products into brands and marketing strategies into measurable growth.\n\nAs the Growth & Marketing Partner for Mini Apps After Dark, MA Marketing is helping bring together founders, builders, investors, creators, communities and ecosystem partners for meaningful conversations and new opportunities.\n\n🌐 Website: https://ma-marketing.space\n\n🎯 MiniApps Store × MA Marketing\n\nTechnology meets growth.\n\nBuilders meet communities.\n\nIdeas meet opportunities.\n\nTOKEN2049 week gets a night worth remembering.",
-    "startDate": "2026-10-07T11:00:00.000Z",
-    "endDate": "2026-10-07T15:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/ltcvcqpm",
-    "coverImage": "/events/w3v-mini-apps-after-dark-b3450da7.webp",
-    "source": "token2049-official",
-    "bypassedFilter": true,
-    "month": "October 2026",
-    "category": "Networking",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "MiniApps Store"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "slug": "maad",
-    "registrationUrl": "https://luma.com/ltcvcqpm",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/ltcvcqpm",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/ltcvcqpm",
-      "eventId": "evt-2ECzpIPuY15BTOL",
-      "fetchedAt": "2026-09-19T23:54:39.113Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "w3v-quantstamp-x-common-defense-singapore-sips",
-    "name": "Quantstamp x Common Defense x Hypernative x Lukka | Singapore Sips | TOKEN2049 Singapore",
-    "description": "[Join Quantstamp](https://quantstamp.com/?utm_source=luma), [Common Defense](https://www.commondefense.ai/?utm_source=luma), [Hypernative](https://www.hypernative.io/), [and Lukka](https://lukka.tech/) for an exclusive networking evening in Singapore!\n\nMeet the teams, connect with peers from across the ecosystem, and unwind over cocktails with fellow innovators shaping the future of Web3 and AI ✨\n\nRegister now to secure your spot 🎟️\n\n## The Hosts\n\nQuantstamp is a global leader in blockchain security. Since 2017, we’ve secured billions in digital assets and worked with some of the most recognized names in web3.\n\n[Follow on X: x.com/quantstamp](https://x.com/quantstamp)\n[Learn more: quantstamp.com](https://quantstamp.com)\n\n## Protecting humans from AI-native threats\n\nDefending people and organizations across email, messaging, social platforms, professional networks, and voice and video calls.\n\n[Follow on X: x.com/CommonDefenseAI](https://x.com/CommonDefenseAI)\n[Learn More: commondefense.ai](https://commondefense.ai)\n\nHypernative is the proactive onchain security platform for enterprises and institutions. We predict and neutralize digital asset threats before they materialize, unifying real-time monitoring, transaction security, fraud prevention, compliance screening, and automated response in a single, institutional-grade platform.\n\nPowered by the most battle-tested machine learning engine in digital asset security, Hypernative has actively prevented over $3 billion in losses across 75+ blockchains, all verifiable onchain.\n\nTrusted by 350+ leading organizations including top financial institutions, exchanges, asset managers, protocols, and chains, Hypernative provides the security infrastructure that gives enterprises and institutions the confidence to operate and scale in the onchain economy.\n\n[Follow on X: x.com/HypernativeLabs](https://x.com/HypernativeLabs)\n[Learn more: hypernative.io](https://hypernative.io)\n\nLukka is the institutional-grade platform for digital assets, delivering trusted pricing, reference data, valuation, blockchain analytics, compliance, and audit-ready reporting where every number traces back to its source. Lukka gives banks, asset managers, exchanges, auditors, regulators, and other institutions the end-to-end infrastructure to value, reconcile, report, and govern on-chain and off-chain activity with confidence.\n\nFollow on X: https://x.com/Lukka\n[Learn more: lukka.tech](https://lukka.tech/)\n\n## Media Partner\n\nMira is the discovery platform for digital finance and frontier tech — events, companies, jobs, and the people building it.\n\nFollow on X: https://x.com/miragather\n[Learn more: miragather.com](https://miragather.com/)",
-    "startDate": "2026-10-07T11:00:00.000Z",
-    "endDate": "2026-10-07T15:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/lj8vcxk7",
-    "coverImage": "/events/w3v-quantstamp-x-common-defense-singapore-sips-dbf5dbb2.webp",
-    "source": "token2049-official",
-    "bypassedFilter": true,
-    "month": "October 2026",
-    "category": "Party/Dinner",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "Quantstamp",
-      "Common Defense",
-      "Hypernative Events",
-      "Paige Connor"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "slug": "qxcds",
-    "registrationUrl": "https://luma.com/lj8vcxk7",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Common Defense",
-      "url": "https://www.commondefense.ai/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/lj8vcxk7",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/lj8vcxk7",
-      "eventId": "evt-eTG3bcFgfGf6th7",
-      "fetchedAt": "2026-09-19T23:54:39.941Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "w3v-retrofuture-soiree-by-changenow-singapore-edition",
-    "name": "Retrofuture Soiree by ChangeNOW: Singapore Edition",
-    "description": "ChangeNOW After 2049\n\nDay 1 ends here.\nWhen TOKEN2049 winds down for the day, we're taking things upstairs.\n\nJoin ChangeNOW at one of Singapore’s celebrated cocktail bars, known for drinks that turn the stories and cultural moments of the 1960s into a menu, for a late-night hangout after Day 1.\n\nDrinks, music you can still talk over, familiar faces and a little more time with the people you didn't get enough of on the conference floor.\n\nFor one night, ChangeNOW brings its retro-future world to life through 1960s-inspired interiors, capsule geometry and a few details made just for the occasion.\n\nExpect:\n\n• Custom ChangeNOW cocktails and late-night bites\n• A retro-future photo space inspired by capsule architecture\n• A limited-edition takeaway for each guest, centred on one question: if crypto had been around in the 1960s, how would you have kept a seed phrase secure for six decades? We made our answer. You'll take it home.\n• A short welcome from Pauline Shangett and Martin Masser, then the rest of the night is yours\n\nStay for the drinks, the people, and the conversations that are better once the day is over.\n\nWhen\nWednesday, October 7\nDoors: 07:00 PM · Welcome: 08:00 PM\n\nWhere\nExact location will be shared with approved guests.\n\nTickets\nFree, but strictly limited.\nEntry is by approval only.\n\nEvent summary\n\nClose out Day 1 of TOKEN2049 with ChangeNOW. An intimate late-night event with custom cocktails, retro-future details, a limited-edition guest gift, and some extra time with the people you came to Singapore to meet.",
-    "startDate": "2026-10-07T12:00:00.000Z",
-    "endDate": "2026-10-07T16:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/1phznwy6",
-    "coverImage": "/events/w3v-retrofuture-soiree-by-changenow-singapore-edit-b3ad2a3a.webp",
-    "source": "token2049-official",
-    "bypassedFilter": true,
-    "month": "October 2026",
-    "category": "Party/Dinner",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "ChangeNOW"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "slug": "rsc",
-    "registrationUrl": "https://luma.com/1phznwy6",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "ChangeNOW"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/1phznwy6",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/1phznwy6",
-      "eventId": "evt-bOryYZfE4vV8wAz",
-      "fetchedAt": "2026-09-19T23:54:41.224Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "w3v-payments-treasury-and-tokenization-summit-2026",
     "name": "Payments, Treasury and Tokenization Summit 2026 by 8 Circle, XDC, PWC and Microsoft",
     "description": "## Payments, Treasury and Tokenization Summit 2026\n\nThe Payments, Treasury & Tokenization Summit is an invitation-only executive gathering bringing together senior leaders shaping how institutions move money, manage liquidity and invest in financial infrastructure.\n\nConvened by 8 Circle, XDC, PwC and in collaboration with Microsoft, during Singapore TOKEN2049 Week. Metable labs will be the Technology partner. The summit will explore the convergence of agentic payments, programmable money, intelligent treasury, tokenized financial infrastructure and institutional liquidity.\n\nThis is not a broad industry conference. It is a deliberately curated room of decision-makers—including banking and payments executives, CFOs and treasurers, enterprise technology leaders, and senior risk, compliance and security professionals. Every participant is selected for their decision-making authority, infrastructure or budget ownership, active strategic priorities and ability to contribute to substantive executive dialogue.\n\nKey themes include:\n\n• Agentic payments and machine-initiated transactions\n• AI-enabled treasury, liquidity forecasting and FX management\n• Programmable money and conditional settlement\n• Tokenized deposits, funds and real-world assets\n• Institutional access to on-chain liquidity\n• Identity, delegated authority, governance and security\n• Interoperability across banking and blockchain rails\n\nAGENDA\n\n8:30–9:00 AM\nExecutive Breakfast & Curated Introductions\nHosted introductions connecting participants and partners around shared priorities before the programme begins.\n\n9:00–9:30 AM\nKeynote Speeches & Host Introductions\nOpening remarks and host introductions setting the context for the programme ahead.\n\n9:30–10:20 AM\nRoundtable 1: Agentic Payments & Programmable Money\nA discussion on how AI agents, programmable payments and emerging settlement models will change the movement of money—while maintaining institutional control, accountability, compliance and security.\n\n10:20–10:30 AM\nBreak\n\n10:30–11:20 AM\nRoundtable 2: Intelligent Treasury, Tokenization & Liquidity Convergence\nA discussion on how institutions can tokenize assets, transform treasury operations, manage liquidity and connect digital markets with traditional capital and distribution.\n\n11:20 AM–12:00 PM\nExecutive Conclusions & Partner Follow-Up\nPriority actions for intelligent, programmable and future-secure financial infrastructure, followed by dedicated time for continued conversations.\n\nEVENT DETAILS\n\nThursday, 8 October 2026\n8:30 AM–12:00 PM\nSingapore • TOKEN2049 Week\nBy invitation only\n\nOne morning. One room. The right decision-makers.",
@@ -3299,33 +3095,6 @@
     }
   },
   {
-    "id": "token2049-side-6aa3f80a967be0befa88dd56",
-    "name": "Origins Hackathon - Day 2",
-    "description": "TOKEN2049 Origins Hackathon, October 6–8, 2026 at Marina Bay Sands Singapore — 200 participants, 36 hours, $150,000 in prizes.\n\n## Format\n\nTake your idea from concept to working product in just 36 hours. Build in DeFi, infrastructure, NFTs, or AI, get mentorship, and demo on the TOKEN2049 stage to 25,000 attendees. The hackathon runs alongside TOKEN2049 Singapore at Marina Bay Sands. Rest and chill-out spaces are available on a first-come, first-served basis.\n\n## Access\n\nConnect with 25,000 attendees, media, and industry leaders shaping Web3. Applications for 2026 are closed — join the Origins 2027 waitlist.\n\nFinalists demo on the main stage, with tracks across DeFi, infrastructure, NFTs, and AI.",
-    "startDate": "2026-10-07T00:00:00+08:00",
-    "endDate": "2026-10-07T23:59:00+08:00",
-    "city": "Singapore",
-    "country": "SG",
-    "location": "Marina Bay Sands, Singapore, SG",
-    "url": "https://www.token2049.com/singapore/2049-origins",
-    "coverImage": "/events/token2049-side-6aa3f80a967be0befa88dd56-231c27ed.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Workshop/Hackathon",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "venueName": "Marina Bay Sands",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "descriptionSource": {
-      "url": "https://www.token2049.com/singapore/2049-origins",
-      "fetchedAt": "2026-09-22T12:14:29.000Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "TOKEN2049 Origins Hackathon, October 6–8, 2026",
-      "sha256": "b86efaf38ce581aecf4a038346c252f9625f4f3ab9ece483fedfb8c5ddcd4852"
-    }
-  },
-  {
     "id": "token2049-side-6a4fb19410f84b19adc7250e",
     "name": "Sui Basecamp 2026",
     "description": "## October 7-8, 2026\n\nThe next $5 trillion in transactions won't be human.\n\nAgentic finance needs the right rails.\n\nInstant settlement. Autonomous payments. Private transactions. Stable digital dollars. Post-quantum security. Portable memory.\n\nThe foundation is laid. The agentic future will be built on Sui. Build with us.\n\nJoin us in Singapore for Sui Basecamp 2026 at the iconic Marina Bay Sands with TOKEN2049. Connect with the global Sui community - founders, builders, developers, investors, traders - to explore what comes next.\n\n## Speakers\n\n• Evan Cheng: Co-Founder, CEO & CTO, Mysten Labs\n• Raoul Pal: CEO & Co-Founder, Real Vision\n• Adeniyi Abiodun: Co-Founder & Chief Product Officer, Mysten Labs\n• Hilmar Veigar Petursson: CEO, Fenris Creations (formerly CCP Games)\n• Jen Zhu Scott: CEO & Co-Founder, Power Dynamics\n• Alexandre Moufarek: Director of Inception, Google DeepMind\n• Kostas Chalkias: Co-Founder & Chief Cryptographer, Mysten Labs\n• Brian Quintenz: Board Director, Sui Group Holdings\n• Richard Socher: Co-Founder & CEO, Recursive & You.com\n• Michaël van de Poppe: Founder & CIO, MN Capital & MN Fund\n• Kimberly Logan: Head of Product, Walrus Foundation\n• Funkii: Founder & CEO, t2000 / Audric\n• Arpan Nanavati: Co-Founder & CEO, Beep\n• Sejin Park: CEO, Gorae Labs\n• Nick Young: Co-Founder, TBook\n• Lola Oyelayo-Pearson: Founder & CEO, Anyflo\n• Ivan Li: Founding Partner, Comma3 Ventures\n\n[And many more. Check out the full lineup at sui.io/basecamp](https://sui.io/basecamp).\n\n## We're going after our own TPS record\n\nOn July 4 we pushed Sui to 6M+ transactions per second through a live experiment. On day one of Sui Basecamp, Kostas Chalkias and team run it again, live on the main stage, verified in real-time by CertiK.\n\nCall the number: submit one guess for what TPS will be achieved. Closest 3 [guesses to the final figure earn prizes. Submit your guess »](https://go.sui.io/suibasecamptps)\n\n## Our Sponsors\n\nDiamond\n\n[EVE Frontier](https://evefrontier.com/en) is a moddable, hardcore survival experience and next-gen [virtual world from the creators of EVE Online. Follow on X](https://x.com/EVE_Frontier) [and Discord](https://discord.com/invite/evefrontier).\n\n[Walrus](https://walrus.xyz/) is the data platform built for the demands of AI. It makes data portable, protected, and verifiable by anyone. [Created by the ex-Meta engineers behind Sui. Follow on X](https://x.com/WalrusProtocol) [and LinkedIn](https://www.linkedin.com/company/walrus-foundation/).\n\nPlatinum\n\n• [ONE Championship](https://www.onefc.com/)\n• [SUIG](https://www.suig.io/)\n\nGold\n\n• [Slush](https://slush.app/)\n\nSilver\n\n• [RedotPay](https://www.redotpay.com/)\n• [Scallop](https://scallop.io/)\n\nBronze\n\n• [Anyflo](https://anyflo.io/)\n• [Bluefin](https://bluefin.io/)\n• [Merkle Science](https://www.merklescience.com/)\n• [Sentio](https://www.sentio.xyz/)\n• [WaterX](https://waterx.app/en/trade)\n\n[Interested in sponsoring Sui Basecamp? Apply here](https://docs.google.com/forms/d/e/1FAIpQLSeP9OoN07rUD_V3n6so9YgW4XyOyRjq33t_E3l47M9VVeB_nw/viewform)\n\nBy participating in this event, [you agree to our Event Participation Terms & Conditions](https://drive.google.com/file/d/1rnbsqX02Xmd--RYMQO0Tuz57TkgFG_cs/view?usp=sharing). [Read about our Privacy Policy](https://sui.io/policy#:~:text=We%20will%20never%20ask%20you,your%20use%20of%20the%20Services) [and Terms of Service](https://sui.io/terms#:~:text=You%20acknowledge%20sole%20responsibility%20for,of%20any%20third-party%20resources.&text=We%20may%20suspend%20or%20terminate%20your%20access%20to%20and%20use,and%20without%20notice%20to%20you).",
@@ -3498,369 +3267,6 @@
       "url": "https://luma.com/vylnjbnb",
       "eventId": "evt-hQSTDXKUwkdHICZ",
       "fetchedAt": "2026-09-19T23:55:07.473Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "token2049-side-6aa16257967be0befa88cf91",
-    "name": "The CMO Summit: Top 0.01% Club",
-    "description": "## The CMO Summit: Top 0.01% Club\n\n📍 Venue: CÉ LA VI Singapore\n⏳ When: Wed, Oct 7 · 5:00 PM – 11:30 PM GMT+8\n\nEVENT OVERVIEW\nAn evening for the people who are building Web3's next marketing cycle.\n\nA high-level gathering of CMOs, growth leads and brand builders from across Web3, AI and fintech, in one room for one night during TOKEN2049 Singapore week.\n\nThis is not a conference. It's a closed-door room built for the conversation that usually happens in private: what actually worked this year, what quietly stopped working, and where the budget is going next.\n\nWHO SHOULD ATTEND\n\n• CMOs, VPs & Marketing Directors\n• Branding & Growth Strategy Heads\n• Web3 / Crypto Marketing Teams\n• AI & Data Driven Marketing Professionals\n• Founders, VCs, and Product Leaders\n• KOLs, Creators & Community Builders\n\nVISUAL VIBES\n\nWHAT'S ON THE TABLE?\n\n• Closed-door Roundtable: What genuinely converted this year, with numbers\n• Marketing in the agentic era, and where AI moved the needle versus where it just made noise\n• Rebuilding attribution after the old metrics stopped holding up\n• What's still working in KOL, and what quietly stopped\n• Hiring and structuring a Web3 marketing team in 2026\n\nHOW THE NIGHT RUNS\n\n• 5:00 - 6:00 PM · Arrival, welcome drinks and the skyline\n• 6:00 - 6:45 PM · Roundtable 1 - KOL spend: What actually converted this year\n• 6:45 - 7:30 PM · Roundtable 2 - Marketing in the Agentic era\n• 7:30 - 8:30 PM · Dinner and open networking\n• 8:30 - 10:00 PM · Cocktails and closing mixer\n\nCALL TO ACTION\nSecure your spot and step into a room full of the brightest marketing leaders in Singapore.\n🎟️ Apply for Invitation\n📩 [Inquiries: Telegram: @AlexThorneTG](https://t.me/AlexThorneTG)",
-    "startDate": "2026-10-07T09:00:00.000Z",
-    "endDate": "2026-10-07T15:30:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "CÉ LA VI Singapore, 1 Bayfront Avenue, Hotel, Tower 3 Marina Bay Sands, Singapore 018971",
-    "url": "https://luma.com/bov0h3l2",
-    "coverImage": "/events/token2049-side-6aa16257967be0befa88cf91-7474d322.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Conference/Summit",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "Helium Ventures",
-      "Alex Thorne"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "neighborhood": "Central Area",
-    "slug": "cmo-summit",
-    "registrationUrl": "https://luma.com/bov0h3l2",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "CÉ LA VI Singapore",
-    "streetAddress": "1 Bayfront Avenue, Hotel, Tower 3 Marina Bay Sands, Singapore",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "coordinates": {
-      "latitude": 1.2846705,
-      "longitude": 103.860986
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/bov0h3l2",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/bov0h3l2",
-      "eventId": "evt-qiCQMKuebmvhQtm",
-      "fetchedAt": "2026-09-19T23:55:42.613Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "token2049-side-6a8eb8a0e258d468339534b0",
-    "name": "Founder X VC Roundtable - Day 1",
-    "description": "Founder X VC Roundtable brings together a carefully selected group of founders, venture investors, and senior ecosystem leaders for a private, high-signal gathering built around meaningful conversations and genuine connections.\n\nThis is not another crowded networking event.\n\nNo endless pitches.\nNo expo-floor noise.\nNo forced introductions.\n\nJust a limited room of people who are building, investing, and shaping what comes next in Web3.\n\n## WHAT TO EXPECT\n\nCurated Founder × VC\n\nConversations\nInvestor Gathering\nFounder Perspectives\nPrivate Networking\n\nWHO'S IN THE ROOM\n\nFounders\nBuilding ambitious companies and looking to connect with relevant investors, strategic partners, and ecosystem leaders.\n\nVCs & Investors\nActively deploying capital and looking for exceptional founders, emerging opportunities, and differentiated ideas.\n\nEcosystem Leaders & Operators\nPeople with the experience, network, and perspective to help move businesses and ideas forward.\n\nLimited access. Curated attendance. TOKEN2049 Singapore.",
-    "startDate": "2026-10-07T10:00:00.000Z",
-    "endDate": "2026-10-07T15:30:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Wakuda, 10 Bayfront Avenue, Marina Bay Sands, Hotel Tower 2, Lobby, Singapore 018956",
-    "url": "https://luma.com/ezn1mkct",
-    "coverImage": "/events/token2049-side-6a8eb8a0e258d468339534b0-67d851a2.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Networking",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "American Blockchain Association"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "neighborhood": "Central Area",
-    "slug": "fxvrd1",
-    "registrationUrl": "https://luma.com/ezn1mkct",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Wakuda",
-    "streetAddress": "10 Bayfront Avenue, Marina Bay Sands, Hotel Tower 2, Lobby, Singapore",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "coordinates": {
-      "latitude": 1.2837271,
-      "longitude": 103.86078839999999
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/ezn1mkct",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/ezn1mkct",
-      "eventId": "evt-3SfGJkKAWAF48cf",
-      "fetchedAt": "2026-09-19T23:55:43.074Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "token2049-side-6a7ea639d354d830a22402c7",
-    "name": "Convergence Mixer by Surgence Labs | Token2049 Singapore",
-    "description": "Convergence by Surgence Labs\n\nTOKEN2049 · Singapore Edition\n\nOne city. One week. And conversations that shape the trajectory of the year ahead.\n\nConvergence is an evening built for the people driving this industry forward. Founders, funds, exchanges, protocols and operators, in one room, at the point in the week when everyone worth knowing is already in the city.\n\nAn open floor, good drinks, and the conversations that tend to happen when a room is curated rather than filled.\n\nWhat to expect\n\nA curated room. Attendance is capped and reviewed. Every person there is building, backing, or scaling something serious.\n\nBuilt for conversation. Drinks, food and an open floor from start to finish, in a setting designed for people to actually talk.\n\nIntroductions that matter. The Surgence team knows the room. If there is someone you should meet, we will make it happen.\n\nWho should be there\n\nFounders and teams building in Web3 and AI. Funds and angels deploying into the next cycle. Exchange, protocol and infrastructure leads. Operators running growth, product and partnerships at serious companies.\n\nAbout Surgence Labs\n\nSurgence Labs is a full-stack go-to-market studio for blockchain and AI companies. Headquartered in Dubai with 40+ in-house specialists across strategy, creative, development and distribution, we operate as an embedded growth function for the teams we work with, building the distribution infrastructure and retention systems that turn technical products into adopted ones.\n\nConvergence is our event series, bringing the best and the brightest under one roof at the biggest events in the world. Singapore is the first stop.\n\nDetails\n\n📅 7th, October 2026\n🕕 7:00 PM Onwards\n📍 To be disclosed later\n\nRegistration is reviewed. Confirmed attendees will receive venue details by email.",
-    "startDate": "2026-10-07T12:00:00.000Z",
-    "endDate": "2026-10-07T16:00:00.000Z",
-    "location": "Location to be announced",
-    "url": "https://luma.com/convergence-mixer-by-surgencelabs?tk=0yS6zl",
-    "coverImage": "/events/token2049-side-6a7ea639d354d830a22402c7-36de15ad.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Party/Dinner",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "Surgence Labs",
-      "Ruthy Builds",
-      "Rishab Dugar",
-      "Vinh"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "slug": "cmsl",
-    "registrationUrl": "https://luma.com/convergence-mixer-by-surgencelabs",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "organizer": {
-      "type": "Organization",
-      "name": "Surgence Labs",
-      "url": "https://luma.com/Surgencelabs"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/convergence-mixer-by-surgencelabs",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/convergence-mixer-by-surgencelabs",
-      "eventId": "evt-6kwsq9uruPIbqXb",
-      "fetchedAt": "2026-09-19T23:55:44.381Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "token2049-side-6a9912ffd567345aad68344b",
-    "name": "The Next Horizon Soireé",
-    "description": "Join us for The Next Horizon Soirée, a private evening bringing together founders, investors, C-level executives, ambassadors, and leaders across technology, finance, Web3, and mobility during F1 and TOKEN2049 week in Singapore.\n\nHosted at the historic Singapore Cricket Club, overlooking the F1 circuit, the evening will feature the Singapore unveiling of Rezon Bohemia by Leo Electric — a celebration of the future of electric mobility and innovation.\n\nGuests can enjoy complimentary free-flow drinks, signature canapés, and a curated programme of live entertainment throughout the evening, including live music, a dance performance, and a DJ set.\n\nThe guest list is limited and curated to encourage meaningful conversations, new connections, and cross-sector collaboration in an intimate setting.\n\nDress code: Smart Casual OR Tropical Business Casual! 😎",
-    "startDate": "2026-10-07T11:00:00.000Z",
-    "endDate": "2026-10-07T16:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore Cricket Club, A Connaught Dr, Singapore 179681",
-    "url": "https://luma.com/ei99pxs8",
-    "coverImage": "/events/token2049-side-6a9912ffd567345aad68344b-a044e913.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Party/Dinner",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "Leo Electric"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "neighborhood": "Downtown Core",
-    "slug": "nhs",
-    "registrationUrl": "https://luma.com/ei99pxs8",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Singapore Cricket Club",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "coordinates": {
-      "latitude": 1.2888541000000002,
-      "longitude": 103.85203039999999
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/ei99pxs8",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/ei99pxs8",
-      "eventId": "evt-hCcc9CqKry8rqtM",
-      "fetchedAt": "2026-09-19T23:55:45.701Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "token2049-side-6aa12348967be0befa88ce4e",
-    "name": "Cross-Chain Networking Happy Hour During Token2049",
-    "description": "[Join n.exchange](https://n.exchange) for an exclusive networking happy hour during Token2049.\n\nWhether you’re building wallets, exchanges, fintech products, or [institutional crypto infrastructure, come meet the n.exchange](https://n.exchange) team and connect with industry leaders over drinks and finger food.\n\nWe’ll be hosting an informal evening of great conversations, new partnerships, and networking with teams shaping the future of digital assets.\n\n🍸 Drinks included\n\n🥟 Finger food & tapas\n\n🤝 Wallets • Exchanges • Institutions • Infrastructure • Medias/KOLs\n\n🤝 Interested in co-hosting an event with us? Reach out on Telegram: @marknexc\n\nFollow our telegram channel for news and updates: https://t.me/nexchange1\n\n📅 Friday, October 7 | 7:00 PM – 11:00 PM\n\nPlease Note: Registering for this event does not guarantee entry. Admission is on a first-come, first-served basis and subject to venue capacity. RSVP now or join the waitlist to increase your chances of securing a spot.\n\nWe look forward to seeing you there!",
-    "startDate": "2026-10-07T11:00:00.000Z",
-    "endDate": "2026-10-07T15:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/2mg13vuz",
-    "coverImage": "/events/token2049-side-6aa12348967be0befa88ce4e-bbf17a6b.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Party/Dinner",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "Mark",
-      "n.exchange",
-      "Bassam",
-      "Oleg"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "slug": "ccnhh",
-    "registrationUrl": "https://luma.com/2mg13vuz",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/2mg13vuz",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/2mg13vuz",
-      "eventId": "evt-2TMi8q09wS0tylc",
-      "fetchedAt": "2026-09-19T23:55:46.480Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "token2049-side-6a5800e4695677e454daf3f5",
-    "name": "Crypto Noir:After Party",
-    "description": "When the conferences ends, the real night begins.\n\nStep into Crypto Noir, the most electric side event of Token2049 Singapore. Hosted by Atlassoit Security, this isn’t a panel, workshop, or networking mixer. it’s a high-voltage party experience built for founders, investors, degens, and dreamers who want to go all out.\n\nFollow Us - https://x.com/Atlassoit\n\n## What to Expect\n\n🔥 Rooftop Venue with panoramic city views\n🔥  DJs spinning techno, house & cyberpunk beats\n🔥 Immersive Light & Laser Show with neon glitch visuals\n🔥 Signature Crypto Cocktails (The Rug Pull, Moonshot Mule, Exit Scam Espresso)\n🔥 Live Performances & Secret Drops throughout the night\n🔥 Exclusive VIP Areas for sponsors & special guests\n\n## Who’s Coming\n\n• Founders, investors, and builders who want to party without limits\n• Token2049 attendees looking for the wildest night of the week\n• The Web3 crowd that knows the best deals happen after dark\n\n## For Sponsorships [and inquiries, please get in touch with Carl via Telegram](https://t.me/CarlAtlassoit).\n\n## Why This Party?\n\nBecause Token2049 is more than panels and keynotes.\nIt’s about making memories, building connections, and celebrating Web3 culture in style.\n\nAtlassoit Security brings you a night of chaos, energy, and unforgettable vibes.\n\nWe’re currently open to a limited number of sponsor partnerships to co-host or ecosystem partner roles.\n\nTelegram - https://t.me/Atlassoit\n\n[Events head - Carl miller](https://t.me/carlatlassoit)\n\nContact - kishan@atlassoit.co\n\n## 📸 Past Vibes\n\nLast year -\n\nWe’ve thrown legendary side events at ETHCC Cannes and Token2049 Dubai with NEAR Protocol & Camp Network.\nNow we’re bringing that same energy but louder, wilder, bigger  to Singapore.\n\nMedia Co-host -\n\n## Media Partners -\n\n• [Cryptopolitan](https://cryptopolitan.com/) - One of the World's most influential tech and crypto new outlets.\n\n• [Coingabbar](https://coingabbar.com/) - Coingabbar is your go-to platform for comprehensive cryptocurrency news and updates.",
-    "startDate": "2026-10-07T11:30:00.000Z",
-    "endDate": "2026-10-07T17:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/hiduaq79",
-    "coverImage": "/events/luma-recover-token2049side6a5-ac4081ba.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Party/Dinner",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "NonLocal"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "slug": "crypto-noir",
-    "registrationUrl": "https://luma.com/hiduaq79",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "NonLocal Events",
-      "url": "https://luma.com/Nonlocal"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/hiduaq79",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "VIP",
-        "url": "https://luma.com/hiduaq79",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "Sponsors / Partners",
-        "url": "https://luma.com/hiduaq79",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/hiduaq79",
-      "eventId": "evt-eqhxvfE7WCi6rUe",
-      "fetchedAt": "2026-09-19T23:55:48.318Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "token2049-side-6a9a9f20967be0befa88b7d8",
-    "name": "UPay Powering Modern Payments",
-    "description": "Powering Modern Payments is UPay’s private, invitation-only evening created for strategic partners, VIP clients and leaders shaping the next era of global payments.\n\n✅ No long panels.\n✅ No stage-heavy programming.\n✅ No crowded sponsor booths.\n\nJust a carefully curated room of decision-makers in a premium setting designed for meaningful connections.\n\nThe experience combines executive networking, premium hospitality, partner activations, exclusive merchandise, media content and a branded lucky draw.\n\nAbove Marina Bay / During TOKEN2049 Singapore / Surrounded by the right people.\n\n## 👥 Who's In The Room\n\nPayments and FinTech - payment companies, card issuers, processors, infrastructure providers, wallets and financial technology platforms.\n\nWeb3 and Crypto Projects - founders, core contributors, ecosystem leaders and business development teams.\n\nExchanges and Wallets - centralized and decentralized exchanges, custody providers and digital-asset products.\n\nCapital and Growth - investors, market makers, strategic operators and partnership leaders.\n\nKOLs, Media and Communities - creators, industry influencers, journalists and community partners.\n\n## 🤝 Host\n\n[UPay](https://upay.com/) is a global financial technology platform building modern payment solutions that connect digital assets with everyday financial experiences. Through consumer and business payment solutions, UPay enables individuals and businesses to move, manage and use value across borders more seamlessly.\n\n[Website: www.upay.com](https://www.upay.com)\n[B2B: Crypto Payment Gateway for Modern Businesses](https://business.upay.com/)\n\nSocials:\nhttps://x.com/UPayOfficial_EN\nhttps://www.linkedin.com/company/upay-technology-ltd/\nhttps://www.youtube.com/@UPayOfficial_EN\nhttps://t.me/UPayOfficial\n\n## Title Sponsor\n\nPayTheFly(DeScript Labs INC) is a leading provider in digital asset settlement and merchant technology, supporting businesses with scalable infrastructure designed for real-world commerce.\n\nSocials:\n[PayTheFly - Intent-based On chain Payment](https://paythefly.com/)\nPayTheFly (@paythefly) / [X](https://x.com/paythefly)\n[DeScript Labs INC - PayTheFly: Posts | LinkedIn](https://www.linkedin.com/company/descript-paythefly/posts/?feedView=all)\n\n## Platinum Sponsor\n\nSafeheron offers institutional-grade, comprehensive digital asset self-custody services and MPC privatization solutions, enabling enterprises to securely and efficiently manage their digital assets.\n\nWebsite: Institutional [MPC Self-Custody & Wallet Infrastructure | Safeheron](https://safeheron.com/)\nSocials:\n https://x.com/Safeheron\n https://www.linkedin.com/company/safeheron/\n\n## Gold Sponsor\n\n[CryptoLicense.io](https://CryptoLicense.io) helps digital asset businesses go from application to operation. Get licensed. Get banked. Go live. We're the compliance partner behind payment businesses that actually launch.\n\nSocials:\nhttps://www.linkedin.com/company/cryptolicense/\n\n## Media Partners:\n\nUStar is a global Web3 KOL incubation and influencer intelligence network to help build, grow, and commercialize Web3 creators, while giving companies a smarter way to discover and evaluate influencers for campaigns.\n\n[UStar — Global Web3 KOL Incubation & Influence Network](https://ustarmax.com/)\nUSTARMAX (@ustarmax) / [X](https://x.com/ustarmax)\n[LinkedIn](https://www.linkedin.com/company/ustarmax/posts/?feedView=all)\n\n## Brought to you by:\n\n[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.\n\nFor sponsor inquiries [for the penthouse editions, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.",
-    "startDate": "2026-10-07T12:00:00.000Z",
-    "endDate": "2026-10-07T15:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/TBE-UPAY",
-    "coverImage": "/events/token2049-side-6a9a9f20967be0befa88b7d8-6c08178e.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Networking",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "The Best Event",
-      "Vivian Laurant",
-      "Tobias Bauer",
-      "Brent Fulfer",
-      "Mihir Odhrani"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "slug": "pmp",
-    "registrationUrl": "https://luma.com/TBE-UPAY",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "The Best Event",
-      "url": "https://thebestevent.com/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/TBE-UPAY",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/TBE-UPAY",
-      "eventId": "evt-7rWvVQNzQSrq7Au",
-      "fetchedAt": "2026-09-19T23:55:49.246Z",
       "method": "luma-api",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
@@ -6049,20 +5455,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-host-evt-evt-eTEkZPCdHSRnFz5",
-    "name": "Collably Matchmaking Network — TOKEN2049 Singapore Week",
-    "description": "",
-    "startDate": "2026-10-06T23:00:00.000Z",
-    "endDate": "2026-10-07T16:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore",
-    "url": "https://luma.com/cxpqyjcg",
-    "coverImage": "/events/luma-host-evt-evt-etekzpcdhsrnfz5-033473e0.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-host-evt-evt-G5rhLHBc0R1dAz8",
     "name": "BTCC Traders Club @ TOKEN2049",
     "description": "",
@@ -6118,89 +5510,6 @@
     "month": "October 2026"
   },
   {
-    "id": "w3v-singapore-goclub-event-gomining-26-10-07",
-    "name": "Singapore GoClub event by GoMining",
-    "description": "Singapore GoClub event by GoMining: A private Bitcoin-focused gathering in Singapore on October 7.",
-    "startDate": "2026-10-07T10:00:00.000Z",
-    "endDate": "2026-10-07T15:00:00.000Z",
-    "city": "Singapore",
-    "country": "SG",
-    "location": "Singapore, SG",
-    "url": "https://luma.com/my49z704",
-    "coverImage": "/events/w3v-singapore-goclub-event-gomining-26-10-07-d9a3591c.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-2TMi8q09wS0tylc",
-    "name": "Cross-Chain Networking Happy Hour During Token2049",
-    "description": "",
-    "startDate": "2026-10-07T11:00:00.000Z",
-    "endDate": "2026-10-07T15:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore",
-    "url": "https://luma.com/2mg13vuz",
-    "coverImage": "/events/luma-host-evt-evt-2tmi8q09ws0tylc-58ecf15f.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-eTG3bcFgfGf6th7",
-    "name": "Quantstamp x Common Defense x Hypernative x Lukka x Cloudflare | Singapore Sips | TOKEN2049 Singapore",
-    "description": "",
-    "startDate": "2026-10-07T11:00:00.000Z",
-    "endDate": "2026-10-07T15:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore",
-    "url": "https://luma.com/lj8vcxk7",
-    "coverImage": "/events/luma-host-evt-evt-etg3bcfgfgf6th7-131b05c1.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-OvJir2VIHLcT0of",
-    "name": "Crypto Banter Event Singapore - Powered by Tape",
-    "description": "",
-    "startDate": "2026-10-07T11:00:00.000Z",
-    "endDate": "2026-10-07T17:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore",
-    "url": "https://luma.com/e1rgiyi4",
-    "coverImage": "/events/luma-host-evt-evt-ovjir2vihlct0of-3e5b850e.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-KD6jLHimnBO4KxZ",
-    "name": "Kraken Pro After Dark: Token2049 Singapore",
-    "description": "",
-    "startDate": "2026-10-07T12:00:00.000Z",
-    "endDate": "2026-10-07T18:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore",
-    "url": "https://luma.com/krakenafterdark-singapore2026",
-    "coverImage": "/events/luma-host-evt-evt-kd6jlhimnbo4kxz-75223b6d.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-MGtrakjrohkd87n",
-    "name": "BloFin WHALE3RA x TOKEN2049",
-    "description": "",
-    "startDate": "2026-10-07T13:00:00.000Z",
-    "endDate": "2026-10-07T18:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore",
-    "url": "https://luma.com/BloFinWHALE3RA",
-    "coverImage": "/events/luma-host-evt-evt-mgtrakjrohkd87n-98824e59.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
     "id": "w3v-institutional-breakfast-securing-digital-assets-scale-26-10-08",
     "name": "Institutional Breakfast: Securing Digital Assets at Scale",
     "description": "Institutional Breakfast: Securing Digital Assets at Scale: A Singapore breakfast on custody, security and compliance.",
@@ -6211,20 +5520,6 @@
     "location": "Global, SG",
     "url": "https://luma.com/5eviyo3p",
     "coverImage": "/events/w3v-institutional-breakfast-securing-digital-asset-8d76ebcb.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-E9SzKBcDI13xmOq",
-    "name": "Light DAO Town Hall",
-    "description": "",
-    "startDate": "2026-10-07T18:00:00.000Z",
-    "endDate": "2026-10-07T19:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "TBA",
-    "url": "https://luma.com/rff92g45",
-    "coverImage": "/events/luma-host-evt-evt-e9szkbcdi13xmoq-f9078602.webp",
-    "source": "luma-trusted",
     "month": "October 2026"
   },
   {
@@ -9555,7 +8850,7 @@
     "country": "Hong Kong",
     "location": "Hong Kong, Hong Kong",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
+    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -17721,7 +17016,10 @@
     "url": "https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946609/",
     "coverImage": "/events/mu-312946609-64a47ab1.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Frank Migacz"
+    ]
   },
   {
     "id": "mu-316901080",
@@ -17733,7 +17031,7 @@
     "country": "us",
     "location": "Chicago, us",
     "url": "https://www.meetup.com/aittg-chicago/events/316901080/",
-    "coverImage": "/events/mu-316901080-e8ffd8c4.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -18460,20 +17758,20 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261106%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261106T113534Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=3e3dad3a81b743c95ebc8e1c3b8eaebc7fe4a3e244f2e378d17712e1d145d8fe",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261106%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261106T193452Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=02049c15bfd36ca0f0ac3d856fea32bfb2be5589054f4603c5d45aee78acada5",
     "month": "November 2026"
   },
   {
     "id": "luma-host-evt-evt-yPK38OgQ2mKqtUp",
     "name": "SuperteamTR x Dev3pack: University Hackathon ⚡️ — Bursa Chapter",
     "description": "",
-    "startDate": "2026-11-07T09:00:00.000Z",
+    "startDate": "2026-11-07T10:00:00.000Z",
     "endDate": "2026-11-28T21:00:00.000Z",
     "city": "",
     "country": "Türkiye",
     "location": "Türkiye",
     "url": "https://luma.com/4p7vm8o9",
-    "coverImage": "/events/luma-host-evt-evt-ypk38ogq2mkqtup-c564a784.webp",
+    "coverImage": "/events/luma-host-evt-evt-ypk38ogq2mkqtup-3eca5a4b.webp",
     "source": "luma-trusted",
     "month": "November 2026"
   },
@@ -19814,7 +19112,10 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/317064975/",
     "coverImage": "/events/mu-317064975-0dc78544.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-evt-1YkeGIX5PJN3Q9d",
@@ -19974,13 +19275,13 @@
     "id": "luma-evt-DSmVp2B2E7Pwilu",
     "name": "StrongHER — Women's Strength Training",
     "description": "",
-    "startDate": "2026-11-04T23:00:00.000Z",
+    "startDate": "2026-11-09T23:00:00.000Z",
     "endDate": "2026-12-03T00:30:00.000Z",
     "city": "North Brunswick Township",
     "country": "United States",
     "location": "North Brunswick Township, United States",
     "url": "https://lu.ma/orrtdrhz",
-    "coverImage": "/events/luma-evt-dsmvp2b2e7pwilu-30f5bcf4.webp",
+    "coverImage": "/events/luma-evt-dsmvp2b2e7pwilu-5b7bb00c.webp",
     "source": "luma",
     "month": "November 2026"
   },
@@ -20542,7 +19843,7 @@
     "country": "us",
     "location": "Chicago, us",
     "url": "https://www.meetup.com/chibitdevs/events/317110095/",
-    "coverImage": "/events/mu-317110095-abd6e2a6.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -20556,7 +19857,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-chicago/events/317156436/",
-    "coverImage": "/events/mu-317156436-4d6ee4b5.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -21056,13 +20357,13 @@
     "id": "luma-host-evt-evt-XpEsg0H2F3OHceq",
     "name": "SuperteamTR x Dev3pack: University Hackathon ⚡️ — Online + Istanbul",
     "description": "",
-    "startDate": "2026-11-07T09:00:00.000Z",
+    "startDate": "2026-11-07T10:00:00.000Z",
     "endDate": "2026-11-28T21:00:00.000Z",
-    "city": "Beyoğlu",
-    "country": "Türkiye",
-    "location": "Beyoğlu, Türkiye",
+    "city": "",
+    "country": "",
+    "location": "TBA",
     "url": "https://luma.com/uwr4zd04",
-    "coverImage": "/events/luma-host-evt-evt-xpesg0h2f3ohceq-25d9718c.webp",
+    "coverImage": "/events/luma-host-evt-evt-xpesg0h2f3ohceq-9ac2e581.webp",
     "source": "luma-trusted",
     "month": "November 2026"
   },
@@ -22682,7 +21983,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/aecztdcz",
-    "coverImage": "/events/w3v-privy-home-irl-london-61d1d3ef.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -22695,7 +21996,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/blockc-eg04",
-    "coverImage": "/events/w3v-blockchaincom-tyb-party-6dba12f5.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -22991,5 +22292,60 @@
     "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-Z2YyNLsSg3v16cp",
+    "name": "CryptoMondays Institutional - Featuring A Fireside Chat W/ Temple's Dan Simerman",
+    "description": "",
+    "startDate": "2026-11-09T22:30:00.000Z",
+    "endDate": "2026-11-10T01:30:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/k3easjxh",
+    "coverImage": "/events/luma-evt-z2yynlssg3v16cp-9bcc8c2f.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-316047228",
+    "name": "Open Bitcoin Discussion",
+    "description": "Our weekly **open Bitcoin discussion**.\nTo join, RSVP for the event that you can make\n\nThe usual format: live market dashboard to open, \\~20 minutes of curated slides, then open discussion. Bring your",
+    "startDate": "2026-11-11T20:00:00-05:00",
+    "endDate": "2026-11-11T20:00:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/meetup-group-cttlfnfm/events/316047228/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317306948",
+    "name": "🟠 AUGUST Bitcoin & Beers! Join us for this month's BTC BURGER! 🍻 🟠",
+    "description": "🟠 AUGUST BITCOIN & BEERS MEETUP 🟠\n\n📍 Bottle Theory Elmhurst\n📆 August 27th, 2025\n⏰ 6pm - 9/10pm\n\n😎 Let's keep the good vibes rolling this month! Thank you everyone for coming out and spending your",
+    "startDate": "2026-11-25T18:00:00-06:00",
+    "endDate": "2026-11-25T18:00:00-06:00",
+    "city": "Elmhurst",
+    "country": "US",
+    "location": "Elmhurst, US",
+    "url": "https://www.meetup.com/chicago-western-suburbs-bitcoin-meetup/events/317306948/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-devcon-ix-lisbon",
+    "name": "Devcon IX Lisbon",
+    "description": "Devcon IX Lisbon: Ethereum Foundation’s annual developer conference returns on October 11–13, 2027 at the Lisbon Congress Centre.",
+    "startDate": "2027-10-11T08:00:00.000Z",
+    "endDate": "2027-10-13T20:00:00.000Z",
+    "city": "Lisboa",
+    "country": "PT",
+    "location": "Lisboa, PT",
+    "url": "https://devcon.org/lisbon/",
+    "coverImage": "/events/w3v-devcon-ix-lisbon-dee87f0a.webp",
+    "month": "October 2027"
   }
 ]

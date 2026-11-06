@@ -528,23 +528,7 @@
     "url": "https://ethenelabs.xyz",
     "emails": [
       "operations@ethenelabs.xyz"
-    ],
-    "event": {
-      "id": "premier-finalityforum",
-      "slug": "finality-forum-2026",
-      "name": "Finality Forum Singapore 2026",
-      "description": "Ethena Labs' forum on finality, restaking, and stablecoin infrastructure, running alongside TOKEN2049 week.",
-      "startDate": "2026-10-07T09:00:00.000Z",
-      "endDate": "2026-10-07T18:00:00.000Z",
-      "city": "Singapore",
-      "country": "Singapore",
-      "location": "Singapore, Singapore",
-      "url": "https://ethenelabs.xyz",
-      "website": "https://ethenelabs.xyz",
-      "coverImage": "/events/finality.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
+    ]
   },
   {
     "name": "The Odds: Prediction Markets Summit Singapore 2026",

@@ -663,21 +663,6 @@
       "preview": "RWA WEEK — Online & Offline Ecosystem Platform for Real-World Assets tokenization community. Latest news, event calendar, online and offline events, interviews, networking and matchmaking platform."
     },
     {
-      "id": "premier-daweek-london-2026",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://daweek.org/london/",
-        "fetchedAt": "2026-09-20T00:20:40.865Z",
-        "method": "official-section",
-        "pageTitle": "Digital Assets Week in London - October 2026",
-        "sha256": "6d1af912ee9a88fc4bfecd908521158434d26167aef288382c4a6eabb7f00124"
-      },
-      "previousStartDate": "2026-10-06T08:30:00+01:00",
-      "characters": 1245,
-      "preview": "## DA Week Series Sponsors\n\nDigital Assets Week is the world’s leading institutional conference series focused on the digitisation and tokenisation of all asset classes.\n\nThe series is the forum where capital markets transformation is examined in depth, from issuance and market structure to settlement, custody, liquidity and regulatory alignment.\n\nThe underlying foundation of Digital Assets Week is Global Asset Digitisation Projects, making it the only venue where the commercialisation of tokenising assets is discussed comprehensively and at scale.\n\n• The only event focused on bringing digital assets and institutions together\n\n• Highly curated invite-only audience of financial institutions, institutional investors, brokers, private equity and venture capital firms, infrastructure providers"
-    },
-    {
       "id": "premier-token2049-origins-2026",
       "file": "curated-events.json",
       "status": "source-backed",
@@ -1504,29 +1489,6 @@
           "reason": "event-not-matched"
         }
       ]
-    },
-    {
-      "id": "token2049-side-6aa3f80a967be0befa88dd56",
-      "file": "events-cache.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://www.token2049.com/singapore/2049-origins",
-        "fetchedAt": "2026-09-20T00:20:41.129Z",
-        "method": "event-jsonld",
-        "pageTitle": "Origins Hackathon  | TOKEN2049 | Singapore",
-        "sha256": "b86efaf38ce581aecf4a038346c252f9625f4f3ab9ece483fedfb8c5ddcd4852"
-      },
-      "eventFacts": {
-        "venueName": "Marina Bay Sands",
-        "addressLocality": "Singapore",
-        "addressCountry": "SG",
-        "city": "Singapore",
-        "country": "SG",
-        "location": "Marina Bay Sands, Singapore, SG"
-      },
-      "previousStartDate": "2026-10-07T00:00:00+08:00",
-      "characters": 196,
-      "preview": "36-hour crypto hackathon at TOKEN2049 Singapore. 200 participants build projects in DeFi, infrastructure, NFTs, or AI, with mentorship and demo opportunities on the main stage to 25,000 attendees."
     },
     {
       "id": "token2049-side-6a51f5763438be070d7a99de",

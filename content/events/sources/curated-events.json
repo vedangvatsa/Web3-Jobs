@@ -1786,31 +1786,6 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": "/events/premier-daweek-london-2026-9c85e8e6.webp",
-    "id": "premier-daweek-london-2026",
-    "slug": "daweek-london",
-    "name": "Digital Assets Week London 2026",
-    "description": "## DA Week Series Sponsors\n\nDigital Assets Week is the world’s leading institutional conference series focused on the digitisation and tokenisation of all asset classes.\n\nThe series is the forum where capital markets transformation is examined in depth, from issuance and market structure to settlement, custody, liquidity and regulatory alignment.\n\nThe underlying foundation of Digital Assets Week is Global Asset Digitisation Projects, making it the only venue where the commercialisation of tokenising assets is discussed comprehensively and at scale.\n\n• The only event focused on bringing digital assets and institutions together\n\n• Highly curated invite-only audience of financial institutions, institutional investors, brokers, private equity and venture capital firms, infrastructure providers, exchanges and regulators – the entire ecosystem\n\n## The Tower Hotel, by Thistle\n\nExplore unrivalled views of Tower Bridge and discover London from a new perspective at The Tower Hotel.\n\nThe Tower Hotel, by Thistle offers a unique vantage point of the city. Your authentic London experience begins here, surrounded by iconic landmarks, effortless comfort, and breathtaking views.\n\n## Recent Posts\n\n## Recent Comments\n\n## Archives\n\n## Categories",
-    "startDate": "2026-10-06T08:30:00+01:00",
-    "endDate": "2026-10-07T19:00:00+01:00",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "The Tower Hotel, St Katharine's Way, London, UK",
-    "venueName": "The Tower Hotel, by Thistle",
-    "url": "https://daweek.org/london/",
-    "website": "https://daweek.org/london/",
-    "registrationUrl": "https://daweek.org/london/",
-    "descriptionSource": {
-      "url": "https://daweek.org/london/",
-      "fetchedAt": "2026-09-20T00:20:40.865Z",
-      "method": "official-section",
-      "pageTitle": "Digital Assets Week in London - October 2026",
-      "sha256": "6d1af912ee9a88fc4bfecd908521158434d26167aef288382c4a6eabb7f00124"
-    }
-  },
-  {
-    "twitter": null,
-    "source": "curated-premier",
     "coverImage": "/events/premier-token2049-origins-2026-10414ba3.webp",
     "id": "premier-token2049-origins-2026",
     "slug": "token2049-origins",
