@@ -929,6 +929,9 @@
   "https://hashtagweb3.com/hoodidelay?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/okxice?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/near-recovery?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/ldkprobe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/liquidbacking?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/moexcrypto?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2686,6 +2689,12 @@
   "Nine public companies block tokenized shares on OKX and ICE venue",
   "NEAR Intents Recovers $3.8 Million Following October Exploit",
   "NEAR Intents recovers full $3.8M and closes exploit investigation",
+  "LDK Update Prevents Tracking of Private Lightning Channels",
+  "LDK Patch Blocks Probe Linking Private Channels to Their Funding Output",
+  "Liquid Network restores full bitcoin backing after September exploit",
+  "Liquid Network restores full bitcoin backing two months after exploit",
+  "Moscow Exchange to Launch Crypto Trading on December 1",
+  "Moscow Exchange Sets Dec. 1 for Bitcoin, Ether and USDT Trading",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -3144,5 +3153,8 @@
   "fp:2026|25b|annualiz|card|drov|fiscal|growth|mor|over150|program",
   "fp:activation|cancel|contract|delay|developer|due|eip8037|exist|glamsterdam|hoodi",
   "fp:block|broadcom|declin|digital|firm|hav|ice|list|nin|okx",
-  "fp:38m|amount|attacker|clos|exploit|follow|full|intent|investigation|near"
+  "fp:38m|amount|attacker|clos|exploit|follow|full|intent|investigation|near",
+  "fp:attacker|block|chain|channel|fund|ldk|lightn|link|output|patch",
+  "fp:back|direct|exploit|federation|full|keep|liquid|miss|month|network",
+  "fp:center|clear|dec1|december1|ether|exchang|moscow|national|offer|through"
 ]
