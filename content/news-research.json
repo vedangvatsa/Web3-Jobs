@@ -131464,11 +131464,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "b5bbb1fb0567a8ea20d8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T22:14:44.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "duplicate",
+      "note": "The Capital Markets Alliance suit over the same Nov. 3 CFTC stock-perpetual approvals is part of content/articles/equityperps.md; CoinDesk article returned HTTP 429 but Cointelegraph and The TRADE covered the suit.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-06T00:32:56.219Z",
+      "duplicateOf": "equityperps",
+      "mergedInto": "447f7cccc91b207972c7",
+      "lastReviewedDay": "2026-11-06"
     },
     "99c9e1427ddddedbebc2": {
       "source": "The Block",
@@ -131654,9 +131666,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "447f7cccc91b207972c7",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T20:24:55.000Z",
       "lastSeenAt": "2026-11-04T00:03:58.707Z",
       "articleSlug": "equityperps",
@@ -131690,7 +131702,37 @@
         "updatedAt": "2026-11-06T00:30:28.206Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read the CFTC release, both trade outlets, the Cboe statement and The TRADE report of the TRO denial; approval plus same-day lawsuit covered in one story with a self-hosted SDNY-area courthouse photo.",
+      "sourceChecks": [
+        {
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9319-26",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures",
+          "outcome": "read"
+        },
+        {
+          "url": "https://ir.cboe.com/news/news-details/2026/Cboe-Joins-Capital-Markets-Alliance-Challenge-to-CFTC-Approval-of-Single-Stock-Perpetual-Derivatives/default.aspx",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.thetradenews.com/cboe-and-citadel-securities-backed-industry-body-contests-cftc-green-light-for-single-stock-perpetual-derivatives/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-06T00:32:56.218Z",
+      "lastReviewedDay": "2026-11-06"
     },
     "d701d6979045f633558b": {
       "source": "The Defiant",
@@ -131827,11 +131869,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "b033f39633f12cdb150b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T19:16:02.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "duplicate",
+      "note": "Same Nov. 3 CFTC equity perpetual approval covered in content/articles/equityperps.md; decrypt source read during that review.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-06T00:32:56.219Z",
+      "duplicateOf": "equityperps",
+      "mergedInto": "447f7cccc91b207972c7",
+      "lastReviewedDay": "2026-11-06"
     },
     "66eaefafb6801c408d02": {
       "source": "The Defiant",
@@ -262484,6 +262538,67 @@
             "Find independent reporting confirming the event in: Trump Media-Linked Wallets Send 4,259 BTC to Crypto.com",
             "Retry the attempted URLs after any Retry-After time, within the existing verification window."
           ]
+        },
+        "447f7cccc91b207972c7": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the CFTC release, both trade outlets, the Cboe statement and The TRADE report of the TRO denial; approval plus same-day lawsuit covered in one story with a self-hosted SDNY-area courthouse photo.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/9319-26",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures",
+              "outcome": "read"
+            },
+            {
+              "url": "https://ir.cboe.com/news/news-details/2026/Cboe-Joins-Capital-Markets-Alliance-Challenge-to-CFTC-Approval-of-Single-Stock-Perpetual-Derivatives/default.aspx",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.thetradenews.com/cboe-and-citadel-securities-backed-industry-body-contests-cftc-green-light-for-single-stock-perpetual-derivatives/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-06T00:32:56.218Z",
+          "articleSlug": "equityperps"
+        },
+        "b033f39633f12cdb150b": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Nov. 3 CFTC equity perpetual approval covered in content/articles/equityperps.md; decrypt source read during that review.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-06T00:32:56.219Z",
+          "duplicateOf": "equityperps",
+          "mergedInto": "447f7cccc91b207972c7"
+        },
+        "b5bbb1fb0567a8ea20d8": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "The Capital Markets Alliance suit over the same Nov. 3 CFTC stock-perpetual approvals is part of content/articles/equityperps.md; CoinDesk article returned HTTP 429 but Cointelegraph and The TRADE covered the suit.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-06T00:32:56.219Z",
+          "duplicateOf": "equityperps",
+          "mergedInto": "447f7cccc91b207972c7"
         }
       },
       "baselineSlugs": [
