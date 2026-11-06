@@ -132902,9 +132902,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "bbb1190137331618eb36",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T13:15:47.000Z",
       "lastSeenAt": "2026-11-04T00:03:58.707Z",
       "articleSlug": "moexcrypto",
@@ -132926,7 +132926,21 @@
         "updatedAt": "2026-11-06T01:01:10.263Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Rechecked the MOEX press release (02.11.2026) and Cointelegraph Nov 3 report; draft verified against both, audits pass, all outbound links 200.",
+      "sourceChecks": [
+        {
+          "url": "https://www.moex.com/n105654",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-06T01:14:37.190Z",
+      "lastReviewedDay": "2026-11-06"
     },
     "9e1a3570beacaac305ca": {
       "source": "Decrypt",
@@ -263217,6 +263231,23 @@
             }
           ],
           "reviewedAt": "2026-11-06T01:00:22.868Z"
+        },
+        "bbb1190137331618eb36": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Rechecked the MOEX press release (02.11.2026) and Cointelegraph Nov 3 report; draft verified against both, audits pass, all outbound links 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.moex.com/n105654",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-06T01:14:37.190Z",
+          "articleSlug": "moexcrypto"
         }
       },
       "baselineSlugs": [
