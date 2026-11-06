@@ -890,6 +890,9 @@
   "https://hashtagweb3.com/aztectierra?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/liquidbacking?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/moexcrypto?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cyberczar?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/eustolen?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/b14gcore?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2576,6 +2579,12 @@
   "Liquid Network restores full bitcoin backing two months after exploit",
   "Moscow Exchange to Launch Crypto Trading on December 1",
   "Moscow Exchange Sets Dec. 1 for Bitcoin, Ether and USDT Trading",
+  "South Korea Reviews Plan for Central Cybersecurity Agency",
+  "South Korea's president orders a review of a government-wide cybersecurity czar",
+  "European Entity Loses $106 Million From Exchange Accounts",
+  "Mystery $106 million theft drains EU entity exchange accounts",
+  "Attacker Steals $1.47 Million From Bitcoin Staking Platform b14g",
+  "Hacker Drains 97 Million CORE From Bitcoin Staking Platform b14g",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -3016,5 +3025,8 @@
   "fp:46m|access|account|balanc|can|follow|hack|mercado|monday|phas",
   "fp:add|aztec|chain|critical|cross|cryptographic|delivery|fix|flaw|formal",
   "fp:back|breach|direct|exploit|follow|full|limit|liquid|miss|month",
-  "fp:center|clear|dec1|december1|ether|exchang|moscow|national|offer|through"
+  "fp:center|clear|dec1|december1|ether|exchang|moscow|national|offer|through",
+  "fp:agency|central|cyberattack|cybersecurity|czar|domestic|follow|government|jae|korea",
+  "fp:106m|account|drain|entity|european|exchang|fund|instant|investigator|los",
+  "fp:147m|97m|attacker|b14g|balanc|cod|cor|drain|due|flaw"
 ]

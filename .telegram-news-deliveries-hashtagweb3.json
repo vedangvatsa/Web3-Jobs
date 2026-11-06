@@ -3113,7 +3113,7 @@
     "sentAt": "2026-11-06T03:33:29.842Z"
   },
   "20f46021-971e-466c-be35-24e7923ff5e2": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-06T11:33:44.303Z",
     "stories": [
       {
@@ -3141,6 +3141,8 @@
         "originalTitle": "Hacker Drains 97 Million CORE From Bitcoin Staking Platform b14g"
       }
     ],
-    "slotKey": "2026-11-06:afternoon"
+    "slotKey": "2026-11-06:afternoon",
+    "messageId": 156109,
+    "sentAt": "2026-11-06T11:33:47.557Z"
   }
 }
