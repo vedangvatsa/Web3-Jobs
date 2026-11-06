@@ -759,10 +759,12 @@
           "moexcrypto",
           "liquidbacking"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-11-06T01:51:29.983Z",
         "buildId": "daily-20261106-42136896572-1",
-        "rolloutId": "daily-20261106-42136896572-1"
+        "rolloutId": "daily-20261106-42136896572-1",
+        "buildState": "READY",
+        "observedAt": "2026-11-06T02:14:48.669Z"
       }
     ]
   }
