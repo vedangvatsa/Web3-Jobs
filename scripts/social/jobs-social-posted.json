@@ -110771,6 +110771,41 @@
       "attemptId": "3d47c7cf-8ad4-4063-8529-cb70d12f8153",
       "verification": "verified",
       "postId": "0x526c1d4d1099bb4e87311e684447cf90dd3d8e4b"
+    },
+    {
+      "slug": "pm162",
+      "company": "Chainalysis",
+      "title": "Sr Product Marketing Manager, Platform",
+      "platform": "farcaster",
+      "postedAt": "2026-11-06T19:32:28.102Z",
+      "expectedText": "Chainalysis is hiring Sr Product Marketing Manager, Platform\n\nhttps://hashtagweb3.com/pm162/fc?og=7",
+      "snapshot": {
+        "id": "c3ad81f0-701a-42c7-b008-76fa4076a2dd",
+        "title": "Sr Product Marketing Manager, Platform",
+        "company": "Chainalysis",
+        "link": "https://jobs.ashbyhq.com/chainalysis-careers/c3ad81f0-701a-42c7-b008-76fa4076a2dd",
+        "date": "2026-10-28T15:26:41.499+00:00",
+        "source": "Ashby: Chainalysis [chainalysis-careers]",
+        "location": "Remote - USA",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "R&D",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm162"
+      },
+      "payload": {
+        "text": "Chainalysis is hiring Sr Product Marketing Manager, Platform\n\nhttps://hashtagweb3.com/pm162/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm162/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "8031647f-e5d9-4db5-a4a4-2c0bc100e556",
+      "verification": "creating"
     }
   ]
 }
