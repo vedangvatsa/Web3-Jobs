@@ -112,6 +112,39 @@ Running totals after both waves: **101 receipts, 74 confirmed delivered, 22 boun
 
 Receipt files: `docs/publisher-outreach/expansion-*-2026-10-23.json` (filename date stamp is the registry batch id; Nov 4/5 sends share it).
 
+## Inbound reply wave (November 6, 2026)
+
+Screened the 1,531 received emails in the Resend receiving mailboxes (`received-emails-inventory-2026-11-05.json`): 10 threads respond to our outreach or ask onboarding questions; all landed in `hi@hashtagweb3.com`. Full reads via `resend-email-reply.mjs` batch-lookup (run 42130378223). Replies threaded with `In-Reply-To`/`References` from the receiving mailbox; receipts `docs/publisher-outreach/reply-thread-<id8>-2026-11-06.json`.
+
+Replies sent (7, accepted by Resend):
+
+| Thread | Resend send id | Answer |
+|---|---|---|
+| Cision `Support.CisionOne@cision.com` (`dac2dda7…`) | `01a1b065-0b8a…` | Wants **both** CisionOne-stream publication (primary) and media-database inclusion; supplied specs, reach, AI-disclosure willingness. |
+| CoinCheckup `info@coincheckup.com` (`67f92a25…`) | `01a1b065-88cc…` | Proposal is **free syndication**, no paid licensing from them; open to reviewing their standard terms. |
+| CoinCarp `info@coincarp.com` (`52c41f62…`) | `01a1b066-1945…` | Supplied their review checklist: attribution, canonical links, feed spec, rights, AI disclosure, contract willingness. |
+| CoinCodex `info@coincodex.com` (`52c0cabe…`) | `01a1b066-a95f…` | Compact review package for the team they forwarded to. |
+| Readly `support@readly.com` (`c76f9412…`) | `01a1b06d-031b…` | Confirmed filling their publishers form; supplied package. |
+| NewsPicks `support@newspicks.zendesk.com` (`6491991f…`) | `01a1b06d-acc4…` | Japanese reply confirming their 編成許諾申請フォーム submission. |
+| NewsBreak `publishers@newsbreak.com` (`2bc42eff…`) | `01a1b06e-3d81…` | Confirmed proceeding via mp.newsbreak.com/pss/signup registration; sent press kit. |
+
+Runs: 42202597536 / 42202674028 / 42202749286 / 42202824048 (first four — the sends were accepted; only the final receipt write failed with GitHub 422 because the blob sha was missing; receipts were corrected locally from the Actions logs) and 42203716107 / 42203801788 / 42203886542 (last three, receipts written in-run). Script fixes in `scripts/resend-email-reply.mjs`: final write now supplies the blob sha, and the reply subject is used verbatim so helpdesk prefixes like `[Readly]` / `[NewsPicks サポート] 返信:` are preserved.
+
+Threads read and deliberately **not** replied to:
+
+- CoinGecko (`fd8aef54…`) — declined our proposal; no reply, no nagging.
+- Dailyhunt (`cc9fb6c3…`) — Freshdesk auto-acknowledgment only, no question asked.
+- NoonLaunch (`59e868bc…`) — product-launch-directory marketing, not job/news/event feed inclusion; a possible `Stop` reply is pending a user decision.
+- NewsBreak's older thread (`67673f8c…`, community-profile reel) is superseded by the newer `2bc42eff…` application thread.
+
+Form follow-ups started on November 6 (receipts `form-readly-2026-11-06.json`, `form-newspicks-2026-11-06.json`):
+
+- **Readly** `se.readly.com/publishers_info`: every field filled truthfully in-browser (incl. Gratis magazine availability, B2C type, reach + AI-workflow note), stopped at two items only the user can resolve: the required country dropdown has **no United States option** (European/British-Isles only — won't state a false registration country) and a reCAPTCHA v2. If no country fits our legal registration, follow up in the Readly thread asking the correct route for non-EU/EEA publishers instead of submitting.
+- **NewsPicks** `forms.gle/xcDNsPDA7tw28VW46` (= 編成許諾申請フォーム): field entry IDs mapped from `FB_PUBLIC_LOAD_DATA_`, all values prepared, direct formResponse POST rejected with `data-captcha-challenge-failed=true` (reCAPTCHA enforced, nothing submitted), so a **prefilled viewform URL** is open in the browser; user completes 3 radios + captcha + Submit.
+- **NewsBreak** registration at `mp.newsbreak.com/pss/signup` needs first/last name + email + password; representative has only the given name "Alex" (no invented surnames), so credentials await user input.
+
+Delivery of these replies/form responses does not itself mean database/stream/catalog inclusion was granted; each thread keeps its own acceptance step.
+
 ## Technical reference
 
 - [Google News sitemap requirements](https://developers.google.com/search/docs/crawling-indexing/sitemaps/news-sitemap): last two days, original publication date, at most 1,000 news entries per file.

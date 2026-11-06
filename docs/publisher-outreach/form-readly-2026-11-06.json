@@ -1,0 +1,25 @@
+{
+  "target": "Readly",
+  "channel": "publisher-form",
+  "url": "https://se.readly.com/publishers_info",
+  "date": "2026-11-06",
+  "status": "filled-pending-user-submit",
+  "filledFields": {
+    "company": "Hashtag Web3",
+    "name": "Alex",
+    "email": "hi@hashtagweb3.com",
+    "magazine_name": "Hashtag Web3 — News (daily English-language crypto & Web3 news)",
+    "availability[]": ["Gratismagasin"],
+    "magazine_type[]": ["B2C Magasin"],
+    "magazine_link": "https://hashtagweb3.com/news + RSS: https://hashtagweb3.com/news/feed.xml + example https://hashtagweb3.com/bitgetthai + about",
+    "message": "US free crypto/Web3 news, reach figures, AI-workflow note, and explicit note that United States is absent from the country dropdown"
+  },
+  "notFilled": {
+    "country": "required select has only European/British-Isles countries (SE..AT) — no United States option; choosing an unregistered country would be a false statement",
+    "g-recaptcha-response": "reCAPTCHA v2 — user must complete",
+    "submit": "Skicka förfrågan — user must click"
+  },
+  "threadContext": "reply sent 2026-11-06 to support@readly.com thread (received email c76f9412-396d-46a6-a709-bc60cb53bc54, Resend send id 01a1b06d-031b-78db-9ca8-05a3f2093f0e) confirming form submission",
+  "decidedBy": "user",
+  "browserTabUrl": "https://se.readly.com/publishers_info"
+}
