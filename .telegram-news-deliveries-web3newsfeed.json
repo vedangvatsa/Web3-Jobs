@@ -3344,5 +3344,36 @@
     "slotKey": "2026-11-06:afternoon",
     "messageId": 65808,
     "sentAt": "2026-11-06T11:33:19.778Z"
+  },
+  "843b9b33-e09b-4c2d-96b5-f8ccabae3118": {
+    "status": "reserved",
+    "reservedAt": "2026-11-06T19:35:20.130Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "South Korean president proposes central cybersecurity oversight agency",
+        "summary": "The government aims to unify security efforts following recent major cryptocurrency thefts and domestic data breaches.",
+        "link": "https://hashtagweb3.com/cyberczar?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "South Korea's president orders a review of a government-wide cybersecurity czar"
+      },
+      {
+        "index": -1,
+        "headline": "Analytics Vendor Amplitude Exposed Coinbase Customer Contact Data",
+        "summary": "A small group of users had contact details leaked, but internal systems and funds remain secure.",
+        "link": "https://hashtagweb3.com/amplitude?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Coinbase Says Analytics Vendor Amplitude Exposed Customer Contact Data"
+      },
+      {
+        "index": -1,
+        "headline": "Payward Adds 24/7 US Dollar Settlement With Singapore Gulf Bank",
+        "summary": "Institutional users in Asia and the Gulf can now process transactions at any time via SGB Net.",
+        "link": "https://hashtagweb3.com/kraken-settlement?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Kraken operator Payward adds 24-7 dollar settlement with Singapore Gulf Bank"
+      }
+    ],
+    "slotKey": "2026-11-06:evening"
   }
 }
