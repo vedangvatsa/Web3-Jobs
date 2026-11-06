@@ -132598,11 +132598,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "0a2446fc66953ac5aa68",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T15:02:13.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "duplicate",
+      "note": "Same Nov. 3 CFTC clearance of equity perpetual futures already covered by the ready equityperps article; CoinDesk returned HTTP 429 but the headline and event match that report.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-06T01:00:22.867Z",
+      "duplicateOf": "equityperps",
+      "mergedInto": "447f7cccc91b207972c7",
+      "lastReviewedDay": "2026-11-06"
     },
     "72f0db748f62523a3cba": {
       "source": "CryptoSlate",
@@ -132640,11 +132652,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "d3321a81a8fb1b39153d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T14:53:19.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "duplicate",
+      "note": "Same Binance incident report about the fake job interview campaign that the existing fakeinterview article covers in full; CoinDesk itself returned HTTP 429.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-06T01:00:22.868Z",
+      "duplicateOf": "fakeinterview",
+      "lastReviewedDay": "2026-11-06"
     },
     "31f31486a852453dfda5": {
       "source": "Bitcoin Magazine",
@@ -132661,11 +132684,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "31f31486a852453dfda5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T14:50:58.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "duplicate",
+      "note": "Read the Bitcoin Magazine report; it covers the same Nov. 3 CFTC statement clearing Equity Perps on dual-registered exchanges that the ready equityperps article already published.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/cftc-opens-equity-perpetual-futures",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-06T01:00:22.868Z",
+      "duplicateOf": "equityperps",
+      "mergedInto": "447f7cccc91b207972c7",
+      "lastReviewedDay": "2026-11-06"
     },
     "9d9c29cedc3c51130b8c": {
       "source": "The Defiant",
@@ -132844,11 +132879,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "9e1a3570beacaac305ca",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T13:11:47.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "opinion",
+      "note": "Read the Morning Minute column; it is a labeled opinion newsletter about Tom Lee's market view with price commentary and no new concrete event beyond opinions already reported.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-06T01:00:22.868Z",
+      "lastReviewedDay": "2026-11-06"
     },
     "f7189e159dd4b0df90d3": {
       "source": "CoinDesk",
@@ -132865,11 +132910,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "f7189e159dd4b0df90d3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T12:57:28.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "duplicate",
+      "note": "The $10.97 billion in withdrawals, $5.28 billion net outflows and the deposit-withdrawal crossover already appear in the fakeinterview article, so this is a rewrite of covered figures.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/11/03/binance-net-outflows-reach-usd5-3b-after-record-hack-though-ceo-cites-recovery",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-06T01:00:22.868Z",
+      "duplicateOf": "fakeinterview",
+      "lastReviewedDay": "2026-11-06"
     },
     "779ca12deca41cf6cb65": {
       "source": "The Defiant",
@@ -263031,6 +263087,72 @@
           ],
           "reviewedAt": "2026-11-06T00:53:54.481Z",
           "articleSlug": "nearvote"
+        },
+        "0a2446fc66953ac5aa68": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Nov. 3 CFTC clearance of equity perpetual futures already covered by the ready equityperps article; CoinDesk returned HTTP 429 but the headline and event match that report.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-06T01:00:22.867Z",
+          "duplicateOf": "equityperps",
+          "mergedInto": "447f7cccc91b207972c7"
+        },
+        "31f31486a852453dfda5": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Read the Bitcoin Magazine report; it covers the same Nov. 3 CFTC statement clearing Equity Perps on dual-registered exchanges that the ready equityperps article already published.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/cftc-opens-equity-perpetual-futures",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-06T01:00:22.868Z",
+          "duplicateOf": "equityperps",
+          "mergedInto": "447f7cccc91b207972c7"
+        },
+        "d3321a81a8fb1b39153d": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Binance incident report about the fake job interview campaign that the existing fakeinterview article covers in full; CoinDesk itself returned HTTP 429.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-06T01:00:22.868Z",
+          "duplicateOf": "fakeinterview"
+        },
+        "f7189e159dd4b0df90d3": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "The $10.97 billion in withdrawals, $5.28 billion net outflows and the deposit-withdrawal crossover already appear in the fakeinterview article, so this is a rewrite of covered figures.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/11/03/binance-net-outflows-reach-usd5-3b-after-record-hack-though-ceo-cites-recovery",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-06T01:00:22.868Z",
+          "duplicateOf": "fakeinterview"
+        },
+        "9e1a3570beacaac305ca": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Read the Morning Minute column; it is a labeled opinion newsletter about Tom Lee's market view with price commentary and no new concrete event beyond opinions already reported.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-06T01:00:22.868Z"
         }
       },
       "baselineSlugs": [
