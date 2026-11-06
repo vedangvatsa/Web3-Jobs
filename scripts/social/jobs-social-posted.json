@@ -108813,7 +108813,8 @@
       },
       "account": "profile",
       "attemptId": "24b86f4a-7a3d-4bdd-b2ef-ea8907d41bf5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe512051b96cf2da9943b2fb2096acefb27d99689"
     }
   ]
 }
