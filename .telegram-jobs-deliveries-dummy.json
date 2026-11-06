@@ -112,5 +112,119 @@
       }
     ],
     "message": "- CKBA is hiring <a href=\"https://hashtagweb3.com/pct?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Payment Channel Team Lead</a>\n- Keyrock is hiring <a href=\"https://hashtagweb3.com/tr133?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Quantitative Analyst Intern (Digital Assets Market Making - HFT) - Brussels</a>\n- Flow Traders is hiring <a href=\"https://hashtagweb3.com/tr132?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Digital Assets Options Trader</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/mgr55?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Workplace Experience Manager, Bengaluru</a>\n- TaxBit is hiring <a href=\"https://hashtagweb3.com/mgr181?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Implementation Manager, Singapore</a>"
+  },
+  "11e90679-e51b-40e5-b887-0929e5ee2e1d": {
+    "status": "reserved",
+    "reservedAt": "2026-11-06T14:11:56.745Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "ckba-payment-channel-team-lead",
+          "title": "Payment Channel Team Lead",
+          "company": "CKBA",
+          "link": "mailto:join@ckba.build?subject=Application%20for%20Payment%20Channel%20Team%20Lead",
+          "date": "2026-11-06T00:00:00.000Z",
+          "dateVerified": true,
+          "dateSource": "CKBA Official Job Description",
+          "source": "CKBA [ckba]",
+          "location": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "slug": "pct"
+        },
+        "key": "ckba-payment-channel-team-lead",
+        "slug": "pct",
+        "url": "https://hashtagweb3.com/pct?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CKBA",
+        "title": "Payment Channel Team Lead"
+      },
+      {
+        "snapshot": {
+          "id": "2665c2ed-9131-46d9-9a05-564e7a719d33",
+          "title": "Quantitative Analyst Intern (Digital Assets Market Making - HFT) - Brussels",
+          "company": "Keyrock",
+          "link": "https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33",
+          "date": "2026-10-28T15:05:14.420+00:00",
+          "source": "Ashby: Keyrock [keyrock]",
+          "location": "Brussels",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Trading & Research",
+          "active": true,
+          "dateVerified": true,
+          "slug": "tr133"
+        },
+        "key": "2665c2ed-9131-46d9-9a05-564e7a719d33",
+        "slug": "tr133",
+        "url": "https://hashtagweb3.com/tr133?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Keyrock",
+        "title": "Quantitative Analyst Intern"
+      },
+      {
+        "snapshot": {
+          "id": "8176707",
+          "title": "Digital Assets Options Trader",
+          "company": "Flow Traders",
+          "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8176707",
+          "date": "2026-10-27T11:36:16-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Flow Traders [flowtraders]",
+          "location": "Amsterdam",
+          "department": "Trading",
+          "active": true,
+          "dateVerified": true,
+          "slug": "tr132"
+        },
+        "key": "8176707",
+        "slug": "tr132",
+        "url": "https://hashtagweb3.com/tr132?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Flow Traders",
+        "title": "Digital Assets Options Trader"
+      },
+      {
+        "snapshot": {
+          "id": "8231223",
+          "title": "Workplace Experience Manager, Bengaluru",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8231223",
+          "date": "2026-10-08T02:10:23-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Bengaluru",
+          "department": "6620 Workplace Services",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr55"
+        },
+        "key": "8231223",
+        "slug": "mgr55",
+        "url": "https://hashtagweb3.com/mgr55?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Workplace Experience Manager"
+      },
+      {
+        "snapshot": {
+          "id": "6222794004",
+          "title": "Implementation Manager, Singapore",
+          "company": "TaxBit",
+          "link": "https://job-boards.greenhouse.io/taxbit/jobs/6222794004",
+          "date": "2026-10-12T21:05:31-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: TaxBit [taxbit]",
+          "location": "Singapore",
+          "department": "Customer Operations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr181"
+        },
+        "key": "6222794004",
+        "slug": "mgr181",
+        "url": "https://hashtagweb3.com/mgr181?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TaxBit",
+        "title": "Implementation Manager"
+      }
+    ],
+    "message": "- CKBA is hiring <a href=\"https://hashtagweb3.com/pct?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Payment Channel Team Lead</a>\n- Keyrock is hiring <a href=\"https://hashtagweb3.com/tr133?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Quantitative Analyst Intern (Digital Assets Market Making - HFT) - Brussels</a>\n- Flow Traders is hiring <a href=\"https://hashtagweb3.com/tr132?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Digital Assets Options Trader</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/mgr55?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Workplace Experience Manager, Bengaluru</a>\n- TaxBit is hiring <a href=\"https://hashtagweb3.com/mgr181?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Implementation Manager, Singapore</a>"
   }
 }
