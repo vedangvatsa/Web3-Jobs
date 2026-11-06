@@ -65,10 +65,6 @@
     "slug": "adtte",
     "aliases": []
   },
-  "token2049-evt-XNB989H24p8fCto": {
-    "slug": "rlpc",
-    "aliases": []
-  },
   "luma-batch-evtXmYZu9qMoaw8Y": {
     "slug": "uw828q63",
     "aliases": []
@@ -105,28 +101,6 @@
     "slug": "circle-house",
     "aliases": []
   },
-  "luma-batch-evtf3fsyDYkRJ6Ft": {
-    "slug": "clqsn9rk",
-    "aliases": []
-  },
-  "luma-batch-evtBw9g6bVwYmPe9": {
-    "slug": "fbm884q2",
-    "aliases": []
-  },
-  "token2049-side-6aa296c8d567345aad685661": {
-    "slug": "afe",
-    "aliases": [
-      "token2049-side-6aa29585967be0befa88d478"
-    ]
-  },
-  "luma-batch-evtX2qIvgC91ERAC": {
-    "slug": "zbeoo5xg",
-    "aliases": []
-  },
-  "token2049-side-6a59152b0aadc8b6ce22f4ee": {
-    "slug": "ddpc",
-    "aliases": []
-  },
   "premier-sui-basecamp-2026": {
     "slug": "sui",
     "aliases": [
@@ -138,76 +112,12 @@
       "token2049-side-6a5012663da1e45bc7967d9d"
     ]
   },
-  "token2049-evt-iZIeoXp82UAz2YW": {
-    "slug": "proof-of",
-    "aliases": []
-  },
-  "luma-batch-evtC4yIcTMlVkY4x": {
-    "slug": "polymarketsingapore",
-    "aliases": []
-  },
-  "luma-batch-evtlQQx4fhdqAKlZ": {
-    "slug": "suf6bkja",
-    "aliases": []
-  },
-  "luma-batch-evtx0OeRiSMOqKPz": {
-    "slug": "rm4z8e9j",
-    "aliases": []
-  },
-  "luma-batch-evtnVBhh5hvxGcbs": {
-    "slug": "rwa4g698",
-    "aliases": []
-  },
-  "luma-batch-evtwiBFcaMSpD5dN": {
-    "slug": "xsollaconnectsingapore2026",
-    "aliases": []
-  },
-  "w3v-the-real-yield-happy-hour-by-honeyb": {
-    "slug": "ryhhh",
-    "aliases": []
-  },
-  "w3v-sts-digital--derivexyz---its-good-to-have-options": {
-    "slug": "sddxvyc",
-    "aliases": []
-  },
-  "w3v-institutions-x-whales-vvip-yatch-party": {
-    "slug": "ixw",
-    "aliases": []
-  },
-  "token2049-side-6a91a3b2e258d46833953c1f": {
-    "slug": "rbh",
-    "aliases": []
-  },
   "token2049-side-6aa16257967be0befa88cf91": {
     "slug": "cmo-summit",
     "aliases": []
   },
   "token2049-evt-EPSGpySqEIekV6n": {
     "slug": "media-accelerator",
-    "aliases": []
-  },
-  "token2049-evt-dxADGfbez16mjnE": {
-    "slug": "pionex-private",
-    "aliases": []
-  },
-  "token2049-evt-BwOJUqwll59WiFc": {
-    "slug": "robot-fight",
-    "aliases": []
-  },
-  "token2049-evt-toojb9O80uh0l10": {
-    "slug": "token2049-an",
-    "aliases": []
-  },
-  "token2049-evt-wahueiUtQocCRvB": {
-    "slug": "bcssm",
-    "aliases": []
-  },
-  "token2049-evt-yHyNzLHecx9lJeC": {
-    "slug": "digital-capital",
-    "aliases": []
-  },
-  "token2049-evt-H6hoGUXDIzGKAVM": {
-    "slug": "startup-pitch",
     "aliases": []
   },
   "token2049-evt-C8tRdqaYPd8Wfbw": {
@@ -218,136 +128,24 @@
     "slug": "okx-web3",
     "aliases": []
   },
-  "token2049-evt-G5ZEYn3MFv30EPX": {
-    "slug": "stablecoins-meet",
-    "aliases": []
-  },
-  "token2049-evt-VbjshLmIM5ACvsn": {
-    "slug": "liquidity-after",
-    "aliases": []
-  },
-  "luma-crypto-BjNTZDBANAPAjYl": {
-    "slug": "tnebhu",
-    "aliases": []
-  },
-  "luma-crypto-yVvzhRKJfiM98cK": {
-    "slug": "twseqsdail",
-    "aliases": []
-  },
-  "luma-batch-evt9PfPGCQNN9dvV": {
-    "slug": "ypcxgpyx",
-    "aliases": []
-  },
-  "luma-batch-evtOyQyPiD6p5ycG": {
-    "slug": "dvq3idrk",
-    "aliases": []
-  },
-  "luma-batch-evtwMVhDE0v1YtQk": {
-    "slug": "insidetheigloo",
-    "aliases": []
-  },
-  "luma-batch-evtmyWauQVbUVvIA": {
-    "slug": "j8huihey",
-    "aliases": []
-  },
-  "luma-batch-evtUtC4gkKlD3EKN": {
-    "slug": "upeeqmpy",
-    "aliases": []
-  },
-  "luma-batch-evtwvo8WiyhLX1ZU": {
-    "slug": "animoca-2jr5",
-    "aliases": []
-  },
-  "luma-batch-evt2oxGwMQGu6nGh": {
-    "slug": "kkusynvq",
-    "aliases": []
-  },
   "token2049-side-6a8eb8a0e258d468339534b0": {
     "slug": "fxvrd1",
-    "aliases": []
-  },
-  "token2049-side-6a9e3058d567345aad6843d5": {
-    "slug": "ztap",
-    "aliases": []
-  },
-  "token2049-evt-cklGgJfG3yivcfF": {
-    "slug": "xt-vip",
-    "aliases": []
-  },
-  "luma-crypto-akDCfULmtdYHvAh": {
-    "slug": "token2049-",
-    "aliases": []
-  },
-  "luma-batch-evtWOLVIOpGwvV1y": {
-    "slug": "stablecoin-social",
-    "aliases": []
-  },
-  "luma-batch-evtugG45AgUzqewk": {
-    "slug": "as504pew",
-    "aliases": []
-  },
-  "luma-batch-evtLdapJLoLQEqw6": {
-    "slug": "4u4d6b4b",
-    "aliases": []
-  },
-  "luma-batch-evtd1RGKYQGL43kY": {
-    "slug": "txse7fpe",
-    "aliases": []
-  },
-  "w3v-night-by-the-pool": {
-    "slug": "night-pool",
     "aliases": []
   },
   "w3v-utxo-pitch-night": {
     "slug": "rupn",
     "aliases": []
   },
-  "token2049-evt-MQpVWkztvydv9wD": {
-    "slug": "0g-bright",
-    "aliases": []
-  },
   "token2049-evt-Tu5nOFpxgB16iLQ": {
     "slug": "pop-up",
-    "aliases": []
-  },
-  "token2049-evt-W0VqCD6ROGPDDvD": {
-    "slug": "aultmarkets-singapore",
     "aliases": []
   },
   "token2049-evt-OvJir2VIHLcT0of": {
     "slug": "crypto-banter",
     "aliases": []
   },
-  "token2049-evt-PKQo3PwiApPV0DE": {
-    "slug": "kaito-clique",
-    "aliases": []
-  },
-  "token2049-evt-eEjP0BfjX66HVte": {
-    "slug": "das-asia",
-    "aliases": []
-  },
-  "token2049-evt-1xjigoMG7jKBT1o": {
-    "slug": "executive-digital",
-    "aliases": []
-  },
-  "token2049-official-6a54a2b83438be070d7a9c01": {
-    "slug": "token2049-special",
-    "aliases": []
-  },
   "luma-crypto-cxEYky3mSNGbtEH": {
     "slug": "trnn",
-    "aliases": []
-  },
-  "luma-batch-evtVtVUJyVqNz3nU": {
-    "slug": "ih45fhdi",
-    "aliases": []
-  },
-  "luma-batch-evttLuUoyzK6JKSG": {
-    "slug": "n3csj3ze",
-    "aliases": []
-  },
-  "w3v-mst-blockchain---offchain-hours--consensus--cocktails": {
-    "slug": "mboh",
     "aliases": []
   },
   "w3v-mini-apps-after-dark": {
@@ -358,10 +156,6 @@
     "slug": "qxcds",
     "aliases": []
   },
-  "token2049-side-6aa63467c0426d278bd882e1": {
-    "slug": "cuf",
-    "aliases": []
-  },
   "token2049-side-6a9912ffd567345aad68344b": {
     "slug": "nhs",
     "aliases": []
@@ -370,16 +164,8 @@
     "slug": "ccnhh",
     "aliases": []
   },
-  "token2049-side-6aa29151d567345aad685635": {
-    "slug": "crossing",
-    "aliases": []
-  },
   "token2049-evt-eqhxvfE7WCi6rUe": {
     "slug": "crypto-noirafter",
-    "aliases": []
-  },
-  "token2049-evt-TVSTgNSHZ5pZZeF": {
-    "slug": "token2049f1-week",
     "aliases": []
   },
   "token2049-evt-Xuhxuctcsns955z": {
@@ -400,10 +186,6 @@
   },
   "luma-batch-evtTLKtXKvfrATFZ": {
     "slug": "0gcmzl6g",
-    "aliases": []
-  },
-  "w3v-rwa-beyond-the-hype": {
-    "slug": "rbh2",
     "aliases": []
   },
   "w3v-retrofuture-soiree-by-changenow-singapore-edition": {

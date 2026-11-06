@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-11-06T12:15:47.397Z",
+  "generatedAt": "2026-11-06T14:40:26.835Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 3748,
+  "count": 3730,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -1426,12 +1426,6 @@
       "priority": 0.6
     },
     {
-      "url": "https://hashtagweb3.com/assassin",
-      "lastmod": "2026-11-03",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
       "url": "https://hashtagweb3.com/astm2",
       "lastmod": "2026-10-08",
       "changefreq": "daily",
@@ -1770,12 +1764,6 @@
     {
       "url": "https://hashtagweb3.com/be49",
       "lastmod": "2026-11-02",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/be59",
-      "lastmod": "2026-10-07",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -3132,12 +3120,6 @@
     {
       "url": "https://hashtagweb3.com/cc10",
       "lastmod": "2026-10-08",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/cc5",
-      "lastmod": "2026-10-07",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -5104,12 +5086,6 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/descimumbai",
-      "lastmod": "2026-11-03",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
       "url": "https://hashtagweb3.com/det",
       "lastmod": "2026-10-16",
       "changefreq": "daily",
@@ -5816,12 +5792,6 @@
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
       "priority": 0.7
-    },
-    {
-      "url": "https://hashtagweb3.com/eiphub",
-      "lastmod": "2026-11-03",
-      "changefreq": "weekly",
-      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/ellipsis-labs",
@@ -8494,12 +8464,6 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/glamsterdam-mumbai",
-      "lastmod": "2026-11-03",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
       "url": "https://hashtagweb3.com/global-bitcoin-circular-economies-summit",
       "lastmod": "2026-11-19",
       "changefreq": "weekly",
@@ -9766,12 +9730,6 @@
       "priority": 0.6
     },
     {
-      "url": "https://hashtagweb3.com/hyprearnmumbai",
-      "lastmod": "2026-11-06",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
       "url": "https://hashtagweb3.com/ibt",
       "lastmod": "2026-09-26",
       "changefreq": "weekly",
@@ -10146,12 +10104,6 @@
     {
       "url": "https://hashtagweb3.com/int47",
       "lastmod": "2026-10-20",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/int48",
-      "lastmod": "2026-10-07",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -11370,12 +11322,6 @@
     {
       "url": "https://hashtagweb3.com/mgr155",
       "lastmod": "2026-11-04",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/mgr157",
-      "lastmod": "2026-10-07",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -12838,12 +12784,6 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/ntu-master-science-blockchain-msbt-programme-ho-chi-minh-city",
-      "lastmod": "2026-11-06",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
       "url": "https://hashtagweb3.com/oaxaca",
       "lastmod": "2026-10-02",
       "changefreq": "monthly",
@@ -13792,12 +13732,6 @@
       "priority": 0.6
     },
     {
-      "url": "https://hashtagweb3.com/pfi2",
-      "lastmod": "2026-10-07",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/pfss",
       "lastmod": "2026-11-05",
       "changefreq": "daily",
@@ -14158,18 +14092,6 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/pm252",
-      "lastmod": "2026-10-07",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/pm253",
-      "lastmod": "2026-10-07",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/pm254",
       "lastmod": "2026-10-07",
       "changefreq": "daily",
@@ -14268,12 +14190,6 @@
     {
       "url": "https://hashtagweb3.com/pm272",
       "lastmod": "2026-10-09",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/pm274",
-      "lastmod": "2026-10-07",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -16966,12 +16882,6 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/shipsafemumbai",
-      "lastmod": "2026-11-06",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
       "url": "https://hashtagweb3.com/shw",
       "lastmod": "2026-11-06",
       "changefreq": "weekly",
@@ -16997,12 +16907,6 @@
     },
     {
       "url": "https://hashtagweb3.com/sidequest-explore-mumbai",
-      "lastmod": "2026-11-03",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/sidequest-kulfi-ice-cream-hour",
       "lastmod": "2026-11-03",
       "changefreq": "weekly",
       "priority": 0.6
@@ -22300,12 +22204,6 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/zama-web3bridge-workshop",
-      "lastmod": "2026-11-06",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
       "url": "https://hashtagweb3.com/zanzalu",
       "lastmod": "2026-11-06",
       "changefreq": "weekly",
@@ -22370,12 +22268,6 @@
       "lastmod": "2026-10-06",
       "changefreq": "monthly",
       "priority": 0.7
-    },
-    {
-      "url": "https://hashtagweb3.com/zecsydevcon",
-      "lastmod": "2026-11-03",
-      "changefreq": "weekly",
-      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/zenledger",

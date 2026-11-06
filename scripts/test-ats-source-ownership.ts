@@ -18,6 +18,7 @@ import { classifySlug } from '../src/lib/slug-classifier';
 import { loadReservedRootSlugsSync } from '../src/lib/reserved-root-slugs';
 import { isRemovedJobPath } from '../src/lib/removed-job-path';
 import { isExpiredJobPath } from '../src/lib/job-age-path';
+import { isJobAgeEligible } from '../src/lib/job-age-policy.mjs';
 
 const job = (company: string, link: string, slug = 'engineer'): Job => ({ id: '42', title: 'Software Engineer', company, link, slug, source: 'Imported', active: true, date: new Date(Date.now() - 86400000).toISOString() });
 
@@ -121,7 +122,7 @@ async function main() {
   assert.equal((await getCompanyBySlug('ramp'))?.website, 'https://ramp.com');
   for (const row of runtime.filter(row => row.company === 'Plume Network')) assert.ok(row.link.includes('rippling.com'));
   for (const row of runtime.filter(row => row.company === 'Sui Foundation')) assert.ok(row.link.includes('ashbyhq.com'));
-  const openStandardJobs = runtime.filter(row => row.company === 'Open Standard');
+  const openStandardJobs = runtime.filter(row => row.company === 'Open Standard' && isJobAgeEligible(row));
   assert.equal((await getCompanyBySlug('open-standard'))?.jobCount ?? 0, openStandardJobs.length);
   for (const row of openStandardJobs) {
     const board = getAtsBoardFromUrl(row.applyUrl || row.link);
