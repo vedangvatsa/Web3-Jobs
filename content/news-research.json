@@ -133251,11 +133251,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "f2e055234228cdf5f842",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T11:12:12.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "duplicate",
+      "note": "Same Nov 3 Liquid Federation full-backing announcement already reported in the liquidbacking draft; the CoinDesk URL returned a Vercel security checkpoint (HTTP 429) on GET, so it was not counted as read.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-06T01:32:17.430Z",
+      "duplicateOf": "liquidbacking",
+      "mergedInto": "2e8e01540a9c9849a2a2",
+      "lastReviewedDay": "2026-11-06"
     },
     "79f348401c564d42edd2": {
       "source": "Cointelegraph",
@@ -263409,6 +263421,20 @@
           ],
           "reviewedAt": "2026-11-06T01:32:07.079Z",
           "articleSlug": "liquidbacking"
+        },
+        "f2e055234228cdf5f842": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Nov 3 Liquid Federation full-backing announcement already reported in the liquidbacking draft; the CoinDesk URL returned a Vercel security checkpoint (HTTP 429) on GET, so it was not counted as read.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-06T01:32:17.430Z",
+          "duplicateOf": "liquidbacking",
+          "mergedInto": "2e8e01540a9c9849a2a2"
         }
       },
       "baselineSlugs": [
