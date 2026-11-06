@@ -109995,6 +109995,39 @@
       "attemptId": "5592714a-1e2b-46e9-81bc-1b3c7945988e",
       "verification": "verified",
       "postId": "0xfc912823e3861fcfa8bf66ff30d7fd3eb83d118e"
+    },
+    {
+      "slug": "dpc",
+      "company": "Riot Platforms",
+      "title": "Director, Project Controls",
+      "platform": "farcaster",
+      "postedAt": "2026-11-06T11:36:33.727Z",
+      "expectedText": "Riot Platforms is hiring Director, Project Controls\n\nhttps://hashtagweb3.com/dpc/fc?og=7",
+      "snapshot": {
+        "id": "3c30cca2-5612-4ed0-9af3-02765577733c",
+        "title": "Director, Project Controls",
+        "company": "Riot Platforms",
+        "link": "https://ats.rippling.com/riot-platforms-careers/jobs/3c30cca2-5612-4ed0-9af3-02765577733c",
+        "date": "2026-10-12T16:46:38.185000-07:00",
+        "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+        "location": "Remote",
+        "department": "Executive Management",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dpc"
+      },
+      "payload": {
+        "text": "Riot Platforms is hiring Director, Project Controls\n\nhttps://hashtagweb3.com/dpc/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dpc/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "87e4047c-f4dd-43c8-a01b-827f1177b66b",
+      "verification": "creating"
     }
   ]
 }
