@@ -136240,7 +136240,23 @@
       "firstSeenAt": "2026-11-05T00:28:26.536Z",
       "attempts": 0,
       "expiresAt": "2026-11-08T00:05:52.000Z",
-      "lastSeenAt": "2026-11-05T00:28:26.536Z"
+      "lastSeenAt": "2026-11-05T00:28:26.536Z",
+      "articleSlug": "cantonstock",
+      "draftProgress": {
+        "id": "e755d4d6f2b69ec05fc1",
+        "day": "2026-11-06",
+        "articleSlug": "cantonstock",
+        "note": "Read the Crypto Briefing report on the Nov 4 CNTN trades; corroboration exists (issuer PRNewswire release, crypto.news, SEC 8-K exhibit) but none opened yet, so the two-source bar is unmet.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptobriefing.com/canton-cntn-first-tokenized-us-stock-sec/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-06T01:33:47.953Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "867543f8bad5bdbdee7b": {
       "source": "The Defiant",
