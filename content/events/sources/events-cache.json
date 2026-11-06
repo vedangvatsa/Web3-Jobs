@@ -3978,54 +3978,6 @@
     }
   },
   {
-    "id": "token2049-side-6aa19d44967be0befa88d0d9",
-    "name": "Sui Run Club | The Human Layer IRL 3K.5K.7K",
-    "description": "🏃‍♂️ Sui Basecamp 2026 Run\n\nTHE HUMAN LAYER IRL: 3K | 5K | 7K 🇸🇬\n\nAs Sui Run Club, we are coming together once again with the Web3 community in the physical world!\n\nWe are holding our traditional community run at Marina Bay again this year. Whether you run or walk, our only goal is to move together and start the day dynamically!\n\n🎁 Exclusive for Participants:\n\nFree Sui Basecamp invitation code for everyone who joins the event this year!\n\nSurprise guests and special gifts waiting for you at the finish line! 🏃🏽‍♀️\n\n📅 Date: October 7, 2026\n\n⏰ Time: 07.00 AM\n\n📍 Location: Gigi Bistro - The Sail at Marina Bay, Singapore\n\n⚡ Final route and meeting time details coming very soon! 🤙🏻",
-    "startDate": "2026-10-06T23:00:00.000Z",
-    "endDate": "2026-10-07T00:45:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/xns9yc4w",
-    "coverImage": "/events/token2049-side-6aa19d44967be0befa88d0d9-61859ad9.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Sport",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "Sui Run Club",
-      "Bruce .",
-      "Christina Chung",
-      "GK",
-      "Melis C",
-      "Ozge Erdemir"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "slug": "src",
-    "registrationUrl": "https://luma.com/xns9yc4w",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/xns9yc4w",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/xns9yc4w",
-      "eventId": "evt-AvqfDunrzHUgXu7",
-      "fetchedAt": "2026-09-19T23:55:32.324Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "token2049-side-6a54a1483438be070d7a9bdb",
     "name": "TOKEN2049 Singapore - Day 1",
     "description": "TOKEN2049 Singapore - Day 1 is listed as a Conference/Summit during TOKEN2049 Week Singapore.",
@@ -7687,19 +7639,6 @@
     "month": "October 2026"
   },
   {
-    "id": "w3v-coin-center-annual-dinner-26-10-06",
-    "name": "Coin Center Annual Dinner 2026",
-    "description": "Coin Center Annual Dinner 2026: annual fundraiser for crypto community leaders and builders in New York on October 6.",
-    "startDate": "2026-10-06T13:00:00.000Z",
-    "endDate": "2026-10-07T01:00:00.000Z",
-    "city": "New York",
-    "country": "US",
-    "location": "New York, US",
-    "url": "https://coincenter.org/dinner/",
-    "coverImage": "/events/w3v-coin-center-annual-dinner-26-10-06-141adb1d.webp",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-host-evt-evt-eTEkZPCdHSRnFz5",
     "name": "Collably Matchmaking Network — TOKEN2049 Singapore Week",
     "description": "",
@@ -7742,20 +7681,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-host-evt-evt-QMI8ZVlsQHaG8no",
-    "name": "Stablecoin Morning 5K Run",
-    "description": "",
-    "startDate": "2026-10-06T23:30:00.000Z",
-    "endDate": "2026-10-07T01:30:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore",
-    "url": "https://luma.com/a3dvp6r5",
-    "coverImage": "/events/luma-host-evt-evt-qmi8zvlsqhag8no-aabd1555.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-host-evt-evt-TAVggu0lQKM7LlO",
     "name": "TOKEN2049 Singapore - Day 1",
     "description": "",
@@ -7780,19 +7705,6 @@
     "location": "Singapore, SG",
     "url": "https://luma.com/x6q6vmm9",
     "coverImage": "/events/w3v-btcc-traders-club-token2049-26-10-07-8ac28a83.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-stablecoin-morning-5k-run-26-10-07",
-    "name": "Stablecoin Morning 5K Run",
-    "description": "Stablecoin Morning 5K Run: An easy-paced 5K for the stablecoin community, with coffee and breakfast in Singapore.",
-    "startDate": "2026-10-06T23:30:00.000Z",
-    "endDate": "2026-10-07T01:30:00.000Z",
-    "city": "Singapore",
-    "country": "SG",
-    "location": "Singapore, SG",
-    "url": "https://luma.com/a3dvp6r5",
-    "coverImage": "/events/w3v-stablecoin-morning-5k-run-26-10-07-2202f4ea.webp",
     "month": "October 2026"
   },
   {
@@ -9810,7 +9722,10 @@
     "url": "https://www.meetup.com/lfdt-washington-dc/events/316118535/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Pereowei Daniel"
+    ]
   },
   {
     "id": "w3v-u-hackathon-2026",
@@ -11405,7 +11320,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://www.teamz.co.jp/",
-    "coverImage": "/events/ma-teamz-web3-ai-summit-2027-da14a208.webp",
+    "coverImage": "/events/w3v-teamz-summit-10-27-04-05-e2661eb4.webp",
     "source": "marketacross",
     "month": "April 2027",
     "descriptionSource": {
@@ -12585,7 +12500,10 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316118464/",
     "coverImage": "/events/mu-316118464-eef6d060.webp",
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Pereowei Daniel"
+    ]
   },
   {
     "id": "luma-evt-1u3kkLddnMGQZBl",
@@ -13205,7 +13123,10 @@
           "representation": "html"
         }
       ]
-    }
+    },
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -13674,7 +13595,10 @@
     "url": "https://www.meetup.com/lfdt-sf/events/316118514/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Pereowei Daniel"
+    ]
   },
   {
     "id": "mu-316118522",
@@ -13688,7 +13612,10 @@
     "url": "https://www.meetup.com/lfdt-silicon-valley/events/316118522/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Pereowei Daniel"
+    ]
   },
   {
     "id": "luma-evt-FDAyeAjNSVnjBES",
@@ -13842,7 +13769,10 @@
     "url": "https://www.meetup.com/lfdt-sf/events/316802689/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "mu-316802686",
@@ -13856,7 +13786,10 @@
     "url": "https://www.meetup.com/lfdt-silicon-valley/events/316802686/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-evt-9fG9CmDFC7ikDpE",
@@ -13940,7 +13873,10 @@
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/316118375/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Pereowei Daniel"
+    ]
   },
   {
     "id": "mu-316558834",
@@ -14024,7 +13960,10 @@
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/316802693/",
     "coverImage": "/events/mu-316802693-f266f227.webp",
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-evt-8eE3HeO8unJXCn5",
@@ -14080,7 +14019,10 @@
     "url": "https://www.meetup.com/lfdt-austin/events/316118454/",
     "coverImage": "/events/mu-316118454-a56414bb.webp",
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Pereowei Daniel"
+    ]
   },
   {
     "id": "luma-evt-GlZMAS0XBYyINU3",
@@ -14177,7 +14119,10 @@
     "url": "https://www.meetup.com/lfdt-austin/events/316802775/",
     "coverImage": "/events/mu-316802775-00c0322a.webp",
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "w3v-run-rave-26-11-01",
@@ -14619,7 +14564,7 @@
     "country": "",
     "location": "Global",
     "url": "https://luma.com/eqwsf08t",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solanas-challenges-getblocks-solutions-94692c3f.webp",
     "month": "November 2026"
   },
   {
@@ -16119,7 +16064,10 @@
     "url": "https://www.meetup.com/lfdt-phoenix/events/316802761/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "w3v-btc-balkans-2026",
@@ -16217,7 +16165,10 @@
     "url": "https://www.meetup.com/lfdt-denver/events/316802785/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-evt-3mmc2cCRwR8KMAA",
@@ -16259,7 +16210,10 @@
     "url": "https://www.meetup.com/tripass/events/316879993/",
     "coverImage": "/events/mu-316879993-ebac7e3a.webp",
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Jordan Boich"
+    ]
   },
   {
     "id": "luma-evt-ycWrx5n01IFcfSP",
@@ -16412,7 +16366,10 @@
     "url": "https://www.meetup.com/lfdt-montreal/events/316802708/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-evt-FXp0Cx9ZFgTnmub",
@@ -16494,7 +16451,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/microsoft-reactor-redmond/events/316423209/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316423209-89018cfb.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -20028,7 +19985,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/lo-qqld",
-    "coverImage": null,
+    "coverImage": "/events/w3v-the-local-wmc-breakpointdas-edition-4fa07710.webp",
     "month": "November 2026"
   },
   {
@@ -20041,7 +19998,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/solanahiit",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solana-fitness-zone-hiit-class-breakpoint-2026-02bfe2cf.webp",
     "month": "November 2026"
   },
   {
@@ -20054,7 +20011,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/solanareset",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solana-fitness-zone-mental-reset-workshop-brea-28adf2f2.webp",
     "month": "November 2026"
   },
   {
@@ -20097,7 +20054,10 @@
     "url": "https://www.meetup.com/lfdt-chicago/events/316802758/",
     "coverImage": "/events/mu-316802758-07e90219.webp",
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "mu-316231918",
@@ -20151,7 +20111,7 @@
     "country": "us",
     "location": "Chicago, us",
     "url": "https://www.meetup.com/bitcoin-open-blockchain-community-chicago/events/316884574/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316884574-848e55ae.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -20167,7 +20127,10 @@
     "url": "https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946609/",
     "coverImage": "/events/mu-312946609-64a47ab1.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Frank Migacz"
+    ]
   },
   {
     "id": "mu-316901080",
@@ -20179,7 +20142,7 @@
     "country": "us",
     "location": "Chicago, us",
     "url": "https://www.meetup.com/aittg-chicago/events/316901080/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316901080-e8ffd8c4.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -20221,7 +20184,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/btvqwap1",
-    "coverImage": null,
+    "coverImage": "/events/w3v-born-up-breakpoint-london-community-networking-84fe2283.webp",
     "month": "November 2026"
   },
   {
@@ -20234,7 +20197,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/6ung8frj",
-    "coverImage": null,
+    "coverImage": "/events/w3v-vcs-lps-cocktail-hour-breakpoint-london-93ac5f14.webp",
     "month": "November 2026"
   },
   {
@@ -20247,7 +20210,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/cnswgn30",
-    "coverImage": null,
+    "coverImage": "/events/w3v-forward-industries-breakpoint-dinner-c6fb2fca.webp",
     "month": "November 2026"
   },
   {
@@ -20260,7 +20223,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/zkpwmk83",
-    "coverImage": null,
+    "coverImage": "/events/w3v-proof-pour-london-a-private-cocktail-evening-94e740a0.webp",
     "month": "November 2026"
   },
   {
@@ -20273,7 +20236,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/solanaboxing",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solana-fitness-zone-group-boxing-breakpoint-20-a8768aed.webp",
     "month": "November 2026"
   },
   {
@@ -20286,7 +20249,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/ti7vdsai",
-    "coverImage": null,
+    "coverImage": "/events/w3v-fwdi-breakpoint-happy-hour-7d31eb3b.webp",
     "month": "November 2026"
   },
   {
@@ -20299,7 +20262,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/39ckiuiy",
-    "coverImage": null,
+    "coverImage": "/events/w3v-ggc-gmgn-global-championship-london-finals-a8e33695.webp",
     "month": "November 2026"
   },
   {
@@ -20312,7 +20275,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/lajgsnqb",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solana-breakpoint-security-drinks-by-fidesium-81c0fb30.webp",
     "month": "November 2026"
   },
   {
@@ -20325,7 +20288,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/gpxfy249",
-    "coverImage": null,
+    "coverImage": "/events/w3v-sol-calling-solana-breakpoint-happy-hour-1c83cf72.webp",
     "month": "November 2026"
   },
   {
@@ -20808,7 +20771,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/fresno-bitcoin-cryptocurrencies/events/317076171/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317076171-499400bd.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -20906,7 +20869,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261106%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261106T003414Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=0830cd20b4d37fc8e330f830ae47ae512adde3c2ec98a002a0a77073a21773ee",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261106%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261106T033432Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=046bc868ebb5ecc99eebd916149553ad481cea2f6fcbfdd7a46318aa5af40acf",
     "month": "November 2026"
   },
   {
@@ -20946,7 +20909,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/herndon-open-source-linuxone-meetup-group/events/317096564/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317096564-fe562fc9.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -20986,7 +20949,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/columbia-bitcoin-meetup-group/events/314396580/",
-    "coverImage": null,
+    "coverImage": "/events/mu-314396580-3697b823.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -21368,7 +21331,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-denver/events/317156401/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317156401-27111040.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -21798,7 +21761,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-phoenix/events/317156432/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317156432-be7e6ca8.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -21952,7 +21915,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-sf/events/317156445/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317156445-8b529014.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -21966,7 +21929,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-silicon-valley/events/317156496/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317156496-e9107a0b.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -22260,7 +22223,10 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/317064975/",
     "coverImage": "/events/mu-317064975-0dc78544.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-evt-1YkeGIX5PJN3Q9d",
@@ -22678,7 +22644,10 @@
     "url": "https://www.meetup.com/lfdt-phoenix/events/317065033/",
     "coverImage": "/events/mu-317065033-3914150e.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "eb-2003199972041",
@@ -22793,7 +22762,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/317156484/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317156484-f6a6d57c.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -22807,9 +22776,12 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/317065021/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317065021-c10f5a7d.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-evt-K5mpQKsNcBa8gWI",
@@ -22918,9 +22890,12 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-sf/events/317065000/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317065000-b21a1b3a.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "mu-317065042",
@@ -22934,7 +22909,10 @@
     "url": "https://www.meetup.com/lfdt-silicon-valley/events/317065042/",
     "coverImage": "/events/mu-317065042-83b359c7.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "mu-317234011",
@@ -22988,7 +22966,7 @@
     "country": "us",
     "location": "Chicago, us",
     "url": "https://www.meetup.com/chibitdevs/events/317110095/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317110095-abd6e2a6.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -23002,7 +22980,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-chicago/events/317156436/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317156436-4d6ee4b5.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -23354,7 +23332,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/the-denver-real-estate-meetup/events/317207775/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317207775-42d56170.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -23368,9 +23346,12 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-denver/events/317065061/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317065061-bac75bc3.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-evt-8K68kl1G0Y64sG2",
@@ -23522,7 +23503,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-austin/events/317156434/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317156434-3d75e3ae.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -23550,9 +23531,12 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-austin/events/317065012/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317065012-62d567f1.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "mu-316913789",
@@ -23564,7 +23548,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/real-estate-investing-free-education-mentor-san-antonio/events/316913789/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316913789-c59cc85d.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -23734,7 +23718,10 @@
     "url": "https://www.meetup.com/lfdt-atlanta/events/317064964/",
     "coverImage": "/events/mu-317064964-3d7fd815.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "mu-315045051",
@@ -23746,7 +23733,7 @@
     "country": "us",
     "location": "Atlanta, us",
     "url": "https://www.meetup.com/atlantabitdevs/events/315045051/",
-    "coverImage": null,
+    "coverImage": "/events/mu-315045051-4482839e.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -23914,7 +23901,7 @@
     "country": "us",
     "location": "Palo Alto, us",
     "url": "https://www.meetup.com/palo-alto-cryptomondays-meetup/events/317068147/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317068147-b1b69d07.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -24516,9 +24503,12 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-mexico-city/events/317064943/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317064943-4e7d5f54.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-evt-o2YD9nDcSQkPrii",
@@ -24824,7 +24814,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/philadelphia-bitcoin-club/events/316047401/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316047401-6e7ea5ad.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -25009,7 +24999,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/austin-bitcoin-meetup/events/317082536/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317082536-89dd3aa6.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -25023,7 +25013,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/satoshi-service-center/events/316047307/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316047307-0de72790.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -25196,8 +25186,190 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/carpoolcrypto/events/317208919/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317208919-9f8baab7.webp",
     "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-2D6TS6bkkxPw4CY",
+    "name": "Bitcoin Happy Hour @ The Hike",
+    "description": "",
+    "startDate": "2026-11-06T09:00:00.000Z",
+    "endDate": "2026-11-06T15:00:00.000Z",
+    "city": "",
+    "country": "South Korea",
+    "location": "South Korea",
+    "url": "https://lu.ma/yt3km21i",
+    "coverImage": "/events/luma-evt-2d6ts6bkkxpw4cy-b047f70a.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-0cx5b6t5IfrCvgQ",
+    "name": "ZAMA Web3bridge Workshop",
+    "description": "",
+    "startDate": "2026-11-06T09:00:00.000Z",
+    "endDate": "2026-11-06T12:00:00.000Z",
+    "city": "Ikorodu",
+    "country": "Nigeria",
+    "location": "Ikorodu, Nigeria",
+    "url": "https://lu.ma/rxse8qq7",
+    "coverImage": "/events/luma-evt-0cx5b6t5ifrcvgq-c29cd178.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-BgdtWgi0O8Oylxo",
+    "name": "Let’s Study Bitcoin In English With Kimchi!!",
+    "description": "",
+    "startDate": "2026-11-06T10:00:00.000Z",
+    "endDate": "2026-11-06T13:00:00.000Z",
+    "city": "",
+    "country": "South Korea",
+    "location": "South Korea",
+    "url": "https://lu.ma/wp7f0oap",
+    "coverImage": "/events/luma-evt-bgdtwgi0o8oylxo-9c3a1eb1.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-WHjEpxAWAXnrmN2",
+    "name": "Bitcoin Lucky Draw",
+    "description": "",
+    "startDate": "2026-11-07T04:00:00.000Z",
+    "endDate": "2026-11-07T09:00:00.000Z",
+    "city": "",
+    "country": "South Korea",
+    "location": "South Korea",
+    "url": "https://lu.ma/1dbp93a4",
+    "coverImage": "/events/luma-evt-whjepxawaxnrmn2-9512cae3.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-kvy3ooEEZ7BfF7S",
+    "name": "The Bitcoin Standard: Three Languages, One Idea",
+    "description": "",
+    "startDate": "2026-11-07T10:00:00.000Z",
+    "endDate": "2026-11-07T13:30:00.000Z",
+    "city": "",
+    "country": "South Korea",
+    "location": "South Korea",
+    "url": "https://lu.ma/1k0b8ez7",
+    "coverImage": "/events/luma-evt-kvy3ooeez7bff7s-3fcae669.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-vccDKaGc0Ug5hEH",
+    "name": "CryptoMondays Los Angeles Culver City",
+    "description": "",
+    "startDate": "2026-11-10T01:00:00.000Z",
+    "endDate": "2026-11-10T04:00:00.000Z",
+    "city": "Culver City",
+    "country": "United States",
+    "location": "Culver City, United States",
+    "url": "https://lu.ma/8jkjkf65",
+    "coverImage": "/events/luma-evt-vccdkagc0ug5heh-1244db30.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-OeskhceYcRrn3Zr",
+    "name": "Meet the ChipStart UK Semiconductor Startups",
+    "description": "",
+    "startDate": "2026-11-10T01:30:00.000Z",
+    "endDate": "2026-11-10T04:30:00.000Z",
+    "city": "Sunnyvale",
+    "country": "United States",
+    "location": "Sunnyvale, United States",
+    "url": "https://lu.ma/9apgfoix",
+    "coverImage": "/events/luma-evt-oeskhceycrrn3zr-7756d1fb.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-9Vk41CxGEYlNTqK",
+    "name": "NVIDIA Open Season Part 1: Build With AI You Control (Nemotron)",
+    "description": "",
+    "startDate": "2026-11-11T04:30:00.000Z",
+    "endDate": "2026-11-11T06:30:00.000Z",
+    "city": "Cremorne",
+    "country": "Australia",
+    "location": "Cremorne, Australia",
+    "url": "https://lu.ma/cremorne-irwg",
+    "coverImage": "/events/luma-evt-9vk41cxgeylntqk-31a3c368.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-u6jIcByTmjvnRkM",
+    "name": "Crypto 2027: What Happens Next?",
+    "description": "",
+    "startDate": "2026-11-11T06:30:00.000Z",
+    "endDate": "2026-11-11T09:00:00.000Z",
+    "city": "South Melbourne",
+    "country": "Australia",
+    "location": "South Melbourne, Australia",
+    "url": "https://lu.ma/tbab5uz8",
+    "coverImage": "/events/luma-evt-u6jicbytmjvnrkm-b91da101.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-ouiC6djrt9K7vNS",
+    "name": "The Robotics Founder's Guide: Find Your Ideal Customer with Data - A collaboration with the ETH AI Center",
+    "description": "",
+    "startDate": "2026-11-11T15:00:00.000Z",
+    "endDate": "2026-11-11T18:30:00.000Z",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "location": "Zürich, Switzerland",
+    "url": "https://lu.ma/bdfmoxx6",
+    "coverImage": "/events/luma-evt-ouic6djrt9k7vns-1b3d4d04.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-2tehDLE5zAMopGy",
+    "name": "Light Dao Salon: Spellwork for Livable Futures (LISBON)",
+    "description": "",
+    "startDate": "2026-11-12T18:30:00.000Z",
+    "endDate": "2026-11-12T21:30:00.000Z",
+    "city": "Lisboa",
+    "country": "Portugal",
+    "location": "Lisboa, Portugal",
+    "url": "https://luma.com/wujkggz7",
+    "coverImage": "/events/luma-host-evt-evt-2tehdle5zamopgy-17689c0c.webp",
+    "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-rifQUccAP7Oz7Hs",
+    "name": "AI Verification x Crypto",
+    "description": "",
+    "startDate": "2026-11-13T18:00:00.000Z",
+    "endDate": "2026-11-13T21:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://luma.com/j5glptwa",
+    "coverImage": "/events/luma-host-evt-evt-rifquccap7oz7hs-b695c1d9.webp",
+    "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-yFCMJYLErkYX7iQ",
+    "name": "Launchpad: Accenture Information Session",
+    "description": "",
+    "startDate": "2026-11-18T23:30:00.000Z",
+    "endDate": "2026-11-19T01:30:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://lu.ma/wkjsf8vn",
+    "coverImage": "/events/luma-evt-yfcmjylerkyx7iq-51b4e850.webp",
+    "source": "luma",
     "month": "November 2026"
   }
 ]

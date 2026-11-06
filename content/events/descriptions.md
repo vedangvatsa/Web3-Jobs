@@ -4539,22 +4539,6 @@ Sextillion does not provide or guarantee event entry passes unless explicitly st
 
 Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
 
-<a id="event-3090b1e82a79e485"></a>
-
-## Canton & Coffee
-
-- Record: `token2049-evt-AkfGaK6VBp3JZfK`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-07T00:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/canton-63pr>
-
-### About the event
-
-Canton & Coffee is scheduled for 7 October 2026 at 08:00 (Asia/Singapore) in Singapore. Hosted by Canton | Anney, Erick Ho, BitSafe.
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
 <a id="event-ced8ad1c4cda068a"></a>
 
 ## Talk: Token 2049 Singapore
@@ -13569,22 +13553,6 @@ If you have any questions, please reach out to registration@blockworks.co
 
 Hosted by Carolyn Wyatt. Ticket options include General Admission at US$799, VIP at US$1599, Blockworks Research at US$399, Allocator (free). Venue: Marina Bay Sands Singapore, 10 Bayfront Ave, Singapore 018956. The event takes place on October 6. Registration requires organizer approval.
 
-<a id="event-219b50c5d0fab507"></a>
-
-## NEAR x Introduction.com Happy Hour @ a16z SF Tech Week
-
-- Record: `luma-crypto-2ygHIALwkuZ84ZR`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-10-07T00:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/6dl04lu7>
-
-### About the event
-
-[Join Introduction.com](https://Introduction.com) and NEAR during a16z SF Tech Week for an exclusive, high-signal networking mixer bridging elite tech talent with cutting-edge infrastructure. This curated evening brings together leading [founders, investors, and executives from the Introduction.com](https://Introduction.com) network alongside the builders pioneering decentralized AI at NEAR.
-
-Skip the rigid panels and connect directly over drinks with the minds shaping the future of autonomous technology. Whether you are scaling an early-stage startup or exploring NEAR's hardware-secured AI agent frameworks, this is your venue to forge high-impact partnerships, exchange tactical playbooks, and connect with the leaders driving the next wave of technological innovation. Space is strictly limited.
-
 <a id="event-7dd4ac4cef3d75be"></a>
 
 ## Stablecoin Sessions @ Token2049 Singapore
@@ -19804,230 +19772,6 @@ This gathering is part of Aria One's Singapore 2026 series, with more to come ac
 Speakers dinner - Raffles Hotel, October 6 VIP room (SOLD OUT) experience with Heavensake - October 7 to 8 After2049 night - Ce La Vi, October 9
 
 If you are planning your week around the best rooms, best people, and best after-hours plans, this is where it begins.
-
-<a id="event-10a2d2e41a2fdc7e"></a>
-
-## TFOT: Global Innovation Showcase: Deep Tech, Dual Tech, FinTech, Web3, Global Expansion and Scaling at SF War Memorial
-
-- Record: `luma-batch-plkQDIgx2uXuvPr`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-06T18:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/tfot-globalinnovationshowcase2026>
-
-### About the event
-
-You've heard what's next. Now meet who's making it happen.
-
-This October, get inside the room where founders, investors, government leaders, veterans, and technology pioneers come together to show what's actually being built.
-
-Landmark Venue: SF War Memorial Veterans Building, San Francisco Hosted by TFOT: 600+ Events | 100K+ Community | 24+ Countries | 80+ Cities Meet Investors, Founders, Government Leaders & Army Veterans. Get access to the people, ideas, opportunities, and connections that can help you move forward. Explore topics on AI, Defense Tech, Smart Cities, Government Innovation, Cross-Border & Emerging Tech Enjoy Complimentary alcoholic & non-alcoholic drinks + curated bites
-
-Now you know where you need to be this October
-
-Funds collected via ticket sales will be used for upgrading the foods and drinks experience for attendees.
-
-Karsten Popp, CEO, iLima Digital Foundary
-
-Alina Aeby, Founder/President. Silicon Valley Proptech Association
-
-Merc Martinelli, Commander Post 315, American Legion Post 315
-
-Rusmin Lawin, Global Ambassador of REI, Real Estate Indonesia Developers Association & Chairman of Indonesia Rising
-
-Carrie "Ms. NFTy" Lyn, President of California, Stand With Crypto
-
-Melissa Oh, Managing Director, TGY Advisors LLC
-
-Kenneth Hurley, CEO & Co-Founder, Genius Ventures Inc.
-
-Matt Snow, Strategic Partnerships, 1inch
-
-Jordan Wahbeh, Managing Partner, SV Venture Group
-
-Manveer Sandhu, Principal, Bow Capital
-
-Kerry Chin, Investor, Booz Allen Ventures
-
-Ruby Nahal, Founder & CEO, Loop8
-
-Teresa Hung, Business Development Officer, Hong Kong Trade Development Council
-
-Evelyn Lee, Founder & Managing Partner, Vine Ventures Corporation
-
-Preethy Padmanabhan, Head of Marketing, Cisco IIoT & Founder, 10x Growth Strategies
-
-Soniya Ahuja, Founder & CEO, Orbis86
-
-Ken Nim, Co-Founder, OffChain Global
-
-MORE SPEAKERS TO BE ANNOUNCED
-
-TENTATIVE AGENDA
-
-Registration & Welcome
-
-Arrive, check in and connect with fellow founders, investors, technology leaders, and innovators before the main program begins. Explore the live demo showcase and get ready for an afternoon of conversations around the technologies and ideas shaping the future.
-
-Opening Keynote
-
-Kick off the showcase with a forward-looking keynote exploring the forces shaping the next generation of global innovation - from emerging technologies and resilient infrastructure to the opportunities for building and scaling solutions across markets.
-
-Panel 1: Global VCs & The Next Wave of Innovation
-
-A conversation with global investors on where capital is flowing, which technologies are gaining momentum, and what it takes for startups to build and scale globally.
-
-Jordan Wahbeh, Managing Partner, SV Venture Group
-
-Kerry Chin, Investor, Booz Allen Ventures
-
-Panel 2: The Affordability Stack - What Scales Globally, What Doesn't
-
-Exploring how housing innovation, technology, policy, and capital can scale across different markets - and what determines whether solutions succeed or fail.
-
-Karsten Popp - CEO, iLima Digital Foundary
-
-Panel 3: Web3 & The Next Digital Economy
-
-Exploring how Web3, blockchain, and decentralized technologies are evolving digital ownership, financial infrastructure, and the way global communities and businesses operate.
-
-Matt Snow, Strategic Partnerships, 1inch
-
-Panel 4: Dual Tech & Defense Innovation
-
-Exploring how AI, robotics, autonomous systems, and other dual-use technologies are advancing defense, national security, and critical infrastructure.
-
-Manveer Sandhu, Principal, Bow Capital
-
-Melissa Oh, Managing Director, TGY Advisors LLC
-
-Panel 5: Scaling AI Across Markets
-
-Exploring what it takes to move AI from breakthrough innovation to real-world adoption across industries, markets, and geographies
-
-Closing Remarks
-
-Bringing the day together with key takeaways, reflections, and highlights from the conversations and connections made throughout the showcase. We'll also recognize and thank our speakers, sponsors, partners, and community who helped make the event possible, while looking ahead to the ideas and opportunities sparked during the day.
-
-Networking Reception
-
-Continue the conversations over food, refreshments, and meaningful connections with founders, investors, technology leaders, speakers, sponsors, partners, and members of the global innovation community. An informal space to exchange ideas, explore collaborations, and build relationships beyond the stage.
-
-Pitches & Demos
-
-Hear directly from innovative startups and technology builders as they pitch their ideas and showcase live solutions across AI, robotics, defense, infrastructure, and other emerging technology sectors.
-
-The Tesla Experience
-
-We're bringing the TESLA EXPERIENCE to Global Innovation Showcase. Attendees can sign up for an exclusive Tesla Test Drive and Tesla Overnight Experience and take innovation home for the night - exploring Tesla's cutting-edge technology, intelligent driving capabilities, and the future of mobility firsthand.
-
-VENUE SPONSORAmerican Legion War Memorial Commission
-
-Founded in 1919 as part of The American Legion, the Commission helps ensure the sacrifices of veterans are remembered through monuments, memorials, and community spaces across San Francisco. It coordinates use of the San Francisco Veterans Building for established American Legion Posts and patriotic organizations, in accordance with the War Memorial Charter. American Legion Posts also host activities that bring veterans together, from memorial services and peer support meetings to cultural and community events.
-
-Veterans from all branches of service are warmly welcomed to participate, connect with fellow veterans, and become part of a community dedicated to honoring service and strengthening veteran connections.
-
-SPONSORSStand With Crypto
-
-Stand With Crypto is a grassroots, nonpartisan movement uniting over 2.5 million advocates nationwide to protect the future of crypto and blockchain innovation. We amplify community voices, educate policymakers, and mobilize around fair digital asset legislation. Beyond advocacy, Stand With Crypto creates opportunities to connect through local activations, community events, and partnerships empowering members to host and shape the future of Web3 from the ground up.
-
-Connect with carrie@msnfty.io if you would like to join the mission or host an upcoming event.
-
-TeroAI
-
-TeroAI is building the intelligence layer for the physical world. Its patented geospatial technology unifies fragmented data across sources and geographic boundaries, enabling organizations to understand where things are happening, why they are happening, and what happens next. TeroAI delivers this intelligence through natural-language software, SDK/API integrations, technology licensing, and professional services across industries including retail, advertising, real estate, media, public affairs, site selection, and market intelligence.
-
-1inch
-
-1inch is the DeFi ecosystem built financial freedom for everyone - integrating 13+ chains and offering the only native connection between Solana and EVM networks. 1inch products help users and builders trade, hold and track digital assets - with true self-custody, comprehensive security and the intuitive user experience they need to make DeFi work.
-
-Hong Kong Trade Development Council
-
-Silicon Valley Proptech Association
-
-SVPropTech is a global collaboration space for all the private, public and non-governmental stakeholders in technology property, with emphasis on educational, networking and business opportunities. SVPropTech thrives to be a catalyst that brings together different international players in the technology property space from and into Silicon Valley and a connector between San Francisco Bay Area and other global PropTech communities.
-
-The Future of Tech
-
-OffChain Global
-
-OffChain is a global community with over 70 chapters around the world for Web3 professionals, tech enthusiasts and entrepreneurs. We welcome like-minded people to build and connect. Each chapter/city aims to have a base of regular casual social gatherings or speaking events so we can bridge and connect.
-
-Orbis86
-
-Orbis86 is driving emerging tech innovation through its Engage - Educate - Elevate approach, creating personalized experiences and seamless cross-chain integration. We host global events that unite communities around Web3 and AI, fostering meaningful discussions and collaboration. Our mission is to build an inclusive ecosystem where individuals can learn, grow, and shape the future of decentralized technology.
-
-BrandPR
-
-BrandPR is a specialized PR and marketing agency partnering with Orbis86 to empower Web3 brands worldwide. Since 2022, they have helped crypto and Web3 clients gain exposure through top-tier media coverage and community-building strategies. From crypto launches to DeFi platforms and NFT marketplaces, BrandPR delivers tailored campaigns designed to amplify your brand and build a lasting legacy in the Web3 space.
-
-Beverage PartnersPoura On Wheels
-
-Poura On Wheels brings unforgettable event experiences with its iconic Piaggio Ape mobile bar, serving handcrafted cocktails, mocktails, wine, and beer with fully customizable menus for every celebration.
-
-GNUS.AI
-
-Genius Ventures, Inc develops blockchain-powered infrastructure solutions, with GNUS tokens enabling decentralized GPU utilization through a patented multi-chain DePIN ecosystem.
-
-Partners10X Growth Strategies
-
-10X Growth Strategies is a thriving Silicon Valley community for Investors, Founders and Corporate Executives. Founded by Preethy Padmanabhan, a Silicon Valley Executive and Investor, the community hosts events in the San Francisco Bay Area featuring VCs and Founders. The 10X Growth Strategies podcast is ranked in the global top 10% on Listen Notes. Subscribe to the community here - https://luma.com/10xgrowthstrategies.
-
-Hong Kong Trade Development Council
-
-The Hong Kong Trade Development Council (HKTDC) promotes Hong Kong as a global business and innovation hub, connecting companies and investors with opportunities across Asia and beyond. Visit HKTDC to learn more about InnoEX, Asia's leading innovation and technology showcase, and discover how Hong Kong can serve as a gateway to the dynamic Greater Bay Area and global markets.
-
-Loop8
-
-Loop8 is an AI and Cloud Transformation partner helping startups and SMBs build and scale their technology initiatives. Through exclusive AWS partner funding programs, Loop8 can allocate up to $25,000 toward your project- serving as a seamless extension of your team with no upfront financial risk. All you need to get started is a live website and a cloud account. Whether you're validating a new idea or accelerating an existing product, Loop8 brings the expertise and resources to help you get to market faster. Learn more at loop8.io
-
-Google | Microsoft | Oracle | OpenAI | IBM | TeslaU.S. Army | Internet Computer | Binance | ServiceNow | Hedera | LBankOKX | Stanford University | Gate | World | Gnus.AI | Founders BayMinidoge | Cole-Frieman & Mallon | Filecoin Foundation | Hotcoin Global | Unstoppable Domains | TBVBGA | FIO | OnePiece Labs | Berkeley University | 0xlabs | BitgetAvalanche | Access Granted | Near | TiE | Xecret.io | Animoca Brands
-
-Cryptoniteuae | Bitcoin World | CoinPedia | Voice of Crypto | Bitcoin Insider |The Globe and MailThe Crypto Magazine | All Crypto Whitepaper | Kryptologist | The Blockpedia | BenzingaBusiness Insurance | The Chronicle Journal | openPR | Harbinger Times | MarketnomyCoin Gabbar | Counter Statistics | Crypto Pears | Trade Base | Crypto GraphBD Ventures | Traders Brawl | TUA Crypto | Coin Zebro | Crypto CrazeThe Bit Crypto | Crypto Papers | Crypto News Bulls | Crypto Tion | Bitcoin All
-
-<a id="event-cc93eafbf5cdf551"></a>
-
-## Stablecoin Morning 5K Run
-
-- Record: `luma-batch-evtQMI8ZVlsQHaG8`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-06T23:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/a3dvp6r5>
-
-### About the event
-
-A morning run with the Island Fintech x Codex team
-
-Hosted by Island Fintech & the Codex team, we're hoping to bring folks together in the Stablecoin space for good mid-week energy & conversations along the iconic Singapore skyline.
-
-Whether you're a seasoned runner or just looking for a reason to get outside, all paces are welcome. We will run an easy-paced 5K along the waterfront and finish with coffee and breakfast on us.
-
-### Programme
-
-07:30 - Assemble at meeting point (Guzman y Gomez @ Ocean Financial Centre)
-
-07:40-08:30 - 5K run (Hybrid: Health electrolytes provided)
-
-08:30-09:30 - Coffee (from Prefer) & breakfast (Guzman Y Gomez) on us!
-
-### About Island Fintech
-
-Island Fintech is a regional fintech newsletter covering Southeast Asia's fast-evolving financial technology landscape with curated insights and updates.
-
-### About Codex
-
-Codex is the stablecoin-native FX platform for moving money across borders. The platform enables businesses to convert, receive, and pay with fiat and stablecoins at institutional rates, 24/7/365, making global payments faster and more efficient. Founded in 2024, the company is backed by investors including Dragonfly, Coinbase Ventures, Circle Ventures, Wintermute, and Cumberland.
-
-Kindly sponsored by Prefer Coffee and Hybrid: Health!
-
-### About Prefer Coffee
-
-Say hello to the future of coffee! Less sugar, full flavour. Prefer Iced Coffees deliver a guilt-free caffeine hit. Smooth and indulgent, our Iced Coffees are crafted with real coffee and PreferRoast™, our signature coffee extender, for a sustainable energy boost.
-
-About Hybrid:Health
-
-Hybrid:Health is more than just a supplement brand; we provide a high-performance system for athletes who demand more. Our flagship product, Hybrid: Hydration, is a sophisticated stack designed to power peak output, delay fatigue, and accelerate recovery. We don't just stop at electrolytes. Engineered with clean ingredients and real fruit flavours, our formula bridges the gap between hydration and pure performance.
 
 <a id="event-113ac8a7e54acc5b"></a>
 
@@ -28253,18 +27997,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-87210badfbb2eea0"></a>
-
-## Coin Center Annual Dinner 2026
-
-- Record: `w3v-coin-center-annual-dinner-26-10-06`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-06T13:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://coincenter.org/dinner/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-92c7f01c3c51be0f"></a>
 
 ## Digital Asset Summit Asia 2026
@@ -28336,40 +28068,6 @@ Check the companies and decision makers coming to Token2049 Singapore, now avail
 
 [https://compass.mesa.so/events/token2049-singapore-2026](https://compass.mesa.so/events/token2049-singapore-2026?utm_source=luma&utm_medium=events&utm_campaign=token2049sg-2026)
 
-<a id="event-f51ff307fa3ab085"></a>
-
-## Sui Run Club \| The Human Layer IRL 3K.5K.7K
-
-- Record: `token2049-side-6aa19d44967be0befa88d0d9`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-06T23:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/xns9yc4w>
-
-### About the event
-
-Sui Basecamp 2026 Run
-
-THE HUMAN LAYER IRL: 3K | 5K | 7K 🇸🇬
-
-As Sui Run Club, we are coming together once again with the Web3 community in the physical world!
-
-We are holding our traditional community run at Marina Bay again this year. Whether you run or walk, our only goal is to move together and start the day dynamically!
-
-Exclusive for Participants:
-
-Free Sui Basecamp invitation code for everyone who joins the event this year!
-
-Surprise guests and special gifts waiting for you at the finish line!
-
-Date: October 7, 2026
-
-Time: 07.00 AM
-
-Location: Gigi Bistro - The Sail at Marina Bay, Singapore
-
-Final route and meeting time details coming very soon!
-
 <a id="event-f73e850131310162"></a>
 
 ## BTCC Traders Club @ TOKEN2049
@@ -28379,18 +28077,6 @@ Final route and meeting time details coming very soon!
 - Starts: 2026-10-06T23:30:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/x6q6vmm9>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-cecf163d77ff6412"></a>
-
-## Stablecoin Morning 5K Run
-
-- Record: `luma-host-evt-evt-QMI8ZVlsQHaG8no`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-06T23:30:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/a3dvp6r5>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -28415,18 +28101,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-06T23:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/x6q6vmm9>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-ea60e49d6f7e19b0"></a>
-
-## Stablecoin Morning 5K Run
-
-- Record: `w3v-stablecoin-morning-5k-run-26-10-07`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-06T23:30:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/a3dvp6r5>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -44112,6 +43786,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-abf6ba0c74da9517"></a>
+
+## ZAMA Web3bridge Workshop
+
+- Record: `luma-evt-0cx5b6t5IfrCvgQ`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-06T09:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/rxse8qq7>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-e5e2165bb2a2a131"></a>
+
+## Bitcoin Happy Hour @ The Hike
+
+- Record: `luma-evt-2D6TS6bkkxPw4CY`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-06T09:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/yt3km21i>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-e6e0bda545b1181a"></a>
 
 ## Nigeria Blockchain & AI Week 2026
@@ -44145,6 +43843,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-06T09:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/auho5m0c>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-b80a3e4b8222fc25"></a>
+
+## Let’s Study Bitcoin In English With Kimchi!!
+
+- Record: `luma-evt-BgdtWgi0O8Oylxo`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-06T10:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/wp7f0oap>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -44407,6 +44117,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-f03eb09d9521766d"></a>
+
+## Bitcoin Lucky Draw
+
+- Record: `luma-evt-WHjEpxAWAXnrmN2`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-07T04:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/1dbp93a4>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-a27d4824828af13c"></a>
 
 ## Monad India Community Meetup - Devcon Mumbai 26' Edition
@@ -44452,6 +44174,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-07T09:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/4p7vm8o9>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-999e7742a604f8e0"></a>
+
+## The Bitcoin Standard: Three Languages, One Idea
+
+- Record: `luma-evt-kvy3ooEEZ7BfF7S`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-07T10:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/1k0b8ez7>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -44959,6 +44693,30 @@ Bluechip's conference examines stablecoin risk, crypto security and institutiona
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-29502ab3b4541e3e"></a>
+
+## CryptoMondays Los Angeles Culver City
+
+- Record: `luma-evt-vccDKaGc0Ug5hEH`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-10T01:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/8jkjkf65>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-6be5063ecea820d4"></a>
+
+## Meet the ChipStart UK Semiconductor Startups
+
+- Record: `luma-evt-OeskhceYcRrn3Zr`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-10T01:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/9apgfoix>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-5e74069346094ef3"></a>
 
 ## Digital Asset Summit London 2026
@@ -45151,6 +44909,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-1c9c776fed8d592c"></a>
+
+## NVIDIA Open Season Part 1: Build With AI You Control (Nemotron)
+
+- Record: `luma-evt-9Vk41CxGEYlNTqK`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-11T04:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/cremorne-irwg>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-ca74dcdbfbcf06f6"></a>
+
+## Crypto 2027: What Happens Next?
+
+- Record: `luma-evt-u6jIcByTmjvnRkM`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-11T06:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/tbab5uz8>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-dcc5a11966c710a3"></a>
 
 ## Superteam UAE Members Lunch (MEMBERS ONLY)
@@ -45172,6 +44954,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-11T13:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/976c7sih>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-88a842c9206a3036"></a>
+
+## The Robotics Founder's Guide: Find Your Ideal Customer with Data - A collaboration with the ETH AI Center
+
+- Record: `luma-evt-ouiC6djrt9K7vNS`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-11T15:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/bdfmoxx6>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -45474,6 +45268,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-12T18:00:00-06:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/chibitdevs/events/317110095/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-6c87796e38793cff"></a>
+
+## Light Dao Salon: Spellwork for Livable Futures (LISBON)
+
+- Record: `luma-host-evt-evt-2tehDLE5zAMopGy`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-12T18:30:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/wujkggz7>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -45816,6 +45622,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-13T17:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/SolanaEcosystemClub>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-b62d4be734f5c5f8"></a>
+
+## AI Verification x Crypto
+
+- Record: `luma-host-evt-evt-rifQUccAP7Oz7Hs`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-13T18:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/j5glptwa>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -47030,6 +46848,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-18T23:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/id80owbl>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-c1f3b1b568378a93"></a>
+
+## Launchpad: Accenture Information Session
+
+- Record: `luma-evt-yFCMJYLErkYX7iQ`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-18T23:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/wkjsf8vn>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

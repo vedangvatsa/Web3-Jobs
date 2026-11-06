@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-06T00:29:09.869Z",
+  "checkedAt": "2026-11-06T03:31:49.266Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -10,11 +10,11 @@
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 160,
-    "excluded": 258,
-    "needs-review": 31
+    "existing": 158,
+    "excluded": 259,
+    "needs-review": 26
   },
-  "importedTotal": 175,
+  "importedTotal": 173,
   "added": [],
   "receipts": [
     {
@@ -133,16 +133,6 @@
       ],
       "status": "existing",
       "slug": "btcc-traders"
-    },
-    {
-      "url": "https://luma.com/canton-63pr",
-      "name": "Canton & Coffee",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "canton-coffee"
     },
     {
       "url": "https://luma.com/rpjz9dhl",
@@ -1798,41 +1788,8 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/m0q2uycp",
-      "name": "GameFi Afterburn: Play. Connect. Evolve.",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 400"
-    },
-    {
-      "url": "https://luma.com/czcu2q8y",
-      "name": "FutureXcon",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
       "url": "https://luma.com/uw828q63",
       "name": "GP Singapore",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/vw4y28g1",
-      "name": "Midnight Munchies with Ammalgam",
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
@@ -1885,14 +1842,15 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/a3dvp6r5",
-      "name": "Stablecoin Morning 5K Run",
+      "url": "https://luma.com/bxuvc1dc",
+      "name": "ONE OF US Run & Coffee // Aya, Cudis, 021Labs & Aethir",
       "sources": [
         "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 404"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://milkeninstitute.org/events/asia-summit-2026",
@@ -1944,16 +1902,6 @@
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
         "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/hqmosfsc",
-      "name": "🏃 Run&Fun with HALO",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
@@ -4630,8 +4578,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://luma.com/9eycszeo",
@@ -4648,8 +4596,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://www.sui.io/basecamp",
@@ -4657,8 +4605,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "",

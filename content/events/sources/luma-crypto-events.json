@@ -186,52 +186,6 @@
     }
   },
   {
-    "id": "luma-crypto-2ygHIALwkuZ84ZR",
-    "slug": "nxichhatw",
-    "name": "NEAR x Introduction.com Happy Hour @ a16z SF Tech Week",
-    "description": "[Join Introduction.com](https://Introduction.com) and NEAR during a16z SF Tech Week for an exclusive, high-signal networking mixer bridging elite tech talent with cutting-edge infrastructure. This curated evening brings together leading [founders, investors, and executives from the Introduction.com](https://Introduction.com) network alongside the builders pioneering decentralized AI at NEAR.\n\nSkip the rigid panels and connect directly over drinks with the minds shaping the future of autonomous technology. Whether you are scaling an early-stage startup or exploring NEAR’s hardware-secured AI agent frameworks, this is your venue to forge high-impact partnerships, exchange tactical playbooks, and connect with the leaders driving the next wave of technological innovation. Space is strictly limited.",
-    "startDate": "2026-10-07T00:30:00.000Z",
-    "endDate": "2026-10-07T02:30:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "San Francisco, United States",
-    "url": "https://luma.com/6dl04lu7",
-    "registrationUrl": "https://luma.com/6dl04lu7",
-    "coverImage": "/events/luma-crypto-2yghialwkuz84zr-edfb5bd1.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "NEAR Foundation",
-      "Introduction.com"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/Los_Angeles",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "NEAR Events",
-      "url": "https://near.org/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/6dl04lu7",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/6dl04lu7",
-      "eventId": "evt-2ygHIALwkuZ84ZR",
-      "fetchedAt": "2026-09-19T23:54:01.118Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-q2d3rNyeBNrqk1s",
     "slug": "sst",
     "name": "Stablecoin Sessions @ Token2049 Singapore",
