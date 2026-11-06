@@ -110517,7 +110517,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "848f8632-8f9d-4c4a-8a29-4b2f11d2fcda",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe2410965d14a8baecad269f8a088c84643b074eb"
     }
   ]
 }
