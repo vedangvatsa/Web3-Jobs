@@ -136297,11 +136297,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "2359b0a36b7db3025fa4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-05T00:28:26.536Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-07T23:23:57.000Z",
-      "lastSeenAt": "2026-11-05T00:28:26.536Z"
+      "lastSeenAt": "2026-11-05T00:28:26.536Z",
+      "reason": "out-of-scope",
+      "note": "Read the Crypto Briefing report; it covers Rep. Yassamin Ansari's Nov 4 call to pause advanced AI development and ban artificial superintelligence, an AI policy story with no Web3, crypto or blockchain event.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/yassamin-ansari-pause-advanced-ai-development/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-06T01:33:21.173Z",
+      "lastReviewedDay": "2026-11-06"
     },
     "8185eadfee5bc08140d2": {
       "source": "BeInCrypto",
@@ -263435,6 +263445,18 @@
           "reviewedAt": "2026-11-06T01:32:17.430Z",
           "duplicateOf": "liquidbacking",
           "mergedInto": "2e8e01540a9c9849a2a2"
+        },
+        "2359b0a36b7db3025fa4": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Crypto Briefing report; it covers Rep. Yassamin Ansari's Nov 4 call to pause advanced AI development and ban artificial superintelligence, an AI policy story with no Web3, crypto or blockchain event.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/yassamin-ansari-pause-advanced-ai-development/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-06T01:33:21.173Z"
         }
       },
       "baselineSlugs": [
