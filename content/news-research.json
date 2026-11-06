@@ -131537,9 +131537,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "02570a1503b3f1a27756",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T22:03:39.000Z",
       "lastSeenAt": "2026-11-04T00:03:58.707Z",
       "articleSlug": "koreacoldstorage",
@@ -131557,7 +131557,18 @@
         "updatedAt": "2026-11-06T00:33:36.103Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "duplicate",
+      "note": "Read the Unchained Nov. 3 report in full: it covers the same Nov. 2 FSC emergency meeting, the cold-wallet request, the 80% statutory floor and the Upbit/Bithumb/Coinone ratios already reported in the published koreacold article.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/binances-6-3-billion-hack-has-south-korea-asking-exchanges-to-hold-more-crypto-offline/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-06T00:41:00.502Z",
+      "duplicateOf": "koreacold",
+      "lastReviewedDay": "2026-11-06"
     },
     "a98a709c979b959a5b34": {
       "source": "The Block",
@@ -262702,6 +262713,19 @@
           "reviewedAt": "2026-11-06T00:40:01.080Z",
           "duplicateOf": "equityperps",
           "mergedInto": "447f7cccc91b207972c7"
+        },
+        "02570a1503b3f1a27756": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Read the Unchained Nov. 3 report in full: it covers the same Nov. 2 FSC emergency meeting, the cold-wallet request, the 80% statutory floor and the Upbit/Bithumb/Coinone ratios already reported in the published koreacold article.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/binances-6-3-billion-hack-has-south-korea-asking-exchanges-to-hold-more-crypto-offline/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-06T00:41:00.502Z",
+          "duplicateOf": "koreacold"
         }
       },
       "baselineSlugs": [
