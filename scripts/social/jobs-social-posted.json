@@ -111145,6 +111145,48 @@
       "verification": "verified",
       "postId": "6aee2bfcaf7e526d43d99d34",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524555145595105281"
+    },
+    {
+      "slug": "pm162",
+      "company": "Chainalysis",
+      "title": "Sr Product Marketing Manager, Platform",
+      "platform": "linkedin",
+      "postedAt": "2026-11-06T19:32:28.102Z",
+      "expectedText": "Chainalysis is hiring Sr Product Marketing Manager, Platform: https://hashtagweb3.com/pm162/li?og=7",
+      "snapshot": {
+        "id": "c3ad81f0-701a-42c7-b008-76fa4076a2dd",
+        "title": "Sr Product Marketing Manager, Platform",
+        "company": "Chainalysis",
+        "link": "https://jobs.ashbyhq.com/chainalysis-careers/c3ad81f0-701a-42c7-b008-76fa4076a2dd",
+        "date": "2026-10-28T15:26:41.499+00:00",
+        "source": "Ashby: Chainalysis [chainalysis-careers]",
+        "location": "Remote - USA",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "R&D",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm162"
+      },
+      "payload": {
+        "text": "Chainalysis is hiring Sr Product Marketing Manager, Platform: https://hashtagweb3.com/pm162/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm162/li?og=7",
+          "title": "Sr Product Marketing Manager, Platform at Chainalysis",
+          "description": "Join Chainalysis as Sr Product Marketing Manager, Plat. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm162.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "5a2947b4-f72f-4530-97a9-783c7bded731",
+      "verification": "creating"
     }
   ]
 }
