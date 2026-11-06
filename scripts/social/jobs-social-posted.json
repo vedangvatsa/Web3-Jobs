@@ -109414,7 +109414,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "c651b736-5ca7-4e6c-9343-d17281554920",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6aedbb7336daaa23dcd1fc2a"
     }
   ]
 }
