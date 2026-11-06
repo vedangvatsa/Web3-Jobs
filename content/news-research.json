@@ -131333,11 +131333,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "54431d81e5393c722fbd",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T23:23:06.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read the Crypto Briefing piece. It is prediction-market and polling analysis of the Texas Senate race with a Kalshi quote and no concrete event, vote, filing or launch; also not a Web3 industry development.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/democrat-james-talarico-hits-record-high-in-texas-senate-race/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-06T00:46:13.313Z",
+      "lastReviewedDay": "2026-11-06"
     },
     "03c81a4c1157f2ae090a": {
       "source": "Crypto Briefing",
@@ -131354,11 +131364,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "03c81a4c1157f2ae090a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T23:06:26.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read the Crypto Briefing analysis of freezable tokens after the Binance hack. It offers interpretation of already-covered Oct. 29 events and Nov. 3 incident report with no new event of its own.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/binance-hack-tokenized-assets-north-korea/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-06T00:46:13.313Z",
+      "lastReviewedDay": "2026-11-06"
     },
     "586d17060cdd77a4a1ee": {
       "source": "Unchained",
@@ -132192,11 +132212,27 @@
       ],
       "alsoCoveredBy": [],
       "id": "5f770cc1cb071632acc0",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T17:20:37.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "duplicate",
+      "note": "Same Nov. 3 CFTC statement that equity perpetual futures can trade on US exchanges already covered in content/articles/equityperps.md; CFTC statement and Unchained article read during this review.",
+      "sourceChecks": [
+        {
+          "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement110326",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/cftcs-selig-says-perpetual-futures-on-individual-stocks-can-now-trade-in-the-us/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-06T00:46:13.313Z",
+      "duplicateOf": "equityperps",
+      "mergedInto": "447f7cccc91b207972c7",
+      "lastReviewedDay": "2026-11-06"
     },
     "fdc5ae2b2d7993da301a": {
       "source": "CryptoSlate",
@@ -132213,11 +132249,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "fdc5ae2b2d7993da301a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T17:10:03.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "duplicate",
+      "note": "Same Nov. 2 KCNA denial by Kim Yo Jong after the FBI's Oct. 31 attribution already covered in content/articles/kimjong.md; CryptoSlate article read during this review.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/north-korea-denies-role-in-6-billion-binance-hack-after-fbi-accusation/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-06T00:46:13.313Z",
+      "duplicateOf": "kimjong",
+      "lastReviewedDay": "2026-11-06"
     },
     "b61e1b7b02b692a518ae": {
       "source": "CoinDesk",
@@ -132318,11 +132365,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "543f477588f02cb5ff79",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T16:44:06.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "duplicate",
+      "note": "Same Nov. 3 Binance incident report on the tainted install and fake job interview already covered in content/articles/fakeinterview.md; Cointelegraph article read during this review.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-06T00:46:13.313Z",
+      "duplicateOf": "fakeinterview",
+      "lastReviewedDay": "2026-11-06"
     },
     "2f660c912dd3142ea73e": {
       "source": "Unchained",
@@ -132339,11 +132397,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "2f660c912dd3142ea73e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T16:17:00.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "duplicate",
+      "note": "Same Binance initial report on the months-long campaign to the $6.34 billion drain already covered in content/articles/fakeinterview.md; Unchained article read during this review.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/binance-details-four-month-path-from-tainted-developer-install-to-6-34-billion-drain/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-06T00:46:13.313Z",
+      "duplicateOf": "fakeinterview",
+      "lastReviewedDay": "2026-11-06"
     },
     "decd2cff7c1a3ec063d7": {
       "source": "BeInCrypto",
@@ -262794,6 +262863,87 @@
             }
           ],
           "reviewedAt": "2026-11-06T00:41:41.640Z"
+        },
+        "54431d81e5393c722fbd": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read the Crypto Briefing piece. It is prediction-market and polling analysis of the Texas Senate race with a Kalshi quote and no concrete event, vote, filing or launch; also not a Web3 industry development.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/democrat-james-talarico-hits-record-high-in-texas-senate-race/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-06T00:46:13.313Z"
+        },
+        "03c81a4c1157f2ae090a": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read the Crypto Briefing analysis of freezable tokens after the Binance hack. It offers interpretation of already-covered Oct. 29 events and Nov. 3 incident report with no new event of its own.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/binance-hack-tokenized-assets-north-korea/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-06T00:46:13.313Z"
+        },
+        "fdc5ae2b2d7993da301a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Nov. 2 KCNA denial by Kim Yo Jong after the FBI's Oct. 31 attribution already covered in content/articles/kimjong.md; CryptoSlate article read during this review.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/north-korea-denies-role-in-6-billion-binance-hack-after-fbi-accusation/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-06T00:46:13.313Z",
+          "duplicateOf": "kimjong"
+        },
+        "543f477588f02cb5ff79": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Nov. 3 Binance incident report on the tainted install and fake job interview already covered in content/articles/fakeinterview.md; Cointelegraph article read during this review.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-06T00:46:13.313Z",
+          "duplicateOf": "fakeinterview"
+        },
+        "2f660c912dd3142ea73e": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Binance initial report on the months-long campaign to the $6.34 billion drain already covered in content/articles/fakeinterview.md; Unchained article read during this review.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/binance-details-four-month-path-from-tainted-developer-install-to-6-34-billion-drain/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-06T00:46:13.313Z",
+          "duplicateOf": "fakeinterview"
+        },
+        "5f770cc1cb071632acc0": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Nov. 3 CFTC statement that equity perpetual futures can trade on US exchanges already covered in content/articles/equityperps.md; CFTC statement and Unchained article read during this review.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement110326",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/cftcs-selig-says-perpetual-futures-on-individual-stocks-can-now-trade-in-the-us/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-06T00:46:13.313Z",
+          "duplicateOf": "equityperps",
+          "mergedInto": "447f7cccc91b207972c7"
         }
       },
       "baselineSlugs": [
