@@ -3313,7 +3313,7 @@
     "sentAt": "2026-11-06T03:34:10.377Z"
   },
   "7a40447b-7fbe-43e3-b65d-bb7e3d0cb653": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-06T11:33:15.587Z",
     "stories": [
       {
@@ -3341,6 +3341,8 @@
         "originalTitle": "CME's Duffy calls perp funding a swap as CFTC lawsuit heads to full briefing"
       }
     ],
-    "slotKey": "2026-11-06:afternoon"
+    "slotKey": "2026-11-06:afternoon",
+    "messageId": 65808,
+    "sentAt": "2026-11-06T11:33:19.778Z"
   }
 }
