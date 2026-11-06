@@ -109562,6 +109562,33 @@
       "verification": "pending",
       "postId": "6aedbbc470ee7e2aa7017c08",
       "error": "Buffer X post 6aedbbc470ee7e2aa7017c08 is not yet confirmed sent; keeping its receipt pending"
+    },
+    {
+      "slug": "dpc",
+      "company": "Riot Platforms",
+      "title": "Director, Project Controls",
+      "platform": "threads",
+      "postedAt": "2026-11-06T11:36:33.727Z",
+      "expectedText": "Riot Platforms is hiring Director, Project Controls: https://hashtagweb3.com/dpc/th?og=7",
+      "snapshot": {
+        "id": "3c30cca2-5612-4ed0-9af3-02765577733c",
+        "title": "Director, Project Controls",
+        "company": "Riot Platforms",
+        "link": "https://ats.rippling.com/riot-platforms-careers/jobs/3c30cca2-5612-4ed0-9af3-02765577733c",
+        "date": "2026-10-12T16:46:38.185000-07:00",
+        "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+        "location": "Remote",
+        "department": "Executive Management",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dpc"
+      },
+      "payload": {
+        "text": "Riot Platforms is hiring Director, Project Controls: https://hashtagweb3.com/dpc/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/dpc/th?og=7"
+      },
+      "attemptId": "00d2a291-4e06-41b1-a31f-9aaac3b79e40",
+      "verification": "creating"
     }
   ]
 }
