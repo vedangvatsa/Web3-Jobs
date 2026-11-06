@@ -111673,7 +111673,8 @@
       },
       "account": "channel:base",
       "attemptId": "9b0a1c8a-8493-4b6a-9708-d5f4bca30634",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x800e5b075e8f96523a8a3b8297e16bb0ddbd0770"
     }
   ]
 }
