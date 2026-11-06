@@ -136576,14 +136576,14 @@
         "id": "a79c494f23d413bc7249",
         "day": "2026-11-06",
         "articleSlug": "huizenga",
-        "note": "Read the Bitcoin Magazine report of the Nov. 4 AP call: Sean McCann beat Bill Huizenga 50.1%-48.3% in MI-04 despite Fairshake's ,019,166, and Steil/Wagner/Nunn/Lawler also lost. Draft not started; still need an independent second site opened (AP, MLive or CNBC, not Bitcoin Magazine syndications) plus a photo source.",
+        "note": "Read the Bitcoin Magazine report of the Nov. 4 AP call: Sean McCann beat Bill Huizenga 50.1%-48.3% in MI-04 despite Fairshake spending of $1,019,166 per FEC filings, and Steil/Wagner/Nunn/Lawler also lost. Draft not started; still need an independent second site opened (AP, MLive or CNBC, not Bitcoin Magazine syndications) plus a photo source.",
         "sourceChecks": [
           {
             "url": "https://bitcoinmagazine.com/news/huizenga-loses-despite-fairshake",
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-06T01:42:16.616Z",
+        "updatedAt": "2026-11-06T01:42:28.636Z",
         "approved": false,
         "mustReview": true
       }
