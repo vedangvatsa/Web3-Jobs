@@ -1,0 +1,27 @@
+{
+  "target": "info@coincarp.com",
+  "channel": "inbound-reply",
+  "originalReceivedEmailId": "52c41f62-d75c-47c0-954b-94aad60d629c",
+  "originalMessageId": "<CABdDubED4tNcrpEp=yDir-qyB=5SCqHKHiVv-GeovzhgwUNT-g@mail.gmail.com>",
+  "originalSubject": "Re: Hashtag Web3: publisher onboarding and automatic news-feed distribution",
+  "originalFrom": "info@coincarp.com",
+  "status": "claimed",
+  "claimedAt": "2026-11-06T10:27:22.536Z",
+  "recipient": "info@coincarp.com",
+  "payload": {
+    "from": "Hashtag Web3 <hi@hashtagweb3.com>",
+    "reply_to": "hi@hashtagweb3.com",
+    "to": [
+      "info@coincarp.com"
+    ],
+    "subject": "Re: Hashtag Web3: publisher onboarding and automatic news-feed distribution",
+    "text": "Hello CoinCarp team,\n\nThank you for the context. To support the case-by-case review, here are the specific points you listed, stated for our side:\n\n- Attribution: we require attribution to Hashtag Web3 as publisher with a canonical link to the original article (no unattributed republication).\n- Canonical links: every feed item carries the canonical URL of the original story on hashtagweb3.com.\n- Feed specification: RSS 2.0 at https://hashtagweb3.com/news/feed.xml with headline, summary, original publication date, and canonical link.\n- Content rights: our native articles are ours to distribute; where a story embeds third-party material we follow licensing rules. We can provide image-rights information for our original images on request.\n- AI disclosure: our workflow uses AI-assisted research and drafting with source and publication checks; we can complete your AI-disclosure forms or statements as required.\n- Contractual terms: happy to review and sign your standard onboarding or syndication agreement on behalf of Hashtag Web3 (United States organization).\n\nScope note: our news listing also links to external publishers; those external stories are not supplied as our own content.\n\nPublication: https://hashtagweb3.com/news\nAbout: https://hashtagweb3.com/about\nExample native article: https://hashtagweb3.com/bitgetthai\n\nWe understand you cannot confirm acceptance from the support inbox - please route this review package to the appropriate team, and let us know if any additional form or file is needed from our side.\n\nThank you,\nHashtag Web3 - hi@hashtagweb3.com",
+    "html": "<p>Hello CoinCarp team,</p>\n\n<p>Thank you for the context. To support the case-by-case review, here are the specific points you listed, stated for our side:</p>\n\n<ul>\n<li><strong>Attribution:</strong> we require attribution to Hashtag Web3 as publisher with a canonical link to the original article (no unattributed republication).</li>\n<li><strong>Canonical links:</strong> every feed item carries the canonical URL of the original story on hashtagweb3.com.</li>\n<li><strong>Feed specification:</strong> RSS 2.0 at <a href=\"https://hashtagweb3.com/news/feed.xml\">https://hashtagweb3.com/news/feed.xml</a> with headline, summary, original publication date, and canonical link.</li>\n<li><strong>Content rights:</strong> our native articles are ours to distribute; where a story embeds third-party material we follow licensing rules. We can provide image-rights information for our original images on request.</li>\n<li><strong>AI disclosure:</strong> our workflow uses AI-assisted research and drafting with source and publication checks; we can complete your AI-disclosure forms or statements as required.</li>\n<li><strong>Contractual terms:</strong> happy to review and sign your standard onboarding or syndication agreement on behalf of Hashtag Web3 (United States organization).</li>\n</ul>\n\n<p>Scope note: our news listing also links to external publishers; those external stories are not supplied as our own content.</p>\n\n<p>Publication: <a href=\"https://hashtagweb3.com/news\">https://hashtagweb3.com/news</a> &middot; About: <a href=\"https://hashtagweb3.com/about\">https://hashtagweb3.com/about</a> &middot; Example native article: <a href=\"https://hashtagweb3.com/bitgetthai\">https://hashtagweb3.com/bitgetthai</a></p>\n\n<p>We understand you cannot confirm acceptance from the support inbox &mdash; please route this review package to the appropriate team, and let us know if any additional form or file is needed from our side.</p>\n\n<p>Thank you,<br>Hashtag Web3 &mdash; <a href=\"mailto:hi@hashtagweb3.com\">hi@hashtagweb3.com</a></p>",
+    "headers": {
+      "In-Reply-To": "<CABdDubED4tNcrpEp=yDir-qyB=5SCqHKHiVv-GeovzhgwUNT-g@mail.gmail.com>",
+      "References": "<CABdDubED4tNcrpEp=yDir-qyB=5SCqHKHiVv-GeovzhgwUNT-g@mail.gmail.com>"
+    }
+  },
+  "payloadSha256": "f0198f9551a506b093291d4670020a8e1fb807504ecc1ac174b174a12698f726",
+  "providerId": null
+}
