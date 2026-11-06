@@ -3278,5 +3278,36 @@
     "slotKey": "2026-11-05:evening",
     "messageId": 65806,
     "sentAt": "2026-11-05T19:48:16.685Z"
+  },
+  "98735530-abaa-4359-b6e3-41d30f2e16b0": {
+    "status": "reserved",
+    "reservedAt": "2026-11-06T03:34:01.913Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "LDK Update Prevents Tracking of Private Lightning Channels",
+        "summary": "A new software patch prevents attackers from linking private payment channels to specific on-chain transaction outputs.",
+        "link": "https://hashtagweb3.com/ldkprobe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "LDK Patch Blocks Probe Linking Private Channels to Their Funding Output"
+      },
+      {
+        "index": -1,
+        "headline": "Liquid Network restores full bitcoin backing after September exploit",
+        "summary": "The federation replaced 600 missing bitcoin while keeping direct peg-out transactions restricted for the time being.",
+        "link": "https://hashtagweb3.com/liquidbacking?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Liquid Network restores full bitcoin backing two months after exploit"
+      },
+      {
+        "index": -1,
+        "headline": "Moscow Exchange to Launch Crypto Trading on December 1",
+        "summary": "The exchange will offer bitcoin, ether, and USDT trading cleared through the National Clearing Center.",
+        "link": "https://hashtagweb3.com/moexcrypto?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Moscow Exchange Sets Dec. 1 for Bitcoin, Ether and USDT Trading"
+      }
+    ],
+    "slotKey": "2026-11-06:morning"
   }
 }
