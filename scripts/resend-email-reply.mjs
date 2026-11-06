@@ -113,7 +113,9 @@ const toAddress = matches[matches.length - 1];
 if (!toAddress) fail(`cannot resolve sender address of ${received.from}`);
 const messageId = received.message_id;
 if (!messageId) fail('received email has no message_id; cannot thread');
-const replySubject = subject.toLowerCase().startsWith('re:') ? subject : `Re: ${subject}`;
+// Caller supplies the exact desired reply subject — normally the thread's original
+// subject, which already carries Re:/返信 markers or a helpdesk prefix like [Readly].
+const replySubject = subject;
 
 const payload = {
   from: fromAddress,
@@ -186,14 +188,22 @@ console.log('resend-reply: sent', JSON.stringify({ id: sentData.id, to: toAddres
 
 const finalReceipt = { ...claimReceipt, status: 'sent', sentAt: new Date().toISOString(), providerId: sentData.id };
 for (let attempt = 0; ; attempt++) {
+  // Updating an existing file via the contents API REQUIRES the blob sha — refetch it
+  // every attempt in case another writer touched the file in between.
+  let fsha;
+  {
+    const g = await fetch(`${GITHUB}/contents/${path}?ref=main`, { headers, signal: AbortSignal.timeout(20_000) });
+    if (g.ok) fsha = (await g.json()).sha;
+  }
   const res = await fetch(`${GITHUB}/contents/${path}`, {
     method: 'PUT', headers, signal: AbortSignal.timeout(20_000),
     body: JSON.stringify({
       branch: 'main', message: `docs: record inbound reply ${sentData.id.slice(0, 8)} [skip ci]`,
       content: Buffer.from(JSON.stringify(finalReceipt, null, 2) + '\n').toString('base64'),
+      ...(fsha && { sha: fsha }),
     }),
   });
   if (res.ok) { console.log('resend-reply: receipt recorded'); break; }
-  if (res.status >= 500 && attempt < 3) { await new Promise((r) => setTimeout(r, 15_000)); continue; }
+  if ((res.status === 422 || res.status === 409 || res.status >= 500) && attempt < 4) { await new Promise((r) => setTimeout(r, 12_000)); continue; }
   fail(`final receipt write ${res.status} — reply ${sentData.id} IS delivered; record manually later; email was sent`);
 }
