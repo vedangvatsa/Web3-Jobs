@@ -111282,6 +111282,39 @@
       "attemptId": "a7c3d9a7-a1a3-428c-baec-b777f78b4f16",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Friday, 06-Nov-26 11:36:35 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A09skF0savdcaV6YgFKcdpF\"}"
+    },
+    {
+      "slug": "ops143",
+      "company": "BVNK",
+      "title": "Senior Business Operations & Strategy Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-11-06T19:36:19.839Z",
+      "expectedText": "BVNK is hiring Senior Business Operations & Strategy Manager: https://hashtagweb3.com/ops143/bsky?og=7",
+      "snapshot": {
+        "id": "5025273101",
+        "title": "Senior Business Operations & Strategy Manager",
+        "company": "BVNK",
+        "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5025273101",
+        "date": "2026-11-03T08:56:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BVNK [bvnk]",
+        "location": "London / NYC",
+        "department": "Operations",
+        "active": true,
+        "salary": "$165k – $210k/yr",
+        "dateVerified": true,
+        "slug": "ops143"
+      },
+      "payload": {
+        "text": "BVNK is hiring Senior Business Operations & Strategy Manager: https://hashtagweb3.com/ops143/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/ops143/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/ops143.png?v=7",
+        "company": "BVNK",
+        "title": "Senior Business Operations & Strategy Manager",
+        "description": "Join BVNK as Senior Business Operations & Strat. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "b2786ce6-e774-4a9e-a5dd-a2ef7c44daf3",
+      "verification": "creating"
     }
   ]
 }
