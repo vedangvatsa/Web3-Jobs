@@ -27,7 +27,7 @@ A complete breakdown 🧵👇`,
 - Hands-on Foundry exploit tests
 
 https://www.damnvulnerabledefi.xyz`,
-    imageUrl: 'https://iili.io/nt3YLOl.png',
+    imageUrl: 'https://iili.io/ntnC0rb.png',
   },
   {
     text: `3/ OpenZeppelin: Ethernaut
@@ -38,7 +38,7 @@ https://www.damnvulnerabledefi.xyz`,
 - 30+ hands-on hacking levels
 
 https://ethernaut.openzeppelin.com`,
-    imageUrl: 'https://iili.io/nt3a3bV.png',
+    imageUrl: 'https://iili.io/ntnCv3J.png',
   },
   {
     text: `4/ Cyfrin Updraft: Smart Contract Security
@@ -49,7 +49,7 @@ https://ethernaut.openzeppelin.com`,
 - Full self-paced video course by Patrick Collins
 
 https://updraft.cyfrin.io/courses/security`,
-    imageUrl: 'https://iili.io/nt3azdJ.png',
+    imageUrl: 'https://iili.io/ntnCL4s.png',
   },
   {
     text: `5/ Secureum: Security Pitfalls & RACE Quizzes
@@ -60,7 +60,7 @@ https://updraft.cyfrin.io/courses/security`,
 - Essential study material for junior auditors
 
 https://secureum.substack.com`,
-    imageUrl: 'https://iili.io/nt3amIp.png',
+    imageUrl: 'https://iili.io/ntnnKaj.png',
   },
   {
     text: `6/ Solodit: Web3 Vulnerability Search
@@ -71,7 +71,7 @@ https://secureum.substack.com`,
 - Reference index for writing audit reports
 
 https://solodit.cyfrin.io`,
-    imageUrl: 'https://iili.io/nt3cI4e.png',
+    imageUrl: 'https://iili.io/ntnnoZP.png',
   },
   {
     text: `7/ RareSkills: Smart Contract Security Guide
@@ -82,7 +82,7 @@ https://solodit.cyfrin.io`,
 - Precision loss and rounding exploits
 
 https://www.rareskills.io/post/smart-contract-security`,
-    imageUrl: 'https://iili.io/nt3cVaa.png',
+    imageUrl: 'https://iili.io/ntnnVFs.png',
   },
   {
     text: `8/ SunWeb3Sec: DeFiHackLabs
@@ -93,7 +93,7 @@ https://www.rareskills.io/post/smart-contract-security`,
 - Practical lab to study real-world exploits
 
 https://github.com/SunWeb3Sec/DeFiHackLabs`,
-    imageUrl: 'https://iili.io/nt3cLnS.png',
+    imageUrl: 'https://iili.io/ntnn6Hx.png',
   },
   {
     text: `9/ Trail of Bits: Building Secure Contracts
@@ -104,7 +104,7 @@ https://github.com/SunWeb3Sec/DeFiHackLabs`,
 - Invariant testing best practices
 
 https://github.com/crytic/building-secure-contracts`,
-    imageUrl: 'https://iili.io/nt3l9Ax.png',
+    imageUrl: 'https://iili.io/ntno3xI.png',
   },
   {
     text: `10/ QuillAudits: QuillCTF
@@ -115,7 +115,7 @@ https://github.com/crytic/building-secure-contracts`,
 - Complete Foundry solutions and writeups
 
 https://quillctf.super.site`,
-    imageUrl: 'https://iili.io/nt3lAPt.png',
+    imageUrl: 'https://iili.io/ntnoRs9.png',
   },
   {
     text: `11/ Paradigm CTF Archives
@@ -126,7 +126,7 @@ https://quillctf.super.site`,
 - Source code and official solution writeups
 
 https://github.com/paradigmxyz/paradigm-ctf-2023`,
-    imageUrl: 'https://iili.io/nt30Kzl.png',
+    imageUrl: 'https://iili.io/ntnoWs1.png',
   },
   {
     text: `12/ Recommended roadmap:
