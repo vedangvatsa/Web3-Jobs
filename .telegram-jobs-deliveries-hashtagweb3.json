@@ -8100,7 +8100,7 @@
     "sentAt": "2026-11-06T11:32:45.863Z"
   },
   "3073cde0-7ad1-4737-991f-a5571e38512d": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-06T19:32:19.852Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -8213,6 +8213,8 @@
       }
     ],
     "message": "- Block is hiring <a href=\"https://hashtagweb3.com/sls414?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Territory Account Executive, East Bronx</a>\n- 0x is hiring <a href=\"https://hashtagweb3.com/des7?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Brand Designer</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/do23?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior DevOps Engineer</a>\n- Gauntlet is hiring <a href=\"https://hashtagweb3.com/ops103?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Trading Operations Lead</a>\n- CKBA is hiring <a href=\"https://hashtagweb3.com/pct?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Payment Channel Team Lead</a>",
-    "slotKey": "2026-11-06:evening"
+    "slotKey": "2026-11-06:evening",
+    "messageId": 156113,
+    "sentAt": "2026-11-06T19:32:35.204Z"
   }
 }
