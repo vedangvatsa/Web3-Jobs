@@ -109268,7 +109268,8 @@
       },
       "account": "channel:ai",
       "attemptId": "b8279168-43cc-49fa-8f85-f1950439b1e7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2f54fd4a7973ce4c3deb79adc5deca9972012625"
     }
   ]
 }
