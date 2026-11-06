@@ -41,6 +41,7 @@ export const SOCIAL_UTM_MAP = {
 export const SOCIAL_PATH_SUFFIXES = new Set(Object.keys(SOCIAL_UTM_MAP));
 
 export const PUBLIC_PAGE_ALIASES = {
+  '/about': '/community',
   '/docs': '/developers',
   '/api-docs': '/developers',
   '/auth': '/developers',
