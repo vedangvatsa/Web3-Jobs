@@ -3311,5 +3311,36 @@
     "slotKey": "2026-11-06:morning",
     "messageId": 65807,
     "sentAt": "2026-11-06T03:34:10.377Z"
+  },
+  "7a40447b-7fbe-43e3-b65d-bb7e3d0cb653": {
+    "status": "reserved",
+    "reservedAt": "2026-11-06T11:33:15.587Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "CFTC approves stock perpetual futures despite industry lawsuit",
+        "summary": "A court denied an industry group's emergency request to block trading of the newly approved contracts.",
+        "link": "https://hashtagweb3.com/equityperps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC clears stock perpetual futures as an industry group sues to stop them"
+      },
+      {
+        "index": -1,
+        "headline": "Y Combinator Calls for AI and Agent Crypto Startups",
+        "summary": "The accelerator seeks projects targeting AI fundraising, stablecoins, tokenized assets, and trading infrastructure for software agents.",
+        "link": "https://hashtagweb3.com/yccrypto?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Y Combinator's October crypto request puts AI fundraising and agent tools at the center"
+      },
+      {
+        "index": -1,
+        "headline": "CME Delays Perpetual Futures Listings Pending Legal Resolution",
+        "summary": "Terry Duffy stated perpetual funding rates are swaps, delaying CME's decision on listing them until CFTC litigation concludes.",
+        "link": "https://hashtagweb3.com/duffyperps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CME's Duffy calls perp funding a swap as CFTC lawsuit heads to full briefing"
+      }
+    ],
+    "slotKey": "2026-11-06:afternoon"
   }
 }
