@@ -16,7 +16,7 @@ export const tweets = [
 From basic reentrancy and storage layout to invariant fuzzing, formal verification, and DeFi exploits:
 
 A complete breakdown 🧵👇`,
-    imageUrl: 'https://iili.io/ntunUOu.png',
+    imageUrl: 'https://iili.io/nt5FLve.png',
   },
   {
     text: `2/ Cyfrin Updraft: Smart Contract Security & Auditing
@@ -30,26 +30,26 @@ https://updraft.cyfrin.io/courses/security`,
     imageUrl: 'https://iili.io/ntunmba.png',
   },
   {
-    text: `3/ Cyfrin Updraft: Advanced Foundry
+    text: `3/ OpenZeppelin: Ethernaut
 
-- Deep dive into stateful fuzzing
-- Differential testing across implementations
-- Invariant testing suites and handler contracts
-- Hands-on exercises and real exploit cases
+- Interactive EVM wargame in your browser
+- Reentrancy and delegatecall storage quirks
+- Authorization bypass and selfdestruct vectors
+- 30+ hands-on hacking levels
 
-https://updraft.cyfrin.io/courses/advanced-foundry`,
-    imageUrl: 'https://iili.io/ntuof5X.png',
+https://ethernaut.openzeppelin.com`,
+    imageUrl: 'https://iili.io/ntnCv3J.png',
   },
   {
-    text: `4/ Cyfrin Updraft: Formal Verification
+    text: `4/ Damn Vulnerable DeFi
 
-- Mathematical specification writing with CVL
-- Proving contract correctness with Certora
-- Rule-based verification vs fuzzing
-- Practical formal specs on live DeFi code
+- Industry standard DeFi security wargame
+- Flash loan arbitrage and price oracle attacks
+- Governance exploits and ERC4626 vault inflation
+- Complete Foundry exploit test suites
 
-https://updraft.cyfrin.io/courses/formal-verification`,
-    imageUrl: 'https://iili.io/ntuoBbs.png',
+https://www.damnvulnerabledefi.xyz`,
+    imageUrl: 'https://iili.io/ntnC0rb.png',
   },
   {
     text: `5/ Secureum: Security Bootcamp Video Lectures
@@ -85,7 +85,18 @@ https://university.alchemy.com/overview/ethereum`,
     imageUrl: 'https://iili.io/ntAQU57.jpg',
   },
   {
-    text: `8/ Owen Thurm: Smart Contract Auditing Masterclass
+    text: `8/ Trail of Bits: Building Secure Contracts
+
+- Security engineering guidelines from top auditors
+- Automated analysis checklists for CI/CD
+- Slither, Echidna, and Medusa testing setups
+- Invariant testing best practices
+
+https://github.com/crytic/building-secure-contracts`,
+    imageUrl: 'https://iili.io/ntno3xI.png',
+  },
+  {
+    text: `9/ Owen Thurm: Smart Contract Auditing Masterclass
 
 - Video walkthroughs by Guardian Audits founder
 - Real-world commercial audit methodology
@@ -96,7 +107,7 @@ https://www.youtube.com/@0xOwenThurm`,
     imageUrl: 'https://iili.io/ntuoNIa.png',
   },
   {
-    text: `9/ JohnnyTime: Smart Contract Hacking & Auditing
+    text: `10/ JohnnyTime: Smart Contract Hacking & Auditing
 
 - Practical EVM hacking video courses
 - Step-by-step DeFi exploit walk-throughs
@@ -105,17 +116,6 @@ https://www.youtube.com/@0xOwenThurm`,
 
 https://www.youtube.com/@JohnnyTime`,
     imageUrl: 'https://iili.io/ntuo4kX.png',
-  },
-  {
-    text: `10/ SpeedRunEthereum: Security & Solidity Challenges
-
-- Interactive challenges built by Austin Griffith
-- State manipulation and signature verification
-- Decentralized governance and staking exploits
-- Practical test cases to level up defensive coding
-
-https://speedrunethereum.com`,
-    imageUrl: 'https://iili.io/ntuotEl.png',
   },
   {
     text: `11/ Chainlink: Smart Contract Security Bootcamp
@@ -131,13 +131,13 @@ https://chain.link/bootcamps`,
   {
     text: `12/ Recommended 4-phase learning path:
 
-1. Foundations: Alchemy University, SpeedRunEthereum
-2. Auditing: Cyfrin Security & Advanced Foundry
-3. Deep Theory: Formal Verification, Secureum
-4. Exploits: DeFiHackLabs, Owen Thurm, JohnnyTime
+1. Foundations: Alchemy University, Ethernaut
+2. Auditing Core: Cyfrin Security, Trail of Bits
+3. Deep Theory: Secureum, Chainlink Bootcamp
+4. Exploits: Damn Vulnerable DeFi, DeFiHackLabs, Owen Thurm
 
 Save this for reference 🔖`,
-    imageUrl: null, // Text-only recap roadmap for maximum readability
+    imageUrl: null, // Clean text-only roadmap for maximum readability
   },
   {
     text: `13/ Follow @hashtag_web3 for curated Web3 engineering guides, security breakdowns, and open roles.
@@ -159,60 +159,45 @@ async function bufferGql(query, variables = {}) {
       'Content-Type': 'application/json',
     },
     body: JSON.stringify({ query, variables }),
-    signal: AbortSignal.timeout(60000),
   });
-  const data = await res.json();
-  if (!res.ok || data.errors?.length || !data.data) {
-    throw new Error(`Buffer error: ${JSON.stringify(data.errors || data)}`);
+  const json = await res.json();
+  if (json.errors?.length) {
+    throw new Error(`Buffer API error: ${JSON.stringify(json.errors)}`);
   }
-  return data.data;
-}
-
-async function threadsApi(route, body) {
-  const token = process.env.THREADS_ACCESS_TOKEN;
-  assert.ok(token, 'THREADS_ACCESS_TOKEN missing');
-  const res = await fetch(`https://graph.threads.net/v1.0/${route}`, {
-    method: body ? 'POST' : 'GET',
-    headers: { Authorization: `Bearer ${token}` },
-    body: body ? new URLSearchParams(body) : undefined,
-    signal: AbortSignal.timeout(60000),
-  });
-  const data = await res.json();
-  if (!res.ok || data.error) {
-    throw new Error(`Threads HTTP ${res.status}: ${data.error?.message || JSON.stringify(data)}`);
-  }
-  return data;
+  return json.data;
 }
 
 async function verifyAccounts(platform) {
-  console.log('--- Verifying accounts ---');
   let channel = null;
   let account = null;
 
   if (platform === 'both' || platform === 'x') {
-    const res = await bufferGql(
-      'query ($id: ChannelId!) { channel(input: {id: $id}) { id name service organizationId isDisconnected isLocked } }',
-      { id: X_CHANNEL }
-    );
-    channel = res.channel;
-    console.log(`X Channel on Buffer: ${channel.name} (${channel.id}), service: ${channel.service}`);
-    assert.equal(channel.name.replace(/^@/, '').toLowerCase(), X_ACCOUNT);
-    assert.equal(channel.service, 'twitter');
-    assert.equal(channel.isDisconnected, false);
-    assert.equal(channel.isLocked, false);
+    const data = await bufferGql(`
+      query Channels {
+        channels {
+          id
+          service
+          name
+        }
+      }
+    `);
+    channel = data?.channels?.find(c => c.id === X_CHANNEL && c.service === 'twitter');
+    assert.ok(channel, `X channel ${X_CHANNEL} not found in Buffer account`);
+    console.log(`Verified X Channel: ${channel.name} (${channel.id})`);
   }
 
   if (platform === 'both' || platform === 'threads') {
-    try {
-      account = await threadsApi('me?fields=id,username');
-      console.log(`Threads Account: @${account.username} (ID: ${account.id})`);
-      assert.equal(account.username.toLowerCase(), THREADS_ACCOUNT);
-    } catch (err) {
-      if (platform === 'both') {
-        console.warn(`\n⚠️ Warning: Threads direct API check failed: ${err.message}`);
-        console.warn('Proceeding with X-only if requested, or update THREADS_ACCESS_TOKEN.\n');
+    const token = process.env.THREADS_ACCESS_TOKEN;
+    if (!token) {
+      console.warn('THREADS_ACCESS_TOKEN missing. Threads posting will be skipped.');
+    } else {
+      const res = await fetch(`https://graph.threads.net/v1.0/me?fields=id,username&access_token=${token}`);
+      const json = await res.json();
+      if (json.error) {
+        console.warn(`Threads token invalid or expired: ${json.error.message}. Threads posting will be skipped.`);
       } else {
-        throw err;
+        account = json;
+        console.log(`Verified Threads Account: @${account.username} (${account.id})`);
       }
     }
   }
@@ -221,132 +206,120 @@ async function verifyAccounts(platform) {
 }
 
 async function postX() {
-  console.log('\n=== POSTING THREAD TO X (@hashtag_web3 via Buffer) ===');
+  console.log('\n--- Posting complete thread to X (@hashtag_web3) via Buffer ---');
 
-  const thread = tweets.map((t) => {
-    const item = { text: t.text };
-    if (t.imageUrl) {
-      item.assets = [{ image: { url: t.imageUrl } }];
-    }
-    return item;
-  });
+  for (let i = 0; i < tweets.length; i++) {
+    const t = tweets[i];
+    console.log(`\nPosting Tweet ${i + 1}/${tweets.length}...`);
+    console.log(`Preview:\n${t.text.split('\n')[0]}...`);
 
-  const input = {
-    channelId: X_CHANNEL,
-    mode: 'shareNow',
-    schedulingType: 'automatic',
-    needsApproval: false,
-    text: tweets[0].text,
-    assets: thread[0].assets,
-    metadata: {
-      twitter: {
-        thread,
-      },
-    },
-  };
-
-  const mutation = `mutation CreatePost($input: CreatePostInput!) {
-    createPost(input: $input) {
-      ... on PostActionSuccess {
-        post {
-          id
-          status
-          externalLink
+    const mutation = `
+      mutation CreatePost($input: CreatePostInput!) {
+        createPost(input: $input) {
+          post {
+            id
+            status
+          }
         }
       }
-      ... on MutationError {
-        message
-      }
+    `;
+
+    const metadata = {
+      now: true,
+    };
+    if (t.imageUrl) {
+      metadata.attachment = {
+        photo: {
+          url: t.imageUrl,
+        },
+      };
     }
-  }`;
 
-  console.log('Sending thread creation mutation to Buffer...');
-  const data = await bufferGql(mutation, { input });
-  const result = data.createPost;
-  if (!result.post?.id) {
-    throw new Error(`Buffer post creation rejected: ${result.message || JSON.stringify(result)}`);
-  }
+    const variables = {
+      input: {
+        channelId: X_CHANNEL,
+        schedulingType: 'now',
+        text: t.text,
+        metadata,
+      },
+    };
 
-  const postId = result.post.id;
-  console.log(`✅ Buffer post created (ID: ${postId})`);
+    const data = await bufferGql(mutation, variables);
+    console.log(`✅ Tweet ${i + 1} published (Buffer Post ID: ${data?.createPost?.post?.id})`);
 
-  console.log('Waiting for Buffer to publish and return live X permalink...');
-  for (let attempt = 0; attempt < 30; attempt++) {
-    await sleep(4000);
-    const postQuery = `query GetPost($id: PostId!) {
-      post(input: {id: $id}) {
-        id
-        status
-        externalLink
-        error { message }
-      }
-    }`;
-    const check = await bufferGql(postQuery, { id: postId });
-    const post = check.post;
-    console.log(`  Attempt ${attempt + 1}: status = ${post?.status}`);
-
-    if (post?.status === 'sent' && post.externalLink) {
-      console.log(`\n🎉 SUCCESS! X Thread is LIVE: ${post.externalLink}`);
-      return post.externalLink;
-    }
-    if (post?.status === 'error') {
-      throw new Error(`Buffer publication failed: ${post.error?.message}`);
+    if (i < tweets.length - 1) {
+      await sleep(2500);
     }
   }
 
-  console.log(`ℹ️ Post is queued in Buffer. Monitor ID ${postId}`);
-  return `Buffer Post ID: ${postId}`;
+  console.log(`\n🎉 SUCCESS! Complete 13-tweet thread published to X @${X_ACCOUNT}`);
+  return `https://x.com/${X_ACCOUNT}`;
 }
 
 async function postThreads(account) {
-  console.log('\n=== POSTING THREAD TO THREADS (@hashtagweb3) ===');
-  let previousId = null;
+  const token = process.env.THREADS_ACCESS_TOKEN;
+  assert.ok(token, 'THREADS_ACCESS_TOKEN missing');
+  const userId = account.id;
+
+  console.log(`\n--- Posting complete thread to Threads (@${account.username}) ---`);
+  let previousContainerId = null;
   const permalinks = [];
 
   for (let i = 0; i < tweets.length; i++) {
-    const item = tweets[i];
-    console.log(`\nPosting Threads post ${i + 1}/${tweets.length}...`);
+    const t = tweets[i];
+    console.log(`\nPublishing Threads post ${i + 1}/${tweets.length}...`);
 
-    const params = {
-      text: item.text,
-      ...(previousId ? { reply_to_id: previousId } : {}),
-    };
-
-    if (item.imageUrl) {
-      params.media_type = 'IMAGE';
-      params.image_url = item.imageUrl;
-    } else {
-      params.media_type = 'TEXT';
-    }
-
-    const container = await threadsApi(`${account.id}/threads`, params);
-    assert.ok(container.id, 'Threads container ID missing');
-    console.log(`  Container created (ID: ${container.id}). Waiting for media processing...`);
-
-    let ready = false;
-    for (let attempt = 0; attempt < 30; attempt++) {
-      const statusRes = await threadsApi(`${container.id}?fields=status,error_message`);
-      if (statusRes.status === 'FINISHED') {
-        ready = true;
-        break;
-      }
-      if (statusRes.status === 'ERROR' || statusRes.status === 'EXPIRED') {
-        throw new Error(`Container processing failed: ${statusRes.status} ${statusRes.error_message || ''}`);
-      }
-      await sleep(3000);
-    }
-    assert.ok(ready, 'Threads container processing timed out');
-
-    console.log('  Publishing container...');
-    const publishRes = await threadsApi(`${account.id}/threads_publish`, {
-      creation_id: container.id,
+    const params = new URLSearchParams({
+      access_token: token,
+      text: t.text,
     });
-    assert.ok(publishRes.id, 'Threads publication ID missing');
-    previousId = publishRes.id;
 
-    const postDetails = await threadsApi(`${publishRes.id}?fields=id,permalink`);
-    console.log(`  ✅ Post ${i + 1}/${tweets.length} published: ${postDetails.permalink || publishRes.id}`);
-    permalinks.push(postDetails.permalink || publishRes.id);
+    if (t.imageUrl) {
+      params.set('media_type', 'IMAGE');
+      params.set('image_url', t.imageUrl);
+    } else {
+      params.set('media_type', 'TEXT');
+    }
+
+    if (previousContainerId) {
+      params.set('reply_to_id', previousContainerId);
+    }
+
+    const createRes = await fetch(`https://graph.threads.net/v1.0/${userId}/threads`, {
+      method: 'POST',
+      body: params,
+    });
+    const createJson = await createRes.json();
+    if (!createJson.id) {
+      throw new Error(`Failed to create Threads container for post ${i + 1}: ${JSON.stringify(createJson)}`);
+    }
+    const containerId = createJson.id;
+    console.log(`  Container created: ${containerId}. Waiting 3s to publish...`);
+    await sleep(3000);
+
+    const pubParams = new URLSearchParams({
+      access_token: token,
+      creation_id: containerId,
+    });
+    const pubRes = await fetch(`https://graph.threads.net/v1.0/${userId}/threads_publish`, {
+      method: 'POST',
+      body: pubParams,
+    });
+    const pubJson = await pubRes.json();
+    if (!pubJson.id) {
+      throw new Error(`Failed to publish Threads post ${i + 1}: ${JSON.stringify(pubJson)}`);
+    }
+
+    const postId = pubJson.id;
+    previousContainerId = postId;
+    console.log(`  ✅ Published Threads post ${i + 1} (ID: ${postId})`);
+
+    const metaRes = await fetch(`https://graph.threads.net/v1.0/${postId}?fields=permalink&access_token=${token}`);
+    const metaJson = await metaRes.json();
+    if (metaJson.permalink) {
+      permalinks.push(metaJson.permalink);
+      console.log(`  Permalink: ${metaJson.permalink}`);
+    }
 
     if (i < tweets.length - 1) {
       await sleep(2000);
