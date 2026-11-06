@@ -4798,5 +4798,51 @@
     "slotKey": "2026-11-06:morning",
     "messageId": 156102,
     "sentAt": "2026-11-06T03:32:21.216Z"
+  },
+  "4b9450ae-4dbc-4539-873f-28f667c6a983": {
+    "status": "reserved",
+    "reservedAt": "2026-11-06T11:32:16.579Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-0Sn4QB5KWkR4LeX",
+        "slug": "solana-fitkzh",
+        "name": "Solana Fitness Zone: Group Reiki Experience | Breakpoint 2026",
+        "startDate": "2026-11-16T11:00:00.000Z",
+        "keys": [
+          "luma-crypto-0sn4qb5kwkr4lex",
+          "page:solana-fitkzh:2026-11-16",
+          "luma-url:/kzh1qgwg",
+          "event:solanafitnesszonegroupreikiexperiencebreakpoint2026:2026-11-16:london"
+        ]
+      },
+      {
+        "id": "luma-crypto-ye20BagHxEHh8CO",
+        "slug": "solana-fitsfz",
+        "name": "Solana Fitness Zone: Content Freestyle | Breakpoint 2026",
+        "startDate": "2026-11-16T12:00:00.000Z",
+        "keys": [
+          "luma-crypto-ye20baghxehh8co",
+          "page:solana-fitsfz:2026-11-16",
+          "luma-url:/sfzfreestyle2",
+          "event:solanafitnesszonecontentfreestylebreakpoint2026:2026-11-16:london"
+        ]
+      },
+      {
+        "id": "luma-crypto-4aQg4F5ApsIZFHS",
+        "slug": "que-aporta-una-blockchain-regulada-encuentro-139-superpioneros",
+        "name": "¿Qué aporta una Blockchain regulada? - Encuentro #139 SuperPioneros",
+        "startDate": "2026-11-16T16:30:00.000Z",
+        "keys": [
+          "luma-crypto-4aqg4f5apsizfhs",
+          "9na7snow",
+          "page:que-aporta-una-blockchain-regulada-encuentro-139-superpioneros:2026-11-16",
+          "luma-url:/9na7snow",
+          "event:quéaportaunablockchainreguladaencuentro139superpioneros:2026-11-16:madrid"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-06:afternoon"
   }
 }
