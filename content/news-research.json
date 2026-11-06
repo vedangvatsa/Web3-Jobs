@@ -132080,11 +132080,39 @@
       ],
       "alsoCoveredBy": [],
       "id": "32284406f9f1d13a7a88",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T17:40:49.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "duplicate",
+      "note": "Same Nov. 3 CFTC equity-perps clearance and Capital Markets Alliance suit already covered by the ready equityperps article; re-read the CFTC release, Cointelegraph, Decrypt, Cboe statement and The TRADE, which match that draft's facts.",
+      "sourceChecks": [
+        {
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9319-26",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures",
+          "outcome": "read"
+        },
+        {
+          "url": "https://ir.cboe.com/news/news-details/2026/Cboe-Joins-Capital-Markets-Alliance-Challenge-to-CFTC-Approval-of-Single-Stock-Perpetual-Derivatives/default.aspx",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.thetradenews.com/cboe-and-citadel-securities-backed-industry-body-contests-cftc-green-light-for-single-stock-perpetual-derivatives/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-06T00:40:01.080Z",
+      "duplicateOf": "equityperps",
+      "mergedInto": "447f7cccc91b207972c7",
+      "lastReviewedDay": "2026-11-06"
     },
     "b136add771d76740631a": {
       "source": "Bitcoin Magazine",
@@ -262644,6 +262672,36 @@
           "retrySearches": [
             "Find readable reporting on the Injective staked ETF listing of Nov. 5 2026 and any second independent source covering it"
           ]
+        },
+        "32284406f9f1d13a7a88": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Nov. 3 CFTC equity-perps clearance and Capital Markets Alliance suit already covered by the ready equityperps article; re-read the CFTC release, Cointelegraph, Decrypt, Cboe statement and The TRADE, which match that draft's facts.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/9319-26",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures",
+              "outcome": "read"
+            },
+            {
+              "url": "https://ir.cboe.com/news/news-details/2026/Cboe-Joins-Capital-Markets-Alliance-Challenge-to-CFTC-Approval-of-Single-Stock-Perpetual-Derivatives/default.aspx",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.thetradenews.com/cboe-and-citadel-securities-backed-industry-body-contests-cftc-green-light-for-single-stock-perpetual-derivatives/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-06T00:40:01.080Z",
+          "duplicateOf": "equityperps",
+          "mergedInto": "447f7cccc91b207972c7"
         }
       },
       "baselineSlugs": [
