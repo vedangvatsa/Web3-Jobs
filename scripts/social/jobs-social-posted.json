@@ -109560,7 +109560,8 @@
       "account": "hashtag_web3",
       "attemptId": "b9ab9087-c336-49ae-b205-bf0fe59b753e",
       "verification": "pending",
-      "postId": "6aedbbc470ee7e2aa7017c08"
+      "postId": "6aedbbc470ee7e2aa7017c08",
+      "error": "Buffer X post 6aedbbc470ee7e2aa7017c08 is not yet confirmed sent; keeping its receipt pending"
     }
   ]
 }
