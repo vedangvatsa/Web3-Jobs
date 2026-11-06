@@ -133288,7 +133288,23 @@
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
       "attempts": 0,
       "expiresAt": "2026-11-06T10:49:26.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "articleSlug": "francebudget",
+      "draftProgress": {
+        "id": "79f348401c564d42edd2",
+        "day": "2026-11-06",
+        "articleSlug": "francebudget",
+        "note": "Read the Cointelegraph report on the second postponement of the revenue-section vote and the two exit-tax rejections; still need a second independent outlet opened and the Assembly voting records before drafting.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/france-postpones-2027-budget-vote-reject-crypto-exit-tax",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-06T01:33:50.901Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "9ebac6fe180baba39a23": {
       "source": "Decrypt",
