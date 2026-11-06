@@ -109653,7 +109653,8 @@
       },
       "account": "profile",
       "attemptId": "a3dd581a-46e4-4be0-a5f9-607f447c2811",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x02d793c044779f6d8ace7186323d12de175a2095"
     }
   ]
 }
