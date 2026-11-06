@@ -109590,6 +109590,37 @@
       "attemptId": "00d2a291-4e06-41b1-a31f-9aaac3b79e40",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Friday, 06-Nov-26 03:37:20 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AZsk8oljwppPxPqpO7ShKaE\"}"
+    },
+    {
+      "slug": "dpc",
+      "company": "Riot Platforms",
+      "title": "Director, Project Controls",
+      "platform": "bluesky",
+      "postedAt": "2026-11-06T11:36:33.727Z",
+      "expectedText": "Riot Platforms is hiring Director, Project Controls: https://hashtagweb3.com/dpc/bsky?og=7",
+      "snapshot": {
+        "id": "3c30cca2-5612-4ed0-9af3-02765577733c",
+        "title": "Director, Project Controls",
+        "company": "Riot Platforms",
+        "link": "https://ats.rippling.com/riot-platforms-careers/jobs/3c30cca2-5612-4ed0-9af3-02765577733c",
+        "date": "2026-10-12T16:46:38.185000-07:00",
+        "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+        "location": "Remote",
+        "department": "Executive Management",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dpc"
+      },
+      "payload": {
+        "text": "Riot Platforms is hiring Director, Project Controls: https://hashtagweb3.com/dpc/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/dpc/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/dpc.png?v=7",
+        "company": "Riot Platforms",
+        "title": "Director, Project Controls",
+        "description": "Join Riot Platforms as Director, Project Controls. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "779c7133-51c0-4529-91a9-4c58c2167076",
+      "verification": "creating"
     }
   ]
 }
