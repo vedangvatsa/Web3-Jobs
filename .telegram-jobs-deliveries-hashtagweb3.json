@@ -7862,7 +7862,7 @@
     "sentAt": "2026-11-05T19:46:34.796Z"
   },
   "501aa5b8-ecf6-4e4d-b55a-8e860f32cd75": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-06T03:32:53.928Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -7977,6 +7977,8 @@
       }
     ],
     "message": "- Mesh is hiring <a href=\"https://hashtagweb3.com/mgr199?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, FinOps, RevOps &amp; Finance Systems</a>\n- Notabene is hiring <a href=\"https://hashtagweb3.com/be92?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Backend Software Engineer</a>\n- DriveWealth is hiring <a href=\"https://hashtagweb3.com/sec116?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Security &amp; Threat Operations Manager</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/pm362?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Product Designer - AI Products</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/sec70?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VP, Senior Blockchain Security Engineer</a>",
-    "slotKey": "2026-11-06:morning"
+    "slotKey": "2026-11-06:morning",
+    "messageId": 156103,
+    "sentAt": "2026-11-06T03:33:07.149Z"
   }
 }
