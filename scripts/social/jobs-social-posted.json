@@ -110322,6 +110322,33 @@
       "attemptId": "db21d2e4-1bd1-43bd-9ce2-6e481fd627d8",
       "verification": "verified",
       "postId": "urn:li:share:7524435447075389440"
+    },
+    {
+      "slug": "dpc",
+      "company": "Riot Platforms",
+      "title": "Director, Project Controls",
+      "platform": "facebook",
+      "postedAt": "2026-11-06T11:36:33.727Z",
+      "expectedText": "Riot Platforms is hiring Director, Project Controls: https://hashtagweb3.com/dpc/fb?og=7",
+      "snapshot": {
+        "id": "3c30cca2-5612-4ed0-9af3-02765577733c",
+        "title": "Director, Project Controls",
+        "company": "Riot Platforms",
+        "link": "https://ats.rippling.com/riot-platforms-careers/jobs/3c30cca2-5612-4ed0-9af3-02765577733c",
+        "date": "2026-10-12T16:46:38.185000-07:00",
+        "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+        "location": "Remote",
+        "department": "Executive Management",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dpc"
+      },
+      "payload": {
+        "message": "Riot Platforms is hiring Director, Project Controls: https://hashtagweb3.com/dpc/fb?og=7",
+        "link": "https://hashtagweb3.com/dpc/fb?og=7"
+      },
+      "attemptId": "71470b2f-7a0e-4cf5-960a-26eefb487733",
+      "verification": "creating"
     }
   ]
 }
