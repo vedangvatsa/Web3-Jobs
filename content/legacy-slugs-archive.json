@@ -153747,5 +153747,65 @@
     "link": "https://ripple.com/careers/all-jobs/job/8247091?gh_jid=8247091",
     "company": "Ripple",
     "title": "Senior Professional Services Consultant"
+  },
+  "mgr156": {
+    "id": "8234703",
+    "link": "https://stripe.com/jobs/search?gh_jid=8234703",
+    "title": "Partner Development Manager",
+    "company": "Stripe"
+  },
+  "cmp126": {
+    "id": "96103912",
+    "link": "https://jobs.ashbyhq.com/fin/ba7e5976-ee3f-4567-8113-da2d44d9d736",
+    "title": "Compliance Operations Analyst",
+    "company": "Fin"
+  },
+  "fco": {
+    "id": "0b52a1d1-2308-404c-92f3-9981e2a06276",
+    "link": "https://jobs.ashbyhq.com/bitvavo/0b52a1d1-2308-404c-92f3-9981e2a06276",
+    "title": "Financial Crime Officer",
+    "company": "Bitvavo"
+  },
+  "cmp95": {
+    "id": "8015481003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8015481003",
+    "title": "Regulatory Compliance Officer (CMS Program)",
+    "company": "OKX"
+  },
+  "eng430": {
+    "id": "8207357",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8207357",
+    "title": "Unified Platform - Business Experience - Software Engineer",
+    "company": "DRW"
+  },
+  "sls228": {
+    "id": "8241345",
+    "link": "https://stripe.com/jobs/search?gh_jid=8241345",
+    "title": "Account Executive, Velocity Scaled Grower (Italian or Spanish fluency)",
+    "company": "Stripe"
+  },
+  "frcm2": {
+    "id": "8260867",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8260867",
+    "title": "Fundamental Researcher - Compute Markets",
+    "company": "DRW"
+  },
+  "odrs": {
+    "id": "8816159002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8816159002?gh_jid=8816159002",
+    "title": "OTC Derivatives Reporting Specialist",
+    "company": "Jane Street"
+  },
+  "eng423": {
+    "id": "0279e748-a186-4254-bf9b-349edcc850b8",
+    "link": "https://jobs.lever.co/immutable/0279e748-a186-4254-bf9b-349edcc850b8",
+    "title": "Software Engineer",
+    "company": "Immutable"
+  },
+  "arc19": {
+    "id": "8225567",
+    "link": "https://stripe.com/jobs/search?gh_jid=8225567",
+    "title": "Specialist Solutions Architect, Fraud & Risk (Asia-Pacific)",
+    "company": "Stripe"
   }
 }

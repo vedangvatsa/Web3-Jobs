@@ -72,6 +72,7 @@ function sanitizeCompanyDomain(url: URL): string {
  */
 export const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
   '1inch': 'https://1inch.com',
+  'ckba': 'https://www.ckba.build',
   '1inch-network': 'https://1inch.com',
   'agora': 'https://www.agora.finance',
   'agora-finance': 'https://www.agora.finance',

@@ -11,6 +11,7 @@ export const CATALOG_PATHS = {
 };
 CATALOG_PATHS.jobs.push('content/company-profile-overrides.json', 'content/company-profile-editorial.json', 'content/company-profiles-runtime.json', 'content/company-branding.json', 'content/company-socials.json', 'content/company-logos-index.json');
 CATALOG_PATHS.jobs.push('content/sources/country-local-import.json', 'content/sources/hiring-links-636-import.json');
+CATALOG_PATHS.jobs.push('content/articles-index.json', 'content/latest-articles.json');
 const SHARED_MAPS = new Set(['content/prebuild-input-hashes.json', 'content/social-image-info.json', 'content/responsive-images.json', 'content/social-preview-image-cache.json', 'content/image-redirects.json', 'public/og/manifest.json', 'public/preview/.preview-manifest.json']);
 const PREVIEW_MANIFEST = 'public/preview/.preview-manifest.json';
 const RECEIPT = 'content/catalog-refresh-state.json';

@@ -10,6 +10,11 @@ function main(): void {
 
   if (fast) {
     console.log('[production-build] FAH_FAST_PREBUILD — catalog smoke tests + next build');
+    run('npx tsx scripts/generate-articles-index.ts');
+    run('npx tsx scripts/generate-latest-articles.ts');
+    run('npx tsx scripts/generate-articles-data.ts');
+    run('npx tsx scripts/generate-slug-types.ts');
+    run('npx tsx scripts/precompute-companies-runtime.ts');
     run('npm run test:catalog-recovery');
     run('npm run test:jobs-catalog');
     run('npm run test:company-jobs');

@@ -645,5 +645,10 @@
   },
   "zircuit": {
     "twitter": "https://twitter.com/zircuit"
+  },
+  "ckba": {
+    "website": "https://www.ckba.build",
+    "twitter": "https://x.com/ckba_build",
+    "linkedin": "https://www.linkedin.com/company/common-knowledge-base-association"
   }
 }
