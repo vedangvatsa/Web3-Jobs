@@ -110237,7 +110237,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "73c52725-8831-4255-9ed6-d30fe81bc0ac",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6aedbc5c05414bc10aeb1e00"
     }
   ]
 }
