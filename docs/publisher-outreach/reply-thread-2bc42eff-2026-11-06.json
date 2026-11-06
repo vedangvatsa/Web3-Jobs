@@ -1,0 +1,27 @@
+{
+  "target": "publishers@newsbreak.com",
+  "channel": "inbound-reply",
+  "originalReceivedEmailId": "2bc42eff-9d5e-4f38-8e0f-d36bfc5b6828",
+  "originalMessageId": "<1792768742221.064b607e-61e9-4b60-8f7c-43037b8e4e2f@bf.hs-inbox.com>",
+  "originalSubject": "Re: Hashtag Web3: publisher onboarding and automatic news-feed distribution",
+  "originalFrom": "publishers@newsbreak.com",
+  "status": "claimed",
+  "claimedAt": "2026-11-06T10:36:15.977Z",
+  "recipient": "publishers@newsbreak.com",
+  "payload": {
+    "from": "Hashtag Web3 <hi@hashtagweb3.com>",
+    "reply_to": "hi@hashtagweb3.com",
+    "to": [
+      "publishers@newsbreak.com"
+    ],
+    "subject": "Re: Hashtag Web3: publisher onboarding and automatic news-feed distribution",
+    "text": "Hello NewsBreak Publisher Team,\n\nThank you - we will proceed through the official channel you referenced.\n\nWe did attempt the publisher application earlier; the signup page at https://mp.newsbreak.com/pss/signup requires registration with first name, last name, email and password. We will complete registration and submit the application there.\n\nFor the review that follows, our press kit:\n\n- Publisher: Hashtag Web3 - United States organization publishing English-language crypto and Web3 news\n- Publication: https://hashtagweb3.com/news\n- RSS feed: https://hashtagweb3.com/news/feed.xml (headlines, summaries, original publication dates, canonical links)\n- Example native article: https://hashtagweb3.com/bitgetthai\n- About: https://hashtagweb3.com/about\n- Contact: hi@hashtagweb3.com\n\nScope note: our news listing also links to external publishers; those external stories are not supplied as our own content. Our workflow uses AI-assisted research and drafting with source and publication checks.\n\nIf the registration page needs contact details routed differently (for example a specific contact person), tell us and we will use that.\n\nThank you,\nHashtag Web3 - hi@hashtagweb3.com",
+    "html": "<p>Hello NewsBreak Publisher Team,</p>\n\n<p>Thank you &mdash; we will proceed through the official channel you referenced.</p>\n\n<p>We did attempt the publisher application earlier; the signup page at <a href=\"https://mp.newsbreak.com/pss/signup\">https://mp.newsbreak.com/pss/signup</a> requires registration with first name, last name, email and password. We will complete registration and submit the application there.</p>\n\n<p>For the review that follows, our press kit:</p>\n\n<ul>\n<li>Publisher: Hashtag Web3 &mdash; United States organization publishing English-language crypto and Web3 news</li>\n<li>Publication: <a href=\"https://hashtagweb3.com/news\">https://hashtagweb3.com/news</a></li>\n<li>RSS feed: <a href=\"https://hashtagweb3.com/news/feed.xml\">https://hashtagweb3.com/news/feed.xml</a> (headlines, summaries, original publication dates, canonical links)</li>\n<li>Example native article: <a href=\"https://hashtagweb3.com/bitgetthai\">https://hashtagweb3.com/bitgetthai</a></li>\n<li>About: <a href=\"https://hashtagweb3.com/about\">https://hashtagweb3.com/about</a></li>\n<li>Contact: <a href=\"mailto:hi@hashtagweb3.com\">hi@hashtagweb3.com</a></li>\n</ul>\n\n<p>Scope note: our news listing also links to external publishers; those external stories are not supplied as our own content. Our workflow uses AI-assisted research and drafting with source and publication checks.</p>\n\n<p>If the registration page needs contact details routed differently (for example a specific contact person), tell us and we will use that.</p>\n\n<p>Thank you,<br>Hashtag Web3 &mdash; <a href=\"mailto:hi@hashtagweb3.com\">hi@hashtagweb3.com</a></p>",
+    "headers": {
+      "In-Reply-To": "<1792768742221.064b607e-61e9-4b60-8f7c-43037b8e4e2f@bf.hs-inbox.com>",
+      "References": "<1792768742221.064b607e-61e9-4b60-8f7c-43037b8e4e2f@bf.hs-inbox.com>"
+    }
+  },
+  "payloadSha256": "571612968e24dc88aef2aec050a547d903edb08f943ff2c82054fd97238ba842",
+  "providerId": null
+}
