@@ -13,18 +13,18 @@ export const tweets = [
   {
     text: `1/ Ten free courses to learn smart contract auditing and security in 2026.
 
-From basic reentrancy and storage layout to invariant fuzzing, formal verification, and DeFi exploits:
+Core curriculum covering EVM internals, invariant fuzzing, formal verification, and DeFi exploits.
 
-A complete breakdown 🧵👇`,
+Breakdown of the top platforms and resources:`,
     imageUrl: 'https://iili.io/ntYH3uf.png',
   },
   {
-    text: `2/ Cyfrin Updraft: Smart Contract Security & Auditing
+    text: `2/ Cyfrin Updraft: Smart Contract Security
 
-- Complete manual code review methodology
+- Manual code review methodology
 - Static analysis with Slither and Aderyn
 - Invariant testing and fuzzing with Echidna
-- 60+ lessons taught by Patrick Collins
+- 60+ video lessons by Patrick Collins
 
 https://updraft.cyfrin.io/courses/security`,
     imageUrl: 'https://iili.io/ntunmba.png',
@@ -32,10 +32,10 @@ https://updraft.cyfrin.io/courses/security`,
   {
     text: `3/ OpenZeppelin: Ethernaut
 
-- Interactive EVM wargame in your browser
+- Browser-based EVM security wargame
 - Reentrancy and delegatecall storage quirks
 - Authorization bypass and selfdestruct vectors
-- 30+ hands-on hacking levels
+- 30+ smart contract hacking levels
 
 https://ethernaut.openzeppelin.com`,
     imageUrl: 'https://iili.io/ntnCv3J.png',
@@ -43,21 +43,21 @@ https://ethernaut.openzeppelin.com`,
   {
     text: `4/ Damn Vulnerable DeFi
 
-- Industry standard DeFi security wargame
+- DeFi security wargame by The Red Guild
 - Flash loan arbitrage and price oracle attacks
-- Governance exploits and ERC4626 vault inflation
-- Complete Foundry exploit test suites
+- Governance exploits and ERC4626 inflation bugs
+- Hands-on Foundry exploit test suites
 
 https://www.damnvulnerabledefi.xyz`,
     imageUrl: 'https://iili.io/ntnC0rb.png',
   },
   {
-    text: `5/ Secureum: Security Bootcamp Video Lectures
+    text: `5/ Secureum: Security Bootcamp Lectures
 
-- 8-epoch video masterclass by Rajeev Gopalakrishna
-- EVM architecture and Solidity security pitfalls
+- 8-epoch video curriculum by Rajeev Gopalakrishna
+- EVM architecture and Solidity pitfalls 101/201
 - 100+ audit findings, checklists, and RACE quizzes
-- Foundational curriculum for Web3 security auditors
+- Audit techniques and automated tooling guides
 
 https://www.youtube.com/@SecureumVideos`,
     imageUrl: 'https://iili.io/ntRrxOG.png',
@@ -65,21 +65,21 @@ https://www.youtube.com/@SecureumVideos`,
   {
     text: `6/ Hashtag Web3: Web3 Security & Auditing Track
 
-- Interactive self-paced auditing curriculum
-- Reentrancy, oracle attacks, and flash loan exploits
-- Security testing with Foundry and fuzzing
-- Hands-on modules with interactive quizzes
+- Structured Web3 security curriculum
+- Reentrancy, oracle attacks, and governance bugs
+- Contract testing with Foundry and fuzzing
+- 8 modules with practical knowledge checks
 
 https://hashtagweb3.com/web3-security`,
     imageUrl: 'https://iili.io/nt5slLb.png',
   },
   {
-    text: `7/ Alchemy University: Ethereum Developer & Security Track
+    text: `7/ Alchemy University: Ethereum Security Track
 
-- EVM execution model and storage slots
+- EVM execution model and storage slot layout
 - Reentrancy, access control, and flash loans
-- Cryptographic hashing and signature checks
-- Free interactive curriculum with coding sandbox
+- Cryptographic hashing and signature verification
+- Interactive browser coding sandbox
 
 https://university.alchemy.com/overview/ethereum`,
     imageUrl: 'https://iili.io/ntAQU57.jpg',
@@ -87,9 +87,9 @@ https://university.alchemy.com/overview/ethereum`,
   {
     text: `8/ DeFiHackLabs: Web3 Security Bootcamp
 
-- 8-week structured security bootcamp
-- Weekly syllabus, readings, and lecture notes
+- 8-week structured security syllabus
 - Reproducible Foundry PoCs for 200+ DeFi hacks
+- Transaction traces and root cause analysis
 - Hands-on attack lab assignments
 
 https://github.com/DeFiHackLabs/DeFiHackLabs-Ethereum-Web3-Security-BootCamp`,
@@ -98,7 +98,7 @@ https://github.com/DeFiHackLabs/DeFiHackLabs-Ethereum-Web3-Security-BootCamp`,
   {
     text: `9/ Trail of Bits: Building Secure Contracts
 
-- Security engineering guidelines from top auditors
+- Smart contract security engineering guidelines
 - Automated analysis checklists for CI/CD
 - Slither, Echidna, and Medusa testing setups
 - Invariant testing best practices
@@ -107,12 +107,12 @@ https://github.com/crytic/building-secure-contracts`,
     imageUrl: 'https://iili.io/ntno3xI.png',
   },
   {
-    text: `10/ Owen Thurm: Smart Contract Auditing Masterclass
+    text: `10/ Owen Thurm: Smart Contract Auditing Series
 
-- Video walkthroughs by Guardian Audits founder
-- Real-world commercial audit methodology
-- Live vulnerability hunts and severity triage
-- How to structure professional audit reports
+- Commercial audit walkthroughs by Guardian Audits
+- Live vulnerability hunting and severity triage
+- Manual code review workflows on active protocols
+- Report drafting and client communication
 
 https://www.youtube.com/@0xOwenThurm`,
     imageUrl: 'https://iili.io/ntuoNIa.png',
@@ -120,8 +120,8 @@ https://www.youtube.com/@0xOwenThurm`,
   {
     text: `11/ Chainlink: Smart Contract Security Bootcamp
 
-- Free on-demand and live developer bootcamps
-- Oracle manipulation and price feed security
+- Developer security bootcamp series
+- Oracle manipulation defense and price feed risks
 - Cross-chain security patterns with CCIP
 - Defensive architecture for DeFi protocols
 
@@ -129,14 +129,12 @@ https://chain.link/bootcamps`,
     imageUrl: 'https://iili.io/ntuoyv9.png',
   },
   {
-    text: `12/ Recommended 4-phase learning path:
+    text: `12/ 4-phase self-study roadmap:
 
 1. Foundations: Alchemy University, Ethernaut
 2. Auditing Core: Cyfrin Security, Trail of Bits
 3. Deep Theory: Hashtag Web3, Secureum
-4. Exploits: Damn Vulnerable DeFi, DeFiHackLabs, Owen Thurm
-
-Save this for reference 🔖`,
+4. Exploits: Damn Vulnerable DeFi, DeFiHackLabs, Guardian Audits`,
     imageUrl: 'https://iili.io/ntYPtVa.png',
   },
   {
