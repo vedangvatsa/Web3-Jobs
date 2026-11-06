@@ -1,0 +1,27 @@
+{
+  "target": "support@newspicks.zendesk.com",
+  "channel": "inbound-reply",
+  "originalReceivedEmailId": "6491991f-e99c-48d0-bfcb-0000c1439a07",
+  "originalMessageId": "<9RWRXZWRW013_6adf06a68d6ff_0e80dc52d0798c_sprut@zendesk.com>",
+  "originalSubject": "[NewsPicks サポート] 返信: Hashtag Web3: publisher onboarding and automatic news-feed distribution",
+  "originalFrom": "support@newspicks.zendesk.com",
+  "status": "claimed",
+  "claimedAt": "2026-11-06T10:35:38.897Z",
+  "recipient": "support@newspicks.zendesk.com",
+  "payload": {
+    "from": "Hashtag Web3 <hi@hashtagweb3.com>",
+    "reply_to": "hi@hashtagweb3.com",
+    "to": [
+      "support@newspicks.zendesk.com"
+    ],
+    "subject": "[NewsPicks サポート] 返信: Hashtag Web3: publisher onboarding and automatic news-feed distribution",
+    "text": "NewsPicks の工藤様\n\nご丁寧にご案内いただき、誠にありがとうございます。Hashtag Web3 でございます。\n\nご共有いただいたフォーム (https://forms.gle/xcDNsPDA7tw28VW46) を本日中にご記入させていただきます。\n\n参考までに、私どもの媒体の概要を記載いたします。\n\n- Hashtag Web3: 米国法人による英語の Web3 / クリプトニュース・キャリアメディア\n- ニュース一覧: https://hashtagweb3.com/news\n- RSS フィード: https://hashtagweb3.com/news/feed.xml (見出し・要約・元の公開日・カノニカルリンク付き)\n- 代表記事: https://hashtagweb3.com/bitgetthai\n- 会社概要: https://hashtagweb3.com/about\n- 連絡先: hi@hashtagweb3.com\n\nまた、編集方針について: 私どもの制作フローは AI 支援によるリサーチ・下書きと出典・公開の確認を組み合わせています。ニュース一覧には外部メディアへのリンクも含まれますが、それらは当方のコンテンツとして提供するものではありません。ご必要な AI 利用の明示形態・権利処理・帰属表記につきましては、ご指定の方法に沿って対応いたします。\n\nフォーム提出後、万一追加でお伺いしたい点がございましたら、本スレッドまたは hi@hashtagweb3.com までお気軽にご連絡ください。\n\n今後ともよろしくお願いいたします。\n\nHashtag Web3\nhi@hashtagweb3.com",
+    "html": "<p>NewsPicks の工藤様</p>\n\n<p>ご丁寧にご案内いただき、誠にありがとうございます。Hashtag Web3 でございます。</p>\n\n<p>ご共有いただいたフォーム (<a href=\"https://forms.gle/xcDNsPDA7tw28VW46\">https://forms.gle/xcDNsPDA7tw28VW46</a>) を本日中にご記入させていただきます。</p>\n\n<p>参考までに、私どもの媒体の概要を記載いたします。</p>\n\n<ul>\n<li>Hashtag Web3: 米国法人による英語の Web3 / クリプトニュース・キャリアメディア</li>\n<li>ニュース一覧: <a href=\"https://hashtagweb3.com/news\">https://hashtagweb3.com/news</a></li>\n<li>RSS フィード: <a href=\"https://hashtagweb3.com/news/feed.xml\">https://hashtagweb3.com/news/feed.xml</a> (見出し・要約・元の公開日・カノニカルリンク付き)</li>\n<li>代表記事: <a href=\"https://hashtagweb3.com/bitgetthai\">https://hashtagweb3.com/bitgetthai</a></li>\n<li>会社概要: <a href=\"https://hashtagweb3.com/about\">https://hashtagweb3.com/about</a></li>\n<li>連絡先: <a href=\"mailto:hi@hashtagweb3.com\">hi@hashtagweb3.com</a></li>\n</ul>\n\n<p>また、編集方針について: 私どもの制作フローは AI 支援によるリサーチ・下書きと出典・公開の確認を組み合わせています。ニュース一覧には外部メディアへのリンクも含まれますが、それらは当方のコンテンツとして提供するものではありません。ご必要な AI 利用の明示形態・権利処理・帰属表記につきましては、ご指定の方法に沿って対応いたします。</p>\n\n<p>フォーム提出後、万一追加でお伺いしたい点がございましたら、本スレッドまたは <a href=\"mailto:hi@hashtagweb3.com\">hi@hashtagweb3.com</a> までお気軽にご連絡ください。</p>\n\n<p>今後ともよろしくお願いいたします。<br>Hashtag Web3<br><a href=\"mailto:hi@hashtagweb3.com\">hi@hashtagweb3.com</a></p>",
+    "headers": {
+      "In-Reply-To": "<9RWRXZWRW013_6adf06a68d6ff_0e80dc52d0798c_sprut@zendesk.com>",
+      "References": "<9RWRXZWRW013_6adf06a68d6ff_0e80dc52d0798c_sprut@zendesk.com>"
+    }
+  },
+  "payloadSha256": "36c9e750ef3d06574fd04930dc6d217727b41fd5f9f516736d60135d35ba1e99",
+  "providerId": null
+}
