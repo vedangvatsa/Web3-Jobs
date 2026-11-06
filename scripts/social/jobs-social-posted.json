@@ -107276,7 +107276,8 @@
       },
       "account": "channel:dev",
       "attemptId": "7493e61c-86e3-47f2-9640-c17504f017af",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5b8180e5522f59839d91664a751539d995032f7d"
     }
   ]
 }
