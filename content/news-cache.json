@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-11-05T19:44:12.095Z",
+  "generatedAt": "2026-11-06T00:28:25.198Z",
   "items": [
+    {
+      "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
+      "link": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 06 Nov 2026 00:19:49 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly ...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI",
+      "link": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 05 Nov 2026 22:43:18 +0000",
+      "creator": "Jona Jaupi",
+      "contentSnippet": "The Eric Trump-backed miner reported $126 million in quarterly net income, largely driven by gains on its Bitcoin holdings, despite rising mining cost...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express  ",
+      "link": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 05 Nov 2026 22:18:42 +0000",
+      "creator": "Andrew Fenton",
+      "contentSnippet": "Asian crypto exchanges are scrambling to tighten security on fears of a wave of potentially AI-assisted hacks, even as regional governments embrace to...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
+      "link": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
+      "pubDate": "Thu, 05 Nov 2026 22:16:03 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Ueno’s collapse trapped millions of Paraguayan depositors and triggered a president’s resignation, reviving Bitcoin’s argument for self-custody.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Hyperliquid Strategies files to become CFTC-registered FCM, posts $13.3 million in quaterly revenue",
+      "link": "https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455",
+      "pubDate": "Thu, 05 Nov 2026 22:09:14 +0000",
+      "creator": "Jason Shubnell",
+      "contentSnippet": "Hyperliquid Strategies posted $13.3M in revenue and $620.6M net income, and filed with the CFTC to become an FCM for U.S. HIP-3 perp markets.",
+      "source": "The Block"
+    },
+    {
+      "title": "Crypto ally French Hill wins reelection but set to lose House chair",
+      "link": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 05 Nov 2026 21:39:19 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "Republican French Hill secured another term in Congress but will lose his leadership of the House Financial Services Committee when Democrats take con...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
+      "link": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
+      "pubDate": "Thu, 05 Nov 2026 20:16:03 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Fresh forensic analysis traces $48.6 million across 11 blockchains and finds thousands of customer deposit addresses drained hours after the Brazilian...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations",
+      "link": "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434",
+      "pubDate": "Thu, 05 Nov 2026 20:11:02 +0000",
+      "creator": "Jason Shubnell",
+      "contentSnippet": "Bitcoin fell 6% to $75,700 and ether 7% as a Nasdaq selloff hit crypto, triggering $1.03 billion in liquidations.",
+      "source": "The Block"
+    },
+    {
+      "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever",
+      "link": "https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto",
+      "pubDate": "Thu, 05 Nov 2026 19:46:03 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Zcash's latest upgrade promises faster transactions, but thousands of coins remain in an aging privacy system that will soon stop accepting withdrawal...",
+      "source": "Decrypt"
+    },
     {
       "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
       "link": "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -10,12 +82,12 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees 'glass half full'",
-      "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
-      "pubDate": "Thu, 05 Nov 2026 18:48:40 +0000",
-      "creator": "Krisztian Sandor",
-      "contentSnippet": "The post-election rally quickly reversed as AI stocks plunged, but cryptocurrencies held up relatively better despite a $1 billion liquidation wave.",
-      "source": "Coindesk"
+      "title": "Base deploys Denim upgrade on mainnet, replacing Flashblocks with 200ms block times",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-05-base-deploys-denim-upgrade-on-mainnet-replacing-flashblocks-with-200ms-block-times-434433",
+      "pubDate": "Thu, 05 Nov 2026 19:00:00 +0000",
+      "creator": "Brian Danga",
+      "contentSnippet": "Base activated its fourth network upgrade, Denim, introducing five canonical blocks per second at 200ms intervals.",
+      "source": "The Block"
     },
     {
       "title": "Fed, OCC check US banks after Binance hack as experts flag security risks ",
@@ -24,14 +96,6 @@
       "creator": "Jona Jaupi",
       "contentSnippet": "US regulators reportedly contacted banks following last week’s $6.3 billion Binance security hack, while experts raised concerns about transaction sec...",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Trump-Backed American Bitcoin Turns a Profit as Bitcoin Rise Lifts Books",
-      "link": "https://decrypt.co/382633/trump-american-bitcoin-q3-profit-bitcoin-lifts-books",
-      "pubDate": "Thu, 05 Nov 2026 18:25:31 +0000",
-      "creator": "Staff",
-      "contentSnippet": "The Hut 8-backed miner reversed a second-quarter loss, driven largely by a $197 million gain on its Bitcoin holdings.",
-      "source": "Decrypt"
     },
     {
       "title": "Lila Sciences and Anyscale Achieve 1M-Token Training with GLM-5.3-Flash",
@@ -66,7 +130,7 @@
       "source": "Decrypt"
     },
     {
-      "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist",
+      "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
       "link": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
       "pubDate": "Thu, 05 Nov 2026 16:58:21 +0000",
       "creator": "Francisco Rodrigues",
@@ -90,14 +154,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains ",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 05 Nov 2026 16:48:41 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Bitcoin saw sudden downside at the Wall Street open as stocks witnessed a snap sell-off, reversing post-election gains.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Democrats to Push Broader Crypto Market Structure Bill After Sweeping US Midterms: Report",
       "link": "https://decrypt.co/382602/democrats-to-push-broader-crypto-market-structure-bill-after-sweeping-us-midterms-report",
       "pubDate": "Thu, 05 Nov 2026 16:37:20 +0000",
@@ -112,6 +168,14 @@
       "creator": "Blockchain.News",
       "contentSnippet": "Circle froze $1.1B in USDC following a $6B Binance hack linked to North Korea, highlighting the need for rapid, coordinated digital asset defenses. (R...",
       "source": "Blockchain.News"
+    },
+    {
+      "title": "Bitcoin Erases Election Rally as AI Stocks Plunge, $428 Million in Crypto Longs Get Wiped Out",
+      "link": "https://decrypt.co/382612/bitcoin-erases-election-rally-ai-stocks-plunge-428-million-crypto-longs",
+      "pubDate": "Thu, 05 Nov 2026 16:29:11 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Bitcoin plunged nearly 5% as AI stocks sank, Democratic midterm wins raised fresh policy questions, and forced liquidations erased a Wednesday rally t...",
+      "source": "Decrypt"
     },
     {
       "title": "Tether's Hadron Partners with RedStone to Enhance Tokenized Asset Infrastructure",
@@ -234,19 +298,11 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Live updates: Bitcoin plunges as Nasdaq falls 5% in panicky selloff",
+      "title": "Live updates: Bitcoin drops more than 5% as stocks close out worst day since April 2025",
       "link": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
       "pubDate": "Thu, 05 Nov 2026 10:57:11 +0000",
       "creator": "Shaurya Malwa",
-      "contentSnippet": "There's been no letup in the selling of the AI chip stocks, with Micron and AMD among those suffering double-digit percentage declines; Nvidia is down...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
-      "link": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
-      "pubDate": "Thu, 05 Nov 2026 10:44:54 +0000",
-      "creator": "Francisco Rodrigues",
-      "contentSnippet": "The same attacker took about $391,000, mostly from wallets Bitquery ties to BitMart, whose founder confirmed a Nov. 2 hack and suspects a link.",
+      "contentSnippet": "The continued blowup of the AI trade led markets lower, with Nvidia losing 9.3% and many other chip names down double-digit percentages.",
       "source": "Coindesk"
     },
     {
@@ -320,14 +376,6 @@
       "creator": "Ezra Reguerra",
       "contentSnippet": "Polygon block producers have already frozen the stolen tokens, but a proposed hard fork would allow the funds to be recovered and returned to their ow...",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Zcash is about to freeze $16 million in its oldest privacy pool",
-      "link": "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool",
-      "pubDate": "Thu, 05 Nov 2026 05:47:01 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "About 12,200 ZEC remains in Sprout, the privacy pool Zcash launched in 2016. Roughly 10,000 coins have left over the past week, but only about 40 move...",
-      "source": "Coindesk"
     },
     {
       "title": "The pile of lawsuits against Kalshi just grew by one",
@@ -434,14 +482,6 @@
       "source": "The Block"
     },
     {
-      "title": "French Hill’s race still too close to call as House flips, changing the direction of crypto legislation",
-      "link": "https://www.theblock.co/news/regulation/2026-11-04-french-hill-too-close-to-call-house-flips-changing-crypto-legislation-432572",
-      "pubDate": "Wed, 04 Nov 2026 19:02:05 +0000",
-      "creator": "Sarah Wynn",
-      "contentSnippet": "As of Wednesday afternoon, House Financial Services Committee Chair French Hill's race for reelection is too close to call.",
-      "source": "The Block"
-    },
-    {
       "title": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
       "link": "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Wed, 04 Nov 2026 18:47:56 +0000",
@@ -490,22 +530,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 04 Nov 2026 15:29:23 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Bitcoin climbed toward $80,500 as risk assets rallied on Democrats’ midterm election gains and oil prices fell.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "France backs reporting for self-custodied crypto worth 100K euros or more",
-      "link": "https://cointelegraph.com/news/france-approves-amendment-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 04 Nov 2026 13:44:52 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "The amendment would require taxpayers to report holdings worth at least $112,000, but the measure still needs to survive the budget process.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Morning Minute: CFTC Clears Stock Perps, Gets Sued the Same Day",
       "link": "https://decrypt.co/382497/morning-minute-cftc-clears-stock-perps-gets-sued-the-same-day",
       "pubDate": "Wed, 04 Nov 2026 13:25:01 +0000",
@@ -530,28 +554,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
-      "link": "https://cointelegraph.com/markets/cantons-cc-rises-sec-no-action-letter-digital-commodity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 04 Nov 2026 12:12:15 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "SEC staff’s no-action letter covers CC earned by running infrastructure and applications, but is not a binding ruling on its legal status.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Midterms Blue Wave Makes $917K for One Polymarket Trader, If Alaska Doesn’t Flip",
       "link": "https://decrypt.co/382489/midterms-blue-wave-makes-917k-for-one-polymarket-trader-if-alaska-doesnt-flip",
       "pubDate": "Wed, 04 Nov 2026 11:48:50 +0000",
       "creator": "Ryan Gladwin",
       "contentSnippet": "A Polymarket trader topped the prediction market’s leaderboard after Democrats swept the US midterms, but Alaska could still flip it.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
-      "link": "https://cointelegraph.com/markets/crypto-market-recovery-grayscale-binance-hack-temporary-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 04 Nov 2026 11:11:57 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "Zach Pandl highlighted institutional custody safeguards as crypto markets recovered some losses following the record $6.3 billion Binance hack.",
-      "source": "Cointelegraph"
     },
     {
       "title": "DeFi Explained",
@@ -567,46 +575,6 @@
       "pubDate": "Wed, 04 Nov 2026 10:35:01 +0000",
       "creator": "Agent",
       "contentSnippet": "A Nova Scotia judge found prosecutors failed to link William Sandeson's Bitcoin to the 2015 murder of fellow student Taylor Samson.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Justin Sun seeks $264K sanctions over World Liberty’s UAE disclosure",
-      "link": "https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 04 Nov 2026 10:30:42 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "Sun plans to refile his token-freeze lawsuit in California state court after the sanctions motion is resolved. A hearing is set for Dec. 10.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Former Sen. Sherrod Brown defeats Jon Husted, dealing a blow to crypto PAC Fairshake",
-      "link": "https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495",
-      "pubDate": "Wed, 04 Nov 2026 04:35:48 +0000",
-      "creator": "Sarah Wynn",
-      "contentSnippet": "Former Democratic Sen. Sherrod Brown is taking back his spot in the Senate, leaving crypto political action committee Fairshake with the bag.",
-      "source": "The Block"
-    },
-    {
-      "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
-      "link": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
-      "pubDate": "Tue, 03 Nov 2026 22:46:02 +0000",
-      "creator": "Staff",
-      "contentSnippet": "Paolo Ardoino told the Plan ₿ Forum in Lugano the company owns “give or take 150,000 Bitcoin,” but its Q3 reserve report implies just 100,060.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
-      "link": "https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach",
-      "pubDate": "Tue, 03 Nov 2026 19:46:03 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "GitBook says attackers accessed infrastructure credentials in an AI-assisted breach, prompting a shutdown and emergency token resets.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures",
-      "link": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures",
-      "pubDate": "Tue, 03 Nov 2026 19:16:02 +0000",
-      "creator": "Staff",
-      "contentSnippet": "Chairman Michael Selig said “equity perpetual futures” can now trade on CFTC-registered exchanges, extending a crypto-native instrument to traditional...",
       "source": "Decrypt"
     }
   ]
