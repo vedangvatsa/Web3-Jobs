@@ -108610,7 +108610,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "475819d2-3643-432d-8488-d18313fddcda",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6aed4bc0dbada656beee3537"
     }
   ]
 }
