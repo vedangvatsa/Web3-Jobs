@@ -107916,6 +107916,40 @@
       "attemptId": "656de10c-ef53-43ce-8bb4-5496af327f22",
       "verification": "verified",
       "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mzmhcq47xd2j"
+    },
+    {
+      "slug": "eng366",
+      "company": "Galaxy Digital",
+      "title": "Head of Market Data Development and Engineering",
+      "platform": "farcaster",
+      "postedAt": "2026-11-06T03:36:11.383Z",
+      "expectedText": "Galaxy Digital is hiring Head of Market Data Development and Engineering\n\nhttps://hashtagweb3.com/eng366/fc?og=7",
+      "snapshot": {
+        "id": "6238465004",
+        "title": "Head of Market Data Development and Engineering",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6238465004",
+        "date": "2026-10-29T12:49:45-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "New York",
+        "department": "Engineering",
+        "active": true,
+        "salary": "$220k – $250k/yr",
+        "dateVerified": true,
+        "slug": "eng366"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Head of Market Data Development and Engineering\n\nhttps://hashtagweb3.com/eng366/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng366/fc?og=7"
+          }
+        ]
+      },
+      "account": "profile",
+      "attemptId": "4baa29dc-6282-4ab5-bcb8-0fab53798a1a",
+      "verification": "creating"
     }
   ]
 }
