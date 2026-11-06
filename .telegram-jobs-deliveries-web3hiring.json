@@ -14721,7 +14721,7 @@
     "sentAt": "2026-11-06T03:32:41.897Z"
   },
   "59f8bf35-cd47-4e0c-aea1-fbfb5b318a8d": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-06T03:32:43.851Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -14832,6 +14832,8 @@
       }
     ],
     "message": "- Bybit is hiring <a href=\"https://hashtagweb3.com/ops128?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Spots Operations Lead</a>\n- Mysten Labs is hiring <a href=\"https://hashtagweb3.com/sec125?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Security Engineer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/ppf?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">People Partner, Finance</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/sec70?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VP, Senior Blockchain Security Engineer</a>\n- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/sec90?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Engineer, Data Security</a>",
-    "slotKey": "2026-11-06:morning"
+    "slotKey": "2026-11-06:morning",
+    "messageId": 172,
+    "sentAt": "2026-11-06T03:32:46.383Z"
   }
 }
