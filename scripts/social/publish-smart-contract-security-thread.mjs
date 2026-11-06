@@ -11,133 +11,133 @@ const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 
 export const tweets = [
   {
-    text: `1/ 10 free resources to learn smart contract auditing and security in 2026.
+    text: `1/ 10 free courses to learn smart contract auditing and security in 2026.
 
-From basic reentrancy and storage collisions to flash loan attacks, fuzzing, and formal verification:
+From basic reentrancy and storage layout to invariant fuzzing, formal verification, and DeFi exploits:
 
 A complete breakdown 🧵👇`,
-    imageUrl: 'https://iili.io/ntfa09s.png',
+    imageUrl: 'https://iili.io/ntunUOu.png',
   },
   {
-    text: `2/ Damn Vulnerable DeFi
-
-- Industry standard DeFi security wargame
-- Flash loan and price oracle attacks
-- Governance exploits and ERC4626 vault inflation
-- Hands-on Foundry exploit tests
-
-https://www.damnvulnerabledefi.xyz`,
-    imageUrl: 'https://iili.io/ntnC0rb.png',
-  },
-  {
-    text: `3/ OpenZeppelin: Ethernaut
-
-- Interactive EVM wargame in your browser
-- Reentrancy and delegatecall storage collisions
-- Authorization bypass and selfdestruct quirks
-- 30+ hands-on hacking levels
-
-https://ethernaut.openzeppelin.com`,
-    imageUrl: 'https://iili.io/ntnCv3J.png',
-  },
-  {
-    text: `4/ Cyfrin Updraft: Smart Contract Security
+    text: `2/ Cyfrin Updraft: Smart Contract Security & Auditing
 
 - Complete manual code review methodology
 - Static analysis with Slither and Aderyn
 - Invariant testing and fuzzing with Echidna
-- Full self-paced video course by Patrick Collins
+- 60+ lessons taught by Patrick Collins
 
 https://updraft.cyfrin.io/courses/security`,
-    imageUrl: 'https://iili.io/ntnCL4s.png',
+    imageUrl: 'https://iili.io/ntunmba.png',
   },
   {
-    text: `5/ Secureum: Security Pitfalls & RACE Quizzes
+    text: `3/ Cyfrin Updraft: Advanced Foundry
 
-- Security Pitfalls 101 and 201 checklists
-- Audit Findings 101 and 201 summaries
-- 100+ RACE audit questions and answers
-- Essential study material for junior auditors
+- Deep dive into stateful fuzzing
+- Differential testing across implementations
+- Invariant testing suites and handler contracts
+- Hands-on exercises and real exploit cases
 
-https://secureum.substack.com`,
-    imageUrl: 'https://iili.io/ntnnKaj.png',
+https://updraft.cyfrin.io/courses/advanced-foundry`,
+    imageUrl: 'https://iili.io/ntuof5X.png',
   },
   {
-    text: `6/ Solodit: Web3 Vulnerability Search
+    text: `4/ Cyfrin Updraft: Formal Verification
 
-- 15,000+ searchable audit findings
-- Reports from Trail of Bits, Spearbit, and OpenZeppelin
-- Filter by protocol, severity, and bug type
-- Reference index for writing audit reports
+- Mathematical specification writing with CVL
+- Proving contract correctness with Certora
+- Rule-based verification vs fuzzing
+- Practical formal specs on live DeFi code
 
-https://solodit.cyfrin.io`,
-    imageUrl: 'https://iili.io/ntnnoZP.png',
+https://updraft.cyfrin.io/courses/formal-verification`,
+    imageUrl: 'https://iili.io/ntuoBbs.png',
   },
   {
-    text: `7/ RareSkills: Smart Contract Security Guide
+    text: `5/ Secureum: Security Bootcamp Video Lectures
 
-- In-depth guide covering 30+ EVM attack vectors
-- Read-only reentrancy and ERC777 hook bugs
-- Signature replay and malleable signatures
-- Precision loss and rounding exploits
+- 8-epoch video masterclass by Rajeev Gopalakrishna
+- EVM architecture and Solidity security pitfalls
+- 100+ audit findings, checklists, and RACE quizzes
+- Foundational curriculum for Web3 security auditors
 
-https://www.rareskills.io/post/smart-contract-security`,
-    imageUrl: 'https://iili.io/ntnnVFs.png',
+https://www.youtube.com/playlist?list=PLTgRMOcmRb3PQy_g_snhgZl2zDayflp8p`,
+    imageUrl: 'https://iili.io/ntuoT12.png',
   },
   {
-    text: `8/ SunWeb3Sec: DeFiHackLabs
+    text: `6/ DeFiHackLabs: Web3 Security Bootcamp
 
-- 200+ reproducible PoC exploit test cases
-- Replicates historical DeFi hacks in Foundry
-- Step-by-step transaction traces and root causes
-- Practical lab to study real-world exploits
+- 8-week structured security bootcamp
+- Weekly syllabus, readings, and lecture notes
+- Reproducible Foundry PoCs for 200+ DeFi hacks
+- Hands-on attack lab assignments
 
-https://github.com/SunWeb3Sec/DeFiHackLabs`,
-    imageUrl: 'https://iili.io/ntnn6Hx.png',
+https://github.com/DeFiHackLabs/DeFiHackLabs-Ethereum-Web3-Security-BootCamp`,
+    imageUrl: 'https://iili.io/ntuoYmu.png',
   },
   {
-    text: `9/ Trail of Bits: Building Secure Contracts
+    text: `7/ Alchemy University: Ethereum Developer & Security Track
 
-- Security engineering guidelines from top auditors
-- Automated analysis checklists for CI/CD
-- Slither, Echidna, and Medusa testing setups
-- Invariant testing best practices
+- EVM execution model and storage slots
+- Reentrancy, access control, and flash loans
+- Cryptographic hashing and signature checks
+- Free interactive curriculum with coding sandbox
 
-https://github.com/crytic/building-secure-contracts`,
-    imageUrl: 'https://iili.io/ntno3xI.png',
+https://university.alchemy.com/overview/ethereum`,
+    imageUrl: 'https://iili.io/ntuoWdP.png',
   },
   {
-    text: `10/ QuillAudits: QuillCTF
+    text: `8/ Owen Thurm: Smart Contract Auditing Masterclass
 
-- Scenario-based smart contract security challenges
-- Real audit findings converted into CTF levels
-- Flash loan arbitrage and access control bugs
-- Complete Foundry solutions and writeups
+- Video walkthroughs by Guardian Audits founder
+- Real-world commercial audit methodology
+- Live vulnerability hunts and severity triage
+- How to structure professional audit reports
 
-https://quillctf.super.site`,
-    imageUrl: 'https://iili.io/ntnoRs9.png',
+https://www.youtube.com/@0xOwenThurm`,
+    imageUrl: 'https://iili.io/ntuoNIa.png',
   },
   {
-    text: `11/ Paradigm CTF Archives
+    text: `9/ JohnnyTime: Smart Contract Hacking & Auditing
 
-- The gold standard of competitive EVM hacking
-- Advanced MEV, arbitrage, and curve math exploits
-- EVM bytecode disassembly and compiler edge cases
-- Source code and official solution writeups
+- Practical EVM hacking video courses
+- Step-by-step DeFi exploit walk-throughs
+- Writing Foundry exploit scripts from scratch
+- CTF challenge teardowns and security tips
 
-https://github.com/paradigmxyz/paradigm-ctf-2023`,
-    imageUrl: 'https://iili.io/ntnoWs1.png',
+https://www.youtube.com/@JohnnyTime`,
+    imageUrl: 'https://iili.io/ntuo4kX.png',
   },
   {
-    text: `12/ Recommended roadmap:
+    text: `10/ SpeedRunEthereum: Security & Solidity Challenges
 
-1. Foundations: Ethernaut, RareSkills
-2. DeFi Exploits: Damn Vulnerable DeFi, QuillCTF
-3. Tooling & Fuzzing: Cyfrin Updraft, Trail of Bits
-4. Real-World Analysis: Secureum, Solodit, DeFiHackLabs
+- Interactive challenges built by Austin Griffith
+- State manipulation and signature verification
+- Decentralized governance and staking exploits
+- Practical test cases to level up defensive coding
 
-Save this thread for reference 🔖`,
-    imageUrl: 'https://iili.io/nt30umx.png',
+https://speedrunethereum.com`,
+    imageUrl: 'https://iili.io/ntuotEl.png',
+  },
+  {
+    text: `11/ Chainlink: Smart Contract Security Bootcamp
+
+- Free on-demand and live developer bootcamps
+- Oracle manipulation and price feed security
+- Cross-chain security patterns with CCIP
+- Defensive architecture for DeFi protocols
+
+https://chain.link/bootcamps`,
+    imageUrl: 'https://iili.io/ntuoyv9.png',
+  },
+  {
+    text: `12/ Recommended 4-phase learning path:
+
+1. Foundations: Alchemy University, SpeedRunEthereum
+2. Auditing: Cyfrin Security & Advanced Foundry
+3. Deep Theory: Formal Verification, Secureum
+4. Exploits: DeFiHackLabs, Owen Thurm, JohnnyTime
+
+Save this for reference 🔖`,
+    imageUrl: 'https://iili.io/ntuxJTu.png',
   },
   {
     text: `13/ Follow @hashtag_web3 for curated Web3 engineering guides, security breakdowns, and open roles.
