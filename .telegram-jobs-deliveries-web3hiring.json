@@ -14837,7 +14837,7 @@
     "sentAt": "2026-11-06T03:32:46.383Z"
   },
   "7cef7b1e-4436-4ff0-95d7-065df1b08d70": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-06T11:32:19.166Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -14950,6 +14950,8 @@
       }
     ],
     "message": "- ether.fi is hiring <a href=\"https://hashtagweb3.com/mkt127?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Performance Marketing</a>\n- Wintermute is hiring <a href=\"https://hashtagweb3.com/cmp119?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Legal Counsel - Derivatives</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/sec144?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">IT Security Engineer</a>\n- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/sec72?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Member of Technical Staff - IT &amp; Security Eng.</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls232?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Technical Account Management, EMEA</a>",
-    "slotKey": "2026-11-06:afternoon"
+    "slotKey": "2026-11-06:afternoon",
+    "messageId": 16614,
+    "sentAt": "2026-11-06T11:32:26.937Z"
   }
 }
