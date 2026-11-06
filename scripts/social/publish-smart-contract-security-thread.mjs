@@ -16,7 +16,7 @@ export const tweets = [
 From basic reentrancy and storage layout to invariant fuzzing, formal verification, and DeFi exploits:
 
 A complete breakdown 🧵👇`,
-    imageUrl: 'https://iili.io/nt5FLve.png',
+    imageUrl: 'https://iili.io/ntYH3uf.png',
   },
   {
     text: `2/ Cyfrin Updraft: Smart Contract Security & Auditing
@@ -63,15 +63,15 @@ https://www.youtube.com/@SecureumVideos`,
     imageUrl: 'https://iili.io/ntRrxOG.png',
   },
   {
-    text: `6/ DeFiHackLabs: Web3 Security Bootcamp
+    text: `6/ Hashtag Web3: Web3 Security & Auditing Track
 
-- 8-week structured security bootcamp
-- Weekly syllabus, readings, and lecture notes
-- Reproducible Foundry PoCs for 200+ DeFi hacks
-- Hands-on attack lab assignments
+- Interactive self-paced auditing curriculum
+- Reentrancy, oracle attacks, and flash loan exploits
+- Security testing with Foundry and fuzzing
+- Hands-on modules with interactive quizzes
 
-https://github.com/DeFiHackLabs/DeFiHackLabs-Ethereum-Web3-Security-BootCamp`,
-    imageUrl: 'https://iili.io/ntuoYmu.png',
+https://hashtagweb3.com/web3-security`,
+    imageUrl: 'https://iili.io/nt5slLb.png',
   },
   {
     text: `7/ Alchemy University: Ethereum Developer & Security Track
@@ -85,7 +85,18 @@ https://university.alchemy.com/overview/ethereum`,
     imageUrl: 'https://iili.io/ntAQU57.jpg',
   },
   {
-    text: `8/ Trail of Bits: Building Secure Contracts
+    text: `8/ DeFiHackLabs: Web3 Security Bootcamp
+
+- 8-week structured security bootcamp
+- Weekly syllabus, readings, and lecture notes
+- Reproducible Foundry PoCs for 200+ DeFi hacks
+- Hands-on attack lab assignments
+
+https://github.com/DeFiHackLabs/DeFiHackLabs-Ethereum-Web3-Security-BootCamp`,
+    imageUrl: 'https://iili.io/ntuoYmu.png',
+  },
+  {
+    text: `9/ Trail of Bits: Building Secure Contracts
 
 - Security engineering guidelines from top auditors
 - Automated analysis checklists for CI/CD
@@ -96,7 +107,7 @@ https://github.com/crytic/building-secure-contracts`,
     imageUrl: 'https://iili.io/ntno3xI.png',
   },
   {
-    text: `9/ Owen Thurm: Smart Contract Auditing Masterclass
+    text: `10/ Owen Thurm: Smart Contract Auditing Masterclass
 
 - Video walkthroughs by Guardian Audits founder
 - Real-world commercial audit methodology
@@ -105,17 +116,6 @@ https://github.com/crytic/building-secure-contracts`,
 
 https://www.youtube.com/@0xOwenThurm`,
     imageUrl: 'https://iili.io/ntuoNIa.png',
-  },
-  {
-    text: `10/ JohnnyTime: Smart Contract Hacking & Auditing
-
-- Practical EVM hacking video courses
-- Step-by-step DeFi exploit walk-throughs
-- Writing Foundry exploit scripts from scratch
-- CTF challenge teardowns and security tips
-
-https://www.youtube.com/@JohnnyTime`,
-    imageUrl: 'https://iili.io/ntuo4kX.png',
   },
   {
     text: `11/ Chainlink: Smart Contract Security Bootcamp
@@ -133,19 +133,22 @@ https://chain.link/bootcamps`,
 
 1. Foundations: Alchemy University, Ethernaut
 2. Auditing Core: Cyfrin Security, Trail of Bits
-3. Deep Theory: Secureum, Chainlink Bootcamp
+3. Deep Theory: Hashtag Web3, Secureum
 4. Exploits: Damn Vulnerable DeFi, DeFiHackLabs, Owen Thurm
 
 Save this for reference 🔖`,
-    imageUrl: null, // Clean text-only roadmap for maximum readability
+    imageUrl: 'https://iili.io/nt7m1IV.png',
   },
   {
-    text: `13/ Follow @hashtag_web3 for curated Web3 engineering guides, security breakdowns, and open roles.
+    text: `13/ Follow @hashtag_web3 for curated Web3 security guides and breakdowns.
 
-Join our Telegram for daily updates:
+Join our Telegram channels:
 
-https://t.me/hashtag_ai`,
-    imageUrl: null, // Omitted so native Telegram link card preview is rendered
+• Web3 Jobs: https://t.me/web3hiring
+• Web3 Events: https://t.me/eventsweb3
+• Web3 News Feed: https://t.me/web3newsfeed
+• Web3 Networking Group: https://t.me/hashtagweb3`,
+    imageUrl: null, // Omitted so native Telegram preview card expands
   },
 ];
 
