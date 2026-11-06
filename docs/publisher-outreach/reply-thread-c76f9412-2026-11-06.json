@@ -5,7 +5,7 @@
   "originalMessageId": "<X1PXZK191XR_6adf2acfaf3cf_16dccb418d0924_sprut@zendesk.com>",
   "originalSubject": "[Readly] Re: Hashtag Web3: publisher onboarding and automatic news-feed distribution",
   "originalFrom": "support@readly.com",
-  "status": "claimed",
+  "status": "sent",
   "claimedAt": "2026-11-06T10:34:55.468Z",
   "recipient": "support@readly.com",
   "payload": {
@@ -23,5 +23,6 @@
     }
   },
   "payloadSha256": "613874f2f890d076700a97cd66b668332f00833caa65d237a7861dfdf2938be3",
-  "providerId": null
+  "providerId": "01a1b06d-031b-78db-9ca8-05a3f2093f0e",
+  "sentAt": "2026-11-06T10:34:56.732Z"
 }
