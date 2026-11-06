@@ -3346,7 +3346,7 @@
     "sentAt": "2026-11-06T11:33:19.778Z"
   },
   "843b9b33-e09b-4c2d-96b5-f8ccabae3118": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-06T19:35:20.130Z",
     "stories": [
       {
@@ -3374,6 +3374,8 @@
         "originalTitle": "Kraken operator Payward adds 24-7 dollar settlement with Singapore Gulf Bank"
       }
     ],
-    "slotKey": "2026-11-06:evening"
+    "slotKey": "2026-11-06:evening",
+    "messageId": 65809,
+    "sentAt": "2026-11-06T19:35:29.132Z"
   }
 }

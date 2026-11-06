@@ -935,6 +935,9 @@
   "https://hashtagweb3.com/equityperps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/yccrypto?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/duffyperps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cyberczar?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/amplitude?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/kraken-settlement?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2704,6 +2707,12 @@
   "Y Combinator's October crypto request puts AI fundraising and agent tools at the center",
   "CME Delays Perpetual Futures Listings Pending Legal Resolution",
   "CME's Duffy calls perp funding a swap as CFTC lawsuit heads to full briefing",
+  "South Korean president proposes central cybersecurity oversight agency",
+  "South Korea's president orders a review of a government-wide cybersecurity czar",
+  "Analytics Vendor Amplitude Exposed Coinbase Customer Contact Data",
+  "Coinbase Says Analytics Vendor Amplitude Exposed Customer Contact Data",
+  "Payward Adds 24/7 US Dollar Settlement With Singapore Gulf Bank",
+  "Kraken operator Payward adds 24-7 dollar settlement with Singapore Gulf Bank",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -3168,5 +3177,8 @@
   "fp:center|clear|dec1|december1|ether|exchang|moscow|national|offer|through",
   "fp:approv|block|cftc|clear|contract|court|deni|despit|emergency|futur",
   "fp:accelerator|agent|asset|call|center|combinator|fundrais|infrastructur|october|project",
-  "fp:are|brief|call|cftc|cme|conclud|decision|delay|duffy|full"
+  "fp:are|brief|call|cftc|cme|conclud|decision|delay|duffy|full",
+  "fp:agency|aim|breach|central|cryptocurrency|cybersecurity|czar|data|domestic|effort",
+  "fp:amplitud|analytic|coinbas|contact|customer|data|detail|expos|fund|group",
+  "fp:adds24|any|asia|bank|can|dollar|gulf|institutional|kraken|net"
 ]
