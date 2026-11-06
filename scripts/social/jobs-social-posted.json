@@ -107849,8 +107849,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "8e8f92ca-9368-4565-82c6-dcf35f31276b",
-      "verification": "pending",
-      "postId": "6aed4b2edbada656beee1c68"
+      "verification": "verified",
+      "postId": "6aed4b2edbada656beee1c68",
+      "permalink": "https://twitter.com/hashtag_web3/status/2118547984363262262"
     }
   ]
 }
