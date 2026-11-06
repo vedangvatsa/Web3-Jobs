@@ -11,7 +11,7 @@ const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 
 export const tweets = [
   {
-    text: `1/ 10 free courses to learn smart contract auditing and security in 2026.
+    text: `1/ Ten free courses to learn smart contract auditing and security in 2026.
 
 From basic reentrancy and storage layout to invariant fuzzing, formal verification, and DeFi exploits:
 
@@ -82,7 +82,7 @@ https://github.com/DeFiHackLabs/DeFiHackLabs-Ethereum-Web3-Security-BootCamp`,
 - Free interactive curriculum with coding sandbox
 
 https://university.alchemy.com/overview/ethereum`,
-    imageUrl: 'https://iili.io/ntuoWdP.png',
+    imageUrl: 'https://iili.io/ntAQU57.jpg',
   },
   {
     text: `8/ Owen Thurm: Smart Contract Auditing Masterclass
@@ -137,7 +137,7 @@ https://chain.link/bootcamps`,
 4. Exploits: DeFiHackLabs, Owen Thurm, JohnnyTime
 
 Save this for reference 🔖`,
-    imageUrl: 'https://iili.io/ntuxJTu.png',
+    imageUrl: null, // Text-only recap roadmap for maximum readability
   },
   {
     text: `13/ Follow @hashtag_web3 for curated Web3 engineering guides, security breakdowns, and open roles.
