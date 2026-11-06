@@ -110163,7 +110163,8 @@
       },
       "account": "channel:design",
       "attemptId": "be9c5a64-ccb0-49ee-8b72-cf06feacca6f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf4ff60a08300670ffd00176302319ff0d9482f87"
     }
   ]
 }
