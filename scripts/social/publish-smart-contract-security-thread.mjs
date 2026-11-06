@@ -59,8 +59,8 @@ https://updraft.cyfrin.io/courses/formal-verification`,
 - 100+ audit findings, checklists, and RACE quizzes
 - Foundational curriculum for Web3 security auditors
 
-https://www.youtube.com/playlist?list=PLTgRMOcmRb3PQy_g_snhgZl2zDayflp8p`,
-    imageUrl: 'https://iili.io/ntuoT12.png',
+https://www.youtube.com/@SecureumVideos`,
+    imageUrl: 'https://iili.io/ntRrxOG.png',
   },
   {
     text: `6/ DeFiHackLabs: Web3 Security Bootcamp
