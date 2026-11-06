@@ -3146,7 +3146,7 @@
     "sentAt": "2026-11-06T11:33:47.557Z"
   },
   "53ae1698-bdba-4321-9d65-e1f5d5ea9e46": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-06T19:35:07.321Z",
     "stories": [
       {
@@ -3174,6 +3174,8 @@
         "originalTitle": "FINMA clears Switzerland's first retail bitcoin ETF"
       }
     ],
-    "slotKey": "2026-11-06:evening"
+    "slotKey": "2026-11-06:evening",
+    "messageId": 156114,
+    "sentAt": "2026-11-06T19:35:16.545Z"
   }
 }

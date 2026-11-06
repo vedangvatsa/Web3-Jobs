@@ -893,6 +893,9 @@
   "https://hashtagweb3.com/cyberczar?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/eustolen?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/b14gcore?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/tradertraitor?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/yccrypto?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/swissetf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2585,6 +2588,12 @@
   "Mystery $106 million theft drains EU entity exchange accounts",
   "Attacker Steals $1.47 Million From Bitcoin Staking Platform b14g",
   "Hacker Drains 97 Million CORE From Bitcoin Staking Platform b14g",
+  "Chainalysis Links $6.4 Billion Binance Theft to North Korea",
+  "Chainalysis Ties $6.4 Billion Binance Hack to North Korea",
+  "Y Combinator requests crypto startups for AI and stablecoin projects",
+  "Y Combinator's October crypto request puts AI fundraising and agent tools at the center",
+  "FINMA approves first Swiss retail bitcoin fund",
+  "FINMA clears Switzerland's first retail bitcoin ETF",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -3028,5 +3037,8 @@
   "fp:center|clear|dec1|december1|ether|exchang|moscow|national|offer|through",
   "fp:agency|central|cyberattack|cybersecurity|czar|domestic|follow|government|jae|korea",
   "fp:106m|account|drain|entity|european|exchang|fund|instant|investigator|los",
-  "fp:147m|97m|attacker|b14g|balanc|cod|cor|drain|due|flaw"
+  "fp:147m|97m|attacker|b14g|balanc|cod|cor|drain|due|flaw",
+  "fp:28b|64b|asset|authority|binanc|bitget|chainalysis|exploit|frozen|fund",
+  "fp:accelerator|agent|center|combinator|fundrais|infrastructur|october|project|put|request",
+  "fp:approv|authoriz|clear|etf|finma|fund|identity|individual|investment|investor"
 ]
