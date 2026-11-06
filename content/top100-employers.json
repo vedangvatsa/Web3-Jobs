@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-06T20:54:28.655Z",
+  "generatedAt": "2026-11-06T21:47:15.128Z",
   "year": 2026,
   "snapshotLabel": "Q4 2026 Index",
   "totalEmployers": 100,
-  "totalActiveJobs": 1448,
+  "totalActiveJobs": 1441,
   "avgRemotePct": 62,
   "avgSalaryTransparencyPct": 17,
   "employers": [
@@ -15,9 +15,9 @@
       "website": "https://coinbase.com",
       "headquarters": "San Francisco, California, USA",
       "founded": 2012,
-      "activeJobs": 68,
-      "remotePercentage": 81,
-      "salaryTransparencyPct": 85,
+      "activeJobs": 66,
+      "remotePercentage": 80,
+      "salaryTransparencyPct": 86,
       "salaryBenchmark": "$180.4k – $212.2k/yr",
       "stabilityTier": "Public / NASDAQ",
       "candidateDemandLevel": "Top 1% Demand",
@@ -27,14 +27,14 @@
         "applicationConversionRate": "18.4%"
       },
       "scores": {
-        "hiringScale": 21,
+        "hiringScale": 20.9,
         "candidateDemand": 24.8,
         "financialStability": 24.8,
-        "workplaceQuality": 22.2,
-        "composite": 92.8
+        "workplaceQuality": 22.1,
+        "composite": 92.6
       },
       "highlightBadges": [
-        "81% Remote",
+        "80% Remote",
         "Pay Disclosed",
         "Top Culture Score"
       ],
@@ -42,44 +42,12 @@
     },
     {
       "rank": 2,
-      "slug": "kraken",
-      "name": "Kraken",
-      "category": "Exchanges & Custody",
-      "website": "https://kraken.com",
-      "headquarters": "San Francisco, California, USA",
-      "founded": 2011,
-      "activeJobs": 46,
-      "remotePercentage": 98,
-      "salaryTransparencyPct": 0,
-      "stabilityTier": "Profitable Cashflow",
-      "candidateDemandLevel": "Top 1% Demand",
-      "candidateMetrics": {
-        "searchIntentIndex": 91,
-        "talentToStaffRatio": "220 : 1",
-        "applicationConversionRate": "16.2%"
-      },
-      "scores": {
-        "hiringScale": 19.7,
-        "candidateDemand": 23.8,
-        "financialStability": 22.8,
-        "workplaceQuality": 23.8,
-        "composite": 90.1
-      },
-      "highlightBadges": [
-        "100% Remote",
-        "Pay Disclosed",
-        "Top Culture Score"
-      ],
-      "summary": "Kraken, founded in 2011 by Jesse Powell in San Francisco, is one of the oldest regulated crypto exchanges, serving 10M+ clients and 200+ countries with spot, margin, futures and staking, plus a UK FCA-registered and US FinCEN-registered footprint. Privately held, it emphasizes security, proof-of-reserves and 24/7 clien..."
-    },
-    {
-      "rank": 3,
       "slug": "stripe",
       "name": "Stripe",
       "category": "Fintech & Payments",
       "website": "https://stripe.com",
       "headquarters": "Remote / Global",
-      "activeJobs": 231,
+      "activeJobs": 229,
       "remotePercentage": 13,
       "salaryTransparencyPct": 3,
       "salaryBenchmark": "$221.2k – $285.6k/yr",
@@ -102,6 +70,38 @@
         "Top Culture Score"
       ],
       "summary": "Stripe, founded in 2010 by Patrick and John Collison in South San Francisco and Dublin, builds financial infrastructure for the internet. Its APIs let millions of businesses accept payments, manage subscriptions, prevent fraud with Radar, and move money with Connect and Treasury. Valued at $65B+ after its 2024 rounds a..."
+    },
+    {
+      "rank": 3,
+      "slug": "kraken",
+      "name": "Kraken",
+      "category": "Exchanges & Custody",
+      "website": "https://kraken.com",
+      "headquarters": "San Francisco, California, USA",
+      "founded": 2011,
+      "activeJobs": 45,
+      "remotePercentage": 98,
+      "salaryTransparencyPct": 0,
+      "stabilityTier": "Profitable Cashflow",
+      "candidateDemandLevel": "Top 1% Demand",
+      "candidateMetrics": {
+        "searchIntentIndex": 91,
+        "talentToStaffRatio": "220 : 1",
+        "applicationConversionRate": "16.2%"
+      },
+      "scores": {
+        "hiringScale": 19.6,
+        "candidateDemand": 23.8,
+        "financialStability": 22.8,
+        "workplaceQuality": 23.8,
+        "composite": 90
+      },
+      "highlightBadges": [
+        "100% Remote",
+        "Pay Disclosed",
+        "Top Culture Score"
+      ],
+      "summary": "Kraken, founded in 2011 by Jesse Powell in San Francisco, is one of the oldest regulated crypto exchanges, serving 10M+ clients and 200+ countries with spot, margin, futures and staking, plus a UK FCA-registered and US FinCEN-registered footprint. Privately held, it emphasizes security, proof-of-reserves and 24/7 clien..."
     },
     {
       "rank": 4,
@@ -142,7 +142,7 @@
       "website": "https://ramp.com",
       "headquarters": "New York, NY, USA",
       "founded": 2019,
-      "activeJobs": 45,
+      "activeJobs": 44,
       "remotePercentage": 93,
       "salaryTransparencyPct": 0,
       "stabilityTier": "Tier-1 VC Backed",
@@ -2181,34 +2181,6 @@
     },
     {
       "rank": 75,
-      "slug": "jane-street",
-      "name": "Jane Street",
-      "category": "Trading & Quant",
-      "website": "https://janestreet.com",
-      "headquarters": "New York, United States",
-      "founded": 2000,
-      "activeJobs": 11,
-      "remotePercentage": 0,
-      "salaryTransparencyPct": 0,
-      "stabilityTier": "Tier-1 VC Backed",
-      "candidateDemandLevel": "High",
-      "candidateMetrics": {
-        "searchIntentIndex": 66,
-        "talentToStaffRatio": "55 : 1",
-        "applicationConversionRate": "10.2%"
-      },
-      "scores": {
-        "hiringScale": 15.1,
-        "candidateDemand": 18.2,
-        "financialStability": 21.8,
-        "workplaceQuality": 10,
-        "composite": 65.1
-      },
-      "highlightBadges": [],
-      "summary": "Jane Street, founded in 2000 in New York, is a quantitative trading firm and major liquidity provider in equities, ETFs, options and crypto. It trades $20B+ daily with 2,600+ employees across New York, London and Hong Kong, known for deep OCaml and functional programming culture and rigorous research. In Web3, Jane Str..."
-    },
-    {
-      "rank": 76,
       "slug": "rain",
       "name": "Rain",
       "category": "Fintech & Payments",
@@ -2233,6 +2205,34 @@
       },
       "highlightBadges": [],
       "summary": "Rain provides stablecoin-powered cards and global payment infrastructure for enterprises, platforms, and developers. Its products include card issuing, wallets, on-ramps, off-ramps, rewards, and cross-border payments."
+    },
+    {
+      "rank": 76,
+      "slug": "jane-street",
+      "name": "Jane Street",
+      "category": "Trading & Quant",
+      "website": "https://janestreet.com",
+      "headquarters": "New York, United States",
+      "founded": 2000,
+      "activeJobs": 10,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 0,
+      "stabilityTier": "Tier-1 VC Backed",
+      "candidateDemandLevel": "High",
+      "candidateMetrics": {
+        "searchIntentIndex": 66,
+        "talentToStaffRatio": "55 : 1",
+        "applicationConversionRate": "10.2%"
+      },
+      "scores": {
+        "hiringScale": 14.8,
+        "candidateDemand": 18.2,
+        "financialStability": 21.8,
+        "workplaceQuality": 10,
+        "composite": 64.8
+      },
+      "highlightBadges": [],
+      "summary": "Jane Street, founded in 2000 in New York, is a quantitative trading firm and major liquidity provider in equities, ETFs, options and crypto. It trades $20B+ daily with 2,600+ employees across New York, London and Hong Kong, known for deep OCaml and functional programming culture and rigorous research. In Web3, Jane Str..."
     },
     {
       "rank": 77,

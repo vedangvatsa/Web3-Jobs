@@ -51,6 +51,8 @@ async function main() {
       isListed?: boolean;
       applyUrl?: string;
       compensation?: Parameters<typeof getAshbySalary>[0];
+      isRemote?: boolean;
+      workplaceType?: string;
     }>;
   };
   if (!Array.isArray(data.jobs)) throw new Error('Ashby response has no jobs array');
@@ -72,6 +74,8 @@ async function main() {
       location: job.location,
       department: job.department || job.team,
       salary: getAshbySalary(job.compensation),
+      ...(typeof job.isRemote === 'boolean' && { isRemote: job.isRemote }),
+      ...(job.workplaceType && { workplaceType: job.workplaceType }),
       ...(job.applyUrl && { applyUrl: job.applyUrl }),
       ...(previousById.get(job.id)?.slug && { slug: previousById.get(job.id)!.slug }),
       active: true,

@@ -39584,5 +39584,94 @@
     "date": "2026-11-06T00:00:00.000Z",
     "dateVerified": true,
     "dateSource": "CKBA Official Job Description"
+  },
+  "ashby:38703001-b1cd-4a9b-9abc-be128600b91b": {
+    "date": "2026-11-04T16:22:48.213+00:00",
+    "dateVerified": true
+  },
+  "ashby:6c4683cd-d6e6-4cf6-a021-5db9f3f7f82d": {
+    "date": "2026-11-04T17:07:36.212+00:00",
+    "dateVerified": true
+  },
+  "ashby:b87454db-52cb-44a2-931b-cfbd49c80d03": {
+    "date": "2026-11-04T14:57:10.489+00:00",
+    "dateVerified": true
+  },
+  "ashby:202b2b8b-afe5-40b1-9c4b-2817d01419ca": {
+    "date": "2026-11-04T14:57:53.496+00:00",
+    "dateVerified": true
+  },
+  "ashby:3e23cea8-0e01-47dc-b662-41745f76fff7": {
+    "date": "2026-11-04T14:57:25.348+00:00",
+    "dateVerified": true
+  },
+  "ashby:3d52bffc-749a-4130-b3c8-476c3215743e": {
+    "date": "2026-11-04T14:57:35.461+00:00",
+    "dateVerified": true
+  },
+  "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-253485&sourceId=1": {
+    "date": "2026-11-06T00:00:00.000Z",
+    "dateVerified": true,
+    "dateSource": "Infosys Careers Portal"
+  },
+  "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-253489&sourceId=1": {
+    "date": "2026-11-06T00:00:00.000Z",
+    "dateVerified": true,
+    "dateSource": "Infosys Careers Portal"
+  },
+  "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-253494&sourceId=1": {
+    "date": "2026-11-06T00:00:00.000Z",
+    "dateVerified": true,
+    "dateSource": "Infosys Careers Portal"
+  },
+  "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-253496&sourceId=1": {
+    "date": "2026-11-06T00:00:00.000Z",
+    "dateVerified": true,
+    "dateSource": "Infosys Careers Portal"
+  },
+  "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-253530&sourceId=1": {
+    "date": "2026-11-06T00:00:00.000Z",
+    "dateVerified": true,
+    "dateSource": "Infosys Careers Portal"
+  },
+  "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-255106&sourceId=1": {
+    "date": "2026-11-06T00:00:00.000Z",
+    "dateVerified": true,
+    "dateSource": "Infosys Careers Portal"
+  },
+  "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-255107&sourceId=1": {
+    "date": "2026-11-06T00:00:00.000Z",
+    "dateVerified": true,
+    "dateSource": "Infosys Careers Portal"
+  },
+  "https://dcx.keka.com/careers/jobdetails/146600": {
+    "date": "2026-11-06T12:06:46.330Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://dcx.keka.com/careers/jobdetails/145832": {
+    "date": "2026-11-04T08:28:53.577Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://dcx.keka.com/careers/jobdetails/145831": {
+    "date": "2026-11-04T10:32:58.770Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://dcx.keka.com/careers/jobdetails/143988": {
+    "date": "2026-10-09T08:43:32.587Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://dcx.keka.com/careers/jobdetails/132416": {
+    "date": "2026-11-04T11:07:21.563Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://dcx.keka.com/careers/jobdetails/131208": {
+    "date": "2026-10-09T11:38:24.607Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
   }
 }

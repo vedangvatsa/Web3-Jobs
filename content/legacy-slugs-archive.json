@@ -153849,5 +153849,191 @@
     "link": "https://jobs.ashbyhq.com/Elliptic/e95bad9a-ab58-43c3-a6fa-e727687dde4e",
     "title": "Senior Customer Success Manager",
     "company": "Elliptic"
+  },
+  "cmp101": {
+    "id": "f5709b1a-4913-4823-b582-469cf005eb48",
+    "link": "https://jobs.ashbyhq.com/lightspark/f5709b1a-4913-4823-b582-469cf005eb48",
+    "company": "Lightspark",
+    "title": "Regulatory Compliance Officer, EU"
+  },
+  "sls232": {
+    "id": "8262029",
+    "link": "https://stripe.com/jobs/search?gh_jid=8262029",
+    "company": "Stripe",
+    "title": "Head of Technical Account Management, EMEA"
+  },
+  "eng438": {
+    "id": "3d182b7f-482e-45b2-8668-f04f0b5fda8e",
+    "link": "https://jobs.ashbyhq.com/SpruceID/3d182b7f-482e-45b2-8668-f04f0b5fda8e",
+    "company": "Spruce",
+    "title": "Full-Stack Software Engineer (New Grad) – Remote"
+  },
+  "cmp100": {
+    "id": "8243619",
+    "link": "https://stripe.com/jobs/search?gh_jid=8243619",
+    "company": "Stripe",
+    "title": "Paralegal Litigation"
+  },
+  "eng437": {
+    "id": "8243615",
+    "link": "https://stripe.com/jobs/search?gh_jid=8243615",
+    "company": "Stripe",
+    "title": "Staff Machine Learning Engineer, Radar"
+  },
+  "eng436": {
+    "id": "8016081003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8016081003",
+    "company": "OKX",
+    "title": "Senior Staff Engineer, Payment"
+  },
+  "an78": {
+    "id": "f5770e63-607a-4264-a3b8-cb10d96070d0",
+    "link": "https://jobs.ashbyhq.com/trm-labs/f5770e63-607a-4264-a3b8-cb10d96070d0",
+    "company": "TRM Labs",
+    "title": "Senior Intelligence Analyst"
+  },
+  "cmp99": {
+    "id": "5431065008",
+    "link": "http://block.xyz/careers/jobs/5431065008?gh_jid=5431065008",
+    "company": "Block",
+    "title": "Chief Compliance Officer, Cash App Investing"
+  },
+  "eng435": {
+    "id": "8203975",
+    "link": "https://stripe.com/jobs/search?gh_jid=8203975",
+    "company": "Stripe",
+    "title": "Integration Engineer"
+  },
+  "aso49": {
+    "id": "8262110",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8262110?t=gh_src=&gh_jid=8262110",
+    "company": "Robinhood",
+    "title": "Cashiering Support Associate"
+  },
+  "mkt94": {
+    "id": "8246785",
+    "link": "https://stripe.com/jobs/search?gh_jid=8246785",
+    "company": "Stripe",
+    "title": "Social & Content Marketing, Stripe Crypto"
+  },
+  "pm257": {
+    "id": "8016000003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8016000003",
+    "company": "OKX",
+    "title": "Product Manager / Director, Trading API"
+  },
+  "pm256": {
+    "id": "8015999003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8015999003",
+    "company": "OKX",
+    "title": "Product Manager / Director, Trading API"
+  },
+  "sls231": {
+    "id": "5183676008",
+    "link": "http://block.xyz/careers/jobs/5183676008?gh_jid=5183676008",
+    "company": "Block",
+    "title": "Founding Channel Sales Coordinator"
+  },
+  "sls230": {
+    "id": "5183617008",
+    "link": "http://block.xyz/careers/jobs/5183617008?gh_jid=5183617008",
+    "company": "Block",
+    "title": "Head of Channel Sales Japan"
+  },
+  "chi3": {
+    "id": "5446529008",
+    "link": "https://job-boards.greenhouse.io/mesh/jobs/5446529008",
+    "company": "Mesh",
+    "title": "Chief of Staff"
+  },
+  "cmp97": {
+    "id": "4999998101",
+    "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/4999998101",
+    "company": "BVNK",
+    "title": "Deputy MLRO (UK)"
+  },
+  "rec33": {
+    "id": "8261970",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8261970",
+    "company": "DRW",
+    "title": "Talent Acquisition Coordinator"
+  },
+  "ds16": {
+    "id": "8260181",
+    "link": "https://ripple.com/careers/all-jobs/job/8260181?gh_jid=8260181",
+    "company": "Ripple",
+    "title": "Staff Data Scientist"
+  },
+  "con3": {
+    "id": "955eca58-f234-4fc9-ae95-8cde7377bbe5",
+    "link": "https://talent.superteam.fun/jobs/content-lead-at-superteam-talent-955eca58-f234-4fc9-ae95-8cde7377bbe5",
+    "company": "Superteam Talent",
+    "title": "Content Lead"
+  },
+  "sls277": {
+    "id": "8258364",
+    "link": "https://stripe.com/jobs/search?gh_jid=8258364",
+    "company": "Stripe",
+    "title": "Account Executive, SMB Hunter (Central Eastern Europe)"
+  },
+  "dsae": {
+    "id": "6147548004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6147548004",
+    "company": "Alpaca",
+    "title": "Senior Data Scientist AI Evaluation"
+  },
+  "an77": {
+    "id": "8256605",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8256605",
+    "company": "DRW",
+    "title": "Data Analyst - Business Intelligence"
+  },
+  "pm254": {
+    "id": "6212184004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6212184004",
+    "company": "Alpaca",
+    "title": "Product Manager - Trading API"
+  },
+  "mgr159": {
+    "id": "8262841",
+    "link": "https://www.coinbase.com/careers/positions/8262841?gh_jid=8262841",
+    "company": "Coinbase",
+    "title": "Senior Manager, Digital Securities & Market Structure Policy"
+  },
+  "sls233": {
+    "id": "8248086",
+    "link": "https://stripe.com/jobs/search?gh_jid=8248086",
+    "title": "Sales Development Representative (Spanish fluency)",
+    "company": "Stripe"
+  },
+  "eng440": {
+    "id": "8243617",
+    "link": "https://stripe.com/jobs/search?gh_jid=8243617",
+    "title": "Machine Learning Engineer, Radar",
+    "company": "Stripe"
+  },
+  "ops94": {
+    "id": "8250934",
+    "link": "https://www.coinbase.com/careers/positions/8250934?gh_jid=8250934",
+    "title": "Prime Operations Assistant",
+    "company": "Coinbase"
+  },
+  "infra34": {
+    "id": "8868904002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8868904002?gh_jid=8868904002",
+    "title": "Talent Development, Infrastructure and Operations Specialist",
+    "company": "Jane Street"
+  },
+  "mgr160": {
+    "id": "2e27ba79-c95d-44de-ab75-ea90200ec9c0",
+    "link": "https://jobs.ashbyhq.com/ramp/2e27ba79-c95d-44de-ab75-ea90200ec9c0",
+    "title": "Manager, Enterprise Solutions Consulting",
+    "company": "Ramp"
+  },
+  "mcec": {
+    "id": "b0455cc0-8c0d-4dd0-9b1c-17196d92a666",
+    "link": "https://jobs.lever.co/anchorage/b0455cc0-8c0d-4dd0-9b1c-17196d92a666",
+    "company": "Anchorage Digital",
+    "title": "Member of Client Experience, CXM"
   }
 }

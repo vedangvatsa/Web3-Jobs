@@ -50,6 +50,18 @@ jobs:
         run: npx tsx scripts/ingest-ashby-board.ts openstandard "Open Standard"
         continue-on-error: true
 
+      - name: Ingest HIFI Ashby jobs
+        run: npx tsx scripts/ingest-ashby-board.ts hifi "HIFI"
+        continue-on-error: true
+
+      - name: Ingest Infosys Blockchain jobs
+        run: npx tsx scripts/ingest-infosys-jobs.ts
+        continue-on-error: true
+
+      - name: Ingest BitOasis jobs
+        run: npx tsx scripts/ingest-bitoasis-jobs.ts
+        continue-on-error: true
+
       - name: Ingest Official CoinDCX job openings
         run: npx tsx scripts/ingest-coindcx-official.ts
         continue-on-error: true

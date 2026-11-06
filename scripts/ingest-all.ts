@@ -423,6 +423,7 @@ const UNTRACKED_FEEDS: FeedConfig[] = [
   { company: 'Alpen Labs',       type: 'ashby',  slug: 'alpenlabs',        url: 'https://api.ashbyhq.com/posting-api/job-board/alpenlabs',       skills: ['Web3','Bitcoin','Zero Knowledge','DeFi','Layer2'] },
   { company: 'Meow',             type: 'ashby',  slug: 'meow',             url: 'https://api.ashbyhq.com/posting-api/job-board/meow',             skills: ['Web3','Fintech','Crypto','Compliance','Banking'] },
   { company: 'Biti',             type: 'ashby',  slug: 'biti',             url: 'https://api.ashbyhq.com/posting-api/job-board/biti',             skills: ['Web3','Crypto','DeFi','Design','Wallet'] },
+  { company: 'HIFI',             type: 'ashby',  slug: 'hifi',             url: 'https://api.ashbyhq.com/posting-api/job-board/hifi',             skills: ['Web3','Crypto','Stablecoins','Fintech','Infrastructure'] },
   { company: 'Xapo Bank',        type: 'greenhouse', slug: 'xapo61',       url: 'https://boards-api.greenhouse.io/v1/boards/xapo61/jobs?content=true', skills: ['Web3','Bitcoin','Banking','Crypto','Compliance'] },
 ];
 

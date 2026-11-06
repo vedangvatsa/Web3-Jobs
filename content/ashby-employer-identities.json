@@ -378,6 +378,15 @@
     "owner": "Helius",
     "website": "https://www.helius.dev/"
   },
+  "ashby:hifi": {
+    "companies": [
+      "HIFI",
+      "Hifi"
+    ],
+    "organizationId": "2a191518-137c-4f96-bad5-867d9a635537",
+    "owner": "HIFI",
+    "website": "https://www.hifi.com/"
+  },
   "ashby:hyperbolic": {
     "companies": [
       "Hyperbolic"
