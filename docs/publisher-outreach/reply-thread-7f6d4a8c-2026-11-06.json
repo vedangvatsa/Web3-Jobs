@@ -5,7 +5,7 @@
   "originalMessageId": "<4b8118ee-0719f3ff-1793961726-215476696176824-2534313@outbound.intercom.cision.com>",
   "originalSubject": "Re: Hashtag Web3: publisher onboarding and automatic news-feed distribution",
   "originalFrom": "support@cision.com",
-  "status": "claimed",
+  "status": "sent",
   "claimedAt": "2026-11-06T11:23:58.646Z",
   "recipient": "support@cision.com",
   "payload": {
@@ -23,5 +23,6 @@
     }
   },
   "payloadSha256": "a8f7a81734f4702e42d218191af306e50635603cc148b0cd7d01797828578875",
-  "providerId": null
+  "providerId": "01a1b099-f32e-7f3b-84bb-d2f4fcc1297d",
+  "sentAt": "2026-11-06T11:24:01.794Z"
 }
