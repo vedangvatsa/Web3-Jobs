@@ -109303,7 +109303,8 @@
       },
       "account": "channel:product",
       "attemptId": "69d326fe-74c0-4d41-a96e-412a6e0f4ad3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x913c6add2c8a92293cb72f6804def8ee4944f22c"
     }
   ]
 }
