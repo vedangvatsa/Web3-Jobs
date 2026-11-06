@@ -137,7 +137,7 @@ https://chain.link/bootcamps`,
 4. Exploits: Damn Vulnerable DeFi, DeFiHackLabs, Owen Thurm
 
 Save this for reference 🔖`,
-    imageUrl: 'https://iili.io/nt7m1IV.png',
+    imageUrl: 'https://iili.io/ntYPtVa.png',
   },
   {
     text: `13/ Follow @hashtag_web3 for curated Web3 security guides and breakdowns.
