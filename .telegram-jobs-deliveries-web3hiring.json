@@ -15071,5 +15071,121 @@
     "slotKey": "2026-11-06:afternoon",
     "messageId": 173,
     "sentAt": "2026-11-06T11:32:33.194Z"
+  },
+  "5aa34ffa-f589-485c-af39-4fb77877dc6e": {
+    "status": "reserved",
+    "reservedAt": "2026-11-06T19:32:04.286Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "ckba-payment-channel-team-lead",
+          "title": "Payment Channel Team Lead",
+          "company": "CKBA",
+          "link": "mailto:join@ckba.build?subject=Application%20for%20Payment%20Channel%20Team%20Lead",
+          "date": "2026-11-06T00:00:00.000Z",
+          "dateVerified": true,
+          "dateSource": "CKBA Official Job Description",
+          "source": "CKBA [ckba]",
+          "location": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "slug": "pct"
+        },
+        "key": "ckba-payment-channel-team-lead",
+        "slug": "pct",
+        "url": "https://hashtagweb3.com/pct?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CKBA",
+        "title": "Payment Channel Team Lead"
+      },
+      {
+        "snapshot": {
+          "id": "a9695010-f3ae-4264-a0b6-458e43f8a696",
+          "title": "AI Engineer, Trading Ops & Management",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/a9695010-f3ae-4264-a0b6-458e43f8a696",
+          "date": "2026-10-09T09:05:14.672Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (Hong Kong)",
+          "workplaceType": "hybrid",
+          "department": "Trading",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng483"
+        },
+        "key": "a9695010-f3ae-4264-a0b6-458e43f8a696",
+        "slug": "eng483",
+        "url": "https://hashtagweb3.com/eng483?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "AI Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8274580",
+          "title": "SOX Business Controls Specialist",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8274580",
+          "date": "2026-10-12T15:38:51-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "SEA, SF",
+          "department": "6482 SOX",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sbcs"
+        },
+        "key": "8274580",
+        "slug": "sbcs",
+        "url": "https://hashtagweb3.com/sbcs?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "SOX Business Controls Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "0378cc97-de79-42f9-8401-d301c678f4d7",
+          "title": "Business Lead",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/0378cc97-de79-42f9-8401-d301c678f4d7",
+          "date": "2026-10-12T13:48:36.560+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "New York, NY (HQ)",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "bus2"
+        },
+        "key": "0378cc97-de79-42f9-8401-d301c678f4d7",
+        "slug": "bus2",
+        "url": "https://hashtagweb3.com/bus2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Business Lead"
+      },
+      {
+        "snapshot": {
+          "id": "8226972",
+          "title": "Fraud Investigations Analyst",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8226972?t=gh_src=&gh_jid=8226972",
+          "date": "2026-10-21T15:39:48-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Denver, CO; Westlake, TX",
+          "department": "Customer Trust and Safety",
+          "active": true,
+          "salary": "$25 – $29/hr",
+          "dateVerified": true,
+          "slug": "an37"
+        },
+        "key": "8226972",
+        "slug": "an37",
+        "url": "https://hashtagweb3.com/an37?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Fraud Investigations Analyst"
+      }
+    ],
+    "message": "- CKBA is hiring <a href=\"https://hashtagweb3.com/pct?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Payment Channel Team Lead</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/eng483?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Engineer, Trading Ops &amp; Management</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sbcs?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">SOX Business Controls Specialist</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/bus2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business Lead</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/an37?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Fraud Investigations Analyst</a>",
+    "slotKey": "2026-11-06:evening"
   }
 }
