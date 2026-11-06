@@ -132009,11 +132009,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "1b4ddfc6c03fd8b06c92",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T18:16:03.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "duplicate",
+      "note": "Read the Decrypt Nov. 3 report in full: same Nov. 2 Mercado Bitcoin hack and the same pledge to cover customer losses that the published mercadobitcoin article already reports, alongside its Nov. 4 reopening statement; the loss estimates and freeze figures largely repeat what that article covers.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-06T00:41:04.008Z",
+      "duplicateOf": "mercadobitcoin",
+      "lastReviewedDay": "2026-11-06"
     },
     "9b62080850da307c350d": {
       "source": "BeInCrypto",
@@ -262726,6 +262737,19 @@
           ],
           "reviewedAt": "2026-11-06T00:41:00.502Z",
           "duplicateOf": "koreacold"
+        },
+        "1b4ddfc6c03fd8b06c92": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Read the Decrypt Nov. 3 report in full: same Nov. 2 Mercado Bitcoin hack and the same pledge to cover customer losses that the published mercadobitcoin article already reports, alongside its Nov. 4 reopening statement; the loss estimates and freeze figures largely repeat what that article covers.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-06T00:41:04.008Z",
+          "duplicateOf": "mercadobitcoin"
         }
       },
       "baselineSlugs": [
