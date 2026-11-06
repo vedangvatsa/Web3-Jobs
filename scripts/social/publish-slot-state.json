@@ -742,6 +742,28 @@
         "rolloutState": "SUCCEEDED",
         "confirmedAt": "2026-11-05T02:02:43.617Z"
       }
+    ],
+    "2026-11-06": [
+      {
+        "date": "2026-11-06",
+        "id": "42136896572-1",
+        "sourceCommit": "4b7f3ae715490e08c2b3e7009c39cf43b87d2cda",
+        "jobsCheckedAt": "2026-11-06T00:36:05.435Z",
+        "newsCompletedAt": "2026-11-06T01:50:29.745Z",
+        "articleSlugs": [
+          "equityperps",
+          "nearvote",
+          "cyberczar",
+          "ldkprobe",
+          "aztectierra",
+          "moexcrypto",
+          "liquidbacking"
+        ],
+        "phase": "building",
+        "startedAt": "2026-11-06T01:51:29.983Z",
+        "buildId": "daily-20261106-42136896572-1",
+        "rolloutId": "daily-20261106-42136896572-1"
+      }
     ]
   }
 }
