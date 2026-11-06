@@ -107416,7 +107416,8 @@
       },
       "account": "channel:base",
       "attemptId": "39789c17-d9c2-4736-8ca0-1760168318ce",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xca56e9cd22e7fa58dfa4a57512d418e7e387ae12"
     }
   ]
 }
