@@ -109823,7 +109823,8 @@
       },
       "account": "channel:dev",
       "attemptId": "9ca09844-150b-45c7-9750-1d369722d0bc",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf9f7a73130c476cfeb1baee50de9f80a9ce6f40a"
     }
   ]
 }
