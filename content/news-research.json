@@ -133321,9 +133321,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "9ebac6fe180baba39a23",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T10:18:48.000Z",
       "lastSeenAt": "2026-11-04T00:03:58.707Z",
       "articleSlug": "norkoreadenial",
@@ -133341,7 +133341,13 @@
         "updatedAt": "2026-11-06T01:37:11.496Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "duplicate",
+      "note": "Same event as content/articles/kimjong.md (published 2026-11-03): the Nov. 2 KCNA statement in which Kim Yo Jong denied the FBI's TraderTraitor attribution and called it a grave political provocation. The Decrypt report covers the identical statement already fully reported in the existing article.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-11-06T01:41:04.494Z",
+      "duplicateOf": "kimjong",
+      "lastReviewedDay": "2026-11-06"
     },
     "d738bbe96cb302288176": {
       "source": "CoinDesk",
@@ -133358,11 +133364,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "d738bbe96cb302288176",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T09:40:32.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "duplicate",
+      "note": "Same event as content/articles/kimjong.md (published 2026-11-03): North Korea's denial of the FBI's Binance hack attribution via the Nov. 2 KCNA statement. CoinDesk and Decrypt both cover that single statement, which the existing article already reports.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-11-06T01:41:04.495Z",
+      "duplicateOf": "kimjong",
+      "lastReviewedDay": "2026-11-06"
     },
     "cdbfe7141cd65f4aaab9": {
       "source": "The Defiant",
@@ -136434,11 +136446,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "6bc9c147b3eebd3e2cda",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-05T00:28:26.536Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-07T22:30:23.000Z",
-      "lastSeenAt": "2026-11-05T00:28:26.536Z"
+      "lastSeenAt": "2026-11-05T00:28:26.536Z",
+      "reason": "out-of-scope",
+      "note": "Headline concerns Asian equity indexes and oil prices after a US vote. No concrete crypto or blockchain event; it is macro price chatter with no on-topic development to report.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-11-06T01:41:04.495Z",
+      "lastReviewedDay": "2026-11-06"
     },
     "4051989b30ae1d4f9b2a": {
       "source": "Bitcoin Magazine",
@@ -263538,6 +263555,29 @@
           "retrySearches": [
             "Open and read the Cointelegraph report 'Mercado Bitcoin says phased reopening to begin Monday, will cover losses' (Nov 4) and Bloomberg's Nov 2 'Mercado Bitcoin Says It Will Absorb 0 Million Loss From Hack' as independent sources for the exchange's pledge to cover losses; retry the CoinDesk URL after its cooldown within the verification window"
           ]
+        },
+        "9ebac6fe180baba39a23": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same event as content/articles/kimjong.md (published 2026-11-03): the Nov. 2 KCNA statement in which Kim Yo Jong denied the FBI's TraderTraitor attribution and called it a grave political provocation. The Decrypt report covers the identical statement already fully reported in the existing article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-11-06T01:41:04.494Z",
+          "duplicateOf": "kimjong"
+        },
+        "d738bbe96cb302288176": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same event as content/articles/kimjong.md (published 2026-11-03): North Korea's denial of the FBI's Binance hack attribution via the Nov. 2 KCNA statement. CoinDesk and Decrypt both cover that single statement, which the existing article already reports.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-11-06T01:41:04.495Z",
+          "duplicateOf": "kimjong"
+        },
+        "6bc9c147b3eebd3e2cda": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Headline concerns Asian equity indexes and oil prices after a US vote. No concrete crypto or blockchain event; it is macro price chatter with no on-topic development to report.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-11-06T01:41:04.495Z"
         }
       },
       "baselineSlugs": [
