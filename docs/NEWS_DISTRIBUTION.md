@@ -108,7 +108,7 @@ Wave of November 5 (send run 41987599171, readback 41987798491): 9 targets, 8 de
 - **Added as excluded, never sent:** Techmeme (about pages expose only advertising routes — sponsor@, events@, my.podcast@ — no publisher-onboarding channel), KenyanWallstreet (peer news publisher, out of scope).
 - **No verifiable email published:** Worldnews (wn.com), Feed43, Netvibes, SmartNews contact/media retries, Webrazzi.
 
-Running totals after both waves: **101 receipts, 74 confirmed delivered, 22 bounced** (+3 stale `claimed` receipts held and never dispatched: BazQux, AllSides (feedback), The Old Reader — never sent; pending an explicit release decision).
+Running totals after both waves: **101 receipts, 74 confirmed delivered, 22 bounced** (+3 stale `claimed` receipts for BazQux, AllSides (feedback), The Old Reader — released for re-sending the same day via freshly verified routes; see the stale-claim-release section below. The November 6 reply-wave receipts are tracked separately above).
 
 Receipt files: `docs/publisher-outreach/expansion-*-2026-10-23.json` (filename date stamp is the registry batch id; Nov 4/5 sends share it).
 
@@ -116,7 +116,7 @@ Receipt files: `docs/publisher-outreach/expansion-*-2026-10-23.json` (filename d
 
 Screened the 1,531 received emails in the Resend receiving mailboxes (`received-emails-inventory-2026-11-05.json`): 10 threads respond to our outreach or ask onboarding questions; all landed in `hi@hashtagweb3.com`. Full reads via `resend-email-reply.mjs` batch-lookup (run 42130378223). Replies threaded with `In-Reply-To`/`References` from the receiving mailbox; receipts `docs/publisher-outreach/reply-thread-<id8>-2026-11-06.json`.
 
-Replies sent (7, accepted by Resend):
+Replies sent (8, accepted by Resend):
 
 | Thread | Resend send id | Answer |
 |---|---|---|
@@ -127,8 +127,11 @@ Replies sent (7, accepted by Resend):
 | Readly `support@readly.com` (`c76f9412…`) | `01a1b06d-031b…` | Confirmed filling their publishers form; supplied package. |
 | NewsPicks `support@newspicks.zendesk.com` (`6491991f…`) | `01a1b06d-acc4…` | Japanese reply confirming their 編成許諾申請フォーム submission. |
 | NewsBreak `publishers@newsbreak.com` (`2bc42eff…`) | `01a1b06e-3d81…` | Confirmed proceeding via mp.newsbreak.com/pss/signup registration; sent press kit. |
+| Cision `support@cision.com` (`7f6d4a8c…`) | `01a1b099-f32e…` | Live-support human (Kaustav) asked which account + whether RSS is set up: answered no Cision account exists (prospective source since November 4) and the feed is live (`hashtagweb3.com/news/feed.xml`), with specs, reach, AI-disclosure note, and a request for the correct onboarding path for a prospective source. |
 
-Runs: 42202597536 / 42202674028 / 42202749286 / 42202824048 (first four — the sends were accepted; only the final receipt write failed with GitHub 422 because the blob sha was missing; receipts were corrected locally from the Actions logs) and 42203716107 / 42203801788 / 42203886542 (last three, receipts written in-run). Script fixes in `scripts/resend-email-reply.mjs`: final write now supplies the blob sha, and the reply subject is used verbatim so helpdesk prefixes like `[Readly]` / `[NewsPicks サポート] 返信:` are preserved.
+Runs: 42202597536 / 42202674028 / 42202749286 / 42202824048 (first four — the sends were accepted; only the final receipt write failed with GitHub 422 because the blob sha was missing; receipts were corrected locally from the Actions logs) and 42203716107 / 42203801788 / 42203886542 (last three, receipts written in-run). Run 42209904406 (Kaustav reply): first fully clean run — send accepted, receipt written in-run and pushed automatically. Script fixes in `scripts/resend-email-reply.mjs`: final write now supplies the blob sha, and the reply subject is used verbatim so helpdesk prefixes like `[Readly]` / `[NewsPicks サポート] 返信:` are preserved.
+
+Fresh arrivals after the first screening were re-scanned (19 new emails since the November 5 snapshot, run 42209674863 batch-lookup where needed). Three more threads touched on our outreach:
 
 Threads read and deliberately **not** replied to:
 
@@ -136,6 +139,11 @@ Threads read and deliberately **not** replied to:
 - Dailyhunt (`cc9fb6c3…`) — Freshdesk auto-acknowledgment only, no question asked.
 - NoonLaunch (`59e868bc…`) — product-launch-directory marketing, not job/news/event feed inclusion; a possible `Stop` reply is pending a user decision.
 - NewsBreak's older thread (`67673f8c…`, community-profile reel) is superseded by the newer `2bc42eff…` application thread.
+- CisionOne `Support.CisionOne@cision.com` (`b36dab96…`) — internal handoff note ("connecting you with our Support team"); same conversation as `7f6d4a8c…`, answered there.
+- Readly auto-ack (`7ee19244…`) — no question asked. Key fact captured: 11 Readly markets, including the United States, joined Cafeyn, so for a US route the alternate path is `support.readly.co` (Cafeyn/"press" contact) in case the form's missing-US-country issue blocks submission.
+- NewsPicks auto-ack (`893271b2…`) — チケット **#105615** created; their 編成 team will review the 編成許諾申請フォーム request; no reply needed while they assess.
+
+Everything else that arrived after midnight November 6 is off-topic for this program and untouched: Substack self-notifications/stats, `dmarcreport@microsoft.com` DMARC digests, vendor/outsource pitches (Subsig Black-Friday feature request, Abar Alms virtual-assistant follow-ups, Chiefs of Staff Singapore event promo, Asia Bankers Club property-report newsletter, Bluepoint Servers mailers) and one social chat message — none are publisher-onboarding platforms or feed-inclusion threads.
 
 Form follow-ups started on November 6 (receipts `form-readly-2026-11-06.json`, `form-newspicks-2026-11-06.json`):
 
