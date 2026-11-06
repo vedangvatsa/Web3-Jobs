@@ -108273,7 +108273,8 @@
       },
       "account": "channel:base",
       "attemptId": "85eb7dab-42c6-4d4e-8a93-d255497cba3e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x95becf07493977f3006ad78f0102e8fee5dcd057"
     }
   ]
 }
