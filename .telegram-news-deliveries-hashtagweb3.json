@@ -3078,5 +3078,36 @@
     "slotKey": "2026-11-05:morning",
     "messageId": 156088,
     "sentAt": "2026-11-05T03:33:26.999Z"
+  },
+  "c2cc0f9f-4383-44f9-b9a7-ef6841535959": {
+    "status": "reserved",
+    "reservedAt": "2026-11-06T03:33:15.270Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Aztec Releases Tierra Upgrade to Fix Proving Flaw",
+        "summary": "The update adds formal cryptographic verification and reduces cross-chain message delivery times to 12 seconds.",
+        "link": "https://hashtagweb3.com/aztectierra?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Aztec Launches Tierra Upgrade, Patching Critical Flaw in Privacy Network"
+      },
+      {
+        "index": -1,
+        "headline": "Liquid Network restores full bitcoin backing after exploit",
+        "summary": "The network replaced 600 missing bitcoin, though direct withdrawals remain limited following the September security breach.",
+        "link": "https://hashtagweb3.com/liquidbacking?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Liquid Network restores full bitcoin backing two months after exploit"
+      },
+      {
+        "index": -1,
+        "headline": "Moscow Exchange to Launch Crypto Trading on December 1",
+        "summary": "The exchange will offer bitcoin, ether, and USDT trading cleared through the National Clearing Center.",
+        "link": "https://hashtagweb3.com/moexcrypto?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Moscow Exchange Sets Dec. 1 for Bitcoin, Ether and USDT Trading"
+      }
+    ],
+    "slotKey": "2026-11-06:morning"
   }
 }
