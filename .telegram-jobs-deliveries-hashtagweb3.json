@@ -7980,5 +7980,121 @@
     "slotKey": "2026-11-06:morning",
     "messageId": 156103,
     "sentAt": "2026-11-06T03:33:07.149Z"
+  },
+  "43ac46b8-00e4-4997-9d59-b176da75b584": {
+    "status": "reserved",
+    "reservedAt": "2026-11-06T11:32:38.009Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "d948c040-c557-4046-8c28-b96273e49a75",
+          "title": "Head of Retention",
+          "company": "Polymarket",
+          "link": "https://jobs.ashbyhq.com/Polymarket/d948c040-c557-4046-8c28-b96273e49a75",
+          "date": "2026-10-22T20:37:30.697+00:00",
+          "source": "Ashby: Polymarket [Polymarket]",
+          "location": "New York",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ret"
+        },
+        "key": "d948c040-c557-4046-8c28-b96273e49a75",
+        "slug": "ret",
+        "url": "https://hashtagweb3.com/ret?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Polymarket",
+        "title": "Head of Retention"
+      },
+      {
+        "snapshot": {
+          "id": "6222799004",
+          "title": "Senior DevOps Engineer",
+          "company": "Localcoin",
+          "link": "https://job-boards.greenhouse.io/localcoin/jobs/6222799004",
+          "date": "2026-10-14T16:08:44-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Localcoin [localcoin]",
+          "location": "Canada",
+          "department": "Engineering & Data",
+          "active": true,
+          "salary": "$150k – $180k/yr",
+          "dateVerified": true,
+          "slug": "do14"
+        },
+        "key": "6222799004",
+        "slug": "do14",
+        "url": "https://hashtagweb3.com/do14?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Localcoin",
+        "title": "Senior DevOps Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "dd5026d8-f20d-4274-af65-5b7ef5c0a175",
+          "title": "Principal Designer, Otherlife",
+          "company": "MoonPay",
+          "link": "https://jobs.lever.co/moonpay/dd5026d8-f20d-4274-af65-5b7ef5c0a175",
+          "date": "2026-10-27T11:38:58.069Z",
+          "source": "Lever: MoonPay [moonpay]",
+          "location": "New York - Hybrid",
+          "workplaceType": "hybrid",
+          "department": "Otherlife",
+          "active": true,
+          "dateVerified": true,
+          "slug": "des14"
+        },
+        "key": "dd5026d8-f20d-4274-af65-5b7ef5c0a175",
+        "slug": "des14",
+        "url": "https://hashtagweb3.com/des14?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "MoonPay",
+        "title": "Principal Designer"
+      },
+      {
+        "snapshot": {
+          "id": "6231972004",
+          "title": "VP, Finance Engineering - Mumbai",
+          "company": "Galaxy Digital",
+          "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6231972004",
+          "date": "2026-10-22T09:25:07-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+          "location": "India",
+          "department": "Corporate",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng214"
+        },
+        "key": "6231972004",
+        "slug": "eng214",
+        "url": "https://hashtagweb3.com/eng214?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Galaxy Digital",
+        "title": "VP, Finance Engineering"
+      },
+      {
+        "snapshot": {
+          "id": "7979592002",
+          "title": "AV Engineer",
+          "company": "Jane Street",
+          "link": "https://www.janestreet.com/join-jane-street/apply/7979592002?gh_jid=7979592002",
+          "date": "2026-10-20T22:06:19-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Jane Street [janestreet]",
+          "location": "Hong Kong",
+          "department": "IT and Systems Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng643"
+        },
+        "key": "7979592002",
+        "slug": "eng643",
+        "url": "https://hashtagweb3.com/eng643?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Jane Street",
+        "title": "AV Engineer"
+      }
+    ],
+    "message": "- Polymarket is hiring <a href=\"https://hashtagweb3.com/ret?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Retention</a>\n- Localcoin is hiring <a href=\"https://hashtagweb3.com/do14?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior DevOps Engineer</a>\n- MoonPay is hiring <a href=\"https://hashtagweb3.com/des14?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal Designer, Otherlife</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/eng214?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VP, Finance Engineering - Mumbai</a>\n- Jane Street is hiring <a href=\"https://hashtagweb3.com/eng643?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AV Engineer</a>",
+    "slotKey": "2026-11-06:afternoon"
   }
 }
