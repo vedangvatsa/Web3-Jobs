@@ -429,6 +429,7 @@ const REGIONAL_FEEDS: FeedConfig[] = [
   { company: 'Amber Group',    type: 'bamboo',     slug: 'ambergroup',    url: 'https://ambergroup.bamboohr.com/careers/list',                                skills: ['Web3','Blockchain','Crypto','Fintech'] },
   { company: 'Animoca Brands', type: 'lever',      slug: 'animocabrands', url: 'https://api.lever.co/v0/postings/animocabrands?mode=json',                    skills: ['Web3','Blockchain','Crypto','Fintech'] },
   { company: 'BitOasis',       type: 'keka',       slug: 'dcx',           url: 'https://dcx.keka.com/careers/api/embedjobs/default/active/a19960b8-1dc8-4788-9544-3335b26ea14a', skills: ['Web3','Crypto','Exchange','MENA'] },
+  { company: 'Liminal',        type: 'keka',       slug: 'liminal',       url: 'https://liminal.keka.com/careers/api/embedjobs/default/active/44fcd779-dfa4-4e94-a077-e18fcd4338d4', skills: ['Web3','Crypto','Custody','Security','Infrastructure'] },
 ];
 
 const UNTRACKED_FEEDS: FeedConfig[] = [

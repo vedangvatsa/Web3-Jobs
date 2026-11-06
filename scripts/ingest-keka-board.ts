@@ -66,39 +66,58 @@ function cleanKekaDescriptionHtml(rawHtml: string, companyName: string): string 
     .replace(/<(div|p)>\s*(?:<br\s*\/?>)?\s*<\/\1>/gi, '')
     .trim();
 
+  if (companyName.toLowerCase() === 'bitoasis' && !/BitOasis is/i.test(html.slice(0, 300))) {
+    const intro = '<p><strong>About BitOasis:</strong> BitOasis is the leading cryptocurrency trading platform in the Middle East and North Africa (MENA), providing secure trading, liquidity, and OTC execution across the GCC region.</p>';
+    html = `${intro}\n\n${html}`;
+  } else if ((companyName.toLowerCase() === 'liminal' || companyName.toLowerCase() === 'liminal custody') && !/Liminal (is|provides|delivers)/i.test(html.slice(0, 300))) {
+    const intro = '<p><strong>About Liminal Custody:</strong> Liminal Custody is an enterprise-grade digital asset custody and wallet infrastructure platform providing automated treasury operations, multi-signature transaction policy controls, and institutional security for financial institutions across APAC and MENA.</p>';
+    html = `${intro}\n\n${html}`;
+  }
+
   return sanitizeJobDescriptionHtml(html, companyName);
 }
 
-function resolveJobLocation(job: KekaJob): string {
+function resolveJobLocation(job: KekaJob): { location: string; isRemote?: boolean } {
   const loc = job.jobLocations?.[0];
   const country = loc?.countryName?.toLowerCase() || '';
   const city = loc?.city?.trim() || '';
+  const name = loc?.name?.toLowerCase() || '';
+
+  if (name.includes('work from home') || city.toLowerCase().includes('work from home')) {
+    if (country.includes('india') || loc?.countryCode === 'IN') {
+      return { location: 'Remote, India', isRemote: true };
+    }
+    if (country.includes('indonesia') || loc?.countryCode === 'ID') {
+      return { location: 'Remote, Indonesia', isRemote: true };
+    }
+    return { location: 'Remote', isRemote: true };
+  }
 
   if (country.includes('emirates') || country.includes('uae') || loc?.countryCode === 'AE' || city.toLowerCase() === 'dubai') {
-    return 'Dubai, United Arab Emirates';
+    return { location: 'Dubai, United Arab Emirates' };
   }
   if (country.includes('jordan') || loc?.countryCode === 'JO' || city.toLowerCase() === 'amman' || job.salaryRange?.currency === 'JOD') {
-    return 'Amman, Jordan';
+    return { location: 'Amman, Jordan' };
   }
   if (country.includes('bahrain') || loc?.countryCode === 'BA' || loc?.countryCode === 'BH' || city.toLowerCase() === 'manama' || job.salaryRange?.currency === 'BHD') {
-    return 'Manama, Bahrain';
+    return { location: 'Manama, Bahrain' };
   }
   if (country.includes('india') || loc?.countryCode === 'IN' || city.toLowerCase().includes('bangalore') || city.toLowerCase().includes('bengaluru')) {
-    return 'Bengaluru, India';
+    return { location: 'Bengaluru, India' };
   }
-  if (country.includes('taiwan') || loc?.countryCode === 'TW') {
-    return 'Taipei, Taiwan';
+  if (country.includes('taiwan') || loc?.countryCode === 'TW' || city.toLowerCase().includes('taipei')) {
+    return { location: 'Taipei, Taiwan' };
   }
-  if (country.includes('indonesia') || loc?.countryCode === 'ID') {
-    return 'Jakarta, Indonesia';
+  if (country.includes('indonesia') || loc?.countryCode === 'ID' || city.toLowerCase().includes('jakarta')) {
+    return { location: 'Jakarta, Indonesia' };
   }
   if (city && loc?.countryName) {
-    return `${city}, ${loc.countryName}`;
+    return { location: `${city}, ${loc.countryName}` };
   }
   if (loc?.name?.trim()) {
-    return loc.name.trim();
+    return { location: loc.name.trim() };
   }
-  return 'Remote';
+  return { location: 'Remote' };
 }
 
 function formatSalary(job: KekaJob): string | undefined {
@@ -157,7 +176,8 @@ async function main() {
     const link = String(j.link || '').toLowerCase();
     const isThisSource = s === source.toLowerCase() || s === `keka: ${company}`.toLowerCase();
     const isBitOasisLegacy = company.toLowerCase() === 'bitoasis' && (s.includes('bitoasis') || link.includes('dcx.keka.com'));
-    return !isThisSource && !isBitOasisLegacy;
+    const isLiminalLegacy = (company.toLowerCase() === 'liminal' || company.toLowerCase() === 'liminal custody') && (s.includes('liminal') || link.includes('liminal.keka.com'));
+    return !isThisSource && !isBitOasisLegacy && !isLiminalLegacy;
   });
 
   const store = readJobDescriptionStore(root);
@@ -179,7 +199,7 @@ async function main() {
       continue;
     }
 
-    const location = resolveJobLocation(kj);
+    const locResult = resolveJobLocation(kj);
     const existing = previousByLink.get(link) || previousById.get(`keka-${board}-${kj.id}`) || previousById.get(`${company.toLowerCase()}-keka-${kj.id}`);
     const id = existing ? existing.id : `keka-${board}-${kj.id}`;
     const cleanHtml = cleanKekaDescriptionHtml(kj.description, company);
@@ -192,10 +212,13 @@ async function main() {
       title,
       company,
       link,
-      location,
+      location: locResult.location,
+      ...(locResult.isRemote && { isRemote: true }),
       department,
       type: 'Full-time',
       date,
+      dateVerified: true,
+      dateSource: 'Keka.JobPosting.publishedOn',
       source,
       applyUrl: link,
       active: true,

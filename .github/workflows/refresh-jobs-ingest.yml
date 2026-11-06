@@ -62,6 +62,10 @@ jobs:
         run: npx tsx scripts/ingest-keka-board.ts dcx "BitOasis"
         continue-on-error: true
 
+      - name: Ingest Liminal Custody Keka jobs
+        run: npx tsx scripts/ingest-keka-board.ts liminal "Liminal"
+        continue-on-error: true
+
       - name: Ingest Official CoinDCX job openings
         run: npx tsx scripts/ingest-coindcx-official.ts
         continue-on-error: true

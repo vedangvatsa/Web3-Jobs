@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-11-06T22:32:56.887Z",
+  "generatedAt": "2026-11-06T23:28:25.181Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 3699,
+  "count": 3708,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -1396,6 +1396,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/aso81",
+      "lastmod": "2026-10-27",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/aspora",
       "lastmod": "2026-10-31",
       "changefreq": "weekly",
@@ -1698,6 +1704,12 @@
     {
       "url": "https://hashtagweb3.com/be109",
       "lastmod": "2026-11-05",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/be110",
+      "lastmod": "2026-10-19",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -7240,6 +7252,18 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/eng722",
+      "lastmod": "2026-10-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/eng723",
+      "lastmod": "2026-11-04",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/eng82",
       "lastmod": "2026-10-16",
       "changefreq": "daily",
@@ -10649,7 +10673,7 @@
     },
     {
       "url": "https://hashtagweb3.com/liminal-custody",
-      "lastmod": "2026-10-14",
+      "lastmod": "2026-11-04",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -10789,6 +10813,12 @@
       "url": "https://hashtagweb3.com/london",
       "lastmod": "2026-10-02",
       "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/london-nov-06",
+      "lastmod": "2026-11-06",
+      "changefreq": "weekly",
       "priority": 0.6
     },
     {
@@ -14596,6 +14626,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/pm368",
+      "lastmod": "2026-11-03",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/pm37",
       "lastmod": "2026-10-16",
       "changefreq": "daily",
@@ -18022,6 +18058,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/sls431",
+      "lastmod": "2026-10-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/sls45",
       "lastmod": "2026-10-16",
       "changefreq": "daily",
@@ -18740,6 +18782,12 @@
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/suye-art-ordinals-btc-meetup-ordinal-io-museum-eta",
+      "lastmod": "2026-11-06",
+      "changefreq": "weekly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/swift-for-blockchain-explained",
@@ -21854,6 +21902,12 @@
       "lastmod": "2026-10-22",
       "changefreq": "daily",
       "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/wolfswap-x-crypto-com-mixer-bitcoin-amsterdam-edition",
+      "lastmod": "2026-11-06",
+      "changefreq": "weekly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/women-in-tech-global-summit",
