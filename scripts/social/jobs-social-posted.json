@@ -107556,7 +107556,8 @@
       },
       "account": "channel:ai",
       "attemptId": "4a72a8f0-bb55-44bd-b2e8-2f49021bb25f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x04932917094d272506f1b726e187e44975bc0a8e"
     }
   ]
 }
