@@ -110281,6 +110281,46 @@
       "verification": "verified",
       "postId": "6aedbc7970ee7e2aa701c532",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524435408558940160"
+    },
+    {
+      "slug": "dpc",
+      "company": "Riot Platforms",
+      "title": "Director, Project Controls",
+      "platform": "linkedin",
+      "postedAt": "2026-11-06T11:36:33.727Z",
+      "expectedText": "Riot Platforms is hiring Director, Project Controls: https://hashtagweb3.com/dpc/li?og=7",
+      "snapshot": {
+        "id": "3c30cca2-5612-4ed0-9af3-02765577733c",
+        "title": "Director, Project Controls",
+        "company": "Riot Platforms",
+        "link": "https://ats.rippling.com/riot-platforms-careers/jobs/3c30cca2-5612-4ed0-9af3-02765577733c",
+        "date": "2026-10-12T16:46:38.185000-07:00",
+        "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+        "location": "Remote",
+        "department": "Executive Management",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dpc"
+      },
+      "payload": {
+        "text": "Riot Platforms is hiring Director, Project Controls: https://hashtagweb3.com/dpc/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/dpc/li?og=7",
+          "title": "Director, Project Controls at Riot Platforms",
+          "description": "Join Riot Platforms as Director, Project Controls. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/dpc.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "db21d2e4-1bd1-43bd-9ce2-6e481fd627d8",
+      "verification": "creating"
     }
   ]
 }
