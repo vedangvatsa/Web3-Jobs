@@ -2,17 +2,6 @@
   "applied": true,
   "records": [
     {
-      "id": "token2049-side-6aa41e96c0426d278bd87cfe",
-      "words": 202,
-      "source": {
-        "url": "https://www.token2049.com/singapore/nexus-startup-competition",
-        "fetchedAt": "2026-09-21T05:12:52.947Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "NEXUS Startup Competition | TOKEN2049 | 7-8 October 2026 | Singapore",
-        "sha256": "ecde96c36405ad85a9fb05dd26a11ad9af6328a05abaf4f62605a0dd09df0c92"
-      }
-    },
-    {
       "id": "token2049-side-6aa41f2ac0426d278bd87d05",
       "words": 202,
       "source": {

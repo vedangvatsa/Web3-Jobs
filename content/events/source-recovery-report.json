@@ -54,23 +54,6 @@
       ]
     },
     {
-      "id": "token2049-side-6aa41e96c0426d278bd87cfe",
-      "outcome": "recovered",
-      "sourceUrl": "https://www.token2049.com/singapore/nexus-startup-competition",
-      "reason": "This is a session of NEXUS, not a separately titled conference. Verified the program-level description without replacing the first round's calendar date.",
-      "fetchedAt": "2026-09-20T07:56:56.531Z",
-      "characters": 801,
-      "changes": [
-        "description",
-        "descriptionSource",
-        "website",
-        "registrationUrl",
-        "venueName",
-        "registrationAvailability",
-        "slug"
-      ]
-    },
-    {
       "id": "token2049-side-6a71f32ad1b48ddf39d09b86",
       "outcome": "recovered",
       "sourceUrl": "https://luma.com/8oxs8lco",

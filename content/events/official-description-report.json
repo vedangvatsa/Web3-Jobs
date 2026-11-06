@@ -1544,33 +1544,6 @@
       "preview": "Stop random networking. Connect with high-intent partners at events & online. Turn conversations into deals."
     },
     {
-      "id": "token2049-side-6a7399105a75007b41001064",
-      "file": "events-cache.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://milkeninstitute.org/events/asia-summit-2026",
-        "fetchedAt": "2026-09-20T00:21:00.681Z",
-        "method": "official-section",
-        "pageTitle": "Asia Summit 2026 | Milken Institute",
-        "sha256": "273107efc012d42e075297c1a7725cb44d2495585878f0300a23e4cd509dd05f"
-      },
-      "previousStartDate": "2026-10-07T08:00:00+08:00",
-      "characters": 4174,
-      "preview": "## Asia Summit 2026\n\nThe 2026 Milken Institute Asia Summit brings together a global community of influential leaders shaping the next era of intelligence, collaboration, and growth. The event is where capital comes to find the best ideas and participants forge new partnerships to lead transformation at scale toward greater shared prosperity.Under the theme Leading with Intelligence, the 13th Asia Summit explores how technology, information, and human judgment can address the defining economic, geopolitical, demographic, and environmental challenges facing Asia and the world. Across our core programmatic themes of business, finance, philanthropy, and health, and a new track on AI innovation, investment, and sovereignty, the event convenes leaders from across industries and sectors for thoug"
-    },
-    {
-      "id": "token2049-side-6aa41e96c0426d278bd87cfe",
-      "file": "events-cache.json",
-      "name": "NEXUS Startup Competition First Round",
-      "status": "unavailable",
-      "attempts": [
-        {
-          "url": "https://www.token2049.com/singapore/nexus-startup-competition",
-          "reason": "event-not-matched"
-        }
-      ]
-    },
-    {
       "id": "token2049-side-6a51f5783438be070d7a99e0",
       "file": "events-cache.json",
       "status": "source-backed",

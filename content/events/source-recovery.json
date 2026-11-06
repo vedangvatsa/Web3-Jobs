@@ -32,23 +32,6 @@
       "reason": "The event-specific registration page confirms 9 October, replacing the incorrect 7 October record linked to a company homepage."
     },
     {
-      "id": "token2049-side-6aa41e96c0426d278bd87cfe",
-      "kind": "reviewed",
-      "sourceUrl": "https://www.token2049.com/singapore/nexus-startup-competition",
-      "contains": [
-        "NEXUS 2026 applications are closed",
-        "7-8 Oct",
-        "Startup Competition",
-        "Applying is free, and selection is merit-based"
-      ],
-      "description": "NEXUS is TOKEN2049's startup competition for early-stage crypto companies. The organizer's 2026 competition runs on 7–8 October in Singapore, with founders pitching for equity-free prizes and meeting Web3 investors.\n\n## Competition\n\nThe organizer lists a $250,000 prize pool and ten finalists. Startups must have been incorporated from 2023 onwards and raised less than $5 million in investments. Applying is free, and selection is merit-based.\n\n## Finalist access\n\nTop ten finalists receive a complimentary startup stand, full TOKEN2049 access on 7–8 October, speaker perks, three complimentary team tickets, photography and session recordings, and event marketing coverage.\n\n## Application status\n\nNEXUS 2026 applications are closed. The organizer is accepting waitlist registrations for NEXUS 2027.",
-      "patch": {
-        "venueName": "Marina Bay Sands",
-        "registrationAvailability": "applications-closed"
-      },
-      "reason": "This is a session of NEXUS, not a separately titled conference. Verified the program-level description without replacing the first round's calendar date."
-    },
-    {
       "id": "token2049-side-6a71f32ad1b48ddf39d09b86",
       "kind": "luma",
       "sourceUrl": "https://luma.com/8oxs8lco",

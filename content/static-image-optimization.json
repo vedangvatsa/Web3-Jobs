@@ -825,10 +825,6 @@
       "sha256": "1cfb2668ff84b85d9dd520c9e8290af9a162bd4e4e762d2021dc6329086236ef",
       "status": "optimized"
     },
-    "/events/kbw-official-token-sale-summit-2026-09-30-29fc2629.webp": {
-      "sha256": "b09cec4e531ca81b63b1f70b07516fe32f9952aa35f77a3d305b55342047928e",
-      "status": "optimized"
-    },
     "/events/l2beat-62fd8259.webp": {
       "sha256": "a7abfd6979fd8c083f4ce952366614e2dee7d3dc206a68d85d3a21b00d16f511",
       "status": "optimized"
@@ -971,10 +967,6 @@
     },
     "/events/luma-batch-evt5Kquymowmz16z-ea12d6bc.webp": {
       "sha256": "c7105b41d77eb35a0a2f4e05dfa27a1f20abee83ce44874f3de8cf9db88b1945",
-      "status": "optimized"
-    },
-    "/events/luma-batch-evt5SDj8waYYZ3uR-c831f3d2.webp": {
-      "sha256": "c2febe29232f83316e88fa875b2090cfade012f0bb0f3001c29416b6c5b9e28b",
       "status": "optimized"
     },
     "/events/luma-batch-evt5ynGGxaokhFV8-1a101e1e.webp": {
@@ -1161,10 +1153,6 @@
       "sha256": "7a87571ce80d773089d2cf6d9fe569ea902ac271d20471c5319a5cf7a06cb78b",
       "status": "retained"
     },
-    "/events/luma-batch-evtRreF4EjyJVHW1-48acc777.webp": {
-      "sha256": "9fcf2e2c724ddcb423e82d3255610c74e8ea2a9e5014d262a3d8f6dbbaa58abd",
-      "status": "optimized"
-    },
     "/events/luma-batch-evtS05EzhQE2Xcgn-a0a9c54b.webp": {
       "sha256": "1f4f8cbc47774d11fd37d82d28bd0c45c46c8da657d074a9ec0aa84ac0d503f5",
       "status": "optimized"
@@ -1180,10 +1168,6 @@
     "/events/luma-batch-evtTLKtXKvfrATFZ-04d8774d.webp": {
       "sha256": "e01201a36da65d2aabae6def40be05220b0672f476d40d6a3efcf162ead50f4b",
       "status": "optimized"
-    },
-    "/events/luma-batch-evtTuPU87cE2mnqd-2101e5eb.webp": {
-      "sha256": "7a87571ce80d773089d2cf6d9fe569ea902ac271d20471c5319a5cf7a06cb78b",
-      "status": "retained"
     },
     "/events/luma-batch-evtUtC4gkKlD3EKN-e70b94e4.webp": {
       "sha256": "32ddd337e0170afc4577d5e946cce31b23be8727fba97065376d7fd6a55f56c7",
@@ -1205,14 +1189,6 @@
       "sha256": "6799c69349fbb65f8114a31530d9b3afb2120fbc86f3b50a355fd2decb7e8130",
       "status": "retained"
     },
-    "/events/luma-batch-evtXEwL2ZQxOZw7U-612bd28f.webp": {
-      "sha256": "da197aec42f4ee2994296002828cc7c43c84e7a315c587f485e3c60c10c57e76",
-      "status": "optimized"
-    },
-    "/events/luma-batch-evtXgXZIuKMToarc-b4bd03f6.webp": {
-      "sha256": "00e6521ccaf089c3961dceeeb7eae6aa920119fec713c5c7b4383e777b6950f7",
-      "status": "optimized"
-    },
     "/events/luma-batch-evtXmYZu9qMoaw8Y-f2ba07a4.webp": {
       "sha256": "cd6a2a4b582053367b7d85f2135a29a39f9ff375ccb11033723044436bcb32de",
       "status": "optimized"
@@ -1227,10 +1203,6 @@
     },
     "/events/luma-batch-evtZJzbrUXrq27u4-7d83cf58.webp": {
       "sha256": "be0daa7fe645725940300ebfb5d6adb0e9d930ce80dcbfbd8b9f118d419d3099",
-      "status": "optimized"
-    },
-    "/events/luma-batch-evtZLf9lBj5M4B6S-4c4e8fab.webp": {
-      "sha256": "d20f62862aa7fbf595b18df381fb81c30244bd2415841f07f93585acfb7cfa1d",
       "status": "optimized"
     },
     "/events/luma-batch-evtaLEbGCs8Z0JVJ-34408965.webp": {
@@ -1248,10 +1220,6 @@
     "/events/luma-batch-evtceTF1z3WvKJ1i-4eea03f2.webp": {
       "sha256": "f66a311798b79a0cb0d9edea11ee75409c0fbaf7ca26d552cc483e052c6d7f0e",
       "status": "retained"
-    },
-    "/events/luma-batch-evtcp7WVEPB7iUm9-c438c70d.webp": {
-      "sha256": "45de1d0e5ebef9678c4be88a75915aab3911305cc5d7d72083f2bdd977d6599a",
-      "status": "optimized"
     },
     "/events/luma-batch-evtd1RGKYQGL43kY-fba4693c.webp": {
       "sha256": "070677b83913e373748f2cc0588f15a7acfdcb64a01ce78f78a270ba0ef685e9",
@@ -1389,10 +1357,6 @@
       "sha256": "f8d8957e833dd659221f6c0968cf1f73ca6ceabd4bf5c6aed9ae83f430a9d25d",
       "status": "optimized"
     },
-    "/events/luma-batch-evtxXrOExH1UJ0fZ-f3e7ff91.webp": {
-      "sha256": "26eb8945665c481520f3397fd3916a66ceae91bee2293889e4ede030fb9b5271",
-      "status": "optimized"
-    },
     "/events/luma-batch-evtxsQpQLAW6ikXL-3561b6b8.webp": {
       "sha256": "8316649024f6e48ca147654303e9251086e04635ffe51555f54118a59c31e261",
       "status": "optimized"
@@ -1471,10 +1435,6 @@
     },
     "/events/luma-batch-yCu03jZbXJloNc6-f8f6afaf.webp": {
       "sha256": "0f0076532509ee1df2b4a65ff174783d308a566b489188bd9ba42bce70626899",
-      "status": "optimized"
-    },
-    "/events/luma-batch-zBY3ww5MbYNJJ7Z-eac9d41d.webp": {
-      "sha256": "8b4a4d7d43f8f6bc199167c2be96b687b5ce5d3b296594f198d42031798a6b8c",
       "status": "optimized"
     },
     "/events/luma-crypto-03ay9mf3wbtvmuc-7405e97d.webp": {
@@ -1557,10 +1517,6 @@
       "sha256": "c9b789f3cce443ce2cc7ccd1f5e0156a0a69bbc1ef73935a887c471c4e3bc0d8",
       "status": "optimized"
     },
-    "/events/luma-crypto-axvuegt2sbxjo1i-eec8c5b5.webp": {
-      "sha256": "b87e026e0931bf5c34151ac961f6070724936441291caa16bba028f1bf637066",
-      "status": "optimized"
-    },
     "/events/luma-crypto-az6et278gzsui8o-7c7bee85.webp": {
       "sha256": "564e6d2c66552b7b3afc96e57266b972a1e7f3376c43550acb1914bb3dbe5546",
       "status": "optimized"
@@ -1635,10 +1591,6 @@
     },
     "/events/luma-crypto-ee9mycfcpegkv5p-f4663475.webp": {
       "sha256": "cb360633e3713f95ac6c54337b91403a3100a1af554baf135536f6f30b6fec92",
-      "status": "retained"
-    },
-    "/events/luma-crypto-eiexoplhof0mz7e-4677f9bb.webp": {
-      "sha256": "0c53b5adfa65bcf7cc5a02669474770d77e4e5ffec319a7a63a88970a1d74e36",
       "status": "retained"
     },
     "/events/luma-crypto-f8zfnryxccbiuod-6bc42a71.webp": {
@@ -1821,10 +1773,6 @@
       "sha256": "9c1c16a7875c2b7f2f9e269e9c1a00d0ed74393e5cc83cd467eadec8425338c2",
       "status": "optimized"
     },
-    "/events/luma-crypto-q2d3rnyebnrqk1s-4d2832af.webp": {
-      "sha256": "64661e05e8b51ffdf380210cdf5d84f9f26b030e025904c9170141ffb7ba0f2c",
-      "status": "optimized"
-    },
     "/events/luma-crypto-q5k80wkugz3lw6m-93ee040b.webp": {
       "sha256": "fa819b5e949844c7d402751efa53ff7f5eb36027bc7bb5d3570c56ce87c32c8a",
       "status": "optimized"
@@ -1847,10 +1795,6 @@
     },
     "/events/luma-crypto-rhjdzq9ow33bh2u-894ff306.webp": {
       "sha256": "4e4bebcec828516157fb7c0f0f94879ac687ad37c281067159ffc3c0032cbba6",
-      "status": "optimized"
-    },
-    "/events/luma-crypto-rnqe894tjapngnb-20370e8d.webp": {
-      "sha256": "be704c18da2d892bc5475da9514c4ba9097f76540389a275e83a2fff6d1dff53",
       "status": "optimized"
     },
     "/events/luma-crypto-rvtrhofrzju1t4g-e7b1698a.webp": {
@@ -4149,16 +4093,8 @@
       "sha256": "56e2f0054d30b146c47755fc37d7946d00837af3befeb2bcd37d6bea3fd956a2",
       "status": "optimized"
     },
-    "/events/token2049-ea89b871a8872b45-5d9853a0.webp": {
-      "sha256": "c47017a09416826e13ac0e7cc7c18cfd5ea48cf58da0b9eb53d74ab07364997c",
-      "status": "optimized"
-    },
     "/events/token2049-evt-02wya6n0r8gtkjy-8dd7a893.webp": {
       "sha256": "3291becd1817a6d54054b12071331f767052798c4af9cee965001b29f48dccee",
-      "status": "optimized"
-    },
-    "/events/token2049-evt-05zrsyxay61qedv-a9bb8299.webp": {
-      "sha256": "5cafa4fdd39ab9a3b31236b552fe9bc4b5a38b8cb88ae1a5d43bb1dab1c415f2",
       "status": "optimized"
     },
     "/events/token2049-evt-11ujwiio5yiljql-be2a9d6a.webp": {
@@ -4191,14 +4127,6 @@
     },
     "/events/token2049-evt-36uw5pvpezk0wco-626d0847.webp": {
       "sha256": "c822085342d2984ddf2d1ebd83ce88ef7d8591da8e2fa863f7ef121f5f1ebfd2",
-      "status": "optimized"
-    },
-    "/events/token2049-evt-3sbvtx3c28sugck-90af0df5.webp": {
-      "sha256": "7339a83eb09280555485847ed20ac2e2521448d04bebb1e50e345cfc6caa9cf9",
-      "status": "optimized"
-    },
-    "/events/token2049-evt-4t1sjpoxvvvgcs1-d8a97665.webp": {
-      "sha256": "184025a67a610ac0254e73519d9275df5ae8775191daa6640311db4f5cc3414b",
       "status": "optimized"
     },
     "/events/token2049-evt-57e5wz1bv6aay59-7501aca7.webp": {
@@ -4245,18 +4173,6 @@
       "sha256": "41421a4e03372299a69ddc39bf4fab4b1b2ccf1a89f6c7f5f02ef33eb229e57b",
       "status": "optimized"
     },
-    "/events/token2049-evt-8sgxzcvzcezl0vx-3aef891e.webp": {
-      "sha256": "b504a95748cdf2de53499390bbdc62962aaac4f0c49c8cb4759a3a9bbd92cf91",
-      "status": "optimized"
-    },
-    "/events/token2049-evt-9bf0rttiimrivub-3541083a.webp": {
-      "sha256": "ed60b6c18ac314576f43e26f3c8117e9357382fa96b5f9e9ee0fd1231e252af8",
-      "status": "optimized"
-    },
-    "/events/token2049-evt-9jk0xfr7dnwgyb7-de97fb0a.webp": {
-      "sha256": "1eb482e57bbec79ce7f3d1f0615767688e565de50e1b64bb50522a9ae73aab76",
-      "status": "optimized"
-    },
     "/events/token2049-evt-9s05g3rbehads4s-f03a08a3.webp": {
       "sha256": "2861ec1382e1282f23a019aebef20f98edff38021860c23566110e17d9a0bac4",
       "status": "optimized"
@@ -4271,10 +4187,6 @@
     },
     "/events/token2049-evt-akip9cll7fjssgc-c4ced95b.webp": {
       "sha256": "c8b6c1ddd1a7f54c95eb32eb7fde66b38a7f930ad3d706e7febd6ff57bf36ef1",
-      "status": "optimized"
-    },
-    "/events/token2049-evt-asicrurya98d7sd-e98e5890.webp": {
-      "sha256": "ff765d955e0272d92afdbccb928a39a1943d31e4d0a96a8aacf7c8d816188d0a",
       "status": "optimized"
     },
     "/events/token2049-evt-awwijhnae4an4kf-0338e5c4.webp": {
@@ -4299,14 +4211,6 @@
     },
     "/events/token2049-evt-bwojuqwll59wifc-6d57296d.webp": {
       "sha256": "578e069dcdabe23c658d2f18c8a73177ec7a4d2b57e849b040548fa7044896d5",
-      "status": "optimized"
-    },
-    "/events/token2049-evt-c5y68vtntlkcekd-d2e036e2.webp": {
-      "sha256": "029be92516142c16c82632d5fe4b91c24fd1c0b7a6f593ba9700d458ef63b2d7",
-      "status": "optimized"
-    },
-    "/events/token2049-evt-c6abjtmtcepbffl-78d06711.webp": {
-      "sha256": "7502428da1ce07ce4fdb1c3b9e7eb12ee3348f65371ae9498cada88ceaec4bca",
       "status": "optimized"
     },
     "/events/token2049-evt-c8trdqaypd8wfbw-3d50c513.webp": {
@@ -4441,14 +4345,6 @@
       "sha256": "6258b89b31e28a30b7f687b6ee6850676a7832e6ba41f6bf7b666af681f3a1df",
       "status": "optimized"
     },
-    "/events/token2049-evt-hrmrbdhmgm1vpog-985b9840.webp": {
-      "sha256": "cc2378adf7ce6478620146e7a0b278853846cbe92cc428f7332fbe5f512294af",
-      "status": "optimized"
-    },
-    "/events/token2049-evt-hy3d1bwl06kqbjk-7625cf1e.webp": {
-      "sha256": "4b2b71846735fad0e4075f4c2fd8106b0c2a21368d5eefd8ca227a6dfe1026bc",
-      "status": "optimized"
-    },
     "/events/token2049-evt-i8d99y77weeg9nq-e6dd7f53.webp": {
       "sha256": "93b7d18c1c9d651f1e6067ae3dc1349899c9f888ea54fb91e1280dbe884988a2",
       "status": "optimized"
@@ -4465,20 +4361,8 @@
       "sha256": "b4148a2d6604e4e9c4f073f30f8f1bfb3752794add6c8ccdb76d4f1d82d66bc2",
       "status": "optimized"
     },
-    "/events/token2049-evt-ir9os0ndpshijhj-508ae319.webp": {
-      "sha256": "eb638c3bd698028ac947575e20a4821ea66996f7b465df64ce5c5c74b7df2de3",
-      "status": "optimized"
-    },
     "/events/token2049-evt-izieoxp82uaz2yw-717cc6d2.webp": {
       "sha256": "74b0ac41bb05861e954382ac79cac61aa13b77215a5605853fab80b32a920f89",
-      "status": "optimized"
-    },
-    "/events/token2049-evt-jc6fx0imv1yakbn-2296cf3b.webp": {
-      "sha256": "2b597717dff113780b9c652d91100717a497c6bd86cd0c47b1c3704014f29498",
-      "status": "optimized"
-    },
-    "/events/token2049-evt-jkmbgzexep8giph-2c7a02ac.webp": {
-      "sha256": "15866795be9a1b93a73ce99bf457a392025d2a0ad2fbf956973caa01176f540c",
       "status": "optimized"
     },
     "/events/token2049-evt-jobwujc3s9090vo-70053495.webp": {
@@ -4565,14 +4449,6 @@
       "sha256": "a52bdb24b3e51de2d6dd30781b31e59816f2be6bfb3b6edb6e30602f1affcb03",
       "status": "optimized"
     },
-    "/events/token2049-evt-rbn0pzpivcchpkd-d3338d51.webp": {
-      "sha256": "b0a24c742fded7178d4827e1dde86f630f17854812da041121bec3efc0dbdd2e",
-      "status": "retained"
-    },
-    "/events/token2049-evt-rbs2kwc5zxylg5c-5043e819.webp": {
-      "sha256": "66c0338855b717f71e0a05ef24f5fcacd852ac0a7a9a8a99d05ac841fc5b427e",
-      "status": "optimized"
-    },
     "/events/token2049-evt-rmczx5l2quburbf-a2562f08.webp": {
       "sha256": "3b8f19c4eb2e7ea14ab472570fdd6f7f64c8a1d26c803d959271669a070123fe",
       "status": "optimized"
@@ -4589,14 +4465,6 @@
       "sha256": "d4146544cbcca3a72352a42fc8cd4d66e43f0ad8c99f9329258a2fe10af5064c",
       "status": "optimized"
     },
-    "/events/token2049-evt-sbk8lfwdxibbtnm-ba939c3d.webp": {
-      "sha256": "5abe88a4f391d339c022636ceea19f484cfce2fa78061bd36aedd63b8acb2f2f",
-      "status": "optimized"
-    },
-    "/events/token2049-evt-scrhc3qwmr7vy4t-d0ec97ce.webp": {
-      "sha256": "70613fc52d0391650dd1f2a1a5874ef4a0e678600fc6c3e2d53428b2fe0bbe25",
-      "status": "optimized"
-    },
     "/events/token2049-evt-snrfyd6nvtvz46a-c00145a1.webp": {
       "sha256": "39b5c9f3ae927e62fdc88222d231c9de15de7c1b7bd457e78b8233e3dcf66533",
       "status": "optimized"
@@ -4607,10 +4475,6 @@
     },
     "/events/token2049-evt-ss5dckd2omqs78u-8ed344c0.webp": {
       "sha256": "27ead2116c75aaa7a6fa816123785a473eeb74e3673c35986a0e2f6a88e326b0",
-      "status": "optimized"
-    },
-    "/events/token2049-evt-sxhtfqd9p2zho2k-a2904f22.webp": {
-      "sha256": "8d655c8877dfc43ddfeaa02ea4de9e3261b1f0102530733422f276b6314fa4d8",
       "status": "optimized"
     },
     "/events/token2049-evt-t9ts4ntxvmw7o9r-fda95852.webp": {
@@ -4701,10 +4565,6 @@
       "sha256": "cfc477224374246f78a4a603f952cb3a280d6386222c39821d180d461ea1ef7e",
       "status": "optimized"
     },
-    "/events/token2049-evt-xfw8ym4ifsuaany-5834bbb1.webp": {
-      "sha256": "a59f1de0a3973b5ebaab1050ba39e369f3742761ab543c633957da5ea9400cf6",
-      "status": "optimized"
-    },
     "/events/token2049-evt-xnb989h24p8fcto-804febc2.webp": {
       "sha256": "bb40ddc3f0ef09b49df4fc3d984aae435bfd0697bbc8e082dcba6b2696e120e1",
       "status": "optimized"
@@ -4755,10 +4615,6 @@
     },
     "/events/token2049-evt-zwdwu5u6xinfhc0-5fa0d62a.webp": {
       "sha256": "25d77ed43fce70ff2cb113a20da0930de63b5c492cb5224427db0348f81978d7",
-      "status": "optimized"
-    },
-    "/events/token2049-f506060cb0999771-0e821344.webp": {
-      "sha256": "a33db426016146c02499721369fbd56ef04445aafbf96c94f9317f53c8ea69e8",
       "status": "optimized"
     },
     "/events/token2049-official-6a54a2b83438be070d7a9c01-3444f3ab.webp": {
@@ -4825,10 +4681,6 @@
       "sha256": "3ea395afa468b7c10604a3ac71a26a46e189899942db6acae1cc2409c0d72f47",
       "status": "retained"
     },
-    "/events/token2049-side-6a8eb797e258d468339534a1-e5229636.webp": {
-      "sha256": "26430edc042eee7f1eaa850b8ff6e0ddd8718ea6f87859af17fbaff71d5a4184",
-      "status": "retained"
-    },
     "/events/token2049-side-6a8eb7cae258d468339534a6-ffbf069e.webp": {
       "sha256": "24945f94224c3af1af2fcbde665b766eaf6720b99658db18578f6ac43ebe745a",
       "status": "retained"
@@ -4839,10 +4691,6 @@
     },
     "/events/token2049-side-6a8eb93ae258d468339534ba-76b78bf2.webp": {
       "sha256": "60fd39460cbc68d10373712b03003767e88297af9e8f3e21d49e06289f4f4a3a",
-      "status": "retained"
-    },
-    "/events/token2049-side-6a9064774ee2bfcc8598306c-9e61575e.webp": {
-      "sha256": "1af5ac9adf880c47d578a32d04e9a0e21588dc28784071bd9eb2b4281e78765a",
       "status": "retained"
     },
     "/events/token2049-side-6a91a3b2e258d46833953c1f-e550a31c.webp": {
@@ -4869,10 +4717,6 @@
       "sha256": "547886ed393724556a70ccf7c98b34219fd28b3cae724e71b785d6f06805cfcf",
       "status": "retained"
     },
-    "/events/token2049-side-6a9ab836d567345aad683a98-e62ffe53.webp": {
-      "sha256": "c3a4e8d73f29abcac409ee594cfdec244b16d8f35738d279163ddce280d30ac5",
-      "status": "retained"
-    },
     "/events/token2049-side-6a9c22bdd567345aad683ddc-b98096cb.webp": {
       "sha256": "e28768adab6ec5217609dd59d77576eea8c0d32971321622d575228378ad9d8f",
       "status": "retained"
@@ -4881,17 +4725,9 @@
       "sha256": "668176e97c152a2433a44c6832a2bba611dc7fc832a235589569a0e61ebecd18",
       "status": "optimized"
     },
-    "/events/token2049-side-6a9e7f72d567345aad684576-e3096e44.webp": {
-      "sha256": "7d85ad6e59e4d9c7c21ddfbd8b774752591cae0453f009b79d2661ce6423709f",
-      "status": "retained"
-    },
     "/events/token2049-side-6a9f15a0967be0befa88c5ea-eb441427.webp": {
       "sha256": "e04f827d6f69ecd972094b18b2b42f74ea09f771bc798907aea7ce5648a03330",
       "status": "retained"
-    },
-    "/events/token2049-side-6a9f1f8cd567345aad6847e6-a58b3893.webp": {
-      "sha256": "fe82e699a699ce210be3afb15d143db28a5f2170f6ea2caf3637f1ba825eca33",
-      "status": "optimized"
     },
     "/events/token2049-side-6a9f5ba7967be0befa88c687-997f5aee.webp": {
       "sha256": "6c2c35a34e3c932e20ed06f66804d3aaa239704db99a9e844e4ad672297ec538",
@@ -4901,33 +4737,17 @@
       "sha256": "4afac67675d4792e6c92c1014a4022779a412e69610b03397ae1e6437fc20b07",
       "status": "retained"
     },
-    "/events/token2049-side-6a9fb074d567345aad684a03-815f2e0c.webp": {
-      "sha256": "418f1162197c524ea29f4617528ccf547ff3e9d63fbe33076b20b197702d0ee2",
-      "status": "optimized"
-    },
     "/events/token2049-side-6aa00746967be0befa88ca3f-64df7f89.webp": {
       "sha256": "e9695f87a3fe54ce9ae7202cb8d92fd11ba5291a1039cc0252cea010a0aeb3b0",
-      "status": "retained"
-    },
-    "/events/token2049-side-6aa06361967be0befa88cbb6-b503e943.webp": {
-      "sha256": "0b62cd9bfe4c7deb140e3e19837653bf377c581b0dd1d91d5c8c31e7b4079567",
       "status": "retained"
     },
     "/events/token2049-side-6aa12348967be0befa88ce4e-bbf17a6b.webp": {
       "sha256": "6a2a34c540f39825cce209a61cadef20fa0bde9e5b10930f7404cc0f56830193",
       "status": "optimized"
     },
-    "/events/token2049-side-6aa13e9a967be0befa88cee0-647abe33.webp": {
-      "sha256": "486cab76beba1211c9088fcd35f45ef2e41fed85aed87b99b40b44f91d7cb53b",
-      "status": "retained"
-    },
     "/events/token2049-side-6aa16257967be0befa88cf91-7474d322.webp": {
       "sha256": "dc35c80c649a98ca4a5e90466fa9c8029ffa0bd5b3496d96fcb6693ea381862e",
       "status": "optimized"
-    },
-    "/events/token2049-side-6aa17366d567345aad6851a6-d772a529.webp": {
-      "sha256": "835f5d15019228d96e4417441deb8d7b8d6d7778e7cc3a4fd9d2922389e14ff3",
-      "status": "retained"
     },
     "/events/token2049-side-6aa17395d567345aad6851af-246477ef.webp": {
       "sha256": "56546dcc0f99211f232195926a15396a3c341ab893bde6278ef87a69c5910650",
@@ -5225,10 +5045,6 @@
       "sha256": "8d24946d61b902a034bf9bbbd37f4cc70a1187ce2f82d669dc20a695315bc0eb",
       "status": "optimized"
     },
-    "/events/w3v-definition-singapore-2026-86a8645b.webp": {
-      "sha256": "7c0cfd90fd96f007a9987878af98900b6449e84cc6edbc6f7ffd250ab2c2b32f",
-      "status": "retained"
-    },
     "/events/w3v-devcon-afterparty-26-11-06-ab11e104.webp": {
       "sha256": "719156f25df8530dffef273123d1f599f9afb4012ba326be65adc79dbac6a2e4",
       "status": "optimized"
@@ -5465,10 +5281,6 @@
       "sha256": "909c9a709f33369192630ebae45931e3425d97fda017f4da4e14eb4a77451d7f",
       "status": "optimized"
     },
-    "/events/w3v-okx-dev-day-2026-4e6bf4a7.webp": {
-      "sha256": "2889227c32d97d873dd73425f3472aac03b5cddacdc0db9dd06fb50cd169fdb6",
-      "status": "retained"
-    },
     "/events/w3v-on-chain-horizons-founders-x-funders-acb615c3.webp": {
       "sha256": "9e149cb1bb0a291b8e3fa761e56d9bc0f5107870f599162aaf7f11f5bf7624cd",
       "status": "retained"
@@ -5597,10 +5409,6 @@
       "sha256": "6876529e44c50e4ad6e89754910e63a64679dfbf47b87dbd0b832214c631d0af",
       "status": "optimized"
     },
-    "/events/w3v-seracx-stablecoins-liquidity-meet-flow-8efbda77.webp": {
-      "sha256": "a933a4f0295ff7b21f1d85dad05fd507fa25692fda1510fef5a8fe9608a16638",
-      "status": "retained"
-    },
     "/events/w3v-ship-safe-devcon-mumbai-security-sessions-26-1-ae6e400e.webp": {
       "sha256": "6741366d726177e53f62d1f0478c065bdc6577e1b90b832c9703d5ca13e66460",
       "status": "retained"
@@ -5689,10 +5497,6 @@
       "sha256": "dda6bb41cbd7e62f730266dbea2c34e557771bda0e276e6a09740d33d6c31f40",
       "status": "retained"
     },
-    "/events/w3v-thought-leaders-summit-6f875178.webp": {
-      "sha256": "0af6e16d17873ba430ba87ffd4ed0298124ea758ec65a47df7aab454ae87e1a6",
-      "status": "retained"
-    },
     "/events/w3v-toast-sumsub-unchained-summit-26-11-04-15d0032c.webp": {
       "sha256": "7160fed97a6f5d9c64dd97215ed2d007cb65ebcd969daf6088580e864bfc234e",
       "status": "optimized"
@@ -5724,10 +5528,6 @@
     "/events/w3v-utxo-pitch-night-3779db0d.webp": {
       "sha256": "dae3d378954942813f48d0b221f0da32975312d9fe47ef435830c97ae5f7e87f",
       "status": "optimized"
-    },
-    "/events/w3v-vcs-lps-cocktail-hour-725b69cd.webp": {
-      "sha256": "cc76cfb89e6dd740540b86c488e4e26ead7fd9cdf6b4904dcf62784d28f08754",
-      "status": "retained"
     },
     "/events/w3v-wake-up-series-stablecoins-future-payments-26--18d72c73.webp": {
       "sha256": "b8963b92d9586c1e0d3f0cdbb986e53d52dae8533d5d75910f4856726a9046d6",
