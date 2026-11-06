@@ -133403,11 +133403,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "5f36d23161e0e7b97e6d",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-04T00:03:58.707Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-06T08:56:48.000Z",
-      "lastSeenAt": "2026-11-04T00:03:58.707Z"
+      "lastSeenAt": "2026-11-04T00:03:58.707Z",
+      "reason": "source-blocked",
+      "note": "WebFetch of the assigned CoinDesk URL returned HTTP 429; the readiness pass also lists the CoinDesk host as paused after an earlier 429. Search found possible alternatives (Cointelegraph Nov 4 phased-reopening report, Bloomberg Nov 2, Grafa) but none were opened and read before the run deadline, so the two-source bar is unmet.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-06T01:36:26.339Z",
+      "retrySearches": [
+        "Open and read the Cointelegraph report 'Mercado Bitcoin says phased reopening to begin Monday, will cover losses' (Nov 4) and Bloomberg's Nov 2 'Mercado Bitcoin Says It Will Absorb 0 Million Loss From Hack' as independent sources for the exchange's pledge to cover losses; retry the CoinDesk URL after its cooldown within the verification window"
+      ],
+      "lastReviewedDay": "2026-11-06",
+      "nextReviewDate": "2026-11-07"
     },
     "b810b2ef9ead126fffca": {
       "source": "Crypto Briefing",
@@ -263493,6 +263507,21 @@
             }
           ],
           "reviewedAt": "2026-11-06T01:33:21.173Z"
+        },
+        "5f36d23161e0e7b97e6d": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "WebFetch of the assigned CoinDesk URL returned HTTP 429; the readiness pass also lists the CoinDesk host as paused after an earlier 429. Search found possible alternatives (Cointelegraph Nov 4 phased-reopening report, Bloomberg Nov 2, Grafa) but none were opened and read before the run deadline, so the two-source bar is unmet.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-06T01:36:26.339Z",
+          "retrySearches": [
+            "Open and read the Cointelegraph report 'Mercado Bitcoin says phased reopening to begin Monday, will cover losses' (Nov 4) and Bloomberg's Nov 2 'Mercado Bitcoin Says It Will Absorb 0 Million Loss From Hack' as independent sources for the exchange's pledge to cover losses; retry the CoinDesk URL after its cooldown within the verification window"
+          ]
         }
       },
       "baselineSlugs": [
