@@ -108567,7 +108567,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "1154980e-0a56-4486-9fe7-fe54194fa3b3",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6aed4ba37b7e47e8f4059ffc"
     }
   ]
 }
