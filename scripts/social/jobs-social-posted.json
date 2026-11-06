@@ -108417,7 +108417,8 @@
       },
       "account": "channel:ai",
       "attemptId": "81d2a2d1-12da-44ee-a612-af52b7c17db9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x638cd176d4b59ee9db2f8bdc2cd1b5235fbd9234"
     }
   ]
 }
