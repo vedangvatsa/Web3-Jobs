@@ -136262,14 +136262,18 @@
         "id": "e755d4d6f2b69ec05fc1",
         "day": "2026-11-06",
         "articleSlug": "cantonstock",
-        "note": "Read the Crypto Briefing report on the Nov 4 CNTN trades; corroboration exists (issuer PRNewswire release, crypto.news, SEC 8-K exhibit) but none opened yet, so the two-source bar is unmet.",
+        "note": "Read Crypto Briefing and crypto.news on the Nov 4 CNTN trades; issuer primary release (cantonstrategic.com/PRNewswire) and SEC innovation-exemption page still unopened, draft not started.",
         "sourceChecks": [
           {
             "url": "https://cryptobriefing.com/canton-cntn-first-tokenized-us-stock-sec/",
             "outcome": "read"
+          },
+          {
+            "url": "https://crypto.news/canton-strategic-tokenized-stock-trades-sec-exemption/",
+            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-06T01:33:47.953Z",
+        "updatedAt": "2026-11-06T01:34:24.453Z",
         "approved": false,
         "mustReview": true
       }
