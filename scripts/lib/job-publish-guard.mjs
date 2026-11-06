@@ -77,6 +77,16 @@ async function boundedText(response) {
 
 export async function verifyEmployerApplication(job, { request = fetch, now = Date.now } = {}) {
   assertJobAge(job, now());
+  if (typeof job.link === 'string' && job.link.startsWith('mailto:')) {
+    let url;
+    try { url = new URL(job.link); } catch { throw new Error('Employer application unverified: invalid mailto URL'); }
+    if (url.protocol !== 'mailto:') throw new Error('Employer application unverified: expected mailto URL');
+    const recipient = url.pathname.trim();
+    if (!/^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/.test(recipient)) {
+      throw new Error('Employer application unverified: invalid mailto recipient email');
+    }
+    return;
+  }
   const original = employerUrl(job.link, true);
   const originalIdentity = trustedApplicationIdentity(original);
   const chain = [original];

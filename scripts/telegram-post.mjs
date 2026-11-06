@@ -99,22 +99,36 @@ function createCachedRequest(ttlMs = 120000) {
 }
 
 // ── Pick random jobs ──
-async function pickJobs(count, { request = createCachedRequest() } = {}) {
+export async function pickJobs(count, { request = createCachedRequest() } = {}) {
   const jobs = await loadPublishedJobs(request);
 
   const posted = loadPosted();
   
   // Filter out already posted
   const available = jobs.filter(j => isJobAgeEligible(j) && !posted.has(String(j.id || j.link)));
-  
-  // Shuffle
-  const shuffled = available.sort(() => Math.random() - 0.5);
-  
+
+  // Prioritize pending priority jobs (e.g. newly published jobs requested to be in the next run)
+  const priorityFile = path.join(path.dirname(new URL(import.meta.url).pathname), '../content/telegram-priority-jobs.json');
+  let prioritySlugs = ['pct'];
+  if (fs.existsSync(priorityFile)) {
+    try {
+      const fileSlugs = JSON.parse(fs.readFileSync(priorityFile, 'utf8'));
+      if (Array.isArray(fileSlugs)) prioritySlugs = [...new Set([...prioritySlugs, ...fileSlugs])];
+    } catch {}
+  }
+  if (process.env.TELEGRAM_PRIORITY_SLUGS) {
+    prioritySlugs.push(...process.env.TELEGRAM_PRIORITY_SLUGS.split(',').map(s => s.trim()).filter(Boolean));
+  }
+  const prioritySet = new Set(prioritySlugs);
+  const priorityJobs = available.filter(j => prioritySet.has(j.slug));
+  const otherJobs = available.filter(j => !prioritySet.has(j.slug)).sort(() => Math.random() - 0.5);
+  const candidates = [...priorityJobs, ...otherJobs];
+
   // 1 per company, verified against employer application
   const results = [];
   const usedCompanies = new Set();
-  
-  for (const j of shuffled) {
+
+  for (const j of candidates) {
     if (results.length >= count) break;
     const company = (j.company || '').trim();
     const title = (j.title || '').trim();
@@ -233,6 +247,7 @@ const COMPANY_NAMES = {
   'complyadvantage': 'ComplyAdvantage',
   'cantina': 'Cantina',
   // Funds/Research
+  'ckba': 'CKBA',
   'a16z': 'a16z',
   'paradigm': 'Paradigm',
   'galaxydigitalservices': 'Galaxy Digital',
@@ -377,8 +392,11 @@ async function schedule() {
 }
 
 // ── Main ──
-if (process.argv.includes('--schedule')) {
-  schedule();
-} else {
-  postOnce().catch(e => { console.error(String(e.message || e).replaceAll(BOT_TOKEN, '[redacted]')); process.exit(1); });
+const isMain = process.argv[1] && (path.resolve(process.argv[1]) === path.resolve(new URL(import.meta.url).pathname) || process.argv[1].endsWith('telegram-post.mjs'));
+if (isMain) {
+  if (process.argv.includes('--schedule')) {
+    schedule();
+  } else {
+    postOnce().catch(e => { console.error(String(e.message || e).replaceAll(BOT_TOKEN, '[redacted]')); process.exit(1); });
+  }
 }
