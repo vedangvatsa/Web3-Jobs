@@ -111637,7 +111637,8 @@
       },
       "account": "channel:founders",
       "attemptId": "88b61470-9e80-4e03-87e8-05f82c92c185",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x41037899a3de587e4ef1a9ae2c415b77b78f3f97"
     }
   ]
 }
