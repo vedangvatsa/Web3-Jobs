@@ -108613,6 +108613,48 @@
       "verification": "verified",
       "postId": "6aed4bc0dbada656beee3537",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524314373058625536"
+    },
+    {
+      "slug": "eng366",
+      "company": "Galaxy Digital",
+      "title": "Head of Market Data Development and Engineering",
+      "platform": "linkedin",
+      "postedAt": "2026-11-06T03:36:11.383Z",
+      "expectedText": "Galaxy Digital is hiring Head of Market Data Development and Engineering: https://hashtagweb3.com/eng366/li?og=7",
+      "snapshot": {
+        "id": "6238465004",
+        "title": "Head of Market Data Development and Engineering",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6238465004",
+        "date": "2026-10-29T12:49:45-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "New York",
+        "department": "Engineering",
+        "active": true,
+        "salary": "$220k – $250k/yr",
+        "dateVerified": true,
+        "slug": "eng366"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Head of Market Data Development and Engineering: https://hashtagweb3.com/eng366/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng366/li?og=7",
+          "title": "Head of Market Data Development and Engineering at Galaxy Digital",
+          "description": "Join Galaxy Digital as Head of Market Data Development an. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng366.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "f5a75aec-a114-480d-a26c-21d1ddd33821",
+      "verification": "creating"
     }
   ]
 }
