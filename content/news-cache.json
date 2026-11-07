@@ -1,36 +1,52 @@
 {
-  "generatedAt": "2026-11-07T11:31:37.923Z",
+  "generatedAt": "2026-11-07T19:31:35.156Z",
   "items": [
     {
-      "title": "BNB Chain Optimizes Reth for Faster Sync and Validator Performance",
-      "link": "https://blockchain.news/news/bnb-chain-reth-optimization",
-      "pubDate": "Sat, 07 Nov 2026 10:40:56 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "BNB Chain enhances Reth client with faster sync, improved validator performance, and 40% higher throughput in internal tests. (Read More)",
-      "source": "Blockchain.News"
+      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+      "link": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
+      "pubDate": "Sat, 07 Nov 2026 19:13:16 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "Affected accounts are reportedly set to close on Dec. 31. Users in Spain, France, and Poland say they've received similar notices.",
+      "source": "Coindesk"
     },
     {
-      "title": "Stellar (XLM) Ambassador Program Highlights: September-October 2026",
-      "link": "https://blockchain.news/news/stellar-ambassador-program-september-october-2026",
-      "pubDate": "Fri, 06 Nov 2026 23:17:56 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "The Stellar (XLM) Ambassador Program expanded blockchain education and development across Latin America, Africa, and beyond in September and October 2...",
-      "source": "Blockchain.News"
+      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+      "pubDate": "Sat, 07 Nov 2026 17:36:46 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance.",
+      "source": "Coindesk"
     },
     {
-      "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
-      "link": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
-      "pubDate": "Fri, 06 Nov 2026 21:06:03 +0000",
-      "creator": "Staff",
-      "contentSnippet": "FinCEN’s order, part of Operation Economic Outcast, bars U.S. institutions from any transfers to or from MEXC, which Treasury says facilitated $16 bil...",
-      "source": "Decrypt"
+      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+      "pubDate": "Sat, 07 Nov 2026 16:51:00 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams.",
+      "source": "Coindesk"
     },
     {
-      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-      "link": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 06 Nov 2026 20:51:23 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "The crypto debit card provider said customer funds remained safe despite the exposure of sensitive financial and personal information.",
+      "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
+      "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
+      "pubDate": "Sat, 07 Nov 2026 16:46:02 +0000",
+      "creator": "Zack Abrams",
+      "contentSnippet": "BlackRock's IBIT accounted for 98% of Friday's outflows, with $403 million leaving the industry-leading fund.",
+      "source": "The Block"
+    },
+    {
+      "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+      "link": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 07 Nov 2026 14:16:00 +0000",
+      "creator": "Michael Millard",
+      "contentSnippet": "Yaroch paid off his debts and intended to use the proceeds to finance a new life in Portugal, where he planned to buy a vineyard.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin holders have received eCash — What can you do with it?",
+      "link": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 07 Nov 2026 13:30:00 +0000",
+      "creator": "Christina Comben",
+      "contentSnippet": "Bitcoin’s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can ...",
       "source": "Cointelegraph"
     },
     {
@@ -72,14 +88,6 @@
       "creator": "Staff",
       "contentSnippet": "Hyperliquid Strategies has applied to become a U.S. futures commission merchant, a move that could let Americans trade perpetual futures on permission...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Neocloud Sell-Off Highlights Bitcoin Miners' Transition to AI Infrastructure",
-      "link": "https://blockchain.news/news/neocloud-sell-off-bitcoin-miners-ai-infrastructure",
-      "pubDate": "Fri, 06 Nov 2026 19:01:51 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "VanEck reports a 35% October decline in powered shell providers as bitcoin miners pivot to AI infrastructure, citing long-term lease dynamics and fina...",
-      "source": "Blockchain.News"
     },
     {
       "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
@@ -144,22 +152,6 @@
       "creator": "Jesse Hamilton",
       "contentSnippet": "The Commodity Futures Trading Commission said regulated exchanges can't cut off customers state-by-state, but firms like Kalshi are under court orders...",
       "source": "Coindesk"
-    },
-    {
-      "title": "Algorand (ALGO) Pauses xGov Program, Focuses on Post-Quantum Security",
-      "link": "https://blockchain.news/news/algorand-pauses-xgov-post-quantum-focus",
-      "pubDate": "Fri, 06 Nov 2026 17:05:36 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Algorand (ALGO) announces updates, including xGov program suspension, staking rewards extension, and a focus on post-quantum security for Web3. (Read ...",
-      "source": "Blockchain.News"
-    },
-    {
-      "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
-      "link": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock",
-      "pubDate": "Fri, 06 Nov 2026 16:34:07 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Bitcoin fell toward $75,500 after AI stocks plunged, and over $1 billion in the crypto derivatives market has been wiped out.",
-      "source": "Decrypt"
     },
     {
       "title": "Strive’s bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
@@ -290,14 +282,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
-      "link": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
-      "pubDate": "Fri, 06 Nov 2026 10:57:06 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Patrick Yaroch drained wallets using credentials the FBI had collected, then asked ChatGPT for advice on starting a new life in Europe.",
-      "source": "Decrypt"
-    },
-    {
       "title": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
       "link": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 06 Nov 2026 10:47:33 +0000",
@@ -426,14 +410,6 @@
       "source": "The Block"
     },
     {
-      "title": "Crypto ally French Hill wins reelection but set to lose House chair",
-      "link": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 05 Nov 2026 21:39:19 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "Republican French Hill secured another term in Congress but will lose his leadership of the House Financial Services Committee when Democrats take con...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
       "link": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
       "pubDate": "Thu, 05 Nov 2026 20:16:03 +0000",
@@ -442,20 +418,20 @@
       "source": "Decrypt"
     },
     {
+      "title": "Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations",
+      "link": "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434",
+      "pubDate": "Thu, 05 Nov 2026 20:11:02 +0000",
+      "creator": "Jason Shubnell",
+      "contentSnippet": "Bitcoin fell 6% to $75,700 and ether 7% as a Nasdaq selloff hit crypto, triggering $1.03 billion in liquidations.",
+      "source": "The Block"
+    },
+    {
       "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever",
       "link": "https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto",
       "pubDate": "Thu, 05 Nov 2026 19:46:03 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Zcash's latest upgrade promises faster transactions, but thousands of coins remain in an aging privacy system that will soon stop accepting withdrawal...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
-      "link": "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 05 Nov 2026 19:02:19 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "SignalPlus said attackers compromised an engineer’s computer in a breach that resulted in losses of less than $82,000, which the crypto trading platfo...",
-      "source": "Cointelegraph"
     },
     {
       "title": "Base deploys Denim upgrade on mainnet, replacing Flashblocks with 200ms block times",
@@ -498,14 +474,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "Anchorage Digital seeks CFTC swap dealer registration for crypto options business",
-      "link": "https://www.theblock.co/news/business/2026-11-05-anchorage-digital-seeks-cftc-swap-dealer-registration-for-crypto-options-business-434437",
-      "pubDate": "Thu, 05 Nov 2026 16:00:02 +0000",
-      "creator": "James Hunt",
-      "contentSnippet": "Anchorage Digital has applied for CFTC swap dealer registration and plans to offer European-style bitcoin and ether options if approved.",
-      "source": "The Block"
-    },
-    {
       "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
       "link": "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s",
       "pubDate": "Thu, 05 Nov 2026 14:21:50 +0000",
@@ -530,28 +498,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
-      "link": "https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts",
-      "pubDate": "Thu, 05 Nov 2026 12:55:03 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "The exchange says its systems are unaffected but has removed trading connections to the third-party platform as a precaution.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
-      "link": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
-      "pubDate": "Thu, 05 Nov 2026 12:50:57 +0000",
-      "creator": "Francisco Rodrigues",
-      "contentSnippet": "Ukraine’s central bank won’t back a crypto legalization bill in its current form and wants lawmakers to revise it before a final vote.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/05/bitcoin-is-resilient-but-leverage-is-missing-and-demand-still-tepid",
-      "pubDate": "Thu, 05 Nov 2026 12:27:04 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "Your day-ahead look for Nov. 5, 2026",
-      "source": "Coindesk"
+      "title": "Binance Cuts Off SignalPlus API Keys Over 'Potential Security Issue' at Trading Platform",
+      "link": "https://decrypt.co/382599/binance-cuts-off-signalplus-api-keys-over-potential-security-issue-at-trading-platform",
+      "pubDate": "Thu, 05 Nov 2026 12:23:24 +0000",
+      "creator": "Agent",
+      "contentSnippet": "The exchange said its own systems and user funds are unaffected, a week after it lost $6.4 billion in a hack blamed on North Korea.",
+      "source": "Decrypt"
     },
     {
       "title": "Canadian Man Extradited to US Over Plot to Hijack University Supercomputers for Crypto",
@@ -575,14 +527,6 @@
       "pubDate": "Wed, 04 Nov 2026 22:46:03 +0000",
       "creator": "André Beganski",
       "contentSnippet": "Matt Corallo explains why patching four legacy bugs is about rebuilding muscle memory, just as much as it’s about Bitcoin maintenance.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
-      "link": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
-      "pubDate": "Wed, 04 Nov 2026 20:46:03 +0000",
-      "creator": "Staff",
-      "contentSnippet": "Coinbase told customers it wasn’t affected by the $6.4 billion Binance hack and detailed its security controls, including offline storage for over 99%...",
       "source": "Decrypt"
     }
   ]
