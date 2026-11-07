@@ -4998,5 +4998,50 @@
     "slotKey": "2026-11-07:afternoon",
     "messageId": 156120,
     "sentAt": "2026-11-07T11:32:52.128Z"
+  },
+  "317caa1e-ef43-46b3-9154-3a8875d3d997": {
+    "status": "reserved",
+    "reservedAt": "2026-11-07T19:32:20.584Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-hlKrPIIiRiniy1E",
+        "slug": "blockchain-london",
+        "name": "Blockchain.com: TYB Party",
+        "startDate": "2026-11-17T20:00:00.000Z",
+        "keys": [
+          "luma-crypto-hlkrpiiiriniy1e",
+          "page:blockchain-london:2026-11-17",
+          "luma-url:/blockc-eg04",
+          "event:blockchaincomtybparty:2026-11-17:london"
+        ]
+      },
+      {
+        "id": "mu-316825220",
+        "slug": "crypto-cigars",
+        "name": "Crypto and Cigars",
+        "startDate": "2026-11-17T18:00:00-05:00",
+        "keys": [
+          "mu-316825220",
+          "page:crypto-cigars:2026-11-17",
+          "url:meetup.com/nj-blockchain/events/316825220:2026-11-17",
+          "event:cryptoandcigars:2026-11-17:hoboken"
+        ]
+      },
+      {
+        "id": "premier-nabsummit",
+        "slug": "north-american-blockchain-summit",
+        "name": "North American Blockchain Summit 2026",
+        "startDate": "2026-11-18",
+        "keys": [
+          "premier-nabsummit",
+          "north",
+          "page:north-american-blockchain-summit:2026-11-18",
+          "event:northamericanblockchainsummit2026:2026-11-18:arlington"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-07:evening"
   }
 }
