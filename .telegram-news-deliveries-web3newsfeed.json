@@ -3445,7 +3445,7 @@
     "sentAt": "2026-11-07T11:36:00.394Z"
   },
   "47a152b3-c040-474f-9d71-0a373e487936": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-07T19:36:59.429Z",
     "stories": [
       {
@@ -3474,6 +3474,8 @@
         "originalTitle": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June"
       }
     ],
-    "slotKey": "2026-11-07:evening"
+    "slotKey": "2026-11-07:evening",
+    "messageId": 65812,
+    "sentAt": "2026-11-07T19:37:18.233Z"
   }
 }
