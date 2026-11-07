@@ -136792,11 +136792,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "8a3ed26fece01a73ce37",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-05T00:28:26.536Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-07T20:52:54.000Z",
-      "lastSeenAt": "2026-11-05T00:28:26.536Z"
+      "lastSeenAt": "2026-11-05T00:28:26.536Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read the full Bitcoin Magazine report: House Democrats are only discussing a future market structure bill based on an Eleanor Terrett post and industry-source conversations; the article states no bill text has been released and details come from industry sources rather than lawmakers. No introduced bill, vote or filing to report.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/house-democrats-crypto-market-structure",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-07T04:14:30.938Z",
+      "lastReviewedDay": "2026-11-07"
     },
     "d17cc09099fbcfb7e2eb": {
       "source": "The Defiant",
@@ -274360,6 +274370,18 @@
           "retrySearches": [
             "Find readable reporting on the Injective staked ETF listing of Nov 5 2026 and any second independent source covering it"
           ]
+        },
+        "8a3ed26fece01a73ce37": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read the full Bitcoin Magazine report: House Democrats are only discussing a future market structure bill based on an Eleanor Terrett post and industry-source conversations; the article states no bill text has been released and details come from industry sources rather than lawmakers. No introduced bill, vote or filing to report.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/house-democrats-crypto-market-structure",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-07T04:14:30.938Z"
         }
       },
       "baselineSlugs": [
