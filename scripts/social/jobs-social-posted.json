@@ -110351,6 +110351,36 @@
       "attemptId": "71470b2f-7a0e-4cf5-960a-26eefb487733",
       "verification": "verified",
       "postId": "691827047618629_1137081508899083"
+    },
+    {
+      "slug": "aso46",
+      "company": "Figure",
+      "title": "Customer Success Associate",
+      "platform": "x",
+      "postedAt": "2026-11-07T03:32:43.141Z",
+      "expectedText": "Figure is hiring Customer Success Associate\n\nhttps://hashtagweb3.com/aso46/x?og=7",
+      "snapshot": {
+        "id": "8821166002",
+        "title": "Customer Success Associate",
+        "company": "Figure",
+        "link": "https://job-boards.greenhouse.io/figure/jobs/8821166002",
+        "date": "2026-10-23T13:39:19-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Figure [figure]",
+        "location": "Reno, NV",
+        "department": "Customer Support Center",
+        "active": true,
+        "dateVerified": true,
+        "slug": "aso46"
+      },
+      "payload": {
+        "text": "Figure is hiring Customer Success Associate\n\nhttps://hashtagweb3.com/aso46/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "21d2587c-7cd7-43cb-9bdc-a61fb7d44b95",
+      "verification": "creating"
     }
   ]
 }
