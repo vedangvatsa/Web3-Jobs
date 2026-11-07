@@ -112644,7 +112644,8 @@
       },
       "account": "channel:ai",
       "attemptId": "a69f282c-5347-4ba5-bb92-9bca423d3f7f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd7af228a5108540c91c2a49c5ff40e92d2426010"
     }
   ]
 }
