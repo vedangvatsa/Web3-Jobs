@@ -841,39 +841,6 @@
       }
     ]
   },
-  "premier-stablecoinsg": {
-    "summaryLead": "Stablecoin Summit Singapore compresses the entire stablecoin debate - payments, issuance, regulatory frameworks - into a single day on 8 October 2026, organized by XREX and timed deliberately alongside TOKEN2049 week when the industry's attention concentrates on Singapore.",
-    "sections": [
-      {
-        "heading": "One Day, One Subject, No Filler",
-        "content": [
-          "There is something refreshing about a summit that picks one subject and refuses to dilute it. Stablecoin Summit Singapore, set for 8 October 2026, dedicates its entire program to the asset class that has quietly become crypto's most commercially successful export: covering payments, issuance and the regulatory frameworks that determine which models survive contact with regulators. No NFT nostalgia tracks, no generic macro panels - just the plumbing questions that treasurers, payment companies and policymakers actually argue about.",
-          "The single-day format is a feature for busy calendars, especially in a week as crowded as TOKEN2049. You can attend a focused summit in the morning and afternoon, extract the specific intelligence you need, and still make evening commitments elsewhere in the city. The tradeoff is intensity: parallel sessions likely mean choices, so arrive having decided whether your priority is issuance economics, payment rails or the compliance picture."
-        ]
-      },
-      {
-        "heading": "The XREX Backstory",
-        "content": [
-          "The organizer behind the summit describes itself on its own homepage as a regulated blockchain-driven institution for financial inclusion - language that signals a compliance-first posture rather than a trading-desk culture. Companies that build for financial inclusion spend their careers navigating licensing regimes, cross-border payment corridors and banking relationships, which happens to be exactly the expertise a credible stablecoin event requires.",
-          "That orientation shapes what the summit is likely to emphasize. Stablecoin discussions led by regulated institutions tend toward the operational: how issuers manage reserves, how payment providers integrate settlement, how frameworks in major jurisdictions compare. Expect the regulatory framework pillar of the agenda to be substantive rather than ceremonial, because for an institution whose business depends on staying licensed, regulation is not a keynote topic - it is the operating environment."
-        ]
-      },
-      {
-        "heading": "Riding the TOKEN2049 Wave",
-        "content": [
-          "Timing an event during TOKEN2049 week is a calculated bet. Singapore in early October becomes the densest concentration of digital-asset decision-makers anywhere in Asia, and specialized summits feed on that density - attendees fly in for the anchor conference and stack targeted side events around it. The risk is noise: dozens of competing gatherings, full hotels, diary conflicts resolved over WhatsApp at midnight.",
-          "Stablecoin Summit's defense against that noise is specificity. Generic networking events struggle for attention in TOKEN2049 week; a single-day summit devoted to the sector's hottest commercial battleground does not. Payment executives deciding which stablecoin rails to integrate, treasury teams evaluating issuance partnerships, and compliance officers tracking regulatory divergence across jurisdictions all have reasons to prioritize a focused room over another rooftop party."
-        ]
-      },
-      {
-        "heading": "Who Should Make Time For It",
-        "content": [
-          "Three profiles fit best. Fintech and payments operators weighing stablecoin settlement for cross-border flows get the vendor landscape compressed into one day. Institutions studying issuance - banks, wallet providers, platforms considering their own token - benefit from hearing reserve management and framework debates in person. Policy and compliance professionals gain from the same room being full of the people their rules will bind.",
-          "Practical notes: verify the venue, agenda and registration through official XREX channels as the date approaches, since details for week-of-TOKEN2049 events evolve quickly. Singapore's Changi makes same-day arrivals feasible, but with the city at peak conference load, arriving the night before is the safer play."
-        ]
-      }
-    ]
-  },
   "premier-tabconf": {
     "summaryLead": "TABConf 8 lands in Atlanta this October with its usual promise: signal over hype, and rooms full of people who actually ship Bitcoin code. Expect hands-on Builder Days, community-proposed sessions, and the kind of arguments about protocol design you will not hear at a sponsor-heavy mega-conference.",
     "sections": [
@@ -1441,40 +1408,6 @@
         "content": [
           "Protocol teams selling to stablecoin issuers, restaking platforms courting operators of actively validated services, and institutional players evaluating settlement guarantees form the natural core audience - these are the three constituencies the forum's own framing puts in one room. Payment companies watching stablecoin volumes climb year over year should circle it as well; infrastructure decisions discussed here determine their cost curves later.",
           "Check the organizer's site closer to the date for venue and registration specifics, since TOKEN2049-week programming firms up late. And pace yourself once there: Singapore's side-event circuit rewards stamina, and anyone who sprints on Monday night rarely survives to Thursday's best conversations."
-        ]
-      }
-    ]
-  },
-  "premier-theodds": {
-    "summaryLead": "Prediction markets finally get their own room in Singapore. The Odds: Prediction Markets Summit lands at Suntec Convention Centre on 8 October, 14:00 to 20:00, during TOKEN2049 week, produced by More & More - the team behind curated executive gatherings - with roughly 400 selected attendees, fifty-plus speakers, and three stages devoted entirely to betting on the future, formally known as forecasting.",
-    "sections": [
-      {
-        "heading": "Why a dedicated summit, why now",
-        "content": [
-          "Prediction markets spent years as a crypto curiosity, then election cycles and sports volumes turned them into genuine financial infrastructure almost overnight. The category now spans information markets, resolution mechanics, and on-chain forecasting - each carrying unsolved problems in regulation, oracle design, and liquidity that deserve focused argument rather than a single panel slot.",
-          "Scale is the pitch. TOKEN2049 draws tens of thousands to Singapore, and The Odds positions itself for what it calls the most relevant one percent of that crowd. Curation cuts noise: with 400 people who all build in, fund, or regulate the category, even the coffee lines become qualified introductions. The FAQ puts it bluntly - quality of conversation over volume.",
-          "The attendee mix the organizers describe reads like a category map in itself: institutions, exchanges, market makers, oracles, data providers, VCs, AI companies, and the compliance teams now circling prediction markets everywhere. Suntec Convention Centre helps too - a downtown hub minutes from Marina Bay Sands and the central business district, so the room stays connected to the rest of TOKEN2049 week without being swallowed by it."
-        ]
-      },
-      {
-        "heading": "Three stages, three constituencies",
-        "content": [
-          "The Institutional Stage handles adoption, market structure, exchanges, regulation, and finance - the questions traditional institutions ask before touching anything. The AI & Agents Stage covers automated forecasting, agentic systems, and autonomous decision layers, a natural pairing given how much machine-driven flow prediction markets already attract.",
-          "The Builder & Infrastructure Stage carries product demos, developer sessions, workshops, and startup presentations. A companion Builder Program runs pre-event sessions, mentorship, partner challenges, and a live showcase, with selected teams presenting on stage - a real pathway for early companies rather than another logo wall."
-        ]
-      },
-      {
-        "heading": "The company kept",
-        "content": [
-          "The organizers list an ambitious orbit of companies participating in The Odds conferences: J.P. Morgan, Citi, Mastercard, Coinbase, Circle, Polymarket, OKX, Bybit, Fireblocks, and TRM Labs among them. Treat that as directional - participation spans editions and formats - but the breadth signals how far the category reaches, from bank compliance desks to on-chain order books.",
-          "Named speakers for Singapore weren't published yet at writing, and nominations stay open through the site. Previous editions drew operators, founders, and institutions from across the space, with the FAQ confirming the 2026 roster is being curated now."
-        ]
-      },
-      {
-        "heading": "Getting through the door",
-        "content": [
-          "Attendance is application-based, with a waitlist rather than open ticketing - plan ahead and apply early, because curation takes time and TOKEN2049 week calendars fill months out. Partners get private meeting rooms and an exhibition zone, which tells you deals are meant to happen on-site, not in follow-up emails.",
-          "Note the independence: this is a More & More production held during TOKEN2049 week, not an official TOKEN2049 event. That's standard practice in the side-event economy, but worth knowing when budgeting your calendar - and when deciding which badge actually gets you into which conversations."
         ]
       }
     ]

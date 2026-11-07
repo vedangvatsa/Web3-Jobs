@@ -60,21 +60,6 @@
       "preview": "TOKEN2049 is the world's largest crypto event. Join the crypto ecosystem's decision-makers in Singapore to connect, exchange ideas, network, and shape the industry."
     },
     {
-      "id": "premier-sui-basecamp-2026",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://www.sui.io/basecamp",
-        "fetchedAt": "2026-09-20T00:20:07.745Z",
-        "method": "official-meta",
-        "pageTitle": "Sui Basecamp 2026 | Sui’s global conference",
-        "sha256": "f7c01bee292af9d612535f1b9bdfecd4d5f5851a9c5d08ba28c4cf2c381a2c67"
-      },
-      "previousStartDate": "2026-10-07T09:00:00.000Z",
-      "characters": 132,
-      "preview": "The next $5 trillion in transactions won't be human. Join the global Sui community in Singapore on Oct 7–8 to shape what comes next."
-    },
-    {
       "id": "premier-swell-2026",
       "file": "curated-events.json",
       "status": "source-backed",
@@ -268,22 +253,6 @@
       "previousStartDate": "2027-04-21T09:00:00.000Z",
       "characters": 190,
       "preview": "TOKEN2049 Dubai brings together the global Web3 industry, uniting entrepreneurs, investors, developers, industry insiders and global media, and creates unparalleled networking opportunities."
-    },
-    {
-      "id": "premier-stablecoinsg",
-      "file": "curated-events.json",
-      "name": "Stablecoin Summit Singapore 2026",
-      "status": "unavailable",
-      "attempts": [
-        {
-          "url": "https://xrex.io/",
-          "reason": "event-not-matched"
-        },
-        {
-          "url": "https://xrex.io",
-          "reason": "event-not-matched"
-        }
-      ]
     },
     {
       "id": "premier-tabconf",
@@ -564,32 +533,6 @@
           "reason": "event-not-matched"
         }
       ]
-    },
-    {
-      "id": "premier-theodds",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://mnm.live/theodds/t2049singapore",
-        "fetchedAt": "2026-09-20T00:20:34.737Z",
-        "method": "event-jsonld",
-        "pageTitle": "The Odds: Prediction Markets Summit Singapore 2026",
-        "sha256": "9b0cb49d44d0ac827cfdc94f2e11705572ad851eb4820807e9deb83d9b30dc3d"
-      },
-      "eventFacts": {
-        "startDate": "2026-10-08T14:00:00+08:00",
-        "endDate": "2026-10-08T20:00:00+08:00",
-        "venueName": "Suntec Convention Centre",
-        "streetAddress": "1 Raffles Boulevard, Suntec City",
-        "addressLocality": "Singapore",
-        "addressCountry": "SG",
-        "city": "Singapore",
-        "country": "SG",
-        "location": "Suntec Convention Centre, 1 Raffles Boulevard, Suntec City, Singapore, SG"
-      },
-      "previousStartDate": "2026-10-06T09:00:00.000Z",
-      "characters": 167,
-      "preview": "A curated prediction markets summit - 400 attendees, 50+ speakers, two stages across four hours - at Suntec City, Singapore, on October 8, 2026, during TOKEN2049 week."
     },
     {
       "id": "premier-gbshow",
@@ -1487,23 +1430,9 @@
       "id": "token2049-side-6a6711ea5a75007b41000117",
       "file": "events-cache.json",
       "status": "source-backed",
-      "source": {
-        "url": "https://stablecoinsummit.com/",
-        "fetchedAt": "2026-09-20T00:21:00.833Z",
-        "method": "official-section",
-        "pageTitle": "Stablecoin Summit 2026",
-        "sha256": "3d2f8302146a7eb8d5e9fe6da1d241fb2be0d6dfbf57e7f73e9e2e7ce2ce19b3"
-      },
       "previousStartDate": "2026-10-08T09:00:00+08:00",
       "characters": 457,
       "preview": "## Stablecoin Summit 26\n\nAsia's premier event for stablecoin innovation. We bring together government, institutions, fintech leaders, and blockchain pioneers to explore the future of digital money. Designed for enterprises and financial institutions engaged in high-volume cross-border payments, we focus on real-world use cases, trustless transactions, transparency, and security. Join us for expert insights, technical deep dives, and top-tier networking."
-    },
-    {
-      "id": "token2049-side-6a71f32ad1b48ddf39d09b86",
-      "file": "events-cache.json",
-      "name": "Agentic Finance Summit",
-      "status": "unavailable",
-      "attempts": []
     },
     {
       "id": "token2049-side-6a73992d5a75007b41001068",

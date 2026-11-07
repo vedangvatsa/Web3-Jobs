@@ -32,37 +32,6 @@
       "reason": "The event-specific registration page confirms 9 October, replacing the incorrect 7 October record linked to a company homepage."
     },
     {
-      "id": "token2049-side-6a71f32ad1b48ddf39d09b86",
-      "kind": "luma",
-      "sourceUrl": "https://luma.com/8oxs8lco",
-      "contains": [
-        "Agentic Finance Summit",
-        "Suntec",
-        "October 8, 2026"
-      ],
-      "eventId": "evt-qX07lwutcaNh5Fn",
-      "reason": "Replaced the discarded URL shortener with the matching organizer registration page."
-    },
-    {
-      "id": "premier-stablecoinsg",
-      "kind": "reviewed",
-      "sourceUrl": "https://stablecoinsummit.com/",
-      "contains": [
-        "8 October 2026",
-        "Andaz Singapore",
-        "Designed for enterprises and financial institutions engaged in high-volume cross-border payments"
-      ],
-      "description": "Asia's premier event for stablecoin innovation. We bring together government, institutions, fintech leaders, and blockchain pioneers to explore the future of digital money.\n\nDesigned for enterprises and financial institutions engaged in high-volume cross-border payments, we focus on real-world use cases, trustless transactions, transparency, and security.\n\nJoin us for expert insights, technical deep dives, and top-tier networking.\n\n## Stablecoin Summit 2026\n\nThe XREX event takes place on 8 October 2026 at Andaz Singapore.",
-      "patch": {
-        "startDate": "2026-10-08",
-        "endDate": "2026-10-08",
-        "timezone": "Asia/Singapore",
-        "venueName": "Andaz Singapore",
-        "location": "Andaz Singapore, Singapore"
-      },
-      "reason": "Replaced XREX's company homepage with the summit's official event website."
-    },
-    {
       "id": "token2049-side-6a622e12d1b48ddf39d08981",
       "kind": "reviewed",
       "sourceUrl": "https://sg2026.vaultsummit.xyz/",

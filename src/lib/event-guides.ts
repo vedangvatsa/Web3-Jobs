@@ -4,38 +4,6 @@ import type { EventEditorialArticle } from "./events";
 // Facts sourced from each event's official website / organizer announcements.
 export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
 
-  suibasecamp: {
-    summaryLead:
-      "Sui Basecamp lands in Singapore on October 7 and 8, timed against TOKEN2049 week, and is the annual gathering for builders working in Move on Sui: object-model applications, consumer products, gaming, and DeFi built on Mysten Labs' high-throughput stack.",
-    sections: [
-      {
-        heading: "Move ecosystem showcase",
-        content: [
-          "Basecamp is where Sui's technical direction meets its builders. Technical sessions go deep on the object-centric data model, parallel transaction execution, zkLogin onboarding, and sponsored transactions, delivered by Mysten engineers alongside the application teams shipping on top. The ecosystem has leaned visibly into consumer products that reach normal users, and Basecamp's demos reflect that bias toward usable apps over infrastructure maximalism.",
-          "For teams deciding between Move ecosystems, the summit doubles as a comparison session: Sui's distinctions from Aptos, its tooling maturity, and its grants processes are all laid out by practitioners rather than documentation.",
-        ],
-      },
-      {
-        heading: "Strategic timing",
-        content: [
-          "Sharing dates with TOKEN2049 changes the calculus: the global investor and founder crowd is already in Singapore, so Basecamp draws a seniority level unusual for a single-chain event. Several teams run joint side events, and the practical play is anchoring your TOKEN2049 week around whichever ecosystem sessions matter to your stack.",
-          "Marina Bay accommodation peaks in price that week regardless of which event you attend; book immediately upon registration confirmation and prefer MRT-accessible lodging over proximity-only choices.",
-        ],
-      },
-      {
-        heading: "Sui technical direction",
-        content: [
-          "Mysten Labs engineers typically unveil protocol roadmap milestones at Basecamp, covering parallel execution advances, Move language evolution, and object-model refinements. Application teams present consumer products with real user metrics, from gaming titles to payment apps, reflecting Sui's positioning as a consumer-first chain rather than DeFi maximalism.",
-          "zkLogin deserves particular attention from onboarding-focused teams; it lets users sign in with familiar web credentials while maintaining self-custody, and production implementations have matured noticeably between editions. Singapore co-location with TOKEN2049 means ecosystem houses and joint side events multiply networking density beyond the official program alone.",
-                  "Sui Basecamp editions have become announcement vehicles for the ecosystem's consumer-app momentum. Gaming studios built on Sui demonstrate live titles with player counts, payment applications show transaction throughput handling real commerce, and social applications present engagement metrics challenging assumptions about crypto user acquisition. The Move programming language community maintains visible presence, comparing Sui's object-model innovations against Aptos's parallel approaches with the friendly rivalry of sibling ecosystems sharing lineage from Meta's abandoned Diem project. Developers new to Move find workshop tracks assuming general programming literacy rather than prior blockchain experience, lowering entry barriers that older ecosystems accumulated over years of layered complexity.",
-                  "Basecamp attendance includes substantial TOKEN2049-week crossover, so expect senior distribution and plan meetings against the larger Singapore calendar rather than treating it as a standalone single-chain event. Official announcements arrive via Sui Foundation channels weeks before doors.",
-                  "Move developers new to Sui should complete official tutorials beforehand since workshop pacing assumes them, and Singapore's Marina Bay transit links make TOKEN2049 crossover attendance logistically painless despite separate registrations.",
-                  "Sui Foundation staff coordinate grant-office-hours during Basecamp, and builders arriving with working demo repositories historically secured follow-up conversations that outlasted conference week considerably.",
-        ],
-      },
-    ],
-  },
-
   swell: {
     summaryLead:
       "Ripple Swell comes to New York City on October 27 to 29, the annual gathering for Ripple's institutional network: banks, payment providers, remittance companies, and financial institutions working on cross-border settlement, RLUSD stablecoin rails, custody, and the XRP Ledger.",
@@ -591,35 +559,6 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
         heading: "Southeast Asia's emerging developer hub",
         content: [
           "Malaysia is rapidly emerging as a crypto-forward nation in Southeast Asia with active university blockchain chapters and progressive digital economy initiatives. ETHKL provides a welcoming entry point for regional talent into the global Ethereum ecosystem.",
-        ],
-      },
-    ],
-  },
-  sui: {
-    summaryLead:
-      "Sui Basecamp runs October 7 and 8 at Marina Bay Sands in Singapore, staged alongside TOKEN2049. The site prices a standard pass at $299 with a $229 rate available until September 30, covering both days of talks, workshops, and expo areas. Programming runs across four areas, the Summit Stage, the X Stage, the AI Builder Lab, and the SUIG Arena, with product reveals and hands-on demos promised. Listed speakers include Mysten Labs CEO Evan Cheng, CPO Adeniyi Abiodun, chief cryptographer Kostas Chalkias, and Real Vision CEO Raoul Pal. Registration runs through the event Luma page.",
-    ticketPricing: "$229 until Sept 30, then $299",
-    speakers: "Evan Cheng, Adeniyi Abiodun, Kostas Chalkias, Raoul Pal, Richard Socher, Hilmar Veigar Petursson",
-    sections: [
-      {
-        heading: "Co-located with TOKEN2049",
-        content: [
-          "Basecamp shares its dates and venue with TOKEN2049 week, placing the Sui community gathering inside Singapore's biggest crypto fortnight. The FAQ confirms October 7 and 8 at Marina Bay Sands, with badge pickup starting October 6. A standard pass covers both days including presentations, workshops, expo areas, and official evening events.",
-          "Registration goes through Luma rather than a native checkout. The discounted $229 rate holds until September 30 before the $299 full price applies. Press passes are handled by email, and a limited number of invite-only travel grants are available for ecosystem builders.",
-        ],
-      },
-      {
-        heading: "Stages and the TPS record attempt",
-        content: [
-          "The program runs across the Summit Stage for keynotes and reveals, the X Stage for demos and AMAs, the AI Builder Lab for hands-on workshops, and the SUIG Arena for DeFi programming. The framing is agentic finance, with instant settlement, autonomous payments, stable dollars, and post-quantum security named as themes. Product launches are promised before the rest of the world hears about them.",
-          "Day one includes a live throughput experiment aiming to repeat a July test the site says pushed past 6 million transactions per second. Visitors can guess the final figure for SUI prizes of 10,000, 5,000, and 1,000 for the three closest entries. A linked blog post documents the July run.",
-        ],
-      },
-      {
-        heading: "Speakers and track record",
-        content: [
-          "Mysten Labs leadership anchors the list, with CEO Evan Cheng, CPO Adeniyi Abiodun, president Kevin Boon, and chief cryptographer Kostas Chalkias all named. Outside voices include Real Vision's Raoul Pal and Jamie Coutts, Google DeepMind's Alexandre Moufarek, You.com's Richard Socher, Grayscale's Zach Pandl, and Circle's Matt Stafford, alongside ecosystem founders. A speaker application form remains open.",
-          "The page cites the 2025 edition as a baseline, with more than 80 sessions, 2,000 attendees, 100 speakers, 30 sponsors, and representation from more than 90 countries and 1,000 companies. Recordings from that year are linked. Practical notes cover the SG Arrival Card requirement, Bayfront MRT access to halls D and E, and visa-free entry for most nationalities.",
         ],
       },
     ],

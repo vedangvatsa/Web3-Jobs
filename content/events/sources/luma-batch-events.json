@@ -2276,96 +2276,6 @@
     }
   },
   {
-    "id": "luma-batch-evtGE7xegumbiS7a",
-    "slug": "starknet-private-dinner",
-    "name": "Starknet Private Dinner | Singapore",
-    "description": "You are warmly welcomed to Starknet's annual Token2049 Private Dinner\n\nConnect over great food and even better conversation. No panels. No decks. Just great people, food and drinks.\n\nPlease note that attendance is strictly by invitation or Luma RSVP acceptance only, and confirmed guests will receive full details once their RSVP has been approved.\n\nAs spots are limited, we kindly ask that you RSVP as early as possible. As this is a seated, intimate dinner, each reservation represents a seat we’re holding especially for you. If your plans change and you’re no longer able to join us, we’d really appreciate you letting us know as soon as possible.\n\nFollow us on X\n\nStarknet is the original Zero-Knowledge Rollup - a battle-tested Ethereum Layer 2 blockchain with over $1.36T in cumulative trading volume. Built by StarkWare Ltd., and backed by leading investors including Sequoia, Paradigm, Coinbase Ventures, and Pantera, Starknet has already brought hyperscale and ultra-low fees to Ethereum.\n\nToday its mission is to deliver institutional-grade Bitcoin finance on-chain and privacy solutions. Starknet is also advancing post-quantum research, with a published roadmap to make its proving and settlement stack quantum-safe, so value secured on Starknet stays secure against future quantum attacks.",
-    "startDate": "2026-10-08T11:00:00.000Z",
-    "endDate": "2026-10-08T14:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/starknet-private-dinner",
-    "registrationUrl": "https://luma.com/starknet-private-dinner",
-    "coverImage": "/events/luma-batch-evtGE7xegumbiS7a-0fef9925.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Starknet Foundation"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/starknet-private-dinner",
-      "eventId": "evt-GE7xegumbiS7aBe",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtBhqeqQbgW2t5V",
-    "slug": "a63ces7l",
-    "name": "Investors, Institutions and Innovators Night 2026",
-    "description": "Join BTSE, Figment, Fintonia Group, and TRIVE Ventures for Investors, Institutions and Innovators Night 2026 during TOKEN2049 Singapore.\n\nOn Day 2 of TOKEN2049 and ahead of the F1 Singapore Grand Prix weekend, join us for an invite-only evening for capital allocators, institutional leaders and founders working across traditional finance and digital assets.\n\nExpect good food, drinks and conversations, with time to exchange perspectives, meet potential collaborators and reconnect with peers in a relaxed setting.\n\nSecure your spot and be part of an evening dedicated to advancing the future of TradFi and Web3!\n\n*Please note that the exact location will be only disclosed to approved guests closer to the event date.\n\nSponsoring Partners\n\nBTSE\n\nBTSE Group is a leading provider of blockchain asset trading and technology solutions. Founded in 2018, BTSE builds the infrastructure powering digital asset markets worldwide — institutional-grade exchange technology, deep shared liquidity, and other value-added services. Partners can white-label exchange infrastructure, wallets, and payment gateways, enabling fiat and crypto transactions across 50+ major currencies. Through technology, liquidity, and licensed local partnerships, BTSE connects traditional finance and digital assets for institutions and businesses globally.\n\nWebsite: https://www.btse.com/en\nX (Twitter): https://x.com/BTSE_Official\nLinkedIn: https://www.linkedin.com/company/btseofficial\n\nFigment\n\nFigment is the leading independent provider of staking infrastructure. Figment provides the complete staking solution for over 1,500 institutional clients, including asset managers, exchanges, wallets, foundations, custodians, and large token holders, to earn rewards on their digital assets. To learn more about Figment, please visit figment.io.\n\nWebsite: https://figment.io/\nX (Twitter): Figment_io\n\nFintonia Group\n\nFounded in 2014, Fintonia Group is a Singapore-headquartered financial institution specialising in Bitcoin structured loans and investment strategies for corporates, institutions and family offices.\n\nWebsite: https://www.fintoniagroup.com/\nLinkedIn: https://www.linkedin.com/company/fintonia-group/\n\nBrought to you by:\n\nTRIVE Digital / TRIVE Ventures\n\nTRIVE Digital is the Web3 investment arm of TRIVE Ventures, a licensed Venture Capital Fund Manager based in Singapore that has been investing in revolutionary Southeast Asian startups since 2019. Focusing on ventures in Web3 infrastructure, immersive digital entertainment, and decentralized finance, we aim to build the backbone of Web3, pioneer new realms of digital interaction, and disrupt traditional asset markets. With a deep understanding of the evolving digital landscape, a proven track record, and a commitment to driving meaningful change, our team of experts empowers visionary entrepreneurs and developers who are ready to decentralize tomorrow.\n\nWebsite: https://digital.trive.vc/\nX (Twitter): /TRIVEDIGI\n\nHyperbond Studio\n\nHyperbond Studio creates AI-powered applications that blend gaming, emotional AI, and interactive entertainment to forge meaningful connections between humans and technology. Its flagship product, Call Me Sensei\n\nWebsite: https://www.hyperbond.studio/",
-    "startDate": "2026-10-08T10:00:00.000Z",
-    "endDate": "2026-10-08T13:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/a63ces7l",
-    "registrationUrl": "https://luma.com/a63ces7l",
-    "coverImage": "/events/luma-batch-evtBhqeqQbgW2t5V-3ebaf8f5.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "TRIVE Digital | Global Blockchain Conferences"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/a63ces7l",
-      "eventId": "evt-BhqeqQbgW2t5VIV",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtCPAvoPDAVuchB",
-    "slug": "t9z9tqd5",
-    "name": "MOMENTUM",
-    "description": "MOMENTUM — BAMBITZ After Party\n\nKeep the momentum going after TOKEN2049 with an immersive evening of meaningful connections, music, racing, gaming and futuristic visuals.\n\nThe first part of the evening will be dedicated to networking and deeper conversations, offering founders, investors, industry leaders and creators a relaxed setting to connect beyond the usual conference rush.\n\nGuests will enjoy a complimentary free flow all night of carefully selected Italian wines and premium liquors throughout the evening.\n\nAs the night builds, international DJs—including DJ Ser Alex from NYC—will take over the atmosphere. Experience the Singapore F1 track through a racing simulator, challenge friends on classic arcade games and explore large-scale AI-generated projections that reimagine Singapore as a futuristic science-fiction metropolis.\n\nCome for the conversations. Stay for the music. Race the circuit. Play the games. Step into the future.\n\nNetworking • Free-Flow Italian Wines & Premium Liquors • International DJs • Racing Simulator • Arcade Games • AI Visual Experience\n\nAbout Bambitz: BAMBITZ is a forward-thinking Web3 project at the intersection of music and technology. Centered around a virtual panda band, BAMBITZ has developed a unique ecosystem on the Solana blockchain where music revenue directly fuels the utility and value of its native token.\n\nAbout Miyi: Miyi Exchange is the first 5th-gen trading platform that fuses CEX performance, DEX transparency, and SaaS flexibility into one, versatile infrastructure. From retail users to institutional builders, Miyi is the gateway to real-world asset (RWA) trading, AI-optimized liquidity, and Web3 empowerment.\n\nAbout COBO:  Cobo is a leading digital asset infrastructure company building secure financial rails for both humans and AI agents.",
-    "startDate": "2026-10-08T13:00:00.000Z",
-    "endDate": "2026-10-08T18:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/t9z9tqd5",
-    "registrationUrl": "https://luma.com/t9z9tqd5",
-    "coverImage": "/events/luma-batch-evtCPAvoPDAVuchB-b0fe45ea.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "conference",
-    "sourceVerification": {
-      "url": "https://luma.com/t9z9tqd5",
-      "eventId": "evt-CPAvoPDAVuchB4S",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtysvqWnbANDE9t",
     "slug": "q23fn0vw",
     "name": "CONNECT by Cointelegraph: Singapore Edition",
@@ -2689,36 +2599,6 @@
     "sourceVerification": {
       "url": "https://luma.com/54c9x6ri",
       "eventId": "evt-npZcSPkY2es66Te",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtQaRHdxkE9l6Jm",
-    "slug": "hb6ziku6",
-    "name": "Trustable Systems in a Distrustful World: Singapore’s Blockchain Survival Strategy",
-    "description": "Anthropologist Emily Chua (NUS) asks how blockchain’s political-economic impacts are shaped by histories of power and governance\n\nWhile blockchain is often framed as a technology for bypassing government institutions, Singapore’s central bank sees it differently: as a tool that regulated financial companies should use to make their operations more efficient. This talk examines Singapore’s blockchain-based fintech sector as the product of a concerted government strategy to strengthen the island-nation’s position as a global financial centre. Drawing on ethnographic fieldwork with industry actors, Emily Chua shows how efforts to institutionalize blockchain’s “trustless” technology circle back to older questions about trust in money, and argues for a broader engagement with money’s cultural, political, and economic dimensions.\n\nEmily Chua is Associate Professor at the National University of Singapore, Department of Sociology & Anthropology. She researches competing constructions of society, value, money, and truth in an age of fast, ubiquitous digital devices.",
-    "startDate": "2026-10-08T14:00:00.000Z",
-    "endDate": "2026-10-08T15:30:00.000Z",
-    "city": "Zug",
-    "country": "Switzerland",
-    "location": "Zug Institute for Blockchain Research (ZIBR), Zug Institute for Blockchain Research (ZIBR), Dammstrasse 16/Fl 3, 6300 Zug, Switzerland",
-    "url": "https://luma.com/hb6ziku6",
-    "registrationUrl": "https://luma.com/hb6ziku6",
-    "coverImage": "/events/luma-batch-evtQaRHdxkE9l6Jm-1e5b95cd.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Zurich",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/hb6ziku6",
-      "eventId": "evt-QaRHdxkE9l6JmUk",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

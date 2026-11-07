@@ -224,112 +224,6 @@
     }
   },
   {
-    "id": "premier-sui-basecamp-2026",
-    "slug": "sui",
-    "name": "Sui Basecamp 2026",
-    "description": "The next $5 trillion in transactions won't be human. Join the global Sui community in Singapore on October 7–8, 2026 at the iconic Marina Bay Sands, alongside TOKEN2049 — one vision: money that moves as freely as messages.\n\n## Program\n\nSui's global conference brings hands-on AI workshops to learn, apply, and build something real, a vibecoding hackathon with live project showcases, plus agenda tracks, speakers, and sponsors across the ecosystem. On July 4th the team pushed Sui past 6M+ transactions per second in a live experiment — on day one of Basecamp they run it again, live, on the main stage. Agents transact at machine speed, and the next wave of finance demands a network that can keep up.\n\n## Tickets\n\nRegister through the official registration page. Highlights from Sui Basecamp 2025 set the bar for this year's edition.",
-    "startDate": "2026-10-07T09:00:00.000Z",
-    "endDate": "2026-10-08T18:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Marina Bay Sands, Singapore",
-    "url": "https://sui.io/basecamp",
-    "website": "https://sui.io/basecamp",
-    "coverImage": "/events/premier-sui-basecamp-2026-2211b5bb.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "venueName": "Marina Bay Sands",
-    "speakers": [
-      "Evan Cheng",
-      "Alexandre Moufarek",
-      "Michaël van de Poppe",
-      "Sejin Park",
-      "Christophe Revault",
-      "Elliscope Fang",
-      "Raj Murakonda",
-      "Aaron Chen",
-      "Shady El Damaty",
-      "Brian Li",
-      "Kevin Boon",
-      "Ryan Servatius",
-      "Jameel Khalfan"
-    ],
-    "speakerDetails": [
-      {
-        "name": "Evan Cheng",
-        "organization": "Mysten Labs",
-        "title": "Co-Founder, CEO & CTO"
-      },
-      {
-        "name": "Alexandre Moufarek",
-        "organization": "Google DeepMind",
-        "title": "Director of Inception"
-      },
-      {
-        "name": "Michaël van de Poppe",
-        "organization": "MN Capital & MN Fund",
-        "title": "Founder & CIO"
-      },
-      {
-        "name": "Sejin Park",
-        "organization": "Gorae Labs",
-        "title": "CEO"
-      },
-      {
-        "name": "Christophe Revault",
-        "organization": "Current",
-        "title": "CCO"
-      },
-      {
-        "name": "Elliscope Fang",
-        "organization": "NAVI",
-        "title": "Co-Founder & CEO"
-      },
-      {
-        "name": "Raj Murakonda",
-        "organization": "AlphaFi",
-        "title": "Co-Founder"
-      },
-      {
-        "name": "Aaron Chen",
-        "organization": "Loqua",
-        "title": "CEO"
-      },
-      {
-        "name": "Shady El Damaty",
-        "organization": "Holonym Foundation",
-        "title": "CEO & Co-Founder"
-      },
-      {
-        "name": "Brian Li",
-        "organization": "Miso Labs",
-        "title": "CEO & Founder"
-      },
-      {
-        "name": "Kevin Boon",
-        "organization": "Mysten Labs",
-        "title": "President"
-      },
-      {
-        "name": "Ryan Servatius",
-        "organization": "Mysten Labs",
-        "title": "Senior Director & Head of Partnerships"
-      },
-      {
-        "name": "Jameel Khalfan",
-        "organization": "Sui Foundation",
-        "title": "Global Head of Ecosystem"
-      }
-    ],
-    "descriptionSource": {
-      "url": "https://sui.io/basecamp",
-      "fetchedAt": "2026-09-22T12:14:29.000Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Sui Basecamp 2026 | Sui’s global conference",
-      "sha256": "f7c01bee292af9d612535f1b9bdfecd4d5f5851a9c5d08ba28c4cf2c381a2c67"
-    }
-  },
-  {
     "id": "premier-swell-2026",
     "slug": "ripple-swell-2026",
     "name": "Ripple Swell 2026",
@@ -807,32 +701,6 @@
       "fetchedAt": "2026-09-22T08:21:52.153Z",
       "method": "reviewed-primary-sources"
     }
-  },
-  {
-    "id": "premier-stablecoinsg",
-    "slug": "stablecoin-summit-2026",
-    "name": "Stablecoin Summit Singapore 2026",
-    "description": "Asia's premier event for stablecoin innovation. The Stablecoin Summit 2026 takes place October 8, 2026 at Andaz Singapore, joining 500+ leaders in payments, policy, and digital assets.\n\n## Program\n\nGovernment, institutions, fintech leaders, and blockchain pioneers explore the future of digital money — real-world use cases, trustless transactions, transparency, and security for enterprises and financial institutions engaged in high-volume cross-border payments, with expert insights, technical deep dives, and top-tier networking.\n\n## Speakers\n\nA curated lineup of global industry leaders: Wayne Huang (Co-founder and Group CEO, XREX Inc.), Hassan Ahmed (Country Director Singapore, Coinbase), Michael Egorov (Founder, Curve), Drake Evans (CTO and Co-Founder, Agora), Tushar Gulhane (VP Treasury and WCM, SAP Asia), and Bhau Kotecha (Head of Paxos Labs). Speaker applications run through the official site.",
-    "startDate": "2026-10-08",
-    "endDate": "2026-10-08",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Andaz Singapore, Singapore",
-    "url": "https://xrex.io",
-    "website": "https://stablecoinsummit.com/",
-    "coverImage": "/events/stablecoin.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "descriptionSource": {
-      "url": "https://stablecoinsummit.com/",
-      "fetchedAt": "2026-09-22T12:14:29.000Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Stablecoin Summit 2026",
-      "sha256": "4b4c18ae118ebbc660bec5615887af967d17557d20d7e2e843267819a4472c6c"
-    },
-    "registrationUrl": "https://stablecoinsummit.com/",
-    "timezone": "Asia/Singapore",
-    "venueName": "Andaz Singapore"
   },
   {
     "id": "premier-tabconf",
@@ -1335,33 +1203,6 @@
       "eventId": "evt-l0Q2lprJGf8HgEj",
       "fetchedAt": "2026-09-20T07:56:55.046Z",
       "method": "luma-page"
-    }
-  },
-  {
-    "id": "premier-theodds",
-    "slug": "the2",
-    "name": "The Odds: Prediction Markets Summit Singapore 2026",
-    "description": "A curated prediction markets summit — 400 attendees, 50+ speakers, two stages across four hours — at Suntec City, Singapore, on October 8, 2026, during TOKEN2049 week. 25,000+ attend TOKEN2049; the most relevant 1% meet at The Odds.\n\n## Concept\n\nPrediction markets are being built, listed, priced and written into law by people who almost never sit in the same room. The Odds puts them there for one afternoon: the founders and builders behind the platforms, the owners and operators running them, new and emerging platforms, exchanges and trading venues. An independent, curated summit produced by More & More at the Suntec Convention Centre, 1 Raffles Boulevard — one of Singapore's most established business and convention hubs, with direct access to hotels, restaurants, transport and exhibition space.\n\n## Program\n\nThe agenda is being finalized with the strongest voices in prediction markets; previous Odds speakers set the tone. Speaker nominations run through the official site.",
-    "startDate": "2026-10-08T14:00:00+08:00",
-    "endDate": "2026-10-08T20:00:00+08:00",
-    "city": "Singapore",
-    "country": "SG",
-    "location": "Suntec Convention Centre, 1 Raffles Boulevard, Suntec City, Singapore, SG",
-    "url": "https://mnm.live/theodds/t2049singapore",
-    "website": "https://mnm.live/theodds/t2049singapore",
-    "coverImage": "/events/premier-theodds-231d81f4.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "venueName": "Suntec Convention Centre",
-    "streetAddress": "1 Raffles Boulevard, Suntec City",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "descriptionSource": {
-      "url": "https://mnm.live/theodds/t2049singapore",
-      "fetchedAt": "2026-09-22T12:14:29.000Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "The Odds: Prediction Markets Summit Singapore 2026",
-      "sha256": "9b0cb49d44d0ac827cfdc94f2e11705572ad851eb4820807e9deb83d9b30dc3d"
     }
   },
   {
