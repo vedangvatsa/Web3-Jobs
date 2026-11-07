@@ -1223,5 +1223,15 @@
     "organizationId": "340fd637-c3e0-4384-86c5-dd0cf3d0ba17",
     "owner": "Sentient",
     "website": "https://sentient.foundation"
+  },
+  "ashby:squads": {
+    "companies": [
+      "Squads",
+      "Squads Protocol",
+      "Squads Labs"
+    ],
+    "organizationId": "f78beec5-e51a-416b-93e6-3b4aaec3fa21",
+    "owner": "Squads",
+    "website": "https://squads.xyz"
   }
 }

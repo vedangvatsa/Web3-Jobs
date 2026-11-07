@@ -114,6 +114,10 @@ jobs:
         run: npx tsx scripts/ingest-ashby-board.ts succinct "Succinct Labs"
         continue-on-error: true
 
+      - name: Ingest Squads Ashby jobs
+        run: npx tsx scripts/ingest-ashby-board.ts squads "Squads"
+        continue-on-error: true
+
       - name: Ingest Official CoinDCX job openings
         run: npx tsx scripts/ingest-coindcx-official.ts
         continue-on-error: true

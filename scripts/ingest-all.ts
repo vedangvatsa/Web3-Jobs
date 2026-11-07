@@ -474,6 +474,7 @@ const FRESH_FEEDS: FeedConfig[] = [
   { company: 'Moonshot',             type: 'ashby',      slug: 'moonshot',               url: 'https://api.ashbyhq.com/posting-api/job-board/moonshot?includeCompensation=true' },
   { company: 'Stork Network',        type: 'ashby',      slug: 'stork',                  url: 'https://api.ashbyhq.com/posting-api/job-board/stork?includeCompensation=true' },
   { company: 'Sentient',             type: 'ashby',      slug: 'sentient',               url: 'https://api.ashbyhq.com/posting-api/job-board/sentient?includeCompensation=true' },
+  { company: 'Squads',               type: 'ashby',      slug: 'squads',                 url: 'https://api.ashbyhq.com/posting-api/job-board/squads?includeCompensation=true' },
   { company: 'Bastion',              type: 'ashby',      slug: 'Bastion',                url: 'https://api.ashbyhq.com/posting-api/job-board/Bastion?includeCompensation=true' },
   { company: 'Worldcoin',            type: 'ashby',      slug: 'Tools%20for%20Humanity', url: 'https://api.ashbyhq.com/posting-api/job-board/Tools%20for%20Humanity?includeCompensation=true' },
   { company: 'Alchemy',              type: 'ashby',      slug: 'alchemy',                url: 'https://api.ashbyhq.com/posting-api/job-board/alchemy?includeCompensation=true' },
