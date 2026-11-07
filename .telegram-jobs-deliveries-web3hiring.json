@@ -15423,5 +15423,119 @@
     "slotKey": "2026-11-07:morning",
     "messageId": 16617,
     "sentAt": "2026-11-07T03:32:03.172Z"
+  },
+  "b55f4133-a295-486f-bcdb-553c601720c1": {
+    "status": "reserved",
+    "reservedAt": "2026-11-07T03:32:04.901Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5025176101",
+          "title": "Transaction Monitoring Lead",
+          "company": "BCB Group",
+          "link": "https://job-boards.eu.greenhouse.io/bcbgroup/jobs/5025176101",
+          "date": "2026-11-03T07:47:44-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BCB Group [bcbgroup]",
+          "location": "London",
+          "department": "Operations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "tm"
+        },
+        "key": "5025176101",
+        "slug": "tm",
+        "url": "https://hashtagweb3.com/tm?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BCB Group",
+        "title": "Transaction Monitoring Lead"
+      },
+      {
+        "snapshot": {
+          "id": "dcf76078-582a-4c72-a6bb-5fe33999ff06",
+          "title": "Senior Solana Engineer",
+          "company": "Staking Facilities",
+          "link": "https://talent.superteam.fun/jobs/senior-solana-engineer-at-staking-facilities-dcf76078-582a-4c72-a6bb-5fe33999ff06",
+          "date": "2026-10-13T10:56:03.216593+00:00",
+          "source": "Superteam: Staking Facilities [superteam]",
+          "location": "Remote, Europe",
+          "department": "Full-Time",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng621"
+        },
+        "key": "dcf76078-582a-4c72-a6bb-5fe33999ff06",
+        "slug": "eng621",
+        "url": "https://hashtagweb3.com/eng621?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Staking Facilities",
+        "title": "Senior Solana Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8035271003",
+          "title": "Chief Customer Officer",
+          "company": "Xapo Bank",
+          "link": "https://job-boards.greenhouse.io/xapo61/jobs/8035271003",
+          "date": "2026-10-26T11:09:13-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Xapo Bank [xapo61]",
+          "location": "Gibraltar - Remote",
+          "department": "Executive Management",
+          "active": true,
+          "dateVerified": true,
+          "slug": "co2"
+        },
+        "key": "8035271003",
+        "slug": "co2",
+        "url": "https://hashtagweb3.com/co2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Xapo Bank",
+        "title": "Chief Customer Officer"
+      },
+      {
+        "snapshot": {
+          "id": "ffa65512-ae82-432f-a079-c17faf3ec636",
+          "title": "Security Engineer",
+          "company": "Allium",
+          "link": "https://jobs.ashbyhq.com/allium/ffa65512-ae82-432f-a079-c17faf3ec636",
+          "date": "2026-11-02T14:37:41.230+00:00",
+          "source": "Ashby: Allium [allium]",
+          "location": "Remote",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "General",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec141"
+        },
+        "key": "ffa65512-ae82-432f-a079-c17faf3ec636",
+        "slug": "sec141",
+        "url": "https://hashtagweb3.com/sec141?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Allium",
+        "title": "Security Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8356917",
+          "title": "Staff Security Engineer, Abuse Control",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8356917",
+          "date": "2026-11-05T15:47:17-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Barcelona",
+          "department": "8611 Security Analytics",
+          "active": true,
+          "slug": "sec95",
+          "dateVerified": true
+        },
+        "key": "8356917",
+        "slug": "sec95",
+        "url": "https://hashtagweb3.com/sec95?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Staff Security Engineer"
+      }
+    ],
+    "message": "- BCB Group is hiring <a href=\"https://hashtagweb3.com/tm?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Transaction Monitoring Lead</a>\n- Staking Facilities is hiring <a href=\"https://hashtagweb3.com/eng621?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Solana Engineer</a>\n- Xapo Bank is hiring <a href=\"https://hashtagweb3.com/co2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Chief Customer Officer</a>\n- Allium is hiring <a href=\"https://hashtagweb3.com/sec141?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Security Engineer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sec95?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Security Engineer, Abuse Control</a>",
+    "slotKey": "2026-11-07:morning"
   }
 }
