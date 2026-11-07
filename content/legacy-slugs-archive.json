@@ -154035,5 +154035,244 @@
     "link": "https://jobs.lever.co/anchorage/b0455cc0-8c0d-4dd0-9b1c-17196d92a666",
     "company": "Anchorage Digital",
     "title": "Member of Client Experience, CXM"
+  },
+  "qa98": {
+    "id": "744000159831659",
+    "link": "https://jobs.smartrecruiters.com/Solflare/744000159831659-senior-quality-engineer",
+    "company": "Solflare",
+    "title": "Senior Quality Engineer"
+  },
+  "mgr228": {
+    "id": "0287cd72-6f37-4fe2-8e6a-a9ebfd2b5163",
+    "link": "https://jobs.ashbyhq.com/Elliptic/0287cd72-6f37-4fe2-8e6a-a9ebfd2b5163",
+    "company": "Elliptic",
+    "title": "Senior Customer Success Manager, Enterprise"
+  },
+  "ops142": {
+    "id": "5011951101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5011951101",
+    "company": "Bybit",
+    "title": "Asset/Wallet Operations"
+  },
+  "eng706": {
+    "id": "7943130",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/7943130",
+    "company": "DRW",
+    "title": "Senior Software Engineer, Platform Services"
+  },
+  "eng699": {
+    "id": "8331536",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8331536",
+    "company": "DRW",
+    "title": "Software Engineer - Trading Operations"
+  },
+  "inv3": {
+    "id": "bab2528f-ba76-4508-9aab-9af56ab06178",
+    "link": "https://jobs.ashbyhq.com/trm-labs/bab2528f-ba76-4508-9aab-9af56ab06178",
+    "company": "TRM Labs",
+    "title": "Global Investigator (EMEA)"
+  },
+  "csta2": {
+    "id": "8334761",
+    "link": "https://www.coinbase.com/careers/positions/8334761?gh_jid=8334761",
+    "company": "Coinbase",
+    "title": "Customer Success Team Agent II"
+  },
+  "rc4": {
+    "id": "242cd1a8-a3fa-423b-a136-6cd57dfbce1d",
+    "link": "https://jobs.ashbyhq.com/trm-labs/242cd1a8-a3fa-423b-a136-6cd57dfbce1d",
+    "company": "TRM Labs",
+    "title": "Recruiting Coordinator (Contract)"
+  },
+  "inv2": {
+    "id": "9a2ca385-f432-4e0e-9946-c991203fd466",
+    "link": "https://jobs.ashbyhq.com/trm-labs/9a2ca385-f432-4e0e-9946-c991203fd466",
+    "company": "TRM Labs",
+    "title": "Global Investigator (APAC)"
+  },
+  "eng641": {
+    "id": "8302220",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8302220?t=gh_src=&gh_jid=8302220",
+    "company": "Robinhood",
+    "title": "Staff iOS Engineer, Trading Tools"
+  },
+  "ppf": {
+    "id": "8301260",
+    "link": "https://stripe.com/jobs/search?gh_jid=8301260",
+    "company": "Stripe",
+    "title": "People Partner, Finance"
+  },
+  "fs31": {
+    "id": "f340fc2f-c2b3-48a0-9df3-757830237d0e",
+    "link": "https://jobs.ashbyhq.com/kraken.com/f340fc2f-c2b3-48a0-9df3-757830237d0e",
+    "company": "Kraken",
+    "title": "Senior Full Stack Engineer, Growth & Experimentation – Krak"
+  },
+  "ob7": {
+    "id": "5008130101",
+    "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5008130101",
+    "company": "StraitsX",
+    "title": "Commercial Account Onboarding Associate"
+  },
+  "ks2": {
+    "id": "5006646101",
+    "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5006646101",
+    "company": "StraitsX",
+    "title": "KYB Specialist"
+  },
+  "sec114": {
+    "id": "331dbcfd-3faf-4357-a7d8-3acd854b4b42",
+    "link": "https://jobs.ashbyhq.com/ramp/331dbcfd-3faf-4357-a7d8-3acd854b4b42",
+    "company": "Ramp",
+    "title": "Physical Security Lead"
+  },
+  "be76": {
+    "id": "3500a697-6f75-42b9-ac08-a74fabf99558",
+    "link": "https://jobs.ashbyhq.com/trm-labs/3500a697-6f75-42b9-ac08-a74fabf99558",
+    "company": "TRM Labs",
+    "title": "Backend Engineer, Agent Tools (LATAM)"
+  },
+  "mgr207": {
+    "id": "96237912",
+    "link": "https://jobs.solana.com/companies/streamflow-2/jobs/96237912-social-media-content-manager-remote-europe-ft",
+    "company": "Streamflow",
+    "title": "Social Media & Content Manager (🌍Remote - Europe, FT)"
+  },
+  "aso71": {
+    "id": "96234278",
+    "link": "https://jobs.solana.com/companies/streamflow-2/jobs/96234278-junior-customer-experience-associate-remote-ft",
+    "company": "Streamflow",
+    "title": "Junior Customer Experience Associate (🌍Remote, FT)"
+  },
+  "eng660": {
+    "id": "96228008",
+    "link": "https://jobs.solana.com/companies/equa-network-2/jobs/96228008-founding-software-engineer",
+    "company": "Equa Network",
+    "title": "Founding Software Engineer"
+  },
+  "ds17": {
+    "id": "4e5149ef-0e8f-462f-985e-ddc50e68a489",
+    "link": "https://jobs.ashbyhq.com/Elliptic/4e5149ef-0e8f-462f-985e-ddc50e68a489",
+    "company": "Elliptic",
+    "title": "Data Science Lead"
+  },
+  "dshk": {
+    "id": "6220131004",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+    "company": "Galaxy Digital",
+    "title": "Senior Desktop Support, Hong Kong"
+  },
+  "sls236": {
+    "id": "b5f48679-0993-4467-b8b2-f3833f2ecb3b",
+    "link": "https://jobs.ashbyhq.com/grvt/b5f48679-0993-4467-b8b2-f3833f2ecb3b",
+    "company": "GRVT",
+    "title": "BD Executive/Manager"
+  },
+  "sls234": {
+    "id": "83a30be2-db14-4dca-915c-195bc6d3f0ec",
+    "link": "https://jobs.ashbyhq.com/grvt/83a30be2-db14-4dca-915c-195bc6d3f0ec",
+    "company": "GRVT",
+    "title": "BD Executive/Manager"
+  },
+  "tr90": {
+    "id": "2f09bd86-e134-4fcc-bad9-b17d44ca5f9f",
+    "link": "https://jobs.lever.co/crypto/2f09bd86-e134-4fcc-bad9-b17d44ca5f9f",
+    "company": "Crypto.com",
+    "title": "Trading Desk Operations, Senior Associate to Director level - Quant Trading Team"
+  },
+  "tr89": {
+    "id": "af08c610-f050-479a-8ec6-b4d5102bf460",
+    "link": "https://jobs.lever.co/crypto/af08c610-f050-479a-8ec6-b4d5102bf460",
+    "company": "Crypto.com",
+    "title": "Trading Desk Operations, Senior Associate to Director level - Quant Trading Team"
+  },
+  "sls250": {
+    "id": "A6E9BDCCE6",
+    "link": "https://apply.workable.com/j/A6E9BDCCE6",
+    "company": "GoMining",
+    "title": "Middle Accountant (VAT, AP/AR)"
+  },
+  "sls430": {
+    "id": "keka-dcx-146600",
+    "link": "https://dcx.keka.com/careers/jobdetails/146600",
+    "company": "BitOasis",
+    "title": "Institutional Sales",
+    "newSlug": "sls448"
+  },
+  "cmp152": {
+    "id": "6c4683cd-d6e6-4cf6-a021-5db9f3f7f82d",
+    "link": "https://jobs.ashbyhq.com/hifi/6c4683cd-d6e6-4cf6-a021-5db9f3f7f82d",
+    "company": "HIFI",
+    "title": "Compliance Officer",
+    "newSlug": "cmp158"
+  },
+  "rec55": {
+    "id": "38703001-b1cd-4a9b-9abc-be128600b91b",
+    "link": "https://jobs.ashbyhq.com/hifi/38703001-b1cd-4a9b-9abc-be128600b91b",
+    "company": "HIFI",
+    "title": "Recruiter",
+    "newSlug": "rec59"
+  },
+  "eng720": {
+    "id": "202b2b8b-afe5-40b1-9c4b-2817d01419ca",
+    "link": "https://jobs.ashbyhq.com/hifi/202b2b8b-afe5-40b1-9c4b-2817d01419ca",
+    "company": "HIFI",
+    "title": "Software Engineer, Blockchain",
+    "newSlug": "eng729"
+  },
+  "sls428": {
+    "id": "3e23cea8-0e01-47dc-b662-41745f76fff7",
+    "link": "https://jobs.ashbyhq.com/hifi/3e23cea8-0e01-47dc-b662-41745f76fff7",
+    "company": "HIFI",
+    "title": "Account Executive, Stablecoins",
+    "newSlug": "sls447"
+  },
+  "sec149": {
+    "id": "b87454db-52cb-44a2-931b-cfbd49c80d03",
+    "link": "https://jobs.ashbyhq.com/hifi/b87454db-52cb-44a2-931b-cfbd49c80d03",
+    "company": "HIFI",
+    "title": "Security Software Engineer",
+    "newSlug": "sec151"
+  },
+  "ro2": {
+    "id": "keka-dcx-132416",
+    "link": "https://dcx.keka.com/careers/jobdetails/132416",
+    "company": "BitOasis",
+    "title": "Risk Officer",
+    "newSlug": "ro6"
+  },
+  "eng721": {
+    "id": "keka-dcx-145832",
+    "link": "https://dcx.keka.com/careers/jobdetails/145832",
+    "company": "BitOasis",
+    "title": "Senior Software Engineer - Android",
+    "newSlug": "eng728"
+  },
+  "dev48": {
+    "id": "5453094008",
+    "link": "http://block.xyz/careers/jobs/5453094008?gh_jid=5453094008",
+    "company": "Block",
+    "title": "Senior Software Engineer, Developer Experience",
+    "newSlug": "dev50"
+  },
+  "sls429": {
+    "id": "keka-dcx-131208",
+    "link": "https://dcx.keka.com/careers/jobdetails/131208",
+    "company": "BitOasis",
+    "title": "Business Development Manager",
+    "newSlug": "sls446"
+  },
+  "cmp153": {
+    "id": "keka-dcx-143988",
+    "link": "https://dcx.keka.com/careers/jobdetails/143988",
+    "company": "BitOasis",
+    "title": "Senior Manager- Compliance & MLRO",
+    "newSlug": "cmp157"
+  },
+  "sls431": {
+    "id": "keka-liminal-164703",
+    "link": "https://liminal.keka.com/careers/jobdetails/164703",
+    "company": "Liminal",
+    "title": "Senior Associate - Sales Operations"
   }
 }
