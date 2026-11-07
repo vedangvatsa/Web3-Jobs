@@ -114566,7 +114566,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "c23f0192-c63e-4432-ad87-3b0cd9424051",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6aef7d97004e4879a7770a1f"
     }
   ]
 }
