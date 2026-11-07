@@ -141599,23 +141599,27 @@
       "id": "f11a7e8949a38bb7cabc",
       "status": "deferred",
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-08T11:30:00.000Z",
       "lastSeenAt": "2026-11-06T00:28:20.054Z",
       "reason": "source-blocked",
-      "note": "CoinDesk markets piece returned HTTP 429 on both WebFetch and a curl GET with the readiness User-Agent; could not read any text to verify the Injective staked ETF listing.",
+      "note": "CoinDesk markets URL returned HTTP 429 again on a readiness-UA curl GET on Nov 7; no article text available to verify the Injective staked ETF listing or the price roundup. Secondary outlets for the ETF listing still unopened.",
       "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
+          "outcome": "read"
+        },
         {
           "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-06T00:33:19.169Z",
+      "reviewedAt": "2026-11-07T04:13:30.977Z",
       "retrySearches": [
-        "Find readable reporting on the Injective staked ETF listing of Nov. 5 2026 and any second independent source covering it"
+        "Find readable reporting on the Injective staked ETF listing of Nov 5 2026 and any second independent source covering it"
       ],
-      "lastReviewedDay": "2026-11-06",
-      "nextReviewDate": "2026-11-07"
+      "lastReviewedDay": "2026-11-07",
+      "nextReviewDate": "2026-11-08"
     },
     "b2939c80131bac231b32": {
       "source": "Unchained",
@@ -274337,6 +274341,25 @@
           ],
           "reviewedAt": "2026-11-07T04:12:59.748Z",
           "articleSlug": "yaroch"
+        },
+        "f11a7e8949a38bb7cabc": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "CoinDesk markets URL returned HTTP 429 again on a readiness-UA curl GET on Nov 7; no article text available to verify the Injective staked ETF listing or the price roundup. Secondary outlets for the ETF listing still unopened.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-07T04:13:30.977Z",
+          "retrySearches": [
+            "Find readable reporting on the Injective staked ETF listing of Nov 5 2026 and any second independent source covering it"
+          ]
         }
       },
       "baselineSlugs": [
