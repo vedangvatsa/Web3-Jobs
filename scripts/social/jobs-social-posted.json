@@ -111613,7 +111613,8 @@
       },
       "account": "channel:founders",
       "attemptId": "d045e69d-0300-4de7-b711-10707a465802",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x72ad20d5f035fc6e7aae0aef3c29af9644f1926c"
     }
   ]
 }
