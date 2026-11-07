@@ -110380,7 +110380,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "21d2587c-7cd7-43cb-9bdc-a61fb7d44b95",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6aee9bdea7751de7c9c2b532"
     }
   ]
 }
