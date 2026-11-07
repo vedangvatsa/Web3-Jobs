@@ -113698,7 +113698,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "c50b6308-9cd7-4791-8597-1aa1b79a25d2",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6aef0dc6229bf05daf480454"
     }
   ]
 }
