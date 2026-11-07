@@ -3410,5 +3410,36 @@
     "slotKey": "2026-11-07:morning",
     "messageId": 65810,
     "sentAt": "2026-11-07T03:38:12.485Z"
+  },
+  "2f379512-ca1a-4cc9-88e4-6f2f74aca71d": {
+    "status": "reserved",
+    "reservedAt": "2026-11-07T11:35:52.749Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Ex-FBI Agent Pleads Guilty to $2.47 Million Crypto Theft",
+        "summary": "Patrick Steven Yaroch used credentials from 35 bureau investigations to transfer funds into personal cryptocurrency wallets.",
+        "link": "https://hashtagweb3.com/yaroch?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Former FBI agent pleads guilty to stealing $2.47 million in crypto from bureau cases"
+      },
+      {
+        "index": -1,
+        "headline": "Hackers Convert $50 Million in Stolen XRP to Bitcoin",
+        "summary": "Elliptic reported that thieves exchanged 42 million stolen XRP using THORChain, leaving 192 million tokens unmoved.",
+        "link": "https://hashtagweb3.com/xrplaunder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Hackers Swap About $50 Million of Stolen XRP Into Bitcoin, Elliptic Says"
+      },
+      {
+        "index": 1,
+        "headline": "US Sanctions Canadian Currency Exchanges Over Iran Links",
+        "summary": "Additionally, officials offered up to $20 million and relocation for information regarding Iran's nuclear program.",
+        "link": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "US sanctions Canadian money-exchange firms over Iran ties"
+      }
+    ],
+    "slotKey": "2026-11-07:afternoon"
   }
 }
