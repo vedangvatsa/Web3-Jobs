@@ -113870,7 +113870,8 @@
         "description": "Join Ramp as Manager, Fraud Operations. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "ea9d7e80-844c-413c-8d8e-a4909a110aa3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mzqnagtaoo2c"
     }
   ]
 }
