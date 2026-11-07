@@ -149159,9 +149159,9 @@
         "Crypto Briefing"
       ],
       "id": "222b144838a17a839193",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-09T21:05:25.000Z",
       "lastSeenAt": "2026-11-07T03:31:47.358Z",
       "articleSlug": "mexcorder",
@@ -149187,7 +149187,29 @@
         "updatedAt": "2026-11-07T04:04:05.953Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the Nov 6 FinCEN order against the Treasury press release, Cointelegraph and Crypto Briefing; figures cross-checked across all three; hero image self-hosted from Wikimedia CC BY 4.0.",
+      "sourceChecks": [
+        {
+          "url": "https://home.treasury.gov/news/press-releases/sb0685",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.fincen.gov/system/files/2026-11/MEXC-Section-9714.pdf",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/mexc-financial-sanctions-illicit-transactions/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-07T04:08:48.316Z",
+      "lastReviewedDay": "2026-11-07"
     },
     "c7316d2042bb75a314fd": {
       "source": "Crypto Briefing",
@@ -274233,6 +274255,31 @@
           ],
           "reviewedAt": "2026-11-07T04:01:09.364Z",
           "articleSlug": "xrplaunder"
+        },
+        "222b144838a17a839193": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Nov 6 FinCEN order against the Treasury press release, Cointelegraph and Crypto Briefing; figures cross-checked across all three; hero image self-hosted from Wikimedia CC BY 4.0.",
+          "sourceChecks": [
+            {
+              "url": "https://home.treasury.gov/news/press-releases/sb0685",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.fincen.gov/system/files/2026-11/MEXC-Section-9714.pdf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/mexc-financial-sanctions-illicit-transactions/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-07T04:08:48.316Z",
+          "articleSlug": "mexcorder"
         }
       },
       "baselineSlugs": [
