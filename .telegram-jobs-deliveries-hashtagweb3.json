@@ -8462,7 +8462,7 @@
     "sentAt": "2026-11-07T11:34:25.703Z"
   },
   "8cfef1ef-1f72-4497-a734-8489d5729473": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-07T19:32:50.571Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -8579,6 +8579,8 @@
       }
     ],
     "message": "- Crypto.com is hiring <a href=\"https://hashtagweb3.com/pm275?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior/Principal Product Manager, User Onboarding &amp; Growth (Crypto.com App)</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/sec115?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Application Security Engineer</a>\n- BitOasis is hiring <a href=\"https://hashtagweb3.com/cps?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Client Payment Specialist</a>\n- Digital Asset is hiring <a href=\"https://hashtagweb3.com/arc2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, Data Architecture (AI Enablement)</a>\n- CertiK is hiring <a href=\"https://hashtagweb3.com/sls419?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Web3 Business Development</a>",
-    "slotKey": "2026-11-07:evening"
+    "slotKey": "2026-11-07:evening",
+    "messageId": 156134,
+    "sentAt": "2026-11-07T19:32:55.640Z"
   }
 }
