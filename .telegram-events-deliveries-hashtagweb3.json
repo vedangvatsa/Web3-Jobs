@@ -4948,5 +4948,53 @@
     "slotKey": "2026-11-07:morning",
     "messageId": 156118,
     "sentAt": "2026-11-07T03:32:24.145Z"
+  },
+  "c70671f2-b454-4987-838f-09661fe7a913": {
+    "status": "reserved",
+    "reservedAt": "2026-11-07T11:32:41.285Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "discovery-evt-nn6OreUXqAcO2wA",
+        "slug": "solana-fitness-zone-sound-healing-breathwork-breakpoint",
+        "name": "Solana Fitness Zone: Sound Healing & Breathwork | Breakpoint 2026",
+        "startDate": "2026-11-17T09:00:00.000Z",
+        "keys": [
+          "discovery-evt-nn6oreuxqaco2wa",
+          "page:solana-fitness-zone-sound-healing-breathwork-breakpoint:2026-11-17",
+          "luma:evt-nn6oreuxqaco2wa",
+          "luma-url:/solanasoundheals",
+          "event:solanafitnesszonesoundhealingbreathworkbreakpoint2026:2026-11-17:london"
+        ]
+      },
+      {
+        "id": "discovery-evt-EYXjEVxXQ9dbkmf",
+        "slug": "solana-fitness-zone-aerial-yoga-breakpoint",
+        "name": "Solana Fitness Zone: Aerial Yoga | Breakpoint 2026",
+        "startDate": "2026-11-17T10:00:00.000Z",
+        "keys": [
+          "discovery-evt-eyxjevxxq9dbkmf",
+          "page:solana-fitness-zone-aerial-yoga-breakpoint:2026-11-17",
+          "luma:evt-eyxjevxxq9dbkmf",
+          "luma-url:/solanaerial",
+          "event:solanafitnesszoneaerialyogabreakpoint2026:2026-11-17:london"
+        ]
+      },
+      {
+        "id": "premier-ethwomen",
+        "slug": "ethwomen",
+        "name": "ETHWomen Florida",
+        "startDate": "2026-11-17T13:00:00.000Z",
+        "keys": [
+          "premier-ethwomen",
+          "page:ethwomen:2026-11-17",
+          "luma:evt-32pspwnxeclehbg",
+          "luma-url:/ethwomen_fl",
+          "event:ethwomenflorida:2026-11-17:davie"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-07:afternoon"
   }
 }
