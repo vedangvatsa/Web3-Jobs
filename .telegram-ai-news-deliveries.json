@@ -3276,5 +3276,38 @@
     "slotKey": "2026-11-06:evening",
     "messageId": 193465,
     "sentAt": "2026-11-06T19:32:48.508Z"
+  },
+  "46d03fe6-7042-4b04-b456-d2eb3f884ba6": {
+    "status": "reserved",
+    "reservedAt": "2026-11-07T03:35:55.054Z",
+    "stories": [
+      {
+        "index": 4,
+        "original_title": "[Ars Technica] “Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+        "headline": "Meta reverses policy on training AI using Facebook page content",
+        "summary": "The company will no longer require page owners to allow their data to be used for model training.",
+        "event_rationale": "This covers a major change in data training permissions for social media content, distinct from other Meta product updates.",
+        "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+        "source": "Ars Technica",
+        "originalTitle": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update."
+      },
+      {
+        "index": 5,
+        "headline": "AI clones of GTA VI may influence release timelines",
+        "summary": "A former Rockstar technical director suggests unauthorized AI versions could pressure the studio to accelerate official game releases.",
+        "link": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+        "source": "Ars Technica",
+        "originalTitle": "Could potential AI clones of GTA VI force a quicker official port?"
+      },
+      {
+        "index": 8,
+        "headline": "Humanoid robot cleaning services and Samsung's AI hardware plans",
+        "summary": "A new humanoid robot performs household chores while Samsung expands its technology production for AI applications.",
+        "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+        "source": "MIT Tech Review",
+        "originalTitle": "The Download: a humanoid cleans house and Samsung builds for the AI boom"
+      }
+    ],
+    "slotKey": "2026-11-07:morning"
   }
 }
