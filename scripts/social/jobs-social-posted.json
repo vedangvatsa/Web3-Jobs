@@ -110380,8 +110380,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "21d2587c-7cd7-43cb-9bdc-a61fb7d44b95",
-      "verification": "pending",
-      "postId": "6aee9bdea7751de7c9c2b532"
+      "verification": "verified",
+      "postId": "6aee9bdea7751de7c9c2b532",
+      "permalink": "https://twitter.com/hashtag_web3/status/2118909497955528905"
     }
   ]
 }
