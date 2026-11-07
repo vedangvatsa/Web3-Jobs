@@ -917,8 +917,9 @@
     "fromChatId": "@hashtagweb3",
     "sourceMessageId": 156120,
     "destination": "@eventsweb3",
-    "status": "reserved",
+    "status": "sent",
     "attempts": 1,
-    "reservedAt": "2026-11-07T11:32:53.398Z"
+    "reservedAt": "2026-11-07T11:32:53.398Z",
+    "deliveredMessageId": 110
   }
 }
