@@ -15911,7 +15911,7 @@
     "sentAt": "2026-11-07T19:32:36.987Z"
   },
   "517c8496-8e9a-4e07-83db-f6e0c16cdd6c": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-07T19:32:38.880Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -16032,6 +16032,8 @@
       }
     ],
     "message": "- Paxos is hiring <a href=\"https://hashtagweb3.com/aso83?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Operational Risk, Senior Associate</a>\n- Lido is hiring <a href=\"https://hashtagweb3.com/ops104?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Strategic Project Manager - Operations</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/mgr128?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Finance Manager</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/mgr108?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Business Analytics Manager</a>\n- Nexo is hiring <a href=\"https://hashtagweb3.com/cmp92?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Regulatory Compliance Specialist</a>",
-    "slotKey": "2026-11-07:evening"
+    "slotKey": "2026-11-07:evening",
+    "messageId": 177,
+    "sentAt": "2026-11-07T19:32:41.411Z"
   }
 }
