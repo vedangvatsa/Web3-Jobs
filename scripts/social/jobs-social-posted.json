@@ -114566,8 +114566,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "c23f0192-c63e-4432-ad87-3b0cd9424051",
-      "verification": "pending",
-      "postId": "6aef7d97004e4879a7770a1f"
+      "verification": "verified",
+      "postId": "6aef7d97004e4879a7770a1f",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524917645863780353"
     }
   ]
 }
