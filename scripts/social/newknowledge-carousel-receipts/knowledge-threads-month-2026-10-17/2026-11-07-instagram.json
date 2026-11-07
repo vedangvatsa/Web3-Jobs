@@ -145,7 +145,7 @@
   },
   "claimId": "23a86546-5afe-460d-8a59-ba03cae09b49",
   "startedAt": "2026-11-07T11:32:05.270Z",
-  "status": "claimed",
+  "status": "container-created",
   "children": {
     "0": {
       "createClaim": "3cee1eab-f2f0-41dc-af07-7e54ea46ed78",
@@ -187,7 +187,7 @@
   "parent": {
     "createClaim": "93fd68be-d183-4160-a5c3-ea3e0e3ab907",
     "startedAt": "2026-11-07T11:33:00.594Z",
-    "status": "claimed",
+    "status": "container-created",
     "childContainerIds": [
       "17921270967461009",
       "17921270988461009",
@@ -195,6 +195,7 @@
       "17921271057461009",
       "17921271078461009",
       "17921271105461009"
-    ]
+    ],
+    "containerId": "17921271126461009"
   }
 }
