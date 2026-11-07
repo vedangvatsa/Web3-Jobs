@@ -115331,6 +115331,46 @@
       "attemptId": "16e33005-d3b1-4c3a-8edd-5124e8116b75",
       "verification": "verified",
       "postId": "0xf9fd76b886da18f815034f20a07e2d424d8b88db"
+    },
+    {
+      "slug": "sls417",
+      "company": "BitGo",
+      "title": "Principal - Accounting Platform",
+      "platform": "linkedin",
+      "postedAt": "2026-11-07T19:36:54.649Z",
+      "expectedText": "BitGo is hiring Principal - Accounting Platform: https://hashtagweb3.com/sls417/li?og=7",
+      "snapshot": {
+        "id": "8931374002",
+        "title": "Principal - Accounting Platform",
+        "company": "BitGo",
+        "link": "https://job-boards.greenhouse.io/bitgo/jobs/8931374002",
+        "date": "2026-11-04T19:06:45-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BitGo [bitgo]",
+        "location": "Palo Alto, CA",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls417"
+      },
+      "payload": {
+        "text": "BitGo is hiring Principal - Accounting Platform: https://hashtagweb3.com/sls417/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls417/li?og=7",
+          "title": "Principal - Accounting Platform at BitGo",
+          "description": "Join BitGo as Principal - Accounting Platform. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls417.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "946fda9d-b76d-4128-b751-1019340f488a",
+      "verification": "creating"
     }
   ]
 }
