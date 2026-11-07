@@ -144447,7 +144447,31 @@
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
       "lastReviewedDay": "2026-11-06",
-      "nextReviewDate": "2026-11-07"
+      "nextReviewDate": "2026-11-07",
+      "articleSlug": "yaroch",
+      "draftProgress": {
+        "id": "4972d29b2b0400e29854",
+        "day": "2026-11-07",
+        "articleSlug": "yaroch",
+        "note": "Read Bitcoin Magazine Nov 6 plea report and Decrypt Nov 6 report in full; DOJ USAO-EDVA primary release returns bot interstitial, not readable. Draft starting; image pending.",
+        "sourceChecks": [
+          {
+            "url": "https://bitcoinmagazine.com/news/former-fbi-agent-pleads-crypto-theft",
+            "outcome": "read"
+          },
+          {
+            "url": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.justice.gov/usao-edva/pr/former-fbi-agent-pleads-guilty-cryptocurrency-theft",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-11-07T04:10:56.105Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "e75dc1ee877ba62e4feb": {
       "source": "Crypto Briefing",
