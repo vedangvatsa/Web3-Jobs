@@ -111397,7 +111397,8 @@
       },
       "account": "channel:web3",
       "attemptId": "8df82e94-6eb3-4999-8781-d2ee8d992f71",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x84a4662a8b27f7346fc070364f4238a4a21fc69d"
     }
   ]
 }
