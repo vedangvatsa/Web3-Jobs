@@ -111037,7 +111037,8 @@
       },
       "account": "channel:growth",
       "attemptId": "f78d4492-754f-4378-89e6-2fee0850d4f5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x502e0010740729273fd37b19879799e137d95d33"
     }
   ]
 }
