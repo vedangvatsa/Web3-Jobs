@@ -111120,8 +111120,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "0888efae-0fe9-4f38-a439-a41db9e1fa31",
-      "verification": "pending",
-      "postId": "6aee9c73a7751de7c9c2cb64"
+      "verification": "verified",
+      "postId": "6aee9c73a7751de7c9c2cb64",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524675899829518337"
     }
   ]
 }
