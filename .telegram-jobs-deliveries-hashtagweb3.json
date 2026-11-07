@@ -8334,5 +8334,129 @@
     "slotKey": "2026-11-07:morning",
     "messageId": 156117,
     "sentAt": "2026-11-07T03:32:13.814Z"
+  },
+  "41281286-82f9-4edd-a901-3a1f1449dd21": {
+    "status": "reserved",
+    "reservedAt": "2026-11-07T11:34:19.012Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "c5834e01-f29b-46a4-ada7-8d80d801eee6",
+          "title": "Tech Ops Intern (Web3)",
+          "company": "BNB Chain",
+          "link": "https://jobs.lever.co/pioneer-services/c5834e01-f29b-46a4-ada7-8d80d801eee6",
+          "date": "2026-10-14T07:00:36.813Z",
+          "source": "Lever: BNB Chain [pioneer-services]",
+          "location": "Remote (London)",
+          "workplaceType": "remote",
+          "department": "BNB Chain",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops20"
+        },
+        "key": "c5834e01-f29b-46a4-ada7-8d80d801eee6",
+        "slug": "ops20",
+        "url": "https://hashtagweb3.com/ops20?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BNB Chain",
+        "title": "Tech Ops Intern"
+      },
+      {
+        "snapshot": {
+          "id": "530d1596-c1bf-41aa-9915-548a692ed66e",
+          "title": "Manager, Sales Development, Public Sector",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/530d1596-c1bf-41aa-9915-548a692ed66e",
+          "date": "2026-10-09T19:14:11.359+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls265"
+        },
+        "key": "530d1596-c1bf-41aa-9915-548a692ed66e",
+        "slug": "sls265",
+        "url": "https://hashtagweb3.com/sls265?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Manager, Sales Development, Public Sector"
+      },
+      {
+        "snapshot": {
+          "id": "5025273101",
+          "title": "Senior Business Operations & Strategy Manager",
+          "company": "BVNK",
+          "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5025273101",
+          "date": "2026-11-03T08:56:13-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BVNK [bvnk]",
+          "location": "London / NYC",
+          "department": "Operations",
+          "active": true,
+          "salary": "$165k – $210k/yr",
+          "dateVerified": true,
+          "slug": "ops143"
+        },
+        "key": "5025273101",
+        "slug": "ops143",
+        "url": "https://hashtagweb3.com/ops143?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BVNK",
+        "title": "Senior Business Operations & Strategy Manager"
+      },
+      {
+        "snapshot": {
+          "id": "5e150bc1-bf8f-485c-861a-a2abc6c81f39",
+          "title": "Head of Business Risk & Controls",
+          "company": "MoonPay",
+          "link": "https://jobs.lever.co/moonpay/5e150bc1-bf8f-485c-861a-a2abc6c81f39",
+          "date": "2026-10-12T16:51:28.949Z",
+          "source": "Lever: MoonPay [moonpay]",
+          "location": "United States - Remote",
+          "workplaceType": "remote",
+          "department": "Executive Office",
+          "active": true,
+          "dateVerified": true,
+          "slug": "brc"
+        },
+        "key": "5e150bc1-bf8f-485c-861a-a2abc6c81f39",
+        "slug": "brc",
+        "url": "https://hashtagweb3.com/brc?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "MoonPay",
+        "title": "Head of Business Risk & Controls"
+      },
+      {
+        "snapshot": {
+          "id": "e89b32dd03f5",
+          "title": "Senior/Staff SI/PI Engineer",
+          "company": "Bitdeer",
+          "link": "https://bitdeer.breezy.hr/p/e89b32dd03f5-senior-staff-si-pi-engineer",
+          "date": "2026-11-02",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Bitdeer [bitdeer]",
+          "location": "Singapore, SG",
+          "isRemote": false,
+          "department": "IC Lab",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://bitdeer.breezy.hr/p/e89b32dd03f5-senior-staff-si-pi-engineer",
+            "checkedAt": "2026-11-04T00:07:28.466Z",
+            "bodySha256": "3063f60a577e1f82d0e4842c89aae375c0574f821f95ee5e1fe413dfb2689e8f",
+            "provider": "breezy",
+            "datePosted": "2026-11-02"
+          },
+          "slug": "eng674"
+        },
+        "key": "e89b32dd03f5",
+        "slug": "eng674",
+        "url": "https://hashtagweb3.com/eng674?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "Senior/Staff SI/PI Engineer"
+      }
+    ],
+    "message": "- BNB Chain is hiring <a href=\"https://hashtagweb3.com/ops20?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Tech Ops Intern (Web3)</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/sls265?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Sales Development, Public Sector</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/ops143?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Business Operations &amp; Strategy Manager</a>\n- MoonPay is hiring <a href=\"https://hashtagweb3.com/brc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Business Risk &amp; Controls</a>\n- Bitdeer is hiring <a href=\"https://hashtagweb3.com/eng674?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior/Staff SI/PI Engineer</a>",
+    "slotKey": "2026-11-07:afternoon"
   }
 }
