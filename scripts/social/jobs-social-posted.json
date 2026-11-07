@@ -114704,6 +114704,38 @@
       "attemptId": "e7a4e00d-1eff-46bb-b4fb-aa6916a3758c",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Saturday, 07-Nov-26 11:37:07 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ACdDHMSztbbPSIg5dohuJrK\"}"
+    },
+    {
+      "slug": "sls417",
+      "company": "BitGo",
+      "title": "Principal - Accounting Platform",
+      "platform": "bluesky",
+      "postedAt": "2026-11-07T19:36:54.649Z",
+      "expectedText": "BitGo is hiring Principal - Accounting Platform: https://hashtagweb3.com/sls417/bsky?og=7",
+      "snapshot": {
+        "id": "8931374002",
+        "title": "Principal - Accounting Platform",
+        "company": "BitGo",
+        "link": "https://job-boards.greenhouse.io/bitgo/jobs/8931374002",
+        "date": "2026-11-04T19:06:45-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BitGo [bitgo]",
+        "location": "Palo Alto, CA",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls417"
+      },
+      "payload": {
+        "text": "BitGo is hiring Principal - Accounting Platform: https://hashtagweb3.com/sls417/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/sls417/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/sls417.png?v=7",
+        "company": "BitGo",
+        "title": "Principal - Accounting Platform",
+        "description": "Join BitGo as Principal - Accounting Platform. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "7de1022a-bb21-4121-afa0-802d3dfbd4f1",
+      "verification": "creating"
     }
   ]
 }
