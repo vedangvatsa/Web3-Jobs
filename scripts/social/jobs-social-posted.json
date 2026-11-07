@@ -110412,6 +110412,38 @@
       "attemptId": "20004aa2-c2b3-451b-b3f3-ab0c50d9849c",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Friday, 06-Nov-26 19:32:55 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A01vN5th5ktGB_5RTZg6rXT\"}"
+    },
+    {
+      "slug": "aso46",
+      "company": "Figure",
+      "title": "Customer Success Associate",
+      "platform": "bluesky",
+      "postedAt": "2026-11-07T03:32:43.141Z",
+      "expectedText": "Figure is hiring Customer Success Associate: https://hashtagweb3.com/aso46/bsky?og=7",
+      "snapshot": {
+        "id": "8821166002",
+        "title": "Customer Success Associate",
+        "company": "Figure",
+        "link": "https://job-boards.greenhouse.io/figure/jobs/8821166002",
+        "date": "2026-10-23T13:39:19-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Figure [figure]",
+        "location": "Reno, NV",
+        "department": "Customer Support Center",
+        "active": true,
+        "dateVerified": true,
+        "slug": "aso46"
+      },
+      "payload": {
+        "text": "Figure is hiring Customer Success Associate: https://hashtagweb3.com/aso46/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/aso46/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/aso46.png?v=7",
+        "company": "Figure",
+        "title": "Customer Success Associate",
+        "description": "Join Figure as Customer Success Associate. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "f232935e-00db-40bc-87e2-4d1316e5ad43",
+      "verification": "creating"
     }
   ]
 }
