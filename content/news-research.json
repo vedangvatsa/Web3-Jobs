@@ -136491,9 +136491,9 @@
       "articleSlug": "cantonstock",
       "draftProgress": {
         "id": "e755d4d6f2b69ec05fc1",
-        "day": "2026-11-06",
+        "day": "2026-11-07",
         "articleSlug": "cantonstock",
-        "note": "Read Crypto Briefing and crypto.news on the Nov 4 CNTN trades; issuer primary release (cantonstrategic.com/PRNewswire) and SEC innovation-exemption page still unopened, draft not started.",
+        "note": "Read Crypto Briefing, crypto.news, the PRNewswire primary release and the SEC Sept 17 press release; hero image downloaded and compressed; draft in progress.",
         "sourceChecks": [
           {
             "url": "https://cryptobriefing.com/canton-cntn-first-tokenized-us-stock-sec/",
@@ -136502,9 +136502,17 @@
           {
             "url": "https://crypto.news/canton-strategic-tokenized-stock-trades-sec-exemption/",
             "outcome": "read"
+          },
+          {
+            "url": "https://www.prnewswire.com/news-releases/first-trades-of-tokenized-us-equity-under-sec-innovation-exemption-executed-on-the-canton-network-302929795.html",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-06T01:34:24.453Z",
+        "updatedAt": "2026-11-07T04:18:56.095Z",
         "approved": false,
         "mustReview": true
       }
