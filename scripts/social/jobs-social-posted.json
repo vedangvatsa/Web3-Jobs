@@ -111943,8 +111943,9 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "a07f53de-8eb1-4dad-b5d0-1d3c98641b4b",
-      "verification": "pending",
-      "postId": "6aee9d33a7751de7c9c310c2"
+      "verification": "verified",
+      "postId": "6aee9d33a7751de7c9c310c2",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524676709967806465"
     }
   ]
 }
