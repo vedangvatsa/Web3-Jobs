@@ -896,6 +896,9 @@
   "https://hashtagweb3.com/tradertraitor?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/yccrypto?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/swissetf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/ldkprobe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/strategystrc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/strivesats?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2594,6 +2597,12 @@
   "Y Combinator's October crypto request puts AI fundraising and agent tools at the center",
   "FINMA approves first Swiss retail bitcoin fund",
   "FINMA clears Switzerland's first retail bitcoin ETF",
+  "LDK Update Prevents Tracking of Private Lightning Channels",
+  "LDK Patch Blocks Probe Linking Private Channels to Their Funding Output",
+  "Strategy increases share buyback authorization to $3 billion",
+  "Strategy lifts STRC buyback cap to $3 billion after $193 million week",
+  "Strive holds 36,818 Bitcoin before SATS settlement",
+  "Strive holds 36,818 bitcoin ahead of $700 million SATS settlement",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -3040,5 +3049,8 @@
   "fp:147m|97m|attacker|b14g|balanc|cod|cor|drain|due|flaw",
   "fp:28b|64b|asset|authority|binanc|bitget|chainalysis|exploit|frozen|fund",
   "fp:accelerator|agent|center|combinator|fundrais|infrastructur|october|project|put|request",
-  "fp:approv|authoriz|clear|etf|finma|fund|identity|individual|investment|investor"
+  "fp:approv|authoriz|clear|etf|finma|fund|identity|individual|investment|investor",
+  "fp:attacker|block|channel|fund|ldk|lightn|link|onchain|original|output",
+  "fp:1931m|193m|221m|authorization|buyback|cap|end|increas|lift|october18",
+  "fp:223|700m|818|acquired1|ahead|dollar|holds36|october20|offer|preferr"
 ]
