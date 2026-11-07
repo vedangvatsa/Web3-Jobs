@@ -3313,7 +3313,7 @@
     "sentAt": "2026-11-07T03:36:10.519Z"
   },
   "06d5505b-aad4-44db-8887-c205aa14881d": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-07T11:34:29.654Z",
     "stories": [
       {
@@ -3341,6 +3341,8 @@
         "originalTitle": "Physicl raises $10M to make the digital world real enough for robots"
       }
     ],
-    "slotKey": "2026-11-07:afternoon"
+    "slotKey": "2026-11-07:afternoon",
+    "messageId": 193470,
+    "sentAt": "2026-11-07T11:34:40.837Z"
   }
 }

@@ -891,6 +891,9 @@
   "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
   "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
   "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+  "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+  "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+  "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2454,6 +2457,12 @@
   "Could potential AI clones of GTA VI force a quicker official port?",
   "Humanoid robot cleaning services and Samsung's AI hardware plans",
   "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+  "Amazon allows users to text Alexa for shopping assistance",
+  "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+  "Underdog debuts 32MB model for speech and music",
+  "Underdog shows off a 32MB speech model in new demo",
+  "Physicl raises $10 million for robot simulation tech",
+  "Physicl raises $10M to make the digital world real enough for robots",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2862,5 +2871,8 @@
   "fp:access|artex|connect|expos|found|hack|hundr|identifi|internet|onlin",
   "fp:abandon|allow|can|commercial|content|data|doe|facebook|longer|meta",
   "fp:accelerat|clon|director|forc|former|gam|gta|influenc|may|official",
-  "fp:application|boom|build|chor|clean|download|expand|hardwar|hous|household"
+  "fp:application|boom|build|chor|clean|download|expand|hardwar|hous|household",
+  "fp:alexa|allow|amazon|assistanc|block|com|customer|expand|featur|help",
+  "fp:32mb|audio|content|debut|demo|despit|fil|generat|limit|music",
+  "fp:10m|adapt|digital|enough|environment|help|mak|market|onlin|physicl"
 ]
