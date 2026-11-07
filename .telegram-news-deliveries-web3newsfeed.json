@@ -3379,7 +3379,7 @@
     "sentAt": "2026-11-06T19:35:29.132Z"
   },
   "797b2e25-c72d-4b9e-a1c8-0b3f202cf8a7": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-07T03:36:45.926Z",
     "stories": [
       {
@@ -3407,6 +3407,8 @@
         "originalTitle": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System"
       }
     ],
-    "slotKey": "2026-11-07:morning"
+    "slotKey": "2026-11-07:morning",
+    "messageId": 65810,
+    "sentAt": "2026-11-07T03:38:12.485Z"
   }
 }
