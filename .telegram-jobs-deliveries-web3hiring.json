@@ -15539,5 +15539,125 @@
     "slotKey": "2026-11-07:morning",
     "messageId": 175,
     "sentAt": "2026-11-07T03:32:07.082Z"
+  },
+  "cc54fbaf-5ec3-4e4b-a9b0-f628e6ad730f": {
+    "status": "reserved",
+    "reservedAt": "2026-11-07T11:32:42.070Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "97930167",
+          "title": "Senior Business Development",
+          "company": "Kamino",
+          "link": "https://jobs.ashbyhq.com/kamino/970dd7fc-161d-45e5-94d2-473cdcf77159",
+          "date": "2026-10-23T18:34:12.000Z",
+          "dateVerified": true,
+          "dateSource": "Solana.JobPosting.postedAt",
+          "source": "Solana Ecosystem: Kamino [getro-solana]",
+          "location": "New York, NY, USA",
+          "department": "Sales & Business Development",
+          "salary": "$160k – $220k/yr",
+          "active": true,
+          "slug": "sls350"
+        },
+        "key": "97930167",
+        "slug": "sls350",
+        "url": "https://hashtagweb3.com/sls350?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kamino",
+        "title": "Senior Business Development"
+      },
+      {
+        "snapshot": {
+          "id": "8042742003",
+          "title": "Compliance Analyst - AML Investigations",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8042742003",
+          "date": "2026-10-23T09:47:35-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Sliema, Malta",
+          "department": "Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp54"
+        },
+        "key": "8042742003",
+        "slug": "cmp54",
+        "url": "https://hashtagweb3.com/cmp54?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Compliance Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "79370191-233b-4d60-94cc-26914b98f75e",
+          "title": "Senior Security Engineer, Infrastructure",
+          "company": "Chainalysis",
+          "link": "https://jobs.ashbyhq.com/chainalysis-careers/79370191-233b-4d60-94cc-26914b98f75e",
+          "date": "2026-11-03T13:58:07.353+00:00",
+          "source": "Ashby: Chainalysis [chainalysis-careers]",
+          "location": "Remote (New York)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "R&D",
+          "active": true,
+          "dateVerified": true,
+          "slug": "infra62"
+        },
+        "key": "79370191-233b-4d60-94cc-26914b98f75e",
+        "slug": "infra62",
+        "url": "https://hashtagweb3.com/infra62?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Chainalysis",
+        "title": "Senior Security Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "keka-liminal-155986",
+          "title": "Technical Success Engineer - Remote",
+          "company": "Liminal",
+          "link": "https://liminal.keka.com/careers/jobdetails/155986",
+          "location": "Remote, India",
+          "isRemote": true,
+          "department": "Technical Account Management",
+          "type": "Full-time",
+          "date": "2026-11-04T08:24:23.677Z",
+          "dateVerified": true,
+          "dateSource": "Keka.JobPosting.publishedOn",
+          "source": "Keka: Liminal [liminal]",
+          "applyUrl": "https://liminal.keka.com/careers/jobdetails/155986",
+          "active": true,
+          "slug": "eng723"
+        },
+        "key": "keka-liminal-155986",
+        "slug": "eng723",
+        "url": "https://hashtagweb3.com/eng723?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Liminal",
+        "title": "Technical Success Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "5026008101",
+          "title": "Tech Lead (Backend): Billing & Fees",
+          "company": "BVNK",
+          "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5026008101",
+          "date": "2026-11-05T05:47:00-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BVNK [bvnk]",
+          "location": "Europe",
+          "department": "Technology",
+          "active": true,
+          "salary": "€85k – €110k/yr",
+          "dateVerified": true,
+          "slug": "be108"
+        },
+        "key": "5026008101",
+        "slug": "be108",
+        "url": "https://hashtagweb3.com/be108?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BVNK",
+        "title": "Tech Lead (Backend): Billing & Fees"
+      }
+    ],
+    "message": "- Kamino is hiring <a href=\"https://hashtagweb3.com/sls350?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Business Development</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/cmp54?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Compliance Analyst - AML Investigations</a>\n- Chainalysis is hiring <a href=\"https://hashtagweb3.com/infra62?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Security Engineer, Infrastructure</a>\n- Liminal is hiring <a href=\"https://hashtagweb3.com/eng723?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Success Engineer - Remote</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/be108?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Tech Lead (Backend): Billing &amp; Fees</a>",
+    "slotKey": "2026-11-07:afternoon"
   }
 }
