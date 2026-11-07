@@ -111946,6 +111946,47 @@
       "verification": "verified",
       "postId": "6aee9d33a7751de7c9c310c2",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524676709967806465"
+    },
+    {
+      "slug": "sls370",
+      "company": "TRM Labs",
+      "title": "Account Director, Financial Institutions",
+      "platform": "linkedin",
+      "postedAt": "2026-11-07T03:36:09.803Z",
+      "expectedText": "TRM Labs is hiring Account Director, Financial Institutions: https://hashtagweb3.com/sls370/li?og=7",
+      "snapshot": {
+        "id": "5aa7e212-37a1-4743-8e04-76d879c71778",
+        "title": "Account Director, Financial Institutions",
+        "company": "TRM Labs",
+        "link": "https://jobs.ashbyhq.com/trm-labs/5aa7e212-37a1-4743-8e04-76d879c71778",
+        "date": "2026-10-30T02:53:41.152+00:00",
+        "source": "Ashby: TRM Labs [trm-labs]",
+        "location": "Remote (United States)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Go-To-Market",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls370"
+      },
+      "payload": {
+        "text": "TRM Labs is hiring Account Director, Financial Institutions: https://hashtagweb3.com/sls370/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls370/li?og=7",
+          "title": "Account Director, Financial Institutions at TRM Labs",
+          "description": "Join TRM Labs as Account Director, Financial Instit. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls370.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "e8822890-947f-4db1-b9fe-c623782de39d",
+      "verification": "creating"
     }
   ]
 }
