@@ -4897,5 +4897,54 @@
     "slotKey": "2026-11-06:evening",
     "messageId": 156112,
     "sentAt": "2026-11-06T19:32:17.430Z"
+  },
+  "2ee2dd44-d868-4704-a369-94fde12bc6a9": {
+    "status": "reserved",
+    "reservedAt": "2026-11-07T03:32:21.407Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-evt-pJHThGT11BBYohC",
+        "slug": "cryptomondays-blockchain-futurist-kickoff",
+        "name": "CryptoMondays Wall Street, Fort Lauderdale and Miami Chapters come together to bring you the Official Blockchain Futurist Conference Kickoff",
+        "startDate": "2026-11-16T23:00:00.000Z",
+        "keys": [
+          "luma-evt-pjhthgt11bbyohc",
+          "cwsflmcctbyobfck",
+          "page:cryptomondays-blockchain-futurist-kickoff:2026-11-16",
+          "luma:evt-pjhthgt11bbyohc",
+          "luma-url:/btlvlxvx",
+          "event:cryptomondayswallstreetfortlauderdaleandmiamichapterscometogethertobringyoutheofficialblockchainfuturistconferencekickoff:2026-11-16:davie"
+        ]
+      },
+      {
+        "id": "discovery-evt-vvQI67NJtBlP4qH",
+        "slug": "solana-fitness-zone-dynamic-pilates-breakpoint-2026-11-17",
+        "name": "Solana Fitness Zone: Dynamic Pilates | Breakpoint 2026",
+        "startDate": "2026-11-17T07:00:00.000Z",
+        "keys": [
+          "discovery-evt-vvqi67njtblp4qh",
+          "page:solana-fitness-zone-dynamic-pilates-breakpoint-2026-11-17:2026-11-17",
+          "luma:evt-vvqi67njtblp4qh",
+          "luma-url:/solanapilates3",
+          "event:solanafitnesszonedynamicpilatesbreakpoint2026:2026-11-17:london"
+        ]
+      },
+      {
+        "id": "discovery-evt-gjNVvhgcknTCwpc",
+        "slug": "solana-fitness-zone-hiit-class-breakpoint",
+        "name": "Solana Fitness Zone: HIIT Class | Breakpoint 2026",
+        "startDate": "2026-11-17T08:00:00.000Z",
+        "keys": [
+          "discovery-evt-gjnvvhgckntcwpc",
+          "page:solana-fitness-zone-hiit-class-breakpoint:2026-11-17",
+          "luma:evt-gjnvvhgckntcwpc",
+          "luma-url:/solanahiits",
+          "event:solanafitnesszonehiitclassbreakpoint2026:2026-11-17:london"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-07:morning"
   }
 }
