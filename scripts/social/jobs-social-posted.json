@@ -111577,7 +111577,8 @@
       },
       "account": "channel:build",
       "attemptId": "664e2025-073e-4a44-a4fc-23f7ff133375",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xeff03745a0aa92a69162f981fdba45f0d8cb84ae"
     }
   ]
 }
