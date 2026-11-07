@@ -114195,6 +114195,41 @@
       "attemptId": "89103365-3b1d-40e1-a241-c7cc985c8804",
       "verification": "verified",
       "postId": "0x0448927462822dba2c489b9e56d297a93f14de4f"
+    },
+    {
+      "slug": "ops146",
+      "company": "Ramp",
+      "title": "Manager, Fraud Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-11-07T19:32:48.778Z",
+      "expectedText": "Ramp is hiring Manager, Fraud Operations\n\nhttps://hashtagweb3.com/ops146/fc?og=7",
+      "snapshot": {
+        "id": "ad8bb2ef-9c8a-4379-829a-47143257a23b",
+        "title": "Manager, Fraud Operations",
+        "company": "Ramp",
+        "link": "https://jobs.ashbyhq.com/ramp/ad8bb2ef-9c8a-4379-829a-47143257a23b",
+        "date": "2026-11-04T19:40:52.071+00:00",
+        "source": "Ashby: Ramp [ramp]",
+        "location": "Hybrid (New York, NY (HQ))",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Risk",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops146"
+      },
+      "payload": {
+        "text": "Ramp is hiring Manager, Fraud Operations\n\nhttps://hashtagweb3.com/ops146/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops146/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "92ed096f-da79-4649-82d4-9057b0a81de6",
+      "verification": "creating"
     }
   ]
 }
