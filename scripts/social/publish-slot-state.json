@@ -782,10 +782,12 @@
           "xrplaunder",
           "mexcorder"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-11-07T10:48:14.584Z",
         "buildId": "daily-20261107-42364715633-1",
-        "rolloutId": "daily-20261107-42364715633-1"
+        "rolloutId": "daily-20261107-42364715633-1",
+        "buildState": "READY",
+        "observedAt": "2026-11-07T11:11:59.585Z"
       }
     ]
   }
