@@ -114735,7 +114735,8 @@
         "description": "Join BitGo as Principal - Accounting Platform. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "7de1022a-bb21-4121-afa0-802d3dfbd4f1",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mzqnhlo6mc2b"
     }
   ]
 }
