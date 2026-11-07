@@ -111228,6 +111228,35 @@
       "verification": "verified",
       "postId": "6aee9cb0af7e526d43f9b4e3",
       "permalink": "https://twitter.com/hashtag_web3/status/2118910381695312012"
+    },
+    {
+      "slug": "sls370",
+      "company": "TRM Labs",
+      "title": "Account Director, Financial Institutions",
+      "platform": "threads",
+      "postedAt": "2026-11-07T03:36:09.803Z",
+      "expectedText": "TRM Labs is hiring Account Director, Financial Institutions: https://hashtagweb3.com/sls370/th?og=7",
+      "snapshot": {
+        "id": "5aa7e212-37a1-4743-8e04-76d879c71778",
+        "title": "Account Director, Financial Institutions",
+        "company": "TRM Labs",
+        "link": "https://jobs.ashbyhq.com/trm-labs/5aa7e212-37a1-4743-8e04-76d879c71778",
+        "date": "2026-10-30T02:53:41.152+00:00",
+        "source": "Ashby: TRM Labs [trm-labs]",
+        "location": "Remote (United States)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Go-To-Market",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls370"
+      },
+      "payload": {
+        "text": "TRM Labs is hiring Account Director, Financial Institutions: https://hashtagweb3.com/sls370/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/sls370/th?og=7"
+      },
+      "attemptId": "a5b7cf86-417e-477e-a1ac-5a7e04de4c33",
+      "verification": "creating"
     }
   ]
 }
