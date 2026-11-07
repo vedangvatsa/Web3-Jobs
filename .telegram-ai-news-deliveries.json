@@ -3278,7 +3278,7 @@
     "sentAt": "2026-11-06T19:32:48.508Z"
   },
   "46d03fe6-7042-4b04-b456-d2eb3f884ba6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-07T03:35:55.054Z",
     "stories": [
       {
@@ -3308,6 +3308,8 @@
         "originalTitle": "The Download: a humanoid cleans house and Samsung builds for the AI boom"
       }
     ],
-    "slotKey": "2026-11-07:morning"
+    "slotKey": "2026-11-07:morning",
+    "messageId": 193467,
+    "sentAt": "2026-11-07T03:36:10.519Z"
   }
 }

@@ -888,6 +888,9 @@
   "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
   "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
   "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+  "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+  "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+  "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2445,6 +2448,12 @@
   "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
   "Hundreds of Artex AI hacking servers found exposed online",
   "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+  "Meta reverses policy on training AI using Facebook page content",
+  "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+  "AI clones of GTA VI may influence release timelines",
+  "Could potential AI clones of GTA VI force a quicker official port?",
+  "Humanoid robot cleaning services and Samsung's AI hardware plans",
+  "The Download: a humanoid cleans house and Samsung builds for the AI boom",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2850,5 +2859,8 @@
   "fp:add|animat|avatar|call|can|chat|customizabl|devic|featur|interact",
   "fp:agility|commercial|complet|debut|demand|hardwar|humanoid|investor|invit|list",
   "fp:500m|acquisition|agent|alto|buy|clutch|cybersecurity|firm|negotiat|network",
-  "fp:access|artex|connect|expos|found|hack|hundr|identifi|internet|onlin"
+  "fp:access|artex|connect|expos|found|hack|hundr|identifi|internet|onlin",
+  "fp:abandon|allow|can|commercial|content|data|doe|facebook|longer|meta",
+  "fp:accelerat|clon|director|forc|former|gam|gta|influenc|may|official",
+  "fp:application|boom|build|chor|clean|download|expand|hardwar|hous|household"
 ]
