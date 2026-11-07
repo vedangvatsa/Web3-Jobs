@@ -144424,30 +144424,38 @@
       ],
       "alsoCoveredBy": [],
       "id": "4972d29b2b0400e29854",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-08T21:53:55.000Z",
       "lastSeenAt": "2026-11-07T03:31:47.358Z",
-      "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"Former FBI Agent Pleads Guilty to $2.47 Million Crypto Theft\": https://thedefiant.io/news/security/former-fbi-agent-pleads-guilty-to-2-47-million-crypto-theft -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "reason": "verified-event",
+      "note": "Verified the Nov 5 guilty plea across Bitcoin Magazine, Decrypt and the DOJ OIG arrest release; USAO-EDVA primary announcement blocked by bot interstitial; hero self-hosted from Wikimedia CC BY 2.0.",
       "sourceChecks": [
         {
-          "url": "https://thedefiant.io/news/security/former-fbi-agent-pleads-guilty-to-2-47-million-crypto-theft",
-          "outcome": "blocked",
-          "status": 403,
-          "method": "GET",
-          "checkedAt": "2026-11-06T00:28:41.445Z"
+          "url": "https://bitcoinmagazine.com/news/former-fbi-agent-pleads-crypto-theft",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
+          "outcome": "read"
+        },
+        {
+          "url": "https://oig.justice.gov/news/press-release/fbi-supervisory-special-agent-arrested-following-theft-cryptocurrency",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.justice.gov/usao-edva/pr/former-fbi-agent-pleads-guilty-cryptocurrency-theft",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-06T00:28:56.438Z",
+      "reviewedAt": "2026-11-07T04:12:59.748Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Former FBI Agent Pleads Guilty to $2.47 Million Crypto Theft",
         "Find independent reporting confirming the event in: Former FBI Agent Pleads Guilty to $2.47 Million Crypto Theft",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-06",
-      "nextReviewDate": "2026-11-07",
+      "lastReviewedDay": "2026-11-07",
       "articleSlug": "yaroch",
       "draftProgress": {
         "id": "4972d29b2b0400e29854",
@@ -274304,6 +274312,31 @@
           ],
           "reviewedAt": "2026-11-07T04:08:48.316Z",
           "articleSlug": "mexcorder"
+        },
+        "4972d29b2b0400e29854": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Nov 5 guilty plea across Bitcoin Magazine, Decrypt and the DOJ OIG arrest release; USAO-EDVA primary announcement blocked by bot interstitial; hero self-hosted from Wikimedia CC BY 2.0.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/former-fbi-agent-pleads-crypto-theft",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
+              "outcome": "read"
+            },
+            {
+              "url": "https://oig.justice.gov/news/press-release/fbi-supervisory-special-agent-arrested-following-theft-cryptocurrency",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.justice.gov/usao-edva/pr/former-fbi-agent-pleads-guilty-cryptocurrency-theft",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-07T04:12:59.748Z",
+          "articleSlug": "yaroch"
         }
       },
       "baselineSlugs": [
