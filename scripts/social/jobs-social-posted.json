@@ -112835,6 +112835,47 @@
       "verification": "verified",
       "postId": "6aef0d1ad6bbae6fa182f943",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524796860734279680"
+    },
+    {
+      "slug": "ts3",
+      "company": "Jane Street",
+      "title": "Travel Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-11-07T11:33:06.208Z",
+      "expectedText": "Jane Street is hiring Travel Specialist: https://hashtagweb3.com/ts3/li?og=7",
+      "snapshot": {
+        "id": "8903762002",
+        "title": "Travel Specialist",
+        "company": "Jane Street",
+        "link": "https://www.janestreet.com/join-jane-street/apply/8903762002?gh_jid=8903762002",
+        "date": "2026-10-20T16:34:31-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Jane Street [janestreet]",
+        "location": "New York, NY",
+        "department": "Workplace Services & Experience",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ts3"
+      },
+      "payload": {
+        "text": "Jane Street is hiring Travel Specialist: https://hashtagweb3.com/ts3/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ts3/li?og=7",
+          "title": "Travel Specialist at Jane Street",
+          "description": "Join Jane Street as Travel Specialist. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ts3.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "aa4df3f5-394e-4a69-8e26-46b2ca44c167",
+      "verification": "creating"
     }
   ]
 }
