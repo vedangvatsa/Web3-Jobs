@@ -15663,7 +15663,7 @@
     "sentAt": "2026-11-07T11:33:59.285Z"
   },
   "51741c05-fbaa-4272-ac18-8b449fb19478": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-07T11:34:00.978Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -15780,6 +15780,8 @@
       }
     ],
     "message": "- Kamino is hiring <a href=\"https://hashtagweb3.com/sls350?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Business Development</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/cmp54?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Compliance Analyst - AML Investigations</a>\n- Chainalysis is hiring <a href=\"https://hashtagweb3.com/infra62?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Security Engineer, Infrastructure</a>\n- Liminal is hiring <a href=\"https://hashtagweb3.com/eng723?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Success Engineer - Remote</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/be108?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Tech Lead (Backend): Billing &amp; Fees</a>",
-    "slotKey": "2026-11-07:afternoon"
+    "slotKey": "2026-11-07:afternoon",
+    "messageId": 176,
+    "sentAt": "2026-11-07T11:34:03.208Z"
   }
 }
