@@ -3210,5 +3210,36 @@
     "slotKey": "2026-11-07:morning",
     "messageId": 156119,
     "sentAt": "2026-11-07T03:37:29.438Z"
+  },
+  "50a31381-136a-4353-bbaf-1f0f108faa1c": {
+    "status": "reserved",
+    "reservedAt": "2026-11-07T11:33:08.486Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Canton Strategic Completes First SEC-Exempt Tokenized Stock Trades",
+        "summary": "Five North, DRW Cumberland, and Flowdesk traded Canton Strategic's tokenized CNTN shares on TSV on Nov. 4.",
+        "link": "https://hashtagweb3.com/cantonstock?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Canton Strategic Completes First Issuer-Sponsored Tokenized Stock Trades Under SEC Exemption"
+      },
+      {
+        "index": -1,
+        "headline": "Former FBI Agent Admits Stealing $2.47 Million in Crypto",
+        "summary": "Patrick Steven Yaroch admitted using credentials from 35 investigations to move seized funds to personal wallets.",
+        "link": "https://hashtagweb3.com/yaroch?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Former FBI agent pleads guilty to stealing $2.47 million in crypto from bureau cases"
+      },
+      {
+        "index": -1,
+        "headline": "Hackers Swap $50 Million of Stolen XRP for Bitcoin",
+        "summary": "Elliptic reported hackers behind the Binance theft used THORChain, while 192 million XRP remain unmoved.",
+        "link": "https://hashtagweb3.com/xrplaunder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Hackers Swap About $50 Million of Stolen XRP Into Bitcoin, Elliptic Says"
+      }
+    ],
+    "slotKey": "2026-11-07:afternoon"
   }
 }
