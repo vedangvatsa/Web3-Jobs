@@ -113905,7 +113905,8 @@
       },
       "account": "profile",
       "attemptId": "a9f3b50b-c70b-4d6e-82e4-0f41f26f9c01",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x319e611e30a0f940fa362e48ce595a98ebd61184"
     }
   ]
 }
