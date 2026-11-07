@@ -3243,5 +3243,36 @@
     "slotKey": "2026-11-07:afternoon",
     "messageId": 156121,
     "sentAt": "2026-11-07T11:33:11.591Z"
+  },
+  "2ff58645-4223-4c17-8a19-5f89e412efdd": {
+    "status": "reserved",
+    "reservedAt": "2026-11-07T19:34:00.614Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "US Treasury blocks bank transfers to MEXC Global exchange",
+        "summary": "FinCEN alleges the platform processed $16 billion linked to sanctions evasion and cybercrime.",
+        "link": "https://hashtagweb3.com/mexcorder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Treasury orders US banks to stop transfers to MEXC over $16 billion in illicit transactions"
+      },
+      {
+        "index": -1,
+        "headline": "BitGo launches institutional Bitcoin staking through Stacks",
+        "summary": "Whitelisted institutions earn rewards on timelocked Bitcoin using six-month bonds and a five percent STX pairing requirement.",
+        "link": "https://hashtagweb3.com/bitgostacks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "BitGo Launches Bitcoin Staking Through Stacks for Institutional Clients"
+      },
+      {
+        "index": -1,
+        "headline": "Coinbase Customer Contact Data Exposed via Analytics Vendor Amplitude",
+        "summary": "A security incident at Amplitude affected some users, but Coinbase systems and funds remain secure.",
+        "link": "https://hashtagweb3.com/amplitude?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Coinbase Says Analytics Vendor Amplitude Exposed Customer Contact Data"
+      }
+    ],
+    "slotKey": "2026-11-07:evening"
   }
 }
