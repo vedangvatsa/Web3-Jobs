@@ -114483,6 +114483,47 @@
       "attemptId": "1d048a48-7692-4cdb-bf61-f8430105e76d",
       "verification": "verified",
       "postId": "0x21633707bed0294a5e4d1d404c1d88b93e26cb6b"
+    },
+    {
+      "slug": "ops146",
+      "company": "Ramp",
+      "title": "Manager, Fraud Operations",
+      "platform": "linkedin",
+      "postedAt": "2026-11-07T19:32:48.778Z",
+      "expectedText": "Ramp is hiring Manager, Fraud Operations: https://hashtagweb3.com/ops146/li?og=7",
+      "snapshot": {
+        "id": "ad8bb2ef-9c8a-4379-829a-47143257a23b",
+        "title": "Manager, Fraud Operations",
+        "company": "Ramp",
+        "link": "https://jobs.ashbyhq.com/ramp/ad8bb2ef-9c8a-4379-829a-47143257a23b",
+        "date": "2026-11-04T19:40:52.071+00:00",
+        "source": "Ashby: Ramp [ramp]",
+        "location": "Hybrid (New York, NY (HQ))",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Risk",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops146"
+      },
+      "payload": {
+        "text": "Ramp is hiring Manager, Fraud Operations: https://hashtagweb3.com/ops146/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ops146/li?og=7",
+          "title": "Manager, Fraud Operations at Ramp",
+          "description": "Join Ramp as Manager, Fraud Operations. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ops146.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "2ce30721-3674-44ab-b3b3-01d45b7d561c",
+      "verification": "creating"
     }
   ]
 }
