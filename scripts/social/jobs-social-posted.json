@@ -114981,6 +114981,40 @@
       "attemptId": "975a7e52-25c0-4851-9486-23163e354b17",
       "verification": "verified",
       "postId": "0xd3bdcead2d320d50decf7520676f345c498a88fe"
+    },
+    {
+      "slug": "sls417",
+      "company": "BitGo",
+      "title": "Principal - Accounting Platform",
+      "platform": "farcaster",
+      "postedAt": "2026-11-07T19:36:54.649Z",
+      "expectedText": "BitGo is hiring Principal - Accounting Platform\n\nhttps://hashtagweb3.com/sls417/fc?og=7",
+      "snapshot": {
+        "id": "8931374002",
+        "title": "Principal - Accounting Platform",
+        "company": "BitGo",
+        "link": "https://job-boards.greenhouse.io/bitgo/jobs/8931374002",
+        "date": "2026-11-04T19:06:45-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BitGo [bitgo]",
+        "location": "Palo Alto, CA",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls417"
+      },
+      "payload": {
+        "text": "BitGo is hiring Principal - Accounting Platform\n\nhttps://hashtagweb3.com/sls417/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls417/fc?og=7"
+          }
+        ],
+        "channel_id": "build"
+      },
+      "account": "channel:build",
+      "attemptId": "7824ae6e-eeb0-4813-8b34-ae9914988b58",
+      "verification": "creating"
     }
   ]
 }
