@@ -3177,5 +3177,36 @@
     "slotKey": "2026-11-06:evening",
     "messageId": 156114,
     "sentAt": "2026-11-06T19:35:16.545Z"
+  },
+  "cfd9c664-7274-472b-b1a0-f52b40199d9f": {
+    "status": "reserved",
+    "reservedAt": "2026-11-07T03:37:12.080Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "LDK Update Prevents Tracking of Private Lightning Channels",
+        "summary": "A new software patch prevents attackers from linking private payment channels to their original onchain funding transactions.",
+        "link": "https://hashtagweb3.com/ldkprobe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "LDK Patch Blocks Probe Linking Private Channels to Their Funding Output"
+      },
+      {
+        "index": -1,
+        "headline": "Strategy increases share buyback authorization to $3 billion",
+        "summary": "The company purchased $193.1 million in shares and $22.1 million in bitcoin in the week ending October 18.",
+        "link": "https://hashtagweb3.com/strategystrc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Strategy lifts STRC buyback cap to $3 billion after $193 million week"
+      },
+      {
+        "index": -1,
+        "headline": "Strive holds 36,818 Bitcoin before SATS settlement",
+        "summary": "Strive acquired 1,223 Bitcoin ahead of its 700 million dollar preferred offering settlement on October 20.",
+        "link": "https://hashtagweb3.com/strivesats?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Strive holds 36,818 bitcoin ahead of $700 million SATS settlement"
+      }
+    ],
+    "slotKey": "2026-11-07:morning"
   }
 }
