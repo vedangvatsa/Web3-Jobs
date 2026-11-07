@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-11-07T10:38:30.017Z",
+  "generatedAt": "2026-11-07T11:31:37.923Z",
   "items": [
+    {
+      "title": "BNB Chain Optimizes Reth for Faster Sync and Validator Performance",
+      "link": "https://blockchain.news/news/bnb-chain-reth-optimization",
+      "pubDate": "Sat, 07 Nov 2026 10:40:56 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "BNB Chain enhances Reth client with faster sync, improved validator performance, and 40% higher throughput in internal tests. (Read More)",
+      "source": "Blockchain.News"
+    },
     {
       "title": "Stellar (XLM) Ambassador Program Highlights: September-October 2026",
       "link": "https://blockchain.news/news/stellar-ambassador-program-september-october-2026",
@@ -466,14 +474,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks ",
-      "link": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 05 Nov 2026 18:32:45 +0000",
-      "creator": "Jona Jaupi",
-      "contentSnippet": "US regulators reportedly contacted banks following last week’s $6.3 billion Binance security hack, while experts raised concerns about transaction sec...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto",
       "link": "https://decrypt.co/382609/solana-labs-leap-launches-mobile-app-tokenized-stocks-crypto",
       "pubDate": "Thu, 05 Nov 2026 17:01:03 +0000",
@@ -528,6 +528,14 @@
       "creator": "Staff",
       "contentSnippet": "Eligible U.S. Galaxy users can now buy, hold, send and receive USDC on Solana directly in Samsung Wallet, without a separate crypto app or private key...",
       "source": "Decrypt"
+    },
+    {
+      "title": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
+      "link": "https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts",
+      "pubDate": "Thu, 05 Nov 2026 12:55:03 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "The exchange says its systems are unaffected but has removed trading connections to the third-party platform as a precaution.",
+      "source": "Coindesk"
     },
     {
       "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
