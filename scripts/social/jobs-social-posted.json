@@ -111039,6 +111039,46 @@
       "attemptId": "f78d4492-754f-4378-89e6-2fee0850d4f5",
       "verification": "verified",
       "postId": "0x502e0010740729273fd37b19879799e137d95d33"
+    },
+    {
+      "slug": "aso46",
+      "company": "Figure",
+      "title": "Customer Success Associate",
+      "platform": "linkedin",
+      "postedAt": "2026-11-07T03:32:43.141Z",
+      "expectedText": "Figure is hiring Customer Success Associate: https://hashtagweb3.com/aso46/li?og=7",
+      "snapshot": {
+        "id": "8821166002",
+        "title": "Customer Success Associate",
+        "company": "Figure",
+        "link": "https://job-boards.greenhouse.io/figure/jobs/8821166002",
+        "date": "2026-10-23T13:39:19-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Figure [figure]",
+        "location": "Reno, NV",
+        "department": "Customer Support Center",
+        "active": true,
+        "dateVerified": true,
+        "slug": "aso46"
+      },
+      "payload": {
+        "text": "Figure is hiring Customer Success Associate: https://hashtagweb3.com/aso46/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/aso46/li?og=7",
+          "title": "Customer Success Associate at Figure",
+          "description": "Join Figure as Customer Success Associate. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/aso46.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "15d0657d-7d9a-4edb-9bd1-999642aa41ca",
+      "verification": "creating"
     }
   ]
 }
