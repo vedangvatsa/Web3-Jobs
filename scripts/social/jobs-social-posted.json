@@ -110689,6 +110689,40 @@
       "attemptId": "c4dc7c9c-34d1-482e-b808-eef8e4dec119",
       "verification": "verified",
       "postId": "0x40caa3aa84e85080d4afa53687d5d1553910fe95"
+    },
+    {
+      "slug": "aso46",
+      "company": "Figure",
+      "title": "Customer Success Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-11-07T03:32:43.141Z",
+      "expectedText": "Figure is hiring Customer Success Associate\n\nhttps://hashtagweb3.com/aso46/fc?og=7",
+      "snapshot": {
+        "id": "8821166002",
+        "title": "Customer Success Associate",
+        "company": "Figure",
+        "link": "https://job-boards.greenhouse.io/figure/jobs/8821166002",
+        "date": "2026-10-23T13:39:19-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Figure [figure]",
+        "location": "Reno, NV",
+        "department": "Customer Support Center",
+        "active": true,
+        "dateVerified": true,
+        "slug": "aso46"
+      },
+      "payload": {
+        "text": "Figure is hiring Customer Success Associate\n\nhttps://hashtagweb3.com/aso46/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/aso46/fc?og=7"
+          }
+        ],
+        "channel_id": "build"
+      },
+      "account": "channel:build",
+      "attemptId": "b1820b37-c4e0-43fc-85e3-8c7540914d01",
+      "verification": "creating"
     }
   ]
 }
