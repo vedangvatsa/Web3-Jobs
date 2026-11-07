@@ -8460,5 +8460,125 @@
     "slotKey": "2026-11-07:afternoon",
     "messageId": 156122,
     "sentAt": "2026-11-07T11:34:25.703Z"
+  },
+  "8cfef1ef-1f72-4497-a734-8489d5729473": {
+    "status": "reserved",
+    "reservedAt": "2026-11-07T19:32:50.571Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "f66cc817-371b-469c-8bc8-52a3f914b6ef",
+          "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/f66cc817-371b-469c-8bc8-52a3f914b6ef",
+          "date": "2026-10-09T05:45:53.715Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (California)",
+          "workplaceType": "hybrid",
+          "department": "Product Management & Product Design",
+          "salary": "USD 15,000 - USD 25,000 per month",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm275"
+        },
+        "key": "f66cc817-371b-469c-8bc8-52a3f914b6ef",
+        "slug": "pm275",
+        "url": "https://hashtagweb3.com/pm275?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Senior/Principal Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "e4e52261-16bf-4285-aced-636fa7f6c28d",
+          "title": "Senior Application Security Engineer",
+          "company": "Sardine",
+          "link": "https://jobs.ashbyhq.com/sardine/e4e52261-16bf-4285-aced-636fa7f6c28d",
+          "date": "2026-10-15T12:13:54.769+00:00",
+          "source": "Ashby: Sardine [Sardine]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Security and IT",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec115"
+        },
+        "key": "e4e52261-16bf-4285-aced-636fa7f6c28d",
+        "slug": "sec115",
+        "url": "https://hashtagweb3.com/sec115?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sardine",
+        "title": "Senior Application Security Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "keka-dcx-145831",
+          "title": "Client Payment Specialist",
+          "company": "BitOasis",
+          "link": "https://dcx.keka.com/careers/jobdetails/145831",
+          "location": "Amman, Jordan",
+          "department": "Finance",
+          "type": "Full-time",
+          "date": "2026-11-04T10:32:58.770Z",
+          "dateVerified": true,
+          "dateSource": "Keka.JobPosting.publishedOn",
+          "source": "Keka: BitOasis [dcx]",
+          "applyUrl": "https://dcx.keka.com/careers/jobdetails/145831",
+          "active": true,
+          "salary": "JOD 530 - 560/month",
+          "slug": "cps"
+        },
+        "key": "keka-dcx-145831",
+        "slug": "cps",
+        "url": "https://hashtagweb3.com/cps?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitOasis",
+        "title": "Client Payment Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "4453246009",
+          "title": "Director, Data Architecture (AI Enablement)",
+          "company": "Digital Asset",
+          "link": "https://job-boards.greenhouse.io/digitalassetcorp/jobs/4453246009",
+          "date": "2026-10-16T15:54:05-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Digital Asset [digitalassetcorp]",
+          "location": "New York City, US",
+          "department": "Security / IT",
+          "active": true,
+          "salary": "$225k – $260k/yr",
+          "dateVerified": true,
+          "slug": "arc2"
+        },
+        "key": "4453246009",
+        "slug": "arc2",
+        "url": "https://hashtagweb3.com/arc2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Digital Asset",
+        "title": "Director, Data Architecture"
+      },
+      {
+        "snapshot": {
+          "id": "f6b5cd5e-7540-4845-b938-37985544be56",
+          "title": "Web3 Business Development",
+          "company": "CertiK",
+          "link": "https://jobs.lever.co/certik/f6b5cd5e-7540-4845-b938-37985544be56",
+          "date": "2026-11-05T07:03:32.976Z",
+          "source": "Lever: CertiK [certik]",
+          "location": "Remote / Europe/ Dubai",
+          "workplaceType": "remote",
+          "department": "Business Development",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls419"
+        },
+        "key": "f6b5cd5e-7540-4845-b938-37985544be56",
+        "slug": "sls419",
+        "url": "https://hashtagweb3.com/sls419?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CertiK",
+        "title": "Web3 Business Development"
+      }
+    ],
+    "message": "- Crypto.com is hiring <a href=\"https://hashtagweb3.com/pm275?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior/Principal Product Manager, User Onboarding &amp; Growth (Crypto.com App)</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/sec115?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Application Security Engineer</a>\n- BitOasis is hiring <a href=\"https://hashtagweb3.com/cps?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Client Payment Specialist</a>\n- Digital Asset is hiring <a href=\"https://hashtagweb3.com/arc2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, Data Architecture (AI Enablement)</a>\n- CertiK is hiring <a href=\"https://hashtagweb3.com/sls419?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Web3 Business Development</a>",
+    "slotKey": "2026-11-07:evening"
   }
 }
