@@ -3311,5 +3311,36 @@
     "slotKey": "2026-11-07:morning",
     "messageId": 193467,
     "sentAt": "2026-11-07T03:36:10.519Z"
+  },
+  "06d5505b-aad4-44db-8887-c205aa14881d": {
+    "status": "reserved",
+    "reservedAt": "2026-11-07T11:34:29.654Z",
+    "stories": [
+      {
+        "index": 5,
+        "headline": "Amazon allows users to text Alexa for shopping assistance",
+        "summary": "The shopping feature will expand to millions of customers in the coming weeks.",
+        "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+        "source": "TechCrunch",
+        "originalTitle": "After blocking Muse, Amazon now lets users text Alexa to help them shop"
+      },
+      {
+        "index": 6,
+        "headline": "Underdog debuts 32MB model for speech and music",
+        "summary": "The small system generates audio and musical content despite its limited file size.",
+        "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+        "source": "TechCrunch",
+        "originalTitle": "Underdog shows off a 32MB speech model in new demo"
+      },
+      {
+        "index": 7,
+        "headline": "Physicl raises $10 million for robot simulation tech",
+        "summary": "The company adapts an online marketing pipeline to help train robots in virtual environments.",
+        "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+        "source": "TechCrunch",
+        "originalTitle": "Physicl raises $10M to make the digital world real enough for robots"
+      }
+    ],
+    "slotKey": "2026-11-07:afternoon"
   }
 }
