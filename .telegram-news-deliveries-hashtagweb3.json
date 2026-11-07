@@ -3245,7 +3245,7 @@
     "sentAt": "2026-11-07T11:33:11.591Z"
   },
   "2ff58645-4223-4c17-8a19-5f89e412efdd": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-07T19:34:00.614Z",
     "stories": [
       {
@@ -3273,6 +3273,8 @@
         "originalTitle": "Coinbase Says Analytics Vendor Amplitude Exposed Customer Contact Data"
       }
     ],
-    "slotKey": "2026-11-07:evening"
+    "slotKey": "2026-11-07:evening",
+    "messageId": 156135,
+    "sentAt": "2026-11-07T19:34:08.139Z"
   }
 }

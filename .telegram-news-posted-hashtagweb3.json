@@ -902,6 +902,9 @@
   "https://hashtagweb3.com/cantonstock?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/yaroch?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/xrplaunder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/mexcorder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/bitgostacks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/amplitude?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2612,6 +2615,12 @@
   "Former FBI agent pleads guilty to stealing $2.47 million in crypto from bureau cases",
   "Hackers Swap $50 Million of Stolen XRP for Bitcoin",
   "Hackers Swap About $50 Million of Stolen XRP Into Bitcoin, Elliptic Says",
+  "US Treasury blocks bank transfers to MEXC Global exchange",
+  "Treasury orders US banks to stop transfers to MEXC over $16 billion in illicit transactions",
+  "BitGo launches institutional Bitcoin staking through Stacks",
+  "BitGo Launches Bitcoin Staking Through Stacks for Institutional Clients",
+  "Coinbase Customer Contact Data Exposed via Analytics Vendor Amplitude",
+  "Coinbase Says Analytics Vendor Amplitude Exposed Customer Contact Data",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -3064,5 +3073,8 @@
   "fp:223|700m|818|acquired1|ahead|dollar|holds36|october20|offer|preferr",
   "fp:canton|cntn|complet|cumberland|drw|exempt|exemption|fiv|flowdesk|issuer",
   "fp:247m|admit|admitt|agent|bureau|cas|credential|fbi|former|from35",
-  "fp:192m|50m|behind|binanc|elliptic|hacker|remain|stolen|swap|theft"
+  "fp:192m|50m|behind|binanc|elliptic|hacker|remain|stolen|swap|theft",
+  "fp:16b|alleg|bank|block|cybercrim|evasion|exchang|fincen|global|illicit",
+  "fp:bitgo|bond|client|earn|fiv|institution|institutional|month|pair|percent",
+  "fp:affect|amplitud|analytic|coinbas|contact|customer|data|expos|fund|incident"
 ]
