@@ -3377,5 +3377,36 @@
     "slotKey": "2026-11-06:evening",
     "messageId": 65809,
     "sentAt": "2026-11-06T19:35:29.132Z"
+  },
+  "797b2e25-c72d-4b9e-a1c8-0b3f202cf8a7": {
+    "status": "reserved",
+    "reservedAt": "2026-11-07T03:36:45.926Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Trump appoints Jay Clayton to lead AI policy group",
+        "summary": "Former SEC chair Jay Clayton will oversee federal artificial intelligence policy coordination.",
+        "link": "https://hashtagweb3.com/clayton-ai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Trump names Jay Clayton to lead new Super Intelligence Force on AI"
+      },
+      {
+        "index": -1,
+        "headline": "Anchorage Digital Lays Off 17 Percent of Staff",
+        "summary": "The crypto bank reduced its workforce by 68 employees while continuing its expansion into stablecoin issuance.",
+        "link": "https://hashtagweb3.com/anchorage-cuts?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Anchorage Digital Cuts 17 Percent of Staff"
+      },
+      {
+        "index": 1,
+        "headline": "US Treasury Bans Financial Institutions From Working With MEXC",
+        "summary": "The government blocked MEXC from the US financial system for allegedly facilitating $16 billion in illicit transactions.",
+        "link": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
+        "source": "Decrypt",
+        "originalTitle": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System"
+      }
+    ],
+    "slotKey": "2026-11-07:morning"
   }
 }
