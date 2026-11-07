@@ -111163,7 +111163,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "0a0b5f11-a9f7-49d3-86c8-20b2c31918c1",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7524675938983268352"
     }
   ]
 }
