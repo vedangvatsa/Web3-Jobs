@@ -15425,7 +15425,7 @@
     "sentAt": "2026-11-07T03:32:03.172Z"
   },
   "b55f4133-a295-486f-bcdb-553c601720c1": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-07T03:32:04.901Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -15536,6 +15536,8 @@
       }
     ],
     "message": "- BCB Group is hiring <a href=\"https://hashtagweb3.com/tm?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Transaction Monitoring Lead</a>\n- Staking Facilities is hiring <a href=\"https://hashtagweb3.com/eng621?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Solana Engineer</a>\n- Xapo Bank is hiring <a href=\"https://hashtagweb3.com/co2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Chief Customer Officer</a>\n- Allium is hiring <a href=\"https://hashtagweb3.com/sec141?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Security Engineer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sec95?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Security Engineer, Abuse Control</a>",
-    "slotKey": "2026-11-07:morning"
+    "slotKey": "2026-11-07:morning",
+    "messageId": 175,
+    "sentAt": "2026-11-07T03:32:07.082Z"
   }
 }
