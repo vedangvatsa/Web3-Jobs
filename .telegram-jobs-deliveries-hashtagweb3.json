@@ -8218,7 +8218,7 @@
     "sentAt": "2026-11-06T19:32:35.204Z"
   },
   "16b45563-c3c6-4ced-bfc4-456418607463": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-07T03:32:11.355Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -8331,6 +8331,8 @@
       }
     ],
     "message": "- Animoca Brands is hiring <a href=\"https://hashtagweb3.com/pm265?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">转市策略 AI 产品经理 (Go-to-Market AI Product Manager)</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/fc3?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Financial Controller</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/sls427?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Inside Sales</a>\n- Morpho is hiring <a href=\"https://hashtagweb3.com/com4?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Communications</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/mkt128?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Marketing Lead, DACH</a>",
-    "slotKey": "2026-11-07:morning"
+    "slotKey": "2026-11-07:morning",
+    "messageId": 156117,
+    "sentAt": "2026-11-07T03:32:13.814Z"
   }
 }
