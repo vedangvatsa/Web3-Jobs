@@ -3412,7 +3412,7 @@
     "sentAt": "2026-11-07T03:38:12.485Z"
   },
   "2f379512-ca1a-4cc9-88e4-6f2f74aca71d": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-07T11:35:52.749Z",
     "stories": [
       {
@@ -3440,6 +3440,8 @@
         "originalTitle": "US sanctions Canadian money-exchange firms over Iran ties"
       }
     ],
-    "slotKey": "2026-11-07:afternoon"
+    "slotKey": "2026-11-07:afternoon",
+    "messageId": 65811,
+    "sentAt": "2026-11-07T11:36:00.394Z"
   }
 }
