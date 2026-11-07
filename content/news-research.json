@@ -137040,11 +137040,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "95d4505e6f6293ef8f89",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-05T00:28:26.536Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-07T18:20:58.000Z",
-      "lastSeenAt": "2026-11-05T00:28:26.536Z"
+      "lastSeenAt": "2026-11-05T00:28:26.536Z",
+      "reason": "price-chatter",
+      "note": "Read the CryptoSlate piece: it is a price watch on bitcoin reclaiming 0,000 with liquidation figures, post-midterm historical patterns and analyst predictions about a possible crash. No discrete launch, vote, ruling, filing or hack; excluded as price chatter and prediction analysis.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/bitcoin-rockets-above-80000-for-first-time-since-binance-hack-despite-democrats-sweep-but-a-historical-crash-looms/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-07T04:23:38.864Z",
+      "lastReviewedDay": "2026-11-07"
     },
     "60b9714ea1d433f8fd59": {
       "source": "Decrypt",
@@ -274445,6 +274455,18 @@
           ],
           "reviewedAt": "2026-11-07T04:23:08.179Z",
           "articleSlug": "cantonstock"
+        },
+        "95d4505e6f6293ef8f89": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read the CryptoSlate piece: it is a price watch on bitcoin reclaiming 0,000 with liquidation figures, post-midterm historical patterns and analyst predictions about a possible crash. No discrete launch, vote, ruling, filing or hack; excluded as price chatter and prediction analysis.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/bitcoin-rockets-above-80000-for-first-time-since-binance-hack-despite-democrats-sweep-but-a-historical-crash-looms/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-07T04:23:38.864Z"
         }
       },
       "baselineSlugs": [
