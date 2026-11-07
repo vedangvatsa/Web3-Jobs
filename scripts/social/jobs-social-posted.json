@@ -110512,7 +110512,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "28a08739-88ab-4d01-951e-a2266c1b69ed",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb246683f68091ccd46117b9ffdcb49418096f3c7"
     }
   ]
 }
