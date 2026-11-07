@@ -148085,9 +148085,9 @@
         "The Defiant"
       ],
       "id": "a19cd610d9d18b4b4329",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-09T14:50:00.000Z",
       "lastSeenAt": "2026-11-07T03:31:47.358Z",
       "articleSlug": "xrplaunder",
@@ -148121,7 +148121,33 @@
         "updatedAt": "2026-11-07T03:50:07.828Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the Elliptic Nov 6 update (primary), Bitcoin Magazine and Decrypt reports; matched XRP swap figures (42M XRP/0M swapped, 192M/26M remaining, 1,650 BTC/24M converted) across all three; drafted 676 words with self-hosted Wikimedia hero.",
+      "sourceChecks": [
+        {
+          "url": "https://www.elliptic.co/insights/how-north-korea-is-laundering-the-6-4-billion-stolen-from-binance/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitcoinmagazine.com/news/binance-hackers-swap-50m-xrp-bitcoin",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/hacks/binance-hackers-swap-50-million-in-xrp-mostly-into-bitcoin-elliptic-says",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-07T04:01:09.364Z",
+      "lastReviewedDay": "2026-11-07"
     },
     "40b157fb0b007c1e8154": {
       "source": "Bitcoin Magazine",
@@ -274154,6 +274180,35 @@
             "Find independent reporting confirming the event in: What Is Stablecoin Market Cap? Supply, Share and Dominance Explained",
             "Retry the attempted URLs after any Retry-After time, within the existing verification window."
           ]
+        },
+        "a19cd610d9d18b4b4329": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Elliptic Nov 6 update (primary), Bitcoin Magazine and Decrypt reports; matched XRP swap figures (42M XRP/0M swapped, 192M/26M remaining, 1,650 BTC/24M converted) across all three; drafted 676 words with self-hosted Wikimedia hero.",
+          "sourceChecks": [
+            {
+              "url": "https://www.elliptic.co/insights/how-north-korea-is-laundering-the-6-4-billion-stolen-from-binance/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/binance-hackers-swap-50m-xrp-bitcoin",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/hacks/binance-hackers-swap-50-million-in-xrp-mostly-into-bitcoin-elliptic-says",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-07T04:01:09.364Z",
+          "articleSlug": "xrplaunder"
         }
       },
       "baselineSlugs": [
