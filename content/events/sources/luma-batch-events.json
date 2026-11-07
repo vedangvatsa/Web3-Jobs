@@ -1,54 +1,5 @@
 [
   {
-    "id": "luma-batch-CdGb9HZtvTpfqnr",
-    "slug": "agenticstack",
-    "name": "The Capital Stack for Agentic AI",
-    "description": "An evening with XDC in Manhattan - where agentic AI, payments, capital, builders, and founders converge.\n\nAI has crossed the line from experimentation to execution. The winning companies are no longer the ones with the flashiest demo — they're the ones building agentic systems that transact, reconcile, and act on behalf of real businesses. That shift is rewriting these markets at once:\n\nAgentic AI  is moving from copilots that suggest to agents that do.\n\nPayments - the rails agents need to move value, settle instantly, and prove trust on-chain.\n\nCapital -how allocators are underwriting AI-native companies in a market where traction, moats, and margins look nothing like the last cycle.\n\nThis evening brings the operators actually building it into one room with the people funding and deploying it.\n\nWho you’ll be with:\n\nFounders shipping agentic products into regulated, revenue-critical workflows\n\nAllocators & VCs actively writing checks into AI infrastructure, agents, and payments\n\nEnterprise & platform leaders from XDC and the broader ecosystem\n\nFeatured conversation with Atul Khekade (Co-founder, XDC Network), plus additional speakers to be announced.\n\nWhat to Expect:\n\nOpen conversation\n\nA candid look at what it actually takes to move an AI company from demo to durable revenue -commercialization, enterprise trust, agent-to-agent payments, and the fundraising narrative that lands in 2026.\n\nCross-stack perspectives\n\nFounders, operators, and allocators trading real numbers\n\nQAIX introduction\n\nMeet QAIX.org and how it connects emerging AI companies with the strategic partners, distribution, and capital that turn early traction into scale.\n\nCurated networking\n\nSmall-room density at the XDC Executive HQ — the founders, funds, and enterprise buyers you actually came to meet.\n\nAgents are becoming economic actors. That only works if the payment rails, the infrastructure, and the capital stack are built for it. This evening is for the builders and backers deciding what that stack looks like.\n\nAdditional speakers and programming to be announced.",
-    "startDate": "2026-10-07T21:00:00.000Z",
-    "endDate": "2026-10-08T00:30:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "Chelsea, New York, New York, United States",
-    "url": "https://luma.com/agenticstack",
-    "registrationUrl": "https://luma.com/agenticstack",
-    "coverImage": "/events/luma-batch-CdGb9HZtvTpfqnr-c7555fe8.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "XDC Network",
-      "XDC USA"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/New_York",
-    "neighborhood": "Chelsea",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "New York",
-    "addressRegion": "New York",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "XDC Network"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/agenticstack",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/agenticstack",
-      "eventId": "evt-CdGb9HZtvTpfqnr",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-uaILCmDGiulcbgK",
     "slug": "e38g271w",
     "name": "Decentralized AI Day New York - #AIWeekNY",
@@ -2473,36 +2424,6 @@
     }
   },
   {
-    "id": "luma-batch-evtYEw7Rn9hCkzAh",
-    "slug": "m6mclrnh",
-    "name": "Craft Your Own Agentic Wallet",
-    "description": "In this workshop you'll build a self-custody agentic wallet on Sui: type what you want in plain English and your agent reasons through it, proposes the transaction, and executes onchain the moment you sign.\n\nThe agent runs on your own laptop with nothing hidden - you watch every decision and every tool call as it thinks. AI handles the plumbing but you keep the keys.\n\nBring your laptop, and leave with a wallet you can talk to.\n\nPlease bring a laptop with an active ChatGPT or Claude subscription (Plus/Pro tier recommended) to participate in the workshop.\n\nSpace is limited and first-come, first-served; RSVPing here doesn't hold a seat, so please show up a few minutes early.\n\nThis workshop is for registered attendees of Sui Basecamp. If you need to register for the event, please go to: https://luma.com/SuiBasecamp2026",
-    "startDate": "2026-10-08T03:00:00.000Z",
-    "endDate": "2026-10-08T03:30:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Marina Bay Sands Expo & Convention, Marina Bay Sands Expo & Convention, 10 Bayfront Ave, Singapore 018956",
-    "url": "https://luma.com/m6mclrnh",
-    "registrationUrl": "https://luma.com/m6mclrnh",
-    "coverImage": "/events/luma-batch-evtYEw7Rn9hCkzAh-2270e7a6.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Sui Basecamp 2026 Workshops"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/m6mclrnh",
-      "eventId": "evt-YEw7Rn9hCkzAhJW",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtmy8Z6xZsAyOA3",
     "slug": "2sin1muv",
     "name": "Uncovering Hidden Know-How: HFT Closed-Door Meetup",
@@ -3306,36 +3227,6 @@
     "sourceVerification": {
       "url": "https://luma.com/5xp9r8xd",
       "eventId": "evt-zJSbBU29gOHYbkM",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtDE6g45qZhsILO",
-    "slug": "uoqavs7x",
-    "name": "Pr1me [Lisbon Series] - Exclusive Dinner for Web3 Finance",
-    "description": "Join us for the Lisbon edition of the PR1ME Series, powered by the Onchain Finance Institute (OCF) and in+on\n\nThis invite only, community driven gathering brings together leading minds in web3 accounting and finance.\n\nThis event is exclusively for finance professionals - CFOs, COOs, Controllers, Heads of Finance, or equivalent. We're unable to accept applications outside these roles.\n\nImportant: Only confirmed guests with a QR code will be allowed entry. Please note that walk-ins or unapproved registrations will not be possible.\n\nAbout in+on\n\nin+on is a web3 accounting and finance firm supporting crypto projects from pre-launch to post-TGE with a solid financial foundation. With offices in Zurich and Lisbon, the team helps founders navigate liquidity management, treasury management, financial reporting, tax compliance, and regulatory challenges.\n\nTheir expertise bridges traditional finance and decentralized ecosystems, delivering compliant, scalable financial solutions tailored for Web3 founders\n\nAbout Onchain Finance Institute (OCF)\n\nOnchain Finance Institute (OCF) is an education and community platform helping finance professionals build real-world crypto finance skills for accounting, treasury, and finance roles.\n\nJoin 150+ alumni and 400+ community members from organizations such as Solana Foundation, a16z, Ava Labs, Starknet, and more, upskilling and transitioning into the future of web3 finance.\n\nApply to join community platform.\n\nFor sponsorship inquiries, you can reach out to hello@theaccountantquits.com\n\nHighlights from Past Events\n\nPR1ME Cayman Islands Series\n\nPR1ME Singapore Series\n\nPR1ME Dubai Series",
-    "startDate": "2026-10-07T18:00:00.000Z",
-    "endDate": "2026-10-07T21:00:00.000Z",
-    "city": "Lisboa",
-    "country": "Portugal",
-    "location": "Lisboa, Lisboa, Portugal",
-    "url": "https://luma.com/uoqavs7x",
-    "registrationUrl": "https://luma.com/uoqavs7x",
-    "coverImage": "/events/luma-batch-evtDE6g45qZhsILO-180507e4.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Lisbon",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/uoqavs7x",
-      "eventId": "evt-DE6g45qZhsILOXS",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

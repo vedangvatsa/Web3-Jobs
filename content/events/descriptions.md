@@ -4502,60 +4502,6 @@ Format: Official Side Event during TOKEN2049 Singapore
 
 Registration requires host approval. Registration is listed as free.
 
-<a id="event-de952561c75f3ba5"></a>
-
-## Satoshi Dinner Club Singapore powered by Cryptic
-
-- Record: `token2049-evt-jOBWuJc3s9090vo`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-07T23:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/hr3e1mti>
-
-### About the event
-
-Satoshi Dinner Club Singapore powered by Cryptic is scheduled for 8 October 2026 at 07:00 (Asia/Singapore) in Singapore. Hosted by Cryptic, Gavin Vanderlooven, Gilles, Inna S, Quinten Francois.
-
-You are cordially invited to experience Satoshi Dinner Club in Singapore this October.
-
-Your invitation is strictly personal and non-transferable.
-
-Registration requires host approval. Registration is listed as free.
-
-<a id="event-947be85a4ea9cb62"></a>
-
-## BJJ Open Mat Token2049
-
-- Record: `token2049-evt-vi3MRdSPLgFKqUt`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-07T23:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ecjxhsxh>
-
-### About the event
-
-BJJ Open Mat Token2049 is scheduled for 8 October 2026 at 07:00 (Asia/Singapore) in Singapore. Hosted by Daniel Forde, Lisa Bechina.
-
-Do bring flip flops (or use socks) off the mats
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
-<a id="event-e05d710b2bb28d17"></a>
-
-## ONE OF US Run & Coffee // Aya, Cudis, 071Labs, & Aethir
-
-- Record: `token2049-evt-cZBPqkOMypSgdEB`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-07T23:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/nne8jvrr>
-
-### About the event
-
-ONE OF US Run & Coffee // Aya, Cudis, 071Labs, & Aethir is scheduled for 8 October 2026 at 07:30 (Asia/Singapore) in Singapore. Hosted by Aya Trade, ONE OF US, Rafik Fellal, Fady.
-
-Registration is listed as free.
-
 <a id="event-25945f3e11b2a9b9"></a>
 
 ## Vogue Wellness Pop-up with VIVA
@@ -4569,66 +4515,6 @@ Registration is listed as free.
 ### About the event
 
 Vogue Wellness Pop-up with VIVA is scheduled for 8 October 2026 at 08:00 (Asia/Singapore) in Singapore. Hosted by Circolo Life, Polina, Rahat Kapur.
-
-Registration requires host approval. Registration is listed as free.
-
-<a id="event-91efe8382710de43"></a>
-
-## Onchain Breakfast , Singapore
-
-- Record: `token2049-evt-36Uw5PVpEzK0wCo`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-08T00:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/uulrmjzz>
-
-### About the event
-
-Onchain Breakfast, Singapore is scheduled for 8 October 2026 at 08:00 (Asia/Singapore) in Singapore. Hosted by Buildify.
-
-Onchain Breakfast is a relaxed morning gathering bringing together founders, operators and investors for a breakfast before the day gets busy.
-
-Just coffee, breakfast and conversations with people across the global.
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
-<a id="event-48f14db9b794f166"></a>
-
-## AWIC x TOKEN2049 Breakfast & Panel “Building Trust in Digital Assets: Risk, Regulation & Resilience”
-
-- Record: `token2049-evt-GjtcUA0RCT2rlru`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-08T00:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/liicgcdj>
-
-### About the event
-
-AWIC x TOKEN2049 Breakfast & Panel "Building Trust in Digital Assets: Risk, Regulation & Resilience" is scheduled for 8 October 2026 at 08:30 (Asia/Singapore) in Singapore. Hosted by Mora Lopez Basavilbaso, Rebecca, Afia Sengupta, Mindy Lyons Blackstock.
-
-AWIC x TOKEN2049 Singapore: Breakfast, Panel & Networking
-
-The morning will begin with breakfast, followed by the panel discussion.
-
-Breakfast will be served during registration.
-
-Registration deadline: October 1st.
-
-Registration is listed as free.
-
-<a id="event-2fde145d575115e4"></a>
-
-## Morning Street Workout with Stablewatch & Osero
-
-- Record: `token2049-evt-fDAS9T16AafsERp`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-08T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/p97euje7>
-
-### About the event
-
-Morning Street Workout with Stablewatch & Osero is scheduled for 8 October 2026 at 09:00 (Asia/Singapore) in Singapore. Hosted by stablewatch, Osero.
 
 Registration requires host approval. Registration is listed as free.
 
@@ -4651,22 +4537,6 @@ An Institutional Breakfast at Token2049
 8:45 AM: Registration and networking breakfast
 
 10:00 AM: The Institutional Digital Asset Stack: a focused session covering custody, security, compliance, and infrastructure, with perspectives from Safeheron, Halborn, Chainalysis, and AWS
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
-<a id="event-eec4097a6211b404"></a>
-
-## GS Crypto Alumni Network @Token2049 🇸🇬
-
-- Record: `token2049-evt-CfgaR5oBgLGFXc2`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-08T01:15:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/rcmm9hj9>
-
-### About the event
-
-GS Crypto Alumni Network @Token2049 🇸🇬 is scheduled for 8 October 2026 at 09:15 (Asia/Singapore) in Singapore. Hosted by Neoclassic | Steve Lee.
 
 Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
 
@@ -5061,22 +4931,6 @@ Registration requires host approval. Registration is listed as free.
 Tezos Cat Lounge is scheduled for 8 October 2026 at 14:00 (Asia/Singapore) in Singapore. Hosted by TZ APAC.
 
 Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
-<a id="event-eacd3075a9689771"></a>
-
-## Block Zero - Run Club - Day 2
-
-- Record: `token2049-official-6aab60b4f5de78483fb5c75a`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-08T06:30:00+08:00
-- Description: Source-backed
-- Original page: <https://week.token2049.com>
-
-### About the event
-
-Block Zero - Run Club - Day 2 is scheduled for 8 October 2026 at 06:30 (Asia/Singapore) in Singapore. Hosted by Quarry.
-
-Attendance is by invitation according to the published schedule.
 
 <a id="event-6df0ce4d053eefa7"></a>
 
@@ -12610,154 +12464,6 @@ Refund Policy
 
 Once your registration has been approved and payment has been processed, tickets are non-refundable (can be transferred to another person until 25th of Sep, unless the event is cancelled by Arts DAO
 
-<a id="event-1f05ea5696b7f870"></a>
-
-## Pax Silica Hackathon: SF Tech Week
-
-- Record: `luma-crypto-XeNEjxuPS7Ubymi`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-10-07T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/builde-q0bj>
-
-### About the event
-
-Swedish House at SF Tech Week
-
-### Pax Silica Hackathon
-
-The Nordic × Silicon Valley Innovation #SFTechWeek
-
-This is a working session, not a conference. Arrive with a problem or without one, find people good at the parts you are not, and leave with something demoable plus a handful of people worth keeping after Tech Week ends.
-
-Part of the Swedish House during SF Tech Week, hosted by Business Sweden with BuilderBase Hackathons.
-
-### Run of show
-
-2:00pm - Checkin, find your team and place
-
-Get in, get organised and prepared
-
-2:20pm - Information and kickoff
-
-Nordic and Bay Area builders start the challenge.
-
-2:30pm - Build block
-
-Heads down. Mentors circulate.
-
-4:20pm - Demos
-
-Three minutes per team, live.
-
-Frequently asked questions.
-
-Practical details
-
-Where is it, exactly?+
-
-The Art of San Francisco, 2 Sacramento St, San Francisco, CA - the Swedish House venue during SF Tech Week. Door and access details go out to everyone who RSVPs.
-
-Do I need a team or an idea?+
-
-No, but if you do not want to build solo then try to find a team on the BuilderBase platform before the event.
-
-<a id="event-64a8ec2c306d8c38"></a>
-
-## Solana Strider Run & Breakfast
-
-- Record: `luma-crypto-1vMPCKsGTGq54i7`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-10-07T23:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/hn4u80ws>
-
-### About the event
-
-Start your morning right with steps, food, and good company!
-
-Connect with Strider, Moonwalk Fitness, Superteam SG, and Web3 friends for a relaxed 3KM morning run along the Singapore River, ending with breakfast at PlaySpace!
-
-### Schedule
-
-- 7:30 - 8:00 AM: Meetup PlaySpace for photos & hellos.
-- 8:00 - 8:30 AM: Easy-paced 3KM run/walk along the riverfront and Fort Canning.
-- 8:30 - 9:30 AM: Return to PlaySpace for breakfast & networking (Sponsored by Superteam SG).
-
-### Highlights
-
-- Network with the Strider & Solana Web3 community.
-- Catch scenic riverfront views while it's nice and cool.
-- Exclusive merch giveaways for event participants.
-
-Throw on your running shoes, bring your best energy, and let's get moving!
-
-### About us
-
-We are the premier decentralized fitness community on the Solana based Moonwalk Fitness app.
-
-Our goal is simple: To build the most active and rewarding group on the platform. We keep our community moving through:
-
-Weekly & Sponsored Games: Compete in regular fitness challenges featuring rewards powered by partnerships across the Solana ecosystem.
-
-Global IRL Runs: Join us on the ground for community runs organized around major blockchain events worldwide.
-
-[Website](https://linktr.ee/StriderDeFit)
-
-Supported by:
-
-Superteam SG
-
-Superteam Singapore is a community of crypto-native builders, creators, and operators growing the next generation of Solana projects.
-
-[Website](https://superteam.sg/)
-
-Sanctum
-
-Sanctum is Solana's largest liquid staking protocol ($1.3B+ TVL), partnering with the biggest names like Jupiter, Bybit, Crypto.com, Gate, and also the largest Solana DATs like Forward Industries, DFDV, etc., to launch custom staking solutions, including helping brands launch their own LSTs and white-label validators with turnkey staking, liquidity, and operational support.
-
-[Website](https://sanctum.so/)
-
-QuickNode
-
-Quicknode is the complete blockchain development platform for Solana teams that demand fast, reliable infrastructure. We run the full Solana surface from one dashboard: JSON-RPC and WebSockets on mainnet and devnet, Solana gRPC streaming, Streams and Webhooks, full historical archive, the Swap API, and a zero-fee validator.
-
-[Website](https://www.quicknode.com/chains/solana)
-
-Moonwalk
-
-Moonwalk Fitness app is a fitness accountability platform that boosts daily step goals through financial incentives.
-
-[Website](https://moonwalk.fit/)
-
-Sentinel
-
-Real-time Solana DeFi security intelligence platform. Monitors cross-protocol risk (Kamino, MarginFi, Solend, Jupiter Lend, Drift) with Pyth oracle anomaly detection, TVL crash alerts, CEX funding rate signals, and cascade risk scoring.
-
-[Website](https://sentinel.baserep.xyz/)
-
-Kurtosis Labs
-
-Kurtosis is building the world's first non-black-box infrastructure for systematic fixed-income investing in DeFi. Russian Doll Ratings make the risks behind each position explainable, while Horizon puts those ratings to work with live capital, so the ratings inform execution and live outcomes improve the ratings in return
-
-[Website](https://kurtosis-labs.com/)
-
-### Media Partner
-
-0xMedia
-
-Leading Chinese Go-to-Market Agency. Building with founders shaping the future of finance and decentralization.
-
-[Website](https://0xmedia.co/)
-
-Venue Partner:
-
-PlaySpace
-
-PlaySpace is a Singapore enrichment play company co-founded by Teri Tan, Titus Chia, and Sharon Paul, bringing hands-on play experiences to schools, families, and corporate teams. PlaySpace is built on a simple belief that play is for everyone, at every age. Its permanent home at 220 River Valley Road features Lego, puzzles, construction block games, and board games, guided by a licensed early childhood educator.
-
-[Website](https://playspace.sg/)
-
 <a id="event-bb6e7eaa9aa16dcd"></a>
 
 ## Midnight Cafe with Midnight @ TOKEN2049 Singapore
@@ -18427,106 +18133,6 @@ Pudgy Penguins is one of the most recognizable brands in Web3 culture, bringing 
 
 X: @pudgypenguinsWebsite: pudgypenguins.com
 
-<a id="event-b1f8cf942806839e"></a>
-
-## Pr1me Lisbon Series - Exclusive Dinner for Web3 Finance
-
-- Record: `luma-batch-evtDE6g45qZhsILO`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-07T18:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/uoqavs7x>
-
-### About the event
-
-Join us for the Lisbon edition of the PR1ME Series, powered by the Onchain Finance Institute (OCF) and in+on
-
-This invite only, community driven gathering brings together leading minds in web3 accounting and finance.
-
-This event is exclusively for finance professionals - CFOs, COOs, Controllers, Heads of Finance, or equivalent. We're unable to accept applications outside these roles.
-
-Important: Only confirmed guests with a QR code will be allowed entry. Please note that walk-ins or unapproved registrations will not be possible.
-
-About in+on
-
-in+on is a web3 accounting and finance firm supporting crypto projects from pre-launch to post-TGE with a solid financial foundation. With offices in Zurich and Lisbon, the team helps founders navigate liquidity management, treasury management, financial reporting, tax compliance, and regulatory challenges.
-
-Their expertise bridges traditional finance and decentralized ecosystems, delivering compliant, scalable financial solutions tailored for Web3 founders
-
-About Onchain Finance Institute (OCF)
-
-Onchain Finance Institute (OCF) is an education and community platform helping finance professionals build real-world crypto finance skills for accounting, treasury, and finance roles.
-
-Join 150+ alumni and 400+ community members from organizations such as Solana Foundation, a16z, Ava Labs, Starknet, and more, upskilling and transitioning into the future of web3 finance.
-
-Apply to join community platform.
-
-For sponsorship inquiries, you can reach out to hello@theaccountantquits.com
-
-Highlights from Past Events
-
-PR1ME Cayman Islands Series
-
-PR1ME Singapore Series
-
-PR1ME Dubai Series
-
-<a id="event-a1f45eafcd06fb67"></a>
-
-## The Capital Stack for Agentic AI
-
-- Record: `luma-batch-CdGb9HZtvTpfqnr`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-07T21:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/agenticstack>
-
-### About the event
-
-An evening with XDC in Manhattan - where agentic AI, payments, capital, builders, and founders converge.
-
-AI has crossed the line from experimentation to execution. The winning companies are no longer the ones with the flashiest demo - they're the ones building agentic systems that transact, reconcile, and act on behalf of real businesses. That shift is rewriting these markets at once:
-
-Agentic AI is moving from copilots that suggest to agents that do.
-
-Payments - the rails agents need to move value, settle instantly, and prove trust on-chain.
-
-Capital -how allocators are underwriting AI-native companies in a market where traction, moats, and margins look nothing like the last cycle.
-
-This evening brings the operators actually building it into one room with the people funding and deploying it.
-
-Who you'll be with:
-
-Founders shipping agentic products into regulated, revenue-critical workflows
-
-Allocators & VCs actively writing checks into AI infrastructure, agents, and payments
-
-Enterprise & platform leaders from XDC and the broader ecosystem
-
-Featured conversation with Atul Khekade (Co-founder, XDC Network), plus additional speakers to be announced.
-
-### What to Expect
-
-Open conversation
-
-A candid look at what it actually takes to move an AI company from demo to durable revenue -commercialization, enterprise trust, agent-to-agent payments, and the fundraising narrative that lands in 2026.
-
-Cross-stack perspectives
-
-Founders, operators, and allocators trading real numbers
-
-QAIX introduction
-
-Meet QAIX.org and how it connects emerging AI companies with the strategic partners, distribution, and capital that turn early traction into scale.
-
-Curated networking
-
-Small-room density at the XDC Executive HQ - the founders, funds, and enterprise buyers you actually came to meet.
-
-Agents are becoming economic actors. That only works if the payment rails, the infrastructure, and the capital stack are built for it. This evening is for the builders and backers deciding what that stack looks like.
-
-Additional speakers and programming to be announced.
-
 <a id="event-561103ab34e67647"></a>
 
 ## Rebuilding the Trust Stack: Identity, Decision Intelligence & Asset Security for the Agentic Era
@@ -18790,30 +18396,6 @@ Telegram: https://t.me/scalingx
 OceanBase is the world's leading database engineered and always ready for mission-critical workloads at any scale. Trusted by 4,000+ brands globally, this includes companies like Alipay, Alipay+, WorldFirst, Bettr, TNG Digital, Trip.com, GCash, DANA, ICBC and more. Launched by Ant Group in 2010, OceanBase offers technology resilience and business growth with zero data loss, high performance, hyper scalability, cost optimisation, including real-time business intelligence and analytics all within a unified, integrated architecture. OceanBase is also recognised by top industry analysts such as IDC, Forrester and Gartner.
 
 To learn more, please visit https://en.oceanbase.com/
-
-<a id="event-aa77a50ce2133848"></a>
-
-## Craft Your Own Agentic Wallet
-
-- Record: `luma-batch-evtYEw7Rn9hCkzAh`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-08T03:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/m6mclrnh>
-
-### About the event
-
-In this workshop you'll build a self-custody agentic wallet on Sui: type what you want in plain English and your agent reasons through it, proposes the transaction, and executes onchain the moment you sign.
-
-The agent runs on your own laptop with nothing hidden - you watch every decision and every tool call as it thinks. AI handles the plumbing but you keep the keys.
-
-Bring your laptop, and leave with a wallet you can talk to.
-
-Please bring a laptop with an active ChatGPT or Claude subscription (Plus/Pro tier recommended) to participate in the workshop.
-
-Space is limited and first-come, first-served; RSVPing here doesn't hold a seat, so please show up a few minutes early.
-
-This workshop is for registered attendees of Sui Basecamp. If you need to register for the event, please go to: https://luma.com/SuiBasecamp2026
 
 <a id="event-dfdebcb9e425749f"></a>
 
@@ -25410,160 +24992,6 @@ Bronze
 
 By participating in this event, [you agree to our Event Participation Terms & Conditions](https://drive.google.com/file/d/1rnbsqX02Xmd--RYMQO0Tuz57TkgFG_cs/view?usp=sharing). [Read about our Privacy Policy](https://sui.io/policy#:~:text=We%20will%20never%20ask%20you,your%20use%20of%20the%20Services) [and Terms of Service](https://sui.io/terms#:~:text=You%20acknowledge%20sole%20responsibility%20for,of%20any%20third-party%20resources.&text=We%20may%20suspend%20or%20terminate%20your%20access%20to%20and%20use,and%20without%20notice%20to%20you).
 
-<a id="event-ca1d00fe2d3f8260"></a>
-
-## Digital Asset Summit Asia 2026
-
-- Record: `token2049-side-6a4fab1c10f84b19adc724c0`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-07T14:00:00.000Z
-- Description: Source-backed
-- Original page: <https://blockworks.com/event/digital-asset-summit-asia#pricing>
-
-### About the event
-
-Crypto's premier institutional event arrives in Asia: Digital Asset Summit Asia 2026 by Blockworks, on October 7, 2026 at Marina Bay Sands Singapore.
-
-### Program
-
-Built for the leaders of the onchain economy. With landmark bills now passed in the U.S., programming explores the nuances of regulatory frameworks policymakers worldwide have laid out for the maturing digital asset ecosystem, while leading DeFi architects unpack protocol design, lending and borrowing markets, market structure, risk curation and management, trading venues, and more.
-
-### Tickets
-
-General Admission early access is listed at US$699 - save $100 when you purchase before September 25th. An exclusive VIP and speaker dinner takes place on October 7. All attendees must present valid photo ID at badge pickup, and prices are subject to increase.
-
-<a id="event-f7e795751a7e3674"></a>
-
-## Institutional Breakfast: Securing Digital Assets at Scale
-
-- Record: `w3v-institutional-breakfast-securing-digital-assets-scale-26-10-08`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-07T17:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/5eviyo3p>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-792869eaaa15d6c7"></a>
-
-## Anchorage Digital Demo Day
-
-- Record: `w3v-anchorage-digital-demo-day-token2049-26-10-08`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-07T21:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/o4rlwh9o?utm_source=miragather.com>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-e9f4bd98f798979d"></a>
-
-## Intro to Electronics
-
-- Record: `luma-evt-FsnW0XYJ7YTt7Uf`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-07T22:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/lpduaucp>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-94348fe1271d6ab5"></a>
-
-## Solana Strider Run & Breakfast
-
-- Record: `luma-host-evt-evt-1vMPCKsGTGq54i7`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-07T23:30:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/hn4u80ws>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-a4cd75bea949a502"></a>
-
-## Solana Strider Run & Breakfast
-
-- Record: `w3v-solana-strider-run-breakfast-26-10-08`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-07T23:30:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/hn4u80ws>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-9dca2f2f59da2210"></a>
-
-## On-Chain Horizons: Founders x Funders
-
-- Record: `luma-host-evt-evt-MEAEcQH41WzZlok`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-08T00:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/ixmrhvtm>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-daf31ac6f97a7978"></a>
-
-## On-Chain Horizons: Founders x Funders
-
-- Record: `w3v-on-chain-horizons-founders-x-funders`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-08T00:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ixmrhvtm>
-
-### About the event
-
-ON-CHAIN HORIZONS: FOUNDERS X FUNDERS is an invite-only [networking event hosted by SC Ventures by Standard Chartered](https://scventures.io/?utm_source=luma) in collaboration [with our portfolio of leading digital asset ventures: Libeara](https://libeara.com/?utm_source=luma), [Zodia Custody](https://zodia-custody.com/?utm_source=luma), [Zodia Markets](https://zodiamarkets.com/?utm_source=luma), [Olea](https://olea.net/)and 37C.
-
-More than a networking breakfast, this is where institutional leaders, top DeFi founders, and investors step out of the noise to connect candidly about how bank-grade infrastructure and Web3 innovation can converge to build the next generation of finance, on-chain.
-
-Expect:
-
-- Unrivalled networking with a curated guest list - across TradFi and DeFi - over canapes and coffee
-- Global perspectives on digital asset adoption and investment
-- Behind-the-scenes insights from founders and builders engineering institutional-grade infrastructure for the future of finance
-
-Co-hosted by:
-
-[Libeara](https://libeara.com/?utm_source=luma) | [Zodia Custody](https://zodia-custody.com/?utm_source=luma) | [Zodia Markets](https://zodiamarkets.com/?utm_source=luma) | [Olea](https://olea.net) | 37C
-
-Access & Registration
-
-This is a private, limited-capacity gathering designed to keep conversations focused and networking meaningful. Attendance is subject to approval, and confirmed guests will receive a separate confirmation notice.
-
-### Please note
-
-- Invitations are strictly personal and non-transferable
-- Full names are required when submitting your RSVP
-- Photography and media from the event may be used on SC Ventures' online platforms
-
-<a id="event-f7fee68ed41659a3"></a>
-
-## Onchain Breakfast, Singapore
-
-- Record: `w3v-onchain-breakfast-singapore-26-10-08`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-08T00:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/uulrmjzz>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-3b41fef387241bdb"></a>
-
-## AWIC x TOKEN2049 Breakfast & Panel “Building Trust in Digital Assets: Risk, Regulation & Resilience”
-
-- Record: `luma-host-evt-evt-GjtcUA0RCT2rlru`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-08T00:30:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/liicgcdj>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-d0e780088d50ee49"></a>
 
 ## Payments, Treasury and Tokenization Summit 2026 by 8 Circle, XDC, PWC and Microsoft
@@ -25839,18 +25267,6 @@ NovesPrivate data infrastructure for Canton Network.
 ### Event details
 
 Hosted by Noves | Christian (Private data infrastructure for Canton Network | noves.fi/data-app). The event takes place on October 8. Registration requires organizer approval.
-
-<a id="event-f1d23be6d6b6cad0"></a>
-
-## GS Crypto Alumni Network @Token2049 🇸🇬
-
-- Record: `luma-host-evt-evt-CfgaR5oBgLGFXc2`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-08T01:15:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/rcmm9hj9>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-f5c6c25b037fe081"></a>
 
@@ -38244,6 +37660,18 @@ The celebration takes place at a festive rooftop and banquet venue in Mumbai on 
 
 Tickets are free via Luma and subject to venue capacity limits. Registration is free and requires host approval. Guests receive the full venue coordinates and dress code details upon confirmation.
 
+<a id="event-870f478944b821d2"></a>
+
+## Midlife Strong: Build Strength + Create a Plan That Fits Your Life
+
+- Record: `luma-evt-xZ7b96uFCkcsghi`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-08T15:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/qn2bybfc>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-a3f8f424265c0215"></a>
 
 ## Devin's Trading Desk: Forex, Futures, Crypto, Stocks & Options
@@ -39228,6 +38656,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-12T23:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/qqlmf5ou>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-d498ea6c962fc5d7"></a>
+
+## Voltron Live: AI Demos in a Speakeasy \| Pearmill Austin
+
+- Record: `luma-evt-fZANuqC1eCplbEC`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-13T00:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/af7w1jpp>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

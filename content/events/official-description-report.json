@@ -1457,28 +1457,6 @@
       "preview": "ETHConf is ETHGlobal's three-day institutional Ethereum event, taking place June 14–16, 2027 at the Javits Center in New York City."
     },
     {
-      "id": "token2049-side-6a4fab1c10f84b19adc724c0",
-      "file": "events-cache.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://blockworks.com/event/digital-asset-summit-asia",
-        "fetchedAt": "2026-09-20T00:20:58.660Z",
-        "method": "event-jsonld",
-        "pageTitle": "Digital Asset Summit Asia 2026",
-        "sha256": "166a9fc5c162b03929a9b31879efb9c27e020ee06f80f7b871ec51e9869e486d"
-      },
-      "eventFacts": {
-        "startDate": "2026-10-07T14:00:00.000Z",
-        "endDate": "2026-10-07T23:00:00.000Z",
-        "venueName": "Marina Bay Sands Singapore",
-        "streetAddress": "10 Bayfront Ave, Singapore 018956",
-        "location": "Marina Bay Sands Singapore, 10 Bayfront Ave, Singapore 018956"
-      },
-      "previousStartDate": "2026-10-07T08:00:00+08:00",
-      "characters": 52,
-      "preview": "Crypto's Premier Institutional Event Arrives In Asia"
-    },
-    {
       "id": "token2049-side-6a7445ef7ef1577c1e37eca1",
       "file": "events-cache.json",
       "name": "AFTER 2049: The official closing party of TOKEN2049",

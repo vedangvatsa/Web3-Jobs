@@ -7409,5 +7409,110 @@
       "private-lp",
       "token2049-evt-xuhxuctcsns955z"
     ]
+  },
+  "w3v-on-chain-horizons-founders-x-funders": {
+    "until": "2027-11-07T03:31:49.018Z",
+    "slugs": [
+      "chain-horizons",
+      "w3v-on-chain-horizons-founders-x-funders"
+    ]
+  },
+  "token2049-side-6a4fab1c10f84b19adc724c0": {
+    "until": "2027-11-07T03:31:49.018Z",
+    "slugs": [
+      "dasa",
+      "token2049-side-6a4fab1c10f84b19adc724c0"
+    ]
+  },
+  "luma-batch-CdGb9HZtvTpfqnr": {
+    "until": "2027-11-07T03:31:49.018Z",
+    "slugs": [
+      "agenticstack",
+      "luma-batch-cdgb9hztvtpfqnr"
+    ]
+  },
+  "luma-batch-evtYEw7Rn9hCkzAh": {
+    "until": "2027-11-07T03:31:49.018Z",
+    "slugs": [
+      "m6mclrnh",
+      "luma-batch-evtyew7rn9hckzah"
+    ]
+  },
+  "luma-batch-evtDE6g45qZhsILO": {
+    "until": "2027-11-07T03:31:49.018Z",
+    "slugs": [
+      "uoqavs7x",
+      "luma-batch-evtde6g45qzhsilo"
+    ]
+  },
+  "luma-crypto-XeNEjxuPS7Ubymi": {
+    "until": "2027-11-07T03:31:49.018Z",
+    "slugs": [
+      "psh",
+      "luma-crypto-xenejxups7ubymi"
+    ]
+  },
+  "luma-crypto-1vMPCKsGTGq54i7": {
+    "until": "2027-11-07T03:31:49.018Z",
+    "slugs": [
+      "ssrb",
+      "luma-crypto-1vmpcksgtgq54i7"
+    ]
+  },
+  "token2049-evt-jOBWuJc3s9090vo": {
+    "until": "2027-11-07T03:31:49.018Z",
+    "slugs": [
+      "satoshi-dinner",
+      "token2049-evt-jobwujc3s9090vo"
+    ]
+  },
+  "token2049-evt-GjtcUA0RCT2rlru": {
+    "until": "2027-11-07T03:31:49.018Z",
+    "slugs": [
+      "awic-token2049",
+      "token2049-evt-gjtcua0rct2rlru"
+    ]
+  },
+  "token2049-evt-fDAS9T16AafsERp": {
+    "until": "2027-11-07T03:31:49.018Z",
+    "slugs": [
+      "morning-street",
+      "token2049-evt-fdas9t16aafserp"
+    ]
+  },
+  "token2049-evt-CfgaR5oBgLGFXc2": {
+    "until": "2027-11-07T03:31:49.018Z",
+    "slugs": [
+      "gs-crypto",
+      "token2049-evt-cfgar5obglgfxc2"
+    ]
+  },
+  "token2049-evt-cZBPqkOMypSgdEB": {
+    "until": "2027-11-07T03:31:49.018Z",
+    "slugs": [
+      "ourcac0a",
+      "token2049-evt-czbpqkomypsgdeb"
+    ]
+  },
+  "token2049-evt-36Uw5PVpEzK0wCo": {
+    "until": "2027-11-07T03:31:49.018Z",
+    "slugs": [
+      "onchain-breakfast",
+      "token2049-evt-36uw5pvpezk0wco"
+    ]
+  },
+  "token2049-evt-vi3MRdSPLgFKqUt": {
+    "until": "2027-11-07T03:31:49.018Z",
+    "slugs": [
+      "bjj-open",
+      "token2049-evt-vi3mrdsplgfkqut"
+    ]
+  },
+  "token2049-official-6aab60b4f5de78483fb5c75a": {
+    "until": "2027-11-07T03:31:49.018Z",
+    "slugs": [
+      "bzrcd2",
+      "token2049-official-6aab60b4f5de78483fb5c75a"
+    ]
   }
 }
