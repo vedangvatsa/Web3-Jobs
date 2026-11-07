@@ -3443,5 +3443,37 @@
     "slotKey": "2026-11-07:afternoon",
     "messageId": 65811,
     "sentAt": "2026-11-07T11:36:00.394Z"
+  },
+  "47a152b3-c040-474f-9d71-0a373e487936": {
+    "status": "reserved",
+    "reservedAt": "2026-11-07T19:36:59.429Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "SEC approves Cboe rules for six leveraged commodity funds",
+        "summary": "The agency authorized trusts tracking gold, silver, bitcoin, ether, crude oil, and natural gas on October 2, 2026.",
+        "link": "https://hashtagweb3.com/triple-funds?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEC clears Cboe listing rules for six 3x Volatility Shares funds"
+      },
+      {
+        "index": 27,
+        "headline": "Nigeria Central Bank issues licensing rules for stablecoin providers",
+        "summary": "The new framework requires local licenses for service providers and bans the issuance of algorithmic stablecoins.",
+        "event_rationale": "This covers a significant regulatory framework for stablecoins in a major emerging market, distinct from South Korea's recent forex law changes.",
+        "link": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
+        "source": "The Block",
+        "originalTitle": "Nigeria’s central bank introduces stablecoin licensing rules, bans algorithmic versions"
+      },
+      {
+        "index": 3,
+        "headline": "Bitcoin ETFs record $1.28 billion in weekly outflows",
+        "summary": "BlackRock's IBIT fund saw $403 million in Friday withdrawals, contributing to the largest weekly loss since June.",
+        "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
+        "source": "The Block",
+        "originalTitle": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June"
+      }
+    ],
+    "slotKey": "2026-11-07:evening"
   }
 }
