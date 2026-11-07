@@ -3344,5 +3344,36 @@
     "slotKey": "2026-11-07:afternoon",
     "messageId": 193470,
     "sentAt": "2026-11-07T11:34:40.837Z"
+  },
+  "6fc30fb9-9c01-4c72-973f-8156e144dfdb": {
+    "status": "reserved",
+    "reservedAt": "2026-11-07T19:36:15.380Z",
+    "stories": [
+      {
+        "index": 6,
+        "headline": "Schools can skip Gemini but must use Google AI search",
+        "summary": "While administrators can turn off the Gemini chatbot, AI-powered search results are now mandatory for school accounts.",
+        "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+        "source": "Ars Technica",
+        "originalTitle": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable"
+      },
+      {
+        "index": 7,
+        "headline": "Roundtable on technologies for brain preservation after death",
+        "summary": "Editors Mary Beth Griggs and Antonio Regalado discuss methods for maintaining consciousness after biological death.",
+        "link": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+        "source": "MIT Tech Review",
+        "originalTitle": "Roundtables: Inside the Quest for Cognitive Immortality"
+      },
+      {
+        "index": 10,
+        "headline": "Anthropic's new rules unlikely to stop AI game cloning",
+        "summary": "Individual model developers cannot stop the large volume of AI-generated game imitations.",
+        "link": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+        "source": "Ars Technica",
+        "originalTitle": "Claude’s new rules against game cloning won’t stop the AI copying boom"
+      }
+    ],
+    "slotKey": "2026-11-07:evening"
   }
 }
