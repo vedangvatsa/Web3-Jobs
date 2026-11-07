@@ -112095,6 +112095,34 @@
       "verification": "verified",
       "postId": "6aef0c7c229bf05daf478d60",
       "permalink": "https://twitter.com/hashtag_web3/status/2119030418984906962"
+    },
+    {
+      "slug": "ts3",
+      "company": "Jane Street",
+      "title": "Travel Specialist",
+      "platform": "threads",
+      "postedAt": "2026-11-07T11:33:06.208Z",
+      "expectedText": "Jane Street is hiring Travel Specialist: https://hashtagweb3.com/ts3/th?og=7",
+      "snapshot": {
+        "id": "8903762002",
+        "title": "Travel Specialist",
+        "company": "Jane Street",
+        "link": "https://www.janestreet.com/join-jane-street/apply/8903762002?gh_jid=8903762002",
+        "date": "2026-10-20T16:34:31-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Jane Street [janestreet]",
+        "location": "New York, NY",
+        "department": "Workplace Services & Experience",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ts3"
+      },
+      "payload": {
+        "text": "Jane Street is hiring Travel Specialist: https://hashtagweb3.com/ts3/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/ts3/th?og=7"
+      },
+      "attemptId": "8459004e-f914-4cba-80bc-ac23808b2f5d",
+      "verification": "creating"
     }
   ]
 }
