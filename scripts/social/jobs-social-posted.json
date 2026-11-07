@@ -113327,6 +113327,41 @@
       "attemptId": "4179733b-211f-46b3-8ce4-fb57dca5d9f9",
       "verification": "verified",
       "postId": "0x92511c159d883d6bd8a7dffe31564821d09ed37e"
+    },
+    {
+      "slug": "an89",
+      "company": "Coinflow",
+      "title": "Senior Fraud Analyst - Team Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-11-07T11:36:42.674Z",
+      "expectedText": "Coinflow is hiring Senior Fraud Analyst - Team Lead\n\nhttps://hashtagweb3.com/an89/fc?og=7",
+      "snapshot": {
+        "id": "9aac086d-4289-4b5d-a488-1189dde5254e",
+        "title": "Senior Fraud Analyst - Team Lead",
+        "company": "Coinflow",
+        "link": "https://jobs.ashbyhq.com/Coinflow/9aac086d-4289-4b5d-a488-1189dde5254e",
+        "date": "2026-10-12T17:16:05.695+00:00",
+        "source": "Ashby: Coinflow [coinflow]",
+        "location": "Chicago",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Risk & Compliance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "an89"
+      },
+      "payload": {
+        "text": "Coinflow is hiring Senior Fraud Analyst - Team Lead\n\nhttps://hashtagweb3.com/an89/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/an89/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "bd71c1f6-542c-452e-809a-938a09b8de8b",
+      "verification": "creating"
     }
   ]
 }
