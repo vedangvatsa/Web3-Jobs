@@ -111986,8 +111986,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "e8822890-947f-4db1-b9fe-c623782de39d",
-      "verification": "pending",
-      "postId": "6aee9d51229bf05daf268607"
+      "verification": "verified",
+      "postId": "6aee9d51229bf05daf268607",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7524676832265162752"
     }
   ]
 }
