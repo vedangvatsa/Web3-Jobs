@@ -154274,5 +154274,59 @@
     "link": "https://liminal.keka.com/careers/jobdetails/164703",
     "company": "Liminal",
     "title": "Senior Associate - Sales Operations"
+  },
+  "qa81": {
+    "id": "8206729",
+    "link": "https://stripe.com/jobs/search?gh_jid=8206729",
+    "company": "Stripe",
+    "title": "Team Lead, Quality Analyst, Product Support Operations"
+  },
+  "cmp105": {
+    "id": "8016752003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8016752003",
+    "company": "OKX",
+    "title": "Head of Compliance, EU & UK"
+  },
+  "ops97": {
+    "id": "5f6db674-0df4-4ee6-a090-ccdbec873ece",
+    "link": "https://jobs.ashbyhq.com/sei-labs/5f6db674-0df4-4ee6-a090-ccdbec873ece",
+    "company": "Sei Labs",
+    "title": "Operations Lead - Trading"
+  },
+  "an80": {
+    "id": "716d205a-6dc8-4a48-be20-a5afb9698173",
+    "link": "https://jobs.ashbyhq.com/sei-labs/716d205a-6dc8-4a48-be20-a5afb9698173",
+    "company": "Sei Labs",
+    "title": "Trade Surveillance Analyst"
+  },
+  "ask2": {
+    "id": "4988000101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4988000101",
+    "company": "Bybit",
+    "title": "[EU] AML Specialist, KYB"
+  },
+  "astm2": {
+    "id": "4987997101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4987997101",
+    "company": "Bybit",
+    "title": "[EU]Senior AML Specialist, Transaction Monitoring"
+  },
+  "cc10": {
+    "id": "96262026",
+    "link": "https://ats.rippling.com/perle/jobs/79bd8449-6704-411e-8a97-9fcb57756a55",
+    "company": "Perle",
+    "title": "Country Lead (Colombia)"
+  },
+  "cb": {
+    "id": "96262021",
+    "link": "https://ats.rippling.com/perle/jobs/84bd8874-faaa-4936-b91b-ae0a9149881a",
+    "company": "Perle",
+    "title": "Country Lead (Brazil)"
+  },
+  "eng722": {
+    "id": "keka-liminal-164714",
+    "link": "https://liminal.keka.com/careers/jobdetails/164714",
+    "company": "Liminal",
+    "title": "Software Engineer - Automation"
   }
 }

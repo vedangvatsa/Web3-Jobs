@@ -66,6 +66,54 @@ jobs:
         run: npx tsx scripts/ingest-keka-board.ts liminal "Liminal"
         continue-on-error: true
 
+      - name: Ingest Story Protocol Ashby jobs
+        run: npx tsx scripts/ingest-ashby-board.ts story "Story Protocol"
+        continue-on-error: true
+
+      - name: Ingest Mantle Network Ashby jobs
+        run: npx tsx scripts/ingest-ashby-board.ts mantle "Mantle Network"
+        continue-on-error: true
+
+      - name: Ingest Paradigm Ashby jobs
+        run: npx tsx scripts/ingest-ashby-board.ts paradigm "Paradigm"
+        continue-on-error: true
+
+      - name: Ingest Blockstream Ashby jobs
+        run: npx tsx scripts/ingest-ashby-board.ts blockstream "Blockstream"
+        continue-on-error: true
+
+      - name: Ingest Wormhole Labs Ashby jobs
+        run: npx tsx scripts/ingest-ashby-board.ts wormholelabs "Wormhole Labs"
+        continue-on-error: true
+
+      - name: Ingest Moonshot Ashby jobs
+        run: npx tsx scripts/ingest-ashby-board.ts moonshot "Moonshot"
+        continue-on-error: true
+
+      - name: Ingest Matter Labs Ashby jobs
+        run: npx tsx scripts/ingest-ashby-board.ts matter-labs "Matter Labs"
+        continue-on-error: true
+
+      - name: Ingest Hyperliquid Labs Ashby jobs
+        run: npx tsx scripts/ingest-ashby-board.ts "Hyperliquid Labs" "Hyperliquid Labs"
+        continue-on-error: true
+
+      - name: Ingest EigenLayer Ashby jobs
+        run: npx tsx scripts/ingest-ashby-board.ts teameigen "EigenLayer"
+        continue-on-error: true
+
+      - name: Ingest Stork Network Ashby jobs
+        run: npx tsx scripts/ingest-ashby-board.ts stork "Stork Network"
+        continue-on-error: true
+
+      - name: Ingest Sentient Ashby jobs
+        run: npx tsx scripts/ingest-ashby-board.ts sentient "Sentient"
+        continue-on-error: true
+
+      - name: Ingest Succinct Labs Ashby jobs
+        run: npx tsx scripts/ingest-ashby-board.ts succinct "Succinct Labs"
+        continue-on-error: true
+
       - name: Ingest Official CoinDCX job openings
         run: npx tsx scripts/ingest-coindcx-official.ts
         continue-on-error: true
