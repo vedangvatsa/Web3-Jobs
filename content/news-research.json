@@ -136772,7 +136772,31 @@
       "firstSeenAt": "2026-11-05T00:28:26.536Z",
       "attempts": 0,
       "expiresAt": "2026-11-07T21:32:00.000Z",
-      "lastSeenAt": "2026-11-05T00:28:26.536Z"
+      "lastSeenAt": "2026-11-05T00:28:26.536Z",
+      "articleSlug": "cantoncoin",
+      "draftProgress": {
+        "id": "bc7b5a82f15dda5a036a",
+        "day": "2026-11-07",
+        "articleSlug": "cantoncoin",
+        "note": "Read Unchained, Decrypt and the SEC no-action letter itself. Need photo, then draft.",
+        "sourceChecks": [
+          {
+            "url": "https://unchainedcrypto.com/canton-coin-is-a-digital-commodity-sec-staff-say-in-letter-covering-network-rewards/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.sec.gov/rules-regulations/no-action-interpretive-exemptive-letters/division-corporation-finance-no-action/canton-coin-110326",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-07T04:25:11.943Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "a79c494f23d413bc7249": {
       "source": "Bitcoin Magazine",
