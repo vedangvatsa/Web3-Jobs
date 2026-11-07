@@ -1515,6 +1515,7 @@ async function refreshJobsCache() {
     { board: 'uphold', company: 'Uphold' },
     { board: 'chainstack', company: 'Chainstack' },
     { board: 'fasset', company: 'Fasset' },
+    { board: 'bitso', company: 'Bitso' },
     { board: 'paribu', company: 'Paribu' },
     { board: 'yellowcard', company: 'Yellow Card' },
     { board: 'ramp', company: 'Ramp Network' },
@@ -1526,10 +1527,6 @@ async function refreshJobsCache() {
     { board: 'lido', company: 'Lido' },
     { board: 'mercuryo', company: 'Mercuryo' },
     { board: 'ambergroup', company: 'Amber Group' },
-    { board: 'yellowcard', company: 'Yellow Card' },
-    { board: 'fasset', company: 'Fasset' },
-    { board: 'bitcoin', company: 'Bitcoin.com' },
-    { board: 'uphold', company: 'Uphold' },
   ];
 
   for (const bh of BAMBOO_BOARDS) {
@@ -1670,8 +1667,17 @@ async function refreshJobsCache() {
     { board: 'crossmint.na', company: 'Crossmint', url: 'https://crossmint.na.teamtailor.com/jobs.rss' },
     { board: 'crystalintelligence', company: 'Crystal Intelligence', url: 'https://crystalintelligence.teamtailor.com/jobs.rss' },
     { board: 'ethena', company: 'Ethena Labs', url: 'https://careers.ethena.fi/jobs.rss' },
+    { board: 'ripio', company: 'Ripio', url: 'https://ripio.teamtailor.com/jobs.rss' },
   ];
-  const rssParser = new Parser();
+  const rssParser = new Parser({
+    customFields: {
+      item: [
+        ['remoteStatus', 'remoteStatus'],
+        ['tt:department', 'department'],
+        ['tt:locations', 'locations'],
+      ],
+    },
+  });
 
   for (const tt of TEAMTAILOR_BOARDS) {
     registerDirectSource('Teamtailor', tt.board, tt.company);
@@ -1684,6 +1690,19 @@ async function refreshJobsCache() {
         const title = cleanTitle(item.title);
         const link = item.link;
         if (!title || !link || !isConcreteOpening(title)) continue;
+        const anyItem = item as any;
+        let locStr = '';
+        const locObj = anyItem.locations?.['tt:location']?.[0];
+        const city = locObj?.['tt:city']?.[0];
+        const country = locObj?.['tt:country']?.[0];
+        if (city && country) {
+          locStr = anyItem.remoteStatus === 'fully' ? `${city}, ${country} (Remote)` : `${city}, ${country}`;
+        } else if (country) {
+          locStr = anyItem.remoteStatus === 'fully' ? `${country} (Remote)` : country;
+        } else if (anyItem.remoteStatus === 'fully') {
+          locStr = 'Remote';
+        }
+        const location = locStr ? cleanJobLocation(locStr) : undefined;
         const candidate: CachedJob = {
           id: item.guid || link,
           title,
@@ -1691,6 +1710,8 @@ async function refreshJobsCache() {
           link,
           date: item.isoDate || '',
           source: sourceLabel('Teamtailor', tt.board, tt.company),
+          location,
+          department: anyItem.department?.trim() || undefined,
           active: true,
         };
         if (upsertJob(candidate)) added++;

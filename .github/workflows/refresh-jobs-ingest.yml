@@ -66,6 +66,10 @@ jobs:
         run: npx tsx scripts/ingest-keka-board.ts liminal "Liminal"
         continue-on-error: true
 
+      - name: Ingest Regional Crypto Exchanges (Bitso, Ripio, Fasset)
+        run: npx tsx scripts/ingest-regional-exchanges.ts
+        continue-on-error: true
+
       - name: Ingest Story Protocol Ashby jobs
         run: npx tsx scripts/ingest-ashby-board.ts story "Story Protocol"
         continue-on-error: true

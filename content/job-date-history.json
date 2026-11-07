@@ -29860,8 +29860,9 @@
     "dateVerified": true
   },
   "https://jobs.ripio.com/jobs/8560977-vp-of-global-business-development": {
-    "date": "2026-10-17T12:02:13.000Z",
-    "dateVerified": true
+    "date": "2026-10-16T14:51:52.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
   },
   "ashby:61ffd115-5209-433c-ab3a-7b6fc0a9b9d4": {
     "date": "2026-10-17T13:51:22.000Z",
@@ -31143,8 +31144,9 @@
     "dateVerified": true
   },
   "https://bitso.bamboohr.com/careers/1005": {
-    "date": "2026-10-21T19:33:05.000Z",
-    "dateVerified": true
+    "date": "2026-09-16",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
   },
   "https://eg.linkedin.com/jobs/view/senior-talent-acquisition-staffing-specialist-at-axis-4479942693": {
     "date": "2026-10-21T14:58:30.000Z",
@@ -34114,8 +34116,9 @@
     "dateVerified": true
   },
   "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior": {
-    "date": "2026-10-28T11:12:21.000Z",
-    "dateVerified": true
+    "date": "2026-10-27T16:15:10.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
   },
   "https://www.linkedin.com/jobs/view/sr-product-marketing-manager-at-offchain-4483724614": {
     "date": "2026-10-28T10:00:10.000Z",
@@ -40540,5 +40543,45 @@
   "ashby:73a2c6df-234e-4d82-8977-67530c2be3eb": {
     "date": "2026-09-25T19:57:39.980+00:00",
     "dateVerified": true
+  },
+  "https://bitso.bamboohr.com/careers/1002": {
+    "date": "2026-09-16",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
+  },
+  "https://bitso.bamboohr.com/careers/1008": {
+    "date": "2026-09-22",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
+  },
+  "https://bitso.bamboohr.com/careers/1009": {
+    "date": "2026-09-29",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
+  },
+  "https://jobs.ripio.com/jobs/8507937-oficial-de-cumplimiento-mexico": {
+    "date": "2026-10-06T17:41:04.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "https://jobs.ripio.com/jobs/8437471-ai-automation-engineer": {
+    "date": "2026-09-22T19:27:55.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "https://jobs.ripio.com/jobs/7801511-queres-sumarte-a-liderar-cripto-en-latam-dejanos-tu-perfil": {
+    "date": "2026-05-26T20:11:14.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "https://fasset.bamboohr.com/careers/349": {
+    "date": "2026-10-28",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
+  },
+  "https://fasset.bamboohr.com/careers/350": {
+    "date": "2026-10-29",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
   }
 }

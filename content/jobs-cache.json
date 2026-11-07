@@ -8759,6 +8759,20 @@
     "slug": "ssep"
   },
   {
+    "id": "350",
+    "title": "Customer Support Analyst",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/350",
+    "date": "2026-10-29",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted",
+    "source": "BambooHR: Fasset [fasset]",
+    "location": "Kuala Lumpur, Malaysia",
+    "department": "Operations",
+    "active": true,
+    "slug": "an124"
+  },
+  {
     "id": "8332676",
     "title": "Software Engineer - Full stack",
     "company": "Stripe",
@@ -10136,6 +10150,20 @@
     "slug": "cmp108"
   },
   {
+    "id": "349",
+    "title": "CRM and Lifecycle Manager",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/349",
+    "date": "2026-10-28",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted",
+    "source": "BambooHR: Fasset [fasset]",
+    "location": "Dubai, United Arab Emirates",
+    "department": "Operations",
+    "active": true,
+    "slug": "mgr238"
+  },
+  {
     "id": "8287486",
     "title": "Managing Editor, Stripe Press",
     "company": "Stripe",
@@ -10633,6 +10661,20 @@
     "active": true,
     "dateVerified": true,
     "slug": "sls351"
+  },
+  {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "title": "Marketing Operations & CRM Senior",
+    "company": "Ripio",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "date": "2026-10-27T16:15:10.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss",
+    "source": "Teamtailor: Ripio [ripio]",
+    "location": "Buenos Aires, Argentina (Remote)",
+    "department": "Branding & Marketing",
+    "active": true,
+    "slug": "mkt148"
   },
   {
     "id": "8325731",
@@ -18090,6 +18132,20 @@
     "slug": "do16"
   },
   {
+    "id": "9c249990-643c-4793-9917-cb5ca3be2883",
+    "title": "VP of Global Business Development",
+    "company": "Ripio",
+    "link": "https://jobs.ripio.com/jobs/8560977-vp-of-global-business-development",
+    "date": "2026-10-16T14:51:52.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss",
+    "source": "Teamtailor: Ripio [ripio]",
+    "location": "Buenos Aires, Argentina (Remote)",
+    "department": "Corporate Development",
+    "active": true,
+    "slug": "sls450"
+  },
+  {
     "id": "eecf9af5-46fb-4b62-b8c8-921098fd6514",
     "title": "Research Engineer - Pre-training Data",
     "company": "Prime Intellect",
@@ -20218,6 +20274,20 @@
     "slug": "fe22"
   },
   {
+    "id": "1010",
+    "title": "Onboarding Operations Analyst",
+    "company": "Bitso",
+    "link": "https://bitso.bamboohr.com/careers/1010",
+    "date": "2026-10-14T13:15:34.000Z",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted",
+    "source": "BambooHR: Bitso [bitso]",
+    "location": "Mexico City, Cuauhtémoc, Mexico",
+    "department": "Sales",
+    "active": true,
+    "slug": "ob17"
+  },
+  {
     "id": "a558ee61-9b38-47db-808e-6a97893ad915",
     "title": "Engineering Lead, Wallets (NYC)",
     "company": "Crossmint",
@@ -21407,6 +21477,20 @@
     "active": true,
     "dateVerified": true,
     "slug": "ops4"
+  },
+  {
+    "id": "348",
+    "title": "Creative Producer, Videographer & Editor",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/348",
+    "date": "2026-10-13",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted",
+    "source": "BambooHR: Fasset [fasset]",
+    "location": "Dubai, United Arab Emirates",
+    "department": "Operations",
+    "active": true,
+    "slug": "cpve2"
   },
   {
     "id": "3c30cca2-5612-4ed0-9af3-02765577733c",
@@ -24110,20 +24194,5 @@
     "salary": "$123k – $145k/yr",
     "dateVerified": true,
     "slug": "sls247"
-  },
-  {
-    "id": "5000933101",
-    "title": "Compliance Senior Manager - Malta",
-    "company": "BVNK",
-    "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5000933101",
-    "date": "2026-10-08T10:45:52-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: BVNK [bvnk]",
-    "location": "Malta",
-    "department": "Legal/Risk/Regulatory",
-    "active": true,
-    "salary": "€60k – €100k/yr",
-    "dateVerified": true,
-    "slug": "cmp106"
   }
 ]

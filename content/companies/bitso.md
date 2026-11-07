@@ -6,7 +6,7 @@ description: >-
   Bitso is the leading financial services company powered by crypto in Latin
   America, serving over 8 million users and 1,700 institutional clients across
   Mexico, Brazil, Colombia, and Argentina.
-lastUpdated: 2026-09-04
+lastUpdated: 2026-11-07
 ---
 Bitso is the leading financial services company powered by crypto in Latin America, serving over 8 million users and 1,700 institutional clients across Mexico, Brazil, Colombia, and Argentina.
 

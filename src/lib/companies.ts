@@ -231,6 +231,7 @@ export const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'shakepay': 'https://shakepay.com',
  'bitpanda': 'https://bitpanda.com',
  'bitso': 'https://bitso.com',
+  'ripio': 'https://ripio.com',
  'luno': 'https://luno.com',
  'bob': 'https://gobob.xyz',
  'delphi': 'https://delphidigital.io',
