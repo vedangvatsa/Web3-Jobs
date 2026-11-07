@@ -15909,5 +15909,129 @@
     "slotKey": "2026-11-07:evening",
     "messageId": 16620,
     "sentAt": "2026-11-07T19:32:36.987Z"
+  },
+  "517c8496-8e9a-4e07-83db-f6e0c16cdd6c": {
+    "status": "reserved",
+    "reservedAt": "2026-11-07T19:32:38.880Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "2e9df755-13ae-4e42-994b-fe5a7056bdb9",
+          "title": "Operational Risk, Senior Associate",
+          "company": "Paxos",
+          "link": "https://jobs.ashbyhq.com/paxos/2e9df755-13ae-4e42-994b-fe5a7056bdb9",
+          "date": "2026-11-06T22:24:36.282+00:00",
+          "source": "Ashby: Paxos [Paxos]",
+          "location": "Remote - United States",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Risk & Compliance",
+          "active": true,
+          "slug": "aso83",
+          "dateVerified": true
+        },
+        "key": "2e9df755-13ae-4e42-994b-fe5a7056bdb9",
+        "slug": "aso83",
+        "url": "https://hashtagweb3.com/aso83?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Paxos",
+        "title": "Operational Risk"
+      },
+      {
+        "snapshot": {
+          "id": "d0bddacb-1b93-47ec-bc6f-bac0d34749e8",
+          "title": "Strategic Project Manager - Operations",
+          "company": "Lido",
+          "link": "https://jobs.ashbyhq.com/Lido.fi/d0bddacb-1b93-47ec-bc6f-bac0d34749e8",
+          "date": "2026-10-12T14:40:48.618+00:00",
+          "source": "Ashby: Lido [Lido.fi]",
+          "location": "Worldwide",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Operations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops104"
+        },
+        "key": "d0bddacb-1b93-47ec-bc6f-bac0d34749e8",
+        "slug": "ops104",
+        "url": "https://hashtagweb3.com/ops104?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Lido",
+        "title": "Strategic Project Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8327701",
+          "title": "Finance Manager",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+          "date": "2026-11-02T02:44:13-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "Singapore",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr128"
+        },
+        "key": "8327701",
+        "slug": "mgr128",
+        "url": "https://hashtagweb3.com/mgr128?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Finance Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8041248003",
+          "title": "Senior Business Analytics Manager",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8041248003",
+          "date": "2026-10-22T06:13:20-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Sliema, Malta",
+          "department": "CEO Office",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr108"
+        },
+        "key": "8041248003",
+        "slug": "mgr108",
+        "url": "https://hashtagweb3.com/mgr108?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Senior Business Analytics Manager"
+      },
+      {
+        "snapshot": {
+          "id": "334e4c8e49f601",
+          "title": "Regulatory Compliance Specialist",
+          "company": "Nexo",
+          "link": "https://nexo.breezy.hr/p/334e4c8e49f601-regulatory-compliance-specialist",
+          "date": "2026-11-05",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Nexo [nexo]",
+          "location": "Sofia, BG",
+          "isRemote": false,
+          "department": "Legal & Regulatory Compliance",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://nexo.breezy.hr/p/334e4c8e49f601-regulatory-compliance-specialist",
+            "checkedAt": "2026-11-06T00:30:54.152Z",
+            "bodySha256": "f552f38dee6894e2963503fae535b75023878a0c460bcf76e0ac77ea0ea0ea67",
+            "provider": "breezy",
+            "datePosted": "2026-11-05"
+          },
+          "slug": "cmp92"
+        },
+        "key": "334e4c8e49f601",
+        "slug": "cmp92",
+        "url": "https://hashtagweb3.com/cmp92?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Nexo",
+        "title": "Regulatory Compliance Specialist"
+      }
+    ],
+    "message": "- Paxos is hiring <a href=\"https://hashtagweb3.com/aso83?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Operational Risk, Senior Associate</a>\n- Lido is hiring <a href=\"https://hashtagweb3.com/ops104?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Strategic Project Manager - Operations</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/mgr128?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Finance Manager</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/mgr108?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Business Analytics Manager</a>\n- Nexo is hiring <a href=\"https://hashtagweb3.com/cmp92?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Regulatory Compliance Specialist</a>",
+    "slotKey": "2026-11-07:evening"
   }
 }
