@@ -3346,7 +3346,7 @@
     "sentAt": "2026-11-07T11:34:40.837Z"
   },
   "6fc30fb9-9c01-4c72-973f-8156e144dfdb": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-07T19:36:15.380Z",
     "stories": [
       {
@@ -3374,6 +3374,8 @@
         "originalTitle": "Claude’s new rules against game cloning won’t stop the AI copying boom"
       }
     ],
-    "slotKey": "2026-11-07:evening"
+    "slotKey": "2026-11-07:evening",
+    "messageId": 193472,
+    "sentAt": "2026-11-07T19:36:25.876Z"
   }
 }
