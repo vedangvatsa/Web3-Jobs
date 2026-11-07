@@ -112877,6 +112877,34 @@
       "attemptId": "aa4df3f5-394e-4a69-8e26-46b2ca44c167",
       "verification": "verified",
       "postId": "urn:li:share:7524796895945416704"
+    },
+    {
+      "slug": "ts3",
+      "company": "Jane Street",
+      "title": "Travel Specialist",
+      "platform": "facebook",
+      "postedAt": "2026-11-07T11:33:06.208Z",
+      "expectedText": "Jane Street is hiring Travel Specialist: https://hashtagweb3.com/ts3/fb?og=7",
+      "snapshot": {
+        "id": "8903762002",
+        "title": "Travel Specialist",
+        "company": "Jane Street",
+        "link": "https://www.janestreet.com/join-jane-street/apply/8903762002?gh_jid=8903762002",
+        "date": "2026-10-20T16:34:31-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Jane Street [janestreet]",
+        "location": "New York, NY",
+        "department": "Workplace Services & Experience",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ts3"
+      },
+      "payload": {
+        "message": "Jane Street is hiring Travel Specialist: https://hashtagweb3.com/ts3/fb?og=7",
+        "link": "https://hashtagweb3.com/ts3/fb?og=7"
+      },
+      "attemptId": "31dd65a5-e514-43a1-82df-e23a0bd14c33",
+      "verification": "creating"
     }
   ]
 }
