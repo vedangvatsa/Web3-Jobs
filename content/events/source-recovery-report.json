@@ -90,39 +90,6 @@
       ]
     },
     {
-      "id": "token2049-side-6aa41f2ac0426d278bd87d05",
-      "outcome": "recovered",
-      "sourceUrl": "https://www.token2049.com/singapore/nexus-startup-competition",
-      "reason": "Verified the named competition and its finalist program rather than rejecting the final-round session label.",
-      "fetchedAt": "2026-09-20T07:56:56.531Z",
-      "characters": 851,
-      "changes": [
-        "description",
-        "descriptionSource",
-        "website",
-        "registrationUrl",
-        "venueName",
-        "registrationAvailability",
-        "slug"
-      ]
-    },
-    {
-      "id": "token2049-side-6aa41d6d8ffcc4e5ece10d0f",
-      "outcome": "recovered",
-      "sourceUrl": "https://www.token2049.com/singapore/2049-origins",
-      "reason": "Matched the ceremony to the organizer's Origins program and used its published prize and participation details without inventing a ceremony agenda.",
-      "fetchedAt": "2026-09-20T07:56:56.870Z",
-      "characters": 795,
-      "changes": [
-        "description",
-        "descriptionSource",
-        "website",
-        "registrationUrl",
-        "venueName",
-        "slug"
-      ]
-    },
-    {
       "id": "premier-stablecoinsg",
       "outcome": "recovered",
       "sourceUrl": "https://stablecoinsummit.com/",

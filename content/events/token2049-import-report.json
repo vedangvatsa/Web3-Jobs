@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-07T03:31:54.882Z",
+  "checkedAt": "2026-11-07T11:32:52.112Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -10,11 +10,11 @@
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 107,
-    "excluded": 155,
+    "existing": 76,
+    "excluded": 159,
     "needs-review": 23
   },
-  "importedTotal": 119,
+  "importedTotal": 90,
   "added": [],
   "receipts": [
     {
@@ -81,27 +81,6 @@
       "slug": "tech-summit"
     },
     {
-      "url": "https://luma.com/circlehouse2026",
-      "name": "Circle House  - Day 1",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "circle-house"
-    },
-    {
-      "url": "https://week.token2049.com",
-      "name": "TOKEN2049 Institutional",
-      "sources": [
-        "https://week.token2049.com"
-      ],
-      "sourceId": "6aafcca7f5de78483fb5d9c4",
-      "status": "existing",
-      "slug": "token2049-institutional"
-    },
-    {
       "url": "https://luma.com/dd8728yc",
       "name": "Web3TV Interview Feature With Singapore Blockchain Week - Day 1",
       "sources": [
@@ -110,104 +89,6 @@
       ],
       "status": "existing",
       "slug": "web3tv-interview"
-    },
-    {
-      "url": "https://luma.com/x6q6vmm9",
-      "name": "BTCC Traders Club - Day 1",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "btcc-traders"
-    },
-    {
-      "url": "https://luma.com/lgaeclvb",
-      "name": "Media Accelerator & Startup Cohort (Meta Blockchain)",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "media-accelerator"
-    },
-    {
-      "url": "https://luma.com/o4rlwh9o",
-      "name": "Anchorage Digital Demo Day",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "adddt"
-    },
-    {
-      "url": "https://luma.com/bweuu7en",
-      "name": "Vogue Wellness Pop-up with VIVA",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "vogue-wellness"
-    },
-    {
-      "url": "https://luma.com/5eviyo3p",
-      "name": "Institutional Breakfast: Securing Digital Assets at Scale",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "institutional-breakfast"
-    },
-    {
-      "url": "https://luma.com/u8jbrj02",
-      "name": "Morning Circle: Mandarin-Speaking Web3 Gathering (Invite-Only)",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "morning-circle"
-    },
-    {
-      "url": "https://luma.com/jp3795j0",
-      "name": "AI for Humanity Impact Forum 2026",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "ai-for"
-    },
-    {
-      "url": "https://luma.com/mtccmiud",
-      "name": "Beyond the Vaults: Treehouse x Lido (Session 1)",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "beyond-vaults"
-    },
-    {
-      "url": "https://luma.com/ylyax3j7",
-      "name": "VIP Deal Flow Brunch",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "vip-deal"
     },
     {
       "url": "https://luma.com/aicon2026",
@@ -221,48 +102,6 @@
       "slug": "aicon"
     },
     {
-      "url": "https://luma.com/luxhenmm",
-      "name": "DeFi Founders Club: Brunch",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "defi-founders"
-    },
-    {
-      "url": "https://luma.com/doe6n7iq",
-      "name": "Gibson Dunn x Hex Trust - Where the Market Meets",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "gibson-dunn"
-    },
-    {
-      "url": "https://luma.com/1esf9lzf",
-      "name": "Lunch Meet-up with Paradigm & Paradex",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "lunch-meet"
-    },
-    {
-      "url": "https://luma.com/gptr5rfu",
-      "name": "Oktoberfest Presented By Lattica x PredictFolio",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "oktoberfest-presented"
-    },
-    {
       "url": "https://luma.com/n0if8mxq",
       "name": "Talk: Token 2049 Singapore",
       "sources": [
@@ -272,126 +111,6 @@
       ],
       "status": "existing",
       "slug": "talk-token"
-    },
-    {
-      "url": "https://luma.com/zkrvbw7k",
-      "name": "Web3 Law: A Global Counsel Roundtable & lunch",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "web3-law"
-    },
-    {
-      "url": "https://luma.com/6xwygcun",
-      "name": "Venture Connect",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "venture-connect"
-    },
-    {
-      "url": "https://luma.com/4l2n6bjl",
-      "name": "Canton Forum",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "canton-forum"
-    },
-    {
-      "url": "https://luma.com/j7it396i",
-      "name": "Google Cloud Gaming Global Expansion “AI Power-Up Station” — Singapore",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "google-cloud"
-    },
-    {
-      "url": "https://luma.com/204926oc",
-      "name": "When AI Meets BTC",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "when-ai"
-    },
-    {
-      "url": "https://luma.com/ws5i4di2",
-      "name": "Beyond the Vaults: Treehouse x Lido (Session 2)",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "bvt"
-    },
-    {
-      "url": "https://luma.com/7q9md4zf",
-      "name": "Ethereum Ecosystem Summit",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "ai-for"
-    },
-    {
-      "url": "https://luma.com/lb9940ln",
-      "name": "Tezos Cat Lounge",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "tezos-cat"
-    },
-    {
-      "url": "https://luma.com/shjpum1f",
-      "name": "Institutional Onchain: RWAs & Stablecoins (lil room)",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "institutional-onchain-rwas"
-    },
-    {
-      "url": "https://luma.com/yx33dnaj",
-      "name": "Robb Report Whisky Tasting",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "robb-report"
-    },
-    {
-      "url": "https://luma.com/c52iymty",
-      "name": "Upside Presents: Carve Your Niche in Time",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "upside-presents"
     },
     {
       "url": "https://luma.com/4sf9j09i",
@@ -414,17 +133,6 @@
       ],
       "status": "existing",
       "slug": "powerscale-crypto"
-    },
-    {
-      "url": "https://luma.com/0wq4vmrt",
-      "name": "Onchain Finance Connect",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "onchain-finance"
     },
     {
       "url": "https://luma.com/e0ektbpr",
@@ -1064,17 +772,6 @@
       "slug": "crypto-expo"
     },
     {
-      "url": "https://luma.com/TBE-F1Race",
-      "name": "The Best Event: Grand Prix Trackside Penthouse Viewing",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "gibson-dunn"
-    },
-    {
       "url": "https://luma.com/y327jwjd",
       "name": "Vibrez × La Royale | Singapore Grand Prix Screening",
       "sources": [
@@ -1083,15 +780,6 @@
       ],
       "status": "existing",
       "slug": "vlr4"
-    },
-    {
-      "url": "https://token2049.com/singapore/institutional",
-      "name": "TOKEN2049 Institutional",
-      "sources": [
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "token2049-institutional"
     },
     {
       "url": "https://luma.com/FOIS_SGToken2049",
@@ -1114,24 +802,6 @@
       "slug": "michelininvest-dinner"
     },
     {
-      "url": "https://luma.com/m3xwqjwd",
-      "name": "Teach It. Then Go All In.",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "teach-it"
-    },
-    {
-      "url": "https://luma.com/PenguRallyClub",
-      "name": "Pengu Rally Lounge",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "pengu-rally"
-    },
-    {
       "url": "https://luma.com/maskjnix",
       "name": "The Private Trading Table",
       "sources": [
@@ -1152,11 +822,12 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/SuiBasecamp2026",
-      "name": "Sui Basecamp - Day 1",
+      "url": "https://luma.com/circlehouse2026",
+      "name": "Circle House  - Day 1",
       "sources": [
         "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
@@ -1238,16 +909,6 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://t.me/CollablyNetworkEventBot",
-      "name": "Curated Networking with Collably Network - Day 1",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
       "url": "https://token2049.com/singapore",
       "name": "TOKEN2049 Singapore - Day 1",
       "sources": [
@@ -1313,18 +974,8 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/a8blspqs",
-      "name": "Indonesia Investment Forum 2026 Day 01 - 07 October 2026 - Day 1",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://www.token2049.com/singapore/nexus-startup-competition",
-      "name": "NEXUS Startup Competition First Round",
+      "url": "https://luma.com/lgaeclvb",
+      "name": "Media Accelerator & Startup Cohort (Meta Blockchain)",
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
@@ -1334,19 +985,8 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/hr3e1mti",
-      "name": "Satoshi Dinner Club Singapore",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/ecjxhsxh",
-      "name": "BJJ Open Mat Token2049",
+      "url": "https://luma.com/o4rlwh9o",
+      "name": "Anchorage Digital Demo Day",
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
@@ -1367,19 +1007,8 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/hn4u80ws",
-      "name": "Solana Strider Run & Breakfast",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/ixmrhvtm",
-      "name": "On-Chain Horizons: Founders x Funders",
+      "url": "https://luma.com/bweuu7en",
+      "name": "Vogue Wellness Pop-up with VIVA",
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
@@ -1391,17 +1020,6 @@
     {
       "url": "https://luma.com/dnonqx1u",
       "name": "Payments, Treasury and Tokenization Summit 2026",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/liicgcdj",
-      "name": "Breakfast & Panel \"Building Trust in Digital Assets: Risk, Regulation...\"",
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
@@ -1444,8 +1062,8 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/p97euje7",
-      "name": "Morning Street Workout with Stablewatch & Osero",
+      "url": "https://luma.com/5eviyo3p",
+      "name": "Institutional Breakfast: Securing Digital Assets at Scale",
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
@@ -1488,8 +1106,41 @@
       "reason": "Primary source event has ended"
     },
     {
+      "url": "https://luma.com/u8jbrj02",
+      "name": "Morning Circle: Mandarin-Speaking Web3 Gathering (Invite-Only)",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
       "url": "https://luma.com/9k9nymg8",
       "name": "The Loss Prevention Lounge [Day 2]",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
+      "url": "https://luma.com/mtccmiud",
+      "name": "Beyond the Vaults: Treehouse x Lido (Session 1)",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
+      "url": "https://luma.com/ylyax3j7",
+      "name": "VIP Deal Flow Brunch",
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
@@ -1505,27 +1156,6 @@
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
         "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/d47rv5x1",
-      "name": "Offchain Padel (Reap)",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/naytivetoken2049",
-      "name": "Naytive x TFTC Coffee & Hang: Creators, Nomads, Investors",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
@@ -1553,6 +1183,17 @@
       "reason": "Primary source event has ended"
     },
     {
+      "url": "https://luma.com/luxhenmm",
+      "name": "DeFi Founders Club: Brunch",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
       "url": "https://luma.com/2sin1muv",
       "name": "Uncovering Hidden Know-How: HFT Closed-Door Meetup",
       "sources": [
@@ -1564,11 +1205,12 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/oknedt0y",
-      "name": "The Onchain Mixer",
+      "url": "https://luma.com/1esf9lzf",
+      "name": "Lunch Meet-up with Paradigm & Paradex",
       "sources": [
         "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
@@ -1596,11 +1238,34 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/b72zqsnp",
-      "name": "Lunch for QUOTRONS Hodlers",
+      "url": "https://luma.com/zkrvbw7k",
+      "name": "Web3 Law: A Global Counsel Roundtable & lunch",
       "sources": [
         "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
+      "url": "https://luma.com/6xwygcun",
+      "name": "Venture Connect",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 404"
+    },
+    {
+      "url": "https://luma.com/4l2n6bjl",
+      "name": "Canton Forum",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
@@ -1619,6 +1284,39 @@
     {
       "url": "https://luma.com/jtof4o9b",
       "name": "QDay Singapore",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
+      "url": "https://luma.com/j7it396i",
+      "name": "Google Cloud Gaming Global Expansion “AI Power-Up Station” — Singapore",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
+      "url": "https://luma.com/204926oc",
+      "name": "When AI Meets BTC",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
+      "url": "https://luma.com/ws5i4di2",
+      "name": "Beyond the Vaults: Treehouse x Lido (Session 2)",
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
@@ -1681,6 +1379,17 @@
       "reason": "Primary source event has ended"
     },
     {
+      "url": "https://luma.com/7q9md4zf",
+      "name": "Ethereum Ecosystem Summit",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
       "url": "https://luma.com/jecn61cf",
       "name": "The Next Generation of Payments in APAC",
       "sources": [
@@ -1692,8 +1401,41 @@
       "reason": "Primary source event has ended"
     },
     {
+      "url": "https://luma.com/lb9940ln",
+      "name": "Tezos Cat Lounge",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
+      "url": "https://luma.com/shjpum1f",
+      "name": "Institutional Onchain: RWAs & Stablecoins (lil room)",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
       "url": "https://luma.com/8rpp0jks",
       "name": "GLOBAL CAPITAL, ONCHAIN (Solv, Stellar)",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
+      "url": "https://luma.com/yx33dnaj",
+      "name": "Robb Report Whisky Tasting",
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
@@ -1731,16 +1473,6 @@
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
         "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/fqw5qq36",
-      "name": "Trader Gathering with Sharding Capital",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
@@ -1812,21 +1544,12 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/phkcdq07",
-      "name": "The Dubai AI & Web3 Sovereign Conclave",
+      "url": "https://luma.com/0wq4vmrt",
+      "name": "Onchain Finance Connect",
       "sources": [
         "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/mzo03m94",
-      "name": "The Agentic Shift: Intelligence to Reality | AMBR X AWS X Fenbushi Capital",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
@@ -2696,6 +2419,17 @@
       "reason": "Primary source event has ended"
     },
     {
+      "url": "https://luma.com/TBE-F1Race",
+      "name": "The Best Event: Grand Prix Trackside Penthouse Viewing",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
       "url": "https://token.apexaccs.org",
       "name": "Don't Get Played | Security Room",
       "sources": [
@@ -2723,24 +2457,6 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/nne8jvrr",
-      "name": "ONE OF US Run & Coffee // Aya, Cudis, 071Labs, & Aethir",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/m6mclrnh",
-      "name": "Craft Your Own Agentic Wallet",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
       "url": "https://luma.com/m3sr97xx",
       "name": "Spin Up Your Own Music App",
       "sources": [
@@ -2752,6 +2468,15 @@
     {
       "url": "https://luma.com/n9wg8ohm",
       "name": "Mellow × Ethena Vaults Lunch",
+      "sources": [
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
+      "url": "https://luma.com/m3xwqjwd",
+      "name": "Teach It. Then Go All In.",
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
@@ -2797,6 +2522,15 @@
     {
       "url": "https://luma.com/zo0hkgnz",
       "name": "Vibe Code Your Way Into EVE Frontier",
+      "sources": [
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
+      "url": "https://luma.com/PenguRallyClub",
+      "name": "Pengu Rally Lounge",
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
@@ -2982,15 +2716,6 @@
       ],
       "status": "excluded",
       "reason": "Cancelled or test entry"
-    },
-    {
-      "url": "",
-      "name": "Block Zero - Run Club - Day 2",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "needs-review",
-      "reason": "No public registration URL; match against primary records needed"
     }
   ]
 }

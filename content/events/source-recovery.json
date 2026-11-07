@@ -44,40 +44,6 @@
       "reason": "Replaced the discarded URL shortener with the matching organizer registration page."
     },
     {
-      "id": "token2049-side-6aa41f2ac0426d278bd87d05",
-      "kind": "reviewed",
-      "sourceUrl": "https://www.token2049.com/singapore/nexus-startup-competition",
-      "contains": [
-        "NEXUS 2026 applications are closed",
-        "Top 10 Finalist",
-        "7-8 Oct",
-        "The jury will be able to make offers to invest outside of the prize grant"
-      ],
-      "description": "The NEXUS final round is part of TOKEN2049's 7–8 October 2026 startup competition in Singapore. Early-stage crypto startups pitch for equity-free prizes before an expert jury and the TOKEN2049 community.\n\n## Finalists and prizes\n\nThe organizer lists ten finalists and a $250,000 prize pool. The jury may make investment offers outside the prize grant.\n\n## What finalists receive\n\n• An opportunity to compete for partner prizes\n• A complimentary startup stand at TOKEN2049 Singapore\n• Full access to TOKEN2049 on 7–8 October\n• Speaker reception, networking drinks and lounge access\n• Three complimentary tickets for the team and its network\n• Photography, on-stage pitch recordings and marketing coverage\n\n## Applications\n\nApplying is free and selection is merit-based. Applications for NEXUS 2026 have closed; the organizer now offers a 2027 waitlist.",
-      "patch": {
-        "venueName": "Marina Bay Sands",
-        "registrationAvailability": "applications-closed"
-      },
-      "reason": "Verified the named competition and its finalist program rather than rejecting the final-round session label."
-    },
-    {
-      "id": "token2049-side-6aa41d6d8ffcc4e5ece10d0f",
-      "kind": "reviewed",
-      "sourceUrl": "https://www.token2049.com/singapore/2049-origins",
-      "contains": [
-        "Compete for prizes, grants, and accelerator spots",
-        "6-8 Oct",
-        "$150,000",
-        "Demo on the TOKEN2049 stage"
-      ],
-      "description": "The Origins prize ceremony concludes the TOKEN2049 Origins hackathon program in Singapore. The organizer's 6–8 October program gives builders 36 hours to develop a working product, receive mentorship and demo on the TOKEN2049 stage.\n\n## Prizes and tracks\n\nThe organizer lists a $150,000 prize pool. Tracks include agentic commerce on Cardano, workflows using the Chainlink Runtime Environment, multichain infrastructure with NOWNodes, and applications built on Solana. Teams compete for prizes, grants and accelerator opportunities.\n\n## Participation\n\nOrigins is free, including food, drinks and conference access. Physical attendance at Marina Bay Sands is required for the full hackathon; remote participation is not offered. Teams may have up to four members, and solo applicants are welcome.",
-      "patch": {
-        "venueName": "Marina Bay Sands",
-        "price": "Free"
-      },
-      "reason": "Matched the ceremony to the organizer's Origins program and used its published prize and participation details without inventing a ceremony agenda."
-    },
-    {
       "id": "premier-stablecoinsg",
       "kind": "reviewed",
       "sourceUrl": "https://stablecoinsummit.com/",

@@ -45,10 +45,6 @@
       "token2049-side-6a534c0847aa29a14892464b"
     ]
   },
-  "premier-token2049-origins-2026": {
-    "slug": "token2049-origins",
-    "aliases": []
-  },
   "token2049-evt-57E5wz1bV6Aay59": {
     "slug": "family-offices",
     "aliases": []
@@ -59,10 +55,6 @@
   },
   "luma-batch-evtXmYZu9qMoaw8Y": {
     "slug": "uw828q63",
-    "aliases": []
-  },
-  "token2049-evt-G5rhLHBc0R1dAz8": {
-    "slug": "btcc-traders",
     "aliases": []
   },
   "premier-token2049-singapore-2026": {
@@ -77,14 +69,6 @@
     "slug": "fgcc",
     "aliases": []
   },
-  "luma-batch-evtwca6MOhUjdjAy": {
-    "slug": "3f627o8i",
-    "aliases": []
-  },
-  "token2049-evt-UrPmMeM2dR70sNC": {
-    "slug": "circle-house",
-    "aliases": []
-  },
   "premier-sui-basecamp-2026": {
     "slug": "sui",
     "aliases": [
@@ -96,208 +80,20 @@
       "token2049-side-6a5012663da1e45bc7967d9d"
     ]
   },
-  "token2049-evt-EPSGpySqEIekV6n": {
-    "slug": "media-accelerator",
-    "aliases": []
-  },
-  "token2049-side-6a54a1523438be070d7a9bdd": {
-    "slug": "td2",
-    "aliases": []
-  },
   "premier-stablecoinsg": {
     "slug": "stablecoin-summit-2026",
-    "aliases": []
-  },
-  "token2049-evt-1YJWH6G06wqxtqw": {
-    "slug": "vogue-wellness",
-    "aliases": []
-  },
-  "token2049-side-6a7399235a75007b41001066": {
-    "slug": "miasd2",
-    "aliases": []
-  },
-  "w3v-payments-treasury-and-tokenization-summit-2026": {
-    "slug": "ptts",
-    "aliases": []
-  },
-  "token2049-evt-Y1Xj0zHA4R6fER0": {
-    "slug": "institutional-breakfast",
-    "aliases": []
-  },
-  "token2049-official-6aafcca7f5de78483fb5d9c4": {
-    "slug": "token2049-institutional",
-    "aliases": []
-  },
-  "luma-batch-evtp4SouuKrUrejZ": {
-    "slug": "u1v2uca7",
-    "aliases": []
-  },
-  "token2049-side-6a8da2244ee2bfcc8598298f": {
-    "slug": "ham",
-    "aliases": []
-  },
-  "token2049-side-6aa190ac967be0befa88d09a": {
-    "slug": "cccnp",
-    "aliases": []
-  },
-  "token2049-evt-dnC3AZ7HVT0DDDL": {
-    "slug": "morning-circle",
-    "aliases": []
-  },
-  "token2049-evt-i8d99Y77wEeG9NQ": {
-    "slug": "vip-deal",
-    "aliases": []
-  },
-  "token2049-evt-MkfpN9nI3wBReHd": {
-    "slug": "ai-for",
     "aliases": []
   },
   "token2049-evt-VTlHvWH0ko5KSPb": {
     "slug": "aicon",
     "aliases": []
   },
-  "token2049-evt-8qUHoMKm0ztWf4t": {
-    "slug": "beyond-vaults",
-    "aliases": []
-  },
-  "luma-batch-evtRD5vN7RgDwDP7": {
-    "slug": "9k9nymg8",
-    "aliases": []
-  },
-  "token2049-side-6a9c22bdd567345aad683ddc": {
-    "slug": "iafm",
-    "aliases": []
-  },
-  "token2049-side-6a9f5ba7967be0befa88c687": {
-    "slug": "avcc2",
-    "aliases": []
-  },
-  "luma-crypto-bGC23AEnuTIp9Ot": {
-    "slug": "mcmt",
-    "aliases": []
-  },
-  "luma-crypto-gaN3evDFpV0ktFD": {
-    "slug": "oprxaxct",
-    "aliases": []
-  },
-  "token2049-evt-89Vi3L5Z74SBP6x": {
-    "slug": "lunch-meet",
-    "aliases": []
-  },
-  "token2049-evt-r5dWNewO35etCmm": {
-    "slug": "defi-founders",
-    "aliases": []
-  },
-  "luma-batch-evtR7GFZvPp1hBFG": {
-    "slug": "oknedt0y",
-    "aliases": []
-  },
-  "luma-batch-evtmy8Z6xZsAyOA3": {
-    "slug": "2sin1muv",
-    "aliases": []
-  },
-  "token2049-side-6a9a41d8d567345aad68388e": {
-    "slug": "tacnode-apex",
-    "aliases": []
-  },
-  "token2049-side-6aa3dc84d567345aad685ed8": {
-    "slug": "hgxhsxhpcxi",
-    "aliases": []
-  },
-  "token2049-evt-FzUtIRZvUNfkl6t": {
-    "slug": "oktoberfest-presented",
-    "aliases": []
-  },
-  "token2049-evt-9swTceUKZBlgdg4": {
-    "slug": "solana-company",
-    "aliases": []
-  },
-  "luma-batch-evtCF50fhBlHy1oU": {
-    "slug": "m3sr97xx",
-    "aliases": []
-  },
-  "token2049-evt-k5K0thoSxhNVsLo": {
-    "slug": "web3-law",
-    "aliases": []
-  },
-  "token2049-evt-OKGqJexBxQYMMTW": {
-    "slug": "canton-forum",
-    "aliases": []
-  },
-  "token2049-evt-CCUIATkfTkvbUqM": {
-    "slug": "venture-connect",
-    "aliases": []
-  },
-  "token2049-evt-bM0BECae6KRPeo3": {
-    "slug": "teach-it",
-    "aliases": []
-  },
-  "token2049-evt-1euzuQVicyCXCut": {
-    "slug": "when-ai",
-    "aliases": []
-  },
-  "token2049-evt-biMXAjWYt8G82rn": {
-    "slug": "google-cloud",
-    "aliases": []
-  },
-  "token2049-evt-02Wya6N0R8GTkJy": {
-    "slug": "adddt",
-    "aliases": []
-  },
-  "token2049-evt-Ss5Dckd2OmqS78U": {
-    "slug": "bvt",
-    "aliases": []
-  },
-  "luma-crypto-BXcUM9r7XEws7Fa": {
-    "slug": "ppmt",
-    "aliases": []
-  },
-  "luma-batch-evtFt5UnGHXDyBpc": {
-    "slug": "m1l3sg8v",
-    "aliases": []
-  },
   "w3v-quantum--privacy-day": {
     "slug": "qday",
     "aliases": []
   },
-  "w3v-gm-ai-v2": {
-    "slug": "gav0bcdkor",
-    "aliases": []
-  },
-  "luma-crypto-r9i9A4Xqub15b04": {
-    "slug": "aeoa",
-    "aliases": []
-  },
   "premier-theodds": {
     "slug": "the2",
-    "aliases": []
-  },
-  "token2049-evt-VI3GmKipwk7ooN4": {
-    "slug": "tezos-cat",
-    "aliases": []
-  },
-  "token2049-evt-iB4tCIBsZJ6HaUS": {
-    "slug": "robb-report",
-    "aliases": []
-  },
-  "token2049-evt-mElVRJaEOGQaO9h": {
-    "slug": "institutional-onchain-rwas",
-    "aliases": []
-  },
-  "luma-batch-evthmFWpBK7X2U9H": {
-    "slug": "8rpp0jks",
-    "aliases": []
-  },
-  "luma-batch-evt1Vta9G6vnT8OO": {
-    "slug": "xcf3y49g",
-    "aliases": []
-  },
-  "luma-batch-evt2FMVEC9RCHKgQ": {
-    "slug": "jecn61cf",
-    "aliases": []
-  },
-  "w3v-ethereum-ecosystem-summit": {
-    "slug": "ees",
     "aliases": []
   },
   "w3v-agentic-finance-summit--the-odds-prediction-markets-live": {
@@ -307,52 +103,8 @@
       "token2049-side-6a71f32ad1b48ddf39d09b86"
     ]
   },
-  "luma-batch-evt6M224TGBjAKKr": {
-    "slug": "zo0hkgnz",
-    "aliases": []
-  },
-  "luma-batch-GBzQbyZniVZ4C1N": {
-    "slug": "superteam-7sc1",
-    "aliases": []
-  },
-  "luma-batch-evtAT5U6E2plmGr2": {
-    "slug": "lg2akati",
-    "aliases": []
-  },
-  "luma-batch-evtgGn1cyC5fYF6U": {
-    "slug": "fqw5qq36",
-    "aliases": []
-  },
-  "token2049-side-6a8eb7cae258d468339534a6": {
-    "slug": "pizza-break2",
-    "aliases": []
-  },
-  "token2049-side-6aa41f2ac0426d278bd87d05": {
-    "slug": "nscfr2",
-    "aliases": []
-  },
   "token2049-side-6aa00746967be0befa88ca3f": {
     "slug": "l1e",
-    "aliases": []
-  },
-  "luma-batch-evtsPhAqOtfGigBJ": {
-    "slug": "jip2jcsu",
-    "aliases": []
-  },
-  "w3v-the-treasury-table-a-cfo-summit": {
-    "slug": "treasury-table",
-    "aliases": []
-  },
-  "token2049-side-6aa17395d567345aad6851af": {
-    "slug": "best-event4",
-    "aliases": []
-  },
-  "token2049-evt-mqErgmDBapeJzE0": {
-    "slug": "upside-presents",
-    "aliases": []
-  },
-  "token2049-evt-hGad7fcCLDEHZUT": {
-    "slug": "pengu-rally",
     "aliases": []
   },
   "w3v-proof-of-liquidity-singapore-edition-by-yield-network": {
@@ -363,24 +115,12 @@
     "slug": "f1-grand",
     "aliases": []
   },
-  "token2049-side-6aa41d6d8ffcc4e5ece10d0f": {
-    "slug": "ohpc",
-    "aliases": []
-  },
-  "token2049-evt-QierwT1tV1bG1AJ": {
-    "slug": "onchain-finance",
-    "aliases": []
-  },
   "token2049-evt-s5FLEZDkFtoyPMb": {
     "slug": "btse-cocktail",
     "aliases": []
   },
   "token2049-evt-DxAHG5RyA6TvwN0": {
     "slug": "presale-to",
-    "aliases": []
-  },
-  "token2049-evt-PO5I7AV6nBuFZZ9": {
-    "slug": "gibson-dunn",
     "aliases": []
   },
   "luma-crypto-gHEGbdLMBoj9JDY": {

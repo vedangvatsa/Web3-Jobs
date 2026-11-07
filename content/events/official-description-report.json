@@ -663,21 +663,6 @@
       "preview": "RWA WEEK — Online & Offline Ecosystem Platform for Real-World Assets tokenization community. Latest news, event calendar, online and offline events, interviews, networking and matchmaking platform."
     },
     {
-      "id": "premier-token2049-origins-2026",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://www.token2049.com/singapore/2049-origins",
-        "fetchedAt": "2026-09-20T00:20:41.129Z",
-        "method": "official-section",
-        "pageTitle": "Origins Hackathon  | TOKEN2049 | Singapore",
-        "sha256": "83372b84559ec039975bb42b50485879b6c5786933f9cc59fda75bc6863db5ac"
-      },
-      "previousStartDate": "2026-10-06T09:00:00+08:00",
-      "characters": 2287,
-      "preview": "## Access\n\nAccess the world's largest crypto event. Connect with 25,000 attendees, media, and industry leaders shaping Web3.\n\n## Build\n\nTake your idea from concept to working product in 36 hours. Free meals, rest zones, and snacks keep you locked in.\n\n## Demo\n\nBuild in DeFi, infrastructure, NFTs, or AI. Get mentorship. Demo on the TOKEN2049 stage to 25,000 attendees.\n\n## Win\n\nCompete for prizes, grants, and accelerator spots. Pitch for funding and global recognition.\n\n## 36 hours.\n\n## 19 Aug\n\n## 18 Sep\n\n## 28 Sep\n\n## 6-8 Oct\n\n## $150,000\n\n## Agentic Commerce\n\n## Best Workflow with CRE\n\n## Multichain Infrastructure Challenge\n\nBuild a working Web3 product using NOWNodes blockchain infrastructure.\n\n## Best Use of Solana\n\nBuild on Solana and turn your idea into a working onchain product.\n\n## 3"
-    },
-    {
       "id": "premier-coinalts-2026",
       "file": "curated-events.json",
       "status": "source-backed",
@@ -1499,44 +1484,6 @@
       "preview": "Stop random networking. Connect with high-intent partners at events & online. Turn conversations into deals."
     },
     {
-      "id": "token2049-side-6a54a1523438be070d7a9bdd",
-      "file": "events-cache.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://token2049.com/singapore",
-        "fetchedAt": "2026-09-20T00:21:00.781Z",
-        "method": "event-jsonld",
-        "pageTitle": "TOKEN2049 | 7-8 October 2026 | Singapore",
-        "sha256": "672897156638babb2793dee3e4989b27b99702bc19e851da891e4538fda8499e"
-      },
-      "eventFacts": {
-        "venueName": "Marina Bay Sands",
-        "addressLocality": "Singapore",
-        "addressCountry": "SG",
-        "city": "Singapore",
-        "country": "SG",
-        "location": "Marina Bay Sands, Singapore, SG"
-      },
-      "previousStartDate": "2026-10-08T07:30:00+08:00",
-      "characters": 164,
-      "preview": "TOKEN2049 is the world's largest crypto event. Join the crypto ecosystem's decision-makers in Singapore to connect, exchange ideas, network, and shape the industry."
-    },
-    {
-      "id": "token2049-side-6a7399235a75007b41001066",
-      "file": "events-cache.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://milkeninstitute.org/events/asia-summit-2026",
-        "fetchedAt": "2026-09-20T00:21:00.681Z",
-        "method": "official-section",
-        "pageTitle": "Asia Summit 2026 | Milken Institute",
-        "sha256": "273107efc012d42e075297c1a7725cb44d2495585878f0300a23e4cd509dd05f"
-      },
-      "previousStartDate": "2026-10-08T08:00:00+08:00",
-      "characters": 4174,
-      "preview": "## Asia Summit 2026\n\nThe 2026 Milken Institute Asia Summit brings together a global community of influential leaders shaping the next era of intelligence, collaboration, and growth. The event is where capital comes to find the best ideas and participants forge new partnerships to lead transformation at scale toward greater shared prosperity.Under the theme Leading with Intelligence, the 13th Asia Summit explores how technology, information, and human judgment can address the defining economic, geopolitical, demographic, and environmental challenges facing Asia and the world. Across our core programmatic themes of business, finance, philanthropy, and health, and a new track on AI innovation, investment, and sovereignty, the event convenes leaders from across industries and sectors for thoug"
-    },
-    {
       "id": "token2049-side-6a6711ea5a75007b41000117",
       "file": "events-cache.json",
       "status": "source-backed",
@@ -1557,30 +1504,6 @@
       "name": "Agentic Finance Summit",
       "status": "unavailable",
       "attempts": []
-    },
-    {
-      "id": "token2049-side-6aa41f2ac0426d278bd87d05",
-      "file": "events-cache.json",
-      "name": "NEXUS Startup Competition Final Round",
-      "status": "unavailable",
-      "attempts": [
-        {
-          "url": "https://www.token2049.com/singapore/nexus-startup-competition",
-          "reason": "event-not-matched"
-        }
-      ]
-    },
-    {
-      "id": "token2049-side-6aa41d6d8ffcc4e5ece10d0f",
-      "file": "events-cache.json",
-      "name": "Origins Hackathon Prize Ceremony",
-      "status": "unavailable",
-      "attempts": [
-        {
-          "url": "https://www.token2049.com/singapore/2049-origins",
-          "reason": "event-not-matched"
-        }
-      ]
     },
     {
       "id": "token2049-side-6a73992d5a75007b41001068",

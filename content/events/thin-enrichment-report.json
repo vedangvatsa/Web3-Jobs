@@ -2,28 +2,6 @@
   "applied": true,
   "records": [
     {
-      "id": "token2049-side-6aa41f2ac0426d278bd87d05",
-      "words": 202,
-      "source": {
-        "url": "https://www.token2049.com/singapore/nexus-startup-competition",
-        "fetchedAt": "2026-09-21T05:12:52.952Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "NEXUS Startup Competition | TOKEN2049 | 7-8 October 2026 | Singapore",
-        "sha256": "b4c214cfee88f10a9c1201088704b90e8fc7f32d02723c5e9ac7c34b33e9d624"
-      }
-    },
-    {
-      "id": "token2049-side-6aa41d6d8ffcc4e5ece10d0f",
-      "words": 212,
-      "source": {
-        "url": "https://www.token2049.com/singapore/2049-origins",
-        "fetchedAt": "2026-09-21T05:12:52.958Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "Origins Hackathon | TOKEN2049 | Singapore",
-        "sha256": "9140b7d0abe0aa1f1176ff58f31aefec8dfa3d9948c12ca204b2431d3283ee66"
-      }
-    },
-    {
       "id": "token2049-side-6a7445ef7ef1577c1e37eca1",
       "words": 200,
       "source": {
