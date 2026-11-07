@@ -114612,6 +114612,35 @@
       "attemptId": "62a09e1b-93a5-472e-b3bb-0de14cd28634",
       "verification": "verified",
       "postId": "urn:li:share:7524917683830575104"
+    },
+    {
+      "slug": "ops146",
+      "company": "Ramp",
+      "title": "Manager, Fraud Operations",
+      "platform": "facebook",
+      "postedAt": "2026-11-07T19:32:48.778Z",
+      "expectedText": "Ramp is hiring Manager, Fraud Operations: https://hashtagweb3.com/ops146/fb?og=7",
+      "snapshot": {
+        "id": "ad8bb2ef-9c8a-4379-829a-47143257a23b",
+        "title": "Manager, Fraud Operations",
+        "company": "Ramp",
+        "link": "https://jobs.ashbyhq.com/ramp/ad8bb2ef-9c8a-4379-829a-47143257a23b",
+        "date": "2026-11-04T19:40:52.071+00:00",
+        "source": "Ashby: Ramp [ramp]",
+        "location": "Hybrid (New York, NY (HQ))",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Risk",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops146"
+      },
+      "payload": {
+        "message": "Ramp is hiring Manager, Fraud Operations: https://hashtagweb3.com/ops146/fb?og=7",
+        "link": "https://hashtagweb3.com/ops146/fb?og=7"
+      },
+      "attemptId": "a6ab48d7-bf02-44c4-aa8f-cdf4f6d7094a",
+      "verification": "creating"
     }
   ]
 }
