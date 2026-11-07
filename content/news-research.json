@@ -136483,9 +136483,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "e755d4d6f2b69ec05fc1",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-05T00:28:26.536Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-08T00:05:52.000Z",
       "lastSeenAt": "2026-11-05T00:28:26.536Z",
       "articleSlug": "cantonstock",
@@ -136515,7 +136515,33 @@
         "updatedAt": "2026-11-07T04:18:56.095Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the Nov 4 first trades against the PRNewswire primary release, the SEC Sept 17 exemption order, crypto.news and Crypto Briefing; company disclosed no share counts, so figures are attributed to Crypto Briefing. Draft written; quality, image, duplicate, formatting audits and tsc pass; all six links return 200.",
+      "sourceChecks": [
+        {
+          "url": "https://www.prnewswire.com/news-releases/first-trades-of-tokenized-us-equity-under-sec-innovation-exemption-executed-on-the-canton-network-302929795.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/canton-strategic-tokenized-stock-trades-sec-exemption/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/canton-cntn-first-tokenized-us-stock-sec/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1861657/000149315226049196/ex99-1.htm",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-07T04:23:08.179Z",
+      "lastReviewedDay": "2026-11-07"
     },
     "867543f8bad5bdbdee7b": {
       "source": "The Defiant",
@@ -274390,6 +274416,35 @@
             }
           ],
           "reviewedAt": "2026-11-07T04:14:30.938Z"
+        },
+        "e755d4d6f2b69ec05fc1": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Nov 4 first trades against the PRNewswire primary release, the SEC Sept 17 exemption order, crypto.news and Crypto Briefing; company disclosed no share counts, so figures are attributed to Crypto Briefing. Draft written; quality, image, duplicate, formatting audits and tsc pass; all six links return 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.prnewswire.com/news-releases/first-trades-of-tokenized-us-equity-under-sec-innovation-exemption-executed-on-the-canton-network-302929795.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/canton-strategic-tokenized-stock-trades-sec-exemption/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/canton-cntn-first-tokenized-us-stock-sec/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/Archives/edgar/data/1861657/000149315226049196/ex99-1.htm",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-07T04:23:08.179Z",
+          "articleSlug": "cantonstock"
         }
       },
       "baselineSlugs": [
