@@ -116214,8 +116214,9 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "4ef872c7-b3a5-4ad3-a9ce-a7c37e83d292",
-      "verification": "pending",
-      "postId": "6af05e90d6bbae6fa1e5a912"
+      "verification": "verified",
+      "postId": "6af05e90d6bbae6fa1e5a912",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7525159208254824449"
     }
   ]
 }
