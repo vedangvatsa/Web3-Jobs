@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-11-08T11:31:28.566Z",
+  "generatedAt": "2026-11-08T19:31:29.084Z",
   "items": [
+    {
+      "title": "What the election results mean for crypto: State of Crypto ",
+      "link": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
+      "pubDate": "Sun, 08 Nov 2026 19:30:00 +0000",
+      "creator": "Nikhilesh De",
+      "contentSnippet": "Democrats had an astoundingly good night, smashing all expectations. Is that actually bad news for the industry?",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Stablecoin growth has stalled. The payments boom hasn't",
+      "link": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
+      "pubDate": "Sun, 08 Nov 2026 19:16:42 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Stablecoin supply has barely grown this year, even as payments using the tokens surge. Circle's latest earnings offer another example of the divergenc...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets",
+      "link": "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029",
+      "pubDate": "Sun, 08 Nov 2026 18:32:11 +0000",
+      "creator": "Zack Abrams",
+      "contentSnippet": "Web3Auth's communications also referred to an \"original attacker,\" suggesting some funds were stolen, but did not elaborate.",
+      "source": "The Block"
+    },
+    {
+      "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
+      "pubDate": "Sun, 08 Nov 2026 15:52:17 +0000",
+      "creator": "Zack Abrams",
+      "contentSnippet": "A recent controversial proposal to burn a rising share of validator rewards as more ETH is staked was withdrawn last month after facing pushback.",
+      "source": "The Block"
+    },
+    {
+      "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
+      "link": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
+      "pubDate": "Sun, 08 Nov 2026 14:01:03 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Cory Fields wants future quantum attackers to post Bitcoin as collateral before touching vulnerable wallets, giving prepared owners a chance to recove...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
+      "link": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 08 Nov 2026 12:57:51 +0000",
+      "creator": "Michael Millard",
+      "contentSnippet": "Any assets left on the exchange will be charged monthly fees starting on Nov. 29, company says.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+      "link": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
+      "pubDate": "Sun, 08 Nov 2026 12:55:59 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "A Finnish startup has 30 bitcoin mining systems working as central heating, and at today’s prices each one earns slightly more than the electricity it...",
+      "source": "Coindesk"
+    },
     {
       "title": "Binance’s  finance chief Kaiser Ng to leave company, report says",
       "link": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -24,14 +80,6 @@
       "creator": "Zack Abrams",
       "contentSnippet": "Yaroch will pay at least $2.4 million in restitution and will forfeit any profits he would earn in the future from telling his story.",
       "source": "The Block"
-    },
-    {
-      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
-      "link": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
-      "pubDate": "Sat, 07 Nov 2026 19:13:16 +0000",
-      "creator": "Francisco Rodrigues",
-      "contentSnippet": "Affected accounts are reportedly set to close on Dec. 31. Users in Spain, France, and Poland say they've received similar notices.",
-      "source": "Coindesk"
     },
     {
       "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
@@ -378,22 +426,6 @@
       "source": "The Block"
     },
     {
-      "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
-      "link": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
-      "pubDate": "Fri, 06 Nov 2026 01:30:00 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "Anyone trying to move vulnerable bitcoin would have to put up matching collateral, giving prepared owners a chance to take both.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
-      "link": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 06 Nov 2026 00:19:49 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly ...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
       "link": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
       "pubDate": "Thu, 05 Nov 2026 22:16:03 +0000",
@@ -402,28 +434,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Hyperliquid Strategies files to become CFTC-registered FCM, posts $13.3 million in quaterly revenue",
-      "link": "https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455",
-      "pubDate": "Thu, 05 Nov 2026 22:09:14 +0000",
-      "creator": "Jason Shubnell",
-      "contentSnippet": "Hyperliquid Strategies posted $13.3M in revenue and $620.6M net income, and filed with the CFTC to become an FCM for U.S. HIP-3 perp markets.",
-      "source": "The Block"
-    },
-    {
       "title": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
       "link": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
       "pubDate": "Thu, 05 Nov 2026 20:16:03 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Fresh forensic analysis traces $48.6 million across 11 blockchains and finds thousands of customer deposit addresses drained hours after the Brazilian...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations",
-      "link": "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434",
-      "pubDate": "Thu, 05 Nov 2026 20:11:02 +0000",
-      "creator": "Jason Shubnell",
-      "contentSnippet": "Bitcoin fell 6% to $75,700 and ether 7% as a Nasdaq selloff hit crypto, triggering $1.03 billion in liquidations.",
-      "source": "The Block"
     },
     {
       "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever",
@@ -463,14 +479,6 @@
       "pubDate": "Thu, 05 Nov 2026 16:49:08 +0000",
       "creator": "Olivier Acuna",
       "contentSnippet": "Soter also received backing of 500 BTC and 2000 ETH, worth another $43 million at current prices.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
-      "link": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
-      "pubDate": "Thu, 05 Nov 2026 13:29:40 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "A $19 billion data-center agreement includes an unusual provision allowing Google to acquire part of the project if Anthropic fails to pay its rent.",
       "source": "Coindesk"
     },
     {
