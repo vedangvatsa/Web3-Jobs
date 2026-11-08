@@ -806,10 +806,12 @@
           "nbubill",
           "carf"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-11-08T12:02:35.628Z",
         "buildId": "daily-20261108-42472517807-1",
-        "rolloutId": "daily-20261108-42472517807-1"
+        "rolloutId": "daily-20261108-42472517807-1",
+        "buildState": "READY",
+        "observedAt": "2026-11-08T12:23:19.322Z"
       }
     ]
   }
