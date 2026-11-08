@@ -1266,5 +1266,13 @@
     "organizationId": "f32c5fab-3fa1-4967-b014-f6fb23bd9e78",
     "owner": "Baton Corporation Ltd",
     "website": "https://pump.fun"
+  },
+  "ashby:coinflow": {
+    "companies": [
+      "Coinflow"
+    ],
+    "organizationId": "6f0abf3e-9935-44e4-beee-17cd6de73299",
+    "owner": "Coinflow",
+    "website": "https://coinflow.cash"
   }
 }

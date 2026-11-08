@@ -254,6 +254,7 @@ export const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'baton-corporation': 'https://pump.fun',
  'pump-fun': 'https://pump.fun',
  'coinspaid': 'https://coinspaid.com',
+ 'btse': 'https://www.btse.com',
  'luno': 'https://luno.com',
  'bob': 'https://gobob.xyz',
  'delphi': 'https://delphidigital.io',

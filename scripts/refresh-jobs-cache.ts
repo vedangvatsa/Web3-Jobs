@@ -225,7 +225,7 @@ function cleanTitle(text: string | undefined): string | undefined {
 }
 
 function isDirectSource(source: string): boolean {
-  return /^(Greenhouse|Lever|Ashby|Workable|Recruitee|Workday|SmartRecruiters|Breezy|BambooHR|Comeet|Teamtailor|Rippling|Dover|FirstParty|Superteam):/i.test(source);
+  return /^(Greenhouse|Lever|Ashby|Workable|Recruitee|Workday|SmartRecruiters|Breezy|BambooHR|Comeet|Teamtailor|Rippling|Dover|FirstParty|Superteam|Kula):/i.test(source);
 }
 
 function sourceLabel(provider: string, board: string, company: string): string {
@@ -674,7 +674,6 @@ async function refreshJobsCache() {
     { board: 'serotonin', company: 'Serotonin' },
     { board: 'renegade', company: 'Renegade' },
     { board: 'waterfall', company: 'Waterfall' },
-    { board: 'relay', company: 'Relay' },
 
     { board: 'immutable', company: 'Immutable' },
     { board: 'anchorage', company: 'Anchorage Digital' },
@@ -724,6 +723,8 @@ async function refreshJobsCache() {
     // --- Web3 Expansion (Nov 2026) ---
     { board: 'prestolabs', company: 'Presto Labs' },
     { board: 'unlimit', company: 'Unlimit' },
+    { board: 'coinspaid', company: 'CoinsPaid', apiHost: 'https://api.eu.lever.co' },
+    { board: 'BTSE', company: 'BTSE' },
   ];
 
   for (const lv of LEVER_BOARDS) {

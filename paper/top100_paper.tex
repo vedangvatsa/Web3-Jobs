@@ -30,17 +30,15 @@
 \hypersetup{pdftitle={The Top 100 Web3 Employers Index},pdfauthor={Hashtag Web3}}
 
 \makeatletter
-% Professional Whitepaper Header
+% Professional Whitepaper Header (No subheading, tight publisher block)
 \def\@maketitle{\vbox{\hsize\textwidth
 \centering
-\vskip 0.1in
-{\LARGE\bfseries The Top 100 Web3 Employers Index\par}
-\vskip 0.06in
-{\large\normalfont A Verifiable Methodology, Labor Dynamics, and Governance Framework\par}
 \vskip 0.12in
+{\LARGE\bfseries The Top 100 Web3 Employers Index\par}
+\vskip 0.14in
 {\normalsize\textbf{Hashtag Web3}\\[2pt]
 \small\href{https://hashtagweb3.com}{hashtagweb3.com}\par}
-\vskip 0.16in}}
+\vskip 0.20in}}
 
 % Executive Summary replacing academic Abstract
 \renewenvironment{abstract}{%
@@ -77,18 +75,24 @@
 \maketitle
 
 \begin{abstract}
-The Top 100 Web3 Employers Index is an authoritative, machine-verified benchmark of organizational hiring capacity across the decentralized technology ecosystem. Published by Hashtag Web3, the index evaluates active employment demand across one hundred leading organizations using primary data ingested directly from enterprise applicant tracking feeds. Unlike conventional industry directories that charge promotional fees for brand placement or rely on speculative models such as estimated website traffic, inferred financial runway tiers, and self-reported sentiment surveys, our index ranks employers exclusively on verified open positions. This whitepaper establishes the operational standards, mathematical scoring equations, data governance rules, and labor market insights derived from our live index. We demonstrate why synthetic scoring models produce perverse rankings, such as elevating early stage entities with single job postings over teams actively hiring dozens of engineers. We formalize an objective four-part scoring equation based on verified active job volume, department diversity, remote availability, and statutory salary transparency. Our empirical findings show strong labor concentration, where the top ten employers account for 34.8 percent of all tracked positions. Remote work availability averages 39 percent across the index, ranging from 77 percent in infrastructure software to 6 percent in quantitative trading desks. We examine wage disclosure patterns under recent state pay transparency statutes and outline data integrity rules designed to prevent manipulation.
+The Top 100 Web3 Employers Index tracks active hiring across one hundred leading organizations in decentralized technology. Published by Hashtag Web3, the ranking uses primary data collected directly from enterprise applicant tracking systems, including Greenhouse, Ashby, and Lever. Traditional directories often charge companies for placement or rely on estimates such as website traffic and venture capital runway. Our index removes all sponsorship fees and synthetic estimates. Companies are evaluated on four verifiable factors, including active job volume, department diversity, remote availability, and salary disclosure. Our data reveals high labor concentration, where the top ten employers account for 34.8 percent of all open positions. Remote work availability averages 39 percent across the index, with software infrastructure reaching 77 percent while quantitative trading desks report 6 percent. This whitepaper explains our qualification standards, scoring formulas, data safeguards, and labor market findings.
 \end{abstract}
 
 \section{Executive Overview and the Hashtag Web3 Benchmark}
 
-The Top 100 Web3 Employers Index serves as an independent benchmark for talent allocation, institutional research, and organizational benchmarking across the decentralized technology ecosystem. Job seekers, founders, researchers, and institutional capital allocators consult employer lists to evaluate organizational stability and labor demand. In rapidly developing industries, reliable workforce data is difficult to gather, and public directories often struggle to maintain independence and accuracy \cite{ref1,ref2}.
+The Top 100 Web3 Employers Index serves as an open, verifiable benchmark for talent allocation, organizational growth, and workforce research across the decentralized technology ecosystem. Job seekers, founders, researchers, and institutional capital allocators consult employer lists to evaluate organizational stability and labor demand. In rapidly developing industries, reliable workforce data is difficult to gather, and public directories often struggle to maintain independence and accuracy \cite{ref1,ref2}.
 
-Traditional company rankings frequently depend on two questionable practices. Commercial publishers often charge promotional fees to place or highlight specific brands. Aggregators also frequently substitute real data with synthetic models, such as inferred traffic volumes, unverified venture funding runway tiers, and small sample surveys. These unverified metrics distort rankings and produce an inaccurate representation of organizational health.
+Traditional company rankings frequently depend on two questionable practices. First, commercial publishers often charge promotional fees to place or highlight specific brands. Second, aggregators frequently substitute real data with synthetic models, such as inferred traffic volumes, unverified venture funding runway tiers, and small sample surveys. These unverified metrics distort rankings and produce an inaccurate representation of organizational health.
 
 This whitepaper documents the design, mathematical framework, and empirical findings of the Hashtag Web3 Top 100 Employers Index. The index relies entirely on primary hiring data collected directly from enterprise applicant tracking systems, including Greenhouse, Ashby, and Lever \cite{ref1,ref2,ref3}. By discarding speculative metrics, our index establishes a verifiable benchmark of active organizational hiring.
 
-Our evaluation examines verified positions across the top 100 Web3 employers. The resulting dataset provides clear visibility into organizational investment, regional hiring patterns, and cross-sector labor distribution.
+Our automated data pipeline processes active job postings through five distinct stages, from primary ingestion to live publication.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.98\textwidth]{figure1_pipeline.png}
+\caption{The Hashtag Web3 verifiable data pipeline and verification architecture}
+\end{figure}
 
 \section{Why Conventional Rankings Fail and Our Anti-Synthetic Principles}
 
@@ -108,7 +112,7 @@ Under this flawed structure, an early stage project with a single open job could
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.88\textwidth]{figure1_points.png}
+\includegraphics[width=0.88\textwidth]{figure2_points.png}
 \caption{Maximum point allocation across the four verified index dimensions}
 \end{figure}
 
@@ -181,6 +185,12 @@ V_i = 60 \cdot \frac{\ln(1 + J_i)}{\ln(1 + J_{\max})}
 
 In our current dataset, the highest observed volume is Coinbase with 75 verified positions. An employer with 75 jobs receives the full 60 points. An employer with 46 jobs receives 53.3 points. An employer with 24 jobs receives 44.6 points. An employer with 10 jobs receives 33.2 points. An employer with 2 jobs receives 15.2 points. An organization with only 1 job receives 9.6 points.
 
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.88\textwidth]{figure3_curve.png}
+\caption{Logarithmic volume scoring curve compared to an uncalibrated linear baseline}
+\end{figure}
+
 \textbf{2. Functional Role Diversity ($D_i$) with 20 Points Maximum.}
 Role diversity measures whether an organization is hiring across multiple departments or concentrating solely in a single area. We evaluate nine functional categories, including Engineering, Product, Design, Security, Legal, Operations, Marketing, Business Development, and Finance.
 
@@ -230,15 +240,21 @@ Analysis of active openings across our Top 100 reveals several structural charac
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.88\textwidth]{figure2_sectors.png}
-\caption{Share of tracked open positions by industry subsector}
+\includegraphics[width=0.88\textwidth]{figure4_concentration.png}
+\caption{Cumulative hiring concentration across top employer tiers}
 \end{figure}
 
 \subsection{Headcount Concentration Across Top Employers}
 
-Hiring capacity in the Web3 sector exhibits strong power law characteristics. In our sample of 100 employers, the top 10 organizations account for 388 open jobs, representing 34.8 percent of all tracked positions. The top 25 employers account for 640 jobs, representing 57.4 percent of the total.
+Hiring capacity in the Web3 sector exhibits strong power law characteristics. In our sample of 100 employers, the top 10 organizations account for 388 open jobs, representing 34.8 percent of all tracked positions. The top 25 employers account for 640 jobs, representing 57.4 percent of the total. The top 50 employers account for 861 jobs, representing 77.2 percent of the total.
 
 This concentration indicates that large, revenue-generating centralized platforms maintain durable balance sheets capable of supporting extensive expansion through shifting market cycles. Conversely, earlier stage protocol teams and decentralized autonomous organization foundations operate with lean headcounts, typically maintaining between two and seven open positions.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.88\textwidth]{figure5_sectors.png}
+\caption{Share of tracked open positions by industry subsector}
+\end{figure}
 
 \subsection{Industry Sector Breakdown}
 
@@ -252,7 +268,7 @@ Remote work patterns within the Web3 labor market differ significantly across fu
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.88\textwidth]{figure3_remote.png}
+\includegraphics[width=0.88\textwidth]{figure6_remote.png}
 \caption{Remote work availability by industry subsector}
 \end{figure}
 

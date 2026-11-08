@@ -194,6 +194,13 @@ const COMPANY_FAVICON_DOMAINS: Record<string, string> = {
   'mural': 'muralpay.com',
   'wormhole-labs': 'wormholelabs.xyz',
   'drw': 'drw.com',
+  'coinspaid': 'coinspaid.com',
+  'btse': 'btse.com',
+  'relay': 'relay.link',
+  'relay-link': 'relay.link',
+  'merkle-science': 'merklescience.com',
+  'strike': 'strike.me',
+  'coinflow': 'coinflow.cash',
 };
 
 function faviconUrlForDomain(domain: string): string {
