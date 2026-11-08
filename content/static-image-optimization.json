@@ -961,10 +961,6 @@
       "sha256": "e16a60a3e70a727417105e1f3dca349df9a7b22f258a58fbce627cd2e982d04b",
       "status": "optimized"
     },
-    "/events/luma-batch-FgIpxrhW9Ef7ysl-c0fe2889.webp": {
-      "sha256": "d5812a27f25c91287d900499ca16af13fefd70f9917ae8cf6f93112626ecef1d",
-      "status": "optimized"
-    },
     "/events/luma-batch-HVz9QrHwDKCcbkH-96687dce.webp": {
       "sha256": "cc40407c1fb132ffdb3b9045d605af405a0c4e1cbe81972fcdeeff97957eecc5",
       "status": "optimized"
@@ -4533,10 +4529,6 @@
       "sha256": "56e2f0054d30b146c47755fc37d7946d00837af3befeb2bcd37d6bea3fd956a2",
       "status": "optimized"
     },
-    "/events/token2049-evt-11ujwiio5yiljql-be2a9d6a.webp": {
-      "sha256": "5d1ff005553298141ca5e34016755828f4929b2806e32b04836f6f6ed837e9e9",
-      "status": "optimized"
-    },
     "/events/token2049-evt-2ghtqhbniut9g5d-e18507d4.webp": {
       "sha256": "58063958b7b77081fa0da6ea4d5d441b1990a266bd2fc2d3ba0490e9a27e97eb",
       "status": "optimized"
@@ -4551,10 +4543,6 @@
     },
     "/events/token2049-evt-c1gxjrkwyh9xmze-ff371ecd.webp": {
       "sha256": "06203799368ff1f92a8d96693ed27b2bb281c97767c97a214cb31a3b2d19ddec",
-      "status": "optimized"
-    },
-    "/events/token2049-evt-cvbrwb8stnrcgsd-1f02f8b3.webp": {
-      "sha256": "38c76612bbdac2e5ea30d665a6a45d6efdea53d9651e0c6a7fc7414d77aab356",
       "status": "optimized"
     },
     "/events/token2049-evt-cx1lalpzxi5ssdf-2cba10dd.webp": {
@@ -4605,10 +4593,6 @@
       "sha256": "7fd17f41bd6c3e170bfe61bd85c201f2f72a6b2f156f7ee9e4f23d525d21bf17",
       "status": "optimized"
     },
-    "/events/token2049-evt-thbx6mwdmqmhq0b-0697140a.webp": {
-      "sha256": "6b8c63a15e9b17dfc35dce8edd3ff2d92718bf6db906d34a9c740d9bc60a144a",
-      "status": "optimized"
-    },
     "/events/token2049-evt-ur9scndj5j5klkb-2d0ca3e5.webp": {
       "sha256": "836327fe5da81ac4e8facbc91ff56e6caf5ca301c259ec8c4d1a24bebf0f7481",
       "status": "optimized"
@@ -4627,10 +4611,6 @@
     },
     "/events/token2049-evt-xykkho9ggzrosdv-82cf72b3.webp": {
       "sha256": "63a163e775b31767011a796c581c2a384e45c6e6062d9f0b059d8cdc0ac55900",
-      "status": "optimized"
-    },
-    "/events/token2049-evt-yat9s7akfk6clev-693bad09.webp": {
-      "sha256": "81fd7968878e19364282c69132e408176b75b6fdb37efbcc70bfc8ae3a754596",
       "status": "optimized"
     },
     "/events/token2049-evt-yo7gy1owi4l0qr6-0510526b.webp": {
@@ -4652,10 +4632,6 @@
     "/events/token2049-side-6a9f15a0967be0befa88c5ea-eb441427.webp": {
       "sha256": "e04f827d6f69ecd972094b18b2b42f74ea09f771bc798907aea7ce5648a03330",
       "status": "retained"
-    },
-    "/events/token2049-side-6aa173ecd567345aad6851be-2e1fb289.webp": {
-      "sha256": "7ee2f5e7ab07ac3714e7940745522ddab9fda640d737680d9f565ceca9511173",
-      "status": "optimized"
     },
     "/events/token2049-side-6aa1740b967be0befa88cffc-c3d94d1c.webp": {
       "sha256": "2303a44dfba859a4c654e48e29bc97efd8c5cf10dad6fc2d3fec390748ba28b6",
@@ -5359,10 +5335,6 @@
     },
     "/events/w3v-xrp-ledger-hackathon-7cf6f397.webp": {
       "sha256": "6f6400d3cda0125b0f32c2732dc3aa99e6dcbbe149c934ce0a2891f5705dc020",
-      "status": "retained"
-    },
-    "/events/w3v-yacht-party-crypto-whales-02e2e83c.webp": {
-      "sha256": "41c5c1b2b937e4e772e67dcbcaf304ec90621b2b066b66cf82f7ab0a3a82c003",
       "status": "retained"
     },
     "/events/w3v-yield-farming-try-step-farming-defi-26-11-06-d40223b6.webp": {
@@ -9525,10 +9497,6 @@
       "sha256": "525ac8af1a57e1669c65a9a84bd8de993e2dc869ac127a18cc52fc72cda5eb1c",
       "status": "optimized"
     },
-    "/logo/companies/baton-corporation.png": {
-      "sha256": "517174aa36c176c66688bf29032320e4be5b33f41240ab1e05b3b85742f5bf82",
-      "status": "retained"
-    },
     "/logo/companies/bcb-group.png": {
       "sha256": "17d308a98b344da1d8a8dc9b1ba377f1636f6324d3690e4fce02760e438a9cc5",
       "status": "retained"
@@ -9845,6 +9813,10 @@
       "sha256": "6828f90a8d4be5572c7bfae1748ab7b4f2ae86d544f28a8c4ce223e34cd1e458",
       "status": "retained"
     },
+    "/logo/companies/btse.png": {
+      "sha256": "96d64ff94539b341ca6d4f3c45a8106e59033ac55da0c0e660077b6699eeeff2",
+      "status": "retained"
+    },
     "/logo/companies/bullish.png": {
       "sha256": "86cbae40c63c1368b86014f91c0b0896e2e71825fa3990a5331bb6eff956fd3d",
       "status": "retained"
@@ -10050,7 +10022,7 @@
       "status": "optimized"
     },
     "/logo/companies/coinflow.png": {
-      "sha256": "853667144b7572abee7591af47e763fbc903c41af876f807fe531085647200a4",
+      "sha256": "18bd07492e8df68a961d3e1d738205e5b8ea887eeffa7282587febbe5a9ec308",
       "status": "retained"
     },
     "/logo/companies/coinflow.webp": {
@@ -10115,6 +10087,10 @@
     },
     "/logo/companies/coinshares.png": {
       "sha256": "92cb2593a24902831b4b46a1ab443b973f432914c7f172ee05916491db957e76",
+      "status": "retained"
+    },
+    "/logo/companies/coinspaid.png": {
+      "sha256": "c9d0f9cfb31a0fee97d61235920a9575d447a480485193fef03ba899a374c02f",
       "status": "retained"
     },
     "/logo/companies/coinsph.png": {
@@ -11430,7 +11406,7 @@
       "status": "retained"
     },
     "/logo/companies/merkle-science.png": {
-      "sha256": "6a24e53d93d75c646523fcd191db5b1980005a5478bbca8952b2fb9d0fcca48b",
+      "sha256": "24a8c4298b30ade977252f8879319db20756adebf0f5f2ca6d05deed2a615830",
       "status": "retained"
     },
     "/logo/companies/merkle-science.webp": {
@@ -12158,7 +12134,7 @@
       "status": "optimized"
     },
     "/logo/companies/relay-link.png": {
-      "sha256": "586883a41c1630dd030a6cd7a0e80733d41ff517f2391c30fb70b8c94fecf84a",
+      "sha256": "a1b54a9fb553c109663ba2e4e02535f979f692a3f7904d9315cc9902dfbf58eb",
       "status": "retained"
     },
     "/logo/companies/relay-link.webp": {
@@ -12166,7 +12142,7 @@
       "status": "optimized"
     },
     "/logo/companies/relay.png": {
-      "sha256": "6b37093539ff942d4ef5205ba48a03fed700475f5876fba9fe13c8fdd0ec8c07",
+      "sha256": "a1b54a9fb553c109663ba2e4e02535f979f692a3f7904d9315cc9902dfbf58eb",
       "status": "retained"
     },
     "/logo/companies/relay.webp": {
@@ -12578,7 +12554,7 @@
       "status": "retained"
     },
     "/logo/companies/strike.png": {
-      "sha256": "ac60c22ba07e37fdcba3b924baf67130f6ce8f509b1b69a2837434a429da0c62",
+      "sha256": "441c6e6d64e4070885cf4e168e46db012255ba4e05fb500a1ff87c0135e38065",
       "status": "retained"
     },
     "/logo/companies/strike.webp": {
@@ -15565,10 +15541,6 @@
       "sha256": "651fe3942978d96c54b092f80c52691562506a7438c0992d317f5597e5e3763b",
       "status": "retained"
     },
-    "/og/jobs/an5.png": {
-      "sha256": "15e50d60fb82c0b3f1d9fada50a9771719469516bdd85508e1f0dfdfd496230e",
-      "status": "retained"
-    },
     "/og/jobs/an60.png": {
       "sha256": "72ad5af28e2dd1995cd41e196a4fbc67a1b9d339a8782f755e6dbae007b2a111",
       "status": "retained"
@@ -16433,10 +16405,6 @@
       "sha256": "f91768095794bdea1deaf760b722cf6d8722909b11403fd1c4776d9b1b2b32a6",
       "status": "retained"
     },
-    "/og/jobs/cmp69.png": {
-      "sha256": "d07b915c564b6bef51477b29e22a8232aa7d5fc25d2176d3662ec063f5d5fd7b",
-      "status": "retained"
-    },
     "/og/jobs/cmp70.png": {
       "sha256": "cb5688ff456b0663125a24b2b4230eaaece08904c3dd35de29348ab5512ef29c",
       "status": "retained"
@@ -17211,18 +17179,6 @@
     },
     "/og/jobs/eng463.png": {
       "sha256": "7cab7f3925eeea0bba6adc160b68df360603dc8cb540cc91c21435bb420ac0c6",
-      "status": "retained"
-    },
-    "/og/jobs/eng498.png": {
-      "sha256": "d6383c32342ac23c444fc015345b5d73a27a9068d731c88e6385fc3ed05362de",
-      "status": "retained"
-    },
-    "/og/jobs/eng499.png": {
-      "sha256": "469ae29bd2c46791ff69439b6fc2aa4153d958cb318dd36ca7970d247ffebefa",
-      "status": "retained"
-    },
-    "/og/jobs/eng500.png": {
-      "sha256": "469ae29bd2c46791ff69439b6fc2aa4153d958cb318dd36ca7970d247ffebefa",
       "status": "retained"
     },
     "/og/jobs/eng501.png": {
@@ -19585,14 +19541,6 @@
       "sha256": "f2ec0078c825a026e5f107b8763ad452c7aa2b32873c06b876c471ef1b4452cd",
       "status": "retained"
     },
-    "/og/jobs/pm268.png": {
-      "sha256": "4eeac353c9ea0657e2d9708e53a756e197751e9f7c61961f94ca7c222baa8f45",
-      "status": "retained"
-    },
-    "/og/jobs/pm269.png": {
-      "sha256": "9cdc438c4ad7df4f255692ff9ea84f186fadb721e66fcbc74db5dfaead3f9c65",
-      "status": "retained"
-    },
     "/og/jobs/pm270.png": {
       "sha256": "06c850f642fae18338a90d035af20933b443d9c25323354222958f99d742a751",
       "status": "retained"
@@ -20857,14 +20805,6 @@
       "sha256": "563c890aff51deb2f59b59ff67142fe9ac25914feb3e48ef659240ec447a2526",
       "status": "retained"
     },
-    "/og/jobs/sls259.png": {
-      "sha256": "7aae02a4c4f8c5d2b11791c204eb414643078b134b8656257ad5844943dc636b",
-      "status": "retained"
-    },
-    "/og/jobs/sls260.png": {
-      "sha256": "6c3fc8b3cbb63cf1c7dafcb5ca2f45fc0e8f2af2a0699ec4bcd8690a75e2b2d2",
-      "status": "retained"
-    },
     "/og/jobs/sls264.png": {
       "sha256": "769b5017775250bb6778ac0ec06de56f035def2c9b9a6a758e7fee4c9083eb19",
       "status": "retained"
@@ -21485,10 +21425,6 @@
       "sha256": "39b86ff0abd080457fcd2c9d4f0c6c2e4b014219c08653685d38129355cf50b5",
       "status": "retained"
     },
-    "/og/jobs/sls446.png": {
-      "sha256": "c8f538517d788d5a3b056871f5c9bf4effee1f5772cab7554d75dde50f592404",
-      "status": "retained"
-    },
     "/og/jobs/sls447.png": {
       "sha256": "7b7c469922254887d0a7ea59392540c439071a1b33a3816ec9121e5431c7ae3a",
       "status": "retained"
@@ -21591,10 +21527,6 @@
     },
     "/og/jobs/tms.png": {
       "sha256": "1bb739c4c7c5b803a488468a1ba6e06443dadd0172b87fbd764271e86794869c",
-      "status": "retained"
-    },
-    "/og/jobs/tr101.png": {
-      "sha256": "023343bd40f2b8b8f9766d2cb467f5390f5958dcb3d3d58e2ea199fdc2729630",
       "status": "retained"
     },
     "/og/jobs/tr123.png": {
@@ -23044,6 +22976,14 @@
     "/popups/zuberlin/zuberlingallery3.webp": {
       "sha256": "449fd166dacba59db731b8054f863faeeb056eb154381c28884ae0dbb4c64c94",
       "status": "retained"
+    },
+    "/logo/companies/baton-corporation.png": {
+      "sha256": "2de9965c70932766ef0be8f4e6a8448e7a0d17f61a956b33921175e8a9235281",
+      "status": "optimized"
+    },
+    "/logo/companies/pump-fun.png": {
+      "sha256": "2de9965c70932766ef0be8f4e6a8448e7a0d17f61a956b33921175e8a9235281",
+      "status": "optimized"
     }
   }
 }

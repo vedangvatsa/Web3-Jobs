@@ -4138,72 +4138,6 @@ Time Heist by Zusei.com is scheduled for 5 October 2026 at 13:00 (Asia/Singapore
 
 Registration is listed as free.
 
-<a id="event-69c70758f36c8346"></a>
-
-## Formula 1 After Party
-
-- Record: `token2049-evt-11UjwIio5yIlJQL`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-09T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/golp36tb>
-
-### About the event
-
-Formula 1 After Party is scheduled for 9 October 2026 at 15:00 (Asia/Singapore) in Singapore. Hosted by Magnum Meta.
-
-Registration requires host approval. Registration is listed as free.
-
-<a id="event-1dd40c1749d99f1c"></a>
-
-## Crypto VC & Investment Roundtable
-
-- Record: `token2049-evt-THbX6mWdMqmHq0b`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-09T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/d9m7ndn1>
-
-### About the event
-
-Crypto VC & Investment Roundtable is scheduled for 9 October 2026 at 17:00 (Asia/Singapore) in Singapore. Hosted by Singularity Finance.
-
-Registration requires host approval. Registration is listed as free.
-
-<a id="event-15e0b86e41117ea2"></a>
-
-## Founders After Dark
-
-- Record: `token2049-evt-cVBrwB8sTnRcGSd`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-09T11:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/y0r8yef3>
-
-### About the event
-
-Founders After Dark is scheduled for 9 October 2026 at 19:00 (Asia/Singapore). Hosted by Founders After Dark.
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
-<a id="event-579f0761c8250e6d"></a>
-
-## Super Secret Private & VIP Institutional Karaoke Cross-Chain Roundtable
-
-- Record: `token2049-evt-yat9s7akFK6ClEv`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-09T12:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/zl4ggl0o>
-
-### About the event
-
-Super Secret Private & VIP Institutional Karaoke Cross-Chain Roundtable is scheduled for 9 October 2026 at 20:00 (Asia/Singapore) in Singapore. Hosted by Bryn Bennett, Marc Cross.
-
-Everyone buys their own drinks and settles their own bill when ordering.
-
-Registration is listed as free.
-
 <a id="event-f30339812876b23b"></a>
 
 ## RaveDAO x OrangeX Present Brina Knauss
@@ -15689,74 +15623,6 @@ Superteam is a global co-operative organised into regional non-profit organisati
 
 By signing up to this event you agree that Solana, The SRI, & SuperteamUK can capture any footage of you, and contact you directly about future events, major news, and more.
 
-<a id="event-7182769363c398d4"></a>
-
-## Bitkub INZIGHTS 2026 ตลาดฟื้น รับฤดูใหม่
-
-- Record: `luma-batch-FgIpxrhW9Ef7ysl`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-09T09:45:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/da7ppbga>
-
-### About the event
-
-Bitkub InZights 2026 ภายใต้หัวข้อ "ตลาดฟื้น รับฤดูใหม่"
-
-สนับสนุนโดย Stable เปิดมุมมองการลงทุนผ่านบทวิเคราะห์จากผู้เชี่ยวชาญ ครอบคลุมทั้งคริปโตเคอร์เรนซี ทองคำ และตลาดหุ้น ทำความเข้าใจทิศทางตลาดและเตรียมกลยุทธ์ให้เหมาะสมกับสถานการณ์ปัจจุบัน
-
-รายละเอียดงาน:
-
-วันศุกร์ที่ 9 ตุลาคม 2569 เวลา 17:00 - 22:00 น. สถานที่: ZillaSpace ชั้น 11 (ออฟฟิศบิทคับ), FYI Center ตึก 2 กรุงเทพฯ MRT ศูนย์การประชุมแห่งชาติสิริกิติ์ ทางออก 1
-
-แผนที่: https://maps.app.goo.gl/uF8sxzTWSaZ2EzzS9
-
-รายละเอียดการเข้าร่วมงาน / Attendance details:
-
-งาน Bitkub InZights 2026 ตลาดฟื้น รับฤดูใหม่ จัดขึ้นโดย บริษัท บิทคับ ออนไลน์ จำกัด และ บริษัท บิทคับ แล็บส์ จำกัด (รวมเรียกว่า "บริษัท")
-
-โปรดแสดงภาพหน้าจอการลงทะเบียนสำเร็จเพื่อเป็นหลักฐานการสำรองที่นั่ง ณ จุดลงทะเบียนในงาน
-
-บริษัทขอสงวนสิทธิ์ในการเปลี่ยนแปลงกำหนดการ โดยจะแจ้งให้ทราบล่วงหน้า
-
-ไฮไลต์ภายในงาน:
-
-อัปเดต Insights เชิงลึกจากผู้เชี่ยวชาญ สถานการณ์ตลาดการลงทุนทั่วโลก ตามทันตลาดช่วงท้ายในปี 2026
-
-Networking พบปะพูดคุย
-
-กิจกรรมภายในงาน แข่งขันชิงรางวัลสมนาคุณสนับสนุนโดย Stable เงื่อนไขกิจกรรมเป็นไปตามที่บริษัทกำหนด โปรดอ่านรายละเอียดที่: X
-
-กิจกรรม Kahoot! ร่วมตอบคำถาม ชิงรางวัล Hardware Wallet เงื่อนไขกิจกรรมเป็นไปตามที่บริษัทกำหนด โปรดอ่านรายละเอียดที่:
-
-บูธกิจกรรมจากพันธมิตรของ Bitkub และของรางวัลสุดพิเศษ
-
-อาหารและเครื่องดื่มฟรีตลอดทั้งงาน
-
-กำหนดการ:
-
-16:45 น. | Registrations
-
-17:00 น. | Cybersafe: Passkey & Security Workshop
-
-18:00 น. | Welcoming Remarks
-
-18:10 น. | Bitkub Academy Open House
-
-18:20 น. | Keynote: จับเทรนด์เด่น ปิดท้ายปี 2026 (Crypto Trends Shaping 2026)
-
-18:35 น. | Keynote: เจาะโอกาส ตลาดฟื้นตัว (Leading The Next Cycle Recovery)
-
-19:05 น. | Activity: เล่นเกม QuizSeason รางวัลจาก SIAMBC
-
-19:20 น. | Fireside Chat: ทำไม Tokenization คือจุดเปลี่ยนทางการเงินครั้งใหญ่? (Why is Tokenization the Ultimate Financial Game-Changer?)
-
-19:50 น. | Panel Discussion: เสี่ยงสั้น หรือ หวังยาว ใครจะเป็นผู้ชนะในตลาดทุนยุคใหม่ (Short-term Risks vs. Long-term Investments)
-
-20:50 น. | Q&A
-
-21:10 น. | Networking Session
-
 <a id="event-c63bd2dc46a5d1a8"></a>
 
 ## El Taller - Hackathon de Colosseum
@@ -20865,44 +20731,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-4d70df2aba2f6b42"></a>
-
-## Yacht Party- Crypto Whales
-
-- Record: `w3v-yacht-party---crypto-whales`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/66xw2zkq>
-
-### About the event
-
-Exclusive Private Night on the Water During TOKEN2049 Singapore.
-
-During TOKEN2049 week, we're bringing together a group of crypto's most connected investors, fund managers, founders, whales, and industry decision-makers for a private evening on the water in Singapore.
-
-Away from crowded side events, conference floors, and endless networking rooms, this is a night built around something much simpler: bringing the right people together in the right setting.
-
-Step aboard a private luxury yacht and spend the evening cruising through Singapore's waters as the city lights come alive. Expect an intimate guest list, premium drinks, curated food, a live DJ, music, and an atmosphere designed for conversations that continue long after the conference day ends.
-
-The Night
-
-As the sun goes down, the yacht sets out into the Singapore night.
-
-Drinks are flowing, dinner is served, the DJ takes over, and the skyline becomes the backdrop.
-
-There will be plenty of time to move around, meet people, have private conversations, enjoy the music, and take in the city from the water.
-
-No stages.
-
-No long presentations.
-
-No forced networking.
-
-Just a carefully curated group, great hospitality, good music, and the kind of conversations that are difficult to have in a crowded conference venue.
-
-Attendance is limited and subject to approval. Registering through Luma does not automatically guarantee entry. Approved guests will receive the final confirmation and boarding details directly.
-
 <a id="event-a1b8210aedd52322"></a>
 
 ## SPARKY: GAME ON! 🎮
@@ -21157,40 +20985,6 @@ Attendance is subject to organizer approval, venue capacity and applicable venue
 Guests must comply with the venue's age, identification, alcohol, safety and other applicable policies. Unlimited drinks are subject to responsible-service rules and applicable local regulations.
 
 Blockchain and digital-asset activities involve risk. Nothing at this event constitutes financial, investment, legal or tax advice.
-
-<a id="event-cc8b1833e1426ad2"></a>
-
-## The Best Event: F1 Sprint Qualifying with ASI
-
-- Record: `token2049-side-6aa173ecd567345aad6851be`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T12:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/TBE-F1SprintQual>
-
-### About the event
-
-ASI brings the intensity of Sprint Qualifying to a room built to match it. This is one of race weekend's sharpest sessions, and watching it unfold from up here is a privilege, not a given.
-
-Expect a packed room of Web3's most connected, drinks flowing as qualifying builds to its finish.
-
-F1 Sprint Qualifying is hosted at Singapore's most premium penthouse suite, in an iconic 5-star hotel overlooking Marina Bay. With floor-to-ceiling views of the bay, this premium space reflects the calibre of company you can expect and a level of exclusivity you shouldn't miss.
-
-### Event Highlights
-
-- An exclusive evening gathering with a discerning crowd - founders, investors, and the industry's most connected
-- Premium spirits, champagne, and signature cocktails, flowing throughout the night
-- Full trackside views of F1 Sprint Qualifying, live from every suite room
-- Sweeping skyline views that set the scene as the lights come on
-- Refined networking away from the masses
-
-### Hosts
-
-The Artificial Superintelligence (ASI) [Alliance](https://superintelligence.io/) is the world's largest open-source initiative dedicated to decentralized Artificial General Intelligence (AGI). Formed in [April 2024, the ASI Alliance unites SingularityNET, Fetch.ai](https://Fetch.ai) and CUDOS.
-
-[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
-
-For sponsor inquiries [for the penthouse editions, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.
 
 <a id="event-19124289235f1298"></a>
 

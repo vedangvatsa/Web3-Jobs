@@ -21781,19 +21781,7 @@
     "location": "Remote (United States, United Kingdom, Germany, France)",
     "department": "Engineering",
     "active": true,
-    "slug": "eng734"
-  },
-  {
-    "id": "98279576",
-    "title": "Internal Tooling Engineer",
-    "company": "Uneven Labs",
-    "link": "https://careers.kula.ai/relay/62222",
-    "date": "2026-10-13T16:47:25.000Z",
-    "source": "https://jobs.archetype.fund/jobs",
-    "dateVerified": true,
-    "dateSource": "Kula.Job.launch_at",
-    "slug": "eng735",
-    "location": "Not specified"
+    "slug": "eng735"
   },
   {
     "id": "62221",
@@ -21807,19 +21795,7 @@
     "location": "Remote (United States, United Kingdom, Germany, France)",
     "department": "Infrastructure",
     "active": true,
-    "slug": "sec152"
-  },
-  {
-    "id": "98353349",
-    "title": "Full-Stack Engineer (Security)",
-    "company": "Uneven Labs",
-    "link": "https://careers.kula.ai/relay/62221",
-    "date": "2026-10-13T16:46:48.000Z",
-    "source": "https://jobs.archetype.fund/jobs",
-    "dateVerified": true,
-    "dateSource": "Kula.Job.launch_at",
-    "slug": "sec153",
-    "location": "Not specified"
+    "slug": "sec153"
   },
   {
     "id": "62220",
@@ -23974,20 +23950,5 @@
     "active": true,
     "dateVerified": true,
     "slug": "cc8"
-  },
-  {
-    "id": "dcdb73cb-862d-4ab8-8385-2a723bf38b37",
-    "title": "AI Product Lead",
-    "company": "Aspora",
-    "link": "https://jobs.ashbyhq.com/Aspora/dcdb73cb-862d-4ab8-8385-2a723bf38b37",
-    "date": "2026-10-09T15:35:47.794+00:00",
-    "source": "Ashby: Aspora [Aspora]",
-    "location": "Hybrid (London)",
-    "isRemote": true,
-    "workplaceType": "Hybrid",
-    "department": "Product",
-    "active": true,
-    "dateVerified": true,
-    "slug": "pm271"
   }
 ]

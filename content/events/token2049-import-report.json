@@ -81,49 +81,6 @@
       "slug": "tech-summit"
     },
     {
-      "url": "https://luma.com/golp36tb",
-      "name": "Formula 1 After Party",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "formula-after"
-    },
-    {
-      "url": "https://luma.com/d9m7ndn1",
-      "name": "Crypto VC & Investment Roundtable",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "crypto-vc"
-    },
-    {
-      "url": "https://luma.com/y0r8yef3",
-      "name": "Founders After Dark",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "founders-after"
-    },
-    {
-      "url": "https://luma.com/zl4ggl0o",
-      "name": "Super Secret Private & VIP Institutional Karaoke Cross-Chain Roundtable",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "super-secret"
-    },
-    {
       "url": "https://plvr.io/t/f82e08242177",
       "name": "RaveDAO x OrangeX Present Brina Knauss",
       "sources": [
@@ -580,16 +537,6 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/66xw2zkq",
-      "name": "Yacht Party- Crypto Whales",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 400"
-    },
-    {
       "url": "https://luma.com/im2uyqlt",
       "name": "Strength & Flow",
       "sources": [
@@ -705,17 +652,6 @@
       ],
       "status": "needs-review",
       "reason": "Luma page returned HTTP 400"
-    },
-    {
-      "url": "https://luma.com/TBE-F1SprintQual",
-      "name": "The Best Event: F1 Sprint Qualifying with ASI",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
     },
     {
       "url": "https://luma.com/ar1cev6n",
