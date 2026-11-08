@@ -142528,7 +142528,27 @@
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
       "attempts": 0,
       "expiresAt": "2026-11-08T17:31:10.000Z",
-      "lastSeenAt": "2026-11-06T00:28:20.054Z"
+      "lastSeenAt": "2026-11-06T00:28:20.054Z",
+      "articleSlug": "studiosban",
+      "draftProgress": {
+        "id": "3bd7ed780084b6f277ae",
+        "day": "2026-11-08",
+        "articleSlug": "studiosban",
+        "note": "Read THR original report and Decrypt follow-up; two independent sites read. Draft not started, image not selected.",
+        "sourceChecks": [
+          {
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/prediction-market-ban-hollywood-studios-1236742752",
+            "outcome": "read"
+          },
+          {
+            "url": "https://decrypt.co/382626/hollywood-studios-quietly-ban-staff-from-betting-on-prediction-markets-report",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-08T11:10:47.505Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "ae27e6a14ea34a6b97de": {
       "source": "The Block",
@@ -142690,7 +142710,27 @@
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
       "attempts": 0,
       "expiresAt": "2026-11-08T15:45:00.000Z",
-      "lastSeenAt": "2026-11-06T00:28:20.054Z"
+      "lastSeenAt": "2026-11-06T00:28:20.054Z",
+      "articleSlug": "nbubill",
+      "draftProgress": {
+        "id": "3967e0aca164a53111a5",
+        "day": "2026-11-08",
+        "articleSlug": "nbubill",
+        "note": "Read Bitcoin Magazine and UA.NEWS English coverage of the NBU Nov. 4 statement; two independent sites read. Draft not started, image not selected.",
+        "sourceChecks": [
+          {
+            "url": "https://bitcoinmagazine.com/news/ukraine-central-bank-refuses-crypto-bill",
+            "outcome": "read"
+          },
+          {
+            "url": "https://ua.news/en/ukraine/natsbank-ne-pidtrimav-zakonoproiekt-pro-obig-virtualnikh-aktiviv",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-08T11:10:50.367Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "2ceac87343a534d02420": {
       "source": "Unchained",
