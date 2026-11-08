@@ -4,6 +4,7 @@ import { PageShell } from '@/components/page-shell';
 import { Top100Board } from '@/components/top100-board';
 import { TrustedBy } from '@/components/trusted-by';
 import { Card, CardHeader } from '@/components/ui/card';
+import { Button } from '@/components/ui/button';
 import { CtaBanner } from '@/components/cta-banner';
 import { top100Data } from '@/lib/top100';
 import { resolveCompanyLogo, getCompanyFaviconUrl, getCompanyFaviconUrlBySlug } from '@/lib/company-logo';
@@ -163,6 +164,28 @@ export default async function Top100Page() {
                     </p>
                   </CardHeader>
                 </Card>
+              </div>
+
+              <div className="mt-4 rounded-lg border border-border/70 bg-card p-5">
+                <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+                  <div>
+                    <h3 className="text-base font-semibold text-foreground">
+                      Research Whitepaper
+                    </h3>
+                    <p className="text-sm text-muted-foreground leading-relaxed mt-1 font-normal">
+                      Read the complete empirical study on hiring capacity, mathematical formulation, and pay transparency.
+                    </p>
+                  </div>
+                  <Button asChild variant="outline" size="sm" className="shrink-0">
+                    <a
+                      href="/whitepaper-top100-web3-employers.pdf"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Download Whitepaper (PDF)
+                    </a>
+                  </Button>
+                </div>
               </div>
             </section>
 
