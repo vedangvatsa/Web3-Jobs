@@ -90,22 +90,51 @@ export function sanitizePlainEnglish(text: string): string {
 }
 
 /**
+ * Truncate text cleanly on word boundaries.
+ */
+export function truncateWords(text: string, maxLen: number): string {
+  const clean = sanitizePlainEnglish(text);
+  if (clean.length <= maxLen) return clean;
+  const sub = clean.slice(0, maxLen - 3);
+  const lastSpace = sub.lastIndexOf(' ');
+  return (lastSpace > 20 ? sub.slice(0, lastSpace) : sub).trim() + '...';
+}
+
+/**
+ * Extract the first complete sentence, protecting common abbreviations.
+ */
+export function cleanFirstSentence(desc: string): string {
+  const protectedText = String(desc || '')
+    .replace(/\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec|No|Inc|Co|Dr|Mr|Ms)\./gi, '$1_DOT_')
+    .replace(/\b(U\.S\.)/gi, 'US_DOT_')
+    .replace(/\b(e\.g\.)/gi, 'EG_DOT_')
+    .replace(/\b(i\.e\.)/gi, 'IE_DOT_');
+  const first = protectedText.split(/[.?!]\s+/)[0] || desc;
+  return first
+    .replace(/_DOT_/g, '.')
+    .replace(/US\./g, 'U.S.')
+    .replace(/EG\./g, 'e.g.')
+    .replace(/IE\./g, 'i.e.')
+    .trim();
+}
+
+/**
  * Fallback caption generator using standard simple title and description.
  */
 export function fallbackCaptions(article: NewsArticle): Captions {
   const cleanTitle = sanitizePlainEnglish(article.title);
   const cleanDesc = sanitizePlainEnglish(article.description);
-  const firstSentence = cleanDesc.split(/(?<=[.?!])\s+/)[0] || cleanDesc;
+  const firstSentence = cleanFirstSentence(cleanDesc);
 
-  // Shorten strictly for X so raw string is under 260 chars
-  const xHeadline = cleanTitle.length > 60 ? `${cleanTitle.slice(0, 57)}...` : cleanTitle;
-  const xBody = firstSentence.length > 85 ? `${firstSentence.slice(0, 82)}...` : firstSentence;
+  // Shorten cleanly for X on word boundaries (well within 280 chars)
+  const xHeadline = truncateWords(cleanTitle, 70);
+  const xBody = truncateWords(firstSentence, 105);
   const xUrl = `${SITE_URL}/${article.slug}?utm_source=twitter&utm_medium=social&utm_campaign=news`;
   const xFullText = `${xHeadline}\n\n${xBody}\n\n${xUrl}\n\n#Web3 #Crypto`;
 
-  // LinkedIn allows slightly more detail (under 380 chars)
-  const linkedInHeadline = cleanTitle.length > 75 ? `${cleanTitle.slice(0, 72)}...` : cleanTitle;
-  const linkedInBody = cleanDesc.length > 180 ? `${cleanDesc.slice(0, 177)}...` : cleanDesc;
+  // LinkedIn allows slightly more detail (within 380 chars)
+  const linkedInHeadline = truncateWords(cleanTitle, 80);
+  const linkedInBody = truncateWords(cleanDesc, 200);
   const linkedInUrl = `${SITE_URL}/${article.slug}?utm_source=linkedin&utm_medium=social&utm_campaign=news`;
   const linkedInFullText = `${linkedInHeadline}\n\n${linkedInBody}\n\nRead more: ${linkedInUrl}\n\n#Web3 #Blockchain #Crypto`;
 
