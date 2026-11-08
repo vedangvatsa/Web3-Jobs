@@ -513,7 +513,7 @@ Table 3 presents the complete empirical census of the one hundred qualifying org
 \clearpage
 \begingroup
 \small
-\renewcommand{\refname}{Data Sources and Regulatory References}
+\renewcommand{\refname}{References}
 \begin{thebibliography}{99}
 \raggedright
 
