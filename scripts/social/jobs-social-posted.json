@@ -117103,6 +117103,47 @@
       "verification": "verified",
       "postId": "6af05f85d6bbae6fa1e5e40f",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7525160234642956288"
+    },
+    {
+      "slug": "eng716",
+      "company": "DRW",
+      "title": "Senior Software Engineer, Unified Platform - Platform Services",
+      "platform": "linkedin",
+      "postedAt": "2026-11-08T11:37:08.161Z",
+      "expectedText": "DRW is hiring Senior Software Engineer, Unified Platform - Platform Services: https://hashtagweb3.com/eng716/li?og=7",
+      "snapshot": {
+        "id": "8156100",
+        "title": "Senior Software Engineer, Unified Platform - Platform Services",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8156100",
+        "date": "2026-11-03T12:37:37-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "London",
+        "department": "UP - Platform Services",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng716"
+      },
+      "payload": {
+        "text": "DRW is hiring Senior Software Engineer, Unified Platform - Platform Services: https://hashtagweb3.com/eng716/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng716/li?og=7",
+          "title": "Senior Software Engineer, Unified Platform - Platform Services at DRW",
+          "description": "Join DRW as Senior Software Engineer, Unified. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng716.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "fd8a4eca-d58e-428a-80dd-b08101bb542e",
+      "verification": "creating"
     }
   ]
 }
