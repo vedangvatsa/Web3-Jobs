@@ -3412,5 +3412,20 @@
     "slotKey": "2026-11-08:afternoon",
     "messageId": 193475,
     "sentAt": "2026-11-08T11:34:13.994Z"
+  },
+  "19c827af-eff2-4fd5-819f-a0e1e471400d": {
+    "status": "reserved",
+    "reservedAt": "2026-11-08T19:34:31.009Z",
+    "stories": [
+      {
+        "index": 3,
+        "headline": "AI spending flattens as usage rises while Anthropic approaches IPO",
+        "summary": "Price cuts and better cost management keep expenditures steady, which may challenge investor assumptions about rapid growth.",
+        "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+        "source": "TechCrunch",
+        "originalTitle": "Ramp data shows AI spending stalling just as Anthropic nears its IPO"
+      }
+    ],
+    "slotKey": "2026-11-08:evening"
   }
 }
