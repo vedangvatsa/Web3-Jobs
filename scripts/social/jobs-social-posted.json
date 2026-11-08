@@ -116360,7 +116360,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "d6383856-e931-4a13-ae8d-0968dd612f27",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af05ee7229bf05dafaacdc1"
     }
   ]
 }
