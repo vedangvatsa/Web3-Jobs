@@ -83,7 +83,7 @@ TEX_CONTENT = r'''\documentclass{article}
 \maketitle
 
 \begin{abstract}
-The Top 100 Web3 Employers Index tracks active hiring across one hundred leading organizations in decentralized technology. Published by Hashtag Web3, the ranking uses primary data collected directly from enterprise applicant tracking systems, including Greenhouse, Ashby, and Lever. Traditional directories often charge companies for placement or rely on estimates such as website traffic and venture capital runway. Our index removes all sponsorship fees and synthetic estimates. Companies are evaluated on four verifiable factors, including active job volume, department diversity, remote availability, and salary disclosure. Our data reveals high labor concentration, where the top ten employers account for 34.8 percent of all open positions. Remote work availability averages 39 percent across the index, with software infrastructure reaching 77 percent while quantitative trading desks report 6 percent. This whitepaper explains our qualification standards, scoring formulas, data safeguards, and labor market findings.
+The Top 100 Web3 Employers Index tracks active hiring across one hundred leading organizations in decentralized technology. Published by Hashtag Web3, the ranking uses primary data collected directly from enterprise applicant tracking systems, including Greenhouse, Ashby, and Lever. Traditional directories often charge companies for placement or rely on estimates such as website traffic and venture capital runway. Our index removes all sponsorship fees and synthetic estimates. Companies are evaluated on four verifiable factors, including active job volume, department diversity, remote availability, and salary disclosure. Our data reveals high labor concentration, where the top ten employers account for 34.8\% of all open positions. Remote work availability averages 39\% across the index, with software infrastructure reaching 77\% while quantitative trading desks report 6\%. This whitepaper explains our qualification standards, scoring formulas, data safeguards, and labor market findings.
 \end{abstract}
 
 \section{Executive Overview and the Hashtag Web3 Benchmark}
@@ -254,7 +254,7 @@ Analysis of active openings across our Top 100 reveals several structural charac
 
 \subsection{Headcount Concentration Across Top Employers}
 
-Hiring capacity in the Web3 sector exhibits strong power law characteristics. In our sample of 100 employers, the top 10 organizations account for 388 open jobs, representing 34.8 percent of all tracked positions. The top 25 employers account for 640 jobs, representing 57.4 percent of the total. The top 50 employers account for 861 jobs, representing 77.2 percent of the total.
+Hiring capacity in the Web3 sector exhibits strong power law characteristics. In our sample of 100 employers, the top 10 organizations account for 388 open jobs, representing 34.8\% of all tracked positions. The top 25 employers account for 640 jobs, representing 57.4\% of the total. The top 50 employers account for 861 jobs, representing 77.2\% of the total.
 
 This concentration indicates that large, revenue-generating centralized platforms maintain durable balance sheets capable of supporting extensive expansion through shifting market cycles. Conversely, earlier stage protocol teams and decentralized autonomous organization foundations operate with lean headcounts, typically maintaining between two and seven open positions.
 
@@ -266,13 +266,13 @@ This concentration indicates that large, revenue-generating centralized platform
 
 \subsection{Industry Sector Breakdown}
 
-The 100 employers in the index span 11 functional sectors. Centralized Exchanges and Custody platforms lead all categories, accounting for 392 positions (35.2 percent) across 20 organizations. Fintech and Payments platforms represent the second largest segment, with 230 positions (20.6 percent) across 20 organizations. Quantitative Trading and Market Making firms account for 114 positions (10.2 percent) across 10 organizations.
+The 100 employers in the index span 11 functional sectors. Centralized Exchanges and Custody platforms lead all categories, accounting for 392 positions (35.2\%) across 20 organizations. Fintech and Payments platforms represent the second largest segment, with 230 positions (20.6\%) across 20 organizations. Quantitative Trading and Market Making firms account for 114 positions (10.2\%) across 10 organizations.
 
-Emerging categories show notable activity. The Artificial Intelligence and Decentralized Physical Infrastructure Networks sector accounts for 90 positions (8.1 percent) across 8 companies, demonstrating investment at the intersection of distributed compute, cryptographic verification, and machine learning infrastructure.
+Emerging categories show notable activity. The Artificial Intelligence and Decentralized Physical Infrastructure Networks sector accounts for 90 positions (8.1\%) across 8 companies, demonstrating investment at the intersection of distributed compute, cryptographic verification, and machine learning infrastructure.
 
 \section{Workplace Flexibility and Remote Hiring Patterns}
 
-Remote work patterns within the Web3 labor market differ significantly across functional subsectors. Across the entire index of 100 employers, approximately 39 percent of tracked listings are marked as remote.
+Remote work patterns within the Web3 labor market differ significantly across functional subsectors. Across the entire index of 100 employers, approximately 39\% of tracked listings are marked as remote.
 
 \begin{figure}[H]
 \centering
@@ -282,11 +282,11 @@ Remote work patterns within the Web3 labor market differ significantly across fu
 
 \subsection{Sectors Leading in Distributed Work}
 
-Our data indicates that remote work availability is highest among pure software and protocol engineering teams. Infrastructure and Tooling providers demonstrate a 77 percent remote listing rate, followed by Security and Auditing firms at 76 percent. These organizations frequently coordinate work asynchronously through open source code repositories, automated testing pipelines, and distributed smart contract deployments.
+Our data indicates that remote work availability is highest among pure software and protocol engineering teams. Infrastructure and Tooling providers demonstrate a 77\% remote listing rate, followed by Security and Auditing firms at 76\%. These organizations frequently coordinate work asynchronously through open source code repositories, automated testing pipelines, and distributed smart contract deployments.
 
 \subsection{Structural Drivers of In-Person Requirements}
 
-In contrast, Quantitative Trading desks report only 6 percent remote availability, and Venture firms report 5 percent remote availability. This low remote prevalence appears to be driven by several operational and regulatory factors.
+In contrast, Quantitative Trading desks report only 6\% remote availability, and Venture firms report 5\% remote availability. This low remote prevalence appears to be driven by several operational and regulatory factors.
 
 \begin{enumerate}
 \item \textbf{Low Latency Infrastructure.} High frequency digital asset trading firms frequently require personnel to operate in close proximity to physical trading colocation centers and proprietary hardware nodes.
@@ -296,7 +296,7 @@ In contrast, Quantitative Trading desks report only 6 percent remote availabilit
 
 \section{Compensation Openness and Regulatory Compliance}
 
-Salary transparency remains an evolving practice within the Web3 sector. Across the index snapshot, approximately 16 to 20 percent of active listings disclose upfront cash compensation ranges.
+Salary transparency remains an evolving practice within the Web3 sector. Across the index snapshot, approximately 16\% to 20\% of active listings disclose upfront cash compensation ranges.
 
 \subsection{Impact of Statutory Pay Transparency Mandates}
 
@@ -308,11 +308,11 @@ Our geographic analysis indicates that wage disclosure rates are heavily correla
 \item \textbf{Colorado Revised Statutes Section 8-5-101 et seq.} Enacted under the Equal Pay for Equal Work Act, this legislation requires transparent compensation ranges in any posting accessible to Colorado residents \cite{ref8}.
 \end{enumerate}
 
-United States headquartered institutions subject to these regulations exhibit high disclosure rates. In our dataset, Coinbase reports salary ranges on 88 percent of its listings, and Figure reports salary ranges on 77 percent of its listings.
+United States headquartered institutions subject to these regulations exhibit high disclosure rates. In our dataset, Coinbase reports salary ranges on 88\% of its listings, and Figure reports salary ranges on 77\% of its listings.
 
 \subsection{Compensation Reporting in Distributed Organizations}
 
-In contrast, offshore protocol foundations, international trading platforms, and decentralized entities frequently exhibit zero percent cash salary disclosure. This opacity is attributable to several factors.
+In contrast, offshore protocol foundations, international trading platforms, and decentralized entities frequently exhibit 0\% cash salary disclosure. This opacity is attributable to several factors.
 
 \begin{enumerate}
 \item \textbf{Contractor Arrangements.} Many decentralized foundations hire core contributors as independent international contractors rather than conventional domestic employees, placing them outside state labor statutes.
@@ -573,6 +573,7 @@ def main():
     assert 'Robinhood' not in TEX_CONTENT, 'Violation: Found Robinhood in tex content'
     assert 'CKBA' not in TEX_CONTENT, 'Violation: Found CKBA in tex content'
     assert 'A Verifiable Methodology, Labor Dynamics, and Governance Framework' not in TEX_CONTENT, 'Violation: Found removed subheading'
+    assert 'percent' not in TEX_CONTENT.lower(), 'Violation: Found percent instead of % symbol in tex content'
 
     # Check for colons in text outside of href
     text_without_href = re.sub(r'\\url\{[^}]+\}', '', TEX_CONTENT)

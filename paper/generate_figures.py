@@ -135,7 +135,7 @@ def make_fig4_concentration():
     ax.set_xticks(x)
     ax.set_xticklabels(tiers)
     ax.set_ylim(0, 125)
-    ax.set_ylabel('Cumulative Share of Open Roles (Percent)')
+    ax.set_ylabel('Cumulative Share of Open Roles (%)')
     fig.savefig('/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/paper/figure4_concentration.png', bbox_inches='tight')
     plt.close(fig)
 
@@ -159,7 +159,7 @@ def make_fig5_sectors():
     ax.set_xticks(x)
     ax.set_xticklabels(sectors, rotation=35, ha='right')
     ax.set_ylim(0, 44)
-    ax.set_ylabel('Share of Open Roles (Percent)')
+    ax.set_ylabel('Share of Open Roles (%)')
     fig.savefig('/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/paper/figure5_sectors.png', bbox_inches='tight')
     plt.close(fig)
 
@@ -184,7 +184,7 @@ def make_fig6_remote():
     ax.set_xticks(x)
     ax.set_xticklabels(sectors, rotation=35, ha='right')
     ax.set_ylim(0, 96)
-    ax.set_ylabel('Remote Job Share (Percent)')
+    ax.set_ylabel('Remote Job Share (%)')
     fig.savefig('/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/paper/figure6_remote.png', bbox_inches='tight')
     plt.close(fig)
 
