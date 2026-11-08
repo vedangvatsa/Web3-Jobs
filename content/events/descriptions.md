@@ -137,103 +137,6 @@ Come to Roatán anytime, or bring your team for a retreat! We'll tailor and orga
 
 Join us for business opportunities, networking, events, networking, sovereign lifestyle and a free life.
 
-<a id="event-57acb4d85ce45fbf"></a>
-
-## RWA Week 2026
-
-- Record: `premier-rwa-week-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-05T09:00:00+08:00
-- Description: Source-backed
-- Original page: <https://rwaweek.com/>
-
-### About the event
-
-RWA WEEK - online and offline ecosystem platform for the real-world asset tokenization community: latest news, event calendar, online and offline events, interviews, and a networking and matchmaking platform.
-
-### What the platform offers
-
-News coverage, a community event calendar, online and offline events, interviews with ecosystem voices, and a networking and matchmaking platform for participants.
-
-### Events
-
-Browse upcoming real-world asset events in Dubai, Singapore, Hong Kong and beyond - including conferences, summits and networking events run under the RWA Week banner.
-
-<a id="event-aeedb571ec460801"></a>
-
-## TOKEN2049 Singapore 2026
-
-- Record: `premier-token2049-singapore-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-07
-- Description: Source-backed
-- Original page: <https://www.token2049.com/singapore>
-
-### About the event
-
-TOKEN2049 Singapore 2026 runs 7-8 October 2026 at Marina Bay Sands, taking over all five floors of the venue for its biggest edition yet.
-
-### Scale
-
-The organizer expects 25,000+ attendees from 160+ countries, 7,000+ companies, 300+ speakers and 500+ exhibitors, with over 60% of attendees at C-level and more than 1,000 side events across the week.
-
-### Program
-
-Alongside the main stages, the week includes the NEXUS startup competition (500 applicants, 10 finalists pitching on the global stage for equity-free prizes), the TOKEN2049 Origins hackathon (36 hours from concept to working product, with mentorship and a shot at prizes, funding and global recognition), and the Startup Village exhibition area where startups showcase to founders, investors, builders and decision-makers from across the industry.
-
-### Festival and side events
-
-The organizer markets the Singapore edition as a festival and, on its site, invites attendees to experience a "pop-up city" of immersive experiences under one roof at Marina Bay Sands - experiential branding, not a literal temporary city. More than 1,000 side events run across the wider conference week. The official closing party, AFTER2049, returns to the MBS SkyPark on 9 October with Claptone headlining 57 floors above ground, joined by Crusy and residents ANONM, Leon, Milam and Mo-Shi, with 360-degree spatial audio by Polygon Live.
-
-### Tickets
-
-Tickets are on sale now, currently listed at US$599 before the 24 September price increase, payable by credit card or crypto. Get 10% off with our code HASHTAGWEB3.
-
-### Who attends
-
-Founders, investors, developers, exchange and protocol teams, institutions, policymakers and media - anyone shaping the global crypto industry. As Binance founder Changpeng Zhao puts it, it is where everybody comes together and the most important conversations happen.
-
-### Speakers
-
-Selected speakers include Shayne Coplan (Polymarket), Balaji Srinivasan (The Network State), Arthur Hayes (Maelstrom), Adena Friedman (Nasdaq), Richard Teng (Binance), Joseph Lubin (Ethereum / MetaMask), Charles Hoskinson (Input Output Group), Justin Sun (TRON) and Max Verstappen (Oracle Red Bull Racing).
-
-See the [official speaker directory](https://www.token2049.com/singapore/speakers) for the full roster.
-
-<a id="event-467a691911b38aa4"></a>
-
-## Finality Forum @ Token2049 SG 2026
-
-- Record: `premier-finalityforum`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-09T02:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/g2lg0htf>
-
-### About the event
-
-Finality Forum is an invite-only forum focused on institutional digital assets, and will be capped at 300 attendees. Please apply in the link and await your confirmation.
-
-### About Finality Forum
-
-Held on 9 Oct 2026, Finality Forum is a full-day conference focused on institutional digital assets - with tracks across Infrastructure, Payments & Stablecoins, RWA & Tokenization, Agentic Commerce, Trading & Institutional Liquidity, and Institutional Privacy.
-
-This edition of Finality Forum will be held during Token2049 Singapore Week, and will feature the following tracks:
-
-- Infrastructure: The foundational layers - chains, custody, and the systems institutions are actually building on.
-- Payments & Stablecoins: Where stablecoins stop being a crypto story and start being the global payments story.
-- Real World Assets & Tokenization: Real assets, on-chain. The bridge between traditional finance and programmable markets.
-- Agentic Commerce: Autonomous agents, on-chain compute, and what happens when AI needs a wallet.
-- Trading & Institutional Liquidity: The desks, market makers, and infrastructure moving institutional-scale capital on-chain.
-- Institutional Privacy: Confidentiality without compromise - the privacy infrastructure institutions need to participate.
-
-Current speakers for Finality Forum include Avalanche, Base, Bitgo, Bloomberg, Canton, Chainlink, Coingecko, FalconX, Flow Traders, Flowdesk, Four Pillars, Google Gemini, GSR, Kaito, Kraken, Miden, Nansen, Nethermind, Ondo, Osero, Paxos, Pyth, Stripe, Tether, Visa, Wintermute, Wormhole, xStocks.
-
-For more information, visit:
-
-- Website: https://finalityforum.xyz
-- X: https://x.com/FinalityForum
-- LinkedIn: https://www.linkedin.com/company/finality-forum/
-
 <a id="event-53bf92ec5c54fb9d"></a>
 
 ## Edge City India 2026
@@ -4297,48 +4200,6 @@ Dress Code: Black Tie Business - formal, elegant, refined.
 
 Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
 
-<a id="event-d10159d6afcdb5ba"></a>
-
-## Beyond the Boardroom Breakfast Briefing: The Great AI Debate
-
-- Record: `token2049-evt-aKIP9cll7FJSSGC`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-09T02:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/b933alqs>
-
-### About the event
-
-Beyond the Boardroom Breakfast Briefing: The Great AI Debate is scheduled for 9 October 2026 at 10:00 (Asia/Singapore) in Singapore. Hosted by Circolo Life, Rahat Kapur.
-
-Bringing together senior voices from across business, technology and culture, the session will explore what AI means for creativity, leadership, human judgement and the decisions being made inside the boardroom.
-
-Registration requires host approval. Registration is listed as free.
-
-<a id="event-f494a2677c6267f9"></a>
-
-## The $100K Bucket Pull
-
-- Record: `token2049-evt-NDxwYRtgLwKQzsG`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-09T02:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/uczcxm3a>
-
-### About the event
-
-The $100K Bucket Pull is scheduled for 9 October 2026 at 10:00 (Asia/Singapore) in Singapore. Hosted by Alison.
-
-The market does not run on logic any more than a horse runs on petrol.
-
-The panel/investors will ask questions
-
-But we are not giving it to the safest pitch deck.
-
-Answer the questions below in the Luma registration fields.
-
-Registration requires host approval. Registration is listed as free.
-
 <a id="event-076748f1873c53b8"></a>
 
 ## AI For Everyone Forum
@@ -4354,112 +4215,6 @@ Registration requires host approval. Registration is listed as free.
 AI For Everyone Forum is scheduled for 9 October 2026 at 10:00 (Asia/Singapore) in Singapore. Hosted by Singapore Innovation Centre.
 
 Registration is listed as free.
-
-<a id="event-730e74a649c68b4b"></a>
-
-## Vibrez × La Royale \| Dockside Yacht Brunch
-
-- Record: `token2049-evt-hrtAgy9RBjVV9wq`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-09T03:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/2sdrck9u>
-
-### About the event
-
-Vibrez × La Royale | Dockside Yacht Brunch is scheduled for 9 October 2026 at 11:00 (Asia/Singapore) in Singapore. Hosted by Vibrez !.
-
-MYKONOS will remain docked at ONE°15 Marina, Sentosa Cove throughout the event.
-
-The yacht will not sail or go out to sea.
-
-MYKONOS - docked at ONE°15 Marina, Sentosa Cove
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
-<a id="event-09c8cfe644a2e8db"></a>
-
-## 2222.Coffee Tasting
-
-- Record: `token2049-evt-qmHU1D84ZQ54OmE`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-09T04:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/circolo-kvry>
-
-### About the event
-
-2222.Coffee Tasting is scheduled for 9 October 2026 at 12:30 (Asia/Singapore) in Singapore. Hosted by Circolo Life.
-
-Registration requires host approval. Registration is listed as free.
-
-<a id="event-94b1809d9c68950c"></a>
-
-## Blockchain Association Singapore Digital Assets Forum 2026 - Building Onchain in the Agentic era
-
-- Record: `token2049-evt-GEenAYO83msTTak`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-09T06:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ig33t77h>
-
-### About the event
-
-Blockchain Association Singapore Digital Assets Forum 2026 - Building Onchain in the Agentic era is scheduled for 9 October 2026 at 14:00 (Asia/Singapore). Hosted by Blockchain Association Singapore.
-
-From geopolitics and regulation to Agentic AI, blockchain and institutional adoption, we'll bring together diverse perspectives to explore what's next and how the industry can build and scale responsibly.
-
-2:00 PM - 2:20 PM - Keynote Address
-
-2:20 PM - 2:45 PM - Fireside Chat
-
-2:45 PM - 3:30 PM - Panel 1: US Clarity Act and the potential impact on licensing regimes in Asia
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
-<a id="event-bad57c282435ef8d"></a>
-
-## Stellars x Elroy Open Sharing Session
-
-- Record: `token2049-evt-RMCZX5L2qubUrBF`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-09T06:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/arcweek-hl2y>
-
-### About the event
-
-Stellars x Elroy Open Sharing Session is scheduled for 9 October 2026 at 14:00 (Asia/Singapore) in Singapore. Hosted by ARC, Nickoo.
-
-We're setting aside some time for an ichatuchatme session with Elroy
-
-We're keeping this as a small-group sharing session so everyone has a chance to speak.
-
-Prefer a 1-to-1 session with Elroy instead?
-
-Registration requires host approval. Registration is listed as free.
-
-<a id="event-efbac9a183420391"></a>
-
-## Invite-only Governing AI Agents Without Operators: Compliance, Custody, and Cross-Border Recognition for Autonomous Payments
-
-- Record: `token2049-evt-bsc8pcoBgkXdwhL`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-09T06:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/d8tt1f7i>
-
-### About the event
-
-[Invite-only] Governing AI Agents Without Operators: Compliance, Custody, and Cross-Border Recognition for Autonomous Payments is scheduled for 9 October 2026 at 14:30 (Asia/Singapore) in Singapore. Hosted by Bernice Neo, Sheng, Jael Tan.
-
-A High-Level Closed-Door Regulatory Roundtable | Co-Organised by GFTN & DCGG, Hosted by INSEAD
-
-The core thematic focus of the roundtable is Governing AI Agents Without Operators.
-
-This roundtable is held under the Chatham House Rule (participants may use the information received, but neither identity nor affiliation may be revealed).
-
-Registration requires host approval. Registration is listed as free.
 
 <a id="event-69c70758f36c8346"></a>
 
@@ -11077,266 +10832,6 @@ Refund Policy
 
 Once your registration has been approved and payment has been processed, tickets are non-refundable (can be transferred to another person until 25th of Sep, unless the event is cancelled by Arts DAO
 
-<a id="event-134f76818eda3b02"></a>
-
-## AI Hackathon: Sales Copilot AI
-
-- Record: `luma-crypto-Idth15LWAl7MhKh`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-10-08T18:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/qzct3ybt>
-
-### About the event
-
-Venture Mindset Hackathon - Reinvent Yourself in SF - builders, founders and judges: GSB/MSx, YC...
-
-Doors open at 11:00 AM sharp.
-
-Entry closes at 11:15 AM or once we're full - come early!
-
-Join us on January 17 (Sat), 2026 in downtown SF for a one-day Hackathon focused on bold ideas, teamwork, and innovation.
-
-Participants create a clear vision of who they want to become in 10 years - not in a linear way, but in an exponential, ambitious way, similar to how venture investors think about long-term growth.
-
-Why it matters:
-
-GSB/MSx alumni will see how the younger generation learns to think in true Stanford GSB style - with courage, long-term vision, and strategic imagination.
-
-Challenge:
-
-Create the ultimate AI sales copilot!
-
-This hackathon is for developers, product managers, sales engineers, marketers, and AI enthusiasts who want to reinvent how sales teams work using AI.
-
-Choose the sales pain point you want to solve:
-
-- qualifying and prioritizing leads,
-- automating repetitive follow-ups,
-- optimizing sales funnels,
-- or giving teams real-time AI coaching during calls.
-
-The main goal is to build a working app or prototype that empowers sales teams, saves time, and drives measurable revenue impact.
-
-### Schedule
-
-10:00 AM | Doors Open & Breakfast Networking
-
-10:55 AM | Doors Close (or earlier if capacity is reached)
-
-11:00 AM | Team Kick-Off
-
-11:15 AM | Hacking Starts
-
-1:30 PM | Delicious Lunch Break (our special feature!)
-
-4:00 PM | Final Demos (2 min per team + 1 Q&A)
-
-5:00 PM | Networking
-
-6:00 PM | Doors Close
-
-### Prizes
-
-- 1st Place - $30k ** + TBA
-- 2nd Place - $20k ** + TBA
-- 3rd Place - $10k ** +TBA
-
-(**Prizes via equity through FAST Advisory Agreement; see disclaimer - **.)
-
-### Judges
-
-- OpenAI - TBA
-- YC Alumnus - TBA
-- Google - TBA
-- Apple - TBA
-- Cisco - TBA
-- NVIDIA - TBA
-- Perplexity - TBA
-
-Judging Note
-
-Our judges are selection-only and chosen through a thorough 2-step interview process. Last time, we received 65 applications - it's a tough and [competitive selection. Please, Apply here to become a judge](https://tally.so/r/w4lK7O)
-
-Judges' participation does not imply endorsement of any team, product, or technology.
-
-If you truly have something to bring to the table, or can help us by sponsoring the event, we'd love to hear from you.
-
-Mentors- TBA:
-
-- [Rashid Aliyev](https://www.linkedin.com/in/rashidaliyev/) | Innovator, ex Big-4, People's Choice Awardee
-- [Sako M](https://www.linkedin.com/in/sakom/) | Senior Software Engineer @ Gladly, Hackathon Champion
-- [Natalie Pan](https://linkedin.com/in/nataliepan) | [Founder of Funding Breakthrough Lab](https://fundingbreakthroughlab.org), Software Engineer, Cursor Vibe Coder, Hackathon Champion, Mindset Coach
-- Mentor #3 - spot is available
-- Mentor #4 - spot is available
-- Mentor #5 - spot is available
-- Mentor #6 - spot is available
-- Mentor #7 - spot is available
-
-Previous hackathon in San Francisco:
-
-- [GPT Hackathon](https://lu.ma/f5bo1xqu), San Francisco
-- [AI Vibe Coding Hackathon](https://lu.ma/8clf1otc), San Francisco
-
-### Hosts
-
-- [TatianaSF.com](http://TatianaSF.com) - Tatiana Isa (primary host)
-
-### Why Join?
-
-- Power Network: 100 + AI experts, YC founders, mentors, and advisors
-- Bold Innovation: Shape the Agent Era before it arrives
-- Electric Vibe: One day of hacking, learning, and building
-
-### Want to Join?
-
-- If you have ideas or would like to support the hackathon as a sponsor, volunteer, or you have any questions, please reach out anytime at https://www.linkedin.com/in/tatianasf/
-- [Judges - please, Apply here](https://tally.so/r/w4lK7O) for the selection process
-
-Let's build something extraordinary together.
-
-Register now!
-
-#AIhackathon #AgentEra #AIagents #SFtech #Hackathon2025 #YC #StartupLife #AIinSF #Innovation #Founders
-
-### [About me TatianaSF.com]
-
-http://TatianaSF.com
-
-Tatiana Isa is a San Francisco-based entrepreneur and five-time founder, best known as Co-Founder & GP at kitSF and as an advisor to AI and edtech startups. With over 20 years of experience and holding O-1A and EB-2 NIW visas, she champions innovation in education and technology.
-
-**Government Attendees Disclaimer:
-
-$ Prizes will be provided as equity issued through the FAST Advisory Agreement from the Founders Institute. Participants must send a confirmation email stating they have reviewed the equity award and that accepting it follows their local laws and their organization's rules.
-
-<a id="event-5074ddac55bb3c65"></a>
-
-## Sony Ventures x Taisu Innovation Summit: Soneium and Onchain Entertainment
-
-- Record: `luma-crypto-iuFabSnK5cWmb7t`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-10-09T02:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/w2vo3svp>
-
-### Join Us!
-
-A select gathering where startups and venture capitalists come together to explore the future of entertainment on Soneium, presented by Sony Ventures Corporation in collaboration with Taisu Ventures.
-
-Join industry leaders, innovative founders, and forward-thinking investors at an exclusive venue for a morning of meaningful connections and strategic insights. This curated event brings together startups and venture capitalists active at the intersection of onchain entertainment, intellectual property, and AI.
-
-### About This Event
-
-Sony Ventures Corporation and Taisu Ventures invite you to an exclusive networking summit designed for startups and investors shaping the future of entertainment.
-
-Limited to a select group of participants, this event offers valuable opportunities to exchange insights, explore potential collaborations, and build meaningful connections within the Soneium ecosystem.
-
-This is your opportunity to:
-
-Connect with leaders from Sony Ventures and Taisu Ventures
-
-- Meet founders building at the forefront of onchain entertainment
-- Discover partnership and investment opportunities within the Soneium ecosystem
-- Engage in discussions on the practical applications of blockchain technologies in entertainment and intellectual property
-
-### Event Details
-
-Date: October 9th, 2026
-
-Time: 10:00 am - 2:00 pm SGT
-
-Venue: disclosed upon approval
-
-### ▶10:00 am Welcome Reception & Networking
-
-Champagne & Coffee
-
-Premium refreshments and light catering. Champagne first-come first-served, unlimited coffee, tea and softdrinks.
-
-### ▶10:30 am ~ 11:00 am
-
-Opening Remarks
-
-- Takashi Hayashida - Taisu Ventures
-
-(Managing Partner)
-
-- Kaz Hadano - Sony Ventures
-
-(CEO)
-
-### ▶11:00 am ~ 11:30 am
-
-Panel Discussion
-
-Topic: IP, AI and the Blockchain: Real World Entertainment Use Cases
-
-### Moderator
-
-- Daniel Kim - Tiger Research
-
-(CEO)
-
-### Panelists
-
-- Ryohei Suzuki - Sony Group Corporation
-
-(General Manager, Crypto Business Department)
-
-- Takashi Hayashida - Taisu Ventures
-
-(Managing Partner)
-
-- Yuji Kumagai - Startale Group
-
-(Director of Strategic Partnerships)
-
-- Artem Petrov - CopySight
-
-(CEO)
-
-- Brian Hong - DayOneDream
-
-(Head of WAVIST)
-
-### ▶11:30 am ~ 14:00 pm
-
-Open Networking
-
-Connect with fellow founders, investors, and ecosystem builders
-
-### Why Attend?
-
-VC & Startup Focus: Direct access to active investors and high-potential startups in the onchain entertainment space
-
-High-Quality Networking: Intimate setting designed for substantive conversations and partnership opportunities focused on the Soneium Ecosystem.
-
-Exclusive Insights: Strategy insights from Sony Ventures and portfolio updates from Taisu Ventures
-
-Meet Decision Makers: Connect with executives, investors, and founders actively building and investing in the Soneium space
-
-Market Intelligence: Understand how Soneium Blockchain is transforming entertainment, IP, and digital content creation
-
-Strategic Partnerships: Identify co-investment opportunities and collaboration possibilities
-
-### Registration
-
-Capacity is limited. Invite only.
-
-※Please bring two business cards
-
-By entering this event, you acknowledge and consent that:
-
-- Photographs, video, and audio recordings will be taken during this event
-- Your image, voice, and likeness may be captured in these recordings
-- These materials may be used by Sony Ventures, Taisu Ventures, Sony Group, or Startale for promotional purposes, including but not limited to social media, websites, marketing materials, press releases, and internal communications
-- You waive any right to inspect or approve the finished materials
-- No compensation will be provided for the use of your image or likeness
-
-Partners & Hosts
-
-Sony Ventures, Taisu Ventures, Soneium
-
 <a id="event-23b279a07a398ddc"></a>
 
 ## Company Brain Hackathon: Build an AI Agent That Knows Your Organization
@@ -16454,148 +15949,6 @@ Speakers dinner - Raffles Hotel, October 6 VIP room (SOLD OUT) experience with H
 
 If you are planning your week around the best rooms, best people, and best after-hours plans, this is where it begins.
 
-<a id="event-cd75a75ee2f4079f"></a>
-
-## TDC Chicago Signal Forum
-
-- Record: `luma-batch-evtDGHVXG2wB52fj`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-08T16:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/r8ffjbpa>
-
-### About the event
-
-Built in the city that pioneered modern derivatives trading, TDC Chicago Signal Forum convenes the operators, institutions, and infrastructure leaders driving the evolution of financial systems. From Prediction Markets to AI to policy and emerging technology, the Forum creates space for practical, high-impact dialogue among the industry's most respected voices.
-
-This gathering is designed for executives who value substance, insight, and relationships that extend beyond the conference floor.
-
-### Agenda
-
-11:00AM: Doors Open + Brunch
-
-12:00PM: Welcome Remarks
-
-Cody Carbone, CEO, The Digital Chamber
-
-12:05-12:25PM: Washington on Prediction Markets, Crypto, and AI
-
-Representative Mariannette Miller-Meeks (R-IA)
-
-Moderator: Zunera Mazhar, VP, Policy & GR, The Digital Chamber
-
-12:25-12:50PM: Markets, Not Wagers
-
-Sudhir Jain, CCO and Head of Regulatory Affairs, Kalshi
-
-Josh Beardsley, Chief Compliance Officer, Crypto Derivatives North America, Crypto.com
-
-Moderator: Chen Arad, Solidus Labs
-
-12:50-1:05PM: States of Play: Crypto Policy's First Movers
-
-Anthony Apollo, Executive Director, Wyoming Stable Token Commission
-
-Moderator: Anastasia Dellaccio, Executive Director, State and Regional Affairs, The Digital Chamber
-
-1:05-1:30PM: Open Source, Onchain: AI Meets Web3
-
-Abhishek Vaidyanathan, Chief Legal Officer, NEAR Foundation
-
-Katherine Kirkpatrick Bos, Head of Legal, Chainlink
-
-Michael Piracci, Head of US Market Strategy, OKX
-
-Moderator: Jon Sabol, Associate General Counsel, Aptos Labs
-
-1:30-1:55PM: Making Markets in a Post-Clarity World
-
-Josh Riezman, Chief Legal & Strategy Officer, GSR
-
-Gerald Gallagher, General Counsel, Sei Labs
-
-Meaghan Dugan, Head of Derivatives, Cboe
-
-Moderator: Eileen Flaherty, CMT Digital
-
-1:55-2:20PM: Stablecoins & Settlement: The New Payment Rails
-
-Stephen Gardner, Co-President, zerohash
-
-Adam Zuckerman, Co-Founder, Better Money
-
-Francesco Castella, Senior Manager, Global Policy & Government Affairs, Circle
-
-2:20-3:00PM: Networking Break
-
-3:00-3:15PM: Illinois Lawsuit
-
-Olta Andoni, Illinois Blockchain Association; Partner, Bellementis
-
-Moderator: Jonathan Schmalfeld, Policy Director, The Digital Chamber
-
-3:15-3:25PM: Derivatives Meets Digital Assets
-
-Tim McCourt, Senior Managing Director, Global Head, Equities, DX, and Alternative Products, CME Group
-
-3:25-3:45PM: Where Oversight Meets Self-Regulation, CFTC and NFA on What's Next
-
-David Miller, Director of Enforcement, CFTC
-
-Renato Mariotti, Partner, Paul Hastings
-
-3:45-4:10PM: Who Regulates the Future? Prediction Markets, Self-Regulation, and the CFTC
-
-Tarek Mansour, Co-founder, Kalshi
-
-Tom Sexton, President and Chief Executive Officer, National Futures Association
-
-Moderator: Rob Schwartz, Partner, Morgan, Lewis & Bockius LLP
-
-4:10-4:15PM: Closing Remarks
-
-Cody Carbone, CEO, The Digital Chamber
-
-4:15-5:15PM: Networking Happy Hour
-
-Please note: Tickets are non-transferable.
-
--
-
-This event adheres to the standards set by Congress and federal agencies. All aspects comply with gift rules, ethics regulations, and the policies outlined by the House and Senate Ethics Committees, as well as the Office of Government Ethics, ensuring appropriate participation by public officials and staff.
-
-Sponsorship Opportunities
-
-TDC Forum sponsorships provide direct access to an influential audience of institutional leaders, policymakers, investors, and executives shaping the future of digital assets and financial innovation.
-
-Sponsors receive premium brand visibility, curated networking access, and opportunities to engage meaningfully with senior decision-makers throughout the event experience.
-
-To explore sponsorship opportunities or partnership packages, please contact sponsorship@digitalchamber.org. Limited sponsorship placements are available to maintain an intentionally curated experience.
-
-Press and media interested in covering TDC Forum are invited to contact press@digitalchamber.org for credentialing and event information.
-
-<a id="event-2870a2eb5accddbf"></a>
-
-## Assets & Access @ Rickhouse Bar SF
-
-- Record: `luma-batch-kLLhQAqUSbfKTRp`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-09T00:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/sanfranciscooctober>
-
-### About the event
-
-Join us for SF's #1 founder, operator, and investor meetup.
-
-Hosted by Introduction.com, a private, invite only community of entrepreneurs, operators, and investors shaping the future with technology.
-
-This event is open to the general public and is not exclusive to Introduction.com members. For access to member only events please apply at Introduction.com.
-
-### Event details
-
-Hosted by Introduction.com (A private, invite-only network for founders, executives, and investors shaping the future with technology.), Jose Anaya | ZKsync, Sam Leichman. Venue: Rickhouse, 246 Kearny St, San Francisco, CA 94108, USA. The event takes place on October 9.
-
 <a id="event-0f188af5a994e18b"></a>
 
 ## Network State Conference: Singapore Oct 9, 2026
@@ -16613,162 +15966,6 @@ Democracy is about the consent of the governed. In the Internet age, that now me
 As a cornerstone of financial privacy, Zcash has consistently been featured at the Network State Conference. This year's events will expand on that coverage, beginning with a Zcash Zummit, with speakers including Zcash cofounder Zooko Wilcox, Zcash cofounder Sean Bowe of Tachyon, Zodl founder Josh Swihart, Vizor founder Josh Lee, Zakura cofounder Dev Ojha, Valar Group's Evan Forbes, Winklevoss Capital's Maxime Desalle, and Zcash Labs' Tom Howard. The full conference includes talks on startup societies, network states, digital nomadism, competitive government, legalizing innovation, and internet-first institutions.
 
 You'll watch presentations by startup society founders from around the world, explore them, and find the community that best fits you. Held in sunny Singapore on October 9, 2026, right after Token2049, at level 5 of the Marina Bay Sands Expo and Convention Centre. In-person tickets are only $99 and remote attendance is free. We look forward to seeing you there!
-
-<a id="event-d844179d6033ddc2"></a>
-
-## CONNECT by Cointelegraph: Singapore Edition
-
-- Record: `luma-batch-evtysvqWnbANDE9t`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-09T04:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/q23fn0vw>
-
-### About the event
-
-Hosted during TOKEN2049, CONNECT by Cointelegraph is a curated networking, content and pitch contest event that brings together Web3 founders, builders and investors, connecting the Web3 ecosystem.
-
-Pitch Competition
-
-Startup founders - APPLY NOW for a chance to pitch on stage and showcase your vision to a room full of decision-makers and Web3 key players!
-
-### Venue
-
-Cointelegraph Connect will take place at RASA Space, a contemporary event venue conveniently located for TOKEN2049 attendees. Easy to reach and designed for premium corporate events, its versatile layout and modern facilities make it the perfect setting.
-
-Host: Cointelegraph Accelerator
-
-The program helps find and support the next generation of leaders in the Web3 space, bringing together investors, startups, and relevant stakeholders to contribute to the development of Web3.
-
-Host: Cointelegraph
-
-Founded in 2013, Cointelegraph is the leading independent digital media resource covering a wide range of news on blockchain technology, crypto assets, and emerging fintech trends.
-
-Gold Partner: USDD
-
-USDD is a decentralized, over-collateralized stablecoin that is designed to be pegged 1:1 to the US dollar with enhanced stability and transparency. It aims to deliver security, decentralization, and stability within the crypto ecosystem. USDD is available to seamlessly integrate into DeFi platforms, offering a reliable and transparent asset that empowers users.
-
-Partner: FinHarbor
-
-FinHarbor is a technical platform provider for launching compliant, modular financial products - from wallets and neobanks to crypto ramps and OTC desks. Built on years of real-world fintech experience, our infrastructure helps clients launch faster, operate securely, and scale across fiat, crypto, and hybrid environments
-
-Partner: Mercuryo
-
-Mercuryo is a leading payment infrastructure platform in the digital token space. Its intuitive and robust solutions power the next generation of Web3 payment services by supporting payment use-case growth and on-chain integration.
-
-Partner: OneAsset
-
-OneAsset is building compliance-first market infrastructure for institutional commercial real estate. Its model brings together asset structuring, servicing, reporting, and transfer controls across the tokenized real estate lifecycle, designed to make real estate interests easier to verify, manage, and transact onchain.
-
-Partner: Inspira Labs
-
-Inspira Labs is a Web3 accelerator and Venture Studio that helps high-potential founders become fundable and launch-ready. We have supported 20+ portfolio companies, built a network of 300+ VC partners, and helped founders raise over $60M+ We work with leading ecosystems to help founders secure the right strategic partners, validate market fit and prepare for launch.
-
-Partner: Together.fun
-
-Together.fun (TOFU) is a social trading platform built for the modern crypto participant: the degen, the meme-lover, the alpha hunter. Real markets, powered by Hyperliquid - with your whole community trading right beside you.
-
-Pitch Competition Partner: Funders VC
-
-Funders is an intersection of VC and liquid DeFi. They invest in DeFi/RWA projects and run delta-neutral and yield strategies, supporting protocols and teams shaping the space. Managing $20M AUM, they tend to pick early-stage protocols and promising startups.
-
-Partner: Humandone
-
-Humandone is a product design and development studio specialising in modern digital experiences for startups and web3 companies. The team works across branding, app design, UX/UI systems, frontend development, and scalable infrastructure for crypto-native and consumer applications.
-
-Partner: BROIDR
-
-Founded in 2022, BROIDR is redefining the promotional merchandising industry by offering high-quality, responsibly sourced merchandise that companies are proud to give. We believe in creating memorable, sustainable brand experiences that resonate with people long after the first impression.
-
-<a id="event-4556271114df56a0"></a>
-
-## Pickleball + Crypto Whales 🐳🏓🇸🇬
-
-- Record: `luma-batch-evtIm8g8d6jd7HLA`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-09T06:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/6mv7bwxa>
-
-### About the event
-
-Pickleball + Bites + Networking | TOKEN2049 Singapore Week
-
-Trade the charts for the court
-
-As TOKEN2049 wraps up, join A36 Labs for an afternoon of pickleball, good food, music and conversations with the crypto community in Singapore
-
-Bringing together crypto traders, investors, founders, exchange teams, Payments, market makers, builders and industry professionals for a relaxed networking experience beyond the conference floor
-
-No panels, no pitches, just pickleball, bites and good connections
-
-### What to Expect
-
-Social pickleball sessions and friendly matches
-
-Meet crypto traders, investors, founders and industry professionals
-
-Food, refreshments and music
-
-Relaxed networking beyond the conference floor
-
-Friendly games and prizes
-
-Limited swag for confirmed guests
-
-All skill levels welcome
-
-Come for the games, stay for the food and the people you meet along the way
-
-TOKEN2049 Singapore 2026
-
-A36 Labs is an Official TOKEN2049 Partner
-
-Get 10% off TOKEN2049 Singapore tickets with code A36LABS
-
-A few moments from our previous A36 pickleball meetups in Singapore
-
-A36 Labs Token2049 : 2025 Singapore Highlights
-
-Partnerships & Sponsorships
-
-Partner opportunities are available for sports activations, food and beverage, prizes, merchandise, consumer products and ecosystem collaborations
-
-Email: events@a36labs.com
-
-Telegram: https://t.me/LakshDilliwal
-
-A36 Labs Token Singapore Week:
-
-Hosted by A36 Labs
-
-A36 Labs brings together founders, builders, investors and technology ecosystems through events, builder programs and global community initiatives across AI, Web3 and frontier technology
-
-🇨🇳 中文简介
-
-Pickleball + Crypto Whales
-
-TOKEN2049 即将结束，加入 A36 Labs，在新加坡参加一场轻松的匹克球社交活动
-
-与来自全球的加密货币交易员、投资人、创始人、交易所团队及 Web3 行业伙伴一起打球、享用美食、听音乐，结识新朋友
-
-没有演讲，没有推销，只有运动、美食和轻松的交流
-
-匹克球社交活动及友谊赛
-
-结识交易员、投资人、创始人及行业伙伴
-
-美食、饮品与音乐
-
-轻松交流，建立新的行业联系
-
-趣味比赛及奖品
-
-确认参加的嘉宾可获得限量周边礼品
-
-欢迎所有技术水平的参与者，初学者也可以参加
-
-由 A36 Labs 主办 | A36 Whale Week Singapore
 
 <a id="event-273c910ff211b623"></a>
 
@@ -16799,46 +15996,6 @@ You don't need to be a Superteam member to join.
 Bring your laptop. See you Friday.
 
 By signing up, you agree that Superteam Türkiye may take and share photos and videos of you from the event.
-
-<a id="event-7f452f1c15085b93"></a>
-
-## Strength & Flow
-
-- Record: `luma-batch-evtbE6gT6jhhp8bs`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-09T08:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/im2uyqlt>
-
-### About the event
-
-This week, BTSE invites you to experience a refreshing Wellness × Web3 Community Experience in Singapore, bringing together movement, meaningful connections, and the vibrant crypto community.
-
-Start your day with an energizing Pilates session designed to help you reset, recharge, and feel your best. After the workout, stay for a relaxed poolside gathering and connect with BTSE community members, Web3 builders, crypto enthusiasts, and industry friends.
-
-### What to Expect
-
-Energizing Pilates Session
-
-BTSE Community Networking
-
-Web3 & Crypto Conversations
-
-Poolside Relaxation
-
-Light Bites & Refreshing Drinks
-
-Exclusive BTSE Goodies
-
-Date: 6th OCT
-
-Location: Singapore
-
-Tickets: Free / RSVP Required
-
-Whether you're a BTSE user, Web3 builder, crypto enthusiast, or simply curious about the space, you're welcome to join us.
-
-Move your body. Meet your people. Connect with BTSE.
 
 <a id="event-18fa2ed8d5d8a392"></a>
 
@@ -22112,351 +21269,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-7c16bfebfdffdcac"></a>
-
-## Women in Bitcoin Quarterly Meetup
-
-- Record: `luma-evt-9PU7833xHd2GBWs`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T00:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/vdqnswd8>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-b1ca2a4d16fa8fe4"></a>
-
-## DIGITAL ASSET & TOKENIZATION SUMMIT - TRACKSIDE EDITION
-
-- Record: `luma-host-evt-evt-VgRWddlenvE8IAz`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T01:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/a19msg9w>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-62f09076527ff025"></a>
-
-## DAT Summit 2026
-
-- Record: `w3v-dat-summit-26-10-09`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T01:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://www.datsummit.io/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-85a53e6578d96e64"></a>
-
-## Sony Ventures x Taisu Innovation Summit: Soneium and Onchain Entertainment
-
-- Record: `luma-host-evt-evt-iuFabSnK5cWmb7t`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T02:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/w2vo3svp>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-0adc7161f9fda90b"></a>
-
-## Finality Forum @ Token2049 SG 2026
-
-- Record: `luma-host-evt-evt-l0Q2lprJGf8HgEj`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T02:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/g2lg0htf>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-1a383d2a8c4231f4"></a>
-
-## RWA SUMMIT SINGAPORE
-
-- Record: `luma-host-evt-evt-zAyu5ZBhfODnpJE`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T02:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/rwasummit>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-a1d4f8fc940fcf0b"></a>
-
-## Perp Traders Mixer @Token2049 Singapore
-
-- Record: `token2049-side-6a531b033438be070d7a9a98`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T02:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/lh5uxlii>
-
-### About the event
-
-Sponsorship slots are open - reach out to get the deck.
-
-[Ecosystem Partners: Lighter](https://lighter.xyz/)| [Pacifica](https://app.pacifica.fi/) | [CryptoMondays](https://www.cryptomondays.io/)
-
-- Lighter - Lighter: Perp Dex with $44B total volume in last 30 day; on Ethereum L2, built with custom ZK circuits for low-cost, low-latency, verifiable trading
-- Pacifica - Perp dex with $10B total volume in last 30 day; on Solana, offering up to 50x leverage with fast execution and deep liquidity
-- CryptoMondays - a global crypto networking community (includes 150,000+ members worldwide) running regular meetups across major hubs
-
-[Media Partners: Coin Gabbar](https://www.coingabbar.com/) | [Yellow Media](https://yellow.com/)
-
-Coin Gabbar - crypto news, price analysis and token-launch coverage for a fast-growing retail audience across India and Asia.
-
-[Yellow.com](https://Yellow.com) - an independent news site covering crypto, AI and digital finance. Five journalists, daily original reporting in 20 languages, read by over 500,000 people a month.
-
-________________________________________________________________________
-
-HyprEarn is hosting an invite-only morning mixer for the Hyperliquid and perp trading community during Token2049 Singapore. Join perp traders, HL-native funds, protocol and ecosystem teams, AI trading builders and VCs active in perp/DeFi for a curated 2-3 hour networking session, featuring panels and fireside chats with leaders shaping the future of perpetuals.
-
-When: Friday, October 9, 2026, 10:00 AM - 2:00 PM
-
-Where: Singapore (venue TBD)
-
-Format: Curated, invite-only networking mixer + panels & fireside chats
-
-Interested in sponsoring? HyprEarn is partnering with select teams for this event. Sponsorship gives brand visibility across the event page, banners, and social channels, plus IRL access to a targeted perp/HL audience. Reach out to us on X @HyprEarn or via Telegram (@prakhhaar, @napolean0, @dasxri) to request the sponsor deck.
-
-[Website: hyprearn.com](https://hyprearn.com)
-
-Apply to attend: registration is invite-only.
-
-<a id="event-bbbd2ebd8214d87f"></a>
-
-## Finality Forum @ Token2049 SG 2026
-
-- Record: `token2049-side-6a5ea218d1b48ddf39d0835f`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T02:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/g2lg0htf>
-
-### About the event
-
-Finality Forum is an invite-only forum focused on institutional digital assets, and will be capped at 300 attendees. Please apply in the link and await your confirmation.
-
-### About Finality Forum
-
-Held on 9 Oct 2026, Finality Forum is a full-day conference focused on institutional digital assets - with tracks across Infrastructure, Payments & Stablecoins, RWA & Tokenization, Agentic Commerce, Trading & Institutional Liquidity, and Institutional Privacy.
-
-This edition of Finality Forum will be held during Token2049 Singapore Week, and will feature the following tracks:
-
-- Infrastructure: The foundational layers - chains, custody, and the systems institutions are actually building on.
-- Payments & Stablecoins: Where stablecoins stop being a crypto story and start being the global payments story.
-- Real World Assets & Tokenization: Real assets, on-chain. The bridge between traditional finance and programmable markets.
-- Agentic Commerce: Autonomous agents, on-chain compute, and what happens when AI needs a wallet.
-- Trading & Institutional Liquidity: The desks, market makers, and infrastructure moving institutional-scale capital on-chain.
-- Institutional Privacy: Confidentiality without compromise - the privacy infrastructure institutions need to participate.
-
-Current speakers for Finality Forum include Avalanche, Base, Bitgo, Bloomberg, Canton, Chainlink, Coingecko, FalconX, Flow Traders, Flowdesk, Four Pillars, Google Gemini, GSR, Kaito, Kraken, Miden, Nansen, Nethermind, Ondo, Osero, Paxos, Pyth, Stripe, Tether, Visa, Wintermute, Wormhole, xStocks.
-
-For more information, visit:
-
-- Website: https://finalityforum.xyz
-- X: https://x.com/FinalityForum
-- LinkedIn: https://www.linkedin.com/company/finality-forum/
-
-<a id="event-41cd7ba1a921ae23"></a>
-
-## RWA SUMMIT SINGAPORE
-
-- Record: `token2049-side-6a6026bf5a75007b41fff94b`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T02:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/rwasummit>
-
-### About the event
-
-RWA SUMMIT Singapore, the core event of Singapore RWA WEEK, is set to bring together more than 1,500 attendees, 70+ speakers, and 200+ investors shaping the future of asset tokenization.
-
-[The initiative is produced by Uvecon.VC](http://uvecon.vc) [and UVC GROUP](https://uvc.group). [Strategic Partners: LynxCap Investments](https://lynxcapinvestments.com), [dYdX Foundation](https://dydx.foundation), [Theoriq Foundation](https://theoriq.ai) [GeoTicker](https://geoticker.com)
-
-RWA WEEK builds on the growing global momentum of [the sector and follows the success of RWA Summit Hong Kong](https://rwasummit.global/hongkong2026) [and RWA SUMMIT Dubai](https://rwasummit.global/dubai), which gathered leading voices from across blockchain, venture capital, and traditional finance to discuss the rapidly evolving tokenization landscape.
-
-Interested in partnership? Contact us: contact@rwaweek.com
-
-Check updates on our websites:
-
-RWA SUMMIT
-
-https://rwasummit.global/singapore
-
-RWA WEEK
-
-https://rwaweek.com/singapore
-
-Our events:
-
-THE DEALFLOW https://luma.com/dealflowsg
-
-TOKENISED VIP https://luma.com/tokenised
-
-<a id="event-57ddfe6f3278f7b0"></a>
-
-## DAT SUMMIT - TRACKSIDE EDITION
-
-- Record: `w3v-dat-summit---trackside-edition`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T02:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/a19msg9w>
-
-### About the event
-
-30,000 people will be in Singapore for Token2049. Only 300 will be in this room.
-
-Following successful institutional editions in Abu Dhabi and Hong Kong, Digital Asset & Tokenization Summit: Trackside Edition arrives in Singapore on 9 October, alongside Token2049, on the opening day of Singapore Formula 1 Grand Prix.
-
-Hosted at Monti Singapore, overlooking the iconic Marina Bay circuit, the summit will bring together 300 founders, institutional investors, family offices, public market executives, policymakers, technology leaders, and Tier 1 media for an afternoon of high-level discussions, strategic networking, exclusive insights, champagne, canapés, and the unapologetic energy of Grand Prix weekend.
-
----
-
-### Agenda
-
-10:00 AM - 11:00 AM | Registration & Networking Breakfast
-
-11:00 AM - 11:15 AM | Welcome Speech - Nikita Sachdev, Founder & CEO, Luna PR
-
-11:15 AM - 11:45 AM | Panel 1: Autonomous Finance: When AI Agents Trade, Allocate and Move Money.
-
-11:45 AM - 12:15 PM | Panel 2: The Capital Race: Where Will the Next Trillion Dollars in Technology Be Invested?
-
-12:15 PM - 12:45 PM | Panel 3: Financing Frontier Technology: From Private Capital to Public Markets.
-
-12:45 PM - 1:15 PM | Panel 4: Powering Intelligence: Energy, Data Centres and the Race for Compute.
-
-1:15 PM - 1:45 PM | Panel 5: The Defense Tech Renaissance: Capital, Innovation and Global Power.
-
-1:45 PM - 2:00 PM | Keynote: The Great Asset Migration: Bringing Real-World Assets On-Chain.
-
-2:00 PM - 2:15 PM | Closing Remarks & Champagne Toast
-
-2:15 PM - 5:00 PM | Networking Reception
-
----
-
-### About Digital Asset & Tokenization Summit
-
-Digital Asset & Tokenization Summit is an institutional event exploring the intersection of digital assets, AI, capital markets, energy, and emerging technologies. It brings together senior leaders and high profile individuals to discuss where capital is flowing, what infrastructure is being built, and how the next generation of global innovation will be financed.
-
-Hosted by Luna PR ([lunapr.io](https://lunapr.io)), the world's leading PR and communications agency specializing in emerging technologies, The Digital Asset & Tokenization Summit builds on the firm's global network across digital assets, artificial intelligence, fintech, venture capital, and public markets. Luna PR has partnered with hundreds of pioneering companies, institutions, founders, and investors, and regularly convenes senior decision-makers through exclusive executive roundtables, institutional forums, and global industry events.
-
-Whether you're looking to raise capital, forge strategic partnerships, enter new markets, or stay ahead of the trends shaping tomorrow's economy, The Digital Asset & Tokenization Summit offers direct access to the people driving the conversation.
-
-Learn more: https://www.datsummit.io
-
-Attendance is capped at 300 guests. RSVP required. First come, first served, with Luna PR clients and invited speakers receiving priority access.
-
-By registering for this event, you consent to your email address being used and shared with the event organisers and relevant partners for event-related communications.
-
-<a id="event-545651abf694b95e"></a>
-
-## Sony Ventures x Taisu Innovation Summit: Soneium and Onchain Entertainment
-
-- Record: `w3v-sony-ventures-x-taisu-innovation-summit-26-10-09`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T02:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/w2vo3svp>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-b9190c8fd9a54563"></a>
-
-## BitAngels Singapore 2026
-
-- Record: `token2049-side-6aa51a468ffcc4e5ece11007`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T02:45:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/1dk27l6a>
-
-### About the event
-
-BitAngels is bringing our investor network and pitch event back to Singapore during TOKEN2049 week.
-
-We're looking for strong Web3 founders and projects actively raising who want to pitch in front of experienced angels, VCs, and industry leaders while the global crypto ecosystem is in town.
-
-BitAngels has been investing in crypto since 2013, with early involvement in Mastercoin and a seven-figure investment in Ethereum's 2014 ICO at $0.30, along with notable investments including Tether and EOS.
-
-Applications to pitch close October 3.
-
-Apply here:
-
-https://bitangels.network/apply-to-pitch
-
-For investors, speakers, or sponsors, DM me directly on TG @RiderLDA.
-
-And since I get asked this often: BitAngels is not Bitcoin-only. Projects from across Web3 are welcome to apply.
-
-See you in Singapore 🇸🇬
-
-<a id="event-590118d49d7240ef"></a>
-
-## The Best Event: Above the Skyline
-
-- Record: `token2049-side-6aa173bdd567345aad6851b8`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T03:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/TBE-Skyline>
-
-### About the event
-
-Join The Best Event Above the Skyline as the week shifts gears. Token week gives way to Race week, and Above the Skyline is where that handoff happens over brunch, high above a city about to go into overdrive.
-
-Brought to you by The Best Event, this is the kickoff where the F1 energy takes over.
-
-Above The Skyline is hosted at Singapore's most premium penthouse suite, in an iconic 5-star hotel overlooking Marina Bay. With floor-to-ceiling views of the bay, this premium space reflects the calibre of company you can expect and a level of exclusivity you shouldn't miss.
-
-### Hosted By
-
-[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
-
-For sponsor inquiries [for the penthouse editions, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.
-
-<a id="event-e741bed74d2c3c00"></a>
-
-## Blockchain Association Singapore Digital Assets Forum 2026 - Building Onchain in the Agentic era
-
-- Record: `luma-host-evt-evt-GEenAYO83msTTak`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T06:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/ig33t77h>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-ffcaf9171e08b0c4"></a>
-
-## Pickleball + Crypto Whales 🐳🏓🇸🇬
-
-- Record: `luma-host-evt-evt-Im8g8d6jd7HLA95`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T06:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/6mv7bwxa>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-48f80ed8128bf032"></a>
-
-## Pickleball + Crypto Whales
-
-- Record: `w3v-pickleball-crypto-whales-26-10-09`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T06:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/6mv7bwxa>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-3006b712ec144950"></a>
 
 ## THE INSTITUTIONAL HOUSE: TRADING · DEFI · RWA · AI · LIQUIDITY \| Singapore \| 🗓 9th October \| During Token2049
@@ -22563,81 +21375,6 @@ No forced networking.
 Just a carefully curated group, great hospitality, good music, and the kind of conversations that are difficult to have in a crowded conference venue.
 
 Attendance is limited and subject to approval. Registering through Luma does not automatically guarantee entry. Approved guests will receive the final confirmation and boarding details directly.
-
-<a id="event-f1a5a3ac2eb094ee"></a>
-
-## Milken Institute Asia Summit - Day 3
-
-- Record: `token2049-side-6a73992d5a75007b41001068`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T08:00:00+08:00
-- Description: Source-backed
-- Original page: <https://milkeninstitute.org/events/asia-summit-2026>
-
-### Asia Summit 2026
-
-The 2026 Milken Institute Asia Summit brings together a global community of influential leaders shaping the next era of intelligence, collaboration, and growth. The event is where capital comes to find the best ideas and participants forge new partnerships to lead transformation at scale toward greater shared prosperity.Under the theme Leading with Intelligence, the 13th Asia Summit explores how technology, information, and human judgment can address the defining economic, geopolitical, demographic, and environmental challenges facing Asia and the world.
-
-Across our core programmatic themes of business, finance, philanthropy, and health, and a new track on AI innovation, investment, and sovereignty, the event convenes leaders from across industries and sectors for thoughtful dialogue, informed decision-making, and impactful outcomes for more people around the world.At a time of rapid global change, the Asia Summit aims to promote practical solutions, strengthen regional and international cooperation, and create new opportunities for inclusive and sustainable growth. Join us in Singapore as we explore the ideas, partnerships, and leadership needed to help shape a more resilient and vibrant future.
-
-Four Seasons Hotel190 Orchard BlvdSingaporeSponsor Opportunities
-
-### Solving Challenges
-
-Exploring the opportunities and challenges of artificial intelligence (AI), AI investment and sovereignty, emerging technologies, business and industry transformation, capital access, financial markets, health and medical research, jobs and education, philanthropy, public policy, sustainability, and more.
-
-### Recent Milken Institute Speakers
-
-Recent Milken Institute event speakers have included leaders at the forefront of artificial intelligence, technology, business, finance, health, and policy, including Jensen Huang, Jane Fraser, Forrest Li, Tulsi Naidu, Dilhan Pillay Sandrasegara, Hadi Badri, and others.
-
-### Recommend an Asia Summit Speaker
-
-The Milken Institute features the foremost experts and thought leaders on stage, including leaders driving advances in artificial intelligence, technology, business, finance, health, and public policy. We welcome speaker recommendations for Asia Summit 2026.
-
-### Impactful Ideas: Purposeful Action
-
-The 11th annual Asia Summit brings together global leaders who are leading the charge against humanity's most urgent challenges.
-
-### FAQs
-
-The theme of Asia Summit 2026 is Leading with Intelligence. The program will explore how technology, data, and human judgment can support better decision-making, stronger partnerships, and more inclusive growth.
-
-Asia Summit 2026 takes place October 7-9, 2026, at the Four Seasons Hotel in Singapore.
-
-The focus of Asia Summit 2026 is Leading with Intelligence. The Summit will explore how technology, data, and human judgment can help address economic, geopolitical, demographic, and environmental challenges while supporting sustainable growth, stronger partnerships, and better decision-making across Asia and beyond.
-
-Asia Summit attendees include investors, business leaders, policymakers, entrepreneurs, philanthropists, researchers, technology innovators, and other decision-makers working across sectors to advance economic growth, innovation, and social impact.
-
-Asia Summit 2026 will feature discussions on artificial intelligence (AI) and emerging technologies, business and industry transformation, capital access, financial markets, health and medical research, jobs and education, philanthropy, public policy, sustainability, and regional and global cooperation.
-
-Organizations and individuals can get involved by attending the event, becoming a sponsor, or recommending a speaker for Asia Summit 2026.
-
-The Milken Institute welcomes speaker recommendations for Asia Summit 2026. Recommended speakers should be recognized leaders, experts, innovators, or changemakers whose insights can contribute to discussions on the most important issues shaping Asia and the world. Individuals can submit recommendations through the Asia Summit speaker recommendation process on the event website.
-
-<a id="event-7a67932a6a959efc"></a>
-
-## Vault Summit: Singapore
-
-- Record: `token2049-side-6a622e12d1b48ddf39d08981`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T09:00:00+08:00
-- Description: Source-backed
-- Original page: <https://sg2026.vaultsummit.xyz>
-- Original page: <https://sg2026.vaultsummit.xyz/>
-
-### About the event
-
-Vault Summit is a global conference series focused on onchain vault infrastructure for institutional asset management. Vault Summit: Singapore takes place October 9, 2026, 9:00 AM-6:00 PM at Andaz Singapore.
-
-### Program
-
-Institutional confidence in on-chain asset management, built vault by vault. Full access covers the single-day program for institutional asset managers exploring vault infrastructure.
-
-### Hosts and tickets
-
-Hosts include Arbitrum One, Morpho, and DigiFT. General Admission full access is listed at US$750; the early bird sale has ended. Applications run through the official tickets page.
-
-The series is produced by BlockLive. Contact the organizers and apply through the official tickets page.
 
 <a id="event-eb435b8eb1449910"></a>
 
@@ -32735,6 +31472,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-553ba8eecbef4110"></a>
+
+## London Workshop: Vaults in Practice – How Financial Institutions Capture Onchain Yield
+
+- Record: `luma-evt-futrlVtSKm5AC1e`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-09T16:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/cwufkzk1>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-820482ca11fdbd71"></a>
+
+## Mayfair Business and Funding - Mayfair Mercato. DIGITAL ASSET MEETUP Sponsored by www.thefundingcaptain.com
+
+- Record: `luma-evt-REcCfMyZH21PQov`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-09T16:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/atr123ws>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-1b5c74d1ed7fe066"></a>
 
 ## Blockstories Horizon 2026: London Summit
@@ -32756,6 +31517,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-09T17:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/bn9y6z5y>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-084a663bed298dda"></a>
+
+## Riserva London \| Digital Assets under pressure: Sanctions, Enforcement and Economic Crime, Fireside with Fieldfisher.
+
+- Record: `luma-evt-hEPVDHswwbLlwGV`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-09T17:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/g4w56vmw>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -33370,6 +32143,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-12T02:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/rzk1407q>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-c794eb40b02fcad4"></a>
+
+## Fresh Connections by Oxylabs: VapiCon Afterparty
+
+- Record: `luma-evt-aLseLPG1JKz7qnd`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-12T02:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/80rtug4b>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-7cd46762f4b0344f"></a>
+
+## What Happens When a Country Gets Hacked? Cyberwar and the Systems We Depend On
+
+- Record: `luma-evt-2M71G5Aik0h81l2`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-12T03:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/lprchbdo>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -35531,6 +34328,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-00b396a460719edf"></a>
+
+## Re-Defined x Deloitte Canada
+
+- Record: `luma-evt-TqpF9LxYGB6BTHE`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-20T22:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/re-p2sb>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-17999a20d13df500"></a>
 
 ## HERHACK 2026
@@ -36348,6 +35157,18 @@ A 30-minute Google Meet call about Solana and Superteam Canada, hosted by Simon.
 - Starts: 2027-01-13T00:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://cfc-stmoritz.com/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-eacfe7382808a287"></a>
+
+## AI Builders x Base44 Buildathon
+
+- Record: `luma-evt-DFEks3d2vkTrYFr`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-01-14T15:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/mia-jan14-hday>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

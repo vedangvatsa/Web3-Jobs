@@ -325,50 +325,6 @@
     "slug": "sec"
   },
   {
-    "id": "w3v-dat-summit---trackside-edition",
-    "name": "DAT SUMMIT - TRACKSIDE EDITION",
-    "description": "30,000 people will be in Singapore for Token2049. Only 300 will be in this room.\n\nFollowing successful institutional editions in Abu Dhabi and Hong Kong, Digital Asset & Tokenization Summit: Trackside Edition arrives in Singapore on 9 October, alongside Token2049, on the opening day of Singapore Formula 1 Grand Prix.\n\nHosted at Monti Singapore, overlooking the iconic Marina Bay circuit, the summit will bring together 300 founders, institutional investors, family offices, public market executives, policymakers, technology leaders, and Tier 1 media for an afternoon of high-level discussions, strategic networking, exclusive insights, champagne, canapés, and the unapologetic energy of Grand Prix weekend.\n\n---\n\nAgenda\n\n10:00 AM – 11:00 AM | Registration & Networking Breakfast\n\n11:00 AM – 11:15 AM | Welcome Speech – Nikita Sachdev, Founder & CEO, Luna PR\n\n11:15 AM – 11:45 AM | Panel 1: Autonomous Finance: When AI Agents Trade, Allocate and Move Money.\n\n11:45 AM – 12:15 PM | Panel 2: The Capital Race: Where Will the Next Trillion Dollars in Technology Be Invested?\n\n12:15 PM – 12:45 PM | Panel 3: Financing Frontier Technology: From Private Capital to Public Markets.\n\n12:45 PM – 1:15 PM | Panel 4: Powering Intelligence: Energy, Data Centres and the Race for Compute.\n\n1:15 PM – 1:45 PM | Panel 5: The Defense Tech Renaissance: Capital, Innovation and Global Power.\n\n1:45 PM – 2:00 PM | Keynote: The Great Asset Migration: Bringing Real-World Assets On-Chain.\n\n2:00 PM – 2:15 PM | Closing Remarks & Champagne Toast\n\n2:15 PM – 5:00 PM | Networking Reception\n\n---\n\nAbout Digital Asset & Tokenization Summit\n\nDigital Asset & Tokenization Summit is an institutional event exploring the intersection of digital assets, AI, capital markets, energy, and emerging technologies. It brings together senior leaders and high profile individuals to discuss where capital is flowing, what infrastructure is being built, and how the next generation of global innovation will be financed.\n\nHosted by Luna PR ([lunapr.io](https://lunapr.io)), the world's leading PR and communications agency specializing in emerging technologies, The Digital Asset & Tokenization Summit builds on the firm's global network across digital assets, artificial intelligence, fintech, venture capital, and public markets. Luna PR has partnered with hundreds of pioneering companies, institutions, founders, and investors, and regularly convenes senior decision-makers through exclusive executive roundtables, institutional forums, and global industry events.\n\nWhether you're looking to raise capital, forge strategic partnerships, enter new markets, or stay ahead of the trends shaping tomorrow's economy, The Digital Asset & Tokenization Summit offers direct access to the people driving the conversation.\n\nLearn more: https://www.datsummit.io\n\nAttendance is capped at 300 guests. RSVP required. First come, first served, with Luna PR clients and invited speakers receiving priority access.\n\nBy registering for this event, you consent to your email address being used and shared with the event organisers and relevant partners for event-related communications.",
-    "startDate": "2026-10-09T02:00:00.000Z",
-    "endDate": "2026-10-09T09:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/a19msg9w",
-    "coverImage": "/events/w3v-dat-summit-trackside-edition-f46c9247.webp",
-    "source": "token2049-official",
-    "bypassedFilter": true,
-    "month": "October 2026",
-    "category": "Networking",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "Luna PR"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "slug": "dste",
-    "registrationUrl": "https://luma.com/a19msg9w",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/a19msg9w",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/a19msg9w",
-      "eventId": "evt-VgRWddlenvE8IAz",
-      "fetchedAt": "2026-09-19T23:54:49.592Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "w3v-yacht-party---crypto-whales",
     "name": "Yacht Party- Crypto Whales",
     "description": "Exclusive Private Night on the Water During TOKEN2049 Singapore.\n\nDuring TOKEN2049 week, we’re bringing together a group of crypto’s most connected investors, fund managers, founders, whales, and industry decision-makers for a private evening on the water in Singapore.\n\nAway from crowded side events, conference floors, and endless networking rooms, this is a night built around something much simpler: bringing the right people together in the right setting.\n\nStep aboard a private luxury yacht and spend the evening cruising through Singapore’s waters as the city lights come alive. Expect an intimate guest list, premium drinks, curated food, a live DJ, music, and an atmosphere designed for conversations that continue long after the conference day ends.\n\nThe Night\n\nAs the sun goes down, the yacht sets out into the Singapore night.\n\nDrinks are flowing, dinner is served, the DJ takes over, and the skyline becomes the backdrop.\n\nThere will be plenty of time to move around, meet people, have private conversations, enjoy the music, and take in the city from the water.\n\nNo stages.\nNo long presentations.\nNo forced networking.\n\nJust a carefully curated group, great hospitality, good music, and the kind of conversations that are difficult to have in a crowded conference venue.\n\nAttendance is limited and subject to approval. Registering through Luma does not automatically guarantee entry. Approved guests will receive the final confirmation and boarding details directly.",
@@ -2221,51 +2177,6 @@
     "slug": "after-2049"
   },
   {
-    "id": "token2049-side-6a531b033438be070d7a9a98",
-    "name": "Perp Traders Mixer @Token2049 Singapore",
-    "description": "Sponsorship slots are open - reach out to get the deck.\n\n[Ecosystem Partners: Lighter](https://lighter.xyz/)| [Pacifica](https://app.pacifica.fi/) | [CryptoMondays](https://www.cryptomondays.io/)\n\n• Lighter - Lighter: Perp Dex with $44B total volume in last 30 day; on Ethereum L2, built with custom ZK circuits for low-cost, low-latency, verifiable trading\n• Pacifica - Perp dex with $10B total volume in last 30 day; on Solana, offering up to 50x leverage with fast execution and deep liquidity\n• CryptoMondays - a global crypto networking community (includes 150,000+ members worldwide) running regular meetups across major hubs\n\n[Media Partners: Coin Gabbar](https://www.coingabbar.com/) | [Yellow Media](https://yellow.com/)\n\nCoin Gabbar - crypto news, price analysis and token-launch coverage for a fast-growing retail audience across India and Asia.\n\n[Yellow.com](https://Yellow.com) - an independent news site covering crypto, AI and digital finance. Five journalists, daily original reporting in 20 languages, read by over 500,000 people a month.\n________________________________________________________________________\n\nHyprEarn is hosting an invite-only morning mixer for the Hyperliquid and perp trading community during Token2049 Singapore. Join perp traders, HL-native funds, protocol and ecosystem teams, AI trading builders and VCs active in perp/DeFi for a curated 2-3 hour networking session, featuring panels and fireside chats with leaders shaping the future of perpetuals.\n\nWhen: Friday, October 9, 2026, 10:00 AM - 2:00 PM\nWhere: Singapore (venue TBD)\nFormat: Curated, invite-only networking mixer + panels & fireside chats\n\nInterested in sponsoring? HyprEarn is partnering with select teams for this event. Sponsorship gives brand visibility across the event page, banners, and social channels, plus IRL access to a targeted perp/HL audience. Reach out to us on X @HyprEarn or via Telegram (@prakhhaar, @napolean0, @dasxri) to request the sponsor deck.\n\n[Website: hyprearn.com](https://hyprearn.com)\nApply to attend: registration is invite-only.",
-    "startDate": "2026-10-09T02:00:00.000Z",
-    "endDate": "2026-10-09T06:00:00.000Z",
-    "location": "Location to be announced",
-    "url": "https://luma.com/lh5uxlii",
-    "coverImage": "/events/token2049-side-6a531b033438be070d7a9a98-66eed974.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Networking",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "Abhay S",
-      "HyprEarn",
-      "DappLooker",
-      "Abhinav"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "slug": "hptm",
-    "registrationUrl": "https://luma.com/lh5uxlii",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Singapore (Venue TBD)",
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/lh5uxlii",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/lh5uxlii",
-      "eventId": "evt-9KMWyTIZxdsAuE5",
-      "fetchedAt": "2026-09-19T23:55:07.225Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "token2049-side-6a534c0347aa29a148924641",
     "name": "TRADERS WEEK | SINGAPORE 🇸🇬🏆",
     "description": "🚀 TRADERS WEEK | SINGAPORE 🚀\n\nJoin: https://game.tradingbattles.com/join/298\nYou can join the tournament at any moment of its duration!\n\n📍 100% Online Event | During Token2049 Week\n\nTrading Battles welcomes to a high-intensity, esports-style crypto showdown to find the best traders during the Token2049 Week!\n\nFor 5 days straight, traders from around the world compete in a 100% skill-based online tournament. Each participant trades with virtual funds - no deposits, no entry fees. Pure skill.\n\n🗓 Start: 5 October 2026, 10:00 AM (GMT+8, Singapore time)\n🏁 End: 10 October 2026, 10:00 AM (GMT+8, Singapore time)\n⏳ Duration: 5 days of continuous competition\n\nEvery participant enters the arena with:\n💰 10,000 USDT virtual balance\n📊 Real-time leaderboard tracking\n🎯 Rankings based strictly on performance (PnL)\n\n⚔️ Tournament Setup\n\n• Trade the Top 50 cryptocurrencies (by market cap)\n• Margin trading enabled\n• Leverage options: x2 | x5 | x10 | x20 | x50\n• Pure strategy, execution, and risk management decide the outcome\n\nThis is trading under pressure - competitive, transparent, and global.\n\nTelegram group to discuss your moves with other traders:\nTBA (link)\n\nNo luck. No shortcuts. Just performance.\n\n🚀 Enter the battle:\n[https://game.tradingbattles.com/join/298](https://game.tradingbattles.com/join/298?autojoin=true)\n\n_________________\n\n[www.tradingbattles.com](https://www.tradingbattles.com)\n\nTrading Battles is the infrastructure layer for 24/7 competitive trading, transforming trading into a new category of esports.",
@@ -2426,182 +2337,6 @@
     }
   },
   {
-    "id": "token2049-side-6a73992d5a75007b41001068",
-    "name": "Milken Institute Asia Summit - Day 3",
-    "description": "## Asia Summit 2026\n\nThe 2026 Milken Institute Asia Summit brings together a global community of influential leaders shaping the next era of intelligence, collaboration, and growth. The event is where capital comes to find the best ideas and participants forge new partnerships to lead transformation at scale toward greater shared prosperity.Under the theme Leading with Intelligence, the 13th Asia Summit explores how technology, information, and human judgment can address the defining economic, geopolitical, demographic, and environmental challenges facing Asia and the world. Across our core programmatic themes of business, finance, philanthropy, and health, and a new track on AI innovation, investment, and sovereignty, the event convenes leaders from across industries and sectors for thoughtful dialogue, informed decision-making, and impactful outcomes for more people around the world.At a time of rapid global change, the Asia Summit aims to promote practical solutions, strengthen regional and international cooperation, and create new opportunities for inclusive and sustainable growth. Join us in Singapore as we explore the ideas, partnerships, and leadership needed to help shape a more resilient and vibrant future.Download the Asia Summit Fact Sheet\n\nFour Seasons Hotel190 Orchard BlvdSingaporeSponsor Opportunities\n\n## Solving Challenges\n\nExploring the opportunities and challenges of artificial intelligence (AI), AI investment and sovereignty, emerging technologies, business and industry transformation, capital access, financial markets, health and medical research, jobs and education, philanthropy, public policy, sustainability, and more.\n\n## Recent Milken Institute Speakers\n\nRecent Milken Institute event speakers have included leaders at the forefront of artificial intelligence, technology, business, finance, health, and policy, including Jensen Huang, Jane Fraser, Forrest Li, Tulsi Naidu, Dilhan Pillay Sandrasegara, Hadi Badri, and others.\n\n## Recommend an Asia Summit Speaker\n\nThe Milken Institute features the foremost experts and thought leaders on stage, including leaders driving advances in artificial intelligence, technology, business, finance, health, and public policy. We welcome speaker recommendations for Asia Summit 2026.\n\n## Past Asia Summits\n\n## Impactful Ideas: Purposeful Action\n\nThe 11th annual Asia Summit brings together global leaders who are leading the charge against humanity's most urgent challenges.\n\n## FAQs\n\nThe theme of Asia Summit 2026 is Leading with Intelligence. The program will explore how technology, data, and human judgment can support better decision-making, stronger partnerships, and more inclusive growth.\n\nAsia Summit 2026 takes place October 7–9, 2026, at the Four Seasons Hotel in Singapore.\n\nThe focus of Asia Summit 2026 is Leading with Intelligence. The Summit will explore how technology, data, and human judgment can help address economic, geopolitical, demographic, and environmental challenges while supporting sustainable growth, stronger partnerships, and better decision-making across Asia and beyond.\n\nAsia Summit attendees include investors, business leaders, policymakers, entrepreneurs, philanthropists, researchers, technology innovators, and other decision-makers working across sectors to advance economic growth, innovation, and social impact.\n\nAsia Summit 2026 will feature discussions on artificial intelligence (AI) and emerging technologies, business and industry transformation, capital access, financial markets, health and medical research, jobs and education, philanthropy, public policy, sustainability, and regional and global cooperation.\n\nOrganizations and individuals can get involved by attending the event, becoming a sponsor, or recommending a speaker for Asia Summit 2026.\n\nThe Milken Institute welcomes speaker recommendations for Asia Summit 2026. Recommended speakers should be recognized leaders, experts, innovators, or changemakers whose insights can contribute to discussions on the most important issues shaping Asia and the world. Individuals can submit recommendations through the Asia Summit speaker recommendation process on the event website.",
-    "startDate": "2026-10-09T08:00:00+08:00",
-    "endDate": "2026-10-09T18:00:00+08:00",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, SG",
-    "url": "https://milkeninstitute.org/events/asia-summit-2026",
-    "coverImage": "/events/token2049-side-6a73992d5a75007b41001068-6f05297b.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Conference/Summit",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "descriptionSource": {
-      "url": "https://milkeninstitute.org/events/asia-summit-2026",
-      "fetchedAt": "2026-09-20T00:21:00.681Z",
-      "method": "official-section",
-      "pageTitle": "Asia Summit 2026 | Milken Institute",
-      "sha256": "273107efc012d42e075297c1a7725cb44d2495585878f0300a23e4cd509dd05f"
-    }
-  },
-  {
-    "id": "token2049-side-6a622e12d1b48ddf39d08981",
-    "name": "Vault Summit: Singapore",
-    "description": "Vault Summit is a global conference series focused on onchain vault infrastructure for institutional asset management. Vault Summit: Singapore takes place October 9, 2026, 9:00 AM–6:00 PM at Andaz Singapore.\n\n## Program\n\nInstitutional confidence in on-chain asset management, built vault by vault. Full access covers the single-day program for institutional asset managers exploring vault infrastructure.\n\n## Hosts and tickets\n\nHosts include Arbitrum One, Morpho, and DigiFT. General Admission full access is listed at US$750; the early bird sale has ended. Applications run through the official tickets page.\n\nThe series is produced by BlockLive. Contact the organizers and apply through the official tickets page.",
-    "startDate": "2026-10-09T09:00:00+08:00",
-    "endDate": "2026-10-09T18:00:00+08:00",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Andaz Singapore, 5 Fraser St, Singapore 189354",
-    "url": "https://sg2026.vaultsummit.xyz",
-    "coverImage": "/events/token2049-side-6a622e12d1b48ddf39d08981-837c2be4.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Conference/Summit",
-    "price": "US$500-750",
-    "token2049SideEvent": true,
-    "descriptionSource": {
-      "url": "https://sg2026.vaultsummit.xyz/",
-      "fetchedAt": "2026-09-22T12:14:29.000Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Vault Summit: Singapore",
-      "sha256": "b4a3c26acdeea06fd604bae0fd06e1ec91a31dadeeaae699142de129f3c3c5fd"
-    },
-    "website": "https://sg2026.vaultsummit.xyz/",
-    "registrationUrl": "https://sg2026.vaultsummit.xyz/",
-    "timezone": "Asia/Singapore",
-    "venueName": "Andaz Singapore",
-    "streetAddress": "5 Fraser St",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "postalCode": "189354",
-    "hosts": [
-      "Morpho",
-      "DigiFT"
-    ],
-    "slug": "vault-summit"
-  },
-  {
-    "id": "token2049-side-6a5ea218d1b48ddf39d0835f",
-    "name": "Finality Forum @ Token2049 SG 2026",
-    "description": "Finality Forum is an invite-only forum focused on institutional digital assets, and will be capped at 300 attendees. Please apply in the link and await your confirmation.\n\nAbout Finality Forum\nHeld on 9 Oct 2026, Finality Forum is a full-day conference focused on institutional digital assets — with tracks across Infrastructure, Payments & Stablecoins, RWA & Tokenization, Agentic Commerce, Trading & Institutional Liquidity, and Institutional Privacy.\n\nThis edition of Finality Forum will be held during Token2049 Singapore Week, and will feature the following tracks:\n• Infrastructure: The foundational layers — chains, custody, and the systems institutions are actually building on.\n• Payments & Stablecoins: Where stablecoins stop being a crypto story and start being the global payments story.\n• Real World Assets & Tokenization: Real assets, on-chain. The bridge between traditional finance and programmable markets.\n• Agentic Commerce: Autonomous agents, on-chain compute, and what happens when AI needs a wallet.\n• Trading & Institutional Liquidity: The desks, market makers, and infrastructure moving institutional-scale capital on-chain.\n• Institutional Privacy: Confidentiality without compromise — the privacy infrastructure institutions need to participate.\n\nCurrent speakers for Finality Forum include Avalanche, Base, Bitgo, Bloomberg, Canton, Chainlink, Coingecko, FalconX, Flow Traders, Flowdesk, Four Pillars, Google Gemini, GSR, Kaito, Kraken, Miden, Nansen, Nethermind, Ondo, Osero, Paxos, Pyth, Stripe, Tether, Visa, Wintermute, Wormhole, xStocks.\n\nFor more information, visit:\n• Website: https://finalityforum.xyz\n• X: https://x.com/FinalityForum\n• LinkedIn: https://www.linkedin.com/company/finality-forum/",
-    "startDate": "2026-10-09T02:00:00.000Z",
-    "endDate": "2026-10-09T10:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/g2lg0htf",
-    "coverImage": "/events/luma-recover-token2049side6a5-b5418793.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Conference/Summit",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "Ethene Labs",
-      "Four Pillars",
-      "Mira (fka Crypto Nomads)"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "slug": "finality-forum",
-    "registrationUrl": "https://luma.com/g2lg0htf",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/g2lg0htf",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "Speakers & VIPs",
-        "url": "https://luma.com/g2lg0htf",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/g2lg0htf",
-      "eventId": "evt-l0Q2lprJGf8HgEj",
-      "fetchedAt": "2026-09-19T23:56:00.152Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "token2049-side-6a6026bf5a75007b41fff94b",
-    "name": "RWA SUMMIT SINGAPORE",
-    "description": "RWA SUMMIT Singapore, the core event of Singapore RWA WEEK, is set to bring together more than 1,500 attendees, 70+ speakers, and 200+ investors shaping the future of asset tokenization.\n\n[The initiative is produced by Uvecon.VC](http://uvecon.vc) [and UVC GROUP](https://uvc.group). [Strategic Partners: LynxCap Investments](https://lynxcapinvestments.com), [dYdX Foundation](https://dydx.foundation), [Theoriq Foundation](https://theoriq.ai) [GeoTicker](https://geoticker.com)\n\nRWA WEEK  builds on the growing global momentum of [the sector and follows the success of  RWA Summit Hong Kong](https://rwasummit.global/hongkong2026) [and RWA SUMMIT Dubai](https://rwasummit.global/dubai), which gathered leading voices from across blockchain, venture capital, and traditional finance to discuss the rapidly evolving tokenization landscape.\n\nInterested in partnership? Contact us: contact@rwaweek.com\n\nCheck updates on our websites:\n\nRWA SUMMIT\n\nhttps://rwasummit.global/singapore\n\nRWA WEEK\n\nhttps://rwaweek.com/singapore\n\nOur events:\n\nTHE DEALFLOW https://luma.com/dealflowsg\n\nTOKENISED VIP https://luma.com/tokenised",
-    "startDate": "2026-10-09T02:00:00.000Z",
-    "endDate": "2026-10-09T09:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Marina One West Tower, 9 Straits View, Singapore 018937",
-    "url": "https://luma.com/rwasummit",
-    "coverImage": "/events/token2049-side-6a6026bf5a75007b41fff94b-b59954ab.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Conference/Summit",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "UVECON.VC"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "neighborhood": "Marina One Show Gallery",
-    "slug": "rwa-summit",
-    "registrationUrl": "https://luma.com/rwasummit",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Marina One West Tower",
-    "streetAddress": "Marina One West Tower, 9 Straits View, Singapore 018937",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "coordinates": {
-      "latitude": 1.2772443,
-      "longitude": 103.85235759999999
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "RWA WEEK",
-      "url": "https://rwaweek.com/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/rwasummit",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "VIP",
-        "url": "https://luma.com/rwasummit",
-        "price": 300,
-        "priceCurrency": "USD",
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/rwasummit",
-      "eventId": "evt-zAyu5ZBhfODnpJE",
-      "fetchedAt": "2026-09-19T23:56:00.899Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "token2049-side-6a534c0747aa29a148924649",
     "name": "TRADERS WEEK | SINGAPORE 🇸🇬🏆",
     "description": "🚀 TRADERS WEEK | SINGAPORE 🚀\n\nJoin: https://game.tradingbattles.com/join/298\nYou can join the tournament at any moment of its duration!\n\n📍 100% Online Event | During Token2049 Week\n\nTrading Battles welcomes to a high-intensity, esports-style crypto showdown to find the best traders during the Token2049 Week!\n\nFor 5 days straight, traders from around the world compete in a 100% skill-based online tournament. Each participant trades with virtual funds - no deposits, no entry fees. Pure skill.\n\n🗓 Start: 5 October 2026, 10:00 AM (GMT+8, Singapore time)\n🏁 End: 10 October 2026, 10:00 AM (GMT+8, Singapore time)\n⏳ Duration: 5 days of continuous competition\n\nEvery participant enters the arena with:\n💰 10,000 USDT virtual balance\n📊 Real-time leaderboard tracking\n🎯 Rankings based strictly on performance (PnL)\n\n⚔️ Tournament Setup\n\n• Trade the Top 50 cryptocurrencies (by market cap)\n• Margin trading enabled\n• Leverage options: x2 | x5 | x10 | x20 | x50\n• Pure strategy, execution, and risk management decide the outcome\n\nThis is trading under pressure - competitive, transparent, and global.\n\nTelegram group to discuss your moves with other traders:\nTBA (link)\n\nNo luck. No shortcuts. Just performance.\n\n🚀 Enter the battle:\n[https://game.tradingbattles.com/join/298](https://game.tradingbattles.com/join/298?autojoin=true)\n\n_________________\n\n[www.tradingbattles.com](https://www.tradingbattles.com)\n\nTrading Battles is the infrastructure layer for 24/7 competitive trading, transforming trading into a new category of esports.",
@@ -2637,106 +2372,6 @@
       "url": "https://luma.com/vylnjbnb",
       "eventId": "evt-hQSTDXKUwkdHICZ",
       "fetchedAt": "2026-09-19T23:55:07.473Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "token2049-side-6aa51a468ffcc4e5ece11007",
-    "name": "BitAngels Singapore 2026",
-    "description": "BitAngels is bringing our investor network and pitch event back to Singapore during TOKEN2049 week.\n\nWe’re looking for strong Web3 founders and projects actively raising who want to pitch in front of experienced angels, VCs, and industry leaders while the global crypto ecosystem is in town.\n\nBitAngels has been investing in crypto since 2013, with early involvement in Mastercoin and a seven-figure investment in Ethereum’s 2014 ICO at $0.30, along with notable investments including Tether and EOS.\n\nApplications to pitch close October 3.\n\nApply here:\n\nhttps://bitangels.network/apply-to-pitch\n\nFor investors, speakers, or sponsors, DM me directly on TG @RiderLDA.\n\nAnd since I get asked this often: BitAngels is not Bitcoin-only. Projects from across Web3 are welcome to apply.\n\nSee you in Singapore 🇸🇬",
-    "startDate": "2026-10-09T02:45:00.000Z",
-    "endDate": "2026-10-09T06:30:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/1dk27l6a",
-    "coverImage": "/events/token2049-side-6aa51a468ffcc4e5ece11007-115fb40c.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Networking",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "Richard Stangland",
-      "BitAngels",
-      "Joyce Chow",
-      "AI Seer Singapore",
-      "Yeonwoo Seo",
-      "Nick Baci",
-      "Hashlock"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "slug": "bitangels",
-    "registrationUrl": "https://luma.com/1dk27l6a",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/1dk27l6a",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/1dk27l6a",
-      "eventId": "evt-t8ZJyfPI2ApuMFL",
-      "fetchedAt": "2026-09-19T23:56:01.423Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "token2049-side-6aa173bdd567345aad6851b8",
-    "name": "The Best Event: Above the Skyline",
-    "description": "Join The Best Event Above the Skyline as the week shifts gears. Token week gives way to Race week, and Above the Skyline is where that handoff happens over brunch, high above a city about to go into overdrive.\n\nBrought to you by The Best Event, this is the kickoff where the F1 energy takes over.\n\nAbove The Skyline is hosted at Singapore's most premium penthouse suite, in an iconic 5-star hotel overlooking Marina Bay. With floor-to-ceiling views of the bay, this premium space reflects the calibre of company you can expect and a level of exclusivity you shouldn't miss.\n\n## Hosted By:\n\n[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.\n\nFor sponsor inquiries [for the penthouse editions, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.",
-    "startDate": "2026-10-09T03:00:00.000Z",
-    "endDate": "2026-10-09T06:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/TBE-Skyline",
-    "coverImage": "/events/token2049-side-6aa173bdd567345aad6851b8-957eb476.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Party/Dinner",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "The Best Event",
-      "Tobias Bauer",
-      "Brent Fulfer",
-      "Mihir Odhrani"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "slug": "best-event6",
-    "registrationUrl": "https://luma.com/TBE-Skyline",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "The Best Event",
-      "url": "https://thebestevent.com/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/TBE-Skyline",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/TBE-Skyline",
-      "eventId": "evt-jcfQgxTi4CRE5uH",
-      "fetchedAt": "2026-09-19T23:56:02.209Z",
       "method": "luma-api",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
@@ -3543,143 +3178,6 @@
     "url": "https://luma.com/aicon2026",
     "coverImage": "/events/luma-host-evt-evt-vtlhvwh0ko5kspb-715d6b7e.webp",
     "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-9PU7833xHd2GBWs",
-    "name": "Women in Bitcoin Quarterly Meetup",
-    "description": "",
-    "startDate": "2026-10-09T00:00:00.000Z",
-    "endDate": "2026-10-09T02:00:00.000Z",
-    "city": "Denver",
-    "country": "United States",
-    "location": "Denver, United States",
-    "url": "https://lu.ma/vdqnswd8",
-    "coverImage": "/events/luma-evt-9pu7833xhd2gbws-654f65dd.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-VgRWddlenvE8IAz",
-    "name": "DIGITAL ASSET & TOKENIZATION SUMMIT - TRACKSIDE EDITION",
-    "description": "",
-    "startDate": "2026-10-09T01:00:00.000Z",
-    "endDate": "2026-10-09T09:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore",
-    "url": "https://luma.com/a19msg9w",
-    "coverImage": "/events/luma-host-evt-evt-vgrwddlenve8iaz-ba65b9af.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-dat-summit-26-10-09",
-    "name": "DAT Summit 2026",
-    "description": "DAT Summit 2026: institutional summit on digital assets, AI, and capital markets in Singapore on October 9.",
-    "startDate": "2026-10-09T01:00:00.000Z",
-    "endDate": "2026-10-09T01:00:00.000Z",
-    "city": "Singapore",
-    "country": "SG",
-    "location": "Singapore, SG",
-    "url": "https://www.datsummit.io/",
-    "coverImage": "/events/w3v-dat-summit-26-10-09-fd589743.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-iuFabSnK5cWmb7t",
-    "name": "Sony Ventures x Taisu Innovation Summit: Soneium and Onchain Entertainment",
-    "description": "",
-    "startDate": "2026-10-09T02:00:00.000Z",
-    "endDate": "2026-10-09T06:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore",
-    "url": "https://luma.com/w2vo3svp",
-    "coverImage": "/events/luma-host-evt-evt-iufabsnk5cwmb7t-53a374d6.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-l0Q2lprJGf8HgEj",
-    "name": "Finality Forum @ Token2049 SG 2026",
-    "description": "",
-    "startDate": "2026-10-09T02:00:00.000Z",
-    "endDate": "2026-10-09T10:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore",
-    "url": "https://luma.com/g2lg0htf",
-    "coverImage": "/events/luma-host-evt-evt-l0q2lprjgf8hgej-ef9bbdcc.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-zAyu5ZBhfODnpJE",
-    "name": "RWA SUMMIT SINGAPORE",
-    "description": "",
-    "startDate": "2026-10-09T02:00:00.000Z",
-    "endDate": "2026-10-09T09:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore",
-    "url": "https://luma.com/rwasummit",
-    "coverImage": "/events/luma-host-evt-evt-zayu5zbhfodnpje-37a2de14.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-sony-ventures-x-taisu-innovation-summit-26-10-09",
-    "name": "Sony Ventures x Taisu Innovation Summit: Soneium and Onchain Entertainment",
-    "description": "Sony Ventures x Taisu Innovation Summit: Soneium and Onchain Entertainment: Invite-only summit on Soneium, IP, AI and entertainment.",
-    "startDate": "2026-10-09T02:00:00.000Z",
-    "endDate": "2026-10-09T06:00:00.000Z",
-    "city": "Global",
-    "country": "SG",
-    "location": "Global, SG",
-    "url": "https://luma.com/w2vo3svp",
-    "coverImage": "/events/w3v-sony-ventures-x-taisu-innovation-summit-26-10--4b310aad.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-Im8g8d6jd7HLA95",
-    "name": "Pickleball + Crypto Whales 🐳🏓🇸🇬",
-    "description": "",
-    "startDate": "2026-10-09T06:00:00.000Z",
-    "endDate": "2026-10-09T10:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore",
-    "url": "https://luma.com/6mv7bwxa",
-    "coverImage": "/events/luma-host-evt-evt-im8g8d6jd7hla95-0bd6ff13.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-GEenAYO83msTTak",
-    "name": "Blockchain Association Singapore Digital Assets Forum 2026 - Building Onchain in the Agentic era",
-    "description": "",
-    "startDate": "2026-10-09T06:00:00.000Z",
-    "endDate": "2026-10-09T09:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "TBA",
-    "url": "https://luma.com/ig33t77h",
-    "coverImage": "/events/luma-host-evt-evt-geenayo83msttak-19bb4021.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-pickleball-crypto-whales-26-10-09",
-    "name": "Pickleball + Crypto Whales",
-    "description": "Pickleball + Crypto Whales: A Singapore side event with social pickleball, food and crypto networking.",
-    "startDate": "2026-10-09T06:00:00.000Z",
-    "endDate": "2026-10-09T10:00:00.000Z",
-    "city": "Global",
-    "country": "SG",
-    "location": "Global, SG",
-    "url": "https://luma.com/6mv7bwxa",
-    "coverImage": "/events/w3v-pickleball-crypto-whales-26-10-09-bac1a354.webp",
     "month": "October 2026"
   },
   {
@@ -15009,7 +14507,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261107%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261107T193345Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=d4b2a47e365beb3de600f37c2aba579facf2f543321ab2df91bd5a88ec19dffa",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261108%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261108T104534Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=8fb68ff901b2878df2e893cd279dcb54cb717ff5dcf4d557a66b30868d8a4dcf",
     "month": "November 2026"
   },
   {
@@ -15049,7 +14547,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/herndon-open-source-linuxone-meetup-group/events/317096564/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317096564-fe562fc9.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -15694,7 +15192,31 @@
     "location": "Mumbai, IN",
     "url": "https://eventyay.com/fossasia/ots2026/",
     "coverImage": "/events/w3v-opentechsummit-india-26-11-05-4a6ba792.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Hong Phuc Dang",
+      "Roger Dingledine",
+      "Mario Behling",
+      "Rushabh Mehta",
+      "Tomasz Stanczak",
+      "Divya Mohan",
+      "Francesco Andreolí",
+      "Norbert Preining",
+      "Pramod Mishra",
+      "Srivatsav Auswin",
+      "Saksham Sirohi",
+      "Chetna Agrawal",
+      "Arnav Angarkar",
+      "Soham Zemse",
+      "Vedansh Saini",
+      "Dhruv Rastogi",
+      "Jayant Parashar",
+      "Om Vanwari",
+      "Manik Khajuria",
+      "Saalim Aqueel",
+      "Rajnish Tiwari",
+      "Mark Virchenko"
+    ]
   },
   {
     "id": "w3v-l2beat-next-chapter-26-11-05",
@@ -16295,7 +15817,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-north-carolina/events/317156463/",
-    "coverImage": "/events/mu-317156463-b1276a11.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -16337,12 +15859,9 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-north-carolina/events/317064975/",
-    "coverImage": "/events/mu-317064975-0dc78544.webp",
+    "coverImage": null,
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "luma-evt-1YkeGIX5PJN3Q9d",
@@ -17912,7 +17431,7 @@
     "country": "us",
     "location": "Scottsdale, us",
     "url": "https://www.meetup.com/arizona-stock-options-and-futures-investors/events/317181350/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317181350-e1c4f221.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -18010,7 +17529,7 @@
     "country": "us",
     "location": "San Francisco, us",
     "url": "https://www.meetup.com/sfvrcc/events/317271481/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317271481-b7cdd98c.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -19726,5 +19245,103 @@
     "url": "https://luma.com/Buzoku",
     "coverImage": null,
     "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-futrlVtSKm5AC1e",
+    "name": "London Workshop: Vaults in Practice – How Financial Institutions Capture Onchain Yield",
+    "description": "",
+    "startDate": "2026-11-09T16:00:00.000Z",
+    "endDate": "2026-11-09T17:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/cwufkzk1",
+    "coverImage": "/events/luma-evt-futrlvtskm5ac1e-84121878.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-REcCfMyZH21PQov",
+    "name": "Mayfair Business and Funding - Mayfair Mercato. DIGITAL ASSET MEETUP Sponsored by www.thefundingcaptain.com",
+    "description": "",
+    "startDate": "2026-11-09T16:00:00.000Z",
+    "endDate": "2026-11-09T22:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/atr123ws",
+    "coverImage": "/events/luma-evt-reccfmyzh21pqov-4d7e436c.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-hEPVDHswwbLlwGV",
+    "name": "Riserva London | Digital Assets under pressure: Sanctions, Enforcement and Economic Crime, Fireside with Fieldfisher.",
+    "description": "",
+    "startDate": "2026-11-09T17:30:00.000Z",
+    "endDate": "2026-11-09T19:30:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/g4w56vmw",
+    "coverImage": "/events/luma-evt-hepvdhswwbllwgv-a3bc669c.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-aLseLPG1JKz7qnd",
+    "name": "Fresh Connections by Oxylabs: VapiCon Afterparty",
+    "description": "",
+    "startDate": "2026-11-12T02:00:00.000Z",
+    "endDate": "2026-11-12T04:00:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/80rtug4b",
+    "coverImage": "/events/luma-evt-alselpg1jkz7qnd-df50fcc9.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-2M71G5Aik0h81l2",
+    "name": "What Happens When a Country Gets Hacked? Cyberwar and the Systems We Depend On",
+    "description": "",
+    "startDate": "2026-11-12T03:00:00.000Z",
+    "endDate": "2026-11-12T05:00:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/lprchbdo",
+    "coverImage": "/events/luma-evt-2m71g5aik0h81l2-86621bd3.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-TqpF9LxYGB6BTHE",
+    "name": "Re-Defined x Deloitte Canada",
+    "description": "",
+    "startDate": "2026-11-20T22:30:00.000Z",
+    "endDate": "2026-11-21T00:30:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://lu.ma/re-p2sb",
+    "coverImage": "/events/luma-evt-tqpf9lxygb6bthe-764adce5.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-DFEks3d2vkTrYFr",
+    "name": "AI Builders x Base44 Buildathon",
+    "description": "",
+    "startDate": "2027-01-14T15:00:00.000Z",
+    "endDate": "2027-01-14T23:30:00.000Z",
+    "city": "Miami",
+    "country": "United States",
+    "location": "Miami, United States",
+    "url": "https://lu.ma/mia-jan14-hday",
+    "coverImage": "/events/luma-evt-dfeks3d2vktryfr-30ff84bb.webp",
+    "source": "luma",
+    "month": "January 2027"
   }
 ]

@@ -1378,40 +1378,6 @@
       }
     ]
   },
-  "premier-finalityforum": {
-    "summaryLead": "On 7 October, mid-TOKEN2049 week in Singapore, Ethene Labs convenes the Finality Forum - a single-day gathering on finality, restaking, and stablecoin infrastructure. Three topics that sound like a syllabus but function as one system: how quickly transactions become irreversible, how that security gets recycled and paid for, and how dollar rails ride on top of both.",
-    "sections": [
-      {
-        "heading": "One system wearing three buzzwords",
-        "content": [
-          "Finality is the property users feel least and depend on most - the moment a transaction stops being provisional. Restaking reshapes who provides economic security for new services and at what price, effectively turning security budgets into allocable resources. Stablecoin infrastructure is where both meet retail reality, moving serious value daily across remittance, trading, and payments rails without most senders ever noticing.",
-          "Split across separate conferences, these conversations lose their connective tissue. A forum that holds them together forces better questions: what does fast finality actually cost, who bears restaking's correlated risk when markets turn, and what happens to stablecoin issuers if settlement guarantees shift underneath their reserves?"
-        ]
-      },
-      {
-        "heading": "The studio convening it",
-        "content": [
-          "Ethene Labs is an Asia-based venture studio working with Web3 and AI companies on go-to-market in the region. Its site lists Arbitrum, Sei, NEAR, Uniswap, Flow Traders, Pyth, Frax, and Mantle among the logos it counts as trusted partners, alongside a token advisory practice for teams entering Asian markets.",
-          "That go-to-market DNA shapes expectations. Expect a commercially literate room - founders, business development leads, investors - rather than a purely academic seminar. The studio also handles large-scale conference operations for major AI companies, so production values should sit well above the average hotel-ballroom side event. Its whole business is knowing who in Asia actually signs off on integrations - usually worth more than another panel."
-        ]
-      },
-      {
-        "heading": "Week strategy",
-        "content": [
-          "TOKEN2049 week floods Singapore with tens of thousands of visitors and a side-event list that grows absurd by autumn. The winning approach is ruthless filtering: skip anything that could have been a webinar, attend only what requires the room. Infrastructure topics like these qualify - the people who can answer hard finality questions are physically scarce.",
-          "Midweek timing helps too. An early-week slot like 7 October leaves runway to act on introductions before everyone flies home, unlike Friday-afternoon gatherings where momentum evaporates somewhere around baggage claim.",
-          "Come armed with the awkward numbers nobody puts on landing pages: your finality targets versus what your chain actually guarantees today, your exposure to restaked collateral correlations, and your stablecoin settlement dependencies. Forums like this reward people who bring measurements instead of opinions, because the room can actually check them."
-        ]
-      },
-      {
-        "heading": "Who should prioritize it",
-        "content": [
-          "Protocol teams selling to stablecoin issuers, restaking platforms courting operators of actively validated services, and institutional players evaluating settlement guarantees form the natural core audience - these are the three constituencies the forum's own framing puts in one room. Payment companies watching stablecoin volumes climb year over year should circle it as well; infrastructure decisions discussed here determine their cost curves later.",
-          "Check the organizer's site closer to the date for venue and registration specifics, since TOKEN2049-week programming firms up late. And pace yourself once there: Singapore's side-event circuit rewards stamina, and anyone who sprints on Monday night rarely survives to Thursday's best conversations."
-        ]
-      }
-    ]
-  },
   "premier-connectsg": {
     "summaryLead": "CONNECT by Cointelegraph brings its accelerator-flavored forum format to Singapore on October 9, 2026, riding the TOKEN2049 halo with a single day of founder showcases and capital conversations in one of the world's most regulated crypto hubs.",
     "sections": [

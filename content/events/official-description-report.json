@@ -35,31 +35,6 @@
       "preview": "The Bridge Between TradFi & Digital Assets. The Institutional Summit for Digital Assets. Paris, July 6-7, 2027."
     },
     {
-      "id": "premier-token2049-singapore-2026",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://www.token2049.com/singapore",
-        "fetchedAt": "2026-09-20T00:20:07.728Z",
-        "method": "event-jsonld",
-        "pageTitle": "TOKEN2049 | 7-8 October 2026 | Singapore",
-        "sha256": "672897156638babb2793dee3e4989b27b99702bc19e851da891e4538fda8499e"
-      },
-      "eventFacts": {
-        "startDate": "2026-10-07",
-        "endDate": "2026-10-08",
-        "venueName": "Marina Bay Sands",
-        "addressLocality": "Singapore",
-        "addressCountry": "SG",
-        "city": "Singapore",
-        "country": "SG",
-        "location": "Marina Bay Sands, Singapore, SG"
-      },
-      "previousStartDate": "2026-10-07T09:00:00.000Z",
-      "characters": 164,
-      "preview": "TOKEN2049 is the world's largest crypto event. Join the crypto ecosystem's decision-makers in Singapore to connect, exchange ideas, network, and shape the industry."
-    },
-    {
       "id": "premier-swell-2026",
       "file": "curated-events.json",
       "status": "source-backed",
@@ -519,22 +494,6 @@
       "preview": "## 2026\n\nAfrica’s largest gathering of the Bitcoin & freedom-tech community.\n\n## 2 – 5 December 2026, Amaryllis Hotel in Blantyre, Malawi\n\n## What is The Africa Bitcoin Conference ?\n\nEvery year, we bring together activists, innovators, and decision-makers to explore how Bitcoin safeguards fundamental freedoms, strengthens economic autonomy, and paves the way for lasting sovereignty.\n\n## Take the stage at ABC26\n\n## Let’s amplify Africa’s voice in the global Bitcoin story\n\nEvery year, the Africa Bitcoin Conference features dozens of inspiring speakers. Would you like to be part of this journey and share your insights and perspective on Bitcoin’s role in shaping a more liberated Africa and world?\n\n## ABC 26 Speakers\n\nEach Year, Visionary Leaders Share Their Insights at the Africa Bitcoin Conf"
     },
     {
-      "id": "premier-finalityforum",
-      "file": "curated-events.json",
-      "name": "Finality Forum Singapore 2026",
-      "status": "unavailable",
-      "attempts": [
-        {
-          "url": "https://ethenelabs.xyz/",
-          "reason": "event-not-matched"
-        },
-        {
-          "url": "https://ethenelabs.xyz",
-          "reason": "event-not-matched"
-        }
-      ]
-    },
-    {
       "id": "premier-gbshow",
       "file": "curated-events.json",
       "status": "source-backed",
@@ -589,21 +548,6 @@
       "previousStartDate": "2026-09-28T08:00:00-04:00",
       "characters": 155,
       "preview": "A closed-door conference on corporate bitcoin treasury strategy — allocators, executives, and strategists in one room. September 28, 2026 in New York City."
-    },
-    {
-      "id": "premier-rwa-week-2026",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://rwaweek.com/",
-        "fetchedAt": "2026-09-20T00:20:40.087Z",
-        "method": "official-meta",
-        "pageTitle": "RWA WEEK - Online & Offline Ecosystem for Real-World Assets tokenization industry",
-        "sha256": "9b63d6dea36b0737bb04691ee90de6c5d1f8091d33efb83f6ec8d6f0ab294597"
-      },
-      "previousStartDate": "2026-10-05T09:00:00+08:00",
-      "characters": 197,
-      "preview": "RWA WEEK — Online & Offline Ecosystem Platform for Real-World Assets tokenization community. Latest news, event calendar, online and offline events, interviews, networking and matchmaking platform."
     },
     {
       "id": "premier-coinalts-2026",
@@ -1433,33 +1377,6 @@
       "previousStartDate": "2026-10-08T09:00:00+08:00",
       "characters": 457,
       "preview": "## Stablecoin Summit 26\n\nAsia's premier event for stablecoin innovation. We bring together government, institutions, fintech leaders, and blockchain pioneers to explore the future of digital money. Designed for enterprises and financial institutions engaged in high-volume cross-border payments, we focus on real-world use cases, trustless transactions, transparency, and security. Join us for expert insights, technical deep dives, and top-tier networking."
-    },
-    {
-      "id": "token2049-side-6a73992d5a75007b41001068",
-      "file": "events-cache.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://milkeninstitute.org/events/asia-summit-2026",
-        "fetchedAt": "2026-09-20T00:21:00.681Z",
-        "method": "official-section",
-        "pageTitle": "Asia Summit 2026 | Milken Institute",
-        "sha256": "273107efc012d42e075297c1a7725cb44d2495585878f0300a23e4cd509dd05f"
-      },
-      "previousStartDate": "2026-10-09T08:00:00+08:00",
-      "characters": 4174,
-      "preview": "## Asia Summit 2026\n\nThe 2026 Milken Institute Asia Summit brings together a global community of influential leaders shaping the next era of intelligence, collaboration, and growth. The event is where capital comes to find the best ideas and participants forge new partnerships to lead transformation at scale toward greater shared prosperity.Under the theme Leading with Intelligence, the 13th Asia Summit explores how technology, information, and human judgment can address the defining economic, geopolitical, demographic, and environmental challenges facing Asia and the world. Across our core programmatic themes of business, finance, philanthropy, and health, and a new track on AI innovation, investment, and sovereignty, the event convenes leaders from across industries and sectors for thoug"
-    },
-    {
-      "id": "token2049-side-6a622e12d1b48ddf39d08981",
-      "file": "events-cache.json",
-      "name": "Vault Summit",
-      "status": "unavailable",
-      "attempts": [
-        {
-          "url": "https://sg2026.vaultsummit.xyz/",
-          "reason": "no-event-description"
-        }
-      ]
     },
     {
       "id": "token2049-side-6a739bc8d1b48ddf39d09e32",

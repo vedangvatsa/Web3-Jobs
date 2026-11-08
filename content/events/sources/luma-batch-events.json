@@ -200,60 +200,6 @@
     }
   },
   {
-    "id": "luma-batch-kLLhQAqUSbfKTRp",
-    "slug": "sanfranciscooctober",
-    "name": "Assets & Access @ Rickhouse Bar SF",
-    "description": "Join us for SF's #1 founder, operator, and investor meetup.\n\nHosted by Introduction.com, a private, invite only community of entrepreneurs, operators, and investors shaping the future with technology.\n\nThis event is open to the general public and is not exclusive to Introduction.com members. For access to member only events please apply at Introduction.com.\n\n## Event details\n\nHosted by Introduction.com (A private, invite-only network for founders, executives, and investors shaping the future with technology.), Jose Anaya | ZKsync, Sam Leichman. Venue: Rickhouse, 246 Kearny St, San Francisco, CA 94108, USA. The event takes place on October 9.",
-    "startDate": "2026-10-09T00:30:00.000Z",
-    "endDate": "2026-10-09T02:30:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "Rickhouse, Rickhouse, 246 Kearny St, San Francisco, CA 94108, USA",
-    "url": "https://luma.com/sanfranciscooctober",
-    "registrationUrl": "https://luma.com/sanfranciscooctober",
-    "coverImage": "/events/luma-batch-kLLhQAqUSbfKTRp-0ce2bf42.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Introduction.com",
-      "Jose Anaya | ZKsync",
-      "Sam Leichman"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "America/Los_Angeles",
-    "neighborhood": "Union Square",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Rickhouse",
-    "addressLocality": "San Francisco",
-    "addressRegion": "California",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "Introduction.com",
-      "url": "https://luma.com/user/introduction"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/sanfranciscooctober",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/sanfranciscooctober",
-      "eventId": "evt-kLLhQAqUSbfKTRp",
-      "fetchedAt": "2026-09-22T11:53:33.000Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T11:00:44.000Z",
-      "enrichMethod": "organizer-facts"
-    }
-  },
-  {
     "id": "luma-batch-ON8samQWGur2o5c",
     "slug": "hfqu8u55",
     "name": "Antidote Office Open Day! ⚡️",
@@ -2276,96 +2222,6 @@
     }
   },
   {
-    "id": "luma-batch-evtysvqWnbANDE9t",
-    "slug": "q23fn0vw",
-    "name": "CONNECT by Cointelegraph: Singapore Edition",
-    "description": "Hosted during TOKEN2049, CONNECT by Cointelegraph is a curated networking, content and pitch contest event that brings together Web3 founders, builders and investors, connecting the Web3 ecosystem.\n\nPitch Competition\n\n🚀 Startup founders - APPLY NOW for a chance to pitch on stage and showcase your vision to a room full of decision-makers and Web3 key players!\n\nVenue\n\nCointelegraph Connect will take place at RASA Space, a contemporary event venue conveniently located for TOKEN2049 attendees. Easy to reach and designed for premium corporate events, its versatile layout and modern facilities make it the perfect setting.\n\nHost: Cointelegraph Accelerator\nThe program helps find and support the next generation of leaders in the Web3 space, bringing together investors, startups, and relevant stakeholders to contribute to the development of Web3.\n\nHost: Cointelegraph\nFounded in 2013, Cointelegraph is the leading independent digital media resource covering a wide range of news on blockchain technology, crypto assets, and emerging fintech trends.\n\nGold Partner: USDD\nUSDD is a decentralized, over-collateralized stablecoin that is designed to be pegged 1:1 to the US dollar with enhanced stability and transparency. It aims to deliver security, decentralization, and stability within the crypto ecosystem. USDD is available to seamlessly integrate into DeFi platforms, offering a reliable and transparent asset that empowers users.\n\nPartner: FinHarbor\nFinHarbor is a technical platform provider for launching compliant, modular financial products — from wallets and neobanks to crypto ramps and OTC desks. Built on years of real-world fintech experience, our infrastructure helps clients launch faster, operate securely, and scale across fiat, crypto, and hybrid environments\n\nPartner: Mercuryo\nMercuryo is a leading payment infrastructure platform in the digital token space. Its intuitive and robust solutions power the next generation of Web3 payment services by supporting payment use-case growth and on-chain integration.\n\nPartner: OneAsset\nOneAsset is building compliance-first market infrastructure for institutional commercial real estate. Its model brings together asset structuring, servicing, reporting, and transfer controls across the tokenized real estate lifecycle, designed to make real estate interests easier to verify, manage, and transact onchain.\n\nPartner: Inspira Labs\nInspira Labs is a Web3 accelerator and Venture Studio that helps high-potential founders become fundable and launch-ready. We have supported 20+ portfolio companies, built a network of 300+ VC partners, and helped founders raise over $60M+ We work with leading ecosystems to help founders secure the right strategic partners, validate market fit and prepare for launch.\n\nPartner: Together.fun\nTogether.fun (TOFU) is a social trading platform built for the modern crypto participant: the degen, the meme-lover, the alpha hunter. Real markets, powered by Hyperliquid — with your whole community trading right beside you.\n\nPitch Competition Partner: Funders VC\nFunders is an intersection of VC and liquid DeFi. They invest in DeFi/RWA projects and run delta-neutral and yield strategies, supporting protocols and teams shaping the space. Managing $20M AUM, they tend to pick early-stage protocols and promising startups.\n\nPartner: Humandone\nHumandone is a product design and development studio specialising in modern digital experiences for startups and web3 companies. The team works across branding, app design, UX/UI systems, frontend development, and scalable infrastructure for crypto-native and consumer applications.\n\nPartner: BROIDR\nFounded in 2022, BROIDR is redefining the promotional merchandising industry by offering high-quality, responsibly sourced merchandise that companies are proud to give. We believe in creating memorable, sustainable brand experiences that resonate with people long after the first impression.",
-    "startDate": "2026-10-09T04:00:00.000Z",
-    "endDate": "2026-10-09T10:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/q23fn0vw",
-    "registrationUrl": "https://luma.com/q23fn0vw",
-    "coverImage": "/events/luma-batch-evtysvqWnbANDE9t-edfff17b.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/q23fn0vw",
-      "eventId": "evt-ysvqWnbANDE9te5",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtbE6gT6jhhp8bs",
-    "slug": "im2uyqlt",
-    "name": "Strength & Flow",
-    "description": "This week, BTSE invites you to experience a refreshing Wellness × Web3 Community Experience in Singapore, bringing together movement, meaningful connections, and the vibrant crypto community.\n\nStart your day with an energizing Pilates session designed to help you reset, recharge, and feel your best. After the workout, stay for a relaxed poolside gathering and connect with BTSE community members, Web3 builders, crypto enthusiasts, and industry friends.\n\nWhat to Expect:\n✨ Energizing Pilates Session\n✨ BTSE Community Networking\n✨ Web3 & Crypto Conversations\n✨ Poolside Relaxation\n✨ Light Bites & Refreshing Drinks\n✨ Exclusive BTSE Goodies\n\n📅 Date: 6th OCT\n📍 Location: Singapore\n🎟️ Tickets: Free / RSVP Required\n\nWhether you're a BTSE user, Web3 builder, crypto enthusiast, or simply curious about the space, you're welcome to join us.\n\nMove your body. Meet your people. Connect with BTSE. 🌴✨",
-    "startDate": "2026-10-09T08:30:00.000Z",
-    "endDate": "2026-10-09T09:30:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "91 Bencoolen St, 91 Bencoolen St, Singapore 189652",
-    "url": "https://luma.com/im2uyqlt",
-    "registrationUrl": "https://luma.com/im2uyqlt",
-    "coverImage": "/events/luma-batch-evtbE6gT6jhhp8bs-601d9e04.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/im2uyqlt",
-      "eventId": "evt-bE6gT6jhhp8bsDH",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtIm8g8d6jd7HLA",
-    "slug": "6mv7bwxa",
-    "name": "Pickleball + Crypto Whales 🐳🏓🇸🇬",
-    "description": "Pickleball + Bites + Networking | TOKEN2049 Singapore Week\n\nTrade the charts for the court 🐳🏓\n\nAs TOKEN2049 wraps up, join A36 Labs for an afternoon of pickleball, good food, music and conversations with the crypto community in Singapore\n\nBringing together crypto traders, investors, founders, exchange teams, Payments, market makers, builders and industry professionals for a relaxed networking experience beyond the conference floor\n\nNo panels, no pitches, just pickleball, bites and good connections\n\n🏓 What to Expect\n\n🏓 Social pickleball sessions and friendly matches\n\n🐳 Meet crypto traders, investors, founders and industry professionals\n\n🍽️ Food, refreshments and music\n\n🤝 Relaxed networking beyond the conference floor\n\n🏆 Friendly games and prizes\n\n🎁 Limited swag for confirmed guests\n\nAll skill levels welcome\n\nCome for the games, stay for the food and the people you meet along the way\n\nTOKEN2049 Singapore 2026\n\nA36 Labs is an Official TOKEN2049 Partner\n\nGet 10% off TOKEN2049 Singapore tickets with code A36LABS\n\nA few moments from our previous A36 pickleball meetups in Singapore\n\nA36 Labs Token2049 : 2025 Singapore Highlights\n\nPartnerships & Sponsorships\n\nPartner opportunities are available for sports activations, food and beverage, prizes, merchandise, consumer products and ecosystem collaborations\n\nEmail: events@a36labs.com\nTelegram: https://t.me/LakshDilliwal\n\nA36 Labs Token Singapore Week:\n\nHosted by A36 Labs\n\nA36 Labs brings together founders, builders, investors and technology ecosystems through events, builder programs and global community initiatives across AI, Web3 and frontier technology\n\n🇨🇳 中文简介\n\nPickleball + Crypto Whales 🐳🏓\n\nTOKEN2049 即将结束，加入 A36 Labs，在新加坡参加一场轻松的匹克球社交活动\n\n与来自全球的加密货币交易员、投资人、创始人、交易所团队及 Web3 行业伙伴一起打球、享用美食、听音乐，结识新朋友\n\n没有演讲，没有推销，只有运动、美食和轻松的交流\n\n🏓 匹克球社交活动及友谊赛\n🐳 结识交易员、投资人、创始人及行业伙伴\n🍽️ 美食、饮品与音乐\n🤝 轻松交流，建立新的行业联系\n🏆 趣味比赛及奖品\n🎁 确认参加的嘉宾可获得限量周边礼品\n\n欢迎所有技术水平的参与者，初学者也可以参加\n\n由 A36 Labs 主办 | A36 Whale Week Singapore",
-    "startDate": "2026-10-09T06:00:00.000Z",
-    "endDate": "2026-10-09T10:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/6mv7bwxa",
-    "registrationUrl": "https://luma.com/6mv7bwxa",
-    "coverImage": "/events/luma-batch-evtIm8g8d6jd7HLA-1c7089ed.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "A36 Labs"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "conference",
-    "sourceVerification": {
-      "url": "https://luma.com/6mv7bwxa",
-      "eventId": "evt-Im8g8d6jd7HLA95",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtZJzbrUXrq27u4",
     "slug": "yyp8316a",
     "name": "11th Oct 26 - CAPITAL ON TRACK - FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX EDITION 2026",
@@ -2718,35 +2574,6 @@
     "sourceVerification": {
       "url": "https://luma.com/g1agc1dv",
       "eventId": "evt-7gjnLEpvcig2ZhE",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtDGHVXG2wB52fj",
-    "slug": "r8ffjbpa",
-    "name": "TDC Chicago Signal Forum",
-    "description": "Built in the city that pioneered modern derivatives trading, TDC Chicago Signal Forum convenes the operators, institutions, and infrastructure leaders driving the evolution of financial systems. From Prediction Markets to AI to policy and emerging technology, the Forum creates space for practical, high-impact dialogue among the industry’s most respected voices.\n\nThis gathering is designed for executives who value substance, insight, and relationships that extend beyond the conference floor.\n\nAgenda:\n\n11:00AM: Doors Open + Brunch\n\n12:00PM: Welcome Remarks\n\nCody Carbone, CEO, The Digital Chamber\n\n12:05-12:25PM: Washington on Prediction Markets, Crypto, and AI\n\nRepresentative Mariannette Miller-Meeks (R-IA)\n\nModerator: Zunera Mazhar, VP, Policy & GR, The Digital Chamber\n\n12:25-12:50PM: Markets, Not Wagers\n\nSudhir Jain, CCO and Head of Regulatory Affairs, Kalshi\n\nJosh Beardsley, Chief Compliance Officer, Crypto Derivatives North America, Crypto.com\n\nModerator: Chen Arad, Solidus Labs\n\n12:50-1:05PM: States of Play: Crypto Policy's First Movers\n\nAnthony Apollo, Executive Director, Wyoming Stable Token Commission\n\nModerator: Anastasia Dellaccio, Executive Director, State and Regional Affairs, The Digital Chamber\n\n1:05-1:30PM: Open Source, Onchain: AI Meets Web3\n\nAbhishek Vaidyanathan, Chief Legal Officer, NEAR Foundation\n\nKatherine Kirkpatrick Bos, Head of Legal, Chainlink\n\nMichael Piracci, Head of US Market Strategy, OKX\n\nModerator: Jon Sabol, Associate General Counsel, Aptos Labs\n\n1:30-1:55PM: Making Markets in a Post-Clarity World\n\nJosh Riezman, Chief Legal & Strategy Officer, GSR\n\nGerald Gallagher, General Counsel, Sei Labs\n\nMeaghan Dugan, Head of Derivatives, Cboe\n\nModerator: Eileen Flaherty, CMT Digital\n\n1:55-2:20PM: Stablecoins & Settlement: The New Payment Rails\n\nStephen Gardner, Co-President, zerohash\n\nAdam Zuckerman, Co-Founder, Better Money\n\nFrancesco Castella, Senior Manager, Global Policy & Government Affairs, Circle\n\n2:20-3:00PM: Networking Break\n\n3:00-3:15PM: Illinois Lawsuit\n\nOlta Andoni, Illinois Blockchain Association; Partner, Bellementis\n\nModerator: Jonathan Schmalfeld, Policy Director, The Digital Chamber\n\n3:15-3:25PM: Derivatives Meets Digital Assets\n\nTim McCourt, Senior Managing Director, Global Head, Equities, DX, and Alternative Products, CME Group\n\n3:25-3:45PM: Where Oversight Meets Self-Regulation, CFTC and NFA on What's Next\n\nDavid Miller, Director of Enforcement, CFTC\n\nRenato Mariotti, Partner, Paul Hastings\n\n3:45-4:10PM: Who Regulates the Future? Prediction Markets, Self-Regulation, and the CFTC\n\nTarek Mansour, Co-founder, Kalshi\n\nTom Sexton, President and Chief Executive Officer, National Futures Association\n\nModerator: Rob Schwartz, Partner, Morgan, Lewis & Bockius LLP\n\n4:10-4:15PM: Closing Remarks\n\nCody Carbone, CEO, The Digital Chamber\n\n4:15-5:15PM: Networking Happy Hour\n\nPlease note: Tickets are non-transferable.\n\n—\n\nThis event adheres to the standards set by Congress and federal agencies. All aspects comply with gift rules, ethics regulations, and the policies outlined by the House and Senate Ethics Committees, as well as the Office of Government Ethics, ensuring appropriate participation by public officials and staff.\n\nSponsorship Opportunities\n\nTDC Forum sponsorships provide direct access to an influential audience of institutional leaders, policymakers, investors, and executives shaping the future of digital assets and financial innovation.\n\nSponsors receive premium brand visibility, curated networking access, and opportunities to engage meaningfully with senior decision-makers throughout the event experience.\n\nTo explore sponsorship opportunities or partnership packages, please contact sponsorship@digitalchamber.org. Limited sponsorship placements are available to maintain an intentionally curated experience.\n\nPress and media interested in covering TDC Forum are invited to contact press@digitalchamber.org for credentialing and event information.",
-    "startDate": "2026-10-08T16:00:00.000Z",
-    "endDate": "2026-10-08T22:00:00.000Z",
-    "city": "Chicago",
-    "country": "United States",
-    "location": "Chicago, Illinois, United States",
-    "url": "https://luma.com/r8ffjbpa",
-    "registrationUrl": "https://luma.com/r8ffjbpa",
-    "coverImage": "/events/luma-batch-evtDGHVXG2wB52fj-0e2b4c8d.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "TDC Forum"
-    ],
-    "timezone": "America/Chicago",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "conference",
-    "sourceVerification": {
-      "url": "https://luma.com/r8ffjbpa",
-      "eventId": "evt-DGHVXG2wB52fj9Y",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

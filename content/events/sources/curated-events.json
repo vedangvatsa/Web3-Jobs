@@ -192,38 +192,6 @@
     }
   },
   {
-    "id": "premier-token2049-singapore-2026",
-    "slug": "token2049",
-    "name": "TOKEN2049 Singapore 2026",
-    "description": "TOKEN2049 Singapore 2026 runs 7–8 October 2026 at Marina Bay Sands, taking over all five floors of the venue for its biggest edition yet.\n\n## Scale\n\nThe organizer expects 25,000+ attendees from 160+ countries, 7,000+ companies, 300+ speakers and 500+ exhibitors, with over 60% of attendees at C-level and more than 1,000 side events across the week.\n\n## Program\n\nAlongside the main stages, the week includes the NEXUS startup competition (500 applicants, 10 finalists pitching on the global stage for equity-free prizes), the TOKEN2049 Origins hackathon (36 hours from concept to working product, with mentorship and a shot at prizes, funding and global recognition), and the Startup Village exhibition area where startups showcase to founders, investors, builders and decision-makers from across the industry.\n\n## Festival and side events\n\nThe organizer markets the Singapore edition as a festival and, on its site, invites attendees to experience a \"pop-up city\" of immersive experiences under one roof at Marina Bay Sands — experiential branding, not a literal temporary city. More than 1,000 side events run across the wider conference week. The official closing party, AFTER2049, returns to the MBS SkyPark on 9 October with Claptone headlining 57 floors above ground, joined by Crusy and residents ANONM, Leon, Milam and Mo-Shi, with 360-degree spatial audio by Polygon Live.\n\n## Tickets\n\nTickets are on sale now, currently listed at US$599 before the 24 September price increase, payable by credit card or crypto. Get 10% off with our code HASHTAGWEB3.\n\n## Who attends\n\nFounders, investors, developers, exchange and protocol teams, institutions, policymakers and media — anyone shaping the global crypto industry. As Binance founder Changpeng Zhao puts it, it is where everybody comes together and the most important conversations happen.\n\n## Speakers\n\nSelected speakers include Shayne Coplan (Polymarket), Balaji Srinivasan (The Network State), Arthur Hayes (Maelstrom), Adena Friedman (Nasdaq), Richard Teng (Binance), Joseph Lubin (Ethereum / MetaMask), Charles Hoskinson (Input Output Group), Justin Sun (TRON) and Max Verstappen (Oracle Red Bull Racing).\n\nSee the [official speaker directory](https://www.token2049.com/singapore/speakers) for the full roster.",
-    "startDate": "2026-10-07",
-    "endDate": "2026-10-08",
-    "city": "Singapore",
-    "country": "SG",
-    "location": "Marina Bay Sands, Singapore, SG",
-    "url": "https://www.token2049.com/singapore",
-    "website": "https://www.token2049.com/singapore",
-    "coverImage": "/events/token2049-singapore-hashtagweb3.webp",
-    "twitter": null,
-    "partnerOffer": {
-      "text": "Get 10% off your tickets with our exclusive code: HASHTAGWEB3",
-      "url": "https://tickets.token2049.com/token2049-singapore-2026/?promo=HASHTAGWEB3"
-    },
-    "source": "curated-premier",
-    "venueName": "Marina Bay Sands",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "descriptionSource": {
-      "url": "https://www.token2049.com/singapore",
-      "fetchedAt": "2026-09-22T10:52:10.000Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "TOKEN2049 | 7-8 October 2026 | Singapore",
-      "sha256": "672897156638babb2793dee3e4989b27b99702bc19e851da891e4538fda8499e",
-      "speakersUrl": "https://www.token2049.com/singapore/speakers",
-      "speakersFetchedAt": "2026-09-22T09:27:52.000Z"
-    }
-  },
-  {
     "id": "premier-swell-2026",
     "slug": "ripple-swell-2026",
     "name": "Ripple Swell 2026",
@@ -1157,55 +1125,6 @@
     }
   },
   {
-    "id": "premier-finalityforum",
-    "slug": "finality-forum-2026",
-    "name": "Finality Forum @ Token2049 SG 2026",
-    "description": "Finality Forum is an invite-only forum focused on institutional digital assets, and will be capped at 300 attendees. Please apply in the link and await your confirmation.\n\nAbout Finality Forum\nHeld on 9 Oct 2026, Finality Forum is a full-day conference focused on institutional digital assets — with tracks across Infrastructure, Payments & Stablecoins, RWA & Tokenization, Agentic Commerce, Trading & Institutional Liquidity, and Institutional Privacy.\n\nThis edition of Finality Forum will be held during Token2049 Singapore Week, and will feature the following tracks:\n• Infrastructure: The foundational layers — chains, custody, and the systems institutions are actually building on.\n• Payments & Stablecoins: Where stablecoins stop being a crypto story and start being the global payments story.\n• Real World Assets & Tokenization: Real assets, on-chain. The bridge between traditional finance and programmable markets.\n• Agentic Commerce: Autonomous agents, on-chain compute, and what happens when AI needs a wallet.\n• Trading & Institutional Liquidity: The desks, market makers, and infrastructure moving institutional-scale capital on-chain.\n• Institutional Privacy: Confidentiality without compromise — the privacy infrastructure institutions need to participate.\n\nCurrent speakers for Finality Forum include Avalanche, Base, Bitgo, Bloomberg, Canton, Chainlink, Coingecko, FalconX, Flow Traders, Flowdesk, Four Pillars, Google Gemini, GSR, Kaito, Kraken, Miden, Nansen, Nethermind, Ondo, Osero, Paxos, Pyth, Stripe, Tether, Visa, Wintermute, Wormhole, xStocks.\n\nFor more information, visit:\n• Website: https://finalityforum.xyz\n• X: https://x.com/FinalityForum\n• LinkedIn: https://www.linkedin.com/company/finality-forum/",
-    "startDate": "2026-10-09T02:00:00.000Z",
-    "endDate": "2026-10-09T10:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/g2lg0htf",
-    "website": "https://luma.com/g2lg0htf",
-    "coverImage": "/events/premier-finalityforum-ed7d5f5a.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "timezone": "Asia/Singapore",
-    "registrationUrl": "https://luma.com/g2lg0htf",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "hosts": [
-      "Ethene Labs",
-      "Four Pillars",
-      "Mira (fka Crypto Nomads)"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/g2lg0htf",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "Speakers & VIPs",
-        "url": "https://luma.com/g2lg0htf",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/g2lg0htf",
-      "eventId": "evt-l0Q2lprJGf8HgEj",
-      "fetchedAt": "2026-09-20T07:56:55.046Z",
-      "method": "luma-page"
-    }
-  },
-  {
     "id": "premier-gbshow",
     "slug": "global",
     "name": "Global Blockchain Show Abu Dhabi 2026",
@@ -1599,30 +1518,6 @@
     "source": "curated-premier",
     "slug": "ship-safe-devcon-mumbai-security-sessions",
     "coverImage": "/logo/partners/ibw.png"
-  },
-  {
-    "twitter": null,
-    "source": "curated-premier",
-    "coverImage": "/events/premier-rwa-week-2026-6e41e5be.webp",
-    "id": "premier-rwa-week-2026",
-    "slug": "rwa-week",
-    "name": "RWA Week 2026",
-    "description": "RWA WEEK — online and offline ecosystem platform for the real-world asset tokenization community: latest news, event calendar, online and offline events, interviews, and a networking and matchmaking platform.\n\n## What the platform offers\n\nNews coverage, a community event calendar, online and offline events, interviews with ecosystem voices, and a networking and matchmaking platform for participants.\n\n## Events\n\nBrowse upcoming real-world asset events in Dubai, Singapore, Hong Kong and beyond — including conferences, summits and networking events run under the RWA Week banner.",
-    "startDate": "2026-10-05T09:00:00+08:00",
-    "endDate": "2026-10-09T18:00:00+08:00",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore",
-    "url": "https://rwaweek.com/",
-    "website": "https://rwaweek.com/",
-    "registrationUrl": "https://rwaweek.com/",
-    "descriptionSource": {
-      "url": "https://rwaweek.com/",
-      "fetchedAt": "2026-09-22T12:14:29.000Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "RWA WEEK — Online & Offline Ecosystem Platform",
-      "sha256": "9b63d6dea36b0737bb04691ee90de6c5d1f8091d33efb83f6ec8d6f0ab294597"
-    }
   },
   {
     "twitter": null,

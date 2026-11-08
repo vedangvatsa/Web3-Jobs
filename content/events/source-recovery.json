@@ -20,47 +20,6 @@
       "reason": "The source title and image-based heading did not match the old punctuation variant; the organizer's event-specific page provides the full program."
     },
     {
-      "id": "premier-finalityforum",
-      "kind": "luma",
-      "sourceUrl": "https://luma.com/g2lg0htf",
-      "contains": [
-        "Finality Forum",
-        "Token2049",
-        "Singapore"
-      ],
-      "eventId": "evt-l0Q2lprJGf8HgEj",
-      "reason": "The event-specific registration page confirms 9 October, replacing the incorrect 7 October record linked to a company homepage."
-    },
-    {
-      "id": "token2049-side-6a622e12d1b48ddf39d08981",
-      "kind": "reviewed",
-      "sourceUrl": "https://sg2026.vaultsummit.xyz/",
-      "variant": "rendered",
-      "contains": [
-        "Fri, Oct 9 2026, 9:00 AM",
-        "6:00 PM",
-        "Vault Summit is a global conference series focused on onchain vault infrastructure for institutional asset management",
-        "Morpho",
-        "DigiFT"
-      ],
-      "description": "Vault Summit is a global conference series focused on onchain vault infrastructure for institutional asset management.\n\nInstitutional confidence in on-chain asset management, built vault by vault.\n\nThis is Vault Summit: Singapore.\n\n## Hosts and venue\n\nMorpho and DigiFT host the Singapore summit at Andaz Singapore on 9 October 2026, from 9:00 AM to 6:00 PM Singapore time.",
-      "patch": {
-        "name": "Vault Summit: Singapore",
-        "timezone": "Asia/Singapore",
-        "venueName": "Andaz Singapore",
-        "location": "Andaz Singapore, 5 Fraser St, Singapore 189354",
-        "streetAddress": "5 Fraser St",
-        "addressLocality": "Singapore",
-        "addressCountry": "SG",
-        "postalCode": "189354",
-        "hosts": [
-          "Morpho",
-          "DigiFT"
-        ]
-      },
-      "reason": "Recovered the organizer's BlockLive event content after client-side rendering; the initial HTML body was empty."
-    },
-    {
       "id": "token2049-side-6a739bc8d1b48ddf39d09e32",
       "kind": "reviewed",
       "sourceUrl": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",

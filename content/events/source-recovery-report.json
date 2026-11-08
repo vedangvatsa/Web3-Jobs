@@ -26,58 +26,6 @@
       ]
     },
     {
-      "id": "premier-finalityforum",
-      "outcome": "recovered",
-      "sourceUrl": "https://luma.com/g2lg0htf",
-      "reason": "The event-specific registration page confirms 9 October, replacing the incorrect 7 October record linked to a company homepage.",
-      "fetchedAt": "2026-09-20T07:56:55.046Z",
-      "characters": 1730,
-      "changes": [
-        "name",
-        "startDate",
-        "endDate",
-        "description",
-        "timezone",
-        "registrationUrl",
-        "coverImage",
-        "attendanceMode",
-        "visibility",
-        "locationHidden",
-        "hosts",
-        "price",
-        "approvalRequired",
-        "ticketOffers",
-        "registrationAvailability",
-        "sourceVerification",
-        "url",
-        "website"
-      ]
-    },
-    {
-      "id": "token2049-side-6a622e12d1b48ddf39d08981",
-      "outcome": "recovered",
-      "sourceUrl": "https://sg2026.vaultsummit.xyz/",
-      "reason": "Recovered the organizer's BlockLive event content after client-side rendering; the initial HTML body was empty.",
-      "fetchedAt": "2026-09-20T08:01:29.223Z",
-      "characters": 373,
-      "changes": [
-        "description",
-        "descriptionSource",
-        "website",
-        "registrationUrl",
-        "name",
-        "timezone",
-        "venueName",
-        "location",
-        "streetAddress",
-        "addressLocality",
-        "addressCountry",
-        "postalCode",
-        "hosts",
-        "slug"
-      ]
-    },
-    {
       "id": "token2049-side-6a739bc8d1b48ddf39d09e32",
       "outcome": "recovered",
       "sourceUrl": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
