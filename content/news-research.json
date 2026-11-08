@@ -142759,11 +142759,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "777906595fa36bba5479",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
       "attempts": 0,
       "expiresAt": "2026-11-08T10:25:28.000Z",
-      "lastSeenAt": "2026-11-06T00:28:20.054Z"
+      "lastSeenAt": "2026-11-06T00:28:20.054Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-11-08T10:43:19.104Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-11-08"
     },
     "190d4afdee4cdb99a182": {
       "source": "The Defiant",
@@ -144135,11 +144141,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "02c128dad7d3067639d5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
       "attempts": 0,
       "expiresAt": "2026-11-08T10:28:26.000Z",
-      "lastSeenAt": "2026-11-06T00:28:20.054Z"
+      "lastSeenAt": "2026-11-06T00:28:20.054Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-11-08T10:43:19.104Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-11-08"
     },
     "171faa1ee346ac442848": {
       "source": "CoinDesk",
@@ -146540,11 +146552,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "8669b4030312ab4b422c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
       "attempts": 0,
       "expiresAt": "2026-11-08T10:28:58.000Z",
-      "lastSeenAt": "2026-11-06T00:28:20.054Z"
+      "lastSeenAt": "2026-11-06T00:28:20.054Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-11-08T10:43:19.104Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-11-08"
     },
     "f300f31737808a0e8d32": {
       "source": "Cointelegraph",
@@ -282617,6 +282635,30 @@
             "Find independent reporting confirming the event in: How to Restore Access to a Crypto Wallet",
             "Retry the attempted URLs after any Retry-After time, within the existing verification window."
           ]
+        },
+        "777906595fa36bba5479": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-11-08T10:43:19.104Z",
+          "automatic": true
+        },
+        "02c128dad7d3067639d5": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-11-08T10:43:19.104Z",
+          "automatic": true
+        },
+        "8669b4030312ab4b422c": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-11-08T10:43:19.104Z",
+          "automatic": true
         }
       },
       "baselineSlugs": [
@@ -283066,8 +283108,7 @@
         ],
         "total": 79,
         "checkedAt": "2026-11-08T10:05:15.191Z"
-      },
-      "validationErrors": []
+      }
     }
   }
 }
