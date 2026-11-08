@@ -116984,6 +116984,40 @@
       "attemptId": "e2692190-9f6b-4d7f-931d-df0052f82514",
       "verification": "verified",
       "postId": "0xd68add3f05c00344d265283e3b1cfe23aa68275e"
+    },
+    {
+      "slug": "eng716",
+      "company": "DRW",
+      "title": "Senior Software Engineer, Unified Platform - Platform Services",
+      "platform": "farcaster",
+      "postedAt": "2026-11-08T11:37:08.161Z",
+      "expectedText": "DRW is hiring Senior Software Engineer, Unified Platform - Platform Services\n\nhttps://hashtagweb3.com/eng716/fc?og=7",
+      "snapshot": {
+        "id": "8156100",
+        "title": "Senior Software Engineer, Unified Platform - Platform Services",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8156100",
+        "date": "2026-11-03T12:37:37-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "London",
+        "department": "UP - Platform Services",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng716"
+      },
+      "payload": {
+        "text": "DRW is hiring Senior Software Engineer, Unified Platform - Platform Services\n\nhttps://hashtagweb3.com/eng716/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng716/fc?og=7"
+          }
+        ],
+        "channel_id": "growth"
+      },
+      "account": "channel:growth",
+      "attemptId": "f8b8d96f-c653-485c-998c-ba74c42688ab",
+      "verification": "creating"
     }
   ]
 }
