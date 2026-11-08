@@ -117379,6 +117379,41 @@
       "attemptId": "2fff8a00-0975-4323-83e7-756930c9b008",
       "verification": "verified",
       "postId": "0x43dd33c8c734c9e1b29c63fea0cc95cc75b36b06"
+    },
+    {
+      "slug": "sls377",
+      "company": "TRM Labs",
+      "title": "Account Director, Defense",
+      "platform": "farcaster",
+      "postedAt": "2026-11-08T19:32:48.543Z",
+      "expectedText": "TRM Labs is hiring Account Director, Defense\n\nhttps://hashtagweb3.com/sls377/fc?og=7",
+      "snapshot": {
+        "id": "52117eb8-a8c0-45d5-ad74-fe31a347a15b",
+        "title": "Account Director, Defense",
+        "company": "TRM Labs",
+        "link": "https://jobs.ashbyhq.com/trm-labs/52117eb8-a8c0-45d5-ad74-fe31a347a15b",
+        "date": "2026-10-30T15:15:25.926+00:00",
+        "source": "Ashby: TRM Labs [trm-labs]",
+        "location": "Remote (United States)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Go-To-Market",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls377"
+      },
+      "payload": {
+        "text": "TRM Labs is hiring Account Director, Defense\n\nhttps://hashtagweb3.com/sls377/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls377/fc?og=7"
+          }
+        ],
+        "channel_id": "bounties"
+      },
+      "account": "channel:bounties",
+      "attemptId": "1483e308-b5f1-470d-af46-b1423c154725",
+      "verification": "creating"
     }
   ]
 }
