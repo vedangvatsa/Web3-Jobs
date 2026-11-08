@@ -29,7 +29,7 @@ import { enrichMultiOfficeLocations } from './lib/enrich-multi-office-locations'
 import { assertAtsSourceAllowed, getJobSourceIssue } from '../src/lib/job-source-policy';
 import { verifyAshbyEmployer, validateAshbyOrganization } from './lib/ashby-employer-verification';
 import { isJobAgeEligible } from '../src/lib/job-age-policy.mjs';
-import { preserveOriginalJobDate } from '../src/lib/job-source-date';
+import { preserveOriginalJobDate, normalizeSourcePostingDate } from '../src/lib/job-source-date';
 import { readJobDateHistory, writeJobDateHistory } from './lib/job-ingestion-policy';
 import { fetchBreezyPrimaryDate } from './lib/breezy-primary-date';
 
@@ -939,6 +939,7 @@ async function refreshJobsCache() {
     { board: 'codex', company: 'Codex' },
     { board: 'projecteleven', company: 'Project Eleven' },
     { board: 'batoncorporation', company: 'pump.fun' },
+    { board: 'Coinflow', company: 'Coinflow' },
   ];
 
   for (const ab of ASHBY_BOARDS) {
@@ -2164,6 +2165,116 @@ async function refreshJobsCache() {
   } catch (error: any) {
     feedsFailed++;
     console.warn(`  ❌ Superteam Talent: ${error.message}`);
+  }
+
+  // --- Kula ATS Source (Relay) ---
+  const KULA_BOARDS = [
+    { board: 'relay', company: 'Relay' },
+  ];
+
+  for (const kb of KULA_BOARDS) {
+    registerDirectSource('Kula', kb.board, kb.company);
+    try {
+      const res = await fetch(`https://careers.kula.ai/${encodeURIComponent(kb.board)}`, {
+        headers: { 'User-Agent': 'Mozilla/5.0 (compatible; HashtagWeb3/1.0)' },
+        signal: AbortSignal.timeout(FEED_TIMEOUT_MS),
+      });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const html = await res.text();
+      // Extract RSC chunks
+      const scriptRegex = /<script>self\.__next_f\.push\((.*?)\)<\/script>/gs;
+      let fullRsc = '';
+      let m: RegExpExecArray | null;
+      while ((m = scriptRegex.exec(html)) !== null) {
+        try {
+          const parsed = JSON.parse(m[1]);
+          if (Array.isArray(parsed) && parsed[1]) fullRsc += parsed[1];
+        } catch {}
+      }
+
+      const jobsIdx = fullRsc.indexOf('"jobs":');
+      if (jobsIdx !== -1) {
+        const chunk = fullRsc.substring(jobsIdx);
+        let depth = 0;
+        let start = chunk.indexOf('[');
+        let end = -1;
+        for (let i = start; i < chunk.length; i++) {
+          if (chunk[i] === '[') depth++;
+          else if (chunk[i] === ']') {
+            depth--;
+            if (depth === 0) {
+              end = i;
+              break;
+            }
+          }
+        }
+
+        const kulaJobs = JSON.parse(chunk.substring(start, end + 1));
+        removeJobs((job) => matchesRefreshedSource(job, 'Kula', kb.board, kb.company));
+        removeAggregatorCopiesForCompany(kb.company);
+
+        let added = 0;
+        for (const job of kulaJobs) {
+          const title = cleanTitle(job.title);
+          const link = `https://careers.kula.ai/${kb.board}/${job.id}`;
+          if (!title || !job.listed || !isConcreteOpening(title, link)) continue;
+
+          const date = normalizeSourcePostingDate(job.launch_at);
+          const offices = job.ats_job?.offices || [];
+          const officeNames = offices.map((o: any) => (o.country || o.name || o.location || '').trim()).filter(Boolean);
+          const uniqueNames = [...new Set(officeNames)];
+          const isRemote = (job.ats_job?.workplace || '').toLowerCase().includes('remote') || offices.some((o: any) => o.remote || (o.workplace || '').toLowerCase().includes('remote'));
+          let location = 'Remote';
+          if (isRemote) {
+            if (uniqueNames.length === 1 && uniqueNames[0] !== 'United States') {
+              location = /remote/i.test(uniqueNames[0]) ? uniqueNames[0] : `Remote (${uniqueNames[0]})`;
+            } else if (uniqueNames.length > 1) {
+              const cleaned = uniqueNames.map((n: string) => n.replace(/^Remote\s*-\s*/i, '').trim());
+              location = `Remote (${cleaned.join(', ')})`;
+            }
+          } else if (uniqueNames.length > 0) {
+            location = uniqueNames.join(', ');
+          }
+
+          let content = '';
+          const descRef = job.ats_job?.job_description?.replace(/^\$/, '');
+          if (descRef) {
+            const regex = new RegExp(`(?:^|\\n|[\\]\\}>])${descRef}:T([0-9a-f]+),`, 'i');
+            const match = fullRsc.match(regex);
+            if (match) {
+              const hexLen = parseInt(match[1], 16);
+              const contentStart = match.index! + match[0].length;
+              content = fullRsc.substring(contentStart, contentStart + hexLen)
+                .replace(/^<h3><\/h3>/i, '')
+                .replace(/^(?:<br\s*\/?>|<\/br>|\s)+/i, '')
+                .trim();
+            }
+          }
+
+          const candidate: CachedJob = {
+            id: String(job.id),
+            title,
+            company: kb.company,
+            link,
+            date: date || '',
+            dateVerified: Boolean(date),
+            dateSource: 'Kula.Job.launch_at',
+            source: sourceLabel('Kula', kb.board, kb.company),
+            location,
+            department: job.ats_job?.ats_department?.name || 'Engineering',
+            active: true,
+          };
+          if (upsertJob(candidate)) added++;
+          if (content) rememberDescription(candidate, content);
+        }
+
+        feedsOk++;
+        console.log(`  ✅ Kula (${kb.company}): ${kulaJobs.length} items, ${added} new`);
+      }
+    } catch (error: any) {
+      feedsFailed++;
+      console.warn(`  ❌ Kula (${kb.company}): ${error.message}`);
+    }
   }
 
   const elapsed = Date.now() - fetchStart;

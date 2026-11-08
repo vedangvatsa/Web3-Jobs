@@ -1546,36 +1546,6 @@
     "slug": "fsbc"
   },
   {
-    "id": "infosys-infsys-external-255106",
-    "title": "Blockchain Developer",
-    "company": "Infosys",
-    "link": "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-255106&sourceId=1",
-    "applyUrl": "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-255106&sourceId=1",
-    "date": "2026-11-06T00:00:00.000Z",
-    "dateVerified": true,
-    "dateSource": "Infosys Careers Portal",
-    "source": "Infosys Careers [infosys]",
-    "location": "Bangalore, India",
-    "department": "Block Chain Services",
-    "active": true,
-    "slug": "dev48"
-  },
-  {
-    "id": "infosys-infsys-external-255107",
-    "title": "Blockchain Developer",
-    "company": "Infosys",
-    "link": "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-255107&sourceId=1",
-    "applyUrl": "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-255107&sourceId=1",
-    "date": "2026-11-06T00:00:00.000Z",
-    "dateVerified": true,
-    "dateSource": "Infosys Careers Portal",
-    "source": "Infosys Careers [infosys]",
-    "location": "Bangalore, India",
-    "department": "Block Chain Services",
-    "active": true,
-    "slug": "dev49"
-  },
-  {
     "id": "81",
     "title": "General Counsel",
     "company": "Rhino.fi",
@@ -3819,6 +3789,51 @@
     "slug": "ops128"
   },
   {
+    "id": "ed2da226-a787-493e-ace0-9890ca3d2f8a",
+    "title": "Senior QA Automation Engineer",
+    "company": "BTSE",
+    "link": "https://jobs.lever.co/BTSE/ed2da226-a787-493e-ace0-9890ca3d2f8a",
+    "date": "2026-11-04T09:04:11.703Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt",
+    "source": "Lever: BTSE [BTSE]",
+    "location": "Southeast Asia",
+    "workplaceType": "remote",
+    "department": "BTSE",
+    "active": true,
+    "slug": "qa104"
+  },
+  {
+    "id": "1902068b-6097-43aa-966c-7af035cc6998",
+    "title": "Senior QA Engineer",
+    "company": "BTSE",
+    "link": "https://jobs.lever.co/BTSE/1902068b-6097-43aa-966c-7af035cc6998",
+    "date": "2026-11-04T09:02:47.570Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt",
+    "source": "Lever: BTSE [BTSE]",
+    "location": "Southeast Asia",
+    "workplaceType": "remote",
+    "department": "BTSE",
+    "active": true,
+    "slug": "qa103"
+  },
+  {
+    "id": "4cc72ca2-096b-4a3f-bbb4-29e95e6d4755",
+    "title": "Junior Legal Counsel / Paralegal",
+    "company": "BTSE",
+    "link": "https://jobs.lever.co/BTSE/4cc72ca2-096b-4a3f-bbb4-29e95e6d4755",
+    "date": "2026-11-04T08:57:36.283Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt",
+    "source": "Lever: BTSE [BTSE]",
+    "location": "Taipei",
+    "workplaceType": "onsite",
+    "department": "BTSE",
+    "active": true,
+    "slug": "cmp159"
+  },
+  {
     "id": "5026957101",
     "title": "Test Engineer",
     "company": "Bybit",
@@ -4076,6 +4091,21 @@
     "salary": "$214.7k – $322.0k/yr",
     "dateVerified": true,
     "slug": "infra64"
+  },
+  {
+    "id": "2d3152b1-bcea-4ae0-b998-0348944a7d37",
+    "title": "HR Operations Associate (Payroll)",
+    "company": "BTSE",
+    "link": "https://jobs.lever.co/BTSE/2d3152b1-bcea-4ae0-b998-0348944a7d37",
+    "date": "2026-11-04T03:37:49.258Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt",
+    "source": "Lever: BTSE [BTSE]",
+    "location": "Taipei",
+    "workplaceType": "onsite",
+    "department": "BTSE",
+    "active": true,
+    "slug": "rec62"
   },
   {
     "id": "390f4cd0-e0e4-451c-ae28-e6b19861dda9",
@@ -4825,13 +4855,14 @@
     "company": "Coinflow",
     "link": "https://jobs.ashbyhq.com/Coinflow/d24a6d19-ae39-4625-85e5-f5a704e80883",
     "date": "2026-11-03T17:24:15.547+00:00",
-    "source": "Ashby: Coinflow [coinflow]",
+    "dateVerified": true,
+    "dateSource": "Ashby.publishedAt",
+    "source": "Ashby: Coinflow [Coinflow]",
     "location": "Chicago",
     "isRemote": false,
     "workplaceType": "OnSite",
     "department": "Product",
     "active": true,
-    "dateVerified": true,
     "slug": "pm360"
   },
   {
@@ -5810,6 +5841,21 @@
     "slug": "cmp146"
   },
   {
+    "id": "262d8af1-1019-45ad-9445-033239adf268",
+    "title": "Senior Accountant",
+    "company": "CoinsPaid",
+    "link": "https://jobs.eu.lever.co/coinspaid/262d8af1-1019-45ad-9445-033239adf268",
+    "date": "2026-11-02T20:10:14.925Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt",
+    "source": "Lever: CoinsPaid [coinspaid]",
+    "location": "Remote - European Region",
+    "workplaceType": "hybrid",
+    "department": "Finance and Accounting",
+    "active": true,
+    "slug": "sls453"
+  },
+  {
     "id": "da8bfeb0-8d43-4fa0-808b-28025ce70feb",
     "title": "Staff Forward Deployed Software Engineer",
     "company": "Spruce",
@@ -6375,6 +6421,21 @@
     "salary": "$93.5k – $110k/yr",
     "dateVerified": true,
     "slug": "pm207"
+  },
+  {
+    "id": "3cdf09ef-364c-424e-a920-940f7749c285",
+    "title": "Cyber Security Operations Center (CSOC) Analyst (English Speaker)",
+    "company": "BTSE",
+    "link": "https://jobs.lever.co/BTSE/3cdf09ef-364c-424e-a920-940f7749c285",
+    "date": "2026-11-02T09:38:11.353Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt",
+    "source": "Lever: BTSE [BTSE]",
+    "location": "Jakarta",
+    "workplaceType": "remote",
+    "department": "BTSE",
+    "active": true,
+    "slug": "sec154"
   },
   {
     "id": "6240404004",
@@ -7322,6 +7383,21 @@
     "active": true,
     "dateVerified": true,
     "slug": "ccb"
+  },
+  {
+    "id": "e41dd011-021e-4d47-bc62-49734e78475b",
+    "title": "Customer Success Manager",
+    "company": "CoinsPaid",
+    "link": "https://jobs.eu.lever.co/coinspaid/e41dd011-021e-4d47-bc62-49734e78475b",
+    "date": "2026-10-30T16:25:24.855Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt",
+    "source": "Lever: CoinsPaid [coinspaid]",
+    "location": "Remote - European Region",
+    "workplaceType": "hybrid",
+    "department": "Revenue Division",
+    "active": true,
+    "slug": "mgr239"
   },
   {
     "id": "5f4fdc58-82be-4e28-95ec-b3b04211cf01",
@@ -8341,6 +8417,21 @@
     "slug": "infra55"
   },
   {
+    "id": "e66cb9c3-1c6d-4e08-9c67-65bf235e5265",
+    "title": "Engineering Manager",
+    "company": "CoinsPaid",
+    "link": "https://jobs.eu.lever.co/coinspaid/e66cb9c3-1c6d-4e08-9c67-65bf235e5265",
+    "date": "2026-10-29T17:42:01.547Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt",
+    "source": "Lever: CoinsPaid [coinspaid]",
+    "location": "Remote - European Region",
+    "workplaceType": "hybrid",
+    "department": "Engineering",
+    "active": true,
+    "slug": "eng737"
+  },
+  {
     "id": "3dc0be0b-2db8-47b5-b81d-2f79cb0eeb2d",
     "title": "Customer Engineering Lead",
     "company": "Veda",
@@ -8579,13 +8670,14 @@
     "company": "Coinflow",
     "link": "https://jobs.ashbyhq.com/Coinflow/c463c363-b2e2-425f-bc7f-332a53955ded",
     "date": "2026-10-29T14:03:57.836+00:00",
-    "source": "Ashby: Coinflow [coinflow]",
+    "dateVerified": true,
+    "dateSource": "Ashby.publishedAt",
+    "source": "Ashby: Coinflow [Coinflow]",
     "location": "Chicago",
     "isRemote": false,
     "workplaceType": "OnSite",
     "department": "Engineering",
     "active": true,
-    "dateVerified": true,
     "slug": "fds2"
   },
   {
@@ -8594,13 +8686,14 @@
     "company": "Coinflow",
     "link": "https://jobs.ashbyhq.com/Coinflow/2aafaa5c-11db-4dde-b567-39709479e0cc",
     "date": "2026-10-29T13:57:46.992+00:00",
-    "source": "Ashby: Coinflow [coinflow]",
+    "dateVerified": true,
+    "dateSource": "Ashby.publishedAt",
+    "source": "Ashby: Coinflow [Coinflow]",
     "location": "Chicago",
     "isRemote": false,
     "workplaceType": "OnSite",
     "department": "Engineering",
     "active": true,
-    "dateVerified": true,
     "slug": "eng365"
   },
   {
@@ -8638,13 +8731,14 @@
     "company": "Coinflow",
     "link": "https://jobs.ashbyhq.com/Coinflow/f367c81e-aa74-4e09-8838-a9816178ae48",
     "date": "2026-10-29T13:04:59.727+00:00",
-    "source": "Ashby: Coinflow [coinflow]",
+    "dateVerified": true,
+    "dateSource": "Ashby.publishedAt",
+    "source": "Ashby: Coinflow [Coinflow]",
     "location": "Chicago",
     "isRemote": false,
     "workplaceType": "OnSite",
     "department": "Engineering",
     "active": true,
-    "dateVerified": true,
     "slug": "eng362"
   },
   {
@@ -8791,6 +8885,21 @@
     "slug": "sec70"
   },
   {
+    "id": "5c374137-ac44-47e8-8f21-21ec08c057b9",
+    "title": "Head of Accounting",
+    "company": "CoinsPaid",
+    "link": "https://jobs.eu.lever.co/coinspaid/5c374137-ac44-47e8-8f21-21ec08c057b9",
+    "date": "2026-10-29T09:55:46.433Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt",
+    "source": "Lever: CoinsPaid [coinspaid]",
+    "location": "Remote - European Region",
+    "workplaceType": "hybrid",
+    "department": "Finance and Accounting",
+    "active": true,
+    "slug": "sls452"
+  },
+  {
     "id": "ff286fc8-8890-497e-9792-c51a283f167d",
     "title": "QA Automation Engineer",
     "company": "GRVT",
@@ -8861,6 +8970,21 @@
     "active": true,
     "dateVerified": true,
     "slug": "pm244"
+  },
+  {
+    "id": "46e396ba-b056-4679-b4a4-c2984c346c6b",
+    "title": "[Fintech] Settlement Associate (Mandarin Speaking, Shifting Required)",
+    "company": "BTSE",
+    "link": "https://jobs.lever.co/BTSE/46e396ba-b056-4679-b4a4-c2984c346c6b",
+    "date": "2026-10-29T08:29:27.583Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt",
+    "source": "Lever: BTSE [BTSE]",
+    "location": "Malaysia",
+    "workplaceType": "hybrid",
+    "department": "BTSE",
+    "active": true,
+    "slug": "aso85"
   },
   {
     "id": "8333165",
@@ -11353,6 +11477,21 @@
     "slug": "fe27"
   },
   {
+    "id": "a8a073a7-5003-4c12-bdd9-863833420cab",
+    "title": "Core Operations Senior Manager",
+    "company": "BTSE",
+    "link": "https://jobs.lever.co/BTSE/a8a073a7-5003-4c12-bdd9-863833420cab",
+    "date": "2026-10-27T09:35:35.860Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt",
+    "source": "Lever: BTSE [BTSE]",
+    "location": "Taipei",
+    "workplaceType": "onsite",
+    "department": "BTSE",
+    "active": true,
+    "slug": "ops156"
+  },
+  {
     "id": "8226890",
     "title": "Frontend Engineer, UI Platform",
     "company": "Stripe",
@@ -11948,6 +12087,21 @@
     "slug": "pm330"
   },
   {
+    "id": "1fa53869-f9bc-42c5-926e-1a1ebcfc5da0",
+    "title": "Sales and GTM Operations Manager",
+    "company": "CoinsPaid",
+    "link": "https://jobs.eu.lever.co/coinspaid/1fa53869-f9bc-42c5-926e-1a1ebcfc5da0",
+    "date": "2026-10-26T16:52:17.758Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt",
+    "source": "Lever: CoinsPaid [coinspaid]",
+    "location": "Remote - European Region",
+    "workplaceType": "hybrid",
+    "department": "Operational Division",
+    "active": true,
+    "slug": "sls449"
+  },
+  {
     "id": "1e3b5c1e-28aa-4a8b-9af6-785df4aacd5f",
     "title": "KYB Operations Lead, UK",
     "company": "Ramp",
@@ -12156,13 +12310,14 @@
     "company": "Coinflow",
     "link": "https://jobs.ashbyhq.com/Coinflow/8d7956ce-8160-45d2-a090-5f5cb337377a",
     "date": "2026-10-26T12:49:30.582+00:00",
-    "source": "Ashby: Coinflow [coinflow]",
+    "dateVerified": true,
+    "dateSource": "Ashby.publishedAt",
+    "source": "Ashby: Coinflow [Coinflow]",
     "location": "Europe / Israel",
     "isRemote": null,
     "workplaceType": null,
     "department": "Infosec",
     "active": true,
-    "dateVerified": true,
     "slug": "sec128"
   },
   {
@@ -12433,6 +12588,36 @@
     "active": true,
     "dateVerified": true,
     "slug": "an106"
+  },
+  {
+    "id": "21f0e26e-6ef9-41d6-ab85-f6dc7b869dc9",
+    "title": "Business System Analyst (Admin Team)",
+    "company": "CoinsPaid",
+    "link": "https://jobs.eu.lever.co/coinspaid/21f0e26e-6ef9-41d6-ab85-f6dc7b869dc9",
+    "date": "2026-10-26T07:40:54.372Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt",
+    "source": "Lever: CoinsPaid [coinspaid]",
+    "location": "Remote - European Region",
+    "workplaceType": "hybrid",
+    "department": "Products Division",
+    "active": true,
+    "slug": "an128"
+  },
+  {
+    "id": "41033c35-31db-4c77-a906-55a2c308d5d4",
+    "title": "Data and Reporting Analyst",
+    "company": "CoinsPaid",
+    "link": "https://jobs.eu.lever.co/coinspaid/41033c35-31db-4c77-a906-55a2c308d5d4",
+    "date": "2026-10-26T07:36:28.143Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt",
+    "source": "Lever: CoinsPaid [coinspaid]",
+    "location": "Remote - European Region",
+    "workplaceType": "hybrid",
+    "department": "Finance and Accounting",
+    "active": true,
+    "slug": "an125"
   },
   {
     "id": "4466965009",
@@ -13540,6 +13725,21 @@
     "slug": "tr75"
   },
   {
+    "id": "a478fcaf-b57b-4790-b8d2-4b733fecb5f2",
+    "title": "QA Principal",
+    "company": "CoinsPaid",
+    "link": "https://jobs.eu.lever.co/coinspaid/a478fcaf-b57b-4790-b8d2-4b733fecb5f2",
+    "date": "2026-10-23T12:26:13.227Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt",
+    "source": "Lever: CoinsPaid [coinspaid]",
+    "location": "Remote - Worldwide",
+    "workplaceType": "onsite",
+    "department": "Management",
+    "active": true,
+    "slug": "qa102"
+  },
+  {
     "id": "5014891101",
     "title": "VIP Relationship Manager, Korea",
     "company": "Bybit",
@@ -13566,6 +13766,21 @@
     "active": true,
     "dateVerified": true,
     "slug": "as2"
+  },
+  {
+    "id": "25578e8a-93e2-4209-bcf5-a714448470b5",
+    "title": "Atlassian Administrator",
+    "company": "CoinsPaid",
+    "link": "https://jobs.eu.lever.co/coinspaid/25578e8a-93e2-4209-bcf5-a714448470b5",
+    "date": "2026-10-23T09:42:00.130Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt",
+    "source": "Lever: CoinsPaid [coinspaid]",
+    "location": "Remote - European Region",
+    "workplaceType": "hybrid",
+    "department": "Engineering",
+    "active": true,
+    "slug": "aa"
   },
   {
     "id": "5461975008",
@@ -14444,6 +14659,21 @@
     "slug": "aso22"
   },
   {
+    "id": "c99ebe3e-5590-4745-9b25-fe8507df9413",
+    "title": "Senior Golang Engineer",
+    "company": "CoinsPaid",
+    "link": "https://jobs.eu.lever.co/coinspaid/c99ebe3e-5590-4745-9b25-fe8507df9413",
+    "date": "2026-10-22T12:39:23.267Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt",
+    "source": "Lever: CoinsPaid [coinspaid]",
+    "location": "Remote - European Region",
+    "workplaceType": "hybrid",
+    "department": "Engineering",
+    "active": true,
+    "slug": "eng736"
+  },
+  {
     "id": "5009824101",
     "title": "Lead Product Manager, DeFi",
     "company": "Bitpanda",
@@ -15259,13 +15489,14 @@
     "company": "Coinflow",
     "link": "https://jobs.ashbyhq.com/Coinflow/6ac76cb5-b395-4a2b-bef4-124c176359fd",
     "date": "2026-10-21T15:21:56.577+00:00",
-    "source": "Ashby: Coinflow [coinflow]",
+    "dateVerified": true,
+    "dateSource": "Ashby.publishedAt",
+    "source": "Ashby: Coinflow [Coinflow]",
     "location": "Chicago",
     "isRemote": false,
     "workplaceType": "OnSite",
     "department": "Finance",
     "active": true,
-    "dateVerified": true,
     "slug": "an25"
   },
   {
@@ -16794,6 +17025,21 @@
     "slug": "mgr193"
   },
   {
+    "id": "66801d1e-351f-4e90-81e2-82b0695a040d",
+    "title": "Senior Product Manager (B2B Product)",
+    "company": "BTSE",
+    "link": "https://jobs.lever.co/BTSE/66801d1e-351f-4e90-81e2-82b0695a040d",
+    "date": "2026-10-20T03:12:00.648Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt",
+    "source": "Lever: BTSE [BTSE]",
+    "location": "Hong Kong",
+    "workplaceType": "remote",
+    "department": "BTSE",
+    "active": true,
+    "slug": "pm380"
+  },
+  {
     "id": "8886061002",
     "title": "Senior Treasury and FinOps Analyst",
     "company": "Figure",
@@ -18071,22 +18317,6 @@
     "active": true,
     "dateVerified": true,
     "slug": "fs36"
-  },
-  {
-    "id": "85a9eddd-1fb9-4040-9151-f89a4e779015",
-    "title": "Software Engineer, Full Stack",
-    "company": "Mantle Network",
-    "link": "https://jobs.ashbyhq.com/mantle/85a9eddd-1fb9-4040-9151-f89a4e779015",
-    "date": "2026-10-16T21:54:29.809+00:00",
-    "source": "Ashby: Mantle Network [mantle]",
-    "location": "San Francisco",
-    "department": "Engineering",
-    "isRemote": false,
-    "workplaceType": "OnSite",
-    "applyUrl": "https://jobs.ashbyhq.com/mantle/85a9eddd-1fb9-4040-9151-f89a4e779015/application",
-    "active": true,
-    "dateVerified": true,
-    "slug": "fs35"
   },
   {
     "id": "8292793",
@@ -20062,13 +20292,14 @@
     "company": "Merkle Science",
     "link": "https://jobs.lever.co/merklescience/31c164c9-1af0-4e20-ab81-3ef7cc172c7f",
     "date": "2026-10-15T07:46:10.634Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt",
     "source": "Lever: Merkle Science [merklescience]",
-    "location": "Remote (New York)",
+    "location": "New York",
     "workplaceType": "remote",
     "department": "Sales",
-    "salary": "USD 55,000 - USD 80,000 per year",
+    "salary": "USD 55,000 - USD 80,000/yr",
     "active": true,
-    "dateVerified": true,
     "slug": "sls40"
   },
   {
@@ -21070,6 +21301,21 @@
     "slug": "pm126"
   },
   {
+    "id": "ef0e2534-e955-4663-8295-9c6d1e326b1f",
+    "title": "Treasury Officer",
+    "company": "CoinsPaid",
+    "link": "https://jobs.eu.lever.co/coinspaid/ef0e2534-e955-4663-8295-9c6d1e326b1f",
+    "date": "2026-10-14T08:20:29.078Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt",
+    "source": "Lever: CoinsPaid [coinspaid]",
+    "location": "Remote - European Region",
+    "workplaceType": "hybrid",
+    "department": "Finance and Accounting",
+    "active": true,
+    "slug": "to2"
+  },
+  {
     "id": "8019375003",
     "title": "Financial Controller (Remote - Work from Anywhere)",
     "company": "Xapo Bank",
@@ -21524,18 +21770,6 @@
     "slug": "mgr183"
   },
   {
-    "id": "98279576",
-    "title": "Internal Tooling Engineer",
-    "company": "Uneven Labs",
-    "link": "https://careers.kula.ai/relay/62222",
-    "date": "2026-10-13T16:47:25.000Z",
-    "source": "https://jobs.archetype.fund/jobs",
-    "dateVerified": true,
-    "dateSource": "Kula.Job.launch_at",
-    "slug": "eng734",
-    "location": "Not specified"
-  },
-  {
     "id": "62222",
     "title": "Internal Tooling Engineer",
     "company": "Relay",
@@ -21547,18 +21781,18 @@
     "location": "Remote (United States, United Kingdom, Germany, France)",
     "department": "Engineering",
     "active": true,
-    "slug": "eng735"
+    "slug": "eng734"
   },
   {
-    "id": "98353349",
-    "title": "Full-Stack Engineer (Security)",
+    "id": "98279576",
+    "title": "Internal Tooling Engineer",
     "company": "Uneven Labs",
-    "link": "https://careers.kula.ai/relay/62221",
-    "date": "2026-10-13T16:46:48.000Z",
+    "link": "https://careers.kula.ai/relay/62222",
+    "date": "2026-10-13T16:47:25.000Z",
     "source": "https://jobs.archetype.fund/jobs",
     "dateVerified": true,
     "dateSource": "Kula.Job.launch_at",
-    "slug": "sec152",
+    "slug": "eng735",
     "location": "Not specified"
   },
   {
@@ -21573,7 +21807,19 @@
     "location": "Remote (United States, United Kingdom, Germany, France)",
     "department": "Infrastructure",
     "active": true,
-    "slug": "sec153"
+    "slug": "sec152"
+  },
+  {
+    "id": "98353349",
+    "title": "Full-Stack Engineer (Security)",
+    "company": "Uneven Labs",
+    "link": "https://careers.kula.ai/relay/62221",
+    "date": "2026-10-13T16:46:48.000Z",
+    "source": "https://jobs.archetype.fund/jobs",
+    "dateVerified": true,
+    "dateSource": "Kula.Job.launch_at",
+    "slug": "sec153",
+    "location": "Not specified"
   },
   {
     "id": "62220",
@@ -22519,13 +22765,14 @@
     "company": "Coinflow",
     "link": "https://jobs.ashbyhq.com/Coinflow/9aac086d-4289-4b5d-a488-1189dde5254e",
     "date": "2026-10-12T17:16:05.695+00:00",
-    "source": "Ashby: Coinflow [coinflow]",
+    "dateVerified": true,
+    "dateSource": "Ashby.publishedAt",
+    "source": "Ashby: Coinflow [Coinflow]",
     "location": "Chicago",
     "isRemote": false,
     "workplaceType": "OnSite",
     "department": "Risk & Compliance",
     "active": true,
-    "dateVerified": true,
     "slug": "an89"
   },
   {
@@ -23038,6 +23285,21 @@
     "active": true,
     "dateVerified": true,
     "slug": "mgr177"
+  },
+  {
+    "id": "53f2498c-e5af-4671-ab26-f52deb767b01",
+    "title": "Senior Database Administrator (PostgreSQL)",
+    "company": "BTSE",
+    "link": "https://jobs.lever.co/BTSE/53f2498c-e5af-4671-ab26-f52deb767b01",
+    "date": "2026-10-12T02:17:13.182Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt",
+    "source": "Lever: BTSE [BTSE]",
+    "location": "Taipei",
+    "workplaceType": "onsite",
+    "department": "BTSE",
+    "active": true,
+    "slug": "dap2"
   },
   {
     "id": "7a26acef-3fc6-4f87-8483-be6fb83ef474",
