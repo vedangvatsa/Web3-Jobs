@@ -905,6 +905,9 @@
   "https://hashtagweb3.com/mexcorder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/bitgostacks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/amplitude?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/equityperps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/agentpay?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/qubicdrain?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2621,6 +2624,12 @@
   "BitGo Launches Bitcoin Staking Through Stacks for Institutional Clients",
   "Coinbase Customer Contact Data Exposed via Analytics Vendor Amplitude",
   "Coinbase Says Analytics Vendor Amplitude Exposed Customer Contact Data",
+  "CFTC Approves Stock Perpetual Futures Despite Industry Lawsuit",
+  "CFTC clears stock perpetual futures as an industry group sues to stop them",
+  "Mastercard launches early access for AI agent payments",
+  "Mastercard opens early access for AI agent payments after pilots",
+  "Qubic Halts Mainnet After Exploit Drains 1,404 Wallets",
+  "Qubic halts network after attacker drains 1,404 wallets",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -3076,5 +3085,8 @@
   "fp:192m|50m|behind|binanc|elliptic|hacker|remain|stolen|swap|theft",
   "fp:16b|alleg|bank|block|cybercrim|evasion|exchang|fincen|global|illicit",
   "fp:bitgo|bond|client|earn|fiv|institution|institutional|month|pair|percent",
-  "fp:affect|amplitud|analytic|coinbas|contact|customer|data|expos|fund|incident"
+  "fp:affect|amplitud|analytic|coinbas|contact|customer|data|expos|fund|incident",
+  "fp:approv|cftc|clear|court|deni|despit|emergency|equity|exchang|futur",
+  "fp:access|agent|allow|budget|buy|digital|early|human|mastercard|open",
+  "fp:404|attack|attacker|drains1|exploit|froz|halt|mainnet|most|network"
 ]

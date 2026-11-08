@@ -3278,7 +3278,7 @@
     "sentAt": "2026-11-07T19:34:08.139Z"
   },
   "24e0bf57-9def-4b97-ac69-678c9267e6a1": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-08T11:33:35.189Z",
     "stories": [
       {
@@ -3306,6 +3306,8 @@
         "originalTitle": "Qubic halts network after attacker drains 1,404 wallets"
       }
     ],
-    "slotKey": "2026-11-08:afternoon"
+    "slotKey": "2026-11-08:afternoon",
+    "messageId": 156146,
+    "sentAt": "2026-11-08T11:33:43.335Z"
   }
 }
