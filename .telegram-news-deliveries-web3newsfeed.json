@@ -3511,5 +3511,36 @@
     "slotKey": "2026-11-08:afternoon",
     "messageId": 65813,
     "sentAt": "2026-11-08T11:34:47.381Z"
+  },
+  "5b78b36e-504a-435e-97a9-6692ffe3b79a": {
+    "status": "reserved",
+    "reservedAt": "2026-11-08T19:34:52.218Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "French Hill Wins Reelection but Loses Committee Chairmanship",
+        "summary": "The Arkansas Republican will lose his leadership role when Democrats take control of the House in January.",
+        "link": "https://hashtagweb3.com/frenchhill?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "French Hill Wins Reelection but Is Set to Lose House Financial Services Chair"
+      },
+      {
+        "index": -1,
+        "headline": "Hong Kong Passes Crypto Tax Reporting Bill",
+        "summary": "The legislation adopts OECD standards, requiring local crypto firms to collect user data starting in 2027.",
+        "link": "https://hashtagweb3.com/carf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Hong Kong Lawmakers Pass Crypto Tax Reporting Bill for 2027 Collection"
+      },
+      {
+        "index": -1,
+        "headline": "French lawmakers approve tax on crypto-to-stablecoin swaps",
+        "summary": "Implementation begins in 2027 while proposals for exit taxes and wallet reporting remain under legislative review.",
+        "link": "https://hashtagweb3.com/francetax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "French Assembly backs tax on crypto-to-stablecoin swaps by one vote"
+      }
+    ],
+    "slotKey": "2026-11-08:evening"
   }
 }
