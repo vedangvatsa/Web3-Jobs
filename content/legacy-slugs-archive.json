@@ -154352,5 +154352,372 @@
     "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5000933101",
     "company": "BVNK",
     "title": "Compliance Senior Manager - Malta"
+  },
+  "sls451": {
+    "id": "9c249990-643c-4793-9917-cb5ca3be2883",
+    "link": "https://jobs.ripio.com/jobs/8560977-vp-of-global-business-development",
+    "company": "Ripio",
+    "title": "VP of Global Business Development",
+    "newSlug": "sls453"
+  },
+  "sls420": {
+    "id": "398a0f0f-22bc-43f6-b193-70f5dd287dbd",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/398a0f0f-22bc-43f6-b193-70f5dd287dbd",
+    "company": "Chainalysis",
+    "title": "Enterprise Account Executive - MED"
+  },
+  "csap": {
+    "id": "d1a21120-3eb6-411f-ad6a-83ab51bac475",
+    "link": "https://careers.ethena.fi/jobs/8639513-customer-success-agent-ethena-pay",
+    "company": "Ethena Labs",
+    "title": "Customer Success Agent - Ethena Pay"
+  },
+  "eng595": {
+    "id": "a558ee61-9b38-47db-808e-6a97893ad915",
+    "link": "https://crossmint.na.teamtailor.com/jobs/719479-engineering-lead-wallets-nyc",
+    "company": "Crossmint",
+    "title": "Engineering Lead, Wallets (NYC)"
+  },
+  "an86": {
+    "id": "8247127",
+    "link": "https://stripe.com/jobs/search?gh_jid=8247127",
+    "company": "Stripe",
+    "title": "AR Analyst"
+  },
+  "sec98": {
+    "id": "4989603101",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4989603101",
+    "company": "Bitpanda",
+    "title": "Specialist, Information Security"
+  },
+  "pm266": {
+    "id": "66c6bd95-742d-4dfd-974d-f6a25e6a81ee",
+    "link": "https://jobs.lever.co/animocabrands/66c6bd95-742d-4dfd-974d-f6a25e6a81ee",
+    "company": "Animoca Brands",
+    "title": "AI 产品经理 (Vertical AI Product Manager)"
+  },
+  "pm265": {
+    "id": "285292d5-c197-4e01-b291-a2d66affe5d3",
+    "link": "https://jobs.lever.co/animocabrands/285292d5-c197-4e01-b291-a2d66affe5d3",
+    "company": "Animoca Brands",
+    "title": "转市策略 AI 产品经理 (Go-to-Market AI Product Manager)"
+  },
+  "arc21": {
+    "id": "dae6f7b4-eabd-49db-b48a-bb42b245b963",
+    "link": "https://jobs.ashbyhq.com/blockdaemon/dae6f7b4-eabd-49db-b48a-bb42b245b963",
+    "company": "Blockdaemon",
+    "title": "Solutions Architect, US"
+  },
+  "eng484": {
+    "id": "56065276-69e8-490f-8d66-115a943fa652",
+    "link": "https://jobs.lever.co/crypto/56065276-69e8-490f-8d66-115a943fa652",
+    "company": "Crypto.com",
+    "title": "AI Engineer, Trading Ops & Management"
+  },
+  "eng483": {
+    "id": "a9695010-f3ae-4264-a0b6-458e43f8a696",
+    "link": "https://jobs.lever.co/crypto/a9695010-f3ae-4264-a0b6-458e43f8a696",
+    "company": "Crypto.com",
+    "title": "AI Engineer, Trading Ops & Management"
+  },
+  "an85": {
+    "id": "aa8de320-7602-4b1d-8dcf-ed982ef8a225",
+    "link": "https://jobs.lever.co/animocabrands/aa8de320-7602-4b1d-8dcf-ed982ef8a225",
+    "company": "Animoca Brands",
+    "title": "数据分析负责人 (Lead Data Analyst)"
+  },
+  "cmp157": {
+    "id": "keka-dcx-143988",
+    "link": "https://dcx.keka.com/careers/jobdetails/143988",
+    "company": "BitOasis",
+    "title": "Senior Manager- Compliance & MLRO"
+  },
+  "sls255": {
+    "id": "8265128",
+    "link": "https://stripe.com/jobs/search?gh_jid=8265128",
+    "company": "Stripe",
+    "title": "Sales Development Representative (Polish Fluency)"
+  },
+  "be69": {
+    "id": "8869949002",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8869949002",
+    "company": "BitGo",
+    "title": "Backend Engineer E3 - India"
+  },
+  "eng481": {
+    "id": "8879340002",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8879340002",
+    "company": "BitGo",
+    "title": "Mobile Engineer E2 - (React Native)"
+  },
+  "fc3": {
+    "id": "8878904002",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8878904002",
+    "company": "BitGo",
+    "title": "Financial Controller"
+  },
+  "tok": {
+    "id": "c0ca6bd8-cf64-42c5-9378-d20003e66fae",
+    "link": "https://jobs.ashbyhq.com/Talos-Trading/c0ca6bd8-cf64-42c5-9378-d20003e66fae",
+    "company": "Talos",
+    "title": "Head of Tokenization"
+  },
+  "pm264": {
+    "id": "8018541003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8018541003",
+    "company": "OKX",
+    "title": "Senior Product Director, AI & Agent"
+  },
+  "pm263": {
+    "id": "8018487003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8018487003",
+    "company": "OKX",
+    "title": "Senior Product Director, AI & Agent"
+  },
+  "aso53": {
+    "id": "fb0eac45-0005-4700-945a-4df5e65bc343",
+    "link": "https://jobs.ashbyhq.com/coinhako/fb0eac45-0005-4700-945a-4df5e65bc343",
+    "company": "Coinhako",
+    "title": "Assistant Relationship Manager"
+  },
+  "mkt96": {
+    "id": "8250483",
+    "link": "https://stripe.com/jobs/search?gh_jid=8250483",
+    "company": "Stripe",
+    "title": "Marketing Operations Manager, AMER Events"
+  },
+  "pm276": {
+    "id": "35c98674-9bbc-476e-a0f9-a1c48705966a",
+    "link": "https://jobs.lever.co/crypto/35c98674-9bbc-476e-a0f9-a1c48705966a",
+    "company": "Crypto.com",
+    "title": "Senior/ Principal Product Manager, Trading(Crypto.com App)"
+  },
+  "pm275": {
+    "id": "f66cc817-371b-469c-8bc8-52a3f914b6ef",
+    "link": "https://jobs.lever.co/crypto/f66cc817-371b-469c-8bc8-52a3f914b6ef",
+    "company": "Crypto.com",
+    "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)"
+  },
+  "mgr167": {
+    "id": "803bf790-5e44-4b50-91d3-e618246085d8",
+    "link": "https://jobs.ashbyhq.com/trm-labs/803bf790-5e44-4b50-91d3-e618246085d8",
+    "company": "TRM Labs",
+    "title": "Senior Capture Manager - UK"
+  },
+  "eng480": {
+    "id": "8266107",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8266107?t=gh_src=&gh_jid=8266107",
+    "company": "Robinhood",
+    "title": "Staff Software Engineer, Backend Platform"
+  },
+  "be68": {
+    "id": "8244209",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8244209?t=gh_src=&gh_jid=8244209",
+    "company": "Robinhood",
+    "title": "Staff Software Engineer, Backend Platform"
+  },
+  "com2": {
+    "id": "8224617",
+    "link": "https://stripe.com/jobs/search?gh_jid=8224617",
+    "company": "Stripe",
+    "title": "Program Manager, Commercial Solutions"
+  },
+  "ops100": {
+    "id": "FE6FF14AB1",
+    "link": "https://apply.workable.com/j/FE6FF14AB1",
+    "company": "Ajaib Crypto",
+    "title": "Payment Operations Specialist"
+  },
+  "pbp": {
+    "id": "094BA2392B",
+    "link": "https://apply.workable.com/j/094BA2392B",
+    "company": "Ajaib Crypto",
+    "title": "Senior People Business Partner"
+  },
+  "spso": {
+    "id": "95B7D394EF",
+    "link": "https://apply.workable.com/j/95B7D394EF",
+    "company": "Ajaib Crypto",
+    "title": "SVP / VP, People Strategy, Performance & AI - Chief of Staff to the Chief People"
+  },
+  "rec34": {
+    "id": "956B29F453",
+    "link": "https://apply.workable.com/j/956B29F453",
+    "company": "Ajaib Crypto",
+    "title": "VP of Technical & Executive Hiring"
+  },
+  "vpbp": {
+    "id": "C21D47EAFD",
+    "link": "https://apply.workable.com/j/C21D47EAFD",
+    "company": "Ajaib Crypto",
+    "title": "VP, People Business Partner"
+  },
+  "vpcl": {
+    "id": "E0583E997D",
+    "link": "https://apply.workable.com/j/E0583E997D",
+    "company": "Ajaib Crypto",
+    "title": "VP, Performance, Culture & Learning"
+  },
+  "pdc": {
+    "id": "JR101167",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Partner-Development-Coordinator_JR101167",
+    "company": "Circle",
+    "title": "Partner Development Coordinator"
+  },
+  "aso54": {
+    "id": "JR101168",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Partner-Development-Associate_JR101168",
+    "company": "Circle",
+    "title": "Partner Development Associate"
+  },
+  "sls266": {
+    "id": "973b5919d162",
+    "link": "https://bitdeer.breezy.hr/p/973b5919d162-senior-accountant-financial-reporting",
+    "company": "Bitdeer",
+    "title": "Senior Accountant (Financial Reporting)"
+  },
+  "eng482": {
+    "id": "665b5fad2014",
+    "link": "https://bitdeer.breezy.hr/p/665b5fad2014-sr-inference-service-sre-automation-engineer",
+    "company": "Bitdeer",
+    "title": "Sr. Inference Service SRE & Automation Engineer"
+  },
+  "be67": {
+    "id": "8174232",
+    "link": "https://www.coinbase.com/careers/positions/8174232?gh_jid=8174232",
+    "company": "Coinbase",
+    "title": "Senior Software Engineer, Backend/Fullstack (Coinbase Advisor - Agentic Trading)"
+  },
+  "eng479": {
+    "id": "8880834002",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8880834002",
+    "company": "BitGo",
+    "title": "Senior Software Engineer - Accounting & Ledger Systems"
+  },
+  "eng478": {
+    "id": "8880833002",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8880833002",
+    "company": "BitGo",
+    "title": "Senior Software Engineer - Accounting & Ledger Systems"
+  },
+  "eng477": {
+    "id": "8265918",
+    "link": "https://www.coinbase.com/careers/positions/8265918?gh_jid=8265918",
+    "company": "Coinbase",
+    "title": "Senior Engineering Manager"
+  },
+  "sls253": {
+    "id": "40295bb5-3b56-4544-b7fb-5c1b20383525",
+    "link": "https://jobs.ashbyhq.com/ramp/40295bb5-3b56-4544-b7fb-5c1b20383525",
+    "company": "Ramp",
+    "title": "Account Manager | Strategic"
+  },
+  "an84": {
+    "id": "5001189101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5001189101",
+    "company": "Bybit",
+    "title": "[EU] Junior Control Analyst"
+  },
+  "ops99": {
+    "id": "5001183101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5001183101",
+    "company": "Bybit",
+    "title": "[EU] Junior MiFID Operations Specialist"
+  },
+  "mgr166": {
+    "id": "8248165",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8248165?t=gh_src=&gh_jid=8248165",
+    "company": "Robinhood",
+    "title": "Customer Experience Manager, Executive Office"
+  },
+  "mgr165": {
+    "id": "1c61f59f-c19a-49af-b3fa-b869c79a4769",
+    "link": "https://jobs.ashbyhq.com/lightspark/1c61f59f-c19a-49af-b3fa-b869c79a4769",
+    "company": "Lightspark",
+    "title": "AML Manager, EU"
+  },
+  "sls252": {
+    "id": "5445869008",
+    "link": "http://block.xyz/careers/jobs/5445869008?gh_jid=5445869008",
+    "company": "Block",
+    "title": "Business Development Rep Associate - Bilingual French"
+  },
+  "eng475": {
+    "id": "5445289008",
+    "link": "http://block.xyz/careers/jobs/5445289008?gh_jid=5445289008",
+    "company": "Block",
+    "title": "Foundry Interface Engineer"
+  },
+  "eng465": {
+    "id": "5447957008",
+    "link": "http://block.xyz/careers/jobs/5447957008?gh_jid=5447957008",
+    "company": "Block",
+    "title": "Staff Software Engineer, Payments Acquiring"
+  },
+  "eng464": {
+    "id": "5372210008",
+    "link": "http://block.xyz/careers/jobs/5372210008?gh_jid=5372210008",
+    "company": "Block",
+    "title": "Staff Software Engineer, Payments Acquiring"
+  },
+  "arc20": {
+    "id": "8248509",
+    "link": "https://stripe.com/jobs/search?gh_jid=8248509",
+    "company": "Stripe",
+    "title": "Solutions Architect, AI"
+  },
+  "aso51": {
+    "id": "66017747-7181-433e-9a64-a82964d342ca",
+    "link": "https://jobs.ashbyhq.com/kraken.com/66017747-7181-433e-9a64-a82964d342ca",
+    "company": "Kraken",
+    "title": "Assistant General Counsel - Labor & Employment"
+  },
+  "ops98": {
+    "id": "4cd01364-d7b4-4cb0-b299-a5e839b36995",
+    "link": "https://jobs.ashbyhq.com/PrimeIntellect/4cd01364-d7b4-4cb0-b299-a5e839b36995",
+    "company": "Prime Intellect",
+    "title": "People Operations Coordinator"
+  },
+  "mgr163": {
+    "id": "3e11ec2c-34c1-45c8-a732-ab3001225f25",
+    "link": "https://jobs.ashbyhq.com/PrimeIntellect/3e11ec2c-34c1-45c8-a732-ab3001225f25",
+    "company": "Prime Intellect",
+    "title": "Senior Technical Partnerships Manager"
+  },
+  "mgr162": {
+    "id": "5435960008",
+    "link": "http://block.xyz/careers/jobs/5435960008?gh_jid=5435960008",
+    "company": "Block",
+    "title": "Senior Business Resilience Program Manager"
+  },
+  "eng462": {
+    "id": "8203966",
+    "link": "https://stripe.com/jobs/search?gh_jid=8203966",
+    "company": "Stripe",
+    "title": "Integration Engineer"
+  },
+  "ic": {
+    "id": "8203969",
+    "link": "https://stripe.com/jobs/search?gh_jid=8203969",
+    "company": "Stripe",
+    "title": "Implementation Consultant"
+  },
+  "sls289": {
+    "id": "ec51d0aa-a167-4c38-b955-07c55057267d",
+    "link": "https://jobs.ashbyhq.com/ramp/ec51d0aa-a167-4c38-b955-07c55057267d",
+    "company": "Ramp",
+    "title": "Enterprise Manager, Sales Development"
+  },
+  "ebps3": {
+    "id": "6220690004",
+    "link": "https://job-boards.greenhouse.io/taxbit/jobs/6220690004",
+    "company": "TaxBit",
+    "title": "Executive Business Partner (Contract, Part-Time), San Francisco"
+  },
+  "sls247": {
+    "id": "8250279",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8250279?t=gh_src=&gh_jid=8250279",
+    "company": "Robinhood",
+    "title": "Manager of Accounts Payable"
   }
 }
