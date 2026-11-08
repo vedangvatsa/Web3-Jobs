@@ -118749,7 +118749,8 @@
       },
       "account": "channel:growth",
       "attemptId": "950d1fa7-c698-4f93-8d5f-ba6970ec9147",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf6651f198866acddd9259213da0b7d5e3d0c1584"
     }
   ]
 }
