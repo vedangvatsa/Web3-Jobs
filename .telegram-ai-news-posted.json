@@ -897,6 +897,9 @@
   "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
   "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
   "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+  "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+  "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+  "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2472,6 +2475,12 @@
   "Roundtables: Inside the Quest for Cognitive Immortality",
   "Anthropic's new rules unlikely to stop AI game cloning",
   "Claude’s new rules against game cloning won’t stop the AI copying boom",
+  "Chinese agents recruited tech executive to spy on Nvidia CEO",
+  "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+  "OpenAI reportedly raises $11 billion at $1.25 trillion valuation",
+  "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+  "Securing enterprise AI agents through data lineage tracking",
+  "Securing the agentic enterprise with data lineage",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2886,5 +2895,8 @@
   "fp:10m|adapt|digital|enough|environment|help|mak|market|onlin|physicl",
   "fp:account|administrator|are|can|chatbot|gemini|googl|keep|mandatory|must",
   "fp:antonio|beth|biological|brain|cognitiv|consciousness|death|discuss|editor|grigg",
-  "fp:against|anthropic|boom|cannot|clon|copy|developer|gam|generat|imitation"
+  "fp:against|anthropic|boom|cannot|clon|copy|developer|gam|generat|imitation",
+  "fp:accord|agent|ceo|chief|chines|chip|detail|effort|exec|executiv",
+  "fp:11b|additional|expect|few|finaliz|investment|next|openai|rais|reportedly",
+  "fp:access|agent|agentic|data|enterpris|how|information|internal|lineag|monitor"
 ]
