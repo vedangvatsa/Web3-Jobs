@@ -8700,5 +8700,121 @@
     "slotKey": "2026-11-08:afternoon",
     "messageId": 156144,
     "sentAt": "2026-11-08T11:32:09.260Z"
+  },
+  "cfc5b43c-dc13-474d-88d8-2aed60603491": {
+    "status": "reserved",
+    "reservedAt": "2026-11-08T19:32:49.139Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5008412101",
+          "title": "Identity Access Management & Data Protection Specialist",
+          "company": "Flowdesk",
+          "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5008412101",
+          "date": "2026-10-16T05:14:19-04:00",
+          "dateVerified": true,
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Flowdesk [flowdesk]",
+          "location": "London",
+          "department": "Secure Ecosystem",
+          "active": true,
+          "slug": "iamd"
+        },
+        "key": "5008412101",
+        "slug": "iamd",
+        "url": "https://hashtagweb3.com/iamd?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Flowdesk",
+        "title": "Identity Access Management & Data Protection Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "5024572101",
+          "title": "[EU] Business Development Specialist, France",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+          "date": "2026-11-01T15:44:58-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "France - Remote",
+          "department": "Europe",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls205"
+        },
+        "key": "5024572101",
+        "slug": "sls205",
+        "url": "https://hashtagweb3.com/sls205?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "[EU] Business Development Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "8039368003",
+          "title": "AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027",
+          "company": "DriveWealth",
+          "link": "https://boards.greenhouse.io/drivewealth/jobs/8039368003?gh_jid=8039368003",
+          "date": "2026-10-20T14:41:59-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DriveWealth [drivewealth]",
+          "location": "Chicago, IL",
+          "department": "Internships & Early Careers",
+          "active": true,
+          "salary": "$35 – $40/hr",
+          "dateVerified": true,
+          "slug": "int47"
+        },
+        "key": "8039368003",
+        "slug": "int47",
+        "url": "https://hashtagweb3.com/int47?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DriveWealth",
+        "title": "AI Consulting Associate Program"
+      },
+      {
+        "snapshot": {
+          "id": "8258529",
+          "title": "AI Engineering Manager",
+          "company": "Flow Traders",
+          "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8258529",
+          "date": "2026-10-16T09:02:17-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Flow Traders [flowtraders]",
+          "location": "Amsterdam",
+          "department": "Data",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng194"
+        },
+        "key": "8258529",
+        "slug": "eng194",
+        "url": "https://hashtagweb3.com/eng194?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Flow Traders",
+        "title": "AI Engineering Manager"
+      },
+      {
+        "snapshot": {
+          "id": "356c681c-d5b9-4078-8530-d29520987a34",
+          "title": "Deployment Strategist, CTI",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/356c681c-d5b9-4078-8530-d29520987a34",
+          "date": "2026-10-29T22:38:18.202+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Go-To-Market",
+          "active": true,
+          "dateVerified": true,
+          "slug": "dsc"
+        },
+        "key": "356c681c-d5b9-4078-8530-d29520987a34",
+        "slug": "dsc",
+        "url": "https://hashtagweb3.com/dsc?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Deployment Strategist"
+      }
+    ],
+    "message": "- Flowdesk is hiring <a href=\"https://hashtagweb3.com/iamd?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Identity Access Management &amp; Data Protection Specialist</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/sls205?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">[EU] Business Development Specialist, France</a>\n- DriveWealth is hiring <a href=\"https://hashtagweb3.com/int47?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027</a>\n- Flow Traders is hiring <a href=\"https://hashtagweb3.com/eng194?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Engineering Manager</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/dsc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Deployment Strategist, CTI</a>",
+    "slotKey": "2026-11-08:evening"
   }
 }
