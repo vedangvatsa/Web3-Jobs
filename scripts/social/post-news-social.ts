@@ -58,13 +58,35 @@ export interface NewsSocialState {
 }
 
 export interface Captions {
-  xHeadline: string;
-  xBody: string;
+  summary: string;
   xFullText: string;
-  linkedInHeadline: string;
-  linkedInBody: string;
   linkedInFullText: string;
 }
+
+export const ACRONYM_MAP: [RegExp, string][] = [
+  [/\bFederal Reserve and Office of the Comptroller of the Currency\b/gi, 'US bank regulators'],
+  [/\bFederal Reserve and OCC\b/gi, 'US bank regulators'],
+  [/\bFed and OCC\b/gi, 'US bank regulators'],
+  [/\bOffice of the Comptroller of the Currency\b/gi, 'US bank regulators'],
+  [/\bOCC\b/g, 'US bank regulators'],
+  [/\bCommodity Futures Trading Commission\b/gi, 'US regulators'],
+  [/\bCFTC\b/g, 'US regulators'],
+  [/\bSecurities and Exchange Commission\b/gi, 'US securities regulators'],
+  [/\bSEC\b/g, 'US securities regulators'],
+  [/\bNational Bank of Ukraine\b/gi, "Ukraine's central bank"],
+  [/\bUkraine's National Bank\b/gi, "Ukraine's central bank"],
+  [/\bNational Bank\b/gi, 'central bank'],
+  [/\bNBU\b/g, "Ukraine's central bank"],
+  [/\bLegislative Council\b/gi, 'lawmakers'],
+  [/\bdesignated contract markets\b/gi, 'crypto futures exchanges'],
+  [/\bfederally registered futures exchanges\b/gi, 'crypto futures exchanges'],
+  [/\bDCMs?\b/gi, 'crypto futures exchanges'],
+  [/\bOECD Crypto-Asset Reporting Framework\b/gi, 'global crypto tax rules'],
+  [/\bCARF\b/g, 'global crypto tax rules'],
+  [/\bDraft Law No\.\s*[0-9a-z-]+\b/gi, 'a new crypto bill'],
+  [/\bdomestic geographic restrictions\b/gi, 'state-by-state location bans'],
+  [/\b\$(6\.34|6)\s*billion security incident\b/gi, 'the Binance security breach'],
+];
 
 /**
  * Load published news articles from content/articles-index.json, sorted by date descending.
@@ -90,6 +112,24 @@ export function sanitizePlainEnglish(text: string): string {
 }
 
 /**
+ * Replace unexplained regulatory acronyms and jargon with plain English.
+ * Strips all hashtags and extra punctuation.
+ */
+export function simplifyJargon(text: string): string {
+  let res = String(text || '');
+  for (const [pattern, replacement] of ACRONYM_MAP) {
+    res = res.replace(pattern, replacement);
+  }
+  return res
+    .replace(/\bregulators officials\b/gi, 'regulators')
+    .replace(/,\s*Reuters reported\.?/gi, '')
+    .replace(/#\w+/g, '')
+    .replace(/#/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+/**
  * Truncate text cleanly on word boundaries.
  */
 export function truncateWords(text: string, maxLen: number): string {
@@ -101,50 +141,35 @@ export function truncateWords(text: string, maxLen: number): string {
 }
 
 /**
- * Extract the first complete sentence, protecting common abbreviations.
- */
-export function cleanFirstSentence(desc: string): string {
-  const protectedText = String(desc || '')
-    .replace(/\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec|No|Inc|Co|Dr|Mr|Ms)\./gi, '$1_DOT_')
-    .replace(/\b(U\.S\.)/gi, 'US_DOT_')
-    .replace(/\b(e\.g\.)/gi, 'EG_DOT_')
-    .replace(/\b(i\.e\.)/gi, 'IE_DOT_');
-  const first = protectedText.split(/[.?!]\s+/)[0] || desc;
-  return first
-    .replace(/_DOT_/g, '.')
-    .replace(/US\./g, 'U.S.')
-    .replace(/EG\./g, 'e.g.')
-    .replace(/IE\./g, 'i.e.')
-    .trim();
-}
-
-/**
  * Fallback caption generator using standard simple title and description.
+ * Ensures 1-2 lines with context (who, what, why) and zero hashtags.
  */
 export function fallbackCaptions(article: NewsArticle): Captions {
-  const cleanTitle = sanitizePlainEnglish(article.title);
-  const cleanDesc = sanitizePlainEnglish(article.description);
-  const firstSentence = cleanFirstSentence(cleanDesc);
+  const cleanT = simplifyJargon(article.title);
+  const cleanD = simplifyJargon(article.description);
 
-  // Shorten cleanly for X on word boundaries (well within 280 chars)
-  const xHeadline = truncateWords(cleanTitle, 70);
-  const xBody = truncateWords(firstSentence, 105);
+  let summary = cleanD;
+  if (!summary || summary.length > 205) {
+    const whyMatch = cleanD.match(/\b(following|because|after|to ask about|objecting to|requiring|warning that)\b.*/i);
+    if (whyMatch && cleanT.length + whyMatch[0].length + 1 <= 200) {
+      summary = `${cleanT} ${whyMatch[0]}`.trim();
+    } else if (cleanD.length > 205) {
+      summary = truncateWords(cleanD, 205);
+    } else {
+      summary = cleanT;
+    }
+  }
+
+  // Remove trailing colons or punctuation
+  summary = summary.replace(/[.:;,]+$/, '').trim();
+
   const xUrl = `${SITE_URL}/${article.slug}?utm_source=twitter&utm_medium=social&utm_campaign=news`;
-  const xFullText = `${xHeadline}\n\n${xBody}\n\n${xUrl}\n\n#Web3 #Crypto`;
-
-  // LinkedIn allows slightly more detail (within 380 chars)
-  const linkedInHeadline = truncateWords(cleanTitle, 80);
-  const linkedInBody = truncateWords(cleanDesc, 200);
   const linkedInUrl = `${SITE_URL}/${article.slug}?utm_source=linkedin&utm_medium=social&utm_campaign=news`;
-  const linkedInFullText = `${linkedInHeadline}\n\n${linkedInBody}\n\nRead more: ${linkedInUrl}\n\n#Web3 #Blockchain #Crypto`;
 
   return {
-    xHeadline,
-    xBody,
-    xFullText,
-    linkedInHeadline,
-    linkedInBody,
-    linkedInFullText,
+    summary,
+    xFullText: `${summary}: ${xUrl}`,
+    linkedInFullText: `${summary}: ${linkedInUrl}`,
   };
 }
 
@@ -159,19 +184,22 @@ export async function generateNewsCaptions(
   const fallback = fallbackCaptions(article);
   if (!apiKey) return fallback;
 
-  const prompt = `Rewrite this Web3 news headline and summary into short, concise social copy in simple everyday words.
-Ensure it is easy to understand for anyone.
-DO NOT use buzzwords, corporate jargon, or hype (avoid: "revolutionary", "game-changer", "pivotal", "landscape", "underscores").
+  const prompt = `Write a 1-to-2 line news update for social media (X and LinkedIn).
+Explain WHO was involved, WHAT happened, and WHY it happened so anyone can understand the full context in 5 seconds.
+
+STRICT RULES:
+1. NO HASHTAGS. Do not use # anywhere.
+2. Exactly 1 or 2 sentences total (maximum 200 characters).
+3. NO unexplained acronyms (e.g. NEVER use OCC, CFTC, DCM, NBU, CARF, SEC alone. Replace with "US bank regulators", "US financial regulators", "crypto futures exchanges", "Ukraine's central bank", "global crypto tax rules").
+4. Always explain the context: what caused the event or why it matters.
+5. Simple plain English only. No buzzwords, no hype, no corporate jargon.
 
 Article Title: ${article.title}
 Article Summary: ${article.description}
 
 Output ONLY JSON matching:
 {
-  "xHeadline": "short 1-line headline (max 70 chars, plain simple English)",
-  "xBody": "1 short sentence explaining what happened in simple words (max 110 chars)",
-  "linkedInHeadline": "clear 1-line headline (max 85 chars)",
-  "linkedInBody": "2 short simple sentences in plain English explaining the key point (max 220 chars total)"
+  "summary": "1 or 2 plain-English sentences explaining who, what, and why in simple words without acronyms or hashtags"
 }`;
 
   for (const model of GEMINI_MODELS) {
@@ -185,7 +213,7 @@ Output ONLY JSON matching:
             contents: [{ parts: [{ text: prompt }] }],
             generationConfig: {
               temperature: 0.2,
-              maxOutputTokens: 1024,
+              maxOutputTokens: 512,
               responseMimeType: 'application/json',
             },
           }),
@@ -196,22 +224,22 @@ Output ONLY JSON matching:
       const data = await res.json();
       const { value } = parseGeminiJsonResponse(data, 'object');
       if (value && typeof value === 'object') {
-        const xHeadline = sanitizePlainEnglish((value as Record<string, string>).xHeadline) || fallback.xHeadline;
-        const xBody = sanitizePlainEnglish((value as Record<string, string>).xBody) || fallback.xBody;
-        const linkedInHeadline = sanitizePlainEnglish((value as Record<string, string>).linkedInHeadline) || fallback.linkedInHeadline;
-        const linkedInBody = sanitizePlainEnglish((value as Record<string, string>).linkedInBody) || fallback.linkedInBody;
+        let summary = simplifyJargon(sanitizePlainEnglish((value as Record<string, string>).summary || ''));
+        summary = summary.replace(/[.:;,]+$/, '').trim();
+        if (summary.length > 210) {
+          summary = truncateWords(summary, 205).replace(/[.:;,]+$/, '').trim();
+        }
 
-        const xUrl = `${SITE_URL}/${article.slug}?utm_source=twitter&utm_medium=social&utm_campaign=news`;
-        const linkedInUrl = `${SITE_URL}/${article.slug}?utm_source=linkedin&utm_medium=social&utm_campaign=news`;
+        if (summary) {
+          const xUrl = `${SITE_URL}/${article.slug}?utm_source=twitter&utm_medium=social&utm_campaign=news`;
+          const linkedInUrl = `${SITE_URL}/${article.slug}?utm_source=linkedin&utm_medium=social&utm_campaign=news`;
 
-        return {
-          xHeadline,
-          xBody,
-          xFullText: `${xHeadline}\n\n${xBody}\n\n${xUrl}\n\n#Web3 #Crypto`,
-          linkedInHeadline,
-          linkedInBody,
-          linkedInFullText: `${linkedInHeadline}\n\n${linkedInBody}\n\nRead more: ${linkedInUrl}\n\n#Web3 #Blockchain #Crypto`,
-        };
+          return {
+            summary,
+            xFullText: `${summary}: ${xUrl}`,
+            linkedInFullText: `${summary}: ${linkedInUrl}`,
+          };
+        }
       }
     } catch {
       // Continue to next model on error

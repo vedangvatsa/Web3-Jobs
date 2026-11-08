@@ -21,18 +21,15 @@ const mockArticle: NewsArticle = {
   publishedDate: '2026-11-08',
 };
 
-test('fallbackCaptions produces short, concise captions under limits', () => {
+test('fallbackCaptions produces short, concise 1-2 line captions with zero hashtags', () => {
   const captions = fallbackCaptions(mockArticle);
 
-  assert.ok(captions.xHeadline.length > 0 && captions.xHeadline.length <= 70);
-  assert.ok(captions.xBody.length > 0 && captions.xBody.length <= 105);
+  assert.ok(captions.summary.length > 0 && captions.summary.length <= 210);
   assert.ok(captions.xFullText.length <= 280, `X caption too long: ${captions.xFullText.length}`);
   assert.ok(captions.xFullText.includes('https://hashtagweb3.com/test-crypto-bill?utm_source=twitter'));
-  assert.ok(captions.xFullText.includes('#Web3 #Crypto'));
-
-  assert.ok(captions.linkedInHeadline.length > 0 && captions.linkedInHeadline.length <= 80);
-  assert.ok(captions.linkedInFullText.includes('Read more: https://hashtagweb3.com/test-crypto-bill?utm_source=linkedin'));
-  assert.ok(captions.linkedInFullText.includes('#Web3 #Blockchain #Crypto'));
+  assert.ok(!captions.xFullText.includes('#'), 'Must not contain any hashtags');
+  assert.ok(!captions.linkedInFullText.includes('#'), 'Must not contain any hashtags');
+  assert.ok(captions.linkedInFullText.includes('https://hashtagweb3.com/test-crypto-bill?utm_source=linkedin'));
 });
 
 test('pickNextNewsArticle selects the newest unposted article', () => {
