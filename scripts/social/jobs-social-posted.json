@@ -118878,7 +118878,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "007aec98-ab71-4a67-927b-fc76811ffc47",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Job OG thumbnail is unavailable"
     }
   ]
 }
