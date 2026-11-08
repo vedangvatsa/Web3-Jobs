@@ -142434,7 +142434,23 @@
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
       "attempts": 0,
       "expiresAt": "2026-11-08T18:32:45.000Z",
-      "lastSeenAt": "2026-11-06T00:28:20.054Z"
+      "lastSeenAt": "2026-11-06T00:28:20.054Z",
+      "articleSlug": "bankchecks",
+      "draftProgress": {
+        "id": "993feafaf5084caf5010",
+        "day": "2026-11-08",
+        "articleSlug": "bankchecks",
+        "note": "Read the Cointelegraph report citing Reuters; the Reuters filing itself and the TokenPost follow-up were located in search but not opened yet, and no draft has been started.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-08T10:56:07.517Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "c64748ad18b7a351644d": {
       "source": "CryptoSlate",
