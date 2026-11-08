@@ -142256,11 +142256,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "751d2c7a282c00b12ee5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-08T21:36:03.000Z",
-      "lastSeenAt": "2026-11-06T00:28:20.054Z"
+      "lastSeenAt": "2026-11-06T00:28:20.054Z",
+      "reason": "out-of-scope",
+      "note": "Read the Decrypt report; it covers OpenAI's National Community Compact on AI data center electricity, water and NDA practices after state ballot measures, with no Web3, crypto or blockchain subject matter.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-08T10:55:41.668Z",
+      "lastReviewedDay": "2026-11-08"
     },
     "29a9ea762f855bf61b11": {
       "source": "Decrypt",
@@ -142277,11 +142287,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "29a9ea762f855bf61b11",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-08T20:16:03.000Z",
-      "lastSeenAt": "2026-11-06T00:28:20.054Z"
+      "lastSeenAt": "2026-11-06T00:28:20.054Z",
+      "reason": "duplicate",
+      "note": "Read the Decrypt/Bitquery analysis and compared it with the existing mercadobitcoin article, which already reports funds moving out after the containment claim and analyst theft estimates above $46 million; this is the same incident covered again.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-08T10:55:41.669Z",
+      "duplicateOf": "mercadobitcoin",
+      "lastReviewedDay": "2026-11-08"
     },
     "1d7c986b22c32819ecce": {
       "source": "The Defiant",
@@ -282809,6 +282830,31 @@
           ],
           "reviewedAt": "2026-11-08T10:55:10.508Z",
           "articleSlug": "dcmaccess"
+        },
+        "751d2c7a282c00b12ee5": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Decrypt report; it covers OpenAI's National Community Compact on AI data center electricity, water and NDA practices after state ballot measures, with no Web3, crypto or blockchain subject matter.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-08T10:55:41.668Z"
+        },
+        "29a9ea762f855bf61b11": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Read the Decrypt/Bitquery analysis and compared it with the existing mercadobitcoin article, which already reports funds moving out after the containment claim and analyst theft estimates above $46 million; this is the same incident covered again.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-08T10:55:41.669Z",
+          "duplicateOf": "mercadobitcoin"
         }
       },
       "baselineSlugs": [
