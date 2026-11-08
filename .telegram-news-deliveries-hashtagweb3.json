@@ -3276,5 +3276,36 @@
     "slotKey": "2026-11-07:evening",
     "messageId": 156135,
     "sentAt": "2026-11-07T19:34:08.139Z"
+  },
+  "24e0bf57-9def-4b97-ac69-678c9267e6a1": {
+    "status": "reserved",
+    "reservedAt": "2026-11-08T11:33:35.189Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "CFTC Approves Stock Perpetual Futures Despite Industry Lawsuit",
+        "summary": "A court denied an industry group's emergency request to halt trading of equity perpetuals on US exchanges.",
+        "link": "https://hashtagweb3.com/equityperps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC clears stock perpetual futures as an industry group sues to stop them"
+      },
+      {
+        "index": -1,
+        "headline": "Mastercard launches early access for AI agent payments",
+        "summary": "The system allows AI agents to buy digital services within human-set spending budgets.",
+        "link": "https://hashtagweb3.com/agentpay?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Mastercard opens early access for AI agent payments after pilots"
+      },
+      {
+        "index": -1,
+        "headline": "Qubic Halts Mainnet After Exploit Drains 1,404 Wallets",
+        "summary": "The network froze most of the 2.94 trillion stolen QU tokens shortly after the attack.",
+        "link": "https://hashtagweb3.com/qubicdrain?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Qubic halts network after attacker drains 1,404 wallets"
+      }
+    ],
+    "slotKey": "2026-11-08:afternoon"
   }
 }
