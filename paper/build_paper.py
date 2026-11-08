@@ -36,32 +36,72 @@ TEX_CONTENT = r'''\documentclass{article}
 \hypersetup{colorlinks=true,urlcolor=ReferenceBlue,citecolor=black,linkcolor=black}
 
 \hypersetup{pdftitle={The Top 100 Web3 Employers Index},pdfauthor={Hashtag Web3}}
-\title{The Top 100 Web3 Employers Index\\
-\large Empirical Methodology, Labor Dynamics, and Governance Framework for Verifiable Workforce Intelligence}
 
-\author{\textbf{Hashtag Web3} \\ \href{https://hashtagweb3.com}{hashtagweb3.com}}
+\makeatletter
+% Professional Whitepaper Header
+\def\@maketitle{\vbox{\hsize\textwidth
+\centering
+\vskip 0.15in
+{\LARGE\bfseries The Top 100 Web3 Employers Index\par}
+\vskip 0.08in
+{\large\normalfont A Verifiable Methodology, Labor Dynamics, and Governance Framework\par}
+\vskip 0.16in
+{\normalsize\bfseries Hashtag Web3\par}
+\vskip 0.04in
+{\small\href{https://hashtagweb3.com}{hashtagweb3.com}\par}
+\vskip 0.22in}}
+
+% Executive Summary replacing academic Abstract
+\renewenvironment{abstract}{%
+  \vskip.05in
+  \centerline{\large\bfseries Executive Summary}
+  \vspace{0.8ex}
+  \begin{quote}
+}{%
+  \par\end{quote}\vskip 1.5ex
+}
+
+% Clean bold section titles matching industry whitepapers
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.0ex plus -0.5ex minus -.2ex}%
+  {1.1ex plus 0.2ex minus 0.1ex}%
+  {\large\bfseries\raggedright}}
+
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-1.6ex plus -0.4ex minus -.2ex}%
+  {0.7ex plus .2ex}%
+  {\normalsize\bfseries\raggedright}}
+
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.3ex plus -0.3ex minus -.2ex}%
+  {0.5ex plus .1ex}%
+  {\normalsize\bfseries\raggedright}}
+
+% Ensure single clean numbering with period
+\renewcommand{\@seccntformat}[1]{\csname the#1\endcsname.\hspace{0.7em}}
+\makeatother
 
 \begin{document}
 \raggedbottom
 \maketitle
 
 \begin{abstract}
-Public industry rankings often suffer from two major structural deficiencies. Commercial directories frequently charge sponsorship fees to highlight specific brands, while ranking systems routinely rely on speculative modeling, including unverified website traffic estimates, inferred financial runway tiers, and self-reported sentiment surveys. This paper presents the empirical methodology and labor market findings of the Top 100 Web3 Employers Index. The index evaluates hiring activity exclusively through primary, machine-verified applicant tracking feeds across one hundred leading organizations in the Web3 ecosystem. We demonstrate why synthetic scoring models produce systemic distortions, such as elevating early stage entities with single job postings over teams actively hiring dozens of engineers. We formalize an objective four-part scoring equation based on verified active job volume, department diversity, remote availability, and statutory salary transparency. Our empirical findings demonstrate significant labor concentration, where the top ten employers account for 34.8 percent of all tracked positions. Remote work availability averages 39 percent across the index, ranging from 77 percent in infrastructure software to 6 percent in quantitative trading desks. We examine wage disclosure patterns under recent state pay transparency statutes and outline data integrity rules designed to prevent manipulation.
+The Top 100 Web3 Employers Index is an authoritative, machine-verified benchmark of organizational hiring capacity across the decentralized technology ecosystem. Published by Hashtag Web3, the index evaluates active employment demand across one hundred leading organizations using primary data ingested directly from enterprise applicant tracking feeds. Unlike conventional industry directories that charge promotional fees for brand placement or rely on speculative models such as estimated website traffic, inferred financial runway tiers, and self-reported sentiment surveys, our index ranks employers exclusively on verified open positions. This whitepaper establishes the operational standards, mathematical scoring equations, data governance rules, and labor market insights derived from our live index. We demonstrate why synthetic scoring models produce perverse rankings, such as elevating early stage entities with single job postings over teams actively hiring dozens of engineers. We formalize an objective four-part scoring equation based on verified active job volume, department diversity, remote availability, and statutory salary transparency. Our empirical findings show strong labor concentration, where the top ten employers account for 34.8 percent of all tracked positions. Remote work availability averages 39 percent across the index, ranging from 77 percent in infrastructure software to 6 percent in quantitative trading desks. We examine wage disclosure patterns under recent state pay transparency statutes and outline data integrity rules designed to prevent manipulation.
 \end{abstract}
 
-\section{Introduction}
+\section{Executive Overview and the Hashtag Web3 Benchmark}
 
-Public industry rankings have long played an influential role in guiding talent allocation across emerging technology sectors. Job seekers, founders, researchers, and institutional capital allocators consult employer lists to evaluate organizational stability and labor demand. In rapidly developing industries, reliable workforce data is difficult to gather, and public directories often struggle to maintain independence and accuracy \cite{ref1,ref2}.
+The Top 100 Web3 Employers Index serves as an independent benchmark for talent allocation, institutional research, and organizational benchmarking across the decentralized technology ecosystem. Job seekers, founders, researchers, and institutional capital allocators consult employer lists to evaluate organizational stability and labor demand. In rapidly developing industries, reliable workforce data is difficult to gather, and public directories often struggle to maintain independence and accuracy \cite{ref1,ref2}.
 
 Traditional company rankings frequently depend on two questionable practices. Commercial publishers often charge promotional fees to place or highlight specific brands. Aggregators also frequently substitute real data with synthetic models, such as inferred traffic volumes, unverified venture funding runway tiers, and small sample surveys. These unverified metrics distort rankings and produce an inaccurate representation of organizational health.
 
-This paper documents the design, mathematical framework, and empirical findings of the Top 100 Web3 Employers Index. The index relies entirely on primary hiring data collected directly from enterprise applicant tracking systems, including Greenhouse, Ashby, and Lever \cite{ref1,ref2,ref3}. By discarding speculative metrics, the index establishes a verifiable benchmark of active organizational hiring.
+This whitepaper documents the design, mathematical framework, and empirical findings of the Hashtag Web3 Top 100 Employers Index. The index relies entirely on primary hiring data collected directly from enterprise applicant tracking systems, including Greenhouse, Ashby, and Lever \cite{ref1,ref2,ref3}. By discarding speculative metrics, our index establishes a verifiable benchmark of active organizational hiring.
 
 Our evaluation examines verified positions across the top 100 Web3 employers. The resulting dataset provides clear visibility into organizational investment, regional hiring patterns, and cross-sector labor distribution.
 
-\section{The Failure of Inferred and Synthetic Index Metrics}
+\section{Why Conventional Rankings Fail and Our Anti-Synthetic Principles}
 
-Early iterations of employer ranking algorithms frequently incorporated modeled variables in an attempt to capture qualitative attributes, such as institutional stability, candidate interest, and workplace flexibility. Our research indicates that these synthetic variables create systematic distortions when applied to early stage and mid size enterprises.
+Early iterations of employer ranking algorithms frequently incorporated modeled variables in an attempt to capture qualitative attributes, such as institutional stability, candidate interest, and workplace flexibility. Our analysis indicates that these synthetic variables create systematic distortions when applied to early stage and mid size enterprises.
 
 \subsection{The Single Job Outlier Problem}
 
@@ -81,19 +121,19 @@ Under this flawed structure, an early stage project with a single open job could
 \caption{Maximum point allocation across the four verified index dimensions}
 \end{figure}
 
-\subsection{Eliminating Inferred Variables}
+\subsection{Eliminating Speculative Variables}
 
 To resolve these distortions, our methodology removes all unverified inputs. We discard estimated funding runways because private equity rounds and token treasury balances are rarely auditable in real time. We eliminate search volume approximations because search traffic frequently reflects media events or market volatility rather than genuine career interest. We also remove manual culture scores, which are vulnerable to sample bias and employer manipulation.
 
-Under the reformed framework, verified hiring capacity serves as the primary evaluation criterion. An employer with a single listing cannot outrank an organization hiring dozens of specialists across diverse teams. In our current dataset, every organization in the top 100 maintains at least two open roles, and 96 employers maintain three or more active positions.
+Under our reformed framework, verified hiring capacity serves as the primary evaluation criterion. An employer with a single listing cannot outrank an organization hiring dozens of specialists across diverse teams. In our current dataset, every organization in the top 100 maintains at least two open roles, and 96 employers maintain three or more active positions.
 
-\section{Scope and Employer Qualification Framework}
+\section{Index Eligibility and Core Web3 Qualification Standards}
 
-A rigorous industry index requires precise boundary definitions. Web3 technology operates at the intersection of cryptography, distributed ledgers, peer to peer networks, and decentralized protocols. Because traditional technology corporations and financial brokerages have established digital asset trading desks or experimental blockchain teams, an index must establish clear qualification standards to maintain sector relevance.
+A rigorous industry index requires precise boundary definitions. Web3 technology operates at the intersection of cryptography, distributed ledgers, peer to peer networks, and decentralized protocols. Because traditional technology corporations and financial brokerages have established digital asset trading desks or experimental blockchain teams, our index establishes clear qualification standards to maintain sector relevance.
 
-\subsection{Inclusion Criteria}
+\subsection{Baseline Inclusion Standards}
 
-To qualify for evaluation, an organization must satisfy three baseline conditions.
+To qualify for evaluation in the index, an organization must satisfy three baseline conditions.
 
 \begin{enumerate}
 \item \textbf{Native Digital Asset Focus.} The core business model, primary product offering, and operational revenue must derive from decentralized networks, digital assets, or cryptographic infrastructure.
@@ -101,9 +141,9 @@ To qualify for evaluation, an organization must satisfy three baseline condition
 \item \textbf{Machine-Verifiable Career Feeds.} The organization must publish career listings through supported enterprise applicant tracking systems, enabling automated verification \cite{ref1,ref2,ref3,ref4,ref5}.
 \end{enumerate}
 
-\subsection{Exclusion of Traditional Financial and Technology Firms}
+\subsection{Exclusion of Non-Native and Traditional Fintech Entities}
 
-To protect ranking integrity, the index strictly excludes traditional financial technology platforms, corporate spend management companies, and conventional equity brokerages whose core revenue models lie outside decentralized networks.
+To protect ranking integrity, our index strictly excludes traditional financial technology platforms, corporate spend management companies, and conventional equity brokerages whose core revenue models lie outside decentralized networks.
 
 When we inspect full enterprise hiring feeds from large financial institutions, the overwhelming majority of their open positions involve conventional retail equity execution, corporate credit cards, traditional fiat clearing, and non-crypto enterprise sales.
 
@@ -118,7 +158,7 @@ Specific exclusion categories include the following groups.
 \item \textbf{Traditional Fiat Payment Processors.} Global payment processors whose main revenue derives from traditional merchant acquiring and card network processing are excluded.
 \end{enumerate}
 
-\section{Mathematical Formulation of the Index}
+\section{Scoring Methodology and Mathematical Formulation}
 
 The Top 100 Web3 Employers Index evaluates organizations across four distinct, machine-verifiable components. Each component is derived directly from live listings, producing a composite score bounded between zero and one hundred points.
 
@@ -138,7 +178,7 @@ Transparency ($S_i$) & Compensation Openness & 10\% & Proportion of positions wi
 \end{tabularx}
 \end{table}
 
-\subsection{Component Mathematical Definitions}
+\subsection{Component Definitions and Point Weighting}
 
 \textbf{1. Hiring Volume ($V_i$) with 60 Points Maximum.}
 Hiring volume reflects total active open roles. To prevent a single mega-employer from compressing all other participants while rewarding genuine capacity, volume is scaled logarithmically relative to the maximum observed employer in the dataset.
@@ -193,9 +233,9 @@ When two employers maintain identical job counts, the composite score serves as 
 
 This hierarchy guarantees that an organization hiring ten engineers will always place above an organization hiring two engineers, regardless of peripheral bonus points.
 
-\section{Empirical Labor Market Findings}
+\section{Key Market Findings Across the Top 100}
 
-Analysis of active openings across the Top 100 reveals several structural characteristics of the decentralized technology labor market.
+Analysis of active openings across our Top 100 reveals several structural characteristics of the decentralized technology labor market.
 
 \begin{figure}[H]
 \centering
@@ -203,19 +243,19 @@ Analysis of active openings across the Top 100 reveals several structural charac
 \caption{Share of tracked open positions by industry subsector}
 \end{figure}
 
-\subsection{Headcount Concentration and Institutional Dominance}
+\subsection{Headcount Concentration Across Top Employers}
 
 Hiring capacity in the Web3 sector exhibits strong power law characteristics. In our sample of 100 employers, the top 10 organizations account for 388 open jobs, representing 34.8 percent of all tracked positions. The top 25 employers account for 640 jobs, representing 57.4 percent of the total.
 
-This concentration suggests that large, revenue-generating centralized platforms maintain durable balance sheets capable of supporting extensive expansion through shifting market cycles. Conversely, earlier stage protocol teams and decentralized autonomous organization foundations operate with lean headcounts, typically maintaining between two and seven open positions.
+This concentration indicates that large, revenue-generating centralized platforms maintain durable balance sheets capable of supporting extensive expansion through shifting market cycles. Conversely, earlier stage protocol teams and decentralized autonomous organization foundations operate with lean headcounts, typically maintaining between two and seven open positions.
 
-\subsection{Sector Distribution}
+\subsection{Industry Sector Breakdown}
 
 The 100 employers in the index span 11 functional sectors. Centralized Exchanges and Custody platforms lead all categories, accounting for 392 positions (35.2 percent) across 20 organizations. Fintech and Payments platforms represent the second largest segment, with 230 positions (20.6 percent) across 20 organizations. Quantitative Trading and Market Making firms account for 114 positions (10.2 percent) across 10 organizations.
 
 Emerging categories show notable activity. The Artificial Intelligence and Decentralized Physical Infrastructure Networks sector accounts for 90 positions (8.1 percent) across 8 companies, demonstrating investment at the intersection of distributed compute, cryptographic verification, and machine learning infrastructure.
 
-\section{Geographic and Remote Work Dynamics}
+\section{Workplace Flexibility and Remote Hiring Patterns}
 
 Remote work patterns within the Web3 labor market differ significantly across functional subsectors. Across the entire index of 100 employers, approximately 39 percent of tracked listings are marked as remote.
 
@@ -225,11 +265,11 @@ Remote work patterns within the Web3 labor market differ significantly across fu
 \caption{Remote work availability by industry subsector}
 \end{figure}
 
-\subsection{Operational Drivers of Remote Flexibility}
+\subsection{Sectors Leading in Distributed Work}
 
 Our data indicates that remote work availability is highest among pure software and protocol engineering teams. Infrastructure and Tooling providers demonstrate a 77 percent remote listing rate, followed by Security and Auditing firms at 76 percent. These organizations frequently coordinate work asynchronously through open source code repositories, automated testing pipelines, and distributed smart contract deployments.
 
-\subsection{Constraints on Distributed Work}
+\subsection{Structural Drivers of In-Person Requirements}
 
 In contrast, Quantitative Trading desks report only 6 percent remote availability, and Venture firms report 5 percent remote availability. This low remote prevalence appears to be driven by several operational and regulatory factors.
 
@@ -239,11 +279,11 @@ In contrast, Quantitative Trading desks report only 6 percent remote availabilit
 \item \textbf{Deal Origination and Partnership Sourcing.} Venture capital and corporate advisory entities continue to prioritize in-person negotiation and regional network density.
 \end{enumerate}
 
-\section{Wage Transparency and Statutory Compliance}
+\section{Compensation Openness and Regulatory Compliance}
 
 Salary transparency remains an evolving practice within the Web3 sector. Across the index snapshot, approximately 16 to 20 percent of active listings disclose upfront cash compensation ranges.
 
-\subsection{Impact of State Wage Mandates}
+\subsection{Impact of Statutory Pay Transparency Mandates}
 
 Our geographic analysis indicates that wage disclosure rates are heavily correlated with legal mandates in specific jurisdictions rather than voluntary industry initiatives. In the United States, several states have enacted legislation requiring employers to state wage scales in public postings.
 
@@ -255,9 +295,9 @@ Our geographic analysis indicates that wage disclosure rates are heavily correla
 
 United States headquartered institutions subject to these regulations exhibit high disclosure rates. In our dataset, Coinbase reports salary ranges on 88 percent of its listings, and Figure reports salary ranges on 77 percent of its listings.
 
-\subsection{Opacity Among Distributed Foundations and International Entities}
+\subsection{Compensation Reporting in Distributed Organizations}
 
-In contrast, offshore protocol foundations, international trading platforms, and decentralized entities frequently exhibit zero percent cash salary disclosure. This opacity is likely attributable to several factors.
+In contrast, offshore protocol foundations, international trading platforms, and decentralized entities frequently exhibit zero percent cash salary disclosure. This opacity is attributable to several factors.
 
 \begin{enumerate}
 \item \textbf{Contractor Arrangements.} Many decentralized foundations hire core contributors as independent international contractors rather than conventional domestic employees, placing them outside state labor statutes.
@@ -315,28 +355,37 @@ Web3 Infrastructure & 3 & 8 & 0.7\% & 50\% & 0\% & Spruce (3 jobs) \\[2pt]
 \end{tabularx}
 \end{table}
 
-\section{Integrity Governance and Anti-Gaming Safeguards}
+\section{Data Integrity and Verification Safeguards}
 
 A public index based on active hiring must defend against intentional and accidental data distortion. We implement four technical safeguards within our data ingestion pipeline.
 
+\subsection{Real-Time Ingestion and Canonical Deduplication}
+
+Our parser groups listings sharing identical title strings and job specifications into a single canonical posting. Employers frequently cross-list a single position across multiple cities or remote zones to maximize candidate reach. Automated deduplication ensures each distinct open role receives exactly one unit of volume credit.
+
+\subsection{Authenticated Career Domain Verification}
+
+We ingest data only from verified company subdomains on supported enterprise tracking systems. Self-submitted postings, manual employer submissions, and unverified third-party aggregations are rejected.
+
+\subsection{Stale Listing Pruning and Tombstoning}
+
+Any job listing URL that returns an HTTP error or remains unmodified for more than 90 days is marked as inactive and removed from active score calculations. This safeguard ensures that legacy listings do not accumulate unearned score credit.
+
+\subsection{Deterministic Scoring Code}
+
+The scoring calculation is deterministic and transparent. Tiebreaker logic, point weights, and normalization denominators are auditable in code, eliminating manual scoring intervention or subjective editorial bias.
+
+\section{Methodology Boundaries and Ongoing Monitoring}
+
+While our methodology provides verifiable workforce intelligence, several structural boundaries frame the analysis.
+
 \begin{enumerate}
-\item \textbf{Listing Tombstoning and Stale Data Pruning.} Any job listing URL that returns an HTTP error or remains unmodified for more than 90 days is marked as inactive and removed from active score calculations.
-\item \textbf{Multi-Location Deduplication.} Employers frequently cross-list a single role across multiple cities or remote zones to maximize candidate reach. Our parser groups listings sharing identical title strings and job specifications into a single canonical posting.
-\item \textbf{Authenticated Career Domain Verification.} We ingest data only from verified company subdomains on supported enterprise tracking systems. Self-submitted postings or unverified third-party aggregations are not accepted.
-\item \textbf{Deterministic and Auditable Source Code.} The scoring algorithm is open to audit. Tiebreaker logic, point weights, and normalization denominators are deterministic, eliminating manual scoring intervention.
+\item \textbf{Enterprise ATS Pipeline Scope.} Organizations utilizing custom internal applicant portals or non-standard hiring software are not indexed by our automated pipeline. Support for additional platforms is added on an ongoing basis.
+\item \textbf{Non-Traditional Contributor Workflows.} Web3 organizations frequently recruit specialized contributors through developer bounties, grant programs, and governance proposals without publishing formal job descriptions.
+\item \textbf{Token Incentive Structures.} Our compensation metric evaluates cash compensation bands and does not capture equity grants or native token vest schedules. Standardized valuation frameworks for liquid token incentives remain an ongoing research topic.
 \end{enumerate}
 
-\section{Limitations and Future Research Directions}
-
-While our methodology offers verifiable clarity, certain structural limitations warrant discussion.
-
-\begin{enumerate}
-\item \textbf{Unindexed Private and Boutique ATS Systems.} Organizations utilizing custom internal applicant portals or non-standard hiring tools are not currently indexed by our automated pipeline.
-\item \textbf{Informal and Community-Based Hiring.} Web3 organizations frequently recruit contributors through developer bounties, grant programs, and governance forums without publishing formal job descriptions.
-\item \textbf{Variable Token Vesting Valuation.} Our current salary metric evaluates cash compensation bands and does not capture equity grants or native token vest schedules. Future research could explore standardized valuation models for liquid token incentives.
-\end{enumerate}
-
-\section{Complete Census of the Top 100 Employers}
+\section{Complete Index and Top 100 Employers Census}
 
 Table 3 presents the complete empirical census of the one hundred qualifying organizations, ordered by verified active openings and composite score tiebreakers.
 
@@ -464,35 +513,36 @@ Table 3 presents the complete empirical census of the one hundred qualifying org
 \clearpage
 \begingroup
 \small
+\renewcommand{\refname}{Data Sources and Regulatory References}
 \begin{thebibliography}{99}
 \raggedright
 
 \bibitem{ref1}
-Greenhouse Software Inc. Greenhouse Job Board Specifications and Application Programming Interface Documentation.
+Greenhouse Software Inc. ``Greenhouse Job Board Specifications and Public API Documentation.'' Technical platform specifications. \href{https://developers.greenhouse.io}{developers.greenhouse.io}.
 
 \bibitem{ref2}
-Ashby Inc. Ashby Public Career Architecture and Application Interface Reference.
+Ashby Inc. ``Ashby Public Career Architecture and API Reference.'' Technical platform documentation. \href{https://developers.ashbyhq.com}{developers.ashbyhq.com}.
 
 \bibitem{ref3}
-Lever Inc. Lever Postings System Technical Documentation.
+Lever Inc. ``Lever Postings System Reference and Data Model.'' Technical specifications. \href{https://hire.lever.co}{hire.lever.co}.
 
 \bibitem{ref4}
-Workable Software Limited. Workable Public API Reference and Data Model.
+Workable Software Limited. ``Workable Public Career API Specifications.'' Technical platform reference. \href{https://workable.com}{workable.com}.
 
 \bibitem{ref5}
-Teamtailor AB. Teamtailor Public Career Platform Technical Specifications.
+Teamtailor AB. ``Teamtailor Career Platform Technical Reference.'' Public API documentation. \href{https://teamtailor.com}{teamtailor.com}.
 
 \bibitem{ref6}
-California State Legislature. Senate Bill 1162, California Labor Code Section 432.3 (Enacted 2022).
+California State Legislature. ``Senate Bill 1162, California Labor Code Section 432.3.'' Enacted 2022. Statutory text reproduced by California Legislative Information. \href{https://leginfo.legislature.ca.gov}{leginfo.legislature.ca.gov}.
 
 \bibitem{ref7}
-New York State Legislature. Senate Bill S9427A, New York Labor Law Section 194-b (Enacted 2023).
+New York State Legislature. ``Senate Bill S9427A, New York Labor Law Section 194-b.'' Enacted 2023. Statutory text reproduced by New York State Senate. \href{https://nysenate.gov}{nysenate.gov}.
 
 \bibitem{ref8}
-Colorado General Assembly. Senate Bill 19-085, Colorado Revised Statutes Section 8-5-101 et seq., Equal Pay for Equal Work Act (Enacted 2021).
+Colorado General Assembly. ``Senate Bill 19-085, Equal Pay for Equal Work Act, Colorado Revised Statutes Section 8-5-101 et seq.'' Enacted 2021. Statutory text reproduced by Colorado General Assembly. \href{https://leg.colorado.gov}{leg.colorado.gov}.
 
 \bibitem{ref9}
-Commodity Futures Trading Commission. Order of Registration for KalshiEX LLC as a Designated Contract Market (November 2020).
+Commodity Futures Trading Commission. ``Order of Registration for KalshiEX LLC as a Designated Contract Market.'' Regulatory filing, November 2020. Public disclosure text reproduced by CFTC. \href{https://cftc.gov}{cftc.gov}.
 
 \end{thebibliography}
 \endgroup
@@ -509,8 +559,8 @@ def main():
     assert 'CKBA' not in TEX_CONTENT, 'Violation: Found CKBA in tex content'
 
     # Check for colons in text outside of href
-    text_without_href = re.sub(r'\\href\{[^}]+\}', '', TEX_CONTENT)
-    # Check if any colon exists
+    text_without_href = re.sub(r'\\url\{[^}]+\}', '', TEX_CONTENT)
+    text_without_href = re.sub(r'\\href\{[^}]+\}', '', text_without_href)
     colons = [line for line in text_without_href.splitlines() if ':' in line]
     assert len(colons) == 0, f'Violation: Found colon in lines: {colons}'
 
@@ -525,7 +575,6 @@ def main():
     compiled_pdf = PAPER_DIR / 'top100_paper.pdf'
     assert compiled_pdf.exists(), 'Compilation failed: PDF not found'
     
-    # Copy to public and brain
     compiled_pdf_bytes = compiled_pdf.read_bytes()
     PUBLIC_PDF.write_bytes(compiled_pdf_bytes)
     BRAIN_PDF.write_bytes(compiled_pdf_bytes)

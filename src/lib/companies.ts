@@ -253,6 +253,7 @@ export const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'gravity-team': 'https://gravityteam.co',
  'baton-corporation': 'https://pump.fun',
  'pump-fun': 'https://pump.fun',
+ 'coinspaid': 'https://coinspaid.com',
  'luno': 'https://luno.com',
  'bob': 'https://gobob.xyz',
  'delphi': 'https://delphidigital.io',
