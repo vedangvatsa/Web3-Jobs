@@ -3309,5 +3309,36 @@
     "slotKey": "2026-11-08:afternoon",
     "messageId": 156146,
     "sentAt": "2026-11-08T11:33:43.335Z"
+  },
+  "0f09aa4e-4dea-468e-8edf-bb0440e7dd66": {
+    "status": "reserved",
+    "reservedAt": "2026-11-08T19:33:27.055Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "French Hill Retains House Seat but Loses Chairmanship",
+        "summary": "The Republican representative from Arkansas will cede his committee leadership role to Democrats in January.",
+        "link": "https://hashtagweb3.com/frenchhill?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "French Hill Wins Reelection but Is Set to Lose House Financial Services Chair"
+      },
+      {
+        "index": -1,
+        "headline": "Hong Kong Lawmakers Approve Crypto Tax Reporting Bill",
+        "summary": "Service providers must collect user data starting in 2027, with exchanges following in 2028 under the new framework.",
+        "link": "https://hashtagweb3.com/carf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Hong Kong Lawmakers Pass Crypto Tax Reporting Bill for 2027 Collection"
+      },
+      {
+        "index": -1,
+        "headline": "Ukraine's Central Bank Objects to Proposed Crypto Bill",
+        "summary": "The bank cited concerns over foreign token access and licensing rules after a parliamentary committee approved the draft law.",
+        "link": "https://hashtagweb3.com/nbubill?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ukraine Central Bank Opposes Crypto Bill Cleared for Second Reading"
+      }
+    ],
+    "slotKey": "2026-11-08:evening"
   }
 }
