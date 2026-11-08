@@ -142250,9 +142250,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "0afea6f554f30d2245ce",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-08T21:39:19.000Z",
       "lastSeenAt": "2026-11-06T00:28:20.054Z",
       "articleSlug": "frenchhill",
@@ -142274,7 +142274,21 @@
         "updatedAt": "2026-11-08T11:01:11.922Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read Cointelegraph and KATV this run; verified the AP call, vote totals, committee chair handover expectation and Fairshake pledge across both sources. Drafted frenchhill.md with a Commons portrait; quality, formatting, image and duplicate audits pass and all outbound links return 200.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas",
+          "outcome": "read"
+        },
+        {
+          "url": "https://katv.com/news/local/ap-calls-french-hill-winner-in-arkansas-2nd-district-race-edging-chris-jones",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-08T11:07:02.658Z",
+      "lastReviewedDay": "2026-11-08"
     },
     "751d2c7a282c00b12ee5": {
       "source": "Decrypt",
@@ -282926,6 +282940,23 @@
             "Find an independent report or the CFTC/NFA registration record of Hyperliquid Strategies Inc filing as a futures commission merchant in November 2026",
             "Find corroboration for Payward deploying HIP-3 markets through Bitnomial with NinjaTrader Clearing as FCM"
           ]
+        },
+        "0afea6f554f30d2245ce": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Cointelegraph and KATV this run; verified the AP call, vote totals, committee chair handover expectation and Fairshake pledge across both sources. Drafted frenchhill.md with a Commons portrait; quality, formatting, image and duplicate audits pass and all outbound links return 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas",
+              "outcome": "read"
+            },
+            {
+              "url": "https://katv.com/news/local/ap-calls-french-hill-winner-in-arkansas-2nd-district-race-edging-chris-jones",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-08T11:07:02.658Z",
+          "articleSlug": "frenchhill"
         }
       },
       "baselineSlugs": [
