@@ -920,47 +920,6 @@
     }
   },
   {
-    "id": "token2049-c65206c5cfef48bd",
-    "name": "RaveDAO x OrangeX Present Brina Knauss",
-    "description": "RaveDAO x OrangeX Present Brina Knauss is scheduled for 9 October 2026 at 21:00 (Asia/Singapore) in Singapore. Hosted by RaveDAO.",
-    "startDate": "2026-10-09T21:00:00+08:00",
-    "location": "62 Cecil St, #02-00 TPI Building, Singapore 049710",
-    "url": "https://www.plvr.io/events/ravedao-x-orangex-present-brina-knauss-20261009-sg",
-    "registrationUrl": "https://www.plvr.io/events/ravedao-x-orangex-present-brina-knauss-20261009-sg",
-    "coverImage": "/events/token2049-c65206c5cfef48bd-d918020e.webp",
-    "endDate": "2026-10-09T19:00:00.000Z",
-    "timezone": "Asia/Singapore",
-    "country": "Singapore",
-    "city": "Singapore",
-    "venueName": "MDLR",
-    "organizer": {
-      "name": "RaveDAO",
-      "type": "Organization"
-    },
-    "price": "USD 30",
-    "attendanceMode": "offline",
-    "slug": "ravedao-orangex",
-    "source": "token2049-verified",
-    "sideEventFor": [
-      "token2049"
-    ],
-    "token2049SideEvent": true,
-    "descriptionSource": {
-      "url": "https://week.token2049.com",
-      "fetchedAt": "2026-09-27T20:12:33.247Z",
-      "method": "matched-organizer-record",
-      "pageTitle": "RaveDAO x OrangeX Present Brina Knauss",
-      "sha256": "7f6884418390b53efa8856b3be39b3b80cfa5b0cc819e2de8c231b33758a85dd",
-      "evidence": [
-        {
-          "url": "https://www.plvr.io/events/ravedao-x-orangex-present-brina-knauss-20261009-sg",
-          "fetchedAt": "2026-09-27T20:12:33.247Z",
-          "sha256": "c364d604e437edfa8a8427e27784c2629239f3900953ce12c3421e1bb027ff51"
-        }
-      ]
-    }
-  },
-  {
     "id": "token2049-343edc72c451f7f2",
     "name": "Il Divo Gala Dinner | BIG ART FESTIVAL Singapore.",
     "description": "Il Divo Gala Dinner | BIG ART FESTIVAL Singapore. is scheduled for 10 October 2026 at 20:00 (Asia/Singapore) in Singapore. Hosted by Berin Iglesias Art LLC.",

@@ -8791,5 +8791,62 @@
       "crypto-vc",
       "token2049-evt-thbx6mwdmqmhq0b"
     ]
+  },
+  "w3v-sparky-game-on": {
+    "until": "2027-11-08T19:32:20.670Z",
+    "slugs": [
+      "sparky",
+      "w3v-sparky-game-on"
+    ]
+  },
+  "token2049-side-6a9f15a0967be0befa88c5ea": {
+    "until": "2027-11-08T19:32:20.670Z",
+    "slugs": [
+      "ccxb",
+      "token2049-side-6a9f15a0967be0befa88c5ea"
+    ]
+  },
+  "luma-batch-1sMHw1TaVO3TkEe": {
+    "until": "2027-11-08T19:32:20.670Z",
+    "slugs": [
+      "london-oct-09",
+      "luma-batch-1smhw1tavo3tkee"
+    ]
+  },
+  "luma-batch-Xn8sMlufqyme16Q": {
+    "until": "2027-11-08T19:32:20.670Z",
+    "slugs": [
+      "onlinedemod",
+      "luma-batch-xn8smlufqyme16q"
+    ]
+  },
+  "luma-batch-EHG2EAh4I63mIfb": {
+    "until": "2027-11-08T19:32:20.670Z",
+    "slugs": [
+      "vbow207k",
+      "luma-batch-ehg2eah4i63mifb"
+    ]
+  },
+  "luma-batch-evtFhAaGmCkK7fSP": {
+    "until": "2027-11-08T19:32:20.670Z",
+    "slugs": [
+      "hc3wgjrn",
+      "luma-batch-evtfhaagmckk7fsp"
+    ]
+  },
+  "token2049-c65206c5cfef48bd": {
+    "until": "2027-11-08T19:32:20.670Z",
+    "slugs": [
+      "ravedao-orangex",
+      "token2049-c65206c5cfef48bd"
+    ]
+  },
+  "premier-connectsg": {
+    "until": "2027-11-08T19:32:20.670Z",
+    "slugs": [
+      "premier-connectsg",
+      "connectsg",
+      "connect1"
+    ]
   }
 }

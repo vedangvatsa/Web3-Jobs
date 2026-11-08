@@ -1241,36 +1241,6 @@
     }
   },
   {
-    "id": "luma-batch-1sMHw1TaVO3TkEe",
-    "slug": "london-oct-09",
-    "name": "Co-Working Fridays : London Chapter",
-    "description": "Join SuperteamUK every Friday at our co-working space for builders, leaders and creatives at the frontier of tech in London (Every Friday: 10:00AM - 8:30PM)!\n\nAttendance is free but entry via approval only, so make sure to register and be accepted for your name to be on the guestlist.\n\nCome and meet and collaborate with like-minded developers & builders, discover new team members, and gain insights from industry leaders.\n\nOn arrival you will receive your event wristband which must be worn at all times on site! Please keep the safe as you found it to represent the other members and venue staff.\n\nFor more info, reach out to us on the Solana UK Telegram.\n\nAbout Superteam UK\n\nSuperteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.Learn more and apply for membership at superteamuk.org\n\n* This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.\n\n** Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.\n\nBy signing up to this event you agree that Solana, The SRI, & SuperteamUK can capture any footage of you, and contact you directly about future events, major news, and more.",
-    "startDate": "2026-10-09T09:00:00.000Z",
-    "endDate": "2026-10-09T19:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "Somerset House, London, United Kingdom",
-    "url": "https://luma.com/london-oct-09",
-    "registrationUrl": "https://luma.com/london-oct-09",
-    "coverImage": "/events/luma-batch-1sMHw1TaVO3TkEe-609a935f.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam UK"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/London",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "sourceVerification": {
-      "url": "https://luma.com/london-oct-09",
-      "eventId": "calev-1sMHw1TaVO3TkEe",
-      "fetchedAt": "2026-09-22T11:31:03.000Z",
-      "method": "luma-page",
-      "apifyRunId": "WHcLsVUsFvlHmcVYz"
-    }
-  },
-  {
     "id": "luma-batch-F8zatkGwjYGzv3V",
     "slug": "wpfunpri",
     "name": "El Taller - Hackathon de Colosseum",
@@ -1295,60 +1265,6 @@
     "sourceVerification": {
       "url": "https://luma.com/wpfunpri",
       "eventId": "calev-F8zatkGwjYGzv3V",
-      "fetchedAt": "2026-09-22T11:31:03.000Z",
-      "method": "luma-page",
-      "apifyRunId": "WHcLsVUsFvlHmcVYz"
-    }
-  },
-  {
-    "id": "luma-batch-Xn8sMlufqyme16Q",
-    "slug": "onlinedemod",
-    "name": "UKRAINIAN DEMO DAY | Online",
-    "description": "Вирішальний момент – запітчи свій проєкт та отримай додаткові призи!\n\nХакатон завершується, і до закриття сабмітів  проєктів на Colosseum залишається зовсім трохи. Ті з вас, хто вже зможе показати своє MVP та запітчити нам, можуть позмагатися за додаткові призи окрім пулу на Ukrainian Sidetrack.SOLANA DEMO:\n\n✨ 1 місце – $1000✨ 2 місце – $500✨ 3 місце – $200\n\n+ OPEN TRACK:[для проєктів на інших блокчейнах, кросчейн-рішень і не web3-продуктів]✨ 1 місце – $500✨ 2 місце – $200✨ 3 місце – $100\n\nПерше місце отримає ідеальний пітч та готове MVP, демо якого ви продемонструєте.Рекомендуємо спланувати свою роботу під час хакатону так, аби на Demo Day ви вже мали готові пітчі. Отримаєте тут фідбек, та ще буде трохи часу, щоб покращити ваші подачі на Colosseum.  Тож ловіть можливість, бо будь-яка робота має винагороджуватися!Пітчити лише англійською 🔴Підготуй пітчдек 🔴Демо продукту може бути в записі або продемонструй в лайві 🔴PROOF OF MONEY тут!\n\nДля того щоб виступити - обовʼязкова реєстрація.\n\nЯкщо ти в Києві, то пітчи там !",
-    "startDate": "2026-10-09T14:30:00.000Z",
-    "endDate": "2026-10-09T19:30:00.000Z",
-    "url": "https://luma.com/onlinedemod",
-    "registrationUrl": "https://luma.com/onlinedemod",
-    "coverImage": "/events/luma-batch-Xn8sMlufqyme16Q-c1760a0a.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Ukraine"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/Kiev",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "sourceVerification": {
-      "url": "https://luma.com/onlinedemod",
-      "eventId": "calev-Xn8sMlufqyme16Q",
-      "fetchedAt": "2026-09-22T11:31:03.000Z",
-      "method": "luma-page",
-      "apifyRunId": "WHcLsVUsFvlHmcVYz"
-    }
-  },
-  {
-    "id": "luma-batch-EHG2EAh4I63mIfb",
-    "slug": "vbow207k",
-    "name": "SuperteamTR — Colosseum Office Hours",
-    "description": "Bring your blocker.\n\nEvery Friday, we get builders in one room and work through whatever is slowing them down.\n\nBring your:\n\n→ idea you’re not sure about→ technical blocker→ pricing or distribution question→ repo, demo, deck or submission→ pitch that needs to be challenged→ scope that desperately needs cutting\n\nWe’ll help you figure out what’s worth building, who would actually pay for it, what you can realistically ship by the deadline, and what needs fixing before submission.\n\nSometimes the best part is hearing another team get challenged on the exact thing you haven’t thought about yet.\n\nEvery Friday, 19:00. One hour.",
-    "startDate": "2026-10-09T16:00:00.000Z",
-    "endDate": "2026-10-09T17:00:00.000Z",
-    "url": "https://luma.com/vbow207k",
-    "registrationUrl": "https://luma.com/vbow207k",
-    "coverImage": "/events/luma-batch-EHG2EAh4I63mIfb-afdc30f8.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Türkiye"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/Istanbul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "sourceVerification": {
-      "url": "https://luma.com/vbow207k",
-      "eventId": "calev-EHG2EAh4I63mIfb",
       "fetchedAt": "2026-09-22T11:31:03.000Z",
       "method": "luma-page",
       "apifyRunId": "WHcLsVUsFvlHmcVYz"
@@ -2084,36 +2000,6 @@
     "sourceVerification": {
       "url": "https://luma.com/yyp8316a",
       "eventId": "evt-ZJzbrUXrq27u4mh",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtFhAaGmCkK7fSP",
-    "slug": "hc3wgjrn",
-    "name": "Berlin Builder HQ: Build with AI Powered by Stellar",
-    "description": "Join us for an in-person builder night + mini-hack focused on building with AI on Stellar.\n\nThis session is designed for founders, developers, designers, creatives, and builders who want to build something real in one evening, meet other builders, and prepare for HackMeridian.\n\nWhat to expect\n\nLightning intro + this session's build challenge\n\nHeads-down build sprint (solo or team up on the night)\n\nMentorship and hands-on support while you build\n\nDemos, networking, snacks and drinks\n\nWho should join?\nBuilders coming from web2 and emerging tech who want to start building with AI - from first-timers to experienced developers. You don't need to be an expert in Stellar to participate. Come with an idea, your laptop, and some curiosity, and we'll help you get started.\n\nAbout HackMeridian\nHackMeridian is a two-day builder event bringing together developers, founders, designers, and technical teams to turn ambitious ideas into working products on Stellar. The main event takes place October 25–26, 2026 in Lisbon, Portugal.\n\nThere's more than one way into HackMeridian. Start where you are, find your people, find your idea, and find your way.\n\n🚨 Apply today at HackMeridian.com.\n\nHackMeridian has two paths:\n\nGenesis: for first-time founders, emerging builders, domain experts, and multidisciplinary teams working on a new idea or early prototype.\n\nScale: for experienced founders, product teams, developers, and startups with an existing product or advanced prototype looking to take it further. Experience does not need to be on Stellar.\n\nParticipants can access support from Stellar engineers, technical mentors, product experts, founders, workshops, office hours, team formation, and AI development support.\n\nAbout Circuit\n\nCircuit is a founders institution in Berlin.\n\nWe're a home for people building hard things: AI, health and life science, gaming, entertainment, and web3.\n\nYou get a place to work, events to learn from, and a community that helps you grow.\n\nOur goal is simple: make Berlin the best city in the world to build.\n\nCome to an event, meet the builders, and see what's next.\n\nTravel opportunity 🎟️\nStandout builders can earn a scholarship toward HackMeridian in Lisbon (25–26 Oct). This is your route in.\n\nTo be considered for a travel grant you MUST register to the hackathon.\n\nSponsored by Stellar. Hosted by H.E.R. DAO.\n\n📍 Circuit (formerly w3.hub)\n\n🗓️ Fri 9 Oct 2026\n\n⏰ 17:30 - 20:00\n\nSpaces are limited — register to save your spot!",
-    "startDate": "2026-10-09T15:30:00.000Z",
-    "endDate": "2026-10-09T18:00:00.000Z",
-    "city": "Berlin",
-    "country": "Germany",
-    "location": "w3.hub, w3.hub, Möckernstraße 120, 10963 Berlin-Bezirk Friedrichshain-Kreuzberg, Germany",
-    "url": "https://luma.com/hc3wgjrn",
-    "registrationUrl": "https://luma.com/hc3wgjrn",
-    "coverImage": "/events/luma-batch-evtFhAaGmCkK7fSP-cdcbed21.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Berlin",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "hackathon",
-    "sourceVerification": {
-      "url": "https://luma.com/hc3wgjrn",
-      "eventId": "evt-FhAaGmCkK7fSPrY",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
