@@ -142768,11 +142768,27 @@
       ],
       "alsoCoveredBy": [],
       "id": "120b2d4ef695eb8892a3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-08T15:25:00.000Z",
-      "lastSeenAt": "2026-11-06T00:28:20.054Z"
+      "lastSeenAt": "2026-11-06T00:28:20.054Z",
+      "reason": "duplicate",
+      "note": "Read the Bitcoin Magazine report; it covers the same Reuters-sourced Fed and OCC Monday outreach to banks after the Binance hack as the ready bankchecks article, with the same Monday timing, unusual-activity questions and bank diagnostics.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/fed-occ-quiz-banks-binance-hack",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-08T11:07:36.177Z",
+      "duplicateOf": "bankchecks",
+      "mergedInto": "993feafaf5084caf5010",
+      "lastReviewedDay": "2026-11-08"
     },
     "f22600fc42631c263e64": {
       "source": "Unchained",
@@ -282988,6 +283004,24 @@
           ],
           "reviewedAt": "2026-11-08T11:07:06.409Z",
           "articleSlug": "bankchecks"
+        },
+        "120b2d4ef695eb8892a3": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Read the Bitcoin Magazine report; it covers the same Reuters-sourced Fed and OCC Monday outreach to banks after the Binance hack as the ready bankchecks article, with the same Monday timing, unusual-activity questions and bank diagnostics.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/fed-occ-quiz-banks-binance-hack",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-08T11:07:36.177Z",
+          "duplicateOf": "bankchecks",
+          "mergedInto": "993feafaf5084caf5010"
         }
       },
       "baselineSlugs": [
