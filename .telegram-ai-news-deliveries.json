@@ -3377,5 +3377,38 @@
     "slotKey": "2026-11-07:evening",
     "messageId": 193472,
     "sentAt": "2026-11-07T19:36:25.876Z"
+  },
+  "30f03e4f-63ea-4d9e-835b-71b98d69e995": {
+    "status": "reserved",
+    "reservedAt": "2026-11-08T11:34:07.079Z",
+    "stories": [
+      {
+        "index": 2,
+        "original_title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+        "headline": "Chinese agents recruited tech executive to spy on Nvidia CEO",
+        "summary": "A leaked intelligence memo details foreign government efforts targeting the chief executive of the leading chip producer.",
+        "event_rationale": "Covers a foreign espionage operation targeting Nvidia's chief executive, distinct from any previously reported security incidents.",
+        "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+        "source": "TechCrunch",
+        "originalTitle": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo"
+      },
+      {
+        "index": 3,
+        "headline": "OpenAI reportedly raises $11 billion at $1.25 trillion valuation",
+        "summary": "The company expects to finalize this investment round within the next few weeks.",
+        "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+        "source": "TechCrunch",
+        "originalTitle": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation"
+      },
+      {
+        "index": 8,
+        "headline": "Securing enterprise AI agents through data lineage tracking",
+        "summary": "Companies use data lineage to monitor how AI agents access and process information from multiple internal sources.",
+        "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+        "source": "MIT Tech Review",
+        "originalTitle": "Securing the agentic enterprise with data lineage"
+      }
+    ],
+    "slotKey": "2026-11-08:afternoon"
   }
 }
