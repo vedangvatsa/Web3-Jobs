@@ -91,6 +91,14 @@ const DOMAIN_OVERRIDES: Record<string, string> = {
   temporal: 'temporal.xyz',
   orca: 'orca.so',
   'nous-research': 'nousresearch.com',
+  coinspaid: 'coinspaid.com',
+  btse: 'btse.com',
+  relay: 'relay.link',
+  'relay-link': 'relay.link',
+  'merkle-science': 'merklescience.com',
+  merklescience: 'merklescience.com',
+  strike: 'strike.me',
+  coinflow: 'coinflow.cash',
 };
 
 /** When slug.png is missing but a related file exists, copy/reuse it. */
