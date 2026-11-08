@@ -118571,6 +118571,41 @@
       "attemptId": "eeb69ff5-d5fa-4665-9a3b-1a253ac9f2c5",
       "verification": "verified",
       "postId": "0x608ff44f6d440c54952cff161eb471965e2eb4c7"
+    },
+    {
+      "slug": "rs16",
+      "company": "Polymarket",
+      "title": "Trust and Safety Program Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-08T19:36:40.682Z",
+      "expectedText": "Polymarket is hiring Trust and Safety Program Manager\n\nhttps://hashtagweb3.com/rs16/fc?og=7",
+      "snapshot": {
+        "id": "218587df-4c7d-437f-bcbc-ab7755629207",
+        "title": "Trust and Safety Program Manager",
+        "company": "Polymarket",
+        "link": "https://jobs.ashbyhq.com/polymarket/218587df-4c7d-437f-bcbc-ab7755629207",
+        "date": "2026-10-23T19:10:51.751+00:00",
+        "source": "Ashby: Polymarket [Polymarket]",
+        "location": "New York",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Legal",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rs16"
+      },
+      "payload": {
+        "text": "Polymarket is hiring Trust and Safety Program Manager\n\nhttps://hashtagweb3.com/rs16/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rs16/fc?og=7"
+          }
+        ],
+        "channel_id": "defi"
+      },
+      "account": "channel:defi",
+      "attemptId": "5004907b-8cd5-475a-9453-15c270eedb08",
+      "verification": "creating"
     }
   ]
 }
