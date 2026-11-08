@@ -3513,7 +3513,7 @@
     "sentAt": "2026-11-08T11:34:47.381Z"
   },
   "5b78b36e-504a-435e-97a9-6692ffe3b79a": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-08T19:34:52.218Z",
     "stories": [
       {
@@ -3541,6 +3541,8 @@
         "originalTitle": "French Assembly backs tax on crypto-to-stablecoin swaps by one vote"
       }
     ],
-    "slotKey": "2026-11-08:evening"
+    "slotKey": "2026-11-08:evening",
+    "messageId": 65814,
+    "sentAt": "2026-11-08T19:35:07.163Z"
   }
 }
