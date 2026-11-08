@@ -16156,7 +16156,7 @@
     "sentAt": "2026-11-08T11:31:56.976Z"
   },
   "2d1285ca-cf72-4728-9726-c31e71abf1ef": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-08T11:31:58.746Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -16270,6 +16270,8 @@
       }
     ],
     "message": "- Blockchain.com is hiring <a href=\"https://hashtagweb3.com/ro3?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Risk Officer</a>\n- Helius is hiring <a href=\"https://hashtagweb3.com/rec42?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Recruiter</a>\n- Ondo Finance is hiring <a href=\"https://hashtagweb3.com/pm229?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Designer, Design Systems</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/arc12?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Architect, Integrations - Public Sector (US)</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/eng651?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer - Dev Platform</a>",
-    "slotKey": "2026-11-08:afternoon"
+    "slotKey": "2026-11-08:afternoon",
+    "messageId": 178,
+    "sentAt": "2026-11-08T11:32:00.953Z"
   }
 }
