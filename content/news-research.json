@@ -142105,7 +142105,27 @@
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
       "attempts": 0,
       "expiresAt": "2026-11-08T22:06:11.000Z",
-      "lastSeenAt": "2026-11-06T00:28:20.054Z"
+      "lastSeenAt": "2026-11-06T00:28:20.054Z",
+      "articleSlug": "dcmaccess",
+      "draftProgress": {
+        "id": "cf68985c033f81393e89",
+        "day": "2026-11-08",
+        "articleSlug": "dcmaccess",
+        "note": "Read the CFTC press release 9323-26 and the Crypto Briefing report; one more independent outlet still to read before ready.",
+        "sourceChecks": [
+          {
+            "url": "https://www.cftc.gov/PressRoom/PressReleases/9323-26",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cryptobriefing.com/cftc-dcm-impartial-access-geographic-restrictions/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-08T10:48:09.924Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "e3cc3a9b959584793860": {
       "source": "BeInCrypto",
@@ -142654,11 +142674,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "7911b756d9b00c1f44f8",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-08T14:21:50.000Z",
-      "lastSeenAt": "2026-11-06T00:28:20.054Z"
+      "lastSeenAt": "2026-11-06T00:28:20.054Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s\": https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s -> HTTP 429. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s",
+          "outcome": "blocked",
+          "status": 429,
+          "method": "GET",
+          "checkedAt": "2026-11-08T10:43:32.862Z"
+        }
+      ],
+      "reviewedAt": "2026-11-08T10:43:46.851Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
+        "Find independent reporting confirming the event in: Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-08",
+      "nextReviewDate": "2026-11-09"
     },
     "86e62db3f4814cc24a0a": {
       "source": "Decrypt",
@@ -282659,6 +282698,26 @@
           "sourceChecks": [],
           "reviewedAt": "2026-11-08T10:43:19.104Z",
           "automatic": true
+        },
+        "7911b756d9b00c1f44f8": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s\": https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s -> HTTP 429. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s",
+              "outcome": "blocked",
+              "status": 429,
+              "method": "GET",
+              "checkedAt": "2026-11-08T10:43:32.862Z"
+            }
+          ],
+          "reviewedAt": "2026-11-08T10:43:46.851Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
+            "Find independent reporting confirming the event in: Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
         }
       },
       "baselineSlugs": [
