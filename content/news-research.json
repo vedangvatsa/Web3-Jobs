@@ -142254,7 +142254,23 @@
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
       "attempts": 0,
       "expiresAt": "2026-11-08T21:39:19.000Z",
-      "lastSeenAt": "2026-11-06T00:28:20.054Z"
+      "lastSeenAt": "2026-11-06T00:28:20.054Z",
+      "articleSlug": "frenchhill",
+      "draftProgress": {
+        "id": "0afea6f554f30d2245ce",
+        "day": "2026-11-08",
+        "articleSlug": "frenchhill",
+        "note": "Read the Cointelegraph report; AP-call coverage from KATV and THV11 was located in search but not opened yet, and no draft has been started.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-08T10:56:04.732Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "751d2c7a282c00b12ee5": {
       "source": "Decrypt",
