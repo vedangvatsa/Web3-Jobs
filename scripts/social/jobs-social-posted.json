@@ -117100,8 +117100,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "76e06bc6-cd4e-4c72-b597-97f77aaf2efa",
-      "verification": "pending",
-      "postId": "6af05f85d6bbae6fa1e5e40f"
+      "verification": "verified",
+      "postId": "6af05f85d6bbae6fa1e5e40f",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7525160234642956288"
     }
   ]
 }
