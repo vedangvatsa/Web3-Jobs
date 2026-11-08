@@ -791,6 +791,26 @@
         "rolloutState": "SUCCEEDED",
         "confirmedAt": "2026-11-07T11:12:33.627Z"
       }
+    ],
+    "2026-11-08": [
+      {
+        "date": "2026-11-08",
+        "id": "42472517807-1",
+        "sourceCommit": "3709926972011acd3918e5bd215d49407709aed6",
+        "jobsCheckedAt": "2026-11-08T10:13:48.645Z",
+        "newsCompletedAt": "2026-11-08T12:01:09.603Z",
+        "articleSlugs": [
+          "dcmaccess",
+          "frenchhill",
+          "bankchecks",
+          "nbubill",
+          "carf"
+        ],
+        "phase": "building",
+        "startedAt": "2026-11-08T12:02:35.628Z",
+        "buildId": "daily-20261108-42472517807-1",
+        "rolloutId": "daily-20261108-42472517807-1"
+      }
     ]
   }
 }
