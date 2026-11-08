@@ -2249,6 +2249,14 @@
     "lastUrl": "https://hashtagweb3.com/mkt87",
     "updatedAt": "2026-10-29T03:35:50.092Z"
   },
+  "8258529": {
+    "slugs": [
+      "eng194"
+    ],
+    "lastSlug": "eng194",
+    "lastUrl": "https://hashtagweb3.com/eng194",
+    "updatedAt": "2026-11-08T19:32:55.221Z"
+  },
   "8259694": {
     "slugs": [
       "infra41"
@@ -9910,5 +9918,37 @@
     "lastSlug": "eng670",
     "lastUrl": "https://hashtagweb3.com/eng670",
     "updatedAt": "2026-11-08T11:32:09.260Z"
+  },
+  "5008412101": {
+    "slugs": [
+      "iamd"
+    ],
+    "lastSlug": "iamd",
+    "lastUrl": "https://hashtagweb3.com/iamd",
+    "updatedAt": "2026-11-08T19:32:55.221Z"
+  },
+  "5024572101": {
+    "slugs": [
+      "sls205"
+    ],
+    "lastSlug": "sls205",
+    "lastUrl": "https://hashtagweb3.com/sls205",
+    "updatedAt": "2026-11-08T19:32:55.221Z"
+  },
+  "8039368003": {
+    "slugs": [
+      "int47"
+    ],
+    "lastSlug": "int47",
+    "lastUrl": "https://hashtagweb3.com/int47",
+    "updatedAt": "2026-11-08T19:32:55.221Z"
+  },
+  "356c681c-d5b9-4078-8530-d29520987a34": {
+    "slugs": [
+      "dsc"
+    ],
+    "lastSlug": "dsc",
+    "lastUrl": "https://hashtagweb3.com/dsc",
+    "updatedAt": "2026-11-08T19:32:55.221Z"
   }
 }
