@@ -170,10 +170,10 @@ export default async function Top100Page() {
                 <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
                   <div>
                     <h3 className="text-base font-semibold text-foreground">
-                      Research Whitepaper
+                      Top 100 Methodology Whitepaper
                     </h3>
                     <p className="text-sm text-muted-foreground leading-relaxed mt-1 font-normal">
-                      Read the complete empirical study on hiring capacity, mathematical formulation, and pay transparency.
+                      Read the official methodology whitepaper covering our verification architecture, mathematical scoring formulas, and labor market findings.
                     </p>
                   </div>
                   <Button asChild variant="outline" size="sm" className="shrink-0">
