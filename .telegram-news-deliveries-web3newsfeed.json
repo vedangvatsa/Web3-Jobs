@@ -3479,7 +3479,7 @@
     "sentAt": "2026-11-07T19:37:18.233Z"
   },
   "8f892184-05ed-45ec-844c-5ffc136fe3b7": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-08T11:34:37.368Z",
     "stories": [
       {
@@ -3508,6 +3508,8 @@
         "originalTitle": "Amsterdam protesters break into Microsoft data center construction site: Report"
       }
     ],
-    "slotKey": "2026-11-08:afternoon"
+    "slotKey": "2026-11-08:afternoon",
+    "messageId": 65813,
+    "sentAt": "2026-11-08T11:34:47.381Z"
   }
 }
