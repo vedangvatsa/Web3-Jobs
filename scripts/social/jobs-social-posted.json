@@ -116457,7 +116457,8 @@
       },
       "account": "profile",
       "attemptId": "c74f0da6-fc88-447e-ab04-17ac6c1083c6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x325b7c342ad57a50db52ccf2a8c2247c2ffbab7d"
     }
   ]
 }
