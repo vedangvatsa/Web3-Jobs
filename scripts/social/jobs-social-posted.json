@@ -118794,6 +118794,47 @@
       "verification": "verified",
       "postId": "6af0cfce004e4879a7d90c11",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7525280837710303232"
+    },
+    {
+      "slug": "rs16",
+      "company": "Polymarket",
+      "title": "Trust and Safety Program Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-08T19:36:40.682Z",
+      "expectedText": "Polymarket is hiring Trust and Safety Program Manager: https://hashtagweb3.com/rs16/li?og=7",
+      "snapshot": {
+        "id": "218587df-4c7d-437f-bcbc-ab7755629207",
+        "title": "Trust and Safety Program Manager",
+        "company": "Polymarket",
+        "link": "https://jobs.ashbyhq.com/polymarket/218587df-4c7d-437f-bcbc-ab7755629207",
+        "date": "2026-10-23T19:10:51.751+00:00",
+        "source": "Ashby: Polymarket [Polymarket]",
+        "location": "New York",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Legal",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rs16"
+      },
+      "payload": {
+        "text": "Polymarket is hiring Trust and Safety Program Manager: https://hashtagweb3.com/rs16/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/rs16/li?og=7",
+          "title": "Trust and Safety Program Manager at Polymarket",
+          "description": "Join Polymarket as Trust and Safety Program Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/rs16.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "a76d7bb9-409f-4453-be5f-c601bd291094",
+      "verification": "creating"
     }
   ]
 }
