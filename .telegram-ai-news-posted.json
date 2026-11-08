@@ -900,6 +900,7 @@
   "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
   "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
   "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+  "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2481,6 +2482,8 @@
   "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
   "Securing enterprise AI agents through data lineage tracking",
   "Securing the agentic enterprise with data lineage",
+  "AI spending flattens as usage rises while Anthropic approaches IPO",
+  "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2898,5 +2901,6 @@
   "fp:against|anthropic|boom|cannot|clon|copy|developer|gam|generat|imitation",
   "fp:accord|agent|ceo|chief|chines|chip|detail|effort|exec|executiv",
   "fp:11b|additional|expect|few|finaliz|investment|next|openai|rais|reportedly",
-  "fp:access|agent|agentic|data|enterpris|how|information|internal|lineag|monitor"
+  "fp:access|agent|agentic|data|enterpris|how|information|internal|lineag|monitor",
+  "fp:anthropic|approach|assumption|better|challeng|cost|cut|data|expenditur|flatten"
 ]

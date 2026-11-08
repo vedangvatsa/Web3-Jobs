@@ -3414,7 +3414,7 @@
     "sentAt": "2026-11-08T11:34:13.994Z"
   },
   "19c827af-eff2-4fd5-819f-a0e1e471400d": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-08T19:34:31.009Z",
     "stories": [
       {
@@ -3426,6 +3426,8 @@
         "originalTitle": "Ramp data shows AI spending stalling just as Anthropic nears its IPO"
       }
     ],
-    "slotKey": "2026-11-08:evening"
+    "slotKey": "2026-11-08:evening",
+    "messageId": 193478,
+    "sentAt": "2026-11-08T19:34:45.064Z"
   }
 }
