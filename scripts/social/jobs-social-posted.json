@@ -115516,8 +115516,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "60c94db9-c3e7-4531-8bbd-42062fa9eb53",
-      "verification": "pending",
-      "postId": "6af05dec51492b796e34ec1b"
+      "verification": "verified",
+      "postId": "6af05dec51492b796e34ec1b",
+      "permalink": "https://twitter.com/hashtag_web3/status/2119392743143137320"
     }
   ]
 }
