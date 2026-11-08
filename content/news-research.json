@@ -142214,11 +142214,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "f218b597fc3d8451acec",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-08T21:49:04.000Z",
-      "lastSeenAt": "2026-11-06T00:28:20.054Z"
+      "lastSeenAt": "2026-11-06T00:28:20.054Z",
+      "reason": "source-blocked",
+      "note": "Read the Crypto Briefing article in full; it attributes the filing date, volume figures and Payward comparison only to unnamed 'research findings' and no second independent outlet or the CFTC filing record has been opened yet, so the two-source minimum is unmet.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/hyperliquid-strategies-cftc-fcm-filing/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-08T10:55:44.697Z",
+      "retrySearches": [
+        "Find an independent report or the CFTC/NFA registration record of Hyperliquid Strategies Inc filing as a futures commission merchant in November 2026",
+        "Find corroboration for Payward deploying HIP-3 markets through Bitnomial with NinjaTrader Clearing as FCM"
+      ],
+      "lastReviewedDay": "2026-11-08",
+      "nextReviewDate": "2026-11-09"
     },
     "0afea6f554f30d2245ce": {
       "source": "Cointelegraph",
@@ -282855,6 +282870,22 @@
           ],
           "reviewedAt": "2026-11-08T10:55:41.669Z",
           "duplicateOf": "mercadobitcoin"
+        },
+        "f218b597fc3d8451acec": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read the Crypto Briefing article in full; it attributes the filing date, volume figures and Payward comparison only to unnamed 'research findings' and no second independent outlet or the CFTC filing record has been opened yet, so the two-source minimum is unmet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/hyperliquid-strategies-cftc-fcm-filing/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-08T10:55:44.697Z",
+          "retrySearches": [
+            "Find an independent report or the CFTC/NFA registration record of Hyperliquid Strategies Inc filing as a futures commission merchant in November 2026",
+            "Find corroboration for Payward deploying HIP-3 markets through Bitnomial with NinjaTrader Clearing as FCM"
+          ]
         }
       },
       "baselineSlugs": [
