@@ -5045,5 +5045,52 @@
     "slotKey": "2026-11-07:evening",
     "messageId": 156133,
     "sentAt": "2026-11-07T19:32:23.324Z"
+  },
+  "adbc46cd-78dd-413c-b3c4-9688771926af": {
+    "status": "reserved",
+    "reservedAt": "2026-11-08T11:32:26.036Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "w3v-borneo-blockchain-conference-26-11-18",
+        "slug": "borneo-blockchain-conference",
+        "name": "Borneo Blockchain Conference 2026",
+        "startDate": "2026-11-18",
+        "keys": [
+          "w3v-borneo-blockchain-conference-26-11-18",
+          "page:borneo-blockchain-conference:2026-11-18",
+          "event:borneoblockchainconference2026:2026-11-18:kuching"
+        ]
+      },
+      {
+        "id": "luma-batch-evt5ynGGxaokhFV8",
+        "slug": "blockchain-meets-ai",
+        "name": "Blockchain Meets AI",
+        "startDate": "2026-11-18T16:30:00.000Z",
+        "keys": [
+          "luma-batch-evt5ynggxaokhfv8",
+          "hovkpcus",
+          "page:blockchain-meets-ai:2026-11-18",
+          "luma:evt-5ynggxaokhfv8da",
+          "luma-url:/hovkpcus",
+          "event:blockchainmeetsai:2026-11-18:amsterdam"
+        ]
+      },
+      {
+        "id": "discovery-evt-d2jbH5c6zkZDRCH",
+        "slug": "crypto-dinner-rotterdam",
+        "name": "Crypto Dinner - Rotterdam",
+        "startDate": "2026-11-18T17:30:00.000Z",
+        "keys": [
+          "discovery-evt-d2jbh5c6zkzdrch",
+          "page:crypto-dinner-rotterdam:2026-11-18",
+          "luma:evt-d2jbh5c6zkzdrch",
+          "luma-url:/dinnerrotterdam",
+          "event:cryptodinnerrotterdam:2026-11-18:rotterdam"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-08:afternoon"
   }
 }
