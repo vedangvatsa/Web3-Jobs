@@ -1,18 +1,10 @@
-export type StabilityTier =
-  | 'Public / NASDAQ'
-  | 'Institutional Scale ($10B+)'
-  | 'Foundation / Protocol Treasury'
-  | 'Profitable Cashflow'
-  | 'Tier-1 VC Backed'
-  | 'Series B/C Growth'
-  | 'Series A/B'
-  | 'Growth Stage';
-
-export type CandidateDemandLevel =
-  | 'Top 1% Demand'
-  | 'Very High'
-  | 'High'
-  | 'Strong';
+export interface Top100Scores {
+  hiringVolume: number;       // Scaled score based on verified active job count (0-60)
+  departmentBreadth: number;  // Score based on count of hiring functional departments (0-20)
+  remoteFlexibility: number;  // Score based on percentage of roles available remotely (0-10)
+  salaryTransparency: number; // Score based on percentage of roles disclosing pay (0-10)
+  composite: number;          // Total score (0-100)
+}
 
 export interface Top100Employer {
   rank: number;
@@ -23,23 +15,11 @@ export interface Top100Employer {
   headquarters: string;
   founded?: number;
   activeJobs: number;
+  departmentCount: number;
   remotePercentage: number;
   salaryTransparencyPct: number;
   salaryBenchmark?: string;
-  stabilityTier: StabilityTier;
-  candidateDemandLevel: CandidateDemandLevel;
-  candidateMetrics: {
-    searchIntentIndex: number;
-    talentToStaffRatio: string;
-    applicationConversionRate: string;
-  };
-  scores: {
-    hiringScale: number;
-    candidateDemand: number;
-    financialStability: number;
-    workplaceQuality: number;
-    composite: number;
-  };
+  scores: Top100Scores;
   highlightBadges: string[];
   summary: string;
 }

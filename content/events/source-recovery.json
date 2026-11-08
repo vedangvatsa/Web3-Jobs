@@ -40,32 +40,6 @@
       "reason": "Replaced the generic circuit homepage and incorrect daytime hours with Formula 1's session-specific official timetable."
     },
     {
-      "id": "token2049-side-6a7445ef7ef1577c1e37eca1",
-      "kind": "reviewed",
-      "sourceUrl": "https://megatix.com.sg/events/after2049",
-      "contains": [
-        "AFTER 2049 presents Claptone and Crusy",
-        "Doors open: 7:00 pm",
-        "Marina Bay Sands SkyPark Observation Deck",
-        "Minimum age: 18 years old"
-      ],
-      "description": "AFTER 2049 presents Claptone and Crusy.\n\nAFTER 2049 returns to the roof on Friday, 9 October 2026, at the Marina Bay Sands SkyPark Observation Deck.\n\nClaptone takes over the MBS SkyPark for this year’s AFTER 2049, joined by Crusy and returning AFTER 2049 residents ANONM, Leon, Milam and Mo-Shi.\n\n360° spatial audio by Polygon Live is exclusive to AFTER 2049 in Asia for 2026.\n\n## Access and timings\n\n• Doors open at 7:00 PM.\n• Entry is not guaranteed after 11:00 PM.\n• There is no re-entry after midnight; entry is subject to venue capacity.\n• The minimum age is 18, and valid photo ID is required.\n\n## Dress code\n\nSmart casual. No athletic wear, leisure wear, flip flops or shorts. Management reserves the right to deny entry.",
-      "patch": {
-        "startDate": "2026-10-09T19:00:00+08:00",
-        "timezone": "Asia/Singapore",
-        "venueName": "Marina Bay Sands SkyPark Observation Deck",
-        "location": "Marina Bay Sands SkyPark Observation Deck, 10 Bayfront Avenue, Singapore 018956",
-        "streetAddress": "10 Bayfront Avenue",
-        "addressLocality": "Singapore",
-        "addressCountry": "SG",
-        "postalCode": "018956"
-      },
-      "clearFields": [
-        "endDate"
-      ],
-      "reason": "Verified the authorized ticket seller's full description and 7 PM doors time. Removed the unsupported fixed closing time because the source says 'until late'."
-    },
-    {
       "id": "token2049-side-6a739c525a75007b4100108c",
       "kind": "reviewed",
       "sourceUrl": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",

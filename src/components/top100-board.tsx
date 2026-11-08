@@ -11,7 +11,7 @@ import type { CompanyLogoMap } from '@/lib/job-logo-map';
 const INITIAL_COUNT = 48;
 const LOAD_MORE_COUNT = 30;
 
-type SortField = 'rank' | 'jobs' | 'remote' | 'demand' | 'runway';
+type SortField = 'rank' | 'jobs' | 'remote' | 'salary';
 
 interface Top100BoardProps {
   initialEmployers: Top100Employer[];
@@ -46,13 +46,10 @@ export function Top100Board({ initialEmployers, companyLogos = {} }: Top100Board
         return b.activeJobs - a.activeJobs || b.scores.composite - a.scores.composite;
       }
       if (sortField === 'remote') {
-        return b.remotePercentage - a.remotePercentage || b.scores.composite - a.scores.composite;
+        return b.remotePercentage - a.remotePercentage || b.activeJobs - a.activeJobs;
       }
-      if (sortField === 'demand') {
-        return b.scores.candidateDemand - a.scores.candidateDemand || b.scores.composite - a.scores.composite;
-      }
-      if (sortField === 'runway') {
-        return b.scores.financialStability - a.scores.financialStability || b.scores.composite - a.scores.composite;
+      if (sortField === 'salary') {
+        return b.salaryTransparencyPct - a.salaryTransparencyPct || b.activeJobs - a.activeJobs;
       }
       return a.rank - b.rank;
     });
@@ -106,8 +103,7 @@ export function Top100Board({ initialEmployers, companyLogos = {} }: Top100Board
               { value: 'rank', label: 'Overall Rank' },
               { value: 'jobs', label: 'Most Open Roles' },
               { value: 'remote', label: 'Highest Remote %' },
-              { value: 'demand', label: 'Candidate Demand' },
-              { value: 'runway', label: 'Financial Runway' },
+              { value: 'salary', label: 'Salary Transparency' },
             ],
             className: 'md:max-w-[180px]',
           },

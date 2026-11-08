@@ -28510,20 +28510,24 @@
     "dateVerified": true
   },
   "ashby:b5a10115-0386-47c5-80f2-9c382e606dfd": {
-    "date": "2026-10-15T13:13:41.000Z",
-    "dateVerified": true
+    "date": "2026-10-14T13:19:47.572+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt"
   },
   "ashby:8293ce8f-a4c0-499f-971a-761153c14a85": {
-    "date": "2026-10-15T13:13:40.000Z",
-    "dateVerified": true
+    "date": "2026-10-14T13:17:51.500+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt"
   },
   "ashby:c86697dd-aacf-4112-b2e2-08dd69d50430": {
-    "date": "2026-10-15T13:13:40.000Z",
-    "dateVerified": true
+    "date": "2026-10-14T13:18:33.297+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt"
   },
   "ashby:8fbc6d1a-eac7-4c1e-91e6-e2a68b7d9368": {
-    "date": "2026-10-15T13:13:40.000Z",
-    "dateVerified": true
+    "date": "2026-10-14T13:16:33.321+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt"
   },
   "https://de.linkedin.com/jobs/view/internship-talent-acquisition-at-augustus-4479546120": {
     "date": "2026-10-15T09:53:17.000Z",
@@ -32793,8 +32797,9 @@
     "dateVerified": true
   },
   "greenhouse:6234325004": {
-    "date": "2026-10-26T12:55:13.000Z",
-    "dateVerified": true
+    "date": "2026-10-26T05:13:47-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
   },
   "https://app.taraki.co/home/jobs?view=customer-service-associate-oraan-tech-pvt-ltd": {
     "date": "2026-10-26T11:33:37.000Z",
@@ -37731,8 +37736,9 @@
     "dateVerified": true
   },
   "ashby:af030479-f72e-489f-9a76-794cc1d35fac": {
-    "date": "2026-11-03T11:00:31.000Z",
-    "dateVerified": true
+    "date": "2026-11-02T14:09:22.344+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt"
   },
   "greenhouse:8326105": {
     "date": "2026-11-03T16:56:32-05:00",
@@ -39888,16 +39894,19 @@
     "dateVerified": true
   },
   "ashby:895ce469-6f4a-4480-a958-a6a25bf61559": {
-    "date": "2026-11-06T11:53:00.000Z",
-    "dateVerified": true
+    "date": "2026-11-05T22:49:02.626+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt"
   },
   "ashby:60bfa56a-7b64-460d-b3a1-2bf80ced82ef": {
-    "date": "2026-11-06T11:53:00.000Z",
-    "dateVerified": true
+    "date": "2026-11-05T22:28:57.655+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt"
   },
   "ashby:9a472074-a5cb-4619-b8eb-72375d883b75": {
-    "date": "2026-11-06T11:53:00.000Z",
-    "dateVerified": true
+    "date": "2026-11-05T23:03:57.901+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt"
   },
   "greenhouse:4483667009": {
     "date": "2026-11-06T04:46:48-05:00",
@@ -40764,5 +40773,212 @@
   "workable:2c5dc33098": {
     "date": "2026-11-08",
     "dateVerified": true
+  },
+  "https://coinpoker.teamtailor.com/jobs/8684964-coinpoker-template": {
+    "date": "2026-11-07T11:16:15.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "https://rhinolabs.bamboohr.com/careers/81": {
+    "date": "2026-11-06",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
+  },
+  "lever:24507184-c9c0-44ba-859b-a3538669d450": {
+    "date": "2026-11-05T14:21:15.139Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt"
+  },
+  "https://wirex.bamboohr.com/careers/195": {
+    "date": "2026-11-05",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
+  },
+  "greenhouse:5027632101": {
+    "date": "2026-11-04T10:53:19-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "https://spiko.teamtailor.com/jobs/8660802-head-of-vc-sector-uk": {
+    "date": "2026-11-03T17:16:56.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "https://spiko.teamtailor.com/jobs/8660760-head-of-property-and-corporates-uk": {
+    "date": "2026-11-03T17:09:43.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "https://spiko.teamtailor.com/jobs/8660735-founding-sales-team-uk": {
+    "date": "2026-11-03T17:02:58.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "https://spiko.teamtailor.com/jobs/8660700-head-of-wealth-sector-uk": {
+    "date": "2026-11-03T16:55:07.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "ashby:2a37e6ef-ccd1-4508-ae0e-265c22bee0fd": {
+    "date": "2026-11-03T02:43:58.292+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt"
+  },
+  "https://cexio.bamboohr.com/careers/380": {
+    "date": "2026-11-03",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
+  },
+  "https://wirex.bamboohr.com/careers/194": {
+    "date": "2026-11-02",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
+  },
+  "greenhouse:5019037101": {
+    "date": "2026-10-28T10:55:15-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "lever:4a815740-5d5f-4048-ad3b-98e5fe2d1a3f": {
+    "date": "2026-10-28T13:04:43.363Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt"
+  },
+  "greenhouse:5017578101": {
+    "date": "2026-10-27T12:54:27-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "lever:ccd3231c-cd81-492c-946b-0753cb8137dd": {
+    "date": "2026-10-27T13:24:56.720Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt"
+  },
+  "greenhouse:5017380101": {
+    "date": "2026-10-27T07:22:04-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5016114101": {
+    "date": "2026-10-26T08:24:03-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5016064101": {
+    "date": "2026-10-26T07:50:23-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "https://careers.gravityteam.co/jobs/8614450-hft-network-engineer": {
+    "date": "2026-10-26T10:38:21.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "https://careers.coinshares.com/jobs/8609927-associate-director-sales": {
+    "date": "2026-10-23T13:47:37.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "lever:37c45e51-f51d-4c46-8a3c-8641f635ff09": {
+    "date": "2026-10-23T09:13:21.872Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt"
+  },
+  "greenhouse:5012481101": {
+    "date": "2026-10-23T04:33:11-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "https://coinpoker.teamtailor.com/jobs/8592164-head-of-game-security": {
+    "date": "2026-10-22T14:18:46.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "https://rhinolabs.bamboohr.com/careers/79": {
+    "date": "2026-10-22",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
+  },
+  "lever:5586de7e-3746-4d73-94f8-a385c74467c1": {
+    "date": "2026-10-19T14:07:10.744Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt"
+  },
+  "https://rhinolabs.bamboohr.com/careers/78": {
+    "date": "2026-10-19",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
+  },
+  "greenhouse:5008837101": {
+    "date": "2026-10-16T10:22:28-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5008412101": {
+    "date": "2026-10-16T05:14:19-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5008406101": {
+    "date": "2026-10-16T05:10:32-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "breezy:busha.breezy.hr:605aba32504501": {
+    "date": "2026-10-16",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://busha.breezy.hr/p/605aba32504501-trading-engineer",
+      "checkedAt": "2026-11-08T10:50:02.874Z",
+      "bodySha256": "b074ea5b00346be775a3d45b1bceed8b9fc39a3633adf5b2608c6834d3797b04",
+      "provider": "breezy",
+      "datePosted": "2026-10-16"
+    }
+  },
+  "https://careers.coinshares.com/jobs/8553790-operations-analyst": {
+    "date": "2026-10-15T15:21:47.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "greenhouse:5007186101": {
+    "date": "2026-10-15T09:36:45-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "https://spiko.teamtailor.com/jobs/8545521-crm-lifecycle-marketing": {
+    "date": "2026-10-14T11:36:07.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "lever:1f16393a-6963-4c65-925b-89c4cb915e92": {
+    "date": "2026-10-14T06:58:23.767Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt"
+  },
+  "ashby:b671fdbf-bf2e-47d3-91a3-7dc4a07d93d3": {
+    "date": "2026-10-14T01:46:05.535+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt"
+  },
+  "lever:0064e868-fc72-4abf-9564-1eeed1eeed73": {
+    "date": "2026-10-13T18:38:19.535Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt"
+  },
+  "greenhouse:4721504006": {
+    "date": "2026-10-13T12:09:41-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "lever:1b1eea21-3661-4200-9ae2-3b36d2e9c811": {
+    "date": "2026-10-13T09:57:52.546Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt"
+  },
+  "lever:16e0cec9-a91e-436c-859a-e757a9a49d21": {
+    "date": "2026-10-12T07:29:15.916Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt"
   }
 }

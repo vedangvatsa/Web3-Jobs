@@ -70,6 +70,20 @@
     "dateVerified": true
   },
   {
+    "id": "22067a3b-1d20-4283-b166-3b72b4e0beb5",
+    "title": "CoinPoker Template",
+    "company": "CoinPoker",
+    "link": "https://coinpoker.teamtailor.com/jobs/8684964-coinpoker-template",
+    "date": "2026-11-07T11:16:15.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss",
+    "source": "Teamtailor: CoinPoker [coinpoker]",
+    "location": "Remote",
+    "department": "Growth",
+    "active": true,
+    "slug": "tem"
+  },
+  {
     "id": "f9d015d7-d5cb-450b-9936-afd8d1c4f4cc",
     "title": "Manager, Account Executive, Strategic",
     "company": "Ramp",
@@ -1562,6 +1576,20 @@
     "slug": "dev49"
   },
   {
+    "id": "81",
+    "title": "General Counsel",
+    "company": "Rhino.fi",
+    "link": "https://rhinolabs.bamboohr.com/careers/81",
+    "date": "2026-11-06",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted",
+    "source": "BambooHR: Rhino.fi [rhinolabs]",
+    "location": "Remote",
+    "department": "Legal",
+    "active": true,
+    "slug": "gc4"
+  },
+  {
     "id": "8332683",
     "title": "Product Design Intern",
     "company": "Stripe",
@@ -1649,6 +1677,34 @@
     "slug": "infra68"
   },
   {
+    "id": "9a472074-a5cb-4619-b8eb-72375d883b75",
+    "title": "Business Development - Trading Terminal ($200k - $1m + bonus)",
+    "company": "Baton Corporation",
+    "link": "https://jobs.ashbyhq.com/batoncorporation/9a472074-a5cb-4619-b8eb-72375d883b75",
+    "date": "2026-11-05T23:03:57.901+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt",
+    "source": "Ashby: Baton Corporation [batoncorporation]",
+    "location": "New York",
+    "department": "Marketing",
+    "active": true,
+    "slug": "sls495"
+  },
+  {
+    "id": "895ce469-6f4a-4480-a958-a6a25bf61559",
+    "title": "Business Development - Prediction Markets ($200k - $1m + bonus)",
+    "company": "Baton Corporation",
+    "link": "https://jobs.ashbyhq.com/batoncorporation/895ce469-6f4a-4480-a958-a6a25bf61559",
+    "date": "2026-11-05T22:49:02.626+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt",
+    "source": "Ashby: Baton Corporation [batoncorporation]",
+    "location": "New York",
+    "department": "Marketing",
+    "active": true,
+    "slug": "sls494"
+  },
+  {
     "id": "8356970",
     "title": "Registration and Onboarding Specialist",
     "company": "Robinhood",
@@ -1676,6 +1732,20 @@
     "active": true,
     "dateVerified": true,
     "slug": "mrmm"
+  },
+  {
+    "id": "60bfa56a-7b64-460d-b3a1-2bf80ced82ef",
+    "title": "Business Development - Perps ($200k - $1m salary + bonus)",
+    "company": "Baton Corporation",
+    "link": "https://jobs.ashbyhq.com/batoncorporation/60bfa56a-7b64-460d-b3a1-2bf80ced82ef",
+    "date": "2026-11-05T22:28:57.655+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt",
+    "source": "Ashby: Baton Corporation [batoncorporation]",
+    "location": "New York",
+    "department": "Marketing",
+    "active": true,
+    "slug": "sls493"
   },
   {
     "id": "9410287b-5dca-4f1b-9003-d16bee42e9bb",
@@ -2151,6 +2221,20 @@
     "salary": "$150k – $180k/yr",
     "dateVerified": true,
     "slug": "aso59"
+  },
+  {
+    "id": "24507184-c9c0-44ba-859b-a3538669d450",
+    "title": "Regional Commercial Director (France, Paris)",
+    "company": "Unlimit",
+    "link": "https://jobs.lever.co/unlimit/24507184-c9c0-44ba-859b-a3538669d450",
+    "date": "2026-11-05T14:21:15.139Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt",
+    "source": "Lever: Unlimit [unlimit]",
+    "location": "Paris",
+    "department": "Sales",
+    "active": true,
+    "slug": "rcdf"
   },
   {
     "id": "4725951006",
@@ -2770,6 +2854,20 @@
     "slug": "cmp92"
   },
   {
+    "id": "195",
+    "title": "Deputy Compliance Officer & MLRO",
+    "company": "Wirex",
+    "link": "https://wirex.bamboohr.com/careers/195",
+    "date": "2026-11-05",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted",
+    "source": "BambooHR: Wirex [wirex]",
+    "location": "San Salvador, El Salvador",
+    "department": "Risk & Compliance",
+    "active": true,
+    "slug": "cmp164"
+  },
+  {
     "id": "a8c2bfcd-640f-4af1-90b4-8540a01f615a",
     "title": "Staff Product Security Engineer",
     "company": "Tools for Humanity",
@@ -3238,6 +3336,20 @@
     "active": true,
     "dateVerified": true,
     "slug": "mkt141"
+  },
+  {
+    "id": "5027632101",
+    "title": "Sales | Sales Director | Hong Kong",
+    "company": "Flowdesk",
+    "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5027632101",
+    "date": "2026-11-04T10:53:19-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Flowdesk [flowdesk]",
+    "location": "Hong Kong",
+    "department": "APAC Sales",
+    "active": true,
+    "slug": "sls496"
   },
   {
     "id": "4748886005",
@@ -4738,6 +4850,20 @@
     "slug": "pm359"
   },
   {
+    "id": "7454e4d5-edee-406a-8a44-9aa5fd0f1f79",
+    "title": "Head of VC Sector UK",
+    "company": "Spiko",
+    "link": "https://spiko.teamtailor.com/jobs/8660802-head-of-vc-sector-uk",
+    "date": "2026-11-03T17:16:56.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss",
+    "source": "Teamtailor: Spiko [spiko]",
+    "location": "London, United Kingdom",
+    "department": "Sales",
+    "active": true,
+    "slug": "vs"
+  },
+  {
     "id": "6242341004",
     "title": "Senior Java Developer",
     "company": "Localcoin",
@@ -4751,6 +4877,48 @@
     "salary": "$120k – $140k/yr",
     "dateVerified": true,
     "slug": "dev40"
+  },
+  {
+    "id": "cfec148b-4bae-4b2e-bcdd-1a4cafe3a2e6",
+    "title": "Head of Property and Corporates UK",
+    "company": "Spiko",
+    "link": "https://spiko.teamtailor.com/jobs/8660760-head-of-property-and-corporates-uk",
+    "date": "2026-11-03T17:09:43.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss",
+    "source": "Teamtailor: Spiko [spiko]",
+    "location": "London, United Kingdom",
+    "department": "Sales",
+    "active": true,
+    "slug": "pc3"
+  },
+  {
+    "id": "243ae96d-f628-4920-a0eb-d2c9d012bdad",
+    "title": "Founding Sales Team UK",
+    "company": "Spiko",
+    "link": "https://spiko.teamtailor.com/jobs/8660735-founding-sales-team-uk",
+    "date": "2026-11-03T17:02:58.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss",
+    "source": "Teamtailor: Spiko [spiko]",
+    "location": "London, United Kingdom",
+    "department": "Sales",
+    "active": true,
+    "slug": "sls491"
+  },
+  {
+    "id": "f37c7ee3-4a38-447e-afd8-c7f836450c29",
+    "title": "Head of Wealth Sector UK",
+    "company": "Spiko",
+    "link": "https://spiko.teamtailor.com/jobs/8660700-head-of-wealth-sector-uk",
+    "date": "2026-11-03T16:55:07.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss",
+    "source": "Teamtailor: Spiko [spiko]",
+    "location": "London, United Kingdom",
+    "department": "Sales",
+    "active": true,
+    "slug": "ws"
   },
   {
     "id": "8350017",
@@ -5118,6 +5286,20 @@
     "slug": "cmp111"
   },
   {
+    "id": "2a37e6ef-ccd1-4508-ae0e-265c22bee0fd",
+    "title": "Head of Client Onboarding",
+    "company": "Codex",
+    "link": "https://jobs.ashbyhq.com/codex/2a37e6ef-ccd1-4508-ae0e-265c22bee0fd",
+    "date": "2026-11-03T02:43:58.292+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt",
+    "source": "Ashby: Codex [codex]",
+    "location": "Flexible",
+    "department": "Client Onboarding",
+    "active": true,
+    "slug": "ob21"
+  },
+  {
     "id": "14f7af97-540a-4457-9537-d001a645fd9b",
     "title": "Creative Associate, Story + Wizard",
     "company": "Story Protocol",
@@ -5393,6 +5575,20 @@
       "datePosted": "2026-11-03"
     },
     "slug": "cmp83"
+  },
+  {
+    "id": "380",
+    "title": "Processing Controller",
+    "company": "CEX.IO",
+    "link": "https://cexio.bamboohr.com/careers/380",
+    "date": "2026-11-03",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted",
+    "source": "BambooHR: CEX.IO [cexio]",
+    "location": "Remote",
+    "department": "Finance/Accounting",
+    "active": true,
+    "slug": "pc2"
   },
   {
     "id": "6ee740e8-dd6b-4b51-b2e3-d36e8d361b70",
@@ -5995,6 +6191,20 @@
     "slug": "sec141"
   },
   {
+    "id": "af030479-f72e-489f-9a76-794cc1d35fac",
+    "title": "Staff Data Scientist, Marketing Science ($300k - $400k salary + bonus)",
+    "company": "Baton Corporation",
+    "link": "https://jobs.ashbyhq.com/batoncorporation/af030479-f72e-489f-9a76-794cc1d35fac",
+    "date": "2026-11-02T14:09:22.344+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt",
+    "source": "Ashby: Baton Corporation [batoncorporation]",
+    "location": "New York",
+    "department": "Marketing",
+    "active": true,
+    "slug": "mkt161"
+  },
+  {
     "id": "5024897101",
     "title": "Senior Software Engineer (Backend) – Issuance",
     "company": "BVNK",
@@ -6548,6 +6758,20 @@
     "active": true,
     "dateVerified": true,
     "slug": "eng385"
+  },
+  {
+    "id": "194",
+    "title": "Infrastructure & Automation Engineer",
+    "company": "Wirex",
+    "link": "https://wirex.bamboohr.com/careers/194",
+    "date": "2026-11-02",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted",
+    "source": "BambooHR: Wirex [wirex]",
+    "location": "Remote",
+    "department": "Engineering & Infrastructure",
+    "active": true,
+    "slug": "infra74"
   },
   {
     "id": "6239835004",
@@ -9538,6 +9762,20 @@
     "slug": "tr133"
   },
   {
+    "id": "5019037101",
+    "title": "Trading | DeFi Trading Analyst | Dubai",
+    "company": "Flowdesk",
+    "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5019037101",
+    "date": "2026-10-28T10:55:15-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Flowdesk [flowdesk]",
+    "location": "Dubai",
+    "department": "Liquidity Provision",
+    "active": true,
+    "slug": "an127"
+  },
+  {
     "id": "8275558",
     "title": "Customer Support Specialist, Clerky",
     "company": "Stripe",
@@ -9637,6 +9875,20 @@
     "active": true,
     "dateVerified": true,
     "slug": "fgrd"
+  },
+  {
+    "id": "4a815740-5d5f-4048-ad3b-98e5fe2d1a3f",
+    "title": "Senior Product Designer (Banking)",
+    "company": "Unlimit",
+    "link": "https://jobs.lever.co/unlimit/4a815740-5d5f-4048-ad3b-98e5fe2d1a3f",
+    "date": "2026-10-28T13:04:43.363Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt",
+    "source": "Lever: Unlimit [unlimit]",
+    "location": "Belgrade",
+    "department": "Crypto",
+    "active": true,
+    "slug": "pm393"
   },
   {
     "id": "8329719",
@@ -10662,6 +10914,20 @@
     "slug": "eng668"
   },
   {
+    "id": "5017578101",
+    "title": "Quantitative Developer – Agentic Research Lab",
+    "company": "Flowdesk",
+    "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5017578101",
+    "date": "2026-10-27T12:54:27-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Flowdesk [flowdesk]",
+    "location": "Dubai",
+    "department": "Data",
+    "active": true,
+    "slug": "tr146"
+  },
+  {
     "id": "b4b9576f-82d8-4497-a106-76b2f75dec62",
     "title": "Senior Revenue Accountant",
     "company": "Paxos",
@@ -10942,6 +11208,20 @@
     "slug": "eng664"
   },
   {
+    "id": "ccd3231c-cd81-492c-946b-0753cb8137dd",
+    "title": "Business Development Manager - Colombia",
+    "company": "Unlimit",
+    "link": "https://jobs.lever.co/unlimit/ccd3231c-cd81-492c-946b-0753cb8137dd",
+    "date": "2026-10-27T13:24:56.720Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt",
+    "source": "Lever: Unlimit [unlimit]",
+    "location": "Bogota",
+    "department": "Sales",
+    "active": true,
+    "slug": "sls489"
+  },
+  {
     "id": "6c4cb921-2657-477e-91d3-0e72118d8633",
     "title": "Senior Software Engineer, Prediction Markets Platform",
     "company": "Crypto.com",
@@ -11000,6 +11280,20 @@
     "active": true,
     "dateVerified": true,
     "slug": "des14"
+  },
+  {
+    "id": "5017380101",
+    "title": "Trading Operations Specialist",
+    "company": "PrimeXBT",
+    "link": "https://job-boards.eu.greenhouse.io/primexbt/jobs/5017380101",
+    "date": "2026-10-27T07:22:04-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: PrimeXBT [primexbt]",
+    "location": "Remote",
+    "department": "Data and Risk Department",
+    "active": true,
+    "slug": "ops162"
   },
   {
     "id": "8917616002",
@@ -11872,6 +12166,20 @@
     "slug": "sec128"
   },
   {
+    "id": "5016114101",
+    "title": "Junior Options Trader",
+    "company": "Flowdesk",
+    "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5016114101",
+    "date": "2026-10-26T08:24:03-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Flowdesk [flowdesk]",
+    "location": "Singapore",
+    "department": "Derivatives",
+    "active": true,
+    "slug": "tr145"
+  },
+  {
     "id": "8044329003",
     "title": "Senior Legal Analyst",
     "company": "OKX",
@@ -11884,6 +12192,20 @@
     "active": true,
     "dateVerified": true,
     "slug": "cmp77"
+  },
+  {
+    "id": "5016064101",
+    "title": "Junior Sales Professional",
+    "company": "Flowdesk",
+    "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5016064101",
+    "date": "2026-10-26T07:50:23-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Flowdesk [flowdesk]",
+    "location": "New York City",
+    "department": "NAM Sales",
+    "active": true,
+    "slug": "sls492"
   },
   {
     "id": "8891159002",
@@ -11913,6 +12235,20 @@
     "active": true,
     "dateVerified": true,
     "slug": "rec50"
+  },
+  {
+    "id": "6b58eb7a-6c2b-4540-afb5-feaee1435f09",
+    "title": "HFT Network Engineer",
+    "company": "Gravity Team",
+    "link": "https://careers.gravityteam.co/jobs/8614450-hft-network-engineer",
+    "date": "2026-10-26T10:38:21.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss",
+    "source": "Teamtailor: Gravity Team [careers.gravityteam.co]",
+    "location": "Rīga, Latvia",
+    "department": "Operations",
+    "active": true,
+    "slug": "eng757"
   },
   {
     "id": "8300320",
@@ -11970,6 +12306,20 @@
     "active": true,
     "dateVerified": true,
     "slug": "eng322"
+  },
+  {
+    "id": "6234325004",
+    "title": "Head of Business Development",
+    "company": "Horizen Labs",
+    "link": "https://job-boards.greenhouse.io/horizenlabs/jobs/6234325004",
+    "date": "2026-10-26T05:13:47-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Horizen Labs [horizenlabs]",
+    "location": "Remote - USA",
+    "department": "Business Development",
+    "active": true,
+    "slug": "sls487"
   },
   {
     "id": "40b6505f-a7f5-4223-a647-37c523cccc99",
@@ -13132,6 +13482,20 @@
     "slug": "aso40"
   },
   {
+    "id": "9d9a6177-7f1c-416e-b680-aa2afbaf5bcb",
+    "title": "Associate Director (Sales)",
+    "company": "CoinShares",
+    "link": "https://careers.coinshares.com/jobs/8609927-associate-director-sales",
+    "date": "2026-10-23T13:47:37.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss",
+    "source": "Teamtailor: CoinShares [coinshares]",
+    "location": "Zurich, Switzerland",
+    "department": "Sales & Distribution",
+    "active": true,
+    "slug": "sls486"
+  },
+  {
     "id": "8042742003",
     "title": "Compliance Analyst - AML Investigations",
     "company": "OKX",
@@ -13218,6 +13582,20 @@
     "slug": "sls147"
   },
   {
+    "id": "37c45e51-f51d-4c46-8a3c-8641f635ff09",
+    "title": "Fraud & Dispute Analyst",
+    "company": "Unlimit",
+    "link": "https://jobs.lever.co/unlimit/37c45e51-f51d-4c46-8a3c-8641f635ff09",
+    "date": "2026-10-23T09:13:21.872Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt",
+    "source": "Lever: Unlimit [unlimit]",
+    "location": "Belgrade",
+    "department": "Risks",
+    "active": true,
+    "slug": "an126"
+  },
+  {
     "id": "5461973008",
     "title": "Part-Time BD Specialist",
     "company": "Orderly Network",
@@ -13260,6 +13638,20 @@
     "active": true,
     "dateVerified": true,
     "slug": "cmp51"
+  },
+  {
+    "id": "5012481101",
+    "title": "Site Reliability Engineer",
+    "company": "Flowdesk",
+    "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5012481101",
+    "date": "2026-10-23T04:33:11-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Flowdesk [flowdesk]",
+    "location": "Singapore",
+    "department": "Secure Ecosystem",
+    "active": true,
+    "slug": "eng759"
   },
   {
     "id": "605403",
@@ -13936,6 +14328,20 @@
     "slug": "sec126"
   },
   {
+    "id": "89f1908c-c76f-4fa9-84ee-8be75eebe4de",
+    "title": "Head of Game Security",
+    "company": "CoinPoker",
+    "link": "https://coinpoker.teamtailor.com/jobs/8592164-head-of-game-security",
+    "date": "2026-10-22T14:18:46.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss",
+    "source": "Teamtailor: CoinPoker [coinpoker]",
+    "location": "Belgium, Belgium (Remote)",
+    "department": "Tech",
+    "active": true,
+    "slug": "sec158"
+  },
+  {
     "id": "3dfc6f03-318d-490d-abbf-10e03f75899b",
     "title": "Trust Wallet Graduate Leadership Programme",
     "company": "Trust Wallet",
@@ -14483,6 +14889,20 @@
     "active": true,
     "dateVerified": true,
     "slug": "sec39"
+  },
+  {
+    "id": "79",
+    "title": "Staff Engineer, Data",
+    "company": "Rhino.fi",
+    "link": "https://rhinolabs.bamboohr.com/careers/79",
+    "date": "2026-10-22",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted",
+    "source": "BambooHR: Rhino.fi [rhinolabs]",
+    "location": "New York, NY",
+    "department": "Technology",
+    "active": true,
+    "slug": "eng754"
   },
   {
     "id": "d90d2ac3-d58d-4b63-b229-d2b09a4d8385",
@@ -17208,6 +17628,20 @@
     "slug": "eng402"
   },
   {
+    "id": "5586de7e-3746-4d73-94f8-a385c74467c1",
+    "title": "Senior Infrastructure Security & Operations Engineer",
+    "company": "Unlimit",
+    "link": "https://jobs.lever.co/unlimit/5586de7e-3746-4d73-94f8-a385c74467c1",
+    "date": "2026-10-19T14:07:10.744Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt",
+    "source": "Lever: Unlimit [unlimit]",
+    "location": "Belgrade",
+    "department": "Information Security",
+    "active": true,
+    "slug": "infra72"
+  },
+  {
     "id": "6221638004",
     "title": "Product Manager, Corporate Actions",
     "company": "Alpaca",
@@ -17504,6 +17938,20 @@
       "datePosted": "2026-10-19"
     },
     "slug": "an69"
+  },
+  {
+    "id": "78",
+    "title": "Director, Marketing & Communications",
+    "company": "Rhino.fi",
+    "link": "https://rhinolabs.bamboohr.com/careers/78",
+    "date": "2026-10-19",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted",
+    "source": "BambooHR: Rhino.fi [rhinolabs]",
+    "location": "New York, NY",
+    "department": "Marketing",
+    "active": true,
+    "slug": "mkt159"
   },
   {
     "id": "5009500101",
@@ -18264,6 +18712,20 @@
     "slug": "sec19"
   },
   {
+    "id": "5008837101",
+    "title": "Senior IT Engineer - New York",
+    "company": "Flowdesk",
+    "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5008837101",
+    "date": "2026-10-16T10:22:28-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Flowdesk [flowdesk]",
+    "location": "New York",
+    "department": "Secure Ecosystem",
+    "active": true,
+    "slug": "eng758"
+  },
+  {
     "id": "8288876",
     "title": "Account Executive - Startup SaaS Platforms, Scaled UK Hunter",
     "company": "Stripe",
@@ -18476,6 +18938,34 @@
     "active": true,
     "dateVerified": true,
     "slug": "mgr28"
+  },
+  {
+    "id": "5008412101",
+    "title": "Identity Access Management & Data Protection Specialist",
+    "company": "Flowdesk",
+    "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5008412101",
+    "date": "2026-10-16T05:14:19-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Flowdesk [flowdesk]",
+    "location": "London",
+    "department": "Secure Ecosystem",
+    "active": true,
+    "slug": "iamd"
+  },
+  {
+    "id": "5008406101",
+    "title": "Network & Cloud Infrastructure Security Engineer",
+    "company": "Flowdesk",
+    "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5008406101",
+    "date": "2026-10-16T05:10:32-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Flowdesk [flowdesk]",
+    "location": "London",
+    "department": "Secure Ecosystem",
+    "active": true,
+    "slug": "infra73"
   },
   {
     "id": "8288561",
@@ -18729,6 +19219,28 @@
       "datePosted": "2026-10-16"
     },
     "slug": "an98"
+  },
+  {
+    "id": "605aba32504501",
+    "title": "Trading Engineer",
+    "company": "Busha",
+    "link": "https://busha.breezy.hr/p/605aba32504501-trading-engineer",
+    "date": "2026-10-16",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "source": "Breezy: Busha [busha]",
+    "location": "Lagos, NG",
+    "department": "Engineering",
+    "active": true,
+    "dateEvidence": {
+      "url": "https://busha.breezy.hr/p/605aba32504501-trading-engineer",
+      "checkedAt": "2026-11-08T10:50:02.874Z",
+      "bodySha256": "b074ea5b00346be775a3d45b1bceed8b9fc39a3633adf5b2608c6834d3797b04",
+      "provider": "breezy",
+      "datePosted": "2026-10-16"
+    },
+    "description": "<p><strong>About Busha</strong></p>\n<p>Since our inception in 2018, Busha has been at the forefront of digital currency exchange, offering trading options in cryptocurrencies like Bitcoin and Ethereum. Our mission is to build an open financial system characterized by innovation, efficiency, and user-friendliness. We value Clear Communication, Positive Energy, Efficient Execution, and Continuous Learning in all our team members.</p>\n<p>At Busha, we are building technology that makes financial services more accessible, efficient and reliable. Busha Pro is our spot exchange for crypto and fiat, where speed, reliability and security are essential to delivering a seamless trading experience for our users. <br><br><strong>The Opportunity</strong></p>\n<p>This is an opportunity to work on the engineering behind a live exchange where speed, reliability and accuracy matter.</p>\n<p>You will take ownership of and improve the systems responsible for processing orders, matching trades and supporting exchange operations: operating them in production, making them faster and extending them safely.</p>\n<p><strong>Overview<br></strong><br>We are looking for someone who understands more than just writing code. You should understand how trading systems work, how to build them reliably at scale and how to solve the technical challenges that come with real-time transactions.</p>\n<p>You will have meaningful ownership of technical decisions, shape the platform's architecture and work closely with the wider team to turn product requirements into reliable, production-ready systems.</p>\n<p><strong>Responsibilities</strong></p>\n<ul><li>Take ownership of the Busha Pro exchange: learn the codebase deeply, operate it in production and harden it.</li><li>Design, build and optimize the backend systems that power Busha Pro’s trading capabilities.</li><li>Develop and improve matching engine components, order books, order processing and trade execution workflows. Keep matching deterministic and consistent under peak load, with no crossed books, ghost fills or stale order state.</li><li>Build reliable systems that can handle high transaction volumes while maintaining speed, accuracy and consistency.</li><li>Work on APIs (REST, WebSocket, and later FIX), real-time market data, event-driven services and integrations that connect different parts of the trading platform.</li><li>Improve system performance, reduce latency and identify bottlenecks before they become production issues. Benchmark and profile the matching path, load-test against realistic traffic and measure every change against a baseline.</li><li>Build safeguards that help maintain accurate order processing, transaction integrity and reliable system recovery: pre-trade risk checks, price bands, circuit breakers, kill switches, failover and disaster recovery.</li><li>Keep the ledger exact: trades and fees settled atomically, real-time balances, and crypto and fiat deposits and withdrawals reconciled against custody and banking records.</li><li>Add trading pairs, order types (such as OCO, take-profit and stop-loss) and features, released with zero downtime.</li><li>Analyze business product requirements and propose effective technical solutions.</li><li>Write clean, testable and maintainable code, and participate in code reviews and technical design discussions. Test matching and ledger invariants with simulation and replay.</li><li>Take ownership of features from design and implementation through testing, deployment and ongoing monitoring.</li><li>Share the on-call rotation for production trading systems.</li><li>Collaborate with Product, Engineering and DevOps to deliver key technical priorities.</li><li>Share your knowledge, support other engineers and contribute to strong engineering practices.</li></ul>\n<p><strong>What We're Looking For</strong></p>\n<ul><li>5–7+ years of professional software engineering experience, with strong backend development experience.</li><li>Strong in Go, or strong in Rust, C++ or Java and willing to work primarily in Go.</li></ul>\n<ul><li>Hands-on experience building, operating or improving trading systems, exchange infrastructure, matching engines or comparable real-time transaction-processing platforms.</li><li>A solid understanding of order books, order lifecycles, matching logic and trade execution.</li><li>Experience building systems where performance, concurrency, reliability and data consistency are critical, including idempotency, exactly-once processing and recovery from partial failures.</li><li>Experience working on systems that require low latency, high availability and predictable execution under heavy load.</li><li>Strong knowledge of data structures, algorithms, databases and distributed systems.</li><li>Experience designing APIs, event-driven services and scalable backend architectures.</li><li>Good judgment in an existing codebase: you improve a live system in small, safe steps rather than reaching for a rewrite.</li><li>Performance work grounded in measurement: profiling, latency percentiles (p99 and above), and memory and garbage-collection tuning.</li><li>Working knowledge of Linux internals (threading, CPU and NUMA effects, system calls) and TCP/UDP networking.</li><li>A practical approach to testing, debugging, performance optimisation and production reliability, including testing that proves correctness through simulation, fuzzing or replaying production traffic.</li><li>You've run what you built in production, including on-call and incident response, and can debug across the OS, network and application layers.</li><li>The ability to take ownership of complex technical work and deliver it with minimal supervision.</li><li>Strong problem-solving skills and the ability to communicate technical decisions clearly.</li></ul>\n<p><strong>Requirements</strong></p>\n<ul><li>Experience at a cryptocurrency exchange, financial trading platform or electronic market.</li><li>Familiarity with risk controls,  settlement or market data infrastructure.</li><li>Crypto infrastructure: wallets, custody, blockchain nodes, deposit and withdrawal pipelines.</li><li>Fiat payment rails: bank transfers, local payment networks, settlement and reconciliation.</li><li>The FIX protocol, event sourcing, or low-latency patterns such as the LMAX Disruptor.</li><li>Experience with market surveillance, regulatory reporting or audits at a regulated venue.</li><li>TypeScript/Node.js for services, gateways or internal tools around the engine.</li></ul>\n<p><strong>What Success Looks Like</strong></p>\n<p>You'll help us build trading systems that are reliable, performant and ready to scale. You'll take ownership of important engineering deliverables, improve the quality of our infrastructure and help ensure that orders and trades are processed accurately and efficiently.</p>\n<p>We value engineers who are proactive, thoughtful in their technical decisions and comfortable taking responsibility for the systems they build.</p>\n<p><strong>Why Join Busha?</strong></p>\n<p>At Busha, you'll have the opportunity to work on challenging financial technology, influence important engineering decisions and help shape the infrastructure behind Busha Pro.</p>\n<p>If you enjoy solving complex backend problems, building performance-sensitive systems and working on technology where reliability and precision genuinely matter, we'd love to hear from you.</p>",
+    "slug": "eng752"
   },
   {
     "id": "5427855008",
@@ -19247,6 +19759,20 @@
     "slug": "sls297"
   },
   {
+    "id": "6cd7dbd6-0086-458a-8bbe-6e3c932056b1",
+    "title": "Operations Analyst",
+    "company": "CoinShares",
+    "link": "https://careers.coinshares.com/jobs/8553790-operations-analyst",
+    "date": "2026-10-15T15:21:47.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss",
+    "source": "Teamtailor: CoinShares [coinshares]",
+    "location": "Jersey",
+    "department": "Trading Technology & Operations",
+    "active": true,
+    "slug": "ops160"
+  },
+  {
     "id": "d7c117f8-45e4-4212-8bc5-233ff60c7038",
     "title": "People Programs Lead",
     "company": "Ramp",
@@ -19316,6 +19842,20 @@
     "salary": "$200k – $250k/yr",
     "dateVerified": true,
     "slug": "sec116"
+  },
+  {
+    "id": "5007186101",
+    "title": "OTC Quantitative Developer",
+    "company": "Flowdesk",
+    "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5007186101",
+    "date": "2026-10-15T09:36:45-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Flowdesk [flowdesk]",
+    "location": "Singapore",
+    "department": "Front-Office Engineering",
+    "active": true,
+    "slug": "tr144"
   },
   {
     "id": "83e5a0bb-c7c4-4118-9526-0215f260bfc2",
@@ -20318,6 +20858,62 @@
     "slug": "fe22"
   },
   {
+    "id": "b5a10115-0386-47c5-80f2-9c382e606dfd",
+    "title": "Research Scientist - Pre-training",
+    "company": "Pluralis Research",
+    "link": "https://jobs.ashbyhq.com/pluralis-research/b5a10115-0386-47c5-80f2-9c382e606dfd",
+    "date": "2026-10-14T13:19:47.572+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt",
+    "source": "Ashby: Pluralis Research [pluralis-research]",
+    "location": "San Francisco",
+    "department": "Research",
+    "active": true,
+    "slug": "spt2"
+  },
+  {
+    "id": "c86697dd-aacf-4112-b2e2-08dd69d50430",
+    "title": "Research Scientist - Decentralized Training and Inference Verification",
+    "company": "Pluralis Research",
+    "link": "https://jobs.ashbyhq.com/pluralis-research/c86697dd-aacf-4112-b2e2-08dd69d50430",
+    "date": "2026-10-14T13:18:33.297+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt",
+    "source": "Ashby: Pluralis Research [pluralis-research]",
+    "location": "San Francisco",
+    "department": "Research",
+    "active": true,
+    "slug": "sdti"
+  },
+  {
+    "id": "8293ce8f-a4c0-499f-971a-761153c14a85",
+    "title": "Research Scientist - Geo-Distributed Inference",
+    "company": "Pluralis Research",
+    "link": "https://jobs.ashbyhq.com/pluralis-research/8293ce8f-a4c0-499f-971a-761153c14a85",
+    "date": "2026-10-14T13:17:51.500+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt",
+    "source": "Ashby: Pluralis Research [pluralis-research]",
+    "location": "San Francisco",
+    "department": "Research",
+    "active": true,
+    "slug": "sgdi"
+  },
+  {
+    "id": "8fbc6d1a-eac7-4c1e-91e6-e2a68b7d9368",
+    "title": "Research Scientist - Post-Training",
+    "company": "Pluralis Research",
+    "link": "https://jobs.ashbyhq.com/pluralis-research/8fbc6d1a-eac7-4c1e-91e6-e2a68b7d9368",
+    "date": "2026-10-14T13:16:33.321+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt",
+    "source": "Ashby: Pluralis Research [pluralis-research]",
+    "location": "San Francisco",
+    "department": "Research",
+    "active": true,
+    "slug": "spt"
+  },
+  {
     "id": "1010",
     "title": "Onboarding Operations Analyst",
     "company": "Bitso",
@@ -20359,6 +20955,20 @@
     "active": true,
     "dateVerified": true,
     "slug": "infra43"
+  },
+  {
+    "id": "2d51c26c-72ac-44eb-92c5-8b20b2159fd4",
+    "title": "CRM & Lifecycle Marketing",
+    "company": "Spiko",
+    "link": "https://spiko.teamtailor.com/jobs/8545521-crm-lifecycle-marketing",
+    "date": "2026-10-14T11:36:07.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss",
+    "source": "Teamtailor: Spiko [spiko]",
+    "location": "Paris, France",
+    "department": "Marketing",
+    "active": true,
+    "slug": "mkt158"
   },
   {
     "id": "4975267101",
@@ -20502,6 +21112,20 @@
     "slug": "ops20"
   },
   {
+    "id": "1f16393a-6963-4c65-925b-89c4cb915e92",
+    "title": "Quantitative Researcher",
+    "company": "Presto Labs",
+    "link": "https://jobs.lever.co/prestolabs/1f16393a-6963-4c65-925b-89c4cb915e92",
+    "date": "2026-10-14T06:58:23.767Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt",
+    "source": "Lever: Presto Labs [prestolabs]",
+    "location": "South Korea",
+    "department": "Presto",
+    "active": true,
+    "slug": "tr142"
+  },
+  {
     "id": "5005311101",
     "title": "Global Community Manager",
     "company": "Bybit",
@@ -20571,6 +21195,20 @@
     "active": true,
     "dateVerified": true,
     "slug": "sls296"
+  },
+  {
+    "id": "b671fdbf-bf2e-47d3-91a3-7dc4a07d93d3",
+    "title": "Social Media Lead",
+    "company": "Project Eleven",
+    "link": "https://jobs.ashbyhq.com/projecteleven/b671fdbf-bf2e-47d3-91a3-7dc4a07d93d3",
+    "date": "2026-10-14T01:46:05.535+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt",
+    "source": "Ashby: Project Eleven [projecteleven]",
+    "location": "United States",
+    "department": "GTM",
+    "active": true,
+    "slug": "sm3"
   },
   {
     "id": "d913dd28-070b-45c9-8ebf-20f0a2233ed6",
@@ -20857,6 +21495,20 @@
     "slug": "sls292"
   },
   {
+    "id": "0064e868-fc72-4abf-9564-1eeed1eeed73",
+    "title": "Transaction Monitoring Lead",
+    "company": "Unlimit",
+    "link": "https://jobs.lever.co/unlimit/0064e868-fc72-4abf-9564-1eeed1eeed73",
+    "date": "2026-10-13T18:38:19.535Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt",
+    "source": "Lever: Unlimit [unlimit]",
+    "location": "Limassol",
+    "department": "Card Schemes",
+    "active": true,
+    "slug": "tm2"
+  },
+  {
     "id": "8269049",
     "title": "Manager, SEC Reporting",
     "company": "Coinbase",
@@ -20939,6 +21591,20 @@
     "active": true,
     "dateVerified": true,
     "slug": "eng586"
+  },
+  {
+    "id": "4721504006",
+    "title": "Recruiter (Fintech/Blockchain)",
+    "company": "Index Industries",
+    "link": "https://job-boards.greenhouse.io/indexindustries/jobs/4721504006",
+    "date": "2026-10-13T12:09:41-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Index Industries [indexindustries]",
+    "location": "Chicago, IL",
+    "department": "People",
+    "active": true,
+    "slug": "rec63"
   },
   {
     "id": "8275513",
@@ -21182,6 +21848,20 @@
     "active": true,
     "dateVerified": true,
     "slug": "eng446"
+  },
+  {
+    "id": "1b1eea21-3661-4200-9ae2-3b36d2e9c811",
+    "title": "Client Relationship Manager",
+    "company": "Unlimit",
+    "link": "https://jobs.lever.co/unlimit/1b1eea21-3661-4200-9ae2-3b36d2e9c811",
+    "date": "2026-10-13T09:57:52.546Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt",
+    "source": "Lever: Unlimit [unlimit]",
+    "location": "Limassol",
+    "department": "Client Relations and Business Development",
+    "active": true,
+    "slug": "mgr255"
   },
   {
     "id": "7a8a245e-89c5-41c1-8653-185af58d8246",
@@ -22290,6 +22970,20 @@
     "slug": "pm289"
   },
   {
+    "id": "16e0cec9-a91e-436c-859a-e757a9a49d21",
+    "title": "Head of Processing SmartVista",
+    "company": "Unlimit",
+    "link": "https://jobs.lever.co/unlimit/16e0cec9-a91e-436c-859a-e757a9a49d21",
+    "date": "2026-10-12T07:29:15.916Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt",
+    "source": "Lever: Unlimit [unlimit]",
+    "location": "Limassol",
+    "department": "Card Schemes",
+    "active": true,
+    "slug": "ps10"
+  },
+  {
     "id": "5003052101",
     "title": "Senior Business Intelligence Manager",
     "company": "Bybit",
@@ -23179,51 +23873,5 @@
     "active": true,
     "dateVerified": true,
     "slug": "pm268"
-  },
-  {
-    "id": "keka-dcx-131208",
-    "title": "Business Development Manager",
-    "company": "BitOasis",
-    "link": "https://dcx.keka.com/careers/jobdetails/131208",
-    "location": "Manama, Bahrain",
-    "department": "Business Development",
-    "type": "Full-time",
-    "date": "2026-10-09T11:38:24.607Z",
-    "dateVerified": true,
-    "dateSource": "Keka.JobPosting.publishedOn",
-    "source": "Keka: BitOasis [dcx]",
-    "applyUrl": "https://dcx.keka.com/careers/jobdetails/131208",
-    "active": true,
-    "salary": "BHD 1,500 - 2,000/month",
-    "slug": "sls446"
-  },
-  {
-    "id": "8266897",
-    "title": "PhD Graduate Quantitative Researcher",
-    "company": "Flow Traders",
-    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8266897",
-    "date": "2026-10-09T07:35:28-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Flow Traders [flowtraders]",
-    "location": "Amsterdam",
-    "department": "Trading",
-    "active": true,
-    "dateVerified": true,
-    "slug": "tr101"
-  },
-  {
-    "id": "3b33ea6f-95d1-465c-bc64-db5714c7f802",
-    "title": "Senior GTM Marketing Manager",
-    "company": "P2P.org",
-    "link": "https://jobs.ashbyhq.com/p2p.org/3b33ea6f-95d1-465c-bc64-db5714c7f802",
-    "date": "2026-10-09T11:14:06.560+00:00",
-    "source": "Ashby: P2P.org [p2p.org]",
-    "location": "Remote - Europe",
-    "isRemote": true,
-    "workplaceType": "Remote",
-    "department": "P2P",
-    "active": true,
-    "dateVerified": true,
-    "slug": "mkt98"
   }
 ]

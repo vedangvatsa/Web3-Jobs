@@ -4182,24 +4182,6 @@ Smart Living, Food Tech, & Wellness Zones
 
 Registration requires host approval. Registration is listed as free.
 
-<a id="event-03532530e155a3a1"></a>
-
-## 9th Oct 26 - CAPITAL ON TRACK - FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX EDITION 2026
-
-- Record: `token2049-evt-tpGrrwoNgxKscjx`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-09T01:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/41pmz1pj>
-
-### About the event
-
-9th Oct 26 - CAPITAL ON TRACK - FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX EDITION 2026 is scheduled for 9 October 2026 at 09:30 (Asia/Singapore) in Singapore. Hosted by WEALTH GLOBAL PARTNERS, Minister Gligor Tashkovich, Velle N. Tay.
-
-Dress Code: Black Tie Business - formal, elegant, refined.
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
 <a id="event-076748f1873c53b8"></a>
 
 ## AI For Everyone Forum
@@ -4231,52 +4213,6 @@ Registration is listed as free.
 Formula 1 After Party is scheduled for 9 October 2026 at 15:00 (Asia/Singapore) in Singapore. Hosted by Magnum Meta.
 
 Registration requires host approval. Registration is listed as free.
-
-<a id="event-9a463021cac97358"></a>
-
-## THE INSTITUTIONAL HOUSE: TRADING · DEFI · RWA · AI · LIQUIDITY \| Singapore \| 🗓 9th October \| During Token2049
-
-- Record: `token2049-evt-9s05G3RbehADs4S`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-09T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/keq5yo5b>
-
-### About the event
-
-THE INSTITUTIONAL HOUSE: TRADING - DEFI - RWA - AI - LIQUIDITY | Singapore | 9th October | During Token2049 is scheduled for 9 October 2026 at 16:00 (Asia/Singapore) in Singapore. Hosted by lil room.
-
-The Institutional House is where institutional capital meets the onchain economy - a private lil room gathering during Token2049 Singapore for funds, market makers, exchanges and the teams building the infrastructure they run on.
-
-An open roundtable where speakers stay in the room
-
-16:00 - 16:30 - Doors open, registration & networking
-
-16:30 - 17:00 - Panel 1 - Pricing the Real World: RWAs, market data, settlement and custody
-
-Registration requires host approval. Registration is listed as free.
-
-<a id="event-328105a699c7e3fa"></a>
-
-## TBE: Fasset Reserve - Singapore
-
-- Record: `token2049-evt-a7re4JlCIIYFlwG`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-09T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/TBE-F1Practice>
-
-### About the event
-
-TBE: Fasset Reserve - Singapore is scheduled for 9 October 2026 at 16:00 (Asia/Singapore) in Singapore. Hosted by The Best Event, Tobias Bauer, Brent Fulfer, Mihir Odhrani.
-
-During Singapore Race Week, Fasset is bringing together a small, invite-only group of founders, investors, family offices, shareholders, business leaders and partners for an afternoon above Marina Bay.
-
-People who run businesses internationally, invest across markets, hold different currencies and assets, travel often and expect their money to move as easily as they do.
-
-Food and drinks will be served throughout.
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
 
 <a id="event-13d604960d7088f1"></a>
 
@@ -4327,24 +4263,6 @@ Registration requires host approval. The organizer shares the exact location wit
 Crypto VC & Investment Roundtable is scheduled for 9 October 2026 at 17:00 (Asia/Singapore) in Singapore. Hosted by Singularity Finance.
 
 Registration requires host approval. Registration is listed as free.
-
-<a id="event-3798dc04fa792ef5"></a>
-
-## FREAKY PENGU 🍦
-
-- Record: `token2049-evt-vVKGNzphSqREdPc`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-09T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/FreakyPengu>
-
-### About the event
-
-FREAKY PENGU is scheduled for 9 October 2026 at 17:00 (Asia/Singapore) in Singapore. Hosted by Pudgy Penguins, JYP, Symphony Young, Divinefallacy.
-
-Bring your favourite Pudgy plush or collectible, grab a scoop and settle in.
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
 
 <a id="event-96f54a8fed44d0b0"></a>
 
@@ -21269,75 +21187,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-3006b712ec144950"></a>
-
-## THE INSTITUTIONAL HOUSE: TRADING · DEFI · RWA · AI · LIQUIDITY \| Singapore \| 🗓 9th October \| During Token2049
-
-- Record: `luma-host-evt-evt-9s05G3RbehADs4S`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T08:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/keq5yo5b>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-40117fc69eeae740"></a>
-
-## The Best Event: F1 Practice with Fasset
-
-- Record: `w3v-best-event-f1-practice-fasset-26-10-09`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T08:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/TBE-F1Practice>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-a98266696e4c0614"></a>
-
-## Builders Meet 🇸🇬
-
-- Record: `w3v-builders-meet`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/svhznq16>
-
-### Builders Meet 🇸🇬
-
-Join founders, builders & investors for an evening dedicated to the future of onchain finance in Singapore.
-
-"Builders Meet " brings together the people building across digital assets, stablecoins, payments infra, DeFi & AI x Crypto for an evening of conversations & meaningful connections.
-
-Date: 9th October, 2026
-
-Time: 4PM - 7PM
-
-Location: TBD (Singapore)
-
-### What to expect?
-
-- Keynote sessions from industry leaders
-- Conversations on digital assets, stablecoins & onchain finance
-- Networking with founders, builders & operators
-- New partnerships, opportunities & ecosystem connections
-- Drinks, snacks & networking vibes on us
-
-### For Sponsorships & Partnerships
-
-DM (@[YashEkbote](https://t.me/yashekbote?utm_source=luma)) or (@[Shawn_Bldfy](https://t.me/shawn_bldfy?utm_source=luma)) on Telegram
-
-### Previous Events
-
-- Web3/ACC, HongKong 🇭🇰 :
-  https://luma.com/0okx8p3y
-- Solana RWA Unwind, Malaysia 🇲🇾 :
-  https://luma.com/x07k9one
-- AI Meets Blockchain, Vietnam 🇻🇳 :
-  https://luma.com/aimeetsblockchain
-- Institutional Onchain: Stablecoins, RWAs & AI :
-  https://luma.com/zn02vlx2
-
 <a id="event-4d70df2aba2f6b42"></a>
 
 ## Yacht Party- Crypto Whales
@@ -21427,18 +21276,6 @@ TG: https://t.me/+InM-q-BINpkzZGI1
 ### Previous Experiences
 
 etc.
-
-<a id="event-d3aada35b9523023"></a>
-
-## Token2049 after party
-
-- Record: `luma-host-evt-https://megatix.com.sg/events/after2049`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T11:00:00.000Z
-- Description: Missing
-- Original page: <https://megatix.com.sg/events/after2049>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-b7a7df7bc4228892"></a>
 
@@ -21979,38 +21816,6 @@ The Marina Bay Circuit arrived on the scene in 2008 with the city skyline as its
 ### Following the weekend
 
 The sessions can be followed live on F1 TV, with tickets and hospitality packages available through Formula 1 official channels.
-
-<a id="event-b2867bc5ef2589f6"></a>
-
-## AFTER 2049: The official closing party of TOKEN2049
-
-- Record: `token2049-side-6a7445ef7ef1577c1e37eca1`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T19:00:00+08:00
-- Description: Source-backed
-- Original page: <https://megatix.com.sg/events/after2049>
-
-### About the event
-
-AFTER 2049 presents Claptone and Crusy.
-
-AFTER 2049 returns to the roof on Friday, 9 October 2026 at the Marina Bay Sands SkyPark Observation Deck, 57 floors above the city. Claptone takes over the MBS SkyPark for this year's AFTER 2049, joined by Crusy and returning AFTER 2049 residents ANONM, Leon, Milam and Mo-Shi.
-
-### Music
-
-360-degree spatial audio by Polygon Live is exclusive to AFTER 2049 in Asia for 2026. The night runs during the Singapore Grand Prix weekend.
-
-### Tickets
-
-Tickets sell in releases: First Release on 10 September, Second Release on 24 September and Final Release on 1 October. Partners for the night include Moet Hennessy Diageo, Heaven Sake, Aria One, BTCC, DWF Labs and Midnight.
-
-### Access and timings
-
-Doors open at 7:00 PM. Entry is not guaranteed after 11:00 PM, there is no re-entry after midnight, and entry is subject to venue capacity. The minimum age is 18 and valid photo ID is required.
-
-### Dress code and policies
-
-Smart casual dress applies: no athletic wear, leisure wear, flip flops or shorts, and management reserves the right to deny entry. The event runs rain or shine with no cancellation, postponement or refunds for adverse weather.
 
 <a id="event-7a471a93c94b596d"></a>
 

@@ -8588,5 +8588,47 @@
       "invite-only",
       "token2049-evt-bsc8pcobgkxdwhl"
     ]
+  },
+  "w3v-builders-meet": {
+    "until": "2027-11-08T11:34:34.604Z",
+    "slugs": [
+      "builders-meet2",
+      "w3v-builders-meet"
+    ]
+  },
+  "token2049-side-6a7445ef7ef1577c1e37eca1": {
+    "until": "2027-11-08T11:34:34.604Z",
+    "slugs": [
+      "after-2049",
+      "token2049-side-6a7445ef7ef1577c1e37eca1"
+    ]
+  },
+  "token2049-evt-tpGrrwoNgxKscjx": {
+    "until": "2027-11-08T11:34:34.604Z",
+    "slugs": [
+      "9th-oct",
+      "token2049-evt-tpgrrwongxkscjx"
+    ]
+  },
+  "token2049-evt-9s05G3RbehADs4S": {
+    "until": "2027-11-08T11:34:34.604Z",
+    "slugs": [
+      "institutional-house",
+      "token2049-evt-9s05g3rbehads4s"
+    ]
+  },
+  "token2049-evt-a7re4JlCIIYFlwG": {
+    "until": "2027-11-08T11:34:34.604Z",
+    "slugs": [
+      "tbe-fasset",
+      "token2049-evt-a7re4jlciiyflwg"
+    ]
+  },
+  "token2049-evt-vVKGNzphSqREdPc": {
+    "until": "2027-11-08T11:34:34.604Z",
+    "slugs": [
+      "freaky-pengu",
+      "token2049-evt-vvkgnzphsqredpc"
+    ]
   }
 }

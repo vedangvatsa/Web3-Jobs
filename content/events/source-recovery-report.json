@@ -46,29 +46,6 @@
       ]
     },
     {
-      "id": "token2049-side-6a7445ef7ef1577c1e37eca1",
-      "outcome": "recovered",
-      "sourceUrl": "https://megatix.com.sg/events/after2049",
-      "reason": "Verified the authorized ticket seller's full description and 7 PM doors time. Removed the unsupported fixed closing time because the source says 'until late'.",
-      "fetchedAt": "2026-09-20T07:56:59.763Z",
-      "characters": 728,
-      "changes": [
-        "description",
-        "descriptionSource",
-        "website",
-        "registrationUrl",
-        "startDate",
-        "timezone",
-        "venueName",
-        "location",
-        "streetAddress",
-        "addressLocality",
-        "addressCountry",
-        "postalCode",
-        "slug"
-      ]
-    },
-    {
       "id": "token2049-side-6a739c525a75007b4100108c",
       "outcome": "recovered",
       "sourceUrl": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",

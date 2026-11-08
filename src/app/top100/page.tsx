@@ -13,7 +13,7 @@ import { STATIC_OG } from '@/lib/job-og';
 export const metadata: Metadata = {
   title: 'Top 100 Web3 Employers | Web3 Rankings',
   description:
-    'A ranking of the top 100 Web3 employers based on hiring volume, candidate demand, financial runway, and remote flexibility.',
+    'A ranking of the top 100 Web3 employers based on verified active hiring volume, role diversity, remote flexibility, and salary transparency.',
   alternates: {
     canonical: 'https://hashtagweb3.com/top100',
   },
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     type: 'website',
     title: 'Top 100 Web3 Employers | Hashtag Web3',
     description:
-      'A ranking of the top 100 Web3 employers based on hiring volume, candidate demand, financial runway, and remote flexibility.',
+      'A ranking of the top 100 Web3 employers based on verified active hiring volume, role diversity, remote flexibility, and salary transparency.',
     url: 'https://hashtagweb3.com/top100',
     images: [
       {
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Top 100 Web3 Employers | Hashtag Web3',
     description:
-      'A ranking of the top 100 Web3 employers based on hiring volume, candidate demand, financial runway, and remote flexibility.',
+      'A ranking of the top 100 Web3 employers based on verified active hiring volume, role diversity, remote flexibility, and salary transparency.',
     images: [STATIC_OG.top100],
   },
 };
@@ -63,7 +63,7 @@ export default async function Top100Page() {
     '@type': 'ItemList',
     name: `Top 100 Web3 Employers (${year})`,
     description:
-      'A ranking of the top 100 Web3 employers based on hiring volume, candidate demand, financial runway, and remote flexibility.',
+      'A ranking of the top 100 Web3 employers based on verified active hiring volume, role diversity, remote flexibility, and salary transparency.',
     url: `${siteUrl}/top100`,
     numberOfItems: employers.length,
     itemListElement: employers.slice(0, 20).map((emp) => ({
@@ -104,17 +104,17 @@ export default async function Top100Page() {
                 How Employers Are Ranked
               </h2>
               <p className="mt-3 text-base leading-relaxed text-muted-foreground font-normal">
-                Rankings are calculated from public company data and verified job listings across four criteria:
+                Rankings are calculated directly from verified job listings across four objective criteria:
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
                 <Card className="border-border/70 bg-card shadow-none">
                   <CardHeader className="p-5">
                     <h3 className="text-base font-semibold text-foreground">
-                      1. Active Hiring (25%)
+                      1. Hiring Volume (60%)
                     </h3>
                     <p className="text-sm text-muted-foreground leading-relaxed mt-2 font-normal">
-                      Based on total open roles and recent posting frequency across engineering, product, security, and operations.
+                      Based on verified live open roles across engineering, product, security, and operations.
                     </p>
                     <p className="text-xs text-muted-foreground mt-3 pt-2.5 border-t border-border/50">
                       <strong>Source:</strong> Verified ATS job feeds (Greenhouse, Lever, Ashby, Workable).
@@ -125,13 +125,13 @@ export default async function Top100Page() {
                 <Card className="border-border/70 bg-card shadow-none">
                   <CardHeader className="p-5">
                     <h3 className="text-base font-semibold text-foreground">
-                      2. Candidate Interest (25%)
+                      2. Role Diversity (20%)
                     </h3>
                     <p className="text-sm text-muted-foreground leading-relaxed mt-2 font-normal">
-                      Measures career search volume and job-seeker demand relative to company size.
+                      Measures functional hiring breadth across distinct disciplines (Engineering, Product, Security, Operations, Marketing, Legal).
                     </p>
                     <p className="text-xs text-muted-foreground mt-3 pt-2.5 border-t border-border/50">
-                      <strong>Source:</strong> Search trends and public professional network data.
+                      <strong>Source:</strong> Department categorizations in live job listings.
                     </p>
                   </CardHeader>
                 </Card>
@@ -139,13 +139,13 @@ export default async function Top100Page() {
                 <Card className="border-border/70 bg-card shadow-none">
                   <CardHeader className="p-5">
                     <h3 className="text-base font-semibold text-foreground">
-                      3. Financial Runway (25%)
+                      3. Remote Flexibility (10%)
                     </h3>
                     <p className="text-sm text-muted-foreground leading-relaxed mt-2 font-normal">
-                      Evaluates financial stability across public filings, ecosystem foundations, protocol revenue, and venture funding.
+                      Evaluates the percentage of active positions offering global or regional remote work.
                     </p>
                     <p className="text-xs text-muted-foreground mt-3 pt-2.5 border-t border-border/50">
-                      <strong>Source:</strong> Public financial filings, on-chain treasury reserves, and verified funding records.
+                      <strong>Source:</strong> Workplace and location fields in verified job feeds.
                     </p>
                   </CardHeader>
                 </Card>
@@ -153,13 +153,13 @@ export default async function Top100Page() {
                 <Card className="border-border/70 bg-card shadow-none">
                   <CardHeader className="p-5">
                     <h3 className="text-base font-semibold text-foreground">
-                      4. Workplace Flexibility (25%)
+                      4. Salary Transparency (10%)
                     </h3>
                     <p className="text-sm text-muted-foreground leading-relaxed mt-2 font-normal">
-                      Evaluates remote work availability and upfront salary transparency in job listings.
+                      Recognizes employers that publish clear upfront compensation and salary ranges.
                     </p>
                     <p className="text-xs text-muted-foreground mt-3 pt-2.5 border-t border-border/50">
-                      <strong>Source:</strong> Published job listings and verified company workplace policies.
+                      <strong>Source:</strong> Published salary ranges in verified job listings.
                     </p>
                   </CardHeader>
                 </Card>
@@ -176,10 +176,10 @@ export default async function Top100Page() {
                 <Card className="border-border/70 bg-card shadow-none">
                   <CardHeader className="p-5">
                     <h3 className="text-base font-semibold text-foreground">
-                      Can employers pay to be ranked higher?
+                      How are rankings calculated?
                     </h3>
                     <p className="text-sm text-muted-foreground leading-relaxed mt-2 font-normal">
-                      No. Rankings are determined entirely by data. Companies cannot pay for placement or score increases.
+                      Rankings are calculated entirely from live job listings verified through official ATS feeds. Employers are evaluated on active hiring volume, role diversity, remote availability, and compensation transparency.
                     </p>
                   </CardHeader>
                 </Card>
@@ -187,10 +187,21 @@ export default async function Top100Page() {
                 <Card className="border-border/70 bg-card shadow-none">
                   <CardHeader className="p-5">
                     <h3 className="text-base font-semibold text-foreground">
-                      How can smaller teams compete with large companies?
+                      Why do companies with more open roles rank higher?
                     </h3>
                     <p className="text-sm text-muted-foreground leading-relaxed mt-2 font-normal">
-                      Candidate interest is measured relative to team size, allowing high-demand protocols to rank alongside larger companies.
+                      The Top 100 Web3 Employers Index highlights organizations with the largest active hiring footprints and career opportunities in Web3.
+                    </p>
+                  </CardHeader>
+                </Card>
+
+                <Card className="border-border/70 bg-card shadow-none">
+                  <CardHeader className="p-5">
+                    <h3 className="text-base font-semibold text-foreground">
+                      Can employers pay to be ranked higher?
+                    </h3>
+                    <p className="text-sm text-muted-foreground leading-relaxed mt-2 font-normal">
+                      No. Rankings are determined entirely by verified hiring data. Companies cannot pay for placement or score increases.
                     </p>
                   </CardHeader>
                 </Card>
@@ -201,18 +212,7 @@ export default async function Top100Page() {
                       How often is the ranking updated?
                     </h3>
                     <p className="text-sm text-muted-foreground leading-relaxed mt-2 font-normal">
-                      Rankings update regularly as companies post new roles and active catalog data refreshes.
-                    </p>
-                  </CardHeader>
-                </Card>
-
-                <Card className="border-border/70 bg-card shadow-none">
-                  <CardHeader className="p-5">
-                    <h3 className="text-base font-semibold text-foreground">
-                      How can a company update its profile?
-                    </h3>
-                    <p className="text-sm text-muted-foreground leading-relaxed mt-2 font-normal">
-                      Teams can submit profile updates, funding milestones, or ATS job feed links through our contact page.
+                      Rankings update regularly as companies post new roles and active ATS feeds refresh.
                     </p>
                   </CardHeader>
                 </Card>

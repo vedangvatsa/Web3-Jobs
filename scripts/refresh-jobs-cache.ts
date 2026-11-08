@@ -600,6 +600,13 @@ async function refreshJobsCache() {
     { board: 'localcoin', company: 'Localcoin' },
     { board: 'elwoodtechnologies', company: 'Elwood Technologies' },
     { board: 'logos', company: 'Logos' },
+    // --- Web3 Expansion (Nov 2026) ---
+    { board: 'flowdesk', company: 'Flowdesk' },
+    { board: 'horizenlabs', company: 'Horizen Labs' },
+    { board: 'primexbt', company: 'PrimeXBT' },
+    { board: 'd3', company: 'D3 Global' },
+    { board: 'casa', company: 'Casa' },
+    { board: 'indexindustries', company: 'Index Industries' },
   ];
 
   for (const gh of GREENHOUSE_BOARDS) {
@@ -714,6 +721,9 @@ async function refreshJobsCache() {
     { board: 'airtm', company: 'Airtm' },
     { board: 'arbitrum-opco', company: 'Arbitrum OpCo' },
     { board: 'pioneer-services', company: 'BNB Chain' },
+    // --- Web3 Expansion (Nov 2026) ---
+    { board: 'prestolabs', company: 'Presto Labs' },
+    { board: 'unlimit', company: 'Unlimit' },
   ];
 
   for (const lv of LEVER_BOARDS) {
@@ -923,6 +933,11 @@ async function refreshJobsCache() {
     { board: 'zodl', company: 'ZODL' },
     { board: 'fence-finance', company: 'Fence Finance' },
     { board: 'halliday', company: 'Halliday' },
+    // --- Web3 Expansion (Nov 2026) ---
+    { board: 'pluralis-research', company: 'Pluralis Research' },
+    { board: 'codex', company: 'Codex' },
+    { board: 'projecteleven', company: 'Project Eleven' },
+    { board: 'batoncorporation', company: 'Baton Corporation' },
   ];
 
   for (const ab of ASHBY_BOARDS) {
@@ -1380,6 +1395,8 @@ async function refreshJobsCache() {
     { board: 'zero-hash', company: 'Zero Hash' },
     { board: 'alliance', company: 'Alliance DAO' },
     { board: 'transak-inc', company: 'Transak' },
+    // --- Web3 Expansion (Nov 2026) ---
+    { board: 'busha', company: 'Busha' },
   ];
 
   for (const bz of BREEZY_BOARDS) {
@@ -1527,6 +1544,10 @@ async function refreshJobsCache() {
     { board: 'lido', company: 'Lido' },
     { board: 'mercuryo', company: 'Mercuryo' },
     { board: 'ambergroup', company: 'Amber Group' },
+    // --- Web3 Expansion (Nov 2026) ---
+    { board: 'cexio', company: 'CEX.IO' },
+    { board: 'wirex', company: 'Wirex' },
+    { board: 'rhinolabs', company: 'Rhino.fi' },
   ];
 
   for (const bh of BAMBOO_BOARDS) {
@@ -1668,6 +1689,11 @@ async function refreshJobsCache() {
     { board: 'crystalintelligence', company: 'Crystal Intelligence', url: 'https://crystalintelligence.teamtailor.com/jobs.rss' },
     { board: 'ethena', company: 'Ethena Labs', url: 'https://careers.ethena.fi/jobs.rss' },
     { board: 'ripio', company: 'Ripio', url: 'https://ripio.teamtailor.com/jobs.rss' },
+    // --- Web3 Expansion (Nov 2026) ---
+    { board: 'coinshares', company: 'CoinShares', url: 'https://coinshares.teamtailor.com/jobs.rss' },
+    { board: 'coinpoker', company: 'CoinPoker', url: 'https://coinpoker.teamtailor.com/jobs.rss' },
+    { board: 'spiko', company: 'Spiko', url: 'https://spiko.teamtailor.com/jobs.rss' },
+    { board: 'careers.gravityteam.co', company: 'Gravity Team', url: 'https://careers.gravityteam.co/jobs.rss' },
   ];
   const rssParser = new Parser({
     customFields: {

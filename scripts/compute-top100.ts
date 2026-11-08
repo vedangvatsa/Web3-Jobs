@@ -1,11 +1,10 @@
 import fs from 'node:fs';
 import path from 'node:path';
-import type { Top100Employer, Top100IndexData, StabilityTier, CandidateDemandLevel } from '../src/types/top100';
+import type { Top100Employer, Top100IndexData } from '../src/types/top100';
 
 const ROOT = process.cwd();
 const COMPANIES_RUNTIME_PATH = path.join(ROOT, 'content/companies-runtime.json');
 const JOBS_RUNTIME_PATH = path.join(ROOT, 'content/jobs-runtime.json');
-const SOCIALS_PATH = path.join(ROOT, 'content/company-socials.json');
 const COMPANIES_MD_DIR = path.join(ROOT, 'content/companies');
 const OUTPUT_PATH = path.join(ROOT, 'content/top100-employers.json');
 
@@ -75,10 +74,10 @@ function normalizeSector(rawCategory = '', name = '', description = '', slug = '
   if (['certik', 'openzeppelin', 'trm-labs', 'chainalysis', 'elliptic', 'complyadvantage', 'notabene'].includes(s)) return 'Security & Auditing';
   if (['polymarket', 'kalshi'].includes(s)) return 'Prediction Markets';
   if (['jane-street', 'drw', 'flow-traders', 'dv-trading', 'falconx', 'keyrock', 'b2c2'].includes(s)) return 'Trading & Quant';
-  if (['prime-intellect', '0g-labs', 'ritual', 'grass'].includes(s)) return 'AI & DePIN';
+  if (['prime-intellect', '0g-labs', 'ritual', 'grass', 'gomining'].includes(s)) return 'AI & DePIN';
   if (['a16z-crypto', 'galaxy-digital', 'brevan-howard', 'pantera-capital'].includes(s)) return 'Venture & Research';
   if (['stripe', 'ramp', 'ripple', 'circle', 'tether', 'bvnk', 'moonpay', 'sardine', 'straitsx', 'breeze-cash'].includes(s)) return 'Fintech & Payments';
-  if (['coinbase', 'kraken', 'okx', 'bybit', 'robinhood', 'bitgo', 'crypto-com', 'bitdeer', 'bitpanda', 'gemini', 'bitvavo', 'bullish', 'coinhako', 'coins-ph', 'localcoin', 'shakepay', 'xapo-bank'].includes(s)) return 'Exchanges & Custody';
+  if (['coinbase', 'kraken', 'okx', 'bybit', 'robinhood', 'bitgo', 'crypto-com', 'bitdeer', 'bitpanda', 'gemini', 'bitvavo', 'bullish', 'coinhako', 'coins-ph', 'localcoin', 'shakepay', 'xapo-bank', 'phantom'].includes(s)) return 'Exchanges & Custody';
   if (['uniswap', 'uniswap-labs', 'aave', 'aave-labs', 'morpho', 'ether-fi', 'ondo-finance', '1inch', 'kamino', '0x', 'solflare', 'orderly-network'].includes(s)) return 'DeFi Protocols';
   if (['alchemy', 'consensys', 'fireblocks', 'helius', 'turnkey', 'dune', 'allium', 'blockdaemon', 'quicknode', 'paxos'].includes(s)) return 'Infrastructure & Tooling';
   if (['polygon-labs', 'arbitrum', 'arbitrum-opco', 'optimism', 'optimism-foundation', 'mysten-labs', 'sei-labs', 'stellar', 'hedera', 'monad'].includes(s)) return 'L1 / L2 Protocols';
@@ -141,11 +140,6 @@ function main() {
     }
   }
 
-  // Ensure all companies in companiesRuntime are considered
-  for (const slug of Object.keys(companiesRuntime)) {
-    if (!jobsBySlug.has(slug)) jobsBySlug.set(slug, []);
-  }
-
   // Non-native / general tech & TradFi firms excluded from the pure Web3 ranking
   const EXCLUDED_NON_NATIVE_SLUGS = new Set([
     'stripe',       // Traditional payments processor
@@ -157,24 +151,23 @@ function main() {
     'kalshi',       // CFTC regulated TradFi prediction market
   ]);
 
-  // Exact sets for verifiable stability classification
-  const publicSlugs = new Set(['coinbase', 'robinhood', 'block', 'riot-platforms', 'hut-8', 'bitdeer']);
-  const institutionalSlugs = new Set(['stripe', 'ripple', 'circle']);
-  const foundationSlugs = new Set(['uniswap', 'uniswap-labs', 'arbitrum', 'arbitrum-opco', 'optimism', 'optimism-foundation', 'aave', 'aave-labs', 'polygon-labs', 'stellar', 'hedera']);
-  const profitableSlugs = new Set(['kraken', 'okx', 'bybit', 'tether', 'bitgo', 'crypto-com', 'galaxy-digital', 'bitpanda', 'bitvavo']);
-  const tier1VcSlugs = new Set([
-    'fireblocks', 'alchemy', 'ramp', 'polymarket', 'trm-labs', 'chainalysis', 'consensys', 'jane-street',
-    'certik', 'openzeppelin', 'phantom', 'morpho', 'dune', 'helius', 'turnkey', 'kalshi', 'sardine', 'gomining',
-    'alpaca', 'drw', 'flow-traders', 'bvnk', 'drivewealth', 'moonpay', 'paxos', 'solflare', 'zero-hash', 'ondo-finance',
-    'falconx', 'lightspark', 'nexo', 'mysten-labs', 'sei-labs', 'ether-fi', 'gemini', '1inch', '0x', 'animoca-brands'
-  ]);
-
-  const candidates: Top100Employer[] = [];
-
+  // Filter candidate pool to active Web3 employers with at least 1 verified active job
+  const activeEntries: Array<{ slug: string; jobs: JobRuntime[] }> = [];
   for (const [slug, cJobs] of jobsBySlug.entries()) {
     if (EXCLUDED_NON_NATIVE_SLUGS.has(slug.toLowerCase())) {
       continue;
     }
+    if (cJobs.length === 0) {
+      continue;
+    }
+    activeEntries.push({ slug, jobs: cJobs });
+  }
+
+  const maxJobs = Math.max(...activeEntries.map(e => e.jobs.length), 1);
+
+  const candidates: Top100Employer[] = [];
+
+  for (const { slug, jobs: cJobs } of activeEntries) {
     const cRuntime = companiesRuntime[slug] || {};
     const mdMeta = mdMetaBySlug.get(slug) || {};
     const name = cRuntime.name || mdMeta.name || slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
@@ -185,18 +178,19 @@ function main() {
 
     const jobCount = cJobs.length;
 
-    // Pillar 1: Active Hiring Scale & Velocity (0 - 25)
-    const sHiring = jobCount > 0
-      ? Math.min(25.0, Number((6.8 + 3.35 * Math.log(1 + jobCount)).toFixed(1)))
-      : 5.0;
+    // Real department breadth
+    const departments = new Set(
+      cJobs.map(j => String(j.department || 'General').trim()).filter(Boolean)
+    );
+    const departmentCount = departments.size;
 
-    // Remote calculation
+    // Real remote work percentage
     const remoteCount = cJobs.filter(j => j.isRemote === true || /\bremote\b/i.test(j.location || '')).length;
-    const remotePct = jobCount > 0 ? Math.round((remoteCount / jobCount) * 100) : 0;
+    const remotePercentage = Math.round((remoteCount / jobCount) * 100);
 
-    // Salary disclosure calculation
+    // Real salary disclosure percentage
     const salaryCount = cJobs.filter(j => Boolean(j.salary)).length;
-    const salaryPct = jobCount > 0 ? Math.round((salaryCount / jobCount) * 100) : 0;
+    const salaryTransparencyPct = Math.round((salaryCount / jobCount) * 100);
 
     // Extract salary benchmark from jobs if available
     let salaryBenchmark: string | undefined;
@@ -205,114 +199,39 @@ function main() {
       salaryBenchmark = firstWithSalary.salary;
     }
 
-    // Pillar 2: Financial Stability & Runway (0 - 25)
-    let sStability = 17.5;
-    let stabilityTier: StabilityTier = 'Growth Stage';
+    // 100% Verifiable Hiring Index Score (0 - 100)
+    // 1. Hiring Volume (0 - 60): Logarithmic scale of verified open roles
+    const sVolume = Number(((Math.log(1 + jobCount) / Math.log(1 + maxJobs)) * 60).toFixed(1));
 
-    const slugLower = slug.toLowerCase();
-    if (publicSlugs.has(slugLower)) {
-      sStability = 24.8;
-      stabilityTier = 'Public / NASDAQ';
-    } else if (institutionalSlugs.has(slugLower)) {
-      sStability = 24.5;
-      stabilityTier = 'Institutional Scale ($10B+)';
-    } else if (foundationSlugs.has(slugLower)) {
-      sStability = 23.8;
-      stabilityTier = 'Foundation / Protocol Treasury';
-    } else if (profitableSlugs.has(slugLower)) {
-      sStability = 22.8;
-      stabilityTier = 'Profitable Cashflow';
-    } else if (tier1VcSlugs.has(slugLower)) {
-      sStability = 21.8;
-      stabilityTier = 'Tier-1 VC Backed';
-    } else if (jobCount >= 12) {
-      sStability = 19.8;
-      stabilityTier = 'Series B/C Growth';
-    } else if (jobCount >= 3) {
-      sStability = 18.2;
-      stabilityTier = 'Series A/B';
-    } else {
-      sStability = 16.5;
-      stabilityTier = 'Growth Stage';
-    }
+    // 2. Department Diversity (0 - 20): Hiring across distinct disciplines (1 to 10+ depts)
+    const sBreadth = Number(Math.min(20, (departmentCount / 10) * 20).toFixed(1));
 
-    // Pillar 3: Candidate Demand & Interest (0 - 25)
-    let sDemand = 17.0;
-    let candidateDemandLevel: CandidateDemandLevel = 'High';
-    let searchIntentIndex = 65;
-    let talentToStaffRatio = '45 : 1';
-    let applicationConversionRate = '10.5%';
+    // 3. Remote Availability (0 - 10): % of roles offering remote work
+    const sRemote = Number(((remotePercentage / 100) * 10).toFixed(1));
 
-    if (['coinbase', 'stripe'].includes(slugLower)) {
-      sDemand = 24.8;
-      candidateDemandLevel = 'Top 1% Demand';
-      searchIntentIndex = 98;
-      talentToStaffRatio = slugLower === 'coinbase' ? '181 : 1' : '285 : 1';
-      applicationConversionRate = '18.4%';
-    } else if (['uniswap', 'uniswap-labs', 'kraken', 'ripple', 'robinhood', 'polymarket', 'alchemy', 'circle', 'a16z-crypto'].includes(slugLower)) {
-      sDemand = 23.8;
-      candidateDemandLevel = 'Top 1% Demand';
-      searchIntentIndex = 91;
-      talentToStaffRatio = '220 : 1';
-      applicationConversionRate = '16.2%';
-    } else if (['block', 'bybit', 'okx', 'phantom', 'chainalysis', 'fireblocks', 'consensys', 'trm-labs', 'ramp'].includes(slugLower)) {
-      sDemand = 22.4;
-      candidateDemandLevel = 'Very High';
-      searchIntentIndex = 84;
-      talentToStaffRatio = '145 : 1';
-      applicationConversionRate = '14.1%';
-    } else if (['aave', 'aave-labs', 'polygon-labs', 'certik', 'openzeppelin', 'dune', 'helius', 'turnkey', 'kalshi', 'bitgo', 'galaxy-digital'].includes(slugLower)) {
-      sDemand = 21.0;
-      candidateDemandLevel = 'Very High';
-      searchIntentIndex = 78;
-      talentToStaffRatio = '110 : 1';
-      applicationConversionRate = '12.8%';
-    } else if (jobCount >= 15) {
-      sDemand = 19.8;
-      candidateDemandLevel = 'High';
-      searchIntentIndex = 72;
-      talentToStaffRatio = '75 : 1';
-      applicationConversionRate = '11.5%';
-    } else if (jobCount >= 4) {
-      sDemand = 18.2;
-      candidateDemandLevel = 'High';
-      searchIntentIndex = 66;
-      talentToStaffRatio = '55 : 1';
-      applicationConversionRate = '10.2%';
-    } else {
-      sDemand = 16.8;
-      candidateDemandLevel = 'Strong';
-      searchIntentIndex = 58;
-      talentToStaffRatio = '35 : 1';
-      applicationConversionRate = '8.9%';
-    }
+    // 4. Salary Transparency (0 - 10): % of roles with published pay ranges
+    const sSalary = Number(((salaryTransparencyPct / 100) * 10).toFixed(1));
 
-    // Pillar 4: Workplace Quality & Flexibility (0 - 25)
-    const remoteScore = (remotePct / 100.0) * 9.5;
-    let payScore = salaryPct > 0 ? 4.0 + (salaryPct / 100.0) * 4.0 : 4.0;
-    if (['coinbase', 'kraken', 'certik', 'ramp', 'stripe', 'circle', 'robinhood'].includes(slugLower)) {
-      payScore = Math.max(payScore, 7.5);
-    }
-    const cultureScore = ['stripe', 'coinbase', 'uniswap', 'uniswap-labs', 'kraken', 'fireblocks', 'phantom'].includes(slugLower) ? 7.0 : 6.0;
+    const composite = Number((sVolume + sBreadth + sRemote + sSalary).toFixed(1));
 
-    const sWorkplace = Math.min(25.0, Number((remoteScore + payScore + cultureScore).toFixed(1)));
-    const composite = Number((sHiring + sDemand + sStability + sWorkplace).toFixed(1));
-
-    // Highlight Badges (distinct perks not duplicating stability or demand)
+    // Objective highlight badges based on verified facts
     const highlightBadges: string[] = [];
-    if (remotePct >= 95) highlightBadges.push('100% Remote');
-    else if (remotePct >= 80) highlightBadges.push(`${remotePct}% Remote`);
-    if (salaryPct >= 40 || ['coinbase', 'kraken', 'certik', 'ramp', 'stripe', 'circle', 'robinhood'].includes(slugLower)) {
-      highlightBadges.push('Pay Disclosed');
+    if (remotePercentage >= 95) {
+      highlightBadges.push('100% Remote');
+    } else if (remotePercentage >= 80) {
+      highlightBadges.push(`${remotePercentage}% Remote`);
     }
-    if (['stripe', 'coinbase', 'uniswap', 'kraken', 'fireblocks', 'phantom'].includes(slugLower)) {
-      highlightBadges.push('Top Culture Score');
+    if (salaryTransparencyPct >= 50) {
+      highlightBadges.push('Salary Transparency');
+    }
+    if (departmentCount >= 5) {
+      highlightBadges.push('Multi-Department');
     }
 
-    const summary = cRuntime.description || mdMeta.description || `${name} is a leading organization in Web3 hiring across engineering, product, and operations.`;
+    const summary = cRuntime.description || mdMeta.description || `${name} is an active Web3 organization hiring across engineering, product, and operations.`;
 
     candidates.push({
-      rank: 0, // assigned after sorting
+      rank: 0,
       slug,
       name,
       category,
@@ -320,21 +239,15 @@ function main() {
       headquarters,
       founded,
       activeJobs: jobCount,
-      remotePercentage: remotePct,
-      salaryTransparencyPct: salaryPct,
+      departmentCount,
+      remotePercentage,
+      salaryTransparencyPct,
       salaryBenchmark,
-      stabilityTier,
-      candidateDemandLevel,
-      candidateMetrics: {
-        searchIntentIndex,
-        talentToStaffRatio,
-        applicationConversionRate,
-      },
       scores: {
-        hiringScale: sHiring,
-        candidateDemand: sDemand,
-        financialStability: sStability,
-        workplaceQuality: sWorkplace,
+        hiringVolume: sVolume,
+        departmentBreadth: sBreadth,
+        remoteFlexibility: sRemote,
+        salaryTransparency: sSalary,
         composite,
       },
       highlightBadges,
@@ -342,8 +255,16 @@ function main() {
     });
   }
 
-  // Sort descending by composite score, then by active jobs
-  candidates.sort((a, b) => b.scores.composite - a.scores.composite || b.activeJobs - a.activeJobs);
+  // Sort primarily by active job count, then by verified hiring index score, then department breadth
+  candidates.sort((a, b) => {
+    if (b.activeJobs !== a.activeJobs) {
+      return b.activeJobs - a.activeJobs;
+    }
+    if (b.scores.composite !== a.scores.composite) {
+      return b.scores.composite - a.scores.composite;
+    }
+    return b.departmentCount - a.departmentCount;
+  });
 
   // Take Top 100
   const top100 = candidates.slice(0, 100).map((emp, index) => ({
@@ -368,7 +289,7 @@ function main() {
     generatedAt: new Date().toISOString(),
     year: 2026,
     snapshotLabel: 'Q4 2026 Index',
-    totalEmployers: 100,
+    totalEmployers: top100.length,
     totalActiveJobs,
     avgRemotePct,
     avgSalaryTransparencyPct,
@@ -380,9 +301,9 @@ function main() {
   console.log(`[top100] Successfully generated ${OUTPUT_PATH}`);
   console.log(`[top100] Total active jobs represented: ${totalActiveJobs}`);
   console.log(`[top100] Avg remote rate: ${avgRemotePct}%`);
-  console.log(`[top100] Top 3 employers:`);
-  top100.slice(0, 3).forEach(e => console.log(`  #${e.rank} ${e.name} (${e.scores.composite} pts, ${e.activeJobs} jobs)`));
-  console.log(`[top100] #100 employer: #${top100[99].rank} ${top100[99].name} (${top100[99].scores.composite} pts)`);
+  console.log(`[top100] Top 5 employers:`);
+  top100.slice(0, 5).forEach(e => console.log(`  #${e.rank} ${e.name} (${e.activeJobs} jobs, ${e.scores.composite} pts)`));
+  console.log(`[top100] #100 employer: #${top100[99].rank} ${top100[99].name} (${top100[99].activeJobs} jobs, ${top100[99].scores.composite} pts)`);
 }
 
 main();

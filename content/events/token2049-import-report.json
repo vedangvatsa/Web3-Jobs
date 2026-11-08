@@ -102,28 +102,6 @@
       "slug": "aicon"
     },
     {
-      "url": "https://luma.com/41pmz1pj",
-      "name": "CAPITAL ON TRACK: Formula 1 (Wealth Global Partners)",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "9th-oct"
-    },
-    {
-      "url": "https://luma.com/TBE-F1Practice",
-      "name": "The Best Event: F1 Practice with Fasset",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "tbe-fasset"
-    },
-    {
       "url": "https://luma.com/ak8p4133",
       "name": "AI For Everyone Forum",
       "sources": [
@@ -153,17 +131,6 @@
       ],
       "status": "existing",
       "slug": "capital-impact"
-    },
-    {
-      "url": "https://luma.com/keq5yo5b",
-      "name": "Perps x Institutional: Trading, Liquidity & the Onchain Economy (lil room)",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "institutional-house"
     },
     {
       "url": "https://luma.com/79smauv6",
@@ -400,17 +367,6 @@
       ],
       "status": "existing",
       "slug": "private-trading"
-    },
-    {
-      "url": "https://megatix.com.sg/events/after2049",
-      "name": "AFTER 2049: The Official TOKEN2049 Closing Party",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
     },
     {
       "url": "https://luma.com/lh5uxlii",
@@ -705,17 +661,6 @@
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/svhznq16",
-      "name": "Builders Meet 🇸🇬",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 400"
     },
     {
       "url": "https://luma.com/66xw2zkq",

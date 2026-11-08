@@ -1233,5 +1233,37 @@
     "organizationId": "f78beec5-e51a-416b-93e6-3b4aaec3fa21",
     "owner": "Squads",
     "website": "https://squads.xyz"
+  },
+  "ashby:pluralis-research": {
+    "companies": [
+      "Pluralis Research"
+    ],
+    "organizationId": "f081c6d2-03ee-42a3-b5ba-b314d1295a50",
+    "owner": "Pluralis Research",
+    "website": "https://pluralis.ai"
+  },
+  "ashby:codex": {
+    "companies": [
+      "Codex"
+    ],
+    "organizationId": "14a1b5f5-0749-4fe0-adf0-8a59f26ecc3e",
+    "owner": "Codex",
+    "website": "https://www.usecodex.com"
+  },
+  "ashby:projecteleven": {
+    "companies": [
+      "Project Eleven"
+    ],
+    "organizationId": "70bf7756-1192-4f09-ae62-d12aba6bbc9f",
+    "owner": "Project Eleven",
+    "website": "https://www.projecteleven.com/"
+  },
+  "ashby:batoncorporation": {
+    "companies": [
+      "Baton Corporation"
+    ],
+    "organizationId": "f32c5fab-3fa1-4967-b014-f6fb23bd9e78",
+    "owner": "Baton Corporation Ltd",
+    "website": "https://pump.fun"
   }
 }

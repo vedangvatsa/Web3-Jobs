@@ -2,17 +2,6 @@
   "applied": true,
   "records": [
     {
-      "id": "token2049-side-6a7445ef7ef1577c1e37eca1",
-      "words": 200,
-      "source": {
-        "url": "https://megatix.com.sg/events/after2049",
-        "fetchedAt": "2026-09-21T05:12:52.962Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "Megatix - AFTER 2049 presents: Claptone & Crusy",
-        "sha256": "aa00bf417009503f06feddac7789da628749b000fad4f79c76ecb69dfca25faa"
-      }
-    },
-    {
       "id": "premier-planblugano",
       "words": 195,
       "source": {

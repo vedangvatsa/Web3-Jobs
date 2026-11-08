@@ -1,42 +1,42 @@
 [
   {
+    "slug": "cantonstock",
+    "title": "Canton Strategic Completes First Issuer-Sponsored Tokenized Stock Trades Under SEC Exemption",
+    "description": "Canton Strategic Holdings said on Nov. 4 that Five North, DRW Cumberland and Flowdesk completed the first trades of issuer-sponsored tokenized CNTN shares on TSV under the SEC's Innovation Exemption.",
+    "category": "News",
+    "publishedDate": "2026-11-07",
+    "image": "/images/news/cantonstock.jpg"
+  },
+  {
+    "slug": "mexcorder",
+    "title": "Treasury orders US banks to stop transfers to MEXC over $16 billion in illicit transactions",
+    "description": "FinCEN barred US financial institutions from processing transfers involving MEXC Global, accusing the exchange of moving at least $16 billion linked to sanctions evasion and cybercrime.",
+    "category": "News",
+    "publishedDate": "2026-11-07",
+    "image": "/images/news/mexcorder.jpg"
+  },
+  {
+    "slug": "xrplaunder",
+    "title": "Hackers Swap About $50 Million of Stolen XRP Into Bitcoin, Elliptic Says",
+    "description": "Elliptic said hackers tied to the Binance theft swapped about 42 million XRP, worth roughly $50 million, into bitcoin through THORChain, with about 192 million XRP still unmoved.",
+    "category": "News",
+    "publishedDate": "2026-11-07",
+    "image": "/images/news/xrplaunder.jpg"
+  },
+  {
+    "slug": "yaroch",
+    "title": "Former FBI agent pleads guilty to stealing $2.47 million in crypto from bureau cases",
+    "description": "Patrick Steven Yaroch admitted to wire fraud and money laundering after using credentials collected in 35 FBI investigations to move about $2.47 million into wallets he controlled.",
+    "category": "News",
+    "publishedDate": "2026-11-07",
+    "image": "/images/news/yaroch.jpg"
+  },
+  {
     "slug": "aztectierra",
     "title": "Aztec Launches Tierra Upgrade, Patching Critical Flaw in Privacy Network",
     "description": "Aztec's Tierra upgrade fixes a critical V5 proving flaw, adds formal verification of its cryptography and cuts Ethereum-to-Aztec message delivery from two minutes to as little as 12 seconds.",
     "category": "News",
     "publishedDate": "2026-11-06",
     "image": "/images/news/aztectierra.jpg"
-  },
-  {
-    "slug": "cyberczar",
-    "title": "South Korea's president orders a review of a government-wide cybersecurity czar",
-    "description": "President Lee Jae Myung told a Cabinet meeting on Nov. 3 that South Korea should consider a cybersecurity czar agency to coordinate security work split across government, citing the $6.3 billion Binance theft and a wave of domestic breaches.",
-    "category": "News",
-    "publishedDate": "2026-11-06",
-    "image": "/images/news/cyberczar.jpg"
-  },
-  {
-    "slug": "equityperps",
-    "title": "CFTC clears stock perpetual futures as an industry group sues to stop them",
-    "description": "The CFTC said equity perpetual futures can trade on US exchanges for the first time on Nov. 3, and the Capital Markets Alliance sued the same day, losing its bid for an emergency halt.",
-    "category": "News",
-    "publishedDate": "2026-11-06",
-    "image": "/images/news/equityperps.jpg"
-  },
-  {
-    "slug": "ldkprobe",
-    "title": "LDK Patch Blocks Probe Linking Private Channels to Their Funding Output",
-    "description": "A merged LDK pull request stops onion-message forwarding from resolving real short-channel IDs for unannounced channels, closing a probe that could tie hidden channels to onchain outputs.",
-    "category": "News",
-    "publishedDate": "2026-11-06",
-    "image": "/images/news/ldkprobe.jpg"
-  },
-  {
-    "slug": "liquidbacking",
-    "title": "Liquid Network restores full bitcoin backing two months after exploit",
-    "description": "The Liquid Federation said its bitcoin reserves now back every LBTC one for one, closing the roughly 600 BTC shortfall left by the September exploit, while direct federation peg-outs stay restricted.",
-    "category": "News",
-    "publishedDate": "2026-11-06",
-    "image": "/images/news/liquidbacking.jpg"
   }
 ]
