@@ -142260,7 +142260,7 @@
         "id": "0afea6f554f30d2245ce",
         "day": "2026-11-08",
         "articleSlug": "frenchhill",
-        "note": "Read Cointelegraph and the KATV report of the AP call; two independent sites now read. Draft not started, image not selected; next step is drafting frenchhill.md with a verified photo.",
+        "note": "Re-read Cointelegraph and KATV this run; both readable. Photo selected: Commons French Hill official portrait. Drafting now.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas",
@@ -142271,7 +142271,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-08T10:57:14.989Z",
+        "updatedAt": "2026-11-08T11:01:11.922Z",
         "approved": false,
         "mustReview": true
       }
