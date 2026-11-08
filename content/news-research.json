@@ -143006,11 +143006,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "86e62db3f4814cc24a0a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-08T13:14:05.000Z",
-      "lastSeenAt": "2026-11-06T00:28:20.054Z"
+      "lastSeenAt": "2026-11-06T00:28:20.054Z",
+      "reason": "opinion",
+      "note": "Opened the Decrypt Morning Minute. It is a labeled opinion newsletter and multi-topic price roundup (BTC levels, meme coins, ETF flows); the concrete market-structure scoop inside is the same Terrett reporting tracked by the Democrats market structure candidate, not a separate concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382603/morning-minute-democrat-sweep-pumps-crypto-as-clarity-act-resurfaces",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-08T11:23:28.748Z",
+      "lastReviewedDay": "2026-11-08"
     },
     "05eeb2ca7232a0b27696": {
       "source": "CoinDesk",
@@ -283230,6 +283240,18 @@
           "reviewedAt": "2026-11-08T11:23:25.608Z",
           "duplicateOf": "nbubill",
           "mergedInto": "3967e0aca164a53111a5"
+        },
+        "86e62db3f4814cc24a0a": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Opened the Decrypt Morning Minute. It is a labeled opinion newsletter and multi-topic price roundup (BTC levels, meme coins, ETF flows); the concrete market-structure scoop inside is the same Terrett reporting tracked by the Democrats market structure candidate, not a separate concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382603/morning-minute-democrat-sweep-pumps-crypto-as-clarity-act-resurfaces",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-08T11:23:28.748Z"
         }
       },
       "baselineSlugs": [
