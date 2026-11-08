@@ -85,3 +85,15 @@ export const PUBLIC_PAGE_ALIASES = {
   '/terms': '/terms-of-use.md',
   '/tos': '/terms-of-use.md',
 };
+
+/**
+ * Defangs domain-like company names (e.g. "Blockchain.com", "Crypto.com", "Rhino.fi", "pump.fun")
+ * for social media sharing by inserting an invisible Zero-Width Space (\u200B) before the dot.
+ * This prevents social platforms (X, Telegram, LinkedIn, Threads, Bluesky, Facebook) from auto-linking
+ * the company name and scraping their website preview instead of our job preview.
+ */
+export function sanitizeCompanyForSocial(company) {
+  if (typeof company !== 'string' || !company) return company || '';
+  return company.replace(/([a-zA-Z0-9_-]+)\.([a-zA-Z]{2,})\b/g, '$1\u200B.$2');
+}
+

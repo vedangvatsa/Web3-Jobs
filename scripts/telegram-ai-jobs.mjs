@@ -15,6 +15,7 @@ import dotenv from 'dotenv';
 import { pathToFileURL } from 'node:url';
 import { isJobAgeEligible } from '../src/lib/job-age-policy.mjs';
 import { assertJobAge, verifyEmployerApplication } from './lib/job-publish-guard.mjs';
+import { sanitizeCompanyForSocial } from '../src/lib/social-share-constants.mjs';
 
 try { dotenv.config({ path: new URL('../.env.local', import.meta.url).pathname }); } catch {}
 
@@ -155,7 +156,7 @@ async function fetchAllJobs() {
 function formatMessage(jobs) {
   const lines = jobs.map(j => {
     const title = escapeHtml(j.title);
-    const company = escapeHtml(j.company);
+    const company = escapeHtml(sanitizeCompanyForSocial(j.company));
     return `• ${company} is hiring <a href="${j.link}">${title}</a>`;
   });
 
