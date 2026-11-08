@@ -1,6 +1,6 @@
 ---
 name: Busha
-website: 'https://www.busha.co'
+website: 'https://busha.io'
 category: Exchange / Digital Assets (Nigeria)
 headquarters: Lagos, Nigeria
 description: >-

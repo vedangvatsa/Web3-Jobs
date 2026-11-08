@@ -937,7 +937,7 @@ async function refreshJobsCache() {
     { board: 'pluralis-research', company: 'Pluralis Research' },
     { board: 'codex', company: 'Codex' },
     { board: 'projecteleven', company: 'Project Eleven' },
-    { board: 'batoncorporation', company: 'Baton Corporation' },
+    { board: 'batoncorporation', company: 'pump.fun' },
   ];
 
   for (const ab of ASHBY_BOARDS) {

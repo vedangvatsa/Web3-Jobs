@@ -1,6 +1,6 @@
 ---
 name: D3 Global
-website: 'https://d3.email'
+website: 'https://d3.com'
 category: Infrastructure
 headquarters: Las Vegas, Nevada, USA
 description: >-

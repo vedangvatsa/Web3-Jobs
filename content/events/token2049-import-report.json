@@ -81,37 +81,6 @@
       "slug": "tech-summit"
     },
     {
-      "url": "https://luma.com/dd8728yc",
-      "name": "Web3TV Interview Feature With Singapore Blockchain Week - Day 1",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "web3tv-interview"
-    },
-    {
-      "url": "https://luma.com/aicon2026",
-      "name": "AICON 2026",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "aicon"
-    },
-    {
-      "url": "https://luma.com/ak8p4133",
-      "name": "AI For Everyone Forum",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "aef"
-    },
-    {
       "url": "https://luma.com/golp36tb",
       "name": "Formula 1 After Party",
       "sources": [
@@ -120,28 +89,6 @@
       ],
       "status": "existing",
       "slug": "formula-after"
-    },
-    {
-      "url": "https://luma.com/pejkoxlm",
-      "name": "TCI The Capital Impact Salon by Preface.AI & A2A Advisory | SG edition",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "capital-impact"
-    },
-    {
-      "url": "https://luma.com/79smauv6",
-      "name": "ONWARD | Bitbase VIP Yacht Party",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "onward-bitbase"
     },
     {
       "url": "https://luma.com/d9m7ndn1",
@@ -153,26 +100,6 @@
       ],
       "status": "existing",
       "slug": "crypto-vc"
-    },
-    {
-      "url": "https://luma.com/9mnsjr5r",
-      "name": "Super Yacht X F1",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "superyacht-f1"
-    },
-    {
-      "url": "https://luma.com/7xebdeja",
-      "name": "United Digital Economies - SG Convivium 2026",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "united-digital"
     },
     {
       "url": "https://luma.com/y0r8yef3",
@@ -429,16 +356,6 @@
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
         "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/ns2026",
-      "name": "Network State Conference: Singapore Oct 9, 2026",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
@@ -726,17 +643,6 @@
       "reason": "Luma page returned HTTP 400"
     },
     {
-      "url": "https://luma.com/4lzbeit3",
-      "name": "Founder x VC Summit: Day 2 (Private)",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
       "url": "https://luma.com/nt0j0ptg",
       "name": "Padel Hangout by Arc Trading",
       "sources": [
@@ -766,17 +672,6 @@
       ],
       "status": "needs-review",
       "reason": "Luma page returned HTTP 400"
-    },
-    {
-      "url": "https://luma.com/kh3uenfj",
-      "name": "Proof Of Liquidity: VIP Dinner by Yield Network, Ink Chain, RockawayX, and",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
     },
     {
       "url": "https://luma.com/rruavcge",
@@ -810,28 +705,6 @@
       ],
       "status": "needs-review",
       "reason": "Luma page returned HTTP 400"
-    },
-    {
-      "url": "https://luma.com/quilla-00kv",
-      "name": "The Institutional Table: Private Dinner on Tokenization, Stablecoins and Se",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/token2026",
-      "name": "华语之夜 · AI 与 Token 时代的华人出海局",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
     },
     {
       "url": "https://luma.com/TBE-F1SprintQual",

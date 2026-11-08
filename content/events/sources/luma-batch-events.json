@@ -526,57 +526,6 @@
     }
   },
   {
-    "id": "luma-batch-O4axDZsaJkpWCSj",
-    "slug": "osblc3d0",
-    "name": "論考「ビットコインこそが最強の貨幣である」ゲンロン冊子掲載記念トークイベント @Tokyo Bitcoin Base",
-    "description": "このたび、ゲンロンの冊子に小山内雄人さんの論考「ビットコインこそが最強の貨幣である」が掲載されました。本イベントは、その掲載を記念して Tokyo Bitcoin Base で開催するトーク&交流イベントです。\n\n「暗号資産とはなにか」という基本から説き起こし、ビットコインを単なる投機対象としてではなく、私有財産を守り、政府を牽制し、自由主義の理念を取り戻すための「最強の貨幣」として論じる——本論考はそんな挑戦的な試みです。「ハードマネーはイージーマネーを駆逐する」「法定通貨は妥協の産物である」といった刺激的なテーゼを軸に、貨幣・国家・自由の関係を根本から問い直します。\n\n前半は、論考著者である小山内雄人さんによるプレゼンテーション。論考のエッセンスを本人の言葉で語ります。続くトークセッションでは、Tokyo Bitcoin Base スタッフを加えて内容をさらに深掘り。なぜ法定通貨ではなくビットコインなのか。ビットコインは国家と個人の関係をどう変えうるのか。そして私たちは、ビットコインをどう「真剣に受け止める」べきなのか。ビットコインと思想・批評が交差する一夜をお届けします。\n\n終盤にはゲンロンの活動紹介パートも。イベント終了後はそのまま懇親会を予定していますので、登壇者や参加者同士でゆっくり交流いただけます。ビットコイナーはもちろん、貨幣論・政治思想・批評に関心のある方のご参加も大歓迎です。\n\n■ 論考「ビットコインこそが最強の貨幣である」章立て\n\n暗号資産とはなにか\n\nビットコインは私有財産を守る\n\n自由主義の理念を取り戻す\n\n政府を牽制する\n\nハードマネーはイージーマネーを駆逐する\n\n法定通貨は妥協の産物である\n\nビットコインを真剣に受け止めるために※論考掲載冊子入手はゲンロン友の会のリンクより（詳細はイベント当日に）https://shop.genron.co.jp/pages/tmnk\n\n■ 開催概要日時:2026年10月9日(金)20:00〜22:00会場:Tokyo Bitcoin Base(JR・東京メトロ「四ツ谷」駅 最寄り)参加費: 無料■ タイムテーブル20:00〜20:15 小山内雄人さんプレゼンテーション20:15〜21:15 トークセッション(聞き手 TBBスタッフ )21:15〜21:30 ゲンロンのご紹介(ゲンロン社員 takeuchiさん)21:30〜 懇親会\n\n■ 登壇者小山内雄人 : ITエンジニア",
-    "startDate": "2026-10-09T11:00:00.000Z",
-    "endDate": "2026-10-09T13:00:00.000Z",
-    "city": "Shinjuku City",
-    "country": "Japan",
-    "location": "Tokyo Bitcoin Base, Tokyo Bitcoin Base, 2-8 Honshiochō, Shinjuku City, Tokyo 160-0003, Japan",
-    "url": "https://luma.com/osblc3d0",
-    "registrationUrl": "https://luma.com/osblc3d0",
-    "coverImage": "/events/luma-batch-O4axDZsaJkpWCSj-3209fd1e.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Tokyo Bitcoin Base",
-      "Yuto Osanai"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "Asia/Tokyo",
-    "neighborhood": "2",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Tokyo Bitcoin Base",
-    "addressLocality": "Shinjuku City",
-    "addressRegion": "Tokyo",
-    "addressCountry": "JP",
-    "organizer": {
-      "type": "Organization",
-      "name": "Tokyo Bitcoin Base",
-      "url": "https://luma.com/user/TBB_JP"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/osblc3d0",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/osblc3d0",
-      "eventId": "evt-O4axDZsaJkpWCSj",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-HVz9QrHwDKCcbkH",
     "slug": "j0muyl9l",
     "name": "はじめてのハッカソン！Yuki先生とAIでアイデアをカタチに｜OrbsCafe #25",
@@ -1341,36 +1290,6 @@
     }
   },
   {
-    "id": "luma-batch-vLu55Cr9n9hVL9l",
-    "slug": "xmhmmh6v",
-    "name": "💻 Coworking Fridays Istanbul — SuperteamTR",
-    "description": "Free coworking in Istanbul, every Friday.\n\nCome work with us, meet other founders and builders, get feedback on what you’re building, or just spend the day around people shipping.\n\nWhether you’re already building on Solana or simply curious about the ecosystem, you’re welcome.\n\nWhat to expect\n\n→ Free coworking→ Superteam Türkiye team on-site→ Founder & builder community→ Feedback, intros, and ecosystem support→ Coffee, conversations, and heads-down building\n\nOpen to founders, developers, designers, creators, students — basically anyone building something.\n\nYou don’t need to be a Superteam member to join.\n\nBring your laptop. See you Friday. ⚡\n\nBy signing up, you agree that Superteam Türkiye may take and share photos and videos of you from the event.",
-    "startDate": "2026-10-09T07:00:00.000Z",
-    "endDate": "2026-10-09T14:00:00.000Z",
-    "city": "Şişli",
-    "country": "Türkiye",
-    "location": "Kolektif House Levent, Kolektif House Levent, Kolektif House Esentepe Mahallesi Talatpaşa Caddesi No: 5 / 1 Levent, İstanbul, Esentepe, Talatpaşa Cd. No: 5/1, 34394 Şişli/İstanbul, Türkiye",
-    "url": "https://luma.com/xmhmmh6v",
-    "registrationUrl": "https://luma.com/xmhmmh6v",
-    "coverImage": "/events/luma-batch-vLu55Cr9n9hVL9l-f35248f9.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Türkiye"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "Europe/Istanbul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "sourceVerification": {
-      "url": "https://luma.com/xmhmmh6v",
-      "eventId": "calev-vLu55Cr9n9hVL9l",
-      "fetchedAt": "2026-09-22T11:31:03.000Z",
-      "method": "luma-page",
-      "apifyRunId": "WHcLsVUsFvlHmcVYz"
-    }
-  },
-  {
     "id": "luma-batch-1sMHw1TaVO3TkEe",
     "slug": "london-oct-09",
     "name": "Co-Working Fridays : London Chapter",
@@ -1920,37 +1839,6 @@
       "fetchedAt": "2026-09-23T10:03:56.000Z",
       "method": "luma-page",
       "apifyRunId": "Ffaa1kYaomR8FZ23t"
-    }
-  },
-  {
-    "id": "luma-batch-evtYmTGHFb7GGjrc",
-    "slug": "ns2026",
-    "name": "Network State Conference: Singapore Oct 9, 2026",
-    "description": "Democracy is about the consent of the governed . In the Internet age, that now means voting not just with your ballot, but your feet . So: if you’re one of the democratic capitalists of the Internet, come vote with your feet for new communities by joining us at this year's Network State Conference in Singapore on October 9. In more detail, our conference is for those interested in founding, funding, and finding startup societies and network states. This year's speakers include Ethereum founder Vitalik Buterin, Polychain founder Olaf Carlson-Wee, Floodgate founder Mike Maples, Binance CEO Richard Teng, and Deputy Prime Minister of Kazakhstan Zhaslan Madiyev. As a cornerstone of financial privacy, Zcash has consistently been featured at the Network State Conference. This year's events will expand on that coverage, beginning with a Zcash Zummit , with speakers including Zcash cofounder Zooko Wilcox, Zcash cofounder Sean Bowe of Tachyon, Zodl founder Josh Swihart, Vizor founder Josh Lee, Zakura cofounder Dev Ojha, Valar Group's Evan Forbes, Winklevoss Capital's Maxime Desalle, and Zcash Labs' Tom Howard. The full conference includes talks on startup societies, network states, digital nomadism, competitive government, legalizing innovation, and internet-first institutions. You'll watch presentations by startup society founders from around the world, explore them, and find the community that best fits you. Held in sunny Singapore on October 9, 2026, right after Token2049, at level 5 of the Marina Bay Sands Expo and Convention Centre. In-person tickets are only $99 and remote attendance is free. We look forward to seeing you there!",
-    "startDate": "2026-10-09T01:00:00.000Z",
-    "endDate": "2026-10-09T12:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/ns2026",
-    "registrationUrl": "https://luma.com/ns2026",
-    "coverImage": "/events/luma-batch-evtYmTGHFb7GGjrc-11bd70de.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Network School",
-      "Balaji"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "Asia/Singapore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "sourceVerification": {
-      "url": "https://luma.com/ns2026",
-      "eventId": "evt-YmTGHFb7GGjrcgp",
-      "fetchedAt": "2026-09-23T10:30:17.000Z",
-      "method": "luma-page",
-      "apifyRunId": "WCHmxHjbrvTGjb2mc"
     }
   },
   {

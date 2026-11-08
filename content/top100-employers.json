@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-08T11:35:07.550Z",
+  "generatedAt": "2026-11-08T14:36:15.778Z",
   "year": 2026,
   "snapshotLabel": "Q4 2026 Index",
   "totalEmployers": 100,
-  "totalActiveJobs": 1115,
+  "totalActiveJobs": 1106,
   "avgRemotePct": 39,
   "avgSalaryTransparencyPct": 16,
   "employers": [
@@ -90,16 +90,16 @@
       "website": "https://kraken.com",
       "headquarters": "San Francisco, California, USA",
       "founded": 2011,
-      "activeJobs": 46,
+      "activeJobs": 44,
       "departmentCount": 11,
       "remotePercentage": 98,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 53.3,
+        "hiringVolume": 52.7,
         "departmentBreadth": 20,
         "remoteFlexibility": 9.8,
         "salaryTransparency": 0,
-        "composite": 83.1
+        "composite": 82.5
       },
       "highlightBadges": [
         "100% Remote",
@@ -332,16 +332,16 @@
       "website": "https://tether.to",
       "headquarters": "British Virgin Islands",
       "founded": 2014,
-      "activeJobs": 23,
+      "activeJobs": 22,
       "departmentCount": 7,
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 44,
+        "hiringVolume": 43.4,
         "departmentBreadth": 14,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 68
+        "composite": 67.4
       },
       "highlightBadges": [
         "100% Remote",
@@ -351,52 +351,6 @@
     },
     {
       "rank": 15,
-      "slug": "bitpanda",
-      "name": "Bitpanda",
-      "category": "Exchanges & Custody",
-      "website": "https://bitpanda.com",
-      "headquarters": "Remote / Global",
-      "activeJobs": 22,
-      "departmentCount": 6,
-      "remotePercentage": 0,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 43.4,
-        "departmentBreadth": 12,
-        "remoteFlexibility": 0,
-        "salaryTransparency": 0,
-        "composite": 55.4
-      },
-      "highlightBadges": [
-        "Multi-Department"
-      ],
-      "summary": "Bitpanda, founded in 2014 in Vienna by Eric Demuth, Paul Klanschek and Christian Trummer as Coinimal, is a leading European investment platform offering stocks, exchange-traded funds, crypto and precious metals to millions of users. Regulated under European frameworks and licensed in Austria, the platform emphasizes re..."
-    },
-    {
-      "rank": 16,
-      "slug": "chainalysis",
-      "name": "Chainalysis",
-      "category": "Security & Auditing",
-      "website": "https://www.chainalysis.com",
-      "headquarters": "Remote / Global",
-      "activeJobs": 21,
-      "departmentCount": 4,
-      "remotePercentage": 90,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 42.8,
-        "departmentBreadth": 8,
-        "remoteFlexibility": 9,
-        "salaryTransparency": 0,
-        "composite": 59.8
-      },
-      "highlightBadges": [
-        "90% Remote"
-      ],
-      "summary": "Chainalysis, founded in 2014 in New York by Michael Gronager, is the leading blockchain analytics platform used by 1,200+ governments and institutions to investigate crypto crime, comply with sanctions and measure market activity. Covering 15+ chains, its Reactor and KYT products traced flows in major cases. Valued at ..."
-    },
-    {
-      "rank": 17,
       "slug": "crypto-com",
       "name": "Crypto.com",
       "category": "Exchanges & Custody",
@@ -420,23 +374,69 @@
       "summary": "Crypto.com, founded in 2016 in Hong Kong by Kris Marszalek, runs a top-5 exchange and card program serving 100M+ users in 90+ countries, plus DeFi Wallet self-custody and Cronos chain. Known for high-profile marketing and regulatory pushes, it holds licenses in Singapore, France and the UAE. Headquartered in Singapore,..."
     },
     {
+      "rank": 16,
+      "slug": "bitpanda",
+      "name": "Bitpanda",
+      "category": "Exchanges & Custody",
+      "website": "https://bitpanda.com",
+      "headquarters": "Remote / Global",
+      "activeJobs": 21,
+      "departmentCount": 6,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 42.8,
+        "departmentBreadth": 12,
+        "remoteFlexibility": 0,
+        "salaryTransparency": 0,
+        "composite": 54.8
+      },
+      "highlightBadges": [
+        "Multi-Department"
+      ],
+      "summary": "Bitpanda, founded in 2014 in Vienna by Eric Demuth, Paul Klanschek and Christian Trummer as Coinimal, is a leading European investment platform offering stocks, exchange-traded funds, crypto and precious metals to millions of users. Regulated under European frameworks and licensed in Austria, the platform emphasizes re..."
+    },
+    {
+      "rank": 17,
+      "slug": "chainalysis",
+      "name": "Chainalysis",
+      "category": "Security & Auditing",
+      "website": "https://www.chainalysis.com",
+      "headquarters": "Remote / Global",
+      "activeJobs": 20,
+      "departmentCount": 4,
+      "remotePercentage": 90,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 42.2,
+        "departmentBreadth": 8,
+        "remoteFlexibility": 9,
+        "salaryTransparency": 0,
+        "composite": 59.2
+      },
+      "highlightBadges": [
+        "90% Remote"
+      ],
+      "summary": "Chainalysis, founded in 2014 in New York by Michael Gronager, is the leading blockchain analytics platform used by 1,200+ governments and institutions to investigate crypto crime, comply with sanctions and measure market activity. Covering 15+ chains, its Reactor and KYT products traced flows in major cases. Valued at ..."
+    },
+    {
       "rank": 18,
       "slug": "bvnk",
       "name": "BVNK",
       "category": "Fintech & Payments",
       "website": "https://bvnk.com",
       "headquarters": "Remote / Global",
-      "activeJobs": 18,
+      "activeJobs": 17,
       "departmentCount": 6,
       "remotePercentage": 0,
-      "salaryTransparencyPct": 56,
+      "salaryTransparencyPct": 59,
       "salaryBenchmark": "€85k – €110k/yr",
       "scores": {
-        "hiringVolume": 40.8,
+        "hiringVolume": 40,
         "departmentBreadth": 12,
         "remoteFlexibility": 0,
-        "salaryTransparency": 5.6,
-        "composite": 58.4
+        "salaryTransparency": 5.9,
+        "composite": 57.9
       },
       "highlightBadges": [
         "Salary Transparency",
@@ -639,30 +639,6 @@
     },
     {
       "rank": 27,
-      "slug": "flow-traders",
-      "name": "Flow Traders",
-      "category": "Trading & Quant",
-      "website": "https://flowtraders.com",
-      "headquarters": "Remote / Global",
-      "activeJobs": 12,
-      "departmentCount": 6,
-      "remotePercentage": 0,
-      "salaryTransparencyPct": 8,
-      "salaryBenchmark": "$80k – $95k/yr",
-      "scores": {
-        "hiringVolume": 35.5,
-        "departmentBreadth": 12,
-        "remoteFlexibility": 0,
-        "salaryTransparency": 0.8,
-        "composite": 48.3
-      },
-      "highlightBadges": [
-        "Multi-Department"
-      ],
-      "summary": "Flow Traders, founded in 2004 in Amsterdam and listed on Euronext (FLOW), is a leading global ETP market maker and crypto liquidity provider, trading $100B+ quarterly across equities, fixed income and digital assets. With 600+ employees across Amsterdam, New York, Hong Kong and Singapore, it provides tight spreads for ..."
-    },
-    {
-      "rank": 28,
       "slug": "mantle-network",
       "name": "Mantle Network",
       "category": "L1 / L2 Protocols",
@@ -683,6 +659,30 @@
         "Multi-Department"
       ],
       "summary": "Mantle Network is a high-performance Ethereum Layer-2 network built with a modular architecture that combines optimistic rollups with decentralized data availability via Mantle DA. Mantle provides low fees, high throughput, and EVM compatibility for developers and DeFi applications.\n\nMantle Network is a high-performanc..."
+    },
+    {
+      "rank": 28,
+      "slug": "flow-traders",
+      "name": "Flow Traders",
+      "category": "Trading & Quant",
+      "website": "https://flowtraders.com",
+      "headquarters": "Remote / Global",
+      "activeJobs": 11,
+      "departmentCount": 6,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 9,
+      "salaryBenchmark": "$80k – $95k/yr",
+      "scores": {
+        "hiringVolume": 34.4,
+        "departmentBreadth": 12,
+        "remoteFlexibility": 0,
+        "salaryTransparency": 0.9,
+        "composite": 47.3
+      },
+      "highlightBadges": [
+        "Multi-Department"
+      ],
+      "summary": "Flow Traders, founded in 2004 in Amsterdam and listed on Euronext (FLOW), is a leading global ETP market maker and crypto liquidity provider, trading $100B+ quarterly across equities, fixed income and digital assets. With 600+ employees across Amsterdam, New York, Hong Kong and Singapore, it provides tight spreads for ..."
     },
     {
       "rank": 29,
@@ -1013,29 +1013,6 @@
     },
     {
       "rank": 43,
-      "slug": "talos",
-      "name": "Talos",
-      "category": "Security & Auditing",
-      "website": "https://talos.com",
-      "headquarters": "Remote / Global",
-      "activeJobs": 7,
-      "departmentCount": 6,
-      "remotePercentage": 57,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 28.8,
-        "departmentBreadth": 12,
-        "remoteFlexibility": 5.7,
-        "salaryTransparency": 0,
-        "composite": 46.5
-      },
-      "highlightBadges": [
-        "Multi-Department"
-      ],
-      "summary": "Talos, founded in 2018 in New York by Anton Katz and Ethan Feldman, provides institutional trading infrastructure including order management, portfolio management and request-for-quote connectivity to many exchanges and over-the-counter desks. Its platform centralizes execution, compliance and settlement, serving funds..."
-    },
-    {
-      "rank": 44,
       "slug": "alchemy",
       "name": "Alchemy",
       "category": "Infrastructure & Tooling",
@@ -1059,7 +1036,7 @@
       "summary": "Alchemy, founded in 2017 in San Francisco by Nikil Viswanathan and Joe Lau, Stanford classmates and former teaching assistants, is a leading Web3 developer platform providing node infrastructure, Supernode and Notify APIs. The stack powers many top Ethereum applications and handles significant transaction volume for cu..."
     },
     {
-      "rank": 45,
+      "rank": 44,
       "slug": "ondo-finance",
       "name": "Ondo Finance",
       "category": "DeFi Protocols",
@@ -1080,7 +1057,7 @@
       "summary": "Ondo Finance, founded in 2021 in New York by Nathan Allman, formerly of Goldman Sachs, with co-founder Pinku Surana, leads tokenized Treasuries and yield products including OUSG and USDY, plus development of Ondo Chain for institutional settlement. The platform bridges Wall Street yield to decentralized finance composa..."
     },
     {
-      "rank": 46,
+      "rank": 45,
       "slug": "aspora",
       "name": "Aspora",
       "category": "Fintech & Payments",
@@ -1103,7 +1080,7 @@
       "summary": "Aspora, founded in 2022 and building from hubs in India, the UK, the UAE, Europe and the United States, is a borderless financial platform for people who live and work across countries. Its products combine remittances, multi-currency accounts and card spending with compliance and banking partnerships so diaspora custo..."
     },
     {
-      "rank": 47,
+      "rank": 46,
       "slug": "augustus",
       "name": "Augustus",
       "category": "Fintech & Payments",
@@ -1126,7 +1103,7 @@
       "summary": "Augustus is building a global dollar bank and stablecoin-native financial infrastructure for businesses and institutions that need regulated custody, issuance and treasury rails across borders. The company combines banking partnerships, compliance and on-chain settlement so customers can hold, move and deploy dollar li..."
     },
     {
-      "rank": 48,
+      "rank": 47,
       "slug": "coinflow",
       "name": "Coinflow",
       "category": "Fintech & Payments",
@@ -1149,7 +1126,7 @@
       "summary": "Coinflow, founded in 2022 in Chicago by Daniel Lev and Ben Meeder, provides instant settlement for crypto payments through coinflow.cash, converting card and wallet sales into stablecoins with fast finality and chargeback protection. Built for marketplaces and gaming, its products handle know-your-customer checks, frau..."
     },
     {
-      "rank": 49,
+      "rank": 48,
       "slug": "fireblocks",
       "name": "Fireblocks",
       "category": "Infrastructure & Tooling",
@@ -1172,7 +1149,7 @@
       "summary": "Fireblocks, founded in 2018 in Tel Aviv and New York by Michael Shaulov, provides institutional MPC custody and settlement for 1,800+ institutions securing $6T+ in transfers across 60+ chains. Its network connects exchanges, custodians and banks without single points of failure. Valued at $8B in 2022, Fireblocks is the..."
     },
     {
-      "rank": 50,
+      "rank": 49,
       "slug": "solflare",
       "name": "Solflare",
       "category": "DeFi Protocols",
@@ -1193,7 +1170,7 @@
       "summary": "Solflare, founded in 2021 by Vidor Gencel and Filip Dragoslavic as a community-built Solana wallet, provides a leading non-custodial wallet for Solana and emerging ecosystems. Available as browser extension, mobile and web, it offers staking, swaps, NFT gallery and Ledger support with direct integration to Solana dApps..."
     },
     {
-      "rank": 51,
+      "rank": 50,
       "slug": "infosys",
       "name": "Infosys",
       "category": "Security & Auditing",
@@ -1214,7 +1191,7 @@
       "summary": "Infosys is a global leader in next-generation digital services and consulting. Established in 1981, Infosys enables clients in more than 50 countries to navigate their digital transformation, powering enterprise blockchain solutions, distributed ledger technologies, smart contract security, and Web3 enterprise architec..."
     },
     {
-      "rank": 52,
+      "rank": 51,
       "slug": "consensys",
       "name": "Consensys",
       "category": "Infrastructure & Tooling",
@@ -1240,7 +1217,7 @@
       "summary": "Consensys, founded in 2014 by Joseph Lubin, co-founder of Ethereum, in Brooklyn, builds core infrastructure for the Ethereum ecosystem. Its products include MetaMask, the most widely used self-custody wallet serving millions, Infura, the node and API suite powering most dApps, and Linea, a ZK-rollup for scaling. The co..."
     },
     {
-      "rank": 53,
+      "rank": 52,
       "slug": "hifi",
       "name": "HIFI",
       "category": "Fintech & Payments",
@@ -1265,7 +1242,7 @@
       "summary": "HIFI is a stablecoin infrastructure company building technology for next-generation financial products. Founded in 2022 and headquartered in New York, HIFI provides developer tools and APIs for payments, tokenized money, cards, and capital markets across global institutions.\n\nHIFI builds developer infrastructure and AP..."
     },
     {
-      "rank": 54,
+      "rank": 53,
       "slug": "grvt",
       "name": "GRVT",
       "category": "Trading & Quant",
@@ -1286,6 +1263,29 @@
         "100% Remote"
       ],
       "summary": "GRVT, founded in 2022 by Hong Gyu Yea, Aaron Ong and Matthew Quek in Singapore, develops a hybrid exchange that combines centralized orderbook performance with on-chain settlement and privacy. Its platform, GRVT Exchange, offers spot and perpetuals trading with off-chain matching for low latency and zk-based custody th..."
+    },
+    {
+      "rank": 54,
+      "slug": "talos",
+      "name": "Talos",
+      "category": "Security & Auditing",
+      "website": "https://talos.com",
+      "headquarters": "Remote / Global",
+      "activeJobs": 6,
+      "departmentCount": 5,
+      "remotePercentage": 50,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 27,
+        "departmentBreadth": 10,
+        "remoteFlexibility": 5,
+        "salaryTransparency": 0,
+        "composite": 42
+      },
+      "highlightBadges": [
+        "Multi-Department"
+      ],
+      "summary": "Talos, founded in 2018 in New York by Anton Katz and Ethan Feldman, provides institutional trading infrastructure including order management, portfolio management and request-for-quote connectivity to many exchanges and over-the-counter desks. Its platform centralizes execution, compliance and settlement, serving funds..."
     },
     {
       "rank": 55,
@@ -1357,30 +1357,6 @@
     },
     {
       "rank": 58,
-      "slug": "bitoasis",
-      "name": "BitOasis",
-      "category": "Exchanges & Custody",
-      "website": "https://bitoasis.net",
-      "headquarters": "Dubai, United Arab Emirates",
-      "activeJobs": 5,
-      "departmentCount": 4,
-      "remotePercentage": 0,
-      "salaryTransparencyPct": 100,
-      "salaryBenchmark": "AED 20,000 - 30,000/month",
-      "scores": {
-        "hiringVolume": 24.8,
-        "departmentBreadth": 8,
-        "remoteFlexibility": 0,
-        "salaryTransparency": 10,
-        "composite": 42.8
-      },
-      "highlightBadges": [
-        "Salary Transparency"
-      ],
-      "summary": "BitOasis is the leading cryptocurrency trading platform in the Middle East and North Africa (MENA). Established in 2015, BitOasis enables retail, high-net-worth, and institutional clients to buy, sell, and trade digital assets across local fiat currencies with regulatory licenses from VARA and the Central Bank of Bahra..."
-    },
-    {
-      "rank": 59,
       "slug": "anchorage-digital",
       "name": "Anchorage Digital",
       "category": "Infrastructure & Tooling",
@@ -1404,7 +1380,7 @@
       "summary": "Anchorage Digital, founded in 2017 in San Francisco by Diogo Mónica and Nathan McCauley, is the only federally chartered crypto bank in the United States through Anchorage Digital Bank N.A. regulated by the Office of the Comptroller of the Currency. Its custody uses biometric authentication and threshold cryptography, ..."
     },
     {
-      "rank": 60,
+      "rank": 59,
       "slug": "phantom",
       "name": "Phantom",
       "category": "Exchanges & Custody",
@@ -1428,7 +1404,7 @@
       "summary": "Phantom, founded in 2021 by Brandon Millman, Chris Kalani and Francesco Agosti in San Francisco, builds the leading self-custody wallet for Solana and multichain ecosystems. Originally a Solana-native browser extension, it now supports Ethereum, Polygon and Bitcoin with in-app staking, swaps, NFT management and Ledger ..."
     },
     {
-      "rank": 61,
+      "rank": 60,
       "slug": "bitvavo",
       "name": "Bitvavo",
       "category": "Exchanges & Custody",
@@ -1449,7 +1425,7 @@
       "summary": "Bitvavo, founded in 2018 by Tim Baardse, Jelle de Boer and William Boersma in Amsterdam, operates a leading European crypto exchange and brokerage for retail and high-volume traders. Its platform offers spot trading, staking and custody across a broad range of assets with EUR rails, FIX and REST APIs, and institutional..."
     },
     {
-      "rank": 62,
+      "rank": 61,
       "slug": "complyadvantage",
       "name": "ComplyAdvantage",
       "category": "Security & Auditing",
@@ -1473,7 +1449,7 @@
       "summary": "ComplyAdvantage, founded in 2014 in London by Charles Delingpole, provides artificial intelligence-driven financial crime compliance including transaction monitoring, customer screening and risk rating for banks and fintechs. Its platform covers sanctions, politically exposed persons and adverse media across many langu..."
     },
     {
-      "rank": 63,
+      "rank": 62,
       "slug": "breeze-cash",
       "name": "Breeze Cash",
       "category": "Fintech & Payments",
@@ -1495,7 +1471,7 @@
       "summary": "Breeze Cash, founded in 2022 in Singapore and New York by Peng Du and Millie Yang, formerly of Stripe, builds crypto payment infrastructure for businesses rather than payroll. Operating as Breeze.cash, the platform helps merchants accept card, Apple Pay, Google Pay and stablecoins, acting as merchant of record that han..."
     },
     {
-      "rank": 64,
+      "rank": 63,
       "slug": "nexo",
       "name": "Nexo",
       "category": "Fintech & Payments",
@@ -1516,7 +1492,7 @@
       "summary": "Nexo, founded in 2018 in Zug, Switzerland by Antoni Trenchev and Kosta Kantchev with Kalin Metodiev, operates a leading crypto lending and earn platform serving millions of users in many countries. The platform offers collateralized loans, interest on many assets and the Nexo Card for spending without selling crypto, l..."
     },
     {
-      "rank": 65,
+      "rank": 64,
       "slug": "spiko",
       "name": "Spiko",
       "category": "DeFi Protocols",
@@ -1535,6 +1511,30 @@
       },
       "highlightBadges": [],
       "summary": "Spiko, founded in 2023 in Paris, France, is a regulated European Web3 tokenized treasury protocol issuing AMF-compliant on-chain money market funds on Ethereum, Base, and Solana. Regulated under French and European financial authorities, Spiko bridges traditional sovereign debt with decentralized finance, issuing token..."
+    },
+    {
+      "rank": 65,
+      "slug": "bitoasis",
+      "name": "BitOasis",
+      "category": "Exchanges & Custody",
+      "website": "https://bitoasis.net",
+      "headquarters": "Dubai, United Arab Emirates",
+      "activeJobs": 4,
+      "departmentCount": 4,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 100,
+      "salaryBenchmark": "AED 20,000 - 30,000/month",
+      "scores": {
+        "hiringVolume": 22.3,
+        "departmentBreadth": 8,
+        "remoteFlexibility": 0,
+        "salaryTransparency": 10,
+        "composite": 40.3
+      },
+      "highlightBadges": [
+        "Salary Transparency"
+      ],
+      "summary": "BitOasis is the leading cryptocurrency trading platform in the Middle East and North Africa (MENA). Established in 2015, BitOasis enables retail, high-net-worth, and institutional clients to buy, sell, and trade digital assets across local fiat currencies with regulatory licenses from VARA and the Central Bank of Bahra..."
     },
     {
       "rank": 66,

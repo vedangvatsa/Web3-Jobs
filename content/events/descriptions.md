@@ -4122,30 +4122,6 @@ TOKEN2049's inaugural New York edition brings together crypto founders, investor
 
 Global Startup Ecosystem lists a two-hour blockchain gathering for entrepreneurs, investors and creatives in New York. The venue has not been announced.
 
-<a id="event-dbfb89084979f0d3"></a>
-
-## Web3TV Interview Feature With Singapore Blockchain Week
-
-- Record: `token2049-evt-1wE8LVXclyqhzEW`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-05T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/dd8728yc>
-
-### About the event
-
-Web3TV Interview Feature With Singapore Blockchain Week is scheduled for 5 October 2026 at 09:00 (Asia/Singapore) in Singapore. Hosted by Singapore Blockchain Week (SBW).
-
-Programming moves across stages, beach clubs, workshop spaces, exhibition areas, private rooms, app-based networking, and side events throughout the week :
-
-3.00pm-6.00pm Token2049 Opening Mixer : https://luma.com/bae06r0t?tk=pylhA6
-
-2.00pm-6.00pm Blockchain Impact Singapore : https://luma.com/y6nco425
-
-2.30pm-5.30pm Banking The Agent Economy : https://luma.com/3cvlquah
-
-Registration is listed as free.
-
 <a id="event-5ad574f08336f9c6"></a>
 
 ## 🔴 Time Heist by Zusei.com
@@ -4159,42 +4135,6 @@ Registration is listed as free.
 ### About the event
 
 Time Heist by Zusei.com is scheduled for 5 October 2026 at 13:00 (Asia/Singapore) in Singapore. Hosted by Zusei.
-
-Registration is listed as free.
-
-<a id="event-feaf37042524cd9c"></a>
-
-## AICON 2026
-
-- Record: `token2049-evt-VTlHvWH0ko5KSPb`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-08T02:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/aicon2026>
-
-### About the event
-
-AICON 2026 is scheduled for 8 October 2026 at 10:00 (Asia/Singapore) in Singapore. Hosted by BK HAN, jazephua, James Ong, Jayce Tham, Freelancer Nation.
-
-AI Tech Demos, Keynotes, & Fireside Chats
-
-Smart Living, Food Tech, & Wellness Zones
-
-Registration requires host approval. Registration is listed as free.
-
-<a id="event-076748f1873c53b8"></a>
-
-## AI For Everyone Forum
-
-- Record: `token2049-evt-UB8bUXBPsTedwPi`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-09T02:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ak8p4133>
-
-### About the event
-
-AI For Everyone Forum is scheduled for 9 October 2026 at 10:00 (Asia/Singapore) in Singapore. Hosted by Singapore Innovation Centre.
 
 Registration is listed as free.
 
@@ -4214,40 +4154,6 @@ Formula 1 After Party is scheduled for 9 October 2026 at 15:00 (Asia/Singapore) 
 
 Registration requires host approval. Registration is listed as free.
 
-<a id="event-13d604960d7088f1"></a>
-
-## ONWARD \| Bitbase VIP Yacht Party
-
-- Record: `token2049-evt-cZZxKozsA7fPvL4`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-09T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/79smauv6>
-
-### About the event
-
-ONWARD | Bitbase VIP Yacht Party is scheduled for 9 October 2026 at 16:00 (Asia/Singapore) in Singapore. Hosted by Bitbase.
-
-Exact boarding time and berth details will be shared directly with confirmed guests.
-
-Registration requires host approval. Registration is listed as free.
-
-<a id="event-48d17945056e8b0d"></a>
-
-## The Capital Impact Salon by Preface.AI & A2A Advisory \| SG edition
-
-- Record: `token2049-evt-xUqEbdjnaHsM7uC`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-09T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/pejkoxlm>
-
-### About the event
-
-The Capital Impact Salon by Preface.AI & A2A Advisory | SG edition is scheduled for 9 October 2026 at 16:00 (Asia/Singapore) in Singapore. Hosted by Assia Matsiuk | A2A advisory.
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
 <a id="event-1dd40c1749d99f1c"></a>
 
 ## Crypto VC & Investment Roundtable
@@ -4263,44 +4169,6 @@ Registration requires host approval. The organizer shares the exact location wit
 Crypto VC & Investment Roundtable is scheduled for 9 October 2026 at 17:00 (Asia/Singapore) in Singapore. Hosted by Singularity Finance.
 
 Registration requires host approval. Registration is listed as free.
-
-<a id="event-96f54a8fed44d0b0"></a>
-
-## Superyacht x F1
-
-- Record: `token2049-evt-6cJd1z0zX5Bs3zz`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-09T09:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/9mnsjr5r>
-
-### About the event
-
-Superyacht x F1 is scheduled for 9 October 2026 at 17:30 (Asia/Singapore) in Singapore. Hosted by Luchen Capital, Ting Wang.
-
-The bar doesn't close, dinner is served on the aft deck, and the skyline does the rest.
-
-Written confirmation from the host is required to board the vessel.
-
-Dress code smart casual / cocktail.
-
-Registration requires host approval. Registration is listed as free.
-
-<a id="event-2a4e506ed12aceff"></a>
-
-## United Digital Economies - SG Convivium 2026
-
-- Record: `token2049-evt-x7cGCJyum5mjL1i`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-09T10:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/7xebdeja>
-
-### About the event
-
-United Digital Economies - SG Convivium 2026 is scheduled for 9 October 2026 at 18:00 (Asia/Singapore) in Singapore. Hosted by ACCESS Blockchain Malaysia, ACCESS Secretariat, UDECO.
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
 
 <a id="event-15e0b86e41117ea2"></a>
 
@@ -10672,84 +10540,6 @@ The organizer's timeline lists a September 16 kickoff and an October 16 submissi
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
-<a id="event-d0bc0783abc27674"></a>
-
-## Arts DAO Traveling Tribe - Singapore Edition \| TOKEN2049
-
-- Record: `luma-crypto-C7HgzUqyCNyMBPO`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-10-06T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/arts-67um>
-
-### About the event
-
-Arts DAO Traveling Tribe - Singapore Edition | TOKEN2049
-
-These conferences can get soulless, so we love bringing everyone together for a rather wholesome experience.
-
-THIS IS OPEN TO MEMBERS AND NON MEMBERS
-
-We picked a hotel that is surrounded by great restaurants, cafés, bars, and places to explore late into the evening.
-
-(We all know this is not easy as everything shuts early)
-
-It is also conveniently located close to the TOKEN2049 venue
-
-Your Traveling Tribe experience includes:
-
-* 3-night stay from 6-9 October
-* Upgraded Premier Loft room
-* Daily breakfast
-* Arts DAO community experience and networking with fellow members
-* Easy access to TOKEN2049 and the surrounding Web3 ecosystem
-
-Kindly note : Check in and Checkout is at 3pm and 11am respectively.
-
-If you would like to become a member, application details are towards the end.
-
-_______________________________________________________
-
-Arts DAO is delighted to welcome you to another edition of our Traveling Tribe - this time, we're heading to Singapore for TOKEN2049.
-
-Over the past five years, our community has traveled together across the world - from Colombia and Lebanon to Abu Dhabi, London, the US, Lisbon, Singapore, and beyond - joining some of the most exciting Web3, blockchain, crypto, and technology events along the way.
-
-Traveling Tribe is about more than simply attending an event. It's about experiencing it together: staying in the same place, discovering a new city, meeting incredible people, sharing experiences, and building the meaningful connections that have always been at the heart of Arts DAO.
-
-Please note that flights are not included in the Traveling Tribe package. Your registration covers the hotel stay and the curated Arts DAO activations taking place around the trip.
-
-Whether you've traveled with Arts DAO before or this will be your first Traveling Tribe, this is an opportunity to experience Singapore together with a highly curated group of founders, investors, executives, creators, and innovators from our community.
-
-Spaces are intentionally limited, and we have secured only a limited number of discounted rooms for the Arts DAO community. We therefore encourage you to secure your spot early.
-
-Registrations are open until 12 September 2026, subject to availability. As the number of discounted rooms is limited, registration may close earlier if all available rooms are secured.
-
-### Arts DAO members receive a special members-only rate, significantly below the public price
-
-Not an Arts DAO member yet? You're still welcome to apply to join the Traveling Tribe at a special discounted rate if you use
-
-code : 1896A7D3
-
-https://www.artsdao.io/membership
-
-Non-members will need to complete a short application and answer a few additional questions as part of our approval process. Once approved, you'll be able to secure your place at the non-member rate. Please note that the special Arts DAO member discount and member benefits are reserved exclusively for approved Arts DAO members.
-
-We can't wait to explore Singapore, experience TOKEN2049 together, and create another memorable chapter of the Arts DAO Traveling Tribe.
-
-### About ArtsDAO
-
-ArtsDAO is a curated, application-based private members club headquartered in Dubai, bringing together founders, investors, executives, creators, and innovators shaping the future of technology, AI, Web3, venture capital, and digital innovation.
-
-[Learn more or apply for membership at artsdao.io](https://artsdao.io)
-
-Photography & Videography Notice
-
-Photography and videography may take place during this event. By attending, you consent to ArtsDAO capturing and using photographs and video recordings that may appear across our website, social media channels, marketing materials, and future promotional campaigns.
-
-Refund Policy
-
-Once your registration has been approved and payment has been processed, tickets are non-refundable (can be transferred to another person until 25th of Sep, unless the event is cancelled by Arts DAO
-
 <a id="event-23b279a07a398ddc"></a>
 
 ## Company Brain Hackathon: Build an AI Agent That Knows Your Organization
@@ -15867,54 +15657,6 @@ Speakers dinner - Raffles Hotel, October 6 VIP room (SOLD OUT) experience with H
 
 If you are planning your week around the best rooms, best people, and best after-hours plans, this is where it begins.
 
-<a id="event-0f188af5a994e18b"></a>
-
-## Network State Conference: Singapore Oct 9, 2026
-
-- Record: `luma-batch-evtYmTGHFb7GGjrc`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-09T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ns2026>
-
-### About the event
-
-Democracy is about the consent of the governed. In the Internet age, that now means voting not just with your ballot, but your feet. So: if you're one of the democratic capitalists of the Internet, come vote with your feet for new communities by joining us at this year's Network State Conference in Singapore on October 9. In more detail, our conference is for those interested in founding, funding, and finding startup societies and network states. This year's speakers include Ethereum founder Vitalik Buterin, Polychain founder Olaf Carlson-Wee, Floodgate founder Mike Maples, Binance CEO Richard Teng, and Deputy Prime Minister of Kazakhstan Zhaslan Madiyev.
-
-As a cornerstone of financial privacy, Zcash has consistently been featured at the Network State Conference. This year's events will expand on that coverage, beginning with a Zcash Zummit, with speakers including Zcash cofounder Zooko Wilcox, Zcash cofounder Sean Bowe of Tachyon, Zodl founder Josh Swihart, Vizor founder Josh Lee, Zakura cofounder Dev Ojha, Valar Group's Evan Forbes, Winklevoss Capital's Maxime Desalle, and Zcash Labs' Tom Howard. The full conference includes talks on startup societies, network states, digital nomadism, competitive government, legalizing innovation, and internet-first institutions.
-
-You'll watch presentations by startup society founders from around the world, explore them, and find the community that best fits you. Held in sunny Singapore on October 9, 2026, right after Token2049, at level 5 of the Marina Bay Sands Expo and Convention Centre. In-person tickets are only $99 and remote attendance is free. We look forward to seeing you there!
-
-<a id="event-273c910ff211b623"></a>
-
-## 💻 Coworking Fridays Istanbul — SuperteamTR
-
-- Record: `luma-batch-vLu55Cr9n9hVL9l`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-09T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/xmhmmh6v>
-
-### About the event
-
-Free coworking in Istanbul, every Friday.
-
-Come work with us, meet other founders and builders, get feedback on what you're building, or just spend the day around people shipping.
-
-Whether you're already building on Solana or simply curious about the ecosystem, you're welcome.
-
-### What to expect
-
-→ Free coworking→ Superteam Türkiye team on-site→ Founder & builder community→ Feedback, intros, and ecosystem support→ Coffee, conversations, and heads-down building
-
-Open to founders, developers, designers, creators, students - basically anyone building something.
-
-You don't need to be a Superteam member to join.
-
-Bring your laptop. See you Friday.
-
-By signing up, you agree that Superteam Türkiye may take and share photos and videos of you from the event.
-
 <a id="event-18fa2ed8d5d8a392"></a>
 
 ## Co-Working Fridays : London Chapter
@@ -16014,46 +15756,6 @@ Networking พบปะพูดคุย
 20:50 น. | Q&A
 
 21:10 น. | Networking Session
-
-<a id="event-413113d8d3a9de3b"></a>
-
-## 論考「ビットコインこそが最強の貨幣である」ゲンロン冊子掲載記念トークイベント @Tokyo Bitcoin Base
-
-- Record: `luma-batch-O4axDZsaJkpWCSj`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-09T11:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/osblc3d0>
-
-### About the event
-
-このたび、ゲンロンの冊子に小山内雄人さんの論考「ビットコインこそが最強の貨幣である」が掲載されました。本イベントは、その掲載を記念して Tokyo Bitcoin Base で開催するトーク&交流イベントです。
-
-「暗号資産とはなにか」という基本から説き起こし、ビットコインを単なる投機対象としてではなく、私有財産を守り、政府を牽制し、自由主義の理念を取り戻すための「最強の貨幣」として論じる - - 本論考はそんな挑戦的な試みです。「ハードマネーはイージーマネーを駆逐する」「法定通貨は妥協の産物である」といった刺激的なテーゼを軸に、貨幣・国家・自由の関係を根本から問い直します。
-
-前半は、論考著者である小山内雄人さんによるプレゼンテーション。論考のエッセンスを本人の言葉で語ります。続くトークセッションでは、Tokyo Bitcoin Base スタッフを加えて内容をさらに深掘り。なぜ法定通貨ではなくビットコインなのか。ビットコインは国家と個人の関係をどう変えうるのか。そして私たちは、ビットコインをどう「真剣に受け止める」べきなのか。ビットコインと思想・批評が交差する一夜をお届けします。
-
-終盤にはゲンロンの活動紹介パートも。イベント終了後はそのまま懇親会を予定していますので、登壇者や参加者同士でゆっくり交流いただけます。ビットコイナーはもちろん、貨幣論・政治思想・批評に関心のある方のご参加も大歓迎です。
-
-■ 論考「ビットコインこそが最強の貨幣である」章立て
-
-暗号資産とはなにか
-
-ビットコインは私有財産を守る
-
-自由主義の理念を取り戻す
-
-政府を牽制する
-
-ハードマネーはイージーマネーを駆逐する
-
-法定通貨は妥協の産物である
-
-ビットコインを真剣に受け止めるために※論考掲載冊子入手はゲンロン友の会のリンクより（詳細はイベント当日に）https://shop.genron.co.jp/pages/tmnk
-
-■ 開催概要日時:2026年10月9日(金)20:00〜22:00会場:Tokyo Bitcoin Base(JR・東京メトロ「四ツ谷」駅 最寄り)参加費: 無料■ タイムテーブル20:00〜20:15 小山内雄人さんプレゼンテーション20:15〜21:15 トークセッション(聞き手 TBBスタッフ )21:15〜21:30 ゲンロンのご紹介(ゲンロン社員 takeuchiさん)21:30〜 懇親会
-
-■ 登壇者小山内雄人 : ITエンジニア
 
 <a id="event-c63bd2dc46a5d1a8"></a>
 
@@ -21139,18 +20841,6 @@ _________________
 
 Trading Battles is the infrastructure layer for 24/7 competitive trading, transforming trading into a new category of esports.
 
-<a id="event-431d6895dabd2ee2"></a>
-
-## Arts DAO Traveling Tribe - Singapore Edition \| TOKEN2049
-
-- Record: `luma-host-evt-evt-C7HgzUqyCNyMBPO`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-06T08:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/arts-67um>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-0cc1f7c623ff80b3"></a>
 
 ## Lagos Blockchain Week 2026
@@ -21172,18 +20862,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-06T10:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/StplBuildStation>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-24cf5d64f76d20a6"></a>
-
-## AICON 2026
-
-- Record: `luma-host-evt-evt-VTlHvWH0ko5KSPb`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-08T02:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/aicon2026>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -21224,84 +20902,6 @@ No forced networking.
 Just a carefully curated group, great hospitality, good music, and the kind of conversations that are difficult to have in a crowded conference venue.
 
 Attendance is limited and subject to approval. Registering through Luma does not automatically guarantee entry. Approved guests will receive the final confirmation and boarding details directly.
-
-<a id="event-eb435b8eb1449910"></a>
-
-## Founder x VC Summit \| Day 2 - Happy Hour 🇸🇬
-
-- Record: `token2049-side-6a6a54add1b48ddf39d0929d`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T10:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/4lzbeit3>
-
-### About the event
-
-Founder × VC Summit: The Institutional Capital Era
-
-Day 2 - Happy Hour - Token2049 week - Oct 9 - Singapore 🇸🇬
-
-[Website: backersstage.com/founder-x-vc-summit](https://backersstage.com/founder-x-vc-summit)
-
-Some of the best rounds close over a drink, once the pitching's done and people finally talk like people.
-
-That's Day 2. (Pure Networking, w/ no Agenda)
-
-> Dress code: Business Formal, Cocktail for the evening.
-
-[Join the Circle: t.me/backersstage](https://t.me/backersstage)
-
-Day 1 Speakers.
-
-FOUNDER × VC SUMMIT has a limited number of partnership slots, co-host, stage & panel time, exhibition booth, and onsite branding etc. Kept intentionally small, and a few are already moving.
-
-To explore [a slot, reach out by email at: atharv@backersstage.com](https://mailto:atharv@backersstage.com/?utm_source=luma)
-
-via tg (@[theatharvshrivastava](https://t.me/theatharvshrivastava?utm_source=luma) / @[adityamahajan16](https://t.me/adityamahajan16?utm_source=luma))
-
-### [Hosted by BackersStage]
-
-https://www.backersstage.com
-
-Curated founder-investor rooms across global markets. The AI × Web3 Edition tracks where AI capital moves over the next five years, and who captures it.
-
-### Cohosted by Amazon Web Services (AWS)
-
-http://aws.amazon.com/
-
-AWS empowers developers and enterprises to build and scale secure, decentralized applications leveraging blockchain and other Web3 technologies. With world-class cloud infrastructure, advanced data and analytics tools, and strong startup support, AWS accelerates the global adoption and innovation of Web3 solutions.
-
-TG: https://t.me/+InM-q-BINpkzZGI1
-
-### Previous Experiences
-
-etc.
-
-<a id="event-b7a7df7bc4228892"></a>
-
-## Proof Of Liquidity: VIP Dinner by Yield Network, Ink Chain, RockawayX, and Nexus Mutual
-
-- Record: `w3v-proof-of-liquidity-vip-dinner-by-yield-network-ink-chain-rockawayx-and-nexus-mutual`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T11:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/kh3uenfj>
-
-### About the event
-
-Proof Of Liquidity: Private Dinner
-
-Private dinner for a limited group of participants from Proof of Liquidity.
-
-Hosted to connect the supply side (Allocators, Treasuries) and the demand side (L2s, RWAs, Protocols) in a highly curated circle during TOKEN2049.
-
-Format: seated dinner at a 5-star restaurant in Singapore.Size: 30 guests.Focus: curated introductions and senior-level networking.
-
-No media. No public access.
-
-### Event details
-
-Hosted by Yield Network, Ink Foundation, RockawayX, Nexus Mutual (Nexus Mutual). Venue: Singapore. The event takes place on October 9. Registration requires organizer approval.
 
 <a id="event-a1b8210aedd52322"></a>
 
@@ -21558,154 +21158,6 @@ Guests must comply with the venue's age, identification, alcohol, safety and oth
 
 Blockchain and digital-asset activities involve risk. Nothing at this event constitutes financial, investment, legal or tax advice.
 
-<a id="event-68cc2b79dc0b527b"></a>
-
-## The Institutional Table: Private Dinner on Tokenization, Stablecoins and Security \| Token2049 Singapore
-
-- Record: `luma-host-evt-evt-aH8VyN00nD94ywu`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T11:30:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/quilla-00kv>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-d75b94a1805d9fc5"></a>
-
-## The Institutional Table: Private Dinner on Tokenization, Stablecoins and Security \| Token2049 Singapore
-
-- Record: `token2049-side-6a9a8659d567345aad6839ac`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T11:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/quilla-00kv>
-
-### About the event
-
-21 seats. One table. No panel, no pitch deck.
-
-The Institutional Table is a private, invite-only dinner hosted by QuillAudits on the closing night of Token2049 Singapore. Banks, asset managers, funds, exchanges, custodians, tokenization platforms and stablecoin issuers, in one room, talking about what it actually takes to put regulated assets on public chains without getting burned.
-
-What we will talk about
-
-Tokenization at scale: what breaks when a fund, bond or money market structure moves on-chain. ERC-3643, ERC-4626 vaults, NAV oracles, transfer restrictions and the compliance layer around them. Lessons from Project Guardian pilots going to production.
-
-Stablecoins as payment rails: MAS-regulated issuance, reserve attestations, mint and burn controls, blacklist and freeze functions, and where issuers have been exploited.
-
-The institutional security bar: what a board, a regulator and a counterparty should be able to ask for before capital moves. Audits, formal verification, monitoring, key management, incident response.
-
-What went wrong in 2026: a closed-door walk through the year's institutional-grade incidents, and what each one should have caught earlier.
-
-### Format
-
-Seated dinner for 21. Short opening from QuillAudits, then moderated conversation under Chatham House rules. No recording, no press, no slides.
-
-Who is at the table
-
-Heads of digital assets, treasury and product at banks and asset managers. Founders and CxOs of tokenization platforms and stablecoin issuers. Fund partners with RWA and stablecoin exposure. Regulators and policy leads by invitation.
-
-Seats are confirmed personally. Registering here is a request, not a confirmation. Venue in the Marina Bay area, shared with confirmed guests.
-
-### About QuillAudits
-
-8+ years securing Web3. 1,500+ audits, 1M+ lines reviewed. 20+ RWA and tokenization protocols audited including Plume, Lumia, Pharos and Zoth. Full lifecycle security: AI and human audits, formal verification, OpSec, multisig review and monitoring.
-
-<a id="event-9de4b5c7dd65913d"></a>
-
-## Chinese Night: AI & Token Era for Chinese Founders Going Global
-
-- Record: `token2049-side-6aa3a7bdd567345aad685d8d`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T11:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/token2026>
-
-### About the event
-
-Chinese Night: AI & Token Era for Chinese Founders Going Global 华语之夜：AI 与 Token 时代的华人出海局
-
-About the Event｜活动介绍
-
-TOKEN2049 just wrapped up and F1 is already underway. We're setting aside a night in Singapore for Chinese-speaking founders.
-
-TOKEN2049 刚刚散场，F1 已经发车，我们在新加坡留出一个属于华人创业者的夜晚。
-
-This isn't another conference - it's an intimate gathering where we talk about real changes in Mandarin.
-
-这不是另一场大会，而是一次用普通话聊真实变化的相聚。
-
-One Token, Two Eras
-
-一个 Token，两种时代
-
-In Web3, a Token is part of the value network. In AI, a token is the fundamental unit of language and intelligence. Two waves converge here, and F1 symbolizes speed - building a startup is a global race. Come have a drink and discuss the next global race in Chinese.
-
-在 Web3 世界里，Token 是价值网络的一部分；在 AI 世界里，token 是语言和智能的基本单位。两种浪潮在此交汇，而 F1 是速度的象征 - - 创业，就是一场全球竞速。来喝一杯，用华语聊聊下一场全球竞速。
-
-Event Info｜活动信息
-
-Date: Friday, October 9, 2026
-
-日期：2026 年 10 月 9 日（星期五）
-
-Time: 19:30-22:00, registration from 18:30 (Singapore Time GMT+8)
-
-时间：19:30-22:00，18:30 开始签到（新加坡时间 GMT+8）
-
-Venue: Google Office Singapore, exact address shared upon approval
-
-地点：新加坡 Google Office，具体地址审核通过后通知
-
-Language: Mandarin Chinese throughout
-
-语言：全程中文普通话
-
-Who Should Attend｜适合谁参加
-
-AI and Web3 founding teams, global operators, investors, and ecosystem partners. Bring the resources you're looking for and the help you can offer to build genuine connections with peers.
-
-AI 和 Web3 创始团队、全球化从业者、投资人和生态伙伴。带着你正在寻找的资源和能提供的帮助，与同行建立真实连接。
-
-Agenda｜当晚议程
-
-19:30-19:35 Opening Remarks - Jason Liang, General Manager, Master Concept
-
-19:30-19:35 开场致辞 - Jason Liang，Master Concept 总经理
-
-19:35-19:50 Keynote: AI-Native Startup Infrastructure - From Gemini to Global Deployment - Guozhu Zheng, Senior Customer Engineer, Google Cloud
-
-19:35-19:50 AI 原生的初创基建：从 Gemini 到全球部署 - Guozhu Zheng，Google Cloud 资深客户工程师
-
-19:50-20:05 Keynote: One Google Solutions in Practice - From Cutting-Edge Tech to Global Commercialization - James Zhang, Senior Google Cloud Architect, Master Concept
-
-19:50-20:05 One Google 方案落地：从前沿技术到全球化商业变现 - James Zhang，Master Concept 资深谷歌云架构师
-
-20:05-20:35 Panel: Next Stop Global: Chinese Founders in the AI & Token Era - Host: Wu Wei, CEO, Unique Research; More distinguished guests to be announced...
-
-20:05-20:35 【巅峰圆桌】下一站全球：华人创业者的 AI 与 Token 时代 - 主持人：吴畏，Unique Research，CEO；更多神秘大咖，敬请期待...
-
-20:35-22:00 Refreshments & Free Networking
-
-20:35-22:00 精美茶歇，自由社交
-
-Lucky Draw prizes: Master Concept Custom Edition & Latest Plaud Note Pro. Final on-site arrangements prevail.
-
-惊喜抽奖：思想科技 Master Concept 定制版、最新款 Plaud Note Pro。最终现场安排为准。
-
-Registration｜报名须知
-
-Free admission with application review. We prioritize founder background, international orientation, and relevance to the event theme. Upon approval, organizers will send a formal confirmation email within 1-2 business days with the exact address and event details.
-
-免费申请，采用审核制。审核重点为 Founder 背景、国际化属性及与活动主题的相关性。审核通过后，主办方将在 1-2 个工作日内发送正式入场指引邮件，包含具体地址和活动须知。
-
-https://luma.com/token2026
-
-Organizers｜主办
-
-Google Cloud × Master Concept × Unique Research
-
-Google Cloud × Master Concept（思想科技）× 非凡产研（Unique Research）
-
 <a id="event-cc8b1833e1426ad2"></a>
 
 ## The Best Event: F1 Sprint Qualifying with ASI
@@ -21787,35 +21239,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Original page: <https://luma.com/vbow207k>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-7c492ebc8ae7ee25"></a>
-
-## F1 Practice and Sprint Qualifying
-
-- Record: `token2049-side-6a739bc8d1b48ddf39d09e32`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-09T16:30:00+08:00
-- Description: Source-backed
-- Original page: <https://singaporegp.sg/en>
-- Original page: <https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE>
-
-### About the event
-
-Friday's Formula 1 program at the 2026 Singapore Grand Prix includes the first practice session and Sprint Qualifying at the Marina Bay Street Circuit.
-
-### Friday, 9 October
-
-The track program runs on local Singapore time, eight hours ahead of UTC: Porsche Carrera Cup Asia practice at 14:05-14:50, the Formula 1 car presentation at 15:00-16:00, the first practice session at 16:30-17:30, the teams' press conference at 18:30-19:30, and Sprint Qualifying at 20:30-21:14. The Porsche Carrera Cup Asia support series shares the Friday program with its practice session.
-
-### Circuit
-
-The race takes place over 62 laps of the 4.927-kilometre Marina Bay Street Circuit. The official timetable is subject to change.
-
-The Marina Bay Circuit arrived on the scene in 2008 with the city skyline as its backdrop, hosting the first night-time race in Formula 1 history. After a 2023 layout change the lap runs 19 corners over 4.927 kilometres, and the bumpy street surface plus humidity make it one of the most physically demanding races on the calendar.
-
-### Following the weekend
-
-The sessions can be followed live on F1 TV, with tickets and hospitality packages available through Formula 1 official channels.
 
 <a id="event-7a471a93c94b596d"></a>
 

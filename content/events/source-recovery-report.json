@@ -26,26 +26,6 @@
       ]
     },
     {
-      "id": "token2049-side-6a739bc8d1b48ddf39d09e32",
-      "outcome": "recovered",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
-      "reason": "Replaced the generic circuit homepage and incorrect daytime hours with Formula 1's session-specific official timetable.",
-      "fetchedAt": "2026-09-20T07:56:58.376Z",
-      "characters": 405,
-      "changes": [
-        "description",
-        "descriptionSource",
-        "website",
-        "registrationUrl",
-        "startDate",
-        "endDate",
-        "timezone",
-        "location",
-        "venueName",
-        "slug"
-      ]
-    },
-    {
       "id": "token2049-side-6a739c525a75007b4100108c",
       "outcome": "recovered",
       "sourceUrl": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",

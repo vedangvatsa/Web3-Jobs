@@ -1,42 +1,42 @@
 [
   {
-    "slug": "cantonstock",
-    "title": "Canton Strategic Completes First Issuer-Sponsored Tokenized Stock Trades Under SEC Exemption",
-    "description": "Canton Strategic Holdings said on Nov. 4 that Five North, DRW Cumberland and Flowdesk completed the first trades of issuer-sponsored tokenized CNTN shares on TSV under the SEC's Innovation Exemption.",
+    "slug": "bankchecks",
+    "title": "Fed and OCC Contact Banks About Unusual Activity After the Binance Hack",
+    "description": "Federal Reserve and OCC officials contacted banks on Nov. 2 to ask about unusual activity or service disruptions following Binance's $6.34 billion security incident, Reuters reported.",
     "category": "News",
-    "publishedDate": "2026-11-07",
-    "image": "/images/news/cantonstock.jpg"
+    "publishedDate": "2026-11-08",
+    "image": "/images/news/bankchecks.jpg"
   },
   {
-    "slug": "mexcorder",
-    "title": "Treasury orders US banks to stop transfers to MEXC over $16 billion in illicit transactions",
-    "description": "FinCEN barred US financial institutions from processing transfers involving MEXC Global, accusing the exchange of moving at least $16 billion linked to sanctions evasion and cybercrime.",
+    "slug": "carf",
+    "title": "Hong Kong Lawmakers Pass Crypto Tax Reporting Bill for 2027 Collection",
+    "description": "Hong Kong's Legislative Council passed a bill on Nov. 4 putting the OECD Crypto-Asset Reporting Framework into local law, with service providers collecting user data from 2027 and exchanges starting in 2028.",
     "category": "News",
-    "publishedDate": "2026-11-07",
-    "image": "/images/news/mexcorder.jpg"
+    "publishedDate": "2026-11-08",
+    "image": "/images/news/carf.jpg"
   },
   {
-    "slug": "xrplaunder",
-    "title": "Hackers Swap About $50 Million of Stolen XRP Into Bitcoin, Elliptic Says",
-    "description": "Elliptic said hackers tied to the Binance theft swapped about 42 million XRP, worth roughly $50 million, into bitcoin through THORChain, with about 192 million XRP still unmoved.",
+    "slug": "dcmaccess",
+    "title": "CFTC gives futures exchanges 30 days to drop domestic geographic restrictions",
+    "description": "The Commodity Futures Trading Commission said federally registered futures exchanges must stop restricting traders by their US location within 30 days or explain to the Division of Market Oversight why compliance is not feasible.",
     "category": "News",
-    "publishedDate": "2026-11-07",
-    "image": "/images/news/xrplaunder.jpg"
+    "publishedDate": "2026-11-08",
+    "image": "/images/news/dcmaccess.jpg"
   },
   {
-    "slug": "yaroch",
-    "title": "Former FBI agent pleads guilty to stealing $2.47 million in crypto from bureau cases",
-    "description": "Patrick Steven Yaroch admitted to wire fraud and money laundering after using credentials collected in 35 FBI investigations to move about $2.47 million into wallets he controlled.",
+    "slug": "frenchhill",
+    "title": "French Hill Wins Reelection but Is Set to Lose House Financial Services Chair",
+    "description": "Republican French Hill won reelection in Arkansas' 2nd District and is expected to lose the House Financial Services Committee chairmanship when Democrats take control in January.",
     "category": "News",
-    "publishedDate": "2026-11-07",
-    "image": "/images/news/yaroch.jpg"
+    "publishedDate": "2026-11-08",
+    "image": "/images/news/frenchhill.jpg"
   },
   {
-    "slug": "aztectierra",
-    "title": "Aztec Launches Tierra Upgrade, Patching Critical Flaw in Privacy Network",
-    "description": "Aztec's Tierra upgrade fixes a critical V5 proving flaw, adds formal verification of its cryptography and cuts Ethereum-to-Aztec message delivery from two minutes to as little as 12 seconds.",
+    "slug": "nbubill",
+    "title": "Ukraine Central Bank Opposes Crypto Bill Cleared for Second Reading",
+    "description": "Ukraine's National Bank said on Nov. 4 it cannot support Draft Law No. 10225-d on virtual assets in its current form, objecting to foreign token access and operator licensing terms after a Rada committee cleared the bill for a final vote.",
     "category": "News",
-    "publishedDate": "2026-11-06",
-    "image": "/images/news/aztectierra.jpg"
+    "publishedDate": "2026-11-08",
+    "image": "/images/news/nbubill.jpg"
   }
 ]

@@ -1,6 +1,6 @@
 ---
 name: Codex
-website: 'https://www.usecodex.com'
+website: 'https://codex.xyz'
 category: Crypto Payments
 headquarters: San Francisco, California, USA
 description: >-

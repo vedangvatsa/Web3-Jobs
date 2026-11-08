@@ -154731,5 +154731,41 @@
     "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8266897",
     "company": "Flow Traders",
     "title": "PhD Graduate Quantitative Researcher"
+  },
+  "eng500": {
+    "id": "081e2fca-f1cf-4da0-abf1-45f15c5b63e7",
+    "link": "https://jobs.ashbyhq.com/kraken.com/081e2fca-f1cf-4da0-abf1-45f15c5b63e7",
+    "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+    "company": "Kraken"
+  },
+  "eng499": {
+    "id": "482dd459-50ae-4d16-aa69-18bc4f93fed8",
+    "link": "https://jobs.ashbyhq.com/kraken.com/482dd459-50ae-4d16-aa69-18bc4f93fed8",
+    "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+    "company": "Kraken"
+  },
+  "sls260": {
+    "id": "df6c8c7a-e8ee-4a40-9161-c15e5ff5a236",
+    "link": "https://jobs.ashbyhq.com/Talos-Trading/df6c8c7a-e8ee-4a40-9161-c15e5ff5a236",
+    "title": "Sales Director, p(X)",
+    "company": "Talos"
+  },
+  "sls259": {
+    "id": "85e8e4cf-5eba-4f71-a47f-4a3c7ec626d4",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/85e8e4cf-5eba-4f71-a47f-4a3c7ec626d4",
+    "title": "Head of Sales Enablement",
+    "company": "Chainalysis"
+  },
+  "pm269": {
+    "id": "5000663101",
+    "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5000663101",
+    "title": "Senior Legal Counsel - Product & Commercial",
+    "company": "BVNK"
+  },
+  "eng498": {
+    "id": "5001599101",
+    "link": "https://job-boards.eu.greenhouse.io/bcbgroup/jobs/5001599101",
+    "title": "Analytics Engineer",
+    "company": "BCB Group"
   }
 }
