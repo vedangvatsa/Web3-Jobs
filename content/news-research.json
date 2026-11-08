@@ -143069,11 +143069,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "5b5a1d7fd2e7ece04001",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-08T12:39:36.000Z",
-      "lastSeenAt": "2026-11-06T00:28:20.054Z"
+      "lastSeenAt": "2026-11-06T00:28:20.054Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Cointelegraph interview with Scaramucci at SALT London. Every other item found (Binance Square, LCX, KuCoin, TradingView) syndicates the same Cointelegraph piece, so no independent second site corroborates the remarks. Needs an original report from another outlet or a primary recording/post of the interview.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/scaramucci-trump-memecoins-clarity-act-failure",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-08T11:30:38.008Z",
+      "retrySearches": [
+        "Find independent non-Cointelegraph reporting of Anthony Scaramucci's SALT London remarks blaming Trump memecoins for the CLARITY Act failure, or a primary video/post of the interview"
+      ],
+      "lastReviewedDay": "2026-11-08",
+      "nextReviewDate": "2026-11-09"
     },
     "0e89d17b2e722353584e": {
       "source": "CoinDesk",
@@ -143090,11 +143104,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "0e89d17b2e722353584e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-08T10:44:54.000Z",
-      "lastSeenAt": "2026-11-06T00:28:20.054Z"
+      "lastSeenAt": "2026-11-06T00:28:20.054Z",
+      "reason": "duplicate",
+      "note": "Read the Bitquery on-chain investigation. The core claim, that draining continued for hours after the exchange said the attack was contained, is already covered in content/articles/mercadobitcoin.md. CoinDesk returned HTTP 429 and could not be opened; Incrypted coverage surfaced in search but the duplicate determination rests on the Bitquery primary report versus the existing article.",
+      "sourceChecks": [
+        {
+          "url": "https://bitquery.io/investigations/mercado-bitcoin-hack",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-08T11:30:38.008Z",
+      "duplicateOf": "mercadobitcoin",
+      "lastReviewedDay": "2026-11-08"
     },
     "777906595fa36bba5479": {
       "source": "CoinJournal",
@@ -147570,11 +147599,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "6130637de6184fc372a7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-09T21:09:09.000Z",
-      "lastSeenAt": "2026-11-07T03:31:47.358Z"
+      "lastSeenAt": "2026-11-07T03:31:47.358Z",
+      "reason": "out-of-scope",
+      "note": "Read the Crypto Briefing write-up of the UC Berkeley fine-tuning privacy study. The story is AI research with no Web3, crypto or digital-asset angle, so it does not belong on this site.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/uc-berkeley-ai-fine-tuning-privacy-collapse/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-08T11:30:38.008Z",
+      "lastReviewedDay": "2026-11-08"
     },
     "df45bf895df3a31b17d2": {
       "source": "Crypto Briefing",
@@ -147591,11 +147630,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "df45bf895df3a31b17d2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-09T20:47:30.000Z",
-      "lastSeenAt": "2026-11-07T03:31:47.358Z"
+      "lastSeenAt": "2026-11-07T03:31:47.358Z",
+      "reason": "price-chatter",
+      "note": "Read the Crypto Briefing summary of the weekly CFTC Commitments of Traders report. It is routine positioning data on Treasury and equity futures plus a modest Bitcoin futures net long, with no concrete event such as a launch, vote, ruling or filing.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/cftc-cot-report-5-year-treasury-shorts-bitcoin/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-08T11:30:38.008Z",
+      "lastReviewedDay": "2026-11-08"
     },
     "bbd6e3f26c0842e8fae5": {
       "source": "Crypto Briefing",
@@ -283260,6 +283309,62 @@
             }
           ],
           "reviewedAt": "2026-11-08T11:23:28.748Z"
+        },
+        "0e89d17b2e722353584e": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Read the Bitquery on-chain investigation. The core claim, that draining continued for hours after the exchange said the attack was contained, is already covered in content/articles/mercadobitcoin.md. CoinDesk returned HTTP 429 and could not be opened; Incrypted coverage surfaced in search but the duplicate determination rests on the Bitquery primary report versus the existing article.",
+          "sourceChecks": [
+            {
+              "url": "https://bitquery.io/investigations/mercado-bitcoin-hack",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-08T11:30:38.008Z",
+          "duplicateOf": "mercadobitcoin"
+        },
+        "5b5a1d7fd2e7ece04001": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph interview with Scaramucci at SALT London. Every other item found (Binance Square, LCX, KuCoin, TradingView) syndicates the same Cointelegraph piece, so no independent second site corroborates the remarks. Needs an original report from another outlet or a primary recording/post of the interview.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/scaramucci-trump-memecoins-clarity-act-failure",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-08T11:30:38.008Z",
+          "retrySearches": [
+            "Find independent non-Cointelegraph reporting of Anthony Scaramucci's SALT London remarks blaming Trump memecoins for the CLARITY Act failure, or a primary video/post of the interview"
+          ]
+        },
+        "6130637de6184fc372a7": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Crypto Briefing write-up of the UC Berkeley fine-tuning privacy study. The story is AI research with no Web3, crypto or digital-asset angle, so it does not belong on this site.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/uc-berkeley-ai-fine-tuning-privacy-collapse/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-08T11:30:38.008Z"
+        },
+        "df45bf895df3a31b17d2": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read the Crypto Briefing summary of the weekly CFTC Commitments of Traders report. It is routine positioning data on Treasury and equity futures plus a modest Bitcoin futures net long, with no concrete event such as a launch, vote, ruling or filing.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/cftc-cot-report-5-year-treasury-shorts-bitcoin/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-08T11:30:38.008Z"
         }
       },
       "baselineSlugs": [
