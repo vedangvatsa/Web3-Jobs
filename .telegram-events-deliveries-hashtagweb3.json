@@ -5094,5 +5094,51 @@
     "slotKey": "2026-11-08:afternoon",
     "messageId": 156145,
     "sentAt": "2026-11-08T11:32:28.709Z"
+  },
+  "63240cf4-946a-4da5-95e4-e92574f25370": {
+    "status": "reserved",
+    "reservedAt": "2026-11-08T19:32:01.212Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-CRKd13ywnfX44wC",
+        "slug": "meetup-crypto-fribourg-novembre",
+        "name": "Meetup Crypto Fribourg Novembre 2026",
+        "startDate": "2026-11-18T17:30:00.000Z",
+        "keys": [
+          "luma-crypto-crkd13ywnfx44wc",
+          "wynsjfk7",
+          "page:meetup-crypto-fribourg-novembre:2026-11-18",
+          "luma-url:/wynsjfk7",
+          "event:meetupcryptofribourgnovembre2026:2026-11-18:fribourg"
+        ]
+      },
+      {
+        "id": "curated-global-bitcoin-circular-economies-summit-2026-11-19",
+        "slug": "global-bitcoin-circular-economies-summit",
+        "name": "Global Bitcoin Circular Economies Summit 2026",
+        "startDate": "2026-11-19",
+        "keys": [
+          "curated-global-bitcoin-circular-economies-summit-2026-11-19",
+          "page:global-bitcoin-circular-economies-summit:2026-11-19",
+          "url:bitcoinbeach.com/summit-blog/bitcoin-circular-economies-summit-2026:2026-11-19",
+          "event:globalbitcoincirculareconomiessummit2026:2026-11-19:el zonte"
+        ]
+      },
+      {
+        "id": "mu-316585521",
+        "slug": "bitcoin-was-unser-geld-morgen-wert-ist",
+        "name": "Bitcoin - Was unser Geld morgen wert ist",
+        "startDate": "2026-11-19T18:15:00+01:00",
+        "keys": [
+          "mu-316585521",
+          "page:bitcoin-was-unser-geld-morgen-wert-ist:2026-11-19",
+          "url:meetup.com/females-fit-for-finance/events/316585521:2026-11-19",
+          "event:bitcoinwasunsergeldmorgenwertist:2026-11-19:vienna"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-08:evening"
   }
 }
