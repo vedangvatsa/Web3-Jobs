@@ -116392,6 +116392,38 @@
       "attemptId": "10d088bc-83a7-4887-b651-9c2b199411d4",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Sunday, 08-Nov-26 03:37:21 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AiH7X0tvDybMGQdrh1viTAk\"}"
+    },
+    {
+      "slug": "eng716",
+      "company": "DRW",
+      "title": "Senior Software Engineer, Unified Platform - Platform Services",
+      "platform": "bluesky",
+      "postedAt": "2026-11-08T11:37:08.161Z",
+      "expectedText": "DRW is hiring Senior Software Engineer, Unified Platform - Platform Services: https://hashtagweb3.com/eng716/bsky?og=7",
+      "snapshot": {
+        "id": "8156100",
+        "title": "Senior Software Engineer, Unified Platform - Platform Services",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8156100",
+        "date": "2026-11-03T12:37:37-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "London",
+        "department": "UP - Platform Services",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng716"
+      },
+      "payload": {
+        "text": "DRW is hiring Senior Software Engineer, Unified Platform - Platform Services: https://hashtagweb3.com/eng716/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/eng716/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/eng716.png?v=7",
+        "company": "DRW",
+        "title": "Senior Software Engineer, Unified Platform - Platform Services",
+        "description": "Join DRW as Senior Software Engineer, Unified. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "bf320346-29e7-4e57-a69d-20214c550981",
+      "verification": "creating"
     }
   ]
 }
