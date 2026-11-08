@@ -142040,11 +142040,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "b2939c80131bac231b32",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-08T22:28:00.000Z",
-      "lastSeenAt": "2026-11-06T00:28:20.054Z"
+      "lastSeenAt": "2026-11-06T00:28:20.054Z",
+      "reason": "opinion",
+      "note": "Read the Unchained write-up; its core is Paradigm advisor Justin Slaughter's livestream assessment that the CLARITY Act 'looks dead' and his expectations for a Democratic draft bill, plus panel commentary from Mike Katz, not a concrete legislative event with independent confirmation.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/paradigms-justin-slaughter-calls-clarity-act-dead-outlines-house-democrats-crypto-bill/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-08T10:49:19.455Z",
+      "lastReviewedDay": "2026-11-08"
     },
     "705e3865bc41ece9d448": {
       "source": "The Block",
@@ -151705,11 +151715,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "1221f768080b36c32151",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-08T10:05:15.191Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-10T12:40:07.000Z",
-      "lastSeenAt": "2026-11-08T10:05:15.191Z"
+      "lastSeenAt": "2026-11-08T10:05:15.191Z",
+      "reason": "price-chatter",
+      "note": "Read the CryptoSlate analysis; it compares Fed reserve balances with tracked stablecoin unit supply and explicitly says the link to Bitcoin buying stays unestablished, so it is market analysis without a concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/stablecoin-contraction-forces-bitcoin-drop-despite-fed-reserve-gains/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-08T10:49:19.455Z",
+      "lastReviewedDay": "2026-11-08"
     },
     "f38c7e27b8752c273d4f": {
       "source": "The Block",
@@ -282718,6 +282738,30 @@
             "Find independent reporting confirming the event in: Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
             "Retry the attempted URLs after any Retry-After time, within the existing verification window."
           ]
+        },
+        "1221f768080b36c32151": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read the CryptoSlate analysis; it compares Fed reserve balances with tracked stablecoin unit supply and explicitly says the link to Bitcoin buying stays unestablished, so it is market analysis without a concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/stablecoin-contraction-forces-bitcoin-drop-despite-fed-reserve-gains/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-08T10:49:19.455Z"
+        },
+        "b2939c80131bac231b32": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Read the Unchained write-up; its core is Paradigm advisor Justin Slaughter's livestream assessment that the CLARITY Act 'looks dead' and his expectations for a Democratic draft bill, plus panel commentary from Mike Katz, not a concrete legislative event with independent confirmation.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/paradigms-justin-slaughter-calls-clarity-act-dead-outlines-house-democrats-crypto-bill/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-08T10:49:19.455Z"
         }
       },
       "baselineSlugs": [
