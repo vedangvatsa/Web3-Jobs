@@ -142783,9 +142783,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "2ceac87343a534d02420",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-08T15:30:00.000Z",
       "lastSeenAt": "2026-11-06T00:28:20.054Z",
       "articleSlug": "carf",
@@ -142807,7 +142807,25 @@
         "updatedAt": "2026-11-08T11:10:44.764Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read the HK government Nov. 4 statement, Unchained report and the IRD CARF page. Repaired the restored draft's truncated sentence, expanded it to 673 prose words with primary-source registration, due diligence and penalty details, verified carf.jpg hero (1920px, 343KB), and confirmed zero quality, image, duplicate and formatting issues for this file.",
+      "sourceChecks": [
+        {
+          "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400310.htm",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/hong-kong-lawmakers-pass-crypto-tax-reporting-bill-weeks-before-2027-data-collection-begins/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.ird.gov.hk/eng/tax/dta_carf.htm",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-08T11:17:53.245Z",
+      "lastReviewedDay": "2026-11-08"
     },
     "624b3feb0f3dceded58e": {
       "source": "The Defiant",
@@ -283118,6 +283136,27 @@
           "reviewedAt": "2026-11-08T11:07:36.177Z",
           "duplicateOf": "bankchecks",
           "mergedInto": "993feafaf5084caf5010"
+        },
+        "2ceac87343a534d02420": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read the HK government Nov. 4 statement, Unchained report and the IRD CARF page. Repaired the restored draft's truncated sentence, expanded it to 673 prose words with primary-source registration, due diligence and penalty details, verified carf.jpg hero (1920px, 343KB), and confirmed zero quality, image, duplicate and formatting issues for this file.",
+          "sourceChecks": [
+            {
+              "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400310.htm",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/hong-kong-lawmakers-pass-crypto-tax-reporting-bill-weeks-before-2027-data-collection-begins/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.ird.gov.hk/eng/tax/dta_carf.htm",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-08T11:17:53.245Z",
+          "articleSlug": "carf"
         }
       },
       "baselineSlugs": [
