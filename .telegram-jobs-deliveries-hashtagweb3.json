@@ -8582,5 +8582,121 @@
     "slotKey": "2026-11-07:evening",
     "messageId": 156134,
     "sentAt": "2026-11-07T19:32:55.640Z"
+  },
+  "6df96629-b673-404d-b05a-f919c5e45513": {
+    "status": "reserved",
+    "reservedAt": "2026-11-08T11:32:06.604Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8931487002",
+          "title": "Senior Software Engineer - Mobile (React Native/iOS/Android)",
+          "company": "BitGo",
+          "link": "https://job-boards.greenhouse.io/bitgo/jobs/8931487002",
+          "date": "2026-11-04T23:43:54-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BitGo [bitgo]",
+          "location": "Toronto, Ontario, Canada",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng419"
+        },
+        "key": "8931487002",
+        "slug": "eng419",
+        "url": "https://hashtagweb3.com/eng419?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8930335002",
+          "title": "Manager, Capital Markets",
+          "company": "Figure",
+          "link": "https://job-boards.greenhouse.io/figure/jobs/8930335002",
+          "date": "2026-11-05T00:29:25-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Figure [figure]",
+          "location": "Remote; Reno, NV; Charlotte, NC",
+          "department": "Capital Markets",
+          "active": true,
+          "salary": "$128k – $192k/yr",
+          "dateVerified": true,
+          "slug": "mgr145"
+        },
+        "key": "8930335002",
+        "slug": "mgr145",
+        "url": "https://hashtagweb3.com/mgr145?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Figure",
+        "title": "Manager, Capital Markets"
+      },
+      {
+        "snapshot": {
+          "id": "8187258003",
+          "title": "Sr. Product Marketing Manager, LATAM",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8187258003",
+          "date": "2026-11-04T00:18:40-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Argentina (Remote); Mexico (Remote); São Paulo, Brazil",
+          "department": "Strategic Markets",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm222"
+        },
+        "key": "8187258003",
+        "slug": "pm222",
+        "url": "https://hashtagweb3.com/pm222?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Sr. Product Marketing Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8031505003",
+          "title": "Sales Representative, Turkey",
+          "company": "DriveWealth",
+          "link": "https://boards.greenhouse.io/drivewealth/jobs/8031505003?gh_jid=8031505003",
+          "date": "2026-10-13T16:25:25-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DriveWealth [drivewealth]",
+          "location": "EMEA - Remote",
+          "department": "Revenue",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls294"
+        },
+        "key": "8031505003",
+        "slug": "sls294",
+        "url": "https://hashtagweb3.com/sls294?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DriveWealth",
+        "title": "Sales Representative"
+      },
+      {
+        "snapshot": {
+          "id": "f4fcc35e-bdc0-498b-a5f0-ac553d146531",
+          "title": "AI Engineer",
+          "company": "Phantom",
+          "link": "https://jobs.ashbyhq.com/phantom/f4fcc35e-bdc0-498b-a5f0-ac553d146531",
+          "date": "2026-10-27T20:00:50.661+00:00",
+          "source": "Ashby: Phantom [Phantom]",
+          "location": "Remote-US",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng670"
+        },
+        "key": "f4fcc35e-bdc0-498b-a5f0-ac553d146531",
+        "slug": "eng670",
+        "url": "https://hashtagweb3.com/eng670?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Phantom",
+        "title": "AI Engineer"
+      }
+    ],
+    "message": "- BitGo is hiring <a href=\"https://hashtagweb3.com/eng419?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer - Mobile (React Native/iOS/Android)</a>\n- Figure is hiring <a href=\"https://hashtagweb3.com/mgr145?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Capital Markets</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm222?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sr. Product Marketing Manager, LATAM</a>\n- DriveWealth is hiring <a href=\"https://hashtagweb3.com/sls294?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Representative, Turkey</a>\n- Phantom is hiring <a href=\"https://hashtagweb3.com/eng670?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Engineer</a>",
+    "slotKey": "2026-11-08:afternoon"
   }
 }
