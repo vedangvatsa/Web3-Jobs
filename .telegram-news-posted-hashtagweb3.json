@@ -908,6 +908,9 @@
   "https://hashtagweb3.com/equityperps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/agentpay?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/qubicdrain?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/frenchhill?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/carf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/nbubill?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2630,6 +2633,12 @@
   "Mastercard opens early access for AI agent payments after pilots",
   "Qubic Halts Mainnet After Exploit Drains 1,404 Wallets",
   "Qubic halts network after attacker drains 1,404 wallets",
+  "French Hill Retains House Seat but Loses Chairmanship",
+  "French Hill Wins Reelection but Is Set to Lose House Financial Services Chair",
+  "Hong Kong Lawmakers Approve Crypto Tax Reporting Bill",
+  "Hong Kong Lawmakers Pass Crypto Tax Reporting Bill for 2027 Collection",
+  "Ukraine's Central Bank Objects to Proposed Crypto Bill",
+  "Ukraine Central Bank Opposes Crypto Bill Cleared for Second Reading",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -3088,5 +3097,8 @@
   "fp:affect|amplitud|analytic|coinbas|contact|customer|data|expos|fund|incident",
   "fp:approv|cftc|clear|court|deni|despit|emergency|equity|exchang|futur",
   "fp:access|agent|allow|budget|buy|digital|early|human|mastercard|open",
-  "fp:404|attack|attacker|drains1|exploit|froz|halt|mainnet|most|network"
+  "fp:404|attack|attacker|drains1|exploit|froz|halt|mainnet|most|network",
+  "fp:arkansa|ced|chair|chairmanship|committe|democrat|financial|french|hill|his",
+  "fp:approv|bill|collect|collection|data|exchang|follow|for2027|framework|hong",
+  "fp:access|approv|bank|bill|central|cit|clear|committe|concern|draft"
 ]
