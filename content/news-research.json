@@ -142444,7 +142444,7 @@
         "id": "993feafaf5084caf5010",
         "day": "2026-11-08",
         "articleSlug": "bankchecks",
-        "note": "Read Cointelegraph and the TokenPost follow-up; two independent sites now read. Draft not started, image not selected; next step is drafting bankchecks.md with a verified photo.",
+        "note": "Re-read Cointelegraph and TokenPost this run; both readable. Photo selected: Commons Eccles Federal Reserve building. Drafting now.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks",
@@ -142455,7 +142455,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-08T10:57:17.984Z",
+        "updatedAt": "2026-11-08T11:01:21.012Z",
         "approved": false,
         "mustReview": true
       }
