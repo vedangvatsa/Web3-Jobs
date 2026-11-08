@@ -142448,9 +142448,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "993feafaf5084caf5010",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-08T18:32:45.000Z",
       "lastSeenAt": "2026-11-06T00:28:20.054Z",
       "articleSlug": "bankchecks",
@@ -142472,7 +142472,21 @@
         "updatedAt": "2026-11-08T11:01:21.012Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read Cointelegraph and TokenPost this run; verified the Nov. 2 Fed/OCC outreach, the .34B/.85B incident figures and the April 2025 supervisory change across both sources. Drafted bankchecks.md with a Commons Federal Reserve photo; audits pass and all outbound links return 200.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/regulation/50657",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-08T11:07:06.409Z",
+      "lastReviewedDay": "2026-11-08"
     },
     "c64748ad18b7a351644d": {
       "source": "CryptoSlate",
@@ -282957,6 +282971,23 @@
           ],
           "reviewedAt": "2026-11-08T11:07:02.658Z",
           "articleSlug": "frenchhill"
+        },
+        "993feafaf5084caf5010": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Cointelegraph and TokenPost this run; verified the Nov. 2 Fed/OCC outreach, the .34B/.85B incident figures and the April 2025 supervisory change across both sources. Drafted bankchecks.md with a Commons Federal Reserve photo; audits pass and all outbound links return 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/regulation/50657",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-08T11:07:06.409Z",
+          "articleSlug": "bankchecks"
         }
       },
       "baselineSlugs": [
