@@ -117208,6 +117208,35 @@
       "verification": "verified",
       "postId": "6af0ce6351492b796e5931e5",
       "permalink": "https://twitter.com/hashtag_web3/status/2119513500338757898"
+    },
+    {
+      "slug": "sls377",
+      "company": "TRM Labs",
+      "title": "Account Director, Defense",
+      "platform": "threads",
+      "postedAt": "2026-11-08T19:32:48.543Z",
+      "expectedText": "TRM Labs is hiring Account Director, Defense: https://hashtagweb3.com/sls377/th?og=7",
+      "snapshot": {
+        "id": "52117eb8-a8c0-45d5-ad74-fe31a347a15b",
+        "title": "Account Director, Defense",
+        "company": "TRM Labs",
+        "link": "https://jobs.ashbyhq.com/trm-labs/52117eb8-a8c0-45d5-ad74-fe31a347a15b",
+        "date": "2026-10-30T15:15:25.926+00:00",
+        "source": "Ashby: TRM Labs [trm-labs]",
+        "location": "Remote (United States)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Go-To-Market",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls377"
+      },
+      "payload": {
+        "text": "TRM Labs is hiring Account Director, Defense: https://hashtagweb3.com/sls377/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/sls377/th?og=7"
+      },
+      "attemptId": "ea118932-104f-4d80-a5cd-26a23e511d46",
+      "verification": "creating"
     }
   ]
 }
