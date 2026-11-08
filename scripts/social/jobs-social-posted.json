@@ -118106,6 +118106,39 @@
       "attemptId": "7174309a-9a45-4e8e-b8ca-5feaed2d34bb",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Sunday, 08-Nov-26 11:36:55 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AkIPsJTR547-0eedVYIv66q\"}"
+    },
+    {
+      "slug": "rs16",
+      "company": "Polymarket",
+      "title": "Trust and Safety Program Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-11-08T19:36:40.682Z",
+      "expectedText": "Polymarket is hiring Trust and Safety Program Manager: https://hashtagweb3.com/rs16/bsky?og=7",
+      "snapshot": {
+        "id": "218587df-4c7d-437f-bcbc-ab7755629207",
+        "title": "Trust and Safety Program Manager",
+        "company": "Polymarket",
+        "link": "https://jobs.ashbyhq.com/polymarket/218587df-4c7d-437f-bcbc-ab7755629207",
+        "date": "2026-10-23T19:10:51.751+00:00",
+        "source": "Ashby: Polymarket [Polymarket]",
+        "location": "New York",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Legal",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rs16"
+      },
+      "payload": {
+        "text": "Polymarket is hiring Trust and Safety Program Manager: https://hashtagweb3.com/rs16/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/rs16/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/rs16.png?v=7",
+        "company": "Polymarket",
+        "title": "Trust and Safety Program Manager",
+        "description": "Join Polymarket as Trust and Safety Program Manager. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "d72b216f-f219-46d0-8c57-eb934a81e282",
+      "verification": "creating"
     }
   ]
 }
