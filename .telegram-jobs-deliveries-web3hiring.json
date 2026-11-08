@@ -16154,5 +16154,122 @@
     "slotKey": "2026-11-08:afternoon",
     "messageId": 16621,
     "sentAt": "2026-11-08T11:31:56.976Z"
+  },
+  "2d1285ca-cf72-4728-9726-c31e71abf1ef": {
+    "status": "reserved",
+    "reservedAt": "2026-11-08T11:31:58.746Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8360014",
+          "title": "Senior Risk Officer",
+          "company": "Blockchain.com",
+          "link": "https://job-boards.greenhouse.io/blockchain/jobs/8360014",
+          "date": "2026-11-06T14:25:17-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Blockchain.com [blockchain]",
+          "location": "London",
+          "department": "Legal",
+          "active": true,
+          "slug": "ro3",
+          "dateVerified": true
+        },
+        "key": "8360014",
+        "slug": "ro3",
+        "url": "https://hashtagweb3.com/ro3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Blockchain.com",
+        "title": "Senior Risk Officer"
+      },
+      {
+        "snapshot": {
+          "id": "b444d95c-7142-4981-b4dd-b26fc2954309",
+          "title": "Technical Recruiter",
+          "company": "Helius",
+          "link": "https://jobs.ashbyhq.com/helius/b444d95c-7142-4981-b4dd-b26fc2954309",
+          "date": "2026-10-16T18:54:04.321+00:00",
+          "source": "Ashby: Helius [Helius]",
+          "location": "Remote (North America)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "G&A",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rec42"
+        },
+        "key": "b444d95c-7142-4981-b4dd-b26fc2954309",
+        "slug": "rec42",
+        "url": "https://hashtagweb3.com/rec42?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Helius",
+        "title": "Technical Recruiter"
+      },
+      {
+        "snapshot": {
+          "id": "4479611009",
+          "title": "Senior Product Designer, Design Systems",
+          "company": "Ondo Finance",
+          "link": "https://job-boards.greenhouse.io/ondofinance/jobs/4479611009",
+          "date": "2026-11-04T12:59:43-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ondo Finance [ondofinance]",
+          "location": "Remote (US)",
+          "department": "Design",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm229"
+        },
+        "key": "4479611009",
+        "slug": "pm229",
+        "url": "https://hashtagweb3.com/pm229?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ondo Finance",
+        "title": "Senior Product Designer"
+      },
+      {
+        "snapshot": {
+          "id": "b03b9dc7-9655-4eda-b918-7acd3da2ffb0",
+          "title": "Solutions Architect, Integrations - Public Sector (US)",
+          "company": "Sardine",
+          "link": "https://jobs.ashbyhq.com/sardine/b03b9dc7-9655-4eda-b918-7acd3da2ffb0",
+          "date": "2026-10-29T20:21:51.079+00:00",
+          "source": "Ashby: Sardine [Sardine]",
+          "location": "Remote (North America)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Integrations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "arc12"
+        },
+        "key": "b03b9dc7-9655-4eda-b918-7acd3da2ffb0",
+        "slug": "arc12",
+        "url": "https://hashtagweb3.com/arc12?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sardine",
+        "title": "Solutions Architect"
+      },
+      {
+        "snapshot": {
+          "id": "11c70bea-e807-4f35-bde7-7422e639290b",
+          "title": "Senior Software Engineer - Dev Platform",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/11c70bea-e807-4f35-bde7-7422e639290b",
+          "date": "2026-10-28T13:38:07.431+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (Brazil)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng651"
+        },
+        "key": "11c70bea-e807-4f35-bde7-7422e639290b",
+        "slug": "eng651",
+        "url": "https://hashtagweb3.com/eng651?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Senior Software Engineer"
+      }
+    ],
+    "message": "- Blockchain.com is hiring <a href=\"https://hashtagweb3.com/ro3?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Risk Officer</a>\n- Helius is hiring <a href=\"https://hashtagweb3.com/rec42?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Recruiter</a>\n- Ondo Finance is hiring <a href=\"https://hashtagweb3.com/pm229?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Designer, Design Systems</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/arc12?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Architect, Integrations - Public Sector (US)</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/eng651?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer - Dev Platform</a>",
+    "slotKey": "2026-11-08:afternoon"
   }
 }
