@@ -116360,8 +116360,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "d6383856-e931-4a13-ae8d-0968dd612f27",
-      "verification": "pending",
-      "postId": "6af05ee7229bf05dafaacdc1"
+      "verification": "verified",
+      "postId": "6af05ee7229bf05dafaacdc1",
+      "permalink": "https://twitter.com/hashtag_web3/status/2119393794328015282"
     }
   ]
 }
