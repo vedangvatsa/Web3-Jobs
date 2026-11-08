@@ -142742,9 +142742,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "3967e0aca164a53111a5",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-08T15:45:00.000Z",
       "lastSeenAt": "2026-11-06T00:28:20.054Z",
       "articleSlug": "nbubill",
@@ -142766,7 +142766,21 @@
         "updatedAt": "2026-11-08T11:10:50.367Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read Bitcoin Magazine and UA.NEWS coverage of the NBU Nov. 4 statement on Draft Law 10225-d; both sites opened in full. Drafted nbubill.md at 620+ prose words with the three NBU objections, July 1 2027 effective date and tax terms attributed as reported. Hero image is the NBU Kyiv building from Wikimedia Commons (verified depicts National Bank of Ukraine), self-hosted at 328KB, 1600px. Audits clean for this file.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/ukraine-central-bank-refuses-crypto-bill",
+          "outcome": "read"
+        },
+        {
+          "url": "https://ua.news/en/ukraine/natsbank-ne-pidtrimav-zakonoproiekt-pro-obig-virtualnikh-aktiviv",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-08T11:22:20.396Z",
+      "lastReviewedDay": "2026-11-08"
     },
     "2ceac87343a534d02420": {
       "source": "Unchained",
@@ -283157,6 +283171,23 @@
           ],
           "reviewedAt": "2026-11-08T11:17:53.245Z",
           "articleSlug": "carf"
+        },
+        "3967e0aca164a53111a5": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Bitcoin Magazine and UA.NEWS coverage of the NBU Nov. 4 statement on Draft Law 10225-d; both sites opened in full. Drafted nbubill.md at 620+ prose words with the three NBU objections, July 1 2027 effective date and tax terms attributed as reported. Hero image is the NBU Kyiv building from Wikimedia Commons (verified depicts National Bank of Ukraine), self-hosted at 328KB, 1600px. Audits clean for this file.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/ukraine-central-bank-refuses-crypto-bill",
+              "outcome": "read"
+            },
+            {
+              "url": "https://ua.news/en/ukraine/natsbank-ne-pidtrimav-zakonoproiekt-pro-obig-virtualnikh-aktiviv",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-08T11:22:20.396Z",
+          "articleSlug": "nbubill"
         }
       },
       "baselineSlugs": [
