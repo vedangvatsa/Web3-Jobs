@@ -24,8 +24,8 @@ TEX_CONTENT = r'''\documentclass{article}
 \usepackage{caption}
 
 \captionsetup{labelsep=period}
-\captionsetup[table]{skip=6pt}
-\captionsetup[figure]{skip=6pt}
+\captionsetup[table]{skip=4pt}
+\captionsetup[figure]{skip=4pt}
 \iclrfinalcopy
 \setcitestyle{numbers,square,comma}
 \renewcommand{\headrulewidth}{0pt}
@@ -37,41 +37,49 @@ TEX_CONTENT = r'''\documentclass{article}
 
 \hypersetup{pdftitle={The Top 100 Web3 Employers Index},pdfauthor={Hashtag Web3}}
 
+\renewcommand{\topfraction}{0.95}
+\renewcommand{\bottomfraction}{0.85}
+\renewcommand{\textfraction}{0.05}
+\renewcommand{\floatpagefraction}{0.85}
+\setlength{\textfloatsep}{7pt plus 2pt minus 2pt}
+\setlength{\floatsep}{6pt plus 2pt minus 2pt}
+\setlength{\intextsep}{6pt plus 2pt minus 2pt}
+
 \makeatletter
 % Professional Whitepaper Header (No subheading, tight publisher block)
 \def\@maketitle{\vbox{\hsize\textwidth
 \centering
-\vskip 0.12in
+\vskip 0.04in
 {\LARGE\bfseries The Top 100 Web3 Employers Index\par}
-\vskip 0.14in
+\vskip 0.08in
 {\normalsize\textbf{Hashtag Web3}\\[2pt]
 \small\href{https://hashtagweb3.com}{hashtagweb3.com}\par}
-\vskip 0.20in}}
+\vskip 0.12in}}
 
 % Executive Summary replacing academic Abstract
 \renewenvironment{abstract}{%
-  \vskip.05in
+  \vskip.02in
   \centerline{\large\bfseries Executive Summary}
-  \vspace{0.8ex}
+  \vspace{0.4ex}
   \begin{quote}
 }{%
-  \par\end{quote}\vskip 1.5ex
+  \par\end{quote}\vskip 1.0ex
 }
 
 % Clean bold section titles matching industry whitepapers
 \renewcommand\section{\@startsection {section}{1}{\z@}%
-  {-2.0ex plus -0.5ex minus -.2ex}%
-  {1.1ex plus 0.2ex minus 0.1ex}%
+  {-1.5ex plus -0.3ex minus -.2ex}%
+  {0.7ex plus 0.2ex minus 0.1ex}%
   {\large\bfseries\raggedright}}
 
 \renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
-  {-1.6ex plus -0.4ex minus -.2ex}%
-  {0.7ex plus .2ex}%
+  {-1.2ex plus -0.3ex minus -.2ex}%
+  {0.4ex plus .1ex}%
   {\normalsize\bfseries\raggedright}}
 
 \renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
-  {-1.3ex plus -0.3ex minus -.2ex}%
-  {0.5ex plus .1ex}%
+  {-1.0ex plus -0.2ex minus -.2ex}%
+  {0.3ex plus .1ex}%
   {\normalsize\bfseries\raggedright}}
 
 % Ensure single clean numbering with period
@@ -96,7 +104,7 @@ This whitepaper documents the design, mathematical framework, and empirical find
 
 Our automated data pipeline processes active job postings through five distinct stages, from primary ingestion to live publication.
 
-\begin{figure}[H]
+\begin{figure}[!htbp]
 \centering
 \includegraphics[width=0.98\textwidth]{figure1_pipeline.png}
 \caption{The Hashtag Web3 verifiable data pipeline and verification architecture}
@@ -118,7 +126,7 @@ In uncalibrated scoring systems, synthetic baseline points can allow an early st
 
 Under this flawed structure, an early stage project with a single open job could accumulate more than 60 points out of 100. This score exceeded the point totals of established companies with five to ten active technical openings, simply because the larger employers did not carry modeled score boosts.
 
-\begin{figure}[H]
+\begin{figure}[!htbp]
 \centering
 \includegraphics[width=0.88\textwidth]{figure2_points.png}
 \caption{Maximum point allocation across the four verified index dimensions}
@@ -165,7 +173,7 @@ Specific exclusion categories include the following groups.
 
 The Top 100 Web3 Employers Index evaluates organizations across four distinct, machine-verifiable components. Each component is derived directly from live listings, producing a composite score bounded between zero and one hundred points.
 
-\begin{table}[H]
+\begin{table}[!htbp]
 \centering
 \caption{Mathematical weighting and target dimension summary}
 \footnotesize
@@ -193,7 +201,7 @@ V_i = 60 \cdot \frac{\ln(1 + J_i)}{\ln(1 + J_{\max})}
 
 In our current dataset, the highest observed volume is Coinbase with 75 verified positions. An employer with 75 jobs receives the full 60 points. An employer with 46 jobs receives 53.3 points. An employer with 24 jobs receives 44.6 points. An employer with 10 jobs receives 33.2 points. An employer with 2 jobs receives 15.2 points. An organization with only 1 job receives 9.6 points.
 
-\begin{figure}[H]
+\begin{figure}[!htbp]
 \centering
 \includegraphics[width=0.88\textwidth]{figure3_curve.png}
 \caption{Logarithmic volume scoring curve compared to an uncalibrated linear baseline}
@@ -246,7 +254,7 @@ This hierarchy guarantees that an organization hiring ten engineers will always 
 
 Analysis of active openings across our Top 100 reveals several structural characteristics of the decentralized technology labor market.
 
-\begin{figure}[H]
+\begin{figure}[!htbp]
 \centering
 \includegraphics[width=0.88\textwidth]{figure4_concentration.png}
 \caption{Cumulative hiring concentration across top employer tiers}
@@ -258,7 +266,7 @@ Hiring capacity in the Web3 sector exhibits strong power law characteristics. In
 
 This concentration indicates that large, revenue-generating centralized platforms maintain durable balance sheets capable of supporting extensive expansion through shifting market cycles. Conversely, earlier stage protocol teams and decentralized autonomous organization foundations operate with lean headcounts, typically maintaining between two and seven open positions.
 
-\begin{figure}[H]
+\begin{figure}[!htbp]
 \centering
 \includegraphics[width=0.88\textwidth]{figure5_sectors.png}
 \caption{Share of tracked open positions by industry subsector}
@@ -274,7 +282,7 @@ Emerging categories show notable activity. The Artificial Intelligence and Decen
 
 Remote work patterns within the Web3 labor market differ significantly across functional subsectors. Across the entire index of 100 employers, approximately 39\% of tracked listings are marked as remote.
 
-\begin{figure}[H]
+\begin{figure}[!htbp]
 \centering
 \includegraphics[width=0.88\textwidth]{figure6_remote.png}
 \caption{Remote work availability by industry subsector}
@@ -324,48 +332,25 @@ In contrast, offshore protocol foundations, international trading platforms, and
 
 To provide granular insight into industry employment, the index organizes qualifying employers into 11 subsectors.
 
-\begin{table}[H]
+\begin{table}[!htbp]
 \centering
 \caption{Summary of sector metrics across the top 100 employers}
 \footnotesize
-\begin{tabularx}{\textwidth}{@{}>{\raggedright\arraybackslash}p{3.0cm}>{\raggedleft\arraybackslash}p{1.0cm}>{\raggedleft\arraybackslash}p{1.1cm}>{\raggedleft\arraybackslash}p{1.2cm}>{\raggedleft\arraybackslash}p{1.1cm}>{\raggedleft\arraybackslash}p{1.0cm}>{\raggedright\arraybackslash}X@{}}
+\begin{tabularx}{\textwidth}{@{}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedleft\arraybackslash}p{0.6cm}>{\raggedleft\arraybackslash}p{0.8cm}>{\raggedleft\arraybackslash}p{0.9cm}>{\raggedleft\arraybackslash}p{0.9cm}>{\raggedleft\arraybackslash}p{0.7cm}>{\raggedright\arraybackslash}X@{}}
 \toprule
 \textbf{Sector} & \textbf{Cos} & \textbf{Jobs} & \textbf{Share} & \textbf{Remote} & \textbf{Pay} & \textbf{Top Employer} \\
 \midrule
-Exchanges and Custody & 20 & 392 & 35.2\% & 42\% & 25\% & Coinbase (75 jobs) \\[2pt]
-Fintech and Payments & 20 & 230 & 20.6\% & 33\% & 19\% & Ripple (40 jobs) \\[2pt]
-Trading and Quant & 10 & 114 & 10.2\% & 6\% & 23\% & DRW (30 jobs) \\[2pt]
-Security and Auditing & 10 & 97 & 8.7\% & 76\% & 14\% & TRM Labs (31 jobs) \\[2pt]
-AI and DePIN & 8 & 90 & 8.1\% & 42\% & 3\% & Prime Intellect (24 jobs) \\[2pt]
-DeFi Protocols & 13 & 58 & 5.2\% & 43\% & 10\% & Kamino (10 jobs) \\[2pt]
-Venture and Research & 3 & 41 & 3.7\% & 5\% & 39\% & Galaxy Digital (25 jobs) \\[2pt]
-Infrastructure and Tooling & 7 & 39 & 3.5\% & 77\% & 21\% & Paxos (9 jobs) \\[2pt]
-L1 and L2 Protocols & 5 & 33 & 3.0\% & 39\% & 21\% & Mantle Network (12 jobs) \\[2pt]
-Prediction Markets & 1 & 13 & 1.2\% & 23\% & 0\% & Polymarket (13 jobs) \\[2pt]
-Web3 Infrastructure & 3 & 8 & 0.7\% & 50\% & 0\% & Spruce (3 jobs) \\[2pt]
-\bottomrule
-\end{tabularx}
-\end{table}
-
-\begin{table}[H]
-\centering
-\caption{Remote work distribution across industry sectors}
-\footnotesize
-\begin{tabularx}{\textwidth}{@{}>{\raggedleft\arraybackslash}p{0.8cm}>{\raggedright\arraybackslash}p{3.8cm}>{\raggedleft\arraybackslash}p{1.6cm}>{\raggedleft\arraybackslash}p{1.6cm}>{\raggedleft\arraybackslash}X@{}}
-\toprule
-\textbf{Rank} & \textbf{Sector Name} & \textbf{Tracked Roles} & \textbf{Remote Roles} & \textbf{Remote Availability} \\
-\midrule
-1 & Infrastructure and Tooling & 39 & 30 & 77\% \\[2pt]
-2 & Security and Auditing & 97 & 74 & 76\% \\[2pt]
-3 & Web3 Infrastructure & 8 & 4 & 50\% \\[2pt]
-4 & DeFi Protocols & 58 & 25 & 43\% \\[2pt]
-5 & AI and DePIN & 90 & 38 & 42\% \\[2pt]
-6 & Exchanges and Custody & 392 & 165 & 42\% \\[2pt]
-7 & L1 and L2 Protocols & 33 & 13 & 39\% \\[2pt]
-8 & Fintech and Payments & 230 & 76 & 33\% \\[2pt]
-9 & Prediction Markets & 13 & 3 & 23\% \\[2pt]
-10 & Trading and Quant & 114 & 7 & 6\% \\[2pt]
-11 & Venture and Research & 41 & 2 & 5\% \\[2pt]
+Exchanges and Custody & 20 & 392 & 35.2\% & 42\% & 25\% & Coinbase (75 jobs) \\[1pt]
+Fintech and Payments & 20 & 230 & 20.6\% & 33\% & 19\% & Ripple (40 jobs) \\[1pt]
+Trading and Quant & 10 & 114 & 10.2\% & 6\% & 23\% & DRW (30 jobs) \\[1pt]
+Security and Auditing & 10 & 97 & 8.7\% & 76\% & 14\% & TRM Labs (31 jobs) \\[1pt]
+AI and DePIN & 8 & 90 & 8.1\% & 42\% & 3\% & Prime Intellect (24 jobs) \\[1pt]
+DeFi Protocols & 13 & 58 & 5.2\% & 43\% & 10\% & Kamino (10 jobs) \\[1pt]
+Venture and Research & 3 & 41 & 3.7\% & 5\% & 39\% & Galaxy Digital (25 jobs) \\[1pt]
+Infrastructure and Tooling & 7 & 39 & 3.5\% & 77\% & 21\% & Paxos (9 jobs) \\[1pt]
+L1 and L2 Protocols & 5 & 33 & 3.0\% & 39\% & 21\% & Mantle Network (12 jobs) \\[1pt]
+Prediction Markets & 1 & 13 & 1.2\% & 23\% & 0\% & Polymarket (13 jobs) \\[1pt]
+Web3 Infrastructure & 3 & 8 & 0.7\% & 50\% & 0\% & Spruce (3 jobs) \\[1pt]
 \bottomrule
 \end{tabularx}
 \end{table}
@@ -406,7 +391,7 @@ Table 3 presents the complete empirical census of the one hundred qualifying org
 
 \begingroup
 \footnotesize
-\begin{xltabular}{\textwidth}{@{}>{\raggedleft\arraybackslash}p{0.6cm}>{\raggedright\arraybackslash}p{2.8cm}>{\raggedright\arraybackslash}p{2.9cm}>{\raggedleft\arraybackslash}p{0.7cm}>{\raggedleft\arraybackslash}p{0.7cm}>{\raggedleft\arraybackslash}p{1.0cm}>{\raggedleft\arraybackslash}p{0.8cm}>{\raggedleft\arraybackslash}X@{}}
+{\renewcommand{\arraystretch}{0.88}\begin{xltabular}{\textwidth}{@{}>{\raggedleft\arraybackslash}p{0.6cm}>{\raggedright\arraybackslash}p{2.8cm}>{\raggedright\arraybackslash}p{2.9cm}>{\raggedleft\arraybackslash}p{0.7cm}>{\raggedleft\arraybackslash}p{0.7cm}>{\raggedleft\arraybackslash}p{1.0cm}>{\raggedleft\arraybackslash}p{0.8cm}>{\raggedleft\arraybackslash}X@{}}
 \caption{Complete empirical census of the top 100 Web3 employers} \label{tab-census} \\
 \toprule
 \textbf{Rank} & \textbf{Company} & \textbf{Sector} & \textbf{Jobs} & \textbf{Teams} & \textbf{Remote} & \textbf{Pay} & \textbf{Score} \\
@@ -422,107 +407,107 @@ Table 3 presents the complete empirical census of the one hundred qualifying org
 \endfoot
 \bottomrule
 \endlastfoot
-1 & Coinbase & Exchanges and Custody & 75 & 23 & 83\% & 88\% & 97.1 \\[1.5pt]
-2 & OKX & Exchanges and Custody & 73 & 16 & 14\% & 19\% & 82.9 \\[1.5pt]
-3 & Bybit & Exchanges and Custody & 47 & 18 & 34\% & 0\% & 77.0 \\[1.5pt]
-4 & Kraken & Exchanges and Custody & 46 & 11 & 98\% & 0\% & 83.1 \\[1.5pt]
-5 & Ripple & Fintech and Payments & 40 & 12 & 0\% & 45\% & 75.9 \\[1.5pt]
-6 & Bitdeer & Exchanges and Custody & 31 & 10 & 13\% & 0\% & 69.3 \\[1.5pt]
-7 & TRM Labs & Security and Auditing & 31 & 3 & 100\% & 0\% & 64.0 \\[1.5pt]
-8 & DRW & Trading and Quant & 30 & 24 & 0\% & 60\% & 73.6 \\[1.5pt]
-9 & Galaxy Digital & Venture and Research & 25 & 9 & 4\% & 24\% & 65.9 \\[1.5pt]
-10 & BitGo & Exchanges and Custody & 25 & 9 & 0\% & 12\% & 64.3 \\[1.5pt]
-11 & Ajaib Crypto & Trading and Quant & 24 & 8 & 0\% & 0\% & 60.6 \\[1.5pt]
-12 & Circle & Fintech and Payments & 24 & 1 & 100\% & 0\% & 56.6 \\[1.5pt]
-13 & Prime Intellect & AI and DePIN & 24 & 5 & 0\% & 0\% & 54.6 \\[1.5pt]
-14 & Tether & Fintech and Payments & 23 & 7 & 100\% & 0\% & 68.0 \\[1.5pt]
-15 & Bitpanda & Exchanges and Custody & 22 & 6 & 0\% & 0\% & 55.4 \\[1.5pt]
-16 & Chainalysis & Security and Auditing & 21 & 4 & 90\% & 0\% & 59.8 \\[1.5pt]
-17 & Crypto.com & Exchanges and Custody & 21 & 6 & 0\% & 33\% & 58.1 \\[1.5pt]
-18 & BVNK & Fintech and Payments & 18 & 6 & 0\% & 56\% & 58.4 \\[1.5pt]
-19 & Riot Platforms & AI and DePIN & 16 & 7 & 63\% & 0\% & 59.6 \\[1.5pt]
-20 & GoMining & AI and DePIN & 16 & 5 & 94\% & 0\% & 58.7 \\[1.5pt]
-21 & StraitsX & Fintech and Payments & 16 & 7 & 0\% & 0\% & 53.3 \\[1.5pt]
-22 & Sardine & Fintech and Payments & 15 & 9 & 87\% & 0\% & 65.1 \\[1.5pt]
-23 & Figure & Fintech and Payments & 13 & 8 & 46\% & 77\% & 64.9 \\[1.5pt]
-24 & Polymarket & Prediction Markets & 13 & 5 & 23\% & 0\% & 48.9 \\[1.5pt]
-25 & Chainlink Labs & AI and DePIN & 12 & 5 & 100\% & 0\% & 55.5 \\[1.5pt]
-26 & a16z crypto & Venture and Research & 12 & 5 & 8\% & 83\% & 54.6 \\[1.5pt]
-27 & Flow Traders & Trading and Quant & 12 & 6 & 0\% & 8\% & 48.3 \\[1.5pt]
-28 & Mantle Network & L1 and L2 Protocols & 12 & 5 & 8\% & 0\% & 46.3 \\[1.5pt]
-29 & Hut 8 & AI and DePIN & 11 & 6 & 0\% & 0\% & 46.4 \\[1.5pt]
-30 & Blockchain.com & Fintech and Payments & 11 & 5 & 0\% & 0\% & 44.4 \\[1.5pt]
-31 & Kamino & DeFi Protocols & 10 & 8 & 30\% & 50\% & 57.2 \\[1.5pt]
-32 & Flowdesk & Trading and Quant & 10 & 7 & 0\% & 0\% & 47.2 \\[1.5pt]
-33 & Jane Street & Trading and Quant & 10 & 7 & 0\% & 0\% & 47.2 \\[1.5pt]
-34 & Mesh & Security and Auditing & 9 & 2 & 67\% & 89\% & 51.5 \\[1.5pt]
-35 & Zero Hash & Exchanges and Custody & 9 & 4 & 100\% & 0\% & 49.9 \\[1.5pt]
-36 & Paxos & Infrastructure and Tooling & 9 & 4 & 89\% & 0\% & 48.8 \\[1.5pt]
-37 & Story Protocol & L1 and L2 Protocols & 8 & 3 & 13\% & 88\% & 46.5 \\[1.5pt]
-38 & MoonPay & Fintech and Payments & 8 & 6 & 13\% & 0\% & 43.7 \\[1.5pt]
-39 & DV Trading & Trading and Quant & 8 & 4 & 13\% & 38\% & 43.5 \\[1.5pt]
-40 & Unlimit & Fintech and Payments & 8 & 6 & 0\% & 0\% & 42.4 \\[1.5pt]
-41 & Rain & Fintech and Payments & 8 & 3 & 50\% & 0\% & 41.4 \\[1.5pt]
-42 & Elliptic & Security and Auditing & 7 & 5 & 100\% & 0\% & 48.8 \\[1.5pt]
-43 & Talos & Security and Auditing & 7 & 6 & 57\% & 0\% & 46.5 \\[1.5pt]
-44 & Alchemy & Infrastructure and Tooling & 7 & 3 & 100\% & 0\% & 44.8 \\[1.5pt]
-45 & Ondo Finance & DeFi Protocols & 7 & 4 & 71\% & 0\% & 43.9 \\[1.5pt]
-46 & Aspora & Fintech and Payments & 7 & 5 & 29\% & 0\% & 41.7 \\[1.5pt]
-47 & Augustus & Fintech and Payments & 7 & 5 & 0\% & 0\% & 38.8 \\[1.5pt]
-48 & Coinflow & Fintech and Payments & 7 & 5 & 0\% & 0\% & 38.8 \\[1.5pt]
-49 & Fireblocks & Infrastructure and Tooling & 7 & 1 & 0\% & 43\% & 35.1 \\[1.5pt]
-50 & Solflare & DeFi Protocols & 7 & 3 & 0\% & 0\% & 34.8 \\[1.5pt]
-51 & Infosys & Security and Auditing & 7 & 1 & 0\% & 0\% & 30.8 \\[1.5pt]
-52 & Consensys & Infrastructure and Tooling & 6 & 3 & 100\% & 50\% & 48.0 \\[1.5pt]
-53 & HIFI & Fintech and Payments & 6 & 5 & 0\% & 100\% & 47.0 \\[1.5pt]
-54 & GRVT & Trading and Quant & 6 & 3 & 100\% & 0\% & 43.0 \\[1.5pt]
-55 & SwissBorg & Exchanges and Custody & 6 & 3 & 67\% & 0\% & 39.7 \\[1.5pt]
-56 & FalconX & Trading and Quant & 6 & 3 & 0\% & 67\% & 39.7 \\[1.5pt]
-57 & Stellar & L1 and L2 Protocols & 6 & 3 & 67\% & 0\% & 39.7 \\[1.5pt]
-58 & BitOasis & Exchanges and Custody & 5 & 4 & 0\% & 100\% & 42.8 \\[1.5pt]
-59 & Anchorage Digital & Infrastructure and Tooling & 5 & 4 & 100\% & 0\% & 42.8 \\[1.5pt]
-60 & Phantom & Exchanges and Custody & 5 & 3 & 100\% & 0\% & 40.8 \\[1.5pt]
-61 & Bitvavo & Exchanges and Custody & 5 & 4 & 20\% & 0\% & 34.8 \\[1.5pt]
-62 & ComplyAdvantage & Security and Auditing & 5 & 2 & 0\% & 60\% & 34.8 \\[1.5pt]
-63 & Breeze Cash & Fintech and Payments & 5 & 3 & 0\% & 0\% & 30.8 \\[1.5pt]
-64 & Nexo & Fintech and Payments & 5 & 2 & 20\% & 0\% & 30.8 \\[1.5pt]
-65 & Spiko & DeFi Protocols & 5 & 2 & 0\% & 0\% & 28.8 \\[1.5pt]
-66 & Newton & Exchanges and Custody & 4 & 3 & 100\% & 0\% & 38.3 \\[1.5pt]
-67 & CertiK & Security and Auditing & 4 & 3 & 100\% & 0\% & 38.3 \\[1.5pt]
-68 & Morpho & DeFi Protocols & 4 & 3 & 100\% & 0\% & 38.3 \\[1.5pt]
-69 & Mysten Labs & L1 and L2 Protocols & 4 & 3 & 100\% & 0\% & 38.3 \\[1.5pt]
-70 & Uniswap Labs & DeFi Protocols & 4 & 4 & 75\% & 0\% & 37.8 \\[1.5pt]
-71 & Liminal & Exchanges and Custody & 4 & 4 & 25\% & 0\% & 32.8 \\[1.5pt]
-72 & Luxor Technology & AI and DePIN & 4 & 2 & 25\% & 0\% & 28.8 \\[1.5pt]
-73 & Aave Labs & DeFi Protocols & 4 & 3 & 0\% & 0\% & 28.3 \\[1.5pt]
-74 & Baton Corporation & Trading and Quant & 4 & 1 & 0\% & 0\% & 24.3 \\[1.5pt]
-75 & Brevan Howard & Venture and Research & 4 & 1 & 0\% & 0\% & 24.3 \\[1.5pt]
-76 & Keyrock & Trading and Quant & 4 & 1 & 0\% & 0\% & 24.3 \\[1.5pt]
-77 & Pluralis Research & AI and DePIN & 4 & 1 & 0\% & 0\% & 24.3 \\[1.5pt]
-78 & Helius & Infrastructure and Tooling & 3 & 3 & 100\% & 0\% & 35.2 \\[1.5pt]
-79 & Notabene & Security and Auditing & 3 & 3 & 100\% & 0\% & 35.2 \\[1.5pt]
-80 & Digital Asset & AI and DePIN & 3 & 2 & 0\% & 100\% & 33.2 \\[1.5pt]
-81 & Polygon Labs & L1 and L2 Protocols & 3 & 2 & 100\% & 0\% & 33.2 \\[1.5pt]
-82 & 0x & DeFi Protocols & 3 & 2 & 100\% & 0\% & 33.2 \\[1.5pt]
-83 & Groma & Security and Auditing & 3 & 2 & 0\% & 100\% & 33.2 \\[1.5pt]
-84 & Orderly Network & DeFi Protocols & 3 & 1 & 100\% & 0\% & 31.2 \\[1.5pt]
-85 & Spruce & Web3 Infrastructure & 3 & 2 & 67\% & 0\% & 29.9 \\[1.5pt]
-86 & Rhino.fi & DeFi Protocols & 3 & 3 & 33\% & 0\% & 28.5 \\[1.5pt]
-87 & Open Standard & Fintech and Payments & 3 & 3 & 33\% & 0\% & 28.5 \\[1.5pt]
-88 & 1inch & DeFi Protocols & 3 & 3 & 33\% & 0\% & 28.5 \\[1.5pt]
-89 & Coins.ph & Exchanges and Custody & 3 & 3 & 0\% & 0\% & 25.2 \\[1.5pt]
-90 & Coinhako & Exchanges and Custody & 3 & 3 & 0\% & 0\% & 25.2 \\[1.5pt]
-91 & Lightspark & Exchanges and Custody & 3 & 2 & 0\% & 0\% & 23.2 \\[1.5pt]
-92 & ether.fi & DeFi Protocols & 3 & 2 & 0\% & 0\% & 23.2 \\[1.5pt]
-93 & Kast & Fintech and Payments & 3 & 2 & 0\% & 0\% & 23.2 \\[1.5pt]
-94 & CoinDesk & Web3 Infrastructure & 3 & 1 & 0\% & 0\% & 21.2 \\[1.5pt]
-95 & Bullish & Exchanges and Custody & 3 & 1 & 0\% & 0\% & 21.2 \\[1.5pt]
-96 & Fasset & Fintech and Payments & 3 & 1 & 0\% & 0\% & 21.2 \\[1.5pt]
-97 & Shakepay & Exchanges and Custody & 2 & 1 & 100\% & 100\% & 37.2 \\[1.5pt]
-98 & Turnkey & Infrastructure and Tooling & 2 & 2 & 50\% & 100\% & 34.2 \\[1.5pt]
-99 & Gauntlet & DeFi Protocols & 2 & 1 & 100\% & 50\% & 32.2 \\[1.5pt]
-100 & CoinPoker & Web3 Infrastructure & 2 & 2 & 100\% & 0\% & 29.2 \\[1.5pt]
-\end{xltabular}
+1 & Coinbase & Exchanges and Custody & 75 & 23 & 83\% & 88\% & 97.1 \\[0.5pt]
+2 & OKX & Exchanges and Custody & 73 & 16 & 14\% & 19\% & 82.9 \\[0.5pt]
+3 & Bybit & Exchanges and Custody & 47 & 18 & 34\% & 0\% & 77.0 \\[0.5pt]
+4 & Kraken & Exchanges and Custody & 46 & 11 & 98\% & 0\% & 83.1 \\[0.5pt]
+5 & Ripple & Fintech and Payments & 40 & 12 & 0\% & 45\% & 75.9 \\[0.5pt]
+6 & Bitdeer & Exchanges and Custody & 31 & 10 & 13\% & 0\% & 69.3 \\[0.5pt]
+7 & TRM Labs & Security and Auditing & 31 & 3 & 100\% & 0\% & 64.0 \\[0.5pt]
+8 & DRW & Trading and Quant & 30 & 24 & 0\% & 60\% & 73.6 \\[0.5pt]
+9 & Galaxy Digital & Venture and Research & 25 & 9 & 4\% & 24\% & 65.9 \\[0.5pt]
+10 & BitGo & Exchanges and Custody & 25 & 9 & 0\% & 12\% & 64.3 \\[0.5pt]
+11 & Ajaib Crypto & Trading and Quant & 24 & 8 & 0\% & 0\% & 60.6 \\[0.5pt]
+12 & Circle & Fintech and Payments & 24 & 1 & 100\% & 0\% & 56.6 \\[0.5pt]
+13 & Prime Intellect & AI and DePIN & 24 & 5 & 0\% & 0\% & 54.6 \\[0.5pt]
+14 & Tether & Fintech and Payments & 23 & 7 & 100\% & 0\% & 68.0 \\[0.5pt]
+15 & Bitpanda & Exchanges and Custody & 22 & 6 & 0\% & 0\% & 55.4 \\[0.5pt]
+16 & Chainalysis & Security and Auditing & 21 & 4 & 90\% & 0\% & 59.8 \\[0.5pt]
+17 & Crypto.com & Exchanges and Custody & 21 & 6 & 0\% & 33\% & 58.1 \\[0.5pt]
+18 & BVNK & Fintech and Payments & 18 & 6 & 0\% & 56\% & 58.4 \\[0.5pt]
+19 & Riot Platforms & AI and DePIN & 16 & 7 & 63\% & 0\% & 59.6 \\[0.5pt]
+20 & GoMining & AI and DePIN & 16 & 5 & 94\% & 0\% & 58.7 \\[0.5pt]
+21 & StraitsX & Fintech and Payments & 16 & 7 & 0\% & 0\% & 53.3 \\[0.5pt]
+22 & Sardine & Fintech and Payments & 15 & 9 & 87\% & 0\% & 65.1 \\[0.5pt]
+23 & Figure & Fintech and Payments & 13 & 8 & 46\% & 77\% & 64.9 \\[0.5pt]
+24 & Polymarket & Prediction Markets & 13 & 5 & 23\% & 0\% & 48.9 \\[0.5pt]
+25 & Chainlink Labs & AI and DePIN & 12 & 5 & 100\% & 0\% & 55.5 \\[0.5pt]
+26 & a16z crypto & Venture and Research & 12 & 5 & 8\% & 83\% & 54.6 \\[0.5pt]
+27 & Flow Traders & Trading and Quant & 12 & 6 & 0\% & 8\% & 48.3 \\[0.5pt]
+28 & Mantle Network & L1 and L2 Protocols & 12 & 5 & 8\% & 0\% & 46.3 \\[0.5pt]
+29 & Hut 8 & AI and DePIN & 11 & 6 & 0\% & 0\% & 46.4 \\[0.5pt]
+30 & Blockchain.com & Fintech and Payments & 11 & 5 & 0\% & 0\% & 44.4 \\[0.5pt]
+31 & Kamino & DeFi Protocols & 10 & 8 & 30\% & 50\% & 57.2 \\[0.5pt]
+32 & Flowdesk & Trading and Quant & 10 & 7 & 0\% & 0\% & 47.2 \\[0.5pt]
+33 & Jane Street & Trading and Quant & 10 & 7 & 0\% & 0\% & 47.2 \\[0.5pt]
+34 & Mesh & Security and Auditing & 9 & 2 & 67\% & 89\% & 51.5 \\[0.5pt]
+35 & Zero Hash & Exchanges and Custody & 9 & 4 & 100\% & 0\% & 49.9 \\[0.5pt]
+36 & Paxos & Infrastructure and Tooling & 9 & 4 & 89\% & 0\% & 48.8 \\[0.5pt]
+37 & Story Protocol & L1 and L2 Protocols & 8 & 3 & 13\% & 88\% & 46.5 \\[0.5pt]
+38 & MoonPay & Fintech and Payments & 8 & 6 & 13\% & 0\% & 43.7 \\[0.5pt]
+39 & DV Trading & Trading and Quant & 8 & 4 & 13\% & 38\% & 43.5 \\[0.5pt]
+40 & Unlimit & Fintech and Payments & 8 & 6 & 0\% & 0\% & 42.4 \\[0.5pt]
+41 & Rain & Fintech and Payments & 8 & 3 & 50\% & 0\% & 41.4 \\[0.5pt]
+42 & Elliptic & Security and Auditing & 7 & 5 & 100\% & 0\% & 48.8 \\[0.5pt]
+43 & Talos & Security and Auditing & 7 & 6 & 57\% & 0\% & 46.5 \\[0.5pt]
+44 & Alchemy & Infrastructure and Tooling & 7 & 3 & 100\% & 0\% & 44.8 \\[0.5pt]
+45 & Ondo Finance & DeFi Protocols & 7 & 4 & 71\% & 0\% & 43.9 \\[0.5pt]
+46 & Aspora & Fintech and Payments & 7 & 5 & 29\% & 0\% & 41.7 \\[0.5pt]
+47 & Augustus & Fintech and Payments & 7 & 5 & 0\% & 0\% & 38.8 \\[0.5pt]
+48 & Coinflow & Fintech and Payments & 7 & 5 & 0\% & 0\% & 38.8 \\[0.5pt]
+49 & Fireblocks & Infrastructure and Tooling & 7 & 1 & 0\% & 43\% & 35.1 \\[0.5pt]
+50 & Solflare & DeFi Protocols & 7 & 3 & 0\% & 0\% & 34.8 \\[0.5pt]
+51 & Infosys & Security and Auditing & 7 & 1 & 0\% & 0\% & 30.8 \\[0.5pt]
+52 & Consensys & Infrastructure and Tooling & 6 & 3 & 100\% & 50\% & 48.0 \\[0.5pt]
+53 & HIFI & Fintech and Payments & 6 & 5 & 0\% & 100\% & 47.0 \\[0.5pt]
+54 & GRVT & Trading and Quant & 6 & 3 & 100\% & 0\% & 43.0 \\[0.5pt]
+55 & SwissBorg & Exchanges and Custody & 6 & 3 & 67\% & 0\% & 39.7 \\[0.5pt]
+56 & FalconX & Trading and Quant & 6 & 3 & 0\% & 67\% & 39.7 \\[0.5pt]
+57 & Stellar & L1 and L2 Protocols & 6 & 3 & 67\% & 0\% & 39.7 \\[0.5pt]
+58 & BitOasis & Exchanges and Custody & 5 & 4 & 0\% & 100\% & 42.8 \\[0.5pt]
+59 & Anchorage Digital & Infrastructure and Tooling & 5 & 4 & 100\% & 0\% & 42.8 \\[0.5pt]
+60 & Phantom & Exchanges and Custody & 5 & 3 & 100\% & 0\% & 40.8 \\[0.5pt]
+61 & Bitvavo & Exchanges and Custody & 5 & 4 & 20\% & 0\% & 34.8 \\[0.5pt]
+62 & ComplyAdvantage & Security and Auditing & 5 & 2 & 0\% & 60\% & 34.8 \\[0.5pt]
+63 & Breeze Cash & Fintech and Payments & 5 & 3 & 0\% & 0\% & 30.8 \\[0.5pt]
+64 & Nexo & Fintech and Payments & 5 & 2 & 20\% & 0\% & 30.8 \\[0.5pt]
+65 & Spiko & DeFi Protocols & 5 & 2 & 0\% & 0\% & 28.8 \\[0.5pt]
+66 & Newton & Exchanges and Custody & 4 & 3 & 100\% & 0\% & 38.3 \\[0.5pt]
+67 & CertiK & Security and Auditing & 4 & 3 & 100\% & 0\% & 38.3 \\[0.5pt]
+68 & Morpho & DeFi Protocols & 4 & 3 & 100\% & 0\% & 38.3 \\[0.5pt]
+69 & Mysten Labs & L1 and L2 Protocols & 4 & 3 & 100\% & 0\% & 38.3 \\[0.5pt]
+70 & Uniswap Labs & DeFi Protocols & 4 & 4 & 75\% & 0\% & 37.8 \\[0.5pt]
+71 & Liminal & Exchanges and Custody & 4 & 4 & 25\% & 0\% & 32.8 \\[0.5pt]
+72 & Luxor Technology & AI and DePIN & 4 & 2 & 25\% & 0\% & 28.8 \\[0.5pt]
+73 & Aave Labs & DeFi Protocols & 4 & 3 & 0\% & 0\% & 28.3 \\[0.5pt]
+74 & Baton Corporation & Trading and Quant & 4 & 1 & 0\% & 0\% & 24.3 \\[0.5pt]
+75 & Brevan Howard & Venture and Research & 4 & 1 & 0\% & 0\% & 24.3 \\[0.5pt]
+76 & Keyrock & Trading and Quant & 4 & 1 & 0\% & 0\% & 24.3 \\[0.5pt]
+77 & Pluralis Research & AI and DePIN & 4 & 1 & 0\% & 0\% & 24.3 \\[0.5pt]
+78 & Helius & Infrastructure and Tooling & 3 & 3 & 100\% & 0\% & 35.2 \\[0.5pt]
+79 & Notabene & Security and Auditing & 3 & 3 & 100\% & 0\% & 35.2 \\[0.5pt]
+80 & Digital Asset & AI and DePIN & 3 & 2 & 0\% & 100\% & 33.2 \\[0.5pt]
+81 & Polygon Labs & L1 and L2 Protocols & 3 & 2 & 100\% & 0\% & 33.2 \\[0.5pt]
+82 & 0x & DeFi Protocols & 3 & 2 & 100\% & 0\% & 33.2 \\[0.5pt]
+83 & Groma & Security and Auditing & 3 & 2 & 0\% & 100\% & 33.2 \\[0.5pt]
+84 & Orderly Network & DeFi Protocols & 3 & 1 & 100\% & 0\% & 31.2 \\[0.5pt]
+85 & Spruce & Web3 Infrastructure & 3 & 2 & 67\% & 0\% & 29.9 \\[0.5pt]
+86 & Rhino.fi & DeFi Protocols & 3 & 3 & 33\% & 0\% & 28.5 \\[0.5pt]
+87 & Open Standard & Fintech and Payments & 3 & 3 & 33\% & 0\% & 28.5 \\[0.5pt]
+88 & 1inch & DeFi Protocols & 3 & 3 & 33\% & 0\% & 28.5 \\[0.5pt]
+89 & Coins.ph & Exchanges and Custody & 3 & 3 & 0\% & 0\% & 25.2 \\[0.5pt]
+90 & Coinhako & Exchanges and Custody & 3 & 3 & 0\% & 0\% & 25.2 \\[0.5pt]
+91 & Lightspark & Exchanges and Custody & 3 & 2 & 0\% & 0\% & 23.2 \\[0.5pt]
+92 & ether.fi & DeFi Protocols & 3 & 2 & 0\% & 0\% & 23.2 \\[0.5pt]
+93 & Kast & Fintech and Payments & 3 & 2 & 0\% & 0\% & 23.2 \\[0.5pt]
+94 & CoinDesk & Web3 Infrastructure & 3 & 1 & 0\% & 0\% & 21.2 \\[0.5pt]
+95 & Bullish & Exchanges and Custody & 3 & 1 & 0\% & 0\% & 21.2 \\[0.5pt]
+96 & Fasset & Fintech and Payments & 3 & 1 & 0\% & 0\% & 21.2 \\[0.5pt]
+97 & Shakepay & Exchanges and Custody & 2 & 1 & 100\% & 100\% & 37.2 \\[0.5pt]
+98 & Turnkey & Infrastructure and Tooling & 2 & 2 & 50\% & 100\% & 34.2 \\[0.5pt]
+99 & Gauntlet & DeFi Protocols & 2 & 1 & 100\% & 50\% & 32.2 \\[0.5pt]
+100 & CoinPoker & Web3 Infrastructure & 2 & 2 & 100\% & 0\% & 29.2 \\[0.5pt]
+\end{xltabular}}
 \endgroup
 
 \clearpage
