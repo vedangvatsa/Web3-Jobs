@@ -117966,7 +117966,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "f8012769-ad27-4b4a-9d61-317cc740ad4b",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af0cf11004e4879a7d8e1a0"
     }
   ]
 }
