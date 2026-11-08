@@ -8584,7 +8584,7 @@
     "sentAt": "2026-11-07T19:32:55.640Z"
   },
   "6df96629-b673-404d-b05a-f919c5e45513": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-08T11:32:06.604Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -8697,6 +8697,8 @@
       }
     ],
     "message": "- BitGo is hiring <a href=\"https://hashtagweb3.com/eng419?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer - Mobile (React Native/iOS/Android)</a>\n- Figure is hiring <a href=\"https://hashtagweb3.com/mgr145?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Capital Markets</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm222?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sr. Product Marketing Manager, LATAM</a>\n- DriveWealth is hiring <a href=\"https://hashtagweb3.com/sls294?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Representative, Turkey</a>\n- Phantom is hiring <a href=\"https://hashtagweb3.com/eng670?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Engineer</a>",
-    "slotKey": "2026-11-08:afternoon"
+    "slotKey": "2026-11-08:afternoon",
+    "messageId": 156144,
+    "sentAt": "2026-11-08T11:32:09.260Z"
   }
 }
