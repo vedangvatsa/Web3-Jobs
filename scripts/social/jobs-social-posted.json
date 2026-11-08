@@ -116301,6 +116301,34 @@
       "attemptId": "85e17a1d-a574-46a7-91d7-db0ef3a66515",
       "verification": "verified",
       "postId": "urn:li:share:7525159377272524800"
+    },
+    {
+      "slug": "rec4",
+      "company": "Blockchain.com",
+      "title": "Talent Acquisition Coordinator",
+      "platform": "facebook",
+      "postedAt": "2026-11-08T11:32:56.703Z",
+      "expectedText": "Blockchain.com is hiring Talent Acquisition Coordinator: https://hashtagweb3.com/rec4/fb?og=7",
+      "snapshot": {
+        "id": "8289239",
+        "title": "Talent Acquisition Coordinator",
+        "company": "Blockchain.com",
+        "link": "https://job-boards.greenhouse.io/blockchain/jobs/8289239",
+        "date": "2026-10-16T11:59:41-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Blockchain.com [blockchain]",
+        "location": "Buenos Aires",
+        "department": "People Success",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec4"
+      },
+      "payload": {
+        "message": "Blockchain.com is hiring Talent Acquisition Coordinator: https://hashtagweb3.com/rec4/fb?og=7",
+        "link": "https://hashtagweb3.com/rec4/fb?og=7"
+      },
+      "attemptId": "5d99f330-cf07-41a1-b567-d2e1b6719b1b",
+      "verification": "creating"
     }
   ]
 }
