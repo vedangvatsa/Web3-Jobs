@@ -3477,5 +3477,37 @@
     "slotKey": "2026-11-07:evening",
     "messageId": 65812,
     "sentAt": "2026-11-07T19:37:18.233Z"
+  },
+  "8f892184-05ed-45ec-844c-5ffc136fe3b7": {
+    "status": "reserved",
+    "reservedAt": "2026-11-08T11:34:37.368Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Winklevoss Files S-1 for Spot Zcash ETF",
+        "summary": "The proposed Nasdaq fund features a 0.25 percent fee and uses Gemini as its custodian.",
+        "link": "https://hashtagweb3.com/zec-etf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Winklevoss Files for Spot Zcash ETF With WINK Ticker"
+      },
+      {
+        "index": 2,
+        "headline": "Strive purchases 15,124 Bitcoin for corporate treasury",
+        "summary": "The asset management firm increased its total holdings to 43,124 bitcoins following a profitable third quarter.",
+        "event_rationale": "This represents a significant institutional capital allocation into digital assets, distinct from exchange-traded fund flows or retail price movements.",
+        "link": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "Binance’s  finance chief Kaiser Ng to leave company, report says"
+      },
+      {
+        "index": 1,
+        "headline": "Police Detain Protesters at Amsterdam Microsoft Data Center",
+        "summary": "Dutch authorities held up to 200 people for trespassing during the demonstration.",
+        "link": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "Amsterdam protesters break into Microsoft data center construction site: Report"
+      }
+    ],
+    "slotKey": "2026-11-08:afternoon"
   }
 }
