@@ -142711,7 +142711,27 @@
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
       "attempts": 0,
       "expiresAt": "2026-11-08T15:30:00.000Z",
-      "lastSeenAt": "2026-11-06T00:28:20.054Z"
+      "lastSeenAt": "2026-11-06T00:28:20.054Z",
+      "articleSlug": "carf",
+      "draftProgress": {
+        "id": "2ceac87343a534d02420",
+        "day": "2026-11-08",
+        "articleSlug": "carf",
+        "note": "Read Unchained and the HK government press release; two sources including primary. Drafting carf.md next.",
+        "sourceChecks": [
+          {
+            "url": "https://unchainedcrypto.com/hong-kong-lawmakers-pass-crypto-tax-reporting-bill-weeks-before-2027-data-collection-begins/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400310.htm",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-08T11:10:44.764Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "624b3feb0f3dceded58e": {
       "source": "The Defiant",
