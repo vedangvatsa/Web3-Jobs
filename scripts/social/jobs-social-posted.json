@@ -116103,7 +116103,8 @@
       },
       "account": "channel:product",
       "attemptId": "dbdfdcd1-df7d-4770-b639-caf097882857",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc7ddcc35cc919b270b1084f72ff3e73d0dc89d80"
     }
   ]
 }
