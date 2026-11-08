@@ -118497,7 +118497,8 @@
       },
       "account": "channel:base",
       "attemptId": "fcfd651d-a8ea-492a-9b10-f6d0818bb5ec",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe58c1471e529bca5d5f42cdb545f5391402ba80f"
     }
   ]
 }
