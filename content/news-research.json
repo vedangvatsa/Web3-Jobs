@@ -142260,14 +142260,18 @@
         "id": "0afea6f554f30d2245ce",
         "day": "2026-11-08",
         "articleSlug": "frenchhill",
-        "note": "Read the Cointelegraph report; AP-call coverage from KATV and THV11 was located in search but not opened yet, and no draft has been started.",
+        "note": "Read Cointelegraph and the KATV report of the AP call; two independent sites now read. Draft not started, image not selected; next step is drafting frenchhill.md with a verified photo.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas",
             "outcome": "read"
+          },
+          {
+            "url": "https://katv.com/news/local/ap-calls-french-hill-winner-in-arkansas-2nd-district-race-edging-chris-jones",
+            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-08T10:56:04.732Z",
+        "updatedAt": "2026-11-08T10:57:14.989Z",
         "approved": false,
         "mustReview": true
       }
