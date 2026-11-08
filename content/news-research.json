@@ -143027,11 +143027,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "05eeb2ca7232a0b27696",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-08T12:50:57.000Z",
-      "lastSeenAt": "2026-11-06T00:28:20.054Z"
+      "lastSeenAt": "2026-11-06T00:28:20.054Z",
+      "reason": "duplicate",
+      "note": "CoinDesk headline and URL cover the same NBU Nov. 4 opposition to Draft Law 10225-d on monetary sovereignty grounds already reported in the ready nbubill article; no new event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-11-08T11:23:25.608Z",
+      "duplicateOf": "nbubill",
+      "mergedInto": "3967e0aca164a53111a5",
+      "lastReviewedDay": "2026-11-08"
     },
     "5b5a1d7fd2e7ece04001": {
       "source": "Cointelegraph",
@@ -283212,6 +283219,15 @@
             }
           ],
           "reviewedAt": "2026-11-08T11:23:14.717Z",
+          "duplicateOf": "nbubill",
+          "mergedInto": "3967e0aca164a53111a5"
+        },
+        "05eeb2ca7232a0b27696": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "CoinDesk headline and URL cover the same NBU Nov. 4 opposition to Draft Law 10225-d on monetary sovereignty grounds already reported in the ready nbubill article; no new event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-11-08T11:23:25.608Z",
           "duplicateOf": "nbubill",
           "mergedInto": "3967e0aca164a53111a5"
         }
