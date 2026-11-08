@@ -142111,9 +142111,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "cf68985c033f81393e89",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-06T00:28:20.054Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-08T22:06:11.000Z",
       "lastSeenAt": "2026-11-06T00:28:20.054Z",
       "articleSlug": "dcmaccess",
@@ -142135,7 +142135,29 @@
         "updatedAt": "2026-11-08T10:48:09.924Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read the CFTC release 9323-26, the Crypto Briefing report, the LeapRate report and the Sports Betting Dime report; drafted dcmaccess.md with a self-hosted CFTC headquarters photo; quality, formatting, image and duplicate audits show no failures for this file and all four cited links return 200.",
+      "sourceChecks": [
+        {
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9323-26",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/cftc-dcm-impartial-access-geographic-restrictions/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.leaprate.com/regulation/cftc-gives-futures-exchanges-30-days-to-end-geographic-limits",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sportsbettingdime.com/news/industry/cftc-orders-prediction-market-companies-to-cease-geofencing-states-within-30-days/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-08T10:55:10.508Z",
+      "lastReviewedDay": "2026-11-08"
     },
     "e3cc3a9b959584793860": {
       "source": "BeInCrypto",
@@ -282762,6 +282784,31 @@
             }
           ],
           "reviewedAt": "2026-11-08T10:49:19.455Z"
+        },
+        "cf68985c033f81393e89": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the CFTC release 9323-26, the Crypto Briefing report, the LeapRate report and the Sports Betting Dime report; drafted dcmaccess.md with a self-hosted CFTC headquarters photo; quality, formatting, image and duplicate audits show no failures for this file and all four cited links return 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/9323-26",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/cftc-dcm-impartial-access-geographic-restrictions/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.leaprate.com/regulation/cftc-gives-futures-exchanges-30-days-to-end-geographic-limits",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sportsbettingdime.com/news/industry/cftc-orders-prediction-market-companies-to-cease-geofencing-states-within-30-days/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-08T10:55:10.508Z",
+          "articleSlug": "dcmaccess"
         }
       },
       "baselineSlugs": [
