@@ -142768,7 +142768,7 @@
         "mustReview": true
       },
       "reason": "verified-event",
-      "note": "Re-read Bitcoin Magazine and UA.NEWS coverage of the NBU Nov. 4 statement on Draft Law 10225-d; both sites opened in full. Drafted nbubill.md at 620+ prose words with the three NBU objections, July 1 2027 effective date and tax terms attributed as reported. Hero image is the NBU Kyiv building from Wikimedia Commons (verified depicts National Bank of Ukraine), self-hosted at 328KB, 1600px. Audits clean for this file.",
+      "note": "Re-read Bitcoin Magazine, UA.NEWS and Unchained coverage of the NBU Nov. 4 statement on Draft Law 10225-d; all three opened in full. Drafted nbubill.md at 650+ prose words with the three NBU objections, committee vote details, July 1 2027 effective date and tax terms attributed as reported. Hero image is the NBU Kyiv building from Wikimedia Commons (page confirms it depicts the National Bank of Ukraine), self-hosted at 328KB, 1600px. Audits clean for this file.",
       "sourceChecks": [
         {
           "url": "https://bitcoinmagazine.com/news/ukraine-central-bank-refuses-crypto-bill",
@@ -142777,9 +142777,13 @@
         {
           "url": "https://ua.news/en/ukraine/natsbank-ne-pidtrimav-zakonoproiekt-pro-obig-virtualnikh-aktiviv",
           "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/ukraines-central-bank-withholds-support-as-crypto-bill-nears-final-rada-vote/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-08T11:22:20.396Z",
+      "reviewedAt": "2026-11-08T11:24:22.445Z",
       "lastReviewedDay": "2026-11-08"
     },
     "2ceac87343a534d02420": {
@@ -283204,7 +283208,7 @@
         "3967e0aca164a53111a5": {
           "status": "ready",
           "reason": "verified-event",
-          "note": "Re-read Bitcoin Magazine and UA.NEWS coverage of the NBU Nov. 4 statement on Draft Law 10225-d; both sites opened in full. Drafted nbubill.md at 620+ prose words with the three NBU objections, July 1 2027 effective date and tax terms attributed as reported. Hero image is the NBU Kyiv building from Wikimedia Commons (verified depicts National Bank of Ukraine), self-hosted at 328KB, 1600px. Audits clean for this file.",
+          "note": "Re-read Bitcoin Magazine, UA.NEWS and Unchained coverage of the NBU Nov. 4 statement on Draft Law 10225-d; all three opened in full. Drafted nbubill.md at 650+ prose words with the three NBU objections, committee vote details, July 1 2027 effective date and tax terms attributed as reported. Hero image is the NBU Kyiv building from Wikimedia Commons (page confirms it depicts the National Bank of Ukraine), self-hosted at 328KB, 1600px. Audits clean for this file.",
           "sourceChecks": [
             {
               "url": "https://bitcoinmagazine.com/news/ukraine-central-bank-refuses-crypto-bill",
@@ -283213,9 +283217,13 @@
             {
               "url": "https://ua.news/en/ukraine/natsbank-ne-pidtrimav-zakonoproiekt-pro-obig-virtualnikh-aktiviv",
               "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/ukraines-central-bank-withholds-support-as-crypto-bill-nears-final-rada-vote/",
+              "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-11-08T11:22:20.396Z",
+          "reviewedAt": "2026-11-08T11:24:22.445Z",
           "articleSlug": "nbubill"
         },
         "f22600fc42631c263e64": {
