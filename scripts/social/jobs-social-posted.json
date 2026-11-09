@@ -121445,6 +121445,34 @@
       "verification": "verified",
       "postId": "6af1b07c56a4abd5c293c1d3",
       "permalink": "https://twitter.com/hashtag_web3/status/2119756270676672693"
+    },
+    {
+      "slug": "an71",
+      "company": "Galaxy Digital",
+      "title": "2027 Investment Banking Summer Analyst - NYC",
+      "platform": "threads",
+      "postedAt": "2026-11-09T11:37:28.593Z",
+      "expectedText": "Galaxy Digital is hiring 2027 Investment Banking Summer Analyst - NYC: https://hashtagweb3.com/an71/th?og=7",
+      "snapshot": {
+        "id": "6240963004",
+        "title": "2027 Investment Banking Summer Analyst - NYC",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6240963004",
+        "date": "2026-11-02T16:21:21-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "New York",
+        "department": "Early Careers",
+        "active": true,
+        "dateVerified": true,
+        "slug": "an71"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring 2027 Investment Banking Summer Analyst - NYC: https://hashtagweb3.com/an71/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/an71/th?og=7"
+      },
+      "attemptId": "199041f1-26cb-46aa-b025-64503f4f3160",
+      "verification": "creating"
     }
   ]
 }
