@@ -148559,14 +148559,18 @@
         "id": "bd9cea951bd811cec93b",
         "day": "2026-11-09",
         "articleSlug": "iosdrains",
-        "note": "Read CryptoSlate's report built on Bitquery's Nov 5 investigation. The Bitquery primary investigation page still needs to be opened before any draft.",
+        "note": "Read CryptoSlate's report and the Bitquery Nov 5 primary investigation (at least 4.06M USDT from 365 TRON wallets, 43 collectors on one fee wallet, one theft matched to a published iPhone-owner account, 65 more wallets on eight chains). Review still needs a third-source check and draft/image work.",
         "sourceChecks": [
           {
             "url": "https://cryptoslate.com/zero-click-ios-exploits-drain-4m-usdt-from-active-tron-wallets/",
             "outcome": "read"
+          },
+          {
+            "url": "https://www.bitquery.io/investigations/iphone-wallet-drain-tron-usdt",
+            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-09T04:06:45.218Z",
+        "updatedAt": "2026-11-09T04:11:12.302Z",
         "approved": false,
         "mustReview": true
       }
