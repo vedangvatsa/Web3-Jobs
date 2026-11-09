@@ -123507,7 +123507,8 @@
       },
       "account": "channel:build",
       "attemptId": "0cb9f9b7-9683-4df8-bcf8-19e375e40983",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x91740d44d18bc0695a24d6ce1cfe8c51e5cbb7dc"
     }
   ]
 }
