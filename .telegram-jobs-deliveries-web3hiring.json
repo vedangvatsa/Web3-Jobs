@@ -16509,5 +16509,120 @@
     "slotKey": "2026-11-08:evening",
     "messageId": 179,
     "sentAt": "2026-11-08T19:32:42.754Z"
+  },
+  "e1621fb9-558c-46e3-bae8-f9f7fd0857fa": {
+    "status": "reserved",
+    "reservedAt": "2026-11-09T03:32:19.495Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5013294101",
+          "title": "CEO / MD UK",
+          "company": "BVNK",
+          "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5013294101",
+          "date": "2026-10-23T11:03:15-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BVNK [bvnk]",
+          "location": "London",
+          "department": "Operations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cm2"
+        },
+        "key": "5013294101",
+        "slug": "cm2",
+        "url": "https://hashtagweb3.com/cm2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BVNK",
+        "title": "CEO / MD UK"
+      },
+      {
+        "snapshot": {
+          "id": "356c681c-d5b9-4078-8530-d29520987a34",
+          "title": "Deployment Strategist, CTI",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/356c681c-d5b9-4078-8530-d29520987a34",
+          "date": "2026-10-29T22:38:18.202+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Go-To-Market",
+          "active": true,
+          "dateVerified": true,
+          "slug": "dsc"
+        },
+        "key": "356c681c-d5b9-4078-8530-d29520987a34",
+        "slug": "dsc",
+        "url": "https://hashtagweb3.com/dsc?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Deployment Strategist"
+      },
+      {
+        "snapshot": {
+          "id": "8329366",
+          "title": "Senior People Operations Associate",
+          "company": "Consensys",
+          "link": "https://job-boards.greenhouse.io/consensys/jobs/8329366",
+          "date": "2026-10-30T08:59:33-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Consensys [consensys]",
+          "location": "EMEA - Remote",
+          "department": "Corporate",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops118"
+        },
+        "key": "8329366",
+        "slug": "ops118",
+        "url": "https://hashtagweb3.com/ops118?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Consensys",
+        "title": "Senior People Operations Associate"
+      },
+      {
+        "snapshot": {
+          "id": "8346319",
+          "title": "Senior Cloud Architect",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8346319?gh_jid=8346319",
+          "date": "2026-11-02T11:37:43-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "Singapore",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "arc32"
+        },
+        "key": "8346319",
+        "slug": "arc32",
+        "url": "https://hashtagweb3.com/arc32?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Senior Cloud Architect"
+      },
+      {
+        "snapshot": {
+          "id": "5029213101",
+          "title": "Asset/Wallet Operations",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5029213101",
+          "date": "2026-11-06T02:18:47-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Abu Dhabi, UAE; Hong Kong SAR",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops153"
+        },
+        "key": "5029213101",
+        "slug": "ops153",
+        "url": "https://hashtagweb3.com/ops153?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Asset/Wallet Operations"
+      }
+    ],
+    "message": "- BVNK is hiring <a href=\"https://hashtagweb3.com/cm2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">CEO / MD UK</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/dsc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Deployment Strategist, CTI</a>\n- Consensys is hiring <a href=\"https://hashtagweb3.com/ops118?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior People Operations Associate</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/arc32?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Cloud Architect</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/ops153?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Asset/Wallet Operations</a>",
+    "slotKey": "2026-11-09:morning"
   }
 }
