@@ -16743,5 +16743,120 @@
     "slotKey": "2026-11-09:morning",
     "messageId": 180,
     "sentAt": "2026-11-09T03:32:27.756Z"
+  },
+  "dcf1a84d-e394-455c-9c79-c303e7d5e42d": {
+    "status": "reserved",
+    "reservedAt": "2026-11-09T11:32:35.904Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5017380101",
+          "title": "Trading Operations Specialist",
+          "company": "PrimeXBT",
+          "link": "https://job-boards.eu.greenhouse.io/primexbt/jobs/5017380101",
+          "date": "2026-10-27T07:22:04-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: PrimeXBT [primexbt]",
+          "location": "Remote",
+          "department": "Data and Risk Department",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops162"
+        },
+        "key": "5017380101",
+        "slug": "ops162",
+        "url": "https://hashtagweb3.com/ops162?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "PrimeXBT",
+        "title": "Trading Operations Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "8331124",
+          "title": "Product Marketing Manager, Subscriptions",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8331124",
+          "date": "2026-10-28T11:28:30-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "New York, San Francisco, Seattle, Remote",
+          "department": "2317 Marketing - PMM",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm163"
+        },
+        "key": "8331124",
+        "slug": "pm163",
+        "url": "https://hashtagweb3.com/pm163?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Product Marketing Manager"
+      },
+      {
+        "snapshot": {
+          "id": "4748886005",
+          "title": "Senior Institutional Sales & Coverage Executive",
+          "company": "FalconX",
+          "link": "https://job-boards.greenhouse.io/falconx/jobs/4748886005",
+          "date": "2026-11-04T10:26:58-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: FalconX [falconx]",
+          "location": "New York City, NY",
+          "department": "Revenue Sales and Coverage",
+          "active": true,
+          "salary": "$128k – $162k/yr",
+          "dateVerified": true,
+          "slug": "sls412"
+        },
+        "key": "4748886005",
+        "slug": "sls412",
+        "url": "https://hashtagweb3.com/sls412?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "FalconX",
+        "title": "Senior Institutional Sales & Coverage Executive"
+      },
+      {
+        "snapshot": {
+          "id": "8289231",
+          "title": "Trader, Market Making",
+          "company": "Blockchain.com",
+          "link": "https://job-boards.greenhouse.io/blockchain/jobs/8289231",
+          "date": "2026-10-16T11:55:53-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Blockchain.com [blockchain]",
+          "location": "London",
+          "department": "Institutional ",
+          "active": true,
+          "dateVerified": true,
+          "slug": "tr129"
+        },
+        "key": "8289231",
+        "slug": "tr129",
+        "url": "https://hashtagweb3.com/tr129?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Blockchain.com",
+        "title": "Trader, Market Making"
+      },
+      {
+        "snapshot": {
+          "id": "8187258003",
+          "title": "Sr. Product Marketing Manager, LATAM",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8187258003",
+          "date": "2026-11-04T00:18:40-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Argentina (Remote); Mexico (Remote); São Paulo, Brazil",
+          "department": "Strategic Markets",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm222"
+        },
+        "key": "8187258003",
+        "slug": "pm222",
+        "url": "https://hashtagweb3.com/pm222?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Sr. Product Marketing Manager"
+      }
+    ],
+    "message": "- PrimeXBT is hiring <a href=\"https://hashtagweb3.com/ops162?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Trading Operations Specialist</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/pm163?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Marketing Manager, Subscriptions</a>\n- FalconX is hiring <a href=\"https://hashtagweb3.com/sls412?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Institutional Sales &amp; Coverage Executive</a>\n- Blockchain​.com is hiring <a href=\"https://hashtagweb3.com/tr129?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Trader, Market Making</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm222?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sr. Product Marketing Manager, LATAM</a>",
+    "slotKey": "2026-11-09:afternoon"
   }
 }
