@@ -122387,7 +122387,8 @@
       },
       "account": "profile",
       "attemptId": "78e3d492-0745-412d-af4a-4b7b69e8e3ab",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x916c81ea51b3b6434e375431d425a3be1eda85b3"
     }
   ]
 }
