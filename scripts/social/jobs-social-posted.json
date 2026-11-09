@@ -122855,7 +122855,8 @@
       },
       "account": "channel:ai",
       "attemptId": "10f01b8d-741d-4d5d-9334-8d8a7c678dbf",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x192b063bbd95e3dfd991ef55be85a55ea16ab775"
     }
   ]
 }
