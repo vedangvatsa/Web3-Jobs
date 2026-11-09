@@ -8936,5 +8936,128 @@
     "slotKey": "2026-11-09:morning",
     "messageId": 156150,
     "sentAt": "2026-11-09T03:32:34.985Z"
+  },
+  "8a1bba69-370e-4bc4-926e-f39d4bf682f4": {
+    "status": "reserved",
+    "reservedAt": "2026-11-09T11:32:47.226Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "1d8096e981ef",
+          "title": "Talent Acquisition & HR Manager",
+          "company": "Bitdeer",
+          "link": "https://bitdeer.breezy.hr/p/1d8096e981ef-talent-acquisition-hr-manager",
+          "date": "2026-10-22",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Bitdeer [bitdeer]",
+          "location": "Oslo, NO",
+          "isRemote": false,
+          "department": "Human Resources",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://bitdeer.breezy.hr/p/1d8096e981ef-talent-acquisition-hr-manager",
+            "checkedAt": "2026-10-23T03:45:51.891Z",
+            "bodySha256": "650b580386cef57155650e7103fe2638f07c1cc6330ae7de5dc92bc01fb0be07",
+            "provider": "breezy",
+            "datePosted": "2026-10-22"
+          },
+          "slug": "rec11"
+        },
+        "key": "1d8096e981ef",
+        "slug": "rec11",
+        "url": "https://hashtagweb3.com/rec11?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "Talent Acquisition & HR Manager"
+      },
+      {
+        "snapshot": {
+          "id": "4996295101",
+          "title": "OTC Sales Trader",
+          "company": "StraitsX",
+          "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/4996295101",
+          "date": "2026-10-12T04:18:09-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: StraitsX [straitsx]",
+          "location": "Singapore",
+          "department": "STX - Commercial",
+          "active": true,
+          "dateVerified": true,
+          "slug": "tr123"
+        },
+        "key": "4996295101",
+        "slug": "tr123",
+        "url": "https://hashtagweb3.com/tr123?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "StraitsX",
+        "title": "OTC Sales Trader"
+      },
+      {
+        "snapshot": {
+          "id": "8349475",
+          "title": "Account Executive - Startups, Southeast Asia",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8349475",
+          "date": "2026-11-04T02:28:30-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Singapore",
+          "department": "1195 Account Executives (APAC)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls403"
+        },
+        "key": "8349475",
+        "slug": "sls403",
+        "url": "https://hashtagweb3.com/sls403?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "5009500101",
+          "title": "Senior Regional Sales Specialist, Mandarin Speaking Region",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5009500101",
+          "date": "2026-10-18T10:01:37-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "APAC - Remote",
+          "department": "Global Regions",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls85"
+        },
+        "key": "5009500101",
+        "slug": "sls85",
+        "url": "https://hashtagweb3.com/sls85?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Senior Regional Sales Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "a831f2fe-fd7f-4379-b7f9-bde67710b661",
+          "title": "Assistant General Counsel - Product and Regulatory Legal (EU)",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/a831f2fe-fd7f-4379-b7f9-bde67710b661",
+          "date": "2026-10-15T11:59:43.962+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (United Kingdom)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Legal",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm31"
+        },
+        "key": "a831f2fe-fd7f-4379-b7f9-bde67710b661",
+        "slug": "pm31",
+        "url": "https://hashtagweb3.com/pm31?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Assistant General Counsel"
+      }
+    ],
+    "message": "- Bitdeer is hiring <a href=\"https://hashtagweb3.com/rec11?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Talent Acquisition &amp; HR Manager</a>\n- StraitsX is hiring <a href=\"https://hashtagweb3.com/tr123?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">OTC Sales Trader</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls403?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive - Startups, Southeast Asia</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/sls85?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Regional Sales Specialist, Mandarin Speaking Region</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/pm31?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Assistant General Counsel - Product and Regulatory Legal (EU)</a>",
+    "slotKey": "2026-11-09:afternoon"
   }
 }
