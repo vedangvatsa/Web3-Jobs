@@ -121338,7 +121338,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "134f3b5b-1e41-4934-a4df-dff55ec3e91c",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af1b0429541fd37f940dfd4"
     }
   ]
 }
