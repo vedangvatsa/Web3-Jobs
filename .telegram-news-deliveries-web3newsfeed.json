@@ -3546,7 +3546,7 @@
     "sentAt": "2026-11-08T19:35:07.163Z"
   },
   "281e23a9-7d6e-41bd-90f3-ebb4b13d99c8": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-09T03:36:16.302Z",
     "stories": [
       {
@@ -3576,6 +3576,8 @@
         "originalTitle": "What is Zcash (ZEC)? How shielded transactions work"
       }
     ],
-    "slotKey": "2026-11-09:morning"
+    "slotKey": "2026-11-09:morning",
+    "messageId": 65815,
+    "sentAt": "2026-11-09T03:36:23.901Z"
   }
 }

@@ -953,6 +953,9 @@
   "https://hashtagweb3.com/frenchhill?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/carf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/francetax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/dcmaccess?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+  "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2758,6 +2761,12 @@
   "Hong Kong Lawmakers Pass Crypto Tax Reporting Bill for 2027 Collection",
   "French lawmakers approve tax on crypto-to-stablecoin swaps",
   "French Assembly backs tax on crypto-to-stablecoin swaps by one vote",
+  "CFTC Orders Futures Exchanges to End US Location Restrictions",
+  "CFTC gives futures exchanges 30 days to drop domestic geographic restrictions",
+  "US Treasury withdraws crypto transaction surveillance proposal",
+  "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+  "Greece implements new tax framework for cryptocurrency gains",
+  "What is Zcash (ZEC)? How shielded transactions work",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -3240,5 +3249,8 @@
   "fp:amsterdam|authority|break|center|construction|data|demonstration|detain|dur|dutch",
   "fp:arkansa|chair|chairmanship|committe|control|democrat|financial|french|hill|his",
   "fp:adopt|bill|collect|collection|data|firm|for2027|hong|in2027|kong",
-  "fp:approv|assembly|back|begin|exit|french|implementation|in2027|lawmaker|legislativ"
+  "fp:approv|assembly|back|begin|exit|french|implementation|in2027|lawmaker|legislativ",
+  "fp:cftc|comply|day|domestic|drop|end|exchang|exchanges30|explain|feasibl",
+  "fp:abandon|agency|asset|cheat|collection|controversial|data|digital|drop|expand",
+  "fp:capital|cryptocurrency|decentraliz|financ|framework|gain|greec|how|implement|incom"
 ]
