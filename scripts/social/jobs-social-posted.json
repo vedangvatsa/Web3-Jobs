@@ -124720,7 +124720,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "a39b78a2-2050-45ed-8c11-7fe725c87ebf",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af2273d398ae91929abc4bb"
     }
   ]
 }
