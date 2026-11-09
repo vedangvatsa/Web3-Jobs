@@ -39,6 +39,26 @@
       "slot": "afternoon",
       "date": "2026-11-09",
       "queuedAt": "2026-11-09T11:32:22.866Z"
+    },
+    {
+      "slug": "frenchhill",
+      "platform": "x",
+      "channelId": "6ab62682ea19ca0bdee284bd",
+      "postId": "6af223f829f60b1cda2d55aa",
+      "status": "queued",
+      "slot": "evening",
+      "date": "2026-11-09",
+      "queuedAt": "2026-11-09T19:50:15.901Z"
+    },
+    {
+      "slug": "frenchhill",
+      "platform": "linkedin",
+      "channelId": "69c5b139af47dacb695b5feb",
+      "postId": "6af223fc29d3f56e691fc54d",
+      "status": "queued",
+      "slot": "evening",
+      "date": "2026-11-09",
+      "queuedAt": "2026-11-09T19:50:15.901Z"
     }
   ]
 }
