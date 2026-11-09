@@ -147926,11 +147926,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "bbd6e3f26c0842e8fae5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-09T20:45:53.000Z",
-      "lastSeenAt": "2026-11-07T03:31:47.358Z"
+      "lastSeenAt": "2026-11-07T03:31:47.358Z",
+      "reason": "price-chatter",
+      "note": "Read the Crypto Briefing piece. It summarizes CFTC net short positioning in five-year Treasury futures and prediction-market odds; market positioning commentary, not a concrete crypto event.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/speculators-increase-short-positions-on-five-year-treasury-futures-cftc-data/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-09T03:38:50.914Z",
+      "lastReviewedDay": "2026-11-09"
     },
     "1cfdd1fb6a2752f01074": {
       "source": "Cointelegraph",
@@ -290063,6 +290073,18 @@
             }
           ],
           "reviewedAt": "2026-11-09T03:38:43.926Z"
+        },
+        "bbd6e3f26c0842e8fae5": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read the Crypto Briefing piece. It summarizes CFTC net short positioning in five-year Treasury futures and prediction-market odds; market positioning commentary, not a concrete crypto event.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/speculators-increase-short-positions-on-five-year-treasury-futures-cftc-data/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-09T03:38:50.914Z"
         }
       },
       "baselineSlugs": [
