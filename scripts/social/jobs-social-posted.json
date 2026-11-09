@@ -122603,7 +122603,8 @@
       },
       "account": "channel:developers",
       "attemptId": "95271ef6-c903-4f4a-aa5b-ee661eae9cc9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x17267ac307a8867a95815422ca49713e3b985c9c"
     }
   ]
 }
