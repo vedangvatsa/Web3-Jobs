@@ -148571,9 +148571,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "bd9cea951bd811cec93b",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-10T03:30:04.000Z",
       "lastSeenAt": "2026-11-07T03:31:47.358Z",
       "articleSlug": "iosdrains",
@@ -148599,7 +148599,25 @@
         "updatedAt": "2026-11-09T04:18:52.712Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified Bitquery's Nov 5 investigation, CryptoSlate's Nov 7 report and DailyCoin's Nov 6 coverage; all three read, distinct hero self-hosted from Wikimedia, 706-word draft passes quality, formatting, image and duplicate audits; iphone-spyware.md covers a different Oct 14 iVerify event.",
+      "sourceChecks": [
+        {
+          "url": "https://www.bitquery.io/investigations/iphone-wallet-drain-tron-usdt",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/zero-click-ios-exploits-drain-4m-usdt-from-active-tron-wallets/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://dailycoin.com/darksword-iphone-exploit-4m-crypto-theft",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-09T04:20:54.621Z",
+      "lastReviewedDay": "2026-11-09"
     },
     "7b33b5305d4acb33589d": {
       "source": "Crypto Briefing",
@@ -290637,6 +290655,27 @@
           ],
           "reviewedAt": "2026-11-09T04:17:37.004Z",
           "articleSlug": "binanceseal"
+        },
+        "bd9cea951bd811cec93b": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Bitquery's Nov 5 investigation, CryptoSlate's Nov 7 report and DailyCoin's Nov 6 coverage; all three read, distinct hero self-hosted from Wikimedia, 706-word draft passes quality, formatting, image and duplicate audits; iphone-spyware.md covers a different Oct 14 iVerify event.",
+          "sourceChecks": [
+            {
+              "url": "https://www.bitquery.io/investigations/iphone-wallet-drain-tron-usdt",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/zero-click-ios-exploits-drain-4m-usdt-from-active-tron-wallets/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://dailycoin.com/darksword-iphone-exploit-4m-crypto-theft",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-09T04:20:54.621Z",
+          "articleSlug": "iosdrains"
         }
       },
       "baselineSlugs": [
