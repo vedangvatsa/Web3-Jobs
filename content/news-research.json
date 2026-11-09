@@ -148181,9 +148181,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "8b38dca2880737681ed5",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-09T15:09:02.000Z",
       "lastSeenAt": "2026-11-07T03:31:47.358Z",
       "articleSlug": "dolrule",
@@ -148205,7 +148205,29 @@
         "updatedAt": "2026-11-09T03:39:45.906Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Bitcoin Magazine, bitbo.io and the reginfo.gov OIRA filing (RIN 1210-AC38, received 11/05/2026). Bloomberg Law paywalled, but two independent reports plus the primary filing verify the event. Drafted with self-hosted DOL building photo; audits pass.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/dol-rule-crypto-401k-white-house-review",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitbo.io/news/crypto-401k-rule-white-house",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.reginfo.gov/public/do/eoDetails?rrid=1591871",
+          "outcome": "read"
+        },
+        {
+          "url": "https://news.bloomberglaw.com/employee-benefits/401k-private-asset-rule-lands-at-white-house-for-final-review",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-09T03:55:28.970Z",
+      "lastReviewedDay": "2026-11-09"
     },
     "f9902cdef583f113830c": {
       "source": "The Defiant",
@@ -290271,6 +290293,31 @@
           ],
           "reviewedAt": "2026-11-09T03:51:41.322Z",
           "articleSlug": "bitgetsec"
+        },
+        "8b38dca2880737681ed5": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Bitcoin Magazine, bitbo.io and the reginfo.gov OIRA filing (RIN 1210-AC38, received 11/05/2026). Bloomberg Law paywalled, but two independent reports plus the primary filing verify the event. Drafted with self-hosted DOL building photo; audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/dol-rule-crypto-401k-white-house-review",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitbo.io/news/crypto-401k-rule-white-house",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.reginfo.gov/public/do/eoDetails?rrid=1591871",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bloomberglaw.com/employee-benefits/401k-private-asset-rule-lands-at-white-house-for-final-review",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-09T03:55:28.970Z",
+          "articleSlug": "dolrule"
         }
       },
       "baselineSlugs": [
