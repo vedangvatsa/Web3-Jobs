@@ -120411,7 +120411,8 @@
       },
       "account": "channel:growth",
       "attemptId": "02ac6324-12ce-4696-b7fb-300392c9fde3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7e569285af24b04cbbd7babfc84fe9ab02e90e14"
     }
   ]
 }
