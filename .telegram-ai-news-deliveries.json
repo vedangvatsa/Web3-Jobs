@@ -3483,5 +3483,42 @@
     "slotKey": "2026-11-09:afternoon",
     "messageId": 193484,
     "sentAt": "2026-11-09T11:35:06.162Z"
+  },
+  "9e2840bc-2024-4ccf-af33-e781dbc27873": {
+    "status": "reserved",
+    "reservedAt": "2026-11-09T19:51:04.389Z",
+    "stories": [
+      {
+        "index": 1,
+        "original_title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+        "headline": "Anthropic releases new Mythos and Fable AI models",
+        "summary": "The new models provide improved performance in coding, reasoning, and vision tasks for enterprise users.",
+        "event_rationale": "This covers a significant new model release from a frontier AI lab, distinct from all other infrastructure or policy news.",
+        "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+        "source": "TechCrunch",
+        "originalTitle": "Anthropic releases new Mythos and Fable models amid RSI concerns"
+      },
+      {
+        "index": 20,
+        "original_title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+        "headline": "Chinese AI models demonstrate advanced cybersecurity hacking capabilities",
+        "summary": "Independent testing shows open-weights models from China now rival top-tier proprietary systems in automated network exploitation.",
+        "event_rationale": "This highlights a major research breakthrough in model capabilities regarding cybersecurity, distinct from product releases or corporate funding.",
+        "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+        "source": "Wired",
+        "originalTitle": "Free Chinese AI Models Are Getting Scary Good at Hacking"
+      },
+      {
+        "index": 10,
+        "original_title": "Disney and Adobe are building generative AI tools together",
+        "headline": "Disney and Adobe partner to develop generative AI tools",
+        "summary": "The multiyear collaboration focuses on creating proprietary, artist-led models to support large-scale media production pipelines.",
+        "event_rationale": "This represents a notable industry deployment at scale between two major corporations, distinct from startup funding or regulatory news.",
+        "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+        "source": "The Verge",
+        "originalTitle": "Disney and Adobe are building generative AI tools together"
+      }
+    ],
+    "slotKey": "2026-11-09:evening"
   }
 }
