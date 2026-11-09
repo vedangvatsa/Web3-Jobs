@@ -121220,7 +121220,8 @@
       },
       "account": "channel:design",
       "attemptId": "dce4c44a-31ce-4a8a-97ff-ee49acadcbe3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x45bde7b3de2b31a31ee671fb9412621c36ac06a3"
     }
   ]
 }
