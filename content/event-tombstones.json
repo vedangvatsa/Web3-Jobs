@@ -8848,5 +8848,59 @@
       "connectsg",
       "connect1"
     ]
+  },
+  "token2049-side-6a534c0347aa29a148924641": {
+    "until": "2027-11-09T03:32:21.800Z",
+    "slugs": [
+      "traders-week",
+      "token2049-side-6a534c0447aa29a148924643",
+      "token2049-side-6a534c0647aa29a148924645",
+      "token2049-side-6a534c0647aa29a148924647",
+      "token2049-side-6a534c0747aa29a148924649",
+      "token2049-side-6a534c0847aa29a14892464b",
+      "token2049-side-6a534c0347aa29a148924641"
+    ]
+  },
+  "token2049-side-6a534c0447aa29a148924643": {
+    "until": "2027-11-09T03:32:21.800Z",
+    "slugs": [
+      "token2049-side-6a534c0447aa29a148924643",
+      "traders-week"
+    ]
+  },
+  "token2049-side-6a534c0647aa29a148924645": {
+    "until": "2027-11-09T03:32:21.800Z",
+    "slugs": [
+      "token2049-side-6a534c0647aa29a148924645",
+      "traders-week"
+    ]
+  },
+  "token2049-side-6a534c0647aa29a148924647": {
+    "until": "2027-11-09T03:32:21.800Z",
+    "slugs": [
+      "token2049-side-6a534c0647aa29a148924647",
+      "traders-week"
+    ]
+  },
+  "token2049-side-6a534c0747aa29a148924649": {
+    "until": "2027-11-09T03:32:21.800Z",
+    "slugs": [
+      "token2049-side-6a534c0747aa29a148924649",
+      "traders-week"
+    ]
+  },
+  "token2049-side-6a534c0847aa29a14892464b": {
+    "until": "2027-11-09T03:32:21.800Z",
+    "slugs": [
+      "token2049-side-6a534c0847aa29a14892464b",
+      "traders-week"
+    ]
+  },
+  "luma-batch-evt5Kquymowmz16z": {
+    "until": "2027-11-09T03:32:21.800Z",
+    "slugs": [
+      "4cdi9o80",
+      "luma-batch-evt5kquymowmz16z"
+    ]
   }
 }

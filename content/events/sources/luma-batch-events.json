@@ -2572,36 +2572,6 @@
     }
   },
   {
-    "id": "luma-batch-evt5Kquymowmz16z",
-    "slug": "4cdi9o80",
-    "name": "Avalanche Team1 Dublin Connect x Dublin AI Week",
-    "description": "Welcome to Avalanche Dublin Connect 🌋\n\nIntroduction\n\nJoin us in Dublin during Dublin AI Week for a morning bringing together Web3 builders, founders, students, and the blockchain-curious.\n\nHosted by Team1, this community meetup is an accessible introduction to Avalanche and its ecosystem, with a focus on opportunities available for builders, founders, and anyone interested in getting more involved in Web3.\n\nWe’ll explore the Avalanche ecosystem, share useful builder and learning resources, and — most importantly — create space for Dublin’s Web3 community to meet, exchange ideas, and build meaningful connections.\n\nWhether you’re already building in Web3 or simply curious about Avalanche, you’re welcome to join us.\n\n📍 Dublin, Ireland\n📅 9 October 2026\n⏰ 9:00 PM – 11:30 PM\n\n🗓️ Event Program\n\n9:00 PM – Doors open, welcome & refreshments\n9:15 PM – Opening words & introduction to Team1\n9:25 PM – Introduction to Avalanche & the ecosystem\n9:45 PM – Builder resources & ecosystem opportunities\n10:00 PM – Community discussion & Q&A\n10:15 PM – Open networking, food & drinks\n11:00 PM – Closing & goodbye\n\n🤝 Partners & Sponsors\n\nGive a Go × Dublin AI Week\nBringing together Dublin’s technology, AI, and innovation community through events and opportunities to connect during Dublin AI Week.\n\nBaseline\nSupporting the meetup and helping bring together builders, founders, and the wider Dublin tech community.\n\n🎉 Huge thanks to our partners for helping us bring this meetup to life!\n\n🧩 About Team1\n\nTeam1 is a global network of builders, developers, creatives, & community members who grow Avalanche.\n\nWith 600+ members operating across 40 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation and community-led initiatives.\n\nBy bridging online and offline communities, Team1 empowers grassroots innovation and expands the reach of Avalanche into new regions and cultures.\n\nTeam1 on X: @AvaxTeam1",
-    "startDate": "2026-10-09T20:00:00.000Z",
-    "endDate": "2026-10-09T22:00:00.000Z",
-    "city": "Dublin 2",
-    "country": "Ireland",
-    "location": "J.R. Mahon’s Public House & Brewery, J.R. Mahon’s Public House & Brewery, 1-2, Burgh Quay, Dublin 2, D02 F243, Ireland",
-    "url": "https://luma.com/4cdi9o80",
-    "registrationUrl": "https://luma.com/4cdi9o80",
-    "coverImage": "/events/luma-batch-evt5Kquymowmz16z-ea12d6bc.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Team1 Global Events"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Dublin",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/4cdi9o80",
-      "eventId": "evt-5Kquymowmz16z7T",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtf75dF4pPOcL4z",
     "slug": "tribaja-32pw",
     "name": "WRTH MRKT X TRIBAJA Macabre and Mint",

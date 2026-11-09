@@ -15617,74 +15617,6 @@ Madrid
 
 Somos La Familia
 
-<a id="event-c7d8d29bb48808e2"></a>
-
-## Avalanche Team1 Dublin Connect x Dublin AI Week
-
-- Record: `luma-batch-evt5Kquymowmz16z`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-09T20:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/4cdi9o80>
-
-### About the event
-
-Welcome to Avalanche Dublin Connect
-
-Introduction
-
-Join us in Dublin during Dublin AI Week for a morning bringing together Web3 builders, founders, students, and the blockchain-curious.
-
-Hosted by Team1, this community meetup is an accessible introduction to Avalanche and its ecosystem, with a focus on opportunities available for builders, founders, and anyone interested in getting more involved in Web3.
-
-We'll explore the Avalanche ecosystem, share useful builder and learning resources, and - most importantly - create space for Dublin's Web3 community to meet, exchange ideas, and build meaningful connections.
-
-Whether you're already building in Web3 or simply curious about Avalanche, you're welcome to join us.
-
-Dublin, Ireland
-
-9 October 2026
-
-9:00 PM - 11:30 PM
-
-Event Program
-
-9:00 PM - Doors open, welcome & refreshments
-
-9:15 PM - Opening words & introduction to Team1
-
-9:25 PM - Introduction to Avalanche & the ecosystem
-
-9:45 PM - Builder resources & ecosystem opportunities
-
-10:00 PM - Community discussion & Q&A
-
-10:15 PM - Open networking, food & drinks
-
-11:00 PM - Closing & goodbye
-
-Partners & Sponsors
-
-Give a Go × Dublin AI Week
-
-Bringing together Dublin's technology, AI, and innovation community through events and opportunities to connect during Dublin AI Week.
-
-Baseline
-
-Supporting the meetup and helping bring together builders, founders, and the wider Dublin tech community.
-
-Huge thanks to our partners for helping us bring this meetup to life!
-
-### About Team1
-
-Team1 is a global network of builders, developers, creatives, & community members who grow Avalanche.
-
-With 600+ members operating across 40 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation and community-led initiatives.
-
-By bridging online and offline communities, Team1 empowers grassroots innovation and expands the reach of Avalanche into new regions and cultures.
-
-Team1 on X: @AvaxTeam1
-
 <a id="event-b26768a35cbbc788"></a>
 
 ## Emerging Technology Olympiads (ETO) 2026 — Eastern Conference
@@ -20156,384 +20088,6 @@ All workshops stream live on Discord, including the kickoff with the Colosseum f
 - Original page: <https://ieee-climatechain-hack.devpost.com/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-20aa0c1a41ecb4af"></a>
-
-## TRADERS WEEK \| SINGAPORE 🇸🇬🏆
-
-- Record: `token2049-side-6a534c0347aa29a148924641`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T14:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/vylnjbnb>
-
-### About the event
-
-TRADERS WEEK | SINGAPORE
-
-Join: https://game.tradingbattles.com/join/298
-
-You can join the tournament at any moment of its duration!
-
-100% Online Event | During Token2049 Week
-
-Trading Battles welcomes to a high-intensity, esports-style crypto showdown to find the best traders during the Token2049 Week!
-
-For 5 days straight, traders from around the world compete in a 100% skill-based online tournament. Each participant trades with virtual funds - no deposits, no entry fees. Pure skill.
-
-Start: 5 October 2026, 10:00 AM (GMT+8, Singapore time)
-
-End: 10 October 2026, 10:00 AM (GMT+8, Singapore time)
-
-Duration: 5 days of continuous competition
-
-Every participant enters the arena with:
-
-10,000 USDT virtual balance
-
-Real-time leaderboard tracking
-
-Rankings based strictly on performance (PnL)
-
-Tournament Setup
-
-- Trade the Top 50 cryptocurrencies (by market cap)
-- Margin trading enabled
-- Leverage options: x2 | x5 | x10 | x20 | x50
-- Pure strategy, execution, and risk management decide the outcome
-
-This is trading under pressure - competitive, transparent, and global.
-
-Telegram group to discuss your moves with other traders:
-
-TBA (link)
-
-No luck. No shortcuts. Just performance.
-
-Enter the battle:
-
-[https://game.tradingbattles.com/join/298](https://game.tradingbattles.com/join/298?autojoin=true)
-
-_________________
-
-[www.tradingbattles.com](https://www.tradingbattles.com)
-
-Trading Battles is the infrastructure layer for 24/7 competitive trading, transforming trading into a new category of esports.
-
-<a id="event-90df46d73d825cfe"></a>
-
-## TRADERS WEEK \| SINGAPORE 🇸🇬🏆
-
-- Record: `token2049-side-6a534c0447aa29a148924643`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T14:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/vylnjbnb>
-
-### About the event
-
-TRADERS WEEK | SINGAPORE
-
-Join: https://game.tradingbattles.com/join/298
-
-You can join the tournament at any moment of its duration!
-
-100% Online Event | During Token2049 Week
-
-Trading Battles welcomes to a high-intensity, esports-style crypto showdown to find the best traders during the Token2049 Week!
-
-For 5 days straight, traders from around the world compete in a 100% skill-based online tournament. Each participant trades with virtual funds - no deposits, no entry fees. Pure skill.
-
-Start: 5 October 2026, 10:00 AM (GMT+8, Singapore time)
-
-End: 10 October 2026, 10:00 AM (GMT+8, Singapore time)
-
-Duration: 5 days of continuous competition
-
-Every participant enters the arena with:
-
-10,000 USDT virtual balance
-
-Real-time leaderboard tracking
-
-Rankings based strictly on performance (PnL)
-
-Tournament Setup
-
-- Trade the Top 50 cryptocurrencies (by market cap)
-- Margin trading enabled
-- Leverage options: x2 | x5 | x10 | x20 | x50
-- Pure strategy, execution, and risk management decide the outcome
-
-This is trading under pressure - competitive, transparent, and global.
-
-Telegram group to discuss your moves with other traders:
-
-TBA (link)
-
-No luck. No shortcuts. Just performance.
-
-Enter the battle:
-
-[https://game.tradingbattles.com/join/298](https://game.tradingbattles.com/join/298?autojoin=true)
-
-_________________
-
-[www.tradingbattles.com](https://www.tradingbattles.com)
-
-Trading Battles is the infrastructure layer for 24/7 competitive trading, transforming trading into a new category of esports.
-
-<a id="event-509022887b60beec"></a>
-
-## TRADERS WEEK \| SINGAPORE 🇸🇬🏆
-
-- Record: `token2049-side-6a534c0647aa29a148924645`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T14:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/vylnjbnb>
-
-### About the event
-
-TRADERS WEEK | SINGAPORE
-
-Join: https://game.tradingbattles.com/join/298
-
-You can join the tournament at any moment of its duration!
-
-100% Online Event | During Token2049 Week
-
-Trading Battles welcomes to a high-intensity, esports-style crypto showdown to find the best traders during the Token2049 Week!
-
-For 5 days straight, traders from around the world compete in a 100% skill-based online tournament. Each participant trades with virtual funds - no deposits, no entry fees. Pure skill.
-
-Start: 5 October 2026, 10:00 AM (GMT+8, Singapore time)
-
-End: 10 October 2026, 10:00 AM (GMT+8, Singapore time)
-
-Duration: 5 days of continuous competition
-
-Every participant enters the arena with:
-
-10,000 USDT virtual balance
-
-Real-time leaderboard tracking
-
-Rankings based strictly on performance (PnL)
-
-Tournament Setup
-
-- Trade the Top 50 cryptocurrencies (by market cap)
-- Margin trading enabled
-- Leverage options: x2 | x5 | x10 | x20 | x50
-- Pure strategy, execution, and risk management decide the outcome
-
-This is trading under pressure - competitive, transparent, and global.
-
-Telegram group to discuss your moves with other traders:
-
-TBA (link)
-
-No luck. No shortcuts. Just performance.
-
-Enter the battle:
-
-[https://game.tradingbattles.com/join/298](https://game.tradingbattles.com/join/298?autojoin=true)
-
-_________________
-
-[www.tradingbattles.com](https://www.tradingbattles.com)
-
-Trading Battles is the infrastructure layer for 24/7 competitive trading, transforming trading into a new category of esports.
-
-<a id="event-81bb3abbd6348366"></a>
-
-## TRADERS WEEK \| SINGAPORE 🇸🇬🏆
-
-- Record: `token2049-side-6a534c0647aa29a148924647`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T14:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/vylnjbnb>
-
-### About the event
-
-TRADERS WEEK | SINGAPORE
-
-Join: https://game.tradingbattles.com/join/298
-
-You can join the tournament at any moment of its duration!
-
-100% Online Event | During Token2049 Week
-
-Trading Battles welcomes to a high-intensity, esports-style crypto showdown to find the best traders during the Token2049 Week!
-
-For 5 days straight, traders from around the world compete in a 100% skill-based online tournament. Each participant trades with virtual funds - no deposits, no entry fees. Pure skill.
-
-Start: 5 October 2026, 10:00 AM (GMT+8, Singapore time)
-
-End: 10 October 2026, 10:00 AM (GMT+8, Singapore time)
-
-Duration: 5 days of continuous competition
-
-Every participant enters the arena with:
-
-10,000 USDT virtual balance
-
-Real-time leaderboard tracking
-
-Rankings based strictly on performance (PnL)
-
-Tournament Setup
-
-- Trade the Top 50 cryptocurrencies (by market cap)
-- Margin trading enabled
-- Leverage options: x2 | x5 | x10 | x20 | x50
-- Pure strategy, execution, and risk management decide the outcome
-
-This is trading under pressure - competitive, transparent, and global.
-
-Telegram group to discuss your moves with other traders:
-
-TBA (link)
-
-No luck. No shortcuts. Just performance.
-
-Enter the battle:
-
-[https://game.tradingbattles.com/join/298](https://game.tradingbattles.com/join/298?autojoin=true)
-
-_________________
-
-[www.tradingbattles.com](https://www.tradingbattles.com)
-
-Trading Battles is the infrastructure layer for 24/7 competitive trading, transforming trading into a new category of esports.
-
-<a id="event-2610d10f00bbc7de"></a>
-
-## TRADERS WEEK \| SINGAPORE 🇸🇬🏆
-
-- Record: `token2049-side-6a534c0747aa29a148924649`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T14:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/vylnjbnb>
-
-### About the event
-
-TRADERS WEEK | SINGAPORE
-
-Join: https://game.tradingbattles.com/join/298
-
-You can join the tournament at any moment of its duration!
-
-100% Online Event | During Token2049 Week
-
-Trading Battles welcomes to a high-intensity, esports-style crypto showdown to find the best traders during the Token2049 Week!
-
-For 5 days straight, traders from around the world compete in a 100% skill-based online tournament. Each participant trades with virtual funds - no deposits, no entry fees. Pure skill.
-
-Start: 5 October 2026, 10:00 AM (GMT+8, Singapore time)
-
-End: 10 October 2026, 10:00 AM (GMT+8, Singapore time)
-
-Duration: 5 days of continuous competition
-
-Every participant enters the arena with:
-
-10,000 USDT virtual balance
-
-Real-time leaderboard tracking
-
-Rankings based strictly on performance (PnL)
-
-Tournament Setup
-
-- Trade the Top 50 cryptocurrencies (by market cap)
-- Margin trading enabled
-- Leverage options: x2 | x5 | x10 | x20 | x50
-- Pure strategy, execution, and risk management decide the outcome
-
-This is trading under pressure - competitive, transparent, and global.
-
-Telegram group to discuss your moves with other traders:
-
-TBA (link)
-
-No luck. No shortcuts. Just performance.
-
-Enter the battle:
-
-[https://game.tradingbattles.com/join/298](https://game.tradingbattles.com/join/298?autojoin=true)
-
-_________________
-
-[www.tradingbattles.com](https://www.tradingbattles.com)
-
-Trading Battles is the infrastructure layer for 24/7 competitive trading, transforming trading into a new category of esports.
-
-<a id="event-336b4edaad67fc48"></a>
-
-## TRADERS WEEK \| SINGAPORE 🇸🇬🏆
-
-- Record: `token2049-side-6a534c0847aa29a14892464b`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T14:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/vylnjbnb>
-
-### About the event
-
-TRADERS WEEK | SINGAPORE
-
-Join: https://game.tradingbattles.com/join/298
-
-You can join the tournament at any moment of its duration!
-
-100% Online Event | During Token2049 Week
-
-Trading Battles welcomes to a high-intensity, esports-style crypto showdown to find the best traders during the Token2049 Week!
-
-For 5 days straight, traders from around the world compete in a 100% skill-based online tournament. Each participant trades with virtual funds - no deposits, no entry fees. Pure skill.
-
-Start: 5 October 2026, 10:00 AM (GMT+8, Singapore time)
-
-End: 10 October 2026, 10:00 AM (GMT+8, Singapore time)
-
-Duration: 5 days of continuous competition
-
-Every participant enters the arena with:
-
-10,000 USDT virtual balance
-
-Real-time leaderboard tracking
-
-Rankings based strictly on performance (PnL)
-
-Tournament Setup
-
-- Trade the Top 50 cryptocurrencies (by market cap)
-- Margin trading enabled
-- Leverage options: x2 | x5 | x10 | x20 | x50
-- Pure strategy, execution, and risk management decide the outcome
-
-This is trading under pressure - competitive, transparent, and global.
-
-Telegram group to discuss your moves with other traders:
-
-TBA (link)
-
-No luck. No shortcuts. Just performance.
-
-Enter the battle:
-
-[https://game.tradingbattles.com/join/298](https://game.tradingbattles.com/join/298?autojoin=true)
-
-_________________
-
-[www.tradingbattles.com](https://www.tradingbattles.com)
-
-Trading Battles is the infrastructure layer for 24/7 competitive trading, transforming trading into a new category of esports.
 
 <a id="event-0cc1f7c623ff80b3"></a>
 
@@ -30861,6 +30415,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-bbf73ad9a84e454f"></a>
+
+## Whitepaper Reading Club NYC: Hooks on Uniswap V4
+
+- Record: `luma-evt-GP7pouWMNMcBR92`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-11T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/5f4ucacx>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-888889cf36f376a0"></a>
+
+## Metricool x PARIS/64: Ecommerce Insights & Private Shopping Night
+
+- Record: `luma-evt-OF18GAUtUIR28A5`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-11T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/ej0cnd26>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-2ee80ba143ce6234"></a>
 
 ## Paulina Lavista: Presencias - Personajes de la cultura en México
@@ -31211,6 +30789,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-949e6b2791b45b5b"></a>
+
+## BritChip Pitching: Meet the Latest UK Semiconductor Startups
+
+- Record: `luma-evt-vZWwWgpb2GCWPr8`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-12T21:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/sr3k586q>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-3bce720923069a61"></a>
 
 ## RWA Hour - 2 edição
@@ -31268,6 +30858,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-13T01:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/pss6bafw>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-026a9d8a59ae65b5"></a>
+
+## Unicorn Battle - Central Eurasian Founders
+
+- Record: `luma-evt-ff7dBQirV2Xl8UR`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-13T01:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/rlbp80my>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -33984,6 +33586,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-03T22:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/rasl3edo>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-76bd04ba6418b6e2"></a>
+
+## Bitcoin and Coffee
+
+- Record: `mu-316884589`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-04T08:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/bitcoin-open-blockchain-community-chicago/events/316884589/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
