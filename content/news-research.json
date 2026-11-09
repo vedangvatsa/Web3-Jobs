@@ -148149,7 +148149,27 @@
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
       "attempts": 0,
       "expiresAt": "2026-11-09T15:09:02.000Z",
-      "lastSeenAt": "2026-11-07T03:31:47.358Z"
+      "lastSeenAt": "2026-11-07T03:31:47.358Z",
+      "articleSlug": "dolrule",
+      "draftProgress": {
+        "id": "8b38dca2880737681ed5",
+        "day": "2026-11-09",
+        "articleSlug": "dolrule",
+        "note": "Read Bitcoin Magazine and bitbo.io; Bloomberg Law paywalled; draft and image still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://bitcoinmagazine.com/news/dol-rule-crypto-401k-white-house-review",
+            "outcome": "read"
+          },
+          {
+            "url": "https://bitbo.io/news/crypto-401k-rule-white-house",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-09T03:39:45.906Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "f9902cdef583f113830c": {
       "source": "The Defiant",
