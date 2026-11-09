@@ -120940,7 +120940,8 @@
       },
       "account": "channel:build",
       "attemptId": "5ba264de-806f-407c-9cd9-7ca8674ad7dd",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0378e29d6dab707deddb0964e8d5765487744076"
     }
   ]
 }
