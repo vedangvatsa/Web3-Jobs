@@ -120765,7 +120765,8 @@
       },
       "account": "channel:web3",
       "attemptId": "6612d260-10ee-4040-8c88-a0170e6e86f3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd87dff3c4ece9440d961e55b5853f92087bba41d"
     }
   ]
 }
