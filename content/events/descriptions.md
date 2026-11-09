@@ -30757,6 +30757,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-ae6c0066435475d9"></a>
+
+## LOOP · UBC eProjects x n8n Buildathon
+
+- Record: `luma-evt-eOUCYZaTo98P4kC`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-14T17:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/n8n-gyab>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-9e110d617c96b5ca"></a>
 
 ## Riserva London \| Stablecoins and compliance over wine

@@ -13103,7 +13103,7 @@
     "country": "us",
     "location": "San Francisco, us",
     "url": "https://www.meetup.com/renegadephilosophers/events/317040834/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317040834-4be0dfe6.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -13227,7 +13227,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/herndon-open-source-linuxone-meetup-group/events/317096564/",
-    "coverImage": "/events/mu-317096564-fe562fc9.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -18342,7 +18342,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15201-midnight-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ebs5pom08ao9z5aarl2qqbi1m3nn?response-content-disposition=inline%3B%20filename%3D%22MidnightNov.jpg%22%3B%20filename%2A%3DUTF-8%27%27MidnightNov.jpg&amp;response-content-type=image%2Fjpeg&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261109%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261109T195124Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=f5ee233e3edc1dbae906d98b51a1d1cf25c1b9fc08c33a59580894e4948ac628",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ebs5pom08ao9z5aarl2qqbi1m3nn?response-content-disposition=inline%3B%20filename%3D%22MidnightNov.jpg%22%3B%20filename%2A%3DUTF-8%27%27MidnightNov.jpg&amp;response-content-type=image%2Fjpeg&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261109%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261109T200247Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=d883a61567384f44ed6650e2d20076b8cc90b160297605887956756f337d7add",
     "month": "November 2026"
   },
   {
@@ -19086,5 +19086,19 @@
     "coverImage": "/events/luma-evt-mkimr5hayolqez8-c9c7412b.webp",
     "source": "luma",
     "month": "December 2026"
+  },
+  {
+    "id": "luma-evt-eOUCYZaTo98P4kC",
+    "name": "LOOP · UBC eProjects x n8n Buildathon",
+    "description": "",
+    "startDate": "2026-11-14T17:00:00.000Z",
+    "endDate": "2026-11-16T00:30:00.000Z",
+    "city": "Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, Canada",
+    "url": "https://lu.ma/n8n-gyab",
+    "coverImage": "/events/luma-evt-eoucyzato98p4kc-7e7ecd55.webp",
+    "source": "luma",
+    "month": "November 2026"
   }
 ]
