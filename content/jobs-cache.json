@@ -3111,21 +3111,6 @@
     "slug": "be107"
   },
   {
-    "id": "38d315bd-419e-45d3-baf3-5b54d8557b4d",
-    "title": "Restaurant Success Manager",
-    "company": "Blackbird Labs",
-    "link": "https://jobs.ashbyhq.com/blackbird-labs-inc/38d315bd-419e-45d3-baf3-5b54d8557b4d",
-    "date": "2026-11-04T19:16:53.982+00:00",
-    "source": "Ashby: Blackbird Labs [blackbird-labs-inc]",
-    "location": "Hybrid (San Francisco)",
-    "isRemote": true,
-    "workplaceType": "Hybrid",
-    "department": "GTM",
-    "active": true,
-    "dateVerified": true,
-    "slug": "mgr232"
-  },
-  {
     "id": "8335413",
     "title": "Manager, Marketing Analytics",
     "company": "Stripe",
@@ -23413,19 +23398,5 @@
     "department": "Sales & Business Development",
     "active": true,
     "slug": "sls346"
-  },
-  {
-    "id": "4943346101",
-    "title": "Senior Data Engineer",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4943346101",
-    "date": "2026-10-10T01:23:11-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Bybit [bybit]",
-    "location": "Kuala Lumpur, Malaysia",
-    "department": "Business Intelligence",
-    "active": true,
-    "dateVerified": true,
-    "slug": "eng538"
   }
 ]

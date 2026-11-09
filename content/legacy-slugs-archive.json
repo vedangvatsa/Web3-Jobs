@@ -155138,5 +155138,18 @@
     "company": "Mantle Network",
     "title": "Business Operations Manager",
     "newSlug": "ops158"
+  },
+  "mgr232": {
+    "id": "38d315bd-419e-45d3-baf3-5b54d8557b4d",
+    "link": "https://jobs.ashbyhq.com/blackbird-labs-inc/38d315bd-419e-45d3-baf3-5b54d8557b4d",
+    "title": "Restaurant Success Manager",
+    "company": "Blackbird Labs",
+    "retiredReason": "removed-by-owner"
+  },
+  "eng538": {
+    "id": "4943346101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4943346101",
+    "title": "Senior Data Engineer",
+    "company": "Bybit"
   }
 }
