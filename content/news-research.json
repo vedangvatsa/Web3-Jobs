@@ -148709,7 +148709,31 @@
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
       "attempts": 0,
       "expiresAt": "2026-11-09T20:51:23.000Z",
-      "lastSeenAt": "2026-11-07T03:31:47.358Z"
+      "lastSeenAt": "2026-11-07T03:31:47.358Z",
+      "articleSlug": "gnosisbreach",
+      "draftProgress": {
+        "id": "1285c91006e6365559d4",
+        "day": "2026-11-09",
+        "articleSlug": "gnosisbreach",
+        "note": "Read Cointelegraph (Nov 6), the Gnosis Pay primary blog disclosure (Nov 6) and Decrypt (Nov 6). No existing Gnosis article found. Drafting next; slug gnosisbreach pending ownership check.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information",
+            "outcome": "read"
+          },
+          {
+            "url": "https://gnosispay.com/blog/data-breach-legacy-system-gnosis-pay-branded-cards",
+            "outcome": "read"
+          },
+          {
+            "url": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-09T04:23:25.149Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "d15a3cc319f175de228b": {
       "source": "The Block",
