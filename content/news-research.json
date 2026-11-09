@@ -152608,11 +152608,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "dec9df405841d7ab4ddc",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-08T10:05:15.191Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-10T18:58:34.000Z",
-      "lastSeenAt": "2026-11-08T10:05:15.191Z"
+      "lastSeenAt": "2026-11-08T10:05:15.191Z",
+      "reason": "out-of-scope",
+      "note": "Read the Crypto Briefing piece. It reports Trump offering UFC CEO Dana White the White House press secretary job; no crypto, Web3, stablecoin or blockchain angle appears in the reporting beyond the site's prediction-market widget. Not a Web3 story.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/trump-offers-ufcs-dana-white-white-house-press-secretary-role/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-09T04:01:09.531Z",
+      "lastReviewedDay": "2026-11-09"
     },
     "49417d492bd7794805d5": {
       "source": "The Defiant",
@@ -290364,6 +290374,18 @@
             }
           ],
           "reviewedAt": "2026-11-09T03:56:46.515Z"
+        },
+        "dec9df405841d7ab4ddc": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Crypto Briefing piece. It reports Trump offering UFC CEO Dana White the White House press secretary job; no crypto, Web3, stablecoin or blockchain angle appears in the reporting beyond the site's prediction-market widget. Not a Web3 story.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/trump-offers-ufcs-dana-white-white-house-press-secretary-role/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-09T04:01:09.531Z"
         }
       },
       "baselineSlugs": [
