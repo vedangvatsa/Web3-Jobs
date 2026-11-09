@@ -3458,7 +3458,7 @@
     "sentAt": "2026-11-09T03:34:42.692Z"
   },
   "945c1a44-82ea-4247-9184-52e0ebadc348": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-09T11:33:55.233Z",
     "stories": [
       {
@@ -3480,6 +3480,8 @@
         "originalTitle": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers"
       }
     ],
-    "slotKey": "2026-11-09:afternoon"
+    "slotKey": "2026-11-09:afternoon",
+    "messageId": 193484,
+    "sentAt": "2026-11-09T11:35:06.162Z"
   }
 }
