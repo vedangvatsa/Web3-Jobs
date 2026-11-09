@@ -147988,9 +147988,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "7878397babd6dcc7d218",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-09T20:36:03.000Z",
       "lastSeenAt": "2026-11-07T03:31:47.358Z",
       "articleSlug": "greecetax",
@@ -148012,7 +148012,25 @@
         "updatedAt": "2026-11-09T03:39:36.355Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the Nov 5 parliamentary passage and the 10%/15% rates across Decrypt, Reuters (read via Yahoo Finance mirror) and IMI Daily; drafted greecetax.md with self-hosted Wikimedia hero; quality, formatting, image, duplicate audits and tsc pass.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
+          "outcome": "read"
+        },
+        {
+          "url": "https://uk.finance.yahoo.com/news/greek-parliament-approves-10-tax-155235738.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.imidaily.com/europe/greece-crypto-tax-law-passed-10-percent/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-09T03:44:43.116Z",
+      "lastReviewedDay": "2026-11-09"
     },
     "f995552b5d5d204bddb4": {
       "source": "Decrypt",
@@ -290193,6 +290211,27 @@
             }
           ],
           "reviewedAt": "2026-11-09T03:38:56.825Z"
+        },
+        "7878397babd6dcc7d218": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Nov 5 parliamentary passage and the 10%/15% rates across Decrypt, Reuters (read via Yahoo Finance mirror) and IMI Daily; drafted greecetax.md with self-hosted Wikimedia hero; quality, formatting, image, duplicate audits and tsc pass.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
+              "outcome": "read"
+            },
+            {
+              "url": "https://uk.finance.yahoo.com/news/greek-parliament-approves-10-tax-155235738.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.imidaily.com/europe/greece-crypto-tax-law-passed-10-percent/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-09T03:44:43.116Z",
+          "articleSlug": "greecetax"
         }
       },
       "baselineSlugs": [
