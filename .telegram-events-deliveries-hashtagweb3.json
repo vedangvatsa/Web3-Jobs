@@ -5142,5 +5142,52 @@
     "slotKey": "2026-11-08:evening",
     "messageId": 156147,
     "sentAt": "2026-11-08T19:32:03.700Z"
+  },
+  "f5b3c493-9135-48ec-902d-f6d0128552c3": {
+    "status": "reserved",
+    "reservedAt": "2026-11-09T03:32:47.740Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "premier-cryptofest",
+        "slug": "cryptofest",
+        "name": "Crypto Fest 2026",
+        "startDate": "2026-11-20T09:00:00.000Z",
+        "keys": [
+          "premier-cryptofest",
+          "page:cryptofest:2026-11-20",
+          "event:cryptofest2026:2026-11-20:cape town"
+        ]
+      },
+      {
+        "id": "luma-evt-mPCGxeHyKlTeEgN",
+        "slug": "university-blockchain-conference",
+        "name": "University Blockchain Conference 2026",
+        "startDate": "2026-11-20T15:00:00.000Z",
+        "keys": [
+          "luma-evt-mpcgxehyklteegn",
+          "ubc",
+          "page:university-blockchain-conference:2026-11-20",
+          "luma:evt-mpcgxehyklteegn",
+          "luma-url:/n4ad0k9m",
+          "event:universityblockchainconference2026:2026-11-20:austin"
+        ]
+      },
+      {
+        "id": "discovery-evt-DnwWNYAbNYeW8oC",
+        "slug": "crypto-dinner-amsterdam",
+        "name": "Crypto Dinner - Amsterdam",
+        "startDate": "2026-11-20T17:30:00.000Z",
+        "keys": [
+          "discovery-evt-dnwwnyabnyew8oc",
+          "page:crypto-dinner-amsterdam:2026-11-20",
+          "luma:evt-dnwwnyabnyew8oc",
+          "luma-url:/dinneramsterdam",
+          "event:cryptodinneramsterdam:2026-11-20:amsterdam"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-09:morning"
   }
 }
