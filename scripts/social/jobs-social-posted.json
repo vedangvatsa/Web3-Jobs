@@ -125606,7 +125606,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "275a256a-3062-43c9-98ee-a81372ce53ed",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af2284d398ae91929ac47d8"
     }
   ]
 }
