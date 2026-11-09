@@ -8,7 +8,7 @@
     "afternoon": "2026-10-30",
     "evening": "2026-10-31"
   },
-  "deployed": "2026-11-08",
+  "deployed": "2026-11-09",
   "ingested": "2026-11-08",
   "dailyDeployments": {
     "2026-10-23": [
@@ -832,12 +832,14 @@
           "secdraft",
           "gnosisbreach"
         ],
-        "phase": "rolling-out",
+        "phase": "succeeded",
         "startedAt": "2026-11-09T05:19:22.683Z",
         "buildId": "daily-20261109-42556741304-1",
         "rolloutId": "daily-20261109-42556741304-1",
         "buildState": "READY",
-        "observedAt": "2026-11-09T05:34:31.109Z"
+        "observedAt": "2026-11-09T05:35:02.985Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-11-09T05:35:02.985Z"
       }
     ]
   }
