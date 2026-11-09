@@ -3579,5 +3579,36 @@
     "slotKey": "2026-11-09:morning",
     "messageId": 65815,
     "sentAt": "2026-11-09T03:36:23.901Z"
+  },
+  "5deb8f4e-1d83-41bf-a214-413e1c1d994e": {
+    "status": "reserved",
+    "reservedAt": "2026-11-09T11:35:57.975Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "White House Reviews DOL Rule on Crypto in 401(k)s",
+        "summary": "The proposal gives retirement plan managers safe harbor protection when offering crypto and alternative assets.",
+        "link": "https://hashtagweb3.com/dolrule?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "DOL Final Rule on Crypto in 401(k)s Reaches White House Review"
+      },
+      {
+        "index": -1,
+        "headline": "NEAR Protocol holders approve lower annual token issuance cap",
+        "summary": "HSP-029 lowers the issuance ceiling to 1.6% over 24 months, awaiting final security and validator implementation.",
+        "link": "https://hashtagweb3.com/nearvote?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "NEAR holders approve 1.6% issuance cap, with validators still to act"
+      },
+      {
+        "index": -1,
+        "headline": "Tether Reports $1.5 Billion Third-Quarter Operating Profit",
+        "summary": "US Treasury bills and repurchase agreements drove earnings, raising Tether's reserve buffer to $7.95 billion.",
+        "link": "https://hashtagweb3.com/tetherq3?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Tether Reports $1.5 Billion Q3 Operating Profit as Reserve Buffer Nears $8 Billion"
+      }
+    ],
+    "slotKey": "2026-11-09:afternoon"
   }
 }
