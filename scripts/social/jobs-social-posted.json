@@ -118910,8 +118910,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "b12c68b7-b471-4e81-88ea-9ffbecad83b6",
-      "verification": "pending",
-      "postId": "6af13ec8e44ddbb57c2cd56a"
+      "verification": "verified",
+      "postId": "6af13ec8e44ddbb57c2cd56a",
+      "permalink": "https://twitter.com/hashtag_web3/status/2119634183987355722"
     }
   ]
 }
