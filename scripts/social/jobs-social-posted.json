@@ -122821,6 +122821,41 @@
       "attemptId": "756f496d-0c30-485d-a249-189b5ecf4d94",
       "verification": "verified",
       "postId": "0xec0c29be1455e94cd176ba283a9e0b9f3cb92d65"
+    },
+    {
+      "slug": "pm361",
+      "company": "Kraken",
+      "title": "Staff Product Designer - AI Products",
+      "platform": "farcaster",
+      "postedAt": "2026-11-09T19:50:27.395Z",
+      "expectedText": "Kraken is hiring Staff Product Designer - AI Products\n\nhttps://hashtagweb3.com/pm361/fc?og=7",
+      "snapshot": {
+        "id": "c41dff23-f502-42a7-a17e-5c8f759e7905",
+        "title": "Staff Product Designer - AI Products",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/c41dff23-f502-42a7-a17e-5c8f759e7905",
+        "date": "2026-11-03T17:32:10.264+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (United States)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Design",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm361"
+      },
+      "payload": {
+        "text": "Kraken is hiring Staff Product Designer - AI Products\n\nhttps://hashtagweb3.com/pm361/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm361/fc?og=7"
+          }
+        ],
+        "channel_id": "ai"
+      },
+      "account": "channel:ai",
+      "attemptId": "10f01b8d-741d-4d5d-9334-8d8a7c678dbf",
+      "verification": "creating"
     }
   ]
 }
