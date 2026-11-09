@@ -911,6 +911,9 @@
   "https://hashtagweb3.com/frenchhill?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/carf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/nbubill?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/bankchecks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/nearvote?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/solflareincident?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2639,6 +2642,12 @@
   "Hong Kong Lawmakers Pass Crypto Tax Reporting Bill for 2027 Collection",
   "Ukraine's Central Bank Objects to Proposed Crypto Bill",
   "Ukraine Central Bank Opposes Crypto Bill Cleared for Second Reading",
+  "US Regulators Ask Banks About Binance Breach Impact",
+  "Fed and OCC Contact Banks About Unusual Activity After the Binance Hack",
+  "NEAR Community Approves Proposal to Reduce Token Issuance",
+  "NEAR holders approve 1.6% issuance cap, with validators still to act",
+  "Solflare Validator Rewards Paused Due to Security Incident",
+  "Solflare Says Staking Provider Key Incident Stopped Validator Rewards",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -3100,5 +3109,8 @@
   "fp:404|attack|attacker|drains1|exploit|froz|halt|mainnet|most|network",
   "fp:arkansa|ced|chair|chairmanship|committe|democrat|financial|french|hill|his",
   "fp:approv|bill|collect|collection|data|exchang|follow|for2027|framework|hong",
-  "fp:access|approv|bank|bill|central|cit|clear|committe|concern|draft"
+  "fp:access|approv|bank|bill|central|cit|clear|committe|concern|draft",
+  "fp:accord|activity|ask|bank|binanc|breach|contact|disruption|federal|hack",
+  "fp:act|approv|approve16|cap|community|council|from25|holder|issuanc|month",
+  "fp:156m|due|fund|halt|incident|issu|paus|principal|provider|remain"
 ]
