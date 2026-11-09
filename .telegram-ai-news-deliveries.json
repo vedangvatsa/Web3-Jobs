@@ -3429,5 +3429,30 @@
     "slotKey": "2026-11-08:evening",
     "messageId": 193478,
     "sentAt": "2026-11-08T19:34:45.064Z"
+  },
+  "be1d7f3e-4253-41f1-b798-ad9651f571d4": {
+    "status": "reserved",
+    "reservedAt": "2026-11-09T03:34:38.561Z",
+    "stories": [
+      {
+        "index": 3,
+        "original_title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+        "headline": "Airbnb plans to launch AI travel agent by 2027",
+        "summary": "The upcoming tool will assist users with trip planning, booking management, and customer support throughout their stay.",
+        "event_rationale": "This reports Airbnb's official announcement of an integrated AI travel agent, detailing a new major enterprise deployment plan.",
+        "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+        "source": "TechCrunch",
+        "originalTitle": "Airbnb says it’s launching an AI travel agent in the first half of 2027"
+      },
+      {
+        "index": 4,
+        "headline": "Tech companies blame political bias for AI restriction votes",
+        "summary": "Industry leaders argue that public opposition to AI infrastructure is driven by politics instead of technology concerns.",
+        "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+        "source": "Ars Technica",
+        "originalTitle": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”"
+      }
+    ],
+    "slotKey": "2026-11-09:morning"
   }
 }
