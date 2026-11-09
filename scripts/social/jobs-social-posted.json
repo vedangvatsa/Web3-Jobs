@@ -123188,6 +123188,39 @@
       "attemptId": "05d3ea19-97cf-47b3-b895-9746290f63d6",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Monday, 09-Nov-26 11:54:11 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Ay3ZTVgCTvW9siq-ldJBBZ4\"}"
+    },
+    {
+      "slug": "dmra2",
+      "company": "OKX",
+      "title": "Director, Model Risk - AI & Fraud",
+      "platform": "bluesky",
+      "postedAt": "2026-11-09T19:53:49.431Z",
+      "expectedText": "OKX is hiring Director, Model Risk - AI & Fraud: https://hashtagweb3.com/dmra2/bsky?og=7",
+      "snapshot": {
+        "id": "8184389003",
+        "title": "Director, Model Risk - AI & Fraud",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8184389003",
+        "date": "2026-11-03T19:34:31-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "San Jose, CA",
+        "department": "Risk",
+        "active": true,
+        "salary": "$200k – $300k/yr",
+        "dateVerified": true,
+        "slug": "dmra2"
+      },
+      "payload": {
+        "text": "OKX is hiring Director, Model Risk - AI & Fraud: https://hashtagweb3.com/dmra2/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/dmra2/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/dmra2.png?v=7",
+        "company": "OKX",
+        "title": "Director, Model Risk - AI & Fraud",
+        "description": "Join OKX as Director, Model Risk - AI & Fraud. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "2d53d4b4-6694-4ed0-8dcc-b4c2d01a0328",
+      "verification": "creating"
     }
   ]
 }
