@@ -121185,7 +121185,8 @@
       },
       "account": "channel:product",
       "attemptId": "5a934e60-455b-487f-b430-163659438ee5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa8118a9cc40c84fd3c19e0b2525e62a1bf3acab0"
     }
   ]
 }
