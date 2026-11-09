@@ -148104,7 +148104,31 @@
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
       "attempts": 0,
       "expiresAt": "2026-11-09T17:30:00.000Z",
-      "lastSeenAt": "2026-11-07T03:31:47.358Z"
+      "lastSeenAt": "2026-11-07T03:31:47.358Z",
+      "articleSlug": "bitgetsec",
+      "draftProgress": {
+        "id": "50936c50962493a3612d",
+        "day": "2026-11-09",
+        "articleSlug": "bitgetsec",
+        "note": "Read Bitcoin Magazine and crypto.news; Thai SEC primary returned 403; draft and image still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://bitcoinmagazine.com/news/thailand-sec-bitget-criminal-dec-5",
+            "outcome": "read"
+          },
+          {
+            "url": "https://crypto.news/thailand-block-bitget-unlicensed-crypto-trading",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.sec.or.th/EN/Pages/News_Detail.aspx?SECID=13530",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-11-09T03:39:43.031Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "8b38dca2880737681ed5": {
       "source": "Bitcoin Magazine",
