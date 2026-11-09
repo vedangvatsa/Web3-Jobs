@@ -124963,7 +124963,8 @@
       },
       "account": "profile",
       "attemptId": "bb1f1c16-bb98-475b-b90e-73c9e60086d4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7fec394741f15f06b50b0019b56c90e8b3b1873e"
     }
   ]
 }
