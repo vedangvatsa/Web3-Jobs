@@ -120306,7 +120306,8 @@
       },
       "account": "channel:ai",
       "attemptId": "e73f8e80-68ca-42af-9d0a-df5152d5840f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5aedbe9249d729266eaaac721ddf8824700093bf"
     }
   ]
 }
