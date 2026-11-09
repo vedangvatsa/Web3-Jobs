@@ -121338,8 +121338,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "134f3b5b-1e41-4934-a4df-dff55ec3e91c",
-      "verification": "pending",
-      "postId": "6af1b0429541fd37f940dfd4"
+      "verification": "verified",
+      "postId": "6af1b0429541fd37f940dfd4",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7525521803050504192"
     }
   ]
 }
