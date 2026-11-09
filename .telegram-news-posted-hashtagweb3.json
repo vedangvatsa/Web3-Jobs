@@ -914,6 +914,9 @@
   "https://hashtagweb3.com/bankchecks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/nearvote?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/solflareincident?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/dolrule?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/greecetax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/bitgetsec?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2648,6 +2651,12 @@
   "NEAR holders approve 1.6% issuance cap, with validators still to act",
   "Solflare Validator Rewards Paused Due to Security Incident",
   "Solflare Says Staking Provider Key Incident Stopped Validator Rewards",
+  "White House Reviews DOL Rule on 401(k) Crypto Investments",
+  "DOL Final Rule on Crypto in 401(k)s Reaches White House Review",
+  "Greece passes law taxing crypto gains and staking rewards",
+  "Greece passes crypto tax law with 10% gains levy and 15% rate on staking",
+  "Thailand SEC Files Complaint Against Bitget Operator",
+  "Thailand SEC Files Criminal Complaint Against Bitget Operator",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -3112,5 +3121,8 @@
   "fp:access|approv|bank|bill|central|cit|clear|committe|concern|draft",
   "fp:accord|activity|ask|bank|binanc|breach|contact|disruption|federal|hack",
   "fp:act|approv|approve16|cap|community|council|from25|holder|issuanc|month",
-  "fp:156m|due|fund|halt|incident|issu|paus|principal|provider|remain"
+  "fp:156m|due|fund|halt|incident|issu|paus|principal|provider|remain",
+  "fp:account|alternativ|asset|cryptocurrency|dol|final|grant|harbor|hous|in401",
+  "fp:and15|annual|at15|euro|face10|gain|greec|incom|january2027|law",
+  "fp:against|bitget|block|cit|complaint|criminal|dec5|fil|from2022|government"
 ]

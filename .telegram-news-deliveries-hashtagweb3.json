@@ -3377,7 +3377,7 @@
     "sentAt": "2026-11-09T03:33:30.256Z"
   },
   "ff85c4e1-22e4-4e34-bdc4-0799cd31a7fc": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-09T11:33:23.026Z",
     "stories": [
       {
@@ -3405,6 +3405,8 @@
         "originalTitle": "Thailand SEC Files Criminal Complaint Against Bitget Operator"
       }
     ],
-    "slotKey": "2026-11-09:afternoon"
+    "slotKey": "2026-11-09:afternoon",
+    "messageId": 156156,
+    "sentAt": "2026-11-09T11:33:29.939Z"
   }
 }
