@@ -148009,11 +148009,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "f995552b5d5d204bddb4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-09T19:16:03.000Z",
-      "lastSeenAt": "2026-11-07T03:31:47.358Z"
+      "lastSeenAt": "2026-11-07T03:31:47.358Z",
+      "reason": "out-of-scope",
+      "note": "Read the Decrypt story. It reports Ueno Bank lockouts and Paraguay's impeachment proceedings, a banking and political crisis; crypto appears only in commentary from Bitcoiners reacting to the bank failure.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-09T03:38:56.825Z",
+      "lastReviewedDay": "2026-11-09"
     },
     "23b86d04277441433251": {
       "source": "The Defiant",
@@ -290107,6 +290117,18 @@
             }
           ],
           "reviewedAt": "2026-11-09T03:38:53.924Z"
+        },
+        "f995552b5d5d204bddb4": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Decrypt story. It reports Ueno Bank lockouts and Paraguay's impeachment proceedings, a banking and political crisis; crypto appears only in commentary from Bitcoiners reacting to the bank failure.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-09T03:38:56.825Z"
         }
       },
       "baselineSlugs": [
