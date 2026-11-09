@@ -121082,6 +121082,40 @@
       "attemptId": "2be5880b-e152-4667-949b-5c42ccacf351",
       "verification": "verified",
       "postId": "0x7953378ba67de20995af496fdbb4f17b414e5727"
+    },
+    {
+      "slug": "aso24",
+      "company": "Blockchain.com",
+      "title": "Junior Team Assistant",
+      "platform": "farcaster",
+      "postedAt": "2026-11-09T11:33:22.609Z",
+      "expectedText": "Blockchain​.com is hiring Junior Team Assistant\n\nhttps://hashtagweb3.com/aso24/fc?og=7",
+      "snapshot": {
+        "id": "8303692",
+        "title": "Junior Team Assistant",
+        "company": "Blockchain.com",
+        "link": "https://job-boards.greenhouse.io/blockchain/jobs/8303692",
+        "date": "2026-10-20T12:12:42-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Blockchain.com [blockchain]",
+        "location": "London",
+        "department": "CEO Office",
+        "active": true,
+        "dateVerified": true,
+        "slug": "aso24"
+      },
+      "payload": {
+        "text": "Blockchain​.com is hiring Junior Team Assistant\n\nhttps://hashtagweb3.com/aso24/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/aso24/fc?og=7"
+          }
+        ],
+        "channel_id": "defi"
+      },
+      "account": "channel:defi",
+      "attemptId": "a6667398-2366-47e7-9f19-370329825230",
+      "verification": "creating"
     }
   ]
 }
