@@ -121257,6 +121257,46 @@
       "attemptId": "78aa93a6-07b5-4864-bf06-3597ffde5e44",
       "verification": "verified",
       "postId": "0x5778f931ccc7c1277e17d2bde934ca4d08fb740e"
+    },
+    {
+      "slug": "aso24",
+      "company": "Blockchain.com",
+      "title": "Junior Team Assistant",
+      "platform": "linkedin",
+      "postedAt": "2026-11-09T11:33:22.609Z",
+      "expectedText": "Blockchain​.com is hiring Junior Team Assistant: https://hashtagweb3.com/aso24/li?og=7",
+      "snapshot": {
+        "id": "8303692",
+        "title": "Junior Team Assistant",
+        "company": "Blockchain.com",
+        "link": "https://job-boards.greenhouse.io/blockchain/jobs/8303692",
+        "date": "2026-10-20T12:12:42-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Blockchain.com [blockchain]",
+        "location": "London",
+        "department": "CEO Office",
+        "active": true,
+        "dateVerified": true,
+        "slug": "aso24"
+      },
+      "payload": {
+        "text": "Blockchain​.com is hiring Junior Team Assistant: https://hashtagweb3.com/aso24/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/aso24/li?og=7",
+          "title": "Junior Team Assistant at Blockchain.com",
+          "description": "Join Blockchain.com as Junior Team Assistant. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/aso24.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "a4008bdb-77c4-4639-b17c-a81af2029509",
+      "verification": "creating"
     }
   ]
 }
