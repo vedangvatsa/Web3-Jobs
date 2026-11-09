@@ -148705,9 +148705,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "1285c91006e6365559d4",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-09T20:51:23.000Z",
       "lastSeenAt": "2026-11-07T03:31:47.358Z",
       "articleSlug": "gnosisbreach",
@@ -148733,7 +148733,29 @@
         "updatedAt": "2026-11-09T04:23:25.149Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Cointelegraph (Nov 6), Gnosis Pay's primary blog disclosure (Nov 6) and Decrypt (Nov 6); three sources, all links HTTP 200, hero self-hosted from Wikimedia (card terminal, CC BY-SA 4.0), 616-word draft passes quality, formatting, image and duplicate audits. CoinDesk returned HTTP 429 and was not cited.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information",
+          "outcome": "read"
+        },
+        {
+          "url": "https://gnosispay.com/blog/data-breach-legacy-system-gnosis-pay-branded-cards",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-09T04:26:20.699Z",
+      "lastReviewedDay": "2026-11-09"
     },
     "d15a3cc319f175de228b": {
       "source": "The Block",
@@ -290722,6 +290744,31 @@
             }
           ],
           "reviewedAt": "2026-11-09T04:22:32.335Z"
+        },
+        "1285c91006e6365559d4": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Cointelegraph (Nov 6), Gnosis Pay's primary blog disclosure (Nov 6) and Decrypt (Nov 6); three sources, all links HTTP 200, hero self-hosted from Wikimedia (card terminal, CC BY-SA 4.0), 616-word draft passes quality, formatting, image and duplicate audits. CoinDesk returned HTTP 429 and was not cited.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information",
+              "outcome": "read"
+            },
+            {
+              "url": "https://gnosispay.com/blog/data-breach-legacy-system-gnosis-pay-branded-cards",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-09T04:26:20.699Z",
+          "articleSlug": "gnosisbreach"
         }
       },
       "baselineSlugs": [
