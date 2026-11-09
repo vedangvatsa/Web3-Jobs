@@ -121341,6 +121341,47 @@
       "verification": "verified",
       "postId": "6af1b0429541fd37f940dfd4",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7525521803050504192"
+    },
+    {
+      "slug": "aso24",
+      "company": "Blockchain.com",
+      "title": "Junior Team Assistant",
+      "platform": "linkedin",
+      "postedAt": "2026-11-09T11:33:22.609Z",
+      "expectedText": "Blockchain​.com is hiring Junior Team Assistant: https://hashtagweb3.com/aso24/li?og=7",
+      "snapshot": {
+        "id": "8303692",
+        "title": "Junior Team Assistant",
+        "company": "Blockchain.com",
+        "link": "https://job-boards.greenhouse.io/blockchain/jobs/8303692",
+        "date": "2026-10-20T12:12:42-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Blockchain.com [blockchain]",
+        "location": "London",
+        "department": "CEO Office",
+        "active": true,
+        "dateVerified": true,
+        "slug": "aso24"
+      },
+      "payload": {
+        "text": "Blockchain​.com is hiring Junior Team Assistant: https://hashtagweb3.com/aso24/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/aso24/li?og=7",
+          "title": "Junior Team Assistant at Blockchain.com",
+          "description": "Join Blockchain.com as Junior Team Assistant. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/aso24.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "ca61b5e6-5234-49e1-9472-af04dd8baa2a",
+      "verification": "creating"
     }
   ]
 }
