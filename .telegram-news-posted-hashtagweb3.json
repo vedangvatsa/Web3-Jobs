@@ -917,6 +917,9 @@
   "https://hashtagweb3.com/dolrule?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/greecetax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/bitgetsec?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/zcashquantum?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/prysm-fix?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2657,6 +2660,12 @@
   "Greece passes crypto tax law with 10% gains levy and 15% rate on staking",
   "Thailand SEC Files Complaint Against Bitget Operator",
   "Thailand SEC Files Criminal Complaint Against Bitget Operator",
+  "Zakura proposes unique swap keys for Zcash privacy",
+  "Zcash builder Zakura proposes per-swap keys to close a quantum privacy gap",
+  "Prysm Updates Gas Limit Ahead of Sepolia Test",
+  "Prysm Ships 200M Gas Limit Fix Hours Before Sepolia Test",
+  "PNC Bank pilots conversion of USDC payments to dollar deposits",
+  "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -3124,5 +3133,8 @@
   "fp:156m|due|fund|halt|incident|issu|paus|principal|provider|remain",
   "fp:account|alternativ|asset|cryptocurrency|dol|final|grant|harbor|hous|in401",
   "fp:and15|annual|at15|euro|face10|gain|greec|incom|january2027|law",
-  "fp:against|bitget|block|cit|complaint|criminal|dec5|fil|from2022|government"
+  "fp:against|bitget|block|cit|complaint|criminal|dec5|fil|from2022|government",
+  "fp:address|assign|builder|clos|computer|data|design|futur|gap|individual",
+  "fp:200m|activation|ahead|fix|hour|limit|network|october6|prysm|sepolia",
+  "fp:back|bank|client|conversion|corporat|currency|deposit|directly|dollar|even"
 ]

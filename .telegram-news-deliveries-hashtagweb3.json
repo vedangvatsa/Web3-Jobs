@@ -3410,7 +3410,7 @@
     "sentAt": "2026-11-09T11:33:29.939Z"
   },
   "d58d1ebe-9e8b-4b47-bf2c-9615faa6dcf7": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-09T19:53:52.477Z",
     "stories": [
       {
@@ -3439,6 +3439,8 @@
         "originalTitle": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out"
       }
     ],
-    "slotKey": "2026-11-09:evening"
+    "slotKey": "2026-11-09:evening",
+    "messageId": 156161,
+    "sentAt": "2026-11-09T19:53:57.133Z"
   }
 }
