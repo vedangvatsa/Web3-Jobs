@@ -124119,7 +124119,8 @@
       },
       "account": "profile",
       "attemptId": "ca6bed8e-21a2-4e05-a6e9-f5ab3ce1f698",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd19105d403e33c25e0c09b4fd5f4f351dd302801"
     }
   ]
 }
