@@ -120630,6 +120630,38 @@
       "attemptId": "3d082264-f08f-4aa6-8c09-d28c279cfece",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Monday, 09-Nov-26 03:33:41 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A3sedFb8TZFaLc6U0cLMs-A\"}"
+    },
+    {
+      "slug": "aso24",
+      "company": "Blockchain.com",
+      "title": "Junior Team Assistant",
+      "platform": "bluesky",
+      "postedAt": "2026-11-09T11:33:22.609Z",
+      "expectedText": "Blockchain​.com is hiring Junior Team Assistant: https://hashtagweb3.com/aso24/bsky?og=7",
+      "snapshot": {
+        "id": "8303692",
+        "title": "Junior Team Assistant",
+        "company": "Blockchain.com",
+        "link": "https://job-boards.greenhouse.io/blockchain/jobs/8303692",
+        "date": "2026-10-20T12:12:42-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Blockchain.com [blockchain]",
+        "location": "London",
+        "department": "CEO Office",
+        "active": true,
+        "dateVerified": true,
+        "slug": "aso24"
+      },
+      "payload": {
+        "text": "Blockchain​.com is hiring Junior Team Assistant: https://hashtagweb3.com/aso24/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/aso24/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/aso24.png?v=7",
+        "company": "Blockchain.com",
+        "title": "Junior Team Assistant",
+        "description": "Join Blockchain.com as Junior Team Assistant. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "61988d87-ad19-4a48-9d0e-bb3576a8fff8",
+      "verification": "creating"
     }
   ]
 }
