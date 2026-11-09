@@ -1,3 +1,24 @@
 {
-  "history": []
+  "history": [
+    {
+      "slug": "dcmaccess",
+      "platform": "x",
+      "channelId": "6ab62682ea19ca0bdee284bd",
+      "postId": "6af13edae44ddbb57c2cd88d",
+      "status": "queued",
+      "slot": "morning",
+      "date": "2026-11-09",
+      "queuedAt": "2026-11-09T03:32:42.771Z"
+    },
+    {
+      "slug": "dcmaccess",
+      "platform": "linkedin",
+      "channelId": "69c5b139af47dacb695b5feb",
+      "postId": "6af13edd0361dbda74b5b0ac",
+      "status": "queued",
+      "slot": "morning",
+      "date": "2026-11-09",
+      "queuedAt": "2026-11-09T03:32:42.771Z"
+    }
+  ]
 }
