@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-09T03:32:28.522Z",
+  "checkedAt": "2026-11-09T11:32:36.203Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -10,11 +10,11 @@
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 23,
+    "existing": 19,
     "excluded": 22,
     "needs-review": 4
   },
-  "importedTotal": 30,
+  "importedTotal": 26,
   "added": [],
   "receipts": [
     {
@@ -81,37 +81,6 @@
       "slug": "tech-summit"
     },
     {
-      "url": "https://luma.com/michelinfoodrace1010",
-      "name": "The Lion City Michelin Food Race 2026 - Reg Interest",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "lcmfr1ori"
-    },
-    {
-      "url": "https://luma.com/lioncitymichelin-10Oct26",
-      "name": "The Lion City Michelin Food Race 2026 - 10 Oct  (USDC)",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "lion-city"
-    },
-    {
-      "url": "https://luma.com/0yptiek6",
-      "name": "Vibrez × La Royale | Dockside Yacht Day",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "vibrez-la-royale"
-    },
-    {
       "url": "https://luma.com/jxrnlqry",
       "name": "F1 Watch Party — Singapore 🇸🇬🏎️",
       "sources": [
@@ -171,17 +140,6 @@
       ],
       "status": "existing",
       "slug": "lion-city-michelin"
-    },
-    {
-      "url": "https://luma.com/lioncitymichelin11Oct26",
-      "name": "The Lion City Michelin Food Race 2026 - 11 Oct (USDC)",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "lion-city"
     },
     {
       "url": "https://luma.com/gqwqsft8",
@@ -319,11 +277,12 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://www.eventbrite.sg/e/post-token2049-hiityoga-detox-ft-canning-park-or-stadium-if-it-rains-tickets-2002616435668?aff=oddtdtcreator&keep_tld=true",
-      "name": "HIIT/Yoga++ Detox (Ft Canning Park or Stadium if it rains)",
+      "url": "https://luma.com/lioncitymichelin-10Oct26",
+      "name": "The Lion City Michelin Food Race 2026 - 10 Oct  (USDC)",
       "sources": [
         "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
@@ -413,6 +372,17 @@
       "reason": "Primary source event has ended"
     },
     {
+      "url": "https://luma.com/lioncitymichelin11Oct26",
+      "name": "The Lion City Michelin Food Race 2026 - 11 Oct (USDC)",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
       "url": "https://luma.com/TBE-ThePinnacle",
       "name": "The Best Event: The Pinnacle",
       "sources": [
@@ -488,15 +458,6 @@
       "name": "1 Oct: A Programmable Economy at the Speed of AI with Vitalik Buterin",
       "sources": [
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/2ezvuwxk",
-      "name": "Breakfast with human.tech in Singapore",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"

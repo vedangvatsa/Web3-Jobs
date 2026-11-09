@@ -8902,5 +8902,61 @@
       "4cdi9o80",
       "luma-batch-evt5kquymowmz16z"
     ]
+  },
+  "token2049-side-6aa1740b967be0befa88cffc": {
+    "until": "2027-11-09T11:32:27.962Z",
+    "slugs": [
+      "best-event8",
+      "token2049-side-6aa1740b967be0befa88cffc"
+    ]
+  },
+  "token2049-side-6aa1741e967be0befa88d006": {
+    "until": "2027-11-09T11:32:27.962Z",
+    "slugs": [
+      "best-event9",
+      "token2049-side-6aa1741e967be0befa88d006"
+    ]
+  },
+  "india-luma-9mjyny8k": {
+    "until": "2027-11-09T11:32:27.962Z",
+    "slugs": [
+      "rrj",
+      "india-luma-9mjyny8k"
+    ]
+  },
+  "luma-batch-HVz9QrHwDKCcbkH": {
+    "until": "2027-11-09T11:32:27.962Z",
+    "slugs": [
+      "j0muyl9l",
+      "luma-batch-hvz9qrhwdkccbkh"
+    ]
+  },
+  "token2049-evt-NvExRG9HaewrWmN": {
+    "until": "2027-11-09T11:32:27.962Z",
+    "slugs": [
+      "lion-city",
+      "token2049-evt-nvexrg9haewrwmn"
+    ]
+  },
+  "token2049-evt-XtEE7h1ji9OmZca": {
+    "until": "2027-11-09T11:32:27.962Z",
+    "slugs": [
+      "10th-oct",
+      "token2049-evt-xtee7h1ji9omzca"
+    ]
+  },
+  "token2049-evt-Bl0lcVK4HyVRpPO": {
+    "until": "2027-11-09T11:32:27.962Z",
+    "slugs": [
+      "lcmfr1ori",
+      "token2049-evt-bl0lcvk4hyvrppo"
+    ]
+  },
+  "token2049-evt-hJjSYByavc7mmoZ": {
+    "until": "2027-11-09T11:32:27.962Z",
+    "slugs": [
+      "vibrez-la-royale",
+      "token2049-evt-hjjsybyavc7mmoz"
+    ]
   }
 }

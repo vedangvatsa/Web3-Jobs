@@ -526,63 +526,6 @@
     }
   },
   {
-    "id": "luma-batch-HVz9QrHwDKCcbkH",
-    "slug": "j0muyl9l",
-    "name": "はじめてのハッカソン！Yuki先生とAIでアイデアをカタチに｜OrbsCafe #25",
-    "description": "「AIでこんなことができるの！？」を、一緒に体験しませんか？✨\n\nブロックチェーン講師として大人気のYuki先生と一緒に、AIを活用して自分だけの作品を作りませんか？\n\nこれからのAI時代に備えて、自分の作ったプロダクトを公開し、動画で紹介するところまでを体験します。\n\n完成したプロダクトは、 ハッカソン へ提出することができます。\n\n「ハッカソンってエンジニアが参加するものでは？」という方も大丈夫！\n\n初めての方も、アイデアを考える → カタチにする → 作品を提出するところまで、一緒に体験してみましょう！\n\n日常生活にも役立つAI活用法を学べます。ハッカソン経験者もぜひご参加ください✨\n\n 👑講師：Yuki先生\n\nブロックチェーン解説やハンズオン動画でも人気のYuki先生がOrbsCafeに再登壇！\n\nSolana Foundation External DevRel Japan他、一生役立つ英語学習についても発信中。\n\nYuki先生のX（@yuki_web3_jp）\n\n🙋 こんな方におすすめ\n\nアイデアをカタチにする方法を知りたい\n\nAIやWeb3をもっと楽しみたい\n\nYuki先生と一緒に学びたい\n\n初めての方も、経験者の方も大歓迎です！\n\n💻 持ち物\n\nノートPCをご持参ください。\n\n事前準備のため、必ず連絡のとれるメールアドレスでお申し込みください。\n\n🗓 タイムテーブル\n\n13:30　受付開始14:00　AI × ハッカソン体験ワークショップ16:00　交流タイム16:40　終了\n\n■ ホスト：Orbs / OrbsCafeOrbsは、高度なオンチェーン取引のために設計された分散型Layer-3ブロックチェーンです。主要DEXに統合され、CeFiに匹敵する効率的でスムーズなトレーディング体験をDeFi上で実現しています。\n\nOrbsCafeは、楽しく学び、仲間とつながるコミュニティです。ぜひXをフォローして、イベントにご参加ください✨\n\nhttps://x.com/JapanOrbs\n\n■定員40名　承認制\n\n༶ ༶ ༶ ༶ ༶ ༶ ༶ ༶ ༶ ༶ ༶ ༶ ༶\n\nご参加前に必ず参加規約をお読みください",
-    "startDate": "2026-10-10T04:30:00.000Z",
-    "endDate": "2026-10-10T07:40:00.000Z",
-    "city": "Shibuya",
-    "country": "Japan",
-    "location": "Crypto Cafe&Bar クリプトカフェアンドバー, Crypto Cafe&Bar クリプトカフェアンドバー, Japan, 〒150-0022 Tokyo, Shibuya, Ebisuminami, 3-chōme−5−７ Digital Gate Bldg, 2F",
-    "url": "https://luma.com/j0muyl9l",
-    "registrationUrl": "https://luma.com/j0muyl9l",
-    "coverImage": "/events/luma-batch-HVz9QrHwDKCcbkH-96687dce.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Yuki Takahashi",
-      "AinaOrbs",
-      "Orbs Japan"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Tokyo",
-    "neighborhood": "5",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Crypto Cafe&Bar クリプトカフェアンドバー",
-    "addressLocality": "Shibuya",
-    "addressRegion": "Tokyo",
-    "addressCountry": "JP",
-    "organizer": {
-      "type": "Organization",
-      "name": "Yuki Takahashi"
-    },
-    "ticketOffers": [
-      {
-        "name": "ハッカソン初心者はこちら！",
-        "url": "https://luma.com/j0muyl9l",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "ハッカソン経験者ウェルカム✌",
-        "url": "https://luma.com/j0muyl9l",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/j0muyl9l",
-      "eventId": "evt-HVz9QrHwDKCcbkH",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-8UXgG0KjJABRwx1",
     "slug": "v9us2rum",
     "name": "ステーブルコインから始まる、新しいデジタル金融体験 | OrbsCafe#26",

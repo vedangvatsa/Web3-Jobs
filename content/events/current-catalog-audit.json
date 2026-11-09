@@ -1078,76 +1078,6 @@
       "note": "City ticket URL returned tour-wide content; city-specific agenda and venue remain unverified."
     },
     {
-      "id": "india-luma-9mjyny8k",
-      "oldSlug": "rrj",
-      "slug": "rrj",
-      "candidate": true,
-      "outcome": "verified-expanded",
-      "descriptionChanged": true,
-      "previousCharacters": 4080,
-      "characters": 9649,
-      "factChanges": {
-        "startDate": "2026-10-10T06:30:00.000Z",
-        "endDate": "2026-10-10T10:30:00.000Z",
-        "organizer": {
-          "type": "Organization",
-          "name": "Ready for the Run Meetups",
-          "url": "https://goinfini3.com/"
-        },
-        "ticketOffers": [
-          {
-            "name": "Degen",
-            "url": "https://luma.com/9mjyny8k",
-            "price": 0,
-            "availability": "SoldOut"
-          },
-          {
-            "name": "KOL / Creator",
-            "url": "https://luma.com/9mjyny8k",
-            "price": 0,
-            "availability": "SoldOut"
-          },
-          {
-            "name": "Investor",
-            "url": "https://luma.com/9mjyny8k",
-            "price": 0,
-            "availability": "SoldOut"
-          },
-          {
-            "name": "Builder",
-            "url": "https://luma.com/9mjyny8k",
-            "price": 0,
-            "availability": "SoldOut"
-          },
-          {
-            "name": "Founder",
-            "url": "https://luma.com/9mjyny8k",
-            "price": 0,
-            "availability": "SoldOut"
-          },
-          {
-            "name": "Student",
-            "url": "https://luma.com/9mjyny8k",
-            "price": 0,
-            "availability": "SoldOut"
-          },
-          {
-            "name": "Trader",
-            "url": "https://luma.com/9mjyny8k",
-            "price": 0,
-            "availability": "SoldOut"
-          }
-        ],
-        "registrationAvailability": "sold-out"
-      },
-      "source": {
-        "url": "https://luma.com/9mjyny8k",
-        "fetchedAt": "2026-10-12T11:25:08.080Z",
-        "status": 200,
-        "sha256": "b2b33c83acea233dbf420fa706f454d6543c1be8ade138e921e757e4ef68f3d7"
-      }
-    },
-    {
       "id": "luma-batch-evtMhB5lf6PHMKPk",
       "oldSlug": "f6xhhyld",
       "slug": "monad-blitz-medellin",
@@ -6238,10 +6168,6 @@
     "before": 229,
     "after": 227,
     "removed": [
-      {
-        "id": "india-luma-9mjyny8k",
-        "slug": "rrj"
-      },
       {
         "id": "luma-crypto-ktYtj2edpeRFLQd",
         "slug": "hkdasc"

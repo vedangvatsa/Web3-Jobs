@@ -4138,90 +4138,6 @@ Time Heist by Zusei.com is scheduled for 5 October 2026 at 13:00 (Asia/Singapore
 
 Registration is listed as free.
 
-<a id="event-ac56d7f5bb130dae"></a>
-
-## The Lion City Michelin Food Race 2026 - 10 Oct Register Interest
-
-- Record: `token2049-evt-Bl0lcVK4HyVRpPO`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-10T01:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/michelinfoodrace1010>
-
-### About the event
-
-The Lion City Michelin Food Race 2026 - 10 Oct Register Interest is scheduled for 10 October 2026 at 09:30 (Asia/Singapore) in Singapore. Hosted by Attribute Data Collabs, Everyday Tour Company, Joanna Teo.
-
-For two mornings only, during the one week Singapore holds Token2049, Sui Basecamp, and the Grand Prix, a small, deliberately capped group will race between three Michelin stops, tracing how spice shaped three different communities' place in Singapore's food history.
-
-Over the course of a series of tasting bites and drinks, you will be fed with a story that moves from a global lens down to something entirely local.
-
-Registration requires host approval. Registration is listed as free.
-
-<a id="event-effaec46ecad341f"></a>
-
-## The Lion City Michelin Food Race 2026 - 10 Oct
-
-- Record: `token2049-evt-NvExRG9HaewrWmN`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-10T01:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/lioncitymichelin-10Oct26>
-
-### About the event
-
-The Lion City Michelin Food Race 2026 - 10 Oct is scheduled for 10 October 2026 at 09:30 (Asia/Singapore) in Singapore. Hosted by Attribute Data Collabs, Everyday Tour Company, Joanna Teo.
-
-For two mornings only, during the one week Singapore holds Token2049, Sui Basecamp, and the Grand Prix, a small, deliberately capped group (only 10 participants) will race between three Michelin stops, tracing how spice shaped three different communities' place in Singapore's food history.
-
-Over the course of a series of tasting bites and drinks, you will be fed with a story that moves from a global lens down to something entirely local.
-
-A private supper club chef's home for the closing session, address undisclosed until you're confirmed, not a table you can book anywhere else
-
-Your own digital food guide, beautifully put together, yours to keep and revisit long after the day ends
-
-The organizer shares the exact location with approved guests.
-
-<a id="event-a008c912cc8675cc"></a>
-
-## Vibrez × La Royale \| Dockside Yacht Day
-
-- Record: `token2049-evt-hJjSYByavc7mmoZ`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-10T02:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/0yptiek6>
-
-### About the event
-
-Vibrez × La Royale | Dockside Yacht Day is scheduled for 10 October 2026 at 10:00 (Asia/Singapore) in Singapore. Hosted by Vibrez !.
-
-Spend time with a small group of founders, investors and invited guests over lunch, music and conversation on deck.
-
-MYKONOS will remain docked at ONE°15 Marina, Sentosa Cove throughout the event.
-
-The yacht will not sail or go out to sea.
-
-Water activities are to be confirmed, subject to marina approval, operator availability and weather conditions.
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
-<a id="event-bf8b190b35eec047"></a>
-
-## 10th Oct 26 - DRIVE TO LEGACY - FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX EDITION 2026
-
-- Record: `token2049-evt-XtEE7h1ji9OmZca`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-10T02:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ypyqommk>
-
-### About the event
-
-10th Oct 26 - DRIVE TO LEGACY - FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX EDITION 2026 is scheduled for 10 October 2026 at 10:00 (Asia/Singapore). Hosted by WEALTH GLOBAL PARTNERS, Minister Gligor Tashkovich, Velle N. Tay.
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
 <a id="event-2792cb7cd283e1ef"></a>
 
 ## F1 Watch Party — Singapore 🇸🇬🏎️
@@ -9708,160 +9624,6 @@ The celebration takes place at a festive rooftop and banquet venue in Mumbai on 
 ### Registration and admission
 
 Tickets are free via Luma and subject to venue capacity limits. Registration is free and requires host approval. Guests receive the full venue coordinates and dress code details upon confirmation.
-
-<a id="event-c1fb17a2fa87b8cb"></a>
-
-## Ready for the Run @ Jaipur
-
-- Record: `india-luma-9mjyny8k`
-- Source: [india-luma-events.json](sources/india-luma-events.json)
-- Starts: 2026-10-10T06:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/9mjyny8k>
-
-### India's AI & Web3 community is preparing for the next market cycle - and we want to know how
-
-Ready for the Run is a community-first meetup circuit bringing together builders, investors, traders, founders, and researchers for real conversations on where AI and Web3 are headed next - city by city, across a 9-city run (maybe more).
-
-- NO PANEL DISCUSSIONS
-- NO FIRESIDES
-- NO COMPANY PITCHES
-- NO KEYNOTES
-- NO PRODUCT DEMOS
-
-All Topics are chosen by the community itself, through a series of surveys, live polls, and real conversations in the room.
-
-Join here to participate in the biggest community intelligence exercise in Web3 India: https://goinfini3.com/
-
-### Every stop feeds into two things
-
-- The Community Pulse Snapshot - a city-level read of sentiment, conviction, and signal.
-- India's AI & Web3 Preparedness Playbook - the community-generated roadmap this circuit is building toward.
-
-### Why it matters
-
-- Community Intelligence - raw, unfiltered sentiment from the people actually building and betting on this space.
-- Market Insights & Leadership Inputs - perspectives from founders, investors, and operators shaping the next cycle.
-- An Actionable Strategy Roadmap - for every persona in the room, not just the ones on stage.
-
-The circuit is co-led by Raajeev Anand (TechHybr (https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.
-
-Whether you're deep in the trenches or just AI & Web3-curious, come add your voice to the conversation.
-
-Ready? Let's run.
-
-### Agenda
-
-- 12:00 - 13:00 - Registration & Intros + Surveys
-  - Want to be at IBW? Add your name to the lucky box.
-  - Want to be at Bitmela Jaipur? Add your name to the lucky box.
-  - Complete as many surveys as possible
-  - MAX RUNS gets a chance to win the giveaway
-- 13:00 - Intro to the Ready for the Run initiative
-- 13:15 - 13:25 - Intro by Raajeev Anand
-- 13:30 - Speaking session: Sai Poorna, Mentor, Advisor, Investor + Live Polls
-- 13:45 - Speaking session: Akash Bansal, Founder, Flitpay + Live Polls
-- 14:00 - Speaking session: Shashank, Flitpay + Live Polls
-- 14:15 onwards
-  - Q&A - Pop-Quiz
-  - Giveaways
-    - 2x IBW passes
-    - 2x Bitmela Jaipur mela passes
-    - 4x Bitmela Jaipur entry passes
-    - Gift Hampers
-  - RFTR Resolutions
-  - RFTR Signature Campaign
-  - RFTR Feedback Videos
-  - F&B
-
-### Special Mention
-
-- BBC
-  - Badass Builders Club brings together India's best and most driven developers, builders, and creators. Led by Vardan Agarwal and Rohit Goyal, it's a community of people who get things done - no breaking news here, just people who ship.
-  - X (https://x.com/0x_bbc) | LinkedIn (https://www.linkedin.com/company/badass-builders)
-- Techeve
-  - A growing tech community built around one idea - learning by building. They bring together students and young developers through workshops, hackathons, campus meetups, and collaborative events, helping them go from writing code to shipping real projects.
-  - X (https://x.com/TecheveIN) | LinkedIn (https://in.linkedin.com/company/techeve)
-
-### IBW
-
-- India's flagship #Web3 gathering, hosted by Hashed Emergent
-- 2 General Pass giveaways to lucky participants
-- A special discount on IBW tickets using code 𝗜𝗡𝗙𝗜𝗡𝗜𝟯𝟭𝟬 - grab yours: https://indiablockchainweek.com/#tickets
-
-### Bitmela
-
-- An inclusive gathering in Jaipur to discuss where money is actually headed.
-- 4 Entry Passes worth ₹999 (access to the 2 full conference days + mela on day 2)
-- 2 Mela Passes worth ₹4999 (access to the 2 full conference days + lunch on both days + mela on day 2)
-- A special 10% discount on Bitmela tickets using code 𝗜𝗡𝗙𝗜𝗡𝗜𝟯𝟭𝟬 - grab yours here: https://thebitmela.com/#tickets
-
-### Ecosystem Partners
-
-- OroPocket: X (https://x.com/oropocket) | LinkedIn (https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500: https://oropocket.com/i/READY364)
-- KoinX: X (https://x.com/getkoinx) | LinkedIn (https://in.linkedin.com/company/getkoinx)
-- Kryptos: X (https://x.com/KryptosConnect) | LinkedIn (https://www.linkedin.com/company/kryptos)
-- Grovio: X (https://x.com/GrovioAI) | LinkedIn (https://www.linkedin.com/company/grovioai)
-- QuillAudits: X (https://x.com/QuillAudits_AI) | LinkedIn (https://www.linkedin.com/company/quillaudits)
-- Make0: Website (https://make0.ai/) | LinkedIn (https://www.linkedin.com/company/make0/)
-- Xtrading: X (https://x.com/xtrading_dex) | LinkedIn (https://www.linkedin.com/company/xtradingdex/)
-- BlockSurvey: X (https://x.com/blocksurvey) | LinkedIn (https://www.linkedin.com/company/blocksurvey)
-- 39K Group: X (https://x.com/39k_group) | LinkedIn (https://in.linkedin.com/company/39kgroup)
-
-### Media Partners
-
-- CoinsCapture: X (https://x.com/CoinsCapture) | LinkedIn (https://in.linkedin.com/company/coinscapture)
-- Blockopedia: X (https://x.com/theblockopedia_) | LinkedIn (https://www.linkedin.com/company/theblockopediaofficial)
-- Techtoken: X (https://x.com/Techtoken_in) | LinkedIn (https://www.linkedin.com/company/techtoken/)
-- TheCryptoHype: X (https://x.com/the_cryptohype) | LinkedIn (https://www.linkedin.com/company/thecryptohype/)
-- Block24Seven: X (https://x.com/Block24Seven) | LinkedIn (https://www.linkedin.com/company/block24seven/)
-
-### Community Partners
-
-- Bhopal DAO: X (https://x.com/bhopal_dao) | LinkedIn (https://www.linkedin.com/company/bhopal-dao)
-- Collably Network: X (https://x.com/CollablyNetwork) | LinkedIn (https://www.linkedin.com/company/collablynetwork/)
-- Hyderabad DAO: X (https://x.com/hyderabaddao) | LinkedIn (https://in.linkedin.com/company/hyderabad-dao)
-- Gwalior DAO: X (https://x.com/gwaliordao_) | LinkedIn (https://www.linkedin.com/company/gwaliordao/)
-- GrowthFi Studio: X (https://x.com/GrowthFiStudio) | LinkedIn (https://www.linkedin.com/company/growthfistudio/)
-- Lucknow DAO: X (https://x.com/Lucknow_DAO) | LinkedIn (https://www.linkedin.com/company/lucknowdao/)
-- Web3 Kerala: X (https://x.com/Web3_kerala) | LinkedIn (https://in.linkedin.com/company/web3-kerala)
-- Web3 Aligarh: X (https://x.com/web3aligarh) | LinkedIn (https://www.linkedin.com/company/web3-aligarh/)
-- Web3 Events: X (https://x.com/web3_events) | LinkedIn (https://www.linkedin.com/company/web3-events)
-- Collably Network: X (https://x.com/CollablyNetwork) | LinkedIn (https://www.linkedin.com/company/collably-network)
-- BBC: X (https://x.com/0x_bbc) | LinkedIn (https://www.linkedin.com/company/badass-builders)
-- Zyphar: X (https://x.com/zyphar_ind) | LinkedIn (https://www.linkedin.com/company/zyphar)
-- Dev Spark: X (https://x.com/DevSparkspune) | LinkedIn (https://www.linkedin.com/company/dev-spark-community/)
-- Techeve: X (https://x.com/TecheveIN) | LinkedIn (https://in.linkedin.com/company/techeve)
-- Ajinava Edge: X (https://x.com/ajinava) | LinkedIn (https://in.linkedin.com/company/ajinava-edge-in)
-- Stackhouse: Website (https://www.stackhouse.social/)
-- AavaCustoms: X (https://x.com/Aavacustoms) | LinkedIn (https://www.linkedin.com/company/aava-customs/)
-- KrowdKraft: X (https://x.com/KrowdKraft_) | LinkedIn (https://www.linkedin.com/company/krowdkraft/)
-- Builders Verse: X (https://x.com/buildersverse_)
-- Builder Base: X (https://x.com/theBuilder_base) | LinkedIn (https://www.linkedin.com/company/builder-base/)
-- Abhilekh Verma Consultancy: X (https://x.com/abhilekhverma) | LinkedIn (https://in.linkedin.com/company/abhilekhverma)
-- ArtofBlockchain: LinkedIn (https://in.linkedin.com/company/artofblockchain)
-- Bitcoin Bharat: X (https://x.com/bitcoinbharat_) | LinkedIn (https://www.linkedin.com/company/bitcoinbharat/)
-- Zeek (Costa Rican Community): X (https://x.com/zeek_cr) | LinkedIn (https://www.linkedin.com/company/zeekcr/)
-
-### Raajeev Anand (@cryptomargofficial )/ TechHybr
-
-https://www.instagram.com/cryptomargofficial/
-
-Raajeev Anand is an India-based Web3 & AI social media influencer and digital entrepreneur, building at the intersection of emerging technology and community-driven education.
-
-Through TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale - making complex technology accessible, practical, and actionable for creators, students, and businesses across India.
-
-Insta (https://www.instagram.com/cryptomargofficial/) | X (https://x.com/raajeevanand) | LinkedIn (https://www.linkedin.com/in/raajeevanand/)
-
-### About Infini3
-
-Infini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.
-
-X (https://x.com/infini3_) | Telegram (https://t.me/goinfini3) | Instagram (https://www.instagram.com/goinfini3)
-
-### About 28° North
-
-28° North is a boutique strategic advisory firm for early-stage Web3 and AI startups, working on scope-based mandates across positioning, product, growth, community, and fundraising. It operates with an operator-first, KRA-driven approach - practical strategy built to execute, not just present. Infini3 is its events and media arm, extending that same structured, outcome-focused thinking into community-building and content formats.
 
 <a id="event-3a6e9449b4741f47"></a>
 
@@ -15705,72 +15467,6 @@ Königsberger Bridges Institute Hong Kong is the Hong Kong chapter of KBI. We br
 
 Through ETO Eastern, KBI Hong Kong is building a platform where students can showcase what they have built, learn from experts, meet collaborators, and take part in conversations about the future of technology.
 
-<a id="event-d1cbf69ab45142cf"></a>
-
-## はじめてのハッカソン！Yuki先生とAIでアイデアをカタチに｜OrbsCafe #25
-
-- Record: `luma-batch-HVz9QrHwDKCcbkH`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-10T04:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/j0muyl9l>
-
-### About the event
-
-「AIでこんなことができるの！？」を、一緒に体験しませんか？
-
-ブロックチェーン講師として大人気のYuki先生と一緒に、AIを活用して自分だけの作品を作りませんか？
-
-これからのAI時代に備えて、自分の作ったプロダクトを公開し、動画で紹介するところまでを体験します。
-
-完成したプロダクトは、 ハッカソン へ提出することができます。
-
-「ハッカソンってエンジニアが参加するものでは？」という方も大丈夫！
-
-初めての方も、アイデアを考える → カタチにする → 作品を提出するところまで、一緒に体験してみましょう！
-
-日常生活にも役立つAI活用法を学べます。ハッカソン経験者もぜひご参加ください
-
-講師：Yuki先生
-
-ブロックチェーン解説やハンズオン動画でも人気のYuki先生がOrbsCafeに再登壇！
-
-Solana Foundation External DevRel Japan他、一生役立つ英語学習についても発信中。
-
-Yuki先生のX（@yuki_web3_jp）
-
-こんな方におすすめ
-
-アイデアをカタチにする方法を知りたい
-
-AIやWeb3をもっと楽しみたい
-
-Yuki先生と一緒に学びたい
-
-初めての方も、経験者の方も大歓迎です！
-
-持ち物
-
-ノートPCをご持参ください。
-
-事前準備のため、必ず連絡のとれるメールアドレスでお申し込みください。
-
-タイムテーブル
-
-13:30　受付開始14:00　AI × ハッカソン体験ワークショップ16:00　交流タイム16:40　終了
-
-■ ホスト：Orbs / OrbsCafeOrbsは、高度なオンチェーン取引のために設計された分散型Layer-3ブロックチェーンです。主要DEXに統合され、CeFiに匹敵する効率的でスムーズなトレーディング体験をDeFi上で実現しています。
-
-OrbsCafeは、楽しく学び、仲間とつながるコミュニティです。ぜひXをフォローして、イベントにご参加ください
-
-https://x.com/JapanOrbs
-
-■定員40名　承認制
-
-༶ ༶ ༶ ༶ ༶ ༶ ༶ ༶ ༶ ༶ ༶ ༶ ༶
-
-ご参加前に必ず参加規約をお読みください
-
 <a id="event-ff0997225fa6d340"></a>
 
 ## UKRAINIAN DEMO DAY \| Kyiv
@@ -20089,18 +19785,6 @@ All workshops stream live on Discord, including the kickoff with the Colosseum f
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-0cc1f7c623ff80b3"></a>
-
-## Lagos Blockchain Week 2026
-
-- Record: `w3v-lagos-blockchain-week-26-10-06`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-06T08:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://lagosblockchainweek.ng/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-627787f1797a8f02"></a>
 
 ## SOLANA BUILD STATION WARSAW
@@ -20110,46 +19794,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-06T10:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/StplBuildStation>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-7a471a93c94b596d"></a>
-
-## The Best Event: Elevation
-
-- Record: `token2049-side-6aa1740b967be0befa88cffc`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-10T03:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/TBE-Elevation>
-
-### About the event
-
-Join The Best Event at Elevation, a premium brunch opening the second morning of race weekend exactly as it should - unhurried, high above the city, with the Grand Prix atmosphere already building outside.
-
-### Event Highlights
-
-- A refined morning gathering with a discerning crowd - founders, investors, and the industry's most connected
-- Freshly baked pastries and light bites, served throughout
-- Front-row views as the F1 track builds toward race-day energy
-- Sweeping skyline views that set an elegant tone for the day ahead
-- Quality networking with the types of people who stay for the spectacle
-
-Elevation is hosted at Singapore's most premium penthouse suite, in an iconic 5-star hotel overlooking Marina Bay. With floor-to-ceiling views of the F1 Track, this premium space reflects the calibre of company you can expect and a level of exclusivity you shouldn't miss.
-
-[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
-
-For sponsor inquiries [for the penthouse editions, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.
-
-<a id="event-10465c05129bca92"></a>
-
-## Cowork with ETHGlobal in Kerala with Web3Kerala
-
-- Record: `luma-host-evt-evt-q1ylKhKe3RoxjoU`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-10T06:30:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/ethglobal-cowork-kerala>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -20207,55 +19851,6 @@ Leave with relationships that matter.
 F1 SG X Crypto VC
 
 Singapore - TOKEN2049 Week
-
-<a id="event-22fcae15b84092e4"></a>
-
-## The Best Event: The RWA Paddock with Brickken
-
-- Record: `luma-host-evt-evt-zOTmtsoDHIHRi7N`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-10T07:30:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/TBE-ThePaddock>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-12e07b9be59de9d7"></a>
-
-## The Best Event: The RWA Paddock with Brickken
-
-- Record: `token2049-side-6aa1741e967be0befa88d006`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-10T07:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/TBE-ThePaddock>
-
-### About the event
-
-Brickken puts you trackside for the Sprint Race itself for The Paddock - Tokenised Markets, and there's genuinely no better seat in the city for it.
-
-The Paddock is hosted at Singapore's most premium penthouse suite, in an iconic 5-star hotel overlooking Marina Bay. With floor-to-ceiling views of the track, this premium space reflects the calibre of company you can expect and a level of exclusivity you shouldn't miss.
-
-### Event Highlights
-
-- Premium food and drink served throughout the evening
-- Full trackside views of the F1 Sprint Race from every suite room
-- Live race broadcast on screen for every twist and turn
-- A curated crowd made up of the industry's top tier
-
-If you're looking for premium views of the F1 Sprint Race with even better company, join Brickken at The Paddock for an afternoon to remember.
-
-### Hosts
-
-[Brickken](http://www.brickken.com/?referrer=luma&utm_source=luma) is the operating layer for tokenized private markets. Its infrastructure enables financial institutions, asset managers, regulated entities, and enterprises to issue, manage, and distribute digital financial instruments across their full lifecycle. Brickken supports $660M+ in tokenized assets for 150+ institutional clients across 40+ countries.
-
-[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
-
-For sponsor inquiries [for the penthouse editions, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.
-
-### Media Partner
-
-[Luna PR](https://www.lunapr.com/) is a global, award-winning integrated communications consultancy and agency operating at the intersection of emerging technology and modern finance. With deep roots in Web3 and capital markets, we elevate disruptive brands shaping the future of blockchain, artificial intelligence, fintech, robotics, and energy.
 
 <a id="event-9d19ab0814023dbd"></a>
 
@@ -29863,6 +29458,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-b4131ad5163f75a4"></a>
+
+## Digital Asset Summit London 2026
+
+- Record: `luma-evt-aTKfB4uWCos54nU`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-10T08:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/daslondon2026>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-5e74069346094ef3"></a>
 
 ## Digital Asset Summit London 2026
@@ -30175,6 +29782,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-57bbea6834f85024"></a>
+
+## NVIDIA Open Season Part 1: Build With AI You Control (Nemotron)
+
+- Record: `luma-host-evt-evt-9Vk41CxGEYlNTqK`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-11T04:30:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/cremorne-irwg>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-54d49774d35f1720"></a>
 
 ## Chula Silicon Sqaure: Soft Opening Event
@@ -30196,6 +29815,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-11T06:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/tbab5uz8>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-14adc0f62a2ccf89"></a>
+
+## RWA Realized: Market Integrity Summit 2026
+
+- Record: `luma-host-evt-evt-Jw3CgPkBftQcFSt`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-11T07:30:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/b02vcn9v>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -30582,6 +30213,18 @@ Teams present products and features on the closing day of Solana Hacker House Lo
 - Starts: 2026-11-12T10:15:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/jcaps5s3>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-adcd103cab3e79a3"></a>
+
+## Solana For Students - Vietnam 🇻🇳
+
+- Record: `luma-host-evt-evt-Ulpt5KrFLf0bLPJ`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-12T11:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/pjlu2inf>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -31466,6 +31109,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-14T16:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/stin-pokernight>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-9e110d617c96b5ca"></a>
+
+## Riserva London \| Stablecoins and compliance over wine
+
+- Record: `luma-host-evt-evt-zqiCdp1THJEVEUU`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-14T17:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/fkoham7n>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -32765,6 +32420,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-e07685973dcf9965"></a>
+
+## Binance Community Evening, Geneva 🇨🇭
+
+- Record: `luma-host-evt-evt-fKh8Qb0MolZi5Kz`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19T17:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/zz7r5gum>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-d44aa25ddd722fa4"></a>
 
 ## B.O.B. Social with Ryan Kuester (Mujina)
@@ -33158,6 +32825,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-23T20:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/zcaxtqsh>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-8d5d8838b3558a50"></a>
+
+## HKGHH Event 3 : Premier Networking Night @ LKF 🌟 THEME: Hong Kong Web3 Festival 🌟
+
+- Record: `luma-host-evt-evt-8r1XuPjp1xyA9EO`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-24T11:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/nqz7gjqc>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -33809,6 +33488,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-8ef65e9576b34442"></a>
+
+## Hong Kong Crypto Compliance & Legal Community Drinks 🍷
+
+- Record: `luma-host-evt-evt-cnwHGaAliHIMYkq`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-10T10:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/99oa9hwk>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-9fcb34391e51ca5e"></a>
 
 ## Solana Demo & Dine
@@ -33955,6 +33646,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-f97fe1bad1a2862e"></a>
+
+## Inaugural Ceremony of the Institute for Digital Assets and Economic Innovation & Industry Dialogue
+
+- Record: `luma-host-evt-evt-bwpGcoeJZfEmelZ`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-18T06:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/bmnsh0b0>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-fb07576df1f2d335"></a>
 
 ## ☕Coffee Chat Hangout by Web3 Digest — New Date Coming Soon
@@ -34088,6 +33791,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2027-02-03T02:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/rwasummit>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-428db6f6e26dd43b"></a>
+
+## RWA SUMMIT HONG KONG 2027
+
+- Record: `luma-host-evt-evt-DtmIxKrIZ3WbRud`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-02-03T02:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/rwasummit>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

@@ -761,10 +761,6 @@
       "sha256": "2cf4a050d317946ab1e21838ded3e6b56f04f2606d518e81995cee9c9b9af9b4",
       "status": "optimized"
     },
-    "/events/india-luma-9mjyny8k-c48f6ec3.webp": {
-      "sha256": "339fd6f697240ff7e883b175ab5655d1fb8634eed495542d91d5f6ea95566e5e",
-      "status": "optimized"
-    },
     "/events/india-luma-ai6owvhz-120d1648.webp": {
       "sha256": "c411a573d56497b7f28071bdbf5efee9da868e854dfcbdd3b1c5f92fa65fc40b",
       "status": "optimized"
@@ -951,10 +947,6 @@
     },
     "/events/luma-batch-F8zatkGwjYGzv3V-7109b7ba.webp": {
       "sha256": "e16a60a3e70a727417105e1f3dca349df9a7b22f258a58fbce627cd2e982d04b",
-      "status": "optimized"
-    },
-    "/events/luma-batch-HVz9QrHwDKCcbkH-96687dce.webp": {
-      "sha256": "cc40407c1fb132ffdb3b9045d605af405a0c4e1cbe81972fcdeeff97957eecc5",
       "status": "optimized"
     },
     "/events/luma-batch-JrwT6SseTVJgIBs-63311390.webp": {
@@ -4533,10 +4525,6 @@
       "sha256": "05f5c8642560adc1d525e1e0522a2f173340255609b6c644e6f4b60149ad4e07",
       "status": "optimized"
     },
-    "/events/token2049-evt-nvexrg9haewrwmn-8e68bf0a.webp": {
-      "sha256": "009b251a56e0087f35e17626e5220e5b88a84d38b0896498625e522bf5b784b6",
-      "status": "optimized"
-    },
     "/events/token2049-evt-nylk9sczupincqq-01a94703.webp": {
       "sha256": "18318725605b581290eab9952b0a3c31bfe91bb64692959f99c45f481fdcbc79",
       "status": "optimized"
@@ -4565,10 +4553,6 @@
       "sha256": "06203799368ff1f92a8d96693ed27b2bb281c97767c97a214cb31a3b2d19ddec",
       "status": "optimized"
     },
-    "/events/token2049-evt-xtee7h1ji9omzca-3dc59756.webp": {
-      "sha256": "e60391987076c8245d07a7203cd316afc72158e1f48bc71ff1c2d424d747876f",
-      "status": "optimized"
-    },
     "/events/token2049-evt-xykkho9ggzrosdv-82cf72b3.webp": {
       "sha256": "63a163e775b31767011a796c581c2a384e45c6e6062d9f0b059d8cdc0ac55900",
       "status": "optimized"
@@ -4583,14 +4567,6 @@
     },
     "/events/token2049-side-6a739ce35a75007b41001095-cd08b915.webp": {
       "sha256": "c15ed96293bd45f8ee16dc9a916e6378484f8f6a639cb1cd45254735645189d5",
-      "status": "optimized"
-    },
-    "/events/token2049-side-6aa1740b967be0befa88cffc-c3d94d1c.webp": {
-      "sha256": "2303a44dfba859a4c654e48e29bc97efd8c5cf10dad6fc2d3fec390748ba28b6",
-      "status": "retained"
-    },
-    "/events/token2049-side-6aa1741e967be0befa88d006-970b030e.webp": {
-      "sha256": "6d8f8a470d8189b90058ddf1546332152a264787f66e3d7287ad12cc648aae64",
       "status": "optimized"
     },
     "/events/token2049-side-6aa17432967be0befa88d00d-5c89f1a9.webp": {

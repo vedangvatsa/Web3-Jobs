@@ -1940,57 +1940,6 @@
     }
   },
   {
-    "id": "token2049-side-6aa1740b967be0befa88cffc",
-    "name": "The Best Event: Elevation",
-    "description": "Join The Best Event at Elevation, a premium brunch opening the second morning of race weekend exactly as it should — unhurried, high above the city, with the Grand Prix atmosphere already building outside.\n\nEvent Highlights:\n\n• A refined morning gathering with a discerning crowd — founders, investors, and the industry's most connected\n• Freshly baked pastries and light bites, served throughout\n• Front-row views as the F1 track builds toward race-day energy\n• Sweeping skyline views that set an elegant tone for the day ahead\n• Quality networking with the types of people who stay for the spectacle\n\nElevation is hosted at Singapore's most premium penthouse suite, in an iconic 5-star hotel overlooking Marina Bay. With floor-to-ceiling views of the F1 Track, this premium space reflects the calibre of company you can expect and a level of exclusivity you shouldn't miss.\n\n[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.\n\nFor sponsor inquiries [for the penthouse editions, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.",
-    "startDate": "2026-10-10T03:00:00.000Z",
-    "endDate": "2026-10-10T06:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/TBE-Elevation",
-    "coverImage": "/events/token2049-side-6aa1740b967be0befa88cffc-c3d94d1c.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Party/Dinner",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "The Best Event",
-      "Tobias Bauer",
-      "Brent Fulfer",
-      "Mihir Odhrani"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "slug": "best-event8",
-    "registrationUrl": "https://luma.com/TBE-Elevation",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "The Best Event",
-      "url": "https://thebestevent.com/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/TBE-Elevation",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/TBE-Elevation",
-      "eventId": "evt-V2wAPVrZxjmABYR",
-      "fetchedAt": "2026-09-19T23:56:06.143Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "token2049-side-6a739c525a75007b4100108c",
     "name": "F1 Sprint Race and Grand Prix Qualifying",
     "description": "Saturday's Formula 1 program at the 2026 Singapore Grand Prix includes the Sprint and Grand Prix qualifying at the Marina Bay Street Circuit.\n\n## Saturday, 10 October\n\nThe track program runs on local Singapore time: the Porsche Carrera Cup Asia qualifying session at 15:00-15:30, the Formula 1 Sprint of 21 laps or 60 minutes at 17:00-17:30, the Formula 1 press conference at 17:30-18:00, the Porsche Carrera Cup Asia first race at 19:45-20:20, the Grand Prix qualifying session at 21:00-22:00, and a further press conference at 22:00-23:00.\n\n## Circuit\n\nThe night race takes place at the 4.927-kilometre Marina Bay Street Circuit. The official timetable is subject to change.\n\n## Circuit\n\nThe Marina Bay Circuit arrived on the scene in 2008 with the city skyline as its backdrop, hosting the first night-time race in Formula 1 history. After a 2023 layout change the lap runs 19 corners over 4.927 kilometres, and the bumpy street surface plus humidity make it one of the most physically demanding races on the calendar.\n\n## Following the weekend\n\nThe sessions can be followed live on F1 TV, with tickets and hospitality packages available through Formula 1 official channels.",
@@ -2018,59 +1967,6 @@
     "timezone": "Asia/Singapore",
     "venueName": "Marina Bay Street Circuit",
     "slug": "fsrgpq"
-  },
-  {
-    "id": "token2049-side-6aa1741e967be0befa88d006",
-    "name": "The Best Event: The RWA Paddock with Brickken",
-    "description": "Brickken puts you trackside for the Sprint Race itself for The Paddock - Tokenised Markets, and there's genuinely no better seat in the city for it.\n\nThe Paddock is hosted at Singapore's most premium penthouse suite, in an iconic 5-star hotel overlooking Marina Bay. With floor-to-ceiling views of the track, this premium space reflects the calibre of company you can expect and a level of exclusivity you shouldn't miss.\n\nEvent Highlights\n\n• Premium food and drink served throughout the evening\n• Full trackside views of the F1 Sprint Race from every suite room\n• Live race broadcast on screen for every twist and turn\n• A curated crowd made up of the industry's top tier\n\nIf you're looking for premium views of the F1 Sprint Race with even better company, join Brickken at The Paddock for an afternoon to remember.\n\n## Hosts:\n\n[Brickken](http://www.brickken.com/?referrer=luma&utm_source=luma) is the operating layer for tokenized private markets. Its infrastructure enables financial institutions, asset managers, regulated entities, and enterprises to issue, manage, and distribute digital financial instruments across their full lifecycle. Brickken supports $660M+ in tokenized assets for 150+ institutional clients across 40+ countries.\n\n[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.\n\nFor sponsor inquiries [for the penthouse editions, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.\n\nMedia Partner:\n\n[Luna PR](https://www.lunapr.com/) is a global, award-winning integrated communications consultancy and agency operating at the intersection of emerging technology and modern finance. With deep roots in Web3 and capital markets, we elevate disruptive brands shaping the future of blockchain, artificial intelligence, fintech, robotics, and energy.",
-    "startDate": "2026-10-10T07:30:00.000Z",
-    "endDate": "2026-10-10T10:30:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/TBE-ThePaddock",
-    "coverImage": "/events/token2049-side-6aa1741e967be0befa88d006-970b030e.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Party/Dinner",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "The Best Event",
-      "Tobias Bauer",
-      "Brent Fulfer",
-      "Edwin Mata",
-      "Jordi Esturi",
-      "Mihir Odhrani"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "slug": "best-event9",
-    "registrationUrl": "https://luma.com/TBE-ThePaddock",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "The Best Event",
-      "url": "https://thebestevent.com/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/TBE-ThePaddock",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/TBE-ThePaddock",
-      "eventId": "evt-zOTmtsoDHIHRi7N",
-      "fetchedAt": "2026-09-19T23:56:06.711Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
   },
   {
     "id": "token2049-side-6aa17432967be0befa88d00d",
@@ -2348,19 +2244,6 @@
     "month": "October 2026"
   },
   {
-    "id": "w3v-lagos-blockchain-week-26-10-06",
-    "name": "Lagos Blockchain Week 2026",
-    "description": "Lagos Blockchain Week 2026: five-day blockchain conference in Lagos, October 6–10, with hackathons, pitches, and networking.",
-    "startDate": "2026-10-06T08:00:00.000Z",
-    "endDate": "2026-10-10T08:00:00.000Z",
-    "city": "Lagos",
-    "country": "NG",
-    "location": "Lagos, NG",
-    "url": "https://lagosblockchainweek.ng/",
-    "coverImage": "/events/w3v-lagos-blockchain-week-26-10-06-fd9ca3eb.webp",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-host-evt-evt-bBADbrIz8Hyjr54",
     "name": "SOLANA BUILD STATION WARSAW",
     "description": "",
@@ -2371,34 +2254,6 @@
     "location": "Warszawa, Poland",
     "url": "https://luma.com/StplBuildStation",
     "coverImage": "/events/luma-host-evt-evt-bbadbriz8hyjr54-5d866013.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-q1ylKhKe3RoxjoU",
-    "name": "Cowork with ETHGlobal in Kerala with Web3Kerala",
-    "description": "",
-    "startDate": "2026-10-10T06:30:00.000Z",
-    "endDate": "2026-10-10T11:30:00.000Z",
-    "city": "Kochi",
-    "country": "India",
-    "location": "Kochi, India",
-    "url": "https://luma.com/ethglobal-cowork-kerala",
-    "coverImage": "/events/luma-host-evt-evt-q1ylkhke3roxjou-595c46bf.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-zOTmtsoDHIHRi7N",
-    "name": "The Best Event: The RWA Paddock with Brickken",
-    "description": "",
-    "startDate": "2026-10-10T07:30:00.000Z",
-    "endDate": "2026-10-10T10:30:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore",
-    "url": "https://luma.com/TBE-ThePaddock",
-    "coverImage": "/events/luma-host-evt-evt-zotmtsodhihri7n-8c650f78.webp",
     "source": "luma-trusted",
     "month": "October 2026"
   },
@@ -3427,9 +3282,9 @@
       "Michael Ippolito",
       "Laurie Katz",
       "Samantha Bohbot",
-      "Michele Curtoni",
       "David Mercer",
       "Francisco Maroto Castro",
+      "Michele Curtoni",
       "Katie Harries",
       "Andrew O'Neill",
       "Jasmine Jia",
@@ -4118,7 +3973,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://www.teamz.co.jp/",
-    "coverImage": "/events/w3v-teamz-summit-10-27-04-05-e2661eb4.webp",
+    "coverImage": "/events/ma-teamz-web3-ai-summit-2027-da14a208.webp",
     "source": "marketacross",
     "month": "April 2027",
     "descriptionSource": {
@@ -4714,7 +4569,7 @@
     "country": "Hong Kong",
     "location": "Hong Kong, Hong Kong",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
+    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -17231,10 +17086,7 @@
     "url": "https://www.meetup.com/lfdt-mexico-city/events/317064943/",
     "coverImage": "/events/mu-317064943-4e7d5f54.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "luma-evt-o2YD9nDcSQkPrii",
@@ -18777,7 +18629,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15201-midnight-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ebs5pom08ao9z5aarl2qqbi1m3nn?response-content-disposition=inline%3B%20filename%3D%22MidnightNov.jpg%22%3B%20filename%2A%3DUTF-8%27%27MidnightNov.jpg&amp;response-content-type=image%2Fjpeg&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261109%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261109T033331Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=18316e78b2e7bde6ccd89444496cadef3a6627de00b46f3c576cffbdd133e8cb",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ebs5pom08ao9z5aarl2qqbi1m3nn?response-content-disposition=inline%3B%20filename%3D%22MidnightNov.jpg%22%3B%20filename%2A%3DUTF-8%27%27MidnightNov.jpg&amp;response-content-type=image%2Fjpeg&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261109%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261109T113341Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=6151feb5a52bc1637aa047db8cbf5d64a7c0ce2163e7a9ba6370c60f1b159a9a",
     "month": "November 2026"
   },
   {
@@ -19325,5 +19177,145 @@
     "coverImage": null,
     "source": "meetup",
     "month": "December 2026"
+  },
+  {
+    "id": "luma-evt-aTKfB4uWCos54nU",
+    "name": "Digital Asset Summit London 2026",
+    "description": "",
+    "startDate": "2026-11-10T08:00:00.000Z",
+    "endDate": "2026-11-11T18:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/daslondon2026",
+    "coverImage": "/events/luma-evt-atkfb4uwcos54nu-5f58ee35.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-9Vk41CxGEYlNTqK",
+    "name": "NVIDIA Open Season Part 1: Build With AI You Control (Nemotron)",
+    "description": "",
+    "startDate": "2026-11-11T04:30:00.000Z",
+    "endDate": "2026-11-11T06:30:00.000Z",
+    "city": "Cremorne",
+    "country": "Australia",
+    "location": "Cremorne, Australia",
+    "url": "https://luma.com/cremorne-irwg",
+    "coverImage": "/events/luma-host-evt-evt-9vk41cxgeylntqk-03cda7ef.webp",
+    "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-Jw3CgPkBftQcFSt",
+    "name": "RWA Realized: Market Integrity Summit 2026",
+    "description": "",
+    "startDate": "2026-11-11T07:30:00.000Z",
+    "endDate": "2026-11-11T11:00:00.000Z",
+    "city": "",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "url": "https://luma.com/b02vcn9v",
+    "coverImage": "/events/luma-host-evt-evt-jw3cgpkbftqcfst-afa8e00c.webp",
+    "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-Ulpt5KrFLf0bLPJ",
+    "name": "Solana For Students - Vietnam 🇻🇳",
+    "description": "",
+    "startDate": "2026-11-12T11:00:00.000Z",
+    "endDate": "2026-11-12T12:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "TBA",
+    "url": "https://luma.com/pjlu2inf",
+    "coverImage": "/events/luma-host-evt-evt-ulpt5krflf0blpj-d43b73ff.webp",
+    "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-zqiCdp1THJEVEUU",
+    "name": "Riserva London | Stablecoins and compliance over wine",
+    "description": "",
+    "startDate": "2026-11-14T17:00:00.000Z",
+    "endDate": "2026-11-14T20:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://luma.com/fkoham7n",
+    "coverImage": "/events/luma-host-evt-evt-zqicdp1thjeveuu-deb2f3cf.webp",
+    "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-fKh8Qb0MolZi5Kz",
+    "name": "Binance Community Evening, Geneva 🇨🇭",
+    "description": "",
+    "startDate": "2026-11-19T17:00:00.000Z",
+    "endDate": "2026-11-19T20:00:00.000Z",
+    "city": "Genève",
+    "country": "Switzerland",
+    "location": "Genève, Switzerland",
+    "url": "https://luma.com/zz7r5gum",
+    "coverImage": "/events/luma-host-evt-evt-fkh8qb0molzi5kz-74b53013.webp",
+    "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-8r1XuPjp1xyA9EO",
+    "name": "HKGHH Event 3 : Premier Networking Night @ LKF 🌟 THEME: Hong Kong Web3 Festival 🌟",
+    "description": "",
+    "startDate": "2026-11-24T11:00:00.000Z",
+    "endDate": "2026-11-24T13:00:00.000Z",
+    "city": "",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "url": "https://luma.com/nqz7gjqc",
+    "coverImage": "/events/luma-host-evt-evt-8r1xupjp1xya9eo-a7a611da.webp",
+    "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-cnwHGaAliHIMYkq",
+    "name": "Hong Kong Crypto Compliance & Legal Community Drinks 🍷",
+    "description": "",
+    "startDate": "2026-12-10T10:00:00.000Z",
+    "endDate": "2026-12-10T13:30:00.000Z",
+    "city": "",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "url": "https://luma.com/99oa9hwk",
+    "coverImage": "/events/luma-host-evt-evt-cnwhgaalihimykq-f8e761dd.webp",
+    "source": "luma-trusted",
+    "month": "December 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-bwpGcoeJZfEmelZ",
+    "name": "Inaugural Ceremony of the Institute for Digital Assets and Economic Innovation & Industry Dialogue",
+    "description": "",
+    "startDate": "2026-12-18T06:00:00.000Z",
+    "endDate": "2026-12-18T09:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "TBA",
+    "url": "https://luma.com/bmnsh0b0",
+    "coverImage": "/events/luma-host-evt-evt-bwpgcoejzfemelz-a71f5207.webp",
+    "source": "luma-trusted",
+    "month": "December 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-DtmIxKrIZ3WbRud",
+    "name": "RWA SUMMIT HONG KONG 2027",
+    "description": "",
+    "startDate": "2027-02-03T02:00:00.000Z",
+    "endDate": "2027-02-04T09:00:00.000Z",
+    "city": "",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "url": "https://luma.com/rwasummit",
+    "coverImage": "/events/luma-host-evt-evt-dtmixkriz3wbrud-4ce83f85.webp",
+    "source": "luma-trusted",
+    "month": "February 2027"
   }
 ]
