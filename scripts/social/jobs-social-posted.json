@@ -123960,7 +123960,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "32511471-0b1d-4c38-a5ed-d83166eeb901",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7525647748117991424"
     }
   ]
 }
