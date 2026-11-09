@@ -3456,5 +3456,30 @@
     "slotKey": "2026-11-09:morning",
     "messageId": 193480,
     "sentAt": "2026-11-09T03:34:42.692Z"
+  },
+  "945c1a44-82ea-4247-9184-52e0ebadc348": {
+    "status": "reserved",
+    "reservedAt": "2026-11-09T11:33:55.233Z",
+    "stories": [
+      {
+        "index": 1,
+        "original_title": "The climate case for AI has not been made",
+        "headline": "UN climate conference addresses artificial intelligence energy demands",
+        "summary": "International delegates gather in Turkey to address the growing power demands and environmental impact of artificial intelligence.",
+        "event_rationale": "Covers global climate policy discussions regarding AI power consumption, distinct from regional energy bills or political shifts.",
+        "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+        "source": "MIT Tech Review",
+        "originalTitle": "The climate case for AI has not been made"
+      },
+      {
+        "index": 5,
+        "headline": "Russia plans underground data centers to protect against drone strikes",
+        "summary": "Officials are moving server infrastructure below ground to shield digital systems from aerial attacks.",
+        "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+        "source": "Ars Technica",
+        "originalTitle": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers"
+      }
+    ],
+    "slotKey": "2026-11-09:afternoon"
   }
 }
