@@ -124866,7 +124866,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "d5f75283-596d-40a0-966a-f001b2af0e72",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af2279f0606df2887a26b45"
     }
   ]
 }
