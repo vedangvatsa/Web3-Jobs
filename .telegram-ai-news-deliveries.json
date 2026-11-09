@@ -3431,7 +3431,7 @@
     "sentAt": "2026-11-08T19:34:45.064Z"
   },
   "be1d7f3e-4253-41f1-b798-ad9651f571d4": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-09T03:34:38.561Z",
     "stories": [
       {
@@ -3453,6 +3453,8 @@
         "originalTitle": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”"
       }
     ],
-    "slotKey": "2026-11-09:morning"
+    "slotKey": "2026-11-09:morning",
+    "messageId": 193480,
+    "sentAt": "2026-11-09T03:34:42.692Z"
   }
 }

@@ -901,6 +901,8 @@
   "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
   "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
   "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+  "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+  "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2484,6 +2486,10 @@
   "Securing the agentic enterprise with data lineage",
   "AI spending flattens as usage rises while Anthropic approaches IPO",
   "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+  "Airbnb plans to launch AI travel agent by 2027",
+  "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+  "Tech companies blame political bias for AI restriction votes",
+  "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2902,5 +2908,7 @@
   "fp:accord|agent|ceo|chief|chines|chip|detail|effort|exec|executiv",
   "fp:11b|additional|expect|few|finaliz|investment|next|openai|rais|reportedly",
   "fp:access|agent|agentic|data|enterpris|how|information|internal|lineag|monitor",
-  "fp:anthropic|approach|assumption|better|challeng|cost|cut|data|expenditur|flatten"
+  "fp:anthropic|approach|assumption|better|challeng|cost|cut|data|expenditur|flatten",
+  "fp:agent|airbnb|assist|book|by2027|customer|half|management|of2027|plan",
+  "fp:anti|argu|backlash|bia|big|blam|claim|concern|driven|infrastructur"
 ]
