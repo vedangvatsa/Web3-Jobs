@@ -120098,6 +120098,40 @@
       "attemptId": "df675a54-2948-42ff-83fc-274d268d6d96",
       "verification": "verified",
       "postId": "0x64faf0fd117487713042a46cb8dfa6fe823018d3"
+    },
+    {
+      "slug": "mgr129",
+      "company": "Ripple",
+      "title": "Staff GRC Program Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-09T03:38:34.029Z",
+      "expectedText": "Ripple is hiring Staff GRC Program Manager\n\nhttps://hashtagweb3.com/mgr129/fc?og=7",
+      "snapshot": {
+        "id": "8223889",
+        "title": "Staff GRC Program Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8223889?gh_jid=8223889",
+        "date": "2026-11-02T14:46:52-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "São Paulo, Brazil",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr129"
+      },
+      "payload": {
+        "text": "Ripple is hiring Staff GRC Program Manager\n\nhttps://hashtagweb3.com/mgr129/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mgr129/fc?og=7"
+          }
+        ],
+        "channel_id": "founders"
+      },
+      "account": "channel:founders",
+      "attemptId": "4c88ca0b-4375-4831-ad65-0a76c02ec172",
+      "verification": "creating"
     }
   ]
 }
