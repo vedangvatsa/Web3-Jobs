@@ -3342,5 +3342,36 @@
     "slotKey": "2026-11-08:evening",
     "messageId": 156149,
     "sentAt": "2026-11-08T19:33:30.901Z"
+  },
+  "e85a0449-fa8a-4173-bbbd-17fc3faa9cbc": {
+    "status": "reserved",
+    "reservedAt": "2026-11-09T03:33:26.538Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "US Regulators Ask Banks About Binance Breach Impact",
+        "summary": "Federal Reserve and OCC officials inquired about unusual activity or disruptions on Nov. 2, according to Reuters.",
+        "link": "https://hashtagweb3.com/bankchecks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Fed and OCC Contact Banks About Unusual Activity After the Binance Hack"
+      },
+      {
+        "index": -1,
+        "headline": "NEAR Community Approves Proposal to Reduce Token Issuance",
+        "summary": "The 24-month phased reduction from 2.5% to 1.6% still requires Security Council review and validator upgrades.",
+        "link": "https://hashtagweb3.com/nearvote?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "NEAR holders approve 1.6% issuance cap, with validators still to act"
+      },
+      {
+        "index": -1,
+        "headline": "Solflare Validator Rewards Paused Due to Security Incident",
+        "summary": "A security issue at a provider halted rewards for 1.56 million SOL, but user principal funds remain safe.",
+        "link": "https://hashtagweb3.com/solflareincident?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Solflare Says Staking Provider Key Incident Stopped Validator Rewards"
+      }
+    ],
+    "slotKey": "2026-11-09:morning"
   }
 }
