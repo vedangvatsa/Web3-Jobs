@@ -956,6 +956,9 @@
   "https://hashtagweb3.com/dcmaccess?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
   "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779",
+  "https://hashtagweb3.com/dolrule?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/nearvote?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/tetherq3?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2767,6 +2770,12 @@
   "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
   "Greece implements new tax framework for cryptocurrency gains",
   "What is Zcash (ZEC)? How shielded transactions work",
+  "White House Reviews DOL Rule on Crypto in 401(k)s",
+  "DOL Final Rule on Crypto in 401(k)s Reaches White House Review",
+  "NEAR Protocol holders approve lower annual token issuance cap",
+  "NEAR holders approve 1.6% issuance cap, with validators still to act",
+  "Tether Reports $1.5 Billion Third-Quarter Operating Profit",
+  "Tether Reports $1.5 Billion Q3 Operating Profit as Reserve Buffer Nears $8 Billion",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -3252,5 +3261,8 @@
   "fp:approv|assembly|back|begin|exit|french|implementation|in2027|lawmaker|legislativ",
   "fp:cftc|comply|day|domestic|drop|end|exchang|exchanges30|explain|feasibl",
   "fp:abandon|agency|asset|cheat|collection|controversial|data|digital|drop|expand",
-  "fp:capital|cryptocurrency|decentraliz|financ|framework|gain|greec|how|implement|incom"
+  "fp:capital|cryptocurrency|decentraliz|financ|framework|gain|greec|how|implement|incom",
+  "fp:alternativ|asset|dol|final|giv|harbor|hous|in401|manager|offer",
+  "fp:act|annual|approv|approve16|await|cap|ceil|final|holder|hsp029",
+  "fp:15b|795b|agreement|bill|buffer|drov|earn|near|operat|profit"
 ]

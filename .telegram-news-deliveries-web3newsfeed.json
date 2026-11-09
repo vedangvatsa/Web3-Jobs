@@ -3581,7 +3581,7 @@
     "sentAt": "2026-11-09T03:36:23.901Z"
   },
   "5deb8f4e-1d83-41bf-a214-413e1c1d994e": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-09T11:35:57.975Z",
     "stories": [
       {
@@ -3609,6 +3609,8 @@
         "originalTitle": "Tether Reports $1.5 Billion Q3 Operating Profit as Reserve Buffer Nears $8 Billion"
       }
     ],
-    "slotKey": "2026-11-09:afternoon"
+    "slotKey": "2026-11-09:afternoon",
+    "messageId": 65816,
+    "sentAt": "2026-11-09T11:36:07.731Z"
   }
 }
