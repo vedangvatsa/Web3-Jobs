@@ -17094,5 +17094,120 @@
     "slotKey": "2026-11-09:evening",
     "messageId": 16626,
     "sentAt": "2026-11-09T19:50:17.525Z"
+  },
+  "a0971bd8-c1db-4220-86c0-caac903912f8": {
+    "status": "reserved",
+    "reservedAt": "2026-11-09T19:50:19.551Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5642bdc3-3298-4ca0-a64b-50e5ea4ba71d",
+          "title": "Customer Success Representative - Canada Wide - Remote",
+          "company": "Newton",
+          "link": "https://jobs.lever.co/newton/5642bdc3-3298-4ca0-a64b-50e5ea4ba71d",
+          "date": "2026-11-06T16:55:41.296Z",
+          "source": "Lever: Newton [newton]",
+          "location": "Remote (Toronto, Ontario)",
+          "workplaceType": "remote",
+          "department": "Customer Success",
+          "active": true,
+          "dateVerified": true,
+          "slug": "csrc"
+        },
+        "key": "5642bdc3-3298-4ca0-a64b-50e5ea4ba71d",
+        "slug": "csrc",
+        "url": "https://hashtagweb3.com/csrc?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Newton",
+        "title": "Customer Success Representative"
+      },
+      {
+        "snapshot": {
+          "id": "97132369",
+          "title": "Marketing & Growth Lead",
+          "company": "Hylo",
+          "link": "https://jobs.solana.com/companies/hylo-2/jobs/97132369-marketing-growth-lead",
+          "date": "2026-10-15T20:34:32.000Z",
+          "dateVerified": true,
+          "dateSource": "Solana.JobPosting.postedAt",
+          "source": "Solana Ecosystem: Hylo [getro-solana]",
+          "location": "Remote",
+          "department": "Marketing & Communications",
+          "active": true,
+          "slug": "mkt123"
+        },
+        "key": "97132369",
+        "slug": "mkt123",
+        "url": "https://hashtagweb3.com/mkt123?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Hylo",
+        "title": "Marketing & Growth Lead"
+      },
+      {
+        "snapshot": {
+          "id": "8319823",
+          "title": "Account Executive, Startups - Grower (Italian Fluency)",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8319823",
+          "date": "2026-11-02T12:47:04-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Dublin",
+          "department": "1185 Account Executives (EMEA)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls387"
+        },
+        "key": "8319823",
+        "slug": "sls387",
+        "url": "https://hashtagweb3.com/sls387?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "8289239",
+          "title": "Talent Acquisition Coordinator",
+          "company": "Blockchain.com",
+          "link": "https://job-boards.greenhouse.io/blockchain/jobs/8289239",
+          "date": "2026-10-16T11:59:41-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Blockchain.com [blockchain]",
+          "location": "Buenos Aires",
+          "department": "People Success",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rec4"
+        },
+        "key": "8289239",
+        "slug": "rec4",
+        "url": "https://hashtagweb3.com/rec4?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Blockchain.com",
+        "title": "Talent Acquisition Coordinator"
+      },
+      {
+        "snapshot": {
+          "id": "d55d1904-1c78-4d87-b71e-26df5c700e8d",
+          "title": "Product Marketing Lead",
+          "company": "Prime Intellect",
+          "link": "https://jobs.ashbyhq.com/PrimeIntellect/d55d1904-1c78-4d87-b71e-26df5c700e8d",
+          "date": "2026-10-14T18:16:08.680+00:00",
+          "source": "Ashby: Prime Intellect [primeintellect]",
+          "location": "San Francisco",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Growth",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm308"
+        },
+        "key": "d55d1904-1c78-4d87-b71e-26df5c700e8d",
+        "slug": "pm308",
+        "url": "https://hashtagweb3.com/pm308?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Prime Intellect",
+        "title": "Product Marketing Lead"
+      }
+    ],
+    "message": "- Newton is hiring <a href=\"https://hashtagweb3.com/csrc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Success Representative - Canada Wide - Remote</a>\n- Hylo is hiring <a href=\"https://hashtagweb3.com/mkt123?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Marketing &amp; Growth Lead</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls387?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Startups - Grower (Italian Fluency)</a>\n- Blockchain​.com is hiring <a href=\"https://hashtagweb3.com/rec4?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Talent Acquisition Coordinator</a>\n- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/pm308?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Marketing Lead</a>",
+    "slotKey": "2026-11-09:evening"
   }
 }
