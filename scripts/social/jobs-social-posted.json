@@ -121150,7 +121150,8 @@
       },
       "account": "channel:ai",
       "attemptId": "404f662b-20c4-49c1-85a7-86203843facc",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x67b4b44370b551da39344c7089bafb397e15ac9f"
     }
   ]
 }
