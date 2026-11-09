@@ -120870,7 +120870,8 @@
       },
       "account": "channel:dev",
       "attemptId": "1666adf7-0429-4f7a-a12f-3de4d3564b6b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xde92b366bb487204075a04e03653b0efb05a307b"
     }
   ]
 }
