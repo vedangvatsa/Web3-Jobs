@@ -124611,6 +124611,40 @@
       "attemptId": "25dbca28-63de-4a85-8649-a1cb28d59070",
       "verification": "verified",
       "postId": "0xe066928ea53a6599dba726e24fbe02287f5814d1"
+    },
+    {
+      "slug": "ops134",
+      "company": "StraitsX",
+      "title": "Commercial Revenue Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-09T20:01:48.399Z",
+      "expectedText": "StraitsX is hiring Commercial Revenue Operations Manager\n\nhttps://hashtagweb3.com/ops134/fc?og=7",
+      "snapshot": {
+        "id": "5024599101",
+        "title": "Commercial Revenue Operations Manager",
+        "company": "StraitsX",
+        "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5024599101",
+        "date": "2026-11-02T01:05:38-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: StraitsX [straitsx]",
+        "location": "Singapore",
+        "department": "STX - Commercial",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops134"
+      },
+      "payload": {
+        "text": "StraitsX is hiring Commercial Revenue Operations Manager\n\nhttps://hashtagweb3.com/ops134/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops134/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "ac45299e-75cb-45e5-8ea8-d9e668b48abe",
+      "verification": "creating"
     }
   ]
 }
