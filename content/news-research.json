@@ -148494,7 +148494,27 @@
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
       "attempts": 0,
       "expiresAt": "2026-11-09T10:30:33.000Z",
-      "lastSeenAt": "2026-11-07T03:31:47.358Z"
+      "lastSeenAt": "2026-11-07T03:31:47.358Z",
+      "articleSlug": "secdraft",
+      "draftProgress": {
+        "id": "163db1d20c1a1d08aee0",
+        "day": "2026-11-09",
+        "articleSlug": "secdraft",
+        "note": "Read Unchained's report and the OIRA reginfo.gov review record (RIN 3235-AN48, received Nov 3, economically significant, proposed rule stage). SEC agenda entry still to open; draft and image pending.",
+        "sourceChecks": [
+          {
+            "url": "https://unchainedcrypto.com/white-house-begins-review-of-economically-significant-sec-crypto-broker-dealer-draft/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.reginfo.gov/public/do/eoDetails?rrid=1571318",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-09T04:06:42.798Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "bd9cea951bd811cec93b": {
       "source": "CryptoSlate",
