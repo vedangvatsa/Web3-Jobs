@@ -123255,7 +123255,8 @@
       },
       "account": "profile",
       "attemptId": "552fc9de-8cbd-4aa3-97f0-6c8d27c2efd7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8e526c8d5c1def362f70427dff4222e36f929796"
     }
   ]
 }
