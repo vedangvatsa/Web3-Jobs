@@ -122287,7 +122287,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "22e35232-900f-44c7-a840-f3686c36782c",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af22409b3dd86936aa3b63e"
     }
   ]
 }
