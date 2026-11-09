@@ -16862,7 +16862,7 @@
     "sentAt": "2026-11-09T11:32:38.264Z"
   },
   "9d4dd74e-a054-4ec0-bf9f-8ec81c123a8e": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-09T11:32:40.062Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -16974,6 +16974,8 @@
       }
     ],
     "message": "- PrimeXBT is hiring <a href=\"https://hashtagweb3.com/ops162?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Trading Operations Specialist</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/pm163?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Marketing Manager, Subscriptions</a>\n- FalconX is hiring <a href=\"https://hashtagweb3.com/sls412?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Institutional Sales &amp; Coverage Executive</a>\n- Blockchain​.com is hiring <a href=\"https://hashtagweb3.com/tr129?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Trader, Market Making</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm222?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sr. Product Marketing Manager, LATAM</a>",
-    "slotKey": "2026-11-09:afternoon"
+    "slotKey": "2026-11-09:afternoon",
+    "messageId": 181,
+    "sentAt": "2026-11-09T11:32:42.272Z"
   }
 }
