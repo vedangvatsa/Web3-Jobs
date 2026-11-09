@@ -148634,11 +148634,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "7b33b5305d4acb33589d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-09T23:08:20.000Z",
-      "lastSeenAt": "2026-11-07T03:31:47.358Z"
+      "lastSeenAt": "2026-11-07T03:31:47.358Z",
+      "reason": "out-of-scope",
+      "note": "Read the Crypto Briefing prediction-market piece. The underlying event (OpenAI closed an 1B first tranche at a .25T valuation on Nov. 6) is real per Reuters and Bloomberg, but it is an AI company's private funding round with traditional VC investors and no Web3, crypto or on-chain connection, so it is out of scope for this site's news coverage.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/openai-raises-11b-valued-at-12t-defers-ipo-plans/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-09T04:22:32.335Z",
+      "lastReviewedDay": "2026-11-09"
     },
     "e95e116c90ccd6bdbca0": {
       "source": "The Defiant",
@@ -290676,6 +290686,18 @@
           ],
           "reviewedAt": "2026-11-09T04:20:54.621Z",
           "articleSlug": "iosdrains"
+        },
+        "7b33b5305d4acb33589d": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Crypto Briefing prediction-market piece. The underlying event (OpenAI closed an 1B first tranche at a .25T valuation on Nov. 6) is real per Reuters and Bloomberg, but it is an AI company's private funding round with traditional VC investors and no Web3, crypto or on-chain connection, so it is out of scope for this site's news coverage.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/openai-raises-11b-valued-at-12t-defers-ipo-plans/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-09T04:22:32.335Z"
         }
       },
       "baselineSlugs": [
