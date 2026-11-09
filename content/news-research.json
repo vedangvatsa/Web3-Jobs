@@ -152679,11 +152679,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "84d582edcb9195a0f244",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-08T10:05:15.191Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-10T18:08:43.000Z",
-      "lastSeenAt": "2026-11-08T10:05:15.191Z"
+      "lastSeenAt": "2026-11-08T10:05:15.191Z",
+      "reason": "out-of-scope",
+      "note": "Read the Crypto Briefing piece. It covers Rep. Don Beyer's push for a House Select Committee on AI with subpoena power and an AI safety framework; the reporting contains no crypto or Web3 dimension. Out of scope for hashtagweb3.com.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/don-beyer-house-select-committee-ai/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-09T04:01:12.062Z",
+      "lastReviewedDay": "2026-11-09"
     },
     "736bb425153ad2590d7f": {
       "source": "Crypto Briefing",
@@ -154701,11 +154711,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "056b6373a0d7b80b61a2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-09T03:31:35.284Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-12T02:08:09.000Z",
-      "lastSeenAt": "2026-11-09T03:31:35.284Z"
+      "lastSeenAt": "2026-11-09T03:31:35.284Z",
+      "reason": "out-of-scope",
+      "note": "Read the Crypto Briefing piece. It covers Bill Ackman's X post defending Nvidia CEO Jensen Huang while the board probes alleged espionage tied to a former Megaspeed executive. The reporting is corporate/tech with no crypto or Web3 element. Out of scope.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/bill-ackman-defends-nvidia-ceo-jensen-huang/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-09T04:01:21.380Z",
+      "lastReviewedDay": "2026-11-09"
     },
     "f3152b470d43879763f0": {
       "source": "Crypto Briefing",
@@ -290386,6 +290406,30 @@
             }
           ],
           "reviewedAt": "2026-11-09T04:01:09.531Z"
+        },
+        "84d582edcb9195a0f244": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Crypto Briefing piece. It covers Rep. Don Beyer's push for a House Select Committee on AI with subpoena power and an AI safety framework; the reporting contains no crypto or Web3 dimension. Out of scope for hashtagweb3.com.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/don-beyer-house-select-committee-ai/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-09T04:01:12.062Z"
+        },
+        "056b6373a0d7b80b61a2": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Crypto Briefing piece. It covers Bill Ackman's X post defending Nvidia CEO Jensen Huang while the board probes alleged espionage tied to a former Megaspeed executive. The reporting is corporate/tech with no crypto or Web3 element. Out of scope.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/bill-ackman-defends-nvidia-ceo-jensen-huang/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-09T04:01:21.380Z"
         }
       },
       "baselineSlugs": [
