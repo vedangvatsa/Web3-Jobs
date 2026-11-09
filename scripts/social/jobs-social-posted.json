@@ -124805,7 +124805,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "3059d812-f5a6-4182-93f3-3b0abc1f6d43",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7525649740244500481"
     }
   ]
 }
