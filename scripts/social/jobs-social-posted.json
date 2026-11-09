@@ -120730,7 +120730,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "89631f1d-57c3-455c-91b8-9a9ce55d1312",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc336817e1120d05751856df20ab78176f2c7a9ba"
     }
   ]
 }
