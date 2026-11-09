@@ -148319,7 +148319,31 @@
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
       "attempts": 0,
       "expiresAt": "2026-11-09T13:30:00.000Z",
-      "lastSeenAt": "2026-11-07T03:31:47.358Z"
+      "lastSeenAt": "2026-11-07T03:31:47.358Z",
+      "articleSlug": "cbnstablecoin",
+      "draftProgress": {
+        "id": "61c907d838b017ad2384",
+        "day": "2026-11-09",
+        "articleSlug": "cbnstablecoin",
+        "note": "Read Unchained report and defiprime coverage; downloaded and text-extracted the CBN 169-page regulations PDF. Third source and draft still pending.",
+        "sourceChecks": [
+          {
+            "url": "https://unchainedcrypto.com/nigerias-central-bank-now-requires-offshore-stablecoin-issuers-to-license-locally/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://defiprime.com/nigeria-stablecoin-licensing-rules",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.cbn.gov.ng/Out/2026/CCD/REGULATIONS%20FOR%20THE%20OPERATIONS%20OF%20NON-SECURITY%20VIRTUAL%20ASSETS%20IN%20NIGERIA.pdf",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-09T04:00:50.008Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "08908f748527d5dfb303": {
       "source": "CoinDesk",
