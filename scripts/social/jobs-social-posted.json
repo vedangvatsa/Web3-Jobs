@@ -119611,6 +119611,46 @@
       "verification": "verified",
       "postId": "6af13fcecac9d7525f66e019",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7525401061516427264"
+    },
+    {
+      "slug": "eng574",
+      "company": "Fireblocks",
+      "title": "Sales Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-11-09T03:32:16.289Z",
+      "expectedText": "Fireblocks is hiring Sales Engineer: https://hashtagweb3.com/eng574/li?og=7",
+      "snapshot": {
+        "id": "4711930006",
+        "title": "Sales Engineer",
+        "company": "Fireblocks",
+        "link": "https://www.fireblocks.com/careers/position?gh_jid=4711930006",
+        "date": "2026-10-12T05:46:15-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Fireblocks [fireblocks]",
+        "location": "Tokyo Prefecture, Japan",
+        "department": "Sales",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng574"
+      },
+      "payload": {
+        "text": "Fireblocks is hiring Sales Engineer: https://hashtagweb3.com/eng574/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng574/li?og=7",
+          "title": "Sales Engineer at Fireblocks",
+          "description": "Join Fireblocks as Sales Engineer. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng574.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "db9d07ac-992b-41e9-a491-f98bbc5a85da",
+      "verification": "creating"
     }
   ]
 }
