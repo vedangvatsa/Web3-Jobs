@@ -124504,7 +124504,8 @@
       },
       "account": "channel:solana",
       "attemptId": "f5104341-18eb-42ba-bfb7-010ad4612590",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x65abaff9eead82e4cc7a98b47d56ee1de9da76f0"
     }
   ]
 }
