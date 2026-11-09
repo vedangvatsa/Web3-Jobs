@@ -123723,7 +123723,8 @@
       },
       "account": "channel:ai",
       "attemptId": "bc9ee406-92ea-4ba5-abbd-2d2e3617020a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb95611756ffefb8518e7b7b9a62527735b2cf0a6"
     }
   ]
 }
