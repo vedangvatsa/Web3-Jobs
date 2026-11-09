@@ -125490,6 +125490,40 @@
       "attemptId": "2552d97a-0cc7-4396-8ce0-22f163324f10",
       "verification": "verified",
       "postId": "0x2092612d7ebb58cf17d2a26f58b6682a4f57fddb"
+    },
+    {
+      "slug": "cmp17",
+      "company": "Ondo Finance",
+      "title": "Compliance Senior Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-11-09T20:05:46.595Z",
+      "expectedText": "Ondo Finance is hiring Compliance Senior Associate\n\nhttps://hashtagweb3.com/cmp17/fc?og=7",
+      "snapshot": {
+        "id": "4466961009",
+        "title": "Compliance Senior Associate",
+        "company": "Ondo Finance",
+        "link": "https://job-boards.greenhouse.io/ondofinance/jobs/4466961009",
+        "date": "2026-10-26T01:42:22-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ondo Finance [ondofinance]",
+        "location": "Remote",
+        "department": "Legal",
+        "active": true,
+        "dateVerified": true,
+        "slug": "cmp17"
+      },
+      "payload": {
+        "text": "Ondo Finance is hiring Compliance Senior Associate\n\nhttps://hashtagweb3.com/cmp17/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/cmp17/fc?og=7"
+          }
+        ],
+        "channel_id": "growth"
+      },
+      "account": "channel:growth",
+      "attemptId": "daaf10de-876d-495b-9752-46c5530ea5d4",
+      "verification": "creating"
     }
   ]
 }
