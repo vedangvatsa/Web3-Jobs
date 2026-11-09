@@ -9063,7 +9063,7 @@
     "sentAt": "2026-11-09T11:32:54.612Z"
   },
   "9e296c0f-f0a6-47d7-9dd6-81ad2cf2a392": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-09T19:50:28.072Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -9177,6 +9177,8 @@
       }
     ],
     "message": "- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/eng276?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Director, Solutions Engineering</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/eng417?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior AI Engineer (AI Automation)</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/aso80?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Experience Associate, Prediction Markets</a>\n- Lightspark is hiring <a href=\"https://hashtagweb3.com/mgr184?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Risk Manager, EU</a>\n- Alchemy is hiring <a href=\"https://hashtagweb3.com/sec92?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Security Operations Engineer</a>",
-    "slotKey": "2026-11-09:evening"
+    "slotKey": "2026-11-09:evening",
+    "messageId": 156160,
+    "sentAt": "2026-11-09T19:50:51.910Z"
   }
 }
