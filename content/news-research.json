@@ -148437,11 +148437,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "6a446f8c3d4facfc3743",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-09T10:40:57.000Z",
-      "lastSeenAt": "2026-11-07T03:31:47.358Z"
+      "lastSeenAt": "2026-11-07T03:31:47.358Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read the Cointelegraph piece. It is an analysis of expert opinion on hot-wallet limits after the Oct. 29 Binance hack (CertiK, Fireblocks, BitGo, Walt commenters), with no new filing, ruling, launch or other concrete event. The hack itself is already covered by the existing binancecover article.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-09T04:02:26.891Z",
+      "lastReviewedDay": "2026-11-09"
     },
     "163db1d20c1a1d08aee0": {
       "source": "Unchained",
@@ -290446,6 +290456,18 @@
             }
           ],
           "reviewedAt": "2026-11-09T04:01:21.380Z"
+        },
+        "6a446f8c3d4facfc3743": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read the Cointelegraph piece. It is an analysis of expert opinion on hot-wallet limits after the Oct. 29 Binance hack (CertiK, Fireblocks, BitGo, Walt commenters), with no new filing, ruling, launch or other concrete event. The hack itself is already covered by the existing binancecover article.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-09T04:02:26.891Z"
         }
       },
       "baselineSlugs": [
