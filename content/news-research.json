@@ -147992,7 +147992,27 @@
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
       "attempts": 0,
       "expiresAt": "2026-11-09T20:36:03.000Z",
-      "lastSeenAt": "2026-11-07T03:31:47.358Z"
+      "lastSeenAt": "2026-11-07T03:31:47.358Z",
+      "articleSlug": "greecetax",
+      "draftProgress": {
+        "id": "7878397babd6dcc7d218",
+        "day": "2026-11-09",
+        "articleSlug": "greecetax",
+        "note": "Read Decrypt and Reuters (via Yahoo mirror); second source verified; draft and image still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
+            "outcome": "read"
+          },
+          {
+            "url": "https://uk.finance.yahoo.com/news/greek-parliament-approves-10-tax-155235738.html",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-09T03:39:36.355Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "f995552b5d5d204bddb4": {
       "source": "Decrypt",
