@@ -832,10 +832,12 @@
           "secdraft",
           "gnosisbreach"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-11-09T05:19:22.683Z",
         "buildId": "daily-20261109-42556741304-1",
-        "rolloutId": "daily-20261109-42556741304-1"
+        "rolloutId": "daily-20261109-42556741304-1",
+        "buildState": "READY",
+        "observedAt": "2026-11-09T05:34:31.109Z"
       }
     ]
   }
