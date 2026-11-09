@@ -3544,5 +3544,38 @@
     "slotKey": "2026-11-08:evening",
     "messageId": 65814,
     "sentAt": "2026-11-08T19:35:07.163Z"
+  },
+  "281e23a9-7d6e-41bd-90f3-ebb4b13d99c8": {
+    "status": "reserved",
+    "reservedAt": "2026-11-09T03:36:16.302Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "CFTC Orders Futures Exchanges to End US Location Restrictions",
+        "summary": "Exchanges must comply within 30 days or explain to regulators why doing so is not feasible.",
+        "link": "https://hashtagweb3.com/dcmaccess?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC gives futures exchanges 30 days to drop domestic geographic restrictions"
+      },
+      {
+        "index": 1,
+        "headline": "US Treasury withdraws crypto transaction surveillance proposal",
+        "summary": "The government agency abandoned a controversial plan that would have expanded data collection requirements for digital asset transactions.",
+        "event_rationale": "This covers a specific regulatory policy reversal by the US Treasury regarding the 'travel rule' for crypto, which is distinct from all other listed events.",
+        "link": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+        "source": "CoinDesk",
+        "originalTitle": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility"
+      },
+      {
+        "index": 2,
+        "headline": "Greece implements new tax framework for cryptocurrency gains",
+        "summary": "The legislation introduces a 10% tax on capital gains and a 15% levy on income from staking and decentralized finance.",
+        "event_rationale": "This represents a new national tax law specifically targeting crypto assets and DeFi, which is semantically distinct from existing regulatory or market stories.",
+        "link": "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779",
+        "source": "The Block",
+        "originalTitle": "What is Zcash (ZEC)? How shielded transactions work"
+      }
+    ],
+    "slotKey": "2026-11-09:morning"
   }
 }
