@@ -123156,7 +123156,8 @@
       "account": "hashtag_web3",
       "attemptId": "636a8676-5e73-4764-a98d-9a7b7fe18303",
       "verification": "pending",
-      "postId": "6af224d0a16d1f1c1e9883ff"
+      "postId": "6af224d0a16d1f1c1e9883ff",
+      "error": "Buffer X returned an unexpected published URL for 6af224d0a16d1f1c1e9883ff"
     }
   ]
 }
