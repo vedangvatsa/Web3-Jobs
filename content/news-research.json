@@ -148315,9 +148315,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "61c907d838b017ad2384",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-09T13:30:00.000Z",
       "lastSeenAt": "2026-11-07T03:31:47.358Z",
       "articleSlug": "cbnstablecoin",
@@ -148343,7 +148343,25 @@
         "updatedAt": "2026-11-09T04:00:50.008Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read the CBN's 169-page regulations PDF (text-extracted in scratch), Unchained's report and DeFi Prime's coverage; verified the offshore-issuer clause, class capital minimums, 2% buffer, 20% cash-deposit rule, fines and 180/30-day transition in the primary text. Drafted cbnstablecoin.md with a self-hosted Wikimedia photo; quality, image, formatting and duplicate audits pass and all four outbound links return 200.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/nigerias-central-bank-now-requires-offshore-stablecoin-issuers-to-license-locally/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://defiprime.com/nigeria-stablecoin-licensing-rules",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cbn.gov.ng/Out/2026/CCD/REGULATIONS%20FOR%20THE%20OPERATIONS%20OF%20NON-SECURITY%20VIRTUAL%20ASSETS%20IN%20NIGERIA.pdf",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-09T04:06:12.767Z",
+      "lastReviewedDay": "2026-11-09"
     },
     "08908f748527d5dfb303": {
       "source": "CoinDesk",
@@ -290468,6 +290486,27 @@
             }
           ],
           "reviewedAt": "2026-11-09T04:02:26.891Z"
+        },
+        "61c907d838b017ad2384": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the CBN's 169-page regulations PDF (text-extracted in scratch), Unchained's report and DeFi Prime's coverage; verified the offshore-issuer clause, class capital minimums, 2% buffer, 20% cash-deposit rule, fines and 180/30-day transition in the primary text. Drafted cbnstablecoin.md with a self-hosted Wikimedia photo; quality, image, formatting and duplicate audits pass and all four outbound links return 200.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/nigerias-central-bank-now-requires-offshore-stablecoin-issuers-to-license-locally/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://defiprime.com/nigeria-stablecoin-licensing-rules",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cbn.gov.ng/Out/2026/CCD/REGULATIONS%20FOR%20THE%20OPERATIONS%20OF%20NON-SECURITY%20VIRTUAL%20ASSETS%20IN%20NIGERIA.pdf",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-09T04:06:12.767Z",
+          "articleSlug": "cbnstablecoin"
         }
       },
       "baselineSlugs": [
