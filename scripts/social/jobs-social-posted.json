@@ -123051,6 +123051,48 @@
       "verification": "verified",
       "postId": "6af2249a4edc9538ca00c043",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7525646729552056320"
+    },
+    {
+      "slug": "pm361",
+      "company": "Kraken",
+      "title": "Staff Product Designer - AI Products",
+      "platform": "linkedin",
+      "postedAt": "2026-11-09T19:50:27.395Z",
+      "expectedText": "Kraken is hiring Staff Product Designer - AI Products: https://hashtagweb3.com/pm361/li?og=7",
+      "snapshot": {
+        "id": "c41dff23-f502-42a7-a17e-5c8f759e7905",
+        "title": "Staff Product Designer - AI Products",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/c41dff23-f502-42a7-a17e-5c8f759e7905",
+        "date": "2026-11-03T17:32:10.264+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (United States)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Design",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm361"
+      },
+      "payload": {
+        "text": "Kraken is hiring Staff Product Designer - AI Products: https://hashtagweb3.com/pm361/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm361/li?og=7",
+          "title": "Staff Product Designer - AI Products at Kraken",
+          "description": "Join Kraken as Staff Product Designer - AI Products. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm361.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "7721cb50-9238-43d4-afa2-8a89764af10b",
+      "verification": "creating"
     }
   ]
 }
