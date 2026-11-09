@@ -120413,6 +120413,46 @@
       "attemptId": "02ac6324-12ce-4696-b7fb-300392c9fde3",
       "verification": "verified",
       "postId": "0x7e569285af24b04cbbd7babfc84fe9ab02e90e14"
+    },
+    {
+      "slug": "mgr129",
+      "company": "Ripple",
+      "title": "Staff GRC Program Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-09T03:38:34.029Z",
+      "expectedText": "Ripple is hiring Staff GRC Program Manager: https://hashtagweb3.com/mgr129/li?og=7",
+      "snapshot": {
+        "id": "8223889",
+        "title": "Staff GRC Program Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8223889?gh_jid=8223889",
+        "date": "2026-11-02T14:46:52-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "São Paulo, Brazil",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr129"
+      },
+      "payload": {
+        "text": "Ripple is hiring Staff GRC Program Manager: https://hashtagweb3.com/mgr129/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/mgr129/li?og=7",
+          "title": "Staff GRC Program Manager at Ripple",
+          "description": "Join Ripple as Staff GRC Program Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/mgr129.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "674de184-28b1-4067-962f-b5ccc5c6b7e1",
+      "verification": "creating"
     }
   ]
 }
