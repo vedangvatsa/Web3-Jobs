@@ -148284,11 +148284,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "791683fca2cea133d922",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-09T14:30:00.000Z",
-      "lastSeenAt": "2026-11-07T03:31:47.358Z"
+      "lastSeenAt": "2026-11-07T03:31:47.358Z",
+      "reason": "opinion",
+      "note": "Read the full Cointelegraph Magazine piece. It is analysis of what the Democratic midterm sweep may mean for the CLARITY Act, built on predictions about future negotiations and industry commentary, not a concrete event such as a vote, filing or rule.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-09T03:56:46.515Z",
+      "lastReviewedDay": "2026-11-09"
     },
     "61c907d838b017ad2384": {
       "source": "Unchained",
@@ -290318,6 +290328,18 @@
           ],
           "reviewedAt": "2026-11-09T03:55:28.970Z",
           "articleSlug": "dolrule"
+        },
+        "791683fca2cea133d922": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Read the full Cointelegraph Magazine piece. It is analysis of what the Democratic midterm sweep may mean for the CLARITY Act, built on predictions about future negotiations and industry commentary, not a concrete event such as a vote, filing or rule.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-09T03:56:46.515Z"
         }
       },
       "baselineSlugs": [
