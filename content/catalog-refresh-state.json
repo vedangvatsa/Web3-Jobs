@@ -2,8 +2,8 @@
   "version": 1,
   "catalogs": {
     "news": {
-      "checkedAt": "2026-11-08T19:31:30.587Z",
-      "sourceCommit": "89dc0757a292a74dc975a86669d8375485c978a3",
+      "checkedAt": "2026-11-09T03:31:36.387Z",
+      "sourceCommit": "5216339e77ff81c8bf9b5fa483a292cb41555fbb",
       "changedFiles": 1
     },
     "events": {
