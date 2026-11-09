@@ -121994,7 +121994,8 @@
       },
       "account": "channel:ai",
       "attemptId": "841ddde2-c482-4844-9c83-6074dd44dc59",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7f6724cc097954763a8528c4f9532f8953fe8a51"
     }
   ]
 }
