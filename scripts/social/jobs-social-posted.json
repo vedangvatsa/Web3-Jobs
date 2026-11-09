@@ -121854,7 +121854,8 @@
       },
       "account": "channel:base",
       "attemptId": "99f9c75a-408b-4407-95ef-90e2b316cb9d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2e90fd2ed34bfd9339c7dace043c8b05e075f3d7"
     }
   ]
 }
