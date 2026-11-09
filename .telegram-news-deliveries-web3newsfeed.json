@@ -3612,5 +3612,37 @@
     "slotKey": "2026-11-09:afternoon",
     "messageId": 65816,
     "sentAt": "2026-11-09T11:36:07.731Z"
+  },
+  "ba85603a-9960-4714-9936-2a423a509394": {
+    "status": "reserved",
+    "reservedAt": "2026-11-09T19:54:19.880Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Chainalysis Links $6.4 Billion Binance Theft to North Korea",
+        "summary": "Investigators identified the TraderTraitor group as responsible for the hack and have frozen $2.8 billion of stolen assets.",
+        "link": "https://hashtagweb3.com/tradertraitor?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Chainalysis Ties $6.4 Billion Binance Hack to North Korea"
+      },
+      {
+        "index": 2,
+        "headline": "US Senate sets deadline for crypto firms to provide records",
+        "summary": "Four major crypto companies must submit requested documentation to a Senate committee by November 30 or face further action.",
+        "event_rationale": "This represents a specific, time-bound legislative oversight action targeting multiple major industry players, distinct from general regulatory or law enforcement activity.",
+        "link": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
+        "source": "Decrypt",
+        "originalTitle": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto"
+      },
+      {
+        "index": 3,
+        "headline": "Bitcoin Stagnates as Investors Await US Inflation Data",
+        "summary": "Bitcoin remains near $75,000 while stock markets rise ahead of upcoming economic reports affecting Federal Reserve policy.",
+        "link": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
+        "source": "Decrypt",
+        "originalTitle": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report"
+      }
+    ],
+    "slotKey": "2026-11-09:evening"
   }
 }
