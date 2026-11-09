@@ -147957,11 +147957,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "1cfdd1fb6a2752f01074",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-09T20:36:25.000Z",
-      "lastSeenAt": "2026-11-07T03:31:47.358Z"
+      "lastSeenAt": "2026-11-07T03:31:47.358Z",
+      "reason": "opinion",
+      "note": "Read the Cointelegraph interview. It is commentary by TRM Labs' Ari Redbord on the already-reported Binance hack and North Korean theft, with no new event.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-09T03:38:53.924Z",
+      "lastReviewedDay": "2026-11-09"
     },
     "7878397babd6dcc7d218": {
       "source": "Decrypt",
@@ -290085,6 +290095,18 @@
             }
           ],
           "reviewedAt": "2026-11-09T03:38:50.914Z"
+        },
+        "1cfdd1fb6a2752f01074": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Read the Cointelegraph interview. It is commentary by TRM Labs' Ari Redbord on the already-reported Binance hack and North Korean theft, with no new event.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-09T03:38:53.924Z"
         }
       },
       "baselineSlugs": [
