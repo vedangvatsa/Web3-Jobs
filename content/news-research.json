@@ -148428,14 +148428,18 @@
         "id": "82da0e4185b24d7dad8f",
         "day": "2026-11-09",
         "articleSlug": "binanceseal",
-        "note": "Read Cointelegraph report of SEAL's 8-week intrusion estimate and Binance spokesperson clarification; SEAL primary report and a second independent outlet still needed.",
+        "note": "Read Cointelegraph's report and the SEAL primary report (Nov 5) with its dwell-time table and front-company list; Binance spokesperson timeline quote captured. A second independent outlet beyond Cointelegraph and the draft itself still need review.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance",
             "outcome": "read"
+          },
+          {
+            "url": "https://radar.securityalliance.org/tradertraitor-vs-contagious-interview-a-look-at-binances-initial-incident-report/",
+            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-09T04:01:41.954Z",
+        "updatedAt": "2026-11-09T04:06:18.977Z",
         "approved": false,
         "mustReview": true
       }
