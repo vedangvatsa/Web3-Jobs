@@ -119184,6 +119184,40 @@
       "attemptId": "12d9a3c1-28d3-4613-b67a-fe403e53e836",
       "verification": "verified",
       "postId": "0x0b5c39454cd25806b18832ca5e17bf74200599e0"
+    },
+    {
+      "slug": "eng574",
+      "company": "Fireblocks",
+      "title": "Sales Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-11-09T03:32:16.289Z",
+      "expectedText": "Fireblocks is hiring Sales Engineer\n\nhttps://hashtagweb3.com/eng574/fc?og=7",
+      "snapshot": {
+        "id": "4711930006",
+        "title": "Sales Engineer",
+        "company": "Fireblocks",
+        "link": "https://www.fireblocks.com/careers/position?gh_jid=4711930006",
+        "date": "2026-10-12T05:46:15-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Fireblocks [fireblocks]",
+        "location": "Tokyo Prefecture, Japan",
+        "department": "Sales",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng574"
+      },
+      "payload": {
+        "text": "Fireblocks is hiring Sales Engineer\n\nhttps://hashtagweb3.com/eng574/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng574/fc?og=7"
+          }
+        ],
+        "channel_id": "developers"
+      },
+      "account": "channel:developers",
+      "attemptId": "3ee5e143-8458-4e91-a8d0-381b4860f4a8",
+      "verification": "creating"
     }
   ]
 }
