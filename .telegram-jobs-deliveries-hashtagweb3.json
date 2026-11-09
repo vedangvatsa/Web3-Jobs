@@ -8938,7 +8938,7 @@
     "sentAt": "2026-11-09T03:32:34.985Z"
   },
   "8a1bba69-370e-4bc4-926e-f39d4bf682f4": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-09T11:32:47.226Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -9058,6 +9058,8 @@
       }
     ],
     "message": "- Bitdeer is hiring <a href=\"https://hashtagweb3.com/rec11?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Talent Acquisition &amp; HR Manager</a>\n- StraitsX is hiring <a href=\"https://hashtagweb3.com/tr123?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">OTC Sales Trader</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls403?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive - Startups, Southeast Asia</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/sls85?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Regional Sales Specialist, Mandarin Speaking Region</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/pm31?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Assistant General Counsel - Product and Regulatory Legal (EU)</a>",
-    "slotKey": "2026-11-09:afternoon"
+    "slotKey": "2026-11-09:afternoon",
+    "messageId": 156154,
+    "sentAt": "2026-11-09T11:32:54.612Z"
   }
 }
