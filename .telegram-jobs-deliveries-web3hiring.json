@@ -16628,7 +16628,7 @@
     "sentAt": "2026-11-09T03:32:24.118Z"
   },
   "168291fc-a708-440b-816e-895180d9e24a": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-09T03:32:25.726Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -16740,6 +16740,8 @@
       }
     ],
     "message": "- BVNK is hiring <a href=\"https://hashtagweb3.com/cm2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">CEO / MD UK</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/dsc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Deployment Strategist, CTI</a>\n- Consensys is hiring <a href=\"https://hashtagweb3.com/ops118?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior People Operations Associate</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/arc32?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Cloud Architect</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/ops153?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Asset/Wallet Operations</a>",
-    "slotKey": "2026-11-09:morning"
+    "slotKey": "2026-11-09:morning",
+    "messageId": 180,
+    "sentAt": "2026-11-09T03:32:27.756Z"
   }
 }
