@@ -325,169 +325,6 @@
     "slug": "sec"
   },
   {
-    "id": "w3v-f1-sg-x-crypto-vc-qualifying-day",
-    "name": "F1 SG x Crypto VC - Qualifying Day",
-    "description": "A private gathering of capital, founders, and industry leaders during TOKEN2049 Week - with the view of F1 Singapore.\n\nF1 SG X Crypto VC brings together a carefully selected group of leading VCs, investors, founders, and key figures from the global crypto ecosystem for an evening built around meaningful conversations and high-value connections.\n\nNo crowded rooms. No endless panels. No noise.\n\nJust the right people, with an unforgettable view of F1 Singapore.\n\nThe Room\nExpect a carefully curated mix of:\n\n• Leading crypto and Web3 venture capitalists\n• Institutional and private investors\n• Founders building the next generation of companies\n• Family offices and strategic capital\n• Senior industry executives\n• Key players across finance, technology, and Web3\n\nThe Experience-\n\nAn unforgettable view of F1 Singapore\nDiscuss new investment opportunities.\nMeet potential founders and investors.\nExplore strategic partnerships.\nExchange perspectives on where the market is heading.\nBuild relationships beyond the usual conference introduction.\n\nCome for the room.\nStay for the conversations.\nLeave with relationships that matter.\n\nF1 SG X Crypto VC\nSingapore · TOKEN2049 Week",
-    "startDate": "2026-10-10T07:00:00.000Z",
-    "endDate": "2026-10-10T15:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Marina Bay Street Circuit, Marina Bay, 1 Republic Blvd, Singapore 038975",
-    "url": "https://luma.com/48ko0wni",
-    "coverImage": "/events/w3v-f1-sg-x-crypto-vc-qualifying-day-316d4438.webp",
-    "source": "token2049-official",
-    "bypassedFilter": true,
-    "month": "October 2026",
-    "category": "Networking",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "WEB3 PADDOCK"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "neighborhood": "Downtown Core",
-    "slug": "fsxcvqd",
-    "registrationUrl": "https://luma.com/48ko0wni",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Marina Bay Street Circuit",
-    "streetAddress": "Marina Bay, 1 Republic Blvd, Singapore",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "coordinates": {
-      "latitude": 1.2914318999999999,
-      "longitude": 103.8639097
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/48ko0wni",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/48ko0wni",
-      "eventId": "evt-suueF0I8O8MAvBm",
-      "fetchedAt": "2026-09-19T23:54:53.099Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "w3v-padel-hangout-by-arc-trading",
-    "name": "Padel Hangout by Arc Trading",
-    "description": "Arc Trading is hosting a padel hangout on 10 October — a break from the conference grind while the industry lingers in Singapore for TOKEN2049 and the F1 weekend.\n\nFour courts at one of the best padel clubs in Singapore, just 10 minutes from the city center. Come to compete or simply rally, grab a beer, and hang out. Beginner coaching is available on site, with rackets and balls provided.\n\nThe program\n\n• 4 padel courts, 10 minutes from the city center\n• Level-based tournament\n• Beginner coaching on site\n• Lounge & social area\n• Beer, soft drinks & snacks\n• Off-court activities, icebreakers, and mini contests\n• Rackets & balls provided\n\nWho’s coming\n\nWe’re bringing together a curated mix of people from across the crypto ecosystem — VCs, launchpads, advisors, founders, ecosystem partners, and digital asset projects.\n\nExpect a mix of people we already work with, partners who regularly connect projects and opportunities, and teams we’d simply like to get to know better.\n\nThe idea is simple: good people, padel, a few beers, and conversations without conference booths or packed meeting schedules.\n\nGuests\n\nEvery guest applies and is approved individually. No plus-ones, no walk-ins. The venue is shared with approved guests only.\n\nAbout Arc Trading\n\nArc Trading is a crypto market-making firm providing liquidity management, OTC execution, and market-making services for digital asset projects.\n\n[Learn more at arctrading.io](https://arctrading.io).\n[Follow us on X](https://x.com/arctrading_io)[and LinkedIn](https://www.linkedin.com/company/arc-trading-markets/).",
-    "startDate": "2026-10-10T10:00:00.000Z",
-    "endDate": "2026-10-10T14:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "8A Lengkok Bahru, Singapore 159787",
-    "url": "https://luma.com/nt0j0ptg",
-    "coverImage": "/events/w3v-padel-hangout-by-arc-trading-c4d79bb5.webp",
-    "source": "token2049-official",
-    "bypassedFilter": true,
-    "month": "October 2026",
-    "category": "Sport",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "Arc Trading"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "neighborhood": "Bukit Merah",
-    "slug": "phat",
-    "registrationUrl": "https://luma.com/nt0j0ptg",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "8A Lengkok Bahru",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "coordinates": {
-      "latitude": 1.2864383,
-      "longitude": 103.81128059999999
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "Arc Trading",
-      "url": "https://arctrading.io/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/nt0j0ptg",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/nt0j0ptg",
-      "eventId": "evt-uKCyGpiXGyLETQz",
-      "fetchedAt": "2026-09-19T23:54:53.540Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "w3v-crypto-syndicate-party",
-    "name": "Crypto Syndicate Party",
-    "description": "Crypto Syndicate Party — TOKEN2049 Side Event\n\nWelcome to Crypto Syndicate Party, one of the most anticipated networking experiences happening alongside TOKEN2049.\n\nThis isn’t just another crypto meetup.\n\nIt’s a massive gathering of founders, investors, builders, traders, Web3 leaders, creators, operators, and some of the most influential people across the global crypto ecosystem — all coming together for an unforgettable night of high-quality networking, drinks, food, music, and energy.\n\nWhether you’re building the next big protocol, investing in the future of Web3, scaling a crypto company, exploring new partnerships, or simply looking to meet the right people during TOKEN2049 — this is where you want to be.\n\nMusic That Sets the Night Apart\n\nWe’re bringing a top-tier DJ and music setup to make this one of the standout nights of TOKEN2049 week.\n\nExpect an energetic atmosphere, great sound, and a dance floor built for people who know how to enjoy themselves after a long day of meetings, panels, deals, and networking.\n\n🍸 Drinks & Great Food\n\nEnjoy a selection of drinks, cocktails, and quality food throughout the event while connecting with people from across the ecosystem.\n\nNo formal conference setting.\nNo endless presentations.\nNo awkward networking lines.\n\nJust great people, good conversations, excellent food and drinks, and a serious party atmosphere.\n\nCrypto Syndicate Party\nTOKEN2049 Side Event\n\nOne night. One room. One massive crypto network.\n\nLimited capacity. Registration is required.",
-    "startDate": "2026-10-10T11:00:00.000Z",
-    "endDate": "2026-10-10T16:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "LAVO Coastal Italian Restaurant & Rooftop Bar, 10 Bayfront Avenue, Marina Bay Sands, Hotel, Level 57 Tower 1, Singapore 018956",
-    "url": "https://luma.com/pohccu99",
-    "coverImage": "/events/w3v-crypto-syndicate-party-b92ab1a1.webp",
-    "source": "token2049-official",
-    "bypassedFilter": true,
-    "month": "October 2026",
-    "category": "Party/Dinner",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "ABC.con"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "neighborhood": "Central Area",
-    "slug": "csp",
-    "registrationUrl": "https://luma.com/pohccu99",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "LAVO Coastal Italian Restaurant & Rooftop Bar",
-    "streetAddress": "10 Bayfront Avenue, Marina Bay Sands, Hotel, Level 57 Tower 1, Singapore",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "coordinates": {
-      "latitude": 1.2824615,
-      "longitude": 103.8600908
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/pohccu99",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/pohccu99",
-      "eventId": "evt-K84PpyBR7EMkRbg",
-      "fetchedAt": "2026-09-19T23:54:54.373Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-host-evt-evt-T1nhxzU2JSJPAgq",
     "name": "A Global Living Lab: Light DAO's Next International Gathering",
     "description": "Members of Light DAO’s leadership recently participated in Edge Esmeralda and came away feeling it was one of the most impressive, inspiring and transformative business gatherings we had ever experienced — because it was not a conference, retreat or summit.\n\nIt was a Society Incubator — an extraordinary integration of worlds that are rarely found in one place.\n\nIn a single day, you might:\n\n🌅 Begin the morning with a tea ceremony, breathwork or yoga\n\n🧠 Move into a talk with brilliant researchers, founders and investors on frontier science and emerging technology\n\n💻 Spend a few hours building software, testing experimental health wearables, collaborating in a maker space, or creating in a media lab\n\n🌿 Head into nature, join a wellness session, or get absorbed in a discussion on the latest in AI agents, fintech or longevity\n\n🍽️ Continue the conversations over dinner late into the evening — or end the night with music, ecstatic dance or a calming sound bath\n\n👨‍👩‍👧‍👦 For families, dedicated programs for kids and teens, starting at age 4, offer opportunities to play, learn, create and build within their own community\n\n✨ Alongside all of this are deep conversations about consciousness, philosophy, society and human flourishing\n\nIt felt like stepping into a living laboratory for the future — a temporary village designed to explore and experiment with how we might live, work, learn, build and thrive differently.\n\nIt offered a glimpse of what the world could look like when innovation, human flourishing and community are developed together.\n\n## This is Edge City.\n\nEdge Cities are 3–4 week Living Labs and Society Incubators — international popup villages where frontier technology, science, entrepreneurship, consciousness, culture, art, well-being and community are not separate tracks, but part of one shared environment.\n\nEdge Cities have already taken place in Patagonia, Chiang Mai, Cape Town and Esmeralda, two hours north of San Francisco.\n\nEdge Esmeralda — June 2026\n\n• 850 residents from 60+ countries\n• Nearly 300 stayed for the full month\n• 800+ sessions and experiments\n• Families came with 48 kids\n\nWhat made it so extraordinary was being surrounded by brilliant, conscious innovators genuinely committed to advancing humanity — with enough time together for real relationships, collaborations and radical ideas to develop.\n\n[www.EdgeEsmeralda.com](https://www.EdgeEsmeralda.com)\n\nThat experience convinced us that Edge City offers something unusually valuable for the Light DAO community.\n\nSo this October, we’re taking our community to the next Edge City.\n\n## 🌴 The Next Edge City: Goa, India\n\nOctober 11 – November 1, 2026\n\nWe’re taking our community to Edge India in Goa — a three-week Living Lab and Society Incubator with hundreds of participants, approximately 65% coming from outside India.\n\nLight DAO will have our own RESIDENCY within the larger Edge India community, so our members can take part in the full Edge experience while also connecting more intimately with our own community.\n\n## 💡 A Living Lab Created by Its Community\n\nOne of the things that makes Edge Cities especially unique and powerful is its unconference-style format. Much of the experience is created by the participants themselves — through the talks, demos, experiments and working groups they lead around the ideas and projects they care most about.\n\nLight DAO will also host more intimate gatherings within our own Residency, led by our guests.\n\nOnce registered, Light DAO Owner Members are welcome to contact us with ideas you might like to lead or contribute to. We can’t guarantee a place in either the Light DAO or Edge programming, but we’d love to hear what you are most excited to share.\n\nThat participatory spirit is part of what makes Edge a true Living Lab: the community does not simply attend the experience — it helps create it.\n\n## 🤝 A Special Light DAO + SingularityNET  Residency\n\nWe’re delighted to be partnering with SingularityNET for a 3-week Light DAO + SingularityNET Residency at Edge India. This is the first collaboration of its kind we’ve run with the SingularityNET team.\n\nEveryone racing toward AGI is making the same bet: that a bigger model gets there. SingularityNET is not.\n\nLed by Dr. Ben Goertzel, who launched the term and concept of Artificial General Intelligence, the team scales Beneficial General Intelligence on Hyperon, a cognitive architecture with two decades of research behind it. It holds knowledge, goals and decisions in a form you can inspect, shows its reasoning, and runs under explicit permissions — which is what makes it deployable inside real institutions.\n\nThe residency puts you in the room with the people building it. Talks, working sessions and open build time for developers, founders, researchers, investors, and anyone serious about AGI, ASI and beneficial technology.\n\nBring what you are already building. Leave with something concrete: a technical integration, a partnership, an investment conversation, or a prototype you put together on-site at Edge India.\n\n## Why Join the Light DAO + SingularityNET Residency?\n\nIn addition to the full Edge India experience, our Residency gives you a more intimate community to connect, collaborate and build with throughout your stay, including:\n\n🤖 Light DAO + SingularityNET talks, working sessions and open build time\n\n💬 More intimate conversations and collaborations within our residency group, particularly with SingularityNET's leadership and tech team.\n\n🍽️ Light DAO-organized meals, including opportunities for participants to lead topic conversations\n\n🌴 Optional group outings and shared experiences\n\n🎤 Opportunities for Light DAO Owner Members to propose topics they may want to lead or contribute to\n\n🏖️ A shared home base at our beachfront resort\n\nThink of our residency as your home community within the larger Edge India Living Lab.\n\n## What Makes Edge Cities a Unique Living Lab + Society Incubator\n\nHear Edge Cities co-founder Timour Kosters talk about the multidisciplinary, multigenerational and global vision behind Edge Cities — including its unconference format and experiments.\n\nHe shares how the experience stretches people’s sense of what is possible, helps them embody that expansion, and activates new collaborations and directions. In 1–3 weeks, many participants accelerate results that might otherwise have taken months or longer.\n\nThe Edge experience is designed around focused work, collaboration, wellness, community and time to enjoy Goa.\n\nYour Edge Pass includes the full Edge India experience — programming, coworking, wellness, community gatherings and more.\n\n## 💰 Pricing\n\nEdge India Pass\n\nPrices increase weekly\n\n• 2–3 weeks (same price): $1,500–$2,000\n• 1 week: $750–$1,000\n• Day pass: $150–$200\n• Indian citizens: 50% discount\n\n🏖️ Our Beachfront 4-Star Resort\n\n[www.RivaResorts.com](https://www.RivaResorts.com)\n\nOur Light DAO + SingularityNET Residency will be based at Edge India’s central hotel.\n\n• Private room + breakfast: $100 per room/night\n• Lunch + dinner: approximately $30 - 50/day\n  Your choice — at the resort or anywhere in Goa\n\nYes — you get your own private room. At $100/night including breakfast, this is an exceptional value for a beachfront 4-star resort.\n\nIf you're coming as a couple, it is the same $100/night including breakfast for 2!\n\nRoommates also the same $100/night!\n\nLunches, dinners and excursions are paid individually, giving you the flexibility to join our residency plans, other Edge activities, or your own plans in Goa.\n\n## ✨ Joining the Light DAO + SingularityNET Residency\n\nEdge Cities are curated communities with an application and approval process.\n\nLight DAO Owner Members and friends we already know:\nPlease RSVP here on Luma. You will automatically be approved to Edge India through our Residency.\n\nIf you are new to us:\nPlease RSVP here on Luma and complete the registration questions thoughtfully.  Thank you.\n\nOnce approved through the Light DAO + SingularityNET Residency, you will not need to complete a separate Edge City application.\n\nReady to Join?\nChoose one of the two ticket options above.\nOnce approved, we’ll send you:\n\n• the direct link to purchase your Edge ticket at the current lowest price\n• the resort reservation link\n\nCome experience our collaboration between Edge Cities, SingularityNET and Light DAO — where frontier ideas, deep community and real opportunities to build and collaborate come together in one Living Lab.\n\nYou may leave with a partnership, a prototype, a new collaborator, or an entirely new direction you had not imagined before joining this unique Society Incubator.",
@@ -1940,89 +1777,6 @@
     }
   },
   {
-    "id": "token2049-side-6a739c525a75007b4100108c",
-    "name": "F1 Sprint Race and Grand Prix Qualifying",
-    "description": "Saturday's Formula 1 program at the 2026 Singapore Grand Prix includes the Sprint and Grand Prix qualifying at the Marina Bay Street Circuit.\n\n## Saturday, 10 October\n\nThe track program runs on local Singapore time: the Porsche Carrera Cup Asia qualifying session at 15:00-15:30, the Formula 1 Sprint of 21 laps or 60 minutes at 17:00-17:30, the Formula 1 press conference at 17:30-18:00, the Porsche Carrera Cup Asia first race at 19:45-20:20, the Grand Prix qualifying session at 21:00-22:00, and a further press conference at 22:00-23:00.\n\n## Circuit\n\nThe night race takes place at the 4.927-kilometre Marina Bay Street Circuit. The official timetable is subject to change.\n\n## Circuit\n\nThe Marina Bay Circuit arrived on the scene in 2008 with the city skyline as its backdrop, hosting the first night-time race in Formula 1 history. After a 2023 layout change the lap runs 19 corners over 4.927 kilometres, and the bumpy street surface plus humidity make it one of the most physically demanding races on the calendar.\n\n## Following the weekend\n\nThe sessions can be followed live on F1 TV, with tickets and hospitality packages available through Formula 1 official channels.",
-    "startDate": "2026-10-10T17:00:00+08:00",
-    "endDate": "2026-10-10T22:00:00+08:00",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Marina Bay Street Circuit, Singapore",
-    "url": "https://singaporegp.sg/en",
-    "coverImage": "/events/token2049-side-6a739c525a75007b4100108c-4449e2e6.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Sport",
-    "price": "US$200-12000",
-    "token2049SideEvent": true,
-    "descriptionSource": {
-      "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
-      "fetchedAt": "2026-09-21T05:12:52.973Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - full timetable",
-      "sha256": "1f30d6f4fa66a44a820c896bc46b7ed648ff96e8d4ea00a43598199c88500ad4"
-    },
-    "website": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
-    "registrationUrl": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
-    "timezone": "Asia/Singapore",
-    "venueName": "Marina Bay Street Circuit",
-    "slug": "fsrgpq"
-  },
-  {
-    "id": "token2049-side-6aa17432967be0befa88d00d",
-    "name": "The Invite",
-    "description": "The Invite: An exclusive evening of Formula 1 qualifying and networking to end Token2049 week in style.\n\nKey decision makers who shape our industry as builders, founders and funds gather in a private penthouse suite with unobstructed views of the Marina Bay Circuit.\n\nThe Experience\n\n• Panoramic penthouse balcony views over the circuit for the qualifying session\n• A short guest list of founders, C-suite, funds and allocators, the people partnerships get signed with\n\nDetails\n🗓️ Saturday 10 October 2026. Qualifying day. 8pm.\n🔒 Invite-only.\n\nToken2049's most exclusive ticket. Kept deliberately small, a room building crypto's next chapter, from the best seats in the house.\n\nRSVP required. Attendance by invitation only.\n\n## About Your Hosts:\n\n[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.\n\n[Zoth](https://zoth.io/?utm_source=luma) is the privacy-first stablecoin neobank for the Global South and the agentic economy. Move it, hold it, grow it: cross-border payments through zPayments, a stablecoin account, and institutional yield through zVaults, now with AI agents that execute while you approve. The first neobank to launch tokenized equities, in partnership with Coinbase. $500M+ processed on licensed, regulated rails, including Money Transmitter Licenses across 50 US states and a NY BitLicense through our Bakkt partnership.\n\n[Movement](https://www.movementnetwork.xyz/) is the global settlement and yield layer for emerging markets, built on Move, the programming language designed to secure financial assets. Neobanks, fintechs, and payment platforms use Movement to deliver instant cross-border settlement, dollar savings, and stablecoin-powered financial products without relying on slow, capital-heavy remittance rails.\n\nSponsored By:\n\n[Taisu Ventures](https://www.taisu.io/) is a venture capital firm that invests in & empowers early-stage web3 companies across the globe.\n\n[Selini](https://www.selinicapital.com/)is a global trading firm focused on systematic trading and venture investing - all within the digital assets space.",
-    "startDate": "2026-10-10T12:00:00.000Z",
-    "endDate": "2026-10-10T15:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/tbe-zoth-f1",
-    "coverImage": "/events/token2049-side-6aa17432967be0befa88d00d-5c89f1a9.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Party/Dinner",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "The Best Event",
-      "Tobias Bauer",
-      "Brent Fulfer",
-      "Pritam Dutta",
-      "Ben Prentice",
-      "Movement",
-      "Mihir Odhrani"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "slug": "invite",
-    "registrationUrl": "https://luma.com/tbe-zoth-f1",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "The Best Event",
-      "url": "https://thebestevent.com/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/tbe-zoth-f1",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/tbe-zoth-f1",
-      "eventId": "evt-fQ4gpwBaPC3et6C",
-      "fetchedAt": "2026-09-19T23:56:08.095Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "token2049-side-6aa1744c967be0befa88d013",
     "name": "The Best Event: The Pinnacle",
     "description": "The Pinnacle, hosted by The Best Event, closes out the week's daytime gatherings, a final easy afternoon before the main event takes over the city. This is the last quiet moment before the Grand Prix noise begins.\n\nElevation is hosted at Singapore's most premium penthouse suite, in an iconic 5-star hotel overlooking Marina Bay. With floor-to-ceiling views of the F1 Track, this premium space reflects the calibre of company you can expect and a level of exclusivity you shouldn't miss.\n\nEvent Highlights:\n\n• A refined afternoon gathering with a discerning crowd — founders, investors, and the industry's most connected\n• Freshly baked pastries and light bites, served throughout\n• Front-row views as the F1 track builds toward race night energy\n• Sweeping skyline views that set an elegant tone\n• Refined networking in a stunning, luxury venue\n\n## Hosted By:\n\n[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.\n\nFor sponsor inquiries [for the penthouse editions, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.",
@@ -2255,47 +2009,6 @@
     "url": "https://luma.com/StplBuildStation",
     "coverImage": "/events/luma-host-evt-evt-bbadbriz8hyjr54-5d866013.webp",
     "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-HOyb8kS7i2AlBf2",
-    "name": "[ONLINE] TOKEN2049: GetBlock Team Insights",
-    "description": "",
-    "startDate": "2026-10-10T13:00:00.000Z",
-    "endDate": "2026-10-10T14:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "TBA",
-    "url": "https://luma.com/oq4ncz5u",
-    "coverImage": "/events/luma-host-evt-evt-hoyb8ks7i2albf2-add46c6d.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-online-token2049-getblock-team-insights-26-10-10",
-    "name": "TOKEN2049: GetBlock Team Insights",
-    "description": "[ONLINE] TOKEN2049: GetBlock Team Insights: Online discussion reviewing TOKEN2049 from business, product and engineering views.",
-    "startDate": "2026-10-10T13:00:00.000Z",
-    "endDate": "2026-10-10T14:00:00.000Z",
-    "city": "Global",
-    "country": "",
-    "location": "Global",
-    "url": "https://luma.com/oq4ncz5u",
-    "coverImage": "/events/w3v-online-token2049-getblock-team-insights-26-10--8d8d4013.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-xlJmFTmUDfpNHCg",
-    "name": "Unidos Por La Cultura Celebration",
-    "description": "",
-    "startDate": "2026-10-10T15:00:00.000Z",
-    "endDate": "2026-10-10T17:00:00.000Z",
-    "city": "Lynn",
-    "country": "United States",
-    "location": "Lynn, United States",
-    "url": "https://lu.ma/ekj70iw7",
-    "coverImage": "/events/luma-evt-xljmftmudfpnhcg-1a9a8670.webp",
-    "source": "luma",
     "month": "October 2026"
   },
   {
@@ -18629,7 +18342,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15201-midnight-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ebs5pom08ao9z5aarl2qqbi1m3nn?response-content-disposition=inline%3B%20filename%3D%22MidnightNov.jpg%22%3B%20filename%2A%3DUTF-8%27%27MidnightNov.jpg&amp;response-content-type=image%2Fjpeg&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261109%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261109T113341Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=6151feb5a52bc1637aa047db8cbf5d64a7c0ce2163e7a9ba6370c60f1b159a9a",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ebs5pom08ao9z5aarl2qqbi1m3nn?response-content-disposition=inline%3B%20filename%3D%22MidnightNov.jpg%22%3B%20filename%2A%3DUTF-8%27%27MidnightNov.jpg&amp;response-content-type=image%2Fjpeg&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261109%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261109T195124Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=f5ee233e3edc1dbae906d98b51a1d1cf25c1b9fc08c33a59580894e4948ac628",
     "month": "November 2026"
   },
   {
@@ -19317,5 +19030,61 @@
     "coverImage": "/events/luma-host-evt-evt-dtmixkriz3wbrud-4ce83f85.webp",
     "source": "luma-trusted",
     "month": "February 2027"
+  },
+  {
+    "id": "luma-evt-i1tMtsPFib0VzBF",
+    "name": "Convergence: Onchain Finance Soirée at DAS London",
+    "description": "",
+    "startDate": "2026-11-10T16:00:00.000Z",
+    "endDate": "2026-11-10T19:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/convergence-onchain-finance-das-london",
+    "coverImage": "/events/luma-evt-i1tmtspfib0vzbf-fdd8915f.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-2vfJvhCNnZareyP",
+    "name": "Identifying your Niche w/ Nicole Gurley",
+    "description": "",
+    "startDate": "2026-11-11T17:00:00.000Z",
+    "endDate": "2026-11-11T18:00:00.000Z",
+    "city": "Garden City",
+    "country": "United States",
+    "location": "Garden City, United States",
+    "url": "https://lu.ma/mz2zfyjo",
+    "coverImage": "/events/luma-evt-2vfjvhcnnzareyp-750e3a57.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-8FfC1JokxGbavTV",
+    "name": "Antidote Literary Salon",
+    "description": "",
+    "startDate": "2026-11-17T02:00:00.000Z",
+    "endDate": "2026-11-17T04:00:00.000Z",
+    "city": "Los Angeles",
+    "country": "United States",
+    "location": "Los Angeles, United States",
+    "url": "https://lu.ma/gpghxftx",
+    "coverImage": "/events/luma-evt-8ffc1jokxgbavtv-b85b8d58.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-MkiMR5HAyOlQeZ8",
+    "name": "The Year-End Reset for Founders: Close Out 2026, Plan 2027 w/ Nicole Doyle",
+    "description": "",
+    "startDate": "2026-12-08T18:00:00.000Z",
+    "endDate": "2026-12-08T22:00:00.000Z",
+    "city": "Seattle",
+    "country": "United States",
+    "location": "Seattle, United States",
+    "url": "https://lu.ma/nhonnwh4",
+    "coverImage": "/events/luma-evt-mkimr5hayolqez8-c9c7412b.webp",
+    "source": "luma",
+    "month": "December 2026"
   }
 ]

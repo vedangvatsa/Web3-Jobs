@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-09T11:32:36.203Z",
+  "checkedAt": "2026-11-09T19:50:15.527Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -10,11 +10,11 @@
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 19,
-    "excluded": 22,
-    "needs-review": 4
+    "existing": 14,
+    "excluded": 16,
+    "needs-review": 2
   },
-  "importedTotal": 26,
+  "importedTotal": 21,
   "added": [],
   "receipts": [
     {
@@ -79,57 +79,6 @@
       ],
       "status": "existing",
       "slug": "tech-summit"
-    },
-    {
-      "url": "https://luma.com/jxrnlqry",
-      "name": "F1 Watch Party — Singapore 🇸🇬🏎️",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "f1-watch"
-    },
-    {
-      "url": "https://luma.com/20ybvogw",
-      "name": "Ethene Labs Presents: Live F1 Singapore Grand Prix Party",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "ethene-labs"
-    },
-    {
-      "url": "https://luma.com/vhdndvhn",
-      "name": "Vibrez × La Royale | Sprint & Qualifying Watch Party",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "vlr2"
-    },
-    {
-      "url": "https://toniq.events/e/il-divo-gala-singapore",
-      "name": "Il Divo Gala Dinner | BIG ART FESTIVAL Singapore.",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "il-divo"
-    },
-    {
-      "url": "https://luma.com/oq4ncz5u",
-      "name": "[ONLINE] For Those Who Missed: GetBlock Team Insights",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "online-token2049"
     },
     {
       "url": "https://luma.com/michelinfoodrace1011",
@@ -201,16 +150,6 @@
       "slug": "private-trading"
     },
     {
-      "url": "https://luma.com/vylnjbnb",
-      "name": "TRADERS WEEK | SINGAPORE 🇸🇬🏆 - Day 1",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
       "url": "https://zusei.com/token2049",
       "name": "🔴 Time Heist by Zusei.com - Day 1",
       "sources": [
@@ -266,85 +205,12 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/mdikmf3g",
-      "name": "Trails By The Bay",
+      "url": "https://luma.com/20ybvogw",
+      "name": "Ethene Labs Presents: Live F1 Singapore Grand Prix Party",
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
         "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/lioncitymichelin-10Oct26",
-      "name": "The Lion City Michelin Food Race 2026 - 10 Oct  (USDC)",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/TBE-Elevation",
-      "name": "The Best Event: Elevation",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/48ko0wni",
-      "name": "F1 SG x Crypto VC - Qualifying Day",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 400"
-    },
-    {
-      "url": "https://luma.com/TBE-ThePaddock",
-      "name": "The Best Event: The RWA Paddock with Brickken",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/ssfmuupa",
-      "name": "RWA Private Circle",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/pohccu99",
-      "name": "Crypto Syndicate Party",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 400"
-    },
-    {
-      "url": "https://luma.com/5si82icz",
-      "name": "Matchpoint Capital",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"

@@ -1214,36 +1214,6 @@
     }
   },
   {
-    "id": "luma-batch-asZtVgB6WBDcpt6",
-    "slug": "demodaykyiv",
-    "name": "UKRAINIAN DEMO DAY | Kyiv",
-    "description": "Вирішальний момент – запітчи свій проєкт та отримай додаткові призи!\n\nХакатон завершується, і до закриття сабмітів проєктів на Colosseum залишається зовсім трохи. Ті з вас, хто вже зможе показати своє MVP та запітчити нам, можуть позмагатися за додаткові призи окрім пулу на Ukrainian Sidetrack.SOLANA DEMO:\n\n✨ 1 місце – $1000✨ 2 місце – $500✨ 3 місце – $200\n\n+ OPEN TRACK:[для проєктів на інших блокчейнах, кросчейн-рішень і не web3-продуктів]✨ 1 місце – $500✨ 2 місце – $200✨ 3 місце – $100\n\nПерше місце отримає ідеальний пітч та готове MVP, демо якого ви продемонструєте.Рекомендуємо спланувати свою роботу під час хакатону так, аби на Demo Day ви вже мали готові пітчі. Отримаєте тут фідбек, та ще буде трохи часу, щоб покращити ваші подачі на Colosseum.  Тож ловіть можливість, бо будь-яка робота має винагороджуватися!Пітчити лише англійською 🔴Підготуй пітчдек 🔴Демо продукту може бути в записі або продемонструй в лайві 🔴PROOF OF MONEY тут!\n\nАдженда:\n\n15:00 - 18:00 | Demo пітчі18:00 - 19:00 | Нетворкінг та напої",
-    "startDate": "2026-10-10T12:00:00.000Z",
-    "endDate": "2026-10-10T17:00:00.000Z",
-    "city": "Kyiv",
-    "country": "Ukraine",
-    "location": "Kyiv, Ukraine",
-    "url": "https://luma.com/demodaykyiv",
-    "registrationUrl": "https://luma.com/demodaykyiv",
-    "coverImage": "/events/luma-batch-asZtVgB6WBDcpt6-788252c9.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Ukraine"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/Kiev",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "sourceVerification": {
-      "url": "https://luma.com/demodaykyiv",
-      "eventId": "calev-asZtVgB6WBDcpt6",
-      "fetchedAt": "2026-09-22T11:31:03.000Z",
-      "method": "luma-page",
-      "apifyRunId": "WHcLsVUsFvlHmcVYz"
-    }
-  },
-  {
     "id": "luma-batch-o5zAFWhqOEDAlNO",
     "slug": "superteam-v4td",
     "name": "Final Office Hours Before the Deadline",

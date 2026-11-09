@@ -20,25 +20,6 @@
       "reason": "The source title and image-based heading did not match the old punctuation variant; the organizer's event-specific page provides the full program."
     },
     {
-      "id": "token2049-side-6a739c525a75007b4100108c",
-      "kind": "reviewed",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
-      "contains": [
-        "SATURDAY 10 OCTOBER",
-        "SPRINT (21 Laps or 60 Mins)17:00 - 17:30",
-        "QUALIFYING SESSION21:00 - 22:00"
-      ],
-      "description": "Saturday's Formula 1 program at the 2026 Singapore Grand Prix includes the Sprint and Grand Prix qualifying at the Marina Bay Street Circuit.\n\n## Saturday, 10 October\n\n• 17:00–17:30: Formula 1 Sprint, listed as 21 laps or 60 minutes\n• 17:30–18:00: Formula 1 press conference\n• 21:00–22:00: Grand Prix qualifying session\n• 22:00–23:00: Formula 1 press conference\n\nTimes are local to Singapore. The organizer notes that the timetable is subject to change.",
-      "patch": {
-        "startDate": "2026-10-10T17:00:00+08:00",
-        "endDate": "2026-10-10T22:00:00+08:00",
-        "timezone": "Asia/Singapore",
-        "location": "Marina Bay Street Circuit, Singapore",
-        "venueName": "Marina Bay Street Circuit"
-      },
-      "reason": "Used the sport organizer's exact Sprint and qualifying sessions instead of a generic parent-page description."
-    },
-    {
       "id": "token2049-side-6a739ce35a75007b41001095",
       "kind": "reviewed",
       "sourceUrl": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",

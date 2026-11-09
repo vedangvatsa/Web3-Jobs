@@ -977,10 +977,6 @@
       "sha256": "5ada14f6b4ade89afcd8cf2e5ff12b8ea76f05cbd4f0b2cb56897348f65ec396",
       "status": "retained"
     },
-    "/events/luma-batch-asZtVgB6WBDcpt6-788252c9.webp": {
-      "sha256": "74e69b48664eeffdadbf3fb3a6ac2e39e86c159283f7d257ce3da6ec83c7d1c4",
-      "status": "optimized"
-    },
     "/events/luma-batch-evt2wOUBYvOivoW1-7ca9361f.webp": {
       "sha256": "61506c1da7485003feb08f1344e0a438af61e1a93b7407086ce32a9fd57991e8",
       "status": "optimized"
@@ -4477,10 +4473,6 @@
       "sha256": "8abfefa3d2d40a1f02b4df11afbba81e91250ee11803d1cc0df479237aaddfab",
       "status": "optimized"
     },
-    "/events/token2049-343edc72c451f7f2-13b6f682.webp": {
-      "sha256": "751fdae9930aaa149f9638a8ba35502fc26d0675fff06bd8d53fd989997dcf00",
-      "status": "optimized"
-    },
     "/events/token2049-evt-2ghtqhbniut9g5d-e18507d4.webp": {
       "sha256": "58063958b7b77081fa0da6ea4d5d441b1990a266bd2fc2d3ba0490e9a27e97eb",
       "status": "optimized"
@@ -4497,16 +4489,8 @@
       "sha256": "06203799368ff1f92a8d96693ed27b2bb281c97767c97a214cb31a3b2d19ddec",
       "status": "optimized"
     },
-    "/events/token2049-evt-cx1lalpzxi5ssdf-2cba10dd.webp": {
-      "sha256": "d3e34eff4f6687c88bed02ed439c50c95698c2936df6eb35c954a78a1ffc76cf",
-      "status": "optimized"
-    },
     "/events/token2049-evt-hibdrddywiqlsxw-1593d80a.webp": {
       "sha256": "6df86f3b4102bc54d85be3663b105f2c9ac7c68882896993ebe6ed0f718e9da4",
-      "status": "optimized"
-    },
-    "/events/token2049-evt-hoyb8ks7i2albf2-b0355e80.webp": {
-      "sha256": "6258b89b31e28a30b7f687b6ee6850676a7832e6ba41f6bf7b666af681f3a1df",
       "status": "optimized"
     },
     "/events/token2049-evt-jaa6pcgwwk21efw-37958b4b.webp": {
@@ -4568,10 +4552,6 @@
     "/events/token2049-side-6a739ce35a75007b41001095-cd08b915.webp": {
       "sha256": "c15ed96293bd45f8ee16dc9a916e6378484f8f6a639cb1cd45254735645189d5",
       "status": "optimized"
-    },
-    "/events/token2049-side-6aa17432967be0befa88d00d-5c89f1a9.webp": {
-      "sha256": "20b61c5c2243c3766273d69060712ca724070019039f66260eb05a0c2424b8f7",
-      "status": "retained"
     },
     "/events/token2049-side-6aa1744c967be0befa88d013-280aa649.webp": {
       "sha256": "cdc40676a1a150cbc7ac0d23f53c4d717ed68ee2a1a76a870285d2c5113f96ee",
@@ -4765,10 +4745,6 @@
       "sha256": "35ae3c5f79ba072bea15de651fba35819697a7a54d6bf770084746575cb46fd8",
       "status": "optimized"
     },
-    "/events/w3v-crypto-syndicate-party-b92ab1a1.webp": {
-      "sha256": "b46582bf66ac9287850ccfb016469d8131071cf393724573bc20ddc17d1bb980",
-      "status": "optimized"
-    },
     "/events/w3v-crypto-worlds-fair-hackathon-by-colosseum-4b0c1d92.webp": {
       "sha256": "c2a3d9d5dc9ffbbe6db92ed877e9be6c09afee085accba43b017a995c9c65218",
       "status": "optimized"
@@ -4860,10 +4836,6 @@
     "/events/w3v-evening-lukka-das-london-edition-26-11-10-cf1a8134.webp": {
       "sha256": "53b4892bca527f39b97fd40ad037bc7c553983a57abf294d6a263997ea88ea79",
       "status": "optimized"
-    },
-    "/events/w3v-f1-sg-x-crypto-vc-qualifying-day-316d4438.webp": {
-      "sha256": "b50738ef30ff5c4ffc6c13a8e4121783c6ead986d4f078631257779794fd3f4f",
-      "status": "retained"
     },
     "/events/w3v-f1-sg-x-crypto-vc-race-day-ea6b347d.webp": {
       "sha256": "646a33d40a1cd110129ae7850f7d04efc2ce0399e54e4426c7c349efb2ce2aa9",
@@ -5052,10 +5024,6 @@
     "/events/w3v-pacific-table-what-you-seeing-that-26-10-19-3281bfad.webp": {
       "sha256": "49805dd1aa2e77e2c131a44e5c6fd0d4c4c5531f2d942d324484db253c189918",
       "status": "optimized"
-    },
-    "/events/w3v-padel-hangout-by-arc-trading-c4d79bb5.webp": {
-      "sha256": "0758d7fde1bfb14e6e7bc9945b6dabdc56e559abe9d7d1e036f621afd72846b0",
-      "status": "retained"
     },
     "/events/w3v-paytech-global-conference-2027-13-179313101922-38aa0d5f.webp": {
       "sha256": "4b5a2707515c7573d413bd7b83d929aba442e3a6b2a477b18711f9f1717788f2",

@@ -1367,18 +1367,6 @@
       "preview": "## Stablecoin Summit 26\n\nAsia's premier event for stablecoin innovation. We bring together government, institutions, fintech leaders, and blockchain pioneers to explore the future of digital money. Designed for enterprises and financial institutions engaged in high-volume cross-border payments, we focus on real-world use cases, trustless transactions, transparency, and security. Join us for expert insights, technical deep dives, and top-tier networking."
     },
     {
-      "id": "token2049-side-6a739c525a75007b4100108c",
-      "file": "events-cache.json",
-      "name": "F1 Sprint Race and Grand Prix Qualifying",
-      "status": "unavailable",
-      "attempts": [
-        {
-          "url": "https://singaporegp.sg/en",
-          "reason": "event-not-matched"
-        }
-      ]
-    },
-    {
       "id": "token2049-side-6a739ce35a75007b41001095",
       "file": "events-cache.json",
       "name": "F1 Singapore Grand Prix Night Race",

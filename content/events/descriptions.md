@@ -4138,100 +4138,6 @@ Time Heist by Zusei.com is scheduled for 5 October 2026 at 13:00 (Asia/Singapore
 
 Registration is listed as free.
 
-<a id="event-2792cb7cd283e1ef"></a>
-
-## F1 Watch Party — Singapore 🇸🇬🏎️
-
-- Record: `token2049-evt-z7Av1XwAUIE4BG4`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-10T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/jxrnlqry>
-
-### About the event
-
-F1 Watch Party - Singapore 🇸🇬 is scheduled for 10 October 2026 at 15:00 (Asia/Singapore) in Singapore. Hosted by Blockchain Expo.
-
-Registration requires host approval. Registration is listed as free.
-
-<a id="event-60c4d8887f75b23b"></a>
-
-## Ethene Labs Presents: Live F1 Singapore Grand Prix Party
-
-- Record: `token2049-evt-cX1lalPzxi5SsdF`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-10T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/20ybvogw>
-
-### About the event
-
-Ethene Labs Presents: Live F1 Singapore Grand Prix Party is scheduled for 10 October 2026 at 16:00 (Asia/Singapore) in Singapore. Hosted by Ethene Labs, Ben Wee.
-
-Calling all friends of Ethene Labs - watch the 2026 Singapore Grand Prix in style; no ticket required.
-
-The hack: You don't need an F1 ticket to get into the hotel - and our board room lets you watch the race from right above the track. (Note: if you want to walk around inside the actual event area/track zone, you'll need an official ticket for that - but for watching the race from our spot, you're all set.)
-
-Come for the racing, stay for the drinks and company.
-
-This F1 watch party is by invitation only.
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
-<a id="event-b49dcd83caf70d68"></a>
-
-## Vibrez × La Royale \| Sprint & Qualifying Watch Party
-
-- Record: `token2049-evt-oDCoeJ758lzKijb`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-10T08:15:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/vhdndvhn>
-
-### About the event
-
-Vibrez × La Royale | Sprint & Qualifying Watch Party is scheduled for 10 October 2026 at 16:15 (Asia/Singapore) in Singapore. Hosted by Vibrez !.
-
-Enjoy live race coverage, drinks, food and conversation with founders, investors, partners and friends of Vibrez.
-
-Joining us from Saturday's dockside yacht event?
-
-Transport will be arranged from MYKONOS at ONE°15 Marina, Sentosa Cove, to La Royale's office at Millenia Tower for guests with an approved RSVP to this watch party.
-
-Registration is subject to approval.
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
-<a id="event-b67a3c92f19cf755"></a>
-
-## ONLINE TOKEN2049: GetBlock Team Insights
-
-- Record: `token2049-evt-HOyb8kS7i2AlBf2`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-10T13:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/oq4ncz5u>
-
-### About the event
-
-[ONLINE] TOKEN2049: GetBlock Team Insights is scheduled for 10 October 2026 at 21:00 (Asia/Singapore). Hosted by Vladislav Sopov.
-
-Registration is listed as free.
-
-<a id="event-198fbb8e7241cd58"></a>
-
-## Il Divo Gala Dinner \| BIG ART FESTIVAL Singapore.
-
-- Record: `token2049-343edc72c451f7f2`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-10T20:00:00+08:00
-- Description: Source-backed
-- Original page: <https://toniq.events/e/il-divo-gala-singapore>
-
-### About the event
-
-Il Divo Gala Dinner | BIG ART FESTIVAL Singapore. is scheduled for 10 October 2026 at 20:00 (Asia/Singapore) in Singapore. Hosted by Berin Iglesias Art LLC.
-
 <a id="event-c4c2c2cec52d7a99"></a>
 
 ## The Lion City Michelin Food Race 2026 - 11 Oct Register Interest
@@ -15467,32 +15373,6 @@ Königsberger Bridges Institute Hong Kong is the Hong Kong chapter of KBI. We br
 
 Through ETO Eastern, KBI Hong Kong is building a platform where students can showcase what they have built, learn from experts, meet collaborators, and take part in conversations about the future of technology.
 
-<a id="event-ff0997225fa6d340"></a>
-
-## UKRAINIAN DEMO DAY \| Kyiv
-
-- Record: `luma-batch-asZtVgB6WBDcpt6`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-10T12:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/demodaykyiv>
-
-### About the event
-
-Вирішальний момент - запітчи свій проєкт та отримай додаткові призи!
-
-Хакатон завершується, і до закриття сабмітів проєктів на Colosseum залишається зовсім трохи. Ті з вас, хто вже зможе показати своє MVP та запітчити нам, можуть позмагатися за додаткові призи окрім пулу на Ukrainian Sidetrack.SOLANA DEMO:
-
-1 місце - $1000 2 місце - $500 3 місце - $200
-
-+ OPEN TRACK:[для проєктів на інших блокчейнах, кросчейн-рішень і не web3-продуктів] 1 місце - $500 2 місце - $200 3 місце - $100
-
-Перше місце отримає ідеальний пітч та готове MVP, демо якого ви продемонструєте.Рекомендуємо спланувати свою роботу під час хакатону так, аби на Demo Day ви вже мали готові пітчі. Отримаєте тут фідбек, та ще буде трохи часу, щоб покращити ваші подачі на Colosseum. Тож ловіть можливість, бо будь-яка робота має винагороджуватися!Пітчити лише англійською Підготуй пітчдек Демо продукту може бути в записі або продемонструй в лайві PROOF OF MONEY тут!
-
-Адженда:
-
-15:00 - 18:00 | Demo пітчі18:00 - 19:00 | Нетворкінг та напої
-
 <a id="event-1b4c4a18a4196279"></a>
 
 ## Decentralized AI Day New York - #AIWeekNY
@@ -19796,265 +19676,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Original page: <https://luma.com/StplBuildStation>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-95df215e33d18bc3"></a>
-
-## F1 SG x Crypto VC - Qualifying Day
-
-- Record: `w3v-f1-sg-x-crypto-vc-qualifying-day`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-10T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/48ko0wni>
-
-### About the event
-
-A private gathering of capital, founders, and industry leaders during TOKEN2049 Week - with the view of F1 Singapore.
-
-F1 SG X Crypto VC brings together a carefully selected group of leading VCs, investors, founders, and key figures from the global crypto ecosystem for an evening built around meaningful conversations and high-value connections.
-
-No crowded rooms. No endless panels. No noise.
-
-Just the right people, with an unforgettable view of F1 Singapore.
-
-The Room
-
-Expect a carefully curated mix of:
-
-- Leading crypto and Web3 venture capitalists
-- Institutional and private investors
-- Founders building the next generation of companies
-- Family offices and strategic capital
-- Senior industry executives
-- Key players across finance, technology, and Web3
-
-The Experience-
-
-An unforgettable view of F1 Singapore
-
-Discuss new investment opportunities.
-
-Meet potential founders and investors.
-
-Explore strategic partnerships.
-
-Exchange perspectives on where the market is heading.
-
-Build relationships beyond the usual conference introduction.
-
-Come for the room.
-
-Stay for the conversations.
-
-Leave with relationships that matter.
-
-F1 SG X Crypto VC
-
-Singapore - TOKEN2049 Week
-
-<a id="event-9d19ab0814023dbd"></a>
-
-## Padel Hangout by Arc Trading
-
-- Record: `w3v-padel-hangout-by-arc-trading`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-10T10:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/nt0j0ptg>
-
-### About the event
-
-Arc Trading is hosting a padel hangout on 10 October - a break from the conference grind while the industry lingers in Singapore for TOKEN2049 and the F1 weekend.
-
-Four courts at one of the best padel clubs in Singapore, just 10 minutes from the city center. Come to compete or simply rally, grab a beer, and hang out. Beginner coaching is available on site, with rackets and balls provided.
-
-The program
-
-- 4 padel courts, 10 minutes from the city center
-- Level-based tournament
-- Beginner coaching on site
-- Lounge & social area
-- Beer, soft drinks & snacks
-- Off-court activities, icebreakers, and mini contests
-- Rackets & balls provided
-
-Who's coming
-
-We're bringing together a curated mix of people from across the crypto ecosystem - VCs, launchpads, advisors, founders, ecosystem partners, and digital asset projects.
-
-Expect a mix of people we already work with, partners who regularly connect projects and opportunities, and teams we'd simply like to get to know better.
-
-The idea is simple: good people, padel, a few beers, and conversations without conference booths or packed meeting schedules.
-
-Guests
-
-Every guest applies and is approved individually. No plus-ones, no walk-ins. The venue is shared with approved guests only.
-
-### About Arc Trading
-
-Arc Trading is a crypto market-making firm providing liquidity management, OTC execution, and market-making services for digital asset projects.
-
-[Learn more at arctrading.io](https://arctrading.io).
-
-[Follow us on X](https://x.com/arctrading_io)[and LinkedIn](https://www.linkedin.com/company/arc-trading-markets/).
-
-<a id="event-def7b0f1d30d0692"></a>
-
-## Crypto Syndicate Party
-
-- Record: `w3v-crypto-syndicate-party`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-10T11:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/pohccu99>
-
-### About the event
-
-Crypto Syndicate Party - TOKEN2049 Side Event
-
-Welcome to Crypto Syndicate Party, one of the most anticipated networking experiences happening alongside TOKEN2049.
-
-This isn't just another crypto meetup.
-
-It's a massive gathering of founders, investors, builders, traders, Web3 leaders, creators, operators, and some of the most influential people across the global crypto ecosystem - all coming together for an unforgettable night of high-quality networking, drinks, food, music, and energy.
-
-Whether you're building the next big protocol, investing in the future of Web3, scaling a crypto company, exploring new partnerships, or simply looking to meet the right people during TOKEN2049 - this is where you want to be.
-
-Music That Sets the Night Apart
-
-We're bringing a top-tier DJ and music setup to make this one of the standout nights of TOKEN2049 week.
-
-Expect an energetic atmosphere, great sound, and a dance floor built for people who know how to enjoy themselves after a long day of meetings, panels, deals, and networking.
-
-Drinks & Great Food
-
-Enjoy a selection of drinks, cocktails, and quality food throughout the event while connecting with people from across the ecosystem.
-
-No formal conference setting.
-
-No endless presentations.
-
-No awkward networking lines.
-
-Just great people, good conversations, excellent food and drinks, and a serious party atmosphere.
-
-Crypto Syndicate Party
-
-TOKEN2049 Side Event
-
-One night. One room. One massive crypto network.
-
-Limited capacity. Registration is required.
-
-<a id="event-ee52038eded31533"></a>
-
-## The Invite
-
-- Record: `token2049-side-6aa17432967be0befa88d00d`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-10T12:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/tbe-zoth-f1>
-
-### About the event
-
-The Invite: An exclusive evening of Formula 1 qualifying and networking to end Token2049 week in style.
-
-Key decision makers who shape our industry as builders, founders and funds gather in a private penthouse suite with unobstructed views of the Marina Bay Circuit.
-
-The Experience
-
-- Panoramic penthouse balcony views over the circuit for the qualifying session
-- A short guest list of founders, C-suite, funds and allocators, the people partnerships get signed with
-
-### Details
-
-Saturday 10 October 2026. Qualifying day. 8pm.
-
-Invite-only.
-
-Token2049's most exclusive ticket. Kept deliberately small, a room building crypto's next chapter, from the best seats in the house.
-
-RSVP required. Attendance by invitation only.
-
-### About Your Hosts
-
-[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
-
-[Zoth](https://zoth.io/?utm_source=luma) is the privacy-first stablecoin neobank for the Global South and the agentic economy. Move it, hold it, grow it: cross-border payments through zPayments, a stablecoin account, and institutional yield through zVaults, now with AI agents that execute while you approve. The first neobank to launch tokenized equities, in partnership with Coinbase. $500M+ processed on licensed, regulated rails, including Money Transmitter Licenses across 50 US states and a NY BitLicense through our Bakkt partnership.
-
-[Movement](https://www.movementnetwork.xyz/) is the global settlement and yield layer for emerging markets, built on Move, the programming language designed to secure financial assets. Neobanks, fintechs, and payment platforms use Movement to deliver instant cross-border settlement, dollar savings, and stablecoin-powered financial products without relying on slow, capital-heavy remittance rails.
-
-Sponsored By:
-
-[Taisu Ventures](https://www.taisu.io/) is a venture capital firm that invests in & empowers early-stage web3 companies across the globe.
-
-[Selini](https://www.selinicapital.com/)is a global trading firm focused on systematic trading and venture investing - all within the digital assets space.
-
-<a id="event-50522e1010c9cadb"></a>
-
-## ONLINE TOKEN2049: GetBlock Team Insights
-
-- Record: `luma-host-evt-evt-HOyb8kS7i2AlBf2`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-10T13:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/oq4ncz5u>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-5c6caa12784e6fb8"></a>
-
-## TOKEN2049: GetBlock Team Insights
-
-- Record: `w3v-online-token2049-getblock-team-insights-26-10-10`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-10T13:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/oq4ncz5u>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-77be49d2a9c6eb08"></a>
-
-## Unidos Por La Cultura Celebration
-
-- Record: `luma-evt-xlJmFTmUDfpNHCg`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-10T15:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/ekj70iw7>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-5c17342e0737fce3"></a>
-
-## F1 Sprint Race and Grand Prix Qualifying
-
-- Record: `token2049-side-6a739c525a75007b4100108c`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-10T17:00:00+08:00
-- Description: Source-backed
-- Original page: <https://singaporegp.sg/en>
-- Original page: <https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE>
-
-### About the event
-
-Saturday's Formula 1 program at the 2026 Singapore Grand Prix includes the Sprint and Grand Prix qualifying at the Marina Bay Street Circuit.
-
-### Saturday, 10 October
-
-The track program runs on local Singapore time: the Porsche Carrera Cup Asia qualifying session at 15:00-15:30, the Formula 1 Sprint of 21 laps or 60 minutes at 17:00-17:30, the Formula 1 press conference at 17:30-18:00, the Porsche Carrera Cup Asia first race at 19:45-20:20, the Grand Prix qualifying session at 21:00-22:00, and a further press conference at 22:00-23:00.
-
-### Circuit
-
-The night race takes place at the 4.927-kilometre Marina Bay Street Circuit. The official timetable is subject to change.
-
-The Marina Bay Circuit arrived on the scene in 2008 with the city skyline as its backdrop, hosting the first night-time race in Formula 1 history. After a 2023 layout change the lap runs 19 corners over 4.927 kilometres, and the bumpy street surface plus humidity make it one of the most physically demanding races on the calendar.
-
-### Following the weekend
-
-The sessions can be followed live on F1 TV, with tickets and hospitality packages available through Formula 1 official channels.
 
 <a id="event-5d17d8c3d7fa0af5"></a>
 
@@ -29530,6 +29151,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-c2646513b001ffda"></a>
+
+## Convergence: Onchain Finance Soirée at DAS London
+
+- Record: `luma-evt-i1tMtsPFib0VzBF`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-10T16:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/convergence-onchain-finance-das-london>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-cedaee74d37b2cbb"></a>
 
 ## Solana For Students - Ukraine 🇺🇦
@@ -29887,6 +29520,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-11T16:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/98p1jkyf>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-86b118f151e49038"></a>
+
+## Identifying your Niche w/ Nicole Gurley
+
+- Record: `luma-evt-2vfJvhCNnZareyP`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-11T17:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/mz2zfyjo>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -31914,6 +31559,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-a77bb66ba20da1cc"></a>
+
+## Antidote Literary Salon
+
+- Record: `luma-evt-8FfC1JokxGbavTV`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-17T02:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/gpghxftx>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-bf4e4e1206ce617c"></a>
 
 ## Future of Web3 2026 - Intersection of AI & Blockchain
@@ -33399,6 +33056,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-08T15:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/SolanaAfterDarkSEZ>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-f1aa877c1af260e6"></a>
+
+## The Year-End Reset for Founders: Close Out 2026, Plan 2027 w/ Nicole Doyle
+
+- Record: `luma-evt-MkiMR5HAyOlQeZ8`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-08T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/nhonnwh4>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
