@@ -123962,6 +123962,35 @@
       "attemptId": "32511471-0b1d-4c38-a5ed-d83166eeb901",
       "verification": "verified",
       "postId": "urn:li:share:7525647748117991424"
+    },
+    {
+      "slug": "dmra2",
+      "company": "OKX",
+      "title": "Director, Model Risk - AI & Fraud",
+      "platform": "facebook",
+      "postedAt": "2026-11-09T19:53:49.431Z",
+      "expectedText": "OKX is hiring Director, Model Risk - AI & Fraud: https://hashtagweb3.com/dmra2/fb?og=7",
+      "snapshot": {
+        "id": "8184389003",
+        "title": "Director, Model Risk - AI & Fraud",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8184389003",
+        "date": "2026-11-03T19:34:31-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "San Jose, CA",
+        "department": "Risk",
+        "active": true,
+        "salary": "$200k – $300k/yr",
+        "dateVerified": true,
+        "slug": "dmra2"
+      },
+      "payload": {
+        "message": "OKX is hiring Director, Model Risk - AI & Fraud: https://hashtagweb3.com/dmra2/fb?og=7",
+        "link": "https://hashtagweb3.com/dmra2/fb?og=7"
+      },
+      "attemptId": "b936d714-82da-4567-848f-f122c19c9fca",
+      "verification": "creating"
     }
   ]
 }
