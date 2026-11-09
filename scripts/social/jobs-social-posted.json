@@ -123759,7 +123759,8 @@
       },
       "account": "channel:product",
       "attemptId": "774db405-fa95-45f4-955d-512deff5b9ef",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa547c8a0c4e07ce55eb238cd3b254906c70f562b"
     }
   ]
 }
