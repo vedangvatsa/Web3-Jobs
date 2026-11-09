@@ -3375,5 +3375,36 @@
     "slotKey": "2026-11-09:morning",
     "messageId": 156152,
     "sentAt": "2026-11-09T03:33:30.256Z"
+  },
+  "ff85c4e1-22e4-4e34-bdc4-0799cd31a7fc": {
+    "status": "reserved",
+    "reservedAt": "2026-11-09T11:33:23.026Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "White House Reviews DOL Rule on 401(k) Crypto Investments",
+        "summary": "The regulation grants plan managers safe harbor protection when offering alternative assets like cryptocurrency to retirement accounts.",
+        "link": "https://hashtagweb3.com/dolrule?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "DOL Final Rule on Crypto in 401(k)s Reaches White House Review"
+      },
+      {
+        "index": -1,
+        "headline": "Greece passes law taxing crypto gains and staking rewards",
+        "summary": "Starting January 2027, annual gains over 500 euros face 10% tax while staking income is taxed at 15%.",
+        "link": "https://hashtagweb3.com/greecetax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Greece passes crypto tax law with 10% gains levy and 15% rate on staking"
+      },
+      {
+        "index": -1,
+        "headline": "Thailand SEC Files Complaint Against Bitget Operator",
+        "summary": "Regulators cited unlicensed trading from 2022 to 2025 and requested a government block starting Dec. 5.",
+        "link": "https://hashtagweb3.com/bitgetsec?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Thailand SEC Files Criminal Complaint Against Bitget Operator"
+      }
+    ],
+    "slotKey": "2026-11-09:afternoon"
   }
 }
