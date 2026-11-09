@@ -125609,6 +125609,47 @@
       "verification": "verified",
       "postId": "6af2284d398ae91929ac47d8",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7525650701088210944"
+    },
+    {
+      "slug": "cmp17",
+      "company": "Ondo Finance",
+      "title": "Compliance Senior Associate",
+      "platform": "linkedin",
+      "postedAt": "2026-11-09T20:05:46.595Z",
+      "expectedText": "Ondo Finance is hiring Compliance Senior Associate: https://hashtagweb3.com/cmp17/li?og=7",
+      "snapshot": {
+        "id": "4466961009",
+        "title": "Compliance Senior Associate",
+        "company": "Ondo Finance",
+        "link": "https://job-boards.greenhouse.io/ondofinance/jobs/4466961009",
+        "date": "2026-10-26T01:42:22-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ondo Finance [ondofinance]",
+        "location": "Remote",
+        "department": "Legal",
+        "active": true,
+        "dateVerified": true,
+        "slug": "cmp17"
+      },
+      "payload": {
+        "text": "Ondo Finance is hiring Compliance Senior Associate: https://hashtagweb3.com/cmp17/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/cmp17/li?og=7",
+          "title": "Compliance Senior Associate at Ondo Finance",
+          "description": "Join Ondo Finance as Compliance Senior Associate. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/cmp17.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "0c0faf14-22f5-437d-88fa-03b6fc8f8514",
+      "verification": "creating"
     }
   ]
 }
