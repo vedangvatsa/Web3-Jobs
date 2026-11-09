@@ -148118,9 +148118,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "50936c50962493a3612d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-09T17:30:00.000Z",
       "lastSeenAt": "2026-11-07T03:31:47.358Z",
       "articleSlug": "bitgetsec",
@@ -148146,7 +148146,25 @@
         "updatedAt": "2026-11-09T03:39:43.031Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Bitcoin Magazine and crypto.news in full; both cover the Nov. 5 Thai SEC criminal complaint against BG Limited and the Dec. 5 access block. Thai SEC primary page returned 403; drafted from the two independent reports. Drafted article with self-hosted Wikimedia photo; quality, formatting, image and duplicate audits pass.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/thailand-sec-bitget-criminal-dec-5",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/thailand-block-bitget-unlicensed-crypto-trading",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sec.or.th/EN/Pages/News_Detail.aspx?SECID=13530",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-09T03:51:41.322Z",
+      "lastReviewedDay": "2026-11-09"
     },
     "8b38dca2880737681ed5": {
       "source": "Bitcoin Magazine",
@@ -290232,6 +290250,27 @@
           ],
           "reviewedAt": "2026-11-09T03:44:43.116Z",
           "articleSlug": "greecetax"
+        },
+        "50936c50962493a3612d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Bitcoin Magazine and crypto.news in full; both cover the Nov. 5 Thai SEC criminal complaint against BG Limited and the Dec. 5 access block. Thai SEC primary page returned 403; drafted from the two independent reports. Drafted article with self-hosted Wikimedia photo; quality, formatting, image and duplicate audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/thailand-sec-bitget-criminal-dec-5",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/thailand-block-bitget-unlicensed-crypto-trading",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.or.th/EN/Pages/News_Detail.aspx?SECID=13530",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-09T03:51:41.322Z",
+          "articleSlug": "bitgetsec"
         }
       },
       "baselineSlugs": [
