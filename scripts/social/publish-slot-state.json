@@ -815,6 +815,28 @@
         "rolloutState": "SUCCEEDED",
         "confirmedAt": "2026-11-08T12:23:53.336Z"
       }
+    ],
+    "2026-11-09": [
+      {
+        "date": "2026-11-09",
+        "id": "42556741304-1",
+        "sourceCommit": "5d7904a426cd0cd77f009a487f3a458d66ce000a",
+        "jobsCheckedAt": "2026-11-09T03:41:05.474Z",
+        "newsCompletedAt": "2026-11-09T05:18:16.790Z",
+        "articleSlugs": [
+          "greecetax",
+          "bitgetsec",
+          "dolrule",
+          "cbnstablecoin",
+          "binanceseal",
+          "secdraft",
+          "gnosisbreach"
+        ],
+        "phase": "building",
+        "startedAt": "2026-11-09T05:19:22.683Z",
+        "buildId": "daily-20261109-42556741304-1",
+        "rolloutId": "daily-20261109-42556741304-1"
+      }
     ]
   }
 }
