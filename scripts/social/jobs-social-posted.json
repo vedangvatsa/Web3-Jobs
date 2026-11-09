@@ -122423,7 +122423,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "ec1f3c4d-fbab-4b1a-8d7a-8efc26bf46e2",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x64b304de538ebaacbe9441ecaa1995658d01c705"
     }
   ]
 }
