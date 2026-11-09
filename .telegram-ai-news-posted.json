@@ -905,6 +905,9 @@
   "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
   "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
   "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+  "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+  "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+  "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2496,6 +2499,12 @@
   "The climate case for AI has not been made",
   "Russia plans underground data centers to protect against drone strikes",
   "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+  "Anthropic releases new Mythos and Fable AI models",
+  "Anthropic releases new Mythos and Fable models amid RSI concerns",
+  "Chinese AI models demonstrate advanced cybersecurity hacking capabilities",
+  "Free Chinese AI Models Are Getting Scary Good at Hacking",
+  "Disney and Adobe partner to develop generative AI tools",
+  "Disney and Adobe are building generative AI tools together",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2918,5 +2927,8 @@
   "fp:agent|airbnb|assist|book|by2027|customer|half|management|of2027|plan",
   "fp:anti|argu|backlash|bia|big|blam|claim|concern|driven|infrastructur",
   "fp:address|cas|climat|conferenc|delegat|demand|energy|environmental|gather|grow",
-  "fp:aerial|against|are|attack|below|center|data|digital|dron|ground"
+  "fp:aerial|against|are|attack|below|center|data|digital|dron|ground",
+  "fp:anthropic|cod|concern|enterpris|fabl|improv|mytho|performanc|provid|reason",
+  "fp:advanc|are|automat|capability|china|chines|cybersecurity|demonstrat|exploitation|fre",
+  "fp:adob|are|artist|build|collaboration|creat|develop|disney|focus|generativ"
 ]
