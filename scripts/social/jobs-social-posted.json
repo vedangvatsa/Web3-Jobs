@@ -124723,6 +124723,46 @@
       "verification": "verified",
       "postId": "6af2273d398ae91929abc4bb",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7525649560807858177"
+    },
+    {
+      "slug": "ops134",
+      "company": "StraitsX",
+      "title": "Commercial Revenue Operations Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-09T20:01:48.399Z",
+      "expectedText": "StraitsX is hiring Commercial Revenue Operations Manager: https://hashtagweb3.com/ops134/li?og=7",
+      "snapshot": {
+        "id": "5024599101",
+        "title": "Commercial Revenue Operations Manager",
+        "company": "StraitsX",
+        "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5024599101",
+        "date": "2026-11-02T01:05:38-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: StraitsX [straitsx]",
+        "location": "Singapore",
+        "department": "STX - Commercial",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops134"
+      },
+      "payload": {
+        "text": "StraitsX is hiring Commercial Revenue Operations Manager: https://hashtagweb3.com/ops134/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ops134/li?og=7",
+          "title": "Commercial Revenue Operations Manager at StraitsX",
+          "description": "Join StraitsX as Commercial Revenue Operations Mana. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ops134.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "3529c920-8e55-4f25-b6cd-4b73f64f3f63",
+      "verification": "creating"
     }
   ]
 }
