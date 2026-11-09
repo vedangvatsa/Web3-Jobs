@@ -3614,7 +3614,7 @@
     "sentAt": "2026-11-09T11:36:07.731Z"
   },
   "ba85603a-9960-4714-9936-2a423a509394": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-09T19:54:19.880Z",
     "stories": [
       {
@@ -3643,6 +3643,8 @@
         "originalTitle": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report"
       }
     ],
-    "slotKey": "2026-11-09:evening"
+    "slotKey": "2026-11-09:evening",
+    "messageId": 65817,
+    "sentAt": "2026-11-09T19:54:31.938Z"
   }
 }

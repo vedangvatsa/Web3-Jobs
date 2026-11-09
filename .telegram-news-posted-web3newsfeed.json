@@ -959,6 +959,9 @@
   "https://hashtagweb3.com/dolrule?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/nearvote?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/tetherq3?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/tradertraitor?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
+  "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2776,6 +2779,12 @@
   "NEAR holders approve 1.6% issuance cap, with validators still to act",
   "Tether Reports $1.5 Billion Third-Quarter Operating Profit",
   "Tether Reports $1.5 Billion Q3 Operating Profit as Reserve Buffer Nears $8 Billion",
+  "Chainalysis Links $6.4 Billion Binance Theft to North Korea",
+  "Chainalysis Ties $6.4 Billion Binance Hack to North Korea",
+  "US Senate sets deadline for crypto firms to provide records",
+  "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
+  "Bitcoin Stagnates as Investors Await US Inflation Data",
+  "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -3264,5 +3273,8 @@
   "fp:capital|cryptocurrency|decentraliz|financ|framework|gain|greec|how|implement|incom",
   "fp:alternativ|asset|dol|final|giv|harbor|hous|in401|manager|offer",
   "fp:act|annual|approv|approve16|await|cap|ceil|final|holder|hsp029",
-  "fp:15b|795b|agreement|bill|buffer|drov|earn|near|operat|profit"
+  "fp:15b|795b|agreement|bill|buffer|drov|earn|near|operat|profit",
+  "fp:28b|64b|asset|binanc|chainalysis|frozen|group|hack|hav|identifi",
+  "fp:action|animal|binanc|coin|committe|deadlin|documentation|elon|fac|firm",
+  "fp:000|affect|ahead|await|data|economic|federal|inflation|investor|limbo"
 ]
