@@ -147988,7 +147988,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "7878397babd6dcc7d218",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
       "attempts": 1,
       "expiresAt": "2026-11-09T20:36:03.000Z",
@@ -148030,7 +148030,8 @@
         }
       ],
       "reviewedAt": "2026-11-09T03:44:43.116Z",
-      "lastReviewedDay": "2026-11-09"
+      "lastReviewedDay": "2026-11-09",
+      "publishedAt": "2026-11-09T05:18:16.790Z"
     },
     "f995552b5d5d204bddb4": {
       "source": "Decrypt",
@@ -148118,7 +148119,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "50936c50962493a3612d",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
       "attempts": 1,
       "expiresAt": "2026-11-09T17:30:00.000Z",
@@ -148164,7 +148165,8 @@
         }
       ],
       "reviewedAt": "2026-11-09T03:51:41.322Z",
-      "lastReviewedDay": "2026-11-09"
+      "lastReviewedDay": "2026-11-09",
+      "publishedAt": "2026-11-09T05:18:16.790Z"
     },
     "8b38dca2880737681ed5": {
       "source": "Bitcoin Magazine",
@@ -148181,7 +148183,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "8b38dca2880737681ed5",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
       "attempts": 1,
       "expiresAt": "2026-11-09T15:09:02.000Z",
@@ -148227,7 +148229,8 @@
         }
       ],
       "reviewedAt": "2026-11-09T03:55:28.970Z",
-      "lastReviewedDay": "2026-11-09"
+      "lastReviewedDay": "2026-11-09",
+      "publishedAt": "2026-11-09T05:18:16.790Z"
     },
     "f9902cdef583f113830c": {
       "source": "The Defiant",
@@ -148315,7 +148318,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "61c907d838b017ad2384",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
       "attempts": 1,
       "expiresAt": "2026-11-09T13:30:00.000Z",
@@ -148361,7 +148364,8 @@
         }
       ],
       "reviewedAt": "2026-11-09T04:06:12.767Z",
-      "lastReviewedDay": "2026-11-09"
+      "lastReviewedDay": "2026-11-09",
+      "publishedAt": "2026-11-09T05:18:16.790Z"
     },
     "08908f748527d5dfb303": {
       "source": "CoinDesk",
@@ -148418,7 +148422,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "82da0e4185b24d7dad8f",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
       "attempts": 1,
       "expiresAt": "2026-11-09T11:26:30.000Z",
@@ -148464,7 +148468,8 @@
         }
       ],
       "reviewedAt": "2026-11-09T04:17:37.004Z",
-      "lastReviewedDay": "2026-11-09"
+      "lastReviewedDay": "2026-11-09",
+      "publishedAt": "2026-11-09T05:18:16.790Z"
     },
     "6a446f8c3d4facfc3743": {
       "source": "Cointelegraph",
@@ -148512,7 +148517,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "163db1d20c1a1d08aee0",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
       "attempts": 1,
       "expiresAt": "2026-11-09T10:30:33.000Z",
@@ -148554,7 +148559,8 @@
         }
       ],
       "reviewedAt": "2026-11-09T04:10:46.168Z",
-      "lastReviewedDay": "2026-11-09"
+      "lastReviewedDay": "2026-11-09",
+      "publishedAt": "2026-11-09T05:18:16.790Z"
     },
     "bd9cea951bd811cec93b": {
       "source": "CryptoSlate",
@@ -148571,7 +148577,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "bd9cea951bd811cec93b",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
       "attempts": 1,
       "expiresAt": "2026-11-10T03:30:04.000Z",
@@ -148600,8 +148606,8 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "verified-event",
-      "note": "Verified Bitquery's Nov 5 investigation, CryptoSlate's Nov 7 report and DailyCoin's Nov 6 coverage; all three read, distinct hero self-hosted from Wikimedia, 706-word draft passes quality, formatting, image and duplicate audits; iphone-spyware.md covers a different Oct 14 iVerify event.",
+      "reason": "quality-gate",
+      "note": "Actual article audits still failed after bounded repair attempts: Source link HTTP 403: https://dailycoin.com/darksword-iphone-exploit-4m-crypto-theft. Draft and original source checks are retained for repair; this article was not published.",
       "sourceChecks": [
         {
           "url": "https://www.bitquery.io/investigations/iphone-wallet-drain-tron-usdt",
@@ -148616,8 +148622,39 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-09T04:20:54.621Z",
-      "lastReviewedDay": "2026-11-09"
+      "reviewedAt": "2026-11-09T05:17:59.812Z",
+      "lastReviewedDay": "2026-11-09",
+      "retrySearches": [
+        "Repair and revalidate the preserved iosdrains draft against its original sources: Source link HTTP 403: https://dailycoin.com/darksword-iphone-exploit-4m-crypto-theft"
+      ],
+      "nextReviewDate": "2026-11-10",
+      "qualityIsolation": {
+        "previousReview": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Bitquery's Nov 5 investigation, CryptoSlate's Nov 7 report and DailyCoin's Nov 6 coverage; all three read, distinct hero self-hosted from Wikimedia, 706-word draft passes quality, formatting, image and duplicate audits; iphone-spyware.md covers a different Oct 14 iVerify event.",
+          "sourceChecks": [
+            {
+              "url": "https://www.bitquery.io/investigations/iphone-wallet-drain-tron-usdt",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/zero-click-ios-exploits-drain-4m-usdt-from-active-tron-wallets/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://dailycoin.com/darksword-iphone-exploit-4m-crypto-theft",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-09T04:20:54.621Z",
+          "articleSlug": "iosdrains"
+        },
+        "validationErrors": [
+          "Source link HTTP 403: https://dailycoin.com/darksword-iphone-exploit-4m-crypto-theft"
+        ],
+        "isolatedAt": "2026-11-09T05:17:59.812Z"
+      }
     },
     "7b33b5305d4acb33589d": {
       "source": "Crypto Briefing",
@@ -148705,7 +148742,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "1285c91006e6365559d4",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
       "attempts": 1,
       "expiresAt": "2026-11-09T20:51:23.000Z",
@@ -148755,7 +148792,8 @@
         }
       ],
       "reviewedAt": "2026-11-09T04:26:20.699Z",
-      "lastReviewedDay": "2026-11-09"
+      "lastReviewedDay": "2026-11-09",
+      "publishedAt": "2026-11-09T05:18:16.790Z"
     },
     "d15a3cc319f175de228b": {
       "source": "The Block",
@@ -286872,7 +286910,7 @@
     "2026-11-09": {
       "day": "2026-11-09",
       "startedAt": "2026-11-09T03:31:35.284Z",
-      "status": "prepared",
+      "status": "incomplete",
       "candidateIds": [
         "f75c9954fce17e329299",
         "f11a7e8949a38bb7cabc",
@@ -290523,7 +290561,7 @@
           "reviewedAt": "2026-11-09T03:38:56.825Z"
         },
         "7878397babd6dcc7d218": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified the Nov 5 parliamentary passage and the 10%/15% rates across Decrypt, Reuters (read via Yahoo Finance mirror) and IMI Daily; drafted greecetax.md with self-hosted Wikimedia hero; quality, formatting, image, duplicate audits and tsc pass.",
           "sourceChecks": [
@@ -290541,10 +290579,11 @@
             }
           ],
           "reviewedAt": "2026-11-09T03:44:43.116Z",
-          "articleSlug": "greecetax"
+          "articleSlug": "greecetax",
+          "publishedAt": "2026-11-09T05:18:16.790Z"
         },
         "50936c50962493a3612d": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read Bitcoin Magazine and crypto.news in full; both cover the Nov. 5 Thai SEC criminal complaint against BG Limited and the Dec. 5 access block. Thai SEC primary page returned 403; drafted from the two independent reports. Drafted article with self-hosted Wikimedia photo; quality, formatting, image and duplicate audits pass.",
           "sourceChecks": [
@@ -290562,10 +290601,11 @@
             }
           ],
           "reviewedAt": "2026-11-09T03:51:41.322Z",
-          "articleSlug": "bitgetsec"
+          "articleSlug": "bitgetsec",
+          "publishedAt": "2026-11-09T05:18:16.790Z"
         },
         "8b38dca2880737681ed5": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read Bitcoin Magazine, bitbo.io and the reginfo.gov OIRA filing (RIN 1210-AC38, received 11/05/2026). Bloomberg Law paywalled, but two independent reports plus the primary filing verify the event. Drafted with self-hosted DOL building photo; audits pass.",
           "sourceChecks": [
@@ -290587,7 +290627,8 @@
             }
           ],
           "reviewedAt": "2026-11-09T03:55:28.970Z",
-          "articleSlug": "dolrule"
+          "articleSlug": "dolrule",
+          "publishedAt": "2026-11-09T05:18:16.790Z"
         },
         "791683fca2cea133d922": {
           "status": "rejected",
@@ -290650,7 +290691,7 @@
           "reviewedAt": "2026-11-09T04:02:26.891Z"
         },
         "61c907d838b017ad2384": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read the CBN's 169-page regulations PDF (text-extracted in scratch), Unchained's report and DeFi Prime's coverage; verified the offshore-issuer clause, class capital minimums, 2% buffer, 20% cash-deposit rule, fines and 180/30-day transition in the primary text. Drafted cbnstablecoin.md with a self-hosted Wikimedia photo; quality, image, formatting and duplicate audits pass and all four outbound links return 200.",
           "sourceChecks": [
@@ -290668,10 +290709,11 @@
             }
           ],
           "reviewedAt": "2026-11-09T04:06:12.767Z",
-          "articleSlug": "cbnstablecoin"
+          "articleSlug": "cbnstablecoin",
+          "publishedAt": "2026-11-09T05:18:16.790Z"
         },
         "163db1d20c1a1d08aee0": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read Unchained's report, the OIRA review record (RIN 3235-AN48, received Nov. 3, economically significant, no legal deadline) and the SEC unified agenda entry (Rules 15c3-1, 15c3-3, 17a-3, 17a-4, NPRM timetable July 2026). Drafted secdraft.md with a self-hosted Wikimedia photo; quality, formatting, image and duplicate audits pass and all four outbound links return 200.",
           "sourceChecks": [
@@ -290689,10 +290731,11 @@
             }
           ],
           "reviewedAt": "2026-11-09T04:10:46.168Z",
-          "articleSlug": "secdraft"
+          "articleSlug": "secdraft",
+          "publishedAt": "2026-11-09T05:18:16.790Z"
         },
         "82da0e4185b24d7dad8f": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified the SEAL Nov 5 report, Cointelegraph's Nov 6 write-up with the Binance spokesperson timeline quote, and TokenPost's Nov 8 follow-up; three sources read, image self-hosted from Wikimedia (CZ at Web Summit 2022), 692-word draft passes quality, formatting, image and duplicate audits.",
           "sourceChecks": [
@@ -290710,12 +290753,13 @@
             }
           ],
           "reviewedAt": "2026-11-09T04:17:37.004Z",
-          "articleSlug": "binanceseal"
+          "articleSlug": "binanceseal",
+          "publishedAt": "2026-11-09T05:18:16.790Z"
         },
         "bd9cea951bd811cec93b": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Verified Bitquery's Nov 5 investigation, CryptoSlate's Nov 7 report and DailyCoin's Nov 6 coverage; all three read, distinct hero self-hosted from Wikimedia, 706-word draft passes quality, formatting, image and duplicate audits; iphone-spyware.md covers a different Oct 14 iVerify event.",
+          "status": "deferred",
+          "reason": "quality-gate",
+          "note": "Actual article audits still failed after bounded repair attempts: Source link HTTP 403: https://dailycoin.com/darksword-iphone-exploit-4m-crypto-theft. Draft and original source checks are retained for repair; this article was not published.",
           "sourceChecks": [
             {
               "url": "https://www.bitquery.io/investigations/iphone-wallet-drain-tron-usdt",
@@ -290730,8 +290774,38 @@
               "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-11-09T04:20:54.621Z",
-          "articleSlug": "iosdrains"
+          "reviewedAt": "2026-11-09T05:17:59.812Z",
+          "articleSlug": "iosdrains",
+          "retrySearches": [
+            "Repair and revalidate the preserved iosdrains draft against its original sources: Source link HTTP 403: https://dailycoin.com/darksword-iphone-exploit-4m-crypto-theft"
+          ],
+          "qualityIsolation": {
+            "previousReview": {
+              "status": "ready",
+              "reason": "verified-event",
+              "note": "Verified Bitquery's Nov 5 investigation, CryptoSlate's Nov 7 report and DailyCoin's Nov 6 coverage; all three read, distinct hero self-hosted from Wikimedia, 706-word draft passes quality, formatting, image and duplicate audits; iphone-spyware.md covers a different Oct 14 iVerify event.",
+              "sourceChecks": [
+                {
+                  "url": "https://www.bitquery.io/investigations/iphone-wallet-drain-tron-usdt",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://cryptoslate.com/zero-click-ios-exploits-drain-4m-usdt-from-active-tron-wallets/",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://dailycoin.com/darksword-iphone-exploit-4m-crypto-theft",
+                  "outcome": "read"
+                }
+              ],
+              "reviewedAt": "2026-11-09T04:20:54.621Z",
+              "articleSlug": "iosdrains"
+            },
+            "validationErrors": [
+              "Source link HTTP 403: https://dailycoin.com/darksword-iphone-exploit-4m-crypto-theft"
+            ],
+            "isolatedAt": "2026-11-09T05:17:59.812Z"
+          }
         },
         "7b33b5305d4acb33589d": {
           "status": "rejected",
@@ -290746,7 +290820,7 @@
           "reviewedAt": "2026-11-09T04:22:32.335Z"
         },
         "1285c91006e6365559d4": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read Cointelegraph (Nov 6), Gnosis Pay's primary blog disclosure (Nov 6) and Decrypt (Nov 6); three sources, all links HTTP 200, hero self-hosted from Wikimedia (card terminal, CC BY-SA 4.0), 616-word draft passes quality, formatting, image and duplicate audits. CoinDesk returned HTTP 429 and was not cited.",
           "sourceChecks": [
@@ -290768,7 +290842,8 @@
             }
           ],
           "reviewedAt": "2026-11-09T04:26:20.699Z",
-          "articleSlug": "gnosisbreach"
+          "articleSlug": "gnosisbreach",
+          "publishedAt": "2026-11-09T05:18:16.790Z"
         }
       },
       "baselineSlugs": [
@@ -291224,6 +291299,318 @@
         ],
         "total": 74,
         "checkedAt": "2026-11-09T03:31:35.284Z"
+      },
+      "validationErrors": [],
+      "publication": {
+        "status": "completed",
+        "completedAt": "2026-11-09T05:18:16.790Z",
+        "publishedIds": [
+          "7878397babd6dcc7d218",
+          "50936c50962493a3612d",
+          "8b38dca2880737681ed5",
+          "61c907d838b017ad2384",
+          "82da0e4185b24d7dad8f",
+          "163db1d20c1a1d08aee0",
+          "1285c91006e6365559d4"
+        ],
+        "articleSlugs": [
+          "greecetax",
+          "bitgetsec",
+          "dolrule",
+          "cbnstablecoin",
+          "binanceseal",
+          "secdraft",
+          "gnosisbreach"
+        ],
+        "pendingIds": [
+          "23b86d04277441433251",
+          "f9902cdef583f113830c",
+          "08908f748527d5dfb303",
+          "bd9cea951bd811cec93b",
+          "e95e116c90ccd6bdbca0",
+          "d15a3cc319f175de228b",
+          "ebdb39ea84c6dea8b564",
+          "a11a012bce3c5b79b9c3",
+          "b1c368254193ed3befca",
+          "076a6365d60402b91a4d",
+          "224156474f987e057b62",
+          "1840db6a8402b77d1ac3",
+          "ae68e4921f07c65858c8",
+          "f55f7ca2c0135b2cfa39",
+          "1ad738e445d08bedc16d",
+          "2d0ba6da134ad04be818",
+          "19c10582412621992ea6",
+          "fa6e18b372576236a0ff",
+          "b34705b27e24b06f7e5a",
+          "e0647915b145a81573f9",
+          "7fc013f29bacf54df7ea",
+          "5df7d2e344ec28917cb5",
+          "f8b10ed32e5bf583d005",
+          "512c072b089328770e93",
+          "86dfb6364679d8d60dd7",
+          "8627b54b84d0ee4954d5",
+          "be230f9e0354afb8860c",
+          "bc428853e7ea6e9bc154",
+          "9c7b23ff3f227dd395e5",
+          "abc749bdda10a9cfd60f",
+          "5f2309f8a582ccfdcd39",
+          "0aefd9c9bb4c567a0e45",
+          "2fb8834359bfb1a37403",
+          "7e85235f48a9d926835a",
+          "50dfb48a875beeeeb279",
+          "d778db486e0ad134d714",
+          "cacb3b1f46f53b9c0367",
+          "a75cbd416cd0de4e7699",
+          "21db531373cb1908bde0",
+          "7eb988df871703bc8eab",
+          "40b157fb0b007c1e8154",
+          "542931486d251acc4303",
+          "28d8037c539b671d1d75",
+          "29d69a2685cc93647bd9",
+          "67741ff7b8fc004e07d2",
+          "8c0241197dd7fb359a04",
+          "3e81fbc63ace31bce715",
+          "381057e0518524ffade5",
+          "b02965d23408fc7f0135",
+          "9e06359c0063afd323ae",
+          "48f22347f8f623f01b86",
+          "6aa0af73b2eb8c027901",
+          "7df815197d0fc6ed431c",
+          "98ae1c488f25fab972bf",
+          "7befce519bd2fb6f2df4",
+          "89a3d9b5d6ef737ce977",
+          "80b33419f12f72171dc2",
+          "bee5e9fa36eb0def04b3",
+          "3227ff28ff788ca0905c",
+          "a365f4369f4b8840edc1",
+          "c5441a0bbd05c84e2fa6",
+          "61926901d5da601a0e86",
+          "a051023eb5ea68ea3a10",
+          "93cd6d80e7d5af495155",
+          "24aae6164137d0cb0d3e",
+          "703505c250f1757a17ab",
+          "2672726190df22aeca59",
+          "6593c6757d36aedbf4f6",
+          "879c6492b1850c07571f",
+          "4ba6b522862f44cd3b13",
+          "c975827c762f543d60ac",
+          "13da21843d8cc87cde62",
+          "05322a3ca3ba58802b8f",
+          "f8c97064b008382d9249",
+          "a3974da0ad4cb1531c4a",
+          "ca14118b0c6c0d112ce8",
+          "9d1626d2e9850e8735a2",
+          "c7316d2042bb75a314fd",
+          "2ed2c18c04a7049e6839",
+          "a5c53f0669bd2184286b",
+          "5db56ed15c67075103ed",
+          "2825d8aac8d192e46733",
+          "9d947619c9ff09b7ee2b",
+          "77dc656d2b0009c39631",
+          "364a9d22368aa424fc50",
+          "9ac70237a9edbcdbb3cb",
+          "676f4c0abbf317331aee",
+          "06411c7258bc4696d9de",
+          "26c4a66f0b380cafecf9",
+          "c02943dbc2e2d07b5bf1",
+          "568faf6f52b15fcdee19",
+          "048d5f6438264d18a78c",
+          "27fe7c7213d882106309",
+          "71c116279cf4e93979a1",
+          "65b7734eee3d13987ecc",
+          "915ef54e644dfbc30d7b",
+          "ad3388f37eca9a4eb5e9",
+          "f44f5fae363f52e3fda0",
+          "4b40eac35822f9b98a87",
+          "99adc4b0b5bdeaaf6f04",
+          "8f2dee57a63580a5f429",
+          "a6db0beb2ff356728578",
+          "423680996c546dcc707d",
+          "9541f3e57991d61f9e2a",
+          "b95a60e8645ebda21c77",
+          "fad93c38cd4580dc9f53",
+          "f24080f4569c4dcaed0b",
+          "7e5910712cb6ecb66ca0",
+          "692a4be394fc2597ea93",
+          "a977bb7aba219ffd52d3",
+          "1bc200b2cd14bb7c2bc5",
+          "cf86d8d309f9d1c307b1",
+          "86626c73f96bf55e91a9",
+          "8b332ec8efefb5e7c2b7",
+          "dc8bfb72bf9d36b53771",
+          "0ce8c3d0492ad94ce54c",
+          "8f0ff913ac5bbb4848d6",
+          "1336b8ef457fe8ffcc8c",
+          "9d6682480d52a0fa544d",
+          "5c044415ec7d3270a152",
+          "80f290c81083c9b86fd1",
+          "6873d68191346559b74f",
+          "5f7ea4833e826c529010",
+          "8b78ad435d3e93a9d86b",
+          "67cdfceae50e14a2ab0d",
+          "8e72cac261dfb7c49df2",
+          "82bdf1b8ee9a6551f80f",
+          "bc0ae13bcf3f5788ce1a",
+          "06b9da27afb502e232fd",
+          "ae0ca268aa48f35d5550",
+          "638945add2b4dce495bc",
+          "66392f2604bd6da53dc2",
+          "567f632e48419f20552f",
+          "cfcafabfa1101f5d9144",
+          "5775ae6618d79adfe4b3",
+          "a96c0fad4b857ecc4f1f",
+          "07f75f3fe16e85f27e84",
+          "3acd3786b984d4b43483",
+          "02f0e9e87c1b6a60b13a",
+          "ad877aa481c24ab020f2",
+          "976d0c7bdfef62fa40de",
+          "9541a2e41e2fec410bc4",
+          "d3d414691af9787075dd",
+          "f38c7e27b8752c273d4f",
+          "49417d492bd7794805d5",
+          "736bb425153ad2590d7f",
+          "856bd37a86514cd6aa79",
+          "5f03a13435452b96a4ce",
+          "dd7b492ede878641eff8",
+          "35a40a2093f0e43baeb6",
+          "747bed348db049510b1c",
+          "ddbb548bb57e924cc783",
+          "a3c8561416438c705e2b",
+          "d6988c8039a22f872cd7",
+          "862ad25465a438c8bbd1",
+          "f304c7c6571865323989",
+          "bb93c4e07fade27b7f81",
+          "edb357e217d2c60eb0e9",
+          "6c58470186cf6d97277d",
+          "bb0b5040a452c7ce7bae",
+          "ca3616d4235e750f8410",
+          "f7cdda8826e17f744c66",
+          "f9b861627733b1989002",
+          "ff3984f896c9d3370f70",
+          "3ff2a64717cea72d77f5",
+          "c6f4d4382ee7e095eff4",
+          "d65a1555f263c7421c50",
+          "e2558077f565962a9e59",
+          "6116aa44cb3bda869193",
+          "e03126c6c4ebb607c1ef",
+          "5bc34eea49d929e1b2a9",
+          "c280426815124cc07426",
+          "a5823eb50cd1ce206c16",
+          "220e18eee43c19d14b65",
+          "3ceb515a05518df3c20d",
+          "f9b8fa6a3b3c0a354b49",
+          "af5de8afd6920a397aea",
+          "d394ad40941163ea1de3",
+          "6ddc8f9b344a63c27f7c",
+          "9e3871a2b07247a5fd63",
+          "45c382db9de6f605aae0",
+          "c0ac48c00d630db44eaa",
+          "69aba154af1fca6ec39c",
+          "ca44b88cbad88fb49f5d",
+          "a09efe0eef41709aa1c6",
+          "3691e2a58fffb0d1af1b",
+          "a1db367295f81aaac3a4",
+          "28e860949e86bee6751a",
+          "9e945a881261e60a5b11",
+          "ed52d784c7c90eac6739",
+          "478763fabf53ac179519",
+          "08e3b5198d6f4d3d675f",
+          "40ec64bc2a4c45cda5af",
+          "25d2f5cfbcf67c7a2502",
+          "18e92a4bb89309bf0b13",
+          "70dbf79c8855b18e508b",
+          "e96f8e2aae79c2f65d8e",
+          "47bf46042d77787661cf",
+          "e4e8dffd4a9554724c56",
+          "7b3fcb1740caab361d5e",
+          "b3a25e22c35c80a41f35",
+          "f2140f1a35425bde2625",
+          "7f9267b688292d2ea0b7",
+          "7e76a9b1be9d2b2dd6c8",
+          "a12b86c096be7c1f98c1",
+          "3daa05819cb7cafc0749",
+          "f754c5b10e3dd3dc9c85",
+          "4d4bbeab32b5c26d23ad",
+          "2b02a0403f579a651044",
+          "3783ad284407cd74536c",
+          "5377df437f4a7248dbb9",
+          "469e8cd9b77b1cd240f8",
+          "0ed2e0bfdf9bc3e902c3",
+          "09c31b91b263faddbeed",
+          "a9d57147497a29c9a7e2",
+          "2ae859c3a3f82660a801",
+          "fa53447aea6730ae432d",
+          "a7f17478b78a6be289b1",
+          "f3152b470d43879763f0",
+          "009fd0db79e31e75d876",
+          "9815fb7dc8a078ea89c0",
+          "a261c30d910b6a17dd2c",
+          "ac9b6165965f1e758522",
+          "13a0612ae95e3e249fd5",
+          "a51b6bd793fe6f93d3d8",
+          "0d2413ce7bdf4ea6f2ce",
+          "b4c508a1680709c68829",
+          "188e848dd346852228ba",
+          "ee4c8ec57ae6d431a7a3",
+          "e7bdd960b4c28b58f957",
+          "b8aaa5d55cd15b8e2017",
+          "a581225e18054a9564fc",
+          "9f5cbb28edd6fca7173a",
+          "e0d153764d97bd7c938d",
+          "6ab9e37648eac1352573",
+          "fd579ed67211b11f36e1",
+          "feb34ad05b90d405ac51",
+          "6e99536d74ef44abec71",
+          "5b2014e53e59d0da640d",
+          "0d08b5ce4b434899d43c",
+          "82bd764a5c3d7baf97c2",
+          "3d52f385996ab0c97ed6",
+          "3d91171bba48a18c0bb9",
+          "844ed699b746af422aac",
+          "26f8a753f8c26ca2d3ff",
+          "1bea022b457ac6696feb",
+          "664a6e26f7ba6547f21a",
+          "0cf28ec4dc6db7d37a1d",
+          "11b57b05722e04dbc37b",
+          "8788bd18e384605db851",
+          "2e819591ac14870213b7",
+          "191cbdc03189959336b6",
+          "e25d1ec7b628bbce75d4",
+          "ffee5d0dac82b5418abf",
+          "f1796b7c7fab3ba0e7f1",
+          "a6c11768d1efe7eb7d6a",
+          "fcebf4f605a4f2eab9e8",
+          "35e05ffd25b3566fcf37",
+          "6037b13d8cd36c691db4",
+          "fb972044421953fa0438",
+          "2b9d9bdadccc1138ce9c",
+          "dc35603f4abe7fa6ff69",
+          "0b00d970e6832a4c398d",
+          "0beaaa68e0fbbbc76b92",
+          "60626eb91f1d9d7d8e08",
+          "afa3978809d8c31dbdb8",
+          "cf9e6dfd3b9040f6056a",
+          "df74c4261f76e6ccd323",
+          "75cf472e8f7a0843128b",
+          "d220797ba4058c100087",
+          "a42f4c151e3edf643167",
+          "aa3682481a1acabb1881",
+          "fc51a462475faee2d1fb",
+          "d09a5d9c7fdb2058caa6",
+          "eb12f244ebded7801481",
+          "584625b9d4bc82036665",
+          "3cba2204742148c1a106",
+          "772969ccdb29e8799fac",
+          "e88bdba18ea2b1c76ed9",
+          "04b4aea7c52cc39d0bc7",
+          "26c12fb1b2b19439d87f",
+          "411948228c51e99afaaa",
+          "a26b1ecf26374ff2856a",
+          "eb77b8ab2d6d47da95fe",
+          "85ac00e2ac82e9c8fa1c",
+          "7a91dcae933e6faedc44",
+          "1a12a44faad53faf0ea9"
+        ]
       }
     }
   }
