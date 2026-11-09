@@ -125606,8 +125606,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "275a256a-3062-43c9-98ee-a81372ce53ed",
-      "verification": "pending",
-      "postId": "6af2284d398ae91929ac47d8"
+      "verification": "verified",
+      "postId": "6af2284d398ae91929ac47d8",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7525650701088210944"
     }
   ]
 }
