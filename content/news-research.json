@@ -148581,7 +148581,7 @@
         "id": "bd9cea951bd811cec93b",
         "day": "2026-11-09",
         "articleSlug": "iosdrains",
-        "note": "Read CryptoSlate's report and the Bitquery Nov 5 primary investigation (at least 4.06M USDT from 365 TRON wallets, 43 collectors on one fee wallet, one theft matched to a published iPhone-owner account, 65 more wallets on eight chains). Review still needs a third-source check and draft/image work.",
+        "note": "Rechecked CryptoSlate (Nov 7) and Bitquery primary investigation (Nov 5); read DailyCoin (Nov 6) as third outlet. iphone-spyware.md covers a different Oct 14 iVerify event, so not a duplicate. Drafting; need a distinct hero image.",
         "sourceChecks": [
           {
             "url": "https://cryptoslate.com/zero-click-ios-exploits-drain-4m-usdt-from-active-tron-wallets/",
@@ -148590,9 +148590,13 @@
           {
             "url": "https://www.bitquery.io/investigations/iphone-wallet-drain-tron-usdt",
             "outcome": "read"
+          },
+          {
+            "url": "https://dailycoin.com/darksword-iphone-exploit-4m-crypto-theft",
+            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-09T04:11:12.302Z",
+        "updatedAt": "2026-11-09T04:18:52.712Z",
         "approved": false,
         "mustReview": true
       }
