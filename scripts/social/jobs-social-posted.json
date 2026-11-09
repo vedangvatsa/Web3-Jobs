@@ -120800,7 +120800,8 @@
       },
       "account": "channel:bounties",
       "attemptId": "499063b5-2573-40fc-a3c8-2a8d3164d5ac",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd01330a36bb81c23ad8658acf2b4d86bca32a2da"
     }
   ]
 }
