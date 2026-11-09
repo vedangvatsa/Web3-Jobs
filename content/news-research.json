@@ -148418,9 +148418,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "82da0e4185b24d7dad8f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-07T03:31:47.358Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-09T11:26:30.000Z",
       "lastSeenAt": "2026-11-07T03:31:47.358Z",
       "articleSlug": "binanceseal",
@@ -148446,7 +148446,25 @@
         "updatedAt": "2026-11-09T04:13:50.445Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the SEAL Nov 5 report, Cointelegraph's Nov 6 write-up with the Binance spokesperson timeline quote, and TokenPost's Nov 8 follow-up; three sources read, image self-hosted from Wikimedia (CZ at Web Summit 2022), 692-word draft passes quality, formatting, image and duplicate audits.",
+      "sourceChecks": [
+        {
+          "url": "https://radar.securityalliance.org/tradertraitor-vs-contagious-interview-a-look-at-binances-initial-incident-report/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/technology/51375",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-09T04:17:37.004Z",
+      "lastReviewedDay": "2026-11-09"
     },
     "6a446f8c3d4facfc3743": {
       "source": "Cointelegraph",
@@ -290594,6 +290612,27 @@
           ],
           "reviewedAt": "2026-11-09T04:10:46.168Z",
           "articleSlug": "secdraft"
+        },
+        "82da0e4185b24d7dad8f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the SEAL Nov 5 report, Cointelegraph's Nov 6 write-up with the Binance spokesperson timeline quote, and TokenPost's Nov 8 follow-up; three sources read, image self-hosted from Wikimedia (CZ at Web Summit 2022), 692-word draft passes quality, formatting, image and duplicate audits.",
+          "sourceChecks": [
+            {
+              "url": "https://radar.securityalliance.org/tradertraitor-vs-contagious-interview-a-look-at-binances-initial-incident-report/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/technology/51375",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-09T04:17:37.004Z",
+          "articleSlug": "binanceseal"
         }
       },
       "baselineSlugs": [
