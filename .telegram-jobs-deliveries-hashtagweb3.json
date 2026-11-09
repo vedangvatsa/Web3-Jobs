@@ -9061,5 +9061,122 @@
     "slotKey": "2026-11-09:afternoon",
     "messageId": 156154,
     "sentAt": "2026-11-09T11:32:54.612Z"
+  },
+  "9e296c0f-f0a6-47d7-9dd6-81ad2cf2a392": {
+    "status": "reserved",
+    "reservedAt": "2026-11-09T19:50:28.072Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "7ac99d1e-9dc1-4050-9e71-8e4e93948191",
+          "title": "Senior Director, Solutions Engineering",
+          "company": "Riot Platforms",
+          "link": "https://ats.rippling.com/riot-platforms-careers/jobs/7ac99d1e-9dc1-4050-9e71-8e4e93948191",
+          "date": "2026-10-16T09:12:17.430000-07:00",
+          "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+          "location": "Remote",
+          "department": "Strategic Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng276"
+        },
+        "key": "7ac99d1e-9dc1-4050-9e71-8e4e93948191",
+        "slug": "eng276",
+        "url": "https://hashtagweb3.com/eng276?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Riot Platforms",
+        "title": "Senior Director"
+      },
+      {
+        "snapshot": {
+          "id": "d8498fe0-1f86-46e6-805a-626489ddd0cb",
+          "title": "Senior AI Engineer (AI Automation)",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/d8498fe0-1f86-46e6-805a-626489ddd0cb",
+          "date": "2026-11-05T01:45:58.568+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "R&D",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng417"
+        },
+        "key": "d8498fe0-1f86-46e6-805a-626489ddd0cb",
+        "slug": "eng417",
+        "url": "https://hashtagweb3.com/eng417?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Senior AI Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8356278",
+          "title": "Customer Experience Associate, Prediction Markets",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8356278?t=gh_src=&gh_jid=8356278",
+          "date": "2026-11-05T16:56:31-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Westlake, TX",
+          "department": "Customer Care",
+          "active": true,
+          "salary": "$25 – $29/hr",
+          "dateVerified": true,
+          "slug": "aso80"
+        },
+        "key": "8356278",
+        "slug": "aso80",
+        "url": "https://hashtagweb3.com/aso80?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Customer Experience Associate"
+      },
+      {
+        "snapshot": {
+          "id": "7f507327-19e6-4429-9662-8bf937f0a795",
+          "title": "Risk Manager, EU",
+          "company": "Lightspark",
+          "link": "https://jobs.ashbyhq.com/lightspark/7f507327-19e6-4429-9662-8bf937f0a795",
+          "date": "2026-10-13T18:47:40.558+00:00",
+          "source": "Ashby: Lightspark [lightspark]",
+          "location": "Estonia",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Legal & Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr184"
+        },
+        "key": "7f507327-19e6-4429-9662-8bf937f0a795",
+        "slug": "mgr184",
+        "url": "https://hashtagweb3.com/mgr184?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Lightspark",
+        "title": "Risk Manager"
+      },
+      {
+        "snapshot": {
+          "id": "144d4418-ea30-48d1-9ff1-3f8e6e4c6a86",
+          "title": "Security Operations Engineer",
+          "company": "Alchemy",
+          "link": "https://jobs.ashbyhq.com/alchemy/144d4418-ea30-48d1-9ff1-3f8e6e4c6a86",
+          "date": "2026-11-05T19:44:48.665+00:00",
+          "source": "Ashby: Alchemy [alchemy]",
+          "location": "Hybrid (New York)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec92"
+        },
+        "key": "144d4418-ea30-48d1-9ff1-3f8e6e4c6a86",
+        "slug": "sec92",
+        "url": "https://hashtagweb3.com/sec92?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alchemy",
+        "title": "Security Operations Engineer"
+      }
+    ],
+    "message": "- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/eng276?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Director, Solutions Engineering</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/eng417?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior AI Engineer (AI Automation)</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/aso80?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Experience Associate, Prediction Markets</a>\n- Lightspark is hiring <a href=\"https://hashtagweb3.com/mgr184?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Risk Manager, EU</a>\n- Alchemy is hiring <a href=\"https://hashtagweb3.com/sec92?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Security Operations Engineer</a>",
+    "slotKey": "2026-11-09:evening"
   }
 }
