@@ -123543,7 +123543,8 @@
       },
       "account": "channel:founders",
       "attemptId": "1c2a13a2-2417-470e-9ca5-fdb8f288e29d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x455ceceea94940be0a591b2ff8a36549e3c35325"
     }
   ]
 }
