@@ -128945,6 +128945,47 @@
       "attemptId": "ca320570-df41-4078-b417-4ce38cc67c14",
       "verification": "verified",
       "postId": "0x8ece7f2d6406c97b93fc5fa26b341e87b56e4198"
+    },
+    {
+      "slug": "ops152",
+      "company": "Kraken",
+      "title": "Talent Acquisition Operations Associate",
+      "platform": "linkedin",
+      "postedAt": "2026-11-10T19:37:10.369Z",
+      "expectedText": "Kraken is hiring Talent Acquisition Operations Associate: https://hashtagweb3.com/ops152/li?og=7",
+      "snapshot": {
+        "id": "199de08b-fc19-40b4-aac0-6a1dd5a5942e",
+        "title": "Talent Acquisition Operations Associate",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/199de08b-fc19-40b4-aac0-6a1dd5a5942e",
+        "date": "2026-11-05T23:33:02.589+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (Canada)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops152"
+      },
+      "payload": {
+        "text": "Kraken is hiring Talent Acquisition Operations Associate: https://hashtagweb3.com/ops152/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ops152/li?og=7",
+          "title": "Talent Acquisition Operations Associate at Kraken",
+          "description": "Join Kraken as Talent Acquisition Operations Asso. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ops152.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "675e0632-922b-4fa8-ab57-2ca31343a91e",
+      "verification": "creating"
     }
   ]
 }
