@@ -157282,11 +157282,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "614620dc55f43b863adf",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-12T12:30:00.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "reason": "source-blocked",
+      "note": "The CoinDesk daybook page returned HTTP 429 behind a Vercel security checkpoint on WebFetch and on two direct downloads with the readiness user agent and a browser user agent. No article text was obtained, so the item cannot yet be judged as analysis or as a concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-10T02:33:48.261Z",
+      "retrySearches": [
+        "Find readable coverage or an archive of the CoinDesk daybook piece 'Bitcoin bulls can't rely on ETF flows' and determine whether it reports a concrete ETF flow event or is opinion analysis"
+      ],
+      "lastReviewedDay": "2026-11-10",
+      "nextReviewDate": "2026-11-11"
     },
     "b51032edd5adf8611adb": {
       "source": "The Block",
@@ -157343,11 +157357,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "5545b7c4571e412a2e1e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-12T09:17:45.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "reason": "price-chatter",
+      "note": "Read the full CoinJournal piece. It is a technical analysis column on where XRP might trade, built on EMAs, RSI, MACD and ETF flow figures, with no launch, vote, ruling, filing or other concrete event. The headline itself asks whether XRP heads towards $1, so it fails the concrete-event bar.",
+      "sourceChecks": [
+        {
+          "url": "https://coinjournal.net/news/is-xrp-heading-towards-1-amid-persistent-etf-outflows/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-10T02:33:48.261Z",
+      "lastReviewedDay": "2026-11-10"
     },
     "4d94509ef6f3926495e9": {
       "source": "Cointelegraph",
@@ -301376,6 +301400,33 @@
           "reviewedAt": "2026-11-10T02:32:44.335Z",
           "duplicateOf": "formation",
           "mergedInto": "21b81a9212e101d585d5"
+        },
+        "5545b7c4571e412a2e1e": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read the full CoinJournal piece. It is a technical analysis column on where XRP might trade, built on EMAs, RSI, MACD and ETF flow figures, with no launch, vote, ruling, filing or other concrete event. The headline itself asks whether XRP heads towards $1, so it fails the concrete-event bar.",
+          "sourceChecks": [
+            {
+              "url": "https://coinjournal.net/news/is-xrp-heading-towards-1-amid-persistent-etf-outflows/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-10T02:33:48.261Z"
+        },
+        "614620dc55f43b863adf": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "The CoinDesk daybook page returned HTTP 429 behind a Vercel security checkpoint on WebFetch and on two direct downloads with the readiness user agent and a browser user agent. No article text was obtained, so the item cannot yet be judged as analysis or as a concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-10T02:33:48.261Z",
+          "retrySearches": [
+            "Find readable coverage or an archive of the CoinDesk daybook piece 'Bitcoin bulls can't rely on ETF flows' and determine whether it reports a concrete ETF flow event or is opinion analysis"
+          ]
         }
       },
       "baselineSlugs": [
