@@ -157432,11 +157432,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "2f085ec6205d403d534e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-13T00:54:01.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read the full piece: it is prediction-market analysis built on an unconfirmed New York Post rumor that former White House press secretary Katie Zacharia is pursuing a return via TV appearances and outreach to Stephen Miller. The article itself says no official confirmation has been made. No appointment, filing, vote or other concrete event occurred.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/katie-zacharia-seeks-white-house-return-through-media-outreach-to-trump/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-10T02:50:32.838Z",
+      "lastReviewedDay": "2026-11-10"
     },
     "bdbf8055e028b863fe42": {
       "source": "Bitcoin Magazine",
@@ -157653,11 +157663,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "1e1a9a08e92ae7140f10",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-12T17:06:36.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "reason": "opinion",
+      "note": "Read the full article. The story is a TD Cowen Washington analyst policy note assigning 10% odds that Congress enacts a stablecoin yield ban over two years. The new content is an analyst's probability and reasoning, not a concrete event such as a bill, vote or rule.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/td-cowen-stablecoin-yield-ban-10-odds",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-10T02:50:32.838Z",
+      "lastReviewedDay": "2026-11-10"
     },
     "645952c6ff314da49812": {
       "source": "BeInCrypto",
@@ -157855,11 +157875,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "46e980078f4dc5054972",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-12T13:52:46.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "reason": "opinion",
+      "note": "Read the full article. It collects analyst quotes (DWF Labs, Bitget Wallet, Bitfinex) and CryptoQuant comparisons arguing the $6.3B Binance hack produced no market contagion, plus BTC price and FedWatch figures. The reporting is analyst assessment and price reaction, not a concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-10T02:50:32.838Z",
+      "lastReviewedDay": "2026-11-10"
     },
     "7f6edd895ecdcb337dd2": {
       "source": "The Defiant",
@@ -301591,6 +301621,42 @@
           "reviewedAt": "2026-11-10T02:46:49.279Z",
           "duplicateOf": "nearmemecoin",
           "mergedInto": "bc1623a9df09d84b5232"
+        },
+        "2f085ec6205d403d534e": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read the full piece: it is prediction-market analysis built on an unconfirmed New York Post rumor that former White House press secretary Katie Zacharia is pursuing a return via TV appearances and outreach to Stephen Miller. The article itself says no official confirmation has been made. No appointment, filing, vote or other concrete event occurred.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/katie-zacharia-seeks-white-house-return-through-media-outreach-to-trump/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-10T02:50:32.838Z"
+        },
+        "1e1a9a08e92ae7140f10": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Read the full article. The story is a TD Cowen Washington analyst policy note assigning 10% odds that Congress enacts a stablecoin yield ban over two years. The new content is an analyst's probability and reasoning, not a concrete event such as a bill, vote or rule.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/td-cowen-stablecoin-yield-ban-10-odds",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-10T02:50:32.838Z"
+        },
+        "46e980078f4dc5054972": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Read the full article. It collects analyst quotes (DWF Labs, Bitget Wallet, Bitfinex) and CryptoQuant comparisons arguing the $6.3B Binance hack produced no market contagion, plus BTC price and FedWatch figures. The reporting is analyst assessment and price reaction, not a concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-10T02:50:32.838Z"
         }
       },
       "baselineSlugs": [
