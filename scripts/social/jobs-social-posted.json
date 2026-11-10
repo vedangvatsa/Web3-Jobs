@@ -128117,8 +128117,9 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "2e539899-4ca2-476e-ae40-4b6d1d06e57d",
-      "verification": "pending",
-      "postId": "6af372046c7ea3f5e394b593"
+      "verification": "verified",
+      "postId": "6af372046c7ea3f5e394b593",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7526004728338546688"
     }
   ]
 }
