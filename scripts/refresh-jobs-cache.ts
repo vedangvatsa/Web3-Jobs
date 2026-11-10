@@ -29,7 +29,7 @@ import { enrichMultiOfficeLocations } from './lib/enrich-multi-office-locations'
 import { assertAtsSourceAllowed, getJobSourceIssue } from '../src/lib/job-source-policy';
 import { verifyAshbyEmployer, validateAshbyOrganization } from './lib/ashby-employer-verification';
 import { isJobAgeEligible } from '../src/lib/job-age-policy.mjs';
-import { preserveOriginalJobDate } from '../src/lib/job-source-date';
+import { preserveOriginalJobDate, normalizeSourcePostingDate } from '../src/lib/job-source-date';
 import { readJobDateHistory, writeJobDateHistory } from './lib/job-ingestion-policy';
 import { fetchBreezyPrimaryDate } from './lib/breezy-primary-date';
 
@@ -225,7 +225,7 @@ function cleanTitle(text: string | undefined): string | undefined {
 }
 
 function isDirectSource(source: string): boolean {
-  return /^(Greenhouse|Lever|Ashby|Workable|Recruitee|Workday|SmartRecruiters|Breezy|BambooHR|Comeet|Teamtailor|Rippling|Dover|FirstParty|Superteam):/i.test(source);
+  return /^(Greenhouse|Lever|Ashby|Workable|Recruitee|Workday|SmartRecruiters|Breezy|BambooHR|Comeet|Teamtailor|Rippling|Dover|FirstParty|Superteam|Kula):/i.test(source);
 }
 
 function sourceLabel(provider: string, board: string, company: string): string {
@@ -600,6 +600,13 @@ async function refreshJobsCache() {
     { board: 'localcoin', company: 'Localcoin' },
     { board: 'elwoodtechnologies', company: 'Elwood Technologies' },
     { board: 'logos', company: 'Logos' },
+    // --- Web3 Expansion (Nov 2026) ---
+    { board: 'flowdesk', company: 'Flowdesk' },
+    { board: 'horizenlabs', company: 'Horizen Labs' },
+    { board: 'primexbt', company: 'PrimeXBT' },
+    { board: 'd3', company: 'D3 Global' },
+    { board: 'casa', company: 'Casa' },
+    { board: 'indexindustries', company: 'Index Industries' },
   ];
 
   for (const gh of GREENHOUSE_BOARDS) {
@@ -667,7 +674,6 @@ async function refreshJobsCache() {
     { board: 'serotonin', company: 'Serotonin' },
     { board: 'renegade', company: 'Renegade' },
     { board: 'waterfall', company: 'Waterfall' },
-    { board: 'relay', company: 'Relay' },
 
     { board: 'immutable', company: 'Immutable' },
     { board: 'anchorage', company: 'Anchorage Digital' },
@@ -714,6 +720,11 @@ async function refreshJobsCache() {
     { board: 'airtm', company: 'Airtm' },
     { board: 'arbitrum-opco', company: 'Arbitrum OpCo' },
     { board: 'pioneer-services', company: 'BNB Chain' },
+    // --- Web3 Expansion (Nov 2026) ---
+    { board: 'prestolabs', company: 'Presto Labs' },
+    { board: 'unlimit', company: 'Unlimit' },
+    { board: 'coinspaid', company: 'CoinsPaid', apiHost: 'https://api.eu.lever.co' },
+    { board: 'BTSE', company: 'BTSE' },
   ];
 
   for (const lv of LEVER_BOARDS) {
@@ -923,6 +934,12 @@ async function refreshJobsCache() {
     { board: 'zodl', company: 'ZODL' },
     { board: 'fence-finance', company: 'Fence Finance' },
     { board: 'halliday', company: 'Halliday' },
+    // --- Web3 Expansion (Nov 2026) ---
+    { board: 'pluralis-research', company: 'Pluralis Research' },
+    { board: 'codex', company: 'Codex' },
+    { board: 'projecteleven', company: 'Project Eleven' },
+    { board: 'batoncorporation', company: 'pump.fun' },
+    { board: 'Coinflow', company: 'Coinflow' },
   ];
 
   for (const ab of ASHBY_BOARDS) {
@@ -1380,6 +1397,8 @@ async function refreshJobsCache() {
     { board: 'zero-hash', company: 'Zero Hash' },
     { board: 'alliance', company: 'Alliance DAO' },
     { board: 'transak-inc', company: 'Transak' },
+    // --- Web3 Expansion (Nov 2026) ---
+    { board: 'busha', company: 'Busha' },
   ];
 
   for (const bz of BREEZY_BOARDS) {
@@ -1515,6 +1534,7 @@ async function refreshJobsCache() {
     { board: 'uphold', company: 'Uphold' },
     { board: 'chainstack', company: 'Chainstack' },
     { board: 'fasset', company: 'Fasset' },
+    { board: 'bitso', company: 'Bitso' },
     { board: 'paribu', company: 'Paribu' },
     { board: 'yellowcard', company: 'Yellow Card' },
     { board: 'ramp', company: 'Ramp Network' },
@@ -1526,10 +1546,10 @@ async function refreshJobsCache() {
     { board: 'lido', company: 'Lido' },
     { board: 'mercuryo', company: 'Mercuryo' },
     { board: 'ambergroup', company: 'Amber Group' },
-    { board: 'yellowcard', company: 'Yellow Card' },
-    { board: 'fasset', company: 'Fasset' },
-    { board: 'bitcoin', company: 'Bitcoin.com' },
-    { board: 'uphold', company: 'Uphold' },
+    // --- Web3 Expansion (Nov 2026) ---
+    { board: 'cexio', company: 'CEX.IO' },
+    { board: 'wirex', company: 'Wirex' },
+    { board: 'rhinolabs', company: 'Rhino.fi' },
   ];
 
   for (const bh of BAMBOO_BOARDS) {
@@ -1670,8 +1690,22 @@ async function refreshJobsCache() {
     { board: 'crossmint.na', company: 'Crossmint', url: 'https://crossmint.na.teamtailor.com/jobs.rss' },
     { board: 'crystalintelligence', company: 'Crystal Intelligence', url: 'https://crystalintelligence.teamtailor.com/jobs.rss' },
     { board: 'ethena', company: 'Ethena Labs', url: 'https://careers.ethena.fi/jobs.rss' },
+    { board: 'ripio', company: 'Ripio', url: 'https://ripio.teamtailor.com/jobs.rss' },
+    // --- Web3 Expansion (Nov 2026) ---
+    { board: 'coinshares', company: 'CoinShares', url: 'https://coinshares.teamtailor.com/jobs.rss' },
+    { board: 'coinpoker', company: 'CoinPoker', url: 'https://coinpoker.teamtailor.com/jobs.rss' },
+    { board: 'spiko', company: 'Spiko', url: 'https://spiko.teamtailor.com/jobs.rss' },
+    { board: 'careers.gravityteam.co', company: 'Gravity Team', url: 'https://careers.gravityteam.co/jobs.rss' },
   ];
-  const rssParser = new Parser();
+  const rssParser = new Parser({
+    customFields: {
+      item: [
+        ['remoteStatus', 'remoteStatus'],
+        ['tt:department', 'department'],
+        ['tt:locations', 'locations'],
+      ],
+    },
+  });
 
   for (const tt of TEAMTAILOR_BOARDS) {
     registerDirectSource('Teamtailor', tt.board, tt.company);
@@ -1684,6 +1718,19 @@ async function refreshJobsCache() {
         const title = cleanTitle(item.title);
         const link = item.link;
         if (!title || !link || !isConcreteOpening(title)) continue;
+        const anyItem = item as any;
+        let locStr = '';
+        const locObj = anyItem.locations?.['tt:location']?.[0];
+        const city = locObj?.['tt:city']?.[0];
+        const country = locObj?.['tt:country']?.[0];
+        if (city && country) {
+          locStr = anyItem.remoteStatus === 'fully' ? `${city}, ${country} (Remote)` : `${city}, ${country}`;
+        } else if (country) {
+          locStr = anyItem.remoteStatus === 'fully' ? `${country} (Remote)` : country;
+        } else if (anyItem.remoteStatus === 'fully') {
+          locStr = 'Remote';
+        }
+        const location = locStr ? cleanJobLocation(locStr) : undefined;
         const candidate: CachedJob = {
           id: item.guid || link,
           title,
@@ -1691,6 +1738,8 @@ async function refreshJobsCache() {
           link,
           date: item.isoDate || '',
           source: sourceLabel('Teamtailor', tt.board, tt.company),
+          location,
+          department: anyItem.department?.trim() || undefined,
           active: true,
         };
         if (upsertJob(candidate)) added++;
@@ -2116,6 +2165,116 @@ async function refreshJobsCache() {
   } catch (error: any) {
     feedsFailed++;
     console.warn(`  ❌ Superteam Talent: ${error.message}`);
+  }
+
+  // --- Kula ATS Source (Relay) ---
+  const KULA_BOARDS = [
+    { board: 'relay', company: 'Relay' },
+  ];
+
+  for (const kb of KULA_BOARDS) {
+    registerDirectSource('Kula', kb.board, kb.company);
+    try {
+      const res = await fetch(`https://careers.kula.ai/${encodeURIComponent(kb.board)}`, {
+        headers: { 'User-Agent': 'Mozilla/5.0 (compatible; HashtagWeb3/1.0)' },
+        signal: AbortSignal.timeout(FEED_TIMEOUT_MS),
+      });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const html = await res.text();
+      // Extract RSC chunks
+      const scriptRegex = /<script>self\.__next_f\.push\((.*?)\)<\/script>/gs;
+      let fullRsc = '';
+      let m: RegExpExecArray | null;
+      while ((m = scriptRegex.exec(html)) !== null) {
+        try {
+          const parsed = JSON.parse(m[1]);
+          if (Array.isArray(parsed) && parsed[1]) fullRsc += parsed[1];
+        } catch {}
+      }
+
+      const jobsIdx = fullRsc.indexOf('"jobs":');
+      if (jobsIdx !== -1) {
+        const chunk = fullRsc.substring(jobsIdx);
+        let depth = 0;
+        let start = chunk.indexOf('[');
+        let end = -1;
+        for (let i = start; i < chunk.length; i++) {
+          if (chunk[i] === '[') depth++;
+          else if (chunk[i] === ']') {
+            depth--;
+            if (depth === 0) {
+              end = i;
+              break;
+            }
+          }
+        }
+
+        const kulaJobs = JSON.parse(chunk.substring(start, end + 1));
+        removeJobs((job) => matchesRefreshedSource(job, 'Kula', kb.board, kb.company));
+        removeAggregatorCopiesForCompany(kb.company);
+
+        let added = 0;
+        for (const job of kulaJobs) {
+          const title = cleanTitle(job.title);
+          const link = `https://careers.kula.ai/${kb.board}/${job.id}`;
+          if (!title || !job.listed || !isConcreteOpening(title, link)) continue;
+
+          const date = normalizeSourcePostingDate(job.launch_at);
+          const offices = job.ats_job?.offices || [];
+          const officeNames = offices.map((o: any) => (o.country || o.name || o.location || '').trim()).filter(Boolean);
+          const uniqueNames = [...new Set(officeNames)];
+          const isRemote = (job.ats_job?.workplace || '').toLowerCase().includes('remote') || offices.some((o: any) => o.remote || (o.workplace || '').toLowerCase().includes('remote'));
+          let location = 'Remote';
+          if (isRemote) {
+            if (uniqueNames.length === 1 && uniqueNames[0] !== 'United States') {
+              location = /remote/i.test(uniqueNames[0]) ? uniqueNames[0] : `Remote (${uniqueNames[0]})`;
+            } else if (uniqueNames.length > 1) {
+              const cleaned = uniqueNames.map((n: string) => n.replace(/^Remote\s*-\s*/i, '').trim());
+              location = `Remote (${cleaned.join(', ')})`;
+            }
+          } else if (uniqueNames.length > 0) {
+            location = uniqueNames.join(', ');
+          }
+
+          let content = '';
+          const descRef = job.ats_job?.job_description?.replace(/^\$/, '');
+          if (descRef) {
+            const regex = new RegExp(`(?:^|\\n|[\\]\\}>])${descRef}:T([0-9a-f]+),`, 'i');
+            const match = fullRsc.match(regex);
+            if (match) {
+              const hexLen = parseInt(match[1], 16);
+              const contentStart = match.index! + match[0].length;
+              content = fullRsc.substring(contentStart, contentStart + hexLen)
+                .replace(/^<h3><\/h3>/i, '')
+                .replace(/^(?:<br\s*\/?>|<\/br>|\s)+/i, '')
+                .trim();
+            }
+          }
+
+          const candidate: CachedJob = {
+            id: String(job.id),
+            title,
+            company: kb.company,
+            link,
+            date: date || '',
+            dateVerified: Boolean(date),
+            dateSource: 'Kula.Job.launch_at',
+            source: sourceLabel('Kula', kb.board, kb.company),
+            location,
+            department: job.ats_job?.ats_department?.name || 'Engineering',
+            active: true,
+          };
+          if (upsertJob(candidate)) added++;
+          if (content) rememberDescription(candidate, content);
+        }
+
+        feedsOk++;
+        console.log(`  ✅ Kula (${kb.company}): ${kulaJobs.length} items, ${added} new`);
+      }
+    } catch (error: any) {
+      feedsFailed++;
+      console.warn(`  ❌ Kula (${kb.company}): ${error.message}`);
+    }
   }
 
   const elapsed = Date.now() - fetchStart;

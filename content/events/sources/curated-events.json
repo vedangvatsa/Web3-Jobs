@@ -502,35 +502,68 @@
     "id": "premier-breakpoint-2026",
     "slug": "solana-breakpoint",
     "name": "Solana Breakpoint 2026",
-    "description": "## The Token Supercycle Is Here\n\n## Tickets\n\n## General Admission\n\n## Developers\n\n## Students\n\n## Late Bird\n\n## Find ways to take part\n\n## Why Breakpoint\n\nLast year, J.P. Morgan, Goldman Sachs, BlackRock, State Street, and Citigroup all deployed production capital on Solana. At Breakpoint, the teams behind these integrations share what's next - and what they need from builders.\n\n• Balaji SrinivasanNetwork StateCEO and Founder Network School\n\n## Explore events across the Breakpoint ecosystem\n\n• Solana Hacker House - London1–12 NOVEMBER, 202610:00–20:00(opens in a new tab)\n\n• Scale or Die14 NOVEMBER, 202609:30–18:30(opens in a new tab)\n\n• BlockZero 202615 NOVEMBER, 202608:30–17:00(opens in a new tab)\n\n## Highlights from Solana builders at Breakpoint\n\n## Latest announcements\n\n• EventsSolana Hacker House London: Nov 1 - 12 ↗(opens in a new tab)\n\n## FAQ\n\nBreakpoint 2026 will take place at Olympia Convention Centre in London.",
+    "description": "Solana Breakpoint 2026 is the premier annual conference for the Solana ecosystem, taking place from November 15 to 17, 2026, at Olympia London. Held in the United Kingdom for the first time, Breakpoint brings together more than 8,000 developers, founders, institutional investors, and policymakers representing over 100 countries.\n\nThe conference theme, Token Supercycle, centers on the accelerating convergence of traditional finance and high-performance decentralized networks. Key discussion tracks focus on institutional-grade stablecoins, real-world asset (RWA) tokenization, high-throughput payments, capital markets infrastructure, and sovereign AI-driven economic agents executing transactions onchain.\n\nHeadlining the speaker roster are prominent public leaders and global industry executives, including former UK Prime Minister Boris Johnson, former Chancellor of the Exchequer Sajid Javid, Revolut Chair Martin Gilbert, Solana Labs Co-Founder Anatoly Yakovenko, and Solana Foundation President Lily Liu. They are joined by Balaji Srinivasan (Network State), Raoul Pal (Real Vision), Annabel Spring (CEO, Allfunds), Anthony Soohoo (CEO, MoneyGram), and Peter Moore (Wisla Krakow FC). Official registration offers dedicated tracks for general attendees, developers, and students, surrounded by dozens of community gatherings and side events across London.",
     "startDate": "2026-11-15T09:00:00+00:00",
     "endDate": "2026-11-17T18:00:00+00:00",
     "city": "London",
     "country": "United Kingdom",
-    "location": "Olympia Convention Centre, London, UK",
+    "location": "Olympia London, Hammersmith Rd, London W14 8UX, UK",
     "url": "https://solana.com/breakpoint",
     "website": "https://solana.com/breakpoint",
     "coverImage": "/events/premier-breakpoint-2026-5a195862.webp",
     "twitter": null,
     "source": "curated-premier",
-    "venueName": "Olympia Convention Centre",
+    "venueName": "Olympia London",
     "addressLocality": "London",
     "addressCountry": "United Kingdom",
     "registrationUrl": "https://solana.com/breakpoint",
     "speakers": [
+      "Boris Johnson",
+      "Sajid Javid",
+      "Martin Gilbert",
       "Anatoly Yakovenko",
+      "Lily Liu",
+      "Balaji Srinivasan",
+      "Raoul Pal",
       "Annabel Spring",
       "Anthony Soohoo",
-      "Balaji Srinivasan",
-      "Lily Liu",
       "Peter Moore",
-      "Raoul Pal",
       "Tad Smith"
     ],
     "speakerDetails": [
       {
+        "name": "Boris Johnson",
+        "organization": "United Kingdom",
+        "title": "Former Prime Minister"
+      },
+      {
+        "name": "Sajid Javid",
+        "organization": "United Kingdom",
+        "title": "Former Chancellor of the Exchequer"
+      },
+      {
+        "name": "Martin Gilbert",
+        "organization": "Revolut",
+        "title": "Chair"
+      },
+      {
         "name": "Anatoly Yakovenko",
         "organization": "Solana / Solana Labs",
+        "title": "Co-Founder / CEO"
+      },
+      {
+        "name": "Lily Liu",
+        "organization": "Solana Foundation",
+        "title": "President"
+      },
+      {
+        "name": "Balaji Srinivasan",
+        "organization": "Network State",
+        "title": "CEO and Founder, Network School"
+      },
+      {
+        "name": "Raoul Pal",
+        "organization": "Real Vision / EXPAAM / GMI",
         "title": "Co-Founder / CEO"
       },
       {
@@ -544,24 +577,9 @@
         "title": "CEO"
       },
       {
-        "name": "Balaji Srinivasan",
-        "organization": "Network State",
-        "title": "CEO and Founder, Network School"
-      },
-      {
-        "name": "Lily Liu",
-        "organization": "Solana Foundation",
-        "title": "President"
-      },
-      {
         "name": "Peter Moore",
         "organization": "Wisla Krakow Football Club",
         "title": "Owner / Sports and Video Game Executive"
-      },
-      {
-        "name": "Raoul Pal",
-        "organization": "Real Vision / EXPAAM / GMI",
-        "title": "Co-Founder / CEO"
       },
       {
         "name": "Tad Smith",
@@ -571,11 +589,13 @@
     ],
     "descriptionSource": {
       "url": "https://solana.com/breakpoint",
-      "fetchedAt": "2026-09-20T00:20:09.392Z",
-      "method": "official-section",
+      "fetchedAt": "2026-11-10T16:13:50.523Z",
+      "method": "reviewed-primary-sources",
       "pageTitle": "Breakpoint 2026 — Solana's flagship conference in London",
-      "sha256": "67f5910f7556df07b9cfa57ab9418d15bb92b5fec0bae6558e858076150059ea"
-    }
+      "sha256": "7ffce55f8492583a8ee66a9accae820dde2df34f54e379e275c43b59c75f0022"
+    },
+    "streetAddress": "Hammersmith Rd",
+    "postalCode": "W14 8UX"
   },
   {
     "id": "premier-binancebw-2026",

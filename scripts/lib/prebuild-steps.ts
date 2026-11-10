@@ -99,6 +99,12 @@ export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
     command: 'npx tsx scripts/precompute-companies-runtime.ts',
   },
   {
+    id: 'top100-employers',
+    inputs: ['content/companies-runtime.json', 'content/jobs-runtime.json', 'content/company-socials.json', 'content/companies', 'scripts/compute-top100.ts'],
+    outputs: ['content/top100-employers.json'],
+    command: 'npx tsx scripts/compute-top100.ts',
+  },
+  {
     id: 'articles-index',
     inputs: ['content/articles', 'scripts/generate-articles-index.ts', 'scripts/generate-latest-articles.ts'],
     outputs: ['content/articles-index.json', 'content/latest-articles.json'],

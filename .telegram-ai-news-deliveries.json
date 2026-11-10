@@ -3239,5 +3239,362 @@
     "slotKey": "2026-11-06:morning",
     "messageId": 193462,
     "sentAt": "2026-11-06T03:34:08.646Z"
+  },
+  "8150349c-d12d-4fce-adf7-f4f659e8b29e": {
+    "status": "sent",
+    "reservedAt": "2026-11-06T19:32:44.030Z",
+    "stories": [
+      {
+        "index": 13,
+        "original_title": "[Ars Technica] Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+        "headline": "Agility Robotics launches public listing on Nasdaq",
+        "summary": "The humanoid robot manufacturer completed its stock market debut, testing public investor demand for commercial robotics hardware.",
+        "event_rationale": "Covers Agility Robotics going public on Nasdaq, which is a distinct market debut event for commercial humanoid robotics.",
+        "link": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+        "source": "Ars Technica",
+        "originalTitle": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market"
+      },
+      {
+        "index": 10,
+        "original_title": "[TechCrunch] Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+        "headline": "Palo Alto Networks negotiates $500 million Clutch acquisition",
+        "summary": "The cybersecurity firm is negotiating to purchase AI agent security startup Clutch for $500 million.",
+        "event_rationale": "Covers a specific $500 million acquisition negotiation for an AI security startup, distinct from general cybersecurity funding.",
+        "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+        "source": "TechCrunch",
+        "originalTitle": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M"
+      },
+      {
+        "index": 1,
+        "headline": "Hundreds of Artex AI hacking servers found exposed online",
+        "summary": "Researchers identified hundreds of internet-connected servers providing unrestricted access to the Artex penetration testing software.",
+        "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+        "source": "TechCrunch",
+        "originalTitle": "Hundreds of Artex AI hacking tools found publicly exposed to the web"
+      }
+    ],
+    "slotKey": "2026-11-06:evening",
+    "messageId": 193465,
+    "sentAt": "2026-11-06T19:32:48.508Z"
+  },
+  "46d03fe6-7042-4b04-b456-d2eb3f884ba6": {
+    "status": "sent",
+    "reservedAt": "2026-11-07T03:35:55.054Z",
+    "stories": [
+      {
+        "index": 4,
+        "original_title": "[Ars Technica] “Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+        "headline": "Meta reverses policy on training AI using Facebook page content",
+        "summary": "The company will no longer require page owners to allow their data to be used for model training.",
+        "event_rationale": "This covers a major change in data training permissions for social media content, distinct from other Meta product updates.",
+        "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+        "source": "Ars Technica",
+        "originalTitle": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update."
+      },
+      {
+        "index": 5,
+        "headline": "AI clones of GTA VI may influence release timelines",
+        "summary": "A former Rockstar technical director suggests unauthorized AI versions could pressure the studio to accelerate official game releases.",
+        "link": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+        "source": "Ars Technica",
+        "originalTitle": "Could potential AI clones of GTA VI force a quicker official port?"
+      },
+      {
+        "index": 8,
+        "headline": "Humanoid robot cleaning services and Samsung's AI hardware plans",
+        "summary": "A new humanoid robot performs household chores while Samsung expands its technology production for AI applications.",
+        "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+        "source": "MIT Tech Review",
+        "originalTitle": "The Download: a humanoid cleans house and Samsung builds for the AI boom"
+      }
+    ],
+    "slotKey": "2026-11-07:morning",
+    "messageId": 193467,
+    "sentAt": "2026-11-07T03:36:10.519Z"
+  },
+  "06d5505b-aad4-44db-8887-c205aa14881d": {
+    "status": "sent",
+    "reservedAt": "2026-11-07T11:34:29.654Z",
+    "stories": [
+      {
+        "index": 5,
+        "headline": "Amazon allows users to text Alexa for shopping assistance",
+        "summary": "The shopping feature will expand to millions of customers in the coming weeks.",
+        "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+        "source": "TechCrunch",
+        "originalTitle": "After blocking Muse, Amazon now lets users text Alexa to help them shop"
+      },
+      {
+        "index": 6,
+        "headline": "Underdog debuts 32MB model for speech and music",
+        "summary": "The small system generates audio and musical content despite its limited file size.",
+        "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+        "source": "TechCrunch",
+        "originalTitle": "Underdog shows off a 32MB speech model in new demo"
+      },
+      {
+        "index": 7,
+        "headline": "Physicl raises $10 million for robot simulation tech",
+        "summary": "The company adapts an online marketing pipeline to help train robots in virtual environments.",
+        "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+        "source": "TechCrunch",
+        "originalTitle": "Physicl raises $10M to make the digital world real enough for robots"
+      }
+    ],
+    "slotKey": "2026-11-07:afternoon",
+    "messageId": 193470,
+    "sentAt": "2026-11-07T11:34:40.837Z"
+  },
+  "6fc30fb9-9c01-4c72-973f-8156e144dfdb": {
+    "status": "sent",
+    "reservedAt": "2026-11-07T19:36:15.380Z",
+    "stories": [
+      {
+        "index": 6,
+        "headline": "Schools can skip Gemini but must use Google AI search",
+        "summary": "While administrators can turn off the Gemini chatbot, AI-powered search results are now mandatory for school accounts.",
+        "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+        "source": "Ars Technica",
+        "originalTitle": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable"
+      },
+      {
+        "index": 7,
+        "headline": "Roundtable on technologies for brain preservation after death",
+        "summary": "Editors Mary Beth Griggs and Antonio Regalado discuss methods for maintaining consciousness after biological death.",
+        "link": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+        "source": "MIT Tech Review",
+        "originalTitle": "Roundtables: Inside the Quest for Cognitive Immortality"
+      },
+      {
+        "index": 10,
+        "headline": "Anthropic's new rules unlikely to stop AI game cloning",
+        "summary": "Individual model developers cannot stop the large volume of AI-generated game imitations.",
+        "link": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+        "source": "Ars Technica",
+        "originalTitle": "Claude’s new rules against game cloning won’t stop the AI copying boom"
+      }
+    ],
+    "slotKey": "2026-11-07:evening",
+    "messageId": 193472,
+    "sentAt": "2026-11-07T19:36:25.876Z"
+  },
+  "30f03e4f-63ea-4d9e-835b-71b98d69e995": {
+    "status": "sent",
+    "reservedAt": "2026-11-08T11:34:07.079Z",
+    "stories": [
+      {
+        "index": 2,
+        "original_title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+        "headline": "Chinese agents recruited tech executive to spy on Nvidia CEO",
+        "summary": "A leaked intelligence memo details foreign government efforts targeting the chief executive of the leading chip producer.",
+        "event_rationale": "Covers a foreign espionage operation targeting Nvidia's chief executive, distinct from any previously reported security incidents.",
+        "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+        "source": "TechCrunch",
+        "originalTitle": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo"
+      },
+      {
+        "index": 3,
+        "headline": "OpenAI reportedly raises $11 billion at $1.25 trillion valuation",
+        "summary": "The company expects to finalize this investment round within the next few weeks.",
+        "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+        "source": "TechCrunch",
+        "originalTitle": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation"
+      },
+      {
+        "index": 8,
+        "headline": "Securing enterprise AI agents through data lineage tracking",
+        "summary": "Companies use data lineage to monitor how AI agents access and process information from multiple internal sources.",
+        "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+        "source": "MIT Tech Review",
+        "originalTitle": "Securing the agentic enterprise with data lineage"
+      }
+    ],
+    "slotKey": "2026-11-08:afternoon",
+    "messageId": 193475,
+    "sentAt": "2026-11-08T11:34:13.994Z"
+  },
+  "19c827af-eff2-4fd5-819f-a0e1e471400d": {
+    "status": "sent",
+    "reservedAt": "2026-11-08T19:34:31.009Z",
+    "stories": [
+      {
+        "index": 3,
+        "headline": "AI spending flattens as usage rises while Anthropic approaches IPO",
+        "summary": "Price cuts and better cost management keep expenditures steady, which may challenge investor assumptions about rapid growth.",
+        "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+        "source": "TechCrunch",
+        "originalTitle": "Ramp data shows AI spending stalling just as Anthropic nears its IPO"
+      }
+    ],
+    "slotKey": "2026-11-08:evening",
+    "messageId": 193478,
+    "sentAt": "2026-11-08T19:34:45.064Z"
+  },
+  "be1d7f3e-4253-41f1-b798-ad9651f571d4": {
+    "status": "sent",
+    "reservedAt": "2026-11-09T03:34:38.561Z",
+    "stories": [
+      {
+        "index": 3,
+        "original_title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+        "headline": "Airbnb plans to launch AI travel agent by 2027",
+        "summary": "The upcoming tool will assist users with trip planning, booking management, and customer support throughout their stay.",
+        "event_rationale": "This reports Airbnb's official announcement of an integrated AI travel agent, detailing a new major enterprise deployment plan.",
+        "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+        "source": "TechCrunch",
+        "originalTitle": "Airbnb says it’s launching an AI travel agent in the first half of 2027"
+      },
+      {
+        "index": 4,
+        "headline": "Tech companies blame political bias for AI restriction votes",
+        "summary": "Industry leaders argue that public opposition to AI infrastructure is driven by politics instead of technology concerns.",
+        "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+        "source": "Ars Technica",
+        "originalTitle": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”"
+      }
+    ],
+    "slotKey": "2026-11-09:morning",
+    "messageId": 193480,
+    "sentAt": "2026-11-09T03:34:42.692Z"
+  },
+  "945c1a44-82ea-4247-9184-52e0ebadc348": {
+    "status": "sent",
+    "reservedAt": "2026-11-09T11:33:55.233Z",
+    "stories": [
+      {
+        "index": 1,
+        "original_title": "The climate case for AI has not been made",
+        "headline": "UN climate conference addresses artificial intelligence energy demands",
+        "summary": "International delegates gather in Turkey to address the growing power demands and environmental impact of artificial intelligence.",
+        "event_rationale": "Covers global climate policy discussions regarding AI power consumption, distinct from regional energy bills or political shifts.",
+        "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+        "source": "MIT Tech Review",
+        "originalTitle": "The climate case for AI has not been made"
+      },
+      {
+        "index": 5,
+        "headline": "Russia plans underground data centers to protect against drone strikes",
+        "summary": "Officials are moving server infrastructure below ground to shield digital systems from aerial attacks.",
+        "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+        "source": "Ars Technica",
+        "originalTitle": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers"
+      }
+    ],
+    "slotKey": "2026-11-09:afternoon",
+    "messageId": 193484,
+    "sentAt": "2026-11-09T11:35:06.162Z"
+  },
+  "9e2840bc-2024-4ccf-af33-e781dbc27873": {
+    "status": "sent",
+    "reservedAt": "2026-11-09T19:51:04.389Z",
+    "stories": [
+      {
+        "index": 1,
+        "original_title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+        "headline": "Anthropic releases new Mythos and Fable AI models",
+        "summary": "The new models provide improved performance in coding, reasoning, and vision tasks for enterprise users.",
+        "event_rationale": "This covers a significant new model release from a frontier AI lab, distinct from all other infrastructure or policy news.",
+        "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+        "source": "TechCrunch",
+        "originalTitle": "Anthropic releases new Mythos and Fable models amid RSI concerns"
+      },
+      {
+        "index": 20,
+        "original_title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+        "headline": "Chinese AI models demonstrate advanced cybersecurity hacking capabilities",
+        "summary": "Independent testing shows open-weights models from China now rival top-tier proprietary systems in automated network exploitation.",
+        "event_rationale": "This highlights a major research breakthrough in model capabilities regarding cybersecurity, distinct from product releases or corporate funding.",
+        "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+        "source": "Wired",
+        "originalTitle": "Free Chinese AI Models Are Getting Scary Good at Hacking"
+      },
+      {
+        "index": 10,
+        "original_title": "Disney and Adobe are building generative AI tools together",
+        "headline": "Disney and Adobe partner to develop generative AI tools",
+        "summary": "The multiyear collaboration focuses on creating proprietary, artist-led models to support large-scale media production pipelines.",
+        "event_rationale": "This represents a notable industry deployment at scale between two major corporations, distinct from startup funding or regulatory news.",
+        "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+        "source": "The Verge",
+        "originalTitle": "Disney and Adobe are building generative AI tools together"
+      }
+    ],
+    "slotKey": "2026-11-09:evening",
+    "messageId": 193486,
+    "sentAt": "2026-11-09T19:52:34.980Z"
+  },
+  "b90496fa-bb40-4142-a8e9-cf6ccfc6b734": {
+    "status": "sent",
+    "reservedAt": "2026-11-10T11:33:14.944Z",
+    "stories": [
+      {
+        "index": 5,
+        "original_title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+        "headline": "Google DeepMind uses AI to verify Signal encryption protocol",
+        "summary": "Researchers formally proved the messaging protocol operates securely as part of an effort to verify global software.",
+        "event_rationale": "Covers Google DeepMind's research breakthrough in formally verifying encryption protocols using AI, distinct from all previously listed stories.",
+        "link": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+        "source": "Wired",
+        "originalTitle": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure"
+      },
+      {
+        "index": 6,
+        "original_title": "Meta introduces Muse Ember to power cost-efficient AI agents",
+        "headline": "Meta releases Muse Ember model for AI agents",
+        "summary": "The low-cost model was trained by a larger internal algorithm to run automated tasks more efficiently.",
+        "event_rationale": "Covers the release of Meta's low-cost Muse Ember AI model, which is distinct from previously posted Meta feature updates.",
+        "link": "https://siliconangle.com/2026/11/09/meta-introduces-muse-ember-to-power-cost-efficient-ai-agents/",
+        "source": "SiliconANGLE",
+        "originalTitle": "Meta introduces Muse Ember to power cost-efficient AI agents"
+      },
+      {
+        "index": 1,
+        "headline": "Developers Release AI Models With Removed Safety Filters",
+        "summary": "Modified systems allow users to perform restricted tasks like cybersecurity research or creating hazardous materials.",
+        "link": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+        "source": "Wired",
+        "originalTitle": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers"
+      }
+    ],
+    "slotKey": "2026-11-10:afternoon",
+    "messageId": 193490,
+    "sentAt": "2026-11-10T11:33:27.893Z"
+  },
+  "cf6b3183-3e96-4995-9cb6-d98766a033ba": {
+    "status": "sent",
+    "reservedAt": "2026-11-10T19:34:43.443Z",
+    "stories": [
+      {
+        "index": 7,
+        "original_title": "Google broadens its AI hardware portfolio with two new specialized chips",
+        "headline": "Google releases two new specialized AI processing chips",
+        "summary": "The new hardware units provide increased memory capacity and enhanced security features for confidential model training workloads.",
+        "event_rationale": "This covers a specific infrastructure release by a major cloud provider, distinct from software or model announcements.",
+        "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+        "source": "TechCrunch",
+        "originalTitle": "Google broadens its AI hardware portfolio with two new specialized chips"
+      },
+      {
+        "index": 23,
+        "original_title": "Thinking Machines debuts Inkling 2 Small amid reported $5B fundraising push",
+        "headline": "Thinking Machines releases Inkling 2 Small language model",
+        "summary": "The new model is designed to automate AI training processes as the company reportedly seeks $5 billion in funding.",
+        "event_rationale": "This covers a significant new model release coupled with a major funding development, distinct from the other selected events.",
+        "link": "https://siliconangle.com/2026/11/06/thinking-machines-debuts-inkling-2-small-amid-reported-5b-fundraising-push/",
+        "source": "SiliconANGLE",
+        "originalTitle": "Thinking Machines debuts Inkling 2 Small amid reported $5B fundraising push"
+      },
+      {
+        "index": 2,
+        "headline": "Nvidia CEO Jensen Huang faces potential security risks",
+        "summary": "As the leader of a major AI chip supplier, Huang is a target for international espionage.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+        "source": "The Verge",
+        "originalTitle": "The US is winning the AI race. Jensen Huang could have blown it"
+      }
+    ],
+    "slotKey": "2026-11-10:evening",
+    "messageId": 193493,
+    "sentAt": "2026-11-10T19:34:54.766Z"
   }
 }

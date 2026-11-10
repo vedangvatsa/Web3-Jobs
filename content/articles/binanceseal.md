@@ -1,0 +1,28 @@
+---
+title: SEAL Says Binance Hackers Had an Eight-Week Intrusion Window
+ogTitle: "SEAL SAYS BINANCE HACKERS HAD AN EIGHT-WEEK INTRUSION WINDOW"
+description: A Security Alliance report estimates a Binance engineer's device was compromised in September through a fake recruitment approach, about eight weeks before the exchange's Oct. 29 exploit, while Binance says wallet infrastructure access came on Oct. 20.
+image: /images/news/binanceseal.jpg
+imageCaption: "Binance co-founder Changpeng Zhao at Web Summit 2022. Photo: Ben McShane/Web Summit via Sportsfile (CC BY 2.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:2022%20-%20Press%20Conferences%20BE6%201683%20(52472715583).jpg
+category: News
+data-ai-hint: entrepreneur speaking at conference
+publishedDate: '2026-11-09'
+lastUpdated: '2026-11-09'
+---
+
+Security Alliance, the nonprofit security group that runs SEAL, estimated in a [report published Nov. 5](https://radar.securityalliance.org/tradertraitor-vs-contagious-interview-a-look-at-binances-initial-incident-report/) that North Korea-linked hackers compromised a Binance software engineer's device in September through a fake recruitment approach, roughly eight weeks before the exchange's Oct. 29 exploit. The estimate covers the September foothold to the day of the theft, not the start of the wider campaign Binance has described.
+
+[Cointelegraph](https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance), which sought comment from the exchange, reported that Binance disputes the framing of that window. A Binance spokesperson said the initial device compromises occurred in June and September, but that attackers did not gain the access needed to reach wallet operations until Oct. 20. "As outlined in our announcement, the initial device compromises occurred in June and September, but the attackers did not gain the access needed to reach wallet operations until October 20, when they used that foothold to move laterally and obtain access to additional devices and credentials," the spokesperson said.
+
+Binance traced the first compromise to June, when an employee downloaded a tampered Homebrew installation while attempting to set up an AI coding tool, according to a Tuesday X post cited in the Cointelegraph report. The exchange detected that incident, replaced the device and rotated credentials, but said the attackers had already gathered information about employees working on wallet infrastructure. On Oct. 20, the attackers used the September engineer's compromised computer and an internal AI tool to take control of two wallet infrastructure engineers' devices, then discovered a deployment permission token that Binance says was used in the Oct. 29 exploit, [TokenPost](https://www.tokenpost.com/news/technology/51375) also reported.
+
+SEAL named at least four front companies it says were tied to the group's fake hiring campaigns in 2026: citalab.net, citalab.com, bitfit.io and oddium.io. The report describes a cluster of operations in which a target who searches the recruiting company finds an operational website, corporate registration data and an active online presence with no reports of malicious behavior, and where real people conduct interviews at later stages of the process. SEAL wrote that the timeline and details Binance has published match that pattern, noting that Binance reported an engineer identified as Engineer B had two rounds of interviews with different people.
+
+The report places the Binance intrusion alongside three other attributed heists in a table of dwell times: about six weeks at LayerZero between March 6 and April 18 before the vulnerability that led to the $293 million Kelp DAO exploit, about three weeks at AFX in July before a $24 million theft, about six weeks inside Bitget before the $388 million hack on Sept. 24, and about eight weeks at Binance. For Bitget, SEAL said the earliest malicious activity in available logs dates to August, giving the attackers at least 24 days of access before the theft.
+
+For the Bitget case, SEAL noted there has been no mention of social engineering or malware delivery from SlowMist, Mandiant or Bitget, and said it is waiting for a final post-mortem. It assessed that the intrusion there followed the same pattern of infrastructure-level manipulation rather than key theft seen at LayerZero. The report also said Binance has not yet provided meaningful technical indicators, and profiled TraderTraitor, also tracked as Jade Sleet and UNC4899, as a group known for careful target selection, research and long-running campaigns aimed at establishing any foothold inside a target company.
+
+SEAL's summary of the four cases is blunt: "In every case the intrusion was there to be found." The report added that after initial intrusion, threat actors can navigate compromised systems with a "high degree of stealth over prolonged periods of time," and it urged companies to monitor cloud and endpoint logs for lateral movement, privilege escalation and credential abuse across the whole dwell window.
+
+The FBI has [attributed](https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance) the Binance attack to North Korea's TraderTraitor, and Kim Yo Jong, sister of North Korean leader Kim Jong Un, dismissed the accusations, Cointelegraph reported. TokenPost noted that SEAL's timeline adds a later checkpoint to Binance co-CEO Richard Teng's earlier account of the intrusion, which put its beginning in June. SEAL's own report puts the Binance theft at approximately $6.4 billion, while Binance has estimated the incident at about $6.3 billion.

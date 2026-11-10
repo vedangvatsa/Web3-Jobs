@@ -1,0 +1,84 @@
+{
+  "history": [
+    {
+      "slug": "dcmaccess",
+      "platform": "x",
+      "channelId": "6ab62682ea19ca0bdee284bd",
+      "postId": "6af13edae44ddbb57c2cd88d",
+      "status": "queued",
+      "slot": "morning",
+      "date": "2026-11-09",
+      "queuedAt": "2026-11-09T03:32:42.771Z"
+    },
+    {
+      "slug": "dcmaccess",
+      "platform": "linkedin",
+      "channelId": "69c5b139af47dacb695b5feb",
+      "postId": "6af13edd0361dbda74b5b0ac",
+      "status": "queued",
+      "slot": "morning",
+      "date": "2026-11-09",
+      "queuedAt": "2026-11-09T03:32:42.771Z"
+    },
+    {
+      "slug": "bankchecks",
+      "platform": "linkedin",
+      "channelId": "69c5b139af47dacb695b5feb",
+      "postId": "6af1af4a9541fd37f94083cc",
+      "status": "queued",
+      "slot": "afternoon",
+      "date": "2026-11-09",
+      "queuedAt": "2026-11-09T11:32:22.866Z"
+    },
+    {
+      "slug": "frenchhill",
+      "platform": "x",
+      "channelId": "6ab62682ea19ca0bdee284bd",
+      "postId": "6af223f829f60b1cda2d55aa",
+      "status": "queued",
+      "slot": "evening",
+      "date": "2026-11-09",
+      "queuedAt": "2026-11-09T19:50:15.901Z"
+    },
+    {
+      "slug": "frenchhill",
+      "platform": "linkedin",
+      "channelId": "69c5b139af47dacb695b5feb",
+      "postId": "6af223fc29d3f56e691fc54d",
+      "status": "queued",
+      "slot": "evening",
+      "date": "2026-11-09",
+      "queuedAt": "2026-11-09T19:50:15.901Z"
+    },
+    {
+      "slug": "bankchecks",
+      "platform": "x",
+      "channelId": "6ab62682ea19ca0bdee284bd",
+      "postId": "6af300f8f23c8c39a0e366ff",
+      "status": "queued",
+      "slot": "afternoon",
+      "date": "2026-11-10",
+      "queuedAt": "2026-11-10T11:33:12.579Z"
+    },
+    {
+      "slug": "carf",
+      "platform": "x",
+      "channelId": "6ab62682ea19ca0bdee284bd",
+      "postId": "6af37131e021f9ae4258a669",
+      "status": "queued",
+      "slot": "evening",
+      "date": "2026-11-10",
+      "queuedAt": "2026-11-10T19:32:01.119Z"
+    },
+    {
+      "slug": "carf",
+      "platform": "linkedin",
+      "channelId": "69c5b139af47dacb695b5feb",
+      "postId": "6af371324b93a4c024dc0573",
+      "status": "queued",
+      "slot": "evening",
+      "date": "2026-11-10",
+      "queuedAt": "2026-11-10T19:32:01.119Z"
+    }
+  ]
+}

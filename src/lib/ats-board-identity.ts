@@ -23,7 +23,7 @@ export function getAtsBoardFromUrl(value?: string): AtsBoard | undefined {
       board = segments[0] === 'embed' ? url.searchParams.get('for') || '' : segments[0] === 'v1' ? segments[2] : segments[0];
     } else if (host === 'apply.workable.com') {
       provider = 'workable'; board = segments[0] === 'j' ? '' : segments[0] === 'api' ? segments[segments.indexOf('accounts') + 1] : segments[0];
-    } else if (/\.(bamboohr\.com|recruitee\.com|breezy\.hr|teamtailor\.com)$/.test(host)) {
+    } else if (/\.(bamboohr\.com|recruitee\.com|breezy\.hr|teamtailor\.com|keka\.com)$/.test(host)) {
       const parts = host.split('.');
       provider = parts[parts.length - 2] === 'breezy' ? 'breezy' : parts[parts.length - 2];
       board = parts.slice(0, -2).join('.');
@@ -31,6 +31,8 @@ export function getAtsBoardFromUrl(value?: string): AtsBoard | undefined {
       provider = 'smartrecruiters'; board = segments[0] === 'v1' ? segments[2] : segments[0];
     } else if (host === 'ats.rippling.com') {
       provider = 'rippling'; board = segments[0] === 'api' ? segments[3] : segments[0];
+    } else if (host === 'careers.kula.ai') {
+      provider = 'kula'; board = segments[0];
     }
     if (provider && board) return { provider, board, ...(region && { region }) };
   } catch {}

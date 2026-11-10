@@ -645,5 +645,24 @@
   },
   "zircuit": {
     "twitter": "https://twitter.com/zircuit"
+  },
+  "ckba": {
+    "website": "https://www.ckba.build",
+    "twitter": "https://x.com/ckba_build",
+    "linkedin": "https://www.linkedin.com/company/common-knowledge-base-association"
+  },
+  "infosys": {
+    "website": "https://infosys.com",
+    "linkedin": "https://www.linkedin.com/company/infosys",
+    "twitter": "https://x.com/Infosys"
+  },
+  "hifi": {
+    "website": "https://www.hifi.com/",
+    "twitter": "https://x.com/hifiHQ"
+  },
+  "bitoasis": {
+    "website": "https://bitoasis.net",
+    "twitter": "https://x.com/bitoasis",
+    "linkedin": "https://www.linkedin.com/company/bitoasis-technologies-fze"
   }
 }

@@ -52,11 +52,17 @@ if (!GEMINI_API_KEY) {
 const FEEDS = [
   { url: 'https://techcrunch.com/category/artificial-intelligence/feed/', source: 'TechCrunch' },
   { url: 'https://arstechnica.com/ai/feed/', source: 'Ars Technica' },
-  { url: 'https://venturebeat.com/category/ai/feed/', source: 'VentureBeat' },
+  { url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml', source: 'The Verge' },
+  { url: 'https://www.wired.com/feed/tag/ai/latest/rss', source: 'Wired' },
+  { url: 'https://siliconangle.com/category/ai/feed/', source: 'SiliconANGLE' },
   { url: 'https://www.technologyreview.com/feed/', source: 'MIT Tech Review' },
 ];
 
-const parser = new Parser();
+const parser = new Parser({
+  headers: {
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+  },
+});
 
 // ── Posted history ──
 function loadPosted() {
@@ -75,7 +81,7 @@ async function fetchAllNews() {
           new Promise((_, reject) => setTimeout(() => reject(new Error('timeout')), 15000)),
         ]);
         const items = [];
-        for (const item of (feed.items || []).slice(0, 15)) {
+        for (const item of (feed.items || []).slice(0, 30)) {
           if (item.title && item.link && item.pubDate) {
             items.push({
               title: item.title.trim(),

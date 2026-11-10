@@ -76,6 +76,12 @@ const staticRoutes: MetadataRoute.Sitemap = [
   priority: 0.8,
  },
  {
+  url: `${siteUrl}/top100`,
+  lastModified: new Date(),
+  changeFrequency: 'weekly',
+  priority: 0.9,
+ },
+ {
   url: `${siteUrl}/community`,
   lastModified: new Date(),
   changeFrequency: 'monthly',

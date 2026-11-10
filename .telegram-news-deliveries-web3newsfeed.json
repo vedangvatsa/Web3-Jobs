@@ -3311,5 +3311,407 @@
     "slotKey": "2026-11-06:morning",
     "messageId": 65807,
     "sentAt": "2026-11-06T03:34:10.377Z"
+  },
+  "7a40447b-7fbe-43e3-b65d-bb7e3d0cb653": {
+    "status": "sent",
+    "reservedAt": "2026-11-06T11:33:15.587Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "CFTC approves stock perpetual futures despite industry lawsuit",
+        "summary": "A court denied an industry group's emergency request to block trading of the newly approved contracts.",
+        "link": "https://hashtagweb3.com/equityperps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC clears stock perpetual futures as an industry group sues to stop them"
+      },
+      {
+        "index": -1,
+        "headline": "Y Combinator Calls for AI and Agent Crypto Startups",
+        "summary": "The accelerator seeks projects targeting AI fundraising, stablecoins, tokenized assets, and trading infrastructure for software agents.",
+        "link": "https://hashtagweb3.com/yccrypto?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Y Combinator's October crypto request puts AI fundraising and agent tools at the center"
+      },
+      {
+        "index": -1,
+        "headline": "CME Delays Perpetual Futures Listings Pending Legal Resolution",
+        "summary": "Terry Duffy stated perpetual funding rates are swaps, delaying CME's decision on listing them until CFTC litigation concludes.",
+        "link": "https://hashtagweb3.com/duffyperps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CME's Duffy calls perp funding a swap as CFTC lawsuit heads to full briefing"
+      }
+    ],
+    "slotKey": "2026-11-06:afternoon",
+    "messageId": 65808,
+    "sentAt": "2026-11-06T11:33:19.778Z"
+  },
+  "843b9b33-e09b-4c2d-96b5-f8ccabae3118": {
+    "status": "sent",
+    "reservedAt": "2026-11-06T19:35:20.130Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "South Korean president proposes central cybersecurity oversight agency",
+        "summary": "The government aims to unify security efforts following recent major cryptocurrency thefts and domestic data breaches.",
+        "link": "https://hashtagweb3.com/cyberczar?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "South Korea's president orders a review of a government-wide cybersecurity czar"
+      },
+      {
+        "index": -1,
+        "headline": "Analytics Vendor Amplitude Exposed Coinbase Customer Contact Data",
+        "summary": "A small group of users had contact details leaked, but internal systems and funds remain secure.",
+        "link": "https://hashtagweb3.com/amplitude?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Coinbase Says Analytics Vendor Amplitude Exposed Customer Contact Data"
+      },
+      {
+        "index": -1,
+        "headline": "Payward Adds 24/7 US Dollar Settlement With Singapore Gulf Bank",
+        "summary": "Institutional users in Asia and the Gulf can now process transactions at any time via SGB Net.",
+        "link": "https://hashtagweb3.com/kraken-settlement?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Kraken operator Payward adds 24-7 dollar settlement with Singapore Gulf Bank"
+      }
+    ],
+    "slotKey": "2026-11-06:evening",
+    "messageId": 65809,
+    "sentAt": "2026-11-06T19:35:29.132Z"
+  },
+  "797b2e25-c72d-4b9e-a1c8-0b3f202cf8a7": {
+    "status": "sent",
+    "reservedAt": "2026-11-07T03:36:45.926Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Trump appoints Jay Clayton to lead AI policy group",
+        "summary": "Former SEC chair Jay Clayton will oversee federal artificial intelligence policy coordination.",
+        "link": "https://hashtagweb3.com/clayton-ai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Trump names Jay Clayton to lead new Super Intelligence Force on AI"
+      },
+      {
+        "index": -1,
+        "headline": "Anchorage Digital Lays Off 17 Percent of Staff",
+        "summary": "The crypto bank reduced its workforce by 68 employees while continuing its expansion into stablecoin issuance.",
+        "link": "https://hashtagweb3.com/anchorage-cuts?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Anchorage Digital Cuts 17 Percent of Staff"
+      },
+      {
+        "index": 1,
+        "headline": "US Treasury Bans Financial Institutions From Working With MEXC",
+        "summary": "The government blocked MEXC from the US financial system for allegedly facilitating $16 billion in illicit transactions.",
+        "link": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
+        "source": "Decrypt",
+        "originalTitle": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System"
+      }
+    ],
+    "slotKey": "2026-11-07:morning",
+    "messageId": 65810,
+    "sentAt": "2026-11-07T03:38:12.485Z"
+  },
+  "2f379512-ca1a-4cc9-88e4-6f2f74aca71d": {
+    "status": "sent",
+    "reservedAt": "2026-11-07T11:35:52.749Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Ex-FBI Agent Pleads Guilty to $2.47 Million Crypto Theft",
+        "summary": "Patrick Steven Yaroch used credentials from 35 bureau investigations to transfer funds into personal cryptocurrency wallets.",
+        "link": "https://hashtagweb3.com/yaroch?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Former FBI agent pleads guilty to stealing $2.47 million in crypto from bureau cases"
+      },
+      {
+        "index": -1,
+        "headline": "Hackers Convert $50 Million in Stolen XRP to Bitcoin",
+        "summary": "Elliptic reported that thieves exchanged 42 million stolen XRP using THORChain, leaving 192 million tokens unmoved.",
+        "link": "https://hashtagweb3.com/xrplaunder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Hackers Swap About $50 Million of Stolen XRP Into Bitcoin, Elliptic Says"
+      },
+      {
+        "index": 1,
+        "headline": "US Sanctions Canadian Currency Exchanges Over Iran Links",
+        "summary": "Additionally, officials offered up to $20 million and relocation for information regarding Iran's nuclear program.",
+        "link": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "US sanctions Canadian money-exchange firms over Iran ties"
+      }
+    ],
+    "slotKey": "2026-11-07:afternoon",
+    "messageId": 65811,
+    "sentAt": "2026-11-07T11:36:00.394Z"
+  },
+  "47a152b3-c040-474f-9d71-0a373e487936": {
+    "status": "sent",
+    "reservedAt": "2026-11-07T19:36:59.429Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "SEC approves Cboe rules for six leveraged commodity funds",
+        "summary": "The agency authorized trusts tracking gold, silver, bitcoin, ether, crude oil, and natural gas on October 2, 2026.",
+        "link": "https://hashtagweb3.com/triple-funds?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEC clears Cboe listing rules for six 3x Volatility Shares funds"
+      },
+      {
+        "index": 27,
+        "headline": "Nigeria Central Bank issues licensing rules for stablecoin providers",
+        "summary": "The new framework requires local licenses for service providers and bans the issuance of algorithmic stablecoins.",
+        "event_rationale": "This covers a significant regulatory framework for stablecoins in a major emerging market, distinct from South Korea's recent forex law changes.",
+        "link": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
+        "source": "The Block",
+        "originalTitle": "Nigeria’s central bank introduces stablecoin licensing rules, bans algorithmic versions"
+      },
+      {
+        "index": 3,
+        "headline": "Bitcoin ETFs record $1.28 billion in weekly outflows",
+        "summary": "BlackRock's IBIT fund saw $403 million in Friday withdrawals, contributing to the largest weekly loss since June.",
+        "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
+        "source": "The Block",
+        "originalTitle": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June"
+      }
+    ],
+    "slotKey": "2026-11-07:evening",
+    "messageId": 65812,
+    "sentAt": "2026-11-07T19:37:18.233Z"
+  },
+  "8f892184-05ed-45ec-844c-5ffc136fe3b7": {
+    "status": "sent",
+    "reservedAt": "2026-11-08T11:34:37.368Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Winklevoss Files S-1 for Spot Zcash ETF",
+        "summary": "The proposed Nasdaq fund features a 0.25 percent fee and uses Gemini as its custodian.",
+        "link": "https://hashtagweb3.com/zec-etf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Winklevoss Files for Spot Zcash ETF With WINK Ticker"
+      },
+      {
+        "index": 2,
+        "headline": "Strive purchases 15,124 Bitcoin for corporate treasury",
+        "summary": "The asset management firm increased its total holdings to 43,124 bitcoins following a profitable third quarter.",
+        "event_rationale": "This represents a significant institutional capital allocation into digital assets, distinct from exchange-traded fund flows or retail price movements.",
+        "link": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "Binance’s  finance chief Kaiser Ng to leave company, report says"
+      },
+      {
+        "index": 1,
+        "headline": "Police Detain Protesters at Amsterdam Microsoft Data Center",
+        "summary": "Dutch authorities held up to 200 people for trespassing during the demonstration.",
+        "link": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "Amsterdam protesters break into Microsoft data center construction site: Report"
+      }
+    ],
+    "slotKey": "2026-11-08:afternoon",
+    "messageId": 65813,
+    "sentAt": "2026-11-08T11:34:47.381Z"
+  },
+  "5b78b36e-504a-435e-97a9-6692ffe3b79a": {
+    "status": "sent",
+    "reservedAt": "2026-11-08T19:34:52.218Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "French Hill Wins Reelection but Loses Committee Chairmanship",
+        "summary": "The Arkansas Republican will lose his leadership role when Democrats take control of the House in January.",
+        "link": "https://hashtagweb3.com/frenchhill?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "French Hill Wins Reelection but Is Set to Lose House Financial Services Chair"
+      },
+      {
+        "index": -1,
+        "headline": "Hong Kong Passes Crypto Tax Reporting Bill",
+        "summary": "The legislation adopts OECD standards, requiring local crypto firms to collect user data starting in 2027.",
+        "link": "https://hashtagweb3.com/carf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Hong Kong Lawmakers Pass Crypto Tax Reporting Bill for 2027 Collection"
+      },
+      {
+        "index": -1,
+        "headline": "French lawmakers approve tax on crypto-to-stablecoin swaps",
+        "summary": "Implementation begins in 2027 while proposals for exit taxes and wallet reporting remain under legislative review.",
+        "link": "https://hashtagweb3.com/francetax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "French Assembly backs tax on crypto-to-stablecoin swaps by one vote"
+      }
+    ],
+    "slotKey": "2026-11-08:evening",
+    "messageId": 65814,
+    "sentAt": "2026-11-08T19:35:07.163Z"
+  },
+  "281e23a9-7d6e-41bd-90f3-ebb4b13d99c8": {
+    "status": "sent",
+    "reservedAt": "2026-11-09T03:36:16.302Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "CFTC Orders Futures Exchanges to End US Location Restrictions",
+        "summary": "Exchanges must comply within 30 days or explain to regulators why doing so is not feasible.",
+        "link": "https://hashtagweb3.com/dcmaccess?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC gives futures exchanges 30 days to drop domestic geographic restrictions"
+      },
+      {
+        "index": 1,
+        "headline": "US Treasury withdraws crypto transaction surveillance proposal",
+        "summary": "The government agency abandoned a controversial plan that would have expanded data collection requirements for digital asset transactions.",
+        "event_rationale": "This covers a specific regulatory policy reversal by the US Treasury regarding the 'travel rule' for crypto, which is distinct from all other listed events.",
+        "link": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+        "source": "CoinDesk",
+        "originalTitle": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility"
+      },
+      {
+        "index": 2,
+        "headline": "Greece implements new tax framework for cryptocurrency gains",
+        "summary": "The legislation introduces a 10% tax on capital gains and a 15% levy on income from staking and decentralized finance.",
+        "event_rationale": "This represents a new national tax law specifically targeting crypto assets and DeFi, which is semantically distinct from existing regulatory or market stories.",
+        "link": "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779",
+        "source": "The Block",
+        "originalTitle": "What is Zcash (ZEC)? How shielded transactions work"
+      }
+    ],
+    "slotKey": "2026-11-09:morning",
+    "messageId": 65815,
+    "sentAt": "2026-11-09T03:36:23.901Z"
+  },
+  "5deb8f4e-1d83-41bf-a214-413e1c1d994e": {
+    "status": "sent",
+    "reservedAt": "2026-11-09T11:35:57.975Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "White House Reviews DOL Rule on Crypto in 401(k)s",
+        "summary": "The proposal gives retirement plan managers safe harbor protection when offering crypto and alternative assets.",
+        "link": "https://hashtagweb3.com/dolrule?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "DOL Final Rule on Crypto in 401(k)s Reaches White House Review"
+      },
+      {
+        "index": -1,
+        "headline": "NEAR Protocol holders approve lower annual token issuance cap",
+        "summary": "HSP-029 lowers the issuance ceiling to 1.6% over 24 months, awaiting final security and validator implementation.",
+        "link": "https://hashtagweb3.com/nearvote?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "NEAR holders approve 1.6% issuance cap, with validators still to act"
+      },
+      {
+        "index": -1,
+        "headline": "Tether Reports $1.5 Billion Third-Quarter Operating Profit",
+        "summary": "US Treasury bills and repurchase agreements drove earnings, raising Tether's reserve buffer to $7.95 billion.",
+        "link": "https://hashtagweb3.com/tetherq3?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Tether Reports $1.5 Billion Q3 Operating Profit as Reserve Buffer Nears $8 Billion"
+      }
+    ],
+    "slotKey": "2026-11-09:afternoon",
+    "messageId": 65816,
+    "sentAt": "2026-11-09T11:36:07.731Z"
+  },
+  "ba85603a-9960-4714-9936-2a423a509394": {
+    "status": "sent",
+    "reservedAt": "2026-11-09T19:54:19.880Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Chainalysis Links $6.4 Billion Binance Theft to North Korea",
+        "summary": "Investigators identified the TraderTraitor group as responsible for the hack and have frozen $2.8 billion of stolen assets.",
+        "link": "https://hashtagweb3.com/tradertraitor?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Chainalysis Ties $6.4 Billion Binance Hack to North Korea"
+      },
+      {
+        "index": 2,
+        "headline": "US Senate sets deadline for crypto firms to provide records",
+        "summary": "Four major crypto companies must submit requested documentation to a Senate committee by November 30 or face further action.",
+        "event_rationale": "This represents a specific, time-bound legislative oversight action targeting multiple major industry players, distinct from general regulatory or law enforcement activity.",
+        "link": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
+        "source": "Decrypt",
+        "originalTitle": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto"
+      },
+      {
+        "index": 3,
+        "headline": "Bitcoin Stagnates as Investors Await US Inflation Data",
+        "summary": "Bitcoin remains near $75,000 while stock markets rise ahead of upcoming economic reports affecting Federal Reserve policy.",
+        "link": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
+        "source": "Decrypt",
+        "originalTitle": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report"
+      }
+    ],
+    "slotKey": "2026-11-09:evening",
+    "messageId": 65817,
+    "sentAt": "2026-11-09T19:54:31.938Z"
+  },
+  "d85cda5e-92c4-4d65-8c35-820fe56d7df0": {
+    "status": "sent",
+    "reservedAt": "2026-11-10T11:38:00.277Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Formation Securities plans Solana venue for tokenized US stocks",
+        "summary": "The company filed with the SEC to launch the platform in early 2027 under the Innovation Exemption.",
+        "link": "https://hashtagweb3.com/formation?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Formation Securities files notice for Solana tokenized stock venue"
+      },
+      {
+        "index": -1,
+        "headline": "US sanctions 41 entities linked to Prince Group scam network",
+        "summary": "On November 5, officials designated four individuals and dozens of firms for maintaining the organization's illegal scam operations.",
+        "link": "https://hashtagweb3.com/princescams?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "OFAC sanctions 41 companies tied to Prince Group scam network"
+      },
+      {
+        "index": 1,
+        "headline": "Shareholders Sue Nvidia CEO Over Alleged Chinese Spy Ties",
+        "summary": "Investors allege the company failed to disclose risks from the CEO's relationship with a suspected foreign agent.",
+        "link": "https://decrypt.co/382913/nvidia-jensen-huang-sued-by-shareholders-over-alleged-ties-to-suspected-chinese-spy",
+        "source": "Decrypt",
+        "originalTitle": "Nvidia, Jensen Huang Sued by Shareholders Over Alleged Ties to Suspected Chinese Spy"
+      }
+    ],
+    "slotKey": "2026-11-10:afternoon",
+    "messageId": 65818,
+    "sentAt": "2026-11-10T11:38:17.722Z"
+  },
+  "bae354b2-ab93-4fee-80d0-e4d732e46c20": {
+    "status": "sent",
+    "reservedAt": "2026-11-10T19:40:24.313Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Regulators Inquire With Banks Following Binance Security Breach",
+        "summary": "Federal agencies contacted banks regarding potential service disruptions after a major security incident involving Binance.",
+        "link": "https://hashtagweb3.com/bankchecks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Fed and OCC Contact Banks About Unusual Activity After the Binance Hack"
+      },
+      {
+        "index": 1,
+        "headline": "Global banks commit $270 million to launch stablecoin issuer",
+        "summary": "A consortium of major financial institutions is funding a new U.S.-incorporated stablecoin issuer to compete with existing market leaders.",
+        "event_rationale": "This covers a major institutional entry into the stablecoin market, distinct from existing stablecoin regulation or individual company updates.",
+        "link": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
+        "source": "Decrypt",
+        "originalTitle": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles"
+      },
+      {
+        "index": 4,
+        "headline": "Higher US inflation increases likelihood of December rate hike",
+        "summary": "Rising consumer prices lead analysts to expect larger interest rate increases, creating uncertainty for cryptocurrency markets.",
+        "link": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "Hot US inflation raises odds of half-point Fed hike in December"
+      }
+    ],
+    "slotKey": "2026-11-10:evening",
+    "messageId": 65819,
+    "sentAt": "2026-11-10T19:40:31.061Z"
   }
 }

@@ -734,5 +734,64 @@
       "pageTitle": "Get Down For Real · Luma",
       "sha256": "c98f23f28c001555831dde99348fd6f0b9c0a5cda49e8f6804d7c54d8ffe5f8f"
     }
+  },
+  {
+    "id": "token2049-evt-mtGOY2CrC193nlv",
+    "name": "After Hours @ Fintech Week 🚀",
+    "description": "After Hours @ Fintech Week 🚀 is scheduled for 20 November 2026 at 22:00 (Asia/Singapore) in Singapore. Hosted by Asia Web3 Ai Association (AWAA), Insight Genesis.\n\nThis glamorous event will bring together industry leaders, innovators, and enthusiasts for an evening of networking, entertainment, and celebration.\n\nAs this is an invite-only event, please be aware that registering does not guarantee access due to limited availability.\n\nPlease note that entry will be granted only to ticketed guests, and tickets are not transferable.\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
+    "startDate": "2026-11-20T14:00:00.000Z",
+    "location": "Singapore, Singapore",
+    "url": "https://luma.com/01k4xxdf",
+    "registrationUrl": "https://luma.com/01k4xxdf",
+    "coverImage": "/events/token2049-evt-mtgoy2crc193nlv-565d9386.webp",
+    "endDate": "2026-11-20T17:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Singapore",
+    "country": "Singapore",
+    "hosts": [
+      "Asia Web3 Ai Association (AWAA)",
+      "Insight Genesis"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Asia Web3 Ai Association (AWAA)",
+      "url": "https://asiaweb3aiassociation.org/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "After Hours",
+        "url": "https://luma.com/01k4xxdf",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/01k4xxdf",
+      "eventId": "evt-mtGOY2CrC193nlv",
+      "fetchedAt": "2026-11-06T11:32:06.065Z",
+      "method": "luma-api"
+    },
+    "slug": "after-hours",
+    "source": "token2049-verified",
+    "descriptionSource": {
+      "url": "https://luma.com/01k4xxdf",
+      "fetchedAt": "2026-11-06T11:32:06.065Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "After Hours @ Fintech Week 🚀",
+      "sha256": "c36d78d08834341cb6bb4f52f9eb44f09534fd9041c2b9df680151f84b47ed65",
+      "evidence": [
+        {
+          "url": "https://luma.com/01k4xxdf",
+          "fetchedAt": "2026-11-06T11:32:06.065Z",
+          "sha256": "36b5cc873b24faa95e93d037a133ecda7bb82eb50381935976bc7d92f8627982"
+        }
+      ]
+    }
   }
 ]

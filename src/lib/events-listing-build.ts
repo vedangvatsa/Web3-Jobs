@@ -279,6 +279,8 @@ function linkSideEventParents(event: Web3Event): Web3Event {
     else if (event.startDate < '2026-11-07') sideEventFor.add('devcon');
   }
   if (event.id === 'side-monad-builder-lounge-breakpoint-2026') sideEventFor.add('breakpoint');
+  if (sideEventFor.has('breakpoint')) sideEventFor.add('solana-breakpoint');
+  if (sideEventFor.has('solana-breakpoint')) sideEventFor.add('breakpoint');
 
   return sideEventFor.size ? { ...event, sideEventFor: [...sideEventFor] } : event;
 }

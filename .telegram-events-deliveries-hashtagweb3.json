@@ -4798,5 +4798,588 @@
     "slotKey": "2026-11-06:morning",
     "messageId": 156102,
     "sentAt": "2026-11-06T03:32:21.216Z"
+  },
+  "4b9450ae-4dbc-4539-873f-28f667c6a983": {
+    "status": "sent",
+    "reservedAt": "2026-11-06T11:32:16.579Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-0Sn4QB5KWkR4LeX",
+        "slug": "solana-fitkzh",
+        "name": "Solana Fitness Zone: Group Reiki Experience | Breakpoint 2026",
+        "startDate": "2026-11-16T11:00:00.000Z",
+        "keys": [
+          "luma-crypto-0sn4qb5kwkr4lex",
+          "page:solana-fitkzh:2026-11-16",
+          "luma-url:/kzh1qgwg",
+          "event:solanafitnesszonegroupreikiexperiencebreakpoint2026:2026-11-16:london"
+        ]
+      },
+      {
+        "id": "luma-crypto-ye20BagHxEHh8CO",
+        "slug": "solana-fitsfz",
+        "name": "Solana Fitness Zone: Content Freestyle | Breakpoint 2026",
+        "startDate": "2026-11-16T12:00:00.000Z",
+        "keys": [
+          "luma-crypto-ye20baghxehh8co",
+          "page:solana-fitsfz:2026-11-16",
+          "luma-url:/sfzfreestyle2",
+          "event:solanafitnesszonecontentfreestylebreakpoint2026:2026-11-16:london"
+        ]
+      },
+      {
+        "id": "luma-crypto-4aQg4F5ApsIZFHS",
+        "slug": "que-aporta-una-blockchain-regulada-encuentro-139-superpioneros",
+        "name": "¿Qué aporta una Blockchain regulada? - Encuentro #139 SuperPioneros",
+        "startDate": "2026-11-16T16:30:00.000Z",
+        "keys": [
+          "luma-crypto-4aqg4f5apsizfhs",
+          "9na7snow",
+          "page:que-aporta-una-blockchain-regulada-encuentro-139-superpioneros:2026-11-16",
+          "luma-url:/9na7snow",
+          "event:quéaportaunablockchainreguladaencuentro139superpioneros:2026-11-16:madrid"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-06:afternoon",
+    "messageId": 156107,
+    "sentAt": "2026-11-06T11:32:19.438Z"
+  },
+  "416342ab-5a06-48e5-a27d-10a68cb1262d": {
+    "status": "sent",
+    "reservedAt": "2026-11-06T19:32:14.669Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "w3v-pr1me-london-series-exclusive-dinner-web3-26-11-16",
+        "slug": "pr1me-london-web3-finance-dinner",
+        "name": "Pr1me [London Series] - Exclusive Dinner for Web3 Finance",
+        "startDate": "2026-11-16T19:00:00.000Z",
+        "keys": [
+          "w3v-pr1me-london-series-exclusive-dinner-web3-26-11-16",
+          "psedwf",
+          "page:pr1me-london-web3-finance-dinner:2026-11-16",
+          "luma:evt-cyedaowozhxmn3o",
+          "luma-url:/aqntywn2",
+          "event:pr1melondonseriesexclusivedinnerforweb3finance:2026-11-16:london"
+        ]
+      },
+      {
+        "id": "eb-2003199972041",
+        "slug": "crypto-web3-startups-investors-london-nov-2026",
+        "name": "Crypto, Web3 & Blockchain Startups, Investors & Builders Networking Event",
+        "startDate": "2026-11-16T19:00:00.000Z",
+        "keys": [
+          "eb-2003199972041",
+          "page:crypto-web3-startups-investors-london-nov-2026:2026-11-16",
+          "luma:2003199972041",
+          "url:eventbrite.co.uk/e/crypto-web3-blockchain-startups-investors-builders-networking-event-tickets-2003199972041:2026-11-16",
+          "event:cryptoweb3blockchainstartupsinvestorsbuildersnetworkingevent:2026-11-16:london"
+        ]
+      },
+      {
+        "id": "w3v-beyond-frame-immersive-art-activation-render-26-11-16",
+        "slug": "beyond-frame",
+        "name": "BEYOND THE FRAME: An Immersive Art Activation by Render Network x Solana",
+        "startDate": "2026-11-16T19:30:00.000Z",
+        "keys": [
+          "w3v-beyond-frame-immersive-art-activation-render-26-11-16",
+          "page:beyond-frame:2026-11-16",
+          "luma:evt-bxyxwvhxiia30lj",
+          "luma-url:/frzpha3k",
+          "event:beyondtheframeanimmersiveartactivationbyrendernetworkxsolana:2026-11-16:london"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-06:evening",
+    "messageId": 156112,
+    "sentAt": "2026-11-06T19:32:17.430Z"
+  },
+  "2ee2dd44-d868-4704-a369-94fde12bc6a9": {
+    "status": "sent",
+    "reservedAt": "2026-11-07T03:32:21.407Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-evt-pJHThGT11BBYohC",
+        "slug": "cryptomondays-blockchain-futurist-kickoff",
+        "name": "CryptoMondays Wall Street, Fort Lauderdale and Miami Chapters come together to bring you the Official Blockchain Futurist Conference Kickoff",
+        "startDate": "2026-11-16T23:00:00.000Z",
+        "keys": [
+          "luma-evt-pjhthgt11bbyohc",
+          "cwsflmcctbyobfck",
+          "page:cryptomondays-blockchain-futurist-kickoff:2026-11-16",
+          "luma:evt-pjhthgt11bbyohc",
+          "luma-url:/btlvlxvx",
+          "event:cryptomondayswallstreetfortlauderdaleandmiamichapterscometogethertobringyoutheofficialblockchainfuturistconferencekickoff:2026-11-16:davie"
+        ]
+      },
+      {
+        "id": "discovery-evt-vvQI67NJtBlP4qH",
+        "slug": "solana-fitness-zone-dynamic-pilates-breakpoint-2026-11-17",
+        "name": "Solana Fitness Zone: Dynamic Pilates | Breakpoint 2026",
+        "startDate": "2026-11-17T07:00:00.000Z",
+        "keys": [
+          "discovery-evt-vvqi67njtblp4qh",
+          "page:solana-fitness-zone-dynamic-pilates-breakpoint-2026-11-17:2026-11-17",
+          "luma:evt-vvqi67njtblp4qh",
+          "luma-url:/solanapilates3",
+          "event:solanafitnesszonedynamicpilatesbreakpoint2026:2026-11-17:london"
+        ]
+      },
+      {
+        "id": "discovery-evt-gjNVvhgcknTCwpc",
+        "slug": "solana-fitness-zone-hiit-class-breakpoint",
+        "name": "Solana Fitness Zone: HIIT Class | Breakpoint 2026",
+        "startDate": "2026-11-17T08:00:00.000Z",
+        "keys": [
+          "discovery-evt-gjnvvhgckntcwpc",
+          "page:solana-fitness-zone-hiit-class-breakpoint:2026-11-17",
+          "luma:evt-gjnvvhgckntcwpc",
+          "luma-url:/solanahiits",
+          "event:solanafitnesszonehiitclassbreakpoint2026:2026-11-17:london"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-07:morning",
+    "messageId": 156118,
+    "sentAt": "2026-11-07T03:32:24.145Z"
+  },
+  "c70671f2-b454-4987-838f-09661fe7a913": {
+    "status": "sent",
+    "reservedAt": "2026-11-07T11:32:41.285Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "discovery-evt-nn6OreUXqAcO2wA",
+        "slug": "solana-fitness-zone-sound-healing-breathwork-breakpoint",
+        "name": "Solana Fitness Zone: Sound Healing & Breathwork | Breakpoint 2026",
+        "startDate": "2026-11-17T09:00:00.000Z",
+        "keys": [
+          "discovery-evt-nn6oreuxqaco2wa",
+          "page:solana-fitness-zone-sound-healing-breathwork-breakpoint:2026-11-17",
+          "luma:evt-nn6oreuxqaco2wa",
+          "luma-url:/solanasoundheals",
+          "event:solanafitnesszonesoundhealingbreathworkbreakpoint2026:2026-11-17:london"
+        ]
+      },
+      {
+        "id": "discovery-evt-EYXjEVxXQ9dbkmf",
+        "slug": "solana-fitness-zone-aerial-yoga-breakpoint",
+        "name": "Solana Fitness Zone: Aerial Yoga | Breakpoint 2026",
+        "startDate": "2026-11-17T10:00:00.000Z",
+        "keys": [
+          "discovery-evt-eyxjevxxq9dbkmf",
+          "page:solana-fitness-zone-aerial-yoga-breakpoint:2026-11-17",
+          "luma:evt-eyxjevxxq9dbkmf",
+          "luma-url:/solanaerial",
+          "event:solanafitnesszoneaerialyogabreakpoint2026:2026-11-17:london"
+        ]
+      },
+      {
+        "id": "premier-ethwomen",
+        "slug": "ethwomen",
+        "name": "ETHWomen Florida",
+        "startDate": "2026-11-17T13:00:00.000Z",
+        "keys": [
+          "premier-ethwomen",
+          "page:ethwomen:2026-11-17",
+          "luma:evt-32pspwnxeclehbg",
+          "luma-url:/ethwomen_fl",
+          "event:ethwomenflorida:2026-11-17:davie"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-07:afternoon",
+    "messageId": 156120,
+    "sentAt": "2026-11-07T11:32:52.128Z"
+  },
+  "317caa1e-ef43-46b3-9154-3a8875d3d997": {
+    "status": "sent",
+    "reservedAt": "2026-11-07T19:32:20.584Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-hlKrPIIiRiniy1E",
+        "slug": "blockchain-london",
+        "name": "Blockchain.com: TYB Party",
+        "startDate": "2026-11-17T20:00:00.000Z",
+        "keys": [
+          "luma-crypto-hlkrpiiiriniy1e",
+          "page:blockchain-london:2026-11-17",
+          "luma-url:/blockc-eg04",
+          "event:blockchaincomtybparty:2026-11-17:london"
+        ]
+      },
+      {
+        "id": "mu-316825220",
+        "slug": "crypto-cigars",
+        "name": "Crypto and Cigars",
+        "startDate": "2026-11-17T18:00:00-05:00",
+        "keys": [
+          "mu-316825220",
+          "page:crypto-cigars:2026-11-17",
+          "url:meetup.com/nj-blockchain/events/316825220:2026-11-17",
+          "event:cryptoandcigars:2026-11-17:hoboken"
+        ]
+      },
+      {
+        "id": "premier-nabsummit",
+        "slug": "north-american-blockchain-summit",
+        "name": "North American Blockchain Summit 2026",
+        "startDate": "2026-11-18",
+        "keys": [
+          "premier-nabsummit",
+          "north",
+          "page:north-american-blockchain-summit:2026-11-18",
+          "event:northamericanblockchainsummit2026:2026-11-18:arlington"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-07:evening",
+    "messageId": 156133,
+    "sentAt": "2026-11-07T19:32:23.324Z"
+  },
+  "adbc46cd-78dd-413c-b3c4-9688771926af": {
+    "status": "sent",
+    "reservedAt": "2026-11-08T11:32:26.036Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "w3v-borneo-blockchain-conference-26-11-18",
+        "slug": "borneo-blockchain-conference",
+        "name": "Borneo Blockchain Conference 2026",
+        "startDate": "2026-11-18",
+        "keys": [
+          "w3v-borneo-blockchain-conference-26-11-18",
+          "page:borneo-blockchain-conference:2026-11-18",
+          "event:borneoblockchainconference2026:2026-11-18:kuching"
+        ]
+      },
+      {
+        "id": "luma-batch-evt5ynGGxaokhFV8",
+        "slug": "blockchain-meets-ai",
+        "name": "Blockchain Meets AI",
+        "startDate": "2026-11-18T16:30:00.000Z",
+        "keys": [
+          "luma-batch-evt5ynggxaokhfv8",
+          "hovkpcus",
+          "page:blockchain-meets-ai:2026-11-18",
+          "luma:evt-5ynggxaokhfv8da",
+          "luma-url:/hovkpcus",
+          "event:blockchainmeetsai:2026-11-18:amsterdam"
+        ]
+      },
+      {
+        "id": "discovery-evt-d2jbH5c6zkZDRCH",
+        "slug": "crypto-dinner-rotterdam",
+        "name": "Crypto Dinner - Rotterdam",
+        "startDate": "2026-11-18T17:30:00.000Z",
+        "keys": [
+          "discovery-evt-d2jbh5c6zkzdrch",
+          "page:crypto-dinner-rotterdam:2026-11-18",
+          "luma:evt-d2jbh5c6zkzdrch",
+          "luma-url:/dinnerrotterdam",
+          "event:cryptodinnerrotterdam:2026-11-18:rotterdam"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-08:afternoon",
+    "messageId": 156145,
+    "sentAt": "2026-11-08T11:32:28.709Z"
+  },
+  "63240cf4-946a-4da5-95e4-e92574f25370": {
+    "status": "sent",
+    "reservedAt": "2026-11-08T19:32:01.212Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-CRKd13ywnfX44wC",
+        "slug": "meetup-crypto-fribourg-novembre",
+        "name": "Meetup Crypto Fribourg Novembre 2026",
+        "startDate": "2026-11-18T17:30:00.000Z",
+        "keys": [
+          "luma-crypto-crkd13ywnfx44wc",
+          "wynsjfk7",
+          "page:meetup-crypto-fribourg-novembre:2026-11-18",
+          "luma-url:/wynsjfk7",
+          "event:meetupcryptofribourgnovembre2026:2026-11-18:fribourg"
+        ]
+      },
+      {
+        "id": "curated-global-bitcoin-circular-economies-summit-2026-11-19",
+        "slug": "global-bitcoin-circular-economies-summit",
+        "name": "Global Bitcoin Circular Economies Summit 2026",
+        "startDate": "2026-11-19",
+        "keys": [
+          "curated-global-bitcoin-circular-economies-summit-2026-11-19",
+          "page:global-bitcoin-circular-economies-summit:2026-11-19",
+          "url:bitcoinbeach.com/summit-blog/bitcoin-circular-economies-summit-2026:2026-11-19",
+          "event:globalbitcoincirculareconomiessummit2026:2026-11-19:el zonte"
+        ]
+      },
+      {
+        "id": "mu-316585521",
+        "slug": "bitcoin-was-unser-geld-morgen-wert-ist",
+        "name": "Bitcoin - Was unser Geld morgen wert ist",
+        "startDate": "2026-11-19T18:15:00+01:00",
+        "keys": [
+          "mu-316585521",
+          "page:bitcoin-was-unser-geld-morgen-wert-ist:2026-11-19",
+          "url:meetup.com/females-fit-for-finance/events/316585521:2026-11-19",
+          "event:bitcoinwasunsergeldmorgenwertist:2026-11-19:vienna"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-08:evening",
+    "messageId": 156147,
+    "sentAt": "2026-11-08T19:32:03.700Z"
+  },
+  "f5b3c493-9135-48ec-902d-f6d0128552c3": {
+    "status": "sent",
+    "reservedAt": "2026-11-09T03:32:47.740Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "premier-cryptofest",
+        "slug": "cryptofest",
+        "name": "Crypto Fest 2026",
+        "startDate": "2026-11-20T09:00:00.000Z",
+        "keys": [
+          "premier-cryptofest",
+          "page:cryptofest:2026-11-20",
+          "event:cryptofest2026:2026-11-20:cape town"
+        ]
+      },
+      {
+        "id": "luma-evt-mPCGxeHyKlTeEgN",
+        "slug": "university-blockchain-conference",
+        "name": "University Blockchain Conference 2026",
+        "startDate": "2026-11-20T15:00:00.000Z",
+        "keys": [
+          "luma-evt-mpcgxehyklteegn",
+          "ubc",
+          "page:university-blockchain-conference:2026-11-20",
+          "luma:evt-mpcgxehyklteegn",
+          "luma-url:/n4ad0k9m",
+          "event:universityblockchainconference2026:2026-11-20:austin"
+        ]
+      },
+      {
+        "id": "discovery-evt-DnwWNYAbNYeW8oC",
+        "slug": "crypto-dinner-amsterdam",
+        "name": "Crypto Dinner - Amsterdam",
+        "startDate": "2026-11-20T17:30:00.000Z",
+        "keys": [
+          "discovery-evt-dnwwnyabnyew8oc",
+          "page:crypto-dinner-amsterdam:2026-11-20",
+          "luma:evt-dnwwnyabnyew8oc",
+          "luma-url:/dinneramsterdam",
+          "event:cryptodinneramsterdam:2026-11-20:amsterdam"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-09:morning",
+    "messageId": 156151,
+    "sentAt": "2026-11-09T03:32:52.910Z"
+  },
+  "09ad0941-4a7b-44e6-a385-509a7acb7db1": {
+    "status": "sent",
+    "reservedAt": "2026-11-09T11:32:39.589Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "premier-ibt-lucknow-2026",
+        "slug": "ibt-lucknow",
+        "name": "India Blockchain & AI Tour 2026 - Lucknow",
+        "startDate": "2026-11-21T10:00:00+05:30",
+        "keys": [
+          "premier-ibt-lucknow-2026",
+          "page:ibt-lucknow:2026-11-21",
+          "url:indiablockchaintour.com/2026-nodes/lucknow/ticket:2026-11-21",
+          "event:indiablockchainaitour2026lucknow:2026-11-21:lucknow"
+        ]
+      },
+      {
+        "id": "discovery-evt-fqCdStFvtJYB08q",
+        "slug": "bitcoin-indonesia-community-meetup-malang-21-november",
+        "name": "Bitcoin Indonesia Community Meetup Malang 21 November 2026",
+        "startDate": "2026-11-21T12:00:00+07:00",
+        "keys": [
+          "discovery-evt-fqcdstfvtjyb08q",
+          "page:bitcoin-indonesia-community-meetup-malang-21-november:2026-11-21",
+          "luma:evt-fqcdstfvtjyb08q",
+          "luma-url:/307ow0kn",
+          "event:bitcoinindonesiacommunitymeetupmalang21november2026:2026-11-21:malang"
+        ]
+      },
+      {
+        "id": "discovery-evt-WHx7rX6yOb8hK4S",
+        "slug": "bitcoin-indonesia-community-meetup-jakarta-21-november",
+        "name": "Bitcoin Indonesia Community Meetup Jakarta 21 November 2026",
+        "startDate": "2026-11-21T13:00:00+07:00",
+        "keys": [
+          "discovery-evt-whx7rx6yob8hk4s",
+          "page:bitcoin-indonesia-community-meetup-jakarta-21-november:2026-11-21",
+          "luma:evt-whx7rx6yob8hk4s",
+          "luma-url:/of16ixug",
+          "event:bitcoinindonesiacommunitymeetupjakarta21november2026:2026-11-21:jakarta"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-09:afternoon",
+    "messageId": 156155,
+    "sentAt": "2026-11-09T11:32:59.205Z"
+  },
+  "a34ecc5e-7c7c-41cd-bf20-e47b0adb3d0c": {
+    "status": "sent",
+    "reservedAt": "2026-11-09T19:49:56.413Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "discovery-evt-E4l4HG2CAI9ljHe",
+        "slug": "bitcoin-merchants-use-bitcoin-your-business-bali-bitcoin-island-2026-11-21",
+        "name": "Bitcoin For Merchants - Use Bitcoin For Your Business (Bali Bitcoin Island)",
+        "startDate": "2026-11-21T16:30:00+08:00",
+        "keys": [
+          "discovery-evt-e4l4hg2cai9ljhe",
+          "page:bitcoin-merchants-use-bitcoin-your-business-bali-bitcoin-island-2026-11-21:2026-11-21",
+          "luma:evt-e4l4hg2cai9ljhe",
+          "luma-url:/fsn6vdzc",
+          "event:bitcoinformerchantsusebitcoinforyourbusinessbalibitcoinisland:2026-11-21:canggu"
+        ]
+      },
+      {
+        "id": "premier-ibt-chandigarh-2026",
+        "slug": "ibt-chandigarh",
+        "name": "India Blockchain & AI Tour 2026 - Chandigarh",
+        "startDate": "2026-11-22T10:00:00+05:30",
+        "keys": [
+          "premier-ibt-chandigarh-2026",
+          "page:ibt-chandigarh:2026-11-22",
+          "url:indiablockchaintour.com/2026-nodes/chandigarh/ticket:2026-11-22",
+          "event:indiablockchainaitour2026chandigarh:2026-11-22:chandigarh"
+        ]
+      },
+      {
+        "id": "discovery-evt-xodkzqBmzveUbjB",
+        "slug": "bitcoin-indonesia-community-meetup-magelang-22-november",
+        "name": "Bitcoin Indonesia Community Meetup Magelang 22 November 2026",
+        "startDate": "2026-11-22T13:00:00+07:00",
+        "keys": [
+          "discovery-evt-xodkzqbmzveubjb",
+          "page:bitcoin-indonesia-community-meetup-magelang-22-november:2026-11-22",
+          "luma:evt-xodkzqbmzveubjb",
+          "luma-url:/epo8prov",
+          "event:bitcoinindonesiacommunitymeetupmagelang22november2026:2026-11-22:magelang"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-09:evening",
+    "messageId": 156159,
+    "sentAt": "2026-11-09T19:50:00.128Z"
+  },
+  "e150b5d8-58d7-43c5-a006-592a3f5da815": {
+    "status": "sent",
+    "reservedAt": "2026-11-10T11:31:50.086Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "premier-planx",
+        "slug": "planx",
+        "name": "PlanX Conference 2026",
+        "startDate": "2026-11-25",
+        "keys": [
+          "premier-planx",
+          "page:planx:2026-11-25",
+          "event:planxconference2026:2026-11-25:dubai"
+        ]
+      },
+      {
+        "id": "premier-world-token-congress-2026",
+        "slug": "world-token-congress",
+        "name": "World Token Congress 2026",
+        "startDate": "2026-11-25T09:00:00+01:00",
+        "keys": [
+          "premier-world-token-congress-2026",
+          "page:world-token-congress:2026-11-25",
+          "event:worldtokencongress2026:2026-11-25:barcelona"
+        ]
+      },
+      {
+        "id": "w3v-bitcoin-japan-26-11-27",
+        "slug": "bitcoin-japan",
+        "name": "Bitcoin Japan 2026",
+        "startDate": "2026-11-27",
+        "keys": [
+          "w3v-bitcoin-japan-26-11-27",
+          "page:bitcoin-japan:2026-11-27",
+          "url:btc-jpn.com/en:2026-11-27",
+          "event:bitcoinjapan2026:2026-11-27:tokyo"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-10:afternoon",
+    "messageId": 156166,
+    "sentAt": "2026-11-10T11:31:52.890Z"
+  },
+  "b01d586a-58ac-43f9-a167-667d684231ce": {
+    "status": "sent",
+    "reservedAt": "2026-11-10T19:32:29.107Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "premier-auscryptocon-2026",
+        "slug": "auscryptocon",
+        "name": "CryptoCon Sydney 2026",
+        "startDate": "2026-11-28T09:00:00+11:00",
+        "keys": [
+          "premier-auscryptocon-2026",
+          "page:auscryptocon:2026-11-27",
+          "event:cryptoconsydney2026:2026-11-27:sydney"
+        ]
+      },
+      {
+        "id": "ma-blockchain-conference-brasil",
+        "slug": "blockchain-conference-brasil",
+        "name": "Blockchain Conference Brasil",
+        "startDate": "2026-11-28T00:00:00.000Z",
+        "keys": [
+          "ma-blockchain-conference-brasil",
+          "bcb",
+          "page:blockchain-conference-brasil:2026-11-28",
+          "event:blockchainconferencebrasil:2026-11-28:sao paulo"
+        ]
+      },
+      {
+        "id": "premier-binancebw-2026",
+        "slug": "binance-blockchain-week",
+        "name": "Binance Blockchain Week 2026",
+        "startDate": "2026-11-28T09:00:00.000Z",
+        "keys": [
+          "premier-binancebw-2026",
+          "bbw",
+          "page:binance-blockchain-week:2026-11-28",
+          "url:binanceblockchainweek.com/event/Bangkok2026/Home:2026-11-28",
+          "event:binanceblockchainweek2026:2026-11-28:bangkok"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-10:evening",
+    "messageId": 156171,
+    "sentAt": "2026-11-10T19:32:31.983Z"
   }
 }

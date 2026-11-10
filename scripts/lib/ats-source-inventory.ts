@@ -17,7 +17,7 @@ function scriptFiles(directory: string): string[] {
 }
 
 function providerFromHint(hint: string): string | undefined {
-  return ['ashby', 'greenhouse', 'lever', 'workable', 'recruitee', 'bamboo', 'breezy', 'smartrecruiters', 'teamtailor', 'rippling', 'dover', 'comeet'].find(provider => hint.includes(provider))?.replace(/^bamboo$/, 'bamboohr');
+  return ['ashby', 'greenhouse', 'lever', 'workable', 'recruitee', 'bamboo', 'breezy', 'smartrecruiters', 'teamtailor', 'rippling', 'dover', 'comeet', 'keka'].find(provider => hint.includes(provider))?.replace(/^bamboo$/, 'bamboohr');
 }
 
 export function configuredAtsBoards(): ConfiguredAtsBoard[] {

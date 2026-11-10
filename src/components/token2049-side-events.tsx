@@ -30,7 +30,7 @@ function getPriceType(event: EventListItem): string {
 }
 
 export function EventSideEvents({ eventName, events, timeZone }: { eventName: string; events: EventListItem[]; timeZone: string }) {
-  const days = Array.from(new Set(events.map((event) => getEventDate(event, timeZone))));
+  const days = Array.from(new Set(events.map((event) => getEventDate(event, timeZone)))).sort();
   const categories = Array.from(new Set(events.map((event) => event.category).filter((category): category is string => Boolean(category))));
   const [day, setDay] = useState('All days');
   const [category, setCategory] = useState('All categories');

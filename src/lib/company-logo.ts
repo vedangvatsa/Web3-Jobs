@@ -29,6 +29,11 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
   'delta-exchange': 'delta-exchange',
   'coindcx': 'coindcx',
   'coin-dcx': 'coindcx',
+  'baton-corporation': 'pump-fun',
+  'baton': 'pump-fun',
+  'pump-fun': 'pump-fun',
+  'pumpdotfun': 'pump-fun',
+  'pumpfun': 'pump-fun',
   'aztec-labs-privacy-l2': 'aztec',
   'aztec-labs': 'aztec',
   'symbiotic-restaking': 'symbiotic',
@@ -79,6 +84,7 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
 };
 
 const COMPANY_FAVICON_DOMAINS: Record<string, string> = {
+  'ckba': 'ckba.build',
   'very-ai': 'very.org',
   'ramp': 'ramp.com',
   'ramp-network': 'rampnetwork.com',
@@ -100,6 +106,7 @@ const COMPANY_FAVICON_DOMAINS: Record<string, string> = {
   'censys': 'censys.com',
   'cloudflare': 'cloudflare.com',
   'coinbase': 'coinbase.com',
+  'cointracker': 'www.cointracker.com',
   'collibra': 'collibra.com',
   'cresta': 'cresta.com',
   'cribl': 'cribl.io',
@@ -188,6 +195,13 @@ const COMPANY_FAVICON_DOMAINS: Record<string, string> = {
   'mural': 'muralpay.com',
   'wormhole-labs': 'wormholelabs.xyz',
   'drw': 'drw.com',
+  'coinspaid': 'coinspaid.com',
+  'btse': 'btse.com',
+  'relay': 'relay.link',
+  'relay-link': 'relay.link',
+  'merkle-science': 'merklescience.com',
+  'strike': 'strike.me',
+  'coinflow': 'coinflow.cash',
 };
 
 function faviconUrlForDomain(domain: string): string {
@@ -234,6 +248,7 @@ export const FAVICON_FIRST_SLUGS: ReadonlySet<string> = new Set([
   'very-ai',
   'circle',
   'google',
+  'cointracker',
   'gsr',
   'gsr-markets',
   'gsrmarkets',

@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-11-10",
+    "threadId": "N08",
+    "sequence": 24,
+    "platform": "linkedin",
+    "sourceContentSha256": "1cbe2f93ef8c2be5086df627ff8374c4090b8f42aebe30623ae69d6c3176c55f",
+    "calendarSha256": "70484da3b7319ebb706092e37759daf11ea4a58df5a9beadef96d8dd5ada9ebc",
+    "sourceThreadSha256": "d788b80c83cb4ff2454c17dea62c412d093b07444e176b0c13b0d85628c7caad",
+    "sourcePostHashes": [
+      "5daac77c19ba52653511aca6ec4f05ce2b7398c07ce8ad46496aaa8483adb9db",
+      "febba7b390f8786a20dc94e63ca1e5cf485c4b45f0cc1d1c9d9feafbb313d56f",
+      "5af45d80963497b964760cb318d3279cd76b3c76a56110ed8a0c97f6a2ea2eef",
+      "fcc97fc6212ce5704d5c2424128b46a65dc323c46b4ed82b46a68a70f6694bd9",
+      "512764c687db15a61d86595a202ef250ab3aae8382b7665ce84aa5faf4e29bfb",
+      "fc850f407bb2a99009643b9f662019e066a282f65413f058e9af64e2093197a4"
+    ],
+    "sourceImages": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/N08-01.jpg",
+        "sha256": "e4f3c573fa5431cb005cede5d0efe7f382df3e71e179cea2f9bee7098c22ec59",
+        "bytes": 187266,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Five 2027 conference dates beside event images: Consensus Hong Kong, Feb 1-3; EthCC[10], Cannes, Apr 12-15; TOKEN2049 Dubai, Apr 21-22; Dutch Blockchain Week Summit, Amsterdam, May 19-20; ETHConf, New York, Jun 14-16. Consensus's date panel names Hong Kong Convention and Exhibition Centre and exhibition dates Feb 2-3. Checked October 20, 2026.",
+        "renderedText": "2027 conferences\n\nFive 2027 main conferences\n\nAnnounced 2027 dates · Checked October 20, 2026\n\nConsensus Hong Kong\n\nFeb 1-3, 2027 · Hong Kong\n\nEthCC[10]\n\nApr 12-15, 2027 · Cannes\n\nTOKEN2049 Dubai\n\nApr 21-22, 2027 · Dubai\n\nDutch Blockchain Week Summit\n\nMay 19-20, 2027 · Amsterdam\n\nETHConf\n\nJun 14-16, 2027 · New York\n\nSources: event organizers\n\nN08 · 1/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N08-02.jpg",
+        "sha256": "b7dbbb57dc480b22a63acbb08cf3fb8623cda03dd013fc1492c6e6744064c0b4",
+        "bytes": 141774,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Consensus Hong Kong date panel: Feb 1-3, 2027, at Hong Kong Convention and Exhibition Centre. The exhibition runs Feb 2-3. Themes listed alongside it: digital assets, AI and the agentic economy. Checked October 20, 2026.",
+        "renderedText": "2027 conferences\n\nConsensus Hong Kong 2027\n\nAnnounced 2027 dates · Checked October 20, 2026\n\nConsensus Hong Kong | Feb 1-3, 2027 | Hong Kong Convention and Exhibition Centre.\n\nThemes: digital assets, AI and the agentic economy. Exhibition: Feb 2-3.\n\nSources: event organizers\n\nN08 · 2/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N08-03.jpg",
+        "sha256": "ee0f7719e7be2b1d5cddb4779e4fd1a047c86b6a3f04cf8613915a47837902e9",
+        "bytes": 193894,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Cannes photo beside EthCC[10] details: Apr 12-15, 2027, at Palais des Festivals, Cannes, France. Full passes cover all 4 days of the Ethereum community conference; student and volunteer access options are listed. Checked October 20, 2026.",
+        "renderedText": "2027 conferences\n\nEthCC[10]\n\nAnnounced 2027 dates · Checked October 20, 2026\n\nEthCC[10] | Apr 12-15, 2027 | Cannes, France.\n\nPalais des Festivals hosts the Ethereum community conference. Full passes cover all 4 days; student and volunteer access options are listed.\n\nCannes photo · Dates: event organizer\n\nN08 · 3/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N08-04.jpg",
+        "sha256": "76c43f1557f03af8487c3d2027d3b3c678e1baf47a8733154f03e36f5d0f7bbf",
+        "bytes": 167282,
+        "width": 1200,
+        "height": 1500,
+        "alt": "TOKEN2049 Dubai poster showing Apr 21-22, 2027, at Madinat Jumeirah, Dubai, UAE. Two-day main crypto conference and exhibition; ticket checkout accepts card or crypto payment. Checked October 20, 2026.",
+        "renderedText": "2027 conferences\n\nTOKEN2049 Dubai 2027\n\nAnnounced 2027 dates · Checked October 20, 2026\n\nTOKEN2049 Dubai | Apr 21-22, 2027 | Madinat Jumeirah, Dubai, UAE.\n\nTwo-day main crypto conference and exhibition. Ticket checkout offers card or crypto payment.\n\nSources: event organizers\n\nN08 · 4/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N08-05.jpg",
+        "sha256": "ba8d1c0cf520dea071a05f54a9e47767815f29b19cc025b2fa75ab6158e1abfc",
+        "bytes": 247086,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Dutch Blockchain Week event image and main-summit details: May 19-20, 2027, at Johan Cruijff ArenA, Amsterdam, Netherlands. Main stage, panels and breakouts. The wider city week runs May 17-23. Checked October 20, 2026.",
+        "renderedText": "2027 conferences\n\nDutch Blockchain Week\n\nAnnounced 2027 dates · Checked October 20, 2026\n\nDutch Blockchain Week Summit | May 19-20, 2027 | Johan Cruijff ArenA, Amsterdam, Netherlands.\n\nMain stage, panels and breakouts. The wider city week runs May 17-23; May 19-20 is the main summit.\n\nSources: event organizers\n\nN08 · 5/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N08-06.jpg",
+        "sha256": "a599deb1c561d055f5cb7e461b73fb9c517710de10f091cda104911477a6ad87",
+        "bytes": 152449,
+        "width": 1200,
+        "height": 1500,
+        "alt": "ETHConf event image and details: Jun 14-16, 2027, at Javits Center, New York, US. ETHGlobal's Ethereum conference covers stablecoins, DeFi and scaling. General passes include stages and expo; Pro adds coworking and the networking lounge. Checked October 20, 2026.",
+        "renderedText": "2027 conferences\n\nETHConf 2027\n\nAnnounced 2027 dates · Checked October 20, 2026\n\nETHConf | Jun 14-16, 2027 | Javits Center, New York, US.\n\nETHGlobal's Ethereum conference covers stablecoins, DeFi and scaling. General passes include stages and expo; Pro adds coworking and the networking lounge.\n\nSources: event organizers\n\nN08 · 6/6"
+      }
+    ],
+    "assetCommit": "554da802e97c53b8881460793b9b465cdc573294",
+    "target": {
+      "channelId": "69c5b139af47dacb695b5feb",
+      "service": "linkedin",
+      "serviceId": "89714573",
+      "profile": "https://www.linkedin.com/company/hashtagweb3/"
+    },
+    "caption": "Five announced 2027 Web3 main conferences, in date order: Hong Kong, Cannes, Dubai, Amsterdam and New York.\n\nDates and venues checked with organizers on Oct 20, 2026.\n\n1. Consensus Hong Kong | Feb 1-3, 2027 | Hong Kong Convention and Exhibition Centre.\n\nThemes: digital assets, AI and the agentic economy. Exhibition: Feb 2-3.\n\n2. EthCC[10] | Apr 12-15, 2027 | Cannes, France.\n\nPalais des Festivals hosts the Ethereum community conference. Full passes cover all 4 days; student and volunteer access options are listed.\n\n3. TOKEN2049 Dubai | Apr 21-22, 2027 | Madinat Jumeirah, Dubai, UAE.\n\nTwo-day main crypto conference and exhibition. Ticket checkout offers card or crypto payment.\n\n4. Dutch Blockchain Week Summit | May 19-20, 2027 | Johan Cruijff ArenA, Amsterdam, Netherlands.\n\nMain stage, panels and breakouts. The wider city week runs May 17-23; May 19-20 is the main summit.\n\n5. ETHConf | Jun 14-16, 2027 | Javits Center, New York, US.\n\nETHGlobal's Ethereum conference covers stablecoins, DeFi and scaling. General passes include stages and expo; Pro adds coworking and the networking lounge.\n\nFull resource: hashtagweb3.com/events/li",
+    "title": "Five announced 2027 Web3 main conferences",
+    "pdf": {
+      "path": "social-assets/knowledge-threads-month/exports/N08/linkedin.pdf",
+      "sha256": "a70eb93fdd248b2c4bc9abc1eaae9bf7dc682ad0f914abe3c30a14fdd8758fe5",
+      "bytes": 1093570,
+      "pageCount": 6,
+      "widthPt": 600,
+      "heightPt": 750,
+      "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/554da802e97c53b8881460793b9b465cdc573294/social-assets/knowledge-threads-month/exports/N08/linkedin.pdf"
+    },
+    "thumbnail": {
+      "path": "social-assets/knowledge-threads-month/exports/N08/cover.jpg",
+      "sha256": "e4f3c573fa5431cb005cede5d0efe7f382df3e71e179cea2f9bee7098c22ec59",
+      "bytes": 187266,
+      "width": 1200,
+      "height": 1500,
+      "alt": "Five 2027 conference dates beside event images: Consensus Hong Kong, Feb 1-3; EthCC[10], Cannes, Apr 12-15; TOKEN2049 Dubai, Apr 21-22; Dutch Blockchain Week Summit, Amsterdam, May 19-20; ETHConf, New York, Jun 14-16. Consensus's date panel names Hong Kong Convention and Exhibition Centre and exhibition dates Feb 2-3. Checked October 20, 2026.",
+      "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/554da802e97c53b8881460793b9b465cdc573294/social-assets/knowledge-threads-month/exports/N08/cover.jpg"
+    }
+  },
+  "account": {
+    "channelId": "69c5b139af47dacb695b5feb",
+    "service": "linkedin",
+    "serviceId": "89714573",
+    "profile": "https://www.linkedin.com/company/hashtagweb3/",
+    "type": "page",
+    "organizationId": "69c5b0f799d3bd8de475e25a"
+  },
+  "claimId": "a75daa6c-f7fc-4ef9-806f-7fbaee63979e",
+  "startedAt": "2026-11-10T11:31:39.579Z",
+  "status": "accepted",
+  "postId": "6af3009d659c617350353d1e"
+}

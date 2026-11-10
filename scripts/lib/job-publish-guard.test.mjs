@@ -251,3 +251,36 @@ test('unsafe redirect destinations are rejected before requesting internal addre
     assert.equal(network.calls.length, 1, destination);
   }
 });
+
+test('accepts valid mailto application links without network requests, but rejects invalid emails or expired jobs', async () => {
+  const validMailtoJob = {
+    ...job,
+    slug: 'pct',
+    company: 'CKBA',
+    title: 'Payment Channel Team Lead',
+    link: 'mailto:join@ckba.build?subject=Application%20for%20Payment%20Channel%20Team%20Lead',
+  };
+  let requests = 0;
+  await verifyEmployerApplication(validMailtoJob, {
+    request: async () => { requests++; return htmlResponse(); },
+    now: () => now,
+  });
+  assert.equal(requests, 0, 'mailto applications do not require network HTTP GET');
+
+  // Rejects invalid mailto email formats
+  await assert.rejects(
+    verifyEmployerApplication({ ...validMailtoJob, link: 'mailto:not-an-email' }, { now: () => now }),
+    /invalid mailto recipient email/
+  );
+  await assert.rejects(
+    verifyEmployerApplication({ ...validMailtoJob, link: 'mailto:' }, { now: () => now }),
+    /invalid mailto recipient email/
+  );
+
+  // Still enforces job age on mailto jobs
+  const expiredMailtoJob = { ...validMailtoJob, date: new Date(now - 31 * day).toISOString() };
+  await assert.rejects(
+    verifyEmployerApplication(expiredMailtoJob, { now: () => now }),
+    /expired/
+  );
+});

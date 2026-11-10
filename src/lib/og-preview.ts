@@ -277,6 +277,11 @@ const PAGE_META: Record<string, Omit<OgPreviewMeta, 'canonicalUrl'>> = {
       description: `${hiringReportStats.snapshotLabel}: ${fmtInt(hiringReportStats.listings)} listings from ${hiringReportStats.companies} employers. Job functions, description keywords, salary ranges, and remote-work wording.`,
       ogImageUrl: STATIC_OG.report,
     },
+    '/top100': {
+      title: `Top 100 Web3 Employers | ${SITE_NAME}`,
+      description: 'A ranking of the top 100 Web3 employers based on hiring volume, candidate demand, financial runway, and remote flexibility.',
+      ogImageUrl: STATIC_OG.top100,
+    },
     '/learn': {
       title: `Learn Web3 | ${SITE_NAME}`,
       description: 'Free structured courses for Web3 builders.',

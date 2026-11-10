@@ -68,10 +68,11 @@ test('every public Next page has preview coverage or an explicit dynamic owner',
   for (const route of staticPaths) {
     const meta = await resolveOgPreviewMeta(route);
     assert.notEqual(meta.title, generic.title, `${route} must not use generic fallback metadata`);
-    assert.equal(meta.canonicalUrl, `https://hashtagweb3.com${route}`);
+    assert.equal(meta.canonicalUrl, `https://hashtagweb3.com${PUBLIC_PAGE_ALIASES[route] || route}`);
     assert.ok(meta.description.trim(), `${route} needs a description`);
-    const pageCard = `${origin}/og/pages${route}.png`;
-    const source = ['page.tsx', 'layout.tsx'].map(file => path.join(project, 'src/app', route, file))
+    const canonicalRoute = PUBLIC_PAGE_ALIASES[route] || route;
+    const pageCard = `${origin}/og/pages${canonicalRoute}.png`;
+    const source = ['page.tsx', 'layout.tsx'].map(file => path.join(project, 'src/app', canonicalRoute, file))
       .filter(file => fs.existsSync(file)).map(file => fs.readFileSync(file, 'utf8')).join('\n');
     if (source.includes(pageCard)) assert.equal(meta.ogImageUrl, pageCard, `${route} should use its dedicated page card`);
   }

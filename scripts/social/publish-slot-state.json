@@ -1,6 +1,6 @@
 {
-  "news": "2026-11-06",
-  "morning": "2026-11-06",
+  "news": "2026-11-10",
+  "morning": "2026-11-10",
   "afternoon": "2026-09-24",
   "evening": "2026-09-24",
   "slots": {
@@ -8,8 +8,8 @@
     "afternoon": "2026-10-30",
     "evening": "2026-10-31"
   },
-  "deployed": "2026-11-06",
-  "ingested": "2026-11-06",
+  "deployed": "2026-11-10",
+  "ingested": "2026-11-10",
   "dailyDeployments": {
     "2026-10-23": [
       {
@@ -767,6 +767,105 @@
         "observedAt": "2026-11-06T02:15:21.271Z",
         "rolloutState": "SUCCEEDED",
         "confirmedAt": "2026-11-06T02:15:21.271Z"
+      }
+    ],
+    "2026-11-07": [
+      {
+        "date": "2026-11-07",
+        "id": "42364715633-1",
+        "sourceCommit": "6d744b71701fae296ecc84a0b1183ba3c150da06",
+        "jobsCheckedAt": "2026-11-07T10:46:48.984Z",
+        "newsCompletedAt": "2026-11-07T04:49:01.327Z",
+        "articleSlugs": [
+          "cantonstock",
+          "yaroch",
+          "xrplaunder",
+          "mexcorder"
+        ],
+        "phase": "succeeded",
+        "startedAt": "2026-11-07T10:48:14.584Z",
+        "buildId": "daily-20261107-42364715633-1",
+        "rolloutId": "daily-20261107-42364715633-1",
+        "buildState": "READY",
+        "observedAt": "2026-11-07T11:12:33.627Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-11-07T11:12:33.627Z"
+      }
+    ],
+    "2026-11-08": [
+      {
+        "date": "2026-11-08",
+        "id": "42472517807-1",
+        "sourceCommit": "3709926972011acd3918e5bd215d49407709aed6",
+        "jobsCheckedAt": "2026-11-08T10:13:48.645Z",
+        "newsCompletedAt": "2026-11-08T12:01:09.603Z",
+        "articleSlugs": [
+          "dcmaccess",
+          "frenchhill",
+          "bankchecks",
+          "nbubill",
+          "carf"
+        ],
+        "phase": "succeeded",
+        "startedAt": "2026-11-08T12:02:35.628Z",
+        "buildId": "daily-20261108-42472517807-1",
+        "rolloutId": "daily-20261108-42472517807-1",
+        "buildState": "READY",
+        "observedAt": "2026-11-08T12:23:53.336Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-11-08T12:23:53.336Z"
+      }
+    ],
+    "2026-11-09": [
+      {
+        "date": "2026-11-09",
+        "id": "42556741304-1",
+        "sourceCommit": "5d7904a426cd0cd77f009a487f3a458d66ce000a",
+        "jobsCheckedAt": "2026-11-09T03:41:05.474Z",
+        "newsCompletedAt": "2026-11-09T05:18:16.790Z",
+        "articleSlugs": [
+          "greecetax",
+          "bitgetsec",
+          "dolrule",
+          "cbnstablecoin",
+          "binanceseal",
+          "secdraft",
+          "gnosisbreach"
+        ],
+        "phase": "succeeded",
+        "startedAt": "2026-11-09T05:19:22.683Z",
+        "buildId": "daily-20261109-42556741304-1",
+        "rolloutId": "daily-20261109-42556741304-1",
+        "buildState": "READY",
+        "observedAt": "2026-11-09T05:35:02.985Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-11-09T05:35:02.985Z"
+      }
+    ],
+    "2026-11-10": [
+      {
+        "date": "2026-11-10",
+        "id": "42741807049-1",
+        "sourceCommit": "60ddc83d7912b26623a7418fbae12cd4affc72e1",
+        "jobsCheckedAt": "2026-11-10T02:28:56.586Z",
+        "newsCompletedAt": "2026-11-10T04:08:00.950Z",
+        "articleSlugs": [
+          "princescams",
+          "formation",
+          "blumenthaldeadline",
+          "warrenpred",
+          "nearmemecoin",
+          "nearlaunder",
+          "simdnonces"
+        ],
+        "phase": "succeeded",
+        "startedAt": "2026-11-10T04:09:05.644Z",
+        "buildId": "daily-20261110-42741807049-1",
+        "rolloutId": "daily-20261110-42741807049-1",
+        "buildState": "READY",
+        "observedAt": "2026-11-10T04:30:17.719Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-11-10T04:30:17.719Z"
       }
     ]
   }

@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-11-06",
+    "threadId": "E07",
+    "sequence": 20,
+    "platform": "instagram",
+    "sourceContentSha256": "1cbe2f93ef8c2be5086df627ff8374c4090b8f42aebe30623ae69d6c3176c55f",
+    "calendarSha256": "70484da3b7319ebb706092e37759daf11ea4a58df5a9beadef96d8dd5ada9ebc",
+    "sourceThreadSha256": "e71eb1d5e03ccbc62b5c77b10cd09573d36c4716f6ed0f2a6b52bbe7a979b541",
+    "sourcePostHashes": [
+      "1d5e5cb3006a5b2f0ddb796431335aedf56dd6ae8a30ef15f1c692f69e1abf59",
+      "246abee64ac8e0f532bc0d82aefe48e31e2ee01576a6157d1c7ccd488e5355c1",
+      "bdcb9025961323b0d9a3e5f8764256657f5cf5b7d3ba23f07390cdd89da63f72",
+      "b74b40c6cdff9a668230c70a7f15f263b60c9d0f42374714f84551d5f12689aa",
+      "c6d0b30865e9669dceeddb4d1ce3a09a8d131e339a8ba6dc14af8c1bf25ddda7",
+      "a3f3b3e21200755bf2111b525a391d8cc502d918e5cd083c47ea759e7f3852a4"
+    ],
+    "sourceImages": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/E07-01.jpg",
+        "sha256": "3b50d4b7cb8ae95d1927869a132a472ff938784aa0129b7c507b84d239a7b9a0",
+        "bytes": 125191,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Salary Calculator comparison for Smart Contract Developer. Estimated annual base salary: USD 97,000 at 1 year of experience and USD 124,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
+        "renderedText": "Salary calculator\n\nSmart Contract Developer\n\nEstimated annual base pay (USD)\n\nNorth America · Series A/B · 11-50 staff\n\nJunior example: 1 year\n\nSenior example: 7 years\n\nTokens and equity excluded.\n\nHashtag Web3 salary calculator\n\nE07 · 1/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E07-02.jpg",
+        "sha256": "2f0bbf2911dde98a3e27c0b4691be6387e91c3c9aac169f2bb32ea3ce2b5e981",
+        "bytes": 122612,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Salary Calculator comparison for Security Auditor. Estimated annual base salary: USD 127,000 at 1 year of experience and USD 163,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
+        "renderedText": "Salary calculator\n\nSecurity Auditor\n\nEstimated annual base pay (USD)\n\nNorth America · Series A/B · 11-50 staff\n\nJunior example: 1 year\n\nSenior example: 7 years\n\nTokens and equity excluded.\n\nHashtag Web3 salary calculator\n\nE07 · 2/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E07-03.jpg",
+        "sha256": "e2c938946dfa193549aa7283f5a42cbf4b1804c81a62e3ca82612b87833055ad",
+        "bytes": 120429,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Salary Calculator comparison for Product Manager. Estimated annual base salary: USD 91,000 at 1 year of experience and USD 116,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
+        "renderedText": "Salary calculator\n\nProduct Manager\n\nEstimated annual base pay (USD)\n\nNorth America · Series A/B · 11-50 staff\n\nJunior example: 1 year\n\nSenior example: 7 years\n\nTokens and equity excluded.\n\nHashtag Web3 salary calculator\n\nE07 · 3/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E07-04.jpg",
+        "sha256": "c02791d1e461c72f8e1b340e25d17c4103fdef0aaf6fc3d1507fd75ba1c86c1d",
+        "bytes": 120129,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Salary Calculator comparison for Technical Writer. Estimated annual base salary: USD 72,000 at 1 year of experience and USD 93,000 at 7 years, rounded to USD 1,000. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
+        "renderedText": "Salary calculator\n\nTechnical Writer\n\nEstimated annual base pay (USD)\n\nNorth America · Series A/B · 11-50 staff\n\nJunior example: 1 year\n\nSenior example: 7 years\n\nTokens and equity excluded.\n\nHashtag Web3 salary calculator\n\nE07 · 4/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E07-05.jpg",
+        "sha256": "b5fcd2ac9bcc7ae6a93f1b2b32e37e344271038bf45d6f9c14485493a665784e",
+        "bytes": 123651,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Salary Calculator comparison for Community Manager. Estimated annual base salary: USD 60,000 at 1 year of experience and USD 78,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
+        "renderedText": "Salary calculator\n\nCommunity Manager\n\nEstimated annual base pay (USD)\n\nNorth America · Series A/B · 11-50 staff\n\nJunior example: 1 year\n\nSenior example: 7 years\n\nTokens and equity excluded.\n\nHashtag Web3 salary calculator\n\nE07 · 5/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E07-06.jpg",
+        "sha256": "4292d300dd1ebd40257ee8b41b8f17bd260d743fcd4a51208a0517d7b828c24c",
+        "bytes": 165019,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Salary Calculator results comparing 1 and 7 years of experience. Estimated annual base salary: Security Auditor USD 127,000 and USD 163,000, a USD 36,000 gap; Community Manager USD 60,000 and USD 78,000, a USD 18,000 gap. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
+        "renderedText": "Salary calculator\n\nBase pay estimates: 1 vs 7 years\n\nEstimated annual base pay (USD)\n\nNorth America · Series A/B · 11-50 staff\nTokens and equity excluded.\n\nSecurity Auditor\n\n1 year\n\n7 years\n\nGap: USD 36,000/year\n\nCommunity Manager\n\nGap: USD 18,000/year\n\nHashtag Web3 salary calculator\n\nE07 · 6/6"
+      }
+    ],
+    "assetCommit": "777ec8ed45eec031f912b49a7eccde90a3979384",
+    "target": {
+      "accountId": "17841473830256790",
+      "username": "hashtagweb3",
+      "service": "instagram"
+    },
+    "caption": "Smart Contract Developer annual base estimates: USD 97,000 at 1 year; USD 124,000 at 7 years.\n\nBoth: North America, Series A/B, 11-50 staff. Tokens and equity excluded.\n\n1. Security Auditor annual base estimates: USD 127,000 at 1 year; USD 163,000 at 7 years.\n\nDifference: USD 36,000/year. Both use North America, Series A/B and 11-50 employees.\n\n2. Product Manager annual base estimates: USD 91,000 at 1 year; USD 116,000 at 7 years.\n\nDifference: USD 25,000/year, changing only experience. Region, company stage and size stay fixed.\n\n3. Technical Writer annual base estimates: USD 72,000 at 1 year; USD 93,000 at 7 years.\n\nRounded from USD 72,450 and USD 93,150. Displayed gap: USD 21,000/year.\n\n4. Community Manager annual base estimates: USD 60,000 at 1 year; USD 78,000 at 7 years.\n\nThe two experience scenarios differ by USD 18,000/year.\n\n5. The 1-to-7-year salary estimate gap is USD 36,000/year for Security Auditor and USD 18,000 for Community Manager.\n\nSet your experience, region, company stage and size to compare estimates.\n\nFull resource: hashtagweb3.com/salary-calculator/ig",
+    "images": [
+      {
+        "path": "social-assets/knowledge-threads-month/exports/E07/instagram/01.jpg",
+        "sha256": "d6f3f1be93caef4097838b343a4b97454316eced2932fdcd8e1f63a3b93bb235",
+        "bytes": 117742,
+        "width": 1080,
+        "height": 1350,
+        "alt": "Salary Calculator comparison for Smart Contract Developer. Estimated annual base salary: USD 97,000 at 1 year of experience and USD 124,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/777ec8ed45eec031f912b49a7eccde90a3979384/social-assets/knowledge-threads-month/exports/E07/instagram/01.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/exports/E07/instagram/02.jpg",
+        "sha256": "94dfb2bb9d9b5c419afd7b9193d2d9f5936fe96b58903bd2e72e4af84f1751e0",
+        "bytes": 114683,
+        "width": 1080,
+        "height": 1350,
+        "alt": "Salary Calculator comparison for Security Auditor. Estimated annual base salary: USD 127,000 at 1 year of experience and USD 163,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/777ec8ed45eec031f912b49a7eccde90a3979384/social-assets/knowledge-threads-month/exports/E07/instagram/02.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/exports/E07/instagram/03.jpg",
+        "sha256": "aebddddd28dcd8f964ee11e93a72dcfa2e119d33f9aafaf5cb0dfba183685b0a",
+        "bytes": 112819,
+        "width": 1080,
+        "height": 1350,
+        "alt": "Salary Calculator comparison for Product Manager. Estimated annual base salary: USD 91,000 at 1 year of experience and USD 116,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/777ec8ed45eec031f912b49a7eccde90a3979384/social-assets/knowledge-threads-month/exports/E07/instagram/03.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/exports/E07/instagram/04.jpg",
+        "sha256": "5084bec644e691490e4c9c411934302ab58d233975ec2b0c6393040a1b5928aa",
+        "bytes": 112175,
+        "width": 1080,
+        "height": 1350,
+        "alt": "Salary Calculator comparison for Technical Writer. Estimated annual base salary: USD 72,000 at 1 year of experience and USD 93,000 at 7 years, rounded to USD 1,000. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/777ec8ed45eec031f912b49a7eccde90a3979384/social-assets/knowledge-threads-month/exports/E07/instagram/04.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/exports/E07/instagram/05.jpg",
+        "sha256": "0b18ea9898adf18d63e44e6ebfb173e5ce6831d9cae74dac9300edc303363581",
+        "bytes": 115409,
+        "width": 1080,
+        "height": 1350,
+        "alt": "Salary Calculator comparison for Community Manager. Estimated annual base salary: USD 60,000 at 1 year of experience and USD 78,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/777ec8ed45eec031f912b49a7eccde90a3979384/social-assets/knowledge-threads-month/exports/E07/instagram/05.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/exports/E07/instagram/06.jpg",
+        "sha256": "368714f003800dc776ef769c7aa88834f4d15962f406a734f9766f3df2cbe845",
+        "bytes": 151634,
+        "width": 1080,
+        "height": 1350,
+        "alt": "Salary Calculator results comparing 1 and 7 years of experience. Estimated annual base salary: Security Auditor USD 127,000 and USD 163,000, a USD 36,000 gap; Community Manager USD 60,000 and USD 78,000, a USD 18,000 gap. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/777ec8ed45eec031f912b49a7eccde90a3979384/social-assets/knowledge-threads-month/exports/E07/instagram/06.jpg"
+      }
+    ],
+    "transport": "meta"
+  },
+  "account": {
+    "accountId": "17841473830256790",
+    "username": "hashtagweb3",
+    "service": "instagram"
+  },
+  "claimId": "b1f3095f-301c-4e09-9931-62519c0ec777",
+  "startedAt": "2026-11-06T11:31:48.031Z",
+  "status": "verified",
+  "children": {
+    "0": {
+      "createClaim": "82917e0d-dd27-4950-842d-b9a017588c3f",
+      "startedAt": "2026-11-06T11:31:50.000Z",
+      "status": "verified",
+      "containerId": "17921144472461009"
+    },
+    "1": {
+      "createClaim": "dd3d091e-4b72-4852-8218-1d4d556f6f75",
+      "startedAt": "2026-11-06T11:32:00.876Z",
+      "status": "verified",
+      "containerId": "17921144496461009"
+    },
+    "2": {
+      "createClaim": "b3a0e860-c05c-45f8-9852-54e2b9f5b82c",
+      "startedAt": "2026-11-06T11:32:09.922Z",
+      "status": "verified",
+      "containerId": "17921144520461009"
+    },
+    "3": {
+      "createClaim": "71eaf73c-2855-4152-b3b9-27871e179a44",
+      "startedAt": "2026-11-06T11:32:21.562Z",
+      "status": "verified",
+      "containerId": "17921144538461009"
+    },
+    "4": {
+      "createClaim": "87134ac8-9c19-40c2-8b28-9c3c72daa614",
+      "startedAt": "2026-11-06T11:32:30.371Z",
+      "status": "verified",
+      "containerId": "17921144556461009"
+    },
+    "5": {
+      "createClaim": "bdebb696-b4ee-4e66-8591-7f3963790535",
+      "startedAt": "2026-11-06T11:32:42.090Z",
+      "status": "verified",
+      "containerId": "17921144574461009"
+    }
+  },
+  "parent": {
+    "createClaim": "de236f84-1b47-4bd1-9db3-285f077166df",
+    "startedAt": "2026-11-06T11:32:51.766Z",
+    "status": "container-created",
+    "childContainerIds": [
+      "17921144472461009",
+      "17921144496461009",
+      "17921144520461009",
+      "17921144538461009",
+      "17921144556461009",
+      "17921144574461009"
+    ],
+    "containerId": "17921144595461009"
+  },
+  "publish": {
+    "claimId": "313164c0-cf23-4486-b53a-2868d30e7d94",
+    "startedAt": "2026-11-06T11:33:06.096Z",
+    "creationId": "17921144595461009",
+    "status": "verified",
+    "postId": "17915091342472419"
+  },
+  "postId": "17915091342472419",
+  "publishedChildIds": [
+    "18101534246091205",
+    "17943492522368038",
+    "17954285697319375",
+    "17962757679257817",
+    "18153054319550309",
+    "18146604589570691"
+  ],
+  "permalink": "https://www.instagram.com/p/DfZggFTEUAb/",
+  "verifiedAt": "2026-11-06T11:33:14.881Z"
+}

@@ -6,7 +6,10 @@ import {
   PUBLIC_PAGE_ALIASES as RAW_PUBLIC_PAGE_ALIASES,
   SOCIAL_PATH_SUFFIXES as RAW_SOCIAL_PATH_SUFFIXES,
   SOCIAL_UTM_MAP as RAW_SOCIAL_UTM_MAP,
+  sanitizeCompanyForSocial,
 } from './social-share-constants.mjs';
+
+export { sanitizeCompanyForSocial };
 
 export const SOCIAL_UTM_MAP: Record<string, { utm_source: string; utm_medium: string }> = RAW_SOCIAL_UTM_MAP;
 

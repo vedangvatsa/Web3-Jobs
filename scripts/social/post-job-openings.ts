@@ -48,6 +48,7 @@ import { verifyLinkedInBuffer } from './job-linkedin-verification';
 export { verifyLinkedInBuffer } from './job-linkedin-verification';
 import { PersonalLinkedInClient, personalLinkedInConfig } from './linkedin-personal';
 import { buildUniqueJobMetaDescription } from '../../src/lib/job-guides';
+import { sanitizeCompanyForSocial } from '../../src/lib/social-share-constants.mjs';
 import { buildJobOgImageUrl, JOB_OG_VERSION, SITE_URL } from '../../src/lib/job-og';
 import { isJobAgeEligible } from '../../src/lib/job-age-policy.mjs';
 import { assertPublishableJob, loadPublishedJobs, MAX_PREFLIGHT_CANDIDATES } from '../lib/job-publish-guard.mjs';
@@ -295,7 +296,8 @@ async function getThreadsAccount(accessToken: string): Promise<ThreadsAccount> {
 function hasExpectedThreadsPostText(text: string, expected: ThreadsPostExpectation): boolean {
   if (expected.expectedText && text === expected.expectedText) return true;
 
-  const prefix = `${expected.company} is hiring ${expected.title}: `;
+  const displayCompany = sanitizeCompanyForSocial(expected.company);
+  const prefix = `${displayCompany} is hiring ${expected.title}: `;
   if (!text.startsWith(prefix)) return false;
   try {
     const url = new URL(text.slice(prefix.length).trim());
@@ -512,7 +514,7 @@ export async function postToBluesky(
       $type: 'app.bsky.embed.external',
       external: {
         uri: linkUrl,
-        title: `${company} is hiring ${title}`,
+        title: `${sanitizeCompanyForSocial(company)} is hiring ${title}`,
         description: description || `Apply now for ${title} at ${company} on Hashtag Web3`,
         thumb: imageBlob,
       },
@@ -1211,12 +1213,13 @@ export async function main(options: {store?: ReturnType<typeof createSocialState
     const linkedinUrl = buildSocialShareUrl(slug, 'li');
     const facebookUrl = buildSocialShareUrl(slug, 'fb');
 
-  const xPostText = `${company} is hiring ${title}\n\n${xUrl}`;
-  const threadsPostText = `${company} is hiring ${title}: ${threadsUrl}`;
-  const blueskyPostText = `${company} is hiring ${title}: ${blueskyUrl}`;
-  const farcasterPostText = `${company} is hiring ${title}\n\n${farcasterUrl}`;
-  const linkedinPostText = `${company} is hiring ${title}: ${linkedinUrl}`;
-  const facebookPostText = `${company} is hiring ${title}: ${facebookUrl}`;
+  const displayCompany = sanitizeCompanyForSocial(company);
+  const xPostText = `${displayCompany} is hiring ${title}\n\n${xUrl}`;
+  const threadsPostText = `${displayCompany} is hiring ${title}: ${threadsUrl}`;
+  const blueskyPostText = `${displayCompany} is hiring ${title}: ${blueskyUrl}`;
+  const farcasterPostText = `${displayCompany} is hiring ${title}\n\n${farcasterUrl}`;
+  const linkedinPostText = `${displayCompany} is hiring ${title}: ${linkedinUrl}`;
+  const facebookPostText = `${displayCompany} is hiring ${title}: ${facebookUrl}`;
 
   console.log(`Selected Job:`);
   console.log(`  Company : ${company}`);
@@ -1373,7 +1376,7 @@ export async function main(options: {store?: ReturnType<typeof createSocialState
       console.log('Publishing to Threads (with link attachment preview)...');
       const entry = await deliver('threads', threadsPostText, {text: threadsPostText, link_attachment: threadsUrl},
         checkpoint => postToThreads(threadsPostText, threadsUrl, beforeSend, checkpoint), {}, async id => {
-          const verified = await verifyThreadsPost(id, {slug, company, title, expectedText: threadsPostText});
+          const verified = await verifyThreadsPost(id, {slug, company: displayCompany, title, expectedText: threadsPostText});
           return {permalink: verified.permalink, account: verified.username};
         });
         console.log(`✓ Successfully published to Threads! ${entry.permalink}`);

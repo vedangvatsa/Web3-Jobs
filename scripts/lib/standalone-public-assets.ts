@@ -14,7 +14,8 @@ export function requiredPublicAssets(root: string): string[] {
   ]);
   const addLocalImage = (image: unknown): void => {
     if (typeof image !== 'string' || !image.startsWith('/') || image.startsWith('//')) return;
-    const relative = `public${decodeURIComponent(image.split(/[?#]/)[0])}`;
+    const cleanImage = image.startsWith('/public/') ? image.slice('/public'.length) : image;
+    const relative = `public${decodeURIComponent(cleanImage.split(/[?#]/)[0])}`;
     assert.ok(path.resolve(root, relative).startsWith(`${path.resolve(root, 'public')}${path.sep}`), 'Invalid public image path');
     assets.add(relative);
   };

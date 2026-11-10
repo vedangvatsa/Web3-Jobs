@@ -25111,7 +25111,7 @@
     "dateVerified": true
   },
   "ashby:acb0c7b7-b756-45a7-b61f-1118839ce0d5": {
-    "date": "2026-10-07T11:11:47.000Z",
+    "date": "2026-10-06T20:54:47.655+00:00",
     "dateVerified": true
   },
   "ashby:3837d1db-9ba2-4ebf-b6b5-c7b7a1422048": {
@@ -28510,20 +28510,24 @@
     "dateVerified": true
   },
   "ashby:b5a10115-0386-47c5-80f2-9c382e606dfd": {
-    "date": "2026-10-15T13:13:41.000Z",
-    "dateVerified": true
+    "date": "2026-10-14T13:19:47.572+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt"
   },
   "ashby:8293ce8f-a4c0-499f-971a-761153c14a85": {
-    "date": "2026-10-15T13:13:40.000Z",
-    "dateVerified": true
+    "date": "2026-10-14T13:17:51.500+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt"
   },
   "ashby:c86697dd-aacf-4112-b2e2-08dd69d50430": {
-    "date": "2026-10-15T13:13:40.000Z",
-    "dateVerified": true
+    "date": "2026-10-14T13:18:33.297+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt"
   },
   "ashby:8fbc6d1a-eac7-4c1e-91e6-e2a68b7d9368": {
-    "date": "2026-10-15T13:13:40.000Z",
-    "dateVerified": true
+    "date": "2026-10-14T13:16:33.321+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt"
   },
   "https://de.linkedin.com/jobs/view/internship-talent-acquisition-at-augustus-4479546120": {
     "date": "2026-10-15T09:53:17.000Z",
@@ -29860,8 +29864,9 @@
     "dateVerified": true
   },
   "https://jobs.ripio.com/jobs/8560977-vp-of-global-business-development": {
-    "date": "2026-10-17T12:02:13.000Z",
-    "dateVerified": true
+    "date": "2026-10-16T14:51:52.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
   },
   "ashby:61ffd115-5209-433c-ab3a-7b6fc0a9b9d4": {
     "date": "2026-10-17T13:51:22.000Z",
@@ -31143,8 +31148,9 @@
     "dateVerified": true
   },
   "https://bitso.bamboohr.com/careers/1005": {
-    "date": "2026-10-21T19:33:05.000Z",
-    "dateVerified": true
+    "date": "2026-09-16",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
   },
   "https://eg.linkedin.com/jobs/view/senior-talent-acquisition-staffing-specialist-at-axis-4479942693": {
     "date": "2026-10-21T14:58:30.000Z",
@@ -32791,8 +32797,9 @@
     "dateVerified": true
   },
   "greenhouse:6234325004": {
-    "date": "2026-10-26T12:55:13.000Z",
-    "dateVerified": true
+    "date": "2026-10-26T05:13:47-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
   },
   "https://app.taraki.co/home/jobs?view=customer-service-associate-oraan-tech-pvt-ltd": {
     "date": "2026-10-26T11:33:37.000Z",
@@ -33250,9 +33257,8 @@
     "dateSource": "Solana.JobPosting.postedAt"
   },
   "ashby:ef5dba80-b476-4a1d-8da3-5d6377ccd1cc": {
-    "date": "2026-10-06T11:09:48.507Z",
-    "dateVerified": true,
-    "dateSource": "Solana.JobPosting.postedAt"
+    "date": "2026-10-06T11:08:33.355+00:00",
+    "dateVerified": true
   },
   "dover:b268b44c-19f7-4a7e-98cf-f01d0c9a49ca": {
     "date": "2026-10-05T14:12:16.874Z",
@@ -33275,9 +33281,8 @@
     "dateSource": "Solana.JobPosting.postedAt"
   },
   "ashby:4abc1ec1-2e9f-4a68-96fc-aa65d69dfd35": {
-    "date": "2026-10-01T11:31:24.437Z",
-    "dateVerified": true,
-    "dateSource": "Solana.JobPosting.postedAt"
+    "date": "2026-09-30T16:02:48.349+00:00",
+    "dateVerified": true
   },
   "https://nousresearch.com/careers/product-analytics-engineer": {
     "date": "2026-09-29T14:53:16.198Z",
@@ -34114,8 +34119,9 @@
     "dateVerified": true
   },
   "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior": {
-    "date": "2026-10-28T11:12:21.000Z",
-    "dateVerified": true
+    "date": "2026-10-27T16:15:10.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
   },
   "https://www.linkedin.com/jobs/view/sr-product-marketing-manager-at-offchain-4483724614": {
     "date": "2026-10-28T10:00:10.000Z",
@@ -37728,8 +37734,9 @@
     "dateVerified": true
   },
   "ashby:af030479-f72e-489f-9a76-794cc1d35fac": {
-    "date": "2026-11-03T11:00:31.000Z",
-    "dateVerified": true
+    "date": "2026-11-02T14:09:22.344+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt"
   },
   "greenhouse:8326105": {
     "date": "2026-11-03T16:56:32-05:00",
@@ -39578,6 +39585,3103 @@
   },
   "https://ats.rippling.com/riot-platforms-careers/jobs/a640c7fd-3c66-40fe-b788-1b89c3a470dc": {
     "date": "2026-11-05T08:36:48.338000-08:00",
+    "dateVerified": true
+  },
+  "mailto:join@ckba.build?subject=Application%20for%20Payment%20Channel%20Team%20Lead": {
+    "date": "2026-11-06T00:00:00.000Z",
+    "dateVerified": true,
+    "dateSource": "CKBA Official Job Description"
+  },
+  "ashby:38703001-b1cd-4a9b-9abc-be128600b91b": {
+    "date": "2026-11-04T16:22:48.213+00:00",
+    "dateVerified": true
+  },
+  "ashby:6c4683cd-d6e6-4cf6-a021-5db9f3f7f82d": {
+    "date": "2026-11-04T17:07:36.212+00:00",
+    "dateVerified": true
+  },
+  "ashby:b87454db-52cb-44a2-931b-cfbd49c80d03": {
+    "date": "2026-11-04T14:57:10.489+00:00",
+    "dateVerified": true
+  },
+  "ashby:202b2b8b-afe5-40b1-9c4b-2817d01419ca": {
+    "date": "2026-11-04T14:57:53.496+00:00",
+    "dateVerified": true
+  },
+  "ashby:3e23cea8-0e01-47dc-b662-41745f76fff7": {
+    "date": "2026-11-04T14:57:25.348+00:00",
+    "dateVerified": true
+  },
+  "ashby:3d52bffc-749a-4130-b3c8-476c3215743e": {
+    "date": "2026-11-04T14:57:35.461+00:00",
+    "dateVerified": true
+  },
+  "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-253485&sourceId=1": {
+    "date": "2026-11-06T00:00:00.000Z",
+    "dateVerified": true,
+    "dateSource": "Infosys Careers Portal"
+  },
+  "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-253489&sourceId=1": {
+    "date": "2026-11-06T00:00:00.000Z",
+    "dateVerified": true,
+    "dateSource": "Infosys Careers Portal"
+  },
+  "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-253494&sourceId=1": {
+    "date": "2026-11-06T00:00:00.000Z",
+    "dateVerified": true,
+    "dateSource": "Infosys Careers Portal"
+  },
+  "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-253496&sourceId=1": {
+    "date": "2026-11-06T00:00:00.000Z",
+    "dateVerified": true,
+    "dateSource": "Infosys Careers Portal"
+  },
+  "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-253530&sourceId=1": {
+    "date": "2026-11-06T00:00:00.000Z",
+    "dateVerified": true,
+    "dateSource": "Infosys Careers Portal"
+  },
+  "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-255106&sourceId=1": {
+    "date": "2026-11-06T00:00:00.000Z",
+    "dateVerified": true,
+    "dateSource": "Infosys Careers Portal"
+  },
+  "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-255107&sourceId=1": {
+    "date": "2026-11-06T00:00:00.000Z",
+    "dateVerified": true,
+    "dateSource": "Infosys Careers Portal"
+  },
+  "https://dcx.keka.com/careers/jobdetails/146600": {
+    "date": "2026-11-06T12:06:46.330Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://dcx.keka.com/careers/jobdetails/145832": {
+    "date": "2026-11-04T08:28:53.577Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://dcx.keka.com/careers/jobdetails/145831": {
+    "date": "2026-11-04T10:32:58.770Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://dcx.keka.com/careers/jobdetails/143988": {
+    "date": "2026-10-09T08:43:32.587Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://dcx.keka.com/careers/jobdetails/132416": {
+    "date": "2026-11-04T11:07:21.563Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://dcx.keka.com/careers/jobdetails/131208": {
+    "date": "2026-10-09T11:38:24.607Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://liminal.keka.com/careers/jobdetails/168910": {
+    "date": "2026-11-03T07:16:19.710Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://liminal.keka.com/careers/jobdetails/168093": {
+    "date": "2026-10-27T11:40:19.020Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://liminal.keka.com/careers/jobdetails/167120": {
+    "date": "2026-10-19T06:38:54.627Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://liminal.keka.com/careers/jobdetails/164714": {
+    "date": "2026-10-08T11:16:03.943Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://liminal.keka.com/careers/jobdetails/164703": {
+    "date": "2026-10-08T10:45:52.643Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://liminal.keka.com/careers/jobdetails/163710": {
+    "date": "2026-10-01T04:51:57.037Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://liminal.keka.com/careers/jobdetails/160276": {
+    "date": "2026-09-08T10:12:08.167Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://liminal.keka.com/careers/jobdetails/156449": {
+    "date": "2026-08-14T06:25:41.573Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://liminal.keka.com/careers/jobdetails/155986": {
+    "date": "2026-11-04T08:24:23.677Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://liminal.keka.com/careers/jobdetails/154302": {
+    "date": "2026-07-31T09:47:12.327Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://liminal.keka.com/careers/jobdetails/151005": {
+    "date": "2026-07-14T08:56:15.753Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://liminal.keka.com/careers/jobdetails/149997": {
+    "date": "2026-07-07T11:56:19.173Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://liminal.keka.com/careers/jobdetails/147040": {
+    "date": "2026-06-23T08:02:54.043Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://liminal.keka.com/careers/jobdetails/143347": {
+    "date": "2026-06-04T08:09:02.407Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "https://liminal.keka.com/careers/jobdetails/141304": {
+    "date": "2026-05-20T05:55:53.220Z",
+    "dateVerified": true,
+    "dateSource": "Keka.JobPosting.publishedOn"
+  },
+  "ashby:34a3f837-7fb5-492d-bf28-003e9dd26277": {
+    "date": "2026-11-06T18:19:56.581+00:00",
+    "dateVerified": true
+  },
+  "ashby:ffdc2d01-83a7-4b62-9356-45a3f07f63a5": {
+    "date": "2026-11-06T18:23:16.576+00:00",
+    "dateVerified": true
+  },
+  "ashby:a61cec5d-af70-41fc-9241-826698c5d054": {
+    "date": "2026-11-06T22:19:32.769+00:00",
+    "dateVerified": true
+  },
+  "https://my.linkedin.com/jobs/view/finance-operations-associate-at-bit-official-4486571214": {
+    "date": "2026-11-06T13:38:40.000Z",
+    "dateVerified": true
+  },
+  "https://my.linkedin.com/jobs/view/card-operations-manager-at-bit-official-4486589297": {
+    "date": "2026-11-06T13:38:40.000Z",
+    "dateVerified": true
+  },
+  "https://my.linkedin.com/jobs/view/senior-card-issuing-risk-fraud-specialist-at-bit-official-4486586377": {
+    "date": "2026-11-06T13:38:39.000Z",
+    "dateVerified": true
+  },
+  "https://hk.linkedin.com/jobs/view/business-operations-rwa-at-bit-official-4484657334": {
+    "date": "2026-11-06T13:38:39.000Z",
+    "dateVerified": true
+  },
+  "https://sg.linkedin.com/jobs/view/business-operations-rwa-at-bit-official-4485442363": {
+    "date": "2026-11-06T13:38:39.000Z",
+    "dateVerified": true
+  },
+  "https://hk.linkedin.com/jobs/view/grc-specialist-at-bit-official-4486334794": {
+    "date": "2026-11-06T13:38:39.000Z",
+    "dateVerified": true
+  },
+  "https://sg.linkedin.com/jobs/view/grc-specialist-at-bit-official-4486345618": {
+    "date": "2026-11-06T13:38:39.000Z",
+    "dateVerified": true
+  },
+  "ashby:1d5b5af1-bfde-44d3-a250-3cd37cea9e99": {
+    "date": "2026-11-06T13:07:37.000Z",
+    "dateVerified": true
+  },
+  "ashby:1d00a148-9e69-4aa5-a92b-4b4f24dad55a": {
+    "date": "2026-11-06T13:07:37.000Z",
+    "dateVerified": true
+  },
+  "ashby:4064d92a-8486-4512-ab6f-5f98a31812f1": {
+    "date": "2026-11-06T13:07:37.000Z",
+    "dateVerified": true
+  },
+  "ashby:f3d7e76e-5356-48c2-968b-0c8b632a5d47": {
+    "date": "2026-11-06T13:07:36.000Z",
+    "dateVerified": true
+  },
+  "ashby:ff09e306-76ea-414d-a9ef-86b216d11769": {
+    "date": "2026-11-06T13:07:36.000Z",
+    "dateVerified": true
+  },
+  "ashby:0027f489-8720-4bba-ba86-23d16799541e": {
+    "date": "2026-11-06T13:07:36.000Z",
+    "dateVerified": true
+  },
+  "ashby:b00db117-bbfc-4a37-8970-d8ee976ee2f2": {
+    "date": "2026-11-06T13:07:35.000Z",
+    "dateVerified": true
+  },
+  "https://starkware.co/position/senior-software-engineer-supervega": {
+    "date": "2026-11-06T12:31:42.000Z",
+    "dateVerified": true
+  },
+  "ashby:d0d57bcf-8b09-415a-aacd-51b5f50b26de": {
+    "date": "2026-11-06T13:06:19.000Z",
+    "dateVerified": true
+  },
+  "https://tokkalabs.hire.trakstar.com/jobs/fk0zcvm": {
+    "date": "2026-11-06T12:31:38.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8356842": {
+    "date": "2026-11-05T20:06:49-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8079209": {
+    "date": "2026-11-06T13:24:29-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8345667": {
+    "date": "2026-11-06T08:50:55-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "https://ie.linkedin.com/jobs/view/financial-crime-manager-at-aave-labs-4486533134": {
+    "date": "2026-11-06T13:38:03.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8358426": {
+    "date": "2026-11-06T04:36:21-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8358370": {
+    "date": "2026-11-06T04:34:52-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "ashby:88890cf1-24c5-40a1-9d5d-b6b99b208c1f": {
+    "date": "2026-11-06T10:43:11.430+00:00",
+    "dateVerified": true
+  },
+  "greenhouse:8350767": {
+    "date": "2026-11-06T03:51:08-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8351165": {
+    "date": "2026-11-05T19:37:27-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "https://jobs.solana.com/companies/ondo-finance/jobs/99057678-senior-product-designer-design-systems": {
+    "date": "2026-11-06T10:57:52.000Z",
+    "dateVerified": true
+  },
+  "https://careers.employinc.com/jobs/18455082-associate-customer-account-manager": {
+    "date": "2026-11-06T12:47:40.000Z",
+    "dateVerified": true
+  },
+  "https://ats.rippling.com/perle/jobs/56cfbaf9-d3ed-40b2-b652-3811d84ae41f": {
+    "date": "2026-11-06T12:22:55.000Z",
+    "dateVerified": true
+  },
+  "ashby:895ce469-6f4a-4480-a958-a6a25bf61559": {
+    "date": "2026-11-05T22:49:02.626+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt"
+  },
+  "ashby:60bfa56a-7b64-460d-b3a1-2bf80ced82ef": {
+    "date": "2026-11-05T22:28:57.655+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt"
+  },
+  "ashby:9a472074-a5cb-4619-b8eb-72375d883b75": {
+    "date": "2026-11-05T23:03:57.901+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt"
+  },
+  "greenhouse:4483667009": {
+    "date": "2026-11-06T04:46:48-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "https://cloudless.dev/careers/business-development-manager": {
+    "date": "2026-11-07T04:55:36.000Z",
+    "dateVerified": true
+  },
+  "ashby:9df6daf8-fd6e-49ed-8b66-7047b4bdf0e4": {
+    "date": "2026-11-06T13:02:53.000Z",
+    "dateVerified": true
+  },
+  "workable:c46c32e543": {
+    "date": "2026-11-06T00:00:00.000Z",
+    "dateVerified": true
+  },
+  "https://durianpay.kantorku.id/job/senior-business-development-15": {
+    "date": "2026-11-06T13:18:14.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8931756002": {
+    "date": "2026-11-06T12:55:49.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8931758002": {
+    "date": "2026-11-05T23:07:42-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "https://root.teamtailor.com/jobs/3389690-project-lead": {
+    "date": "2026-11-06T11:39:49.000Z",
+    "dateVerified": true
+  },
+  "https://root.teamtailor.com/jobs/8680100-office-and-experience-manager": {
+    "date": "2026-11-06T11:39:48.000Z",
+    "dateVerified": true
+  },
+  "ashby:99a878f8-192f-4bf2-8220-019e4b96762b": {
+    "date": "2026-11-06T11:08:32.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8332467": {
+    "date": "2026-11-06T10:32:55-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8077971": {
+    "date": "2026-08-06T15:27:48-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8280264": {
+    "date": "2026-11-06T16:26:55-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8354566": {
+    "date": "2026-11-05T19:45:33-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8353516": {
+    "date": "2026-11-06T14:41:16-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8357739": {
+    "date": "2026-11-06T14:05:04-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8301957": {
+    "date": "2026-11-06T10:36:16-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8357043": {
+    "date": "2026-11-06T04:29:58-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8325023": {
+    "date": "2026-11-06T11:59:32-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8336705": {
+    "date": "2026-11-06T10:30:40-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8348327": {
+    "date": "2026-11-06T12:26:14-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8350923": {
+    "date": "2026-11-06T11:27:12-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8325009": {
+    "date": "2026-11-05T22:16:59-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8331445": {
+    "date": "2026-11-06T07:55:57-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8348533": {
+    "date": "2026-11-06T18:07:34-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8347602": {
+    "date": "2026-11-06T16:01:16-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8360386": {
+    "date": "2026-11-06T17:01:40-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8357772": {
+    "date": "2026-11-06T11:21:25-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8359515": {
+    "date": "2026-11-06T12:12:07-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8356846": {
+    "date": "2026-11-06T12:12:06-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8356850": {
+    "date": "2026-11-06T11:25:17-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8359446": {
+    "date": "2026-11-06T11:55:54-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8934164002": {
+    "date": "2026-11-06T20:08:47-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8934163002": {
+    "date": "2026-11-06T19:57:02-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4699618006": {
+    "date": "2026-11-06T13:46:57-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5267669008": {
+    "date": "2026-06-17T12:10:01-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5025340101": {
+    "date": "2026-11-06T05:02:37-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5029521101": {
+    "date": "2026-11-06T05:26:37-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5029499101": {
+    "date": "2026-11-06T05:03:10-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5464688008": {
+    "date": "2026-11-06T15:46:53-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5476097008": {
+    "date": "2026-11-06T18:14:30-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5405190008": {
+    "date": "2026-11-06T14:38:44-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6250002004": {
+    "date": "2026-11-06T09:12:05-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6250004004": {
+    "date": "2026-11-06T13:20:53-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6250062004": {
+    "date": "2026-11-06T09:16:29-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8359982": {
+    "date": "2026-11-06T14:15:03-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8360000": {
+    "date": "2026-11-06T14:22:53-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8360014": {
+    "date": "2026-11-06T14:25:17-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8360026": {
+    "date": "2026-11-06T14:29:15-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8197696003": {
+    "date": "2026-11-06T11:42:52-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:7996101003": {
+    "date": "2026-11-06T11:08:15-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8197695003": {
+    "date": "2026-11-06T11:41:51-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5029213101": {
+    "date": "2026-11-06T02:18:47-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5029461101": {
+    "date": "2026-11-06T04:46:44-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8184381003": {
+    "date": "2026-11-06T18:01:26-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8360001": {
+    "date": "2026-11-06T14:21:56-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6251752004": {
+    "date": "2026-11-06T16:42:28-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6251713004": {
+    "date": "2026-11-06T17:08:11-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8359461": {
+    "date": "2026-11-06T12:11:46-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8354542": {
+    "date": "2026-11-06T12:05:10-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8359837": {
+    "date": "2026-11-06T13:25:15-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "lever:3bf06717-9ebc-4a19-b4d9-841588097c5c": {
+    "date": "2026-11-06T22:06:28.140Z",
+    "dateVerified": true
+  },
+  "lever:b9cd38a8-1774-4bd5-8f24-3925fe2874c9": {
+    "date": "2026-11-06T13:51:09.481Z",
+    "dateVerified": true
+  },
+  "lever:2fe54b1d-0111-4df8-bb98-d3ae3821fc3c": {
+    "date": "2026-11-06T17:53:49.696Z",
+    "dateVerified": true
+  },
+  "lever:0f8956d5-9da4-4db2-9d92-891e90654e01": {
+    "date": "2026-11-06T17:01:02.831Z",
+    "dateVerified": true
+  },
+  "lever:5596a914-f435-4053-b87f-d5b423c026aa": {
+    "date": "2026-11-06T15:18:57.344Z",
+    "dateVerified": true
+  },
+  "lever:5642bdc3-3298-4ca0-a64b-50e5ea4ba71d": {
+    "date": "2026-11-06T16:55:41.296Z",
+    "dateVerified": true
+  },
+  "lever:00c6f6f6-1c20-4540-a405-5c9ecc22f552": {
+    "date": "2026-11-06T17:15:43.335Z",
+    "dateVerified": true
+  },
+  "ashby:f9d015d7-d5cb-450b-9936-afd8d1c4f4cc": {
+    "date": "2026-11-07T02:57:03.574+00:00",
+    "dateVerified": true
+  },
+  "ashby:6075e1dc-c833-4e27-a789-61d3a596c66c": {
+    "date": "2026-11-06T19:57:59.753+00:00",
+    "dateVerified": true
+  },
+  "ashby:9ef1c3f4-c5bb-46ae-b03c-3f79205e1102": {
+    "date": "2026-11-06T20:52:45.172+00:00",
+    "dateVerified": true
+  },
+  "ashby:f0dc5b8d-1353-46a7-a519-80d7df3bcfe1": {
+    "date": "2026-11-06T15:13:49.025+00:00",
+    "dateVerified": true
+  },
+  "ashby:248a6400-c18e-4627-9c8c-1b1054869075": {
+    "date": "2026-11-07T02:39:51.694+00:00",
+    "dateVerified": true
+  },
+  "ashby:728b990b-6ff1-4e87-ba05-27d48cad768f": {
+    "date": "2026-11-06T22:25:38.920+00:00",
+    "dateVerified": true
+  },
+  "ashby:fb381f98-971c-4b3c-92c9-bd3b3fe10b15": {
+    "date": "2026-11-06T22:27:14.137+00:00",
+    "dateVerified": true
+  },
+  "ashby:3686cf8f-4a7e-4a17-9ec8-3afc4153f4ba": {
+    "date": "2026-11-06T22:31:05.944+00:00",
+    "dateVerified": true
+  },
+  "ashby:1efa5302-6757-47b7-8d69-a820370d0c3d": {
+    "date": "2026-11-06T01:40:16.455+00:00",
+    "dateVerified": true
+  },
+  "ashby:8bf09ec0-58fd-4f63-8eb8-6769bac0d12a": {
+    "date": "2026-11-06T01:47:25.156+00:00",
+    "dateVerified": true
+  },
+  "ashby:7a6e5274-d82d-40ac-b396-592318f68d76": {
+    "date": "2026-11-06T17:35:07.647+00:00",
+    "dateVerified": true
+  },
+  "ashby:10a27a51-bfd6-406a-b0ab-102f2a1d8573": {
+    "date": "2026-11-06T13:49:53.961+00:00",
+    "dateVerified": true
+  },
+  "ashby:b8843e87-11c2-4105-af24-a7a0d52e3d9b": {
+    "date": "2026-11-06T13:51:18.577+00:00",
+    "dateVerified": true
+  },
+  "ashby:8fd87fb8-0b72-428d-b346-1abe067c4e28": {
+    "date": "2026-11-06T18:32:59.975+00:00",
+    "dateVerified": true
+  },
+  "ashby:802f1884-f16c-4b04-b387-af3462788e37": {
+    "date": "2026-11-06T19:48:41.566+00:00",
+    "dateVerified": true
+  },
+  "ashby:0c422449-5b05-41ee-a000-0d5c04f78bea": {
+    "date": "2026-11-07T01:10:48.668+00:00",
+    "dateVerified": true
+  },
+  "ashby:801699e2-d9da-4407-ae31-2b88af6eb649": {
+    "date": "2026-11-06T20:49:07.340+00:00",
+    "dateVerified": true
+  },
+  "ashby:fde9bdbc-bac2-4816-8efa-af514d74e769": {
+    "date": "2026-11-06T17:49:00.898+00:00",
+    "dateVerified": true
+  },
+  "ashby:2e9df755-13ae-4e42-994b-fe5a7056bdb9": {
+    "date": "2026-11-06T22:24:36.282+00:00",
+    "dateVerified": true
+  },
+  "ashby:deb7c7aa-6425-4310-9106-54e4a344e0ac": {
+    "date": "2026-11-06T22:33:07.044+00:00",
+    "dateVerified": true
+  },
+  "workable:2a2eb0d0a8": {
+    "date": "2026-11-06T00:00:00.000Z",
+    "dateVerified": true
+  },
+  "breezy:nexo.breezy.hr:11cbaeec383601": {
+    "date": "2026-11-06",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://nexo.breezy.hr/p/11cbaeec383601-senior-product-legal-counsel",
+      "checkedAt": "2026-11-07T10:40:41.904Z",
+      "bodySha256": "eac4d5b05ff7c50c5ad484cf10019afd3b4ab8aab7868438a15bdf0a807bffae",
+      "provider": "breezy",
+      "datePosted": "2026-11-06"
+    }
+  },
+  "breezy:zero-hash.breezy.hr:148eca65cbd2": {
+    "date": "2026-11-06",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://zero-hash.breezy.hr/p/148eca65cbd2-director-of-enterprise-sales-payments-emea",
+      "checkedAt": "2026-11-07T10:40:42.370Z",
+      "bodySha256": "d4a21f50d69746bcf083cba0967a26fb71b359fccdde58420b9e8012543da8d7",
+      "provider": "breezy",
+      "datePosted": "2026-11-06"
+    }
+  },
+  "breezy:zero-hash.breezy.hr:061deb087dd8": {
+    "date": "2026-11-06",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://zero-hash.breezy.hr/p/061deb087dd8-director-of-enterprise-sales-wealth-fis-brokerage-emea",
+      "checkedAt": "2026-11-07T10:40:42.371Z",
+      "bodySha256": "fa9872a31e536d9bfeb181925450123d6e5e95b190d127072f8d67568569259f",
+      "provider": "breezy",
+      "datePosted": "2026-11-06"
+    }
+  },
+  "https://ats.rippling.com/riot-platforms-careers/jobs/35e809cb-69b7-4679-8760-d541c64c42eb": {
+    "date": "2026-11-06T11:56:13.126000-08:00",
+    "dateVerified": true
+  },
+  "ashby:57ab166b-eb47-4a9d-b2f1-56d904a52582": {
+    "date": "2026-10-03T01:02:23.103+00:00",
+    "dateVerified": true
+  },
+  "ashby:b74db47a-d1b9-4da8-986a-a13b99659fcd": {
+    "date": "2026-11-05T19:38:29.202+00:00",
+    "dateVerified": true
+  },
+  "ashby:a23ea7c4-094a-40e1-aeaa-c22b1d2c46e3": {
+    "date": "2026-10-03T01:04:48.293+00:00",
+    "dateVerified": true
+  },
+  "ashby:06263862-8b7a-4721-9d38-f7cebcb1f06f": {
+    "date": "2026-10-03T17:42:52.183+00:00",
+    "dateVerified": true
+  },
+  "ashby:0d0bf893-844d-4d3b-9aa2-96d48e0dc211": {
+    "date": "2026-10-03T17:41:46.262+00:00",
+    "dateVerified": true
+  },
+  "ashby:2c2fdf26-aa32-4208-bf09-22389bd026a1": {
+    "date": "2026-10-03T00:58:43.557+00:00",
+    "dateVerified": true
+  },
+  "ashby:8f2c1a50-6c39-4540-baad-60e9fb24dba6": {
+    "date": "2026-10-03T01:04:31.795+00:00",
+    "dateVerified": true
+  },
+  "ashby:0bf67b55-909a-4494-9499-2343b80464a1": {
+    "date": "2026-10-03T00:19:40.014+00:00",
+    "dateVerified": true
+  },
+  "ashby:44d66bb7-acd3-40c6-a263-745b57a75f2d": {
+    "date": "2026-10-03T01:03:04.151+00:00",
+    "dateVerified": true
+  },
+  "ashby:ce502ce7-a494-40f6-9e7d-4722b307d902": {
+    "date": "2026-10-03T01:02:12.632+00:00",
+    "dateVerified": true
+  },
+  "ashby:93d1e365-d070-40f5-9bdc-b21de1729eef": {
+    "date": "2026-10-03T00:38:37.152+00:00",
+    "dateVerified": true
+  },
+  "ashby:0dfa122b-8302-4397-94ce-59db05ffa26d": {
+    "date": "2026-10-03T01:02:34.682+00:00",
+    "dateVerified": true
+  },
+  "ashby:0b5e9ef4-2d0c-4dc5-931a-89bdee92bcaa": {
+    "date": "2026-10-03T01:02:00.836+00:00",
+    "dateVerified": true
+  },
+  "ashby:aa5c250b-a12c-43ad-89a2-38177a64bfba": {
+    "date": "2026-10-22T21:52:50.322+00:00",
+    "dateVerified": true
+  },
+  "ashby:202b6424-db46-4a96-bb63-bb54c4326c96": {
+    "date": "2026-10-28T19:14:00.869+00:00",
+    "dateVerified": true
+  },
+  "ashby:a9ef4783-0da5-45d2-b8e0-bfa10b051c2a": {
+    "date": "2026-10-28T19:06:10.360+00:00",
+    "dateVerified": true
+  },
+  "ashby:fb993a2e-62f8-4bef-aa5b-4e26c5bd8f79": {
+    "date": "2026-10-28T19:03:50.469+00:00",
+    "dateVerified": true
+  },
+  "ashby:f9fb4ac9-57a1-42f0-804e-84d1db6b366d": {
+    "date": "2026-11-03T00:33:24.389+00:00",
+    "dateVerified": true
+  },
+  "ashby:14f7af97-540a-4457-9537-d001a645fd9b": {
+    "date": "2026-11-03T01:39:07.642+00:00",
+    "dateVerified": true
+  },
+  "ashby:448e8bc3-0610-4c74-9c8c-fe1cabbdb0be": {
+    "date": "2026-11-04T02:45:33.082+00:00",
+    "dateVerified": true
+  },
+  "ashby:85a9eddd-1fb9-4040-9151-f89a4e779015": {
+    "date": "2026-10-16T21:54:29.809+00:00",
+    "dateVerified": true
+  },
+  "ashby:8da72cd2-4918-47e1-bc17-4fe86700ca47": {
+    "date": "2026-10-16T21:55:46.748+00:00",
+    "dateVerified": true
+  },
+  "ashby:9adabc63-1f65-499f-9a3a-d43b9d8233fa": {
+    "date": "2026-10-16T21:57:45.056+00:00",
+    "dateVerified": true
+  },
+  "ashby:ad0650e4-153d-47a5-8d61-b102ef580081": {
+    "date": "2026-10-19T17:25:53.076+00:00",
+    "dateVerified": true
+  },
+  "ashby:1a79a170-0220-4bf9-a11d-c4213ea81448": {
+    "date": "2026-10-19T16:32:08.725+00:00",
+    "dateVerified": true
+  },
+  "ashby:3b6f3f75-5853-429a-a2d8-6e24c1039bfc": {
+    "date": "2026-10-19T16:33:54.671+00:00",
+    "dateVerified": true
+  },
+  "ashby:a82a9801-10d7-406d-8201-7f6f36fcdc5a": {
+    "date": "2026-10-19T16:41:07.245+00:00",
+    "dateVerified": true
+  },
+  "ashby:3c98e1d4-be2e-4184-b622-3fa84f7a6a7d": {
+    "date": "2026-10-19T16:42:32.449+00:00",
+    "dateVerified": true
+  },
+  "ashby:d9a21373-ee50-421d-9682-7dfc700ec64a": {
+    "date": "2026-10-19T16:28:31.960+00:00",
+    "dateVerified": true
+  },
+  "ashby:bdbdcb02-e246-4a7b-9aec-9ab2405478f1": {
+    "date": "2026-10-19T16:43:49.838+00:00",
+    "dateVerified": true
+  },
+  "ashby:74b653d6-838e-4b55-a721-0e0f47eb1c43": {
+    "date": "2026-10-19T16:30:38.240+00:00",
+    "dateVerified": true
+  },
+  "ashby:f86d93b4-26df-4b1e-9840-da69b44fe487": {
+    "date": "2026-10-19T16:45:05.828+00:00",
+    "dateVerified": true
+  },
+  "ashby:80eee80a-aecb-4888-b219-fba7b99dcb1b": {
+    "date": "2022-09-20T18:21:02.193+00:00",
+    "dateVerified": true
+  },
+  "ashby:2c506a66-05c2-4df0-a1ae-751f44b08ce0": {
+    "date": "2025-09-12T21:30:52.513+00:00",
+    "dateVerified": true
+  },
+  "ashby:c18c1fb4-9ad7-4657-8366-bc0f5078d3ca": {
+    "date": "2026-08-03T04:32:58.835+00:00",
+    "dateVerified": true
+  },
+  "ashby:b85b9094-2467-4f49-9a36-ca93da34a3f5": {
+    "date": "2026-08-03T04:32:27.239+00:00",
+    "dateVerified": true
+  },
+  "ashby:45a1fb6a-a92e-4943-b31a-50f1cad3cfca": {
+    "date": "2026-08-26T23:48:22.205+00:00",
+    "dateVerified": true
+  },
+  "ashby:5541426c-43f4-489e-84ee-617d5f1af57c": {
+    "date": "2022-09-06T17:03:14.597+00:00",
+    "dateVerified": true
+  },
+  "ashby:7e194be3-07c7-4df9-922b-c582775b4947": {
+    "date": "2026-05-28T23:58:39.682+00:00",
+    "dateVerified": true
+  },
+  "ashby:38706c55-d162-41e8-b401-b004cf65ab70": {
+    "date": "2026-05-28T23:59:00.797+00:00",
+    "dateVerified": true
+  },
+  "ashby:7aa62656-e6c1-4b66-9c0a-4d8164b3604b": {
+    "date": "2026-07-03T01:36:33.542+00:00",
+    "dateVerified": true
+  },
+  "ashby:e6afd7d0-9aa6-45fa-a301-7923e1ca6be6": {
+    "date": "2026-07-03T18:54:35.331+00:00",
+    "dateVerified": true
+  },
+  "ashby:c8354f11-556c-496c-8ef4-d6bd336a8f2d": {
+    "date": "2026-09-23T13:56:14.591+00:00",
+    "dateVerified": true
+  },
+  "ashby:1b84dc0d-7865-47b8-b3c5-6e04d73edcb5": {
+    "date": "2026-10-06T16:38:37.887+00:00",
+    "dateVerified": true
+  },
+  "ashby:0d1e98d2-ac92-455d-a6a2-ed537133de00": {
+    "date": "2025-10-20T21:57:10.792+00:00",
+    "dateVerified": true
+  },
+  "ashby:6a8dd1d6-f326-429e-a818-ff3ff570bf21": {
+    "date": "2026-05-11T17:26:21.087+00:00",
+    "dateVerified": true
+  },
+  "ashby:b3a58540-1280-4261-85b3-229a80997831": {
+    "date": "2026-02-17T23:30:24.867+00:00",
+    "dateVerified": true
+  },
+  "ashby:d55321fb-d459-4834-ab67-e4bbfae3daa8": {
+    "date": "2026-06-01T16:35:39.976+00:00",
+    "dateVerified": true
+  },
+  "ashby:73a2c6df-234e-4d82-8977-67530c2be3eb": {
+    "date": "2026-09-25T19:57:39.980+00:00",
+    "dateVerified": true
+  },
+  "https://bitso.bamboohr.com/careers/1002": {
+    "date": "2026-09-16",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
+  },
+  "https://bitso.bamboohr.com/careers/1008": {
+    "date": "2026-09-22",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
+  },
+  "https://bitso.bamboohr.com/careers/1009": {
+    "date": "2026-09-29",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
+  },
+  "https://jobs.ripio.com/jobs/8507937-oficial-de-cumplimiento-mexico": {
+    "date": "2026-10-06T17:41:04.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "https://jobs.ripio.com/jobs/8437471-ai-automation-engineer": {
+    "date": "2026-09-22T19:27:55.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "https://jobs.ripio.com/jobs/7801511-queres-sumarte-a-liderar-cripto-en-latam-dejanos-tu-perfil": {
+    "date": "2026-05-26T20:11:14.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "https://fasset.bamboohr.com/careers/349": {
+    "date": "2026-10-28",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
+  },
+  "https://fasset.bamboohr.com/careers/350": {
+    "date": "2026-10-29",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
+  },
+  "ashby:0f62242f-895f-416c-93cc-76cd94424b35": {
+    "date": "2026-11-07T11:29:31.000Z",
+    "dateVerified": true
+  },
+  "ashby:908fe39c-4053-492c-b61d-62d47a6b4653": {
+    "date": "2026-11-07T11:29:31.000Z",
+    "dateVerified": true
+  },
+  "ashby:bbdb053a-e04d-4fac-8c6c-6308a0b69198": {
+    "date": "2026-11-07T11:29:30.000Z",
+    "dateVerified": true
+  },
+  "ashby:0cd4972a-f4ea-4e5c-b3e5-d2c04e678887": {
+    "date": "2026-11-07T11:29:30.000Z",
+    "dateVerified": true
+  },
+  "ashby:3cc4bc08-0b4c-4a58-a8ad-2395d1d47a2b": {
+    "date": "2026-11-07T11:29:29.000Z",
+    "dateVerified": true
+  },
+  "ashby:a2e9f3c2-10c8-4e42-8849-c470d7d1c4e1": {
+    "date": "2026-11-07T12:26:30.000Z",
+    "dateVerified": true
+  },
+  "ashby:a685f9e2-83b2-40db-85d2-fe348fbacb4e": {
+    "date": "2026-11-07T12:08:11.000Z",
+    "dateVerified": true
+  },
+  "https://wellfound.com/company/midas-10/jobs/5008566-head-of-sales-dach-m-w-d": {
+    "date": "2026-11-07T12:29:05.000Z",
+    "dateVerified": true
+  },
+  "https://wellfound.com/company/pods-finance/jobs/5010918-assistant-market-manager-transportation-and-warehouse": {
+    "date": "2026-11-07T12:27:11.000Z",
+    "dateVerified": true
+  },
+  "ashby:642f1233-6208-4367-a0da-584b42a7e45e": {
+    "date": "2026-11-07T12:54:49.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/head-of-legal-us-at-augustus-4484092643": {
+    "date": "2026-11-07T13:53:12.000Z",
+    "dateVerified": true
+  },
+  "https://de.linkedin.com/jobs/view/internship-at-augustus-4487786625": {
+    "date": "2026-11-07T13:53:12.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:5473940008": {
+    "date": "2026-11-07T13:20:03.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/baton-corporation/jobs/99137474-business-development-prediction-markets-200k-1m-bonus": {
+    "date": "2026-11-07T12:23:11.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/baton-corporation/jobs/99137473-business-development-perps-200k-1m-salary-bonus": {
+    "date": "2026-11-07T12:23:11.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/baton-corporation/jobs/99137475-business-development-trading-terminal-200k-1m-bonus": {
+    "date": "2026-11-07T12:23:11.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/ondo-finance/jobs/99133428-senior-event-manager-apac": {
+    "date": "2026-11-07T12:23:11.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/anchorage-digital/jobs/99190002-member-of-global-risk-management-market-risk": {
+    "date": "2026-11-07T12:23:10.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/phantom/jobs/99262113-ux-researcher": {
+    "date": "2026-11-07T12:23:10.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/alchemy-2/jobs/99202332-security-operations-engineer": {
+    "date": "2026-11-07T12:23:10.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/anchorage-digital/jobs/99190000-member-of-accounting-regulated-trading-derivatives": {
+    "date": "2026-11-07T12:23:10.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/alchemy-2/jobs/99202327-lead-it-applications-manager": {
+    "date": "2026-11-07T12:23:10.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/rain/jobs/99200330-events-coordinator": {
+    "date": "2026-11-07T12:23:10.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/fbyt-2-ec88b465-043d-457f-8a1e-c9190e3c7e07/jobs/99243387-sales-partner-web3-defi": {
+    "date": "2026-11-07T12:23:10.000Z",
+    "dateVerified": true
+  },
+  "https://ats.rippling.com/bitwise-asset-management-inc/jobs/027d1968-7e2c-4f1f-918d-a65781dfab00": {
+    "date": "2026-11-07T11:09:46.000Z",
+    "dateVerified": true
+  },
+  "https://ats.rippling.com/bitwise-asset-management-inc/jobs/76fdb320-5e17-4a64-9ac8-ef951c2c9ca6": {
+    "date": "2026-11-07T11:09:46.000Z",
+    "dateVerified": true
+  },
+  "ashby:debff2b9-3833-47a6-9489-de4e7ab45ee0": {
+    "date": "2026-11-07T13:18:25.000Z",
+    "dateVerified": true
+  },
+  "ashby:7f0f3837-3433-4ffe-8842-f3dbc3b621da": {
+    "date": "2026-11-07T13:18:24.000Z",
+    "dateVerified": true
+  },
+  "ashby:5d4863d7-e1d9-4f4e-aed4-79d558185ac9": {
+    "date": "2026-11-07T13:18:23.000Z",
+    "dateVerified": true
+  },
+  "ashby:dc344264-ccec-47c1-b4fc-0862633b26ba": {
+    "date": "2026-11-07T13:18:21.000Z",
+    "dateVerified": true
+  },
+  "ashby:a4110b0d-9af7-4724-9fd7-fb3615db5954": {
+    "date": "2026-11-07T13:18:21.000Z",
+    "dateVerified": true
+  },
+  "ashby:ae9df091-112c-4a59-b3d1-49d6e0ed3de9": {
+    "date": "2026-11-07T13:18:20.000Z",
+    "dateVerified": true
+  },
+  "ashby:1cf7c730-caba-4fc3-8b98-52a0735ef14b": {
+    "date": "2026-11-07T13:18:19.000Z",
+    "dateVerified": true
+  },
+  "ashby:38281574-0880-473a-a4f1-bfbb7eedfa18": {
+    "date": "2026-11-07T13:18:19.000Z",
+    "dateVerified": true
+  },
+  "ashby:c62ec47a-8de9-4781-b1f7-563a229c4e90": {
+    "date": "2026-11-07T13:18:18.000Z",
+    "dateVerified": true
+  },
+  "ashby:50edd021-cc90-48aa-916a-aead552e4d4f": {
+    "date": "2026-11-07T13:18:17.000Z",
+    "dateVerified": true
+  },
+  "ashby:dd3601fc-3a21-467b-aaff-43fceb65864b": {
+    "date": "2026-11-07T13:18:16.000Z",
+    "dateVerified": true
+  },
+  "ashby:2b401986-a491-4f9b-9c22-63079bcd64c2": {
+    "date": "2026-11-07T13:18:15.000Z",
+    "dateVerified": true
+  },
+  "ashby:db46ff5d-e469-4bba-b8af-c55ac04f311f": {
+    "date": "2026-11-07T13:18:15.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8250475": {
+    "date": "2026-11-07T12:49:05-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "ashby:feef69be-a397-43f0-b289-e7ae6a343242": {
+    "date": "2026-11-07T14:00:22.587+00:00",
+    "dateVerified": true
+  },
+  "ashby:9cb89dc7-01f6-4132-8b29-4a7bc0782337": {
+    "date": "2026-11-07T15:38:25.605+00:00",
+    "dateVerified": true
+  },
+  "workable:9e307b5475": {
+    "date": "2026-11-07T00:00:00.000Z",
+    "dateVerified": true
+  },
+  "workable:f777eb0517": {
+    "date": "2026-11-08",
+    "dateVerified": true
+  },
+  "workable:2c5dc33098": {
+    "date": "2026-11-08",
+    "dateVerified": true
+  },
+  "https://coinpoker.teamtailor.com/jobs/8684964-coinpoker-template": {
+    "date": "2026-11-07T11:16:15.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "https://rhinolabs.bamboohr.com/careers/81": {
+    "date": "2026-11-06",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
+  },
+  "lever:24507184-c9c0-44ba-859b-a3538669d450": {
+    "date": "2026-11-05T14:21:15.139Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt"
+  },
+  "https://wirex.bamboohr.com/careers/195": {
+    "date": "2026-11-05",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
+  },
+  "greenhouse:5027632101": {
+    "date": "2026-11-04T10:53:19-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "https://spiko.teamtailor.com/jobs/8660802-head-of-vc-sector-uk": {
+    "date": "2026-11-03T17:16:56.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "https://spiko.teamtailor.com/jobs/8660760-head-of-property-and-corporates-uk": {
+    "date": "2026-11-03T17:09:43.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "https://spiko.teamtailor.com/jobs/8660735-founding-sales-team-uk": {
+    "date": "2026-11-03T17:02:58.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "https://spiko.teamtailor.com/jobs/8660700-head-of-wealth-sector-uk": {
+    "date": "2026-11-03T16:55:07.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "ashby:2a37e6ef-ccd1-4508-ae0e-265c22bee0fd": {
+    "date": "2026-11-03T02:43:58.292+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt"
+  },
+  "https://cexio.bamboohr.com/careers/380": {
+    "date": "2026-11-03",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
+  },
+  "https://wirex.bamboohr.com/careers/194": {
+    "date": "2026-11-02",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
+  },
+  "greenhouse:5019037101": {
+    "date": "2026-10-28T10:55:15-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "lever:4a815740-5d5f-4048-ad3b-98e5fe2d1a3f": {
+    "date": "2026-10-28T13:04:43.363Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt"
+  },
+  "greenhouse:5017578101": {
+    "date": "2026-10-27T12:54:27-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "lever:ccd3231c-cd81-492c-946b-0753cb8137dd": {
+    "date": "2026-10-27T13:24:56.720Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt"
+  },
+  "greenhouse:5017380101": {
+    "date": "2026-10-27T07:22:04-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5016114101": {
+    "date": "2026-10-26T08:24:03-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5016064101": {
+    "date": "2026-10-26T07:50:23-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "https://careers.gravityteam.co/jobs/8614450-hft-network-engineer": {
+    "date": "2026-10-26T10:38:21.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "https://careers.coinshares.com/jobs/8609927-associate-director-sales": {
+    "date": "2026-10-23T13:47:37.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "lever:37c45e51-f51d-4c46-8a3c-8641f635ff09": {
+    "date": "2026-10-23T09:13:21.872Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt"
+  },
+  "greenhouse:5012481101": {
+    "date": "2026-10-23T04:33:11-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "https://coinpoker.teamtailor.com/jobs/8592164-head-of-game-security": {
+    "date": "2026-10-22T14:18:46.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "https://rhinolabs.bamboohr.com/careers/79": {
+    "date": "2026-10-22",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
+  },
+  "lever:5586de7e-3746-4d73-94f8-a385c74467c1": {
+    "date": "2026-10-19T14:07:10.744Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt"
+  },
+  "https://rhinolabs.bamboohr.com/careers/78": {
+    "date": "2026-10-19",
+    "dateVerified": true,
+    "dateSource": "BambooHR.careers.datePosted"
+  },
+  "greenhouse:5008837101": {
+    "date": "2026-10-16T10:22:28-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5008412101": {
+    "date": "2026-10-16T05:14:19-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5008406101": {
+    "date": "2026-10-16T05:10:32-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "breezy:busha.breezy.hr:605aba32504501": {
+    "date": "2026-10-16",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://busha.breezy.hr/p/605aba32504501-trading-engineer",
+      "checkedAt": "2026-11-08T10:50:02.874Z",
+      "bodySha256": "b074ea5b00346be775a3d45b1bceed8b9fc39a3633adf5b2608c6834d3797b04",
+      "provider": "breezy",
+      "datePosted": "2026-10-16"
+    }
+  },
+  "https://careers.coinshares.com/jobs/8553790-operations-analyst": {
+    "date": "2026-10-15T15:21:47.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "greenhouse:5007186101": {
+    "date": "2026-10-15T09:36:45-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "https://spiko.teamtailor.com/jobs/8545521-crm-lifecycle-marketing": {
+    "date": "2026-10-14T11:36:07.000Z",
+    "dateVerified": true,
+    "dateSource": "Teamtailor.jobs.rss"
+  },
+  "lever:1f16393a-6963-4c65-925b-89c4cb915e92": {
+    "date": "2026-10-14T06:58:23.767Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt"
+  },
+  "ashby:b671fdbf-bf2e-47d3-91a3-7dc4a07d93d3": {
+    "date": "2026-10-14T01:46:05.535+00:00",
+    "dateVerified": true,
+    "dateSource": "Ashby.posting-api.publishedAt"
+  },
+  "lever:0064e868-fc72-4abf-9564-1eeed1eeed73": {
+    "date": "2026-10-13T18:38:19.535Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt"
+  },
+  "greenhouse:4721504006": {
+    "date": "2026-10-13T12:09:41-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "lever:1b1eea21-3661-4200-9ae2-3b36d2e9c811": {
+    "date": "2026-10-13T09:57:52.546Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt"
+  },
+  "lever:16e0cec9-a91e-436c-859a-e757a9a49d21": {
+    "date": "2026-10-12T07:29:15.916Z",
+    "dateVerified": true,
+    "dateSource": "Lever.api.createdAt"
+  },
+  "lever:25578e8a-93e2-4209-bcf5-a714448470b5": {
+    "date": "2026-10-23T09:42:00.130Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:21f0e26e-6ef9-41d6-ab85-f6dc7b869dc9": {
+    "date": "2026-10-26T07:40:54.372Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:37006f6b-1f4e-4f8f-9a9f-c2b1746d2650": {
+    "date": "2026-05-18T10:19:38.056Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:e41dd011-021e-4d47-bc62-49734e78475b": {
+    "date": "2026-10-30T16:25:24.855Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:41033c35-31db-4c77-a906-55a2c308d5d4": {
+    "date": "2026-10-26T07:36:28.143Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:d1c79b5f-4e34-474c-8a3b-3c97160b13d9": {
+    "date": "2026-08-13T11:57:55.192Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:3d0e184f-d4cf-44dc-b127-6b2d2f86d254": {
+    "date": "2026-10-07T09:07:09.533Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:e66cb9c3-1c6d-4e08-9c67-65bf235e5265": {
+    "date": "2026-10-29T17:42:01.547Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:5c374137-ac44-47e8-8f21-21ec08c057b9": {
+    "date": "2026-10-29T09:55:46.433Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:3a8c082c-182f-4be4-99e5-52c5f6d4f141": {
+    "date": "2026-05-28T15:17:35.198Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:530a5b13-7b76-4028-bd98-0a1611824a86": {
+    "date": "2026-09-16T13:56:41.992Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:5e1e07ce-5e0a-4605-b44f-630fbd455947": {
+    "date": "2026-09-02T13:16:42.032Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:da3073dc-7cea-4716-acc4-913e7bb67d00": {
+    "date": "2026-08-18T12:23:58.078Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:1e0c5c41-aa52-4c1b-9fa1-bd8577b63d93": {
+    "date": "2026-10-05T15:23:59.848Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:b483b2ac-e0d3-4d36-ad85-03ccf3ff421d": {
+    "date": "2026-10-07T08:55:15.857Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:8c9f6953-01ba-4813-9a8e-74bca65cb82f": {
+    "date": "2026-10-05T15:27:32.481Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:3a13b935-5893-4ecd-9798-61bdf27385bd": {
+    "date": "2026-10-08T14:29:04.172Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:a478fcaf-b57b-4790-b8d2-4b733fecb5f2": {
+    "date": "2026-10-23T12:26:13.227Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:6cdba13b-6676-4363-96fd-3324044fbab6": {
+    "date": "2026-09-25T10:00:27.415Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:92cdbe90-4d0d-4425-825b-8a48da6e04bc": {
+    "date": "2026-09-28T16:21:36.802Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:1fa53869-f9bc-42c5-926e-1a1ebcfc5da0": {
+    "date": "2026-10-26T16:52:17.758Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:8e8376f2-13e1-432b-8733-c75519ecebfb": {
+    "date": "2026-03-27T11:54:13.866Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:7eb54e4e-e044-4928-9d0f-96b2dd8382a5": {
+    "date": "2025-07-29T08:17:59.239Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:a26c0b6e-dc42-4cb1-8e67-37c7e6254ce4": {
+    "date": "2026-06-16T13:58:37.530Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:262d8af1-1019-45ad-9445-033239adf268": {
+    "date": "2026-11-02T20:10:14.925Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:afb0ba0c-a9cc-40db-9c6b-aed2f24206a1": {
+    "date": "2026-02-11T09:32:55.521Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:af4195fb-8f59-47fb-a55e-ff4e2e47087c": {
+    "date": "2025-02-26T12:18:52.859Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:c99ebe3e-5590-4745-9b25-fe8507df9413": {
+    "date": "2026-10-22T12:39:23.267Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:f5064338-7049-4767-bedd-2b271affc5dd": {
+    "date": "2026-10-22T12:30:23.549Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:26722aa2-0788-4cd5-94af-9030c3bdb7ca": {
+    "date": "2026-09-09T10:33:10.655Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:85c1df11-5bea-443c-95b8-0296336eed3a": {
+    "date": "2026-10-07T09:05:25.100Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:dad03495-b419-42d1-ac8f-08b8e0e033e6": {
+    "date": "2026-07-30T14:00:09.847Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:ef0e2534-e955-4663-8295-9c6d1e326b1f": {
+    "date": "2026-10-14T08:20:29.078Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:b1809d88-d353-4cd6-b7b0-e3b38d1c42af": {
+    "date": "2025-06-12T08:24:03.308Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:fffe4d40-232a-4b2a-a287-551bb353662f": {
+    "date": "2026-06-10T07:30:24.009Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:46e396ba-b056-4679-b4a4-c2984c346c6b": {
+    "date": "2026-10-29T08:29:27.583Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:220bfca4-c87d-4ce2-a905-fb5929b3a752": {
+    "date": "2025-06-26T10:55:59.860Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:a2334ba8-7cb5-4b0d-aead-93a31e5216c1": {
+    "date": "2024-05-08T02:56:45.494Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:544a4e76-8e39-42a9-9b20-c738dc239aff": {
+    "date": "2025-09-18T07:24:52.381Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:b91f203e-05dc-4859-a622-d27a039cb194": {
+    "date": "2026-07-24T12:27:24.162Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:68a37bd0-f1d7-4233-ae48-8ddf579fccfa": {
+    "date": "2026-01-16T09:36:25.918Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:f456a4b2-d9f0-4944-898b-da26400f4332": {
+    "date": "2026-03-10T05:36:09.592Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:b0eef25f-af09-426e-922b-7b668cd0d2bc": {
+    "date": "2026-02-11T02:31:04.882Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:3265e01d-9c2f-4ecb-b548-6cee105b6213": {
+    "date": "2025-10-20T04:28:51.836Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:8c18f67e-c7bd-4349-bef4-614d663117da": {
+    "date": "2025-08-18T02:38:40.550Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:d89ffc20-1795-4a5c-8fd9-7203860b2482": {
+    "date": "2025-12-08T03:42:05.602Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:a8a073a7-5003-4c12-bdd9-863833420cab": {
+    "date": "2026-10-27T09:35:35.860Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:3cdf09ef-364c-424e-a920-940f7749c285": {
+    "date": "2026-11-02T09:38:11.353Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:3219c8af-e0e7-44a0-a364-33a7c62c2cfc": {
+    "date": "2026-05-19T22:23:59.727Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:e0e73119-0cf0-410b-b358-7327e50c62f0": {
+    "date": "2026-06-12T02:28:35.899Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:2d3152b1-bcea-4ae0-b998-0348944a7d37": {
+    "date": "2026-11-04T03:37:49.258Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:07882f14-d06c-435f-afde-a6445368a242": {
+    "date": "2026-09-01T03:40:58.040Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:2f3c6398-6bc0-43d4-8149-86d21c1f424a": {
+    "date": "2026-05-18T02:18:02.432Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:b1afcbef-c130-4c30-85c7-4ab0fd74d09e": {
+    "date": "2026-10-02T10:27:03.420Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:7b617334-f4d1-4937-96be-6ae939398d4d": {
+    "date": "2026-10-02T10:25:51.621Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:4cc72ca2-096b-4a3f-bbb4-29e95e6d4755": {
+    "date": "2026-11-04T08:57:36.283Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:84f251e0-2125-4708-a522-c0e268e3df0a": {
+    "date": "2026-07-01T01:47:56.338Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:b90098d4-390f-47be-9faa-1dd630522f41": {
+    "date": "2025-10-13T09:34:33.195Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:63b4b6a9-3975-4fce-af85-448a45b1afd5": {
+    "date": "2025-02-05T04:47:57.820Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:ab54e044-1356-49b4-a75c-423c210f322f": {
+    "date": "2026-02-05T03:09:56.903Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:4095cd9c-16e0-48a5-9123-d0a6a4222edc": {
+    "date": "2026-06-02T02:58:54.034Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:4f2a8e88-3647-4c85-a1ba-89ac92178cb4": {
+    "date": "2026-09-17T09:00:25.091Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:5e5d6b6b-66bc-443e-acb4-f41bf1ab6d01": {
+    "date": "2026-08-11T08:30:11.129Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:0b882a20-ee49-44a2-b839-7dc65ee5880c": {
+    "date": "2026-09-17T09:49:12.033Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:53f2498c-e5af-4671-ab26-f52deb767b01": {
+    "date": "2026-10-12T02:17:13.182Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:66801d1e-351f-4e90-81e2-82b0695a040d": {
+    "date": "2026-10-20T03:12:00.648Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:ed2da226-a787-493e-ace0-9890ca3d2f8a": {
+    "date": "2026-11-04T09:04:11.703Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "lever:1902068b-6097-43aa-966c-7af035cc6998": {
+    "date": "2026-11-04T09:02:47.570Z",
+    "dateVerified": true,
+    "dateSource": "Lever.createdAt"
+  },
+  "https://www.linkedin.com/jobs/view/research-intern-summer-2027-at-category-labs-4488701116": {
+    "date": "2026-11-08T15:55:36.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/anza-2/jobs/99188992-software-engineer-storage": {
+    "date": "2026-11-08T10:54:31.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/syndica/jobs/99283453-research-manager": {
+    "date": "2026-11-08T10:54:31.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/syndica/jobs/99283451-revenue-growth-manager-b2b-sales": {
+    "date": "2026-11-08T10:54:31.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/syndica/jobs/99283452-senior-software-engineer-zig-rust": {
+    "date": "2026-11-08T10:54:31.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/syndica/jobs/99283446-don-t-see-a-perfect-fit": {
+    "date": "2026-11-08T10:54:31.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/rain/jobs/99302899-associate-account-manager": {
+    "date": "2026-11-08T10:54:31.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/rain/jobs/99302900-associate-account-manager": {
+    "date": "2026-11-08T10:54:31.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/rain/jobs/99302901-technical-recruiter": {
+    "date": "2026-11-08T10:54:31.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/perle-2-0f9ff345-67d2-4bf3-af58-751b33bd578b/jobs/99153704-freelance-transcriptionist-ecuadorian-quechua": {
+    "date": "2026-11-08T10:54:31.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/security-engineer-at-offchain-4488753524": {
+    "date": "2026-11-08T15:54:48.000Z",
+    "dateVerified": true
+  },
+  "https://qohash.com/job/join-the-qohash-talent-community-future-opportunities": {
+    "date": "2026-11-08T11:43:33.000Z",
+    "dateVerified": true
+  },
+  "https://qohash.com/job/senior-full-stack-developer-react-java": {
+    "date": "2026-11-08T11:43:32.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:7524334": {
+    "date": "2026-01-08T19:44:00-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8354754": {
+    "date": "2026-11-08T22:19:31-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4991121101": {
+    "date": "2026-10-07T09:02:53-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4998441101": {
+    "date": "2026-10-06T22:17:37-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4998666101": {
+    "date": "2026-10-07T08:05:05-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4998860101": {
+    "date": "2026-10-07T08:05:31-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6216413004": {
+    "date": "2026-10-03T05:31:20-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4994404101": {
+    "date": "2026-09-30T10:51:38-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4671129101": {
+    "date": "2025-09-09T10:06:54-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4671166101": {
+    "date": "2025-09-09T10:19:25-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4774099101": {
+    "date": "2026-02-04T05:52:42-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4817290101": {
+    "date": "2026-03-19T12:58:33-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4798893101": {
+    "date": "2026-03-06T06:37:05-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4798874101": {
+    "date": "2026-03-06T06:24:25-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4997627101": {
+    "date": "2026-10-05T10:11:32-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4930042101": {
+    "date": "2026-07-16T13:21:58-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4930069101": {
+    "date": "2026-07-16T13:38:04-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4930014101": {
+    "date": "2026-07-16T12:34:19-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4800228101": {
+    "date": "2026-03-07T02:41:53-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5000283101": {
+    "date": "2026-10-08T01:58:22-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4832545101": {
+    "date": "2026-04-06T05:53:09-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4818176101": {
+    "date": "2026-03-20T07:58:47-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4832536101": {
+    "date": "2026-04-06T05:46:40-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4818221101": {
+    "date": "2026-03-20T08:20:44-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4944734101": {
+    "date": "2026-08-04T13:00:06-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4846320101": {
+    "date": "2026-04-21T04:09:12-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4861338101": {
+    "date": "2026-05-07T09:17:24-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5411039008": {
+    "date": "2026-09-03T22:31:05-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4915295008": {
+    "date": "2025-09-09T16:28:07-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5399774008": {
+    "date": "2026-08-24T12:45:38-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4915213008": {
+    "date": "2025-09-09T15:27:17-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5438003008": {
+    "date": "2026-09-30T12:18:01-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5430475008": {
+    "date": "2026-09-22T14:03:15-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4926600008": {
+    "date": "2025-09-18T16:12:51-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5096609008": {
+    "date": "2026-01-26T12:11:23-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5175872007": {
+    "date": "2026-06-30T17:47:11-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4691376006": {
+    "date": "2026-07-09T13:50:37-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4715921006": {
+    "date": "2026-09-25T10:27:11-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4696883006": {
+    "date": "2026-07-14T10:55:49-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4710968006": {
+    "date": "2026-09-03T11:48:39-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4691375006": {
+    "date": "2026-07-09T13:53:03-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4662965006": {
+    "date": "2026-07-09T13:55:00-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "lever:1c296ffd-fece-44f6-ac56-3c34786a6a2a": {
+    "date": "2025-02-18T07:42:02.622Z",
+    "dateVerified": true
+  },
+  "lever:8a733d99-3216-4793-8bd3-001b583b4e17": {
+    "date": "2026-01-16T06:44:59.883Z",
+    "dateVerified": true
+  },
+  "lever:f356c01a-e6f4-4f7f-aa98-3128c335ab50": {
+    "date": "2025-07-24T07:52:11.275Z",
+    "dateVerified": true
+  },
+  "lever:59b9aa45-daab-46de-a868-2f9a51663702": {
+    "date": "2026-09-08T22:08:01.510Z",
+    "dateVerified": true
+  },
+  "lever:b172b5c0-d94c-443c-9552-ac877458fb27": {
+    "date": "2025-10-14T20:21:53.307Z",
+    "dateVerified": true
+  },
+  "lever:80b3b734-c80e-4440-a535-9f6e3efce3ac": {
+    "date": "2026-09-11T13:58:51.674Z",
+    "dateVerified": true
+  },
+  "lever:dbd40552-0b4a-497f-8712-c45f2e9afca7": {
+    "date": "2026-07-10T14:15:04.442Z",
+    "dateVerified": true
+  },
+  "lever:866c4cd6-8b0c-4e2c-abe9-8055976125ba": {
+    "date": "2026-10-08T10:42:01.204Z",
+    "dateVerified": true
+  },
+  "lever:4fc0495f-01c5-4cd4-87b9-bcde1ba80956": {
+    "date": "2026-10-08T10:18:19.474Z",
+    "dateVerified": true
+  },
+  "lever:0b4954cc-65d2-438b-b109-199166242a83": {
+    "date": "2026-07-13T12:28:47.366Z",
+    "dateVerified": true
+  },
+  "lever:a9e2ee20-06c9-4f10-8501-3c13de0f8fb5": {
+    "date": "2026-10-08T10:10:32.176Z",
+    "dateVerified": true
+  },
+  "lever:1175fd4a-cf60-418c-85f1-230fc5d1ff2e": {
+    "date": "2026-06-22T15:59:55.909Z",
+    "dateVerified": true
+  },
+  "lever:fc6e68e0-8e59-4a3c-a365-e2362dd641ed": {
+    "date": "2026-09-08T17:19:57.559Z",
+    "dateVerified": true
+  },
+  "lever:296197b1-ce36-43e3-9f58-05084ff3b235": {
+    "date": "2026-07-23T13:39:56.356Z",
+    "dateVerified": true
+  },
+  "lever:fdd8016f-619e-43dc-80f5-a1f6e507a36b": {
+    "date": "2026-04-17T14:24:40.476Z",
+    "dateVerified": true
+  },
+  "lever:55fa1ddf-bf30-4718-871f-4303e8058576": {
+    "date": "2026-09-30T13:09:58.756Z",
+    "dateVerified": true
+  },
+  "lever:4a1df450-8857-44ae-abc0-769749996727": {
+    "date": "2026-08-04T13:33:08.922Z",
+    "dateVerified": true
+  },
+  "lever:b2759966-67bd-4c9d-bb0c-a2be82e958d4": {
+    "date": "2026-08-04T13:53:38.283Z",
+    "dateVerified": true
+  },
+  "lever:eb9ef693-37f3-4c33-a0d8-71a84adb0ada": {
+    "date": "2026-05-22T14:58:49.613Z",
+    "dateVerified": true
+  },
+  "lever:1042c906-cff5-4a78-87be-71f92e8c42ba": {
+    "date": "2026-08-26T10:34:36.361Z",
+    "dateVerified": true
+  },
+  "lever:215f5a6b-041c-4975-ae38-6ba3ea00d5e7": {
+    "date": "2026-09-24T12:14:22.769Z",
+    "dateVerified": true
+  },
+  "lever:6c922a3f-5717-415b-892e-b0d1b23d9ded": {
+    "date": "2026-07-16T12:00:15.743Z",
+    "dateVerified": true
+  },
+  "lever:e8b422b5-1ae2-4bdd-a32f-c2ceacbf0d0f": {
+    "date": "2026-04-06T15:00:01.609Z",
+    "dateVerified": true
+  },
+  "lever:4557400e-f811-4fb5-b3aa-fc6ecb23bbd0": {
+    "date": "2025-10-15T13:44:06.109Z",
+    "dateVerified": true
+  },
+  "lever:56d9f75c-c372-43a6-94cd-7d0b8d92d856": {
+    "date": "2026-08-05T08:39:40.487Z",
+    "dateVerified": true
+  },
+  "lever:fb9dc924-d659-4106-9469-504f7cf80e30": {
+    "date": "2026-10-06T11:58:48.178Z",
+    "dateVerified": true
+  },
+  "lever:3d0f2946-dc68-429b-8103-2f03517ad008": {
+    "date": "2026-07-28T15:46:23.431Z",
+    "dateVerified": true
+  },
+  "lever:aadc1342-c7ac-4f45-b026-e953b0861b4e": {
+    "date": "2026-10-02T07:58:18.167Z",
+    "dateVerified": true
+  },
+  "lever:8777f002-6cfe-4cb1-9de0-55deca637c31": {
+    "date": "2025-05-13T17:44:09.009Z",
+    "dateVerified": true
+  },
+  "lever:0fb182cb-8fa6-41e0-a93c-9e46cdc399be": {
+    "date": "2026-06-30T15:26:37.391Z",
+    "dateVerified": true
+  },
+  "lever:94f21b18-552b-4012-9121-afe6cd0cd9ed": {
+    "date": "2026-01-27T18:42:20.300Z",
+    "dateVerified": true
+  },
+  "lever:2f933140-88c0-41e8-a458-1f7588ebe9ce": {
+    "date": "2026-08-07T10:03:54.594Z",
+    "dateVerified": true
+  },
+  "lever:25a22e52-5004-433d-bfc8-7fc402bbda77": {
+    "date": "2024-08-09T17:05:14.674Z",
+    "dateVerified": true
+  },
+  "lever:d221600b-dcb8-4459-8955-a4fe142a36be": {
+    "date": "2026-09-18T19:54:15.794Z",
+    "dateVerified": true
+  },
+  "lever:1e5c58cd-f934-4d7b-a44a-4d202d62d07e": {
+    "date": "2025-12-17T02:25:37.832Z",
+    "dateVerified": true
+  },
+  "lever:80c40d3c-fc55-4641-b6d9-da232aed149b": {
+    "date": "2026-07-10T14:20:47.737Z",
+    "dateVerified": true
+  },
+  "lever:1d573e45-2de3-42cb-9c80-c141aae8eb1c": {
+    "date": "2026-10-08T22:00:05.658Z",
+    "dateVerified": true
+  },
+  "lever:674b97f1-1586-49d1-a101-328e0521ad3c": {
+    "date": "2026-10-08T10:16:03.972Z",
+    "dateVerified": true
+  },
+  "lever:a4e080dc-05c0-427f-9b18-1f5abb1604ef": {
+    "date": "2026-10-08T10:36:06.551Z",
+    "dateVerified": true
+  },
+  "lever:8952ca95-ae3d-4bab-9919-fcf3679d4226": {
+    "date": "2026-09-30T09:36:08.222Z",
+    "dateVerified": true
+  },
+  "lever:8a6a5159-277b-4053-8f2b-784a2e26a0e3": {
+    "date": "2025-10-09T15:58:23.834Z",
+    "dateVerified": true
+  },
+  "lever:a8b2588b-f266-47b2-b660-a17c3ed6969a": {
+    "date": "2026-10-06T12:40:50.540Z",
+    "dateVerified": true
+  },
+  "lever:edbe514a-6007-4418-bbfa-7a6816c279a8": {
+    "date": "2025-07-23T17:00:18.787Z",
+    "dateVerified": true
+  },
+  "lever:98c55102-0d86-4ee5-a0a5-96cd2aeb164a": {
+    "date": "2025-12-09T18:50:16.804Z",
+    "dateVerified": true
+  },
+  "lever:df891a29-88ba-4909-ae0d-63900306ef13": {
+    "date": "2026-08-26T15:37:33.375Z",
+    "dateVerified": true
+  },
+  "lever:624b56db-00c0-485a-83f0-04d8b2a5ea56": {
+    "date": "2026-08-26T15:58:39.218Z",
+    "dateVerified": true
+  },
+  "lever:1af0d132-a4d9-4211-a8d4-2ce11e23ba22": {
+    "date": "2026-10-07T05:09:13.314Z",
+    "dateVerified": true
+  },
+  "ashby:37a272e7-f55c-42e6-8db8-5c94f9934d86": {
+    "date": "2026-08-31T13:59:43.382+00:00",
+    "dateVerified": true
+  },
+  "ashby:da969db9-7c3a-494e-ac43-fdb7b4320070": {
+    "date": "2026-08-31T13:59:41.075+00:00",
+    "dateVerified": true
+  },
+  "ashby:1db0fad2-c4a4-491d-9065-03bcb40f65d0": {
+    "date": "2026-08-31T13:59:44.966+00:00",
+    "dateVerified": true
+  },
+  "ashby:fb000d3c-9464-4230-9876-0910f20e5109": {
+    "date": "2026-08-31T13:59:46.761+00:00",
+    "dateVerified": true
+  },
+  "ashby:3f573ea4-5f34-471f-a05e-2561ecb10547": {
+    "date": "2026-08-31T13:59:39.396+00:00",
+    "dateVerified": true
+  },
+  "ashby:c8f78978-a693-4863-bcc0-66af5c3fd0be": {
+    "date": "2026-08-31T22:13:20.811+00:00",
+    "dateVerified": true
+  },
+  "ashby:8860e7ec-90f0-4fc8-bd83-90063137ec45": {
+    "date": "2026-08-31T22:13:22.788+00:00",
+    "dateVerified": true
+  },
+  "ashby:7b107585-5a3b-428d-ad5d-1c85be9dca4e": {
+    "date": "2026-08-31T22:13:24.346+00:00",
+    "dateVerified": true
+  },
+  "ashby:1411758f-874f-4b15-b950-9a62f598a343": {
+    "date": "2026-06-18T04:08:06.285+00:00",
+    "dateVerified": true
+  },
+  "ashby:6f8c3673-f212-4594-bb22-9a76946e62f4": {
+    "date": "2026-06-18T04:13:38.860+00:00",
+    "dateVerified": true
+  },
+  "ashby:6e66f59a-5dcf-4dee-8de5-c3542ff825a4": {
+    "date": "2026-07-06T08:21:12.140+00:00",
+    "dateVerified": true
+  },
+  "ashby:29992795-2d98-4814-8e12-86c4de73c639": {
+    "date": "2026-08-20T13:26:28.097+00:00",
+    "dateVerified": true
+  },
+  "ashby:42dbe041-73d7-4820-80b5-92b692d3054e": {
+    "date": "2026-09-01T03:22:26.627+00:00",
+    "dateVerified": true
+  },
+  "ashby:d42994cb-1b6e-4e89-9358-e49be85c5caf": {
+    "date": "2025-12-19T12:56:26.972+00:00",
+    "dateVerified": true
+  },
+  "ashby:c77447b0-1951-4f1e-8f38-08024c6eca80": {
+    "date": "2026-05-20T12:56:34.799+00:00",
+    "dateVerified": true
+  },
+  "ashby:5cdeb84b-39fc-465e-a730-b13b69d2e3d4": {
+    "date": "2026-11-08T15:45:12.324+00:00",
+    "dateVerified": true
+  },
+  "ashby:b4c1c019-6c93-4825-a341-bb500c5a66e5": {
+    "date": "2026-09-08T09:36:34.461+00:00",
+    "dateVerified": true
+  },
+  "ashby:1b2ef7c1-b5a4-40e0-8bad-40f3ca790ed6": {
+    "date": "2026-01-20T20:25:20.887+00:00",
+    "dateVerified": true
+  },
+  "ashby:765c09d8-cd86-4a5e-bdfe-ac6d43c193ea": {
+    "date": "2026-01-20T20:54:41.707+00:00",
+    "dateVerified": true
+  },
+  "ashby:68cdbe6f-7e45-46a2-a312-2534d5d12fd6": {
+    "date": "2026-02-12T20:42:28.560+00:00",
+    "dateVerified": true
+  },
+  "ashby:d09f67c7-e84a-4945-9551-fd21ed206320": {
+    "date": "2026-02-12T20:46:36.832+00:00",
+    "dateVerified": true
+  },
+  "ashby:980fee35-594d-4432-bbe4-a77efd473cc3": {
+    "date": "2026-08-26T17:36:30.984+00:00",
+    "dateVerified": true
+  },
+  "ashby:9200468c-0428-434b-a4fa-0a4481ab4339": {
+    "date": "2026-09-08T09:55:53.986+00:00",
+    "dateVerified": true
+  },
+  "breezy:busha.breezy.hr:028b444045e201": {
+    "date": "2026-10-08",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://busha.breezy.hr/p/028b444045e201-business-development-manager-financial-services",
+      "checkedAt": "2026-11-09T03:34:10.620Z",
+      "bodySha256": "8fe8440bcbd851a1ae09512181bd7f9fb3bd740e9cded5d54cac84b45660d6fd",
+      "provider": "breezy",
+      "datePosted": "2026-10-08"
+    }
+  },
+  "breezy:busha.breezy.hr:6e18de7772fb01": {
+    "date": "2026-01-08",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://busha.breezy.hr/p/6e18de7772fb01-legal-compliance-officer",
+      "checkedAt": "2026-11-09T03:34:10.621Z",
+      "bodySha256": "6b1cf233e3d8555dbc5e354ec52395b31b31681c014b17a99f1318e8734abda4",
+      "provider": "breezy",
+      "datePosted": "2026-01-08"
+    }
+  },
+  "breezy:busha.breezy.hr:68d7c1b7294c01": {
+    "date": "2026-05-29",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://busha.breezy.hr/p/68d7c1b7294c01-product-designer",
+      "checkedAt": "2026-11-09T03:34:10.622Z",
+      "bodySha256": "1e2eab1d02e5e96db96df1378a9d866202d9edc60ebbd9d9a05f6fc02fe01db1",
+      "provider": "breezy",
+      "datePosted": "2026-05-29"
+    }
+  },
+  "breezy:busha.breezy.hr:6cfbfab293ce01": {
+    "date": "2026-08-28",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://busha.breezy.hr/p/6cfbfab293ce01-chief-financial-officer",
+      "checkedAt": "2026-11-09T03:34:10.621Z",
+      "bodySha256": "d615a207154325faa20d07830782f338b8e5b3c2808b6d7e8bac7ac154cbb701",
+      "provider": "breezy",
+      "datePosted": "2026-08-28"
+    }
+  },
+  "breezy:busha.breezy.hr:0cd5149afb2501": {
+    "date": "2026-10-07",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://busha.breezy.hr/p/0cd5149afb2501-legal-associate",
+      "checkedAt": "2026-11-09T03:34:10.622Z",
+      "bodySha256": "c1bb02894436bb009af291b262b62bbe0d80645560b2c91541350b31f646aff0",
+      "provider": "breezy",
+      "datePosted": "2026-10-07"
+    }
+  },
+  "breezy:busha.breezy.hr:823764763d4301": {
+    "date": "2026-09-01",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://busha.breezy.hr/p/823764763d4301-reconciliation-settlement-manager",
+      "checkedAt": "2026-11-09T03:34:10.623Z",
+      "bodySha256": "d479c7515d9e8d6c85ebfc2d5374e0785e50897181301abfffc6a2a55649c171",
+      "provider": "breezy",
+      "datePosted": "2026-09-01"
+    }
+  },
+  "breezy:busha.breezy.hr:8bac4d430b0c01": {
+    "date": "2025-09-17",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://busha.breezy.hr/p/8bac4d430b0c01-senior-backend-engineer",
+      "checkedAt": "2026-11-09T03:34:10.623Z",
+      "bodySha256": "571e1aafd5955d3a3e8d72e57c8f06cdfa586224a03e5799af673fdc4ac61f9a",
+      "provider": "breezy",
+      "datePosted": "2025-09-17"
+    }
+  },
+  "https://www.etoro.com/about/careers/position/fe.276": {
+    "date": "2026-10-28T08:14:09Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted"
+  },
+  "https://www.etoro.com/about/careers/position/de.c63": {
+    "date": "2026-09-01T11:50:42Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted"
+  },
+  "https://www.etoro.com/about/careers/position/95.d6b": {
+    "date": "2026-09-10T08:12:30Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted"
+  },
+  "https://www.etoro.com/about/careers/position/dd.c61": {
+    "date": "2026-09-29T11:25:49Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted"
+  },
+  "https://www.etoro.com/about/careers/position/9b.96b": {
+    "date": "2026-06-03T09:45:51Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted"
+  },
+  "https://www.etoro.com/about/careers/position/c8.86b": {
+    "date": "2026-10-07T12:54:31Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted"
+  },
+  "https://www.etoro.com/about/careers/position/04.07e": {
+    "date": "2026-10-28T08:28:08Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted"
+  },
+  "https://www.etoro.com/about/careers/position/4a.56f": {
+    "date": "2026-09-29T11:26:12Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted"
+  },
+  "https://www.etoro.com/about/careers/position/66.d64": {
+    "date": "2026-08-17T08:59:47Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted"
+  },
+  "https://www.comeet.com/jobs/hypernative/8A.00E/senior-security-solutions-engineer---emea/AB.47C": {
+    "date": "2026-11-03T09:44:19Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted"
+  },
+  "https://www.comeet.com/jobs/hypernative/8A.00E/senior-security-solutions-engineer---us/21.F6B": {
+    "date": "2026-11-03T09:44:27Z",
+    "dateVerified": true,
+    "dateSource": "Comeet.positions.datePosted"
+  },
+  "greenhouse:5006829101": {
+    "date": "2026-11-09T04:01:41-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "ashby:6d02f4e8-7320-42e1-9b6b-cc1b436604b7": {
+    "date": "2026-11-09T11:41:02.000Z",
+    "dateVerified": true
+  },
+  "lever:0a37b1d6-00dd-4568-9bcf-af9d866dc371": {
+    "date": "2026-11-09T04:50:34.713Z",
+    "dateVerified": true
+  },
+  "lever:64ecc485-f6fb-4052-ad47-f50aeda07edd": {
+    "date": "2026-11-09T06:35:05.848Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/baton-corporation/jobs/99352304-head-of-ooh-media-250k-400k-bonus": {
+    "date": "2026-11-09T12:56:06.000Z",
+    "dateVerified": true
+  },
+  "https://eg.linkedin.com/jobs/view/procurement-facilities-lead-at-axis-4485082273": {
+    "date": "2026-11-09T12:59:11.000Z",
+    "dateVerified": true
+  },
+  "https://eg.linkedin.com/jobs/view/head-of-marketing-at-axis-4484369415": {
+    "date": "2026-11-09T12:59:11.000Z",
+    "dateVerified": true
+  },
+  "https://eg.linkedin.com/jobs/view/procurement-facilities-lead-at-axis-4466896516": {
+    "date": "2026-11-09T12:59:11.000Z",
+    "dateVerified": true
+  },
+  "https://eg.linkedin.com/jobs/view/senior-product-designer-at-axis-4486921034": {
+    "date": "2026-11-09T12:59:11.000Z",
+    "dateVerified": true
+  },
+  "https://eg.linkedin.com/jobs/view/group-product-manager-%E2%80%93-b2c-at-axis-4486908283": {
+    "date": "2026-11-09T12:59:11.000Z",
+    "dateVerified": true
+  },
+  "https://eg.linkedin.com/jobs/view/head-of-acquisition-commercial-at-axis-4484663184": {
+    "date": "2026-11-09T12:59:11.000Z",
+    "dateVerified": true
+  },
+  "https://eg.linkedin.com/jobs/view/head-of-acquisition-commercial-at-axis-4485779262": {
+    "date": "2026-11-09T12:59:11.000Z",
+    "dateVerified": true
+  },
+  "https://eg.linkedin.com/jobs/view/head-of-commercial-strategy-at-axis-4485775583": {
+    "date": "2026-11-09T12:59:11.000Z",
+    "dateVerified": true
+  },
+  "https://eg.linkedin.com/jobs/view/head-of-retail-at-axis-4487157121": {
+    "date": "2026-11-09T12:59:11.000Z",
+    "dateVerified": true
+  },
+  "https://eg.linkedin.com/jobs/view/legal-lead-at-axis-4487664231": {
+    "date": "2026-11-09T12:59:10.000Z",
+    "dateVerified": true
+  },
+  "https://eg.linkedin.com/jobs/view/head-of-commercial-strategy-at-axis-4484649737": {
+    "date": "2026-11-09T12:59:10.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/robotics-engineer-at-openmind-4480711942": {
+    "date": "2026-11-09T12:55:33.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/director-supply-chain-engineering-at-hadrian-4477752912": {
+    "date": "2026-11-09T12:57:10.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/training-specialist-at-hadrian-4486211008": {
+    "date": "2026-11-09T12:57:10.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/strategic-communications-director-at-hadrian-4484625752": {
+    "date": "2026-11-09T12:57:09.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/director-accounting-systems-at-hadrian-4471212629": {
+    "date": "2026-11-09T12:57:09.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/all-levels-product-engineer-at-hadrian-4484609638": {
+    "date": "2026-11-09T12:57:09.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/test-engineer-at-hadrian-4485579858": {
+    "date": "2026-11-09T12:57:09.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/manufacturing-engineer-factory-development-at-hadrian-4484621890": {
+    "date": "2026-11-09T12:57:09.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/senior-manager-purchasing-at-hadrian-4486203321": {
+    "date": "2026-11-09T12:57:09.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/capital-markets-associate-at-hadrian-4486281906": {
+    "date": "2026-11-09T12:57:09.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/director-compliance-at-hadrian-4484694585": {
+    "date": "2026-11-09T12:57:09.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/capital-markets-manager-at-hadrian-4486283784": {
+    "date": "2026-11-09T12:57:09.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/training-specialist-at-hadrian-4484620147": {
+    "date": "2026-11-09T12:57:09.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/program-finance-associate-at-hadrian-4485867722": {
+    "date": "2026-11-09T12:57:08.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/site-reliability-engineer-at-hadrian-4422229350": {
+    "date": "2026-11-09T12:57:08.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/manager-build-engineering-at-hadrian-4485549651": {
+    "date": "2026-11-09T12:57:08.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/engineering-manager-materials-test-at-hadrian-4486619452": {
+    "date": "2026-11-09T12:57:08.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/corporate-finance-associate-at-hadrian-4485871568": {
+    "date": "2026-11-09T12:57:08.000Z",
+    "dateVerified": true
+  },
+  "mailto:founders@ev3.xyz?subject=Interest+in+Core+Systems+Engineer+role+at+Denaro&body=Hi+EV3+team%2C%0A%0AI%27m+interested+in+the+Core+Systems+Engineer+role+at+Denaro.%0A%0AName%3A%0ALinkedIn+%2F+portfolio%3A%0AWhy+I%27m+a+fit%3A%0A%0ABest%2C": {
+    "date": "2026-11-09T12:02:24.000Z",
+    "dateVerified": true
+  },
+  "mailto:founders@ev3.xyz?subject=Interest+in+Software+System+Engineer+role+at+Denaro&body=Hi+EV3+team%2C%0A%0AI%27m+interested+in+the+Software+System+Engineer+role+at+Denaro.%0A%0AName%3A%0ALinkedIn+%2F+portfolio%3A%0AWhy+I%27m+a+fit%3A%0A%0ABest%2C": {
+    "date": "2026-11-09T12:02:24.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/asymmetric-research-2/jobs/99382052-project-manager": {
+    "date": "2026-11-09T16:45:03.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/head-of-new-markets-banking-capital-markets-at-chainlink-labs-4487744910": {
+    "date": "2026-11-09T12:51:28.000Z",
+    "dateVerified": true
+  },
+  "https://uk.linkedin.com/jobs/view/head-of-new-markets-banking-capital-markets-at-chainlink-labs-4487755302": {
+    "date": "2026-11-09T12:51:28.000Z",
+    "dateVerified": true
+  },
+  "https://ch.linkedin.com/jobs/view/head-of-new-markets-banking-capital-markets-at-chainlink-labs-4487756304": {
+    "date": "2026-11-09T12:51:27.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/head-of-new-markets-banking-capital-markets-at-chainlink-labs-4487743959": {
+    "date": "2026-11-09T12:51:27.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/head-of-new-markets-banking-capital-markets-at-chainlink-labs-4487765057": {
+    "date": "2026-11-09T12:51:27.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8199615003": {
+    "date": "2026-11-09T17:01:18-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8287918": {
+    "date": "2026-11-09T14:44:01-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8348469": {
+    "date": "2026-11-09T09:37:40-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8357049": {
+    "date": "2026-11-09T07:18:38-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8361184": {
+    "date": "2026-11-09T16:54:55-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8354772": {
+    "date": "2026-11-09T11:49:33-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8315943": {
+    "date": "2026-11-09T16:13:52-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8283778": {
+    "date": "2026-11-09T18:28:56-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8334554": {
+    "date": "2026-11-09T13:49:07-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8336703": {
+    "date": "2026-11-09T13:21:44-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8368260": {
+    "date": "2026-11-09T17:53:24-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8336719": {
+    "date": "2026-11-09T13:16:30-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8368072": {
+    "date": "2026-11-09T16:22:49-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8278991": {
+    "date": "2026-11-09T14:43:45-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8139750": {
+    "date": "2026-11-09T11:23:20-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8366842": {
+    "date": "2026-11-09T18:21:06-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8199598003": {
+    "date": "2026-11-09T16:51:08-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8366323": {
+    "date": "2026-11-09T18:20:16-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8366302": {
+    "date": "2026-11-09T18:22:50-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8358440": {
+    "date": "2026-11-09T07:20:49-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8328916": {
+    "date": "2026-11-09T14:50:37-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8328928": {
+    "date": "2026-11-09T14:50:42-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8366328": {
+    "date": "2026-11-09T11:03:26-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8334663": {
+    "date": "2026-11-09T09:57:38-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8177444": {
+    "date": "2026-11-09T07:24:13-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8932884002": {
+    "date": "2026-11-09T19:12:10-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5030756101": {
+    "date": "2026-11-09T09:09:29-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5457184008": {
+    "date": "2026-11-09T15:50:04-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5457185008": {
+    "date": "2026-11-09T12:50:05-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5457252008": {
+    "date": "2026-11-09T13:38:10-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5457190008": {
+    "date": "2026-11-09T12:31:21-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5457212008": {
+    "date": "2026-11-09T21:06:58-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5457220008": {
+    "date": "2026-11-09T19:32:41-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5457199008": {
+    "date": "2026-11-09T16:59:54-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5457191008": {
+    "date": "2026-11-09T20:24:07-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5457214008": {
+    "date": "2026-11-09T19:50:15-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5457183008": {
+    "date": "2026-11-09T13:59:27-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5457229008": {
+    "date": "2026-11-09T20:28:22-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5457270008": {
+    "date": "2026-11-09T16:06:07-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5457272008": {
+    "date": "2026-11-09T15:28:43-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5457248008": {
+    "date": "2026-11-09T13:25:59-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5457262008": {
+    "date": "2026-11-09T13:08:27-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5014686101": {
+    "date": "2026-11-09T06:15:36-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5410307008": {
+    "date": "2026-11-09T16:12:26-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5146406008": {
+    "date": "2026-11-09T12:21:01-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5476817008": {
+    "date": "2026-11-09T11:06:38-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5476641008": {
+    "date": "2026-11-09T19:36:11-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5477220008": {
+    "date": "2026-11-09T14:08:41-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5476879008": {
+    "date": "2026-11-09T11:21:01-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5477312008": {
+    "date": "2026-11-09T14:35:38-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6252257004": {
+    "date": "2026-11-09T00:07:22-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5030877101": {
+    "date": "2026-11-09T09:16:41-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4878932101": {
+    "date": "2026-06-03T04:42:38-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5008499101": {
+    "date": "2026-11-09T09:40:35-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5015081101": {
+    "date": "2026-11-09T09:44:01-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8928689002": {
+    "date": "2026-11-09T09:43:38-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8927052002": {
+    "date": "2026-11-09T11:45:46-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8927083002": {
+    "date": "2026-11-09T11:45:52-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4752656005": {
+    "date": "2026-11-09T10:51:18-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "lever:a8daf670-8985-47a2-97b7-27892097e672": {
+    "date": "2026-11-06T16:23:29.300Z",
+    "dateVerified": true
+  },
+  "lever:be7f00c0-55a5-4cc7-a924-273ce33ab490": {
+    "date": "2026-11-10T01:27:21.134Z",
+    "dateVerified": true
+  },
+  "lever:d584c9ce-68f2-4ec6-bc98-29726915d309": {
+    "date": "2026-11-09T17:26:18.633Z",
+    "dateVerified": true
+  },
+  "lever:8cc49283-4de0-40db-a45e-c5d09551a103": {
+    "date": "2026-11-09T07:48:10.398Z",
+    "dateVerified": true
+  },
+  "ashby:883fbb33-65a9-4ace-97ad-2a1f588020c2": {
+    "date": "2026-11-10T02:03:24.964+00:00",
+    "dateVerified": true
+  },
+  "ashby:31bd9e9e-102f-4051-abc1-22cdd7d9617a": {
+    "date": "2026-11-09T20:49:25.353+00:00",
+    "dateVerified": true
+  },
+  "ashby:939892e5-5273-4bfc-8c41-a6c51cabb228": {
+    "date": "2026-11-09T18:22:09.221+00:00",
+    "dateVerified": true
+  },
+  "ashby:a2e870fc-7b7c-4593-816b-9f8ae921959d": {
+    "date": "2026-11-09T17:21:45.008+00:00",
+    "dateVerified": true
+  },
+  "ashby:2e71ca20-5a7a-4400-ac74-56d16a4bacae": {
+    "date": "2026-11-09T17:00:06.730+00:00",
+    "dateVerified": true
+  },
+  "ashby:1de21faf-5280-4565-9d81-eb8d21f0e0a3": {
+    "date": "2026-11-09T17:19:48.044+00:00",
+    "dateVerified": true
+  },
+  "ashby:d273dd53-48a2-4e6d-9cb3-e3c1b383b049": {
+    "date": "2026-11-09T16:53:14.010+00:00",
+    "dateVerified": true
+  },
+  "ashby:8398b8ba-9e94-4904-bf16-fb02941558a7": {
+    "date": "2026-11-09T20:02:40.762+00:00",
+    "dateVerified": true
+  },
+  "ashby:b33ff8c8-b048-44c6-a1ec-4d0f55cbae51": {
+    "date": "2026-11-10T01:54:08.608+00:00",
+    "dateVerified": true
+  },
+  "ashby:55496b07-a2e0-480f-9f8a-cfadf1f2755f": {
+    "date": "2026-11-10T01:59:32.443+00:00",
+    "dateVerified": true
+  },
+  "ashby:6d0d0640-1540-497b-b335-08a55ebb2db0": {
+    "date": "2026-11-09T12:03:22.528+00:00",
+    "dateVerified": true
+  },
+  "ashby:cae89676-eace-4451-98ee-3fbc2e9d029d": {
+    "date": "2026-11-09T23:15:19.066+00:00",
+    "dateVerified": true
+  },
+  "ashby:d817b8a3-d378-486b-b315-f4a48f51faf0": {
+    "date": "2026-11-06T15:01:14.914+00:00",
+    "dateVerified": true
+  },
+  "ashby:cf1f3ee1-2b66-4322-9ea6-4c41370a7a88": {
+    "date": "2026-11-09T13:31:10.442+00:00",
+    "dateVerified": true
+  },
+  "ashby:40178aec-53d5-4d84-b095-8a0bbff96536": {
+    "date": "2026-11-09T23:26:47.028+00:00",
+    "dateVerified": true
+  },
+  "ashby:0844373f-aecc-4290-bd1e-159d15b29ae2": {
+    "date": "2026-11-09T18:18:30.183+00:00",
+    "dateVerified": true
+  },
+  "ashby:18e009e5-0c76-45e2-85ae-dc5726849c0d": {
+    "date": "2026-11-09T18:39:33.674+00:00",
+    "dateVerified": true
+  },
+  "ashby:4b2a3d2b-101c-4ed0-8110-0ede90f7affe": {
+    "date": "2026-11-09T19:57:32.112+00:00",
+    "dateVerified": true
+  },
+  "ashby:e23c45a3-e29d-4cbd-8c17-65356bfef682": {
+    "date": "2026-11-09T19:51:58.103+00:00",
+    "dateVerified": true
+  },
+  "ashby:0e189f79-5d72-4b39-8adb-77cd1eaaf687": {
+    "date": "2026-11-09T20:05:37.157+00:00",
+    "dateVerified": true
+  },
+  "ashby:a23caaa3-9083-41db-8294-f18ae81ce104": {
+    "date": "2026-11-09",
+    "dateVerified": true
+  },
+  "ashby:eb4c6c2d-24d9-4879-b0a5-d0ddc373643f": {
+    "date": "2026-11-09",
+    "dateVerified": true
+  },
+  "workable:533ca86d9d": {
+    "date": "2026-11-09T00:00:00.000Z",
+    "dateVerified": true
+  },
+  "workable:1a67d61cea": {
+    "date": "2026-11-09",
+    "dateVerified": true
+  },
+  "workable:8bc3363a24": {
+    "date": "2026-11-09",
+    "dateVerified": true
+  },
+  "workable:b3897a6bac": {
+    "date": "2026-11-09",
+    "dateVerified": true
+  },
+  "workable:2d24c9e644": {
+    "date": "2026-11-09",
+    "dateVerified": true
+  },
+  "workable:bebe6194ed": {
+    "date": "2026-11-09",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/strategic-sourcing-analyst-poland": {
+    "date": "2026-11-09T14:37:49Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/strategic-sourcing-analyst-ireland": {
+    "date": "2026-11-09T14:34:18Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/strategic-sourcing-analyst-estonia": {
+    "date": "2026-11-09T14:31:48Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/strategic-sourcing-analyst-croatia": {
+    "date": "2026-11-09T14:29:14Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/strategic-sourcing-analyst-rome": {
+    "date": "2026-11-09T14:22:45Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/strategic-sourcing-analyst": {
+    "date": "2026-11-09T14:14:20Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/ai-inference-engineer-qvac-100-remote-worldwide-1": {
+    "date": "2026-11-09T10:16:36Z",
+    "dateVerified": true
+  },
+  "breezy:bitdeer.breezy.hr:7a4083b2fdfe": {
+    "date": "2026-11-09",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/7a4083b2fdfe-senior-financial-systems-analyst",
+      "checkedAt": "2026-11-10T02:22:24.670Z",
+      "bodySha256": "9e92d919f8ba22310fcf4cff7d29b49761127e0d63ebfa5e59a0a66d31d170ae",
+      "provider": "breezy",
+      "datePosted": "2026-11-09"
+    }
+  },
+  "breezy:bitdeer.breezy.hr:6ec6d15f5bab": {
+    "date": "2026-11-09",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/6ec6d15f5bab-senior-integrations-engineer",
+      "checkedAt": "2026-11-10T02:22:25.121Z",
+      "bodySha256": "b799e1af8d5bd3db1b4ffbfd8c88fc041551a5a2dfc2708aa1920aa8a31ca374",
+      "provider": "breezy",
+      "datePosted": "2026-11-09"
+    }
+  },
+  "https://ats.rippling.com/riot-platforms-careers/jobs/fa09e0ee-adee-44f8-b11f-12b7a2ff3e0c": {
+    "date": "2026-11-09T10:17:50.935000-08:00",
+    "dateVerified": true
+  },
+  "https://ats.rippling.com/riot-platforms-careers/jobs/8b22dafe-0b8b-4325-9426-2cdd91b09355": {
+    "date": "2026-11-09T10:26:49.904000-08:00",
+    "dateVerified": true
+  },
+  "https://ats.rippling.com/riot-platforms-careers/jobs/41f6e01b-1cd8-4e33-a047-0d7810228faf": {
+    "date": "2026-11-09T10:31:28.931000-08:00",
+    "dateVerified": true
+  },
+  "https://ats.rippling.com/riot-platforms-careers/jobs/fbc94a68-6758-4af1-b5d0-a3b5028708a5": {
+    "date": "2026-11-09T10:07:41.439000-08:00",
+    "dateVerified": true
+  },
+  "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Senior-Product-Manager--CoinDesk-Media---Growth_JR2001293": {
+    "date": "2026-11-09",
+    "dateVerified": true
+  },
+  "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/Senior-Product-Manager--CoinDesk-Media---Growth_JR2001293-1": {
+    "date": "2026-11-09",
+    "dateVerified": true
+  },
+  "https://talent.superteam.fun/jobs/technical-recruiter-at-helius-37d3deb4-a475-4a2f-aea9-78aeeefd34e6": {
+    "date": "2026-11-09T20:47:34.769262+00:00",
+    "dateVerified": true
+  },
+  "https://talent.superteam.fun/jobs/head-of-business-development-at-very-6b32c57b-0476-41ad-8ef2-66887704cacd": {
+    "date": "2026-10-21T07:06:03.864657+00:00",
+    "dateVerified": true
+  },
+  "https://talent.superteam.fun/jobs/head-of-security-at-helius-7a6adb7d-3b92-45d2-9d5e-028b7f44a142": {
+    "date": "2026-11-04T21:29:30.300933+00:00",
+    "dateVerified": true
+  },
+  "https://talent.superteam.fun/jobs/senior-engineer-at-very-1c252001-6fcd-4f69-bc5a-14af18d55d71": {
+    "date": "2026-03-04T15:01:38.323263+00:00",
     "dateVerified": true
   }
 }

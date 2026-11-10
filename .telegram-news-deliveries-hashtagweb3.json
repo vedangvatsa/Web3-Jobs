@@ -3111,5 +3111,402 @@
     "slotKey": "2026-11-06:morning",
     "messageId": 156104,
     "sentAt": "2026-11-06T03:33:29.842Z"
+  },
+  "20f46021-971e-466c-be35-24e7923ff5e2": {
+    "status": "sent",
+    "reservedAt": "2026-11-06T11:33:44.303Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "South Korea Reviews Plan for Central Cybersecurity Agency",
+        "summary": "President Lee Jae Myung proposed unified agency oversight following recent domestic cyberattacks and a major crypto theft.",
+        "link": "https://hashtagweb3.com/cyberczar?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "South Korea's president orders a review of a government-wide cybersecurity czar"
+      },
+      {
+        "index": -1,
+        "headline": "European Entity Loses $106 Million From Exchange Accounts",
+        "summary": "Investigator ZachXBT reported the stolen funds were routed through instant exchanges and Monero on November 1.",
+        "link": "https://hashtagweb3.com/eustolen?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Mystery $106 million theft drains EU entity exchange accounts"
+      },
+      {
+        "index": -1,
+        "headline": "Attacker Steals $1.47 Million From Bitcoin Staking Platform b14g",
+        "summary": "On October 31, zero-value withdrawal requests wrongly triggered full balance payouts due to a code flaw.",
+        "link": "https://hashtagweb3.com/b14gcore?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Hacker Drains 97 Million CORE From Bitcoin Staking Platform b14g"
+      }
+    ],
+    "slotKey": "2026-11-06:afternoon",
+    "messageId": 156109,
+    "sentAt": "2026-11-06T11:33:47.557Z"
+  },
+  "53ae1698-bdba-4321-9d65-e1f5d5ea9e46": {
+    "status": "sent",
+    "reservedAt": "2026-11-06T19:35:07.321Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Chainalysis Links $6.4 Billion Binance Theft to North Korea",
+        "summary": "The TraderTraitor group mixed stolen assets with Bitget exploit funds, and authorities have frozen $2.8 billion.",
+        "link": "https://hashtagweb3.com/tradertraitor?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Chainalysis Ties $6.4 Billion Binance Hack to North Korea"
+      },
+      {
+        "index": -1,
+        "headline": "Y Combinator requests crypto startups for AI and stablecoin projects",
+        "summary": "The accelerator wants tools for AI fundraising, stablecoins for underserved users, and trading infrastructure for software agents.",
+        "link": "https://hashtagweb3.com/yccrypto?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Y Combinator's October crypto request puts AI fundraising and agent tools at the center"
+      },
+      {
+        "index": -1,
+        "headline": "FINMA approves first Swiss retail bitcoin fund",
+        "summary": "The regulator authorized the investment product for individual investors while keeping the issuer's identity private.",
+        "link": "https://hashtagweb3.com/swissetf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "FINMA clears Switzerland's first retail bitcoin ETF"
+      }
+    ],
+    "slotKey": "2026-11-06:evening",
+    "messageId": 156114,
+    "sentAt": "2026-11-06T19:35:16.545Z"
+  },
+  "cfd9c664-7274-472b-b1a0-f52b40199d9f": {
+    "status": "sent",
+    "reservedAt": "2026-11-07T03:37:12.080Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "LDK Update Prevents Tracking of Private Lightning Channels",
+        "summary": "A new software patch prevents attackers from linking private payment channels to their original onchain funding transactions.",
+        "link": "https://hashtagweb3.com/ldkprobe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "LDK Patch Blocks Probe Linking Private Channels to Their Funding Output"
+      },
+      {
+        "index": -1,
+        "headline": "Strategy increases share buyback authorization to $3 billion",
+        "summary": "The company purchased $193.1 million in shares and $22.1 million in bitcoin in the week ending October 18.",
+        "link": "https://hashtagweb3.com/strategystrc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Strategy lifts STRC buyback cap to $3 billion after $193 million week"
+      },
+      {
+        "index": -1,
+        "headline": "Strive holds 36,818 Bitcoin before SATS settlement",
+        "summary": "Strive acquired 1,223 Bitcoin ahead of its 700 million dollar preferred offering settlement on October 20.",
+        "link": "https://hashtagweb3.com/strivesats?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Strive holds 36,818 bitcoin ahead of $700 million SATS settlement"
+      }
+    ],
+    "slotKey": "2026-11-07:morning",
+    "messageId": 156119,
+    "sentAt": "2026-11-07T03:37:29.438Z"
+  },
+  "50a31381-136a-4353-bbaf-1f0f108faa1c": {
+    "status": "sent",
+    "reservedAt": "2026-11-07T11:33:08.486Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Canton Strategic Completes First SEC-Exempt Tokenized Stock Trades",
+        "summary": "Five North, DRW Cumberland, and Flowdesk traded Canton Strategic's tokenized CNTN shares on TSV on Nov. 4.",
+        "link": "https://hashtagweb3.com/cantonstock?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Canton Strategic Completes First Issuer-Sponsored Tokenized Stock Trades Under SEC Exemption"
+      },
+      {
+        "index": -1,
+        "headline": "Former FBI Agent Admits Stealing $2.47 Million in Crypto",
+        "summary": "Patrick Steven Yaroch admitted using credentials from 35 investigations to move seized funds to personal wallets.",
+        "link": "https://hashtagweb3.com/yaroch?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Former FBI agent pleads guilty to stealing $2.47 million in crypto from bureau cases"
+      },
+      {
+        "index": -1,
+        "headline": "Hackers Swap $50 Million of Stolen XRP for Bitcoin",
+        "summary": "Elliptic reported hackers behind the Binance theft used THORChain, while 192 million XRP remain unmoved.",
+        "link": "https://hashtagweb3.com/xrplaunder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Hackers Swap About $50 Million of Stolen XRP Into Bitcoin, Elliptic Says"
+      }
+    ],
+    "slotKey": "2026-11-07:afternoon",
+    "messageId": 156121,
+    "sentAt": "2026-11-07T11:33:11.591Z"
+  },
+  "2ff58645-4223-4c17-8a19-5f89e412efdd": {
+    "status": "sent",
+    "reservedAt": "2026-11-07T19:34:00.614Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "US Treasury blocks bank transfers to MEXC Global exchange",
+        "summary": "FinCEN alleges the platform processed $16 billion linked to sanctions evasion and cybercrime.",
+        "link": "https://hashtagweb3.com/mexcorder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Treasury orders US banks to stop transfers to MEXC over $16 billion in illicit transactions"
+      },
+      {
+        "index": -1,
+        "headline": "BitGo launches institutional Bitcoin staking through Stacks",
+        "summary": "Whitelisted institutions earn rewards on timelocked Bitcoin using six-month bonds and a five percent STX pairing requirement.",
+        "link": "https://hashtagweb3.com/bitgostacks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "BitGo Launches Bitcoin Staking Through Stacks for Institutional Clients"
+      },
+      {
+        "index": -1,
+        "headline": "Coinbase Customer Contact Data Exposed via Analytics Vendor Amplitude",
+        "summary": "A security incident at Amplitude affected some users, but Coinbase systems and funds remain secure.",
+        "link": "https://hashtagweb3.com/amplitude?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Coinbase Says Analytics Vendor Amplitude Exposed Customer Contact Data"
+      }
+    ],
+    "slotKey": "2026-11-07:evening",
+    "messageId": 156135,
+    "sentAt": "2026-11-07T19:34:08.139Z"
+  },
+  "24e0bf57-9def-4b97-ac69-678c9267e6a1": {
+    "status": "sent",
+    "reservedAt": "2026-11-08T11:33:35.189Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "CFTC Approves Stock Perpetual Futures Despite Industry Lawsuit",
+        "summary": "A court denied an industry group's emergency request to halt trading of equity perpetuals on US exchanges.",
+        "link": "https://hashtagweb3.com/equityperps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC clears stock perpetual futures as an industry group sues to stop them"
+      },
+      {
+        "index": -1,
+        "headline": "Mastercard launches early access for AI agent payments",
+        "summary": "The system allows AI agents to buy digital services within human-set spending budgets.",
+        "link": "https://hashtagweb3.com/agentpay?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Mastercard opens early access for AI agent payments after pilots"
+      },
+      {
+        "index": -1,
+        "headline": "Qubic Halts Mainnet After Exploit Drains 1,404 Wallets",
+        "summary": "The network froze most of the 2.94 trillion stolen QU tokens shortly after the attack.",
+        "link": "https://hashtagweb3.com/qubicdrain?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Qubic halts network after attacker drains 1,404 wallets"
+      }
+    ],
+    "slotKey": "2026-11-08:afternoon",
+    "messageId": 156146,
+    "sentAt": "2026-11-08T11:33:43.335Z"
+  },
+  "0f09aa4e-4dea-468e-8edf-bb0440e7dd66": {
+    "status": "sent",
+    "reservedAt": "2026-11-08T19:33:27.055Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "French Hill Retains House Seat but Loses Chairmanship",
+        "summary": "The Republican representative from Arkansas will cede his committee leadership role to Democrats in January.",
+        "link": "https://hashtagweb3.com/frenchhill?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "French Hill Wins Reelection but Is Set to Lose House Financial Services Chair"
+      },
+      {
+        "index": -1,
+        "headline": "Hong Kong Lawmakers Approve Crypto Tax Reporting Bill",
+        "summary": "Service providers must collect user data starting in 2027, with exchanges following in 2028 under the new framework.",
+        "link": "https://hashtagweb3.com/carf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Hong Kong Lawmakers Pass Crypto Tax Reporting Bill for 2027 Collection"
+      },
+      {
+        "index": -1,
+        "headline": "Ukraine's Central Bank Objects to Proposed Crypto Bill",
+        "summary": "The bank cited concerns over foreign token access and licensing rules after a parliamentary committee approved the draft law.",
+        "link": "https://hashtagweb3.com/nbubill?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ukraine Central Bank Opposes Crypto Bill Cleared for Second Reading"
+      }
+    ],
+    "slotKey": "2026-11-08:evening",
+    "messageId": 156149,
+    "sentAt": "2026-11-08T19:33:30.901Z"
+  },
+  "e85a0449-fa8a-4173-bbbd-17fc3faa9cbc": {
+    "status": "sent",
+    "reservedAt": "2026-11-09T03:33:26.538Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "US Regulators Ask Banks About Binance Breach Impact",
+        "summary": "Federal Reserve and OCC officials inquired about unusual activity or disruptions on Nov. 2, according to Reuters.",
+        "link": "https://hashtagweb3.com/bankchecks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Fed and OCC Contact Banks About Unusual Activity After the Binance Hack"
+      },
+      {
+        "index": -1,
+        "headline": "NEAR Community Approves Proposal to Reduce Token Issuance",
+        "summary": "The 24-month phased reduction from 2.5% to 1.6% still requires Security Council review and validator upgrades.",
+        "link": "https://hashtagweb3.com/nearvote?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "NEAR holders approve 1.6% issuance cap, with validators still to act"
+      },
+      {
+        "index": -1,
+        "headline": "Solflare Validator Rewards Paused Due to Security Incident",
+        "summary": "A security issue at a provider halted rewards for 1.56 million SOL, but user principal funds remain safe.",
+        "link": "https://hashtagweb3.com/solflareincident?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Solflare Says Staking Provider Key Incident Stopped Validator Rewards"
+      }
+    ],
+    "slotKey": "2026-11-09:morning",
+    "messageId": 156152,
+    "sentAt": "2026-11-09T03:33:30.256Z"
+  },
+  "ff85c4e1-22e4-4e34-bdc4-0799cd31a7fc": {
+    "status": "sent",
+    "reservedAt": "2026-11-09T11:33:23.026Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "White House Reviews DOL Rule on 401(k) Crypto Investments",
+        "summary": "The regulation grants plan managers safe harbor protection when offering alternative assets like cryptocurrency to retirement accounts.",
+        "link": "https://hashtagweb3.com/dolrule?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "DOL Final Rule on Crypto in 401(k)s Reaches White House Review"
+      },
+      {
+        "index": -1,
+        "headline": "Greece passes law taxing crypto gains and staking rewards",
+        "summary": "Starting January 2027, annual gains over 500 euros face 10% tax while staking income is taxed at 15%.",
+        "link": "https://hashtagweb3.com/greecetax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Greece passes crypto tax law with 10% gains levy and 15% rate on staking"
+      },
+      {
+        "index": -1,
+        "headline": "Thailand SEC Files Complaint Against Bitget Operator",
+        "summary": "Regulators cited unlicensed trading from 2022 to 2025 and requested a government block starting Dec. 5.",
+        "link": "https://hashtagweb3.com/bitgetsec?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Thailand SEC Files Criminal Complaint Against Bitget Operator"
+      }
+    ],
+    "slotKey": "2026-11-09:afternoon",
+    "messageId": 156156,
+    "sentAt": "2026-11-09T11:33:29.939Z"
+  },
+  "d58d1ebe-9e8b-4b47-bf2c-9615faa6dcf7": {
+    "status": "sent",
+    "reservedAt": "2026-11-09T19:53:52.477Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Zakura proposes unique swap keys for Zcash privacy",
+        "summary": "The design assigns individual viewing keys to Zcash addresses to prevent future quantum computers from linking transaction data.",
+        "link": "https://hashtagweb3.com/zcashquantum?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Zcash builder Zakura proposes per-swap keys to close a quantum privacy gap"
+      },
+      {
+        "index": -1,
+        "headline": "Prysm Updates Gas Limit Ahead of Sepolia Test",
+        "summary": "Version 7.2.1 sets a 200 million gas limit for Sepolia validators before the October 6 network activation.",
+        "link": "https://hashtagweb3.com/prysm-fix?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Prysm Ships 200M Gas Limit Fix Hours Before Sepolia Test"
+      },
+      {
+        "index": 1,
+        "headline": "PNC Bank pilots conversion of USDC payments to dollar deposits",
+        "summary": "The bank is testing a system for corporate clients to receive stablecoin payments directly as fiat currency deposits.",
+        "event_rationale": "This covers a major US bank integrating stablecoin settlement into traditional banking infrastructure, which is distinct from all previously listed institutional adoption stories.",
+        "link": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
+        "source": "CoinDesk",
+        "originalTitle": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out"
+      }
+    ],
+    "slotKey": "2026-11-09:evening",
+    "messageId": 156161,
+    "sentAt": "2026-11-09T19:53:57.133Z"
+  },
+  "c2710218-3f43-4158-a038-58bada6d5eb6": {
+    "status": "sent",
+    "reservedAt": "2026-11-10T11:33:04.197Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Anza Proposes Removing Durable Nonces From Solana",
+        "summary": "Proposal SIMD-0723 would eliminate the mechanism exploited in the Drift hack, effective no earlier than May 2027.",
+        "link": "https://hashtagweb3.com/simdnonces?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Anza files Solana proposal to remove durable nonces"
+      },
+      {
+        "index": -1,
+        "headline": "US sanctions 41 companies tied to Prince Group scam network",
+        "summary": "The Treasury Department targeted offshore shell companies and nominees allegedly maintaining the group's fraudulent operations.",
+        "link": "https://hashtagweb3.com/princescams?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "OFAC sanctions 41 companies tied to Prince Group scam network"
+      },
+      {
+        "index": -1,
+        "headline": "Warren Plans Senate Banking Scrutiny of Prediction Markets",
+        "summary": "An aide said she will use committee powers against election betting platforms starting in January.",
+        "link": "https://hashtagweb3.com/warrenpred?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Warren to target prediction market oversight as incoming Senate Banking chair"
+      }
+    ],
+    "slotKey": "2026-11-10:afternoon",
+    "messageId": 156168,
+    "sentAt": "2026-11-10T11:33:13.847Z"
+  },
+  "50156b07-74c7-45f7-b654-b6234e9865df": {
+    "status": "sent",
+    "reservedAt": "2026-11-10T19:38:32.817Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Senator Blumenthal sets records deadline for Binance and Tether",
+        "summary": "The Senate Permanent Subcommittee on Investigations requires four firms to provide documents starting November 30.",
+        "link": "https://hashtagweb3.com/blumenthaldeadline?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Blumenthal sets Jan. 4 records deadline for Binance, Tether and Trump-linked crypto firms"
+      },
+      {
+        "index": -1,
+        "headline": "VanEck withdraws application for Lido staked ether ETF",
+        "summary": "The company notified the SEC it will stop development of the first American stETH fund.",
+        "link": "https://hashtagweb3.com/vaneck-withdrawal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "VanEck withdraws Lido staked ether ETF filing"
+      },
+      {
+        "index": 1,
+        "headline": "Grayscale Pledges $1 Million to Zcash Nonprofits as Price Falls",
+        "summary": "The firm will use ETF fees for ecosystem grants and advertising following the token's 11% price drop.",
+        "link": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
+        "source": "Decrypt",
+        "originalTitle": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles"
+      }
+    ],
+    "slotKey": "2026-11-10:evening",
+    "messageId": 156173,
+    "sentAt": "2026-11-10T19:38:40.844Z"
   }
 }

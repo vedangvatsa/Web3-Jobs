@@ -107,7 +107,8 @@ test('all public app pages, nested glossary categories and content types accept 
       const crawler = await routeRequest(path, method, { 'user-agent': userAgent });
       assert.equal(crawler.status, 200, `${userAgent} ${method} ${path}`);
       assert.equal(crawler.headers.get('location'), null);
-      assert.equal(crawler.headers.get('x-middleware-rewrite'), `${origin}/preview${page === '/' ? '/index' : page}.html`, path);
+      const canonicalPage = PUBLIC_PAGE_ALIASES[page] || page;
+      assert.equal(crawler.headers.get('x-middleware-rewrite'), `${origin}/preview${canonicalPage === '/' ? '/index' : canonicalPage}.html`, path);
       checked++;
     }
     checked++;

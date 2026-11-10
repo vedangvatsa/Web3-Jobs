@@ -14,6 +14,7 @@ import { tombstoneSlugs } from '../../scripts/lib/event-retention.mjs';
 
 /** App Router paths that must never be used as job slugs. */
 export const RESERVED_APP_ROUTE_SLUGS: readonly string[] = [
+  'top100',
   'jobs',
   'blog',
   'glossary',

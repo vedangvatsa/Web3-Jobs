@@ -7980,5 +7980,1449 @@
     "slotKey": "2026-11-06:morning",
     "messageId": 156103,
     "sentAt": "2026-11-06T03:33:07.149Z"
+  },
+  "43ac46b8-00e4-4997-9d59-b176da75b584": {
+    "status": "sent",
+    "reservedAt": "2026-11-06T11:32:38.009Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "d948c040-c557-4046-8c28-b96273e49a75",
+          "title": "Head of Retention",
+          "company": "Polymarket",
+          "link": "https://jobs.ashbyhq.com/Polymarket/d948c040-c557-4046-8c28-b96273e49a75",
+          "date": "2026-10-22T20:37:30.697+00:00",
+          "source": "Ashby: Polymarket [Polymarket]",
+          "location": "New York",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ret"
+        },
+        "key": "d948c040-c557-4046-8c28-b96273e49a75",
+        "slug": "ret",
+        "url": "https://hashtagweb3.com/ret?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Polymarket",
+        "title": "Head of Retention"
+      },
+      {
+        "snapshot": {
+          "id": "6222799004",
+          "title": "Senior DevOps Engineer",
+          "company": "Localcoin",
+          "link": "https://job-boards.greenhouse.io/localcoin/jobs/6222799004",
+          "date": "2026-10-14T16:08:44-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Localcoin [localcoin]",
+          "location": "Canada",
+          "department": "Engineering & Data",
+          "active": true,
+          "salary": "$150k – $180k/yr",
+          "dateVerified": true,
+          "slug": "do14"
+        },
+        "key": "6222799004",
+        "slug": "do14",
+        "url": "https://hashtagweb3.com/do14?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Localcoin",
+        "title": "Senior DevOps Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "dd5026d8-f20d-4274-af65-5b7ef5c0a175",
+          "title": "Principal Designer, Otherlife",
+          "company": "MoonPay",
+          "link": "https://jobs.lever.co/moonpay/dd5026d8-f20d-4274-af65-5b7ef5c0a175",
+          "date": "2026-10-27T11:38:58.069Z",
+          "source": "Lever: MoonPay [moonpay]",
+          "location": "New York - Hybrid",
+          "workplaceType": "hybrid",
+          "department": "Otherlife",
+          "active": true,
+          "dateVerified": true,
+          "slug": "des14"
+        },
+        "key": "dd5026d8-f20d-4274-af65-5b7ef5c0a175",
+        "slug": "des14",
+        "url": "https://hashtagweb3.com/des14?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "MoonPay",
+        "title": "Principal Designer"
+      },
+      {
+        "snapshot": {
+          "id": "6231972004",
+          "title": "VP, Finance Engineering - Mumbai",
+          "company": "Galaxy Digital",
+          "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6231972004",
+          "date": "2026-10-22T09:25:07-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+          "location": "India",
+          "department": "Corporate",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng214"
+        },
+        "key": "6231972004",
+        "slug": "eng214",
+        "url": "https://hashtagweb3.com/eng214?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Galaxy Digital",
+        "title": "VP, Finance Engineering"
+      },
+      {
+        "snapshot": {
+          "id": "7979592002",
+          "title": "AV Engineer",
+          "company": "Jane Street",
+          "link": "https://www.janestreet.com/join-jane-street/apply/7979592002?gh_jid=7979592002",
+          "date": "2026-10-20T22:06:19-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Jane Street [janestreet]",
+          "location": "Hong Kong",
+          "department": "IT and Systems Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng643"
+        },
+        "key": "7979592002",
+        "slug": "eng643",
+        "url": "https://hashtagweb3.com/eng643?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Jane Street",
+        "title": "AV Engineer"
+      }
+    ],
+    "message": "- Polymarket is hiring <a href=\"https://hashtagweb3.com/ret?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Retention</a>\n- Localcoin is hiring <a href=\"https://hashtagweb3.com/do14?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior DevOps Engineer</a>\n- MoonPay is hiring <a href=\"https://hashtagweb3.com/des14?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal Designer, Otherlife</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/eng214?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VP, Finance Engineering - Mumbai</a>\n- Jane Street is hiring <a href=\"https://hashtagweb3.com/eng643?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AV Engineer</a>",
+    "slotKey": "2026-11-06:afternoon",
+    "messageId": 156108,
+    "sentAt": "2026-11-06T11:32:45.863Z"
+  },
+  "3073cde0-7ad1-4737-991f-a5571e38512d": {
+    "status": "sent",
+    "reservedAt": "2026-11-06T19:32:19.852Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5473172008",
+          "title": "Territory Account Executive, East Bronx",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5473172008?gh_jid=5473172008",
+          "date": "2026-11-04T12:50:58-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "New York, NY, United States of America",
+          "department": "20249 S&M - Sales - Square Field Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls414"
+        },
+        "key": "5473172008",
+        "slug": "sls414",
+        "url": "https://hashtagweb3.com/sls414?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Territory Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "147d0ac4-56cc-43f3-9770-d8e9dbed24b8",
+          "title": "Senior Brand Designer",
+          "company": "0x",
+          "link": "https://jobs.ashbyhq.com/0x/147d0ac4-56cc-43f3-9770-d8e9dbed24b8",
+          "date": "2026-10-15T07:04:38.248+00:00",
+          "source": "Ashby: 0x [0x]",
+          "location": "Remote — North America (Aligned with U.S. Time Zones)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "des7"
+        },
+        "key": "147d0ac4-56cc-43f3-9770-d8e9dbed24b8",
+        "slug": "des7",
+        "url": "https://hashtagweb3.com/des7?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "0x",
+        "title": "Senior Brand Designer"
+      },
+      {
+        "snapshot": {
+          "id": "8330752",
+          "title": "Senior DevOps Engineer",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8330752?gh_jid=8330752",
+          "date": "2026-10-30T09:34:49-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "Dublin, Ireland",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "do23"
+        },
+        "key": "8330752",
+        "slug": "do23",
+        "url": "https://hashtagweb3.com/do23?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Senior DevOps Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "dac100e9-01f6-4bf5-9285-221d572f8278",
+          "title": "Trading Operations Lead",
+          "company": "Gauntlet",
+          "link": "https://jobs.lever.co/gauntlet/dac100e9-01f6-4bf5-9285-221d572f8278",
+          "date": "2026-10-12T13:54:41.299Z",
+          "source": "Lever: Gauntlet [gauntlet]",
+          "location": "Remote (Singapore / Hong Kong)",
+          "workplaceType": "remote",
+          "department": "Engineering",
+          "salary": "USD 120,000 - USD 140,000 per year",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops103"
+        },
+        "key": "dac100e9-01f6-4bf5-9285-221d572f8278",
+        "slug": "ops103",
+        "url": "https://hashtagweb3.com/ops103?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Gauntlet",
+        "title": "Trading Operations Lead"
+      },
+      {
+        "snapshot": {
+          "id": "ckba-payment-channel-team-lead",
+          "title": "Payment Channel Team Lead",
+          "company": "CKBA",
+          "link": "mailto:join@ckba.build?subject=Application%20for%20Payment%20Channel%20Team%20Lead",
+          "date": "2026-11-06T00:00:00.000Z",
+          "dateVerified": true,
+          "dateSource": "CKBA Official Job Description",
+          "source": "CKBA [ckba]",
+          "location": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "slug": "pct"
+        },
+        "key": "ckba-payment-channel-team-lead",
+        "slug": "pct",
+        "url": "https://hashtagweb3.com/pct?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CKBA",
+        "title": "Payment Channel Team Lead"
+      }
+    ],
+    "message": "- Block is hiring <a href=\"https://hashtagweb3.com/sls414?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Territory Account Executive, East Bronx</a>\n- 0x is hiring <a href=\"https://hashtagweb3.com/des7?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Brand Designer</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/do23?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior DevOps Engineer</a>\n- Gauntlet is hiring <a href=\"https://hashtagweb3.com/ops103?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Trading Operations Lead</a>\n- CKBA is hiring <a href=\"https://hashtagweb3.com/pct?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Payment Channel Team Lead</a>",
+    "slotKey": "2026-11-06:evening",
+    "messageId": 156113,
+    "sentAt": "2026-11-06T19:32:35.204Z"
+  },
+  "16b45563-c3c6-4ced-bfc4-456418607463": {
+    "status": "sent",
+    "reservedAt": "2026-11-07T03:32:11.355Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "285292d5-c197-4e01-b291-a2d66affe5d3",
+          "title": "转市策略 AI 产品经理 (Go-to-Market AI Product Manager)",
+          "company": "Animoca Brands",
+          "link": "https://jobs.lever.co/animocabrands/285292d5-c197-4e01-b291-a2d66affe5d3",
+          "date": "2026-10-09T09:30:14.553Z",
+          "source": "Lever: Animoca Brands [animocabrands]",
+          "location": "Remote (China)",
+          "workplaceType": "remote",
+          "department": "Animoca Brands Limited",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm265"
+        },
+        "key": "285292d5-c197-4e01-b291-a2d66affe5d3",
+        "slug": "pm265",
+        "url": "https://hashtagweb3.com/pm265?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Animoca Brands",
+        "title": "转市策略 AI 产品经理"
+      },
+      {
+        "snapshot": {
+          "id": "8878904002",
+          "title": "Financial Controller",
+          "company": "BitGo",
+          "link": "https://job-boards.greenhouse.io/bitgo/jobs/8878904002",
+          "date": "2026-10-09T04:26:06-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BitGo [bitgo]",
+          "location": "Singapore",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "fc3"
+        },
+        "key": "8878904002",
+        "slug": "fc3",
+        "url": "https://hashtagweb3.com/fc3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Financial Controller"
+      },
+      {
+        "snapshot": {
+          "id": "8d516dbd-e5b7-43da-922f-1417ead4d082",
+          "title": "Account Executive, Inside Sales",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/8d516dbd-e5b7-43da-922f-1417ead4d082",
+          "date": "2026-11-06T00:21:17.869+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Sales",
+          "active": true,
+          "slug": "sls427",
+          "dateVerified": true
+        },
+        "key": "8d516dbd-e5b7-43da-922f-1417ead4d082",
+        "slug": "sls427",
+        "url": "https://hashtagweb3.com/sls427?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "bdcb3db2-7e31-406c-813b-1cc7456b7343",
+          "title": "Head of Communications",
+          "company": "Morpho",
+          "link": "https://jobs.ashbyhq.com/Morpho/bdcb3db2-7e31-406c-813b-1cc7456b7343",
+          "date": "2026-11-03T16:17:28.641+00:00",
+          "source": "Ashby: Morpho [Morpho]",
+          "location": "Remote (US (EST))",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "com4"
+        },
+        "key": "bdcb3db2-7e31-406c-813b-1cc7456b7343",
+        "slug": "com4",
+        "url": "https://hashtagweb3.com/com4?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Morpho",
+        "title": "Head of Communications"
+      },
+      {
+        "snapshot": {
+          "id": "8288541",
+          "title": "Marketing Lead, DACH",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8288541",
+          "date": "2026-10-27T09:42:33-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Berlin, Germany",
+          "department": "2312 Marketing - EMEA",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt128"
+        },
+        "key": "8288541",
+        "slug": "mkt128",
+        "url": "https://hashtagweb3.com/mkt128?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Marketing Lead"
+      }
+    ],
+    "message": "- Animoca Brands is hiring <a href=\"https://hashtagweb3.com/pm265?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">转市策略 AI 产品经理 (Go-to-Market AI Product Manager)</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/fc3?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Financial Controller</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/sls427?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Inside Sales</a>\n- Morpho is hiring <a href=\"https://hashtagweb3.com/com4?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Communications</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/mkt128?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Marketing Lead, DACH</a>",
+    "slotKey": "2026-11-07:morning",
+    "messageId": 156117,
+    "sentAt": "2026-11-07T03:32:13.814Z"
+  },
+  "41281286-82f9-4edd-a901-3a1f1449dd21": {
+    "status": "sent",
+    "reservedAt": "2026-11-07T11:34:19.012Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "c5834e01-f29b-46a4-ada7-8d80d801eee6",
+          "title": "Tech Ops Intern (Web3)",
+          "company": "BNB Chain",
+          "link": "https://jobs.lever.co/pioneer-services/c5834e01-f29b-46a4-ada7-8d80d801eee6",
+          "date": "2026-10-14T07:00:36.813Z",
+          "source": "Lever: BNB Chain [pioneer-services]",
+          "location": "Remote (London)",
+          "workplaceType": "remote",
+          "department": "BNB Chain",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops20"
+        },
+        "key": "c5834e01-f29b-46a4-ada7-8d80d801eee6",
+        "slug": "ops20",
+        "url": "https://hashtagweb3.com/ops20?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BNB Chain",
+        "title": "Tech Ops Intern"
+      },
+      {
+        "snapshot": {
+          "id": "530d1596-c1bf-41aa-9915-548a692ed66e",
+          "title": "Manager, Sales Development, Public Sector",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/530d1596-c1bf-41aa-9915-548a692ed66e",
+          "date": "2026-10-09T19:14:11.359+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls265"
+        },
+        "key": "530d1596-c1bf-41aa-9915-548a692ed66e",
+        "slug": "sls265",
+        "url": "https://hashtagweb3.com/sls265?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Manager, Sales Development, Public Sector"
+      },
+      {
+        "snapshot": {
+          "id": "5025273101",
+          "title": "Senior Business Operations & Strategy Manager",
+          "company": "BVNK",
+          "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5025273101",
+          "date": "2026-11-03T08:56:13-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BVNK [bvnk]",
+          "location": "London / NYC",
+          "department": "Operations",
+          "active": true,
+          "salary": "$165k – $210k/yr",
+          "dateVerified": true,
+          "slug": "ops143"
+        },
+        "key": "5025273101",
+        "slug": "ops143",
+        "url": "https://hashtagweb3.com/ops143?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BVNK",
+        "title": "Senior Business Operations & Strategy Manager"
+      },
+      {
+        "snapshot": {
+          "id": "5e150bc1-bf8f-485c-861a-a2abc6c81f39",
+          "title": "Head of Business Risk & Controls",
+          "company": "MoonPay",
+          "link": "https://jobs.lever.co/moonpay/5e150bc1-bf8f-485c-861a-a2abc6c81f39",
+          "date": "2026-10-12T16:51:28.949Z",
+          "source": "Lever: MoonPay [moonpay]",
+          "location": "United States - Remote",
+          "workplaceType": "remote",
+          "department": "Executive Office",
+          "active": true,
+          "dateVerified": true,
+          "slug": "brc"
+        },
+        "key": "5e150bc1-bf8f-485c-861a-a2abc6c81f39",
+        "slug": "brc",
+        "url": "https://hashtagweb3.com/brc?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "MoonPay",
+        "title": "Head of Business Risk & Controls"
+      },
+      {
+        "snapshot": {
+          "id": "e89b32dd03f5",
+          "title": "Senior/Staff SI/PI Engineer",
+          "company": "Bitdeer",
+          "link": "https://bitdeer.breezy.hr/p/e89b32dd03f5-senior-staff-si-pi-engineer",
+          "date": "2026-11-02",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Bitdeer [bitdeer]",
+          "location": "Singapore, SG",
+          "isRemote": false,
+          "department": "IC Lab",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://bitdeer.breezy.hr/p/e89b32dd03f5-senior-staff-si-pi-engineer",
+            "checkedAt": "2026-11-04T00:07:28.466Z",
+            "bodySha256": "3063f60a577e1f82d0e4842c89aae375c0574f821f95ee5e1fe413dfb2689e8f",
+            "provider": "breezy",
+            "datePosted": "2026-11-02"
+          },
+          "slug": "eng674"
+        },
+        "key": "e89b32dd03f5",
+        "slug": "eng674",
+        "url": "https://hashtagweb3.com/eng674?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "Senior/Staff SI/PI Engineer"
+      }
+    ],
+    "message": "- BNB Chain is hiring <a href=\"https://hashtagweb3.com/ops20?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Tech Ops Intern (Web3)</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/sls265?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Sales Development, Public Sector</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/ops143?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Business Operations &amp; Strategy Manager</a>\n- MoonPay is hiring <a href=\"https://hashtagweb3.com/brc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Business Risk &amp; Controls</a>\n- Bitdeer is hiring <a href=\"https://hashtagweb3.com/eng674?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior/Staff SI/PI Engineer</a>",
+    "slotKey": "2026-11-07:afternoon",
+    "messageId": 156122,
+    "sentAt": "2026-11-07T11:34:25.703Z"
+  },
+  "8cfef1ef-1f72-4497-a734-8489d5729473": {
+    "status": "sent",
+    "reservedAt": "2026-11-07T19:32:50.571Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "f66cc817-371b-469c-8bc8-52a3f914b6ef",
+          "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/f66cc817-371b-469c-8bc8-52a3f914b6ef",
+          "date": "2026-10-09T05:45:53.715Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (California)",
+          "workplaceType": "hybrid",
+          "department": "Product Management & Product Design",
+          "salary": "USD 15,000 - USD 25,000 per month",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm275"
+        },
+        "key": "f66cc817-371b-469c-8bc8-52a3f914b6ef",
+        "slug": "pm275",
+        "url": "https://hashtagweb3.com/pm275?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Senior/Principal Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "e4e52261-16bf-4285-aced-636fa7f6c28d",
+          "title": "Senior Application Security Engineer",
+          "company": "Sardine",
+          "link": "https://jobs.ashbyhq.com/sardine/e4e52261-16bf-4285-aced-636fa7f6c28d",
+          "date": "2026-10-15T12:13:54.769+00:00",
+          "source": "Ashby: Sardine [Sardine]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Security and IT",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec115"
+        },
+        "key": "e4e52261-16bf-4285-aced-636fa7f6c28d",
+        "slug": "sec115",
+        "url": "https://hashtagweb3.com/sec115?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sardine",
+        "title": "Senior Application Security Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "keka-dcx-145831",
+          "title": "Client Payment Specialist",
+          "company": "BitOasis",
+          "link": "https://dcx.keka.com/careers/jobdetails/145831",
+          "location": "Amman, Jordan",
+          "department": "Finance",
+          "type": "Full-time",
+          "date": "2026-11-04T10:32:58.770Z",
+          "dateVerified": true,
+          "dateSource": "Keka.JobPosting.publishedOn",
+          "source": "Keka: BitOasis [dcx]",
+          "applyUrl": "https://dcx.keka.com/careers/jobdetails/145831",
+          "active": true,
+          "salary": "JOD 530 - 560/month",
+          "slug": "cps"
+        },
+        "key": "keka-dcx-145831",
+        "slug": "cps",
+        "url": "https://hashtagweb3.com/cps?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitOasis",
+        "title": "Client Payment Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "4453246009",
+          "title": "Director, Data Architecture (AI Enablement)",
+          "company": "Digital Asset",
+          "link": "https://job-boards.greenhouse.io/digitalassetcorp/jobs/4453246009",
+          "date": "2026-10-16T15:54:05-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Digital Asset [digitalassetcorp]",
+          "location": "New York City, US",
+          "department": "Security / IT",
+          "active": true,
+          "salary": "$225k – $260k/yr",
+          "dateVerified": true,
+          "slug": "arc2"
+        },
+        "key": "4453246009",
+        "slug": "arc2",
+        "url": "https://hashtagweb3.com/arc2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Digital Asset",
+        "title": "Director, Data Architecture"
+      },
+      {
+        "snapshot": {
+          "id": "f6b5cd5e-7540-4845-b938-37985544be56",
+          "title": "Web3 Business Development",
+          "company": "CertiK",
+          "link": "https://jobs.lever.co/certik/f6b5cd5e-7540-4845-b938-37985544be56",
+          "date": "2026-11-05T07:03:32.976Z",
+          "source": "Lever: CertiK [certik]",
+          "location": "Remote / Europe/ Dubai",
+          "workplaceType": "remote",
+          "department": "Business Development",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls419"
+        },
+        "key": "f6b5cd5e-7540-4845-b938-37985544be56",
+        "slug": "sls419",
+        "url": "https://hashtagweb3.com/sls419?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CertiK",
+        "title": "Web3 Business Development"
+      }
+    ],
+    "message": "- Crypto.com is hiring <a href=\"https://hashtagweb3.com/pm275?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior/Principal Product Manager, User Onboarding &amp; Growth (Crypto.com App)</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/sec115?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Application Security Engineer</a>\n- BitOasis is hiring <a href=\"https://hashtagweb3.com/cps?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Client Payment Specialist</a>\n- Digital Asset is hiring <a href=\"https://hashtagweb3.com/arc2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, Data Architecture (AI Enablement)</a>\n- CertiK is hiring <a href=\"https://hashtagweb3.com/sls419?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Web3 Business Development</a>",
+    "slotKey": "2026-11-07:evening",
+    "messageId": 156134,
+    "sentAt": "2026-11-07T19:32:55.640Z"
+  },
+  "6df96629-b673-404d-b05a-f919c5e45513": {
+    "status": "sent",
+    "reservedAt": "2026-11-08T11:32:06.604Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8931487002",
+          "title": "Senior Software Engineer - Mobile (React Native/iOS/Android)",
+          "company": "BitGo",
+          "link": "https://job-boards.greenhouse.io/bitgo/jobs/8931487002",
+          "date": "2026-11-04T23:43:54-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BitGo [bitgo]",
+          "location": "Toronto, Ontario, Canada",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng419"
+        },
+        "key": "8931487002",
+        "slug": "eng419",
+        "url": "https://hashtagweb3.com/eng419?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8930335002",
+          "title": "Manager, Capital Markets",
+          "company": "Figure",
+          "link": "https://job-boards.greenhouse.io/figure/jobs/8930335002",
+          "date": "2026-11-05T00:29:25-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Figure [figure]",
+          "location": "Remote; Reno, NV; Charlotte, NC",
+          "department": "Capital Markets",
+          "active": true,
+          "salary": "$128k – $192k/yr",
+          "dateVerified": true,
+          "slug": "mgr145"
+        },
+        "key": "8930335002",
+        "slug": "mgr145",
+        "url": "https://hashtagweb3.com/mgr145?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Figure",
+        "title": "Manager, Capital Markets"
+      },
+      {
+        "snapshot": {
+          "id": "8187258003",
+          "title": "Sr. Product Marketing Manager, LATAM",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8187258003",
+          "date": "2026-11-04T00:18:40-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Argentina (Remote); Mexico (Remote); São Paulo, Brazil",
+          "department": "Strategic Markets",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm222"
+        },
+        "key": "8187258003",
+        "slug": "pm222",
+        "url": "https://hashtagweb3.com/pm222?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Sr. Product Marketing Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8031505003",
+          "title": "Sales Representative, Turkey",
+          "company": "DriveWealth",
+          "link": "https://boards.greenhouse.io/drivewealth/jobs/8031505003?gh_jid=8031505003",
+          "date": "2026-10-13T16:25:25-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DriveWealth [drivewealth]",
+          "location": "EMEA - Remote",
+          "department": "Revenue",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls294"
+        },
+        "key": "8031505003",
+        "slug": "sls294",
+        "url": "https://hashtagweb3.com/sls294?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DriveWealth",
+        "title": "Sales Representative"
+      },
+      {
+        "snapshot": {
+          "id": "f4fcc35e-bdc0-498b-a5f0-ac553d146531",
+          "title": "AI Engineer",
+          "company": "Phantom",
+          "link": "https://jobs.ashbyhq.com/phantom/f4fcc35e-bdc0-498b-a5f0-ac553d146531",
+          "date": "2026-10-27T20:00:50.661+00:00",
+          "source": "Ashby: Phantom [Phantom]",
+          "location": "Remote-US",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng670"
+        },
+        "key": "f4fcc35e-bdc0-498b-a5f0-ac553d146531",
+        "slug": "eng670",
+        "url": "https://hashtagweb3.com/eng670?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Phantom",
+        "title": "AI Engineer"
+      }
+    ],
+    "message": "- BitGo is hiring <a href=\"https://hashtagweb3.com/eng419?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer - Mobile (React Native/iOS/Android)</a>\n- Figure is hiring <a href=\"https://hashtagweb3.com/mgr145?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Capital Markets</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm222?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sr. Product Marketing Manager, LATAM</a>\n- DriveWealth is hiring <a href=\"https://hashtagweb3.com/sls294?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Representative, Turkey</a>\n- Phantom is hiring <a href=\"https://hashtagweb3.com/eng670?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Engineer</a>",
+    "slotKey": "2026-11-08:afternoon",
+    "messageId": 156144,
+    "sentAt": "2026-11-08T11:32:09.260Z"
+  },
+  "cfc5b43c-dc13-474d-88d8-2aed60603491": {
+    "status": "sent",
+    "reservedAt": "2026-11-08T19:32:49.139Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5008412101",
+          "title": "Identity Access Management & Data Protection Specialist",
+          "company": "Flowdesk",
+          "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5008412101",
+          "date": "2026-10-16T05:14:19-04:00",
+          "dateVerified": true,
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Flowdesk [flowdesk]",
+          "location": "London",
+          "department": "Secure Ecosystem",
+          "active": true,
+          "slug": "iamd"
+        },
+        "key": "5008412101",
+        "slug": "iamd",
+        "url": "https://hashtagweb3.com/iamd?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Flowdesk",
+        "title": "Identity Access Management & Data Protection Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "5024572101",
+          "title": "[EU] Business Development Specialist, France",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+          "date": "2026-11-01T15:44:58-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "France - Remote",
+          "department": "Europe",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls205"
+        },
+        "key": "5024572101",
+        "slug": "sls205",
+        "url": "https://hashtagweb3.com/sls205?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "[EU] Business Development Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "8039368003",
+          "title": "AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027",
+          "company": "DriveWealth",
+          "link": "https://boards.greenhouse.io/drivewealth/jobs/8039368003?gh_jid=8039368003",
+          "date": "2026-10-20T14:41:59-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DriveWealth [drivewealth]",
+          "location": "Chicago, IL",
+          "department": "Internships & Early Careers",
+          "active": true,
+          "salary": "$35 – $40/hr",
+          "dateVerified": true,
+          "slug": "int47"
+        },
+        "key": "8039368003",
+        "slug": "int47",
+        "url": "https://hashtagweb3.com/int47?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DriveWealth",
+        "title": "AI Consulting Associate Program"
+      },
+      {
+        "snapshot": {
+          "id": "8258529",
+          "title": "AI Engineering Manager",
+          "company": "Flow Traders",
+          "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8258529",
+          "date": "2026-10-16T09:02:17-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Flow Traders [flowtraders]",
+          "location": "Amsterdam",
+          "department": "Data",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng194"
+        },
+        "key": "8258529",
+        "slug": "eng194",
+        "url": "https://hashtagweb3.com/eng194?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Flow Traders",
+        "title": "AI Engineering Manager"
+      },
+      {
+        "snapshot": {
+          "id": "356c681c-d5b9-4078-8530-d29520987a34",
+          "title": "Deployment Strategist, CTI",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/356c681c-d5b9-4078-8530-d29520987a34",
+          "date": "2026-10-29T22:38:18.202+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Go-To-Market",
+          "active": true,
+          "dateVerified": true,
+          "slug": "dsc"
+        },
+        "key": "356c681c-d5b9-4078-8530-d29520987a34",
+        "slug": "dsc",
+        "url": "https://hashtagweb3.com/dsc?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Deployment Strategist"
+      }
+    ],
+    "message": "- Flowdesk is hiring <a href=\"https://hashtagweb3.com/iamd?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Identity Access Management &amp; Data Protection Specialist</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/sls205?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">[EU] Business Development Specialist, France</a>\n- DriveWealth is hiring <a href=\"https://hashtagweb3.com/int47?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027</a>\n- Flow Traders is hiring <a href=\"https://hashtagweb3.com/eng194?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Engineering Manager</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/dsc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Deployment Strategist, CTI</a>",
+    "slotKey": "2026-11-08:evening",
+    "messageId": 156148,
+    "sentAt": "2026-11-08T19:32:55.221Z"
+  },
+  "ea76a8cc-cc93-4c0d-913e-3a2b3158afa0": {
+    "status": "sent",
+    "reservedAt": "2026-11-09T03:32:31.384Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "ad373640-b44e-4a28-8886-013431e9cdec",
+          "title": "Senior IT Engineer",
+          "company": "Morpho",
+          "link": "https://jobs.ashbyhq.com/morpho/ad373640-b44e-4a28-8886-013431e9cdec",
+          "date": "2026-10-28T16:46:35.371+00:00",
+          "source": "Ashby: Morpho [Morpho]",
+          "location": "France | Remote",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng675"
+        },
+        "key": "ad373640-b44e-4a28-8886-013431e9cdec",
+        "slug": "eng675",
+        "url": "https://hashtagweb3.com/eng675?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Morpho",
+        "title": "Senior IT Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "4721504006",
+          "title": "Recruiter (Fintech/Blockchain)",
+          "company": "Index Industries",
+          "link": "https://job-boards.greenhouse.io/indexindustries/jobs/4721504006",
+          "date": "2026-10-13T12:09:41-04:00",
+          "dateVerified": true,
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Index Industries [indexindustries]",
+          "location": "Chicago, IL",
+          "department": "People",
+          "active": true,
+          "slug": "rec63"
+        },
+        "key": "4721504006",
+        "slug": "rec63",
+        "url": "https://hashtagweb3.com/rec63?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Index Industries",
+        "title": "Recruiter (Fintech/Blockchain)"
+      },
+      {
+        "snapshot": {
+          "id": "8925481002",
+          "title": "Executive Assistant and Office Manager",
+          "company": "Figure",
+          "link": "https://job-boards.greenhouse.io/figure/jobs/8925481002",
+          "date": "2026-11-03T18:27:08-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Figure [figure]",
+          "location": "New York, NY",
+          "department": "Executive",
+          "active": true,
+          "salary": "$95.2k – $142.8k/yr",
+          "dateVerified": true,
+          "slug": "aso79"
+        },
+        "key": "8925481002",
+        "slug": "aso79",
+        "url": "https://hashtagweb3.com/aso79?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Figure",
+        "title": "Executive Assistant and Office Manager"
+      },
+      {
+        "snapshot": {
+          "id": "6251713004",
+          "title": "Due Diligence Analyst - Americas",
+          "company": "Alpaca",
+          "link": "https://job-boards.greenhouse.io/alpaca/jobs/6251713004",
+          "date": "2026-11-06T17:08:11-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Alpaca [alpaca]",
+          "location": "Remote",
+          "department": "Risk",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an123"
+        },
+        "key": "6251713004",
+        "slug": "an123",
+        "url": "https://hashtagweb3.com/an123?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alpaca",
+        "title": "Due Diligence Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "8894763002",
+          "title": "Technical Operations Engineer",
+          "company": "Jane Street",
+          "link": "https://www.janestreet.com/join-jane-street/apply/8894763002?gh_jid=8894763002",
+          "date": "2026-10-16T12:27:00-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Jane Street [janestreet]",
+          "location": "London, England, United Kingdom",
+          "department": "Real Estate Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng463"
+        },
+        "key": "8894763002",
+        "slug": "eng463",
+        "url": "https://hashtagweb3.com/eng463?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Jane Street",
+        "title": "Technical Operations Engineer"
+      }
+    ],
+    "message": "- Morpho is hiring <a href=\"https://hashtagweb3.com/eng675?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior IT Engineer</a>\n- Index Industries is hiring <a href=\"https://hashtagweb3.com/rec63?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Recruiter (Fintech/Blockchain)</a>\n- Figure is hiring <a href=\"https://hashtagweb3.com/aso79?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Executive Assistant and Office Manager</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/an123?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Due Diligence Analyst - Americas</a>\n- Jane Street is hiring <a href=\"https://hashtagweb3.com/eng463?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Operations Engineer</a>",
+    "slotKey": "2026-11-09:morning",
+    "messageId": 156150,
+    "sentAt": "2026-11-09T03:32:34.985Z"
+  },
+  "8a1bba69-370e-4bc4-926e-f39d4bf682f4": {
+    "status": "sent",
+    "reservedAt": "2026-11-09T11:32:47.226Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "1d8096e981ef",
+          "title": "Talent Acquisition & HR Manager",
+          "company": "Bitdeer",
+          "link": "https://bitdeer.breezy.hr/p/1d8096e981ef-talent-acquisition-hr-manager",
+          "date": "2026-10-22",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Bitdeer [bitdeer]",
+          "location": "Oslo, NO",
+          "isRemote": false,
+          "department": "Human Resources",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://bitdeer.breezy.hr/p/1d8096e981ef-talent-acquisition-hr-manager",
+            "checkedAt": "2026-10-23T03:45:51.891Z",
+            "bodySha256": "650b580386cef57155650e7103fe2638f07c1cc6330ae7de5dc92bc01fb0be07",
+            "provider": "breezy",
+            "datePosted": "2026-10-22"
+          },
+          "slug": "rec11"
+        },
+        "key": "1d8096e981ef",
+        "slug": "rec11",
+        "url": "https://hashtagweb3.com/rec11?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "Talent Acquisition & HR Manager"
+      },
+      {
+        "snapshot": {
+          "id": "4996295101",
+          "title": "OTC Sales Trader",
+          "company": "StraitsX",
+          "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/4996295101",
+          "date": "2026-10-12T04:18:09-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: StraitsX [straitsx]",
+          "location": "Singapore",
+          "department": "STX - Commercial",
+          "active": true,
+          "dateVerified": true,
+          "slug": "tr123"
+        },
+        "key": "4996295101",
+        "slug": "tr123",
+        "url": "https://hashtagweb3.com/tr123?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "StraitsX",
+        "title": "OTC Sales Trader"
+      },
+      {
+        "snapshot": {
+          "id": "8349475",
+          "title": "Account Executive - Startups, Southeast Asia",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8349475",
+          "date": "2026-11-04T02:28:30-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Singapore",
+          "department": "1195 Account Executives (APAC)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls403"
+        },
+        "key": "8349475",
+        "slug": "sls403",
+        "url": "https://hashtagweb3.com/sls403?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "5009500101",
+          "title": "Senior Regional Sales Specialist, Mandarin Speaking Region",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5009500101",
+          "date": "2026-10-18T10:01:37-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "APAC - Remote",
+          "department": "Global Regions",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls85"
+        },
+        "key": "5009500101",
+        "slug": "sls85",
+        "url": "https://hashtagweb3.com/sls85?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Senior Regional Sales Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "a831f2fe-fd7f-4379-b7f9-bde67710b661",
+          "title": "Assistant General Counsel - Product and Regulatory Legal (EU)",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/a831f2fe-fd7f-4379-b7f9-bde67710b661",
+          "date": "2026-10-15T11:59:43.962+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (United Kingdom)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Legal",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm31"
+        },
+        "key": "a831f2fe-fd7f-4379-b7f9-bde67710b661",
+        "slug": "pm31",
+        "url": "https://hashtagweb3.com/pm31?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Assistant General Counsel"
+      }
+    ],
+    "message": "- Bitdeer is hiring <a href=\"https://hashtagweb3.com/rec11?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Talent Acquisition &amp; HR Manager</a>\n- StraitsX is hiring <a href=\"https://hashtagweb3.com/tr123?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">OTC Sales Trader</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls403?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive - Startups, Southeast Asia</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/sls85?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Regional Sales Specialist, Mandarin Speaking Region</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/pm31?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Assistant General Counsel - Product and Regulatory Legal (EU)</a>",
+    "slotKey": "2026-11-09:afternoon",
+    "messageId": 156154,
+    "sentAt": "2026-11-09T11:32:54.612Z"
+  },
+  "9e296c0f-f0a6-47d7-9dd6-81ad2cf2a392": {
+    "status": "sent",
+    "reservedAt": "2026-11-09T19:50:28.072Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "7ac99d1e-9dc1-4050-9e71-8e4e93948191",
+          "title": "Senior Director, Solutions Engineering",
+          "company": "Riot Platforms",
+          "link": "https://ats.rippling.com/riot-platforms-careers/jobs/7ac99d1e-9dc1-4050-9e71-8e4e93948191",
+          "date": "2026-10-16T09:12:17.430000-07:00",
+          "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+          "location": "Remote",
+          "department": "Strategic Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng276"
+        },
+        "key": "7ac99d1e-9dc1-4050-9e71-8e4e93948191",
+        "slug": "eng276",
+        "url": "https://hashtagweb3.com/eng276?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Riot Platforms",
+        "title": "Senior Director"
+      },
+      {
+        "snapshot": {
+          "id": "d8498fe0-1f86-46e6-805a-626489ddd0cb",
+          "title": "Senior AI Engineer (AI Automation)",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/d8498fe0-1f86-46e6-805a-626489ddd0cb",
+          "date": "2026-11-05T01:45:58.568+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "R&D",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng417"
+        },
+        "key": "d8498fe0-1f86-46e6-805a-626489ddd0cb",
+        "slug": "eng417",
+        "url": "https://hashtagweb3.com/eng417?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Senior AI Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8356278",
+          "title": "Customer Experience Associate, Prediction Markets",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8356278?t=gh_src=&gh_jid=8356278",
+          "date": "2026-11-05T16:56:31-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Westlake, TX",
+          "department": "Customer Care",
+          "active": true,
+          "salary": "$25 – $29/hr",
+          "dateVerified": true,
+          "slug": "aso80"
+        },
+        "key": "8356278",
+        "slug": "aso80",
+        "url": "https://hashtagweb3.com/aso80?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Customer Experience Associate"
+      },
+      {
+        "snapshot": {
+          "id": "7f507327-19e6-4429-9662-8bf937f0a795",
+          "title": "Risk Manager, EU",
+          "company": "Lightspark",
+          "link": "https://jobs.ashbyhq.com/lightspark/7f507327-19e6-4429-9662-8bf937f0a795",
+          "date": "2026-10-13T18:47:40.558+00:00",
+          "source": "Ashby: Lightspark [lightspark]",
+          "location": "Estonia",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Legal & Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr184"
+        },
+        "key": "7f507327-19e6-4429-9662-8bf937f0a795",
+        "slug": "mgr184",
+        "url": "https://hashtagweb3.com/mgr184?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Lightspark",
+        "title": "Risk Manager"
+      },
+      {
+        "snapshot": {
+          "id": "144d4418-ea30-48d1-9ff1-3f8e6e4c6a86",
+          "title": "Security Operations Engineer",
+          "company": "Alchemy",
+          "link": "https://jobs.ashbyhq.com/alchemy/144d4418-ea30-48d1-9ff1-3f8e6e4c6a86",
+          "date": "2026-11-05T19:44:48.665+00:00",
+          "source": "Ashby: Alchemy [alchemy]",
+          "location": "Hybrid (New York)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec92"
+        },
+        "key": "144d4418-ea30-48d1-9ff1-3f8e6e4c6a86",
+        "slug": "sec92",
+        "url": "https://hashtagweb3.com/sec92?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alchemy",
+        "title": "Security Operations Engineer"
+      }
+    ],
+    "message": "- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/eng276?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Director, Solutions Engineering</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/eng417?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior AI Engineer (AI Automation)</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/aso80?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Experience Associate, Prediction Markets</a>\n- Lightspark is hiring <a href=\"https://hashtagweb3.com/mgr184?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Risk Manager, EU</a>\n- Alchemy is hiring <a href=\"https://hashtagweb3.com/sec92?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Security Operations Engineer</a>",
+    "slotKey": "2026-11-09:evening",
+    "messageId": 156160,
+    "sentAt": "2026-11-09T19:50:51.910Z"
+  },
+  "135529c5-69ba-4b16-938a-a5a2d8d7742c": {
+    "status": "sent",
+    "reservedAt": "2026-11-10T11:32:29.494Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8301728",
+          "title": "Technical Program Manager",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8301728?t=gh_src=&gh_jid=8301728",
+          "date": "2026-10-20T12:22:21-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Menlo Park, CA; New York, NY",
+          "department": "Brokerage Division",
+          "active": true,
+          "salary": "$140k – $165k/yr",
+          "dateVerified": true,
+          "slug": "mgr197"
+        },
+        "key": "8301728",
+        "slug": "mgr197",
+        "url": "https://hashtagweb3.com/mgr197?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Technical Program Manager"
+      },
+      {
+        "snapshot": {
+          "id": "3cdf09ef-364c-424e-a920-940f7749c285",
+          "title": "Cyber Security Operations Center (CSOC) Analyst (English Speaker)",
+          "company": "BTSE",
+          "link": "https://jobs.lever.co/BTSE/3cdf09ef-364c-424e-a920-940f7749c285",
+          "date": "2026-11-02T09:38:11.353Z",
+          "source": "Lever: BTSE [BTSE]",
+          "location": "Remote (Jakarta)",
+          "workplaceType": "remote",
+          "department": "BTSE",
+          "active": true,
+          "dateVerified": true,
+          "dateSource": "Lever.createdAt",
+          "slug": "sec154"
+        },
+        "key": "3cdf09ef-364c-424e-a920-940f7749c285",
+        "slug": "sec154",
+        "url": "https://hashtagweb3.com/sec154?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BTSE",
+        "title": "Cyber Security Operations Center"
+      },
+      {
+        "snapshot": {
+          "id": "7a6e5274-d82d-40ac-b396-592318f68d76",
+          "title": "Affiliate Specialist - Pro (EMEA)",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/7a6e5274-d82d-40ac-b396-592318f68d76",
+          "date": "2026-11-06T17:35:07.647+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (United Kingdom)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "asp2"
+        },
+        "key": "7a6e5274-d82d-40ac-b396-592318f68d76",
+        "slug": "asp2",
+        "url": "https://hashtagweb3.com/asp2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Affiliate Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "5016114101",
+          "title": "Junior Options Trader",
+          "company": "Flowdesk",
+          "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5016114101",
+          "date": "2026-10-26T08:24:03-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Flowdesk [flowdesk]",
+          "location": "Singapore",
+          "department": "Derivatives",
+          "active": true,
+          "dateVerified": true,
+          "slug": "tr145"
+        },
+        "key": "5016114101",
+        "slug": "tr145",
+        "url": "https://hashtagweb3.com/tr145?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Flowdesk",
+        "title": "Junior Options Trader"
+      },
+      {
+        "snapshot": {
+          "id": "8a75bcc4-510e-4815-ac28-4dec643db866",
+          "title": "KOL and Social Manager",
+          "company": "ether.fi",
+          "link": "https://jobs.ashbyhq.com/ether.fi/8a75bcc4-510e-4815-ac28-4dec643db866",
+          "date": "2026-10-27T13:29:48.938+00:00",
+          "source": "Ashby: ether.fi [ether.fi]",
+          "location": "Cayman",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr208"
+        },
+        "key": "8a75bcc4-510e-4815-ac28-4dec643db866",
+        "slug": "mgr208",
+        "url": "https://hashtagweb3.com/mgr208?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "ether.fi",
+        "title": "KOL and Social Manager"
+      }
+    ],
+    "message": "- Robinhood is hiring <a href=\"https://hashtagweb3.com/mgr197?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Program Manager</a>\n- BTSE is hiring <a href=\"https://hashtagweb3.com/sec154?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Cyber Security Operations Center (CSOC) Analyst (English Speaker)</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/asp2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Affiliate Specialist - Pro (EMEA)</a>\n- Flowdesk is hiring <a href=\"https://hashtagweb3.com/tr145?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Junior Options Trader</a>\n- ether​.fi is hiring <a href=\"https://hashtagweb3.com/mgr208?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">KOL and Social Manager</a>",
+    "slotKey": "2026-11-10:afternoon",
+    "messageId": 156167,
+    "sentAt": "2026-11-10T11:32:39.031Z"
+  },
+  "15b73362-7c86-4c37-a606-78abf09e916a": {
+    "status": "sent",
+    "reservedAt": "2026-11-10T19:33:13.676Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8271659",
+          "title": "Account Executive, Funded Startups DACH",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8271659",
+          "date": "2026-10-16T12:54:28-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Berlin",
+          "department": "1185 Account Executives (EMEA)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls188"
+        },
+        "key": "8271659",
+        "slug": "sls188",
+        "url": "https://hashtagweb3.com/sls188?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "6239835004",
+          "title": "Senior Sales Engineer",
+          "company": "Alpaca",
+          "link": "https://job-boards.greenhouse.io/alpaca/jobs/6239835004",
+          "date": "2026-11-01T17:44:38-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Alpaca [alpaca]",
+          "location": "Remote - Americas",
+          "department": "Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng383"
+        },
+        "key": "6239835004",
+        "slug": "eng383",
+        "url": "https://hashtagweb3.com/eng383?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alpaca",
+        "title": "Senior Sales Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "4468338009",
+          "title": "Senior Event Manager",
+          "company": "Ondo Finance",
+          "link": "https://job-boards.greenhouse.io/ondofinance/jobs/4468338009",
+          "date": "2026-10-26T17:26:09-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ondo Finance [ondofinance]",
+          "location": "United States",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr204"
+        },
+        "key": "4468338009",
+        "slug": "mgr204",
+        "url": "https://hashtagweb3.com/mgr204?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ondo Finance",
+        "title": "Senior Event Manager"
+      },
+      {
+        "snapshot": {
+          "id": "e8a7c1b900b1",
+          "title": "Legal Counsel - Norway",
+          "company": "Bitdeer",
+          "link": "https://bitdeer.breezy.hr/p/e8a7c1b900b1-legal-counsel-norway",
+          "date": "2026-11-03",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Bitdeer [bitdeer]",
+          "location": "Oslo, NO",
+          "isRemote": false,
+          "department": "",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://bitdeer.breezy.hr/p/e8a7c1b900b1-legal-counsel-norway",
+            "checkedAt": "2026-11-04T00:07:24.645Z",
+            "bodySha256": "fff1eefc4718a6255d20076c7901d7469ca2140555bfd25f0562d13f6be16de8",
+            "provider": "breezy",
+            "datePosted": "2026-11-03"
+          },
+          "slug": "cmp83"
+        },
+        "key": "e8a7c1b900b1",
+        "slug": "cmp83",
+        "url": "https://hashtagweb3.com/cmp83?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "Legal Counsel"
+      },
+      {
+        "snapshot": {
+          "id": "5029213101",
+          "title": "Asset/Wallet Operations",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5029213101",
+          "date": "2026-11-06T02:18:47-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Abu Dhabi, UAE; Hong Kong SAR",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops153"
+        },
+        "key": "5029213101",
+        "slug": "ops153",
+        "url": "https://hashtagweb3.com/ops153?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Asset/Wallet Operations"
+      }
+    ],
+    "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/sls188?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Funded Startups DACH</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/eng383?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Sales Engineer</a>\n- Ondo Finance is hiring <a href=\"https://hashtagweb3.com/mgr204?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Event Manager</a>\n- Bitdeer is hiring <a href=\"https://hashtagweb3.com/cmp83?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Legal Counsel - Norway</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/ops153?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Asset/Wallet Operations</a>",
+    "slotKey": "2026-11-10:evening",
+    "messageId": 156172,
+    "sentAt": "2026-11-10T19:33:17.749Z"
   }
 }

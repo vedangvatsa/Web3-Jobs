@@ -32,6 +32,7 @@ const COUNTRY_CODES: Record<string, string> = {
   australia: 'AU', 'new zealand': 'NZ', brazil: 'BR', argentina: 'AR', mexico: 'MX',
   colombia: 'CO', chile: 'CL', nigeria: 'NG', kenya: 'KE', 'south africa': 'ZA',
   egypt: 'EG', guatemala: 'GT', panama: 'PA', 'costa rica': 'CR', uruguay: 'UY',
+  bahrain: 'BH', jordan: 'JO',
   peru: 'PE', belize: 'BZ', eswatini: 'SZ', iceland: 'IS', luxembourg: 'LU',
   slovenia: 'SI', slovakia: 'SK', moldova: 'MD', kazakhstan: 'KZ', uzbekistan: 'UZ',
 };

@@ -25,7 +25,7 @@ const CUTOFF = Date.now() - THIRTY_DAYS_MS;
 
 const CACHE_PATH = path.join(process.cwd(), 'content/jobs-cache.json');
 
-type AtsType = 'ashby' | 'greenhouse' | 'lever' | 'bamboo';
+type AtsType = 'ashby' | 'greenhouse' | 'lever' | 'bamboo' | 'keka';
 
 interface FeedConfig {
   company: string;
@@ -340,6 +340,35 @@ async function ingestFanOutFeeds(label: string, feeds: FeedConfig[], cacheData: 
           type: 'Full-time', department: j.departments?.[0]?.name || feed.company,
           source: `greenhouse:${feed.slug}`, rawId: j.id, date: j.first_published || '', dateSource: 'Greenhouse.first_published',
         }));
+      } else if (feed.type === 'keka') {
+        const rawJobs = Array.isArray(data) ? data : (data.jobs || []);
+        items = rawJobs
+          .filter((j: any) => {
+            if (feed.slug === 'dcx' && feed.company.toLowerCase() === 'bitoasis') {
+              return String(j.jobNumber || '').includes('BO') || String(j.departmentName || '').includes('BO');
+            }
+            return true;
+          })
+          .map((j: any) => ({
+            id: `keka-${feed.slug}-${j.id}`,
+            title: j.title,
+            company: feed.company,
+            link: `https://${feed.slug}.keka.com/careers/jobdetails/${j.id}`,
+            location: (() => {
+              const loc = j.jobLocations?.[0];
+              const country = loc?.countryName?.toLowerCase() || '';
+              const city = loc?.city?.trim() || '';
+              if (country.includes('emirates') || country.includes('uae') || loc?.countryCode === 'AE' || city.toLowerCase() === 'dubai') return 'Dubai, United Arab Emirates';
+              if (country.includes('jordan') || loc?.countryCode === 'JO' || city.toLowerCase() === 'amman') return 'Amman, Jordan';
+              if (country.includes('bahrain') || loc?.countryCode === 'BH' || city.toLowerCase() === 'manama') return 'Manama, Bahrain';
+              return [city, loc?.countryName].filter(Boolean).join(', ') || 'Remote';
+            })(),
+            type: 'Full-time',
+            department: j.departmentName || feed.company,
+            source: `keka:${feed.slug}`,
+            rawId: j.id,
+            date: j.publishedOn ? new Date(j.publishedOn).toISOString() : '',
+          }));
       }
       let countForFeed = 0;
       for (const item of items) {
@@ -399,6 +428,8 @@ const REGIONAL_FEEDS: FeedConfig[] = [
   { company: 'CoinGecko',      type: 'lever',      slug: 'coingecko',     url: 'https://api.lever.co/v0/postings/coingecko?mode=json',                        skills: ['Web3','Blockchain','Crypto','Fintech'] },
   { company: 'Amber Group',    type: 'bamboo',     slug: 'ambergroup',    url: 'https://ambergroup.bamboohr.com/careers/list',                                skills: ['Web3','Blockchain','Crypto','Fintech'] },
   { company: 'Animoca Brands', type: 'lever',      slug: 'animocabrands', url: 'https://api.lever.co/v0/postings/animocabrands?mode=json',                    skills: ['Web3','Blockchain','Crypto','Fintech'] },
+  { company: 'BitOasis',       type: 'keka',       slug: 'dcx',           url: 'https://dcx.keka.com/careers/api/embedjobs/default/active/a19960b8-1dc8-4788-9544-3335b26ea14a', skills: ['Web3','Crypto','Exchange','MENA'] },
+  { company: 'Liminal',        type: 'keka',       slug: 'liminal',       url: 'https://liminal.keka.com/careers/api/embedjobs/default/active/44fcd779-dfa4-4e94-a077-e18fcd4338d4', skills: ['Web3','Crypto','Custody','Security','Infrastructure'] },
 ];
 
 const UNTRACKED_FEEDS: FeedConfig[] = [
@@ -423,6 +454,7 @@ const UNTRACKED_FEEDS: FeedConfig[] = [
   { company: 'Alpen Labs',       type: 'ashby',  slug: 'alpenlabs',        url: 'https://api.ashbyhq.com/posting-api/job-board/alpenlabs',       skills: ['Web3','Bitcoin','Zero Knowledge','DeFi','Layer2'] },
   { company: 'Meow',             type: 'ashby',  slug: 'meow',             url: 'https://api.ashbyhq.com/posting-api/job-board/meow',             skills: ['Web3','Fintech','Crypto','Compliance','Banking'] },
   { company: 'Biti',             type: 'ashby',  slug: 'biti',             url: 'https://api.ashbyhq.com/posting-api/job-board/biti',             skills: ['Web3','Crypto','DeFi','Design','Wallet'] },
+  { company: 'HIFI',             type: 'ashby',  slug: 'hifi',             url: 'https://api.ashbyhq.com/posting-api/job-board/hifi',             skills: ['Web3','Crypto','Stablecoins','Fintech','Infrastructure'] },
   { company: 'Xapo Bank',        type: 'greenhouse', slug: 'xapo61',       url: 'https://boards-api.greenhouse.io/v1/boards/xapo61/jobs?content=true', skills: ['Web3','Bitcoin','Banking','Crypto','Compliance'] },
 ];
 
@@ -433,7 +465,16 @@ const FRESH_FEEDS: FeedConfig[] = [
   { company: 'Jito Labs',            type: 'ashby',      slug: 'jito-labs',              url: 'https://api.ashbyhq.com/posting-api/job-board/jito-labs?includeCompensation=true' },
   { company: 'OpenSea',              type: 'ashby',      slug: 'opensea',                url: 'https://api.ashbyhq.com/posting-api/job-board/opensea?includeCompensation=true' },
   { company: 'Aptos Labs',           type: 'greenhouse', slug: 'aptoslabs',              url: 'https://api.greenhouse.io/v1/boards/aptoslabs/jobs?content=true' },
-  { company: 'EigenLayer',           type: 'ashby',      slug: 'eigen-labs',             url: 'https://api.ashbyhq.com/posting-api/job-board/eigen-labs?includeCompensation=true' },
+  { company: 'EigenLayer',           type: 'ashby',      slug: 'teameigen',              url: 'https://api.ashbyhq.com/posting-api/job-board/teameigen?includeCompensation=true' },
+  { company: 'Story Protocol',       type: 'ashby',      slug: 'story',                  url: 'https://api.ashbyhq.com/posting-api/job-board/story?includeCompensation=true' },
+  { company: 'Mantle Network',       type: 'ashby',      slug: 'mantle',                 url: 'https://api.ashbyhq.com/posting-api/job-board/mantle?includeCompensation=true' },
+  { company: 'Paradigm',             type: 'ashby',      slug: 'paradigm',               url: 'https://api.ashbyhq.com/posting-api/job-board/paradigm?includeCompensation=true' },
+  { company: 'Blockstream',          type: 'ashby',      slug: 'blockstream',            url: 'https://api.ashbyhq.com/posting-api/job-board/blockstream?includeCompensation=true' },
+  { company: 'Wormhole Labs',        type: 'ashby',      slug: 'wormholelabs',           url: 'https://api.ashbyhq.com/posting-api/job-board/wormholelabs?includeCompensation=true' },
+  { company: 'Moonshot',             type: 'ashby',      slug: 'moonshot',               url: 'https://api.ashbyhq.com/posting-api/job-board/moonshot?includeCompensation=true' },
+  { company: 'Stork Network',        type: 'ashby',      slug: 'stork',                  url: 'https://api.ashbyhq.com/posting-api/job-board/stork?includeCompensation=true' },
+  { company: 'Sentient',             type: 'ashby',      slug: 'sentient',               url: 'https://api.ashbyhq.com/posting-api/job-board/sentient?includeCompensation=true' },
+  { company: 'Squads',               type: 'ashby',      slug: 'squads',                 url: 'https://api.ashbyhq.com/posting-api/job-board/squads?includeCompensation=true' },
   { company: 'Bastion',              type: 'ashby',      slug: 'Bastion',                url: 'https://api.ashbyhq.com/posting-api/job-board/Bastion?includeCompensation=true' },
   { company: 'Worldcoin',            type: 'ashby',      slug: 'Tools%20for%20Humanity', url: 'https://api.ashbyhq.com/posting-api/job-board/Tools%20for%20Humanity?includeCompensation=true' },
   { company: 'Alchemy',              type: 'ashby',      slug: 'alchemy',                url: 'https://api.ashbyhq.com/posting-api/job-board/alchemy?includeCompensation=true' },

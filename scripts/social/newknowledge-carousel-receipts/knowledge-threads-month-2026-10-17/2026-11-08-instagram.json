@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-11-08",
+    "threadId": "C08",
+    "sequence": 22,
+    "platform": "instagram",
+    "sourceContentSha256": "1cbe2f93ef8c2be5086df627ff8374c4090b8f42aebe30623ae69d6c3176c55f",
+    "calendarSha256": "70484da3b7319ebb706092e37759daf11ea4a58df5a9beadef96d8dd5ada9ebc",
+    "sourceThreadSha256": "cb77852ea25c65462bf07ada3f0c349aad5bf21a6ab84edf311f2b3b4ff38137",
+    "sourcePostHashes": [
+      "9e0ce0adff7cae0a7bcb3fa2061ba2bdd5604f81dbf2bc9d1d0516f46db7776d",
+      "1945231ccf2cc6917bac13b0a219efd27cbc4e9228d9de642e17505b146f1797",
+      "724937dfe1a966afff20c1ff093014f7083eb6a087a01961383925cf98f88d6d",
+      "917d3ff78e15ac2f7a2db0900e87dbebc729e6f68fb85facef5064c01329485d",
+      "cdf636e9b788338d68a71bf3ddb53ecf86b9e7664d0acddd567525e7a3e8f6ca",
+      "43c99b02ff308a0f0fbfbff9e3c800d41ee3a184cdabd1bee4c2d63a0eef8e88"
+    ],
+    "sourceImages": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/C08-01.jpg",
+        "sha256": "9db42a7f7e2133b583cf453a3e72e3df327d833c3aaa8fe00a7c59bf44bf49b7",
+        "bytes": 123927,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Career Quiz role cards: Smart Contract Developer writes on-chain dApp logic; On-Chain Data Analyst uses tools such as Dune; Community Manager manages Discord. Practice examples alongside the roles: code and tests, a query with methodology, and a support runbook.",
+        "renderedText": "Career practice\n\nCode, query, support runbook\n\nHashtag Web3 career quiz\n\nC08 · 1/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C08-02.jpg",
+        "sha256": "03d1d0739325c0246e5c0869cab5228afeb9b485b01d546752b43bbf84fcd87c",
+        "bytes": 130829,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Career Quiz card for Smart Contract Developer, with a practice exercise: build a local deposit and withdrawal contract, test unauthorized and repeat withdrawals in Foundry, and include the test command in a README.",
+        "renderedText": "Career practice\n\nTechnical output: contract and failure-case tests\n\nCareer quiz match\n\nPractice task\n\nLocal deposit/withdrawal contract\nUnauthorized-caller test\nRepeat-withdrawal test\nREADME test command\n\nHashtag Web3 career quiz\n\nC08 · 2/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C08-03.jpg",
+        "sha256": "76d3fb0a64b0fdffe9ccdc1bef3bea6a5b5a7a67cd6bd17e4e9314ee507a4a3a",
+        "bytes": 152962,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Career Quiz card for On-Chain Data Analyst and a practice task: count distinct tx.from addresses per UTC day for one DEX over 30 days. Deliver SQL, chain and contract filters, and a chart. Count repeat swaps once per address per day and label the result transaction senders, not users.",
+        "renderedText": "Career practice\n\nMeasure transaction senders, not people\n\nCareer quiz match\n\nPractice task\n\nCount distinct tx.from addresses per UTC day\nOne DEX over 30 days\nDeliver SQL, chain and contract filters, and a chart\nRepeat swaps count once per address/day; label transaction senders, not users\n\nHashtag Web3 career quiz\n\nC08 · 3/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C08-04.jpg",
+        "sha256": "248b513900e7a2d440ff8707413ade8110e017755cce8cdfe4545b83568bba5c",
+        "bytes": 145726,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Career Quiz Community Manager card beside a support example. Issue: wallet will not connect. Category: connection. Owner: support moderator. Collect the browser, wallet version and error text, then record the issue in a queue with a handoff note.",
+        "renderedText": "Career practice\n\nCommunity output: an actionable support handoff\n\nCareer quiz match\n\nPractice task\n\nIssue: wallet will not connect\nCategory: connection\nOwner: support moderator\nCollect browser, wallet version and error text\nOutput: queue and handoff note\n\nHashtag Web3 career quiz\n\nC08 · 4/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C08-05.jpg",
+        "sha256": "99c47d1bb00771bffe2d84bb3adb355189ea797e2e3d56ae86cff58ca1b34459",
+        "bytes": 114101,
+        "width": 1200,
+        "height": 1500,
+        "alt": "The Analyst's Smart Contract Auditor recommendation in the Career Quiz: finds security vulnerabilities in smart contracts. A practice finding format lists the affected function, a failing test and a proposed fix.",
+        "renderedText": "Career practice\n\nThe Analyst also recommends security auditing\n\nCareer quiz match\n\nPractice task\n\nAffected function\nFailing test\nProposed fix\n\nHashtag Web3 career quiz\n\nC08 · 5/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C08-06.jpg",
+        "sha256": "13797757070279dcdb19af6755f92b30e39291c1261fc84874a7acc3dcb53fa1",
+        "bytes": 125322,
+        "width": 1200,
+        "height": 1500,
+        "alt": "The Analyst's three Career Quiz recommendations: On-Chain Data Analyst uses tools such as Dune to analyze blockchain data; Smart Contract Auditor finds contract vulnerabilities; Quantitative Analyst models DeFi protocols' financial risks.",
+        "renderedText": "Career practice\n\nThe Analyst: three role matches\n\nHashtag Web3 career quiz · 16 questions\n\nC08 · 6/6"
+      }
+    ],
+    "assetCommit": "dc7de8a61d06aaa3fca8d6fdf4a6c720a7edb114",
+    "target": {
+      "accountId": "17841473830256790",
+      "username": "hashtagweb3",
+      "service": "instagram"
+    },
+    "caption": "Quiz matches: Builder - Smart Contract Developer; Analyst - On-Chain Data Analyst; Community Weaver - Community Manager.\n\nPractice examples: a contract, a query and a support runbook.\n\n1. Builder practice task: implement a local escrow's deposit and withdrawal functions.\n\nDeliver the Solidity file, Foundry tests for unauthorized and repeat withdrawals, and a README with the test command.\n\n2. Analyst practice task: count distinct tx.from addresses per UTC day for one DEX over 30 days. Deliver SQL, chain/contract filters and a chart.\n\nCount repeat swaps once per address/day; label senders, not users.\n\n3. Community Weaver practice task: draft a support queue and handoff note.\n\nExample: wallet won't connect. Category: connection. Owner: support moderator. Next step: collect browser, wallet version and error text.\n\n4. The Analyst also recommends Smart Contract Auditor.\n\nPractice task: write a short finding with the failing test, affected function and proposed fix.\n\n5. The Analyst result suggests On-Chain Data Analyst, Smart Contract Auditor and Quantitative Analyst.\n\nTake the 16-question quiz for your role list, then choose a practice task.\n\nFull resource: hashtagweb3.com/web3-career-quiz/ig",
+    "images": [
+      {
+        "path": "social-assets/knowledge-threads-month/exports/C08/instagram/01.jpg",
+        "sha256": "9bc2683d7a933e39eb47e258bafa8a19379fbae63f16a7dde152887646b28eeb",
+        "bytes": 114005,
+        "width": 1080,
+        "height": 1350,
+        "alt": "Career Quiz role cards: Smart Contract Developer writes on-chain dApp logic; On-Chain Data Analyst uses tools such as Dune; Community Manager manages Discord. Practice examples alongside the roles: code and tests, a query with methodology, and a support runbook.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/dc7de8a61d06aaa3fca8d6fdf4a6c720a7edb114/social-assets/knowledge-threads-month/exports/C08/instagram/01.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/exports/C08/instagram/02.jpg",
+        "sha256": "1e92ebe9e2f22fdb5dda2ab1c6979dfe570153df2f38f77a214ae6dd0b22823a",
+        "bytes": 115694,
+        "width": 1080,
+        "height": 1350,
+        "alt": "Career Quiz card for Smart Contract Developer, with a practice exercise: build a local deposit and withdrawal contract, test unauthorized and repeat withdrawals in Foundry, and include the test command in a README.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/dc7de8a61d06aaa3fca8d6fdf4a6c720a7edb114/social-assets/knowledge-threads-month/exports/C08/instagram/02.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/exports/C08/instagram/03.jpg",
+        "sha256": "077ea2464d0e89c0b2fdc4940898d849766d6b80f2eb5ae2bb12743cd833202b",
+        "bytes": 135290,
+        "width": 1080,
+        "height": 1350,
+        "alt": "Career Quiz card for On-Chain Data Analyst and a practice task: count distinct tx.from addresses per UTC day for one DEX over 30 days. Deliver SQL, chain and contract filters, and a chart. Count repeat swaps once per address per day and label the result transaction senders, not users.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/dc7de8a61d06aaa3fca8d6fdf4a6c720a7edb114/social-assets/knowledge-threads-month/exports/C08/instagram/03.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/exports/C08/instagram/04.jpg",
+        "sha256": "539cc63350efdc70406f982028224166fcdd3bf4caf655efea1782fd3f6eb56f",
+        "bytes": 130039,
+        "width": 1080,
+        "height": 1350,
+        "alt": "Career Quiz Community Manager card beside a support example. Issue: wallet will not connect. Category: connection. Owner: support moderator. Collect the browser, wallet version and error text, then record the issue in a queue with a handoff note.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/dc7de8a61d06aaa3fca8d6fdf4a6c720a7edb114/social-assets/knowledge-threads-month/exports/C08/instagram/04.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/exports/C08/instagram/05.jpg",
+        "sha256": "bdfee913d4027bb4ff5c8f26ebd94a4b4b0c3a9888f056f834fc7aa9b785cced",
+        "bytes": 102603,
+        "width": 1080,
+        "height": 1350,
+        "alt": "The Analyst's Smart Contract Auditor recommendation in the Career Quiz: finds security vulnerabilities in smart contracts. A practice finding format lists the affected function, a failing test and a proposed fix.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/dc7de8a61d06aaa3fca8d6fdf4a6c720a7edb114/social-assets/knowledge-threads-month/exports/C08/instagram/05.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/exports/C08/instagram/06.jpg",
+        "sha256": "6d7dd96c6fa6ceffe2398e61095b8edf765f726f152b01a491a461546e35ce10",
+        "bytes": 116769,
+        "width": 1080,
+        "height": 1350,
+        "alt": "The Analyst's three Career Quiz recommendations: On-Chain Data Analyst uses tools such as Dune to analyze blockchain data; Smart Contract Auditor finds contract vulnerabilities; Quantitative Analyst models DeFi protocols' financial risks.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/dc7de8a61d06aaa3fca8d6fdf4a6c720a7edb114/social-assets/knowledge-threads-month/exports/C08/instagram/06.jpg"
+      }
+    ],
+    "transport": "meta"
+  },
+  "account": {
+    "accountId": "17841473830256790",
+    "username": "hashtagweb3",
+    "service": "instagram"
+  },
+  "claimId": "4a4ad3a7-d5f6-4c31-a3ef-952ede7c1056",
+  "startedAt": "2026-11-08T11:31:55.805Z",
+  "status": "verified",
+  "children": {
+    "0": {
+      "createClaim": "d041dec8-ceef-4e0b-bc0f-c23d5fddae8f",
+      "startedAt": "2026-11-08T11:31:57.759Z",
+      "status": "verified",
+      "containerId": "17921418225461009"
+    },
+    "1": {
+      "createClaim": "d53d33f8-910b-46a6-a80b-2547a5f7c62b",
+      "startedAt": "2026-11-08T11:32:15.016Z",
+      "status": "verified",
+      "containerId": "17921418246461009"
+    },
+    "2": {
+      "createClaim": "2b0a12d9-e495-4c2a-b278-8d2a6bb2a53d",
+      "startedAt": "2026-11-08T11:32:24.245Z",
+      "status": "verified",
+      "containerId": "17921418264461009"
+    },
+    "3": {
+      "createClaim": "18ba02e3-f4eb-4132-b05d-88620d6d6bf6",
+      "startedAt": "2026-11-08T11:32:39.754Z",
+      "status": "verified",
+      "containerId": "17921418294461009"
+    },
+    "4": {
+      "createClaim": "ecd052c1-eba1-4a0c-91c9-e44006d54353",
+      "startedAt": "2026-11-08T11:32:53.518Z",
+      "status": "verified",
+      "containerId": "17921418315461009"
+    },
+    "5": {
+      "createClaim": "a47bb480-29b2-45bd-99e0-8cd45a8e699b",
+      "startedAt": "2026-11-08T11:33:08.049Z",
+      "status": "verified",
+      "containerId": "17921418342461009"
+    }
+  },
+  "parent": {
+    "createClaim": "72a2b13c-f7a7-479a-8f20-ae8041424f72",
+    "startedAt": "2026-11-08T11:33:19.714Z",
+    "status": "container-created",
+    "childContainerIds": [
+      "17921418225461009",
+      "17921418246461009",
+      "17921418264461009",
+      "17921418294461009",
+      "17921418315461009",
+      "17921418342461009"
+    ],
+    "containerId": "17921418360461009"
+  },
+  "publish": {
+    "claimId": "de38bfa8-d1bf-4540-a0e2-b19e15150590",
+    "startedAt": "2026-11-08T11:33:27.599Z",
+    "creationId": "17921418360461009",
+    "status": "verified",
+    "postId": "18449309275120950"
+  },
+  "postId": "18449309275120950",
+  "publishedChildIds": [
+    "18099142739398900",
+    "18171190126477490",
+    "18114546164179109",
+    "18025474037714255",
+    "17925085851220925",
+    "18117360362149540"
+  ],
+  "permalink": "https://www.instagram.com/p/DfeqJB4DOcv/",
+  "verifiedAt": "2026-11-08T11:33:37.943Z"
+}

@@ -378,6 +378,15 @@
     "owner": "Helius",
     "website": "https://www.helius.dev/"
   },
+  "ashby:hifi": {
+    "companies": [
+      "HIFI",
+      "Hifi"
+    ],
+    "organizationId": "2a191518-137c-4f96-bad5-867d9a635537",
+    "owner": "HIFI",
+    "website": "https://www.hifi.com/"
+  },
   "ashby:hyperbolic": {
     "companies": [
       "Hyperbolic"
@@ -1162,5 +1171,108 @@
     "organizationId": "e656cbc6-a329-4ab2-8304-d4fd4492242e",
     "owner": "Zircuit",
     "website": "https://zircuit.com"
+  },
+  "ashby:story": {
+    "companies": [
+      "Story Protocol",
+      "Story"
+    ],
+    "organizationId": "91dad1e3-e6fa-4d0c-a03e-b13dbceea012",
+    "owner": "Story",
+    "website": "https://story.foundation"
+  },
+  "ashby:mantle": {
+    "companies": [
+      "Mantle Network",
+      "Mantle"
+    ],
+    "organizationId": "7b9ddbe8-f135-42d4-a696-e92b0b592eb3",
+    "owner": "Mantle",
+    "website": "https://mantle.xyz"
+  },
+  "ashby:paradigm": {
+    "companies": [
+      "Paradigm"
+    ],
+    "organizationId": "b7e3d4a3-663c-4034-a890-63efe259dbdd",
+    "owner": "Paradigm",
+    "website": "https://paradigm.xyz"
+  },
+  "ashby:teameigen": {
+    "companies": [
+      "EigenLayer",
+      "Eigen Labs"
+    ],
+    "organizationId": "eb8bd57f-ccac-4570-b9c7-3f63523707fc",
+    "owner": "Eigen",
+    "website": "https://eigenlayer.xyz"
+  },
+  "ashby:stork": {
+    "companies": [
+      "Stork Network",
+      "Stork"
+    ],
+    "organizationId": "23944258-e54a-4c4a-a5b9-0516c23fde9c",
+    "owner": "Stork Labs",
+    "website": "https://stork.network"
+  },
+  "ashby:sentient": {
+    "companies": [
+      "Sentient"
+    ],
+    "organizationId": "340fd637-c3e0-4384-86c5-dd0cf3d0ba17",
+    "owner": "Sentient",
+    "website": "https://sentient.foundation"
+  },
+  "ashby:squads": {
+    "companies": [
+      "Squads",
+      "Squads Protocol",
+      "Squads Labs"
+    ],
+    "organizationId": "f78beec5-e51a-416b-93e6-3b4aaec3fa21",
+    "owner": "Squads",
+    "website": "https://squads.xyz"
+  },
+  "ashby:pluralis-research": {
+    "companies": [
+      "Pluralis Research"
+    ],
+    "organizationId": "f081c6d2-03ee-42a3-b5ba-b314d1295a50",
+    "owner": "Pluralis Research",
+    "website": "https://pluralis.ai"
+  },
+  "ashby:codex": {
+    "companies": [
+      "Codex"
+    ],
+    "organizationId": "14a1b5f5-0749-4fe0-adf0-8a59f26ecc3e",
+    "owner": "Codex",
+    "website": "https://codex.xyz"
+  },
+  "ashby:projecteleven": {
+    "companies": [
+      "Project Eleven"
+    ],
+    "organizationId": "70bf7756-1192-4f09-ae62-d12aba6bbc9f",
+    "owner": "Project Eleven",
+    "website": "https://www.projecteleven.com/"
+  },
+  "ashby:batoncorporation": {
+    "companies": [
+      "pump.fun",
+      "Baton Corporation"
+    ],
+    "organizationId": "f32c5fab-3fa1-4967-b014-f6fb23bd9e78",
+    "owner": "Baton Corporation Ltd",
+    "website": "https://pump.fun"
+  },
+  "ashby:coinflow": {
+    "companies": [
+      "Coinflow"
+    ],
+    "organizationId": "6f0abf3e-9935-44e4-beee-17cd6de73299",
+    "owner": "Coinflow",
+    "website": "https://coinflow.cash"
   }
 }
