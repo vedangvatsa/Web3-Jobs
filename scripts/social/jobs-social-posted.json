@@ -126586,6 +126586,38 @@
       "attemptId": "26acf8d2-1821-43a5-b37c-55ec42616ef3",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Tuesday, 10-Nov-26 03:37:20 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AykeKl9U-9TS69Zst89RobA\"}"
+    },
+    {
+      "slug": "pm226",
+      "company": "Bitpanda",
+      "title": "Lead Product Manager, DeFi",
+      "platform": "bluesky",
+      "postedAt": "2026-11-10T11:37:07.225Z",
+      "expectedText": "Bitpanda is hiring Lead Product Manager, DeFi: https://hashtagweb3.com/pm226/bsky?og=7",
+      "snapshot": {
+        "id": "5027200101",
+        "title": "Lead Product Manager, DeFi",
+        "company": "Bitpanda",
+        "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5027200101",
+        "date": "2026-11-04T06:42:47-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bitpanda [bitpanda]",
+        "location": "Berlin, Germany",
+        "department": "Product & Design",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm226"
+      },
+      "payload": {
+        "text": "Bitpanda is hiring Lead Product Manager, DeFi: https://hashtagweb3.com/pm226/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/pm226/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/pm226.png?v=7",
+        "company": "Bitpanda",
+        "title": "Lead Product Manager, DeFi",
+        "description": "Join Bitpanda as Lead Product Manager, DeFi. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "e2c446b0-d7c7-47cf-8013-0d28631bc1c0",
+      "verification": "creating"
     }
   ]
 }
