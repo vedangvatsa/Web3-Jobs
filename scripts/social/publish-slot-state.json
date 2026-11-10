@@ -858,10 +858,12 @@
           "nearlaunder",
           "simdnonces"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-11-10T04:09:05.644Z",
         "buildId": "daily-20261110-42741807049-1",
-        "rolloutId": "daily-20261110-42741807049-1"
+        "rolloutId": "daily-20261110-42741807049-1",
+        "buildState": "READY",
+        "observedAt": "2026-11-10T04:29:45.754Z"
       }
     ]
   }
