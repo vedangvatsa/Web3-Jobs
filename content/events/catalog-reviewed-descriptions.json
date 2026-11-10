@@ -1062,18 +1062,18 @@
     }
   },
   "premier-breakpoint-2026": {
-    "description": "Solana Breakpoint runs from November 15 to 17, 2026, at Olympia Convention Centre in London. The announced Token Supercycle theme covers stablecoins, tokenized assets, payments and AI-driven economic activity moving onchain. The audience includes financial institutions, technology companies, investors, policymakers and Solana builders.\n\nThe current speaker list includes Anatoly Yakovenko of Solana Labs, Kash Dhanda of Jupiter, Alexandra Lang of Zelle, Andrew Price of xStocks and Payward, and Annabel Spring of Allfunds. General-admission, developer and student tickets have separate categories on the official registration page.\n\nSolana Hacker House London runs earlier, from November 1 to 12, and has its own registration. The Breakpoint site's Abu Dhabi recap describes the 2025 edition.",
+    "description": "Solana Breakpoint 2026 is the premier annual conference for the Solana ecosystem, taking place from November 15 to 17, 2026, at Olympia London. Held in the United Kingdom for the first time, Breakpoint brings together more than 8,000 developers, founders, institutional investors, and policymakers representing over 100 countries.\n\nThe conference theme, Token Supercycle, centers on the accelerating convergence of traditional finance and high-performance decentralized networks. Key discussion tracks focus on institutional-grade stablecoins, real-world asset (RWA) tokenization, high-throughput payments, capital markets infrastructure, and sovereign AI-driven economic agents executing transactions onchain.\n\nHeadlining the speaker roster are prominent public leaders and global industry executives, including former UK Prime Minister Boris Johnson, former Chancellor of the Exchequer Sajid Javid, Revolut Chair Martin Gilbert, Standard Life Chair Sir Nicholas Lyons, ICE Clear Europe President Hester Serafini, Lord Vaizey, Solana Labs Co-Founder Anatoly Yakovenko, and Solana Foundation President Lily Liu. They are joined by Balaji Srinivasan (Network State), Raoul Pal (Real Vision), Annabel Spring (CEO, Allfunds), Anthony Soohoo (CEO, MoneyGram), and Peter Moore. Official registration offers dedicated tracks for general attendees, developers, and students, surrounded by dozens of community gatherings and side events across London.",
     "descriptionSource": {
       "url": "https://solana.com/breakpoint",
-      "fetchedAt": "2026-10-14T11:50:15.399Z",
+      "fetchedAt": "2026-11-10T16:13:50.523Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Solana Breakpoint 2026",
-      "sha256": "f6651973098c76198cd50e66faa14a3184d0ca572e5c24ba55e487fb301effd0",
+      "pageTitle": "Breakpoint 2026 — Solana's flagship conference in London",
+      "sha256": "22b481d7f6580a703dbcc3379d80fe131f34f39ff0de3496427d8351a42e59a5",
       "evidence": [
         {
           "url": "https://solana.com/breakpoint",
-          "fetchedAt": "2026-10-14T11:50:15.399Z",
-          "sha256": "f15c585bc157bf975200f48896871c9a185fe64e6af2f7b38e4c1fa2b68c9b80"
+          "fetchedAt": "2026-11-10T16:13:50.523Z",
+          "sha256": "22b481d7f6580a703dbcc3379d80fe131f34f39ff0de3496427d8351a42e59a5"
         }
       ]
     }

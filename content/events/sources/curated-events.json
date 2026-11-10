@@ -502,7 +502,7 @@
     "id": "premier-breakpoint-2026",
     "slug": "solana-breakpoint",
     "name": "Solana Breakpoint 2026",
-    "description": "Solana Breakpoint 2026 is the premier annual conference for the Solana ecosystem, taking place from November 15 to 17, 2026, at Olympia London. Held in the United Kingdom for the first time, Breakpoint brings together more than 8,000 developers, founders, institutional investors, and policymakers representing over 100 countries.\n\nThe conference theme, Token Supercycle, centers on the accelerating convergence of traditional finance and high-performance decentralized networks. Key discussion tracks focus on institutional-grade stablecoins, real-world asset (RWA) tokenization, high-throughput payments, capital markets infrastructure, and sovereign AI-driven economic agents executing transactions onchain.\n\nHeadlining the speaker roster are prominent public leaders and global industry executives, including former UK Prime Minister Boris Johnson, former Chancellor of the Exchequer Sajid Javid, Revolut Chair Martin Gilbert, Solana Labs Co-Founder Anatoly Yakovenko, and Solana Foundation President Lily Liu. They are joined by Balaji Srinivasan (Network State), Raoul Pal (Real Vision), Annabel Spring (CEO, Allfunds), Anthony Soohoo (CEO, MoneyGram), and Peter Moore (Wisla Krakow FC). Official registration offers dedicated tracks for general attendees, developers, and students, surrounded by dozens of community gatherings and side events across London.",
+    "description": "Solana Breakpoint 2026 is the premier annual conference for the Solana ecosystem, taking place from November 15 to 17, 2026, at Olympia London. Held in the United Kingdom for the first time, Breakpoint brings together more than 8,000 developers, founders, institutional investors, and policymakers representing over 100 countries.\n\nThe conference theme, Token Supercycle, centers on the accelerating convergence of traditional finance and high-performance decentralized networks. Key discussion tracks focus on institutional-grade stablecoins, real-world asset (RWA) tokenization, high-throughput payments, capital markets infrastructure, and sovereign AI-driven economic agents executing transactions onchain.\n\nHeadlining the speaker roster are prominent public leaders and global industry executives, including former UK Prime Minister Boris Johnson, former Chancellor of the Exchequer Sajid Javid, Revolut Chair Martin Gilbert, Standard Life Chair Sir Nicholas Lyons, ICE Clear Europe President Hester Serafini, Lord Vaizey, Solana Labs Co-Founder Anatoly Yakovenko, and Solana Foundation President Lily Liu. They are joined by Balaji Srinivasan (Network State), Raoul Pal (Real Vision), Annabel Spring (CEO, Allfunds), Anthony Soohoo (CEO, MoneyGram), and Peter Moore. Official registration offers dedicated tracks for general attendees, developers, and students, surrounded by dozens of community gatherings and side events across London.",
     "startDate": "2026-11-15T09:00:00+00:00",
     "endDate": "2026-11-17T18:00:00+00:00",
     "city": "London",
@@ -521,6 +521,10 @@
       "Boris Johnson",
       "Sajid Javid",
       "Martin Gilbert",
+      "Sir Nicholas Lyons",
+      "Hester Serafini",
+      "Patrick Witt",
+      "Lord Vaizey",
       "Anatoly Yakovenko",
       "Lily Liu",
       "Balaji Srinivasan",
@@ -545,6 +549,26 @@
         "name": "Martin Gilbert",
         "organization": "Revolut",
         "title": "Chair"
+      },
+      {
+        "name": "Sir Nicholas Lyons",
+        "organization": "Phoenix Group / Standard Life",
+        "title": "Chair, 694th Lord Mayor of London"
+      },
+      {
+        "name": "Hester Serafini",
+        "organization": "ICE Clear Europe",
+        "title": "President & COO"
+      },
+      {
+        "name": "Patrick Witt",
+        "organization": "United Kingdom",
+        "title": "Chief of Staff to Boris Johnson / Political Strategist"
+      },
+      {
+        "name": "Lord Vaizey",
+        "organization": "House of Lords",
+        "title": "Member of the House of Lords / Former Minister for Culture and the Digital Economy"
       },
       {
         "name": "Anatoly Yakovenko",
@@ -592,7 +616,7 @@
       "fetchedAt": "2026-11-10T16:13:50.523Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Breakpoint 2026 — Solana's flagship conference in London",
-      "sha256": "7ffce55f8492583a8ee66a9accae820dde2df34f54e379e275c43b59c75f0022"
+      "sha256": "22b481d7f6580a703dbcc3379d80fe131f34f39ff0de3496427d8351a42e59a5"
     },
     "streetAddress": "Hammersmith Rd",
     "postalCode": "W14 8UX"

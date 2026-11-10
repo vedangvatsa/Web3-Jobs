@@ -70,7 +70,7 @@ Each entry links to its formatted description and original source file. All stor
 | [Africa Stablecoin Summit 2026](descriptions.md#event-0570634dd5627598) | 2026-11-12 | Source-backed (826 chars) |
 | [Singapore Blockchain Week 2026](descriptions.md#event-47d1cfc8b0a73aa5) | 2026-11-13 | Source-backed (846 chars) |
 | [India Blockchain & AI Tour 2026 — Delhi](descriptions.md#event-8fe9ccd4dc1d03e5) | 2026-11-14 | Source-backed (2864 chars) |
-| [Solana Breakpoint 2026](descriptions.md#event-4cc24c090b901afc) | 2026-11-15 | Source-backed (794 chars) |
+| [Solana Breakpoint 2026](descriptions.md#event-4cc24c090b901afc) | 2026-11-15 | Source-backed (1443 chars) |
 | [India Blockchain & AI Tour 2026 — Jaipur](descriptions.md#event-73315e351d01a40a) | 2026-11-15 | Source-backed (2826 chars) |
 | [ETHWomen Florida](descriptions.md#event-f94e6ef13e1c7201) | 2026-11-17 | Source-backed (740 chars) |
 | [North American Blockchain Summit 2026](descriptions.md#event-ed9a908c0ce606a6) | 2026-11-18 | Source-backed (842 chars) |

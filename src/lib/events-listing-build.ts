@@ -269,6 +269,17 @@ function getReadableLegacyEventSlug(event: Web3Event): string {
 function linkSideEventParents(event: Web3Event): Web3Event {
   const sideEventFor = new Set(event.sideEventFor || []);
 
+  if (event.id === 'premier-breakpoint-2026' || event.slug === 'solana-breakpoint') {
+    sideEventFor.delete('breakpoint');
+    sideEventFor.delete('solana-breakpoint');
+    return { ...event, sideEventFor: sideEventFor.size ? [...sideEventFor] : undefined };
+  }
+  if (event.id === 'luma-crypto-N7aIok5arp1ECB9') {
+    sideEventFor.delete('breakpoint');
+    sideEventFor.delete('solana-breakpoint');
+    sideEventFor.add('token2049');
+  }
+
   if (event.token2049SideEvent) sideEventFor.add('token2049');
   if (event.id.startsWith('kbw-luma-') || event.id.startsWith('kbw-')) sideEventFor.add('kbw');
   if (event.id.startsWith('luma-crypto-') && event.sideEventFor?.length) {
@@ -279,6 +290,37 @@ function linkSideEventParents(event: Web3Event): Web3Event {
     else if (event.startDate < '2026-11-07') sideEventFor.add('devcon');
   }
   if (event.id === 'side-monad-builder-lounge-breakpoint-2026') sideEventFor.add('breakpoint');
+
+  const text = `${event.name} ${event.description || ''} ${event.slug || ''}`.toLowerCase();
+  const city = (event.city || '').toLowerCase();
+  const loc = (event.location || '').toLowerCase();
+  const isLondon = city.includes('london') || loc.includes('london') || city.includes('shepherd') || loc.includes('shepherd');
+  const start = event.startDate || '';
+
+  if (isLondon && start >= '2026-11-01' && start <= '2026-11-20') {
+    if (
+      /\b(breakpoint|bp26)\b/i.test(text) ||
+      /\b(solana|superteam|monkedao|colosseum|meteora|metaplex|bonk|sanctum|helius)\b/i.test(text) ||
+      event.name.includes('Fish & Ships: A Jupiter') ||
+      event.name.includes('200ms') ||
+      event.name.includes('BlockZero 2026') ||
+      event.name.includes('House of Sol') ||
+      event.name.includes('BEYOND THE FRAME: An Immersive Art Activation by Render Network x Solana') ||
+      event.name.includes('Head Down 5K × Solana') ||
+      event.name.includes('CodeCup: AI x Solana') ||
+      event.name.includes('Zebu Live Arms') ||
+      event.name.includes('SWC | Debanking Roundtable at Zebu Live Arms') ||
+      event.name.includes('Golden Hour | Kem') ||
+      event.name.includes('Unofficial Official After Party to Breakpoint') ||
+      event.name.includes('Housewarming! A Breakpoint Closing Party') ||
+      event.name.includes('W3 Playbook Podcast Launch Party') ||
+      event.name.includes('Blockchain.com: TYB Party')
+    ) {
+      sideEventFor.add('breakpoint');
+      sideEventFor.add('solana-breakpoint');
+    }
+  }
+
   if (sideEventFor.has('breakpoint')) sideEventFor.add('solana-breakpoint');
   if (sideEventFor.has('solana-breakpoint')) sideEventFor.add('breakpoint');
 

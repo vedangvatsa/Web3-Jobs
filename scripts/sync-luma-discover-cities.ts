@@ -340,9 +340,9 @@ function inferSideEvents(event: LumaApiEvent): string[] | undefined {
   if (/kbw|korea blockchain week/i.test(text) || (city.includes('seoul') && start >= '2026-09-21' && start <= '2026-09-28')) side.push('kbw');
   if (/ibw|india blockchain week/i.test(text) || (city.includes('mumbai') && start >= '2026-11-01' && start <= '2026-11-08')) side.push('ibw');
   if (/devcon|ethglobal mumbai/i.test(text)) side.push('devcon');
-  if (/token2049|breakpoint/i.test(text)) {
-    if (/singapore/i.test(event.geo_address_info?.country || '')) side.push('token2049');
-    if (/abu dhabi|dubai|uae/i.test(`${event.geo_address_info?.country || ''} ${city}`)) side.push('breakpoint');
+  if (/token2049/i.test(text)) side.push('token2049');
+  if ((/breakpoint|bp26/i.test(text) || /solana/i.test(text)) && (city.includes('london') || /united kingdom|uk|gb/i.test(event.geo_address_info?.country || '')) && start >= '2026-11-01' && start <= '2026-11-20') {
+    side.push('breakpoint', 'solana-breakpoint');
   }
   return side.length ? [...new Set(side)] : undefined;
 }

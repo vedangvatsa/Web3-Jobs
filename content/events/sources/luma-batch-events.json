@@ -1462,7 +1462,11 @@
       "fetchedAt": "2026-09-22T11:31:03.000Z",
       "method": "luma-page",
       "apifyRunId": "WHcLsVUsFvlHmcVYz"
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-batch-tb3bhmuaB0JH86P",
@@ -1492,7 +1496,11 @@
       "fetchedAt": "2026-09-22T11:31:03.000Z",
       "method": "luma-page",
       "apifyRunId": "WHcLsVUsFvlHmcVYz"
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-batch-evt8RezKQUn6TrHC",

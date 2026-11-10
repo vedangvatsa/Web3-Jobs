@@ -1506,11 +1506,13 @@ As Seen On
 
 ### About the event
 
-Solana Breakpoint runs from November 15 to 17, 2026, at Olympia Convention Centre in London. The announced Token Supercycle theme covers stablecoins, tokenized assets, payments and AI-driven economic activity moving onchain. The audience includes financial institutions, technology companies, investors, policymakers and Solana builders.
+Solana Breakpoint 2026 is the premier annual conference for the Solana ecosystem, taking place from November 15 to 17, 2026, at Olympia London. Held in the United Kingdom for the first time, Breakpoint brings together more than 8,000 developers, founders, institutional investors, and policymakers representing over 100 countries.
 
-The current speaker list includes Anatoly Yakovenko of Solana Labs, Kash Dhanda of Jupiter, Alexandra Lang of Zelle, Andrew Price of xStocks and Payward, and Annabel Spring of Allfunds. General-admission, developer and student tickets have separate categories on the official registration page.
+The conference theme, Token Supercycle, centers on the accelerating convergence of traditional finance and high-performance decentralized networks. Key discussion tracks focus on institutional-grade stablecoins, real-world asset (RWA) tokenization, high-throughput payments, capital markets infrastructure, and sovereign AI-driven economic agents executing transactions onchain.
 
-Solana Hacker House London runs earlier, from November 1 to 12, and has its own registration. The Breakpoint site's Abu Dhabi recap describes the 2025 edition.
+Headlining the speaker roster are prominent public leaders and global industry executives, including former UK Prime Minister Boris Johnson, former Chancellor of the Exchequer Sajid Javid, Revolut Chair Martin Gilbert, Standard Life Chair Sir Nicholas Lyons, ICE Clear Europe President Hester Serafini, Lord Vaizey, Solana Labs Co-Founder Anatoly Yakovenko, and Solana Foundation President Lily Liu. They are joined by Balaji Srinivasan (Network State), Raoul Pal (Real Vision), Annabel Spring (CEO, Allfunds), Anthony Soohoo (CEO, MoneyGram), and Peter Moore.
+
+Official registration offers dedicated tracks for general attendees, developers, and students, surrounded by dozens of community gatherings and side events across London.
 
 <a id="event-73315e351d01a40a"></a>
 

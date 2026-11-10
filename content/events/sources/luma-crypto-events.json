@@ -817,7 +817,11 @@
       "fetchedAt": "2026-09-19T23:49:12.417Z",
       "method": "luma-api",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-VaPweR6JCw17XGa",
@@ -968,7 +972,11 @@
       "url": "https://luma.com/build-for-breakpoint-yc-application-reviews-9569a1",
       "fetchedAt": "2026-10-30T21:50:03.980Z",
       "method": "luma-page"
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-PM9nDu0lcrCpfon",
@@ -1659,7 +1667,11 @@
       "url": "https://luma.com/build-for-breakpoint-the-last-mile",
       "fetchedAt": "2026-10-30T21:50:20.614Z",
       "method": "luma-page"
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-T2tQkKnZEqXWxYO",
@@ -1886,7 +1898,11 @@
       "fetchedAt": "2026-10-30T21:50:25.979Z",
       "method": "luma-page",
       "sha256": "7595b0ffeaa5d9ad1d7de6cbc9335ba241b36a9cb02e6f03df253e8373f9a1a6"
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-oh0AOKJnVNaqZP3",
@@ -3101,7 +3117,11 @@
     "coordinates": {
       "latitude": 51.4996033,
       "longitude": -0.1794334
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-xtQtanDrfpFm7DN",
@@ -3743,7 +3763,11 @@
     "registrationAvailability": "waitlist",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-zIedZfmBWwr9E70",
@@ -4383,7 +4407,11 @@
     "registrationAvailability": "open",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-MmhGsDUQyu8iHkD",
@@ -4864,7 +4892,11 @@
     "registrationAvailability": "open",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-UcrQeIj5OxTAKI0",
@@ -4903,7 +4935,11 @@
     "registrationAvailability": "open",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-o9kzF8kx051PHBu",
@@ -4944,7 +4980,11 @@
     "registrationAvailability": "waitlist",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-AoiUwT63QQkPBHm",
@@ -4992,7 +5032,11 @@
     "registrationAvailability": "open",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-ChSpumLSlWNAR5Y",
@@ -5078,7 +5122,11 @@
     "registrationAvailability": "open",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-H9zNVfo86pX53Ue",
@@ -5127,7 +5175,11 @@
     "coordinates": {
       "latitude": 51.496434799999996,
       "longitude": -0.2103687
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-GrtC9TUcGYFirbV",
@@ -5180,7 +5232,11 @@
     "coordinates": {
       "latitude": 51.496434799999996,
       "longitude": -0.2103687
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-5f8DApeYV9EOQrM",
@@ -5200,7 +5256,11 @@
       "url": "https://luma.com/sfzfreestyle1",
       "fetchedAt": "2026-10-30T21:50:30.862Z",
       "method": "luma-page"
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-wn8SyNyFo4vuzqM",
@@ -5238,7 +5298,11 @@
     "registrationAvailability": "open",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-7zyBUy3BQiZJk2X",
@@ -5277,7 +5341,11 @@
     "registrationAvailability": "open",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-4fE3TpP7GyPkzWU",
@@ -5316,7 +5384,11 @@
     "registrationAvailability": "waitlist",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-s03JHXNdmZERJSy",
@@ -5361,7 +5433,11 @@
     "registrationAvailability": "open",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-hXFJAwhWGjDusCS",
@@ -5381,7 +5457,11 @@
       "url": "https://luma.com/3n5hl4c7",
       "fetchedAt": "2026-10-30T21:50:31.530Z",
       "method": "luma-page"
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-zofPb94imH95qhz",
@@ -5470,7 +5550,11 @@
     "registrationAvailability": "open",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-ClcU6QY4XgmdYq5",
@@ -5560,7 +5644,11 @@
     "registrationAvailability": "open",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-29QrT9f31XVpCC5",
@@ -5683,7 +5771,11 @@
       "url": "https://luma.com/kzh1qgwg",
       "fetchedAt": "2026-10-30T21:50:32.610Z",
       "method": "luma-page"
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-C2fgopLuR1HroT9",
@@ -5739,7 +5831,11 @@
     "coordinates": {
       "latitude": 51.5028855,
       "longitude": -0.2239376
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-24qRIAjKeWdqvBj",
@@ -5799,7 +5895,11 @@
       "url": "https://luma.com/sfzfreestyle2",
       "fetchedAt": "2026-10-30T21:50:33.499Z",
       "method": "luma-page"
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-N3VlwqkgeWkkeCW",
@@ -5843,7 +5943,11 @@
     "registrationAvailability": "open",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-4aQg4F5ApsIZFHS",
@@ -5908,7 +6012,11 @@
     "coordinates": {
       "latitude": 51.496807700000005,
       "longitude": -0.2096142
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-vQ25oxgh4RE9jQv",
@@ -5953,7 +6061,11 @@
     "registrationAvailability": "open",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-H8OTGctV3QNO5Pt",
@@ -6004,7 +6116,11 @@
     "coordinates": {
       "latitude": 51.4936094,
       "longitude": -0.21532859999999998
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-QRCPU4eBHlR2IuK",
@@ -6024,7 +6140,11 @@
       "url": "https://luma.com/xykfcf1a",
       "fetchedAt": "2026-10-30T21:50:34.436Z",
       "method": "luma-page"
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-BGT9gY5YpWMP3IL",
@@ -6113,7 +6233,11 @@
     "coordinates": {
       "latitude": 51.497262299999996,
       "longitude": -0.22296429999999998
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-LG3nKRAZG1cOiNT",
@@ -6353,7 +6477,11 @@
     "coordinates": {
       "latitude": 51.4808533,
       "longitude": -0.1444914
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-omFX3gMHWVKnFST",
@@ -6809,7 +6937,11 @@
     "registrationAvailability": "open",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-ywJNHtTPDBosiH6",
@@ -6853,7 +6985,11 @@
     "registrationAvailability": "open",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-hj7ObeemnBUZFgQ",
@@ -6874,7 +7010,11 @@
       "fetchedAt": "2026-10-30T21:50:35.092Z",
       "method": "luma-page",
       "sha256": "28b8be9ee97f799aacd1e1e28a359d6f57cc5b953b96577335bac2fe6112401a"
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-1yFFRNxP28wg7wF",
@@ -6895,7 +7035,11 @@
       "fetchedAt": "2026-10-30T21:50:35.934Z",
       "method": "luma-page",
       "sha256": "928001914f8f48394a7222179175683fc5ff7fbaffffdf9978b40b50a1954c76"
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-0adDopwALbOiBo9",
@@ -6942,7 +7086,11 @@
     "coordinates": {
       "latitude": 51.519508099999996,
       "longitude": -0.1826304
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-y71DMSAe6j0A8KV",
@@ -6989,7 +7137,11 @@
     "coordinates": {
       "latitude": 51.5055232,
       "longitude": -0.12427389999999998
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-6FkiGAAyZz7ddTQ",
@@ -7054,7 +7206,11 @@
       "url": "https://luma.com/blockc-eg04",
       "fetchedAt": "2026-10-30T21:50:36.865Z",
       "method": "luma-page"
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-1hPbHvNfLcCGlpn",
@@ -8019,7 +8175,11 @@
     "registrationAvailability": "open",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-crypto-u6pVAEl2xw4XEpN",
@@ -11892,7 +12052,7 @@
     "coverImage": "/events/luma-crypto-n7aiok5arp1ecb9-d4460c4e.webp",
     "source": "luma-crypto",
     "sideEventFor": [
-      "breakpoint"
+      "token2049"
     ],
     "descriptionSource": {
       "url": "https://luma.com/5rcaej1m",

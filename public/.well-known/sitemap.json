@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-11-10T23:12:43.478Z",
+  "generatedAt": "2026-11-10T23:39:55.900Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 3982,
+  "count": 3980,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -17194,12 +17194,6 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/scrypt-pri",
-      "lastmod": "2026-11-10",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
       "url": "https://hashtagweb3.com/scrypt-x-t",
       "lastmod": "2026-11-12",
       "changefreq": "weekly",
@@ -21846,12 +21840,6 @@
     {
       "url": "https://hashtagweb3.com/violet",
       "lastmod": "2026-10-14",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/vip-cockta",
-      "lastmod": "2026-11-10",
       "changefreq": "weekly",
       "priority": 0.6
     },
