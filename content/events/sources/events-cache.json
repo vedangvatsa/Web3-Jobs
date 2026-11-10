@@ -2012,20 +2012,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-evt-lNOycglex3J90Uz",
-    "name": "ATX DAO Presents: Proof of Fright - October Spooktacular Meetup",
-    "description": "",
-    "startDate": "2026-10-10T23:00:00.000Z",
-    "endDate": "2026-10-11T01:00:00.000Z",
-    "city": "Austin",
-    "country": "United States",
-    "location": "Austin, United States",
-    "url": "https://lu.ma/sg0teaxw",
-    "coverImage": "/events/luma-evt-lnoycglex3j90uz-ca1ea362.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "mu-313075800",
     "name": "Understanding the EU Blockchain Regulatory Framework",
     "description": "***\\*Note: To facilitate the discussion, I encourage participants to read all sources provided under the Resource section. The session will be recorded and posted to the GB&TS Website for members who ",
@@ -3849,7 +3835,7 @@
     "country": "Netherlands",
     "location": "Amsterdam, Netherlands",
     "url": "https://dutchblockchainweek.com/",
-    "coverImage": "/events/ma-dutch-blockchain-week-2027-1ab72e9e.webp",
+    "coverImage": null,
     "source": "marketacross",
     "month": "May 2027",
     "descriptionSource": {
@@ -4240,7 +4226,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://webx-asia.com/",
-    "coverImage": "/events/ma-webx-2027-86bdb833.webp",
+    "coverImage": null,
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -4473,7 +4459,7 @@
     "country": "UAE",
     "location": "Abu Dhabi, UAE",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
+    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
     "source": "marketacross",
     "month": "December 2027"
   },
@@ -8400,7 +8386,10 @@
     "url": "https://www.meetup.com/lfdt-phoenix/events/316802761/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "w3v-btc-balkans-2026",
@@ -13649,7 +13638,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-denver/events/317156401/",
-    "coverImage": "/events/mu-317156401-27111040.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -14701,13 +14690,13 @@
     "id": "luma-evt-DSmVp2B2E7Pwilu",
     "name": "StrongHER — Women's Strength Training",
     "description": "",
-    "startDate": "2026-11-09T23:00:00.000Z",
+    "startDate": "2026-11-11T23:00:00.000Z",
     "endDate": "2026-12-03T00:30:00.000Z",
     "city": "North Brunswick Township",
     "country": "United States",
     "location": "North Brunswick Township, United States",
     "url": "https://lu.ma/orrtdrhz",
-    "coverImage": "/events/luma-evt-dsmvp2b2e7pwilu-5b7bb00c.webp",
+    "coverImage": "/events/luma-evt-dsmvp2b2e7pwilu-1321540d.webp",
     "source": "luma",
     "month": "November 2026"
   },
@@ -15635,7 +15624,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/the-denver-real-estate-meetup/events/317207775/",
-    "coverImage": "/events/mu-317207775-42d56170.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -15649,7 +15638,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-denver/events/317065061/",
-    "coverImage": "/events/mu-317065061-bac75bc3.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -18342,7 +18331,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15201-midnight-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ebs5pom08ao9z5aarl2qqbi1m3nn?response-content-disposition=inline%3B%20filename%3D%22MidnightNov.jpg%22%3B%20filename%2A%3DUTF-8%27%27MidnightNov.jpg&amp;response-content-type=image%2Fjpeg&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261109%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261109T200247Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=d883a61567384f44ed6650e2d20076b8cc90b160297605887956756f337d7add",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ebs5pom08ao9z5aarl2qqbi1m3nn?response-content-disposition=inline%3B%20filename%3D%22MidnightNov.jpg%22%3B%20filename%2A%3DUTF-8%27%27MidnightNov.jpg&amp;response-content-type=image%2Fjpeg&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261110%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261110T022145Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=73d86bbe83193b1188c65bc7b3653c501a3e6100e1f730e7f31874b02bcf08fe",
     "month": "November 2026"
   },
   {
@@ -18635,7 +18624,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/northwest-artificial-general-intelligence-meetup-group/events/317138651/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317138651-2e7ab276.webp",
     "source": "meetup",
     "month": "November 2026"
   },

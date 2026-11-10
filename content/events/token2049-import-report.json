@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-09T20:01:53.807Z",
+  "checkedAt": "2026-11-10T02:20:43.393Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -11,7 +11,7 @@
   },
   "counts": {
     "existing": 14,
-    "excluded": 16,
+    "excluded": 13,
     "needs-review": 2
   },
   "importedTotal": 21,
@@ -185,39 +185,6 @@
     {
       "url": "https://singaporegp.sg/en",
       "name": "F1 Practice and Sprint Qualifying",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/nt0j0ptg",
-      "name": "Padel Hangout by Arc Trading",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/20ybvogw",
-      "name": "Ethene Labs Presents: Live F1 Singapore Grand Prix Party",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/tbe-zoth-f1",
-      "name": "The Invite",
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",

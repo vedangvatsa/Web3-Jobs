@@ -15077,154 +15077,6 @@ Datas do programa: 28 de setembro a 10 de outubro de 2026
 
 Local: Solana House, São Paulo
 
-<a id="event-01ae1ea112735ed1"></a>
-
-## the/Garage Cohort 2 \| Coworking
-
-- Record: `luma-batch-evtIa1Unvu1MHvxE`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-28T14:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/the-garage2>
-
-### About the event
-
-the/Garage Cohort 2 | Coworking
-
-Build. Test. Pitch. Repeat.
-
-Algumas das maiores startups do mundo nasceram em uma garagem. A próxima pode começar aqui.
-
-De 28 de setembro a 10 de outubro de 2026, a Solana House recebe o the/Garage Brazil, Cohort 2: duas semanas de construção intensiva para os melhores times que querem transformar uma ideia ou protótipo em um produto competitivo para o Hackathon Global do Colosseum, onde as equipes podem desenvolver soluções para qualquer blockchain.
-
-O foco desta edição é simples: mais tempo construindo, mais feedback direto e mais apoio individual para cada projeto.
-
-Quem constrói com a gente, capta
-
-Times brasileiros que passaram pelos nossos programas e hackathons já captaram mais de R$ 15 milhões nas últimas edições:
-
-Cloak: time formado só por universitários, ficou em 3º lugar na competição global e levou um cheque de R$ 1,5 milhão da aceleradora do Colosseum. Se formaram em dezembro já com dinheiro para tocar a própria empresa;
-
-Bido: dois amigos de vinte e poucos anos que chegaram sem ideia, participaram de todas as mentorias, pivotaram e captaram uma rodada de R$ 10 milhões depois de entrar em uma das melhores incubadoras do Vale do Silício;
-
-Stealth: foi aceito na AllianceDAO, a melhor aceleradora cripto do mundo, e vai levantar US$ 1 milhão.
-
-O que está em jogo
-
-Nesta edição são mais de US$ 800 mil em prêmios e mais de US$ 3 milhões em investimento, incluindo pelo menos 10 cheques de US$ 250 mil da aceleradora do Colosseum.
-
-São 8 trilhas, uma por rede, mais os prêmios gerais:
-
-Solana, Tempo, Hyperliquid e Zcash: US$ 100 mil entre os 10 melhores de cada rede;
-
-Ethereum, Base, Arbitrum e Robinhood Chain: US$ 25 mil entre os 5 melhores de cada rede;
-
-Prêmios gerais: US$ 30 mil para o campeão, US$ 15 mil para cada um dos 20 times de destaque, além de prêmios de bem público e universitário.
-
-Uma única submissão concorre à trilha da sua rede e aos prêmios gerais ao mesmo tempo. O the/Garage existe para colocar o seu time nessa disputa.
-
-Como será o programa
-
-Durante as duas semanas, os participantes terão acesso a:
-
-Coworking presencial na Solana House;
-
-Café da manhã e almoço inclusos durante a semana;
-
-Mentorias 1:1 com builders, founders e especialistas;
-
-Pitch roasts diários para melhorar narrativa, clareza e apresentação;
-
-Feedback contínuo sobre produto, tecnologia, growth e go-to-market;
-
-Três a quatro workshops práticos por semana;
-
-Conexões com outros times e com a comunidade Solana no Brasil;
-
-Apoio na preparação de uma submissão de qualidade para o Colosseum.
-
-Dinâmica do programa
-
-A maior parte do tempo será dedicada à construção e evolução dos projetos. A programação será organizada em quatro pilares:
-
-Build: tempo focado para desenvolver, testar e melhorar o produto;
-
-Mentorias 1:1: conversas direcionadas aos desafios de cada time;
-
-Daily Pitch Roast: apresentações rápidas com feedback direto;
-
-Workshops: sessões práticas sobre os principais pontos necessários para uma boa submission.
-
-As mentorias serão agendadas de acordo com o estágio e as necessidades de cada projeto. A agenda completa será compartilhada com os participantes confirmados.
-
-Demo Day: o grande final
-
-https://luma.com/DemoDayTheGarage (link para aplicar)
-
-Para fechar o programa, as melhores equipes vão apresentar seus projetos em um Demo Day para diversos anjos e VCs do Brasil. Duas semanas de construção intensiva, e no final, a chance de pitchar direto para quem investe.
-
-Para quem é
-
-O the/Garage é para:
-
-Desenvolvedores, designers, founders e outros perfis de builders;
-
-Times construindo para o Hackathon Global do Colosseum, em qualquer blockchain;
-
-Pessoas com uma ideia validada ou um projeto em andamento;
-
-Builders que buscam cofounders ou colaboradores;
-
-Participantes dispostos a construir presencialmente e receber feedback constante.
-
-Você não precisa chegar com tudo pronto. Mas precisa estar preparado para construir, iterar e apresentar evolução durante o programa.
-
-Inscrição e acesso: apenas os melhores times
-
-A inscrição neste Luma não garante participação automática.
-
-As vagas são limitadas e a seleção é criteriosa. As aplicações serão analisadas pelo time da Superteam Brasil, e apenas os times com maior potencial serão aprovados. Os selecionados receberão uma confirmação por e-mail com as informações de acesso e a programação.
-
-A seleção considerará:
-
-Perfil e experiência dos participantes;
-
-Qualidade e clareza da ideia;
-
-Potencial de execução;
-
-Comprometimento com o programa;
-
-Interesse em participar do Hackathon Global do Colosseum.
-
-Precisa de hospedagem?
-
-Builders de fora de São Paulo podem solicitar apoio com hospedagem no Luma abaixo caso precisem, vagas extremamente limitadas:
-
-https://luma.com/garage-housing
-
-A solicitação de hospedagem é separada da inscrição para o coworking e está sujeita à disponibilidade.
-
-Prepare-se para construir
-
-Ainda não está registrado no hackathon? Comece por aqui:
-
-https://hackathon.superteam.com.br
-
-Grupo do WhatsApp:
-
-https://chat.whatsapp.com/BVXYPlcB9R853QnvgzpCRT
-
-Todos os links:
-
-https://links.superteam.com.br/
-
-Datas: 28 de setembro a 10 de outubro de 2026
-
-Local: Solana House
-
-Se você leva construir a sério, sua garagem começa aqui.
-
 <a id="event-2d38c87c66e938fb"></a>
 
 ## Token 2049 x GP Singapore
@@ -15372,178 +15224,6 @@ Inspired by the Seven Bridges of Königsberg, where applied STEM skills proved a
 Königsberger Bridges Institute Hong Kong is the Hong Kong chapter of KBI. We bring KBI's global mission into the local ecosystem by creating programmes, partnerships, and events that connect students with educators, researchers, companies, founders, and emerging-technology communities across Hong Kong and beyond.
 
 Through ETO Eastern, KBI Hong Kong is building a platform where students can showcase what they have built, learn from experts, meet collaborators, and take part in conversations about the future of technology.
-
-<a id="event-1b4c4a18a4196279"></a>
-
-## Decentralized AI Day New York - #AIWeekNY
-
-- Record: `luma-batch-uaILCmDGiulcbgK`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-10T13:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/e38g271w>
-
-### About the event
-
-Call for Presentations
-
-Want to share something interesting with the decentralized AI community? We're looking for people to give technical talks or run hands-on workshops.
-
-Submitting a proposal should take around 5 minutes. Apply using this form, where you'll also find more information about what we're looking for, presentation formats, and submission guidelines.
-
-Submission deadline: 2 Oct 2026. Applications are reviewed on a rolling basis, and we aim to respond within 2 days of your submission.
-
-Latest Update - Confirmed Speakers
-
-We're bringing together builders and long-time contributors from the Numerai and decentralized AI ecosystems for a mix of talks, a workshop, and a special community panel.
-
-Featured speakers:
-
-Jason - Co-Founder & CEO, CrowdCent
-
-Nick - Co-Founder & CEO, Allora Labs
-
-Matteo - Co-Founder & CEO, Orion Finance
-
-The Numerai "Out of Sample" Special Panel
-
-A discussion and AMA-style panel featuring guests from the Out of Sample interview series. All panelists are active participants and contributors to the Numerai ecosystem. The session will be moderated by a member of the Council of Elders.
-
-Ling (see episode 1)
-
-Tim (aka jefferythewind) (see episode 2)
-
-ShatteredX (see episode 3)
-
-Jason (see episode 4)
-
-More speakers and session details coming soon.
-
-### About Decentralized AI Days ℹ
-
-Decentralized AI Days are community-driven events exploring how open, decentralized AI and Web3 can work together in practice. We bring together engineers, researchers, and builders for a day of technical talks, hands-on workshops, and honest conversation - no hype, no sales pitches, and no pay-to-play.
-
-The ecosystem we care about includes projects such as Numerai and CrowdCent. The door is open to anyone building with or curious about decentralized AI. Come for the substance, stay for the community.
-
-Important Note
-
-This is an in-person-only event; there will be no livestream.
-
-For security reasons, we must provide a guest list to the security team at least 24 hours before the event. You must provide your FULL NAME when registering for this event. If you prefer not to display your full name publicly, please provide it in the final registration question instead. Your full name will be shared only with the security team.
-
-This event is part of #AIWeekNY by Pulse NYC - a community-led festival celebrating innovation across the AI ecosystem. More at https://pulse.nyc/ai-week/
-
-Provisional Agenda
-
-0900-1000: Doors Open & Breakfast Buffet
-
-1000-1030: Welcoming Remarks (Joe Chow, Numerai CoE)
-
-1030-1300: Tech Talks (inc. Coffee Breaks )
-
-1300-1400: Lunch Buffet
-
-1400-1800: Tech Talks / Workshops (inc. Coffee Breaks )
-
-1800-2100: Pizza & Networking Mixer
-
-More details will be announced soon!
-
-### What to Expect
-
-Connect with a friendly community of AI and Web3 builders, researchers, and curious minds.
-
-Enjoy zero-hype technical talks focused on real problems and practical insights.
-
-Take part in hands-on workshops where you can learn by building.
-
-Watch live demos of decentralized AI and related projects.
-
-Meet the organizers and share your questions and feedback directly.
-
-Explore community resources and connect over food.
-
-### Who Should Attend
-
-Decentralized AI Days are for everyone curious about where AI and decentralized systems meet: AI/ML engineers, Web3 developers, researchers, students, and builders at any experience level. If you are new to the space, you are welcome; if you have been building for years, you will find your people here. Come ready to learn, share, and connect.
-
-The Venue
-
-Register to see the address. Here are some photos of the venue:
-
-Main Room
-
-Floor Plan
-
-### Sponsors
-
-DeAI Day is a community event series sponsored by Numerai and the Numerai Council of Elders. Complimentary refreshments will be provided throughout the day. Come early and grab some cool swags!
-
-Code of Conduct
-
-All attendees, speakers, sponsors, and volunteers must agree to the following Code of Conduct. Event organizers will enforce these guidelines throughout the event. We expect full cooperation from everyone to help ensure a welcoming and safe environment for all participants.
-
-Our event is committed to providing an inclusive and harassment-free experience for everyone, regardless of gender, gender identity or expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology preferences.
-
-Harassment in any form will not be tolerated. Sexually explicit language or imagery is inappropriate for any part of the event, including talks, workshops, social activities, or online platforms. Participants who violate these rules may be warned or expelled from the event at the discretion of the organizers.
-
-### Past Events
-
-Materials from past Decentralized AI Days live in the community meetups repository.
-
-See the buzz! Unforgettable moments from our past events
-
-We have also hosted similar events under a different name (Numerai Community Meetup) from 2022 to 2024:
-
-London (July 2022)
-
-New York (September 2022)
-
-Tokyo (April 2023)
-
-Prague (July 2023)
-
-Toronto (October 2023)
-
-San Francisco (January 2024)
-
-Frankfurt (April 2024)
-
-Tokyo (July 2024)
-
-Bangkok (November 2024)
-
-Finally, here's one meme to sum up the vibe.
-
-See you in October!
-
-<a id="event-2f6187b3f4bf24be"></a>
-
-## Final Office Hours Before the Deadline
-
-- Record: `luma-batch-o5zAFWhqOEDAlNO`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-10T23:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/superteam-v4td>
-
-### About the event
-
-The last support window before submissions close.
-
-The deadline is tomorrow. This is the last scheduled support before it.
-
-Open drop-in for the first hour: bring anything that's still broken, unclear or unfinished. Member support slots run in the second hour for teams that want a final one-to-one review.
-
-If you're close but not certain you'll make it, come to this. A lot of projects that don't get submitted were finishable - they just ran out of people to ask.
-
-Who it's for: Anyone submitting tomorrow.
-
-You'll leave with: Whatever's left, sorted.
-
-Free and open. Drop in any time in the two hours.
-
-https://au.superteam.fun/colosseum for more information
 
 <a id="event-d29dbbbc55329b3c"></a>
 
@@ -19674,18 +19354,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-06T10:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/StplBuildStation>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-5d17d8c3d7fa0af5"></a>
-
-## ATX DAO Presents: Proof of Fright - October Spooktacular Meetup
-
-- Record: `luma-evt-lNOycglex3J90Uz`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-10T23:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/sg0teaxw>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -29005,18 +28673,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-4277bc1b8e3fb648"></a>
-
-## StrongHER — Women's Strength Training
-
-- Record: `luma-evt-DSmVp2B2E7Pwilu`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-09T23:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/orrtdrhz>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-1e9de612b619c516"></a>
 
 ## Bluechip26: The Crypto Safety Conference
@@ -29688,6 +29344,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-11T22:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/jmkr3u6m>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-4277bc1b8e3fb648"></a>
+
+## StrongHER — Women's Strength Training
+
+- Record: `luma-evt-DSmVp2B2E7Pwilu`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-11T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/orrtdrhz>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

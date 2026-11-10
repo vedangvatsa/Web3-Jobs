@@ -1,54 +1,5 @@
 [
   {
-    "id": "luma-batch-uaILCmDGiulcbgK",
-    "slug": "e38g271w",
-    "name": "Decentralized AI Day New York - #AIWeekNY",
-    "description": "📢 Call for Presentations\n\nWant to share something interesting with the decentralized AI community? We’re looking for people to give technical talks or run hands-on workshops.\n\nSubmitting a proposal should take around 5 minutes. Apply using this form, where you’ll also find more information about what we’re looking for, presentation formats, and submission guidelines.\n\nSubmission deadline: 2 Oct 2026. Applications are reviewed on a rolling basis, and we aim to respond within 2 days of your submission.\n\nLatest Update — Confirmed Speakers 🔔\n\nWe’re bringing together builders and long-time contributors from the Numerai and decentralized AI ecosystems for a mix of talks, a workshop, and a special community panel.\n\nFeatured speakers:\n\nJason — Co-Founder & CEO, CrowdCent\n\nNick — Co-Founder & CEO, Allora Labs\n\nMatteo — Co-Founder & CEO, Orion Finance\n\nThe Numerai \"Out of Sample\" Special Panel 💬\n\nA discussion and AMA-style panel featuring guests from the Out of Sample interview series. All panelists are active participants and contributors to the Numerai ecosystem. The session will be moderated by a member of the Council of Elders.\n\nLing (see episode 1)\n\nTim (aka jefferythewind) (see episode 2)\n\nShatteredX (see episode 3)\n\nJason (see episode 4)\n\nMore speakers and session details coming soon.\n\nAbout Decentralized AI Days ℹ️\n\nDecentralized AI Days are community-driven events exploring how open, decentralized AI and Web3 can work together in practice. We bring together engineers, researchers, and builders for a day of technical talks, hands-on workshops, and honest conversation - no hype, no sales pitches, and no pay-to-play.\n\nThe ecosystem we care about includes projects such as Numerai and CrowdCent. The door is open to anyone building with or curious about decentralized AI. Come for the substance, stay for the community.\n\nImportant Note ⚠️\n\nThis is an in-person-only event; there will be no livestream.\n\nFor security reasons, we must provide a guest list to the security team at least 24 hours before the event. You must provide your ⚠️ FULL NAME ⚠️ when registering for this event. If you prefer not to display your full name publicly, please provide it in the final registration question instead. Your full name will be shared only with the security team.\n\nThis event is part of #AIWeekNY by Pulse NYC — a community-led festival celebrating innovation across the AI ecosystem. More at https://pulse.nyc/ai-week/\n\nProvisional Agenda 📋\n\n0900-1000: Doors Open & Breakfast Buffet\n\n1000-1030: Welcoming Remarks (Joe Chow, Numerai CoE)\n\n1030-1300: Tech Talks (inc. Coffee Breaks ☕)\n\n1300-1400: Lunch Buffet 🍲\n\n1400-1800: Tech Talks / Workshops (inc. Coffee Breaks ☕)\n\n1800-2100: Pizza 🍕 & Networking Mixer\n\nMore details will be announced soon!\n\nWhat to Expect ❓\n\n🤝 Connect with a friendly community of AI and Web3 builders, researchers, and curious minds.\n\n🎙️ Enjoy zero-hype technical talks focused on real problems and practical insights.\n\n🛠️ Take part in hands-on workshops where you can learn by building.\n\n👀 Watch live demos of decentralized AI and related projects.\n\n🗣️ Meet the organizers and share your questions and feedback directly.\n\n📚 Explore community resources and connect over food.\n\nWho Should Attend 🤗\n\nDecentralized AI Days are for everyone curious about where AI and decentralized systems meet: AI/ML engineers, Web3 developers, researchers, students, and builders at any experience level. If you are new to the space, you are welcome; if you have been building for years, you will find your people here. Come ready to learn, share, and connect.\n\nThe Venue 🏢\n\nRegister to see the address. Here are some photos of the venue:\n\nMain Room\n\nFloor Plan\n\nSponsors 🙌\n\nDeAI Day is a community event series sponsored by Numerai and the Numerai Council of Elders. Complimentary refreshments will be provided throughout the day. Come early and grab some cool swags!\n\nCode of Conduct 📜\n\nAll attendees, speakers, sponsors, and volunteers must agree to the following Code of Conduct. Event organizers will enforce these guidelines throughout the event. We expect full cooperation from everyone to help ensure a welcoming and safe environment for all participants.\n\nOur event is committed to providing an inclusive and harassment-free experience for everyone, regardless of gender, gender identity or expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology preferences.\n\nHarassment in any form will not be tolerated. Sexually explicit language or imagery is inappropriate for any part of the event, including talks, workshops, social activities, or online platforms. Participants who violate these rules may be warned or expelled from the event at the discretion of the organizers.\n\nPast Events 📸\n\nMaterials from past Decentralized AI Days live in the community meetups repository.\n\nSee the buzz! Unforgettable moments from our past events 👇\n\nWe have also hosted similar events under a different name (Numerai Community Meetup) from 2022 to 2024:\n\nLondon (July 2022)\n\nNew York (September 2022)\n\nTokyo (April 2023)\n\nPrague (July 2023)\n\nToronto (October 2023)\n\nSan Francisco (January 2024)\n\nFrankfurt (April 2024)\n\nTokyo (July 2024)\n\nBangkok (November 2024)\n\nFinally, here’s one meme to sum up the vibe.\n\nSee you in October!",
-    "startDate": "2026-10-10T13:00:00.000Z",
-    "endDate": "2026-10-11T01:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "Manhattan, New York, New York, United States",
-    "url": "https://luma.com/e38g271w",
-    "registrationUrl": "https://luma.com/e38g271w",
-    "coverImage": "/events/luma-batch-uaILCmDGiulcbgK-59c434eb.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Jo-fai Chow"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/New_York",
-    "neighborhood": "Manhattan",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "New York",
-    "addressRegion": "New York",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "Jo-fai Chow",
-      "url": "https://luma.com/user/jofaichow"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/e38g271w",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/e38g271w",
-      "eventId": "evt-uaILCmDGiulcbgK",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-xFFX1w014DYQNxw",
     "slug": "grdkh8vt",
     "name": "Meow + Legion: Private Founder Poker Night",
@@ -1208,34 +1159,6 @@
     "sourceVerification": {
       "url": "https://luma.com/wpfunpri",
       "eventId": "calev-F8zatkGwjYGzv3V",
-      "fetchedAt": "2026-09-22T11:31:03.000Z",
-      "method": "luma-page",
-      "apifyRunId": "WHcLsVUsFvlHmcVYz"
-    }
-  },
-  {
-    "id": "luma-batch-o5zAFWhqOEDAlNO",
-    "slug": "superteam-v4td",
-    "name": "Final Office Hours Before the Deadline",
-    "description": "The last support window before submissions close.\n\nThe deadline is tomorrow. This is the last scheduled support before it.\n\nOpen drop-in for the first hour: bring anything that's still broken, unclear or unfinished. Member support slots run in the second hour for teams that want a final one-to-one review.\n\nIf you're close but not certain you'll make it, come to this. A lot of projects that don't get submitted were finishable — they just ran out of people to ask.\n\nWho it's for: Anyone submitting tomorrow.\n\nYou'll leave with: Whatever's left, sorted.\n\nFree and open. Drop in any time in the two hours.\n\nhttps://au.superteam.fun/colosseum for more information",
-    "startDate": "2026-10-10T23:00:00.000Z",
-    "endDate": "2026-10-11T01:00:00.000Z",
-    "url": "https://luma.com/superteam-v4td",
-    "registrationUrl": "https://luma.com/superteam-v4td",
-    "coverImage": "/events/luma-batch-o5zAFWhqOEDAlNO-fcebb705.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Darren R",
-      "Superteam Australia"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "Australia/Sydney",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "sourceVerification": {
-      "url": "https://luma.com/superteam-v4td",
-      "eventId": "calev-o5zAFWhqOEDAlNO",
       "fetchedAt": "2026-09-22T11:31:03.000Z",
       "method": "luma-page",
       "apifyRunId": "WHcLsVUsFvlHmcVYz"
@@ -2628,36 +2551,6 @@
     "sourceVerification": {
       "url": "https://luma.com/ixuz80ix",
       "eventId": "evt-qENOlRruCijmfe6",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtIa1Unvu1MHvxE",
-    "slug": "the-garage2",
-    "name": "the/Garage Cohort 2 | Coworking",
-    "description": "the/Garage Cohort 2 | Coworking\n\nBuild. Test. Pitch. Repeat.\n\nAlgumas das maiores startups do mundo nasceram em uma garagem. A próxima pode começar aqui.\n\nDe 28 de setembro a 10 de outubro de 2026, a Solana House recebe o the/Garage Brazil, Cohort 2: duas semanas de construção intensiva para os melhores times que querem transformar uma ideia ou protótipo em um produto competitivo para o Hackathon Global do Colosseum, onde as equipes podem desenvolver soluções para qualquer blockchain.\n\nO foco desta edição é simples: mais tempo construindo, mais feedback direto e mais apoio individual para cada projeto.\n\nQuem constrói com a gente, capta\n\nTimes brasileiros que passaram pelos nossos programas e hackathons já captaram mais de R$ 15 milhões nas últimas edições:\n\nCloak: time formado só por universitários, ficou em 3º lugar na competição global e levou um cheque de R$ 1,5 milhão da aceleradora do Colosseum. Se formaram em dezembro já com dinheiro para tocar a própria empresa;\n\nBido: dois amigos de vinte e poucos anos que chegaram sem ideia, participaram de todas as mentorias, pivotaram e captaram uma rodada de R$ 10 milhões depois de entrar em uma das melhores incubadoras do Vale do Silício;\n\nStealth: foi aceito na AllianceDAO, a melhor aceleradora cripto do mundo, e vai levantar US$ 1 milhão.\n\nO que está em jogo\n\nNesta edição são mais de US$ 800 mil em prêmios e mais de US$ 3 milhões em investimento, incluindo pelo menos 10 cheques de US$ 250 mil da aceleradora do Colosseum.\n\nSão 8 trilhas, uma por rede, mais os prêmios gerais:\n\nSolana, Tempo, Hyperliquid e Zcash: US$ 100 mil entre os 10 melhores de cada rede;\n\nEthereum, Base, Arbitrum e Robinhood Chain: US$ 25 mil entre os 5 melhores de cada rede;\n\nPrêmios gerais: US$ 30 mil para o campeão, US$ 15 mil para cada um dos 20 times de destaque, além de prêmios de bem público e universitário.\n\nUma única submissão concorre à trilha da sua rede e aos prêmios gerais ao mesmo tempo. O the/Garage existe para colocar o seu time nessa disputa.\n\nComo será o programa\n\nDurante as duas semanas, os participantes terão acesso a:\n\nCoworking presencial na Solana House;\n\nCafé da manhã e almoço inclusos durante a semana;\n\nMentorias 1:1 com builders, founders e especialistas;\n\nPitch roasts diários para melhorar narrativa, clareza e apresentação;\n\nFeedback contínuo sobre produto, tecnologia, growth e go-to-market;\n\nTrês a quatro workshops práticos por semana;\n\nConexões com outros times e com a comunidade Solana no Brasil;\n\nApoio na preparação de uma submissão de qualidade para o Colosseum.\n\nDinâmica do programa\n\nA maior parte do tempo será dedicada à construção e evolução dos projetos. A programação será organizada em quatro pilares:\n\nBuild: tempo focado para desenvolver, testar e melhorar o produto;\n\nMentorias 1:1: conversas direcionadas aos desafios de cada time;\n\nDaily Pitch Roast: apresentações rápidas com feedback direto;\n\nWorkshops: sessões práticas sobre os principais pontos necessários para uma boa submission.\n\nAs mentorias serão agendadas de acordo com o estágio e as necessidades de cada projeto. A agenda completa será compartilhada com os participantes confirmados.\n\nDemo Day: o grande final\n\nhttps://luma.com/DemoDayTheGarage (link para aplicar)\n\nPara fechar o programa, as melhores equipes vão apresentar seus projetos em um Demo Day para diversos anjos e VCs do Brasil. Duas semanas de construção intensiva, e no final, a chance de pitchar direto para quem investe.\n\nPara quem é\n\nO the/Garage é para:\n\nDesenvolvedores, designers, founders e outros perfis de builders;\n\nTimes construindo para o Hackathon Global do Colosseum, em qualquer blockchain;\n\nPessoas com uma ideia validada ou um projeto em andamento;\n\nBuilders que buscam cofounders ou colaboradores;\n\nParticipantes dispostos a construir presencialmente e receber feedback constante.\n\nVocê não precisa chegar com tudo pronto. Mas precisa estar preparado para construir, iterar e apresentar evolução durante o programa.\n\nInscrição e acesso: apenas os melhores times\n\n⚠️ A inscrição neste Luma não garante participação automática.\n\nAs vagas são limitadas e a seleção é criteriosa. As aplicações serão analisadas pelo time da Superteam Brasil, e apenas os times com maior potencial serão aprovados. Os selecionados receberão uma confirmação por e-mail com as informações de acesso e a programação.\n\nA seleção considerará:\n\nPerfil e experiência dos participantes;\n\nQualidade e clareza da ideia;\n\nPotencial de execução;\n\nComprometimento com o programa;\n\nInteresse em participar do Hackathon Global do Colosseum.\n\nPrecisa de hospedagem?\n\nBuilders de fora de São Paulo podem solicitar apoio com hospedagem no Luma abaixo caso precisem, vagas extremamente limitadas:\n\nhttps://luma.com/garage-housing\n\nA solicitação de hospedagem é separada da inscrição para o coworking e está sujeita à disponibilidade.\n\nPrepare-se para construir\n\nAinda não está registrado no hackathon? Comece por aqui:\nhttps://hackathon.superteam.com.br\n\nGrupo do WhatsApp:\nhttps://chat.whatsapp.com/BVXYPlcB9R853QnvgzpCRT\n\nTodos os links:\nhttps://links.superteam.com.br/\n\nDatas: 28 de setembro a 10 de outubro de 2026\nLocal: Solana House\n\nSe você leva construir a sério, sua garagem começa aqui.",
-    "startDate": "2026-09-28T14:00:00.000Z",
-    "endDate": "2026-10-10T22:30:00.000Z",
-    "city": "São Paulo",
-    "country": "Brazil",
-    "location": "São Paulo, São Paulo, Brazil",
-    "url": "https://luma.com/the-garage2",
-    "registrationUrl": "https://luma.com/the-garage2",
-    "coverImage": "/events/luma-batch-evtIa1Unvu1MHvxE-677d19db.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Brasil"
-    ],
-    "price": "Free",
-    "timezone": "America/Sao_Paulo",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "hackathon",
-    "sourceVerification": {
-      "url": "https://luma.com/the-garage2",
-      "eventId": "evt-Ia1Unvu1MHvxEHE",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
