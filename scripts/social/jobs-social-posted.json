@@ -125807,7 +125807,8 @@
       },
       "account": "profile",
       "attemptId": "1380b774-539b-45ac-b21a-f9ec927b6317",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x3681c99f8abc9c5abae4a451cb5082a921e5504b"
     }
   ]
 }
