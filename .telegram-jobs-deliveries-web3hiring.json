@@ -17565,5 +17565,123 @@
     "slotKey": "2026-11-10:evening",
     "messageId": 16629,
     "sentAt": "2026-11-10T19:33:03.848Z"
+  },
+  "5661a262-30cf-4028-8405-911482638e01": {
+    "status": "reserved",
+    "reservedAt": "2026-11-10T19:33:05.840Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8074884",
+          "title": "Manager, Global BPO Management",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8074884?t=gh_src=&gh_jid=8074884",
+          "date": "2026-11-04T15:34:12-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Chicago, IL; Denver, CO; Westlake, TX",
+          "department": "Customer Care",
+          "active": true,
+          "salary": "$153k – $180k/yr",
+          "dateVerified": true,
+          "slug": "mgr233"
+        },
+        "key": "8074884",
+        "slug": "mgr233",
+        "url": "https://hashtagweb3.com/mgr233?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Manager, Global BPO Management"
+      },
+      {
+        "snapshot": {
+          "id": "ad8bb2ef-9c8a-4379-829a-47143257a23b",
+          "title": "Manager, Fraud Operations",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/ad8bb2ef-9c8a-4379-829a-47143257a23b",
+          "date": "2026-11-04T19:40:52.071+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Risk",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops146"
+        },
+        "key": "ad8bb2ef-9c8a-4379-829a-47143257a23b",
+        "slug": "ops146",
+        "url": "https://hashtagweb3.com/ops146?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Manager, Fraud Operations"
+      },
+      {
+        "snapshot": {
+          "id": "c6c2f6d4-0d22-454a-89e1-df4b399bc4fd",
+          "title": "Senior AML Investigator",
+          "company": "Polymarket",
+          "link": "https://jobs.ashbyhq.com/polymarket/c6c2f6d4-0d22-454a-89e1-df4b399bc4fd",
+          "date": "2026-10-28T15:55:39.679+00:00",
+          "source": "Ashby: Polymarket [Polymarket]",
+          "location": "Hybrid (New York)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Exchange",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ai"
+        },
+        "key": "c6c2f6d4-0d22-454a-89e1-df4b399bc4fd",
+        "slug": "ai",
+        "url": "https://hashtagweb3.com/ai?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Polymarket",
+        "title": "Senior AML Investigator"
+      },
+      {
+        "snapshot": {
+          "id": "4750517005",
+          "title": "Senior Talent Partner",
+          "company": "Shakepay",
+          "link": "https://job-boards.greenhouse.io/shakepay/jobs/4750517005",
+          "date": "2026-11-03T10:39:45-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Shakepay [shakepay]",
+          "location": "Remote, Canada",
+          "department": "People and Culture",
+          "active": true,
+          "salary": "$120k – $155k/yr",
+          "dateVerified": true,
+          "slug": "rec53"
+        },
+        "key": "4750517005",
+        "slug": "rec53",
+        "url": "https://hashtagweb3.com/rec53?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Shakepay",
+        "title": "Senior Talent Partner"
+      },
+      {
+        "snapshot": {
+          "id": "91b36021-5089-465e-8bda-3d6aa7aa2cba",
+          "title": "Senior Strategic Account Manager, GTM",
+          "company": "Chainlink Labs",
+          "link": "https://jobs.ashbyhq.com/chainlink-labs/91b36021-5089-465e-8bda-3d6aa7aa2cba",
+          "date": "2026-10-27",
+          "dateVerified": true,
+          "source": "Ashby: Chainlink Labs [chainlink-labs]",
+          "location": "Remote (United States)",
+          "workplaceType": "Remote",
+          "department": "GTM",
+          "active": true,
+          "slug": "sls348"
+        },
+        "key": "91b36021-5089-465e-8bda-3d6aa7aa2cba",
+        "slug": "sls348",
+        "url": "https://hashtagweb3.com/sls348?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Chainlink Labs",
+        "title": "Senior Strategic Account Manager"
+      }
+    ],
+    "message": "- Robinhood is hiring <a href=\"https://hashtagweb3.com/mgr233?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Global BPO Management</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/ops146?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Fraud Operations</a>\n- Polymarket is hiring <a href=\"https://hashtagweb3.com/ai?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior AML Investigator</a>\n- Shakepay is hiring <a href=\"https://hashtagweb3.com/rec53?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Talent Partner</a>\n- Chainlink Labs is hiring <a href=\"https://hashtagweb3.com/sls348?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Strategic Account Manager, GTM</a>",
+    "slotKey": "2026-11-10:evening"
   }
 }
