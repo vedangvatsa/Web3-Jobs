@@ -126557,6 +126557,34 @@
       "verification": "pending",
       "postId": "6af301e6cbbac94e1ea30a12",
       "error": "Buffer X publish failed for 6af301e6cbbac94e1ea30a12: This post contains a URL that X believes to be invalid. Please check the URL and try again."
+    },
+    {
+      "slug": "pm226",
+      "company": "Bitpanda",
+      "title": "Lead Product Manager, DeFi",
+      "platform": "threads",
+      "postedAt": "2026-11-10T11:37:07.225Z",
+      "expectedText": "Bitpanda is hiring Lead Product Manager, DeFi: https://hashtagweb3.com/pm226/th?og=7",
+      "snapshot": {
+        "id": "5027200101",
+        "title": "Lead Product Manager, DeFi",
+        "company": "Bitpanda",
+        "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5027200101",
+        "date": "2026-11-04T06:42:47-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bitpanda [bitpanda]",
+        "location": "Berlin, Germany",
+        "department": "Product & Design",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm226"
+      },
+      "payload": {
+        "text": "Bitpanda is hiring Lead Product Manager, DeFi: https://hashtagweb3.com/pm226/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/pm226/th?og=7"
+      },
+      "attemptId": "26acf8d2-1821-43a5-b37c-55ec42616ef3",
+      "verification": "creating"
     }
   ]
 }
