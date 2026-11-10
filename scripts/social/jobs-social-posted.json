@@ -125742,6 +125742,38 @@
       "attemptId": "be1791e0-4db5-4138-8d5a-b662af96b038",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Tuesday, 10-Nov-26 03:33:38 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AKKAGGQSZjQ28VfwqXrOhhN\"}"
+    },
+    {
+      "slug": "pm232",
+      "company": "Bybit",
+      "title": "Risk Control Principal Product Specialist",
+      "platform": "bluesky",
+      "postedAt": "2026-11-10T11:32:32.190Z",
+      "expectedText": "Bybit is hiring Risk Control Principal Product Specialist: https://hashtagweb3.com/pm232/bsky?og=7",
+      "snapshot": {
+        "id": "5011003101",
+        "title": "Risk Control Principal Product Specialist",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5011003101",
+        "date": "2026-11-05T14:15:29-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "Abu Dhabi, UAE",
+        "department": "Fiat Team",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm232"
+      },
+      "payload": {
+        "text": "Bybit is hiring Risk Control Principal Product Specialist: https://hashtagweb3.com/pm232/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/pm232/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/pm232.png?v=7",
+        "company": "Bybit",
+        "title": "Risk Control Principal Product Specialist",
+        "description": "Join Bybit as Risk Control Principal Product Spe. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "dbdaa3d0-88e7-4da7-ae86-a23409cc4335",
+      "verification": "creating"
     }
   ]
 }
