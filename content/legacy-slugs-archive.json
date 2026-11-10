@@ -155151,5 +155151,246 @@
     "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4943346101",
     "title": "Senior Data Engineer",
     "company": "Bybit"
+  },
+  "sls456": {
+    "id": "9c249990-643c-4793-9917-cb5ca3be2883",
+    "link": "https://jobs.ripio.com/jobs/8560977-vp-of-global-business-development",
+    "company": "Ripio",
+    "title": "VP of Global Business Development",
+    "newSlug": "sls462"
+  },
+  "mgr240": {
+    "id": "349",
+    "link": "https://fasset.bamboohr.com/careers/349",
+    "company": "Fasset",
+    "title": "CRM and Lifecycle Manager",
+    "newSlug": "mgr245"
+  },
+  "an130": {
+    "id": "350",
+    "link": "https://fasset.bamboohr.com/careers/350",
+    "company": "Fasset",
+    "title": "Customer Support Analyst",
+    "newSlug": "an131"
+  },
+  "eng703": {
+    "id": "e652e1b6-174d-4f25-b925-123d724ec7d4",
+    "link": "https://jobs.ashbyhq.com/chainalysis-government-solutions/e652e1b6-174d-4f25-b925-123d724ec7d4",
+    "company": "Chainalysis",
+    "title": "Staff Engineer, Public Sector (FedRAMP)"
+  },
+  "tr139": {
+    "id": "8346831",
+    "link": "https://stripe.com/jobs/search?gh_jid=8346831",
+    "company": "Stripe",
+    "title": "Data Scientist, FX Quantitative Research"
+  },
+  "tr138": {
+    "id": "8346778",
+    "link": "https://stripe.com/jobs/search?gh_jid=8346778",
+    "company": "Stripe",
+    "title": "Data Scientist, FX Quantitative Research"
+  },
+  "be101": {
+    "id": "5024897101",
+    "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5024897101",
+    "company": "BVNK",
+    "title": "Senior Software Engineer (Backend) – Issuance"
+  },
+  "dev39": {
+    "id": "8336514",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8336514",
+    "company": "DRW",
+    "title": "Global Delta1 - Software Developer"
+  },
+  "an118": {
+    "id": "8288652",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8288652",
+    "company": "Flow Traders",
+    "title": "Business Analyst"
+  },
+  "psc6": {
+    "id": "8328965",
+    "link": "https://ripple.com/careers/all-jobs/job/8328965?gh_jid=8328965",
+    "company": "Ripple",
+    "title": "Professional Services Consultant"
+  },
+  "psc5": {
+    "id": "8328953",
+    "link": "https://ripple.com/careers/all-jobs/job/8328953?gh_jid=8328953",
+    "company": "Ripple",
+    "title": "Professional Services Consultant"
+  },
+  "tr132": {
+    "id": "8176707",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8176707",
+    "company": "Flow Traders",
+    "title": "Digital Assets Options Trader"
+  },
+  "eng646": {
+    "id": "06cfb856-184b-47ef-baa9-f26364e9e706",
+    "link": "https://jobs.ashbyhq.com/polygon-labs/06cfb856-184b-47ef-baa9-f26364e9e706",
+    "company": "Polygon Labs",
+    "title": "Technical Solutions Engineer"
+  },
+  "sls334": {
+    "id": "5444049008",
+    "link": "http://block.xyz/careers/jobs/5444049008?gh_jid=5444049008",
+    "company": "Block",
+    "title": "Territory Account Executive, Manhattan Beach"
+  },
+  "mgr199": {
+    "id": "5460527008",
+    "link": "https://job-boards.greenhouse.io/mesh/jobs/5460527008",
+    "company": "Mesh",
+    "title": "Senior Manager, FinOps, RevOps & Finance Systems"
+  },
+  "sls392": {
+    "id": "6b32c57b-0476-41ad-8ef2-66887704cacd",
+    "link": "https://talent.superteam.fun/jobs/head-of-business-development-at-very-ai-6b32c57b-0476-41ad-8ef2-66887704cacd",
+    "company": "Very AI",
+    "title": "Head of Business Development"
+  },
+  "sls316": {
+    "id": "d7c72ca6-922b-4353-a754-261dd2afc28f",
+    "link": "https://jobs.lever.co/swissborg/d7c72ca6-922b-4353-a754-261dd2afc28f",
+    "company": "SwissBorg",
+    "title": "Accountant"
+  },
+  "aso62": {
+    "id": "8205083",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8205083?t=gh_src=&gh_jid=8205083",
+    "company": "Robinhood",
+    "title": "Government Affairs Associate"
+  },
+  "dsci2": {
+    "id": "7a8a245e-89c5-41c1-8653-185af58d8246",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/7a8a245e-89c5-41c1-8653-185af58d8246",
+    "company": "Chainalysis",
+    "title": "Deployment Strategist - Crypto Investigations"
+  },
+  "mkt103": {
+    "id": "8265686",
+    "link": "https://stripe.com/jobs/search?gh_jid=8265686",
+    "company": "Stripe",
+    "title": "Writer, Content Marketing"
+  },
+  "sls346": {
+    "id": "96638656",
+    "link": "https://jobs.solana.com/companies/hylo-2/jobs/96638656-business-development-lead",
+    "company": "Hylo",
+    "title": "Business Development Lead"
+  },
+  "sls448": {
+    "id": "keka-dcx-146600",
+    "link": "https://dcx.keka.com/careers/jobdetails/146600",
+    "company": "BitOasis",
+    "title": "Institutional Sales",
+    "newSlug": "sls465"
+  },
+  "cmp158": {
+    "id": "6c4683cd-d6e6-4cf6-a021-5db9f3f7f82d",
+    "link": "https://jobs.ashbyhq.com/hifi/6c4683cd-d6e6-4cf6-a021-5db9f3f7f82d",
+    "company": "HIFI",
+    "title": "Compliance Officer",
+    "newSlug": "cmp161"
+  },
+  "eng729": {
+    "id": "202b2b8b-afe5-40b1-9c4b-2817d01419ca",
+    "link": "https://jobs.ashbyhq.com/hifi/202b2b8b-afe5-40b1-9c4b-2817d01419ca",
+    "company": "HIFI",
+    "title": "Software Engineer, Blockchain",
+    "newSlug": "eng749"
+  },
+  "mkt143": {
+    "id": "3d52bffc-749a-4130-b3c8-476c3215743e",
+    "link": "https://jobs.ashbyhq.com/hifi/3d52bffc-749a-4130-b3c8-476c3215743e",
+    "company": "HIFI",
+    "title": "Marketing Lead",
+    "newSlug": "mkt149"
+  },
+  "sls447": {
+    "id": "3e23cea8-0e01-47dc-b662-41745f76fff7",
+    "link": "https://jobs.ashbyhq.com/hifi/3e23cea8-0e01-47dc-b662-41745f76fff7",
+    "company": "HIFI",
+    "title": "Account Executive, Stablecoins",
+    "newSlug": "sls464"
+  },
+  "sec151": {
+    "id": "b87454db-52cb-44a2-931b-cfbd49c80d03",
+    "link": "https://jobs.ashbyhq.com/hifi/b87454db-52cb-44a2-931b-cfbd49c80d03",
+    "company": "HIFI",
+    "title": "Security Software Engineer",
+    "newSlug": "sec159"
+  },
+  "eng728": {
+    "id": "keka-dcx-145832",
+    "link": "https://dcx.keka.com/careers/jobdetails/145832",
+    "company": "BitOasis",
+    "title": "Senior Software Engineer - Android",
+    "newSlug": "eng748"
+  },
+  "aso84": {
+    "id": "14f7af97-540a-4457-9537-d001a645fd9b",
+    "link": "https://jobs.ashbyhq.com/story/14f7af97-540a-4457-9537-d001a645fd9b",
+    "company": "Story Protocol",
+    "title": "Creative Associate, Story + Wizard",
+    "newSlug": "aso87"
+  },
+  "pm378": {
+    "id": "a9ef4783-0da5-45d2-b8e0-bfa10b051c2a",
+    "link": "https://jobs.ashbyhq.com/story/a9ef4783-0da5-45d2-b8e0-bfa10b051c2a",
+    "company": "Story Protocol",
+    "title": "Head of Production",
+    "newSlug": "pm391"
+  },
+  "mgr238": {
+    "id": "349",
+    "link": "https://fasset.bamboohr.com/careers/349",
+    "company": "Fasset",
+    "title": "CRM and Lifecycle Manager",
+    "newSlug": "mgr246"
+  },
+  "ops158": {
+    "id": "ad0650e4-153d-47a5-8d61-b102ef580081",
+    "link": "https://jobs.ashbyhq.com/mantle/ad0650e4-153d-47a5-8d61-b102ef580081",
+    "company": "Mantle Network",
+    "title": "Business Operations Manager",
+    "newSlug": "ops167"
+  },
+  "eng732": {
+    "id": "f86d93b4-26df-4b1e-9840-da69b44fe487",
+    "link": "https://jobs.ashbyhq.com/mantle/f86d93b4-26df-4b1e-9840-da69b44fe487",
+    "company": "Mantle Network",
+    "title": "Software Engineer, Mobile",
+    "newSlug": "eng747"
+  },
+  "eng731": {
+    "id": "bdbdcb02-e246-4a7b-9aec-9ab2405478f1",
+    "link": "https://jobs.ashbyhq.com/mantle/bdbdcb02-e246-4a7b-9aec-9ab2405478f1",
+    "company": "Mantle Network",
+    "title": "Software Engineer, Applied AI",
+    "newSlug": "eng746"
+  },
+  "pm379": {
+    "id": "a82a9801-10d7-406d-8201-7f6f36fcdc5a",
+    "link": "https://jobs.ashbyhq.com/mantle/a82a9801-10d7-406d-8201-7f6f36fcdc5a",
+    "company": "Mantle Network",
+    "title": "Product Manager",
+    "newSlug": "pm390"
+  },
+  "eng730": {
+    "id": "1a79a170-0220-4bf9-a11d-c4213ea81448",
+    "link": "https://jobs.ashbyhq.com/mantle/1a79a170-0220-4bf9-a11d-c4213ea81448",
+    "company": "Mantle Network",
+    "title": "Head of Engineering",
+    "newSlug": "eng745"
+  },
+  "sls450": {
+    "id": "9c249990-643c-4793-9917-cb5ca3be2883",
+    "link": "https://jobs.ripio.com/jobs/8560977-vp-of-global-business-development",
+    "company": "Ripio",
+    "title": "VP of Global Business Development",
+    "newSlug": "sls463"
   }
 }
