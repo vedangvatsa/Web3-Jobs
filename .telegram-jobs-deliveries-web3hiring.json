@@ -17567,7 +17567,7 @@
     "sentAt": "2026-11-10T19:33:03.848Z"
   },
   "5661a262-30cf-4028-8405-911482638e01": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-10T19:33:05.840Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -17682,6 +17682,8 @@
       }
     ],
     "message": "- Robinhood is hiring <a href=\"https://hashtagweb3.com/mgr233?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Global BPO Management</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/ops146?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Fraud Operations</a>\n- Polymarket is hiring <a href=\"https://hashtagweb3.com/ai?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior AML Investigator</a>\n- Shakepay is hiring <a href=\"https://hashtagweb3.com/rec53?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Talent Partner</a>\n- Chainlink Labs is hiring <a href=\"https://hashtagweb3.com/sls348?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Strategic Account Manager, GTM</a>",
-    "slotKey": "2026-11-10:evening"
+    "slotKey": "2026-11-10:evening",
+    "messageId": 184,
+    "sentAt": "2026-11-10T19:33:08.503Z"
   }
 }
