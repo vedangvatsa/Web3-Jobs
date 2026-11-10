@@ -126297,7 +126297,8 @@
       },
       "account": "channel:product",
       "attemptId": "7cdb63da-88ec-4555-abe0-d84926932edd",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xfed61bc476c06fb90d493f9fd05c5be3af77209d"
     }
   ]
 }
