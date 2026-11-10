@@ -19842,11 +19842,7 @@ Confirmed RSVP required to attend.
 
 ### About the event
 
-$1/2 Texas Hold'em with friends of LO:TECH
-
-Buy in: 150-250, can match largest stack 1h into the game.
-
-USDC only
+An informal high-stakes poker night hosted by Laurence Lewars and LO:TECH in London during Breakpoint week. The game features $1/$2 Texas Hold'em with friends of the LO:TECH ecosystem, allowing players to match the largest stack one hour into the game. Buy-in ranges from $150 to $250 in USDC only. Approval is required by the host prior to entry.
 
 <a id="event-e9844bae358e326b"></a>
 
@@ -19860,7 +19856,7 @@ USDC only
 
 ### About the event
 
-An exclusive dinner hosted by Sentora and Huma, bringing together key leaders across onchain finance, RWAs, and payments for an evening of meaningful conversations and networking during DAS London.
+An exclusive dinner hosted by Sentora and Huma in London, bringing together founders, fund managers, and key leaders across onchain finance, real-world assets (RWAs), and decentralized credit protocols. The private table offers an intimate setting for meaningful discussions on capital allocation, institutional adoption, and cross-border settlement during DAS London and Solana Breakpoint week.
 
 <a id="event-36c53ddd706abaed"></a>
 
@@ -20399,7 +20395,7 @@ The exact venue will be shared privately with confirmed guests.
 
 ### About the event
 
-Steak and wine with friends of LO:TECH
+A private dinner hosted by Laurence Lewars and LO:TECH in central London. Bringing together crypto market makers, high-frequency traders, and ecosystem partners for an evening of steak, wine, and candid discussions on liquidity provision, algorithmic trading, and onchain market microstructure during Breakpoint week. Attendance is strictly invite-only with host approval.
 
 <a id="event-e1d6cd39d9f2dd65"></a>
 
@@ -20527,7 +20523,7 @@ For more information, visit https://secure.com
 
 ### About the event
 
-Capital Summit in London connects venture capital, institutional allocators, and digital asset leaders during Breakpoint week. The summit covers crypto fund formation, onchain asset management, macro liquidity, and institutional investment strategies.
+Capital Summit in London brings together venture capitalists, institutional allocators, liquidity providers, and digital asset leaders during Solana Breakpoint week. The summit features executive keynotes and closed-door panels addressing crypto fund formation, onchain asset management, macro liquidity trends, and institutional capital deployment in decentralized networks.
 
 <a id="event-9b735a569731fdbb"></a>
 
@@ -20633,7 +20629,7 @@ Dress code: tennis whites.
 
 ### About the event
 
-Indian food with friends of LO:TECH
+An exclusive Breakpoint week dinner hosted by Laurence Lewars and LO:TECH at Yogi's Kensington (118 Finborough Road, London). The dinner convenes quantitative traders, market makers, and Solana builders for authentic Indian cuisine and informal conversations on decentralized trading, liquidity architecture, and ecosystem growth. Host approval required.
 
 <a id="event-951ddc8173791a8a"></a>
 
@@ -21565,7 +21561,7 @@ Halborn and MERGE invite you to an exclusive executive mixer for leaders driving
 
 ### About the event
 
-Join edgerunners.app (https://edgerunners.app) networking drinks for Solana focused traders and trading infrastructure builders at one of the world's most exclusive private members' clubs
+An exclusive evening of networking drinks hosted by edgerunners.app at Annabel's (46 Berkeley Square, London), one of Mayfair's premier private members' clubs. The event gathers high-volume Solana traders, MEV researchers, and trading infrastructure engineers for cocktails and discussions on algorithmic execution, low-latency RPCs, and DEX liquidity during Breakpoint week. Guest list strictly curated.
 
 <a id="event-37d5ecae13475c8d"></a>
 
@@ -21754,7 +21750,7 @@ Join us for an exclusive networking mixer bringing together the ~40 internationa
 
 ### About the event
 
-$1/2 Holdem with friends of LO:TECH
+A Breakpoint edition poker evening in London hosted by Laurence Lewars and LO:TECH for founders, traders, and crypto market professionals. The casual game features $1/$2 Hold'em with participants from the quantitative trading community, offering informal networking, drinks, and competitive play. RSVP is subject to host confirmation.
 
 <a id="event-02bd422884f88c92"></a>
 
@@ -34110,7 +34106,7 @@ Draper Dragon After Hours: a Breakpoint Day 1 happy hour in London with drinks, 
 
 ### About the event
 
-Forward Industries - Breakpoint Dinner: an invite-only London dinner during Solana Breakpoint hosted by the Forward Industries team.
+An invite-only executive dinner hosted by Forward Industries in London during Solana Breakpoint. The evening convenes treasury managers, institutional capital allocators, and core ecosystem contributors for private dining and strategic conversations on Solana ecosystem development, onchain capital deployment, and corporate digital asset treasuries.
 
 <a id="event-46fa6e3b988db509"></a>
 
@@ -34320,7 +34316,7 @@ Ocelot (https://beta.ocelot.fi): Long and short leveraged tokens for any asset o
 
 ### About the event
 
-FWDI Breakpoint Happy Hour: a London networking event by Solana treasury company Forward Industries during Solana Breakpoint.
+A high-level networking happy hour hosted in London by Forward Industries, a prominent Solana treasury and development organization. The gathering brings together founders, investors, and Web3 builders attending Solana Breakpoint for drinks, informal discussions on treasury management, and collaboration opportunities across the Solana ecosystem.
 
 <a id="event-75bf804e14829596"></a>
 

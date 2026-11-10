@@ -12690,7 +12690,7 @@
   {
     "id": "w3v-forward-industries---breakpoint-dinner",
     "name": "Forward Industries - Breakpoint Dinner",
-    "description": "Forward Industries - Breakpoint Dinner: an invite-only London dinner during Solana Breakpoint hosted by the Forward Industries team.",
+    "description": "An invite-only executive dinner hosted by Forward Industries in London during Solana Breakpoint. The evening convenes treasury managers, institutional capital allocators, and core ecosystem contributors for private dining and strategic conversations on Solana ecosystem development, onchain capital deployment, and corporate digital asset treasuries.",
     "startDate": "2026-11-15T18:00:00.000Z",
     "endDate": "2026-11-15T20:00:00.000Z",
     "city": "London",
@@ -12711,10 +12711,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/cnswgn30",
-      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "fetchedAt": "2026-11-10T13:49:08.863Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Forward Industries - Breakpoint Dinner · Luma",
-      "sha256": "18b7ca83156d139e08b26312eff8bfecb9fe846326271ade67e7c5774ef07537"
+      "pageTitle": "Forward Industries - Breakpoint Dinner · Official",
+      "sha256": "3adec648586cef1022ddb4f07568d1acf86c5f0378913b6eeb04bb161ba59e24"
     }
   },
   {
@@ -12780,7 +12780,7 @@
   {
     "id": "w3v-fwdi-breakpoint-happy-hour",
     "name": "FWDI Breakpoint Happy Hour",
-    "description": "FWDI Breakpoint Happy Hour: a London networking event by Solana treasury company Forward Industries during Solana Breakpoint.",
+    "description": "A high-level networking happy hour hosted in London by Forward Industries, a prominent Solana treasury and development organization. The gathering brings together founders, investors, and Web3 builders attending Solana Breakpoint for drinks, informal discussions on treasury management, and collaboration opportunities across the Solana ecosystem.",
     "startDate": "2026-11-16T15:00:00.000Z",
     "endDate": "2026-11-16T17:00:00.000Z",
     "city": "London",
@@ -12801,10 +12801,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/ti7vdsai",
-      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "fetchedAt": "2026-11-10T13:49:08.864Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "FWDI Breakpoint Happy Hour · Luma",
-      "sha256": "9d6fa8c98b4318a3761c593f555cf4bbe0adaa78a8fc10514661fd2da5116ad2"
+      "pageTitle": "FWDI Breakpoint Happy Hour · Official",
+      "sha256": "9502d0a7b277480459220241418986c96657e189ed9a21ea62446fbdf420a1e1"
     }
   },
   {

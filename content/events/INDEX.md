@@ -676,8 +676,8 @@ Each entry links to its formatted description and original source file. All stor
 | [QFEX Private Dinner \| London](descriptions.md#event-14de4787ce7da25a) | 2026-11-10 | Source-backed (445 chars) |
 | [Blockaid Institutional Dinner (VIP)](descriptions.md#event-ebfb11a59cbb33ba) | 2026-11-10 | Source-backed (618 chars) |
 | [DAS London: Investor Mixer](descriptions.md#event-c1dc7a970dc1038b) | 2026-11-10 | Source-backed (310 chars) |
-| [LO:Limit HOLD'em](descriptions.md#event-defdcb329eff3968) | 2026-11-10 | Source-backed (113 chars) |
-| [The London Private Table by Sentora & Huma](descriptions.md#event-e9844bae358e326b) | 2026-11-10 | Source-backed (197 chars) |
+| [LO:Limit HOLD'em](descriptions.md#event-defdcb329eff3968) | 2026-11-10 | Source-backed (347 chars) |
+| [The London Private Table by Sentora & Huma](descriptions.md#event-e9844bae358e326b) | 2026-11-10 | Source-backed (395 chars) |
 | [VIP Cocktail Night, Hosted by A&M Crypto and Latham & Watkins](descriptions.md#event-36c53ddd706abaed) | 2026-11-10 | Source-backed (2605 chars) |
 | [2026 臺灣週：虛擬資產論壇 Taiwan Weeks: Taiwan Virtual Asset Forum](descriptions.md#event-3528fd71ba9f009f) | 2026-11-11 | Source-backed (1045 chars) |
 | [Cover the Distance 5K \| DAS London 🇬🇧](descriptions.md#event-7c78e2eebca6d52a) | 2026-11-11 | Source-backed (1347 chars) |
@@ -692,15 +692,15 @@ Each entry links to its formatted description and original source file. All stor
 | [React Foundation Meetup: London](descriptions.md#event-d872cabf76f687e2) | 2026-11-11 | Source-backed (1879 chars) |
 | [DAS London VIP & Speaker Dinner](descriptions.md#event-3b0e8c7f06ffe1f6) | 2026-11-11 | Source-backed (422 chars) |
 | [An Evening in London by Areta & HT digital](descriptions.md#event-470749ba1c6aa6d8) | 2026-11-11 | Source-backed (2168 chars) |
-| [LO:CK-IN Dinner](descriptions.md#event-84dd1446387ec465) | 2026-11-11 | Source-backed (38 chars) |
+| [LO:CK-IN Dinner](descriptions.md#event-84dd1446387ec465) | 2026-11-11 | Source-backed (372 chars) |
 | [BTC HK - bitcoin meetup IFC P4 Rooftop Garden(tables outside Shake Shack) walk-in (The 2nd Thursday)](descriptions.md#event-e1d6cd39d9f2dd65) | 2026-11-12 | Source-backed (700 chars) |
 | [Crypto Quant Capital Connect in London](descriptions.md#event-430964bf9104b04a) | 2026-11-12 | Source-backed (1356 chars) |
 | [Securing Finance in the Age of AI](descriptions.md#event-b7ab5f11ec3d696a) | 2026-11-12 | Source-backed (2648 chars) |
-| [Capital Summit London](descriptions.md#event-fc078d1fbddbd605) | 2026-11-13 | Source-backed (251 chars) |
+| [Capital Summit London](descriptions.md#event-fc078d1fbddbd605) | 2026-11-13 | Source-backed (375 chars) |
 | [Stable Summit IV: London](descriptions.md#event-9b735a569731fdbb) | 2026-11-13 | Source-backed (279 chars) |
 | [Co-Working Fridays : London Chapter](descriptions.md#event-51a48439b7a1dbf6) | 2026-11-13 | Source-backed (1464 chars) |
 | [Tennis + Drinks: Investor Edition \| Solana Breakpoint Week](descriptions.md#event-89aaf056240e2a13) | 2026-11-13 | Source-backed (982 chars) |
-| [LO:CK'In Dinner (Break Point Edition)](descriptions.md#event-e103e6c2ba269395) | 2026-11-13 | Source-backed (35 chars) |
+| [LO:CK'In Dinner (Break Point Edition)](descriptions.md#event-e103e6c2ba269395) | 2026-11-13 | Source-backed (354 chars) |
 | [Solana Community Awards 2026](descriptions.md#event-951ddc8173791a8a) | 2026-11-13 | Source-backed (718 chars) |
 | [Confidential Cocktails](descriptions.md#event-3ef0df71566939d8) | 2026-11-13 | Source-backed (341 chars) |
 | [Meow \| Exclusive London Mixer](descriptions.md#event-c07620440e6ec4b2) | 2026-11-13 | Source-backed (539 chars) |
@@ -733,7 +733,7 @@ Each entry links to its formatted description and original source file. All stor
 | [Breakpoint: Day Two Afterparty](descriptions.md#event-39129048c18f41aa) | 2026-11-16 | Source-backed (391 chars) |
 | [Fintech & Data: London Executive Dinner](descriptions.md#event-4c5b69a1c0b2012c) | 2026-11-16 | Source-backed (308 chars) |
 | [Breakpoint Executive Mixer w/ Halborn & MERGE 🍸](descriptions.md#event-e571a0168038410d) | 2026-11-16 | Source-backed (355 chars) |
-| [edgerunners.app networking drinks @ Annabel's](descriptions.md#event-b8135e8320b0ec0b) | 2026-11-16 | Source-backed (187 chars) |
+| [edgerunners.app networking drinks @ Annabel's](descriptions.md#event-b8135e8320b0ec0b) | 2026-11-16 | Source-backed (404 chars) |
 | [Head Down 5K × Solana \| 445 CREW](descriptions.md#event-37d5ecae13475c8d) | 2026-11-17 | Source-backed (339 chars) |
 | [Dev3pack Meetup - The Bridge Accelerator 🇬🇧](descriptions.md#event-d998526b7d4b726d) | 2026-11-17 | Source-backed (423 chars) |
 | [The Huddle: By Invitation Only](descriptions.md#event-e52ddd1c2776ba5d) | 2026-11-17 | Source-backed (1466 chars) |
@@ -743,7 +743,7 @@ Each entry links to its formatted description and original source file. All stor
 | [A GROUP SHOW](descriptions.md#event-d55bb97999ff2b2c) | 2026-11-17 | Source-backed (338 chars) |
 | [Unofficial Official After Party to Breakpoint 2026: The Great British Pub Crawl](descriptions.md#event-be11ede5241d354f) | 2026-11-17 | Source-backed (354 chars) |
 | [StartingPoint: BP Scholar Mixer](descriptions.md#event-3ccb2d9b1cc5eadb) | 2026-11-17 | Source-backed (304 chars) |
-| [LO:LIMIT Hold'em (Break Point Edition)](descriptions.md#event-3eb5dc9a0c02777b) | 2026-11-17 | Source-backed (35 chars) |
+| [LO:LIMIT Hold'em (Break Point Edition)](descriptions.md#event-3eb5dc9a0c02777b) | 2026-11-17 | Source-backed (334 chars) |
 | [fomoworld with franky rizardo](descriptions.md#event-02bd422884f88c92) | 2026-11-17 | Source-backed (351 chars) |
 | [Blockchain Meets AI](descriptions.md#event-2beb0b7fdf99a5bc) | 2026-11-18 | Source-backed (1443 chars) |
 | [Rayls Community Meetup: London](descriptions.md#event-86e691fb2d4b6b7e) | 2026-11-18 | Source-backed (474 chars) |
@@ -1625,7 +1625,7 @@ Each entry links to its formatted description and original source file. All stor
 | [🚀 Breakpoint Trading Battle 🚀](descriptions.md#event-a2038869e9099df8) | 2026-11-15 | Source-backed (1849 chars) |
 | [La Casa de Satoshi cumple 2 años 🎉 \| Lanzamiento oficial del Libro BitcoinCoach](descriptions.md#event-6b1d3cf505490be8) | 2026-11-15 | Missing (0 chars) |
 | [Draper Dragon After Hours \| Breakpoint Day 1](descriptions.md#event-eec8f685558fc642) | 2026-11-15 | Source-backed (132 chars) |
-| [Forward Industries - Breakpoint Dinner](descriptions.md#event-20da4ed9b2e0b15f) | 2026-11-15 | Source-backed (132 chars) |
+| [Forward Industries - Breakpoint Dinner](descriptions.md#event-20da4ed9b2e0b15f) | 2026-11-15 | Source-backed (350 chars) |
 | [Founder x VC Summit \| VIP Dinner \| Breakpoint Week 🇬🇧](descriptions.md#event-46fa6e3b988db509) | 2026-11-15 | Source-backed (917 chars) |
 | [Proof & Pour · London \| A Private Cocktail Evening](descriptions.md#event-dce50f4fede28e25) | 2026-11-15 | Source-backed (1558 chars) |
 | [Squid Dinner · London](descriptions.md#event-1b203ebc89e6d1c3) | 2026-11-15 | Source-backed (1029 chars) |
@@ -1634,7 +1634,7 @@ Each entry links to its formatted description and original source file. All stor
 | [Cộng đồng Web3 Việt Nam \| Quantova QVM TP. Hồ Chí Minh 🇻🇳](descriptions.md#event-535a0ea82c2fbf24) | 2026-11-16 | Missing (0 chars) |
 | [Solana Fitness Zone: Group Boxing \| Breakpoint 2026](descriptions.md#event-44d221a0982df19c) | 2026-11-16 | Source-backed (125 chars) |
 | [Coffee With Alpine](descriptions.md#event-d0e8c1cb8e74bde0) | 2026-11-16 | Source-backed (1297 chars) |
-| [FWDI Breakpoint Happy Hour](descriptions.md#event-a8d5f5007efd5ddd) | 2026-11-16 | Source-backed (125 chars) |
+| [FWDI Breakpoint Happy Hour](descriptions.md#event-a8d5f5007efd5ddd) | 2026-11-16 | Source-backed (347 chars) |
 | [GGC: GMGN Global Championship - London Finals](descriptions.md#event-75bf804e14829596) | 2026-11-16 | Source-backed (2778 chars) |
 | [The RWA Pub at Breakpoint](descriptions.md#event-545e85a3cbbc9614) | 2026-11-16 | Source-backed (3341 chars) |
 | [Binance Tour: Zurich](descriptions.md#event-09ff903e09eaf518) | 2026-11-16 | Missing (0 chars) |

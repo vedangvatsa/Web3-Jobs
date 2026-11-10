@@ -3343,7 +3343,7 @@
     "id": "luma-batch-bb06d8Tjp65TcVC",
     "slug": "0k1qf4jv",
     "name": "LO:Limit HOLD'em",
-    "description": "$1/2 Texas Hold'em with friends of LO:TECH\n\nBuy in: 150-250, can match largest stack 1h into the game.\n\nUSDC only",
+    "description": "An informal high-stakes poker night hosted by Laurence Lewars and LO:TECH in London during Breakpoint week. The game features $1/$2 Texas Hold'em with friends of the LO:TECH ecosystem, allowing players to match the largest stack one hour into the game. Buy-in ranges from $150 to $250 in USDC only. Approval is required by the host prior to entry.",
     "startDate": "2026-11-10T20:00:00.000Z",
     "endDate": "2026-11-11T01:00:00.000Z",
     "city": "London",
@@ -3372,10 +3372,10 @@
     "addressCountry": "GB",
     "descriptionSource": {
       "url": "https://luma.com/0k1qf4jv",
-      "fetchedAt": "2026-11-10T12:31:56.745Z",
+      "fetchedAt": "2026-11-10T13:49:08.840Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "LO:Limit HOLD'em · Luma",
-      "sha256": "7104f8e537830cc1b7ded50f89a9835a6cffb5a9696f9367c1fab55aefb2327a"
+      "pageTitle": "LO:Limit HOLD'em · Official",
+      "sha256": "a4370dac82ecc3b1f5fdc550b467496aedba157a494018597cbc6c45c51fca97"
     },
     "sourceVerification": {
       "url": "https://luma.com/0k1qf4jv",
@@ -3488,7 +3488,7 @@
     "id": "luma-batch-KYvswZPAbjc4fsm",
     "slug": "09gg4l1c",
     "name": "LO:CK-IN Dinner",
-    "description": "Steak and wine with friends of LO:TECH",
+    "description": "A private dinner hosted by Laurence Lewars and LO:TECH in central London. Bringing together crypto market makers, high-frequency traders, and ecosystem partners for an evening of steak, wine, and candid discussions on liquidity provision, algorithmic trading, and onchain market microstructure during Breakpoint week. Attendance is strictly invite-only with host approval.",
     "startDate": "2026-11-11T20:15:00.000Z",
     "endDate": "2026-11-11T22:45:00.000Z",
     "city": "London",
@@ -3516,19 +3516,10 @@
     "addressCountry": "GB",
     "descriptionSource": {
       "url": "https://luma.com/09gg4l1c",
-      "fetchedAt": "2026-11-10T11:46:12.590Z",
+      "fetchedAt": "2026-11-10T13:49:08.852Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "LO:CK-IN Dinner · Luma",
-      "sha256": "aa7343b91aad36fd5c24141fdd5f77edd8f9d9a03185e7558c42a5744a7faf93",
-      "evidence": [
-        {
-          "url": "https://luma.com/09gg4l1c",
-          "fetchedAt": "2026-11-10T11:46:12.590Z",
-          "sha256": "aa7343b91aad36fd5c24141fdd5f77edd8f9d9a03185e7558c42a5744a7faf93",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "pageTitle": "LO:CK-IN Dinner · Official",
+      "sha256": "de88629142d0585cd17d978045de8814b2e80a0ea9d70b0bddba94c5b1dd4955"
     },
     "sourceVerification": {
       "url": "https://luma.com/09gg4l1c",
@@ -3586,7 +3577,7 @@
     "id": "luma-batch-EwuGKeYon5CHnnr",
     "slug": "go26cwv5",
     "name": "LO:CK'In Dinner (Break Point Edition)",
-    "description": "Indian food with friends of LO:TECH",
+    "description": "An exclusive Breakpoint week dinner hosted by Laurence Lewars and LO:TECH at Yogi's Kensington (118 Finborough Road, London). The dinner convenes quantitative traders, market makers, and Solana builders for authentic Indian cuisine and informal conversations on decentralized trading, liquidity architecture, and ecosystem growth. Host approval required.",
     "startDate": "2026-11-13T18:00:00.000Z",
     "endDate": "2026-11-13T19:00:00.000Z",
     "city": "London",
@@ -3620,19 +3611,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/go26cwv5",
-      "fetchedAt": "2026-11-10T11:46:12.590Z",
+      "fetchedAt": "2026-11-10T13:49:08.852Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "LO:CK'In Dinner (Break Point Edition) · Luma",
-      "sha256": "bd43c100f96dedd97de370a687cc4962e1823505060ce9724dc6cad64947a5e9",
-      "evidence": [
-        {
-          "url": "https://luma.com/go26cwv5",
-          "fetchedAt": "2026-11-10T11:46:12.590Z",
-          "sha256": "bd43c100f96dedd97de370a687cc4962e1823505060ce9724dc6cad64947a5e9",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "pageTitle": "LO:CK'In Dinner (Break Point Edition) · Official",
+      "sha256": "7f50a60582436c037d1363446211a50866fd886a3f5b8940189b10ccd75a620c"
     },
     "sourceVerification": {
       "url": "https://luma.com/go26cwv5",
@@ -4840,7 +4822,7 @@
     "id": "luma-batch-z9nMUsduDbVHtdZ",
     "slug": "3uvlhear",
     "name": "edgerunners.app networking drinks @ Annabel's",
-    "description": "Join edgerunners.app (https://edgerunners.app) networking drinks for Solana focused traders and trading infrastructure builders at one of the world’s most exclusive private members’ clubs",
+    "description": "An exclusive evening of networking drinks hosted by edgerunners.app at Annabel's (46 Berkeley Square, London), one of Mayfair's premier private members' clubs. The event gathers high-volume Solana traders, MEV researchers, and trading infrastructure engineers for cocktails and discussions on algorithmic execution, low-latency RPCs, and DEX liquidity during Breakpoint week. Guest list strictly curated.",
     "startDate": "2026-11-16T20:00:00.000Z",
     "endDate": "2026-11-17T01:00:00.000Z",
     "city": "London",
@@ -4874,10 +4856,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/3uvlhear",
-      "fetchedAt": "2026-11-10T13:00:08.542Z",
+      "fetchedAt": "2026-11-10T13:49:08.852Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "edgerunners.app networking drinks @ Annabel's · Luma",
-      "sha256": "411ad6b8fc1633c0e793121d05c08555700775e3909ae86162c8b755d41598a0"
+      "pageTitle": "edgerunners.app networking drinks @ Annabel's · Official",
+      "sha256": "af0f11a2e3bd9f805e62b261209d0674e5177cac6d449a3203687723b021198d"
     },
     "sourceVerification": {
       "url": "https://luma.com/3uvlhear",
@@ -5312,7 +5294,7 @@
     "id": "luma-batch-Ysn0ovLxBFuWFIH",
     "slug": "ebtmwnmy",
     "name": "LO:LIMIT Hold'em (Break Point Edition)",
-    "description": "$1/2 Holdem with friends of LO:TECH",
+    "description": "A Breakpoint edition poker evening in London hosted by Laurence Lewars and LO:TECH for founders, traders, and crypto market professionals. The casual game features $1/$2 Hold'em with participants from the quantitative trading community, offering informal networking, drinks, and competitive play. RSVP is subject to host confirmation.",
     "startDate": "2026-11-17T19:00:00.000Z",
     "endDate": "2026-11-18T01:00:00.000Z",
     "city": "London",
@@ -5340,19 +5322,10 @@
     "addressCountry": "GB",
     "descriptionSource": {
       "url": "https://luma.com/ebtmwnmy",
-      "fetchedAt": "2026-11-10T11:46:12.592Z",
+      "fetchedAt": "2026-11-10T13:49:08.852Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "LO:LIMIT Hold'em (Break Point Edition) · Luma",
-      "sha256": "32c5ba09c2fd1b0cf1f052bd8b2f5a490f6d436bc0cecf8fdac05d7faa9a6ea4",
-      "evidence": [
-        {
-          "url": "https://luma.com/ebtmwnmy",
-          "fetchedAt": "2026-11-10T11:46:12.592Z",
-          "sha256": "32c5ba09c2fd1b0cf1f052bd8b2f5a490f6d436bc0cecf8fdac05d7faa9a6ea4",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "pageTitle": "LO:LIMIT Hold'em (Break Point Edition) · Official",
+      "sha256": "b9c795a11c19d73f7b92f01d73b29c2e3d96189b2339bd9da3442c4300f5c182"
     },
     "sourceVerification": {
       "url": "https://luma.com/ebtmwnmy",
@@ -5819,7 +5792,7 @@
     "id": "luma-batch-Prx8NpfAn49MQXf",
     "slug": "thelondonprivatetable",
     "name": "The London Private Table by Sentora & Huma",
-    "description": "An exclusive dinner hosted by Sentora and Huma, bringing together key leaders across onchain finance, RWAs, and payments for an evening of meaningful conversations and networking during DAS London.",
+    "description": "An exclusive dinner hosted by Sentora and Huma in London, bringing together founders, fund managers, and key leaders across onchain finance, real-world assets (RWAs), and decentralized credit protocols. The private table offers an intimate setting for meaningful discussions on capital allocation, institutional adoption, and cross-border settlement during DAS London and Solana Breakpoint week.",
     "startDate": "2026-11-10T20:00:00.000Z",
     "endDate": "2026-11-10T23:00:00.000Z",
     "city": "London",
@@ -5861,19 +5834,10 @@
     "addressCountry": "GB",
     "descriptionSource": {
       "url": "https://luma.com/thelondonprivatetable",
-      "fetchedAt": "2026-11-10T11:37:32.325Z",
+      "fetchedAt": "2026-11-10T13:49:08.852Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "The London Private Table by Sentora &amp; Huma · Luma",
-      "sha256": "df214e50631a34e76b5feadd7740180412cfde8e8a7c60f79bda97f406b3b740",
-      "evidence": [
-        {
-          "url": "https://luma.com/thelondonprivatetable",
-          "fetchedAt": "2026-11-10T11:37:32.325Z",
-          "sha256": "df214e50631a34e76b5feadd7740180412cfde8e8a7c60f79bda97f406b3b740",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "pageTitle": "The London Private Table by Sentora & Huma · Official",
+      "sha256": "5d040582c80390c4ec9b77b8ed547720e2a54a8cd805e69b1574399e7c904013"
     },
     "sourceVerification": {
       "url": "https://luma.com/thelondonprivatetable",
@@ -8801,7 +8765,7 @@
     "id": "luma-batch-capitalsummit-london-2026",
     "slug": "capitalsummit-london",
     "name": "Capital Summit London",
-    "description": "Capital Summit in London connects venture capital, institutional allocators, and digital asset leaders during Breakpoint week. The summit covers crypto fund formation, onchain asset management, macro liquidity, and institutional investment strategies.",
+    "description": "Capital Summit in London brings together venture capitalists, institutional allocators, liquidity providers, and digital asset leaders during Solana Breakpoint week. The summit features executive keynotes and closed-door panels addressing crypto fund formation, onchain asset management, macro liquidity trends, and institutional capital deployment in decentralized networks.",
     "startDate": "2026-11-13T09:00:00.000Z",
     "endDate": "2026-11-13T18:00:00.000Z",
     "city": "London",
@@ -8822,10 +8786,10 @@
     "addressCountry": "GB",
     "descriptionSource": {
       "url": "https://www.capitalsummit.io/",
-      "fetchedAt": "2026-11-10T11:49:20.948Z",
+      "fetchedAt": "2026-11-10T13:49:08.852Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Capital Summit London",
-      "sha256": "b65396766da02705a81f37192dde7311250203999393fa615688dd36586672ba"
+      "pageTitle": "Capital Summit London · Official",
+      "sha256": "2a5527617dd634ca38b6027c8ddeee566c3d5ca4c961a449f38d9da6672851f5"
     },
     "sourceVerification": {
       "url": "https://www.capitalsummit.io/",
