@@ -126793,6 +126793,40 @@
       "attemptId": "b54013c2-bf62-48cc-8bf8-9db33ab505c9",
       "verification": "verified",
       "postId": "0x373b955e9dc84ffa5b14d3f7adddac9bc9ca5c0b"
+    },
+    {
+      "slug": "pm226",
+      "company": "Bitpanda",
+      "title": "Lead Product Manager, DeFi",
+      "platform": "farcaster",
+      "postedAt": "2026-11-10T11:37:07.225Z",
+      "expectedText": "Bitpanda is hiring Lead Product Manager, DeFi\n\nhttps://hashtagweb3.com/pm226/fc?og=7",
+      "snapshot": {
+        "id": "5027200101",
+        "title": "Lead Product Manager, DeFi",
+        "company": "Bitpanda",
+        "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5027200101",
+        "date": "2026-11-04T06:42:47-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bitpanda [bitpanda]",
+        "location": "Berlin, Germany",
+        "department": "Product & Design",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm226"
+      },
+      "payload": {
+        "text": "Bitpanda is hiring Lead Product Manager, DeFi\n\nhttps://hashtagweb3.com/pm226/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm226/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "1acc4879-081a-4859-b970-c3cfd42edc5b",
+      "verification": "creating"
     }
   ]
 }
