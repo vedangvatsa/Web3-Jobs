@@ -128801,6 +128801,41 @@
       "attemptId": "120abff1-ed16-45fd-aa7f-4764db2e01aa",
       "verification": "verified",
       "postId": "0x59e85919e159496c47f3f055e2774ce5ca871e95"
+    },
+    {
+      "slug": "ops152",
+      "company": "Kraken",
+      "title": "Talent Acquisition Operations Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-11-10T19:37:10.369Z",
+      "expectedText": "Kraken is hiring Talent Acquisition Operations Associate\n\nhttps://hashtagweb3.com/ops152/fc?og=7",
+      "snapshot": {
+        "id": "199de08b-fc19-40b4-aac0-6a1dd5a5942e",
+        "title": "Talent Acquisition Operations Associate",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/199de08b-fc19-40b4-aac0-6a1dd5a5942e",
+        "date": "2026-11-05T23:33:02.589+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (Canada)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops152"
+      },
+      "payload": {
+        "text": "Kraken is hiring Talent Acquisition Operations Associate\n\nhttps://hashtagweb3.com/ops152/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops152/fc?og=7"
+          }
+        ],
+        "channel_id": "ai"
+      },
+      "account": "channel:ai",
+      "attemptId": "93f4560e-3372-4f7a-bfed-f504b214816f",
+      "verification": "creating"
     }
   ]
 }
