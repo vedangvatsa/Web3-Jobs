@@ -158196,9 +158196,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "8a8972aea62b32d498fc",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-12T06:36:45.000Z",
       "lastSeenAt": "2026-11-10T02:19:50.208Z",
       "articleSlug": "simdnonces",
@@ -158216,7 +158216,29 @@
         "updatedAt": "2026-11-10T03:05:12.486Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "CoinDesk still returns HTTP 429; verified the proposal against the primary GitHub pull request and read two independent outlets (CoinMarketCap Nov 9, Coindaro Nov 9) covering SIMD-0723's May 2027 activation floor, bug history and Drift framing; 670-word draft passes quality, formatting, image and duplicate audits, hero self-hosted, all three links return 200.",
+      "sourceChecks": [
+        {
+          "url": "https://github.com/solana-foundation/solana-improvement-documents/pull/723",
+          "outcome": "read"
+        },
+        {
+          "url": "https://coinmarketcap.com/academy/article/solana-simd-remove-durable-nonces",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindaro.com/solana-durable-nonces-removal-simd-0723/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-10T03:19:00.816Z",
+      "lastReviewedDay": "2026-11-10"
     },
     "0b1a1aaef7f626200a20": {
       "source": "Cointelegraph",
@@ -301962,6 +301984,31 @@
           ],
           "reviewedAt": "2026-11-10T03:17:03.166Z",
           "articleSlug": "warrenpred"
+        },
+        "8a8972aea62b32d498fc": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "CoinDesk still returns HTTP 429; verified the proposal against the primary GitHub pull request and read two independent outlets (CoinMarketCap Nov 9, Coindaro Nov 9) covering SIMD-0723's May 2027 activation floor, bug history and Drift framing; 670-word draft passes quality, formatting, image and duplicate audits, hero self-hosted, all three links return 200.",
+          "sourceChecks": [
+            {
+              "url": "https://github.com/solana-foundation/solana-improvement-documents/pull/723",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coinmarketcap.com/academy/article/solana-simd-remove-durable-nonces",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindaro.com/solana-durable-nonces-removal-simd-0723/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-10T03:19:00.816Z",
+          "articleSlug": "simdnonces"
         }
       },
       "baselineSlugs": [
