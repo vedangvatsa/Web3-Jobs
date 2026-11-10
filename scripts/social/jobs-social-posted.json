@@ -128907,7 +128907,8 @@
       },
       "account": "channel:design",
       "attemptId": "56c786a1-1f8d-4c94-ab1f-8e74a02714f0",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x80a56165311d3603533d247d3a97f64cb7bfc2da"
     }
   ]
 }
