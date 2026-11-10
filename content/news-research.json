@@ -153191,7 +153191,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "856bd37a86514cd6aa79",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-08T10:05:15.191Z",
       "attempts": 1,
       "expiresAt": "2026-11-10T20:30:48.000Z",
@@ -153225,7 +153225,8 @@
         }
       ],
       "reviewedAt": "2026-11-10T03:22:42.385Z",
-      "lastReviewedDay": "2026-11-10"
+      "lastReviewedDay": "2026-11-10",
+      "publishedAt": "2026-11-10T04:08:00.950Z"
     },
     "5f03a13435452b96a4ce": {
       "source": "CoinDesk",
@@ -157147,7 +157148,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "21b81a9212e101d585d5",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 1,
       "expiresAt": "2026-11-12T19:52:34.000Z",
@@ -157193,7 +157194,8 @@
         }
       ],
       "reviewedAt": "2026-11-10T02:32:44.334Z",
-      "lastReviewedDay": "2026-11-10"
+      "lastReviewedDay": "2026-11-10",
+      "publishedAt": "2026-11-10T04:08:00.950Z"
     },
     "2875eb978162a0bb7500": {
       "source": "Decrypt",
@@ -157434,7 +157436,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "4d94509ef6f3926495e9",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 1,
       "expiresAt": "2026-11-12T09:00:17.000Z",
@@ -157461,7 +157463,8 @@
       ],
       "reviewedAt": "2026-11-10T02:42:31.180Z",
       "articleSlug": "blumenthaldeadline",
-      "lastReviewedDay": "2026-11-10"
+      "lastReviewedDay": "2026-11-10",
+      "publishedAt": "2026-11-10T04:08:00.950Z"
     },
     "2f085ec6205d403d534e": {
       "source": "Crypto Briefing",
@@ -157509,7 +157512,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "bdbf8055e028b863fe42",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 1,
       "expiresAt": "2026-11-12T20:31:38.000Z",
@@ -157547,7 +157550,8 @@
         }
       ],
       "reviewedAt": "2026-11-10T03:17:03.166Z",
-      "lastReviewedDay": "2026-11-10"
+      "lastReviewedDay": "2026-11-10",
+      "publishedAt": "2026-11-10T04:08:00.950Z"
     },
     "bc1623a9df09d84b5232": {
       "source": "Cointelegraph",
@@ -157564,7 +157568,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "bc1623a9df09d84b5232",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 1,
       "expiresAt": "2026-11-12T20:26:34.000Z",
@@ -157591,7 +157595,8 @@
       ],
       "reviewedAt": "2026-11-10T02:46:42.235Z",
       "articleSlug": "nearmemecoin",
-      "lastReviewedDay": "2026-11-10"
+      "lastReviewedDay": "2026-11-10",
+      "publishedAt": "2026-11-10T04:08:00.950Z"
     },
     "be94189986b500085686": {
       "source": "The Block",
@@ -157685,7 +157690,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "166ceedc7e6702fa459e",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 1,
       "expiresAt": "2026-11-12T18:25:29.000Z",
@@ -157710,8 +157715,8 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "verified-event",
-      "note": "Read Cointelegraph and Estadao Nov 9 reports on the phased read-only reopening: 19:00/16:00 local start, Nov 2 balances, 33%/6M blocked, no withdrawal date; hero self-hosted from Wikimedia, quality, formatting, image and duplicate audits pass, both source links HTTP 200; distinct from mercadobitcoin.md which covered the Nov 4 announcement.",
+      "reason": "quality-gate",
+      "note": "Actual article audits still failed after bounded repair attempts: mbreopening.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended",
@@ -157722,8 +157727,35 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-10T03:03:50.424Z",
-      "lastReviewedDay": "2026-11-10"
+      "reviewedAt": "2026-11-10T04:07:17.271Z",
+      "lastReviewedDay": "2026-11-10",
+      "retrySearches": [
+        "Repair and revalidate the preserved mbreopening draft against its original sources: mbreopening.md: under 600 words"
+      ],
+      "nextReviewDate": "2026-11-11",
+      "qualityIsolation": {
+        "previousReview": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Cointelegraph and Estadao Nov 9 reports on the phased read-only reopening: 19:00/16:00 local start, Nov 2 balances, 33%/6M blocked, no withdrawal date; hero self-hosted from Wikimedia, quality, formatting, image and duplicate audits pass, both source links HTTP 200; distinct from mercadobitcoin.md which covered the Nov 4 announcement.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/mercado-bitcoin-reabre-acesso-apos-ataque-hacker-de-us-49-milhoes-dinheiro-segue-bloqueado/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-10T03:03:50.424Z",
+          "articleSlug": "mbreopening"
+        },
+        "validationErrors": [
+          "mbreopening.md: under 600 words"
+        ],
+        "isolatedAt": "2026-11-10T04:07:17.272Z"
+      }
     },
     "56d2cf4da1670e15217c": {
       "source": "Bitcoin Magazine",
@@ -157968,7 +158000,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "d432811dc2217724766a",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 1,
       "expiresAt": "2026-11-12T15:00:44.000Z",
@@ -158014,7 +158046,8 @@
         }
       ],
       "reviewedAt": "2026-11-10T02:53:43.107Z",
-      "lastReviewedDay": "2026-11-10"
+      "lastReviewedDay": "2026-11-10",
+      "publishedAt": "2026-11-10T04:08:00.950Z"
     },
     "46e980078f4dc5054972": {
       "source": "Cointelegraph",
@@ -158222,7 +158255,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "8a8972aea62b32d498fc",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 1,
       "expiresAt": "2026-11-12T06:36:45.000Z",
@@ -158264,7 +158297,8 @@
         }
       ],
       "reviewedAt": "2026-11-10T03:19:00.816Z",
-      "lastReviewedDay": "2026-11-10"
+      "lastReviewedDay": "2026-11-10",
+      "publishedAt": "2026-11-10T04:08:00.950Z"
     },
     "0b1a1aaef7f626200a20": {
       "source": "Cointelegraph",
@@ -158281,7 +158315,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "0b1a1aaef7f626200a20",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 1,
       "expiresAt": "2026-11-12T04:03:08.000Z",
@@ -158306,8 +158340,8 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "verified-event",
-      "note": "Re-read Cointelegraph (Nov 9) and Grafa (Nov 9) full texts on Threshold's Nov 8 partial tBTC bridge restart; 4,320 BTC vs 4,185 tBTC, Aave Oct 31 freeze and LlamaRisk proposal verified in both; hero self-hosted from Wikimedia, quality, formatting, image and duplicate audits pass, both source links HTTP 200.",
+      "reason": "quality-gate",
+      "note": "Actual article audits still failed after bounded repair attempts: tbtcresume.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen",
@@ -158318,8 +158352,35 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-10T03:00:19.145Z",
-      "lastReviewedDay": "2026-11-10"
+      "reviewedAt": "2026-11-10T04:07:17.272Z",
+      "lastReviewedDay": "2026-11-10",
+      "retrySearches": [
+        "Repair and revalidate the preserved tbtcresume draft against its original sources: tbtcresume.md: under 600 words"
+      ],
+      "nextReviewDate": "2026-11-11",
+      "qualityIsolation": {
+        "previousReview": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Cointelegraph (Nov 9) and Grafa (Nov 9) full texts on Threshold's Nov 8 partial tBTC bridge restart; 4,320 BTC vs 4,185 tBTC, Aave Oct 31 freeze and LlamaRisk proposal verified in both; hero self-hosted from Wikimedia, quality, formatting, image and duplicate audits pass, both source links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen",
+              "outcome": "read"
+            },
+            {
+              "url": "https://grafa.com/en/news/crypto/threshold-network-resumes-tbtc-bridge-after-security-maintenance",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-10T03:00:19.145Z",
+          "articleSlug": "tbtcresume"
+        },
+        "validationErrors": [
+          "tbtcresume.md: under 600 words"
+        ],
+        "isolatedAt": "2026-11-10T04:07:17.272Z"
+      }
     },
     "a9a04fe69befa7238e02": {
       "source": "The Defiant",
@@ -297698,7 +297759,7 @@
     "2026-11-10": {
       "day": "2026-11-10",
       "startedAt": "2026-11-10T02:19:50.208Z",
-      "status": "prepared",
+      "status": "incomplete",
       "candidateIds": [
         "23b86d04277441433251",
         "f9902cdef583f113830c",
@@ -301711,7 +301772,7 @@
           ]
         },
         "21b81a9212e101d585d5": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read the Formation Securities PRNewswire release of Nov. 9 plus the Cointelegraph and Decrypt reports; verified the SEC notice, early 2027 launch timing, launch tickers, Innovation Exemption conditions, partner list and RWA.xyz tokenized-equity figures across sources. Drafted content/articles/formation.md with a self-hosted NYSE photo; quality, image, duplicate, formatting and type checks pass on the file.",
           "sourceChecks": [
@@ -301729,7 +301790,8 @@
             }
           ],
           "reviewedAt": "2026-11-10T02:32:44.334Z",
-          "articleSlug": "formation"
+          "articleSlug": "formation",
+          "publishedAt": "2026-11-10T04:08:00.950Z"
         },
         "2875eb978162a0bb7500": {
           "status": "rejected",
@@ -301799,7 +301861,7 @@
           ]
         },
         "4d94509ef6f3926495e9": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read Blumenthal's Nov. 5 press release and the Binance letter PDF, plus full reports from Cointelegraph and Cointribune; verified the Jan. 4, 2027 deadline, Nov. 30 first production date and the alternative-measures warning quote across sources.",
           "sourceChecks": [
@@ -301821,10 +301883,11 @@
             }
           ],
           "reviewedAt": "2026-11-10T02:42:31.180Z",
-          "articleSlug": "blumenthaldeadline"
+          "articleSlug": "blumenthaldeadline",
+          "publishedAt": "2026-11-10T04:08:00.950Z"
         },
         "bc1623a9df09d84b5232": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read Elliptic's Nov. 9 report in full plus the Cointelegraph, Decrypt and Bitcoin Magazine coverage; verified the six NEAR tokens, the Nov. 5-7 dates, the ~117,000 NEAR (~30,000) figure and the 3.7M unmoved total across sources.",
           "sourceChecks": [
@@ -301846,7 +301909,8 @@
             }
           ],
           "reviewedAt": "2026-11-10T02:46:42.235Z",
-          "articleSlug": "nearmemecoin"
+          "articleSlug": "nearmemecoin",
+          "publishedAt": "2026-11-10T04:08:00.950Z"
         },
         "075388e7ac3e24320628": {
           "status": "rejected",
@@ -301921,7 +301985,7 @@
           "reviewedAt": "2026-11-10T02:50:32.838Z"
         },
         "d432811dc2217724766a": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read Cointelegraph and AltcoinBuzz in full on the Elliptic report; wrote 681-word draft with two independent sites, self-hosted CC BY-SA hero, and clean quality/image/duplicate/formatting audits plus clean tsc.",
           "sourceChecks": [
@@ -301939,12 +302003,13 @@
             }
           ],
           "reviewedAt": "2026-11-10T02:53:43.107Z",
-          "articleSlug": "nearlaunder"
+          "articleSlug": "nearlaunder",
+          "publishedAt": "2026-11-10T04:08:00.950Z"
         },
         "0b1a1aaef7f626200a20": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-read Cointelegraph (Nov 9) and Grafa (Nov 9) full texts on Threshold's Nov 8 partial tBTC bridge restart; 4,320 BTC vs 4,185 tBTC, Aave Oct 31 freeze and LlamaRisk proposal verified in both; hero self-hosted from Wikimedia, quality, formatting, image and duplicate audits pass, both source links HTTP 200.",
+          "status": "deferred",
+          "reason": "quality-gate",
+          "note": "Actual article audits still failed after bounded repair attempts: tbtcresume.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
           "sourceChecks": [
             {
               "url": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen",
@@ -301955,13 +302020,39 @@
               "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-11-10T03:00:19.145Z",
-          "articleSlug": "tbtcresume"
+          "reviewedAt": "2026-11-10T04:07:17.272Z",
+          "articleSlug": "tbtcresume",
+          "retrySearches": [
+            "Repair and revalidate the preserved tbtcresume draft against its original sources: tbtcresume.md: under 600 words"
+          ],
+          "qualityIsolation": {
+            "previousReview": {
+              "status": "ready",
+              "reason": "verified-event",
+              "note": "Re-read Cointelegraph (Nov 9) and Grafa (Nov 9) full texts on Threshold's Nov 8 partial tBTC bridge restart; 4,320 BTC vs 4,185 tBTC, Aave Oct 31 freeze and LlamaRisk proposal verified in both; hero self-hosted from Wikimedia, quality, formatting, image and duplicate audits pass, both source links HTTP 200.",
+              "sourceChecks": [
+                {
+                  "url": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://grafa.com/en/news/crypto/threshold-network-resumes-tbtc-bridge-after-security-maintenance",
+                  "outcome": "read"
+                }
+              ],
+              "reviewedAt": "2026-11-10T03:00:19.145Z",
+              "articleSlug": "tbtcresume"
+            },
+            "validationErrors": [
+              "tbtcresume.md: under 600 words"
+            ],
+            "isolatedAt": "2026-11-10T04:07:17.272Z"
+          }
         },
         "166ceedc7e6702fa459e": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Read Cointelegraph and Estadao Nov 9 reports on the phased read-only reopening: 19:00/16:00 local start, Nov 2 balances, 33%/6M blocked, no withdrawal date; hero self-hosted from Wikimedia, quality, formatting, image and duplicate audits pass, both source links HTTP 200; distinct from mercadobitcoin.md which covered the Nov 4 announcement.",
+          "status": "deferred",
+          "reason": "quality-gate",
+          "note": "Actual article audits still failed after bounded repair attempts: mbreopening.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
           "sourceChecks": [
             {
               "url": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended",
@@ -301972,8 +302063,34 @@
               "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-11-10T03:03:50.424Z",
-          "articleSlug": "mbreopening"
+          "reviewedAt": "2026-11-10T04:07:17.271Z",
+          "articleSlug": "mbreopening",
+          "retrySearches": [
+            "Repair and revalidate the preserved mbreopening draft against its original sources: mbreopening.md: under 600 words"
+          ],
+          "qualityIsolation": {
+            "previousReview": {
+              "status": "ready",
+              "reason": "verified-event",
+              "note": "Read Cointelegraph and Estadao Nov 9 reports on the phased read-only reopening: 19:00/16:00 local start, Nov 2 balances, 33%/6M blocked, no withdrawal date; hero self-hosted from Wikimedia, quality, formatting, image and duplicate audits pass, both source links HTTP 200; distinct from mercadobitcoin.md which covered the Nov 4 announcement.",
+              "sourceChecks": [
+                {
+                  "url": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/mercado-bitcoin-reabre-acesso-apos-ataque-hacker-de-us-49-milhoes-dinheiro-segue-bloqueado/",
+                  "outcome": "read"
+                }
+              ],
+              "reviewedAt": "2026-11-10T03:03:50.424Z",
+              "articleSlug": "mbreopening"
+            },
+            "validationErrors": [
+              "mbreopening.md: under 600 words"
+            ],
+            "isolatedAt": "2026-11-10T04:07:17.272Z"
+          }
         },
         "736bb425153ad2590d7f": {
           "status": "rejected",
@@ -302015,7 +302132,7 @@
           ]
         },
         "bdbf8055e028b863fe42": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified the Punchbowl-sourced agenda in Bitcoin Magazine Nov 9 and matched it against CNBC's Nov 9 report from the same aide; both sources opened and read, 690-word draft passes quality, formatting, image and duplicate audits, hero self-hosted from Wikimedia, both links return 200.",
           "sourceChecks": [
@@ -302029,10 +302146,11 @@
             }
           ],
           "reviewedAt": "2026-11-10T03:17:03.166Z",
-          "articleSlug": "warrenpred"
+          "articleSlug": "warrenpred",
+          "publishedAt": "2026-11-10T04:08:00.950Z"
         },
         "8a8972aea62b32d498fc": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "CoinDesk still returns HTTP 429; verified the proposal against the primary GitHub pull request and read two independent outlets (CoinMarketCap Nov 9, Coindaro Nov 9) covering SIMD-0723's May 2027 activation floor, bug history and Drift framing; 670-word draft passes quality, formatting, image and duplicate audits, hero self-hosted, all three links return 200.",
           "sourceChecks": [
@@ -302054,10 +302172,11 @@
             }
           ],
           "reviewedAt": "2026-11-10T03:19:00.816Z",
-          "articleSlug": "simdnonces"
+          "articleSlug": "simdnonces",
+          "publishedAt": "2026-11-10T04:08:00.950Z"
         },
         "856bd37a86514cd6aa79": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Opened and read the primary Treasury/OFAC Nov 5 press release sb0683 in full and CryptoSlate's Nov 7 report; figures (4 people, 41 entities, Oct 2025 and June 2026 antecedents, ownership chain) match across both, 660-word draft passes quality, formatting, image and duplicate audits, Treasury building hero self-hosted from Wikimedia, both links return 200.",
           "sourceChecks": [
@@ -302071,7 +302190,8 @@
             }
           ],
           "reviewedAt": "2026-11-10T03:22:42.385Z",
-          "articleSlug": "princescams"
+          "articleSlug": "princescams",
+          "publishedAt": "2026-11-10T04:08:00.950Z"
         }
       },
       "baselineSlugs": [
@@ -302533,6 +302653,352 @@
         ],
         "total": 195,
         "checkedAt": "2026-11-10T02:19:50.208Z"
+      },
+      "validationErrors": [],
+      "publication": {
+        "status": "completed",
+        "completedAt": "2026-11-10T04:08:00.950Z",
+        "publishedIds": [
+          "856bd37a86514cd6aa79",
+          "21b81a9212e101d585d5",
+          "4d94509ef6f3926495e9",
+          "bdbf8055e028b863fe42",
+          "bc1623a9df09d84b5232",
+          "d432811dc2217724766a",
+          "8a8972aea62b32d498fc"
+        ],
+        "articleSlugs": [
+          "princescams",
+          "formation",
+          "blumenthaldeadline",
+          "warrenpred",
+          "nearmemecoin",
+          "nearlaunder",
+          "simdnonces"
+        ],
+        "pendingIds": [
+          "bd9cea951bd811cec93b",
+          "3227ff28ff788ca0905c",
+          "f38c7e27b8752c273d4f",
+          "49417d492bd7794805d5",
+          "5f03a13435452b96a4ce",
+          "dd7b492ede878641eff8",
+          "35a40a2093f0e43baeb6",
+          "747bed348db049510b1c",
+          "ddbb548bb57e924cc783",
+          "a3c8561416438c705e2b",
+          "d6988c8039a22f872cd7",
+          "862ad25465a438c8bbd1",
+          "f304c7c6571865323989",
+          "bb93c4e07fade27b7f81",
+          "edb357e217d2c60eb0e9",
+          "6c58470186cf6d97277d",
+          "bb0b5040a452c7ce7bae",
+          "ca3616d4235e750f8410",
+          "f7cdda8826e17f744c66",
+          "f9b861627733b1989002",
+          "ff3984f896c9d3370f70",
+          "3ff2a64717cea72d77f5",
+          "c6f4d4382ee7e095eff4",
+          "d65a1555f263c7421c50",
+          "e2558077f565962a9e59",
+          "6116aa44cb3bda869193",
+          "e03126c6c4ebb607c1ef",
+          "5bc34eea49d929e1b2a9",
+          "c280426815124cc07426",
+          "a5823eb50cd1ce206c16",
+          "220e18eee43c19d14b65",
+          "3ceb515a05518df3c20d",
+          "f9b8fa6a3b3c0a354b49",
+          "af5de8afd6920a397aea",
+          "d394ad40941163ea1de3",
+          "6ddc8f9b344a63c27f7c",
+          "9e3871a2b07247a5fd63",
+          "45c382db9de6f605aae0",
+          "c0ac48c00d630db44eaa",
+          "69aba154af1fca6ec39c",
+          "ca44b88cbad88fb49f5d",
+          "a09efe0eef41709aa1c6",
+          "3691e2a58fffb0d1af1b",
+          "a1db367295f81aaac3a4",
+          "28e860949e86bee6751a",
+          "9e945a881261e60a5b11",
+          "ed52d784c7c90eac6739",
+          "478763fabf53ac179519",
+          "08e3b5198d6f4d3d675f",
+          "40ec64bc2a4c45cda5af",
+          "25d2f5cfbcf67c7a2502",
+          "18e92a4bb89309bf0b13",
+          "70dbf79c8855b18e508b",
+          "e96f8e2aae79c2f65d8e",
+          "47bf46042d77787661cf",
+          "e4e8dffd4a9554724c56",
+          "7b3fcb1740caab361d5e",
+          "b3a25e22c35c80a41f35",
+          "f2140f1a35425bde2625",
+          "7f9267b688292d2ea0b7",
+          "7e76a9b1be9d2b2dd6c8",
+          "a12b86c096be7c1f98c1",
+          "3daa05819cb7cafc0749",
+          "f754c5b10e3dd3dc9c85",
+          "4d4bbeab32b5c26d23ad",
+          "2b02a0403f579a651044",
+          "3783ad284407cd74536c",
+          "5377df437f4a7248dbb9",
+          "469e8cd9b77b1cd240f8",
+          "0ed2e0bfdf9bc3e902c3",
+          "09c31b91b263faddbeed",
+          "a9d57147497a29c9a7e2",
+          "2ae859c3a3f82660a801",
+          "fa53447aea6730ae432d",
+          "a7f17478b78a6be289b1",
+          "009fd0db79e31e75d876",
+          "9815fb7dc8a078ea89c0",
+          "a261c30d910b6a17dd2c",
+          "ac9b6165965f1e758522",
+          "13a0612ae95e3e249fd5",
+          "a51b6bd793fe6f93d3d8",
+          "0d2413ce7bdf4ea6f2ce",
+          "b4c508a1680709c68829",
+          "188e848dd346852228ba",
+          "ee4c8ec57ae6d431a7a3",
+          "e7bdd960b4c28b58f957",
+          "b8aaa5d55cd15b8e2017",
+          "a581225e18054a9564fc",
+          "9f5cbb28edd6fca7173a",
+          "e0d153764d97bd7c938d",
+          "6ab9e37648eac1352573",
+          "fd579ed67211b11f36e1",
+          "feb34ad05b90d405ac51",
+          "6e99536d74ef44abec71",
+          "5b2014e53e59d0da640d",
+          "0d08b5ce4b434899d43c",
+          "82bd764a5c3d7baf97c2",
+          "3d52f385996ab0c97ed6",
+          "3d91171bba48a18c0bb9",
+          "844ed699b746af422aac",
+          "26f8a753f8c26ca2d3ff",
+          "1bea022b457ac6696feb",
+          "664a6e26f7ba6547f21a",
+          "0cf28ec4dc6db7d37a1d",
+          "11b57b05722e04dbc37b",
+          "8788bd18e384605db851",
+          "2e819591ac14870213b7",
+          "191cbdc03189959336b6",
+          "e25d1ec7b628bbce75d4",
+          "ffee5d0dac82b5418abf",
+          "f1796b7c7fab3ba0e7f1",
+          "a6c11768d1efe7eb7d6a",
+          "fcebf4f605a4f2eab9e8",
+          "35e05ffd25b3566fcf37",
+          "6037b13d8cd36c691db4",
+          "fb972044421953fa0438",
+          "2b9d9bdadccc1138ce9c",
+          "dc35603f4abe7fa6ff69",
+          "0b00d970e6832a4c398d",
+          "0beaaa68e0fbbbc76b92",
+          "60626eb91f1d9d7d8e08",
+          "afa3978809d8c31dbdb8",
+          "cf9e6dfd3b9040f6056a",
+          "df74c4261f76e6ccd323",
+          "75cf472e8f7a0843128b",
+          "d220797ba4058c100087",
+          "a42f4c151e3edf643167",
+          "aa3682481a1acabb1881",
+          "fc51a462475faee2d1fb",
+          "d09a5d9c7fdb2058caa6",
+          "eb12f244ebded7801481",
+          "584625b9d4bc82036665",
+          "3cba2204742148c1a106",
+          "772969ccdb29e8799fac",
+          "e88bdba18ea2b1c76ed9",
+          "04b4aea7c52cc39d0bc7",
+          "26c12fb1b2b19439d87f",
+          "411948228c51e99afaaa",
+          "a26b1ecf26374ff2856a",
+          "eb77b8ab2d6d47da95fe",
+          "85ac00e2ac82e9c8fa1c",
+          "7a91dcae933e6faedc44",
+          "1a12a44faad53faf0ea9",
+          "57e5e8f324182a45ff35",
+          "614620dc55f43b863adf",
+          "b51032edd5adf8611adb",
+          "be94189986b500085686",
+          "166ceedc7e6702fa459e",
+          "645952c6ff314da49812",
+          "cac8576ab88887c07a04",
+          "79cf30f1c15e7cd59721",
+          "7a141b6c3a897da22ed2",
+          "7f6edd895ecdcb337dd2",
+          "e1ca12d11bb47cdd6c0c",
+          "69aa9e8413363a7fb2f5",
+          "e3fc9147c68c78b286c3",
+          "0b1a1aaef7f626200a20",
+          "a9a04fe69befa7238e02",
+          "9d3d39526ec50776645e",
+          "9c669c2617999b474d29",
+          "1aa8dc015e14b1f751fc",
+          "50cb4871e3b14ba13e57",
+          "1bda8bf8052aed0521e5",
+          "ab17ce97f82649607684",
+          "346c3231f79093e78257",
+          "2428527084f9d4b9ca72",
+          "b5ddf744f81b42b9536e",
+          "14670153786ce5a2686e",
+          "ec9f63a61d142240a6ca",
+          "cd048b771dee78e73f13",
+          "dec3623e53ee30f487eb",
+          "7e915e28b96e67a10bb1",
+          "d7aeccf72861d06eaa91",
+          "a222f6500f900b9465a0",
+          "0e8fd8edce1d49708cdd",
+          "f385a5f26bea26d138b5",
+          "dc8fb6fbfe883a7065dd",
+          "d2305289c6b252e37dfb",
+          "78044ee04149ee26a1fa",
+          "33a18d564005a013921e",
+          "bcd5c48ecd173bad119d",
+          "45f0619563dd7e89230f",
+          "3fefd9e3a2cbfe33dd15",
+          "63b66c4cdf6e5bbd6ae7",
+          "5821d611b86a71b8f3d6",
+          "b0d7be4c6601fc763dc4",
+          "b58da62caef2eaecb1cf",
+          "a8d02712ad6bf0375af5",
+          "b87e9a64e8114e2d8f40",
+          "a771e13d4ef68ad1b2ed",
+          "d42a01140ace9dd39098",
+          "effe8fab67afbc93ec0b",
+          "890772f183e51c66e28a",
+          "f37dff626852e2872cc5",
+          "83cb31695806c8810dac",
+          "796a10eecdbeeac46ec7",
+          "439a457f087a22444c5a",
+          "f8cde0bc7946e5acffa9",
+          "62424c538a152045f940",
+          "22055593fa19d03d89e7",
+          "f57815109f2483702e8c",
+          "cf64c4d0496d18721bd1",
+          "2f89bb707bd4eb38f278",
+          "ec0cda8717af64ab0b83",
+          "16d90dbe7f76d230d0dc",
+          "4a7654d50f929ec4d142",
+          "0d3f6302d60357bb13a2",
+          "2beac58008317c9cb239",
+          "69a751c5f88cc087156b",
+          "aa2f96fadc621b1ddaf1",
+          "ec1502eb2919fcab69bc",
+          "0251ea42d56f1b2f51d1",
+          "c0d1c118285314caa379",
+          "43fda9f0fe7de5d637ea",
+          "743a96b96e4825706776",
+          "c2f415e987d98379a6df",
+          "e50d0ebf1c1a9b5769d9",
+          "f5feddfa2234dfb2264c",
+          "3693f9ad81fab10cb36f",
+          "6ebe2fcb47077e291adf",
+          "a002e556fb95cc42114f",
+          "90d4dc2060d2262f87d9",
+          "7f19ae4ac47ab9dccf0e",
+          "900ef35bd4f2a2f911ee",
+          "20414cf966a22fed046a",
+          "8da54864d1496b7b3dc5",
+          "7b983b30fadc3cc86842",
+          "8058c7e0cc0f3700be81",
+          "2d850aa32051c1fee08a",
+          "e26c6c595f2015ec2650",
+          "8f15ebf03de64a51b08b",
+          "9aaf68ea35eecf795ad4",
+          "57d2c4f19c475fba30ba",
+          "f3c4474d5eec8c6e3a56",
+          "9288e02652e478842638",
+          "fff4e081cc3924c634fa",
+          "128e472a658e7b718514",
+          "de3c20094174798176eb",
+          "6df0d5d14bed0430a387",
+          "f4f74d72f140f0554062",
+          "005552e6a9db4238f9bb",
+          "677ba5801a3c85fc9ba8",
+          "17baf3caebc22e29a4d2",
+          "3b90452176459f6fb7e0",
+          "5d2ccce1dd9f8415ea77",
+          "f79eda22523faec3caad",
+          "e9e7ac73a99c3dd1303c",
+          "bd1996ba2300aee5c857",
+          "3f7e606472ebbcd7ca6c",
+          "5d16f5a3e3c10071b2b2",
+          "8ea917720b50b014c674",
+          "0b758c71a0a116303aa0",
+          "219340680856927b3ec5",
+          "7167de5596b82c164be4",
+          "f0558ed2fc5f38fa45a6",
+          "75911143cfb5bb7c74d5",
+          "aac78bea7ddfbf1208aa",
+          "157fc636ac83482b7546",
+          "1b98b7c46f6a67d18bfc",
+          "cbacdf97bd5e681be87a",
+          "74905001c50c94463de2",
+          "7b2ab812ee76207132ed",
+          "cb4b066278f353a397cf",
+          "fbf15bd2aac0d3e224e2",
+          "bd38015611f157423941",
+          "7c320ba06efdfda59084",
+          "4c6c506acff5d8bc66e2",
+          "51781b0dd20d3057e28d",
+          "f0a1a8e58c8efa40feb9",
+          "914cfb9520c96452f38d",
+          "a302fe37b2de15125dfa",
+          "fc031950c2ef505a9d88",
+          "e53d2821e59dfe2c51dd",
+          "e45e3955bf9af3f7eaa4",
+          "84e91ae89648250b892e",
+          "8e336ac77e60c78c8530",
+          "25bab9e96c1d4f77dbff",
+          "37feb3f0b7bc159784d3",
+          "894c8d7d18c9b66bef09",
+          "efb8b0d20b0e22aaa9c9",
+          "59fe794b5c1c3a20abcf",
+          "76da0daafbbc1a86b9a3",
+          "630d8a71bb15102408e1",
+          "8d9fac5029178cacf092",
+          "2051c2288fcb3d3d0f63",
+          "c24f67cfb29e25a32c7b",
+          "5dd1d6c2eb74d58852e1",
+          "6bb38e6798d2edeb6345",
+          "ddc7855d979f1627d8b6",
+          "d062c47ed70453df3a16",
+          "8d827b66ae5299bbd4f3",
+          "f18a93229eadff5bb304",
+          "3a2adaa0391d146f9b3d",
+          "5b5aaeb4388a5bc9b196",
+          "a50eea9cb3422f38ae5f",
+          "f37572605360e63f9609",
+          "2a4a7717ce57d881f237",
+          "e7303c314cab12c04410",
+          "9210058f27eb2f2a7f62",
+          "cda12bb4b35e141c0295",
+          "614e158ccebaf6dbd6f6",
+          "5138be883a8ca00322a9",
+          "0f2ea9fc6320551e123c",
+          "8929950b5d9c81b82859",
+          "6e59f89994c22ea81a96",
+          "ec5263a6e81f09e15dd9",
+          "3a02508a5e4407b5fb2a",
+          "c8dbecbb6c3821180a52",
+          "fb8eaf9326dc2aed240f",
+          "241ed80715aa94cc575d",
+          "9acda136ccb993de445b",
+          "047c72c56c9c1a6b7ece",
+          "b85a5856a2ef13723818",
+          "7ef596cdc7eed6b5a12a",
+          "b6920ac89c6ba5caca8b",
+          "15d440d4d3c4a00c88a9",
+          "8b3af38b2d4b635d7d5a",
+          "1e78fef98a7c2f5591b1",
+          "a15069643bc75b928022",
+          "29f7a795f5da569adf17",
+          "d9b6d1aad05c05467622"
+        ]
       }
     }
   }
