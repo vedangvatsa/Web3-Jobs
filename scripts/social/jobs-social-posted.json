@@ -128160,7 +128160,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "20e4f021-96a6-49cd-b725-be82904a25b3",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af372276c7ea3f5e394be9e"
     }
   ]
 }
