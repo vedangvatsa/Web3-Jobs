@@ -3559,5 +3559,40 @@
     "slotKey": "2026-11-10:afternoon",
     "messageId": 193490,
     "sentAt": "2026-11-10T11:33:27.893Z"
+  },
+  "cf6b3183-3e96-4995-9cb6-d98766a033ba": {
+    "status": "reserved",
+    "reservedAt": "2026-11-10T19:34:43.443Z",
+    "stories": [
+      {
+        "index": 7,
+        "original_title": "Google broadens its AI hardware portfolio with two new specialized chips",
+        "headline": "Google releases two new specialized AI processing chips",
+        "summary": "The new hardware units provide increased memory capacity and enhanced security features for confidential model training workloads.",
+        "event_rationale": "This covers a specific infrastructure release by a major cloud provider, distinct from software or model announcements.",
+        "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+        "source": "TechCrunch",
+        "originalTitle": "Google broadens its AI hardware portfolio with two new specialized chips"
+      },
+      {
+        "index": 23,
+        "original_title": "Thinking Machines debuts Inkling 2 Small amid reported $5B fundraising push",
+        "headline": "Thinking Machines releases Inkling 2 Small language model",
+        "summary": "The new model is designed to automate AI training processes as the company reportedly seeks $5 billion in funding.",
+        "event_rationale": "This covers a significant new model release coupled with a major funding development, distinct from the other selected events.",
+        "link": "https://siliconangle.com/2026/11/06/thinking-machines-debuts-inkling-2-small-amid-reported-5b-fundraising-push/",
+        "source": "SiliconANGLE",
+        "originalTitle": "Thinking Machines debuts Inkling 2 Small amid reported $5B fundraising push"
+      },
+      {
+        "index": 2,
+        "headline": "Nvidia CEO Jensen Huang faces potential security risks",
+        "summary": "As the leader of a major AI chip supplier, Huang is a target for international espionage.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+        "source": "The Verge",
+        "originalTitle": "The US is winning the AI race. Jensen Huang could have blown it"
+      }
+    ],
+    "slotKey": "2026-11-10:evening"
   }
 }
