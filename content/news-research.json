@@ -157388,11 +157388,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "4d94509ef6f3926495e9",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-12T09:00:17.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "reason": "verified-event",
+      "note": "Read Blumenthal's Nov. 5 press release and the Binance letter PDF, plus full reports from Cointelegraph and Cointribune; verified the Jan. 4, 2027 deadline, Nov. 30 first production date and the alternative-measures warning quote across sources.",
+      "sourceChecks": [
+        {
+          "url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-sends-warning-to-targets-of-investigations-into-crypto-corruption-immigration-abuses-big-tech-and-more",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.blumenthal.senate.gov/download/2026-11-05_letter_from_sen_richard_blumenthal_to_binance",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cointribune.com/en/binance-tether-and-wlfi-senate-demands-records-by-january",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-10T02:42:31.180Z",
+      "articleSlug": "blumenthaldeadline",
+      "lastReviewedDay": "2026-11-10"
     },
     "2f085ec6205d403d534e": {
       "source": "Crypto Briefing",
@@ -301427,6 +301450,31 @@
           "retrySearches": [
             "Find readable coverage or an archive of the CoinDesk daybook piece 'Bitcoin bulls can't rely on ETF flows' and determine whether it reports a concrete ETF flow event or is opinion analysis"
           ]
+        },
+        "4d94509ef6f3926495e9": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Blumenthal's Nov. 5 press release and the Binance letter PDF, plus full reports from Cointelegraph and Cointribune; verified the Jan. 4, 2027 deadline, Nov. 30 first production date and the alternative-measures warning quote across sources.",
+          "sourceChecks": [
+            {
+              "url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-sends-warning-to-targets-of-investigations-into-crypto-corruption-immigration-abuses-big-tech-and-more",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.blumenthal.senate.gov/download/2026-11-05_letter_from_sen_richard_blumenthal_to_binance",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cointribune.com/en/binance-tether-and-wlfi-senate-demands-records-by-january",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-10T02:42:31.180Z",
+          "articleSlug": "blumenthaldeadline"
         }
       },
       "baselineSlugs": [
