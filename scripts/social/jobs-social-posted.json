@@ -126651,7 +126651,8 @@
       },
       "account": "profile",
       "attemptId": "15ff93d8-135a-44ab-8d0a-621466b988db",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa67f2080b28c47f27926893688cf0fee387a254c"
     }
   ]
 }
