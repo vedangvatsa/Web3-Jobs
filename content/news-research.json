@@ -157616,11 +157616,27 @@
       ],
       "alsoCoveredBy": [],
       "id": "56d2cf4da1670e15217c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-12T17:26:28.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "reason": "duplicate",
+      "note": "Same Elliptic Nov. 9 finding reported by Bitcoin Magazine; drafted once as nearmemecoin after reading the Bitcoin Magazine filing.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/north-korea-meme-coins-binance-hack",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.elliptic.co/insights/north-korea-meme-coins-binance-hack/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-10T02:46:49.279Z",
+      "duplicateOf": "nearmemecoin",
+      "mergedInto": "bc1623a9df09d84b5232",
+      "lastReviewedDay": "2026-11-10"
     },
     "1e1a9a08e92ae7140f10": {
       "source": "Bitcoin Magazine",
@@ -301555,6 +301571,24 @@
             }
           ],
           "reviewedAt": "2026-11-10T02:46:45.760Z",
+          "duplicateOf": "nearmemecoin",
+          "mergedInto": "bc1623a9df09d84b5232"
+        },
+        "56d2cf4da1670e15217c": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Elliptic Nov. 9 finding reported by Bitcoin Magazine; drafted once as nearmemecoin after reading the Bitcoin Magazine filing.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/north-korea-meme-coins-binance-hack",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.elliptic.co/insights/north-korea-meme-coins-binance-hack/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-10T02:46:49.279Z",
           "duplicateOf": "nearmemecoin",
           "mergedInto": "bc1623a9df09d84b5232"
         }
