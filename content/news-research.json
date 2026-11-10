@@ -157474,11 +157474,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "bc1623a9df09d84b5232",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-12T20:26:34.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "reason": "verified-event",
+      "note": "Read Elliptic's Nov. 9 report in full plus the Cointelegraph, Decrypt and Bitcoin Magazine coverage; verified the six NEAR tokens, the Nov. 5-7 dates, the ~117,000 NEAR (~30,000) figure and the 3.7M unmoved total across sources.",
+      "sourceChecks": [
+        {
+          "url": "https://www.elliptic.co/insights/north-korea-meme-coins-binance-hack/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitcoinmagazine.com/news/north-korea-meme-coins-binance-hack",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-10T02:46:42.235Z",
+      "articleSlug": "nearmemecoin",
+      "lastReviewedDay": "2026-11-10"
     },
     "be94189986b500085686": {
       "source": "The Block",
@@ -301475,6 +301498,31 @@
           ],
           "reviewedAt": "2026-11-10T02:42:31.180Z",
           "articleSlug": "blumenthaldeadline"
+        },
+        "bc1623a9df09d84b5232": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Elliptic's Nov. 9 report in full plus the Cointelegraph, Decrypt and Bitcoin Magazine coverage; verified the six NEAR tokens, the Nov. 5-7 dates, the ~117,000 NEAR (~30,000) figure and the 3.7M unmoved total across sources.",
+          "sourceChecks": [
+            {
+              "url": "https://www.elliptic.co/insights/north-korea-meme-coins-binance-hack/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/north-korea-meme-coins-binance-hack",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-10T02:46:42.235Z",
+          "articleSlug": "nearmemecoin"
         }
       },
       "baselineSlugs": [
