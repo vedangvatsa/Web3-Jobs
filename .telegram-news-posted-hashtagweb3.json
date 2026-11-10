@@ -920,6 +920,9 @@
   "https://hashtagweb3.com/zcashquantum?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/prysm-fix?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
+  "https://hashtagweb3.com/simdnonces?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/princescams?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/warrenpred?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2666,6 +2669,12 @@
   "Prysm Ships 200M Gas Limit Fix Hours Before Sepolia Test",
   "PNC Bank pilots conversion of USDC payments to dollar deposits",
   "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
+  "Anza Proposes Removing Durable Nonces From Solana",
+  "Anza files Solana proposal to remove durable nonces",
+  "US sanctions 41 companies tied to Prince Group scam network",
+  "OFAC sanctions 41 companies tied to Prince Group scam network",
+  "Warren Plans Senate Banking Scrutiny of Prediction Markets",
+  "Warren to target prediction market oversight as incoming Senate Banking chair",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -3136,5 +3145,8 @@
   "fp:against|bitget|block|cit|complaint|criminal|dec5|fil|from2022|government",
   "fp:address|assign|builder|clos|computer|data|design|futur|gap|individual",
   "fp:200m|activation|ahead|fix|hour|limit|network|october6|prysm|sepolia",
-  "fp:back|bank|client|conversion|corporat|currency|deposit|directly|dollar|even"
+  "fp:back|bank|client|conversion|corporat|currency|deposit|directly|dollar|even",
+  "fp:anza|drift|durabl|earlier|effectiv|eliminat|exploit|fil|hack|may2027",
+  "fp:allegedly|department|fraudulent|group|maintain|network|nomine|ofac|offshor|operation",
+  "fp:against|aid|bank|bett|chair|committe|election|incom|january|market"
 ]

@@ -3444,7 +3444,7 @@
     "sentAt": "2026-11-09T19:53:57.133Z"
   },
   "c2710218-3f43-4158-a038-58bada6d5eb6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-10T11:33:04.197Z",
     "stories": [
       {
@@ -3472,6 +3472,8 @@
         "originalTitle": "Warren to target prediction market oversight as incoming Senate Banking chair"
       }
     ],
-    "slotKey": "2026-11-10:afternoon"
+    "slotKey": "2026-11-10:afternoon",
+    "messageId": 156168,
+    "sentAt": "2026-11-10T11:33:13.847Z"
   }
 }
