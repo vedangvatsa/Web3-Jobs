@@ -158129,9 +158129,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "0b1a1aaef7f626200a20",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-12T04:03:08.000Z",
       "lastSeenAt": "2026-11-10T02:19:50.208Z",
       "articleSlug": "tbtcresume",
@@ -158153,7 +158153,21 @@
         "updatedAt": "2026-11-10T02:55:38.307Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read Cointelegraph (Nov 9) and Grafa (Nov 9) full texts on Threshold's Nov 8 partial tBTC bridge restart; 4,320 BTC vs 4,185 tBTC, Aave Oct 31 freeze and LlamaRisk proposal verified in both; hero self-hosted from Wikimedia, quality, formatting, image and duplicate audits pass, both source links HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen",
+          "outcome": "read"
+        },
+        {
+          "url": "https://grafa.com/en/news/crypto/threshold-network-resumes-tbtc-bridge-after-security-maintenance",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-10T03:00:19.145Z",
+      "lastReviewedDay": "2026-11-10"
     },
     "a9a04fe69befa7238e02": {
       "source": "The Defiant",
@@ -301740,6 +301754,23 @@
           ],
           "reviewedAt": "2026-11-10T02:53:43.107Z",
           "articleSlug": "nearlaunder"
+        },
+        "0b1a1aaef7f626200a20": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Cointelegraph (Nov 9) and Grafa (Nov 9) full texts on Threshold's Nov 8 partial tBTC bridge restart; 4,320 BTC vs 4,185 tBTC, Aave Oct 31 freeze and LlamaRisk proposal verified in both; hero self-hosted from Wikimedia, quality, formatting, image and duplicate audits pass, both source links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen",
+              "outcome": "read"
+            },
+            {
+              "url": "https://grafa.com/en/news/crypto/threshold-network-resumes-tbtc-bridge-after-security-maintenance",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-10T03:00:19.145Z",
+          "articleSlug": "tbtcresume"
         }
       },
       "baselineSlugs": [
