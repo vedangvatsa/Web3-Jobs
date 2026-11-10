@@ -813,9 +813,19 @@
     "sourceVerification": {
       "url": "https://luma.com/london-hh-26",
       "eventId": "evt-8dntupEO60aiWT5",
-      "fetchedAt": "2026-09-19T23:49:12.417Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/london-hh-26",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Solana Hacker House - London · Luma",
+      "sha256": "bc2e6b3d6d0df3a38746eab226be09deb9b2b7f68f0055364055861dcc8be4d5"
     }
   },
   {
@@ -1853,7 +1863,19 @@
     "source": "luma-crypto",
     "descriptionSource": {
       "url": "https://luma.com/g4w56vmw",
-      "fetchedAt": "2026-10-30T21:50:25.979Z",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Riserva London | Digital Assets under pressure: Sanctions, Enforcement and Economic Crime, Fireside with Fieldfisher. · Luma",
+      "sha256": "acb23a4ad215d1d9f50bafa597a09674b17b686726f08567a976165e6d1caa50"
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/g4w56vmw",
+      "eventId": "evt-hEPVDHswwbLlwGV",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
       "method": "luma-page"
     }
   },
@@ -1893,7 +1915,19 @@
     "source": "luma-crypto",
     "descriptionSource": {
       "url": "https://luma.com/convergence-onchain-finance-das-london",
-      "fetchedAt": "2026-10-30T21:50:26.667Z",
+      "fetchedAt": "2026-11-10T11:37:55.556Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Convergence: Onchain Finance Soirée at DAS London · Luma",
+      "sha256": "04a1268538c8720e52d3152d49cc5e78f2484e1e83639845587a553286bec8ff"
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/convergence-onchain-finance-das-london",
+      "eventId": "evt-i1tMtsPFib0VzBF",
+      "fetchedAt": "2026-11-10T11:37:55.556Z",
       "method": "luma-page"
     }
   },
@@ -1933,7 +1967,19 @@
     "source": "luma-crypto",
     "descriptionSource": {
       "url": "https://luma.com/dashalborndinner",
-      "fetchedAt": "2026-10-30T21:50:27.509Z",
+      "fetchedAt": "2026-11-10T11:38:00.631Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Executive Digital Assets Dinner w/ Halborn · Luma",
+      "sha256": "0c44e929bea5dfd2570329213614c20447865d91f4988c5ded007140703cf056"
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/dashalborndinner",
+      "eventId": "evt-EE9MycFCpEgkV5P",
+      "fetchedAt": "2026-11-10T11:38:00.631Z",
       "method": "luma-page"
     }
   },
@@ -2013,7 +2059,19 @@
     "source": "luma-crypto",
     "descriptionSource": {
       "url": "https://luma.com/dudrils9",
-      "fetchedAt": "2026-10-30T21:50:29.329Z",
+      "fetchedAt": "2026-11-10T11:38:03.444Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Meet Jersey: Digital Assets Breakfast · Luma",
+      "sha256": "87658b8b5430b73c4094024a2a05bf8981110938a3888c29fbb235b1c637e450"
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/dudrils9",
+      "eventId": "evt-1F0DAf4iEFBhM9N",
+      "fetchedAt": "2026-11-10T11:38:03.444Z",
       "method": "luma-page"
     }
   },
@@ -2211,7 +2269,19 @@
     "source": "luma-crypto",
     "descriptionSource": {
       "url": "https://luma.com/sfzfreestyle1",
-      "fetchedAt": "2026-10-30T21:50:30.862Z",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Solana Fitness Zone: Content Freestyle | Solana Foundation x OFFLINE · Luma",
+      "sha256": "6c437ec698254caebd58cfe6df4a01838a6abe8278eae2817d487eef37061442"
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/sfzfreestyle1",
+      "eventId": "evt-5f8DApeYV9EOQrM",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
       "method": "luma-page"
     }
   },
@@ -2231,7 +2301,19 @@
     "source": "luma-crypto",
     "descriptionSource": {
       "url": "https://luma.com/3n5hl4c7",
-      "fetchedAt": "2026-10-30T21:50:31.530Z",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Draper Dragon After Hours | Breakpoint Day 1 · Luma",
+      "sha256": "131b930124ffe74b1a101fb2956808611ec9c9ed1b1a68fc4f910245526a475c"
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/3n5hl4c7",
+      "eventId": "evt-hXFJAwhWGjDusCS",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
       "method": "luma-page"
     }
   },
@@ -2251,7 +2333,19 @@
     "source": "luma-crypto",
     "descriptionSource": {
       "url": "https://luma.com/kzh1qgwg",
-      "fetchedAt": "2026-10-30T21:50:32.610Z",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Solana Fitness Zone: Group Reiki Experience | Solana Foundation x Ottersec · Luma",
+      "sha256": "ed09afd1edc46a18e8100cae434225f0b95e5dda5fe84848de4922363b29ef90"
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/kzh1qgwg",
+      "eventId": "evt-0Sn4QB5KWkR4LeX",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
       "method": "luma-page"
     }
   },
@@ -2271,7 +2365,19 @@
     "source": "luma-crypto",
     "descriptionSource": {
       "url": "https://luma.com/sfzfreestyle2",
-      "fetchedAt": "2026-10-30T21:50:33.499Z",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Solana Fitness Zone: Content Freestyle | Solana Foundation x OFFLINE · Luma",
+      "sha256": "6c437ec698254caebd58cfe6df4a01838a6abe8278eae2817d487eef37061442"
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/sfzfreestyle2",
+      "eventId": "evt-ye20BagHxEHh8CO",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
       "method": "luma-page"
     }
   },
@@ -2311,7 +2417,19 @@
     "source": "luma-crypto",
     "descriptionSource": {
       "url": "https://luma.com/xykfcf1a",
-      "fetchedAt": "2026-10-30T21:50:34.436Z",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Money Layer @Breakpoint🇬🇧 Week · Luma",
+      "sha256": "f37c32094396dc8d5dcec9f22e4f33927a438e48e066b151e6f4ccad68428cf2"
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/xykfcf1a",
+      "eventId": "evt-QRCPU4eBHlR2IuK",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
       "method": "luma-page"
     }
   },
@@ -2351,7 +2469,19 @@
     "source": "luma-crypto",
     "descriptionSource": {
       "url": "https://luma.com/akashhousewarmingparty",
-      "fetchedAt": "2026-10-30T21:50:35.934Z",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Housewarming! A Breakpoint Closing Party with Akash · Luma",
+      "sha256": "e499060e7edb0ff7409645abe0f398925cf828327d68d2da4d462dbe8ecceaf8"
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/akashhousewarmingparty",
+      "eventId": "evt-1yFFRNxP28wg7wF",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
       "method": "luma-page"
     }
   },
@@ -2371,7 +2501,19 @@
     "source": "luma-crypto",
     "descriptionSource": {
       "url": "https://luma.com/blockc-eg04",
-      "fetchedAt": "2026-10-30T21:50:36.865Z",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Blockchain.com: TYB Party · Luma",
+      "sha256": "d44afab4ffc4d9558b92476955cc0c3bd86f1556c7b2c257aa739381b6bbc5dd"
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/blockc-eg04",
+      "eventId": "evt-hlKrPIIiRiniy1E",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
       "method": "luma-page"
     }
   },
@@ -2568,7 +2710,7 @@
     "coverImage": "/events/luma-crypto-n7aiok5arp1ecb9-d4460c4e.webp",
     "source": "luma-crypto",
     "sideEventFor": [
-      "breakpoint"
+      "token2049"
     ],
     "descriptionSource": {
       "url": "https://luma.com/5rcaej1m",

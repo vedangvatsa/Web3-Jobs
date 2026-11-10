@@ -81,16 +81,6 @@
       "slug": "tech-summit"
     },
     {
-      "url": "https://luma.com/michelinfoodrace1011",
-      "name": "The Lion City Michelin Food Race 2026 11 Oct - Register Interest",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "lion-city-michelin"
-    },
-    {
       "url": "https://luma.com/gqwqsft8",
       "name": "Vibrez × La Royale | Race Day Yacht Party",
       "sources": [
@@ -207,17 +197,6 @@
     {
       "url": "https://luma.com/lioncitymichelin11Oct26",
       "name": "The Lion City Michelin Food Race 2026 - 11 Oct (USDC)",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/TBE-ThePinnacle",
-      "name": "The Best Event: The Pinnacle",
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",

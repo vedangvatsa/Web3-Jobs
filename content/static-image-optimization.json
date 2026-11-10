@@ -4477,10 +4477,6 @@
       "sha256": "18318725605b581290eab9952b0a3c31bfe91bb64692959f99c45f481fdcbc79",
       "status": "optimized"
     },
-    "/events/token2049-evt-pg8qxaecl1fhi4f-96a17854.webp": {
-      "sha256": "2f1203ca75716a10925186ef1efb5129f1e544bfc73fcb6654a2c5c7313d00a5",
-      "status": "optimized"
-    },
     "/events/token2049-evt-rnmjyd2klny67ue-682420c3.webp": {
       "sha256": "4db3a9015ecf2d9c1323e24290ea2f20a6cbb4a325ff1af82565620016a0b1e3",
       "status": "optimized"
@@ -4516,10 +4512,6 @@
     "/events/token2049-side-6a739ce35a75007b41001095-cd08b915.webp": {
       "sha256": "c15ed96293bd45f8ee16dc9a916e6378484f8f6a639cb1cd45254735645189d5",
       "status": "optimized"
-    },
-    "/events/token2049-side-6aa1744c967be0befa88d013-280aa649.webp": {
-      "sha256": "cdc40676a1a150cbc7ac0d23f53c4d717ed68ee2a1a76a870285d2c5113f96ee",
-      "status": "retained"
     },
     "/events/token2049-side-6aa1745c967be0befa88d018-5b2e45a6.webp": {
       "sha256": "0336b43bc39f4e1491706c2cb7cf21531e21e997b1cb0013e077ee8f41f32445",

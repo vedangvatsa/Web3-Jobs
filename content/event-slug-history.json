@@ -41,20 +41,12 @@
     "slug": "ixuz80ix",
     "aliases": []
   },
-  "token2049-evt-Pg8QXaeCl1FhI4f": {
-    "slug": "lion-city-michelin",
-    "aliases": []
-  },
   "luma-batch-evtZJzbrUXrq27u4": {
     "slug": "yyp8316a",
     "aliases": []
   },
   "token2049-evt-UR9SCndJ5J5KLkb": {
     "slug": "vlr3",
-    "aliases": []
-  },
-  "token2049-side-6aa1744c967be0befa88d013": {
-    "slug": "best-event10",
     "aliases": []
   },
   "token2049-evt-6VKAwtDjFMzwrkx": {
@@ -658,7 +650,9 @@
   "luma-crypto-8dntupEO60aiWT5": {
     "slug": "solana-hacker-house-london",
     "aliases": [
-      "shhlon"
+      "shhlon",
+      "luma-host-evt-evt-8dntupeo60aiwt5",
+      "w3v-solana-hacker-house-london-26-11-01"
     ]
   },
   "premier-hk-fintech-week-2026": {
@@ -906,7 +900,10 @@
   },
   "luma-batch-evtIbEJtZTwhozec": {
     "slug": "lukka-mugi",
-    "aliases": []
+    "aliases": [
+      "evening-lukka-das-london-edition",
+      "w3v-evening-lukka-das-london-edition-26-11-10"
+    ]
   },
   "premier-bitcoinhistorico": {
     "slug": "bitcoin-historico",
@@ -2043,11 +2040,15 @@
   },
   "w3v-solana-demo-day--london-2026": {
     "slug": "solana-demo-day-london",
-    "aliases": []
+    "aliases": [
+      "luma-host-evt-evt-a5hth6nhkylqspq"
+    ]
   },
   "discovery-evt-no4dPWhKPtAMNU0": {
     "slug": "local-w-m-c-breakpoint-das-edition",
-    "aliases": []
+    "aliases": [
+      "w3v-the-local-wmc---breakpointdas-edition"
+    ]
   },
   "discovery-evt-dqMVS2PrUBDRnF3": {
     "slug": "bitcoin-beginners-2026-11-13",
@@ -2055,7 +2056,9 @@
   },
   "w3v-solana-intelligence-summit": {
     "slug": "solana-intelligence-summit",
-    "aliases": []
+    "aliases": [
+      "luma-host-evt-evt-5gtpowbyoupmorq"
+    ]
   },
   "curated-digital-assets-forum-new-york-2026-11-13": {
     "slug": "digital-assets-forum-new-york",
@@ -2099,7 +2102,9 @@
   },
   "discovery-evt-vL3kHCN39reaPwE": {
     "slug": "solana-fitness-zone-mental-reset-workshop-breakpoint",
-    "aliases": []
+    "aliases": [
+      "w3v-solana-fitness-zone-mental-reset-workshop--breakpoint-2026"
+    ]
   },
   "discovery-evt-dG5O5F5HU9O4ikF": {
     "slug": "solana-fitness-zone-dynamic-pilates-breakpoint-2026-11-16",
@@ -2107,7 +2112,9 @@
   },
   "discovery-evt-yqbouX052XUmpA8": {
     "slug": "solana-fitness-zone-group-boxing-breakpoint",
-    "aliases": []
+    "aliases": [
+      "w3v-solana-fitness-zone-group-boxing--breakpoint-2026"
+    ]
   },
   "discovery-evt-IME1HwTy1ywWmub": {
     "slug": "solana-fitness-zone-rise-shine-yoga-monkedao-breakpoint",
@@ -2119,7 +2126,9 @@
   },
   "discovery-evt-gjNVvhgcknTCwpc": {
     "slug": "solana-fitness-zone-hiit-class-breakpoint",
-    "aliases": []
+    "aliases": [
+      "w3v-solana-fitness-zone-hiit-class--breakpoint-2026-2"
+    ]
   },
   "discovery-evt-nn6OreUXqAcO2wA": {
     "slug": "solana-fitness-zone-sound-healing-breathwork-breakpoint",
@@ -2917,7 +2926,10 @@
   },
   "luma-crypto-hXFJAwhWGjDusCS": {
     "slug": "draper-dra",
-    "aliases": []
+    "aliases": [
+      "draper-dragon-after-hours-breakpoint-day-1",
+      "w3v-draper-dragon-after-hours--breakpoint-day-1"
+    ]
   },
   "luma-crypto-0Sn4QB5KWkR4LeX": {
     "slug": "solana-fitkzh",
@@ -2939,7 +2951,10 @@
   },
   "luma-crypto-hj7ObeemnBUZFgQ": {
     "slug": "unofficial",
-    "aliases": []
+    "aliases": [
+      "bp26-after-party",
+      "luma-batch-hj7obeemnbuzfgq"
+    ]
   },
   "luma-crypto-1yFFRNxP28wg7wF": {
     "slug": "housewarming-breakpoint-closing-party-akash",
@@ -2949,7 +2964,10 @@
   },
   "luma-crypto-hlKrPIIiRiniy1E": {
     "slug": "blockchain-london",
-    "aliases": []
+    "aliases": [
+      "blockchain-com-tyb-party",
+      "w3v-blockchaincom-tyb-party"
+    ]
   },
   "luma-crypto-CRKd13ywnfX44wC": {
     "slug": "meetup-crypto-fribourg-novembre",
@@ -3127,6 +3145,582 @@
   },
   "token2049-evt-mtGOY2CrC193nlv": {
     "slug": "after-hours",
+    "aliases": []
+  },
+  "luma-batch-urRXVJURLF23o8v": {
+    "slug": "futureofknowledge",
+    "aliases": []
+  },
+  "luma-batch-F7kq43hyz18xQG0": {
+    "slug": "bornlive-zoju",
+    "aliases": []
+  },
+  "luma-batch-IUEW0E2wJuNNDfE": {
+    "slug": "mindshare-summit-london",
+    "aliases": [
+      "xi89ghzp"
+    ]
+  },
+  "luma-batch-IjBLxwb6Uo2DcHw": {
+    "slug": "proof-of-liquidity-london",
+    "aliases": []
+  },
+  "luma-batch-2vuGf0BdEDyBMGu": {
+    "slug": "institutional-investment-onchain-finance-cavalry-guards-club",
+    "aliases": [
+      "2rzglx4s"
+    ]
+  },
+  "luma-batch-1tWFFJCL8sgOsqf": {
+    "slug": "drinks-reception-w-wincent-bitgo",
+    "aliases": [
+      "n203puk9"
+    ]
+  },
+  "luma-batch-DlqdWZosGTo2PMt": {
+    "slug": "qfex-private-dinner-london",
+    "aliases": [
+      "oxb43wcp"
+    ]
+  },
+  "luma-batch-tRH1FnpmMnJx2bW": {
+    "slug": "blockaid-uj77",
+    "aliases": []
+  },
+  "luma-batch-vqZoCcj5ANpXILX": {
+    "slug": "das-london-investor-mixer",
+    "aliases": [
+      "9eafv3yp"
+    ]
+  },
+  "luma-batch-bb06d8Tjp65TcVC": {
+    "slug": "lo-limit-holdem",
+    "aliases": [
+      "0k1qf4jv"
+    ]
+  },
+  "luma-batch-Prx8NpfAn49MQXf": {
+    "slug": "thelondonprivatetable",
+    "aliases": []
+  },
+  "luma-batch-A3zqLfP6vOp6cnD": {
+    "slug": "vip-cocktail-night-hosted-m-crypto-latham-watkins",
+    "aliases": [
+      "up5knoe4"
+    ]
+  },
+  "luma-batch-ILT0lcMhDtLznT4": {
+    "slug": "cover-distance-5k-das-london",
+    "aliases": [
+      "gh66ltup"
+    ]
+  },
+  "luma-batch-S1AIAYvjVrFv3DR": {
+    "slug": "breakpoint-record-your-podcast-or-interviews-west-digital-studios",
+    "aliases": [
+      "270a0mmj"
+    ]
+  },
+  "luma-batch-MhfZLiT8n4XnWpd": {
+    "slug": "notting-but-good-time",
+    "aliases": [
+      "zlkr6jpr"
+    ]
+  },
+  "luma-batch-BB4VGYrB6wZ2Paw": {
+    "slug": "forma-residency-final-ship-show-live-london",
+    "aliases": [
+      "zoyuihzw"
+    ]
+  },
+  "luma-batch-h7N8UTj6ynbGgl4": {
+    "slug": "bnb-padel-club-das-london",
+    "aliases": [
+      "ry1m8mwg"
+    ]
+  },
+  "luma-batch-fdVAGh9PSRKJucQ": {
+    "slug": "scaling-defi-london-edition",
+    "aliases": [
+      "y6on1z3r"
+    ]
+  },
+  "luma-batch-S4G6ae5zkWnmAoH": {
+    "slug": "canton-3iff",
+    "aliases": []
+  },
+  "luma-batch-zxjxdRejzk2dk1P": {
+    "slug": "react-foundation-meetup-london",
+    "aliases": [
+      "g9q690i2"
+    ]
+  },
+  "luma-batch-xtQtanDrfpFm7DN": {
+    "slug": "hypernative-zama-london",
+    "aliases": []
+  },
+  "luma-batch-JuE6aAMn2ECiaHd": {
+    "slug": "clearing-house-iii-london",
+    "aliases": [
+      "v1iiz5a0"
+    ]
+  },
+  "luma-batch-7OigHTrxRxQcVJp": {
+    "slug": "evening-london-areta-ht-digital",
+    "aliases": [
+      "3rgknsky"
+    ]
+  },
+  "luma-batch-7IltWQivC8j5b74": {
+    "slug": "das-london-vip-speaker-dinner",
+    "aliases": [
+      "i27nre2i"
+    ]
+  },
+  "luma-batch-KYvswZPAbjc4fsm": {
+    "slug": "lo-ck-dinner",
+    "aliases": [
+      "09gg4l1c"
+    ]
+  },
+  "luma-batch-WzcTcTD7fplbgnu": {
+    "slug": "crypto-quant-capital-connect-london",
+    "aliases": [
+      "c44badoa"
+    ]
+  },
+  "luma-batch-KQw9EBtwoNBkWgE": {
+    "slug": "zigfinancexsecure-com",
+    "aliases": []
+  },
+  "luma-batch-capitalsummit-london-2026": {
+    "slug": "capitalsummit-london",
+    "aliases": []
+  },
+  "luma-batch-stablesummit-london-2026": {
+    "slug": "stablesummit-london",
+    "aliases": []
+  },
+  "luma-batch-6JCuec4MRj1w6PC": {
+    "slug": "tennis-drinks-investor-edition-solana-breakpoint-week",
+    "aliases": [
+      "skuw5c5c"
+    ]
+  },
+  "luma-batch-EwuGKeYon5CHnnr": {
+    "slug": "lo-ckin-dinner-break-point-edition",
+    "aliases": [
+      "go26cwv5"
+    ]
+  },
+  "luma-batch-hhFIRwEzOZviMth": {
+    "slug": "sol-community-awards",
+    "aliases": []
+  },
+  "luma-batch-PoH6r1NfNZqFlhN": {
+    "slug": "confidential-cocktails",
+    "aliases": [
+      "79z3lo0z"
+    ]
+  },
+  "luma-batch-PHrej0kELHB9ciB": {
+    "slug": "meow-exclusive-london-mixer",
+    "aliases": [
+      "kf7cs2qb"
+    ]
+  },
+  "luma-batch-G4DBWnW2C3gAUSz": {
+    "slug": "drakes-tap",
+    "aliases": [
+      "c0yh7qhz"
+    ]
+  },
+  "luma-batch-Ukw5t6zrVyNWYqX": {
+    "slug": "la-mode-darelle-pop-up-its-summer-somewhere",
+    "aliases": [
+      "3lquw02s"
+    ]
+  },
+  "luma-batch-o9kzF8kx051PHBu": {
+    "slug": "pints-packs-breakpoint-welcome-party",
+    "aliases": [
+      "y6zy8xy2"
+    ]
+  },
+  "luma-batch-AoiUwT63QQkPBHm": {
+    "slug": "frontier-traders-grand-final-london",
+    "aliases": []
+  },
+  "luma-batch-jYh6l4PEfb0qEKt": {
+    "slug": "founders-investors-brunch-breakpoint-london",
+    "aliases": [
+      "avidk59g"
+    ]
+  },
+  "luma-batch-YQIfL0dlrGbXNMM": {
+    "slug": "altitude-coffee-bp26",
+    "aliases": []
+  },
+  "luma-batch-GrtC9TUcGYFirbV": {
+    "slug": "not-your-keys-not-your-cheese-wallet-security-solana",
+    "aliases": [
+      "blockaid-ztbw"
+    ]
+  },
+  "luma-batch-67JWDvDucpxvaAP": {
+    "slug": "sunday-roast-toast",
+    "aliases": [
+      "udhl08kn"
+    ]
+  },
+  "luma-batch-7zyBUy3BQiZJk2X": {
+    "slug": "afternoon-provisions-breakpoint",
+    "aliases": [
+      "vca7q67q"
+    ]
+  },
+  "luma-batch-4fE3TpP7GyPkzWU": {
+    "slug": "fish-ships-jupiter-community-afternoon",
+    "aliases": [
+      "ir45fvzj"
+    ]
+  },
+  "luma-batch-0lmcVeRN9T4rQBM": {
+    "slug": "galactic-racer-live-watch-party",
+    "aliases": [
+      "g7m59b0h"
+    ]
+  },
+  "luma-batch-XkxrmwARo64IIbp": {
+    "slug": "finance-leaders-club-vip-dinner-cocktail-evening-founders-investors-finance",
+    "aliases": [
+      "6lo0x0u1"
+    ]
+  },
+  "luma-batch-uzIlkLr7jl4QMe5": {
+    "slug": "showdown-poker-night-founders-vs-funders",
+    "aliases": [
+      "obhye2at"
+    ]
+  },
+  "luma-batch-GrI2hiFtERiAaBW": {
+    "slug": "members-only",
+    "aliases": [
+      "zcf6jo28"
+    ]
+  },
+  "luma-batch-2n3GGhuys71DsOK": {
+    "slug": "liquidityafterdark",
+    "aliases": []
+  },
+  "luma-batch-Ml2mtWNWHgOdc6a": {
+    "slug": "proof-coffee-accuracy-auditing-accounting",
+    "aliases": [
+      "89bsaskb"
+    ]
+  },
+  "luma-batch-MPiFI0tS7CBU8w4": {
+    "slug": "whats-tickr-solana-breakpoint-uk",
+    "aliases": [
+      "dnb54th3"
+    ]
+  },
+  "luma-batch-zoDCMxuWJdJjD9m": {
+    "slug": "builder-zone",
+    "aliases": []
+  },
+  "luma-batch-C2fgopLuR1HroT9": {
+    "slug": "zebu-live-arms-great-british-pub-takeover-presented-alphawire",
+    "aliases": [
+      "jzlkn59s"
+    ]
+  },
+  "luma-batch-mg6jYF5dVcZenvG": {
+    "slug": "meet-your-match-w-cow-swap-solana-breakpoint",
+    "aliases": [
+      "mkvzcqey"
+    ]
+  },
+  "luma-batch-Le7SL7LE6JRUVw9": {
+    "slug": "fenwick-presents-proper-london-knees-up",
+    "aliases": [
+      "2hjd7dhn"
+    ]
+  },
+  "luma-batch-THqfDiMOMqT2Mwd": {
+    "slug": "capital-x-counsel-london",
+    "aliases": [
+      "ds1wk8ak"
+    ]
+  },
+  "luma-batch-zrk3NGBZL9Gk29p": {
+    "slug": "sol-noir-institution-dinner-socure-x-walletconnect",
+    "aliases": [
+      "lr7mltq4"
+    ]
+  },
+  "luma-batch-v4fP4XaBqrkS0cw": {
+    "slug": "london-calling",
+    "aliases": [
+      "cbiabn4m"
+    ]
+  },
+  "luma-batch-avoOHquocOGPhkh": {
+    "slug": "alchemy-vip-dinner-solana-breakpoint",
+    "aliases": [
+      "3ob6fi72"
+    ]
+  },
+  "luma-batch-H8OTGctV3QNO5Pt": {
+    "slug": "breakpoint-day-two-afterparty",
+    "aliases": [
+      "6sdoouxp"
+    ]
+  },
+  "luma-batch-YO2Cs6oaVUKUT0a": {
+    "slug": "fintech-data-london-executive-dinner",
+    "aliases": [
+      "pyth-sq5v"
+    ]
+  },
+  "luma-batch-PhJVlFFuDqMRGx1": {
+    "slug": "breakpointmixer",
+    "aliases": []
+  },
+  "luma-batch-z9nMUsduDbVHtdZ": {
+    "slug": "edgerunners-app-networking-drinks-annabels",
+    "aliases": [
+      "3uvlhear"
+    ]
+  },
+  "luma-batch-lGPL5HySBC1yYnb": {
+    "slug": "head-down-5k-solana-445-crew",
+    "aliases": [
+      "3bwtn4jz"
+    ]
+  },
+  "luma-batch-5wq81PKc302vJ26": {
+    "slug": "dev3pack-meetup-bridge-accelerator",
+    "aliases": [
+      "th9m3zor"
+    ]
+  },
+  "luma-batch-6dFKWpEO2XAED5T": {
+    "slug": "huddle-invitation-only",
+    "aliases": [
+      "monkedao-nmgt"
+    ]
+  },
+  "luma-batch-07ppBLn2Fr0sLVa": {
+    "slug": "blockaid-feke",
+    "aliases": []
+  },
+  "luma-batch-0adDopwALbOiBo9": {
+    "slug": "w3-playbook-podcast-launch-party-official-breakpoint-afterparty",
+    "aliases": [
+      "cjvk9099"
+    ]
+  },
+  "luma-batch-dRIJxpC91GiWTdl": {
+    "slug": "group-show",
+    "aliases": [
+      "6a2t3pnw"
+    ]
+  },
+  "luma-batch-CZgpfroA4Hny1a7": {
+    "slug": "granola-gemini-hackathon",
+    "aliases": []
+  },
+  "luma-batch-BDWrYCLCGIRa8ol": {
+    "slug": "startingpoint-bp-scholar-mixer",
+    "aliases": [
+      "uxoxg099"
+    ]
+  },
+  "luma-batch-Ysn0ovLxBFuWFIH": {
+    "slug": "lo-limit-holdem-break-point-edition",
+    "aliases": [
+      "ebtmwnmy"
+    ]
+  },
+  "luma-batch-WVI1A3iIjWRAUUD": {
+    "slug": "fomoworld-franky-rizardo",
+    "aliases": [
+      "av4pz4r6"
+    ]
+  },
+  "luma-batch-vY28n2g6tUDRUXm": {
+    "slug": "hlx-wrap-party-18th-nov-180-soho-house",
+    "aliases": [
+      "i0i9z8br"
+    ]
+  },
+  "luma-batch-fSthSJvvlDZAWS6": {
+    "slug": "business-media-future-attention-audience-growth",
+    "aliases": [
+      "vy0r1xpo"
+    ]
+  },
+  "w3v-applied-blockchain-sessions-soho-house-26-11-10": {
+    "slug": "applied-blockchain-sessions-soho-house",
+    "aliases": []
+  },
+  "w3v-private-investor-dinner-future-onchain-payments-26-11-10": {
+    "slug": "private-investor-dinner-future-onchain-payments-das-london",
+    "aliases": []
+  },
+  "w3v-below-surface-crymbo-orbs-26-11-10": {
+    "slug": "below-surface-crymbo-orbs",
+    "aliases": []
+  },
+  "w3v-signal-evening-reception--das-london": {
+    "slug": "signal-evening-reception-das-london",
+    "aliases": []
+  },
+  "luma-host-evt-evt-rifQUccAP7Oz7Hs": {
+    "slug": "ai-verification-x-crypto",
+    "aliases": []
+  },
+  "w3v-pizza-at-pimlico-s-breakpoint-2026-14-1793276114683": {
+    "slug": "pizza-pimlicos-breakpoint",
+    "aliases": []
+  },
+  "w3v-build-across-chains-a-solana-builder-briefing-with-near-intents-x-aurora-intents-12-1793109495470": {
+    "slug": "build-across-chains-solana-builder-briefing-near-intents-x-aurora",
+    "aliases": [
+      "luma-host-evt-evt-0iytxt7gbebn9da"
+    ]
+  },
+  "w3v-riserva-london-stablecoins-compliance-wine-26-11-14": {
+    "slug": "riserva-london-stablecoins-compliance-over-wine",
+    "aliases": [
+      "luma-host-evt-evt-zqicdp1thjeveuu"
+    ]
+  },
+  "w3v-little-blue-door-fastshares-after-hours": {
+    "slug": "little-blue-door-fastshares-after-hours",
+    "aliases": []
+  },
+  "w3v-solana-fitness-zone-hiit-class--breakpoint-2026": {
+    "slug": "solana-fitness-zone-hiit-class-breakpoint-london",
+    "aliases": []
+  },
+  "w3v-the-internet-capital-supermarket": {
+    "slug": "internet-capital-supermarket",
+    "aliases": []
+  },
+  "w3v-powered-by-fastshares-london-walking-tour-with-stuk": {
+    "slug": "powered-fastshares-london-walking-tour-stuk",
+    "aliases": []
+  },
+  "w3v-born-up--breakpoint-london-community-networking-meetup": {
+    "slug": "born-up-breakpoint-london-community-networking-meetup",
+    "aliases": []
+  },
+  "w3v-the-house-of-monke": {
+    "slug": "house-monke",
+    "aliases": []
+  },
+  "w3v-vcs--lps-cocktail-hour--breakpoint--london": {
+    "slug": "vcs-lps-cocktail-hour-breakpoint-london",
+    "aliases": []
+  },
+  "w3v-rwas-from-tokenized-to-traded": {
+    "slug": "rwas-tokenized-traded",
+    "aliases": []
+  },
+  "w3v-forward-industries---breakpoint-dinner": {
+    "slug": "forward-industries-breakpoint-dinner",
+    "aliases": []
+  },
+  "w3v-proof--pour--london--a-private-cocktail-evening": {
+    "slug": "proof-pour-london-private-cocktail-evening",
+    "aliases": []
+  },
+  "w3v-squid-dinner--london": {
+    "slug": "squid-dinner-london",
+    "aliases": []
+  },
+  "w3v-coffee-with-alpine": {
+    "slug": "coffee-alpine",
+    "aliases": []
+  },
+  "w3v-fwdi-breakpoint-happy-hour": {
+    "slug": "fwdi-breakpoint-happy-hour",
+    "aliases": []
+  },
+  "w3v-ggc-gmgn-global-championship---london-finals": {
+    "slug": "ggc-gmgn-global-championship-london-finals",
+    "aliases": []
+  },
+  "w3v-the-rwa-pub-at-breakpoint": {
+    "slug": "rwa-pub-breakpoint",
+    "aliases": []
+  },
+  "w3v-licence-to-spend-an-evening-with-altitude-and-rain": {
+    "slug": "licence-spend-evening-altitude-rain",
+    "aliases": []
+  },
+  "w3v-solana-breakpoint-security-drinks---by-fidesium": {
+    "slug": "solana-breakpoint-security-drinks-fidesium",
+    "aliases": []
+  },
+  "luma-host-evt-evt-Fhp8UoAf4T7kEgc": {
+    "slug": "sports-meets-solana-future-sports-is-chain",
+    "aliases": [
+      "w3v-sports-meets-solana-the-future-of-sports-is-on-chain"
+    ]
+  },
+  "w3v-bullseye-with-multicoin-capital": {
+    "slug": "bullseye-multicoin-capital",
+    "aliases": []
+  },
+  "w3v-sol-calling-solana-breakpoint-happy-hour": {
+    "slug": "sol-calling-solana-breakpoint-happy-hour",
+    "aliases": []
+  },
+  "w3v-cocktails-with-coinbase--harmonic": {
+    "slug": "cocktails-coinbase-harmonic",
+    "aliases": []
+  },
+  "w3v-fog--fortune": {
+    "slug": "fog-fortune",
+    "aliases": []
+  },
+  "w3v-house-of-sol-breakpoint": {
+    "slug": "house-sol-breakpoint",
+    "aliases": []
+  },
+  "w3v-spis-legal--policy-dinner---breakpoint-2026": {
+    "slug": "spis-legal-policy-dinner-breakpoint",
+    "aliases": []
+  },
+  "w3v-beyond-business-an-exclusive-dinner-in-mayfair": {
+    "slug": "beyond-business-exclusive-dinner-mayfair",
+    "aliases": []
+  },
+  "w3v-new-friendship-tech-london": {
+    "slug": "new-friendship-tech-london",
+    "aliases": []
+  },
+  "w3v-privy-home-irl-london": {
+    "slug": "privy-home-irl-london",
+    "aliases": []
+  },
+  "w3v-london-happy-hour": {
+    "slug": "london-happy-hour",
+    "aliases": []
+  },
+  "w3v-breakpoint-pub-quiz": {
+    "slug": "breakpoint-pub-quiz",
+    "aliases": []
+  },
+  "w3v-no-more-pitches": {
+    "slug": "no-more-pitches",
+    "aliases": []
+  },
+  "w3v-solanas-challenges-getblocks-solutions": {
+    "slug": "solanas-challenges-getblocks-solutions",
     "aliases": []
   }
 }

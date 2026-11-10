@@ -322,7 +322,11 @@
       ]
     },
     "registrationUrl": "https://luma.com/0j8gx7i1",
-    "slug": "sec"
+    "slug": "sec",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "luma-host-evt-evt-T1nhxzU2JSJPAgq",
@@ -844,9 +848,19 @@
     "sourceVerification": {
       "url": "https://luma.com/ol25ta77",
       "eventId": "evt-vgWXB5qezoXEUVS",
-      "fetchedAt": "2026-09-19T23:54:56.925Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/ol25ta77",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "CodeCup: AI x Solana Builder Arena — Breakpoint 2026 · Luma",
+      "sha256": "44a73544edfd46b68e6c483da7b8bcaacaff44e69309bb1a8020389cd9d90150"
     }
   },
   {
@@ -932,9 +946,19 @@
     "sourceVerification": {
       "url": "https://luma.com/TheUnBanked",
       "eventId": "evt-uVXUyuXnUPp7Nwn",
-      "fetchedAt": "2026-09-19T23:54:57.580Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/TheUnBanked",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "The (un)Banked Conference · Luma",
+      "sha256": "a3b788f569a190df743ee5b27e509793b7b2a60c7bbe7c6fa5ddbb7fc721616f"
     }
   },
   {
@@ -993,7 +1017,11 @@
           "representation": "html"
         }
       ]
-    }
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ]
   },
   {
     "id": "w3v-purple-table-breakpoint-edition-26-11-13",
@@ -1033,9 +1061,19 @@
     "sourceVerification": {
       "url": "https://luma.com/rszxbf8n",
       "eventId": "evt-Zdu4QV9UGKPwuvA",
-      "fetchedAt": "2026-09-19T23:54:59.069Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "luma-page"
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/rszxbf8n",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Purple Table: Women Before Breakpoint (Invite-only) · Luma",
+      "sha256": "a4681c4ced7dcea3149d353417ed5d23e52b1df99eba0bbfcd43d759502daff4"
     }
   },
   {
@@ -1097,9 +1135,19 @@
     "sourceVerification": {
       "url": "https://luma.com/a4qnux81",
       "eventId": "evt-Pfb1j5bJZxVmbGS",
-      "fetchedAt": "2026-09-19T23:54:59.691Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
+      "fetchedAt": "2026-11-10T11:38:28.941Z",
+      "method": "luma-page"
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/a4qnux81",
+      "fetchedAt": "2026-11-10T11:38:28.941Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Founder x VC Summit | Demo Day | Breakpoint 🇬🇧 · Luma",
+      "sha256": "82efca05b769fdf186310f0411650304fdd1cfb4dc82a049078fe07a40803a83"
     }
   },
   {
@@ -1149,9 +1197,19 @@
     "sourceVerification": {
       "url": "https://luma.com/dmxdc394",
       "eventId": "evt-pbPYGrgkazAy7Bw",
-      "fetchedAt": "2026-09-19T23:55:00.344Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "luma-page"
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/dmxdc394",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "BlockZero 2026 · Luma",
+      "sha256": "6382eb67c2d35984ead6956f9ee25c77766e54522395cfd296abd6a774194c9a"
     }
   },
   {
@@ -1192,9 +1250,19 @@
     "sourceVerification": {
       "url": "https://luma.com/h6w8v75y",
       "eventId": "evt-Ird69Ex5nDjFwFF",
-      "fetchedAt": "2026-09-19T23:55:00.971Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/h6w8v75y",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "🚀 Breakpoint Trading Battle 🚀 · Luma",
+      "sha256": "0d8e38c0a57d7575fa04c61153adcb22e003a9a55ae6725ba8db4b8988df2639"
     }
   },
   {
@@ -1237,9 +1305,19 @@
     "sourceVerification": {
       "url": "https://luma.com/aqntywn2",
       "eventId": "evt-CyEdAOwOZhxMN3O",
-      "fetchedAt": "2026-09-19T23:55:01.651Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/aqntywn2",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Pr1me [London Series] - Exclusive Dinner for Web3 Finance · Luma",
+      "sha256": "8f62ff0b7c874ea065636fd846f2569b115049d4959adcc38bdf64c897214b98"
     }
   },
   {
@@ -1294,9 +1372,19 @@
     "sourceVerification": {
       "url": "https://luma.com/frzpha3k",
       "eventId": "evt-bxyxWVHxIIA30lJ",
-      "fetchedAt": "2026-09-19T23:55:02.241Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/frzpha3k",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "BEYOND THE FRAME: An Immersive Art Activation by Render Network x Solana · Luma",
+      "sha256": "810952bc9c476ecca3a6fe1924a11c8305485253e26c26feb970b3f4cbd1edde"
     }
   },
   {
@@ -1398,9 +1486,19 @@
     "sourceVerification": {
       "url": "https://luma.com/hrb0040d",
       "eventId": "evt-LDSErNQQ6jx89G5",
-      "fetchedAt": "2026-09-19T23:55:03.518Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
+      "fetchedAt": "2026-11-10T11:38:27.816Z",
+      "method": "luma-page"
+    },
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/hrb0040d",
+      "fetchedAt": "2026-11-10T11:38:27.816Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Founder x VC Summit | VIP Dinner | Breakpoint Week 🇬🇧 · Luma",
+      "sha256": "756ba2cfa51ba5182df49d8a4764eb70753c1bf8c95a5eb60e5e3248b7a824a7"
     }
   },
   {
@@ -1774,57 +1872,6 @@
       "method": "reviewed-primary-sources",
       "pageTitle": "ETHConf — June 14–16, 2027 | The World's Largest Institutional Ethereum Event",
       "sha256": "a2be8757bb23983d0188180568113c686fc28cf244e56b3d02593f6eb885a83e"
-    }
-  },
-  {
-    "id": "token2049-side-6aa1744c967be0befa88d013",
-    "name": "The Best Event: The Pinnacle",
-    "description": "The Pinnacle, hosted by The Best Event, closes out the week's daytime gatherings, a final easy afternoon before the main event takes over the city. This is the last quiet moment before the Grand Prix noise begins.\n\nElevation is hosted at Singapore's most premium penthouse suite, in an iconic 5-star hotel overlooking Marina Bay. With floor-to-ceiling views of the F1 Track, this premium space reflects the calibre of company you can expect and a level of exclusivity you shouldn't miss.\n\nEvent Highlights:\n\n• A refined afternoon gathering with a discerning crowd — founders, investors, and the industry's most connected\n• Freshly baked pastries and light bites, served throughout\n• Front-row views as the F1 track builds toward race night energy\n• Sweeping skyline views that set an elegant tone\n• Refined networking in a stunning, luxury venue\n\n## Hosted By:\n\n[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.\n\nFor sponsor inquiries [for the penthouse editions, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.",
-    "startDate": "2026-10-11T04:00:00.000Z",
-    "endDate": "2026-10-11T07:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/TBE-ThePinnacle",
-    "coverImage": "/events/token2049-side-6aa1744c967be0befa88d013-280aa649.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Party/Dinner",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "The Best Event",
-      "Tobias Bauer",
-      "Brent Fulfer",
-      "Mihir Odhrani"
-    ],
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "slug": "best-event10",
-    "registrationUrl": "https://luma.com/TBE-ThePinnacle",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "The Best Event",
-      "url": "https://thebestevent.com/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/TBE-ThePinnacle",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/TBE-ThePinnacle",
-      "eventId": "evt-EIwGJtiTReS3iJM",
-      "fetchedAt": "2026-09-19T23:56:08.800Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },
   {
@@ -2531,7 +2578,7 @@
   {
     "id": "luma-host-evt-evt-8dntupEO60aiWT5",
     "name": "Solana Hacker House - London",
-    "description": "",
+    "description": "Solana Hacker House - London",
     "startDate": "2026-11-01T10:00:00.000Z",
     "endDate": "2026-11-12T20:00:00.000Z",
     "city": "London",
@@ -2540,7 +2587,24 @@
     "url": "https://luma.com/london-hh-26",
     "coverImage": "/events/luma-host-evt-evt-8dntupeo60aiwt5-5e3033a1.webp",
     "source": "luma-trusted",
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/london-hh-26",
+      "eventId": "evt-8dntupEO60aiWT5",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/london-hh-26",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Solana Hacker House - London · Luma",
+      "sha256": "9c5713b8cfcbedae712f6da8624105c23421ed50a7936e50a2f136dfd596babb"
+    }
   },
   {
     "id": "w3v-solana-hacker-house-london-26-11-01",
@@ -2553,7 +2617,24 @@
     "location": "London, GB",
     "url": "https://luma.com/london-hh-26",
     "coverImage": "/events/w3v-solana-hacker-house-london-26-11-01-fe495214.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/london-hh-26",
+      "eventId": "evt-8dntupEO60aiWT5",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/london-hh-26",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Solana Hacker House - London · Luma",
+      "sha256": "a4f9803f1ecbbf914f805eb8805ba0080a4b6780a0386d7ad14253fd3c165ac3"
+    }
   },
   {
     "id": "w3v-congress-mumbai-26-11-02",
@@ -3045,7 +3126,24 @@
     "location": "London, GB",
     "url": "https://luma.com/altitude-rain-BP26",
     "coverImage": "/events/w3v-licence-to-spend-an-evening-with-altitude-and--f8a20027.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/altitude-rain-BP26",
+      "eventId": "evt-BeI13EX7JODp5A8",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/altitude-rain-BP26",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Licence to Spend: an evening with Altitude and Rain · Luma",
+      "sha256": "ce1119c737187c196bf7dd1edb76f5d9473c1e152f32bb78ba72eba9bd941014"
+    }
   },
   {
     "name": "Borneo Blockchain Conference 2026",
@@ -5588,7 +5686,8 @@
     "visibility": "public",
     "attendanceMode": "mixed",
     "sideEventFor": [
-      "breakpoint"
+      "breakpoint",
+      "solana-breakpoint"
     ],
     "sourceVerification": {
       "url": "https://luma.com/sol-demo-day",
@@ -5665,7 +5764,8 @@
     "visibility": "public",
     "attendanceMode": "offline",
     "sideEventFor": [
-      "breakpoint"
+      "breakpoint",
+      "solana-breakpoint"
     ],
     "sourceVerification": {
       "url": "https://luma.com/intelligence-summit",
@@ -5746,7 +5846,8 @@
     "visibility": "public",
     "attendanceMode": "offline",
     "sideEventFor": [
-      "breakpoint"
+      "breakpoint",
+      "solana-breakpoint"
     ],
     "sourceVerification": {
       "url": "https://luma.com/scale-or-die-26",
@@ -5804,7 +5905,24 @@
     "location": "London, GB",
     "url": "https://luma.com/yrxbkvmn",
     "coverImage": "/events/w3v-new-friendship-tech-london-e7b99cf5.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/yrxbkvmn",
+      "eventId": "evt-DYH1LHTXEiDHfDg",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/yrxbkvmn",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "🇬🇧 New Friendship Tech | London | Breakpoint 2026 · Luma",
+      "sha256": "1d9bb5a862a80457c819191a6fb00715191215ecdfbb6e62fb7a8560bfc0de36"
+    }
   },
   {
     "id": "luma-evt-9X0S2PcKLrABMQm",
@@ -6829,7 +6947,8 @@
     "visibility": "public",
     "attendanceMode": "offline",
     "sideEventFor": [
-      "breakpoint"
+      "breakpoint",
+      "solana-breakpoint"
     ],
     "sourceVerification": {
       "url": "https://luma.com/n6r4k7vb",
@@ -6887,7 +7006,24 @@
     "location": "Global",
     "url": "https://luma.com/eqwsf08t",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/eqwsf08t",
+      "eventId": "evt-FPweDNhLCia6fQk",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/eqwsf08t",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "[ONLINE] Solana's Challenges, GetBlock's Solutions · Luma",
+      "sha256": "526da31ca5cdbfa407266d4a8a7b4989c74a011bdf4855e4870329ec6ceb31cc"
+    }
   },
   {
     "id": "mu-316686929",
@@ -12299,7 +12435,24 @@
     "location": "London, GB",
     "url": "https://luma.com/lo-qqld",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/lo-qqld",
+      "eventId": "evt-no4dPWhKPtAMNU0",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/lo-qqld",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "The LOCAL W.M.C - Breakpoint/DAS Edition · Luma",
+      "sha256": "3e0f1d28ede2891b42ec9dd06187c8927bddab0a9f402465edc64cbc8707f73d"
+    }
   },
   {
     "id": "w3v-solana-fitness-zone-hiit-class--breakpoint-2026",
@@ -12312,7 +12465,24 @@
     "location": "London, GB",
     "url": "https://luma.com/solanahiit",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/solanahiit",
+      "eventId": "evt-qOBeMbnD90S2fMb",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/solanahiit",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Solana Fitness Zone: HIIT Class | Solana Foundation x Proxima x OFFLINE · Luma",
+      "sha256": "9c0ccb03d2ed63af6c6af8ffafdf8b11fcdbe1670f5cfb271e6b2093a81955af"
+    }
   },
   {
     "id": "w3v-solana-fitness-zone-mental-reset-workshop--breakpoint-2026",
@@ -12325,7 +12495,24 @@
     "location": "London, GB",
     "url": "https://luma.com/solanareset",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/solanareset",
+      "eventId": "evt-vL3kHCN39reaPwE",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/solanareset",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Solana Fitness Zone: Mental Reset Workshop | Solana Foundation x Proxima x OFFLINE · Luma",
+      "sha256": "0ea059a4c2b6da6b127d5a316b84ad14d2fb10c2a91f75b96902ff5f5c9602d7"
+    }
   },
   {
     "id": "mu-316957516",
@@ -12456,7 +12643,7 @@
   {
     "id": "luma-host-evt-evt-A5Hth6nHkYLqSPQ",
     "name": "Solana Demo Day | London 2026",
-    "description": "",
+    "description": "Solana Demo Day | London 2026",
     "startDate": "2026-11-12T10:00:00.000Z",
     "endDate": "2026-11-12T18:30:00.000Z",
     "city": "London",
@@ -12465,12 +12652,29 @@
     "url": "https://luma.com/sol-demo-day",
     "coverImage": "/events/luma-host-evt-evt-a5hth6nhkylqspq-4de870a1.webp",
     "source": "luma-trusted",
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/sol-demo-day",
+      "eventId": "evt-A5Hth6nHkYLqSPQ",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/sol-demo-day",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Solana Demo Day | London 2026 · Luma",
+      "sha256": "b4305847f6ef9109b217b7e2bd1fc7f11c4446078d0249911ca13e0cac5aab43"
+    }
   },
   {
     "id": "luma-host-evt-evt-5gtpOwBYoupMorq",
     "name": "Solana Intelligence Summit",
-    "description": "",
+    "description": "Solana Intelligence Summit",
     "startDate": "2026-11-13T10:00:00.000Z",
     "endDate": "2026-11-13T18:00:00.000Z",
     "city": "London",
@@ -12479,7 +12683,24 @@
     "url": "https://luma.com/intelligence-summit",
     "coverImage": "/events/luma-host-evt-evt-5gtpowbyoupmorq-3974b1f2.webp",
     "source": "luma-trusted",
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/intelligence-summit",
+      "eventId": "evt-5gtpOwBYoupMorq",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/intelligence-summit",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Solana Intelligence Summit · Luma",
+      "sha256": "458cff345d1501c7ee5badb00833ba6fa6fcf359bd10702762811abd17760482"
+    }
   },
   {
     "id": "w3v-born-up--breakpoint-london-community-networking-meetup",
@@ -12492,7 +12713,24 @@
     "location": "London, GB",
     "url": "https://luma.com/btvqwap1",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/btvqwap1",
+      "eventId": "evt-bl169MElYq0sCpJ",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/btvqwap1",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "BORN UP — Breakpoint London Community Networking Meetup · Luma",
+      "sha256": "a30a899c3ed16f6705ed970f833100dccba9425a0e218090c74940e4831fa869"
+    }
   },
   {
     "id": "w3v-vcs--lps-cocktail-hour--breakpoint--london",
@@ -12505,7 +12743,24 @@
     "location": "London, GB",
     "url": "https://luma.com/6ung8frj",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/6ung8frj",
+      "eventId": "evt-XcwOgiAGK3aANLU",
+      "fetchedAt": "2026-11-10T11:38:24.029Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/6ung8frj",
+      "fetchedAt": "2026-11-10T11:38:24.029Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "VCs &amp; LPs Cocktail Hour ✨ Breakpoint - London · Luma",
+      "sha256": "043965ed015a26a1f855a2a679af546e68e227adc64b38bfb7ef77fdf3ffa57d"
+    }
   },
   {
     "id": "w3v-forward-industries---breakpoint-dinner",
@@ -12518,7 +12773,24 @@
     "location": "London, GB",
     "url": "https://luma.com/cnswgn30",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/cnswgn30",
+      "eventId": "evt-CZZsaiFoXDw9a5b",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/cnswgn30",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Forward Industries - Breakpoint Dinner · Luma",
+      "sha256": "18b7ca83156d139e08b26312eff8bfecb9fe846326271ade67e7c5774ef07537"
+    }
   },
   {
     "id": "w3v-proof--pour--london--a-private-cocktail-evening",
@@ -12531,7 +12803,24 @@
     "location": "London, GB",
     "url": "https://luma.com/zkpwmk83",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/zkpwmk83",
+      "eventId": "evt-1xmzdxAXFM4v6GB",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/zkpwmk83",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Proof & Pour · London | A Private Cocktail Evening · Luma",
+      "sha256": "c6d0e6518ce8ca7669f7f8bccfdabc36630e0508a8f48f585feddee9ce6e1b60"
+    }
   },
   {
     "id": "w3v-solana-fitness-zone-group-boxing--breakpoint-2026",
@@ -12544,7 +12833,24 @@
     "location": "London, GB",
     "url": "https://luma.com/solanaboxing",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/solanaboxing",
+      "eventId": "evt-yqbouX052XUmpA8",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/solanaboxing",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Solana Fitness Zone: Group Boxing | Solana Foundation x Proxima x OFFLINE · Luma",
+      "sha256": "b9e8bfebdaf5c18a26c0ed78809a7b6c0123c66b18ff3b40df12c2f69032c8b1"
+    }
   },
   {
     "id": "w3v-fwdi-breakpoint-happy-hour",
@@ -12557,7 +12863,24 @@
     "location": "London, GB",
     "url": "https://luma.com/ti7vdsai",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/ti7vdsai",
+      "eventId": "evt-9iWihe81yuPnTsk",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/ti7vdsai",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "FWDI Breakpoint Happy Hour · Luma",
+      "sha256": "9d6fa8c98b4318a3761c593f555cf4bbe0adaa78a8fc10514661fd2da5116ad2"
+    }
   },
   {
     "id": "w3v-ggc-gmgn-global-championship---london-finals",
@@ -12570,7 +12893,24 @@
     "location": "London, GB",
     "url": "https://luma.com/39ckiuiy",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/39ckiuiy",
+      "eventId": "evt-YhaG6m8fIj8WZVT",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/39ckiuiy",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "GGC: GMGN Global Championship - London Finals | Breakpoint 2026 · Luma",
+      "sha256": "1c60be39c567d34c62f47b898ee868a8af494c9b015d53855c35908ff4148d59"
+    }
   },
   {
     "id": "w3v-solana-breakpoint-security-drinks---by-fidesium",
@@ -12583,7 +12923,24 @@
     "location": "London, GB",
     "url": "https://luma.com/lajgsnqb",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/lajgsnqb",
+      "eventId": "evt-FSXaYyzgm8GTiHb",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/lajgsnqb",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Solana Breakpoint Security Drinks - by Fidesium · Luma",
+      "sha256": "51f53aa8f21d8bcdee683bf519543b6321625fc22bfd8aaff7a4a1cf688270d7"
+    }
   },
   {
     "id": "w3v-sol-calling-solana-breakpoint-happy-hour",
@@ -12596,7 +12953,24 @@
     "location": "London, GB",
     "url": "https://luma.com/gpxfy249",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/gpxfy249",
+      "eventId": "evt-PsTDfTk8Wgeu8Cc",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/gpxfy249",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "SOL Calling: Solana Breakpoint Happy Hour · Luma",
+      "sha256": "c18e41301ad5176cfbd5584e8eb2c1adde46646d2699ec8078378f4617f5baf2"
+    }
   },
   {
     "id": "w3v-beyond-business-an-exclusive-dinner-in-mayfair",
@@ -12609,7 +12983,24 @@
     "location": "London, GB",
     "url": "https://luma.com/snrmcp50",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/snrmcp50",
+      "eventId": "evt-cGD25DOpSxEabJi",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/snrmcp50",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Beyond Business: An Exclusive Dinner in Mayfair · Luma",
+      "sha256": "37e1484d0d6ba6994456c51432cde21e9619cb12e1d84f823e8ad2c6dbef7355"
+    }
   },
   {
     "id": "w3v-solana-fitness-zone-hiit-class--breakpoint-2026-2",
@@ -12622,7 +13013,24 @@
     "location": "London, GB",
     "url": "https://luma.com/solanahiits",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/solanahiits",
+      "eventId": "evt-gjNVvhgcknTCwpc",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/solanahiits",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Solana Fitness Zone: HIIT Class | Solana Foundation x OFFLINE · Luma",
+      "sha256": "4e611448f0caaa29298944b0d2c85c4d4da7bce604d5f23680a3b62a8635866a"
+    }
   },
   {
     "id": "w3v-london-happy-hour",
@@ -12635,7 +13043,24 @@
     "location": "London, GB",
     "url": "https://luma.com/LondonHappyHour",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/LondonHappyHour",
+      "eventId": "evt-C6S4f7LRCmPR3xH",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/LondonHappyHour",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "London Happy Hour · Luma",
+      "sha256": "cdb1f7a37b7f6d56864d3284fcc8ceb8a89c6c8947da4fb7f698cd97ccc5f1a1"
+    }
   },
   {
     "id": "w3v-breakpoint-pub-quiz",
@@ -12648,7 +13073,24 @@
     "location": "London, GB",
     "url": "https://luma.com/n41tqnps",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/n41tqnps",
+      "eventId": "evt-kksJcMFWssgd6DV",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/n41tqnps",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Breakpoint Pub Quiz · Luma",
+      "sha256": "fdb88c6cecc4a83c9662b0fa3313e5de8b68cbda35ecc7e8d4fdbc490e774543"
+    }
   },
   {
     "id": "w3v-no-more-pitches",
@@ -12661,7 +13103,24 @@
     "location": "London, GB",
     "url": "https://luma.com/e9iw08nn",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/e9iw08nn",
+      "eventId": "evt-ahH1BlieX47J2oh",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/e9iw08nn",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "NO MORE PITCHES · Luma",
+      "sha256": "7d655eb1694dc52045d67fb7313e628e6cb6b1cd6daf3a6d77d31747790967c3"
+    }
   },
   {
     "id": "luma-evt-PuYOwG3mhodxC6r",
@@ -13113,7 +13572,7 @@
   {
     "id": "luma-host-evt-evt-Fhp8UoAf4T7kEgc",
     "name": "Sports Meets Solana: The Future of Sports is On-chain ⚽",
-    "description": "",
+    "description": "Sports Meets Solana: The Future of Sports is On-chain ⚽",
     "startDate": "2026-11-16T17:00:00.000Z",
     "endDate": "2026-11-16T22:00:00.000Z",
     "city": "London",
@@ -13122,7 +13581,24 @@
     "url": "https://luma.com/1hdsvfdv",
     "coverImage": "/events/luma-host-evt-evt-fhp8uoaf4t7kegc-b77d2ea0.webp",
     "source": "luma-trusted",
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/1hdsvfdv",
+      "eventId": "evt-Fhp8UoAf4T7kEgc",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/1hdsvfdv",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Sports Meets Solana: The Future of Sports is On-chain ⚽ · Luma",
+      "sha256": "878a148554f66b60026589bfd1fad4f8f0357d059fcdf2af9d50df50b655dfa1"
+    }
   },
   {
     "id": "luma-evt-ooMqgHEqhm7sdaH",
@@ -13204,7 +13680,24 @@
     "location": "London, GB",
     "url": "https://luma.com/lukka-mugi",
     "coverImage": "/events/w3v-evening-lukka-das-london-edition-26-11-10-cf1a8134.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/lukka-mugi",
+      "eventId": "evt-IbEJtZTwhozeczq",
+      "fetchedAt": "2026-11-10T11:38:21.560Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/lukka-mugi",
+      "fetchedAt": "2026-11-10T11:38:21.560Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "An Evening with Lukka - DAS London Edition · Luma",
+      "sha256": "638073e68c3f6166a19bc4d5ab5a5cf84d51c8b86ea5e6e40baa9abe927572c8"
+    }
   },
   {
     "id": "mu-317096564",
@@ -13409,7 +13902,24 @@
     "location": "London, GB",
     "url": "https://luma.com/horizonlondonsummit",
     "coverImage": "/events/w3v-blockstories-horizon-london-summit-26-11-09-963566a7.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/horizonlondonsummit",
+      "eventId": "evt-EB8O1EGWTmiaFIp",
+      "fetchedAt": "2026-11-10T11:38:17.053Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/horizonlondonsummit",
+      "fetchedAt": "2026-11-10T11:38:17.053Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Blockstories Horizon 2026: London Summit 🇬🇧 · Luma",
+      "sha256": "cbea78da14389d075ae55754621a5b138564f8c5e387c4d76f6fe4c18826663a"
+    }
   },
   {
     "id": "w3v-spearpoint-annual-c-suite-gathering-das-26-11-09",
@@ -13422,7 +13932,24 @@
     "location": "London, GB",
     "url": "https://luma.com/ochqw6c3",
     "coverImage": "/events/w3v-spearpoint-annual-c-suite-gathering-das-26-11--a85b4fba.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/ochqw6c3",
+      "eventId": "evt-1L7H9RcHnVfX0YI",
+      "fetchedAt": "2026-11-10T11:38:05.107Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/ochqw6c3",
+      "fetchedAt": "2026-11-10T11:38:05.107Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Spearpoint Annual C-Suite Gathering - DAS London · Luma",
+      "sha256": "4f222a46bff97c50ba331559847ca37f9595b159b7c425bed09ffe59846dbfd5"
+    }
   },
   {
     "id": "w3v-applied-blockchain-sessions-soho-house-26-11-10",
@@ -13435,7 +13962,24 @@
     "location": "London, GB",
     "url": "https://luma.com/m3gf8ayo",
     "coverImage": "/events/w3v-applied-blockchain-sessions-soho-house-26-11-1-dfc607cb.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/m3gf8ayo",
+      "eventId": "evt-AezC8YGljhBckbO",
+      "fetchedAt": "2026-11-10T11:38:20.745Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/m3gf8ayo",
+      "fetchedAt": "2026-11-10T11:38:20.745Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Applied Blockchain Sessions 2026 | Soho House · Luma",
+      "sha256": "e5f8f07a328c6db06a189371b2fc685d782956dcaa9075b827cfd7e27560416c"
+    }
   },
   {
     "id": "w3v-private-investor-dinner-future-onchain-payments-26-11-10",
@@ -13448,7 +13992,24 @@
     "location": "London, GB",
     "url": "https://luma.com/8d7o3qh7",
     "coverImage": "/events/w3v-private-investor-dinner-future-onchain-payment-3660b197.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/8d7o3qh7",
+      "eventId": "evt-B9gIzvCDKe17CKW",
+      "fetchedAt": "2026-11-10T11:38:08.910Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/8d7o3qh7",
+      "fetchedAt": "2026-11-10T11:38:08.910Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Private Investor Dinner - Future of onchain payments @ DAS London · Luma",
+      "sha256": "69a4c4086f7d4fdba7c9e613110cdfcd35c0f7db544a5a59bc73bfd72e9632a9"
+    }
   },
   {
     "id": "w3v-below-surface-crymbo-orbs-26-11-10",
@@ -13461,7 +14022,24 @@
     "location": "London, GB",
     "url": "https://luma.com/048ehkci",
     "coverImage": "/events/w3v-below-surface-crymbo-orbs-26-11-10-7e052136.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/048ehkci",
+      "eventId": "evt-efPCN31fyiZYy1q",
+      "fetchedAt": "2026-11-10T11:38:18.906Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/048ehkci",
+      "fetchedAt": "2026-11-10T11:38:18.906Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Below the Surface: CRYMBO × Orbs · Luma",
+      "sha256": "baf93e83218585e43b32dfed028a2d7e3a7af22cb79270127ea0e991e8666dfe"
+    }
   },
   {
     "id": "mu-315752491",
@@ -13488,7 +14066,24 @@
     "location": "London, GB",
     "url": "https://luma.com/fkoham7n",
     "coverImage": "/events/w3v-riserva-london-stablecoins-compliance-wine-26--f0205624.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/fkoham7n",
+      "eventId": "evt-zqiCdp1THJEVEUU",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/fkoham7n",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Riserva London | Stablecoins and compliance over wine · Luma",
+      "sha256": "f21c63b77a19cbf238c98b41604f0f473e58a62121b460e70f40dce93e65c67a"
+    }
   },
   {
     "id": "ma-blockdown-festival-dubai-2027",
@@ -13529,7 +14124,24 @@
     "location": "London, GB",
     "url": "https://luma.com/8zpe32j0",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/8zpe32j0",
+      "eventId": "evt-byoTqkneaems4eo",
+      "fetchedAt": "2026-11-10T11:38:22.434Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/8zpe32j0",
+      "fetchedAt": "2026-11-10T11:38:22.434Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "An Evening at the US Embassy, London — Hosted by Lukka · Luma",
+      "sha256": "b51ca48564c3b2834971d350c483223de3ec22c45e960e96d85b8385524ee340"
+    }
   },
   {
     "id": "w3v-signal-evening-reception--das-london",
@@ -13542,7 +14154,24 @@
     "location": "London, GB",
     "url": "https://luma.com/j6gxeshu",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/j6gxeshu",
+      "eventId": "evt-tQcoIQfMR6LoYaf",
+      "fetchedAt": "2026-11-10T11:38:06.108Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/j6gxeshu",
+      "fetchedAt": "2026-11-10T11:38:06.108Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Evening Reception by The Signal &amp; Uniwire @ DAS London 🇬🇧 · Luma",
+      "sha256": "4b8eabda0b1471285be114c3e2cf8d5209a1ccd9f43dd4a6276eef7960d67799"
+    }
   },
   {
     "id": "luma-evt-xEHE9rEbbSAUVFm",
@@ -14293,7 +14922,24 @@
     "location": "London, GB",
     "url": "https://luma.com/loajg3ik",
     "coverImage": "/events/luma-host-evt-evt-0iytxt7gbebn9da-519a0dae.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/loajg3ik",
+      "eventId": "evt-0IYTXT7gbeBn9DA",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/loajg3ik",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Build Across Chains: A Solana Builder Briefing, with NEAR Intents x Aurora Intents · Luma",
+      "sha256": "f1ebe36f986a7105175ef0b4d9026ee347886266c8db839968354d9fc9e99fde"
+    }
   },
   {
     "id": "w3v-paytech-global-conference-2027-13-1793131019224",
@@ -14892,7 +15538,24 @@
     "location": "London, GB",
     "url": "https://luma.com/klgng11i",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/klgng11i",
+      "eventId": "evt-4CkEwnMFAvs0f9p",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/klgng11i",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Pizza at Pimlico's 🍕 | Breakpoint 2026 · Luma",
+      "sha256": "02ed596b6d762980666322b339dda323eb765eca7f32904b4e888676fa838c4a"
+    }
   },
   {
     "id": "luma-evt-73ltP7aqQdCxApK",
@@ -15028,7 +15691,7 @@
   {
     "id": "luma-host-evt-evt-0IYTXT7gbeBn9DA",
     "name": "Build Across Chains: A Solana Builder Briefing, with NEAR Intents x Aurora Intents",
-    "description": "",
+    "description": "Build Across Chains: A Solana Builder Briefing, with NEAR Intents x Aurora Intents",
     "startDate": "2026-11-14T15:00:00.000Z",
     "endDate": "2026-11-14T17:30:00.000Z",
     "city": "London",
@@ -15037,7 +15700,24 @@
     "url": "https://luma.com/loajg3ik",
     "coverImage": "/events/luma-host-evt-evt-0iytxt7gbebn9da-519a0dae.webp",
     "source": "luma-trusted",
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/loajg3ik",
+      "eventId": "evt-0IYTXT7gbeBn9DA",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/loajg3ik",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Build Across Chains: A Solana Builder Briefing, with NEAR Intents x Aurora Intents · Luma",
+      "sha256": "2bf2ebc484aa9bec73eda78eac9f082aa6a3d3811c2b30037703989927fc4874"
+    }
   },
   {
     "id": "luma-evt-cTGFhlpSYExklus",
@@ -17109,7 +17789,24 @@
     "location": "London, GB",
     "url": "https://luma.com/8n4yuczc",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/8n4yuczc",
+      "eventId": "evt-h7GytNwHBK1iE61",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/8n4yuczc",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Little Blue Door: FastShares After Hours, 6pm until late · Luma",
+      "sha256": "60b76058dba38b29cf38da676230a8dc212d82046a450c0d126fa86f6fa87dfe"
+    }
   },
   {
     "id": "w3v-the-internet-capital-supermarket",
@@ -17122,7 +17819,24 @@
     "location": "London, GB",
     "url": "https://luma.com/qe5u8rpd",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/qe5u8rpd",
+      "eventId": "evt-HUK9MarYMET7HN3",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/qe5u8rpd",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "The Internet Capital Supermarket · Luma",
+      "sha256": "1941672ef913e668865d4e177acd949578bf8a0c84123a6fac829749560a0a52"
+    }
   },
   {
     "id": "w3v-powered-by-fastshares-london-walking-tour-with-stuk",
@@ -17135,7 +17849,24 @@
     "location": "London, GB",
     "url": "https://luma.com/7oly3746",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/7oly3746",
+      "eventId": "evt-DhFVbudr65ylUSr",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/7oly3746",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Powered by FastShares: London Walking Tour with STUK · Luma",
+      "sha256": "4bff15e61e2db957c7840213e4ebd78b033f5e74db5f5bbfe0bab223158fc598"
+    }
   },
   {
     "id": "w3v-the-house-of-monke",
@@ -17148,7 +17879,24 @@
     "location": "London, GB",
     "url": "https://luma.com/monkedao-nwio",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/monkedao-nwio",
+      "eventId": "evt-cLDYeQ1qs6sp4XF",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/monkedao-nwio",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "The House of Monke · Luma",
+      "sha256": "6f9232bf3cf86399f29c099464c624d160de334c947a038952602d0ebc5aad37"
+    }
   },
   {
     "id": "w3v-rwas-from-tokenized-to-traded",
@@ -17161,7 +17909,24 @@
     "location": "London, GB",
     "url": "https://luma.com/rtgpxj6h",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/rtgpxj6h",
+      "eventId": "evt-Wb6lozHVdn9LPbx",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/rtgpxj6h",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "RWAs: From Tokenized to Traded · Luma",
+      "sha256": "ec0ca786ee04c8e7ab034fab4b376bdc8b76173c4a7906423b431abd321086c4"
+    }
   },
   {
     "id": "w3v-draper-dragon-after-hours--breakpoint-day-1",
@@ -17174,7 +17939,24 @@
     "location": "London, GB",
     "url": "https://luma.com/3n5hl4c7",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/3n5hl4c7",
+      "eventId": "evt-hXFJAwhWGjDusCS",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/3n5hl4c7",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Draper Dragon After Hours | Breakpoint Day 1 · Luma",
+      "sha256": "3ce126abb6f783ea449a0aa55f86f91f908f60eb5d421563f17066d920b081bb"
+    }
   },
   {
     "id": "w3v-squid-dinner--london",
@@ -17187,7 +17969,24 @@
     "location": "London, GB",
     "url": "https://luma.com/14g91az1",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/14g91az1",
+      "eventId": "evt-SEqAuSE4n9N33vl",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/14g91az1",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Squid Dinner · London · Luma",
+      "sha256": "dde03bcc886cb8682352687d01cc39e6da42c7848a52a4fc7fa8204577e1f472"
+    }
   },
   {
     "id": "w3v-coffee-with-alpine",
@@ -17200,7 +17999,24 @@
     "location": "London, GB",
     "url": "https://luma.com/a6xuo4c1",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/a6xuo4c1",
+      "eventId": "evt-fl1xwFe4DvEARcN",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/a6xuo4c1",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Breakpoint Coffee for DeFi Builders & Traders · Luma",
+      "sha256": "14ff66006ec52165c072909bc9942633faa738220a692ec9f0d124147cf9adb7"
+    }
   },
   {
     "id": "w3v-the-rwa-pub-at-breakpoint",
@@ -17213,7 +18029,24 @@
     "location": "London, GB",
     "url": "https://luma.com/a9yvvi96",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/a9yvvi96",
+      "eventId": "evt-Yp4b8qxboRA6SnU",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/a9yvvi96",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "The RWA Pub at Breakpoint · Luma",
+      "sha256": "c1152c4664ff833c95dba62d632af78961f2955a16dc6d0bc78db2fb91b41ee0"
+    }
   },
   {
     "id": "luma-evt-pSbjRrWH7IE2fv5",
@@ -17240,7 +18073,24 @@
     "location": "London, GB",
     "url": "https://luma.com/g4w56vmw",
     "coverImage": "/events/w3v-riserva-london-digital-assets-pressure-sanctio-2acddbeb.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/g4w56vmw",
+      "eventId": "evt-hEPVDHswwbLlwGV",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/g4w56vmw",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Riserva London | Digital Assets under pressure: Sanctions, Enforcement and Economic Crime, Fireside with Fieldfisher. · Luma",
+      "sha256": "ef5483814e0b5ee99d538065474a1862f773e25d874d530ac1f9f8033e549db3"
+    }
   },
   {
     "id": "w3v-ai-palace-26-11-09",
@@ -17321,7 +18171,24 @@
     "location": "London, GB",
     "url": "https://luma.com/1hdsvfdv",
     "coverImage": "/events/luma-host-evt-evt-fhp8uoaf4t7kegc-b77d2ea0.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/1hdsvfdv",
+      "eventId": "evt-Fhp8UoAf4T7kEgc",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/1hdsvfdv",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Sports Meets Solana: The Future of Sports is On-chain ⚽ · Luma",
+      "sha256": "f31246d5c4b4321fb2e310319294c7d9e0763f1eaa783b7810d1999d5f316ef5"
+    }
   },
   {
     "id": "w3v-bullseye-with-multicoin-capital",
@@ -17334,7 +18201,24 @@
     "location": "London, GB",
     "url": "https://luma.com/4m0ksi3i",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/4m0ksi3i",
+      "eventId": "evt-ZHKrCdCMQs7oMAz",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/4m0ksi3i",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Bullseye with Multicoin Capital · Luma",
+      "sha256": "9353c874e9ccf639a8e2fcd1b0c9b5845fe7e09f809eb15db33c86800683bfbf"
+    }
   },
   {
     "id": "w3v-cocktails-with-coinbase--harmonic",
@@ -17347,7 +18231,24 @@
     "location": "London, GB",
     "url": "https://luma.com/1xahirkt",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/1xahirkt",
+      "eventId": "evt-afhanmGQ4iCeVky",
+      "fetchedAt": "2026-11-10T11:37:36.902Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/1xahirkt",
+      "fetchedAt": "2026-11-10T11:37:36.902Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Cocktails with Coinbase &amp; Harmonic · Luma",
+      "sha256": "d9f6f9bc1a0d6f65a2315ddda410b0bcb3f5777353dca14e566aa7f0d8ceb463"
+    }
   },
   {
     "id": "w3v-fog--fortune",
@@ -17360,7 +18261,24 @@
     "location": "London, GB",
     "url": "https://luma.com/fog_and_fortune",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/fog_and_fortune",
+      "eventId": "evt-dfs3oTCMxJSu2ll",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/fog_and_fortune",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Fog & Fortune · Luma",
+      "sha256": "54ef9c9272ac04380743852eca3d4b6cdf0b62a0d32a200e92dea909e0a66fca"
+    }
   },
   {
     "id": "w3v-house-of-sol-breakpoint",
@@ -17373,7 +18291,24 @@
     "location": "London, GB",
     "url": "https://luma.com/hos-breakpoint",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/hos-breakpoint",
+      "eventId": "evt-MRnjEUKkJC0SCbJ",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/hos-breakpoint",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "House of Sol: Breakpoint · Luma",
+      "sha256": "fbb514a9262884f0e935281287fea0049e11d6fd47c2735d546e28bb00b68605"
+    }
   },
   {
     "id": "w3v-spis-legal--policy-dinner---breakpoint-2026",
@@ -17386,7 +18321,24 @@
     "location": "London, GB",
     "url": "https://luma.com/tybnsosw",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/tybnsosw",
+      "eventId": "evt-gq6X0qvGTIKHMVR",
+      "fetchedAt": "2026-11-10T11:37:33.224Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/tybnsosw",
+      "fetchedAt": "2026-11-10T11:37:33.224Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "SPI&#x27;s Legal &amp; Policy Dinner - Breakpoint 2026 · Luma",
+      "sha256": "014f413da2d28f1b13f198b7cf01c0fbe43c610bbf811b207345c91ac988e907"
+    }
   },
   {
     "id": "w3v-privy-home-irl-london",
@@ -17399,7 +18351,24 @@
     "location": "London, GB",
     "url": "https://luma.com/aecztdcz",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/aecztdcz",
+      "eventId": "evt-jTQ07R5wGsl47t9",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/aecztdcz",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Privy Home: IRL London · Luma",
+      "sha256": "b05f9d891060f7063a8247e09590f8a9483692ccf58171dfb36b3e47ae741ef6"
+    }
   },
   {
     "id": "w3v-blockchaincom-tyb-party",
@@ -17412,7 +18381,24 @@
     "location": "London, GB",
     "url": "https://luma.com/blockc-eg04",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/blockc-eg04",
+      "eventId": "evt-hlKrPIIiRiniy1E",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/blockc-eg04",
+      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Blockchain.com: TYB Party · Luma",
+      "sha256": "04081b60ac384f956623433c92a3e249b753340b14c59333eaae131a5e8a4e15"
+    }
   },
   {
     "id": "luma-evt-RPSFDbI2HBr6DHs",
@@ -17627,7 +18613,7 @@
   {
     "id": "luma-host-evt-evt-rifQUccAP7Oz7Hs",
     "name": "AI Verification x Crypto",
-    "description": "",
+    "description": "AI Verification x Crypto",
     "startDate": "2026-11-13T18:00:00.000Z",
     "endDate": "2026-11-13T21:00:00.000Z",
     "city": "London",
@@ -17636,7 +18622,24 @@
     "url": "https://luma.com/j5glptwa",
     "coverImage": "/events/luma-host-evt-evt-rifquccap7oz7hs-b695c1d9.webp",
     "source": "luma-trusted",
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/j5glptwa",
+      "eventId": "evt-rifQUccAP7Oz7Hs",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/j5glptwa",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "AI Verification x Crypto · Luma",
+      "sha256": "1a877386efd9802e912f3c7fc95f5e3e00ff957343f5f182c42f70e53e8ea754"
+    }
   },
   {
     "id": "luma-evt-yFCMJYLErkYX7iQ",
@@ -18939,7 +19942,7 @@
   {
     "id": "luma-host-evt-evt-zqiCdp1THJEVEUU",
     "name": "Riserva London | Stablecoins and compliance over wine",
-    "description": "",
+    "description": "Riserva London | Stablecoins and compliance over wine",
     "startDate": "2026-11-14T17:00:00.000Z",
     "endDate": "2026-11-14T20:00:00.000Z",
     "city": "London",
@@ -18948,7 +19951,24 @@
     "url": "https://luma.com/fkoham7n",
     "coverImage": "/events/luma-host-evt-evt-zqicdp1thjeveuu-deb2f3cf.webp",
     "source": "luma-trusted",
-    "month": "November 2026"
+    "month": "November 2026",
+    "sideEventFor": [
+      "breakpoint",
+      "solana-breakpoint"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/fkoham7n",
+      "eventId": "evt-zqiCdp1THJEVEUU",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/fkoham7n",
+      "fetchedAt": "2026-11-10T11:55:25.311Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Riserva London | Stablecoins and compliance over wine · Luma",
+      "sha256": "3a9c2736c684dd6c3ad5e723b90a94a97463fc0dd16875407a37da1fe696951e"
+    }
   },
   {
     "id": "luma-host-evt-evt-fKh8Qb0MolZi5Kz",
