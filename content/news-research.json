@@ -157858,7 +157858,31 @@
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 0,
       "expiresAt": "2026-11-12T15:00:44.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "articleSlug": "nearlaunder",
+      "draftProgress": {
+        "id": "d432811dc2217724766a",
+        "day": "2026-11-10",
+        "articleSlug": "nearlaunder",
+        "note": "Read Cointelegraph and AltcoinBuzz full texts on the Elliptic memecoin-laundering report; CoinDesk primary URL returns HTTP 429. Draft and image still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.altcoinbuzz.io/north-korea-linked-hackers-create-fake-memecoins-to-launder-stolen-binance-funds",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-11-10T02:51:00.503Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "46e980078f4dc5054972": {
       "source": "Cointelegraph",
