@@ -126966,7 +126966,8 @@
       },
       "account": "channel:base",
       "attemptId": "b3d61f99-5c46-4af5-8bd4-9bbdaafa3bfb",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x211d84ca96f4ba55ce178ec6a00c9094ff5be5d2"
     }
   ]
 }
