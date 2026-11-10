@@ -153191,9 +153191,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "856bd37a86514cd6aa79",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-08T10:05:15.191Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-10T20:30:48.000Z",
       "lastSeenAt": "2026-11-08T10:05:15.191Z",
       "articleSlug": "princescams",
@@ -153211,7 +153211,21 @@
         "updatedAt": "2026-11-10T03:20:19.127Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Opened and read the primary Treasury/OFAC Nov 5 press release sb0683 in full and CryptoSlate's Nov 7 report; figures (4 people, 41 entities, Oct 2025 and June 2026 antecedents, ownership chain) match across both, 660-word draft passes quality, formatting, image and duplicate audits, Treasury building hero self-hosted from Wikimedia, both links return 200.",
+      "sourceChecks": [
+        {
+          "url": "https://home.treasury.gov/news/press-releases/sb0683",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/us-sanctions-hit-41-companies-accused-of-keeping-prince-groups-scam-network-running/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-10T03:22:42.385Z",
+      "lastReviewedDay": "2026-11-10"
     },
     "5f03a13435452b96a4ce": {
       "source": "CoinDesk",
@@ -302041,6 +302055,23 @@
           ],
           "reviewedAt": "2026-11-10T03:19:00.816Z",
           "articleSlug": "simdnonces"
+        },
+        "856bd37a86514cd6aa79": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Opened and read the primary Treasury/OFAC Nov 5 press release sb0683 in full and CryptoSlate's Nov 7 report; figures (4 people, 41 entities, Oct 2025 and June 2026 antecedents, ownership chain) match across both, 660-word draft passes quality, formatting, image and duplicate audits, Treasury building hero self-hosted from Wikimedia, both links return 200.",
+          "sourceChecks": [
+            {
+              "url": "https://home.treasury.gov/news/press-releases/sb0683",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/us-sanctions-hit-41-companies-accused-of-keeping-prince-groups-scam-network-running/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-10T03:22:42.385Z",
+          "articleSlug": "princescams"
         }
       },
       "baselineSlugs": [
