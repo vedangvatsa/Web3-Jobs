@@ -148564,24 +148564,20 @@
       "articleSlug": "iosdrains",
       "draftProgress": {
         "id": "bd9cea951bd811cec93b",
-        "day": "2026-11-09",
+        "day": "2026-11-10",
         "articleSlug": "iosdrains",
-        "note": "Rechecked CryptoSlate (Nov 7) and Bitquery primary investigation (Nov 5); read DailyCoin (Nov 6) as third outlet. iphone-spyware.md covers a different Oct 14 iVerify event, so not a duplicate. Drafting; need a distinct hero image.",
+        "note": "Rechecked DailyCoin link: HTTP 200 with readiness User-Agent but 403 with default curl UA, so it remains risky for the link gate; no iosdrains draft exists on disk despite the earlier quality-gate record, so the article must be rewritten from the Bitquery, CryptoSlate and DailyCoin reads; distinct hero still needed.",
         "sourceChecks": [
           {
             "url": "https://cryptoslate.com/zero-click-ios-exploits-drain-4m-usdt-from-active-tron-wallets/",
             "outcome": "read"
           },
           {
-            "url": "https://www.bitquery.io/investigations/iphone-wallet-drain-tron-usdt",
-            "outcome": "read"
-          },
-          {
             "url": "https://dailycoin.com/darksword-iphone-exploit-4m-crypto-theft",
-            "outcome": "read"
+            "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-11-09T04:18:52.712Z",
+        "updatedAt": "2026-11-10T03:20:22.552Z",
         "approved": false,
         "mustReview": true
       },
