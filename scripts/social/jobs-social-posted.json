@@ -126017,7 +126017,8 @@
       },
       "account": "channel:developers",
       "attemptId": "66dc01cb-a25c-41e2-8b3c-f63f4606b8d5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa8c0f24d08e1e5f8dffc81c415a38fe48e42ad18"
     }
   ]
 }
