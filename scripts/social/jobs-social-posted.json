@@ -128403,7 +128403,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "965290a3-40c0-44e5-925e-f941eaede9e6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x636b3f8f62c85498055ed778a70cd448b519f47a"
     }
   ]
 }
