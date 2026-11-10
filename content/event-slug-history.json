@@ -23,61 +23,17 @@
     "slug": "bitchill",
     "aliases": []
   },
-  "token2049-06041dac33726be9": {
-    "slug": "time-heist",
-    "aliases": []
-  },
   "luma-batch-F8zatkGwjYGzv3V": {
     "slug": "el-taller-colosseum-hackathon",
     "aliases": [
       "wpfunpri"
     ]
   },
-  "luma-batch-evtZJzbrUXrq27u4": {
-    "slug": "yyp8316a",
-    "aliases": []
-  },
-  "token2049-evt-UR9SCndJ5J5KLkb": {
-    "slug": "vlr3",
-    "aliases": []
-  },
-  "token2049-evt-6VKAwtDjFMzwrkx": {
-    "slug": "fwpj",
-    "aliases": []
-  },
   "luma-host-evt-evt-T1nhxzU2JSJPAgq": {
     "slug": "light-dao-global-living-lab",
     "aliases": [
       "gll"
     ]
-  },
-  "token2049-evt-8bYL1LTHyZTjOaC": {
-    "slug": "fwprd",
-    "aliases": []
-  },
-  "w3v-f1-sg-x-crypto-vc--race-day": {
-    "slug": "fsxcvrd",
-    "aliases": []
-  },
-  "token2049-evt-XYkkHo9ggZROsdv": {
-    "slug": "crypto-expo",
-    "aliases": []
-  },
-  "token2049-side-6aa1745c967be0befa88d018": {
-    "slug": "best-event11",
-    "aliases": []
-  },
-  "token2049-evt-JrqDBw5ETIo46aV": {
-    "slug": "vlr4",
-    "aliases": []
-  },
-  "token2049-evt-NYlK9SczUPInCqq": {
-    "slug": "private-trading",
-    "aliases": []
-  },
-  "token2049-side-6a739ce35a75007b41001095": {
-    "slug": "fgpnr",
-    "aliases": []
   },
   "luma-batch-qBDGEmPcUp5hQOI": {
     "slug": "superteam-p637",
@@ -3714,5 +3670,197 @@
   "w3v-solanas-challenges-getblocks-solutions": {
     "slug": "solanas-challenges-getblocks-solutions",
     "aliases": []
+  },
+  "luma-batch-38tgeic3": {
+    "slug": "cyclops-london-happy-hour",
+    "aliases": [
+      "38tgeic3"
+    ]
+  },
+  "luma-batch-5uo8utey": {
+    "slug": "hyperliquid-uk-community-meal",
+    "aliases": [
+      "5uo8utey"
+    ]
+  },
+  "luma-batch-yvjgdjl8": {
+    "slug": "scrypt-private-dinner-das-london",
+    "aliases": [
+      "yvjgdjl8"
+    ]
+  },
+  "luma-batch-ns75wwqg": {
+    "slug": "allocators-x-agentic-ai-where-institutional-capital-meets-agentic-ai",
+    "aliases": [
+      "ns75wwqg"
+    ]
+  },
+  "luma-batch-g39rpxpk": {
+    "slug": "frontier-markets-x-cmt-digital-happy-hour-das",
+    "aliases": [
+      "g39rpxpk"
+    ]
+  },
+  "luma-batch-x26b420k": {
+    "slug": "building-solana-colosseum-founders",
+    "aliases": [
+      "x26b420k"
+    ]
+  },
+  "luma-batch-hos-workshops-r3": {
+    "slug": "hos-workshops-r3",
+    "aliases": []
+  },
+  "luma-batch-afr82s1n": {
+    "slug": "breakpoint-crypto-padel",
+    "aliases": [
+      "afr82s1n"
+    ]
+  },
+  "luma-batch-px5f2j4k": {
+    "slug": "core-dev-lounge",
+    "aliases": [
+      "px5f2j4k"
+    ]
+  },
+  "luma-batch-zpm2ei66": {
+    "slug": "superteam-black-london",
+    "aliases": [
+      "zpm2ei66"
+    ]
+  },
+  "luma-batch-46m6ienv": {
+    "slug": "pubpoint-meet-greet-etherfuse-stellar",
+    "aliases": [
+      "46m6ienv"
+    ]
+  },
+  "luma-batch-siqdcgdt": {
+    "slug": "order-order",
+    "aliases": [
+      "siqdcgdt"
+    ]
+  },
+  "luma-batch-5yhvfaky": {
+    "slug": "solana-breakpoint-basketball-breakfast-london",
+    "aliases": [
+      "5yhvfaky"
+    ]
+  },
+  "luma-batch-cfld2bu7": {
+    "slug": "sunnys-sunday-lunch-ft-brave-flipcash",
+    "aliases": [
+      "cfld2bu7"
+    ]
+  },
+  "luma-batch-yn-dinner-london": {
+    "slug": "yn-dinner-london",
+    "aliases": []
+  },
+  "luma-batch-meteorasupercycle": {
+    "slug": "meteorasupercycle",
+    "aliases": []
+  },
+  "luma-batch-bxvz2tvf": {
+    "slug": "table-stripe-crypto-visa-open-standard",
+    "aliases": [
+      "bxvz2tvf"
+    ]
+  },
+  "luma-batch-colosseum-2xiq": {
+    "slug": "colosseum-2xiq",
+    "aliases": []
+  },
+  "luma-batch-ejadxw59": {
+    "slug": "swc-debanking-roundtable-zebu-live-arms",
+    "aliases": [
+      "ejadxw59"
+    ]
+  },
+  "luma-batch-gsrcrypto-jmyt": {
+    "slug": "gsrcrypto-jmyt",
+    "aliases": []
+  },
+  "luma-batch-y3s7ibya": {
+    "slug": "everything-code-decoded-raoul-pal",
+    "aliases": [
+      "y3s7ibya"
+    ]
+  },
+  "luma-batch-5hdnilau": {
+    "slug": "metaplex-vip-lunch-bringing-new-markets-solana",
+    "aliases": [
+      "5hdnilau"
+    ]
+  },
+  "luma-batch-gbb0zb3x": {
+    "slug": "breakpoint-happy-hour-imc-x-6mv-x-bulk",
+    "aliases": [
+      "gbb0zb3x"
+    ]
+  },
+  "luma-batch-k3ahu4pa": {
+    "slug": "kaspas-5th-birthday-celebration-london",
+    "aliases": [
+      "k3ahu4pa"
+    ]
+  },
+  "luma-batch-mfbpm39s": {
+    "slug": "golden-hour-kem",
+    "aliases": [
+      "mfbpm39s"
+    ]
+  },
+  "luma-batch-hos-workshops-alchemy": {
+    "slug": "hos-workshops-alchemy",
+    "aliases": []
+  },
+  "luma-batch-7q5g8hwc": {
+    "slug": "blockchain-banter-presents-web3-poker-club-x-wifey-wolfpack-poker",
+    "aliases": [
+      "7q5g8hwc"
+    ]
+  },
+  "luma-batch-gpeo2awb": {
+    "slug": "xapo-bank-community-event",
+    "aliases": [
+      "gpeo2awb"
+    ]
+  },
+  "luma-batch-adcvm4ny": {
+    "slug": "tao-social-bittensor-decentralised-ai-crypto",
+    "aliases": [
+      "adcvm4ny"
+    ]
+  },
+  "luma-batch-r5kqfaz0": {
+    "slug": "real-assets-digital-tokens-rwa-tokenisation",
+    "aliases": [
+      "r5kqfaz0"
+    ]
+  },
+  "luma-batch-p2y6kowo": {
+    "slug": "swc-cup-crypto-padel-league-final",
+    "aliases": [
+      "p2y6kowo"
+    ]
+  },
+  "luma-batch-encode-8amm": {
+    "slug": "build-tangem-mcp-workshop-build-night",
+    "aliases": [
+      "encode-8amm"
+    ]
+  },
+  "luma-batch-t7lb04mp": {
+    "slug": "sterling-stablecoins-beyond-where-is-digital-money-heading-uk",
+    "aliases": [
+      "t7lb04mp"
+    ]
+  },
+  "luma-batch-fwl27": {
+    "slug": "fintech-week-london-summit",
+    "aliases": [
+      "fwl27"
+    ]
   }
 }

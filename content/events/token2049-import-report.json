@@ -5,7 +5,6 @@
     "https://luma.com/token2049": 0,
     "https://luma.com/2049events": 7,
     "https://luma.com/singaporesideevents": 0,
-    "https://week.token2049.com": 601,
     "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view": 600,
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
@@ -81,65 +80,6 @@
       "slug": "tech-summit"
     },
     {
-      "url": "https://luma.com/gqwqsft8",
-      "name": "Vibrez × La Royale | Race Day Yacht Party",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "vlr3"
-    },
-    {
-      "url": "https://luma.com/zgtinqk2",
-      "name": "F1 Watch Party With Joe",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "fwpj"
-    },
-    {
-      "url": "https://luma.com/png06ixj",
-      "name": "F1 Watch Party — Singapore Race Day",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "fwprd"
-    },
-    {
-      "url": "https://luma.com/wewl4yec",
-      "name": "Crypto Expo SG x F1 Singapore GP",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "crypto-expo"
-    },
-    {
-      "url": "https://luma.com/y327jwjd",
-      "name": "Vibrez × La Royale | Singapore Grand Prix Screening",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "vlr4"
-    },
-    {
-      "url": "https://luma.com/maskjnix",
-      "name": "The Private Trading Table",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "private-trading"
-    },
-    {
       "url": "https://zusei.com/token2049",
       "name": "🔴 Time Heist by Zusei.com - Day 1",
       "sources": [
@@ -175,37 +115,6 @@
     {
       "url": "https://luma.com/lioncitymichelin11Oct26",
       "name": "The Lion City Michelin Food Race 2026 - 11 Oct (USDC)",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/ngmqvk2i",
-      "name": "F1 SG x Crypto VC - Race Day",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 400"
-    },
-    {
-      "url": "https://singaporegp.sg",
-      "name": "F1 Singapore Grand Prix Night Race",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/TBE-F1Race",
-      "name": "The Best Event: Grand Prix Trackside Penthouse Viewing",
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",

@@ -4362,140 +4362,6 @@ TOKEN2049's inaugural New York edition brings together crypto founders, investor
 
 Global Startup Ecosystem lists a two-hour blockchain gathering for entrepreneurs, investors and creatives in New York. The venue has not been announced.
 
-<a id="event-5ad574f08336f9c6"></a>
-
-## 🔴 Time Heist by Zusei.com
-
-- Record: `token2049-06041dac33726be9`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-05T13:00:00+08:00
-- Description: Source-backed
-- Original page: <https://app.zusei.com/token2049>
-
-### About the event
-
-Time Heist by Zusei.com is scheduled for 5 October 2026 at 13:00 (Asia/Singapore) in Singapore. Hosted by Zusei.
-
-Registration is listed as free.
-
-<a id="event-cbe5aa5c96fbe322"></a>
-
-## Vibrez × La Royale \| Race Day Yacht Party
-
-- Record: `token2049-evt-UR9SCndJ5J5KLkb`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-11T03:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/gqwqsft8>
-
-### About the event
-
-Vibrez × La Royale | Race Day Yacht Party is scheduled for 11 October 2026 at 11:00 (Asia/Singapore) in Singapore. Hosted by Vibrez !.
-
-Start race day with Vibrez and La Royale aboard MYKONOS, docked in Sentosa.
-
-A relaxed celebration to bring our weekend community together.
-
-The yacht party continues until the race finishes, expected around 22:00 SGT.
-
-MYKONOS - docked at ONE°15 Marina, Sentosa Cove
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
-<a id="event-03618665fc9bcdba"></a>
-
-## F1 Watch Party With Joe
-
-- Record: `token2049-evt-6VKAwtDjFMzwrkx`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-11T06:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/zgtinqk2>
-
-### About the event
-
-F1 Watch Party With Joe is scheduled for 11 October 2026 at 14:30 (Asia/Singapore) in Singapore. Hosted by Joe Saward.
-
-Unmatched Atmosphere: Drinks, music, and panoramic skyline views from our private penthouse.
-
-Registration requires host approval. Registration is listed as free.
-
-<a id="event-4fb60df372bbf62b"></a>
-
-## F1 Watch Party — Singapore Race Day
-
-- Record: `token2049-evt-8bYL1LTHyZTjOaC`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-11T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/png06ixj>
-
-### About the event
-
-F1 Watch Party - Singapore Race Day is scheduled for 11 October 2026 at 15:00 (Asia/Singapore) in Singapore. Hosted by Blockchain Expo.
-
-Registration requires host approval. Registration is listed as free.
-
-<a id="event-ee6798348c276e84"></a>
-
-## Crypto Expo SG x F1 Singapore GP
-
-- Record: `token2049-evt-XYkkHo9ggZROsdv`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-11T07:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/wewl4yec>
-
-### About the event
-
-Crypto Expo SG x F1 Singapore GP is scheduled for 11 October 2026 at 15:30 (Asia/Singapore) in Singapore. Hosted by Crypto Expo Singapore.
-
-Bring your network, your curiosity and your appetite for a good night.
-
-Registration requires host approval. Registration is listed as free.
-
-<a id="event-3daa347e4a6870cc"></a>
-
-## Vibrez × La Royale \| Singapore Grand Prix Screening
-
-- Record: `token2049-evt-JrqDBw5ETIo46aV`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-11T10:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/y327jwjd>
-
-### About the event
-
-Vibrez × La Royale | Singapore Grand Prix Screening is scheduled for 11 October 2026 at 18:30 (Asia/Singapore) in Singapore. Hosted by Vibrez !.
-
-Watch the race live at the La Royale office with drinks, dinner-style food and a small group of founders, investors, partners and friends.
-
-Joining us from Sunday's Race Day Yacht Party?
-
-Transport will be arranged from MYKONOS at ONE°15 Marina, Sentosa Cove, to La Royale's office at Millenia Tower for guests with an approved RSVP to this screening.
-
-Registration is subject to approval.
-
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
-
-<a id="event-0be193c9faedfe59"></a>
-
-## The Private Trading Table
-
-- Record: `token2049-evt-NYlK9SczUPInCqq`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-11T11:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/maskjnix>
-
-### About the event
-
-The Private Trading Table is scheduled for 11 October 2026 at 19:00 (Asia/Singapore) in Singapore. Hosted by Akash Deshmukh.
-
-Seats are limited and attendance is subject to approval.
-
-Registration requires host approval. Registration is listed as free.
-
 <a id="event-a8f4ae63cf105d10"></a>
 
 ## Fireside Chat on a Super Yacht: AI Agents, AI in Space & What Gets Funded Next
@@ -15347,186 +15213,6 @@ Madrid
 
 Somos La Familia
 
-<a id="event-d29dbbbc55329b3c"></a>
-
-## 11th Oct 26 - CAPITAL ON TRACK - FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX EDITION 2026
-
-- Record: `luma-batch-evtZJzbrUXrq27u4`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-11T02:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/yyp8316a>
-
-### About the event
-
-DAY 3 - Friday 11th October 2026 - 10 AM
-
-Powered by UltiQuest & Wealth Global Partners Family Club
-
-FORMULA 1 SINGAPORE AIRLINES | SINGAPORE GRAND PRIX EDITION 2026
-
-Powered by UltiQuest & Wealth Global Partners Family Club
-
-Dress Code: Black Tie Business - formal, elegant, refined.
-
-Wealth Global Partners - Singapore Formula 1 Capital Experience
-
-Friday 10th October 2026, Time: 10:00 AM - 10:00 PM
-
-Where the world's most coveted grid meets the world's most powerful capital, culture, and ideas.
-
-10:00 AM - 11:00 AM
-
-Guest Arrival & Welcome Drinks
-
-Connect with fellow family offices, institutional investors, and Fortune 500 leaders in an elevated, high-octane setting powered by the Singapore Grand Prix at Marina Bay.
-
-11:00 AM - 12:00 PM
-
-Introduction to Ultiquest, Wealth Global Partners, WGP Family Club & Concierge Team
-
-12:00 PM - 12:45 PM
-
-The Digital Ownership & Liquidity Revolution Room
-
-Panel - RWA Tokenisation: Unlock Liquidity and Power Before the Rest of the Market Catches Up.
-
-Moderator:
-
-Panellist:
-
-Brock Pierce - Co founder - Tether | Investor, Philanthropist
-
-Michael Terpin - The Godfather of Crypto | Founder and CEO of Transform Ventures.
-
-TBA
-
-TBA
-
-TBA
-
-Tokenisation is rewriting ownership rules. Be in this room or risk watching other families gain speed, fractional access, and settlement superiority while your traditional assets stay locked and slow.
-
-Sponsor Seats Available on this Panel for:
-
-Tokenisation platforms
-
-Blockchain infrastructure providers
-
-Digital asset exchanges
-
-Commodity trading firms
-
-Fintech and settlement technology companies
-
-12:45 PM - 1:00 PM
-
-Project Showcase - Tokenization & RWA Platforms
-
-A 15-minute curated spotlight featuring pioneering blockchain innovators, tokenisation platforms, and digital asset funds - connecting the worlds of traditional finance and the emerging digital economy before a select audience of family offices, institutional investors, and wealth leaders.
-
-1:00 PM - 1:45 PM
-
-The Longevity Capital Alpha Market
-
-Panel - Health, Wellness & Anti-Ageing: The Emerging Asset Class Serious Families Cannot Afford to Ignore
-
-Moderator: Neville Smith - Principal Partner, Brain & Cognitive Function Clinic, Emotional Intelligence Expert. Decision Coach.
-
-Panellist:
-
-Dr. Thomas Forest Farb-Horch - President, CEO, Co-Founder and Member of the BoardThrive Bioscience, Inc
-
-Dr. Laura Taylor - Founder & Chief Medical Officer, Derm Health | Principal, LTMD Consulting
-
-Dr. Jere Rivera-Dugenio - Founder & Chief Architect of
-
-RASHA | President GC Rivera Foundation
-
-Dr. Ian Wee - Group CEO & Founder, Perth Integrated Health Group
-
-Dr. Pradeep Mahajan - Founder of StemRx Hospital and Research Centre, Pioneer in Regenerative Medicine. -
-
-Rob Whyte - Founder & Managing Director, Hippie Brewing Co Perth
-
-Matt Riemann - Founder & CEO Shae Group
-
-Terje Evensen - Chairman & CEO Ballstad Global.
-
-Longevity is rapidly becoming institutional-grade alpha. Discover how elite capital is positioning early in preventative medicine, diagnostics, wellness, and anti-ageing science before this opportunity turns crowded and expensive.
-
-Sponsor Seats Available on this Panel for:
-
-Longevity biotech companies & Private medical and wellness networks
-
-Preventative diagnostics providers & Pharmaceutical innovation firms & Wellness infrastructure brands
-
-1:45 PM - 2:00 PM
-
-Dr. Jere Rivera-Dugenio - Founder & Chief Architect of RASHA - 5 min Presentation
-
-Shae Group by Matt Riemann (Founder & CEO) - 5 min Presentation
-
-A 15-minute exclusive showcase highlights transformative projects at the intersection of biotechnology, AI-driven diagnostics, regenerative medicine, and preventive health demonstrating how these ventures are shifting the paradigm from treating disease to extending healthy longevity.
-
-2:00 PM - 3:00 PM
-
-Lunch
-
-Enjoy curated refreshments while participating in private, high-level conversations with leading family offices, institutional investors, and Fortune 500 executives to explore strategic partnerships and market opportunities.
-
-3:00 PM - 3:45 PM
-
-The Resource Sovereignty Fortress
-
-Panel - Agri-Tech, Farmland & Resource Systems: Secure Control or Face Generational Vulnerability
-
-Moderator:
-
-Panellist:
-
-Madhu Jamallamudi - Founder & Chairman - Earth Vision Group | Founder & CEO - MJ Wealth
-
-Will Landers - 9th Generation Real Estate Investor, Thought Leader in AI Powered AgTech
-
-TBA
-
-TBA
-
-TBA
-
-TBA
-
-In an era of escalating risks, control over food, land, water, and agri-tech is becoming non-negotiable. This hard-hitting session shows how visionary families are quietly building fortified positions in agricultural assets and innovation to protect supply chains and claim true generational resilience.
-
-Sponsor Seats Available on this Panel for:
-
-Agri-tech platforms and precision farming companies
-
-Agricultural investment funds and farmland managers
-
-Land acquisition and stewardship firms
-
-Water infrastructure and resource management companies
-
-Global food production and supply chain groups
-
-4:00 PM - 11:00 PM
-
-(Closing Keynote / Special Session)
-
-Along with the F1 final race view
-
-An exclusive session delivers forward-looking insights into global market shifts, macroeconomic strategies, and the evolving landscape of wealth creation.
-
-This elevated, intimate setting is designed to foster strategic connections and high-value conversations among family offices, UHNW investors, and industry leaders, blending the exhilaration of the track with sophisticated networking opportunities.
-
-The evening will conclude with a VIP experience, watching the Formula 1 Grand Prix from exclusive screens while enjoying curated wines, premium cigars, and live DJ sets.
-
-This finale of Racing Capital - The Legacy Series is where velocity meets vision, celebrating capital, collaboration, and legacy.
-
-Closing remarks highlight the impact, innovation, and future of the Wealth Global Partners Family Club, leaving guests inspired, connected, and part of a community shaping the next era of purpose-driven wealth and enduring influence
-
 <a id="event-4fbefa3aafc10eca"></a>
 
 ## Deadline Day Check-in
@@ -19694,6 +19380,34 @@ Valad invests in, develops and manages real estate across Europe, from co-living
 
 Questions? Contact JV at jv@zebec.io
 
+<a id="event-c093ec0877cdf210"></a>
+
+## Cyclops London Happy Hour
+
+- Record: `luma-batch-38tgeic3`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-10T17:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/38tgeic3>
+
+### About the event
+
+The Cyclops team is in London and we'd love to see you!
+
+One of our founders and some of our team members are in town and hosting a casual evening to catch up with friends, partners and the payments community.
+
+Come for a drink and catch up with (or meet) the people behind Cyclops!
+
+---
+
+### About Cyclops
+
+Cyclops enables payments companies to onboard with a single partner, unlocking stablecoin settlement, payins, payouts and treasury optimization across global corridors - all through a single API.
+
+Cyclops was founded by payments executives and crypto veterans who were fed up with stablecoin fragmentation. The first complete stablecoin platform built exclusively for the payments industry, Cyclops combines the agility of orchestration with the comprehensive build outs of full-stack providers. Cyclops has end-to-end integrations to every leading provider at every layer of the stablecoin stack, and proprietary technology built on top to make payments use cases effortless. With this unique approach, Cyclops is the only platform offering product and license redundancy in all major markets, with dozens of partners and over 100 global licenses.
+
+https://www.cyclops.io/
+
 <a id="event-8291bd3b7b519f58"></a>
 
 ## An Evening with Lukka - DAS London Edition
@@ -19713,6 +19427,24 @@ We're bringing together people from across digital assets, capital markets, and 
 Expect a great room, a strong crowd, and a proper London evening.
 
 Registration is subject to approval.
+
+<a id="event-f586fd42af9778f8"></a>
+
+## Hyperliquid UK Community Meal
+
+- Record: `luma-batch-5uo8utey`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-10T17:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/5uo8utey>
+
+### About the event
+
+Come join other HL ecosystem builders, traders and investors as we take a break from the talks and suits at DAS London.
+
+A table is booked upstairs under the name 'huf'
+
+This will be an opportunity to discuss all things Hyperliquid including HIP3, HIP4, HyperEVM, HyperCore and the state of the markets
 
 <a id="event-e692ba37067635af"></a>
 
@@ -19761,6 +19493,32 @@ For more information, visit www.wincent.com (https://www.wincent.com)
 BitGo (NYSE: BTGO) is the digital asset infrastructure company delivering custody, wallets, staking, trading, financing, stablecoins, and settlement services from regulated cold storage. Since 2013, BitGo has focused on accelerating the transition of the financial system to a digital asset economy. BitGo maintains a global presence and multiple regulated entities, including BitGo Bank & Trust, National Association, the first federally chartered digital asset trust bank owned by a publicly traded company. Today, BitGo serves thousands of institutions, including many of the industry's top brands, financial institutions, exchanges, and platforms, and millions of investors worldwide.
 
 For more information, visit www.bitgo.com (https://www.bitgo.com).
+
+<a id="event-a002b21eb8342337"></a>
+
+## SCRYPT Private Dinner, DAS London
+
+- Record: `luma-batch-yvjgdjl8`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-10T18:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/yvjgdjl8>
+
+### About the event
+
+Join SCRYPT for a private dinner during DAS London.
+
+Arrival: 18:00 cocktails and conversation
+
+Dinner service: 18:45
+
+We are hosting a small table of people who run payments, treasury and trading with digital assets. There is no stage and there are no slides. The evening is for open conversation about what works with stablecoins today: collections, payouts, settlement and treasury.
+
+SCRYPT is a Swiss institutional digital asset firm. We give institutions one point of access to trading, custody and asset management, with stablecoins at the centre.
+
+Seats are limited and by invitation. The SCRYPT team reviews each request. We share the full address when we confirm your seat.
+
+When you accept, please tell us about any dietary requirements or allergies.
 
 <a id="event-14de4787ce7da25a"></a>
 
@@ -20170,6 +19928,50 @@ Attendance: Places are limited, and registrations are reviewed individually. The
 - Ethlabs (https://ethlabs.org), Non-profit R&D lab for Ethereum and ETH
 - KPK (https://kpk.io): Noncustodial onchain asset management
 
+<a id="event-4dbdfb97ea16c015"></a>
+
+## Allocators x Agentic AI: Where Institutional Capital Meets Agentic AI
+
+- Record: `luma-batch-ns75wwqg`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-11T17:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ns75wwqg>
+
+### About the event
+
+Agentic AI is moving beyond impressive demos and into real businesses. But as AI agents begin making decisions, executing transactions and managing workflows, one question is becoming increasingly important: what makes an AI company worth backing?
+
+XDC Network is bringing together investors, AI founders and industry leaders in London for a privately catered evening with food and drinks, exploring where agentic AI is heading, what allocators are looking for and how emerging technologies can turn into sustainable businesses.
+
+Who you'll meet
+
+Allocators, VCs & Family Offices exploring investment opportunities in AI and emerging technologies.
+
+AI Founders & Builders developing agentic products and bringing autonomous systems into real-world industries.
+
+Enterprise & Technology Leaders working across AI, payments, digital assets and financial infrastructure.
+
+### What to expect
+
+Where is capital going in agentic AI?
+
+How investors are evaluating AI companies, identifying opportunities and deciding which businesses have long-term potential.
+
+From demos to real businesses: A conversation about commercialisation, enterprise adoption and what it takes to build an AI company that lasts.
+
+When AI agents start making payments: Exploring how autonomous agents will transact, move value and interact with financial infrastructure.
+
+Founders meet allocators: Open conversations between the people building AI companies and those funding their growth.
+
+Curated networking: Meet founders, investors and industry leaders shaping the next wave of AI innovation.
+
+Previous XDC Network events in London:
+
+Join us on 11 November for an evening of fresh perspectives, meaningful connections and conversations about what's next.
+
+Further programme details to be announced.
+
 <a id="event-72ae4e4396177021"></a>
 
 ## Canton & Cocktails
@@ -20189,6 +19991,34 @@ The Canton Network invites you to an exclusive side event during the Digital Ass
 Join fellow industry leaders and Canton ecosystem participants from 5-8 pm for an evening of drinks and networking - no speeches, just relaxed, real conversations and good vibes with network peers.
 
 NOTE: Non-business email registrations will not be accepted.
+
+<a id="event-c6afa2628f91e0f1"></a>
+
+## Frontier Markets x CMT Digital Happy Hour @ DAS
+
+- Record: `luma-batch-g39rpxpk`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-11T17:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/g39rpxpk>
+
+### About the event
+
+Join Frontier Markets × CMT Digital for a happy hour during DAS London, bringing together founders, investors, traders, and market makers exploring new asset classes, derivatives, and the future of financial markets.
+
+Good drinks, sharp conversations, and interesting people.
+
+Wednesday, 11 November | 5:30 PM onwards
+
+London - Venue TBA
+
+### About the Hosts
+
+CMT Digital is a global venture capital firm investing in early-stage blockchain and digital asset companies, drawing on deep expertise in electronic trading and financial markets.
+
+Frontier Markets is a community and event series bringing together people creating new financial markets. Its focus spans prediction markets, perpetual futures, novel financial instruments, and making previously untradeable economic exposures tradeable.
+
+Formation Markets is a company building a programmatic derivatives bank, focused on originating and structuring financial instruments for new economic underlyings, including event risk and corporate performance metrics.
 
 <a id="event-37ce6aae9d9e89b4"></a>
 
@@ -20255,6 +20085,50 @@ Fasanara Capital (https://www.fasanara.com/) is a technology-driven global asset
 ### Disclaimer
 
 By attending this event, you are entering an area where photography, audio and video live-streaming and/or recording may occur. Your entry and presence at such an event constitutes your consent to be photographed, filmed (including live-streamed), and/or otherwise recorded and to the release, publication, exhibition, or reproduction of any and all recorded media of your appearance, voice, and name for any purpose whatsoever in connection with Midas, Monad Foundation, Fasanara Capital, and their initiatives. By attending the event, you waive and release any claims you may have related to the use of such media of you at the event.
+
+<a id="event-767faa66e1b7929e"></a>
+
+## Building on Solana: Colosseum & Founders
+
+- Record: `luma-batch-x26b420k`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-11T18:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/x26b420k>
+
+### About the event
+
+Join AI Agents Lab for an evening with Colosseum, Superteam UK and the Solana community at Imperial College London.
+
+Hear from Colosseum and founders building in the Solana ecosystem, with time for questions and conversations with fellow builders.
+
+What to expect A talk from Colosseum Founder stories and insights Audience Q&A and community conversations
+
+When
+
+Wednesday, 11 November 2026
+
+6:00-8:00 PM (London time / GMT)
+
+Where
+
+Blackett LT3
+
+Imperial College London
+
+Meet the speakers
+
+Luís (@microchipgnu) - CEO & Co-founder, Frames
+
+Frames is a router for the paid web. It indexes, tests and ranks data sources and tools, then routes agent requests to the right provider and handles access and payment.
+
+Rishi - Stablecorp
+
+Stablecorp provides business infrastructure for remote founders earning in stablecoins. Its platform brings together entity formation, stablecoin treasury with yield, multi-rail invoicing and compliance services, including bookkeeping, FEMA filings, and US and India tax filing.
+
+Learn more: mystablecorp.xyz
+
+Whether you are building, exploring a startup idea or curious about the Solana ecosystem, join us for the evening.
 
 <a id="event-0d77b642a234f7fd"></a>
 
@@ -20417,6 +20291,42 @@ IFC P4 Rooftop Garden (outside Shake Shake). We will take a few tables randomly.
 
 https://t.me/+bHO3lGRgyYxlNmFl
 
+<a id="event-f0e394209a36890a"></a>
+
+## House of Sol Workshops: The Yield Ceiling: Why Onchain Vaults Need Real World Assets: SRI x R3
+
+- Record: `luma-batch-hos-workshops-r3`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-12T13:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/HoS-Workshops-R3>
+
+### About the event
+
+The Yield Ceiling: Why Onchain Vaults Need Real World Assets
+
+Hosted by R3/Corda and Solana Research Institute, this workshop will explore the gaps in the market holding vaults/earn programs back.
+
+You'll also hear how RWAs address the unmet market demand and why you should consider building on Solana, and why now.
+
+Speakers: Richard Brown, CEO, R3 Will Beeson, CEO, Multiliquid Ki, Head of Growth, Orca/Formation
+
+### About House of Sol
+
+House of Sol is a sanctuary for institutions and DeFi on Solana. Located in London, it serves as an exclusive members' club and event space where founders, institutions and ecosystem teams come together for intimate gatherings, weekly co-working and closed-door discussions to accelerate Solana's growth.
+
+Learn more and apply for membership at houseofsol.org
+
+This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.
+
+Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.
+
+By signing up to this event you agree that Solana Foundation and House of Sol can capture any footage of you, and contact you directly about future events, major news, and more.
+
+### Location
+
+Please register to see the exact location of this event.
+
 <a id="event-430964bf9104b04a"></a>
 
 ## Crypto Quant Capital Connect in London
@@ -20572,6 +20482,44 @@ Learn more and apply for membership at superteamuk.org (https://superteamuk.org)
 ** Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.
 
 By signing up to this event, you agree that Solana, The SRI, & SuperteamUK can capture any footage of you and contact you directly about future events, major news, and more.
+
+<a id="event-58eda548ffb60331"></a>
+
+## Breakpoint Crypto Padel
+
+- Record: `luma-batch-afr82s1n`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-13T12:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/afr82s1n>
+
+### About the event
+
+A relaxed morning of padel for founders, investors and operators in London for DAS and Breakpoint week.
+
+We're bringing together a small group of people building and backing crypto companies, for a few hours away from the conference floor. Expect good games, good coffee and better conversations.
+
+The morning
+
+13:00 - Arrivals and coffee
+
+13:20 - Short intro session for anyone new to padel
+
+13:30 - Mixed-pairs tournament, with partners rotated so you meet new people
+
+15:00 - Close
+
+Good to know
+
+All levels welcome.
+
+Bring trainers and something comfortable to play in.
+
+Places are limited and approval is required.
+
+Hosted by TechChain Talent
+
+We're a specialist crypto recruitment firm as well as the creators of Deciml, our platform for crypto talent.
 
 <a id="event-89aaf056240e2a13"></a>
 
@@ -20737,6 +20685,20 @@ This event is for Lucid Drakes holders and their invited guests.
 
 Drakes on top!
 
+<a id="event-cdc943e8eca8fd8d"></a>
+
+## Core Dev Lounge
+
+- Record: `luma-batch-px5f2j4k`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-14T09:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/px5f2j4k>
+
+### About the event
+
+Core Dev Day is taking a more relaxed format this time: a VIP lounge and collaborative workspace, with no scheduled talks, sessions, or programming. Enjoy a dedicated space to work, collaborate, and catch up with fellow developers, with a coffee cart serving up barista-made specialty drinks throughout the day.
+
 <a id="event-37c5e6603e597357"></a>
 
 ## La Mode Darelle Pop-up: It’s Summer Somewhere
@@ -20782,6 +20744,42 @@ Discover designers YOU don't know but SHOULD KNOW
 
 Follow @lamodedarelle on Instagram (https://www.instagram.com/lamodedarelle/)⁠ and TikTok (https://www.tiktok.com/@lamodedarelle)⁠ for designer reveals and event updates.
 
+<a id="event-03aa0ab6b74b46f8"></a>
+
+## Superteam Black in London
+
+- Record: `luma-batch-zpm2ei66`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-14T18:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/zpm2ei66>
+
+### About the event
+
+London is calling, and Superteam Black is answering.
+
+As the Solana ecosystem gathers in London for Breakpoint 2026, we're bringing together some of the most ambitious founders, builders, investors, and friends of Superteam Black for an exclusive gathering.
+
+An opportunity to reconnect with familiar faces, meet new ones, exchange ideas, and have meaningful conversations beyond the conference floor.
+
+Good people, great conversations, and the best of the Solana ecosystem, all in one place.
+
+See you in London 🇬🇧
+
+<a id="event-ffd820be9b93a795"></a>
+
+## PubPoint Meet & Greet: Etherfuse + Stellar
+
+- Record: `luma-batch-46m6ienv`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-14T19:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/46m6ienv>
+
+### About the event
+
+Hosted by Brandon, Stellar Development Foundation, Estefania, Alexis Tabak in London as part of London Crypto Week. Maybe you're finishing up DAS or on your way to Breakpoint! We welcome you to gather with Etherfuse and Stellar to welcome travelers to London at a proper English pub.
+
 <a id="event-8c6090ced68c1df1"></a>
 
 ## Pints & Packs: Breakpoint Welcome Party
@@ -20795,6 +20793,26 @@ Follow @lamodedarelle on Instagram (https://www.instagram.com/lamodedarelle/)⁠
 ### About the event
 
 Before we get down to business at Breakpoint, let's get a round in. Join Collector Crypt, DSCVR Beer, and Tangem Wallet at The Latymers for Packs and Pints, a welcome party to kick off the week with friends from across Solana. Put a face to the PFP, catch up over a cheeky pint, and rip a few packs before everyone's calendar gets ridiculous. Drinks and finger food are on us. Come hungry, bring your mates, and save the networking pitch for Sunday.
+
+<a id="event-d9500fefde8bd0db"></a>
+
+## Order, Order!
+
+- Record: `luma-batch-siqdcgdt`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-14T19:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/siqdcgdt>
+
+### About the event
+
+Block building on Solana has been closed off for too long. It's time to change that.
+
+Gravity is a competitive block-building marketplace on Solana, opening blockspace to more participants and strengthening censorship resistance -with validators taking the first cut.
+
+Join us as we celebrate the debut of GBX, alongside Astralane and Titan, and raise a glass to the first Gravity blocks landing on Solana.
+
+No panels. No pitches. A small room by design. Seats will be limited.
 
 <a id="event-94fd5a0194460653"></a>
 
@@ -20848,6 +20866,30 @@ Brought to you by Frontier Traders community collaborators:
  - Sunrise is Solana's asset gateway. New tokens, stocks, and assets are listed on Solana with day-one liquidity, live across wallets, DEXs, and DeFi the moment they launch. Learn more at sunrise.xyz (https://sunrise.xyz)
 
 Interested in Sponsoring this event? Please reach out to events@solana.org
+
+<a id="event-c3148f9d8950aa06"></a>
+
+## 🏀 Solana Breakpoint Basketball & Breakfast \| London 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+
+- Record: `luma-batch-5yhvfaky`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-15T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/5yhvfaky>
+
+### About the event
+
+Show up, ball out, make friends & connect with fellow crypto hoopers before Solana Breakpoint.
+
+10am - 12pm local we play at the Regal Basketball Court - an iconic Nike indoor facility with the UK's only gold-plated hoops and smoked-glass backboards with integrated red LED shot-clock lights.
+
+Coffee, juices, breakfast & other hangover friendly things will be provided.
+
+-----------------------------------------
+
+As this is a sporting community event, the organisers, nor the facility itself may be held liable for any personal issues or injuries. All participants are to please acknowledge this upfront - like with any casual pick up game.
+
+You also hereby agree to being recorded for marketing content purposes & to being contacted by the organisers. Thank you
 
 <a id="event-3b1b87eec7442586"></a>
 
@@ -21051,6 +21093,30 @@ Free flowing pints included.
 
 Please flag +1s to @Damian0x on TG so he can do his sad little accounting.
 
+<a id="event-d74249d8a039a838"></a>
+
+## Sunny’s Sunday Lunch (ft. Brave & Flipcash)
+
+- Record: `luma-batch-cfld2bu7`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-15T13:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/cfld2bu7>
+
+### About the event
+
+A proper Sunday lunch before Solana Breakpoint.
+
+Join us for a private dining experience at a two Michelin star Indian restaurant, bringing together people from across crypto who are pushing the industry forward.
+
+Good food, good company, and a chance to connect before the week kicks off.
+
+Brave is growing the community and culture around $BAT. This lunch is a chance to connect and discover what they've been building.
+
+Flipcash makes it easy to send stables and create communities using crypto technology.
+
+Please arrive with Flipcash installed and a Solana wallet address ready. As this is a seated dining experience, please only RSVP if you can join us for the full afternoon.
+
 <a id="event-e88f44757c4c80e9"></a>
 
 ## Afternoon Provisions \| Breakpoint 2026
@@ -21157,6 +21223,86 @@ This one is community only
 Spots are limited and we review every registration by hand. Tell us a bit about yourself so we know you're one of ours.
 
 Dress code: Whatever you'd wear to your local chippy. Bring an umbrella. It's Britain.
+
+<a id="event-d17ff6d79754e0bd"></a>
+
+## Meteora Supercycle
+
+- Record: `luma-batch-meteorasupercycle`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-15T18:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/meteorasupercycle>
+
+### About the event
+
+A major leap in AMM tech.
+
+A new wave of possibilities for traders, liquidity providers, and builders.
+
+Join us for an exclusive first look at Meteora's latest products and the innovations shaping the next chapter for Solana DeFi.
+
+Taking place right after Day 1 of Breakpoint London, this invite-only gathering brings together a curated group of founders, builders, and creators pushing the ecosystem forward.
+
+Expect amazing food and exciting conversations with the people building the future of DeFi.
+
+Access is invite-only and all guests will be verified at reception.
+
+<a id="event-ac508c4cb61e2cfe"></a>
+
+## Capital & Liquidity Dinner by Yield Network, Bexlen, ZIG Finance, and Particula
+
+- Record: `luma-batch-yn-dinner-london`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-15T18:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/yn-dinner-london>
+
+### About the event
+
+An invite-only dinner during Solana Breakpoint week in London, bringing together a small group of institutional allocators, protocols and foundations with the teams behind Yield Network, Bexlen, ZIG Finance, and Particula.
+
+The evening is limited to 25 decision makers: liquid funds, asset managers and family offices actively deploying onchain, alongside founders and C-level from protocols, chains and asset issuers. The format is built for conversations about capital formation, onchain yield, RWAs and upcoming opportunities across DeFi.
+
+Format 18:00 - 19:00 | Welcome drinks and networking 19:00 - 21:00 | Seated dinner
+
+### Venue
+
+A private dining space in central London, close to the main conference venue. The exact location will be shared with approved guests.
+
+Attendance
+
+Attendance is by approval only. Registration doesn't guarantee a seat: every request is reviewed to keep the room curated and balanced.
+
+Hosted by Yield Network, Bexlen, ZIG Finance, and Particula
+
+<a id="event-58b34018c368a6d4"></a>
+
+## At the Table with Stripe Crypto, Visa, & Open Standard
+
+- Record: `luma-batch-bxvz2tvf`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-15T18:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/bxvz2tvf>
+
+### About the event
+
+You're invited to a private dinner hosted by Privy & Bridge.
+
+Join a select group of leaders across fintech, payments and web3 for an intimate evening of great food and thoughtful conversation.
+
+Space is limited. Please confirm your attendance by Nov 12.
+
+----
+
+Stripe brings together fiat and stablecoin infrastructure on one platform, making it easier for businesses to build, launch, and scale global financial products. This includes Privy's embedded wallet infrastructure and Bridge's stablecoin orchestration capabilities, enabling businesses to hold, move, and spend money across traditional and blockchain rails.
+
+Visa is a global leader in digital payments, connecting consumers, businesses and financial institutions across more than 200 countries and territories. As new forms of digital money emerge, Visa is helping bridge traditional payments and blockchain networks, enabling clients to explore stablecoin-powered use cases across payments, settlement and money movement.
+
+Open Standard is the company behind Open USD (OUSD). Its mission is to build internet-native money, enabling all businesses to move money on infrastructure that's cheaper, faster, more global and more programmable.
+
+Over 200 financial institutions, fintechs, banks, and global businesses have signed up to add OUSD to their platforms and benefit from low fees, shared rewards, and representative governance. Open Standard was started in 2026 and its founding partners include Coinbase, Mastercard, Shopify, Stripe, and Visa.
 
 <a id="event-a628ba87a494924f"></a>
 
@@ -21388,6 +21534,24 @@ Come for the competition. Stay for the chaos.
 
 Move with Conviction.
 
+<a id="event-765522bcfa16bef2"></a>
+
+## Colosseum Builder Zone
+
+- Record: `luma-batch-colosseum-2xiq`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-16T10:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/colosseum-2xiq>
+
+### About the event
+
+Colosseum is once again hosting a dedicated work space inside the Solana Breakpoint venue that will be equipped with desks, monitors, and high-speed WiFi. The space will be open on November 16 and 17.
+
+If you're looking to meet the Colosseum team and work a bit during the conference, join us in the builder zone!
+
+A Breakpoint ticket is required to access the space.
+
 <a id="event-d45be204ebf06f5d"></a>
 
 ## Builder Zone @ Breakpoint
@@ -21416,6 +21580,38 @@ Move with Conviction.
 
 In 1698, London's stockbrokers were thrown out of the Royal Exchange for bad manners. They moved into a coffee house down the alley, and that's where the London Stock Exchange began. In 1986, Big Bang put the trading floor on screens. Forty years on in 2026, it's happening again. Stocks, treasuries, perps, prediction markets, memecoins and AI traders are all heading on-chain at once, the inflection point is here....
 
+<a id="event-d7dfa2c3e177a303"></a>
+
+## SWC \| Debanking Roundtable at Zebu Live Arms
+
+- Record: `luma-batch-ejadxw59`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-16T12:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ejadxw59>
+
+### About the event
+
+On Monday 16th November, Stand With Crypto are partnering with Zebu Live's takeover at the Bush Tavern in Shepherd's Bush. A day that brings builders, investors, policymakers and the wider crypto community together in a proper British pub.
+
+Lunch, from 1pm : kick off the afternoon over complimentary food with fellow guests before the roundtable.
+
+Stand With Crypto Roundtable, 3:10-4:00pm : a conversation on where UK crypto policy is heading and what it means for the industry. This is an intimate session with seating for around 50, so arrive early to get a spot. [Panelists to be announced]
+
+Happy Hour : stay on for drinks, networking and a chance to keep the conversation going.
+
+Copies of Stand With Crypto's latest report 'Britain's Crypto Access Problem' will also be available.
+
+### Details
+
+The Bush Tavern, Shepherd's Bush, London
+
+Monday 16th November 2026, from 1pm
+
+Roundtable at 3:10pm
+
+Seats are limited, so registration is required
+
 <a id="event-470a6523741d1e2f"></a>
 
 ## Meet Your Match w/ CoW Swap @ Solana Breakpoint
@@ -21429,6 +21625,32 @@ In 1698, London's stockbrokers were thrown out of the Royal Exchange for bad man
 ### About the event
 
 Breakpoint is full of panels about what's possible. Here's where you actually make it happen. Join CoW Swap at Lillie's on Monday afternoon for cocktails, canapés, and conversation. It's just around the corner from the conference, so the perfect first stop on your night out. Now for the good bit... Somewhere in the room, someone is looking for exactly what you offer....
+
+<a id="event-3a6b2727d9256d90"></a>
+
+## London After Hours I The Breakpoint Debrief by GSR x Arkham
+
+- Record: `luma-batch-gsrcrypto-jmyt`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-16T17:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/gsrcrypto-jmyt>
+
+### About the event
+
+London After Hours I The Breakpoint Debrief by GSR x Arkham
+
+Skip the afternoon fatigue. We've secured a private spot in West London, right around the corner from the main venue, for Solana's top players to connect off the record.
+
+Curated crowd, good drinks, and excellent company.
+
+Monday, November 16
+
+5:30 to 8:30 PM
+
+London. Exact location shared with confirmed guests only.
+
+Space is limited and every registration is reviewed. If you are approved, we will send you the full details.
 
 <a id="event-b3a742fc5dc0910f"></a>
 
@@ -21521,6 +21743,64 @@ Join Alchemy at Solana Breakpoint for an intimate VIP dinner bringing together a
 
 Breakpoint Day 2 Afterparty The Financial News Network, in partnership with Ecology Media and CoinDesk, is hosting an exclusive gathering coinciding with Solana Breakpoint. Join us for an evening of drinks and nibbles as the worlds of fintech and DeFi converge, bringing top investors, innovators, financial institutions, and media together for a memorable night of high-level networking....
 
+<a id="event-c780760c8153a53f"></a>
+
+## The Everything Code: Decoded with Raoul Pal 🇬🇧
+
+- Record: `luma-batch-y3s7ibya`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-16T18:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/y3s7ibya>
+
+### About the event
+
+The Everything Code: Decoded with Raoul Pal
+
+Join us for an informal evening of drinks, conversation and connection with Raoul Pal, Co-Founder and CEO of Real Vision and author of The Everything Code, alongside members of the Real Vision team in London.
+
+As we enter the dawn of the Exponential Age, there's never been a more exciting time to connect with people who share a passion for global markets, technology, digital assets and the future of finance.
+
+Inspired by Raoul's new book, The Everything Code, this gathering brings together the Real Vision community for an evening of great conversations, new connections and fresh perspectives.
+
+Come along, grab a drink and meet Raoul, fellow Real Vision members and the people behind Real Vision. It's a fantastic opportunity to put faces to names, connect with the team and spend time with like-minded people who share your curiosity about the future.
+
+There are no presentations or formal discussions planned. Just a relaxed evening of mingling, networking and enjoying good company.
+
+A Special Gift for Our Guests
+
+Real Vision will be gifting attendees a complimentary copy of Raoul's new book, The Everything Code, giving you the chance to dive deeper into his perspective on the forces reshaping our world, from global liquidity and financial markets to AI and the exponential technologies transforming our future.
+
+Whether you're fascinated by macro, AI, crypto or simply curious about what's coming next, we'd love you to join us.
+
+Good drinks. Great company. Big ideas. And a copy of The Everything Code to take home!
+
+Important Registration & Entry Information
+
+Registration is required to attend this event.
+
+When registering, you must provide your full name and the email address associated with your Real Vision account.
+
+The venue will be checking names against the official guest list on arrival. Only guests whose details match the registered guest list will be permitted entry.
+
+Please ensure your registration details are accurate to avoid any issues gaining access to the event.
+
+Photography, Filming & Media Notice
+
+Please be aware that photography, video filming and audio recording may take place throughout this event.
+
+Photographs, video footage and recordings captured during the event may feature attendees and may be used by Real Vision for promotional, editorial and marketing purposes, including on its website, social media channels, digital publications, advertising and other marketing materials.
+
+By attending, you acknowledge that you may be photographed, filmed or recorded and that your image, likeness and/or voice may appear in these materials.
+
+If you do not wish to be photographed, filmed or potentially featured in Real Vision's promotional or marketing content, please do not attend this event.
+
+Secure Your Place
+
+Spaces are limited, so register early to secure your place.
+
+Hosted by Real Vision.
+
 <a id="event-4c5b69a1c0b2012c"></a>
 
 ## Fintech & Data: London Executive Dinner
@@ -21591,6 +21871,28 @@ Head Down 5K × Solana | Breakpoint Edition The city's still asleep. We're alrea
 
 Dev3pack Meetup: The Bridge 🇬🇧 Interested in building a startup on Solana? Join us for a Dev3pack meetup to discover The Bridge, our accelerator supporting underrepresented talents, students & women founders, who want to turn ideas and hackathon projects into real products. We'll introduce the program, officially open applications, and bring together alumni who will share their experience and answer your questions....
 
+<a id="event-100b47b550e571b0"></a>
+
+## Metaplex VIP Lunch - Bringing new markets to Solana
+
+- Record: `luma-batch-5hdnilau`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-17T12:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/5hdnilau>
+
+### About the event
+
+Join us Nov 17th at 12pm in London for an intimate lunch with leading protocols, funds and thought leaders across the Solana ecosystem.
+
+At a carefully selected venue just steps from Breakpoint, this lunch is bringing together industry leaders for an afternoon of food, drinks and conversation about the future of onchain finance and tokenization.
+
+Venue to be shared with confirmed guests only. Invite only.
+
+### About Metaplex
+
+Metaplex is the leading tokenization platform on Solana, providing everything needed to build, launch, and trade new onchain markets
+
 <a id="event-e52ddd1c2776ba5d"></a>
 
 ## The Huddle: By Invitation Only
@@ -21634,6 +21936,34 @@ A short walk from Olympia London
 Seats are limited and approval is strictly required. Please register with your Monke details so we can confirm your spot.
 
 Reject humanity. Return to monke.
+
+<a id="event-bf39f6ddc43023f7"></a>
+
+## Breakpoint Happy Hour: IMC x 6MV x Bulk
+
+- Record: `luma-batch-gbb0zb3x`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-17T16:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/gbb0zb3x>
+
+### About the event
+
+Join IMC Trading, 6MV, and Bulk for an evening of drinks and good conversation.
+
+### About IMC
+
+IMC is a leading global trading firm powered by a cutting-edge research environment and a world-class technology backbone. Founded in 1989, IMC employs more than 1,900 talented individuals across offices in Europe, the US, Asia-Pacific, and India. Its core business is to provide essential liquidity in financial assets on trading venues, and to deliver the best outcome in value and risk to investors. IMC engages in trading activities on its own account and employs advanced algorithms, statistical techniques, and innovative technologies to execute its strategies.
+
+Its venture capital arm, IMC Trading & Tech Investments, connects innovative trading start-ups and scale-ups with IMC's world-class expertise and financial backing to drive long-lasting value and success across the industry.
+
+### About 6th Man Ventures
+
+6th Man Ventures is an early stage crypto VC firm investing at the intersection of AI, Money and Markets. It was born from a love of web3 in practice and principle, founded and run by a group who both see the potential and actively work to bring projects to life every day.
+
+### About Bulk
+
+Bulk is a high-throughput decentralized derivatives platform optimizing perpetual contracts and cross-margin trading. Founded to solve infrastructure bottlenecks in decentralized trading, the platform pairs an ultra-low latency risk engine with native developer-centric frameworks (BIP-1) to support hyper-efficient capital deployment.
 
 <a id="event-54f233b7a6e50407"></a>
 
@@ -21723,6 +22053,54 @@ Caravana Presents x mallow x Cycol Gallery A GROUP SHOW --- 17th - 21st November
 ### About the event
 
 Three days at Olympia. The last talk ends at five. It's your last night in London. What do you do? You go to the pub. On Tuesday 17 November Superteam UK is running the Great British Pub Crawl, the unofficial official afterparty to Breakpoint 2026. Locals-approved pubs from Olympia to Soho, a bar tab at every stop, ecosystem teams pouring the pints....
+
+<a id="event-84024e32966cbea5"></a>
+
+## Kaspa's 5th Birthday Celebration - London
+
+- Record: `luma-batch-k3ahu4pa`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-17T18:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/k3ahu4pa>
+
+### About the event
+
+Blockchain Banter is throwing an epic meetup for Kaspa's 5th birthday at Wolfy's!
+
+Join us as we celebrate 5 years of Kaspa with good company, great food and awesome vibes!
+
+20% OFF when spending $KAS thanks to Kastle Wallet!
+
+Make sure you download the latest Kastle Wallet update so you can be a part of the leader board within their app!
+
+<a id="event-21bfee6d0a6876b0"></a>
+
+## Golden Hour \| Kem
+
+- Record: `luma-batch-mfbpm39s`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-17T18:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/mfbpm39s>
+
+### About the event
+
+Golden Hour. An evening with Kem, Tether Gold and Tether
+
+A Solana Breakpoint side event
+
+DRESS CODE Business Casual to Smart (No Jeans or Trainers)
+
+Tuesday 17 November, 6:30 to 11 PM (London time)
+
+The Farmers Club, Whitehall Court, London
+
+Breakpoint week, away from the expo floor. Join Kem, Tether Gold and Tether for an evening at The Farmers Club, a Victorian private members' club overlooking the Thames. Expect good drinks, good company and good conversation with founders, builders and investors in town for Breakpoint.
+
+This evening is for invited guests and places are limited. Please RSVP to be approved. This is an 18+ event.
+
+Find out more about Kem at kemapp.io.
 
 <a id="event-3ccb2d9b1cc5eadb"></a>
 
@@ -21882,6 +22260,44 @@ Join us at Google King's Cross on November 19 for keynotes, panels and a network
 
 Agenda to follow.
 
+<a id="event-6275432ac1b724a6"></a>
+
+## House of Sol Workshops: Slow Transaction Data is Alpha Leakage: SRI x Alchemy
+
+- Record: `luma-batch-hos-workshops-alchemy`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-19T17:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/HoS-Workshops-Alchemy>
+
+### About the event
+
+Slow Transaction Data Is Alpha Leakage
+
+This session breaks down how delayed, incomplete, or dropped transaction data affects execution, risk, and product experience in fast-moving Solana markets. We'll cover what trading and DeFi teams should evaluate in a real-time data stack, from streaming latency to recovery after disconnects. Alchemy will walk through the infrastructure patterns it sees teams use to keep onchain state current.
+
+Attend if you are: Trading firms, market makers, exchanges, DeFi teams, and engineering leaders building real-time Solana applications. Intermediate to advanced.
+
+More about the Workshop Leader:
+
+Canaan Linder is a prominent tech entrepreneur and product leader currently serving as the Product Lead for Solana at Alchemy, where he drives developer infrastructure solutions for the high-performance blockchain ecosystem. Prior to joining Alchemy, he founded and served as the CEO of Stardust, a leading web3 gaming infrastructure platform that raised millions to streamline multi-chain scaling and wallet management for game creators. An alumnus of Carnegie Mellon University, Linder combines a strong technical foundation with deep expertise in web3, scalable infrastructure, and gaming ecosystem development.
+
+### About House of Sol
+
+House of Sol is a sanctuary for institutions and DeFi on Solana. Located in London, it serves as an exclusive members' club and event space where founders, institutions and ecosystem teams come together for intimate gatherings, weekly co-working and closed-door discussions to accelerate Solana's growth.
+
+Learn more and apply for membership at houseofsol.org
+
+This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.
+
+Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.
+
+By signing up to this event you agree that Solana Foundation and House of Sol can capture any footage of you, and contact you directly about future events, major news, and more.
+
+### Location
+
+Please register to see the exact location of this event.
+
 <a id="event-e8a23d94a0e6f9fa"></a>
 
 ## SwissBorg Zurich Community Meetup
@@ -21917,6 +22333,135 @@ Drinks on you, community spirit on us. See you there!
 
 Questions? Reach out to mark.ross@innovateindigital.com
 
+<a id="event-41428b4c397f824e"></a>
+
+## Blockchain Banter Presents: Web3 Poker Club x Wifey - Wolfpack Poker Night
+
+- Record: `luma-batch-7q5g8hwc`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-19T18:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/7q5g8hwc>
+
+### About the event
+
+Blockchain Banter Productions are organizing a collaboration between Web3 Poker Club & Wifey in order to host a series of poker nights at WolfysBar in London!
+
+These games will be FREE-TO-PLAY but will contain ecosystem rewards from our network.
+
+Special production by the Blockchain Banter team, they will be streaming the game with multiple camera angles, recording and then later editing the content!
+
+A massive thank you to Kastle Wallet for giving our guests the opportunity to have a 20% discount when buying food & drink from WolfysBar using $KAS at the bar through Kastle Wallet!
+
+<a id="event-f065cb759cb4a7f5"></a>
+
+## Xapo Bank Community Event
+
+- Record: `luma-batch-gpeo2awb`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-19T18:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/gpeo2awb>
+
+### About the event
+
+Xapo Bank is in London and we are pleased to invite you to our exclusive community event. Join us for an intimate gathering of institutions featuring curated insights, high-impact networking, and great conversation.
+
+Date: 19 November 2026
+
+Venue: Further details will be shared with confirmed guests.
+
+Special guests: Joey Garcia, Xapo Bank Conner Brown, Bitcoin Policy Institute
+
+Limited capacity: Register early to secure your spot using your corporate email.
+
+About Xapo Bank Xapo Bank has served the global Bitcoin community since 2013 from our headquarters in Gibraltar. We provide a dedicated platform for both Retail & Institutional clients, allowing for on/off ramp services via a USD bank account, and regulated custodian services backed by leading MPC technology.
+
+By applying to this event, you consent to Xapo Bank using your contact information to send you marketing communications. You may opt-out at any time.
+
+<a id="event-51ffd6c91d7ed764"></a>
+
+## TAO Social (Bittensor - The Decentralised AI crypto)
+
+- Record: `luma-batch-adcvm4ny`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-19T18:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/adcvm4ny>
+
+### About the event
+
+Hey Bittensor community, the next London UK event is booked!
+
+We are organising a TAO social on Thursday the 19th of November, with an exclusive section for $TAO enthusiasts.
+
+Connect with subnet developers, network builders, and key investors. Whether you're looking to contribute, invest, or simply learn more, join us to explore the next wave of decentralised AI that puts power back in the hands of the community.
+
+### Details
+
+- Thursday 19th November, 6:30pm onwards
+- The Crown Tavern, Clerkenwell (43 Clerkenwell Grn, Greater, London EC1R OEG)
+- 5-min walk from Farringdon Station.
+
+https://taosocials.com/
+
+<a id="event-071e97d49fb75817"></a>
+
+## From Real Assets to Digital Tokens: RWA Tokenisation
+
+- Record: `luma-batch-r5kqfaz0`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-23T16:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/r5kqfaz0>
+
+### About the event
+
+Hello Everyone,
+
+On behalf of ComTech Switzerland, in collaboration with XDC Network, we would like to invite you to Halal Finance Meets Tokenisation: Building the Next Generation of Real-World Assets.
+
+Date: 23 November 2026
+
+Time: 4:30-8:30 PM; formal programme begins at 5:00 PM
+
+The forum will focus on practical opportunities for halal tokenisation across gold, sukuk, real estate and funds, drawing on perspectives from finance, investment, law and digital assets.
+
+The programme will feature a keynote, three 40-minute panel discussions and a closing fireside chat, covering:
+
+* Halal principles, Ownership and Investor Trust
+* Tokenisation in Practice - Gold, Bonds, Real Estate and Funds
+* Regulation, Infrastructure and Cross-Border Growth
+* From Pilots to Commercial Adoption
+
+Would you be interested and available to join us as a speaker? Please let us know by 15th November 2026. We would be happy to discuss the session and share a brief outline of the proposed discussion.
+
+You're Welcome!
+
+<a id="event-7f0b662dbd85914d"></a>
+
+## SWC Cup \| Crypto Padel League Final
+
+- Record: `luma-batch-p2y6kowo`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-25T17:45:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/p2y6kowo>
+
+### About the event
+
+SWC Padel Night - the SWC Cup
+
+House of Racquet | Wed 25 Nov
+
+We're taking over the courts on the final night of Crypto Padel League Season 2 for the first-ever SWC Cup.
+
+How it works 4 teams go head to head: Politicians, Press, Partners and SWC up to 6 players per team (3 pairs), 24 players in total 6-7pm across 3 courts, 2 rounds of 30 minutes (arrive at 5:45pm if you're playing) 3 points per win, and the team with the most points lifts the SWC Trophy
+
+What's waiting for you Drinks flowing and food all night If you're playing, your own team t-shirt, plus SWC branded padel balls A celebration of our Blocked campaign
+
+Stick around after the tournament for the CPL Season 2 finale. Come ready to play or just spectate if you'd rather. See you on court!
+
 <a id="event-8ac9189fbfadfadf"></a>
 
 ## Kundenschutz und Kryptowährungen
@@ -21948,6 +22493,86 @@ Dr. Fabrice Eckert, Homburger AG
 12.50 Diskussion / Q&A
 
 Moderation: Ass.-Prof. Dr. Claude Humbel, ZIBR
+
+<a id="event-96b82753e1f45a31"></a>
+
+## Build on Tangem: MCP Workshop & Build Night
+
+- Record: `luma-batch-encode-8amm`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-26T17:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/encode-8amm>
+
+### About the event
+
+Tangem (crypto hardware wallet) is opening up to developers, and we're giving you the first hands-on look.
+
+Join the Tangem team at Encode Hub for an evening of building with the new Tangem MCP. You'll get an intro to Tangem's developer vision, a live demo, then two hours to build your own self-hosted mini-app on top of Tangem, with the team on hand to help.
+
+What's in it for you?
+
+Hands-on experience - Build your own mini-app with Tangem MCP.
+
+$40 in BTC - Complete MCP testing, share your feedback and get reward.
+
+FREE Tangem Hardware Wallet - Get your own 3-card set.
+
+Career opportunities - Meet the Tangem team and explore potential internships and job openings.
+
+Free pizza & drinks - Сonnect with fellow builders.
+
+Bring your laptop and an idea (or come find one on the night).
+
+### Agenda
+
+5:00 PM - Doors open: drinks, snacks and meet other builders
+
+5:20 PM - Meet Tangem: intro, developer vision and a live MCP demo
+
+6:00 PM - Building session
+
+8:00 PM - Demos and feedback
+
+8:30 PM - Networking
+
+### Who it's for
+
+Developers who want to build on self-custody, including web3 devs, AI and agent builders, and anyone curious about MCP. Bring your laptop. Desks will be available downstairs if you'd rather not code on your knees.
+
+### About Tangem
+
+Tangem makes self-custody simple. Founded in 2017 and based in Zug, Switzerland, Tangem built a hardware wallet the size of a bank card: no cables, no batteries, no screen. You just tap it to your phone. Private keys are generated and stored on an EAL6+ certified secure chip and never leave the card.
+
+Over 6 million Tangem cards have shipped to users in 200+ countries, and none have been hacked since launch. The range now includes the Tangem Ring, the world's first crypto ring, and Tangem Pay for spending crypto anywhere Visa is accepted.
+
+Next up, Tangem is opening its app to developers, with a marketplace for mini-apps that run directly inside the Tangem app.
+
+### About Encode
+
+A global developer community empowering builders through hackathons, accelerators, and educational programmes. They also offer a vibrant coworking space in the heart of Shoreditch - perfect if you're looking for a place to work and connect!
+
+<a id="event-c731e8033dddeab0"></a>
+
+## Sterling, Stablecoins & Beyond,Where is Digital Money Heading in the UK
+
+- Record: `luma-batch-t7lb04mp`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-11-27T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/t7lb04mp>
+
+### About the event
+
+Join Avalanche & Blockchain Game Alliance (BGA) for a closed roundtable at the House of Lords, UK Parliament.
+
+The UK is laying down the rules for digital money, but the real test is whether these policies will actually work in practice.
+
+Will the proposed caps and yield rules give sterling stablecoins a fighting chance, or will dollar-backed coins and tokenized bank deposits win out?
+
+And once we look past crypto trading, how do stablecoins fit into actual everyday payments, autonomous AI agents, and cross-border remittances?
+
+We're bringing together stablecoin issuers, banks, legal experts, and payment providers for an honest, practical discussion on where the market is really heading.
 
 <a id="event-6d2e782bf92b5838"></a>
 
@@ -22120,6 +22745,50 @@ Web Flea is Day 0 of ETHConf NYC. The conference takes over the Javits Center Ju
 The full lineup, vendors, and partners drop on the microsite: www.webflea.xyz
 
 Event Photo Release: By attending, you agree to be included in photographs or footage that may be used by Web Flea and partners for documentation and promotion.
+
+<a id="event-ec2e3450b1331c22"></a>
+
+## Fintech Week London Summit 2027
+
+- Record: `luma-batch-fwl27`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2027-09-21T07:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/fwl27>
+
+### About the event
+
+A Festival Celebrating the Global Hub of Fintech
+
+Fintech Week London 2027 takes place September 20-24. At its centre is the Summit (September 21-22): two days that bring together the people actively shaping where UK fintech goes next.
+
+Founders, operators, investors, banks and enterprise leaders will come together to see the latest innovation being showcased from London companies for the world to see.
+
+The programme is being built now. Register your interest to be first to hear about speakers, themes and tickets as they are announced.
+
+For information on exhibiting/sponsoring → Book a call
+
+Visit Website
+
+The Summit is built for anyone with a stake in where UK fintech goes next, not just fintech founders. Founders, CEOs and operators scaling past early traction CTOs and technical leaders making infrastructure and architecture decisions Investors, VCs and corporate development teams deciding what to back, buy or build CFOs and finance leaders navigating capital and growth Compliance leads, MLROs and policy teams getting ahead of the regulatory environment Banks and enterprises assessing who to partner, buy or build with next Anyone working across AI, fintech, payments, crypto, tokenisation and blockchain.
+
+The First 100: £100 passes
+
+We're releasing 100 full Summit passes at £100 for a limited time.
+
+That's £400 off the launch price. When they're gone, they're gone. Offer ends Sunday 18 October or when all 100 sell.
+
+Earlybird pricing then launches and ends Friday 29 January 2027. Prices rise at each release, so the earlier you book, the more you save.
+
+Pass types include Startup, Non-Profit, Investor and General. Groups of three or more get 20% off. Please contact events@fintechfringe.co to arrange.
+
+We would prefer if you pay by card but if you need to pay by bank transfer then please email the exact details that need to appear on your invoice to: accounts@fintechfringe.co.
+
+All tickets must be paid for prior to attending without exception.
+
+Fintech Fringe is the UK's fastest-growing fintech ecosystem (14,000+). We run events, a community platform ( forum.fintechfringe.co ), and a consultancy - Scale & Grow.
+
+Find Out More
 
 <a id="event-fcd5a05b6ff367f2"></a>
 
@@ -22367,104 +23036,6 @@ Come experience our collaboration between Edge Cities, SingularityNET and Light 
 
 You may leave with a partnership, a prototype, a new collaborator, or an entirely new direction you had not imagined before joining this unique Society Incubator.
 
-<a id="event-5aa5d1c20748dc4b"></a>
-
-## F1 SG x Crypto VC - Race Day
-
-- Record: `w3v-f1-sg-x-crypto-vc--race-day`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-11T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ngmqvk2i>
-
-### About the event
-
-A private gathering of capital, founders, and industry leaders during TOKEN2049 Week - with the view of F1 Singapore.
-
-F1 SG X Crypto VC brings together a carefully selected group of leading VCs, investors, founders, and key figures from the global crypto ecosystem for an evening built around meaningful conversations and high-value connections.
-
-No crowded rooms. No endless panels. No noise.
-
-Just the right people, with an unforgettable view of F1 Singapore.
-
-The Room
-
-Expect a carefully curated mix of:
-
-- Leading crypto and Web3 venture capitalists
-- Institutional and private investors
-- Founders building the next generation of companies
-- Family offices and strategic capital
-- Senior industry executives
-- Key players across finance, technology, and Web3
-
-The Experience-
-
-An unforgettable view of F1 Singapore
-
-Discuss new investment opportunities.
-
-Meet potential founders and investors.
-
-Explore strategic partnerships.
-
-Exchange perspectives on where the market is heading.
-
-Build relationships beyond the usual conference introduction.
-
-Come for the room.
-
-Stay for the conversations.
-
-Leave with relationships that matter.
-
-F1 SG X Crypto VC
-
-Singapore - TOKEN2049 Week
-
-<a id="event-b14830716fcdbae1"></a>
-
-## The Best Event: Grand Prix Trackside Penthouse Viewing
-
-- Record: `token2049-side-6aa1745c967be0befa88d018`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-11T10:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/TBE-F1Race>
-
-### THIS IS THE NIGHT
-
-It all comes down to this. F1 Race is the closing chapter of the Singapore's F1 qualifiers... the night Singapore's Grand Prix reaches its final lap, and the true winners are revealed. Brought together by Manoharan Capital, AXYS Bank, and TBV, this is not a night where you're watching from the crowd.
-
-Only ticket purchasers and guests who are directly invited by the event partners will be approved for this event.
-
-Join us high above Marina Bay in the best suite of an iconic five-star hotel with unobstructed, meaningful views of the Singapore Grand Prix than almost anywhere else in the city. From the private outdoor terrace, the Marina Bay Street Circuit unfolds directly beneath you: the noise, the lights, the speed, all playing out under a skyline built for exactly this moment. Few rooms in Singapore offer this rare combination of trackside proximity, architectural grandeur, and true exclusivity.
-
-Indoor and outdoor, air-conditioned and open-air, the space moves with the night, so you're never far from the action and never far from the room.
-
-### THE EXPERIENCE
-
-- Premier trackside views of the Singapore Grand Prix from a private terrace overlooking Marina Bay
-- Fine dining, elevated - a refined menu built for the rhythm of race night, designed to be enjoyed throughout rather than interrupt the evening
-- Champagne, premium spirits and signature cocktails flowing all night, alongside quality non-alcoholic options
-- A considered guest list - founders, investors, and the sharpest names in Web3, gathered for one night only
-- Personally hosted, with every detail of the evening looked after so you can focus on the race and the room
-- Strictly limited capacity - this is an intimate, curated environment, not a crowd
-
-### Your Hosts
-
-[TBV](http://www.tbv.xyz/?utm_source=luma) (TB Ventures) is a VC fund focused on leading rounds in early-stage web3 companies in South East Asia and North America. TBV is supported by TBE (TB Events) and TBA (TB Advisory), creating a network of services that are underpinned by a 100k+ social following and 10k+ active TG community.
-
-[Manoharan Capital](https://www.manoharancapital.com/) is a family office that invests with a clear conviction: enduring outcomes are built through disciplined partnership, global perspective, and earned trust.
-
-[Axys Bank](https://www.axysbank.io/) is NEO Banking for NEO Thinkers. They issue Global IBAN & bridges crypto and fiat into one seamless Neobank Experience.
-
-### Powered By
-
-[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
-
-For sponsor inquiries [for the penthouse editions, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.
-
 <a id="event-ad83133786b06d67"></a>
 
 ## Understanding the EU Blockchain Regulatory Framework
@@ -22488,35 +23059,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Original page: <https://lu.ma/gojets>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-4c4b41907b2ea1db"></a>
-
-## F1 Singapore Grand Prix Night Race
-
-- Record: `token2049-side-6a739ce35a75007b41001095`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-11T20:00:00+08:00
-- Description: Source-backed
-- Original page: <https://singaporegp.sg>
-- Original page: <https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE>
-
-### About the event
-
-The Formula 1 Singapore Airlines Singapore Grand Prix 2026 takes place over 62 laps of the 4.927-kilometre Marina Bay Street Circuit on Sunday, 11 October.
-
-### Sunday race program
-
-The track program runs on local Singapore time, eight hours ahead of UTC: the Porsche Carrera Cup Asia second race at 15:40-16:15, the drivers' parade at 18:00-18:30, the national anthem at 19:44-19:46, and the Grand Prix of 62 laps or 120 minutes at 20:00-22:00.
-
-### Circuit
-
-The Marina Bay Circuit is a street track with the city's skyline as its backdrop and has hosted the night race since 2008. The official timetable is subject to change.
-
-The Marina Bay Circuit arrived on the scene in 2008 with the city skyline as its backdrop, hosting the first night-time race in Formula 1 history. After a 2023 layout change the lap runs 19 corners over 4.927 kilometres, and the bumpy street surface plus humidity make it one of the most physically demanding races on the calendar.
-
-### Following the weekend
-
-The sessions can be followed live on F1 TV, with tickets and hospitality packages available through Formula 1 official channels.
 
 <a id="event-38474672163911a0"></a>
 

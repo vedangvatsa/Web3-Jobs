@@ -26,25 +26,6 @@
       ]
     },
     {
-      "id": "token2049-side-6a739ce35a75007b41001095",
-      "outcome": "recovered",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
-      "reason": "Corrected the race start from the older 4 PM listing to Formula 1's official 8 PM Singapore start.",
-      "fetchedAt": "2026-09-20T07:56:58.376Z",
-      "characters": 404,
-      "changes": [
-        "description",
-        "descriptionSource",
-        "website",
-        "registrationUrl",
-        "startDate",
-        "timezone",
-        "location",
-        "venueName",
-        "slug"
-      ]
-    },
-    {
       "id": "premier-planblugano",
       "outcome": "recovered",
       "sourceUrl": "https://planb.lugano.ch/planb-forum/",
