@@ -127402,6 +127402,35 @@
       "verification": "pending",
       "postId": "6af3715a6c7ea3f5e3947d89",
       "error": "Buffer X publish failed for 6af3715a6c7ea3f5e3947d89: This post contains a URL that X believes to be invalid. Please check the URL and try again."
+    },
+    {
+      "slug": "ops143",
+      "company": "BVNK",
+      "title": "Senior Business Operations & Strategy Manager",
+      "platform": "threads",
+      "postedAt": "2026-11-10T19:32:38.854Z",
+      "expectedText": "BVNK is hiring Senior Business Operations & Strategy Manager: https://hashtagweb3.com/ops143/th?og=7",
+      "snapshot": {
+        "id": "5025273101",
+        "title": "Senior Business Operations & Strategy Manager",
+        "company": "BVNK",
+        "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5025273101",
+        "date": "2026-11-03T08:56:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BVNK [bvnk]",
+        "location": "London / NYC",
+        "department": "Operations",
+        "active": true,
+        "salary": "$165k – $210k/yr",
+        "dateVerified": true,
+        "slug": "ops143"
+      },
+      "payload": {
+        "text": "BVNK is hiring Senior Business Operations & Strategy Manager: https://hashtagweb3.com/ops143/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/ops143/th?og=7"
+      },
+      "attemptId": "9d55016b-d22d-478b-ba77-707e73699fbc",
+      "verification": "creating"
     }
   ]
 }
