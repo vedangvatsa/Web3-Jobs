@@ -126555,7 +126555,8 @@
       "account": "hashtag_web3",
       "attemptId": "cecbeae7-bcf1-418b-843c-6105ce8864d0",
       "verification": "pending",
-      "postId": "6af301e6cbbac94e1ea30a12"
+      "postId": "6af301e6cbbac94e1ea30a12",
+      "error": "Buffer X publish failed for 6af301e6cbbac94e1ea30a12: This post contains a URL that X believes to be invalid. Please check the URL and try again."
     }
   ]
 }
