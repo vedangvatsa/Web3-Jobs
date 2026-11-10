@@ -3648,7 +3648,7 @@
     "sentAt": "2026-11-09T19:54:31.938Z"
   },
   "d85cda5e-92c4-4d65-8c35-820fe56d7df0": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-10T11:38:00.277Z",
     "stories": [
       {
@@ -3676,6 +3676,8 @@
         "originalTitle": "Nvidia, Jensen Huang Sued by Shareholders Over Alleged Ties to Suspected Chinese Spy"
       }
     ],
-    "slotKey": "2026-11-10:afternoon"
+    "slotKey": "2026-11-10:afternoon",
+    "messageId": 65818,
+    "sentAt": "2026-11-10T11:38:17.722Z"
   }
 }
