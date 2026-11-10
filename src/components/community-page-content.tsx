@@ -280,9 +280,6 @@ export function CommunityPageContent({
       <section className="w-full">
         <div className="mb-4 text-center sm:mb-5">
           <h2 className="text-2xl font-bold sm:text-3xl">Explore Our Resources</h2>
-          <p className="mx-auto mt-2 max-w-xl text-sm text-muted-foreground">
-            Free tools for Web3 professionals and hiring teams.
-          </p>
         </div>
         <Card className="w-full border-border/70 bg-card shadow-none">
           <CardContent className="p-4 sm:p-6">
