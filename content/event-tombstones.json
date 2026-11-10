@@ -2051,8 +2051,7 @@
   "luma-crypto-BavsKnnpoAOSM59": {
     "until": "2027-10-25T18:36:42.511Z",
     "slugs": [
-      "luma-crypto-bavsknnpoaosm59",
-      "hyperliqui"
+      "luma-crypto-bavsknnpoaosm59"
     ]
   },
   "luma-batch-OaxPTQzrE6VTl6A": {
@@ -5115,7 +5114,6 @@
   "token2049-side-6a968fcd967be0befa88a520": {
     "until": "2027-11-04T19:42:54.260Z",
     "slugs": [
-      "allocators",
       "token2049-side-6a968fcd967be0befa88a520"
     ]
   },
@@ -6460,6 +6458,2738 @@
     "slugs": [
       "canton-coffee",
       "token2049-evt-akfgak6vbp3jzfk"
+    ]
+  },
+  "premier-hk-web3-festival-2027": {
+    "until": "2027-11-10T20:41:10.000Z",
+    "slugs": []
+  },
+  "premier-token2049-singapore-2026": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049",
+      "premier-token2049-singapore-2026",
+      "token2049-singapore-2026"
+    ]
+  },
+  "premier-sui-basecamp-2026": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "sui",
+      "sbd1",
+      "token2049-side-6a5012633da1e45bc7967d9b",
+      "token2049-side-6a4fb19410f84b19adc7250e",
+      "sbd2",
+      "token2049-side-6a4fb19510f84b19adc72510",
+      "token2049-side-6a5012663da1e45bc7967d9d",
+      "premier-sui-basecamp-2026",
+      "sui-basecamp-2026"
+    ]
+  },
+  "premier-stablecoinsg": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "stablecoin-summit-2026",
+      "premier-stablecoinsg",
+      "stablecoinsg"
+    ]
+  },
+  "premier-finalityforum": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "finality-forum-2026",
+      "finality-forum",
+      "token2049-side-6a5ea218d1b48ddf39d0835f",
+      "premier-finalityforum",
+      "finalityforum"
+    ]
+  },
+  "premier-theodds": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "the2",
+      "premier-theodds",
+      "theodds"
+    ]
+  },
+  "premier-rwa-week-2026": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "rwa-week",
+      "premier-rwa-week-2026",
+      "rwa-week-2026"
+    ]
+  },
+  "premier-daweek-london-2026": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "daweek-london",
+      "premier-daweek-london-2026",
+      "daweek-london-2026"
+    ]
+  },
+  "premier-token2049-origins-2026": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049-origins",
+      "premier-token2049-origins-2026",
+      "token2049-origins-2026"
+    ]
+  },
+  "w3v-okx-dev-day-2026": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "odd",
+      "w3v-okx-dev-day-2026"
+    ]
+  },
+  "w3v-definition-singapore-2026": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "definition",
+      "w3v-definition-singapore-2026"
+    ]
+  },
+  "w3v-thought-leaders-summit": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "tls",
+      "w3v-thought-leaders-summit"
+    ]
+  },
+  "w3v-seracx-stablecoins-liquidity-meet-flow": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "scs",
+      "w3v-seracx-stablecoins-liquidity-meet-flow"
+    ]
+  },
+  "w3v-vcs--lps-cocktail-hour": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "vlchio",
+      "w3v-vcs--lps-cocktail-hour"
+    ]
+  },
+  "w3v-the-real-yield-happy-hour-by-honeyb": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ryhhh",
+      "w3v-the-real-yield-happy-hour-by-honeyb"
+    ]
+  },
+  "w3v-sts-digital--derivexyz---its-good-to-have-options": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "sddxvyc",
+      "w3v-sts-digital--derivexyz---its-good-to-have-options"
+    ]
+  },
+  "w3v-institutions-x-whales-vvip-yatch-party": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ixw",
+      "w3v-institutions-x-whales-vvip-yatch-party"
+    ]
+  },
+  "w3v-night-by-the-pool": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "night-pool",
+      "w3v-night-by-the-pool"
+    ]
+  },
+  "w3v-utxo-pitch-night": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "rupn",
+      "w3v-utxo-pitch-night"
+    ]
+  },
+  "w3v-mst-blockchain---offchain-hours--consensus--cocktails": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "mboh",
+      "w3v-mst-blockchain---offchain-hours--consensus--cocktails"
+    ]
+  },
+  "w3v-mini-apps-after-dark": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "maad",
+      "w3v-mini-apps-after-dark"
+    ]
+  },
+  "w3v-quantstamp-x-common-defense-singapore-sips": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "qxcds",
+      "w3v-quantstamp-x-common-defense-singapore-sips"
+    ]
+  },
+  "w3v-rwa-beyond-the-hype": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "rbh2",
+      "w3v-rwa-beyond-the-hype"
+    ]
+  },
+  "w3v-retrofuture-soiree-by-changenow-singapore-edition": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "rsc",
+      "w3v-retrofuture-soiree-by-changenow-singapore-edition"
+    ]
+  },
+  "w3v-payments-treasury-and-tokenization-summit-2026": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ptts",
+      "w3v-payments-treasury-and-tokenization-summit-2026"
+    ]
+  },
+  "w3v-on-chain-horizons-founders-x-funders": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "chain-horizons",
+      "w3v-on-chain-horizons-founders-x-funders"
+    ]
+  },
+  "w3v-gm-ai-v2": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "gav0bcdkor",
+      "w3v-gm-ai-v2"
+    ]
+  },
+  "w3v-quantum--privacy-day": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "qday",
+      "w3v-quantum--privacy-day"
+    ]
+  },
+  "w3v-ethereum-ecosystem-summit": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ees",
+      "w3v-ethereum-ecosystem-summit"
+    ]
+  },
+  "w3v-agentic-finance-summit--the-odds-prediction-markets-live": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "odds",
+      "afs",
+      "token2049-side-6a71f32ad1b48ddf39d09b86",
+      "w3v-agentic-finance-summit--the-odds-prediction-markets-live"
+    ]
+  },
+  "w3v-the-treasury-table-a-cfo-summit": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "treasury-table",
+      "w3v-the-treasury-table-a-cfo-summit"
+    ]
+  },
+  "w3v-proof-of-liquidity-singapore-edition-by-yield-network": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "proof-liquidity2",
+      "w3v-proof-of-liquidity-singapore-edition-by-yield-network"
+    ]
+  },
+  "w3v-the-garden-room": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "w3v-the-garden-room",
+      "garden-room"
+    ]
+  },
+  "w3v-money-layer": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "money-layer",
+      "w3v-money-layer"
+    ]
+  },
+  "w3v-above-the-rails": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "above-rails",
+      "w3v-above-the-rails"
+    ]
+  },
+  "w3v-dat-summit---trackside-edition": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "dste",
+      "w3v-dat-summit---trackside-edition"
+    ]
+  },
+  "w3v-yacht-party---crypto-whales": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ypcw",
+      "w3v-yacht-party---crypto-whales"
+    ]
+  },
+  "w3v-builders-meet": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "builders-meet2",
+      "w3v-builders-meet"
+    ]
+  },
+  "w3v-sparky-game-on": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "sparky",
+      "w3v-sparky-game-on"
+    ]
+  },
+  "w3v-proof-of-liquidity-vip-dinner-by-yield-network-ink-chain-rockawayx-and-nexus-mutual": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "proof-liquidity3",
+      "w3v-proof-of-liquidity-vip-dinner-by-yield-network-ink-chain-rockawayx-and-nexus-mutual"
+    ]
+  },
+  "w3v-f1-sg-x-crypto-vc-qualifying-day": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "fsxcvqd",
+      "w3v-f1-sg-x-crypto-vc-qualifying-day"
+    ]
+  },
+  "w3v-padel-hangout-by-arc-trading": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "phat",
+      "w3v-padel-hangout-by-arc-trading"
+    ]
+  },
+  "w3v-crypto-syndicate-party": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "csp",
+      "w3v-crypto-syndicate-party"
+    ]
+  },
+  "w3v-f1-sg-x-crypto-vc--race-day": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "fsxcvrd",
+      "w3v-f1-sg-x-crypto-vc--race-day"
+    ]
+  },
+  "token2049-side-6a4fab1c10f84b19adc724c0": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "dasa",
+      "token2049-side-6a4fab1c10f84b19adc724c0"
+    ]
+  },
+  "token2049-side-6a5012633da1e45bc7967d9b": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049-side-6a5012633da1e45bc7967d9b",
+      "sbd1"
+    ]
+  },
+  "token2049-side-6a7445ef7ef1577c1e37eca1": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "after-2049",
+      "token2049-side-6a7445ef7ef1577c1e37eca1"
+    ]
+  },
+  "token2049-side-6a531b033438be070d7a9a98": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "hptm",
+      "token2049-side-6a531b033438be070d7a9a98"
+    ]
+  },
+  "token2049-side-6a534c0347aa29a148924641": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "traders-week",
+      "token2049-side-6a534c0447aa29a148924643",
+      "token2049-side-6a534c0647aa29a148924645",
+      "token2049-side-6a534c0647aa29a148924647",
+      "token2049-side-6a534c0747aa29a148924649",
+      "token2049-side-6a534c0847aa29a14892464b",
+      "token2049-side-6a534c0347aa29a148924641"
+    ]
+  },
+  "token2049-side-6a534c0447aa29a148924643": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049-side-6a534c0447aa29a148924643",
+      "traders-week"
+    ]
+  },
+  "token2049-side-6a59152b0aadc8b6ce22f4ee": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ddpc",
+      "token2049-side-6a59152b0aadc8b6ce22f4ee"
+    ]
+  },
+  "token2049-side-6aa3f80a967be0befa88dd56": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ohd2",
+      "token2049-side-6aa3f80a967be0befa88dd56"
+    ]
+  },
+  "token2049-side-6a7399105a75007b41001064": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "miasd1",
+      "token2049-side-6a7399105a75007b41001064"
+    ]
+  },
+  "token2049-side-6a4fb19410f84b19adc7250e": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049-side-6a4fb19410f84b19adc7250e",
+      "sbd1"
+    ]
+  },
+  "token2049-side-6a9e2985d567345aad6843b9": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049-side-6a9e2985d567345aad6843b9",
+      "compass"
+    ]
+  },
+  "token2049-side-6a9fb074d567345aad684a03": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "obibzktr",
+      "token2049-side-6a9fb074d567345aad684a03"
+    ]
+  },
+  "token2049-side-6a534c0647aa29a148924645": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049-side-6a534c0647aa29a148924645",
+      "traders-week"
+    ]
+  },
+  "token2049-side-6a9ab836d567345aad683a98": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "starknet",
+      "token2049-side-6a9ab836d567345aad683a98"
+    ]
+  },
+  "token2049-side-6a9f1f8cd567345aad6847e6": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "neobankers-brunch",
+      "token2049-side-6a9f1f8cd567345aad6847e6"
+    ]
+  },
+  "token2049-side-6a9064774ee2bfcc8598306c": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "fibio",
+      "token2049-side-6a9064774ee2bfcc8598306c"
+    ]
+  },
+  "token2049-side-6aa17366d567345aad6851a6": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "best-event3",
+      "token2049-side-6aa17366d567345aad6851a6"
+    ]
+  },
+  "token2049-side-6aa13e9a967be0befa88cee0": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "vol",
+      "token2049-side-6aa13e9a967be0befa88cee0"
+    ]
+  },
+  "token2049-side-6aa06361967be0befa88cbb6": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "rlb",
+      "token2049-side-6aa06361967be0befa88cbb6"
+    ]
+  },
+  "token2049-side-6aa63467c0426d278bd882e1": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "cuf",
+      "token2049-side-6aa63467c0426d278bd882e1"
+    ]
+  },
+  "token2049-side-6a8eb797e258d468339534a1": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "pizza-break",
+      "token2049-side-6a8eb797e258d468339534a1"
+    ]
+  },
+  "token2049-side-6a9e7f72d567345aad684576": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "tss32",
+      "token2049-side-6a9e7f72d567345aad684576",
+      "tss3"
+    ]
+  },
+  "token2049-side-6aa296c8d567345aad685661": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "afe",
+      "token2049-side-6aa29585967be0befa88d478",
+      "token2049-side-6aa296c8d567345aad685661"
+    ]
+  },
+  "token2049-side-6aa29585967be0befa88d478": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049-side-6aa29585967be0befa88d478",
+      "afe"
+    ]
+  },
+  "token2049-side-6a91a3b2e258d46833953c1f": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "rbh",
+      "token2049-side-6a91a3b2e258d46833953c1f"
+    ]
+  },
+  "token2049-side-6aa16257967be0befa88cf91": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "cmo-summit",
+      "token2049-side-6aa16257967be0befa88cf91"
+    ]
+  },
+  "token2049-side-6aa41e96c0426d278bd87cfe": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "nscfr",
+      "token2049-side-6aa41e96c0426d278bd87cfe"
+    ]
+  },
+  "token2049-side-6a8eb8a0e258d468339534b0": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "fxvrd1",
+      "token2049-side-6a8eb8a0e258d468339534b0"
+    ]
+  },
+  "token2049-side-6a9e3058d567345aad6843d5": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ztap",
+      "token2049-side-6a9e3058d567345aad6843d5"
+    ]
+  },
+  "token2049-side-6a7ea639d354d830a22402c7": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "cmsl",
+      "token2049-side-6a7ea639d354d830a22402c7"
+    ]
+  },
+  "token2049-side-6a9912ffd567345aad68344b": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "nhs",
+      "token2049-side-6a9912ffd567345aad68344b"
+    ]
+  },
+  "token2049-side-6aa12348967be0befa88ce4e": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ccnhh",
+      "token2049-side-6aa12348967be0befa88ce4e"
+    ]
+  },
+  "token2049-side-6aa41330967be0befa88de0c": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049-side-6aa41330967be0befa88de0c",
+      "amos"
+    ]
+  },
+  "token2049-side-6aa29151d567345aad685635": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "crossing",
+      "token2049-side-6aa29151d567345aad685635"
+    ]
+  },
+  "token2049-side-6a5800e4695677e454daf3f5": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049-side-6a5800e4695677e454daf3f5",
+      "crypto-noir"
+    ]
+  },
+  "token2049-side-6a9a9f20967be0befa88b7d8": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "pmp",
+      "token2049-side-6a9a9f20967be0befa88b7d8"
+    ]
+  },
+  "token2049-side-6a4fb19510f84b19adc72510": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049-side-6a4fb19510f84b19adc72510",
+      "sbd2"
+    ]
+  },
+  "token2049-side-6a54a1523438be070d7a9bdd": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "td2",
+      "token2049-side-6a54a1523438be070d7a9bdd"
+    ]
+  },
+  "token2049-side-6a7399235a75007b41001066": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "miasd2",
+      "token2049-side-6a7399235a75007b41001066"
+    ]
+  },
+  "token2049-side-6a5012663da1e45bc7967d9d": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049-side-6a5012663da1e45bc7967d9d",
+      "sbd2"
+    ]
+  },
+  "token2049-side-6a8da2244ee2bfcc8598298f": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ham",
+      "token2049-side-6a8da2244ee2bfcc8598298f"
+    ]
+  },
+  "token2049-side-6aa190ac967be0befa88d09a": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "cccnp",
+      "token2049-side-6aa190ac967be0befa88d09a"
+    ]
+  },
+  "token2049-side-6a534c0647aa29a148924647": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049-side-6a534c0647aa29a148924647",
+      "traders-week"
+    ]
+  },
+  "token2049-side-6a9c22bdd567345aad683ddc": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "iafm",
+      "token2049-side-6a9c22bdd567345aad683ddc"
+    ]
+  },
+  "token2049-side-6a9f5ba7967be0befa88c687": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "avcc2",
+      "token2049-side-6a9f5ba7967be0befa88c687"
+    ]
+  },
+  "token2049-side-6a9a41d8d567345aad68388e": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "tacnode-apex",
+      "token2049-side-6a9a41d8d567345aad68388e"
+    ]
+  },
+  "token2049-side-6aa3dc84d567345aad685ed8": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "hgxhsxhpcxi",
+      "token2049-side-6aa3dc84d567345aad685ed8"
+    ]
+  },
+  "token2049-side-6a71f32ad1b48ddf39d09b86": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049-side-6a71f32ad1b48ddf39d09b86",
+      "afs"
+    ]
+  },
+  "token2049-side-6a8eb7cae258d468339534a6": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "pizza-break2",
+      "token2049-side-6a8eb7cae258d468339534a6"
+    ]
+  },
+  "token2049-side-6aa41f2ac0426d278bd87d05": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "nscfr2",
+      "token2049-side-6aa41f2ac0426d278bd87d05"
+    ]
+  },
+  "token2049-side-6aa17395d567345aad6851af": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "best-event4",
+      "token2049-side-6aa17395d567345aad6851af"
+    ]
+  },
+  "token2049-side-6aa00746967be0befa88ca3f": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "l1e",
+      "token2049-side-6aa00746967be0befa88ca3f"
+    ]
+  },
+  "token2049-side-6aa41d6d8ffcc4e5ece10d0f": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ohpc",
+      "token2049-side-6aa41d6d8ffcc4e5ece10d0f"
+    ]
+  },
+  "token2049-side-6a8eb93ae258d468339534ba": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "fxvrd2",
+      "token2049-side-6a8eb93ae258d468339534ba"
+    ]
+  },
+  "token2049-side-6a92a6f5967be0befa889bd3": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "sundown-mixer",
+      "token2049-side-6a92a6f5967be0befa889bd3"
+    ]
+  },
+  "token2049-side-6a9f79f3967be0befa88c736": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "bra",
+      "token2049-side-6a9f79f3967be0befa88c736"
+    ]
+  },
+  "token2049-side-6aa634b38ffcc4e5ece11347": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "coinbase-champions",
+      "token2049-side-6aa634b38ffcc4e5ece11347"
+    ]
+  },
+  "token2049-side-6aa173a9967be0befa88cff5": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "best-event5",
+      "token2049-side-6aa173a9967be0befa88cff5"
+    ]
+  },
+  "token2049-side-6a73992d5a75007b41001068": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "miasd3",
+      "token2049-side-6a73992d5a75007b41001068"
+    ]
+  },
+  "token2049-side-6a622e12d1b48ddf39d08981": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "vault-summit",
+      "token2049-side-6a622e12d1b48ddf39d08981"
+    ]
+  },
+  "token2049-side-6a5ea218d1b48ddf39d0835f": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049-side-6a5ea218d1b48ddf39d0835f",
+      "finality-forum"
+    ]
+  },
+  "token2049-side-6a6026bf5a75007b41fff94b": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "rwa-summit",
+      "token2049-side-6a6026bf5a75007b41fff94b"
+    ]
+  },
+  "token2049-side-6a534c0747aa29a148924649": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049-side-6a534c0747aa29a148924649",
+      "traders-week"
+    ]
+  },
+  "token2049-side-6aa51a468ffcc4e5ece11007": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "bitangels",
+      "token2049-side-6aa51a468ffcc4e5ece11007"
+    ]
+  },
+  "token2049-side-6aa173bdd567345aad6851b8": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "best-event6",
+      "token2049-side-6aa173bdd567345aad6851b8"
+    ]
+  },
+  "token2049-side-6a739bc8d1b48ddf39d09e32": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "fpsq",
+      "token2049-side-6a739bc8d1b48ddf39d09e32"
+    ]
+  },
+  "token2049-side-6a6a54add1b48ddf39d0929d": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "fxvs2",
+      "token2049-side-6a6a54add1b48ddf39d0929d"
+    ]
+  },
+  "token2049-side-6a9a8659d567345aad6839ac": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "institutional-table",
+      "token2049-side-6a9a8659d567345aad6839ac"
+    ]
+  },
+  "token2049-side-6aa3a7bdd567345aad685d8d": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ai-token",
+      "token2049-side-6aa3a7bdd567345aad685d8d"
+    ]
+  },
+  "token2049-side-6aa173ecd567345aad6851be": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "best-event7",
+      "token2049-side-6aa173ecd567345aad6851be"
+    ]
+  },
+  "token2049-side-6a9f15a0967be0befa88c5ea": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ccxb",
+      "token2049-side-6a9f15a0967be0befa88c5ea"
+    ]
+  },
+  "token2049-side-6a534c0847aa29a14892464b": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049-side-6a534c0847aa29a14892464b",
+      "traders-week"
+    ]
+  },
+  "token2049-side-6aa1740b967be0befa88cffc": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "best-event8",
+      "token2049-side-6aa1740b967be0befa88cffc"
+    ]
+  },
+  "token2049-side-6a739c525a75007b4100108c": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "fsrgpq",
+      "token2049-side-6a739c525a75007b4100108c"
+    ]
+  },
+  "token2049-side-6aa1741e967be0befa88d006": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "best-event9",
+      "token2049-side-6aa1741e967be0befa88d006"
+    ]
+  },
+  "token2049-side-6aa17432967be0befa88d00d": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "invite",
+      "token2049-side-6aa17432967be0befa88d00d"
+    ]
+  },
+  "token2049-side-6aa1744c967be0befa88d013": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "best-event10",
+      "token2049-side-6aa1744c967be0befa88d013"
+    ]
+  },
+  "token2049-side-6a739ce35a75007b41001095": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "fgpnr",
+      "token2049-side-6a739ce35a75007b41001095"
+    ]
+  },
+  "token2049-side-6aa1745c967be0befa88d018": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "best-event11",
+      "token2049-side-6aa1745c967be0befa88d018"
+    ]
+  },
+  "india-luma-9mjyny8k": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "rrj",
+      "india-luma-9mjyny8k"
+    ]
+  },
+  "luma-batch-CdGb9HZtvTpfqnr": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "agenticstack",
+      "luma-batch-cdgb9hztvtpfqnr"
+    ]
+  },
+  "luma-batch-uaILCmDGiulcbgK": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "e38g271w",
+      "luma-batch-uailcmdgiulcbgk"
+    ]
+  },
+  "luma-batch-kLLhQAqUSbfKTRp": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "sanfranciscooctober",
+      "luma-batch-kllhqaqusbfktrp"
+    ]
+  },
+  "luma-batch-O4axDZsaJkpWCSj": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "osblc3d0",
+      "luma-batch-o4axdzsajkpwcsj"
+    ]
+  },
+  "luma-batch-HVz9QrHwDKCcbkH": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "j0muyl9l",
+      "luma-batch-hvz9qrhwdkccbkh"
+    ]
+  },
+  "luma-batch-FgIpxrhW9Ef7ysl": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "da7ppbga",
+      "luma-batch-fgipxrhw9ef7ysl"
+    ]
+  },
+  "luma-batch-zBY3ww5MbYNJJ7Z": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "superteam-1tru",
+      "luma-batch-zby3ww5mbynjj7z"
+    ]
+  },
+  "luma-batch-rk5AVFngAATx3XK": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "98p6jlz3",
+      "luma-batch-rk5avfngaatx3xk"
+    ]
+  },
+  "luma-batch-GBzQbyZniVZ4C1N": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "superteam-7sc1",
+      "luma-batch-gbzqbyznivz4c1n"
+    ]
+  },
+  "luma-batch-vLu55Cr9n9hVL9l": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "xmhmmh6v",
+      "luma-batch-vlu55cr9n9hvl9l"
+    ]
+  },
+  "luma-batch-1sMHw1TaVO3TkEe": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "london-oct-09",
+      "luma-batch-1smhw1tavo3tkee"
+    ]
+  },
+  "luma-batch-Xn8sMlufqyme16Q": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "onlinedemod",
+      "luma-batch-xn8smlufqyme16q"
+    ]
+  },
+  "luma-batch-EHG2EAh4I63mIfb": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "vbow207k",
+      "luma-batch-ehg2eah4i63mifb"
+    ]
+  },
+  "luma-batch-asZtVgB6WBDcpt6": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "demodaykyiv",
+      "luma-batch-asztvgb6wbdcpt6"
+    ]
+  },
+  "luma-batch-o5zAFWhqOEDAlNO": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "superteam-v4td",
+      "luma-batch-o5zafwhqoedalno"
+    ]
+  },
+  "luma-batch-evtxXrOExH1UJ0fZ": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "monad-straitsx",
+      "luma-batch-evtxxroexh1uj0fz"
+    ]
+  },
+  "luma-batch-evtXEwL2ZQxOZw7U": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "92o31236",
+      "luma-batch-evtxewl2zqxozw7u"
+    ]
+  },
+  "luma-batch-evtC4yIcTMlVkY4x": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "polymarketsingapore",
+      "luma-batch-evtc4yictmlvky4x"
+    ]
+  },
+  "luma-batch-evtYmTGHFb7GGjrc": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ns2026",
+      "luma-batch-evtymtghfb7ggjrc"
+    ]
+  },
+  "luma-batch-evtXmYZu9qMoaw8Y": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "uw828q63",
+      "luma-batch-evtxmyzu9qmoaw8y"
+    ]
+  },
+  "luma-batch-evtXgXZIuKMToarc": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "vwt0rtzg",
+      "luma-batch-evtxgxziukmtoarc"
+    ]
+  },
+  "luma-batch-evtTuPU87cE2mnqd": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "w8fi4x2j",
+      "luma-batch-evttupu87ce2mnqd"
+    ]
+  },
+  "luma-batch-evtcp7WVEPB7iUm9": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "fhidwhre",
+      "luma-batch-evtcp7wvepb7ium9"
+    ]
+  },
+  "luma-batch-evtwca6MOhUjdjAy": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "3f627o8i",
+      "luma-batch-evtwca6mohujdjay"
+    ]
+  },
+  "luma-batch-evt5SDj8waYYZ3uR": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "gbb4thfy",
+      "luma-batch-evt5sdj8wayyz3ur"
+    ]
+  },
+  "luma-batch-evtRreF4EjyJVHW1": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "fhruucyb",
+      "luma-batch-evtrref4ejyjvhw1"
+    ]
+  },
+  "luma-batch-evtZLf9lBj5M4B6S": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "os8g47c6",
+      "luma-batch-evtzlf9lbj5m4b6s"
+    ]
+  },
+  "luma-batch-evtf3fsyDYkRJ6Ft": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "clqsn9rk",
+      "luma-batch-evtf3fsydykrj6ft"
+    ]
+  },
+  "luma-batch-evtlQQx4fhdqAKlZ": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "suf6bkja",
+      "luma-batch-evtlqqx4fhdqaklz"
+    ]
+  },
+  "luma-batch-evtx0OeRiSMOqKPz": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "rm4z8e9j",
+      "luma-batch-evtx0oerismoqkpz"
+    ]
+  },
+  "luma-batch-evtnVBhh5hvxGcbs": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "rwa4g698",
+      "luma-batch-evtnvbhh5hvxgcbs"
+    ]
+  },
+  "luma-batch-evt9PfPGCQNN9dvV": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ypcxgpyx",
+      "luma-batch-evt9pfpgcqnn9dvv"
+    ]
+  },
+  "luma-batch-evtwiBFcaMSpD5dN": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "xsollaconnectsingapore2026",
+      "luma-batch-evtwibfcamspd5dn"
+    ]
+  },
+  "luma-batch-evtOyQyPiD6p5ycG": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "dvq3idrk",
+      "luma-batch-evtoyqypid6p5ycg"
+    ]
+  },
+  "luma-batch-evtwMVhDE0v1YtQk": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "insidetheigloo",
+      "luma-batch-evtwmvhde0v1ytqk"
+    ]
+  },
+  "luma-batch-evtmyWauQVbUVvIA": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "j8huihey",
+      "luma-batch-evtmywauqvbuvvia"
+    ]
+  },
+  "luma-batch-evtUtC4gkKlD3EKN": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "upeeqmpy",
+      "luma-batch-evtutc4gkkld3ekn"
+    ]
+  },
+  "luma-batch-evtwvo8WiyhLX1ZU": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "animoca-2jr5",
+      "luma-batch-evtwvo8wiyhlx1zu"
+    ]
+  },
+  "luma-batch-evtWOLVIOpGwvV1y": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "stablecoin-social",
+      "luma-batch-evtwolviopgwvv1y"
+    ]
+  },
+  "luma-batch-evt2oxGwMQGu6nGh": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "kkusynvq",
+      "luma-batch-evt2oxgwmqgu6ngh"
+    ]
+  },
+  "luma-batch-evtugG45AgUzqewk": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "as504pew",
+      "luma-batch-evtugg45aguzqewk"
+    ]
+  },
+  "luma-batch-evtLdapJLoLQEqw6": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "4u4d6b4b",
+      "luma-batch-evtldapjlolqeqw6"
+    ]
+  },
+  "luma-batch-evtVtVUJyVqNz3nU": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ih45fhdi",
+      "luma-batch-evtvtvujyvqnz3nu"
+    ]
+  },
+  "luma-batch-evtd1RGKYQGL43kY": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "txse7fpe",
+      "luma-batch-evtd1rgkyqgl43ky"
+    ]
+  },
+  "luma-batch-evtkUphlvENLiUFR": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "gmpjaayt",
+      "luma-batch-evtkuphlvenliufr"
+    ]
+  },
+  "luma-batch-evtMuyrCcfEIqBAx": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "of1puxg8",
+      "luma-batch-evtmuyrccfeiqbax"
+    ]
+  },
+  "luma-batch-evttLuUoyzK6JKSG": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "n3csj3ze",
+      "luma-batch-evttluuoyzk6jksg"
+    ]
+  },
+  "luma-batch-evtTLKtXKvfrATFZ": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "0gcmzl6g",
+      "luma-batch-evttlktxkvfratfz"
+    ]
+  },
+  "luma-batch-evtMGtrakjrohkd8": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "blofinwhale3ra",
+      "luma-batch-evtmgtrakjrohkd8"
+    ]
+  },
+  "luma-batch-evtp4SouuKrUrejZ": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "u1v2uca7",
+      "luma-batch-evtp4souukrurejz"
+    ]
+  },
+  "luma-batch-evtRD5vN7RgDwDP7": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "9k9nymg8",
+      "luma-batch-evtrd5vn7rgdwdp7"
+    ]
+  },
+  "luma-batch-evtR7GFZvPp1hBFG": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "oknedt0y",
+      "luma-batch-evtr7gfzvpp1hbfg"
+    ]
+  },
+  "luma-batch-evtYEw7Rn9hCkzAh": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "m6mclrnh",
+      "luma-batch-evtyew7rn9hckzah"
+    ]
+  },
+  "luma-batch-evtmy8Z6xZsAyOA3": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "2sin1muv",
+      "luma-batch-evtmy8z6xzsayoa3"
+    ]
+  },
+  "luma-batch-evtCF50fhBlHy1oU": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "m3sr97xx",
+      "luma-batch-evtcf50fhblhy1ou"
+    ]
+  },
+  "luma-batch-evtFt5UnGHXDyBpc": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "m1l3sg8v",
+      "luma-batch-evtft5unghxdybpc"
+    ]
+  },
+  "luma-batch-evthmFWpBK7X2U9H": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "8rpp0jks",
+      "luma-batch-evthmfwpbk7x2u9h"
+    ]
+  },
+  "luma-batch-evt1Vta9G6vnT8OO": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "xcf3y49g",
+      "luma-batch-evt1vta9g6vnt8oo"
+    ]
+  },
+  "luma-batch-evt2FMVEC9RCHKgQ": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "jecn61cf",
+      "luma-batch-evt2fmvec9rchkgq"
+    ]
+  },
+  "luma-batch-evt6M224TGBjAKKr": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "zo0hkgnz",
+      "luma-batch-evt6m224tgbjakkr"
+    ]
+  },
+  "luma-batch-evtAT5U6E2plmGr2": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "lg2akati",
+      "luma-batch-evtat5u6e2plmgr2"
+    ]
+  },
+  "luma-batch-evtGE7xegumbiS7a": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "starknet-private-dinner",
+      "luma-batch-evtge7xegumbis7a"
+    ]
+  },
+  "luma-batch-evtsPhAqOtfGigBJ": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "jip2jcsu",
+      "luma-batch-evtsphaqotfgigbj"
+    ]
+  },
+  "luma-batch-evtBhqeqQbgW2t5V": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "a63ces7l",
+      "luma-batch-evtbhqeqqbgw2t5v"
+    ]
+  },
+  "luma-batch-evtgGn1cyC5fYF6U": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "fqw5qq36",
+      "luma-batch-evtggn1cyc5fyf6u"
+    ]
+  },
+  "luma-batch-evtCPAvoPDAVuchB": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "t9z9tqd5",
+      "luma-batch-evtcpavopdavuchb"
+    ]
+  },
+  "luma-batch-evtysvqWnbANDE9t": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "q23fn0vw",
+      "luma-batch-evtysvqwnbande9t"
+    ]
+  },
+  "luma-batch-evtbE6gT6jhhp8bs": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "im2uyqlt",
+      "luma-batch-evtbe6gt6jhhp8bs"
+    ]
+  },
+  "luma-batch-evtIm8g8d6jd7HLA": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "6mv7bwxa",
+      "luma-batch-evtim8g8d6jd7hla"
+    ]
+  },
+  "luma-batch-evtZJzbrUXrq27u4": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "yyp8316a",
+      "luma-batch-evtzjzbruxrq27u4"
+    ]
+  },
+  "luma-batch-evtFhAaGmCkK7fSP": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "hc3wgjrn",
+      "luma-batch-evtfhaagmckk7fsp"
+    ]
+  },
+  "luma-batch-evtQaRHdxkE9l6Jm": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "hb6ziku6",
+      "luma-batch-evtqarhdxke9l6jm"
+    ]
+  },
+  "luma-batch-evtDE6g45qZhsILO": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "uoqavs7x",
+      "luma-batch-evtde6g45qzhsilo"
+    ]
+  },
+  "luma-batch-evtDGHVXG2wB52fj": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "r8ffjbpa",
+      "luma-batch-evtdghvxg2wb52fj"
+    ]
+  },
+  "luma-batch-evtFAjSMVwIfNEE9": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "w8d9t7jw",
+      "luma-batch-evtfajsmvwifnee9"
+    ]
+  },
+  "luma-batch-evt5Kquymowmz16z": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "4cdi9o80",
+      "luma-batch-evt5kquymowmz16z"
+    ]
+  },
+  "luma-batch-evtX2qIvgC91ERAC": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "zbeoo5xg",
+      "luma-batch-evtx2qivgc91erac"
+    ]
+  },
+  "luma-batch-evtqENOlRruCijmf": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ixuz80ix",
+      "luma-batch-evtqenolrrucijmf"
+    ]
+  },
+  "luma-batch-evtIa1Unvu1MHvxE": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "luma-batch-evtia1unvu1mhvxe",
+      "the-garage2"
+    ]
+  },
+  "luma-batch-evtBw9g6bVwYmPe9": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "fbm884q2",
+      "luma-batch-evtbw9g6bvwympe9"
+    ]
+  },
+  "luma-crypto-C7HgzUqyCNyMBPO": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "adtte",
+      "luma-crypto-c7hgzuqycnymbpo"
+    ]
+  },
+  "luma-crypto-EIeXOplHoF0mz7E": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "dasadas",
+      "luma-crypto-eiexoplhof0mz7e"
+    ]
+  },
+  "luma-crypto-q2d3rNyeBNrqk1s": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "sst",
+      "luma-crypto-q2d3rnyebnrqk1s"
+    ]
+  },
+  "luma-crypto-AxvuEgt2SBXjO1I": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "apuao",
+      "luma-crypto-axvuegt2sbxjo1i"
+    ]
+  },
+  "luma-crypto-rNQE894TJApNgnb": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "cjasetwaws",
+      "luma-crypto-rnqe894tjapngnb"
+    ]
+  },
+  "luma-crypto-BjNTZDBANAPAjYl": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "tnebhu",
+      "luma-crypto-bjntzdbanapajyl"
+    ]
+  },
+  "luma-crypto-yVvzhRKJfiM98cK": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "twseqsdail",
+      "luma-crypto-yvvzhrkjfim98ck"
+    ]
+  },
+  "luma-crypto-akDCfULmtdYHvAh": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049-",
+      "luma-crypto-akdcfulmtdyhvah"
+    ]
+  },
+  "luma-crypto-cxEYky3mSNGbtEH": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "trnn",
+      "luma-crypto-cxeyky3msngbteh"
+    ]
+  },
+  "luma-crypto-KD6jLHimnBO4KxZ": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "kpad",
+      "luma-crypto-kd6jlhimnbo4kxz"
+    ]
+  },
+  "luma-crypto-XeNEjxuPS7Ubymi": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "psh",
+      "luma-crypto-xenejxups7ubymi"
+    ]
+  },
+  "luma-crypto-1vMPCKsGTGq54i7": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ssrb",
+      "luma-crypto-1vmpcksgtgq54i7"
+    ]
+  },
+  "luma-crypto-bGC23AEnuTIp9Ot": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "mcmt",
+      "luma-crypto-bgc23aenutip9ot"
+    ]
+  },
+  "luma-crypto-gaN3evDFpV0ktFD": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "oprxaxct",
+      "luma-crypto-gan3evdfpv0ktfd"
+    ]
+  },
+  "luma-crypto-BXcUM9r7XEws7Fa": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ppmt",
+      "luma-crypto-bxcum9r7xews7fa"
+    ]
+  },
+  "luma-crypto-r9i9A4Xqub15b04": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "aeoa",
+      "luma-crypto-r9i9a4xqub15b04"
+    ]
+  },
+  "luma-crypto-gHEGbdLMBoj9JDY": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "websea-pre",
+      "luma-crypto-ghegbdlmboj9jdy"
+    ]
+  },
+  "luma-crypto-5RMBYdKS7czHCfB": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "tnebss",
+      "luma-crypto-5rmbydks7czhcfb"
+    ]
+  },
+  "luma-crypto-LEYEvg6H3jz4yW1": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "kxit",
+      "luma-crypto-leyevg6h3jz4yw1"
+    ]
+  },
+  "luma-crypto-Idth15LWAl7MhKh": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ai-hackath",
+      "luma-crypto-idth15lwal7mhkh"
+    ]
+  },
+  "luma-crypto-iuFabSnK5cWmb7t": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "svxtis",
+      "luma-crypto-iufabsnk5cwmb7t"
+    ]
+  },
+  "token2049-evt-XNB989H24p8fCto": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "rlpc",
+      "token2049-evt-xnb989h24p8fcto"
+    ]
+  },
+  "token2049-evt-C5Y68vtnTLKCEKD": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "compass-brunch",
+      "token2049-evt-c5y68vtntlkcekd"
+    ]
+  },
+  "token2049-evt-G5rhLHBc0R1dAz8": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "btcc-traders",
+      "token2049-evt-g5rhlhbc0r1daz8"
+    ]
+  },
+  "token2049-evt-uWH1GyNj7CHfMY3": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "talk-token",
+      "token2049-evt-uwh1gynj7chfmy3"
+    ]
+  },
+  "token2049-evt-UrPmMeM2dR70sNC": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "circle-house",
+      "token2049-evt-urpmmem2dr70snc"
+    ]
+  },
+  "token2049-evt-jC6Fx0IMv1yakBN": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "founders-vcs",
+      "token2049-evt-jc6fx0imv1yakbn"
+    ]
+  },
+  "token2049-evt-SCRHC3QWMR7vy4t": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "hashkey-cloud",
+      "token2049-evt-scrhc3qwmr7vy4t"
+    ]
+  },
+  "token2049-evt-4t1SjpOXvVvgcS1": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "starknet-clubhouse",
+      "token2049-evt-4t1sjpoxvvvgcs1"
+    ]
+  },
+  "token2049-evt-8sgXzCVZCeZl0vx": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "next-unicorn",
+      "token2049-evt-8sgxzcvzcezl0vx"
+    ]
+  },
+  "token2049-evt-SBK8LFWdXibBTnM": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ai-you",
+      "token2049-evt-sbk8lfwdxibbtnm"
+    ]
+  },
+  "token2049-evt-9jK0XFr7dNWGYB7": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ai-compute",
+      "token2049-evt-9jk0xfr7dnwgyb7"
+    ]
+  },
+  "token2049-evt-3SbvtX3C28sUGCK": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "beyond-equity",
+      "token2049-evt-3sbvtx3c28sugck"
+    ]
+  },
+  "token2049-evt-aSICrURyA98d7sd": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "eventhl-token2049",
+      "token2049-evt-asicrurya98d7sd"
+    ]
+  },
+  "token2049-evt-IR9oS0NdPsHIjhj": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "vip-penthouse",
+      "token2049-evt-ir9os0ndpshijhj"
+    ]
+  },
+  "token2049-evt-iZIeoXp82UAz2YW": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "proof-of",
+      "token2049-evt-izieoxp82uaz2yw"
+    ]
+  },
+  "token2049-evt-dxADGfbez16mjnE": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "pionex-private",
+      "token2049-evt-dxadgfbez16mjne"
+    ]
+  },
+  "token2049-evt-BwOJUqwll59WiFc": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "robot-fight",
+      "token2049-evt-bwojuqwll59wifc"
+    ]
+  },
+  "token2049-evt-toojb9O80uh0l10": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049-an",
+      "token2049-evt-toojb9o80uh0l10"
+    ]
+  },
+  "token2049-evt-wahueiUtQocCRvB": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "bcssm",
+      "token2049-evt-wahueiutqoccrvb"
+    ]
+  },
+  "token2049-evt-yHyNzLHecx9lJeC": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "digital-capital",
+      "token2049-evt-yhynzlhecx9ljec"
+    ]
+  },
+  "token2049-evt-MQpVWkztvydv9wD": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "0g-bright",
+      "token2049-evt-mqpvwkztvydv9wd"
+    ]
+  },
+  "token2049-evt-Tu5nOFpxgB16iLQ": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "pop-up",
+      "token2049-evt-tu5nofpxgb16ilq"
+    ]
+  },
+  "token2049-evt-W0VqCD6ROGPDDvD": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "aultmarkets-singapore",
+      "token2049-evt-w0vqcd6rogpddvd"
+    ]
+  },
+  "token2049-evt-OvJir2VIHLcT0of": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "crypto-banter",
+      "token2049-evt-ovjir2vihlct0of"
+    ]
+  },
+  "token2049-evt-PKQo3PwiApPV0DE": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "kaito-clique",
+      "token2049-evt-pkqo3pwiappv0de"
+    ]
+  },
+  "token2049-evt-eqhxvfE7WCi6rUe": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "crypto-noirafter",
+      "token2049-evt-eqhxvfe7wci6rue"
+    ]
+  },
+  "token2049-evt-jOBWuJc3s9090vo": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "satoshi-dinner",
+      "token2049-evt-jobwujc3s9090vo"
+    ]
+  },
+  "token2049-evt-1YJWH6G06wqxtqw": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "vogue-wellness",
+      "token2049-evt-1yjwh6g06wqxtqw"
+    ]
+  },
+  "token2049-evt-GjtcUA0RCT2rlru": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "awic-token2049",
+      "token2049-evt-gjtcua0rct2rlru"
+    ]
+  },
+  "token2049-evt-fDAS9T16AafsERp": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "morning-street",
+      "token2049-evt-fdas9t16aafserp"
+    ]
+  },
+  "token2049-evt-CfgaR5oBgLGFXc2": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "gs-crypto",
+      "token2049-evt-cfgar5obglgfxc2"
+    ]
+  },
+  "token2049-evt-dnC3AZ7HVT0DDDL": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "morning-circle",
+      "token2049-evt-dnc3az7hvt0dddl"
+    ]
+  },
+  "token2049-evt-i8d99Y77wEeG9NQ": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "vip-deal",
+      "token2049-evt-i8d99y77weeg9nq"
+    ]
+  },
+  "token2049-evt-89Vi3L5Z74SBP6x": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "lunch-meet",
+      "token2049-evt-89vi3l5z74sbp6x"
+    ]
+  },
+  "token2049-evt-FzUtIRZvUNfkl6t": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "oktoberfest-presented",
+      "token2049-evt-fzutirzvunfkl6t"
+    ]
+  },
+  "token2049-evt-OKGqJexBxQYMMTW": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "canton-forum",
+      "token2049-evt-okgqjexbxqymmtw"
+    ]
+  },
+  "token2049-evt-VI3GmKipwk7ooN4": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "tezos-cat",
+      "token2049-evt-vi3gmkipwk7oon4"
+    ]
+  },
+  "token2049-evt-iB4tCIBsZJ6HaUS": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "robb-report",
+      "token2049-evt-ib4tcibszj6haus"
+    ]
+  },
+  "token2049-evt-8eGjjFUWFeGVhCb": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "f1-grand",
+      "token2049-evt-8egjjfuwfegvhcb"
+    ]
+  },
+  "token2049-evt-QierwT1tV1bG1AJ": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "onchain-finance",
+      "token2049-evt-qierwt1tv1bg1aj"
+    ]
+  },
+  "token2049-evt-s5FLEZDkFtoyPMb": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "btse-cocktail",
+      "token2049-evt-s5flezdkftoypmb"
+    ]
+  },
+  "token2049-evt-DxAHG5RyA6TvwN0": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "presale-to",
+      "token2049-evt-dxahg5rya6tvwn0"
+    ]
+  },
+  "token2049-evt-kHFWAQ9b5zAnzdr": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "private-token",
+      "token2049-evt-khfwaq9b5zanzdr"
+    ]
+  },
+  "token2049-evt-GpCTCCgDDYiEGaM": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "hsc-private",
+      "token2049-evt-gpctccgddyiegam"
+    ]
+  },
+  "token2049-evt-tOgGMxgiTXCyzFe": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "powerscale-crypto",
+      "token2049-evt-toggmxgitxcyzfe"
+    ]
+  },
+  "token2049-evt-xbeRv1OLY0bBoEL": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "table-1111",
+      "token2049-evt-xberv1oly0bboel"
+    ]
+  },
+  "token2049-evt-sPQxwxUOuz1oqBS": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "brews-bay",
+      "token2049-evt-spqxwxuouz1oqbs"
+    ]
+  },
+  "token2049-evt-SnRFyd6NvtVz46a": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "garden-room2",
+      "token2049-evt-snrfyd6nvtvz46a"
+    ]
+  },
+  "token2049-evt-g7w0hwiicdUCvWK": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "adxvvd",
+      "token2049-evt-g7w0hwiicducvwk"
+    ]
+  },
+  "token2049-evt-zwDwU5u6XiNfHC0": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "crypto-law",
+      "token2049-evt-zwdwu5u6xinfhc0"
+    ]
+  },
+  "token2049-evt-cCQxYqNp6Lit6JM": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049-vip",
+      "token2049-evt-ccqxyqnp6lit6jm"
+    ]
+  },
+  "token2049-evt-8rWYcDtqmHj2y4l": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "capital-credit",
+      "token2049-evt-8rwycdtqmhj2y4l"
+    ]
+  },
+  "token2049-evt-FZcRjue7jwJVpTl": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "vol-table",
+      "token2049-evt-fzcrjue7jwjvptl"
+    ]
+  },
+  "token2049-evt-WuywZ751Gf7ABz1": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "fund-manager",
+      "token2049-evt-wuywz751gf7abz1"
+    ]
+  },
+  "token2049-evt-FLo0uomqm6NS5xa": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "kast-solid",
+      "token2049-evt-flo0uomqm6ns5xa"
+    ]
+  },
+  "token2049-evt-aKIP9cll7FJSSGC": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "beyond-boardroom",
+      "token2049-evt-akip9cll7fjssgc"
+    ]
+  },
+  "token2049-evt-qmHU1D84ZQ54OmE": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "2222coffee-tasting",
+      "token2049-evt-qmhu1d84zq54ome"
+    ]
+  },
+  "token2049-evt-cZZxKozsA7fPvL4": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "onward-bitbase",
+      "token2049-evt-czzxkozsa7fpvl4"
+    ]
+  },
+  "token2049-evt-xUqEbdjnaHsM7uC": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "capital-impact",
+      "token2049-evt-xuqebdjnahsm7uc"
+    ]
+  },
+  "token2049-evt-yat9s7akFK6ClEv": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "super-secret",
+      "token2049-evt-yat9s7akfk6clev"
+    ]
+  },
+  "token2049-evt-NvExRG9HaewrWmN": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "lion-city",
+      "token2049-evt-nvexrg9haewrwmn"
+    ]
+  },
+  "token2049-evt-cX1lalPzxi5SsdF": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ethene-labs",
+      "token2049-evt-cx1lalpzxi5ssdf"
+    ]
+  },
+  "token2049-evt-NYlK9SczUPInCqq": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "private-trading",
+      "token2049-evt-nylk9sczupincqq"
+    ]
+  },
+  "token2049-evt-eTEkZPCdHSRnFz5": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "collably-matchmaking",
+      "token2049-evt-etekzpcdhsrnfz5"
+    ]
+  },
+  "token2049-evt-9bf0RTtIIMrIVUb": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "sextillion-unveiled",
+      "token2049-evt-9bf0rttiimrivub"
+    ]
+  },
+  "token2049-evt-jKMbgzexeP8GiPh": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "reserved-access",
+      "token2049-evt-jkmbgzexep8giph"
+    ]
+  },
+  "token2049-evt-HRMRBDhmgm1vpoG": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "clone-your",
+      "token2049-evt-hrmrbdhmgm1vpog"
+    ]
+  },
+  "token2049-evt-05ZrSYxAy61QeDv": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "creator-lunch",
+      "token2049-evt-05zrsyxay61qedv"
+    ]
+  },
+  "token2049-evt-RBs2kwc5zxYLG5c": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "onchain-capital",
+      "token2049-evt-rbs2kwc5zxylg5c"
+    ]
+  },
+  "token2049-evt-hY3D1bwL06kQbJK": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "arthur-hayes",
+      "token2049-evt-hy3d1bwl06kqbjk"
+    ]
+  },
+  "token2049-evt-sXHTfQd9p2ZHo2k": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "happy-hour",
+      "token2049-evt-sxhtfqd9p2zho2k"
+    ]
+  },
+  "token2049-evt-EPSGpySqEIekV6n": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "media-accelerator",
+      "token2049-evt-epsgpysqeiekv6n"
+    ]
+  },
+  "token2049-evt-H6hoGUXDIzGKAVM": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "startup-pitch",
+      "token2049-evt-h6hoguxdizgkavm"
+    ]
+  },
+  "token2049-evt-C8tRdqaYPd8Wfbw": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "singapore-goclub",
+      "token2049-evt-c8trdqaypd8wfbw"
+    ]
+  },
+  "token2049-evt-eEjP0BfjX66HVte": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "das-asia",
+      "token2049-evt-eejp0bfjx66hvte"
+    ]
+  },
+  "token2049-evt-1xjigoMG7jKBT1o": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "executive-digital",
+      "token2049-evt-1xjigomg7jkbt1o"
+    ]
+  },
+  "token2049-evt-TVSTgNSHZ5pZZeF": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049f1-week",
+      "token2049-evt-tvstgnshz5pzzef"
+    ]
+  },
+  "token2049-evt-cZBPqkOMypSgdEB": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ourcac0a",
+      "token2049-evt-czbpqkomypsgdeb"
+    ]
+  },
+  "token2049-evt-MkfpN9nI3wBReHd": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ai-for",
+      "token2049-evt-mkfpn9ni3wbrehd"
+    ]
+  },
+  "token2049-evt-VTlHvWH0ko5KSPb": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "aicon",
+      "token2049-evt-vtlhvwh0ko5kspb"
+    ]
+  },
+  "token2049-evt-r5dWNewO35etCmm": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "defi-founders",
+      "token2049-evt-r5dwnewo35etcmm"
+    ]
+  },
+  "token2049-evt-k5K0thoSxhNVsLo": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "web3-law",
+      "token2049-evt-k5k0thosxhnvslo"
+    ]
+  },
+  "token2049-evt-CCUIATkfTkvbUqM": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "venture-connect",
+      "token2049-evt-ccuiatkftkvbuqm"
+    ]
+  },
+  "token2049-evt-1euzuQVicyCXCut": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "when-ai",
+      "token2049-evt-1euzuqvicycxcut"
+    ]
+  },
+  "token2049-evt-biMXAjWYt8G82rn": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "google-cloud",
+      "token2049-evt-bimxajwyt8g82rn"
+    ]
+  },
+  "token2049-evt-mElVRJaEOGQaO9h": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "institutional-onchain-rwas",
+      "token2049-evt-melvrjaeogqao9h"
+    ]
+  },
+  "token2049-evt-DxQUILKCf4TM5Mv": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "prediction-market",
+      "token2049-evt-dxquilkcf4tm5mv"
+    ]
+  },
+  "token2049-evt-iOQM8y653M15r0F": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "krwq-frax",
+      "token2049-evt-ioqm8y653m15r0f"
+    ]
+  },
+  "token2049-evt-GKw4jrVSwhqBLqP": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "floor-hono",
+      "token2049-evt-gkw4jrvswhqblqp"
+    ]
+  },
+  "token2049-evt-iIbTjON3uSI9z64": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "rwa-tokenization",
+      "token2049-evt-iibtjon3usi9z64"
+    ]
+  },
+  "token2049-evt-r9vJJ30kf1gCU1z": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ewce0o81",
+      "token2049-evt-r9vjj30kf1gcu1z"
+    ]
+  },
+  "token2049-evt-hjnwRjjiubJq2SA": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "satoshi-dance",
+      "token2049-evt-hjnwrjjiubjq2sa"
+    ]
+  },
+  "token2049-evt-tpGrrwoNgxKscjx": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "9th-oct",
+      "token2049-evt-tpgrrwongxkscjx"
+    ]
+  },
+  "token2049-evt-NDxwYRtgLwKQzsG": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "100k-bucket",
+      "token2049-evt-ndxwyrtglwkqzsg"
+    ]
+  },
+  "token2049-evt-RMCZX5L2qubUrBF": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "stellars-elroy",
+      "token2049-evt-rmczx5l2quburbf"
+    ]
+  },
+  "token2049-evt-GEenAYO83msTTak": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "blockchain-association",
+      "token2049-evt-geenayo83msttak"
+    ]
+  },
+  "token2049-evt-9s05G3RbehADs4S": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "institutional-house",
+      "token2049-evt-9s05g3rbehads4s"
+    ]
+  },
+  "token2049-evt-a7re4JlCIIYFlwG": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "tbe-fasset",
+      "token2049-evt-a7re4jlciiyflwg"
+    ]
+  },
+  "token2049-evt-XtEE7h1ji9OmZca": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "10th-oct",
+      "token2049-evt-xtee7h1ji9omzca"
+    ]
+  },
+  "token2049-evt-HOyb8kS7i2AlBf2": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "online-token2049",
+      "token2049-evt-hoyb8ks7i2albf2"
+    ]
+  },
+  "token2049-evt-XFw8Ym4IFSUAaNY": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "institutional-stack",
+      "token2049-evt-xfw8ym4ifsuaany"
+    ]
+  },
+  "token2049-evt-FYVP8Emnz5kDStS": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "okx-web3",
+      "token2049-evt-fyvp8emnz5kdsts"
+    ]
+  },
+  "token2049-evt-02Wya6N0R8GTkJy": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "adddt",
+      "token2049-evt-02wya6n0r8gtkjy"
+    ]
+  },
+  "token2049-evt-36Uw5PVpEzK0wCo": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "onchain-breakfast",
+      "token2049-evt-36uw5pvpezk0wco"
+    ]
+  },
+  "token2049-evt-Y1Xj0zHA4R6fER0": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "institutional-breakfast",
+      "token2049-evt-y1xj0zha4r6fer0"
+    ]
+  },
+  "token2049-evt-mqErgmDBapeJzE0": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "upside-presents",
+      "token2049-evt-mqergmdbapejze0"
+    ]
+  },
+  "token2049-evt-1KHQjiHklBef7ax": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "payments-stables",
+      "token2049-evt-1khqjihklbef7ax"
+    ]
+  },
+  "token2049-evt-as6YbH1w1F0kNFr": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "vibrez-la",
+      "token2049-evt-as6ybh1w1f0knfr"
+    ]
+  },
+  "token2049-evt-hrtAgy9RBjVV9wq": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "vlr",
+      "token2049-evt-hrtagy9rbjvv9wq"
+    ]
+  },
+  "token2049-evt-6cJd1z0zX5Bs3zz": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "superyacht-f1",
+      "token2049-evt-6cjd1z0zx5bs3zz"
+    ]
+  },
+  "token2049-evt-x7cGCJyum5mjL1i": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "united-digital",
+      "token2049-evt-x7cgcjyum5mjl1i"
+    ]
+  },
+  "token2049-evt-Bl0lcVK4HyVRpPO": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "lcmfr1ori",
+      "token2049-evt-bl0lcvk4hyvrppo"
+    ]
+  },
+  "token2049-evt-hJjSYByavc7mmoZ": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "vibrez-la-royale",
+      "token2049-evt-hjjsybyavc7mmoz"
+    ]
+  },
+  "token2049-evt-oDCoeJ758lzKijb": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "vlr2",
+      "token2049-evt-odcoej758lzkijb"
+    ]
+  },
+  "token2049-evt-Pg8QXaeCl1FhI4f": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "lion-city-michelin",
+      "token2049-evt-pg8qxaecl1fhi4f"
+    ]
+  },
+  "token2049-evt-UR9SCndJ5J5KLkb": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "vlr3",
+      "token2049-evt-ur9scndj5j5klkb"
+    ]
+  },
+  "token2049-evt-JrqDBw5ETIo46aV": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "vlr4",
+      "token2049-evt-jrqdbw5etio46av"
+    ]
+  },
+  "token2049-evt-57E5wz1bV6Aay59": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "family-offices",
+      "token2049-evt-57e5wz1bv6aay59"
+    ]
+  },
+  "token2049-evt-rbn0PzPIVCchPkd": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "payward-lounge",
+      "token2049-evt-rbn0pzpivcchpkd"
+    ]
+  },
+  "token2049-evt-Xuhxuctcsns955z": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "private-lp",
+      "token2049-evt-xuhxuctcsns955z"
+    ]
+  },
+  "token2049-evt-vi3MRdSPLgFKqUt": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "bjj-open",
+      "token2049-evt-vi3mrdsplgfkqut"
+    ]
+  },
+  "token2049-evt-5nY9rujDr5zpQP7": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "michelininvest-dinner",
+      "token2049-evt-5ny9rujdr5zpqp7"
+    ]
+  },
+  "token2049-evt-AWWIjHNAe4an4Kf": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "xstocks-happy",
+      "token2049-evt-awwijhnae4an4kf"
+    ]
+  },
+  "token2049-evt-RPlEpc31sRs3dqv": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "longhash-ventures",
+      "token2049-evt-rplepc31srs3dqv"
+    ]
+  },
+  "token2049-evt-8AztdTrSD91ZvNf": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "genlayers-path",
+      "token2049-evt-8aztdtrsd91zvnf"
+    ]
+  },
+  "token2049-evt-cVBrwB8sTnRcGSd": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "founders-after",
+      "token2049-evt-cvbrwb8stnrcgsd"
+    ]
+  },
+  "token2049-f506060cb0999771": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049-investor",
+      "token2049-f506060cb0999771"
+    ]
+  },
+  "token2049-ea89b871a8872b45": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "all-that",
+      "token2049-ea89b871a8872b45"
+    ]
+  },
+  "token2049-06041dac33726be9": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "time-heist",
+      "token2049-06041dac33726be9"
+    ]
+  },
+  "token2049-937ac50dd5281f01": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "complexcon-presents",
+      "token2049-937ac50dd5281f01"
+    ]
+  },
+  "token2049-c65206c5cfef48bd": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "ravedao-orangex",
+      "token2049-c65206c5cfef48bd"
+    ]
+  },
+  "token2049-343edc72c451f7f2": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "il-divo",
+      "token2049-343edc72c451f7f2"
+    ]
+  },
+  "token2049-2aaeb7b8b6a51c5c": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "fgcc",
+      "token2049-2aaeb7b8b6a51c5c"
+    ]
+  },
+  "token2049-official-6aafcca7f5de78483fb5d9c4": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049-institutional",
+      "token2049-official-6aafcca7f5de78483fb5d9c4"
+    ]
+  },
+  "token2049-official-6a54a2b83438be070d7a9c01": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "token2049-special",
+      "token2049-official-6a54a2b83438be070d7a9c01"
+    ]
+  },
+  "token2049-official-6aab60b4f5de78483fb5c75a": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "bzrcd2",
+      "token2049-official-6aab60b4f5de78483fb5c75a"
+    ]
+  },
+  "token2049-evt-C6abJTMTcePBffl": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "onchain-fx",
+      "token2049-evt-c6abjtmtcepbffl"
+    ]
+  },
+  "token2049-evt-G5ZEYn3MFv30EPX": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "stablecoins-meet",
+      "token2049-evt-g5zeyn3mfv30epx"
+    ]
+  },
+  "token2049-evt-VbjshLmIM5ACvsn": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "liquidity-after",
+      "token2049-evt-vbjshlmim5acvsn"
+    ]
+  },
+  "token2049-evt-cklGgJfG3yivcfF": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "xt-vip",
+      "token2049-evt-cklggjfg3yivcff"
+    ]
+  },
+  "token2049-evt-bM0BECae6KRPeo3": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "teach-it",
+      "token2049-evt-bm0becae6krpeo3"
+    ]
+  },
+  "token2049-evt-5jMHdlt8GLVUyKq": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "closing-bell",
+      "token2049-evt-5jmhdlt8glvuykq"
+    ]
+  },
+  "token2049-evt-fE9nA0Bi8GZoOUZ": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "pairty-permara",
+      "token2049-evt-fe9na0bi8gzoouz"
+    ]
+  },
+  "token2049-evt-9swTceUKZBlgdg4": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "solana-company",
+      "token2049-evt-9swtceukzblgdg4"
+    ]
+  },
+  "token2049-evt-hGad7fcCLDEHZUT": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "pengu-rally",
+      "token2049-evt-hgad7fccldehzut"
+    ]
+  },
+  "token2049-evt-YtFINnbNhXzTBam": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "vip-crypto",
+      "token2049-evt-ytfinnbnhxztbam"
+    ]
+  },
+  "token2049-evt-bsc8pcoBgkXdwhL": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "invite-only",
+      "token2049-evt-bsc8pcobgkxdwhl"
+    ]
+  },
+  "token2049-evt-vVKGNzphSqREdPc": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "freaky-pengu",
+      "token2049-evt-vvkgnzphsqredpc"
+    ]
+  },
+  "token2049-evt-1wE8LVXclyqhzEW": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "web3tv-interview",
+      "token2049-evt-1we8lvxclyqhzew"
+    ]
+  },
+  "token2049-evt-8qUHoMKm0ztWf4t": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "beyond-vaults",
+      "token2049-evt-8quhomkm0ztwf4t"
+    ]
+  },
+  "token2049-evt-PO5I7AV6nBuFZZ9": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "gibson-dunn",
+      "token2049-evt-po5i7av6nbufzz9"
+    ]
+  },
+  "token2049-evt-Ss5Dckd2OmqS78U": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "bvt",
+      "token2049-evt-ss5dckd2omqs78u"
+    ]
+  },
+  "token2049-evt-bOMXGgozqRSjbRM": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "tvmhemub",
+      "token2049-evt-bomxggozqrsjbrm"
+    ]
+  },
+  "token2049-evt-UB8bUXBPsTedwPi": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "aef",
+      "token2049-evt-ub8buxbpstedwpi"
+    ]
+  },
+  "token2049-evt-11UjwIio5yIlJQL": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "formula-after",
+      "token2049-evt-11ujwiio5yiljql"
+    ]
+  },
+  "token2049-evt-THbX6mWdMqmHq0b": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "crypto-vc",
+      "token2049-evt-thbx6mwdmqmhq0b"
+    ]
+  },
+  "token2049-evt-z7Av1XwAUIE4BG4": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "f1-watch",
+      "token2049-evt-z7av1xwauie4bg4"
+    ]
+  },
+  "token2049-evt-6VKAwtDjFMzwrkx": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "fwpj",
+      "token2049-evt-6vkawtdjfmzwrkx"
+    ]
+  },
+  "token2049-evt-8bYL1LTHyZTjOaC": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "fwprd",
+      "token2049-evt-8byl1lthyztjoac"
+    ]
+  },
+  "token2049-evt-XYkkHo9ggZROsdv": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "crypto-expo",
+      "token2049-evt-xykkho9ggzrosdv"
+    ]
+  },
+  "token2049-evt-gr16JoC3CTHILn8": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "polymarket-perps",
+      "token2049-evt-gr16joc3cthiln8"
+    ]
+  },
+  "premier-connectsg": {
+    "until": "2027-11-10T22:16:11.188Z",
+    "slugs": [
+      "premier-connectsg",
+      "connectsg",
+      "connect1"
     ]
   }
 }

@@ -35,7 +35,6 @@ Luma initially rate-limited requests. A later sequential pass recovered the affe
 - Full Node 24 prebuild gates and production build passed, including catalog integrity, root collisions, sitemap coverage, event-map cities, source-backed event pages, social preview assets and standalone asset checks.
 - Event identity, Mumbai audit, descriptions, current-record provenance hashes, external URLs, formatting, schema, public-data and retention tests passed.
 - HTTP regression checks cover every surviving alias, all migration destinations, query preservation and social suffixes. Browser checks cover ETHwali and representative long, approval-gated and official-source pages on desktop/mobile and in light/dark mode.
-- The unscoped historical provenance test still detects a pre-existing hash mismatch on expired `premier-token2049-singapore-2026`. Its source file is unchanged. All current-record provenance checks pass.
 
 The full prebuild regenerated runtime catalogs, routing indexes, sitemaps, preview shells, responsive assets and image-optimization bookkeeping. It also optimized existing event covers through the repository's standard build step. No commit, push or deployment was performed.
 

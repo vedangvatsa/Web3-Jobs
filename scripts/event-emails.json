@@ -69,32 +69,6 @@
     }
   },
   {
-    "name": "TOKEN2049 Singapore 2026",
-    "url": "https://asia.token2049.com",
-    "emails": [
-      "sponsors@token2049.com",
-      "info@token2049.com",
-      "speakers@token2049.com",
-      "token2049sg@wachsman.com"
-    ],
-    "event": {
-      "id": "premier-token2049-singapore-2026",
-      "slug": "token2049",
-      "name": "TOKEN2049 Singapore 2026",
-      "description": "Asia's flagship crypto conference bringing together 20,000+ attendees and 400+ exhibitors across Marina Bay Sands.",
-      "startDate": "2026-10-07T09:00:00.000Z",
-      "endDate": "2026-10-08T18:00:00.000Z",
-      "city": "Singapore",
-      "country": "Singapore",
-      "location": "Marina Bay Sands, Singapore",
-      "url": "https://asia.token2049.com",
-      "website": "https://asia.token2049.com",
-      "coverImage": "https://token2049.nyc3.cdn.digitaloceanspaces.com/Singapore/OG/T2049%20Singapore%20-%20OpenGraph%20(2026)%202%20OCT%202025.avif",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
     "name": "Ripple Swell 2026",
     "url": "https://ripple.com/events/swell/",
     "emails": [
@@ -522,36 +496,6 @@
       "twitter": null,
       "source": "curated-premier"
     }
-  },
-  {
-    "name": "Finality Forum Singapore 2026",
-    "url": "https://ethenelabs.xyz",
-    "emails": [
-      "operations@ethenelabs.xyz"
-    ],
-    "event": {
-      "id": "premier-finalityforum",
-      "slug": "finality-forum-2026",
-      "name": "Finality Forum Singapore 2026",
-      "description": "Ethena Labs' forum on finality, restaking, and stablecoin infrastructure, running alongside TOKEN2049 week.",
-      "startDate": "2026-10-07T09:00:00.000Z",
-      "endDate": "2026-10-07T18:00:00.000Z",
-      "city": "Singapore",
-      "country": "Singapore",
-      "location": "Singapore, Singapore",
-      "url": "https://ethenelabs.xyz",
-      "website": "https://ethenelabs.xyz",
-      "coverImage": "/events/finality.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
-    "name": "The Odds: Prediction Markets Summit Singapore 2026",
-    "url": "https://mnm.live/theodds/t2049singapore",
-    "emails": [
-      "tal@mnm.live"
-    ]
   },
   {
     "name": "Global Blockchain Show Abu Dhabi 2026",

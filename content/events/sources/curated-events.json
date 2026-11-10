@@ -192,144 +192,6 @@
     }
   },
   {
-    "id": "premier-token2049-singapore-2026",
-    "slug": "token2049",
-    "name": "TOKEN2049 Singapore 2026",
-    "description": "TOKEN2049 Singapore 2026 runs 7–8 October 2026 at Marina Bay Sands, taking over all five floors of the venue for its biggest edition yet.\n\n## Scale\n\nThe organizer expects 25,000+ attendees from 160+ countries, 7,000+ companies, 300+ speakers and 500+ exhibitors, with over 60% of attendees at C-level and more than 1,000 side events across the week.\n\n## Program\n\nAlongside the main stages, the week includes the NEXUS startup competition (500 applicants, 10 finalists pitching on the global stage for equity-free prizes), the TOKEN2049 Origins hackathon (36 hours from concept to working product, with mentorship and a shot at prizes, funding and global recognition), and the Startup Village exhibition area where startups showcase to founders, investors, builders and decision-makers from across the industry.\n\n## Festival and side events\n\nThe organizer markets the Singapore edition as a festival and, on its site, invites attendees to experience a \"pop-up city\" of immersive experiences under one roof at Marina Bay Sands — experiential branding, not a literal temporary city. More than 1,000 side events run across the wider conference week. The official closing party, AFTER2049, returns to the MBS SkyPark on 9 October with Claptone headlining 57 floors above ground, joined by Crusy and residents ANONM, Leon, Milam and Mo-Shi, with 360-degree spatial audio by Polygon Live.\n\n## Tickets\n\nTickets are on sale now, currently listed at US$599 before the 24 September price increase, payable by credit card or crypto. Get 10% off with our code HASHTAGWEB3.\n\n## Who attends\n\nFounders, investors, developers, exchange and protocol teams, institutions, policymakers and media — anyone shaping the global crypto industry. As Binance founder Changpeng Zhao puts it, it is where everybody comes together and the most important conversations happen.\n\n## Speakers\n\nSelected speakers include Shayne Coplan (Polymarket), Balaji Srinivasan (The Network State), Arthur Hayes (Maelstrom), Adena Friedman (Nasdaq), Richard Teng (Binance), Joseph Lubin (Ethereum / MetaMask), Charles Hoskinson (Input Output Group), Justin Sun (TRON) and Max Verstappen (Oracle Red Bull Racing).\n\nSee the [official speaker directory](https://www.token2049.com/singapore/speakers) for the full roster.",
-    "startDate": "2026-10-07",
-    "endDate": "2026-10-08",
-    "city": "Singapore",
-    "country": "SG",
-    "location": "Marina Bay Sands, Singapore, SG",
-    "url": "https://www.token2049.com/singapore",
-    "website": "https://www.token2049.com/singapore",
-    "coverImage": "/events/token2049-singapore-hashtagweb3.webp",
-    "twitter": null,
-    "partnerOffer": {
-      "text": "Get 10% off your tickets with our exclusive code: HASHTAGWEB3",
-      "url": "https://tickets.token2049.com/token2049-singapore-2026/?promo=HASHTAGWEB3"
-    },
-    "source": "curated-premier",
-    "venueName": "Marina Bay Sands",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "descriptionSource": {
-      "url": "https://www.token2049.com/singapore",
-      "fetchedAt": "2026-09-22T10:52:10.000Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "TOKEN2049 | 7-8 October 2026 | Singapore",
-      "sha256": "672897156638babb2793dee3e4989b27b99702bc19e851da891e4538fda8499e",
-      "speakersUrl": "https://www.token2049.com/singapore/speakers",
-      "speakersFetchedAt": "2026-09-22T09:27:52.000Z"
-    }
-  },
-  {
-    "id": "premier-sui-basecamp-2026",
-    "slug": "sui",
-    "name": "Sui Basecamp 2026",
-    "description": "The next $5 trillion in transactions won't be human. Join the global Sui community in Singapore on October 7–8, 2026 at the iconic Marina Bay Sands, alongside TOKEN2049 — one vision: money that moves as freely as messages.\n\n## Program\n\nSui's global conference brings hands-on AI workshops to learn, apply, and build something real, a vibecoding hackathon with live project showcases, plus agenda tracks, speakers, and sponsors across the ecosystem. On July 4th the team pushed Sui past 6M+ transactions per second in a live experiment — on day one of Basecamp they run it again, live, on the main stage. Agents transact at machine speed, and the next wave of finance demands a network that can keep up.\n\n## Tickets\n\nRegister through the official registration page. Highlights from Sui Basecamp 2025 set the bar for this year's edition.",
-    "startDate": "2026-10-07T09:00:00.000Z",
-    "endDate": "2026-10-08T18:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Marina Bay Sands, Singapore",
-    "url": "https://sui.io/basecamp",
-    "website": "https://sui.io/basecamp",
-    "coverImage": "/events/premier-sui-basecamp-2026-2211b5bb.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "venueName": "Marina Bay Sands",
-    "speakers": [
-      "Evan Cheng",
-      "Alexandre Moufarek",
-      "Michaël van de Poppe",
-      "Sejin Park",
-      "Christophe Revault",
-      "Elliscope Fang",
-      "Raj Murakonda",
-      "Aaron Chen",
-      "Shady El Damaty",
-      "Brian Li",
-      "Kevin Boon",
-      "Ryan Servatius",
-      "Jameel Khalfan"
-    ],
-    "speakerDetails": [
-      {
-        "name": "Evan Cheng",
-        "organization": "Mysten Labs",
-        "title": "Co-Founder, CEO & CTO"
-      },
-      {
-        "name": "Alexandre Moufarek",
-        "organization": "Google DeepMind",
-        "title": "Director of Inception"
-      },
-      {
-        "name": "Michaël van de Poppe",
-        "organization": "MN Capital & MN Fund",
-        "title": "Founder & CIO"
-      },
-      {
-        "name": "Sejin Park",
-        "organization": "Gorae Labs",
-        "title": "CEO"
-      },
-      {
-        "name": "Christophe Revault",
-        "organization": "Current",
-        "title": "CCO"
-      },
-      {
-        "name": "Elliscope Fang",
-        "organization": "NAVI",
-        "title": "Co-Founder & CEO"
-      },
-      {
-        "name": "Raj Murakonda",
-        "organization": "AlphaFi",
-        "title": "Co-Founder"
-      },
-      {
-        "name": "Aaron Chen",
-        "organization": "Loqua",
-        "title": "CEO"
-      },
-      {
-        "name": "Shady El Damaty",
-        "organization": "Holonym Foundation",
-        "title": "CEO & Co-Founder"
-      },
-      {
-        "name": "Brian Li",
-        "organization": "Miso Labs",
-        "title": "CEO & Founder"
-      },
-      {
-        "name": "Kevin Boon",
-        "organization": "Mysten Labs",
-        "title": "President"
-      },
-      {
-        "name": "Ryan Servatius",
-        "organization": "Mysten Labs",
-        "title": "Senior Director & Head of Partnerships"
-      },
-      {
-        "name": "Jameel Khalfan",
-        "organization": "Sui Foundation",
-        "title": "Global Head of Ecosystem"
-      }
-    ],
-    "descriptionSource": {
-      "url": "https://sui.io/basecamp",
-      "fetchedAt": "2026-09-22T12:14:29.000Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Sui Basecamp 2026 | Sui’s global conference",
-      "sha256": "f7c01bee292af9d612535f1b9bdfecd4d5f5851a9c5d08ba28c4cf2c381a2c67"
-    }
-  },
-  {
     "id": "premier-swell-2026",
     "slug": "ripple-swell-2026",
     "name": "Ripple Swell 2026",
@@ -809,32 +671,6 @@
     }
   },
   {
-    "id": "premier-stablecoinsg",
-    "slug": "stablecoin-summit-2026",
-    "name": "Stablecoin Summit Singapore 2026",
-    "description": "Asia's premier event for stablecoin innovation. The Stablecoin Summit 2026 takes place October 8, 2026 at Andaz Singapore, joining 500+ leaders in payments, policy, and digital assets.\n\n## Program\n\nGovernment, institutions, fintech leaders, and blockchain pioneers explore the future of digital money — real-world use cases, trustless transactions, transparency, and security for enterprises and financial institutions engaged in high-volume cross-border payments, with expert insights, technical deep dives, and top-tier networking.\n\n## Speakers\n\nA curated lineup of global industry leaders: Wayne Huang (Co-founder and Group CEO, XREX Inc.), Hassan Ahmed (Country Director Singapore, Coinbase), Michael Egorov (Founder, Curve), Drake Evans (CTO and Co-Founder, Agora), Tushar Gulhane (VP Treasury and WCM, SAP Asia), and Bhau Kotecha (Head of Paxos Labs). Speaker applications run through the official site.",
-    "startDate": "2026-10-08",
-    "endDate": "2026-10-08",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Andaz Singapore, Singapore",
-    "url": "https://xrex.io",
-    "website": "https://stablecoinsummit.com/",
-    "coverImage": "/events/stablecoin.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "descriptionSource": {
-      "url": "https://stablecoinsummit.com/",
-      "fetchedAt": "2026-09-22T12:14:29.000Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Stablecoin Summit 2026",
-      "sha256": "4b4c18ae118ebbc660bec5615887af967d17557d20d7e2e843267819a4472c6c"
-    },
-    "registrationUrl": "https://stablecoinsummit.com/",
-    "timezone": "Asia/Singapore",
-    "venueName": "Andaz Singapore"
-  },
-  {
     "id": "premier-tabconf",
     "slug": "tabconf",
     "name": "TABConf 8 2026",
@@ -1289,82 +1125,6 @@
     }
   },
   {
-    "id": "premier-finalityforum",
-    "slug": "finality-forum-2026",
-    "name": "Finality Forum @ Token2049 SG 2026",
-    "description": "Finality Forum is an invite-only forum focused on institutional digital assets, and will be capped at 300 attendees. Please apply in the link and await your confirmation.\n\nAbout Finality Forum\nHeld on 9 Oct 2026, Finality Forum is a full-day conference focused on institutional digital assets — with tracks across Infrastructure, Payments & Stablecoins, RWA & Tokenization, Agentic Commerce, Trading & Institutional Liquidity, and Institutional Privacy.\n\nThis edition of Finality Forum will be held during Token2049 Singapore Week, and will feature the following tracks:\n• Infrastructure: The foundational layers — chains, custody, and the systems institutions are actually building on.\n• Payments & Stablecoins: Where stablecoins stop being a crypto story and start being the global payments story.\n• Real World Assets & Tokenization: Real assets, on-chain. The bridge between traditional finance and programmable markets.\n• Agentic Commerce: Autonomous agents, on-chain compute, and what happens when AI needs a wallet.\n• Trading & Institutional Liquidity: The desks, market makers, and infrastructure moving institutional-scale capital on-chain.\n• Institutional Privacy: Confidentiality without compromise — the privacy infrastructure institutions need to participate.\n\nCurrent speakers for Finality Forum include Avalanche, Base, Bitgo, Bloomberg, Canton, Chainlink, Coingecko, FalconX, Flow Traders, Flowdesk, Four Pillars, Google Gemini, GSR, Kaito, Kraken, Miden, Nansen, Nethermind, Ondo, Osero, Paxos, Pyth, Stripe, Tether, Visa, Wintermute, Wormhole, xStocks.\n\nFor more information, visit:\n• Website: https://finalityforum.xyz\n• X: https://x.com/FinalityForum\n• LinkedIn: https://www.linkedin.com/company/finality-forum/",
-    "startDate": "2026-10-09T02:00:00.000Z",
-    "endDate": "2026-10-09T10:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://luma.com/g2lg0htf",
-    "website": "https://luma.com/g2lg0htf",
-    "coverImage": "/events/premier-finalityforum-ed7d5f5a.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "timezone": "Asia/Singapore",
-    "registrationUrl": "https://luma.com/g2lg0htf",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "hosts": [
-      "Ethene Labs",
-      "Four Pillars",
-      "Mira (fka Crypto Nomads)"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/g2lg0htf",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "Speakers & VIPs",
-        "url": "https://luma.com/g2lg0htf",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/g2lg0htf",
-      "eventId": "evt-l0Q2lprJGf8HgEj",
-      "fetchedAt": "2026-09-20T07:56:55.046Z",
-      "method": "luma-page"
-    }
-  },
-  {
-    "id": "premier-theodds",
-    "slug": "the2",
-    "name": "The Odds: Prediction Markets Summit Singapore 2026",
-    "description": "A curated prediction markets summit — 400 attendees, 50+ speakers, two stages across four hours — at Suntec City, Singapore, on October 8, 2026, during TOKEN2049 week. 25,000+ attend TOKEN2049; the most relevant 1% meet at The Odds.\n\n## Concept\n\nPrediction markets are being built, listed, priced and written into law by people who almost never sit in the same room. The Odds puts them there for one afternoon: the founders and builders behind the platforms, the owners and operators running them, new and emerging platforms, exchanges and trading venues. An independent, curated summit produced by More & More at the Suntec Convention Centre, 1 Raffles Boulevard — one of Singapore's most established business and convention hubs, with direct access to hotels, restaurants, transport and exhibition space.\n\n## Program\n\nThe agenda is being finalized with the strongest voices in prediction markets; previous Odds speakers set the tone. Speaker nominations run through the official site.",
-    "startDate": "2026-10-08T14:00:00+08:00",
-    "endDate": "2026-10-08T20:00:00+08:00",
-    "city": "Singapore",
-    "country": "SG",
-    "location": "Suntec Convention Centre, 1 Raffles Boulevard, Suntec City, Singapore, SG",
-    "url": "https://mnm.live/theodds/t2049singapore",
-    "website": "https://mnm.live/theodds/t2049singapore",
-    "coverImage": "/events/premier-theodds-231d81f4.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "venueName": "Suntec Convention Centre",
-    "streetAddress": "1 Raffles Boulevard, Suntec City",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "descriptionSource": {
-      "url": "https://mnm.live/theodds/t2049singapore",
-      "fetchedAt": "2026-09-22T12:14:29.000Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "The Odds: Prediction Markets Summit Singapore 2026",
-      "sha256": "9b0cb49d44d0ac827cfdc94f2e11705572ad851eb4820807e9deb83d9b30dc3d"
-    }
-  },
-  {
     "id": "premier-gbshow",
     "slug": "global",
     "name": "Global Blockchain Show Abu Dhabi 2026",
@@ -1758,80 +1518,6 @@
     "source": "curated-premier",
     "slug": "ship-safe-devcon-mumbai-security-sessions",
     "coverImage": "/logo/partners/ibw.png"
-  },
-  {
-    "twitter": null,
-    "source": "curated-premier",
-    "coverImage": "/events/premier-rwa-week-2026-6e41e5be.webp",
-    "id": "premier-rwa-week-2026",
-    "slug": "rwa-week",
-    "name": "RWA Week 2026",
-    "description": "RWA WEEK — online and offline ecosystem platform for the real-world asset tokenization community: latest news, event calendar, online and offline events, interviews, and a networking and matchmaking platform.\n\n## What the platform offers\n\nNews coverage, a community event calendar, online and offline events, interviews with ecosystem voices, and a networking and matchmaking platform for participants.\n\n## Events\n\nBrowse upcoming real-world asset events in Dubai, Singapore, Hong Kong and beyond — including conferences, summits and networking events run under the RWA Week banner.",
-    "startDate": "2026-10-05T09:00:00+08:00",
-    "endDate": "2026-10-09T18:00:00+08:00",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore",
-    "url": "https://rwaweek.com/",
-    "website": "https://rwaweek.com/",
-    "registrationUrl": "https://rwaweek.com/",
-    "descriptionSource": {
-      "url": "https://rwaweek.com/",
-      "fetchedAt": "2026-09-22T12:14:29.000Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "RWA WEEK — Online & Offline Ecosystem Platform",
-      "sha256": "9b63d6dea36b0737bb04691ee90de6c5d1f8091d33efb83f6ec8d6f0ab294597"
-    }
-  },
-  {
-    "twitter": null,
-    "source": "curated-premier",
-    "coverImage": "/events/premier-daweek-london-2026-9c85e8e6.webp",
-    "id": "premier-daweek-london-2026",
-    "slug": "daweek-london",
-    "name": "Digital Assets Week London 2026",
-    "description": "## DA Week Series Sponsors\n\nDigital Assets Week is the world’s leading institutional conference series focused on the digitisation and tokenisation of all asset classes.\n\nThe series is the forum where capital markets transformation is examined in depth, from issuance and market structure to settlement, custody, liquidity and regulatory alignment.\n\nThe underlying foundation of Digital Assets Week is Global Asset Digitisation Projects, making it the only venue where the commercialisation of tokenising assets is discussed comprehensively and at scale.\n\n• The only event focused on bringing digital assets and institutions together\n\n• Highly curated invite-only audience of financial institutions, institutional investors, brokers, private equity and venture capital firms, infrastructure providers, exchanges and regulators – the entire ecosystem\n\n## The Tower Hotel, by Thistle\n\nExplore unrivalled views of Tower Bridge and discover London from a new perspective at The Tower Hotel.\n\nThe Tower Hotel, by Thistle offers a unique vantage point of the city. Your authentic London experience begins here, surrounded by iconic landmarks, effortless comfort, and breathtaking views.\n\n## Recent Posts\n\n## Recent Comments\n\n## Archives\n\n## Categories",
-    "startDate": "2026-10-06T08:30:00+01:00",
-    "endDate": "2026-10-07T19:00:00+01:00",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "The Tower Hotel, St Katharine's Way, London, UK",
-    "venueName": "The Tower Hotel, by Thistle",
-    "url": "https://daweek.org/london/",
-    "website": "https://daweek.org/london/",
-    "registrationUrl": "https://daweek.org/london/",
-    "descriptionSource": {
-      "url": "https://daweek.org/london/",
-      "fetchedAt": "2026-09-20T00:20:40.865Z",
-      "method": "official-section",
-      "pageTitle": "Digital Assets Week in London - October 2026",
-      "sha256": "6d1af912ee9a88fc4bfecd908521158434d26167aef288382c4a6eabb7f00124"
-    }
-  },
-  {
-    "twitter": null,
-    "source": "curated-premier",
-    "coverImage": "/events/premier-token2049-origins-2026-10414ba3.webp",
-    "id": "premier-token2049-origins-2026",
-    "slug": "token2049-origins",
-    "name": "TOKEN2049 Origins Hackathon 2026",
-    "description": "## Access\n\nAccess the world's largest crypto event. Connect with 25,000 attendees, media, and industry leaders shaping Web3.\n\n## Build\n\nTake your idea from concept to working product in 36 hours. Free meals, rest zones, and snacks keep you locked in.\n\n## Demo\n\nBuild in DeFi, infrastructure, NFTs, or AI. Get mentorship. Demo on the TOKEN2049 stage to 25,000 attendees.\n\n## Win\n\nCompete for prizes, grants, and accelerator spots. Pitch for funding and global recognition.\n\n## 36 hours.\n\n## 19 Aug\n\n## 18 Sep\n\n## 28 Sep\n\n## 6-8 Oct\n\n## $150,000\n\n## Agentic Commerce\n\n## Best Workflow with CRE\n\n## Multichain Infrastructure Challenge\n\nBuild a working Web3 product using NOWNodes blockchain infrastructure.\n\n## Best Use of Solana\n\nBuild on Solana and turn your idea into a working onchain product.\n\n## 36 hours to ship.\n\n## FAQs\n\n## Is there a registration fee?\n\nThe event is 100% free — including food, drinks, and full access to the TOKEN2049 conference.\n\n## Does TOKEN2049 cover Travel or Accommodation?\n\nNo. TOKEN2049 does not cover flights, visa fees, or accommodation. You are responsible for arranging your own travel and stay in Singapore.\n\n## Who Should Apply?\n\nOrigins is built for people who ship. This is for you if you are:\n\n## Will there be rest areas at the venue?\n\nYes. Rest and chill-out spaces are available on a first-come, first-served basis. However, there are no shower facilities at the venue, so we recommend booking comfortable accommodation nearby.\n\n## Do I need to be physically present?\n\nYes. Physical attendance at Marina Bay Sands in Singapore is required for the full 36 hours. We do not offer online or remote participation.\n\n## Can you help with Visa invitation letters?\n\nYes. Confirmed participants who need a visa invitation letter can request one once they are accepted. We'll issue a letter to support your visa application.\n\n## How many members are allowed on my team?\n\n## Can I apply as an individual?\n\nYes. Solo applicants are welcome. If you’d like to join a team but don’t have one, we'll help you find a team.\n\n## Can I start working on my project before the event beings?\n\nNo. To maintain fairness, all project work must begin after the official hacking period starts. You can brainstorm ideas, but no code, designs, or prototypes before kickoff.",
-    "startDate": "2026-10-06T09:00:00+08:00",
-    "endDate": "2026-10-08T18:00:00+08:00",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Marina Bay Sands, Singapore",
-    "venueName": "Marina Bay Sands",
-    "url": "https://www.token2049.com/singapore/2049-origins",
-    "website": "https://www.token2049.com/singapore/2049-origins",
-    "registrationUrl": "https://www.token2049.com/singapore/2049-origins",
-    "descriptionSource": {
-      "url": "https://www.token2049.com/singapore/2049-origins",
-      "fetchedAt": "2026-09-20T00:20:41.129Z",
-      "method": "official-section",
-      "pageTitle": "Origins Hackathon  | TOKEN2049 | Singapore",
-      "sha256": "83372b84559ec039975bb42b50485879b6c5786933f9cc59fda75bc6863db5ac"
-    }
   },
   {
     "twitter": null,
@@ -2482,7 +2168,7 @@
     "id": "premier-gts-2026",
     "slug": "gts",
     "name": "Global Trading Show 2026",
-    "description": "Global Trading Show 2026 takes place December 10-11, 2026 in Abu Dhabi, UAE. The expo and conference covers forex, crypto, equities, gold, AI trading, DeFi and prediction markets.\n\nThe announced programme includes an exhibition, main-stage talks, structured networking and strategy workshops. Registration is available through the official tickets page, with Standard, Business and VIP passes.\n\nThe event is presented by Times of Trading and organised by VAP Group.",
+    "description": "Global Trading Show | Premier Multi-Asset Trading Event Skip to content 10 - 11 Dec 2026Abu Dhabi, UAE Enquire Now Get Tickets Most Influential Unified Multi-Asset Trading Show Global Trading Show Where the operators, capital and creators shaping global markets come together • 10 - 11 Dec 2026 • Abu Dhabi, UAE Co-located with Destination Partner Get tickets Sponsor Now Forex · Crypto · Equities · Gold · AI Trading · DeFi · Prediction Markets 0 + Traders 0 + Speakers 0 + Sponsors 0 + media Global Trading Show is the world's most influential unified multi-asset trading event an expo-cum-conference designed for both B2B and B2C ecosystems, curated for the operators, capital and creators shaping the next decade. From forex and equities to crypto, gold, AI-driven trading, DeFi and prediction markets, Global Trading Show brings the entire trading landscape under one roof for learning, networking and business growth. Get More Details 0 + Attendees from across the globe 0 + Industry speakers across 2 days Download Event Agenda 0 + Sponsors and partners Download Sponsorship Brochure Your Reasons To Be Here Brand Visibility Put your brand in front of thousands of qualified financial and trading professionals. Lead Generation Capture high-intent leads from a curated audience actively seeking solutions in your space. Thought Leadership Position your brand as an authority with speaking slots and panel participation opportunities. Global Media Coverage Benefit from international press, live streams, and post-event content amplifying your presence. Cross-Asset Market Edge Gain cutting-edge insights across equities, commodities, crypto, and forex markets from top analysts. Unfiltered Speaker Access Meet fund managers, top traders, regulators and founders. Strategy Workshops Hands-on sessions designed to sharpen your trading strategies with real market scenarios. Smart Networking App AI-powered matchmaking connects you with the right investors, traders, and partners instantly. The Global Trading Show Experience. Four rooms. Two days. One conversation that defines where capital and code go next. 01 01 The Trading Floor A curated exhibition where 70+ of the world's leading brokers, platforms and fintechs put their best on display and where serious traders come to compare, evaluate and decide. Not a tradeshow. A marketplace. For Traders & Investors 02 02 The Main Stage Unfiltered conversations with the people shaping global markets — fund managers, trader creators, regulators, founders and analysts with skin in the game. No pitches. Just where they're placing their next bet. Live Across All 2 Days 03 03 Structured Networking Chance encounters are great. Engineered ones are better. Our curated matchmaking format ensures every meeting you take is with someone who already has a reason to sit across the table from you. For Attendees & Sponsors 04 04 Strategy Workshops Smaller, deeper. Capped-attendance sessions where practitioners walk through real trades, real strategies and real market reads. Walk out with frameworks you can apply by Monday morning. Limited Seats Per Session 2026 Speakers Christos Christou Chief Compliance Officer Lulu Financial Holdings Marcin Kaźmierczak Co-Founder RedStone Evgeny Gokhberg Founder Re7 Capital Mahmoud Hamouda Deputy Chief Strategy Officer Banque Misr John Lilic Co-Founder & CSO Tria Chris Williams Co-Founder Messiah Network Richard Muirhead Managing Partner Fabric Ventures Vineet Budki CEO & Managing Partner Sigma Capital × Christos Christou Designation: Chief Compliance Officer Company: Lulu Financial Holdings A professional Chief Compliance Officer with 30+ years in banking and non-banking financial services. A degree holder in Banking and Finance, an MBA from University of Liverpool, and CAMS, CGSS, and CCAS certifications from ACAMS. An executive management record of directing a diversified team of Compliance/RegTech/FinTech professionals and a Board member within Lulu Financial Group, chairing the Compliance, Audit and Risk Committees in all Lulu Financial Group companies in GCC and APAC regions. A specialist in Payment Services, Crypto Assets, Regulatory and AML/CFT Compliance, Sanctions, Advanced Analytics and Forensics. A great career also as an adjunct lecturer for the Chartered Bankers Institute, Professional Academies, and Universities/Colleges in Europe and Middle East. An active member of the Public-Private Partnership Committee (ACPF) of the UAE, and member of the ACAMS Task Force as a subject matter expert for certifications and conferences. × Marcin Kaźmierczak Designation: Co-Founder Company: RedStone Marcin leads strategy and go-to-market at RedStone, the fastest-growing blockchain Oracle, and at Credora, the largest DeFi Ratings platform. RedStone holds the top 3 position globally by the number of clients (200+ B2B clients) and Total Value of Assets Secured ($10+ billion). RedStone is the official oracle for Securitize, BlackRock BUIDL, Apollo ACRED, VanEck VBILL, Hamilton Lane SCOPE and other tokenized funds, backed by veterans like Mike Arrington, co-founder of TechCrunch. Marcin has been in the blockchain industry since 2018, ex-Google Cloud PM with a background in quantitative methods in economics. Co-founder of ETHWarsaw, the largest technical crypto conference in the CEE region. Laureate of Forbes 30 under 30 Poland. Speaker at global crypto events including Consensus, Token2049, ETHcc, ETHDenver, Ethereum Zurich and more. × Evgeny Gokhberg Designation: Founder Company: Re7 Capital Evgeny Gokhberg is the founder of Re7 Capital and brings over 14 years of investment-management experience, including seven years focused on crypto markets. He started investing in digital assets back in 2016, spotting early the potential of DeFi to reshape traditional finance. In 2021, he founded Re7 Capital and in only four and a half years, he has grown the firm to $1 billion in assets under management. × Mahmoud Hamouda Designation: Deputy Chief Strategy Officer Company: Banque Misr Mahmoud Hamouda is a visionary and dynamic leader who drives strategic initiatives at Banque Misr, Egypt’s second-largest bank, as the head of strategic initiatives. With over 19 years of experience in the technology industry, he combines his technical and business acumen to identify new market and growth opportunities, craft go-to-market strategies, and lead transformational projects. He holds a Master of Liberal Arts and Management from Harvard University. Mahmoud is passionate about innovation and entrepreneurship and has been instrumental in introducing the start-up community to cutting-edge technology through the Dell for Entrepreneurs program in Egypt, which he has led since 2014. As a Harvard Business Review Advisory Council member, he also contributes to the global discourse on management and leadership. He has received multiple awards and patents for his creative and impactful ideas, such as a centralized employee data analytics IoT platform and a machine learning technique for detecting physical anomalies in a computing environment. × John Lilic Designation: Co-Founder & CSO Company: Tria × Chris Williams Designation: Co-Founder Company: Messiah Network Chris Williams is an accomplished entrepreneur and co-founder of Messiah Network, a Node-as-a-Service platform designed to make decentralized infrastructure accessible to everyone. Messiah empowers both individuals and enterprises to deploy, manage, and scale blockchain nodes with ease, driving true decentralisation and accelerating mass adoption of Web3 technology.Before entering the crypto space in 2017, Chris built his career at the intersection of technology, business development, and marketing within the defence and security sector, where he specialised in bringing bleeding-edge innovations to market.Since transitioning into blockchain, he has led marketing and growth strategies for several top-100 crypto projects, including the fastest-growing token project in history, which reached a $1 billion market cap in just three weeks.Chris is passionate about decentralisation, infrastructure sovereignty, and building systems that empower people everywhere to take part in a more open, secure, and censorship-resistant internet. × Richard Muirhead Designation: Managing Partner Company: Fabric Ventures × Vineet Budki Designation: CEO & Managing Partner Company: Sigma Capital Vineet Budki is CEO and Managing Partner of Sigma Capital and has been a known face in the Web3 Venture Investment Space. Prior to Sigma, he headed Cypher Capital, one of the Biggest Web3 Fund’s Globally with 300+ Investments across 2 funds and having half a billion in AUM. Vineet has been named in the Top 100 Indians in the Middle East multiple times and was recognized in the Top 10 Crypto Personalities Globally in 2024 by Arabian Business. View All Speakers Event Programme A curated agenda for the seven asset classes that move global markets. Day 1 10th Dec Day 2 11th Dec STAGE • ALPHA ARENA 09:00 Registration & Networking 10:00 Opening Remarks 10:15 Borderless Capital Markets OPENING KEYNOTE: Trading Without Borders: The New Global Market Order • How capital flows have shifted across MENA, Asia & the West • The rise of multi-asset global trading platforms and 24/7 markets • What the 'borderless trader' looks like in 2027 and beyond #GlobalMarkets #MultiAssetTrading #BorderlessTrading 10:35 Centralised to Decentralised Finance Panel: From Wall Street to Web3: The Evolution of Global Trading • From centralised exchanges to decentralised protocols, the journey • How institutional players are embracing blockchain-based settlement • Cross-border liquidity pools: opportunities and risks for active traders • Regulatory arbitrage: Navigating multi-jurisdictional compliance #Web3Trading #DeFiEvolution #BlockchainSettlement 11:15 Autonomous Trading Systems HEADLINER: The AI-Powered Trader: Autonomous Agents & the Future of Execution • How large language models are transforming order-book analysis • From algorithmic rules to adaptive machine learning strategies • Risk controls in fully autonomous trading environments #AITrading #AutonomousAgents #AlgoExecution 11:40 KEYNOTE USD vs BRICS Currency: Who Controls the Next Reserve Currency? • The trajectory of de-dollarisation and its real-world trading implications • BRICS digital currency proposals: timelines, feasibility, and FX impact • How traders can position portfolios for a multipolar currency world Download the full agenda Get the complete two-day programme — speakers, sessions, side-rooms and the Palace afterparty bill — sent to your inbox. Enter your details to unlock We'll send the full agenda straight to your inbox. Loading form… 09:00 Registration & Networking 10:00 Opening Remarks 10:15 Quant-Driven Alpha OPENING KEYNOTE: The Algorithmic Edge: How Quants Are Rewriting Market Rules • From discretionary to systematic: the shift in hedge fund alpha generation • Machine learning models replacing technical analysts, myth or reality? • Building a quantitative edge with limited data in frontier markets #QuantTrading #AlgorithmicEdge #MachineLearningAlpha 10:35 Frontier Market Opportunities Panel: Emerging Markets Trading: MENA, Africa & South-East Asia • Untapped liquidity pools in Gulf equity markets and how to access them • FX trading in frontier currencies: volatility, carry, and liquidity risks • Retail trading growth across Africa, mobile-first platforms and the opportunity • Regulatory convergence: how emerging hubs are attracting global capital #EmergingMarkets #MENATrading #FrontierFX 11:15 Democratised Market Access HEADLINER: The Next Billion Traders: Web3, Mobile & Democratised Access • How mobile-first brokers and fintech super-apps are onboarding the next generation • Web3 wallets as trading accounts, frictionless onboarding and self-custody • Social trading, copy trading, and community-driven investment platforms #Web3Trading #MobileFirstTrading #SocialTrading 11:40 KEYNOTE Macro Trading in 2027: Central Banks, Inflation & Black Swan Events • Reading the Fed, ECB, and PBOC, how monetary divergence creates FX opportunities • Inflation regime trading: strategies that worked and lessons from 2022–2026 • Constructing a macro playbook for tail-risk and black-swan scenarios Download the full agenda Get the complete two-day programme — speakers, sessions, side-rooms and the Palace afterparty bill — sent to your inbox. Enter your details to unlock We'll send the full agenda straight to your inbox. Loading form… Reach 5,000 decision-makers across seven asset classes in one budget cycle. Forex brokers, crypto exchanges, prop firms, AI/quant operators, institutional funds, regulators, sovereign wealth, ultra-HNW family offices and the world's top trading creators programmed into a single two-day room. 0 + Regional Delegates · UAE / GCC /MENA 0 + International Delegates 0 + Speakers & Influencers 0 + Associations & Media 0 + Sponsors & Partners 0 + Prequalified Decision Makers Get More Details Media Partners Anchor partners shaping the inaugural edition. Passes to suit every level of participation The Trading Experience 🌟 PREMIUM EXPERIENCE Business Pass Accelerate business. Expand networks. $199 $499 1 • Access to Global Blockchain Show • 2 Days Exhibition Access • 2 Days Conference Access • Access to Official Event App • Complimentary Lunch & Refreshments • Business Networking Zone • VIP Lunch & Refreshments • VIP / Speaker Lounge Access • VIP Registration Desk • VIP Reserved Seats in conference Book Now 🔥 MOST BOOKED VIP Pass Lead the future with exclusive access. $999 $1499 1 • Access to Global Blockchain Show • 2 Days Exhibition Access • 2 Days Conference Access • Access to Official Event App • Complimentary Lunch & Refreshments • Business Networking Zone • VIP Lunch & Refreshments • VIP / Speaker Lounge Access • VIP Registration Desk • VIP Reserved Seats in conference Book Now 🎟 SEATS FILLING FAST Standard Pass Be inspired Free $59 • Access to Global Blockchain Show • 2 Days Exhibition Access • 2 Days Conference Access • Access to Official Event App • Complimentary Lunch & Refreshments • Business Networking Zone • VIP Lunch & Refreshments • VIP / Speaker Lounge Access • VIP Registration Desk • VIP Reserved Seats in conference BOOK NOW Tell us how you want to show up. Whether you're attending, sponsoring or covering we'll route your enquiry to the right person within 24 hours. General contact@globaltradingshow.com Speakers speaker@globaltradingshow.com Media media@globaltradingshow.com Partnerships sponsorship@globaltradingshow.com Get the latest event updates before anyone else. Monthly insider updates — speaker reveals, agenda drops, sponsor news. No noise.",
     "startDate": "2026-12-10",
     "endDate": "2026-12-11",
     "city": "Abu Dhabi",
@@ -2496,10 +2182,10 @@
     "addressCountry": "UAE",
     "descriptionSource": {
       "url": "https://www.globaltradingshow.com/",
-      "fetchedAt": "2026-10-06T11:55:41.462Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T19:33:13.781Z",
+      "method": "official-section",
       "pageTitle": "Global Trading Show | Premier Multi-Asset Trading Event",
-      "sha256": "9f52034d8492463474d2f97df978ba6c621969ec9b61e23c5d7ba75e5d760ae9"
+      "sha256": "4a616623e0873e37711ccb260f793e5777f5727127a45fe9f063e25ecd7b5a09"
     }
   },
   {
@@ -3190,7 +2876,7 @@
     "id": "premier-webx-2027",
     "slug": "webx-2027",
     "name": "WebX 2027 Tokyo",
-    "description": "Produced by CoinPost, WebX is Asia's premier crypto and Web3 conference held at Tokyo Big Sight in Japan. The summit bridges Japan's leading public enterprises, major financial conglomerates, and top government regulatory bodies with international Web3 protocols, founders, and venture funds. Featuring keynotes, technical tracks, investor roundtables, and high-impact networking, WebX accelerates mass adoption and mainstream digital asset integration in Japan and across the Asia-Pacific region.",
+    "description": "## What’s WebX WebX is one of Asia’s largest global conferences planned and operated by CoinPost, Japan’s leading crypto asset and Web3 media platform. The event is held in Tokyo and attracts a diverse audience from Japan and around the world. WebX comprehensively covers a wide range of Web3 related topics, including cryptocurrencies, blockchain technology, Web3 infrastructure, NFTs, DeFi, and AI. Major enterprises, technology companies, financial institutions, investors, developers, media organizations, experts, and general attendees gather to explore the latest technological trends, industry applications, and community culture. WebX is recognized as one of Asia’s largest international conferences offering a multifaceted view of the Web3 ecosystem. ## VENUE ## TITLE ## PLATINUM ## GOLD ## SILVER ## STAGE PARTNER ## MEDIA PARTNER ## PARTNER ## SUPPORTER ## PRODUCER ## ORGANIZER ## Bitbank, Inc. ## bitFlyer, Inc. ## BitLending ## eole Inc. ## SBI Holdings, Inc. ## Simplex ## UPCX ## Advasa Holdings, Inc. ## Binance Japan ## Canton Network ## ZIPANG DAO ## Fireblocks ## Gonka ## Metaplanet Inc. ## TRON ## Remixpoint, inc. ## NERO Chain ## TRADE WORKS Co., Ltd ## HSK Chain ## Startale Group ## DCP Co., Ltd. ## HashPort Inc. ## Ripple ## Blackrock ## Franklin Templeton Japan Co., Ltd. ## FIL Investments (Japan) Limited ## Circle ## OPTAGE.Inc ## Elliptic ## BitGo ## Sumitomo Mitsui Banking Corporation ## Solana ## SLASH VISION PTE. LTD. ## Pantera Capital ## Limitless Research ## Polymarket ## Japan Open Chain ## Digital Platformer Corporation ## JPYC Inc. ## Wintermute ## DEA Inc. ## Datachain, Inc. ## Cardano ## Evernorth ## Bitbank Ventures ## Japan Digital Asset Trust Preparatory Company, inc. ## OVHcloud ## KPMG Japan ## Boundless ## Endowed Chair for Blockchain Innovation, the University of Tokyo ## AM Management ## PricewaterhouseCoopers Japan LLC ## NETSTARS Co., Ltd. ## DIMO Japan ## 0G Labs ## Avalanche ## GSR ## Web3 Festival ## Capital Layer ## SBI Sumishin Net Bank, Ltd. ## UTGL ## Tevau ## BOT Chain ## UstarPay ## HashHub Inc. ## Kudasai Co., Ltd. ## Tokenable ## Topnod ## TISI Inc. ## ENI ## BOOSTRY Co., Ltd ## Bitcoin Japan Inc ## Metaplanet Securities Inc. ## Doppler Finance ## VISA ## Ginco, Inc. ## LINE NEXT Inc. ## Osaka Digital Exchange ## SBI XDC Network APAC ## SBI Traceability, Co., Ltd. ## SBI VC Trade Co., Ltd. ## DeFimans Co., Ltd. ## INSPAY ## Digital Securities Co., Ltd. ## SmashPay ## Stonelink ## CAPCOM ## EchoX ## Chainalysis ## Mitsubishi UFJ Asset Management Co., Ltd. ## SCSK Corporation ## Sumitomo Mitsui Trust Bank, Limited ## Clabo ## RootData ## CoinsDo ## Alpaca ## Neo ## CoinMeta ## PANONY & PANews ## Techub News ## PopDEX ## Foresight News ## Odaily ## InvestHK ## HyperHares ## ORCA ## Hashlock ## TechFlow深潮 ## Tiger Research ## exSat ## DeSpread ## BOB ## Haudi Crypto, Inc. ## MyToken ## ChainCatcher ## BlockTempo ## Metaplanet Ventures ## Hypernative ## Miuro.ai ## CertiK ## TRADOM Inc. ## WasabiCard ## O2Pay ## Wallstreetcn × All-Weather Media Co., Ltd. ## Ango-ya ## AWS cloud ## WEA ## NETX ## Goooo ## Edel Finance ## ABMedia ## AllSpark Research ## APAC CIOOutlook ## BeInCrypto ## BitcoinWorld ## Bitcoin.com ## Bitlake LLC ## Bitmedia ## BlockchainGameInfo ## BlockchainReporter ## Blockhead.co ## BlockInsider ## Blockmedia ## BlockWeeks ## blocmates ## Coin Edition Media ## CoinGabbar ## CoinMarketCap ## CoinPartner(CoinOtaku Inc.) ## CoinNewsSpan ## CoinNinja ## CoinRank ## Coinscapture ## Cointelegraph ## Cryip ## Crypto Breakfast Club ## Crypto India Magazine (CIM) ## crypto.news ## CryptoBrowser ## CryptoNewsZ ## Cryptorank ## CryptoTotem ## Cryptowealthnet ## Deep Point. ## DroomDroom ## feixiaohao (非小号) ## Golden Grain ## ICOholder ## IOLITE ## 金色财经 Jinse Finance ## Kripto Teknik ## ME ## MetaSpace ## Neweconomy あたらしい経済 ## NFT Media ## Onchain Capital Podcast ## Siam Blockchain ## The Block ## TheCryptonomist ## TokenPost ## The Coin Headlines ## The Edge Of Show ## The Market Periodicals ## The Metaverse Street Journal ## Web3 with Sam Kamani Podcast ## WOLF Financial ## Yellow Media ## ZEX PR WIRE ## $5.vc ## The Coin Republic ## ACCESS ## AIBC ## Asia Web3 Alliance Japan ## blockchainlife ## BD Ventures ## CoinEasy ## Coinfest Asia ## Crypto Nomads Club ## Flitto Japan Inc. ## Four Pillars ## FUTUREMODE ## Indonesia Blockchain Week ## Isekado ## Singapore Blockchain Week ## ShowUp ## WEB3 SALON ## Women in Tech ## THE MANEKI ## tencolors .Inc ## 経済産業省 ## 文部科学省 ## 観光庁 ## JETRO ## 大阪市 ## 一般社団法人新経済連盟 ## Osaka Prefectural Government ## 日本デジタル経済連盟 ## 一般社団法人日本暗号資産等取引業協会 (JVCEA ) ## Japan Security Token Association ## 一般社団法人 ブロックチェーン推進協会（BCCC） ## 一般社団法人Fintech協会 ## 一般社団法人コンピュータエンターテインメント協会 ## Japan Cryptoasset Business Association（JCBA） ## Japan Blockchain Association（JBA） ## 日本デジタル分散型金融協会（JDFA） ## CoinPost Inc. ## WebX Executive Committee ## Why Japan ? Why WebX ? ## Our Concept This phrase describes the innovative potential of Web3.At WebX, every industry, company, and individual is connected beyond digital boundaries– like nodes connected in blockchains, transforming the world through the power of advanced technology.Our mission is to shape a new future. “Connecting the Nodes Beyond the Screen\" is not just a slogan, it is a commitment for the future.WebX is also the only conference where you can interact with a broad spectrum of government organizations, established companies, IP companies, and Web3 companies.",
     "startDate": "2027-08-25T09:00:00.000Z",
     "endDate": "2027-08-26T18:00:00.000Z",
     "city": "Tokyo",
@@ -3203,17 +2889,17 @@
     "source": "curated-premier",
     "descriptionSource": {
       "url": "https://webx-asia.com/",
-      "fetchedAt": "2026-10-30T22:21:58.692Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "WebX 2027 Tokyo",
-      "sha256": "d9d6cca1047d93468a0982412cab4b8b611c72d2a53f7e3f059be3312256e271"
+      "fetchedAt": "2026-11-10T18:32:48.611Z",
+      "method": "official-section",
+      "pageTitle": "WebX | Asia’s Largest Web3 Conference | August 2027",
+      "sha256": "451a9d4ee0ff4b15d5a3e6d2cbd50721900dc0a41d9cd6a5599f708e436c346a"
     }
   },
   {
     "id": "premier-bitcoin-asia-2027",
     "slug": "bitcoin-asia-2027",
     "name": "Bitcoin Asia 2027",
-    "description": "Organized by BTC Inc (the team behind the flagship Bitcoin Conference), Bitcoin Asia returns to the Hong Kong Convention and Exhibition Centre (HKCEC). Bringing together thousands of Bitcoin builders, miners, institutional allocators, and protocol engineers from across the world, the conference explores Bitcoin Layer-2 scalability, Lightning Network adoption, Ordinals and Runes ecosystem growth, mining sustainability, and global macroeconomic sovereignty.",
+    "description": "Bitcoin Asia returns to Hong Kong on 26-27 August 2027, with the organisers describing it as the meeting point where the exchanges, builders, allocators and the wider Bitcoin community across Asia come together under one roof. ## Passes The 2027 General Admission pass is listed at $69 and covers two-day access to the Main Stage and Side Stage sessions, the Expo Hall, the Art Gallery hosting Asia's largest Bitcoin digital art showcase, and the official event app for planning the agenda. The General Admission Plus pass is $129 and adds the Deal Flow Zone for one-to-one business meetings, in-app meeting-table booking, BTC+ networking app access, priority Main Stage seating and a dedicated check-in desk. The Whale Pass is $1,499 and includes backstage deep sessions with speakers, all-inclusive food and drinks, access to Whale Night side events and the after-party, The Deep private lounge, priority seating and a VIP gift bag. Groups and companies can request a tailored package. ## Past speakers Previous editions featured CZ, Balaji Srinivasan (CEO and founder, Network School), Dr Hon Johnny Ng and Kit Chong MH (Hong Kong Legislative Council), David Bailey (CEO and chairman, Nakamoto Inc.), Simon Gerovich (CEO, Metaplanet), Justin Sun (advisor, WBTC), Aj Scaramucci (founder and CEO, Treasure Trove), Jack Kong (founder and board member, Nano Labs and Hong Kong Cyberport), Bonnie Chang (founder and host, Bonnie Blockchain) and Bilal Bin Saqib (chairman, Pakistan Virtual Assets Regulatory Authority). Bitcoin Asia is published by BTC Inc., a subsidiary of Nakamoto Inc. (NASDAQ: NAKA).",
     "startDate": "2027-08-26T09:00:00.000Z",
     "endDate": "2027-08-27T18:00:00.000Z",
     "city": "Hong Kong",
@@ -3226,17 +2912,26 @@
     "source": "curated-premier",
     "descriptionSource": {
       "url": "https://b.tc/conference/asia",
-      "fetchedAt": "2026-10-30T22:21:58.692Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Bitcoin Asia 2027",
-      "sha256": "763d08b45a596ab2939b925a6470e33d7cc2248026806da4067202aa79e299e3"
+      "fetchedAt": "2026-11-10T22:04:39.100Z",
+      "method": "official-section",
+      "pageTitle": "Bitcoin Asia Hong Kong 2027",
+      "sha256": "1520b8cc81c44b264198ac21b2c4d11af57b1df45022862acde8f59653860adc",
+      "evidence": [
+        {
+          "url": "https://b.tc/conference/asia",
+          "fetchedAt": "2026-11-10T22:04:39.100Z",
+          "sha256": "1520b8cc81c44b264198ac21b2c4d11af57b1df45022862acde8f59653860adc",
+          "retrievedVia": "browser-rendered",
+          "representation": "rendered-text"
+        }
+      ]
     }
   },
   {
     "id": "premier-tokenize-ldn-2026",
     "slug": "tokenize-ldn-2026",
     "name": "Tokenize: LDN 2026",
-    "description": "Tokenize: LDN is London's dedicated institutional summit focused entirely on real-world asset (RWA) tokenization, tokenized credit, debt instruments, and institutional digital asset market infrastructure. Hosted at ExCeL London, the conference brings together global tier-1 investment banks, asset managers, hedge funds, custodians, and enterprise blockchain architects to explore on-chain fund tokenization, settlement interoperability, and regulatory compliance under the UK and European frameworks.",
+    "description": "## Tokenize: LDN is now part of FinTech Connect The institutional tokenisation programme now runs as the Digital Assets & Tokenisation track, inside an event with 6,000+ financial services leaders. ## Same institutional focus. A much bigger room. If you've been to Tokenize: LDN before, here's what carries on and what you gain by meeting at FinTech Connect. • A programme built for institutionsTokenised funds, treasuries, credit and real estate, with the custody, settlement and regulation that make them work. • Serious decision-makersBanks, asset managers, institutional investors and regulators, not speculators. • London in DecemberTwo days at Excel London, 1-2 December 2026. • Six more content tracksPayments, AI in finance, compliance, corporate finance, digital transformation and fintech growth, all under one roof. • 6,000+ financial services leadersMeet the payments, compliance and enterprise technology teams whose decisions sit right alongside yours. • One registrationRegister through FinTech Connect. There is no separate Tokenize: LDN sign-up. ## Built around real institutional adoption This isn't a theoretical blockchain conference. Sessions focus on what's live, what's regulated and what's moving from pilot to production over the next 12-24 months. • Market infrastructure: custody, settlement and interoperability • Stablecoins and CBDCs: the infrastructure decisions being made now ## Where institutional capital meets tokenised finance The people evaluating platforms, setting the rules and allocating capital, in one place for two days. ## Banks Digital asset, markets and innovation teams moving pilots into production. ## Asset managers Fund and product leads exploring tokenised funds and new distribution. ## Institutional investors Allocators looking at tokenised treasuries, credit and real assets. ## Infrastructure providers ## Regulators Policymakers shaping how tokenised markets operate in the UK and Europe. Plus the rest of FinTech Connect: core buyers across banking, payments, compliance and enterprise technology, all at the same event. ## Conversations that move things forward Structured meeting areas, curated networking and the event app help you find the right counterparties quickly and get straight into the commercial discussion. • Find and request meetings in the event app before you arrive • Networking built around the digital assets community, with the wider fintech audience a few steps away ## Three ways to be part of it ## Attend Join the institutional tokenisation community and 6,000+ financial services leaders at Excel London, 1-2 December 2026. ## Sponsor or exhibit Reach institutional digital asset leaders and core fintech buyers across banking, payments, compliance and enterprise technology. ## Speak Working on tokenised funds, market infrastructure or regulation? Share what you're learning with the people making the same decisions. ## Your questions, answered Everything you need to know about Tokenize: LDN joining FinTech Connect. ## Be in the room where tokenisation gets decided Join the institutional tokenisation community at FinTech Connect 2026, alongside 6,000+ financial services leaders.",
     "startDate": "2026-12-01T09:00:00.000Z",
     "endDate": "2026-12-02T18:00:00.000Z",
     "city": "London",
@@ -3249,10 +2944,10 @@
     "source": "curated-premier",
     "descriptionSource": {
       "url": "https://tokenize-event.com/",
-      "fetchedAt": "2026-10-30T22:21:58.692Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Tokenize: LDN 2026",
-      "sha256": "d2b535445f0724ceed04043f6d271f810c89e014dc64de5c3bb333489f8a97c6"
+      "fetchedAt": "2026-11-10T18:32:48.654Z",
+      "method": "official-section",
+      "pageTitle": "Welcome - Tokenize: LDN 2026",
+      "sha256": "da898950e7a01dd7519a06d33cc835843bc4576da5fc5963baf55ac49add917d"
     }
   }
 ]

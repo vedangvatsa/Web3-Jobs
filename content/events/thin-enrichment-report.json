@@ -2,50 +2,6 @@
   "applied": true,
   "records": [
     {
-      "id": "token2049-side-6aa41e96c0426d278bd87cfe",
-      "words": 202,
-      "source": {
-        "url": "https://www.token2049.com/singapore/nexus-startup-competition",
-        "fetchedAt": "2026-09-21T05:12:52.947Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "NEXUS Startup Competition | TOKEN2049 | 7-8 October 2026 | Singapore",
-        "sha256": "ecde96c36405ad85a9fb05dd26a11ad9af6328a05abaf4f62605a0dd09df0c92"
-      }
-    },
-    {
-      "id": "token2049-side-6aa41f2ac0426d278bd87d05",
-      "words": 202,
-      "source": {
-        "url": "https://www.token2049.com/singapore/nexus-startup-competition",
-        "fetchedAt": "2026-09-21T05:12:52.952Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "NEXUS Startup Competition | TOKEN2049 | 7-8 October 2026 | Singapore",
-        "sha256": "b4c214cfee88f10a9c1201088704b90e8fc7f32d02723c5e9ac7c34b33e9d624"
-      }
-    },
-    {
-      "id": "token2049-side-6aa41d6d8ffcc4e5ece10d0f",
-      "words": 212,
-      "source": {
-        "url": "https://www.token2049.com/singapore/2049-origins",
-        "fetchedAt": "2026-09-21T05:12:52.958Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "Origins Hackathon | TOKEN2049 | Singapore",
-        "sha256": "9140b7d0abe0aa1f1176ff58f31aefec8dfa3d9948c12ca204b2431d3283ee66"
-      }
-    },
-    {
-      "id": "token2049-side-6a7445ef7ef1577c1e37eca1",
-      "words": 200,
-      "source": {
-        "url": "https://megatix.com.sg/events/after2049",
-        "fetchedAt": "2026-09-21T05:12:52.962Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "Megatix - AFTER 2049 presents: Claptone & Crusy",
-        "sha256": "aa00bf417009503f06feddac7789da628749b000fad4f79c76ecb69dfca25faa"
-      }
-    },
-    {
       "id": "premier-planblugano",
       "words": 195,
       "source": {
@@ -54,61 +10,6 @@
         "method": "reviewed-primary-sources",
         "pageTitle": "Lugano's Plan B Forum 2026",
         "sha256": "badbe6dae301d27581e133b0644818e8b5bfef63658b41a792c0a2d24d28f802"
-      }
-    },
-    {
-      "id": "token2049-side-6a739bc8d1b48ddf39d09e32",
-      "words": 194,
-      "source": {
-        "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
-        "fetchedAt": "2026-09-21T05:12:52.969Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - full timetable",
-        "sha256": "7fcd150f47347053385be93dd29ee5a85e70baaa82a2547483d651d6c5d55865"
-      }
-    },
-    {
-      "id": "token2049-side-6a739c525a75007b4100108c",
-      "words": 191,
-      "source": {
-        "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
-        "fetchedAt": "2026-09-21T05:12:52.973Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - full timetable",
-        "sha256": "1f30d6f4fa66a44a820c896bc46b7ed648ff96e8d4ea00a43598199c88500ad4"
-      }
-    },
-    {
-      "id": "token2049-side-6a739ce35a75007b41001095",
-      "words": 189,
-      "source": {
-        "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE",
-        "fetchedAt": "2026-09-21T05:12:52.977Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - full timetable",
-        "sha256": "cd695cc52e05d3dfbca37d0c1b4c89fb74dee62a6bd0e763a2c4647db2b057c2"
-      }
-    },
-    {
-      "id": "premier-stablecoinsg",
-      "words": 91,
-      "source": {
-        "url": "https://stablecoinsummit.com/",
-        "fetchedAt": "2026-09-21T05:12:52.981Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "Stablecoin Summit 2026",
-        "sha256": "4b4c18ae118ebbc660bec5615887af967d17557d20d7e2e843267819a4472c6c"
-      }
-    },
-    {
-      "id": "token2049-side-6a622e12d1b48ddf39d08981",
-      "words": 62,
-      "source": {
-        "url": "https://sg2026.vaultsummit.xyz/",
-        "fetchedAt": "2026-09-21T05:12:52.983Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "Vault Summit: Singapore",
-        "sha256": "b4a3c26acdeea06fd604bae0fd06e1ec91a31dadeeaae699142de129f3c3c5fd"
       }
     },
     {

@@ -340,7 +340,7 @@
   },
   {
     "name": "W3Node Conference & Hackathon 2026",
-    "description": "W3Node's Cape Town program includes keynotes, technical workshops and a three-day Web3 hackathon. It is aimed at developers, founders, community leads and ecosystem teams. The Node Engine program also offers a separate hacker-house residency and travel-grant application.",
+    "description": "## Welcome to Africa’s Premier Web3 Developer Conference and Hackathon W3Node provides a platform that showcases developers and founding teams, upskills community managers, and provides investors with industry insights. Ultimately, we connect Africa's thriving developer ecosystem with global blockchain companies to accelerate adoption and commercial success. ## Who The Conference is For Node Engine is a growing network of developers, researchers, and founders shaping the future of tech from the African continent and beyond. This year, we are introducing a hacker house residency for the best builders in Africa. This is an addition to our Hackathon and Travel Grant Program. Signup to our newsletter to be the first to know when applications open. ## Accelerate the BUIDLers, Shape the Future W3Node is a launchpad for the next generation of African founders shaping the decentralized web. As a sponsor, we’ll curate your experience to align with your goals—whether that’s establishing a local hub, accessing our pipeline of top African founders, or amplifying your brand’s visibility. Let’s BUIDL the future, together. ## We Believe in the Community Economy The opportunities are vast and complex across the diaspora. As we innovate and build solutions, we’ve designed this community to honor individual sovereignty, enable creators to capture more of the value that they create, and as a community, for all of our incentives to be aligned. ## Meet Our Esteemed Speakers and Industry Thought Leaders Ideal for Community Managers, DevRel pros, and Regional Ambassadors Travel Grant winners receive airfare, accommodation, and Meals Premium experience with priority access and VIP-only networking opportunities. ## Schedule",
     "startDate": "2026-11-12",
     "endDate": "2026-11-14",
     "city": "Cape Town",
@@ -361,26 +361,10 @@
     "coverImage": "/events/curated-w3node-conference-hackathon-2026-11-12-c31ee7b8.webp",
     "descriptionSource": {
       "url": "https://w3node.io/",
-      "fetchedAt": "2026-10-20T09:29:40.894Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T18:32:48.709Z",
+      "method": "official-section",
       "pageTitle": "W3Node Conference & Hackathon",
-      "sha256": "d210c88de5e1ddb5845a46f5eba35367f263ce9e6c0380531c3417c26bbfdb64",
-      "evidence": [
-        {
-          "url": "https://w3node.io/",
-          "fetchedAt": "2026-10-20T08:11:05.991Z",
-          "sha256": "103a38ad3c3d65cddcc3b3e206d02355dfd8217d033f5067c3948a498035ebae",
-          "retrievedVia": "HTTP response HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://w3node.io/",
-          "fetchedAt": "2026-10-20T09:29:40.894Z",
-          "sha256": "103a38ad3c3d65cddcc3b3e206d02355dfd8217d033f5067c3948a498035ebae",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "8ca230a5cfc8bbae73eeb55173bb4575b08295a939d006e49fbfd56099bef9e9"
     },
     "id": "curated-w3node-conference-hackathon-2026-11-12",
     "url": "https://w3node.io/",
@@ -400,7 +384,7 @@
   },
   {
     "name": "Digital Assets Forum New York 2026",
-    "description": "European Blockchain Convention's New York forum covers tokenization, stablecoins, institutional adoption, custody, market structure, regulation and capital formation. The program is intended for banks, asset managers, funds, infrastructure providers, crypto firms and policymakers.",
+    "description": "## DIGITAL ASSETS FORUM NY ## 2026 Speakers ## Jan van Eck ## VanEck ## Michael Novogratz ## Galaxy ## Sandy Kaul ## Franklin Templeton ## Maxwell Stein ## BlackRock ## Elizabeth Yenko ## New York Life Investment Management ## Ryan Rugg ## Citi ## Anthony Scaramucci ## SkyBridge Capital ## Adam Back ## Blockstream ## Matthew Ducie ## DTCC ## Athanasios Vamvakidis ## IMF ## Seth Ginns ## Michelle Neal ## Fnality ## Brian Mulcahy ## RBC Capital Markets ## Eric Balchunas ## Bloomberg ## Igor Istratov ## Fifth Third Bank ## David Kroger ## T. Rowe Price ## Kathleen Wrynn ## Invesco ## John D'Agostino ## Coinbase ## Darren Jordan ## Komainu ## Sebastian Pulido ## Grayscale ## Will Peck ## WisdomTree ## Linda Jeng ## Aave ## Alex Felix ## CoinFund ## Kaitlin Asrow ## NYDFS ## Sam ten Cate ## State Street ## Who attends ## What's on the menu ## 2 stages 50+ sessions to help you navigate through the rapidly-changing world of digital assets. ## 1:1 meetings program Scroll through the attendee list and schedule 1:1 meetings in advance. Get ready to maximize your ROI. ## VIP night Kick off the event with an exclusive VIP night designed for premium networking and unwinding in style. ## Meet LPs and GPs Connect with fund managers and allocators, such as pension funds, foundations, FoF, and wealth managers. ## Press room Press access just got better — connect with top speakers in a private space reserved for media insights. ## Private roundtables A new format designed for direct, meaningful exchanges with top industry peers ## 5-Star venue A spacious and stylish setting, perfect for connecting and exploring ## Exhibition area ## Why join? ## Barbara Schlyter ## DWS Group ## Vanessa Grellet ## Arche Capital ## Let's get you a ticket ## 695$ ## 1.495$ ## 1.295$ ## 2.495$ • Access to VIP Night Party with speakers, sponsors and media at 5* venue ## 5.995$ The best ROI is achieved by bringing a team, don’t you think? ## 2026 Sponsors ## Diamond ## Gold ## Silver ## Bronze La inversión en criptoactivos no está regulada, puede no ser adecuada para inversores minoristas y perderse la totalidad del importe invertido. Es importante leer y comprender los riesgos de esta inversión que se explican detalladamente en esta ubicación. European Blockchain Convention no se hace responsable de las opiniones expresadas por asistentes o colaboradores. Our events: EBC Barcelona | DAF New York | DAF London | DAF Abu Dhabi",
     "startDate": "2026-11-13T08:30:00-05:00",
     "endDate": "2026-11-13T18:30:00-05:00",
     "timezone": "America/New_York",
@@ -416,24 +400,17 @@
     "attendanceMode": "offline",
     "coverImage": "/events/curated-digital-assets-forum-new-york-2026-11-13-ac8899b9.webp",
     "descriptionSource": {
-      "url": "https://eblockchainconvention.com/digital-assets-forum-new-york/",
-      "fetchedAt": "2026-10-20T08:09:48.897Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Digital Assets Forum New York 2026",
-      "sha256": "5d9dd6ca96b77da31672628c2f4f7e4bf8aea6391c1bfc638055ce52de0653e9",
+      "url": "https://web.archive.org/web/20261024105434/https://eblockchainconvention.com/digital-assets-forum-new-york/",
+      "fetchedAt": "2026-11-10T22:04:39.195Z",
+      "method": "official-section",
+      "pageTitle": "Digital Assets Forum New York",
+      "sha256": "5d5d980b71423d86ebdb7f328e22eb82f97cea24382bc4df22a2852471dcd215",
       "evidence": [
         {
           "url": "https://eblockchainconvention.com/digital-assets-forum-new-york/",
-          "fetchedAt": "2026-10-20T08:06:33.328Z",
-          "sha256": "cdcfc6d8a54c6086eefb93b87db3d77d01ad96810474c979dea0631d42115896",
-          "retrievedVia": "HTTP response HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://www.tickettailor.com/events/europeanblockchainconvention/2189276",
-          "fetchedAt": "2026-10-20T08:09:48.897Z",
-          "sha256": "bb0316912f84cf91a4e9fe4fd013f7ba59f283a033f30e6ea355540221e54780",
-          "retrievedVia": "HTTP response HTML",
+          "fetchedAt": "2026-11-10T22:04:39.195Z",
+          "sha256": "5d5d980b71423d86ebdb7f328e22eb82f97cea24382bc4df22a2852471dcd215",
+          "retrievedVia": "wayback",
           "representation": "html"
         }
       ]
@@ -445,7 +422,7 @@
   },
   {
     "name": "Global Bitcoin Circular Economies Summit 2026",
-    "description": "Bitcoin Beach's summit examines practical Bitcoin use in local economies. Workshops, panels and fireside chats cover merchant payments, education, adoption and the tools supporting Bitcoin commerce. The 2026 edition opens to the public with limited seats.",
+    "description": "## Bitcoin Circular Economies Summit 2026 Two years ago, the Bitcoin Circular Economies Summit was a closed room. Leaders from circular economies around the world, comparing notes, figuring out together what actually works when you try to make Bitcoin a daily medium of exchange instead of a speculative bet. Quiet work. The kind nobody tweets about while it's happening. ‍On November 19-20, 2026, the Global Bitcoin Circular Economies Summit becomes a public conference for the first time, and it's happening in El Zonte. Not San Salvador. Not a hotel ballroom somewhere convenient. El Zonte, the same stretch of sand where this whole story started, where people were paying for pupusas and surfboards in sats years before anyone outside the country had heard of Bitcoin Beach. ‍It's the first conference of its kind this town has ever hosted. And there's really only one thing it could be about: Bitcoin is money, and the circular economies are the proof. ## ‍Two Years of Building Toward This ‍For two Summits, the focus was internal. Builders talking to builders. Communities in El Salvador, Africa, Southeast Asia, Latin America, comparing what worked, what failed, what scaled. It turned into a real global conversation, even if most people never saw it happen. ‍The 2026 edition finally opens that conversation to everyone who's been curious from the outside. Leaders, merchants, educators, developers, and honestly, anyone who wants to see what Bitcoin adoption looks like when it's not a headline but a Tuesday afternoon at a market stall. ## ‍What Two Days Actually Look Like ‍This isn't a stage with slides and a Q&A at the end. It's workshops, panels, and fireside chats built around the questions that actually define where Bitcoin adoption goes next: ‍● Bitcoin is money: the case from on-the-ground reality● Circular economies: what's working, what's scaling, what's next● Bitcoin for merchants: practical adoption at the point of sale● Education: onboarding the next million users● Adoption: pathways from curiosity to daily use● Tools: the infrastructure powering real-world Bitcoin commerce ‍Every session wraps before sunset. This is El Zonte, after all, and nobody organizing this event forgot that the ocean is right there. ## ‍Who's Already Confirmed ‍The lineup is still growing, but a few names are already locked in, and they set the tone for what this Summit is actually about: ‍● Jeremy Almond (@jeremyalmond), Co-Founder & CEO of Paystand● Alexandra Navarro (@alex_navarro0), also from Paystand● Gerardo Linares (@GR_Linares1), driving Bitcoin adoption through education and real-world circular economies with Bitcoin Berlin SV and Bitcoin La Laguna● Evelyn Lemus (@Evelynlemus2906), building and educating communities through the same two projects ‍Not a single one of them is on this list because of a headline they made. They're here because they took Bitcoin out of theory and put it directly into the hands of people who never had financial access before. That's the thread running through this whole event. ## ‍A Beach, Not a Backdrop ‍Come for the panels, but stay for the reason this movement exists in the first place. You're going to hear it straight from the people who built it: why Bitcoin is money, why it matters for the people who've been failed by every other financial system, and why freedom and fairness aren't abstract words when you've watched them play out in a small coastal town. ‍And between sessions, there's still surf if you want it, there's still that particular warmth of Bitcoin Country that doesn't translate to a conference center anywhere else. This isn't a Bitcoin summit that happens to be near a beach. It only makes sense on this one. ## ‍November in El Salvador Is Getting Busy ‍This isn't even the only Bitcoin event on the calendar this month, and that alone says something about where this country is right now: ‍● November 10 — Bitcoin Capital Summit● November 11-12 — Bitcoin Historico, San Salvador● November 18-19 — EmTech AI Conference● November 19-20 — Global Bitcoin Circular Economies Summit, El Zonte ‍Four events, one month, in a country that used to make headlines for very different reasons. Now it's builders, educators, and investors filling flights to come see what's actually being built here. ## ‍We're Genuinely Looking Forward to This One ‍Every year this Summit has been a working session behind closed doors. This year, for the first time, everyone gets to be in the room, and that shift feels like a real milestone, not just for the event but for the movement it represents. El Zonte earned this. The people who built circular economies from nothing, in El Salvador and around the world, earned a stage. ‍Seats are limited, and this is the first time El Zonte has hosted anything like it. If you want to hear, in their own words, why Bitcoin is money, this is the place to be. ## Every SAT counts ## socials ## Site ## Contact",
     "startDate": "2026-11-19",
     "endDate": "2026-11-20",
     "city": "El Zonte",
@@ -461,26 +438,10 @@
     "coverImage": "/events/curated-global-bitcoin-circular-economies-summit-2-70610971.webp",
     "descriptionSource": {
       "url": "https://www.bitcoinbeach.com/summit-blog/bitcoin-circular-economies-summit-2026",
-      "fetchedAt": "2026-10-20T09:29:42.644Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T18:32:48.735Z",
+      "method": "official-section",
       "pageTitle": "Bitcoin Circular Economies Summit 2026 | BitcoinBeach",
-      "sha256": "3ca046e1d480cef57b0c759780f5e52ce431bca9967e29c176b0d05d9d110508",
-      "evidence": [
-        {
-          "url": "https://www.bitcoinbeach.com/summit-blog/bitcoin-circular-economies-summit-2026",
-          "fetchedAt": "2026-10-20T08:08:56.450Z",
-          "sha256": "e8c2083e3c8964c33fe012ca413ace6b0d16667e3ca49f0be6ea2d341b64d265",
-          "retrievedVia": "HTTP response HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://www.bitcoinbeach.com/summit-blog/bitcoin-circular-economies-summit-2026",
-          "fetchedAt": "2026-10-20T09:29:42.644Z",
-          "sha256": "e8c2083e3c8964c33fe012ca413ace6b0d16667e3ca49f0be6ea2d341b64d265",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "cb74c391d5a1da6049e9c19c7ecc4e095681a1c8cab655b0f471bbfe6189f016"
     },
     "id": "curated-global-bitcoin-circular-economies-summit-2026-11-19",
     "url": "https://www.bitcoinbeach.com/summit-blog/bitcoin-circular-economies-summit-2026",
@@ -489,7 +450,7 @@
   },
   {
     "name": "Plan ₿ Forum El Salvador 2027",
-    "description": "A two-day Bitcoin conference on nation-state adoption, economics, financial freedom and freedom of speech. The program includes keynotes, panels, workshops, a Bitcoin art gallery and an exhibition. Ticket holders must be over 18; the Salvadoran-resident ticket requires proof of residency.",
+    "description": "## Peer Ticket Plan ₿ Forum El Salvador is the premier Bitcoin conference in Central America bringing together world leaders, technologists, and entrepreneurs to discuss nation-state Bitcoin adoption, economics, financial freedom, and freedom of speech. ## Speakers ## Paolo Ardoino ## Saifedean Ammous ## BTC Sessions ## Nico Moran ## Luna ## Roy Sheinfeld ## Giacomo Zucco ## R0ckstar Dev ## Tickets Get access to the Two-day Conference at Sheraton Presidents san Salvador Hotel and Museum of Art of El Salvador. Enjoy Keynotes, Panels and Workshops. Visit the Bitcoin Art Gallery, Startups and Sponsors Exhibition floors. Access to all Keynotes, Panels, Masterclasses, Sponsor Exhibitions and 1:1 matched Networking ## Cyber Punk Ticket All peer Ticket benefit Plus: Dedicated Registration, Front-Row seat, Food at the conference, speakers dinner ## Cheros Salvadoreños ## Discover El Salvador with Plan ₿ ## Locations Avenida De La Revolucion &, Calle Circunvalacion, San Salvador ## FAQ’s For assistance finding accommodation in and around San Salvador, you can contact Vacilando Tours and Trips, The agency will be able to provide a wide range of hospitality solutions for both groups and individual bookings for all budgets. Contact details:Fatima MonterrosaVacilando Tours & TripsTel. +503 7800 5072 / +503 7616 2097info.vacilandotours@gmail.com The event will be conducted in English but real time translations in Spanish will be provided for the main keynotes and panels. Headsets will be provided on premise. Also, there will be keynotes and panels Spanish. Admission: Access to all general areas, including keynotes, panels and workshops. • Peer ticket: Access to all Keynotes, Panels, Masterclasses, Sponsor Exhibitions, 1:1 Matched Networking and Coffee Breaks. • CyberPunk ticket: All the benefits of the Peer Ticket plus: Exclusive Registration, Front-Row Seat, Coffee Break, Lunch and Dinner with the Speakers at the Conference. • Cheros Salvadoreños: Same access as the Peer Tickets. An ID proving local residency is required at registration. Age Requirement: Ticket holders must be above 18 years of age. Non-transferable: Tickets are linked to the personal information provided at the time of purchase. Yes! Through our travel partner, Travala, you can book your flights, hotels, and activities in El Salvador with the option to pay in 100+ cryptocurrencies or traditional payment methods.",
     "startDate": "2027-01-29",
     "endDate": "2027-01-30",
     "city": "San Salvador",
@@ -519,26 +480,10 @@
     ],
     "descriptionSource": {
       "url": "https://planb.sv/",
-      "fetchedAt": "2026-10-20T09:29:43.273Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Plan ₿ Forum - El Salvador | Plan ₿ Forum El Salvador: Central America’s premier Bitcoin conference, uniting global leaders, technologists, and entrepreneurs to discuss Bitcoin adoption, economics, financial freedom, and freedom of speech.",
-      "sha256": "c6eea34f340d858258494cd2708b3c44dc0a95ca5336820063b8c0757a0eab5d",
-      "evidence": [
-        {
-          "url": "https://planb.sv/",
-          "fetchedAt": "2026-10-20T08:03:59.949Z",
-          "sha256": "dc7ca79733ff278c79c1aae8bb33500dd050445ec1d4604a79eaf223f8600cf1",
-          "retrievedVia": "HTTP response HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://planb.sv/",
-          "fetchedAt": "2026-10-20T09:29:43.273Z",
-          "sha256": "dc7ca79733ff278c79c1aae8bb33500dd050445ec1d4604a79eaf223f8600cf1",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "fetchedAt": "2026-11-10T18:32:50.869Z",
+      "method": "official-section",
+      "pageTitle": "2027 PlanB Forum El Salvador",
+      "sha256": "8dcaaaefb05fb0b5bcfa1e1d53bcc230cf13d7838941e35b271bd4fafe516717"
     },
     "id": "curated-plan-forum-el-salvador-2027-01-29",
     "url": "https://planb.sv/",
@@ -547,7 +492,7 @@
   },
   {
     "name": "CBC Summit Europe 2027",
-    "description": "A one-day summit for executives and regulators addressing crypto banking, compliance and stablecoin challenges. The organizer announces panel discussions and keynote sessions at De Vere Grand Connaught in London.",
+    "description": "Join us for the CBC Summit Europe, where 150+ industry executives and regulators will gather to address crypto banking, compliance, and stablecoin challenges, together.CBC Europe will be held on 04 March 2027, at De Vere Grand Connaught, London, UK, featuring a full day of engaging panel discussions, keynote sessions, networking opportunities, and a closing happy hour.Find more details in our CBC Europe 2027 Brochure. ## About Us - Why Attend Join us on 04 March 2027, for our annual, CBC Summit Europe to engage in insightful discussions at the intersection of banking, compliance, and stablecoins across the crypto industry.Network with an exclusive group of industry leaders and change makers while hearing the latest developments on legislative and regulatory issues.Learn from the leading voices in this space in an intimate setting tailored to C-Suite executives.Get involved today and join the conversation! ## Head of Banking & Payments (Americas) ## Kraken \"Banking and compliance challenges are consistently top of mind for the crypto industry, and I'm glad that CBC Summit is bringing together industry leaders and government regulators to collaborate on a path forward.” ## Co-Founder & Partner ## Electric Capital \"The CBC Summit was a fantastic event that enabled our team to meet and interact with executives and decision makers within crypto, banking, compliance, and government. The panels provided timely and actionable content, while the networking sessions enabled us to have meaningful conversations with prospective and existing clients, partners, and friends in industry. We're looking forward to sponsoring again next year!” ## President ## BitAML & ComplyFit Are you an expert or industry leader in crypto, banking, or compliance? If so, apply to speak!",
     "startDate": "2027-03-04",
     "city": "London",
     "country": "United Kingdom",
@@ -563,26 +508,10 @@
     "coverImage": "/events/curated-cbc-summit-europe-2027-03-04-e68dfe7c.webp",
     "descriptionSource": {
       "url": "https://www.cbcsummit.io/europe",
-      "fetchedAt": "2026-10-20T09:29:43.302Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T18:32:50.267Z",
+      "method": "official-section",
       "pageTitle": "Europe — CBC SUMMIT",
-      "sha256": "70b1f6525f644efad614c72b609d2395ec9963416238fd9a5171ef2bf34f0177",
-      "evidence": [
-        {
-          "url": "https://www.cbcsummit.io/europe",
-          "fetchedAt": "2026-10-20T08:04:47.746Z",
-          "sha256": "c992422506dbfdf0c56880f1c3883be4bf9f26f14049a69a564c0b97f6bb9870",
-          "retrievedVia": "HTTP response HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://www.cbcsummit.io/europe",
-          "fetchedAt": "2026-10-20T09:29:43.302Z",
-          "sha256": "c992422506dbfdf0c56880f1c3883be4bf9f26f14049a69a564c0b97f6bb9870",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "d0f302c1710a35e7786ee8bf867ee2e88d4268fe19fbd96b3e3d51a2fe364c4b"
     },
     "id": "curated-cbc-summit-europe-2027-03-04",
     "url": "https://www.cbcsummit.io/europe",
@@ -591,7 +520,7 @@
   },
   {
     "name": "Mining Disrupt 2027",
-    "description": "Mining Disrupt covers Bitcoin mining alongside AI infrastructure and high-performance computing. The expo offers exhibitor booths and a speaker program; tickets also include the co-located Intelligence Disrupt event with the same pass benefits.",
+    "description": "Mining Disrupt 2027 · Bitcoin Conference & Bitcoin Mining Expo Mar 22–24, 2027 · Irving Convention Center · Dallas Bitcoin mining + AI + HPC expo Where Bitcoin mining meets AI. Mining Disrupt + Intelligence Disrupt: one event connecting Bitcoin mining, AI infrastructure and HPC. March 22–24, 2027Irving Convention Center · Dallas, Texas 0Days : 00Hrs : 00Mins Secure a booth Access Levels Three ways in. The best seats go first, every year. Elite and VIP are capped. When they're gone, General is all that's left. Your ticket also includes Intelligence Disrupt. Your selected pass benefits apply. Pay in Bitcoin or USDTCard · PayPalInstant e-ticketCodes honored Thousands of power players. One massive event. Don't miss it. Mining Disrupt is the leading institution documenting Bitcoin mining. Since 2019 it has been the central hub for education, collaboration and commerce in the global mining industry. Through its flagship expo and the Bitcoin Mining Summit in Texas, Mining Disrupt advances the conversations that define mining across cycles. Be where the future of mining is decided. Dallas, TX March 22–24, 2027 Questions? Contact usGroup discounts (10+)? Contact usTraveling? Visa invites Exhibit:Dominate the floor. Own the spotlight. Deals, demos and disruption. This is where business happens. At Mining Disrupt the floor isn't just where you showcase. It's where you sell, scale and steal the spotlight in front of thousands of high-intent decision-makers. Booths sell out fast. The deals? Even faster. Put your brand in front of the entire industry. Secure a booth Questions? Contact usTraveling? Visa invites Packages 200 booths. The top tiers go first. Bitcoin first · card · PayPal Speak:Your brand. Center stage. Step up in front of the global mining elite. The stage isn't about hype, it's about impact. Deep-dive keynotes, fireside chats and no-fluff panels where serious players speak. Want the spotlight? Bring the signal. Own the stage. Shape the narrative. Join as speaker Recent Sponsors The whole industry has been here. 130+ brands. See all 132 sponsors →Put your logo on this wall Media Partners 87 outlets, from mainstream news to niche Bitcoin press. Industry Ambassadors Consultants and brands who help new companies get on board and take part in Mining Disrupt. Interested in becoming an ambassador?Contact us Explore Buy ticketsSecure a booth Community Where the industry talks. Year-round. Mining Disrupt started as a Telegram chat for miners and insiders. That group sparked the first event, and it's still where deals start between shows. Join the Telegram t.me/MiningDisrupt Contact Talk to the team. Three days. One floor. The whole industry. March 22–24, 2027 · Irving Convention Center · Dallas Secure a booth Important Notice & DisclaimerMining Disrupt is NOT affiliated with any other brands, groups, events, meetups, individuals, sponsors, exhibitors, agents, or referrals, except the Industry Ambassadors listed on this site. We do not sell any lists. Beware of scams claiming otherwise. There are imitators and scammers using our name to solicit sponsors and attendees. Always verify directly through our official Telegram group. Stay vigilant! General PolicyMining Disrupt Policy: No refunds. No outside food or drinks. No third-party event solicitations. Marketing & Distribution PolicyUnauthorized solicitation, sales, advertising, product demonstrations, or distribution of promotional materials, including magazines, brochures, flyers, catalogs, business literature, and promotional giveaways, is strictly prohibited anywhere within the event venue unless expressly authorized by Mining Disrupt. Marketing activities are reserved exclusively for approved exhibitors, sponsors, and authorized event partners. Attendees found engaging in unauthorized promotional activities may be required to cease immediately, surrender promotional materials, and may have their event credentials revoked without refund at the sole discretion of event management.",
     "startDate": "2027-03-22T19:00:00-05:00",
     "endDate": "2027-03-24T18:00:00-05:00",
     "timezone": "America/Chicago",
@@ -614,26 +543,10 @@
     "coverImage": "/events/curated-mining-disrupt-2027-03-22-f9b16991.webp",
     "descriptionSource": {
       "url": "https://miningdisrupt.com/",
-      "fetchedAt": "2026-10-20T09:29:44.174Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Mining Disrupt 2027 · Bitcoin Mining Expo, Dallas · Mar 22–24",
-      "sha256": "743a39c639683e537af41f81e1bfc76ad5148058592349aa0a8ca38842bb3acf",
-      "evidence": [
-        {
-          "url": "https://miningdisrupt.com/",
-          "fetchedAt": "2026-10-20T08:03:32.828Z",
-          "sha256": "034f4d4442ebf06d63e6350101d85e0b82907370c918ee13a8773a7cd4a53096",
-          "retrievedVia": "HTTP response HTML and Event JSON-LD",
-          "representation": "html"
-        },
-        {
-          "url": "https://miningdisrupt.com/",
-          "fetchedAt": "2026-10-20T09:29:44.174Z",
-          "sha256": "034f4d4442ebf06d63e6350101d85e0b82907370c918ee13a8773a7cd4a53096",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "fetchedAt": "2026-11-10T19:33:13.903Z",
+      "method": "official-section",
+      "pageTitle": "Mining Disrupt 2027 · Bitcoin Conference & Bitcoin Mining Expo",
+      "sha256": "a9abf5607aa575688dec7569a2ba18d2887644d07a98aee223d7de3b5adf071b"
     },
     "id": "curated-mining-disrupt-2027-03-22",
     "url": "https://miningdisrupt.com/",
@@ -653,7 +566,7 @@
   },
   {
     "name": "Stablecon EMEA 2027",
-    "description": "Stablecon EMEA focuses on stablecoins, tokenization and digital-asset markets. Announced topics include payments and treasury use, cross-border settlement, real-world assets and regulation. The organizer's 2027 travel page places the event at FIL Lisbon Exposition Center.",
+    "description": "## Where the Future of Money Gets Settled ## From infrastructure to institutions, it’s where the stablecoin ecosystem connects and moves forward. ## The Original Event for Digital Assets and Tokenisation in EMEA Join the institutions, issuers, regulators, exchanges, payment providers, fintechs and infrastructure leaders shaping the future of stablecoins, tokenisation and digital asset markets across EMEA. ## Why You Need a Pass ## Stablecoins Are Becoming Financial Infrastructure Discover how stablecoins are transforming payments, treasury management, remittances and cross-border settlement. ## Regulation Is Defining Market Structure Hear directly from policymakers and regulatory leaders shaping digital asset frameworks across EMEA. ## Tokenisation Is Reshaping Capital Markets Learn how institutions are bringing real-world assets on-chain and building the next generation of financial products. ## Agenda At-A-Glance ## Badge Pickup ## Evening Networking ## Welcome Reception ## Exhibit Hall ## Content ## Stable Connect Programme ## Industry Night ## Closing Party ## Meet the People Driving Adoption Build relationships with the institutions actively deploying digital asset strategies. ## Who Attends? ## Stay in the Know ## Stay ahead of the stablecoin curve—get curated updates, event invites, and breaking announcements tailored to your interests and profile.",
     "startDate": "2027-04-14",
     "endDate": "2027-04-15",
     "city": "Lisbon",
@@ -673,40 +586,10 @@
     "coverImage": "/events/curated-stablecon-emea-2027-04-14-b5062c5d.webp",
     "descriptionSource": {
       "url": "https://stablecon.com/emea/",
-      "fetchedAt": "2026-10-20T09:29:45.142Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "EMEA | 2027 – Stablecon",
-      "sha256": "456e6e09c4b4026147f817e0d7b41f89b19d5c4427d6b9dbc610bdcca5cd95f9",
-      "evidence": [
-        {
-          "url": "https://stablecon.com/emea/",
-          "fetchedAt": "2026-10-20T08:07:29.909Z",
-          "sha256": "f1e6013009aa37c1c5aff8160bb5e680a3f4e736fe0ace8b97aafb228e46fcd7",
-          "retrievedVia": "HTTP response HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://register.stablecon.com/emea-2027",
-          "fetchedAt": "2026-10-20T08:12:15.838Z",
-          "sha256": "694dfe96c86440477af8c4b8705b460998ea99354b477d57e512e4c367d01f98",
-          "retrievedVia": "HTTP response HTML, og:description and embedded event dates",
-          "representation": "html"
-        },
-        {
-          "url": "https://stablecon.com/?page_id=9124",
-          "fetchedAt": "2026-10-20T08:09:01.679Z",
-          "sha256": "2d311e4d412a9f55cf522d0409681ace8c0d3873d7c341b860a5053fa614f5d4",
-          "retrievedVia": "HTTP response HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://stablecon.com/emea/",
-          "fetchedAt": "2026-10-20T09:29:45.142Z",
-          "sha256": "f1e6013009aa37c1c5aff8160bb5e680a3f4e736fe0ace8b97aafb228e46fcd7",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "fetchedAt": "2026-11-10T18:32:52.929Z",
+      "method": "official-section",
+      "pageTitle": "EMEA | 2027",
+      "sha256": "fabdfa6467f34ac37909f0d5004768256286217b56941b4b3bfe61c3aa25e3b8"
     },
     "id": "curated-stablecon-emea-2027-04-14",
     "url": "https://stablecon.com/emea/",
@@ -728,7 +611,7 @@
   },
   {
     "name": "TOKEN2049 New York 2027",
-    "description": "TOKEN2049's inaugural New York edition brings together crypto founders, investors, institutions and builders. The organizer has announced a two-day conference; a specific venue is not yet named on the event page.",
+    "description": "TOKEN2049 | 16-17 June 2027 | New York GET YOUR TICKET NOW Super Early Bird ticket now available pay with usd Pay with your preferred credit card. Pay with crypto Processed by MoonPay Commerce. Exhibit With Us TOKEN2049 IS COMING TO NEW YORK THE GLOBAL CRYPTO GATHERING The international crypto industry converges on New York. Founders, investors, institutions and builders. All in one place. Why 25,000+ Attendees Choose TOKEN2049 15,000+ attendees 4,000+ companies 300+ EXHIBITORS 250 speakers >60% C-LEVEL 15,000+ attendees 4,000+ companies 300+ EXHIBITORS 250 speakers >60% C-LEVEL 15,000+ attendees 4,000+ companies 300+ EXHIBITORS 250 speakers >60% C-LEVEL VLAD TENEV ROBINHOOD This event is unbelievable. Eric Trump Executive VP, The Trump Organization This is the single conference where everybody comes together and the most important conversations are happening. Haseeb Qureshi Managing Partner, Dragonfly The energy is amazing... It’s a fantastic conference. Changpeng Zhao Founder, Binance It really is one of the most energetic and incredible events. Raoul Pal Co-Founder and CEO, Real Vision THE GLOBAL CRYPTO INDUSTRY. NOW IN NEW YORK. Following Singapore and Dubai, TOKEN2049 arrives at the centre of global finance. Our inaugural New York edition will bring together 15,000 attendees from around the world. Meet the people building the companies, deploying the capital and defining the future of digital assets. VITALIK BUTERIN ETHEREUM Balaji Srinivasan The network state VLAD TENEV ROBINHOOD VITALIK BUTERIN ETHEREUM balaji srinivasan the network state Shayne Coplan Polymarket Shayne Coplan Polymarket Eric Trump World Liberty Financial Changpeng Zhao Binance attended by industry leaders Partner with us unparalleled networking The Global Crypto Gathering Didn't see your email app open? Click below to copy our email address instead Become a Speaker EXHIBIT WITH US",
     "startDate": "2027-06-16",
     "endDate": "2027-06-17",
     "city": "New York",
@@ -744,26 +627,10 @@
     "coverImage": "/events/curated-token2049-new-york-2027-06-16-9185d489.webp",
     "descriptionSource": {
       "url": "https://www.token2049.com/new-york",
-      "fetchedAt": "2026-10-20T09:29:45.492Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T19:33:13.933Z",
+      "method": "official-section",
       "pageTitle": "TOKEN2049 | 16-17 June 2027 | New York",
-      "sha256": "dc893346b500aeae8b9087873adb7193464db4147a9fec53a359f4ac096ed6a6",
-      "evidence": [
-        {
-          "url": "https://www.token2049.com/new-york",
-          "fetchedAt": "2026-10-20T08:04:47.244Z",
-          "sha256": "f4e0f4b16851a1c59ae0c26321ceb48b7a91b396b6af2ce0fd702872cd44cada",
-          "retrievedVia": "HTTP response HTML and Event JSON-LD",
-          "representation": "html"
-        },
-        {
-          "url": "https://www.token2049.com/new-york",
-          "fetchedAt": "2026-10-20T09:29:45.492Z",
-          "sha256": "f4e0f4b16851a1c59ae0c26321ceb48b7a91b396b6af2ce0fd702872cd44cada",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "b9ccff77b17a2f4975ca769d897987f931ca3d82ec2ae30bd75e96dcca022a49"
     },
     "id": "curated-token2049-new-york-2027-06-16",
     "url": "https://www.token2049.com/new-york",
@@ -772,7 +639,7 @@
   },
   {
     "name": "Crypto and Cigars",
-    "description": "Garden State Crypto hosts an informal discussion about what local members are building. The meeting is at CIGARROC in Hoboken, a BYOB lounge.",
+    "description": "**Looking to find out what everyone has been building.** This spot is pretty cool, couches and lounge. Its a BYOB place so grab a drink from the deli and come in. Its on the lower level on the far corner across the street from the Hoboken path station. Lets have some conversations, see how we can help each other to achieve our goals in the original **Garden State Crypto** grassroots way. Feel free to join our Telegram chat for further discussions and follow up. [https://t.me/gardenstatecrypto](https://t.me/gardenstatecrypto)\n\n## Event details\n\nDate: Nov 17 - 18, 2026, 23:00\nVenue: CIGARROC LLC\nOrganised by: NJ Blockchain | Garden State Crypto\nEvent page: https://www.meetup.com/nj-blockchain/events/316825220/",
     "startDate": "2026-11-17T18:00:00-05:00",
     "endDate": "2026-11-17T20:00:00-05:00",
     "city": "Hoboken",
@@ -794,26 +661,10 @@
     "coverImage": "/events/mu-316825220-701379ab.webp",
     "descriptionSource": {
       "url": "https://www.meetup.com/nj-blockchain/events/316825220/",
-      "fetchedAt": "2026-10-20T09:29:55.922Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Crypto and Cigars, Tue, Nov 17, 2026, 6:00 PM   | Meetup",
-      "sha256": "9ba7a1b826164745cdf207be2d650da284f07660ea88a9471115af9d995fc84f",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/nj-blockchain/events/316825220/",
-          "fetchedAt": "2026-10-20T08:05:44.209Z",
-          "sha256": "f7558e131fc35043c3fcf9189024b545107e33202f21e7dc430d34933b97c301",
-          "retrievedVia": "html; JSON-LD and visible event description; hash is of the full UTF-8 response",
-          "representation": "html"
-        },
-        {
-          "url": "https://www.meetup.com/nj-blockchain/events/316825220/",
-          "fetchedAt": "2026-10-20T09:29:55.922Z",
-          "sha256": "5269c8e058f492eb9199bf54b0cff7d29b15c6bd3ee5557356dc8396d31b72eb",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "fetchedAt": "2026-11-10T19:33:13.967Z",
+      "method": "official-section",
+      "pageTitle": "Crypto and Cigars, Tue, Nov 17, 2026, 6:00 PM | Meetup",
+      "sha256": "40ee62b174481d99df50512685cc5da15ddc5ae7104bcae142f0a26715f403fb"
     },
     "id": "mu-316825220",
     "url": "https://www.meetup.com/nj-blockchain/events/316825220/",
@@ -1476,7 +1327,7 @@
   },
   {
     "name": "Austin Bitcoin Club",
-    "description": "Bitcoin Park Austin hosts a Bitcoin-focused community meetup. The organizer requests an RSVP because space is limited.",
+    "description": "Please RSVP as space will be limited. **When you arrive:** * Someone will be at the main door to greet you and let you in. The elevator will already be unlocked and waiting for you. * Once inside, just press 2 and it will take you straight up to the second floor. **Just in case something doesn’t work as planned:** * You can also walk through the Capital One Café (it’s open to the public) and take the elevator from there, or shoot a quick message on Signal to Jack (@jackless.09) and he’ll come right down to get you. If this is your first time at one of our meetups, we have a few simple guidelines to enhance everyone’s experience: * our meetups and events have a simple and singular focus: **Bitcoin**. All of our topics and discussions will be centered around Bitcoin, the global monetary network, and bitcoin, the reserve asset. If you are interested in crypto tokens, stocks, blockchains, altcoins, alternative investing, NFTs, etc. that is completely fine. There are a number of other meetups to join. This meetup however is just focused on Bitcoin * please **no photos** unless no one is identifiable in the background. We respect everyone’s privacy and want everyone to feel comfortable as they participate * while the group discussion is going, please keep side conversations to **none.** With the acoustics of the room and the number of people we expect, any conversations will echo and be a distraction for those who are trying to listen many of whom have traveled a long way to participate * please pick up after yourself * Street **parking** or the paid garage across from our building on East 6th (515 Congress)",
     "startDate": "2026-12-03T18:00:00-06:00",
     "endDate": "2026-12-03T20:00:00-06:00",
     "city": "Austin",
@@ -1496,26 +1347,10 @@
     "coverImage": "/events/mu-313235525-a168ff6d.webp",
     "descriptionSource": {
       "url": "https://www.meetup.com/bitcoin-park-austin/events/313235527/",
-      "fetchedAt": "2026-10-20T09:30:04.531Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Austin Bitcoin Club, Thu, Dec 3, 2026, 6:00 PM   | Meetup",
-      "sha256": "e8a0b7fda7353d2272fa6d3bbc6da34eb3e0455967e4f3fd120cd9351be27ecc",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/bitcoin-park-austin/events/cbqgvtyjcqbfb/",
-          "fetchedAt": "2026-10-20T08:12:28.607Z",
-          "sha256": "047446100626d417122e0bbb646f244228ee28724fb5d3a32011cb631d30e7e7",
-          "retrievedVia": "html; JSON-LD and event description",
-          "representation": "html"
-        },
-        {
-          "url": "https://www.meetup.com/bitcoin-park-austin/events/313235527/",
-          "fetchedAt": "2026-10-20T09:30:04.531Z",
-          "sha256": "cab6c6d4ad61b749d45295e711ef525ffa089a23ad7dc17d8b15b1c8a44dbeb4",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "fetchedAt": "2026-11-10T19:33:14.051Z",
+      "method": "official-section",
+      "pageTitle": "Austin Bitcoin Club, Thu, Dec 3, 2026, 6:00 PM | Meetup",
+      "sha256": "964af5a4ef44e3a7d2f52ad3c36d14fdbcbfab0df475b740dd0ebfa5ef5d0586"
     },
     "id": "mu-313235527",
     "url": "https://www.meetup.com/bitcoin-park-austin/events/313235527/",
@@ -1536,7 +1371,7 @@
   },
   {
     "name": "UBC 2026 Hackathon",
-    "description": "UBC's hackathon runs online from November 13 to 20, with live finals at UT Austin on November 21. Projects enter one of four tracks: tokenized equities and real-world assets, agentic payments and AI, DeFi and onchain apps, or consumer apps. Hacking starts at noon CST on November 13 and submissions close at noon CST on November 20. The organizer links registration through Devpost.",
+    "description": "Hackathon · UBC 2026 | University Blockchain ConferenceGet Tickets Hacking kicks off with a call on Thursday, Nov 12 at 6 PM CST. RSVP on LumaOne week. Ship it. UBC 2026 Hackathon Research, build, and pitch your wildest crypto idea to a panel of industry leaders. Seasoned dev or first hackathon, there’s a place for you here. Register on Devpost Read the guide Join the Telegram Online Nov 12–20 · Finals Nov 21 at UT Austin Presented by $22,000+in prizes The tracks Pick one. Stack bounties. Every project enters exactly one main track. Bounties are open to any track that meets their requirements. $ agent.fetch(\"/forecast\") ← 402 payment required ✓ paid 0.01 USDC ← 200 OK Track 01 Agentic Payments & AI Give AI agents wallets, budgets, and guardrails so they can pay for APIs, data, and compute. Any chain SwapLendYield Track 02 DeFi & Onchain Apps New financial primitives (exchanges, lending, yield, payments) that compose with what already exists. Any chain M@maya $5 🍕 Pay Track 03 Consumer Apps Payments, social, gaming, and creator tools where the crypto is invisible and the app just works. Working frontend Prizes How prizes work Enter one main track, then add one chain award and any bounties. Every team is also in the running for Official Winner. Every team Main prizes Track prizes Awarded separately in each of the three main tracks. Track Winner Chosen by the UBC team in each track. $2,000per track Chain award · optional, pick one Best use of Solana $1,500 per track Chosen by Solana. For projects built on Solana (devnet is fine). Best use of Arc $1,000 per track Chosen by Circle. For projects built on Arc, Circle's stablecoin-focused Layer-1 (testnet is fine). Official UBC 2026 Hackathon Winner Chosen by the UBC team from every submission, across all tracks. 1st place also gets 3 months of ElevenLabs Pro per member. $1,0002nd $2,5001st $5003rd Optional Sponsor bounties Enter as many as you qualify for. Each is judged by the sponsor and a UBC team representative. 1st $2,500 · 2nd $1,000 · 3rd $500, for projects built on Gemini's prediction market APIs. $4,000 For projects that use QuickNode Streams as a core data source. $500 ElevenLabs Scale for each member, for projects where voice or audio is central. 3 monthsof Scale Grok BotA mechanical keyboard per member plus swag, for projects where Grok Bot does real work. Keyboardper member For every complete submission Participation perks Every team with a complete, working submission gets these. • 1 month of Creator • A $49/mo plan* • X Premium (Cursor, Grok, X, and more)* * For up to 300 participants. Prize pool All prizes stack One project can win across categories and take home several prizes. $22,000+ In cash prizes, plus sponsor perks ExampleA DeFi prediction market built on Solana with Gemini’s API could win all four of these. 1st overall $2,500 DeFi Track Winner $2,000 Best use of Solana $1,500 Gemini bounty, 1st $2,500 One team takes home $8,500 The week Kickoff to closing ceremony Build from anywhere for a week, then bring it to Austin. Here’s how it looked at MBC ’25. Heads down Pitch time • Nov 12 Kickoff + hacking starts 6 PM CST · tracks, sponsor Q&A, then build from anywhere RSVP on Luma • Nov 16–19 Workshops Nightly office hours with sponsor engineers Full schedule • Nov 20 Submit 12 PM CST on Devpost · finalists told by midnight • Nov 21 Finals at UBC Up to 13 teams pitch live in Austin Questions FAQ Ready? Let’s hack. Pick your track, find a team (or go solo), and start building on Nov 12. Questions? Ask in the Telegram or drop into office hours. Register on Devpost Read the guide Join the Telegram",
     "startDate": "2026-11-13T12:00:00-06:00",
     "endDate": "2026-11-21",
     "city": "Austin",
@@ -1551,26 +1386,10 @@
     "attendanceMode": "mixed",
     "descriptionSource": {
       "url": "https://www.universityblockchain.org/programs/hackathon",
-      "fetchedAt": "2026-10-20T09:30:05.195Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Hackathon · UBC 2026 | University Blockchain Conference",
-      "sha256": "3f23450b76ddc4bcbaeca60f965cd9ddd1c9122cba87d37f60764b5f3670b589",
-      "evidence": [
-        {
-          "url": "https://www.universityblockchain.org/programs/hackathon",
-          "fetchedAt": "2026-10-20T08:11:04.601Z",
-          "sha256": "ba80abf7018aaa89525e043cbca6cefad3f3a7f19624b82fb62bdadc21bbc005",
-          "retrievedVia": "html; organizer program page",
-          "representation": "html"
-        },
-        {
-          "url": "https://www.universityblockchain.org/programs/hackathon",
-          "fetchedAt": "2026-10-20T09:30:05.195Z",
-          "sha256": "ba80abf7018aaa89525e043cbca6cefad3f3a7f19624b82fb62bdadc21bbc005",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "fetchedAt": "2026-11-10T19:33:14.077Z",
+      "method": "official-section",
+      "pageTitle": "University Blockchain Conference 2026 — UT Austin",
+      "sha256": "33b95b85726341df776349a00833679115ce785c9b914abafe6cbf59e6e28b9c"
     },
     "id": "curated-ubc-hackathon-2026-11-13",
     "url": "https://www.universityblockchain.org/programs/hackathon",
@@ -1964,7 +1783,7 @@
   },
   {
     "name": "ETH CALI, A FRONTIER CITY",
-    "description": "ETH CALI's popup from December 25 to 29 combines morning coworking, afternoon founder sessions and hacker discussions. Topics include AI, privacy, longevity and governance within Ethereum and open-source communities. Attendance is free and curated for holders of the organizer's POAPs and participants in key Ethereum events; registration requires approval.",
+    "description": "## FRONTIER POP-UP CITY A week-long pop-up city (Dec 25–29) for Colombia’s technological frontier. A gathering point for builders diving into technological frontier: AI, Privacy, Longevity, and Governance — all rooted in Ethereum culture and open-source values. Mornings are for deep work and coworking. Afternoons for founder sessions and hacker discussions. Evenings for sunset conversations and curated happy hours. This is not a conference. It’s a temporary network state for those building the future. Attendance is free, but curated — exclusively for holders of our POAPs and participants of key Ethereum events.\n\n## Event details\n\nDate: Dec 25 - 29, 2026, 00:30 (America/Bogota)\nVenue: Cali, Colombia\nHosts: ETH CALI\nOrganised by: ETH CALI\nTickets: Free\nRegistration: requires approval from the organiser\nEvent page: https://luma.com/soi886zk",
     "startDate": "2026-12-25T05:30:00.000Z",
     "endDate": "2026-12-30T01:00:00.000Z",
     "timezone": "America/Bogota",
@@ -2001,26 +1820,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/soi886zk",
-      "fetchedAt": "2026-10-20T09:30:09.908Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T18:32:51.790Z",
+      "method": "official-section",
       "pageTitle": "ETH CALI, A FRONTIER CITY · Luma",
-      "sha256": "e7d17a89e2c8be3b470f493306b9c00971492fd902c1b96915b670ff45ee25ef",
-      "evidence": [
-        {
-          "url": "https://luma.com/soi886zk",
-          "fetchedAt": "2026-10-20T08:08:33.514Z",
-          "sha256": "988f13e7a31199bce431536407b245a28dc4df9ac80fd4a6e3b0eeeb14680f52",
-          "retrievedVia": "html; __NEXT_DATA__ and event description",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/soi886zk",
-          "fetchedAt": "2026-10-20T09:30:09.908Z",
-          "sha256": "4c42b86cdf28980090eaa3226682c96698734f9367da46152d72059f7b33152f",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "9f5d7490302b6641d77ea6cd89c40f9b0bc8e8ea00570639b8aa9784d26a817c"
     },
     "id": "discovery-evt-Ka8BADDI3GzanUg",
     "url": "https://luma.com/soi886zk",
@@ -2089,7 +1892,7 @@
   },
   {
     "name": "The Money Shift: Crypto, AI & The Future of Money",
-    "description": "The Wright Success presents a Toronto and virtual masterclass combining talks and hands-on workshops about crypto, AI and wealth. The main program begins at 11 AM; the published agenda lists an earlier breakfast for VIP guests.",
+    "description": "Ashley is an energetic and ambitious Girlboss who quit the corporate 9-5 world to pursue her love of Crypto, travel and empowering others. Ashley is the creator of the Crypto Strategy Academy, a 7-week Crypto & Blockchain coaching program, author of “The Crypto Strategy Workbook for Youth” an interactive workbook that teaches youth about Crypto, NFTs and Blockchain, Founder of Fem T3ch (formerly Crypto Babes), a global community for women in tech and the Blacks on Blockchain, an initiative to increase the representation of the Black community in Crypto and Web3.Visit www.TheWrightSuccess.com for more info. IG: @TheWrightSuccess\n\n## Event details\n\nDate: Nov 14, 2026, 16:00\nVenue: Centre for Social Innovation\nOrganised by: The Wright Success\nEvent page: https://www.eventbrite.ca/e/the-money-shift-crypto-ai-the-future-of-money-tickets-1997326416077",
     "startDate": "2026-11-14T11:00:00-05:00",
     "endDate": "2026-11-14T15:30:00-05:00",
     "city": "Toronto",
@@ -2110,26 +1913,10 @@
     "coverImage": "/events/curated-money-shift-crypto-ai-future-money-2026-11-bad4b881.webp",
     "descriptionSource": {
       "url": "https://www.eventbrite.ca/e/the-money-shift-crypto-ai-the-future-of-money-tickets-1997326416077",
-      "fetchedAt": "2026-10-20T09:30:10.881Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "The Money Shift: Crypto, AI & The Future of Money Tickets, Saturday, November 14  •  11 AM - 3:30 PM | Eventbrite",
-      "sha256": "b434c617985159cd5cde2e9c88785e7af6d67142a8be5a6767077576f34eb1dc",
-      "evidence": [
-        {
-          "url": "https://www.eventbrite.ca/e/the-money-shift-crypto-ai-the-future-of-money-tickets-1997326416077",
-          "fetchedAt": "2026-10-20T08:08:28.645Z",
-          "sha256": "61e7f36bc74c718ad66cd00d12696c7c563a3ac6c2a2b5be2382d87ca0b4834d",
-          "retrievedVia": "html; JSON-LD and visible agenda",
-          "representation": "html"
-        },
-        {
-          "url": "https://www.eventbrite.ca/e/the-money-shift-crypto-ai-the-future-of-money-tickets-1997326416077",
-          "fetchedAt": "2026-10-20T09:30:10.881Z",
-          "sha256": "61e7f36bc74c718ad66cd00d12696c7c563a3ac6c2a2b5be2382d87ca0b4834d",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "fetchedAt": "2026-11-10T19:33:14.145Z",
+      "method": "official-section",
+      "pageTitle": "The Money Shift: Crypto, AI & The Future of Money",
+      "sha256": "cf8f370c5e82e040b12f5818500c1f75d5d812b349443e7278614b0f596cc606"
     },
     "id": "curated-money-shift-crypto-ai-future-money-2026-11-14",
     "url": "https://www.eventbrite.ca/e/the-money-shift-crypto-ai-the-future-of-money-tickets-1997326416077",
@@ -2209,7 +1996,7 @@
   },
   {
     "name": "Bitcoin/Altcoins & Cryptocurrency Enthusiast Night - Crypto Gathering",
-    "description": "Crypto Gatherings hosts a three-hour evening for cryptocurrency discussion at Dawson 39 Restaurant & Bar in New York.",
+    "description": "Bitcoin/Altcoins & Cryptocurrency Enthusiast Night - Crypto Gathering Tickets, Monday, November 30 • 6:30 PM - 9:30 PM | Eventbrite • • • • • • Sales ended Bitcoin/Altcoins & Cryptocurrency Enthusiast Night - Crypto Gathering C ByCrypto Gatherings Dawson 39 Restaurant & BarNew York, NY Monday, November 30 • 6:30 PM - 9:30 PM Overview Crypto Gathering - Discuss Everything Crypto ***FREE BITCOIN TOKEN (PHYSICAL COIN)*** Good to know Highlights • 3 hours • In person • Refund Policy Refunds up to 7 days before event Highlights • 3 hours • In person • Refund Policy Refunds up to 7 days before event Location Dawson 39 Restaurant & Bar 54 West 39th Street New York, NY 10018 How do you want to get there? • Driving • Public transport • Biking • Walking Organized by C Crypto Gatherings Report this event More events from Crypto Gatherings Discover more events from Crypto Gatherings, from Business to other experiences you might love. You might also like... Browse more events with different dates, prices, and formats to find your next great experience. Still looking for the right event? Explore all events in New York and filter by date, category, and more to find the perfect fit. • United States Events • New York Events • Things to do in New York, New York • New York networking • New York Business networking Sales ended Mon, Nov 30 • 6:30 PM",
     "startDate": "2026-11-30T18:30:00-05:00",
     "endDate": "2026-11-30T21:30:00-05:00",
     "city": "New York",
@@ -2230,26 +2017,10 @@
     "coverImage": "/events/curated-bitcoin-altcoins-cryptocurrency-enthusiast-00a7e407.webp",
     "descriptionSource": {
       "url": "https://www.eventbrite.com/e/bitcoinaltcoins-cryptocurrency-enthusiast-night-crypto-gathering-tickets-1981206450827",
-      "fetchedAt": "2026-10-20T09:30:11.300Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Bitcoin/Altcoins & Cryptocurrency Enthusiast Night - Crypto Gathering Tickets, Monday, November 30  •  6:30 PM - 9:30 PM | Eventbrite",
-      "sha256": "6c1ec3caf4c9426cf8cfa8c5cc5aec684105aceead6ef750f5ad3e49514a4699",
-      "evidence": [
-        {
-          "url": "https://www.eventbrite.com/e/bitcoinaltcoins-cryptocurrency-enthusiast-night-crypto-gathering-tickets-1981206450827",
-          "fetchedAt": "2026-10-20T08:05:46.263Z",
-          "sha256": "6275ed8ccd0c6513aa1e97eec54e65c05ab3601efc372179c0a0310e87257e27",
-          "retrievedVia": "html; JSON-LD and visible event summary",
-          "representation": "html"
-        },
-        {
-          "url": "https://www.eventbrite.com/e/bitcoinaltcoins-cryptocurrency-enthusiast-night-crypto-gathering-tickets-1981206450827",
-          "fetchedAt": "2026-10-20T09:30:11.300Z",
-          "sha256": "6275ed8ccd0c6513aa1e97eec54e65c05ab3601efc372179c0a0310e87257e27",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "fetchedAt": "2026-11-10T19:33:14.212Z",
+      "method": "official-section",
+      "pageTitle": "Bitcoin/Altcoins & Cryptocurrency Enthusiast Night - Crypto Gathering",
+      "sha256": "f71787d10e51661cd564fa46e8d636013d8f0d31fdcabe2c1833c37419c1b734"
     },
     "id": "curated-bitcoin-altcoins-cryptocurrency-enthusiast-night-crypto-gathering-2026-11-30",
     "url": "https://www.eventbrite.com/e/bitcoinaltcoins-cryptocurrency-enthusiast-night-crypto-gathering-tickets-1981206450827",
@@ -2269,7 +2040,7 @@
   },
   {
     "name": "Blockchain Tech Summit (4th Annual)",
-    "description": "Global Startup Ecosystem lists a two-hour blockchain gathering for entrepreneurs, investors and creatives in New York. The venue has not been announced.",
+    "description": "Blockchain Tech Summit (4th Annual) Tickets, Tuesday, September 28, 2027 • 11 AM - 1 PM | Eventbrite • • • • Blockchain Tech Summit (4th Annual) ByGlobal Startup Ecosystem Location TBANew York, NY Tuesday, September 28, 2027 • 11 AM - 1 PM Overview Blockchain Tech Summit is the world’s most exclusive event featuring hundreds of entrepreneurs, investors, pioneers, and creatives together. Good to know Highlights • 2 hours • In person • Refund Policy No refunds Highlights • 2 hours • In person • Refund Policy No refunds Location Location TBA TBA New York, NY 10036 How do you want to get there? • Driving • Public transport • Biking • Walking Organized by Global Startup Ecosystem Report this event More events from Global Startup Ecosystem Discover more events from Global Startup Ecosystem, from Business to other experiences you might love. You might also like... Browse more events with different dates, prices, and formats to find your next great experience. Still looking for the right event? Explore all events in New York and filter by date, category, and more to find the perfect fit. • United States Events • New York Events • Things to do in New York, New York • New York networking • New York Business networking",
     "startDate": "2027-09-28T11:00:00-04:00",
     "endDate": "2027-09-28T13:00:00-04:00",
     "city": "New York",
@@ -2284,26 +2055,10 @@
     "coverImage": "/events/curated-blockchain-tech-summit-4th-annual-2027-09--35e64007.webp",
     "descriptionSource": {
       "url": "https://www.eventbrite.com/e/blockchain-tech-summit-4th-annual-tickets-1990305841349",
-      "fetchedAt": "2026-10-20T09:30:11.379Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Blockchain Tech Summit (4th Annual) Tickets, Tuesday, September 28, 2027  •  11 AM - 1 PM | Eventbrite",
-      "sha256": "d7773813cfd611d798056c4a4acf62a2246c1ec55ddf55cf5b32ec99c2159080",
-      "evidence": [
-        {
-          "url": "https://www.eventbrite.com/e/blockchain-tech-summit-4th-annual-tickets-1990305841349",
-          "fetchedAt": "2026-10-20T08:05:45.214Z",
-          "sha256": "11c8f69486769d666a9b5a0fdc5b799c04ce1d5fc811028422258092fdad654f",
-          "retrievedVia": "html; JSON-LD and visible registration summary",
-          "representation": "html"
-        },
-        {
-          "url": "https://www.eventbrite.com/e/blockchain-tech-summit-4th-annual-tickets-1990305841349",
-          "fetchedAt": "2026-10-20T09:30:11.379Z",
-          "sha256": "9f21c30e63c34dd9065b5c0d88e42041220fac644c3d786c4b382dc3ade42c73",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "fetchedAt": "2026-11-10T19:33:14.255Z",
+      "method": "official-section",
+      "pageTitle": "Blockchain Tech Summit (4th Annual)",
+      "sha256": "2e32914ab4b3c2b08202576def445e289e1af6caf873478d2aa661a222d8b0be"
     },
     "id": "curated-blockchain-tech-summit-4th-annual-2027-09-28",
     "url": "https://www.eventbrite.com/e/blockchain-tech-summit-4th-annual-tickets-1990305841349",
@@ -2522,7 +2277,7 @@
   },
   {
     "name": "Get Tech Vibes. Get Connected. Get Funded.",
-    "description": "The Vancouver event includes a 6 PM founder AMA with Hussein Hallak and Mike Nabavi. Hallak's announced topic is Momentable and bringing museum artwork into Web3 on Flow. The program also includes time to meet other founders and investors. Attendance is free.",
+    "description": "## Get Tech Vibes. Get Connected. Get Funded. Free to attend, happy hour prices all night, and a free beer for the first guests through the door. Arrive before 6 PM. Vancouver's founders, angel investors, creators, and Web3 builders in one room. Hear from two serial founders with multiple exits, meet angel investors, and keep the night going with a live DJ. What to expect: • 5-6 PM: Doors + networking. Grab your free beer and appetizers early arrivals and meet founders, investors, and operators. • 6-7 PM: Founder AMA2 (starts sharply at 6). Real stories and straight answers from Hussein Hallak and Mike Nabavi, with angel investors on hand. Bring your questions. • 7 PM-close: Live DJ + networking. Keep the conversations going. On stage: Hussein Hallak is the author of the Amazon bestseller, The Dark Art of Life Mastery, and a serial entrepreneur with two exits and 22 businesses built across Damascus, Dubai and Vancouver. His first tech company was acqui-hired by Spacetoon, the Disney of the Middle East. He co-founded CreativeArab, the world's first and largest online marketplace of Middle Eastern art, built award-winning creative agencies, and led product, sales and strategy teams serving brands like P&G, Unilever, Universal and Disney. He was General Manager and Head Mentor of Launch Academy, Vancouver's largest startup hub, whose 6,500+ founders have gone on to raise over $2.5 billion. He spent two seasons on the tech panel of Our City with Kirk LaPointe on RoundHouse Radio, and was tech lead on MBC's No. 1 morning show, watched by 40 million viewers. Today he is founder and CEO of Next Decentrum and editor of The Streetlight on Substack. Mike Nabavi, six-time founder. He sold his first company, started in university, after growing it past 35 people. He drafted the business plan behind Guest-Tek's TSX IPO, consulted at Deloitte, ran a tech startup for a decade before exiting, and has since backed numerous startups. His payments venture LavaPay had a pipeline nearing $9M a month when its banks shut it down, which led to Omnieon, infrastructure for federated finance. Today he works as an interim or fractional executive for early-stage and owner-operated companies. Ask Mike anything, including what he got wrong. Who should come: founders looking to raise, investors looking for deal flow, and operators and creators building in Vancouver. Register to save your spot, and arrive early: capacity is limited and the free keg of beer goes to early guest arrivals. Presented by The Art Party (AV, sound, live DJs) · The Basement (160 capacity) · Hastings Crossing BIA · Vancouver News Livestream with support from Impresario Partners, a consulting and VC firm, (this event will be livestreamed to 10,000+ viewers) · Micro Media Solutions for photography · Canadian Allied Services for financial advice. ## Bringing new audiences into the Hastings corridor. Hastings Crossing BIA is an organization that takes a leadership role in managing change and shaping a more resilient, inclusive and sustainable local economy here in the Downtown Eastside. Through collaboration with its business members, grassroots, government, private sector and non-profit partners we bridge the needs of local businesses with the capacity of community focused organizations to foster a vibrant, healthy and diverse area for all – whether you’re here every day or just for the afternoon. This event brings new energy to the Hastings corridor and supports the Hastings Crossing BIA's work to grow local business and entrepreneurship pathways. More info: https://gettechvibes.com/",
     "startDate": "2026-11-11T00:00:00.000Z",
     "endDate": "2026-11-11T05:00:00.000Z",
     "timezone": "America/Vancouver",
@@ -2565,26 +2320,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/lqr28m0r",
-      "fetchedAt": "2026-10-20T09:30:12.731Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T18:32:52.973Z",
+      "method": "official-section",
       "pageTitle": "Get Tech Vibes. Get Connected. Get Funded. · Luma",
-      "sha256": "315dfc621b26ef3626e1ffa62339a16f163889d0b78a6d0a0d25e67de94081a0",
-      "evidence": [
-        {
-          "url": "https://luma.com/lqr28m0r",
-          "fetchedAt": "2026-10-20T08:07:31.649Z",
-          "sha256": "1a1dc919ec6e46097dcb9a33b9d9dc5a546332352cf8200f899fdcf11cd984f8",
-          "retrievedVia": "html; __NEXT_DATA__ and event agenda",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/lqr28m0r",
-          "fetchedAt": "2026-10-20T09:30:12.731Z",
-          "sha256": "c26a158f993dbe31596a38eef86de337f439fadcbe864a75ed06899b48a642ab",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "40c25ba2b4fb9964a9f7039f893dd7deef6c5e12f46e41b884cbd7d9df5922d1"
     },
     "id": "discovery-evt-MRAfeaIFhOGrtMv",
     "url": "https://luma.com/lqr28m0r",
@@ -3201,7 +2940,7 @@
   },
   {
     "name": "Montreal VibeStation",
-    "description": "Superteam Canada offers a Montréal coworking day for working on projects and meeting teammates. Lunch, snacks and drinks are provided. Attendance is free with approval; the address is shared with guests.",
+    "description": "Join Superteam Canada every Friday at our co-working space for builders, leaders and creatives. Here's what you can expect at our VibeStation: • Desk-space, couches and public tables are available however you like to work. • Drinks, snacks, and lunch served. • Network and connect with other builders and enthusiasts in the ecosystem. • Get hands-on experience by working on your project, meeting new people, finding team members, or joining an existing team. Attendance is free, approval required. For more info, join the Solana Canada telegram group: https://t.me/+Dm3WujI--Go1ZjQ0 By signing up to this event you agree that Superteam Canada can contact you about future events, major news, and more.",
     "startDate": "2026-11-27T14:30:00.000Z",
     "endDate": "2026-11-27T23:00:00.000Z",
     "timezone": "America/Toronto",
@@ -3240,26 +2979,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/cfw1k6ge",
-      "fetchedAt": "2026-10-20T09:30:20.368Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T18:32:52.959Z",
+      "method": "official-section",
       "pageTitle": "Montreal VibeStation · Luma",
-      "sha256": "a8865373a88bded2900b8c3589f0fb1c25506b4d2fc9f03c10f9bba59049d5be",
-      "evidence": [
-        {
-          "url": "https://luma.com/cfw1k6ge",
-          "fetchedAt": "2026-10-20T08:06:51.335Z",
-          "sha256": "269a71dc95cce20f0ceb3ea548e67c20f7b53ce4a28eacf7a90cb6722916d578",
-          "retrievedVia": "html; __NEXT_DATA__; only public city retained",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/cfw1k6ge",
-          "fetchedAt": "2026-10-20T09:30:20.368Z",
-          "sha256": "71d211bb001f488a28b9ddafc7490abaa8609694d3aa9986ca7fe386f33279fe",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "9cdf4050c83107f19682fdf87c136f521b7aad069488591f9323a6c03b9a8d03"
     },
     "id": "discovery-evt-3OzyUMXsLNiVr57",
     "url": "https://luma.com/cfw1k6ge",
@@ -3269,7 +2992,7 @@
   },
   {
     "name": "Toronto VibeStation",
-    "description": "A Superteam Canada coworking day with space for project work and meeting collaborators. Lunch, snacks and drinks are provided. Attendance is free with approval, and the Toronto address is shared with guests.",
+    "description": "Join Superteam Canada every Friday at our co-working space for builders, leaders and creatives. Here's what you can expect at our VibeStation: • Desk-space, couches, private rooms, or public tables are available however you like to work. • Drinks, snacks, and lunch served. • Network and connect with other builders and enthusiasts in the ecosystem. • Get hands-on experience by working on your project, meeting new people, finding team members, or joining an existing team. Attendance is free, approval required. For more info, join the Solana Canada telegram group: https://t.me/+Dm3WujI--Go1ZjQ0 By signing up to this event you agree that Superteam Canada can contact you about future events, major news, and more.",
     "startDate": "2026-11-27T14:30:00.000Z",
     "endDate": "2026-11-27T23:00:00.000Z",
     "timezone": "America/Toronto",
@@ -3306,26 +3029,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/ih7o5t51",
-      "fetchedAt": "2026-10-20T09:30:21.009Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T18:32:53.523Z",
+      "method": "official-section",
       "pageTitle": "Toronto VibeStation · Luma",
-      "sha256": "88bf2f5b6d7d72df155dfd120fb1b7402b17344d0f9e57974d682272d71d458a",
-      "evidence": [
-        {
-          "url": "https://luma.com/ih7o5t51",
-          "fetchedAt": "2026-10-20T08:06:51.982Z",
-          "sha256": "45db1c77a4942e4afe5a1605222a9548a2214116f3731484fcf0a805d41d21f2",
-          "retrievedVia": "html; __NEXT_DATA__; only public city retained",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/ih7o5t51",
-          "fetchedAt": "2026-10-20T09:30:21.009Z",
-          "sha256": "a903b9a516266f39dd85e855b93606edade4c58f2a283402d78ada36924342cf",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "00482a2541a051f6d8fe09ef30762af1e9ccbc9b656bdc0d3b87a8ca3e468028"
     },
     "id": "discovery-evt-SGziONOytDR21GD",
     "url": "https://luma.com/ih7o5t51",
@@ -3335,7 +3042,7 @@
   },
   {
     "name": "Toronto VibeStation",
-    "description": "Superteam Canada hosts a coworking day for project work and meeting potential teammates. Lunch, snacks and drinks are included. Attendance is free with approval; the Toronto address is shared with guests.",
+    "description": "Join Superteam Canada every Friday at our co-working space for builders, leaders and creatives. Here's what you can expect at our VibeStation: • Desk-space, couches, private rooms, or public tables are available however you like to work. • Drinks, snacks, and lunch served. • Network and connect with other builders and enthusiasts in the ecosystem. • Get hands-on experience by working on your project, meeting new people, finding team members, or joining an existing team. Attendance is free, approval required. For more info, join the Solana Canada telegram group: https://t.me/+Dm3WujI--Go1ZjQ0 By signing up to this event you agree that Superteam Canada can contact you about future events, major news, and more.",
     "startDate": "2026-12-04T14:30:00.000Z",
     "endDate": "2026-12-04T23:00:00.000Z",
     "timezone": "America/Toronto",
@@ -3372,26 +3079,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/jrrdjwua",
-      "fetchedAt": "2026-10-20T09:30:21.123Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T18:32:53.610Z",
+      "method": "official-section",
       "pageTitle": "Toronto VibeStation · Luma",
-      "sha256": "4a6ef8549a8172904d473db51da5a298d5d88eb8dffafd84bee0d9980174fb31",
-      "evidence": [
-        {
-          "url": "https://luma.com/jrrdjwua",
-          "fetchedAt": "2026-10-20T08:06:52.352Z",
-          "sha256": "9fd515af17aa441bad67616d879d69534b8546e850b7f7e8542fc78fb280926d",
-          "retrievedVia": "html; __NEXT_DATA__; only public city retained",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/jrrdjwua",
-          "fetchedAt": "2026-10-20T09:30:21.123Z",
-          "sha256": "2adbc7aed951f85f6ba7fa99ee7baca70718ad28162c411348624646ce77c977",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "04c59f1c78e43b7b15b6ae7349f3a1c40eac081e63cc690528014353485bb445"
     },
     "id": "discovery-evt-pp8byfBBIuDs1mx",
     "url": "https://luma.com/jrrdjwua",
@@ -3401,7 +3092,7 @@
   },
   {
     "name": "Montreal VibeStation",
-    "description": "Superteam Canada's Montréal coworking day offers space for projects and meeting collaborators. Lunch, snacks and drinks are provided. Attendance is free with approval; the address is shared with guests.",
+    "description": "Join Superteam Canada every Friday at our co-working space for builders, leaders and creatives. Here's what you can expect at our VibeStation: • Desk-space, couches and public tables are available however you like to work. • Drinks, snacks, and lunch served. • Network and connect with other builders and enthusiasts in the ecosystem. • Get hands-on experience by working on your project, meeting new people, finding team members, or joining an existing team. Attendance is free, approval required. For more info, join the Solana Canada telegram group: https://t.me/+Dm3WujI--Go1ZjQ0 By signing up to this event you agree that Superteam Canada can contact you about future events, major news, and more.",
     "startDate": "2026-12-04T14:30:00.000Z",
     "endDate": "2026-12-04T23:00:00.000Z",
     "timezone": "America/Toronto",
@@ -3440,26 +3131,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/pvuo6rrc",
-      "fetchedAt": "2026-10-20T09:30:22.025Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T18:32:53.859Z",
+      "method": "official-section",
       "pageTitle": "Montreal VibeStation · Luma",
-      "sha256": "52feb48a8f00d18e17d3692bf8730ea349871ff009e29a53d3ce0c8602752968",
-      "evidence": [
-        {
-          "url": "https://luma.com/pvuo6rrc",
-          "fetchedAt": "2026-10-20T08:06:52.919Z",
-          "sha256": "76daa9083ff84b1346aad44ec469a2f698904ca9307cb0422d41524f21f68699",
-          "retrievedVia": "html; __NEXT_DATA__; only public city retained",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/pvuo6rrc",
-          "fetchedAt": "2026-10-20T09:30:22.025Z",
-          "sha256": "88dd7577902f9cbefb3ecda4e7a30157f4598a834559ac2e5dc43308e6d7f5b6",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "f7e650532b5327a2bb9f83eda3ebdee1abafdf7364ef4c19e7f8d7582f795891"
     },
     "id": "discovery-evt-VNxCBFaf8gbSOl1",
     "url": "https://luma.com/pvuo6rrc",
@@ -3916,7 +3591,7 @@
   },
   {
     "name": "Community Roundtable",
-    "description": "An open Fort Worth DAO roundtable about the group's programs, active event planning and current topics. Participants can ask how the DAO works or bring questions about deep technology.",
+    "description": "Weekly Fort Worth DAO Community Roundtable. All are welcomed to get involved and see how the DAO works + bring any open questions or issues related to Deep Tech. We discuss our active event planning, programs, current events, and more. Get involved with a modern day digital sovereignty focused guild!\n\nAbout the organiser: Web3 Excellence of Fort Worth\n\n## Tickets Standard\n\n## Event details\n\nDate: Nov 11, 2026, 12:00 (America/Chicago)\nVenue: The DEC Network @ Fort Worth\nHosts: Tobalo Valderas\nOrganised by: Fort Worth DAO\nAbout the organiser: Web3 Excellence of Fort Worth\nTicket types: Standard\nTickets: Free\nRegistration: open\nEvent page: https://luma.com/qfu068o3",
     "startDate": "2026-11-11T18:00:00.000Z",
     "endDate": "2026-11-11T19:00:00.000Z",
     "timezone": "America/Chicago",
@@ -3959,26 +3634,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/qfu068o3",
-      "fetchedAt": "2026-10-20T09:30:25.511Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T19:33:14.287Z",
+      "method": "official-section",
       "pageTitle": "Community Roundtable · Luma",
-      "sha256": "b9baf25b753e56608279a166e816fd0c8f6ff2c3eba3024d1cdc84b3ad6bc569",
-      "evidence": [
-        {
-          "url": "https://luma.com/qfu068o3",
-          "fetchedAt": "2026-10-20T08:08:31.575Z",
-          "sha256": "6151682c6a689b86b8972ab964e7a61968f715e13b522b192f9a0087781bce42",
-          "retrievedVia": "html; __NEXT_DATA__ and event description",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/qfu068o3",
-          "fetchedAt": "2026-10-20T09:30:25.511Z",
-          "sha256": "abb7b23277d7f509a3b09039f2ff2529cbb6556b27fe2614c7e90172542ba083",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "b03f231c613c61b610557360d93a3f0fa1cd2de25f3cef5ba0c8a0d21a8b3888"
     },
     "id": "discovery-evt-OXTmaGCYwsFUJLV",
     "url": "https://luma.com/qfu068o3",
@@ -3999,7 +3658,7 @@
   },
   {
     "name": "Community Roundtable",
-    "description": "Fort Worth DAO invites participants to discuss its programs, event planning and current topics. The open roundtable also takes questions about how the DAO works and deep technology.",
+    "description": "Weekly Fort Worth DAO Community Roundtable. All are welcomed to get involved and see how the DAO works + bring any open questions or issues related to Deep Tech. We discuss our active event planning, programs, current events, and more. Get involved with a modern day digital sovereignty focused guild!\n\nAbout the organiser: Web3 Excellence of Fort Worth\n\n## Tickets Standard\n\n## Event details\n\nDate: Nov 18, 2026, 12:00 (America/Chicago)\nVenue: The DEC Network @ Fort Worth\nHosts: Tobalo Valderas\nOrganised by: Fort Worth DAO\nAbout the organiser: Web3 Excellence of Fort Worth\nTicket types: Standard\nTickets: Free\nRegistration: open\nEvent page: https://luma.com/i5yip7zr",
     "startDate": "2026-11-18T18:00:00.000Z",
     "endDate": "2026-11-18T19:00:00.000Z",
     "timezone": "America/Chicago",
@@ -4042,26 +3701,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/i5yip7zr",
-      "fetchedAt": "2026-10-20T09:30:25.543Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T19:33:14.357Z",
+      "method": "official-section",
       "pageTitle": "Community Roundtable · Luma",
-      "sha256": "122b5314998c4a41d2f4592f05059518692a04e9ff52aa90d8e285bbb7670f57",
-      "evidence": [
-        {
-          "url": "https://luma.com/i5yip7zr",
-          "fetchedAt": "2026-10-20T08:08:31.984Z",
-          "sha256": "0fb77c07cf93b10e2a1128da96ce2d5cbb4da4b30ff70b9cadfa345775edc610",
-          "retrievedVia": "html; __NEXT_DATA__ and event description",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/i5yip7zr",
-          "fetchedAt": "2026-10-20T09:30:25.543Z",
-          "sha256": "9bb7fa34534d60fbe0505f918a59f26be6163b4311f15212d3a6f1d6c0898ccb",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "d1e311f2878189137b44521d4a94175f2c9647d11d1194c7c9ceb7b10f3fc06f"
     },
     "id": "discovery-evt-JGCnNvxry6bJozI",
     "url": "https://luma.com/i5yip7zr",
@@ -4082,7 +3725,7 @@
   },
   {
     "name": "Community Roundtable",
-    "description": "Fort Worth DAO holds an open roundtable on its programs, event planning and current topics. Participants can learn about the DAO's operations and bring questions about deep technology.",
+    "description": "Weekly Fort Worth DAO Community Roundtable. All are welcomed to get involved and see how the DAO works + bring any open questions or issues related to Deep Tech. We discuss our active event planning, programs, current events, and more. Get involved with a modern day digital sovereignty focused guild!\n\nAbout the organiser: Web3 Excellence of Fort Worth\n\n## Tickets Standard\n\n## Event details\n\nDate: Nov 25, 2026, 12:00 (America/Chicago)\nVenue: The DEC Network @ Fort Worth\nHosts: Tobalo Valderas\nOrganised by: Fort Worth DAO\nAbout the organiser: Web3 Excellence of Fort Worth\nTicket types: Standard\nTickets: Free\nRegistration: open\nEvent page: https://luma.com/otbfbzcd",
     "startDate": "2026-11-25T18:00:00.000Z",
     "endDate": "2026-11-25T19:00:00.000Z",
     "timezone": "America/Chicago",
@@ -4125,26 +3768,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/otbfbzcd",
-      "fetchedAt": "2026-10-20T09:30:26.322Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T19:33:14.399Z",
+      "method": "official-section",
       "pageTitle": "Community Roundtable · Luma",
-      "sha256": "d94122b7cb2aa588e70af59a1a7b0d8e9fb53cee09e4ef01166922b06b65655a",
-      "evidence": [
-        {
-          "url": "https://luma.com/otbfbzcd",
-          "fetchedAt": "2026-10-20T08:08:32.667Z",
-          "sha256": "c0d74087ea1bc3db2b08303b45abc1c113b0a62bdf73795c14b01dbec7457ae8",
-          "retrievedVia": "html; __NEXT_DATA__ and event description",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/otbfbzcd",
-          "fetchedAt": "2026-10-20T09:30:26.322Z",
-          "sha256": "9254af52319cd85d77ae10f359fa95717606559d688939b1253f31ee6fcc00c4",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "636504c08380ee4001e375529568125815ec343635e0ddc61bb07c8c3e39e043"
     },
     "id": "discovery-evt-3BQ0bAwC0Zr5l8H",
     "url": "https://luma.com/otbfbzcd",
@@ -4889,7 +4516,7 @@
   },
   {
     "name": "Krypto-skatt v/ Reese Legal",
-    "description": "Reese Legal presents Norwegian crypto-tax topics for Oslo Blockchain Meetup, including gains and losses, DeFi transactions, loans, gifts and holdings. The session covers calculation tools, documentation, tax-return reporting and common mistakes. Attendees can submit questions in advance.",
+    "description": "Krypto-skatt: Reese Legal kommer til Oslo Blockchain Meetup! Skattereglene for • gevinst og tap ved salg av kryptovaluta, DEFI-transaksjoner, lån, gaver etc. • formue i kryptovaluta Hvordan beregne gevinst, tap og formue riktig (selv med mange transaksjoner). Tips til verktøy for beregning og dokumentasjon. Hvordan kryptovaluta skal føres i skattemeldingen - praktisk veiledning. Hva man konkret risikerer hvis det blir feil eller ikke rapporterer. De vanligste feilene, og hvordan unngå dem. Eksempler fra Skatteetatens praksis. Dokumentasjon av midlenes opprinnelse. Send gjerne spørsmål på forhånd til hrh@reeselegal.no Etter presentasjonen går vi til en bar like ved og er sosiale. Sponsor: [https://events.kaupr.io/](https://events.kaupr.io/) Sponsor: [https://reeselegal.no](https://reeselegal.no)",
     "startDate": "2026-11-25T17:00:00+01:00",
     "endDate": "2026-11-25T19:00:00+01:00",
     "city": "Oslo",
@@ -4906,26 +4533,10 @@
     "attendanceMode": "offline",
     "descriptionSource": {
       "url": "https://www.meetup.com/oslo-blockchain-meetup/events/316768461/",
-      "fetchedAt": "2026-10-20T09:30:33.359Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Krypto-skatt v/ Reese Legal, Wed, Nov 25, 2026, 5:00 PM   | Meetup",
-      "sha256": "5ca5d1427c3bab099c3f0acb8568ebf952c968894c17f478299abca85dfc0514",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/oslo-blockchain-meetup/events/316768461/",
-          "fetchedAt": "2026-10-20T08:05:06.335Z",
-          "sha256": "49c03af6a0d87e4104feb4fcc7ff0e8c7cceae9629415161b4ecc4833560da9f",
-          "retrievedVia": "Public HTML and Event JSON-LD excerpts; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://www.meetup.com/oslo-blockchain-meetup/events/316768461/",
-          "fetchedAt": "2026-10-20T09:30:33.359Z",
-          "sha256": "d66391b4e2fd083226adeca9dab3a82b1a1f20e4e1ad3d98e16447b1f89b891b",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "fetchedAt": "2026-11-10T19:33:14.428Z",
+      "method": "official-section",
+      "pageTitle": "Krypto-skatt v/ Reese Legal, Wed, Nov 25, 2026, 5:00 PM | Meetup",
+      "sha256": "0032c52eb3012bb234d4ea7f85167362553ff4a9a4ce5ddb316f1216cf42d72e"
     },
     "id": "mu-316768461",
     "url": "https://www.meetup.com/oslo-blockchain-meetup/events/316768461/",
@@ -5054,7 +4665,7 @@
   },
   {
     "name": "Crypto Dinner - Rotterdam",
-    "description": "CryptoCanal hosts a small dinner in Rotterdam with OtterSec and BlockSight. Guests can discuss their crypto projects over dinner. Places are limited and the hosts select attendees by application.",
+    "description": "Spend the evening in Rotterdam with CryptoCanal for a lively dinner and good conversation over great food. Connect, meet fellow crypto folks, swap ideas, share what you’re working on, and enjoy a relaxed night out. Limited spots. Dinner guest will be selected upon application. Crypto Dinner Partners OtterSec (https://osec.io/)- Trusted by teams building the next generation of crypto. Auditing Layer 1 foundations, wallets, DeFi protocols, bridges, and the infrastructure that connects it all. BlockSight (https://blocksightlabs.com/)- BlockSight is an AI-based tool delivered as an API to help applications detect potential fraud, assess liquidity risk, and retain users across blockchains. CryptoCanal (https://www.cryptocanal.org/?utm_source=luma) offers education, event and consultancy services for the crypto industry and we're not afraid to be political. Follow us on Twitter (https://twitter.com/cryptocanal?utm_source=luma) and join our Telegram group (https://t.me/CryptoCanalCommunity?utm_source=luma) for the daily updates.",
     "startDate": "2026-11-18T17:30:00.000Z",
     "endDate": "2026-11-18T20:00:00.000Z",
     "timezone": "Europe/Amsterdam",
@@ -5094,19 +4705,10 @@
     "coverImage": "/events/discovery-evt-d2jbh5c6zkzdrch-d5150a7f.webp",
     "descriptionSource": {
       "url": "https://luma.com/dinnerRotterdam",
-      "fetchedAt": "2026-10-20T09:30:34.326Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T18:32:54.656Z",
+      "method": "official-section",
       "pageTitle": "Crypto Dinner - Rotterdam · Luma",
-      "sha256": "e8b8154778b0a8aa7b73d7016c2a51b1f25ba9d8c50fc0d99e433983129e8f6e",
-      "evidence": [
-        {
-          "url": "https://luma.com/dinnerRotterdam",
-          "fetchedAt": "2026-10-20T09:30:34.326Z",
-          "sha256": "4b5dd95a56f0bddb5beffb9192379509c8bbb662aaca6e87801203b7d2185b60",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "39ad201ca4e9d251a3dd0ef8b7a10ace49daa52b2bf148d699ccf0b175c3b798"
     },
     "id": "discovery-evt-d2jbH5c6zkZDRCH",
     "url": "https://luma.com/dinnerRotterdam",
@@ -5115,7 +4717,7 @@
   },
   {
     "name": "Crypto Dinner - Amsterdam",
-    "description": "CryptoCanal hosts an Amsterdam dinner with OtterSec and BlockSight for conversation about attendees' crypto projects. The hosts select guests by application because places are limited.",
+    "description": "Spend the evening in Amsterdam with CryptoCanal for a lovely dinner and good conversation over great food. Connect, meet fellow crypto folks, swap ideas, share what you’re working on, and enjoy a relaxed night out. Limited spots. Dinner guest will be selected upon application. Menu options Crypto Dinner Partners OtterSec (https://osec.io/)- Trusted by teams building the next generation of crypto. Auditing Layer 1 foundations, wallets, DeFi protocols, bridges, and the infrastructure that connects it all. BlockSight (https://blocksightlabs.com/)- BlockSight is an AI-based tool delivered as an API to help applications detect potential fraud, assess liquidity risk, and retain users across blockchains. CryptoCanal (https://www.cryptocanal.org/?utm_source=luma) offers education, event and consultancy services for the crypto industry and we're not afraid to be political. Follow us on Twitter (https://twitter.com/cryptocanal?utm_source=luma) and join our Telegram group (https://t.me/CryptoCanalCommunity?utm_source=luma) for the daily updates.",
     "startDate": "2026-11-20T17:30:00.000Z",
     "endDate": "2026-11-20T20:00:00.000Z",
     "timezone": "Europe/Amsterdam",
@@ -5155,19 +4757,10 @@
     "coverImage": "/events/discovery-evt-dnwwnyabnyew8oc-d60f2cb9.webp",
     "descriptionSource": {
       "url": "https://luma.com/dinnerAmsterdam",
-      "fetchedAt": "2026-10-20T09:30:35.327Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T18:32:54.900Z",
+      "method": "official-section",
       "pageTitle": "Crypto Dinner - Amsterdam · Luma",
-      "sha256": "9f2d57f4f231730b6383719a9f9b05e2b1f2840eb8db6b8a22328f9b591cd43f",
-      "evidence": [
-        {
-          "url": "https://luma.com/dinnerAmsterdam",
-          "fetchedAt": "2026-10-20T09:30:35.327Z",
-          "sha256": "9495860f1e2f5ef638bb97ba1c6fc64726b607f36c8a5f528097d3bd589743a0",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "30bb390b5c21d56af5184a0d0ac96e4f54858999589aa924c484db9360bcdf61"
     },
     "id": "discovery-evt-DnwWNYAbNYeW8oC",
     "url": "https://luma.com/dinnerAmsterdam",
@@ -5236,7 +4829,7 @@
   },
   {
     "name": "onchainaustria.at Weihnachtsfeier 2026: BUNKER MODE",
-    "description": "OnchainAustria holds its year-end community gathering at Schankwirtschaft im Augarten, formerly the Bunkerei. The announced conversation topics include Bitcoin, Ethereum, DeFi, self-custody and hardware wallets. New participants are welcome.",
+    "description": "**Not your bunker, not your Christmas party!** Es wird wieder Zeit für ein physisches Treffen der OnchainAustria Community! Nach einem weiteren wilden Jahr voller Kursachterbahnen, Hacks, Scams, AI-Paranoia und Crypto-Chaos ziehen wir uns gemeinsam in den Bunker zurück und lassen das Jahr bei einem gemütlichen Get-together ausklingen. Passend zum Motto **BUNKER MODE** treffen wir uns in der ehemaligen *Bunkerei*, heute **Schankwirtschaft im Augarten**, direkt neben dem Wiener Flakturm. Eine passendere Location hätten wir wohl kaum finden können. Drinks, gute Gespräche und jede Menge Crypto-Talk – von Bitcoin und Ethereum über DeFi bis zu Self Custody, Hardware Wallets und der Frage, wie paranoid man 2026 eigentlich schon sein muss. Egal ob alter onchainaustria-Hase oder zum ersten Mal dabei: Alle Crypto-Interessierten sind herzlich willkommen! ** Wann:** Mittwoch, 18. November 2026 ** Wo:** Schankwirtschaft im Augarten (ehemals Bunkerei), Wien – direkt neben dem Flakturm ** Motto:** BUNKER MODE Wir freuen uns auf einen gemütlichen Abend mit euch! **Stay safe. Stay onchain. See you in the bunker!**",
     "startDate": "2026-11-18T18:00:00+01:00",
     "endDate": "2026-11-18T21:00:00+01:00",
     "city": "Wien",
@@ -5255,26 +4848,10 @@
     "attendanceMode": "offline",
     "descriptionSource": {
       "url": "https://www.meetup.com/onchainaustria/events/316959157/",
-      "fetchedAt": "2026-10-20T09:30:36.282Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "🎄 onchainaustria.at Weihnachtsfeier 2026 – BUNKER MODE 🔐, Wed, Nov 18, 2026, 6:00 PM   | Meetup",
-      "sha256": "764574d81df2aa251df98bf282845df001ada9fdbcc09ac0a5faa6b94a3c8a90",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/onchainaustria/events/316959157/",
-          "fetchedAt": "2026-10-20T08:06:25.778Z",
-          "sha256": "c9e0835c190403d13883e06148fb367b89f6387101dd7a95a9173be9c599c197",
-          "retrievedVia": "Public HTML and Event JSON-LD excerpts; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://www.meetup.com/onchainaustria/events/316959157/",
-          "fetchedAt": "2026-10-20T09:30:36.282Z",
-          "sha256": "07aa415be1248ba6fd5abe67d2b2c233418b24d85f3ce65e0a4832db8956e0c0",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "fetchedAt": "2026-11-10T19:33:14.498Z",
+      "method": "official-section",
+      "pageTitle": "🎄 onchainaustria.at Weihnachtsfeier 2026 – BUNKER MODE 🔐, Wed, Nov 18, 2026, 6:00 PM | Meetup",
+      "sha256": "ce2fabceae8d436b27b837b75b8fab53c56f51f75b88fd936ce05db28a647cb1"
     },
     "id": "mu-316959157",
     "url": "https://www.meetup.com/onchainaustria/events/316959157/",
@@ -5296,7 +4873,7 @@
   },
   {
     "name": "Bitcoin - Was unser Geld morgen wert ist",
-    "description": "Margot Richter gives an introductory Bitcoin talk for women at Females Fit for Finance's seventh event. She starts with how the monetary system works, then discusses Bitcoin, inflation and financial independence. The programme includes Q&A and discussion; attendance is free with optional donations.",
+    "description": "**Die 7. Females Fit for Finance-Edition hosted by Sara Bratke & Marika Cieslinski** **Thema**: Lerne mit Margot Richter über die Kryptowährung „Bitcoin“ und wie du zu deiner finanziellen Souveränität beitragen kannst **Über das Event** Die Möglichkeiten zu investieren und einen Wertspeicher zu finden, sind heute vielfältig und die Flut an Informationen kann schnell überfordern. Aktien, ETFs, Gold, Immobilien und dann gibt es da auch noch Kryptowährungen wie Bitcoin. Margot Richter zeigt, warum Bitcoin für sie ein spannendes Werkzeug ist, um sich als Frau mit finanzieller Unabhängigkeit, Inflation, Altersvorsorge und langfristigem Werterhalt auseinanderzusetzen. Das Event ist kostenlos (wir freuen uns über freiwillige Spenden). **Inhalt des Impuls-Vortrags** Bevor wir uns Bitcoin genauer ansehen, lohnt sich ein Blick auf etwas, das wir täglich verwenden, aber selten hinterfragen: unser Geldsystem. Margot gibt eine kurze Einführung, wie unser heutiges Geld eigentlich funktioniert, wer es beeinflusst und was das für den Wert unseres Geldes in Zukunft bedeutet. Darauf aufbauend führt Margot verständlich in die Welt von Bitcoin ein. Sie erklärt, was Bitcoin ist, was Bitcoin zum souveränen Wertspeicher machen kann und welche Vorteile und Möglichkeiten Bitcoin gegenüber anderen Investments bietet. Der Vortrag richtet sich an Frauen, die bisher wenig oder gar keine Berührung mit Bitcoin hatten und das Thema besser verstehen möchten. **Über Margot Richter** Margot beschäftigt sich seit 2020 intensiv mit Bitcoin, Finanz-und Wirtschaftsthemen. Sie gibt hierzu Einsteigerkurse via der Bildungsplatform \"Bitucation\", organisiert Bitcoin Veranstaltungen für Frauen und ist in der deutschsprachigen Bitcoin Community sehr engagiert. Sie gründete außerdem den \"Bitcoin Book Club\". Als ausgebildete Wanderinstruktorin leitet sie ebenfalls Wanderungen in Österreich. Margot arbeitet als selbstständige Physiotherapeutin in Wien. Vernetze dich mit Margot: \\- Webseite Bitucation [www.bitucation.com](http://www.bitucation.com/) \\- instagram @maggie_rahel \\- Telegram @makeitorange96 \\- Telegram Gruppe Buchclub [https://t.me/bitcoinbookclub](https://t.me/bitcoinbookclub) \\- Telegram Gruppe Wanderungen @21 Million steps to go \\- Margots Webseite [www.physiorichter.com](http://www.physiorichter.com/) **Ablauf des Abends** 18:15 Uhr – Ankommen & Netzwerken: bitte kommt rechtzeitig vor Beginn des Vortrages, damit das Ephata-Team genügend Zeit hat, euch kulinarisch zu versorgen. \\~ 19:00 Uhr – Impulsvortrag von Margot Richter Interaktive Q&A-Session Austausch und Diskussion unter den Teilnehmerinnen **Anmeldung** Die Veranstaltung ist kostenlos, wir freuen uns über eine freiwillige Kulturspende vor Ort, um unsere Kosten zu decken. Bitte meldet euch über Meetup an – sollte das nicht funktionieren, gerne per E-Mail an femalesfinance@gmx.net. Wir freuen uns auf einen inspirierenden Abend voller Aha-Momente und finanzieller Souveränität! ₿ Marika & Sara von Females Fit for Finance **Hinweis zu Fotos und Videos** Wir weisen darauf hin, dass am Veranstaltungsort Fotos und Videos angefertigt und zum Zweck der Veranstaltungsdokumentation im Internet und in Drucksorten veröffentlicht werden.",
     "startDate": "2026-11-19T18:15:00+01:00",
     "endDate": "2026-11-19T21:00:00+01:00",
     "city": "Wien",
@@ -5314,26 +4891,10 @@
     "attendanceMode": "offline",
     "descriptionSource": {
       "url": "https://www.meetup.com/females-fit-for-finance/events/316585521/",
-      "fetchedAt": "2026-10-20T09:30:36.299Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Bitcoin - Was unser Geld morgen wert ist, Thu, Nov 19, 2026, 6:15 PM   | Meetup",
-      "sha256": "dd6753c48b5b540337e6995b0a73da7034f4609cd4ef8fae19ccf2aba020d6b6",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/females-fit-for-finance/events/316585521/",
-          "fetchedAt": "2026-10-20T08:06:25.999Z",
-          "sha256": "0d033569eefd71aafc4c46ceb41b183eab45d06f3d7bd2c161c3a0aff47c7e00",
-          "retrievedVia": "Public HTML and Event JSON-LD excerpts; title quotation marks omitted; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://www.meetup.com/females-fit-for-finance/events/316585521/",
-          "fetchedAt": "2026-10-20T09:30:36.299Z",
-          "sha256": "486ab2b3ed2ee3aa6102a4d76df30e3892648bd0c98f9f56d35b7004579f3582",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "fetchedAt": "2026-11-10T19:33:14.543Z",
+      "method": "official-section",
+      "pageTitle": "Bitcoin - Was unser Geld morgen wert ist, Thu, Nov 19, 2026, 6:15 PM | Meetup",
+      "sha256": "d15af07c29c71946070f95cd9e4906a031835eb35d0cfc58d3b1ff99e0af1755"
     },
     "id": "mu-316585521",
     "url": "https://www.meetup.com/females-fit-for-finance/events/316585521/",
@@ -5549,7 +5110,7 @@
   },
   {
     "name": "Bitfest 2026",
-    "description": "Bitfest's four-day Manchester programme covers Bitcoin, Nostr and freedom technology. It includes Nostrshire on November 20, the main Bitcoin conference on November 21, and a Bitcoin/Nostr hackathon across November 20-21. Workshops, an exhibition, art and a Sunday community gathering are also announced.",
+    "description": "Bitfest 2026 — The UK's Largest Bitcoin Festival | Manchester Bitfest 2026 — The UK's Largest Bitcoin Festival • About Us • Events • Bitflix • Nostrshire • Hackathon • nPub Dub • Bitfest • Pepe.X • NME Concert • Sunday Social • FULL AGENDA • Get Tickets • Partners • Collaborate • Media • Cinematics • Blog • Gallery • Media Kit • FAQ • Join Us 19 - 22 NOVEMBER 2026 PENDULUM HOTEL, MANCHESTER WHAT IS BITFEST? Bitfest is the UK’s flagship Bitcoin festival. The 2026 edition is a four-day Bitcoin festival in Manchester, taking place from 19–22 November 2026. It brings together Bitcoiners, builders, communities, artists, families and newcomers for talks, workshops, an expo, art, cinema, gaming, live music, Nostr and freedom technology. So… is it a conference? Well, yes and no. Bitfest is a space where people from all walks of life can come together for a weekend powered by Bitcoiners. It’s about community as much as it is about technology: a place to connect, learn, explore, and actually experience Bitcoin culture in action. While talks and panels are part of the programme, Bitfest goes far beyond a traditional conference – incorporating talks, discussions and hands-on workshops covering not just Bitcoin, but other freedom-adjacent topics. Our inaugural event, Bitfest 2025, featured 5 events and 8 themed zones across 3 days, with 60+ speakers and artists, all hosted across multiple nearby venues. And now Bitfest is back for 2026. Bigger, louder and with even more to explore! This year’s programme brings together a staggering 8 events and 9 zones, creating an even bigger celebration of Bitcoin, freedom technology, creativity and the communities building the future. Bitfest is designed for everyone – whether you’re deep in the space or just getting started. It’s family-friendly too and so bring the kids along! Day 0 also features Nostrshire, the UK’s first full-scale conference dedicated entirely to Nostr. EVENTS Bitfest isn’t just one event — it’s a whole weekend of them. From Nostr and Bitcoin conferences to live music, internet culture, social events and everything in between, each event has its own character, community and reason to be here. Explore the events that make up Bitfest 2026. THERE’S MORE TO EXPLORE ZONES Across the festival you’ll find nine themed zones, each bringing a different side of Bitcoin and freedom technology to life. From talks and hands-on workshops to gaming, music, art, business and a place for the kids, there’s plenty to explore beyond the main stage. CONFERENCE TALKS & PANELS Hear from leading Bitcoin professionals, builders and people advocating for Bitcoin and Nostr. WORKSHOP / HACK ZONE DIY Build, learn and collaborate across two days of workshops, unconference sessions and the Bitfest 2026 Hackathon. Explore the Hackathon EXHIBITION PROJECT AND BUSINESS EXPO Discover and catch up with the latest projects and businesses building on Bitcoin. GALLERY BY PEPE.X BITCOIN ART EXHIBITION A visual celebration of Bitcoin culture, digital art, memes and creative experiments, bringing the weird, wonderful and wildly creative side of the internet into the real world. FREEDOM FEST FREEDOM & SOVEREIGNTY TECH Explore privacy, digital rights, civil liberties and freedom technology through Freedom Fest — a distinct event running alongside Bitfest on Saturday. FREEDOM FEST GAMING GAMES & COMPETITIONS Enter the gaming zone to discover Bitcoin-powered games and participate in competitive gaming sessions. MUSIC NEW MUSIC ECONOMY & VALUEVERSE Entertainment led by musicians utilising New Music Economy tooling in the Valueverse. NETWORKING DRINKS, FOOD & BANTER Mix and mingle networking zones in both the Pendulum Café during the day and The Shack NQ in the evening. KIDS BITCOIN JUNIORS A safe, supervised space for kids to play, create and have fun, with DBS-checked staff so parents can leave them safely and catch a talk, explore the festival or grab a bit of peace and quiet. PRE-PARTY BITFLIX & PRE-EVENT RECEPTION 4:30pm - 1am — 19 NOVEMBER — PENDULUM HOTEL/THE TAP HOUSE Kick off the Bitfest weekend with The Six Billion Dollar Man, Eugene Jarecki’s award-winning documentary exploring Julian Assange, WikiLeaks and the price of truth. Fittingly, when traditional gatekeepers blocked the film, it found a route to audiences through the Bitcoin community. Full Bitfest ticket holders can then join our exclusive pre-event drinks reception to meet fellow Bitcoiners and get the weekend started. HACKATHON 20–21 NOVEMBER · MOMENTUM SUITE BUILD SOMETHING BITFEST HACK ZONE + HACKATHON More than 24 hours of building across Nostrshire + Bitfest. The Bitfest Hack Zone combines an open-format Bitcoin & Nostr Hackathon with participant-led workshops, demos, talks and unconference sessions. Bring an idea. Find a team. Join a build. Or just come and learn. 2 DAYS Friday + Saturday 24+ HOURS From kick-off to submission OPEN FORMAT Bitcoin and/or Nostr Supported by EXPLORE THE HACK ZONE DAY 0 NOSTRSHIRE 9am - 6pm — 20 NOVEMBER — PENDULUM HOTEL Nostrshire is the UK’s first full-scale Nostr conference, bringing together builders, developers, creatives and enthusiasts under one roof, all in one day. We would have added freedom fighters to the list, but we would say that all these people are on the cutting edge of freedom, privacy and decentralisation technology. TANJA BÄCHLE MC NATHAN DAY Attestr + Gamestr DEREK ROSS Soapbox AJ MC PABLO DENVER BAO.MARKETS GEMMA Yojimble THE CRYPTO DONKEY ForgeSworn PETER YARED Layer3.press TOM DWYER BITS SHORT FIAT Fanfares.io BEN ARC LNBits/Nostr.com DAN GERSHONY Angor.io AVI BURRA Plebchain Radio CONSTANT Philosopher RÂU CAO Kosmos MARTTI MALMI Iris AARON OF ESSEX New Music Nudge Unit ARKINOX BITPOPART Bitcoin PopArt DAN CONWAY ngit / gitworkshop DANIEL PRINCE Once Bitten Podcast EL PRESIDENTO BENITO Cypherpunk Anarchy OSCAR MERRY Fountain.fm TIM Free Cities Foundation ZAZA protocolux.com KARLIATTO Bleskomat/ContextBTC.org NOSTRSHIRE AFTERPARTY NPUB DUB 6:30pm - 4am — 20 NOVEMBER — THE SHACK NQ Connecting rebel music with rebel money and rebel technology. nPub Dub brings reggae, dub and sound system culture together with Bitcoin, Nostr and the New Music Economy. Expect soundsystem legends, artists, performances and plenty of vibes. DJ KULLAR ROOTS REBELLION RAS KEYLEB MAD MUNKY KIRIT MAGIC DAY 1 BITFEST 9am - 6pm — 21 NOVEMBER — PENDULUM HOTEL Bitfest is the centrepiece of the weekend. A full day bringing the wider Bitcoin world together under one roof for talks, workshops, exhibitions, art, culture, technology and a healthy amount of organised chaos. From developers and entrepreneurs to artists, activists, educators and everyday Bitcoiners, it’s a day built around the people, ideas and communities pushing Bitcoin forward. JOE NAKAMOTO MC SUSIE VIOLET WARD Bitcoin Policy UK/ Journalist NICHOLAS ANTHONY HRF CBDC Tracker JAN-WILLEM BURGERS Deciphering Bitcoin BEN DE WAAL Cyber Anarchist/Bitcoin OG GARY SMITH BSE Conference ROB GASKELL Appold KARLIATTO Bleskomat/ ContextBTC.org KITCHEN MISHAP Kitchen Mishap BITOSHI BLOCKAMOTO Bitmap.land PHILIP CHARTER Totally Human Writer NZONDA FOTSING Conférence Bitcoin Afrique AARON OF ESSEX New Music Nudge Unit GRAHAM COOK BTC Proof of Play ROBIN THATCHER The Bitcoin & Crypto accountant ROSS EDWARDS Queen's University Belfast JAKE Lightning Piggy ALEX WALTZ 1st Bitcoin Miner SAMANTHA DE WAAL HALIMA ABBA What's Haute With Halima VLAD COSTEA Bitcoin Takeover Podcast DENAY SAMOSA satsparty.com DJURI BTClock NODERUNNERS RADIO Noderunners Radio AJ MC AVI BURRA Plebchain Radio BITROOT RootSeed CRYPTORAPTOR CryptoRaptor Toons DAN GERSHONY Angor.io DANIEL PRINCE Once Bitten Podcast DAVID Musqet DR. PETER CONNOR Scottish Bitcoin Conference ENDO FZERO Ninefold JIM CRANE Audionals.com KETO MINER LAURA DAY NATHAN DAY Attestr + Gamestr PATRICK VAN DER MEIJDE Arnhem Bitcoinstad PETRA Zaprana REBEL MONEY Rebel Money RENATO SCHIAVINATO LOPEZ RICK MESSIT ROGER9000 Musician TANJA Terahash TIM Free Cities Foundation TOBY Reserve METAMICK Geyser.fund OSCAR MERRY Fountain.fm NAT COLE 2140Art/2140Music SECURE YOUR SPOT TODAY! Get Tickets! DAY 1 PEPE.X ALL DAY — 21 NOVEMBER — GALLERY & EXPO ZONE Pepe.X is where Bitcoin internet culture escapes the timeline and becomes a real-world experience. Memes, digital art, games, creators, collectors and unapologetically online culture collide in a space celebrating the weird, creative and occasionally ridiculous side of the Bitcoin community. Serious conference behaviour is entirely optional. NATHAN SONIC PEPENARDO FZERO REBEL MONEY DARKY CRYPSI BITPOPART MAD MUNKY MR.HANSEL ARWYN CHIEF MONKEY ZEDERWAN EAZY B INDELIBLE AKME MARS ROBERTSON THE BITCOIN QUEEN KITCHEN MISHAP BITOSHI BLOCKAMOTO DECENTED VIVA LA VANDAL AFTERPARTY NEW MUSIC ECONOMY CONCERT 6:30pm - 4am — 21 NOVEMBER — THE SHACK NQ The New Music Economy brings together musicians, DJs, creators and fans exploring what happens when music meets Bitcoin, Nostr and Value for Value. Part concert, part experiment and part late-night celebration, it’s about putting artists and audiences back in control — then turning the volume up and seeing what happens. ROGER 9000 G.O.L.D LONGY BLADE AKME Blush AIRKLIPZ HORSEHEADS ANDY PRINCZ ROOTZALL MAD MUNKY FISHBRAIN DELTA KID WATTSY SITES ZAZA NATHAN ABBOTT EDWIN WILLIAMSON MISHKIN FITZGERALD AARON OF ESSEX CRYPTORAPTOR DEN JIM CRANE THE CRYPTO DONKEY DAY 2 BITFEST SUNDAY SOCIAL 22 NOVEMBER — VARIOUS LOCAL VENUES Bitfest Sunday Social is the relaxed final chapter of the weekend. A chance to grab some food, have a drink, reconnect with people you met along the way and squeeze in a few more conversations before everyone heads home. No stages, no packed schedules and no rushing between talks; just Bitcoiners, friends and communities hanging out properly after a very busy couple of days. GUIDED BITCOIN WALK: REBELS & RADICALS 10:30am - 12:30pm MEETING POINT: PENDULUM HOTEL A guided walking tour of Manchester city centre. Included in your weekend ticket. Route & details BEER & CHILL 1pm till late SANDBAR DJ, beer and stone-baked pizzas. Sandbar website GET YOUR TICKETS! Secure your spot at the UK’s largest Bitcoin festival. One price — all zones. £199 With a range of ticket options available including Student concessionary, Child, Family and one day passes, Bitfest is accessible to everyone! Bitcoin and Fiat Payments accepted! GET TICKETS OUR PARTNERS Companies who have worked or exhibited with us. Media & LISTING PARTNERS Media & listing partners helping to get the word out there! WORK WITH US Bitfest is a grassroots event and community working to communicate, educate and collaborate, putting community and creativity first. Interested in getting involved with one of the most interesting Bitcoin events across the globe? Use the forms below to get in touch! SPEAK/SHOWCASE AT BITFEST BECOME A SPEAKER EXHIBIT AT BITFEST BECOME A SPEAKER BECOME AN EXHIBITOR BECOME AN EXHIBITOR CINEMATICS Watch videos and scenes from Bitfest 2025! Bitfest 2025 7 Videos 3:05 8:32 5:39 3:52 3:46 6:18 2:35 SUBSCRIBE AND SEE MORE VIDEOS... (or keep scrolling…) CATCH UP Our 2025 launch incorporated 5 events across 8 zones. Want the scoop on how things started? Read our blogs from Bitfest 2025. BITFEST 2025 - DAY 0: NOSTRSHIRE A quick recap of Bitfest's Day 0 event, Nostrshire, the UK's first-ever, full-scale Nostr conference. Read More BITFEST 2025 - DAY 1 We recap the happenings on Day 1 of Bitfest 2025. The UK's largest Bitcoin conference festival! 🎪 Read More BITFEST 2025 - DAY 2 We recap the final day of the UK's largest Bitcoin conference-festival. With 5 events and 8 zones Bitfest was created to be a bastion of Bitcoin education, culture and community for the UK. Bitcoiners together strong! 💪 Read More 2025 GALLERY Check out some of the action from Bitfest 2025. SEE MORE FAQ What is Bitfest? Bitfest is the UK’s flagship Bitcoin festival, bringing together Bitcoin, Nostr, freedom technology, music, art, culture, workshops, gaming, businesses and communities for one packed long weekend in Manchester. When is Bitfest 2026? Bitfest 2026 runs from 19–22 November 2026, with different events taking place across the long weekend. Where is Bitfest? Bitfest’s main venue is The Pendulum Hotel in Manchester, with events taking place at nearby venues throughout the weekend. Do I need to know about Bitcoin to attend? Absolutely not. Bitfest is for everyone — from people who have been running nodes for years to people who have only just heard about Bitcoin. Come curious, ask questions and get involved. How do I get to Bitfest? Driving From the North — M6 / M61 Follow the M6/M61 towards Manchester, then join the M60 following signs for Stretford. Take M60 Junction 12 and join the M602 towards Salford/Manchester. At the end of the M602, follow the A57 towards Manchester. Continue onto the A57(M) Mancunian Way and take the second exit, then immediately follow the slip road signed University/Sackville Street. The Pendulum is on Sackville Street. From the South & Midlands — M6 Follow the M6 north and leave at Junction 19, taking the A556 towards Manchester. At the Bowdon roundabout, take the third exit onto the M56 towards Manchester Airport/Manchester. Continue to the end of the M56 and follow the A5103 towards Manchester. At the roundabout beneath the road, take the third exit following A57(M) / Sheffield signs, then take the second exit up the ramp onto the A57(M). Take the next exit signed University and immediately fork left onto the slip road for University/Sackville Street. The Pendulum is ahead on Sackville Street. From London — M40 / M42 / M6 Follow the M40 north, then the M42/M6 towards Manchester. Continue on the M6 north and leave at Junction 19, then follow the South & Midlands directions above via the A556 and M56. From Manchester Airport — M56 Take the M56 towards Manchester. At the end of the motorway, continue onto the A5103 towards Manchester and follow the same route as above: take the third exit at the roundabout following A57(M) / Sheffield, then the second exit onto the A57(M). Take the next exit signed University and follow the slip road for University/Sackville Street. Public Transport From Manchester Piccadilly: The Pendulum is around a 10–15 minute walk from Manchester Piccadilly station, or a short taxi ride. From Manchester Oxford Road: The Pendulum is only a few minutes’ walk from Manchester Oxford Road station. From Manchester Airport: Direct trains run from Manchester Airport to Manchester Piccadilly, normally taking around 20 minutes. From Piccadilly, The Pendulum is a short walk or taxi ride. Manchester is also well connected by rail from cities across the UK, including London, Birmingham, Leeds, Liverpool and Sheffield. Is there parking nearby? Yes. There are several car parks within walking distance of The Pendulum, including NCP Circle Square on Oxford Road, which is just a couple of minutes from the hotel. We’ll add further details, including any Bitfest/Pendulum parking discounts or codes, here once confirmed. What does my ticket include? There are several ticket options depending on how much of the festival you want to experience. A Full Bitfest Ticket gives you access across the main festival programme and includes the exclusive Bitflix Pre-Event Reception. Can I buy a One Day Pass? Yes. A One Day Pass can be used for Nostrshire on 20 November or Bitfest on 21 November, and includes access to all zones and the relevant afterparty. What is Bitflix? Bitflix is our Bitcoin Film Zone, returning this year as a pre-festival event. It kicks off the festival with a screening of The Six Billion Dollar Man, followed by the Bitflix Pre-Event Reception. It’s a chance to start the weekend with a great film, good conversation and the wider Bitfest community. Who can attend the Bitflix Pre-Event Reception? The Pre-Event Reception is an exclusive benefit for Full Bitfest Ticket holders. One Day Pass and Afterparty-only tickets do not include access to the reception. Are children welcome at Bitfest? Yes. Bitfest is family-friendly, and children are welcome. For ticketing purposes, a child is anyone under 16. Can I leave my children in the Kids Zone? Yes. The Kids Zone is a supervised play space for children during the festival where they can play safely while parents enjoy the event. It is not intended as a formal childcare or day-care service. The team are DBS checked and appropriate safeguarding procedures are in place. Where can I see the full agenda? The full agenda, including timings, speakers, workshops, performances and other programme details, will be published separately as we get closer to the festival. Can I pay for my ticket with Bitcoin? Yes. Bitfest tickets are available to purchase in Bitcoin or fiat. I've never been to a Bitcoin event before. Will I fit in? Definitely. Bitfest is deliberately broader than a traditional Bitcoin conference. Whether you’re a hardcore Bitcoiner, a Nostr user, a builder, artist, musician, entrepreneur, parent or simply curious about what all the fuss is about, you’re welcome. Are there any discount codes for accommodation? Yes. We’ve secured a discounted accommodation rate at The Pendulum Hotel, our main venue in Manchester city centre — Sackville Street, about a 5-minute walk from Piccadilly Station. Book at the Bitfest rate using code BITFEST — Book now. If the Pendulum is full, there are several other hotels within a few minutes’ walk of the venue. The closest are the ibis Manchester Centre (Princess Street) and the Maldron Hotel Manchester City Centre, both on Charles Street. Also nearby: Motel One Manchester-Piccadilly, Premier Inn Manchester City (Piccadilly), Travelodge Manchester Piccadilly and Malmaison Manchester. We’re still confirming rates and discount codes with other local hotels — anything we secure will be added here. I have a different question. How can I get in contact? Complete the form below and we’ll be in touch as soon as possible. REGISTER YOUR INTEREST Register now to join our community and get notified about Bitfest updates! Design by 2140Art X-twitter Youtube Instagram Logos by RareWelsh FREEDOM FEST ↗ Service notice Checkout under maintenance We’re currently carrying out maintenance and updates on our ticket checkout. Estimated downtime until 11:59pm, Tuesday 10 November 2026 Please try again later. Questions? info@bitfest.uk",
     "startDate": "2026-11-19",
     "endDate": "2026-11-22",
     "city": "Manchester",
@@ -5571,19 +5132,10 @@
     "coverImage": "/events/curated-bitfest-2026-11-19-25f68545.webp",
     "descriptionSource": {
       "url": "https://bitfest.uk/",
-      "fetchedAt": "2026-10-20T09:30:38.915Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T19:33:14.804Z",
+      "method": "official-section",
       "pageTitle": "Bitfest 2026 — The UK's Largest Bitcoin Festival | Manchester",
-      "sha256": "ee35e7702ecbd9373c0306ba933b3fa13d27848776b0f39366ddc98917f30b64",
-      "evidence": [
-        {
-          "url": "https://bitfest.uk/",
-          "fetchedAt": "2026-10-20T09:30:38.915Z",
-          "sha256": "247162358547322632040910747224eecf61980455e6cad06943ac6c45dc8e35",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "1ebac4283199aafdd06554fd1c81e84917c444375e1202a5471f8fcee61322d7"
     },
     "id": "curated-bitfest-2026-11-19",
     "url": "https://bitfest.uk/",
@@ -7025,7 +6577,7 @@
   },
   {
     "name": "Bitcoin for Beginners",
-    "description": "Bitcoin Indonesia offers an introductory workshop at Bitcoin House Bali covering what Bitcoin is, how to buy and use it, and how to store it safely. No prior knowledge is needed, and the programme includes time for questions. The workshop is free and conducted in English and Bahasa Indonesia.",
+    "description": "Are you new to Bitcoin and curious to learn more? This Bitcoin-only workshop is designed just for you! We’ll cover the basics: - What is Bitcoin, and why does it matter? - How can you buy bitcoin? - How can you use bitcoin in your daily life? - How do you store bitcoin safely? No prior knowledge needed—we’ll guide you every step of the way. Plus, there will be plenty of time for your questions! Whether you're just starting or want to deepen your understanding, this is the perfect place to begin. When? Every 2nd Friday of the month 5pm Bali time Where? Bitcoin House Bali, Canggu Why join? It's a great opportunity to learn about Bitcoin for FREE, participate in a fun workshop and make new friends! You can visit the Bitcoin House Bali with lots of stuff to explore - from hardware wallets, mining devices, a library & nice Bitcoin swag! Whether you're a beginner or an Bitcoin OG, everyone is welcome! We'll host the event in both English & Bahasa Indonesia, because Bitcoin is for everyone. Come learn, connect, and enjoy! Venue map: Google Maps (https://maps.app.goo.gl/zaQVguNEk7eqEdN87) Learn more on our website (https://www.bitcoinindonesia.xyz/) Join our Bitcoin Indonesia Telegram group (https://t.me/+OIIRyKQmvJY0MWFk) to connect to fellow bitcoiners Follow us on Twitter/X (https://www.twitter.com/bitcoinindo21) and Instagram (https://www.instagram.com/bitcoinhousebali) for some educational content Have a great day!",
     "startDate": "2026-11-13T17:00:00+08:00",
     "endDate": "2026-11-13T18:30:00+08:00",
     "timezone": "Asia/Makassar",
@@ -7069,19 +6621,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/3mubvjso",
-      "fetchedAt": "2026-10-20T09:31:00.156Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T18:32:56.065Z",
+      "method": "official-section",
       "pageTitle": "Bitcoin for Beginners · Luma",
-      "sha256": "33bdaae3a42d24ff1eb74b7d27ad31203d231b63da394483cac3036706afec72",
-      "evidence": [
-        {
-          "url": "https://luma.com/3mubvjso",
-          "fetchedAt": "2026-10-20T09:31:00.156Z",
-          "sha256": "8034a6fa3eda063b6b32eb553f6c03ce83dc51565ff852458c6f91d0296724bb",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "d1a8e607fb893f9b03a0de9050faa80cadb730040e28db6f742ba7b45fa2d764"
     },
     "id": "discovery-evt-dqMVS2PrUBDRnF3",
     "url": "https://luma.com/3mubvjso",
@@ -7102,7 +6645,7 @@
   },
   {
     "name": "Bitcoin Indonesia Community Meetup Bandung 15 November 2026",
-    "description": "Bitcoin Indonesia's Bandung community combines a hike with informal discussion about Bitcoin and money. The organizer welcomes people without prior Bitcoin knowledge or hiking experience and recommends comfortable shoes. The meetup takes place at Taman Hutan Raya Ir. H. Djuanda.",
+    "description": "Hiking & Bitcoin: Ngobrol tentang Uang Masa Depan Jalan ke puncak sambil ngobrolin masa depan uang? Kenapa nggak! Kali ini, kita tinggalkan sejenak rutinitas dan nikmati perjalanan bareng komunitas, sambil bertukar pikiran tentang Bitcoin dan perubahan cara kita memandang uang. Nggak harus jadi ahli Bitcoin atau pendaki berpengalaman untuk ikut seru-seruan. Cukup siapkan tenaga, rasa penasaran, dan semangat buat kenalan dengan teman-teman baru! Daripada cuma ketemu lewat layar, yuk ngobrol langsung sambil menikmati alam! Ajak teman hiking-mu, pakai sepatu yang nyaman, dan gabung di meetup Bitcoin Indonesia Bandung. Siapa tahu, obrolan di sepanjang perjalanan justru membuka perspektif baru tentang uang masa depan. Info Penting: Tiket GRATIS, tapi peserta beli makan/minum sendiri selama acara Tidak ada promosi altcoin, NFT, token, atau proyek “kripto” lainnya 100% tentang Bitcoin — teknologi, nilai, dan potensinya untuk dunia Tentang Kami Bitcoin Indonesia (https://www.instagram.com/bitcoinindo21/) adalah inisiatif nirlaba yang bertujuan untuk: Menyebarkan pemahaman soal Bitcoin sebagai alat pembebasan individu Mendorong kedaulatan finansial lewat edukasi netral dan jujur Menyediakan konten edukasi open-source & gratis untuk semua Telegram: https://t.me/+OIIRyKQmvJY0MWFk Instagram: https://instagram.com/bitcoinindo21 Website: https://bitcoinindonesia.xyz",
     "startDate": "2026-11-15T10:00:00+07:00",
     "endDate": "2026-11-15T13:00:00+07:00",
     "timezone": "Asia/Jakarta",
@@ -7146,19 +6689,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/xdmgev1d",
-      "fetchedAt": "2026-10-20T09:31:00.584Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T18:32:55.826Z",
+      "method": "official-section",
       "pageTitle": "Bitcoin Indonesia Community Meetup Bandung 15 November 2026 · Luma",
-      "sha256": "2ad1881300022a401d3737f5242415f49e4912533c500cb0e659d85f3f991408",
-      "evidence": [
-        {
-          "url": "https://luma.com/xdmgev1d",
-          "fetchedAt": "2026-10-20T09:31:00.584Z",
-          "sha256": "0c7b75a260523a88726f15152c1b1463b33eb58c058e78797fb0ae51f6e4048f",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "05ead1852babba194911a04c4a9b501e4108ade94741cf11d68adde9cd061643"
     },
     "id": "discovery-evt-zgDyaoeNsB7r9bo",
     "url": "https://luma.com/xdmgev1d",
@@ -7178,7 +6712,7 @@
   },
   {
     "name": "Bitcoin Indonesia Community Meetup Malang 21 November 2026",
-    "description": "Bitcoin Indonesia's Malang meetup examines Bitcoin's 21-million supply limit, how the issuance rules work and the role of scarcity in discussions about money. Attendees can ask questions and compare views with the community. Admission is free, with food and drinks paid individually.",
+    "description": "Mengapa Bitcoin Hanya 21 Juta? Memahami Kelangkaannya Emas bisa ditambang lagi, uang bisa dicetak lagi. Tapi bagaimana dengan Bitcoin? Jumlahnya dibatasi hanya 21 juta BTC. Kenapa harus ada batas, dan apa pengaruhnya terhadap nilai Bitcoin? Di meetup kali ini, kita bakal mengupas alasan di balik batas 21 juta Bitcoin, bagaimana aturan tersebut bekerja, dan mengapa kelangkaan menjadi salah satu hal penting untuk dipahami saat membicarakan Bitcoin. Angka 21 juta mungkin terdengar sederhana, tapi ada alasan besar di baliknya. Yuk, datang ke meetup Bitcoin Indonesia Malang, ajukan pertanyaanmu, dan diskusikan langsung bersama komunitas. Jangan cuma dengar orang membicarakannya—luangkan waktu untuk memahami sendiri! Ajak temanmu yang penasaran soal Bitcoin. Sampai ketemu di meetup! Info Penting: Tiket GRATIS, tapi peserta beli makan/minum sendiri selama acara Tidak ada promosi altcoin, NFT, token, atau proyek “kripto” lainnya 100% tentang Bitcoin — teknologi, nilai, dan potensinya untuk dunia Tentang Kami Bitcoin Indonesia (https://www.instagram.com/bitcoinindo21/) adalah inisiatif nirlaba yang bertujuan untuk: Menyebarkan pemahaman soal Bitcoin sebagai alat pembebasan individu Mendorong kedaulatan finansial lewat edukasi netral dan jujur Menyediakan konten edukasi open-source & gratis untuk semua Telegram: https://t.me/+OIIRyKQmvJY0MWFk Instagram: https://instagram.com/bitcoinindo21 Website: https://bitcoinindonesia.xyz",
     "startDate": "2026-11-21T12:00:00+07:00",
     "endDate": "2026-11-21T15:00:00+07:00",
     "timezone": "Asia/Jakarta",
@@ -7222,19 +6756,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/307ow0kn",
-      "fetchedAt": "2026-10-20T09:31:01.141Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T18:32:56.175Z",
+      "method": "official-section",
       "pageTitle": "Bitcoin Indonesia Community Meetup Malang 21 November 2026 · Luma",
-      "sha256": "0adb422cb8836ab4fc6aefc2646263622581a0607248748ce0e75667e7230a9a",
-      "evidence": [
-        {
-          "url": "https://luma.com/307ow0kn",
-          "fetchedAt": "2026-10-20T09:31:01.141Z",
-          "sha256": "b6d32463c2e8c5b9fc650401d5f6abe0543b0d183c2207421ee4c745311c5284",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "160b9a39d22638e4362786a2c249e05697f9e7fa0e0db52f7289b294dd6312e2"
     },
     "id": "discovery-evt-fqCdStFvtJYB08q",
     "url": "https://luma.com/307ow0kn",
@@ -7254,7 +6779,7 @@
   },
   {
     "name": "Bitcoin Indonesia Community Meetup Jakarta 21 November 2026",
-    "description": "Bitcoin Indonesia's Jakarta meetup offers practice in explaining Bitcoin to other people. Participants work on presenting ideas clearly, organizing a message and building confidence speaking in front of a group. Admission is free; the organizer asks attendees to buy their own food and drinks.",
+    "description": "Public Speaking Bitcoin: Belajar Bicara, Berani Berbagi Pernah punya cerita menarik tentang Bitcoin, tapi bingung bagaimana menjelaskannya ke orang lain? Atau malah gugup duluan saat harus bicara di depan banyak orang? Di meetup kali ini, kita bakal belajar menyampaikan ide tentang Bitcoin dengan lebih jelas, menyusun pesan yang mudah dipahami, dan membangun keberanian untuk berbicara di depan orang lain. Karena memahami Bitcoin itu satu hal, sedangkan membuat orang lain tertarik untuk mendengarkan adalah keterampilan yang perlu dilatih. Nggak harus jago ngomong untuk mulai. Justru datanglah untuk belajar dan mencoba! Yuk, gabung di meetup Bitcoin Indonesia Jakarta, kenalan dengan sesama komunitas, dan latih kemampuanmu berbagi cerita tentang Bitcoin. Ajak temanmu, siapkan keberanianmu, dan jangan lewatkan kesempatan untuk belajar bareng. Sampai ketemu di meetup! Bitcoinstitution – Helping visionary business leaders to beat inflation & survive the World War III (https://goakal.com/bitcoinstitution) LEADER KOMUNITAS JAKARTA: BANG RICKY (https://www.instagram.com/bitcoinstitution.xyz/) Bang Ricky — motor penggerak komunitas Bitcoinstitution Jakarta. Orangnya santai, tapi visinya kuat: bikin orang Indonesia ngerti Bitcoin dengan cara yang masuk akal & relevan. goakal.com/bitcoinstitution (https://goakal.com/bitcoinstitution) @ (https://www.instagram.com/bitcoinstitution.xyz/)bitcoinstitution.xyz (http://bitcoinstitution.xyz) Info Penting: Tiket acara dan ilmu2 daging semua GRATIS, tapi peserta diwajibkan membeli makan/minum sendiri2 saat acara Tidak ada promosi altcoin, NFT, token, atau “kripto” lainnya Hanya tentang Bitcoin — teknologi, nilai, dan dampaknya bagi dunia Tentang Kami Bitcoin Indonesia (https://www.instagram.com/bitcoinindo21/) adalah inisiatif nirlaba yang bertujuan untuk: Menyebarkan pemahaman tentang Bitcoin sebagai alat pembebasan individu Mendorong kedaulatan finansial melalui edukasi netral Menyediakan konten open-source yang bisa digunakan siapa pun, gratis Telegram: t.me/+OIIRyKQmvJY0MWFk (http://t.me/+OIIRyKQmvJY0MWFk) Instagram: @bitcoinindo21 (https://instagram.com/bitcoinindo21) Website: bitcoinindonesia.xyz (http://bitcoinindonesia.xyz)",
     "startDate": "2026-11-21T13:00:00+07:00",
     "endDate": "2026-11-21T15:00:00+07:00",
     "timezone": "Asia/Jakarta",
@@ -7298,19 +6823,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/of16ixug",
-      "fetchedAt": "2026-10-20T09:31:01.569Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T18:32:56.487Z",
+      "method": "official-section",
       "pageTitle": "Bitcoin Indonesia Community Meetup Jakarta 21 November 2026 · Luma",
-      "sha256": "6ba8f1211ae1c83566ebc21467659c754266cf7a0edfa1a47377b80d0245a0f2",
-      "evidence": [
-        {
-          "url": "https://luma.com/of16ixug",
-          "fetchedAt": "2026-10-20T09:31:01.569Z",
-          "sha256": "1e3966eba80e06a131602f7d4a085b249f04dbd4584c01f2a8f54ff76a1864c0",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "b882931bfdd4801ed0489bc8e426b79bff9623565d661fa9e0490ebf7cfd17ef"
     },
     "id": "discovery-evt-WHx7rX6yOb8hK4S",
     "url": "https://luma.com/of16ixug",
@@ -7330,7 +6846,7 @@
   },
   {
     "name": "Bitcoin For Merchants - Use Bitcoin For Your Business (Bali Bitcoin Island)",
-    "description": "Bitcoin Indonesia runs a merchant-onboarding workshop at Bitcoin House Bali for business owners interested in using Bitcoin. The session introduces business use cases and offers a chance to see a point-of-sale device, hardware wallets and mining equipment at the venue. The workshop is free and uses English and Bahasa Indonesia.",
+    "description": "What? A Bitcoin Merchant onboarding session to help you start using Bitcoin in your business and attract more customers. Enjoy delicious food and drinks from Awan Connection, a local business who already benefits from using Bitcoin. New business owners get a free coffee at the event! Where? Bitcoin House Bali, Canggu When? Every 21st day of the month 16:30 Bali Time Why join? It's a fantastic opportunity to learn about how Bitcoin helps your business for FREE, participate in a fun workshop, learn from other shops that already use Bitcoin, and make new friends! You can join the Bitcoin Closed Loop System in Bali. After that your customers are legally allowed to shop at your place and use their Bitcoin for that (redeem their Bitcoin). You can visit the Bitcoin House Bali with lots of stuff to explore - from a Point of Sale device, hardware wallets, mining devices, a library & nice Bitcoin swag! In our onboarding workshop, we talk about how Bitcoin can help you personally and your business. You’ll learn how it can bring in more customers and how its value (price) might go up over time. Whether you're a beginner or an Bitcoin Expert, everyone is welcome! We'll host the workshop in both English & Bahasa Indonesia, because Bitcoin is for everyone. Come learn, connect, and enjoy! Venue map: Google Maps (https://maps.app.goo.gl/zaQVguNEk7eqEdN87) Learn more on our website (https://www.bitcoinindonesia.xyz/) Join our Bitcoin Indonesia Telegram group (https://t.me/+OIIRyKQmvJY0MWFk) to connect to fellow bitcoiners Follow us on Twitter/X (https://www.twitter.com/bitcoinindo21) and Instagram (https://www.instagram.com/bitcoinhousebali) for some educational content Have a nice day!",
     "startDate": "2026-11-21T16:30:00+08:00",
     "endDate": "2026-11-21T17:30:00+08:00",
     "timezone": "Asia/Makassar",
@@ -7374,19 +6890,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/fsn6vdzc",
-      "fetchedAt": "2026-10-20T09:31:02.141Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T18:32:56.993Z",
+      "method": "official-section",
       "pageTitle": "Bitcoin For Merchants - Use Bitcoin For Your Business (Bali Bitcoin Island) · Luma",
-      "sha256": "9d3864fe6cbc9af0102de0bfc1f22f0012aaa7c910a7b429d4620ea69e80e885",
-      "evidence": [
-        {
-          "url": "https://luma.com/fsn6vdzc",
-          "fetchedAt": "2026-10-20T09:31:02.141Z",
-          "sha256": "ba03e2a08e34c420e58bf1f62db915749d2a5c2395f01e2691c04c89a55d17da",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "c1c1d8151e3686626ac4091feb9b46cb9633515aed4c2351263919a9102dfef3"
     },
     "id": "discovery-evt-E4l4HG2CAI9ljHe",
     "url": "https://luma.com/fsn6vdzc",
@@ -7407,7 +6914,7 @@
   },
   {
     "name": "Bitcoin Indonesia Community Meetup Magelang 22 November 2026",
-    "description": "Bitcoin Indonesia's Magelang community discusses dollar-cost averaging: buying at regular intervals using a predetermined amount. The session covers how the approach works, its risks and the importance of considering personal financial circumstances. Admission is free, with food and drinks paid individually.",
+    "description": "DCA Bitcoin: Cara Investasi Bertahap Tanpa Tebak Harga Nunggu harga Bitcoin turun dulu baru beli, tapi begitu turun malah takut turun lebih dalam? Kalau terus menunggu momen yang dianggap paling pas, kapan mulainya? Di meetup kali ini, kita bakal membahas Dollar-Cost Averaging (DCA), yaitu cara membeli Bitcoin secara berkala dengan nominal yang sudah ditentukan, tanpa harus sibuk menebak harga terbaik setiap saat. Kita juga akan ngobrol soal hal-hal yang perlu dipertimbangkan, termasuk risiko dan pentingnya menyesuaikan strategi dengan kondisi keuangan sendiri. Investasi bukan lomba siapa yang paling jago menebak market. Yuk, datang ke meetup Bitcoin Indonesia Magelang, pelajari cara kerja DCA, dan tukar pikiran langsung bareng komunitas! Ajak temanmu yang masih bingung menentukan kapan harus mulai. Daripada terus menunda karena menunggu harga yang sempurna, datang dan pelajari strateginya bersama! Info Penting: Tiket GRATIS, tapi peserta beli makan/minum sendiri selama acara Tidak ada promosi altcoin, NFT, token, atau proyek “kripto” lainnya 100% tentang Bitcoin — teknologi, nilai, dan potensinya untuk dunia Tentang Kami Bitcoin Indonesia (https://www.instagram.com/bitcoinindo21/) adalah inisiatif nirlaba yang bertujuan untuk: Menyebarkan pemahaman soal Bitcoin sebagai alat pembebasan individu Mendorong kedaulatan finansial lewat edukasi netral dan jujur Menyediakan konten edukasi open-source & gratis untuk semua Join komunitas Telegram: t.me/+OIIRyKQmvJY0MWFk (https://t.me/+OIIRyKQmvJY0MWFk) Follow Instagram: @bitcoinindo21 (https://instagram.com/bitcoinindo21) Website: bitcoinindonesia.xyz (https://bitcoinindonesia.xyz)",
     "startDate": "2026-11-22T13:00:00+07:00",
     "endDate": "2026-11-22T15:00:00+07:00",
     "timezone": "Asia/Jakarta",
@@ -7451,19 +6958,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/epo8prov",
-      "fetchedAt": "2026-10-20T09:31:02.539Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T18:32:57.521Z",
+      "method": "official-section",
       "pageTitle": "Bitcoin Indonesia Community Meetup Magelang 22 November 2026 · Luma",
-      "sha256": "d0b8d8aff70bdc884fe6d6648b72fabf3301d87c83550643a7bd9b66935b0323",
-      "evidence": [
-        {
-          "url": "https://luma.com/epo8prov",
-          "fetchedAt": "2026-10-20T09:31:02.539Z",
-          "sha256": "ab957a0a91b8ab16faa159cc0d0bca4a6ded9b16919cb232d6ba21654572e9bb",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "ecb797c6b47b48991f9895aecc8fbb0cf281c5eb9bcc116d8a0addd2e30e226f"
     },
     "id": "discovery-evt-xodkzqBmzveUbjB",
     "url": "https://luma.com/epo8prov",
@@ -8273,7 +7771,7 @@
   },
   {
     "name": "Mastering Lightning (ML) - Season 5 - Orientation Session",
-    "description": "Online orientation for Bitshala's eight-week Lightning Network cohort. The program covers node operations, channels, routing and security through self-study, weekly live sessions and Q&A. Intermediate Bitcoin knowledge is required. Apply through Bitshala's learning portal and join its Discord for the sessions.",
+    "description": "Join us for Orientation Session of Mastering Lightning (ML) - Season 5 Cohort Details: Starts 18th November 2026 | 8‑Weeks | Wednesdays, 8:00 PM IST (2:30 PM UTC) Go beyond on‑chain Bitcoin and learn to build on Lightning with a hands‑on, guided cohort. What you’ll get: Self‑study + weekly live sessions Group discussions & live Q&A LN engineering, node ops, channels, routing, security & real‑world use cases Who’s it for? Developers, designers, builders & curious Bitcoiners Prerequisites: Intermediate Bitcoin knowledge Based on Mastering the Lightning Network, LND Builder’s Guide & Chaincode resources Reading material: https://app.bitshala.org/ln-instructions Apply here: https://app.bitshala.org/ After applying, check your email to join the Discord and get started. Join our discord server at https://discord.com/invite/STeQFVEWf9 for the cohorts.",
     "startDate": "2026-11-18T14:30:00.000Z",
     "endDate": "2026-11-18T15:30:00.000Z",
     "timezone": "Asia/Kolkata",
@@ -8310,33 +7808,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/nyeumys1",
-      "fetchedAt": "2026-10-20T09:31:09.502Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T18:32:57.395Z",
+      "method": "official-section",
       "pageTitle": "Mastering Lightning (ML) - Season 5 - Orientation Session · Luma",
-      "sha256": "d9b887b21f1328ad92fbea1878c9767a45ad4c9b9f22cba468fb1bac162e7eda",
-      "evidence": [
-        {
-          "url": "https://luma.com/nyeumys1",
-          "fetchedAt": "2026-10-20T08:58:12.153Z",
-          "sha256": "967b89a7aca1ae9a4ebb8cc7c7757ee079808377098bcc9283d5ccb760bb0403",
-          "retrievedVia": "HTTP response HTML and public embedded event data",
-          "representation": "html"
-        },
-        {
-          "url": "https://bitshala.org/cohorts",
-          "fetchedAt": "2026-10-20T09:00:29.927Z",
-          "sha256": "81d2cae55385b7295775d2ccd6daed4c08197f8e5e40c82e2a6a1b331299c7a1",
-          "retrievedVia": "Primary organizer HTTP response HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/nyeumys1",
-          "fetchedAt": "2026-10-20T09:31:09.502Z",
-          "sha256": "48e6a7e74c995efcf843d3c77d6ff2ab74de9118f618680a1cd3a05edf405614",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "0d02081ca432175f42fb42c396f3195831f7ed64d7f0c5c64e42e76746298b94"
     },
     "id": "discovery-evt-oqwcWOYQmqqNHgi",
     "url": "https://luma.com/nyeumys1",
@@ -8668,7 +8143,7 @@
   },
   {
     "name": "NEAR x Ondo Mixer @ DASLondon",
-    "description": "NEAR Foundation and Ondo Finance host a mixer during Digital Asset Summit London for teams working on tokenized assets and onchain financial infrastructure. Discussion topics include their tokenized stock and ETF integration, confidential trading and cross-chain access. Registration requires approval.",
+    "description": "Join NEAR and Ondo Finance for an evening of drinks and conversation during Digital Asset Summit London. Earlier this fall, NEAR and Ondo teamed up to bring tokenized US stocks and ETFs to near.com (https://near.com), giving users onchain access to names like NVDA, TSLA, AAPL, and SPY from any of 30+ chains, with confidential trading and no brokerage account required. The same integration is available to wallets, exchanges, and apps through NEAR Intents. This mixer brings together the people behind that work and the wider community building where traditional markets and onchain infrastructure meet. Come meet the NEAR and Ondo teams, swap notes with founders, institutional leaders, and builders, and talk through where tokenization, confidential trading, and cross-chain access are heading. Space is limited, so please register to reserve your spot. Registration is subject to approval.",
     "startDate": "2026-11-11T18:00:00.000Z",
     "endDate": "2026-11-11T21:00:00.000Z",
     "timezone": "Europe/London",
@@ -8707,26 +8182,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/wdgr3mvf",
-      "fetchedAt": "2026-10-20T09:31:16.105Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T18:32:57.809Z",
+      "method": "official-section",
       "pageTitle": "NEAR x Ondo Mixer @ DASLondon · Luma",
-      "sha256": "039713190fea1c8882997d546e1b74317c630b68b1ce6970d52de58f81c904e9",
-      "evidence": [
-        {
-          "url": "https://luma.com/wdgr3mvf",
-          "fetchedAt": "2026-10-20T08:53:45.332Z",
-          "sha256": "e3bfcbd8e3c6ea4b1f4989aea03b1a5ca355650b4458ec16585921c7154584a2",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ excerpts; hidden location reduced to city/country; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/wdgr3mvf",
-          "fetchedAt": "2026-10-20T09:31:16.105Z",
-          "sha256": "5df3083b1b1f980ab813a94ce0eb30ca1391b80a688a5022cd1dbbfee9384ab9",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "0c760a7634ba8c9f2541508f5edb8ef9efce232514a10b1411a199fd4ffb52ea"
     },
     "id": "discovery-evt-XJ9Iuk18S1g2ZzT",
     "url": "https://luma.com/wdgr3mvf",
@@ -8735,7 +8194,7 @@
   },
   {
     "name": "The LOCAL W.M.C - Breakpoint/DAS Edition",
-    "description": "LO:TECH and Superteam UK host a crypto community social at Bethnal Green Working Men's Club during DAS and Breakpoint week. The programme includes a live Oasis tribute band and a DJ until 01:00. Applications are reviewed and an approved ticket is required for entry.",
+    "description": "## This is the biggest, most audacious and most daft Local event we’ve ever done... ## Free booze all night, loads of giveaways and prizes, a late licence with DJ till 1am... oh yeah and an Oasis tribute band playing live. All in the most ridiculous and fantastic venue in East London... For the regulars who've been before - you know the score. For the uninitiated - The LOCAL WMC is a piss-up social/party event for the crypto/tech community. No mercenary BDing, no hustling for business. We've scheduled it for thirsty thursday, slap bang between DAS and Breakpoint, the week when most of our industry is in London at once. Doors at 7pm. Get down early. It’s first come first serve, you can maximise the bar tab, and our community partner Polystation (https://x.com/PolyStationApp) are giving everyone a free £10 bet for the England v Croatia game that happens later in the evening. Engineers and interns very welcome. BDs tolerated... (applications will be reviewed - no ticket, no entry) -- https://www.youtube.com/@thelocalwmc https://x.com/TheLocalWMC ------ About LO:TECH LO:TECH is a capital markets firm for the onchain world. Market making, data and execution, powered by the same systems we use to trade in live markets. Headquartered in London, trading globally 24/7. https://lo.tech https://x.com/lo_tech ------ COMMUNITY PARTNER ------ About Polystation PolyStation is a new way to bet on sports. Think you know ball? Put THEIR money where your mouth is Free bets for the England v Croatia game (12th November), free-er bets for those who can split the G. COME ON INGERLAND 󠁧󠁢󠁥󠁮󠁧󠁿 https://x.com/PolyStationApp",
     "startDate": "2026-11-12T19:00:00.000Z",
     "endDate": "2026-11-13T01:00:00.000Z",
     "timezone": "Europe/London",
@@ -8787,26 +8246,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/lo-qqld",
-      "fetchedAt": "2026-10-20T09:31:17.083Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T18:32:58.046Z",
+      "method": "official-section",
       "pageTitle": "The LOCAL W.M.C - Breakpoint/DAS Edition · Luma",
-      "sha256": "fbb8bb2f93e831ba3ebcc2c9ec09e855ece400c11a908e35d4a1db3657188d34",
-      "evidence": [
-        {
-          "url": "https://luma.com/lo-qqld",
-          "fetchedAt": "2026-10-20T08:52:31.977Z",
-          "sha256": "388d117a500c5814a9826053f1bd229216c25232bc44776a2c927d174a0d8f82",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ field excerpts; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/lo-qqld",
-          "fetchedAt": "2026-10-20T09:31:17.083Z",
-          "sha256": "48e2919526983a91cd615b2726820705a4263604abce398a9b21a39cbc6a3f5e",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "b1fce51c349933c3e036fd4afa849f35632eacc5ec893b7b86ccd6c046757ebf"
     },
     "id": "discovery-evt-no4dPWhKPtAMNU0",
     "url": "https://luma.com/lo-qqld",
@@ -8826,7 +8269,7 @@
   },
   {
     "name": "Solana ⚽ Cup at Breakpoint",
-    "description": "Cesto is hosting a football tournament during Breakpoint in London for ecosystem projects, Superteams and community players. Further tournament details will be announced through the organizer's linked community channel. The venue is not publicly disclosed.",
+    "description": "Cesto & BONK are hosting a football tournament at Breakpoint in London. Sign up to stay tuned! Come join to play as an ecosystem project, Superteam, or just as community that loves football and a pint. We're here for it Join here: https://t.me/solanafootball About Cesto Cesto is lets you invest into baskets for ideas, themes and narratives in one click on Solana. Learn more at cesto.co (https://cesto.co) About BONK BONK is the community token of Solana and one of the most recognized brands in consumer crypto. What started as a token for the people has grown into a full onchain ecosystem spanning trading, gaming and collectibles, powered by one of the largest and most active communities in Web3, with over 1 million unique wallet holders. Learn more at bonkcoin.com (https://bonkcoin.com).",
     "startDate": "2026-11-14T10:00:00.000Z",
     "endDate": "2026-11-14T16:00:00.000Z",
     "timezone": "Europe/London",
@@ -8867,26 +8310,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/5sf70a63",
-      "fetchedAt": "2026-10-20T09:31:19.037Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Solana ⚽ Cup at Breakpoint · Luma",
-      "sha256": "e50628a0973c0020cd9b2e17bfc317d3442358d52bbbd8d471d4b38c8b6c7eb9",
-      "evidence": [
-        {
-          "url": "https://luma.com/5sf70a63",
-          "fetchedAt": "2026-10-20T08:53:40.277Z",
-          "sha256": "4c09da46e4542ffe0f9bf68c7f4ada44f35000a2af341e8d3560814edabe974f",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ excerpts; city from explicit public prose; no private venue/map extraction; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/5sf70a63",
-          "fetchedAt": "2026-10-20T09:31:19.037Z",
-          "sha256": "d5ddf6ff9163631d6c67c6b9348997e810b4bc1d3346c50f333ab10b40276427",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "fetchedAt": "2026-11-10T18:32:58.204Z",
+      "method": "official-section",
+      "pageTitle": "Solana ⚽ Cup by Cesto & BONK · Luma",
+      "sha256": "ee655342410b8b6efcbc783978e3fa9c66d9d869559c156b05e7e1927109b95c"
     },
     "id": "discovery-evt-gKhtfAiuAFPHESR",
     "url": "https://luma.com/5sf70a63",
@@ -8895,7 +8322,7 @@
   },
   {
     "name": "Solana Fitness Zone: Dynamic Pilates | Breakpoint 2026",
-    "description": "Solana Foundation and OFFLINE host a mat-based Pilates class for founders and builders at Breakpoint. The class uses flowing floor exercises without machines and welcomes all fitness levels. Bring water and fitness clothing; registration requires approval.",
+    "description": "Join us at Solana Fitness Zone at Breakpoint London 2026 for a dynamic floor Pilates class for founders + builders, hosted by Solana Foundation (https://solana.org/) x Ottersec (https://osec.io/) x OFFLINE (https://x.com/getofflinexyz?utm_source=luma). What’s dynamic Pilates? A faster-paced take on classic Pilates that flows from one core-strengthening move to the next. This class is done on the floor (mat-based, no machines), and it builds strength, flexibility, and balance at any fitness level. Inclusive of all genders :) Dress in comfortable fitness apparel, bring water, and be ready to move.You can RSVP with a paid or free ticket. A paid ticket guarantees entry. Free tickets will be approved closer to the event, once we have a clear headcount. Please RSVP only if you plan to attend. Thank You to Our Partners Solana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem. Ottersec (https://osec.io/) works with leading teams across multiple blockchains to provide a holistic and collaborative approach to security. OFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto. Solana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana. CUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey. ​​​ Want to be a brand partner? DM @lenagrundhoefer on Telegram Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more",
     "startDate": "2026-11-15T08:00:00.000Z",
     "endDate": "2026-11-15T08:45:00.000Z",
     "timezone": "Europe/London",
@@ -8937,26 +8364,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/solanapilates1",
-      "fetchedAt": "2026-10-20T09:31:19.659Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Solana Fitness Zone: Dynamic Pilates | Breakpoint 2026 · Luma",
-      "sha256": "d9d2c2b37fb2a7c372d84eb1f05e1de09f5a15d512c0ba80353be35c6de16612",
-      "evidence": [
-        {
-          "url": "https://luma.com/solanapilates1",
-          "fetchedAt": "2026-10-20T08:53:41.944Z",
-          "sha256": "25662480a84210ccfb80f924cedf16de3996b20e03155f284445a40b30101810",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/solanapilates1",
-          "fetchedAt": "2026-10-20T09:31:19.659Z",
-          "sha256": "e8abb6f0f9fb227e6d4760598920c993c68174bd91b081f451befa3347739938",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "fetchedAt": "2026-11-10T18:32:58.591Z",
+      "method": "official-section",
+      "pageTitle": "Solana Fitness Zone: Dynamic Pilates | Solana Foundation x Ottersec x OFFLINE · Luma",
+      "sha256": "0e083dcd4428672038ec01f96a7f53f04960865a5ba915f27b81455616227448"
     },
     "id": "discovery-evt-JgYTRzXo6yWgqCd",
     "url": "https://luma.com/solanapilates1",
@@ -8966,7 +8377,7 @@
   },
   {
     "name": "Tilt Pay Morning Coffee | Breakpoint '26",
-    "description": "The Tilt Pay team hosts a Sunday breakfast with coffee and croissants before Breakpoint. This is an informal social, with no panels. Attendance requires host approval and the address is shared with registered guests.",
+    "description": "Tilt Pay Morning Coffee | Breakpoint '26 · LumaSkip to Content Hosted By Elliot Tilt Pay Crypto Featured in Breakpoint 2026 Community Events Tilt Pay Morning Coffee | Breakpoint '26 Hosted by Elliot & Tilt Pay Register to See Address London, United Kingdom Registration One Spot Remaining Hurry up and register before the event fills up! Approval Required Your registration is subject to host approval. Welcome! To join the event, please register below. About Event ​Need a breather before diving into the Breakpoint madness? ​Join the Tilt Pay team for a chill Sunday morning breakfast. No panels, no loud music, no aggressive networking just good vibes, fresh croissants, and specialty coffee to start your day right. 🥐 Location Please register to see the exact location of this event. London, United Kingdom Hosted By Elliot Tilt Pay Crypto\n\n## Tickets Standard",
     "startDate": "2026-11-15T08:30:00.000Z",
     "endDate": "2026-11-15T10:00:00.000Z",
     "timezone": "Europe/London",
@@ -9008,26 +8419,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/kk8dr4ty",
-      "fetchedAt": "2026-10-20T09:31:20.176Z",
-      "method": "reviewed-primary-sources",
+      "fetchedAt": "2026-11-10T19:33:14.836Z",
+      "method": "official-section",
       "pageTitle": "Tilt Pay Morning Coffee | Breakpoint '26 · Luma",
-      "sha256": "09779ec5df0b32f4af05127c64de02cdf7d5a04c9c433b765072f340d3e451d6",
-      "evidence": [
-        {
-          "url": "https://luma.com/kk8dr4ty",
-          "fetchedAt": "2026-10-20T08:53:44.443Z",
-          "sha256": "a6d947cba8b97c9fd0529dc01ce16724e05cfa494e18ffab86ea7bfd4cc2a96c",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/kk8dr4ty",
-          "fetchedAt": "2026-10-20T09:31:20.176Z",
-          "sha256": "39dfd43da7fc1f78db4663c399298c820e6fc8d8239fedcdfb85bfb3868d35bb",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "06bc7f2d33dae5553b1a5a50a2a1914677f101dab2766a5552bbe8f51a5cf90e"
     },
     "id": "discovery-evt-P1laFzLdOaT7vik",
     "url": "https://luma.com/kk8dr4ty",
@@ -9036,7 +8431,7 @@
   },
   {
     "name": "Solana Fitness Zone: Women of Solana Yoga by OFFLINE | Breakpoint 2026",
-    "description": "Lena Grundhoefer leads an all-levels yoga class for female founders and builders on Solana. The class starts with an active yang flow and moves into slower yin poses, followed by a 30-minute community gathering. Solana Foundation and OFFLINE host the session; registration requires approval.",
+    "description": "Join us at Breakpoint London 2026 for our inaugural Women of Solana Yoga class, bringing together female founders + builders on Solana, hosted by Solana Foundation (https://solana.org/) x Proxima (https://proxima.tools/) x OFFLINE (https://x.com/getofflinexyz?utm_source=luma). Led by OFFLINE's Lena Grundhoefer (https://x.com/lenagrundhoefer), this all-levels yoga class is your chance to trade pitch decks for presence and performance for practice. Designed to ground ambitious minds and calm overclocked systems, it’s the perfect pre-conference ritual. What's the yoga class format? We’ll start with yang, an active, energizing flow that builds heat and strength, then ease into yin, where you hold slow, supported poses to release tension and deeply relax. No experience needed. We'll have a 30-min networking session after! Come in all black fitness apparel and bring water. Arrive early to guarantee entry. Stay after for a networking session + goodies to take home. Thank You to Our Partners Solana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem. Proxima (https://proxima.tools/)is a premium all-in-one infrastructure layer for token management. OFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto. Socure (https://www.socure.com/?utm_source=luma) is the leading identity verification platform, trusted by 3,000+ companies across 20 industries—including 18 of the top 20 banks and top 5 global crypto exchanges, infrastructure platforms and wallet providers. ​Flojo (https://drinkflojo.com/?utm_source=luma) isn't just another energy drink. It's your focus upgrade. Less caffeine, more clarity. Solana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana. CUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey. ​​​ Want to be a brand partner? DM @lenagrundhoefer on Telegram Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more",
     "startDate": "2026-11-15T09:00:00.000Z",
     "endDate": "2026-11-15T10:30:00.000Z",
     "timezone": "Europe/London",
@@ -9078,26 +8473,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/womenofsolana",
-      "fetchedAt": "2026-10-20T09:31:20.715Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Solana Fitness Zone: Women of Solana Yoga by OFFLINE | Breakpoint 2026 · Luma",
-      "sha256": "f2c10795f107cc9a70fa4f1c8eef633929860483ff547002741753344d238803",
-      "evidence": [
-        {
-          "url": "https://luma.com/womenofsolana",
-          "fetchedAt": "2026-10-20T08:53:42.776Z",
-          "sha256": "1415df3f84b54399a2bee2d776f3082e430e0e0e343b82a7071d403f7274acbe",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/womenofsolana",
-          "fetchedAt": "2026-10-20T09:31:20.715Z",
-          "sha256": "2ec97955551dbd38f6fc3c68734e4305ef016bc4a52ae78eef425401c51d29ab",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "fetchedAt": "2026-11-10T18:32:58.874Z",
+      "method": "official-section",
+      "pageTitle": "Solana Fitness Zone: Women of Solana Yoga | Solana Foundation x Proxima x OFFLINE · Luma",
+      "sha256": "31ca267a3687fdae52aac2656ba55300f130bdab465867973eaba0296593b97e"
     },
     "id": "discovery-evt-F0ZHBEyHynGIlVo",
     "url": "https://luma.com/womenofsolana",
@@ -9106,7 +8485,7 @@
   },
   {
     "name": "Solana Fitness Zone: Mental Reset Workshop | Breakpoint 2026",
-    "description": "Solana Foundation and OFFLINE host a guided session for founders and builders to pause and refocus before the conference. No prior experience is needed. Registration requires approval and space is limited.",
+    "description": "Join us at Solana Fitness Zone at Breakpoint London for a Mental Reset Workshop led by Jessica Dionne (https://x.com/yesjess) for founders + builders, hosted by Solana Foundation (https://solana.org/) x Proxima (https://proxima.tools/) x OFFLINE (https://x.com/getofflinexyz?utm_source=luma). What’s a mental reset? A guided session of simple, practical tools to slow down, clear mental clutter, and refocus ahead of the conference. It’s a chance to start your day off right to reset and recharge your mind, and no experience is needed. Just bring yourself and an open mind. You can RSVP with a paid or free ticket. A paid ticket guarantees entry. Free tickets will be approved closer to the event, once we have a clear headcount. Please RSVP only if you plan to attend. Thank You to Our Partners Solana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem. Proxima (https://proxima.tools/) is a premium all-in-one infrastructure layer for token management. OFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto. Solana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana. CUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey. ​​​ Want to be a brand partner? DM @lenagrundhoefer on Telegram Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more",
     "startDate": "2026-11-15T10:45:00.000Z",
     "endDate": "2026-11-15T11:45:00.000Z",
     "timezone": "Europe/London",
@@ -9149,26 +8528,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/solanareset",
-      "fetchedAt": "2026-10-20T09:31:21.225Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Solana Fitness Zone: Mental Reset Workshop | Breakpoint 2026 · Luma",
-      "sha256": "af709dfcfc8213f7eda8b53de027d6bfd18960bff8ec0bd1e874e9a7cdb8651d",
-      "evidence": [
-        {
-          "url": "https://luma.com/solanareset",
-          "fetchedAt": "2026-10-20T08:53:43.745Z",
-          "sha256": "8ee6585e6761a7dc8ec40284146e95a56c09b8f6ee98aa4419be86847ff4be22",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/solanareset",
-          "fetchedAt": "2026-10-20T09:31:21.225Z",
-          "sha256": "ddd7b0679cffc0b7af2eaa029a2febbc95d95e78b76ebdba98d02c18c09662be",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "fetchedAt": "2026-11-10T18:32:58.823Z",
+      "method": "official-section",
+      "pageTitle": "Solana Fitness Zone: Mental Reset Workshop | Solana Foundation x Proxima x OFFLINE · Luma",
+      "sha256": "a7bbf9b4947e5c1a64fe4107ffb06b648b91acc542d9f69ec89a2d4b741ae76f"
     },
     "id": "discovery-evt-vL3kHCN39reaPwE",
     "url": "https://luma.com/solanareset",
@@ -9177,7 +8540,7 @@
   },
   {
     "name": "Solana Fitness Zone: Dynamic Pilates | Breakpoint 2026",
-    "description": "The November 16 Pilates session at Breakpoint is a mat-based class for founders and builders, hosted by Solana Foundation and OFFLINE. It uses flowing floor exercises without machines and welcomes all fitness levels. Registration requires approval.",
+    "description": "Join us at Solana Fitness Zone at Breakpoint London 2026 for a dynamic floor Pilates class for founders + builders, hosted by Solana Foundation (https://solana.org/) x OFFLINE (https://x.com/getofflinexyz?utm_source=luma). What’s dynamic Pilates? A faster-paced take on classic Pilates that flows from one core-strengthening move to the next. This class is done on the floor (mat-based, no machines), and it builds strength, flexibility, and balance at any fitness level. Inclusive of all genders :) Dress in comfortable fitness apparel, bring water, and be ready to move. You can RSVP with a paid or free ticket. A paid ticket guarantees entry. Free tickets will be approved closer to the event, once we have a clear headcount. Please RSVP only if you plan to attend. Thank You to Our Partners Solana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem. OFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto. Solana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana. CUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey. ​​​ Want to be a brand partner? DM @lenagrundhoefer on Telegram Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more",
     "startDate": "2026-11-16T07:00:00.000Z",
     "endDate": "2026-11-16T07:50:00.000Z",
     "timezone": "Europe/London",
@@ -9219,26 +8582,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/solanapilates2",
-      "fetchedAt": "2026-10-20T09:31:21.566Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Solana Fitness Zone: Dynamic Pilates | Breakpoint 2026 · Luma",
-      "sha256": "7a3c9cab0ac1ba50267813fbfe2593ca721f76ba40e1749d577546b5cfdbe27c",
-      "evidence": [
-        {
-          "url": "https://luma.com/solanapilates2",
-          "fetchedAt": "2026-10-20T08:54:58.120Z",
-          "sha256": "a624f261a708cf2acb5ec6bbf920d77a98e3e0370d1d8abd3ac3b66d8a24bb94",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/solanapilates2",
-          "fetchedAt": "2026-10-20T09:31:21.566Z",
-          "sha256": "d1a2e866164b536611dae604f5502eab999881863a18a54db4811bfbe4decf1f",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "fetchedAt": "2026-11-10T18:32:59.732Z",
+      "method": "official-section",
+      "pageTitle": "Solana Fitness Zone: Dynamic Pilates | Solana Foundation x OFFLINE · Luma",
+      "sha256": "97465bd49c9732147e295eb43b3cf077549829c6ddd32d5826a5a0a2afb86bb5"
     },
     "id": "discovery-evt-dG5O5F5HU9O4ikF",
     "url": "https://luma.com/solanapilates2",
@@ -9248,7 +8595,7 @@
   },
   {
     "name": "Solana Fitness Zone: Group Boxing | Breakpoint 2026",
-    "description": "Lisa from Loofta leads a boxing-inspired class combining punching sequences, footwork and conditioning drills for founders and builders at Breakpoint. Solana Foundation and OFFLINE host the session. No boxing experience is required; registration is subject to approval.",
+    "description": "Join us at Solana Fitness Zone at Breakpoint London 2026 for a group boxing class by Lisa from Loofta (https://x.com/lisabeyy) for founders + builders, hosted by Solana Foundation (https://solana.org/) x Proxima Tools (https://proxima.tools/) x OFFLINE (https://x.com/getofflinexyz?utm_source=luma). What’s group boxing? A high-energy, boxing-inspired workout that mixes punching combinations, footwork, and conditioning drills. It builds cardio, strength, and coordination, and it’s a great way to blow off steam between conference sessions. No experience needed, and it’s scalable to any fitness level. Inclusive of all genders :) Dress in comfortable fitness apparel, bring water, and be ready to work. You can RSVP with a paid or free ticket. A paid ticket guarantees entry. Free tickets will be approved closer to the event, once we have a clear headcount. Please RSVP only if you plan to attend. Thank You to Our Partners Solana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem. Proxima (https://proxima.tools/) is a premium all-in-one infrastructure layer for token management. OFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto. Solana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana. CUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey. ​​​ Want to be a brand partner? DM @lenagrundhoefer on Telegram Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more",
     "startDate": "2026-11-16T08:00:00.000Z",
     "endDate": "2026-11-16T08:45:00.000Z",
     "timezone": "Europe/London",
@@ -9291,26 +8638,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/solanaboxing",
-      "fetchedAt": "2026-10-20T09:31:22.187Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Solana Fitness Zone: Group Boxing | Breakpoint 2026 · Luma",
-      "sha256": "4718444e1892820e3606c09ee92ef3743f1cbf0a09b089568361e7d5e25535ea",
-      "evidence": [
-        {
-          "url": "https://luma.com/solanaboxing",
-          "fetchedAt": "2026-10-20T08:54:58.876Z",
-          "sha256": "f277f05051bf3f14bea352b6bc68da1ccb23532844691483fda4676892dc6ed2",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/solanaboxing",
-          "fetchedAt": "2026-10-20T09:31:22.187Z",
-          "sha256": "514ac3bfdb79f1c46aa72047bb5c230725cff7965e3c15d689b795569c6178b9",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "fetchedAt": "2026-11-10T18:32:59.224Z",
+      "method": "official-section",
+      "pageTitle": "Solana Fitness Zone: Group Boxing | Solana Foundation x Proxima x OFFLINE · Luma",
+      "sha256": "21192ae36681cc88f9ae4520c2f534b1b301c521e38b4249d6e1eb65be1f7442"
     },
     "id": "discovery-evt-yqbouX052XUmpA8",
     "url": "https://luma.com/solanaboxing",
@@ -9319,7 +8650,7 @@
   },
   {
     "name": "Solana Fitness Zone: Rise & Shine Yoga by MonkeDAO | Breakpoint 2026",
-    "description": "MonkeDAO member Mila leads a gentle yoga flow before the Breakpoint conference day. Solana Foundation and MonkeDAO host the session, which links movement with breathing and welcomes beginners. Registration requires approval.",
+    "description": "Join us at Breakpoint London 2026 for our Rise & Shine Yoga class hosted by fellow MonkeDAO’s CamilaCamilaki (https://x.com/camilacamilaki?s=11). This class is hosted by Solana Foundation (https://solana.org/) x MonkeDAO (https://monkedao.io/). Led by MonkeDAO member Mila, this class is the perfect way to wake up your body before the conference day ahead. What’s a yoga flow? A gentle, moving practice that glides from one pose to the next, syncing each movement with your breath. It builds strength and flexibility while calming the mind, and no experience is needed. Come in all black and bring water. Arrive early to guarantee entry. Stay after for a networking session + goodies to take home. Thank You to Our Partners Solana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem. MonkeDAO (https://x.com/monkedao?utm_source=luma) is the Premier Web3 Country Club and the first community-owned and operated NFT DAO on Solana. OFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto. ​Flojo (https://drinkflojo.com/?utm_source=luma) isn't just another energy drink. It's your focus upgrade. Less caffeine, more clarity. Solana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana. CUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey. Camila (https://x.com/camilacamilaki?s=11) offers dynamic, breath-led yoga with an adaptable and mindful approach, creating space to move, reset, and reconnect with the body beyond the screen. ​​​ Want to be a brand partner? DM @lenagrundhoefer on Telegram Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more",
     "startDate": "2026-11-16T09:00:00.000Z",
     "endDate": "2026-11-16T10:30:00.000Z",
     "timezone": "Europe/London",
@@ -9363,26 +8694,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/monkesflow",
-      "fetchedAt": "2026-10-20T09:31:22.412Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Solana Fitness Zone: Rise & Shine Yoga by MonkeDAO | Breakpoint 2026 · Luma",
-      "sha256": "8e9f38f6a55b34cd656fe3d846957905219fbeada627775f362cdd3ce9933b86",
-      "evidence": [
-        {
-          "url": "https://luma.com/monkesflow",
-          "fetchedAt": "2026-10-20T08:54:59.563Z",
-          "sha256": "5ffd73811e36edda35a5c1799470cea6dba896365b723c800810224ded76c1b1",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/monkesflow",
-          "fetchedAt": "2026-10-20T09:31:22.412Z",
-          "sha256": "d312b803ee49a0b3d708a36a67bac5e5064bd3d35f1101071bb4fd3a302b939d",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "fetchedAt": "2026-11-10T18:32:59.428Z",
+      "method": "official-section",
+      "pageTitle": "Solana Fitness Zone: Rise & Shine Yoga by MonkeDAO | Solana Foundation x OFFLINE · Luma",
+      "sha256": "e7cf79bc03c54bfe4deb8c22efa13be6ac00d4ec6b37406d21d2e214e9c401ca"
     },
     "id": "discovery-evt-IME1HwTy1ywWmub",
     "url": "https://luma.com/monkesflow",
@@ -9391,7 +8706,7 @@
   },
   {
     "name": "Solana Fitness Zone: Dynamic Pilates | Breakpoint 2026",
-    "description": "The November 17 Pilates session at Breakpoint is a mat-based class for founders and builders, hosted by Solana Foundation and OFFLINE. It uses flowing floor exercises without machines and welcomes all fitness levels. Registration requires approval.",
+    "description": "Join us at Solana Fitness Zone at Breakpoint London 2026 for a dynamic floor Pilates class for founders + builders, hosted by Solana Foundation (https://solana.org/) x OFFLINE (https://x.com/getofflinexyz?utm_source=luma). What’s dynamic Pilates? A faster-paced take on classic Pilates that flows from one core-strengthening move to the next. This class is done on the floor (mat-based, no machines), and it builds strength, flexibility, and balance at any fitness level. Inclusive of all genders :) Dress in comfortable fitness apparel, bring water, and be ready to move. You can RSVP with a paid or free ticket. A paid ticket guarantees entry. Free tickets will be approved closer to the event, once we have a clear headcount. Please RSVP only if you plan to attend. Thank You to Our Partners Solana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem. OFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto. Solana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana. CUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey. ​​​ Want to be a brand partner? DM @lenagrundhoefer on Telegram Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more",
     "startDate": "2026-11-17T07:00:00.000Z",
     "endDate": "2026-11-17T07:45:00.000Z",
     "timezone": "Europe/London",
@@ -9433,26 +8748,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/solanapilates3",
-      "fetchedAt": "2026-10-20T09:31:23.171Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Solana Fitness Zone: Dynamic Pilates | Breakpoint 2026 · Luma",
-      "sha256": "8d68ff3631e9f86f98aba0807f11c21bba7ffb423f1a290ff717639a58498a07",
-      "evidence": [
-        {
-          "url": "https://luma.com/solanapilates3",
-          "fetchedAt": "2026-10-20T08:55:00.897Z",
-          "sha256": "c4170a891d9563771f3a81e5613729ded4a621d29aedcf0f060b2f225ea11e56",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/solanapilates3",
-          "fetchedAt": "2026-10-20T09:31:23.171Z",
-          "sha256": "7fca2b00f1a44f877d5193ca4ef232868f6024b5c55c41a5384da089dbe4eae8",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "fetchedAt": "2026-11-10T18:32:59.630Z",
+      "method": "official-section",
+      "pageTitle": "Solana Fitness Zone: Dynamic Pilates | Solana Foundation x OFFLINE · Luma",
+      "sha256": "9bcdfd23cae21d92db5ba547ce31e16f6b1905840f02746b808a7fcfdf1a43f4"
     },
     "id": "discovery-evt-vvQI67NJtBlP4qH",
     "url": "https://luma.com/solanapilates3",
@@ -9462,7 +8761,7 @@
   },
   {
     "name": "Solana Fitness Zone: HIIT Class | Breakpoint 2026",
-    "description": "Solana Foundation and OFFLINE host a 45-minute interval-training class for founders and builders on November 17. The workout alternates short effort periods with recovery and can be adjusted for different fitness levels. Bring water and fitness clothing; registration requires approval.",
+    "description": "Join us at Solana Fitness Zone at Breakpoint London 2026 for a 45-minute HIIT class for founders + builders, hosted by Solana Foundation (https://solana.org/) x OFFLINE (https://x.com/getofflinexyz?utm_source=luma). What’s HIIT? High-Intensity Interval Training alternates short bursts of all-out effort with brief recovery periods. It’s a fast, efficient workout that builds strength and endurance, and it’s scalable to any fitness level. Inclusive of all genders :) Dress in fitness apparel, bring water, and be ready to sweat. You can RSVP with a paid or free ticket. A paid ticket guarantees entry. Free tickets will be approved closer to the event, once we have a clear headcount. Please RSVP only if you plan to attend. Thank You to Our Partners Solana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem. OFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto. Solana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana. CUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey. ​​​ Want to be a brand partner? DM @lenagrundhoefer on Telegram Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more",
     "startDate": "2026-11-17T08:00:00.000Z",
     "endDate": "2026-11-17T08:45:00.000Z",
     "timezone": "Europe/London",
@@ -9504,26 +8803,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/solanahiits",
-      "fetchedAt": "2026-10-20T09:31:23.664Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Solana Fitness Zone: HIIT Class | Breakpoint 2026 · Luma",
-      "sha256": "784ee2dcc77be8c1e752dc4d3e8f7c356e15f93c04eeda0c1285cdef6829dc3a",
-      "evidence": [
-        {
-          "url": "https://luma.com/solanahiits",
-          "fetchedAt": "2026-10-20T08:55:01.515Z",
-          "sha256": "d61e4624efcd94d3e2cac90eeeaed7adc6f2f6b4503263b581f92cfa39cbfceb",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/solanahiits",
-          "fetchedAt": "2026-10-20T09:31:23.664Z",
-          "sha256": "7d1e93c2e385cb29427515de77d3a04da6591363cd350a12ab94b695df6db49f",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "fetchedAt": "2026-11-10T18:32:59.894Z",
+      "method": "official-section",
+      "pageTitle": "Solana Fitness Zone: HIIT Class | Solana Foundation x OFFLINE · Luma",
+      "sha256": "e6df6c08989b5dae3237d6e27a77feb4d73178b8a8e493d18524bd9598ae8bf2"
     },
     "id": "discovery-evt-gjNVvhgcknTCwpc",
     "url": "https://luma.com/solanahiits",
@@ -9532,7 +8815,7 @@
   },
   {
     "name": "Solana Fitness Zone: Sound Healing & Breathwork | Breakpoint 2026",
-    "description": "Solana Foundation and OFFLINE host guided breathing exercises paired with a sound bath for founders and builders at Breakpoint. No prior experience is needed. Registration requires approval and attendees are asked to arrive early.",
+    "description": "Join us at Solana Fitness Zone at Breakpoint London 2026 for a Sound Healing & Breathwork session for founders + builders, hosted by Solana Foundation (https://solana.org/) x Ottersec (https://osec.io/) x OFFLINE (https://x.com/getofflinexyz?utm_source=luma). What’s sound healing & breathwork? Guided breathing exercises paired with a sound bath, where you lie back and let soothing sounds wash over you. Together, they help you slow down, release tension, and clear your mind, so you can recharge ahead of the conference. No experience needed. Just bring yourself and an open mind.You can RSVP with a paid or free ticket. A paid ticket guarantees entry. Free tickets will be approved closer to the event, once we have a clear headcount. Please RSVP only if you plan to attend. Thank You to Our Partners Solana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem. Ottersec (https://osec.io/) works with leading teams across multiple blockchains to provide a holistic and collaborative approach to security. OFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto. Solana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana. CUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey. ​​​ Want to be a brand partner? DM @lenagrundhoefer on Telegram Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more",
     "startDate": "2026-11-17T09:00:00.000Z",
     "endDate": "2026-11-17T09:50:00.000Z",
     "timezone": "Europe/London",
@@ -9574,26 +8857,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/solanasoundheals",
-      "fetchedAt": "2026-10-20T09:31:24.284Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Solana Fitness Zone: Sound Healing & Breathwork | Breakpoint 2026 · Luma",
-      "sha256": "96f4825ea2bc59fa30f1aa9267bd1623aad7137d83badee517534706c383b269",
-      "evidence": [
-        {
-          "url": "https://luma.com/solanasoundheals",
-          "fetchedAt": "2026-10-20T08:55:02.202Z",
-          "sha256": "c78591e6e47e691e9e3181ae28e5e99fb44360ce2e09c9b981b94ea370b66376",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/solanasoundheals",
-          "fetchedAt": "2026-10-20T09:31:24.284Z",
-          "sha256": "e896109d4ad06f52c5d278ed56543d154d65f4bb6331da7b756f8b6ba520bc2c",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "fetchedAt": "2026-11-10T18:33:00.143Z",
+      "method": "official-section",
+      "pageTitle": "Solana Fitness Zone: Sound Healing & Breathwork | Solana Foundation x Ottersec x OFFLINE · Luma",
+      "sha256": "c09b392f164594c385ae51f0ed99e3871b470587bd5c94557afe48d6608b4a27"
     },
     "id": "discovery-evt-nn6OreUXqAcO2wA",
     "url": "https://luma.com/solanasoundheals",
@@ -9602,7 +8869,7 @@
   },
   {
     "name": "Solana Fitness Zone: Aerial Yoga | Breakpoint 2026",
-    "description": "Solana Foundation and OFFLINE host an aerial yoga class using suspended fabric hammocks for founders and builders at Breakpoint. All experience levels are welcome. Attendees should bring water and wear fitted fitness clothing without zippers; registration requires approval.",
+    "description": "Join us at Solana Fitness Zone at Breakpoint London 2026 for an aerial yoga class for founders + builders, hosted by Solana Foundation (https://solana.org/) x OFFLINE (https://x.com/getofflinexyz?utm_source=luma). What’s aerial yoga? A blend of yoga, stretching, and gentle movement using a fabric hammock suspended from the ceiling. The hammock supports your body as you stretch, strengthen, and even hang upside down, building flexibility and core strength while decompressing the spine. All levels welcome, no experience needed. Inclusive of all genders. Dress in comfortable, fitted fitness apparel (no zippers or loose clothing), and be ready to move. You can RSVP with a paid or free ticket. A paid ticket guarantees entry. Free tickets will be approved closer to the event, once we have a clear headcount. Please RSVP only if you plan to attend. Thank You to Our Partners Solana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem. Proxima (https://proxima.tools/) is a premium all-in-one infrastructure layer for token management. Ottersec (https://osec.io/) is a top blockchain smart contract auditing company, securing top protocols across chains. OFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto. ​​​ Want to be a brand partner? DM @lenagrundhoefer on Telegram Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more",
     "startDate": "2026-11-17T10:00:00.000Z",
     "endDate": "2026-11-17T11:00:00.000Z",
     "timezone": "Europe/London",
@@ -9644,26 +8911,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/solanaerial",
-      "fetchedAt": "2026-10-20T09:31:24.636Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Solana Fitness Zone: Aerial Yoga | Breakpoint 2026 · Luma",
-      "sha256": "5e9420e15ee536a3cc0cf902f7c083b178a5ec8ba1c85bd44111e8b2409e61e7",
-      "evidence": [
-        {
-          "url": "https://luma.com/solanaerial",
-          "fetchedAt": "2026-10-20T08:55:02.865Z",
-          "sha256": "e097775b5acff655644f2828f7b05df73115bf37f2543f64745f6dba49ee0f63",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/solanaerial",
-          "fetchedAt": "2026-10-20T09:31:24.636Z",
-          "sha256": "623b342624b73ab1ade16d6afb8f06f2fff62d8e3b38ea729886463885bd33e5",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "fetchedAt": "2026-11-10T18:33:00.505Z",
+      "method": "official-section",
+      "pageTitle": "Solana Fitness Zone: Aerial Yoga | Solana Foundation x OFFLINE · Luma",
+      "sha256": "9effb59291faa2bd15a19f46903d4c0280f273888d78f529427c9f43d943ab1c"
     },
     "id": "discovery-evt-EYXjEVxXQ9dbkmf",
     "url": "https://luma.com/solanaerial",

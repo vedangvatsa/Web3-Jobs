@@ -438,40 +438,6 @@
       }
     ]
   },
-  "luma-host-disccal-AZalBEUfOleEJSa": {
-    "summaryLead": "Token2049 week centres on Singapore on 7-8 October 2026, and this community-maintained calendar - unofficial, and quick to say so - is positioning itself as the tracker for everything happening around the main stage.",
-    "sections": [
-      {
-        "heading": "The date Asia's crypto industry orbits",
-        "content": [
-          "By the listing's own description, 7-8 October 2026 brings the global crypto community to Singapore for a week of packed talks, networking and big announcements. Whatever the main-stage programme holds, the practical effect is gravitational: for those days, Singapore becomes the densest concentration of web3 founders, investors and operators anywhere in Asia.",
-          "Two core days anchor the week, but experienced attendees plan for the margins. Big conferences of this kind reliably generate a halo of fringe breakfasts, evening takeovers and offsite demos in the surrounding days, and the difference between a good trip and a wasted one usually comes down to how deliberately you scheduled those gaps between official sessions.",
-          "A note for the sceptical: unofficial status does not make a calendar useless, only unaccountable. The organisers cannot misrepresent the main conference because they make no claims about it - their entire product is aggregation. That division of labour has become standard at major crypto weeks worldwide, and the pages that fill fastest tend to be the ones organisers themselves submit to early. Follow it now, check back weekly through September, and judge the output on volume before you judge it on polish."
-        ]
-      },
-      {
-        "heading": "An unofficial tracker that admits what it is",
-        "content": [
-          "Worth stating clearly: this Luma page is a community calendar, explicitly labelled unofficial and unaffiliated with the Token2049 organiser. At the time of writing it is still marked as launching soon - a placeholder with a follow button, promising notification the moment it goes live, plus a submission form for organisers who want their side events listed.",
-          "That honesty is useful. Treat the page as a discovery layer rather than an authority: a running index of what the community is building around the conference, not a source for tickets, venue or schedule of the main event itself. Anything consequential - passes, flights, confirmed speakers - should be verified against the organiser's own channels before money moves."
-        ]
-      },
-      {
-        "heading": "Why side events decide the real agenda",
-        "content": [
-          "At gatherings of this scale, the hallway deals and evening rooms often outweigh the stage. Fund terms get sketched over dinner, partnerships get settled in hotel lobbies, and job offers change hands at rooftop parties. Calendars like this one exist precisely to surface that parallel programme before you land.",
-          "A sensible strategy for October: pick one or two anchor talks per day, leave generous slack between commitments, and monitor this calendar weekly as submissions accumulate. By late September it should read as a decent map of where the actual business of the week will happen - and following early means seeing events while they still have capacity."
-        ]
-      },
-      {
-        "heading": "Booking notes for early October",
-        "content": [
-          "Singapore handles big event weeks well - compact geography, reliable transit, an airport that connects nearly everywhere - but that convenience is priced in. Rooms near the central districts move early whenever the city hosts a major crypto week, so book accommodation as soon as travel is certain rather than waiting for the full event picture.",
-          "The sequence for readers: confirm main-conference attendance through official Token2049 channels first, then follow this calendar for the surround sound. Between the two, you should be able to assemble a 7-8 October itinerary - plus flanking days - that mixes stage time with the quieter rooms where deals actually progress."
-        ]
-      }
-    ]
-  },
   "luma-host-disccal-F2wb6yPKUkcnOBJ": {
     "summaryLead": "Devcon touches down in Mumbai on 3-6 November 2026, and the calendar attached to this listing has one narrow job: collecting the side events that sprout around Ethereum's flagship gathering - run by the community, and explicit that it is not the Ethereum Foundation.",
     "sections": [
@@ -630,39 +596,6 @@
         "content": [
           "The page's instructions are simple: follow the calendar to be notified the moment it goes live, and use the submit link if you are hosting something yourself. Hosts reading this should note that early submissions ride the initial announcement wave, while late ones fight for attention in a crowded feed.",
           "Attendees should set expectations accordingly. Between now and November, expect the listing to shift from empty to overwhelming in a few sharp bursts. The winners of conference weeks are rarely the people with the most ambitious spreadsheets; they are the ones who picked three priorities early and left slack for the hallway conversations no calendar predicts."
-        ]
-      }
-    ]
-  },
-  "luma-host-evt-SxZzp7K2Jsnbh8z": {
-    "summaryLead": "Sui Basecamp 2026 takes over Marina Bay Sands on October 7-8, slotting into Singapore's densest week of the crypto year alongside TOKEN2049. The organizing thesis is spelled out in the listing's boldest line: the next five trillion dollars in transactions won't be human. Founders, developers, investors, and traders from across the Sui ecosystem gather under that banner for two days. The speaker roster stretches from Mysten Labs leadership to macro media figures.",
-    "sections": [
-      {
-        "heading": "The Agentic Finance Thesis",
-        "content": [
-          "Strip away the branding and the argument is about rails. If autonomous software agents begin transacting at machine speed and machine volume, the infrastructure underneath must guarantee instant settlement, support private transfers, issue stable digital dollars, withstand quantum-era attacks, and carry portable memory across contexts. The listing enumerates precisely that stack, presenting Sui as its substrate and inviting builders to test the claim.",
-          "Whether or not one buys the timeline, the framing clarifies what the conference will actually discuss. Expect fewer token-price panels and more engineering-adjacent conversations: latency, privacy primitives, custody for non-human actors, and the economics of machine-to-machine payment. For developers evaluating where to spend the next year, that focus makes Basecamp unusually navigable - the theme acts as a filter, not decoration."
-        ]
-      },
-      {
-        "heading": "Marina Bay Sands During TOKEN2049 Week",
-        "content": [
-          "The venue needs little introduction: Marina Bay Sands anchors Singapore's bayfront at 10 Bayfront Avenue, and its convention floors have hosted more than one defining industry moment. Scheduling immediately alongside TOKEN2049 is deliberate choreography. Thousands of crypto decision-makers are already in the city; Basecamp gives the Sui ecosystem a home address for the week and lets attendees chain the two without losing a day to travel.",
-          "The practical consequence is density. Corridor conversations at Basecamp will include people you would otherwise need three separate flights to meet. Budget energy accordingly - two full days at this intensity, bracketed by everything else happening in Singapore that week, punishes the unprepared. Comfortable shoes and a realistic personal schedule are underrated equipment."
-        ]
-      },
-      {
-        "heading": "Names on the Bill",
-        "content": [
-          "The announced lineup mixes ecosystem principals with outside perspective. Raoul Pal, CEO and co-founder of Real Vision, appears alongside Mysten Labs co-founders Adeniyi Abiodun, chief product officer, and Kostas Chalkias, chief cryptographer. Brian Quintenz of Sui Group Holdings brings the public-markets angle, while Jen Zhu Scott of Power Dynamics and Hilmar Veigar Petursson - formerly of CCP Games, now Fenris Creations - widen it toward capital formation and gaming.",
-          "Further down, the bill tilts toward builders: Kimberly Logan of the Walrus Foundation, Arpan Nanavati of Beep, Sejin Park of Gorae Labs, Funkii of t2000, Jonathan Chan of RedotPay, and others, with the full roster maintained at sui.io/basecamp. The balance suggests a program designed to alternate between direction-setting keynotes and ground-level shipping stories rather than stacking one type."
-        ]
-      },
-      {
-        "heading": "Sponsors and the Ticket Ladder",
-        "content": [
-          "The sponsorship grid reads as a cross-section of the ecosystem. AlphaFi, EVE Frontier, and Walrus occupy diamond billing; ONE Championship stands alone at platinum; Slush takes gold; RedotPay and Scallop take silver; and Anyflo, Merkle Science, and Sentio fill the bronze tier. A sponsorship application form remains open for teams wanting a place on the wall.",
-          "Tickets run on a familiar ladder - early bird, advance, standard, and last-call windows, each opening as the prior phase ends. The lesson of every TOKEN2049-adjacent event is that waiting costs money and sometimes attendance. Participation terms and privacy policies are linked from the listing and worth ten minutes of reading before checkout rather than after."
         ]
       }
     ]
@@ -904,39 +837,6 @@
         "content": [
           "Goa gives the experiment a beachfront base with established hospitality infrastructure at prices dramatically below Western equivalents, and late October marks the start of Goa's dry season after the monsoon. Approximately sixty-five percent of Edge India participants are expected from outside India, creating an unusual density of international builders on the subcontinent.",
           "For crypto-native attendees, the AI-crypto overlap is real rather than decorative: SingularityNET's presence anchors serious AGI discussion, while Light DAO's investor and entrepreneur membership keeps commercial pathways visible. Come for the full three weeks if possible; the alumni consensus is that transformation scales with time spent inside the village."
-        ]
-      }
-    ]
-  },
-  "premier-stablecoinsg": {
-    "summaryLead": "Stablecoin Summit Singapore compresses the entire stablecoin debate - payments, issuance, regulatory frameworks - into a single day on 8 October 2026, organized by XREX and timed deliberately alongside TOKEN2049 week when the industry's attention concentrates on Singapore.",
-    "sections": [
-      {
-        "heading": "One Day, One Subject, No Filler",
-        "content": [
-          "There is something refreshing about a summit that picks one subject and refuses to dilute it. Stablecoin Summit Singapore, set for 8 October 2026, dedicates its entire program to the asset class that has quietly become crypto's most commercially successful export: covering payments, issuance and the regulatory frameworks that determine which models survive contact with regulators. No NFT nostalgia tracks, no generic macro panels - just the plumbing questions that treasurers, payment companies and policymakers actually argue about.",
-          "The single-day format is a feature for busy calendars, especially in a week as crowded as TOKEN2049. You can attend a focused summit in the morning and afternoon, extract the specific intelligence you need, and still make evening commitments elsewhere in the city. The tradeoff is intensity: parallel sessions likely mean choices, so arrive having decided whether your priority is issuance economics, payment rails or the compliance picture."
-        ]
-      },
-      {
-        "heading": "The XREX Backstory",
-        "content": [
-          "The organizer behind the summit describes itself on its own homepage as a regulated blockchain-driven institution for financial inclusion - language that signals a compliance-first posture rather than a trading-desk culture. Companies that build for financial inclusion spend their careers navigating licensing regimes, cross-border payment corridors and banking relationships, which happens to be exactly the expertise a credible stablecoin event requires.",
-          "That orientation shapes what the summit is likely to emphasize. Stablecoin discussions led by regulated institutions tend toward the operational: how issuers manage reserves, how payment providers integrate settlement, how frameworks in major jurisdictions compare. Expect the regulatory framework pillar of the agenda to be substantive rather than ceremonial, because for an institution whose business depends on staying licensed, regulation is not a keynote topic - it is the operating environment."
-        ]
-      },
-      {
-        "heading": "Riding the TOKEN2049 Wave",
-        "content": [
-          "Timing an event during TOKEN2049 week is a calculated bet. Singapore in early October becomes the densest concentration of digital-asset decision-makers anywhere in Asia, and specialized summits feed on that density - attendees fly in for the anchor conference and stack targeted side events around it. The risk is noise: dozens of competing gatherings, full hotels, diary conflicts resolved over WhatsApp at midnight.",
-          "Stablecoin Summit's defense against that noise is specificity. Generic networking events struggle for attention in TOKEN2049 week; a single-day summit devoted to the sector's hottest commercial battleground does not. Payment executives deciding which stablecoin rails to integrate, treasury teams evaluating issuance partnerships, and compliance officers tracking regulatory divergence across jurisdictions all have reasons to prioritize a focused room over another rooftop party."
-        ]
-      },
-      {
-        "heading": "Who Should Make Time For It",
-        "content": [
-          "Three profiles fit best. Fintech and payments operators weighing stablecoin settlement for cross-border flows get the vendor landscape compressed into one day. Institutions studying issuance - banks, wallet providers, platforms considering their own token - benefit from hearing reserve management and framework debates in person. Policy and compliance professionals gain from the same room being full of the people their rules will bind.",
-          "Practical notes: verify the venue, agenda and registration through official XREX channels as the date approaches, since details for week-of-TOKEN2049 events evolve quickly. Singapore's Changi makes same-day arrivals feasible, but with the city at peak conference load, arriving the night before is the safer play."
         ]
       }
     ]
@@ -1474,108 +1374,6 @@
           "Paths in are clearly signposted: discounted passes are advertised on the homepage, speaker applications run through a public form, and organisations can apply to host sessions - though hosts own their content, speakers and logistics, with ABC providing the platform, visibility and programme integration.",
           "Sponsorship conversations run directly through the contact email, pitched at organisations wanting alignment with Bitcoin education and economic progress on the continent.",
           "Logistics deserve respect: Malawi takes some itinerary planning for international visitors, and early-December travel overlaps with regional holiday season. The payoff is a conference that feels closer to a movement assembly than an expo - which is precisely the point. Few events anywhere make it this easy to meet the people actually running Bitcoin circular economies, not just theorising about them."
-        ]
-      }
-    ]
-  },
-  "premier-finalityforum": {
-    "summaryLead": "On 7 October, mid-TOKEN2049 week in Singapore, Ethene Labs convenes the Finality Forum - a single-day gathering on finality, restaking, and stablecoin infrastructure. Three topics that sound like a syllabus but function as one system: how quickly transactions become irreversible, how that security gets recycled and paid for, and how dollar rails ride on top of both.",
-    "sections": [
-      {
-        "heading": "One system wearing three buzzwords",
-        "content": [
-          "Finality is the property users feel least and depend on most - the moment a transaction stops being provisional. Restaking reshapes who provides economic security for new services and at what price, effectively turning security budgets into allocable resources. Stablecoin infrastructure is where both meet retail reality, moving serious value daily across remittance, trading, and payments rails without most senders ever noticing.",
-          "Split across separate conferences, these conversations lose their connective tissue. A forum that holds them together forces better questions: what does fast finality actually cost, who bears restaking's correlated risk when markets turn, and what happens to stablecoin issuers if settlement guarantees shift underneath their reserves?"
-        ]
-      },
-      {
-        "heading": "The studio convening it",
-        "content": [
-          "Ethene Labs is an Asia-based venture studio working with Web3 and AI companies on go-to-market in the region. Its site lists Arbitrum, Sei, NEAR, Uniswap, Flow Traders, Pyth, Frax, and Mantle among the logos it counts as trusted partners, alongside a token advisory practice for teams entering Asian markets.",
-          "That go-to-market DNA shapes expectations. Expect a commercially literate room - founders, business development leads, investors - rather than a purely academic seminar. The studio also handles large-scale conference operations for major AI companies, so production values should sit well above the average hotel-ballroom side event. Its whole business is knowing who in Asia actually signs off on integrations - usually worth more than another panel."
-        ]
-      },
-      {
-        "heading": "Week strategy",
-        "content": [
-          "TOKEN2049 week floods Singapore with tens of thousands of visitors and a side-event list that grows absurd by autumn. The winning approach is ruthless filtering: skip anything that could have been a webinar, attend only what requires the room. Infrastructure topics like these qualify - the people who can answer hard finality questions are physically scarce.",
-          "Midweek timing helps too. An early-week slot like 7 October leaves runway to act on introductions before everyone flies home, unlike Friday-afternoon gatherings where momentum evaporates somewhere around baggage claim.",
-          "Come armed with the awkward numbers nobody puts on landing pages: your finality targets versus what your chain actually guarantees today, your exposure to restaked collateral correlations, and your stablecoin settlement dependencies. Forums like this reward people who bring measurements instead of opinions, because the room can actually check them."
-        ]
-      },
-      {
-        "heading": "Who should prioritize it",
-        "content": [
-          "Protocol teams selling to stablecoin issuers, restaking platforms courting operators of actively validated services, and institutional players evaluating settlement guarantees form the natural core audience - these are the three constituencies the forum's own framing puts in one room. Payment companies watching stablecoin volumes climb year over year should circle it as well; infrastructure decisions discussed here determine their cost curves later.",
-          "Check the organizer's site closer to the date for venue and registration specifics, since TOKEN2049-week programming firms up late. And pace yourself once there: Singapore's side-event circuit rewards stamina, and anyone who sprints on Monday night rarely survives to Thursday's best conversations."
-        ]
-      }
-    ]
-  },
-  "premier-theodds": {
-    "summaryLead": "Prediction markets finally get their own room in Singapore. The Odds: Prediction Markets Summit lands at Suntec Convention Centre on 8 October, 14:00 to 20:00, during TOKEN2049 week, produced by More & More - the team behind curated executive gatherings - with roughly 400 selected attendees, fifty-plus speakers, and three stages devoted entirely to betting on the future, formally known as forecasting.",
-    "sections": [
-      {
-        "heading": "Why a dedicated summit, why now",
-        "content": [
-          "Prediction markets spent years as a crypto curiosity, then election cycles and sports volumes turned them into genuine financial infrastructure almost overnight. The category now spans information markets, resolution mechanics, and on-chain forecasting - each carrying unsolved problems in regulation, oracle design, and liquidity that deserve focused argument rather than a single panel slot.",
-          "Scale is the pitch. TOKEN2049 draws tens of thousands to Singapore, and The Odds positions itself for what it calls the most relevant one percent of that crowd. Curation cuts noise: with 400 people who all build in, fund, or regulate the category, even the coffee lines become qualified introductions. The FAQ puts it bluntly - quality of conversation over volume.",
-          "The attendee mix the organizers describe reads like a category map in itself: institutions, exchanges, market makers, oracles, data providers, VCs, AI companies, and the compliance teams now circling prediction markets everywhere. Suntec Convention Centre helps too - a downtown hub minutes from Marina Bay Sands and the central business district, so the room stays connected to the rest of TOKEN2049 week without being swallowed by it."
-        ]
-      },
-      {
-        "heading": "Three stages, three constituencies",
-        "content": [
-          "The Institutional Stage handles adoption, market structure, exchanges, regulation, and finance - the questions traditional institutions ask before touching anything. The AI & Agents Stage covers automated forecasting, agentic systems, and autonomous decision layers, a natural pairing given how much machine-driven flow prediction markets already attract.",
-          "The Builder & Infrastructure Stage carries product demos, developer sessions, workshops, and startup presentations. A companion Builder Program runs pre-event sessions, mentorship, partner challenges, and a live showcase, with selected teams presenting on stage - a real pathway for early companies rather than another logo wall."
-        ]
-      },
-      {
-        "heading": "The company kept",
-        "content": [
-          "The organizers list an ambitious orbit of companies participating in The Odds conferences: J.P. Morgan, Citi, Mastercard, Coinbase, Circle, Polymarket, OKX, Bybit, Fireblocks, and TRM Labs among them. Treat that as directional - participation spans editions and formats - but the breadth signals how far the category reaches, from bank compliance desks to on-chain order books.",
-          "Named speakers for Singapore weren't published yet at writing, and nominations stay open through the site. Previous editions drew operators, founders, and institutions from across the space, with the FAQ confirming the 2026 roster is being curated now."
-        ]
-      },
-      {
-        "heading": "Getting through the door",
-        "content": [
-          "Attendance is application-based, with a waitlist rather than open ticketing - plan ahead and apply early, because curation takes time and TOKEN2049 week calendars fill months out. Partners get private meeting rooms and an exhibition zone, which tells you deals are meant to happen on-site, not in follow-up emails.",
-          "Note the independence: this is a More & More production held during TOKEN2049 week, not an official TOKEN2049 event. That's standard practice in the side-event economy, but worth knowing when budgeting your calendar - and when deciding which badge actually gets you into which conversations."
-        ]
-      }
-    ]
-  },
-  "premier-connectsg": {
-    "summaryLead": "CONNECT by Cointelegraph brings its accelerator-flavored forum format to Singapore on October 9, 2026, riding the TOKEN2049 halo with a single day of founder showcases and capital conversations in one of the world's most regulated crypto hubs.",
-    "sections": [
-      {
-        "heading": "From Seoul to Singapore in eleven days",
-        "content": [
-          "Cointelegraph's CONNECT series touches down in Singapore just over a week after its Seoul edition, and the two cities anchor the autumn circuit for anyone serious about Asian crypto markets. The October 9 date places it in TOKEN2049's orbit, when the island fills with founders, funds, and the auxiliary events that make Singapore late-year crypto season what it is.",
-          "The Singapore edition carries a distinct accent from its Korean sibling. The listing emphasizes founder showcases and capital conversations, positioning the day closer to a dealmaking forum than a panel festival. That tracks with Cointelegraph's broader footprint in the region: beyond its newsroom, the company operates an accelerator program and events arm, and CONNECT functions as the public face where those pipelines surface their cohorts and contacts."
-        ]
-      },
-      {
-        "heading": "Riding the TOKEN2049 halo",
-        "content": [
-          "TOKEN2049 week transforms Singapore into the highest-density crypto networking environment anywhere on the calendar. Side events compete fiercely, and the ones that survive year over year share a trait: they give attendees a reason to be in a specific room at a specific hour. A showcase format does exactly that, putting founders in front of capital with a clock running.",
-          "For investors, the appeal is efficiency. Rather than scheduling forty coffees across four days, a curated showcase concentrates the pitch flow into one afternoon, with the forum's networking blocks handling the follow-ups. For founders, the value cuts the other way: access to allocators who are already in town and already primed to listen."
-        ]
-      },
-      {
-        "heading": "Showcases and capital conversations",
-        "content": [
-          "The phrase capital conversations does real work in the listing. Singapore's allocator base is unusual in crypto: family offices with mandates, licensed fund managers operating under MAS oversight, and venture firms using the city as their Asia basecamp. Discussions here tend to concern terms, structures, and jurisdictional questions as much as technology, reflecting a market where regulation is treated as infrastructure rather than obstacle.",
-          "Founders preparing to showcase should calibrate accordingly. A crisp answer on licensing strategy or token structuring earns more attention in this room than another demo video. The Cointelegraph connection adds a media multiplier too; compelling stories told on this stage have a habit of becoming coverage, which compounds the value of the day well past October 9."
-        ]
-      },
-      {
-        "heading": "The practical rundown",
-        "content": [
-          "The event runs 09:00 to 18:00 on October 9. Confirm registration, venue, and showcase applications through Cointelegraph's official channels, since TOKEN2049-week programming frequently adjusts logistics as the date nears. Singapore's venue geography is forgiving, the MRT solves most transport problems, and October humidity argues for scheduling outdoor conversations in the evening rather than midday.",
-          "Visa logistics deserve an early check for anyone flying in from outside the visa-free list; Singapore's e-arrival processing is quick but not instant, and conference week queues at Changi are real. Within the city, book accommodation near a downtown MRT interchange rather than chasing proximity to the specific venue, because side events scatter across Marina Bay and the CBD all week.",
-          "Stack your week deliberately. With the main conference and dozens of side events compressed into the same stretch, treat CONNECT as the concentrated dose: one day for structured exposure to founders and capital, leaving the remaining days for the bilateral meetings it generates."
         ]
       }
     ]
