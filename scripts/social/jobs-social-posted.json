@@ -127294,7 +127294,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "c4033eb2-4dce-4307-bc3a-7dd13c00e91f",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af3028a5799f4c24ff1b3e3"
     }
   ]
 }
