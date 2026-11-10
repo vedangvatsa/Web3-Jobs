@@ -153164,11 +153164,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "736bb425153ad2590d7f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-08T10:05:15.191Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-11T07:35:00.000Z",
-      "lastSeenAt": "2026-11-08T10:05:15.191Z"
+      "lastSeenAt": "2026-11-08T10:05:15.191Z",
+      "reason": "out-of-scope",
+      "note": "Read the Crypto Briefing Nov 8 story: it covers Quantinuum's Q3 earnings, bookings and revenue guidance. Quantinuum is a quantum computing firm and the report contains no Web3, crypto or blockchain development, so it is outside this site's coverage.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/quantinuum-raises-2026-revenue-outlook/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-10T03:13:07.007Z",
+      "lastReviewedDay": "2026-11-10"
     },
     "856bd37a86514cd6aa79": {
       "source": "CryptoSlate",
@@ -155215,11 +155225,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "f3152b470d43879763f0",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-09T03:31:35.284Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-11T22:36:22.000Z",
-      "lastSeenAt": "2026-11-09T03:31:35.284Z"
+      "lastSeenAt": "2026-11-09T03:31:35.284Z",
+      "reason": "price-chatter",
+      "note": "Read the Crypto Briefing Nov 8 page: it is explicitly an interpretive analysis of prediction-market pricing around an Nvidia board probe, built around odds tables and price targets rather than a concrete Web3 event.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/nvidia-investigation-raises-uncertainty-for-asian-tech-markets/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-10T03:13:07.007Z",
+      "lastReviewedDay": "2026-11-10"
     },
     "009fd0db79e31e75d876": {
       "source": "The Defiant",
@@ -158471,11 +158491,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "ab17ce97f82649607684",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-12T10:39:12.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "reason": "source-blocked",
+      "note": "Fetched the The Defiant URL twice (text and markdown); the article body is client-rendered and never loads, leaving only the headline and deck visible. Deck reports a PeckShield flag of a $45.3M ETH long with a possible UXLink exploit link and a later snapshot near $44M exposure, but the full report could not be read.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/markets/peckshield-flags-45-3-million-eth-long-with-possible-uxlink-exploit-link",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-10T03:13:07.007Z",
+      "retrySearches": [
+        "Open the full PeckShield flag of the $45.3 million ETH long and find independent corroboration of any UXLink exploit connection; try an alternate outlet or cached copy of the The Defiant story"
+      ],
+      "lastReviewedDay": "2026-11-10",
+      "nextReviewDate": "2026-11-11"
     },
     "346c3231f79093e78257": {
       "source": "The Defiant",
@@ -301854,6 +301888,45 @@
           ],
           "reviewedAt": "2026-11-10T03:03:50.424Z",
           "articleSlug": "mbreopening"
+        },
+        "736bb425153ad2590d7f": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Crypto Briefing Nov 8 story: it covers Quantinuum's Q3 earnings, bookings and revenue guidance. Quantinuum is a quantum computing firm and the report contains no Web3, crypto or blockchain development, so it is outside this site's coverage.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/quantinuum-raises-2026-revenue-outlook/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-10T03:13:07.007Z"
+        },
+        "f3152b470d43879763f0": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read the Crypto Briefing Nov 8 page: it is explicitly an interpretive analysis of prediction-market pricing around an Nvidia board probe, built around odds tables and price targets rather than a concrete Web3 event.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/nvidia-investigation-raises-uncertainty-for-asian-tech-markets/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-10T03:13:07.007Z"
+        },
+        "ab17ce97f82649607684": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Fetched the The Defiant URL twice (text and markdown); the article body is client-rendered and never loads, leaving only the headline and deck visible. Deck reports a PeckShield flag of a $45.3M ETH long with a possible UXLink exploit link and a later snapshot near $44M exposure, but the full report could not be read.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/markets/peckshield-flags-45-3-million-eth-long-with-possible-uxlink-exploit-link",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-10T03:13:07.007Z",
+          "retrySearches": [
+            "Open the full PeckShield flag of the $45.3 million ETH long and find independent corroboration of any UXLink exploit connection; try an alternate outlet or cached copy of the The Defiant story"
+          ]
         }
       },
       "baselineSlugs": [
