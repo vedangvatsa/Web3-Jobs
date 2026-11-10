@@ -3561,7 +3561,7 @@
     "sentAt": "2026-11-10T11:33:27.893Z"
   },
   "cf6b3183-3e96-4995-9cb6-d98766a033ba": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-10T19:34:43.443Z",
     "stories": [
       {
@@ -3593,6 +3593,8 @@
         "originalTitle": "The US is winning the AI race. Jensen Huang could have blown it"
       }
     ],
-    "slotKey": "2026-11-10:evening"
+    "slotKey": "2026-11-10:evening",
+    "messageId": 193493,
+    "sentAt": "2026-11-10T19:34:54.766Z"
   }
 }

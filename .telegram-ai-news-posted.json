@@ -911,6 +911,9 @@
   "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
   "https://siliconangle.com/2026/11/09/meta-introduces-muse-ember-to-power-cost-efficient-ai-agents/",
   "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+  "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+  "https://siliconangle.com/2026/11/06/thinking-machines-debuts-inkling-2-small-amid-reported-5b-fundraising-push/",
+  "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2514,6 +2517,12 @@
   "Meta introduces Muse Ember to power cost-efficient AI agents",
   "Developers Release AI Models With Removed Safety Filters",
   "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+  "Google releases two new specialized AI processing chips",
+  "Google broadens its AI hardware portfolio with two new specialized chips",
+  "Thinking Machines releases Inkling 2 Small language model",
+  "Thinking Machines debuts Inkling 2 Small amid reported $5B fundraising push",
+  "Nvidia CEO Jensen Huang faces potential security risks",
+  "The US is winning the AI race. Jensen Huang could have blown it",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2942,5 +2951,8 @@
   "fp:adob|are|artist|build|collaboration|creat|develop|disney|focus|generativ",
   "fp:effort|encryption|formally|global|googl|google|messag|operat|part|protocol",
   "fp:agent|algorithm|automat|cost|efficient|efficiently|ember|internal|introduc|larger",
-  "fp:allow|chatbot|corporat|creat|cybersecurity|developer|down|enslaver|filter|fre"
+  "fp:allow|chatbot|corporat|creat|cybersecurity|developer|down|enslaver|filter|fre",
+  "fp:broaden|capacity|chip|confidential|enhanc|featur|googl|hardwar|increas|memory",
+  "fp:automat|debut|design|fund|fundrais|inkling2|languag|machin|process|push",
+  "fp:blown|ceo|chip|espionag|fac|hav|huang|international|jensen|leader"
 ]
