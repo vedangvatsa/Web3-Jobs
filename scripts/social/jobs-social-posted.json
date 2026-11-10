@@ -125713,6 +125713,34 @@
       "verification": "pending",
       "postId": "6af300f267f99540fd9789c0",
       "error": "Buffer X publish failed for 6af300f267f99540fd9789c0: This post contains a URL that X believes to be invalid. Please check the URL and try again."
+    },
+    {
+      "slug": "pm232",
+      "company": "Bybit",
+      "title": "Risk Control Principal Product Specialist",
+      "platform": "threads",
+      "postedAt": "2026-11-10T11:32:32.190Z",
+      "expectedText": "Bybit is hiring Risk Control Principal Product Specialist: https://hashtagweb3.com/pm232/th?og=7",
+      "snapshot": {
+        "id": "5011003101",
+        "title": "Risk Control Principal Product Specialist",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5011003101",
+        "date": "2026-11-05T14:15:29-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "Abu Dhabi, UAE",
+        "department": "Fiat Team",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm232"
+      },
+      "payload": {
+        "text": "Bybit is hiring Risk Control Principal Product Specialist: https://hashtagweb3.com/pm232/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/pm232/th?og=7"
+      },
+      "attemptId": "be1791e0-4db5-4138-8d5a-b662af96b038",
+      "verification": "creating"
     }
   ]
 }
