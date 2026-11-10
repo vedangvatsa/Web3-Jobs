@@ -157493,14 +157493,18 @@
         "id": "bdbf8055e028b863fe42",
         "day": "2026-11-10",
         "articleSlug": "warrenpred",
-        "note": "Read Bitcoin Magazine Nov 9 full text on Warren's prediction-market oversight agenda sourced to a Punchbowl aide; second independent source (CNBC, Politico or The Block) and draft still needed.",
+        "note": "Draft written and hero self-hosted; running audits before ready record.",
         "sourceChecks": [
           {
             "url": "https://bitcoinmagazine.com/news/elizabeth-warren-prediction-crackdown",
             "outcome": "read"
+          },
+          {
+            "url": "https://www.cnbc.com/2026/11/09/elizabeth-warren-senate-banking-agenda.html",
+            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-10T03:05:08.843Z",
+        "updatedAt": "2026-11-10T03:14:50.571Z",
         "approved": false,
         "mustReview": true
       }
