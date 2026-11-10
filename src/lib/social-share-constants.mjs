@@ -81,6 +81,7 @@ export const PUBLIC_PAGE_ALIASES = {
   '/crypto-tax-bills': '/tax-bills',
   '/nasdaq-tokenized-stocks': '/nasdaq-tokens',
   '/jio': '/jio-perpetuals',
+  '/nearlaunder': '/nearmemecoin',
   '/terms-of-use': '/terms-of-use.md',
   '/terms': '/terms-of-use.md',
   '/tos': '/terms-of-use.md',

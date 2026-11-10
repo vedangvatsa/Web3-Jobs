@@ -23020,5 +23020,29 @@
     "width": 1200,
     "height": 630,
     "type": "image/png"
+  },
+  "/images/news/coinbasetrust.jpg": {
+    "url": "https://hashtagweb3.com/images/news/coinbasetrust.jpg",
+    "width": 1920,
+    "height": 1416,
+    "type": "image/jpeg"
+  },
+  "/images/news/nyseavalanche.jpg": {
+    "url": "https://hashtagweb3.com/images/news/nyseavalanche.jpg",
+    "width": 1920,
+    "height": 1282,
+    "type": "image/jpeg"
+  },
+  "/images/news/telegramwallets.jpg": {
+    "url": "https://hashtagweb3.com/images/news/telegramwallets.jpg",
+    "width": 1920,
+    "height": 1280,
+    "type": "image/jpeg"
+  },
+  "/images/news/binancecfo.jpg": {
+    "url": "https://hashtagweb3.com/images/news/binancecfo.jpg",
+    "width": 1920,
+    "height": 1440,
+    "type": "image/jpeg"
   }
 }

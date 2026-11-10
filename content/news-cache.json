@@ -1,6 +1,70 @@
 {
-  "generatedAt": "2026-11-10T02:19:51.892Z",
+  "generatedAt": "2026-11-10T08:03:39.734Z",
   "items": [
+    {
+      "title": "Securitize agrees to buy River One to expand into asset-backed lending",
+      "link": "https://cointelegraph.com/news/securitize-river-one-asset-backed-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 10 Nov 2026 07:49:14 +0000",
+      "creator": "Zoltan Vardai",
+      "contentSnippet": "Securitize agreed to buy River One to bring stablecoin funding to asset-backed lending and expects the deal to close in the fourth quarter of 2026.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
+      "link": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
+      "pubDate": "Tue, 10 Nov 2026 07:01:06 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "Bots spotted a wallet from Ethereum’s 2015 launch the moment it stirred and planted lookalike addresses in its history, but the owner sent the money t...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Coinbase, Kalshi and Payward backs CFTC in lawsuit over single-stock perp futures",
+      "link": "https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971",
+      "pubDate": "Tue, 10 Nov 2026 06:19:10 +0000",
+      "creator": "Timmy Shen",
+      "contentSnippet": "The crypto firms moved for leave to file an amicus brief defending the CFTC's authority to regulate single-stock perpetual futures in the US.",
+      "source": "The Block"
+    },
+    {
+      "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+      "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
+      "pubDate": "Tue, 10 Nov 2026 05:18:31 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "MARA paid off every loan backed by its bitcoin and says the rest of its coins can fund AI datacenters.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
+      "link": "https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 10 Nov 2026 05:05:58 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "“Cold storage is a useful measure of online exposure, but it is not a standalone security score,” the cybersecurity firm told Cointelegraph.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
+      "link": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
+      "pubDate": "Tue, 10 Nov 2026 04:51:20 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "The XRP Ledger Foundation’s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on trac...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Trump Media swings to $410 million profit in Q3, driven by crypto gains",
+      "link": "https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964",
+      "pubDate": "Tue, 10 Nov 2026 03:36:43 +0000",
+      "creator": "Timmy Shen",
+      "contentSnippet": "Trump Media and Technology Group reported a net income of $409.7 million in Q3, compared with a net loss of $54.8 million a year earlier.",
+      "source": "The Block"
+    },
+    {
+      "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+      "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+      "pubDate": "Tue, 10 Nov 2026 03:22:26 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Bitcoin trades below $75,000 ahead of the October inflation data. Analysts warning that sustainable recovery depends on improving liquidity and spot E...",
+      "source": "Coindesk"
+    },
     {
       "title": "Western Europe’s $2.08 Trillion Crypto Economy Shows Resilience",
       "link": "https://blockchain.news/news/western-europe-crypto-economy-2026",
@@ -64,14 +128,6 @@
       "creator": "Conor Devitt",
       "contentSnippet": "Michael Saylor’s Bitcoin treasury firm, Strategy (MSTR), stacked $82 million worth of BTC in the past week. The company bought 1,036 Bitcoin at an ave...",
       "source": "Daily Hodl"
-    },
-    {
-      "title": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
-      "link": "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950",
-      "pubDate": "Mon, 09 Nov 2026 22:07:00 +0000",
-      "creator": "Jason Shubnell",
-      "contentSnippet": "MARA posted a $634.4 million Q3 net profit, then sold 13,597 BTC to repay $750 million in loans as it pivots to AI.",
-      "source": "The Block"
     },
     {
       "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
@@ -168,6 +224,14 @@
       "creator": "Shaurya Malwa",
       "contentSnippet": "The AntPool block came within 984 transactions of Bitcoin’s 2015 record, even as fees made up less than 0.1% of the miner’s payout.",
       "source": "Coindesk"
+    },
+    {
+      "title": "Ethereum treasury Sharplink’s Q3 net income hits $751 million on unrealized ether gains",
+      "link": "https://www.theblock.co/news/markets/2026-11-09-sharplink-q3-2026-earnings-net-income-eth-holdings-436459",
+      "pubDate": "Mon, 09 Nov 2026 15:40:30 +0000",
+      "creator": "Jason Shubnell",
+      "contentSnippet": "Sharplink posted Q3 revenue of $13.5 million and net income of $751.4 million, driven by unrealized ETH gains.",
+      "source": "The Block"
     },
     {
       "title": "Prediction market broker River Markets registers affiliate as CFTC futures commission merchant",
@@ -362,22 +426,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "What is Zcash (ZEC)? How shielded transactions work",
-      "link": "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779",
-      "pubDate": "Mon, 09 Nov 2026 02:36:01 +0000",
-      "creator": "Research",
-      "contentSnippet": "Zcash (ZEC) is a privacy coin and blockchain launched in 2016. It allows users to make both public and private transactions. The latter — called “shie...",
-      "source": "The Block"
-    },
-    {
-      "title": "Onchain data casts doubt on insider-trading theory in NYT’s ‘suspicious’ election betting story",
-      "link": "https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034",
-      "pubDate": "Sun, 08 Nov 2026 23:07:02 +0000",
-      "creator": "Zack Abrams",
-      "contentSnippet": "The New York Times reported on 'suspicious' bets, but two experts who reviewed The Block's findings said the evidence doesn't strongly suggest foul pl...",
-      "source": "The Block"
-    },
-    {
       "title": "What the election results mean for crypto: State of Crypto ",
       "link": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
       "pubDate": "Sun, 08 Nov 2026 19:30:00 +0000",
@@ -410,36 +458,12 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
-      "link": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
-      "pubDate": "Sun, 08 Nov 2026 12:55:59 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "A Finnish startup has 30 bitcoin mining systems working as central heating, and at today’s prices each one earns slightly more than the electricity it...",
-      "source": "Coindesk"
-    },
-    {
       "title": "Binance’s  finance chief Kaiser Ng to leave company, report says",
       "link": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Sun, 08 Nov 2026 08:12:56 +0000",
       "creator": "Michael Millard",
       "contentSnippet": "Ng will be replaced by Justin Yek, who was formerly vice-president of finance at Airwallex.",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
-      "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
-      "pubDate": "Sat, 07 Nov 2026 17:36:46 +0000",
-      "creator": "Francisco Rodrigues",
-      "contentSnippet": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-      "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
-      "pubDate": "Sat, 07 Nov 2026 16:51:00 +0000",
-      "creator": "Francisco Rodrigues",
-      "contentSnippet": "One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams.",
-      "source": "Coindesk"
     },
     {
       "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
@@ -456,6 +480,14 @@
       "creator": "Christina Comben",
       "contentSnippet": "Bitcoin’s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can ...",
       "source": "Cointelegraph"
+    },
+    {
+      "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
+      "link": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
+      "pubDate": "Fri, 06 Nov 2026 21:06:03 +0000",
+      "creator": "Staff",
+      "contentSnippet": "FinCEN’s order, part of Operation Economic Outcast, bars U.S. institutions from any transfers to or from MEXC, which Treasury says facilitated $16 bil...",
+      "source": "Decrypt"
     },
     {
       "title": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
@@ -487,6 +519,14 @@
       "pubDate": "Fri, 06 Nov 2026 17:42:31 +0000",
       "creator": "Agent",
       "contentSnippet": "OFAC targeted offshore companies and associates it says helped Prince Group executives hide assets and dodge earlier sanctions.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
+      "link": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
+      "pubDate": "Fri, 06 Nov 2026 16:41:29 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Gnosis Pay said hackers accessed customer information on the legacy system behind its branded cards, though funds weren’t affected and its enterprise ...",
       "source": "Decrypt"
     },
     {

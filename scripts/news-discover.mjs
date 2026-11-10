@@ -34,17 +34,36 @@ export function canonicalNewsUrl(value) {
   } catch { return ''; }
 }
 
-const STOP = new Set('a an the and or with for from after amid into over under of to on in at as is are was were its it this that by says said new latest news crypto web3'.split(' '));
+function stem(w) {
+  w = w.toLowerCase().replace(/[^a-z0-9]/g, '');
+  if (!w) return '';
+  if (w.endsWith('ies') && w.length > 4) return w.slice(0, -3) + 'y';
+  if (w.endsWith('ing') && w.length > 4) return w.slice(0, -3);
+  if (w.endsWith('ed') && w.length > 3) return w.slice(0, -2);
+  if (w.endsWith('es') && w.length > 3) return w.slice(0, -2);
+  if (w.endsWith('s') && !w.endsWith('ss') && !w.endsWith('us') && !w.endsWith('is') && w.length > 3) return w.slice(0, -1);
+  if (w.endsWith('ers') && w.length > 4) return w.slice(0, -3);
+  if (w.endsWith('er') && w.length > 3) return w.slice(0, -2);
+  return w;
+}
+
+const STOP = new Set('a an the and or with for from after amid into over under of to on in at as is are was were its it this that by says said new latest news crypto web3 report reports'.split(' '));
+const GENERIC = new Set('million billion profit profits revenue quarter quarterly earnings income post posts gain gains net drop offset drive drives record common market prices trade trading trades price'.split(' '));
 const normalizedTitle = title => String(title || '').normalize('NFKD').toLowerCase().replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, ' ').trim();
 const ACTIONS = [
-  /\b(approve[sd]?|adopt[sed]*|passes?|passed|wins?)\b/i,
+  /\b(approve[sd]?|approval[s]?|adopt[sed]*|passes?|passed|wins?|secures?)\b/i,
   /\b(reject[sed]*|denie[sd]|blocks?|blocked|dismiss[sed]*)\b/i,
   /\b(propos[ea-z]*|plans?|appl[yi][a-z]*|seeks?)\b/i,
   /\b(recover[a-z]*|return[sed]*|repaid|repays?|refund[a-z]*)\b/i,
   /\b(hack[a-z]*|exploit[a-z]*|stolen|breach[a-z]*|theft)\b/i,
 ];
 function tokens(title) {
-  return new Set(normalizedTitle(String(title).replace(/\b(erc|eip|bip)[ -]?(\d+)\b/ig, '$1$2')).split(/\s+/).filter(word => word && !STOP.has(word)));
+  const norm = normalizedTitle(String(title).replace(/\b(erc|eip|bip)[ -]?(\d+)\b/ig, '$1$2'));
+  return new Set(norm.split(/\s+/).filter(word => word && !STOP.has(word)).map(stem).filter(word => word.length > 1 || /\d/.test(word)));
+}
+function distinctiveTokens(title) {
+  const norm = normalizedTitle(String(title).replace(/\b(erc|eip|bip)[ -]?(\d+)\b/ig, '$1$2'));
+  return new Set(norm.split(/\s+/).filter(word => word && !STOP.has(word) && !GENERIC.has(word)).map(stem).filter(word => word.length > 1 || /\d/.test(word)));
 }
 
 export function sameNewsStory(first, second) {
@@ -53,10 +72,19 @@ export function sameNewsStory(first, second) {
   const actionsA = ACTIONS.flatMap((pattern, index) => pattern.test(first) ? [index] : []), actionsB = ACTIONS.flatMap((pattern, index) => pattern.test(second) ? [index] : []);
   if (actionsA.length && actionsB.length && actionsA.join(',') !== actionsB.join(',')) return false;
   const a = tokens(first), b = tokens(second);
+  const da = distinctiveTokens(first), db = distinctiveTokens(second);
   const numbersA = [...a].filter(token => /\d/.test(token)), numbersB = [...b].filter(token => /\d/.test(token));
   if (numbersA.length && numbersB.length && !numbersA.some(token => numbersB.includes(token))) return false;
   const shared = [...a].filter(token => b.has(token)).length;
-  return shared >= 4 && shared / (a.size + b.size - shared) >= 0.72;
+  const sharedDistinctive = [...da].filter(token => db.has(token)).length;
+  const minDistinctive = Math.min(da.size, db.size);
+  if (sharedDistinctive < 2) return false;
+  const minSize = Math.min(a.size, b.size);
+  const jaccard = shared / (a.size + b.size - shared);
+  const overlap = shared / minSize;
+  const distinctiveOverlap = sharedDistinctive / minDistinctive;
+  return (sharedDistinctive >= 3 && (jaccard >= 0.25 || overlap >= 0.35 || distinctiveOverlap >= 0.35))
+      || (sharedDistinctive >= 2 && distinctiveOverlap >= 0.5 && (da.has('occ') || da.has('cfo') || da.has('avalanche') || da.has('nyse') || da.has('telegram')));
 }
 
 export function readNewsArticles(cwd = process.cwd()) {
@@ -99,10 +127,10 @@ export function parseFeed(xml) {
 
 export function rankScore(title) {
   let score = 0;
-  if (/\b(sec|fca|cftc|senate|house|vote|bill|act|lawsuit|court|fine|ban|license|etf|staking|reserve|audit)\b/i.test(title)) score += 3;
-  if (/\b(launch|mainnet|upgrade|hardfork|raises|funding|invests|partnership|acquires)\b/i.test(title)) score += 2;
+  if (/\b(sec|fca|cftc|senate|house|vote|bill|act|lawsuit|court|fine|ban|license|etf|staking|reserve|audit|occ|fdic|fed|federal|charter|trust bank|treasury|regulator|regulatory|doj)\b/i.test(title)) score += 3;
+  if (/\b(launch|mainnet|upgrade|hardfork|raises|funding|invests|partnership|acquires|settle|settlement|nyse|nasdaq|tokenized|cfo|ceo|resigns|steps down|departs|leaves)\b/i.test(title)) score += 2;
   if (/\b(hack|exploit|breach|drain|phishing|scam|rug)\b/i.test(title)) score += 2;
-  if (/\b(bitcoin|ethereum|solana|xrp|blackrock|coinbase|binance|circle|tether)\b/i.test(title)) score++;
+  if (/\b(bitcoin|ethereum|solana|xrp|blackrock|coinbase|binance|circle|tether|avalanche|avax|telegram|ton|near|polygon)\b/i.test(title)) score++;
   if (/\b(price prediction|price analysis|will .* (hit|reach)|top .* to buy|explain(ed)?|what is|how to|guide)\b/i.test(title)) score -= 4;
   return score;
 }

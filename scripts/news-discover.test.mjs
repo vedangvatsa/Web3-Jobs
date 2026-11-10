@@ -20,6 +20,10 @@ test('common archive vocabulary and different events do not suppress a new story
   assert.equal(sameNewsStory('Circle applies for national bank charter', 'Circle receives approval for national bank charter'), false);
   assert.equal(sameNewsStory('Ethereum core developers approve proposal to increase staking rewards', 'Ethereum core developers reject proposal to increase staking rewards'), false);
   assert.equal(sameNewsStory('NEAR Intents loses funds in smart contract exploit', 'NEAR Intents recovers funds from smart contract exploit'), false);
+  assert.equal(sameNewsStory('North Korean hackers create memecoins to launder funds from Binance hack: Elliptic', 'North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack'), true);
+  assert.equal(sameNewsStory('Coinbase Secures Final OCC Approval for Its National Trust Bank', 'Coinbase Wins Full Federal Trust Charter From OCC'), true);
+  assert.equal(sameNewsStory('NYSE Picks Avalanche for Tokenized Stock Settlement', 'NYSE to settle tokenized stocks on Avalanche in planned 24/7 market'), true);
+  assert.equal(sameNewsStory('Binance Names Justin Yek CFO as Kaiser Ng Prepares to Leave', 'Binance’s finance chief Kaiser Ng to leave company, report says'), true);
 });
 
 test('individual story titles and cited source URLs still identify covered reporting', () => {

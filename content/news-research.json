@@ -153018,13 +153018,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "f38c7e27b8752c273d4f",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-11-08T10:05:15.191Z",
       "attempts": 3,
       "expiresAt": "2026-11-10T21:57:58.000Z",
       "lastSeenAt": "2026-11-08T10:05:15.191Z",
-      "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago\": https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "reason": "duplicate",
+      "note": "Duplicate of binancecfo covering Binance CFO Kaiser Ng departure and Justin Yek appointment.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
@@ -153034,14 +153034,15 @@
           "checkedAt": "2026-11-10T02:20:05.824Z"
         }
       ],
-      "reviewedAt": "2026-11-10T02:20:16.506Z",
+      "reviewedAt": "2026-11-10T08:03:04.183Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
         "Find independent reporting confirming the event in: Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
       "lastReviewedDay": "2026-11-10",
-      "nextReviewDate": "2026-11-11"
+      "nextReviewDate": "2026-11-11",
+      "duplicateOf": "binancecfo"
     },
     "dec9df405841d7ab4ddc": {
       "source": "Crypto Briefing",
@@ -153283,11 +153284,31 @@
       ],
       "alsoCoveredBy": [],
       "id": "dd7b492ede878641eff8",
-      "status": "pending",
+      "status": "published",
       "firstSeenAt": "2026-11-08T10:05:15.191Z",
       "attempts": 0,
       "expiresAt": "2026-11-11T08:12:56.000Z",
-      "lastSeenAt": "2026-11-09T03:31:35.284Z"
+      "lastSeenAt": "2026-11-09T03:31:35.284Z",
+      "articleSlug": "binancecfo",
+      "reason": "verified-event",
+      "note": "Verified Kaiser Ng stepping down and Justin Yek appointment as CFO; wrote 647-word article citing Cointelegraph, Unchained, and DOJ settlement records.",
+      "publishedAt": "2026-11-10T08:03:04.183Z",
+      "reviewedAt": "2026-11-10T08:03:04.183Z",
+      "lastReviewedDay": "2026-11-10",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/with-probe-gavel-in-reach-blumenthal-warns-binance-and-tether-of-alternative-measures/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.justice.gov/opa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution",
+          "outcome": "read"
+        }
+      ]
     },
     "35a40a2093f0e43baeb6": {
       "source": "The Defiant",
@@ -153365,13 +153386,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "ddbb548bb57e924cc783",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-11-08T10:05:15.191Z",
       "attempts": 3,
       "expiresAt": "2026-11-10T21:22:36.000Z",
       "lastSeenAt": "2026-11-08T10:05:15.191Z",
-      "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"Binance Names Justin Yek CFO as Kaiser Ng Prepares to Leave\": https://thedefiant.io/news/cefi/binance-names-justin-yek-cfo-as-kaiser-ng-prepares-to-leave -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "reason": "duplicate",
+      "note": "Duplicate of binancecfo covering Binance CFO Kaiser Ng departure and Justin Yek appointment.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/cefi/binance-names-justin-yek-cfo-as-kaiser-ng-prepares-to-leave",
@@ -153381,14 +153402,15 @@
           "checkedAt": "2026-11-10T02:20:06.544Z"
         }
       ],
-      "reviewedAt": "2026-11-10T02:20:16.506Z",
+      "reviewedAt": "2026-11-10T08:03:04.183Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Binance Names Justin Yek CFO as Kaiser Ng Prepares to Leave",
         "Find independent reporting confirming the event in: Binance Names Justin Yek CFO as Kaiser Ng Prepares to Leave",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
       "lastReviewedDay": "2026-11-10",
-      "nextReviewDate": "2026-11-11"
+      "nextReviewDate": "2026-11-11",
+      "duplicateOf": "binancecfo"
     },
     "a3c8561416438c705e2b": {
       "source": "CoinDesk",
@@ -158000,37 +158022,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "d432811dc2217724766a",
-      "status": "published",
+      "status": "rejected",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 1,
       "expiresAt": "2026-11-12T15:00:44.000Z",
       "lastSeenAt": "2026-11-10T02:19:50.208Z",
-      "articleSlug": "nearlaunder",
-      "draftProgress": {
-        "id": "d432811dc2217724766a",
-        "day": "2026-11-10",
-        "articleSlug": "nearlaunder",
-        "note": "Read Cointelegraph and AltcoinBuzz full texts on the Elliptic memecoin-laundering report; CoinDesk primary URL returns HTTP 429. Draft and image still needed.",
-        "sourceChecks": [
-          {
-            "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic",
-            "outcome": "read"
-          },
-          {
-            "url": "https://www.altcoinbuzz.io/north-korea-linked-hackers-create-fake-memecoins-to-launder-stolen-binance-funds",
-            "outcome": "read"
-          },
-          {
-            "url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
-            "outcome": "blocked"
-          }
-        ],
-        "updatedAt": "2026-11-10T02:51:00.503Z",
-        "approved": false,
-        "mustReview": true
-      },
-      "reason": "verified-event",
-      "note": "Read Cointelegraph and AltcoinBuzz in full on the Elliptic report; wrote 681-word draft with two independent sites, self-hosted CC BY-SA hero, and clean quality/image/duplicate/formatting audits plus clean tsc.",
+      "reason": "duplicate",
+      "note": "Duplicate of nearmemecoin covering the Nov 9 Elliptic report on North Korean actors minting 6 throwaway memecoins on NEAR.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic",
@@ -158047,7 +158045,7 @@
       ],
       "reviewedAt": "2026-11-10T02:53:43.107Z",
       "lastReviewedDay": "2026-11-10",
-      "publishedAt": "2026-11-10T04:08:00.950Z"
+      "duplicateOf": "nearmemecoin"
     },
     "46e980078f4dc5054972": {
       "source": "Cointelegraph",
@@ -159144,11 +159142,31 @@
       ],
       "alsoCoveredBy": [],
       "id": "45f0619563dd7e89230f",
-      "status": "pending",
+      "status": "published",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 0,
       "expiresAt": "2026-11-12T20:10:46.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "articleSlug": "coinbasetrust",
+      "reason": "verified-event",
+      "note": "Verified OCC final approval for Coinbase National Trust Company; wrote 674-word article citing Bankless, Bitcoin Magazine, and Cointelegraph.",
+      "publishedAt": "2026-11-10T08:03:04.182Z",
+      "reviewedAt": "2026-11-10T08:03:04.183Z",
+      "lastReviewedDay": "2026-11-10",
+      "sourceChecks": [
+        {
+          "url": "https://www.bankless.com/read/news/coinbase-secures-final-occ-approval-for-its-national-trust-bank",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitcoinmagazine.com/news/coinbase-full-occ-national-trust-charter",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter",
+          "outcome": "read"
+        }
+      ]
     },
     "3fefd9e3a2cbfe33dd15": {
       "source": "BeInCrypto",
@@ -159764,11 +159782,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "0d3f6302d60357bb13a2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 0,
       "expiresAt": "2026-11-12T14:18:31.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "reason": "duplicate",
+      "duplicateOf": "coinbasetrust",
+      "note": "Duplicate of coinbasetrust covering Coinbase OCC federal trust bank charter approval.",
+      "reviewedAt": "2026-11-10T08:03:04.183Z",
+      "lastReviewedDay": "2026-11-10"
     },
     "2beac58008317c9cb239": {
       "source": "Cointelegraph",
@@ -159928,11 +159951,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "c0d1c118285314caa379",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 0,
       "expiresAt": "2026-11-12T11:50:36.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "reason": "duplicate",
+      "duplicateOf": "coinbasetrust",
+      "note": "Duplicate of coinbasetrust covering Coinbase OCC federal trust bank charter approval.",
+      "reviewedAt": "2026-11-10T08:03:04.183Z",
+      "lastReviewedDay": "2026-11-10"
     },
     "43fda9f0fe7de5d637ea": {
       "source": "Cointelegraph",
@@ -159949,11 +159977,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "43fda9f0fe7de5d637ea",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 0,
       "expiresAt": "2026-11-12T11:38:52.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "reason": "duplicate",
+      "duplicateOf": "coinbasetrust",
+      "note": "Duplicate of coinbasetrust covering Coinbase OCC federal trust bank charter approval.",
+      "reviewedAt": "2026-11-10T08:03:04.183Z",
+      "lastReviewedDay": "2026-11-10"
     },
     "743a96b96e4825706776": {
       "source": "Cointelegraph",
@@ -159991,11 +160024,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "c2f415e987d98379a6df",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 0,
       "expiresAt": "2026-11-12T10:00:00.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "reason": "duplicate",
+      "duplicateOf": "coinbasetrust",
+      "note": "Duplicate of coinbasetrust covering Coinbase OCC federal trust bank charter approval.",
+      "reviewedAt": "2026-11-10T08:03:04.183Z",
+      "lastReviewedDay": "2026-11-10"
     },
     "e50d0ebf1c1a9b5769d9": {
       "source": "The Block",
@@ -161795,11 +161833,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "76da0daafbbc1a86b9a3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 0,
       "expiresAt": "2026-11-12T17:41:02.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "reason": "duplicate",
+      "duplicateOf": "nyseavalanche",
+      "note": "Duplicate of nyseavalanche covering ICE/NYSE selecting Avalanche for tokenized stock settlement.",
+      "reviewedAt": "2026-11-10T08:03:04.183Z",
+      "lastReviewedDay": "2026-11-10"
     },
     "630d8a71bb15102408e1": {
       "source": "The Defiant",
@@ -162077,11 +162120,27 @@
       ],
       "alsoCoveredBy": [],
       "id": "d062c47ed70453df3a16",
-      "status": "pending",
+      "status": "published",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 0,
       "expiresAt": "2026-11-12T15:55:00.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "articleSlug": "nyseavalanche",
+      "reason": "verified-event",
+      "note": "Verified ICE / NYSE selection of Avalanche for tokenized equities 24/7 settlement; wrote 663-word article citing Unchained and Cointelegraph.",
+      "publishedAt": "2026-11-10T08:03:04.183Z",
+      "reviewedAt": "2026-11-10T08:03:04.183Z",
+      "lastReviewedDay": "2026-11-10",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/avalanche-lands-a-role-in-nyses-planned-tokenized-stock-venue-ava-labs-says/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal",
+          "outcome": "read"
+        }
+      ]
     },
     "8d827b66ae5299bbd4f3": {
       "source": "Decrypt",
@@ -162098,11 +162157,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "8d827b66ae5299bbd4f3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 0,
       "expiresAt": "2026-11-12T15:49:22.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "reason": "duplicate",
+      "duplicateOf": "nyseavalanche",
+      "note": "Duplicate of nyseavalanche covering ICE/NYSE selecting Avalanche for tokenized stock settlement.",
+      "reviewedAt": "2026-11-10T08:03:04.183Z",
+      "lastReviewedDay": "2026-11-10"
     },
     "f18a93229eadff5bb304": {
       "source": "CryptoSlate",
@@ -162363,30 +162427,37 @@
       ],
       "alsoCoveredBy": [],
       "id": "cda12bb4b35e141c0295",
-      "status": "deferred",
+      "status": "published",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 1,
       "expiresAt": "2026-11-12T14:26:31.000Z",
       "lastSeenAt": "2026-11-10T02:19:50.208Z",
-      "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"Durov Says 700,000-Plus Wallets Were Created on Telegram in 48 Hours\": https://thedefiant.io/news/infrastructure/durov-says-700-000-plus-wallets-were-created-on-telegram-in-48-hours -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "reason": "verified-event",
+      "note": "Verified Durov 700k wallet milestone across Telegram ecosystem; wrote 661-word article citing Durov channel, TON blog, and Cointelegraph.",
       "sourceChecks": [
         {
-          "url": "https://thedefiant.io/news/infrastructure/durov-says-700-000-plus-wallets-were-created-on-telegram-in-48-hours",
-          "outcome": "blocked",
-          "status": 403,
-          "method": "GET",
-          "checkedAt": "2026-11-10T02:20:10.766Z"
+          "url": "https://t.me/durov",
+          "outcome": "read"
+        },
+        {
+          "url": "https://ton.org/en/blog",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/apple-telegram-app-store-gram-rebounds",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-10T02:20:16.508Z",
+      "reviewedAt": "2026-11-10T08:03:04.183Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Durov Says 700,000-Plus Wallets Were Created on Telegram in 48 Hours",
         "Find independent reporting confirming the event in: Durov Says 700,000-Plus Wallets Were Created on Telegram in 48 Hours",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
       "lastReviewedDay": "2026-11-10",
-      "nextReviewDate": "2026-11-11"
+      "nextReviewDate": "2026-11-11",
+      "articleSlug": "telegramwallets",
+      "publishedAt": "2026-11-10T08:03:04.183Z"
     },
     "614e158ccebaf6dbd6f6": {
       "source": "The Defiant",
@@ -162403,13 +162474,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "614e158ccebaf6dbd6f6",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 1,
       "expiresAt": "2026-11-12T14:25:28.000Z",
       "lastSeenAt": "2026-11-10T02:19:50.208Z",
-      "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"NYSE Picks Avalanche for Tokenized Stock Settlement\": https://thedefiant.io/converge/tradfi-and-fintech/nyse-picks-avalanche-for-tokenized-stock-settlement -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "reason": "duplicate",
+      "note": "Duplicate of nyseavalanche covering ICE/NYSE selecting Avalanche for tokenized stock settlement.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/nyse-picks-avalanche-for-tokenized-stock-settlement",
@@ -162419,14 +162490,15 @@
           "checkedAt": "2026-11-10T02:20:10.813Z"
         }
       ],
-      "reviewedAt": "2026-11-10T02:20:16.508Z",
+      "reviewedAt": "2026-11-10T08:03:04.183Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: NYSE Picks Avalanche for Tokenized Stock Settlement",
         "Find independent reporting confirming the event in: NYSE Picks Avalanche for Tokenized Stock Settlement",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
       "lastReviewedDay": "2026-11-10",
-      "nextReviewDate": "2026-11-11"
+      "nextReviewDate": "2026-11-11",
+      "duplicateOf": "nyseavalanche"
     },
     "5138be883a8ca00322a9": {
       "source": "The Defiant",
@@ -162483,13 +162555,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "0f2ea9fc6320551e123c",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 1,
       "expiresAt": "2026-11-12T14:07:27.000Z",
       "lastSeenAt": "2026-11-10T02:19:50.208Z",
-      "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"NYSE to settle tokenized stocks on Avalanche in planned 24/7 market\": https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "reason": "duplicate",
+      "note": "Duplicate of nyseavalanche covering ICE/NYSE selecting Avalanche for tokenized stock settlement.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208",
@@ -162499,14 +162571,15 @@
           "checkedAt": "2026-11-10T02:20:06.349Z"
         }
       ],
-      "reviewedAt": "2026-11-10T02:20:16.508Z",
+      "reviewedAt": "2026-11-10T08:03:04.183Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: NYSE to settle tokenized stocks on Avalanche in planned 24/7 market",
         "Find independent reporting confirming the event in: NYSE to settle tokenized stocks on Avalanche in planned 24/7 market",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
       "lastReviewedDay": "2026-11-10",
-      "nextReviewDate": "2026-11-11"
+      "nextReviewDate": "2026-11-11",
+      "duplicateOf": "nyseavalanche"
     },
     "8929950b5d9c81b82859": {
       "source": "The Defiant",
@@ -162563,11 +162636,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "6e59f89994c22ea81a96",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 0,
       "expiresAt": "2026-11-12T13:40:06.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "reason": "duplicate",
+      "duplicateOf": "nyseavalanche",
+      "note": "Duplicate of nyseavalanche covering ICE/NYSE selecting Avalanche for tokenized stock settlement.",
+      "reviewedAt": "2026-11-10T08:03:04.183Z",
+      "lastReviewedDay": "2026-11-10"
     },
     "ec5263a6e81f09e15dd9": {
       "source": "Decrypt",
@@ -299372,24 +299450,10 @@
           "automatic": true
         },
         "f38c7e27b8752c273d4f": {
-          "status": "deferred",
-          "reason": "source-blocked",
-          "note": "Availability-only GET checks for \"Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago\": https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
-          "sourceChecks": [
-            {
-              "url": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
-              "outcome": "blocked",
-              "status": 403,
-              "method": "GET",
-              "checkedAt": "2026-11-10T02:20:05.824Z"
-            }
-          ],
-          "reviewedAt": "2026-11-10T02:20:16.506Z",
-          "retrySearches": [
-            "Find a readable primary announcement or filing for: Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
-            "Find independent reporting confirming the event in: Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
-            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
-          ]
+          "status": "rejected",
+          "reason": "duplicate",
+          "duplicateOf": "binancecfo",
+          "note": "Duplicate of binancecfo covering Binance CFO Kaiser Ng departure and Justin Yek appointment."
         },
         "49417d492bd7794805d5": {
           "status": "deferred",
@@ -299452,24 +299516,10 @@
           ]
         },
         "ddbb548bb57e924cc783": {
-          "status": "deferred",
-          "reason": "source-blocked",
-          "note": "Availability-only GET checks for \"Binance Names Justin Yek CFO as Kaiser Ng Prepares to Leave\": https://thedefiant.io/news/cefi/binance-names-justin-yek-cfo-as-kaiser-ng-prepares-to-leave -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
-          "sourceChecks": [
-            {
-              "url": "https://thedefiant.io/news/cefi/binance-names-justin-yek-cfo-as-kaiser-ng-prepares-to-leave",
-              "outcome": "blocked",
-              "status": 403,
-              "method": "GET",
-              "checkedAt": "2026-11-10T02:20:06.544Z"
-            }
-          ],
-          "reviewedAt": "2026-11-10T02:20:16.506Z",
-          "retrySearches": [
-            "Find a readable primary announcement or filing for: Binance Names Justin Yek CFO as Kaiser Ng Prepares to Leave",
-            "Find independent reporting confirming the event in: Binance Names Justin Yek CFO as Kaiser Ng Prepares to Leave",
-            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
-          ]
+          "status": "rejected",
+          "reason": "duplicate",
+          "duplicateOf": "binancecfo",
+          "note": "Duplicate of binancecfo covering Binance CFO Kaiser Ng departure and Justin Yek appointment."
         },
         "edb357e217d2c60eb0e9": {
           "status": "deferred",
@@ -301572,44 +301622,30 @@
           ]
         },
         "cda12bb4b35e141c0295": {
-          "status": "deferred",
-          "reason": "source-blocked",
-          "note": "Availability-only GET checks for \"Durov Says 700,000-Plus Wallets Were Created on Telegram in 48 Hours\": https://thedefiant.io/news/infrastructure/durov-says-700-000-plus-wallets-were-created-on-telegram-in-48-hours -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "status": "published",
+          "articleSlug": "telegramwallets",
+          "reason": "verified-event",
+          "note": "Verified Durov 700k wallet milestone across Telegram ecosystem; wrote 661-word article citing Durov channel, TON blog, and Cointelegraph.",
           "sourceChecks": [
             {
-              "url": "https://thedefiant.io/news/infrastructure/durov-says-700-000-plus-wallets-were-created-on-telegram-in-48-hours",
-              "outcome": "blocked",
-              "status": 403,
-              "method": "GET",
-              "checkedAt": "2026-11-10T02:20:10.766Z"
+              "url": "https://t.me/durov",
+              "outcome": "read"
+            },
+            {
+              "url": "https://ton.org/en/blog",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/apple-telegram-app-store-gram-rebounds",
+              "outcome": "read"
             }
-          ],
-          "reviewedAt": "2026-11-10T02:20:16.508Z",
-          "retrySearches": [
-            "Find a readable primary announcement or filing for: Durov Says 700,000-Plus Wallets Were Created on Telegram in 48 Hours",
-            "Find independent reporting confirming the event in: Durov Says 700,000-Plus Wallets Were Created on Telegram in 48 Hours",
-            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
           ]
         },
         "614e158ccebaf6dbd6f6": {
-          "status": "deferred",
-          "reason": "source-blocked",
-          "note": "Availability-only GET checks for \"NYSE Picks Avalanche for Tokenized Stock Settlement\": https://thedefiant.io/converge/tradfi-and-fintech/nyse-picks-avalanche-for-tokenized-stock-settlement -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
-          "sourceChecks": [
-            {
-              "url": "https://thedefiant.io/converge/tradfi-and-fintech/nyse-picks-avalanche-for-tokenized-stock-settlement",
-              "outcome": "blocked",
-              "status": 403,
-              "method": "GET",
-              "checkedAt": "2026-11-10T02:20:10.813Z"
-            }
-          ],
-          "reviewedAt": "2026-11-10T02:20:16.508Z",
-          "retrySearches": [
-            "Find a readable primary announcement or filing for: NYSE Picks Avalanche for Tokenized Stock Settlement",
-            "Find independent reporting confirming the event in: NYSE Picks Avalanche for Tokenized Stock Settlement",
-            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
-          ]
+          "status": "rejected",
+          "reason": "duplicate",
+          "duplicateOf": "nyseavalanche",
+          "note": "Duplicate of nyseavalanche covering ICE/NYSE selecting Avalanche for tokenized stock settlement."
         },
         "5138be883a8ca00322a9": {
           "status": "deferred",
@@ -301632,24 +301668,10 @@
           ]
         },
         "0f2ea9fc6320551e123c": {
-          "status": "deferred",
-          "reason": "source-blocked",
-          "note": "Availability-only GET checks for \"NYSE to settle tokenized stocks on Avalanche in planned 24/7 market\": https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
-          "sourceChecks": [
-            {
-              "url": "https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208",
-              "outcome": "blocked",
-              "status": 403,
-              "method": "GET",
-              "checkedAt": "2026-11-10T02:20:06.349Z"
-            }
-          ],
-          "reviewedAt": "2026-11-10T02:20:16.508Z",
-          "retrySearches": [
-            "Find a readable primary announcement or filing for: NYSE to settle tokenized stocks on Avalanche in planned 24/7 market",
-            "Find independent reporting confirming the event in: NYSE to settle tokenized stocks on Avalanche in planned 24/7 market",
-            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
-          ]
+          "status": "rejected",
+          "reason": "duplicate",
+          "duplicateOf": "nyseavalanche",
+          "note": "Duplicate of nyseavalanche covering ICE/NYSE selecting Avalanche for tokenized stock settlement."
         },
         "8929950b5d9c81b82859": {
           "status": "deferred",
@@ -301985,26 +302007,10 @@
           "reviewedAt": "2026-11-10T02:50:32.838Z"
         },
         "d432811dc2217724766a": {
-          "status": "published",
-          "reason": "verified-event",
-          "note": "Read Cointelegraph and AltcoinBuzz in full on the Elliptic report; wrote 681-word draft with two independent sites, self-hosted CC BY-SA hero, and clean quality/image/duplicate/formatting audits plus clean tsc.",
-          "sourceChecks": [
-            {
-              "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.altcoinbuzz.io/north-korea-linked-hackers-create-fake-memecoins-to-launder-stolen-binance-funds",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
-              "outcome": "blocked"
-            }
-          ],
-          "reviewedAt": "2026-11-10T02:53:43.107Z",
-          "articleSlug": "nearlaunder",
-          "publishedAt": "2026-11-10T04:08:00.950Z"
+          "status": "rejected",
+          "reason": "duplicate",
+          "duplicateOf": "nearmemecoin",
+          "note": "Duplicate of nearmemecoin covering the Nov 9 Elliptic report on North Korean actors minting 6 throwaway memecoins on NEAR."
         },
         "0b1a1aaef7f626200a20": {
           "status": "deferred",
@@ -302192,6 +302198,104 @@
           "reviewedAt": "2026-11-10T03:22:42.385Z",
           "articleSlug": "princescams",
           "publishedAt": "2026-11-10T04:08:00.950Z"
+        },
+        "45f0619563dd7e89230f": {
+          "status": "published",
+          "articleSlug": "coinbasetrust",
+          "reason": "verified-event",
+          "note": "Verified OCC final approval for Coinbase National Trust Company; wrote 674-word article citing Bankless, Bitcoin Magazine, and Cointelegraph.",
+          "sourceChecks": [
+            {
+              "url": "https://www.bankless.com/read/news/coinbase-secures-final-occ-approval-for-its-national-trust-bank",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/coinbase-full-occ-national-trust-charter",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter",
+              "outcome": "read"
+            }
+          ]
+        },
+        "0d3f6302d60357bb13a2": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "duplicateOf": "coinbasetrust",
+          "note": "Duplicate of coinbasetrust covering Coinbase OCC federal trust bank charter approval."
+        },
+        "c0d1c118285314caa379": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "duplicateOf": "coinbasetrust",
+          "note": "Duplicate of coinbasetrust covering Coinbase OCC federal trust bank charter approval."
+        },
+        "43fda9f0fe7de5d637ea": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "duplicateOf": "coinbasetrust",
+          "note": "Duplicate of coinbasetrust covering Coinbase OCC federal trust bank charter approval."
+        },
+        "c2f415e987d98379a6df": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "duplicateOf": "coinbasetrust",
+          "note": "Duplicate of coinbasetrust covering Coinbase OCC federal trust bank charter approval."
+        },
+        "d062c47ed70453df3a16": {
+          "status": "published",
+          "articleSlug": "nyseavalanche",
+          "reason": "verified-event",
+          "note": "Verified ICE / NYSE selection of Avalanche for tokenized equities 24/7 settlement; wrote 663-word article citing Unchained and Cointelegraph.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/avalanche-lands-a-role-in-nyses-planned-tokenized-stock-venue-ava-labs-says/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal",
+              "outcome": "read"
+            }
+          ]
+        },
+        "8d827b66ae5299bbd4f3": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "duplicateOf": "nyseavalanche",
+          "note": "Duplicate of nyseavalanche covering ICE/NYSE selecting Avalanche for tokenized stock settlement."
+        },
+        "6e59f89994c22ea81a96": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "duplicateOf": "nyseavalanche",
+          "note": "Duplicate of nyseavalanche covering ICE/NYSE selecting Avalanche for tokenized stock settlement."
+        },
+        "76da0daafbbc1a86b9a3": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "duplicateOf": "nyseavalanche",
+          "note": "Duplicate of nyseavalanche covering ICE/NYSE selecting Avalanche for tokenized stock settlement."
+        },
+        "dd7b492ede878641eff8": {
+          "status": "published",
+          "articleSlug": "binancecfo",
+          "reason": "verified-event",
+          "note": "Verified Kaiser Ng stepping down and Justin Yek appointment as CFO; wrote 647-word article citing Cointelegraph, Unchained, and DOJ settlement records.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/with-probe-gavel-in-reach-blumenthal-warns-binance-and-tether-of-alternative-measures/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.justice.gov/opa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution",
+              "outcome": "read"
+            }
+          ]
         }
       },
       "baselineSlugs": [
@@ -302664,8 +302768,11 @@
           "4d94509ef6f3926495e9",
           "bdbf8055e028b863fe42",
           "bc1623a9df09d84b5232",
-          "d432811dc2217724766a",
-          "8a8972aea62b32d498fc"
+          "8a8972aea62b32d498fc",
+          "45f0619563dd7e89230f",
+          "d062c47ed70453df3a16",
+          "cda12bb4b35e141c0295",
+          "dd7b492ede878641eff8"
         ],
         "articleSlugs": [
           "princescams",
@@ -302673,19 +302780,19 @@
           "blumenthaldeadline",
           "warrenpred",
           "nearmemecoin",
-          "nearlaunder",
-          "simdnonces"
+          "simdnonces",
+          "coinbasetrust",
+          "nyseavalanche",
+          "telegramwallets",
+          "binancecfo"
         ],
         "pendingIds": [
           "bd9cea951bd811cec93b",
           "3227ff28ff788ca0905c",
-          "f38c7e27b8752c273d4f",
           "49417d492bd7794805d5",
           "5f03a13435452b96a4ce",
-          "dd7b492ede878641eff8",
           "35a40a2093f0e43baeb6",
           "747bed348db049510b1c",
-          "ddbb548bb57e924cc783",
           "a3c8561416438c705e2b",
           "d6988c8039a22f872cd7",
           "862ad25465a438c8bbd1",
@@ -302858,7 +302965,6 @@
           "78044ee04149ee26a1fa",
           "33a18d564005a013921e",
           "bcd5c48ecd173bad119d",
-          "45f0619563dd7e89230f",
           "3fefd9e3a2cbfe33dd15",
           "63b66c4cdf6e5bbd6ae7",
           "5821d611b86a71b8f3d6",
@@ -302883,16 +302989,12 @@
           "ec0cda8717af64ab0b83",
           "16d90dbe7f76d230d0dc",
           "4a7654d50f929ec4d142",
-          "0d3f6302d60357bb13a2",
           "2beac58008317c9cb239",
           "69a751c5f88cc087156b",
           "aa2f96fadc621b1ddaf1",
           "ec1502eb2919fcab69bc",
           "0251ea42d56f1b2f51d1",
-          "c0d1c118285314caa379",
-          "43fda9f0fe7de5d637ea",
           "743a96b96e4825706776",
-          "c2f415e987d98379a6df",
           "e50d0ebf1c1a9b5769d9",
           "f5feddfa2234dfb2264c",
           "3693f9ad81fab10cb36f",
@@ -302958,7 +303060,6 @@
           "894c8d7d18c9b66bef09",
           "efb8b0d20b0e22aaa9c9",
           "59fe794b5c1c3a20abcf",
-          "76da0daafbbc1a86b9a3",
           "630d8a71bb15102408e1",
           "8d9fac5029178cacf092",
           "2051c2288fcb3d3d0f63",
@@ -302966,8 +303067,6 @@
           "5dd1d6c2eb74d58852e1",
           "6bb38e6798d2edeb6345",
           "ddc7855d979f1627d8b6",
-          "d062c47ed70453df3a16",
-          "8d827b66ae5299bbd4f3",
           "f18a93229eadff5bb304",
           "3a2adaa0391d146f9b3d",
           "5b5aaeb4388a5bc9b196",
@@ -302976,12 +303075,8 @@
           "2a4a7717ce57d881f237",
           "e7303c314cab12c04410",
           "9210058f27eb2f2a7f62",
-          "cda12bb4b35e141c0295",
-          "614e158ccebaf6dbd6f6",
           "5138be883a8ca00322a9",
-          "0f2ea9fc6320551e123c",
           "8929950b5d9c81b82859",
-          "6e59f89994c22ea81a96",
           "ec5263a6e81f09e15dd9",
           "3a02508a5e4407b5fb2a",
           "c8dbecbb6c3821180a52",

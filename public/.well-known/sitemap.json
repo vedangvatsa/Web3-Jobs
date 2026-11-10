@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-11-10T02:28:48.495Z",
+  "generatedAt": "2026-11-10T08:11:58.308Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 3799,
+  "count": 3808,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -2134,6 +2134,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/binancecfo",
+      "lastmod": "2026-11-10",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
       "url": "https://hashtagweb3.com/binancecover",
       "lastmod": "2026-10-31",
       "changefreq": "monthly",
@@ -2702,6 +2708,12 @@
       "lastmod": "2026-10-14",
       "changefreq": "weekly",
       "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/blumenthaldeadline",
+      "lastmod": "2026-11-10",
+      "changefreq": "monthly",
+      "priority": 0.7
     },
     {
       "url": "https://hashtagweb3.com/blur-shutdown",
@@ -4020,6 +4032,12 @@
     {
       "url": "https://hashtagweb3.com/coinbase-sentencing",
       "lastmod": "2026-09-24",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/coinbasetrust",
+      "lastmod": "2026-11-10",
       "changefreq": "monthly",
       "priority": 0.7
     },
@@ -8116,6 +8134,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/formation",
+      "lastmod": "2026-11-10",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
       "url": "https://hashtagweb3.com/founder-vc-summit-demo-day",
       "lastmod": "2026-11-14",
       "changefreq": "weekly",
@@ -11110,12 +11134,6 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/md-blockchain-association-virtual-happy-hour",
-      "lastmod": "2026-11-10",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
       "url": "https://hashtagweb3.com/meaning-of-crypto-and-web3-slangs-and-acronyms",
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
@@ -12682,6 +12700,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/nearmemecoin",
+      "lastmod": "2026-11-10",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
       "url": "https://hashtagweb3.com/nearvote",
       "lastmod": "2026-11-06",
       "changefreq": "monthly",
@@ -12870,6 +12894,12 @@
     {
       "url": "https://hashtagweb3.com/nsfarcaster",
       "lastmod": "2026-10-15",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/nyseavalanche",
+      "lastmod": "2026-11-10",
       "changefreq": "monthly",
       "priority": 0.7
     },
@@ -15214,6 +15244,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/princescams",
+      "lastmod": "2026-11-10",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
       "url": "https://hashtagweb3.com/privacy",
       "lastmod": "2026-11-10",
       "changefreq": "monthly",
@@ -17220,6 +17256,12 @@
     {
       "url": "https://hashtagweb3.com/signs-you-should-quit-your-job",
       "lastmod": "2026-09-15",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/simdnonces",
+      "lastmod": "2026-11-10",
       "changefreq": "monthly",
       "priority": 0.7
     },
@@ -19498,6 +19540,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/telegramwallets",
+      "lastmod": "2026-11-10",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
       "url": "https://hashtagweb3.com/temporal",
       "lastmod": "2026-10-20",
       "changefreq": "weekly",
@@ -20936,6 +20984,12 @@
       "lastmod": "2026-10-14",
       "changefreq": "weekly",
       "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/warrenpred",
+      "lastmod": "2026-11-10",
+      "changefreq": "monthly",
+      "priority": 0.7
     },
     {
       "url": "https://hashtagweb3.com/warsaw",
