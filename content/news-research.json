@@ -157854,9 +157854,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "d432811dc2217724766a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-12T15:00:44.000Z",
       "lastSeenAt": "2026-11-10T02:19:50.208Z",
       "articleSlug": "nearlaunder",
@@ -157882,7 +157882,25 @@
         "updatedAt": "2026-11-10T02:51:00.503Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Cointelegraph and AltcoinBuzz in full on the Elliptic report; wrote 681-word draft with two independent sites, self-hosted CC BY-SA hero, and clean quality/image/duplicate/formatting audits plus clean tsc.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.altcoinbuzz.io/north-korea-linked-hackers-create-fake-memecoins-to-launder-stolen-binance-funds",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-10T02:53:43.107Z",
+      "lastReviewedDay": "2026-11-10"
     },
     "46e980078f4dc5054972": {
       "source": "Cointelegraph",
@@ -301701,6 +301719,27 @@
             }
           ],
           "reviewedAt": "2026-11-10T02:50:32.838Z"
+        },
+        "d432811dc2217724766a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Cointelegraph and AltcoinBuzz in full on the Elliptic report; wrote 681-word draft with two independent sites, self-hosted CC BY-SA hero, and clean quality/image/duplicate/formatting audits plus clean tsc.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.altcoinbuzz.io/north-korea-linked-hackers-create-fake-memecoins-to-launder-stolen-binance-funds",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-10T02:53:43.107Z",
+          "articleSlug": "nearlaunder"
         }
       },
       "baselineSlugs": [
