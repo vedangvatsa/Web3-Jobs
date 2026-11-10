@@ -158514,7 +158514,27 @@
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 0,
       "expiresAt": "2026-11-12T10:52:49.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "articleSlug": "zcashblocks",
+      "draftProgress": {
+        "id": "1bda8bf8052aed0521e5",
+        "day": "2026-11-10",
+        "articleSlug": "zcashblocks",
+        "note": "CoinDesk returns HTTP 429; opened and read the primary Zcash forum proposal (Nov 8, ValarDragon and Evan Forbes, draft ZIP PR 1437, orphan tests 1.9-3.3%) and CoinMarketCap/Cointelegraph appear as alternates; still need one opened independent outlet plus draft and hero.",
+        "sourceChecks": [
+          {
+            "url": "https://forum.zcashcommunity.com/t/proposal-lower-zcash-block-target-spacing-from-25s-to-20s/59035",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-11-10T03:20:15.775Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "ab17ce97f82649607684": {
       "source": "The Defiant",
