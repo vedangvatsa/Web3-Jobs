@@ -125877,7 +125877,8 @@
       },
       "account": "channel:web3",
       "attemptId": "e31dba58-7f43-4ba9-8ee2-76c7ab606cbc",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x14773323eae4ca43a9e2983a396dd3b3c587239d"
     }
   ]
 }
