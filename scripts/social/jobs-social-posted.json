@@ -128270,6 +128270,35 @@
       "verification": "pending",
       "postId": "6af37269695294c6ea372e5f",
       "error": "Buffer X publish failed for 6af37269695294c6ea372e5f: This post contains a URL that X believes to be invalid. Please check the URL and try again."
+    },
+    {
+      "slug": "ops152",
+      "company": "Kraken",
+      "title": "Talent Acquisition Operations Associate",
+      "platform": "threads",
+      "postedAt": "2026-11-10T19:37:10.369Z",
+      "expectedText": "Kraken is hiring Talent Acquisition Operations Associate: https://hashtagweb3.com/ops152/th?og=7",
+      "snapshot": {
+        "id": "199de08b-fc19-40b4-aac0-6a1dd5a5942e",
+        "title": "Talent Acquisition Operations Associate",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/199de08b-fc19-40b4-aac0-6a1dd5a5942e",
+        "date": "2026-11-05T23:33:02.589+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (Canada)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops152"
+      },
+      "payload": {
+        "text": "Kraken is hiring Talent Acquisition Operations Associate: https://hashtagweb3.com/ops152/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/ops152/th?og=7"
+      },
+      "attemptId": "1821793c-eb74-4275-bcee-8abeecdbb9b3",
+      "verification": "creating"
     }
   ]
 }
