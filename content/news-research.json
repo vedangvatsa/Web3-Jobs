@@ -157101,9 +157101,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "21b81a9212e101d585d5",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-12T19:52:34.000Z",
       "lastSeenAt": "2026-11-10T02:19:50.208Z",
       "articleSlug": "formation",
@@ -157129,7 +157129,25 @@
         "updatedAt": "2026-11-10T02:25:22.237Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read the Formation Securities PRNewswire release of Nov. 9 plus the Cointelegraph and Decrypt reports; verified the SEC notice, early 2027 launch timing, launch tickers, Innovation Exemption conditions, partner list and RWA.xyz tokenized-equity figures across sources. Drafted content/articles/formation.md with a self-hosted NYSE photo; quality, image, duplicate, formatting and type checks pass on the file.",
+      "sourceChecks": [
+        {
+          "url": "https://www.prnewswire.com/news-releases/formation-securities-notifies-sec-of-intent-to-operate-first-tokenized-securities-venue-on-solana-302932902.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-10T02:32:44.334Z",
+      "lastReviewedDay": "2026-11-10"
     },
     "2875eb978162a0bb7500": {
       "source": "Decrypt",
@@ -157146,11 +157164,27 @@
       ],
       "alsoCoveredBy": [],
       "id": "2875eb978162a0bb7500",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-12T17:46:02.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "reason": "duplicate",
+      "note": "Same event as the ready Formation Securities story: this Decrypt item covers the same Nov. 9 SEC notice, the same Innovation Exemption route and the same launch lineup of Exodus, Forward Industries and Galaxy Digital. The Decrypt report was read as a source for the ready article, so the lead is merged rather than filed twice.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.prnewswire.com/news-releases/formation-securities-notifies-sec-of-intent-to-operate-first-tokenized-securities-venue-on-solana-302932902.html",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-10T02:32:44.334Z",
+      "duplicateOf": "formation",
+      "mergedInto": "21b81a9212e101d585d5",
+      "lastReviewedDay": "2026-11-10"
     },
     "4a549f8a5b1ff40709e3": {
       "source": "CoinDesk",
@@ -157167,11 +157201,31 @@
       ],
       "alsoCoveredBy": [],
       "id": "4a549f8a5b1ff40709e3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-12T12:41:35.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "reason": "duplicate",
+      "note": "Covers the same Formation Securities SEC notice and Solana tokenized stock venue already reported in the ready formation article, with the same early 2027 timing and Galaxy/Exodus/Forward lineup. The CoinDesk page itself returned HTTP 429 behind a Vercel security checkpoint on two attempts with the readiness and browser user agents, so it was not read directly; the match rests on the identical event, date and named companies reported in the other read sources.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-10T02:32:44.335Z",
+      "duplicateOf": "formation",
+      "mergedInto": "21b81a9212e101d585d5",
+      "lastReviewedDay": "2026-11-10"
     },
     "57e5e8f324182a45ff35": {
       "source": "The Defiant",
@@ -301261,6 +301315,67 @@
             "Find independent reporting confirming the event in: Nvidia perps slide as market reacts to CEO Jensen Huang’s Chinese spy scandal",
             "Retry the attempted URLs after any Retry-After time, within the existing verification window."
           ]
+        },
+        "21b81a9212e101d585d5": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the Formation Securities PRNewswire release of Nov. 9 plus the Cointelegraph and Decrypt reports; verified the SEC notice, early 2027 launch timing, launch tickers, Innovation Exemption conditions, partner list and RWA.xyz tokenized-equity figures across sources. Drafted content/articles/formation.md with a self-hosted NYSE photo; quality, image, duplicate, formatting and type checks pass on the file.",
+          "sourceChecks": [
+            {
+              "url": "https://www.prnewswire.com/news-releases/formation-securities-notifies-sec-of-intent-to-operate-first-tokenized-securities-venue-on-solana-302932902.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-10T02:32:44.334Z",
+          "articleSlug": "formation"
+        },
+        "2875eb978162a0bb7500": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same event as the ready Formation Securities story: this Decrypt item covers the same Nov. 9 SEC notice, the same Innovation Exemption route and the same launch lineup of Exodus, Forward Industries and Galaxy Digital. The Decrypt report was read as a source for the ready article, so the lead is merged rather than filed twice.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.prnewswire.com/news-releases/formation-securities-notifies-sec-of-intent-to-operate-first-tokenized-securities-venue-on-solana-302932902.html",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-10T02:32:44.334Z",
+          "duplicateOf": "formation",
+          "mergedInto": "21b81a9212e101d585d5"
+        },
+        "4a549f8a5b1ff40709e3": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Covers the same Formation Securities SEC notice and Solana tokenized stock venue already reported in the ready formation article, with the same early 2027 timing and Galaxy/Exodus/Forward lineup. The CoinDesk page itself returned HTTP 429 behind a Vercel security checkpoint on two attempts with the readiness and browser user agents, so it was not read directly; the match rests on the identical event, date and named companies reported in the other read sources.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-10T02:32:44.335Z",
+          "duplicateOf": "formation",
+          "mergedInto": "21b81a9212e101d585d5"
         }
       },
       "baselineSlugs": [
