@@ -126554,7 +126554,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "cecbeae7-bcf1-418b-843c-6105ce8864d0",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af301e6cbbac94e1ea30a12"
     }
   ]
 }
