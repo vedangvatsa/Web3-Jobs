@@ -25870,18 +25870,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-afb7cc06e50ffffa"></a>
-
-## Joc psicomotriu en família a Mamaloa
-
-- Record: `luma-evt-xgUZIVLPS436ydR`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-27T16:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/w92uaq75>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-ec86766ae50ffd9f"></a>
 
 ## Fraud Detection on the Elliptic Bitcoin Dataset: Graphs, Leakage, and Topology
@@ -31159,6 +31147,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-afb7cc06e50ffffa"></a>
+
+## Joc psicomotriu en família a Mamaloa
+
+- Record: `luma-evt-xgUZIVLPS436ydR`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-10T16:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/w92uaq75>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-cedaee74d37b2cbb"></a>
 
 ## Solana For Students - Ukraine 🇺🇦
@@ -31346,6 +31346,18 @@ An organizer description has not been verified for this record. Any previous cop
 ### About the event
 
 Below the Surface: CRYMBO × Orbs: A London reception on onchain finance infrastructure and institutional trading; free, host approval required.
+
+<a id="event-b2c8bfb9cf8dced6"></a>
+
+## Executive Digital Assets Dinner w/ Halborn
+
+- Record: `luma-evt-qSx31wokrrB1FMo`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-10T19:15:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/vipdinnerhalborn>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-e01acb4e38509959"></a>
 
@@ -32204,6 +32216,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-13T01:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://singaporeblockchainweek.org/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-266ac9ef1e34e618"></a>
+
+## Secret Agent(ic) Unicorns 🦄: AWS GameDay
+
+- Record: `luma-evt-ARqHPa6dbLhHuss`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-13T01:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/bplaqal6>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-e85b21c1bb11857d"></a>
+
+## Whitepaper Reading SF - Defi Topics: No Place to Hide & Active Liquidity On Chain
+
+- Record: `luma-evt-bDcxH60c9qvNp0x`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-13T01:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/snrgc7jo>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -35181,18 +35217,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-f1aa877c1af260e6"></a>
-
-## The Year-End Reset for Founders: Close Out 2026, Plan 2027 w/ Nicole Doyle
-
-- Record: `luma-evt-MkiMR5HAyOlQeZ8`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-12-08T18:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/nhonnwh4>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-fff2d21141ff2242"></a>
 
 ## Solana Run @SEZ
@@ -35425,6 +35449,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-f1aa877c1af260e6"></a>
+
+## The Year-End Reset for Founders: Close Out 2026, Plan 2027 w/ Nicole Doyle
+
+- Record: `luma-evt-MkiMR5HAyOlQeZ8`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-15T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/nhonnwh4>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-e9202bf5e2753e8f"></a>
 
 ## BTC HK - bitcoin meetup IFC P4 Rooftop Garden(tables outside Shake Shack) walk-in (changed to Dec 17)
@@ -35446,6 +35482,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-18T06:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/bmnsh0b0>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-e86174fd64fe115c"></a>
+
+## Bitcoin Builders Club
+
+- Record: `luma-evt-Lt6bJKPA48lfArP`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-22T00:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/1uniw2n0>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

@@ -3933,7 +3933,7 @@
     "country": "Netherlands",
     "location": "Amsterdam, Netherlands",
     "url": "https://dutchblockchainweek.com/",
-    "coverImage": null,
+    "coverImage": "/events/ma-dutch-blockchain-week-2027-1ab72e9e.webp",
     "source": "marketacross",
     "month": "May 2027",
     "descriptionSource": {
@@ -4324,7 +4324,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://webx-asia.com/",
-    "coverImage": null,
+    "coverImage": "/events/ma-webx-2027-86bdb833.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -4557,7 +4557,7 @@
     "country": "UAE",
     "location": "Abu Dhabi, UAE",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
+    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
     "source": "marketacross",
     "month": "December 2027"
   },
@@ -8522,10 +8522,7 @@
     "url": "https://www.meetup.com/lfdt-phoenix/events/316802761/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "w3v-btc-balkans-2026",
@@ -13349,15 +13346,15 @@
     "id": "luma-evt-xgUZIVLPS436ydR",
     "name": "Joc psicomotriu en família a Mamaloa",
     "description": "",
-    "startDate": "2026-10-27T16:00:00.000Z",
-    "endDate": "2026-10-28T17:15:00.000Z",
+    "startDate": "2026-11-10T16:00:00.000Z",
+    "endDate": "2026-11-30T17:15:00.000Z",
     "city": "Barcelona",
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://lu.ma/w92uaq75",
-    "coverImage": "/events/luma-evt-xguzivlps436ydr-a5e44e4d.webp",
+    "coverImage": "/events/luma-evt-xguzivlps436ydr-791181f4.webp",
     "source": "luma",
-    "month": "October 2026"
+    "month": "November 2026"
   },
   {
     "id": "luma-evt-l2AcVKYqGsHVrxT",
@@ -13709,7 +13706,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/herndon-open-source-linuxone-meetup-group/events/317096564/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317096564-fe562fc9.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -15938,7 +15935,7 @@
     "country": "us",
     "location": "Chicago, us",
     "url": "https://www.meetup.com/chibitdevs/events/317110095/",
-    "coverImage": "/events/mu-317110095-abd6e2a6.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -15952,7 +15949,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-chicago/events/317156436/",
-    "coverImage": "/events/mu-317156436-4d6ee4b5.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -15980,7 +15977,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-chicago/events/317065030/",
-    "coverImage": "/events/mu-317065030-cc5a1d95.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -15994,7 +15991,7 @@
     "country": "us",
     "location": "Chicago, us",
     "url": "https://www.meetup.com/bitcoin-open-blockchain-community-chicago/events/316858413/",
-    "coverImage": "/events/mu-316858413-bdf79b07.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -19334,7 +19331,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15201-midnight-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ebs5pom08ao9z5aarl2qqbi1m3nn?response-content-disposition=inline%3B%20filename%3D%22MidnightNov.jpg%22%3B%20filename%2A%3DUTF-8%27%27MidnightNov.jpg&amp;response-content-type=image%2Fjpeg&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261110%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261110T022145Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=73d86bbe83193b1188c65bc7b3653c501a3e6100e1f730e7f31874b02bcf08fe",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ebs5pom08ao9z5aarl2qqbi1m3nn?response-content-disposition=inline%3B%20filename%3D%22MidnightNov.jpg%22%3B%20filename%2A%3DUTF-8%27%27MidnightNov.jpg&amp;response-content-type=image%2Fjpeg&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261110%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261110T113252Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=1e82d8c05c932cc1239ad129a5e6d8b5501662554eabd1ba26c9bad1e37ca9a9",
     "month": "November 2026"
   },
   {
@@ -20086,13 +20083,13 @@
     "id": "luma-evt-MkiMR5HAyOlQeZ8",
     "name": "The Year-End Reset for Founders: Close Out 2026, Plan 2027 w/ Nicole Doyle",
     "description": "",
-    "startDate": "2026-12-08T18:00:00.000Z",
-    "endDate": "2026-12-08T22:00:00.000Z",
+    "startDate": "2026-12-15T18:00:00.000Z",
+    "endDate": "2026-12-15T22:00:00.000Z",
     "city": "Seattle",
     "country": "United States",
     "location": "Seattle, United States",
     "url": "https://lu.ma/nhonnwh4",
-    "coverImage": "/events/luma-evt-mkimr5hayolqez8-c9c7412b.webp",
+    "coverImage": "/events/luma-evt-mkimr5hayolqez8-29191a6a.webp",
     "source": "luma",
     "month": "December 2026"
   },
@@ -20109,5 +20106,61 @@
     "coverImage": "/events/luma-evt-eoucyzato98p4kc-7e7ecd55.webp",
     "source": "luma",
     "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-qSx31wokrrB1FMo",
+    "name": "Executive Digital Assets Dinner w/ Halborn",
+    "description": "",
+    "startDate": "2026-11-10T19:15:00.000Z",
+    "endDate": "2026-11-10T21:30:00.000Z",
+    "city": "Barcelona",
+    "country": "Spain",
+    "location": "Barcelona, Spain",
+    "url": "https://lu.ma/vipdinnerhalborn",
+    "coverImage": "/events/luma-evt-qsx31wokrrb1fmo-0e18e1e4.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-ARqHPa6dbLhHuss",
+    "name": "Secret Agent(ic) Unicorns 🦄: AWS GameDay",
+    "description": "",
+    "startDate": "2026-11-13T01:30:00.000Z",
+    "endDate": "2026-11-13T04:00:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/bplaqal6",
+    "coverImage": "/events/luma-evt-arqhpa6dblhhuss-c7925ede.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-bDcxH60c9qvNp0x",
+    "name": "Whitepaper Reading [SF] - Defi Topics: No Place to Hide & Active Liquidity On Chain",
+    "description": "",
+    "startDate": "2026-11-13T01:30:00.000Z",
+    "endDate": "2026-11-13T04:00:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/snrgc7jo",
+    "coverImage": "/events/luma-evt-bdcxh60c9qvnp0x-891222a0.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-Lt6bJKPA48lfArP",
+    "name": "Bitcoin Builders Club",
+    "description": "",
+    "startDate": "2026-12-22T00:30:00.000Z",
+    "endDate": "2026-12-22T03:30:00.000Z",
+    "city": "Austin",
+    "country": "United States",
+    "location": "Austin, United States",
+    "url": "https://lu.ma/1uniw2n0",
+    "coverImage": "/events/luma-evt-lt6bjkpa48lfarp-5c61a784.webp",
+    "source": "luma",
+    "month": "December 2026"
   }
 ]

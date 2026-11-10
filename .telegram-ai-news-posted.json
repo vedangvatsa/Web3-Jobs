@@ -908,6 +908,9 @@
   "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
   "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
   "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+  "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+  "https://siliconangle.com/2026/11/09/meta-introduces-muse-ember-to-power-cost-efficient-ai-agents/",
+  "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2505,6 +2508,12 @@
   "Free Chinese AI Models Are Getting Scary Good at Hacking",
   "Disney and Adobe partner to develop generative AI tools",
   "Disney and Adobe are building generative AI tools together",
+  "Google DeepMind uses AI to verify Signal encryption protocol",
+  "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+  "Meta releases Muse Ember model for AI agents",
+  "Meta introduces Muse Ember to power cost-efficient AI agents",
+  "Developers Release AI Models With Removed Safety Filters",
+  "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2930,5 +2939,8 @@
   "fp:aerial|against|are|attack|below|center|data|digital|dron|ground",
   "fp:anthropic|cod|concern|enterpris|fabl|improv|mytho|performanc|provid|reason",
   "fp:advanc|are|automat|capability|china|chines|cybersecurity|demonstrat|exploitation|fre",
-  "fp:adob|are|artist|build|collaboration|creat|develop|disney|focus|generativ"
+  "fp:adob|are|artist|build|collaboration|creat|develop|disney|focus|generativ",
+  "fp:effort|encryption|formally|global|googl|google|messag|operat|part|protocol",
+  "fp:agent|algorithm|automat|cost|efficient|efficiently|ember|internal|introduc|larger",
+  "fp:allow|chatbot|corporat|creat|cybersecurity|developer|down|enslaver|filter|fre"
 ]

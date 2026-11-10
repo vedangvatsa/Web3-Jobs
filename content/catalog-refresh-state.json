@@ -2,14 +2,14 @@
   "version": 1,
   "catalogs": {
     "news": {
-      "checkedAt": "2026-11-10T02:19:52.865Z",
-      "sourceCommit": "8c556ac742ffedf876efc031a0689135f04bfb59",
+      "checkedAt": "2026-11-10T11:31:34.120Z",
+      "sourceCommit": "554da802e97c53b8881460793b9b465cdc573294",
       "changedFiles": 1
     },
     "events": {
-      "checkedAt": "2026-11-10T02:28:48.778Z",
-      "sourceCommit": "8c556ac742ffedf876efc031a0689135f04bfb59",
-      "changedFiles": 26
+      "checkedAt": "2026-11-10T11:39:37.480Z",
+      "sourceCommit": "554da802e97c53b8881460793b9b465cdc573294",
+      "changedFiles": 43
     },
     "jobs": {
       "checkedAt": "2026-11-10T02:28:56.586Z",

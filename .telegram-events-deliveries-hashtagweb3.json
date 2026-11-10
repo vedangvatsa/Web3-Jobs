@@ -5289,5 +5289,50 @@
     "slotKey": "2026-11-09:evening",
     "messageId": 156159,
     "sentAt": "2026-11-09T19:50:00.128Z"
+  },
+  "e150b5d8-58d7-43c5-a006-592a3f5da815": {
+    "status": "sent",
+    "reservedAt": "2026-11-10T11:31:50.086Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "premier-planx",
+        "slug": "planx",
+        "name": "PlanX Conference 2026",
+        "startDate": "2026-11-25",
+        "keys": [
+          "premier-planx",
+          "page:planx:2026-11-25",
+          "event:planxconference2026:2026-11-25:dubai"
+        ]
+      },
+      {
+        "id": "premier-world-token-congress-2026",
+        "slug": "world-token-congress",
+        "name": "World Token Congress 2026",
+        "startDate": "2026-11-25T09:00:00+01:00",
+        "keys": [
+          "premier-world-token-congress-2026",
+          "page:world-token-congress:2026-11-25",
+          "event:worldtokencongress2026:2026-11-25:barcelona"
+        ]
+      },
+      {
+        "id": "w3v-bitcoin-japan-26-11-27",
+        "slug": "bitcoin-japan",
+        "name": "Bitcoin Japan 2026",
+        "startDate": "2026-11-27",
+        "keys": [
+          "w3v-bitcoin-japan-26-11-27",
+          "page:bitcoin-japan:2026-11-27",
+          "url:btc-jpn.com/en:2026-11-27",
+          "event:bitcoinjapan2026:2026-11-27:tokyo"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-10:afternoon",
+    "messageId": 156166,
+    "sentAt": "2026-11-10T11:31:52.890Z"
   }
 }

@@ -6327,22 +6327,6 @@
       "sourceMatchesBefore": [],
       "runtimeBefore": [],
       "runtimeAfter": [],
-      "primary": {
-        "url": "https://luma.com/rtta1cub",
-        "finalUrl": "https://luma.com/rtta1cub",
-        "canonicalUrl": "https://luma.com/rtta1cub",
-        "httpStatus": 200,
-        "fetchedAt": "2026-10-16T08:54:17.164Z",
-        "sha256": "b247a86cd3057c1613d1d317cb09b538d1252d4b58b9fc189be41f36fe5c6622",
-        "title": "Hacktoberfest Hack Day Mumbai x FAIR · Luma",
-        "visibility": "public",
-        "startDate": "2026-10-11T03:30:00.000Z",
-        "endDate": "2026-10-11T12:00:00.000Z",
-        "timezone": "Asia/Kolkata",
-        "locationHidden": false,
-        "approvalRequired": true,
-        "cancelled": false
-      },
       "identityProof": []
     },
     {

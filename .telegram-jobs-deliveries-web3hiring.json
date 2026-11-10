@@ -17211,5 +17211,239 @@
     "slotKey": "2026-11-09:evening",
     "messageId": 182,
     "sentAt": "2026-11-09T19:50:22.284Z"
+  },
+  "1d619483-2665-4f89-8113-26cce7ab0eff": {
+    "status": "sent",
+    "reservedAt": "2026-11-10T11:32:11.975Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8346318",
+          "title": "Senior Cloud Architect",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8346318?gh_jid=8346318",
+          "date": "2026-11-02T11:37:05-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "Sydney, New South Wales, Australia",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "arc31"
+        },
+        "key": "8346318",
+        "slug": "arc31",
+        "url": "https://hashtagweb3.com/arc31?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Senior Cloud Architect"
+      },
+      {
+        "snapshot": {
+          "id": "fe280d10-4258-420a-b0bb-0dc9021bd803",
+          "title": "Senior Manager, Customer Experience Strategy & Operations",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/fe280d10-4258-420a-b0bb-0dc9021bd803",
+          "date": "2026-11-03T23:23:04.552+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Customer Experience",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops144"
+        },
+        "key": "fe280d10-4258-420a-b0bb-0dc9021bd803",
+        "slug": "ops144",
+        "url": "https://hashtagweb3.com/ops144?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Senior Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8301264",
+          "title": "Recruiting Coordinator",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8301264",
+          "date": "2026-10-21T00:38:00-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Singapore",
+          "department": "6523 Recruiting Enablement",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rc3"
+        },
+        "key": "8301264",
+        "slug": "rc3",
+        "url": "https://hashtagweb3.com/rc3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Recruiting Coordinator"
+      },
+      {
+        "snapshot": {
+          "id": "5f478541-124e-4a56-b85c-72ea3567511b",
+          "title": "Project Manager and Customer Support (Account Executive)",
+          "company": "CertiK",
+          "link": "https://jobs.lever.co/certik/5f478541-124e-4a56-b85c-72ea3567511b",
+          "date": "2026-10-30T17:29:49.269Z",
+          "source": "Lever: CertiK [certik]",
+          "location": "US / Remote",
+          "workplaceType": "remote",
+          "department": "Business Development",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr215"
+        },
+        "key": "5f478541-124e-4a56-b85c-72ea3567511b",
+        "slug": "mgr215",
+        "url": "https://hashtagweb3.com/mgr215?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CertiK",
+        "title": "Project Manager and Customer Support"
+      },
+      {
+        "snapshot": {
+          "id": "5016223101",
+          "title": "Business Development Specialist",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5016223101",
+          "date": "2026-10-26T09:51:35-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "LATAM - Remote",
+          "department": "Payment Business Unit",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls330"
+        },
+        "key": "5016223101",
+        "slug": "sls330",
+        "url": "https://hashtagweb3.com/sls330?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Business Development Specialist"
+      }
+    ],
+    "message": "- Ripple is hiring <a href=\"https://hashtagweb3.com/arc31?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Cloud Architect</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/ops144?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Manager, Customer Experience Strategy &amp; Operations</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/rc3?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Recruiting Coordinator</a>\n- CertiK is hiring <a href=\"https://hashtagweb3.com/mgr215?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Project Manager and Customer Support (Account Executive)</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/sls330?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business Development Specialist</a>",
+    "slotKey": "2026-11-10:afternoon",
+    "messageId": 16628,
+    "sentAt": "2026-11-10T11:32:17.107Z"
+  },
+  "d83c6e0f-18e7-4653-87c0-79acb6e15b0b": {
+    "status": "sent",
+    "reservedAt": "2026-11-10T11:32:19.434Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8346318",
+          "title": "Senior Cloud Architect",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8346318?gh_jid=8346318",
+          "date": "2026-11-02T11:37:05-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "Sydney, New South Wales, Australia",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "arc31"
+        },
+        "key": "8346318",
+        "slug": "arc31",
+        "url": "https://hashtagweb3.com/arc31?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Senior Cloud Architect"
+      },
+      {
+        "snapshot": {
+          "id": "fe280d10-4258-420a-b0bb-0dc9021bd803",
+          "title": "Senior Manager, Customer Experience Strategy & Operations",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/fe280d10-4258-420a-b0bb-0dc9021bd803",
+          "date": "2026-11-03T23:23:04.552+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Customer Experience",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops144"
+        },
+        "key": "fe280d10-4258-420a-b0bb-0dc9021bd803",
+        "slug": "ops144",
+        "url": "https://hashtagweb3.com/ops144?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Senior Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8301264",
+          "title": "Recruiting Coordinator",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8301264",
+          "date": "2026-10-21T00:38:00-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Singapore",
+          "department": "6523 Recruiting Enablement",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rc3"
+        },
+        "key": "8301264",
+        "slug": "rc3",
+        "url": "https://hashtagweb3.com/rc3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Recruiting Coordinator"
+      },
+      {
+        "snapshot": {
+          "id": "5f478541-124e-4a56-b85c-72ea3567511b",
+          "title": "Project Manager and Customer Support (Account Executive)",
+          "company": "CertiK",
+          "link": "https://jobs.lever.co/certik/5f478541-124e-4a56-b85c-72ea3567511b",
+          "date": "2026-10-30T17:29:49.269Z",
+          "source": "Lever: CertiK [certik]",
+          "location": "US / Remote",
+          "workplaceType": "remote",
+          "department": "Business Development",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr215"
+        },
+        "key": "5f478541-124e-4a56-b85c-72ea3567511b",
+        "slug": "mgr215",
+        "url": "https://hashtagweb3.com/mgr215?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CertiK",
+        "title": "Project Manager and Customer Support"
+      },
+      {
+        "snapshot": {
+          "id": "5016223101",
+          "title": "Business Development Specialist",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5016223101",
+          "date": "2026-10-26T09:51:35-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "LATAM - Remote",
+          "department": "Payment Business Unit",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls330"
+        },
+        "key": "5016223101",
+        "slug": "sls330",
+        "url": "https://hashtagweb3.com/sls330?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Business Development Specialist"
+      }
+    ],
+    "message": "- Ripple is hiring <a href=\"https://hashtagweb3.com/arc31?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Cloud Architect</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/ops144?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Manager, Customer Experience Strategy &amp; Operations</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/rc3?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Recruiting Coordinator</a>\n- CertiK is hiring <a href=\"https://hashtagweb3.com/mgr215?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Project Manager and Customer Support (Account Executive)</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/sls330?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business Development Specialist</a>",
+    "slotKey": "2026-11-10:afternoon",
+    "messageId": 183,
+    "sentAt": "2026-11-10T11:32:21.832Z"
   }
 }

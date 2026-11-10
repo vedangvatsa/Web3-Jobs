@@ -3442,5 +3442,38 @@
     "slotKey": "2026-11-09:evening",
     "messageId": 156161,
     "sentAt": "2026-11-09T19:53:57.133Z"
+  },
+  "c2710218-3f43-4158-a038-58bada6d5eb6": {
+    "status": "sent",
+    "reservedAt": "2026-11-10T11:33:04.197Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Anza Proposes Removing Durable Nonces From Solana",
+        "summary": "Proposal SIMD-0723 would eliminate the mechanism exploited in the Drift hack, effective no earlier than May 2027.",
+        "link": "https://hashtagweb3.com/simdnonces?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Anza files Solana proposal to remove durable nonces"
+      },
+      {
+        "index": -1,
+        "headline": "US sanctions 41 companies tied to Prince Group scam network",
+        "summary": "The Treasury Department targeted offshore shell companies and nominees allegedly maintaining the group's fraudulent operations.",
+        "link": "https://hashtagweb3.com/princescams?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "OFAC sanctions 41 companies tied to Prince Group scam network"
+      },
+      {
+        "index": -1,
+        "headline": "Warren Plans Senate Banking Scrutiny of Prediction Markets",
+        "summary": "An aide said she will use committee powers against election betting platforms starting in January.",
+        "link": "https://hashtagweb3.com/warrenpred?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Warren to target prediction market oversight as incoming Senate Banking chair"
+      }
+    ],
+    "slotKey": "2026-11-10:afternoon",
+    "messageId": 156168,
+    "sentAt": "2026-11-10T11:33:13.847Z"
   }
 }

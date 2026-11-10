@@ -3646,5 +3646,38 @@
     "slotKey": "2026-11-09:evening",
     "messageId": 65817,
     "sentAt": "2026-11-09T19:54:31.938Z"
+  },
+  "d85cda5e-92c4-4d65-8c35-820fe56d7df0": {
+    "status": "sent",
+    "reservedAt": "2026-11-10T11:38:00.277Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Formation Securities plans Solana venue for tokenized US stocks",
+        "summary": "The company filed with the SEC to launch the platform in early 2027 under the Innovation Exemption.",
+        "link": "https://hashtagweb3.com/formation?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Formation Securities files notice for Solana tokenized stock venue"
+      },
+      {
+        "index": -1,
+        "headline": "US sanctions 41 entities linked to Prince Group scam network",
+        "summary": "On November 5, officials designated four individuals and dozens of firms for maintaining the organization's illegal scam operations.",
+        "link": "https://hashtagweb3.com/princescams?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "OFAC sanctions 41 companies tied to Prince Group scam network"
+      },
+      {
+        "index": 1,
+        "headline": "Shareholders Sue Nvidia CEO Over Alleged Chinese Spy Ties",
+        "summary": "Investors allege the company failed to disclose risks from the CEO's relationship with a suspected foreign agent.",
+        "link": "https://decrypt.co/382913/nvidia-jensen-huang-sued-by-shareholders-over-alleged-ties-to-suspected-chinese-spy",
+        "source": "Decrypt",
+        "originalTitle": "Nvidia, Jensen Huang Sued by Shareholders Over Alleged Ties to Suspected Chinese Spy"
+      }
+    ],
+    "slotKey": "2026-11-10:afternoon",
+    "messageId": 65818,
+    "sentAt": "2026-11-10T11:38:17.722Z"
   }
 }

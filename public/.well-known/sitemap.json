@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-11-10T11:57:42.556Z",
+  "generatedAt": "2026-11-10T12:10:59.634Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 3919,
+  "count": 3918,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -2826,12 +2826,6 @@
     {
       "url": "https://hashtagweb3.com/borneo-blockchain-conference",
       "lastmod": "2026-11-18",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/bornlive-zoju",
-      "lastmod": "2026-11-10",
       "changefreq": "weekly",
       "priority": 0.6
     },
