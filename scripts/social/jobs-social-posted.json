@@ -127252,8 +127252,9 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "9ea5ec4b-d4a4-48cd-8402-3ae7b410ac28",
-      "verification": "pending",
-      "postId": "6af3026df23c8c39a0e404c5"
+      "verification": "verified",
+      "postId": "6af3026df23c8c39a0e404c5",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7525884910406959104"
     }
   ]
 }
