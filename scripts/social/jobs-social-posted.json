@@ -127337,7 +127337,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "135821da-979f-4b36-aa08-e1c66aa4189d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7525885122672218112"
     }
   ]
 }
