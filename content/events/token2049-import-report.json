@@ -1,19 +1,20 @@
 {
-  "checkedAt": "2026-11-10T11:31:58.220Z",
+  "checkedAt": "2026-11-10T19:32:59.256Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
     "https://luma.com/2049events": 7,
     "https://luma.com/singaporesideevents": 0,
+    "https://week.token2049.com": 601,
     "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view": 600,
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 13,
-    "excluded": 12,
-    "needs-review": 2
+    "existing": 7,
+    "excluded": 8,
+    "needs-review": 3
   },
-  "importedTotal": 20,
+  "importedTotal": 13,
   "added": [],
   "receipts": [
     {
@@ -80,8 +81,8 @@
       "slug": "tech-summit"
     },
     {
-      "url": "https://zusei.com/token2049",
-      "name": "🔴 Time Heist by Zusei.com - Day 1",
+      "url": "https://token2049.com/singapore/2049-origins",
+      "name": "TOKEN2049 Origins Hackathon",
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
@@ -91,8 +92,8 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://token2049.com/singapore/2049-origins",
-      "name": "TOKEN2049 Origins Hackathon",
+      "url": "https://luma.com/uw828q63",
+      "name": "GP Singapore",
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
@@ -113,8 +114,18 @@
       "reason": "Primary source event has ended"
     },
     {
-      "url": "https://luma.com/lioncitymichelin11Oct26",
-      "name": "The Lion City Michelin Food Race 2026 - 11 Oct (USDC)",
+      "url": "https://luma.com/ngmqvk2i",
+      "name": "F1 SG x Crypto VC - Race Day",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+      ],
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 400"
+    },
+    {
+      "url": "https://luma.com/TBE-F1Race",
+      "name": "The Best Event: Grand Prix Trackside Penthouse Viewing",
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
@@ -160,6 +171,15 @@
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
+    },
+    {
+      "url": "https://luma.com/maskjnix",
+      "name": "The Private Trading Table",
+      "sources": [
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 400"
     },
     {
       "url": "",

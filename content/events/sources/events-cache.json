@@ -2900,7 +2900,6 @@
       "Dan Morehead",
       "Faryar Shirzad",
       "Harsh Mehta",
-      "Matthew Long",
       "Geoffrey Kendrick",
       "Stani Kulechov",
       "Jason Yanowitz",
@@ -2918,7 +2917,8 @@
       "Tom Pikett",
       "Anatoly Crachilov",
       "Rebecca Rettig",
-      "Alex Seddon"
+      "Alex Seddon",
+      "Simon Taylor"
     ]
   },
   {
@@ -4254,7 +4254,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
+    "coverImage": null,
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -13330,7 +13330,7 @@
     "country": "us",
     "location": "San Francisco, us",
     "url": "https://www.meetup.com/renegadephilosophers/events/317040834/",
-    "coverImage": "/events/mu-317040834-4be0dfe6.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -16657,7 +16657,7 @@
     "country": "us",
     "location": "San Francisco, us",
     "url": "https://www.meetup.com/sfvrcc/events/317271481/",
-    "coverImage": "/events/mu-317271481-b7cdd98c.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -16671,7 +16671,7 @@
     "country": "us",
     "location": "Berkeley, us",
     "url": "https://www.meetup.com/bay-area-bitcoiners/events/317262538/",
-    "coverImage": "/events/mu-317262538-0d0b4db9.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -18611,7 +18611,7 @@
     "country": "us",
     "location": "Oakland, us",
     "url": "https://www.meetup.com/bareinvestors/events/316938866/",
-    "coverImage": "/events/mu-316938866-7f356b38.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -19113,7 +19113,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15201-midnight-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ebs5pom08ao9z5aarl2qqbi1m3nn?response-content-disposition=inline%3B%20filename%3D%22MidnightNov.jpg%22%3B%20filename%2A%3DUTF-8%27%27MidnightNov.jpg&amp;response-content-type=image%2Fjpeg&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261110%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261110T113252Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=1e82d8c05c932cc1239ad129a5e6d8b5501662554eabd1ba26c9bad1e37ca9a9",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ebs5pom08ao9z5aarl2qqbi1m3nn?response-content-disposition=inline%3B%20filename%3D%22MidnightNov.jpg%22%3B%20filename%2A%3DUTF-8%27%27MidnightNov.jpg&amp;response-content-type=image%2Fjpeg&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261110%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261110T193428Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=b346133749e7acc00a79cd6599ac67bad75564ac18a1010099c988ad2f69cb20",
     "month": "November 2026"
   },
   {
@@ -19942,6 +19942,34 @@
     "location": "Austin, United States",
     "url": "https://lu.ma/1uniw2n0",
     "coverImage": "/events/luma-evt-lt6bjkpa48lfarp-5c61a784.webp",
+    "source": "luma",
+    "month": "December 2026"
+  },
+  {
+    "id": "mu-317170476",
+    "name": "Web3 and AI networking at The Rose & Crown",
+    "description": "Professional Networking, AI and Web3 Chat\n-Meet other people in AI and Web3\n-Discuss current trends and pitch your ideas\n-Come and join us at The Rose and Crown!",
+    "startDate": "2026-11-16T18:30:00-08:00",
+    "endDate": "2026-11-16T18:30:00-08:00",
+    "city": "Palo Alto",
+    "country": "us",
+    "location": "Palo Alto, us",
+    "url": "https://www.meetup.com/palo-alto-cryptomondays-meetup/events/317170476/",
+    "coverImage": "/events/mu-317170476-8d0018c3.webp",
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-9QJK19yxPLoHQks",
+    "name": "Artnet Airwaves Podcast Festival",
+    "description": "",
+    "startDate": "2026-12-02T17:00:00.000Z",
+    "endDate": "2026-12-03T22:00:00.000Z",
+    "city": "Miami Beach",
+    "country": "United States",
+    "location": "Miami Beach, United States",
+    "url": "https://lu.ma/vaixbn7s",
+    "coverImage": "/events/luma-evt-9qjk19yxplohqks-c4b906f1.webp",
     "source": "luma",
     "month": "December 2026"
   }

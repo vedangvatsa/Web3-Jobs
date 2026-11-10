@@ -35857,6 +35857,18 @@ Please register to see the exact location of this event.
 
 Join us for bites and drinks during Solana Breakpoint to jam with our hosts: the Foundation Capital crypto team, Colosseum, Helius, and Reciprocal Ventures along with fellow builders, and special guests from the Solana ecosystem.
 
+<a id="event-55299b8c13491473"></a>
+
+## Web3 and AI networking at The Rose & Crown
+
+- Record: `mu-317170476`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-16T18:30:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/palo-alto-cryptomondays-meetup/events/317170476/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-76623e9446a26e35"></a>
 
 ## Building the Next AI-Powered BeSci Unicorn
@@ -37595,6 +37607,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-01T19:00:00-06:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/real-estate-investing-free-education-mentor-san-antonio/events/316913789/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-fb73431afd50e2a3"></a>
+
+## Artnet Airwaves Podcast Festival
+
+- Record: `luma-evt-9QJK19yxPLoHQks`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-02T17:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/vaixbn7s>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
