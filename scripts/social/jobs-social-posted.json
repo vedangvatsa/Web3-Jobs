@@ -126495,6 +126495,34 @@
       "attemptId": "5174c55e-8e1c-4091-b8eb-1e930e0531b5",
       "verification": "verified",
       "postId": "urn:li:share:7525884135463288832"
+    },
+    {
+      "slug": "pm232",
+      "company": "Bybit",
+      "title": "Risk Control Principal Product Specialist",
+      "platform": "facebook",
+      "postedAt": "2026-11-10T11:32:32.190Z",
+      "expectedText": "Bybit is hiring Risk Control Principal Product Specialist: https://hashtagweb3.com/pm232/fb?og=7",
+      "snapshot": {
+        "id": "5011003101",
+        "title": "Risk Control Principal Product Specialist",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5011003101",
+        "date": "2026-11-05T14:15:29-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "Abu Dhabi, UAE",
+        "department": "Fiat Team",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm232"
+      },
+      "payload": {
+        "message": "Bybit is hiring Risk Control Principal Product Specialist: https://hashtagweb3.com/pm232/fb?og=7",
+        "link": "https://hashtagweb3.com/pm232/fb?og=7"
+      },
+      "attemptId": "c14d8d11-ea8b-41ef-9e90-cfad1cdc85c7",
+      "verification": "creating"
     }
   ]
 }
