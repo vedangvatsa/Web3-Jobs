@@ -127255,6 +127255,46 @@
       "verification": "verified",
       "postId": "6af3026df23c8c39a0e404c5",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7525884910406959104"
+    },
+    {
+      "slug": "pm226",
+      "company": "Bitpanda",
+      "title": "Lead Product Manager, DeFi",
+      "platform": "linkedin",
+      "postedAt": "2026-11-10T11:37:07.225Z",
+      "expectedText": "Bitpanda is hiring Lead Product Manager, DeFi: https://hashtagweb3.com/pm226/li?og=7",
+      "snapshot": {
+        "id": "5027200101",
+        "title": "Lead Product Manager, DeFi",
+        "company": "Bitpanda",
+        "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5027200101",
+        "date": "2026-11-04T06:42:47-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bitpanda [bitpanda]",
+        "location": "Berlin, Germany",
+        "department": "Product & Design",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm226"
+      },
+      "payload": {
+        "text": "Bitpanda is hiring Lead Product Manager, DeFi: https://hashtagweb3.com/pm226/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm226/li?og=7",
+          "title": "Lead Product Manager, DeFi at Bitpanda",
+          "description": "Join Bitpanda as Lead Product Manager, DeFi. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm226.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "c4033eb2-4dce-4307-bc3a-7dd13c00e91f",
+      "verification": "creating"
     }
   ]
 }
