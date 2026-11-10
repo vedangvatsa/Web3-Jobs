@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-10T02:20:43.393Z",
+  "checkedAt": "2026-11-10T11:31:58.220Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -10,11 +10,11 @@
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 14,
-    "excluded": 13,
+    "existing": 13,
+    "excluded": 12,
     "needs-review": 2
   },
-  "importedTotal": 21,
+  "importedTotal": 20,
   "added": [],
   "receipts": [
     {
@@ -79,16 +79,6 @@
       ],
       "status": "existing",
       "slug": "tech-summit"
-    },
-    {
-      "url": "https://luma.com/michelinfoodrace1011",
-      "name": "The Lion City Michelin Food Race 2026 11 Oct - Register Interest",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
-      ],
-      "status": "existing",
-      "slug": "lion-city-michelin"
     },
     {
       "url": "https://luma.com/gqwqsft8",
@@ -185,17 +175,6 @@
     {
       "url": "https://singaporegp.sg/en",
       "name": "F1 Practice and Sprint Qualifying",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
-    },
-    {
-      "url": "https://luma.com/opsmsasq",
-      "name": "Poker by the Bay - Day 4",
       "sources": [
         "https://week.token2049.com",
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",

@@ -4138,26 +4138,6 @@ Time Heist by Zusei.com is scheduled for 5 October 2026 at 13:00 (Asia/Singapore
 
 Registration is listed as free.
 
-<a id="event-c4c2c2cec52d7a99"></a>
-
-## The Lion City Michelin Food Race 2026 - 11 Oct Register Interest
-
-- Record: `token2049-evt-Pg8QXaeCl1FhI4f`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-11T01:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/michelinfoodrace1011>
-
-### About the event
-
-The Lion City Michelin Food Race 2026 - 11 Oct Register Interest is scheduled for 11 October 2026 at 09:30 (Asia/Singapore) in Singapore. Hosted by Attribute Data Collabs, Everyday Tour Company, Joanna Teo.
-
-For two mornings only, during the one week Singapore holds Token2049, Sui Basecamp, and the Grand Prix, a small, deliberately capped group will race between three Michelin stops, tracing how spice shaped three different communities' place in Singapore's food history.
-
-Over the course of a series of tasting bites and drinks, you will be fed with a story that moves from a global lens down to something entirely local.
-
-Registration requires host approval. Registration is listed as free.
-
 <a id="event-cbe5aa5c96fbe322"></a>
 
 ## Vibrez × La Royale \| Race Day Yacht Party
@@ -19357,36 +19337,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-cb4b241e7530810c"></a>
-
-## The Best Event: The Pinnacle
-
-- Record: `token2049-side-6aa1744c967be0befa88d013`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-11T04:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/TBE-ThePinnacle>
-
-### About the event
-
-The Pinnacle, hosted by The Best Event, closes out the week's daytime gatherings, a final easy afternoon before the main event takes over the city. This is the last quiet moment before the Grand Prix noise begins.
-
-Elevation is hosted at Singapore's most premium penthouse suite, in an iconic 5-star hotel overlooking Marina Bay. With floor-to-ceiling views of the F1 Track, this premium space reflects the calibre of company you can expect and a level of exclusivity you shouldn't miss.
-
-### Event Highlights
-
-- A refined afternoon gathering with a discerning crowd - founders, investors, and the industry's most connected
-- Freshly baked pastries and light bites, served throughout
-- Front-row views as the F1 track builds toward race night energy
-- Sweeping skyline views that set an elegant tone
-- Refined networking in a stunning, luxury venue
-
-### Hosted By
-
-[The Best Event](https://www.instagram.com/_thebestevent?utm_source=luma) is the global event series where Web3 comes to life. With over 120+ events organised across 24+ cities, and 60,000 guests, The Best Event is a leader in the space. From bespoke and intimate meetups, to large-scale parties at the likes of Marquee and E11even Miami, we bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable experiences.
-
-For sponsor inquiries [for the penthouse editions, please contact Mihir via Telegram](https://t.me/mihirodhrani) or email mihir@tbv.xyz.
-
 <a id="event-a808cc50f520c91c"></a>
 
 ## A Global Living Lab: Light DAO's Next International Gathering
@@ -23539,18 +23489,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-27T15:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/m21nnt2v>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-afb7cc06e50ffffa"></a>
-
-## Joc psicomotriu en família a Mamaloa
-
-- Record: `luma-evt-xgUZIVLPS436ydR`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-27T16:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/w92uaq75>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -28819,6 +28757,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-afb7cc06e50ffffa"></a>
+
+## Joc psicomotriu en família a Mamaloa
+
+- Record: `luma-evt-xgUZIVLPS436ydR`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-10T16:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/w92uaq75>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-cedaee74d37b2cbb"></a>
 
 ## Solana For Students - Ukraine 🇺🇦
@@ -28996,6 +28946,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-10T19:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/048ehkci>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-b2c8bfb9cf8dced6"></a>
+
+## Executive Digital Assets Dinner w/ Halborn
+
+- Record: `luma-evt-qSx31wokrrB1FMo`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-10T19:15:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/vipdinnerhalborn>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -29850,6 +29812,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-13T01:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://singaporeblockchainweek.org/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-266ac9ef1e34e618"></a>
+
+## Secret Agent(ic) Unicorns 🦄: AWS GameDay
+
+- Record: `luma-evt-ARqHPa6dbLhHuss`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-13T01:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/bplaqal6>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-e85b21c1bb11857d"></a>
+
+## Whitepaper Reading SF - Defi Topics: No Place to Hide & Active Liquidity On Chain
+
+- Record: `luma-evt-bDcxH60c9qvNp0x`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-13T01:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/snrgc7jo>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -32739,18 +32725,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-f1aa877c1af260e6"></a>
-
-## The Year-End Reset for Founders: Close Out 2026, Plan 2027 w/ Nicole Doyle
-
-- Record: `luma-evt-MkiMR5HAyOlQeZ8`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-12-08T18:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/nhonnwh4>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-fff2d21141ff2242"></a>
 
 ## Solana Run @SEZ
@@ -32983,6 +32957,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-f1aa877c1af260e6"></a>
+
+## The Year-End Reset for Founders: Close Out 2026, Plan 2027 w/ Nicole Doyle
+
+- Record: `luma-evt-MkiMR5HAyOlQeZ8`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-15T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/nhonnwh4>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-e9202bf5e2753e8f"></a>
 
 ## BTC HK - bitcoin meetup IFC P4 Rooftop Garden(tables outside Shake Shack) walk-in (changed to Dec 17)
@@ -33004,6 +32990,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-18T06:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/bmnsh0b0>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-e86174fd64fe115c"></a>
+
+## Bitcoin Builders Club
+
+- Record: `luma-evt-Lt6bJKPA48lfArP`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-22T00:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/1uniw2n0>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
