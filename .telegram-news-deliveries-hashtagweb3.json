@@ -3475,5 +3475,36 @@
     "slotKey": "2026-11-10:afternoon",
     "messageId": 156168,
     "sentAt": "2026-11-10T11:33:13.847Z"
+  },
+  "50156b07-74c7-45f7-b654-b6234e9865df": {
+    "status": "reserved",
+    "reservedAt": "2026-11-10T19:38:32.817Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Senator Blumenthal sets records deadline for Binance and Tether",
+        "summary": "The Senate Permanent Subcommittee on Investigations requires four firms to provide documents starting November 30.",
+        "link": "https://hashtagweb3.com/blumenthaldeadline?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Blumenthal sets Jan. 4 records deadline for Binance, Tether and Trump-linked crypto firms"
+      },
+      {
+        "index": -1,
+        "headline": "VanEck withdraws application for Lido staked ether ETF",
+        "summary": "The company notified the SEC it will stop development of the first American stETH fund.",
+        "link": "https://hashtagweb3.com/vaneck-withdrawal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "VanEck withdraws Lido staked ether ETF filing"
+      },
+      {
+        "index": 1,
+        "headline": "Grayscale Pledges $1 Million to Zcash Nonprofits as Price Falls",
+        "summary": "The firm will use ETF fees for ecosystem grants and advertising following the token's 11% price drop.",
+        "link": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
+        "source": "Decrypt",
+        "originalTitle": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles"
+      }
+    ],
+    "slotKey": "2026-11-10:evening"
   }
 }
