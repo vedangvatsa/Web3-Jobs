@@ -8,7 +8,7 @@
     "afternoon": "2026-10-30",
     "evening": "2026-10-31"
   },
-  "deployed": "2026-11-09",
+  "deployed": "2026-11-10",
   "ingested": "2026-11-09",
   "dailyDeployments": {
     "2026-10-23": [
@@ -858,12 +858,14 @@
           "nearlaunder",
           "simdnonces"
         ],
-        "phase": "rolling-out",
+        "phase": "succeeded",
         "startedAt": "2026-11-10T04:09:05.644Z",
         "buildId": "daily-20261110-42741807049-1",
         "rolloutId": "daily-20261110-42741807049-1",
         "buildState": "READY",
-        "observedAt": "2026-11-10T04:29:45.754Z"
+        "observedAt": "2026-11-10T04:30:17.719Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-11-10T04:30:17.719Z"
       }
     ]
   }
