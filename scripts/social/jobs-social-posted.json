@@ -125947,7 +125947,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "17fa895e-2d75-4d76-99be-2e1bf24cff83",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x07e4cbee6aef5293e63ba88b8bc5c1d92b84192a"
     }
   ]
 }
