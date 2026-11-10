@@ -125710,7 +125710,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "05f1e391-21e1-4903-9527-f15bf4220bc5",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af300f267f99540fd9789c0"
     }
   ]
 }
