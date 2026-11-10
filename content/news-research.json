@@ -158162,7 +158162,23 @@
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 0,
       "expiresAt": "2026-11-12T06:36:45.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "articleSlug": "simdnonces",
+      "draftProgress": {
+        "id": "8a8972aea62b32d498fc",
+        "day": "2026-11-10",
+        "articleSlug": "simdnonces",
+        "note": "CoinDesk Nov 9 story returned HTTP 429 on two bounded GETs; Crypto Briefing published a readable parallel report on SIMD-0723 durable nonce retirement, not yet read; primary SIMD text and draft still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-11-10T03:05:12.486Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "0b1a1aaef7f626200a20": {
       "source": "Cointelegraph",
