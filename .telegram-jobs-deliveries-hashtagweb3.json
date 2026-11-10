@@ -9300,5 +9300,127 @@
     "slotKey": "2026-11-10:afternoon",
     "messageId": 156167,
     "sentAt": "2026-11-10T11:32:39.031Z"
+  },
+  "15b73362-7c86-4c37-a606-78abf09e916a": {
+    "status": "reserved",
+    "reservedAt": "2026-11-10T19:33:13.676Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8271659",
+          "title": "Account Executive, Funded Startups DACH",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8271659",
+          "date": "2026-10-16T12:54:28-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Berlin",
+          "department": "1185 Account Executives (EMEA)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls188"
+        },
+        "key": "8271659",
+        "slug": "sls188",
+        "url": "https://hashtagweb3.com/sls188?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "6239835004",
+          "title": "Senior Sales Engineer",
+          "company": "Alpaca",
+          "link": "https://job-boards.greenhouse.io/alpaca/jobs/6239835004",
+          "date": "2026-11-01T17:44:38-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Alpaca [alpaca]",
+          "location": "Remote - Americas",
+          "department": "Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng383"
+        },
+        "key": "6239835004",
+        "slug": "eng383",
+        "url": "https://hashtagweb3.com/eng383?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alpaca",
+        "title": "Senior Sales Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "4468338009",
+          "title": "Senior Event Manager",
+          "company": "Ondo Finance",
+          "link": "https://job-boards.greenhouse.io/ondofinance/jobs/4468338009",
+          "date": "2026-10-26T17:26:09-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ondo Finance [ondofinance]",
+          "location": "United States",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr204"
+        },
+        "key": "4468338009",
+        "slug": "mgr204",
+        "url": "https://hashtagweb3.com/mgr204?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ondo Finance",
+        "title": "Senior Event Manager"
+      },
+      {
+        "snapshot": {
+          "id": "e8a7c1b900b1",
+          "title": "Legal Counsel - Norway",
+          "company": "Bitdeer",
+          "link": "https://bitdeer.breezy.hr/p/e8a7c1b900b1-legal-counsel-norway",
+          "date": "2026-11-03",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Bitdeer [bitdeer]",
+          "location": "Oslo, NO",
+          "isRemote": false,
+          "department": "",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://bitdeer.breezy.hr/p/e8a7c1b900b1-legal-counsel-norway",
+            "checkedAt": "2026-11-04T00:07:24.645Z",
+            "bodySha256": "fff1eefc4718a6255d20076c7901d7469ca2140555bfd25f0562d13f6be16de8",
+            "provider": "breezy",
+            "datePosted": "2026-11-03"
+          },
+          "slug": "cmp83"
+        },
+        "key": "e8a7c1b900b1",
+        "slug": "cmp83",
+        "url": "https://hashtagweb3.com/cmp83?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "Legal Counsel"
+      },
+      {
+        "snapshot": {
+          "id": "5029213101",
+          "title": "Asset/Wallet Operations",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5029213101",
+          "date": "2026-11-06T02:18:47-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Abu Dhabi, UAE; Hong Kong SAR",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops153"
+        },
+        "key": "5029213101",
+        "slug": "ops153",
+        "url": "https://hashtagweb3.com/ops153?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Asset/Wallet Operations"
+      }
+    ],
+    "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/sls188?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Funded Startups DACH</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/eng383?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Sales Engineer</a>\n- Ondo Finance is hiring <a href=\"https://hashtagweb3.com/mgr204?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Event Manager</a>\n- Bitdeer is hiring <a href=\"https://hashtagweb3.com/cmp83?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Legal Counsel - Norway</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/ops153?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Asset/Wallet Operations</a>",
+    "slotKey": "2026-11-10:evening"
   }
 }
