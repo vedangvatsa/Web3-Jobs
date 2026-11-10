@@ -18785,11 +18785,15 @@ For questions, please contact: mail@blockstories.io
 
 ### About the event
 
+Organized by Blockaid Events in London, United Kingdom as an official community side event during Solana Breakpoint London week.
+
 Blockaid is hosting an evening of drinks in Mayfair, alongside Digital Asset Summit London, bringing together founders, investors and leaders across institutional finance and leading crypto-native companies.
 
 Over drinks and open conversation, we'll cross paths with the people shaping where digital assets are heading - asset managers, trading firms, banks and crypto-native founders in the same room, for the most up-to-date read on where the industry is actually moving.
 
 Open bar. Open to all Digital Asset Summit attendees.
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
 
 <a id="event-9eb6cbb8f304d78d"></a>
 
@@ -19008,6 +19012,8 @@ Ticket options include General Admission at USD899, General Admission PLUS at US
 
 ### About the event
 
+Organized by Ryan Eric Gralia, Cybrid, Leo Vynnyk at London Hilton on Park Lane as an official community side event during Solana Breakpoint London week.
+
 Start DAS London with a run around Hyde Park with people building the next generation of financial infrastructure.
 
 5K-ish. Conversational pace. All paces welcome.
@@ -19019,6 +19025,8 @@ Meet outside the Hilton London on Park Lane at 7:30am. We'll head out at 7:40am,
 Rain or shine. No bag drop, so travel light.
 
 Hosted by Lucius × Cybrid.
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
 
 <a id="event-ce8be6656781b96b"></a>
 
@@ -19103,7 +19111,7 @@ Important: doors close at 9:00 AM. It will not be possible to join after that ti
 
 Tokenised assets are moving from concept to reality. But getting an asset on-chain is only the beginning. The bigger opportunity is connecting tokenised activity to the governance, servicing, trading and use case that make markets work.
 
-Join Broadridge's Seha Islam, GM of Digital Asset Platform and On-chain Governance, and Theo Golden, CFA, International Head of Tokenised Product, for breakfast at Digital Assets Summit London. They'll share how Broadridge is thinking about the "on switch" for tokenisation at scale: bringing on-chain innovation and traditional market operations together, without creating two disconnected experiences.
+Join Broadridge 's Seha Islam, GM of Digital Asset Platform and On-chain Governance, and Theo Golden, CFA, International Head of Tokenised Product, for breakfast at Digital Assets Summit London. They'll share how Broadridge is thinking about the "on switch" for tokenisation at scale: bringing on-chain innovation and traditional market operations together, without creating two disconnected experiences.
 
 Whether you're building, investing or exploring tokenisation, join us for an insightful open café conversation. Bring a question and meet others working to connect the market.
 
@@ -19440,11 +19448,17 @@ Registration is subject to approval.
 
 ### About the event
 
+Organized by Huf in London, UK in conjunction with Digital Asset Summit (DAS) London.
+
 Come join other HL ecosystem builders, traders and investors as we take a break from the talks and suits at DAS London.
 
 A table is booked upstairs under the name 'huf'
 
 This will be an opportunity to discuss all things Hyperliquid including HIP3, HIP4, HyperEVM, HyperCore and the state of the markets
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
+
+Attendees will discuss high-performance onchain perps, market making on Hyperliquid, validator infrastructure, and the evolving ecosystem roadmap over dinner with fellow community members and traders in Central London.
 
 <a id="event-e692ba37067635af"></a>
 
@@ -19532,6 +19546,8 @@ When you accept, please tell us about any dietary requirements or allergies.
 
 ### About the event
 
+Organized by QFEX in London, United Kingdom as an official community side event during Solana Breakpoint London week.
+
 Join QFEX for a private dinner in London during Digital Asset Summit, bringing together traders, founders and friends from across the industry.
 
 Meet the QFEX team and get to know others around the table over good food and drinks in a relaxed setting.
@@ -19546,6 +19562,8 @@ Tuesday, 10th November
 
 Venue details will be shared with approved guests.
 
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
+
 <a id="event-ebfb11a59cbb33ba"></a>
 
 ## Blockaid Institutional Dinner (VIP)
@@ -19557,6 +19575,8 @@ Venue details will be shared with approved guests.
 - Original page: <https://luma.com/blockaid-uj77>
 
 ### About the event
+
+Organized by Blockaid Events in London, United Kingdom as an official community side event during Solana Breakpoint London week.
 
 Blockaid is hosting an intimate dinner at The Peninsula London, alongside the Digital Asset Summit, bringing together senior leaders across asset management, trading, banking and institutional digital assets.
 
@@ -19578,6 +19598,8 @@ Spots are limited and approval-based. Request to join below.
 
 ### About the event
 
+Organized by Carolyn Wyatt in London, United Kingdom as an official community side event during Solana Breakpoint London week.
+
 INVITE ONLY
 
 November 10th | 7:00-10:00 PM
@@ -19587,6 +19609,10 @@ Join the investors, allocators, founders, and industry leaders shaping the futur
 This will be an evening of cocktails, passed appetizers, and conversation to kick off DAS Asia.
 
 Confirmed RSVP required to attend.
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
+
+This mixer provides an off-the-record setting for general partners, institutional allocators, and family offices to compare notes on digital asset infrastructure and market trends during DAS London week.
 
 <a id="event-defdcb329eff3968"></a>
 
@@ -19614,7 +19640,11 @@ An informal high-stakes poker night hosted by Laurence Lewars and LO:TECH in Lon
 
 ### About the event
 
+Organized by Sentora, Huma in London, United Kingdom as an official community side event during Solana Breakpoint London week.
+
 An exclusive dinner hosted by Sentora and Huma in London, bringing together founders, fund managers, and key leaders across onchain finance, real-world assets (RWAs), and decentralized credit protocols. The private table offers an intimate setting for meaningful discussions on capital allocation, institutional adoption, and cross-border settlement during DAS London and Solana Breakpoint week.
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
 
 <a id="event-36c53ddd706abaed"></a>
 
@@ -19984,6 +20014,8 @@ Further programme details to be announced.
 
 ### About the event
 
+Organized by Canton | Anney in London, United Kingdom as an official community side event during Solana Breakpoint London week.
+
 Canton & Cocktails
 
 The Canton Network invites you to an exclusive side event during the Digital Asset Summit London.
@@ -19991,6 +20023,8 @@ The Canton Network invites you to an exclusive side event during the Digital Ass
 Join fellow industry leaders and Canton ecosystem participants from 5-8 pm for an evening of drinks and networking - no speeches, just relaxed, real conversations and good vibes with network peers.
 
 NOTE: Non-business email registrations will not be accepted.
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
 
 <a id="event-c6afa2628f91e0f1"></a>
 
@@ -20209,11 +20243,15 @@ See you in London!
 
 ### About the event
 
+Organized by Carolyn Wyatt at Bacchanalia as an official community side event during Solana Breakpoint London week.
+
 Join us for an evening bringing together the sharpest minds in digital assets over great food, excellent drinks and standout conversation.
 
 We'll kick things off with cocktails and light bites before settling in for a seated dinner. This invite-only gathering is exclusively for VIP ticket holders and DAS speakers. Eligible guests will receive an RSVP email from our events team closer to the event.
 
 Sponsored By: ZKsync
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
 
 <a id="event-470749ba1c6aa6d8"></a>
 
@@ -20433,7 +20471,13 @@ For more information, visit https://secure.com
 
 ### About the event
 
+Organized in London, United Kingdom as an official community side event during Solana Breakpoint London week.
+
 Capital Summit in London brings together venture capitalists, institutional allocators, liquidity providers, and digital asset leaders during Solana Breakpoint week. The summit features executive keynotes and closed-door panels addressing crypto fund formation, onchain asset management, macro liquidity trends, and institutional capital deployment in decentralized networks.
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
+
+Panels and roundtables examine global macroeconomic trends, venture capital deployer strategies, institutional custody, and digital asset allocation benchmarks across the UK, Europe, and international markets.
 
 <a id="event-9b735a569731fdbb"></a>
 
@@ -20447,7 +20491,13 @@ Capital Summit in London brings together venture capitalists, institutional allo
 
 ### About the event
 
+Organized by Curve Finance at Protein Studios Shoreditch as an official community side event during Solana Breakpoint London week.
+
 Stable Summit returns to London during Breakpoint week, hosted by Curve Finance at Protein Studios Shoreditch. Bringing together DeFi builders, stablecoin issuers, liquidity providers, and risk managers to discuss decentralized money, pegged assets, and liquidity infrastructure.
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
+
+Keynotes and interactive technical breakout tracks cover decentralized pegged currencies, synthetic dollars, automated market maker architectures, real-world collateral onboarding, and regulatory compliance across global jurisdictions.
 
 <a id="event-51a48439b7a1dbf6"></a>
 
@@ -20643,9 +20693,13 @@ Winners are announced live on November 13 ahead of Solana Breakpoint. Limited sp
 
 ### About the event
 
+Organized by Cat McGee, Solana Foundation, Tilo Palfner, House of Sol in London, United Kingdom as an official community side event during Solana Breakpoint London week.
+
 Join us the night before Scale or Die for Confidential Cocktails at a hidden London speakeasy. Tonight we're raising a glass to Solana Rings, a privacy and compliance protocol built by Solana and Helius for institutional use cases and beyond.
 
 Grab a drink, meet others exploring privacy on Solana, and learn what privacy can unlock for you.
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
 
 <a id="event-c07620440e6ec4b2"></a>
 
@@ -20677,6 +20731,8 @@ Every request is reviewed. The venue and full details go out once your spot is c
 
 ### About the event
 
+Organized by Bojana I in London, United Kingdom as an official community side event during Solana Breakpoint London week.
+
 Is there a better way to spend a Friday night while in London than grabbing a drink with your friends?
 
 Join Lucid Drakes for their special Breakpoint 2026 event, have a cocktail, a bite and take advantage of being in the room with top minds in the Solana ecosystem.
@@ -20684,6 +20740,8 @@ Join Lucid Drakes for their special Breakpoint 2026 event, have a cocktail, a bi
 This event is for Lucid Drakes holders and their invited guests.
 
 Drakes on top!
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
 
 <a id="event-cdc943e8eca8fd8d"></a>
 
@@ -20697,7 +20755,13 @@ Drakes on top!
 
 ### About the event
 
+Organized by Anza, Jump Crypto Events in London, UK as part of London Crypto Week.
+
 Core Dev Day is taking a more relaxed format this time: a VIP lounge and collaborative workspace, with no scheduled talks, sessions, or programming. Enjoy a dedicated space to work, collaborate, and catch up with fellow developers, with a coffee cart serving up barista-made specialty drinks throughout the day.
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
+
+Organized by Anza and Jump Crypto, the space provides reliable high-speed connectivity, comfortable workstations, and an uninterrupted environment for core developers to write code, review PRs, and hold technical architecture syncs.
 
 <a id="event-37c5e6603e597357"></a>
 
@@ -20756,6 +20820,8 @@ Follow @lamodedarelle on Instagram (https://www.instagram.com/lamodedarelle/)⁠
 
 ### About the event
 
+Organized by Sunny @ Solana STB, Anh Tran, shek.dev in London, UK as an official community side event during Solana Breakpoint London week.
+
 London is calling, and Superteam Black is answering.
 
 As the Solana ecosystem gathers in London for Breakpoint 2026, we're bringing together some of the most ambitious founders, builders, investors, and friends of Superteam Black for an exclusive gathering.
@@ -20779,6 +20845,10 @@ See you in London 🇬🇧
 ### About the event
 
 Hosted by Brandon, Stellar Development Foundation, Estefania, Alexis Tabak in London as part of London Crypto Week. Maybe you're finishing up DAS or on your way to Breakpoint! We welcome you to gather with Etherfuse and Stellar to welcome travelers to London at a proper English pub.
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
+
+Stellar Development Foundation and Etherfuse invite developers, payments architects, and ecosystem partners for casual conversation, pints, and cross-chain collaboration bridging Stellar payments infrastructure and Solana high-throughput DeFi.
 
 <a id="event-8c6090ced68c1df1"></a>
 
@@ -20806,6 +20876,8 @@ Before we get down to business at Breakpoint, let's get a round in. Join Collect
 
 ### About the event
 
+Organized by Sujith Sizon, Kubi Mensah in London, UK as an official community side event during Solana Breakpoint London week.
+
 Block building on Solana has been closed off for too long. It's time to change that.
 
 Gravity is a competitive block-building marketplace on Solana, opening blockspace to more participants and strengthening censorship resistance -with validators taking the first cut.
@@ -20813,6 +20885,8 @@ Gravity is a competitive block-building marketplace on Solana, opening blockspac
 Join us as we celebrate the debut of GBX, alongside Astralane and Titan, and raise a glass to the first Gravity blocks landing on Solana.
 
 No panels. No pitches. A small room by design. Seats will be limited.
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
 
 <a id="event-94fd5a0194460653"></a>
 
@@ -21085,6 +21159,8 @@ Subscribe to the calendar (https://luma.com/altitude-events) to stay up to date.
 
 ### About the event
 
+Organized by Damian in London, United Kingdom as an official community side event during Solana Breakpoint London week.
+
 Hungover from DAS? Going to Breakpoint? Just visiting (West) London for the first time?
 
 Join us for a FREE - yes, in this economy - SUNDAY ROAST at a smashing West London pub.
@@ -21092,6 +21168,10 @@ Join us for a FREE - yes, in this economy - SUNDAY ROAST at a smashing West Lond
 Free flowing pints included.
 
 Please flag +1s to @Damian0x on TG so he can do his sad little accounting.
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
+
+Gather with founders, protocol developers, and community contributors over classic British roasts and craft beverages. Advance RSVP is strictly required to accommodate seating capacities at the pub venue.
 
 <a id="event-d74249d8a039a838"></a>
 
@@ -21236,6 +21316,8 @@ Dress code: Whatever you'd wear to your local chippy. Bring an umbrella. It's Br
 
 ### About the event
 
+Organized by Miir, Superteam UK in London, UK as an official community side event during Solana Breakpoint London week.
+
 A major leap in AMM tech.
 
 A new wave of possibilities for traders, liquidity providers, and builders.
@@ -21353,6 +21435,8 @@ Full lifecycle security: AI and human audits, formal verification, OpSec, multis
 
 ### About the event
 
+Organized by MoonPay, Solana Foundation in London, United Kingdom as an official community side event during Solana Breakpoint London week.
+
 An evening hosted by MoonPay
 
 Behind a discreet door in Mayfair lies a members only club most people never see. For one evening, MoonPay and Solana are taking it over to kick off Solana Breakpoint.
@@ -21414,6 +21498,8 @@ STAKES & BUY-INS
 
 ### About the event
 
+Organized by Sydney Tran, Justin Knox, mert, Dan Jablonski, Kabir | Ellipsis Labs in London, United Kingdom as an official community side event during Solana Breakpoint London week.
+
 Hosted by Phoenix, JTX, DFlow, and Helius.
 
 Join us for Liquidity After Dark - an evening with the builders, traders, and capital allocators shaping Solana.
@@ -21421,6 +21507,8 @@ Join us for Liquidity After Dark - an evening with the builders, traders, and ca
 Enjoy good food, cocktails, and a chance to connect with great people from across the ecosystem.
 
 RSVP approval is required for entry.
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
 
 <a id="event-3ef106c2a6cc7404"></a>
 
@@ -21546,11 +21634,15 @@ Move with Conviction.
 
 ### About the event
 
+Organized by mattytay in London, UK as an official community side event during Solana Breakpoint London week.
+
 Colosseum is once again hosting a dedicated work space inside the Solana Breakpoint venue that will be equipped with desks, monitors, and high-speed WiFi. The space will be open on November 16 and 17.
 
 If you're looking to meet the Colosseum team and work a bit during the conference, join us in the builder zone!
 
 A Breakpoint ticket is required to access the space.
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
 
 <a id="event-d45be204ebf06f5d"></a>
 
@@ -21564,7 +21656,27 @@ A Breakpoint ticket is required to access the space.
 
 ### About the event
 
-** You need a Breakpoint ticket to access this space. ** If you're attending Breakpoint London, join us in the Builder Zone on November 16 & 17, hosted by Asymmetric Research. There will be lots going on, so stop by for a few minutes in between sessions, or stay all afternoon. What to expect: -Caffeine supplied by the incredible Raposa Coffee -Multiple games, from a giant Jenga to a tilting labyrinth + premium swag for those who try their hand at all 8 games -A chance to learn more about STRI...
+You need a Breakpoint ticket to access this space.
+
+If you're attending Breakpoint London, join us in the Builder Zone on November 16 & 17, hosted by Asymmetric Research.
+
+There will be lots going on, so stop by for a few minutes in between sessions, or stay all afternoon.
+
+### What to expect
+
+-Caffeine supplied by the incredible Raposa Coffee
+
+-Multiple games, from a giant Jenga to a tilting labyrinth + premium swag for those who try their hand at all 8 games
+
+-A chance to learn more about STRIDE, the security program launched by AR x Solana Foundation earlier this year, plus the Solana Incident Response Network ( SIRN ) - grab some swag and chat with the founding members
+
+-Colosseum's workspace in the middle of it all, with desks, monitors + fast WiFi
+
+Find us on the mezzanine level. See you there!
+
+### About Asymmetric Research
+
+Asymmetric Research is a security firm that works with teams responsible for the world's most consequential systems. Spanning research, engineering, incident response, physical security, or whatever the problem demands, AR goes deep to help clients build and operate securely in adversarial environments.
 
 <a id="event-fb48eb3d2b69c12c"></a>
 
@@ -21578,7 +21690,77 @@ A Breakpoint ticket is required to access the space.
 
 ### About the event
 
-In 1698, London's stockbrokers were thrown out of the Royal Exchange for bad manners. They moved into a coffee house down the alley, and that's where the London Stock Exchange began. In 1986, Big Bang put the trading floor on screens. Forty years on in 2026, it's happening again. Stocks, treasuries, perps, prediction markets, memecoins and AI traders are all heading on-chain at once, the inflection point is here....
+In 1698, London's stockbrokers were thrown out of the Royal Exchange for bad manners. They moved into a coffee house down the alley, and that's where the London Stock Exchange began.
+
+In 1986, Big Bang put the trading floor on screens.
+
+Forty years on in 2026, it's happening again. Stocks, treasuries, perps, prediction markets, memecoins and AI traders are all heading on-chain at once, the inflection point is here.
+
+So we've done the sensible thing and taken over a pub. Creating a stronghold of the best in the biz for complimentary refreshments all day.
+
+On Monday 16 November, day two of Solana Breakpoint, the Zebu Live Arms opens at the Bush Tavern in Shepherd's Bush, a short walk from Olympia. One day with the people moving markets: traders, market makers, exchanges, funds, founders.
+
+TRADING HOURS
+
+11:00 | Doors: Tea, Coffee, Bacon butties and a table for your meetings
+
+12:00 | Opening Bell & debates
+
+13:00 | Lunch: burgers, loaded fries, the works
+
+14:30 | The Exchange: pub debates & creator sessions
+
+17:00 | After Hours: espresso martinis and spicy margs, followed up with open bar + chatting shop
+
+21:00 | Closing Bell: Last orders
+
+Speakers announced shortly
+
+Food and drink on us all day, please note this event is Invite only: request to join and we'll confirm your spot.
+
+Meet your hosts:
+
+Zebu Live is the UK's flagship Web3 summit, bringing the community together for over 5 years of industry-defining conversations that drive the space forward.
+
+Disrupt today. Discover tomorrow.
+
+AlphaWire is a crypto news and analysis platform built for people who trade, build and invest in crypto. Its focus is the story behind the headline, with insight straight from the builders, before the narrative breaks. Its free daily briefing, Alpha Club, is read by 47,000+ builders, operators and investors.
+
+Visit their page: https://alphawire.xyz/
+
+Our partners
+
+MetaMask
+
+The world's open money app, with over 100 million downloads. Swap, trade perps, tokenised stocks and prediction markets, earn on your stablecoins and spend with a card, across Solana, Ethereum, Bitcoin and dozens more chains, all from one app.
+
+Wincent
+
+Algorithms meet digital asset markets. A top 10 global market maker trading since 2017, with $5B+ traded daily across 300+ digital assets and 15+ exchanges.
+
+Stand With Crypto UK
+
+A grassroots movement of more than 311,000 advocates across the UK, bringing users, founders and builders together to help make the UK the best place to build, grow and use digital assets.
+
+HT Digital
+
+Specialist accountants and auditors for the digital asset industry, advising crypto businesses since 2017 on audit, tax, accounting and proof of reserves.
+
+Superteam UK
+
+The home for web3 and frontier tech in the UK, backed by the Solana Foundation. They've supported 200+ startups and helped founders raise $40M+, with co-working hubs from London to Glasgow.
+
+### Community partners
+
+MonkeDAO
+
+Premier Web3.0 Country Club, a global community built around the Solana Monkey Business (SMB) collection on Solana. Spanning more than 20 local chapters worldwide, it is home to builders, investors and curious minds shaping the future of Web3.
+
+Pub Club
+
+A London meetup for people building at the frontier of tech. Good people, big ideas and maximum vibes.
+
+By attending you agree to be photographed and filmed.
 
 <a id="event-d7dfa2c3e177a303"></a>
 
@@ -21624,7 +21806,17 @@ Seats are limited, so registration is required
 
 ### About the event
 
-Breakpoint is full of panels about what's possible. Here's where you actually make it happen. Join CoW Swap at Lillie's on Monday afternoon for cocktails, canapés, and conversation. It's just around the corner from the conference, so the perfect first stop on your night out. Now for the good bit... Somewhere in the room, someone is looking for exactly what you offer....
+Organized by CoW Swap at Lillie's Wine Bar & Restaurant as an official community side event during Solana Breakpoint London week.
+
+Breakpoint is full of panels about what's possible. Here's where you actually make it happen.
+
+Join CoW Swap at Lillie's on Monday afternoon for cocktails, canapés, and conversation. It's just around the corner from the conference, so the perfect first stop on your night out.
+
+Now for the good bit...
+
+Somewhere in the room, someone is looking for exactly what you offer. And someone else has exactly what you're looking for. We'll do our best to help you connect - facilitating coincidences of wants (CoWs) is kind of our thing.
+
+See you there, starting at 5pm. Moo.
 
 <a id="event-3a6b2727d9256d90"></a>
 
@@ -21637,6 +21829,8 @@ Breakpoint is full of panels about what's possible. Here's where you actually ma
 - Original page: <https://luma.com/gsrcrypto-jmyt>
 
 ### About the event
+
+Organized by Stuart Shearer, Arkham, Chris Cox in London, UK as an official community side event during Solana Breakpoint London week.
 
 London After Hours I The Breakpoint Debrief by GSR x Arkham
 
@@ -21664,7 +21858,15 @@ Space is limited and every registration is reviewed. If you are approved, we wil
 
 ### About the event
 
-Fancy a pint? We're swapping conference halls for a proper British boozer and bringing together a cracking crowd from Solana Breakpoint for an exclusive evening of pints, banter, and brilliant company. Join us for a quintessentially London happy hour, complete with a lively pub atmosphere, a few cheeky drinks, and plenty of good conversation....
+Fancy a pint?
+
+We're swapping conference halls for a proper British boozer and bringing together a cracking crowd from Solana Breakpoint for an exclusive evening of pints, banter, and brilliant company.
+
+Join us for a quintessentially London happy hour, complete with a lively pub atmosphere, a few cheeky drinks, and plenty of good conversation. Whether you're catching up with old mates or making new ones, it's the perfect excuse to pull up a stool, raise a glass, and enjoy a bit of British hospitality.
+
+Spots are limited, so get your name on the guest list and join us for a proper good time.
+
+Cheers, mate!
 
 <a id="event-b655acf6e728c607"></a>
 
@@ -21678,7 +21880,11 @@ Fancy a pint? We're swapping conference halls for a proper British boozer and br
 
 ### About the event
 
+Organized by Bash in London, United Kingdom as an official community side event during Solana Breakpoint London week.
+
 We're bringing together people across capital and counsel for an easy evening of drinks, sharp conversations, and useful introductions! No panels. No pitches. No forced networking. Just founders, investors, operators, lawyers, advisors, and other interesting people across crypto, Web3, and emerging tech in one room. Come when you can and leave when you need to.
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
 
 <a id="event-2ed8f6c6d25a2b4e"></a>
 
@@ -21692,7 +21898,61 @@ We're bringing together people across capital and counsel for an easy evening of
 
 ### About the event
 
-An Official Solana Breakpoint 2026 Side Event London is calling. And we're bringing everyone together. As Solana Breakpoint comes to London, CryptoMondays London is welcoming the global Web3 community for an evening of great conversations, new connections and a proper London night out. We're taking over The Broadcaster in White City, just a short distance from the Breakpoint conference, for an evening bringing together London's established Web3 community and our international friends....
+An Official Solana Breakpoint 2026 Side Event
+
+London is calling. And we're bringing everyone together.
+
+As Solana Breakpoint comes to London, CryptoMondays London is welcoming the global Web3 community for an evening of great conversations, new connections and a proper London night out.
+
+We're taking over The Broadcaster in White City, just a short distance from the Breakpoint conference, for an evening bringing together London's established Web3 community and our international friends.
+
+We're bringing together up to 250 guests, a rooftop full of interesting people, complimentary drinks and canapés, and a couple of curated conversations with voices from across the industry.
+
+What's happening?
+
+Short, curated industry conversations in The Playroom
+
+Complimentary beer, wine and soft drinks
+
+Canapés throughout the evening
+
+Rooftop networking at The Broadcaster
+
+Founders, builders, investors, institutions and the wider Web3 community
+
+Monday 16 November 2026
+
+6:00pm-11:00pm
+
+The Broadcaster, White City, London
+
+Proof-of-Community. Since 2018.
+
+CryptoMondays London has been bringing the Web3 community together since February 2018.
+
+We've hosted 100+ events, welcoming founders, builders, investors and industry leaders through bull markets, bear markets, COVID and everything in between.
+
+We didn't arrive for conference week. We've been here all along.
+
+Attendance is complimentary, with registration subject to approval.
+
+Spaces are limited.
+
+Interested in sponsoring London Calling?
+
+We're partnering with a select number of brands to bring the global Web3 community together during Breakpoint week.
+
+For sponsorship opportunities, please contact Kaitlin Argeaux at Kaitlin@cryptomondayslondon.com
+
+Our community sponsors
+
+Vault12 - Vault12 is the pioneer in crypto inheritance management, helping everyday people set up legacy contacts for their bitcoin and ethereum crypto wallets.
+
+CoinDepo is a crypto investment platform designed to help users put their digital assets to work. With flexible earning and borrowing solutions, community-driven governance, and institutional-grade security infrastructure, CoinDepo makes it easier to generate passive income from crypto while maintaining greater flexibility and control over digital assets.
+
+Photography and videography will take place at this event. By attending, you consent to being filmed and photographed for promotional purposes. If you have any concerns, please inform the photographer or a member of the CML team.
+
+By registering for this event, you agree to receive occasional updates from CryptoMondays London, including event announcements and community opportunities. You can unsubscribe at any time.
 
 <a id="event-e2b5410cbc62b7a6"></a>
 
@@ -21706,14 +21966,20 @@ An Official Solana Breakpoint 2026 Side Event London is calling. And we're bring
 
 ### About the event
 
-Socure and WalletConnect host an intimate dinner during Breakpoint London, bringing together digital asset builders and institutional leaders near the conference venue.
+Socure x WalletConnect are bringing together the minds shaping crypto for an intimate dinner during Breakpoint London, hosted at a delicious restaurant just minutes away from the conference.
 
 Evening Agenda:
 
-- Cocktail hour: 6:00 - 7:00 PM
-- Dinner: 7:00 - 9:00 PM
+- 6:00 PM - 7:00 PM: Cocktail hour
+- 7:00 PM - 9:00 PM: Dinner and executive discussion
 
-Invite-only gathering with 30 seats reserved for approved guests.
+30 seats. Invite-only. Approved guests only.
+
+Join us for a multi-course dinner with leading institutions and a look at what's next for trust in digital assets.
+
+Socure is the leading identity verification platform, trusted by 3,000+ companies across 20 industries, including 18 of the top 20 banks and top 5 global crypto exchanges, infrastructure platforms and wallet providers.
+
+WalletConnect is the digital asset infrastructure powering payments, trading and compliance at global scale. Founded in 2018, the WalletConnect network connects over 900 million users and thousands of institutions across 700+ wallets, all major blockchains, and powering more than $500 billion in transaction volume in 2025 alone.
 
 <a id="event-605fa99bab56fbcc"></a>
 
@@ -21727,7 +21993,11 @@ Invite-only gathering with 30 seats reserved for approved guests.
 
 ### About the event
 
+Organized by Alchemy, liz @ alchemy, Canaan Linder in London, United Kingdom as an official community side event during Solana Breakpoint London week.
+
 Join Alchemy at Solana Breakpoint for an intimate VIP dinner bringing together a curated group of the Solana ecosystem's leading builders and founders. Expect excellent food, thoughtful conversation, and a relaxed evening with the people shaping what's next for Solana. Space is limited, and attendance is by invitation only.
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
 
 <a id="event-39129048c18f41aa"></a>
 
@@ -21741,7 +22011,15 @@ Join Alchemy at Solana Breakpoint for an intimate VIP dinner bringing together a
 
 ### About the event
 
-Breakpoint Day 2 Afterparty The Financial News Network, in partnership with Ecology Media and CoinDesk, is hosting an exclusive gathering coinciding with Solana Breakpoint. Join us for an evening of drinks and nibbles as the worlds of fintech and DeFi converge, bringing top investors, innovators, financial institutions, and media together for a memorable night of high-level networking....
+The Financial News Network, in partnership with Ecology Media and CoinDesk, is hosting an exclusive gathering coinciding with Solana Breakpoint.
+
+Join us for an evening of drinks and nibbles as the worlds of fintech and DeFi converge, bringing top investors, innovators, financial institutions, and media together for a memorable night of high-level networking. Date: 16 November 2026 Time: 6:30pm - 11:00pm The Venue: St. Paul's Hotel, Hammersmith
+
+The event takes place at the iconic St. Paul's Hotel in Hammersmith, just a 10-minute walk from Kensington Olympia. Housed in a stunning 1884 Victorian red-brick estate designed by Natural History Museum architect Alfred Waterhouse, the building is steeped in history.
+
+It served as the secret military headquarters where General Montgomery, Winston Churchill, and General Eisenhower drew up the final D-Day landing plans. This legacy of high-stakes intelligence makes the estate the perfect historical backdrop to celebrate CoinDesk's Privacy in Motion series a project dedicated to examining the modern frontiers of cybersecurity, data protection, and surveillance in our global digital network.
+
+Space is strictly limited and all attendees must be approved by the hosting partners. Please register your interestto join us for this exciting evening
 
 <a id="event-c780760c8153a53f"></a>
 
@@ -21813,7 +22091,23 @@ Hosted by Real Vision.
 
 ### About the event
 
-When the markets close, the real conversations begin. Fintech & Data: London Executive Dinner is an intimate, invitation-only evening for a small group of founders and senior executives shaping the future of finance: leaders in fintech, market data, trading technology, research and investment management....
+When the markets close, the real conversations begin.
+
+Fintech & Data: London Executive Dinner is an intimate, invitation-only evening for a small group of founders and senior executives shaping the future of finance: leaders in fintech, market data, trading technology, research and investment management.
+
+Hosted in a private dining room in West London, the dinner is designed for candid conversation away from conference halls and panel stages. Expect thoughtful company, an exceptional seasonal menu with paired wines, and an unhurried discussion of what's moving markets heading into 2027: data quality and the edge it creates, the evolving role of alternative datasets, and how leading firms are rethinking research, risk and execution.
+
+The evening
+
+7:00 PM: Champagne reception
+
+7:45 PM: Seated dinner & guided conversation
+
+10:00 PM: Digestifs & open discussion
+
+### Please note
+
+All registrations are reviewed, and approval is required to attend. Dress code: smart / business elegant.
 
 <a id="event-e571a0168038410d"></a>
 
@@ -21827,7 +22121,23 @@ When the markets close, the real conversations begin. Fintech & Data: London Exe
 
 ### About the event
 
-Halborn and MERGE invite you to an exclusive executive mixer for leaders driving on-chain finance at Solana Breakpoint 2026 🇬🇧 Set in one of London's most stylish cocktail bars, this curated evening offers the perfect opportunity to connect with fellow founders and executives shaping the future of digital assets, in a lively and stylish atmosphere....
+Halborn and MERGE invite you to an exclusive executive mixer for leaders driving on-chain finance at Solana Breakpoint 2026 🇬🇧
+
+Set in one of London's most stylish cocktail bars, this curated evening offers the perfect opportunity to connect with fellow founders and executives shaping the future of digital assets, in a lively and stylish atmosphere.
+
+What to expect: Sensational signature cocktails crafted by expert in-house mixologists Delicious small plates throughout the evening High-quality conversations and meaningful connections with industry leaders
+
+See you there!
+
+### Hosts
+
+Halborn is the industry-leading digital asset security solutions firm trusted by the largest banks and financial institutions.
+
+World-class, end-to-end security, from custody advisory, smart contract auditing and pen testing to compliance readiness technical due diligence and beyond.
+
+MERGE is the leading institutional crypto, blockchain and Web3 event in Southern Europe and Latin America. A bridge between traditional finance and digital assets.
+
+Where banks, regulators, fintechs and the digital asset ecosystem converge to shape the future of finance and the Internet. A bridge between traditional finance and the new digital economy. The reference crypto and blockchain event in Spain, Europe and Latin America.
 
 <a id="event-b8135e8320b0ec0b"></a>
 
@@ -21841,7 +22151,13 @@ Halborn and MERGE invite you to an exclusive executive mixer for leaders driving
 
 ### About the event
 
+Organized by mast3rkraft at Annabel's as an official community side event during Solana Breakpoint London week.
+
 An exclusive evening of networking drinks hosted by edgerunners.app at Annabel's (46 Berkeley Square, London), one of Mayfair's premier private members' clubs. The event gathers high-volume Solana traders, MEV researchers, and trading infrastructure engineers for cocktails and discussions on algorithmic execution, low-latency RPCs, and DEX liquidity during Breakpoint week. Guest list strictly curated.
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
+
+Dress code is smart casual, and verified RSVP confirmation is required at the door. Connect with founders, high-frequency algorithmic traders, and liquidity engineers exploring high-throughput onchain execution on Solana.
 
 <a id="event-37d5ecae13475c8d"></a>
 
@@ -21855,7 +22171,39 @@ An exclusive evening of networking drinks hosted by edgerunners.app at Annabel's
 
 ### About the event
 
-Head Down 5K × Solana | Breakpoint Edition The city's still asleep. We're already moving. After 300 runners joined the first Head Down 5K, we're bringing it back for Breakpoint week with Solana. Before the conference floor gets loud, start the day the 445 way: a 5K through Battersea and Nine Elms in the dark, with no pressure on pace....
+Head Down 5K × Solana | Breakpoint Edition
+
+The city's still asleep. We're already moving.
+
+After 300 runners joined the first Head Down 5K, we're bringing it back for Breakpoint week with Solana. Before the conference floor gets loud, start the day the 445 way: a 5K through Battersea and Nine Elms in the dark, with no pressure on pace. Everyone starts together and everyone finishes together.
+
+Builders, founders, creators, Breakpoint attendees and 445 regulars, this one's for you.
+
+Capture the moment
+
+Post your run and tag @445crew_ and @solana. We'll reshare our favourites from the morning.
+
+Tuesday 17 November 2026
+
+Meet 04:45 | Start 05:00
+
+M&S Food Hall, Battersea Power Station, 5 Lumen Lane, London SW8 5BN
+
+Bring: running kit, something reflective or a head torch, water, and a layer for before and after.
+
+Under-18s must attend with a parent or legal guardian.
+
+Thank you to our partners
+
+Solana : [add the one-line description Solana gives you]
+
+445CREW : a London run club and movement community. Early mornings, all paces, no one left behind.
+
+Want to partner with 445? Email info@445crew.com
+
+Follow @445crew_ and join us on Strava: strava.com/clubs/2239560
+
+Move. Connect. Build. Together.
 
 <a id="event-d998526b7d4b726d"></a>
 
@@ -21869,7 +22217,25 @@ Head Down 5K × Solana | Breakpoint Edition The city's still asleep. We're alrea
 
 ### About the event
 
-Dev3pack Meetup: The Bridge 🇬🇧 Interested in building a startup on Solana? Join us for a Dev3pack meetup to discover The Bridge, our accelerator supporting underrepresented talents, students & women founders, who want to turn ideas and hackathon projects into real products. We'll introduce the program, officially open applications, and bring together alumni who will share their experience and answer your questions....
+Dev3pack Meetup: The Bridge 🇬🇧
+
+Interested in building a startup on Solana?
+
+Join us for a Dev3pack meetup to discover The Bridge, our accelerator supporting underrepresented talents, students & women founders, who want to turn ideas and hackathon projects into real products.
+
+We'll introduce the program, officially open applications, and bring together alumni who will share their experience and answer your questions.
+
+What to expect: An introduction to The Bridge and the 8-week program Applications opening and how to apply Alumni stories and insights Networking with students, women builders, and aspiring founders
+
+The Bridge is 100% free and takes 0% equity.
+
+See you there!
+
+Learn more: https://bridge.dev3pack.xyz/
+
+Limited capacity.
+
+Hosted by Dev3pack
 
 <a id="event-100b47b550e571b0"></a>
 
@@ -21882,6 +22248,8 @@ Dev3pack Meetup: The Bridge 🇬🇧 Interested in building a startup on Solana?
 - Original page: <https://luma.com/5hdnilau>
 
 ### About the event
+
+Organized by Jaako Metaplex, Mack, Clay Helms in London, UK as an official community side event during Solana Breakpoint London week.
 
 Join us Nov 17th at 12pm in London for an intimate lunch with leading protocols, funds and thought leaders across the Solana ecosystem.
 
@@ -21913,19 +22281,15 @@ We're carving out a quiet table for a curated group of members at MonkeDAO: a me
 
 This is an invite-only gathering for:
 
-MonkeVentures Active members: the Monkes who've backed deals with us, and those actively looking at the next ones.
+MonkeVentures Active members : the Monkes who've backed deals with us, and those actively looking at the next ones.
 
-MegaMonkes: Through every cycle, every floor, and every "NFTs are dead" headline, you never sold the vision. Your conviction in NFTs as culture and community is the foundation this DAO was built on, and this table is as much yours as anyone's.
+MegaMonkes : Through every cycle, every floor, and every "NFTs are dead" headline, you never sold the vision. Your conviction in NFTs as culture and community is the foundation this DAO was built on, and this table is as much yours as anyone's.
 
-MonkeFoundry portfolio founders: the teams we've backed and are building alongside.
+MonkeFoundry portfolio founders : the teams we've backed and are building alongside.
 
-MonkeDAO contributors: the people who keep the jungle running, day in and day out.
+MonkeDAO contributors : the people who keep the jungle running, day in and day out.
 
-### What to expect
-
-- A relaxed, seated lunch with a curated group of operators, investors, and long-term holders
-- Unfiltered conversations on deals, building, and where Solana and NFTs go next
-- A chance to meet the founders and Monkes behind MonkeFoundry, MonkeVentures as well as our esteemed MegaMonkes in person
+What to expect A relaxed, seated lunch with a curated group of operators, investors, and long-term holders Unfiltered conversations on deals, building, and where Solana and NFTs go next A chance to meet the founders and Monkes behind MonkeFoundry, MonkeVentures as well as our esteemed MegaMonkes in person
 
 Tuesday, 17 November 2026
 
@@ -21977,7 +22341,11 @@ Bulk is a high-throughput decentralized derivatives platform optimizing perpetua
 
 ### About the event
 
+Organized by Blockaid Events at Brook Green Hotel as an official community side event during Solana Breakpoint London week.
+
 Blockaid is hosting an evening of drinks near Olympia, alongside Solana Breakpoint, bringing together founders, investors and leaders across institutional finance and leading crypto-native companies. Over drinks and open conversation, we'll cross paths with the people shaping the Solana ecosystem - founders, developers and institutional allocators in the same room, for the most up-to-date read on what's actually being built and where it's heading. Open bar. Open to all Breakpoint attendees.
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
 
 <a id="event-d3b6970936e713d6"></a>
 
@@ -21991,7 +22359,43 @@ Blockaid is hosting an evening of drinks near Olympia, alongside Solana Breakpoi
 
 ### About the event
 
-W3 Playbook Launch Party In collaboration with Gosai Law & Solana Superteam UK Join W3 Accelerator and partners as we celebrate the launch of W3 Playbook, the new podcast for the next generation of unicorn builders. Come for an intimate evening of drinks and canapés, meet the team behind the show, and sign up to be a guest....
+W3 Playbook Launch Party
+
+In collaboration with Gosai Law & Solana Superteam UK
+
+Join W3 Accelerator and partners as we celebrate the launch of W3 Playbook, the new podcast for the next generation of unicorn builders.
+
+Come for an intimate evening of drinks and canapés, meet the team behind the show, and sign up to be a guest. Each episode is built around practical, expert-led insight from the founders and operators shaping Web3.
+
+Heading to Solana Breakpoint 2026?
+
+We're proud to be part of the official Breakpoint afterparty. Once the launch wraps up, the night continues with a pub crawl across London, and your first drink is on us.
+
+### AGENDA
+
+WHERE:
+
+HUCKSTER, Paddington
+
+A quirky multi-level bar and events venue in West London, near the Elizabeth Line. Equipped with pool tables, photo booth, craft beer and street food; this is the perfect wind-down spot for an evening of informal conversation.
+
+Private room name: China Town.
+
+4 Kingdom Street, Paddington, Central London, W2 6BD.
+
+HEADLINE SPONSOR:
+
+Gosai Law is a specialist law firm built for Web3, AI and emerging technology. It advises founders, funds and financial institutions on the legal and regulatory questions that come with building at the edge of technology and finance, including digital asset licensing, payments and cross-border compliance. The firm works with 250+ clients worldwide and has offices across the US, UK, Australia and UAE. Crypto and AI have been central to its practice since it was founded in 2022, and it has been recognised with awards including Boutique Law Firm of the Year and Best Crypto Law Firm in Australia.
+
+Meet the team over drinks and find out how they help the next generation of unicorn builders go to market with confidence.
+
+BREAKPOINT GREAT BRITISH PUB CRAWL:
+
+The Great British Pub Crawl
+
+Your last night in London shouldn't be spent at the hotel. Once the final Breakpoint talk wraps, join us for The Great British Pub Crawl, the unofficial official afterparty to Breakpoint 2026, hosted by Solana Superteam UK on Tuesday 17 November. Thousands of people from 100+ countries are in town, and most have never set foot in a proper British pub. The route runs west to east, from Olympia to Soho, with locally recommended pubs, a bar tab behind each stop, and a chain of happy hours and takeovers poured by teams from across the Solana ecosystem. Use the crawl app to follow the live route map, get alerts when the next sponsored hour opens, and check in to claim your pint.
+
+Our W3 Playbook launch is part of the night, so come for the drinks and canapés, meet the team, and carry on across London with founders, devs and funds who are all still going three days in.
 
 <a id="event-2817f2d75aeda095"></a>
 
@@ -22038,7 +22442,133 @@ Granola is the AI notepad for people in back-to-back meetings. We are proudly Lo
 
 ### About the event
 
-Caravana Presents x mallow x Cycol Gallery A GROUP SHOW --- 17th - 21st November Tue 17th: 6pm - 10pm OPENING EVENT Wed 18th: 1pm - 7:00pm Thu 19th: 1pm - 7:00pm Fri 20th: 1pm - 7:30pm (6:00pm - 7:30pm BOOK CLUB) Sat 21st: 1pm - 10pm (6pm - 10pm CLOSING EVENT) --- At Greatorex Street (https://greatorexstreet.com/) Beverages provided....
+Caravana Presents x mallow x Cycol Gallery
+
+A GROUP SHOW
+
+---
+
+17th - 21st November
+
+Tue 17th: 6pm - 10pm OPENING EVENT
+
+Wed 18th: 1pm - 7:00pm
+
+Thu 19th: 1pm - 7:00pm
+
+Fri 20th: 1pm - 7:30pm (6:00pm - 7:30pm BOOK CLUB)
+
+Sat 21st: 1pm - 10pm (6pm - 10pm CLOSING EVENT)
+
+---
+
+At Greatorex Street ( https://greatorexstreet.com/ )
+
+Beverages provided.
+
+Artists on Display:
+
+Lisanne Haack - X / IG
+
+Douglas McCurdy - X / IG
+
+Flavio Malaguti - X / IG
+
+Ishika Guha - X / IG
+
+Jake Andrew - X / IG
+
+Moyosore Briggs - IG
+
+Yudho - X / IG
+
+Rocco Gallo - X / IG
+
+Muriel Herm - X / IG
+
+Daniel Rodero - IG
+
+Dana Fanego - X / IG
+
+Peanug - X / IG
+
+Wojak - X
+
+Vincenzo Pagnotta - X / IG
+
+Johnny D. Germano - IG
+
+Dato - X / IG
+
+Mattia Vanzini - IG
+
+Ryan Staley - X / IG
+
+Erdem Parlakcı - IG
+
+Aria Ixchel - X / IG
+
+Lampwrecked - X / IG
+
+grebenshi - X / IG
+
+AWAG - X / IG
+
+Jooski - X / IG
+
+Garth Miró - X
+
+c_y_d_n - X
+
+Roberto Rivadeneira - X / IG
+
+Julie Bender Herdina - IG
+
+Alexander Grawoig - X
+
+Arseniy Valter - X / IG
+
+Zilian Robin - X / IG
+
+Luciana Guerra - X / IG
+
+Mical Noelson - X / IG
+
+Tyler Givens - IG
+
+Celestial Body - X / IG
+
+Pozer - X
+
+Edictzone - X / IG
+
+Caravana Presents
+
+Mallow
+
+---
+
+Supported by:
+
+Solana Foundation
+
+https://solana.org/
+
+https://x.com/SolanaFndn
+
+&
+
+Pine Stake
+
+https://pinestake.com
+
+https://x.com/PineStake
+
+&
+
+Radiants
+
+https://x.com/RadiantsDAO
 
 <a id="event-be11ede5241d354f"></a>
 
@@ -22052,7 +22582,19 @@ Caravana Presents x mallow x Cycol Gallery A GROUP SHOW --- 17th - 21st November
 
 ### About the event
 
-Three days at Olympia. The last talk ends at five. It's your last night in London. What do you do? You go to the pub. On Tuesday 17 November Superteam UK is running the Great British Pub Crawl, the unofficial official afterparty to Breakpoint 2026. Locals-approved pubs from Olympia to Soho, a bar tab at every stop, ecosystem teams pouring the pints....
+Three days at Olympia. The last talk ends at five. It's your last night in London. What do you do?
+
+You go to the pub.
+
+On Tuesday 17 November Superteam UK is running the Great British Pub Crawl, the unofficial official afterparty to Breakpoint 2026. Locals-approved pubs from Olympia to Soho, a bar tab at every stop, ecosystem teams pouring the pints.
+
+Including Happy Hours Presented by Ika Anza RockawayX Formation (Orca / Loopscale) BAXUS Solflare Superteam Ireland Superteam Brasil
+
+What to expect: A route of proper London pubs, west to east, walkable or a couple of tube stops apart Happy hours and pub takeovers hosted by Solana ecosystem teams One app with the live map, which pub is pouring right now and whose round it is New pubs announced as partners claim them Late night options for the ones who never stop
+
+Register to get the app and the route the week of Breakpoint. Pick your pub, claim your pint, see who paid for it.
+
+Message Cap from Superteam UK to sponsor a happy hour.
 
 <a id="event-84024e32966cbea5"></a>
 
@@ -22066,6 +22608,8 @@ Three days at Olympia. The last talk ends at five. It's your last night in Londo
 
 ### About the event
 
+Organized by LevendiPro, Christopher Hutchinson, Wolf Dette in London, UK as part of London Crypto Week.
+
 Blockchain Banter is throwing an epic meetup for Kaspa's 5th birthday at Wolfy's!
 
 Join us as we celebrate 5 years of Kaspa with good company, great food and awesome vibes!
@@ -22073,6 +22617,8 @@ Join us as we celebrate 5 years of Kaspa with good company, great food and aweso
 20% OFF when spending $KAS thanks to Kastle Wallet!
 
 Make sure you download the latest Kastle Wallet update so you can be a part of the leader board within their app!
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
 
 <a id="event-21bfee6d0a6876b0"></a>
 
@@ -22114,7 +22660,19 @@ Find out more about Kem at kemapp.io.
 
 ### About the event
 
-Join us for an exclusive networking mixer bringing together the ~40 international rising talents selected for the Solana Foundation Breakpoint Scholar Cohort. This night is for the Scholars. Come meet the people who can help you build what's next: hiring teams, investors, mentors, and core engineers....
+Join us for an exclusive networking mixer bringing together the ~40 international rising talents selected for the Solana Foundation Breakpoint Scholar Cohort.
+
+This night is for the Scholars. Come meet the people who can help you build what's next: hiring teams, investors, mentors, and core engineers.
+
+If you're not a Scholar, you're here to offer something to the Scholars: hiring, investing, mentoring, or collaborating on a project. This is not a pitch room. No demos, no sales, no promoting your product to Scholars.
+
+Dinner will be provided!
+
+Who should attend: Breakpoint Scholars, recruiters / reps, founders, core engineers, ecosystem leads, or anyone who wants to meet the Scholars!
+
+Note: Space is very limited. All non-Scholar registrations require host approval.
+
+NV-760
 
 <a id="event-3eb5dc9a0c02777b"></a>
 
@@ -22128,7 +22686,13 @@ Join us for an exclusive networking mixer bringing together the ~40 internationa
 
 ### About the event
 
+Organized by Laurence Lewars in London, United Kingdom as an official community side event during Solana Breakpoint London week.
+
 A Breakpoint edition poker evening in London hosted by Laurence Lewars and LO:TECH for founders, traders, and crypto market professionals. The casual game features $1/$2 Hold'em with participants from the quantitative trading community, offering informal networking, drinks, and competitive play. RSVP is subject to host confirmation.
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
+
+An exclusive networking tournament for crypto executives, fund partners, and high-stakes builders during Breakpoint London. Players must register in advance and receive host approval before venue address details are dispatched.
 
 <a id="event-02bd422884f88c92"></a>
 
@@ -22141,6 +22705,8 @@ A Breakpoint edition poker evening in London hosted by Laurence Lewars and LO:TE
 - Original page: <https://luma.com/av4pz4r6>
 
 ### About the event
+
+Organized by world.xyz, andybids, Frontier Traders in London, United Kingdom as an official community side event during Solana Breakpoint London week.
 
 welcome to the biggest event of breakpoint 2026
 
@@ -22155,6 +22721,10 @@ frontier traders: frontiertraders.com (https://frontiertraders.com)
 franky rizardo: frankyrizardo.com (https://frankyrizardo.com)
 
 dress code: dress to impress.
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
+
+Featuring an immersive sound system and live electronic sets by Franky Rizardo, this official Breakpoint nightlife gathering brings together artists, founders, and community enthusiasts celebrating Web3 culture in London.
 
 <a id="event-2beb0b7fdf99a5bc"></a>
 
@@ -22234,6 +22804,8 @@ Rayls works on financial-institution infrastructure combining private networks w
 
 ### About the event
 
+Organized by Max Eldridge, Hlx Life Sciences, Harry Yolland in London, United Kingdom as an official community side event during Solana Breakpoint London week.
+
 The invite-only afterparty for the Wednesday night during Jefferies and London Life Sciences Week.
 
 Exclusive access to the Loft at 180 Soho House. DJs, drinks and several rooms to carry the evening on into the night.
@@ -22241,6 +22813,8 @@ Exclusive access to the Loft at 180 Soho House. DJs, drinks and several rooms to
 Expect Founders, Investors, Executives and the core network of the Life Science community all in one space.
 
 When other events wind down, this is the place to be.
+
+Attendees will have the opportunity to network with fellow Web3 builders, protocol developers, liquidity providers, and ecosystem investors. Registration is required in advance due to venue capacity restrictions.
 
 <a id="event-5956c51414711c38"></a>
 
@@ -22253,6 +22827,8 @@ When other events wind down, this is the place to be.
 - Original page: <https://luma.com/vy0r1xpo>
 
 ### About the event
+
+Organized by Preeya Goenka at Google London - Pancras Square as an official community side event during Solana Breakpoint London week.
 
 Media is entering a new chapter: AI is changing how audiences find content, journalists and creators are building their own media companies, and podcasts and newsletters have become the direct line to the audience. beehiiv and Google are bringing together the creators, journalists, publishers and platforms shaping what comes next for an afternoon of conversations on the new business of media.
 
@@ -22345,6 +22921,8 @@ Questions? Reach out to mark.ross@innovateindigital.com
 
 ### About the event
 
+Organized by LevendiPro, Mike Ramiro, Wolf Dette in London, UK as part of London Crypto Week.
+
 Blockchain Banter Productions are organizing a collaboration between Web3 Poker Club & Wifey in order to host a series of poker nights at WolfysBar in London!
 
 These games will be FREE-TO-PLAY but will contain ecosystem rewards from our network.
@@ -22390,6 +22968,8 @@ By applying to this event, you consent to Xapo Bank using your contact informati
 - Original page: <https://luma.com/adcvm4ny>
 
 ### About the event
+
+Organized by TAO Socials in London, UK as part of London Crypto Week.
 
 Hey Bittensor community, the next London UK event is booked!
 
