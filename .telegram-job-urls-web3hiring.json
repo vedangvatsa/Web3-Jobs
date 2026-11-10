@@ -544,6 +544,14 @@
     "lastUrl": "https://hashtagweb3.com/manager-0t4w2fz",
     "updatedAt": "2026-09-15T19:45:18.303Z"
   },
+  "8074884": {
+    "slugs": [
+      "mgr233"
+    ],
+    "lastSlug": "mgr233",
+    "lastUrl": "https://hashtagweb3.com/mgr233",
+    "updatedAt": "2026-11-10T19:33:03.848Z"
+  },
   "8074982": {
     "slugs": [
       "security154",
@@ -7153,5 +7161,37 @@
     "lastSlug": "sls330",
     "lastUrl": "https://hashtagweb3.com/sls330",
     "updatedAt": "2026-11-10T11:32:21.832Z"
+  },
+  "ad8bb2ef-9c8a-4379-829a-47143257a23b": {
+    "slugs": [
+      "ops146"
+    ],
+    "lastSlug": "ops146",
+    "lastUrl": "https://hashtagweb3.com/ops146",
+    "updatedAt": "2026-11-10T19:33:03.848Z"
+  },
+  "c6c2f6d4-0d22-454a-89e1-df4b399bc4fd": {
+    "slugs": [
+      "ai"
+    ],
+    "lastSlug": "ai",
+    "lastUrl": "https://hashtagweb3.com/ai",
+    "updatedAt": "2026-11-10T19:33:03.848Z"
+  },
+  "4750517005": {
+    "slugs": [
+      "rec53"
+    ],
+    "lastSlug": "rec53",
+    "lastUrl": "https://hashtagweb3.com/rec53",
+    "updatedAt": "2026-11-10T19:33:03.848Z"
+  },
+  "91b36021-5089-465e-8bda-3d6aa7aa2cba": {
+    "slugs": [
+      "sls348"
+    ],
+    "lastSlug": "sls348",
+    "lastUrl": "https://hashtagweb3.com/sls348",
+    "updatedAt": "2026-11-10T19:33:03.848Z"
   }
 }
