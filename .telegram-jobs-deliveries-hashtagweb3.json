@@ -9180,5 +9180,123 @@
     "slotKey": "2026-11-09:evening",
     "messageId": 156160,
     "sentAt": "2026-11-09T19:50:51.910Z"
+  },
+  "135529c5-69ba-4b16-938a-a5a2d8d7742c": {
+    "status": "reserved",
+    "reservedAt": "2026-11-10T11:32:29.494Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8301728",
+          "title": "Technical Program Manager",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8301728?t=gh_src=&gh_jid=8301728",
+          "date": "2026-10-20T12:22:21-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Menlo Park, CA; New York, NY",
+          "department": "Brokerage Division",
+          "active": true,
+          "salary": "$140k – $165k/yr",
+          "dateVerified": true,
+          "slug": "mgr197"
+        },
+        "key": "8301728",
+        "slug": "mgr197",
+        "url": "https://hashtagweb3.com/mgr197?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Technical Program Manager"
+      },
+      {
+        "snapshot": {
+          "id": "3cdf09ef-364c-424e-a920-940f7749c285",
+          "title": "Cyber Security Operations Center (CSOC) Analyst (English Speaker)",
+          "company": "BTSE",
+          "link": "https://jobs.lever.co/BTSE/3cdf09ef-364c-424e-a920-940f7749c285",
+          "date": "2026-11-02T09:38:11.353Z",
+          "source": "Lever: BTSE [BTSE]",
+          "location": "Remote (Jakarta)",
+          "workplaceType": "remote",
+          "department": "BTSE",
+          "active": true,
+          "dateVerified": true,
+          "dateSource": "Lever.createdAt",
+          "slug": "sec154"
+        },
+        "key": "3cdf09ef-364c-424e-a920-940f7749c285",
+        "slug": "sec154",
+        "url": "https://hashtagweb3.com/sec154?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BTSE",
+        "title": "Cyber Security Operations Center"
+      },
+      {
+        "snapshot": {
+          "id": "7a6e5274-d82d-40ac-b396-592318f68d76",
+          "title": "Affiliate Specialist - Pro (EMEA)",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/7a6e5274-d82d-40ac-b396-592318f68d76",
+          "date": "2026-11-06T17:35:07.647+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (United Kingdom)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "asp2"
+        },
+        "key": "7a6e5274-d82d-40ac-b396-592318f68d76",
+        "slug": "asp2",
+        "url": "https://hashtagweb3.com/asp2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Affiliate Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "5016114101",
+          "title": "Junior Options Trader",
+          "company": "Flowdesk",
+          "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5016114101",
+          "date": "2026-10-26T08:24:03-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Flowdesk [flowdesk]",
+          "location": "Singapore",
+          "department": "Derivatives",
+          "active": true,
+          "dateVerified": true,
+          "slug": "tr145"
+        },
+        "key": "5016114101",
+        "slug": "tr145",
+        "url": "https://hashtagweb3.com/tr145?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Flowdesk",
+        "title": "Junior Options Trader"
+      },
+      {
+        "snapshot": {
+          "id": "8a75bcc4-510e-4815-ac28-4dec643db866",
+          "title": "KOL and Social Manager",
+          "company": "ether.fi",
+          "link": "https://jobs.ashbyhq.com/ether.fi/8a75bcc4-510e-4815-ac28-4dec643db866",
+          "date": "2026-10-27T13:29:48.938+00:00",
+          "source": "Ashby: ether.fi [ether.fi]",
+          "location": "Cayman",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr208"
+        },
+        "key": "8a75bcc4-510e-4815-ac28-4dec643db866",
+        "slug": "mgr208",
+        "url": "https://hashtagweb3.com/mgr208?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "ether.fi",
+        "title": "KOL and Social Manager"
+      }
+    ],
+    "message": "- Robinhood is hiring <a href=\"https://hashtagweb3.com/mgr197?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Program Manager</a>\n- BTSE is hiring <a href=\"https://hashtagweb3.com/sec154?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Cyber Security Operations Center (CSOC) Analyst (English Speaker)</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/asp2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Affiliate Specialist - Pro (EMEA)</a>\n- Flowdesk is hiring <a href=\"https://hashtagweb3.com/tr145?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Junior Options Trader</a>\n- ether​.fi is hiring <a href=\"https://hashtagweb3.com/mgr208?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">KOL and Social Manager</a>",
+    "slotKey": "2026-11-10:afternoon"
   }
 }
