@@ -3524,7 +3524,7 @@
     "sentAt": "2026-11-09T19:52:34.980Z"
   },
   "b90496fa-bb40-4142-a8e9-cf6ccfc6b734": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-10T11:33:14.944Z",
     "stories": [
       {
@@ -3556,6 +3556,8 @@
         "originalTitle": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers"
       }
     ],
-    "slotKey": "2026-11-10:afternoon"
+    "slotKey": "2026-11-10:afternoon",
+    "messageId": 193490,
+    "sentAt": "2026-11-10T11:33:27.893Z"
   }
 }
