@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-11-10T12:10:59.634Z",
+  "generatedAt": "2026-11-10T13:01:29.099Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 3918,
+  "count": 3917,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -8364,12 +8364,6 @@
     {
       "url": "https://hashtagweb3.com/forma",
       "lastmod": "2026-11-10",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/forma-residency-final-ship-show-live-london",
-      "lastmod": "2026-11-11",
       "changefreq": "weekly",
       "priority": 0.6
     },

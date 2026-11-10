@@ -88,6 +88,7 @@ export const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'streamingfast': 'https://streamingfast.io',
  'etherscan': 'https://etherscan.io',
  'caladan': 'https://caladan.com',
+ 'cointracker': 'https://www.cointracker.com',
  'ethereum-institutional': 'https://ethereuminstitutional.org',
  'openzeppelin': 'https://openzeppelin.com',
  'ripple': 'https://ripple.com',

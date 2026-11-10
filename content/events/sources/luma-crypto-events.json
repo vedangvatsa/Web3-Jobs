@@ -777,7 +777,7 @@
     "id": "luma-crypto-8dntupEO60aiWT5",
     "slug": "shhlon",
     "name": "Solana Hacker House - London",
-    "description": "Back by popular demand, Solana Hacker House returns to London ahead of Breakpoint 2026 for a special edition!\n\nFor thirteen days, this becomes more than an event - it’s a home for builders. A place where ideas move from concept to code, where conversations turn into companies, and where the energy of the global Solana ecosystem gathers under one roof in the lead-up to our flagship moment in London.\n\nExpect an immersive, high-signal environment shaped by the people building the future of our industry:\n\n• Workshops and deep dives across DeFi, security, infrastructure, and applications\n• Hands-on guidance from the Ecosystem Experts,  Superteam UK and Solana Foundation Devreal\n• Real-time collaboration with founders, developers, and operators across the ecosystem\n• Space to build, test, refine, and push your product toward true product market fit\n• Intentional space for connection, collaboration, and building alongside the ecosystem\n\nWhere teams are formed, ideas are sharpened, and momentum compounds in real time. Whether you’re refining a live product or building from zero, the Hacker House is designed to meet you where you are and move you forward.\n\nHow to get involved:\n\n• [Leading a Session: Please apply via this form](https://solanafoundation.typeform.com/sol-hh-london)\n• Sponsorship: Please reach out to events@solana.org\n• Attendance: Request to join via this page (Approval required)\n\nWhat to expect onsite:\n\n• Daily programming from 10:00 AM – 8:00 PM\n• A fully equipped workspace with strong WiFi, power, and dedicated build zones\n• Food, lounges, and informal spaces designed for connection and collaboration\n• Continuous access to ecosystem leaders, partners, and peers\n\nRegistration will be open daily from 10:00 AM – 5:00 PM. Approved guests only, please keep your RSVP up to date to allow others to join if your plans change. As there is limited space.\n\nThis isn’t just a lead-in to Breakpoint. It’s where the ecosystem shows up early, focused, collaborative, and ready to build what comes next!\n\nInterested in sponsoring? Please reach out to events@solana.org\n\nSee you in London!",
+    "description": "Back by popular demand, Solana Hacker House returns to London ahead of Breakpoint 2026 for a special edition!\n\nFor thirteen days, this becomes more than an event - it’s a home for builders. A place where ideas move from concept to code, where conversations turn into companies, and where the energy of the global Solana ecosystem gathers under one roof in the lead-up to our flagship moment in London.\n\nExpect an immersive, high-signal environment shaped by the people building the future of our industry:\n\n• Workshops and deep dives across DeFi, security, infrastructure, and applications\n• Hands-on guidance from the Ecosystem Experts, Superteam UK and Solana Foundation Devreal\n• Real-time collaboration with founders, developers, and operators across the ecosystem\n• Space to build, test, refine, and push your product toward true product market fit\n• Intentional space for connection, collaboration, and building alongside the ecosystem\n\nWhere teams are formed, ideas are sharpened, and momentum compounds in real time. Whether you’re refining a live product or building from zero, the Hacker House is designed to meet you where you are and move you forward.\n\nHow to get involved:\n\n• Leading a Session: Submissions closed\n• Sponsorship: Please reach out to events@solana.org\n• Attendance: Request to join via this page (Approval required)\n\nWhat to expect onsite:\n\n• Daily programming from 10:00 AM – 8:00 PM\n• A fully equipped workspace with strong WiFi, power, and dedicated build zones\n• Food, lounges, and informal spaces designed for connection and collaboration\n• Continuous access to ecosystem leaders, partners, and peers\n\nRegistration will be open daily from 10:00 AM – 5:00 PM. Approved guests only, please keep your RSVP up to date to allow others to join if your plans change. As there is limited space.\n\nThis isn’t just a lead-in to Breakpoint. It’s where the ecosystem shows up early, focused, collaborative, and ready to build what comes next! \n\nInterested in sponsoring? Please reach out to events@solana.org\n\nStill need to book a hotel? Book with Nomadz (https://nomadz.xyz/breakpoint)and save up to 30%\n\nSee you in London!",
     "startDate": "2026-11-01T10:00:00.000Z",
     "endDate": "2026-11-12T20:00:00.000Z",
     "city": "London",
@@ -813,7 +813,7 @@
     "sourceVerification": {
       "url": "https://luma.com/london-hh-26",
       "eventId": "evt-8dntupEO60aiWT5",
-      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "fetchedAt": "2026-11-10T12:31:44.555Z",
       "method": "luma-page"
     },
     "sideEventFor": [
@@ -822,10 +822,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/london-hh-26",
-      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "fetchedAt": "2026-11-10T12:31:44.555Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Solana Hacker House - London · Luma",
-      "sha256": "bc2e6b3d6d0df3a38746eab226be09deb9b2b7f68f0055364055861dcc8be4d5"
+      "sha256": "ef43a9ede32ff4c9998042616b7f9de0cd9e5dd1f5eb9a48c171107646b25615"
     }
   },
   {
@@ -1903,7 +1903,7 @@
     "id": "luma-crypto-i1tMtsPFib0VzBF",
     "slug": "convergenc",
     "name": "Convergence: Onchain Finance Soirée at DAS London",
-    "description": "Convergence is a curated evening soirée during Das London 2026, hosted by OpenZeppelin for the leaders bringing traditional finance onchain.\n\nFinance is moving onchain. Tokenized funds, stablecoins, digital custody, and onchain settlement are becoming part of institutional infrastructure, and the people building that shift rarely get a room of their own at a conference of 10,000.\n\nThis evening is that room: banks, asset managers, payment networks, capital markets infrastructure, fintechs and neobanks, alongside the teams securing and powering their move onchain. Real conversations, away from the noise of the conference floor.\n\nJoin us on Tuesday, November 10 for cocktails in a private venue walking distance from Hilton Park Lane.\n\nPrevious Convergence events drew senior guests from firms including J.P. Morgan, Citi, UBS, Morgan Stanley, Bank of America, BNY, Fidelity, Mastercard, Deloitte, and more.\n\nSpace is limited to keep the evening intimate and conversation-friendly. Registration is subject to host approval.\n\n## About the host\n\nOpenZeppelin (https://www.openzeppelin.com/) is the security standard for onchain finance. Since 2015, its industry-standard smart contracts library has powered $37 trillion in value transferred, alongside 900+ security engagements for leading institutions, blockchain networks, and protocols including DTCC, Fidelity Digital Assets, WisdomTree, Aave, the Canton Foundation and the Ethereum Foundation. Learn more at openzeppelin.com (https://openzeppelin.com).\n\n Event Photography\n\nWe'll be capturing photos and videos throughout the event. By attending, you agree that we may use event content (including your image) in our marketing materials, social media, and future promotions. If you prefer not to be photographed, please let us know at check-in.",
+    "description": "[2 mins walk from DAS venue] \n\nConvergence is a curated evening soirée during Das London 2026, hosted by OpenZeppelin for the leaders bringing traditional finance onchain.\n\nFinance is moving onchain. Tokenized funds, stablecoins, digital custody, and onchain settlement are becoming part of institutional infrastructure, and the people building that shift rarely get a room of their own at a conference of 10,000.\n\nThis evening is that room: banks, asset managers, payment networks, capital markets infrastructure, fintechs and neobanks, alongside the teams securing and powering their move onchain. Real conversations, away from the noise of the conference floor.\n\nJoin us on Tuesday, November 10 for cocktails in a private venue walking distance from Hilton Park Lane.\n\nPrevious Convergence events drew senior guests from firms including J.P. Morgan, Citi, UBS, Morgan Stanley, Bank of America, BNY, Fidelity, Mastercard, Deloitte, and more.\n\nSpace is limited to keep the evening intimate and conversation-friendly. Registration is subject to host approval.\n\n## About the host\n\nOpenZeppelin (https://www.openzeppelin.com/) is the security standard for onchain finance. Since 2015, its industry-standard smart contracts library has powered $37 trillion in value transferred, alongside 900+ security engagements for leading institutions, blockchain networks, and protocols including DTCC, Fidelity Digital Assets, WisdomTree, Aave, the Canton Foundation and the Ethereum Foundation. Learn more at openzeppelin.com (https://openzeppelin.com).\n\n## About the co-host\n\nMira is the ecosystem intelligence company for digital finance. We combine proprietary data, market insights, and a network of 100k+ digital asset professionals to help companies build visibility, reach the right people, and turn market opportunities into growth. Learn more at miragather.com (https://miragather.com/).\n\n Event Photography\n\nWe'll be capturing photos and videos throughout the event. By attending, you agree that we may use event content (including your image) in our marketing materials, social media, and future promotions. If you prefer not to be photographed, please let us know at check-in.",
     "startDate": "2026-11-10T16:00:00.000Z",
     "endDate": "2026-11-10T19:00:00.000Z",
     "city": "London",
@@ -1915,10 +1915,10 @@
     "source": "luma-crypto",
     "descriptionSource": {
       "url": "https://luma.com/convergence-onchain-finance-das-london",
-      "fetchedAt": "2026-11-10T11:37:55.556Z",
+      "fetchedAt": "2026-11-10T12:31:48.758Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Convergence: Onchain Finance Soirée at DAS London · Luma",
-      "sha256": "04a1268538c8720e52d3152d49cc5e78f2484e1e83639845587a553286bec8ff"
+      "sha256": "dffd11f55540d98bddf6627f1cf73404ca7557d93da136813dc8df6928f0a508"
     },
     "sideEventFor": [
       "breakpoint",
@@ -1927,7 +1927,7 @@
     "sourceVerification": {
       "url": "https://luma.com/convergence-onchain-finance-das-london",
       "eventId": "evt-i1tMtsPFib0VzBF",
-      "fetchedAt": "2026-11-10T11:37:55.556Z",
+      "fetchedAt": "2026-11-10T12:31:48.758Z",
       "method": "luma-page"
     }
   },
@@ -2289,7 +2289,7 @@
     "id": "luma-crypto-hXFJAwhWGjDusCS",
     "slug": "draper-dra",
     "name": "Draper Dragon After Hours | Breakpoint Day 1",
-    "description": "Hosted by Draper Dragon (https://x.com/DraperDragon) · Presented by Catchem (https://x.com/catchem_app), Spout Finance (https://x.com/SpoutFi), Adevar Labs (https://x.com/AdevarLabs) and Superteam NL (https://x.com/SuperteamNL)\n\nDay 1 of Breakpoint is done, so come for a drink!\n\nJoin us for an evening of drinks and conversation with people building in the Solana ecosystem. It’s a relaxed, social happy hour just down the road from Olympia, a good place to catch up on the day’s talks, meet new people, play a few quick games and pick up some free merch.\n\n> Sunday 15 November · 6:00–10:00pm\n> \n> Happy Hour Drinks provided while they last\n\nHosted by:\nDraper Dragon is an early-stage venture fund backing the next generation of frontier technology builders, with a global presence connecting Silicon Valley and Asia. The team has backed some industry leaders such as Anthropic, Coinbase, Ledger, Ether.Fi (http://ether.fi/) and more.\n\nPresented by:\nCatchem (https://x.com/catchem_app): a trading card collecting app built on Solana. Never out of reach.\n\nSpout Finance (https://x.com/SpoutFi): enabling anyone to borrow against their equities anywhere at 0% APR.\n\nAdevar Labs (https://x.com/AdevarLabs): Solana and EVM security across code, infrastructure, and operations. Ship Safely. \n\nSuperteam NL (https://x.com/SuperteamNL): the Netherlands chapter of Superteam, a community for Solana builders.\n\nSpace is limited, so please register and we’ll confirm your spot.",
+    "description": "Hosted by Draper Dragon (https://x.com/DraperDragon) · Presented by Catchem (https://x.com/catchem_app), Spout Finance (https://x.com/SpoutFi), Adevar Labs (https://x.com/AdevarLabs), Mentioned Market (https://x.com/MentionedMarket), Nomadz (https://x.com/NOMADZxyz) and Superteam NL (https://x.com/SuperteamNL)\n\nDay 1 of Breakpoint is done, so come for a drink!\n\nJoin us for an evening of drinks and conversation with people building in the Solana ecosystem. It’s a relaxed, social happy hour just down the road from Olympia, a good place to catch up on the day’s talks, meet new people, play a few quick games and pick up some free merch.\n\n> Sunday 15 November · 6:00–10:00pm\n> \n> Happy Hour Drinks provided while they last\n\nHosted by:\nDraper Dragon is an early-stage venture fund backing the next generation of frontier technology builders, with a global presence connecting Silicon Valley and Asia. The team has backed some industry leaders such as Anthropic, Coinbase, Ledger, Ether.Fi (http://ether.fi/) and more.\n\nPresented by:\nCatchem (https://x.com/catchem_app): a trading card collecting app built on Solana. Never out of reach.\n\nSpout Finance (https://x.com/SpoutFi): enabling anyone to borrow against their equities anywhere at 0% APR.\n\nAdevar Labs (https://x.com/AdevarLabs): Solana and EVM security across code, infrastructure, and operations. Ship Safely. \n\nSuperteam NL (https://x.com/SuperteamNL): the Netherlands chapter of Superteam, a community for Solana builders.\n\nNomadz (https://x.com/NOMADZxyz): Travel aggregator with flights and 1M+ stays at up to 50% lower rates.\n\nMentioned Market (https://x.com/MentionedMarket): Trade on what gets said\n\nSpace is limited, so please register and we’ll confirm your spot.",
     "startDate": "2026-11-15T18:00:00.000Z",
     "endDate": "2026-11-15T22:00:00.000Z",
     "city": "London",
@@ -2301,10 +2301,10 @@
     "source": "luma-crypto",
     "descriptionSource": {
       "url": "https://luma.com/3n5hl4c7",
-      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "fetchedAt": "2026-11-10T12:32:42.228Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Draper Dragon After Hours | Breakpoint Day 1 · Luma",
-      "sha256": "131b930124ffe74b1a101fb2956808611ec9c9ed1b1a68fc4f910245526a475c"
+      "sha256": "40b93f11bf89031cb06b9c87034cbc1155f04426542e718ac46052fa0eac6f7d"
     },
     "sideEventFor": [
       "breakpoint",
@@ -2313,7 +2313,7 @@
     "sourceVerification": {
       "url": "https://luma.com/3n5hl4c7",
       "eventId": "evt-hXFJAwhWGjDusCS",
-      "fetchedAt": "2026-11-10T11:55:25.312Z",
+      "fetchedAt": "2026-11-10T12:32:42.228Z",
       "method": "luma-page"
     }
   },

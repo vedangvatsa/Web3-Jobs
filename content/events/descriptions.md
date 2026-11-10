@@ -3461,7 +3461,13 @@ An open Fort Worth DAO roundtable about the group's programs, active event plann
 
 ### About the event
 
-NEAR Foundation and Ondo Finance host a mixer during Digital Asset Summit London for teams working on tokenized assets and onchain financial infrastructure. Discussion topics include their tokenized stock and ETF integration, confidential trading and cross-chain access. Registration requires approval.
+Join NEAR and Ondo Finance for an evening of drinks and conversation during Digital Asset Summit London.
+
+Earlier this fall, NEAR and Ondo teamed up to bring tokenized US stocks and ETFs to near.com (https://near.com), giving users onchain access to names like NVDA, TSLA, AAPL, and SPY from any of 30+ chains, with confidential trading and no brokerage account required. The same integration is available to wallets, exchanges, and apps through NEAR Intents.
+
+This mixer brings together the people behind that work and the wider community building where traditional markets and onchain infrastructure meet. Come meet the NEAR and Ondo teams, swap notes with founders, institutional leaders, and builders, and talk through where tokenization, confidential trading, and cross-chain access are heading.
+
+Space is limited, so please register to reserve your spot. Registration is subject to approval.
 
 <a id="event-7b2b1ff1f004fdd3"></a>
 
@@ -3487,9 +3493,61 @@ W3Node's Cape Town program includes keynotes, technical workshops and a three-da
 - Description: Source-backed
 - Original page: <https://luma.com/lo-qqld>
 
-### About the event
+### This is the biggest, most audacious and most daft Local event we've ever done
 
-LO:TECH and Superteam UK host a crypto community social at Bethnal Green Working Men's Club during DAS and Breakpoint week. The programme includes a live Oasis tribute band and a DJ until 01:00. Applications are reviewed and an approved ticket is required for entry.
+Free booze all night, loads of giveaways and prizes, a late licence with DJ till 1am... oh yeah and an Oasis tribute band playing live.
+
+All in the most ridiculous and fantastic venue in East London...
+
+For the regulars who've been before - you know the score. For the uninitiated - The LOCAL WMC is a piss-up social/party event for the crypto/tech community. No mercenary BDing, no hustling for business.
+
+We've scheduled it for thirsty thursday, slap bang between DAS and Breakpoint, the week when most of our industry is in London at once.
+
+Doors at 7pm. Get down early. It's first come first serve, you can maximise the bar tab, and our community partner Polystation (https://x.com/PolyStationApp) are giving everyone a free £10 bet for the England v Croatia game that happens later in the evening.
+
+Engineers and interns very welcome. BDs tolerated...
+
+(applications will be reviewed - no ticket, no entry)
+
+--
+
+https://www.youtube.com/@thelocalwmc
+
+https://x.com/TheLocalWMC
+
+------
+
+About LO:TECH
+
+LO:TECH is a capital markets firm for the onchain world.
+
+Market making, data and execution, powered by the same systems we use to trade in live markets.
+
+Headquartered in London, trading globally 24/7.
+
+https://lo.tech
+
+https://x.com/lo_tech
+
+------
+
+COMMUNITY PARTNER
+
+------
+
+### About Polystation
+
+PolyStation is a new way to bet on sports.
+
+Think you know ball?
+
+Put THEIR money where your mouth is
+
+Free bets for the England v Croatia game (12th November), free-er bets for those who can split the G.
+
+COME ON INGERLAND 󠁧󠁢󠁥󠁮󠁧󠁿
+
+https://x.com/PolyStationApp
 
 <a id="event-725e60f0d2036cff"></a>
 
@@ -3546,7 +3604,19 @@ Bitcoin Indonesia offers an introductory workshop at Bitcoin House Bali covering
 
 ### About the event
 
-Cesto is hosting a football tournament during Breakpoint in London for ecosystem projects, Superteams and community players. Further tournament details will be announced through the organizer's linked community channel. The venue is not publicly disclosed.
+Cesto & BONK are hosting a football tournament at Breakpoint in London. Sign up to stay tuned!
+
+Come join to play as an ecosystem project, Superteam, or just as community that loves football and a pint. We're here for it
+
+Join here: https://t.me/solanafootball
+
+### About Cesto
+
+Cesto is lets you invest into baskets for ideas, themes and narratives in one click on Solana. Learn more at cesto.co (https://cesto.co)
+
+### About BONK
+
+BONK is the community token of Solana and one of the most recognized brands in consumer crypto. What started as a token for the people has grown into a full onchain ecosystem spanning trading, gaming and collectibles, powered by one of the largest and most active communities in Web3, with over 1 million unique wallet holders. Learn more at bonkcoin.com (https://bonkcoin.com).
 
 <a id="event-fe47578e802de607"></a>
 
@@ -3574,7 +3644,29 @@ The Wright Success presents a Toronto and virtual masterclass combining talks an
 
 ### About the event
 
-Solana Foundation and OFFLINE host a mat-based Pilates class for founders and builders at Breakpoint. The class uses flowing floor exercises without machines and welcomes all fitness levels. Bring water and fitness clothing; registration requires approval.
+Join us at Solana Fitness Zone at Breakpoint London 2026 for a dynamic floor Pilates class for founders + builders, hosted by Solana Foundation (https://solana.org/) x Ottersec (https://osec.io/) x OFFLINE (https://x.com/getofflinexyz?utm_source=luma).
+
+What's dynamic Pilates? A faster-paced take on classic Pilates that flows from one core-strengthening move to the next. This class is done on the floor (mat-based, no machines), and it builds strength, flexibility, and balance at any fitness level. Inclusive of all genders :)
+
+Dress in comfortable fitness apparel, bring water, and be ready to move.You can RSVP with a paid or free ticket.
+
+A paid ticket guarantees entry. Free tickets will be approved closer to the event, once we have a clear headcount. Please RSVP only if you plan to attend.
+
+Thank You to Our Partners
+
+Solana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem.
+
+Ottersec (https://osec.io/) works with leading teams across multiple blockchains to provide a holistic and collaborative approach to security.
+
+OFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto.
+
+Solana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana.
+
+CUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey.
+
+Want to be a brand partner? DM @lenagrundhoefer on Telegram
+
+Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more
 
 <a id="event-6cb2be1770db8bed"></a>
 
@@ -3588,7 +3680,9 @@ Solana Foundation and OFFLINE host a mat-based Pilates class for founders and bu
 
 ### About the event
 
-The Tilt Pay team hosts a Sunday breakfast with coffee and croissants before Breakpoint. This is an informal social, with no panels. Attendance requires host approval and the address is shared with registered guests.
+Need a breather before diving into the Breakpoint madness?
+
+Join the Tilt Pay team for a chill Sunday morning breakfast. No panels, no loud music, no aggressive networking just good vibes, fresh croissants, and specialty coffee to start your day right.
 
 <a id="event-a704bd6451c69f1d"></a>
 
@@ -3602,7 +3696,37 @@ The Tilt Pay team hosts a Sunday breakfast with coffee and croissants before Bre
 
 ### About the event
 
-Lena Grundhoefer leads an all-levels yoga class for female founders and builders on Solana. The class starts with an active yang flow and moves into slower yin poses, followed by a 30-minute community gathering. Solana Foundation and OFFLINE host the session; registration requires approval.
+Join us at Breakpoint London 2026 for our inaugural Women of Solana Yoga class, bringing together female founders + builders on Solana, hosted by Solana Foundation (https://solana.org/) x Proxima (https://proxima.tools/) x OFFLINE (https://x.com/getofflinexyz?utm_source=luma).
+
+Led by OFFLINE's Lena Grundhoefer (https://x.com/lenagrundhoefer), this all-levels yoga class is your chance to trade pitch decks for presence and performance for practice. Designed to ground ambitious minds and calm overclocked systems, it's the perfect pre-conference ritual.
+
+What's the yoga class format? We'll start with yang, an active, energizing flow that builds heat and strength, then ease into yin, where you hold slow, supported poses to release tension and deeply relax. No experience needed. We'll have a 30-min networking session after!
+
+Come in all black fitness apparel and bring water.
+
+Arrive early to guarantee entry.
+
+Stay after for a networking session + goodies to take home.
+
+Thank You to Our Partners
+
+Solana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem.
+
+Proxima (https://proxima.tools/)is a premium all-in-one infrastructure layer for token management.
+
+OFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto.
+
+Socure (https://www.socure.com/?utm_source=luma) is the leading identity verification platform, trusted by 3,000+ companies across 20 industries - including 18 of the top 20 banks and top 5 global crypto exchanges, infrastructure platforms and wallet providers.
+
+Flojo (https://drinkflojo.com/?utm_source=luma) isn't just another energy drink. It's your focus upgrade. Less caffeine, more clarity.
+
+Solana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana.
+
+CUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey.
+
+Want to be a brand partner? DM @lenagrundhoefer on Telegram
+
+Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more
 
 <a id="event-85de9209a66b10d0"></a>
 
@@ -3630,7 +3754,29 @@ Bitcoin Indonesia's Bandung community combines a hike with informal discussion a
 
 ### About the event
 
-Solana Foundation and OFFLINE host a guided session for founders and builders to pause and refocus before the conference. No prior experience is needed. Registration requires approval and space is limited.
+Join us at Solana Fitness Zone at Breakpoint London for a Mental Reset Workshop led by Jessica Dionne (https://x.com/yesjess) for founders + builders, hosted by Solana Foundation (https://solana.org/) x Proxima (https://proxima.tools/) x OFFLINE (https://x.com/getofflinexyz?utm_source=luma).
+
+What's a mental reset? A guided session of simple, practical tools to slow down, clear mental clutter, and refocus ahead of the conference. It's a chance to start your day off right to reset and recharge your mind, and no experience is needed.
+
+Just bring yourself and an open mind. You can RSVP with a paid or free ticket.
+
+A paid ticket guarantees entry. Free tickets will be approved closer to the event, once we have a clear headcount. Please RSVP only if you plan to attend.
+
+Thank You to Our Partners
+
+Solana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem.
+
+Proxima (https://proxima.tools/) is a premium all-in-one infrastructure layer for token management.
+
+OFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto.
+
+Solana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana.
+
+CUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey.
+
+Want to be a brand partner? DM @lenagrundhoefer on Telegram
+
+Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more
 
 <a id="event-7ab59fdcfd989747"></a>
 
@@ -3644,7 +3790,27 @@ Solana Foundation and OFFLINE host a guided session for founders and builders to
 
 ### About the event
 
-The November 16 Pilates session at Breakpoint is a mat-based class for founders and builders, hosted by Solana Foundation and OFFLINE. It uses flowing floor exercises without machines and welcomes all fitness levels. Registration requires approval.
+Join us at Solana Fitness Zone at Breakpoint London 2026 for a dynamic floor Pilates class for founders + builders, hosted by Solana Foundation (https://solana.org/) x OFFLINE (https://x.com/getofflinexyz?utm_source=luma).
+
+What's dynamic Pilates? A faster-paced take on classic Pilates that flows from one core-strengthening move to the next. This class is done on the floor (mat-based, no machines), and it builds strength, flexibility, and balance at any fitness level. Inclusive of all genders :)
+
+Dress in comfortable fitness apparel, bring water, and be ready to move. You can RSVP with a paid or free ticket.
+
+A paid ticket guarantees entry. Free tickets will be approved closer to the event, once we have a clear headcount. Please RSVP only if you plan to attend.
+
+Thank You to Our Partners
+
+Solana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem.
+
+OFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto.
+
+Solana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana.
+
+CUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey.
+
+Want to be a brand partner? DM @lenagrundhoefer on Telegram
+
+Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more
 
 <a id="event-caa44f24e4781b9c"></a>
 
@@ -3658,7 +3824,29 @@ The November 16 Pilates session at Breakpoint is a mat-based class for founders 
 
 ### About the event
 
-Lisa from Loofta leads a boxing-inspired class combining punching sequences, footwork and conditioning drills for founders and builders at Breakpoint. Solana Foundation and OFFLINE host the session. No boxing experience is required; registration is subject to approval.
+Join us at Solana Fitness Zone at Breakpoint London 2026 for a group boxing class by Lisa from Loofta (https://x.com/lisabeyy) for founders + builders, hosted by Solana Foundation (https://solana.org/) x Proxima Tools (https://proxima.tools/) x OFFLINE (https://x.com/getofflinexyz?utm_source=luma).
+
+What's group boxing? A high-energy, boxing-inspired workout that mixes punching combinations, footwork, and conditioning drills. It builds cardio, strength, and coordination, and it's a great way to blow off steam between conference sessions. No experience needed, and it's scalable to any fitness level. Inclusive of all genders :)
+
+Dress in comfortable fitness apparel, bring water, and be ready to work. You can RSVP with a paid or free ticket.
+
+A paid ticket guarantees entry. Free tickets will be approved closer to the event, once we have a clear headcount. Please RSVP only if you plan to attend.
+
+Thank You to Our Partners
+
+Solana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem.
+
+Proxima (https://proxima.tools/) is a premium all-in-one infrastructure layer for token management.
+
+OFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto.
+
+Solana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana.
+
+CUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey.
+
+Want to be a brand partner? DM @lenagrundhoefer on Telegram
+
+Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more
 
 <a id="event-c1936ac8447615d2"></a>
 
@@ -3672,7 +3860,37 @@ Lisa from Loofta leads a boxing-inspired class combining punching sequences, foo
 
 ### About the event
 
-MonkeDAO member Mila leads a gentle yoga flow before the Breakpoint conference day. Solana Foundation and MonkeDAO host the session, which links movement with breathing and welcomes beginners. Registration requires approval.
+Join us at Breakpoint London 2026 for our Rise & Shine Yoga class hosted by fellow MonkeDAO's CamilaCamilaki (https://x.com/camilacamilaki?s=11). This class is hosted by Solana Foundation (https://solana.org/) x MonkeDAO (https://monkedao.io/).
+
+Led by MonkeDAO member Mila, this class is the perfect way to wake up your body before the conference day ahead.
+
+What's a yoga flow? A gentle, moving practice that glides from one pose to the next, syncing each movement with your breath. It builds strength and flexibility while calming the mind, and no experience is needed.
+
+Come in all black and bring water.
+
+Arrive early to guarantee entry.
+
+Stay after for a networking session + goodies to take home.
+
+Thank You to Our Partners
+
+Solana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem.
+
+MonkeDAO (https://x.com/monkedao?utm_source=luma) is the Premier Web3 Country Club and the first community-owned and operated NFT DAO on Solana.
+
+OFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto.
+
+Flojo (https://drinkflojo.com/?utm_source=luma) isn't just another energy drink. It's your focus upgrade. Less caffeine, more clarity.
+
+Solana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana.
+
+CUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey.
+
+Camila (https://x.com/camilacamilaki?s=11) offers dynamic, breath-led yoga with an adaptable and mindful approach, creating space to move, reset, and reconnect with the body beyond the screen.
+
+Want to be a brand partner? DM @lenagrundhoefer on Telegram
+
+Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more
 
 <a id="event-5fee6eb21eaf9872"></a>
 
@@ -3714,7 +3932,29 @@ Solana Foundation and OFFLINE host a 45-minute interval-training class for found
 
 ### About the event
 
-Solana Foundation and OFFLINE host guided breathing exercises paired with a sound bath for founders and builders at Breakpoint. No prior experience is needed. Registration requires approval and attendees are asked to arrive early.
+Join us at Solana Fitness Zone at Breakpoint London 2026 for a Sound Healing & Breathwork session for founders + builders, hosted by Solana Foundation (https://solana.org/) x Ottersec (https://osec.io/) x OFFLINE (https://x.com/getofflinexyz?utm_source=luma).
+
+What's sound healing & breathwork? Guided breathing exercises paired with a sound bath, where you lie back and let soothing sounds wash over you. Together, they help you slow down, release tension, and clear your mind, so you can recharge ahead of the conference. No experience needed.
+
+Just bring yourself and an open mind.You can RSVP with a paid or free ticket.
+
+A paid ticket guarantees entry. Free tickets will be approved closer to the event, once we have a clear headcount. Please RSVP only if you plan to attend.
+
+Thank You to Our Partners
+
+Solana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem.
+
+Ottersec (https://osec.io/) works with leading teams across multiple blockchains to provide a holistic and collaborative approach to security.
+
+OFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto.
+
+Solana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana.
+
+CUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey.
+
+Want to be a brand partner? DM @lenagrundhoefer on Telegram
+
+Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more
 
 <a id="event-24d849a8e5ffa6c6"></a>
 
@@ -13760,6 +14000,8 @@ CL. 19 Bis # 1 - 7, Bogotá
 
 ### About the event
 
+[2 mins walk from DAS venue]
+
 Convergence is a curated evening soirée during Das London 2026, hosted by OpenZeppelin for the leaders bringing traditional finance onchain.
 
 Finance is moving onchain. Tokenized funds, stablecoins, digital custody, and onchain settlement are becoming part of institutional infrastructure, and the people building that shift rarely get a room of their own at a conference of 10,000.
@@ -13775,6 +14017,10 @@ Space is limited to keep the evening intimate and conversation-friendly. Registr
 ### About the host
 
 OpenZeppelin (https://www.openzeppelin.com/) is the security standard for onchain finance. Since 2015, its industry-standard smart contracts library has powered $37 trillion in value transferred, alongside 900+ security engagements for leading institutions, blockchain networks, and protocols including DTCC, Fidelity Digital Assets, WisdomTree, Aave, the Canton Foundation and the Ethereum Foundation. Learn more at openzeppelin.com (https://openzeppelin.com).
+
+### About the co-host
+
+Mira is the ecosystem intelligence company for digital finance. We combine proprietary data, market insights, and a network of 100k+ digital asset professionals to help companies build visibility, reach the right people, and turn market opportunities into growth. Learn more at miragather.com (https://miragather.com/).
 
 Event Photography
 
@@ -14333,7 +14579,7 @@ Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Te
 
 ### About the event
 
-Hosted by Draper Dragon (https://x.com/DraperDragon) - Presented by Catchem (https://x.com/catchem_app), Spout Finance (https://x.com/SpoutFi), Adevar Labs (https://x.com/AdevarLabs) and Superteam NL (https://x.com/SuperteamNL)
+Hosted by Draper Dragon (https://x.com/DraperDragon) - Presented by Catchem (https://x.com/catchem_app), Spout Finance (https://x.com/SpoutFi), Adevar Labs (https://x.com/AdevarLabs), Mentioned Market (https://x.com/MentionedMarket), Nomadz (https://x.com/NOMADZxyz) and Superteam NL (https://x.com/SuperteamNL)
 
 Day 1 of Breakpoint is done, so come for a drink!
 
@@ -14358,6 +14604,10 @@ Spout Finance (https://x.com/SpoutFi): enabling anyone to borrow against their e
 Adevar Labs (https://x.com/AdevarLabs): Solana and EVM security across code, infrastructure, and operations. Ship Safely.
 
 Superteam NL (https://x.com/SuperteamNL): the Netherlands chapter of Superteam, a community for Solana builders.
+
+Nomadz (https://x.com/NOMADZxyz): Travel aggregator with flights and 1M+ stays at up to 50% lower rates.
+
+Mentioned Market (https://x.com/MentionedMarket): Trade on what gets said
 
 Space is limited, so please register and we'll confirm your spot.
 
@@ -15057,26 +15307,6 @@ Datas do programa: 28 de setembro a 10 de outubro de 2026
 
 Local: Solana House, São Paulo
 
-<a id="event-2d38c87c66e938fb"></a>
-
-## Token 2049 x GP Singapore
-
-- Record: `luma-batch-evtXmYZu9qMoaw8Y`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-06T12:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/uw828q63>
-
-### About the event
-
-Token 2049 week gets the Aria One treatment in Singapore, and it starts here. Join Suomi Park Fujiwara on October 6 for a stylish kickoff evening at Marina Bay Sands, bringing together great energy, sharp conversations, and the kind of room where interesting introductions happen naturally. Expect a polished but easygoing atmosphere, perfect for settling into the week and seeing familiar faces before the city fully shifts into Token 2049 mode.
-
-This gathering is part of Aria One's Singapore 2026 series, with more to come across the week:
-
-Speakers dinner - Raffles Hotel, October 6 VIP room (SOLD OUT) experience with Heavensake - October 7 to 8 After2049 night - Ce La Vi, October 9
-
-If you are planning your week around the best rooms, best people, and best after-hours plans, this is where it begins.
-
 <a id="event-c63bd2dc46a5d1a8"></a>
 
 ## El Taller - Hackathon de Colosseum
@@ -15116,94 +15346,6 @@ Madrid
 9 - 13 Oct
 
 Somos La Familia
-
-<a id="event-b26768a35cbbc788"></a>
-
-## Emerging Technology Olympiads (ETO) 2026 — Eastern Conference
-
-- Record: `luma-batch-evtqENOlRruCijmf`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-10T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ixuz80ix>
-
-### About the event
-
-Emerging Technologies Olympiad (ETO) Eastern Conference 2026
-
-Two days. Three technology domains. One room full of people building what comes next.
-
-Most conferences talk about the future. ETO Eastern brings together the people building it.
-
-The Emerging Technologies Olympiad (ETO) Eastern Conference 2026 is a two-day conference, project showcase, and gathering in Hong Kong. It brings together students, researchers, educators and industry leaders to explore how emerging technologies can move from ideas into real-world applications.
-
-Organised by Königsberger Bridges Institute Hong Kong, ETO Eastern creates a space to explore the technologies changing how we build, work, learn, communicate, and solve real-world problems.
-
-The programme brings together three connected domains:
-
-Blockchain & Trust Technologies
-
-Data Science & Artificial Intelligence
-
-Quantum Computing & Information Theory
-
-Across two days, ETO Eastern will combine student project presentations with expert conversations, workshops, live demonstrations, networking, and industry engagement.
-
-### What to Expect
-
-Across two days, you would witness and be part of:
-
-Explore student-built projects and live demonstrations across applications of AI, blockchain, trust technologies, and quantum computing, how their work can solve real-world problem
-
-Watch teams present their work to expert judges, answer questions, and compete for recognition
-
-Hear from how the future builders are shaping how emerging tech can be applied in the real world.
-
-Take part in guided conversations around the questions shaping the future of technology and education.
-
-Meet academic, government and industry leaders of the field.
-
-### Who Should Attend?
-
-ETO Eastern welcomes anyone interested in the future of emerging technology.
-
-Students and project teams developing ideas, research, prototypes, or technical solutions
-
-Technology professionals and founders working in AI, blockchain, data, quantum computing, cybersecurity, product, innovation, or related fields
-
-Researchers, academics, and educators interested in applied learning, talent development, research visibility, and emerging-technology education
-
-Companies, startups, universities, and organisations looking to connect with student talent, contribute expertise, showcase opportunities, or join the wider ecosystem
-
-Judges, mentors, speakers, and workshop facilitators who would like to support and inspire the next generation of builders
-
-Parents, families, friends, and supporters attending to encourage student participants
-
-Curious observers and members of the public who want to explore what students and experts are building across frontier technologies
-
-Be Part of ETO Eastern
-
-Whether you are building a project, sharing expertise, representing an organisation, supporting a team, or simply curious about where emerging technology is heading, there is a place for you at ETO Eastern 2026.
-
-Places are limited. Register early to secure your place and help us prepare the right experience for you.
-
-Questions? Contact the ETO Eastern team at olympiads@kb.institute.
-
-For further event information, visit the ETO Eastern 2026 event page.
-
-What Happens After Registration?
-
-Once registered, approved participants will receive event-specific information closer to the conference.
-
-### About Organizer
-
-Königsberger Bridges Institute Hong Kong
-
-Inspired by the Seven Bridges of Königsberg, where applied STEM skills proved a problem unsolvable, Königsberger Bridges Institute (KBI) is dedicated to upskilling youths through STEM experiences to prepare humanity for unknown unknowns. KBI organizes emerging technologies olympiads globally in various countries, inviting next generations to apply first principles problem solving with design thinking for real-world challenges.
-
-Königsberger Bridges Institute Hong Kong is the Hong Kong chapter of KBI. We bring KBI's global mission into the local ecosystem by creating programmes, partnerships, and events that connect students with educators, researchers, companies, founders, and emerging-technology communities across Hong Kong and beyond.
-
-Through ETO Eastern, KBI Hong Kong is building a platform where students can showcase what they have built, learn from experts, meet collaborators, and take part in conversations about the future of technology.
 
 <a id="event-d29dbbbc55329b3c"></a>
 
@@ -19700,7 +19842,11 @@ Confirmed RSVP required to attend.
 
 ### About the event
 
-$1/2 Hold'em with friends of LO:TECH
+$1/2 Texas Hold'em with friends of LO:TECH
+
+Buy in: 150-250, can match largest stack 1h into the game.
+
+USDC only
 
 <a id="event-e9844bae358e326b"></a>
 
@@ -19838,7 +19984,34 @@ When you register, tick the box to receive Onchain Alpha, our monthly take on De
 
 ### About the event
 
-In London for Breakpoint 2026? Make the most of your time here by recording your next podcast, interviews or video content at West Digital Studios. Whether you're looking to capture conversations with fellow attendees, interview founders and industry guests, or record content for your existing podcast, we have professional recording facilities just a short journey from Olympia (1 mile walk or 2 minutes on the overground to Shepherds Bush)....
+In London for Breakpoint 2026? Make the most of your time here by recording your next podcast, interviews or video content at West Digital Studios.
+
+Whether you're looking to capture conversations with fellow attendees, interview founders and industry guests, or record content for your existing podcast, we have professional recording facilities just a short journey from Olympia (1 mile walk or 2 minutes on the overground to Shepherds Bush).
+
+Breakpoint Recording Offer - £250
+
+Choose from either:
+
+- 2 hours in our Podcast Studio, or
+- 1 hour in Studio One, our premium recording studio, featuring a fully brandable 6m² video wall - ideal for branded interviews, podcasts and video content.
+
+Both options include:
+
+- Dedicated audio and video engineer to manage your recording.
+- Studio space hire.
+- Professional camera, lighting and audio equipment.
+
+Everything is set up and ready for you, so you can focus on the conversation while we take care of the technical side.
+
+Need a longer session? Just let us know and we can put together a suitable package.
+
+Prefer to record elsewhere? We can also offer remote recording or on-location production at Breakpoint and surrounding events. These options are available at bespoke rates, so get in touch to discuss what you need.
+
+Need editing? We offer a range of editing packages, including full edits and social edit packages.
+
+Available 11-18 November 2026.
+
+Get in touch to enquire about availability or book your recording session. We look forward to welcoming you to West Digital Studios!
 
 <a id="event-b6e9fe497003de6f"></a>
 
@@ -19884,7 +20057,63 @@ Hosted by Accretion
 
 ### About the event
 
-Forma Residency: The Final Ship & Show This is not a demo day. For the past five weeks, 16 founders have lived and built together in Bristol. Every Friday, they've stood up in front of each other and shared two things: What they shipped. What they learned. This is their final Ship & Show. This time, we're opening it to the public....
+Forma Residency: The Final Ship & Show
+
+This is not a demo day.
+
+For the past five weeks, 16 founders have lived and built together in Bristol. Every Friday, they've stood up in front of each other and shared two things:
+
+What they shipped. What they learned.
+
+This is their final Ship & Show. This time, we're opening it to the public.
+
+Come see what five weeks of full-time building produced, meet the founders behind it, and hang around for the afterparty.
+
+Location: One of the most iconic clubs in London (hint: it's in Farringdon)
+
+### Agenda
+
+3:45-4:30pm: Welcome and networking
+
+4:30-6pm: The final Ship & Show
+
+6-8pm: Afterparty
+
+The founders
+
+Prajit Sengupta - Sapiaverse - Building a population simulation engine that lets you predict the future.
+
+Matt Stewart - Novi - Building a platform that helps schools keep students off their phones and locked in on learning.
+
+Yuxin Zhu - Wattness - Building an energy stockbroker for battery owners in Texas.
+
+Shreevardhan Shah - SuperSchool - Building software and hardware to create AI-native classrooms at schools.
+
+Sri Kodali - Sovereign Intelligence - Building a tradecraft engine for intelligence operators.
+
+Vaishnavi Mal - AskMaya AI - Building an AI voice assistant that helps elderly parents use their phones.
+
+Tair Asim - Kenno - Building a workspace where product teams and their agents can plan, build and collaborate together.
+
+Mohannad Najjar - SIDRA - Building autonomous drones that can patrol high-risk land and detect wildfires.
+
+Natalia Stefanowski - AI Health Research - Building the world's largest database of non-Western medicine.
+
+Justin Kim - HeyPCB - Building an AI PCB designer that lets you vibecode hardware.
+
+Kehinde Mccomb - Pitch'em - Building an outbound pitching engine to turn more creators into millionaires.
+
+Kenton Cooley - SP3ND - Building a digital shop where people and agents can buy anything on the internet with crypto.
+
+Saurav Tiwari - Aircraft Concept Studio - Building the fastest modelling, testing and simulation studio for UAVs.
+
+Nisan Kotik - Autonomous Soaring Technology - Building animal instinct for drones.
+
+Djason Gadiou - Finagotchi - Building a Tamagotchi that helps people develop good financial habits.
+
+Apply to attend
+
+Spots are limited to 80 people.
 
 <a id="event-3affd5bbc8f43210"></a>
 
@@ -20360,7 +20589,37 @@ By signing up to this event, you agree that Solana, The SRI, & SuperteamUK can c
 
 ### About the event
 
-Athlete Financing: An Emerging Private Asset Class on Solana An afternoon of tennis and drinks for investors in London for Solana Breakpoint. Limited spots, by approval only. Already confirmed: 16 family offices and investors representing over $15B in AUM. Event Details When: Friday, 13th November | 3:30pm to 6:00pm Where: Indoor courts in West London, 15 min from Olympia (address shared with approved guests) Who: Family offices, angels and investors in town for Breakpoint | All abilities w...
+Athlete Financing: An Emerging Private Asset Class on Solana
+
+An afternoon of tennis and drinks for investors in London for Solana Breakpoint. Limited spots, by approval only.
+
+Already confirmed: 16 family offices and investors representing over $15B in AUM.
+
+### Event Details
+
+When: Friday, 13th November | 3:30pm to 6:00pm
+
+Where: Indoor courts in West London, 15 min from Olympia (address shared with approved guests)
+
+Who: Family offices, angels and investors in town for Breakpoint | All abilities welcome
+
+What: 3 courts, 2 ATP coaches, a small group of investors
+
+Plus: Drinks and food at a pub nearby after play
+
+Three Courts
+
+Social Court: Ball feeding drills, games & coaching tips
+
+Intermediate Court: Live ball drills and point play
+
+Advanced Court: High level play for advanced players
+
+On top: an immersion into athlete financing on Solana
+
+Hosted by FANtium, the Solana platform that turns athlete financing into an investable asset class.
+
+Dress code: tennis whites.
 
 <a id="event-e103e6c2ba269395"></a>
 
@@ -20456,7 +20715,11 @@ Grab a drink, meet others exploring privacy on Solana, and learn what privacy ca
 
 ### About the event
 
-Friday, November 13th between DAS and Solana Breakpoint, Meow is hosting private drinks and light bites in London from 7 to 9pm. Meow is the banking platform crypto teams run on. FDIC coverage up to $200M through our partner banks, crypto rails, SWIFT and multi-currency, and every entity under one login....
+Friday, November 13th between DAS and Solana Breakpoint, Meow is hosting private drinks and light bites in London from 7 to 9pm.
+
+Meow is the banking platform crypto teams run on. FDIC coverage up to $200M through our partner banks, crypto rails, SWIFT and multi-currency, and every entity under one login. Solana Foundation, Canton Foundation, Phantom and Hedera all bank through our partners. More at meow.com/crypto (https://www.meow.com/crypto)
+
+Every request is reviewed. The venue and full details go out once your spot is confirmed.
 
 <a id="event-b8d9c6f2b9cb9f82"></a>
 
@@ -20549,12 +20812,46 @@ Before we get down to business at Breakpoint, let's get a round in. Join Collect
 
 ### About the event
 
-Frontier Traders brings its live trading Grand Final to London for Breakpoint week. The event crowns a Season One champion followed by networking for traders, protocol teams and asset allocators, presented with Phantom.
+This room doesn't exist on any timeline.
+
+Frontier Traders is coming to London for Breakpoint week with the Grand Final: a live trading showdown where one World Champion is crowned, and curated networking for influential traders, market builders, and asset allocators.
+
+Presented with Phantom.
 
 ### Agenda
 
-- 20:00 - 21:00: Arrival and Happy Hour
-- 21:00 - 22:30: The Grand Final: Sailor (Belgrade), Saewoo (Seoul) and Galileo Wilson (Singapore) face 2 Season One online winners and 3 wildcards.
+20:00-21:00: Arrival and Happy Hour
+
+21:00-22:30: The Grand Final: Sailor (Belgrade), Saewoo (Seoul) and Galileo Wilson (Singapore) face 2 Season One online winners and 3 wildcards. 8 traders enter and only one stands after 3 rounds of live trading.
+
+22:30-01:00: DJ & Networking
+
+Who gets accepted:
+
+→ Traders who do real size on spot, perps, structured
+
+→ Props and funds with digital asset exposure
+
+→ Top allocators and capital deployers
+
+FrontierTraders.com (https://FrontierTraders.com)
+
+Brought to you by Frontier Traders community collaborators:
+
+- Phantom
+ - Phantom is on a mission to connect the world to the freedom of open markets. More than 20 million people use Phantom to move, manage, and own their money online, trading tokens, perpetual futures, and prediction markets that never close. With its money suite and CASH stablecoin, Phantom turns crypto rails into everyday money that always stays under your control. Learn more at phantom.com (https://phantom.com)
+- Solana Foundation
+ - Solana Foundation is a non-profit organization dedicated to the adoption, decentralization, and security of the Solana network. The Foundation supports developers, founders, and communities building on Solana, helping grow an open, scalable, and globally accessible ecosystem. Learn more at solana.org (https://solana.org)
+- Jito JTX
+ - JTX is a self-custodial trading platform built by Jito, the team behind Solana's execution infrastructure. JTX delivers best-execution trading across tokenized equities and crypto, 24/7 from anywhere, with self-custody by default. Learn more at: www.jtx.com (https://www.jtx.com)
+- Phoenix Trade
+ - Phoenix is a fully on-chain perpetuals exchange built on Solana by Ellipsis Labs. Every order, fill, and liquidation settles directly on the Solana blockchain, making execution publicly verifiable rather than dependent on off-chain matching or oracle pricing. Trades settle in under a second, trading is gasless for users, and is built non-custodial by design. Ellipsis Labs has operated on-chain markets since 2023, processing over $75 billion in spot volume. Phoenix is available at phoenix.trade (https://phoenix.trade). Not available in the U.S. or sanctioned jurisdictions.
+- Titan Exchange
+ - Titan is the pros' gateway to Internet Capital Markets. We built Solana's first meta-aggregator and routers that power billions in on-chain trading volume. Learn more at https://x.com/Titan_Exchange
+- Sunrise
+ - Sunrise is Solana's asset gateway. New tokens, stocks, and assets are listed on Solana with day-one liquidity, live across wallets, DEXs, and DeFi the moment they launch. Learn more at sunrise.xyz (https://sunrise.xyz)
+
+Interested in Sponsoring this event? Please reach out to events@solana.org
 
 <a id="event-3b1b87eec7442586"></a>
 
@@ -20684,7 +20981,31 @@ December
 
 ### About the event
 
-Not Your Keys, Not Your Cheese: Wallet and Security for Solana at Breakpoint Unlimited pizza and drinks for all, inside the Breakpoint venue. Stay in the main Olympia building... and spend the afternoon with leaders in wallets, security and monitoring. No guest list, just turn up. Juno takes up to 450 standing, so drop in any time between 12:00 and 17:00 on Breakpoint's opening day....
+Not Your Keys, Not Your Cheese: Wallet and Security for Solana at Breakpoint
+
+Unlimited pizza and drinks for all, inside the Breakpoint venue.
+
+Stay in the main Olympia building... and spend the afternoon with leaders in wallets, security and monitoring.
+
+No guest list, just turn up. Juno takes up to 450 standing, so drop in any time between 12:00 and 17:00 on Breakpoint's opening day.
+
+Hosted by
+
+Blockaid: Blockaid is the onchain security platform for monitoring, detecting and responding to onchain and offchain threats.
+
+Ledger: Ledger's main activity is the security of digital assets. It designs and markets hardware and software for managing and securing crypto assets.
+
+Utila: Utila helps organisations of all sizes securely manage and build on stablecoins and digital assets. It is an institutional MPC wallet provider for stablecoin payments, custody, treasury, trading and tokenisation.
+
+OtterSec: OtterSec works with leading teams across multiple blockchains to provide a holistic and collaborative approach to security. It has secured more than $36B in onchain value and audited more than 120 projects.
+
+Olympix: Olympix is an pre-audit smart contract testing platform that secures more than $155B in assets across customers such as Circle, Aave, Securitize, and Ethena. It allows teams to surface audit level findings and what audits and AI miss during development.
+
+The venue
+
+Juno, Olympia: Juno is the UK's biggest Italian restaurant, run by Incipio Group in the Grade II listed National Hall at Olympia.
+
+Grab a slice, find a seat out of the rain, and meet the people keeping Solana's wallets and users safe. See you there.
 
 <a id="event-669f0e71049567b8"></a>
 
@@ -20696,9 +21017,23 @@ Not Your Keys, Not Your Cheese: Wallet and Security for Solana at Breakpoint Unl
 - Description: Source-backed
 - Original page: <https://luma.com/altitude-coffee-BP26>
 
-### About the event
+### Enjoy specialty coffee with the Altitude team at the stunning New Forms listening bar in Chelsea
 
-Enjoy specialty coffee with the Altitude team After running some incredible coffee pop-ups in Lisbon, Belgrade, and Singapore this year, we're so excited to bring this event concept to Breakpoint. As always, our events value top-tier coffee, a casual yet lively atmosphere, and great people to meet and talk to....
+After running some incredible coffee pop-ups in Lisbon, Belgrade, and Singapore this year, we're so excited to bring this event concept to Breakpoint.
+
+As always, our events value top-tier coffee, an incredible space, and great people to meet and talk to.
+
+Pop by for a coffee and a pastry with the Altitude team, and catch up with us! All are welcome.
+
+### About Altitude
+
+For onchain teams who are used to working around banking that was never built for them, Altitude is the business account built for the way your business operates. Treasury, payments, payouts, cards, and books in one self-custodial account, available to businesses in 150+ countries.
+
+Take your business higher with Altitude → altitude.xyz (https://altitude.xyz/?utm_source=luma).
+
+Our past coffee pop-ups
+
+Subscribe to the calendar (https://luma.com/altitude-events) to stay up to date.
 
 <a id="event-a45568f5ebdb79be"></a>
 
@@ -20732,7 +21067,19 @@ Please flag +1s to @Damian0x on TG so he can do his sad little accounting.
 
 ### About the event
 
-Touch down in London and join Moonsong Labs just across the street from Olympia for drinks, pub fare, and great conversation. Meet the leaders at the heart of blockchain payments, stablecoin issuance, tokenization, and digital asset infrastructure. Stop by, grab a bite, and catch up with peers before Breakpoint kicks off at 16:00....
+Touch down in London and join Moonsong Labs just across the street from Olympia for drinks, pub fare, and great conversation.
+
+Meet the leaders at the heart of blockchain payments, stablecoin issuance, tokenization, and digital asset infrastructure.
+
+Stop by, grab a bite, and catch up with peers before Breakpoint kicks off at 16:00.
+
+No presentations or formal agenda. Just good food, drinks, and an opportunity to connect.
+
+Space is limited. RSVP approval required.
+
+### About Moonsong Labs
+
+Moonsong Labs engineers the infrastructure powering the next generation of payments on Solana. From Solana's native Subscriptions & Allowances program to institutional payment rails, we design and build the onchain systems that move money at scale. More at MoonsongLabs.com (https://moonsonglabs.com/).
 
 <a id="event-495f693fc2725807"></a>
 
@@ -20746,7 +21093,31 @@ Touch down in London and join Moonsong Labs just across the street from Olympia 
 
 ### About the event
 
-Join Super Phoenix Sports for the Galactic Racer Championship Final, live at the Stonemasons Arms in Hammersmith. Three teams, one final, called live with full commentary. Come watch with the SPS community, and fellow space and sci-fi gamers. Schedule 5:00 PM: Doors open 6:00 PM: Tournament begins 10:00 PM: Bar closes At the pub Sourdough pizza (kitchen open 5-9 PM), craft beer and cocktails at one of Hammersmith's favourite community locals....
+Join Super Phoenix Sports for the Galactic Racer Championship Final, live at the Stonemasons Arms in Hammersmith.
+
+Three teams, one final, called live with full commentary. Come watch with the SPS community, and fellow space and sci-fi gamers.
+
+### Schedule
+
+5:00 PM: Doors open
+
+6:00 PM: Tournament begins
+
+10:00 PM: Bar closes
+
+At the pub
+
+Sourdough pizza (kitchen open 5-9 PM), one of Hammersmith's favourite community locals.
+
+Getting there
+
+A short walk from Hammersmith tube station.
+
+Follow us on X @superphoenixsps
+
+Can't make it in person? Watch live on Twitch, YouTube and X, and join the community at discord.gg/superphoenix (https://discord.gg/superphoenix).
+
+superphoenixsports.com (https://superphoenixsports.com) - @SuperPhoenixSPS
 
 <a id="event-5dfbfa2a07308fea"></a>
 
@@ -20760,7 +21131,36 @@ Join Super Phoenix Sports for the Galactic Racer Championship Final, live at the
 
 ### About the event
 
-What's more British than fish and chips? The queue, maybe. Moaning about the weather, definitely. But fish and chips still wins. Before Breakpoint kicks off, Jupiter is hosting a proper British afternoon for the people who make this ecosystem what it is. That's you. No keynotes. No panels. No slides....
+What's more British than fish and chips?
+
+The queue, maybe. Moaning about the weather, definitely. But fish and chips still wins.
+
+Before Breakpoint kicks off, Jupiter is hosting a proper British afternoon for the people who make this ecosystem what it is. That's you.
+
+No keynotes. No panels. No slides. Just fish, chips, drinks, and finally meeting the friends you've only ever known as a profile picture.
+
+Why "Ships"?
+
+Because Jupiter ships. And this is the last calm harbour before Breakpoint week gets loud.
+
+### What to expect
+
+- Fish and chips, done properly (vegan option too, we're not monsters)
+- Drinks: a cuppa if you must, a pint if you'd rather
+- The Jupiter team in person, ready to chat, catch up and hear your feedback
+- More ships than fish
+
+The merch (read this bit)
+
+We've made exclusive merch just for this afternoon. You won't find it at the BP or at any other event. It will never be made again.
+
+ - There's very little of it. It's first come, first served, and once it's gone, it's gone. Like the last chip in the paper.So don't be fashionably late.
+
+This one is community only
+
+Spots are limited and we review every registration by hand. Tell us a bit about yourself so we know you're one of ours.
+
+Dress code: Whatever you'd wear to your local chippy. Bring an umbrella. It's Britain.
 
 <a id="event-a628ba87a494924f"></a>
 
@@ -20774,7 +21174,30 @@ What's more British than fish and chips? The queue, maybe. Moaning about the wea
 
 ### About the event
 
-Join us for the Finance Leaders Club VIP Dinner, an intimate evening hosted by Kryptos in London on 15 November, during Solana Breakpoint week, bringing together a select circle of Web3 founders, investors and finance leaders. No stage, no panels, no pitches. One table, a seated dinner, and candid conversation among peers about the parts of digital asset finance that rarely get airtime....
+Join us for the Finance Leaders Club VIP Dinner, an intimate evening hosted by Kryptos in London on 15 November, during Solana Breakpoint week, bringing together a select circle of Web3 founders, investors and finance leaders.
+
+No stage, no panels, no pitches. One table, a seated dinner, and candid conversation among peers about the parts of digital asset finance that rarely get airtime.
+
+### What to expect
+
+- A seated dinner and open conversation, away from the conference floor
+- Candid table talk on treasury visibility, reconciliation, audit readiness, and what CARF and DAC8 reporting will ask of your finance team
+- Time with founders, investors and finance decision-makers during Breakpoint week
+- A guest list kept deliberately small: quality over quantity
+
+Places are limited and each registration is reviewed by our team.
+
+If you are a Web3 founder, investor or finance leader in town for Solana Breakpoint, this is the table to be at.
+
+Hosted by
+
+Kryptos is the back office solution for businesses dealing with digital assets. Finance teams use Kryptos to see every wallet, exchange and entity in one place, reconcile onchain and offchain activity, close the books with clean audit evidence, and meet CARF and DAC8 reporting obligations. Learn more at kryptos.io (https://kryptos.io).
+
+Community Partner: QuillAudits
+
+About QuillAudits: 8+ years securing Web3. 1,500+ audits, 1M+ lines reviewed. 20+ RWA and tokenization protocols audited
+
+Full lifecycle security: AI and human audits, formal verification, OpSec, multisig review and monitoring.
 
 <a id="event-7d53442b6f4b348f"></a>
 
@@ -20788,7 +21211,15 @@ Join us for the Finance Leaders Club VIP Dinner, an intimate evening hosted by K
 
 ### About the event
 
-An evening hosted by MoonPay Behind a discreet door in Mayfair lies a members only club most people never see. For one evening, MoonPay and Solana are taking it over to kick off Solana Breakpoint. Expect drinks, music and late night conversation with a hand picked guest list from across crypto, finance, technology and culture....
+An evening hosted by MoonPay
+
+Behind a discreet door in Mayfair lies a members only club most people never see. For one evening, MoonPay and Solana are taking it over to kick off Solana Breakpoint.
+
+Expect drinks, music and late night conversation with a hand picked guest list from across crypto, finance, technology and culture.
+
+By invitation only. The address will be shared with confirmed guests.
+
+Space is extremely limited, and while we'll do our best to welcome everyone, a ticket does not guarantee entry. Please arrive early.
 
 <a id="event-40b882e01874f122"></a>
 
@@ -20802,7 +21233,32 @@ An evening hosted by MoonPay Behind a discreet door in Mayfair lies a members on
 
 ### About the event
 
-One night in a London casino, cards on the table. This Breakpoint, we're mixing Solana founders, builders and investors at the table. Just poker, drinks and time to get to know each other. THE NIGHT - Cash games: Play at tables run by the casino's dealers. If you buy in, you're playing with your own money....
+One night in a London casino, cards on the table.
+
+This Breakpoint, we're mixing Solana founders, builders and investors at the table. Just poker, drinks and time to get to know each other.
+
+THE NIGHT
+
+- Cash games: Play at tables run by the casino's dealers. If you buy in, you're playing with your own money (details below). Please play responsibly.
+- Beat Stan: Play Showdown heads-up against its creator, Stanislav Cifka.
+
+GETTING IN
+
+Registration is subject to approval. 18+ only, valid photo ID required at the door.
+
+Interested in co-hosting? DM us on X at @Showdown_TCG (https://x.com/Showdown_TCG).
+
+On Monday, swing by the Showdown booth at Breakpoint to meet the team and play a hand with us. Want a little practice first? Play Showdown (https://play.showdown.game/?utm_source=luma).
+
+Showdown is poker, now with action cards. Live on Solana.
+
+Space is limited, and while we'll do our best to welcome everyone, a ticket does not guarantee entry. Please arrive early.
+
+STAKES & BUY-INS
+
+- £1/£2 No Limit Hold'em: £80 minimum buy-in, £400 maximum buy-in
+- £2/£5 No Limit Hold'em: £200 minimum buy-in, £1,000 maximum buy-in
+- £5/£10 No Limit Hold'em: £400 minimum buy-in, £2,000 maximum buy-in
 
 <a id="event-e974804961722182"></a>
 
@@ -20858,7 +21314,35 @@ Tìm hiểu thêm: https://quantova.org
 
 ### About the event
 
-We're three🇨🇭 Swiss companies who came to London for Breakpoint and, out of habit, arrived early. So we're putting the coffee on. Join us for a relaxed morning of conversation about auditing, accounting and accuracy in Web3. Built for founders, finance leads, security teams and anyone who reads the footnotes....
+We're three🇨🇭 Swiss companies who came to London for Breakpoint and, out of habit, arrived early. So we're putting the coffee on.
+
+Join us for a relaxed morning of conversation about auditing, accounting and accuracy in Web3. Built for founders, finance leads, security teams and anyone who reads the footnotes.
+
+### What to Expect
+
+- No stage, no slides, no sales pitches. Just good coffee, breakfast pastries, and candid conversations about what actually breaks when scaling on-chain.
+- Open floor: Bring your messy spreadsheets, unresolved security debates, and real questions.
+- Swiss punctuality: Doors open at 09:00 sharp. Come early for quiet conversations before the main conference noise kicks off.
+
+### Details
+
+- When: Monday, Nov 16th 09:00 - 11:00
+- Where: tba
+- Access: Space is limited to keep conversations useful. Please RSVP to secure a spot
+
+### About The Hosts
+
+- ACCURACY: onocoy (https://www.onocoy.com)
+
+Centimetre-level positioning data on Solana, from 8,200+ reference stations in 180 countries.
+
+- AUDITING: ChainSecurity (https://www.chainsecurity.com/)
+
+Smart contract auditors since 2017, founded by ETH Zurich researchers.
+
+- ACCOUNTING: in+on (https://inandon.ch/)
+
+Fiat and on-chain bookkeeping, tax and CFO services for Web3 teams. Fluent in both block explorers and tax fillings.
 
 <a id="event-640feb5a05be1b13"></a>
 
@@ -21081,7 +21565,7 @@ Halborn and MERGE invite you to an exclusive executive mixer for leaders driving
 
 ### About the event
 
-Join edgerunners.app networking drinks for Solana focused traders and trading infrastructure builders at one of the world's most exclusive private members' clubs
+Join edgerunners.app (https://edgerunners.app) networking drinks for Solana focused traders and trading infrastructure builders at one of the world's most exclusive private members' clubs
 
 <a id="event-37d5ecae13475c8d"></a>
 
@@ -31269,7 +31753,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Applied Blockchain Sessions 2026 | Soho House: Panel discussions on stablecoins and tokenised deposits at 180 House in London, November 10, 2026.
+During Digital Asset Summit London week, Applied Blockchain is bringing together senior leaders from finance, technology and the digital asset industry at 180 House, Soho House's club on the Strand.
+
+Stablecoins and tokenised deposits are changing how money moves between institutions, and many of the assumptions behind today's financial infrastructure are being turned on their head. Fittingly for the venue, we'll be doing a 180: questioning what's taken for granted and looking at what this means for the firms building and adopting this technology.
+
+Join us for an evening of panel discussions, presentations and conversation over drinks in one of London's most distinctive private members' clubs.
+
+### Speakers
+
+- Kim Verhaaf, MD, Group Payments, LLoyds Banking Group
+- Benoit Marzouk, Chief Executive Officer, Tokenised GBP
+- Gur Goth, Founder & CEO, Portafino
+- Simon Barnby, Chief Marketing Officer, Archax
+- Chris Taylor, Chief Operating Officer, Re7 Capital
+- Yaniv Gidron, Co-Founder, Monee Financial Technologies
+- Chris Ostrowski, Founder & CEO, SODA
+- Daniel Holden, Co-Founder, Keystone
+
+Places are limited and all registrations are subject to approval.
+
+This is a private event with limited capacity, registration is required and subject to approval. By attending, you consent to photography and video recording which may be used for future promotional content. Speakers and further details to be announced.
+
+Hosted by Applied Blockchain: building enterprise-grade systems since 2015.
+
+appliedblockchain.com (https://appliedblockchain.com) - appliededge.com (https://appliededge.com) - silentdata.com (https://silentdata.com)
 
 <a id="event-3e83fa9bbbe15444"></a>
 
@@ -31283,7 +31790,27 @@ Applied Blockchain Sessions 2026 | Soho House: Panel discussions on stablecoins 
 
 ### About the event
 
-Private Investor Dinner - Future of onchain payments @ DAS London: an invite-only London dinner on onchain payments for capital allocators.
+Join us on Nov 10th at 6:00 PM in London for an exclusive investors' dinner bringing together top capital allocators and decision makers shaping the future of payments and digital assets.
+
+A intimate low noise high signal dinner for a small circle of industry leaders during DAS 2026. No presentations, no pitch - an evening of candid conversation on capital, cycles, and why the next era of digital asset investing will belong to payments and protocols building PMF infra. Good food, drinks and laughter is coded.
+
+Every edition of these dinners we bring one theme and this one belongs to future of onchain payments.
+
+Seats are limited and attendance is by invite only.
+
+Date & Time: 10th Nov, 6:00PM - 8:00PM
+
+Venue: To be shared with confirmed guests only
+
+Guests : Invite only, no plus one allowed
+
+### About Aptos
+
+Aptos (https://aptosnetwork.com/) is a layer 1 blockchain and enables instant, borderless, programmable payments. Builders can now treat money like data and create the apps to match.
+
+### About NOTALONE
+
+NOTALONE (https://www.notalone.vc) exists because crypto investment is broken. A generation of funds treated capital as a mode of quick wins which often turned into huge loses for LPs - We believe crypto doesn't have to be a zero-sum game: when investors are running mates of founders, long term value is created rather than extracted.
 
 <a id="event-7968b7288dfaad5a"></a>
 
@@ -31345,7 +31872,25 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Below the Surface: CRYMBO × Orbs: A London reception on onchain finance infrastructure and institutional trading; free, host approval required.
+After Hours with CRYMBO & Orbs
+
+Join CRYMBO and Orbs for an evening of drinks and conversation with the people building the infrastructure behind onchain finance.
+
+We're bringing together institutions, venues and builders for a relaxed reception. Expect good company, no slides, and real conversations about where institutional onchain trading is heading.
+
+Space is limited and attendance is by approval.
+
+### About CRYMBO
+
+CRYMBO is core financial infrastructure for the onchain economy. It lets licensed institutions, from banks and PSPs to exchanges and RWA platforms, launch compliant crypto, stablecoin, and tokenized asset services through a single white-label integration.
+
+crymbo.com (https://crymbo.com) - @CrymboTech (https://x.com/CrymboTech)
+
+### About Orbs
+
+Orbs provides trading infrastructure for onchain finance. Its decentralized Layer 3 network powers dSPOT, dPERPS, and Execution Services for venues, institutions, and agents. Orbs has been building since 2017.
+
+orbs.com (https://orbs.com) - @orbs_network (https://x.com/orbs_network)
 
 <a id="event-b2c8bfb9cf8dced6"></a>
 
@@ -31635,7 +32180,42 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Signal Evening Reception: a free networking evening for founders, operators and investors across AI, digital assets and deeptech.
+Invite only. Co-hosted with Uniwire.
+
+Uniwire and The Signal are bringing you an evening on the last night of DAS London week.
+
+### What to expect
+
+- No panels. No slides. No pitches.
+- A private dining room and terrace in Mayfair.
+- Canapés, drinks and the people that are moving digital assets & AI forward.
+
+Who you'll meet
+
+- Founders building AI infrastructure, wallets, payments, DeFi and RWA
+- Investors at funds, trading firms and market makers
+- C-Level and partnership leads at exchanges and foundations
+- Digital asset teams from traditional finance
+
+### About Uniwire
+
+Founded in 2018, Uniwire is a regulated payment service provider and institutional grade technology platform specialising in digital asset infrastructure. Its secure MPC wallets, crypto payment gateway, multichain connectivity and fiat banking let businesses and financial institutions securely manage, convert and transfer digital assets at scale.
+
+Website (https://uniwire.com/?utm_source=luma) | LinkedIn (https://www.linkedin.com/company/uniwirecom/) | Telegram (https://t.me/uniwire)
+
+Hosted by The Signal Directory
+
+The Signal Directory connects AI and digital asset companies with the partners they need: vetted providers, members-only deals and qualified introductions.
+
+Website (https://thesignal.directory) | X (https://x.com/thesignaldir) | Telegram (https://t.me/signalqnacommunity)
+
+Attendance
+
+Free to attend. All applications are reviewed, so please register with your work email.
+
+Media consent
+
+Photos and videos will be taken during the event and may be used on our website and social media. By attending, you agree to be photographed and filmed. If you'd prefer not to appear, just let our team know on the day.
 
 <a id="event-50bc0959edc896d1"></a>
 
@@ -32427,7 +33007,25 @@ Solana Intelligence Summit
 
 ### About the event
 
-Solana Foundation's AI summit includes morning workshops, afternoon talks and AI-paper discussions, live demos and a closing happy hour. Attendance is invite-only and subject to approval. The event is currently full, with a public waitlist available.
+Join us for an intimate, invite-only Solana AI event at Somerset House in London on November 13th.
+
+Intelligence Summit will feature talks, hands-on workshops, live demos, panels, interactive AI experiences, art, merch, and maybe some hardware.
+
+After our mainstage programming, we will have a happy hour with food and drinks to keep the conversation going.
+
+Programming (more details soon):
+
+- Upstairs Main Stage:
+ - 1 PM - 4 PM - Talks
+- Downstairs Workshop Room:
+ - 10 AM - 12 PM Workshops (30 min each)
+ - 1 PM - 4 PM AI Papers Discussion (1 per hour)
+
+Space is limited. Please apply to attend.
+
+Space is limited. Please apply to attend.
+
+If you'd like to speak at the event, please apply HERE (https://solanafoundation.typeform.com/to/ArF5XgqC).
 
 <a id="event-2b13fc48ff2256ac"></a>
 
@@ -32525,9 +33123,40 @@ An organizer description has not been verified for this record. Any previous cop
 - Description: Source-backed
 - Original page: <https://luma.com/j5glptwa>
 
-### About the event
+### Learn about AI Verification and how you can contribute
 
-AI Verification x Crypto
+A lot has happened in AI over the last few months. In July, OpenAI's AI agents escaped their test sandbox and broke into Hugging Face's systems (https://en.wikipedia.org/wiki/OpenAI%E2%80%93HuggingFace_incident). Just last week, researchers using an OpenAI model found critical flaws in PHP (https://www.axios.com/2026/10/21/php-openai-ai-bug-hunting-cyberattacks), the language behind nearly 70% of websites. AI has become very powerful, and with more compute coming, this will only grow.
+
+About a month ago, leaders in the industry called for pacing the development of frontier AI. If you haven't read up on this, here are a few resources to catch up:
+
+Why now
+
+- We Must Pace the Frontier (https://darioamodei.com/post/we-must-pace-the-frontier), Dario Amodei's essay
+- Why AI's biggest rivals are suddenly calling for restraint (https://www.cfr.org/articles/why-ais-biggest-rivals-are-suddenly-calling-for-restraint), Council on Foreign Relations
+
+What AI verification looks like today
+
+- Progress on provable inference for large language models (https://www.anthropic.com/research/provable-inference), Anthropic. Using zero-knowledge proofs to show which model produced an answer.
+- The world's first double-blind evaluation of a proprietary model (https://www.averi.org/ourwork/averi-pilot-report-the-worlds-first-double-blind-eval), AVERI. Using a secure enclave (TEE) to test a model without either side seeing the other's secrets.
+
+In this meetup we'll talk about one part of AI safety: AI verification. We'll briefly cover what AI verification is, and how people with a background in building and researching zero-knowledge proofs, TEEs, FHE and MPC can help build the tools and mechanisms it needs.
+
+### Agenda
+
+- Short Welcome
+- Talk: Intro to AI Verification
+- Panel on applying your skillsets to work in AI Verification
+- Drinks and networking with people working in the field
+
+### Speakers
+
+- Yannick Mühlhäuser (https://www.linkedin.com/in/yannick-m%C3%BChlh%C3%A4user-719962224/) (co-founder of Verifiable Compute Foundation (https://verifiablecompute.ai/) and Policy Researcher at Oxford AI Governance Initiative)
+- Pascal Berrang (https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/berrang-pascal) (Associate Professor in Computer Science at University of Birmingham)
+- Deniz Bas (https://denizbas.com) (Frontier AI Security Resident @ ERA, & Exploration Engineer @ o1Labs. ex-Pentester @ Etherscan)
+
+Who it's for: engineers and researchers working on ZK, TEEs, MPC, FHE, security or hardware.
+
+Supported by a Rapid Grant from BlueDot Impact.
 
 <a id="event-7a9b3be480332650"></a>
 
@@ -32541,7 +33170,21 @@ AI Verification x Crypto
 
 ### About the event
 
-Pizza at Pimlico's: a casual pre-Breakpoint evening in London with pizza, drinks and informal networking for Solana builders.
+Come take a break with us before Breakpoint kicks off
+
+Casual evening with pizza, drinks and good company at our office in Old Street. Pop in for 30 minutes or the whole night, whatever works.
+
+No talks, no panels, no pitches. Just good pizza and people building cool stuff on Solana (and everywhere else).
+
+Most days we're sponsoring gas (https://pimlico.io) so your users never have to think about it. Tonight we're sponsoring the pizza.
+
+Spots are limited so we're approving RSVPs. If your plans change, please free up your spot for someone on the waitlist
+
+See you there!
+
+Kristof & the Pimlico team
+
+Find us at pimlico.io (https://pimlico.io)
 
 <a id="event-a6247398c7ce177c"></a>
 
@@ -32639,7 +33282,21 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-445 CREW hosts a 5K run for the Solana community, with all paces welcome. Arrival is at 09:15 and the run starts at 09:30, followed by a gathering at Fulham Pier. Registration requires approval.
+Start Breakpoint moving with 445 CREW.
+
+Join us for a 5K community run bringing together builders, creators, founders and friends of Solana.
+
+All paces are welcome and no one gets left behind.
+
+09:15 Arrival
+
+09:30 Run starts
+
+After the run, stick around at Fulham Pier to socialise, connect, meet new people and continue the conversations.
+
+Move. Connect. Build. Together.
+
+www.445crew.com
 
 <a id="event-90254936f7e7127c"></a>
 
@@ -32653,7 +33310,25 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Solana's application-only technical summit covers validator performance, consensus, transaction landing, RPC, Firedancer, post-quantum readiness and agentic infrastructure. A DevCave runs throughout the day for debugging and technical collaboration. The exact venue is shared with approved attendees.
+Scale or Die | London | November 14
+
+Back by popular demand, we're bringing Solana's developer-focused Scale or Die event to London on November 14th, leading into Breakpoint.
+
+Scale or Die is Solana's application-only summit for the engineers, validators, protocol developers, infrastructure teams, and researchers pushing the network to its limits.
+
+This is not a general crypto event. No marketing decks. No sales pitches. Just deep technical programming, hands-on workshops, and focused time with the teams building and scaling Solana's future.
+
+Expect talks and conversations across validator performance, consensus, transaction landing, RPC, Firedancer, post-quantum readiness, agentic infrastructure, high-performance onchain applications, and more.
+
+A dedicated DevCave space will run throughout the day for technical discussion, debugging, collaboration, and direct access to the people shipping core infrastructure.
+
+If you are building on Solana, operating infrastructure, writing protocol code, or working at the frontier of Solana, this is the room you want to be in.
+
+For Sponsorship opportunities, please reach out to events@solana.org
+
+Still need to book a hotel? Book with Nomadz (https://nomadz.xyz/breakpoint)and save up to 30%
+
+Interested in speaking? Please fill out this form. (https://airtable.com/appCy7M2j24UF6QqT/pag8nSnDP4LUKD13W/form)
 
 <a id="event-67af7a9f6b72927b"></a>
 
@@ -32811,7 +33486,15 @@ Build Across Chains: A Solana Builder Briefing, with NEAR Intents x Aurora Inten
 
 ### About the event
 
-Build Across Chains: a private Breakpoint briefing for Solana teams on cross-chain liquidity, private transactions and NEAR Intents.
+A closed-door briefing for Solana founders, CTOs and product leads, hosted by NEAR Intents and Aurora Intents, right before Solana Breakpoint.
+
+See how teams are using NEAR Intents to bring cross-chain liquidity, private transactions and new users into their Solana apps, with a live demo of what an integration looks like from the app's side. Then hear directly from partners who have already shipped it, in a fireside chat on what they built, what it took, and what changed.
+
+The evening wraps with an hour of drinks and open conversation with the NEAR Intents and Aurora Intents teams and fellow Solana builders.
+
+Sponsored by:
+
+Alcove Wallet is a VPN for stablecoins. Send and receive stablecoins instantly and privately, without exposing your financial information to the world.
 
 <a id="event-34b711fa770ebb08"></a>
 
@@ -32863,7 +33546,27 @@ Riserva London | Stablecoins and compliance over wine
 
 ### About the event
 
-Riserva London | Stablecoins and compliance over wine: A November 14, 2026 evening in London on stablecoin compliance, licensing and treasury.
+In London, between the Digital Assets Summit and Solana Breakpoint, Range is hosting a small evening of wine and the conversations that don't fit in a conference hallway.
+
+We're bringing together 30 to 40 senior finance, treasury, compliance and payments leaders working across stablecoins, digital assets and fiat.
+
+Over wine and cocktails, we'll have frank conversations under the Chatham House Rule.
+
+You'll meet the fintech, banking and stablecoin leaders working on the same problems you are: compliance, licensing, payments, treasury, and the risk controls underneath stablecoin adoption at scale.
+
+Spots are limited and approval-based. Register now.
+
+### About Range
+
+Range is the leading stablecoin treasury and risk management platform for financial institutions, trusted by the Solana Foundation, Circle, Stellar, Squads, and more. We provide the compliance, risk, and routing systems required to manage and move digital assets safely across blockchains.
+
+Used by fintechs, asset issuers, and custodians, our platform acts as the system of record for digital asset treasuries, aggregating balances, transactions, and counterparties across wallets, custodians, exchanges, and blockchains.
+
+Whether you're building programmable treasuries or privacy flows, Range helps ensure they're safe, compliant, and ready for scale.
+
+Learn more at range.org (https://range.org).
+
+The address is only shown to approved guests.
 
 <a id="event-29bfd82bc0c5f4bc"></a>
 
@@ -32889,7 +33592,15 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Little Blue Door: After Hours: a Solana Breakpoint side event in London with drinks, late-night music and the Fastshares launch.
+FastShares (https://getfastshares.com/) is hosting an event you will never forget...
+
+Hidden between the streets of Fulham, behind a little blue door, a night of dancing, drinks and unforgettable memories awaits, (although there maybe a few foggy moments!)
+
+The glamourous night that FastShares is throwing will stop at nothing to lure you in and ready to spin you away on the dancefloor. Expect the drinks to be flowing all night, and the hottest tracks to keep the energy high until the early hours of the morning.
+
+Where the simple phrase "just one drink" can be heard echoed around the walls yet will be talked about for weeks to come. Get ready for the launch of Fastshares in one of the coolest clubs in town. Filled with likeminded friends that dance the night away, celebrating the newest launch on the block.
+
+https://getfastshares.com/
 
 <a id="event-a330c57142c70a8f"></a>
 
@@ -32915,7 +33626,29 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Solana Fitness Zone: HIIT Class: a 50-minute Breakpoint London workout for founders and builders hosted by OFFLINE.
+Join us at Solana Fitness Zone at Breakpoint London 2026 for a 50-minute HIIT class for founders + builders, hosted by Solana Foundation (https://solana.org/) x Proxima (https://proxima.tools/) x OFFLINE (https://x.com/getofflinexyz?utm_source=luma).
+
+What's HIIT? High-Intensity Interval Training alternates short bursts of all-out effort with brief recovery periods. It's a fast, efficient workout that builds strength and endurance, and it's scalable to any fitness level. Inclusive of all genders :)
+
+Dress in fitness apparel, bring water, and be ready to sweat.
+
+You can RSVP with a paid or free ticket. A paid ticket guarantees entry. Free tickets will be approved closer to the event, once we have a clear headcount. Please RSVP only if you plan to attend.
+
+Thank You to Our Partners
+
+Solana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem.
+
+Proxima (https://proxima.tools/) is a premium all-in-one infrastructure layer for token management.
+
+OFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto.
+
+Solana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana.
+
+CUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey.
+
+Want to be a brand partner? DM @lenagrundhoefer on Telegram
+
+Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more
 
 <a id="event-f0ade408b44ff0bc"></a>
 
@@ -32989,7 +33722,19 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Powered by FastShares: London Walking Tour: a 12 km Breakpoint walk through central London hosted by FastShares and Superteam UK.
+Over Breakpoint, FastShares (https://getfastshares.com/) is partnering with Superteam UK for an afternoon where you can take in the sights of London.
+
+James Nugee-Jacob has been showcasing all of London's best parts for over 15 years. On the 15th of November, embark on a winding walk that takes you on a journey through the sights and sounds of our beloved capital.
+
+The journey will start under Nelson's Column in Trafalgar Square where the Landseer Lions watch us embark on our great tour of London.
+
+From Buckingham Palace to Tower Bridge to Covent Garden, this tour will answer any questions you may have about London's incredible history. Coming to an end at Leicester Square, where the work of some of the world's greatest artists hangs from the walls of the National Gallery.
+
+The walk altogether is around 12km, with no pace and no question left unanswered.
+
+weather dependant
+
+https://getfastshares.com/
 
 <a id="event-1baea10910b452a6"></a>
 
@@ -33003,7 +33748,19 @@ Powered by FastShares: London Walking Tour: a 12 km Breakpoint walk through cent
 
 ### About the event
 
-The Internet Capital Supermarket: a Solana Breakpoint activation at Olympia with products, giveaways and on-site experiences.
+The Internet Capital Supermarket from Solana Spaces is back at Breakpoint 2026 with fresh deals, free samples, and all kinds of tasty Solana treats.
+
+**MUST HAVE BREAKPOINT TICKET TO ATTEND**
+
+Brought to you by Solana Spaces and Brave Browser, we'll have the best products from around the Solana ecosystem, alongside giveaways and activations from some of the most exciting brands in the space, including:
+
+- GMGN.ai
+- SP3ND
+- Amua
+- Tokenised GBP
+- DSCVR Beer
+
+See you there!
 
 <a id="event-99c0a5215a7b38a3"></a>
 
@@ -33017,7 +33774,29 @@ The Internet Capital Supermarket: a Solana Breakpoint activation at Olympia with
 
 ### About the event
 
-BORN UP - Breakpoint London: a 30-minute networking meetup inside Olympia for Solana Breakpoint attendees.
+MEET. MINGLE. CONNECT.
+
+Join fellow Breakpoint attendees for a relaxed, 30-minute community networking meetup hosted by BORN.LIVE.
+
+Introduce yourself, share what you're building and meet people to connect with throughout the week. Come on your own or bring a colleague - we'll help make introductions.
+
+Sunday 15 November 2026 - 11:30am-12pm GMT
+
+Planned inside the Breakpoint conference venue at Olympia London. Exact meeting point to be confirmed; check this page before arrival.
+
+Everyone with a valid Breakpoint conference ticket is welcome. No BORN account, product signup or wristband is required.
+
+A valid Breakpoint ticket is required for venue access. Meetup registration does not include conference entry.
+
+Hosted by BORN.LIVE
+
+Sponsors & Media
+
+CRODL - A crypto trading platform connecting exchanges, automating trades and tracking performance. crodl.com (https://crodl.com)
+
+The Crypto Post - Crypto news, insights and stories from across the digital asset industry. thecryptopost.io (https://thecryptopost.io)
+
+Independently hosted by BORN.LIVE; not affiliated with or endorsed by Solana Foundation or Breakpoint.
 
 <a id="event-3b92073aac429329"></a>
 
@@ -33031,7 +33810,26 @@ BORN UP - Breakpoint London: a 30-minute networking meetup inside Olympia for So
 
 ### About the event
 
-The House of Monke: MonkeDAO's official Breakpoint London kickoff with drinks, darts and partners including MagicBlock and RedotPay.
+Your favorite country club is opening its doors in London. 🇬🇧
+
+Welcome to The House of Monke, the official MonkeDAO kickoff for Breakpoint London!
+
+We're rolling out the welcome mat for our MonkeHotel family, bringing everyone together to start Breakpoint week the Monke way.
+
+With a touch of country club charm and a distinctly Monke twist, we're setting the scene for a Sunday afternoon of socializing, darts, and a few drinks in good company. A chance to settle into London, enjoy the atmosphere, and make some memories before the busy days of Breakpoint begin.
+
+After all, what makes a great club isn't the venue. It's the members.
+
+We're happy to have MagicBlock supporting The House of Monke! MagicBlock is the engine for Entertainment Finance: zero-fee transactions, verifiable randomness and privacy for fully onchain apps on Solana.
+
+Joining us as strategic partners of the club are our friends at RedotPay, who make stablecoins easy to spend in everyday life. Come say hi, and maybe challenge them to a round of darts.
+
+This event is exclusive to:
+
+- MonkeHotel Mixer guests
+- Monkes who purchase the MonkePoint Mystery Pack.
+
+Welcome to the club. Welcome to The House of Monke.
 
 <a id="event-414244f73698c699"></a>
 
@@ -33045,7 +33843,51 @@ The House of Monke: MonkeDAO's official Breakpoint London kickoff with drinks, d
 
 ### About the event
 
-RWAs: From Tokenized to Traded: an invite-only event on RWAs trading and scaling with RockawayX, Figure, Huma, Kamino and others.
+Join RockawayX, Exponent, Figure, Huma, Kamino, OnRe, DGLD and other industry leaders for an invite-only gathering to kick off Solana Breakpoint.
+
+What's on tap? Lively discussions on what it takes to launch and scale tokenized assets with the best of them and networking over great food and drinks with a fantastic location.
+
+Expect founders, investors, and builders talking about the latest and fastest-growing onchain assets (our hosts are behind a few of them), where liquidity is coming from, and what it takes to attract more.
+
+The team running Catapult, a program funding and accelerating new RWA ventures, will be on- hand, so if there's a founder or TradFi operator who should be in the room, send them our way for an invite.
+
+When: Sunday 15 November, 15:30-20:00
+
+Where: An exclusive location in West London, a short ride from Olympia. The exact address will be shared once your registration is approved.
+
+Registration is subject to host approval.
+
+RockawayX (https://www.rockawayx.com/):
+
+RockawayX is the multi-strategy investment firm with over $2B in AUM across its verticals including venture, liquidity, curation and infrastructure. The firm has combined its venture, liquidity and curation verticals for its latest accelerator, Catapult, which incubates, provides liquidity and curates real-world assets. Find out more at rockawayx.com/catapult (https://rockawayx.com/catapult)
+
+Exponent: (https://www.exponent.finance/)
+
+Exponent is the leading yield exchange on Solana, enabling users to build yield portfolios across different risk profiles, from fixed rates to principal protection.
+
+Figure (https://www.figure.com/):
+
+Figure Technology Solutions, Inc. (NASDAQ: FIGR) is a blockchain-native financial technology company founded in 2018 that leverages the Provenance Blockchain to streamline lending, capital markets, and asset tokenization. The company operates as a major non-bank HELOC lender, having processed over $30B+ in loans on-chain, and is recognized for bringing real-world assets onto the blockchain to enhance efficiency.
+
+Huma: (https://huma.finance/)
+
+Huma is the first PayFi network, financing global payment flows at scale. With over $20 billion in transaction volume, it is among the largest real-world stablecoin use cases. By transforming payment activity into on-chain yield, Huma is laying the foundation for internet capital markets and scalable permissionless finance.
+
+Kamino (https://kamino.com/):
+
+Kamino is onchain credit infrastructure on Solana and the largest credit platform for real-world assets onchain, with more than $650B in cumulative transaction volume and more than $20B in loans originated with zero bad debt. Institutions and fintechs can integrate Kamino to power lending, borrowing, and yield products at scale, backed by 20+ audits and 4 formal verifications.
+
+OnRe (https://www.onre.finance/):
+
+OnRe is a licensed, collateralized reinsurer and onchain asset manager connecting alternative capital with the $800B global reinsurance market. Through ONyc, its liquid, composable yield-bearing asset, OnRe brings uncorrelated returns backed by reinsurance premiums and collateral yield to DeFi, creating a new blueprint for global risk transfer.
+
+DGLD: (https://dgld.ch/)
+
+DGLD is digital evidence of co-ownership rights in allocated, LBMA-certified PAMP gold, vaulted and insured in Switzerland. Each token corresponds to one fine troy ounce. Verifiable bar by bar on the Gold Mapper, deliverable in physical gold from 1 gram, and native on Solana Ethereum, and Base.
+
+Videos will be taken at this event, and some may be shared on our website or social media. If you do not wish to be included in the photos or videos, please inform the event organizers. By registering you agree that you may be contacted by the co-hosts.
+
+Registration doesn't guarantee entrance, please arrive early to avoid disappointment!
 
 <a id="event-112ccde84f4e4dab"></a>
 
@@ -33059,7 +33901,91 @@ RWAs: From Tokenized to Traded: an invite-only event on RWAs trading and scaling
 
 ### About the event
 
-VCs & LPs Cocktail Hour: a private Solana Breakpoint investor meetup in London for VCs, LPs and Web3 funders hosted by fractl.
+Enter our prestigious VCs & LPs meetup at Solana Breakpoint London
+
+On November 15 between 3pm and 5pm, be part of an exclusive guest list featuring the top Web3 investors. This isn't your typical gathering - it's a close-knit gathering of powerful funders influencing the trajectory of the blockchain space. Enhance your networking experience and indulge in unparalleled insights. Reserve your place now!
+
+Excited to see you again! Or meet you in person for the first time :D
+
+Past attendees and partners: a16z, Sequoia, Paradigm, Founders Fund, Lightspeed, Polychain Capital, Pantera Capital, Multicoin Capital, Dragonfly, Blockchain Capital, Coinbase Ventures, Galaxy Digital, Grayscale Investments, HashKey Capital, Sino Global Capital, Standard Crypto, Placeholder, Hack VC, Maven 11, 1kx, Spartan, YZi Labs, M12 (Microsoft's venture fund), Animoca Brands, Union Square Ventures, Arca, Fabric Ventures, Binance, Bybit, Crypto.com, Meta, Polygon, Near, Polkadot, Arbitrum, Optimism, Metis, M2, Figment, Vayner Media, Cointelegraph, Decrypt & many more
+
+Presented by:
+
+fractl is a global network of 19,000+ top tier founders & 5,000+ investors brought together through highly curated in‑person investor events.
+
+40+ premium investor gatherings hosted worldwide
+
+66,000+ registrants across our events to date
+
+www.fractl.ca (http://www.fractl.ca)
+
+Sponsors | Co-Hosts | Partnerships
+
+If you would like to showcase your project, product or service to our highly curated audience, reach out to our team:
+
+- Telegram: @sarah_fractl (http://t.me/sarah_fractl)
+- Email: sarah@fractl.ca
+
+### fractl world tour
+
+2026
+
+December
+
+- 🇺🇸 Future Wealth Conference Miami, United States
+- 🇦🇪 Abu Dhabi Finance Week, United Arab Emirates
+
+2027
+
+January
+
+- 🇨🇭 World Economic Forum Davos, Switzerland
+
+February
+
+- 🇭🇰 Consensus Hong Kong
+
+March
+
+- 🇺🇸 Dallas Family Office & High Net Worth Conference, United States
+- 🇺🇸 NVIDIA GPU Technology Conference San Jose, United States
+- 🇺🇸 Digital Asset Summit + Fractl Capital Day New York, United States
+
+April
+
+- 🇲🇦 GITEX Africa Marrakech, Morocco
+
+May
+
+- 🇺🇸 Consensus Miami, United States
+
+June
+
+- 🇨🇭 World Family Office Forum Europe Montreux, Switzerland
+- 🇺🇸 Token2049 + Fractl Capital Day New York, United States
+
+July
+
+- 🇫🇷 Signal Week Paris, France
+
+September
+
+- 🇸🇬 SuperAI Singapore
+- 🇺🇸 Fractl Capital Day New York, United States
+
+October
+
+- 🇸🇬 Token2049 Singapore
+
+November
+
+- 🇺🇸 Fractl Capital Day New York, United States
+
+December
+
+- 🇦🇪 Abu Dhabi Finance Week, United Arab Emirates
+
+*many many more to come... please inquire about fractl's private and custom LP events (reach out to Sarah)
 
 <a id="event-346025e3bbe7c8b5"></a>
 
@@ -33118,17 +34044,31 @@ Tournament Setup:
 
 48 hours. One leaderboard. Every trade counts.
 
-Reward Pool: TBA soon!
+REWARDS - TOP 50 WIN!
+
+Sponsored by @Trezor and Trading Battles
+
+1st Place: Trezor Safe 5
+
+2nd-10th Place: Trezor Model T
+
+11th-50th Place: 10 USDC each
+
+How to Claim Your Rewards:
+
+Top 10: Collect your Trezor hardware wallet in person during Breakpoint in London at a designated location to be announced. Simply show your final tournament result on screen to claim your prize.
+
+11th-50th: Share a screenshot of your final result on X and follow @TradingBattles to claim your 10 USDC reward. USDC prizes will be distributed after the tournament.
 
 No luck. No shortcuts. Just skill & performance.
 
 Enter the battle:
 
-[Join link: https://game.tradingbattles.com/join/302](https://game.tradingbattles.com/join/302?autojoin=true)
+Join link: https://game.tradingbattles.com/join/302 (https://game.tradingbattles.com/join/302?autojoin=true)
 
  - - - - - - - -
 
-[www.tradingbattles.com](https://www.tradingbattles.com)
+www.tradingbattles.com (https://www.tradingbattles.com)
 
 Trading Battles is the infrastructure layer for 24/7 competitive trading, transforming trading into a new category of esports.
 
@@ -33220,7 +34160,47 @@ etc.
 
 ### About the event
 
-Proof & Pour - London: a private Solana Breakpoint cocktail evening by Certora for founders, investors and digital asset leaders.
+Good spirits. Exceptional company.
+
+A well-made cocktail. An introduction worth making. A conversation that carries on.
+
+Join Certora and Merkle Science for Proof & Pour, a private evening of cocktails and canapés with a curated guest list from across the digital asset world.
+
+THE COMPANY
+
+Founders, investors, institutional digital asset leaders, and the people building the infrastructure behind it all. Familiar faces, fresh perspectives, and room for conversations that go beyond the usual introductions.
+
+THE SETTING
+
+A tucked-away London bar with a garden-inspired feel, thoughtful cocktails, and a little English sparkle. Just a short walk from the Breakpoint venue, it's an easy place to step into an evening of good company.
+
+Come for a drink and a few canapés. Stay for the conversation.
+
+THE INVITATION
+
+Sunday, 15 November 2026 - 7-9 PM London time
+
+Private event - Curated guest list - Limited capacity
+
+Attendance is complimentary and subject to approval. Venue details will be shared with confirmed guests.
+
+Request an invitation. We'll make the introductions.
+
+Proof & Pour is a gathering series by Certora, bringing exceptional company together, one city at a time.
+
+YOUR CO-HOSTS
+
+Certora
+
+certora.com (https://www.certora.com/)
+
+Provable security for digital assets and AI, through smart contract audits, formal verification and advanced security tooling.
+
+Merkle Science
+
+merklescience.com (https://www.merklescience.com/)
+
+Blockchain intelligence, transaction monitoring and investigations, helping institutions navigate digital asset risk.
 
 <a id="event-1b203ebc89e6d1c3"></a>
 
@@ -33234,7 +34214,19 @@ Proof & Pour - London: a private Solana Breakpoint cocktail evening by Certora f
 
 ### About the event
 
-Squid Dinner - London: a private Solana Breakpoint dinner around Squid's upcoming app launch and cross-chain infrastructure.
+Squid is hosting an intimate dinner during Solana Breakpoint, and you're invited! Join us for an evening of celebration and conversation as we look ahead to the forthcoming app launch.
+
+We're looking forward to seeing you in London!
+
+Seats are limited - RSVP promptly
+
+Squid (https://www.squidrouter.com/?utm_source=luma) is the leading cross-chain platform, delivering unlimited access to 100+ blockchains and 20k+ digital assets for both users and builders alike.
+
+Since 2023, Squid has processed over $6 billion in volume. Its frontend bridge app has served over 1 million users, and its powerful API, SDK, and Widgets are trusted by more than 1,000 teams worldwide.
+
+The Squid app will be launching on mobile soon, with the early-access list now open to join at squid.inc (https://www.squid.inc/).
+
+X (https://x.com/squidrouter?utm_source=luma) | Website (https://www.squidrouter.com/?utm_source=luma) | Try Squid (https://app.squidrouter.com/?utm_source=luma) | $QUID (https://www.squidrouter.com/quid-token?utm_source=luma)
 
 <a id="event-9adc7020d886dd17"></a>
 
@@ -33298,7 +34290,23 @@ Solana Fitness Zone: Group Boxing: a 45-minute Breakpoint London boxing workout 
 
 ### About the event
 
-Coffee With Alpine: a morning coffee meetup next to Olympia during Solana Breakpoint London.
+Come grab a coffee and talk DeFi, perps & trading. Coffee is on us.
+
+Just an early morning coffee and some networking, brought to you by Alpine (https://alpine.trade), Quicknode (https://quicknode.com) and Ocelot (https://beta.ocelot.fi).
+
+- No pitches
+- No talks
+- Just coffee and friendly chats
+
+Presented by
+
+Alpine (https://alpine.trade): Alpine is the lending platform for onchain traders. Capital-efficient margin for carry trades, delta-neutral basis, and routing your collateral across Hyperliquid, Lighter and Phoenix. Lending that is designed for your trades. Private alpha opening now, and attendees get first access.
+
+>>> Early Access: https://alpine.trade (https://alpine.trade/join/e1q5rvo)
+
+Quicknode (https://quicknode.com): Quicknode is the premier blockchain development platform for high-performance teams. Get reliable RPC endpoints across 70+ chains, real-time data with Streams and Webhooks, and onchain analytics with SQL Explorer, all in one platform built to scale with you.
+
+Ocelot (https://beta.ocelot.fi): Long and short leveraged tokens for any asset on Solana, from equities and commodities to crypto. Deposit USDC and get leveraged exposure with no perp account, margin management, liquidation watching or manual rebalancing. Trade ETH2S, NVDA3L, OIL2S and 21 more.
 
 <a id="event-a8d5f5007efd5ddd"></a>
 
@@ -33324,9 +34332,67 @@ FWDI Breakpoint Happy Hour: a London networking event by Solana treasury company
 - Description: Source-backed
 - Original page: <https://luma.com/39ckiuiy>
 
-### About the event
+### SEVEN DEGENS. ONE THRONE. ONE CHAMPION
 
-GGC: GMGN Global Championship: a live memecoin trading competition with seven finalists and an Aston Martin Vantage prize.
+The trenches are coming to London.
+
+Thousands of memecoin traders have battled through the online qualifiers for one of seven spots at the GGC London Grand Finals during Solana Breakpoint.
+
+For the first time, the world's top memecoin traders are stepping out from behind their screens and into the spotlight.
+
+Welcome to GGC the GMGN Global Championship, an esports-style live memecoin trading showdown.
+
+7 elite traders. One live arena. One Aston Martin Vantage on the line.
+
+But before the main event, we're kicking things off with a Celebrity Trading Warm-Up Round, bringing together seven crypto founders, creators, and ecosystem personalities for a fun showdown with $20,000 in prizes up for grabs.
+
+Born in the Trenches. Crowned in London.
+
+### Event Details
+
+- Date: November 16, 2026
+- Time: 4:00-10:00 PM
+- GGC Website: https://gmgn.ai/ggc
+
+Powered by GMGN.AI (https://gmgn.ai/)
+
+### Partners & Sponsors
+
+Base | Gold Sponsor & Official Sponsor of the Celebrity Trading Warm-Up Round
+
+Base, incubated within Coinbase, is an Ethereum Layer 2 (L2) network offering a secure, low-cost, developer-friendly way to build decentralized apps onchain. Base aims to be decentralized, permissionless, and open to anyone. We believe onchain is the next online, and aim to empower developers to shape the onchain future.
+
+Hello Moon | Gold Sponsor
+
+Hello Moon delivers industry-leading blockchain infrastructure, staking services, and data solutions with unmatched reliability and performance.
+
+Tenon | Silver Sponsor
+
+The infrastructure for onchain apps: fiat ramps, cross-chain bridging, and card issuing in one platform.
+
+Rill Wallet | Silver Sponsor
+
+The embedded wallet. Safer with hardened self-custody. Faster at any scale.
+
+Velio | Silver Sponsor
+
+Velio is a perpetuals DEX where traders can track smart money onchain and trade the world's widest selection of AI stock perps.
+
+Temporal | Bronze Sponsor
+
+Temporal builds infrastructure that makes Solana faster and more reliable for everyday traders. One of its products, Nozomi, gets your transactions confirmed quickly and predictably, even when the market is at its busiest. Whether you're buying a new token or exiting a position, Nozomi helps your trades land when they count.
+
+Solana Mobile | Seeker Prize Contributor
+
+Solana Mobile is bringing Seeker devices to the GGC London Grand Finals as prizes for select winners. GMGN is also available on Seeker, bringing memecoin trading to the Solana mobile ecosystem.
+
+BingBong | Community Partner
+
+The hottest crypto social networking events worldwide for the people moving culture toward.
+
+Superteam UK | Community Partner
+
+Superteam UK is the talent layer for Solana, helping incubate and fund the Top 1% of frontier tech talent in the UK.
 
 <a id="event-545e85a3cbbc9614"></a>
 
@@ -33340,7 +34406,35 @@ GGC: GMGN Global Championship: a live memecoin trading competition with seven fi
 
 ### About the event
 
-The RWA Pub at Breakpoint: a London meetup for builders and institutions working on RWAs, tokenized credit and onchain capital markets.
+Last year, Figure launched the RWA Consortium at Breakpoint Abu Dhabi. This year, we're showing up again in full force; the RWA Pub, co-hosted by Figure & Kamino, with event partners Formation & Redstone.
+
+Breakpoint brings the entire Solana ecosystem to London, and the RWA community is gathering the way London does best: over drinks at a pub.
+
+Join us for an intimate evening with the builders, allocators, and institutions putting real-world assets to work on Solana.
+
+Come for the drinks. Stay for the conversations about where fixed-rate yield, tokenized credit, and onchain capital markets go next.
+
+Hosted by: Figur (https://www.figure.com/?utm_source=luma)e (https://digitalassets.figure.com/?utm_source=luma&utm_medium=event)
+
+Figure Technology Solutions, Inc. (https://www.google.com/search?q=Figure+Technology+Solutions%2C+Inc.
+
+&oq=who+is+figure+crypto+company&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIGCAEQRRhAMgYIAhBFGEDSAQg0NjI0ajBqNKgCALACAQ&sourceid=chrome&ie=UTF-8&mstk=AUtExfCsax63uIjONANLrRTVk7j7Odc8AHA7EuWBxw46-zDBkT4NxRbTr3U8no6ZImJuxsGFAjYSd3mxz7FHtmwrkmt1RBH-C-rQoGgxWGKT06ke1Ia4i49oAULebL2yqyNAmuwm_oYRfQP3NG2EC3J2eCF_qB6YMKbpLgQwEJSsb-ube_Zc53zzttMleJycLRS_QF3_&csui=3&ved=2ahUKEwj7jt6ohuSTAxX1PUQIHe64OpcQgK4QegQIARAB&utm_source=luma) (NASDAQ: FIGR) is a blockchain-native financial technology company founded in 2018 that leverages the Provenance Blockchain to streamline lending, capital markets, and asset tokenization.
+
+The company operates as a major non-bank HELOC lender, having processed over $30B+ in loans on-chain, and is recognized for bringing real-world assets onto the blockchain to enhance efficiency. Our Privacy Policy can be viewed here (https://www.figure.com/privacy/?utm_source=luma).
+
+Hosted by: Kamino (https://kamino.com/earn/lend)
+
+Kamino (https://kamino.com/earn/lend)is onchain credit infrastructure on Solana and the largest credit platform for real-world assets onchain, with more than $650B in cumulative transaction volume and more than $20B in loans originated with zero bad debt. Institutions and fintechs can integrate Kamino to power lending, borrowing, and yield products at scale, backed by 20+ audits and 4 formal verifications.
+
+About Hastra (https://hastra.io/?utm_source=luma&utm_medium=event&utm_campaign=breakpoint)
+
+Hastra (https://hastra.io/?utm_source=luma&utm_medium=event&utm_campaign=breakpoint) is the liquidity protocol bringing real-world yield onchain. Incubated by Figure and Provenance Blockchain, Hastra connects the yield generated in Democratized Prime, backed by Figure's $1B+ in monthly onchain loan originations, to DeFi. Its two yield-bearing tokens, PRIME and wYLDS, are fully composable across Solana DeFi protocols like Kamino, Raydium, and Jupiter, with every yield product secured by Chainlink. Real loans, transparent collateral, real yield.
+
+### About Redstone
+
+https://www.redstone.finance/
+
+RedStoneis the primary oracle for tokenized products, including BlackRock's BUIDL, Apollo ACRED and Hamilton Lane SCOPE. Its infrastructure secures $6B+ across 110+ chains with zero mispricing events. On Stellar, it runs the SEP-40 oracle standard and delivers the price feed for Franklin Templeton's BENJI fund. RedStone also operates TokenizeThis, the longest-running global conference dedicated to the tokenization of finance.
 
 <a id="event-09ff903e09eaf518"></a>
 
@@ -33366,7 +34460,27 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Sports Meets Solana: The Future of Sports is On-chain
+Join Chiliz and Superteam Türkiye for an evening during Solana Breakpoint exploring how sports fandom is evolving on-chain.
+
+With a global network of sports partners including Paris Saint-Germain, FC Barcelona, Manchester City and Juventus, Chiliz has spent almost a decade building blockchain-based experiences for sports fans.
+
+Now, the official digital assets of some of the world's biggest sports teams are coming to Solana, creating new opportunities for traders, DeFi protocols and fan-focused products. From trading Fan Tokens around live matches to new products built around sports fandom and AI-powered tools for developers, we'll share the latest developments, demo new integrations and give a look at what we're working on next.
+
+Together with Superteam Türkiye, we'll bring builders and founders together to see the products in action and discuss what they could build with Fan Tokens.
+
+Whether you're building on Solana, active in DeFi or simply curious about where sport fits into the on-chain world, come along for an evening of demos, conversation and networking.
+
+Drinks, snacks and exclusive merchandise will be available throughout the evening.
+
+RSVP: Registration required. Spaces are limited.
+
+### About Chiliz
+
+The Chiliz Group is the leader in blockchain solutions for the sports and entertainment industry, pioneering the development of Fan Token, the leading digital asset for sports. Chiliz also powers Socios.com (https://Socios.com), which functions as a secure and intuitive hub where users can access exclusive experiences, rewards, and opportunities from top-tier sports organisations to strengthen the connection and loyalty between brands and fans. The Chiliz® Chain provides a trusted, decentralised infrastructure for brands, developers, and communities to build the future of the Web3 ecosystem.
+
+### About Superteam Türkiye
+
+Superteam Türkiye is the central hub for Web3 builders, founders, and creatives in Türkiye. We connect local talent with global opportunities across the Solana ecosystem and beyond, offering support through grants, bounties, investor connections, and developer resources. tr.superteam.fun (https://tr.superteam.fun)
 
 <a id="event-95139d439ab3b8ed"></a>
 
@@ -33380,7 +34494,15 @@ Sports Meets Solana: The Future of Sports is On-chain
 
 ### About the event
 
-Bullseye with Multicoin Capital: a private post-Breakpointgathering with the Multicoin team, drinks, darts and informal networking.
+Join Multicoin Capital for a private, invite-only evening at Flight Club Victoria after Breakpoint.
+
+Come meet the Multicoin team and catch up with people building, investing in, and shaping the future of crypto and policy.
+
+Passed appetizers and refreshing drinks will be served, but you will need to bring your skills for the head-to-head darts competition.
+
+Space is limited, and entry is first come, first serve - so RSVP early. Accepted registration is required for entry, and admission is not guaranteed once the venue reaches capacity.
+
+Confirmation notices will be sent out the week of Breakpoint. We look forward to seeing you there for a lively evening with Multicoin Capital.
 
 <a id="event-228cf70f9379a893"></a>
 
@@ -33392,9 +34514,31 @@ Bullseye with Multicoin Capital: a private post-Breakpointgathering with the Mul
 - Description: Source-backed
 - Original page: <https://luma.com/altitude-rain-BP26>
 
-### About the event
+### Turn your global spend into a business asset with the Altitude Card, powered by Rain
 
-Licence to Spend: an evening with Altitude and Rain: a London event on stablecoin-powered business spending, cards and onchain finance.
+Join Altitude and Rain for an exclusive Breakpoint evening celebrating the people building the next generation of businesses on Solana and beyond.
+
+We've designed a curated experience to bring delight to your evening, and you might even have the chance to win some VIP prizes! Mission briefing will be given on the day...
+
+You'll also get enjoy exceptional cocktails, small plates, and the company of the best teams on Solana, all within Juno, a show-stopping venue right on the Olympia site.
+
+Come dressed covertly in black, and be swept away by the experience. You'll leave with a new perspective on what business spend can do.
+
+Please note that you must be approved to attend the event.
+
+We are approving guests on an ongoing basis, but priority is given to those who are already using Altitude or actively working with our team. Additional guests will be approved nearer the event date, subject to capacity.
+
+Dress code not enforced but highly encouraged to set the scene for an evening of intrigue.
+
+### About Altitude
+
+Get more value from every transaction while keeping spend organized and controlled from one place.
+
+Altitude is the global business account for onchain teams that runs beyond the limits of traditional banking. Treasury, payments, payouts, corporate cards, and books in one self-custodial account, available to businesses in 150+ countries.
+
+### About Rain
+
+Rain is a global stablecoin payments platform for enterprises, neobanks, platforms, developers, and AI agents. Through cards, wallets, on/offramps, rewards, and cross-border rails, Rain powers platforms like Altitude with the infrastructure to build seamless global financial experiences. As a Visa and Mastercard Principal Member, Rain supports payments across 175M+ merchant locations in 220+ countries and territories.
 
 <a id="event-a1fbde9af6955f61"></a>
 
@@ -33408,7 +34552,17 @@ Licence to Spend: an evening with Altitude and Rain: a London event on stablecoi
 
 ### About the event
 
-Solana Breakpoint Security Drinks: a happy hour by Fidesium for builders discussing audits, security and real-world failures.
+Good security conversations rarely happen in formal meetings. They happen over drinks.
+
+Join the Fidesium team for an evening of drinks and real talk with Web3 founders and builders. No pitches. No panels. Just honest discussions about what actually keeps protocols safe (and what still breaks).
+
+Whether you're shipping on Solana, thinking about your next audit, or just want to swap war stories with people who care about security, come through.
+
+Who it's for Founders, core contributors, and builders who want better security conversations, and a beer.
+
+What to expect Good company, open conversation, and a chance to meet the people behind Fidesium.
+
+Come for the drinks. Stay for the security talk that actually matters.
 
 <a id="event-c351a705a246dac3"></a>
 
@@ -33422,7 +34576,27 @@ Solana Breakpoint Security Drinks: a happy hour by Fidesium for builders discuss
 
 ### About the event
 
-Sports Meets Solana: a Breakpoint London event by Chiliz and Superteam Türkiye on Fan Tokens, DeFi and new Solana integrations.
+Join Chiliz and Superteam Türkiye for an evening during Solana Breakpoint exploring how sports fandom is evolving on-chain.
+
+With a global network of sports partners including Paris Saint-Germain, FC Barcelona, Manchester City and Juventus, Chiliz has spent almost a decade building blockchain-based experiences for sports fans.
+
+Now, the official digital assets of some of the world's biggest sports teams are coming to Solana, creating new opportunities for traders, DeFi protocols and fan-focused products. From trading Fan Tokens around live matches to new products built around sports fandom and AI-powered tools for developers, we'll share the latest developments, demo new integrations and give a look at what we're working on next.
+
+Together with Superteam Türkiye, we'll bring builders and founders together to see the products in action and discuss what they could build with Fan Tokens.
+
+Whether you're building on Solana, active in DeFi or simply curious about where sport fits into the on-chain world, come along for an evening of demos, conversation and networking.
+
+Drinks, snacks and exclusive merchandise will be available throughout the evening.
+
+RSVP: Registration required. Spaces are limited.
+
+### About Chiliz
+
+The Chiliz Group is the leader in blockchain solutions for the sports and entertainment industry, pioneering the development of Fan Token, the leading digital asset for sports. Chiliz also powers Socios.com (https://Socios.com), which functions as a secure and intuitive hub where users can access exclusive experiences, rewards, and opportunities from top-tier sports organisations to strengthen the connection and loyalty between brands and fans. The Chiliz® Chain provides a trusted, decentralised infrastructure for brands, developers, and communities to build the future of the Web3 ecosystem.
+
+### About Superteam Türkiye
+
+Superteam Türkiye is the central hub for Web3 builders, founders, and creatives in Türkiye. We connect local talent with global opportunities across the Solana ecosystem and beyond, offering support through grants, bounties, investor connections, and developer resources. tr.superteam.fun (https://tr.superteam.fun)
 
 <a id="event-978a85d64c9fc409"></a>
 
@@ -33436,7 +34610,19 @@ Sports Meets Solana: a Breakpoint London event by Chiliz and Superteam Türkiye 
 
 ### About the event
 
-Cocktails with Coinbase & Harmonic: a private Solana Breakpoint reception in London with Coinbase, Harmonic and Temporal teams.
+Join Coinbase & Harmonic for an exclusive cocktail reception during Solana Breakpoint.
+
+Monday, 16 November
+
+6:00 - 8:00 PM
+
+Soho House
+
+An intimate gathering for builders, founders, investors, and operators in the Solana ecosystem. Connect with teams from Coinbase, Harmonic, and Temporal over drinks in the heart of Soho.
+
+This is a curated event, a chance to step away from the main conference and have real conversations about infrastructure, capital markets, and what's shipping on Solana.
+
+Limited capacity. Registration required. Location to be shared upon registration approval.
 
 <a id="event-696b3e170d67e8a2"></a>
 
@@ -33450,7 +34636,25 @@ Cocktails with Coinbase & Harmonic: a private Solana Breakpoint reception in Lon
 
 ### About the event
 
-Fog & Fortune: a Solana Breakpoint night by MonkeDAO and RedotPay with music, drinks and access for selected guests.
+A little London fog, a little Monke fortune, and a whole lot of fun!
+
+The Monkes are taking over Monday night at Breakpoint London, and we've got RedotPay by our side. Looks like fortune is in good hands!
+
+Together, we've been cooking up something special for our Monke fam, with great music, unexpected twists, and a few surprises up our sleeves.
+
+We're keeping some of the details under wraps for now. After all, a little mystery never hurt anyone, and where's the fun in revealing everything before the night even begins?
+
+So grab your fellow Monkes, bring your best energy, and get ready for a Monday night worth remembering.
+
+May the fog be thick and the fortune plentiful!
+
+### About MonkeDAO
+
+MonkeDAO is the Premier Web3.0 Country Club, a global community built around the Solana Monkey Business (SMB) collection on Solana. Spanning more than 20 local chapters worldwide, it is home to builders, investors and curious minds shaping the future of Web3.
+
+### About RedotPay
+
+RedotPay is a Hong Kong-based crypto payments company founded in 2023. Its app and Visa card let you spend crypto like BTC, SOL, USDC and USDT anywhere Visa is accepted, with the app converting it into more than 50 fiat currencies behind the scenes. Cards work in 100+ countries and can be added to Apple Pay and Google Pay, and the company has over 9 million users.
 
 <a id="event-aa25f51fc3951a4a"></a>
 
@@ -33464,7 +34668,62 @@ Fog & Fortune: a Solana Breakpoint night by MonkeDAO and RedotPay with music, dr
 
 ### About the event
 
-House of Sol: Breakpoint: a private London event connecting institutional finance with Solana DeFi.
+House of Sol has become a home for London's digital asset and tokenisation community, hosting 1,000+ attendees and leaders from across global finance.
+
+For our Breakpoint edition, we are bringing together two worlds that rarely share a room: the institutions shaping traditional finance and the teams building Solana's leading DeFi protocols.
+
+Just the right people in the right room.
+
+### Event details
+
+Monday, 16th November
+
+18:00 - 22:00
+
+Invite-only. RSVP required via Luma
+
+Dress code: Elevated smart casual. Dress for an elegant evening.
+
+Bags must be deposited in the cloack room upon entry.
+
+Photo ID required on arrival. This is an 18+ event
+
+You'll hear from
+
+- Solana Foundation
+- Allfunds
+- PrimeRevenue
+- The Investment Association and Irish Funds
+- Jupiter
+- Quicknode
+
+Who this is for
+
+- Asset managers, allocators and fund managers
+- Banks, custodians and transfer agents
+- Market infrastructure and execution providers
+- Issuers and distribution platforms
+- Founders and leaders from Solana's DeFi protocols
+
+On arrival
+
+Please bring photo ID and your Luma QR code. Our team will check you in at the entrance, and you'll collect a wristband in reception. A cloakroom is available.
+
+### About House of Sol
+
+House of Sol is a sanctuary for institutions and DeFi on Solana.
+
+Located in London, it serves as an exclusive members' club and event space where founders, institutions and ecosystem teams come together for intimate gatherings, weekly co-working and closed-door discussions to accelerate Solana's growth.
+
+Learn more and apply for membership at houseofsol.org (https://houseofsol.org)
+
+Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.
+
+By signing up to this gathering you agree that Solana Foundation and House of Sol can capture and share any footage of you, and contact you directly about future events, major news, and more.
+
+### Location
+
+Please register to see the exact location of this event.
 
 <a id="event-ce9feb3eadbeb830"></a>
 
@@ -33478,7 +34737,7 @@ House of Sol: Breakpoint: a private London event connecting institutional financ
 
 ### About the event
 
-SOL Calling: a London networking event hosted by Foundation Capital, Colosseum, Helius and Reciprocal Ventures.
+Join us for bites and drinks during Solana Breakpoint to jam with our hosts: the Foundation Capital crypto team, Colosseum, Helius, and Reciprocal Ventures along with fellow builders, and special guests from the Solana ecosystem.
 
 <a id="event-76623e9446a26e35"></a>
 
@@ -33504,7 +34763,9 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-SPI's Legal & Policy Dinner: an invite-only Solana Breakpoint dinner in London for crypto legal and policy professionals.
+Join Solana Policy Institute for an invite-only dinner during Breakpoint with prominent policy and legal professionals in the crypto ecosystem. No agenda or speaking program, just good food and conversation.
+
+Please keep your registration current, as space is limited.
 
 <a id="event-6250ce1ee6a1499c"></a>
 
@@ -33530,9 +34791,41 @@ Join founders, startup builders, Web3 engineers, and angel & venture capital inv
 - Description: Source-backed
 - Original page: <https://luma.com/snrmcp50>
 
-### About the event
+### Beyond Business: An Exclusive Dinner in Mayfair
 
-Beyond Business: a private London dinner by UN:BLOCK and Paybis for 30 fintech, finance and digital asset leaders.
+November 16 | 19:00-22:00 | 34 Mayfair, London
+
+UN:BLOCK and Paybis invite you to a private evening at 34 Mayfair, bringing together a carefully curated group of leaders from across fintech, finance and digital assets.
+
+Over dinner, connect with fellow founders and industry leaders, exchange perspectives and explore potential partnerships in an intimate setting designed for meaningful conversation.
+
+A carefully curated guest list, space for open discussion, and time to get to know the people behind the businesses.
+
+Keynote speaker: Alastair Lukies CBE
+
+We are delighted to welcome Alastair Lukies CBE, fintech entrepreneur and one of the UK's best-known voices on the future of financial services.
+
+Alastair co-founded Monitise, which pioneered mobile banking and payments. He went on to found Pollinate, a platform that helps banks win back small-business merchants and that powers Tyl by NatWest, and he chairs the FinTech Alliance. In 2014 he was appointed a business ambassador by Prime Minister David Cameron and was awarded a CBE for services to mobile banking and charity. He has also served on the Prime Minister's Business Council.
+
+He will share his perspective on where payments and financial services are heading, followed by a short Q&A.
+
+### 34 Mayfair Restaurant
+
+Located in the heart of London's Mayfair, 34 Mayfair combines Art Deco interiors with a modern grill menu featuring fine steaks, fresh fish and seasonal dishes. Its warm, elegant atmosphere provides the perfect setting for an intimate evening of dining and conversation.
+
+### Hosts
+
+UN:BLOCK | Website (https://fintech.unblockeurope.com/)
+
+UN : BLOCK is Northern Europe's leading fintech, blockchain, and AI conference, connecting the people and companies building the future of financial services. Following a record 2026 conference with 2,200+ attendees, 700+ companies, participants from 50 countries, and 7+ side events, the ecosystem returns to Riga on March 10-11, 2027 for its biggest edition yet.
+
+Paybis | Website (https://paybis.com/)
+
+Paybis makes crypto simple for individuals and enterprises. Established in 2014, the company combines a trusted crypto exchange and wallet for buying, selling, swapping and holding over 90 cryptocurrencies, with award-winning crypto-fiat infrastructure. That infrastructure lets businesses transfer capital globally without the friction of traditional payments.
+
+In 2026, Paybis was recognized as Best Crypto Payment Provider, a testament to its expansive global reach, rapid onboarding protocols, and the deep expertise of the 200 dedicated professionals who drive its operations.
+
+Processing more than $6 billion annually, Paybis is one of the most efficient platforms for acquiring and transacting in digital assets. This commitment to operational excellence is why Paybis maintains one of the highest ratings for crypto companies on Trustpilot, and why 7 million users and hundreds of the world's fastest-growing enterprises consistently rely on its services
 
 <a id="event-239d4d7ce7c3db4b"></a>
 
@@ -33632,7 +34925,35 @@ RSVP required - space is limited
 
 ### About the event
 
-New Friendship Tech London: a London networking lounge with panels, DJs, cocktails and a VIP afterparty during Solana Breakpoint.
+🇬🇧 New Friendship Tech | LONDON | VIP Speakeasy Lounge & Mixer | at Solana #BREAKPOINT2026 Blockster (https://blockster.com/), Urconduit (https://urconduit.com/), NewFriendshipTech (https://eric-spivak.com/), Genzio (https://www.genzio.co/) & More at #Breakpoint26
+
+Best known for hosting some of the top curated events and activations the Crypto & Web3 World has seen. You're invited to Join Us for this special evening at a unique location boasting amazing views, great atmosphere, delicious food & diverse craft cocktails alongside some very special guest speakers, djs and surprises!
+
+There's a reason over 60,000 people have attended our events over the last 3 years. This isn't your typical NFTECH blowout event with full send everything, but rather a purpose-driven, high-quality basecamp and networking lounge with panel sessions and a VIP afterparty from evening to late. Come with old friends and make some new ones as we bring together hundreds of industry leaders. Connect with top firms, leading VCs, angels, family offices, creative communities, curators, collectors, executives, traders, founders, funders, media and more over small bites, craft cocktails & great atmosphere in a unique location. We've got shuttle service round trip all day from the conference.
+
+If you're interested in getting involved in our event, or want to get your project, product, service or business in front of the masses, please don't hesitate to reach out to E (https://t.me/ericspivak)ric (http://mailto:eric@urconduit.com ) via telegram
+
+*We've got 3+ media partners on site, also conducting interviews for companies looking for media amplification & press.
+
+Let's make magic!
+
+Msg: EricSpivak (https://t.me/ericspivak) on Telegram or Twitter (http://twitter.com/ericspivak) for more info.
+
+### ABOUT US
+
+New Friendship Tech (http://www.twitter.com/NewFriendTech) is technology, creating new friendships. Social media used to bring people closer together, now it pushes us further apart and the only way to beat the algorithms is IRL Events. Together, we produce some of the top activations in the emerging tech and innovation space adjacent to leading conferences and summits. Our inclusive atmospheres, well-curated audiences and unique programming results in high value networking opportunities for all attendees. Our Dubai (https://lu.ma/x3ob9lxe) activation had over 1,000 attendees with a 12hr Program.
+
+While our Denver events were similar with over 800 attendees throughout the day and Sponsored by Ferrari.
+
+Your Host, Eric Spivak (http://www.Twitter.com/EricSpivak) will be around all evening to talk more about the goals and opportunities regarding future activations.
+
+New Friendship Tech is presented by Urconduit (https://x.com/Urconduit)
+
+OUR SERIES RANGE FROM: Founder Meet Funder | Michelin-Star Creator Dinners | Product Demos | Exhibitions | Web3 Workshops | Art & Music Showcases | Tech Exhibitions | Networking Mixers | Afterparties | Community Meetups | + MORE
+
+BRANDS WE'VE WORKED WITH: Ferrari | Google | Sotheby's | Netflix | OpenSea | Animoca Brands | Binance | Metamask | Warner Music Group | VaynerMedia | DeviantArt | Twitter | Spatial | Decentraland | Hennessy Cognac | NFT NYC | TOKEN2049 | Samsung | SuperRare | Mona | + MORE
+
+ARTISTS WE'VE WORKED WITH: Aluna | Illmind | Flosstradamus | Doja Cat | Mike Dean | Terrell Dom | Shepard Fairey | Miguel | Venus X | Ghazi | Blue the Great | Mr. Carmack | The Weeknd | Latashá | Jubilee | Wuki | Lady Phøenix | Gabe Weis | Fvckrender | Jasmine Solano | Sirsu | Kevin Lyman | Paul Oakenfold | The Game | Junkyard | Greg Mike | Stevie Williams | Lefty | Mumbot | Justin Bua | Rush Davis | Leila Steinberg | Goldie | Sabet | Mark de Clive-Lowe | Spottie WiFi | Linafornia | Orbseer | Gianni Lee | Suga Shay | Sattom | Autograf | Logik | Hannah Bronfman | Steph Guerrero | Ladidai | Lenka Shockley | TK the Legend | Zum | Sweet Like Chocolate | Lizzy | Faithlove | Donglee Han | Waheed Ali | + MORE
 
 <a id="event-11e5a7965eda5ac9"></a>
 
@@ -33753,7 +35074,20 @@ Solana Fitness Zone: HIIT Class: a 50-minute Breakpoint London workout for found
 
 ### About the event
 
-Privy Home: IRL London: a Breakpoint week coworking and networking event for builders across programmable finance and stablecoins.
+Privy Home is our quarterly community event series, bringing together the builders shaping the future of programmable finance. Following previous editions in New York, Cannes, and San Francisco, we're bringing Privy Home to London!
+
+Join us for a day of co-working, good food, drinks, and conversations with fellow builders across the crypto and stablecoin ecosystem.
+
+Whether you're already building with Privy or simply working on something interesting in the space, we'd love to have you. Come meet the team, connect with other builders, share what you're working on, and exchange ideas.
+
+### What to expect
+
+- A welcoming space to co-work and connect throughout the day
+- Food, coffee, and drinks on us
+- Opportunities to meet the Privy team and fellow builders
+- Plenty of time to share what you're building and learn from others
+
+Drop by for an hour or stay for the day. We can't wait to see you in London!
 
 <a id="event-2cc8f61affd7bdcd"></a>
 
@@ -33767,7 +35101,19 @@ Privy Home: IRL London: a Breakpoint week coworking and networking event for bui
 
 ### About the event
 
-London Happy Hour: a Solana Breakpoint networking event by Figment and 21Shares for institutional crypto and staking professionals.
+Join Figment and 21shares in London for evening of networking hosted alongside Solana Breakpoint (https://solana.com/breakpoint). Refreshments, great company, and a chance to discuss what's next on Solana.
+
+Important: RSVP to request your spot. Location details will be shared with approved guests only. Entry is limited to confirmed attendees, and walk-ins will not be admitted.
+
+For questions, contact events@figment.io.
+
+Figment (https://figment.io/?utm_source=luma)- Figment is the largest non-custodial provider of staking infrastructure globally. Figment provides the complete staking solution for over 1,500 institutional clients to earn rewards on digital assets. Clients span asset managers, exchanges, wallets, foundations, custodians, and large token holders. To learn more, visit figment.io (https://figment.io/?utm_source=luma).
+
+21shares (https://www.21shares.com/en-eu) - The future belongs to those who can see it
+
+21shares makes it easy to invest in crypto through the world's most comprehensive suite of exchange-traded products (ETPs).
+
+In 2018, they launched the world's first 100% physically-backed crypto ETP, and they've been simplifying crypto investing ever since. With headquarters in Zurich and offices in New York and London, their team brings together deep expertise in finance, engineering, and blockchain. They're bridging traditional finance and the realm of decentralized finance (DeFi) to build the future of investing.
 
 <a id="event-eae811c468cbd81b"></a>
 
@@ -33805,7 +35151,39 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Breakpoint Pub Quiz: a Solana Breakpoint side event with general knowledge, crypto questions, team competition and pub networking.
+Ello, ello, whats all this then?
+
+In London for Solana Breakpoint? Swap the panels and pitch decks for a proper British pub quiz.
+
+Join us at The Queen's Head in Brook Green, Hammersmith, to meet fellow builders, founders and frens from across the Solana ecosystem over some friendly competition.
+
+Bring your mates, your best team name and someone who knows things other than shitcoin prices.
+
+Your hosts:
+
+General Knowledge
+
+A redcoat general armed with obscure facts and absolutely no authority over the bar staff.
+
+John Triviaolta
+
+Leather-jacket swagger with the answers you need, not necessarily the ones that you want.
+
+Expect general knowledge, a few crypto curveballs and heated discussions about things nobody cared about five minutes earlier.
+
+Whether you're deep in the ecosystem or just along for the ride, come for the quiz and leave with a few new connections.
+
+Crown & Sceptre, 34 Holland Rd, London W14 8BA
+
+Register your spot. Your reputation is on the line.
+
+A huge Thank You to our supporters who make all this possible:
+
+ppl3.co (https://ppl3.co) - the best web3 talent agency in the world (probably)
+
+tangem.com (https://tangem.com) - keeps your crypto safe and offline.
+
+Representing a project? Reach out to @bizdevving on TG if you'd like to sponsor some prizes for the winners, or beers for everyone. We are easily plied with cold, amber liquids.
 
 <a id="event-01675da02c9dd8a2"></a>
 
@@ -33843,9 +35221,51 @@ An organizer description has not been verified for this record. Any previous cop
 - Description: Source-backed
 - Original page: <https://luma.com/e9iw08nn>
 
-### About the event
+### NO MORE PITCHES
 
-NO MORE PITCHES: a Solana Breakpoint afterparty in London by AkcaVPN and Superteam Türkiye with house, disco and free drinks.
+An afterparty from your favourite cozy VPN
+
+Breakpoint is over. Time to dancemaxx.
+
+Join us for chilling and good people.
+
+your agent can wait.
+
+Drinks on us, plus a little something from AkcaVPN at the door.
+
+A little extra love for our people
+
+Priority RSVP approval for:
+
+- AkcaVPN+ members
+- Solana Mobile Seeker owners
+- Superteam members
+
+Limited spots, RSVP approval required.
+
+Hosted by AkcaVPN (https://akcavpn.com/) × Superteam Türkiye (https://tr.superteam.fun/).
+
+### About AkcaVPN
+
+Your favourite Solana VPN.
+
+For your travels, games & trades.
+
+And yes, we actually use Solana under the VPN.
+
+Available on Solana Mobile, iOS, macOS, Windows & Android.
+
+akcavpn.com (https://akcavpn.com)
+
+### About Superteam Türkiye
+
+Superteam Türkiye is the central hub for Web3 builders, founders, and creatives in Türkiye. Connecting local talent with global opportunities across the Solana ecosystem, Superteam Türkiye supports the community through grants, bounties, investor connections, developer resources, and IRL experiences.
+
+From building together to celebrating together, we're bringing the community to London for one more night beyond the conference.
+
+tr.superteam.fun (https://tr.superteam.fun/)
+
+Interested in sponsoring this event? reach out to contact@akca.network
 
 <a id="event-b2a17fa86cbd71cd"></a>
 
@@ -33957,7 +35377,50 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Solana's Challenges, GetBlock's Solutions: an online session on Solana RPC, indexing, Yellowstone gRPC, DoubleZero and Alpenglow.
+Solana Breakpoint 2026 runs November 15-17 at Olympia London, the first time Solana's flagship conference has come to the UK. The Solana Foundation expects more than 7,000 attendees from over 100 countries in the Victorian exhibition hall on Hammersmith Road.
+
+On November 18, GetBlock's core team, led by CEO Vasily Rudomanov, meets online to go through what we saw and heard there.
+
+We're keeping to one angle: infrastructure.
+
+Upgrades get announced from the main stage. RPC providers and trading teams then spend months building around them. That second part is our daily work, so it's where this conversation stays.
+
+Five questions on the table:
+
+- Solana data for traders. How quickly can a desk get it, and how much work does it take to turn raw chain data into something a strategy can use?
+- Indexed Solana. RPC tells you the current state of the chain. History and decoded program activity need an index, so we'll talk about who builds them and how far behind the chain head they run.
+- Yellowstone gRPC became the default way to stream accounts and transactions. Is it still the holy grail, or are raw shred feeds and Yellowstone-compatible managed streams taking over?
+- DoubleZero now carries traffic for validators holding most of Solana's stake, and its Edge feed offers raw shreds on subscription. What does a private fiber layer mean for everyone still reading data over the public internet?
+- Alpenglow, Solana's new consensus, targets finality of around 150 milliseconds, down from about 12 seconds. What it actually changes for commitment levels and confirmation logic in trading bots?
+
+Vasily has been building cloud infrastructure since 2003 and blockchain infrastructure since 2019, so expect firm opinions.
+
+Bring your own questions; we'll keep time for them, and anything that can't wait can go to Vasily on Telegram at @GetVasily.
+
+The session is online and open to anyone. Register below to get the link.
+
+### About GetBlock
+
+Headquartered in Singapore, GetBlock powers blockchain applications on more than 130 chains. Its infrastructure runs on 1,000+ servers across data centers in Frankfurt, New York, and Singapore and is SOC 2 Type II and GDPR compliant.
+
+For Solana teams, GetBlock covers the node layer and the data built on top of it:
+
+- Shared Nodes handle most RPC workloads on compute-unit plans. Teams that outgrow CU billing move to Limitless Nodes with fixed RPS and no CU caps, or to Dedicated Nodes on bare metal with unthrottled RPS.
+- Solana Market Data delivers normalized trades and OHLCV candles in windows from 1 second to 24 hours over WebSocket or HTTP. TWAP and VWAP benchmarks come on the same plan.
+- Market SQL opens Solana swap and token launch tables to plain SQL through a ClickHouse-compatible interface. It's built for backtesting and research.
+- Historical Data Streams backfill Solana history over the block range you pick and deliver it as filtered JSON into your own database or cloud storage, with reorgs handled on our side.
+
+Solana nodes: https://getblock.io/nodes/sol/
+
+Solana Market Data: https://getblock.io/solana-market-data/
+
+Market SQL: https://getblock.io/market-sql/
+
+Historical Data Streams: https://getblock.io/historical-data-streams
+
+Give us a follow: getblockio (https://x.com/getblockio?utm_source=luma)
+
+Or read our exclusive H1 infrastructure report: https://getblock.io/web3-infra-report
 
 <a id="event-38ef5168481d4057"></a>
 

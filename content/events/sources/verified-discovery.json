@@ -8668,7 +8668,7 @@
   },
   {
     "name": "NEAR x Ondo Mixer @ DASLondon",
-    "description": "NEAR Foundation and Ondo Finance host a mixer during Digital Asset Summit London for teams working on tokenized assets and onchain financial infrastructure. Discussion topics include their tokenized stock and ETF integration, confidential trading and cross-chain access. Registration requires approval.",
+    "description": "Join NEAR and Ondo Finance for an evening of drinks and conversation during Digital Asset Summit London.\n\nEarlier this fall, NEAR and Ondo teamed up to bring tokenized US stocks and ETFs to near.com (https://near.com), giving users onchain access to names like NVDA, TSLA, AAPL, and SPY from any of 30+ chains, with confidential trading and no brokerage account required. The same integration is available to wallets, exchanges, and apps through NEAR Intents.\n\nThis mixer brings together the people behind that work and the wider community building where traditional markets and onchain infrastructure meet. Come meet the NEAR and Ondo teams, swap notes with founders, institutional leaders, and builders, and talk through where tokenization, confidential trading, and cross-chain access are heading.\n\nSpace is limited, so please register to reserve your spot. Registration is subject to approval.",
     "startDate": "2026-11-11T18:00:00.000Z",
     "endDate": "2026-11-11T21:00:00.000Z",
     "timezone": "Europe/London",
@@ -8688,7 +8688,7 @@
     "sourceVerification": {
       "url": "https://luma.com/wdgr3mvf",
       "eventId": "evt-XJ9Iuk18S1g2ZzT",
-      "fetchedAt": "2026-10-20T09:31:16.105Z",
+      "fetchedAt": "2026-11-10T12:32:04.805Z",
       "method": "luma-page"
     },
     "registrationAvailability": "open",
@@ -8707,26 +8707,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/wdgr3mvf",
-      "fetchedAt": "2026-10-20T09:31:16.105Z",
+      "fetchedAt": "2026-11-10T12:32:04.805Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "NEAR x Ondo Mixer @ DASLondon · Luma",
-      "sha256": "039713190fea1c8882997d546e1b74317c630b68b1ce6970d52de58f81c904e9",
-      "evidence": [
-        {
-          "url": "https://luma.com/wdgr3mvf",
-          "fetchedAt": "2026-10-20T08:53:45.332Z",
-          "sha256": "e3bfcbd8e3c6ea4b1f4989aea03b1a5ca355650b4458ec16585921c7154584a2",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ excerpts; hidden location reduced to city/country; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/wdgr3mvf",
-          "fetchedAt": "2026-10-20T09:31:16.105Z",
-          "sha256": "5df3083b1b1f980ab813a94ce0eb30ca1391b80a688a5022cd1dbbfee9384ab9",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "64e8c567c8520ade48c0d2dc8d4073a35c977ac84a834a67f44b806cd188e18a"
     },
     "id": "discovery-evt-XJ9Iuk18S1g2ZzT",
     "url": "https://luma.com/wdgr3mvf",
@@ -8739,7 +8723,7 @@
   },
   {
     "name": "The LOCAL W.M.C - Breakpoint/DAS Edition",
-    "description": "LO:TECH and Superteam UK host a crypto community social at Bethnal Green Working Men's Club during DAS and Breakpoint week. The programme includes a live Oasis tribute band and a DJ until 01:00. Applications are reviewed and an approved ticket is required for entry.",
+    "description": "## This is the biggest, most audacious and most daft Local event we’ve ever done...\n\n## Free booze all night, loads of giveaways and prizes, a late licence with DJ till 1am... oh yeah and an Oasis tribute band playing live.\n\nAll in the most ridiculous and fantastic venue in East London... \n\nFor the regulars who've been before - you know the score. For the uninitiated - The LOCAL WMC is a piss-up social/party event for the crypto/tech community. No mercenary BDing, no hustling for business. \n\nWe've scheduled it for thirsty thursday, slap bang between DAS and Breakpoint, the week when most of our industry is in London at once.\n\nDoors at 7pm. Get down early. It’s first come first serve, you can maximise the bar tab, and our community partner Polystation (https://x.com/PolyStationApp) are giving everyone a free £10 bet for the England v Croatia game that happens later in the evening.\n\nEngineers and interns very welcome. BDs tolerated...\n(applications will be reviewed - no ticket, no entry)\n\n--\n\nhttps://www.youtube.com/@thelocalwmc\nhttps://x.com/TheLocalWMC\n\n------\n\nAbout LO:TECH\n\nLO:TECH is a capital markets firm for the onchain world.\n\nMarket making, data and execution, powered by the same systems we use to trade in live markets.\n\nHeadquartered in London, trading globally 24/7.\n\nhttps://lo.tech\nhttps://x.com/lo_tech\n\n------\nCOMMUNITY PARTNER\n------\n\nAbout Polystation \n\nPolyStation is a new way to bet on sports.\n\nThink you know ball?\n\nPut THEIR money where your mouth is \n\nFree bets for the England v Croatia game (12th November), free-er bets for those who can split the G.\n\nCOME ON INGERLAND 󠁧󠁢󠁥󠁮󠁧󠁿\n\nhttps://x.com/PolyStationApp",
     "startDate": "2026-11-12T19:00:00.000Z",
     "endDate": "2026-11-13T01:00:00.000Z",
     "timezone": "Europe/London",
@@ -8769,7 +8753,7 @@
     "sourceVerification": {
       "url": "https://luma.com/lo-qqld",
       "eventId": "evt-no4dPWhKPtAMNU0",
-      "fetchedAt": "2026-10-20T09:31:17.083Z",
+      "fetchedAt": "2026-11-10T12:32:12.369Z",
       "method": "luma-page"
     },
     "registrationAvailability": "open",
@@ -8792,26 +8776,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/lo-qqld",
-      "fetchedAt": "2026-10-20T09:31:17.083Z",
+      "fetchedAt": "2026-11-10T12:32:12.369Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "The LOCAL W.M.C - Breakpoint/DAS Edition · Luma",
-      "sha256": "fbb8bb2f93e831ba3ebcc2c9ec09e855ece400c11a908e35d4a1db3657188d34",
-      "evidence": [
-        {
-          "url": "https://luma.com/lo-qqld",
-          "fetchedAt": "2026-10-20T08:52:31.977Z",
-          "sha256": "388d117a500c5814a9826053f1bd229216c25232bc44776a2c927d174a0d8f82",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ field excerpts; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/lo-qqld",
-          "fetchedAt": "2026-10-20T09:31:17.083Z",
-          "sha256": "48e2919526983a91cd615b2726820705a4263604abce398a9b21a39cbc6a3f5e",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "40a8ab5a9e7d673276ed9951a1b62ed6e4683037b91d2bc0babd78d9787808ad"
     },
     "id": "discovery-evt-no4dPWhKPtAMNU0",
     "url": "https://luma.com/lo-qqld",
@@ -8831,7 +8799,7 @@
   },
   {
     "name": "Solana ⚽ Cup at Breakpoint",
-    "description": "Cesto is hosting a football tournament during Breakpoint in London for ecosystem projects, Superteams and community players. Further tournament details will be announced through the organizer's linked community channel. The venue is not publicly disclosed.",
+    "description": "Cesto & BONK are hosting a football tournament at Breakpoint in London. Sign up to stay tuned!\n\nCome join to play as an ecosystem project, Superteam, or just as community that loves football and a pint. We're here for it\n\nJoin here: https://t.me/solanafootball\n\nAbout Cesto\n\nCesto is lets you invest into baskets for ideas, themes and narratives in one click on Solana. Learn more at cesto.co (https://cesto.co)\n\nAbout BONK\n\nBONK is the community token of Solana and one of the most recognized brands in consumer crypto. What started as a token for the people has grown into a full onchain ecosystem spanning trading, gaming and collectibles, powered by one of the largest and most active communities in Web3, with over 1 million unique wallet holders. Learn more at bonkcoin.com (https://bonkcoin.com).",
     "startDate": "2026-11-14T10:00:00.000Z",
     "endDate": "2026-11-14T16:00:00.000Z",
     "timezone": "Europe/London",
@@ -8855,7 +8823,7 @@
     "sourceVerification": {
       "url": "https://luma.com/5sf70a63",
       "eventId": "evt-gKhtfAiuAFPHESR",
-      "fetchedAt": "2026-10-20T09:31:19.037Z",
+      "fetchedAt": "2026-11-10T12:32:21.174Z",
       "method": "luma-page"
     },
     "registrationAvailability": "open",
@@ -8873,26 +8841,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/5sf70a63",
-      "fetchedAt": "2026-10-20T09:31:19.037Z",
+      "fetchedAt": "2026-11-10T12:32:21.174Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Solana ⚽ Cup at Breakpoint · Luma",
-      "sha256": "e50628a0973c0020cd9b2e17bfc317d3442358d52bbbd8d471d4b38c8b6c7eb9",
-      "evidence": [
-        {
-          "url": "https://luma.com/5sf70a63",
-          "fetchedAt": "2026-10-20T08:53:40.277Z",
-          "sha256": "4c09da46e4542ffe0f9bf68c7f4ada44f35000a2af341e8d3560814edabe974f",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ excerpts; city from explicit public prose; no private venue/map extraction; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/5sf70a63",
-          "fetchedAt": "2026-10-20T09:31:19.037Z",
-          "sha256": "d5ddf6ff9163631d6c67c6b9348997e810b4bc1d3346c50f333ab10b40276427",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "3ce9677042af39261a5d3bbd56a19b9d878199bd6378118396026c9e45995597"
     },
     "id": "discovery-evt-gKhtfAiuAFPHESR",
     "url": "https://luma.com/5sf70a63",
@@ -8901,7 +8853,7 @@
   },
   {
     "name": "Solana Fitness Zone: Dynamic Pilates | Breakpoint 2026",
-    "description": "Solana Foundation and OFFLINE host a mat-based Pilates class for founders and builders at Breakpoint. The class uses flowing floor exercises without machines and welcomes all fitness levels. Bring water and fitness clothing; registration requires approval.",
+    "description": "Join us at Solana Fitness Zone at Breakpoint London 2026 for a dynamic floor Pilates class for founders + builders, hosted by Solana Foundation (https://solana.org/) x Ottersec (https://osec.io/) x OFFLINE (https://x.com/getofflinexyz?utm_source=luma).\n\nWhat’s dynamic Pilates? A faster-paced take on classic Pilates that flows from one core-strengthening move to the next. This class is done on the floor (mat-based, no machines), and it builds strength, flexibility, and balance at any fitness level. Inclusive of all genders :)\n\n Dress in comfortable fitness apparel, bring water, and be ready to move.You can RSVP with a paid or free ticket.\n\nA paid ticket guarantees entry. Free tickets will be approved closer to the event, once we have a clear headcount. Please RSVP only if you plan to attend.\n\nThank You to Our Partners \n\nSolana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem.\n\nOttersec (https://osec.io/) works with leading teams across multiple blockchains to provide a holistic and collaborative approach to security.\n\nOFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto.\n\nSolana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana.\n\nCUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey.\n\n​​​ Want to be a brand partner? DM @lenagrundhoefer on Telegram\n Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more",
     "startDate": "2026-11-15T08:00:00.000Z",
     "endDate": "2026-11-15T08:45:00.000Z",
     "timezone": "Europe/London",
@@ -8925,7 +8877,7 @@
     "sourceVerification": {
       "url": "https://luma.com/solanapilates1",
       "eventId": "evt-JgYTRzXo6yWgqCd",
-      "fetchedAt": "2026-10-20T09:31:19.659Z",
+      "fetchedAt": "2026-11-10T12:32:27.170Z",
       "method": "luma-page"
     },
     "registrationAvailability": "open",
@@ -8944,26 +8896,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/solanapilates1",
-      "fetchedAt": "2026-10-20T09:31:19.659Z",
+      "fetchedAt": "2026-11-10T12:32:27.170Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Solana Fitness Zone: Dynamic Pilates | Breakpoint 2026 · Luma",
-      "sha256": "d9d2c2b37fb2a7c372d84eb1f05e1de09f5a15d512c0ba80353be35c6de16612",
-      "evidence": [
-        {
-          "url": "https://luma.com/solanapilates1",
-          "fetchedAt": "2026-10-20T08:53:41.944Z",
-          "sha256": "25662480a84210ccfb80f924cedf16de3996b20e03155f284445a40b30101810",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/solanapilates1",
-          "fetchedAt": "2026-10-20T09:31:19.659Z",
-          "sha256": "e8abb6f0f9fb227e6d4760598920c993c68174bd91b081f451befa3347739938",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "8c362433cfa0a0b4b9c5db9d9e297f0a474d8e0647a804dd79ba1662bc2028a7"
     },
     "id": "discovery-evt-JgYTRzXo6yWgqCd",
     "url": "https://luma.com/solanapilates1",
@@ -8973,7 +8909,7 @@
   },
   {
     "name": "Tilt Pay Morning Coffee | Breakpoint '26",
-    "description": "The Tilt Pay team hosts a Sunday breakfast with coffee and croissants before Breakpoint. This is an informal social, with no panels. Attendance requires host approval and the address is shared with registered guests.",
+    "description": "Need a breather before diving into the Breakpoint madness?\n\nJoin the Tilt Pay team for a chill Sunday morning breakfast. No panels, no loud music, no aggressive networking just good vibes, fresh croissants, and specialty coffee to start your day right.",
     "startDate": "2026-11-15T08:30:00.000Z",
     "endDate": "2026-11-15T10:00:00.000Z",
     "timezone": "Europe/London",
@@ -8997,7 +8933,7 @@
     "sourceVerification": {
       "url": "https://luma.com/kk8dr4ty",
       "eventId": "evt-P1laFzLdOaT7vik",
-      "fetchedAt": "2026-10-20T09:31:20.176Z",
+      "fetchedAt": "2026-11-10T12:32:27.835Z",
       "method": "luma-page"
     },
     "registrationAvailability": "open",
@@ -9016,26 +8952,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/kk8dr4ty",
-      "fetchedAt": "2026-10-20T09:31:20.176Z",
+      "fetchedAt": "2026-11-10T12:32:27.835Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Tilt Pay Morning Coffee | Breakpoint '26 · Luma",
-      "sha256": "09779ec5df0b32f4af05127c64de02cdf7d5a04c9c433b765072f340d3e451d6",
-      "evidence": [
-        {
-          "url": "https://luma.com/kk8dr4ty",
-          "fetchedAt": "2026-10-20T08:53:44.443Z",
-          "sha256": "a6d947cba8b97c9fd0529dc01ce16724e05cfa494e18ffab86ea7bfd4cc2a96c",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/kk8dr4ty",
-          "fetchedAt": "2026-10-20T09:31:20.176Z",
-          "sha256": "39dfd43da7fc1f78db4663c399298c820e6fc8d8239fedcdfb85bfb3868d35bb",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "cb2230f96240712ba353a5ebed6c95ae5f262c0696846577fd239b9a852497b2"
     },
     "id": "discovery-evt-P1laFzLdOaT7vik",
     "url": "https://luma.com/kk8dr4ty",
@@ -9044,7 +8964,7 @@
   },
   {
     "name": "Solana Fitness Zone: Women of Solana Yoga by OFFLINE | Breakpoint 2026",
-    "description": "Lena Grundhoefer leads an all-levels yoga class for female founders and builders on Solana. The class starts with an active yang flow and moves into slower yin poses, followed by a 30-minute community gathering. Solana Foundation and OFFLINE host the session; registration requires approval.",
+    "description": "Join us at Breakpoint London 2026 for our inaugural Women of Solana Yoga class, bringing together female founders + builders on Solana, hosted by Solana Foundation (https://solana.org/) x Proxima (https://proxima.tools/) x OFFLINE (https://x.com/getofflinexyz?utm_source=luma).\n\nLed by OFFLINE's Lena Grundhoefer (https://x.com/lenagrundhoefer), this all-levels yoga class is your chance to trade pitch decks for presence and performance for practice. Designed to ground ambitious minds and calm overclocked systems, it’s the perfect pre-conference ritual.\n\nWhat's the yoga class format? We’ll start with yang, an active, energizing flow that builds heat and strength, then ease into yin, where you hold slow, supported poses to release tension and deeply relax. No experience needed. We'll have a 30-min networking session after!\n\n Come in all black fitness apparel and bring water.\n Arrive early to guarantee entry.\n Stay after for a networking session + goodies to take home.\n\nThank You to Our Partners \n\nSolana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem.\n\nProxima (https://proxima.tools/)is a premium all-in-one infrastructure layer for token management.\n\nOFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto.\n\nSocure (https://www.socure.com/?utm_source=luma) is the leading identity verification platform, trusted by 3,000+ companies across 20 industries—including 18 of the top 20 banks and top 5 global crypto exchanges, infrastructure platforms and wallet providers. \n\n​Flojo (https://drinkflojo.com/?utm_source=luma) isn't just another energy drink. It's your focus upgrade. Less caffeine, more clarity.\n\nSolana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana.\n\nCUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey.\n\n​​​ Want to be a brand partner? DM @lenagrundhoefer on Telegram\n Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more",
     "startDate": "2026-11-15T09:00:00.000Z",
     "endDate": "2026-11-15T10:30:00.000Z",
     "timezone": "Europe/London",
@@ -9068,7 +8988,7 @@
     "sourceVerification": {
       "url": "https://luma.com/womenofsolana",
       "eventId": "evt-F0ZHBEyHynGIlVo",
-      "fetchedAt": "2026-10-20T09:31:20.715Z",
+      "fetchedAt": "2026-11-10T12:32:29.489Z",
       "method": "luma-page"
     },
     "registrationAvailability": "open",
@@ -9087,26 +9007,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/womenofsolana",
-      "fetchedAt": "2026-10-20T09:31:20.715Z",
+      "fetchedAt": "2026-11-10T12:32:29.489Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Solana Fitness Zone: Women of Solana Yoga by OFFLINE | Breakpoint 2026 · Luma",
-      "sha256": "f2c10795f107cc9a70fa4f1c8eef633929860483ff547002741753344d238803",
-      "evidence": [
-        {
-          "url": "https://luma.com/womenofsolana",
-          "fetchedAt": "2026-10-20T08:53:42.776Z",
-          "sha256": "1415df3f84b54399a2bee2d776f3082e430e0e0e343b82a7071d403f7274acbe",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/womenofsolana",
-          "fetchedAt": "2026-10-20T09:31:20.715Z",
-          "sha256": "2ec97955551dbd38f6fc3c68734e4305ef016bc4a52ae78eef425401c51d29ab",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "3286a287d0284d31cd9cb9132bbdd0eb9fe49d9e9d0ab2248d860349ee8490dc"
     },
     "id": "discovery-evt-F0ZHBEyHynGIlVo",
     "url": "https://luma.com/womenofsolana",
@@ -9115,7 +9019,7 @@
   },
   {
     "name": "Solana Fitness Zone: Mental Reset Workshop | Breakpoint 2026",
-    "description": "Solana Foundation and OFFLINE host a guided session for founders and builders to pause and refocus before the conference. No prior experience is needed. Registration requires approval and space is limited.",
+    "description": "Join us at Solana Fitness Zone at Breakpoint London for a Mental Reset Workshop led by Jessica Dionne (https://x.com/yesjess) for founders + builders, hosted by Solana Foundation (https://solana.org/) x Proxima (https://proxima.tools/) x OFFLINE (https://x.com/getofflinexyz?utm_source=luma).\n\nWhat’s a mental reset? A guided session of simple, practical tools to slow down, clear mental clutter, and refocus ahead of the conference. It’s a chance to start your day off right to reset and recharge your mind, and no experience is needed.\n\n Just bring yourself and an open mind. You can RSVP with a paid or free ticket.\n\nA paid ticket guarantees entry. Free tickets will be approved closer to the event, once we have a clear headcount. Please RSVP only if you plan to attend.\n\nThank You to Our Partners \n\nSolana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem.\n\nProxima (https://proxima.tools/) is a premium all-in-one infrastructure layer for token management.\n\nOFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto.\n\nSolana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana.\n\nCUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey.\n\n​​​ Want to be a brand partner? DM @lenagrundhoefer on Telegram\n Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more",
     "startDate": "2026-11-15T10:45:00.000Z",
     "endDate": "2026-11-15T11:45:00.000Z",
     "timezone": "Europe/London",
@@ -9139,7 +9043,7 @@
     "sourceVerification": {
       "url": "https://luma.com/solanareset",
       "eventId": "evt-vL3kHCN39reaPwE",
-      "fetchedAt": "2026-10-20T09:31:21.225Z",
+      "fetchedAt": "2026-11-10T12:32:30.821Z",
       "method": "luma-page"
     },
     "registrationAvailability": "open",
@@ -9159,26 +9063,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/solanareset",
-      "fetchedAt": "2026-10-20T09:31:21.225Z",
+      "fetchedAt": "2026-11-10T12:32:30.821Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Solana Fitness Zone: Mental Reset Workshop | Breakpoint 2026 · Luma",
-      "sha256": "af709dfcfc8213f7eda8b53de027d6bfd18960bff8ec0bd1e874e9a7cdb8651d",
-      "evidence": [
-        {
-          "url": "https://luma.com/solanareset",
-          "fetchedAt": "2026-10-20T08:53:43.745Z",
-          "sha256": "8ee6585e6761a7dc8ec40284146e95a56c09b8f6ee98aa4419be86847ff4be22",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/solanareset",
-          "fetchedAt": "2026-10-20T09:31:21.225Z",
-          "sha256": "ddd7b0679cffc0b7af2eaa029a2febbc95d95e78b76ebdba98d02c18c09662be",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "a6e6978745695268a24c8ad4900f2efa2ee030088366fb76c3d13b40eb9a238e"
     },
     "id": "discovery-evt-vL3kHCN39reaPwE",
     "url": "https://luma.com/solanareset",
@@ -9187,7 +9075,7 @@
   },
   {
     "name": "Solana Fitness Zone: Dynamic Pilates | Breakpoint 2026",
-    "description": "The November 16 Pilates session at Breakpoint is a mat-based class for founders and builders, hosted by Solana Foundation and OFFLINE. It uses flowing floor exercises without machines and welcomes all fitness levels. Registration requires approval.",
+    "description": "Join us at Solana Fitness Zone at Breakpoint London 2026 for a dynamic floor Pilates class for founders + builders, hosted by Solana Foundation (https://solana.org/) x OFFLINE (https://x.com/getofflinexyz?utm_source=luma).\n\nWhat’s dynamic Pilates? A faster-paced take on classic Pilates that flows from one core-strengthening move to the next. This class is done on the floor (mat-based, no machines), and it builds strength, flexibility, and balance at any fitness level. Inclusive of all genders :)\n\n Dress in comfortable fitness apparel, bring water, and be ready to move. You can RSVP with a paid or free ticket.\n\nA paid ticket guarantees entry. Free tickets will be approved closer to the event, once we have a clear headcount. Please RSVP only if you plan to attend.\n\nThank You to Our Partners \n\nSolana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem.\n\nOFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto.\n\nSolana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana.\n\nCUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey.\n\n​​​ Want to be a brand partner? DM @lenagrundhoefer on Telegram\n Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more",
     "startDate": "2026-11-16T07:00:00.000Z",
     "endDate": "2026-11-16T07:50:00.000Z",
     "timezone": "Europe/London",
@@ -9211,7 +9099,7 @@
     "sourceVerification": {
       "url": "https://luma.com/solanapilates2",
       "eventId": "evt-dG5O5F5HU9O4ikF",
-      "fetchedAt": "2026-10-20T09:31:21.566Z",
+      "fetchedAt": "2026-11-10T12:32:49.216Z",
       "method": "luma-page"
     },
     "registrationAvailability": "open",
@@ -9230,26 +9118,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/solanapilates2",
-      "fetchedAt": "2026-10-20T09:31:21.566Z",
+      "fetchedAt": "2026-11-10T12:32:49.216Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Solana Fitness Zone: Dynamic Pilates | Breakpoint 2026 · Luma",
-      "sha256": "7a3c9cab0ac1ba50267813fbfe2593ca721f76ba40e1749d577546b5cfdbe27c",
-      "evidence": [
-        {
-          "url": "https://luma.com/solanapilates2",
-          "fetchedAt": "2026-10-20T08:54:58.120Z",
-          "sha256": "a624f261a708cf2acb5ec6bbf920d77a98e3e0370d1d8abd3ac3b66d8a24bb94",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/solanapilates2",
-          "fetchedAt": "2026-10-20T09:31:21.566Z",
-          "sha256": "d1a2e866164b536611dae604f5502eab999881863a18a54db4811bfbe4decf1f",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "c113996fb19ccffaae31297564830d0a1941d5f283f912e1a25b7af36170bd33"
     },
     "id": "discovery-evt-dG5O5F5HU9O4ikF",
     "url": "https://luma.com/solanapilates2",
@@ -9259,7 +9131,7 @@
   },
   {
     "name": "Solana Fitness Zone: Group Boxing | Breakpoint 2026",
-    "description": "Lisa from Loofta leads a boxing-inspired class combining punching sequences, footwork and conditioning drills for founders and builders at Breakpoint. Solana Foundation and OFFLINE host the session. No boxing experience is required; registration is subject to approval.",
+    "description": "Join us at Solana Fitness Zone at Breakpoint London 2026 for a group boxing class by Lisa from Loofta (https://x.com/lisabeyy) for founders + builders, hosted by Solana Foundation (https://solana.org/) x Proxima Tools (https://proxima.tools/) x OFFLINE (https://x.com/getofflinexyz?utm_source=luma).\n\nWhat’s group boxing? A high-energy, boxing-inspired workout that mixes punching combinations, footwork, and conditioning drills. It builds cardio, strength, and coordination, and it’s a great way to blow off steam between conference sessions. No experience needed, and it’s scalable to any fitness level. Inclusive of all genders :)\n\n Dress in comfortable fitness apparel, bring water, and be ready to work. You can RSVP with a paid or free ticket.\n\nA paid ticket guarantees entry. Free tickets will be approved closer to the event, once we have a clear headcount. Please RSVP only if you plan to attend.\n\nThank You to Our Partners \n\nSolana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem.\n\nProxima (https://proxima.tools/) is a premium all-in-one infrastructure layer for token management.\n\nOFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto.\n\nSolana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana.\n\nCUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey.\n\n​​​ Want to be a brand partner? DM @lenagrundhoefer on Telegram\n Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more",
     "startDate": "2026-11-16T08:00:00.000Z",
     "endDate": "2026-11-16T08:45:00.000Z",
     "timezone": "Europe/London",
@@ -9283,7 +9155,7 @@
     "sourceVerification": {
       "url": "https://luma.com/solanaboxing",
       "eventId": "evt-yqbouX052XUmpA8",
-      "fetchedAt": "2026-10-20T09:31:22.187Z",
+      "fetchedAt": "2026-11-10T12:32:50.277Z",
       "method": "luma-page"
     },
     "registrationAvailability": "open",
@@ -9303,26 +9175,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/solanaboxing",
-      "fetchedAt": "2026-10-20T09:31:22.187Z",
+      "fetchedAt": "2026-11-10T12:32:50.277Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Solana Fitness Zone: Group Boxing | Breakpoint 2026 · Luma",
-      "sha256": "4718444e1892820e3606c09ee92ef3743f1cbf0a09b089568361e7d5e25535ea",
-      "evidence": [
-        {
-          "url": "https://luma.com/solanaboxing",
-          "fetchedAt": "2026-10-20T08:54:58.876Z",
-          "sha256": "f277f05051bf3f14bea352b6bc68da1ccb23532844691483fda4676892dc6ed2",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/solanaboxing",
-          "fetchedAt": "2026-10-20T09:31:22.187Z",
-          "sha256": "514ac3bfdb79f1c46aa72047bb5c230725cff7965e3c15d689b795569c6178b9",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "8a461cd190903a11c3e7c9b28279d3a82cb696b9258ac8caa964e2115c6cec58"
     },
     "id": "discovery-evt-yqbouX052XUmpA8",
     "url": "https://luma.com/solanaboxing",
@@ -9331,7 +9187,7 @@
   },
   {
     "name": "Solana Fitness Zone: Rise & Shine Yoga by MonkeDAO | Breakpoint 2026",
-    "description": "MonkeDAO member Mila leads a gentle yoga flow before the Breakpoint conference day. Solana Foundation and MonkeDAO host the session, which links movement with breathing and welcomes beginners. Registration requires approval.",
+    "description": "Join us at Breakpoint London 2026 for our Rise & Shine Yoga class hosted by fellow MonkeDAO’s CamilaCamilaki (https://x.com/camilacamilaki?s=11). This class is hosted by Solana Foundation (https://solana.org/) x MonkeDAO (https://monkedao.io/).\n\nLed by MonkeDAO member Mila, this class is the perfect way to wake up your body before the conference day ahead.\n\nWhat’s a yoga flow? A gentle, moving practice that glides from one pose to the next, syncing each movement with your breath. It builds strength and flexibility while calming the mind, and no experience is needed.\n\n Come in all black and bring water. \n Arrive early to guarantee entry.\n Stay after for a networking session + goodies to take home.\n\nThank You to Our Partners \n\nSolana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem.\n\nMonkeDAO (https://x.com/monkedao?utm_source=luma) is the Premier Web3 Country Club and the first community-owned and operated NFT DAO on Solana.\n\nOFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto.\n\n​Flojo (https://drinkflojo.com/?utm_source=luma) isn't just another energy drink. It's your focus upgrade. Less caffeine, more clarity.\n\nSolana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana.\n\nCUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey.\n\nCamila (https://x.com/camilacamilaki?s=11) offers dynamic, breath-led yoga with an adaptable and mindful approach, creating space to move, reset, and reconnect with the body beyond the screen.\n\n​​​ Want to be a brand partner? DM @lenagrundhoefer on Telegram\n Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more",
     "startDate": "2026-11-16T09:00:00.000Z",
     "endDate": "2026-11-16T10:30:00.000Z",
     "timezone": "Europe/London",
@@ -9355,7 +9211,7 @@
     "sourceVerification": {
       "url": "https://luma.com/monkesflow",
       "eventId": "evt-IME1HwTy1ywWmub",
-      "fetchedAt": "2026-10-20T09:31:22.412Z",
+      "fetchedAt": "2026-11-10T12:32:51.278Z",
       "method": "luma-page"
     },
     "registrationAvailability": "open",
@@ -9376,26 +9232,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/monkesflow",
-      "fetchedAt": "2026-10-20T09:31:22.412Z",
+      "fetchedAt": "2026-11-10T12:32:51.278Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Solana Fitness Zone: Rise & Shine Yoga by MonkeDAO | Breakpoint 2026 · Luma",
-      "sha256": "8e9f38f6a55b34cd656fe3d846957905219fbeada627775f362cdd3ce9933b86",
-      "evidence": [
-        {
-          "url": "https://luma.com/monkesflow",
-          "fetchedAt": "2026-10-20T08:54:59.563Z",
-          "sha256": "5ffd73811e36edda35a5c1799470cea6dba896365b723c800810224ded76c1b1",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/monkesflow",
-          "fetchedAt": "2026-10-20T09:31:22.412Z",
-          "sha256": "d312b803ee49a0b3d708a36a67bac5e5064bd3d35f1101071bb4fd3a302b939d",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "4a2cd5847cbca573232ee2988e6613f0f1521969adee59b00593c142402f8733"
     },
     "id": "discovery-evt-IME1HwTy1ywWmub",
     "url": "https://luma.com/monkesflow",
@@ -9547,7 +9387,7 @@
   },
   {
     "name": "Solana Fitness Zone: Sound Healing & Breathwork | Breakpoint 2026",
-    "description": "Solana Foundation and OFFLINE host guided breathing exercises paired with a sound bath for founders and builders at Breakpoint. No prior experience is needed. Registration requires approval and attendees are asked to arrive early.",
+    "description": "Join us at Solana Fitness Zone at Breakpoint London 2026 for a Sound Healing & Breathwork session for founders + builders, hosted by Solana Foundation (https://solana.org/) x Ottersec (https://osec.io/) x OFFLINE (https://x.com/getofflinexyz?utm_source=luma).\n\nWhat’s sound healing & breathwork? Guided breathing exercises paired with a sound bath, where you lie back and let soothing sounds wash over you. Together, they help you slow down, release tension, and clear your mind, so you can recharge ahead of the conference. No experience needed.\n\n Just bring yourself and an open mind.You can RSVP with a paid or free ticket.\n\nA paid ticket guarantees entry. Free tickets will be approved closer to the event, once we have a clear headcount. Please RSVP only if you plan to attend.\n\nThank You to Our Partners \n\nSolana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem.\n\nOttersec (https://osec.io/) works with leading teams across multiple blockchains to provide a holistic and collaborative approach to security.\n\nOFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto.\n\nSolana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana.\n\nCUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey.\n\n​​​ Want to be a brand partner? DM @lenagrundhoefer on Telegram\n Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more",
     "startDate": "2026-11-17T09:00:00.000Z",
     "endDate": "2026-11-17T09:50:00.000Z",
     "timezone": "Europe/London",
@@ -9571,7 +9411,7 @@
     "sourceVerification": {
       "url": "https://luma.com/solanasoundheals",
       "eventId": "evt-nn6OreUXqAcO2wA",
-      "fetchedAt": "2026-10-20T09:31:24.284Z",
+      "fetchedAt": "2026-11-10T13:00:10.224Z",
       "method": "luma-page"
     },
     "registrationAvailability": "open",
@@ -9590,26 +9430,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/solanasoundheals",
-      "fetchedAt": "2026-10-20T09:31:24.284Z",
+      "fetchedAt": "2026-11-10T13:00:10.224Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Solana Fitness Zone: Sound Healing & Breathwork | Breakpoint 2026 · Luma",
-      "sha256": "96f4825ea2bc59fa30f1aa9267bd1623aad7137d83badee517534706c383b269",
-      "evidence": [
-        {
-          "url": "https://luma.com/solanasoundheals",
-          "fetchedAt": "2026-10-20T08:55:02.202Z",
-          "sha256": "c78591e6e47e691e9e3181ae28e5e99fb44360ce2e09c9b981b94ea370b66376",
-          "retrievedVia": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/solanasoundheals",
-          "fetchedAt": "2026-10-20T09:31:24.284Z",
-          "sha256": "e896109d4ad06f52c5d278ed56543d154d65f4bb6331da7b756f8b6ba520bc2c",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
+      "sha256": "13a2e6cc043bb410c30121bf34e1013d9bc878a39aa646732043ae1277970c66"
     },
     "id": "discovery-evt-nn6OreUXqAcO2wA",
     "url": "https://luma.com/solanasoundheals",
