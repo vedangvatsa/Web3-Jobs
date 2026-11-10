@@ -157558,11 +157558,27 @@
       ],
       "alsoCoveredBy": [],
       "id": "075388e7ac3e24320628",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-12T19:36:02.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "reason": "duplicate",
+      "note": "Same Elliptic report on the six NEAR meme tokens, covered once in the nearmemecoin article; read the Decrypt filing and it adds no new event.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.elliptic.co/insights/north-korea-meme-coins-binance-hack/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-10T02:46:45.760Z",
+      "duplicateOf": "nearmemecoin",
+      "mergedInto": "bc1623a9df09d84b5232",
+      "lastReviewedDay": "2026-11-10"
     },
     "166ceedc7e6702fa459e": {
       "source": "Cointelegraph",
@@ -301523,6 +301539,24 @@
           ],
           "reviewedAt": "2026-11-10T02:46:42.235Z",
           "articleSlug": "nearmemecoin"
+        },
+        "075388e7ac3e24320628": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Elliptic report on the six NEAR meme tokens, covered once in the nearmemecoin article; read the Decrypt filing and it adds no new event.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.elliptic.co/insights/north-korea-meme-coins-binance-hack/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-10T02:46:45.760Z",
+          "duplicateOf": "nearmemecoin",
+          "mergedInto": "bc1623a9df09d84b5232"
         }
       },
       "baselineSlugs": [
