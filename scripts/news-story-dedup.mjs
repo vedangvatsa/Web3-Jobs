@@ -11,21 +11,6 @@ const STOP = new Set([
   'crypto', 'web3', 'bitcoin', 'ethereum',
 ]);
 
-const GENERIC = new Set([
-  ...STOP,
-  'model', 'models', 'language', 'train', 'training', 'company', 'launch',
-  'launches', 'release', 'releases', 'raise', 'raises', 'funding', 'million',
-  'billion', 'startup', 'tech', 'news', 'report', 'reports', 'using', 'used',
-  'make', 'made', 'just', 'which', 'started', 'selling', 'texts', 'industry',
-  'update', 'updates', 'feature', 'features', 'users', 'user', 'new', 'latest',
-  'first', 'year', 'years', 'today', 'week', 'deal', 'sign', 'signs',
-  'according', 'their', 'they', 'have', 'been', 'into', 'more', 'than',
-  'across', 'family', 'maker', 'closes', 'round', 'rolls',
-  // Templated market headlines share these; they are not story identities.
-  'prediction', 'pric', 'price', 'bear', 'bull', 'oversold', 'stochastic',
-  'hold', 'wheel', 'trap', 'chart', 'ded', 'befor', 'but', 'set', 'key', 'keys',
-]);
-
 /** Map outlet-specific names onto one org token so rewrites still collide. */
 const ALIASES = {
   chatgpt: 'openai',
@@ -36,6 +21,32 @@ const ALIASES = {
   llama: 'meta',
   aws: 'amazon',
 };
+
+const RAW_GENERIC = [
+  ...STOP,
+  'model', 'models', 'language', 'train', 'training', 'company', 'companies', 'launch',
+  'launches', 'launching', 'release', 'releases', 'releasing', 'raise', 'raises', 'raising',
+  'funding', 'million', 'billion', 'startup', 'startups', 'tech', 'technology', 'news',
+  'report', 'reports', 'reporting', 'using', 'used', 'make', 'makes', 'making', 'made',
+  'just', 'which', 'start', 'starts', 'started', 'starting', 'sell', 'sells', 'selling',
+  'text', 'texts', 'industry', 'update', 'updates', 'updating', 'feature', 'features',
+  'user', 'users', 'new', 'latest', 'first', 'year', 'years', 'today', 'week', 'deal',
+  'sign', 'signs', 'according', 'their', 'they', 'have', 'been', 'into', 'more', 'than',
+  'across', 'family', 'maker', 'close', 'closes', 'closing', 'round', 'rounds', 'roll',
+  'rolls', 'rolling', 'agent', 'agents', 'enterprise', 'enterprises', 'tool', 'tools',
+  'system', 'systems', 'platform', 'platforms', 'security', 'secure', 'securing', 'software',
+  'service', 'services', 'developer', 'developers', 'development', 'data', 'work', 'works',
+  'working', 'build', 'builds', 'building', 'help', 'helps', 'helping', 'scale', 'scales',
+  'scaling', 'support', 'supports', 'expand', 'expands', 'expanding', 'solution', 'solutions',
+  'market', 'markets', 'product', 'products', 'provide', 'provides', 'providing', 'plan',
+  'plans', 'planning', 'prediction', 'price', 'prices', 'bear', 'bull', 'oversold',
+  'stochastic', 'hold', 'wheel', 'trap', 'chart', 'dead', 'before', 'set', 'key', 'keys',
+];
+
+const GENERIC = new Set([
+  ...RAW_GENERIC,
+  ...RAW_GENERIC.map(stemWord),
+]);
 
 export function normalizeUrl(urlString) {
   try {

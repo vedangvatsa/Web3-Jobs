@@ -56,6 +56,10 @@ const FEEDS = [
   { url: 'https://www.wired.com/feed/tag/ai/latest/rss', source: 'Wired' },
   { url: 'https://siliconangle.com/category/ai/feed/', source: 'SiliconANGLE' },
   { url: 'https://www.technologyreview.com/feed/', source: 'MIT Tech Review' },
+  { url: 'https://the-decoder.com/feed/', source: 'The Decoder' },
+  { url: 'https://www.marktechpost.com/feed/', source: 'MarkTechPost' },
+  { url: 'https://www.zdnet.com/topic/artificial-intelligence/rss.xml', source: 'ZDNet' },
+  { url: 'https://techxplore.com/rss-feed/machine-learning-ai-news/', source: 'TechXplore' },
 ];
 
 const parser = new Parser({
@@ -335,16 +339,14 @@ async function postOnce() {
   });
   console.log(`  ${fresh.length} not yet posted`);
 
-  const MIN_STORIES = 1;
-  if (fresh.length < MIN_STORIES) {
-    console.log(`  Only ${fresh.length} fresh stories (need ${MIN_STORIES}), skipping this run`);
+  if (fresh.length < STORIES_PER_POST) {
+    console.log(`  Only ${fresh.length} fresh stories (need ${STORIES_PER_POST}), skipping this run`);
     return;
   }
 
   console.log('Asking Gemini to filter & summarize...');
   const recentHeadlines = recentCovered.filter((h) => !String(h).startsWith('fp:')).slice(-80);
-  const pickCount = Math.min(STORIES_PER_POST, fresh.length);
-  const rawStories = await filterAndSummarize(fresh, recentHeadlines, pickCount);
+  const rawStories = await filterAndSummarize(fresh, recentHeadlines, STORIES_PER_POST);
 
   // Programmatically validate and deduplicate Gemini's selection
   let stories = [];
@@ -360,14 +362,14 @@ async function postOnce() {
     const normUrl = normalizeUrl(originalItem.link);
     if (seenUrls.has(normUrl)) continue; // Duplicate URL in selection
 
-    const candidate = `${story.headline} ${story.summary || ''} ${originalItem.title}`;
+    const candidate = `${story.headline} ${originalItem.title}`;
     if (alreadyCovered(candidate, recentCovered) || alreadyCovered(story.headline, recentCovered)) {
       console.log(`⚠️ Pruned Gemini selection due to similarity with past headline: "${story.headline}"`);
       continue;
     }
     if (stories.some(s => alreadyCovered(
-      `${story.headline} ${story.summary || ''} ${originalItem.title}`,
-      [`${s.headline} ${s.summary || ''} ${s.originalTitle || ''}`]
+      candidate,
+      [`${s.headline} ${s.originalTitle || ''}`]
     ))) {
       console.log(`⚠️ Pruned Gemini selection due to similarity with another selected headline: "${story.headline}"`);
       continue;
@@ -378,11 +380,10 @@ async function postOnce() {
     stories.push(story);
   }
 
-  const targetCount = Math.min(STORIES_PER_POST, fresh.length);
-  if (stories.length < targetCount) {
-    console.log(`⚠️ Gemini selection had duplicates/errors. Got ${stories.length}/${targetCount}. Backfilling...`);
+  if (stories.length < STORIES_PER_POST) {
+    console.log(`⚠️ Gemini selection had duplicates/errors. Got ${stories.length}/${STORIES_PER_POST}. Backfilling...`);
     for (let i = 0; i < fresh.length; i++) {
-      if (stories.length >= targetCount) break;
+      if (stories.length >= STORIES_PER_POST) break;
       const idx = i + 1;
       if (seenIndices.has(idx)) continue;
 
@@ -408,14 +409,14 @@ Return ONLY JSON: {"headline": "...", "summary": "..."}`;
         if (jsonMatch) {
           const parsed = JSON.parse(jsonMatch[0]);
 
-          const candidate = `${parsed.headline} ${parsed.summary || ''} ${item.title}`;
+          const candidate = `${parsed.headline} ${item.title}`;
           if (alreadyCovered(candidate, recentCovered) || alreadyCovered(parsed.headline, recentCovered)) {
             console.log(`⚠️ Pruned backfilled story due to similarity with past headline: "${parsed.headline}"`);
             continue;
           }
           if (stories.some(s => alreadyCovered(
             candidate,
-            [`${s.headline} ${s.summary || ''} ${s.originalTitle || ''}`]
+            [`${s.headline} ${s.originalTitle || ''}`]
           ))) {
             console.log(`⚠️ Pruned backfilled story due to similarity with another selected headline: "${parsed.headline}"`);
             continue;
@@ -441,8 +442,8 @@ Return ONLY JSON: {"headline": "...", "summary": "..."}`;
   stories = uniqueNewsStories(stories);
   console.log(`  Final validated ${stories.length} stories`);
 
-  if (stories.length === 0) {
-    console.log('  No valid stories after filtering, skipping this run');
+  if (stories.length < STORIES_PER_POST) {
+    console.warn(`  Only ${stories.length}/${STORIES_PER_POST} valid stories after filtering and backfilling. Skipping to avoid posting incomplete digest.`);
     return;
   }
 
