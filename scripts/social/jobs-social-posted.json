@@ -128367,7 +128367,8 @@
       },
       "account": "profile",
       "attemptId": "59cd48fc-b7c5-4b5b-9d71-56e49509007b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x6c6707908da71ba593ec0e86bd042f6101b46951"
     }
   ]
 }
