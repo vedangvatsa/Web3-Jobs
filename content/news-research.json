@@ -157467,7 +157467,23 @@
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 0,
       "expiresAt": "2026-11-12T20:31:38.000Z",
-      "lastSeenAt": "2026-11-10T02:19:50.208Z"
+      "lastSeenAt": "2026-11-10T02:19:50.208Z",
+      "articleSlug": "warrenpred",
+      "draftProgress": {
+        "id": "bdbf8055e028b863fe42",
+        "day": "2026-11-10",
+        "articleSlug": "warrenpred",
+        "note": "Read Bitcoin Magazine Nov 9 full text on Warren's prediction-market oversight agenda sourced to a Punchbowl aide; second independent source (CNBC, Politico or The Block) and draft still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://bitcoinmagazine.com/news/elizabeth-warren-prediction-crackdown",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-10T03:05:08.843Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "bc1623a9df09d84b5232": {
       "source": "Cointelegraph",
