@@ -3477,7 +3477,7 @@
     "sentAt": "2026-11-10T11:33:13.847Z"
   },
   "50156b07-74c7-45f7-b654-b6234e9865df": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-10T19:38:32.817Z",
     "stories": [
       {
@@ -3505,6 +3505,8 @@
         "originalTitle": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles"
       }
     ],
-    "slotKey": "2026-11-10:evening"
+    "slotKey": "2026-11-10:evening",
+    "messageId": 156173,
+    "sentAt": "2026-11-10T19:38:40.844Z"
   }
 }

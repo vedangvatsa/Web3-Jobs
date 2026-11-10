@@ -923,6 +923,9 @@
   "https://hashtagweb3.com/simdnonces?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/princescams?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/warrenpred?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/blumenthaldeadline?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/vaneck-withdrawal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2675,6 +2678,12 @@
   "OFAC sanctions 41 companies tied to Prince Group scam network",
   "Warren Plans Senate Banking Scrutiny of Prediction Markets",
   "Warren to target prediction market oversight as incoming Senate Banking chair",
+  "Senator Blumenthal sets records deadline for Binance and Tether",
+  "Blumenthal sets Jan. 4 records deadline for Binance, Tether and Trump-linked crypto firms",
+  "VanEck withdraws application for Lido staked ether ETF",
+  "VanEck withdraws Lido staked ether ETF filing",
+  "Grayscale Pledges $1 Million to Zcash Nonprofits as Price Falls",
+  "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -3148,5 +3157,8 @@
   "fp:back|bank|client|conversion|corporat|currency|deposit|directly|dollar|even",
   "fp:anza|drift|durabl|earlier|effectiv|eliminat|exploit|fil|hack|may2027",
   "fp:allegedly|department|fraudulent|group|maintain|network|nomine|ofac|offshor|operation",
-  "fp:against|aid|bank|bett|chair|committe|election|incom|january|market"
+  "fp:against|aid|bank|bett|chair|committe|election|incom|january|market",
+  "fp:binanc|blumenthal|deadlin|document|firm|four|investigation|jan4|link|november30",
+  "fp:american|application|development|etf|ether|fil|fund|lido|notifi|sec",
+  "fp:advertis|bet|coin|drop|ecosystem|etf|fall|fee|firm|follow"
 ]
