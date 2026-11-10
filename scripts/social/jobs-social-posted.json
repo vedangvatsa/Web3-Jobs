@@ -126367,7 +126367,8 @@
       },
       "account": "channel:growth",
       "attemptId": "49ac89eb-e320-4955-8708-0e278a850d7b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x34e07838ddc969b2590eedc1fd751d5b5bde4513"
     }
   ]
 }
