@@ -127400,7 +127400,8 @@
       "account": "hashtag_web3",
       "attemptId": "be8e1a0f-5013-40e6-8e3c-36fe7a80bf8e",
       "verification": "pending",
-      "postId": "6af3715a6c7ea3f5e3947d89"
+      "postId": "6af3715a6c7ea3f5e3947d89",
+      "error": "Buffer X publish failed for 6af3715a6c7ea3f5e3947d89: This post contains a URL that X believes to be invalid. Please check the URL and try again."
     }
   ]
 }
