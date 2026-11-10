@@ -157483,9 +157483,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "bdbf8055e028b863fe42",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-12T20:31:38.000Z",
       "lastSeenAt": "2026-11-10T02:19:50.208Z",
       "articleSlug": "warrenpred",
@@ -157507,7 +157507,21 @@
         "updatedAt": "2026-11-10T03:14:50.571Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the Punchbowl-sourced agenda in Bitcoin Magazine Nov 9 and matched it against CNBC's Nov 9 report from the same aide; both sources opened and read, 690-word draft passes quality, formatting, image and duplicate audits, hero self-hosted from Wikimedia, both links return 200.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/elizabeth-warren-prediction-crackdown",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/09/elizabeth-warren-senate-banking-agenda.html",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-10T03:17:03.166Z",
+      "lastReviewedDay": "2026-11-10"
     },
     "bc1623a9df09d84b5232": {
       "source": "Cointelegraph",
@@ -301931,6 +301945,23 @@
           "retrySearches": [
             "Open the full PeckShield flag of the $45.3 million ETH long and find independent corroboration of any UXLink exploit connection; try an alternate outlet or cached copy of the The Defiant story"
           ]
+        },
+        "bdbf8055e028b863fe42": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Punchbowl-sourced agenda in Bitcoin Magazine Nov 9 and matched it against CNBC's Nov 9 report from the same aide; both sources opened and read, 690-word draft passes quality, formatting, image and duplicate audits, hero self-hosted from Wikimedia, both links return 200.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/elizabeth-warren-prediction-crackdown",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cnbc.com/2026/11/09/elizabeth-warren-senate-banking-agenda.html",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-10T03:17:03.166Z",
+          "articleSlug": "warrenpred"
         }
       },
       "baselineSlugs": [
