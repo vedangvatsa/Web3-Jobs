@@ -153199,7 +153199,23 @@
       "firstSeenAt": "2026-11-08T10:05:15.191Z",
       "attempts": 0,
       "expiresAt": "2026-11-10T20:30:48.000Z",
-      "lastSeenAt": "2026-11-08T10:05:15.191Z"
+      "lastSeenAt": "2026-11-08T10:05:15.191Z",
+      "articleSlug": "princescams",
+      "draftProgress": {
+        "id": "856bd37a86514cd6aa79",
+        "day": "2026-11-10",
+        "articleSlug": "princescams",
+        "note": "Opened and read CryptoSlate Nov 7 (41 entities, 4 people, Nov 5 OFAC action, ownership chain) and located the Treasury sb0683 press release plus The Record and Diplomat coverage via search; Treasury page not yet opened directly, draft and hero still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptoslate.com/us-sanctions-hit-41-companies-accused-of-keeping-prince-groups-scam-network-running/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-10T03:20:19.127Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "5f03a13435452b96a4ce": {
       "source": "CoinDesk",
