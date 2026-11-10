@@ -9302,7 +9302,7 @@
     "sentAt": "2026-11-10T11:32:39.031Z"
   },
   "15b73362-7c86-4c37-a606-78abf09e916a": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-10T19:33:13.676Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -9421,6 +9421,8 @@
       }
     ],
     "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/sls188?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Funded Startups DACH</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/eng383?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Sales Engineer</a>\n- Ondo Finance is hiring <a href=\"https://hashtagweb3.com/mgr204?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Event Manager</a>\n- Bitdeer is hiring <a href=\"https://hashtagweb3.com/cmp83?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Legal Counsel - Norway</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/ops153?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Asset/Wallet Operations</a>",
-    "slotKey": "2026-11-10:evening"
+    "slotKey": "2026-11-10:evening",
+    "messageId": 156172,
+    "sentAt": "2026-11-10T19:33:17.749Z"
   }
 }
