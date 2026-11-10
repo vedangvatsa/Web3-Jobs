@@ -5334,5 +5334,50 @@
     "slotKey": "2026-11-10:afternoon",
     "messageId": 156166,
     "sentAt": "2026-11-10T11:31:52.890Z"
+  },
+  "b01d586a-58ac-43f9-a167-667d684231ce": {
+    "status": "reserved",
+    "reservedAt": "2026-11-10T19:32:29.107Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "premier-auscryptocon-2026",
+        "slug": "auscryptocon",
+        "name": "CryptoCon Sydney 2026",
+        "startDate": "2026-11-28T09:00:00+11:00",
+        "keys": [
+          "premier-auscryptocon-2026",
+          "page:auscryptocon:2026-11-27",
+          "event:cryptoconsydney2026:2026-11-27:sydney"
+        ]
+      },
+      {
+        "id": "ma-blockchain-conference-brasil",
+        "slug": "blockchain-conference-brasil",
+        "name": "Blockchain Conference Brasil",
+        "startDate": "2026-11-28T00:00:00.000Z",
+        "keys": [
+          "ma-blockchain-conference-brasil",
+          "bcb",
+          "page:blockchain-conference-brasil:2026-11-28",
+          "event:blockchainconferencebrasil:2026-11-28:sao paulo"
+        ]
+      },
+      {
+        "id": "premier-binancebw-2026",
+        "slug": "binance-blockchain-week",
+        "name": "Binance Blockchain Week 2026",
+        "startDate": "2026-11-28T09:00:00.000Z",
+        "keys": [
+          "premier-binancebw-2026",
+          "bbw",
+          "page:binance-blockchain-week:2026-11-28",
+          "url:binanceblockchainweek.com/event/Bangkok2026/Home:2026-11-28",
+          "event:binanceblockchainweek2026:2026-11-28:bangkok"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-10:evening"
   }
 }
