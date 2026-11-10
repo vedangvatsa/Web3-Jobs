@@ -965,6 +965,9 @@
   "https://hashtagweb3.com/formation?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/princescams?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://decrypt.co/382913/nvidia-jensen-huang-sued-by-shareholders-over-alleged-ties-to-suspected-chinese-spy",
+  "https://hashtagweb3.com/bankchecks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
+  "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2794,6 +2797,12 @@
   "OFAC sanctions 41 companies tied to Prince Group scam network",
   "Shareholders Sue Nvidia CEO Over Alleged Chinese Spy Ties",
   "Nvidia, Jensen Huang Sued by Shareholders Over Alleged Ties to Suspected Chinese Spy",
+  "Regulators Inquire With Banks Following Binance Security Breach",
+  "Fed and OCC Contact Banks About Unusual Activity After the Binance Hack",
+  "Global banks commit $270 million to launch stablecoin issuer",
+  "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
+  "Higher US inflation increases likelihood of December rate hike",
+  "Hot US inflation raises odds of half-point Fed hike in December",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -3288,5 +3297,8 @@
   "fp:000|affect|ahead|await|data|economic|federal|inflation|investor|limbo",
   "fp:early2027|exemption|fil|formation|innovation|notic|plan|platform|sec|security",
   "fp:designat|dozen|entity|firm|four|group|illegal|individual|link|maintain",
-  "fp:agent|alleg|ceo|chines|disclos|fail|foreign|huang|investor|jensen"
+  "fp:agent|alleg|ceo|chines|disclos|fail|foreign|huang|investor|jensen",
+  "fp:activity|agency|bank|binanc|breach|contact|disruption|federal|follow|hack",
+  "fp:270m|bank|bet|coin|commit|compet|consortium|exist|financial|fund",
+  "fp:analyst|consumer|creat|cryptocurrency|december|expect|half|higher|hik|hot"
 ]

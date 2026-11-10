@@ -3681,7 +3681,7 @@
     "sentAt": "2026-11-10T11:38:17.722Z"
   },
   "bae354b2-ab93-4fee-80d0-e4d732e46c20": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-10T19:40:24.313Z",
     "stories": [
       {
@@ -3710,6 +3710,8 @@
         "originalTitle": "Hot US inflation raises odds of half-point Fed hike in December"
       }
     ],
-    "slotKey": "2026-11-10:evening"
+    "slotKey": "2026-11-10:evening",
+    "messageId": 65819,
+    "sentAt": "2026-11-10T19:40:31.061Z"
   }
 }
