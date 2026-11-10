@@ -157605,9 +157605,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "166ceedc7e6702fa459e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-12T18:25:29.000Z",
       "lastSeenAt": "2026-11-10T02:19:50.208Z",
       "articleSlug": "mbreopening",
@@ -157629,7 +157629,21 @@
         "updatedAt": "2026-11-10T03:02:01.705Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Cointelegraph and Estadao Nov 9 reports on the phased read-only reopening: 19:00/16:00 local start, Nov 2 balances, 33%/6M blocked, no withdrawal date; hero self-hosted from Wikimedia, quality, formatting, image and duplicate audits pass, both source links HTTP 200; distinct from mercadobitcoin.md which covered the Nov 4 announcement.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/mercado-bitcoin-reabre-acesso-apos-ataque-hacker-de-us-49-milhoes-dinheiro-segue-bloqueado/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-10T03:03:50.424Z",
+      "lastReviewedDay": "2026-11-10"
     },
     "56d2cf4da1670e15217c": {
       "source": "Bitcoin Magazine",
@@ -301791,6 +301805,23 @@
           ],
           "reviewedAt": "2026-11-10T03:00:19.145Z",
           "articleSlug": "tbtcresume"
+        },
+        "166ceedc7e6702fa459e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Cointelegraph and Estadao Nov 9 reports on the phased read-only reopening: 19:00/16:00 local start, Nov 2 balances, 33%/6M blocked, no withdrawal date; hero self-hosted from Wikimedia, quality, formatting, image and duplicate audits pass, both source links HTTP 200; distinct from mercadobitcoin.md which covered the Nov 4 announcement.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/mercado-bitcoin-reabre-acesso-apos-ataque-hacker-de-us-49-milhoes-dinheiro-segue-bloqueado/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-10T03:03:50.424Z",
+          "articleSlug": "mbreopening"
         }
       },
       "baselineSlugs": [
