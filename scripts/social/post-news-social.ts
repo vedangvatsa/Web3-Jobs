@@ -163,8 +163,8 @@ export function fallbackCaptions(article: NewsArticle): Captions {
   // Remove trailing colons or punctuation
   summary = summary.replace(/[.:;,]+$/, '').trim();
 
-  const xUrl = `${SITE_URL}/${article.slug}?utm_source=twitter&utm_medium=social&utm_campaign=news`;
-  const linkedInUrl = `${SITE_URL}/${article.slug}?utm_source=linkedin&utm_medium=social&utm_campaign=news`;
+  const xUrl = `${SITE_URL}/${article.slug}/x`;
+  const linkedInUrl = `${SITE_URL}/${article.slug}/li`;
 
   return {
     summary,
@@ -231,8 +231,8 @@ Output ONLY JSON matching:
         }
 
         if (summary) {
-          const xUrl = `${SITE_URL}/${article.slug}?utm_source=twitter&utm_medium=social&utm_campaign=news`;
-          const linkedInUrl = `${SITE_URL}/${article.slug}?utm_source=linkedin&utm_medium=social&utm_campaign=news`;
+          const xUrl = `${SITE_URL}/${article.slug}/x`;
+          const linkedInUrl = `${SITE_URL}/${article.slug}/li`;
 
           return {
             summary,
@@ -459,7 +459,7 @@ async function run() {
     if (!alreadyQueued || forceSlug) {
       try {
         console.log(`\nQueuing to Buffer LinkedIn channel (${linkedInChannelId})...`);
-        const articleUrl = `${SITE_URL}/${article.slug}?utm_source=linkedin&utm_medium=social&utm_campaign=news`;
+        const articleUrl = `${SITE_URL}/${article.slug}/li`;
         const postId = await queuePostToBuffer({
           token: bufferToken,
           channelId: linkedInChannelId,
