@@ -158139,7 +158139,7 @@
         "id": "0b1a1aaef7f626200a20",
         "day": "2026-11-10",
         "articleSlug": "tbtcresume",
-        "note": "Read Cointelegraph and Grafa full texts on Threshold's Nov. 8 partial tBTC bridge restart; draft and image still needed.",
+        "note": "Re-read Cointelegraph and Grafa full texts for Threshold's Nov 8 partial tBTC bridge restart; drafting next.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen",
@@ -158150,7 +158150,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-10T02:53:29.366Z",
+        "updatedAt": "2026-11-10T02:55:38.307Z",
         "approved": false,
         "mustReview": true
       }
