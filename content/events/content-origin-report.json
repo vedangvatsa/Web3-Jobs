@@ -54,19 +54,6 @@
       ]
     },
     {
-      "id": "luma-batch-evtBKlI1d8fbXECu",
-      "slug": "garage-housing",
-      "name": "The/Garage Cohort 2 - Housing",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/garage-housing",
-        "fetchedAt": "2026-09-23T10:57:48.000Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
       "id": "premier-bitchill-s04-2026",
       "slug": "bitchill",
       "name": "Bitchill s04",

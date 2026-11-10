@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-11-10T22:43:29.103Z",
+  "generatedAt": "2026-11-10T23:12:43.478Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 3983,
+  "count": 3982,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -2598,12 +2598,6 @@
     {
       "url": "https://hashtagweb3.com/block-mond",
       "lastmod": "2026-11-16",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/blockaid-i",
-      "lastmod": "2026-11-10",
       "changefreq": "weekly",
       "priority": 0.6
     },

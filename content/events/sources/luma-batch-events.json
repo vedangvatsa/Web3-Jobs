@@ -2477,36 +2477,6 @@
     }
   },
   {
-    "id": "luma-batch-evtBKlI1d8fbXECu",
-    "slug": "garage-housing",
-    "name": "The/Garage Cohort 2 - Housing",
-    "description": "the/Garage Cohort 2 | Housing\n\nHospedagem para builders de fora de São Paulo\n\nO the/Garage é presencial, e sabemos que nem todo builder de fora de São Paulo tem condições de bancar hospedagem por duas semanas. Por isso, a Superteam Brasil oferece apoio com hospedagem durante o programa.\n\nLeia com atenção antes de solicitar:\n\n⚠️ As vagas são muito limitadas. Bem menos vagas do que o número de participantes do programa.\n\nO apoio de hospedagem é destinado a quem atende os dois critérios ao mesmo tempo:\n\nNecessidade real: builders que não têm condições de pagar a própria hospedagem em São Paulo. Se você pode arcar com sua estadia, deixe a vaga para quem precisa;\n\nNível do builder: entre os que precisam, priorizaremos os melhores builders e os times com maior potencial, seguindo os mesmos critérios de seleção do programa.\n\nSolicitar hospedagem aqui não garante a vaga. As solicitações serão analisadas junto com a aplicação do coworking, e os aprovados receberão confirmação por e-mail.\n\nDatas de entrada e saída: seja preciso\n\nCada cama liberada abre espaço para outro builder entrar. Por isso, precisamos saber exatamente quando você chega e quando sai, e pedimos que marque as datas conforme sua necessidade real, não \"por garantia\".\n\nCheck-in mais cedo: 27 de setembro (véspera do início do programa);\n\nCheck-out mais tarde: 11 de outubro (dia seguinte ao encerramento);\n\nO programa acontece de 28 de setembro a 10 de outubro de 2026.\n\nSe seus planos mudarem e você for sair antes, avise o time o quanto antes: sua vaga pode ser a chance de outro builder participar.\n\nImportante\n\nA solicitação de hospedagem é separada da inscrição no coworking. Você precisa aplicar nos dois;\n\nVagas sujeitas à disponibilidade e à análise do time da Superteam Brasil;\n\nDetalhes do local e regras de convivência serão enviados aos aprovados.\n\nAinda não aplicou pro coworking?\n👉 https://luma.com/the-garage2\n\nDatas do programa: 28 de setembro a 10 de outubro de 2026\nLocal: Solana House, São Paulo",
-    "startDate": "2026-09-27T14:00:00.000Z",
-    "endDate": "2026-10-11T23:00:00.000Z",
-    "city": "São Paulo",
-    "country": "Brazil",
-    "location": "São Paulo, São Paulo, Brazil",
-    "url": "https://luma.com/garage-housing",
-    "registrationUrl": "https://luma.com/garage-housing",
-    "coverImage": "/events/luma-batch-evtBKlI1d8fbXECu-f69e875b.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Brasil"
-    ],
-    "price": "Free",
-    "timezone": "America/Sao_Paulo",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/garage-housing",
-      "eventId": "evt-BKlI1d8fbXECuGa",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtaPGKR2FFDEuck",
     "slug": "afterdarkmumbai",
     "name": "The Best Event: Afterdark Devcon",
