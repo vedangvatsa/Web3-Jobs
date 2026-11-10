@@ -128204,7 +128204,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "6ab30d6f-d73c-4a4c-a0b0-8b0d50fe7e90",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7526004928176095232"
     }
   ]
 }
