@@ -128163,6 +128163,48 @@
       "verification": "verified",
       "postId": "6af372276c7ea3f5e394be9e",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7526004872895397889"
+    },
+    {
+      "slug": "ops143",
+      "company": "BVNK",
+      "title": "Senior Business Operations & Strategy Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-10T19:32:38.854Z",
+      "expectedText": "BVNK is hiring Senior Business Operations & Strategy Manager: https://hashtagweb3.com/ops143/li?og=7",
+      "snapshot": {
+        "id": "5025273101",
+        "title": "Senior Business Operations & Strategy Manager",
+        "company": "BVNK",
+        "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5025273101",
+        "date": "2026-11-03T08:56:13-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BVNK [bvnk]",
+        "location": "London / NYC",
+        "department": "Operations",
+        "active": true,
+        "salary": "$165k – $210k/yr",
+        "dateVerified": true,
+        "slug": "ops143"
+      },
+      "payload": {
+        "text": "BVNK is hiring Senior Business Operations & Strategy Manager: https://hashtagweb3.com/ops143/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ops143/li?og=7",
+          "title": "Senior Business Operations & Strategy Manager at BVNK",
+          "description": "Join BVNK as Senior Business Operations & Strat. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ops143.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "6ab30d6f-d73c-4a4c-a0b0-8b0d50fe7e90",
+      "verification": "creating"
     }
   ]
 }
