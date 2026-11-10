@@ -128003,7 +128003,8 @@
       },
       "account": "channel:product",
       "attemptId": "6fd4a820-d2a8-4874-a152-a426309c7dcc",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd82e93b73aaaafc78ca7b5f9ff22be7e19fa7cb4"
     }
   ]
 }
