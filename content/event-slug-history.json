@@ -876,8 +876,8 @@
   "premier-singapore-blockchain-week-2026": {
     "slug": "singapore-blockchain-week",
     "aliases": [
-      "singapore",
-      "luma-crypto-gyijyf0zte2v3qe"
+      "luma-crypto-gyijyf0zte2v3qe",
+      "singapore"
     ]
   },
   "w3v-200ms-26-11-13": {
@@ -3165,8 +3165,10 @@
     "aliases": []
   },
   "luma-crypto-BIDzvybOLJi8PAb": {
-    "slug": "melbourne",
-    "aliases": []
+    "slug": "melbourne-trading-workshop",
+    "aliases": [
+      "melbourne"
+    ]
   },
   "luma-crypto-NEjSQa8va70OFDy": {
     "slug": "roorooex-x",
@@ -3877,5 +3879,11 @@
   "luma-crypto-aw8e5kSfspdy7tL": {
     "slug": "fintech-we",
     "aliases": []
+  },
+  "token2049-evt-mtGOY2CrC193nlv": {
+    "slug": "after-hours",
+    "aliases": [
+      "luma-crypto-mtgoy2crc193nlv"
+    ]
   }
 }

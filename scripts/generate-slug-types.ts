@@ -90,7 +90,7 @@ async function main() {
     && (legacyJobSlugs.has(slug) || (!glossarySlugs.has(slug) && !resourceSlugs.has(slug) && !articleSlugs.has(slug)))));
 
   const out = {
-    events: Array.from(eventSlugs),
+    events: Array.from(eventSlugs).filter(slug => !pageSlugs.has(slug)),
     companies: Array.from(companySlugs),
     glossary: Array.from(glossarySlugs),
     resources: Array.from(resourceSlugs),
