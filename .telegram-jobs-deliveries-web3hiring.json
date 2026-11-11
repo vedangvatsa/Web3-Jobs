@@ -18282,7 +18282,7 @@
     "sentAt": "2026-11-11T19:32:39.329Z"
   },
   "c987f45c-3580-4796-896d-c75a6486e44f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-11T19:32:44.111Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -18398,6 +18398,8 @@
       }
     ],
     "message": "- Augustus is hiring <a href=\"https://hashtagweb3.com/an114?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Due Diligence Analyst</a>\n- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/arfd?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Applied Researcher - Forward-Deployed RL</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/pm381?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager, Paid Marketing</a>\n- Polygon Labs is hiring <a href=\"https://hashtagweb3.com/sls401?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">BD Director, Payments (Mexico &amp; Central America)</a>\n- ether​.fi is hiring <a href=\"https://hashtagweb3.com/rec54?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">HR Generalist</a>",
-    "slotKey": "2026-11-11:evening"
+    "slotKey": "2026-11-11:evening",
+    "messageId": 187,
+    "sentAt": "2026-11-11T19:32:46.778Z"
   }
 }
