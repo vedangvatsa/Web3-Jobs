@@ -2734,7 +2734,7 @@
       "fetchedAt": "2026-11-10T19:33:15.012Z",
       "method": "official-section",
       "pageTitle": "Bluechip26 - The Crypto Safety Conference",
-      "sha256": "78ba60cf85a3e2c2f8a7d6a3d57d6ccd95a087489e9fdb8652fe96c94dc8799f"
+      "sha256": "ccb0e2ec308ef9875ca56633bad92ea6413e4b8bf2bcb56039b77539c3970ae5"
     },
     "id": "w3v-bluechip26-crypto-safety-conference-26-11-10",
     "url": "https://conference.bluechip.org/",
@@ -3108,7 +3108,7 @@
       "fetchedAt": "2026-11-10T19:33:15.060Z",
       "method": "official-section",
       "pageTitle": "BlockDown Dubai — 26 & 27 January 2027, The Plaza at Uptown Dubai",
-      "sha256": "930cb582dc929e59e2568a461709464681208476810a9bdeb7eaefe5558822fa"
+      "sha256": "fdf07579e9b6802b6e1d702d2fa199ff1015727b3aea6f7b7f5468f1e4f310a6"
     },
     "id": "w3v-blockdown-dubai-27-01-26",
     "url": "https://blockdownfestival.com/",
@@ -3373,7 +3373,7 @@
       "fetchedAt": "2026-11-10T18:33:04.689Z",
       "method": "official-section",
       "pageTitle": "TEAMZ SUMMIT 2027｜東京・八芳園のAIカンファレンス",
-      "sha256": "5d9c6de9b3f9c7c217a31cf133fd921adf8ce9cb1787fd1ede1d2bc871256316"
+      "sha256": "230a88f6ba640330d5334ca74ba1b633b23a2fb95d7a574d0abee751e2fb5978"
     }
   },
   {
@@ -3543,7 +3543,7 @@
       "fetchedAt": "2026-11-10T19:33:15.145Z",
       "method": "official-section",
       "pageTitle": "NFC Summit 2027 — Non Fungible Conference · 27–29 May 2027, Lisbon",
-      "sha256": "b58430365cac12b26228f6badd931853544fdd52be3d4edb956496b31a7ab5ec"
+      "sha256": "39887a349a415b38ea820e2cd0a656be5d82898bbb9c8519e12ff7de1811d193"
     },
     "id": "w3v-nfc-summit-27-05-27",
     "url": "https://www.nonfungibleconference.com/",
@@ -3788,7 +3788,7 @@
       "fetchedAt": "2026-11-10T19:33:15.307Z",
       "method": "official-section",
       "pageTitle": "Bitcoin 2027 — Sound Money. Center Stage.",
-      "sha256": "2746402a16a9fa476b1ca0aad253db068fcdf2598ed45ad9ddda9ca05328a23f"
+      "sha256": "b351a96efcf9ea3e4eac8f08a1afd27ca65622795aabaeb3dfa3c4236fab2a4a"
     },
     "id": "w3v-bitcoin-27-07-15",
     "url": "https://conference.b.tc/",
@@ -3936,7 +3936,7 @@
       "fetchedAt": "2026-11-10T19:33:15.352Z",
       "method": "official-section",
       "pageTitle": "TOKEN2049 | 6-7 October 2027 | Singapore",
-      "sha256": "711dfd04128b24bfc09c2b920c90b49be7d7b7741b48fc0ed304bf775fd5ab1c"
+      "sha256": "4d495ac185388ac1a4174895e827f5788d03f9f1389cc80b0c440ea48622f31b"
     }
   },
   {
@@ -5257,7 +5257,7 @@
       "fetchedAt": "2026-11-10T18:33:07.796Z",
       "method": "official-section",
       "pageTitle": "Solana Intelligence Summit · Luma",
-      "sha256": "81cf02cb54cd18536a5547a0113309af0f2df8ff7a6d40c29690cb11ff694cb8"
+      "sha256": "e0b88d2afe3e4df7e403395a7caf9593f90e3fce938cd6af1e134b1535d9a0bf"
     },
     "registrationUrl": "https://luma.com/intelligence-summit",
     "source": "curated-reviewed",
@@ -5323,7 +5323,7 @@
       "fetchedAt": "2026-11-10T18:33:07.910Z",
       "method": "official-section",
       "pageTitle": "Scale or Die · Luma",
-      "sha256": "3783cff0dc07a8e1ad83dfce6cf43122d9a8f56fdc25e42ddce1ad688872fca3"
+      "sha256": "fb8232581a24df2659b196d02367019ac69e4367095497efb62d120d31656473"
     },
     "registrationUrl": "https://luma.com/scale-or-die-26",
     "source": "curated-reviewed"
@@ -14650,7 +14650,7 @@
       "fetchedAt": "2026-11-10T19:33:15.485Z",
       "method": "official-section",
       "pageTitle": "Crypto, Web3, Blockchain Startups, Investors & Builders Networking Event",
-      "sha256": "8521a5ba3240aafd8baf0573ac04742f415d90629d2d6b4225a2be5876f0ac48"
+      "sha256": "69e3fd671c5e3231f2cb059a335bcdc23a757d37daf99a6c6e9677b267b80936"
     }
   },
   {

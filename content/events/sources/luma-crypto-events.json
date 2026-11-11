@@ -868,7 +868,7 @@
       "url": "https://luma.com/t2xpm5gj",
       "fetchedAt": "2026-10-30T21:50:01.234Z",
       "method": "luma-page",
-      "sha256": "304a8d9640f326cbf4234dca80effb3ac78c9b83e9bf0d202f1ea8edca097ac8"
+      "sha256": "27c556da699b7b1ae75627d9be899c739fcb30ece11fff851751043c0768e362"
     }
   },
   {
@@ -888,7 +888,8 @@
     "descriptionSource": {
       "url": "https://luma.com/vm8nxzx2",
       "fetchedAt": "2026-10-30T21:50:02.214Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "d662426d8fb8fd686a7fe161df42c702f27d610cb69ee712bb2ed32ca4602b8e"
     }
   },
   {
@@ -929,7 +930,8 @@
     "descriptionSource": {
       "url": "https://luma.com/s17atgcz",
       "fetchedAt": "2026-10-30T21:50:02.465Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "f26cb68124337fd9240e34a3c70b3dbaf130511e917e19aa52f46ca692b1d88f"
     }
   },
   {
@@ -971,7 +973,8 @@
     "descriptionSource": {
       "url": "https://luma.com/build-for-breakpoint-yc-application-reviews-9569a1",
       "fetchedAt": "2026-10-30T21:50:03.980Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "c004a91b7970df75dde8b221bdb053f188ba95de9d2689ca0847b6fc4bb1a57a"
     },
     "sideEventFor": [
       "breakpoint",
@@ -1016,7 +1019,8 @@
     "descriptionSource": {
       "url": "https://luma.com/4rdnut9a",
       "fetchedAt": "2026-10-30T21:50:04.230Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "35ceabd1da42391b6512115fd257346eb37d0868a055c91177567acf8b4972bf"
     }
   },
   {
@@ -1036,7 +1040,8 @@
     "descriptionSource": {
       "url": "https://luma.com/bdl5wygs",
       "fetchedAt": "2026-10-30T21:50:04.861Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "7f00dd692b9c159182d5da87397e3adfa32699b01842b24839bd41d2049b38ac"
     }
   },
   {
@@ -1078,7 +1083,7 @@
       "url": "https://luma.com/i4lfa6fj",
       "fetchedAt": "2026-10-30T21:50:06.078Z",
       "method": "luma-page",
-      "sha256": "27f0d8f19883d9fed924a7c7cafb91e774671a3217ca3bc669caf32bb0dd3cbf"
+      "sha256": "6a3a4d7b5a740bb33fc9dcb44104027ca69adb4a13292ef40062ff51fb12129c"
     }
   },
   {
@@ -1120,7 +1125,7 @@
       "url": "https://luma.com/xjw6haoe",
       "fetchedAt": "2026-10-30T21:50:07.387Z",
       "method": "luma-page",
-      "sha256": "4e2da090453bd11e2d0a6deecd682c281b125c7409ce7da85233f53707ef5aa9"
+      "sha256": "18fc10d1f6b17df31b837b0af89e392e4abe71a89c1aefc9ffbf36c297936ff2"
     }
   },
   {
@@ -1141,7 +1146,7 @@
       "url": "https://luma.com/8w5xo3ci",
       "fetchedAt": "2026-10-30T21:50:08.198Z",
       "method": "luma-page",
-      "sha256": "86356b143e18d1b6179240c0f4808dafbc3c6e6bb3812d6335c02ab6ff392a98"
+      "sha256": "c2149385e29b316f96df753f54cdaf8edbca5e7553d656a91395b3733b545118"
     }
   },
   {
@@ -1225,7 +1230,7 @@
       "url": "https://luma.com/1bhhg9em",
       "fetchedAt": "2026-10-30T21:50:10.414Z",
       "method": "luma-page",
-      "sha256": "1141d6fc8b7b149e2bcea31b9d781d0dad81de96be41f3c2cac171daf978b205"
+      "sha256": "3abf2ab041f454d76eb15b340e4ff992392cf17a53416bc46d7f7ebd3664aa2c"
     }
   },
   {
@@ -1266,7 +1271,8 @@
     "descriptionSource": {
       "url": "https://luma.com/f4oc2a6w",
       "fetchedAt": "2026-10-30T21:50:12.619Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "2af5e84039f229631fda3c2d249ab484d8c2882fa03a0791c5f3d9998db7be56"
     }
   },
   {
@@ -1328,7 +1334,8 @@
     "descriptionSource": {
       "url": "https://luma.com/pvtzoppr",
       "fetchedAt": "2026-10-30T21:50:15.037Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "0762cf76d98d2d2bddf1964133c8a6a4066c49e75fa3371672e540be0f939757"
     }
   },
   {
@@ -1436,7 +1443,8 @@
     "descriptionSource": {
       "url": "https://luma.com/developer-7uu0",
       "fetchedAt": "2026-10-30T21:50:17.854Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "40e322fa811aa54c18658de7ab165b47918dc4388fd953f31b9c724953bce25e"
     }
   },
   {
@@ -1454,7 +1462,8 @@
     "descriptionSource": {
       "url": "https://luma.com/member-office-hours",
       "fetchedAt": "2026-10-30T21:50:18.805Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "503933d3fc0ab1dcd235ebe4ea1f10aa5bf355fd63946577a5d7d53cd93c1664"
     }
   },
   {
@@ -1590,7 +1599,8 @@
     "descriptionSource": {
       "url": "https://luma.com/zuzalu-gh7a",
       "fetchedAt": "2026-10-30T21:50:19.713Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "0552461a79c7283a2d1bff573dfeb81cee94a51488190438d193c0a2d12bf127"
     }
   },
   {
@@ -1648,7 +1658,8 @@
     "descriptionSource": {
       "url": "https://luma.com/tproeorh",
       "fetchedAt": "2026-10-30T21:50:19.964Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "d3277c0ff1eaf14617f58c5bc87819ae9df04f3381b6a5172cd059b154c2ad03"
     }
   },
   {
@@ -1666,7 +1677,8 @@
     "descriptionSource": {
       "url": "https://luma.com/build-for-breakpoint-the-last-mile",
       "fetchedAt": "2026-10-30T21:50:20.614Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "aaeb313f738cf49ddfc33226a218c0f0ca057d58f728d7d1331a50e792d0c23d"
     },
     "sideEventFor": [
       "breakpoint",
@@ -1688,7 +1700,8 @@
     "descriptionSource": {
       "url": "https://luma.com/stin-commcall-2026",
       "fetchedAt": "2026-10-30T21:50:21.588Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "c573fc6ea6a53b5e5a70d9acb0bfd62e2dcf71ac7a41dc7eff92dae093055279"
     }
   },
   {
@@ -1706,7 +1719,8 @@
     "descriptionSource": {
       "url": "https://luma.com/build-for-breakpoint-why-your-customers-are-still",
       "fetchedAt": "2026-10-30T21:50:22.531Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "3316734f1a7d5a8a8b340d469d35818fa37867024012789641d6454c9be83fdc"
     }
   },
   {
@@ -1730,7 +1744,8 @@
     "descriptionSource": {
       "url": "https://luma.com/cdhahklm",
       "fetchedAt": "2026-10-30T21:50:23.380Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "69e9dc4e46e16f5569cdf8d42cecb6fa99aa3d66417343ec6bb848613b765387"
     }
   },
   {
@@ -1771,7 +1786,8 @@
     "descriptionSource": {
       "url": "https://luma.com/rxse8qq7",
       "fetchedAt": "2026-10-30T21:50:25.292Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "9bc6dd42f3377b78d841e2c0b8f6190f6cf46cd2d57b7a5453b68f323315dd35"
     }
   },
   {
@@ -1792,7 +1808,7 @@
       "url": "https://luma.com/2xdeh8y1",
       "fetchedAt": "2026-10-30T21:50:25.543Z",
       "method": "luma-page",
-      "sha256": "8551a86f54ab2456791649094c240abc109ef40226eb1a4c10e019529fabf031"
+      "sha256": "d005a3f06d40beaab529115690f04d6be3eac494fb3c7cc81c6c8d3cd1781462"
     }
   },
   {
@@ -1956,7 +1972,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "BNB Builder Sessions, Paris🇫🇷 · Luma",
-      "sha256": "840b404ee61114baba27e2d4e6b68cbea82ccd764c447be1dc086d3e23987f94"
+      "sha256": "bd756f9eda1b7f902adde4f2cea3bd8f19abb2dca555a58faf56d7b92ed527e1"
     },
     "sourceVerification": {
       "url": "https://luma.com/0wcr8wu7",
@@ -2148,7 +2164,8 @@
     "descriptionSource": {
       "url": "https://luma.com/cryptouk-36w1",
       "fetchedAt": "2026-10-30T21:50:26.919Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "c14c24a4bb3cece3e9b68387b40acb393f9d2933c00cc3e0d413bed474fd8891"
     }
   },
   {
@@ -2161,7 +2178,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Drinks Reception w/ Wincent &amp; BitGo · Luma",
-      "sha256": "d621045e0707ced0e01a2ce040c885e8c6cceb5150a78ec5794a0f622897bbc2"
+      "sha256": "c13e96e5bd1c4d8d02665d525d33497cd48acdef413afe0b08c7634c50860c65"
     },
     "sourceVerification": {
       "url": "https://luma.com/n203puk9",
@@ -2200,7 +2217,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "SCRYPT Private Dinner, DAS London · Luma",
-      "sha256": "ee2fc5cf7b4dd927f83a0c65985108b71b380f7cf7e74a76a22fb3bbee9f90d6"
+      "sha256": "5f780b1247debacd0aaced416e92b79916e5c04c86762101c14e6b462d3c8630"
     },
     "sourceVerification": {
       "url": "https://luma.com/yvjgdjl8",
@@ -2479,7 +2496,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "VIP Cocktail Night, Hosted by A&amp;M Crypto and Latham &amp; Watkins · Luma",
-      "sha256": "37a0a6b0186f0877913cf481da675fe195096c265b71ed4b7342aeafb0f5acdc"
+      "sha256": "ab4dfaf216de27bfb5373bc9355b7cb2020ecfc7e7c709a8762fc5132e6db2e8"
     },
     "sourceVerification": {
       "url": "https://luma.com/up5knoe4",
@@ -2520,7 +2537,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "This is Not A CryptoPunk · Luma",
-      "sha256": "17cd6f40bcf80056f5ed2efd60e984bd9bbe298272abe8d5baa7d0dc8dd9ec85"
+      "sha256": "41e38a1923095061f8db5c509940ff5a1a78774fbc27b78a9faf4e0d5c6ad448"
     },
     "sourceVerification": {
       "url": "https://luma.com/this-is-not-a-cryptopunk",
@@ -2612,7 +2629,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "UMNBC &lt;&gt; Ellipal · Luma",
-      "sha256": "c356577f98635148f5b2ef7bf790df1220dcb1b950a3b25d618cbbbd81074fe7"
+      "sha256": "f4eef8b3c870b18409a7b0b26113b8179fc191b9e78d3b1fd112ac041e597c14"
     },
     "sourceVerification": {
       "url": "https://luma.com/4nlfv74z",
@@ -2678,7 +2695,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "CPL Sydney presented by Independent Reserve Week 2 · Luma",
-      "sha256": "398b42b23453f7c6d6552759603f91eff6054ebe28f073da5e6e1d374873bdb6"
+      "sha256": "ca9b6d6209290e82dfbd666f8cd5e6682b6525dd265eee7c7da215bd75cf1ff4"
     },
     "sourceVerification": {
       "url": "https://luma.com/pxkxnevx",
@@ -2727,7 +2744,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Cover the Distance 5K | DAS London 🇬🇧 · Luma",
-      "sha256": "fcd1f185ffb5f2fcab68e7b11479c63edfeaf2300ac7cbfb857be1718d6da7c8"
+      "sha256": "0b8369faf67b77e4d14bee79634fbaf1b6aefbf69953f70f57aae8a52b6e83b5"
     },
     "sourceVerification": {
       "url": "https://luma.com/gh66ltup",
@@ -2806,7 +2823,7 @@
       "url": "https://luma.com/b02vcn9v",
       "fetchedAt": "2026-10-30T21:50:28.466Z",
       "method": "luma-page",
-      "sha256": "72e4146d8f832e46dc1c5f0cce1741d53256e2acae60f0dd1ff9cf25da065dbe"
+      "sha256": "903ab133eb8a3f24233d9304721b8ad012a24b78b393c0fcc483dee3d444e24a"
     }
   },
   {
@@ -2826,7 +2843,8 @@
     "descriptionSource": {
       "url": "https://luma.com/dudrils9",
       "fetchedAt": "2026-10-30T21:50:29.329Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "87658b8b5430b73c4094024a2a05bf8981110938a3888c29fbb235b1c637e450"
     }
   },
   {
@@ -2847,7 +2865,7 @@
       "url": "https://luma.com/shdn5h19",
       "fetchedAt": "2026-10-30T21:50:29.580Z",
       "method": "luma-page",
-      "sha256": "b9a9c45596fbd072b94ebef870dbe45e2fd544314b7f7dab7d1c8b5b85f6ed24"
+      "sha256": "d4113bae0d1ea9d1b95b0f1970a96511ecb2e113eb1750bb0d5c534d2d72c9f0"
     }
   },
   {
@@ -2860,7 +2878,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "【最先端ビットコイン技術】Bitcoin++ Insider Edition · Luma",
-      "sha256": "236dc5b505c7d0cd18577691115c7016c2d57879aba539bea66d50384c4a6eab"
+      "sha256": "5309bde213184dc65a1391aa57dbe2cea0fa41958e86bc481ab9cfc067d44e4e"
     },
     "sourceVerification": {
       "url": "https://luma.com/4q8vwo2f",
@@ -2910,7 +2928,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Hardware Wallets 101: Tangem x SMU Blockchain Club · Luma",
-      "sha256": "11170734c672a23b1021116001849cd92eae40560d7c8b23f0d4a44a36c3837a"
+      "sha256": "7818698cf70e6a151ddb45a7474e0a77d89075b0df80f1800b0512bd4c4a9cbf"
     },
     "sourceVerification": {
       "url": "https://luma.com/rfoqbbm3",
@@ -2953,7 +2971,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "The Fireblocks Roundtable: Moving Money Across Africa · Luma",
-      "sha256": "f080aef41760f98d974d0ed65b6775f0b3890c1337d3a5770e3a6edee15ae9e8"
+      "sha256": "93735ebcd1d8b15254575766738d07a087332e1b276e74294befe83e7ed8aaf7"
     },
     "sourceVerification": {
       "url": "https://luma.com/0qga5nce",
@@ -3133,7 +3151,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Signature Sips Cocktail Hour by Hypernative and Zama · Luma",
-      "sha256": "a3eadfb9444148dd5de517692345de963bc64228fc9f467e4b006b7f75c0b82a"
+      "sha256": "8986458792711ef25ab06ffe97b0e326329d3eaf63ae58e7e6dce32c7b79df59"
     },
     "sourceVerification": {
       "url": "https://luma.com/hypernative-zama-london",
@@ -3220,7 +3238,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "DAS London VIP &amp; Speaker Dinner · Luma",
-      "sha256": "3699e798d1a439a8517bd522bc67e639a0bfd2626dad5ba47796ee7bca7053f4"
+      "sha256": "5d4d94a85962d858a0381e8e349c4f3786c48b43900f1b78e6953f6f5847ec49"
     },
     "sourceVerification": {
       "url": "https://luma.com/i27nre2i",
@@ -3363,7 +3381,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Bitcoin Socratic Seminar · Luma",
-      "sha256": "2a3c1d2b2cb48a8a3fc83601ffa8c77e5f077f998bb975d6db74ec7eccf188f3"
+      "sha256": "91bbb0fd597c0f4e752a2551a4f64bf2aa9a7c7e1d88a0b7a1cd724957812df5"
     },
     "sourceVerification": {
       "url": "https://luma.com/oub5c5y6",
@@ -3413,7 +3431,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Poker Tournament: Ellipsis Labs x Penn Blockchain · Luma",
-      "sha256": "e40aa3bb7394aa9c1e75b10dfcccfeab7bcac828a474be13feef71340cbdf309"
+      "sha256": "83115bbbb1401e4ca51c3d9a2b5295769ff3fb48a14564ea7de22737deadd56a"
     },
     "sourceVerification": {
       "url": "https://luma.com/9y7iajqc",
@@ -3635,7 +3653,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "The Geneva Summit 2026 · Luma",
-      "sha256": "9802b4641dcf47443ae35fbae5322b4f26112f53fa7e7809c1e7e9fa8e8d11e6"
+      "sha256": "4d2dcdb6cf62b81c8ddc3a63e1a42618b9bf8310cafd06d65ae6dbe35a54dc55"
     },
     "sourceVerification": {
       "url": "https://luma.com/tbw-summit",
@@ -3686,7 +3704,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Bitcoin on Sui: Getting Started with Hashi · Luma",
-      "sha256": "b7f53b319ffc9bde2c90bacfa61cabfa8e17ef81fe70f1161e96ec0b3e0d8d10"
+      "sha256": "9895ce2bd35f8321810028a30d5b8628e2627924b8ae61928fe12c89799c2ff0"
     },
     "sourceVerification": {
       "url": "https://luma.com/ticfmzzo",
@@ -3735,7 +3753,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "House of Sol Workshops: The Yield Ceiling: Why Onchain Vaults Need Real World Assets: SRI x R3 · Luma",
-      "sha256": "8e4b8d8171b18a35dcdbb52ca8b54d91388c07932d5d1163f73475b9d78ed52e"
+      "sha256": "6a3ecc757ad673ffa5c0cad9f16aa8235fc13a8f1bec71bcdd831c614ef6b3d0"
     },
     "sourceVerification": {
       "url": "https://luma.com/hos-workshops-r3",
@@ -3779,7 +3797,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "MEXC TR Community National Team Support Night : Türkiye vs. Belçika · Luma",
-      "sha256": "2ef9b03343b6128ddc421fb95814ede1151506e1cea46420335f333c0817cb40"
+      "sha256": "cd881eb9ef502fa1c736898911e5cb65fd3211864093f2e7d4367747b01e38a4"
     },
     "sourceVerification": {
       "url": "https://luma.com/ktr1uq9t",
@@ -3860,7 +3878,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Bitcoin meetup #29: Bitcoinová edukace, kvízy a Štosuj.cz · Luma",
-      "sha256": "3f2345fe7590aa86d59edd84c504db1532d12bad226553752faa7fb4437737d2"
+      "sha256": "6026128ccaa0f753aa612cc772ae1531fe800f62826fde96d232af744cc63ffa"
     },
     "sourceVerification": {
       "url": "https://luma.com/de4lvk3c",
@@ -3959,7 +3977,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "SCRYPT x Tether, Cape Town · Luma",
-      "sha256": "59c73489b74e6aca066c3c1336194c2d3b2f6de4740b46e1a5df809ec5fcf405"
+      "sha256": "447e938176aa37660ddb7056a562ffe6e96307b749e10a080f180b5fa6feb9e3"
     },
     "sourceVerification": {
       "url": "https://luma.com/kh5iyxby",
@@ -4048,7 +4066,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "🦄 W3B SUMMIT AFTER DARK · Luma",
-      "sha256": "72863371f406bef24f4c99188d5a957405b727c1c449ec3eb80d61eeefbcc58f"
+      "sha256": "68f3c98961731b06b470924ad670d2d1aaf4c35b0d6e9f0b9cf1d5c04876c1a9"
     },
     "sourceVerification": {
       "url": "https://luma.com/sq0ty3gl",
@@ -4085,7 +4103,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Institutional Capital: Tokenized · Luma",
-      "sha256": "0df4f62b75233f3462116853732c444d0cdce4b22e4e27e670f727eefc2050b8"
+      "sha256": "484c76b95e45f074b8d2a483d6ad0eb598a19163816b4441f8e28effa4ea7107"
     },
     "sourceVerification": {
       "url": "https://luma.com/f0ah5yl3",
@@ -4136,7 +4154,8 @@
     "descriptionSource": {
       "url": "https://luma.com/zmw8w5d9",
       "fetchedAt": "2026-10-30T21:50:29.580Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "df293d3c4158e8c4c2348cec28e71424629e5fe3c808d45d236801f641373766"
     }
   },
   {
@@ -4149,7 +4168,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Crypto Curious: NYC Crypto &amp; Fintech Kickoff Mixer · Luma",
-      "sha256": "4fe31d7e7abf81fc4f0bfbf1777cf255ba8db7736dc0eb3f7eff386debab6c9e"
+      "sha256": "6f998ba6977a4b6aaf73782b5bb25c2da809b3cfd72ff8c3e5d2e3aa168c61dc"
     },
     "sourceVerification": {
       "url": "https://luma.com/g8hr19n4",
@@ -4192,7 +4211,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "JC Bitcoin Networking Social Meetup · Luma",
-      "sha256": "a3d954c2357dc05635c2c13e3e5530057c0785ad60eabc1cd1a8914fc3beb3ea"
+      "sha256": "b5ffcb487264552fbdab366f2ad818068f2ac3f7052ce7d56a6624e417f5aa72"
     },
     "sourceVerification": {
       "url": "https://luma.com/03yj4u4k",
@@ -4328,7 +4347,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Whitepaper Reading [SF] - Defi Topics: No Place to Hide &amp; Active Liquidity On Chain · Luma",
-      "sha256": "0e9b36e443c766b1ff45a854f3cc9ae992d07bce65236f4792bb10f689dde4eb"
+      "sha256": "d83222668094736d14324889893807bc261a20cdc7e37c0401c2a11aa47fe080"
     },
     "sourceVerification": {
       "url": "https://luma.com/snrgc7jo",
@@ -4374,7 +4393,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Breakpoint Crypto Padel · Luma",
-      "sha256": "fbf62cca716ccee175fcdcffd6a65dc4a6597e17bf9cdf83872720be35341007"
+      "sha256": "ac9574bff9788d440dd387a015992e5e5691e8b72927c965c20f2aeb56300a75"
     },
     "sourceVerification": {
       "url": "https://luma.com/afr82s1n",
@@ -4423,7 +4442,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Building Better Worlds Hackathon · Luma",
-      "sha256": "a1bc289e5cccb6672fee90ffb3ea20ac72075486e6c99fb9e31ade60336b1ed4"
+      "sha256": "06419b02e09a42c5923ed38960bc124cbfb66fd566c8c04695ccf95481151854"
     },
     "sourceVerification": {
       "url": "https://luma.com/rrnm4pul",
@@ -4496,7 +4515,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Team1 Lab: Avalanche L1 Workshop · Luma",
-      "sha256": "12b27734f4fb38b7227f0a7cde336fb5a127f4598d076b908508a7c2dbee70ea"
+      "sha256": "a4257e46ca052e0d1fa979d0495c8489f0e8e68b36eec3d3b2d6f4e286ac5972"
     },
     "sourceVerification": {
       "url": "https://luma.com/team1labistuni",
@@ -4598,7 +4617,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Crypto In Action · Luma",
-      "sha256": "61936cf0781c7a57c3fa5ef51b8c1b136a38ae1aa204e2a69ee21171f4d6a419"
+      "sha256": "591d40d26e53f0525f49c230344c824c2c62fda4122c1e5d421e3a11e1670230"
     },
     "sourceVerification": {
       "url": "https://luma.com/mq0teo4e",
@@ -4652,7 +4671,7 @@
       "url": "https://luma.com/hrem9w27",
       "fetchedAt": "2026-10-30T21:50:30.414Z",
       "method": "luma-page",
-      "sha256": "ca0a9e51674a564a06bc5a40c5904df57ce1f43233c6fa07e078fba315658684"
+      "sha256": "42e69625cc5b6f7e8be5150d7c1614379262aa89da2bdb36b204dea4ecada0af"
     }
   },
   {
@@ -4686,7 +4705,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "IA e Blockchain: Tecnologias que estão transformando o futuro e criando novas oportunidades · Luma",
-      "sha256": "7764fe2883b8c96c3b72a7ed2aec8be19c33211c9d79abe87d9944ee3f2aa0ac"
+      "sha256": "4cc61ba6a498441451325c738c8481ba3506d4e6e02cb4d8127d21a14bb3c0ff"
     },
     "sourceVerification": {
       "url": "https://luma.com/rbus03as",
@@ -4727,7 +4746,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "TSC Summit - East Coast · Luma",
-      "sha256": "e38ed754ef7e50c7294d7e404514b6871b35954d23f32fc2865e37e847149048"
+      "sha256": "99b4873dab321f3c01c12c6e9ed487f4608f8ad56c2aea7e417c8648b150f790"
     },
     "sourceVerification": {
       "url": "https://luma.com/tscsummit",
@@ -4847,7 +4866,8 @@
     "descriptionSource": {
       "url": "https://luma.com/xvqy8tmn",
       "fetchedAt": "2026-10-30T21:50:30.414Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "882629fc3b5e4f6ce4c68c797bd567ba710c76efd34f52f756b582ae13562846"
     }
   },
   {
@@ -4996,7 +5016,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Frontier Traders: Grand Final · Luma",
-      "sha256": "919839c48379ef3cb87e836a51b3685e0565c4a1efedbf889111ac13f959de37"
+      "sha256": "372b81630c3915d29d76fb953f46980b8492cde720bc2d5065fdd25d980cd677"
     },
     "sourceVerification": {
       "url": "https://luma.com/frontier-traders-grand-final-london",
@@ -5091,7 +5111,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "🏀 Solana Breakpoint Basketball &amp; Breakfast | London 🏴󠁧󠁢󠁥󠁮󠁧󠁿 · Luma",
-      "sha256": "865819906a873b5bc7280838574ed82f5da1ef9aaf31e0e35698efbd1cf8c4c7"
+      "sha256": "de2816521574159c1bc08aced0a13bbd6d86cd0e994e883b10d6c71eefdf2442"
     },
     "sourceVerification": {
       "url": "https://luma.com/5yhvfaky",
@@ -5138,7 +5158,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Chess with Chord Express | Breakpoint · Luma",
-      "sha256": "81857179e75206cb33f2312064957b64b9994582542607ccc387ef5363db98af"
+      "sha256": "4422674802e14a21114da78b36761f249cf625d9d8e31fb229fcb5f0263672c1"
     },
     "sourceVerification": {
       "url": "https://luma.com/f5s5psnj",
@@ -5191,7 +5211,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Not Your Keys, Not Your Cheese: Wallet and Security for Solana 🍕 · Luma",
-      "sha256": "aa1de9a5d6d1ad5140450b6df0ee19d1209b26b615a5aa877a2bf1f634638290"
+      "sha256": "05b7196da94efe45050b7f1bd3e6532a5159397b1993df7faf1589f65affad44"
     },
     "sourceVerification": {
       "url": "https://luma.com/blockaid-ztbw",
@@ -5255,7 +5275,8 @@
     "descriptionSource": {
       "url": "https://luma.com/sfzfreestyle1",
       "fetchedAt": "2026-10-30T21:50:30.862Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "6c437ec698254caebd58cfe6df4a01838a6abe8278eae2817d487eef37061442"
     },
     "sideEventFor": [
       "breakpoint",
@@ -5272,7 +5293,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Sunny’s Sunday Lunch (ft. Brave &amp; Flipcash) · Luma",
-      "sha256": "1bc24667efc944023715ed7435245bbd46da6ba30a5233d092e5b36ca58e802d"
+      "sha256": "b50a17b1abb0ccfd7a3a97dd403864d1f08e4d750bc0974102f283e0244cc3f7"
     },
     "sourceVerification": {
       "url": "https://luma.com/cfld2bu7",
@@ -5400,7 +5421,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Capital &amp; Liquidity Dinner by Yield Network, Bexlen, ZIG Finance, and Particula · Luma",
-      "sha256": "134aedce7eae0d811eea4a8b684c3c377b6569a04d1083f467261733045300d0"
+      "sha256": "b6da3624e2ea890a96d683457545a65c254ba550158c8ae2eff8d900d122ee09"
     },
     "sourceVerification": {
       "url": "https://luma.com/yn-dinner-london",
@@ -5456,7 +5477,8 @@
     "descriptionSource": {
       "url": "https://luma.com/3n5hl4c7",
       "fetchedAt": "2026-10-30T21:50:31.530Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "131b930124ffe74b1a101fb2956808611ec9c9ed1b1a68fc4f910245526a475c"
     },
     "sideEventFor": [
       "breakpoint",
@@ -5473,7 +5495,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "La Casa de Satoshi cumple 2 años 🎉 | Lanzamiento oficial del Libro BitcoinCoach · Luma",
-      "sha256": "2f18e83a4676ea0493c3de3790726a66768eae56f53916db15212f9c3e5a2ce0"
+      "sha256": "79252fe70324dea0703057a7fcf4691ab8ddc2c9bd6a6a5202d28fa1426c82c5"
     },
     "sourceVerification": {
       "url": "https://luma.com/lacasade-qf2y",
@@ -5566,7 +5588,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "At the Table with Stripe Crypto, Visa, &amp; Open Standard · Luma",
-      "sha256": "5e475b69db8f80caa3eec739cebe96bc68442a200ad3123fe2ef686f76328805"
+      "sha256": "2063d23e40caa934326f408fcb435aee54b8cadeb8f00e181335192a1007f9da"
     },
     "sourceVerification": {
       "url": "https://luma.com/bxvz2tvf",
@@ -5660,7 +5682,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Block Mondays Dubai - Ai x Blockchain - Funding - Ecox Network · Luma",
-      "sha256": "67f864f24b126633d587a769a21da49b4a528287b7ffd35e3f893e608e2c5e18"
+      "sha256": "6d220f0ef5e63c5aac93b5b6f562192d5569113d60d5541050384400fcdced67"
     },
     "sourceVerification": {
       "url": "https://luma.com/ecox-q91p",
@@ -5711,7 +5733,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "EcoX Network Block Mondays - Dubai s Most Famous Network Event · Luma",
-      "sha256": "bfa613ac9336ff450b808ece85316a7024f9644835e6880f55a0abca60f5fb04"
+      "sha256": "392dc8a0dc520fe60e42fa9342ca3ed722b85ef70ee10aa98f3628e84fa2ddbf"
     },
     "sourceVerification": {
       "url": "https://luma.com/ecox-f5gn",
@@ -5770,7 +5792,8 @@
     "descriptionSource": {
       "url": "https://luma.com/kzh1qgwg",
       "fetchedAt": "2026-10-30T21:50:32.610Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "ed09afd1edc46a18e8100cae434225f0b95e5dda5fe84848de4922363b29ef90"
     },
     "sideEventFor": [
       "breakpoint",
@@ -5787,7 +5810,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Zebu Live Arms: A Great British Pub Takeover, presented by AlphaWire · Luma",
-      "sha256": "636e61ed1dabeb3b45bf155761c41f80090abcf43bc74766c0511b04ad65548d"
+      "sha256": "40105146bf6d6d70c01a371d1e3d4e6f3428cf6a94bb261fe58921114ce78b50"
     },
     "sourceVerification": {
       "url": "https://luma.com/jzlkn59s",
@@ -5894,7 +5917,8 @@
     "descriptionSource": {
       "url": "https://luma.com/sfzfreestyle2",
       "fetchedAt": "2026-10-30T21:50:33.499Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "6c437ec698254caebd58cfe6df4a01838a6abe8278eae2817d487eef37061442"
     },
     "sideEventFor": [
       "breakpoint",
@@ -5911,7 +5935,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "SWC | Debanking Roundtable at Zebu Live Arms · Luma",
-      "sha256": "66d39aa2d12ccbb40ca8baece6e1789f529da666638af787d6ab93b57f2a81a7"
+      "sha256": "df6b8d395b7fe72f9e7e345610f6cf6665f641b54b05528ce62b2f5f3aeaed41"
     },
     "sourceVerification": {
       "url": "https://luma.com/ejadxw59",
@@ -6077,7 +6101,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Breakpoint: Day Two Afterparty · Luma",
-      "sha256": "7f2ba4af5428fbad32c680e7b29b6a224ca1fabe532ab3caa608abc5f37fe40b"
+      "sha256": "34e13fd1b608262e05935fc723d76fa3a6f534e85736b47604f63e4942d13fa1"
     },
     "sourceVerification": {
       "url": "https://luma.com/6sdoouxp",
@@ -6139,7 +6163,8 @@
     "descriptionSource": {
       "url": "https://luma.com/xykfcf1a",
       "fetchedAt": "2026-10-30T21:50:34.436Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "f37c32094396dc8d5dcec9f22e4f33927a438e48e066b151e6f4ccad68428cf2"
     },
     "sideEventFor": [
       "breakpoint",
@@ -6156,7 +6181,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "The Everything Code: Decoded with Raoul Pal 🇬🇧 · Luma",
-      "sha256": "94876dfa3a56b5f4afe5af268b8951242d293f04f79530a1aafc432a6d31cf1a"
+      "sha256": "e2994ee7beb90a28431297dcf7dc00e3380b5ad2679910f4eeb03d6bd8ebce58"
     },
     "sourceVerification": {
       "url": "https://luma.com/y3s7ibya",
@@ -6249,7 +6274,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Proof of Print Preview Night: 3D Printing and Bitcoin Mining · Luma",
-      "sha256": "10c8ad0ae8c8db44129e2c2e4c3e11db64a1ea883d9560fdca9c9812cd47733d"
+      "sha256": "c2e77ae5e3951c30f336450160ca71ab0ec2632f9246a8965a198bb99a7c3088"
     },
     "sourceVerification": {
       "url": "https://luma.com/zq5rgcak",
@@ -6351,7 +6376,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "SFF: Building the Future of Institutional Finance on XRPL · Luma",
-      "sha256": "fdcf420a4259c84392cbe9fa52d93bb0a1beb6d01702c5e90fec420d14e2cd36"
+      "sha256": "c9d193bbf1bc174ef5b3386523a5163e3d976b700bb135528257f8a6c5e8d56e"
     },
     "sourceVerification": {
       "url": "https://luma.com/t9klel4a",
@@ -6443,7 +6468,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Head Down 5K × Solana | 445 CREW · Luma",
-      "sha256": "769c63bb4c978b31aad8e1c64349c92f920f26c8326572a2c4329260936a78a6"
+      "sha256": "69ca8437b1a9ab6d55397efa58d8ecf1b21f308c1361afdbfb7407ed140f827f"
     },
     "sourceVerification": {
       "url": "https://luma.com/3bwtn4jz",
@@ -6597,7 +6622,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "AFTER THE U.S. MIDTERM ELECTIONS:AI REVOLUTION &amp; TOKENIZED U.S. EQUITIES REGULATORY FORUM · NEW YORK · Luma",
-      "sha256": "f5d23d27007604331c3546da575074ddf85f9d683922defd9d7f97f2baf8d8fd"
+      "sha256": "7f8c748ebca5eea6d6d7e204473cb16f4cf8f2d1937dce2008a9d0c73602af0a"
     },
     "sourceVerification": {
       "url": "https://luma.com/emepysdd",
@@ -6731,7 +6756,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "SFF 2026 Side Event | Stablecoins: Trusted Safeguards &amp; Institutional Custody · Luma",
-      "sha256": "ff94518d853ba24fabbbaa1b15b71bda8a9c392ad53054e0d039d72eb370ec00"
+      "sha256": "50969bcaf65b26e5bfd0912d3807077d7b211ab4cc07d2191fdcaeb69850a45e"
     },
     "sourceVerification": {
       "url": "https://luma.com/6utqqx3y",
@@ -6817,7 +6842,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Fuze x Tether: Private Executive Dinner - Singapore · Luma",
-      "sha256": "df56df87b2065d379b43391f25cb57ab5769ab2d8bda0d87f92cedb749bfff4f"
+      "sha256": "91a28905c815502299248f98668894f5f072452685077298c49d1af4a35ffcb9"
     },
     "sourceVerification": {
       "url": "https://luma.com/dwmm3fc8",
@@ -6862,7 +6887,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Bootcamp Blockchain.gov2026 · Luma",
-      "sha256": "7a4f9b50568a7050e7f34974683bb5c6756f346a7b4f5f13396329e70780e2a4"
+      "sha256": "89b0a75a08be590a827c589a06651a68d2c7f2bde8fa5f265e98461337d9c35f"
     },
     "sourceVerification": {
       "url": "https://luma.com/k95it7qg",
@@ -7102,7 +7127,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Golden Hour | Kem · Luma",
-      "sha256": "b402782812b93c95c88000fffe4e14f38b45bdd2aa9a002da5449f81c2e8fa37"
+      "sha256": "82379ce59690af412ce618893076eb7f7448daa8df8a5fc2db72381997a03207"
     },
     "sourceVerification": {
       "url": "https://luma.com/mfbpm39s",
@@ -7153,7 +7178,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "五湖四海同源 中美名家艺术联展 · Luma",
-      "sha256": "55d90ccf11710f629faea39de23a8bd2266f8960be5dcfae58a51fedc69db94a"
+      "sha256": "59e68c9d2de0285b04025a57faf13f52999b84393f68a8ca4db43f25509e1aaf"
     },
     "sourceVerification": {
       "url": "https://luma.com/823wb3es",
@@ -7205,7 +7230,8 @@
     "descriptionSource": {
       "url": "https://luma.com/blockc-eg04",
       "fetchedAt": "2026-10-30T21:50:36.865Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "d44afab4ffc4d9558b92476955cc0c3bd86f1556c7b2c257aa739381b6bbc5dd"
     },
     "sideEventFor": [
       "breakpoint",
@@ -7320,7 +7346,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "CPL Sydney presented by Independent Reserve Week 3 · Luma",
-      "sha256": "64f6a1072d08dd9a552a31df9fd254dc76b4fc2971049675552ea2048947b651"
+      "sha256": "3f469769535d67a9b18d7c8e6e13c06985efebd66e70efeefff29a6ce65f1a57"
     },
     "sourceVerification": {
       "url": "https://luma.com/w27jgegr",
@@ -7410,7 +7436,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Hyperliquidとオンチェーンファイナンスの歴史 · Luma",
-      "sha256": "c435d2d52664305ea0b5d0333a0ced9ccc6af799dca942e0eb034a04235535fd"
+      "sha256": "aea9630aa489f5bbfd96478ef6afb4b80760ad28f7d6e1d37fdcdbe2dfc1d2ee"
     },
     "sourceVerification": {
       "url": "https://luma.com/kudasai-8ewg",
@@ -7465,7 +7491,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Stables with Saber, Singapore · Luma",
-      "sha256": "03208b346d4b5c846604e37527ab632fddda52495b0cf47fb0804f28ec699753"
+      "sha256": "6b59c182a0ede3236e34c987a15c09f5d3e8e028ff9830457013c1745eb52777"
     },
     "sourceVerification": {
       "url": "https://luma.com/fj0m1jbj",
@@ -7512,7 +7538,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Exclusive Web3 Get-Together · Luma",
-      "sha256": "e1d85d40a1a2fe01a387e2c3ce0d8ffa4b44923cea740a76ecbe027e92f1e35f"
+      "sha256": "6afaa834399a47c585e494953a29bda50627b578620ab24de0954d9823391444"
     },
     "sourceVerification": {
       "url": "https://luma.com/kz1noem1",
@@ -7550,7 +7576,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Binance Tour: BSA 🇨🇭 · Luma",
-      "sha256": "ab57dfe50a312a22776793ef55ef0d1f3d12891ecae69055b252df621125b492"
+      "sha256": "c2e5a19609b8758bf24de45b176a0a556cb95de0365a81f1b05c79410e4e0cd9"
     },
     "sourceVerification": {
       "url": "https://luma.com/q0awt375",
@@ -7622,7 +7648,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Team1 France Uni Tour - ESGI Paris · Luma",
-      "sha256": "8136b27ec42ee867d16db60a617c86cf7de0ad936ec7ae200619ba7c70f63ff0"
+      "sha256": "6fa9df1d74e2ffcff38ca84f7ac4864b7658fc50930ff23c4e702a20ece05b8a"
     },
     "sourceVerification": {
       "url": "https://luma.com/fsw28mw9",
@@ -7676,7 +7702,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Blockchain Ireland | Group Networking · Luma",
-      "sha256": "cce384e78e9b209abdc0ca713048fc1c4299831bcd024d090692f45aa3d4e044"
+      "sha256": "04532eb5c38e7700431e6fb320f5563ae5ac2833b7956deb4ead1651bdb3d502"
     },
     "sourceVerification": {
       "url": "https://luma.com/59uk2nbr",
@@ -7725,7 +7751,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "IA e blockchain: como essas tecnologias estão criando novos negócios · Luma",
-      "sha256": "bfa4bff94f26eb671f25e78965268a0a3ea50f4601fc3656a0989bef695387f6"
+      "sha256": "ec3b2aa89da84970495bd5614ce59e81e8c40b5092535d8589d280835e445f5a"
     },
     "sourceVerification": {
       "url": "https://luma.com/dhx77plz",
@@ -7820,7 +7846,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Yellow Card x Cyclops Miami Beach Dinner at Ocean Social · Luma",
-      "sha256": "0fb78f065f4cfbbb57f9e8ffbfaf26dfac2a84892d9c4a23e3fa86aa6ccdf70e"
+      "sha256": "fca637443c7ead0b9567f76218da13250d0b03646b00620d1e8e2cc4aa6f6870"
     },
     "sourceVerification": {
       "url": "https://luma.com/r9ihyj7i",
@@ -7864,7 +7890,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "REWIRED: A Forum on Stablecoins and Agentic Payments · Luma",
-      "sha256": "71ed6f0acec8acd147b9c836d1b004c7d75a08f5aab346c4752124db966c0bbb"
+      "sha256": "f97631aa651e1ffcad59e542f42cda6f8e7e07ac0354bc5880f233095d44abac"
     },
     "sourceVerification": {
       "url": "https://luma.com/rewired-sff",
@@ -7911,7 +7937,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "AWIC x SFF | AI &amp; Digital Assets: Building Trust in Financial Markets · Luma",
-      "sha256": "53c5ee40e46dd480b5a8fe300d3cc0834dd7bc24001b3bc00ff4a2767c2cb4b2"
+      "sha256": "4124cb7c04df0ca8144124090c2ba2fc3a3b5eac4a9eaeeff207f5168fda1587"
     },
     "sourceVerification": {
       "url": "https://luma.com/2f61b5sd",
@@ -8003,7 +8029,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Spritz &amp; Stablecoins: Happy Hour with Codex FX · Luma",
-      "sha256": "0bae45bde2e60389cc87ebc9b86e9d234fcff6ef6bfb103dc2d90c17db1260fd"
+      "sha256": "c09c95da5864b7a2f7e608625b9d951b7a1b711890aa856fb8fe6380a3362903"
     },
     "sourceVerification": {
       "url": "https://luma.com/codexfx-3dkg",
@@ -8048,7 +8074,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Binance Community Evening, Geneva 🇨🇭 · Luma",
-      "sha256": "da80b566dbd829361e6fe06aa4c9be86345af2c0b17e70b3152810c42119cd28"
+      "sha256": "748ec745370b5bd71dc4431f73f552f7f438cf868d74f1a497377c9ad8f73c48"
     },
     "sourceVerification": {
       "url": "https://luma.com/zz7r5gum",
@@ -8100,7 +8126,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Cóctel TRM + Bit2Shield · Luma",
-      "sha256": "f056d569c16b7a74e7f381721ffda0d4e614ca33799c8e21f84a1dc9d48d6ceb"
+      "sha256": "332e2217f161cb1676a25954bce7b05145f0584e5d3f6391db214129a87a4b0b"
     },
     "sourceVerification": {
       "url": "https://luma.com/trmlabs-12df",
@@ -8144,7 +8170,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "House of Sol Workshops: Slow Transaction Data is Alpha Leakage: SRI x Alchemy · Luma",
-      "sha256": "138d2c862da1d14a50089643d3fc86fe1c0dc31b8750ec12b939d092a35d5e81"
+      "sha256": "d9bce63d2e3800865a1a33fbf609d06d3833b1e3f1120af45ef583ed419aff6d"
     },
     "sourceVerification": {
       "url": "https://luma.com/hos-workshops-alchemy",
@@ -8238,7 +8264,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Xapo Bank Community Event · Luma",
-      "sha256": "6bce64f135d7e281213621c787fe1dbdea340ed2ba2ad806f8bbd67bcac07fed"
+      "sha256": "d2b64df48f7fb950dd969d4064b8fe4fea9072547d658d41e697b55af4e10c7b"
     },
     "sourceVerification": {
       "url": "https://luma.com/gpeo2awb",
@@ -8391,7 +8417,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "₿uilder Miami · Luma",
-      "sha256": "ca8e2906103544c3650107024e4d3a686d7ea35ff71f425b6260429884227897"
+      "sha256": "b38dbbf2551cc83e52f9a4988b17c6f44fca5a43dd453afbfb931bdd919e325a"
     },
     "sourceVerification": {
       "url": "https://luma.com/8e5ttp0b",
@@ -8444,7 +8470,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Proof of Build: Houston Dev Night · Luma",
-      "sha256": "eab6a1d4eb6ff904d9d2263bd26e6446bf6a35bcd49da8e3168a6a3f2d0dd55b"
+      "sha256": "0983524cd809cef175fd7c876a969772a1a961cbcb1ec982def0f8a6aa3f54cd"
     },
     "sourceVerification": {
       "url": "https://luma.com/lumino-owux",
@@ -8549,7 +8575,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Quantum Security for Digital Assets · Luma",
-      "sha256": "b5907bcba28d0932dfd7bb6f0a29864483f242e9bf8fdb24da1b9c88e66a8cd8"
+      "sha256": "c1765d813a548642f10b31680d578bf9923d626f63a25c4c1f5fb4bc440bcad3"
     },
     "sourceVerification": {
       "url": "https://luma.com/e9rl9l0b",
@@ -8599,7 +8625,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Trust Summit | Singapore Fintech Festival 2026 · Luma",
-      "sha256": "c541f183cb84f8b9d70739f40dddcead33f585c72151bf6910fe79f73fc8b533"
+      "sha256": "26114c528991cb17fa1d12171882de054be9ffef5facaf1b141eed01c3930dfb"
     },
     "sourceVerification": {
       "url": "https://luma.com/hpz99yp0",
@@ -8686,7 +8712,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Co-Working Fridays Berlin · Luma",
-      "sha256": "a1e89f7d4b8d15f03e309ef6655df152673684118651e5ba5d0f7883ff12e29f"
+      "sha256": "f177848a99a07bce0f594ef9eabb804caa860739f70d52914f71c0430f5719c3"
     },
     "sourceVerification": {
       "url": "https://luma.com/emzyuj36",
@@ -8874,7 +8900,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Official Closing Party of SBW · Luma",
-      "sha256": "a9ec5035bae57b978a5c9c3914e24457308f18edfaa0d9da2e1ef8e42a9c8d68"
+      "sha256": "582879d1fdcc3ac6b2f4e2ff0dc1a6a712023425f89ca16c6af8a4eea67bd310"
     },
     "sourceVerification": {
       "url": "https://luma.com/p9e56ew7",
@@ -9006,7 +9032,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Życie W Standardzie Bitcoina Warszawa · Luma",
-      "sha256": "fdfff41d926207136e633c5c00b39e86a7a233845456f4e5ecc9e1397bb74859"
+      "sha256": "fb6128281ee5b98b005ea60f0efdc36acffcfce6548a76f810105685362416fb"
     },
     "sourceVerification": {
       "url": "https://luma.com/qm7hs6jd",
@@ -9095,7 +9121,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Presentación del Club Privado de Inversión en RWA · Tutellus · Luma",
-      "sha256": "e3b6d89531a60ab2c7b9e56d15ae48a65aea57a3e7ca6769f35fb895888ebd2c"
+      "sha256": "6b7ddd9cacf67b5762e63c21735d687e2f9c45347ea6da31e645444418ff648a"
     },
     "sourceVerification": {
       "url": "https://luma.com/agy0fqn5",
@@ -9150,7 +9176,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "RedotsClub Brasil | Dinner at the Palac3 · Luma",
-      "sha256": "db37e64ab3357a36db9af8232b41da00a38063af25f96788ac542b35720027a0"
+      "sha256": "a851ac5fadfab91b925f8dc80995ad9abf55d3192a0de572673dc4cc99957803"
     },
     "sourceVerification": {
       "url": "https://luma.com/oi22soan",
@@ -9332,7 +9358,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "From Real Assets to Digital Tokens: RWA Tokenisation · Luma",
-      "sha256": "e11cd12c19cd3f59bb4312c447cb225147fe8a1c9279bccf1e027cabedf02b52"
+      "sha256": "583c62145e2965e44a905aa8fbc6b38e5107c57de0ca349cbb83833fc70099dc"
     },
     "sourceVerification": {
       "url": "https://luma.com/r5kqfaz0",
@@ -9377,7 +9403,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "CryptoMondays Institutional - Featuring A Fireside Chat W/ Franklin Templeton&#x27;s Chris Perkins · Luma",
-      "sha256": "601be4192c86fa92a4880e5affb1477e58f390f07319f3ddad52578212770adf"
+      "sha256": "4aac8ca8ed78fe30f8dde4dc61ac86bb6c1048c9411965db213bbade51c1024e"
     },
     "sourceVerification": {
       "url": "https://luma.com/bdvzh2yg",
@@ -9427,7 +9453,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Trust Infrastructure for the Tokenization Era : Travel Rule and AML · Luma",
-      "sha256": "fb8636ee5a7713bbeb6707dc25c3231f9fbf9637c93ae010563bcd34acb017c1"
+      "sha256": "22964cb31c3ca565c8cce2449c1ff820e12922e76c1aeb7a572409dd0fd91d41"
     },
     "sourceVerification": {
       "url": "https://luma.com/9szg4i77",
@@ -9747,7 +9773,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "UAE National Day Lunch 🇦🇪 · Luma",
-      "sha256": "86539d48fd4b0fa59c647e0a7be83e81e52ee40995dbaea56f27656bc63489b0"
+      "sha256": "75dadc5215eeea91eb3a9f3fe07dd412778532ce5809a4e4c210ee72d1044f29"
     },
     "sourceVerification": {
       "url": "https://luma.com/uaenationaldaylunchsolana",
@@ -9839,7 +9865,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "SWC Cup | Crypto Padel League Final · Luma",
-      "sha256": "40e6b12eef77e714f4a9162a80260bd2c1cb7491665fb9e346cbbda3308837b1"
+      "sha256": "fe353501c527b8231fde9f5ec890c2c74c63daf844269551584577e231181cbe"
     },
     "sourceVerification": {
       "url": "https://luma.com/p2y6kowo",
@@ -9890,7 +9916,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "HSG Fintech Summit 2026 · Luma",
-      "sha256": "489887ebbc22d6d2f657fe56e63d4491614763cdfdd96f5b4e8f0f6d373a152f"
+      "sha256": "5ad388bb11564fd6dbc5e71b862cd9f9f78f5dc2f7859b6e3e8aaf6e21feed4a"
     },
     "sourceVerification": {
       "url": "https://luma.com/widzr06p",
@@ -10223,7 +10249,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Trading the AI Era — A Horizon Series Event @ Bangkok · Luma",
-      "sha256": "c29c87026e0372ad4149a94b4979b987155f90274db1471ab4fc02fe60948392"
+      "sha256": "5563eff36a1b16c7f8c8e8d7fdb2ee128401a9089aa96d2eb76688f65a02f7f3"
     },
     "sourceVerification": {
       "url": "https://luma.com/1x1dm62n",
@@ -10265,7 +10291,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "COOL-DOWN, Elephants x BitGo · Luma",
-      "sha256": "853dee9efcfef798bbda384dfa329d7dbd946e1b425c04754ab7b1c40cb99e2b"
+      "sha256": "4ac7d788da74b01cd2e10b32bd1a73089ff191abea6ed006e5d0ed788839596a"
     },
     "sourceVerification": {
       "url": "https://luma.com/ee3r35l5",
@@ -10312,7 +10338,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Sterling, Stablecoins &amp; Beyond,Where is Digital Money Heading in the UK · Luma",
-      "sha256": "6fe28eb12bc74380463523b320ab42175d3226a564eb28f063342b760e878b77"
+      "sha256": "676eb337a71b5b8bf6a19875086187c299639f48a907956a353691b6f925cca6"
     },
     "sourceVerification": {
       "url": "https://luma.com/t7lb04mp",
@@ -10411,7 +10437,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Money in 2027 · Luma",
-      "sha256": "d0ec220f426aeeb2aecc72964dc18b5ab6235e408369ba60c7ea22321fab64df"
+      "sha256": "af2562519228003f73f7e5745eabbfa20e37c102c5a4081c88cd2f6051641c96"
     },
     "sourceVerification": {
       "url": "https://luma.com/mbi08x4c",
@@ -10455,7 +10481,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Trustyfy: Redefining the Future of Finance · Luma",
-      "sha256": "cff2c71e6aaababbc5d9436660b047106a595d856524bd8c7ef0448f5d6ca48b"
+      "sha256": "6aacf2d7ea930780d4bfb1088a91f961994e1286c5ce73997f4513cccab744bd"
     },
     "sourceVerification": {
       "url": "https://luma.com/eynimwzr",
@@ -10503,7 +10529,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "🌱 Touch Grass: Web3 Creators × Founders 🍕🥂 · Luma",
-      "sha256": "16efbcbd52f2a5fbf960be2e1cba8e8ebd21621ca703b8c37b08c63028b182bc"
+      "sha256": "efae2390dd9185095fdbfb0b96d13d7b8abbdc34a65530aee1d5b9238e51e384"
     },
     "sourceVerification": {
       "url": "https://luma.com/sw7x7fym",
@@ -10761,7 +10787,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Stripe Breakfast @ re:Invent · Luma",
-      "sha256": "1f0c96f2f89b447baf96293e1b142a16479f9ae29f693507e8d48ce217346e25"
+      "sha256": "f7303ed6760cf536b8b8f762f247c795a6ec9af3f2701876b8bb96327d84c298"
     },
     "sourceVerification": {
       "url": "https://luma.com/5d5kb5cd",
@@ -10810,7 +10836,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Investor Breakfast – Why Choose an ETF for Institutional Bitcoin Exposure? · Luma",
-      "sha256": "3ff41e8016b3d7db5148154bfb414452cd95bd764b2d4ea82e9160b8aea702c0"
+      "sha256": "89e3ba9a4d17b38c611cd7a352ec128aa86be42c056844c83ed85390dafabbf2"
     },
     "sourceVerification": {
       "url": "https://luma.com/l2kt3ztz",
@@ -10894,7 +10920,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Tokenized Assets Are Here. Is Your Desk Ready to Trade Them? · Luma",
-      "sha256": "6f29e975d65962b9d6b21b6142789a117f638875a737f35497a22551e76f58ba"
+      "sha256": "b9976e25fedd8085933cb272ce21d948e9a3e2d7ee8773b8eb432df52adcd8eb"
     },
     "sourceVerification": {
       "url": "https://luma.com/tbwnyc",
@@ -10960,7 +10986,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "L’écosystème fintech montréalais à l’heure de la tokenisation · Luma",
-      "sha256": "9e03f3b64bd281eb1f90542d6f293f6731b9cb2058d6427b11af37d7e2f0ea0f"
+      "sha256": "4244297c626ccf72c8f962349774af2d48d9bb7155bc7867132f84d516adc1d5"
     },
     "sourceVerification": {
       "url": "https://luma.com/43gnhkuz",
@@ -11549,7 +11575,8 @@
     "descriptionSource": {
       "url": "https://luma.com/9q2by4vu",
       "fetchedAt": "2026-10-30T21:50:40.693Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "321170cdeb393c054d7557dd53f46f01028a1c0b14f1149090acbd8179a37841"
     }
   },
   {
@@ -11698,7 +11725,8 @@
     "descriptionSource": {
       "url": "https://luma.com/8bwrwh40",
       "fetchedAt": "2026-10-30T21:50:40.693Z",
-      "method": "luma-page"
+      "method": "luma-page",
+      "sha256": "882629fc3b5e4f6ce4c68c797bd567ba710c76efd34f52f756b582ae13562846"
     }
   },
   {
@@ -11755,7 +11783,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "NYC PubKey Privacy Pop-up · Luma",
-      "sha256": "c14cce35b67d263a134631d36a42b218ca2ac470a33cbeea187e58ca4feaceb2"
+      "sha256": "5272448cbd6d555403bd0650a3d0f51b8c14756c15b32983ddcba35f465ad348"
     },
     "sourceVerification": {
       "url": "https://luma.com/v5d1arbu",
@@ -11801,7 +11829,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Bitcoin Builders Club · Luma",
-      "sha256": "06b61227ba83e20df29e746a006dbe54a0a591f23f99663faf39850e7ce5285a"
+      "sha256": "a095617c4478a7e6f6dba72f74ae3e689fd40a84787012ba960302cf8c1be8db"
     },
     "sourceVerification": {
       "url": "https://luma.com/1uniw2n0",
@@ -11906,7 +11934,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Blockchain Summit 2027 Spring · Luma",
-      "sha256": "ce5fb8082e69d30f60a782260482f287bba8fe80cccf8f50a48b2025485c89da"
+      "sha256": "cd8b86d19f599b2683f374c6f662279f2ed7c1268de875ac6e7cbaa9d0c45833"
     },
     "sourceVerification": {
       "url": "https://luma.com/bcs2027",
@@ -12071,7 +12099,7 @@
       "fetchedAt": "2026-11-10T22:14:26.058Z",
       "method": "official-section",
       "pageTitle": "Fintech Week London Summit 2027 · Luma",
-      "sha256": "792e1da1960d4db55606d402e64477c46c88c567d5c1315e15848d64f4c92c5b"
+      "sha256": "78e6ca9eb727525d4281508a6e8bd949444cffb844e4ad103e9ad25564a2e6a3"
     },
     "sourceVerification": {
       "url": "https://luma.com/fwl27",

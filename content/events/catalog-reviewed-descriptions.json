@@ -23,7 +23,7 @@
       "fetchedAt": "2026-10-12T11:25:02.123Z",
       "method": "official-section",
       "pageTitle": "Company Brain Hackathon: Build an AI Agent That Knows Your Organization",
-      "sha256": "0e1e9100eed6f59526e2b0accce8ef4eec3dd53e87121a6d89ea069ff6ef0f74",
+      "sha256": "c23e9b51f5dfdcee334477613f5e65d21f57116572c8dee4460d8761420c80a0",
       "evidence": [
         {
           "url": "https://luma.com/oct-hackathon",
@@ -617,7 +617,7 @@
       "fetchedAt": "2026-11-10T22:05:39.957Z",
       "method": "event-jsonld",
       "pageTitle": "TOKEN2049 | 21-22 April 2027 | Dubai",
-      "sha256": "acacf24bf619e211862aaf0df225b10ee3455f97b7418e147b4a8a5a5a5bac7b"
+      "sha256": "ce173bb0c3542147ed4827872ea9d33a030527bdb3c1cd581aa4460e2d8cb2e5"
     }
   },
   "premier-tabconf": {
@@ -1085,7 +1085,7 @@
       "fetchedAt": "2026-11-10T22:05:40.555Z",
       "method": "official-section",
       "pageTitle": "Crypto Fest 2026 | 20 Nov 2026 | 8th Edition | Get Your Tickets",
-      "sha256": "4a6aa07d6383ccd670d0464e3391860e57daf9f9562432e24ff586e2034390e4"
+      "sha256": "c6a7ce497abf3a1c226141b5d349e2f4410bb2a82af506ff2632bc19d13d8917"
     }
   },
   "premier-ibt-bengaluru-2026": {
@@ -1244,7 +1244,7 @@
       "fetchedAt": "2026-11-10T22:05:46.940Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Finnovation Day @ Money20/20 Asia - APAC Money Movement: Cross-Border Payments × Banking × Digital Assets",
-      "sha256": "bd4ff57a17f60c4f5f385d24db92a990b977e4b863cb64d99abcce59442c125f"
+      "sha256": "9947fff6e8e3235a695dca075f1a2f1c3b9ef1faeb006b8a8f087a778f3394a5"
     }
   },
   "premier-auscryptocon-2026": {
@@ -1312,7 +1312,7 @@
       "fetchedAt": "2026-11-10T22:05:43.196Z",
       "method": "official-section",
       "pageTitle": "Consensus Miami 2027: Most Influential Event in digital assets, finance, and technology.",
-      "sha256": "e89e40accc84b1f6eff4a3b2aa8d611db3c28ee1316f7d8e64023b367d100ffe"
+      "sha256": "1db7c72fc4e1e58901e924cdd63dea641286ea24778787305789ec5c3a070593"
     }
   },
   "premier-ethcc-2027": {
@@ -2628,7 +2628,7 @@
       "fetchedAt": "2026-11-10T22:05:46.425Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Rayls Community Meetup: London",
-      "sha256": "2bf738a2587f57bc236212a2f7216131ae837947e7db52b24aa247e57d29e97d"
+      "sha256": "af5810206850849cf48981f4fee6501d0a5042ffeb966fcf7427f7436d4e1356"
     }
   },
   "w3v-200ms-26-11-13": {
