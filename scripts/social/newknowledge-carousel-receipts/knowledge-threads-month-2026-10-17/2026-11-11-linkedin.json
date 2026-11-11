@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-11-11",
+    "threadId": "C09",
+    "sequence": 25,
+    "platform": "linkedin",
+    "sourceContentSha256": "1cbe2f93ef8c2be5086df627ff8374c4090b8f42aebe30623ae69d6c3176c55f",
+    "calendarSha256": "70484da3b7319ebb706092e37759daf11ea4a58df5a9beadef96d8dd5ada9ebc",
+    "sourceThreadSha256": "4acb4c6af63cb9563bbd81661f62c1683d2a4adf64c9895be00ece1a1f7dfb9e",
+    "sourcePostHashes": [
+      "021e0194b5b9ebd39454b40d4f7a3a2124e254f53460ac3816b6567d4bd843cf",
+      "19a0e81991409c09378a51e54466f4f41b97cbd69c2761b909dbc145e81e64de",
+      "89d64eef6af6e0c385ac96414fcb3a303406d4806c43a14bbcd2637f516f2f75",
+      "a70578851e05779033b47ba4e1300b38122ac753e1ff591fb71c84e3e585ad7a",
+      "d71ebffab2fc982c5da1cd93cd22043efb368ee4a173cb97842605886fd18138",
+      "8cb3d055d4b28b76b941d5f3f14596c342f340718e4de206b91cc91b304061e7"
+    ],
+    "sourceImages": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-01.jpg",
+        "sha256": "29bfc431089d417f7d633d6ab9159b2410ee3a965afdcc603e731f6bb43c8d5f",
+        "bytes": 126043,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Resume Builder example, before and after. Before: Built a dApp. After: Built a React token-balance view with disconnected, loading and RPC-error states. The project is named Sample Token-Balance View and labeled Personal practice project in Key Projects & Portfolio.",
+        "renderedText": "Resume rewrites\n\nTechnical example: name the interface states\n\nExample résumé\n\nBefore\n\nBuilt a dApp.\n\nAfter\n\nHashtag Web3 Resume Builder\n\nC09 · 1/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-02.jpg",
+        "sha256": "dc2c15a3f9dc90617f6df97e315c33f312c43c386a8c91901321dd9c12c61424",
+        "bytes": 129459,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Resume Builder example, before and after. Before: Managed Discord. After: Drafted a mock support queue with issue category, escalation owner and resolution note. The project is Sample Support Queue, labeled Personal practice project.",
+        "renderedText": "Resume rewrites\n\nCommunity example: name the support artifact\n\nExample résumé\n\nBefore\n\nManaged Discord.\n\nAfter\n\nHashtag Web3 Resume Builder\n\nC09 · 2/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-03.jpg",
+        "sha256": "9e0fdf1571f68271f6bbf016d5af6fc5de1dda490a0eff3341b7c37a19391843",
+        "bytes": 131638,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Resume Builder example, before and after. Before: Wrote about crypto. After: Wrote a practice guide explaining approve and transferFrom with a worked allowance example. Sample Token Approval Guide is labeled Personal practice project.",
+        "renderedText": "Resume rewrites\n\nContent example: name what the reader learns\n\nExample résumé\n\nBefore\n\nWrote about crypto.\n\nAfter\n\nHashtag Web3 Resume Builder\n\nC09 · 3/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-04.jpg",
+        "sha256": "c53c3d9f908f4c35542ffea8ef09f8a670cb6e9b4ed04c57f501864183e5fa23",
+        "bytes": 133085,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Three sample Resume Builder summaries: a frontend developer building a React token-balance view with connection and error states; a community contributor drafting a mock support queue and moderator handoff; a content writer explaining token approvals through a worked allowance example.",
+        "renderedText": "Resume rewrites\n\nThree example résumés\n\nHashtag Web3 Resume Builder\n\nC09 · 4/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-05.jpg",
+        "sha256": "9983de559d29d49753148aeede3408ea9a75cdf41bf699fa57861ea2b5b7faa5",
+        "bytes": 144081,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Two sample Resume Builder summaries with interview practice prompts. Technical: disconnect a wallet, load a balance and simulate an RPC error. Community support: classify a mock issue, assign an owner and record the resolution.",
+        "renderedText": "Resume rewrites\n\nInterview walkthroughs\n\nPractice prompts\n\nTechnical: disconnect the wallet, load a balance, simulate an RPC error.\n\nSupport: classify, assign, record the resolution.\n\nHashtag Web3 Resume Builder\n\nC09 · 5/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-06.jpg",
+        "sha256": "96740b4915a787da0665c5a4e2f0ccc881a97db9398eb5766fae70c04c6dbb9b",
+        "bytes": 146079,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Resume Builder's Key Projects & Portfolio section shows Sample Token Approval Guide, labeled Personal practice project, with an example description about approve and transferFrom. Project Name, Your Role, Description and Link are separate fields. The sample link is empty; Download PDF exports the preview.",
+        "renderedText": "Resume rewrites\n\nUse the project fields\n\nExample résumé\n\nKey Projects & Portfolio\n\nProject Name · Your Role · Description · Link\n\nThe sample link is empty. Download PDF exports the preview.\n\nHashtag Web3 Resume Builder\n\nC09 · 6/6"
+      }
+    ],
+    "assetCommit": "86aee951a9c705158e12bfeaa7bbc62f9a7fc9a9",
+    "target": {
+      "channelId": "69c5b139af47dacb695b5feb",
+      "service": "linkedin",
+      "serviceId": "89714573",
+      "profile": "https://www.linkedin.com/company/hashtagweb3/"
+    },
+    "caption": "Sample resume rewrite:\n'Built a dApp' becomes 'Built a React token-balance view with disconnected, loading and RPC-error states.'\n\nUse the project's Description field.\n\n1. Sample community resume:\n'Managed Discord' becomes 'Drafted a mock support queue with issue category, escalation owner and resolution note.'\n\nYour Role: Personal practice project.\n\n2. Sample content resume:\n'Wrote about crypto' becomes 'Wrote a practice guide explaining approve and transferFrom with a worked allowance example.'\n\nProject Name: Sample Token Approval Guide.\n\n3. Sample summaries: frontend developer building a balance view; community contributor drafting a support queue; content writer explaining token approvals.\n\nPut the sentence in Professional Summary.\n\n4. Practice interview walkthroughs:\n\nTechnical: disconnect the wallet, load a balance, then simulate an RPC error.\nSupport: classify the issue, assign an owner and record the resolution.\n\n5. Use Key Projects & Portfolio for practice work, with separate Project Name, Your Role, Description and Link fields.\n\nDownload PDF exports the preview.\n\nFull resource: hashtagweb3.com/resume-builder/li",
+    "title": "Three sample resume rewrites in the Resume Builder",
+    "pdf": {
+      "path": "social-assets/knowledge-threads-month/exports/C09/linkedin.pdf",
+      "sha256": "8a5f296ba4ba03c91d5eba43074454589aef1dd34a98084355bf05f9191dabc1",
+      "bytes": 814213,
+      "pageCount": 6,
+      "widthPt": 600,
+      "heightPt": 750,
+      "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/86aee951a9c705158e12bfeaa7bbc62f9a7fc9a9/social-assets/knowledge-threads-month/exports/C09/linkedin.pdf"
+    },
+    "thumbnail": {
+      "path": "social-assets/knowledge-threads-month/exports/C09/cover.jpg",
+      "sha256": "29bfc431089d417f7d633d6ab9159b2410ee3a965afdcc603e731f6bb43c8d5f",
+      "bytes": 126043,
+      "width": 1200,
+      "height": 1500,
+      "alt": "Resume Builder example, before and after. Before: Built a dApp. After: Built a React token-balance view with disconnected, loading and RPC-error states. The project is named Sample Token-Balance View and labeled Personal practice project in Key Projects & Portfolio.",
+      "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/86aee951a9c705158e12bfeaa7bbc62f9a7fc9a9/social-assets/knowledge-threads-month/exports/C09/cover.jpg"
+    }
+  },
+  "account": {
+    "channelId": "69c5b139af47dacb695b5feb",
+    "service": "linkedin",
+    "serviceId": "89714573",
+    "profile": "https://www.linkedin.com/company/hashtagweb3/",
+    "type": "page",
+    "organizationId": "69c5b0f799d3bd8de475e25a"
+  },
+  "claimId": "a56cbb2a-fe70-49a1-b9c3-55a3da49cada",
+  "startedAt": "2026-11-11T11:40:16.630Z",
+  "status": "claimed"
+}
