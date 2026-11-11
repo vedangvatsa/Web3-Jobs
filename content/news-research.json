@@ -163943,7 +163943,7 @@
         "id": "252532bdf9093343d60c",
         "day": "2026-11-11",
         "articleSlug": "zcashgrants",
-        "note": "Read Decrypt and Bitcoin.com coverage of the M Zcash commitment; two sources verified, draft not started.",
+        "note": "Round 3 re-read Decrypt and Bitcoin.com coverage; verified 1M commitment, 4 x 100k first grants, ZCSH fee reinvestment up to a year, ad campaign, ZEC price levels. Two sources verified; draft not started before deadline.",
         "sourceChecks": [
           {
             "url": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
@@ -163954,7 +163954,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-11T11:46:25.564Z",
+        "updatedAt": "2026-11-11T11:51:48.985Z",
         "approved": false,
         "mustReview": true
       }
