@@ -917,6 +917,9 @@
   "https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/",
   "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/",
   "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+  "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+  "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+  "https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2532,6 +2535,12 @@
   "Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises",
   "New York enforces new safety regulations for AI developers",
   "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+  "TSMC to invest $1 billion in OpenAI and Anthropic",
+  "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+  "Google DeepMind releases AlphaGenome 2 biology model",
+  "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+  "MBZUAI releases open-source physical world model",
+  "MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2966,5 +2975,8 @@
   "fp:blown|ceo|chip|espionag|fac|hav|huang|international|jensen|leader",
   "fp:10x|achiev|algorithm|beat|cluster|compar|epoch|fair|faster|fewer",
   "fp:20b|750m|domain|evaluation|expert|grad|human|mercor|network|performanc",
-  "fp:anthropic|comply|critical|disclos|effect|enforc|fac|incident|law|level"
+  "fp:anthropic|comply|critical|disclos|effect|enforc|fac|incident|law|level",
+  "fp:anthropic|between|chipmak|chipmaker|deepen|direct|fabrication|financial|frontier|giant",
+  "fp:aid|alphagenome2|alter|biology|cellular|diseas|dna|function|genetic|googl",
+  "fp:29b|action|algorithm|autonomous|generation|ifm|mbzuai|open|pan2|parameter"
 ]
