@@ -133983,7 +133983,8 @@
       },
       "account": "channel:product",
       "attemptId": "8b1c37fa-03a0-4274-9216-cf8897f9ffa9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb2c72272e1e2d39600d39f11b746695c7c2860df"
     }
   ]
 }
