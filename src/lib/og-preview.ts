@@ -81,7 +81,13 @@ export function buildOgPreviewHtml(meta: OgPreviewMeta): string {
 <meta name="twitter:image" content="${escHtml(meta.ogImageUrl)}"/>
 <meta name="twitter:image:alt" content="${escHtml(meta.title)}"/>
 </head>
-<body></body>
+<body>
+<main>
+<h1>${escHtml(meta.title)}</h1>
+<p>${escHtml(meta.description)}</p>
+<p><a href="${escHtml(meta.canonicalUrl)}">Continue to Hashtag Web3</a></p>
+</main>
+</body>
 </html>`;
 }
 

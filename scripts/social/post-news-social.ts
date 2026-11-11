@@ -164,7 +164,7 @@ export function fallbackCaptions(article: NewsArticle): Captions {
   // Remove trailing colons or punctuation
   summary = summary.replace(/[.:;,]+$/, '').trim();
 
-  const xUrl = `${SITE_URL}/${article.slug}/x`;
+  const xUrl = `${SITE_URL}/${article.slug}`;
   const linkedInUrl = `${SITE_URL}/${article.slug}/li`;
 
   return {
@@ -232,7 +232,7 @@ Output ONLY JSON matching:
         }
 
         if (summary) {
-          const xUrl = `${SITE_URL}/${article.slug}/x`;
+          const xUrl = `${SITE_URL}/${article.slug}`;
           const linkedInUrl = `${SITE_URL}/${article.slug}/li`;
 
           return {

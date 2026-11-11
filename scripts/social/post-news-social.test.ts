@@ -27,7 +27,7 @@ test('fallbackCaptions produces short, concise 1-2 line captions with zero hasht
 
   assert.ok(captions.summary.length > 0 && captions.summary.length <= 210);
   assert.ok(captions.xFullText.length <= 280, `X caption too long: ${captions.xFullText.length}`);
-  assert.ok(captions.xFullText.includes('https://hashtagweb3.com/test-crypto-bill/x'));
+  assert.ok(captions.xFullText.includes('https://hashtagweb3.com/test-crypto-bill'));
   assert.ok(!captions.xFullText.includes('#'), 'Must not contain any hashtags');
   assert.ok(!captions.linkedInFullText.includes('#'), 'Must not contain any hashtags');
   assert.ok(captions.linkedInFullText.includes('https://hashtagweb3.com/test-crypto-bill/li'));
