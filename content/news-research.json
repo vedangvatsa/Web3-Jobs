@@ -166856,7 +166856,23 @@
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
       "attempts": 0,
       "expiresAt": "2026-11-13T14:06:02.000Z",
-      "lastSeenAt": "2026-11-11T08:29:40.487Z"
+      "lastSeenAt": "2026-11-11T08:29:40.487Z",
+      "articleSlug": "anthropicipo",
+      "draftProgress": {
+        "id": "e64be1e4b27b3f504f00",
+        "day": "2026-11-11",
+        "articleSlug": "anthropicipo",
+        "note": "Read Decrypt IPO range story; CNBC and TechCrunch surfaced in search but not yet opened as second source; no draft yet.",
+        "sourceChecks": [
+          {
+            "url": "https://decrypt.co/382939/anthropic-sets-ipo-price-range-at-70-to-78-valuing-company-at-up-to-1-4-trillion",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-11T11:46:11.838Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "93dd6520146fbb957264": {
       "source": "CoinDesk",
