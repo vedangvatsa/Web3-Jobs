@@ -131997,7 +131997,8 @@
       },
       "account": "channel:developers",
       "attemptId": "15e64c77-e4be-4cbd-a267-c92ec1667f1d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x29bd1fb5b7bba952e28aa06fb5417d689a3e2604"
     }
   ]
 }
