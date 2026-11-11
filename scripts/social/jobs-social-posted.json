@@ -130635,7 +130635,8 @@
       },
       "account": "channel:growth",
       "attemptId": "1f6acae5-208d-419a-ba6c-78f04d2acd6a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xeb3fd72b766f56a31c6089320ca40352b1d17709"
     }
   ]
 }
