@@ -131722,6 +131722,38 @@
       "attemptId": "d731f650-96bc-4e3b-a404-83f1d7cb5902",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Wednesday, 11-Nov-26 03:45:33 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AwQsgpLenPsJMU4HO0mpIDo\"}"
+    },
+    {
+      "slug": "trcr",
+      "company": "Bybit",
+      "title": "Trading Risk Control Lead- Regulated Risk",
+      "platform": "bluesky",
+      "postedAt": "2026-11-11T11:45:19.473Z",
+      "expectedText": "Bybit is hiring Trading Risk Control Lead- Regulated Risk: https://hashtagweb3.com/trcr/bsky?og=7",
+      "snapshot": {
+        "id": "5024527101",
+        "title": "Trading Risk Control Lead- Regulated Risk",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024527101",
+        "date": "2026-11-05T15:30:46-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "Abu Dhabi, UAE",
+        "department": "Trading Risk ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "trcr"
+      },
+      "payload": {
+        "text": "Bybit is hiring Trading Risk Control Lead- Regulated Risk: https://hashtagweb3.com/trcr/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/trcr/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/trcr.png?v=7",
+        "company": "Bybit",
+        "title": "Trading Risk Control Lead- Regulated Risk",
+        "description": "Join Bybit as Trading Risk Control Lead- Regulat. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "6cbe813f-1652-4225-83ad-18984082bfde",
+      "verification": "creating"
     }
   ]
 }
