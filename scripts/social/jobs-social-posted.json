@@ -133086,7 +133086,8 @@
       },
       "account": "channel:ai",
       "attemptId": "34c5d165-5596-4763-8e96-0c5960b6934a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb4438fb550f3e8cd8d3402aef8ab084a110023af"
     }
   ]
 }
