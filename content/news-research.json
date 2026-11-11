@@ -306374,7 +306374,7 @@
     "2026-11-11": {
       "day": "2026-11-11",
       "startedAt": "2026-11-11T08:29:40.487Z",
-      "status": "prepared",
+      "status": "incomplete",
       "candidateIds": [
         "bd9cea951bd811cec93b",
         "3227ff28ff788ca0905c",
@@ -308006,7 +308006,8 @@
         ],
         "total": 161,
         "checkedAt": "2026-11-11T08:29:40.487Z"
-      }
+      },
+      "validationErrors": []
     }
   }
 }
