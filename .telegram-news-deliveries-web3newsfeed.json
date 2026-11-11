@@ -3782,7 +3782,7 @@
     "sentAt": "2026-11-11T11:46:29.005Z"
   },
   "b5ed74e4-751f-486a-bb17-5c47428a601a": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-11T19:36:03.322Z",
     "stories": [
       {
@@ -3811,6 +3811,8 @@
         "originalTitle": "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup"
       }
     ],
-    "slotKey": "2026-11-11:evening"
+    "slotKey": "2026-11-11:evening",
+    "messageId": 65822,
+    "sentAt": "2026-11-11T19:36:07.338Z"
   }
 }
