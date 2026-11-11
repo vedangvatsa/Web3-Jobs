@@ -132701,7 +132701,8 @@
       },
       "account": "channel:web3",
       "attemptId": "346db4fa-30e8-46da-a2ea-286ed4821a46",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xcc5dba97759dcca60aa13489df8b618a23101575"
     }
   ]
 }
