@@ -132388,7 +132388,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "b1c8dd06-3eaf-47c9-aa0f-a9414a5ac837",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af455f2a197a2c4d57a8961"
     }
   ]
 }
