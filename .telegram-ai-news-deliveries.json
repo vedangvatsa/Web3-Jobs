@@ -3635,5 +3635,42 @@
     "slotKey": "2026-11-11:morning",
     "messageId": 193496,
     "sentAt": "2026-11-11T03:33:51.325Z"
+  },
+  "8efcaf78-9533-4328-a761-23837c0907b4": {
+    "status": "reserved",
+    "reservedAt": "2026-11-11T19:32:50.186Z",
+    "stories": [
+      {
+        "index": 2,
+        "original_title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+        "headline": "TSMC to invest $1 billion in OpenAI and Anthropic",
+        "summary": "The chipmaker plans to direct funds into frontier developers, deepening financial integration between silicon fabrication and artificial intelligence.",
+        "event_rationale": "Covers TSMC's $1 billion strategic investment into major AI labs, distinct from all previously posted funding announcements.",
+        "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+        "source": "Ars Technica",
+        "originalTitle": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI"
+      },
+      {
+        "index": 21,
+        "original_title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+        "headline": "Google DeepMind releases AlphaGenome 2 biology model",
+        "summary": "The system predicts how DNA variations alter cellular function to aid researchers in understanding human genetic diseases.",
+        "event_rationale": "Details Google DeepMind's launch of AlphaGenome 2, distinct from previous DeepMind tools and scientific models.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+        "source": "The Verge",
+        "originalTitle": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease"
+      },
+      {
+        "index": 28,
+        "original_title": "MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI",
+        "headline": "MBZUAI releases open-source physical world model",
+        "summary": "The 29-billion parameter software uses video generation and planning algorithms to predict physical actions for autonomous robotics.",
+        "event_rationale": "Focuses on the public release of the open-source PAN 2 model, distinct from all other posted open-source releases.",
+        "link": "https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/",
+        "source": "MarkTechPost",
+        "originalTitle": "MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI"
+      }
+    ],
+    "slotKey": "2026-11-11:evening"
   }
 }
