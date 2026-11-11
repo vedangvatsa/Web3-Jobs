@@ -9424,5 +9424,128 @@
     "slotKey": "2026-11-10:evening",
     "messageId": 156172,
     "sentAt": "2026-11-10T19:33:17.749Z"
+  },
+  "cb6aad44-dcfc-44e7-8ae0-e6898853d919": {
+    "status": "reserved",
+    "reservedAt": "2026-11-11T03:32:53.030Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8831161002",
+          "title": "Customer Success Associate",
+          "company": "Figure",
+          "link": "https://job-boards.greenhouse.io/figure/jobs/8831161002",
+          "date": "2026-11-03T14:25:45-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Figure [figure]",
+          "location": "Dallas, TX",
+          "department": "Customer Support Center",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso58"
+        },
+        "key": "8831161002",
+        "slug": "aso58",
+        "url": "https://hashtagweb3.com/aso58?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Figure",
+        "title": "Customer Success Associate"
+      },
+      {
+        "snapshot": {
+          "id": "8064171",
+          "title": "Solutions Architect Manager, Platforms (Asia-Pacific)",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8064171",
+          "date": "2026-10-19T02:56:42-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Singapore",
+          "department": "1153 Solutions Architecture (APAC)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "arc25"
+        },
+        "key": "8064171",
+        "slug": "arc25",
+        "url": "https://hashtagweb3.com/arc25?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Solutions Architect Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8202183",
+          "title": "People Partner",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8202183?t=gh_src=&gh_jid=8202183",
+          "date": "2026-11-02T17:44:52-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Menlo Park, CA",
+          "department": "PeopleX Division",
+          "active": true,
+          "salary": "$166k – $195k/yr",
+          "dateVerified": true,
+          "slug": "pp4"
+        },
+        "key": "8202183",
+        "slug": "pp4",
+        "url": "https://hashtagweb3.com/pp4?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "People Partner"
+      },
+      {
+        "snapshot": {
+          "id": "8066179003",
+          "title": "Head of Tax Information Reporting",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8066179003",
+          "date": "2026-10-29T03:19:19-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "EMEA (Remote)",
+          "department": "Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "tir4"
+        },
+        "key": "8066179003",
+        "slug": "tir4",
+        "url": "https://hashtagweb3.com/tir4?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Head of Tax Information Reporting"
+      },
+      {
+        "snapshot": {
+          "id": "60e864cee6d8",
+          "title": "Procurement Category Lead (AI & Crypto Data Center Construction)",
+          "company": "Bitdeer",
+          "link": "https://bitdeer.breezy.hr/p/60e864cee6d8-procurement-category-lead-ai-crypto-data-center-construction",
+          "date": "2026-10-28",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Bitdeer [bitdeer]",
+          "location": "Austin, TX",
+          "isRemote": false,
+          "department": "Procurement",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://bitdeer.breezy.hr/p/60e864cee6d8-procurement-category-lead-ai-crypto-data-center-construction",
+            "checkedAt": "2026-10-30T03:42:02.245Z",
+            "bodySha256": "4105a51a61bec9bb3a3cfe09f58f66f963d0ab8ae180a0fc0da28824d5818b5d",
+            "provider": "breezy",
+            "datePosted": "2026-10-28"
+          },
+          "slug": "pcac"
+        },
+        "key": "60e864cee6d8",
+        "slug": "pcac",
+        "url": "https://hashtagweb3.com/pcac?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "Procurement Category Lead"
+      }
+    ],
+    "message": "- Figure is hiring <a href=\"https://hashtagweb3.com/aso58?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Success Associate</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/arc25?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Architect Manager, Platforms (Asia-Pacific)</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/pp4?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">People Partner</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/tir4?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Tax Information Reporting</a>\n- Bitdeer is hiring <a href=\"https://hashtagweb3.com/pcac?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Procurement Category Lead (AI &amp; Crypto Data Center Construction)</a>",
+    "slotKey": "2026-11-11:morning"
   }
 }
