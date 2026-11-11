@@ -132207,7 +132207,8 @@
       },
       "account": "channel:defi",
       "attemptId": "51b8592d-0b12-433c-95f4-7ab16a82de04",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xabaa0dd13fb095d8c21b7cef62ae676594b82819"
     }
   ]
 }
