@@ -923,6 +923,153 @@ function prepareJobBlockMarkup(html: string): string {
   return decoded;
 }
 
+function cleanJobHyperlinks($: cheerio.CheerioAPI): void {
+  // 1. Unwrap Proofpoint URLDefense and trailing punctuation in anchors
+  $('a').each((_, a) => {
+    const $a = $(a);
+    let href = ($a.attr('href') || '').trim();
+    let text = $a.text().trim();
+
+    if (href.includes('urldefense.com/v3/__') || href.includes('urldefense.proofpoint.com/v2/url?u=')) {
+      const matchV3 = href.match(/__([^_]+)__;/);
+      const matchV2 = href.match(/[?&]u=([^&]+)/);
+      if (matchV3) href = matchV3[1];
+      else if (matchV2) href = decodeURIComponent(matchV2[1]);
+      $a.attr('href', href);
+      text = text.replace(/\s*\[[^\]]+\]$/, '').trim();
+      $a.text(text);
+    }
+
+    if (/[.,;:!?]$/.test(text) && !/\.[a-z]{2,4}$/i.test(text) && /^https?:\/\//i.test(text)) {
+      const punct = text.slice(-1);
+      text = text.slice(0, -1).trim();
+      if (href.endsWith(punct)) href = href.slice(0, -1);
+      $a.attr('href', href);
+      $a.text(text);
+      $a.after(punct);
+    }
+  });
+
+  // 2. Pattern: Strong/Bold/Em label ending with colon followed immediately by raw URL link
+  // e.g. <strong>Tomasz Tungus from Theory Ventures:</strong> <a href="url">url</a>
+  $('strong, b, em').each((_, el) => {
+    const $labelEl = $(el);
+    const labelText = $labelEl.text().trim();
+    if (!labelText.endsWith(':')) return;
+
+    let nextNode = el.next;
+    while (nextNode && nextNode.type === 'text' && !nextNode.data.trim()) {
+      nextNode = nextNode.next;
+    }
+    if (nextNode && nextNode.type === 'tag' && nextNode.name === 'a') {
+      const $a = $(nextNode);
+      const href = ($a.attr('href') || '').trim();
+      const aText = $a.text().trim().replace(/\)+$/, '');
+      if (/^https?:\/\//i.test(aText)) {
+        let afterA = nextNode.next;
+        let isAtEnd = true;
+        while (afterA) {
+          if (afterA.type === 'text' && afterA.data.trim()) { isAtEnd = false; break; }
+          if (afterA.type === 'tag') { isAtEnd = false; break; }
+          afterA = afterA.next;
+        }
+        if (isAtEnd) {
+          const cleanLabel = labelText.replace(/:\s*$/, '').trim();
+          $labelEl.text(cleanLabel);
+          $labelEl.wrap(`<a href="${href}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline"></a>`);
+          $a.remove();
+        }
+      }
+    }
+  });
+
+  // 3. Pattern: Element or text followed by ( <a href="url">url</a> ) or (<a href="url">url)</a>
+  $('a').each((_, el) => {
+    const $a = $(el);
+    let href = ($a.attr('href') || '').trim();
+    let aText = $a.text().trim();
+    if (!/^https?:\/\//i.test(aText)) return;
+
+    const prevNode = el.prev;
+    const nextNode = el.next;
+
+    let hasOpenParen = false;
+    let prevTextNode: any = null;
+    if (prevNode && prevNode.type === 'text' && /\(\s*$/.test(prevNode.data)) {
+      hasOpenParen = true;
+      prevTextNode = prevNode;
+    }
+
+    let hasCloseParen = false;
+    let nextTextNode: any = null;
+    if (nextNode && nextNode.type === 'text' && /^\s*\)/.test(nextNode.data)) {
+      hasCloseParen = true;
+      nextTextNode = nextNode;
+    } else if (aText.endsWith(')')) {
+      const openCount = (aText.match(/\(/g) || []).length;
+      const closeCount = (aText.match(/\)/g) || []).length;
+      if (closeCount > openCount) {
+        hasCloseParen = true;
+        aText = aText.replace(/\)+$/, '');
+        if (href.endsWith(')')) href = href.replace(/\)+$/, '');
+        $a.attr('href', href);
+        $a.text(aText);
+      }
+    }
+
+    if (hasOpenParen && hasCloseParen) {
+      prevTextNode.data = prevTextNode.data.replace(/\(\s*$/, '').trimEnd();
+      if (nextTextNode) {
+        nextTextNode.data = nextTextNode.data.replace(/^\s*\)/, '');
+      }
+
+      let targetElement = prevTextNode.prev;
+      while (targetElement && targetElement.type === 'text' && !targetElement.data.trim()) {
+        targetElement = targetElement.prev;
+      }
+
+      if (targetElement && (targetElement.name === 'strong' || targetElement.name === 'b' || targetElement.name === 'em')) {
+        const $target = $(targetElement);
+        $target.wrap(`<a href="${href}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline"></a>`);
+        $a.remove();
+      } else {
+        const textBefore = prevTextNode.data;
+        const clauseMatch = textBefore.match(/(?:^|[,;.]\s+)([^,;.]{4,80})$/);
+        if (clauseMatch) {
+          const phrase = clauseMatch[1];
+          const beforePhrase = textBefore.slice(0, textBefore.lastIndexOf(phrase));
+          prevTextNode.data = beforePhrase;
+          $a.replaceWith(`<a href="${href}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${phrase.trim()}</a>`);
+        } else {
+          try {
+            const parsed = new URL(href);
+            const cleanDisplay = parsed.hostname.replace(/^www\./, '') + (parsed.pathname === '/' ? '' : parsed.pathname);
+            $a.text(cleanDisplay);
+            prevTextNode.data += ' (';
+            if (nextTextNode) nextTextNode.data = ')' + nextTextNode.data;
+            else $a.after(')');
+          } catch {
+            $a.remove();
+          }
+        }
+      }
+    }
+  });
+
+  // 4. Any remaining raw URLs as link text: clean them so they don't show "https://" or trailing "/"
+  $('a').each((_, el) => {
+    const $a = $(el);
+    let text = $a.text().trim();
+    if (/^https?:\/\//i.test(text)) {
+      try {
+        const parsed = new URL(text);
+        const cleanDisplay = parsed.hostname.replace(/^www\./, '') + (parsed.pathname === '/' ? '' : parsed.pathname.replace(/\/$/, '')) + (parsed.search || '') + (parsed.hash || '');
+        $a.text(cleanDisplay);
+      } catch {}
+    }
+  });
+}
+
 function extractJobBlocks($: cheerio.CheerioAPI, html: string, job?: Job): Array<{ type: 'h3' | 'h4' | 'p' | 'li' | 'html'; text: string }> {
   // Remove non-content tags and navigation / apply button boilerplate
   $('script, style, iframe, noscript, svg, button, form, input, select, nav, footer, header, .navbar, .logo, .role-back, .apply-row, .role-meta, .job-details-content__sidebar, .job-details-content__apply-section, .share-links, .fb-xfbml-parse-ignore, [class*="share-button"], [class*="social-share"], [class*="sharethis"], [class*="addthis"], #apply, .h-header, .h-header-content, .h-header-menu, .custom-footer, .custom-footer-social-link, .boards-cookie-banner, .hosted-job-header, .hosted-job-office-locations, .hosted-job-preheader, [data-component="pf-popover"], [data-controller*="clipboard"], .credit, .sr-only, .visually-hidden').remove();
@@ -967,6 +1114,8 @@ function extractJobBlocks($: cheerio.CheerioAPI, html: string, job?: Job): Array
       $(el).replaceWith(`<strong>${$(el).html() || ''}</strong>`);
     }
   });
+
+  cleanJobHyperlinks($);
 
   // Separate adjacent inline elements with a space BEFORE text extraction:
   // ATS markup like <span>locations</span><span>Hong Kong</span> (or
@@ -1557,14 +1706,28 @@ function renderInlineMd(escaped: string): string {
     .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
     .replace(/(^|[\s(])__([^_]+)__/g, '$1<strong>$2</strong>')
     .replace(/\*\*/g, '')
-    .replace(/⇧JOBLINK:([^⇧⁄]+)⁄([^⇧]*)⇩/g, (_m, url: string, label: string) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`)
-    .replace(/[^\s<>]*⁄(https?:\/\/[^\s<>]+)⇩/g, (_m, url: string) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${url}</a>`)
+    .replace(/\[([^\]\n]+)\]\((https?:\/\/[^\s)]+)\)/g, (_m, label, url) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`)
+    .replace(/⇧JOBLINK:([^⇧⁄]+)⁄([^⇧]*)⇩/g, (_m, url: string, label: string) => {
+      let display = label;
+      if (/^https?:\/\//i.test(display)) {
+        try {
+          const parsed = new URL(display);
+          display = parsed.hostname.replace(/^www\./, '') + (parsed.pathname === '/' ? '' : parsed.pathname.replace(/\/$/, '')) + (parsed.search || '') + (parsed.hash || '');
+        } catch {}
+      }
+      return `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${display}</a>`;
+    })
+    .replace(/[^\s<>]*⁄(https?:\/\/[^\s<>]+)⇩/g, (_m, url: string) => {
+      let display = url;
+      try {
+        const parsed = new URL(url);
+        display = parsed.hostname.replace(/^www\./, '') + (parsed.pathname === '/' ? '' : parsed.pathname.replace(/\/$/, '')) + (parsed.search || '') + (parsed.hash || '');
+      } catch {}
+      return `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${display}</a>`;
+    })
     .replace(/⇧JOBBR⇩/g, '<br>')
     .replace(/[⇧⇩]/g, '')
     .replace(/\s+([,.:;!?])/g, '$1')
-    // Tighten boundary spaces introduced by tag-concat separation:
-    // "( Radar )" back to "(Radar)". Runs here (not at extraction) so link
-    // labels and bold spans keep their separators until the very end.
     .replace(/\(\s+/g, '(')
     .replace(/\s+\)/g, ')')
     .replace(/\s+/g, ' ');
@@ -1680,10 +1843,25 @@ function formatJobContent(originalHtml: string): string {
       .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
       .replace(/(^|[\s(])__([^_]+)__/g, '$1<strong>$2</strong>')
       .replace(/\*\*/g, '')
+      .replace(/\[([^\]\n]+)\]\((https?:\/\/[^\s)]+)\)/g, (_m, label, url) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`)
       .replace(/\u21E7JOBLINK:([^⇧\u2044]+)\u2044([^⇧]*)\u21E9/g, (_, url, label) => {
-        return `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`;
+        let display = label;
+        if (/^https?:\/\//i.test(display)) {
+          try {
+            const parsed = new URL(display);
+            display = parsed.hostname.replace(/^www\./, '') + (parsed.pathname === '/' ? '' : parsed.pathname.replace(/\/$/, '')) + (parsed.search || '') + (parsed.hash || '');
+          } catch {}
+        }
+        return `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${display}</a>`;
       })
-      .replace(/[^\s<>]*⁄(https?:\/\/[^\s<>]+)⇩/g, (_m, url: string) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${url}</a>`)
+      .replace(/[^\s<>]*⁄(https?:\/\/[^\s<>]+)⇩/g, (_m, url: string) => {
+        let display = url;
+        try {
+          const parsed = new URL(url);
+          display = parsed.hostname.replace(/^www\./, '') + (parsed.pathname === '/' ? '' : parsed.pathname.replace(/\/$/, '')) + (parsed.search || '') + (parsed.hash || '');
+        } catch {}
+        return `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${display}</a>`;
+      })
       .replace(/⇧JOBBR⇩/g, '<br>')
       .replace(/[⇧⇩]/g, '');
 

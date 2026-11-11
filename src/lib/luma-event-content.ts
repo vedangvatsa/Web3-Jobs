@@ -284,13 +284,28 @@ export function buildEditorialFromOrganizerDescription(event: Web3Event): EventE
 }
 
 /** Abbreviations and initials that must not end a sentence when splitting. */
-const SENTENCE_GUARD = /(?:\b(?:e\.g|i\.e|Mr|Mrs|Ms|Dr|St|vs|etc|Fig|approx|U\.S|U\.K|D\.C|a\.m|p\.m)|\b[A-Z]\.|^\d+\.)$/i;
+const SENTENCE_GUARD = /(?:\b(?:e\.g|i\.e|Mr|Mrs|Ms|Dr|St|vs|etc|Fig|approx|U\.S|U\.K|D\.C|a\.m|p\.m)|\b[A-Z]\.|^\d+\.|https?:\/\/\S*|\b[a-z0-9-]+\.[a-z]{2,}\/\S*)$/i;
 
 /** Split a very long paragraph into readable chunks at sentence boundaries. */
 function splitLongParagraph(block: string, max = 700): string[] {
   if (block.length <= max || block.includes('\n')) return [block];
   const flat = block.replace(/\s+/g, ' ');
-  const raw = flat.match(/[^.!?]+[.!?]+["'”)\]]*\s*/g) || [flat];
+  const raw: string[] = [];
+  let lastIndex = 0;
+  const sentenceRe = /[^.!?]+[.!?]+["'”)\]]*\s*/g;
+  let m: RegExpExecArray | null;
+  while ((m = sentenceRe.exec(flat)) !== null) {
+    raw.push(m[0]);
+    lastIndex = sentenceRe.lastIndex;
+  }
+  if (lastIndex < flat.length) {
+    const tail = flat.slice(lastIndex).trim();
+    if (tail) {
+      if (raw.length > 0) raw[raw.length - 1] += ` ${tail}`;
+      else raw.push(tail);
+    }
+  }
+  if (raw.length === 0) raw.push(flat);
   const sentences: string[] = [];
   for (const sentence of raw) {
     const last = sentences[sentences.length - 1];
