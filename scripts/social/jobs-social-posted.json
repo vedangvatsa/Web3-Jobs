@@ -131544,6 +131544,47 @@
       "verification": "verified",
       "postId": "6af454fe42a5c8fca2439abe",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7526248445733588992"
+    },
+    {
+      "slug": "cmp120",
+      "company": "Paxos",
+      "title": "Compliance KYC Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-11T11:41:36.769Z",
+      "expectedText": "Paxos is hiring Compliance KYC Manager: https://hashtagweb3.com/cmp120/li?og=7",
+      "snapshot": {
+        "id": "05364fdb-0ee9-4ddb-8bce-b093ff335e66",
+        "title": "Compliance KYC Manager",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/paxos/05364fdb-0ee9-4ddb-8bce-b093ff335e66",
+        "date": "2026-10-19T21:40:59.887+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - United States",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Risk & Compliance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "cmp120"
+      },
+      "payload": {
+        "text": "Paxos is hiring Compliance KYC Manager: https://hashtagweb3.com/cmp120/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/cmp120/li?og=7",
+          "title": "Compliance KYC Manager at Paxos",
+          "description": "Join Paxos as Compliance KYC Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/cmp120.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "8c3be037-179b-41bc-9851-d8ad0c6ffb3b",
+      "verification": "creating"
     }
   ]
 }
