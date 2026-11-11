@@ -119,6 +119,26 @@
       "slot": "afternoon",
       "date": "2026-11-11",
       "queuedAt": "2026-11-11T11:41:26.271Z"
+    },
+    {
+      "slug": "yaroch",
+      "platform": "x",
+      "channelId": "6ab62682ea19ca0bdee284bd",
+      "postId": "6af4c2c553159c0c75153b4b",
+      "status": "queued",
+      "slot": "evening",
+      "date": "2026-11-11",
+      "queuedAt": "2026-11-11T19:32:21.201Z"
+    },
+    {
+      "slug": "yaroch",
+      "platform": "linkedin",
+      "channelId": "69c5b139af47dacb695b5feb",
+      "postId": "6af4c2c6cd8c8b4c7cf97d2a",
+      "status": "queued",
+      "slot": "evening",
+      "date": "2026-11-11",
+      "queuedAt": "2026-11-11T19:32:21.201Z"
     }
   ]
 }
