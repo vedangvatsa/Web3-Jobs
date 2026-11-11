@@ -129949,6 +129949,36 @@
       "attemptId": "ace9e95e-17f9-4642-94f1-c61f431f9b5e",
       "verification": "verified",
       "postId": "691827047618629_1141931265080774"
+    },
+    {
+      "slug": "rec49",
+      "company": "Chainlink Labs",
+      "title": "Senior Talent Partner - Business and Enablement",
+      "platform": "x",
+      "postedAt": "2026-11-11T03:37:05.582Z",
+      "expectedText": "Chainlink Labs is hiring Senior Talent Partner - Business and Enablement\n\nhttps://hashtagweb3.com/rec49/x?og=7",
+      "snapshot": {
+        "id": "a45aa190-44df-413b-be2e-6d3074500c59",
+        "title": "Senior Talent Partner - Business and Enablement",
+        "company": "Chainlink Labs",
+        "link": "https://jobs.ashbyhq.com/chainlink-labs/a45aa190-44df-413b-be2e-6d3074500c59",
+        "date": "2026-10-26",
+        "dateVerified": true,
+        "source": "Ashby: Chainlink Labs [chainlink-labs]",
+        "location": "Remote (United States)",
+        "workplaceType": "Remote",
+        "department": "People",
+        "active": true,
+        "slug": "rec49"
+      },
+      "payload": {
+        "text": "Chainlink Labs is hiring Senior Talent Partner - Business and Enablement\n\nhttps://hashtagweb3.com/rec49/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "b0bac1b9-db83-499e-88e9-bcb51283ebde",
+      "verification": "creating"
     }
   ]
 }
