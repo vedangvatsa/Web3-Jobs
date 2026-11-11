@@ -1,13 +1,93 @@
 {
-  "generatedAt": "2026-11-11T08:29:31.212Z",
+  "generatedAt": "2026-11-11T11:25:00.808Z",
   "items": [
     {
-      "title": "Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline",
-      "link": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812",
-      "pubDate": "Wed, 11 Nov 2026 06:22:32 +0000",
+      "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
+      "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 11 Nov 2026 11:05:26 +0000",
+      "creator": "William Suberg",
+      "contentSnippet": "Bitcoin fell to an 11-week low of $72,670 after slipping below short-term holders’ average cost basis of about $75,700, according to CryptoQuant.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Crosschain protocol Across restores systems after domain hijack",
+      "link": "https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843",
+      "pubDate": "Wed, 11 Nov 2026 10:55:24 +0000",
       "creator": "Danny Park",
-      "contentSnippet": "According to its SEC filing, nearly $6.23 billion of the net losses came from unrealized fair value losses on digital asset holdings.",
+      "contentSnippet": "Attackers gained control of Across's official domain through a social engineering attack on its domain registrar, Namecheap.",
       "source": "The Block"
+    },
+    {
+      "title": "Kraken parent Payward adds 200 tokenized UK and European equities to xStocks offering",
+      "link": "https://www.theblock.co/news/business/2026-11-11-kraken-parent-payward-adds-200-tokenized-uk-and-european-equities-to-xstocks-offering-437837",
+      "pubDate": "Wed, 11 Nov 2026 10:54:02 +0000",
+      "creator": "James Hunt",
+      "contentSnippet": "Kraken parent Payward added more than 200 UK and European equities to xStocks, taking its tokenized offering past 1,500 assets.",
+      "source": "The Block"
+    },
+    {
+      "title": "Avalanche Won Over the NYSE. Now It Has to ‘Capture Value’ for AVAX",
+      "link": "https://decrypt.co/382988/avalanche-won-over-the-nyse-now-it-has-to-capture-value-for-avax",
+      "pubDate": "Wed, 11 Nov 2026 10:53:11 +0000",
+      "creator": "Ryan Gladwin",
+      "contentSnippet": "The New York Stock Exchange will use Avalanche infrastructure, but experts say that won't necessarily boost AVAX's price.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Bitcoin holds steady as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
+      "link": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
+      "pubDate": "Wed, 11 Nov 2026 10:45:49 +0000",
+      "creator": "James Van Straten",
+      "contentSnippet": "CoreWeave’s revenue surge lifted AI infrastructure stocks and Nasdaq futures, while bitcoin was little changed over 24 hours.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Prisoner Jailed for 8 Years Over $2.7M Crypto Theft Plot Run From His Cell",
+      "link": "https://decrypt.co/382984/prisoner-jailed-for-8-years-over-2-7m-crypto-theft-plot-run-from-his-cell",
+      "pubDate": "Wed, 11 Nov 2026 10:20:53 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Robert Barr planned to have accomplices force a crypto investor to install remote-access software so he could drain the wallet from prison.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Bitget Wallet reports sevenfold jump in crypto phishing risk alerts",
+      "link": "https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 11 Nov 2026 10:00:00 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "The wallet flagged about 37,000 signing requests a week for phishing in Q3 and said better monitoring likely contributed to the increase.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
+      "link": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 11 Nov 2026 09:58:15 +0000",
+      "creator": "Zoltan Vardai",
+      "contentSnippet": "Bitmine booked $6.2 billion in unrealized losses on digital assets. It held 6.07 million ETH on Sunday, or 4.97% of Ether’s supply.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "New York federal judge denies Novig’s injunction bid, rules its sports event contracts are not swaps",
+      "link": "https://www.theblock.co/news/regulation/2026-11-11-new-york-judge-denies-novig-injunction-bid-437828",
+      "pubDate": "Wed, 11 Nov 2026 09:40:46 +0000",
+      "creator": "Danny Park",
+      "contentSnippet": "A federal judge ruled New York can enforce gambling laws against Novig after finding its sports contracts are not swaps.",
+      "source": "The Block"
+    },
+    {
+      "title": "Stock ETF buyers pounce on dip as Bitcoin funds bleed $1.6 billion",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-persist-while-equity-investors-buy-the-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 11 Nov 2026 08:55:31 +0000",
+      "creator": "Helen Partz",
+      "contentSnippet": "US spot Bitcoin ETFs have lost $1.6 billion in November, while stock funds attracted billions of dollars from investors buying the dip.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "SEC enforcement actions fall 24%, crypto cases in spotlight",
+      "link": "https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 11 Nov 2026 08:43:30 +0000",
+      "creator": "Zoltan Vardai",
+      "contentSnippet": "The SEC filed 348 actions in fiscal 2026, down from 456 a year earlier. Cases included alleged Bitcoin mining fraud and an FTX audit settlement.",
+      "source": "Cointelegraph"
     },
     {
       "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
@@ -15,14 +95,6 @@
       "pubDate": "Wed, 11 Nov 2026 05:52:14 +0000",
       "creator": "Ezra Reguerra",
       "contentSnippet": "Initia said an attacker exploited compromised cloud credentials to move $3.27 million in crypto assets, with about $2.16 million remaining frozen on i...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Across Protocol restores website after hackers hijack domain",
-      "link": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 11 Nov 2026 04:42:30 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "The cross-chain bridge said a social engineering attack targeting domain registrar Namecheap allowed hackers to redirect users to a phishing site.",
       "source": "Cointelegraph"
     },
     {
@@ -160,14 +232,6 @@
       "creator": "Staff",
       "contentSnippet": "Grayscale plans to direct $1 million from its Zcash ETF fees to ecosystem nonprofits and launched a national ad campaign, as ZEC fell more than 11%.",
       "source": "Decrypt"
-    },
-    {
-      "title": "SEC Reports 348 Enforcement Actions in Fiscal Year 2026",
-      "link": "https://blockchain.news/news/sec-enforcement-results-fy-2026",
-      "pubDate": "Tue, 10 Nov 2026 19:13:33 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "The SEC filed 348 enforcement actions in FY 2026, securing $1.095 billion in monetary relief and emphasizing individual accountability. (Read More)",
-      "source": "Blockchain.News"
     },
     {
       "title": "Chinese Proxy Services Bypass U.S. AI Export Controls Using Crypto",
@@ -474,14 +538,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Walt launches standalone crypto trading app following Wallet in Telegram rebrand",
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-10-walt-standalone-crypto-trading-app-436981",
-      "pubDate": "Tue, 10 Nov 2026 09:30:00 +0000",
-      "creator": "Brian Danga",
-      "contentSnippet": "Walt launched a standalone app, expanding its crypto investment platform beyond Telegram for the first time.",
-      "source": "The Block"
-    },
-    {
       "title": "BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%",
       "link": "https://cointelegraph.com/news/bitgo-q3-2026-earnings-crypto-treasury-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Tue, 10 Nov 2026 09:05:16 +0000",
@@ -495,14 +551,6 @@
       "pubDate": "Tue, 10 Nov 2026 08:02:05 +0000",
       "creator": "Helen Partz",
       "contentSnippet": "US spot Bitcoin ETFs shed $201 million Monday, with seven straight sessions of net withdrawals from BlackRock’s IBIT totaling $1.66 billion.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Securitize agrees to buy River One to expand into asset-backed lending",
-      "link": "https://cointelegraph.com/news/securitize-river-one-asset-backed-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 10 Nov 2026 07:49:14 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "Securitize agreed to buy River One to bring stablecoin funding to asset-backed lending and expects the deal to close in the fourth quarter of 2026.",
       "source": "Cointelegraph"
     },
     {
@@ -522,36 +570,12 @@
       "source": "Coindesk"
     },
     {
-      "title": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
-      "link": "https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 10 Nov 2026 05:05:58 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "“Cold storage is a useful measure of online exposure, but it is not a standalone security score,” the cybersecurity firm told Cointelegraph.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
       "link": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
       "pubDate": "Tue, 10 Nov 2026 04:51:20 +0000",
       "creator": "Shaurya Malwa",
       "contentSnippet": "The XRP Ledger Foundation’s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on trac...",
       "source": "Coindesk"
-    },
-    {
-      "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
-      "link": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 10 Nov 2026 00:42:39 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "Both miners reported higher Bitcoin production but lower mining revenue and rising electricity costs as they expanded their AI infrastructure business...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Elon Musk, Chimpanzees and “FUK”: North Korean Hackers Behind $6.4 Billion Binance Heist Mint Memecoins To Launder Funds: Elliptic",
-      "link": "https://dailyhodl.com/2026/11/09/elon-musk-chimpanzees-and-fuk-north-korean-hackers-behind-6-4-billion-binance-heist-mint-memecoins-to-launder-funds-elliptic/",
-      "pubDate": "Mon, 09 Nov 2026 22:45:32 +0000",
-      "creator": "Conor Devitt",
-      "contentSnippet": "North Korean hackers behind last month’s record-setting $6.4 billion Binance heist are laundering stolen crypto assets through a variety of newly mint...",
-      "source": "Daily Hodl"
     },
     {
       "title": "Michael Saylor’s Strategy Makes Sizeable Bitcoin Buy, Adding $82,000,000 Worth of BTC Amid Top Crypto Asset’s Price Slide",
@@ -562,20 +586,20 @@
       "source": "Daily Hodl"
     },
     {
-      "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
-      "link": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 09 Nov 2026 21:00:00 +0000",
-      "creator": "Andrew Fenton",
-      "contentSnippet": "Some Australian crypto investors are moving overseas to avoid the huge CGT increase from July 2027. But there are also less drastic ways you can pay l...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
       "link": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
       "pubDate": "Mon, 09 Nov 2026 19:36:15 +0000",
       "creator": "Krisztian Sandor",
       "contentSnippet": "The brokerage firm said it would rather help build tokenized markets than sit on the sidelines, following a wave of early corporate pushback to the In...",
       "source": "Coindesk"
+    },
+    {
+      "title": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
+      "link": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
+      "pubDate": "Mon, 09 Nov 2026 19:36:02 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Elliptic says the hackers are minting their own worthless tokens—complete with cartoon animal and Elon Musk logos—and routing stolen funds through liq...",
+      "source": "Decrypt"
     },
     {
       "title": "Tom Lee’s Bitmine Adds $20M in Ethereum, Seizing on Vitalik’s 'ETH Is Money' Declaration",
@@ -602,6 +626,14 @@
       "source": "Decrypt"
     },
     {
+      "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
+      "link": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
+      "pubDate": "Mon, 09 Nov 2026 15:00:44 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "North Korean hackers used six homemade memecoins to launder 117,000 NEAR, worth about $430,000, from the $6.3 billion Binance hack, Elliptic says.",
+      "source": "Coindesk"
+    },
+    {
       "title": "Strategy Buys $82M in Bitcoin, Buys Back $188M of STRC",
       "link": "https://decrypt.co/382820/strategy-buys-82m-in-bitcoin-buys-back-188m-of-strc",
       "pubDate": "Mon, 09 Nov 2026 13:24:29 +0000",
@@ -623,14 +655,6 @@
       "pubDate": "Sun, 08 Nov 2026 14:01:03 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Cory Fields wants future quantum attackers to post Bitcoin as collateral before touching vulnerable wallets, giving prepared owners a chance to recove...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
-      "link": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
-      "pubDate": "Fri, 06 Nov 2026 20:36:03 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Greece has approved a crypto tax framework with a €500 ($557) annual gains threshold and new rules for staking and DeFi income, but lawmakers left imp...",
       "source": "Decrypt"
     }
   ]
