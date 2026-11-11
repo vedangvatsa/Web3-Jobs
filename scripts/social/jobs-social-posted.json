@@ -131787,7 +131787,8 @@
       },
       "account": "profile",
       "attemptId": "7ed2a598-7b6b-4fb1-8bdd-4cf2fb0a8eb3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xab289c39ae181b8323bfe8a586cf011c0371def6"
     }
   ]
 }
