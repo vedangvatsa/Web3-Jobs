@@ -132391,6 +132391,46 @@
       "verification": "verified",
       "postId": "6af455f2a197a2c4d57a8961",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7526249467344384001"
+    },
+    {
+      "slug": "trcr",
+      "company": "Bybit",
+      "title": "Trading Risk Control Lead- Regulated Risk",
+      "platform": "linkedin",
+      "postedAt": "2026-11-11T11:45:19.473Z",
+      "expectedText": "Bybit is hiring Trading Risk Control Lead- Regulated Risk: https://hashtagweb3.com/trcr/li?og=7",
+      "snapshot": {
+        "id": "5024527101",
+        "title": "Trading Risk Control Lead- Regulated Risk",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024527101",
+        "date": "2026-11-05T15:30:46-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "Abu Dhabi, UAE",
+        "department": "Trading Risk ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "trcr"
+      },
+      "payload": {
+        "text": "Bybit is hiring Trading Risk Control Lead- Regulated Risk: https://hashtagweb3.com/trcr/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/trcr/li?og=7",
+          "title": "Trading Risk Control Lead- Regulated Risk at Bybit",
+          "description": "Join Bybit as Trading Risk Control Lead- Regulat. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/trcr.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "f024cdaa-2b28-4dd5-a2df-3a3b4bb5f188",
+      "verification": "creating"
     }
   ]
 }
