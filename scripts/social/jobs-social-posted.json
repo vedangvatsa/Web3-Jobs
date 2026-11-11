@@ -129978,7 +129978,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "b0bac1b9-db83-499e-88e9-bcb51283ebde",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af3e2e50b5acab58630ecd8"
     }
   ]
 }
