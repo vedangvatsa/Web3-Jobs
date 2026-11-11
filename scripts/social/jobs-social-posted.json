@@ -132843,6 +132843,40 @@
       "attemptId": "eab91552-a1b0-4dd1-9d24-c49623379667",
       "verification": "verified",
       "postId": "0xb20664bb0caeab8834176560a36eb1092b3baed5"
+    },
+    {
+      "slug": "ms5",
+      "company": "Hut 8",
+      "title": "Principal, Mechanical SME",
+      "platform": "farcaster",
+      "postedAt": "2026-11-11T19:32:40.780Z",
+      "expectedText": "Hut 8 is hiring Principal, Mechanical SME\n\nhttps://hashtagweb3.com/ms5/fc?og=7",
+      "snapshot": {
+        "id": "5457193008",
+        "title": "Principal, Mechanical SME",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457193008",
+        "date": "2026-11-10T00:49:34-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Nueces County, TX",
+        "department": "Managed Services / Digital Technology",
+        "active": true,
+        "slug": "ms5",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Principal, Mechanical SME\n\nhttps://hashtagweb3.com/ms5/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ms5/fc?og=7"
+          }
+        ],
+        "channel_id": "build"
+      },
+      "account": "channel:build",
+      "attemptId": "b41529e1-b7c3-4533-83c7-e9280b9d3864",
+      "verification": "creating"
     }
   ]
 }
