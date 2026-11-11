@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-11-11T03:31:25.532Z",
+  "generatedAt": "2026-11-11T08:29:31.212Z",
   "items": [
+    {
+      "title": "Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline",
+      "link": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812",
+      "pubDate": "Wed, 11 Nov 2026 06:22:32 +0000",
+      "creator": "Danny Park",
+      "contentSnippet": "According to its SEC filing, nearly $6.23 billion of the net losses came from unrealized fair value losses on digital asset holdings.",
+      "source": "The Block"
+    },
+    {
+      "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
+      "link": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 11 Nov 2026 05:52:14 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "Initia said an attacker exploited compromised cloud credentials to move $3.27 million in crypto assets, with about $2.16 million remaining frozen on i...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Across Protocol restores website after hackers hijack domain",
+      "link": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 11 Nov 2026 04:42:30 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "The cross-chain bridge said a social engineering attack targeting domain registrar Namecheap allowed hackers to redirect users to a phishing site.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Tron Inc reports 22% rise in Q3 net income as unrealized staking revenue grows",
+      "link": "https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786",
+      "pubDate": "Wed, 11 Nov 2026 04:02:02 +0000",
+      "creator": "Timmy Shen",
+      "contentSnippet": "The company reported Q3 2026 net income of $14.9 million, up 22% year-over-year, with a nine-month net income of $39.4 million, up 203%.",
+      "source": "The Block"
+    },
     {
       "title": "Crypto ally Tom Emmer elected House GOP minority whip",
       "link": "https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -504,22 +536,6 @@
       "creator": "Shaurya Malwa",
       "contentSnippet": "The XRP Ledger Foundation’s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on trac...",
       "source": "Coindesk"
-    },
-    {
-      "title": "Western Europe’s $2.08 Trillion Crypto Economy Shows Resilience",
-      "link": "https://blockchain.news/news/western-europe-crypto-economy-2026",
-      "pubDate": "Tue, 10 Nov 2026 02:11:23 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Western Europe’s crypto economy grew 1.2% to $2.08 trillion, driven by stablecoins, cross-border activity, and regulatory clarity under MiCA. (Read Mo...",
-      "source": "Blockchain.News"
-    },
-    {
-      "title": "OFAC Sanctions Canadian Crypto OTCs for Ties to Iranian and Criminal Networks",
-      "link": "https://blockchain.news/news/ofac-sanctions-canadian-crypto-otcs",
-      "pubDate": "Tue, 10 Nov 2026 02:04:23 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "OFAC designates eight Canadian OTCs for facilitating transactions for Iran's regime and global criminal networks, marking a first-of-its-kind action. ...",
-      "source": "Blockchain.News"
     },
     {
       "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
