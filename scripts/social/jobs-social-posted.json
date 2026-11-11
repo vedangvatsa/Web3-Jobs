@@ -134143,6 +134143,48 @@
       "verification": "verified",
       "postId": "6af4c45fb523db05a3eb0d66",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7526368036120002560"
+    },
+    {
+      "slug": "ops154",
+      "company": "Kraken",
+      "title": "Talent Acquisition Operations Associate",
+      "platform": "linkedin",
+      "postedAt": "2026-11-11T19:36:44.253Z",
+      "expectedText": "Kraken is hiring Talent Acquisition Operations Associate: https://hashtagweb3.com/ops154/li?og=7",
+      "snapshot": {
+        "id": "b8843e87-11c2-4105-af24-a7a0d52e3d9b",
+        "title": "Talent Acquisition Operations Associate",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/b8843e87-11c2-4105-af24-a7a0d52e3d9b",
+        "date": "2026-11-06T13:51:18.577+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (United States)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops154"
+      },
+      "payload": {
+        "text": "Kraken is hiring Talent Acquisition Operations Associate: https://hashtagweb3.com/ops154/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ops154/li?og=7",
+          "title": "Talent Acquisition Operations Associate at Kraken",
+          "description": "Join Kraken as Talent Acquisition Operations Asso. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ops154.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "a9d33fde-0729-44b1-a442-2c102c9a9dd3",
+      "verification": "creating"
     }
   ]
 }
