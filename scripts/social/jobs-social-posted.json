@@ -130923,7 +130923,8 @@
       },
       "account": "profile",
       "attemptId": "8e5499b9-e83f-4c96-8f70-25edf1faed13",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc7f080726f35d66b6596d150eab6e01eaac83288"
     }
   ]
 }
