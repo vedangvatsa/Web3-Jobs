@@ -3541,5 +3541,36 @@
     "slotKey": "2026-11-11:morning",
     "messageId": 156177,
     "sentAt": "2026-11-11T03:34:58.442Z"
+  },
+  "939401d3-ce38-4392-b241-8f65f2ee1675": {
+    "status": "reserved",
+    "reservedAt": "2026-11-11T11:48:21.382Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Justin Yek Replaces Kaiser Ng as Binance CFO",
+        "summary": "The leadership change was planned before the cryptocurrency exchange suffered a record security breach.",
+        "link": "https://hashtagweb3.com/binancecfo?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Binance CFO Kaiser Ng steps down as Justin Yek appointed finance chief"
+      },
+      {
+        "index": -1,
+        "headline": "Telegram users create 700,000 crypto wallets in two days",
+        "summary": "Pavel Durov reported the growth as Gram and TON mini-app integrations expanded across the user base.",
+        "link": "https://hashtagweb3.com/telegramwallets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Telegram adds 700,000 crypto wallets in 48 hours, Durov says"
+      },
+      {
+        "index": 2,
+        "headline": "Short-term Bitcoin holders sell at a loss",
+        "summary": "Investors moved 47,000 Bitcoin to exchanges after the price dropped below their average purchase cost.",
+        "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "Bitcoin short-term holders send 47K BTC to exchanges at a loss"
+      }
+    ],
+    "slotKey": "2026-11-11:afternoon"
   }
 }
