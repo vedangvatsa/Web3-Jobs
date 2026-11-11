@@ -131584,7 +131584,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "8c3be037-179b-41bc-9851-d8ad0c6ffb3b",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af4551caedd7b5946254b11"
     }
   ]
 }
