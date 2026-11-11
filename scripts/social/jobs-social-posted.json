@@ -129406,7 +129406,8 @@
       },
       "account": "channel:dev",
       "attemptId": "c4fe82af-6726-45fd-a80c-e806fde3f3f3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x47316443468f60253de5767e5a4dd6dd6ba49daf"
     }
   ]
 }
