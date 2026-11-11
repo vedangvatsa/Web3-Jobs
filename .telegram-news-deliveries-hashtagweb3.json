@@ -3510,7 +3510,7 @@
     "sentAt": "2026-11-10T19:38:40.844Z"
   },
   "72d23e11-bfa3-4fd5-975c-346c2edddffb": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-11T03:34:42.110Z",
     "stories": [
       {
@@ -3538,6 +3538,8 @@
         "originalTitle": "IMF clears 138 million dollars for El Salvador after Bitcoin waivers"
       }
     ],
-    "slotKey": "2026-11-11:morning"
+    "slotKey": "2026-11-11:morning",
+    "messageId": 156177,
+    "sentAt": "2026-11-11T03:34:58.442Z"
   }
 }

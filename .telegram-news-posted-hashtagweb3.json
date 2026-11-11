@@ -926,6 +926,9 @@
   "https://hashtagweb3.com/blumenthaldeadline?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/vaneck-withdrawal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
+  "https://hashtagweb3.com/phppanic?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/startale-bond?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/imf-salvador?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2684,6 +2687,12 @@
   "VanEck withdraws Lido staked ether ETF filing",
   "Grayscale Pledges $1 Million to Zcash Nonprofits as Price Falls",
   "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
+  "PHP Patches Two Critical Vulnerabilities Amid Active Attacks",
+  "PHP releases emergency patches for two critical bugs after government sites go offline",
+  "Startale Japan issues digital bond paid in JPYSC stablecoin",
+  "Startale Japan launches digital corporate bond paid in JPYSC stablecoin",
+  "IMF releases $138 million to El Salvador after Bitcoin waivers",
+  "IMF clears 138 million dollars for El Salvador after Bitcoin waivers",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -3160,5 +3169,8 @@
   "fp:against|aid|bank|bett|chair|committe|election|incom|january|market",
   "fp:binanc|blumenthal|deadlin|document|firm|four|investigation|jan4|link|november30",
   "fp:american|application|development|etf|ether|fil|fund|lido|notifi|sec",
-  "fp:advertis|bet|coin|drop|ecosystem|etf|fall|fee|firm|follow"
+  "fp:advertis|bet|coin|drop|ecosystem|etf|fall|fee|firm|follow",
+  "fp:activ|attack|bug|cloudflar|critical|detect|emergency|exploit|forc|government",
+  "fp:all|bank|bond|corporat|digital|interest|issu|japan|jpysc|paid",
+  "fp:138m|accumulat|clear|complet|country|despit|dollar|financ|imf|miss"
 ]
