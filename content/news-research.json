@@ -166847,7 +166847,7 @@
         "id": "33eae4247c740f06b391",
         "day": "2026-11-11",
         "articleSlug": "moodyspilot",
-        "note": "Read Decrypt and Unchained coverage of the Moody's Chainlink testnet pilot; two sources verified, draft not started.",
+        "note": "Round 3 re-read Decrypt and Unchained on the Moody's Chainlink CCIP testnet pilot; verified TIE, testnet-only scope, no live rating actions, quotes from Astic and Eid, 70+ digital issuances. Two sources verified; draft not started before deadline.",
         "sourceChecks": [
           {
             "url": "https://decrypt.co/382888/moodys-chainlink-credit-ratings-across-multiple-blockchains",
@@ -166858,7 +166858,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-11T11:46:48.651Z",
+        "updatedAt": "2026-11-11T11:51:56.167Z",
         "approved": false,
         "mustReview": true
       }
