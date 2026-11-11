@@ -131690,7 +131690,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "e63e9b13-105e-430e-b35f-ae8f7eeed0c3",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af455528bcfab418ea4133c"
     }
   ]
 }
