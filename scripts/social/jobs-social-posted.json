@@ -133156,7 +133156,8 @@
       },
       "account": "channel:design",
       "attemptId": "101c280e-512b-40fa-bec1-deb406b368fa",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7c90af6674db53cd3032e86b475590ed3da7e9c3"
     }
   ]
 }
