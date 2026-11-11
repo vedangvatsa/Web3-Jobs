@@ -3508,5 +3508,36 @@
     "slotKey": "2026-11-10:evening",
     "messageId": 156173,
     "sentAt": "2026-11-10T19:38:40.844Z"
+  },
+  "72d23e11-bfa3-4fd5-975c-346c2edddffb": {
+    "status": "reserved",
+    "reservedAt": "2026-11-11T03:34:42.110Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "PHP Patches Two Critical Vulnerabilities Amid Active Attacks",
+        "summary": "Updates launched on Oct. 21 after Cloudflare detected exploits that forced several government websites offline.",
+        "link": "https://hashtagweb3.com/phppanic?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "PHP releases emergency patches for two critical bugs after government sites go offline"
+      },
+      {
+        "index": -1,
+        "headline": "Startale Japan issues digital bond paid in JPYSC stablecoin",
+        "summary": "SBI Shinsei Trust Bank provides the yen stablecoin used for all interest and principal repayments.",
+        "link": "https://hashtagweb3.com/startale-bond?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Startale Japan launches digital corporate bond paid in JPYSC stablecoin"
+      },
+      {
+        "index": -1,
+        "headline": "IMF releases $138 million to El Salvador after Bitcoin waivers",
+        "summary": "The organization completed program reviews and provided financing despite the country missing targets for accumulating Bitcoin.",
+        "link": "https://hashtagweb3.com/imf-salvador?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "IMF clears 138 million dollars for El Salvador after Bitcoin waivers"
+      }
+    ],
+    "slotKey": "2026-11-11:morning"
   }
 }
