@@ -3748,7 +3748,7 @@
     "sentAt": "2026-11-11T03:34:02.873Z"
   },
   "dd4734f4-47f4-4bc8-b24c-acf54ec3677b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-11T11:46:17.762Z",
     "stories": [
       {
@@ -3777,6 +3777,8 @@
         "originalTitle": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain"
       }
     ],
-    "slotKey": "2026-11-11:afternoon"
+    "slotKey": "2026-11-11:afternoon",
+    "messageId": 65821,
+    "sentAt": "2026-11-11T11:46:29.005Z"
   }
 }

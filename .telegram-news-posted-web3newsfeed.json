@@ -971,6 +971,9 @@
   "https://hashtagweb3.com/simdnonces?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/warrenpred?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/binanceseal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/nyseavalanche?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/telegramwallets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2812,6 +2815,12 @@
   "Warren to target prediction market oversight as incoming Senate Banking chair",
   "Report Details Timeline of Binance Security Breach",
   "SEAL Says Binance Hackers Had an Eight-Week Intrusion Window",
+  "NYSE selects Avalanche for tokenized stock exchange settlement",
+  "NYSE selects Avalanche to settle planned 24/7 tokenized stock exchange",
+  "Telegram Added 700,000 Crypto Wallets Over Two Days",
+  "Telegram adds 700,000 crypto wallets in 48 hours, Durov says",
+  "Plume affiliate secures broker-dealer license for US asset tokenization",
+  "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -3312,5 +3321,8 @@
   "fp:analyst|consumer|creat|cryptocurrency|december|expect|half|higher|hik|hot",
   "fp:activat|anza|drift|durabl|earlier|eliminat|fil|hack|may2027|nonc",
   "fp:bank|bett|chair|committe|election|incom|increas|january|leadership|overse",
-  "fp:access|binanc|breach|detail|devic|eight|engineer|exchang|exploit|hacker"
+  "fp:access|binanc|breach|detail|devic|eight|engineer|exchang|exploit|hacker",
+  "fp:avalanch|clock|develop|exchang|intercontinental|network|nys|okx|partner|planned24",
+  "fp:000|added700|adds700|app|attribut|day|durov|founder|gram|hour",
+  "fp:affiliat|approval|asset|broker|custodial|dealer|digital|directly|dividend|kimber"
 ]
