@@ -133412,6 +133412,39 @@
       "attemptId": "913658f7-7452-4d91-96a4-dd30bbef8ba5",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Wednesday, 11-Nov-26 11:36:56 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AOPgsIVOsqkGiHH5TY9epZS\"}"
+    },
+    {
+      "slug": "ops154",
+      "company": "Kraken",
+      "title": "Talent Acquisition Operations Associate",
+      "platform": "bluesky",
+      "postedAt": "2026-11-11T19:36:44.253Z",
+      "expectedText": "Kraken is hiring Talent Acquisition Operations Associate: https://hashtagweb3.com/ops154/bsky?og=7",
+      "snapshot": {
+        "id": "b8843e87-11c2-4105-af24-a7a0d52e3d9b",
+        "title": "Talent Acquisition Operations Associate",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/b8843e87-11c2-4105-af24-a7a0d52e3d9b",
+        "date": "2026-11-06T13:51:18.577+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (United States)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops154"
+      },
+      "payload": {
+        "text": "Kraken is hiring Talent Acquisition Operations Associate: https://hashtagweb3.com/ops154/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/ops154/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/ops154.png?v=7",
+        "company": "Kraken",
+        "title": "Talent Acquisition Operations Associate",
+        "description": "Join Kraken as Talent Acquisition Operations Asso. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "fe1e3bb9-8fa1-4bb6-8de6-68b742ae064d",
+      "verification": "creating"
     }
   ]
 }
