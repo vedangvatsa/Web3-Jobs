@@ -3598,7 +3598,7 @@
     "sentAt": "2026-11-10T19:34:54.766Z"
   },
   "73e8217c-fc29-4f14-ab74-02a75351d993": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-11T03:33:45.465Z",
     "stories": [
       {
@@ -3632,6 +3632,8 @@
         "originalTitle": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect"
       }
     ],
-    "slotKey": "2026-11-11:morning"
+    "slotKey": "2026-11-11:morning",
+    "messageId": 193496,
+    "sentAt": "2026-11-11T03:33:51.325Z"
   }
 }

@@ -914,6 +914,9 @@
   "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
   "https://siliconangle.com/2026/11/06/thinking-machines-debuts-inkling-2-small-amid-reported-5b-fundraising-push/",
   "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+  "https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/",
+  "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/",
+  "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2523,6 +2526,12 @@
   "Thinking Machines debuts Inkling 2 Small amid reported $5B fundraising push",
   "Nvidia CEO Jensen Huang faces potential security risks",
   "The US is winning the AI race. Jensen Huang could have blown it",
+  "Meta releases e-means algorithm for faster data clustering",
+  "Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs",
+  "Mercor raises $750 million for AI agent evaluation platform",
+  "Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises",
+  "New York enforces new safety regulations for AI developers",
+  "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2954,5 +2963,8 @@
   "fp:allow|chatbot|corporat|creat|cybersecurity|developer|down|enslaver|filter|fre",
   "fp:broaden|capacity|chip|confidential|enhanc|featur|googl|hardwar|increas|memory",
   "fp:automat|debut|design|fund|fundrais|inkling2|languag|machin|process|push",
-  "fp:blown|ceo|chip|espionag|fac|hav|huang|international|jensen|leader"
+  "fp:blown|ceo|chip|espionag|fac|hav|huang|international|jensen|leader",
+  "fp:10x|achiev|algorithm|beat|cluster|compar|epoch|fair|faster|fewer",
+  "fp:20b|750m|domain|evaluation|expert|grad|human|mercor|network|performanc",
+  "fp:anthropic|comply|critical|disclos|effect|enforc|fac|incident|law|level"
 ]
