@@ -131463,7 +131463,8 @@
       },
       "account": "channel:design",
       "attemptId": "dfe94e26-8d4f-44e8-a075-7ab80bfe1c84",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x892f1ecf5cb53ab1f06fb068b2546f33cc985c52"
     }
   ]
 }
