@@ -9673,7 +9673,7 @@
     "sentAt": "2026-11-11T11:41:44.971Z"
   },
   "b416940a-35ea-4d8f-b1b8-33f7747a8306": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-11T19:32:55.148Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -9785,6 +9785,8 @@
       }
     ],
     "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/mkt142?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Marketing Analytics</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/pts2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Payroll Tax Specialist</a>\n- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/pps?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Public Policy Specialist</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/mgr221?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Controls and Governance</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/cmp134?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">[EU] Compliance Lead, EMI</a>",
-    "slotKey": "2026-11-11:evening"
+    "slotKey": "2026-11-11:evening",
+    "messageId": 156183,
+    "sentAt": "2026-11-11T19:33:01.646Z"
   }
 }
