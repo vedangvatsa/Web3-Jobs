@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-11-11T11:25:00.808Z",
+  "generatedAt": "2026-11-11T11:40:41.010Z",
   "items": [
+    {
+      "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
+      "link": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
+      "pubDate": "Wed, 11 Nov 2026 11:37:04 +0000",
+      "creator": "Oliver Knight",
+      "contentSnippet": "Bitcoin held steady near $74,000 as Tuesday's hot inflation figure lifted the odds on a U.S. interest-rate increase to around 90%. ETF outflows extend...",
+      "source": "Coindesk"
+    },
     {
       "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
       "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -458,14 +466,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
-      "pubDate": "Tue, 10 Nov 2026 12:15:00 +0000",
-      "creator": "Oliver Knight",
-      "contentSnippet": "Your day-ahead look for Nov. 10, 2026",
-      "source": "Coindesk"
-    },
-    {
       "title": "Binance Halts MEXC Transfers as FinCEN Cuts Exchange Off From US Financial System",
       "link": "https://decrypt.co/382926/binance-halts-mexc-transfers-as-fincen-cuts-exchange-off-from-us-financial-system",
       "pubDate": "Tue, 10 Nov 2026 12:13:27 +0000",
@@ -624,14 +624,6 @@
       "creator": "Staff",
       "contentSnippet": "Ava Labs said Avalanche will serve as the “core ledger technology” for the clearing firm behind the NYSE-affiliated venue, which aims to bring 24/7 tr...",
       "source": "Decrypt"
-    },
-    {
-      "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
-      "link": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
-      "pubDate": "Mon, 09 Nov 2026 15:00:44 +0000",
-      "creator": "Francisco Rodrigues",
-      "contentSnippet": "North Korean hackers used six homemade memecoins to launder 117,000 NEAR, worth about $430,000, from the $6.3 billion Binance hack, Elliptic says.",
-      "source": "Coindesk"
     },
     {
       "title": "Strategy Buys $82M in Bitcoin, Buys Back $188M of STRC",
