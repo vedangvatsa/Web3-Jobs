@@ -3,7 +3,7 @@
     "id": "altitude-development-partners-quant-researcher-strategy-developer",
     "title": "Quant Researcher / Strategy Developer",
     "company": "Altitude Development Partners",
-    "link": "https://altitudedp.com/careers/quant-researcher-strategy-developer",
+    "link": "mailto:careers@altitudedp.com?subject=Application%3A%20Quant%20Researcher%20%2F%20Strategy%20Developer",
     "date": "2026-11-11T00:00:00.000Z",
     "dateVerified": true,
     "dateSource": "Altitude Development Partners Careers",
@@ -13,13 +13,13 @@
     "workplaceType": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "tr140"
+    "slug": "tr141"
   },
   {
     "id": "altitude-development-partners-risk-analyst",
     "title": "Risk Analyst",
     "company": "Altitude Development Partners",
-    "link": "https://altitudedp.com/careers/risk-analyst",
+    "link": "mailto:careers@altitudedp.com?subject=Application%3A%20Risk%20Analyst",
     "date": "2026-11-11T00:00:00.000Z",
     "dateVerified": true,
     "dateSource": "Altitude Development Partners Careers",
@@ -29,7 +29,7 @@
     "workplaceType": "Remote",
     "department": "Finance",
     "active": true,
-    "slug": "an134"
+    "slug": "an135"
   },
   {
     "id": "1f015e8e-c684-45dc-8817-603edbf35d45",
@@ -25519,18 +25519,5 @@
     "active": true,
     "dateVerified": true,
     "slug": "vcpc"
-  },
-  {
-    "id": "2779562",
-    "title": "AI Research Engineer (Model Compression & Quantization)",
-    "company": "Tether",
-    "link": "https://tether.recruitee.com/o/ai-research-engineer-model-compression-quantization-zurich",
-    "date": "2026-10-12T09:08:42Z",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Engineering",
-    "active": true,
-    "dateVerified": true,
-    "slug": "tr125"
   }
 ]

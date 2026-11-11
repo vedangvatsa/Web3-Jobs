@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-11T08:44:42.819Z",
+  "generatedAt": "2026-11-11T09:12:36.614Z",
   "year": 2026,
   "snapshotLabel": "Q4 2026 Index",
   "totalEmployers": 100,
-  "totalActiveJobs": 1192,
+  "totalActiveJobs": 1191,
   "avgRemotePct": 39,
   "avgSalaryTransparencyPct": 15,
   "employers": [
@@ -306,16 +306,16 @@
       "website": "https://tether.to",
       "headquarters": "British Virgin Islands",
       "founded": 2014,
-      "activeJobs": 25,
+      "activeJobs": 24,
       "departmentCount": 9,
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 44.9,
+        "hiringVolume": 44.3,
         "departmentBreadth": 18,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 72.9
+        "composite": 72.3
       },
       "highlightBadges": [
         "100% Remote",

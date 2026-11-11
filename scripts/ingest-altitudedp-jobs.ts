@@ -91,30 +91,36 @@ async function ensureBranding(root: string) {
   if (fs.existsSync(editorialPath)) {
     const editorial = JSON.parse(fs.readFileSync(editorialPath, 'utf8'));
     editorial[COMPANY_SLUG] =
-      'Altitude Development Partners is a venture and technology studio and DeFi hedge fund specializing in quantitative research, decentralized finance, and protocol development.';
+      'Altitude Development Partners is a venture and technology studio and DeFi hedge fund specializing in quantitative research, systematic trading strategies, protocol engineering, and portfolio risk management.';
     fs.writeFileSync(editorialPath, `${JSON.stringify(editorial, null, 2)}\n`);
     console.log('✓ Updated company-profile-editorial.json');
   }
 
   // Create company markdown profile
   const companyMdPath = path.join(root, 'content/companies', `${COMPANY_SLUG}.md`);
-  if (!fs.existsSync(companyMdPath)) {
-    const mdContent = `---
+  const mdContent = `---
 name: ${COMPANY_NAME}
 website: '${COMPANY_WEBSITE}'
 category: DeFi & Quantitative Finance
 headquarters: Remote
-description: "Altitude Development Partners is a venture and technology studio and DeFi hedge fund specializing in quantitative research, decentralized finance, and protocol development. Founded in 2018, the studio builds systems across spatial technology, Web3, PropTech, and algorithmic trading, with dedicated trading strategies and portfolio risk management across decentralized finance."
+description: "Altitude Development Partners is a venture studio, technology studio, and DeFi hedge fund founded in 2018. The firm specializes in quantitative research, systematic trading strategy development, protocol architecture, and comprehensive risk modeling across decentralized finance and traditional markets."
 lastUpdated: 2026-11-11
 ---
 
-Altitude Development Partners is a venture and technology studio and DeFi hedge fund specializing in quantitative research, decentralized finance, and protocol development.
+Altitude Development Partners is a venture and technology studio operating a dedicated decentralized finance (DeFi) hedge fund. Founded in 2018, the studio is built around systems engineering, rigorous quantitative research, and production-grade software delivery.
 
-The company actively hires professionals across quantitative research, strategy development, decentralized finance, risk analysis, and smart contract engineering.
+### What They Build
+
+- **DeFi Hedge Fund & Quantitative Systems**: Systematic trading strategies, yield modeling, lending and derivatives arbitrage, and automated execution from raw on-chain data to live smart contract deployment.
+- **Protocol & MEV Infrastructure**: Deep analysis of decentralized protocols, liquidity pools, cross-chain dynamics, and smart contract mechanics with automated risk monitoring.
+- **Technology & Venture Studio**: Multi-disciplinary engineering spanning spatial technologies, Web3 protocols, PropTech, and quantitative financial products.
+
+### Culture & Standards
+
+Altitude emphasizes high standards and ownership, holding a culture where problems are diagnosed from first principles and execution goes from raw hypothesis to defended production code. The team operates globally and hires professionals who demonstrate deep technical judgment, hands-on research rigor, and collaborative execution.
 `;
-    fs.writeFileSync(companyMdPath, mdContent);
-    console.log(`✓ Created content/companies/${COMPANY_SLUG}.md`);
-  }
+  fs.writeFileSync(companyMdPath, mdContent);
+  console.log(`✓ Updated content/companies/${COMPANY_SLUG}.md`);
 }
 
 async function main() {
@@ -130,7 +136,7 @@ async function main() {
         id: 'altitude-development-partners-quant-researcher-strategy-developer',
         title: 'Quant Researcher / Strategy Developer',
         company: COMPANY_NAME,
-        link: 'https://altitudedp.com/careers/quant-researcher-strategy-developer',
+        link: 'mailto:careers@altitudedp.com?subject=Application%3A%20Quant%20Researcher%20%2F%20Strategy%20Developer',
         date: '2026-11-11T00:00:00.000Z',
         dateVerified: true,
         dateSource: 'Altitude Development Partners Careers',
@@ -141,33 +147,49 @@ async function main() {
         department: 'Engineering',
         active: true,
       },
-      rawDescription: `<p>We are hiring a quant researcher and strategy developer for our DeFi hedge fund: a strong programmer with a research mindset and a solid grasp of finance.</p>
+      rawDescription: `<h3>About the Role</h3>
+<p>Altitude Development Partners is hiring a Quant Researcher and Strategy Developer for our DeFi hedge fund: a strong programmer with a research mindset and a solid grasp of finance.</p>
 <p>You will come up with strategy ideas on your own, work out their economics, test them, and get them into production. The role runs from the first hypothesis all the way to live code.</p>
-<h2>What you will do</h2>
+
+<h3>What You Will Do</h3>
 <ul>
-<li>Originate strategy ideas and work out how, and why, each one makes money.</li>
-<li>Gather the data and calculate returns after fees and borrowing costs.</li>
-<li>Check your assumptions, find the weak spots, and improve the strategy.</li>
-<li>Write code to test hypotheses and automate strategies, then take them into production.</li>
-<li>Dig into products you have not seen before and back up your conclusions with a clear argument.</li>
+  <li><strong>Originate strategy ideas:</strong> Identify profitable opportunities across DeFi and work out how, and why, each one generates return.</li>
+  <li><strong>Economic analysis:</strong> Gather on-chain and market data to calculate real returns after fees, borrowing costs, slippage, and gas.</li>
+  <li><strong>Hypothesis testing:</strong> Check your assumptions, stress-test weak spots, and systematically iterate and improve strategy parameters.</li>
+  <li><strong>Production engineering:</strong> Write high-performance code to automate strategies, interact with smart contracts, and take models into live production.</li>
+  <li><strong>Protocol deep-dives:</strong> Dig into novel DeFi protocols and financial products, dissecting mechanics and backing up conclusions with defensible quantitative arguments.</li>
 </ul>
-<h2>What we are looking for</h2>
+
+<h3>What We Are Looking For</h3>
 <ul>
-<li><strong>Deep understanding of DeFi.</strong> You know how protocols work, where yield comes from, what risks sit behind it, and when a strategy works and when it stops working.</li>
-<li><strong>Solid grounding in traditional finance.</strong> Bonds, interest rates, lending, and derivatives. You understand how these mechanics carry over to DeFi and how market conditions affect strategies.</li>
-<li><strong>Strong programming skills.</strong> You know Solidity, can read and pick apart smart contracts, work with on-chain data, and write code to test hypotheses and automate strategies.</li>
-<li><strong>A hands-on approach to research.</strong> You do the work yourself, from raw data to a return figure you would defend.</li>
-<li><strong>Independence and curiosity.</strong> You spot opportunities yourself and do not wait to be handed a problem.</li>
+  <li><strong>Deep understanding of DeFi:</strong> You know how automated market makers, lending pools, and yield protocols work under the hood, where yield originates, what systemic risks sit behind it, and when a strategy works or fails.</li>
+  <li><strong>Solid grounding in traditional finance:</strong> Bonds, yield curves, interest rates, lending, derivatives, and arbitrage mechanics, with clear intuition for how these concepts transfer to digital asset markets.</li>
+  <li><strong>Strong programming skills:</strong> Solid experience with Solidity or systems programming (Python, Rust, TypeScript). You can read and audit smart contracts, query on-chain data, and build automated execution tooling.</li>
+  <li><strong>Hands-on research discipline:</strong> You do the work yourself, taking raw protocol data through to defensible risk-adjusted return figures.</li>
+  <li><strong>Independence & initiative:</strong> You spot opportunities proactively and do not wait to be handed a problem.</li>
 </ul>
-<h2>How to Apply</h2>
-<p>Send a note to <a href="mailto:careers@altitudedp.com?subject=Application%3A%20Quant%20Researcher%20%2F%20Strategy%20Developer">careers@altitudedp.com</a> explaining why this role fits, along with links to work you are proud of.</p>`,
+
+<h3>Location & Work Environment</h3>
+<ul>
+  <li><strong>Workplace:</strong> Fully Remote (global team).</li>
+  <li><strong>Focus:</strong> DeFi Hedge Fund & Algorithmic Trading Systems.</li>
+</ul>
+
+<h3>How to Apply</h3>
+<p>To apply, send an email directly to <a href="mailto:careers@altitudedp.com?subject=Application%3A%20Quant%20Researcher%20%2F%20Strategy%20Developer">careers@altitudedp.com</a> with:</p>
+<ul>
+  <li>A brief note explaining why this role fits your background and experience</li>
+  <li>Links to projects, code repositories, research, or work you are proud of</li>
+  <li>Your CV, resume, or LinkedIn profile</li>
+</ul>
+<p><em>Official careers listing: <a href="https://altitudedp.com/careers/quant-researcher-strategy-developer" target="_blank" rel="noopener noreferrer">altitudedp.com/careers/quant-researcher-strategy-developer</a></em></p>`,
     },
     {
       job: {
         id: 'altitude-development-partners-risk-analyst',
         title: 'Risk Analyst',
         company: COMPANY_NAME,
-        link: 'https://altitudedp.com/careers/risk-analyst',
+        link: 'mailto:careers@altitudedp.com?subject=Application%3A%20Risk%20Analyst',
         date: '2026-11-11T00:00:00.000Z',
         dateVerified: true,
         dateSource: 'Altitude Development Partners Careers',
@@ -178,27 +200,43 @@ async function main() {
         department: 'Finance',
         active: true,
       },
-      rawDescription: `<p>We are hiring a risk analyst for our DeFi hedge fund: someone who knows both DeFi and traditional finance well.</p>
-<p>The core of the job is to take apart the fund's strategies and positions, work out where and under what conditions we could lose money, and propose concrete ways to manage that risk.</p>
-<h2>What you will do</h2>
+      rawDescription: `<h3>About the Role</h3>
+<p>Altitude Development Partners is hiring a Risk Analyst for our DeFi hedge fund: someone who deeply understands both decentralized finance and traditional finance mechanics.</p>
+<p>The core of the job is to take apart the fund's strategies and positions, work out where and under what conditions we could lose money, and propose concrete, actionable ways to manage and mitigate that risk.</p>
+
+<h3>What You Will Do</h3>
 <ul>
-<li>Break down each strategy and position to find where, and under what conditions, we could lose money.</li>
-<li>Assess concentration, correlations, and shared sources of risk across positions, including what could hit several strategies at once.</li>
-<li>Test scenarios: a sharp market move, a rate spike, a wave of withdrawals.</li>
-<li>Estimate how fast we can exit a position and how much we would lose doing it.</li>
-<li>Propose position sizes, limits, and the metrics to monitor, along with the conditions under which we should cut or close a position.</li>
-<li>Explain your conclusions clearly to the team.</li>
+  <li><strong>Position breakdown:</strong> Dissect each strategy and portfolio position to uncover latent risks, edge cases, and conditions where losses could occur.</li>
+  <li><strong>Correlation & concentration analysis:</strong> Assess shared sources of risk across positions, tail-risk events, and market conditions that could impact multiple strategies simultaneously.</li>
+  <li><strong>Scenario stress-testing:</strong> Model severe market shocks: violent price dislocations, interest rate spikes, liquidity dry-ups, oracle failures, or heavy withdrawal cascades.</li>
+  <li><strong>Liquidity & exit modeling:</strong> Accurately estimate time-to-exit under distress and quantify expected liquidation or slippage losses.</li>
+  <li><strong>Risk parameters & controls:</strong> Propose position limits, leverage constraints, real-time monitoring metrics, and programmatic circuit breakers to cut or exit exposure.</li>
+  <li><strong>Clear team communication:</strong> Deliver crisp, actionable risk assessments and decisions to portfolio managers and engineers.</li>
 </ul>
-<h2>What we are looking for</h2>
+
+<h3>What We Are Looking For</h3>
 <ul>
-<li><strong>Understanding of financial mechanics.</strong> Sources of yield, interest rates, the cost of borrowed capital, leverage, collateral, and liquidations.</li>
-<li><strong>Deep understanding of DeFi risk.</strong> Liquidity, stablecoin depegs, smart contract and oracle risk, and dependencies between protocols. You can work out how a new product is built on your own.</li>
-<li><strong>A portfolio-level view.</strong> You think in terms of the whole book, not one position at a time.</li>
-<li><strong>Comfort with data and scenarios.</strong> You turn a risk into numbers we can act on.</li>
-<li><strong>Practical recommendations.</strong> Your output is a decision the team can make, not only an observation.</li>
+  <li><strong>Grounding in financial mechanics:</strong> Clear mastery of yield sources, interest rate curves, cost of capital, leverage, collateralization ratios, and liquidation cascades.</li>
+  <li><strong>Deep understanding of DeFi risk:</strong> Protocol insolvency risks, stablecoin depeg mechanics, smart contract vulnerabilities, oracle latency/manipulation, and protocol composability dependencies.</li>
+  <li><strong>Portfolio-level perspective:</strong> You evaluate the aggregate risk across the entire book rather than isolating positions in a silo.</li>
+  <li><strong>Data & scenario fluency:</strong> You translate theoretical vulnerabilities into concrete probabilities, numbers, and parameters the team can act on.</li>
+  <li><strong>Actionable decision-making:</strong> Your deliverables are pragmatic decisions and risk bounds, not merely passive observations.</li>
 </ul>
-<h2>How to Apply</h2>
-<p>Send a note to <a href="mailto:careers@altitudedp.com?subject=Application%3A%20Risk%20Analyst">careers@altitudedp.com</a> explaining why this role fits, along with links to work you are proud of.</p>`,
+
+<h3>Location & Work Environment</h3>
+<ul>
+  <li><strong>Workplace:</strong> Fully Remote (global team).</li>
+  <li><strong>Focus:</strong> DeFi Hedge Fund Portfolio Risk Management.</li>
+</ul>
+
+<h3>How to Apply</h3>
+<p>To apply, send an email directly to <a href="mailto:careers@altitudedp.com?subject=Application%3A%20Risk%20Analyst">careers@altitudedp.com</a> with:</p>
+<ul>
+  <li>A brief note explaining why this role fits your background and experience</li>
+  <li>Details or links to relevant risk modeling, financial analysis, or research you have conducted</li>
+  <li>Your CV, resume, or LinkedIn profile</li>
+</ul>
+<p><em>Official careers listing: <a href="https://altitudedp.com/careers/risk-analyst" target="_blank" rel="noopener noreferrer">altitudedp.com/careers/risk-analyst</a></em></p>`,
     },
   ];
 
@@ -207,10 +245,10 @@ async function main() {
   const allJobs: Job[] = JSON.parse(fs.readFileSync(cachePath, 'utf8'));
 
   const incomingIds = new Set(jobsToIngest.map((item) => item.job.id));
-  const incomingLinks = new Set(jobsToIngest.map((item) => item.job.link));
 
+  // Remove existing Altitude Development Partners jobs to replace cleanly
   const filtered = allJobs.filter(
-    (j) => !incomingIds.has(j.id) && !incomingLinks.has(j.link) && !(j.company === COMPANY_NAME)
+    (j) => !incomingIds.has(j.id) && !(j.company === COMPANY_NAME)
   );
 
   const newJobs = jobsToIngest.map((item) => item.job);
@@ -225,7 +263,7 @@ async function main() {
 
   fs.writeFileSync(cachePath, `${JSON.stringify(combined, null, 2)}\n`);
   for (const job of newJobs) {
-    console.log(`✓ Added job: "${job.title}" (slug: /${job.slug})`);
+    console.log(`✓ Added job: "${job.title}" (slug: /${job.slug}, link: ${job.link})`);
   }
 
   // Store descriptions in shards

@@ -140,7 +140,7 @@ export async function pickJobs(count, { request = createCachedRequest() } = {}) 
     if (isUnrelatedOrNonWeb3JobTitle(title)) continue;
     if (isInvalidJobLink(link)) continue;
 
-    if (usedCompanies.has(company.toLowerCase())) continue;
+    if (!prioritySet.has(j.slug) && usedCompanies.has(company.toLowerCase())) continue;
 
     try {
       await verifyEmployerApplication(j, { request });
