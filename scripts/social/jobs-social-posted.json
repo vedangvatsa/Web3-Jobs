@@ -131720,7 +131720,8 @@
         "link_attachment": "https://hashtagweb3.com/trcr/th?og=7"
       },
       "attemptId": "d731f650-96bc-4e3b-a404-83f1d7cb5902",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Wednesday, 11-Nov-26 03:45:33 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AwQsgpLenPsJMU4HO0mpIDo\"}"
     }
   ]
 }
