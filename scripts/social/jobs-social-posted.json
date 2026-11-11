@@ -130823,7 +130823,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "b0d08307-8836-493f-a22d-f43c69459a0d",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af4547aa197a2c4d57a0ecf"
     }
   ]
 }
