@@ -3543,7 +3543,7 @@
     "sentAt": "2026-11-11T03:34:58.442Z"
   },
   "939401d3-ce38-4392-b241-8f65f2ee1675": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-11T11:48:21.382Z",
     "stories": [
       {
@@ -3571,6 +3571,8 @@
         "originalTitle": "Bitcoin short-term holders send 47K BTC to exchanges at a loss"
       }
     ],
-    "slotKey": "2026-11-11:afternoon"
+    "slotKey": "2026-11-11:afternoon",
+    "messageId": 156180,
+    "sentAt": "2026-11-11T11:48:27.216Z"
   }
 }

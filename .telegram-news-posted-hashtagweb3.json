@@ -929,6 +929,9 @@
   "https://hashtagweb3.com/phppanic?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/startale-bond?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/imf-salvador?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/binancecfo?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/telegramwallets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2693,6 +2696,12 @@
   "Startale Japan launches digital corporate bond paid in JPYSC stablecoin",
   "IMF releases $138 million to El Salvador after Bitcoin waivers",
   "IMF clears 138 million dollars for El Salvador after Bitcoin waivers",
+  "Justin Yek Replaces Kaiser Ng as Binance CFO",
+  "Binance CFO Kaiser Ng steps down as Justin Yek appointed finance chief",
+  "Telegram users create 700,000 crypto wallets in two days",
+  "Telegram adds 700,000 crypto wallets in 48 hours, Durov says",
+  "Short-term Bitcoin holders sell at a loss",
+  "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -3172,5 +3181,8 @@
   "fp:advertis|bet|coin|drop|ecosystem|etf|fall|fee|firm|follow",
   "fp:activ|attack|bug|cloudflar|critical|detect|emergency|exploit|forc|government",
   "fp:all|bank|bond|corporat|digital|interest|issu|japan|jpysc|paid",
-  "fp:138m|accumulat|clear|complet|country|despit|dollar|financ|imf|miss"
+  "fp:138m|accumulat|clear|complet|country|despit|dollar|financ|imf|miss",
+  "fp:appoint|binanc|breach|cfo|chang|chief|cryptocurrency|down|exchang|financ",
+  "fp:000|adds700|app|bas|create700|day|durov|gram|growth|hour",
+  "fp:000|47k|averag|below|btc|cost|dropp|exchang|holder|investor"
 ]
