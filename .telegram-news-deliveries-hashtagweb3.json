@@ -3576,7 +3576,7 @@
     "sentAt": "2026-11-11T11:48:27.216Z"
   },
   "b48a8c94-f6a9-4973-b831-483ba34fd8bc": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-11T19:33:56.315Z",
     "stories": [
       {
@@ -3604,6 +3604,8 @@
         "originalTitle": "Poland's Lower House Passes Sanctions Bill With Crypto Freezes"
       }
     ],
-    "slotKey": "2026-11-11:evening"
+    "slotKey": "2026-11-11:evening",
+    "messageId": 156184,
+    "sentAt": "2026-11-11T19:34:04.208Z"
   }
 }
