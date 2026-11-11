@@ -8,7 +8,7 @@
     "afternoon": "2026-10-30",
     "evening": "2026-10-31"
   },
-  "deployed": "2026-11-10",
+  "deployed": "2026-11-11",
   "ingested": "2026-11-11",
   "dailyDeployments": {
     "2026-10-23": [
@@ -880,12 +880,14 @@
           "faro",
           "anthropicipo"
         ],
-        "phase": "rolling-out",
+        "phase": "succeeded",
         "startedAt": "2026-11-11T12:41:44.123Z",
         "buildId": "daily-20261111-43011557034-1",
         "rolloutId": "daily-20261111-43011557034-1",
         "buildState": "READY",
-        "observedAt": "2026-11-11T13:07:50.612Z"
+        "observedAt": "2026-11-11T13:08:23.922Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-11-11T13:08:23.922Z"
       }
     ]
   }
