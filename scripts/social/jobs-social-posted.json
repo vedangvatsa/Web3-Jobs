@@ -132631,7 +132631,8 @@
       },
       "account": "profile",
       "attemptId": "7b96a219-f8a0-43d5-832d-4f8a91ca5b1b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x82032ca1b84f5c2b343af152a4681005ea0b12bf"
     }
   ]
 }
