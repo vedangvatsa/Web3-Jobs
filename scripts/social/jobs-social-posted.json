@@ -131103,7 +131103,8 @@
       },
       "account": "channel:dev",
       "attemptId": "31fa2172-f204-4819-87ab-7a18ad884f13",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xfbeb394e191d2e596c61b2a697e58206102f1dec"
     }
   ]
 }
