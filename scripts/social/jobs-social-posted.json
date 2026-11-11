@@ -133317,7 +133317,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "d32f1acd-6f13-4e52-b4ae-2cef81dc8ba0",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7526367224845160449"
     }
   ]
 }
