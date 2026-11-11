@@ -130856,6 +130856,39 @@
       "attemptId": "a83f3e7f-cbf9-45f6-bdb1-cdc06b364a9f",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Wednesday, 11-Nov-26 03:42:06 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AGCtGt4tuFoyK4Bci7M7wec\"}"
+    },
+    {
+      "slug": "cmp120",
+      "company": "Paxos",
+      "title": "Compliance KYC Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-11-11T11:41:36.769Z",
+      "expectedText": "Paxos is hiring Compliance KYC Manager: https://hashtagweb3.com/cmp120/bsky?og=7",
+      "snapshot": {
+        "id": "05364fdb-0ee9-4ddb-8bce-b093ff335e66",
+        "title": "Compliance KYC Manager",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/paxos/05364fdb-0ee9-4ddb-8bce-b093ff335e66",
+        "date": "2026-10-19T21:40:59.887+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - United States",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Risk & Compliance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "cmp120"
+      },
+      "payload": {
+        "text": "Paxos is hiring Compliance KYC Manager: https://hashtagweb3.com/cmp120/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/cmp120/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/cmp120.png?v=7",
+        "company": "Paxos",
+        "title": "Compliance KYC Manager",
+        "description": "Join Paxos as Compliance KYC Manager. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "a5daffee-ecd5-478d-9eb3-fc2176a3e441",
+      "verification": "creating"
     }
   ]
 }
