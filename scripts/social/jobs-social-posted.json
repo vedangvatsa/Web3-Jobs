@@ -130600,7 +130600,8 @@
       },
       "account": "channel:design",
       "attemptId": "579996e5-2526-4b1d-8cd8-87791a1a9c33",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xbdce6a1693f1596dda3f7b9de50db0fa29f6e09f"
     }
   ]
 }
