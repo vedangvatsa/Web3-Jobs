@@ -131249,6 +131249,41 @@
       "attemptId": "a6ddb8d9-9622-4fb1-810d-81d2e09f1ce0",
       "verification": "verified",
       "postId": "0x4fcbd32ee1ea2d791693bdaf1b2058ba18cbe267"
+    },
+    {
+      "slug": "cmp120",
+      "company": "Paxos",
+      "title": "Compliance KYC Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-11T11:41:36.769Z",
+      "expectedText": "Paxos is hiring Compliance KYC Manager\n\nhttps://hashtagweb3.com/cmp120/fc?og=7",
+      "snapshot": {
+        "id": "05364fdb-0ee9-4ddb-8bce-b093ff335e66",
+        "title": "Compliance KYC Manager",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/paxos/05364fdb-0ee9-4ddb-8bce-b093ff335e66",
+        "date": "2026-10-19T21:40:59.887+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - United States",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Risk & Compliance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "cmp120"
+      },
+      "payload": {
+        "text": "Paxos is hiring Compliance KYC Manager\n\nhttps://hashtagweb3.com/cmp120/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/cmp120/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "b7e54cb9-e85a-4829-be95-60e0539cd2df",
+      "verification": "creating"
     }
   ]
 }
