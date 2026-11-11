@@ -3596,5 +3596,42 @@
     "slotKey": "2026-11-10:evening",
     "messageId": 193493,
     "sentAt": "2026-11-10T19:34:54.766Z"
+  },
+  "73e8217c-fc29-4f14-ab74-02a75351d993": {
+    "status": "reserved",
+    "reservedAt": "2026-11-11T03:33:45.465Z",
+    "stories": [
+      {
+        "index": 1,
+        "original_title": "Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs",
+        "headline": "Meta releases e-means algorithm for faster data clustering",
+        "summary": "The new algorithm achieves significant GPU speedups and reduces training epochs compared to traditional clustering methods used in machine learning.",
+        "event_rationale": "This covers a specific technical release of a new machine learning algorithm by Meta, distinct from other infrastructure or corporate news.",
+        "link": "https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/",
+        "source": "MarkTechPost",
+        "originalTitle": "Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs"
+      },
+      {
+        "index": 2,
+        "original_title": "Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises",
+        "headline": "Mercor raises $750 million for AI agent evaluation platform",
+        "summary": "The company uses a network of human domain experts to train and validate performance for enterprise-grade artificial intelligence agents.",
+        "event_rationale": "This is a major funding event for an AI-focused company, distinct from the IPO or acquisition news listed in the excluded stories.",
+        "link": "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/",
+        "source": "SiliconANGLE",
+        "originalTitle": "Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises"
+      },
+      {
+        "index": 9,
+        "original_title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+        "headline": "New York enforces new safety regulations for AI developers",
+        "summary": "Major companies must now register, disclose safety protocols, and report critical incidents to comply with state-level oversight requirements.",
+        "event_rationale": "This covers a specific regulatory development regarding AI safety, distinct from federal infrastructure bills or general industry opinion.",
+        "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+        "source": "TechCrunch",
+        "originalTitle": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect"
+      }
+    ],
+    "slotKey": "2026-11-11:morning"
   }
 }
