@@ -129166,6 +129166,38 @@
       "attemptId": "99ccc488-48c8-4863-851c-942b56616489",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Tuesday, 10-Nov-26 19:33:14 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Az5M8wy6CJPsHzOwpGL6K7e\"}"
+    },
+    {
+      "slug": "sls397",
+      "company": "Galaxy Digital",
+      "title": "2027 Sales and Trading Internships - NYC",
+      "platform": "bluesky",
+      "postedAt": "2026-11-11T03:33:00.860Z",
+      "expectedText": "Galaxy Digital is hiring 2027 Sales and Trading Internships - NYC: https://hashtagweb3.com/sls397/bsky?og=7",
+      "snapshot": {
+        "id": "6242350004",
+        "title": "2027 Sales and Trading Internships - NYC",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6242350004",
+        "date": "2026-11-03T12:49:19-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "New York",
+        "department": "Early Careers",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls397"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring 2027 Sales and Trading Internships - NYC: https://hashtagweb3.com/sls397/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/sls397/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/sls397.png?v=7",
+        "company": "Galaxy Digital",
+        "title": "2027 Sales and Trading Internships - NYC",
+        "description": "Join Galaxy Digital as 2027 Sales and Trading Internships. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "ac851d18-8235-443f-bc2e-32a318f172c0",
+      "verification": "creating"
     }
   ]
 }
