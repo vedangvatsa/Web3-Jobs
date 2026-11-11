@@ -132806,7 +132806,8 @@
       },
       "account": "channel:dev",
       "attemptId": "02f98228-3771-4f55-b35e-974498ead775",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x170e70f4dce595f77f1f1e60218175ba0a33ede3"
     }
   ]
 }
