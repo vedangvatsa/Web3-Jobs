@@ -17801,5 +17801,119 @@
     "slotKey": "2026-11-11:morning",
     "messageId": 16631,
     "sentAt": "2026-11-11T03:32:41.173Z"
+  },
+  "5f96af30-c1d3-42a2-90d8-f7ecc7544a84": {
+    "status": "reserved",
+    "reservedAt": "2026-11-11T03:32:43.088Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8332888",
+          "title": "Events Lead, Product & Financial Services",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8332888",
+          "date": "2026-11-05T13:36:36-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "South San Francisco, New York City, or Remote",
+          "department": "2311 Marketing - AMER",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm231"
+        },
+        "key": "8332888",
+        "slug": "pm231",
+        "url": "https://hashtagweb3.com/pm231?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Events Lead"
+      },
+      {
+        "snapshot": {
+          "id": "8931375002",
+          "title": "Principal Product Manager - Accounting Platform (Product Minded Auditor)",
+          "company": "BitGo",
+          "link": "https://job-boards.greenhouse.io/bitgo/jobs/8931375002",
+          "date": "2026-11-04T19:11:28-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BitGo [bitgo]",
+          "location": "New York, NY",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls418"
+        },
+        "key": "8931375002",
+        "slug": "sls418",
+        "url": "https://hashtagweb3.com/sls418?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Principal Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "744000159588319",
+          "title": "SEO Specialist",
+          "company": "Solflare",
+          "link": "https://jobs.smartrecruiters.com/Solflare/744000159588319-seo-specialist",
+          "date": "2026-11-04T09:53:36.481Z",
+          "source": "SmartRecruiters: Solflare [Solflare]",
+          "location": "Novi Sad, Vojvodina, Serbia",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ss3"
+        },
+        "key": "744000159588319",
+        "slug": "ss3",
+        "url": "https://hashtagweb3.com/ss3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Solflare",
+        "title": "SEO Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "dbd326e2-3fa5-4a52-8285-b53ea1a21b4b",
+          "title": "Enterprise Sales Lead, AI",
+          "company": "Mysten Labs",
+          "link": "https://jobs.ashbyhq.com/mystenlabs/dbd326e2-3fa5-4a52-8285-b53ea1a21b4b",
+          "date": "2026-10-20T20:43:06.051+00:00",
+          "source": "Ashby: Mysten Labs [mystenlabs]",
+          "location": "USA (Remote)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Partnerships",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls321"
+        },
+        "key": "dbd326e2-3fa5-4a52-8285-b53ea1a21b4b",
+        "slug": "sls321",
+        "url": "https://hashtagweb3.com/sls321?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Mysten Labs",
+        "title": "Enterprise Sales Lead"
+      },
+      {
+        "snapshot": {
+          "id": "8927083002",
+          "title": "Formal Methods Research and Development",
+          "company": "Jane Street",
+          "link": "https://www.janestreet.com/join-jane-street/apply/8927083002?gh_jid=8927083002",
+          "date": "2026-11-09T11:45:52-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Jane Street [janestreet]",
+          "location": "New York, NY",
+          "department": "Software Engineering",
+          "active": true,
+          "slug": "fmrd2",
+          "dateVerified": true
+        },
+        "key": "8927083002",
+        "slug": "fmrd2",
+        "url": "https://hashtagweb3.com/fmrd2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Jane Street",
+        "title": "Formal Methods Research and Development"
+      }
+    ],
+    "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/pm231?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Events Lead, Product &amp; Financial Services</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/sls418?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal Product Manager - Accounting Platform (Product Minded Auditor)</a>\n- Solflare is hiring <a href=\"https://hashtagweb3.com/ss3?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">SEO Specialist</a>\n- Mysten Labs is hiring <a href=\"https://hashtagweb3.com/sls321?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Enterprise Sales Lead, AI</a>\n- Jane Street is hiring <a href=\"https://hashtagweb3.com/fmrd2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Formal Methods Research and Development</a>",
+    "slotKey": "2026-11-11:morning"
   }
 }
