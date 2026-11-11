@@ -3713,5 +3713,36 @@
     "slotKey": "2026-11-10:evening",
     "messageId": 65819,
     "sentAt": "2026-11-10T19:40:31.061Z"
+  },
+  "338e4e8a-f0e0-4a50-ac20-2686c9838f93": {
+    "status": "reserved",
+    "reservedAt": "2026-11-11T03:33:56.082Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Anza Proposes Removing Durable Nonces From Solana",
+        "summary": "Proposal SIMD-0723 would eliminate the feature used in the Drift hack, activating no earlier than May 2027.",
+        "link": "https://hashtagweb3.com/simdnonces?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Anza files Solana proposal to remove durable nonces"
+      },
+      {
+        "index": -1,
+        "headline": "Senator Warren to oversee prediction markets as committee chair",
+        "summary": "Incoming Senate Banking Committee leadership plans to increase regulatory scrutiny of election betting and prediction platforms in January.",
+        "link": "https://hashtagweb3.com/warrenpred?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Warren to target prediction market oversight as incoming Senate Banking chair"
+      },
+      {
+        "index": -1,
+        "headline": "Report Details Timeline of Binance Security Breach",
+        "summary": "Hackers accessed a Binance engineer's device eight weeks before the October exchange exploit.",
+        "link": "https://hashtagweb3.com/binanceseal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEAL Says Binance Hackers Had an Eight-Week Intrusion Window"
+      }
+    ],
+    "slotKey": "2026-11-11:morning"
   }
 }
