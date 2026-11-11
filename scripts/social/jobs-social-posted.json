@@ -131962,7 +131962,8 @@
       },
       "account": "channel:dev",
       "attemptId": "ce8174ed-8727-4128-8481-223dde472a48",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x09b8ff8b0f499aa5d503f777de374e5674e2e6ac"
     }
   ]
 }
