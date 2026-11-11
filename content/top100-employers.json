@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-11T10:40:59.836Z",
+  "generatedAt": "2026-11-11T11:53:49.888Z",
   "year": 2026,
   "snapshotLabel": "Q4 2026 Index",
   "totalEmployers": 100,
-  "totalActiveJobs": 1195,
+  "totalActiveJobs": 1193,
   "avgRemotePct": 39,
   "avgSalaryTransparencyPct": 16,
   "employers": [
@@ -282,16 +282,16 @@
       "category": "Exchanges & Custody",
       "website": "https://bitpanda.com",
       "headquarters": "Remote / Global",
-      "activeJobs": 26,
+      "activeJobs": 25,
       "departmentCount": 7,
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 45.4,
+        "hiringVolume": 44.9,
         "departmentBreadth": 14,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 59.4
+        "composite": 58.9
       },
       "highlightBadges": [
         "Multi-Department"
@@ -730,7 +730,7 @@
       "highlightBadges": [
         "Multi-Department"
       ],
-      "summary": "Mantle Network is a high-performance Ethereum Layer-2 network built with a modular architecture that combines optimistic rollups with decentralized data availability via Mantle DA. Mantle provides low fees, high throughput, and EVM compatibility for developers and DeFi applications.\n\nMantle Network is a high-performanc..."
+      "summary": "Mantle Network is a high-performance Ethereum Layer-2 network built with a modular architecture that combines optimistic rollups with decentralized data availability via Mantle DA. Mantle provides low fees, high throughput, and EVM compatibility for developers and DeFi applications."
     },
     {
       "rank": 31,
@@ -1307,7 +1307,7 @@
         "Salary Transparency",
         "Multi-Department"
       ],
-      "summary": "HIFI is a stablecoin infrastructure company building technology for next-generation financial products. Founded in 2022 and headquartered in New York, HIFI provides developer tools and APIs for payments, tokenized money, cards, and capital markets across global institutions.\n\nHIFI builds developer infrastructure and AP..."
+      "summary": "HIFI is a stablecoin infrastructure company building technology for next-generation financial products. Founded in 2022 and headquartered in New York, HIFI provides developer tools and APIs for payments, tokenized money, cards, and capital markets across global institutions."
     },
     {
       "rank": 56,
@@ -1403,30 +1403,6 @@
     },
     {
       "rank": 60,
-      "slug": "complyadvantage",
-      "name": "ComplyAdvantage",
-      "category": "Security & Auditing",
-      "website": "https://complyadvantage.com",
-      "headquarters": "Remote / Global",
-      "activeJobs": 6,
-      "departmentCount": 3,
-      "remotePercentage": 0,
-      "salaryTransparencyPct": 50,
-      "salaryBenchmark": "€40k – €50k/yr",
-      "scores": {
-        "hiringVolume": 26.8,
-        "departmentBreadth": 6,
-        "remoteFlexibility": 0,
-        "salaryTransparency": 5,
-        "composite": 37.8
-      },
-      "highlightBadges": [
-        "Salary Transparency"
-      ],
-      "summary": "ComplyAdvantage, founded in 2014 in London by Charles Delingpole, provides artificial intelligence-driven financial crime compliance including transaction monitoring, customer screening and risk rating for banks and fintechs. Its platform covers sanctions, politically exposed persons and adverse media across many langu..."
-    },
-    {
-      "rank": 61,
       "slug": "aspora",
       "name": "Aspora",
       "category": "Fintech & Payments",
@@ -1447,7 +1423,7 @@
       "summary": "Aspora, founded in 2022 and building from hubs in India, the UK, the UAE, Europe and the United States, is a borderless financial platform for people who live and work across countries. Its products combine remittances, multi-currency accounts and card spending with compliance and banking partnerships so diaspora custo..."
     },
     {
-      "rank": 62,
+      "rank": 61,
       "slug": "fireblocks",
       "name": "Fireblocks",
       "category": "Infrastructure & Tooling",
@@ -1472,7 +1448,7 @@
       "summary": "Fireblocks, founded in 2018 in Tel Aviv and New York by Michael Shaulov, provides institutional MPC custody and settlement for 1,800+ institutions securing $6T+ in transfers across 60+ chains. Its network connects exchanges, custodians and banks without single points of failure. Valued at $8B in 2022, Fireblocks is the..."
     },
     {
-      "rank": 63,
+      "rank": 62,
       "slug": "coins-ph",
       "name": "Coins.ph",
       "category": "Exchanges & Custody",
@@ -1494,7 +1470,7 @@
       "summary": "Coins.ph, founded in 2014 in Manila, is the Philippines' leading crypto wallet and payments app with 18M+ registered users. Acquired by Gojek then spun out, it offers PHP trading, bills payment, remittance and GCash interoperability, licensed by the Bangko Sentral ng Pilipinas. It bridges cash and crypto for everyday F..."
     },
     {
-      "rank": 64,
+      "rank": 63,
       "slug": "anchorage-digital",
       "name": "Anchorage Digital",
       "category": "Infrastructure & Tooling",
@@ -1518,7 +1494,7 @@
       "summary": "Anchorage Digital, founded in 2017 in San Francisco by Diogo Mónica and Nathan McCauley, is the only federally chartered crypto bank in the United States through Anchorage Digital Bank N.A. regulated by the Office of the Comptroller of the Currency. Its custody uses biometric authentication and threshold cryptography, ..."
     },
     {
-      "rank": 65,
+      "rank": 64,
       "slug": "certik",
       "name": "CertiK",
       "category": "Security & Auditing",
@@ -1542,7 +1518,7 @@
       "summary": "CertiK, founded in 2017 in New York by Ronghui Gu and Zhong Shao, professors at Columbia and Yale, is a leading Web3 security auditor specializing in formal verification, smart contract audits and on-chain monitoring. The company has audited thousands of projects including major layer-1 chains and DeFi protocols, secur..."
     },
     {
-      "rank": 66,
+      "rank": 65,
       "slug": "liminal-custody",
       "name": "Liminal",
       "category": "Exchanges & Custody",
@@ -1565,7 +1541,7 @@
       "summary": "Liminal provides institutional cryptocurrency custody and wallet infrastructure for banks, exchanges, and digital asset businesses. Its API-driven tools support wallet management, transaction governance, automated refills, and asset consolidation."
     },
     {
-      "rank": 67,
+      "rank": 66,
       "slug": "talos",
       "name": "Talos",
       "category": "Security & Auditing",
@@ -1586,7 +1562,7 @@
       "summary": "Talos, founded in 2018 in New York by Anton Katz and Ethan Feldman, provides institutional trading infrastructure including order management, portfolio management and request-for-quote connectivity to many exchanges and over-the-counter desks. Its platform centralizes execution, compliance and settlement, serving funds..."
     },
     {
-      "rank": 68,
+      "rank": 67,
       "slug": "falconx",
       "name": "FalconX",
       "category": "Trading & Quant",
@@ -1611,7 +1587,7 @@
       "summary": "FalconX, founded in 2018 in San Mateo by Raghu Yarlagadda and Prabhakar Reddy, is an institutional prime brokerage combining trading, credit and custody for funds, corporates and protocols. Its over-the-counter and derivatives desk provides deep liquidity across many assets with post-trade settlement, treasury manageme..."
     },
     {
-      "rank": 69,
+      "rank": 68,
       "slug": "bitvavo",
       "name": "Bitvavo",
       "category": "Exchanges & Custody",
@@ -1630,6 +1606,28 @@
       },
       "highlightBadges": [],
       "summary": "Bitvavo, founded in 2018 by Tim Baardse, Jelle de Boer and William Boersma in Amsterdam, operates a leading European crypto exchange and brokerage for retail and high-volume traders. Its platform offers spot trading, staking and custody across a broad range of assets with EUR rails, FIX and REST APIs, and institutional..."
+    },
+    {
+      "rank": 69,
+      "slug": "complyadvantage",
+      "name": "ComplyAdvantage",
+      "category": "Security & Auditing",
+      "website": "https://complyadvantage.com",
+      "headquarters": "Remote / Global",
+      "activeJobs": 5,
+      "departmentCount": 3,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 40,
+      "salaryBenchmark": "€40k – €50k/yr",
+      "scores": {
+        "hiringVolume": 24.7,
+        "departmentBreadth": 6,
+        "remoteFlexibility": 0,
+        "salaryTransparency": 4,
+        "composite": 34.7
+      },
+      "highlightBadges": [],
+      "summary": "ComplyAdvantage, founded in 2014 in London by Charles Delingpole, provides artificial intelligence-driven financial crime compliance including transaction monitoring, customer screening and risk rating for banks and fintechs. Its platform covers sanctions, politically exposed persons and adverse media across many langu..."
     },
     {
       "rank": 70,

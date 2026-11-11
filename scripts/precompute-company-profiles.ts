@@ -21,14 +21,15 @@ function main() {
     const raw = fs.readFileSync(path.join(dir, file), 'utf-8');
     const { data, content } = matter(raw);
     const website = data.website || undefined;
-    const bodyPlain = content.replace(/^#+.*$/gm, '').replace(/[\r\n]+/g, ' ').trim();
     const frontDesc = typeof data.description === 'string' && data.description.trim() ? data.description.trim() : '';
-    let description = '';
-    if (frontDesc && bodyPlain && frontDesc !== bodyPlain) {
-      description = (frontDesc + '\n\n' + bodyPlain).trim();
-    } else {
-      description = frontDesc || bodyPlain;
-    }
+    const cleanBody = content
+      .replace(/^#+.*$/gm, '')
+      .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+      .replace(/\*\*([^*]+)\*\*/g, '$1')
+      .replace(/^[*-]\s+/gm, '')
+      .replace(/[\r\n]+/g, ' ')
+      .trim();
+    const description = frontDesc || cleanBody;
     map[slug] = { website, description };
   }
 

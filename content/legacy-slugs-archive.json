@@ -155760,5 +155760,35 @@
     "link": "https://jobs.ashbyhq.com/morpho/c4fadcd6-015a-472a-a03e-7eabd10e6a30",
     "title": "US Policy Lead",
     "company": "Morpho"
+  },
+  "pm293": {
+    "id": "8273741",
+    "link": "https://stripe.com/jobs/search?gh_jid=8273741",
+    "title": "Senior Staff Product Manager, Risk",
+    "company": "Stripe"
+  },
+  "pm292": {
+    "id": "8264005",
+    "link": "https://stripe.com/jobs/search?gh_jid=8264005",
+    "title": "Senior Staff Product Manager, Risk",
+    "company": "Stripe"
+  },
+  "sls284": {
+    "id": "8471671002",
+    "link": "https://complyadvantage.com/careers/jobs/8471671002?gh_jid=8471671002",
+    "title": "Account Executive, Commercial",
+    "company": "ComplyAdvantage"
+  },
+  "eng575": {
+    "id": "1f155fd0-0db0-4174-aa78-d31c049ebea7",
+    "link": "https://jobs.ashbyhq.com/blockdaemon/1f155fd0-0db0-4174-aa78-d31c049ebea7",
+    "title": "Site Reliability Engineer",
+    "company": "Blockdaemon"
+  },
+  "sec111": {
+    "id": "5003324101",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5003324101",
+    "title": "Senior Specialist, Information Security",
+    "company": "Bitpanda"
   }
 }

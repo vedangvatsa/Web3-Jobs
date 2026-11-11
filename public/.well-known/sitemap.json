@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-11-11T10:41:01.654Z",
+  "generatedAt": "2026-11-11T11:53:51.594Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 4054,
+  "count": 4051,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -15268,18 +15268,6 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/pm292",
-      "lastmod": "2026-10-12",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/pm293",
-      "lastmod": "2026-10-12",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/pm294",
       "lastmod": "2026-10-12",
       "changefreq": "daily",
@@ -18732,12 +18720,6 @@
     {
       "url": "https://hashtagweb3.com/sls282",
       "lastmod": "2026-10-29",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/sls284",
-      "lastmod": "2026-10-12",
       "changefreq": "daily",
       "priority": 0.8
     },

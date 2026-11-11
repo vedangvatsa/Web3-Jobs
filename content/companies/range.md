@@ -2,7 +2,7 @@
 name: Range
 website: 'https://range.org'
 category: Other
-description: "Range is a real-time security, threat prevention, and on-chain risk monitoring platform designed for rollups, blockchains, and decentralized protocols. By analyzing mempool transactions, smart contract state anomalies, and cross-chain bridging flows, Range detects exploits, malicious frontrunning, and governance attacks before funds are drained. Used by ecosystem foundations and DeFi protocols, Range safeguards on-chain assets. The team values cybersecurity research, EVM execution analysis, data pipelines, and incident response speed. Range provides real-time transaction monitoring and threat prevention for blockchains and rollups, detecting exploits and smart contract anomalies before funds are compromised. Range provides real-time transaction monitoring and threat prevention for blockchains and rollups, detecting exploits and smart contract anomalies before funds are compromised."
+description: "Range is a real-time security, threat prevention, and on-chain risk monitoring platform designed for rollups, blockchains, and decentralized protocols. By analyzing mempool transactions, smart contract state anomalies, and cross-chain bridging flows, Range detects exploits, malicious frontrunning, and governance attacks before funds are drained. Used by ecosystem foundations and DeFi protocols, Range safeguards on-chain assets. The team values cybersecurity research, EVM execution analysis, data pipelines, and incident response speed. Range provides real-time transaction monitoring and threat prevention for blockchains and rollups, detecting exploits and smart contract anomalies before funds are compromised."
 lastUpdated: 2026-09-04
 ---
 
