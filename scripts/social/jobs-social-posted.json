@@ -130320,7 +130320,8 @@
       },
       "account": "channel:build",
       "attemptId": "75ecb1c5-e5d1-4ef4-ae81-0b88a761c81a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x43b28cb4623a9f5fd882417702e73913a08fa863"
     }
   ]
 }
