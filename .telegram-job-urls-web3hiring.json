@@ -1576,6 +1576,14 @@
     "lastUrl": "https://hashtagweb3.com/tr75",
     "updatedAt": "2026-11-03T11:32:44.855Z"
   },
+  "8303692": {
+    "slugs": [
+      "aso24"
+    ],
+    "lastSlug": "aso24",
+    "lastUrl": "https://hashtagweb3.com/aso24",
+    "updatedAt": "2026-11-11T11:41:02.223Z"
+  },
   "8306406": {
     "slugs": [
       "eng198"
@@ -7233,5 +7241,37 @@
     "lastSlug": "fmrd2",
     "lastUrl": "https://hashtagweb3.com/fmrd2",
     "updatedAt": "2026-11-11T03:32:48.210Z"
+  },
+  "d63b3277-651e-4a81-85d8-888f0aef14f5": {
+    "slugs": [
+      "arny"
+    ],
+    "lastSlug": "arny",
+    "lastUrl": "https://hashtagweb3.com/arny",
+    "updatedAt": "2026-11-11T11:41:02.223Z"
+  },
+  "5450512008": {
+    "slugs": [
+      "eng91"
+    ],
+    "lastSlug": "eng91",
+    "lastUrl": "https://hashtagweb3.com/eng91",
+    "updatedAt": "2026-11-11T11:41:02.223Z"
+  },
+  "altitude-development-partners-quant-researcher-strategy-developer": {
+    "slugs": [
+      "tr141"
+    ],
+    "lastSlug": "tr141",
+    "lastUrl": "https://hashtagweb3.com/tr141",
+    "updatedAt": "2026-11-11T11:41:02.223Z"
+  },
+  "altitude-development-partners-risk-analyst": {
+    "slugs": [
+      "an135"
+    ],
+    "lastSlug": "an135",
+    "lastUrl": "https://hashtagweb3.com/an135",
+    "updatedAt": "2026-11-11T11:41:02.223Z"
   }
 }
