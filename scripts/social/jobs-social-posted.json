@@ -133274,7 +133274,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "acf702f3-fdf3-468d-897b-c18e44a28766",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af4c394cd8c8b4c7cf9c1d6"
     }
   ]
 }
