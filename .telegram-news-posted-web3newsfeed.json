@@ -968,6 +968,9 @@
   "https://hashtagweb3.com/bankchecks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
   "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://hashtagweb3.com/simdnonces?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/warrenpred?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/binanceseal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2803,6 +2806,12 @@
   "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
   "Higher US inflation increases likelihood of December rate hike",
   "Hot US inflation raises odds of half-point Fed hike in December",
+  "Anza Proposes Removing Durable Nonces From Solana",
+  "Anza files Solana proposal to remove durable nonces",
+  "Senator Warren to oversee prediction markets as committee chair",
+  "Warren to target prediction market oversight as incoming Senate Banking chair",
+  "Report Details Timeline of Binance Security Breach",
+  "SEAL Says Binance Hackers Had an Eight-Week Intrusion Window",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -3300,5 +3309,8 @@
   "fp:agent|alleg|ceo|chines|disclos|fail|foreign|huang|investor|jensen",
   "fp:activity|agency|bank|binanc|breach|contact|disruption|federal|follow|hack",
   "fp:270m|bank|bet|coin|commit|compet|consortium|exist|financial|fund",
-  "fp:analyst|consumer|creat|cryptocurrency|december|expect|half|higher|hik|hot"
+  "fp:analyst|consumer|creat|cryptocurrency|december|expect|half|higher|hik|hot",
+  "fp:activat|anza|drift|durabl|earlier|eliminat|fil|hack|may2027|nonc",
+  "fp:bank|bett|chair|committe|election|incom|increas|january|leadership|overse",
+  "fp:access|binanc|breach|detail|devic|eight|engineer|exchang|exploit|hacker"
 ]
