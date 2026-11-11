@@ -133121,7 +133121,8 @@
       },
       "account": "channel:product",
       "attemptId": "a94cff4e-c8ed-4e0b-9ad9-0d8f4510c91e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x80172fabed8bddea0225732e4fff7b56b196690c"
     }
   ]
 }
