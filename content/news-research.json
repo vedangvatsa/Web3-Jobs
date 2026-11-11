@@ -164288,7 +164288,27 @@
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
       "attempts": 0,
       "expiresAt": "2026-11-13T14:00:02.000Z",
-      "lastSeenAt": "2026-11-11T08:29:40.487Z"
+      "lastSeenAt": "2026-11-11T08:29:40.487Z",
+      "articleSlug": "monadvisa",
+      "draftProgress": {
+        "id": "afa04107b09697111d85",
+        "day": "2026-11-11",
+        "articleSlug": "monadvisa",
+        "note": "Read Unchained report in full; Monad Foundation press release on globenewswire returned HTTP 403 to WebFetch; still need a second readable independent source.",
+        "sourceChecks": [
+          {
+            "url": "https://unchainedcrypto.com/monad-is-now-a-settlement-option-in-visas-stablecoin-program/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.globenewswire.com/news-release/2026/11/10/3399913/0/en/monad-joins-visa-s-stablecoin-settlement-program.html",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-11-11T11:46:30.850Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "1d40816e1565a859fea3": {
       "source": "BeInCrypto",
