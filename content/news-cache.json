@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-11T00:07:58.969Z",
+  "generatedAt": "2026-11-11T03:31:25.532Z",
   "items": [
+    {
+      "title": "Crypto ally Tom Emmer elected House GOP minority whip",
+      "link": "https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 11 Nov 2026 03:07:45 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "The Minnesota lawmaker, who helped establish the Congressional Crypto Caucus, will stay on as Republican whip after Democrats won the midterms.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
+      "link": "https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 11 Nov 2026 01:16:58 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "The project warned that installations running older versions were vulnerable and urged operators to replace potentially exposed credentials even after...",
+      "source": "Cointelegraph"
+    },
     {
       "title": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
       "link": "https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -506,14 +522,6 @@
       "source": "Blockchain.News"
     },
     {
-      "title": "37 European Banks Back Regulated Euro Stablecoin via Qivalis",
-      "link": "https://blockchain.news/news/european-banks-euro-stablecoin-qivalis",
-      "pubDate": "Tue, 10 Nov 2026 01:47:23 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Qivalis, a consortium of 37 European banks, gains regulatory approval to issue a euro-backed stablecoin under MiCA, aiming to transform digital financ...",
-      "source": "Blockchain.News"
-    },
-    {
       "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
       "link": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Tue, 10 Nov 2026 00:42:39 +0000",
@@ -552,22 +560,6 @@
       "creator": "Krisztian Sandor",
       "contentSnippet": "The brokerage firm said it would rather help build tokenized markets than sit on the sidelines, following a wave of early corporate pushback to the In...",
       "source": "Coindesk"
-    },
-    {
-      "title": "PNC Bank tests turning USDC payments into dollar deposits",
-      "link": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 09 Nov 2026 17:48:35 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "The pilot lets eligible corporate and institutional clients accept USDC on Ethereum, with each token converted to one US dollar before deposit.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
-      "link": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 09 Nov 2026 17:41:02 +0000",
-      "creator": "Jona Jaupi",
-      "contentSnippet": "Avalanche’s AVAX token rose as much as 10% after the NYSE selected its blockchain to support settlement on a planned tokenized stock trading platform.",
-      "source": "Cointelegraph"
     },
     {
       "title": "Tom Lee’s Bitmine Adds $20M in Ethereum, Seizing on Vitalik’s 'ETH Is Money' Declaration",
