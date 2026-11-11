@@ -131693,6 +131693,34 @@
       "verification": "pending",
       "postId": "6af455528bcfab418ea4133c",
       "error": "Buffer X publish failed for 6af455528bcfab418ea4133c: An unknown error has occurred. Please retry the post again, and get in touch if this persists."
+    },
+    {
+      "slug": "trcr",
+      "company": "Bybit",
+      "title": "Trading Risk Control Lead- Regulated Risk",
+      "platform": "threads",
+      "postedAt": "2026-11-11T11:45:19.473Z",
+      "expectedText": "Bybit is hiring Trading Risk Control Lead- Regulated Risk: https://hashtagweb3.com/trcr/th?og=7",
+      "snapshot": {
+        "id": "5024527101",
+        "title": "Trading Risk Control Lead- Regulated Risk",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024527101",
+        "date": "2026-11-05T15:30:46-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "Abu Dhabi, UAE",
+        "department": "Trading Risk ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "trcr"
+      },
+      "payload": {
+        "text": "Bybit is hiring Trading Risk Control Lead- Regulated Risk: https://hashtagweb3.com/trcr/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/trcr/th?og=7"
+      },
+      "attemptId": "d731f650-96bc-4e3b-a404-83f1d7cb5902",
+      "verification": "creating"
     }
   ]
 }
