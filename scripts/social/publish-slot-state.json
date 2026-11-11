@@ -880,10 +880,12 @@
           "faro",
           "anthropicipo"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-11-11T12:41:44.123Z",
         "buildId": "daily-20261111-43011557034-1",
-        "rolloutId": "daily-20261111-43011557034-1"
+        "rolloutId": "daily-20261111-43011557034-1",
+        "buildState": "READY",
+        "observedAt": "2026-11-11T13:07:50.612Z"
       }
     ]
   }
