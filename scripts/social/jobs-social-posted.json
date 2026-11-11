@@ -132566,6 +132566,38 @@
       "attemptId": "0e50a198-3592-4aeb-996b-72cdd6e991db",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Wednesday, 11-Nov-26 11:33:12 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AndfjXov4TnnHCH-VQozHVF\"}"
+    },
+    {
+      "slug": "ms5",
+      "company": "Hut 8",
+      "title": "Principal, Mechanical SME",
+      "platform": "bluesky",
+      "postedAt": "2026-11-11T19:32:40.780Z",
+      "expectedText": "Hut 8 is hiring Principal, Mechanical SME: https://hashtagweb3.com/ms5/bsky?og=7",
+      "snapshot": {
+        "id": "5457193008",
+        "title": "Principal, Mechanical SME",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457193008",
+        "date": "2026-11-10T00:49:34-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Nueces County, TX",
+        "department": "Managed Services / Digital Technology",
+        "active": true,
+        "slug": "ms5",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Principal, Mechanical SME: https://hashtagweb3.com/ms5/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/ms5/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/ms5.png?v=7",
+        "company": "Hut 8",
+        "title": "Principal, Mechanical SME",
+        "description": "Join Hut 8 as Principal, Mechanical SME. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "8ab85f9b-be27-49bc-bb9f-7f04c9ab216d",
+      "verification": "creating"
     }
   ]
 }
