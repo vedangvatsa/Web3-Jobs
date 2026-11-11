@@ -133877,6 +133877,41 @@
       "attemptId": "508145a6-33fd-469f-bd69-8300621b7a7a",
       "verification": "verified",
       "postId": "0xa6a5bbb9ab1ba9c43806df5198fb132e19169eaf"
+    },
+    {
+      "slug": "ops154",
+      "company": "Kraken",
+      "title": "Talent Acquisition Operations Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-11-11T19:36:44.253Z",
+      "expectedText": "Kraken is hiring Talent Acquisition Operations Associate\n\nhttps://hashtagweb3.com/ops154/fc?og=7",
+      "snapshot": {
+        "id": "b8843e87-11c2-4105-af24-a7a0d52e3d9b",
+        "title": "Talent Acquisition Operations Associate",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/b8843e87-11c2-4105-af24-a7a0d52e3d9b",
+        "date": "2026-11-06T13:51:18.577+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (United States)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops154"
+      },
+      "payload": {
+        "text": "Kraken is hiring Talent Acquisition Operations Associate\n\nhttps://hashtagweb3.com/ops154/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops154/fc?og=7"
+          }
+        ],
+        "channel_id": "defi"
+      },
+      "account": "channel:defi",
+      "attemptId": "d48ced6b-4ab2-4265-a6de-6ffd2e53fdba",
+      "verification": "creating"
     }
   ]
 }
