@@ -133947,7 +133947,8 @@
       },
       "account": "channel:ai",
       "attemptId": "89a4f140-c6a6-4981-8e7f-e17b492b509b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x43ab8551e9aafd6fb945f57c7fc3b054987a8d50"
     }
   ]
 }
