@@ -5426,5 +5426,53 @@
     "slotKey": "2026-11-11:morning",
     "messageId": 156175,
     "sentAt": "2026-11-11T03:32:20.105Z"
+  },
+  "a93f1930-f4fb-41d5-9d50-f8ee304ab69f": {
+    "status": "reserved",
+    "reservedAt": "2026-11-11T11:41:13.820Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-fdVAGh9PSRKJucQ",
+        "slug": "scaling-de",
+        "name": "Scaling DeFi: London Edition",
+        "startDate": "2026-11-11T17:00:00.000Z",
+        "keys": [
+          "luma-crypto-fdvagh9psrkjucq",
+          "page:scaling-de:2026-11-11",
+          "luma:evt-fdvagh9psrkjucq",
+          "luma-url:/y6on1z3r",
+          "event:scalingdefilondonedition:2026-11-11:london"
+        ]
+      },
+      {
+        "id": "luma-crypto-K2W8ylv2rhcH5le",
+        "slug": "building-s",
+        "name": "Building on Solana: Colosseum & Founders",
+        "startDate": "2026-11-11T18:00:00.000Z",
+        "keys": [
+          "luma-crypto-k2w8ylv2rhch5le",
+          "page:building-s:2026-11-11",
+          "luma:evt-k2w8ylv2rhch5le",
+          "luma-url:/x26b420k",
+          "event:buildingonsolanacolosseumfounders:2026-11-11:london"
+        ]
+      },
+      {
+        "id": "luma-crypto-7PvDJrtWRnvrHqy",
+        "slug": "bitcoin-so",
+        "name": "Bitcoin Socratic Seminar",
+        "startDate": "2026-11-11T23:00:00.000Z",
+        "keys": [
+          "luma-crypto-7pvdjrtwrnvrhqy",
+          "page:bitcoin-so:2026-11-11",
+          "luma:evt-7pvdjrtwrnvrhqy",
+          "luma-url:/oub5c5y6",
+          "event:bitcoinsocraticseminar:2026-11-11:durham"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-11:afternoon"
   }
 }
