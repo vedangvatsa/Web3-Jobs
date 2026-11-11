@@ -133515,7 +133515,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "dfc44a75-9e5e-4e4a-8305-847eda5cbe09",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xab53eab0e40fd03f5e7fb8ebd100b69a1204174d"
     }
   ]
 }
