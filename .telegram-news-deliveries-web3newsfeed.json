@@ -3780,5 +3780,37 @@
     "slotKey": "2026-11-11:afternoon",
     "messageId": 65821,
     "sentAt": "2026-11-11T11:46:29.005Z"
+  },
+  "b5ed74e4-751f-486a-bb17-5c47428a601a": {
+    "status": "reserved",
+    "reservedAt": "2026-11-11T19:36:03.322Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Anthropic sets $70-$78 share price for Nasdaq IPO",
+        "summary": "The company offers 825 million Class A shares under ticker ANT, valuing it up to $1.4 trillion.",
+        "link": "https://hashtagweb3.com/anthropicipo?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Anthropic launches IPO roadshow with $70 to $78 price range on Nasdaq"
+      },
+      {
+        "index": -1,
+        "headline": "Mercado Bitcoin restores account access following $46 million theft",
+        "summary": "Users can view account balances starting Monday, while trading and withdrawals will resume in subsequent phases.",
+        "link": "https://hashtagweb3.com/mercadobitcoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Mercado Bitcoin to restore account access Monday after $46M hack"
+      },
+      {
+        "index": 1,
+        "headline": "Deutsche Bank launches institutional cryptocurrency custody service in Europe",
+        "summary": "The bank now provides custody for Bitcoin, Ethereum, and three stablecoins to its corporate and institutional client base.",
+        "event_rationale": "This covers the official launch of a major global bank's digital asset custody service, which is distinct from all other listed events regarding exchange operations, regulatory actions, or tokenization platforms.",
+        "link": "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup",
+        "source": "Decrypt",
+        "originalTitle": "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup"
+      }
+    ],
+    "slotKey": "2026-11-11:evening"
   }
 }
