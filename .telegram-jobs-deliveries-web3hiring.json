@@ -18280,5 +18280,124 @@
     "slotKey": "2026-11-11:evening",
     "messageId": 16634,
     "sentAt": "2026-11-11T19:32:39.329Z"
+  },
+  "c987f45c-3580-4796-896d-c75a6486e44f": {
+    "status": "reserved",
+    "reservedAt": "2026-11-11T19:32:44.111Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5ce7afce-2a92-42dc-adf5-26baa4e8b904",
+          "title": "Customer Due Diligence Analyst",
+          "company": "Augustus",
+          "link": "https://jobs.ashbyhq.com/Augustus/5ce7afce-2a92-42dc-adf5-26baa4e8b904",
+          "date": "2026-10-29T09:14:37.101+00:00",
+          "source": "Ashby: Augustus [Augustus]",
+          "location": "New York City",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Risk & Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an114"
+        },
+        "key": "5ce7afce-2a92-42dc-adf5-26baa4e8b904",
+        "slug": "an114",
+        "url": "https://hashtagweb3.com/an114?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Augustus",
+        "title": "Customer Due Diligence Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "af2f419f-6596-4805-8e83-9cee5016aa1a",
+          "title": "Applied Researcher - Forward-Deployed RL",
+          "company": "Prime Intellect",
+          "link": "https://jobs.ashbyhq.com/PrimeIntellect/af2f419f-6596-4805-8e83-9cee5016aa1a",
+          "date": "2026-10-19T15:29:13.997+00:00",
+          "source": "Ashby: Prime Intellect [primeintellect]",
+          "location": "San Francisco",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Applied Research",
+          "active": true,
+          "dateVerified": true,
+          "slug": "arfd"
+        },
+        "key": "af2f419f-6596-4805-8e83-9cee5016aa1a",
+        "slug": "arfd",
+        "url": "https://hashtagweb3.com/arfd?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Prime Intellect",
+        "title": "Applied Researcher"
+      },
+      {
+        "snapshot": {
+          "id": "8334663",
+          "title": "Senior Product Manager, Paid Marketing",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8334663?t=gh_src=&gh_jid=8334663",
+          "date": "2026-11-09T09:57:38-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
+          "department": "Growth Acquisitions",
+          "active": true,
+          "salary": "$166k – $195k/yr",
+          "dateVerified": true,
+          "slug": "pm381"
+        },
+        "key": "8334663",
+        "slug": "pm381",
+        "url": "https://hashtagweb3.com/pm381?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Senior Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "caa8b2cc-2968-479d-bc4b-0bf196276459",
+          "title": "BD Director, Payments (Mexico & Central America)",
+          "company": "Polygon Labs",
+          "link": "https://jobs.ashbyhq.com/polygon-labs/caa8b2cc-2968-479d-bc4b-0bf196276459",
+          "date": "2026-11-03T20:00:20.576+00:00",
+          "source": "Ashby: Polygon Labs [polygon-labs]",
+          "location": "Remote (LATAM)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Business",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls401"
+        },
+        "key": "caa8b2cc-2968-479d-bc4b-0bf196276459",
+        "slug": "sls401",
+        "url": "https://hashtagweb3.com/sls401?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Polygon Labs",
+        "title": "BD Director"
+      },
+      {
+        "snapshot": {
+          "id": "0a764ab7-1f62-4d80-9741-674bd3d540f2",
+          "title": "HR Generalist",
+          "company": "ether.fi",
+          "link": "https://jobs.ashbyhq.com/ether.fi/0a764ab7-1f62-4d80-9741-674bd3d540f2",
+          "date": "2026-11-03T22:41:56.273+00:00",
+          "source": "Ashby: ether.fi [ether.fi]",
+          "location": "Cayman",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "People",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rec54"
+        },
+        "key": "0a764ab7-1f62-4d80-9741-674bd3d540f2",
+        "slug": "rec54",
+        "url": "https://hashtagweb3.com/rec54?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "ether.fi",
+        "title": "HR Generalist"
+      }
+    ],
+    "message": "- Augustus is hiring <a href=\"https://hashtagweb3.com/an114?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Due Diligence Analyst</a>\n- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/arfd?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Applied Researcher - Forward-Deployed RL</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/pm381?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager, Paid Marketing</a>\n- Polygon Labs is hiring <a href=\"https://hashtagweb3.com/sls401?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">BD Director, Payments (Mexico &amp; Central America)</a>\n- ether​.fi is hiring <a href=\"https://hashtagweb3.com/rec54?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">HR Generalist</a>",
+    "slotKey": "2026-11-11:evening"
   }
 }
