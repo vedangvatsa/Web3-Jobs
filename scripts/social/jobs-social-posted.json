@@ -130721,6 +130721,47 @@
       "verification": "verified",
       "postId": "6af3e382ffe2872794ee1f78",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7526126588954996737"
+    },
+    {
+      "slug": "rec49",
+      "company": "Chainlink Labs",
+      "title": "Senior Talent Partner - Business and Enablement",
+      "platform": "linkedin",
+      "postedAt": "2026-11-11T03:37:05.582Z",
+      "expectedText": "Chainlink Labs is hiring Senior Talent Partner - Business and Enablement: https://hashtagweb3.com/rec49/li?og=7",
+      "snapshot": {
+        "id": "a45aa190-44df-413b-be2e-6d3074500c59",
+        "title": "Senior Talent Partner - Business and Enablement",
+        "company": "Chainlink Labs",
+        "link": "https://jobs.ashbyhq.com/chainlink-labs/a45aa190-44df-413b-be2e-6d3074500c59",
+        "date": "2026-10-26",
+        "dateVerified": true,
+        "source": "Ashby: Chainlink Labs [chainlink-labs]",
+        "location": "Remote (United States)",
+        "workplaceType": "Remote",
+        "department": "People",
+        "active": true,
+        "slug": "rec49"
+      },
+      "payload": {
+        "text": "Chainlink Labs is hiring Senior Talent Partner - Business and Enablement: https://hashtagweb3.com/rec49/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/rec49/li?og=7",
+          "title": "Senior Talent Partner - Business and Enablement at Chainlink Labs",
+          "description": "Join Chainlink Labs as Senior Talent Partner - Business a. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/rec49.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "b0f5dafb-0e5a-42f9-b026-a1ffa03a9055",
+      "verification": "creating"
     }
   ]
 }
