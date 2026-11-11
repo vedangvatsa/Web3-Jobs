@@ -4,6 +4,7 @@ import {
   fallbackCaptions,
   pickNextNewsArticle,
   queuePostToBuffer,
+  fetchChannelRecentTexts,
   loadNewsState,
   saveNewsState,
   NewsArticle,
@@ -45,6 +46,19 @@ test('pickNextNewsArticle selects the newest unposted article', () => {
 
   const picked = pickNextNewsArticle(articles, history, 'all');
   assert.equal(picked?.slug, 'story-2');
+});
+
+test('pickNextNewsArticle respects liveBufferSlugs when local history is empty', () => {
+  const articles: NewsArticle[] = [
+    { ...mockArticle, slug: 'story-1', publishedDate: '2026-11-08' },
+    { ...mockArticle, slug: 'story-2', publishedDate: '2026-11-07' },
+  ];
+
+  const emptyHistory: NewsSocialReceipt[] = [];
+  const liveSlugs = new Set(['story-1']);
+
+  const picked = pickNextNewsArticle(articles, emptyHistory, 'all', undefined, liveSlugs);
+  assert.equal(picked?.slug, 'story-2', 'Must skip story-1 because it is already live in Buffer');
 });
 
 test('pickNextNewsArticle returns null when all articles are posted', () => {
@@ -163,6 +177,27 @@ test('queuePostToBuffer surfaces API and GraphQL errors', async () => {
     }),
     /Buffer GraphQL error: Channel token expired/,
   );
+});
+
+test('fetchChannelRecentTexts retrieves post texts from Buffer GraphQL', async () => {
+  const mockFetch: typeof fetch = async (url, init) => {
+    assert.equal(url, 'https://api.buffer.com');
+    return new Response(JSON.stringify({
+      data: {
+        posts: {
+          edges: [
+            { node: { text: 'Headline one https://hashtagweb3.com/story-1/li' } },
+            { node: { text: 'Headline two https://hashtagweb3.com/story-2/li' } },
+          ],
+        },
+      },
+    }), { status: 200 });
+  };
+
+  const texts = await fetchChannelRecentTexts('mock-token', 'ch-123', 'org-123', mockFetch);
+  assert.equal(texts.length, 2);
+  assert.ok(texts[0].includes('story-1'));
+  assert.ok(texts[1].includes('story-2'));
 });
 
 test('loadNewsState and saveNewsState roundtrip cleanly', () => {

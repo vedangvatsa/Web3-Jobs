@@ -23,6 +23,7 @@ try { dotenv.config({ path: path.join(rootDir, '.env.local'), override: true });
 
 export const DEFAULT_BUFFER_X_CHANNEL = '6ab62682ea19ca0bdee284bd';
 export const DEFAULT_BUFFER_LINKEDIN_CHANNEL = '69c5b139af47dacb695b5feb';
+export const DEFAULT_BUFFER_ORG_ID = '69c5b0f799d3bd8de475e25a';
 export const SITE_URL = 'https://hashtagweb3.com';
 
 const GEMINI_MODELS = [
@@ -257,6 +258,7 @@ export function pickNextNewsArticle(
   history: NewsSocialReceipt[],
   platform: 'x' | 'linkedin' | 'all' = 'all',
   forceSlug?: string,
+  liveBufferSlugs?: Set<string>,
 ): NewsArticle | null {
   if (forceSlug) {
     return articles.find((a) => a.slug === forceSlug) || null;
@@ -264,6 +266,13 @@ export function pickNextNewsArticle(
 
   const postedX = new Set(history.filter((h) => h.platform === 'x').map((h) => h.slug));
   const postedLinkedIn = new Set(history.filter((h) => h.platform === 'linkedin').map((h) => h.slug));
+
+  if (liveBufferSlugs) {
+    for (const slug of liveBufferSlugs) {
+      if (platform === 'all' || platform === 'x') postedX.add(slug);
+      if (platform === 'all' || platform === 'linkedin') postedLinkedIn.add(slug);
+    }
+  }
 
   for (const article of articles) {
     if (platform === 'x' && !postedX.has(article.slug)) return article;
@@ -274,6 +283,44 @@ export function pickNextNewsArticle(
   }
 
   return null;
+}
+
+/**
+ * Fetch recent post texts from a Buffer channel to detect already queued/sent articles
+ */
+export async function fetchChannelRecentTexts(
+  token: string,
+  channelId: string,
+  orgId = process.env.BUFFER_ORG_ID || DEFAULT_BUFFER_ORG_ID,
+  fetchFn: typeof fetch = fetch,
+): Promise<string[]> {
+  const query = `
+    query GetRecentTexts($org: OrganizationId!) {
+      posts(first: 50, input: { organizationId: $org, filter: { channelIds: ["${channelId}"] } }) {
+        edges {
+          node {
+            text
+          }
+        }
+      }
+    }
+  `;
+  try {
+    const res = await fetchFn('https://api.buffer.com', {
+      method: 'POST',
+      headers: {
+        Authorization: `Bearer ${token}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ query, variables: { org: orgId } }),
+      signal: AbortSignal.timeout(10000),
+    });
+    if (!res.ok) return [];
+    const data = (await res.json()) as { data?: { posts?: { edges?: Array<{ node: { text: string } }> } } };
+    return data.data?.posts?.edges?.map((e) => e.node?.text).filter(Boolean) as string[] || [];
+  } catch {
+    return [];
+  }
 }
 
 /**
@@ -393,7 +440,17 @@ async function run() {
     return;
   }
 
-  const article = pickNextNewsArticle(articles, state.history, targetPlatform, forceSlug);
+  // Pre-fetch live Buffer channel history to avoid double-posting even if local state was reset/desynced
+  const liveXTexts = bufferToken ? await fetchChannelRecentTexts(bufferToken, xChannelId) : [];
+  const liveLiTexts = bufferToken ? await fetchChannelRecentTexts(bufferToken, linkedInChannelId) : [];
+  const liveSlugs = new Set<string>();
+  for (const a of articles) {
+    if (liveXTexts.some((t) => t.includes(`/${a.slug}`)) && liveLiTexts.some((t) => t.includes(`/${a.slug}`))) {
+      liveSlugs.add(a.slug);
+    }
+  }
+
+  const article = pickNextNewsArticle(articles, state.history, targetPlatform, forceSlug, liveSlugs);
   if (!article) {
     console.log('All recent news articles have already been queued to X and LinkedIn.');
     return;
@@ -426,7 +483,8 @@ async function run() {
   // Queue to X
   if (targetPlatform === 'x' || targetPlatform === 'all') {
     const alreadyQueued = state.history.some((h) => h.slug === article.slug && h.platform === 'x');
-    if (!alreadyQueued || forceSlug) {
+    const alreadyLiveOnX = liveXTexts.some((t) => t.includes(`/${article.slug}`));
+    if ((!alreadyQueued && !alreadyLiveOnX) || forceSlug) {
       try {
         console.log(`\nQueuing to Buffer X channel (${xChannelId})...`);
         const postId = await queuePostToBuffer({
@@ -449,14 +507,15 @@ async function run() {
         console.error(`✗ Failed to queue to X: ${(err as Error).message}`);
       }
     } else {
-      console.log('Article already queued to X.');
+      console.log('Article already queued or live on X.');
     }
   }
 
   // Queue to LinkedIn
   if (targetPlatform === 'linkedin' || targetPlatform === 'all') {
     const alreadyQueued = state.history.some((h) => h.slug === article.slug && h.platform === 'linkedin');
-    if (!alreadyQueued || forceSlug) {
+    const alreadyLiveOnLi = liveLiTexts.some((t) => t.includes(`/${article.slug}`));
+    if ((!alreadyQueued && !alreadyLiveOnLi) || forceSlug) {
       try {
         console.log(`\nQueuing to Buffer LinkedIn channel (${linkedInChannelId})...`);
         const articleUrl = `${SITE_URL}/${article.slug}/li`;
@@ -485,7 +544,7 @@ async function run() {
         console.error(`✗ Failed to queue to LinkedIn: ${(err as Error).message}`);
       }
     } else {
-      console.log('Article already queued to LinkedIn.');
+      console.log('Article already queued or live on LinkedIn.');
     }
   }
 
