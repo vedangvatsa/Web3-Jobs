@@ -12,7 +12,7 @@ Core development team behind Optimism and the OP Stack.
 
 ## Company Overview
 
-Optimism is a premier Layer 2 scaling ecosystem for Ethereum powered by the OP Stack—a modular, open-source framework for building high-performance rollups. The OP Stack powers OP Mainnet, Base, Zora Network, and the broader Superchain vision.
+Optimism is a premier Layer 2 scaling ecosystem for Ethereum powered by the OP Stack, a modular, open-source framework for building high-performance rollups. The OP Stack powers OP Mainnet, Base, Zora Network, and the broader Superchain vision.
 
 ## Open Positions
 

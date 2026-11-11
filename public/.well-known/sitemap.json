@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-11-11T09:51:42.648Z",
+  "generatedAt": "2026-11-11T10:41:01.654Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 4057,
+  "count": 4054,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -2886,12 +2886,6 @@
     {
       "url": "https://hashtagweb3.com/blockcon-punta-cana",
       "lastmod": "2026-11-25",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/blockdaemon",
-      "lastmod": "2026-10-12",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -6912,12 +6906,6 @@
     {
       "url": "https://hashtagweb3.com/eng567",
       "lastmod": "2026-10-16",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/eng575",
-      "lastmod": "2026-10-12",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -17622,12 +17610,6 @@
     {
       "url": "https://hashtagweb3.com/sec107",
       "lastmod": "2026-10-13",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/sec111",
-      "lastmod": "2026-10-12",
       "changefreq": "daily",
       "priority": 0.8
     },

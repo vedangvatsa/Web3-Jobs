@@ -9,7 +9,7 @@ description: >-
 lastUpdated: 2026-11-08
 ---
 
-CoinsPaid (operating CryptoProcessing by CoinsPaid) is a leading cryptocurrency payment ecosystem and business financial infrastructure provider. Founded in 2014 by Max Krupyshev and headquartered in Tallinn, Estonia, CoinsPaid enables international online merchants to accept digital assets—including Bitcoin, Ethereum, and major stablecoins—with automated instant conversion and seamless settlement into fiat or crypto.
+CoinsPaid (operating CryptoProcessing by CoinsPaid) is a leading cryptocurrency payment ecosystem and business financial infrastructure provider. Founded in 2014 by Max Krupyshev and headquartered in Tallinn, Estonia, CoinsPaid enables international online merchants to accept digital assets, including Bitcoin, Ethereum, and major stablecoins, with automated instant conversion and seamless settlement into fiat or crypto.
 
 ## Company Overview
 

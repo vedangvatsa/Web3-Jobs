@@ -10,4 +10,4 @@ lastUpdated: 2026-09-21
 
 Apple Inc. builds hardware, software, and services used by hundreds of millions of people. Through Apple Pay, Apple Card, and Apple Cash, the company operates consumer payment products that sit between banks, networks, merchants, and devices.
 
-The Apple Pay Financial Product Strategy team works across Wallets, Payments, and Commerce on product constructs, commercial models, and market expansion—including topics such as P2P payments, cards, and emerging rails like stablecoins and tokenized deposits.
+The Apple Pay Financial Product Strategy team works across Wallets, Payments, and Commerce on product constructs, commercial models, and market expansion, including topics such as P2P payments, cards, and emerging rails like stablecoins and tokenized deposits.

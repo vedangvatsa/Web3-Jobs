@@ -3,7 +3,7 @@ name: Squads
 website: 'https://squads.xyz'
 category: Solana Smart Accounts
 headquarters: 'Remote'
-description: "Squads builds financial technology products and APIs on stablecoin rails that unlock the benefits of modern money. Known for Squads Multisig—the premier smart account infrastructure securing over $10B on Solana—Squads also powers Altitude (a global business account for cross-border operations), Fuse (a personal finance app for stablecoins and tokenized assets), and Grid (stablecoin infrastructure and developer APIs)."
+description: "Squads builds financial technology products and APIs on stablecoin rails that unlock the benefits of modern money. Known for Squads Multisig, the premier smart account infrastructure securing over $10B on Solana, Squads also powers Altitude (a global business account for cross-border operations), Fuse (a personal finance app for stablecoins and tokenized assets), and Grid (stablecoin infrastructure and developer APIs)."
 lastUpdated: 2026-11-07
 ---
 
