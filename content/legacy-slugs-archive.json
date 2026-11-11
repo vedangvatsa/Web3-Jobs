@@ -155646,5 +155646,65 @@
     "company": "Ripio",
     "title": "VP of Global Business Development",
     "newSlug": "sls475"
+  },
+  "cmp114": {
+    "id": "8026443003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8026443003",
+    "company": "OKX",
+    "title": "Software Engineer, Mobile Core (Compliance)"
+  },
+  "cmp113": {
+    "id": "5003181101",
+    "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5003181101",
+    "company": "BVNK",
+    "title": "BSA/AML Compliance Specialist"
+  },
+  "cmp112": {
+    "id": "8265422",
+    "link": "https://www.coinbase.com/careers/positions/8265422?gh_jid=8265422",
+    "company": "Coinbase",
+    "title": "Associate General Counsel, EU Legal"
+  },
+  "tr124": {
+    "id": "5003175101",
+    "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5003175101",
+    "company": "StraitsX",
+    "title": "OTC Sales Trader"
+  },
+  "tr123": {
+    "id": "4996295101",
+    "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/4996295101",
+    "company": "StraitsX",
+    "title": "OTC Sales Trader"
+  },
+  "pm290": {
+    "id": "8026446003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8026446003",
+    "company": "OKX",
+    "title": "Product Manager / Director, TradingView (Growth & Trading Experience)"
+  },
+  "pm289": {
+    "id": "8026445003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8026445003",
+    "company": "OKX",
+    "title": "Product Manager / Director, TradingView (Growth & Trading Experience)"
+  },
+  "ps10": {
+    "id": "16e0cec9-a91e-436c-859a-e757a9a49d21",
+    "link": "https://jobs.lever.co/unlimit/16e0cec9-a91e-436c-859a-e757a9a49d21",
+    "company": "Unlimit",
+    "title": "Head of Processing SmartVista"
+  },
+  "mgr177": {
+    "id": "5003052101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5003052101",
+    "company": "Bybit",
+    "title": "Senior Business Intelligence Manager"
+  },
+  "dap2": {
+    "id": "53f2498c-e5af-4671-ab26-f52deb767b01",
+    "link": "https://jobs.lever.co/BTSE/53f2498c-e5af-4671-ab26-f52deb767b01",
+    "company": "BTSE",
+    "title": "Senior Database Administrator (PostgreSQL)"
   }
 }
