@@ -133232,7 +133232,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "1a43443a-301f-4a1a-95b8-6643509ecbf9",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af4c377cd8c8b4c7cf9bd2f"
     }
   ]
 }
