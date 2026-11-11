@@ -17917,5 +17917,124 @@
     "slotKey": "2026-11-11:morning",
     "messageId": 185,
     "sentAt": "2026-11-11T03:32:48.210Z"
+  },
+  "0a4986ef-07aa-4d09-b393-9f93caeb790c": {
+    "status": "reserved",
+    "reservedAt": "2026-11-11T11:40:57.763Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "d63b3277-651e-4a81-85d8-888f0aef14f5",
+          "title": "Lead Applied Researcher - New York",
+          "company": "Prime Intellect",
+          "link": "https://jobs.ashbyhq.com/PrimeIntellect/d63b3277-651e-4a81-85d8-888f0aef14f5",
+          "date": "2026-10-19T15:29:31.942+00:00",
+          "source": "Ashby: Prime Intellect [primeintellect]",
+          "location": "New York",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Applied Research",
+          "active": true,
+          "dateVerified": true,
+          "slug": "arny"
+        },
+        "key": "d63b3277-651e-4a81-85d8-888f0aef14f5",
+        "slug": "arny",
+        "url": "https://hashtagweb3.com/arny?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Prime Intellect",
+        "title": "Lead Applied Researcher"
+      },
+      {
+        "snapshot": {
+          "id": "5450512008",
+          "title": "Senior Data Engineer",
+          "company": "WOO Network",
+          "link": "https://job-boards.greenhouse.io/woo/jobs/5450512008",
+          "date": "2026-10-12T23:17:11-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: WOO Network [woo]",
+          "location": "APAC",
+          "department": "Data",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng91"
+        },
+        "key": "5450512008",
+        "slug": "eng91",
+        "url": "https://hashtagweb3.com/eng91?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "WOO Network",
+        "title": "Senior Data Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8303692",
+          "title": "Junior Team Assistant",
+          "company": "Blockchain.com",
+          "link": "https://job-boards.greenhouse.io/blockchain/jobs/8303692",
+          "date": "2026-10-20T12:12:42-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Blockchain.com [blockchain]",
+          "location": "London",
+          "department": "CEO Office",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso24"
+        },
+        "key": "8303692",
+        "slug": "aso24",
+        "url": "https://hashtagweb3.com/aso24?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Blockchain.com",
+        "title": "Junior Team Assistant"
+      },
+      {
+        "snapshot": {
+          "id": "altitude-development-partners-quant-researcher-strategy-developer",
+          "title": "Quant Researcher / Strategy Developer",
+          "company": "Altitude Development Partners",
+          "link": "mailto:careers@altitudedp.com?subject=Application%3A%20Quant%20Researcher%20%2F%20Strategy%20Developer",
+          "date": "2026-11-11T00:00:00.000Z",
+          "dateVerified": true,
+          "dateSource": "Altitude Development Partners Careers",
+          "source": "Altitude Development Partners [altitudedp]",
+          "location": "Remote",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "slug": "tr141"
+        },
+        "key": "altitude-development-partners-quant-researcher-strategy-developer",
+        "slug": "tr141",
+        "url": "https://hashtagweb3.com/tr141?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Altitude Development Partners",
+        "title": "Quant Researcher / Strategy Developer"
+      },
+      {
+        "snapshot": {
+          "id": "altitude-development-partners-risk-analyst",
+          "title": "Risk Analyst",
+          "company": "Altitude Development Partners",
+          "link": "mailto:careers@altitudedp.com?subject=Application%3A%20Risk%20Analyst",
+          "date": "2026-11-11T00:00:00.000Z",
+          "dateVerified": true,
+          "dateSource": "Altitude Development Partners Careers",
+          "source": "Altitude Development Partners [altitudedp]",
+          "location": "Remote",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Finance",
+          "active": true,
+          "slug": "an135"
+        },
+        "key": "altitude-development-partners-risk-analyst",
+        "slug": "an135",
+        "url": "https://hashtagweb3.com/an135?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Altitude Development Partners",
+        "title": "Risk Analyst"
+      }
+    ],
+    "message": "- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/arny?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Lead Applied Researcher - New York</a>\n- WOO Network is hiring <a href=\"https://hashtagweb3.com/eng91?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Engineer</a>\n- Blockchain​.com is hiring <a href=\"https://hashtagweb3.com/aso24?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Junior Team Assistant</a>\n- Altitude Development Partners is hiring <a href=\"https://hashtagweb3.com/tr141?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Quant Researcher / Strategy Developer</a>\n- Altitude Development Partners is hiring <a href=\"https://hashtagweb3.com/an135?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Risk Analyst</a>",
+    "slotKey": "2026-11-11:afternoon"
   }
 }
