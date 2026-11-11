@@ -3746,5 +3746,37 @@
     "slotKey": "2026-11-11:morning",
     "messageId": 65820,
     "sentAt": "2026-11-11T03:34:02.873Z"
+  },
+  "dd4734f4-47f4-4bc8-b24c-acf54ec3677b": {
+    "status": "reserved",
+    "reservedAt": "2026-11-11T11:46:17.762Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "NYSE selects Avalanche for tokenized stock exchange settlement",
+        "summary": "Intercontinental Exchange partnered with crypto exchange OKX to develop a round-the-clock stock market using the network.",
+        "link": "https://hashtagweb3.com/nyseavalanche?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "NYSE selects Avalanche to settle planned 24/7 tokenized stock exchange"
+      },
+      {
+        "index": -1,
+        "headline": "Telegram Added 700,000 Crypto Wallets Over Two Days",
+        "summary": "Founder Pavel Durov attributed the increase to expanding Gram and TON mini-app integrations on the platform.",
+        "link": "https://hashtagweb3.com/telegramwallets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Telegram adds 700,000 crypto wallets in 48 hours, Durov says"
+      },
+      {
+        "index": 26,
+        "headline": "Plume affiliate secures broker-dealer license for US asset tokenization",
+        "summary": "Kimber Digital Securities obtained regulatory approval to offer yield-bearing products and dividends directly to self-custodial wallets in the US.",
+        "event_rationale": "This covers a specific regulatory milestone for on-chain real-world asset distribution that is distinct from exchange expansions or general protocol updates.",
+        "link": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
+        "source": "CoinDesk",
+        "originalTitle": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain"
+      }
+    ],
+    "slotKey": "2026-11-11:afternoon"
   }
 }
