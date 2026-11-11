@@ -158913,7 +158913,27 @@
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
       "attempts": 0,
       "expiresAt": "2026-11-13T02:13:09.000Z",
-      "lastSeenAt": "2026-11-11T08:29:40.487Z"
+      "lastSeenAt": "2026-11-11T08:29:40.487Z",
+      "articleSlug": "marsello",
+      "draftProgress": {
+        "id": "b5ddf744f81b42b9536e",
+        "day": "2026-11-11",
+        "articleSlug": "marsello",
+        "note": "Read Crypto Briefing earnings story and Bitcoin Magazine sale story; two sources verified, draft not started.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptobriefing.com/mara-holdings-q3-profit-bitcoin-sale-debt/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://bitcoinmagazine.com/news/mara-sells-13597-bitcoin-1-1-billion",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-11T11:46:20.020Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "14670153786ce5a2686e": {
       "source": "BeInCrypto",
