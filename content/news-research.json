@@ -167000,9 +167000,9 @@
         "The Defiant"
       ],
       "id": "e64be1e4b27b3f504f00",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-13T14:06:02.000Z",
       "lastSeenAt": "2026-11-11T08:29:40.487Z",
       "articleSlug": "anthropicipo",
@@ -167020,7 +167020,29 @@
         "updatedAt": "2026-11-11T11:52:07.033Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the roadshow announcement, the Decrypt filing coverage and the CNBC report; repaired the restored draft with inline links, capped attributions and source-checked figures; quality, images, formatting, duplicates and typecheck pass for this file.",
+      "sourceChecks": [
+        {
+          "url": "https://www.anthropic.com/news/roadshow-launch",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/382939/anthropic-sets-ipo-price-range-at-70-to-78-valuing-company-at-up-to-1-4-trillion",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Secretary_of_State_Peter_Kyle_visits_Anthropic_in_San_Francisco._%2854099081629%29.jpg",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-11T12:12:07.101Z",
+      "lastReviewedDay": "2026-11-11"
     },
     "93dd6520146fbb957264": {
       "source": "CoinDesk",
@@ -311264,6 +311286,31 @@
           ],
           "reviewedAt": "2026-11-11T11:51:22.456Z",
           "articleSlug": "sejmbill"
+        },
+        "e64be1e4b27b3f504f00": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the roadshow announcement, the Decrypt filing coverage and the CNBC report; repaired the restored draft with inline links, capped attributions and source-checked figures; quality, images, formatting, duplicates and typecheck pass for this file.",
+          "sourceChecks": [
+            {
+              "url": "https://www.anthropic.com/news/roadshow-launch",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/382939/anthropic-sets-ipo-price-range-at-70-to-78-valuing-company-at-up-to-1-4-trillion",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://commons.wikimedia.org/wiki/File:Secretary_of_State_Peter_Kyle_visits_Anthropic_in_San_Francisco._%2854099081629%29.jpg",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-11T12:12:07.101Z",
+          "articleSlug": "anthropicipo"
         }
       },
       "baselineSlugs": [
