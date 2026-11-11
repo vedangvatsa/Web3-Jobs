@@ -158318,7 +158318,31 @@
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
       "lastReviewedDay": "2026-11-10",
-      "nextReviewDate": "2026-11-11"
+      "nextReviewDate": "2026-11-11",
+      "articleSlug": "sejmbill",
+      "draftProgress": {
+        "id": "e1ca12d11bb47cdd6c0c",
+        "day": "2026-11-11",
+        "articleSlug": "sejmbill",
+        "note": "Read Cointelegraph and crypto.news coverage of the Sejm vote (240-202, Nov 6, Senate since Nov 9); The Defiant still 403; two readable sources now verified, draft not started.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets",
+            "outcome": "read"
+          },
+          {
+            "url": "https://crypto.news/poland-crypto-freeze-sanctions-bill/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://thedefiant.io/news/regulation/poland-s-lower-house-backs-crypto-freezes-under-broader-sanctions-bill",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-11-11T11:46:54.275Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "69aa9e8413363a7fb2f5": {
       "source": "The Defiant",
