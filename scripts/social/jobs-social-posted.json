@@ -130826,6 +130826,35 @@
       "verification": "pending",
       "postId": "6af4547aa197a2c4d57a0ecf",
       "error": "Buffer X publish failed for 6af4547aa197a2c4d57a0ecf: An unknown error has occurred. Please retry the post again, and get in touch if this persists."
+    },
+    {
+      "slug": "cmp120",
+      "company": "Paxos",
+      "title": "Compliance KYC Manager",
+      "platform": "threads",
+      "postedAt": "2026-11-11T11:41:36.769Z",
+      "expectedText": "Paxos is hiring Compliance KYC Manager: https://hashtagweb3.com/cmp120/th?og=7",
+      "snapshot": {
+        "id": "05364fdb-0ee9-4ddb-8bce-b093ff335e66",
+        "title": "Compliance KYC Manager",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/paxos/05364fdb-0ee9-4ddb-8bce-b093ff335e66",
+        "date": "2026-10-19T21:40:59.887+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - United States",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Risk & Compliance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "cmp120"
+      },
+      "payload": {
+        "text": "Paxos is hiring Compliance KYC Manager: https://hashtagweb3.com/cmp120/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/cmp120/th?og=7"
+      },
+      "attemptId": "a83f3e7f-cbf9-45f6-bdb1-cdc06b364a9f",
+      "verification": "creating"
     }
   ]
 }
