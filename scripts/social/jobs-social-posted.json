@@ -130110,7 +130110,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "d482c8f9-fc3b-41cf-b0ae-9562203f6894",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd82a931f8263107fd43a7dd81c1bea7500526b20"
     }
   ]
 }
