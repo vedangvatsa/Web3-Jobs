@@ -164322,7 +164322,7 @@
         "id": "afa04107b09697111d85",
         "day": "2026-11-11",
         "articleSlug": "monadvisa",
-        "note": "Read Unchained report in full; Monad Foundation press release on globenewswire returned HTTP 403 to WebFetch; still need a second readable independent source.",
+        "note": "Round 3: Unchained report still the only readable source; globenewswire primary release blocked (Access Denied page confirmed in scratch download). Need a second readable independent outlet (The Block or The Defiant) before drafting. Draft not started.",
         "sourceChecks": [
           {
             "url": "https://unchainedcrypto.com/monad-is-now-a-settlement-option-in-visas-stablecoin-program/",
@@ -164333,7 +164333,7 @@
             "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-11-11T11:46:30.850Z",
+        "updatedAt": "2026-11-11T11:52:10.410Z",
         "approved": false,
         "mustReview": true
       }
