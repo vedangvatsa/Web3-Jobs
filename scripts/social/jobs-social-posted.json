@@ -132347,7 +132347,8 @@
       },
       "account": "channel:growth",
       "attemptId": "36bfe6c3-a650-4809-b4ca-16b4f9684fb9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd753b983ba982fa84462c297eda53189d13299f3"
     }
   ]
 }
