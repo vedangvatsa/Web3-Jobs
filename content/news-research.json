@@ -166990,14 +166990,14 @@
         "id": "e64be1e4b27b3f504f00",
         "day": "2026-11-11",
         "articleSlug": "anthropicipo",
-        "note": "Read Decrypt IPO range story; CNBC and TechCrunch surfaced in search but not yet opened as second source; no draft yet.",
+        "note": "Round 3: Decrypt IPO range story (70-78 dollars, up to 1.4 trillion valuation) read earlier this run day; still no second independent source opened. Defiant URLs return 403 in readiness pass. Draft not started; outcome remains pending.",
         "sourceChecks": [
           {
             "url": "https://decrypt.co/382939/anthropic-sets-ipo-price-range-at-70-to-78-valuing-company-at-up-to-1-4-trillion",
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-11T11:46:11.838Z",
+        "updatedAt": "2026-11-11T11:52:07.033Z",
         "approved": false,
         "mustReview": true
       }
