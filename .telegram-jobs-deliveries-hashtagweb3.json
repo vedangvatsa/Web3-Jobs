@@ -9671,5 +9671,120 @@
     "slotKey": "2026-11-11:afternoon",
     "messageId": 156179,
     "sentAt": "2026-11-11T11:41:44.971Z"
+  },
+  "b416940a-35ea-4d8f-b1b8-33f7747a8306": {
+    "status": "reserved",
+    "reservedAt": "2026-11-11T19:32:55.148Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8335413",
+          "title": "Manager, Marketing Analytics",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8335413",
+          "date": "2026-11-04T14:13:57-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Toronto, Chicago, Atlanta",
+          "department": "7112 Data Science",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt142"
+        },
+        "key": "8335413",
+        "slug": "mkt142",
+        "url": "https://hashtagweb3.com/mkt142?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Manager, Marketing Analytics"
+      },
+      {
+        "snapshot": {
+          "id": "8324648",
+          "title": "Senior Payroll Tax Specialist",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8324648?t=gh_src=&gh_jid=8324648",
+          "date": "2026-10-29T11:20:17-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+          "department": "Accounting",
+          "active": true,
+          "salary": "$100k – $118k/yr",
+          "dateVerified": true,
+          "slug": "pts2"
+        },
+        "key": "8324648",
+        "slug": "pts2",
+        "url": "https://hashtagweb3.com/pts2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Senior Payroll Tax Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "70c292ca-1a90-4709-bea2-4005ad665ac4",
+          "title": "Public Policy Specialist",
+          "company": "Riot Platforms",
+          "link": "https://ats.rippling.com/riot-platforms-careers/jobs/70c292ca-1a90-4709-bea2-4005ad665ac4",
+          "date": "2026-10-12T16:04:52.044000-07:00",
+          "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+          "location": "Remote",
+          "department": "Public Policy",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pps"
+        },
+        "key": "70c292ca-1a90-4709-bea2-4005ad665ac4",
+        "slug": "pps",
+        "url": "https://hashtagweb3.com/pps?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Riot Platforms",
+        "title": "Public Policy Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "8112753003",
+          "title": "Manager, Controls and Governance",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8112753003",
+          "date": "2026-10-30T20:26:19-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "New York, NY",
+          "department": "Strategic Markets",
+          "active": true,
+          "salary": "$107.0k – $160.5k/yr",
+          "dateVerified": true,
+          "slug": "mgr221"
+        },
+        "key": "8112753003",
+        "slug": "mgr221",
+        "url": "https://hashtagweb3.com/mgr221?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Manager, Controls and Governance"
+      },
+      {
+        "snapshot": {
+          "id": "5018826101",
+          "title": "[EU] Compliance Lead, EMI",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5018826101",
+          "date": "2026-10-28T06:28:06-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Vienna, Austria",
+          "department": "Europe",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp134"
+        },
+        "key": "5018826101",
+        "slug": "cmp134",
+        "url": "https://hashtagweb3.com/cmp134?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "[EU] Compliance Lead"
+      }
+    ],
+    "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/mkt142?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Marketing Analytics</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/pts2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Payroll Tax Specialist</a>\n- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/pps?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Public Policy Specialist</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/mgr221?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Controls and Governance</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/cmp134?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">[EU] Compliance Lead, EMI</a>",
+    "slotKey": "2026-11-11:evening"
   }
 }
