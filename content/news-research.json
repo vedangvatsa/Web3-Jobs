@@ -164027,7 +164027,27 @@
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
       "attempts": 0,
       "expiresAt": "2026-11-13T15:51:56.000Z",
-      "lastSeenAt": "2026-11-11T08:29:40.487Z"
+      "lastSeenAt": "2026-11-11T08:29:40.487Z",
+      "articleSlug": "kimberdsp",
+      "draftProgress": {
+        "id": "99e5739f714066611268",
+        "day": "2026-11-11",
+        "articleSlug": "kimberdsp",
+        "note": "Round 3: read Cointelegraph on Kimber Digital Securities SEC broker-dealer registration and FINRA membership; CoinDesk source returned HTTP 429 on WebFetch and still needs an access retry or alternate second outlet. Slug plume is owned in legacy-slugs-archive; use kimberdsp. Draft not started.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-11-11T11:52:13.986Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "6cf14e8bc3cb0acabf89": {
       "source": "Unchained",
