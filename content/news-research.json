@@ -165223,7 +165223,27 @@
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
       "attempts": 0,
       "expiresAt": "2026-11-13T11:25:57.000Z",
-      "lastSeenAt": "2026-11-11T08:29:40.487Z"
+      "lastSeenAt": "2026-11-11T08:29:40.487Z",
+      "articleSlug": "worsequery",
+      "draftProgress": {
+        "id": "63074b585ae959b0cf44",
+        "day": "2026-11-11",
+        "articleSlug": "worsequery",
+        "note": "Read Cointelegraph and Decrypt coverage of the iOS worse_query warning; two sources verified, draft not started.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys",
+            "outcome": "read"
+          },
+          {
+            "url": "https://decrypt.co/382928/binance-warns-of-apple-ios-flaw-that-could-expose-iphone-users-private-keys",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-11T11:46:44.584Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "37cc6adc58c7acb9076c": {
       "source": "The Defiant",
