@@ -130250,7 +130250,8 @@
       },
       "account": "channel:dev",
       "attemptId": "51406452-63c3-45ee-91b3-5e952834880b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2a285ed600ae09ee982f4fcf392f201b7ccf1bfa"
     }
   ]
 }
