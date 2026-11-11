@@ -133767,7 +133767,8 @@
       },
       "account": "channel:founders",
       "attemptId": "3df2f7ac-9b38-4ae2-af5d-2e9644b47daf",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x3f489948ca42e01b1c7b3f0c5a239212d73b5212"
     }
   ]
 }
