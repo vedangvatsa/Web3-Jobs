@@ -33,6 +33,8 @@ export function getAtsBoardFromUrl(value?: string): AtsBoard | undefined {
       provider = 'rippling'; board = segments[0] === 'api' ? segments[3] : segments[0];
     } else if (host === 'careers.kula.ai') {
       provider = 'kula'; board = segments[0];
+    } else if (host === 'jobs.deel.com') {
+      provider = 'deel'; board = segments[0];
     }
     if (provider && board) return { provider, board, ...(region && { region }) };
   } catch {}

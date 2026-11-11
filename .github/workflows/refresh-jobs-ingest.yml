@@ -62,6 +62,10 @@ jobs:
         run: npx tsx scripts/ingest-altitudedp-jobs.ts
         continue-on-error: true
 
+      - name: Ingest DFNS Deel jobs
+        run: npx tsx scripts/ingest-deel-board.ts dfns "DFNS" "https://dfns.co"
+        continue-on-error: true
+
       - name: Ingest BitOasis Keka jobs
         run: npx tsx scripts/ingest-keka-board.ts dcx "BitOasis"
         continue-on-error: true

@@ -86,6 +86,7 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
 const COMPANY_FAVICON_DOMAINS: Record<string, string> = {
   'altitude-development-partners': 'altitudedp.com',
   'altitudedp': 'altitudedp.com',
+  'dfns': 'dfns.co',
   'ckba': 'ckba.build',
   'very-ai': 'very.org',
   'ramp': 'ramp.com',

@@ -668,5 +668,14 @@
   "altitude-development-partners": {
     "website": "https://altitudedp.com",
     "twitter": "https://x.com/altitudedp"
+  },
+  "altitudedp": {
+    "website": "https://altitudedp.com",
+    "twitter": "https://x.com/altitudedp"
+  },
+  "dfns": {
+    "website": "https://dfns.co",
+    "twitter": "https://x.com/dfnsHQ",
+    "linkedin": "https://www.linkedin.com/company/dfnshq/"
   }
 }

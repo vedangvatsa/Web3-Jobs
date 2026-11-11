@@ -14,7 +14,7 @@ import {
 } from './lib/job-description-store';
 
 const COMPANY_NAME = 'Altitude Development Partners';
-const COMPANY_SLUG = 'altitude-development-partners';
+const COMPANY_SLUG = 'altitudedp';
 const COMPANY_WEBSITE = 'https://altitudedp.com';
 
 async function ensureBranding(root: string) {

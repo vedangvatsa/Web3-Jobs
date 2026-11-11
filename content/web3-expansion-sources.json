@@ -1125,5 +1125,17 @@
       "quote": "rn 8–11% APRZircuit Liquidity HubStake LRTs & LSTs to maximize rewardsBLOCKCHAINBridgeTransfer assets to Zircuit L2ExplorerView transactions and network activityGrantsGet funding to build on ZircuitBlogEcosystemCareersRESOURCESdOCSLaunch AppThe Safe Haven for Onchain Fi"
     },
     "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined."
+  },
+  {
+    "company": "DFNS",
+    "website": "https://dfns.co",
+    "country": null,
+    "geography": null,
+    "provider": "deel",
+    "board": "dfns",
+    "boardUrl": "https://jobs.deel.com/dfns",
+    "apiUrl": "https://jobs.deel.com/dfns",
+    "officialCareersUrl": "https://dfns.co",
+    "status": "recurring"
   }
 ]

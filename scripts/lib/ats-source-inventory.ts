@@ -17,7 +17,7 @@ function scriptFiles(directory: string): string[] {
 }
 
 function providerFromHint(hint: string): string | undefined {
-  return ['ashby', 'greenhouse', 'lever', 'workable', 'recruitee', 'bamboo', 'breezy', 'smartrecruiters', 'teamtailor', 'rippling', 'dover', 'comeet', 'keka'].find(provider => hint.includes(provider))?.replace(/^bamboo$/, 'bamboohr');
+  return ['ashby', 'greenhouse', 'lever', 'workable', 'recruitee', 'bamboo', 'breezy', 'smartrecruiters', 'teamtailor', 'rippling', 'dover', 'comeet', 'keka', 'deel'].find(provider => hint.includes(provider))?.replace(/^bamboo$/, 'bamboohr');
 }
 
 export function configuredAtsBoards(): ConfiguredAtsBoard[] {
@@ -53,7 +53,7 @@ export function configuredAtsBoards(): ConfiguredAtsBoard[] {
   }
   for (const name of fs.readdirSync('.github/workflows').filter(file => /\.ya?ml$/.test(file))) {
     const file = `.github/workflows/${name}`;
-    for (const match of fs.readFileSync(file, 'utf8').matchAll(/ingest-(ashby|greenhouse)-board\.ts\s+(\S+)\s+["']([^"']+)["']/g)) {
+    for (const match of fs.readFileSync(file, 'utf8').matchAll(/ingest-(ashby|greenhouse|keka|deel)-board\.ts\s+(\S+)\s+["']([^"']+)["']/g)) {
       boards.push({ provider: match[1], board: match[2], company: match[3], file });
     }
   }

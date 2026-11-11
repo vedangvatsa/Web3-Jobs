@@ -467,6 +467,7 @@ export function getPublicJobUrl(
 
 export function getCompanySlug(company: string): string {
   const lower = (company || '').toLowerCase().trim();
+  if (['altitude development partners', 'altitudedp', 'altitude-development-partners'].includes(lower)) return 'altitudedp';
   if (lower === 'eco' || lower === 'eco protocol' || lower === 'eco-protocol') return 'eco-protocol';
   if (['very ai', 'veryai', 'very-ai'].includes(lower)) return 'very-ai';
   if (['proto', 'proto xyz', 'proto-xyz', 'proto network', 'proto-network'].includes(lower)) return 'proto-xyz';
