@@ -5381,5 +5381,48 @@
     "slotKey": "2026-11-10:evening",
     "messageId": 156171,
     "sentAt": "2026-11-10T19:32:31.983Z"
+  },
+  "8bf34a3a-e7dd-4927-9900-8614c5fe1721": {
+    "status": "reserved",
+    "reservedAt": "2026-11-11T03:32:17.417Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "curated-bitcoin-altcoins-cryptocurrency-enthusiast-night-crypto-gathering-2026-11-30",
+        "slug": "bitcoin-altcoins-cryptocurrency-enthusiast-night-crypto-gathering",
+        "name": "Bitcoin/Altcoins & Cryptocurrency Enthusiast Night - Crypto Gathering",
+        "startDate": "2026-11-30T18:30:00-05:00",
+        "keys": [
+          "curated-bitcoin-altcoins-cryptocurrency-enthusiast-night-crypto-gathering-2026-11-30",
+          "page:bitcoin-altcoins-cryptocurrency-enthusiast-night-crypto-gathering:2026-11-30",
+          "url:eventbrite.com/e/bitcoinaltcoins-cryptocurrency-enthusiast-night-crypto-gathering-tickets-1981206450827:2026-11-30",
+          "event:bitcoinaltcoinscryptocurrencyenthusiastnightcryptogathering:2026-11-30:new york"
+        ]
+      },
+      {
+        "id": "premier-blockchain-life-2026",
+        "slug": "blockchain-life",
+        "name": "Blockchain Life 2026",
+        "startDate": "2026-12-01T09:00:00+04:00",
+        "keys": [
+          "premier-blockchain-life-2026",
+          "page:blockchain-life:2026-12-01",
+          "event:blockchainlife2026:2026-12-01:dubai"
+        ]
+      },
+      {
+        "id": "premier-tokenize-ldn-2026",
+        "slug": "tokenize-ldn-2026",
+        "name": "Tokenize: LDN 2026",
+        "startDate": "2026-12-01T09:00:00.000Z",
+        "keys": [
+          "premier-tokenize-ldn-2026",
+          "page:tokenize-ldn-2026:2026-12-01",
+          "event:tokenizeldn2026:2026-12-01:london"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-11:morning"
   }
 }
