@@ -133623,7 +133623,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "5e46af2c-eb1b-4303-8fdd-150444837d73",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x494d5b8d85ecb34eb1197d7aeae4b55c08d2df8e"
     }
   ]
 }
