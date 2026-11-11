@@ -132473,7 +132473,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "729f0303-4a66-47c2-81b6-5b13d9331ad8",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7526249658181111808"
     }
   ]
 }
