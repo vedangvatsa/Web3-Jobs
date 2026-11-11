@@ -301639,7 +301639,8 @@
               "url": "https://cointelegraph.com/news/apple-telegram-app-store-gram-rebounds",
               "outcome": "read"
             }
-          ]
+          ],
+          "publishedAt": "2026-11-10T04:08:00.950Z"
         },
         "614e158ccebaf6dbd6f6": {
           "status": "rejected",
@@ -302217,7 +302218,8 @@
               "url": "https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter",
               "outcome": "read"
             }
-          ]
+          ],
+          "publishedAt": "2026-11-10T04:08:00.950Z"
         },
         "0d3f6302d60357bb13a2": {
           "status": "rejected",
@@ -302257,7 +302259,8 @@
               "url": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal",
               "outcome": "read"
             }
-          ]
+          ],
+          "publishedAt": "2026-11-10T04:08:00.950Z"
         },
         "8d827b66ae5299bbd4f3": {
           "status": "rejected",
@@ -302295,7 +302298,8 @@
               "url": "https://www.justice.gov/opa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution",
               "outcome": "read"
             }
-          ]
+          ],
+          "publishedAt": "2026-11-10T04:08:00.950Z"
         }
       },
       "baselineSlugs": [

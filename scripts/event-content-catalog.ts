@@ -72,7 +72,7 @@ export function writeEventContentCatalog(check = false): void {
   const outputs = { 'INDEX.md': index.join('\n'), 'descriptions.md': descriptions.join('\n') };
   for (const [file, content] of Object.entries(outputs)) {
     const filePath = path.join(process.cwd(), 'content/events', file);
-    const expected = `${content.trimEnd()}\n`;
+    const expected = `${content.trimEnd().toWellFormed()}\n`;
     if (check) {
       if (!fs.existsSync(filePath) || fs.readFileSync(filePath, 'utf8') !== expected) {
         throw new Error(`${filePath} is stale. Run npm run organize:events.`);
