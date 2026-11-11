@@ -134097,7 +134097,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "bd86ea36-4e21-4f99-b408-b001f9b6ed1d",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af4c442e805a6da2310ef78"
     }
   ]
 }
