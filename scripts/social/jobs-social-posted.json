@@ -130888,7 +130888,8 @@
         "description": "Join Paxos as Compliance KYC Manager. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "a5daffee-ecd5-478d-9eb3-fc2176a3e441",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mzzurx2gpg2g"
     }
   ]
 }
