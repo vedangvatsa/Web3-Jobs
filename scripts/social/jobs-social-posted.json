@@ -134140,7 +134140,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "924c931a-7393-403f-afbb-e0686d39ceed",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af4c45fb523db05a3eb0d66"
     }
   ]
 }
