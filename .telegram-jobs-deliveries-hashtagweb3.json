@@ -9551,7 +9551,7 @@
     "sentAt": "2026-11-11T03:32:55.758Z"
   },
   "ab3b72e9-589d-4cb4-8fe4-4237d35ff7db": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-11T11:41:10.166Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -9668,6 +9668,8 @@
       }
     ],
     "message": "- Altitude Development Partners is hiring <a href=\"https://hashtagweb3.com/tr141?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Quant Researcher / Strategy Developer</a>\n- Altitude Development Partners is hiring <a href=\"https://hashtagweb3.com/an135?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Risk Analyst</a>\n- Presto Labs is hiring <a href=\"https://hashtagweb3.com/tr142?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Quantitative Researcher</a>\n- Chainalysis is hiring <a href=\"https://hashtagweb3.com/arc15?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Architect</a>\n- Hut 8 is hiring <a href=\"https://hashtagweb3.com/pt5?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Partner, Tax</a>",
-    "slotKey": "2026-11-11:afternoon"
+    "slotKey": "2026-11-11:afternoon",
+    "messageId": 156179,
+    "sentAt": "2026-11-11T11:41:44.971Z"
   }
 }
