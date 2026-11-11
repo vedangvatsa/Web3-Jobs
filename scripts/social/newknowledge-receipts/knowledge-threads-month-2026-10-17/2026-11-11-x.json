@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-11-11",
+    "threadId": "C09",
+    "sequence": 25,
+    "platform": "x",
+    "assetCommit": "86aee951a9c705158e12bfeaa7bbc62f9a7fc9a9",
+    "contentDigest": "e253b634849154ca8a7352c7967b0173f46868b10c390ee5855ea59317d4b568",
+    "posts": [
+      {
+        "number": 1,
+        "text": "Sample resume rewrite:\n'Built a dApp' becomes 'Built a React token-balance view with disconnected, loading and RPC-error states.'\n\nUse the project's Description field.",
+        "alt": "Resume Builder example, before and after. Before: Built a dApp. After: Built a React token-balance view with disconnected, loading and RPC-error states. The project is named Sample Token-Balance View and labeled Personal practice project in Key Projects & Portfolio.",
+        "image": "social-assets/knowledge-threads-month/images/C09-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "Sample community resume:\n'Managed Discord' becomes 'Drafted a mock support queue with issue category, escalation owner and resolution note.'\n\nYour Role: Personal practice project.",
+        "alt": "Resume Builder example, before and after. Before: Managed Discord. After: Drafted a mock support queue with issue category, escalation owner and resolution note. The project is Sample Support Queue, labeled Personal practice project.",
+        "image": "social-assets/knowledge-threads-month/images/C09-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "Sample content resume:\n'Wrote about crypto' becomes 'Wrote a practice guide explaining approve and transferFrom with a worked allowance example.'\n\nProject Name: Sample Token Approval Guide.",
+        "alt": "Resume Builder example, before and after. Before: Wrote about crypto. After: Wrote a practice guide explaining approve and transferFrom with a worked allowance example. Sample Token Approval Guide is labeled Personal practice project.",
+        "image": "social-assets/knowledge-threads-month/images/C09-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "Sample summaries: frontend developer building a balance view; community contributor drafting a support queue; content writer explaining token approvals.\n\nPut the sentence in Professional Summary.",
+        "alt": "Three sample Resume Builder summaries: a frontend developer building a React token-balance view with connection and error states; a community contributor drafting a mock support queue and moderator handoff; a content writer explaining token approvals through a worked allowance example.",
+        "image": "social-assets/knowledge-threads-month/images/C09-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "Practice interview walkthroughs:\n\nTechnical: disconnect the wallet, load a balance, then simulate an RPC error.\nSupport: classify the issue, assign an owner and record the resolution.",
+        "alt": "Two sample Resume Builder summaries with interview practice prompts. Technical: disconnect a wallet, load a balance and simulate an RPC error. Community support: classify a mock issue, assign an owner and record the resolution.",
+        "image": "social-assets/knowledge-threads-month/images/C09-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "Use Key Projects & Portfolio for practice work, with separate Project Name, Your Role, Description and Link fields.\n\nDownload PDF exports the preview.\n\nhashtagweb3.com/resume-builder/x",
+        "alt": "Resume Builder's Key Projects & Portfolio section shows Sample Token Approval Guide, labeled Personal practice project, with an example description about approve and transferFrom. Project Name, Your Role, Description and Link are separate fields. The sample link is empty; Download PDF exports the preview.",
+        "image": "social-assets/knowledge-threads-month/images/C09-06.jpg"
+      }
+    ],
+    "assets": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-01.jpg",
+        "sha256": "29bfc431089d417f7d633d6ab9159b2410ee3a965afdcc603e731f6bb43c8d5f",
+        "bytes": 126043,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Resume Builder example, before and after. Before: Built a dApp. After: Built a React token-balance view with disconnected, loading and RPC-error states. The project is named Sample Token-Balance View and labeled Personal practice project in Key Projects & Portfolio.",
+        "renderedText": "Resume rewrites\n\nTechnical example: name the interface states\n\nExample résumé\n\nBefore\n\nBuilt a dApp.\n\nAfter\n\nHashtag Web3 Resume Builder\n\nC09 · 1/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/86aee951a9c705158e12bfeaa7bbc62f9a7fc9a9/social-assets/knowledge-threads-month/images/C09-01.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-02.jpg",
+        "sha256": "dc2c15a3f9dc90617f6df97e315c33f312c43c386a8c91901321dd9c12c61424",
+        "bytes": 129459,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Resume Builder example, before and after. Before: Managed Discord. After: Drafted a mock support queue with issue category, escalation owner and resolution note. The project is Sample Support Queue, labeled Personal practice project.",
+        "renderedText": "Resume rewrites\n\nCommunity example: name the support artifact\n\nExample résumé\n\nBefore\n\nManaged Discord.\n\nAfter\n\nHashtag Web3 Resume Builder\n\nC09 · 2/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/86aee951a9c705158e12bfeaa7bbc62f9a7fc9a9/social-assets/knowledge-threads-month/images/C09-02.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-03.jpg",
+        "sha256": "9e0fdf1571f68271f6bbf016d5af6fc5de1dda490a0eff3341b7c37a19391843",
+        "bytes": 131638,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Resume Builder example, before and after. Before: Wrote about crypto. After: Wrote a practice guide explaining approve and transferFrom with a worked allowance example. Sample Token Approval Guide is labeled Personal practice project.",
+        "renderedText": "Resume rewrites\n\nContent example: name what the reader learns\n\nExample résumé\n\nBefore\n\nWrote about crypto.\n\nAfter\n\nHashtag Web3 Resume Builder\n\nC09 · 3/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/86aee951a9c705158e12bfeaa7bbc62f9a7fc9a9/social-assets/knowledge-threads-month/images/C09-03.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-04.jpg",
+        "sha256": "c53c3d9f908f4c35542ffea8ef09f8a670cb6e9b4ed04c57f501864183e5fa23",
+        "bytes": 133085,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Three sample Resume Builder summaries: a frontend developer building a React token-balance view with connection and error states; a community contributor drafting a mock support queue and moderator handoff; a content writer explaining token approvals through a worked allowance example.",
+        "renderedText": "Resume rewrites\n\nThree example résumés\n\nHashtag Web3 Resume Builder\n\nC09 · 4/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/86aee951a9c705158e12bfeaa7bbc62f9a7fc9a9/social-assets/knowledge-threads-month/images/C09-04.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-05.jpg",
+        "sha256": "9983de559d29d49753148aeede3408ea9a75cdf41bf699fa57861ea2b5b7faa5",
+        "bytes": 144081,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Two sample Resume Builder summaries with interview practice prompts. Technical: disconnect a wallet, load a balance and simulate an RPC error. Community support: classify a mock issue, assign an owner and record the resolution.",
+        "renderedText": "Resume rewrites\n\nInterview walkthroughs\n\nPractice prompts\n\nTechnical: disconnect the wallet, load a balance, simulate an RPC error.\n\nSupport: classify, assign, record the resolution.\n\nHashtag Web3 Resume Builder\n\nC09 · 5/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/86aee951a9c705158e12bfeaa7bbc62f9a7fc9a9/social-assets/knowledge-threads-month/images/C09-05.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-06.jpg",
+        "sha256": "96740b4915a787da0665c5a4e2f0ccc881a97db9398eb5766fae70c04c6dbb9b",
+        "bytes": 146079,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Resume Builder's Key Projects & Portfolio section shows Sample Token Approval Guide, labeled Personal practice project, with an example description about approve and transferFrom. Project Name, Your Role, Description and Link are separate fields. The sample link is empty; Download PDF exports the preview.",
+        "renderedText": "Resume rewrites\n\nUse the project fields\n\nExample résumé\n\nKey Projects & Portfolio\n\nProject Name · Your Role · Description · Link\n\nThe sample link is empty. Download PDF exports the preview.\n\nHashtag Web3 Resume Builder\n\nC09 · 6/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/86aee951a9c705158e12bfeaa7bbc62f9a7fc9a9/social-assets/knowledge-threads-month/images/C09-06.jpg"
+      }
+    ]
+  },
+  "accountId": "6ab62682ea19ca0bdee284bd",
+  "claimId": "4343d78a-281d-4201-a915-c6a6a3954666",
+  "startedAt": "2026-11-11T11:40:11.771Z",
+  "status": "claimed",
+  "steps": {}
+}
