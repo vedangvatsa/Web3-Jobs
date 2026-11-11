@@ -132597,7 +132597,8 @@
         "description": "Join Hut 8 as Principal, Mechanical SME. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "8ab85f9b-be27-49bc-bb9f-7f04c9ab216d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3n22p4cljpp2w"
     }
   ]
 }
