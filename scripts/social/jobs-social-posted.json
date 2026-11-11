@@ -131427,7 +131427,8 @@
       },
       "account": "channel:product",
       "attemptId": "5b0af70b-1f95-4e51-8ebe-a7bb55b7737a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf7eea9d399c892e2a9f8973d1e07b57bba88d2be"
     }
   ]
 }
