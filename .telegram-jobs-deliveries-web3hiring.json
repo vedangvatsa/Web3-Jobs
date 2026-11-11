@@ -17803,7 +17803,7 @@
     "sentAt": "2026-11-11T03:32:41.173Z"
   },
   "5f96af30-c1d3-42a2-90d8-f7ecc7544a84": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-11T03:32:43.088Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -17914,6 +17914,8 @@
       }
     ],
     "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/pm231?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Events Lead, Product &amp; Financial Services</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/sls418?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal Product Manager - Accounting Platform (Product Minded Auditor)</a>\n- Solflare is hiring <a href=\"https://hashtagweb3.com/ss3?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">SEO Specialist</a>\n- Mysten Labs is hiring <a href=\"https://hashtagweb3.com/sls321?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Enterprise Sales Lead, AI</a>\n- Jane Street is hiring <a href=\"https://hashtagweb3.com/fmrd2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Formal Methods Research and Development</a>",
-    "slotKey": "2026-11-11:morning"
+    "slotKey": "2026-11-11:morning",
+    "messageId": 185,
+    "sentAt": "2026-11-11T03:32:48.210Z"
   }
 }
