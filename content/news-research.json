@@ -158295,30 +158295,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "e1ca12d11bb47cdd6c0c",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-12T12:01:12.000Z",
       "lastSeenAt": "2026-11-11T08:29:40.487Z",
-      "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"Poland’s Lower House Backs Crypto Freezes Under Broader Sanctions Bill\": https://thedefiant.io/news/regulation/poland-s-lower-house-backs-crypto-freezes-under-broader-sanctions-bill -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "reason": "verified-event",
+      "note": "Re-read Cointelegraph and crypto.news coverage of the Nov 6 Sejm vote (240-202, one abstention) and Senate referral; verified figures, MiCA definition, and the 30-day Senate clock against both opened sources. Wrote sejmbill.md (656 words), self-hosted Sejm photo, quality/images/duplicates/formatting audits and tsc all clean, all links HTTP 200.",
       "sourceChecks": [
         {
+          "url": "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/poland-crypto-freeze-sanctions-bill/",
+          "outcome": "read"
+        },
+        {
           "url": "https://thedefiant.io/news/regulation/poland-s-lower-house-backs-crypto-freezes-under-broader-sanctions-bill",
-          "outcome": "blocked",
-          "status": 403,
-          "method": "GET",
-          "checkedAt": "2026-11-10T02:20:08.887Z"
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-10T02:20:16.507Z",
+      "reviewedAt": "2026-11-11T11:51:22.456Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Poland’s Lower House Backs Crypto Freezes Under Broader Sanctions Bill",
         "Find independent reporting confirming the event in: Poland’s Lower House Backs Crypto Freezes Under Broader Sanctions Bill",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-10",
-      "nextReviewDate": "2026-11-11",
+      "lastReviewedDay": "2026-11-11",
       "articleSlug": "sejmbill",
       "draftProgress": {
         "id": "e1ca12d11bb47cdd6c0c",
@@ -311219,6 +311223,27 @@
           ],
           "reviewedAt": "2026-11-11T11:45:23.948Z",
           "articleSlug": "faro"
+        },
+        "e1ca12d11bb47cdd6c0c": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Cointelegraph and crypto.news coverage of the Nov 6 Sejm vote (240-202, one abstention) and Senate referral; verified figures, MiCA definition, and the 30-day Senate clock against both opened sources. Wrote sejmbill.md (656 words), self-hosted Sejm photo, quality/images/duplicates/formatting audits and tsc all clean, all links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/poland-crypto-freeze-sanctions-bill/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/regulation/poland-s-lower-house-backs-crypto-freezes-under-broader-sanctions-bill",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-11T11:51:22.456Z",
+          "articleSlug": "sejmbill"
         }
       },
       "baselineSlugs": [
