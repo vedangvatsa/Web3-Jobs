@@ -165257,7 +165257,7 @@
         "id": "63074b585ae959b0cf44",
         "day": "2026-11-11",
         "articleSlug": "worsequery",
-        "note": "Read Cointelegraph and Decrypt coverage of the iOS worse_query warning; two sources verified, draft not started.",
+        "note": "Round 3 re-read Cointelegraph and Decrypt on the worse_query iOS sandbox escape; verified affected versions, forcequitOS disclosure, Apple 27.2.1 notes, Binance spokesperson response, SlowMist 23pds view. Two sources verified; draft not started before deadline.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys",
@@ -165268,7 +165268,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-11T11:46:44.584Z",
+        "updatedAt": "2026-11-11T11:51:52.496Z",
         "approved": false,
         "mustReview": true
       }
