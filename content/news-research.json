@@ -166813,7 +166813,27 @@
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
       "attempts": 0,
       "expiresAt": "2026-11-13T15:49:59.000Z",
-      "lastSeenAt": "2026-11-11T08:29:40.487Z"
+      "lastSeenAt": "2026-11-11T08:29:40.487Z",
+      "articleSlug": "moodyspilot",
+      "draftProgress": {
+        "id": "33eae4247c740f06b391",
+        "day": "2026-11-11",
+        "articleSlug": "moodyspilot",
+        "note": "Read Decrypt and Unchained coverage of the Moody's Chainlink testnet pilot; two sources verified, draft not started.",
+        "sourceChecks": [
+          {
+            "url": "https://decrypt.co/382888/moodys-chainlink-credit-ratings-across-multiple-blockchains",
+            "outcome": "read"
+          },
+          {
+            "url": "https://unchainedcrypto.com/moodys-pilot-with-chainlink-puts-test-ratings-on-several-blockchains-in-one-pass/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-11T11:46:48.651Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "bc83f0358aa84c4b4011": {
       "source": "The Defiant",
