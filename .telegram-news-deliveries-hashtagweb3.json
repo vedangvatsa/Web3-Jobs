@@ -3574,5 +3574,36 @@
     "slotKey": "2026-11-11:afternoon",
     "messageId": 156180,
     "sentAt": "2026-11-11T11:48:27.216Z"
+  },
+  "b48a8c94-f6a9-4973-b831-483ba34fd8bc": {
+    "status": "reserved",
+    "reservedAt": "2026-11-11T19:33:56.315Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Anthropic sets IPO price range at $70 to $78",
+        "summary": "The company is offering 825 million Class A shares on Nasdaq under ANT, seeking a $1.4 trillion valuation.",
+        "link": "https://hashtagweb3.com/anthropicipo?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Anthropic launches IPO roadshow with $70 to $78 price range on Nasdaq"
+      },
+      {
+        "index": -1,
+        "headline": "Major banks invest $270 million in Project Faro stablecoin",
+        "summary": "Goldman Sachs, Citi, Santander, and Deutsche Bank are funding a new joint dollar-pegged stablecoin project.",
+        "link": "https://hashtagweb3.com/faro?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Banks commit $270 million to Project Faro stablecoin venture"
+      },
+      {
+        "index": -1,
+        "headline": "Poland Passes Bill Allowing Crypto Asset Freezes",
+        "summary": "The Sejm approved legislation classifying digital assets as funds subject to government sanctions.",
+        "link": "https://hashtagweb3.com/sejmbill?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Poland's Lower House Passes Sanctions Bill With Crypto Freezes"
+      }
+    ],
+    "slotKey": "2026-11-11:evening"
   }
 }
