@@ -163909,7 +163909,27 @@
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
       "attempts": 0,
       "expiresAt": "2026-11-13T17:52:14.000Z",
-      "lastSeenAt": "2026-11-11T08:29:40.487Z"
+      "lastSeenAt": "2026-11-11T08:29:40.487Z",
+      "articleSlug": "zcashgrants",
+      "draftProgress": {
+        "id": "252532bdf9093343d60c",
+        "day": "2026-11-11",
+        "articleSlug": "zcashgrants",
+        "note": "Read Decrypt and Bitcoin.com coverage of the M Zcash commitment; two sources verified, draft not started.",
+        "sourceChecks": [
+          {
+            "url": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
+            "outcome": "read"
+          },
+          {
+            "url": "https://news.bitcoin.com/market-updates/grayscale-pledges-1m-zcash-ecosystem-zec-plunges-below-1000/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-11T11:46:25.564Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "316b5afcf3aa02c9bafc": {
       "source": "Cointelegraph",
