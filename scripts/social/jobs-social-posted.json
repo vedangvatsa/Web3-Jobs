@@ -133479,7 +133479,8 @@
       },
       "account": "profile",
       "attemptId": "007abb15-f4fd-4606-a430-459befb77e0d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xcea9c668d78cbe47b8bf06a9466c4de8033ad2a5"
     }
   ]
 }
