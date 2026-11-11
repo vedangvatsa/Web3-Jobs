@@ -131391,7 +131391,8 @@
       },
       "account": "channel:ai",
       "attemptId": "c20aaaee-056d-4812-b30a-a5582a1812df",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x70c1392e21e4a38d614d4ff668f68fde0bc207ed"
     }
   ]
 }
