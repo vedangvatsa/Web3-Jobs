@@ -129919,6 +129919,34 @@
       "attemptId": "6795f437-6b1a-4925-92f8-c5b428de2a11",
       "verification": "verified",
       "postId": "urn:li:share:7526125702878822400"
+    },
+    {
+      "slug": "sls397",
+      "company": "Galaxy Digital",
+      "title": "2027 Sales and Trading Internships - NYC",
+      "platform": "facebook",
+      "postedAt": "2026-11-11T03:33:00.860Z",
+      "expectedText": "Galaxy Digital is hiring 2027 Sales and Trading Internships - NYC: https://hashtagweb3.com/sls397/fb?og=7",
+      "snapshot": {
+        "id": "6242350004",
+        "title": "2027 Sales and Trading Internships - NYC",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6242350004",
+        "date": "2026-11-03T12:49:19-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "New York",
+        "department": "Early Careers",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls397"
+      },
+      "payload": {
+        "message": "Galaxy Digital is hiring 2027 Sales and Trading Internships - NYC: https://hashtagweb3.com/sls397/fb?og=7",
+        "link": "https://hashtagweb3.com/sls397/fb?og=7"
+      },
+      "attemptId": "ace9e95e-17f9-4642-94f1-c61f431f9b5e",
+      "verification": "creating"
     }
   ]
 }
