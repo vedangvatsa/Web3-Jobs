@@ -129548,6 +129548,40 @@
       "attemptId": "66d95f9e-4966-437d-a989-62f74c1e6ecf",
       "verification": "verified",
       "postId": "0x111a15493f4f3b65f0eced4d9f994cacfe3592a7"
+    },
+    {
+      "slug": "sls397",
+      "company": "Galaxy Digital",
+      "title": "2027 Sales and Trading Internships - NYC",
+      "platform": "farcaster",
+      "postedAt": "2026-11-11T03:33:00.860Z",
+      "expectedText": "Galaxy Digital is hiring 2027 Sales and Trading Internships - NYC\n\nhttps://hashtagweb3.com/sls397/fc?og=7",
+      "snapshot": {
+        "id": "6242350004",
+        "title": "2027 Sales and Trading Internships - NYC",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6242350004",
+        "date": "2026-11-03T12:49:19-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "New York",
+        "department": "Early Careers",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls397"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring 2027 Sales and Trading Internships - NYC\n\nhttps://hashtagweb3.com/sls397/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls397/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "b5b3a710-99fe-414b-adc1-c3b91dbeb659",
+      "verification": "creating"
     }
   ]
 }
