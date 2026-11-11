@@ -79,6 +79,26 @@
       "slot": "evening",
       "date": "2026-11-10",
       "queuedAt": "2026-11-10T19:32:01.119Z"
+    },
+    {
+      "slug": "nbubill",
+      "platform": "x",
+      "channelId": "6ab62682ea19ca0bdee284bd",
+      "postId": "6af3e1d45e53322cd57b34a8",
+      "status": "queued",
+      "slot": "morning",
+      "date": "2026-11-11",
+      "queuedAt": "2026-11-11T03:32:36.188Z"
+    },
+    {
+      "slug": "nbubill",
+      "platform": "linkedin",
+      "channelId": "69c5b139af47dacb695b5feb",
+      "postId": "6af3e1d7ffe2872794edc369",
+      "status": "queued",
+      "slot": "morning",
+      "date": "2026-11-11",
+      "queuedAt": "2026-11-11T03:32:36.188Z"
     }
   ]
 }
