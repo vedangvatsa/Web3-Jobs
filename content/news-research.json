@@ -160376,11 +160376,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "3693f9ad81fab10cb36f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-10T02:19:50.208Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-12T07:36:58.000Z",
-      "lastSeenAt": "2026-11-11T08:29:40.487Z"
+      "lastSeenAt": "2026-11-11T08:29:40.487Z",
+      "reason": "price-chatter",
+      "note": "The Defiant item reports only where bitcoin and ether trade after a four-week low, with no launch, vote, filing or other concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/markets/bitcoin-trades-near-73-900-after-four-week-low",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-11T11:39:32.520Z",
+      "lastReviewedDay": "2026-11-11"
     },
     "6ebe2fcb47077e291adf": {
       "source": "The Defiant",
@@ -163488,11 +163498,21 @@
         "Decrypt"
       ],
       "id": "452b82a670b9c6c62c3f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-13T10:48:37.000Z",
-      "lastSeenAt": "2026-11-11T08:29:40.487Z"
+      "lastSeenAt": "2026-11-11T08:29:40.487Z",
+      "reason": "price-chatter",
+      "note": "Read the Decrypt coverage; the story tracks bitcoin trading and rate-hike odds before and after the CPI print, which is market chatter rather than a concrete crypto event.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-11T11:39:28.108Z",
+      "lastReviewedDay": "2026-11-11"
     },
     "b487054a3063b3d43d30": {
       "source": "The Block",
@@ -310995,6 +311015,30 @@
             }
           ],
           "reviewedAt": "2026-11-11T11:39:24.354Z"
+        },
+        "452b82a670b9c6c62c3f": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read the Decrypt coverage; the story tracks bitcoin trading and rate-hike odds before and after the CPI print, which is market chatter rather than a concrete crypto event.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-11T11:39:28.108Z"
+        },
+        "3693f9ad81fab10cb36f": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "The Defiant item reports only where bitcoin and ether trade after a four-week low, with no launch, vote, filing or other concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/markets/bitcoin-trades-near-73-900-after-four-week-low",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-11T11:39:32.520Z"
         }
       },
       "baselineSlugs": [
