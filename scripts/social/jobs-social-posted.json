@@ -129721,7 +129721,8 @@
       },
       "account": "channel:product",
       "attemptId": "0a83363f-8f19-415c-b6a5-c6a94a2c7c62",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0cc525f506c02c077fdcbafa71a920f4d573091c"
     }
   ]
 }
