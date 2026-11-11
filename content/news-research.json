@@ -166260,11 +166260,30 @@
         "Unchained"
       ],
       "id": "efcf207e2d96e1ad24f6",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-13T17:32:22.000Z",
-      "lastSeenAt": "2026-11-11T08:29:40.487Z"
+      "lastSeenAt": "2026-11-11T08:29:40.487Z",
+      "reason": "verified-event",
+      "note": "Read Decrypt, Unchained and the Sept 1 PR Newswire announcement; figures and member list match across sources.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/goldman-citi-and-other-banks-reportedly-fund-270-million-stablecoin-initiative/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.prnewswire.com/news-releases/group-of-leading-international-financial-institutions-to-establish-stablecoin-enterprise-302866318.html",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-11T11:45:23.948Z",
+      "articleSlug": "faro",
+      "lastReviewedDay": "2026-11-11"
     },
     "eaf08e0c4f3d09607246": {
       "source": "CoinDesk",
@@ -311039,6 +311058,27 @@
             }
           ],
           "reviewedAt": "2026-11-11T11:39:32.520Z"
+        },
+        "efcf207e2d96e1ad24f6": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Decrypt, Unchained and the Sept 1 PR Newswire announcement; figures and member list match across sources.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/goldman-citi-and-other-banks-reportedly-fund-270-million-stablecoin-initiative/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.prnewswire.com/news-releases/group-of-leading-international-financial-institutions-to-establish-stablecoin-enterprise-302866318.html",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-11T11:45:23.948Z",
+          "articleSlug": "faro"
         }
       },
       "baselineSlugs": [
