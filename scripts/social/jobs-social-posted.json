@@ -129164,7 +129164,8 @@
         "link_attachment": "https://hashtagweb3.com/sls397/th?og=7"
       },
       "attemptId": "99ccc488-48c8-4863-851c-942b56616489",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Tuesday, 10-Nov-26 19:33:14 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Az5M8wy6CJPsHzOwpGL6K7e\"}"
     }
   ]
 }
