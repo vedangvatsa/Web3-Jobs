@@ -159150,7 +159150,7 @@
         "id": "b5ddf744f81b42b9536e",
         "day": "2026-11-12",
         "articleSlug": "marsello",
-        "note": "Re-read Crypto Briefing earnings story and Bitcoin Magazine sale story this round; figures cross-checked (632.1M Q3 net income, 885.3M fair-value gain, 13,597 BTC sold for ~1.1B at ~81,039, 750M debt repayment, 500M buyback, revenue -35% to 164.2M). Two sources verified; draft and image still needed.",
+        "note": "Re-read Crypto Briefing and Bitcoin Magazine this round; Q3 figures cross-checked (632.1M net income, 13,597 BTC sold for ~1.1B, 750M debt repayment, 500M buyback). Two sources verified; draft and image still needed.",
         "sourceChecks": [
           {
             "url": "https://cryptobriefing.com/mara-holdings-q3-profit-bitcoin-sale-debt/",
@@ -159161,7 +159161,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-12T01:52:02.841Z",
+        "updatedAt": "2026-11-12T01:52:31.183Z",
         "approved": false,
         "mustReview": true
       }
