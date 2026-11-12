@@ -3609,7 +3609,7 @@
     "sentAt": "2026-11-11T19:34:04.208Z"
   },
   "ddb403f6-cb0c-4333-9b5a-c1b80ca58a29": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-12T03:54:18.279Z",
     "stories": [
       {
@@ -3638,6 +3638,8 @@
         "originalTitle": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang"
       }
     ],
-    "slotKey": "2026-11-12:morning"
+    "slotKey": "2026-11-12:morning",
+    "messageId": 156187,
+    "sentAt": "2026-11-12T03:54:32.788Z"
   }
 }

@@ -935,6 +935,9 @@
   "https://hashtagweb3.com/anthropicipo?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/faro?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/sejmbill?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/mscidelete?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917",
+  "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2711,6 +2714,12 @@
   "Banks commit $270 million to Project Faro stablecoin venture",
   "Poland Passes Bill Allowing Crypto Asset Freezes",
   "Poland's Lower House Passes Sanctions Bill With Crypto Freezes",
+  "MSCI Removes Strategy, Metaplanet, and Upexi From Indexes",
+  "MSCI deletes Strategy from indexes at November close",
+  "Apex Group joins Hedera Council for asset tokenization",
+  "Apex Group joins Hedera Council to explore tokenization and settlement",
+  "Nvidia futures drop 10% amid reports of CEO removal",
+  "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -3196,5 +3205,8 @@
   "fp:000|47k|averag|below|btc|cost|dropp|exchang|holder|investor",
   "fp:825m|ant|anthropic|class|ipo|nasdaq|offer|rang|roadshow|seek",
   "fp:270m|are|bank|citi|commit|deutsch|dollar|faro|goldman|invest",
-  "fp:allow|approv|asset|bill|classify|digital|freez|government|hous|legislation"
+  "fp:allow|approv|asset|bill|classify|digital|freez|government|hous|legislation",
+  "fp:delet|effect|final|follow|index|metaplanet|msci|november|november30|remov",
+  "fp:apex|asset|bas|blockchain|complianc|council|dollar|explor|financial|firm",
+  "fp:affair|allegation|board|ceo|drop10|extramarital|follow|futur|huang|hyperliquid"
 ]
