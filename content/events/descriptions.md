@@ -25114,42 +25114,6 @@ You may leave with a partnership, a prototype, a new collaborator, or an entirel
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-7813ba6f51ef38d2"></a>
-
-## Build Station - Colosseum Crypto World's Fair
-
-- Record: `luma-host-evt-evt-7vx2tBT9lLgq9NV`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-12T13:30:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/superteam-g462>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-0832786427667c50"></a>
-
-## CarbonBlack Builders Night @ Silicon Valley
-
-- Record: `luma-evt-88nQy4ctf9Tuf41`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-13T00:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/zgaw6wjp>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-aa8519b6893e4839"></a>
-
-## Unicorn Battle in Silicon Valley
-
-- Record: `luma-evt-yC09tzlMguXITDz`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-13T00:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/f6yr8a2c>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-880b4cd35275e7eb"></a>
 
 ## Enugu Blockchain Week 2026
@@ -34377,6 +34341,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-7566003ab36b2549"></a>
+
+## Solana Demo Day \| London 2026
+
+- Record: `luma-evt-A5Hth6nHkYLqSPQ`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-12T10:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/sol-demo-day>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-42830b174c1e9fed"></a>
 
 ## Inscrição no programa IDEA Vestir o Futuro: da Psicologia do Consumo à Inovação Responsável
@@ -34454,6 +34430,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-12T11:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/llqbx5ts>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-da988db2aab51bbc"></a>
+
+## House of Sol Workshops: The Yield Ceiling: Why Onchain Vaults Need Real World Assets: SRI x R3
+
+- Record: `luma-evt-rwPZdTpHlnISAec`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-12T13:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/HoS-Workshops-R3>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -34723,7 +34711,7 @@ An organizer description has not been verified for this record. Any previous cop
 
 <a id="event-e85b21c1bb11857d"></a>
 
-## Whitepaper Reading SF - Defi Topics: No Place to Hide & Active Liquidity On Chain
+## Whitepaper Reading SF - Defi Papers: No Place to Hide & Active Liquidity On Chain
 
 - Record: `luma-evt-bDcxH60c9qvNp0x`
 - Source: [events-cache.json](sources/events-cache.json)
@@ -37172,6 +37160,18 @@ An organizer description has not been verified for this record. Any previous cop
 ### About the event
 
 Join the Global Blockchain Show Abu Dhabi 2026 - the premier crypto event uniting top Web3 leaders, innovators & investors across the UAE.
+
+<a id="event-1e7d1f7ed550ce96"></a>
+
+## Let’s Get Together, Community Gathering! (Hosted by Nicole)
+
+- Record: `mu-317376473`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-26T14:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/magickalfolk/events/317376473/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-71b903c88aad7f07"></a>
 

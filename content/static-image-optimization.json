@@ -1681,10 +1681,6 @@
       "sha256": "b88ee28252f43d34432135dedaaa6224ea90828f0fb0e92ff42849f001acf5fb",
       "status": "optimized"
     },
-    "/events/luma-evt-88nqy4ctf9tuf41-502a9393.webp": {
-      "sha256": "1f23bed0dae3d008d0891b8417fe0bedd48621d9203ce5174145bed6fb82e540",
-      "status": "optimized"
-    },
     "/events/luma-evt-88rnd8f0ch0bz17-c8f59c03.webp": {
       "sha256": "ac2ef61be58ab5c28dc045fc67b94de7afd13b5665082ccd764ab327949eae18",
       "status": "optimized"
@@ -2741,10 +2737,6 @@
       "sha256": "c7b18be0a663c9e40d3f44c27c4c452a44ffc2c0e4d4a4588c86a5dad86b9a43",
       "status": "retained"
     },
-    "/events/luma-evt-yc09tzlmguxitdz-f04ffae1.webp": {
-      "sha256": "5a55118b552eacb75ef1f4638330ee0042a5594787913ca18fba9f2539527a3e",
-      "status": "optimized"
-    },
     "/events/luma-evt-ycwrx5n01ifcfsp-cd2556b8.webp": {
       "sha256": "3295960302d289e573e1174aa057ad692fcfd323582cab3feec2a3e11d360403",
       "status": "optimized"
@@ -2827,10 +2819,6 @@
     },
     "/events/luma-host-evt-evt-715cjjefvcfvz5w-f266e540.webp": {
       "sha256": "fec35383819be2da62f10bee9c83efb543ca0c1ee251fd29155a9d5b5ae7716f",
-      "status": "optimized"
-    },
-    "/events/luma-host-evt-evt-7vx2tbt9llgq9nv-88c67387.webp": {
-      "sha256": "0abac84fc7748d7a448680ef1e818ace7361d644da3bcd98e95158bac69c405e",
       "status": "optimized"
     },
     "/events/luma-host-evt-evt-8dntupeo60aiwt5-5e3033a1.webp": {

@@ -3843,7 +3843,7 @@
     "country": "Hong Kong",
     "location": "Hong Kong, Hong Kong",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
+    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -3885,7 +3885,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
+    "coverImage": null,
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -4037,20 +4037,6 @@
     "month": "December 2027"
   },
   {
-    "id": "luma-host-evt-evt-7vx2tBT9lLgq9NV",
-    "name": "Build Station - Colosseum Crypto World's Fair",
-    "description": "",
-    "startDate": "2026-10-12T13:30:00.000Z",
-    "endDate": "2026-10-13T03:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Toronto, Canada",
-    "url": "https://luma.com/superteam-g462",
-    "coverImage": "/events/luma-host-evt-evt-7vx2tbt9llgq9nv-88c67387.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
     "id": "w3v-solana-developer-hackathon-2026",
     "name": "Solana Developer Hackathon 2026",
     "description": "Solana Developer Hackathon 2026: a four-week online Encode Club hackathon for developers building and submitting projects on Solana.",
@@ -4061,34 +4047,6 @@
     "location": "Global",
     "url": "https://www.encodeclub.com/programmes/solana-hackathon-2026",
     "coverImage": "/events/w3v-solana-developer-hackathon-2026-5369c9cc.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-88nQy4ctf9Tuf41",
-    "name": "CarbonBlack Builders Night @ Silicon Valley",
-    "description": "",
-    "startDate": "2026-10-13T00:00:00.000Z",
-    "endDate": "2026-10-13T03:00:00.000Z",
-    "city": "Menlo Park",
-    "country": "United States",
-    "location": "Menlo Park, United States",
-    "url": "https://lu.ma/zgaw6wjp",
-    "coverImage": "/events/luma-evt-88nqy4ctf9tuf41-502a9393.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-yC09tzlMguXITDz",
-    "name": "Unicorn Battle in Silicon Valley",
-    "description": "",
-    "startDate": "2026-10-13T00:00:00.000Z",
-    "endDate": "2026-10-13T03:00:00.000Z",
-    "city": "Sunnyvale",
-    "country": "United States",
-    "location": "Sunnyvale, United States",
-    "url": "https://lu.ma/f6yr8a2c",
-    "coverImage": "/events/luma-evt-yc09tzlmguxitdz-f04ffae1.webp",
-    "source": "luma",
     "month": "October 2026"
   },
   {
@@ -12616,7 +12574,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/columbia-bitcoin-meetup-group/events/314396580/",
-    "coverImage": "/events/mu-314396580-3697b823.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -13846,7 +13804,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-north-carolina/events/317156463/",
-    "coverImage": "/events/mu-317156463-b1276a11.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -13888,7 +13846,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-north-carolina/events/317064975/",
-    "coverImage": "/events/mu-317064975-0dc78544.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -17183,7 +17141,7 @@
   },
   {
     "id": "luma-evt-bDcxH60c9qvNp0x",
-    "name": "Whitepaper Reading [SF] - Defi Topics: No Place to Hide & Active Liquidity On Chain",
+    "name": "Whitepaper Reading [SF] - Defi Papers: No Place to Hide & Active Liquidity On Chain",
     "description": "",
     "startDate": "2026-11-13T01:30:00.000Z",
     "endDate": "2026-11-13T04:00:00.000Z",
@@ -17233,7 +17191,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15201-midnight-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ebs5pom08ao9z5aarl2qqbi1m3nn?response-content-disposition=inline%3B%20filename%3D%22MidnightNov.jpg%22%3B%20filename%2A%3DUTF-8%27%27MidnightNov.jpg&amp;response-content-type=image%2Fjpeg&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261112%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261112T013903Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=0c1fd1563dc797c8a19489079cc6e381ca87c02dc5e06122e41d00f7fd32740f",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ebs5pom08ao9z5aarl2qqbi1m3nn?response-content-disposition=inline%3B%20filename%3D%22MidnightNov.jpg%22%3B%20filename%2A%3DUTF-8%27%27MidnightNov.jpg&amp;response-content-type=image%2Fjpeg&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261112%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261112T035120Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=6835c2d635871532268085b42d0da89f7f01ff85e3429cbb13fa0a678a1005e9",
     "month": "November 2026"
   },
   {
@@ -17680,5 +17638,47 @@
     "url": "https://devcon.org/lisbon/",
     "coverImage": "/events/w3v-devcon-ix-lisbon-dee87f0a.webp",
     "month": "October 2027"
+  },
+  {
+    "id": "luma-evt-A5Hth6nHkYLqSPQ",
+    "name": "Solana Demo Day | London 2026",
+    "description": "",
+    "startDate": "2026-11-12T10:00:00.000Z",
+    "endDate": "2026-11-12T18:30:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/sol-demo-day",
+    "coverImage": "/events/luma-evt-a5hth6nhkylqspq-5910caeb.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-rwPZdTpHlnISAec",
+    "name": "House of Sol Workshops: The Yield Ceiling: Why Onchain Vaults Need Real World Assets: SRI x R3",
+    "description": "",
+    "startDate": "2026-11-12T13:00:00.000Z",
+    "endDate": "2026-11-12T15:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/HoS-Workshops-R3",
+    "coverImage": "/events/luma-evt-rwpzdtphlnisaec-ff33d68d.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317376473",
+    "name": "Let’s Get Together, Community Gathering! (Hosted by Nicole)",
+    "description": "Well, ‘Al Be Green’! Let’s Get Together! 🎶\n\nWhat better way to spend part of the afternoon than with good music, good food, and good company?\n\nJoin us for a relaxed online gathering centered on conne",
+    "startDate": "2026-11-26T14:00:00-05:00",
+    "endDate": "2026-11-26T14:00:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/magickalfolk/events/317376473/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
   }
 ]
