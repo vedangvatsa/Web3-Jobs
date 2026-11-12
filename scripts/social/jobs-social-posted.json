@@ -134246,7 +134246,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "3cf5f7ec-7ff8-4259-9076-c5d20045e83f",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af5375e3d8c751bfd1233bd"
     }
   ]
 }
