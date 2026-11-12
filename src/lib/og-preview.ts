@@ -288,6 +288,16 @@ const PAGE_META: Record<string, Omit<OgPreviewMeta, 'canonicalUrl'>> = {
       description: 'A ranking of the top 100 Web3 employers based on hiring volume, candidate demand, financial runway, and remote flexibility.',
       ogImageUrl: STATIC_OG.top100,
     },
+    '/security-policy': {
+      title: `Security Policy | ${SITE_NAME}`,
+      description: 'How Hashtag Web3 handles security, vulnerability disclosure, content safety, and third-party integrations.',
+      ogImageUrl: `${SITE_URL}/og/pages/security-policy.png`,
+    },
+    '/hall-of-fame': {
+      title: `Security Hall of Fame | ${SITE_NAME}`,
+      description: 'Security researchers who have responsibly disclosed vulnerabilities to Hashtag Web3.',
+      ogImageUrl: `${SITE_URL}/og/pages/hall-of-fame.png`,
+    },
     '/learn': {
       title: `Learn Web3 | ${SITE_NAME}`,
       description: 'Free structured courses for Web3 builders.',
