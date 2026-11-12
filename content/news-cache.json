@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-11-11T19:31:10.506Z",
+  "generatedAt": "2026-11-12T01:36:52.744Z",
   "items": [
+    {
+      "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
+      "link": "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 11 Nov 2026 23:18:44 +0000",
+      "creator": "Jona Jaupi",
+      "contentSnippet": "The self-custodial wallet will keep its API services running through Nov. 14. Sui’s DeFi total value locked has fallen more than 22% over the past mon...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "SEC enters fight over who regulates perpetual derivatives on stocks in the US",
+      "link": "https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427",
+      "pubDate": "Wed, 11 Nov 2026 22:06:47 +0000",
+      "creator": "Sarah Wynn",
+      "contentSnippet": "The SEC is stepping into the brewing fight over whether its sister agency should have approved perpetual derivatives on individual stocks.",
+      "source": "The Block"
+    },
+    {
+      "title": "Uncalled US House races could send more crypto allies to Congress",
+      "link": "https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 11 Nov 2026 22:05:17 +0000",
+      "creator": "Isabelle Castro",
+      "contentSnippet": "The remaining races feature pro-crypto candidates and others without a stated position, giving advocacy groups what they see as “an opportunity” for o...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
+      "link": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
+      "pubDate": "Wed, 11 Nov 2026 21:46:03 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Stablecoin supply fell $14.2 billion in 30 days, the fastest contraction since June 2022, amid weak ETF demand.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
+      "link": "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 11 Nov 2026 21:36:01 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "The potential sale of Laser Digital follows a fourth straight quarterly loss for Nomura’s European operations.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
+      "link": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
+      "pubDate": "Wed, 11 Nov 2026 21:16:03 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Recent buyers are moving billions in Bitcoin to exchanges below their purchase prices, while Binance sees sharp inflows from recently moved coins.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
+      "link": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 11 Nov 2026 20:43:19 +0000",
+      "creator": "Jona Jaupi",
+      "contentSnippet": "As US voters push back against new data centers, Bitcoin miners already expanding into AI could benefit from their existing facilities.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "DogeOS ‘very, very close’ to launching DeFi features, app layer for Dogecoin: CEO",
+      "link": "https://www.theblock.co/news/defi/2026-11-11-dogeos-very-very-close-launching-defi-features-app-layer-dogecoin-ceo-438392",
+      "pubDate": "Wed, 11 Nov 2026 20:32:19 +0000",
+      "creator": "Kyle Baird",
+      "contentSnippet": "DogeOS aims to give DOGE holders more ways to use the token through games, apps and financial services.",
+      "source": "The Block"
+    },
+    {
+      "title": "Tether's Tiny AI Agent Beats Models 2.5 Times Its Size at Controlling Your Phone",
+      "link": "https://decrypt.co/383066/tether-tiny-ai-agent-beats-models-phone",
+      "pubDate": "Wed, 11 Nov 2026 19:36:02 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "BotPsy packs 800 million parameters into an AI assistant designed to manage everyday tasks locally, outperforming larger rivals as Tether expands its ...",
+      "source": "Decrypt"
+    },
     {
       "title": "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup",
       "link": "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup",
@@ -40,14 +112,6 @@
       "creator": "Agent",
       "contentSnippet": "Solana Privacy Rings encrypt balances and transfer amounts without leaving Solana. Here's how they work, and how they compare.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin Slips Below $75.6K Amid Shrinking Stablecoin Supply and ETF Outflows",
-      "link": "https://blockchain.news/news/bitcoin-slips-below-75k-stablecoin-etf-outflows",
-      "pubDate": "Wed, 11 Nov 2026 17:08:29 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Bitcoin falls below $75.6K, trailing stocks as stablecoin supply contracts and ETFs see outflows. Key wallet cohorts begin accumulating. (Read More)",
-      "source": "Blockchain.News"
     },
     {
       "title": "Challenges in Banks Verifying Onchain Records Independently",
@@ -120,14 +184,6 @@
       "creator": "Staff",
       "contentSnippet": "The integration brings perpetual futures trading into Decrypt, so readers can trade crypto, stocks and commodities without leaving the news.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Nomura’s Laser Digital helps launch Saudi SME credit vault targeting $100 million on BNB Chain",
-      "link": "https://www.theblock.co/news/markets/2026-11-11-nomuras-laser-digital-helps-launch-saudi-sme-credit-vault-targeting-100-million-on-bnb-chain-437824",
-      "pubDate": "Wed, 11 Nov 2026 13:35:02 +0000",
-      "creator": "Brian Danga",
-      "contentSnippet": "Nomura's Laser Digital is advising ZIG Finance on a tokenized Saudi SME private credit vault targeting a $100 million raise on BNB Chain.",
-      "source": "The Block"
     },
     {
       "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
@@ -242,14 +298,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
-      "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 11 Nov 2026 11:05:26 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Bitcoin fell to an 11-week low of $72,670 after slipping below short-term holders’ average cost basis of about $75,700, according to CryptoQuant.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Crosschain protocol Across restores systems after domain hijack",
       "link": "https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843",
       "pubDate": "Wed, 11 Nov 2026 10:55:24 +0000",
@@ -322,14 +370,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Tron Inc reports 22% rise in Q3 net income as unrealized staking revenue grows",
-      "link": "https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786",
-      "pubDate": "Wed, 11 Nov 2026 04:02:02 +0000",
-      "creator": "Timmy Shen",
-      "contentSnippet": "The company reported Q3 2026 net income of $14.9 million, up 22% year-over-year, with a nine-month net income of $39.4 million, up 203%.",
-      "source": "The Block"
-    },
-    {
       "title": "Crypto ally Tom Emmer elected House GOP minority whip",
       "link": "https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Wed, 11 Nov 2026 03:07:45 +0000",
@@ -370,14 +410,6 @@
       "source": "Blockchain.News"
     },
     {
-      "title": "Forward Industries grows SOL treasury to 8.7 million as token hits nearly three-month low",
-      "link": "https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330",
-      "pubDate": "Tue, 10 Nov 2026 21:51:19 +0000",
-      "creator": "Kyle Baird",
-      "contentSnippet": "Forward adds a $50 million credit line and housing-linked investment to support further SOL accumulation.",
-      "source": "The Block"
-    },
-    {
       "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
       "link": "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains",
       "pubDate": "Tue, 10 Nov 2026 21:36:03 +0000",
@@ -394,22 +426,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Across Protocol warns users to avoid app amid reports of drained wallets",
-      "link": "https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 10 Nov 2026 21:24:36 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "The protocol is investigating a potential security incident affecting its domain, while several users have reported losing funds after interacting wit...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Ava Labs exec says NYSE deal marks end of blockchain’s ‘general purpose era’",
-      "link": "https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 10 Nov 2026 21:07:44 +0000",
-      "creator": "Isabelle Castro",
-      "contentSnippet": "Ava Labs’ John Nahas said the collaboration with the NYSE shows institutions moving past pilots toward purpose-built onchain market infrastructure.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
       "link": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
       "pubDate": "Tue, 10 Nov 2026 20:36:33 +0000",
@@ -418,28 +434,12 @@
       "source": "Coindesk"
     },
     {
-      "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
-      "link": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 10 Nov 2026 20:26:02 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "The Plume affiliate plans to offer tokenized US stocks, ETFs and bonds through self-custodial wallets, with traditional shareholder rights preserved.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
       "link": "https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents",
       "pubDate": "Tue, 10 Nov 2026 20:16:03 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "An SGLang flaw let an attacker reach internal systems and potentially view confidential AI requests, exposing the limits of hardware-backed privacy pr...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k",
-      "link": "https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301",
-      "pubDate": "Tue, 10 Nov 2026 19:38:18 +0000",
-      "creator": "Jason Shubnell",
-      "contentSnippet": "BTC slipped under $74,000 after October CPI beat forecasts. Analysts flag $73,000 support and a possible drop toward $69,000.",
-      "source": "The Block"
     },
     {
       "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
@@ -458,30 +458,6 @@
       "source": "Blockchain.News"
     },
     {
-      "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
-      "link": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 10 Nov 2026 18:12:07 +0000",
-      "creator": "Isabelle Castro",
-      "contentSnippet": "Starting next week, customers can deposit and withdraw money through Brazil’s instant payment system. Crypto transfers remain suspended.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Hot US inflation raises odds of half-point Fed hike in December",
-      "link": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 10 Nov 2026 17:31:09 +0000",
-      "creator": "Jona Jaupi",
-      "contentSnippet": "US inflation came in above forecasts in October, increasing expectations of a bigger rate hike in December and raising concerns for crypto investors.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Polymarket US trading volume jumps 266% despite regulatory battles",
-      "link": "https://cointelegraph.com/news/polymarket-us-trading-volume-jumps-regulatory-battles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 10 Nov 2026 17:07:48 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "Trading volume on Polymarket’s US exchange surged from June to October, fueled by sports betting, even as the platform faces mounting regulatory scrut...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
       "link": "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
       "pubDate": "Tue, 10 Nov 2026 17:07:22 +0000",
@@ -498,12 +474,28 @@
       "source": "Blockchain.News"
     },
     {
+      "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
+      "link": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
+      "pubDate": "Tue, 10 Nov 2026 16:27:57 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Bitcoin fell below $74,000 after October inflation beat forecasts, increasing pressure on the Federal Reserve to raise rates again at its December mee...",
+      "source": "Decrypt"
+    },
+    {
       "title": "Algorand (ALGO) Emphasizes Crypto Agility Amid Quantum Computing Advances",
       "link": "https://blockchain.news/news/algorand-crypto-agility-quantum-computing",
       "pubDate": "Tue, 10 Nov 2026 16:13:07 GMT",
       "creator": "Blockchain.News",
       "contentSnippet": "Algorand (ALGO) highlights the importance of crypto agility as quantum computing advances threaten traditional cryptographic standards. (Read More)",
       "source": "Blockchain.News"
+    },
+    {
+      "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
+      "link": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
+      "pubDate": "Tue, 10 Nov 2026 15:51:56 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Kimber Digital Securities secured SEC and Finra approvals, a regulatory milestone paving the way for the delivery of legally binding claims, dividends...",
+      "source": "Coindesk"
     },
     {
       "title": "What is Model Context Protocol (MCP)? The Universal Standard for AI Agents Explained",
@@ -610,11 +602,11 @@
       "source": "Coindesk"
     },
     {
-      "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
-      "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
-      "pubDate": "Tue, 10 Nov 2026 10:48:37 +0000",
+      "title": "Live news: Bitcoin falls to nearly three-month low after disappointing inflation data",
+      "link": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
+      "pubDate": "Tue, 10 Nov 2026 10:41:45 +0000",
       "creator": "James Van Straten",
-      "contentSnippet": "Fed Governor Waller backs December tightening even if inflation cools, while falling oil prices offer some relief and Anthropic withdraws IPO pricing ...",
+      "contentSnippet": "A rate hike in December appears totally assured now, with Fed Governor Chris Waller suggesting even a 50-basis-point move could be appropriate.",
       "source": "Coindesk"
     },
     {
@@ -671,14 +663,6 @@
       "pubDate": "Mon, 09 Nov 2026 19:36:02 +0000",
       "creator": "Staff",
       "contentSnippet": "Elliptic says the hackers are minting their own worthless tokens—complete with cartoon animal and Elon Musk logos—and routing stolen funds through liq...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Tom Lee’s Bitmine Adds $20M in Ethereum, Seizing on Vitalik’s 'ETH Is Money' Declaration",
-      "link": "https://decrypt.co/382854/tom-lee-bitmine-adds-20m-ethereum-vitalik-eth-money",
-      "pubDate": "Mon, 09 Nov 2026 17:08:21 +0000",
-      "creator": "Staff",
-      "contentSnippet": "The firm’s stash reached 6.07 million ETH—4.97% of supply and 99% of the way to its “Alchemy of 5%” goal—as chairman Tom Lee called Vitalik Buterin’s ...",
       "source": "Decrypt"
     }
   ]
