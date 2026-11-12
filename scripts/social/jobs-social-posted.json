@@ -135929,6 +135929,37 @@
       "attemptId": "94400327-017f-4d45-8af1-3483f48b919f",
       "verification": "verified",
       "postId": "691827047618629_1143028778304356"
+    },
+    {
+      "slug": "ob15",
+      "company": "BVNK",
+      "title": "Onboarding Analyst - US",
+      "platform": "x",
+      "postedAt": "2026-11-12T11:33:45.670Z",
+      "expectedText": "BVNK is hiring Onboarding Analyst - US\n\nhttps://hashtagweb3.com/ob15/x?og=7",
+      "snapshot": {
+        "id": "5028392101",
+        "title": "Onboarding Analyst - US",
+        "company": "BVNK",
+        "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5028392101",
+        "date": "2026-11-05T05:21:49-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BVNK [bvnk]",
+        "location": "USA",
+        "department": "Compliance",
+        "active": true,
+        "salary": "$60k – $80k/yr",
+        "dateVerified": true,
+        "slug": "ob15"
+      },
+      "payload": {
+        "text": "BVNK is hiring Onboarding Analyst - US\n\nhttps://hashtagweb3.com/ob15/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "0cba375d-c634-4788-8172-a4c3a1c8cb70",
+      "verification": "creating"
     }
   ]
 }
