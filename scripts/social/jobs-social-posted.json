@@ -135191,7 +135191,8 @@
       },
       "account": "profile",
       "attemptId": "4a449a5e-8df6-499c-8e5c-ffc4b1c7c3ab",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x54376bc8a1a4bec7fbc585f3e2c73341936456ad"
     }
   ]
 }
