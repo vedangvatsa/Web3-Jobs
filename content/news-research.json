@@ -170533,9 +170533,9 @@
         "Unchained"
       ],
       "id": "ec140e3109caa76d7550",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-14T14:02:18.000Z",
       "lastSeenAt": "2026-11-12T01:37:00.023Z",
       "articleSlug": "dbcustody",
@@ -170557,7 +170557,21 @@
         "updatedAt": "2026-11-12T01:42:33.655Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the launch in Cointelegraph and Decrypt; matched supported assets, MiCA/BaFin listing, MoU with Deutsche Asset Management and Maley quote across both.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-12T01:47:18.190Z",
+      "lastReviewedDay": "2026-11-12"
     },
     "be77133b4bf21dccb8a4": {
       "source": "Cointelegraph",
@@ -319219,6 +319233,23 @@
             "Find independent reporting confirming the event in: Evernorth Slides 24% After 73.7 Million-Share Filing",
             "Retry the attempted URLs after any Retry-After time, within the existing verification window."
           ]
+        },
+        "ec140e3109caa76d7550": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the launch in Cointelegraph and Decrypt; matched supported assets, MiCA/BaFin listing, MoU with Deutsche Asset Management and Maley quote across both.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-12T01:47:18.190Z",
+          "articleSlug": "dbcustody"
         }
       },
       "baselineSlugs": [
