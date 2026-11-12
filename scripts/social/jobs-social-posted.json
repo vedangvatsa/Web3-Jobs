@@ -135407,7 +135407,8 @@
       },
       "account": "channel:developers",
       "attemptId": "c466229e-af49-4924-a0aa-5e04a6d03b42",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xeeee28816738bd07367d4b3d2e9524c2e400ea04"
     }
   ]
 }
