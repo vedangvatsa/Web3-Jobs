@@ -3674,5 +3674,42 @@
     "slotKey": "2026-11-11:evening",
     "messageId": 193499,
     "sentAt": "2026-11-11T19:32:55.774Z"
+  },
+  "02da00b0-771f-4326-9814-1c4be251fdfa": {
+    "status": "reserved",
+    "reservedAt": "2026-11-12T03:50:29.096Z",
+    "stories": [
+      {
+        "index": 13,
+        "original_title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+        "headline": "Fractile raises $720 million for AI chip development",
+        "summary": "The British startup secured funding to build specialized hardware aimed at accelerating neural network processing speeds.",
+        "event_rationale": "Covers a $720 million investment round for AI hardware startup Fractile, distinct from all listed chip announcements.",
+        "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+        "source": "TechCrunch",
+        "originalTitle": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips"
+      },
+      {
+        "index": 22,
+        "original_title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+        "headline": "OpenAI quarterly revenue surpasses $10 billion",
+        "summary": "The financial milestone represents a nearly 50% increase from the company's previous quarter revenue of $6.7 billion.",
+        "event_rationale": "Covers OpenAI's quarterly financial performance, distinct from previous stories detailing its valuation, fundraising rounds, and IPO timelines.",
+        "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+        "source": "TechCrunch",
+        "originalTitle": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time"
+      },
+      {
+        "index": 24,
+        "original_title": "Australia will impose mandatory safety rules on AI. Are we focused on the right risks?",
+        "headline": "Australia introduces six mandatory AI safety guardrails",
+        "summary": "Prime Minister Anthony Albanese announced binding regulatory requirements to reduce risks associated with high-risk artificial intelligence applications.",
+        "event_rationale": "Covers new national government AI safety regulations in Australia, distinct from state-level policies like New York's safety law.",
+        "link": "https://techxplore.com/news/2026-11-australia-impose-mandatory-safety-ai.html",
+        "source": "TechXplore",
+        "originalTitle": "Australia will impose mandatory safety rules on AI. Are we focused on the right risks?"
+      }
+    ],
+    "slotKey": "2026-11-12:morning"
   }
 }
