@@ -5576,5 +5576,53 @@
     "slotKey": "2026-11-12:morning",
     "messageId": 156185,
     "sentAt": "2026-11-12T03:50:06.604Z"
+  },
+  "d432b896-6d4a-4e8d-a892-dc50f9024643": {
+    "status": "reserved",
+    "reservedAt": "2026-11-12T11:31:57.149Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-XVGe9tpSFUjAzTU",
+        "slug": "jc-bitcoin",
+        "name": "JC Bitcoin Networking Social Meetup",
+        "startDate": "2026-11-13T00:00:00.000Z",
+        "keys": [
+          "luma-crypto-xvge9tpsfujaztu",
+          "page:jc-bitcoin:2026-11-12",
+          "luma:evt-xvge9tpsfujaztu",
+          "luma-url:/03yj4u4k",
+          "event:jcbitcoinnetworkingsocialmeetup:2026-11-12:jersey city"
+        ]
+      },
+      {
+        "id": "luma-crypto-bDcxH60c9qvNp0x",
+        "slug": "whitepapersnr",
+        "name": "Whitepaper Reading [SF] - Defi Topics: No Place to Hide & Active Liquidity On Chain",
+        "startDate": "2026-11-13T01:30:00.000Z",
+        "keys": [
+          "luma-crypto-bdcxh60c9qvnp0x",
+          "page:whitepapersnr:2026-11-12",
+          "luma:evt-bdcxh60c9qvnp0x",
+          "luma-url:/snrgc7jo",
+          "event:whitepaperreadingsfdefitopicsnoplacetohideactiveliquidityonchain:2026-11-12:san francisco"
+        ]
+      },
+      {
+        "id": "luma-crypto-uHn5eEkF4dMF3hY",
+        "slug": "breakpointafr",
+        "name": "Breakpoint Crypto Padel",
+        "startDate": "2026-11-13T12:30:00.000Z",
+        "keys": [
+          "luma-crypto-uhn5eekf4dmf3hy",
+          "page:breakpointafr:2026-11-13",
+          "luma:evt-uhn5eekf4dmf3hy",
+          "luma-url:/afr82s1n",
+          "event:breakpointcryptopadel:2026-11-13:london"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-12:afternoon"
   }
 }
