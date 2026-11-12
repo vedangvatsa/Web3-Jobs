@@ -170,6 +170,11 @@
       "startedAt": "2026-11-12T11:32:36.084Z",
       "status": "verified",
       "containerId": "17922094590461009"
+    },
+    "4": {
+      "createClaim": "0c4d4d81-6118-4429-8aec-c68dd429879d",
+      "startedAt": "2026-11-12T11:33:00.690Z",
+      "status": "claimed"
     }
   }
 }
