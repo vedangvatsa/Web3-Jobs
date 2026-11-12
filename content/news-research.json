@@ -168988,11 +168988,30 @@
         "Bankless"
       ],
       "id": "472f49c631b3aa197abc",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-14T12:50:08.000Z",
-      "lastSeenAt": "2026-11-12T01:37:00.023Z"
+      "lastSeenAt": "2026-11-12T01:37:00.023Z",
+      "reason": "verified-event",
+      "note": "Read both outlet reports plus the primary CVE-2025-62861 advisory; matched the three CVE IDs, affected versions, Oct. 2025 fix releases and Nov. 10 disclosure timing across sources.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/bitcoin-core-discloses-bugs-that-could-freeze-mining-nodes/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitcoincore.org/en/2026/11/10/disclose-cve-2025-62861/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-12T01:51:43.633Z",
+      "articleSlug": "corecves",
+      "lastReviewedDay": "2026-11-12"
     },
     "1e79935f5e7f963a6034": {
       "source": "The Block",
@@ -319281,6 +319300,27 @@
           ],
           "reviewedAt": "2026-11-12T01:49:13.523Z",
           "articleSlug": "mscidelete"
+        },
+        "472f49c631b3aa197abc": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read both outlet reports plus the primary CVE-2025-62861 advisory; matched the three CVE IDs, affected versions, Oct. 2025 fix releases and Nov. 10 disclosure timing across sources.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/bitcoin-core-discloses-bugs-that-could-freeze-mining-nodes/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoincore.org/en/2026/11/10/disclose-cve-2025-62861/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-12T01:51:43.633Z",
+          "articleSlug": "corecves"
         }
       },
       "baselineSlugs": [
