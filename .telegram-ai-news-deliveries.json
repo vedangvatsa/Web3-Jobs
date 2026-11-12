@@ -3713,5 +3713,42 @@
     "slotKey": "2026-11-12:morning",
     "messageId": 193501,
     "sentAt": "2026-11-12T03:50:44.183Z"
+  },
+  "e394c22f-2804-45a1-a66f-70424daab111": {
+    "status": "reserved",
+    "reservedAt": "2026-11-12T11:33:58.457Z",
+    "stories": [
+      {
+        "index": 8,
+        "original_title": "Google enters decision model market with Gemini Decisions API",
+        "headline": "Google launches Gemini Decisions API and model",
+        "summary": "The service uses a specialized language model to answer targeted queries at lower operational costs.",
+        "event_rationale": "Google launched a specialized decision model and API, which is a distinct architectural release from prior general language models.",
+        "link": "https://siliconangle.com/2026/11/11/google-enters-the-decision-model-market-with-gemini-decisions-api/",
+        "source": "SiliconANGLE",
+        "originalTitle": "Google enters decision model market with Gemini Decisions API"
+      },
+      {
+        "index": 3,
+        "original_title": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+        "headline": "Spirit Airlines union blocks employee data sale to Google",
+        "summary": "Flight attendants negotiated to remove sensitive worker records from a ten million dollar dataset transaction.",
+        "event_rationale": "A labor union successfully prevented employee personal records from being sold for model training, creating a new legal precedent for data scraping.",
+        "link": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
+        "source": "Wired",
+        "originalTitle": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out"
+      },
+      {
+        "index": 30,
+        "original_title": "Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name",
+        "headline": "Helsing releases AI platform for military target processing",
+        "summary": "Autonomous agents analyze sensor data to recommend targets while keeping final execution authority with human operators.",
+        "event_rationale": "Defense technology firm Helsing launched an agentic military platform, marking a distinct enterprise deployment in defense infrastructure.",
+        "link": "https://the-decoder.com/helsing-built-an-ai-system-that-prepares-targets-for-weapons-systems-and-says-every-decision-will-carry-a-human-name/",
+        "source": "The Decoder",
+        "originalTitle": "Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name"
+      }
+    ],
+    "slotKey": "2026-11-12:afternoon"
   }
 }
