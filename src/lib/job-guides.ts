@@ -14,6 +14,7 @@ import {
   sanitizeJobDescriptionHtml,
 } from './sanitize-html';
 import { COMPANY_RICH_ABOUT } from './company-profiles';
+import { stripThirdPartyCommunityUrls } from './community-link-sanitizer';
 import {
   getJobDescriptionShardFilename,
   getJobDescriptionShardIndex,
@@ -165,7 +166,9 @@ export async function buildJobDetailContentHtml(job: Job): Promise<string> {
   if (inflight) return inflight;
 
   const work = (async () => {
-    const raw = await getOrFetchRawJobContent(job);
+    // HTML-safe strip: organizer Telegram/WhatsApp/Discord community links
+    // never reach job pages (Safe Browsing social-engineering flag 2026-11-12).
+    const raw = stripThirdPartyCommunityUrls(await getOrFetchRawJobContent(job));
     return buildSynthesizedJobContent(job, raw);
   })();
 
@@ -185,8 +188,9 @@ export async function jobPageShouldIndex(job: Job, contentHtml: string): Promise
 export function getCachedJobSummary(job: Job, maxLength = 155): string | null {
   if (!hasSubstantialJobContent(job)) return null;
   const text = plainTextFromHtml(getCachedRawContent(job));
-  if (text.length <= maxLength) return text;
-  const clipped = text.slice(0, maxLength - 1);
+  const clean = stripThirdPartyCommunityUrls(text);
+  if (clean.length <= maxLength) return clean;
+  const clipped = clean.slice(0, maxLength - 1);
   const lastSpace = clipped.lastIndexOf(' ');
   return `${clipped.slice(0, lastSpace > 80 ? lastSpace : clipped.length).trim()}...`;
 }

@@ -1,5 +1,6 @@
 import type { Web3Event } from './events';
 import { isThinEventListingDescription } from './event-editorial-facts';
+import { stripThirdPartyCommunityPromo } from './community-link-sanitizer';
 
 export function getEventDescriptionSource(event: Web3Event): { url: string; fetchedAt: string } | undefined {
   const source = event.descriptionSource || event.sourceVerification;
@@ -8,6 +9,6 @@ export function getEventDescriptionSource(event: Web3Event): { url: string; fetc
 }
 
 export function getVerifiedEventDescription(event: Web3Event): string {
-  const description = (event.description || '').trim();
-  return getEventDescriptionSource(event) && !isThinEventListingDescription(description) ? description : '';
+ const description = stripThirdPartyCommunityPromo((event.description || '').trim());
+ return getEventDescriptionSource(event) && !isThinEventListingDescription(description) ? description : '';
 }

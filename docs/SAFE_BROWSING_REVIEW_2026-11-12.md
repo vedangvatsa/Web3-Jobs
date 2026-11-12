@@ -47,7 +47,9 @@ Nothing else. No ad networks, no crypto widgets, no external forms.
 
 ## 3. Hardening applied (2026-11-12)
 
-- **PostHog:** surveys and web experiments are the only PostHog features that render page content from the analytics dashboard. The site never uses them; they are now disabled client-side in `src/lib/posthog.ts` (`disable_surveys`, `disable_surveys_autosend`, `disable_web_experiments`) so the analytics account is fully out of the page content path.
+- **PostHog:** surveys and web experiments are the only PostHog features that render page content from the analytics dashboard. The site never uses them; they are now disabled client-side in `src/lib/posthog.ts` (`disable_surveys`, `disable_surveys_automatic_display`, `disable_web_experiments`) so the analytics account is fully out of the page content path.
+- **Promo popup removed:** the sitewide `PromoPopup` (delayed modal promoting a messaging channel) was removed from the root layout — delayed full-screen overlays are a common pattern in phishing kits and a plausible classifier trigger.
+- **Third-party community links scrubbed from content:** organizer Telegram/WhatsApp/Discord links and "join our community" CTAs are stripped from event and job page content at render (`src/lib/community-link-sanitizer.ts`, wired into `getVerifiedEventDescription`, `renderDescriptionInline`, and job content/summary builders). All 41 affected event descriptions cleaned (none emptied; all remain substantial). The site's own community channels are intentionally preserved.
 
 ## 4. Remaining checklist before requesting review
 

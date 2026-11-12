@@ -1,4 +1,5 @@
 import { createElement, Fragment, type ReactNode } from 'react';
+import { stripThirdPartyCommunityPromo } from '@/lib/community-link-sanitizer';
 
 function cleanUrlTracking(url: string): string {
   try {
@@ -37,6 +38,9 @@ const tokens = /\[(?<label>[^\]\n]+)\]\((?<href>https?:\/\/[^\s)]+(?:\([^\s)]*\)
 
 export function renderDescriptionInline(text: string, depth = 0, links = true): ReactNode {
   if (depth > 5) return text;
+  if (depth === 0 && text) {
+    text = stripThirdPartyCommunityPromo(text);
+  }
   if (depth === 0 && text) {
     text = foldParentheticalUrls(text);
   }

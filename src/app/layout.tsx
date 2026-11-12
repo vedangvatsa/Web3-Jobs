@@ -12,12 +12,6 @@ import dynamic from 'next/dynamic';
 import { PostHogInit } from '@/components/posthog-init';
 import { ClarityInit } from '@/components/clarity-init';
 
-// Lazy-load promo popup - renders null server-side, loads JS on client
-const PromoPopup = dynamic(
- () => import('@/components/telegram-popup').then(mod => ({ default: mod.PromoPopup })),
- { loading: () => null }
-);
-
 const inter = Inter({
  subsets: ['latin'],
  display: 'swap',
@@ -232,7 +226,6 @@ export default async function RootLayout({
      {children}
     </div>
     <Toaster />
-    <PromoPopup />
 
     <Footer />
    </body>
