@@ -134278,6 +134278,38 @@
       "attemptId": "b9998943-47d6-4b10-ae37-cf2c70fa5a92",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Wednesday, 11-Nov-26 19:50:00 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AEOD_DGTeJUuBO3Y2a_p3CO\"}"
+    },
+    {
+      "slug": "sls454",
+      "company": "Block",
+      "title": "Account Executive Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-11-12T03:49:46.580Z",
+      "expectedText": "Block is hiring Account Executive Manager: https://hashtagweb3.com/sls454/bsky?og=7",
+      "snapshot": {
+        "id": "5410307008",
+        "title": "Account Executive Manager",
+        "company": "Block",
+        "link": "http://block.xyz/careers/jobs/5410307008?gh_jid=5410307008",
+        "date": "2026-11-09T16:12:26-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Block [block]",
+        "location": "Tokyo, Japan",
+        "department": "20213 S&M - Sales - Square Outside",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls454"
+      },
+      "payload": {
+        "text": "Block is hiring Account Executive Manager: https://hashtagweb3.com/sls454/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/sls454/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/sls454.png?v=7",
+        "company": "Block",
+        "title": "Account Executive Manager",
+        "description": "Join Block as Account Executive Manager. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "50286555-84cc-40ce-830a-5f73a0cda9d3",
+      "verification": "creating"
     }
   ]
 }
