@@ -18635,5 +18635,122 @@
     "slotKey": "2026-11-12:morning",
     "messageId": 188,
     "sentAt": "2026-11-12T03:50:25.250Z"
+  },
+  "16636ec0-5fd5-4fe4-9f72-5c75ca413a9d": {
+    "status": "reserved",
+    "reservedAt": "2026-11-12T11:32:29.745Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "6238284004",
+          "title": "Senior Accountant",
+          "company": "Alpaca",
+          "link": "https://job-boards.greenhouse.io/alpaca/jobs/6238284004",
+          "date": "2026-10-29T14:48:57-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Alpaca [alpaca]",
+          "location": "North America - Remote",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls365"
+        },
+        "key": "6238284004",
+        "slug": "sls365",
+        "url": "https://hashtagweb3.com/sls365?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alpaca",
+        "title": "Senior Accountant"
+      },
+      {
+        "snapshot": {
+          "id": "43904e24-639b-4e46-8988-85a90ec1357a",
+          "title": "Events Coordinator",
+          "company": "Rain",
+          "link": "https://jobs.ashbyhq.com/rain/43904e24-639b-4e46-8988-85a90ec1357a",
+          "date": "2026-11-05T21:54:19.096+00:00",
+          "source": "Ashby: Rain [rain]",
+          "location": "New York, NY",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "GTM",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ec5"
+        },
+        "key": "43904e24-639b-4e46-8988-85a90ec1357a",
+        "slug": "ec5",
+        "url": "https://hashtagweb3.com/ec5?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Rain",
+        "title": "Events Coordinator"
+      },
+      {
+        "snapshot": {
+          "id": "8374447",
+          "title": "Staff MarTech Manager",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8374447?t=gh_src=&gh_jid=8374447",
+          "date": "2026-11-11T09:17:37-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Menlo Park, CA; New York, NY",
+          "department": "Growth Acquisitions",
+          "active": true,
+          "salary": "$166k – $195k/yr",
+          "slug": "mgr252",
+          "dateVerified": true
+        },
+        "key": "8374447",
+        "slug": "mgr252",
+        "url": "https://hashtagweb3.com/mgr252?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Staff MarTech Manager"
+      },
+      {
+        "snapshot": {
+          "id": "4453246009",
+          "title": "Director, Data Architecture (AI Enablement)",
+          "company": "Digital Asset",
+          "link": "https://job-boards.greenhouse.io/digitalassetcorp/jobs/4453246009",
+          "date": "2026-10-16T15:54:05-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Digital Asset [digitalassetcorp]",
+          "location": "New York City, US",
+          "department": "Security / IT",
+          "active": true,
+          "salary": "$225k – $260k/yr",
+          "dateVerified": true,
+          "slug": "arc2"
+        },
+        "key": "4453246009",
+        "slug": "arc2",
+        "url": "https://hashtagweb3.com/arc2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Digital Asset",
+        "title": "Director, Data Architecture"
+      },
+      {
+        "snapshot": {
+          "id": "8200136003",
+          "title": "Technical Account Director",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8200136003",
+          "date": "2026-11-10T00:09:12-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Singapore",
+          "department": "Global Institutions",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls462"
+        },
+        "key": "8200136003",
+        "slug": "sls462",
+        "url": "https://hashtagweb3.com/sls462?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Technical Account Director"
+      }
+    ],
+    "message": "- Alpaca is hiring <a href=\"https://hashtagweb3.com/sls365?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Accountant</a>\n- Rain is hiring <a href=\"https://hashtagweb3.com/ec5?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Events Coordinator</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/mgr252?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff MarTech Manager</a>\n- Digital Asset is hiring <a href=\"https://hashtagweb3.com/arc2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, Data Architecture (AI Enablement)</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/sls462?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Account Director</a>",
+    "slotKey": "2026-11-12:afternoon"
   }
 }
