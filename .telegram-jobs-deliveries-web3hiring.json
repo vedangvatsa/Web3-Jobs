@@ -18518,5 +18518,120 @@
     "slotKey": "2026-11-12:morning",
     "messageId": 16635,
     "sentAt": "2026-11-12T03:50:18.303Z"
+  },
+  "07100bda-04fd-4503-9ca9-8d21276f1115": {
+    "status": "reserved",
+    "reservedAt": "2026-11-12T03:50:22.804Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8248320",
+          "title": "Senior Web Engineer, Options",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8248320?t=gh_src=&gh_jid=8248320",
+          "date": "2026-10-28T21:10:20-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Menlo Park, CA",
+          "department": "Brokerage Engineering",
+          "active": true,
+          "salary": "$196k – $230k/yr",
+          "dateVerified": true,
+          "slug": "eng682"
+        },
+        "key": "8248320",
+        "slug": "eng682",
+        "url": "https://hashtagweb3.com/eng682?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Senior Web Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8895178002",
+          "title": "Customer Success Manager",
+          "company": "BitGo",
+          "link": "https://job-boards.greenhouse.io/bitgo/jobs/8895178002",
+          "date": "2026-10-16T13:55:48-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BitGo [bitgo]",
+          "location": "Hong Kong, Central and Western, Hong Kong S.A.R.",
+          "department": "CSM",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr60"
+        },
+        "key": "8895178002",
+        "slug": "mgr60",
+        "url": "https://hashtagweb3.com/mgr60?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Customer Success Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8047102003",
+          "title": "Compliance Analyst",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8047102003",
+          "date": "2026-10-28T08:52:12-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Istanbul, Türkiye",
+          "department": "Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp136"
+        },
+        "key": "8047102003",
+        "slug": "cmp136",
+        "url": "https://hashtagweb3.com/cmp136?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Compliance Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "8286436",
+          "title": "Professional Services Consultant (TMS Implementation)",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8286436?gh_jid=8286436",
+          "date": "2026-10-27T04:24:49-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "Singapore",
+          "department": "Service & Delivery",
+          "active": true,
+          "dateVerified": true,
+          "slug": "psct2"
+        },
+        "key": "8286436",
+        "slug": "psct2",
+        "url": "https://hashtagweb3.com/psct2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Professional Services Consultant"
+      },
+      {
+        "snapshot": {
+          "id": "8267851",
+          "title": "Account Executive, Enterprise Grower (Benelux)",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8267851",
+          "date": "2026-10-16T09:31:53-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Amsterdam",
+          "department": "1185 Account Executives (EMEA)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls55"
+        },
+        "key": "8267851",
+        "slug": "sls55",
+        "url": "https://hashtagweb3.com/sls55?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      }
+    ],
+    "message": "- Robinhood is hiring <a href=\"https://hashtagweb3.com/eng682?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Web Engineer, Options</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/mgr60?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Success Manager</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/cmp136?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Compliance Analyst</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/psct2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Professional Services Consultant (TMS Implementation)</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls55?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Enterprise Grower (Benelux)</a>",
+    "slotKey": "2026-11-12:morning"
   }
 }
