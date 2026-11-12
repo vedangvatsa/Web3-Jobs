@@ -135443,7 +135443,8 @@
       },
       "account": "channel:build",
       "attemptId": "b106fb78-7d65-49d5-af4d-8e2a9098d1ab",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xcb1f23d7f35f037a48efd28a9c1a6d7a8b1a631c"
     }
   ]
 }
