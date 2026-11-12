@@ -170829,7 +170829,27 @@
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
       "attempts": 0,
       "expiresAt": "2026-11-14T10:51:34.000Z",
-      "lastSeenAt": "2026-11-12T01:37:00.023Z"
+      "lastSeenAt": "2026-11-12T01:37:00.023Z",
+      "articleSlug": "xstockseu",
+      "draftProgress": {
+        "id": "b5b2560bc8498bafb56c",
+        "day": "2026-11-12",
+        "articleSlug": "xstockseu",
+        "note": "Read Cointelegraph and Decrypt expansion stories; 200+ UK/EU tokens, 1500+ assets, .1B market cap figures verified; draft and image still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/kraken-xstocks-200-tokenized-uk-eu-equities",
+            "outcome": "read"
+          },
+          {
+            "url": "https://decrypt.co/383000/kraken-parent-payward-brings-200-uk-and-eu-stocks-onchain-as-xstocks",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-12T01:51:59.399Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "e93c83c9a8eb8be8bf27": {
       "source": "The Defiant",
