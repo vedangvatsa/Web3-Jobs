@@ -86,8 +86,6 @@ const nextConfig = {
       './public/favicon.ico',
       './public/icon.png',
       './public/apple-icon.png',
-      './public/security.txt',
-      './public/security-policy.md',
     ],
   },
   experimental: {
