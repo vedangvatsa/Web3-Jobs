@@ -135992,6 +135992,39 @@
       "attemptId": "460dab70-3587-4fe9-ae58-faefbf00ce5f",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Thursday, 12-Nov-26 03:34:09 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Ax3s_ta6vThXNBbzrQXsrfK\"}"
+    },
+    {
+      "slug": "ob15",
+      "company": "BVNK",
+      "title": "Onboarding Analyst - US",
+      "platform": "bluesky",
+      "postedAt": "2026-11-12T11:33:45.670Z",
+      "expectedText": "BVNK is hiring Onboarding Analyst - US: https://hashtagweb3.com/ob15/bsky?og=7",
+      "snapshot": {
+        "id": "5028392101",
+        "title": "Onboarding Analyst - US",
+        "company": "BVNK",
+        "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5028392101",
+        "date": "2026-11-05T05:21:49-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BVNK [bvnk]",
+        "location": "USA",
+        "department": "Compliance",
+        "active": true,
+        "salary": "$60k – $80k/yr",
+        "dateVerified": true,
+        "slug": "ob15"
+      },
+      "payload": {
+        "text": "BVNK is hiring Onboarding Analyst - US: https://hashtagweb3.com/ob15/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/ob15/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/ob15.png?v=7",
+        "company": "BVNK",
+        "title": "Onboarding Analyst - US",
+        "description": "Join BVNK as Onboarding Analyst - US. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "f0f37b2c-6016-475e-9fc6-0c1630fac009",
+      "verification": "creating"
     }
   ]
 }
