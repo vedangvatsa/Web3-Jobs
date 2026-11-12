@@ -5526,5 +5526,53 @@
     "slotKey": "2026-11-11:evening",
     "messageId": 156182,
     "sentAt": "2026-11-11T19:32:32.609Z"
+  },
+  "4e2f5e35-3581-43a2-b3e7-872070380961": {
+    "status": "reserved",
+    "reservedAt": "2026-11-12T03:50:01.213Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-rwPZdTpHlnISAec",
+        "slug": "house-sol",
+        "name": "House of Sol Workshops: The Yield Ceiling: Why Onchain Vaults Need Real World Assets: SRI x R3",
+        "startDate": "2026-11-12T13:00:00.000Z",
+        "keys": [
+          "luma-crypto-rwpzdtphlnisaec",
+          "page:house-sol:2026-11-12",
+          "luma:evt-rwpzdtphlnisaec",
+          "luma-url:/hos-workshops-r3",
+          "event:houseofsolworkshopstheyieldceilingwhyonchainvaultsneedrealworldassetssrixr3:2026-11-12:london"
+        ]
+      },
+      {
+        "id": "luma-crypto-cDZtAKQWtRAEudC",
+        "slug": "bitcoin-mede4",
+        "name": "Bitcoin meetup #29: Bitcoinová edukace, kvízy a Štosuj.cz",
+        "startDate": "2026-11-12T17:00:00.000Z",
+        "keys": [
+          "luma-crypto-cdztakqwtraeudc",
+          "page:bitcoin-mede4:2026-11-12",
+          "luma:evt-cdztakqwtraeudc",
+          "luma-url:/de4lvk3c",
+          "event:bitcoinmeetup29bitcoinováedukacekvízyaštosujcz:2026-11-12:prague"
+        ]
+      },
+      {
+        "id": "luma-crypto-FM92ZM0qYfGR9JK",
+        "slug": "crypto-cur",
+        "name": "Crypto Curious: NYC Crypto & Fintech Kickoff Mixer",
+        "startDate": "2026-11-13T00:00:00.000Z",
+        "keys": [
+          "luma-crypto-fm92zm0qyfgr9jk",
+          "page:crypto-cur:2026-11-12",
+          "luma:evt-fm92zm0qyfgr9jk",
+          "luma-url:/g8hr19n4",
+          "event:cryptocuriousnyccryptofintechkickoffmixer:2026-11-12:new york"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-12:morning"
   }
 }
