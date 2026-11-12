@@ -134986,7 +134986,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "c305b24c-e19e-4768-a682-41d9e784ce00",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af5382a8a1a2f52b51fd684"
     }
   ]
 }
