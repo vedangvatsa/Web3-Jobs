@@ -134944,8 +134944,9 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "6f5d62de-265a-44ef-bad1-96bd66ba1d2f",
-      "verification": "pending",
-      "postId": "6af53809cb4c7286fd10e7f6"
+      "verification": "verified",
+      "postId": "6af53809cb4c7286fd10e7f6",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7526492230405193728"
     }
   ]
 }
