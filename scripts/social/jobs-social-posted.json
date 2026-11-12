@@ -135263,7 +135263,8 @@
       },
       "account": "channel:web3",
       "attemptId": "6ddfe6c7-2a87-4edc-a34a-00232a8f8c24",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xdfe5e3e76339f5a8723d53bcddeaa4cc1b9a8cf6"
     }
   ]
 }
