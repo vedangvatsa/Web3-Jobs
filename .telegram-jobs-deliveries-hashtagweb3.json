@@ -9915,7 +9915,7 @@
     "sentAt": "2026-11-12T03:50:37.839Z"
   },
   "f85f26e0-07ef-4618-b605-29c1b91b8192": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-12T11:32:54.069Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -10036,6 +10036,8 @@
       }
     ],
     "message": "- BVNK is hiring <a href=\"https://hashtagweb3.com/ob8?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Onboarding Analyst - 6 month contract</a>\n- Bitdeer is hiring <a href=\"https://hashtagweb3.com/eng401?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Field Application Engineer, AI Cloud</a>\n- Allium is hiring <a href=\"https://hashtagweb3.com/sec141?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Security Engineer</a>\n- CoinsPaid is hiring <a href=\"https://hashtagweb3.com/aa?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Atlassian Administrator</a>\n- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/dcm?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, Capital Markets</a>",
-    "slotKey": "2026-11-12:afternoon"
+    "slotKey": "2026-11-12:afternoon",
+    "messageId": 156189,
+    "sentAt": "2026-11-12T11:32:56.758Z"
   }
 }
