@@ -135031,6 +135031,34 @@
       "attemptId": "9e9c623a-42e2-4ddc-8dd8-3d1f57d466cc",
       "verification": "verified",
       "postId": "urn:li:share:7526492405349449730"
+    },
+    {
+      "slug": "sls454",
+      "company": "Block",
+      "title": "Account Executive Manager",
+      "platform": "facebook",
+      "postedAt": "2026-11-12T03:49:46.580Z",
+      "expectedText": "Block is hiring Account Executive Manager: https://hashtagweb3.com/sls454/fb?og=7",
+      "snapshot": {
+        "id": "5410307008",
+        "title": "Account Executive Manager",
+        "company": "Block",
+        "link": "http://block.xyz/careers/jobs/5410307008?gh_jid=5410307008",
+        "date": "2026-11-09T16:12:26-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Block [block]",
+        "location": "Tokyo, Japan",
+        "department": "20213 S&M - Sales - Square Outside",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls454"
+      },
+      "payload": {
+        "message": "Block is hiring Account Executive Manager: https://hashtagweb3.com/sls454/fb?og=7",
+        "link": "https://hashtagweb3.com/sls454/fb?og=7"
+      },
+      "attemptId": "6e877c40-784e-4bab-bc94-a9f87df86a33",
+      "verification": "creating"
     }
   ]
 }
