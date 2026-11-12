@@ -139,6 +139,26 @@
       "slot": "evening",
       "date": "2026-11-11",
       "queuedAt": "2026-11-11T19:32:21.201Z"
+    },
+    {
+      "slug": "xrplaunder",
+      "platform": "x",
+      "channelId": "6ab62682ea19ca0bdee284bd",
+      "postId": "6af53786bfa789f6210826a2",
+      "status": "queued",
+      "slot": "morning",
+      "date": "2026-11-12",
+      "queuedAt": "2026-11-12T03:50:29.915Z"
+    },
+    {
+      "slug": "xrplaunder",
+      "platform": "linkedin",
+      "channelId": "69c5b139af47dacb695b5feb",
+      "postId": "6af53786bc9f3773a1bbd314",
+      "status": "queued",
+      "slot": "morning",
+      "date": "2026-11-12",
+      "queuedAt": "2026-11-12T03:50:29.915Z"
     }
   ]
 }
