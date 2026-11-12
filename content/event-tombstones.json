@@ -9198,5 +9198,36 @@
       "garage-housing",
       "luma-batch-evtbkli1d8fbxecu"
     ]
+  },
+  "premier-bitchill-s04-2026": {
+    "until": "2027-11-12T01:37:48.657Z",
+    "slugs": [
+      "bitchill",
+      "premier-bitchill-s04-2026",
+      "bitchill-s04-2026"
+    ]
+  },
+  "w3v-crypto-worlds-fair-hackathon-by-colosseum": {
+    "until": "2027-11-12T01:37:48.657Z",
+    "slugs": [
+      "crypto-worlds-fair-hackathon",
+      "cwsfhc",
+      "w3v-crypto-worlds-fair-hackathon-by-colosseum"
+    ]
+  },
+  "luma-batch-qBDGEmPcUp5hQOI": {
+    "until": "2027-11-12T01:37:48.657Z",
+    "slugs": [
+      "superteam-p637",
+      "luma-batch-qbdgempcup5hqoi"
+    ]
+  },
+  "luma-crypto-mZkvPeUErlCZWoG": {
+    "until": "2027-11-12T01:37:48.657Z",
+    "slugs": [
+      "company-brain-hackathon",
+      "cbh",
+      "luma-crypto-mzkvpeuerlczwog"
+    ]
   }
 }

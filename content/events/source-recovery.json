@@ -1,25 +1,6 @@
 {
   "repairs": [
     {
-      "id": "w3v-crypto-worlds-fair-hackathon-by-colosseum",
-      "kind": "reviewed",
-      "sourceUrl": "https://colosseum.com/worldsfair",
-      "contains": [
-        "Crypto World's Fair",
-        "An online hackathon bringing together builders and founders across all crypto ecosystems to launch breakout startups.",
-        "Submissions due October 12, 2026",
-        "$840,000"
-      ],
-      "description": "An online hackathon bringing together builders and founders across all crypto ecosystems to launch breakout startups.\n\n## Crypto World's Fair\n\nCrypto World’s Fair is an open competition of the ideas, technologies, and communities shaping the blockchain ecosystem.\n\nInspired by the historic world’s fairs, it brings together builders and founders who are ready to exhibit the products and innovations that are going to drive the next wave of crypto startups that bring the world's markets onchain.\n\n## Awards and opportunities\n\nCompete for $840,000 in prizes and $2.5 million in seed funding. Submissions are due October 12, 2026.\n\nAll Hackathon winners will be interviewed and considered for Colosseum’s accelerator program.\n\n## Livestream workshops\n\nAll workshops stream live on Discord. Join the Colosseum Discord to watch live, ask questions, and never miss a session.",
-      "patch": {
-        "name": "Crypto World's Fair Hackathon by Colosseum",
-        "attendanceMode": "online",
-        "location": "Online",
-        "city": "Online"
-      },
-      "reason": "The source title and image-based heading did not match the old punctuation variant; the organizer's event-specific page provides the full program."
-    },
-    {
       "id": "premier-planblugano",
       "kind": "reviewed",
       "sourceUrl": "https://planb.lugano.ch/planb-forum/",

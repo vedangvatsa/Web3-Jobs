@@ -136,57 +136,6 @@
       "method": "luma-page"
     }
   },
-  "luma-crypto-mZkvPeUErlCZWoG": {
-    "name": "Company Brain Hackathon: Build an AI Agent That Knows Your Organization",
-    "startDate": "2026-10-12T19:30:00.000Z",
-    "endDate": "2026-10-13T00:00:00.000Z",
-    "timezone": "America/Los_Angeles",
-    "registrationUrl": "https://luma.com/oct-hackathon",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "city": "Menlo Park",
-    "country": "United States",
-    "location": "135 Constitution Dr, Menlo Park, CA 94025, USA",
-    "venueName": "135 Constitution Dr",
-    "streetAddress": "135 Constitution Dr, Menlo Park",
-    "addressLocality": "Menlo Park",
-    "addressRegion": "California",
-    "addressCountry": "US",
-    "coordinates": {
-      "latitude": 37.4850527,
-      "longitude": -122.1762167
-    },
-    "hosts": [
-      "TechEquity Ai",
-      "Sheena Tu",
-      "Mahan Soltanzadeh",
-      "Dave Nielsen",
-      "Silicon Valley AI Hub"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "TechEquity Ai - Silicon Valley",
-      "url": "https://techequity-ai.org/"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "In-Person Only",
-        "url": "https://luma.com/oct-hackathon",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/oct-hackathon",
-      "eventId": "evt-mZkvPeUErlCZWoG",
-      "fetchedAt": "2026-10-12T11:25:02.123Z",
-      "method": "luma-page"
-    }
-  },
   "luma-batch-evtceTF1z3WvKJ1i": {
     "name": "Digital Assets: From Regulatory Frameworks to Asset Allocation EY x Belem Capital x Swiss Risk Association x BSA (EPFL)",
     "startDate": "2026-10-13T06:30:00.000Z",

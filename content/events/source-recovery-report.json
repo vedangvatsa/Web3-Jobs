@@ -7,25 +7,6 @@
   "failures": [],
   "records": [
     {
-      "id": "w3v-crypto-worlds-fair-hackathon-by-colosseum",
-      "outcome": "recovered",
-      "sourceUrl": "https://colosseum.com/worldsfair",
-      "reason": "The source title and image-based heading did not match the old punctuation variant; the organizer's event-specific page provides the full program.",
-      "fetchedAt": "2026-09-20T07:56:52.564Z",
-      "characters": 871,
-      "changes": [
-        "description",
-        "descriptionSource",
-        "website",
-        "registrationUrl",
-        "name",
-        "attendanceMode",
-        "location",
-        "city",
-        "slug"
-      ]
-    },
-    {
       "id": "premier-planblugano",
       "outcome": "recovered",
       "sourceUrl": "https://planb.lugano.ch/planb-forum/",

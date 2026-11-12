@@ -812,21 +812,6 @@
       "preview": "## Get involved\n\n## Sponsorship Application\n\nPartner with EDCON 2026 and put your brand in front of the global Ethereum community.\n\n## Community Events Application\n\nHost your own EDCON side event, from networking and talks to workshops, exhibitions, meals, or any format you choose.\n\n## Apply to Speak\n\nSpeaker applications are open. Submit your talk, workshop or panel proposal for EDCON 2026.\n\n## Join as Volunteer\n\nVolunteer applications are open. Join the EDCON crew and help make EDCON 2026 happen.\n\n## Strategic Partner: Geode Labs\n\nGeode Labs is an Ethereum ecosystem development organisation and product studio, spun out of Ethereum Foundation to make Ethereum more accessible, resilient, and available to the people who need it most."
     },
     {
-      "id": "premier-bitchill-s04-2026",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://thebitcoindistrict.com/bitchill/",
-        "fetchedAt": "2026-09-20T00:20:50.933Z",
-        "method": "official-section",
-        "pageTitle": "Bitchill 🏝️ s04 // October 1-11, Roatan | The Bitcoin District Prospera",
-        "sha256": "1d7b52ce00f8fedff99734e7b1fce913233cf75cd2dcca1ecacfbd9d524c03e2"
-      },
-      "previousStartDate": "2026-10-01T09:00:00-06:00",
-      "characters": 7981,
-      "preview": "network, learn & leisue - bitcoin retreat comes back with season 4!\n\nIt’s not a conference. It’s not a business trip.It’s a one-week tropical reset with Bitcoiners from around the world — diving, tennis, open mics, barbecues, workshops, and sunset beers… all in the most Bitcoin-friendly jurisdiction on Earth — Próspera on Roatan.\n\n🏠 Coliving with fellow Bitcoiners in one of the world's most exciting experiments— Próspera special economic zone.\n\n🌊 Activities to fill your days: diving, sailing, yoga, sports, BBQ nights, pool parties.\n\n🎤 Community stage: open mic, lightning talks and debates about the future of Bitcoin and freedom.\n\n🏝️ Island exploration — hidden beaches, local food spots, and off-the-map adventures.\n\n🚀 A soft landing into Próspera — meet residents, explore business oppo"
-    },
-    {
       "id": "premier-gts-2026",
       "file": "curated-events.json",
       "status": "source-backed",
@@ -1150,22 +1135,6 @@
       "previousStartDate": "2026-11-06T10:00:00+05:30",
       "characters": 14657,
       "preview": "## #1 Web3 & Crypto Event in India for High-impact Networking and Deal-flow\n\n## India’s Web3 & Crypto Summit for Builders, Investors and Institutions\n\n• Unchained Summit brings together the institutions, investors, founders, policymakers, traders and technology leaders shaping the next era of digital assets, financial markets and Web3.\n\n• India combines massive digital-asset adoption, deep technical talent and a rapidly evolving ecosystem of financial institutions, capital and Web3 companies. Unchained Summit connects these worlds through business opportunities, partnerships, investment and global market access.\n\nFollowing successful international editions in Dubai and Vietnam, Unchained Summit now comes to India. For those looking to invest, build, enter the market or shape its next chapt"
-    },
-    {
-      "id": "w3v-crypto-worlds-fair-hackathon-by-colosseum",
-      "file": "events-cache.json",
-      "name": "Crypto World´s Fair Hackathon by Colosseum",
-      "status": "unavailable",
-      "attempts": [
-        {
-          "url": "https://discord.com/events/1273743461601902789/1548869069057294386",
-          "reason": "event-not-matched"
-        },
-        {
-          "url": "https://colosseum.com/worldsfair",
-          "reason": "event-not-matched"
-        }
-      ]
     },
     {
       "id": "ma-money-20-20-usa",

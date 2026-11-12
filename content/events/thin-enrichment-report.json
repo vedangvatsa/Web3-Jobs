@@ -101,17 +101,6 @@
       }
     },
     {
-      "id": "w3v-crypto-worlds-fair-hackathon-by-colosseum",
-      "words": 234,
-      "source": {
-        "url": "https://colosseum.com/worldsfair",
-        "fetchedAt": "2026-09-21T05:12:52.992Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "Crypto World's Fair Hackathon - Colosseum",
-        "sha256": "0d609b90e1a916a3d4fc4f158fb37b630146d9623ce4d4fbc745d7e26640209a"
-      }
-    },
-    {
       "id": "premier-signal-week-2027",
       "words": 226,
       "source": {

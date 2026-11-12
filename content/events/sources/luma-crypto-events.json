@@ -40,70 +40,6 @@
     }
   },
   {
-    "id": "luma-crypto-mZkvPeUErlCZWoG",
-    "slug": "cbh",
-    "name": "Company Brain Hackathon: Build an AI Agent That Knows Your Organization",
-    "description": "What if your company had a shared brain that could understand its documents, tools, processes, people, and institutional knowledge—and make that knowledge available to employees and AI agents?\n\nIn this 4-hour hands-on hackathon, participants will build a working Company Brain: an AI-powered knowledge system that connects information from sources such as documentation, meeting notes, FAQs, policies, product information, support content, and internal tools.\n\nTechEquity Ai invites you to an afternoon of applied AI learning and hands-on building at Snowflake's Silicon Valley AI Hub (SVAI) in Menlo Park, CA.\n\nThis session is part of the TechEquity Ai Monthly Forum Series, combining strategic insights and real-world use cases from industry leaders, alongside technical workshops and live demonstrations.\n\n## Speakers\n\n[Dave Nielsen](https://www.linkedin.com/in/dnielsen/) — [Head of DevRel @Cognee AI](https://cognee.ai). [Head of Events @AI Alliance](https://thealliance.ai)\n\n## What to Expect\n\nProgram details are subject to change.\n- 1:00–1:30 PM | Registration & Networking\n- 1:30–3:00 PM | Hackathon Round 1\n- 3:00–3:30 PM | Demonstration\n- 3:30–4:00 PM | Hackathon Round 2\n- 4:00-4:30 PM | Judging\n- 4:30–5:00 PM | Networking\n\nGrab a drink, enjoy light refreshments, and connect with fellow attendees after the workshop.\n\n## Sponsors & Partners\n\nSnowflake SVAI Hub, AI Alliance, Cognee\n\n## Who Should Attend\n\n• Developers and engineers exploring OpenClaw and agent-based systems\n• Startup founders building AI-powered products\n• Students and career-transition professionals looking to deepen hands-on AI experience\n• Anyone interested in practical approaches to modern AI development\n\n## Important Details\n\n• Format: In-person; hands-on workshops\n• What to Bring: Please bring a laptop for workshops\n• Code of Conduct: This event follows TechEquity Ai’s community code of conduct to ensure a respectful, inclusive environment for all participants\n\n## Sponsorship Opportunities\n\nInterested in getting involved? We welcome sponsors and exhibitors to take part through speaking opportunities, workshops, live demos, exhibits, and other formats\n\n## Event Info\n\n🎟️ Registration: RSVP required (limited capacity)\n🍽️🪑 F&B and Seating: Limited and available on a first-come, first-served basis\n🏢 Venue: Snowflake Silicon Valley AI Hub (SVAI)\n📍 Address: 8th [Floor at 135 Constitution Dr. Menlo Park, CA 94025](https://maps.app.goo.gl/eW7encjq2oeL89LXA?utm_source=luma)\n🚗Parking: Self-park in the garage next to the 135 Building\n❗Arrival [Guide: Download the guide at bit.ly/SVAI-Arrival-Guide](https://bit.ly/SVAI-Arrival-Guide)\n\nTechEquity Ai is a nonprofit organization dedicated to democratizing access to artificial intelligence (AI) knowledge and applications.\n\nOur flagship initiative is the TechEquity Ai Summit, a series of high-impact events designed to foster innovation, broad participation, and education in AI. In addition to the Summit, TechEquity Ai hosts a Monthly Forum Series to keep the community engaged year-round through ongoing learning, networking, and hands-on exploration of emerging AI tools and ideas.\n\nAcross our programs, we bring together builders, leaders, and learners through keynotes, panels, fireside chats, hands-on workshops, and interactive demos.\n\nTo learn more [about TechEquity Ai and our programs, visit techequity-ai.org](https://techequity-ai.org) or reach out to us at info@techequity-ai.org.",
-    "startDate": "2026-10-12T20:00:00.000Z",
-    "endDate": "2026-10-13T00:00:00.000Z",
-    "city": "Menlo Park",
-    "country": "United States",
-    "location": "135 Constitution Dr, Menlo Park, CA 94025, USA",
-    "url": "https://luma.com/oct-hackathon",
-    "registrationUrl": "https://luma.com/oct-hackathon",
-    "coverImage": "/events/luma-crypto-mzkvpeuerlczwog-714e029a.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "TechEquity Ai",
-      "Sheena Tu",
-      "Mahan Soltanzadeh",
-      "Dave Nielsen",
-      "Silicon Valley AI Hub"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/Los_Angeles",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "135 Constitution Dr",
-    "streetAddress": "135 Constitution Dr, Menlo Park",
-    "addressLocality": "Menlo Park",
-    "addressRegion": "California",
-    "addressCountry": "US",
-    "coordinates": {
-      "latitude": 37.4850527,
-      "longitude": -122.1762167
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "TechEquity Ai - Silicon Valley",
-      "url": "https://techequity-ai.org/"
-    },
-    "ticketOffers": [
-      {
-        "name": "In-Person Only",
-        "url": "https://luma.com/oct-hackathon",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "Hackathon Judge",
-        "url": "https://luma.com/oct-hackathon",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/oct-hackathon",
-      "eventId": "evt-mZkvPeUErlCZWoG",
-      "fetchedAt": "2026-09-19T23:49:06.774Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-VcpyfOM9tAtGEBi",
     "slug": "nctaa",
     "name": "Navigating Career Transitions in the Age of AI: Defining Your Professional Narrative",
@@ -1988,7 +1924,7 @@
     "timezone": "Europe/Paris",
     "url": "https://luma.com/0wcr8wu7",
     "registrationUrl": "https://luma.com/0wcr8wu7",
-    "coverImage": "https://images.lumacdn.com/uploads/ab/55d0e300-c7bc-4be2-b919-f9d1657e6f21.jpg",
+    "coverImage": "/events/luma-crypto-dujsmwzecmamyn8-bebaa52a.webp",
     "source": "luma-crypto",
     "hosts": [
       "Ramzy",
@@ -2033,7 +1969,7 @@
     "timezone": "Europe/Rome",
     "url": "https://luma.com/efglsne4",
     "registrationUrl": "https://luma.com/efglsne4",
-    "coverImage": "https://images.lumacdn.com/uploads/fh/87a70789-56ea-4d81-b900-ab1f6d361d97.png",
+    "coverImage": "/events/luma-crypto-jen9i5fjm0selwn-3f19647f.webp",
     "source": "luma-crypto",
     "hosts": [
       "Filippo Caprioglio",
@@ -2080,7 +2016,7 @@
     "timezone": "America/Bogota",
     "url": "https://luma.com/7ya8sg5d",
     "registrationUrl": "https://luma.com/7ya8sg5d",
-    "coverImage": "https://images.lumacdn.com/uploads/3x/4e191aca-53d0-4637-afa6-ef1d5ca633cb.png",
+    "coverImage": "/events/luma-crypto-fntbi5gpkgjws4w-81fb611b.webp",
     "source": "luma-crypto",
     "hosts": [
       "Binance Latinoamérica",
@@ -2130,7 +2066,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/2rzglx4s",
     "registrationUrl": "https://luma.com/2rzglx4s",
-    "coverImage": "https://images.lumacdn.com/uploads/73/f8b1a3e7-e7c5-4864-8756-1e9a31289aec.png",
+    "coverImage": "/events/luma-crypto-2vugf0bdedybmgu-644b1b8e.webp",
     "source": "luma-crypto",
     "hosts": [
       "JV Vink"
@@ -2194,7 +2130,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/n203puk9",
     "registrationUrl": "https://luma.com/n203puk9",
-    "coverImage": "https://images.lumacdn.com/uploads/dd/3ae4ead2-b9b9-4ea2-b372-b07a63622658.png",
+    "coverImage": "/events/luma-crypto-1twffjcl8sgosqf-9a2c69c2.webp",
     "source": "luma-crypto",
     "hosts": [
       "Wincent",
@@ -2233,7 +2169,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/yvjgdjl8",
     "registrationUrl": "https://luma.com/yvjgdjl8",
-    "coverImage": "https://images.lumacdn.com/uploads/a5/00bb8005-f4f9-40aa-810d-41df15e3ab53.png",
+    "coverImage": "/events/luma-crypto-jgpno16a0uuyoom-4d036afe.webp",
     "source": "luma-crypto",
     "hosts": [
       "SCRYPT Events"
@@ -2298,7 +2234,7 @@
     "timezone": "Europe/Madrid",
     "url": "https://luma.com/iui2go7g",
     "registrationUrl": "https://luma.com/iui2go7g",
-    "coverImage": "https://images.lumacdn.com/uploads/uc/459070ee-9b89-4900-ac76-ed2dde238166.png",
+    "coverImage": "/events/luma-crypto-3zpcjfbz4uf8sgr-bbf867bf.webp",
     "source": "luma-crypto",
     "hosts": [
       "Derrick Plahar",
@@ -2338,7 +2274,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/blockaid-uj77",
     "registrationUrl": "https://luma.com/blockaid-uj77",
-    "coverImage": "https://images.lumacdn.com/uploads/ct/d88ac443-a5d9-4ed0-b1c2-507319539211.jpg",
+    "coverImage": "/events/luma-crypto-trh1fnpmmnjx2bw-1e73c0cb.webp",
     "source": "luma-crypto",
     "hosts": [
       "Blockaid Events"
@@ -2381,7 +2317,7 @@
     "timezone": "Europe/Madrid",
     "url": "https://luma.com/teuuyp3r",
     "registrationUrl": "https://luma.com/teuuyp3r",
-    "coverImage": "https://images.lumacdn.com/uploads/fa/84fb41a1-7da0-4681-af30-749f7b264671.png",
+    "coverImage": "/events/luma-crypto-muvke2ekqxim0b3-72c444a1.webp",
     "source": "luma-crypto",
     "hosts": [
       "Mark",
@@ -2429,7 +2365,7 @@
     "timezone": "Europe/Madrid",
     "url": "https://luma.com/pwb6hwx9",
     "registrationUrl": "https://luma.com/pwb6hwx9",
-    "coverImage": "https://images.lumacdn.com/uploads/do/88d1b6cb-a160-4b3a-af9b-de55444da140.png",
+    "coverImage": "/events/luma-crypto-7hietcq4qdl9ewq-7cbf63a5.webp",
     "source": "luma-crypto",
     "hosts": [
       "Guillermo Geraldo",
@@ -2468,7 +2404,7 @@
     "timezone": "America/New_York",
     "url": "https://luma.com/y7h59zpb",
     "registrationUrl": "https://luma.com/y7h59zpb",
-    "coverImage": "https://images.lumacdn.com/uploads/lm/b785417a-7945-43c0-9d76-298df6083aa4.jpg",
+    "coverImage": "/events/luma-crypto-hsu6qve6ozix0le-745b73f9.webp",
     "source": "luma-crypto",
     "hosts": [
       "Manuel Rinaldi",
@@ -2512,7 +2448,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/up5knoe4",
     "registrationUrl": "https://luma.com/up5knoe4",
-    "coverImage": "https://images.lumacdn.com/uploads/3h/1ef0dfa0-9f5c-4510-a0a6-3a20757284a1.jpg",
+    "coverImage": "/events/luma-crypto-a3zqlfp6vop6cnd-526031df.webp",
     "source": "luma-crypto",
     "hosts": [
       "A&M Crypto | Events",
@@ -2553,7 +2489,7 @@
     "timezone": "America/New_York",
     "url": "https://luma.com/this-is-not-a-cryptopunk",
     "registrationUrl": "https://luma.com/this-is-not-a-cryptopunk",
-    "coverImage": "https://images.lumacdn.com/uploads/6r/62e262aa-5501-4f72-b12c-711544104214.png",
+    "coverImage": "/events/luma-crypto-uggqeerzi73n9ni-3ab79a90.webp",
     "source": "luma-crypto",
     "hosts": [
       "NODE"
@@ -2604,7 +2540,7 @@
     "timezone": "America/New_York",
     "url": "https://luma.com/hew4y2n1",
     "registrationUrl": "https://luma.com/hew4y2n1",
-    "coverImage": "https://images.lumacdn.com/uploads/yp/6e23be3b-a642-43ee-aeaf-6e255290d13c.jpg",
+    "coverImage": "/events/luma-crypto-hcjbsr2msn7vyhk-2a49a7a8.webp",
     "source": "luma-crypto",
     "hosts": [
       "Matt Schkolnick",
@@ -2645,7 +2581,7 @@
     "timezone": "America/Chicago",
     "url": "https://luma.com/4nlfv74z",
     "registrationUrl": "https://luma.com/4nlfv74z",
-    "coverImage": "https://images.lumacdn.com/gallery-images/hr/29705464-7718-4188-a5e0-2b0e62e12c4b",
+    "coverImage": "/events/luma-crypto-liq7vpojydjwxhq-e01fd42d.webp",
     "source": "luma-crypto",
     "hosts": [
       "Omar Siala"
@@ -2711,7 +2647,7 @@
     "timezone": "Australia/Sydney",
     "url": "https://luma.com/pxkxnevx",
     "registrationUrl": "https://luma.com/pxkxnevx",
-    "coverImage": "https://images.lumacdn.com/uploads/mm/f1b2fbd4-c3eb-4d24-aa2e-0b81bfdb0bee.png",
+    "coverImage": "/events/luma-crypto-d4ruo2u8g9r2eq6-0e04e1ee.webp",
     "source": "luma-crypto",
     "hosts": [
       "Crypto Padel League",
@@ -2760,7 +2696,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/gh66ltup",
     "registrationUrl": "https://luma.com/gh66ltup",
-    "coverImage": "https://images.lumacdn.com/uploads/s9/7aac5773-c319-4cf0-8e07-4992687160b8.png",
+    "coverImage": "/events/luma-crypto-ilt0lcmhdtlznt4-90a70bc6.webp",
     "source": "luma-crypto",
     "hosts": [
       "OpenCover",
@@ -2894,7 +2830,7 @@
     "timezone": "Asia/Tokyo",
     "url": "https://luma.com/4q8vwo2f",
     "registrationUrl": "https://luma.com/4q8vwo2f",
-    "coverImage": "https://images.lumacdn.com/uploads/a5/f2a3b614-c19f-4761-9b42-1e663682f4ed.jpg",
+    "coverImage": "/events/luma-crypto-cddl1sulafck5xe-421ffb97.webp",
     "source": "luma-crypto",
     "hosts": [
       "Tokyo Bitcoin Base"
@@ -2944,7 +2880,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/rfoqbbm3",
     "registrationUrl": "https://luma.com/rfoqbbm3",
-    "coverImage": "https://images.lumacdn.com/uploads/bk/b7dfb071-29bd-4ec1-9bee-07f0aa26bad2.png",
+    "coverImage": "/events/luma-crypto-m5g8mgmybvhwtrd-4566e467.webp",
     "source": "luma-crypto",
     "hosts": [
       "SMU Blockchain"
@@ -2987,7 +2923,7 @@
     "timezone": "Africa/Johannesburg",
     "url": "https://luma.com/0qga5nce",
     "registrationUrl": "https://luma.com/0qga5nce",
-    "coverImage": "https://images.lumacdn.com/uploads/ty/a26aea40-0a72-4ee5-b64b-c69737b4a0ec.png",
+    "coverImage": "/events/luma-crypto-kzlgyx7vnheswdy-e1721cb5.webp",
     "source": "luma-crypto",
     "hosts": [
       "Gaelle Marguarossian",
@@ -3026,7 +2962,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/ns75wwqg",
     "registrationUrl": "https://luma.com/ns75wwqg",
-    "coverImage": "https://images.lumacdn.com/uploads/jl/caf69536-3f77-4625-bcca-0c7a2028b9ab.png",
+    "coverImage": "/events/luma-crypto-zwksfi53zkkxlhf-a6fd8f94.webp",
     "source": "luma-crypto",
     "hosts": [
       "XDC UK",
@@ -3071,7 +3007,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/y6on1z3r",
     "registrationUrl": "https://luma.com/y6on1z3r",
-    "coverImage": "https://images.lumacdn.com/uploads/jl/708af4d8-a3fe-48fc-9e96-f9d3db71e202.png",
+    "coverImage": "/events/luma-crypto-fdvagh9psrkjucq-99405030.webp",
     "source": "luma-crypto",
     "hosts": [
       "KPK",
@@ -3112,7 +3048,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/x26b420k",
     "registrationUrl": "https://luma.com/x26b420k",
-    "coverImage": "https://images.lumacdn.com/uploads/1x/c7560266-1147-4fa9-b5b7-0386539d729f.png",
+    "coverImage": "/events/luma-crypto-k2w8ylv2rhch5le-41748a34.webp",
     "source": "luma-crypto",
     "hosts": [
       "ming",
@@ -3167,7 +3103,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/hypernative-zama-london",
     "registrationUrl": "https://luma.com/hypernative-zama-london",
-    "coverImage": "https://images.lumacdn.com/uploads/v7/104c71c7-a026-4797-9e04-85c017466813.png",
+    "coverImage": "/events/luma-crypto-xtqtandrfpfm7dn-8b1d63ff.webp",
     "source": "luma-crypto",
     "hosts": [
       "Hypernative Events",
@@ -3211,7 +3147,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/v1iiz5a0",
     "registrationUrl": "https://luma.com/v1iiz5a0",
-    "coverImage": "https://images.lumacdn.com/uploads/88/9d3ba7bf-6519-4267-a515-5ba9629c0fec.png",
+    "coverImage": "/events/luma-crypto-jue6aamn2eciahd-85935e7f.webp",
     "source": "luma-crypto",
     "hosts": [
       "Midas RWA",
@@ -3254,7 +3190,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/i27nre2i",
     "registrationUrl": "https://luma.com/i27nre2i",
-    "coverImage": "https://images.lumacdn.com/uploads/k5/5b4516ed-d0f0-4d71-bf60-e03e73003d2b.png",
+    "coverImage": "/events/luma-crypto-7iltwqivc8j5b74-a85ecfbe.webp",
     "source": "luma-crypto",
     "hosts": [
       "Carolyn Wyatt"
@@ -3304,7 +3240,7 @@
     "timezone": "America/Bogota",
     "url": "https://luma.com/zw1md84v",
     "registrationUrl": "https://luma.com/zw1md84v",
-    "coverImage": "https://images.lumacdn.com/uploads/3x/4e191aca-53d0-4637-afa6-ef1d5ca633cb.png",
+    "coverImage": "/events/luma-crypto-6wjl4nnneiqztmp-5a427ed1.webp",
     "source": "luma-crypto",
     "hosts": [
       "Binance Latinoamérica",
@@ -3355,7 +3291,7 @@
     "timezone": "America/Los_Angeles",
     "url": "https://luma.com/watbu0zq",
     "registrationUrl": "https://luma.com/watbu0zq",
-    "coverImage": "https://images.lumacdn.com/uploads/6c/905f95e6-1d2b-46f5-826b-24336b9608bd.png",
+    "coverImage": "/events/luma-crypto-cthsiupc8jiowpw-bd685f39.webp",
     "source": "luma-crypto",
     "hosts": [
       "Ripple"
@@ -3397,7 +3333,7 @@
     "timezone": "America/New_York",
     "url": "https://luma.com/oub5c5y6",
     "registrationUrl": "https://luma.com/oub5c5y6",
-    "coverImage": "https://images.lumacdn.com/event-covers/5f/81d3f825-c7e3-4f45-8f45-4f6c49469076.png",
+    "coverImage": "/events/luma-crypto-7pvdjrtwrnvrhqy-e8598948.webp",
     "source": "luma-crypto",
     "hosts": [
       "Triangle BitDevs"
@@ -3447,7 +3383,7 @@
     "timezone": "America/New_York",
     "url": "https://luma.com/9y7iajqc",
     "registrationUrl": "https://luma.com/9y7iajqc",
-    "coverImage": "https://images.lumacdn.com/uploads/z7/3d6e5c1b-dc31-4158-95e9-118eacb25b1d.png",
+    "coverImage": "/events/luma-crypto-tj0ijnbnsbfvfac-8d07a685.webp",
     "source": "luma-crypto",
     "hosts": [
       "Penn Blockchain",
@@ -3487,7 +3423,7 @@
     "timezone": "America/New_York",
     "url": "https://luma.com/5f4ucacx",
     "registrationUrl": "https://luma.com/5f4ucacx",
-    "coverImage": "https://images.lumacdn.com/uploads/rq/6be41163-1303-4e25-9cce-6a645c52fa2c.png",
+    "coverImage": "/events/luma-crypto-gp7pouwmnmcbr92-e6f3c85f.webp",
     "source": "luma-crypto",
     "hosts": [
       "Lauren Harrington",
@@ -3530,7 +3466,7 @@
     "timezone": "Africa/Johannesburg",
     "url": "https://luma.com/y07iyssq",
     "registrationUrl": "https://luma.com/y07iyssq",
-    "coverImage": "https://images.lumacdn.com/uploads/ve/accdf8bc-a1b3-492b-adb1-8ba4e6980bce.jpg",
+    "coverImage": "/events/luma-crypto-kezjauujhn19a2o-2be34972.webp",
     "source": "luma-crypto",
     "hosts": [
       "Chasing Mavericks"
@@ -3576,7 +3512,7 @@
     "timezone": "Australia/Melbourne",
     "url": "https://luma.com/0l8tjk49",
     "registrationUrl": "https://luma.com/0l8tjk49",
-    "coverImage": "https://images.lumacdn.com/uploads/bw/2552f98a-3bf2-4949-b546-5763e496e33d.jpg",
+    "coverImage": "/events/luma-crypto-bidzvybolji8pab-34663261.webp",
     "source": "luma-crypto",
     "hosts": [
       "OKX Australia VIP Experiences"
@@ -3618,7 +3554,7 @@
     "timezone": "Australia/Melbourne",
     "url": "https://luma.com/roorooex-launch",
     "registrationUrl": "https://luma.com/roorooex-launch",
-    "coverImage": "https://images.lumacdn.com/uploads/io/5c8959e4-b523-478c-a054-d28de5509f0e.png",
+    "coverImage": "/events/luma-crypto-nejsqa8va70ofdy-6241d166.webp",
     "source": "luma-crypto",
     "hosts": [
       "ANNG Gallery",
@@ -3669,7 +3605,7 @@
     "timezone": "Europe/Zurich",
     "url": "https://luma.com/tbw-summit",
     "registrationUrl": "https://luma.com/tbw-summit",
-    "coverImage": "https://images.lumacdn.com/uploads/lh/9fb214ba-feb1-4ab6-b891-93b121888302.png",
+    "coverImage": "/events/luma-crypto-yoy3yvk87jalhry-c46c7df5.webp",
     "source": "luma-crypto",
     "hosts": [
       "The Big Whale",
@@ -3720,7 +3656,7 @@
     "timezone": "Africa/Lagos",
     "url": "https://luma.com/ticfmzzo",
     "registrationUrl": "https://luma.com/ticfmzzo",
-    "coverImage": "https://images.lumacdn.com/uploads/tl/2be250f1-11da-4607-8011-e79ee0b10f97.png",
+    "coverImage": "/events/luma-crypto-m0d3ped64ddvz74-16b2f7b8.webp",
     "source": "luma-crypto",
     "hosts": [
       "Jenny"
@@ -3769,7 +3705,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/hos-workshops-r3",
     "registrationUrl": "https://luma.com/hos-workshops-r3",
-    "coverImage": "https://images.lumacdn.com/uploads/hb/a43b6bbb-fc67-4bc6-81b4-430ee54c46dc.png",
+    "coverImage": "/events/luma-crypto-rwpzdtphlnisaec-d8468d4f.webp",
     "source": "luma-crypto",
     "organizer": {
       "type": "Organization",
@@ -3813,7 +3749,7 @@
     "timezone": "Europe/Istanbul",
     "url": "https://luma.com/ktr1uq9t",
     "registrationUrl": "https://luma.com/ktr1uq9t",
-    "coverImage": "https://images.lumacdn.com/uploads/yr/6894ab30-01ee-44ce-be3a-5ceba01a0b45.png",
+    "coverImage": "/events/luma-crypto-ziedzfmbwwr9e70-fbf9809b.webp",
     "source": "luma-crypto",
     "hosts": [
       "MEXC TR"
@@ -3894,7 +3830,7 @@
     "timezone": "Europe/Prague",
     "url": "https://luma.com/de4lvk3c",
     "registrationUrl": "https://luma.com/de4lvk3c",
-    "coverImage": "https://images.lumacdn.com/gallery-images/m3/86a8962a-f82f-4129-a3b0-38651e802fee.png",
+    "coverImage": "/events/luma-crypto-cdztakqwtraeudc-36d98e47.webp",
     "source": "luma-crypto",
     "hosts": [
       "Miroslav Procházka"
@@ -3943,7 +3879,7 @@
     "timezone": "America/Vancouver",
     "url": "https://luma.com/4omcpn9h",
     "registrationUrl": "https://luma.com/4omcpn9h",
-    "coverImage": "https://images.lumacdn.com/uploads/h4/1d771619-385f-4553-b5c1-86ffc9b456ee.png",
+    "coverImage": "/events/luma-crypto-0hz2avz2012efph-fadfa4b1.webp",
     "source": "luma-crypto",
     "hosts": [
       "DCTRL"
@@ -3993,7 +3929,7 @@
     "timezone": "Africa/Johannesburg",
     "url": "https://luma.com/kh5iyxby",
     "registrationUrl": "https://luma.com/kh5iyxby",
-    "coverImage": "https://images.lumacdn.com/uploads/hl/2b0a4541-a3f6-4370-b5f8-86f4caa91b3d.jpg",
+    "coverImage": "/events/luma-crypto-jpq39opsgyinrhk-9f235dff.webp",
     "source": "luma-crypto",
     "hosts": [
       "SCRYPT Events"
@@ -4044,7 +3980,7 @@
     "timezone": "Europe/Zurich",
     "url": "https://luma.com/genevavipdinner",
     "registrationUrl": "https://luma.com/genevavipdinner",
-    "coverImage": "https://images.lumacdn.com/uploads/8p/4172069d-043c-4398-b82c-4c25dfb0dd17.png",
+    "coverImage": "/events/luma-crypto-faefuhwaqztfqps-3a0444ca.webp",
     "source": "luma-crypto",
     "hosts": [
       "Halborn"
@@ -4082,7 +4018,7 @@
     "timezone": "Europe/Lisbon",
     "url": "https://luma.com/sq0ty3gl",
     "registrationUrl": "https://luma.com/sq0ty3gl",
-    "coverImage": "https://images.lumacdn.com/gallery-images/hr/29705464-7718-4188-a5e0-2b0e62e12c4b",
+    "coverImage": "/events/luma-crypto-qibzjgs2w5kxxpw-ae7350f2.webp",
     "source": "luma-crypto",
     "hosts": [
       "Black Lipstick"
@@ -4119,7 +4055,7 @@
     "timezone": "Europe/Lisbon",
     "url": "https://luma.com/f0ah5yl3",
     "registrationUrl": "https://luma.com/f0ah5yl3",
-    "coverImage": "https://images.lumacdn.com/uploads/pu/1326234c-5e01-4a0f-9b68-5852a748cd2e.png",
+    "coverImage": "/events/luma-crypto-kar1gryhgs8m6lb-c9ac2cd1.webp",
     "source": "luma-crypto",
     "hosts": [
       "Vitali Dervoed",
@@ -4184,7 +4120,7 @@
     "timezone": "America/New_York",
     "url": "https://luma.com/g8hr19n4",
     "registrationUrl": "https://luma.com/g8hr19n4",
-    "coverImage": "https://images.lumacdn.com/uploads/li/fb2f31c9-eee1-4e01-955b-f6965c40a9f2.jpg",
+    "coverImage": "/events/luma-crypto-fm92zm0qyfgr9jk-5dfaa102.webp",
     "source": "luma-crypto",
     "hosts": [
       "Anthony Lin"
@@ -4227,7 +4163,7 @@
     "timezone": "America/New_York",
     "url": "https://luma.com/03yj4u4k",
     "registrationUrl": "https://luma.com/03yj4u4k",
-    "coverImage": "https://images.lumacdn.com/uploads/cn/0ce7c86f-7a91-4d78-a4db-af02dc0cda47.jpg",
+    "coverImage": "/events/luma-crypto-xvge9tpsfujaztu-1383ba8a.webp",
     "source": "luma-crypto",
     "hosts": [
       "JC Bitcoin"
@@ -4272,7 +4208,7 @@
     "timezone": "America/Vancouver",
     "url": "https://luma.com/pss6bafw",
     "registrationUrl": "https://luma.com/pss6bafw",
-    "coverImage": "https://images.lumacdn.com/uploads/57/af91256d-7631-444d-87d8-879b398ae76c.png",
+    "coverImage": "/events/luma-crypto-a8d6xmtlvvlbchq-9fee9bb4.webp",
     "source": "luma-crypto",
     "hosts": [
       "DCTRL"
@@ -4322,7 +4258,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/sbwflagshipsummit",
     "registrationUrl": "https://luma.com/sbwflagshipsummit",
-    "coverImage": "https://images.lumacdn.com/uploads/th/9e9bfae6-cc39-409f-ac81-28f48da28d04.png",
+    "coverImage": "/events/luma-crypto-gyijyf0zte2v3qe-bc8ecc6c.webp",
     "source": "luma-crypto",
     "hosts": [
       "Singapore Blockchain Week (SBW)"
@@ -4363,7 +4299,7 @@
     "timezone": "America/Los_Angeles",
     "url": "https://luma.com/snrgc7jo",
     "registrationUrl": "https://luma.com/snrgc7jo",
-    "coverImage": "https://images.lumacdn.com/uploads/jv/0dd874e7-75c4-40f3-9ec2-6399f29b9ac5.png",
+    "coverImage": "/events/luma-crypto-bdcxh60c9qvnp0x-41ddb8fd.webp",
     "source": "luma-crypto",
     "hosts": [
       "localhost",
@@ -4409,7 +4345,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/afr82s1n",
     "registrationUrl": "https://luma.com/afr82s1n",
-    "coverImage": "https://images.lumacdn.com/uploads/l4/7cd23b58-ab40-4b32-a077-3ccbc3d61143.png",
+    "coverImage": "/events/luma-crypto-uhn5eekf4dmf3hy-0e442ffc.webp",
     "source": "luma-crypto",
     "hosts": [
       "Sophie",
@@ -4458,7 +4394,7 @@
     "timezone": "Europe/Vienna",
     "url": "https://luma.com/rrnm4pul",
     "registrationUrl": "https://luma.com/rrnm4pul",
-    "coverImage": "https://images.lumacdn.com/uploads/r3/ec87f8cb-3aaf-417e-b8e5-9133f0fc7882.png",
+    "coverImage": "/events/luma-crypto-mmhgsduqyu8ihkd-da8ea1ba.webp",
     "source": "luma-crypto",
     "hosts": [
       "Sviat",
@@ -4531,7 +4467,7 @@
     "timezone": "Europe/Istanbul",
     "url": "https://luma.com/team1labistuni",
     "registrationUrl": "https://luma.com/team1labistuni",
-    "coverImage": "https://images.lumacdn.com/uploads/vw/38a91d66-dbad-4896-9b38-0441fb8349a9.png",
+    "coverImage": "/events/luma-crypto-vm9zeewmzjlxdtu-2c231fd9.webp",
     "source": "luma-crypto",
     "hosts": [
       "Team1",
@@ -4585,7 +4521,7 @@
     "timezone": "Europe/Istanbul",
     "url": "https://luma.com/orzgx01g",
     "registrationUrl": "https://luma.com/orzgx01g",
-    "coverImage": "https://images.lumacdn.com/uploads/zx/1a093f44-c291-4142-867b-be6d205f28b8.png",
+    "coverImage": "/events/luma-crypto-l05guqoyzmp4hgh-eb7c9e26.webp",
     "source": "luma-crypto",
     "hosts": [
       "Altcointurk"
@@ -4633,7 +4569,7 @@
     "timezone": "Europe/Vienna",
     "url": "https://luma.com/mq0teo4e",
     "registrationUrl": "https://luma.com/mq0teo4e",
-    "coverImage": "https://images.lumacdn.com/uploads/42/5e1fa8eb-cf25-4a2f-9b01-6e2d8c95b321.png",
+    "coverImage": "/events/luma-crypto-1rttrixqpi2ysja-1a522c3e.webp",
     "source": "luma-crypto",
     "hosts": [
       "Crypto Club Vienna"
@@ -4721,7 +4657,7 @@
     "timezone": "America/Sao_Paulo",
     "url": "https://luma.com/rbus03as",
     "registrationUrl": "https://luma.com/rbus03as",
-    "coverImage": "https://images.lumacdn.com/uploads/tu/57857d9a-7a6f-462e-8e80-f56769bbab9a.jpg",
+    "coverImage": "/events/luma-crypto-sgpliocp0wsk3lg-6b189ea7.webp",
     "source": "luma-crypto",
     "hosts": [
       "Instituto Florescer Caldeira",
@@ -4762,7 +4698,7 @@
     "timezone": "America/New_York",
     "url": "https://luma.com/tscsummit",
     "registrationUrl": "https://luma.com/tscsummit",
-    "coverImage": "https://images.lumacdn.com/uploads/qc/9e75486f-f8f2-40a5-8270-728f533b89ef.png",
+    "coverImage": "/events/luma-crypto-q2rc9pfmqzrpnev-1f8bd1bb.webp",
     "source": "luma-crypto",
     "hosts": [
       "Ivan Kan",
@@ -4836,7 +4772,7 @@
     "timezone": "Asia/Dubai",
     "url": "https://luma.com/vi5vk8wu",
     "registrationUrl": "https://luma.com/vi5vk8wu",
-    "coverImage": "https://images.lumacdn.com/uploads/b8/847230f8-4e9a-40c8-8ab2-45c47efd0c2f.jpg",
+    "coverImage": "/events/luma-crypto-tfamlbe3risxt4h-fcd5e206.webp",
     "source": "luma-crypto",
     "organizer": {
       "type": "Organization",
@@ -4896,7 +4832,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/zpm2ei66",
     "registrationUrl": "https://luma.com/zpm2ei66",
-    "coverImage": "https://images.lumacdn.com/uploads/u1/2004e799-97f4-43ac-bf8c-e520d04acd50.png",
+    "coverImage": "/events/luma-crypto-jzs1mrgvufxa7gi-f4b80acb.webp",
     "source": "luma-crypto",
     "hosts": [
       "Sunny @ Solana STB",
@@ -4944,7 +4880,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/siqdcgdt",
     "registrationUrl": "https://luma.com/siqdcgdt",
-    "coverImage": "https://images.lumacdn.com/uploads/24/ee7d78b2-a43f-42d7-80d9-79661bdf9108.png",
+    "coverImage": "/events/luma-crypto-ucrqeij5oxtaki0-1085d2dd.webp",
     "source": "luma-crypto",
     "hosts": [
       "Sujith Sizon",
@@ -4987,7 +4923,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/y6zy8xy2",
     "registrationUrl": "https://luma.com/y6zy8xy2",
-    "coverImage": "https://images.lumacdn.com/uploads/ee/db879e67-50be-4d26-b370-e83ff12b4676.png",
+    "coverImage": "/events/luma-crypto-o9kzf8kx051phbu-ad593ffa.webp",
     "source": "luma-crypto",
     "hosts": [
       "Dakota Campbell",
@@ -5032,7 +4968,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/frontier-traders-grand-final-london",
     "registrationUrl": "https://luma.com/frontier-traders-grand-final-london",
-    "coverImage": "https://images.lumacdn.com/uploads/v9/b7dffe83-e820-48c2-9873-9a733c2871ae.png",
+    "coverImage": "/events/luma-crypto-aoiuwt63qqkpbhm-a3e65daa.webp",
     "source": "luma-crypto",
     "hosts": [
       "Solana Foundation",
@@ -5084,7 +5020,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/sbwlearnathon",
     "registrationUrl": "https://luma.com/sbwlearnathon",
-    "coverImage": "https://images.unsplash.com/photo-1532012197267-da84d127e765?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxNHx8Ym9va3N8ZW58MHx8fHwxNzkyODQ0ODYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "coverImage": "/events/luma-crypto-chspumlslwnar5y-a0db1914.webp",
     "source": "luma-crypto",
     "hosts": [
       "Singapore Blockchain Week (SBW)",
@@ -5127,7 +5063,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/5yhvfaky",
     "registrationUrl": "https://luma.com/5yhvfaky",
-    "coverImage": "https://images.lumacdn.com/uploads/yc/b50603a9-b5a2-4d87-becb-145cf535c027.png",
+    "coverImage": "/events/luma-crypto-dbfzwwakgyu1sdj-9c1e74f5.webp",
     "source": "luma-crypto",
     "hosts": [
       "Eugene Anisei",
@@ -5174,7 +5110,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/f5s5psnj",
     "registrationUrl": "https://luma.com/f5s5psnj",
-    "coverImage": "https://images.lumacdn.com/uploads/i2/443ef86e-edbb-4338-9fbf-8ae2d53d0f48.png",
+    "coverImage": "/events/luma-crypto-h9znvfo86px53ue-90ec1c5d.webp",
     "source": "luma-crypto",
     "hosts": [
       "Connor"
@@ -5227,7 +5163,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/blockaid-ztbw",
     "registrationUrl": "https://luma.com/blockaid-ztbw",
-    "coverImage": "https://images.lumacdn.com/uploads/7f/34d07ca1-0fd4-44f5-9429-bf16d942da4a.jpg",
+    "coverImage": "/events/luma-crypto-grtc9tucgyfirbv-0264032d.webp",
     "source": "luma-crypto",
     "hosts": [
       "Blockaid Events",
@@ -5309,7 +5245,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/cfld2bu7",
     "registrationUrl": "https://luma.com/cfld2bu7",
-    "coverImage": "https://images.lumacdn.com/uploads/18/6097522b-55eb-462c-a055-0f1c153cefde.png",
+    "coverImage": "/events/luma-crypto-wn8synyfo4vuzqm-4592ca2a.webp",
     "source": "luma-crypto",
     "hosts": [
       "Sunny"
@@ -5351,7 +5287,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/vca7q67q",
     "registrationUrl": "https://luma.com/vca7q67q",
-    "coverImage": "https://images.lumacdn.com/uploads/vj/db4d615a-6a7e-41d0-adcf-6d8506a34cb7.png",
+    "coverImage": "/events/luma-crypto-7zybuy3bqizjk2x-f82287eb.webp",
     "source": "luma-crypto",
     "hosts": [
       "Moonsong Labs",
@@ -5394,7 +5330,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/ir45fvzj",
     "registrationUrl": "https://luma.com/ir45fvzj",
-    "coverImage": "https://images.lumacdn.com/uploads/og/b1a43f9a-868a-49f6-a1fc-6c3f7f2d06f8.png",
+    "coverImage": "/events/luma-crypto-4fe3tpp7gypkzwu-90bf309d.webp",
     "source": "luma-crypto",
     "hosts": [
       "Jupiter",
@@ -5437,7 +5373,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/yn-dinner-london",
     "registrationUrl": "https://luma.com/yn-dinner-london",
-    "coverImage": "https://images.lumacdn.com/uploads/qv/33512015-4809-4c9a-93e8-da4ba3b5103a.png",
+    "coverImage": "/events/luma-crypto-s03jhxndmzerjsy-770822eb.webp",
     "source": "luma-crypto",
     "hosts": [
       "Yield Network",
@@ -5511,7 +5447,7 @@
     "timezone": "America/Mexico_City",
     "url": "https://luma.com/lacasade-qf2y",
     "registrationUrl": "https://luma.com/lacasade-qf2y",
-    "coverImage": "https://images.lumacdn.com/uploads/ec/e8db4dba-b3d4-4531-8591-cee349eb69b4.png",
+    "coverImage": "/events/luma-crypto-zofpb94imh95qhz-c5fb04aa.webp",
     "source": "luma-crypto",
     "hosts": [
       "Maciej Cepnik",
@@ -5556,7 +5492,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/meteorasupercycle",
     "registrationUrl": "https://luma.com/meteorasupercycle",
-    "coverImage": "https://images.lumacdn.com/uploads/7s/1bdcbc6c-9529-44e2-9ef7-003fb85494f4.png",
+    "coverImage": "/events/luma-crypto-leydqv336g9nguo-f011e0e2.webp",
     "source": "luma-crypto",
     "hosts": [
       "Miir",
@@ -5604,7 +5540,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/bxvz2tvf",
     "registrationUrl": "https://luma.com/bxvz2tvf",
-    "coverImage": "https://images.lumacdn.com/uploads/lo/2b3fe1cc-cc52-4ce5-951c-52a099c2dbd2.png",
+    "coverImage": "/events/luma-crypto-clcu6qy4xgmdyq5-46e8613d.webp",
     "source": "luma-crypto",
     "hosts": [
       "Privy",
@@ -5655,7 +5591,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/zcf6jo28",
     "registrationUrl": "https://luma.com/zcf6jo28",
-    "coverImage": "https://images.lumacdn.com/uploads/fh/df03db25-268a-4962-a4c6-18e953a2fc13.jpg",
+    "coverImage": "/events/luma-crypto-gri2hifteriaabw-0219b890.webp",
     "source": "luma-crypto",
     "hosts": [
       "MoonPay",
@@ -5698,7 +5634,7 @@
     "timezone": "Asia/Dubai",
     "url": "https://luma.com/ecox-q91p",
     "registrationUrl": "https://luma.com/ecox-q91p",
-    "coverImage": "https://images.lumacdn.com/uploads/uk/887b8561-a2ab-4fce-a520-a5e8ab42b5a1.png",
+    "coverImage": "/events/luma-crypto-29qrt9f31xvpcc5-9e235807.webp",
     "source": "luma-crypto",
     "hosts": [
       "Franco Fiore",
@@ -5749,7 +5685,7 @@
     "timezone": "Asia/Dubai",
     "url": "https://luma.com/ecox-f5gn",
     "registrationUrl": "https://luma.com/ecox-f5gn",
-    "coverImage": "https://images.lumacdn.com/gallery-images/cb/5d3f7620-0a4d-4a7e-af65-5d427f5f0d4a.png",
+    "coverImage": "/events/luma-crypto-kyupseiindhcqhe-f18f6ec0.webp",
     "source": "luma-crypto",
     "hosts": [
       "Franco Fiore",
@@ -5826,7 +5762,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/jzlkn59s",
     "registrationUrl": "https://luma.com/jzlkn59s",
-    "coverImage": "https://images.lumacdn.com/uploads/e8/f0d7599b-3000-4d05-a24f-37d0a8a0344f.png",
+    "coverImage": "/events/luma-crypto-c2fgoplur1hrot9-c551d333.webp",
     "source": "luma-crypto",
     "hosts": [
       "Jolyon Layard Horsfall",
@@ -5886,7 +5822,7 @@
     "timezone": "Asia/Bangkok",
     "url": "https://luma.com/m2feqonp",
     "registrationUrl": "https://luma.com/m2feqonp",
-    "coverImage": "https://images.lumacdn.com/uploads/v2/71c15b52-1348-49c6-bec6-3c13277dcaca.jpg",
+    "coverImage": "/events/luma-crypto-24qriajkewdqvbj-a70dcb3c.webp",
     "source": "luma-crypto",
     "hosts": [
       "Tractor3000",
@@ -5951,7 +5887,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/ejadxw59",
     "registrationUrl": "https://luma.com/ejadxw59",
-    "coverImage": "https://images.lumacdn.com/uploads/zq/f584b215-961e-468f-b983-d7694f248ea2.png",
+    "coverImage": "/events/luma-crypto-n3vlwqkgewkkecw-ba51d4d3.webp",
     "source": "luma-crypto",
     "hosts": [
       "Lana Fowler",
@@ -6020,7 +5956,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/mkvzcqey",
     "registrationUrl": "https://luma.com/mkvzcqey",
-    "coverImage": "https://images.lumacdn.com/uploads/oe/7c09c695-80c2-4728-a48d-aba6b57dcd29.jpg",
+    "coverImage": "/events/luma-crypto-mg6jyf5dvczenvg-cef83193.webp",
     "source": "luma-crypto",
     "hosts": [
       "CoW Swap"
@@ -6068,7 +6004,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/gsrcrypto-jmyt",
     "registrationUrl": "https://luma.com/gsrcrypto-jmyt",
-    "coverImage": "https://images.lumacdn.com/uploads/6r/e01de98d-4677-4e3f-aab6-8f3750658454.png",
+    "coverImage": "/events/luma-crypto-vq25oxgh4re9jqv-22f55e25.webp",
     "source": "luma-crypto",
     "hosts": [
       "Stuart Shearer",
@@ -6117,7 +6053,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/6sdoouxp",
     "registrationUrl": "https://luma.com/6sdoouxp",
-    "coverImage": "https://images.lumacdn.com/uploads/8i/e45e7811-4b05-4547-819c-00cc4ef43858.jpg",
+    "coverImage": "/events/luma-crypto-h8otgctv3qno5pt-076436d1.webp",
     "source": "luma-crypto",
     "hosts": [
       "FNN",
@@ -6197,7 +6133,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/y3s7ibya",
     "registrationUrl": "https://luma.com/y3s7ibya",
-    "coverImage": "https://images.lumacdn.com/uploads/wr/258bb770-9762-4582-8c68-142265a4d688.png",
+    "coverImage": "/events/luma-crypto-bgt9gy5ypwmp3il-da4f54de.webp",
     "source": "luma-crypto",
     "hosts": [
       "Real Vision",
@@ -6241,7 +6177,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/breakpointmixer",
     "registrationUrl": "https://luma.com/breakpointmixer",
-    "coverImage": "https://images.lumacdn.com/uploads/09/7ba361dd-2730-47d2-be5e-cdad70c4456d.png",
+    "coverImage": "/events/luma-crypto-phjvlffudqmrgx1-b0904e2f.webp",
     "source": "luma-crypto",
     "hosts": [
       "Halborn"
@@ -6290,7 +6226,7 @@
     "timezone": "America/New_York",
     "url": "https://luma.com/zq5rgcak",
     "registrationUrl": "https://luma.com/zq5rgcak",
-    "coverImage": "https://images.lumacdn.com/uploads/8k/f275c200-f441-4985-9167-f0797d27a7ba.png",
+    "coverImage": "/events/luma-crypto-lg3nkrazg1coint-94a340d7.webp",
     "source": "luma-crypto",
     "hosts": [
       "Harrison Friedes"
@@ -6340,7 +6276,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/mjok4lad",
     "registrationUrl": "https://luma.com/mjok4lad",
-    "coverImage": "https://images.lumacdn.com/uploads/3l/bde3c901-219d-420e-965c-bb30bbd4c1ce.png",
+    "coverImage": "/events/luma-crypto-dlt2clopfw7xbbc-3a4f081a.webp",
     "source": "luma-crypto",
     "hosts": [
       "SC Ventures by Standard Chartered",
@@ -6392,7 +6328,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/t9klel4a",
     "registrationUrl": "https://luma.com/t9klel4a",
-    "coverImage": "https://images.lumacdn.com/uploads/ra/2e9606ab-0ee3-4a99-b8aa-405e88cd35eb.png",
+    "coverImage": "/events/luma-crypto-jtdmtrbmnvt6gcy-a5b6c31c.webp",
     "source": "luma-crypto",
     "hosts": [
       "Tenity APAC Events",
@@ -6433,7 +6369,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/cdjxanhy",
     "registrationUrl": "https://luma.com/cdjxanhy",
-    "coverImage": "https://images.lumacdn.com/uploads/u0/4d4293a6-46d0-4fe8-b2d7-fa43e7ff63dc.png",
+    "coverImage": "/events/luma-crypto-fpfnqrlbkd6pifx-cc4de198.webp",
     "source": "luma-crypto",
     "hosts": [
       "SC Ventures by Standard Chartered",
@@ -6484,7 +6420,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/3bwtn4jz",
     "registrationUrl": "https://luma.com/3bwtn4jz",
-    "coverImage": "https://images.lumacdn.com/uploads/dz/1c0d9a23-406a-4a35-aa06-b9864dbb0018.jpg",
+    "coverImage": "/events/luma-crypto-lgpl5hysbc1yynb-1cadd43a.webp",
     "source": "luma-crypto",
     "hosts": [
       "Chars 445CREW"
@@ -6534,7 +6470,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/obk2oqvj",
     "registrationUrl": "https://luma.com/obk2oqvj",
-    "coverImage": "https://images.lumacdn.com/uploads/sk/ddc61b52-ff8a-441e-ba43-b1af70c4fdb1.png",
+    "coverImage": "/events/luma-crypto-omfx3gmhwvknfst-aef8e645.webp",
     "source": "luma-crypto",
     "hosts": [
       "SC Ventures by Standard Chartered",
@@ -6585,7 +6521,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/1dtyrfh1",
     "registrationUrl": "https://luma.com/1dtyrfh1",
-    "coverImage": "https://images.lumacdn.com/uploads/9n/e4e48e9c-c96a-4bec-bc32-bc7837e43fc6.png",
+    "coverImage": "/events/luma-crypto-tyyo5cuem9bm9x6-5f84d3f9.webp",
     "source": "luma-crypto",
     "hosts": [
       "SC Ventures by Standard Chartered",
@@ -6638,7 +6574,7 @@
     "timezone": "America/New_York",
     "url": "https://luma.com/emepysdd",
     "registrationUrl": "https://luma.com/emepysdd",
-    "coverImage": "https://images.lumacdn.com/uploads/vp/d2ea99d3-93aa-4988-ab32-cb2113e585d9.jpg",
+    "coverImage": "/events/luma-crypto-hbbc4hcf58kdqrp-c9d3712a.webp",
     "source": "luma-crypto",
     "hosts": [
       "李蒙"
@@ -6675,7 +6611,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/dat-part1",
     "registrationUrl": "https://luma.com/dat-part1",
-    "coverImage": "https://images.lumacdn.com/uploads/kd/5af5cf62-76b1-4efb-b60d-7b32cd286874.jpg",
+    "coverImage": "/events/luma-crypto-ccub419pwiogfrq-4727f702.webp",
     "source": "luma-crypto",
     "hosts": [
       "RHTLAW ASIA"
@@ -6720,7 +6656,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/3avj9jie",
     "registrationUrl": "https://luma.com/3avj9jie",
-    "coverImage": "https://images.lumacdn.com/uploads/of/12a263a0-12ce-4c0c-a325-be39e401a176.png",
+    "coverImage": "/events/luma-crypto-pgq1ypvrmwwt1uk-2d095ecd.webp",
     "source": "luma-crypto",
     "hosts": [
       "SC Ventures by Standard Chartered",
@@ -6772,7 +6708,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/6utqqx3y",
     "registrationUrl": "https://luma.com/6utqqx3y",
-    "coverImage": "https://images.lumacdn.com/uploads/zd/0814cd8e-8e2f-446f-b482-cb25a0381cce.png",
+    "coverImage": "/events/luma-crypto-gixqvvgoihaxcvi-9cc71ead.webp",
     "source": "luma-crypto",
     "hosts": [
       "1626 EVENTS",
@@ -6811,7 +6747,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/claudesgxquicknode",
     "registrationUrl": "https://luma.com/claudesgxquicknode",
-    "coverImage": "https://images.lumacdn.com/uploads/t7/b6052bbf-82f1-4169-a1ff-13c496ba398e.jpg",
+    "coverImage": "/events/luma-crypto-1qqkobtjdhui9zr-ebea493e.webp",
     "source": "luma-crypto",
     "hosts": [
       "Kimberly Tan",
@@ -6858,7 +6794,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/dwmm3fc8",
     "registrationUrl": "https://luma.com/dwmm3fc8",
-    "coverImage": "https://images.lumacdn.com/uploads/8q/01ade878-a2f6-4ad4-954e-2fb54936e6b2.png",
+    "coverImage": "/events/luma-crypto-udhp1b3l3ai4h80-acd06da8.webp",
     "source": "luma-crypto",
     "hosts": [
       "Serena Sebastiani",
@@ -6903,7 +6839,7 @@
     "timezone": "America/Sao_Paulo",
     "url": "https://luma.com/k95it7qg",
     "registrationUrl": "https://luma.com/k95it7qg",
-    "coverImage": "https://images.lumacdn.com/uploads/tk/a1c2b832-2e3f-4dde-a466-175d9c472dae.png",
+    "coverImage": "/events/luma-crypto-zvgf1sri2ghsjff-9775d43f.webp",
     "source": "luma-crypto",
     "hosts": [
       "Camila",
@@ -6950,7 +6886,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/5hdnilau",
     "registrationUrl": "https://luma.com/5hdnilau",
-    "coverImage": "https://images.lumacdn.com/uploads/zn/4d75c615-b3f9-4961-8211-8c554ab9fd42.png",
+    "coverImage": "/events/luma-crypto-el3dcxhxna4oelk-2dac45aa.webp",
     "source": "luma-crypto",
     "hosts": [
       "Jaako Metaplex",
@@ -6994,7 +6930,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/gbb0zb3x",
     "registrationUrl": "https://luma.com/gbb0zb3x",
-    "coverImage": "https://images.lumacdn.com/uploads/kz/5bd32fd3-01d3-41bb-adc0-1114db257e63.png",
+    "coverImage": "/events/luma-crypto-ywjnhttpdbosih6-630a66a4.webp",
     "source": "luma-crypto",
     "hosts": [
       "IMC Trading",
@@ -7092,7 +7028,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/cjvk9099",
     "registrationUrl": "https://luma.com/cjvk9099",
-    "coverImage": "https://images.lumacdn.com/uploads/c6/b051e9e4-b7e4-480e-9a93-4bcaf635c031.png",
+    "coverImage": "/events/luma-crypto-0addopwalboibo9-8d5b41fa.webp",
     "source": "luma-crypto",
     "hosts": [
       "Lorae k",
@@ -7143,7 +7079,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/mfbpm39s",
     "registrationUrl": "https://luma.com/mfbpm39s",
-    "coverImage": "https://images.lumacdn.com/uploads/gv/13c9cc82-bbee-4483-a96d-b4c65239762a.jpg",
+    "coverImage": "/events/luma-crypto-y71dmsae6j0a8kv-b2ed5b0a.webp",
     "source": "luma-crypto",
     "hosts": [
       "zane sadeq",
@@ -7194,7 +7130,7 @@
     "timezone": "America/New_York",
     "url": "https://luma.com/823wb3es",
     "registrationUrl": "https://luma.com/823wb3es",
-    "coverImage": "https://images.lumacdn.com/uploads/k6/2aa1d5f6-c59a-4d09-9325-bd82786c2df1.jpg",
+    "coverImage": "/events/luma-crypto-6fkigaayzz7ddtq-d92db557.webp",
     "source": "luma-crypto",
     "hosts": [
       "Judy Jin"
@@ -7264,7 +7200,7 @@
     "timezone": "America/Toronto",
     "url": "https://luma.com/q277opk4",
     "registrationUrl": "https://luma.com/q277opk4",
-    "coverImage": "https://images.lumacdn.com/uploads/53/aa5f004e-5a43-44c3-92f1-93bb85726b44.png",
+    "coverImage": "/events/luma-crypto-1hpbhvnflccglpn-8e4725fa.webp",
     "source": "luma-crypto",
     "hosts": [
       "EclairBTC"
@@ -7307,7 +7243,7 @@
     "timezone": "America/Chicago",
     "url": "https://luma.com/f9us9dxu",
     "registrationUrl": "https://luma.com/f9us9dxu",
-    "coverImage": "https://images.lumacdn.com/uploads/ef/1d9538c3-5b8d-4d06-a0d9-071c4c9cb5f0.png",
+    "coverImage": "/events/luma-crypto-z4cw9d6zegr2lld-0f32ddb5.webp",
     "source": "luma-crypto",
     "hosts": [
       "Event Horizon Capital",
@@ -7362,7 +7298,7 @@
     "timezone": "Australia/Sydney",
     "url": "https://luma.com/w27jgegr",
     "registrationUrl": "https://luma.com/w27jgegr",
-    "coverImage": "https://images.lumacdn.com/uploads/mm/f1b2fbd4-c3eb-4d24-aa2e-0b81bfdb0bee.png",
+    "coverImage": "/events/luma-crypto-bgxl8tusrqbusyu-080bb80a.webp",
     "source": "luma-crypto",
     "hosts": [
       "Crypto Padel League",
@@ -7410,7 +7346,7 @@
     "timezone": "Asia/Seoul",
     "url": "https://luma.com/nnlya6g5",
     "registrationUrl": "https://luma.com/nnlya6g5",
-    "coverImage": "https://images.lumacdn.com/uploads/jb/8d8fe53b-73a4-46de-9942-20fcbd53275a.png",
+    "coverImage": "/events/luma-crypto-yyzg8jwuebxmvj2-67de1305.webp",
     "source": "luma-crypto",
     "hosts": [
       "yong | DSRV",
@@ -7452,7 +7388,7 @@
     "timezone": "Asia/Tokyo",
     "url": "https://luma.com/kudasai-8ewg",
     "registrationUrl": "https://luma.com/kudasai-8ewg",
-    "coverImage": "https://images.lumacdn.com/uploads/9d/6011f704-fbb2-4e33-9d2b-9a9f32dbfc10.png",
+    "coverImage": "/events/luma-crypto-ymtlsdfna7ksgzh-9e4779bd.webp",
     "source": "luma-crypto",
     "hosts": [
       "Web3 Business Hub",
@@ -7507,7 +7443,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/fj0m1jbj",
     "registrationUrl": "https://luma.com/fj0m1jbj",
-    "coverImage": "https://images.lumacdn.com/uploads/iw/af59c441-90c2-4d77-9958-5a30a99a8b4e.png",
+    "coverImage": "/events/luma-crypto-230wowuvejcwaec-65c53298.webp",
     "source": "luma-crypto",
     "hosts": [
       "Sathishsharma R",
@@ -7554,7 +7490,7 @@
     "timezone": "Europe/Helsinki",
     "url": "https://luma.com/kz1noem1",
     "registrationUrl": "https://luma.com/kz1noem1",
-    "coverImage": "https://images.lumacdn.com/uploads/o6/195bb8c0-f157-4441-8528-7e7cba3aa6d1.jpg",
+    "coverImage": "/events/luma-crypto-t1gf4ar3gravyz9-bc00da69.webp",
     "source": "luma-crypto",
     "hosts": [
       "Martin Wichmann"
@@ -7592,7 +7528,7 @@
     "timezone": "Europe/Zurich",
     "url": "https://luma.com/q0awt375",
     "registrationUrl": "https://luma.com/q0awt375",
-    "coverImage": "https://images.lumacdn.com/uploads/5c/444f4514-4809-4dda-9940-1614283079f8.jpg",
+    "coverImage": "/events/luma-crypto-4shdeqlbtzvlbdu-dd903770.webp",
     "source": "luma-crypto",
     "hosts": [
       "Elyes .",
@@ -7664,7 +7600,7 @@
     "timezone": "Europe/Paris",
     "url": "https://luma.com/fsw28mw9",
     "registrationUrl": "https://luma.com/fsw28mw9",
-    "coverImage": "https://images.lumacdn.com/uploads/p7/71400ef4-aa8a-433e-9532-f841880534bd.png",
+    "coverImage": "/events/luma-crypto-ae0uoxmoq4assvd-6ad45d3b.webp",
     "source": "luma-crypto",
     "hosts": [
       "BOUDDA Yassir",
@@ -7718,7 +7654,7 @@
     "timezone": "Europe/Dublin",
     "url": "https://luma.com/59uk2nbr",
     "registrationUrl": "https://luma.com/59uk2nbr",
-    "coverImage": "https://images.lumacdn.com/uploads/3p/37f92c05-9898-43c5-b579-dc1e9efc3e09.png",
+    "coverImage": "/events/luma-crypto-blujbmnvgvrzusz-c6680bf1.webp",
     "source": "luma-crypto",
     "hosts": [
       "Stuart Schneller"
@@ -7767,7 +7703,7 @@
     "timezone": "America/Sao_Paulo",
     "url": "https://luma.com/dhx77plz",
     "registrationUrl": "https://luma.com/dhx77plz",
-    "coverImage": "https://images.lumacdn.com/uploads/cz/d05a3614-489e-4080-b964-653dd9d0572f.png",
+    "coverImage": "/events/luma-crypto-s1fz5x7dtoxkuj8-6af72c9b.webp",
     "source": "luma-crypto",
     "hosts": [
       "Raíssa Cillero",
@@ -7816,7 +7752,7 @@
     "timezone": "America/New_York",
     "url": "https://luma.com/synjdki8",
     "registrationUrl": "https://luma.com/synjdki8",
-    "coverImage": "https://images.lumacdn.com/uploads/jo/71d3e36e-f66d-40aa-a8fe-8169686ff44b.png",
+    "coverImage": "/events/luma-crypto-o4ehyjegwacggzs-a392ec76.webp",
     "source": "luma-crypto",
     "hosts": [
       "Penn Blockchain",
@@ -7862,7 +7798,7 @@
     "timezone": "America/New_York",
     "url": "https://luma.com/r9ihyj7i",
     "registrationUrl": "https://luma.com/r9ihyj7i",
-    "coverImage": "https://images.lumacdn.com/uploads/qp/267704df-36cc-474a-873b-15bc95cb6068.png",
+    "coverImage": "/events/luma-crypto-ovk1sikb2iqgw5b-3d3c2bb9.webp",
     "source": "luma-crypto",
     "hosts": [
       "Cyclops",
@@ -7906,7 +7842,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/rewired-sff",
     "registrationUrl": "https://luma.com/rewired-sff",
-    "coverImage": "https://images.lumacdn.com/uploads/s6/3eacf713-9759-4ccc-90d0-34466638829b.png",
+    "coverImage": "/events/luma-crypto-79xnpm1wrggsqxh-1a77c9fe.webp",
     "source": "luma-crypto",
     "hosts": [
       "Cobo",
@@ -7953,7 +7889,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/2f61b5sd",
     "registrationUrl": "https://luma.com/2f61b5sd",
-    "coverImage": "https://images.lumacdn.com/uploads/1p/4082c4ac-6111-4051-be2d-a397635fd4c3.jpg",
+    "coverImage": "/events/luma-crypto-ztfpgulmarzq4si-8949d332.webp",
     "source": "luma-crypto",
     "hosts": [
       "Alen Carrera de Souza",
@@ -8005,7 +7941,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/r0vxq6t9",
     "registrationUrl": "https://luma.com/r0vxq6t9",
-    "coverImage": "https://images.lumacdn.com/uploads/wp/19df9373-46a9-4b6c-bae0-294898070c8d.png",
+    "coverImage": "/events/luma-crypto-bfz17fcvg4vfeou-a591a967.webp",
     "source": "luma-crypto",
     "hosts": [
       "BIT",
@@ -8045,7 +7981,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/codexfx-3dkg",
     "registrationUrl": "https://luma.com/codexfx-3dkg",
-    "coverImage": "https://images.lumacdn.com/uploads/jc/eb44c9bf-043e-458c-ac21-0880342b4178.png",
+    "coverImage": "/events/luma-crypto-fsae4v2bynx3dmc-42bc764b.webp",
     "source": "luma-crypto",
     "hosts": [
       "Ben Paul",
@@ -8090,7 +8026,7 @@
     "timezone": "Europe/Zurich",
     "url": "https://luma.com/zz7r5gum",
     "registrationUrl": "https://luma.com/zz7r5gum",
-    "coverImage": "https://images.lumacdn.com/uploads/bl/01c9a56f-58f3-4173-bba8-0c4b52e1c2c1.jpg",
+    "coverImage": "/events/luma-crypto-fkh8qb0molzi5kz-4db34a1b.webp",
     "source": "luma-crypto",
     "hosts": [
       "Selim Hariga",
@@ -8142,7 +8078,7 @@
     "timezone": "Europe/Madrid",
     "url": "https://luma.com/trmlabs-12df",
     "registrationUrl": "https://luma.com/trmlabs-12df",
-    "coverImage": "https://images.lumacdn.com/uploads/3b/ee89c2cd-84c4-481c-add5-cbd82ac2ede5.jpg",
+    "coverImage": "/events/luma-crypto-gopafb4lqn64odt-8207632e.webp",
     "source": "luma-crypto",
     "hosts": [
       "TRM Labs",
@@ -8186,7 +8122,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/hos-workshops-alchemy",
     "registrationUrl": "https://luma.com/hos-workshops-alchemy",
-    "coverImage": "https://images.lumacdn.com/uploads/zm/d08e94ce-f4f2-4dee-a0e5-b2eb9422dbf5.png",
+    "coverImage": "/events/luma-crypto-huwaz1rtt1bmcux-0b421be5.webp",
     "source": "luma-crypto",
     "hosts": [
       "Alchemy"
@@ -8233,7 +8169,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/7q5g8hwc",
     "registrationUrl": "https://luma.com/7q5g8hwc",
-    "coverImage": "https://images.lumacdn.com/uploads/3l/0ad2c27e-4cef-459c-b698-a64a9d828017.jpg",
+    "coverImage": "/events/luma-crypto-u6pvael2xw4xepn-5a53a0b5.webp",
     "source": "luma-crypto",
     "hosts": [
       "LevendiPro",
@@ -8280,7 +8216,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/gpeo2awb",
     "registrationUrl": "https://luma.com/gpeo2awb",
-    "coverImage": "https://images.lumacdn.com/uploads/ge/dbd979d1-5349-4b0d-89f5-31e7e5955152.png",
+    "coverImage": "/events/luma-crypto-tibwtxurlflv6da-ad95199a.webp",
     "source": "luma-crypto",
     "hosts": [
       "Ioana Bratinka",
@@ -8326,7 +8262,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/adcvm4ny",
     "registrationUrl": "https://luma.com/adcvm4ny",
-    "coverImage": "https://images.lumacdn.com/uploads/pz/9389304a-735e-4b32-bdb7-13f6ccb0602e.png",
+    "coverImage": "/events/luma-crypto-bbn3u6u8lmve9yr-249aba03.webp",
     "source": "luma-crypto",
     "hosts": [
       "TAO Socials"
@@ -8391,7 +8327,7 @@
     "timezone": "America/Toronto",
     "url": "https://luma.com/k4ofil9o",
     "registrationUrl": "https://luma.com/k4ofil9o",
-    "coverImage": "https://images.lumacdn.com/uploads/5z/ff712fde-d0e1-4244-a1c1-ef4e6f7dc1aa.png",
+    "coverImage": "/events/luma-crypto-lk5gg3ihnej1g0l-9e133ddb.webp",
     "source": "luma-crypto",
     "hosts": [
       "Florent Thevenin"
@@ -8433,7 +8369,7 @@
     "timezone": "America/New_York",
     "url": "https://luma.com/8e5ttp0b",
     "registrationUrl": "https://luma.com/8e5ttp0b",
-    "coverImage": "https://images.lumacdn.com/event-covers/4v/1aa0da5d-051a-4d26-a3e6-3443b82235e5.png",
+    "coverImage": "/events/luma-crypto-pxcnkwcvhsklxhb-4967f10b.webp",
     "source": "luma-crypto",
     "hosts": [
       "ras",
@@ -8486,7 +8422,7 @@
     "timezone": "America/Chicago",
     "url": "https://luma.com/lumino-owux",
     "registrationUrl": "https://luma.com/lumino-owux",
-    "coverImage": "https://images.lumacdn.com/uploads/a6/3db927b4-930c-482a-b10d-35ebf34a545b.jpg",
+    "coverImage": "/events/luma-crypto-tmntiysivmbek6e-5f598a89.webp",
     "source": "luma-crypto",
     "hosts": [
       "Giorgio Riccio"
@@ -8536,7 +8472,7 @@
     "timezone": "America/Chicago",
     "url": "https://luma.com/ubckickoffeventwithakash",
     "registrationUrl": "https://luma.com/ubckickoffeventwithakash",
-    "coverImage": "https://images.lumacdn.com/uploads/z8/79a40ae6-24de-41f8-8048-0b9270af9d3e.png",
+    "coverImage": "/events/luma-crypto-5pxbkuxgdtawgxk-ae88b74f.webp",
     "source": "luma-crypto",
     "hosts": [
       "Akash Network",
@@ -8591,7 +8527,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/e9rl9l0b",
     "registrationUrl": "https://luma.com/e9rl9l0b",
-    "coverImage": "https://images.lumacdn.com/uploads/4u/bb598d23-201a-4ba0-aea6-1f66b0e3820b.png",
+    "coverImage": "/events/luma-crypto-tacyvb4jywktqlg-36be6efc.webp",
     "source": "luma-crypto",
     "hosts": [
       "Chia Hock Lai",
@@ -8641,7 +8577,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/hpz99yp0",
     "registrationUrl": "https://luma.com/hpz99yp0",
-    "coverImage": "https://images.lumacdn.com/uploads/9v/07bfa930-2516-4361-9093-1cfd0a7fd2d6.png",
+    "coverImage": "/events/luma-crypto-i5g2d23ght4aije-43c33019.webp",
     "source": "luma-crypto",
     "hosts": [
       "Terminal 3",
@@ -8684,7 +8620,7 @@
     "timezone": "Europe/Berlin",
     "url": "https://luma.com/icv7e9eu",
     "registrationUrl": "https://luma.com/icv7e9eu",
-    "coverImage": "https://images.lumacdn.com/event-covers/hw/dd69ef59-9360-4d40-8535-65e651ec692e.png",
+    "coverImage": "/events/luma-crypto-7nkxwmfb1vqfg4c-c5100962.webp",
     "source": "luma-crypto",
     "hosts": [
       "CV VC",
@@ -8728,7 +8664,7 @@
     "timezone": "Europe/Berlin",
     "url": "https://luma.com/emzyuj36",
     "registrationUrl": "https://luma.com/emzyuj36",
-    "coverImage": "https://images.lumacdn.com/event-covers/vg/179a8e91-d8a7-4f24-9e33-79df8933018c.jpg",
+    "coverImage": "/events/luma-crypto-tclbxyv9s3mlido-69c99ed2.webp",
     "source": "luma-crypto",
     "hosts": [
       "Superteam Germany"
@@ -8777,7 +8713,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/xk2rbumg",
     "registrationUrl": "https://luma.com/xk2rbumg",
-    "coverImage": "https://images.lumacdn.com/uploads/sz/9afe8cc6-c63d-4f8c-9edb-70e68c5ce190.png",
+    "coverImage": "/events/luma-crypto-cnzg5fqdlowqagl-0a8c2094.webp",
     "source": "luma-crypto",
     "hosts": [
       "Konrad Marzec",
@@ -8824,7 +8760,7 @@
     "timezone": "Asia/Jakarta",
     "url": "https://luma.com/ezltgedl",
     "registrationUrl": "https://luma.com/ezltgedl",
-    "coverImage": "https://images.lumacdn.com/uploads/rk/f600db34-b7db-4f30-8ac4-71b27127a11c.jpg",
+    "coverImage": "/events/luma-crypto-eax8n9l1mlroufu-706ea7e0.webp",
     "source": "luma-crypto",
     "hosts": [
       "Gold Indonesia Republic GOIDR"
@@ -8869,7 +8805,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/oksq7re3",
     "registrationUrl": "https://luma.com/oksq7re3",
-    "coverImage": "https://images.lumacdn.com/uploads/hn/62801fad-a6eb-45b9-8764-3f0acc40a2ec.png",
+    "coverImage": "/events/luma-crypto-cos2u2jikyv9kr3-7aaa15d6.webp",
     "source": "luma-crypto",
     "hosts": [
       "Money in Motion",
@@ -8916,7 +8852,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/p9e56ew7",
     "registrationUrl": "https://luma.com/p9e56ew7",
-    "coverImage": "https://images.lumacdn.com/uploads/6c/2bf7d30a-3426-4246-a2e6-5dc20276f952.png",
+    "coverImage": "/events/luma-crypto-humelbiy6bcswy7-e37a0e78.webp",
     "source": "luma-crypto",
     "hosts": [
       "Axel Blaize",
@@ -8956,7 +8892,7 @@
     "timezone": "Asia/Singapore",
     "url": "https://luma.com/01k4xxdf",
     "registrationUrl": "https://luma.com/01k4xxdf",
-    "coverImage": "https://images.lumacdn.com/uploads/i9/4e1a94e1-a857-48b2-8518-b142c77b63b5.png",
+    "coverImage": "/events/luma-crypto-mtgoy2crc193nlv-60199497.webp",
     "source": "luma-crypto",
     "hosts": [
       "Asia Web3 Ai Association (AWAA)",
@@ -9000,7 +8936,7 @@
     "timezone": "Europe/Istanbul",
     "url": "https://luma.com/1yjeh13p",
     "registrationUrl": "https://luma.com/1yjeh13p",
-    "coverImage": "https://images.lumacdn.com/event-covers/3s/fa084d6c-f9bf-4b66-abcf-9778645918bb.png",
+    "coverImage": "/events/luma-crypto-fjecladjkefmrar-9f52ad58.webp",
     "source": "luma-crypto",
     "hosts": [
       "Altcointurk"
@@ -9048,7 +8984,7 @@
     "timezone": "Europe/Warsaw",
     "url": "https://luma.com/qm7hs6jd",
     "registrationUrl": "https://luma.com/qm7hs6jd",
-    "coverImage": "https://images.lumacdn.com/uploads/ix/3b05191c-2db7-463a-b151-e132c0e39a51.jpg",
+    "coverImage": "/events/luma-crypto-n3lmjgcm8ypeqoj-38b03adf.webp",
     "source": "luma-crypto",
     "hosts": [
       "Invity"
@@ -9092,7 +9028,7 @@
     "timezone": "America/New_York",
     "url": "https://luma.com/fmut-ny",
     "registrationUrl": "https://luma.com/fmut-ny",
-    "coverImage": "https://images.lumacdn.com/uploads/e9/d0393c46-0772-467b-a95d-8b3e0a289674.png",
+    "coverImage": "/events/luma-crypto-2lkscii0jmkoljz-00b6e016.webp",
     "source": "luma-crypto",
     "hosts": [
       "Finch ai",
@@ -9137,7 +9073,7 @@
     "timezone": "America/Bogota",
     "url": "https://luma.com/agy0fqn5",
     "registrationUrl": "https://luma.com/agy0fqn5",
-    "coverImage": "https://images.lumacdn.com/uploads/wq/7ae1d0a2-3e50-4983-8f4f-34980d252988.png",
+    "coverImage": "/events/luma-crypto-8phg6xpocyftmkd-a0086493.webp",
     "source": "luma-crypto",
     "hosts": [
       "Sergio Mena",
@@ -9192,7 +9128,7 @@
     "timezone": "America/Sao_Paulo",
     "url": "https://luma.com/oi22soan",
     "registrationUrl": "https://luma.com/oi22soan",
-    "coverImage": "https://images.lumacdn.com/uploads/dz/10a8bb18-058b-4925-854f-e2aca1b907e3.png",
+    "coverImage": "/events/luma-crypto-evfydsnnr9woihf-ed012ac8.webp",
     "source": "luma-crypto",
     "hosts": [
       "Lucas Rodrigues",
@@ -9239,7 +9175,7 @@
     "timezone": "Asia/Tokyo",
     "url": "https://luma.com/zfn2zi9j",
     "registrationUrl": "https://luma.com/zfn2zi9j",
-    "coverImage": "https://images.lumacdn.com/event-covers/pe/2d18d0a8-f961-4e9e-ba22-24717d8e7a90",
+    "coverImage": "/events/luma-crypto-esxy05dqoh5vli7-9fe46213.webp",
     "source": "luma-crypto",
     "hosts": [
       "Omer"
@@ -9288,7 +9224,7 @@
     "timezone": "Europe/Amsterdam",
     "url": "https://luma.com/bqj3cnup",
     "registrationUrl": "https://luma.com/bqj3cnup",
-    "coverImage": "https://images.lumacdn.com/uploads/h7/3025675b-e268-4e92-a291-f27b1ef3f6af.jpg",
+    "coverImage": "/events/luma-crypto-ge7odibtdry0yao-8b8e3e1f.webp",
     "source": "luma-crypto",
     "hosts": [
       "Dutch Bitcoin Embassy"
@@ -9333,7 +9269,7 @@
     "timezone": "America/New_York",
     "url": "https://luma.com/nbnsla68",
     "registrationUrl": "https://luma.com/nbnsla68",
-    "coverImage": "https://images.lumacdn.com/uploads/eb/086112dc-4615-4b27-b431-11a527748a53.jpg",
+    "coverImage": "/events/luma-crypto-pcc7pxe07fyepz8-7f20214b.webp",
     "source": "luma-crypto",
     "hosts": [
       "Kimberly Maultsby",
@@ -9374,7 +9310,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/r5kqfaz0",
     "registrationUrl": "https://luma.com/r5kqfaz0",
-    "coverImage": "https://images.lumacdn.com/uploads/1b/c2c7648e-0d08-4de6-9c9d-6233253a7eb4.png",
+    "coverImage": "/events/luma-crypto-z1qjj1bbdxwfky4-a39b4f09.webp",
     "source": "luma-crypto",
     "hosts": [
       "Gagandeep Singh",
@@ -9419,7 +9355,7 @@
     "timezone": "America/New_York",
     "url": "https://luma.com/bdvzh2yg",
     "registrationUrl": "https://luma.com/bdvzh2yg",
-    "coverImage": "https://images.lumacdn.com/uploads/8j/3621424e-ec5f-43f9-b161-a5e0b8e532e5.jpg",
+    "coverImage": "/events/luma-crypto-4p9abfwpqntmxhb-e43fb6ed.webp",
     "source": "luma-crypto",
     "hosts": [
       "Lou Kerner"
@@ -9468,7 +9404,7 @@
     "timezone": "Asia/Seoul",
     "url": "https://luma.com/9szg4i77",
     "registrationUrl": "https://luma.com/9szg4i77",
-    "coverImage": "https://images.lumacdn.com/uploads/i4/675348a2-6e46-4771-951a-6e57bf2d5c73.png",
+    "coverImage": "/events/luma-crypto-2bki5qkhxlyiksg-43916088.webp",
     "source": "luma-crypto",
     "hosts": [
       "김승필"
@@ -9508,7 +9444,7 @@
     "timezone": "Asia/Hong_Kong",
     "url": "https://luma.com/gezicay0",
     "registrationUrl": "https://luma.com/gezicay0",
-    "coverImage": "https://images.lumacdn.com/uploads/8q/ae67d3d0-af01-4c03-a9a8-117b5db54890.png",
+    "coverImage": "/events/luma-crypto-i6is3zhdzd5sk4s-2bd3a7f5.webp",
     "source": "luma-crypto",
     "hosts": [
       "Longbridge Cafe",
@@ -9554,7 +9490,7 @@
     "timezone": "Europe/Vienna",
     "url": "https://luma.com/wvlbamwj",
     "registrationUrl": "https://luma.com/wvlbamwj",
-    "coverImage": "https://images.lumacdn.com/event-covers/qj/abbb2872-cfa3-4294-8f3d-351921f0ca47.jpg",
+    "coverImage": "/events/luma-crypto-lvs2yenfzfndxpo-06c095d0.webp",
     "source": "luma-crypto",
     "hosts": [
       "Dietmar"
@@ -9602,7 +9538,7 @@
     "timezone": "America/Toronto",
     "url": "https://luma.com/blockchainweekto",
     "registrationUrl": "https://luma.com/blockchainweekto",
-    "coverImage": "https://images.lumacdn.com/uploads/uz/6d4f3722-0a77-41ad-b028-3ff83558957c.gif",
+    "coverImage": "/events/luma-crypto-13wh0lucgcznsew-bb6ad27e.webp",
     "source": "luma-crypto",
     "hosts": [
       "Web3TO"
@@ -9643,7 +9579,7 @@
     "timezone": "Europe/Prague",
     "url": "https://luma.com/psj2b11a",
     "registrationUrl": "https://luma.com/psj2b11a",
-    "coverImage": "https://images.lumacdn.com/gallery-images/j5/e0d9e03b-63b3-452b-8899-3fc8f848a4bb",
+    "coverImage": "/events/luma-crypto-5mtbyxml59abjlv-5f1e611c.webp",
     "source": "luma-crypto",
     "hosts": [
       "Radek Švarz"
@@ -9692,7 +9628,7 @@
     "timezone": "Asia/Bangkok",
     "url": "https://luma.com/n5y1y7cu",
     "registrationUrl": "https://luma.com/n5y1y7cu",
-    "coverImage": "https://images.lumacdn.com/uploads/b7/21f7f5f2-1428-43f3-9914-d19402c320c1.png",
+    "coverImage": "/events/luma-crypto-kfinrdzzsasud8z-bd4db64b.webp",
     "source": "luma-crypto",
     "hosts": [
       "Gwen",
@@ -9744,7 +9680,7 @@
     "timezone": "Europe/Madrid",
     "url": "https://luma.com/w27n3pu8",
     "registrationUrl": "https://luma.com/w27n3pu8",
-    "coverImage": "https://images.lumacdn.com/uploads/r9/bceaed4f-7cf5-4d8e-bec3-c2ee59406ffd.jpg",
+    "coverImage": "/events/luma-crypto-jau4xwteny6rfek-df20a6a4.webp",
     "source": "luma-crypto",
     "hosts": [
       "Finect Company"
@@ -9789,7 +9725,7 @@
     "timezone": "Asia/Dubai",
     "url": "https://luma.com/uaenationaldaylunchsolana",
     "registrationUrl": "https://luma.com/uaenationaldaylunchsolana",
-    "coverImage": "https://images.lumacdn.com/uploads/du/66766bb0-fec1-418b-8831-604be33e8512.png",
+    "coverImage": "/events/luma-crypto-olzltp4u8bchdj1-95cc2bfa.webp",
     "source": "luma-crypto",
     "hosts": [
       "Superteam Middle East"
@@ -9832,7 +9768,7 @@
     "timezone": "Europe/Amsterdam",
     "url": "https://luma.com/o97gbshj",
     "registrationUrl": "https://luma.com/o97gbshj",
-    "coverImage": "https://images.lumacdn.com/uploads/3o/a0f3d083-ded9-49f9-8059-df8218ea9f5d.png",
+    "coverImage": "/events/luma-crypto-0zlrafpfjpwredr-e5d58b52.webp",
     "source": "luma-crypto",
     "hosts": [
       "CryptoCanal"
@@ -9881,7 +9817,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/p2y6kowo",
     "registrationUrl": "https://luma.com/p2y6kowo",
-    "coverImage": "https://images.lumacdn.com/uploads/7y/580cf4ec-8493-4b9a-b1b9-fab95709bf8f.png",
+    "coverImage": "/events/luma-crypto-qejdokqlkeysumg-5f7bbc0d.webp",
     "source": "luma-crypto",
     "hosts": [
       "Lana Fowler",
@@ -9932,7 +9868,7 @@
     "timezone": "Europe/Zurich",
     "url": "https://luma.com/widzr06p",
     "registrationUrl": "https://luma.com/widzr06p",
-    "coverImage": "https://images.lumacdn.com/uploads/jp/ea0aec9f-84e7-4005-883e-388afd1f298d.png",
+    "coverImage": "/events/luma-crypto-itknvwsbr0gsys9-5204eada.webp",
     "source": "luma-crypto",
     "hosts": [
       "Andrea Barbon",
@@ -9981,7 +9917,7 @@
     "timezone": "Asia/Dubai",
     "url": "https://luma.com/demodh21",
     "registrationUrl": "https://luma.com/demodh21",
-    "coverImage": "https://images.lumacdn.com/uploads/tj/45d0817f-7c46-44c5-a486-1d656978eec7.jpg",
+    "coverImage": "/events/luma-crypto-ysajkqibqxi7bcu-76609c77.webp",
     "source": "luma-crypto",
     "hosts": [
       "Daniela Di Noi",
@@ -10027,7 +9963,7 @@
     "timezone": "Europe/Zurich",
     "url": "https://luma.com/35i6ac0j",
     "registrationUrl": "https://luma.com/35i6ac0j",
-    "coverImage": "https://images.lumacdn.com/uploads/sv/0e8f91f5-dc8e-4aed-a305-9873781e3519.jpg",
+    "coverImage": "/events/luma-crypto-dmlmlknoli5pfxo-48ff53bf.webp",
     "source": "luma-crypto",
     "hosts": [
       "Jules Delforge",
@@ -10076,7 +10012,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/encode-8amm",
     "registrationUrl": "https://luma.com/encode-8amm",
-    "coverImage": "https://images.lumacdn.com/uploads/80/538ef0d9-c7db-4b40-90c2-7ad344bf6cd7.jpg",
+    "coverImage": "/events/luma-crypto-nvy8wyomaa91iaf-ee49c560.webp",
     "source": "luma-crypto",
     "hosts": [
       "Encode Club",
@@ -10128,7 +10064,7 @@
     "timezone": "Europe/Berlin",
     "url": "https://luma.com/d50b4nsz",
     "registrationUrl": "https://luma.com/d50b4nsz",
-    "coverImage": "https://images.lumacdn.com/uploads/tu/f31fd6fb-699d-4184-ad9f-25ba9b288d8e.png",
+    "coverImage": "/events/luma-crypto-tqadhliafrebgqx-6e892aa5.webp",
     "source": "luma-crypto",
     "hosts": [
       "UN:BLOCK",
@@ -10173,7 +10109,7 @@
     "timezone": "Europe/Paris",
     "url": "https://luma.com/l27el96p",
     "registrationUrl": "https://luma.com/l27el96p",
-    "coverImage": "https://images.lumacdn.com/uploads/41/2e784d61-4f39-4176-99ef-8ff575b84140.png",
+    "coverImage": "/events/luma-crypto-wmgpbvi24uc9hhw-86c2abc9.webp",
     "source": "luma-crypto",
     "hosts": [
       "OKX Europe",
@@ -10214,7 +10150,7 @@
     "timezone": "Asia/Bangkok",
     "url": "https://luma.com/yrepqbt1",
     "registrationUrl": "https://luma.com/yrepqbt1",
-    "coverImage": "https://images.lumacdn.com/uploads/xi/d2a318b1-f866-40fb-a669-293eb380ef3a.png",
+    "coverImage": "/events/luma-crypto-iedvetj209wsiud-77730a6c.webp",
     "source": "luma-crypto",
     "hosts": [
       "Ultra Web3 Festival 2026"
@@ -10265,7 +10201,7 @@
     "timezone": "Asia/Bangkok",
     "url": "https://luma.com/1x1dm62n",
     "registrationUrl": "https://luma.com/1x1dm62n",
-    "coverImage": "https://images.lumacdn.com/uploads/qu/1b72efda-18f0-454a-8c2c-60945671e70c.jpg",
+    "coverImage": "/events/luma-crypto-sqectrgjfjchn87-9f7bbfbc.webp",
     "source": "luma-crypto",
     "hosts": [
       "GAEA Ventures"
@@ -10307,7 +10243,7 @@
     "timezone": "Asia/Bangkok",
     "url": "https://luma.com/ee3r35l5",
     "registrationUrl": "https://luma.com/ee3r35l5",
-    "coverImage": "https://images.lumacdn.com/uploads/xo/e561c596-d367-4785-89cd-8a5d764de4a5.png",
+    "coverImage": "/events/luma-crypto-ravydpefxq28xs0-f76fc8b0.webp",
     "source": "luma-crypto",
     "hosts": [
       "Elephants Inc.",
@@ -10354,7 +10290,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/t7lb04mp",
     "registrationUrl": "https://luma.com/t7lb04mp",
-    "coverImage": "https://images.lumacdn.com/uploads/27/d97917a6-b1c0-475e-a49c-27aa1a98ddf6.png",
+    "coverImage": "/events/luma-crypto-ofdgicwjctwsc5b-a5c980d9.webp",
     "source": "luma-crypto",
     "hosts": [
       "Yasmina Kazitani",
@@ -10405,7 +10341,7 @@
     "timezone": "Europe/Istanbul",
     "url": "https://luma.com/fsi1g9wk",
     "registrationUrl": "https://luma.com/fsi1g9wk",
-    "coverImage": "https://images.lumacdn.com/event-covers/3s/fa084d6c-f9bf-4b66-abcf-9778645918bb.png",
+    "coverImage": "/events/luma-crypto-cygsi1ot8bgizc1-caf9c619.webp",
     "source": "luma-crypto",
     "hosts": [
       "Altcointurk"
@@ -10453,7 +10389,7 @@
     "timezone": "Asia/Kuala_Lumpur",
     "url": "https://luma.com/mbi08x4c",
     "registrationUrl": "https://luma.com/mbi08x4c",
-    "coverImage": "https://images.lumacdn.com/uploads/s3/794924e7-558d-499f-8d34-f64627857f10.png",
+    "coverImage": "/events/luma-crypto-pxlu27dfr5x9lhd-a8d28426.webp",
     "source": "luma-crypto",
     "hosts": [
       "DoMore MY"
@@ -10497,7 +10433,7 @@
     "timezone": "Australia/Sydney",
     "url": "https://luma.com/eynimwzr",
     "registrationUrl": "https://luma.com/eynimwzr",
-    "coverImage": "https://images.lumacdn.com/uploads/nf/4fe75324-7c9f-4ae7-a875-d99cdb1de8f6.png",
+    "coverImage": "/events/luma-crypto-yza4vsonv1vq7aq-1a36073d.webp",
     "source": "luma-crypto",
     "hosts": [
       "Sixth Society"
@@ -10545,7 +10481,7 @@
     "timezone": "Asia/Bangkok",
     "url": "https://luma.com/sw7x7fym",
     "registrationUrl": "https://luma.com/sw7x7fym",
-    "coverImage": "https://images.lumacdn.com/uploads/gm/9aac95f4-55bb-45ed-b4c2-7fde00d50d95.png",
+    "coverImage": "/events/luma-crypto-hahqejg37w2mkya-c865cb89.webp",
     "source": "luma-crypto",
     "hosts": [
       "botany.tech",
@@ -10607,7 +10543,7 @@
     "timezone": "Asia/Bangkok",
     "url": "https://luma.com/xbucai65",
     "registrationUrl": "https://luma.com/xbucai65",
-    "coverImage": "https://images.lumacdn.com/uploads/3x/f437493c-c2a4-474b-9bbb-8392d315f710.png",
+    "coverImage": "/events/luma-crypto-ejvjyoxzkhmmgkr-a6e18c15.webp",
     "source": "luma-crypto",
     "hosts": [
       "4M"
@@ -10653,7 +10589,7 @@
     "timezone": "Asia/Kolkata",
     "url": "https://luma.com/42jg53zj",
     "registrationUrl": "https://luma.com/42jg53zj",
-    "coverImage": "https://images.lumacdn.com/uploads/fz/ee4e6c40-c2fb-48cb-a0b0-b92197f190d9.jpg",
+    "coverImage": "/events/luma-crypto-wfbz2ubmgrlbiab-bf1304ab.webp",
     "source": "luma-crypto",
     "hosts": [
       "paperpsych",
@@ -10698,7 +10634,7 @@
     "timezone": "Asia/Tokyo",
     "url": "https://luma.com/qp1s3ixo",
     "registrationUrl": "https://luma.com/qp1s3ixo",
-    "coverImage": "https://images.lumacdn.com/uploads/9k/8d64583b-cf07-4a99-8178-5f03b0e21bcf.png",
+    "coverImage": "/events/luma-crypto-cutfljtqgaghmnj-1444ec9c.webp",
     "source": "luma-crypto",
     "hosts": [
       "Yuichi Murakami",
@@ -10751,7 +10687,7 @@
     "timezone": "Europe/Istanbul",
     "url": "https://luma.com/unitour3-piri-reis-university",
     "registrationUrl": "https://luma.com/unitour3-piri-reis-university",
-    "coverImage": "https://images.lumacdn.com/uploads/6k/a3df8570-393d-43cf-9331-a7b0e2834e08.png",
+    "coverImage": "/events/luma-crypto-vsytgpffttimdqc-09809af8.webp",
     "source": "luma-crypto",
     "hosts": [
       "Team1",
@@ -10803,7 +10739,7 @@
     "timezone": "America/Los_Angeles",
     "url": "https://luma.com/5d5kb5cd",
     "registrationUrl": "https://luma.com/5d5kb5cd",
-    "coverImage": "https://images.lumacdn.com/uploads/5s/1921f54a-5e75-406f-b1cf-560524d94c7d.png",
+    "coverImage": "/events/luma-crypto-l8vgld9ss7cnoem-e669e491.webp",
     "source": "luma-crypto",
     "hosts": [
       "StripeDevelopers"
@@ -10852,7 +10788,7 @@
     "timezone": "Europe/Zurich",
     "url": "https://luma.com/l2kt3ztz",
     "registrationUrl": "https://luma.com/l2kt3ztz",
-    "coverImage": "https://images.lumacdn.com/uploads/yq/0e26621d-fa0a-4d34-8234-b2345d1daa20.png",
+    "coverImage": "/events/luma-crypto-oiyj97r9awjwy1a-dd17e9ff.webp",
     "source": "luma-crypto",
     "hosts": [
       "BIT Asset Management AG"
@@ -10896,7 +10832,7 @@
     "timezone": "Europe/Paris",
     "url": "https://luma.com/harmonia-paris",
     "registrationUrl": "https://luma.com/harmonia-paris",
-    "coverImage": "https://images.lumacdn.com/uploads/54/7c9ef00d-ca27-480a-862c-63c38443c22a.png",
+    "coverImage": "/events/luma-crypto-b61uvuccwugoxkn-2f93852b.webp",
     "source": "luma-crypto",
     "organizer": {
       "type": "Organization",
@@ -10936,7 +10872,7 @@
     "timezone": "America/New_York",
     "url": "https://luma.com/tbwnyc",
     "registrationUrl": "https://luma.com/tbwnyc",
-    "coverImage": "https://images.lumacdn.com/uploads/6w/44d023d3-e042-4a59-90fd-0908f9b04948.png",
+    "coverImage": "/events/luma-crypto-4fuwehkygldmkjy-694ee64d.webp",
     "source": "luma-crypto",
     "hosts": [
       "The Big Whale",
@@ -11002,7 +10938,7 @@
     "timezone": "America/Toronto",
     "url": "https://luma.com/43gnhkuz",
     "registrationUrl": "https://luma.com/43gnhkuz",
-    "coverImage": "https://images.lumacdn.com/uploads/fw/f1b1727c-54ed-4047-8762-c48b9274e8c4.png",
+    "coverImage": "/events/luma-crypto-eqlii8wbjkcdzbj-b13bde0c.webp",
     "source": "luma-crypto",
     "hosts": [
       "Finance Montréal"
@@ -11048,7 +10984,7 @@
     "timezone": "America/New_York",
     "url": "https://luma.com/bitbasel-u8lo",
     "registrationUrl": "https://luma.com/bitbasel-u8lo",
-    "coverImage": "https://images.lumacdn.com/uploads/sm/76b4ab13-5a09-4b64-92c8-c3849abee0bc.jpg",
+    "coverImage": "/events/luma-crypto-ux4idupr9suvyca-0e0eed5e.webp",
     "source": "luma-crypto",
     "hosts": [
       "BitBasel"
@@ -11097,7 +11033,7 @@
     "timezone": "America/New_York",
     "url": "https://luma.com/a1gnbxuw",
     "registrationUrl": "https://luma.com/a1gnbxuw",
-    "coverImage": "https://images.lumacdn.com/uploads/nc/fde8a3c4-cc81-4159-b00d-e7fe15b2ca63.png",
+    "coverImage": "/events/luma-crypto-q0wu8qx5jqyhcte-0f319cc8.webp",
     "source": "luma-crypto",
     "hosts": [
       "Kyle Shirkness"
@@ -11141,7 +11077,7 @@
     "timezone": "America/Toronto",
     "url": "https://luma.com/sjjctivh",
     "registrationUrl": "https://luma.com/sjjctivh",
-    "coverImage": "https://images.lumacdn.com/uploads/cs/d487d404-1d3a-4702-92d4-08f625cf431c.png",
+    "coverImage": "/events/luma-crypto-jof1u5vns21279t-a3a2dbdb.webp",
     "source": "luma-crypto",
     "hosts": [
       "Toronto DAO"
@@ -11184,7 +11120,7 @@
     "timezone": "Europe/Istanbul",
     "url": "https://luma.com/unitour3-istanbul-university",
     "registrationUrl": "https://luma.com/unitour3-istanbul-university",
-    "coverImage": "https://images.lumacdn.com/uploads/b5/48c3e586-c659-4184-bc51-815da166cbc5.png",
+    "coverImage": "/events/luma-crypto-aqp6nk3xfwefdaq-f41dd611.webp",
     "source": "luma-crypto",
     "hosts": [
       "Hursel Cay",
@@ -11259,7 +11195,7 @@
     "timezone": "Asia/Tokyo",
     "url": "https://luma.com/f5zsgbth",
     "registrationUrl": "https://luma.com/f5zsgbth",
-    "coverImage": "https://images.lumacdn.com/uploads/8r/e0367387-f3eb-4df5-ab5e-8d049d5176d5.png",
+    "coverImage": "/events/luma-crypto-9xezexhvhwipogp-919b3f82.webp",
     "source": "luma-crypto",
     "hosts": [
       "Tokyo Bitcoin Base"
@@ -11309,7 +11245,7 @@
     "timezone": "Europe/Istanbul",
     "url": "https://luma.com/ezx1cuxp",
     "registrationUrl": "https://luma.com/ezx1cuxp",
-    "coverImage": "https://images.lumacdn.com/event-covers/3s/fa084d6c-f9bf-4b66-abcf-9778645918bb.png",
+    "coverImage": "/events/luma-crypto-sbz2et7tlxqbey9-42de9ccf.webp",
     "source": "luma-crypto",
     "hosts": [
       "Altcointurk"
@@ -11357,7 +11293,7 @@
     "timezone": "America/Vancouver",
     "url": "https://luma.com/pudgy-vancouverholiday2026",
     "registrationUrl": "https://luma.com/pudgy-vancouverholiday2026",
-    "coverImage": "https://images.lumacdn.com/uploads/n9/0936df2d-c759-4a51-a885-c0f938e4c9d2.png",
+    "coverImage": "/events/luma-crypto-6sq684bokhrdd3j-0bebfed4.webp",
     "source": "luma-crypto",
     "hosts": [
       "Berko",
@@ -11402,7 +11338,7 @@
     "timezone": "Asia/Tokyo",
     "url": "https://luma.com/zg0lx8up",
     "registrationUrl": "https://luma.com/zg0lx8up",
-    "coverImage": "https://images.lumacdn.com/event-covers/ep/538d469f-5091-4e13-bb69-e1cc571a31c6",
+    "coverImage": "/events/luma-crypto-zfz00mr44slptbg-757df210.webp",
     "source": "luma-crypto",
     "hosts": [
       "CORGEAR",
@@ -11445,7 +11381,7 @@
     "timezone": "Asia/Jerusalem",
     "url": "https://luma.com/us0rtp4u",
     "registrationUrl": "https://luma.com/us0rtp4u",
-    "coverImage": "https://images.lumacdn.com/uploads/32/a28c9a85-536f-491a-9844-bc40e556a16d.png",
+    "coverImage": "/events/luma-crypto-2qrbwmbiisabclw-9388362c.webp",
     "source": "luma-crypto",
     "hosts": [
       "Web3 Developers Underground Community"
@@ -11535,7 +11471,7 @@
     "timezone": "Europe/Amsterdam",
     "url": "https://luma.com/tcj68hdu",
     "registrationUrl": "https://luma.com/tcj68hdu",
-    "coverImage": "https://images.lumacdn.com/uploads/yt/ca6fd41a-7d2e-4151-b92d-3cc1c53885e8.jpg",
+    "coverImage": "/events/luma-crypto-pnxmx9kwym4saro-3345dbf8.webp",
     "source": "luma-crypto",
     "hosts": [
       "Crypto Women Collective"
@@ -11605,7 +11541,7 @@
     "timezone": "Europe/Istanbul",
     "url": "https://luma.com/e1m95ha3",
     "registrationUrl": "https://luma.com/e1m95ha3",
-    "coverImage": "https://images.lumacdn.com/event-covers/3s/fa084d6c-f9bf-4b66-abcf-9778645918bb.png",
+    "coverImage": "/events/luma-crypto-scshtgvcyflio7t-e2b4c3d2.webp",
     "source": "luma-crypto",
     "hosts": [
       "Altcointurk"
@@ -11653,7 +11589,7 @@
     "timezone": "America/New_York",
     "url": "https://luma.com/0tb6x2v6",
     "registrationUrl": "https://luma.com/0tb6x2v6",
-    "coverImage": "https://images.lumacdn.com/uploads/y7/c6149214-a5c2-4639-a0c1-eac28657c4e2.jpg",
+    "coverImage": "/events/luma-crypto-6pcyonzwhkpcqyz-6cdff1e0.webp",
     "source": "luma-crypto",
     "hosts": [
       "Manuel Rinaldi"
@@ -11695,7 +11631,7 @@
     "timezone": "Asia/Jakarta",
     "url": "https://luma.com/8ys4wfr6",
     "registrationUrl": "https://luma.com/8ys4wfr6",
-    "coverImage": "https://images.lumacdn.com/uploads/af/b84e87d3-4085-4ba8-ab59-c661f0ff1fed.jpg",
+    "coverImage": "/events/luma-crypto-h9yibmt0w1icgyl-27138f2a.webp",
     "source": "luma-crypto",
     "hosts": [
       "Sulianto Indria Putra",
@@ -11755,7 +11691,7 @@
     "timezone": "Europe/Prague",
     "url": "https://luma.com/4uuukqoc",
     "registrationUrl": "https://luma.com/4uuukqoc",
-    "coverImage": "https://images.lumacdn.com/uploads/wj/2dfd68d7-879f-43f4-b73f-24265688aa18.png",
+    "coverImage": "/events/luma-crypto-xocqswleoxlqazh-6db5406b.webp",
     "source": "luma-crypto",
     "hosts": [
       "ETHPrague"
@@ -11799,7 +11735,7 @@
     "timezone": "America/New_York",
     "url": "https://luma.com/v5d1arbu",
     "registrationUrl": "https://luma.com/v5d1arbu",
-    "coverImage": "https://images.lumacdn.com/uploads/c0/6cc101b0-5f9b-4e34-91a8-98139eac19e9.jpg",
+    "coverImage": "/events/luma-crypto-cta3b7bi8q8as9q-1e71cc44.webp",
     "source": "luma-crypto",
     "hosts": [
       "WebWipe",
@@ -11845,7 +11781,7 @@
     "timezone": "America/Chicago",
     "url": "https://luma.com/1uniw2n0",
     "registrationUrl": "https://luma.com/1uniw2n0",
-    "coverImage": "https://images.lumacdn.com/event-covers/ly/4ec4f79b-6df5-4d28-b694-312d41f4823b.png",
+    "coverImage": "/events/luma-crypto-lt6bjkpa48lfarp-c39e459f.webp",
     "source": "luma-crypto",
     "hosts": [
       "Car"
@@ -11895,7 +11831,7 @@
     "timezone": "Asia/Tokyo",
     "url": "https://luma.com/aep1depi",
     "registrationUrl": "https://luma.com/aep1depi",
-    "coverImage": "https://images.lumacdn.com/uploads/23/51b2e831-6dac-4e4e-9d12-77694a6da1d5.png",
+    "coverImage": "/events/luma-crypto-eecfhkc5nfuerq9-cec63041.webp",
     "source": "luma-crypto",
     "hosts": [
       "YukiHashimoto",
@@ -11950,7 +11886,7 @@
     "timezone": "Asia/Tokyo",
     "url": "https://luma.com/bcs2027",
     "registrationUrl": "https://luma.com/bcs2027",
-    "coverImage": "https://images.lumacdn.com/uploads/n0/94d564f4-b2d6-48c1-aad7-6545e72a54f2.png",
+    "coverImage": "/events/luma-crypto-akh57qtzkdovtep-fdcdeee6.webp",
     "source": "luma-crypto",
     "hosts": [
       "Pacific Meta"
@@ -12000,7 +11936,7 @@
     "timezone": "Australia/Sydney",
     "url": "https://luma.com/xrp-australia-2027",
     "registrationUrl": "https://luma.com/xrp-australia-2027",
-    "coverImage": "https://images.lumacdn.com/uploads/18/2f19a551-5cb9-42da-b71a-0710c6a9f6d0.png",
+    "coverImage": "/events/luma-crypto-imyrcborxpoyssf-49bca7fb.webp",
     "source": "luma-crypto",
     "hosts": [
       "Wave of Innovation"
@@ -12048,7 +11984,7 @@
     "timezone": "Asia/Dubai",
     "url": "https://luma.com/09ucswsa",
     "registrationUrl": "https://luma.com/09ucswsa",
-    "coverImage": "https://images.lumacdn.com/uploads/x1/128d6925-7619-4d64-b731-d0d95b9f23d9.png",
+    "coverImage": "/events/luma-crypto-zswoaardasgh1fd-a3cadc6b.webp",
     "source": "luma-crypto",
     "hosts": [
       "CV VC",
@@ -12115,7 +12051,7 @@
     "timezone": "Europe/London",
     "url": "https://luma.com/fwl27",
     "registrationUrl": "https://luma.com/fwl27",
-    "coverImage": "https://images.lumacdn.com/uploads/sg/33067ecb-eae5-46fc-b744-56804fc94829.png",
+    "coverImage": "/events/luma-crypto-aw8e5ksfspdy7tl-676b10ac.webp",
     "source": "luma-crypto",
     "hosts": [
       "Calypso Harland"

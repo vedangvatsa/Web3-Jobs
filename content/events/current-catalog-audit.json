@@ -14,22 +14,6 @@
   },
   "records": [
     {
-      "id": "w3v-crypto-worlds-fair-hackathon-by-colosseum",
-      "oldSlug": "cwsfhc",
-      "slug": "crypto-worlds-fair-hackathon",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 1658,
-      "characters": 1658,
-      "source": {
-        "url": "https://colosseum.com/worldsfair",
-        "fetchedAt": "2026-10-12T11:25:01.266Z",
-        "status": 200,
-        "sha256": "5d757a66e91b6d4a934d708705a99aa242e7f4b8c58301dcffddba637bec9bb6"
-      }
-    },
-    {
       "id": "luma-crypto-SmEV1KL3URBkN1p",
       "oldSlug": "tcacdihkoe",
       "slug": "tencent-cloud-ai-can-do-it-hackathon",
@@ -124,33 +108,6 @@
         "fetchedAt": "2026-10-12T12:02:30.853Z",
         "status": 200,
         "sha256": "9b40b6567aa4edd351324fe7cf3676e23f85b6288471c4eb2bfb43e319916711"
-      }
-    },
-    {
-      "id": "luma-crypto-mZkvPeUErlCZWoG",
-      "oldSlug": "cbh",
-      "slug": "company-brain-hackathon",
-      "candidate": false,
-      "outcome": "verified-expanded",
-      "descriptionChanged": true,
-      "previousCharacters": 3427,
-      "characters": 3491,
-      "factChanges": {
-        "startDate": "2026-10-12T19:30:00.000Z",
-        "ticketOffers": [
-          {
-            "name": "In-Person Only",
-            "url": "https://luma.com/oct-hackathon",
-            "price": 0,
-            "availability": "InStock"
-          }
-        ]
-      },
-      "source": {
-        "url": "https://luma.com/oct-hackathon",
-        "fetchedAt": "2026-10-12T11:25:02.123Z",
-        "status": 200,
-        "sha256": "2cbd487f8516dcad79bc5a4de678b23a928d5efff26fabe2f39a7ab030aa5b0e"
       }
     },
     {

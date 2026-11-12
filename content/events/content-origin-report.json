@@ -6,25 +6,6 @@
   "templates": 0,
   "events": [
     {
-      "id": "w3v-crypto-worlds-fair-hackathon-by-colosseum",
-      "slug": "cwsfhc",
-      "name": "Crypto World's Fair Hackathon by Colosseum",
-      "status": "source-backed",
-      "source": {
-        "url": "https://colosseum.com/worldsfair",
-        "fetchedAt": "2026-09-21T05:12:52.992Z"
-      },
-      "sections": [
-        "About the event",
-        "Crypto World's Fair",
-        "Awards and opportunities",
-        "Tracks",
-        "Judges",
-        "Accelerator",
-        "Livestream workshops"
-      ]
-    },
-    {
       "id": "luma-crypto-SmEV1KL3URBkN1p",
       "slug": "tcacdihkoe",
       "name": "Tencent Cloud AI CAN DO IT Hackathon Singapore 2026",
@@ -51,23 +32,6 @@
       },
       "sections": [
         "About the event"
-      ]
-    },
-    {
-      "id": "premier-bitchill-s04-2026",
-      "slug": "bitchill",
-      "name": "Bitchill s04",
-      "status": "source-backed",
-      "source": {
-        "url": "https://thebitcoindistrict.com/bitchill/",
-        "fetchedAt": "2026-09-20T00:20:50.933Z"
-      },
-      "sections": [
-        "About the event",
-        "August 17-22, 2026",
-        "every month",
-        "any time",
-        "A place to live free"
       ]
     },
     {
@@ -105,19 +69,6 @@
       ]
     },
     {
-      "id": "luma-batch-qBDGEmPcUp5hQOI",
-      "slug": "superteam-p637",
-      "name": "Deadline Day Check-in",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/superteam-p637",
-        "fetchedAt": "2026-09-22T11:31:03.000Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
       "id": "premier-tabconf",
       "slug": "tabconf",
       "name": "TABConf 8 2026",
@@ -131,26 +82,6 @@
         "Format",
         "Venue and tickets",
         "Mission"
-      ]
-    },
-    {
-      "id": "luma-crypto-mZkvPeUErlCZWoG",
-      "slug": "cbh",
-      "name": "Company Brain Hackathon: Build an AI Agent That Knows Your Organization",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/oct-hackathon",
-        "fetchedAt": "2026-09-19T23:49:06.774Z"
-      },
-      "sections": [
-        "About the event",
-        "Speakers",
-        "What to Expect",
-        "Sponsors & Partners",
-        "Who Should Attend",
-        "Important Details",
-        "Sponsorship Opportunities",
-        "Event Info"
       ]
     },
     {

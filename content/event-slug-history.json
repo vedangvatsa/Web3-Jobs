@@ -1,10 +1,4 @@
 {
-  "w3v-crypto-worlds-fair-hackathon-by-colosseum": {
-    "slug": "crypto-worlds-fair-hackathon",
-    "aliases": [
-      "cwsfhc"
-    ]
-  },
   "luma-crypto-SmEV1KL3URBkN1p": {
     "slug": "tencent-cloud-ai-can-do-it-hackathon",
     "aliases": [
@@ -13,10 +7,6 @@
   },
   "premier-ibt-tour-2026": {
     "slug": "ibt",
-    "aliases": []
-  },
-  "premier-bitchill-s04-2026": {
-    "slug": "bitchill",
     "aliases": []
   },
   "luma-batch-F8zatkGwjYGzv3V": {
@@ -31,19 +21,9 @@
       "gll"
     ]
   },
-  "luma-batch-qBDGEmPcUp5hQOI": {
-    "slug": "superteam-p637",
-    "aliases": []
-  },
   "premier-tabconf": {
     "slug": "tabconf",
     "aliases": []
-  },
-  "luma-crypto-mZkvPeUErlCZWoG": {
-    "slug": "company-brain-hackathon",
-    "aliases": [
-      "cbh"
-    ]
   },
   "luma-batch-evtceTF1z3WvKJ1i": {
     "slug": "digital-assets-regulation-asset-allocation",

@@ -1165,34 +1165,6 @@
     }
   },
   {
-    "id": "luma-batch-qBDGEmPcUp5hQOI",
-    "slug": "superteam-p637",
-    "name": "Deadline Day Check-in",
-    "description": "A short drop-in on deadline day.\n\nDeadline day. This is an open room for an hour in the middle of the day, in case something breaks at the worst possible moment.\n\nNo agenda and no presentation. If your video won't upload, your repo isn't public, your description won't fit, or you can't work out what a form field wants — come in and someone will help.\n\nGood luck. Submit early if you can; the platform is always slowest in the final hours.\n\nWho it's for: Anyone submitting today.\n\nYou'll leave with: A submitted entry.\n\nFree and open. Drop in if you need it.\n\nhttps://au.superteam.fun/colosseum for more information",
-    "startDate": "2026-10-12T01:00:00.000Z",
-    "endDate": "2026-10-12T02:00:00.000Z",
-    "url": "https://luma.com/superteam-p637",
-    "registrationUrl": "https://luma.com/superteam-p637",
-    "coverImage": "/events/luma-batch-qBDGEmPcUp5hQOI-50f9d5bf.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Darren R",
-      "Superteam Australia"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "Australia/Sydney",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "sourceVerification": {
-      "url": "https://luma.com/superteam-p637",
-      "eventId": "calev-qBDGEmPcUp5hQOI",
-      "fetchedAt": "2026-09-22T11:31:03.000Z",
-      "method": "luma-page",
-      "apifyRunId": "WHcLsVUsFvlHmcVYz"
-    }
-  },
-  {
     "id": "luma-batch-0boKcuyLBEPRDoT",
     "slug": "london-oct-16",
     "name": "Co-Working Fridays : London Chapter",

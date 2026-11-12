@@ -76,32 +76,6 @@
     "addressLocality": "Beograd"
   },
   {
-    "id": "w3v-crypto-worlds-fair-hackathon-by-colosseum",
-    "name": "Crypto World's Fair Hackathon by Colosseum",
-    "description": "An online hackathon bringing together builders and founders across all crypto ecosystems to launch breakout startups\n\nCrypto World's Fair\n\nCrypto World's Fair is an open competition of the ideas, technologies, and communities shaping the blockchain ecosystem. Builders and founders exhibit the products and innovations driving the next wave of crypto startups that bring the world's markets onchain. Submissions are due October 12, 2026\n\nAwards and opportunities\n\nTeams compete for $840,000 in prizes and $2.5 million in seed funding, including a $30,000 grand prize and $300,000 shared across the next 20 best projects. All hackathon winners are interviewed and considered for Colosseum's accelerator program with pre-seed funding, founder network access and mentorship\n\nTracks\n\nEcosystem tracks with dedicated prize pools include Solana, Ethereum, Hyperliquid, Base, Tempo, Arbitrum, Zcash and Robinhood Chain, each judged with builders, investors and operators from those ecosystems\n\nJudges\n\nThe Colosseum team reviews all submissions, joined by track judges including Clay Robbins, Matty Taylor and Nate Levine alongside builders and investors from Phantom, Base, Arcium, MetaDAO and Ellipsis Labs\n\nAccelerator\n\nAll hackathon winners are interviewed and considered for the Colosseum accelerator program with pre-seed funding, founder network access and mentorship, including a residency collaborating directly with the Colosseum team\n\nLivestream workshops\n\nAll workshops stream live on Discord, including the kickoff with the Colosseum founders. Participants can watch live, ask questions and follow the program through the event.",
-    "startDate": "2026-09-14T06:00:00.000Z",
-    "endDate": "2026-10-12T19:00:00.000Z",
-    "city": "Online",
-    "country": "",
-    "location": "Online",
-    "url": "https://colosseum.com/worldsfair",
-    "coverImage": "/events/w3v-crypto-worlds-fair-hackathon-by-colosseum-4b0c1d92.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "descriptionSource": {
-      "url": "https://colosseum.com/worldsfair",
-      "fetchedAt": "2026-09-21T05:12:52.992Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Crypto World's Fair Hackathon - Colosseum",
-      "sha256": "a07f4c1a719f3b2c28c9ec860d4f86a5403d06129e2b1d15a04769dbccb1b87b"
-    },
-    "website": "https://colosseum.com/worldsfair",
-    "registrationUrl": "https://colosseum.com/worldsfair",
-    "attendanceMode": "online",
-    "slug": "cwsfhc"
-  },
-  {
     "id": "luma-host-evt-evt-pFcQwUTOA8oLMMD",
     "name": "AI x Crypto: Innovation, Efficiency and Staying Safe in a New Digital Economy",
     "description": "## AI x Crypto: Innovation, Efficiency and Staying Safe in a New Digital Economy\n\nArtificial intelligence is rapidly reshaping the crypto and blockchain landscape, moving beyond basic automation into smart research, dynamic risk management, and adaptive trading tools that can help users process information and navigate increasingly complex digital markets.\n\nHowever, operating at the speed of AI presents a fresh set of challenges. Fast execution, complex automated tools, and shifting market environments mean users need to understand not just the opportunities, but how to navigate potential technical limits and emerging risks safely.\n\nJoin this educational discussion to explore the opportunities and challenges at the intersection of AI and crypto. We will look at how AI is transforming the sector, what users should be aware of, and the practical steps everyone can take to use emerging tools more safely and responsibly\n\nDiscussion Topics\n\n• How AI is transforming crypto: The role of AI in blockchain products, user experiences, data analysis, customer support, security monitoring and operational efficiency.\n• New products and opportunities: How AI-enabled tools are changing the way people interact with wallets, decentralised applications, market information and digital-asset platforms.\n• Efficiency and automation: Where AI can help simplify complex processes, improve access to information and support better decision-making.\n• Understanding Tool Capabilities & Limits: Knowing what AI can and cannot do\n• Responsible Adoption & Oversight: Building the core financial knowledge and critical-thinking habits needed to guide AI tools safely, rather than relying on them blindly\n\nSchedule:\n\n• 6.30pm - Welcome, registration and check in\n• 7.15pm - Fireside chat\n• 7.45pm - Networking drinks and pizzas\n• 9:30pm - Doors clos\n\nSpeakers:\n\nSimon Babakhani - CEO, Zebec\n\nAs Zebec’s co-founder, Simon brings 10+ years of leadership experience from senior roles in private equity and advisory at Breyer Capital, Parthenon, and Oliver Wyman\n\nLucia Camarillo- Marketing Manager UK, Bitget (moderator)\nA seasoned marketing professional with nine years of global, in-house experience - including over three years specialising in the Web3 sector - driving growth across startups, scale-ups, and established enterprises. She is currently Marketing Manager at Bitget, a leading crypto exchange serving over 125 million users worldwide. Passionate about making Web3 accessible, Lucia frequently shares her expertise through industry conferences and webinars. Specialising in integrated field marketing, she designs high-impact experiences that accelerate demand, build robust pipelines, and deepen customer engagement across the Fintech landscape\n\n[About Zebec](https://zebec.io/)\n\nZebec is a leader in global stablecoin payroll, processing $500M+ in volume across 280+ enterprise clients. Since 2021, we've built an ecosystem spanning payroll, payments, banking infrastructure, and multi-chain Mastercard-backed cards, enabling enterprises to pay employees globally in real time and give them instant access to their funds\n\n[About Bitget](https://www.bitget.com/en-GB)\n\nBitget is a leading global cryptocurrency exchange serving over 125 million users worldwide. In the UK market, the platform delivers an innovation-driven spot trading experience featuring access to over 200 digital assets. Backed by a 300 million dollar protection fund and advanced security infrastructure, Bitget actively drives mainstream crypto adoption through structured educational initiatives, including its Blockchain4Youth and Blockchain4Her programs. Furthermore, as part of its global impact strategy, Bitget has partnered with UNICEF to provide essential blockchain education to 1.1 million people by 2027\n\n[About Encode](https://www.encodeclub.com/)\n\nA global developer community empowering builders through hackathons, accelerators, and educational [programmes. They also offer a vibrant coworking space](https://hub.encodeclub.com/) in the heart of Shoreditch, London!",
@@ -1874,10 +1848,7 @@
     "url": "https://www.meetup.com/lfdt-washington-dc/events/316118535/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Pereowei Daniel"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "w3v-u-hackathon-2026",
@@ -2765,7 +2736,6 @@
       "Dan Morehead",
       "Faryar Shirzad",
       "Harsh Mehta",
-      "Matthew Long",
       "Geoffrey Kendrick",
       "Stani Kulechov",
       "Jason Yanowitz",
@@ -2773,9 +2743,9 @@
       "Michael Ippolito",
       "Laurie Katz",
       "Samantha Bohbot",
-      "Michele Curtoni",
       "David Mercer",
       "Francisco Maroto Castro",
+      "Michele Curtoni",
       "Katie Harries",
       "Andrew O'Neill",
       "Jasmine Jia",
@@ -2783,7 +2753,8 @@
       "Tom Pikett",
       "Anatoly Crachilov",
       "Rebecca Rettig",
-      "Alex Seddon"
+      "Alex Seddon",
+      "Simon Taylor"
     ]
   },
   {
@@ -3161,7 +3132,7 @@
   {
     "id": "ma-ethdenver-2027",
     "name": "ETHDenver 2027",
-    "description": "ETHDenver is one of the largest Ethereum community gatherings in the world, mixing a builder hackathon with a multi day conference in Colorado. The 2027 edition is expected in February, with official",
+    "description": "ETHDenver is one of the largest Ethereum community gatherings in the world, mixing a builder hackathon with a multi day conference in Colorado. The 2027 edition is expected in February, with official ",
     "startDate": "2027-02-17T00:00:00.000Z",
     "endDate": "2027-02-21T00:00:00.000Z",
     "city": "Denver, USA",
@@ -3365,7 +3336,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://www.teamz.co.jp/",
-    "coverImage": "/events/w3v-teamz-summit-10-27-04-05-e2661eb4.webp",
+    "coverImage": "/events/ma-teamz-web3-ai-summit-2027-da14a208.webp",
     "source": "marketacross",
     "month": "April 2027",
     "descriptionSource": {
@@ -3475,7 +3446,7 @@
   {
     "id": "ma-consensus-2027",
     "name": "Consensus 2027",
-    "description": "Consensus is CoinDesk's flagship US conference and one of the longest running gatherings in the industry, covering markets, policy, and protocol development. The 2027 edition is expected in May, with",
+    "description": "Consensus is CoinDesk's flagship US conference and one of the longest running gatherings in the industry, covering markets, policy, and protocol development. The 2027 edition is expected in May, with ",
     "startDate": "2027-05-12T00:00:00.000Z",
     "endDate": "2027-05-14T00:00:00.000Z",
     "city": "TBA, USA",
@@ -3823,7 +3794,7 @@
   {
     "id": "ma-webx-2027",
     "name": "WebX 2027",
-    "description": "WebX is Japan's largest Web3 conference, hosted in Tokyo with strong participation from domestic corporates, regulators, and global projects. The organizer lists August 2027; exact dates are still to",
+    "description": "WebX is Japan's largest Web3 conference, hosted in Tokyo with strong participation from domestic corporates, regulators, and global projects. The organizer lists August 2027; exact dates are still to ",
     "startDate": "2027-08-01T00:00:00.000Z",
     "endDate": "2027-08-01T00:00:00.000Z",
     "city": "Tokyo, Japan",
@@ -3872,7 +3843,7 @@
     "country": "Hong Kong",
     "location": "Hong Kong, Hong Kong",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
+    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -3893,7 +3864,7 @@
   {
     "id": "ma-korea-blockchain-week-2027",
     "name": "Korea Blockchain Week 2027",
-    "description": "Korea Blockchain Week turns Seoul into a week long hub of conferences, side events, and after parties across the Asian crypto ecosystem. The 2027 edition is expected in September, with official dates",
+    "description": "Korea Blockchain Week turns Seoul into a week long hub of conferences, side events, and after parties across the Asian crypto ecosystem. The 2027 edition is expected in September, with official dates ",
     "startDate": "2027-09-06T00:00:00.000Z",
     "endDate": "2027-09-12T00:00:00.000Z",
     "city": "Seoul, South Korea",
@@ -4080,34 +4051,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-evt-5GQ3EcV4kqvULDO",
-    "name": "SF Tech Week | AI Founders & Investors Silicon Valley Event",
-    "description": "",
-    "startDate": "2026-10-11T21:00:00.000Z",
-    "endDate": "2026-10-12T00:00:00.000Z",
-    "city": "Santa Clara",
-    "country": "United States",
-    "location": "Santa Clara, United States",
-    "url": "https://lu.ma/ipg-p5vr",
-    "coverImage": "/events/luma-evt-5gq3ecv4kqvuldo-dec2adce.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-8lpu2fK4LMPWoNG",
-    "name": "Ripple Effects of Designing w/Community - a SOCAP Chicago Side Event",
-    "description": "",
-    "startDate": "2026-10-11T22:30:00.000Z",
-    "endDate": "2026-10-12T00:00:00.000Z",
-    "city": "Chicago",
-    "country": "United States",
-    "location": "Chicago, United States",
-    "url": "https://lu.ma/knwgmk3c",
-    "coverImage": "/events/luma-evt-8lpu2fk4lmpwong-2036bafc.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "w3v-solana-developer-hackathon-2026",
     "name": "Solana Developer Hackathon 2026",
     "description": "Solana Developer Hackathon 2026: a four-week online Encode Club hackathon for developers building and submitting projects on Solana.",
@@ -4118,76 +4061,6 @@
     "location": "Global",
     "url": "https://www.encodeclub.com/programmes/solana-hackathon-2026",
     "coverImage": "/events/w3v-solana-developer-hackathon-2026-5369c9cc.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-rEDEvaK7RU6pIZh",
-    "name": "Defi Lending and Institutional Adoption",
-    "description": "",
-    "startDate": "2026-10-12T18:30:00.000Z",
-    "endDate": "2026-10-12T19:30:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/8r97y7qb",
-    "coverImage": "/events/luma-evt-redevak7ru6pizh-1f195eeb.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-bH5LTJdEoUJpCC3",
-    "name": "Silicon Valley AI/Tech Investing Summit---Attend or Pitch",
-    "description": "",
-    "startDate": "2026-10-12T18:45:00.000Z",
-    "endDate": "2026-10-13T01:30:00.000Z",
-    "city": "Palo Alto",
-    "country": "United States",
-    "location": "Palo Alto, United States",
-    "url": "https://lu.ma/angellaunchoct12",
-    "coverImage": "/events/luma-evt-bh5ltjdeoujpcc3-b0613ddb.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-qiBUj4loZvsKPDW",
-    "name": "CryptoMondays NYC - Agents, Atoms, & Allocators",
-    "description": "",
-    "startDate": "2026-10-12T21:30:00.000Z",
-    "endDate": "2026-10-13T00:30:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/rr5gmlv1",
-    "coverImage": "/events/luma-evt-qibuj4lozvskpdw-5404bcd9.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-XDI4lC61aKDKj3Y",
-    "name": "ÁgoraÑ #17 · Agentes de IA controlados y creación de contenido descontroladamente ilimitada. :-)",
-    "description": "",
-    "startDate": "2026-10-12T22:00:00.000Z",
-    "endDate": "2026-10-13T01:00:00.000Z",
-    "city": "Miami",
-    "country": "United States",
-    "location": "Miami, United States",
-    "url": "https://lu.ma/e9v2y1dw",
-    "coverImage": "/events/luma-evt-xdi4lc61akdkj3y-21d714b5.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-4MYAeMbNh4r5dwq",
-    "name": "Intro to Electronics, Part 3!",
-    "description": "",
-    "startDate": "2026-10-12T22:30:00.000Z",
-    "endDate": "2026-10-13T00:30:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/8vr591y5",
-    "coverImage": "/events/luma-evt-4myaembnh4r5dwq-ff30258d.webp",
-    "source": "luma",
     "month": "October 2026"
   },
   {
@@ -4426,10 +4299,7 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316118464/",
     "coverImage": "/events/mu-316118464-eef6d060.webp",
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Pereowei Daniel"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "luma-evt-1u3kkLddnMGQZBl",
@@ -4533,13 +4403,13 @@
     "id": "luma-host-evt-evt-uZcNvXgLxoQ26if",
     "name": "Superteam India Poker Night",
     "description": "",
-    "startDate": "2026-11-07T16:00:00.000Z",
-    "endDate": "2026-11-07T17:00:00.000Z",
+    "startDate": "2026-11-14T16:00:00.000Z",
+    "endDate": "2026-11-14T17:00:00.000Z",
     "city": "",
     "country": "",
     "location": "TBA",
     "url": "https://luma.com/stin-pokernight",
-    "coverImage": "/events/luma-host-evt-evt-uzcnvxglxoq26if-1e53eecb.webp",
+    "coverImage": "/events/luma-host-evt-evt-uzcnvxglxoq26if-1754ed95.webp",
     "source": "luma-trusted",
     "month": "November 2026"
   },
@@ -5049,10 +4919,7 @@
           "representation": "html"
         }
       ]
-    },
-    "speakers": [
-      "Daniel Szego"
-    ]
+    }
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -5413,34 +5280,6 @@
     "month": "December 2026"
   },
   {
-    "id": "luma-evt-v2U1cFKtHapHf0w",
-    "name": "No Technical Cofounder? Meet Your CTO: Cody @ Silicon Valley Investing Summit",
-    "description": "",
-    "startDate": "2026-10-12T18:30:00.000Z",
-    "endDate": "2026-10-12T20:00:00.000Z",
-    "city": "Palo Alto",
-    "country": "United States",
-    "location": "Palo Alto, United States",
-    "url": "https://lu.ma/pai-nujx",
-    "coverImage": "/events/luma-evt-v2u1cfkthaphf0w-6003afd7.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "mu-316673265",
-    "name": "Web3 and AI networking at The Rose & Crown",
-    "description": "Professional Networking, AI and Web3 Chat\n-Meet other people in AI and Web3\n-Discuss current trends and pitch your ideas\n-Come and join us at The Rose and Crown!",
-    "startDate": "2026-10-12T18:30:00-07:00",
-    "endDate": "2026-10-12T18:30:00-07:00",
-    "city": "Palo Alto",
-    "country": "us",
-    "location": "Palo Alto, us",
-    "url": "https://www.meetup.com/palo-alto-cryptomondays-meetup/events/316673265/",
-    "coverImage": null,
-    "source": "meetup",
-    "month": "October 2026"
-  },
-  {
     "id": "mu-316326000",
     "name": "Automated Supply Chain Accountability with Computer Vision & Ledger Technology",
     "description": "**LF Decentralized Trust Webinar with DSR: Automated Supply Chain Accountability with Computer Vision & Ledger Technology**\n\nJoin us for a webinar with DSR Corporation, an LF Decentralized Trust Gener",
@@ -5480,10 +5319,7 @@
     "url": "https://www.meetup.com/lfdt-sf/events/316118514/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Pereowei Daniel"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "mu-316118522",
@@ -5497,10 +5333,7 @@
     "url": "https://www.meetup.com/lfdt-silicon-valley/events/316118522/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Pereowei Daniel"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "luma-evt-FDAyeAjNSVnjBES",
@@ -5654,10 +5487,7 @@
     "url": "https://www.meetup.com/lfdt-sf/events/316802689/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "mu-316802686",
@@ -5671,10 +5501,7 @@
     "url": "https://www.meetup.com/lfdt-silicon-valley/events/316802686/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "luma-evt-9fG9CmDFC7ikDpE",
@@ -5758,10 +5585,7 @@
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/316118375/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Pereowei Daniel"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "mu-316558834",
@@ -5845,10 +5669,7 @@
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/316802693/",
     "coverImage": "/events/mu-316802693-f266f227.webp",
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "luma-evt-8eE3HeO8unJXCn5",
@@ -5904,10 +5725,7 @@
     "url": "https://www.meetup.com/lfdt-austin/events/316118454/",
     "coverImage": "/events/mu-316118454-a56414bb.webp",
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Pereowei Daniel"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "luma-evt-GlZMAS0XBYyINU3",
@@ -6004,10 +5822,7 @@
     "url": "https://www.meetup.com/lfdt-austin/events/316802775/",
     "coverImage": "/events/mu-316802775-00c0322a.webp",
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "w3v-run-rave-26-11-01",
@@ -6434,7 +6249,7 @@
     "country": "",
     "location": "Global",
     "url": "https://luma.com/eqwsf08t",
-    "coverImage": "/events/w3v-solanas-challenges-getblocks-solutions-94692c3f.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -7934,10 +7749,7 @@
     "url": "https://www.meetup.com/lfdt-phoenix/events/316802761/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "w3v-btc-balkans-2026",
@@ -8035,10 +7847,7 @@
     "url": "https://www.meetup.com/lfdt-denver/events/316802785/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "luma-evt-3mmc2cCRwR8KMAA",
@@ -8080,10 +7889,7 @@
     "url": "https://www.meetup.com/tripass/events/316879993/",
     "coverImage": "/events/mu-316879993-ebac7e3a.webp",
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Jordan Boich"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "luma-evt-ycWrx5n01IFcfSP",
@@ -8236,10 +8042,7 @@
     "url": "https://www.meetup.com/lfdt-montreal/events/316802708/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "luma-evt-FXp0Cx9ZFgTnmub",
@@ -11855,12 +11658,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/lo-qqld",
-    "coverImage": "/events/w3v-the-local-wmc-breakpointdas-edition-4fa07710.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-solana-fitness-zone-hiit-class--breakpoint-2026",
@@ -11872,12 +11671,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/solanahiit",
-    "coverImage": "/events/w3v-solana-fitness-zone-hiit-class-breakpoint-2026-02bfe2cf.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-solana-fitness-zone-mental-reset-workshop--breakpoint-2026",
@@ -11889,12 +11684,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/solanareset",
-    "coverImage": "/events/w3v-solana-fitness-zone-mental-reset-workshop-brea-28adf2f2.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "mu-316957516",
@@ -11936,10 +11727,7 @@
     "url": "https://www.meetup.com/lfdt-chicago/events/316802758/",
     "coverImage": "/events/mu-316802758-07e90219.webp",
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "mu-316231918",
@@ -12009,10 +11797,7 @@
     "url": "https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946609/",
     "coverImage": "/events/mu-312946609-64a47ab1.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Frank Migacz"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "mu-316901080",
@@ -12040,11 +11825,7 @@
     "url": "https://luma.com/sol-demo-day",
     "coverImage": "/events/luma-host-evt-evt-a5hth6nhkylqspq-4de870a1.webp",
     "source": "luma-trusted",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "luma-host-evt-evt-5gtpOwBYoupMorq",
@@ -12058,11 +11839,7 @@
     "url": "https://luma.com/intelligence-summit",
     "coverImage": "/events/luma-host-evt-evt-5gtpowbyoupmorq-3974b1f2.webp",
     "source": "luma-trusted",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "w3v-born-up--breakpoint-london-community-networking-meetup",
@@ -12074,12 +11851,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/btvqwap1",
-    "coverImage": "/events/w3v-born-up-breakpoint-london-community-networking-84fe2283.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-vcs--lps-cocktail-hour--breakpoint--london",
@@ -12091,12 +11864,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/6ung8frj",
-    "coverImage": "/events/w3v-vcs-lps-cocktail-hour-breakpoint-london-93ac5f14.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-forward-industries---breakpoint-dinner",
@@ -12108,12 +11877,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/cnswgn30",
-    "coverImage": "/events/w3v-forward-industries-breakpoint-dinner-c6fb2fca.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-proof--pour--london--a-private-cocktail-evening",
@@ -12125,12 +11890,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/zkpwmk83",
-    "coverImage": "/events/w3v-proof-pour-london-a-private-cocktail-evening-94e740a0.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-solana-fitness-zone-group-boxing--breakpoint-2026",
@@ -12142,12 +11903,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/solanaboxing",
-    "coverImage": "/events/w3v-solana-fitness-zone-group-boxing-breakpoint-20-a8768aed.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-fwdi-breakpoint-happy-hour",
@@ -12159,12 +11916,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/ti7vdsai",
-    "coverImage": "/events/w3v-fwdi-breakpoint-happy-hour-7d31eb3b.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-ggc-gmgn-global-championship---london-finals",
@@ -12176,7 +11929,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/39ckiuiy",
-    "coverImage": "/events/w3v-ggc-gmgn-global-championship-london-finals-a8e33695.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -12189,12 +11942,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/lajgsnqb",
-    "coverImage": "/events/w3v-solana-breakpoint-security-drinks-by-fidesium-81c0fb30.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-sol-calling-solana-breakpoint-happy-hour",
@@ -12206,12 +11955,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/gpxfy249",
-    "coverImage": "/events/w3v-sol-calling-solana-breakpoint-happy-hour-1c83cf72.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-beyond-business-an-exclusive-dinner-in-mayfair",
@@ -12223,7 +11968,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/snrmcp50",
-    "coverImage": "/events/w3v-beyond-business-an-exclusive-dinner-in-mayfair-e624d328.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -12236,12 +11981,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/solanahiits",
-    "coverImage": "/events/w3v-solana-fitness-zone-hiit-class-breakpoint-2026-9e5b4832.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-london-happy-hour",
@@ -12253,12 +11994,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/LondonHappyHour",
-    "coverImage": "/events/w3v-london-happy-hour-dbd282ac.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-breakpoint-pub-quiz",
@@ -12270,12 +12007,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/n41tqnps",
-    "coverImage": "/events/w3v-breakpoint-pub-quiz-c8e56359.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-no-more-pitches",
@@ -12287,12 +12020,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/e9iw08nn",
-    "coverImage": "/events/w3v-no-more-pitches-83ba7a54.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "luma-evt-PuYOwG3mhodxC6r",
@@ -12753,11 +12482,7 @@
     "url": "https://luma.com/1hdsvfdv",
     "coverImage": "/events/luma-host-evt-evt-fhp8uoaf4t7kegc-b77d2ea0.webp",
     "source": "luma-trusted",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "luma-evt-ooMqgHEqhm7sdaH",
@@ -12905,7 +12630,7 @@
     "country": "IT",
     "location": "Bari, IT",
     "url": "https://luma.com/IXH26-xrpl-hackathon",
-    "coverImage": "/events/w3v-ixh26-italian-xrpl-hackathon-db972dc1.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -13128,7 +12853,7 @@
   {
     "id": "ma-blockdown-festival-dubai-2027",
     "name": "BlockDown Festival Dubai 2027",
-    "description": "BlockDown brings together Web3, AI, robotics, creators and culture through talks, panels, technology showcases, networking and live entertainment. Doors open at noon. The day programme ends at 19:00,",
+    "description": "BlockDown brings together Web3, AI, robotics, creators and culture through talks, panels, technology showcases, networking and live entertainment. Doors open at noon. The day programme ends at 19:00, ",
     "startDate": "2027-01-26T00:00:00.000Z",
     "endDate": "2027-01-27T00:00:00.000Z",
     "city": "The Plaza at Uptown Dubai, Dubai, UAE",
@@ -13928,11 +13653,7 @@
     "location": "London, GB",
     "url": "https://luma.com/loajg3ik",
     "coverImage": "/events/luma-host-evt-evt-0iytxt7gbebn9da-519a0dae.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "w3v-paytech-global-conference-2027-13-1793131019224",
@@ -14131,7 +13852,7 @@
   },
   {
     "id": "luma-evt-A4M0SWM3q4d1oqf",
-    "name": "Lattice Semiconductor Physical AI Session",
+    "name": "Lattice Semiconductor Physical AI Session and Networking",
     "description": "",
     "startDate": "2026-11-17T21:00:00.000Z",
     "endDate": "2026-11-18T00:00:00.000Z",
@@ -14169,10 +13890,7 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/317064975/",
     "coverImage": "/events/mu-317064975-0dc78544.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "luma-evt-1YkeGIX5PJN3Q9d",
@@ -14332,13 +14050,13 @@
     "id": "luma-evt-DSmVp2B2E7Pwilu",
     "name": "StrongHER — Women's Strength Training",
     "description": "",
-    "startDate": "2026-11-04T23:00:00.000Z",
+    "startDate": "2026-11-11T23:00:00.000Z",
     "endDate": "2026-12-03T00:30:00.000Z",
     "city": "North Brunswick Township",
     "country": "United States",
     "location": "North Brunswick Township, United States",
     "url": "https://lu.ma/orrtdrhz",
-    "coverImage": "/events/luma-evt-dsmvp2b2e7pwilu-30f5bcf4.webp",
+    "coverImage": "/events/luma-evt-dsmvp2b2e7pwilu-1321540d.webp",
     "source": "luma",
     "month": "November 2026"
   },
@@ -14533,12 +14251,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/klgng11i",
-    "coverImage": "/events/w3v-pizza-at-pimlico-s-breakpoint-2026-14-17932761-475ac7db.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "luma-evt-73ltP7aqQdCxApK",
@@ -14594,10 +14308,7 @@
     "url": "https://www.meetup.com/lfdt-phoenix/events/317065033/",
     "coverImage": "/events/mu-317065033-3914150e.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "eb-2003199972041",
@@ -14693,11 +14404,7 @@
     "url": "https://luma.com/loajg3ik",
     "coverImage": "/events/luma-host-evt-evt-0iytxt7gbebn9da-519a0dae.webp",
     "source": "luma-trusted",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "luma-evt-cTGFhlpSYExklus",
@@ -14723,7 +14430,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/317156484/",
-    "coverImage": "/events/mu-317156484-f6a6d57c.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -14737,12 +14444,9 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/317065021/",
-    "coverImage": "/events/mu-317065021-c10f5a7d.webp",
+    "coverImage": null,
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "luma-evt-K5mpQKsNcBa8gWI",
@@ -14857,10 +14561,7 @@
     "url": "https://www.meetup.com/lfdt-sf/events/317065000/",
     "coverImage": "/events/mu-317065000-b21a1b3a.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "mu-317065042",
@@ -14874,10 +14575,7 @@
     "url": "https://www.meetup.com/lfdt-silicon-valley/events/317065042/",
     "coverImage": "/events/mu-317065042-83b359c7.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "mu-317234011",
@@ -15313,10 +15011,7 @@
     "url": "https://www.meetup.com/lfdt-denver/events/317065061/",
     "coverImage": "/events/mu-317065061-bac75bc3.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "luma-evt-8K68kl1G0Y64sG2",
@@ -15498,10 +15193,7 @@
     "url": "https://www.meetup.com/lfdt-austin/events/317065012/",
     "coverImage": "/events/mu-317065012-62d567f1.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "mu-316913789",
@@ -15683,10 +15375,7 @@
     "url": "https://www.meetup.com/lfdt-atlanta/events/317064964/",
     "coverImage": "/events/mu-317064964-3d7fd815.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "mu-315045051",
@@ -15760,7 +15449,7 @@
   },
   {
     "id": "luma-evt-q2lQHoXHuJhCcdi",
-    "name": "Clay in Boston: Clay+Hubspot- creating a living ICP model for your CRM",
+    "name": "Clay in Boston: Clay+HubSpot- creating a living ICP model for your CRM",
     "description": "",
     "startDate": "2026-11-18T22:00:00.000Z",
     "endDate": "2026-11-19T01:00:00.000Z",
@@ -16474,10 +16163,7 @@
     "url": "https://www.meetup.com/lfdt-mexico-city/events/317064943/",
     "coverImage": "/events/mu-317064943-4e7d5f54.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "luma-evt-o2YD9nDcSQkPrii",
@@ -16797,12 +16483,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/8n4yuczc",
-    "coverImage": "/events/w3v-little-blue-door-fastshares-after-hours-bd22a439.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-the-internet-capital-supermarket",
@@ -16814,12 +16496,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/qe5u8rpd",
-    "coverImage": "/events/w3v-the-internet-capital-supermarket-134e3dd9.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-powered-by-fastshares-london-walking-tour-with-stuk",
@@ -16831,12 +16509,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/7oly3746",
-    "coverImage": "/events/w3v-powered-by-fastshares-london-walking-tour-with-6c524f68.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-the-house-of-monke",
@@ -16848,12 +16522,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/monkedao-nwio",
-    "coverImage": "/events/w3v-the-house-of-monke-25d2eb6f.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-rwas-from-tokenized-to-traded",
@@ -16865,7 +16535,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/rtgpxj6h",
-    "coverImage": "/events/w3v-rwas-from-tokenized-to-traded-8354f0ad.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -16878,12 +16548,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/3n5hl4c7",
-    "coverImage": "/events/w3v-draper-dragon-after-hours-breakpoint-day-1-3a2ce3d4.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-squid-dinner--london",
@@ -16895,12 +16561,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/14g91az1",
-    "coverImage": "/events/w3v-squid-dinner-london-489fde30.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-coffee-with-alpine",
@@ -16912,12 +16574,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/a6xuo4c1",
-    "coverImage": "/events/w3v-coffee-with-alpine-a01c88e7.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-the-rwa-pub-at-breakpoint",
@@ -16929,12 +16587,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/a9yvvi96",
-    "coverImage": "/events/w3v-the-rwa-pub-at-breakpoint-fea81c4f.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "luma-evt-pSbjRrWH7IE2fv5",
@@ -17042,11 +16696,7 @@
     "location": "London, GB",
     "url": "https://luma.com/1hdsvfdv",
     "coverImage": "/events/luma-host-evt-evt-fhp8uoaf4t7kegc-b77d2ea0.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "w3v-bullseye-with-multicoin-capital",
@@ -17058,7 +16708,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/4m0ksi3i",
-    "coverImage": "/events/w3v-bullseye-with-multicoin-capital-3079a46a.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -17071,12 +16721,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/1xahirkt",
-    "coverImage": "/events/w3v-cocktails-with-coinbase-harmonic-21bfbce6.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-fog--fortune",
@@ -17088,29 +16734,21 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/fog_and_fortune",
-    "coverImage": "/events/w3v-fog-fortune-5fc228e5.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-house-of-sol-breakpoint",
     "name": "House of Sol: Breakpoint",
-    "description": "House of Sol: Breakpoint: a private London event connecting institutional finance with Solana DeFi.",
+    "description": "House of Sol: Breakpoint: a private London event connecting institutional finance with Solana DeFi. ",
     "startDate": "2026-11-16T18:00:00.000Z",
     "endDate": "2026-11-16T22:00:00.000Z",
     "city": "London",
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/hos-breakpoint",
-    "coverImage": "/events/w3v-house-of-sol-breakpoint-ec7d0fb1.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-spis-legal--policy-dinner---breakpoint-2026",
@@ -17122,12 +16760,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/tybnsosw",
-    "coverImage": "/events/w3v-spis-legal-policy-dinner-breakpoint-2026-e36bce9f.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-privy-home-irl-london",
@@ -17139,12 +16773,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/aecztdcz",
-    "coverImage": "/events/w3v-privy-home-irl-london-61d1d3ef.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "w3v-blockchaincom-tyb-party",
@@ -17156,12 +16786,8 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/blockc-eg04",
-    "coverImage": "/events/w3v-blockchaincom-tyb-party-6dba12f5.webp",
-    "month": "November 2026",
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
+    "coverImage": null,
+    "month": "November 2026"
   },
   {
     "id": "luma-evt-RPSFDbI2HBr6DHs",
@@ -17215,7 +16841,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/carpoolcrypto/events/317208919/",
-    "coverImage": "/events/mu-317208919-9f8baab7.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -17400,5 +17026,659 @@
     "coverImage": "/events/luma-evt-yfcmjylerkyx7iq-51b4e850.webp",
     "source": "luma",
     "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-dVmB3QKFwc0pO0R",
+    "name": "Best of Belgium Silicon Valley at TBS Design Gallery",
+    "description": "",
+    "startDate": "2026-11-11T22:30:00.000Z",
+    "endDate": "2026-11-12T03:00:00.000Z",
+    "city": "Santa Clara",
+    "country": "United States",
+    "location": "Santa Clara, United States",
+    "url": "https://lu.ma/jmkr3u6m",
+    "coverImage": "/events/luma-evt-dvmb3qkfwc0po0r-9be47250.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-aLseLPG1JKz7qnd",
+    "name": "Fresh Connections by Oxylabs: VapiCon Afterparty",
+    "description": "",
+    "startDate": "2026-11-12T02:00:00.000Z",
+    "endDate": "2026-11-12T04:00:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/80rtug4b",
+    "coverImage": "/events/luma-evt-alselpg1jkz7qnd-df50fcc9.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-2M71G5Aik0h81l2",
+    "name": "What Happens When a Country Gets Hacked? Cyberwar and the Systems We Depend On",
+    "description": "",
+    "startDate": "2026-11-12T03:00:00.000Z",
+    "endDate": "2026-11-12T05:00:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/lprchbdo",
+    "coverImage": "/events/luma-evt-2m71g5aik0h81l2-86621bd3.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-Ulpt5KrFLf0bLPJ",
+    "name": "Solana For Students - Vietnam 🇻🇳",
+    "description": "",
+    "startDate": "2026-11-12T11:00:00.000Z",
+    "endDate": "2026-11-12T12:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "TBA",
+    "url": "https://luma.com/pjlu2inf",
+    "coverImage": "/events/luma-host-evt-evt-ulpt5krflf0blpj-d43b73ff.webp",
+    "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-dJ7lpO3bFeB0KxM",
+    "name": "AI Builders Night: Clean Data, Strong Business",
+    "description": "",
+    "startDate": "2026-11-12T22:00:00.000Z",
+    "endDate": "2026-11-13T01:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/sk4l3qg6",
+    "coverImage": "/events/luma-evt-dj7lpo3bfeb0kxm-b9d32909.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-llzipYjwcFLGw12",
+    "name": "HAPPY HOUR AT THE RIPPLE ROOM FOR PODCAST LOVERS (AKA TINK DRINKS)",
+    "description": "",
+    "startDate": "2026-11-12T22:00:00.000Z",
+    "endDate": "2026-11-13T01:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/koqwa72n",
+    "coverImage": "/events/luma-evt-llzipyjwcflgw12-1d9956c6.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-XVGe9tpSFUjAzTU",
+    "name": "JC Bitcoin Networking Social Meetup",
+    "description": "",
+    "startDate": "2026-11-13T00:00:00.000Z",
+    "endDate": "2026-11-13T02:00:00.000Z",
+    "city": "Jersey City",
+    "country": "United States",
+    "location": "Jersey City, United States",
+    "url": "https://lu.ma/03yj4u4k",
+    "coverImage": "/events/luma-evt-xvge9tpsfujaztu-de8bddef.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-fZANuqC1eCplbEC",
+    "name": "Voltron Live: AI Demos in a Speakeasy | Pearmill Austin",
+    "description": "",
+    "startDate": "2026-11-13T00:00:00.000Z",
+    "endDate": "2026-11-13T03:00:00.000Z",
+    "city": "Austin",
+    "country": "United States",
+    "location": "Austin, United States",
+    "url": "https://lu.ma/af7w1jpp",
+    "coverImage": "/events/luma-evt-fzanuqc1ecplbec-f62edeb4.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-ff7dBQirV2Xl8UR",
+    "name": "Unicorn Battle - Central Eurasian Founders",
+    "description": "",
+    "startDate": "2026-11-13T01:00:00.000Z",
+    "endDate": "2026-11-13T04:00:00.000Z",
+    "city": "Menlo Park",
+    "country": "United States",
+    "location": "Menlo Park, United States",
+    "url": "https://lu.ma/rlbp80my",
+    "coverImage": "/events/luma-evt-ff7dbqirv2xl8ur-07a93d0a.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-a8d6XmtLvVlBCHQ",
+    "name": "Decentralized, Not Unregulated: Perps Trading on Hyperliquid in Canada",
+    "description": "",
+    "startDate": "2026-11-13T01:00:00.000Z",
+    "endDate": "2026-11-13T04:00:00.000Z",
+    "city": "Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, Canada",
+    "url": "https://lu.ma/pss6bafw",
+    "coverImage": "/events/luma-evt-a8d6xmtlvvlbchq-6cb94572.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-ARqHPa6dbLhHuss",
+    "name": "Secret Agent(ic) Unicorns 🦄: AWS GameDay",
+    "description": "",
+    "startDate": "2026-11-13T01:30:00.000Z",
+    "endDate": "2026-11-13T04:00:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/bplaqal6",
+    "coverImage": "/events/luma-evt-arqhpa6dblhhuss-c7925ede.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-bDcxH60c9qvNp0x",
+    "name": "Whitepaper Reading [SF] - Defi Topics: No Place to Hide & Active Liquidity On Chain",
+    "description": "",
+    "startDate": "2026-11-13T01:30:00.000Z",
+    "endDate": "2026-11-13T04:00:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/snrgc7jo",
+    "coverImage": "/events/luma-evt-bdcxh60c9qvnp0x-891222a0.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-FHhHo9Gqyf0DyMk",
+    "name": "The Rise Of Forward Deployed PMs",
+    "description": "",
+    "startDate": "2026-11-13T02:00:00.000Z",
+    "endDate": "2026-11-13T04:30:00.000Z",
+    "city": "Mountain View",
+    "country": "United States",
+    "location": "Mountain View, United States",
+    "url": "https://lu.ma/uy11qdp6",
+    "coverImage": "/events/luma-evt-fhhho9gqyf0dymk-818f841e.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-v1lKCfw6nRObyTs",
+    "name": "Build with Flux: Design Electronics and Enclosures with AI",
+    "description": "",
+    "startDate": "2026-11-13T02:30:00.000Z",
+    "endDate": "2026-11-13T05:30:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/l3m8ld7a",
+    "coverImage": "/events/luma-evt-v1lkcfw6nrobyts-1d426ce0.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-midnight-hackathon",
+    "name": "Midnight Hackathon",
+    "description": "Midnight Hackathon: a 48-hour online privacy hackathon by MLH for building AI, DeFi, gaming and other applications on Midnight.",
+    "startDate": "2026-11-13T09:00:00.000Z",
+    "endDate": "2026-11-15T21:00:00.000Z",
+    "city": "Global",
+    "country": "",
+    "location": "Global",
+    "url": "https://events.mlh.com/events/15201-midnight-hackathon",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ebs5pom08ao9z5aarl2qqbi1m3nn?response-content-disposition=inline%3B%20filename%3D%22MidnightNov.jpg%22%3B%20filename%2A%3DUTF-8%27%27MidnightNov.jpg&amp;response-content-type=image%2Fjpeg&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261112%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261112T013903Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=0c1fd1563dc797c8a19489079cc6e381ca87c02dc5e06122e41d00f7fd32740f",
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-lockin-dinner-break-point-edition",
+    "name": "LO:CK'In Dinner (Break Point Edition)",
+    "description": "LO:CK’In Dinner (Break Point Edition): a private London dinner for friends of LO:TECH, with Indian food and conversation around crypto markets and trading infrastructure.",
+    "startDate": "2026-11-13T18:00:00.000Z",
+    "endDate": "2026-11-13T19:00:00.000Z",
+    "city": "London",
+    "country": "GB",
+    "location": "London, GB",
+    "url": "https://luma.com/go26cwv5",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-ai-verification-x-crypto",
+    "name": "AI Verification x Crypto",
+    "description": "AI Verification x Crypto: a meetup on ZK, TEEs, MPC, FHE and how crypto-native security skills can contribute to AI verification.",
+    "startDate": "2026-11-13T18:00:00.000Z",
+    "endDate": "2026-11-13T21:00:00.000Z",
+    "city": "London",
+    "country": "GB",
+    "location": "London, GB",
+    "url": "https://luma.com/j5glptwa",
+    "coverImage": "/events/luma-host-evt-evt-rifquccap7oz7hs-b695c1d9.webp",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-9tUboYvz0WuQtHk",
+    "name": "Building Embodied AI: A Fireside Chat with the Founder Behind a Robotics Unicorn",
+    "description": "",
+    "startDate": "2026-11-14T00:00:00.000Z",
+    "endDate": "2026-11-14T03:00:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/2ta06olz",
+    "coverImage": "/events/luma-evt-9tuboyvz0wuqthk-9d18e9b0.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-eOUCYZaTo98P4kC",
+    "name": "LOOP · UBC eProjects x n8n Buildathon",
+    "description": "",
+    "startDate": "2026-11-14T17:00:00.000Z",
+    "endDate": "2026-11-16T00:30:00.000Z",
+    "city": "Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, Canada",
+    "url": "https://lu.ma/n8n-gyab",
+    "coverImage": "/events/luma-evt-eoucyzato98p4kc-7e7ecd55.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-not-your-keys-not-your-cheese-wallet-and-security-for-solana",
+    "name": "Not Your Keys, Not Your Cheese: Wallet and Security for Solana ",
+    "description": "Wallet Security Pizza Party: a Solana Breakpoint meetup at Olympia by Blockaid, Ledger, Utila and OtterSec focused on wallet security.",
+    "startDate": "2026-11-15T12:00:00.000Z",
+    "endDate": "2026-11-15T17:00:00.000Z",
+    "city": "London",
+    "country": "GB",
+    "location": "London, GB",
+    "url": "https://luma.com/blockaid-ztbw",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-altitude-coffee-bar-pop-up",
+    "name": "Altitude Coffee Bar Pop-Up",
+    "description": "Altitude Coffee Bar Pop-Up: a Solana Breakpoint coffee meetup in Chelsea with specialty coffee, pastries and the Altitude team.",
+    "startDate": "2026-11-15T12:00:00.000Z",
+    "endDate": "2026-11-15T15:00:00.000Z",
+    "city": "London",
+    "country": "GB",
+    "location": "London, GB",
+    "url": "https://luma.com/altitude-coffee-BP26",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-afternoon-provisions--breakpoint-2026",
+    "name": "Afternoon Provisions | Breakpoint 2026",
+    "description": "Afternoon Provisions: a pre-Breakpoint London meetup by Moonsong Labs with drinks, pub food and conversation around institutional finance and onchain infrastructure.",
+    "startDate": "2026-11-15T14:00:00.000Z",
+    "endDate": "2026-11-15T16:30:00.000Z",
+    "city": "London",
+    "country": "GB",
+    "location": "London, GB",
+    "url": "https://luma.com/vca7q67q",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-showdown-poker-night-founders-vs-funders",
+    "name": "Showdown Poker Night: Founders vs Funders",
+    "description": "Showdown Poker Night: Founders vs Funders: a pre-Breakpoint London poker night bringing Solana founders and investors to the same table.",
+    "startDate": "2026-11-15T20:00:00.000Z",
+    "endDate": "2026-11-16T01:00:00.000Z",
+    "city": "London",
+    "country": "GB",
+    "location": "London, GB",
+    "url": "https://luma.com/obhye2at",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-proof-of-coffee-accuracy-auditing--accounting",
+    "name": "Proof of Coffee: Accuracy, Auditing & Accounting",
+    "description": "Proof of Coffee: Accuracy, Auditing & Accounting: a pre-Breakpoint London meetup on Web3 accounting, audits, data accuracy and operational issues.",
+    "startDate": "2026-11-16T09:00:00.000Z",
+    "endDate": "2026-11-16T11:00:00.000Z",
+    "city": "London",
+    "country": "GB",
+    "location": "London, GB",
+    "url": "https://luma.com/89bsaskb",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-breakpoint-coffee-for-defi-builders--traders",
+    "name": "Breakpoint Coffee for DeFi Builders & Traders",
+    "description": "Breakpoint Coffee for DeFi Builders & Traders: a Solana Breakpoint meetup by Alpine, QuickNode and Ocelot for coffee and conversations around DeFi and trading.",
+    "startDate": "2026-11-16T10:00:00.000Z",
+    "endDate": "2026-11-16T12:00:00.000Z",
+    "city": "London",
+    "country": "GB",
+    "location": "London, GB",
+    "url": "https://luma.com/a6xuo4c1",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-builder-zone--breakpoint",
+    "name": "Builder Zone @ Breakpoint",
+    "description": "Builder Zone: a two-day workspace inside Olympia with desks, WiFi, coffee, games and Solana security teams from Asymmetric Research and Colosseum.",
+    "startDate": "2026-11-16T10:30:00.000Z",
+    "endDate": "2026-11-17T19:00:00.000Z",
+    "city": "London",
+    "country": "GB",
+    "location": "London, GB",
+    "url": "https://luma.com/builder-zone",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-capital-x-counsel-london",
+    "name": "Capital x Counsel London",
+    "description": "Capital x Counsel London: a Breakpoint-week evening for founders, investors, operators, lawyers and advisors across crypto, Web3 and emerging tech.",
+    "startDate": "2026-11-16T18:00:00.000Z",
+    "endDate": "2026-11-16T21:00:00.000Z",
+    "city": "London",
+    "country": "GB",
+    "location": "London, GB",
+    "url": "https://luma.com/ds1wk8ak",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-edgerunnersapp-networking-drinks",
+    "name": "edgerunners.app networking drinks",
+    "description": "edgerunners.app networking drinks: a Breakpoint-week evening in London for Solana traders and trading infrastructure builders.",
+    "startDate": "2026-11-16T20:00:00.000Z",
+    "endDate": "2026-11-17T01:00:00.000Z",
+    "city": "London",
+    "country": "GB",
+    "location": "London, GB",
+    "url": "https://luma.com/3uvlhear",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-8FfC1JokxGbavTV",
+    "name": "Antidote Literary Salon",
+    "description": "",
+    "startDate": "2026-11-17T02:00:00.000Z",
+    "endDate": "2026-11-17T04:00:00.000Z",
+    "city": "Los Angeles",
+    "country": "United States",
+    "location": "Los Angeles, United States",
+    "url": "https://lu.ma/gpghxftx",
+    "coverImage": "/events/luma-evt-8ffc1jokxgbavtv-b85b8d58.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-head-down-5k--solana--445-crew",
+    "name": "Head Down 5K × Solana | 445 CREW",
+    "description": "Head Down 5K × Solana | 445 CREW: an early-morning Breakpoint 5K through Battersea and Nine Elms for runners of all paces.",
+    "startDate": "2026-11-17T04:45:00.000Z",
+    "endDate": "2026-11-17T17:45:00.000Z",
+    "city": "London",
+    "country": "GB",
+    "location": "London, GB",
+    "url": "https://luma.com/3bwtn4jz",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-dev3pack-meetup---the-bridge-accelerator",
+    "name": "Dev3pack Meetup - The Bridge Accelerator",
+    "description": "Dev3pack Meetup - The Bridge Accelerator: a Breakpoint meetup for students and women founders interested in Dev3pack’s upcoming Solana accelerator.",
+    "startDate": "2026-11-17T09:30:00.000Z",
+    "endDate": "2026-11-17T12:00:00.000Z",
+    "city": "London",
+    "country": "GB",
+    "location": "London, GB",
+    "url": "https://luma.com/th9m3zor",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-lolimit-holdem-break-point-edition",
+    "name": "LO:LIMIT Hold'em (Break Point Edition)",
+    "description": "LO:LIMIT Hold'em: a late-night $1/2 Texas Hold’em game hosted by LO:TECH during Solana Breakpoint in London.",
+    "startDate": "2026-11-17T19:00:00.000Z",
+    "endDate": "2026-11-18T01:00:00.000Z",
+    "city": "London",
+    "country": "GB",
+    "location": "London, GB",
+    "url": "https://luma.com/ebtmwnmy",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-1xoY0rBN8EAsR8l",
+    "name": "Bitcoin 204: Lightning Payments using Alby",
+    "description": "",
+    "startDate": "2026-11-18T00:30:00.000Z",
+    "endDate": "2026-11-18T03:00:00.000Z",
+    "city": "Denver",
+    "country": "United States",
+    "location": "Denver, United States",
+    "url": "https://lu.ma/mfc3u1f5",
+    "coverImage": "/events/luma-evt-1xoy0rbn8easr8l-7d70a376.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-kCAO6ghhL7NZanz",
+    "name": "AI·DAO University Tour @ Boston",
+    "description": "",
+    "startDate": "2026-11-18T23:00:00.000Z",
+    "endDate": "2026-11-19T02:00:00.000Z",
+    "city": "Cambridge",
+    "country": "United States",
+    "location": "Cambridge, United States",
+    "url": "https://lu.ma/fmut-lh",
+    "coverImage": "/events/luma-evt-kcao6ghhl7nzanz-4de0d8f8.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-buzoku-ai-bitcoin-crypto-meetup-19-1794071305412",
+    "name": "BUZOKU | AI, Bitcoin and Crypto Meetup",
+    "description": "BUZOKU: Barcelona meetup for builders, founders and investors working across Web3, AI, crypto and digital systems.",
+    "startDate": "2026-11-18T06:30:00.000Z",
+    "endDate": "2026-11-18T20:00:00.000Z",
+    "city": "Barcelona",
+    "country": "ES",
+    "location": "Barcelona, ES",
+    "url": "https://luma.com/Buzoku",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-gD1AHw6XxdlnQR7",
+    "name": "Happy Hour de Contenido - Viralidad que Hace Pop: Vídeos que Convierten Ventas",
+    "description": "",
+    "startDate": "2026-11-19T20:00:00.000Z",
+    "endDate": "2026-11-19T22:00:00.000Z",
+    "city": "Miami",
+    "country": "United States",
+    "location": "Miami, United States",
+    "url": "https://lu.ma/5sveln1y",
+    "coverImage": "/events/luma-evt-gd1ahw6xxdlnqr7-4ef2a56e.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-A80HEM1HN7LuId8",
+    "name": "Light DAO Salon: Building Trust at Scale (LA)",
+    "description": "",
+    "startDate": "2026-11-20T03:00:00.000Z",
+    "endDate": "2026-11-20T05:30:00.000Z",
+    "city": "Beverly Hills",
+    "country": "United States",
+    "location": "Beverly Hills, United States",
+    "url": "https://luma.com/c0t2psoz",
+    "coverImage": "/events/luma-host-evt-evt-a80hem1hn7luid8-8f8137eb.webp",
+    "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-AfGAxD8AxHdOEEx",
+    "name": "Solana Para Estudiantes - España 🇪🇸",
+    "description": "",
+    "startDate": "2026-11-20T17:00:00.000Z",
+    "endDate": "2026-11-20T18:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "TBA",
+    "url": "https://luma.com/4j37rbu1",
+    "coverImage": "/events/luma-host-evt-evt-afgaxd8axhdoeex-f9e8e41b.webp",
+    "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-TqpF9LxYGB6BTHE",
+    "name": "Re-Defined x Deloitte Canada",
+    "description": "",
+    "startDate": "2026-11-20T22:30:00.000Z",
+    "endDate": "2026-11-21T00:30:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://lu.ma/re-p2sb",
+    "coverImage": "/events/luma-evt-tqpf9lxygb6bthe-764adce5.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317138651",
+    "name": "The Philosophy of Trust in the Age of AI",
+    "description": "What is the difference between a used car salesman and ChatGPT and similar large language models?\n\nTrust has always been problematic, but trust has taken on renewed importance as we advance (or plumme",
+    "startDate": "2026-11-22T12:00:00-08:00",
+    "endDate": "2026-11-22T12:00:00-08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/northwest-artificial-general-intelligence-meetup-group/events/317138651/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-9QJK19yxPLoHQks",
+    "name": "Artnet Airwaves Podcast Festival",
+    "description": "",
+    "startDate": "2026-12-02T17:00:00.000Z",
+    "endDate": "2026-12-03T22:00:00.000Z",
+    "city": "Miami Beach",
+    "country": "United States",
+    "location": "Miami Beach, United States",
+    "url": "https://lu.ma/vaixbn7s",
+    "coverImage": "/events/luma-evt-9qjk19yxplohqks-c4b906f1.webp",
+    "source": "luma",
+    "month": "December 2026"
+  },
+  {
+    "id": "luma-evt-B6FImtJAgTiASUx",
+    "name": "Shift.forward(): Seattle Agentic AI Meetup in Redmond",
+    "description": "",
+    "startDate": "2026-12-04T00:30:00.000Z",
+    "endDate": "2026-12-04T02:30:00.000Z",
+    "city": "Redmond",
+    "country": "United States",
+    "location": "Redmond, United States",
+    "url": "https://lu.ma/ur2rct8m",
+    "coverImage": "/events/luma-evt-b6fimtjagtiasux-3464b833.webp",
+    "source": "luma",
+    "month": "December 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-wgBuDdnjWj1BDrW",
+    "name": "Solana Demo & Dine",
+    "description": "",
+    "startDate": "2026-12-10T15:00:00.000Z",
+    "endDate": "2026-12-10T18:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "TBA",
+    "url": "https://luma.com/SolanaDemoDineSuperweek",
+    "coverImage": "/events/luma-host-evt-evt-wgbuddnjwj1bdrw-20e5aa8b.webp",
+    "source": "luma-trusted",
+    "month": "December 2026"
+  },
+  {
+    "id": "luma-evt-MkiMR5HAyOlQeZ8",
+    "name": "The Year-End Reset for Founders: Close Out 2026, Plan 2027 w/ Nicole Doyle",
+    "description": "",
+    "startDate": "2026-12-15T18:00:00.000Z",
+    "endDate": "2026-12-15T22:00:00.000Z",
+    "city": "Seattle",
+    "country": "United States",
+    "location": "Seattle, United States",
+    "url": "https://lu.ma/nhonnwh4",
+    "coverImage": "/events/luma-evt-mkimr5hayolqez8-29191a6a.webp",
+    "source": "luma",
+    "month": "December 2026"
+  },
+  {
+    "id": "luma-evt-Lt6bJKPA48lfArP",
+    "name": "Bitcoin Builders Club",
+    "description": "",
+    "startDate": "2026-12-22T00:30:00.000Z",
+    "endDate": "2026-12-22T03:30:00.000Z",
+    "city": "Austin",
+    "country": "United States",
+    "location": "Austin, United States",
+    "url": "https://lu.ma/1uniw2n0",
+    "coverImage": "/events/luma-evt-lt6bjkpa48lfarp-5c61a784.webp",
+    "source": "luma",
+    "month": "December 2026"
+  },
+  {
+    "id": "luma-evt-DFEks3d2vkTrYFr",
+    "name": "AI Builders x Base44 Buildathon",
+    "description": "",
+    "startDate": "2027-01-14T15:00:00.000Z",
+    "endDate": "2027-01-14T23:30:00.000Z",
+    "city": "Miami",
+    "country": "United States",
+    "location": "Miami, United States",
+    "url": "https://lu.ma/mia-jan14-hday",
+    "coverImage": "/events/luma-evt-dfeks3d2vktryfr-30ff84bb.webp",
+    "source": "luma",
+    "month": "January 2027"
+  },
+  {
+    "id": "w3v-zig-summit-2027-dubai-18-1793981967659",
+    "name": "ZIG Summit 2027 | Dubai",
+    "description": "ZIG Summit 2027: a Dubai summit focused on onchain finance, institutional adoption, market infrastructure and the future of digital assets.",
+    "startDate": "2027-03-24T20:00:00.000Z",
+    "endDate": "2027-03-25T19:59:00.000Z",
+    "city": "Dubai",
+    "country": "AE",
+    "location": "Dubai, AE",
+    "url": "https://summit.zig.finance",
+    "coverImage": "/events/w3v-zig-summit-2027-dubai-18-1793981967659-0f06a311.webp",
+    "month": "March 2027"
+  },
+  {
+    "id": "w3v-devcon-ix-lisbon",
+    "name": "Devcon IX Lisbon",
+    "description": "Devcon IX Lisbon: Ethereum Foundation’s annual developer conference returns on October 11–13, 2027 at the Lisbon Congress Centre.",
+    "startDate": "2027-10-11T08:00:00.000Z",
+    "endDate": "2027-10-13T20:00:00.000Z",
+    "city": "Lisboa",
+    "country": "PT",
+    "location": "Lisboa, PT",
+    "url": "https://devcon.org/lisbon/",
+    "coverImage": "/events/w3v-devcon-ix-lisbon-dee87f0a.webp",
+    "month": "October 2027"
   }
 ]
