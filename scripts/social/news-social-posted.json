@@ -159,6 +159,26 @@
       "slot": "morning",
       "date": "2026-11-12",
       "queuedAt": "2026-11-12T03:50:29.915Z"
+    },
+    {
+      "slug": "mexcorder",
+      "platform": "x",
+      "channelId": "6ab62682ea19ca0bdee284bd",
+      "postId": "6af5a40d8dea3df8ddba2a5d",
+      "status": "queued",
+      "slot": "afternoon",
+      "date": "2026-11-12",
+      "queuedAt": "2026-11-12T11:33:32.979Z"
+    },
+    {
+      "slug": "mexcorder",
+      "platform": "linkedin",
+      "channelId": "69c5b139af47dacb695b5feb",
+      "postId": "6af5a40ec6319c29c4924551",
+      "status": "queued",
+      "slot": "afternoon",
+      "date": "2026-11-12",
+      "queuedAt": "2026-11-12T11:33:32.979Z"
     }
   ]
 }
