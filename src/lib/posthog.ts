@@ -19,6 +19,13 @@ export function getPostHogClient(): Promise<PostHog | null> {
      capture_pageview: false,
      capture_pageleave: true,
      autocapture: false,
+     // Surveys and web experiments are the only PostHog features that render
+     // page content from the dashboard. The site never uses them, so disable
+     // them at the client to keep the analytics account out of the page's
+     // content path (relevant for Safe Browsing reviews).
+     disable_surveys: true,
+     disable_surveys_automatic_display: true,
+     disable_web_experiments: true,
      loaded: (client) => {
       if (process.env.NODE_ENV === 'development') client.debug();
      },
