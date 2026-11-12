@@ -159148,9 +159148,9 @@
       "articleSlug": "marsello",
       "draftProgress": {
         "id": "b5ddf744f81b42b9536e",
-        "day": "2026-11-11",
+        "day": "2026-11-12",
         "articleSlug": "marsello",
-        "note": "Round 3 re-read Crypto Briefing earnings story and Bitcoin Magazine sale story; figures cross-checked (632.1M Q3 net income, 13,597 BTC sold for about 1.1B, 750M debt repayment, 500M buyback). Two sources verified; draft not started before deadline.",
+        "note": "Re-read Crypto Briefing earnings story and Bitcoin Magazine sale story this round; figures cross-checked (632.1M Q3 net income, 885.3M fair-value gain, 13,597 BTC sold for ~1.1B at ~81,039, 750M debt repayment, 500M buyback, revenue -35% to 164.2M). Two sources verified; draft and image still needed.",
         "sourceChecks": [
           {
             "url": "https://cryptobriefing.com/mara-holdings-q3-profit-bitcoin-sale-debt/",
@@ -159161,7 +159161,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-11T11:51:45.159Z",
+        "updatedAt": "2026-11-12T01:52:02.841Z",
         "approved": false,
         "mustReview": true
       }
@@ -164213,9 +164213,9 @@
       "articleSlug": "zcashgrants",
       "draftProgress": {
         "id": "252532bdf9093343d60c",
-        "day": "2026-11-11",
+        "day": "2026-11-12",
         "articleSlug": "zcashgrants",
-        "note": "Round 3 re-read Decrypt and Bitcoin.com coverage; verified 1M commitment, 4 x 100k first grants, ZCSH fee reinvestment up to a year, ad campaign, ZEC price levels. Two sources verified; draft not started before deadline.",
+        "note": "Re-read Decrypt and bitcoin.com coverage this round; verified 1M commitment, 4 x 100k first grants (Zcash Foundation, Pretty Good Policy, Shielded Labs, Project Tachyon), ZCSH fee reinvestment up to 12 months, Zcash Invest site and WSJ ad campaign, ZEC price levels. Two sources verified; draft and image still needed.",
         "sourceChecks": [
           {
             "url": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
@@ -164226,7 +164226,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-11T11:51:48.985Z",
+        "updatedAt": "2026-11-12T01:52:06.303Z",
         "approved": false,
         "mustReview": true
       }
