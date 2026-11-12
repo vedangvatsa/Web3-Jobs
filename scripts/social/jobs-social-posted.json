@@ -135227,7 +135227,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "38383663-66bd-4d57-a5b7-aab7447fe7f4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb2b0e7c75b51a3ddb40fc1154099c1fc5f49d06a"
     }
   ]
 }
