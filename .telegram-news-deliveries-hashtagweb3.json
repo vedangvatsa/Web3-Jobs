@@ -3607,5 +3607,37 @@
     "slotKey": "2026-11-11:evening",
     "messageId": 156184,
     "sentAt": "2026-11-11T19:34:04.208Z"
+  },
+  "ddb403f6-cb0c-4333-9b5a-c1b80ca58a29": {
+    "status": "reserved",
+    "reservedAt": "2026-11-12T03:54:18.279Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "MSCI Removes Strategy, Metaplanet, and Upexi From Indexes",
+        "summary": "The index removals take effect after the market closes on November 30 following MSCI's final review.",
+        "link": "https://hashtagweb3.com/mscidelete?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "MSCI deletes Strategy from indexes at November close"
+      },
+      {
+        "index": 16,
+        "headline": "Apex Group joins Hedera Council for asset tokenization",
+        "summary": "The global financial firm managing 3.5 trillion dollars in assets will explore blockchain-based settlement and compliance systems.",
+        "event_rationale": "Covers a major institutional asset manager joining a public ledger governance network, distinct from all previously posted items.",
+        "link": "https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917",
+        "source": "The Block",
+        "originalTitle": "Apex Group joins Hedera Council to explore tokenization and settlement"
+      },
+      {
+        "index": 2,
+        "headline": "Nvidia futures drop 10% amid reports of CEO removal",
+        "summary": "The Wall Street Journal reported the board may remove Jensen Huang following allegations of two extramarital affairs.",
+        "link": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
+        "source": "The Block",
+        "originalTitle": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang"
+      }
+    ],
+    "slotKey": "2026-11-12:morning"
   }
 }
