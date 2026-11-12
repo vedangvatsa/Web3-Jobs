@@ -902,10 +902,12 @@
           "mscidelete",
           "dbcustody"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-11-12T02:41:03.060Z",
         "buildId": "daily-20261112-43135555813-1",
-        "rolloutId": "daily-20261112-43135555813-1"
+        "rolloutId": "daily-20261112-43135555813-1",
+        "buildState": "READY",
+        "observedAt": "2026-11-12T03:01:15.933Z"
       }
     ]
   }
