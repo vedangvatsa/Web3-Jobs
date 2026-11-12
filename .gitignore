@@ -117,3 +117,65 @@ scripts/manual-emails*.json
 /.cache/catalog-publication/
 /.cache/job-applications/
 /.agents/skills/hashtagweb3-agent-skill/
+
+# Generated/Build artifacts
+public/preview/
+public/responsive/
+public/og/jobs/
+public/og/external/
+public/og/source/
+
+# Cache
+.cache/
+
+# IDE duplicate skills
+.claude/skills/
+.cursor/skills/
+.gemini/skills/
+
+# Build outputs
+packages/sdk/dist/
+paper/*.log
+
+# Runtime state files (social media)
+scripts/social/*-state.json
+scripts/social/*-receipts/
+scripts/social/*-receipts.json
+scripts/social/text-post-state*.json
+scripts/social/upload-state*.json
+scripts/social/buffer-*.json
+scripts/social/publish-*.json
+scripts/social/content-schedule.json
+scripts/social/job-video-state.json
+scripts/social/jobs-social-posted.json
+scripts/social/news-social-posted.json
+scripts/social/nomad-thread-receipts.json
+scripts/social/publish-slot-state.json
+scripts/social/publish-state.json
+
+# Social receipts
+scripts/social/newknowledge-carousel-receipts/
+scripts/social/newknowledge-receipts/
+
+# Compiled SDK
+packages/sdk/dist/
+
+# Preview HTML (generated)
+public/preview/
+
+# Responsive images (generated)
+public/responsive/
+
+# OG generated images
+public/og/jobs/
+public/og/external/
+public/og/source/
+
+# Runtime state files (Telegram, Resend, social media)
+.resend-*.json
+.telegram-*.json
+.telegram-*-deliveries-*.json
+.telegram-*-last-*.json
+.telegram-*-posted-*.json
+.telegram-posted*.json
+
