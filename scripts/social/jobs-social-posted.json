@@ -134947,6 +134947,46 @@
       "verification": "verified",
       "postId": "6af53809cb4c7286fd10e7f6",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7526492230405193728"
+    },
+    {
+      "slug": "sls454",
+      "company": "Block",
+      "title": "Account Executive Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-12T03:49:46.580Z",
+      "expectedText": "Block is hiring Account Executive Manager: https://hashtagweb3.com/sls454/li?og=7",
+      "snapshot": {
+        "id": "5410307008",
+        "title": "Account Executive Manager",
+        "company": "Block",
+        "link": "http://block.xyz/careers/jobs/5410307008?gh_jid=5410307008",
+        "date": "2026-11-09T16:12:26-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Block [block]",
+        "location": "Tokyo, Japan",
+        "department": "20213 S&M - Sales - Square Outside",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls454"
+      },
+      "payload": {
+        "text": "Block is hiring Account Executive Manager: https://hashtagweb3.com/sls454/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls454/li?og=7",
+          "title": "Account Executive Manager at Block",
+          "description": "Join Block as Account Executive Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls454.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "c305b24c-e19e-4768-a682-41d9e784ce00",
+      "verification": "creating"
     }
   ]
 }
