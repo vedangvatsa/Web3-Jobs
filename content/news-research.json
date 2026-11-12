@@ -169226,9 +169226,9 @@
         "Bitcoin Magazine"
       ],
       "id": "48320b8413ee1e543cab",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-15T00:09:13.000Z",
       "lastSeenAt": "2026-11-12T01:37:00.023Z",
       "articleSlug": "mscidelete",
@@ -169250,7 +169250,21 @@
         "updatedAt": "2026-11-12T01:43:04.044Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Cointelegraph final-list story and Crypto Briefing screen rules; matched deletion names, Nov. 30 effective date, 13M-share consultation figure and .8B selling estimate across both. Distinct event from the existing msci.md Oct. 15 rules adoption article.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/msci-excludes-strategy-non-operating-company/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-12T01:49:13.523Z",
+      "lastReviewedDay": "2026-11-12"
     },
     "0e824be7d30d20d16553": {
       "source": "The Defiant",
@@ -319250,6 +319264,23 @@
           ],
           "reviewedAt": "2026-11-12T01:47:18.190Z",
           "articleSlug": "dbcustody"
+        },
+        "48320b8413ee1e543cab": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Cointelegraph final-list story and Crypto Briefing screen rules; matched deletion names, Nov. 30 effective date, 13M-share consultation figure and .8B selling estimate across both. Distinct event from the existing msci.md Oct. 15 rules adoption article.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/msci-excludes-strategy-non-operating-company/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-12T01:49:13.523Z",
+          "articleSlug": "mscidelete"
         }
       },
       "baselineSlugs": [
