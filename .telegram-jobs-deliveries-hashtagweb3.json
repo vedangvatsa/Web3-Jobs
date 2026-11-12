@@ -9790,7 +9790,7 @@
     "sentAt": "2026-11-11T19:33:01.646Z"
   },
   "f12808d0-271e-4cc5-b51e-5631b044d1a0": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-12T03:50:34.831Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -9910,6 +9910,8 @@
       }
     ],
     "message": "- Block is hiring <a href=\"https://hashtagweb3.com/sls299?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Mid-Market Account Excutive</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls361?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Strategic Account Executive, Existing Business (Central Eastern Europe)</a>\n- Bitdeer is hiring <a href=\"https://hashtagweb3.com/dadc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, AI Datacenter Construction</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/ec4?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Lead Counsel, Employment</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/tse?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">TradFi Solution Expert</a>",
-    "slotKey": "2026-11-12:morning"
+    "slotKey": "2026-11-12:morning",
+    "messageId": 156186,
+    "sentAt": "2026-11-12T03:50:37.839Z"
   }
 }
