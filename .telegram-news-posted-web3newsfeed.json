@@ -977,6 +977,9 @@
   "https://hashtagweb3.com/anthropicipo?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/mercadobitcoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup",
+  "https://hashtagweb3.com/mscidelete?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448",
+  "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2830,6 +2833,12 @@
   "Mercado Bitcoin to restore account access Monday after $46M hack",
   "Deutsche Bank launches institutional cryptocurrency custody service in Europe",
   "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup",
+  "MSCI Removes Strategy, Metaplanet, and Upexi From Indexes",
+  "MSCI deletes Strategy from indexes at November close",
+  "US Securities and Exchange Commission contests perpetual derivatives regulation",
+  "‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards",
+  "Suiet wallet to discontinue operations",
+  "Suiet wallet to shut down in latest exit from Sui ecosystem",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -3336,5 +3345,8 @@
   "fp:affiliat|approval|asset|broker|custodial|dealer|digital|directly|dividend|kimber",
   "fp:825m|ant|anthropic|class|ipo|nasdaq|offer|rang|roadshow|shar",
   "fp:46m|access|account|balanc|can|follow|hack|mercado|monday|phas",
-  "fp:bank|bas|buildup|client|corporat|cryptocurrency|custody|deutsch|europ|fiv"
+  "fp:bank|bas|buildup|client|corporat|cryptocurrency|custody|deutsch|europ|fiv",
+  "fp:chang|delet|implement|index|metaplanet|msci|november|november30|provider|remov",
+  "fp:commission|contest|derivativ|determin|disput|driven|exchang|fall|growth|interven",
+  "fp:api|declin|defi|deposit|discontinu|down|ecosystem|exit|maintain|network"
 ]

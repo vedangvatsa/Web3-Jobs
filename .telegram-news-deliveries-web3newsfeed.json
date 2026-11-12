@@ -3816,7 +3816,7 @@
     "sentAt": "2026-11-11T19:36:07.338Z"
   },
   "bf44d14d-5a98-451f-be18-04532820e183": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-12T03:54:21.416Z",
     "stories": [
       {
@@ -3845,6 +3845,8 @@
         "originalTitle": "Suiet wallet to shut down in latest exit from Sui ecosystem"
       }
     ],
-    "slotKey": "2026-11-12:morning"
+    "slotKey": "2026-11-12:morning",
+    "messageId": 65823,
+    "sentAt": "2026-11-12T03:54:27.185Z"
   }
 }
