@@ -3715,7 +3715,7 @@
     "sentAt": "2026-11-12T03:50:44.183Z"
   },
   "e394c22f-2804-45a1-a66f-70424daab111": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-12T11:33:58.457Z",
     "stories": [
       {
@@ -3749,6 +3749,8 @@
         "originalTitle": "Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name"
       }
     ],
-    "slotKey": "2026-11-12:afternoon"
+    "slotKey": "2026-11-12:afternoon",
+    "messageId": 193504,
+    "sentAt": "2026-11-12T11:34:02.281Z"
   }
 }

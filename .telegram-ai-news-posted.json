@@ -923,6 +923,9 @@
   "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
   "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
   "https://techxplore.com/news/2026-11-australia-impose-mandatory-safety-ai.html",
+  "https://siliconangle.com/2026/11/11/google-enters-the-decision-model-market-with-gemini-decisions-api/",
+  "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
+  "https://the-decoder.com/helsing-built-an-ai-system-that-prepares-targets-for-weapons-systems-and-says-every-decision-will-carry-a-human-name/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2550,6 +2553,12 @@
   "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
   "Australia introduces six mandatory AI safety guardrails",
   "Australia will impose mandatory safety rules on AI. Are we focused on the right risks?",
+  "Google launches Gemini Decisions API and model",
+  "Google enters decision model market with Gemini Decisions API",
+  "Spirit Airlines union blocks employee data sale to Google",
+  "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+  "Helsing releases AI platform for military target processing",
+  "Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2990,5 +2999,8 @@
   "fp:29b|action|algorithm|autonomous|generation|ifm|mbzuai|open|pan2|parameter",
   "fp:720m|accelerat|aim|britain|british|chip|fractil|get|hardwar|leg",
   "fp:10b|67b|cross|financial|increas|mileston|nearly50|openai|previous|quarter",
-  "fp:albanes|announc|anthony|application|are|associat|australia|bind|focus|guardrail"
+  "fp:albanes|announc|anthony|application|are|associat|australia|bind|focus|guardrail",
+  "fp:answer|api|cost|decision|enter|gemini|googl|lower|operational|query",
+  "fp:airlin|attendant|block|dataset|dollar|employe|flight|found|googl|negotiat",
+  "fp:analyz|authority|autonomous|built|carry|decision|every|execution|final|hels"
 ]
