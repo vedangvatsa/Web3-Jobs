@@ -135515,7 +135515,8 @@
       },
       "account": "channel:base",
       "attemptId": "bd4b0600-f19d-4cc0-b470-2dd3bc34cedd",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x18b88f45d3af5da1257f5edbdfc966ba5c36b3fa"
     }
   ]
 }
