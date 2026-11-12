@@ -18756,7 +18756,7 @@
     "sentAt": "2026-11-12T11:32:43.871Z"
   },
   "23b445fb-e5c3-4f12-8331-cf60d3202956": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-12T11:32:46.401Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -18870,6 +18870,8 @@
       }
     ],
     "message": "- Alpaca is hiring <a href=\"https://hashtagweb3.com/sls365?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Accountant</a>\n- Rain is hiring <a href=\"https://hashtagweb3.com/ec5?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Events Coordinator</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/mgr252?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff MarTech Manager</a>\n- Digital Asset is hiring <a href=\"https://hashtagweb3.com/arc2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, Data Architecture (AI Enablement)</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/sls462?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Account Director</a>",
-    "slotKey": "2026-11-12:afternoon"
+    "slotKey": "2026-11-12:afternoon",
+    "messageId": 189,
+    "sentAt": "2026-11-12T11:32:48.795Z"
   }
 }
