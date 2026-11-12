@@ -5,6 +5,12 @@
 **Report:** Google Search Console email — "Social engineering content detected", sample URL `http://hashtagweb3[.]com/`
 **Browser impact:** Chrome "Deceptive Website Warning", Brave "Dangerous site … recently found phishing" (full registrable domain)
 
+## Security Issues report (captured 2026-11-12)
+
+- **Detected issues:** 1 — **"Deceptive pages"** ("These pages attempt to trick users into doing something dangerous, such as installing unwanted software or revealing personal information.")
+- **Sample URLs: N/A** — Google provided no example URLs, so there is no flagged path to remove; the flag applies at domain level.
+- The site carries **no ads and no ad networks** (verified in the third-party inventory below), ruling out deceptive-ad injection.
+
 ## 1. Investigation scope (all checks performed 2026-11-12)
 
 Every check below ran against the **live production site** and the **current repo** (`main` @ `c867e55156`).
@@ -45,9 +51,9 @@ Nothing else. No ad networks, no crypto widgets, no external forms.
 
 ## 4. Remaining checklist before requesting review
 
-1. **Search Console → Security Issues report** — capture the full sample URL list and the exact issue categories; attach to this doc.
+1. ~~**Search Console → Security Issues report**~~ — **done:** one issue, "Deceptive pages", **Sample URLs: N/A** (see capture above). No actionable URL list exists.
 2. **PostHog dashboard** — check Surveys / Feature Flags / Web Experiments tabs for anything unexpected; confirm no unknown admin members.
 3. **Clarity (`yc68wsif01`) and GA4 (`G-FYBLPS87X0`)** — confirm no unknown admins/users; these accounts can run scripts site-wide if compromised.
-4. **Firebase hosting release history** — verify no deployments outside this repo's CI (Firebase console → Hosting, or `gcloud firebase hosting:releases list` for project `web3-jobs-aggregator`).
-5. **Rotate** analytics write keys and Firebase deploy tokens if anything above looks off.
-6. **Request a review** in Search Console once 1–5 are confirmed, referencing this document.
+4. **Firebase hosting release history** — verify no deployments outside this repo's CI (Firebase console → App Hosting → backend build history).
+5. ~~**Rotate**~~ — analytics write keys / deploy tokens if anything in 2–4 looks off.
+6. **Request a review** in Search Console once 2–4 are confirmed, referencing this document.
