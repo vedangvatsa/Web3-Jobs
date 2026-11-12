@@ -135855,6 +135855,48 @@
       "verification": "verified",
       "postId": "6af539098a1a2f52b5200428",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7526493300586008576"
+    },
+    {
+      "slug": "asp2",
+      "company": "Kraken",
+      "title": "Affiliate Specialist - Pro (EMEA)",
+      "platform": "linkedin",
+      "postedAt": "2026-11-12T03:54:10.597Z",
+      "expectedText": "Kraken is hiring Affiliate Specialist - Pro (EMEA): https://hashtagweb3.com/asp2/li?og=7",
+      "snapshot": {
+        "id": "7a6e5274-d82d-40ac-b396-592318f68d76",
+        "title": "Affiliate Specialist - Pro (EMEA)",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/7a6e5274-d82d-40ac-b396-592318f68d76",
+        "date": "2026-11-06T17:35:07.647+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (United Kingdom)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Marketing",
+        "active": true,
+        "dateVerified": true,
+        "slug": "asp2"
+      },
+      "payload": {
+        "text": "Kraken is hiring Affiliate Specialist - Pro (EMEA): https://hashtagweb3.com/asp2/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/asp2/li?og=7",
+          "title": "Affiliate Specialist - Pro (EMEA) at Kraken",
+          "description": "Join Kraken as Affiliate Specialist - Pro. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/asp2.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "01537916-232a-4309-83c1-91c271570e51",
+      "verification": "creating"
     }
   ]
 }
