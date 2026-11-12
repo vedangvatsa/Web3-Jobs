@@ -134553,7 +134553,8 @@
       },
       "account": "channel:developers",
       "attemptId": "462e5b2e-dbdb-4648-81d6-a91078b874cf",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xce7ac5bf362ac80fa2b2d638d3c2abcefd6ed776"
     }
   ]
 }
