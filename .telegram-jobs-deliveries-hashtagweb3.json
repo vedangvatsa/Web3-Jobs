@@ -9913,5 +9913,129 @@
     "slotKey": "2026-11-12:morning",
     "messageId": 156186,
     "sentAt": "2026-11-12T03:50:37.839Z"
+  },
+  "f85f26e0-07ef-4618-b605-29c1b91b8192": {
+    "status": "reserved",
+    "reservedAt": "2026-11-12T11:32:54.069Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5028318101",
+          "title": "Onboarding Analyst - 6 month contract",
+          "company": "BVNK",
+          "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5028318101",
+          "date": "2026-11-05T04:32:32-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BVNK [bvnk]",
+          "location": "South Africa / Poland / Bulgaria / Spain / Malta",
+          "department": "Compliance",
+          "active": true,
+          "salary": "€10k – €16k/mo",
+          "dateVerified": true,
+          "slug": "ob8"
+        },
+        "key": "5028318101",
+        "slug": "ob8",
+        "url": "https://hashtagweb3.com/ob8?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BVNK",
+        "title": "Onboarding Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "3e442852f8af",
+          "title": "Field Application Engineer, AI Cloud",
+          "company": "Bitdeer",
+          "link": "https://bitdeer.breezy.hr/p/3e442852f8af-field-application-engineer-ai-cloud",
+          "date": "2026-11-03",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Bitdeer [bitdeer]",
+          "location": "Remote (San Jose, CA)",
+          "isRemote": true,
+          "department": "",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://bitdeer.breezy.hr/p/3e442852f8af-field-application-engineer-ai-cloud",
+            "checkedAt": "2026-11-05T00:30:52.543Z",
+            "bodySha256": "55cf4a800b9b91263d8b2173a6e56ecd91ea96c1cc82c286cfaafd1715fa4fc9",
+            "provider": "breezy",
+            "datePosted": "2026-11-03"
+          },
+          "slug": "eng401"
+        },
+        "key": "3e442852f8af",
+        "slug": "eng401",
+        "url": "https://hashtagweb3.com/eng401?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "Field Application Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "ffa65512-ae82-432f-a079-c17faf3ec636",
+          "title": "Security Engineer",
+          "company": "Allium",
+          "link": "https://jobs.ashbyhq.com/allium/ffa65512-ae82-432f-a079-c17faf3ec636",
+          "date": "2026-11-02T14:37:41.230+00:00",
+          "source": "Ashby: Allium [allium]",
+          "location": "Remote",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "General",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec141"
+        },
+        "key": "ffa65512-ae82-432f-a079-c17faf3ec636",
+        "slug": "sec141",
+        "url": "https://hashtagweb3.com/sec141?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Allium",
+        "title": "Security Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "25578e8a-93e2-4209-bcf5-a714448470b5",
+          "title": "Atlassian Administrator",
+          "company": "CoinsPaid",
+          "link": "https://jobs.eu.lever.co/coinspaid/25578e8a-93e2-4209-bcf5-a714448470b5",
+          "date": "2026-10-23T09:42:00.130Z",
+          "source": "Lever: CoinsPaid [coinspaid]",
+          "location": "Hybrid (Remote - European Region)",
+          "workplaceType": "hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "dateSource": "Lever.createdAt",
+          "slug": "aa"
+        },
+        "key": "25578e8a-93e2-4209-bcf5-a714448470b5",
+        "slug": "aa",
+        "url": "https://hashtagweb3.com/aa?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CoinsPaid",
+        "title": "Atlassian Administrator"
+      },
+      {
+        "snapshot": {
+          "id": "7239593b-55ec-4fbd-bfc5-01e855f9f56d",
+          "title": "Director, Capital Markets",
+          "company": "Riot Platforms",
+          "link": "https://ats.rippling.com/riot-platforms-careers/jobs/7239593b-55ec-4fbd-bfc5-01e855f9f56d",
+          "date": "2026-10-27T17:46:09.069000-07:00",
+          "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+          "location": "Remote (United States)",
+          "department": "Corporate Development",
+          "active": true,
+          "dateVerified": true,
+          "slug": "dcm"
+        },
+        "key": "7239593b-55ec-4fbd-bfc5-01e855f9f56d",
+        "slug": "dcm",
+        "url": "https://hashtagweb3.com/dcm?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Riot Platforms",
+        "title": "Director, Capital Markets"
+      }
+    ],
+    "message": "- BVNK is hiring <a href=\"https://hashtagweb3.com/ob8?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Onboarding Analyst - 6 month contract</a>\n- Bitdeer is hiring <a href=\"https://hashtagweb3.com/eng401?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Field Application Engineer, AI Cloud</a>\n- Allium is hiring <a href=\"https://hashtagweb3.com/sec141?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Security Engineer</a>\n- CoinsPaid is hiring <a href=\"https://hashtagweb3.com/aa?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Atlassian Administrator</a>\n- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/dcm?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, Capital Markets</a>",
+    "slotKey": "2026-11-12:afternoon"
   }
 }
