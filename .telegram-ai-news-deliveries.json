@@ -3676,7 +3676,7 @@
     "sentAt": "2026-11-11T19:32:55.774Z"
   },
   "02da00b0-771f-4326-9814-1c4be251fdfa": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-12T03:50:29.096Z",
     "stories": [
       {
@@ -3710,6 +3710,8 @@
         "originalTitle": "Australia will impose mandatory safety rules on AI. Are we focused on the right risks?"
       }
     ],
-    "slotKey": "2026-11-12:morning"
+    "slotKey": "2026-11-12:morning",
+    "messageId": 193501,
+    "sentAt": "2026-11-12T03:50:44.183Z"
   }
 }

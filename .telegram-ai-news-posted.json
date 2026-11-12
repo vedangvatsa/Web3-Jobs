@@ -920,6 +920,9 @@
   "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
   "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
   "https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/",
+  "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+  "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+  "https://techxplore.com/news/2026-11-australia-impose-mandatory-safety-ai.html",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2541,6 +2544,12 @@
   "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
   "MBZUAI releases open-source physical world model",
   "MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI",
+  "Fractile raises $720 million for AI chip development",
+  "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+  "OpenAI quarterly revenue surpasses $10 billion",
+  "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+  "Australia introduces six mandatory AI safety guardrails",
+  "Australia will impose mandatory safety rules on AI. Are we focused on the right risks?",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2978,5 +2987,8 @@
   "fp:anthropic|comply|critical|disclos|effect|enforc|fac|incident|law|level",
   "fp:anthropic|between|chipmak|chipmaker|deepen|direct|fabrication|financial|frontier|giant",
   "fp:aid|alphagenome2|alter|biology|cellular|diseas|dna|function|genetic|googl",
-  "fp:29b|action|algorithm|autonomous|generation|ifm|mbzuai|open|pan2|parameter"
+  "fp:29b|action|algorithm|autonomous|generation|ifm|mbzuai|open|pan2|parameter",
+  "fp:720m|accelerat|aim|britain|british|chip|fractil|get|hardwar|leg",
+  "fp:10b|67b|cross|financial|increas|mileston|nearly50|openai|previous|quarter",
+  "fp:albanes|announc|anthony|application|are|associat|australia|bind|focus|guardrail"
 ]
