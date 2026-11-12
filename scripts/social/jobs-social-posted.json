@@ -135769,6 +135769,47 @@
       "attemptId": "233aaab2-5795-40d9-88f2-ce4e86f73e3b",
       "verification": "verified",
       "postId": "0xdc9328840198e3c319ae1a6b2d174d76103b37e1"
+    },
+    {
+      "slug": "asp2",
+      "company": "Kraken",
+      "title": "Affiliate Specialist - Pro (EMEA)",
+      "platform": "linkedin",
+      "postedAt": "2026-11-12T03:54:10.597Z",
+      "expectedText": "Kraken is hiring Affiliate Specialist - Pro (EMEA): https://hashtagweb3.com/asp2/li?og=7",
+      "snapshot": {
+        "id": "7a6e5274-d82d-40ac-b396-592318f68d76",
+        "title": "Affiliate Specialist - Pro (EMEA)",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/7a6e5274-d82d-40ac-b396-592318f68d76",
+        "date": "2026-11-06T17:35:07.647+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (United Kingdom)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Marketing",
+        "active": true,
+        "dateVerified": true,
+        "slug": "asp2"
+      },
+      "payload": {
+        "text": "Kraken is hiring Affiliate Specialist - Pro (EMEA): https://hashtagweb3.com/asp2/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/asp2/li?og=7",
+          "title": "Affiliate Specialist - Pro (EMEA) at Kraken",
+          "description": "Join Kraken as Affiliate Specialist - Pro. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/asp2.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "11b8240b-c317-4a26-b667-326cf06c9f53",
+      "verification": "creating"
     }
   ]
 }
