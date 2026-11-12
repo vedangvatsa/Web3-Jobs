@@ -134343,7 +134343,8 @@
       },
       "account": "profile",
       "attemptId": "10ee7c51-51d5-4303-84d7-b0fc6a9c8ba3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0d274ec07c0d7e70979624b09758290e1554cd5e"
     }
   ]
 }
