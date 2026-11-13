@@ -172243,7 +172243,27 @@
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
       "attempts": 0,
       "expiresAt": "2026-11-15T16:45:52.000Z",
-      "lastSeenAt": "2026-11-13T11:28:25.584Z"
+      "lastSeenAt": "2026-11-13T11:28:25.584Z",
+      "articleSlug": "defiamicus",
+      "draftProgress": {
+        "id": "eea39aae24cdd6ae0bc9",
+        "day": "2026-11-13",
+        "articleSlug": "defiamicus",
+        "note": "Read Unchained and Cointelegraph on DOJ/Chamber/SIFMA/DeFi filings against Illinois crypto tax; CoinDesk returned 429. Draft not started.",
+        "sourceChecks": [
+          {
+            "url": "https://unchainedcrypto.com/18-crypto-firms-seek-to-join-court-fight-over-illinois-0-2-crypto-tax/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-13T12:29:05.368Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "3616b7e6c0c27a0b8ade": {
       "source": "Cointelegraph",
