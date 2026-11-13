@@ -164310,7 +164310,7 @@
         "The Defiant"
       ],
       "id": "252532bdf9093343d60c",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
       "attempts": 1,
       "expiresAt": "2026-11-13T17:52:14.000Z",
@@ -164348,7 +164348,8 @@
         }
       ],
       "reviewedAt": "2026-11-13T12:15:15.715Z",
-      "lastReviewedDay": "2026-11-13"
+      "lastReviewedDay": "2026-11-13",
+      "publishedAt": "2026-11-13T13:15:41.576Z"
     },
     "316b5afcf3aa02c9bafc": {
       "source": "Cointelegraph",
@@ -164768,7 +164769,7 @@
         "Unchained"
       ],
       "id": "afa04107b09697111d85",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
       "attempts": 1,
       "expiresAt": "2026-11-13T14:00:02.000Z",
@@ -164850,7 +164851,8 @@
         }
       ],
       "reviewedAt": "2026-11-13T11:40:37.815Z",
-      "lastReviewedDay": "2026-11-13"
+      "lastReviewedDay": "2026-11-13",
+      "publishedAt": "2026-11-13T13:15:41.576Z"
     },
     "1d40816e1565a859fea3": {
       "source": "BeInCrypto",
@@ -165550,7 +165552,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "8c3192546fe9a1f7eb46",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
       "attempts": 1,
       "expiresAt": "2026-11-13T14:32:48.000Z",
@@ -165588,7 +165590,8 @@
         }
       ],
       "reviewedAt": "2026-11-13T12:15:16.598Z",
-      "lastReviewedDay": "2026-11-13"
+      "lastReviewedDay": "2026-11-13",
+      "publishedAt": "2026-11-13T13:15:41.576Z"
     },
     "44d6817dbd37e5f329ba": {
       "source": "The Defiant",
@@ -166230,7 +166233,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "2d520831f09185045e0e",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
       "attempts": 1,
       "expiresAt": "2026-11-14T04:42:30.000Z",
@@ -166257,7 +166260,8 @@
       ],
       "reviewedAt": "2026-11-13T12:22:40.424Z",
       "articleSlug": "acrosshack",
-      "lastReviewedDay": "2026-11-13"
+      "lastReviewedDay": "2026-11-13",
+      "publishedAt": "2026-11-13T13:15:41.576Z"
     },
     "571a7e479864d195ae7a": {
       "source": "BeInCrypto",
@@ -167500,7 +167504,7 @@
         "Unchained"
       ],
       "id": "33eae4247c740f06b391",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
       "attempts": 1,
       "expiresAt": "2026-11-13T15:49:59.000Z",
@@ -167542,7 +167546,8 @@
         }
       ],
       "reviewedAt": "2026-11-13T12:19:58.793Z",
-      "lastReviewedDay": "2026-11-13"
+      "lastReviewedDay": "2026-11-13",
+      "publishedAt": "2026-11-13T13:15:41.576Z"
     },
     "bc83f0358aa84c4b4011": {
       "source": "The Defiant",
@@ -168571,7 +168576,7 @@
         "Unchained"
       ],
       "id": "d3abf39b86f49da7d1e3",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
       "attempts": 1,
       "expiresAt": "2026-11-14T13:00:00.000Z",
@@ -168596,8 +168601,8 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "verified-event",
-      "note": "Read Cointelegraph and Unchained launch stories; Nov 23 9am ET open, 70+ confirmed assets, 59 Direxion ETFs, 67 objecting issuers, Uniswap v4/X Layer mechanics and IMF/Nasdaq context verified across both sources. Draft and local hero image completed.",
+      "reason": "quality-gate",
+      "note": "Actual article audits still failed after bounded repair attempts: okxicedebut.md: template phrasing: leverag(?:e|ing). Draft and original source checks are retained for repair; this article was not published.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back",
@@ -168608,8 +168613,35 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-13T12:08:31.329Z",
-      "lastReviewedDay": "2026-11-13"
+      "reviewedAt": "2026-11-13T13:15:19.568Z",
+      "lastReviewedDay": "2026-11-13",
+      "retrySearches": [
+        "Repair and revalidate the preserved okxicedebut draft against its original sources: okxicedebut.md: template phrasing: leverag(?:e|ing)"
+      ],
+      "nextReviewDate": "2026-11-14",
+      "qualityIsolation": {
+        "previousReview": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Cointelegraph and Unchained launch stories; Nov 23 9am ET open, 70+ confirmed assets, 59 Direxion ETFs, 67 objecting issuers, Uniswap v4/X Layer mechanics and IMF/Nasdaq context verified across both sources. Draft and local hero image completed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/okxice-tokenized-stock-venue-to-open-nov-23-circle-coinbase-robinhood-among-70-assets/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-13T12:08:31.329Z",
+          "articleSlug": "okxicedebut"
+        },
+        "validationErrors": [
+          "okxicedebut.md: template phrasing: leverag(?:e|ing)"
+        ],
+        "isolatedAt": "2026-11-13T13:15:19.568Z"
+      }
     },
     "f91891fc0a923a01b21d": {
       "source": "The Block",
@@ -168639,7 +168671,7 @@
         "Unchained"
       ],
       "id": "f91891fc0a923a01b21d",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
       "attempts": 1,
       "expiresAt": "2026-11-14T09:40:46.000Z",
@@ -168664,8 +168696,8 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "verified-event",
-      "note": "Read Unchained ruling story and the primary Nov. 10 opinion on CourtListener (Ludlow Exchange v. James, ECF 73); McMahon denial, not-swaps holding, CFTC contradiction language, geofencing path and appeal posture verified. Draft and local hero image completed.",
+      "reason": "quality-gate",
+      "note": "Actual article audits still failed after bounded repair attempts: Source link HTTP 403: https://www.courtlistener.com/docket/73720612/73/ludlow-exchange-llc-v-james/. Draft and original source checks are retained for repair; this article was not published.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/judge-calls-cftcs-swap-rules-inherently-contradictory-as-novig-loses-bid-to-block-new-york",
@@ -168676,8 +168708,35 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-13T12:08:36.462Z",
-      "lastReviewedDay": "2026-11-13"
+      "reviewedAt": "2026-11-13T13:15:19.568Z",
+      "lastReviewedDay": "2026-11-13",
+      "retrySearches": [
+        "Repair and revalidate the preserved novigrule draft against its original sources: Source link HTTP 403: https://www.courtlistener.com/docket/73720612/73/ludlow-exchange-llc-v-james/"
+      ],
+      "nextReviewDate": "2026-11-14",
+      "qualityIsolation": {
+        "previousReview": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Unchained ruling story and the primary Nov. 10 opinion on CourtListener (Ludlow Exchange v. James, ECF 73); McMahon denial, not-swaps holding, CFTC contradiction language, geofencing path and appeal posture verified. Draft and local hero image completed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/judge-calls-cftcs-swap-rules-inherently-contradictory-as-novig-loses-bid-to-block-new-york",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.courtlistener.com/docket/73720612/73/ludlow-exchange-llc-v-james/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-13T12:08:36.462Z",
+          "articleSlug": "novigrule"
+        },
+        "validationErrors": [
+          "Source link HTTP 403: https://www.courtlistener.com/docket/73720612/73/ludlow-exchange-llc-v-james/"
+        ],
+        "isolatedAt": "2026-11-13T13:15:19.568Z"
+      }
     },
     "3f250f6e73da30f98fb3": {
       "source": "Cointelegraph",
@@ -171401,7 +171460,7 @@
         "Unchained"
       ],
       "id": "b5b2560bc8498bafb56c",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
       "attempts": 1,
       "expiresAt": "2026-11-14T10:51:34.000Z",
@@ -171443,7 +171502,8 @@
         }
       ],
       "reviewedAt": "2026-11-13T11:54:27.757Z",
-      "lastReviewedDay": "2026-11-13"
+      "lastReviewedDay": "2026-11-13",
+      "publishedAt": "2026-11-13T13:15:41.576Z"
     },
     "e93c83c9a8eb8be8bf27": {
       "source": "The Defiant",
@@ -171525,7 +171585,7 @@
         "Unchained"
       ],
       "id": "e33b7172f9968a76fb2d",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
       "attempts": 1,
       "expiresAt": "2026-11-15T22:55:52.000Z",
@@ -171575,7 +171635,8 @@
         }
       ],
       "reviewedAt": "2026-11-13T11:42:28.620Z",
-      "lastReviewedDay": "2026-11-13"
+      "lastReviewedDay": "2026-11-13",
+      "publishedAt": "2026-11-13T13:15:41.576Z"
     },
     "855641ab1fc70ba0bcef": {
       "source": "Unchained",
@@ -171798,7 +171859,7 @@
         "Unchained"
       ],
       "id": "eb789d04036090af44e2",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
       "attempts": 1,
       "expiresAt": "2026-11-15T15:55:38.000Z",
@@ -171821,7 +171882,8 @@
       ],
       "reviewedAt": "2026-11-13T12:17:00.364Z",
       "articleSlug": "tethergold",
-      "lastReviewedDay": "2026-11-13"
+      "lastReviewedDay": "2026-11-13",
+      "publishedAt": "2026-11-13T13:15:41.576Z"
     },
     "7e4791e89ca0f98b4320": {
       "source": "The Block",
@@ -172140,7 +172202,7 @@
         "The Defiant"
       ],
       "id": "7cef1b3e1714efed0fac",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
       "attempts": 1,
       "expiresAt": "2026-11-15T22:06:03.000Z",
@@ -172165,8 +172227,8 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "verified-event",
-      "note": "Read the DOJ press release and Decrypt on the FaceStealer deepfake scheme ($400M over 18 months), the 900-video seizure, and the $1.2B Binance court authorization; The Defiant returned 403.",
+      "reason": "quality-gate",
+      "note": "Actual article audits still failed after bounded repair attempts: facestealer.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
       "sourceChecks": [
         {
           "url": "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency",
@@ -172185,8 +172247,43 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-13T12:34:23.463Z",
-      "lastReviewedDay": "2026-11-13"
+      "reviewedAt": "2026-11-13T13:15:19.567Z",
+      "lastReviewedDay": "2026-11-13",
+      "retrySearches": [
+        "Repair and revalidate the preserved facestealer draft against its original sources: facestealer.md: under 600 words"
+      ],
+      "nextReviewDate": "2026-11-14",
+      "qualityIsolation": {
+        "previousReview": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the DOJ press release and Decrypt on the FaceStealer deepfake scheme ($400M over 18 months), the 900-video seizure, and the $1.2B Binance court authorization; The Defiant returned 403.",
+          "sourceChecks": [
+            {
+              "url": "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/security/doj-disrupts-north-korean-fake-call-crypto-theft-scheme",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-13T12:34:23.463Z",
+          "articleSlug": "facestealer"
+        },
+        "validationErrors": [
+          "facestealer.md: under 600 words"
+        ],
+        "isolatedAt": "2026-11-13T13:15:19.567Z"
+      }
     },
     "8c347b65c9a2a84f1a47": {
       "source": "The Block",
@@ -172327,7 +172424,7 @@
         "Unchained"
       ],
       "id": "eea39aae24cdd6ae0bc9",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
       "attempts": 1,
       "expiresAt": "2026-11-15T16:45:52.000Z",
@@ -172352,8 +172449,8 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "verified-event",
-      "note": "Read Unchained and Cointelegraph on the Nov. 6-11 DOJ, Chamber/SIFMA and DeFi amicus filings against Illinois' 0.2% digital asset tax; CoinDesk returned 429.",
+      "reason": "quality-gate",
+      "note": "Actual article audits still failed after bounded repair attempts: defiamicus.md: template phrasing: paradigm. Draft and original source checks are retained for repair; this article was not published.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/18-crypto-firms-seek-to-join-court-fight-over-illinois-0-2-crypto-tax/",
@@ -172368,8 +172465,39 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-13T12:34:23.463Z",
-      "lastReviewedDay": "2026-11-13"
+      "reviewedAt": "2026-11-13T13:15:19.567Z",
+      "lastReviewedDay": "2026-11-13",
+      "retrySearches": [
+        "Repair and revalidate the preserved defiamicus draft against its original sources: defiamicus.md: template phrasing: paradigm"
+      ],
+      "nextReviewDate": "2026-11-14",
+      "qualityIsolation": {
+        "previousReview": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Unchained and Cointelegraph on the Nov. 6-11 DOJ, Chamber/SIFMA and DeFi amicus filings against Illinois' 0.2% digital asset tax; CoinDesk returned 429.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/18-crypto-firms-seek-to-join-court-fight-over-illinois-0-2-crypto-tax/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-13T12:34:23.463Z",
+          "articleSlug": "defiamicus"
+        },
+        "validationErrors": [
+          "defiamicus.md: template phrasing: paradigm"
+        ],
+        "isolatedAt": "2026-11-13T13:15:19.567Z"
+      }
     },
     "3616b7e6c0c27a0b8ade": {
       "source": "Cointelegraph",
@@ -173124,7 +173252,7 @@
         "Unchained"
       ],
       "id": "f5e4b30f1a286d093b57",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
       "attempts": 1,
       "expiresAt": "2026-11-15T15:45:48.000Z",
@@ -173166,7 +173294,8 @@
         }
       ],
       "reviewedAt": "2026-11-13T12:15:14.350Z",
-      "lastReviewedDay": "2026-11-13"
+      "lastReviewedDay": "2026-11-13",
+      "publishedAt": "2026-11-13T13:15:41.576Z"
     },
     "f8c7267b7de95e35b4f9": {
       "source": "Unchained",
@@ -174352,7 +174481,7 @@
         "Bankless"
       ],
       "id": "549f3d77e33c6ffd5976",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
       "attempts": 1,
       "expiresAt": "2026-11-15T21:07:49.000Z",
@@ -174377,8 +174506,8 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "verified-event",
-      "note": "Read Cointelegraph and Bankless on Kalshi ending Trump Jr.'s advisory role after 1789 Capital's Polymarket investment; CoinDesk returned 429 on WebFetch and curl.",
+      "reason": "quality-gate",
+      "note": "Actual article audits still failed after bounded repair attempts: kalshitrump.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment",
@@ -174393,8 +174522,39 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-13T12:34:23.463Z",
-      "lastReviewedDay": "2026-11-13"
+      "reviewedAt": "2026-11-13T13:15:19.567Z",
+      "lastReviewedDay": "2026-11-13",
+      "retrySearches": [
+        "Repair and revalidate the preserved kalshitrump draft against its original sources: kalshitrump.md: under 600 words"
+      ],
+      "nextReviewDate": "2026-11-14",
+      "qualityIsolation": {
+        "previousReview": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Cointelegraph and Bankless on Kalshi ending Trump Jr.'s advisory role after 1789 Capital's Polymarket investment; CoinDesk returned 429 on WebFetch and curl.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bankless.com/read/news/kalshi-ends-donald-trump-jr-advisor-role",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-13T12:34:23.463Z",
+          "articleSlug": "kalshitrump"
+        },
+        "validationErrors": [
+          "kalshitrump.md: under 600 words"
+        ],
+        "isolatedAt": "2026-11-13T13:15:19.568Z"
+      }
     },
     "0ced036023dcc0182579": {
       "source": "Cointelegraph",
@@ -324286,7 +324446,7 @@
     "2026-11-13": {
       "day": "2026-11-13",
       "startedAt": "2026-11-13T11:28:25.584Z",
-      "status": "prepared",
+      "status": "incomplete",
       "candidateIds": [
         "9815fb7dc8a078ea89c0",
         "a261c30d910b6a17dd2c",
@@ -328239,7 +328399,7 @@
           "reviewedAt": "2026-11-13T11:36:08.962Z"
         },
         "afa04107b09697111d85": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Monad Foundation primary release with Unchained, crypto.news and NewsBTC; run rate, chain list, privacy-not-live and Visa non-announcement matched across sources; image self-hosted and audits pass.",
           "sourceChecks": [
@@ -328277,10 +328437,11 @@
             }
           ],
           "reviewedAt": "2026-11-13T11:40:37.815Z",
-          "articleSlug": "monadvisa"
+          "articleSlug": "monadvisa",
+          "publishedAt": "2026-11-13T13:15:41.576Z"
         },
         "e33b7172f9968a76fb2d": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified DOJ primary release with Cointelegraph and Unchained; .2B authorization, .7B frozen, B theft and FaceStealer 00M figures matched; image self-hosted and audits pass.",
           "sourceChecks": [
@@ -328302,10 +328463,11 @@
             }
           ],
           "reviewedAt": "2026-11-13T11:42:28.620Z",
-          "articleSlug": "dojseizure"
+          "articleSlug": "dojseizure",
+          "publishedAt": "2026-11-13T13:15:41.576Z"
         },
         "b5b2560bc8498bafb56c": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Rechecked Cointelegraph, Decrypt and Unchained article text; 200+ UK/EU tokens, 1500+ assets, $1.1B market cap, GTN rollout, LSE 2027 plan, Backed Assets issuer and US/UK eligibility limits all verified. Draft repaired to 650+ words; quality, formatting, duplicate and image audits pass.",
           "sourceChecks": [
@@ -328323,7 +328485,8 @@
             }
           ],
           "reviewedAt": "2026-11-13T11:54:27.757Z",
-          "articleSlug": "xstockseu"
+          "articleSlug": "xstockseu",
+          "publishedAt": "2026-11-13T13:15:41.576Z"
         },
         "61df2c3675a11c47cc6c": {
           "status": "rejected",
@@ -328362,9 +328525,9 @@
           ]
         },
         "d3abf39b86f49da7d1e3": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Read Cointelegraph and Unchained launch stories; Nov 23 9am ET open, 70+ confirmed assets, 59 Direxion ETFs, 67 objecting issuers, Uniswap v4/X Layer mechanics and IMF/Nasdaq context verified across both sources. Draft and local hero image completed.",
+          "status": "deferred",
+          "reason": "quality-gate",
+          "note": "Actual article audits still failed after bounded repair attempts: okxicedebut.md: template phrasing: leverag(?:e|ing). Draft and original source checks are retained for repair; this article was not published.",
           "sourceChecks": [
             {
               "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back",
@@ -328375,13 +328538,39 @@
               "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-11-13T12:08:31.329Z",
-          "articleSlug": "okxicedebut"
+          "reviewedAt": "2026-11-13T13:15:19.568Z",
+          "articleSlug": "okxicedebut",
+          "retrySearches": [
+            "Repair and revalidate the preserved okxicedebut draft against its original sources: okxicedebut.md: template phrasing: leverag(?:e|ing)"
+          ],
+          "qualityIsolation": {
+            "previousReview": {
+              "status": "ready",
+              "reason": "verified-event",
+              "note": "Read Cointelegraph and Unchained launch stories; Nov 23 9am ET open, 70+ confirmed assets, 59 Direxion ETFs, 67 objecting issuers, Uniswap v4/X Layer mechanics and IMF/Nasdaq context verified across both sources. Draft and local hero image completed.",
+              "sourceChecks": [
+                {
+                  "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://unchainedcrypto.com/okxice-tokenized-stock-venue-to-open-nov-23-circle-coinbase-robinhood-among-70-assets/",
+                  "outcome": "read"
+                }
+              ],
+              "reviewedAt": "2026-11-13T12:08:31.329Z",
+              "articleSlug": "okxicedebut"
+            },
+            "validationErrors": [
+              "okxicedebut.md: template phrasing: leverag(?:e|ing)"
+            ],
+            "isolatedAt": "2026-11-13T13:15:19.568Z"
+          }
         },
         "f91891fc0a923a01b21d": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Read Unchained ruling story and the primary Nov. 10 opinion on CourtListener (Ludlow Exchange v. James, ECF 73); McMahon denial, not-swaps holding, CFTC contradiction language, geofencing path and appeal posture verified. Draft and local hero image completed.",
+          "status": "deferred",
+          "reason": "quality-gate",
+          "note": "Actual article audits still failed after bounded repair attempts: Source link HTTP 403: https://www.courtlistener.com/docket/73720612/73/ludlow-exchange-llc-v-james/. Draft and original source checks are retained for repair; this article was not published.",
           "sourceChecks": [
             {
               "url": "https://unchainedcrypto.com/judge-calls-cftcs-swap-rules-inherently-contradictory-as-novig-loses-bid-to-block-new-york",
@@ -328392,11 +328581,37 @@
               "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-11-13T12:08:36.462Z",
-          "articleSlug": "novigrule"
+          "reviewedAt": "2026-11-13T13:15:19.568Z",
+          "articleSlug": "novigrule",
+          "retrySearches": [
+            "Repair and revalidate the preserved novigrule draft against its original sources: Source link HTTP 403: https://www.courtlistener.com/docket/73720612/73/ludlow-exchange-llc-v-james/"
+          ],
+          "qualityIsolation": {
+            "previousReview": {
+              "status": "ready",
+              "reason": "verified-event",
+              "note": "Read Unchained ruling story and the primary Nov. 10 opinion on CourtListener (Ludlow Exchange v. James, ECF 73); McMahon denial, not-swaps holding, CFTC contradiction language, geofencing path and appeal posture verified. Draft and local hero image completed.",
+              "sourceChecks": [
+                {
+                  "url": "https://unchainedcrypto.com/judge-calls-cftcs-swap-rules-inherently-contradictory-as-novig-loses-bid-to-block-new-york",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://www.courtlistener.com/docket/73720612/73/ludlow-exchange-llc-v-james/",
+                  "outcome": "read"
+                }
+              ],
+              "reviewedAt": "2026-11-13T12:08:36.462Z",
+              "articleSlug": "novigrule"
+            },
+            "validationErrors": [
+              "Source link HTTP 403: https://www.courtlistener.com/docket/73720612/73/ludlow-exchange-llc-v-james/"
+            ],
+            "isolatedAt": "2026-11-13T13:15:19.568Z"
+          }
         },
         "f5e4b30f1a286d093b57": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read the DTCC Nov 12 press release and the Decrypt report; quotes, Oct 28 DTS launch, second-half-2027 window, SEC no-action scope and 14T custody figures match. Fixed banned-word quote fragment, corrected Formation attribution, word count now above 600. Quality, formatting, image and duplicate audits pass; all links return 200.",
           "sourceChecks": [
@@ -328410,10 +328625,11 @@
             }
           ],
           "reviewedAt": "2026-11-13T12:15:14.350Z",
-          "articleSlug": "dtccsolana"
+          "articleSlug": "dtccsolana",
+          "publishedAt": "2026-11-13T13:15:41.576Z"
         },
         "252532bdf9093343d60c": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Decrypt and bitcoin.com; M pledge from ZCSH fees, four 00k first grants, recipients, WSJ ad campaign, fee reinvestment terms and ZEC price figures all match both sources. Audits pass; all links return 200.",
           "sourceChecks": [
@@ -328427,10 +328643,11 @@
             }
           ],
           "reviewedAt": "2026-11-13T12:15:15.715Z",
-          "articleSlug": "zcashgrants"
+          "articleSlug": "zcashgrants",
+          "publishedAt": "2026-11-13T13:15:41.576Z"
         },
         "8c3192546fe9a1f7eb46": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Decrypt launch story and CryptoSlate technical review; Nov 10 mainnet launch, Decrypt Money Account integration, scope limits, compliance tooling and Nitro enclave trust model all match. Audits pass; all links return 200.",
           "sourceChecks": [
@@ -328444,10 +328661,11 @@
             }
           ],
           "reviewedAt": "2026-11-13T12:15:16.598Z",
-          "articleSlug": "heliusmoney"
+          "articleSlug": "heliusmoney",
+          "publishedAt": "2026-11-13T13:15:41.576Z"
         },
         "eb789d04036090af44e2": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read Tether's Nov 12 primary release, Decrypt and Unchained. Unqualified KPMG opinion, 520,089.35 troy ounces worth .246B vs XAUT in issue, bar-by-bar count, Swiss vaults, August USDT audit sequence and Unchained's publication/supply caveats all verified across three sites. Image self-hosted from Wikimedia; quality, formatting, image and duplicate audits pass; all links 200.",
           "sourceChecks": [
@@ -328465,10 +328683,11 @@
             }
           ],
           "reviewedAt": "2026-11-13T12:17:00.364Z",
-          "articleSlug": "tethergold"
+          "articleSlug": "tethergold",
+          "publishedAt": "2026-11-13T13:15:41.576Z"
         },
         "33eae4247c740f06b391": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read the PR Newswire joint release, Decrypt and Unchained. Testnet-only scope, no onchain rating actions, TIE Canton/Solana history, 70+ digital issuances, Astic and Eid quotes and open production questions verified across three sites. Self-hosted Lower Manhattan photo; quality, formatting, image and duplicate audits pass; all links 200.",
           "sourceChecks": [
@@ -328486,10 +328705,11 @@
             }
           ],
           "reviewedAt": "2026-11-13T12:19:58.793Z",
-          "articleSlug": "moodyspilot"
+          "articleSlug": "moodyspilot",
+          "publishedAt": "2026-11-13T13:15:41.576Z"
         },
         "2d520831f09185045e0e": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read Unchained, Bitquery's investigation, CryptoSlate's report of the Nov 12 update and Cointelegraph (its URL returns 404 to curl bots, so it is not cited). Nov 10 Namecheap social engineering, 01:16 UTC Nov 11 restoration, GoPlus 50k estimate and Bitquery's 01,900 across nine wallets verified. Self-hosted server rack photo; quality, formatting, image and duplicate audits pass; all cited links 200.",
           "sourceChecks": [
@@ -328511,7 +328731,8 @@
             }
           ],
           "reviewedAt": "2026-11-13T12:22:40.424Z",
-          "articleSlug": "acrosshack"
+          "articleSlug": "acrosshack",
+          "publishedAt": "2026-11-13T13:15:41.576Z"
         },
         "030b2be73b0b0d134c18": {
           "status": "deferred",
@@ -328534,9 +328755,9 @@
           ]
         },
         "7cef1b3e1714efed0fac": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Read the DOJ press release and Decrypt on the FaceStealer deepfake scheme ($400M over 18 months), the 900-video seizure, and the $1.2B Binance court authorization; The Defiant returned 403.",
+          "status": "deferred",
+          "reason": "quality-gate",
+          "note": "Actual article audits still failed after bounded repair attempts: facestealer.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
           "sourceChecks": [
             {
               "url": "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency",
@@ -328555,13 +328776,47 @@
               "outcome": "blocked"
             }
           ],
-          "reviewedAt": "2026-11-13T12:34:23.463Z",
-          "articleSlug": "facestealer"
+          "reviewedAt": "2026-11-13T13:15:19.567Z",
+          "articleSlug": "facestealer",
+          "retrySearches": [
+            "Repair and revalidate the preserved facestealer draft against its original sources: facestealer.md: under 600 words"
+          ],
+          "qualityIsolation": {
+            "previousReview": {
+              "status": "ready",
+              "reason": "verified-event",
+              "note": "Read the DOJ press release and Decrypt on the FaceStealer deepfake scheme ($400M over 18 months), the 900-video seizure, and the $1.2B Binance court authorization; The Defiant returned 403.",
+              "sourceChecks": [
+                {
+                  "url": "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://thedefiant.io/news/security/doj-disrupts-north-korean-fake-call-crypto-theft-scheme",
+                  "outcome": "blocked"
+                }
+              ],
+              "reviewedAt": "2026-11-13T12:34:23.463Z",
+              "articleSlug": "facestealer"
+            },
+            "validationErrors": [
+              "facestealer.md: under 600 words"
+            ],
+            "isolatedAt": "2026-11-13T13:15:19.567Z"
+          }
         },
         "eea39aae24cdd6ae0bc9": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Read Unchained and Cointelegraph on the Nov. 6-11 DOJ, Chamber/SIFMA and DeFi amicus filings against Illinois' 0.2% digital asset tax; CoinDesk returned 429.",
+          "status": "deferred",
+          "reason": "quality-gate",
+          "note": "Actual article audits still failed after bounded repair attempts: defiamicus.md: template phrasing: paradigm. Draft and original source checks are retained for repair; this article was not published.",
           "sourceChecks": [
             {
               "url": "https://unchainedcrypto.com/18-crypto-firms-seek-to-join-court-fight-over-illinois-0-2-crypto-tax/",
@@ -328576,13 +328831,43 @@
               "outcome": "blocked"
             }
           ],
-          "reviewedAt": "2026-11-13T12:34:23.463Z",
-          "articleSlug": "defiamicus"
+          "reviewedAt": "2026-11-13T13:15:19.567Z",
+          "articleSlug": "defiamicus",
+          "retrySearches": [
+            "Repair and revalidate the preserved defiamicus draft against its original sources: defiamicus.md: template phrasing: paradigm"
+          ],
+          "qualityIsolation": {
+            "previousReview": {
+              "status": "ready",
+              "reason": "verified-event",
+              "note": "Read Unchained and Cointelegraph on the Nov. 6-11 DOJ, Chamber/SIFMA and DeFi amicus filings against Illinois' 0.2% digital asset tax; CoinDesk returned 429.",
+              "sourceChecks": [
+                {
+                  "url": "https://unchainedcrypto.com/18-crypto-firms-seek-to-join-court-fight-over-illinois-0-2-crypto-tax/",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
+                  "outcome": "blocked"
+                }
+              ],
+              "reviewedAt": "2026-11-13T12:34:23.463Z",
+              "articleSlug": "defiamicus"
+            },
+            "validationErrors": [
+              "defiamicus.md: template phrasing: paradigm"
+            ],
+            "isolatedAt": "2026-11-13T13:15:19.567Z"
+          }
         },
         "549f3d77e33c6ffd5976": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Read Cointelegraph and Bankless on Kalshi ending Trump Jr.'s advisory role after 1789 Capital's Polymarket investment; CoinDesk returned 429 on WebFetch and curl.",
+          "status": "deferred",
+          "reason": "quality-gate",
+          "note": "Actual article audits still failed after bounded repair attempts: kalshitrump.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
           "sourceChecks": [
             {
               "url": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment",
@@ -328597,8 +328882,38 @@
               "outcome": "blocked"
             }
           ],
-          "reviewedAt": "2026-11-13T12:34:23.463Z",
-          "articleSlug": "kalshitrump"
+          "reviewedAt": "2026-11-13T13:15:19.567Z",
+          "articleSlug": "kalshitrump",
+          "retrySearches": [
+            "Repair and revalidate the preserved kalshitrump draft against its original sources: kalshitrump.md: under 600 words"
+          ],
+          "qualityIsolation": {
+            "previousReview": {
+              "status": "ready",
+              "reason": "verified-event",
+              "note": "Read Cointelegraph and Bankless on Kalshi ending Trump Jr.'s advisory role after 1789 Capital's Polymarket investment; CoinDesk returned 429 on WebFetch and curl.",
+              "sourceChecks": [
+                {
+                  "url": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://www.bankless.com/read/news/kalshi-ends-donald-trump-jr-advisor-role",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
+                  "outcome": "blocked"
+                }
+              ],
+              "reviewedAt": "2026-11-13T12:34:23.463Z",
+              "articleSlug": "kalshitrump"
+            },
+            "validationErrors": [
+              "kalshitrump.md: under 600 words"
+            ],
+            "isolatedAt": "2026-11-13T13:15:19.568Z"
+          }
         },
         "7a0f7611558e21b2cdbc": {
           "status": "rejected",
@@ -329138,6 +329453,344 @@
         ],
         "total": 134,
         "checkedAt": "2026-11-13T11:28:25.584Z"
+      },
+      "validationErrors": [],
+      "publication": {
+        "status": "completed",
+        "completedAt": "2026-11-13T13:15:41.576Z",
+        "publishedIds": [
+          "252532bdf9093343d60c",
+          "afa04107b09697111d85",
+          "8c3192546fe9a1f7eb46",
+          "2d520831f09185045e0e",
+          "33eae4247c740f06b391",
+          "b5b2560bc8498bafb56c",
+          "e33b7172f9968a76fb2d",
+          "eb789d04036090af44e2",
+          "f5e4b30f1a286d093b57"
+        ],
+        "articleSlugs": [
+          "zcashgrants",
+          "monadvisa",
+          "heliusmoney",
+          "acrosshack",
+          "moodyspilot",
+          "xstockseu",
+          "dojseizure",
+          "tethergold",
+          "dtccsolana"
+        ],
+        "pendingIds": [
+          "4459fe70a1c42b3d04a5",
+          "db79a6b367185ad25432",
+          "ef32ccd64fa211adbf6f",
+          "e3e0353249a2565c4147",
+          "34b2c241e2e6594fb9ea",
+          "4dfcbac6ba897581fa2d",
+          "3c56f8bf0b2cfa457cc1",
+          "263ac777025a9226c150",
+          "bf56b3fa3d37f0d2e91b",
+          "ce1ed075ce96ae31d70f",
+          "ef51be1bcda134cdc7f9",
+          "fb627caa42854ee77719",
+          "d332a6db779e16d2a916",
+          "316b5afcf3aa02c9bafc",
+          "5fa7f99fa4972f9c1b84",
+          "99e5739f714066611268",
+          "6cf14e8bc3cb0acabf89",
+          "b64694547da8c559d24d",
+          "e65b519ff9776e950e81",
+          "5bdae45a2af4657e8d03",
+          "a4062e6b42367246a5fa",
+          "9a73e18a3cce668ff09f",
+          "ff11b503dadc739cc3ab",
+          "1d40816e1565a859fea3",
+          "f0b6b246440c6c9a941f",
+          "75f811a80f4a432613a5",
+          "ed9ea40140f0e38428c1",
+          "fd67f55e78a2ab6d3ab0",
+          "cbac3488c586163a8a22",
+          "f0d0f8388ae14fd275cf",
+          "1c06f0e414379cd10923",
+          "88f0182d5e2e601afd22",
+          "3abf6134d740197603d9",
+          "ca7f151824690fbae429",
+          "ccf2351a080404208392",
+          "38de23506806f4477d40",
+          "86d337467b1f16b7247e",
+          "011a047c4986b50576f1",
+          "987fb523b62f27855d40",
+          "f866e616fad2d1f7b0b3",
+          "f287e904a2e101aee32a",
+          "f9bcb10a93b27b39f59a",
+          "3a4faf30c71046815303",
+          "ce26d46dba422294e459",
+          "f386dc9eaa1f390e0e63",
+          "2ab4366369b8f39b17e5",
+          "faed57e4bd88ca870d8a",
+          "44d6817dbd37e5f329ba",
+          "1adf4c512bd0593d61f1",
+          "2f92798022398585f155",
+          "ea147ca5e55727798d3e",
+          "6ea946e636abaa8282da",
+          "1cc7bf3d747de617e62b",
+          "05798ec44a7aa622f541",
+          "e214101748b94a013fe2",
+          "d103790cd1f93766ca49",
+          "9b16c6c65d00bd1ef4ac",
+          "9269a4cd9f79b81059b1",
+          "475ada6159bd64f57ebf",
+          "405ff13396b0517f98b2",
+          "f1fa265bc4052539acac",
+          "571a7e479864d195ae7a",
+          "6b5dc10068c750b87204",
+          "211c7632ed599f8d02dc",
+          "d3768521d61265ae09c9",
+          "81fb70be971d7502f3b5",
+          "1dd68d148da2a9fd66bc",
+          "1ce8129b7638041d11d5",
+          "1579228077e5efa1b51b",
+          "894c1b8595236690f75d",
+          "3efe9a47c0237d6a5c83",
+          "673913c4e387c0def14e",
+          "145b222ac47ac4eefef2",
+          "ddbf75c04c0b96004d4e",
+          "2b0511ea17801de34cb9",
+          "b8da32baf3554d006dc1",
+          "fa59e4620554e1be1100",
+          "a7c8bf52b0cc1023560b",
+          "5f67c9f7cd3605db0dcb",
+          "bed0ae1e5e7880637dfe",
+          "9d56a76d8c54ca01fdd0",
+          "40ec81bca9e0fbf93283",
+          "c953998e02a9725c9181",
+          "7ad00516819aadb568f8",
+          "6957a4b199a6e968ea19",
+          "75dea15709586d1a057a",
+          "679e3fff2597ea6889e2",
+          "924b5c60386580bb66d3",
+          "eaf08e0c4f3d09607246",
+          "a7c012682352cab461e9",
+          "eaa35bf842adeee339bf",
+          "bb0cccc9d2d915a7821f",
+          "2467846deb6a0b6b305b",
+          "3e914054d4fe0b020c71",
+          "b82c0f64a269b6c05d69",
+          "57bb0d5b4f5c6702e921",
+          "fb9a3b3c92886758bedf",
+          "3af8cefadd35e087e908",
+          "a0ac6ebcb6979bee8757",
+          "bc83f0358aa84c4b4011",
+          "1d2739b34e2fb9eaac26",
+          "93dd6520146fbb957264",
+          "8082697d8d6bfe502931",
+          "d58cc399907c5b30ff45",
+          "46139e3ae8615d181a07",
+          "8b0bc4d802b02864d16d",
+          "98ded9950be9e8d167ea",
+          "afab2308324df321ee6e",
+          "d6f18f7de6235b6cc42c",
+          "e8db437a5e7c1d1440aa",
+          "77aa54f1d77d601b736d",
+          "6be39f8ef2743d02c4b3",
+          "42e27a1098b7f6583363",
+          "36c18c2c90503c46652b",
+          "5914cd48ee1e147cf139",
+          "c337ddc9b25ae468b282",
+          "968064f9f0b8d4094297",
+          "6388a82f3098fba44c84",
+          "84ef0be9ca637f73ca5e",
+          "12dd5a2a3768c403a76b",
+          "e61224392df112a6c538",
+          "00683a285f07626801b5",
+          "617570637dfd215069e3",
+          "5bd63f4f0f53996dc12d",
+          "d3abf39b86f49da7d1e3",
+          "f91891fc0a923a01b21d",
+          "3f250f6e73da30f98fb3",
+          "dd592775bfd5cf104bec",
+          "627627eff09dfa3f5f56",
+          "29082620258974c395b3",
+          "e5b33c66667111165dc2",
+          "87ffe9f2186cf8a0964a",
+          "5d88c3343565e0d8d3a6",
+          "4fe2c3c22299c15a8787",
+          "35e98476d4100d3ce42c",
+          "7662060668a3ce78d202",
+          "dbe8c5b970ab971d37b7",
+          "33f597d1f5c9e9f34d96",
+          "eb6b5f5596bd74e6acae",
+          "9dc53deaf05a35876e73",
+          "6d0905d8b201cc61df28",
+          "f1f89db6b0c4ab106bc8",
+          "fae41788f744a2f1d789",
+          "603bec3db4c809f5ca66",
+          "be5f4c62145514fe90b1",
+          "70f5b5e748feac7e254c",
+          "7ad21137be29b47d8491",
+          "aed118033c05dbe0292b",
+          "90a1c2e2c605b3860bf2",
+          "1e79935f5e7f963a6034",
+          "43bd1d16816d5cfbfe2b",
+          "0a0ef218b5aba4552fd5",
+          "ee5d41239536dd76f812",
+          "34c1cda89d176f655d49",
+          "1241f0e52495aad287d6",
+          "099591be71b867660114",
+          "2c2309b59a622ab12347",
+          "0e824be7d30d20d16553",
+          "d2bd1833bb94947fc423",
+          "467b1c67bd3211d5c89e",
+          "b98e6a39852964c7fcbe",
+          "a617d3c45b781ed62831",
+          "bfcd3cbd2cebe52ff722",
+          "fd4d624242f875518129",
+          "fee3a763a3e8c22e6e5f",
+          "ba7c0503332f9b963691",
+          "c59a85d0532ff6e5a544",
+          "857563001089df271ff1",
+          "c071e053d7628f89c05a",
+          "030b2be73b0b0d134c18",
+          "778d3687c82c0dc1412b",
+          "94174a0c5c51005e6c58",
+          "bc1a8f7d70169d8ccfaa",
+          "76d43f87245cbd19d740",
+          "4ca3aa34d1792673b287",
+          "b8ff7dafb8c70612085d",
+          "9e1a03102b606b81e159",
+          "4417285a02f9210ab7f1",
+          "b1f0724c6c92ce59ab55",
+          "16a553619bb4bce7086b",
+          "4c704eb53f75e2e726b8",
+          "0ee043c8b7c36abb90f0",
+          "7cc115e9f4e36aca8435",
+          "040589daa719b5705190",
+          "ff632212aec51b4ae09b",
+          "6bf973a3b8fb1f74b4cc",
+          "4a15fee4314f1591ea0f",
+          "d652e4055275a803de99",
+          "1e769e91c360f593e828",
+          "c7ad2ace361d070c3357",
+          "906dc5c4642c2b7188ee",
+          "927e500f43e8bd3e359e",
+          "2a600d61cd5d7070a7a0",
+          "4edfc394dc0dc278b41c",
+          "948af2c85a93e5ed9d3c",
+          "be77133b4bf21dccb8a4",
+          "e918e1a4af2d429c344d",
+          "0ef3b4e00c9c536916eb",
+          "b6f6f2a9223c776ef623",
+          "e44e5903cf36dc3df822",
+          "e01daa6eb6847a374bb4",
+          "118f202596aa14f669d7",
+          "e93c83c9a8eb8be8bf27",
+          "855641ab1fc70ba0bcef",
+          "cbc5a3255e9b174694bb",
+          "1a9c8f6b109964c82cc9",
+          "c04e4e1a539fbb2b0c62",
+          "2f8392912411f9479c84",
+          "3b03bcc0f55d4116bbd5",
+          "65892b8f9311e04e94cd",
+          "7e4791e89ca0f98b4320",
+          "0218d84130d9972aa9f7",
+          "f3b6f3548e56982b9589",
+          "b4edddf8f1b4a72a3552",
+          "eeb0a1c4112118b24f1a",
+          "1aa5e0951ef94ee88f4e",
+          "428b39c8ae1d6ad2cb31",
+          "7cef1b3e1714efed0fac",
+          "8c347b65c9a2a84f1a47",
+          "fb88d655f7d0c67b685f",
+          "eea39aae24cdd6ae0bc9",
+          "3616b7e6c0c27a0b8ade",
+          "96ff8eeb424d0b06809b",
+          "f41cc843ef5b0f14aef9",
+          "4ccb11aa5e40a8336eb7",
+          "96cd0104014a837271bb",
+          "b06ee829fb0171de2801",
+          "2a1cf73cd01353669d24",
+          "d7a6c13e8c4453011f80",
+          "b450786b7bbd404298b2",
+          "1fc9f9856c0f833928cb",
+          "5a65616e59d3a82b73ef",
+          "801ba3d8b5380a0b22fd",
+          "62d5d5f9b585a43232ba",
+          "7e234094c6deae67f56a",
+          "7ff82c504861034008e9",
+          "02f772beb76e343a3fc0",
+          "53db4d07b651bfec9618",
+          "5a7604b2dbee9a2c65ae",
+          "511bb6cd7e7ca5ffacc5",
+          "9e4b28244c247bd98833",
+          "042837d693c820254fe1",
+          "3cc15ab22c6745a47549",
+          "7b2ed3dacdffb4283c69",
+          "4cdcd7046aac686ad3bc",
+          "f8c7267b7de95e35b4f9",
+          "078be5eccee4172ca0c5",
+          "1594651db01d446181ad",
+          "fad8b9f787cf20f9e8c7",
+          "47699734bc9fc8bcaa5a",
+          "01955fb8d75bebf3abd3",
+          "a54ade3881bebb63698a",
+          "43b42749d2ad10d68acf",
+          "b76ec62a9a902811f174",
+          "18f98b841e265d44d4ec",
+          "d1ba4bae76de91d9f930",
+          "b48c658d6a3e82338c3b",
+          "edd0baedb182e08e31e7",
+          "0101660c54c97ace546e",
+          "4b0fb48dc48392dee027",
+          "1fa4bedda156ab4de60c",
+          "4e18527823af4fd1ce88",
+          "b98fef40b6212dd08909",
+          "0bac5971c634c0b98bfb",
+          "89a623ac7f41b6aac269",
+          "4d0edba4fd7253bc2986",
+          "9d4eb9be1d203c94f1cb",
+          "543957b03bfed18f3a47",
+          "f7660b8d779a68433ec9",
+          "8170de0b7a5216ce4516",
+          "ef785cc5c5a4b93a261f",
+          "f854dda5d0598ed15bcb",
+          "dc23808f072b52708f41",
+          "38ec9f047d18335d4b9a",
+          "9ea01c5d2db2d10b2fc7",
+          "413294542cff3d43df45",
+          "122bacbd53d1bd09b333",
+          "82391a5f6cd6687858d3",
+          "be86e75a5f1f52c71820",
+          "183b15ce4af169808915",
+          "1979cdb028ae831ab98c",
+          "600467d9b2e6b5f55645",
+          "7cba3cdea84082f9f5de",
+          "20492b5ca04bb257ffa5",
+          "10697067e1389b072378",
+          "bc9b0a97445a4b619559",
+          "b77c12b3007849659259",
+          "709c5014f090060acd6b",
+          "2a2d78dd4471d18462f0",
+          "c87d0a4d363bb19a9452",
+          "126a242e684bbf300505",
+          "549f3d77e33c6ffd5976",
+          "0ced036023dcc0182579",
+          "9658f8724d85073a624f",
+          "8cf604f70ba75fa2babe",
+          "9bb0f2d875d3dad56f0d",
+          "17c30221ea6bd971ec6e",
+          "329fae7d2754ed6e87a9",
+          "f604a702793247062cdc",
+          "7fb15fec4b25c36a59cb",
+          "2eb255de54f98840cfe3",
+          "459eb46a4fe3ebe0d33f",
+          "62c0a86188903183a1dc",
+          "d19f86233ef2db6155a2",
+          "2166f28cbee193c4e94e",
+          "b547c2e4e786819ce634",
+          "c22b5b91a57d3608922a",
+          "95cac41dd1e9f7e06f34",
+          "389fcb6330bab1d76dab"
+        ]
       }
     }
   }
