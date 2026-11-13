@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-13T18:40:46.044Z",
+  "generatedAt": "2026-11-13T19:31:20.959Z",
   "items": [
+    {
+      "title": "CFTC’s Selig accuses states of trying to ‘lock up’ prediction market founders",
+      "link": "https://www.theblock.co/news/regulation/2026-11-13-cftcs-selig-accuses-states-trying-lock-up-prediction-market-founders-440199",
+      "pubDate": "Fri, 13 Nov 2026 18:51:03 +0000",
+      "creator": "Kyle Baird",
+      "contentSnippet": "CFTC Chairman Michael Selig says disputes over whether event contracts are gambling shouldn’t put executives at risk of jail.",
+      "source": "The Block"
+    },
+    {
+      "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
+      "pubDate": "Fri, 13 Nov 2026 18:39:58 +0000",
+      "creator": "Helene Braun",
+      "contentSnippet": "Analysts see no direct link between Nvidia and bitcoin's decline, pointing instead to investor capital headed into Anthropic as well as a broader risk...",
+      "source": "Coindesk"
+    },
     {
       "title": "Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact",
       "link": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
@@ -134,7 +150,7 @@
       "link": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 13 Nov 2026 13:04:19 +0000",
       "creator": "Zoltan Vardai",
-      "contentSnippet": "A $5.8 million loss on Bitcoin options pushed operating revenue below zero, and higher Bitcoin prices lifted net income to $85.5 million.",
+      "contentSnippet": "A $5.8 million Bitcoin options loss pushed Nakamoto’s quarterly operating revenue below zero, while the company extended repayment of $60 million in K...",
       "source": "Cointelegraph"
     },
     {
@@ -232,14 +248,6 @@
       "creator": "Shaurya Malwa",
       "contentSnippet": "The Nasdaq-listed company has 46,676 ETH backing its borrowings, and the loan could become eligible for liquidation if ether slides to around $1,700.",
       "source": "Coindesk"
-    },
-    {
-      "title": "Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters",
-      "link": "https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643",
-      "pubDate": "Fri, 13 Nov 2026 06:23:43 +0000",
-      "creator": "Timmy Shen",
-      "contentSnippet": "A total of $798 million in crypto positions has been liquidated over the past four hours, including $718.5 million in long positions.",
-      "source": "The Block"
     },
     {
       "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
@@ -386,22 +394,6 @@
       "source": "The Block"
     },
     {
-      "title": "NYDFS sets fresh advertising standards for crypto firms",
-      "link": "https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014",
-      "pubDate": "Thu, 12 Nov 2026 18:03:57 +0000",
-      "creator": "Sarah Wynn",
-      "contentSnippet": "NYDFS issued guidance outlining expectations for crypto firms to establish policies and procedures governing advertising and marketing.",
-      "source": "The Block"
-    },
-    {
-      "title": "Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says",
-      "link": "https://www.theblock.co/news/markets/2026-11-12-exodus-cost-reset-real-payments-offset-crypto-wallet-slowdown-stonex-438988",
-      "pubDate": "Thu, 12 Nov 2026 16:55:52 +0000",
-      "creator": "Kyle Baird",
-      "contentSnippet": "Payments generated $10.9 million in Q3, while Exodus cut staff and restarted U.S. payment card issuance.",
-      "source": "The Block"
-    },
-    {
       "title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
       "link": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
       "pubDate": "Thu, 12 Nov 2026 16:45:52 +0000",
@@ -519,14 +511,6 @@
       "pubDate": "Thu, 12 Nov 2026 11:30:00 +0000",
       "creator": "Oliver Knight",
       "contentSnippet": "Bitcoin slips 0.7% as Nvidia falls on reports its board may oust CEO Jensen Huang, while U.S. spot bitcoin ETFs lose another $299.9 million.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
-      "link": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead",
-      "pubDate": "Thu, 12 Nov 2026 10:42:06 +0000",
-      "creator": "Francisco Rodrigues",
-      "contentSnippet": "More than half of those affected were contractors, a source told Reuters. The cuts follow investor pressure on founder Shayne Coplan.",
       "source": "Coindesk"
     },
     {
