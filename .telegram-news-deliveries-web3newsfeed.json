@@ -1,6 +1,6 @@
 {
   "441b9a2f-1b5b-4123-bab4-08d4055faf5f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-13T11:49:11.036Z",
     "stories": [
       {
@@ -28,6 +28,8 @@
         "originalTitle": "MSCI deletes Strategy from indexes at November close"
       }
     ],
-    "slotKey": "2026-11-13:afternoon"
+    "slotKey": "2026-11-13:afternoon",
+    "messageId": 65826,
+    "sentAt": "2026-11-13T11:49:44.765Z"
   }
 }
