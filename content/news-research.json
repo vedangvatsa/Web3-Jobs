@@ -165522,7 +165522,27 @@
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
       "attempts": 0,
       "expiresAt": "2026-11-13T14:32:48.000Z",
-      "lastSeenAt": "2026-11-13T11:28:25.584Z"
+      "lastSeenAt": "2026-11-13T11:28:25.584Z",
+      "articleSlug": "heliusmoney",
+      "draftProgress": {
+        "id": "8c3192546fe9a1f7eb46",
+        "day": "2026-11-13",
+        "articleSlug": "heliusmoney",
+        "note": "Read Decrypt launch story and CryptoSlate's technical analysis; Nov 10 mainnet launch of Solana Privacy Rings, Decrypt Money Account integration, Nitro enclave trust model and scope limits verified. Draft and image still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cryptoslate.com/helius-encrypts-solana-transfers-without-removing-operator-trust/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-13T11:56:23.153Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "44d6817dbd37e5f329ba": {
       "source": "The Defiant",
