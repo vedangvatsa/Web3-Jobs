@@ -1,0 +1,121 @@
+{
+  "69d5331d-a04c-4bc3-86cd-318c18e0e1f2": {
+    "status": "reserved",
+    "reservedAt": "2026-11-13T11:49:44.315Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "altitude-development-partners-quant-researcher-strategy-developer",
+          "title": "Quant Researcher / Strategy Developer",
+          "company": "Altitude Development Partners",
+          "link": "mailto:careers@altitudedp.com?subject=Application%3A%20Quant%20Researcher%20%2F%20Strategy%20Developer",
+          "date": "2026-11-11T00:00:00.000Z",
+          "dateVerified": true,
+          "dateSource": "Altitude Development Partners Careers",
+          "source": "Altitude Development Partners [altitudedp]",
+          "location": "Remote",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "slug": "tr141"
+        },
+        "key": "altitude-development-partners-quant-researcher-strategy-developer",
+        "slug": "tr141",
+        "url": "https://hashtagweb3.com/tr141?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Altitude Development Partners",
+        "title": "Quant Researcher / Strategy Developer"
+      },
+      {
+        "snapshot": {
+          "id": "ckba-payment-channel-team-lead",
+          "title": "Payment Channel Team Lead",
+          "company": "CKBA",
+          "link": "mailto:join@ckba.build?subject=Application%20for%20Payment%20Channel%20Team%20Lead",
+          "date": "2026-11-06T00:00:00.000Z",
+          "dateVerified": true,
+          "dateSource": "CKBA Official Job Description",
+          "source": "CKBA [ckba]",
+          "location": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "slug": "pct"
+        },
+        "key": "ckba-payment-channel-team-lead",
+        "slug": "pct",
+        "url": "https://hashtagweb3.com/pct?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CKBA",
+        "title": "Payment Channel Team Lead"
+      },
+      {
+        "snapshot": {
+          "id": "altitude-development-partners-risk-analyst",
+          "title": "Risk Analyst",
+          "company": "Altitude Development Partners",
+          "link": "mailto:careers@altitudedp.com?subject=Application%3A%20Risk%20Analyst",
+          "date": "2026-11-11T00:00:00.000Z",
+          "dateVerified": true,
+          "dateSource": "Altitude Development Partners Careers",
+          "source": "Altitude Development Partners [altitudedp]",
+          "location": "Remote",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Finance",
+          "active": true,
+          "slug": "an135"
+        },
+        "key": "altitude-development-partners-risk-analyst",
+        "slug": "an135",
+        "url": "https://hashtagweb3.com/an135?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Altitude Development Partners",
+        "title": "Risk Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "b316058b-c4bc-4eb5-a43e-2b638ff06b60",
+          "title": "Head of Marketing, 0x & Matcha",
+          "company": "0x",
+          "link": "https://jobs.ashbyhq.com/0x/b316058b-c4bc-4eb5-a43e-2b638ff06b60",
+          "date": "2026-10-26T21:59:29.738+00:00",
+          "source": "Ashby: 0x [0x]",
+          "location": "Remote — North America (Aligned with U.S. Time Zones)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt120"
+        },
+        "key": "b316058b-c4bc-4eb5-a43e-2b638ff06b60",
+        "slug": "mkt120",
+        "url": "https://hashtagweb3.com/mkt120?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "0x",
+        "title": "Head of Marketing"
+      },
+      {
+        "snapshot": {
+          "id": "8311620",
+          "title": "Global KYC & Due Diligence Specialist",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8311620?gh_jid=8311620",
+          "date": "2026-10-23T15:57:24-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "London, UK",
+          "department": "Legal",
+          "active": true,
+          "dateVerified": true,
+          "slug": "kdds"
+        },
+        "key": "8311620",
+        "slug": "kdds",
+        "url": "https://hashtagweb3.com/kdds?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Global KYC & Due Diligence Specialist"
+      }
+    ],
+    "message": "- Altitude Development Partners is hiring <a href=\"https://hashtagweb3.com/tr141?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Quant Researcher / Strategy Developer</a>\n- CKBA is hiring <a href=\"https://hashtagweb3.com/pct?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Payment Channel Team Lead</a>\n- Altitude Development Partners is hiring <a href=\"https://hashtagweb3.com/an135?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Risk Analyst</a>\n- 0x is hiring <a href=\"https://hashtagweb3.com/mkt120?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Marketing, 0x &amp; Matcha</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/kdds?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Global KYC &amp; Due Diligence Specialist</a>",
+    "slotKey": "2026-11-13:afternoon"
+  }
+}
