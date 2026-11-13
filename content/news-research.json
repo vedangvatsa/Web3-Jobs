@@ -171291,9 +171291,9 @@
         "Unchained"
       ],
       "id": "e33b7172f9968a76fb2d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-15T22:55:52.000Z",
       "lastSeenAt": "2026-11-13T11:28:25.584Z",
       "articleSlug": "dojseizure",
@@ -171319,7 +171319,29 @@
         "updatedAt": "2026-11-13T11:37:13.290Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified DOJ primary release with Cointelegraph and Unchained; .2B authorization, .7B frozen, B theft and FaceStealer 00M figures matched; image self-hosted and audits pass.",
+      "sourceChecks": [
+        {
+          "url": "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/court-order-lets-doj-lock-up-1-2-billion-of-north-koreas-stolen-binance-crypto/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-13T11:42:28.620Z",
+      "lastReviewedDay": "2026-11-13"
     },
     "855641ab1fc70ba0bcef": {
       "source": "Unchained",
@@ -327797,6 +327819,31 @@
           ],
           "reviewedAt": "2026-11-13T11:40:37.815Z",
           "articleSlug": "monadvisa"
+        },
+        "e33b7172f9968a76fb2d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified DOJ primary release with Cointelegraph and Unchained; .2B authorization, .7B frozen, B theft and FaceStealer 00M figures matched; image self-hosted and audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/court-order-lets-doj-lock-up-1-2-billion-of-north-koreas-stolen-binance-crypto/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-13T11:42:28.620Z",
+          "articleSlug": "dojseizure"
         }
       },
       "baselineSlugs": [
