@@ -170201,30 +170201,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "84c84f4c3bb48608d53f",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-14T18:45:48.000Z",
       "lastSeenAt": "2026-11-13T11:28:25.584Z",
-      "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"DXY Hits 19-Month High: Was the ‘Dollar Is Dying’ Crowd Wrong?\": https://beincrypto.com/us-dollar-19-month-high-dollar-dying/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "reason": "opinion",
+      "note": "Headline frames an opinion question about dollar-bear commentary rather than a concrete event. Attempted BeInCrypto primary URL (HTTP 403); linked companion stories cover bitcoin price moves, not a discrete filed event.",
       "sourceChecks": [
         {
           "url": "https://beincrypto.com/us-dollar-19-month-high-dollar-dying/",
-          "outcome": "blocked",
-          "status": 403,
-          "method": "GET",
-          "checkedAt": "2026-11-12T01:37:15.301Z"
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://cryptobriefing.com/bitcoin-below-70000-liquidations-622m/",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-12T01:37:34.289Z",
+      "reviewedAt": "2026-11-13T11:36:08.962Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: DXY Hits 19-Month High: Was the ‘Dollar Is Dying’ Crowd Wrong?",
         "Find independent reporting confirming the event in: DXY Hits 19-Month High: Was the ‘Dollar Is Dying’ Crowd Wrong?",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-12",
-      "nextReviewDate": "2026-11-13"
+      "lastReviewedDay": "2026-11-13"
     },
     "4c704eb53f75e2e726b8": {
       "source": "CryptoSlate",
@@ -170280,11 +170284,29 @@
         "CryptoSlate"
       ],
       "id": "66e3572a639d4558f2a1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-14T17:23:10.000Z",
-      "lastSeenAt": "2026-11-13T11:28:25.584Z"
+      "lastSeenAt": "2026-11-13T11:28:25.584Z",
+      "reason": "not-a-concrete-event",
+      "note": "Glassnode 30-day stablecoin supply contraction is market data analysis, not a discrete event. Read Cointelegraph and Crypto Briefing; both attribute the move to Glassnode metrics with no launch, vote, ruling, filing, hack, raise or upgrade.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/stablecoin-supply-drops-14b-in-30-days-fastest-since-june-2022/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-13T11:36:08.962Z",
+      "lastReviewedDay": "2026-11-13"
     },
     "0ee043c8b7c36abb90f0": {
       "source": "BeInCrypto",
@@ -171919,11 +171941,21 @@
         "The Defiant"
       ],
       "id": "d0e8a312898038f90267",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-16T10:55:54.000Z",
-      "lastSeenAt": "2026-11-13T11:28:25.584Z"
+      "lastSeenAt": "2026-11-13T11:28:25.584Z",
+      "reason": "out-of-scope",
+      "note": "Congressional hearings and subpoenas over Nvidia chip exports to China are semiconductor policy, not a Web3 or crypto event. Read Decrypt coverage confirming the story is about export controls and Megaspeed, with no crypto protocol or market-infrastructure development.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/383211/congress-summons-ex-nvidia-ceo-jensen-huang-lutnick-over-chip-exports-to-china",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-13T11:36:08.962Z",
+      "lastReviewedDay": "2026-11-13"
     },
     "f41cc843ef5b0f14aef9": {
       "source": "Crypto Briefing",
@@ -172271,11 +172303,29 @@
         "Bitcoin Magazine"
       ],
       "id": "740d919ee3b210c975b4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-16T05:45:26.000Z",
-      "lastSeenAt": "2026-11-13T11:28:25.584Z"
+      "lastSeenAt": "2026-11-13T11:28:25.584Z",
+      "reason": "price-chatter",
+      "note": "Annual ETF net-outflow tally is market-flow commentary without a discrete launch, vote, ruling, filing, hack, raise or upgrade. Read Bitcoin Magazine market wrap citing IBIT multi-day outflows; no concrete corporate or regulatory event to report.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-71200-yields",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/crypto-etf-outflows-stock-etf-inflows/",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-13T11:36:08.962Z",
+      "lastReviewedDay": "2026-11-13"
     },
     "7ff82c504861034008e9": {
       "source": "CoinDesk",
@@ -327524,6 +327574,78 @@
             "Find independent reporting confirming the event in: USDT Freeze Proposals on Tron Leave Time to Move Funds",
             "Retry the attempted URLs after any Retry-After time, within the existing verification window."
           ]
+        },
+        "84c84f4c3bb48608d53f": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Headline frames an opinion question about dollar-bear commentary rather than a concrete event. Attempted BeInCrypto primary URL (HTTP 403); linked companion stories cover bitcoin price moves, not a discrete filed event.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/us-dollar-19-month-high-dollar-dying/",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://cryptobriefing.com/bitcoin-below-70000-liquidations-622m/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-13T11:36:08.962Z"
+        },
+        "d0e8a312898038f90267": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Congressional hearings and subpoenas over Nvidia chip exports to China are semiconductor policy, not a Web3 or crypto event. Read Decrypt coverage confirming the story is about export controls and Megaspeed, with no crypto protocol or market-infrastructure development.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/383211/congress-summons-ex-nvidia-ceo-jensen-huang-lutnick-over-chip-exports-to-china",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-13T11:36:08.962Z"
+        },
+        "740d919ee3b210c975b4": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Annual ETF net-outflow tally is market-flow commentary without a discrete launch, vote, ruling, filing, hack, raise or upgrade. Read Bitcoin Magazine market wrap citing IBIT multi-day outflows; no concrete corporate or regulatory event to report.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-71200-yields",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/crypto-etf-outflows-stock-etf-inflows/",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-13T11:36:08.962Z"
+        },
+        "66e3572a639d4558f2a1": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Glassnode 30-day stablecoin supply contraction is market data analysis, not a discrete event. Read Cointelegraph and Crypto Briefing; both attribute the move to Glassnode metrics with no launch, vote, ruling, filing, hack, raise or upgrade.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/stablecoin-supply-drops-14b-in-30-days-fastest-since-june-2022/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-13T11:36:08.962Z"
         }
       },
       "baselineSlugs": [
