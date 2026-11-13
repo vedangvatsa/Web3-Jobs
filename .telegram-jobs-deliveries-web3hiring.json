@@ -118,5 +118,123 @@
     "slotKey": "2026-11-13:afternoon",
     "messageId": 16640,
     "sentAt": "2026-11-13T11:49:19.516Z"
+  },
+  "55ffa5ba-9022-4d57-b1b1-703aabe05a49": {
+    "status": "reserved",
+    "reservedAt": "2026-11-13T11:49:21.106Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8089237003",
+          "title": "Senior Manager PR and Communications APAC",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8089237003",
+          "date": "2026-10-29T20:15:19-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Singapore",
+          "department": "Global Marketing and Growth",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr205"
+        },
+        "key": "8089237003",
+        "slug": "mgr205",
+        "url": "https://hashtagweb3.com/mgr205?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Senior Manager PR and Communications APAC"
+      },
+      {
+        "snapshot": {
+          "id": "8187574",
+          "title": "Machine Learning Engineer, Transaction Risk",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8187574",
+          "date": "2026-11-10T10:52:46-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Seattle, New York City",
+          "department": "7112 Data Science",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng746"
+        },
+        "key": "8187574",
+        "slug": "eng746",
+        "url": "https://hashtagweb3.com/eng746?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Machine Learning Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "altitude-development-partners-risk-analyst",
+          "title": "Risk Analyst",
+          "company": "Altitude Development Partners",
+          "link": "mailto:careers@altitudedp.com?subject=Application%3A%20Risk%20Analyst",
+          "date": "2026-11-11T00:00:00.000Z",
+          "dateVerified": true,
+          "dateSource": "Altitude Development Partners Careers",
+          "source": "Altitude Development Partners [altitudedp]",
+          "location": "Remote",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Finance",
+          "active": true,
+          "slug": "an135"
+        },
+        "key": "altitude-development-partners-risk-analyst",
+        "slug": "an135",
+        "url": "https://hashtagweb3.com/an135?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Altitude Development Partners",
+        "title": "Risk Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "ckba-payment-channel-team-lead",
+          "title": "Payment Channel Team Lead",
+          "company": "CKBA",
+          "link": "mailto:join@ckba.build?subject=Application%20for%20Payment%20Channel%20Team%20Lead",
+          "date": "2026-11-06T00:00:00.000Z",
+          "dateVerified": true,
+          "dateSource": "CKBA Official Job Description",
+          "source": "CKBA [ckba]",
+          "location": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "slug": "pct"
+        },
+        "key": "ckba-payment-channel-team-lead",
+        "slug": "pct",
+        "url": "https://hashtagweb3.com/pct?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CKBA",
+        "title": "Payment Channel Team Lead"
+      },
+      {
+        "snapshot": {
+          "id": "altitude-development-partners-quant-researcher-strategy-developer",
+          "title": "Quant Researcher / Strategy Developer",
+          "company": "Altitude Development Partners",
+          "link": "mailto:careers@altitudedp.com?subject=Application%3A%20Quant%20Researcher%20%2F%20Strategy%20Developer",
+          "date": "2026-11-11T00:00:00.000Z",
+          "dateVerified": true,
+          "dateSource": "Altitude Development Partners Careers",
+          "source": "Altitude Development Partners [altitudedp]",
+          "location": "Remote",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "slug": "tr141"
+        },
+        "key": "altitude-development-partners-quant-researcher-strategy-developer",
+        "slug": "tr141",
+        "url": "https://hashtagweb3.com/tr141?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Altitude Development Partners",
+        "title": "Quant Researcher / Strategy Developer"
+      }
+    ],
+    "message": "- OKX is hiring <a href=\"https://hashtagweb3.com/mgr205?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Manager PR and Communications APAC</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/eng746?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Machine Learning Engineer, Transaction Risk</a>\n- Altitude Development Partners is hiring <a href=\"https://hashtagweb3.com/an135?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Risk Analyst</a>\n- CKBA is hiring <a href=\"https://hashtagweb3.com/pct?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Payment Channel Team Lead</a>\n- Altitude Development Partners is hiring <a href=\"https://hashtagweb3.com/tr141?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Quant Researcher / Strategy Developer</a>",
+    "slotKey": "2026-11-13:afternoon"
   }
 }
