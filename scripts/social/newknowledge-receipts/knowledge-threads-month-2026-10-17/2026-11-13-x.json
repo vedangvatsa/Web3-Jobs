@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-11-13",
+    "threadId": "N09",
+    "sequence": 27,
+    "platform": "x",
+    "assetCommit": "eb5d93934d3ee124d8510ea2dc674e30615f88df",
+    "contentDigest": "3f5e2e34ad7b0ff6d48e0ec4b1bfe1a3f7e52e48cd4d2dc825c8fd8b08641277",
+    "posts": [
+      {
+        "number": 1,
+        "text": "A wallet signature proves account control, not legal identity. Active wallet counts do not count people.\n\nFive courses in our learning library, with a lesson and takeaway from each.",
+        "alt": "Learn Web3 library excerpt with five course and lesson selections. Web3 Fundamentals, 15 lessons: Wallets and Private Keys. Decentralized Finance, 9: Lending and Borrowing in DeFi. Smart Contract Development, 9: Testing Smart Contracts. Web3 Marketing & Community, 8: Growth Metrics and Analytics. AI x Crypto Intersection, 7: Autonomous Agents.",
+        "image": "social-assets/knowledge-threads-month/images/N09-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "Web3 Fundamentals (15 lessons): Wallets and Private Keys.\n\nSelf-custody: you control keys or permissions. A custodian manages them for you. A signature proves account control, not legal identity.",
+        "alt": "Wallets and Private Keys, lesson 5 of 15 in Web3 Fundamentals. The excerpt contrasts self-custody, where you control keys or account permissions, with custodial services managing them for you. Wallets sign messages and transactions; signatures establish account control, not legal identity.",
+        "image": "social-assets/knowledge-threads-month/images/N09-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "Decentralized Finance (9 lessons): Lending and Borrowing in DeFi.\n\nExample: 80% LTV on $1,000 collateral gives an $800 borrowing cap. Liquidation uses a separate threshold, with parameters set per market.",
+        "alt": "Lending and Borrowing in DeFi, lesson 2 of 9. Example: $1,000 collateral at 80% loan-to-value gives an $800 borrowing cap. The lesson excerpt explains that allowed LTV depends on the asset, market and risk parameters. Liquidation uses a separate threshold.",
+        "image": "social-assets/knowledge-threads-month/images/N09-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "Smart Contract Development (9 lessons): Testing Smart Contracts.\n\nThe sample transfers 100 units from a 1,000-unit balance and asserts 100 received, 900 left. Foundry fuzz tests vary the amount to test properties.",
+        "alt": "Testing Smart Contracts, lesson 5 of 9, with a Foundry test_Transfer code excerpt. The sample transfers 100 raw units from a 1,000-unit balance and asserts 100 received and 900 remaining. Fuzz tests vary the transfer amount to test properties.",
+        "image": "social-assets/knowledge-threads-month/images/N09-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "Web3 Marketing & Community (8 lessons): Growth Metrics and Analytics.\n\nUnique Active Wallets counts addresses over a defined period; one person can control several. Retention measures return activity from a starting cohort.",
+        "alt": "Growth Metrics and Analytics, lesson 5 of 8 in Web3 Marketing & Community. The excerpt distinguishes accounts, addresses, transactions, sessions and people. Unique Active Wallets counts addresses over a defined period; one person can control several. Retention measures return activity from a starting cohort.",
+        "image": "social-assets/knowledge-threads-month/images/N09-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "AI x Crypto Intersection (7 lessons): Autonomous Agents.\n\nSeparate model, tools and wallet. Balance reads should not grant transfer-signing permission. Enforce spending caps and contract allowlists.\n\nhashtagweb3.com/learn/x",
+        "alt": "Autonomous Agents, lesson 2 of 7 in AI x Crypto Intersection. The excerpt separates permission to read a balance, draft a transaction and sign a transfer. Keep model decisions, tools and wallet signing separate; enforce spending caps and contract allowlists.",
+        "image": "social-assets/knowledge-threads-month/images/N09-06.jpg"
+      }
+    ],
+    "assets": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/N09-01.jpg",
+        "sha256": "d7fb184359464c83ea88d76e4a9a6440bc854f83495eecabfe983d87e003e6aa",
+        "bytes": 151145,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Learn Web3 library excerpt with five course and lesson selections. Web3 Fundamentals, 15 lessons: Wallets and Private Keys. Decentralized Finance, 9: Lending and Borrowing in DeFi. Smart Contract Development, 9: Testing Smart Contracts. Web3 Marketing & Community, 8: Growth Metrics and Analytics. AI x Crypto Intersection, 7: Autonomous Agents.",
+        "renderedText": "Learning library\n\nFive course selections\nWeb3 Fundamentals · 15 lessons\n\nWallets and Private Keys\n\nDecentralized Finance · 9 lessons\n\nLending and Borrowing in DeFi\n\nSmart Contract Development · 9 lessons\n\nTesting Smart Contracts\n\nWeb3 Marketing & Community · 8 lessons\n\nGrowth Metrics and Analytics\n\nAI x Crypto Intersection · 7 lessons\n\nAutonomous Agents\n\nHashtag Web3 learning library\n\nN09 · 1/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/eb5d93934d3ee124d8510ea2dc674e30615f88df/social-assets/knowledge-threads-month/images/N09-01.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N09-02.jpg",
+        "sha256": "677848c131bc1622352c27798d9ce85341229e258ed557dddaf91cd0d2bc5a33",
+        "bytes": 152235,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Wallets and Private Keys, lesson 5 of 15 in Web3 Fundamentals. The excerpt contrasts self-custody, where you control keys or account permissions, with custodial services managing them for you. Wallets sign messages and transactions; signatures establish account control, not legal identity.",
+        "renderedText": "Learning library\n\nWallet control is not legal identity\n\nWeb3 Fundamentals · Lesson 5 of 15\n\nLesson summary\n\nA wallet signs messages and transactions. A signature proves account control, not legal identity.\n\nHashtag Web3 learning library\n\nN09 · 2/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/eb5d93934d3ee124d8510ea2dc674e30615f88df/social-assets/knowledge-threads-month/images/N09-02.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N09-03.jpg",
+        "sha256": "b89d4d04ec1d758cd14bcbb771f778f0d29a7f852a888897591b0e73a4444662",
+        "bytes": 176437,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Lending and Borrowing in DeFi, lesson 2 of 9. Example: $1,000 collateral at 80% loan-to-value gives an $800 borrowing cap. The lesson excerpt explains that allowed LTV depends on the asset, market and risk parameters. Liquidation uses a separate threshold.",
+        "renderedText": "Learning library\n\nBorrowing cap and liquidation threshold differ\n\nDecentralized Finance · Lesson 2 of 9 · Illustrative amounts\n\nLesson summary\n\nExample: 80% LTV on $1,000 collateral gives an $800 borrowing cap. Liquidation uses a separate threshold, with parameters set per market.\n\nHashtag Web3 learning library\n\nN09 · 3/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/eb5d93934d3ee124d8510ea2dc674e30615f88df/social-assets/knowledge-threads-month/images/N09-03.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N09-04.jpg",
+        "sha256": "2e69a86e5955c644a2c3a04df5ca19336f016c176986cc97e475bfee0d605faa",
+        "bytes": 168489,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Testing Smart Contracts, lesson 5 of 9, with a Foundry test_Transfer code excerpt. The sample transfers 100 raw units from a 1,000-unit balance and asserts 100 received and 900 remaining. Fuzz tests vary the transfer amount to test properties.",
+        "renderedText": "Learning library\n\nTurn a transfer into explicit assertions\n\nSmart Contract Development · Lesson 5 of 9 · Foundry / Solidity\n\ntest_Transfer example\n\nSample raw units\n\nThe sample transfers 100 units from a 1,000-unit balance and asserts 100 received, 900 left. Foundry fuzz tests vary the amount to test properties.\n\nHashtag Web3 learning library\n\nN09 · 4/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/eb5d93934d3ee124d8510ea2dc674e30615f88df/social-assets/knowledge-threads-month/images/N09-04.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N09-05.jpg",
+        "sha256": "2ddcbcfd809e6854a9b8dba1fde4bdf794b040877d68f8401216e20998a838ff",
+        "bytes": 175182,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Growth Metrics and Analytics, lesson 5 of 8 in Web3 Marketing & Community. The excerpt distinguishes accounts, addresses, transactions, sessions and people. Unique Active Wallets counts addresses over a defined period; one person can control several. Retention measures return activity from a starting cohort.",
+        "renderedText": "Learning library\n\nCount wallets, then define the returning cohort\n\nWeb3 Marketing & Community · Lesson 5 of 8 · Measurement units\n\nLesson summary\n\nUnique Active Wallets counts addresses over a defined period; one person can control several. Retention measures return activity from a starting cohort.\n\nHashtag Web3 learning library\n\nN09 · 5/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/eb5d93934d3ee124d8510ea2dc674e30615f88df/social-assets/knowledge-threads-month/images/N09-05.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N09-06.jpg",
+        "sha256": "53bdfeec3c5789fd06e77486eda141564fcc70ec6c1a881a7c062e393f6e17cb",
+        "bytes": 170983,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Autonomous Agents, lesson 2 of 7 in AI x Crypto Intersection. The excerpt separates permission to read a balance, draft a transaction and sign a transfer. Keep model decisions, tools and wallet signing separate; enforce spending caps and contract allowlists.",
+        "renderedText": "Learning library\n\nReading a balance does not authorize a transfer\n\nAI x Crypto Intersection · Lesson 2 of 7 · Autonomous Agents\n\nLesson summary\n\nSeparate model, tools and wallet. Balance reads should not grant transfer-signing permission. Enforce spending caps and contract allowlists.\n\nHashtag Web3 learning library\n\nN09 · 6/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/eb5d93934d3ee124d8510ea2dc674e30615f88df/social-assets/knowledge-threads-month/images/N09-06.jpg"
+      }
+    ]
+  },
+  "accountId": "6ab62682ea19ca0bdee284bd",
+  "claimId": "994ae906-bd37-4ea2-88dc-9c38248f732b",
+  "startedAt": "2026-11-13T11:48:11.124Z",
+  "status": "claimed",
+  "steps": {}
+}
