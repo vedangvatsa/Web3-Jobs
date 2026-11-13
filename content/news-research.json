@@ -171185,9 +171185,9 @@
         "Unchained"
       ],
       "id": "b5b2560bc8498bafb56c",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-14T10:51:34.000Z",
       "lastSeenAt": "2026-11-12T01:37:00.023Z",
       "articleSlug": "xstockseu",
@@ -171209,7 +171209,25 @@
         "updatedAt": "2026-11-13T11:36:45.318Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Rechecked Cointelegraph, Decrypt and Unchained article text; 200+ UK/EU tokens, 1500+ assets, $1.1B market cap, GTN rollout, LSE 2027 plan, Backed Assets issuer and US/UK eligibility limits all verified. Draft repaired to 650+ words; quality, formatting, duplicate and image audits pass.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/kraken-xstocks-200-tokenized-uk-eu-equities",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/383000/kraken-parent-payward-brings-200-uk-and-eu-stocks-onchain-as-xstocks",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/kraken-parent-expands-beyond-us-names-with-over-200-uk-and-eu-stocks/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-13T11:54:27.757Z",
+      "lastReviewedDay": "2026-11-13"
     },
     "e93c83c9a8eb8be8bf27": {
       "source": "The Defiant",
@@ -327844,6 +327862,27 @@
           ],
           "reviewedAt": "2026-11-13T11:42:28.620Z",
           "articleSlug": "dojseizure"
+        },
+        "b5b2560bc8498bafb56c": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Rechecked Cointelegraph, Decrypt and Unchained article text; 200+ UK/EU tokens, 1500+ assets, $1.1B market cap, GTN rollout, LSE 2027 plan, Backed Assets issuer and US/UK eligibility limits all verified. Draft repaired to 650+ words; quality, formatting, duplicate and image audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/kraken-xstocks-200-tokenized-uk-eu-equities",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383000/kraken-parent-payward-brings-200-uk-and-eu-stocks-onchain-as-xstocks",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/kraken-parent-expands-beyond-us-names-with-over-200-uk-and-eu-stocks/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-13T11:54:27.757Z",
+          "articleSlug": "xstockseu"
         }
       },
       "baselineSlugs": [
