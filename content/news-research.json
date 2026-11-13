@@ -168532,9 +168532,9 @@
         "Unchained"
       ],
       "id": "f91891fc0a923a01b21d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-14T09:40:46.000Z",
       "lastSeenAt": "2026-11-12T01:37:00.023Z",
       "articleSlug": "novigrule",
@@ -168556,7 +168556,21 @@
         "updatedAt": "2026-11-12T01:52:13.058Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Unchained ruling story and the primary Nov. 10 opinion on CourtListener (Ludlow Exchange v. James, ECF 73); McMahon denial, not-swaps holding, CFTC contradiction language, geofencing path and appeal posture verified. Draft and local hero image completed.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/judge-calls-cftcs-swap-rules-inherently-contradictory-as-novig-loses-bid-to-block-new-york",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.courtlistener.com/docket/73720612/73/ludlow-exchange-llc-v-james/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-13T12:08:36.462Z",
+      "lastReviewedDay": "2026-11-13"
     },
     "3f250f6e73da30f98fb3": {
       "source": "Cointelegraph",
@@ -327984,6 +327998,23 @@
           ],
           "reviewedAt": "2026-11-13T12:08:31.329Z",
           "articleSlug": "okxicedebut"
+        },
+        "f91891fc0a923a01b21d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Unchained ruling story and the primary Nov. 10 opinion on CourtListener (Ludlow Exchange v. James, ECF 73); McMahon denial, not-swaps holding, CFTC contradiction language, geofencing path and appeal posture verified. Draft and local hero image completed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/judge-calls-cftcs-swap-rules-inherently-contradictory-as-novig-loses-bid-to-block-new-york",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.courtlistener.com/docket/73720612/73/ludlow-exchange-llc-v-james/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-13T12:08:36.462Z",
+          "articleSlug": "novigrule"
         }
       },
       "baselineSlugs": [
