@@ -171131,9 +171131,9 @@
       "articleSlug": "xstockseu",
       "draftProgress": {
         "id": "b5b2560bc8498bafb56c",
-        "day": "2026-11-12",
+        "day": "2026-11-13",
         "articleSlug": "xstockseu",
-        "note": "Read Cointelegraph and Decrypt expansion stories; 200+ UK/EU tokens, 1500+ assets, .1B market cap figures verified; draft and image still needed.",
+        "note": "Rechecked Cointelegraph and Decrypt; 200+ UK/EU tokens, 1500+ assets, .1B market cap verified; draft and image still needed.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/news/kraken-xstocks-200-tokenized-uk-eu-equities",
@@ -171144,7 +171144,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-12T01:51:59.399Z",
+        "updatedAt": "2026-11-13T11:36:45.318Z",
         "approved": false,
         "mustReview": true
       }
@@ -171233,7 +171233,31 @@
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
       "attempts": 0,
       "expiresAt": "2026-11-15T22:55:52.000Z",
-      "lastSeenAt": "2026-11-13T11:28:25.584Z"
+      "lastSeenAt": "2026-11-13T11:28:25.584Z",
+      "articleSlug": "dojseizure",
+      "draftProgress": {
+        "id": "e33b7172f9968a76fb2d",
+        "day": "2026-11-13",
+        "articleSlug": "dojseizure",
+        "note": "Read DOJ primary release, Cointelegraph and Unchained; draft and image still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme",
+            "outcome": "read"
+          },
+          {
+            "url": "https://unchainedcrypto.com/court-order-lets-doj-lock-up-1-2-billion-of-north-koreas-stolen-binance-crypto/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-13T11:36:41.767Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "855641ab1fc70ba0bcef": {
       "source": "Unchained",
