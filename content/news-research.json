@@ -170043,11 +170043,30 @@
         "The Defiant"
       ],
       "id": "030b2be73b0b0d134c18",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-14T21:36:01.000Z",
-      "lastSeenAt": "2026-11-12T01:37:00.023Z"
+      "lastSeenAt": "2026-11-12T01:37:00.023Z",
+      "reason": "source-blocked",
+      "note": "Read Cointelegraph's Nov 11 story, which attributes the sale exploration to Bloomberg and reports Marex among possible buyers plus Nomura's 7.4B yen European pretax loss. The Defiant's version of the same report returned HTTP 403, the assignment's The Block link covers an unrelated Laser Digital event, and no independent outlet beyond the Bloomberg origin could be opened.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/nomura-explores-laser-digital-sale-bloomberg-reports",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-13T12:23:06.385Z",
+      "retrySearches": [
+        "Find an independent report or Nomura statement on a Laser Digital sale beyond the Bloomberg origin, or open Bloomberg's original article text",
+        "Check whether Nomura or Laser Digital issued an official comment confirming or denying a sale process"
+      ],
+      "lastReviewedDay": "2026-11-13",
+      "nextReviewDate": "2026-11-14"
     },
     "778d3687c82c0dc1412b": {
       "source": "Bitcoin Magazine",
@@ -328235,6 +328254,26 @@
           ],
           "reviewedAt": "2026-11-13T12:22:40.424Z",
           "articleSlug": "acrosshack"
+        },
+        "030b2be73b0b0d134c18": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Cointelegraph's Nov 11 story, which attributes the sale exploration to Bloomberg and reports Marex among possible buyers plus Nomura's 7.4B yen European pretax loss. The Defiant's version of the same report returned HTTP 403, the assignment's The Block link covers an unrelated Laser Digital event, and no independent outlet beyond the Bloomberg origin could be opened.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/nomura-explores-laser-digital-sale-bloomberg-reports",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-13T12:23:06.385Z",
+          "retrySearches": [
+            "Find an independent report or Nomura statement on a Laser Digital sale beyond the Bloomberg origin, or open Bloomberg's original article text",
+            "Check whether Nomura or Laser Digital issued an official comment confirming or denying a sale process"
+          ]
         }
       },
       "baselineSlugs": [
