@@ -164746,14 +164746,38 @@
         "id": "afa04107b09697111d85",
         "day": "2026-11-13",
         "articleSlug": "monadvisa",
-        "note": "Round 4 resume: rechecking Unchained read and seeking second readable independent outlet (The Block/Defiant) before drafting.",
+        "note": "Read Monad primary release, Unchained, crypto.news and NewsBTC; draft and image still needed.",
         "sourceChecks": [
+          {
+            "url": "https://monad.xyz/newsroom/press-releases/visa-stablecoin-settlement-monad",
+            "outcome": "read"
+          },
           {
             "url": "https://unchainedcrypto.com/monad-is-now-a-settlement-option-in-visas-stablecoin-program/",
             "outcome": "read"
+          },
+          {
+            "url": "https://crypto.news/visa-monad-stablecoin-settlement/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.newsbtc.com/technology/visa-monad-stablecoin-settlement-network-institutions/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.theblock.co/news/ecosystems/2026-11-10-visa-monad-stablecoin-settlement-network-437201",
+            "outcome": "blocked"
+          },
+          {
+            "url": "https://thedefiant.io/converge/tradfi-and-fintech/visa-adds-monad-to-stablecoin-settlement-the-block",
+            "outcome": "blocked"
+          },
+          {
+            "url": "https://www.globenewswire.com/news-release/2026/11/10/3399913/0/en/monad-joins-visa-s-stablecoin-settlement-program.html",
+            "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-11-13T11:30:10.876Z",
+        "updatedAt": "2026-11-13T11:36:50.750Z",
         "approved": false,
         "mustReview": true
       }
