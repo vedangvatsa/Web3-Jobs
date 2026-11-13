@@ -164320,14 +164320,18 @@
         "id": "252532bdf9093343d60c",
         "day": "2026-11-13",
         "articleSlug": "zcashgrants",
-        "note": "Re-read Decrypt this round: $1M pledge from ZCSH fees, first $400k in $100k grants to Zcash Foundation, Pretty Good Policy, Shielded Labs, Project Tachyon, up-to-12-month fee reinvestment verified. bitcoin.com source recheck pending extraction; draft and image still needed.",
+        "note": "Re-read Decrypt and bitcoin.com this round: $1M pledge from ZCSH fees, first $400k in $100k grants to Zcash Foundation, Pretty Good Policy, Shielded Labs, Project Tachyon, Zcash Invest platform, WSJ ad campaign and fee reinvestment verified. Two sources confirmed; draft and image still needed.",
         "sourceChecks": [
           {
             "url": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
             "outcome": "read"
+          },
+          {
+            "url": "https://news.bitcoin.com/market-updates/grayscale-pledges-1m-zcash-ecosystem-zec-plunges-below-1000/",
+            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-13T11:56:48.470Z",
+        "updatedAt": "2026-11-13T11:57:00.897Z",
         "approved": false,
         "mustReview": true
       }
