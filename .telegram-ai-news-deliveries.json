@@ -1,0 +1,39 @@
+{
+  "bd7b9d75-8c4b-4ec1-8b7d-d582e7b2482d": {
+    "status": "reserved",
+    "reservedAt": "2026-11-13T11:49:17.987Z",
+    "stories": [
+      {
+        "index": 5,
+        "original_title": "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
+        "headline": "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
+        "summary": "The executive departure creates leadership uncertainty for the primary chip manufacturer powering current data center expansion.",
+        "event_rationale": "Covers the executive leadership change at Nvidia following the resignation of its chief executive officer.",
+        "link": "https://techxplore.com/news/2026-11-jensen-huang-built-company-powers.html",
+        "source": "TechXplore",
+        "originalTitle": "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him"
+      },
+      {
+        "index": 8,
+        "original_title": "Google releases Gemini 4 Hydrogen, a lower-cost model said to outscore Argon",
+        "headline": "Google releases Gemini 4 Hydrogen model with lower operating costs",
+        "summary": "The new release achieves higher reasoning scores on standard benchmarks than earlier flagship versions at a reduced price.",
+        "event_rationale": "Covers Google's launch of a new lower-cost artificial intelligence model in its core product family.",
+        "link": "https://siliconangle.com/2026/11/12/google-releases-gemini-4-hydrogen-a-lower-cost-model-said-to-outscore-argon/",
+        "source": "SiliconANGLE",
+        "originalTitle": "Google releases Gemini 4 Hydrogen, a lower-cost model said to outscore Argon"
+      },
+      {
+        "index": 6,
+        "original_title": "AI agent tooling provider LangChain secures $300M investment",
+        "headline": "LangChain raises 300 million dollars for agent development software",
+        "summary": "The capital investment will fund open-source tools used by developers to build automated enterprise software systems.",
+        "event_rationale": "Covers a 300 million dollar funding round for LangChain to build developer software for automated agents.",
+        "link": "https://siliconangle.com/2026/11/12/ai-agent-tooling-provider-langchain-secures-300m-investment/",
+        "source": "SiliconANGLE",
+        "originalTitle": "AI agent tooling provider LangChain secures $300M investment"
+      }
+    ],
+    "slotKey": "2026-11-13:afternoon"
+  }
+}
