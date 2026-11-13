@@ -167459,9 +167459,9 @@
         "Unchained"
       ],
       "id": "33eae4247c740f06b391",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-13T15:49:59.000Z",
       "lastSeenAt": "2026-11-11T08:29:40.487Z",
       "articleSlug": "moodyspilot",
@@ -167483,7 +167483,25 @@
         "updatedAt": "2026-11-11T11:51:56.167Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read the PR Newswire joint release, Decrypt and Unchained. Testnet-only scope, no onchain rating actions, TIE Canton/Solana history, 70+ digital issuances, Astic and Eid quotes and open production questions verified across three sites. Self-hosted Lower Manhattan photo; quality, formatting, image and duplicate audits pass; all links 200.",
+      "sourceChecks": [
+        {
+          "url": "https://www.prnewswire.com/news-releases/chainlink-facilitates-simultaneous-multi-chain-pilot-distribution-of-moodys-ratings-credit-insights-302934925.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/382888/moodys-chainlink-credit-ratings-across-multiple-blockchains",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/moodys-pilot-with-chainlink-puts-test-ratings-on-several-blockchains-in-one-pass/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-13T12:19:58.793Z",
+      "lastReviewedDay": "2026-11-13"
     },
     "bc83f0358aa84c4b4011": {
       "source": "The Defiant",
@@ -328148,6 +328166,27 @@
           ],
           "reviewedAt": "2026-11-13T12:17:00.364Z",
           "articleSlug": "tethergold"
+        },
+        "33eae4247c740f06b391": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read the PR Newswire joint release, Decrypt and Unchained. Testnet-only scope, no onchain rating actions, TIE Canton/Solana history, 70+ digital issuances, Astic and Eid quotes and open production questions verified across three sites. Self-hosted Lower Manhattan photo; quality, formatting, image and duplicate audits pass; all links 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.prnewswire.com/news-releases/chainlink-facilitates-simultaneous-multi-chain-pilot-distribution-of-moodys-ratings-credit-insights-302934925.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/382888/moodys-chainlink-credit-ratings-across-multiple-blockchains",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/moodys-pilot-with-chainlink-puts-test-ratings-on-several-blockchains-in-one-pass/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-13T12:19:58.793Z",
+          "articleSlug": "moodyspilot"
         }
       },
       "baselineSlugs": [
