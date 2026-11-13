@@ -1,6 +1,6 @@
 {
   "35e61a5d-f8f2-4d49-8ae5-99352267747e": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-13T11:49:17.176Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -115,6 +115,8 @@
       }
     ],
     "message": "- OKX is hiring <a href=\"https://hashtagweb3.com/mgr205?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Manager PR and Communications APAC</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/eng746?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Machine Learning Engineer, Transaction Risk</a>\n- Altitude Development Partners is hiring <a href=\"https://hashtagweb3.com/an135?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Risk Analyst</a>\n- CKBA is hiring <a href=\"https://hashtagweb3.com/pct?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Payment Channel Team Lead</a>\n- Altitude Development Partners is hiring <a href=\"https://hashtagweb3.com/tr141?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Quant Researcher / Strategy Developer</a>",
-    "slotKey": "2026-11-13:afternoon"
+    "slotKey": "2026-11-13:afternoon",
+    "messageId": 16640,
+    "sentAt": "2026-11-13T11:49:19.516Z"
   }
 }
