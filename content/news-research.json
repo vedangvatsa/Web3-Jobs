@@ -168464,9 +168464,9 @@
         "Unchained"
       ],
       "id": "d3abf39b86f49da7d1e3",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-14T13:00:00.000Z",
       "lastSeenAt": "2026-11-12T01:37:00.023Z",
       "articleSlug": "okxicedebut",
@@ -168488,7 +168488,21 @@
         "updatedAt": "2026-11-12T01:52:35.109Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Cointelegraph and Unchained launch stories; Nov 23 9am ET open, 70+ confirmed assets, 59 Direxion ETFs, 67 objecting issuers, Uniswap v4/X Layer mechanics and IMF/Nasdaq context verified across both sources. Draft and local hero image completed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/okxice-tokenized-stock-venue-to-open-nov-23-circle-coinbase-robinhood-among-70-assets/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-13T12:08:31.329Z",
+      "lastReviewedDay": "2026-11-13"
     },
     "f91891fc0a923a01b21d": {
       "source": "The Block",
@@ -327953,6 +327967,23 @@
             "Find independent reporting or the Bitmine Form 10-K confirming the $6.3 billion fiscal 2026 net loss and $6.2 billion unrealized ether loss",
             "Retry The Block article after Cloudflare challenge clears"
           ]
+        },
+        "d3abf39b86f49da7d1e3": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Cointelegraph and Unchained launch stories; Nov 23 9am ET open, 70+ confirmed assets, 59 Direxion ETFs, 67 objecting issuers, Uniswap v4/X Layer mechanics and IMF/Nasdaq context verified across both sources. Draft and local hero image completed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/okxice-tokenized-stock-venue-to-open-nov-23-circle-coinbase-robinhood-among-70-assets/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-13T12:08:31.329Z",
+          "articleSlug": "okxicedebut"
         }
       },
       "baselineSlugs": [
