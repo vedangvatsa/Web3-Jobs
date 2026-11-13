@@ -1,0 +1,50 @@
+{
+  "82c14e7b-0f4b-404a-a2af-0c2ad468cc42": {
+    "status": "reserved",
+    "reservedAt": "2026-11-13T11:49:00.608Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-uHn5eEkF4dMF3hY",
+        "slug": "breakpointafr",
+        "name": "Breakpoint Crypto Padel",
+        "startDate": "2026-11-13T12:30:00.000Z",
+        "keys": [
+          "luma-crypto-uhn5eekf4dmf3hy",
+          "page:breakpointafr:2026-11-13",
+          "luma:evt-uhn5eekf4dmf3hy",
+          "luma-url:/afr82s1n",
+          "event:breakpointcryptopadel:2026-11-13:london"
+        ]
+      },
+      {
+        "id": "luma-crypto-MmhGsDUQyu8iHkD",
+        "slug": "building-b",
+        "name": "Building Better Worlds Hackathon",
+        "startDate": "2026-11-13T13:00:00.000Z",
+        "keys": [
+          "luma-crypto-mmhgsduqyu8ihkd",
+          "page:building-b:2026-11-13",
+          "luma:evt-mmhgsduqyu8ihkd",
+          "luma-url:/rrnm4pul",
+          "event:buildingbetterworldshackathon:2026-11-13:vienna"
+        ]
+      },
+      {
+        "id": "luma-crypto-VM9zEEwMzJLXDTu",
+        "slug": "team1-lab",
+        "name": "Team1 Lab: Avalanche L1 Workshop",
+        "startDate": "2026-11-13T15:00:00.000Z",
+        "keys": [
+          "luma-crypto-vm9zeewmzjlxdtu",
+          "page:team1-lab:2026-11-13",
+          "luma:evt-vm9zeewmzjlxdtu",
+          "luma-url:/team1labistuni",
+          "event:team1labavalanchel1workshop:2026-11-13:fatih"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-13:afternoon"
+  }
+}
