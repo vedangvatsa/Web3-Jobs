@@ -165304,11 +165304,21 @@
         "Unchained"
       ],
       "id": "61df2c3675a11c47cc6c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-13T19:38:18.000Z",
-      "lastSeenAt": "2026-11-13T11:28:25.584Z"
+      "lastSeenAt": "2026-11-13T11:28:25.584Z",
+      "reason": "price-chatter",
+      "note": "Read Unchained's CPI report: the story is a Bitcoin price move after the October CPI release plus analyst forecasts of a drop to $70k. No concrete protocol, regulatory or company event; price chatter and predictions are excluded.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/bitcoin-drops-below-74000-as-core-inflation-runs-above-forecasts/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-13T11:54:46.910Z",
+      "lastReviewedDay": "2026-11-13"
     },
     "f287e904a2e101aee32a": {
       "source": "Bankless",
@@ -327883,6 +327893,18 @@
           ],
           "reviewedAt": "2026-11-13T11:54:27.757Z",
           "articleSlug": "xstockseu"
+        },
+        "61df2c3675a11c47cc6c": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read Unchained's CPI report: the story is a Bitcoin price move after the October CPI release plus analyst forecasts of a drop to $70k. No concrete protocol, regulatory or company event; price chatter and predictions are excluded.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/bitcoin-drops-below-74000-as-core-inflation-runs-above-forecasts/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-13T11:54:46.910Z"
         }
       },
       "baselineSlugs": [
