@@ -166070,28 +166070,32 @@
       "id": "475ada6159bd64f57ebf",
       "status": "deferred",
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-14T06:22:32.000Z",
       "lastSeenAt": "2026-11-12T01:37:00.023Z",
       "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline\": https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "note": "Read Cointelegraph's report of the Form 10-K: $6.3B net loss for FY ended Aug. 31, $6.2B unrealized digital-asset loss, 5.9M ETH held, $15.4B assets. The Block returned a Cloudflare challenge and the listed Decrypt URL is an unrelated Bitcoin article, so a second independent source is still missing.",
       "sourceChecks": [
         {
+          "url": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings",
+          "outcome": "read"
+        },
+        {
           "url": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812",
-          "outcome": "blocked",
-          "status": 403,
-          "method": "GET",
-          "checkedAt": "2026-11-11T11:25:08.491Z"
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-11T11:25:15.242Z",
+      "reviewedAt": "2026-11-13T11:56:04.035Z",
       "retrySearches": [
-        "Find a readable primary announcement or filing for: Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline",
-        "Find independent reporting confirming the event in: Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline",
-        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+        "Find independent reporting or the Bitmine Form 10-K confirming the $6.3 billion fiscal 2026 net loss and $6.2 billion unrealized ether loss",
+        "Retry The Block article after Cloudflare challenge clears"
       ],
-      "lastReviewedDay": "2026-11-11",
-      "nextReviewDate": "2026-11-12"
+      "lastReviewedDay": "2026-11-13",
+      "nextReviewDate": "2026-11-14"
     },
     "405ff13396b0517f98b2": {
       "source": "Crypto Briefing",
@@ -327905,6 +327909,30 @@
             }
           ],
           "reviewedAt": "2026-11-13T11:54:46.910Z"
+        },
+        "475ada6159bd64f57ebf": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Cointelegraph's report of the Form 10-K: $6.3B net loss for FY ended Aug. 31, $6.2B unrealized digital-asset loss, 5.9M ETH held, $15.4B assets. The Block returned a Cloudflare challenge and the listed Decrypt URL is an unrelated Bitcoin article, so a second independent source is still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-13T11:56:04.035Z",
+          "retrySearches": [
+            "Find independent reporting or the Bitmine Form 10-K confirming the $6.3 billion fiscal 2026 net loss and $6.2 billion unrealized ether loss",
+            "Retry The Block article after Cloudflare challenge clears"
+          ]
         }
       },
       "baselineSlugs": [
