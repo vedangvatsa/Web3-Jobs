@@ -356,5 +356,121 @@
     "slotKey": "2026-11-13:evening",
     "messageId": 16642,
     "sentAt": "2026-11-13T19:32:29.468Z"
+  },
+  "a23f7e73-d745-4ae0-af7d-2995b300eec8": {
+    "status": "reserved",
+    "reservedAt": "2026-11-13T19:32:31.171Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "2da41337-1968-407e-8837-d703bca8d212",
+          "title": "Senior Compliance Analyst, Canada",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/2da41337-1968-407e-8837-d703bca8d212",
+          "date": "2026-11-11T20:12:44.781Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Remote (Canada)",
+          "workplaceType": "remote",
+          "department": "Compliance",
+          "active": true,
+          "slug": "cmp120",
+          "dateVerified": true
+        },
+        "key": "2da41337-1968-407e-8837-d703bca8d212",
+        "slug": "cmp120",
+        "url": "https://hashtagweb3.com/cmp120?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Senior Compliance Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "8360001",
+          "title": "Software Engineering Intern - Waterloo University - Winter Session",
+          "company": "Brave",
+          "link": "https://job-boards.greenhouse.io/brave/jobs/8360001",
+          "date": "2026-11-06T14:21:56-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Brave [brave]",
+          "location": "Canada",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng724"
+        },
+        "key": "8360001",
+        "slug": "eng724",
+        "url": "https://hashtagweb3.com/eng724?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Brave",
+        "title": "Software Engineering Intern"
+      },
+      {
+        "snapshot": {
+          "id": "30675a37-75df-4c2d-8641-3c19a9ade9f7",
+          "title": "Product Analyst",
+          "company": "Kalshi",
+          "link": "https://jobs.ashbyhq.com/kalshi/30675a37-75df-4c2d-8641-3c19a9ade9f7",
+          "date": "2026-11-11T22:00:24.360+00:00",
+          "source": "Ashby: Kalshi [kalshi]",
+          "location": "New York Office",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Creative",
+          "active": true,
+          "slug": "pm390",
+          "dateVerified": true
+        },
+        "key": "30675a37-75df-4c2d-8641-3c19a9ade9f7",
+        "slug": "pm390",
+        "url": "https://hashtagweb3.com/pm390?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kalshi",
+        "title": "Product Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "f9c84be6-bc81-4cbb-a06c-be1a06c222da",
+          "title": "Customer Support (Season Contractor)",
+          "company": "CoinTracker",
+          "link": "https://jobs.ashbyhq.com/cointracker/f9c84be6-bc81-4cbb-a06c-be1a06c222da",
+          "date": "2026-11-02T15:54:46.456+00:00",
+          "source": "Ashby: CoinTracker [cointracker]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Customer Support",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cssc2"
+        },
+        "key": "f9c84be6-bc81-4cbb-a06c-be1a06c222da",
+        "slug": "cssc2",
+        "url": "https://hashtagweb3.com/cssc2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CoinTracker",
+        "title": "Customer Support"
+      },
+      {
+        "snapshot": {
+          "id": "39bb8121-cde7-49b3-9efc-05478027d7df",
+          "title": "Deputy General Counsel",
+          "company": "Open Standard",
+          "link": "https://jobs.ashbyhq.com/openstandard/39bb8121-cde7-49b3-9efc-05478027d7df",
+          "date": "2026-10-20T18:14:49.612+00:00",
+          "source": "Ashby: Open Standard [openstandard]",
+          "location": "San Francisco or New York",
+          "department": "General",
+          "applyUrl": "https://jobs.ashbyhq.com/openstandard/39bb8121-cde7-49b3-9efc-05478027d7df/application",
+          "active": true,
+          "dateVerified": true,
+          "slug": "dgc"
+        },
+        "key": "39bb8121-cde7-49b3-9efc-05478027d7df",
+        "slug": "dgc",
+        "url": "https://hashtagweb3.com/dgc?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Open Standard",
+        "title": "Deputy General Counsel"
+      }
+    ],
+    "message": "- Crypto​.com is hiring <a href=\"https://hashtagweb3.com/cmp120?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Compliance Analyst, Canada</a>\n- Brave is hiring <a href=\"https://hashtagweb3.com/eng724?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineering Intern - Waterloo University - Winter Session</a>\n- Kalshi is hiring <a href=\"https://hashtagweb3.com/pm390?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Analyst</a>\n- CoinTracker is hiring <a href=\"https://hashtagweb3.com/cssc2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Support (Season Contractor)</a>\n- Open Standard is hiring <a href=\"https://hashtagweb3.com/dgc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Deputy General Counsel</a>",
+    "slotKey": "2026-11-13:evening"
   }
 }
