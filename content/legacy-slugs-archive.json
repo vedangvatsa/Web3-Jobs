@@ -156732,5 +156732,86 @@
     "link": "https://jobs.ashbyhq.com/kraken.com/d62250a9-363c-43b0-b3de-958e3cc9f97b",
     "company": "Kraken",
     "title": "Senior Software Engineer – AI Infrastructure"
+  },
+  "mkt111": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "company": "Ripio",
+    "title": "Marketing Operations & CRM Senior",
+    "newSlug": "mkt153"
+  },
+  "sls298": {
+    "id": "9c249990-643c-4793-9917-cb5ca3be2883",
+    "link": "https://jobs.ripio.com/jobs/8560977-vp-of-global-business-development",
+    "company": "Ripio",
+    "title": "VP of Global Business Development",
+    "newSlug": "sls499"
+  },
+  "cmp122": {
+    "id": "351",
+    "link": "https://fasset.bamboohr.com/careers/351",
+    "company": "Fasset",
+    "title": "Compliance Operations Associate",
+    "newSlug": "cmp171"
+  },
+  "infra70": {
+    "id": "7996101003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7996101003",
+    "company": "OKX",
+    "title": "Senior Management, Platform & Infrastructure Audit"
+  },
+  "sss6": {
+    "id": "8335618",
+    "link": "https://www.coinbase.com/careers/positions/8335618?gh_jid=8335618",
+    "company": "Coinbase",
+    "title": "Social Support Specialist I"
+  },
+  "aso79": {
+    "id": "8925481002",
+    "link": "https://job-boards.greenhouse.io/figure/jobs/8925481002",
+    "company": "Figure",
+    "title": "Executive Assistant and Office Manager"
+  },
+  "cssl9": {
+    "id": "8334281",
+    "link": "https://www.coinbase.com/careers/positions/8334281?gh_jid=8334281",
+    "company": "Coinbase",
+    "title": "Customer Support Specialist ll"
+  },
+  "tir5": {
+    "id": "8046685003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8046685003",
+    "company": "OKX",
+    "title": "Head of Tax Information Reporting"
+  },
+  "spt2": {
+    "id": "b5a10115-0386-47c5-80f2-9c382e606dfd",
+    "link": "https://jobs.ashbyhq.com/pluralis-research/b5a10115-0386-47c5-80f2-9c382e606dfd",
+    "company": "Pluralis Research",
+    "title": "Research Scientist - Pre-training"
+  },
+  "sdti": {
+    "id": "c86697dd-aacf-4112-b2e2-08dd69d50430",
+    "link": "https://jobs.ashbyhq.com/pluralis-research/c86697dd-aacf-4112-b2e2-08dd69d50430",
+    "company": "Pluralis Research",
+    "title": "Research Scientist - Decentralized Training and Inference Verification"
+  },
+  "sgdi": {
+    "id": "8293ce8f-a4c0-499f-971a-761153c14a85",
+    "link": "https://jobs.ashbyhq.com/pluralis-research/8293ce8f-a4c0-499f-971a-761153c14a85",
+    "company": "Pluralis Research",
+    "title": "Research Scientist - Geo-Distributed Inference"
+  },
+  "spt": {
+    "id": "8fbc6d1a-eac7-4c1e-91e6-e2a68b7d9368",
+    "link": "https://jobs.ashbyhq.com/pluralis-research/8fbc6d1a-eac7-4c1e-91e6-e2a68b7d9368",
+    "company": "Pluralis Research",
+    "title": "Research Scientist - Post-Training"
+  },
+  "ob19": {
+    "id": "1010",
+    "link": "https://bitso.bamboohr.com/careers/1010",
+    "company": "Bitso",
+    "title": "Onboarding Operations Analyst"
   }
 }
