@@ -1,6 +1,430 @@
 {
-  "generatedAt": "2026-11-12T11:31:49.353Z",
+  "generatedAt": "2026-11-13T11:28:12.768Z",
   "items": [
+    {
+      "title": "Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand",
+      "link": "https://decrypt.co/383214/bitcoin-drops-to-69k-on-concentrated-liquidation-and-weakening-demand",
+      "pubDate": "Fri, 13 Nov 2026 11:20:44 +0000",
+      "creator": "Ryan Gladwin",
+      "contentSnippet": "BTC dropped 5% on Friday, falling below $69,000. Experts say it was triggered by a \"concentrated liquidation\" and \"weakening\" demand.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Thailand seeks $148,000 daily cap on certain stablecoin transfers to curb money laundering",
+      "link": "https://www.theblock.co/news/regulation/2026-11-13-thailand-seeks-daily-stablecoin-cap-439676",
+      "pubDate": "Fri, 13 Nov 2026 10:16:04 +0000",
+      "creator": "Danny Park",
+      "contentSnippet": "The draft rules also require that stablecoins be transferred only between accounts or wallets belonging to the same person.",
+      "source": "The Block"
+    },
+    {
+      "title": "PNC Bank Partners With Coinbase To Enable USDC Stablecoin Payments for Institutional and Corporate Customers",
+      "link": "https://dailyhodl.com/2026/11/13/pnc-bank-partners-with-coinbase-to-enable-usdc-stablecoin-payments-for-institutional-and-corporate-customers/",
+      "pubDate": "Fri, 13 Nov 2026 10:15:02 +0000",
+      "creator": "Agent",
+      "contentSnippet": "PNC Bank is letting eligible corporate clients receive USDC payments through Coinbase, with automatic 1-to-1 conversion to US dollars.\nThe post PNC Ba...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock’s bitcoin ETF",
+      "link": "https://www.theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671",
+      "pubDate": "Fri, 13 Nov 2026 09:59:16 +0000",
+      "creator": "Brian Danga",
+      "contentSnippet": "JPMorgan reported 224,545 more Strategy shares in the third quarter as its BlackRock bitcoin ETF holdings climbed to 11.4 million shares.",
+      "source": "The Block"
+    },
+    {
+      "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
+      "link": "https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 13 Nov 2026 09:58:21 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "Unocoin said the transfers were signed outside BitGo’s platform while its account was frozen, possibly via a wallet recovery feature.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
+      "link": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 13 Nov 2026 09:39:05 +0000",
+      "creator": "William Suberg",
+      "contentSnippet": "Bitcoin price action interacted with its 200-week simple moving average for the first time since mid-August as it fell below $68,000.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "DOJ, CFTC sue Arkansas to block state enforcement action against Kalshi",
+      "link": "https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669",
+      "pubDate": "Fri, 13 Nov 2026 09:32:39 +0000",
+      "creator": "Timmy Shen",
+      "contentSnippet": "Arkansas previously sued Kalshi on Nov. 4, alleging that it operated an illegal gambling platform in the state.",
+      "source": "The Block"
+    },
+    {
+      "title": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
+      "link": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 13 Nov 2026 09:27:14 +0000",
+      "creator": "Zoltan Vardai",
+      "contentSnippet": "Authorities froze over $2.7 billion in Binance hack proceeds, while the separate FaceStealer scam stole over $400 million in 18 months.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Live news: Bitcoin briefly drops below 200-week moving average ",
+      "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
+      "pubDate": "Fri, 13 Nov 2026 09:16:58 +0000",
+      "creator": "James Van Straten",
+      "contentSnippet": "Bitcoin fell below its 200-week moving average as the Dollar Index held above 103, while gold struggled to recover and oil prices rebounded.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT",
+      "link": "https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 13 Nov 2026 09:05:10 +0000",
+      "creator": "Helen Partz",
+      "contentSnippet": "Jane Street ended Q3 with 19% fewer shares in BlackRock’s Bitcoin ETF, and a higher share price lifted the stake’s value to $957 million.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
+      "link": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
+      "pubDate": "Fri, 13 Nov 2026 07:05:29 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "The Nasdaq-listed company has 46,676 ETH backing its borrowings, and the loan could become eligible for liquidation if ether slides to around $1,700.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters",
+      "link": "https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643",
+      "pubDate": "Fri, 13 Nov 2026 06:23:43 +0000",
+      "creator": "Timmy Shen",
+      "contentSnippet": "A total of $798 million in crypto positions has been liquidated over the past four hours, including $718.5 million in long positions.",
+      "source": "The Block"
+    },
+    {
+      "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
+      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
+      "pubDate": "Fri, 13 Nov 2026 06:03:41 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "About 70% of the bitcoin treasury firm’s coins are pledged to the exchange, bought at roughly $118,000 each, and bitcoin now trades under $69,000.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
+      "link": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 13 Nov 2026 06:00:15 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "Bitcoin fell below $70,000 as crypto sentiment hit its lowest level in more than four months, with analysts warning of institutional outflows, thinnin...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
+      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
+      "pubDate": "Fri, 13 Nov 2026 05:45:26 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Recent rapid redemptions explain the market swoon. Bitcoin's spot price fell below $70,000 on Friday, the lowest since August.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
+      "link": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
+      "pubDate": "Fri, 13 Nov 2026 05:08:59 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "A deal could be announced as soon as December, putting $2.1 billion of bitcoin under one roof, a sliver of what the combined group would be worth.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "TRM Labs launches new service to help police seize stolen crypto in minutes",
+      "link": "https://www.theblock.co/news/defi/2026-11-13-trm-labs-beacon-concierge-439609",
+      "pubDate": "Fri, 13 Nov 2026 05:08:25 +0000",
+      "creator": "Danny Park",
+      "contentSnippet": "The new service is built on the Beacon Network, which has more than 200 members covering 80% of crypto trading volume.",
+      "source": "The Block"
+    },
+    {
+      "title": "White House sends crypto-relevant picks to fill SEC and CFTC seats",
+      "link": "https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175",
+      "pubDate": "Fri, 13 Nov 2026 04:56:47 +0000",
+      "creator": "Danny Park",
+      "contentSnippet": "Crypto Council for Innovation's Ji Kim said this bipartisan lineup could develop durable rules that safeguard markets and support innovation.",
+      "source": "The Block"
+    },
+    {
+      "title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
+      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049",
+      "pubDate": "Fri, 13 Nov 2026 04:20:00 +0000",
+      "creator": "Yogita Khatri",
+      "contentSnippet": "In today's newsletter, bitcoin falls to 12-week low as Jensen Huang's exit from Nvidia rattles markets; Strategy, Metaplanet to lose MSCI index member...",
+      "source": "The Block"
+    },
+    {
+      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+      "pubDate": "Fri, 13 Nov 2026 03:37:00 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "The crypto market selloff gathered pace early Friday. Bitcoin dropped below $70,000 and ether traded below $2,000, triggering large liquidations in fu...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Celestia's Voyager Achieves 21M Transactions Per Second",
+      "link": "https://blockchain.news/news/celestia-voyager-21m-tps",
+      "pubDate": "Fri, 13 Nov 2026 03:30:10 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Celestia's Voyager blockchain architecture sustains 21M TPS through innovative design, including a single-threaded STF and LMAX Disruptor-based coordi...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Binance Expands to Multi-Asset Trading with Stocks and Tokenized Securities",
+      "link": "https://blockchain.news/news/binance-multi-asset-trading-stocks-tokenized-securities",
+      "pubDate": "Fri, 13 Nov 2026 02:33:10 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Binance now offers 7,000+ U.S. stocks and ETFs alongside crypto, enabling 24/5 trading and tokenized securities settled in stablecoins. (Read More)",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Binance Square Launches Leaderboards to Highlight Top Traders",
+      "link": "https://blockchain.news/news/binance-square-leaderboards-top-traders",
+      "pubDate": "Fri, 13 Nov 2026 02:25:10 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Binance Square introduces four leaderboards ranking traders by performance, enabling users to identify top performers and follow their trades. (Read M...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Tether Gold (XAU₮) Completes Big Four Audit with KPMG Approval",
+      "link": "https://blockchain.news/news/tether-gold-xaut-big-four-audit-kpmg",
+      "pubDate": "Fri, 13 Nov 2026 00:47:10 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "KPMG U.S. issues an unqualified audit opinion for Tether Gold (XAU₮), confirming full backing by $2.246 billion in allocated physical gold. (Read More...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
+      "link": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
+      "pubDate": "Thu, 12 Nov 2026 22:47:41 +0000",
+      "creator": "Nikhilesh De",
+      "contentSnippet": "U.S. President Donald Trump has named two potential commissioners each to the Securities and Exchange Commission and Commodity Futures Trading Commiss...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
+      "link": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 22:29:58 +0000",
+      "creator": "Andrew Fenton",
+      "contentSnippet": "North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks plans to add hundreds of Hong Kong-listed equities in...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
+      "link": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
+      "pubDate": "Thu, 12 Nov 2026 22:06:03 +0000",
+      "creator": "Staff",
+      "contentSnippet": "The FBI says the “FaceStealer” scheme uses prerecorded footage and AI deepfakes of trusted contacts to trick crypto workers into installing malware on...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
+      "link": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 22:05:01 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "The prediction market operator said the decision was mutual and followed 1789 Capital’s investment in rival Polymarket, denying political consideratio...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight",
+      "link": "https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052",
+      "pubDate": "Thu, 12 Nov 2026 21:44:30 +0000",
+      "creator": "Sarah Wynn",
+      "contentSnippet": "Louisiana is the latest state to take on prediction market platforms, joining a legal battle between states and the federal government.",
+      "source": "The Block"
+    },
+    {
+      "title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
+      "link": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 20:58:06 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "Industry groups argued in court filings that Illinois’ crypto tax, which applies even when a transaction yields no profit, could raise compliance cost...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
+      "link": "https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet",
+      "pubDate": "Thu, 12 Nov 2026 20:36:03 +0000",
+      "creator": "André Beganski",
+      "contentSnippet": "Trezor CTO Tomáš Sušánka explains the trade-offs of Bitcoin’s leading post-quantum signature scheme.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
+      "link": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 20:07:41 +0000",
+      "creator": "Jona Jaupi",
+      "contentSnippet": "The US securities clearinghouse plans to bring tokenized stocks to Solana in 2027, but analysts say restrictions could limit adoption.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Avalanche Owns Five Percent of Tokenized Stocks",
+      "link": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-12-avalanche-owns-five-percent-tokenized-stocks-437310",
+      "pubDate": "Thu, 12 Nov 2026 20:02:00 +0000",
+      "creator": "Ian Devendorf",
+      "contentSnippet": "One Venue, One Chain Over this past week, three U.S. tokenized stock venues picked three different blockchains to launch on. The WSJ reported Monday t...",
+      "source": "The Block"
+    },
+    {
+      "title": "NYDFS sets fresh advertising standards for crypto firms",
+      "link": "https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014",
+      "pubDate": "Thu, 12 Nov 2026 18:03:57 +0000",
+      "creator": "Sarah Wynn",
+      "contentSnippet": "NYDFS issued guidance outlining expectations for crypto firms to establish policies and procedures governing advertising and marketing.",
+      "source": "The Block"
+    },
+    {
+      "title": "'A Massive Mistake': Tech, AI and Crypto Founders React to Jensen Huang’s Nvidia Exit",
+      "link": "https://decrypt.co/383141/massive-mistake-tech-ai-crypto-founders-react-jensen-huang-nvidia-exit",
+      "pubDate": "Thu, 12 Nov 2026 17:14:42 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Nvidia’s founder is out, and tech and crypto leaders are fuming. Some fear for open-source AI, others question the board, while Elon Musk says he’d be...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says",
+      "link": "https://www.theblock.co/news/markets/2026-11-12-exodus-cost-reset-real-payments-offset-crypto-wallet-slowdown-stonex-438988",
+      "pubDate": "Thu, 12 Nov 2026 16:55:52 +0000",
+      "creator": "Kyle Baird",
+      "contentSnippet": "Payments generated $10.9 million in Q3, while Exodus cut staff and restarted U.S. payment card issuance.",
+      "source": "The Block"
+    },
+    {
+      "title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
+      "link": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
+      "pubDate": "Thu, 12 Nov 2026 16:45:52 +0000",
+      "creator": "Jesse Hamilton",
+      "contentSnippet": "The legal battle to head off the crypto transaction tax in Illinois has drawn up a hefty roster of industry opposition, and they're saying the tax won...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Tron, Tether and Chainalysis Form a New Crypto-Crime Task Force—Replacing One That Just Collapsed",
+      "link": "https://decrypt.co/383139/tron-tether-chainalysis-new-crypto-crime-task-force-replacing-trm",
+      "pubDate": "Thu, 12 Nov 2026 16:36:02 +0000",
+      "creator": "Staff",
+      "contentSnippet": "The Digital Crime Task Force aims to proactively trace illicit USDT on Tron and freeze funds before they move—just weeks after the trio’s near-identic...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Anchorage Digital’s Stablecoins Can Now Settle Payments on Visa’s Network",
+      "link": "https://decrypt.co/383098/anchorage-digital-stablecoins-settle-payments-visa-network",
+      "pubDate": "Thu, 12 Nov 2026 16:01:03 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Visa and eligible companies can now use Western Union’s USDPT—issued and custodied by the federally chartered Anchorage Digital Bank—to settle VisaNet...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 15:46:06 +0000",
+      "creator": "William Suberg",
+      "contentSnippet": "Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the resignation of Nvidia CEO Jensen Huang.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+      "link": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
+      "pubDate": "Thu, 12 Nov 2026 15:45:48 +0000",
+      "creator": "Krisztian Sandor",
+      "contentSnippet": "The securities infrastructure giant plans to bring tokenized stocks, ETFs and U.S. Treasuries to Solana as it expands next year's roadmap beyond Stell...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Unocoin ‘login suspension’ continues as exchange flags outgoing BitGo ETH transactions",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-12-unocoin-login-suspension-continues-as-exchange-flags-outgoing-bitgo-eth-transactions-438654",
+      "pubDate": "Thu, 12 Nov 2026 15:36:17 +0000",
+      "creator": "Brian Danga",
+      "contentSnippet": "Indian crypto exchange Unocoin flagged outgoing BitGo ether transactions as a multi-day login suspension continues.",
+      "source": "The Block"
+    },
+    {
+      "title": "Scottish Prisoner Orchestrates $2,655,284 Crypto Theft Bid from Cell",
+      "link": "https://dailyhodl.com/2026/11/12/scottish-prisoner-orchestrates-2655284-crypto-theft-bid-from-cell/",
+      "pubDate": "Thu, 12 Nov 2026 15:30:01 +0000",
+      "creator": "Agent",
+      "contentSnippet": "A convicted cybercriminal serving time in Scotland orchestrated an attempted £2 million cryptocurrency heist by directing accomplices to break into vi...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
+      "link": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
+      "pubDate": "Thu, 12 Nov 2026 14:45:00 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "OSL offers a yield on USDGO only to professional investors, but Jupiter said its market lets other holders earn onchain at rates set by borrower deman...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Securitize and Ethena’s $100 million BlackRock BUIDL liquidity facility goes live",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442",
+      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
+      "creator": "Jason Shubnell",
+      "contentSnippet": "Securitize & Ethena Labs launch a $100M liquidity facility letting eligible BUIDL holders swap into USDC and other stablecoins 24/7.",
+      "source": "The Block"
+    },
+    {
+      "title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente",
+      "link": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 13:31:59 +0000",
+      "creator": "Zoltan Vardai",
+      "contentSnippet": "Crypto hackers stole $8.7 billion so far in 2026, surpassing the projected annual onchain revenue generated across the industry, according to ARK’s re...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
+      "link": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 13:30:00 +0000",
+      "creator": "Christina Comben",
+      "contentSnippet": "L1 blockchains Zilliqa, Gnosis and Ronin join the Ethereum ecosystem as the costs of going it alone grow, and the security and liquidity advantages be...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Morning Minute: Tokenized Stock Venues Are Launching Without Big Tech’s Approval",
+      "link": "https://decrypt.co/383129/morning-minute-tokenized-stock-venues-are-launching-without-big-techs-approval",
+      "pubDate": "Thu, 12 Nov 2026 13:06:24 +0000",
+      "creator": "Tyler Warner",
+      "contentSnippet": "Plus, a second Jensen Huang affair is rocking markets while MSCI’s MSTR removal decision sends crypto lower.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "EU DeFi proposals could push users to riskier platforms, says Coinbase exec",
+      "link": "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 12:21:43 +0000",
+      "creator": "Helen Partz",
+      "contentSnippet": "Coinbase’s EU policy chief says applying suitability tests beyond crypto lending and borrowing could limit access and fragment liquidity.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin weakness erases September's bullish signal",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
+      "pubDate": "Thu, 12 Nov 2026 12:15:00 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Your day-ahead look for Nov. 12, 2026",
+      "source": "Coindesk"
+    },
+    {
+      "title": "India's Financial Crimes Agency Searches CoinDCX, Delta Exchange Over Offshore Trades",
+      "link": "https://decrypt.co/383126/indias-financial-crimes-agency-searches-coindcx-delta-exchange-over-offshore-trades",
+      "pubDate": "Thu, 12 Nov 2026 12:03:10 +0000",
+      "creator": "Agent",
+      "contentSnippet": "The Enforcement Directorate alleges the exchanges routed Indian users' trades to Binance, Bybit and others via a Costa Rican shell entity.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
+      "link": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
+      "pubDate": "Thu, 12 Nov 2026 11:43:41 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "Ethlabs wants quantum-resistant accounts targeted for next year, even if wallet holders still have to switch signing methods themselves.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022",
+      "link": "https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 11:38:50 +0000",
+      "creator": "William Suberg",
+      "contentSnippet": "Crypto markets were left with “less fuel” to rally after the market cap of major stablecoins saw its biggest 30-day drop in over four years.",
+      "source": "Cointelegraph"
+    },
     {
       "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
       "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
@@ -8,14 +432,6 @@
       "creator": "Oliver Knight",
       "contentSnippet": "Bitcoin slips 0.7% as Nvidia falls on reports its board may oust CEO Jensen Huang, while U.S. spot bitcoin ETFs lose another $299.9 million.",
       "source": "Coindesk"
-    },
-    {
-      "title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
-      "link": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 12 Nov 2026 11:00:00 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "The group will focus on illicit USDT activity on Tron and help law enforcement investigate suspicious transfers and freeze funds faster.",
-      "source": "Cointelegraph"
     },
     {
       "title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
@@ -34,44 +450,12 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Sygnum launches ETH Alpha Fund targeting 8% to 10% annual returns in ETH",
-      "link": "https://www.theblock.co/news/business/2026-11-12-sygnum-eth-alpha-fund-staking-yields-options-arbitrage-438386",
-      "pubDate": "Thu, 12 Nov 2026 10:30:00 +0000",
-      "creator": "Jason Shubnell",
-      "contentSnippet": "Sygnum's market-neutral fund pairs staking with options, arbitrage and carry strategies, targeting 8%–10% annual returns paid in ETH.",
-      "source": "The Block"
-    },
-    {
-      "title": "India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
-      "link": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades",
-      "pubDate": "Thu, 12 Nov 2026 10:10:48 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "The Enforcement Directorate alleged illegal cross-border flows that violated India's foreign exchange laws.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Live updates: Bitcoin ETFs bleed $300 million as AI stocks slide again",
-      "link": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
-      "pubDate": "Thu, 12 Nov 2026 09:15:04 +0000",
-      "creator": "James Van Straten",
-      "contentSnippet": "Nasdaq 100 futures retreat after Wednesday’s rally, while AI stocks slide, Strategy falls 4% and gold trades below $4,000.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
       "link": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million",
       "pubDate": "Thu, 12 Nov 2026 09:07:00 +0000",
       "creator": "Will Canny",
       "contentSnippet": "The sale follows the Winklevoss-founded crypto exchange’s retreat from several overseas markets as it restructures its business.",
       "source": "Coindesk"
-    },
-    {
-      "title": "Chainstack says AI-powered security breach exposed customer data; threat now contained",
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-12-chainstack-security-breach-438509",
-      "pubDate": "Thu, 12 Nov 2026 08:39:57 +0000",
-      "creator": "Timmy Shen",
-      "contentSnippet": "The team is treating node credentials as exposed and asking customers to rotate them and change passwords.",
-      "source": "The Block"
     },
     {
       "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
@@ -90,14 +474,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
-      "link": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
-      "pubDate": "Thu, 12 Nov 2026 07:00:37 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "MSCI’s decision to exclude Strategy from its equity indexes could hamper the company’s ability to buy more bitcoin, according to some analysts.",
-      "source": "Coindesk"
-    },
-    {
       "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
       "link": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Thu, 12 Nov 2026 05:54:48 +0000",
@@ -106,75 +482,11 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
-      "link": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
-      "pubDate": "Thu, 12 Nov 2026 05:22:31 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "The flaw was fixed in October 2025 and kept quiet until Tuesday. It came out alongside a high-severity bug that could stop a miner from producing bloc...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
-      "link": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
-      "pubDate": "Thu, 12 Nov 2026 05:18:43 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "Lending support among the ledger’s 35 validators has climbed from 19 to 22 since mid-October, and no public tracker shows which validators switched.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
       "link": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Thu, 12 Nov 2026 05:07:11 +0000",
       "creator": "Felix Ng",
       "contentSnippet": "In a July interview, Binance chief security officer Jimmy Su explained how fake coding assessments could compromise employee devices, a tactic later u...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
-      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430",
-      "pubDate": "Thu, 12 Nov 2026 04:55:00 +0000",
-      "creator": "Yogita Khatri",
-      "contentSnippet": "In today's newsletter, bitcoin 'ripe for a squeeze' as traders raise odds of sub-$70,000 Christmas; Bitmine reports $6.3 billion annual net loss as et...",
-      "source": "The Block"
-    },
-    {
-      "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
-      "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
-      "pubDate": "Thu, 12 Nov 2026 04:03:47 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "Nvidia perps are down 7% on Hyperliquid as traders react to reports that CEO Jensen Huang may be removed. Bitcoin continues to trade in a familiar pri...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards",
-      "link": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448",
-      "pubDate": "Thu, 12 Nov 2026 02:25:14 +0000",
-      "creator": "Danny Park",
-      "contentSnippet": "The digital asset treasury firm posted $3.4 million in quarterly revenue, compared with $697,000 in the same period last year.",
-      "source": "The Block"
-    },
-    {
-      "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
-      "link": "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 11 Nov 2026 23:18:44 +0000",
-      "creator": "Jona Jaupi",
-      "contentSnippet": "The self-custodial wallet will keep its API services running through Nov. 14. Sui’s DeFi total value locked has fallen more than 22% over the past mon...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "SEC enters fight over who regulates perpetual derivatives on stocks in the US",
-      "link": "https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427",
-      "pubDate": "Wed, 11 Nov 2026 22:06:47 +0000",
-      "creator": "Sarah Wynn",
-      "contentSnippet": "The SEC is stepping into the brewing fight over whether its sister agency should have approved perpetual derivatives on individual stocks.",
-      "source": "The Block"
-    },
-    {
-      "title": "Uncalled US House races could send more crypto allies to Congress",
-      "link": "https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 11 Nov 2026 22:05:17 +0000",
-      "creator": "Isabelle Castro",
-      "contentSnippet": "The remaining races feature pro-crypto candidates and others without a stated position, giving advocacy groups what they see as “an opportunity” for o...",
       "source": "Cointelegraph"
     },
     {
@@ -186,28 +498,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
-      "link": "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 11 Nov 2026 21:36:01 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "The potential sale of Laser Digital follows a fourth straight quarterly loss for Nomura’s European operations.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
-      "link": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 11 Nov 2026 20:43:19 +0000",
-      "creator": "Jona Jaupi",
-      "contentSnippet": "As US voters push back against new data centers, Bitcoin miners already expanding into AI could benefit from their existing facilities.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "DogeOS ‘very, very close’ to launching DeFi features, app layer for Dogecoin: CEO",
-      "link": "https://www.theblock.co/news/defi/2026-11-11-dogeos-very-very-close-launching-defi-features-app-layer-dogecoin-ceo-438392",
-      "pubDate": "Wed, 11 Nov 2026 20:32:19 +0000",
-      "creator": "Kyle Baird",
-      "contentSnippet": "DogeOS aims to give DOGE holders more ways to use the token through games, apps and financial services.",
-      "source": "The Block"
+      "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
+      "link": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
+      "pubDate": "Wed, 11 Nov 2026 21:16:03 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Recent buyers are moving billions in Bitcoin to exchanges below their purchase prices, while Binance sees sharp inflows from recently moved coins.",
+      "source": "Decrypt"
     },
     {
       "title": "Tether's Tiny AI Agent Beats Models 2.5 Times Its Size at Controlling Your Phone",
@@ -226,28 +522,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
-      "link": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 11 Nov 2026 18:30:43 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "The Nov. 23 debut puts a new SEC exemption to the test as Nasdaq pursues its own tokenized stock plans after warning that trading across platforms cou...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch",
       "link": "https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history",
       "pubDate": "Wed, 11 Nov 2026 17:56:02 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Bitcoin is heading toward its first consecutive losing years, breaking an 18-year pattern. But there's some nuance in the data.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Stablecoin supply drops $14.2 billion in largest contraction since 2022 bear market",
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
-      "pubDate": "Wed, 11 Nov 2026 17:23:10 +0000",
-      "creator": "Kyle Baird",
-      "contentSnippet": "USDT and USDC supply fell nearly $11 billion over the past month, while gold-backed tokens held steady.",
-      "source": "The Block"
     },
     {
       "title": "What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana",
@@ -258,14 +538,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Challenges in Banks Verifying Onchain Records Independently",
-      "link": "https://blockchain.news/news/banks-verifying-onchain-records",
-      "pubDate": "Wed, 11 Nov 2026 17:01:29 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Fireblocks highlights why banks struggle to certify onchain records, citing regulatory, technical, and audit challenges in digital asset operations. (...",
-      "source": "Blockchain.News"
-    },
-    {
       "title": "A High-Severity Bug Could Have Stalled Bitcoin Mining—Bitcoin Core Has a Fix",
       "link": "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining",
       "pubDate": "Wed, 11 Nov 2026 16:58:57 +0000",
@@ -274,76 +546,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Avalanche Foundation Funds Six Research Teams on Blockchain Economics",
-      "link": "https://blockchain.news/news/avalanche-foundation-research-grants",
-      "pubDate": "Wed, 11 Nov 2026 16:33:27 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "The Avalanche Foundation selects six research teams to tackle cryptoasset pricing and validator economics, advancing blockchain research. (Read More)",
-      "source": "Blockchain.News"
-    },
-    {
-      "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
-      "link": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 11 Nov 2026 16:26:00 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "OKX-ICE Tokenized Stock Venue Sets Launch, Turning to Crypto Companies After Big Tech Opts Out",
-      "link": "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out",
-      "pubDate": "Wed, 11 Nov 2026 16:14:01 +0000",
-      "creator": "Staff",
-      "contentSnippet": "OKXICE will open its tokenized securities venue Nov. 23 with more than 70 assets, led by crypto companies like Coinbase, Circle, Robinhood and Strateg...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Binance Blockchain Week Bangkok 2026 Announces First Speakers",
-      "link": "https://blockchain.news/news/binance-blockchain-week-bangkok-2026-speakers",
-      "pubDate": "Wed, 11 Nov 2026 16:04:17 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Binance Blockchain Week Bangkok 2026 unveils its first speakers, highlighting the convergence of traditional finance and digital assets under the them...",
-      "source": "Blockchain.News"
-    },
-    {
-      "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending",
-      "pubDate": "Wed, 11 Nov 2026 16:00:45 +0000",
-      "creator": "Francisco Rodrigues",
-      "contentSnippet": "Institutions weighing DeFi lending tend to ask which markets are safest. Mike Hathaway and Joseph Quintilian of Ajna argue the better question is who ...",
-      "source": "Coindesk"
-    },
-    {
       "title": "Decrypt Becomes First News Publisher to Offer Perps Trading, Powered by Solana's Phoenix",
       "link": "https://decrypt.co/382992/decrypt-becomes-first-news-publisher-to-offer-perps-trading-powered-by-solanas-phoenix",
       "pubDate": "Wed, 11 Nov 2026 14:02:55 +0000",
       "creator": "Staff",
       "contentSnippet": "The integration brings perpetual futures trading into Decrypt, so readers can trade crypto, stocks and commodities without leaving the news.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
-      "link": "https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 11 Nov 2026 13:30:00 +0000",
-      "creator": "Christina Comben",
-      "contentSnippet": "Ueno’s collapse exposed the fragility of digital banking in Paraguay, as customers scrambled for access to their money and stablecoins offered a lifel...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions",
-      "link": "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 11 Nov 2026 13:26:18 +0000",
-      "creator": "Korbinian Kettnaker",
-      "contentSnippet": "OP_CCV embeds contract state directly into Taproot output keys and enforces valid state transitions onchain. This makes it possible to achieve statefu...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about",
-      "link": "https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about",
-      "pubDate": "Wed, 11 Nov 2026 12:57:36 +0000",
-      "creator": "Ian Allison",
-      "contentSnippet": "The firm’s flagship Spiko Amundi Overnight Swap Fund (SAFO) held $2.39 billion in assets under management as of late last month.",
-      "source": "Coindesk"
     },
     {
       "title": "Morning Minute: What Anthropic’s $1.4 Trillion IPO Means for Crypto",
@@ -362,116 +570,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Global Banks Goldman Sachs, Citigroup and More Commit $270,000,000 to Joint Stablecoin Venture",
-      "link": "https://dailyhodl.com/2026/11/11/global-banks-goldman-sachs-citigroup-and-more-commit-270000000-to-joint-stablecoin-venture/",
-      "pubDate": "Wed, 11 Nov 2026 12:45:43 +0000",
-      "creator": "Agent",
-      "contentSnippet": "A consortium of major financial institutions is backing a joint dollar-denominated stablecoin with roughly $270 million in funding to cover five years...",
-      "source": "Daily Hodl"
-    },
-    {
-      "title": "FSB urges Turkey to tighten crypto oversight, set stablecoin rules",
-      "link": "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 11 Nov 2026 12:44:10 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "The Financial Stability Board cited progress on crypto licensing and urged stronger enforcement and cooperation with foreign regulators.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Zcash falls below $1,000 for first time since September",
-      "link": "https://cointelegraph.com/markets/zcash-falls-1k-grayscales-1m-ecosystem-commitment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 11 Nov 2026 12:31:44 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "Zcash fell nearly 15% amid a broader sell-off in privacy coins, a day after Grayscale pledged $1 million to ecosystem initiatives.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
-      "link": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
-      "pubDate": "Wed, 11 Nov 2026 12:21:24 +0000",
-      "creator": "James Van Straten",
-      "contentSnippet": "The DRAM ETF jumps 8% and semiconductor stocks gain more than 4%, while bitcoin continues to test its 200-day moving average.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
-      "pubDate": "Wed, 11 Nov 2026 12:19:30 +0000",
-      "creator": "Oliver Knight",
-      "contentSnippet": "Your day-ahead look for Nov. 11, 2026",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
-      "link": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 11 Nov 2026 11:56:23 +0000",
-      "creator": "Helen Partz",
-      "contentSnippet": "Barclays reported a $187 million stake as of Sept. 30, while Citigroup disclosed a new $119 million position in Fidelity’s Bitcoin ETF.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
-      "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 11 Nov 2026 11:05:26 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Bitcoin fell to an 11-week low of $72,670 after slipping below short-term holders’ average cost basis of about $75,700, according to CryptoQuant.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Avalanche Won Over the NYSE. Now It Has to ‘Capture Value’ for AVAX",
       "link": "https://decrypt.co/382988/avalanche-won-over-the-nyse-now-it-has-to-capture-value-for-avax",
       "pubDate": "Wed, 11 Nov 2026 10:53:11 +0000",
       "creator": "Ryan Gladwin",
       "contentSnippet": "The New York Stock Exchange will use Avalanche infrastructure, but experts say that won't necessarily boost AVAX's price.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
-      "link": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
-      "pubDate": "Wed, 11 Nov 2026 10:45:49 +0000",
-      "creator": "James Van Straten",
-      "contentSnippet": "CoreWeave’s revenue surge lifted AI infrastructure stocks and Nasdaq futures, while bitcoin was little changed over 24 hours.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Prisoner Jailed for 8 Years Over $2.7M Crypto Theft Plot Run From His Cell",
-      "link": "https://decrypt.co/382984/prisoner-jailed-for-8-years-over-2-7m-crypto-theft-plot-run-from-his-cell",
-      "pubDate": "Wed, 11 Nov 2026 10:20:53 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Robert Barr planned to have accomplices force a crypto investor to install remote-access software so he could drain the wallet from prison.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Bitget Wallet reports sevenfold jump in crypto phishing risk alerts",
-      "link": "https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 11 Nov 2026 10:00:00 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "The wallet flagged about 37,000 signing requests a week for phishing in Q3 and said better monitoring likely contributed to the increase.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "SEC enforcement actions fall 24%, crypto cases in spotlight",
-      "link": "https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 11 Nov 2026 08:43:30 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "The SEC filed 348 actions in fiscal 2026, down from 456 a year earlier. Cases included alleged Bitcoin mining fraud and an FTX audit settlement.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
-      "link": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 11 Nov 2026 05:52:14 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "Initia said an attacker exploited compromised cloud credentials to move $3.27 million in crypto assets, with about $2.16 million remaining frozen on i...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Across Protocol restores website after hackers hijack domain",
-      "link": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 11 Nov 2026 04:42:30 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "The cross-chain bridge said a social engineering attack targeting domain registrar Namecheap allowed hackers to redirect users to a phishing site.",
-      "source": "Cointelegraph"
     },
     {
       "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
@@ -487,110 +591,6 @@
       "pubDate": "Tue, 10 Nov 2026 21:36:03 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Truth Social’s parent booked $409.7 million in quarterly income largely from crypto investments, even as its stock remained more than 94% below its Ma...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
-      "link": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
-      "pubDate": "Tue, 10 Nov 2026 20:36:33 +0000",
-      "creator": "Jesse Hamilton",
-      "contentSnippet": "U.S. Senator Elizabeth Warren argued the administration is not doing enough about staff insider trading, questioning whether CFTC enforcement action w...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
-      "link": "https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents",
-      "pubDate": "Tue, 10 Nov 2026 20:16:03 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "An SGLang flaw let an attacker reach internal systems and potentially view confidential AI requests, exposing the limits of hardware-backed privacy pr...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
-      "link": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
-      "pubDate": "Tue, 10 Nov 2026 19:16:02 +0000",
-      "creator": "Staff",
-      "contentSnippet": "Grayscale plans to direct $1 million from its Zcash ETF fees to ecosystem nonprofits and launched a national ad campaign, as ZEC fell more than 11%.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
-      "link": "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
-      "pubDate": "Tue, 10 Nov 2026 17:07:22 +0000",
-      "creator": "Jesse Hamilton",
-      "contentSnippet": "Twice now, crypto firms have found themselves on the side of the U.S. Commodity Futures Trading Commission in holding that perpetual futures aren't sw...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
-      "link": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
-      "pubDate": "Tue, 10 Nov 2026 16:27:57 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Bitcoin fell below $74,000 after October inflation beat forecasts, increasing pressure on the Federal Reserve to raise rates again at its December mee...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
-      "link": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
-      "pubDate": "Tue, 10 Nov 2026 15:51:56 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "Kimber Digital Securities secured SEC and Finra approvals, a regulatory milestone paving the way for the delivery of legally binding claims, dividends...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Charles Schwab Adds Solana, Avalanche and Chainlink to Crypto Trading Platform",
-      "link": "https://dailyhodl.com/2026/11/10/charles-schwab-adds-solana-avalanche-and-chainlink-to-crypto-trading-platform/",
-      "pubDate": "Tue, 10 Nov 2026 15:30:41 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Charles Schwab is expanding its Schwab Crypto platform to include Solana, Avalanche and Chainlink trading for eligible U.S. clients, bringing the tota...",
-      "source": "Daily Hodl"
-    },
-    {
-      "title": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
-      "link": "https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio",
-      "pubDate": "Tue, 10 Nov 2026 15:01:02 +0000",
-      "creator": "Agent",
-      "contentSnippet": "The trading platform, which says it has routed more than $1.3 trillion in trades, is launching four products ahead of Solana Breakpoint.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Moody’s Taps Chainlink to Send Credit Ratings Across Multiple Blockchains",
-      "link": "https://decrypt.co/382888/moodys-chainlink-credit-ratings-across-multiple-blockchains",
-      "pubDate": "Tue, 10 Nov 2026 14:01:02 +0000",
-      "creator": "Staff",
-      "contentSnippet": "The testnet pilot used Chainlink’s CCIP to distribute Moody’s ratings simultaneously across permissioned and permissionless blockchains, while preserv...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Morning Minute: Vitalik Recasts ETH as a Store of Value",
-      "link": "https://decrypt.co/382931/morning-minute-vitalik-recasts-eth-as-a-store-of-value",
-      "pubDate": "Tue, 10 Nov 2026 13:24:51 +0000",
-      "creator": "Tyler Warner",
-      "contentSnippet": "It’s a big shift for Ethereum from the “ultrasound money” days. But can ETH compete as a store-of-value play?",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys",
-      "link": "https://decrypt.co/382928/binance-warns-of-apple-ios-flaw-that-could-expose-iphone-users-private-keys",
-      "pubDate": "Tue, 10 Nov 2026 12:45:34 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Apple has not publicly confirmed the \"worse_query\" bug, which a researcher published days before its latest iOS security update.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Binance Halts MEXC Transfers as FinCEN Cuts Exchange Off From US Financial System",
-      "link": "https://decrypt.co/382926/binance-halts-mexc-transfers-as-fincen-cuts-exchange-off-from-us-financial-system",
-      "pubDate": "Tue, 10 Nov 2026 12:13:27 +0000",
-      "creator": "Agent",
-      "contentSnippet": "The exchange will reject withdrawals to MEXC and hold deposits from it for review, after FinCEN tied it to $16 billion in suspicious flows.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "'Tough Questions' Ahead: Warren Targets Prediction Markets, Trump Crypto as Banking Chair",
-      "link": "https://decrypt.co/382910/tough-questions-ahead-warren-targets-prediction-markets-trump-crypto-as-banking-chair",
-      "pubDate": "Tue, 10 Nov 2026 10:41:06 +0000",
-      "creator": "Agent",
-      "contentSnippet": "An aide said Trump family crypto businesses should \"preserve their documents\" as Warren prepares to take over the Senate Banking Committee.",
       "source": "Decrypt"
     }
   ]
