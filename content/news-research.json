@@ -172797,9 +172797,9 @@
         "Unchained"
       ],
       "id": "f5e4b30f1a286d093b57",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-15T15:45:48.000Z",
       "lastSeenAt": "2026-11-13T11:28:25.584Z",
       "articleSlug": "dtccsolana",
@@ -172825,7 +172825,21 @@
         "updatedAt": "2026-11-13T11:36:38.422Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read the DTCC Nov 12 press release and the Decrypt report; quotes, Oct 28 DTS launch, second-half-2027 window, SEC no-action scope and 14T custody figures match. Fixed banned-word quote fragment, corrected Formation attribution, word count now above 600. Quality, formatting, image and duplicate audits pass; all links return 200.",
+      "sourceChecks": [
+        {
+          "url": "https://www.dtcc.com/press-releases/2026/dtcc-tokenization-service-to-connect-with-solana",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/383132/dtcc-to-bring-tokenized-stocks-and-treasuries-to-solana-in-2027",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-13T12:15:14.350Z",
+      "lastReviewedDay": "2026-11-13"
     },
     "f8c7267b7de95e35b4f9": {
       "source": "Unchained",
@@ -328015,6 +328029,23 @@
           ],
           "reviewedAt": "2026-11-13T12:08:36.462Z",
           "articleSlug": "novigrule"
+        },
+        "f5e4b30f1a286d093b57": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read the DTCC Nov 12 press release and the Decrypt report; quotes, Oct 28 DTS launch, second-half-2027 window, SEC no-action scope and 14T custody figures match. Fixed banned-word quote fragment, corrected Formation attribution, word count now above 600. Quality, formatting, image and duplicate audits pass; all links return 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.dtcc.com/press-releases/2026/dtcc-tokenization-service-to-connect-with-solana",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383132/dtcc-to-bring-tokenized-stocks-and-treasuries-to-solana-in-2027",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-13T12:15:14.350Z",
+          "articleSlug": "dtccsolana"
         }
       },
       "baselineSlugs": [
