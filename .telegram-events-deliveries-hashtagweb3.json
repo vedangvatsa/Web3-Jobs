@@ -48,5 +48,53 @@
     "slotKey": "2026-11-13:afternoon",
     "messageId": 156205,
     "sentAt": "2026-11-13T11:49:08.300Z"
+  },
+  "d6f5db66-d92b-4de6-9608-e64dfa11d7f2": {
+    "status": "reserved",
+    "reservedAt": "2026-11-13T19:32:13.247Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-sGpLiocp0Wsk3lg",
+        "slug": "ia-e-blockchain-tecnologias-que-estao-transformando-o-futuro-e",
+        "name": "IA e Blockchain: Tecnologias que estão transformando o futuro e criando novas oportunidades",
+        "startDate": "2026-11-13T22:00:00.000Z",
+        "keys": [
+          "luma-crypto-sgpliocp0wsk3lg",
+          "ia-e-block",
+          "page:ia-e-blockchain-tecnologias-que-estao-transformando-o-futuro-e:2026-11-13",
+          "luma:evt-sgpliocp0wsk3lg",
+          "luma-url:/rbus03as",
+          "event:iaeblockchaintecnologiasqueestãotransformandoofuturoecriandonovasoportunidades:2026-11-13:rio de janeiro"
+        ]
+      },
+      {
+        "id": "premier-ibt-delhi-2026",
+        "slug": "ibt-delhi",
+        "name": "India Blockchain & AI Tour 2026 - Delhi",
+        "startDate": "2026-11-14T10:00:00+05:30",
+        "keys": [
+          "premier-ibt-delhi-2026",
+          "page:ibt-delhi:2026-11-14",
+          "url:indiablockchaintour.com/2026-nodes/delhi/ticket:2026-11-14",
+          "event:indiablockchainaitour2026delhi:2026-11-14:delhi ncr"
+        ]
+      },
+      {
+        "id": "w3v-445-crew-x-solana-breakpoint--community-run",
+        "slug": "445-crew-x-solana-breakpoint-community-run",
+        "name": "445 CREW x Solana Breakpoint | Community Run",
+        "startDate": "2026-11-14T09:15:00.000Z",
+        "keys": [
+          "w3v-445-crew-x-solana-breakpoint--community-run",
+          "page:445-crew-x-solana-breakpoint-community-run:2026-11-14",
+          "luma:evt-m82atau2uejirti",
+          "luma-url:/n6r4k7vb",
+          "event:445crewxsolanabreakpointcommunityrun:2026-11-14:london"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-13:evening"
   }
 }
