@@ -172070,9 +172070,9 @@
         "The Defiant"
       ],
       "id": "7cef1b3e1714efed0fac",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-15T22:06:03.000Z",
       "lastSeenAt": "2026-11-13T11:28:25.584Z",
       "articleSlug": "facestealer",
@@ -172094,7 +172094,29 @@
         "updatedAt": "2026-11-13T12:28:23.504Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read the DOJ press release and Decrypt on the FaceStealer deepfake scheme ($400M over 18 months), the 900-video seizure, and the $1.2B Binance court authorization; The Defiant returned 403.",
+      "sourceChecks": [
+        {
+          "url": "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/security/doj-disrupts-north-korean-fake-call-crypto-theft-scheme",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-13T12:34:23.463Z",
+      "lastReviewedDay": "2026-11-13"
     },
     "8c347b65c9a2a84f1a47": {
       "source": "The Block",
@@ -172239,9 +172261,9 @@
         "Unchained"
       ],
       "id": "eea39aae24cdd6ae0bc9",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-15T16:45:52.000Z",
       "lastSeenAt": "2026-11-13T11:28:25.584Z",
       "articleSlug": "defiamicus",
@@ -172263,7 +172285,25 @@
         "updatedAt": "2026-11-13T12:29:05.368Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Unchained and Cointelegraph on the Nov. 6-11 DOJ, Chamber/SIFMA and DeFi amicus filings against Illinois' 0.2% digital asset tax; CoinDesk returned 429.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/18-crypto-firms-seek-to-join-court-fight-over-illinois-0-2-crypto-tax/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-13T12:34:23.463Z",
+      "lastReviewedDay": "2026-11-13"
     },
     "3616b7e6c0c27a0b8ade": {
       "source": "Cointelegraph",
@@ -174236,9 +174276,9 @@
         "Bankless"
       ],
       "id": "549f3d77e33c6ffd5976",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-15T21:07:49.000Z",
       "lastSeenAt": "2026-11-13T11:28:25.584Z",
       "articleSlug": "kalshitrump",
@@ -174260,7 +174300,25 @@
         "updatedAt": "2026-11-13T12:28:12.449Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Cointelegraph and Bankless on Kalshi ending Trump Jr.'s advisory role after 1789 Capital's Polymarket investment; CoinDesk returned 429 on WebFetch and curl.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.bankless.com/read/news/kalshi-ends-donald-trump-jr-advisor-role",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-13T12:34:23.463Z",
+      "lastReviewedDay": "2026-11-13"
     },
     "0ced036023dcc0182579": {
       "source": "Cointelegraph",
@@ -328398,6 +328456,73 @@
             "Find an independent report or Nomura statement on a Laser Digital sale beyond the Bloomberg origin, or open Bloomberg's original article text",
             "Check whether Nomura or Laser Digital issued an official comment confirming or denying a sale process"
           ]
+        },
+        "7cef1b3e1714efed0fac": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the DOJ press release and Decrypt on the FaceStealer deepfake scheme ($400M over 18 months), the 900-video seizure, and the $1.2B Binance court authorization; The Defiant returned 403.",
+          "sourceChecks": [
+            {
+              "url": "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/security/doj-disrupts-north-korean-fake-call-crypto-theft-scheme",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-13T12:34:23.463Z",
+          "articleSlug": "facestealer"
+        },
+        "eea39aae24cdd6ae0bc9": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Unchained and Cointelegraph on the Nov. 6-11 DOJ, Chamber/SIFMA and DeFi amicus filings against Illinois' 0.2% digital asset tax; CoinDesk returned 429.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/18-crypto-firms-seek-to-join-court-fight-over-illinois-0-2-crypto-tax/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-13T12:34:23.463Z",
+          "articleSlug": "defiamicus"
+        },
+        "549f3d77e33c6ffd5976": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Cointelegraph and Bankless on Kalshi ending Trump Jr.'s advisory role after 1789 Capital's Polymarket investment; CoinDesk returned 429 on WebFetch and curl.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bankless.com/read/news/kalshi-ends-donald-trump-jr-advisor-role",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-13T12:34:23.463Z",
+          "articleSlug": "kalshitrump"
         }
       },
       "baselineSlugs": [
