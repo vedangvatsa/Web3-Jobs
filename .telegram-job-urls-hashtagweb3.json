@@ -1,4 +1,12 @@
 {
+  "8258529": {
+    "slugs": [
+      "eng194"
+    ],
+    "lastSlug": "eng194",
+    "lastUrl": "https://hashtagweb3.com/eng194",
+    "updatedAt": "2026-11-13T19:32:40.534Z"
+  },
   "8311620": {
     "slugs": [
       "kdds"
@@ -6,6 +14,22 @@
     "lastSlug": "kdds",
     "lastUrl": "https://hashtagweb3.com/kdds",
     "updatedAt": "2026-11-13T11:49:51.532Z"
+  },
+  "8352148": {
+    "slugs": [
+      "mgr245"
+    ],
+    "lastSlug": "mgr245",
+    "lastUrl": "https://hashtagweb3.com/mgr245",
+    "updatedAt": "2026-11-13T19:32:40.534Z"
+  },
+  "8372949": {
+    "slugs": [
+      "pm392"
+    ],
+    "lastSlug": "pm392",
+    "lastUrl": "https://hashtagweb3.com/pm392",
+    "updatedAt": "2026-11-13T19:32:40.534Z"
   },
   "altitude-development-partners-quant-researcher-strategy-developer": {
     "slugs": [
@@ -38,5 +62,21 @@
     "lastSlug": "mkt120",
     "lastUrl": "https://hashtagweb3.com/mkt120",
     "updatedAt": "2026-11-13T11:49:51.532Z"
+  },
+  "432d1bfb-1d78-4d01-b2a7-864684314e2f": {
+    "slugs": [
+      "be30"
+    ],
+    "lastSlug": "be30",
+    "lastUrl": "https://hashtagweb3.com/be30",
+    "updatedAt": "2026-11-13T19:32:40.534Z"
+  },
+  "26855617-1697-4fd2-8c33-a5fb11fc4c77": {
+    "slugs": [
+      "be120"
+    ],
+    "lastSlug": "be120",
+    "lastUrl": "https://hashtagweb3.com/be120",
+    "updatedAt": "2026-11-13T19:32:40.534Z"
   }
 }
