@@ -172029,18 +172029,18 @@
         "id": "eeb0a1c4112118b24f1a",
         "day": "2026-11-13",
         "articleSlug": "secnoms",
-        "note": "Read Cointelegraph and White House nominations list for SEC/CFTC picks including Peirce successor Steven Levine; BeInCrypto returned 403. Draft not started.",
+        "note": "Round 6: rechecked White House nominations list (Nov 12) and Cointelegraph report; restored draft and hero image exist but audit shows 339 words, under the 600 minimum. Needs expansion with source-backed detail, then re-audit before ready.",
         "sourceChecks": [
-          {
-            "url": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks",
-            "outcome": "read"
-          },
           {
             "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6",
             "outcome": "read"
+          },
+          {
+            "url": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks",
+            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-13T12:28:20.090Z",
+        "updatedAt": "2026-11-13T12:42:27.720Z",
         "approved": false,
         "mustReview": true
       }
