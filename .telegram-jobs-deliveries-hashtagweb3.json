@@ -119,5 +119,122 @@
     "slotKey": "2026-11-13:afternoon",
     "messageId": 156207,
     "sentAt": "2026-11-13T11:49:51.532Z"
+  },
+  "236e6892-9ca5-4c51-9d2e-16d3aca48c2d": {
+    "status": "reserved",
+    "reservedAt": "2026-11-13T19:32:37.639Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8352148",
+          "title": "Customer Success Manager",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8352148",
+          "date": "2026-11-11T00:42:55-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Sydney",
+          "department": "1340 Customer Success Management",
+          "active": true,
+          "slug": "mgr245",
+          "dateVerified": true
+        },
+        "key": "8352148",
+        "slug": "mgr245",
+        "url": "https://hashtagweb3.com/mgr245?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Customer Success Manager"
+      },
+      {
+        "snapshot": {
+          "id": "432d1bfb-1d78-4d01-b2a7-864684314e2f",
+          "title": "Senior Backend Engineer - Low Latency",
+          "company": "Bitvavo",
+          "link": "https://jobs.ashbyhq.com/bitvavo/432d1bfb-1d78-4d01-b2a7-864684314e2f",
+          "date": "2026-10-23T15:26:48.008+00:00",
+          "source": "Ashby: Bitvavo [bitvavo]",
+          "location": "Headquarters",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "be30"
+        },
+        "key": "432d1bfb-1d78-4d01-b2a7-864684314e2f",
+        "slug": "be30",
+        "url": "https://hashtagweb3.com/be30?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitvavo",
+        "title": "Senior Backend Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8372949",
+          "title": "Product Marketing Manager",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8372949?gh_jid=8372949",
+          "date": "2026-11-11T20:37:41-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "New York, NY, United States",
+          "department": "Marketing",
+          "active": true,
+          "salary": "$148k – $180k/yr",
+          "slug": "pm392",
+          "dateVerified": true
+        },
+        "key": "8372949",
+        "slug": "pm392",
+        "url": "https://hashtagweb3.com/pm392?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Product Marketing Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8258529",
+          "title": "AI Engineering Manager",
+          "company": "Flow Traders",
+          "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8258529",
+          "date": "2026-10-16T09:02:17-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Flow Traders [flowtraders]",
+          "location": "Amsterdam",
+          "department": "Data",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng194"
+        },
+        "key": "8258529",
+        "slug": "eng194",
+        "url": "https://hashtagweb3.com/eng194?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Flow Traders",
+        "title": "AI Engineering Manager"
+      },
+      {
+        "snapshot": {
+          "id": "26855617-1697-4fd2-8c33-a5fb11fc4c77",
+          "title": "Senior Engineer, Backend, Bill Pay",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/26855617-1697-4fd2-8c33-a5fb11fc4c77",
+          "date": "2026-11-10T20:13:53.266+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "be120"
+        },
+        "key": "26855617-1697-4fd2-8c33-a5fb11fc4c77",
+        "slug": "be120",
+        "url": "https://hashtagweb3.com/be120?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Senior Engineer"
+      }
+    ],
+    "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/mgr245?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Success Manager</a>\n- Bitvavo is hiring <a href=\"https://hashtagweb3.com/be30?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Backend Engineer - Low Latency</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/pm392?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Marketing Manager</a>\n- Flow Traders is hiring <a href=\"https://hashtagweb3.com/eng194?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Engineering Manager</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/be120?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Engineer, Backend, Bill Pay</a>",
+    "slotKey": "2026-11-13:evening"
   }
 }
