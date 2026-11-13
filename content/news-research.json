@@ -164414,9 +164414,9 @@
         "Cointelegraph"
       ],
       "id": "99e5739f714066611268",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-13T15:51:56.000Z",
       "lastSeenAt": "2026-11-11T08:29:40.487Z",
       "articleSlug": "kimberdsp",
@@ -164438,7 +164438,25 @@
         "updatedAt": "2026-11-13T12:28:58.451Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "source-blocked",
+      "note": "Read Cointelegraph's report on Kimber Digital Securities registering as an SEC broker-dealer and joining FINRA as a Plume affiliate. CoinDesk returned HTTP 429 again on retry, so only one independent outlet has been opened.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-13T12:42:13.532Z",
+      "retrySearches": [
+        "Find independent reporting or a primary Kimber Digital Securities or Plume press release confirming the SEC broker-dealer registration and FINRA membership"
+      ],
+      "lastReviewedDay": "2026-11-13",
+      "nextReviewDate": "2026-11-14"
     },
     "6cf14e8bc3cb0acabf89": {
       "source": "Unchained",
@@ -168723,11 +168741,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "7a0f7611558e21b2cdbc",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-14T22:27:58.000Z",
-      "lastSeenAt": "2026-11-13T11:28:25.584Z"
+      "lastSeenAt": "2026-11-13T11:28:25.584Z",
+      "reason": "out-of-scope",
+      "note": "Read the Crypto Briefing piece: it is a Nvidia share-price story built on NYT CEO allegations and framed as prediction-market price analysis, with no Web3 or crypto event. Not a Hashtag Web3 story.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/nvidia-shares-fall-4-postmarket-amid-ceo-allegations-nyt/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-13T12:42:13.532Z",
+      "lastReviewedDay": "2026-11-13"
     },
     "627627eff09dfa3f5f56": {
       "source": "The Block",
@@ -168951,11 +168979,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "35e98476d4100d3ce42c",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-14T10:00:00.000Z",
-      "lastSeenAt": "2026-11-13T11:28:25.584Z"
+      "lastSeenAt": "2026-11-13T11:28:25.584Z",
+      "reason": "source-blocked",
+      "note": "Read Cointelegraph's interview with Bitget Wallet COO Alvin Kan on the 7.4-fold Q3 rise in flagged signing requests (37,000/week, up from 5,000). The candidate's second URL is an unrelated Crypto Briefing liquidation story, so no independent corroboration exists yet.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/crypto-liquidation-event-longs-billions/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-13T12:42:13.532Z",
+      "retrySearches": [
+        "Find independent reporting corroborating Bitget Wallet's Q3 2026 phishing risk alert statistics beyond Cointelegraph"
+      ],
+      "lastReviewedDay": "2026-11-13",
+      "nextReviewDate": "2026-11-14"
     },
     "7662060668a3ce78d202": {
       "source": "Cointelegraph",
@@ -172439,11 +172485,21 @@
         "Crypto Briefing"
       ],
       "id": "3a11212ad1f1ba573439",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-16T01:26:27.000Z",
-      "lastSeenAt": "2026-11-13T11:28:25.584Z"
+      "lastSeenAt": "2026-11-13T11:28:25.584Z",
+      "reason": "out-of-scope",
+      "note": "Read the Cointelegraph report: alleged extramarital affairs at Nvidia's former CEO, sourced to Reuters people-familiar reporting, with no Web3 or crypto angle. Out of scope for this site.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-13T12:42:13.532Z",
+      "lastReviewedDay": "2026-11-13"
     },
     "4ccb11aa5e40a8336eb7": {
       "source": "Bitcoin Magazine",
@@ -328523,6 +328579,68 @@
           ],
           "reviewedAt": "2026-11-13T12:34:23.463Z",
           "articleSlug": "kalshitrump"
+        },
+        "7a0f7611558e21b2cdbc": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Crypto Briefing piece: it is a Nvidia share-price story built on NYT CEO allegations and framed as prediction-market price analysis, with no Web3 or crypto event. Not a Hashtag Web3 story.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/nvidia-shares-fall-4-postmarket-amid-ceo-allegations-nyt/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-13T12:42:13.532Z"
+        },
+        "3a11212ad1f1ba573439": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Cointelegraph report: alleged extramarital affairs at Nvidia's former CEO, sourced to Reuters people-familiar reporting, with no Web3 or crypto angle. Out of scope for this site.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-13T12:42:13.532Z"
+        },
+        "35e98476d4100d3ce42c": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Cointelegraph's interview with Bitget Wallet COO Alvin Kan on the 7.4-fold Q3 rise in flagged signing requests (37,000/week, up from 5,000). The candidate's second URL is an unrelated Crypto Briefing liquidation story, so no independent corroboration exists yet.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/crypto-liquidation-event-longs-billions/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-13T12:42:13.532Z",
+          "retrySearches": [
+            "Find independent reporting corroborating Bitget Wallet's Q3 2026 phishing risk alert statistics beyond Cointelegraph"
+          ]
+        },
+        "99e5739f714066611268": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Cointelegraph's report on Kimber Digital Securities registering as an SEC broker-dealer and joining FINRA as a Plume affiliate. CoinDesk returned HTTP 429 again on retry, so only one independent outlet has been opened.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-13T12:42:13.532Z",
+          "retrySearches": [
+            "Find independent reporting or a primary Kimber Digital Securities or Plume press release confirming the SEC broker-dealer registration and FINRA membership"
+          ]
         }
       },
       "baselineSlugs": [
