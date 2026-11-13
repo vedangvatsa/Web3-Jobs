@@ -168358,7 +168358,27 @@
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
       "attempts": 0,
       "expiresAt": "2026-11-14T22:06:47.000Z",
-      "lastSeenAt": "2026-11-12T01:37:00.023Z"
+      "lastSeenAt": "2026-11-12T01:37:00.023Z",
+      "articleSlug": "secperp",
+      "draftProgress": {
+        "id": "6388a82f3098fba44c84",
+        "day": "2026-11-13",
+        "articleSlug": "secperp",
+        "note": "Read Crypto Briefing and Bankless on SEC amicus brief backing CFTC in stock perps suit; The Block returned 403. Draft not started.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptobriefing.com/sec-backs-cftc-perpetual-futures-lawsuit/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.bankless.com/read/news/sec-sides-with-cftc-in-fight-over-stock-perps",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-13T12:28:16.585Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "84ef0be9ca637f73ca5e": {
       "source": "Cointelegraph",
