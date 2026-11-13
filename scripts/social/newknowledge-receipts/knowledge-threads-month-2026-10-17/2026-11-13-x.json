@@ -112,6 +112,7 @@
   "accountId": "6ab62682ea19ca0bdee284bd",
   "claimId": "994ae906-bd37-4ea2-88dc-9c38248f732b",
   "startedAt": "2026-11-13T11:48:11.124Z",
-  "status": "claimed",
-  "steps": {}
+  "status": "accepted",
+  "steps": {},
+  "postId": "6af6f8fc9a21933ffad11163"
 }
