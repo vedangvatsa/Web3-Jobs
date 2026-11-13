@@ -358,7 +358,7 @@
     "sentAt": "2026-11-13T19:32:29.468Z"
   },
   "a23f7e73-d745-4ae0-af7d-2995b300eec8": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-13T19:32:31.171Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -471,6 +471,8 @@
       }
     ],
     "message": "- Crypto​.com is hiring <a href=\"https://hashtagweb3.com/cmp120?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Compliance Analyst, Canada</a>\n- Brave is hiring <a href=\"https://hashtagweb3.com/eng724?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineering Intern - Waterloo University - Winter Session</a>\n- Kalshi is hiring <a href=\"https://hashtagweb3.com/pm390?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Analyst</a>\n- CoinTracker is hiring <a href=\"https://hashtagweb3.com/cssc2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Support (Season Contractor)</a>\n- Open Standard is hiring <a href=\"https://hashtagweb3.com/dgc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Deputy General Counsel</a>",
-    "slotKey": "2026-11-13:evening"
+    "slotKey": "2026-11-13:evening",
+    "messageId": 192,
+    "sentAt": "2026-11-13T19:32:33.485Z"
   }
 }
