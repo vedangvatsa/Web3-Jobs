@@ -37,5 +37,42 @@
     "slotKey": "2026-11-13:afternoon",
     "messageId": 193509,
     "sentAt": "2026-11-13T11:49:49.529Z"
+  },
+  "97c5ae7c-9515-4732-b547-104a0483d285": {
+    "status": "reserved",
+    "reservedAt": "2026-11-13T19:32:09.549Z",
+    "stories": [
+      {
+        "index": 13,
+        "original_title": "Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history",
+        "headline": "Anthropic IPO receives sixfold demand ahead of market debut",
+        "summary": "Investor orders exceeded available shares for the artificial intelligence company's record-setting public offering.",
+        "event_rationale": "Covers Anthropic's public market debut demand, representing a major financial milestone distinct from all past postings.",
+        "link": "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/",
+        "source": "The Decoder",
+        "originalTitle": "Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history"
+      },
+      {
+        "index": 10,
+        "original_title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+        "headline": "OpenAI launches ChatGPT Wallet for automated AI agent purchases",
+        "summary": "The feature allows artificial intelligence agents to complete online purchases for United States subscription users.",
+        "event_rationale": "Covers OpenAI's deployment of transactional payment tools for autonomous agents, distinct from previous product updates.",
+        "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+        "source": "TechCrunch",
+        "originalTitle": "ChatGPT’s new Wallet lets AI agents shop and check out for you"
+      },
+      {
+        "index": 28,
+        "original_title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+        "headline": "Nebius plans 40 billion dollar AI infrastructure expansion",
+        "summary": "The cloud provider will fund its capital expenditure through customer prepayments and debt financing.",
+        "event_rationale": "Covers a forty billion dollar infrastructure expansion initiative by Nebius, distinct from all other selections and previous posts.",
+        "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+        "source": "TechCrunch",
+        "originalTitle": "Nebius tests the neocloud playbook with $40 billion in planned spending"
+      }
+    ],
+    "slotKey": "2026-11-13:evening"
   }
 }
