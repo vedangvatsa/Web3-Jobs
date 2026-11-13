@@ -166212,11 +166212,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "2d520831f09185045e0e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-14T04:42:30.000Z",
-      "lastSeenAt": "2026-11-13T11:28:25.584Z"
+      "lastSeenAt": "2026-11-13T11:28:25.584Z",
+      "reason": "verified-event",
+      "note": "Read Unchained, Bitquery's investigation, CryptoSlate's report of the Nov 12 update and Cointelegraph (its URL returns 404 to curl bots, so it is not cited). Nov 10 Namecheap social engineering, 01:16 UTC Nov 11 restoration, GoPlus 50k estimate and Bitquery's 01,900 across nine wallets verified. Self-hosted server rack photo; quality, formatting, image and duplicate audits pass; all cited links 200.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/across-back-online-after-namecheap-social-engineering-handed-domain-to-attacker/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitquery.io/investigations/across-protocol-domain-hijack",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/across-protocol-website-attack-reached-an-aave-deposit-new-402000-loss-trace-shows/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-13T12:22:40.424Z",
+      "articleSlug": "acrosshack",
+      "lastReviewedDay": "2026-11-13"
     },
     "571a7e479864d195ae7a": {
       "source": "BeInCrypto",
@@ -328187,6 +328210,31 @@
           ],
           "reviewedAt": "2026-11-13T12:19:58.793Z",
           "articleSlug": "moodyspilot"
+        },
+        "2d520831f09185045e0e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Unchained, Bitquery's investigation, CryptoSlate's report of the Nov 12 update and Cointelegraph (its URL returns 404 to curl bots, so it is not cited). Nov 10 Namecheap social engineering, 01:16 UTC Nov 11 restoration, GoPlus 50k estimate and Bitquery's 01,900 across nine wallets verified. Self-hosted server rack photo; quality, formatting, image and duplicate audits pass; all cited links 200.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/across-back-online-after-namecheap-social-engineering-handed-domain-to-attacker/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitquery.io/investigations/across-protocol-domain-hijack",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/across-protocol-website-attack-reached-an-aave-deposit-new-402000-loss-trace-shows/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-13T12:22:40.424Z",
+          "articleSlug": "acrosshack"
         }
       },
       "baselineSlugs": [
