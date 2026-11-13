@@ -172613,7 +172613,31 @@
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
       "attempts": 0,
       "expiresAt": "2026-11-15T15:45:48.000Z",
-      "lastSeenAt": "2026-11-13T11:28:25.584Z"
+      "lastSeenAt": "2026-11-13T11:28:25.584Z",
+      "articleSlug": "dtccsolana",
+      "draftProgress": {
+        "id": "f5e4b30f1a286d093b57",
+        "day": "2026-11-13",
+        "articleSlug": "dtccsolana",
+        "note": "Read DTCC primary release, Decrypt and Unchained; draft and image still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://www.dtcc.com/press-releases/2026/dtcc-tokenization-service-to-connect-with-solana",
+            "outcome": "read"
+          },
+          {
+            "url": "https://decrypt.co/383132/dtcc-to-bring-tokenized-stocks-and-treasuries-to-solana-in-2027",
+            "outcome": "read"
+          },
+          {
+            "url": "https://unchainedcrypto.com/solana-becomes-the-fifth-network-on-dtccs-tokenization-roadmap-due-in-late-2027/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-13T11:36:38.422Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "f8c7267b7de95e35b4f9": {
       "source": "Unchained",
