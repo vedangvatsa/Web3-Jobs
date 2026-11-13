@@ -1,6 +1,6 @@
 {
   "bd7b9d75-8c4b-4ec1-8b7d-d582e7b2482d": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-13T11:49:17.987Z",
     "stories": [
       {
@@ -34,6 +34,8 @@
         "originalTitle": "AI agent tooling provider LangChain secures $300M investment"
       }
     ],
-    "slotKey": "2026-11-13:afternoon"
+    "slotKey": "2026-11-13:afternoon",
+    "messageId": 193509,
+    "sentAt": "2026-11-13T11:49:49.529Z"
   }
 }
