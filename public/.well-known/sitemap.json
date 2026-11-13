@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-11-13T18:47:09.061Z",
+  "generatedAt": "2026-11-13T19:39:52.978Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 4042,
+  "count": 4040,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -790,7 +790,7 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/an143",
+      "url": "https://hashtagweb3.com/an144",
       "lastmod": "2026-11-12",
       "changefreq": "daily",
       "priority": 0.8
@@ -4150,13 +4150,13 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/cmp174",
+      "url": "https://hashtagweb3.com/cmp176",
       "lastmod": "2026-11-04",
       "changefreq": "daily",
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/cmp175",
+      "url": "https://hashtagweb3.com/cmp177",
       "lastmod": "2026-11-11",
       "changefreq": "daily",
       "priority": 0.8
@@ -5105,7 +5105,7 @@
     },
     {
       "url": "https://hashtagweb3.com/cssl10",
-      "lastmod": "2026-11-02",
+      "lastmod": "2026-11-03",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -6642,12 +6642,6 @@
     {
       "url": "https://hashtagweb3.com/eng355",
       "lastmod": "2026-10-28",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/eng359",
-      "lastmod": "2026-10-14",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -14128,12 +14122,6 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/ops105",
-      "lastmod": "2026-10-14",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/ops106",
       "lastmod": "2026-10-27",
       "changefreq": "daily",
@@ -14279,12 +14267,6 @@
     },
     {
       "url": "https://hashtagweb3.com/ops135",
-      "lastmod": "2026-11-02",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/ops136",
       "lastmod": "2026-11-02",
       "changefreq": "daily",
       "priority": 0.8
@@ -14530,14 +14512,14 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/ops179",
-      "lastmod": "2026-11-12",
+      "url": "https://hashtagweb3.com/ops180",
+      "lastmod": "2026-10-19",
       "changefreq": "daily",
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/ops180",
-      "lastmod": "2026-10-19",
+      "url": "https://hashtagweb3.com/ops181",
+      "lastmod": "2026-11-12",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -19804,12 +19786,6 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/sls488",
-      "lastmod": "2026-10-30",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/sls489",
       "lastmod": "2026-10-27",
       "changefreq": "daily",
@@ -19865,7 +19841,7 @@
     },
     {
       "url": "https://hashtagweb3.com/sls499",
-      "lastmod": "2026-10-16",
+      "lastmod": "2026-10-20",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -19883,6 +19859,12 @@
     },
     {
       "url": "https://hashtagweb3.com/sls502",
+      "lastmod": "2026-10-16",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sls503",
       "lastmod": "2026-11-12",
       "changefreq": "daily",
       "priority": 0.8
@@ -20752,6 +20734,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/tcs3",
+      "lastmod": "2026-11-13",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/tda-sanctions",
       "lastmod": "2026-10-01",
       "changefreq": "monthly",
@@ -21179,7 +21167,7 @@
     },
     {
       "url": "https://hashtagweb3.com/tir6",
-      "lastmod": "2026-10-27",
+      "lastmod": "2026-10-29",
       "changefreq": "daily",
       "priority": 0.8
     },
