@@ -172191,7 +172191,31 @@
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
       "attempts": 0,
       "expiresAt": "2026-11-15T19:12:14.000Z",
-      "lastSeenAt": "2026-11-13T11:28:25.584Z"
+      "lastSeenAt": "2026-11-13T11:28:25.584Z",
+      "articleSlug": "binancefull",
+      "draftProgress": {
+        "id": "fb88d655f7d0c67b685f",
+        "day": "2026-11-13",
+        "articleSlug": "binancefull",
+        "note": "Read Bitcoin Magazine on Binance completing .34B hack coverage and Cointelegraph DOJ piece noting the coverage claim; The Defiant returned 403. Draft not started.",
+        "sourceChecks": [
+          {
+            "url": "https://bitcoinmagazine.com/news/binance-covers-6-34-billion-hack",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme",
+            "outcome": "read"
+          },
+          {
+            "url": "https://thedefiant.io/news/hacks/binance-says-hack-assets-covered-reserve-proof-pending",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-11-13T12:29:01.864Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "eea39aae24cdd6ae0bc9": {
       "source": "CoinDesk",
