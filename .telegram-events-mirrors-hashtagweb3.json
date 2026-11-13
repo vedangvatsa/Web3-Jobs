@@ -1,0 +1,9 @@
+{
+  "@hashtagweb3:156205:@eventsweb3": {
+    "fromChatId": "@hashtagweb3",
+    "sourceMessageId": 156205,
+    "destination": "@eventsweb3",
+    "status": "pending",
+    "attempts": 0
+  }
+}
