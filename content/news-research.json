@@ -172265,7 +172265,7 @@
         "id": "fb88d655f7d0c67b685f",
         "day": "2026-11-13",
         "articleSlug": "binancefull",
-        "note": "Read Bitcoin Magazine on Binance completing .34B hack coverage and Cointelegraph DOJ piece noting the coverage claim; The Defiant returned 403. Draft not started.",
+        "note": "Round 6: rechecked Bitcoin Magazine full read (coverage complete claim, 198-token proof-of-reserves snapshot Nov 12, ZK proof 40-50 hours, phased withdrawals, SAFU replenish to B) and Cointelegraph DOJ article (seizure authorization, coverage claim on X). Hero image present. Draft not started.",
         "sourceChecks": [
           {
             "url": "https://bitcoinmagazine.com/news/binance-covers-6-34-billion-hack",
@@ -172274,13 +172274,9 @@
           {
             "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme",
             "outcome": "read"
-          },
-          {
-            "url": "https://thedefiant.io/news/hacks/binance-says-hack-assets-covered-reserve-proof-pending",
-            "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-11-13T12:29:01.864Z",
+        "updatedAt": "2026-11-13T12:42:43.903Z",
         "approved": false,
         "mustReview": true
       }
