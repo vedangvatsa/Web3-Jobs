@@ -156813,5 +156813,187 @@
     "link": "https://bitso.bamboohr.com/careers/1010",
     "company": "Bitso",
     "title": "Onboarding Operations Analyst"
+  },
+  "mkt112": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "company": "Ripio",
+    "title": "Marketing Operations & CRM Senior",
+    "newSlug": "mkt152"
+  },
+  "sls299": {
+    "id": "9c249990-643c-4793-9917-cb5ca3be2883",
+    "link": "https://jobs.ripio.com/jobs/8560977-vp-of-global-business-development",
+    "company": "Ripio",
+    "title": "VP of Global Business Development",
+    "newSlug": "sls501"
+  },
+  "cmp123": {
+    "id": "351",
+    "link": "https://fasset.bamboohr.com/careers/351",
+    "company": "Fasset",
+    "title": "Compliance Operations Associate",
+    "newSlug": "cmp175"
+  },
+  "pm402": {
+    "id": "8382332",
+    "link": "https://www.coinbase.com/careers/positions/8382332?gh_jid=8382332",
+    "company": "Coinbase",
+    "title": "Product Manager I"
+  },
+  "pm382": {
+    "id": "8315943",
+    "link": "https://stripe.com/jobs/search?gh_jid=8315943",
+    "company": "Stripe",
+    "title": "Product Operations Manager"
+  },
+  "nmbc": {
+    "id": "2df5b613-d082-4496-b48e-52aca6f3d2ee",
+    "link": "https://jobs.ashbyhq.com/chainlink-labs/2df5b613-d082-4496-b48e-52aca6f3d2ee",
+    "company": "Chainlink Labs",
+    "title": "Head of New Markets, Banking & Capital Markets"
+  },
+  "ob21": {
+    "id": "2a37e6ef-ccd1-4508-ae0e-265c22bee0fd",
+    "link": "https://jobs.ashbyhq.com/codex/2a37e6ef-ccd1-4508-ae0e-265c22bee0fd",
+    "company": "Codex",
+    "title": "Head of Client Onboarding"
+  },
+  "sec140": {
+    "id": "5024636101",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5024636101",
+    "company": "Bitpanda",
+    "title": "Expert, Information Security"
+  },
+  "eng644": {
+    "id": "6231660004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6231660004",
+    "company": "Alpaca",
+    "title": "Senior Software Engineer - Payments"
+  },
+  "sls488": {
+    "id": "4717630006",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4717630006",
+    "company": "Fireblocks",
+    "title": "Sales Director, Payments"
+  },
+  "iamd": {
+    "id": "5008412101",
+    "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5008412101",
+    "company": "Flowdesk",
+    "title": "Identity Access Management & Data Protection Specialist"
+  },
+  "pm308": {
+    "id": "d55d1904-1c78-4d87-b71e-26df5c700e8d",
+    "link": "https://jobs.ashbyhq.com/PrimeIntellect/d55d1904-1c78-4d87-b71e-26df5c700e8d",
+    "company": "Prime Intellect",
+    "title": "Product Marketing Lead"
+  },
+  "pm307": {
+    "id": "8280149",
+    "link": "https://www.coinbase.com/careers/positions/8280149?gh_jid=8280149",
+    "company": "Coinbase",
+    "title": "Senior Product Designer, Platform"
+  },
+  "be77": {
+    "id": "2524d206-42cb-4202-8d85-59e47c72d704",
+    "link": "https://jobs.ashbyhq.com/sardine/2524d206-42cb-4202-8d85-59e47c72d704",
+    "company": "Sardine",
+    "title": "Software Engineer - Backend"
+  },
+  "pmce": {
+    "id": "4947308101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4947308101",
+    "company": "Bybit",
+    "title": "Paid Media Creative Expert"
+  },
+  "eng501": {
+    "id": "8265151",
+    "link": "https://stripe.com/jobs/search?gh_jid=8265151",
+    "company": "Stripe",
+    "title": "IT Support Engineer"
+  },
+  "ec3": {
+    "id": "8273855",
+    "link": "https://stripe.com/jobs/search?gh_jid=8273855",
+    "company": "Stripe",
+    "title": "Employment Counsel, EMEA"
+  },
+  "pm306": {
+    "id": "d0716e17-7a46-46db-84ca-2ab17a6b6501",
+    "link": "https://jobs.lever.co/anchorage/d0716e17-7a46-46db-84ca-2ab17a6b6501",
+    "company": "Anchorage Digital",
+    "title": "Member of Product, Tokenization"
+  },
+  "pm305": {
+    "id": "8215758",
+    "link": "https://stripe.com/jobs/search?gh_jid=8215758",
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales, Billing (Grower)"
+  },
+  "dcf": {
+    "id": "0a5bf195-298a-4aaf-a00b-f25248f8ae71",
+    "link": "https://jobs.ashbyhq.com/trm-labs/0a5bf195-298a-4aaf-a00b-f25248f8ae71",
+    "company": "TRM Labs",
+    "title": "Head of Corporate FP&A"
+  },
+  "mkt108": {
+    "id": "b909e041-82d1-41c0-9ad4-ee61f44b668f",
+    "link": "https://jobs.ashbyhq.com/alpenlabs/b909e041-82d1-41c0-9ad4-ee61f44b668f",
+    "company": "Alpen Labs",
+    "title": "Consumer Marketing Lead - Alpen Finance"
+  },
+  "pm304": {
+    "id": "8275556",
+    "link": "https://stripe.com/jobs/search?gh_jid=8275556",
+    "company": "Stripe",
+    "title": "Product Manager, Sandboxes"
+  },
+  "pm302": {
+    "id": "852c6b3d-9f46-47ae-adb1-a5ed2608aac7",
+    "link": "https://jobs.ashbyhq.com/li.fi/852c6b3d-9f46-47ae-adb1-a5ed2608aac7",
+    "company": "LI.FI",
+    "title": "Product Manager"
+  },
+  "eng596": {
+    "id": "8281342",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8281342",
+    "company": "DRW",
+    "title": "Senior Software Engineer, Cumberland/Options Data"
+  },
+  "ops178": {
+    "id": "48c073da-8459-4bbc-9649-f94cf1bb0b17",
+    "link": "https://jobs.ashbyhq.com/story/48c073da-8459-4bbc-9649-f94cf1bb0b17",
+    "company": "Story Protocol",
+    "title": "Senior People Operations Generalist (Story + Wizard)",
+    "newSlug": "ops181"
+  },
+  "an142": {
+    "id": "9f578f01-3978-4f92-b0df-c9b9aff2d4e2",
+    "link": "https://jobs.ashbyhq.com/story/9f578f01-3978-4f92-b0df-c9b9aff2d4e2",
+    "company": "Story Protocol",
+    "title": "Senior Financial Analyst, FP&A (Story + Wizard)",
+    "newSlug": "an144"
+  },
+  "sls498": {
+    "id": "06fba783-5f5a-474c-8efc-8662a7a7ea84",
+    "link": "https://jobs.ashbyhq.com/story/06fba783-5f5a-474c-8efc-8662a7a7ea84",
+    "company": "Story Protocol",
+    "title": "Senior Accountant (Story + Wizard)",
+    "newSlug": "sls503"
+  },
+  "cmp173": {
+    "id": "351",
+    "link": "https://fasset.bamboohr.com/careers/351",
+    "company": "Fasset",
+    "title": "Compliance Operations Associate",
+    "newSlug": "cmp177"
+  },
+  "cmp172": {
+    "id": "6c4683cd-d6e6-4cf6-a021-5db9f3f7f82d",
+    "link": "https://jobs.ashbyhq.com/hifi/6c4683cd-d6e6-4cf6-a021-5db9f3f7f82d",
+    "company": "HIFI",
+    "title": "Compliance Officer",
+    "newSlug": "cmp176"
   }
 }
