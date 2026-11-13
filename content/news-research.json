@@ -164310,9 +164310,9 @@
         "The Defiant"
       ],
       "id": "252532bdf9093343d60c",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-13T17:52:14.000Z",
       "lastSeenAt": "2026-11-11T08:29:40.487Z",
       "articleSlug": "zcashgrants",
@@ -164334,7 +164334,21 @@
         "updatedAt": "2026-11-13T11:57:00.897Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read Decrypt and bitcoin.com; M pledge from ZCSH fees, four 00k first grants, recipients, WSJ ad campaign, fee reinvestment terms and ZEC price figures all match both sources. Audits pass; all links return 200.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
+          "outcome": "read"
+        },
+        {
+          "url": "https://news.bitcoin.com/market-updates/grayscale-pledges-1m-zcash-ecosystem-zec-plunges-below-1000/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-13T12:15:15.715Z",
+      "lastReviewedDay": "2026-11-13"
     },
     "316b5afcf3aa02c9bafc": {
       "source": "Cointelegraph",
@@ -165518,9 +165532,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "8c3192546fe9a1f7eb46",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-13T14:32:48.000Z",
       "lastSeenAt": "2026-11-13T11:28:25.584Z",
       "articleSlug": "heliusmoney",
@@ -165542,7 +165556,21 @@
         "updatedAt": "2026-11-13T11:56:23.153Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read Decrypt launch story and CryptoSlate technical review; Nov 10 mainnet launch, Decrypt Money Account integration, scope limits, compliance tooling and Nitro enclave trust model all match. Audits pass; all links return 200.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/helius-encrypts-solana-transfers-without-removing-operator-trust/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-13T12:15:16.598Z",
+      "lastReviewedDay": "2026-11-13"
     },
     "44d6817dbd37e5f329ba": {
       "source": "The Defiant",
@@ -171644,11 +171672,30 @@
         "Unchained"
       ],
       "id": "eb789d04036090af44e2",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-15T15:55:38.000Z",
-      "lastSeenAt": "2026-11-13T11:28:25.584Z"
+      "lastSeenAt": "2026-11-13T11:28:25.584Z",
+      "reason": "verified-event",
+      "note": "Read Tether's Nov 12 primary release, Decrypt and Unchained. Unqualified KPMG opinion, 520,089.35 troy ounces worth .246B vs XAUT in issue, bar-by-bar count, Swiss vaults, August USDT audit sequence and Unchained's publication/supply caveats all verified across three sites. Image self-hosted from Wikimedia; quality, formatting, image and duplicate audits pass; all links 200.",
+      "sourceChecks": [
+        {
+          "url": "https://tether.io/news/tether-gold-xaut-becomes-tethers-second-stablecoin-to-complete-a-big-four-audit/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/383137/tether-gold-gets-clean-kpmg-audit-confirming-2-2b-in-physical-gold-backing",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/kpmg-signs-off-on-tether-gold-issuers-2025-books-covering-2-2-billion-in-bullion/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-13T12:17:00.364Z",
+      "articleSlug": "tethergold",
+      "lastReviewedDay": "2026-11-13"
     },
     "7e4791e89ca0f98b4320": {
       "source": "The Block",
@@ -328046,6 +328093,61 @@
           ],
           "reviewedAt": "2026-11-13T12:15:14.350Z",
           "articleSlug": "dtccsolana"
+        },
+        "252532bdf9093343d60c": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Decrypt and bitcoin.com; M pledge from ZCSH fees, four 00k first grants, recipients, WSJ ad campaign, fee reinvestment terms and ZEC price figures all match both sources. Audits pass; all links return 200.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bitcoin.com/market-updates/grayscale-pledges-1m-zcash-ecosystem-zec-plunges-below-1000/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-13T12:15:15.715Z",
+          "articleSlug": "zcashgrants"
+        },
+        "8c3192546fe9a1f7eb46": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Decrypt launch story and CryptoSlate technical review; Nov 10 mainnet launch, Decrypt Money Account integration, scope limits, compliance tooling and Nitro enclave trust model all match. Audits pass; all links return 200.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/helius-encrypts-solana-transfers-without-removing-operator-trust/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-13T12:15:16.598Z",
+          "articleSlug": "heliusmoney"
+        },
+        "eb789d04036090af44e2": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Tether's Nov 12 primary release, Decrypt and Unchained. Unqualified KPMG opinion, 520,089.35 troy ounces worth .246B vs XAUT in issue, bar-by-bar count, Swiss vaults, August USDT audit sequence and Unchained's publication/supply caveats all verified across three sites. Image self-hosted from Wikimedia; quality, formatting, image and duplicate audits pass; all links 200.",
+          "sourceChecks": [
+            {
+              "url": "https://tether.io/news/tether-gold-xaut-becomes-tethers-second-stablecoin-to-complete-a-big-four-audit/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383137/tether-gold-gets-clean-kpmg-audit-confirming-2-2b-in-physical-gold-backing",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/kpmg-signs-off-on-tether-gold-issuers-2025-books-covering-2-2-billion-in-bullion/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-13T12:17:00.364Z",
+          "articleSlug": "tethergold"
         }
       },
       "baselineSlugs": [
