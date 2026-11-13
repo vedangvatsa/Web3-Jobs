@@ -1,6 +1,6 @@
 {
   "69d5331d-a04c-4bc3-86cd-318c18e0e1f2": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-13T11:49:44.315Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -116,6 +116,8 @@
       }
     ],
     "message": "- Altitude Development Partners is hiring <a href=\"https://hashtagweb3.com/tr141?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Quant Researcher / Strategy Developer</a>\n- CKBA is hiring <a href=\"https://hashtagweb3.com/pct?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Payment Channel Team Lead</a>\n- Altitude Development Partners is hiring <a href=\"https://hashtagweb3.com/an135?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Risk Analyst</a>\n- 0x is hiring <a href=\"https://hashtagweb3.com/mkt120?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Marketing, 0x &amp; Matcha</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/kdds?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Global KYC &amp; Due Diligence Specialist</a>",
-    "slotKey": "2026-11-13:afternoon"
+    "slotKey": "2026-11-13:afternoon",
+    "messageId": 156207,
+    "sentAt": "2026-11-13T11:49:51.532Z"
   }
 }
