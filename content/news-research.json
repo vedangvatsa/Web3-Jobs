@@ -172077,14 +172077,22 @@
         "id": "1aa5e0951ef94ee88f4e",
         "day": "2026-11-13",
         "articleSlug": "trumpnomsdup",
-        "note": "Round 6: same event as candidate eeb0a1c4112118b24f1a (Trump SEC/CFTC nominees; White House Nov 12 list and Cointelegraph both read under that candidate). CoinDesk URL HTTP 429. This is a duplicate lead: once secnoms passes its word-count gate and is recorded ready, record this id as rejected reason=duplicate duplicate=secnoms. Slug is a placeholder for checkpoint ownership only.",
+        "note": "Round 6: same event as candidate eeb0a1c4112118b24f1a (Trump SEC/CFTC nominees; White House Nov 12 list and Cointelegraph report both actually read in round 6). CoinDesk URL returned HTTP 429, not read. Duplicate lead: once secnoms passes its word-count gate and is recorded ready, record this id as rejected reason=duplicate duplicate=secnoms. Slug is a placeholder for checkpoint ownership only.",
         "sourceChecks": [
           {
-            "url": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
+            "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6",
             "outcome": "read"
+          },
+          {
+            "url": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
+            "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-11-13T12:43:21.658Z",
+        "updatedAt": "2026-11-13T12:43:36.654Z",
         "approved": false,
         "mustReview": true
       }
