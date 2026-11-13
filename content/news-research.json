@@ -164422,9 +164422,9 @@
       "articleSlug": "kimberdsp",
       "draftProgress": {
         "id": "99e5739f714066611268",
-        "day": "2026-11-11",
+        "day": "2026-11-13",
         "articleSlug": "kimberdsp",
-        "note": "Round 3: read Cointelegraph on Kimber Digital Securities SEC broker-dealer registration and FINRA membership; CoinDesk source returned HTTP 429 on WebFetch and still needs an access retry or alternate second outlet. Slug plume is owned in legacy-slugs-archive; use kimberdsp. Draft not started.",
+        "note": "Round 5: rechecked Cointelegraph on Kimber Digital Securities SEC/FINRA broker-dealer registration; CoinDesk still HTTP 429. Need second independent outlet or primary PR read. Draft not started.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization",
@@ -164435,7 +164435,7 @@
             "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-11-11T11:52:13.986Z",
+        "updatedAt": "2026-11-13T12:28:58.451Z",
         "approved": false,
         "mustReview": true
       }
