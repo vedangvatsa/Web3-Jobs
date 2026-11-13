@@ -1,0 +1,33 @@
+{
+  "f80a8799-3a86-44c8-a0d2-eb94c4d919b9": {
+    "status": "reserved",
+    "reservedAt": "2026-11-13T11:49:27.834Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
+        "summary": "Advisories detail October 2025 fixes for two medium flaws and a high-severity bug affecting block production.",
+        "link": "https://hashtagweb3.com/corecves?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bitcoin Core discloses three patched security bugs"
+      },
+      {
+        "index": -1,
+        "headline": "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
+        "summary": "The service supports Bitcoin, Ether, and three stablecoins, alongside a new tokenization agreement with Deutsche Asset Management.",
+        "link": "https://hashtagweb3.com/dbcustody?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Deutsche Bank starts crypto custody for institutional clients"
+      },
+      {
+        "index": -1,
+        "headline": "MSCI Drops Strategy, Metaplanet, and Upexi From Indexes",
+        "summary": "The index removals take effect after market close on November 30 following MSCI's final review.",
+        "link": "https://hashtagweb3.com/mscidelete?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "MSCI deletes Strategy from indexes at November close"
+      }
+    ],
+    "slotKey": "2026-11-13:afternoon"
+  }
+}
