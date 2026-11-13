@@ -10,8 +10,8 @@
     "location": "Singapore",
     "department": "4150 Technical Support",
     "active": true,
-    "slug": "eng786",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng786"
   },
   {
     "id": "5035675101",
@@ -24,8 +24,8 @@
     "location": "Abu Dhabi, UAE; Hong Kong SAR; Kuala Lumpur, Malaysia",
     "department": "Applied AI",
     "active": true,
-    "slug": "arc46",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "arc46"
   },
   {
     "id": "a98a6cb0-24aa-4299-821d-125547535b69",
@@ -38,8 +38,8 @@
     "workplaceType": "onsite",
     "department": "Information Technology",
     "active": true,
-    "slug": "eng785",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng785"
   },
   {
     "id": "8338839",
@@ -52,8 +52,8 @@
     "location": "Singapore",
     "department": "9014 Metronome - R&D",
     "active": true,
-    "slug": "arc45",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "arc45"
   },
   {
     "id": "8338845",
@@ -66,8 +66,8 @@
     "location": "Singapore",
     "department": "9014 Metronome - R&D",
     "active": true,
-    "slug": "arc23",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "arc23"
   },
   {
     "id": "be7d76c0-ea18-4a54-a844-ea029c144b25",
@@ -80,8 +80,8 @@
     "workplaceType": "onsite",
     "department": "Sales",
     "active": true,
-    "slug": "ops177",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "ops177"
   },
   {
     "id": "0377eb17-81a9-426d-b2d9-eec27809935a",
@@ -94,8 +94,8 @@
     "workplaceType": "remote",
     "department": "Sales",
     "active": true,
-    "slug": "sls485",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls485"
   },
   {
     "id": "5032948101",
@@ -108,8 +108,8 @@
     "location": "Abu Dhabi, UAE",
     "department": "Wealth Business Unit (WBU)",
     "active": true,
-    "slug": "sls484",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls484"
   },
   {
     "id": "8012601003",
@@ -122,8 +122,8 @@
     "location": "Singapore",
     "department": "Product Management",
     "active": true,
-    "slug": "frse",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "frse"
   },
   {
     "id": "5035560101",
@@ -136,8 +136,8 @@
     "location": "Jakarta, Indonesia",
     "department": "STX - Engineering",
     "active": true,
-    "slug": "eng784",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng784"
   },
   {
     "id": "8382332",
@@ -151,8 +151,8 @@
     "department": "Product",
     "active": true,
     "salary": "₹44.1 L/yr",
-    "slug": "pm402",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm402"
   },
   {
     "id": "8382331",
@@ -166,8 +166,8 @@
     "department": "Product",
     "active": true,
     "salary": "$143.7k/yr",
-    "slug": "pm401",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm401"
   },
   {
     "id": "5026840101",
@@ -180,8 +180,8 @@
     "location": "Jakarta, Indonesia",
     "department": "STX - Engineering",
     "active": true,
-    "slug": "eng783",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng783"
   },
   {
     "id": "5028801101",
@@ -194,8 +194,8 @@
     "location": "Singapore",
     "department": "STX - Engineering",
     "active": true,
-    "slug": "eng782",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng782"
   },
   {
     "id": "8203038003",
@@ -208,8 +208,8 @@
     "location": "EMEA (Remote)",
     "department": "Compliance",
     "active": true,
-    "slug": "cmp169",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "cmp169"
   },
   {
     "id": "8203042003",
@@ -222,8 +222,8 @@
     "location": "Kuala Lumpur, Malaysia",
     "department": "Compliance",
     "active": true,
-    "slug": "qa106",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "qa106"
   },
   {
     "id": "8334550",
@@ -236,8 +236,8 @@
     "location": "Singapore",
     "department": "2313 Marketing - APAC",
     "active": true,
-    "slug": "mgr262",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mgr262"
   },
   {
     "id": "8282171",
@@ -250,8 +250,8 @@
     "location": "Singapore",
     "department": "8278 MaaS APAC",
     "active": true,
-    "slug": "eng781",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng781"
   },
   {
     "id": "8202977003",
@@ -265,8 +265,8 @@
     "department": "Legal",
     "active": true,
     "salary": "$171.7k – $257.6k/yr",
-    "slug": "mgr261",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mgr261"
   },
   {
     "id": "8354762",
@@ -279,8 +279,8 @@
     "location": "Singapore",
     "department": "1153 Solutions Architecture (APAC)",
     "active": true,
-    "slug": "arc22",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "arc22"
   },
   {
     "id": "b6ec8483-7ddb-4305-a68b-ba6df80c3a7a",
@@ -293,8 +293,8 @@
     "workplaceType": "hybrid",
     "department": "Growth & Marketing",
     "active": true,
-    "slug": "mkt151",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mkt151"
   },
   {
     "id": "b56195c3-2826-4371-a961-3edb1f4db93b",
@@ -307,8 +307,8 @@
     "workplaceType": "hybrid",
     "department": "Growth & Marketing",
     "active": true,
-    "slug": "mkt150",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mkt150"
   },
   {
     "id": "22c26886-13cf-4d53-a73a-0e3a62d57356",
@@ -321,8 +321,8 @@
     "workplaceType": "hybrid",
     "department": "Growth & Marketing",
     "active": true,
-    "slug": "mkt149",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mkt149"
   },
   {
     "id": "5481027008",
@@ -335,8 +335,8 @@
     "location": "Melbourne, Australia",
     "department": "20213 S&M - Sales - Square Outside",
     "active": true,
-    "slug": "sls483",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls483"
   },
   {
     "id": "5481026008",
@@ -349,8 +349,8 @@
     "location": "Sydney, Australia",
     "department": "20213 S&M - Sales - Square Outside",
     "active": true,
-    "slug": "sls481",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls481"
   },
   {
     "id": "f577bbd4-db84-413f-ad8f-adbccc725e47",
@@ -364,8 +364,8 @@
     "workplaceType": "Hybrid",
     "department": "Risk & Compliance",
     "active": true,
-    "slug": "pm400",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm400"
   },
   {
     "id": "8384669",
@@ -379,8 +379,8 @@
     "department": "ENG Platforms",
     "active": true,
     "salary": "$196k – $230k/yr",
-    "slug": "eng780",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng780"
   },
   {
     "id": "8318663",
@@ -394,8 +394,8 @@
     "department": "Customer Care",
     "active": true,
     "salary": "$81k – $95k/yr",
-    "slug": "ops176",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "ops176"
   },
   {
     "id": "2250b00d-545e-44c7-9497-7ec384ad8add",
@@ -409,8 +409,8 @@
     "workplaceType": "Remote",
     "department": "Compliance",
     "active": true,
-    "slug": "cmp168",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "cmp168"
   },
   {
     "id": "4727e0b5-eafa-41ab-89ce-f6a1d19d3f0e",
@@ -424,8 +424,8 @@
     "workplaceType": "Hybrid",
     "department": "Sales",
     "active": true,
-    "slug": "cel",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "cel"
   },
   {
     "id": "498d0fa0-d6e2-4755-9004-736dcae47d81",
@@ -439,8 +439,8 @@
     "workplaceType": "Hybrid",
     "department": "Sales",
     "active": true,
-    "slug": "cmml",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "cmml"
   },
   {
     "id": "e6c69570-4900-473e-a2b5-13f925d22e1b",
@@ -468,8 +468,8 @@
     "workplaceType": "Remote",
     "department": "Technology",
     "active": true,
-    "slug": "eng779",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng779"
   },
   {
     "id": "8202947003",
@@ -483,8 +483,8 @@
     "department": "Finance Department",
     "active": true,
     "salary": "$143.1k – $178.9k/yr",
-    "slug": "mgr260",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mgr260"
   },
   {
     "id": "8934097002",
@@ -498,8 +498,8 @@
     "department": "Data",
     "active": true,
     "salary": "$132k – $198k/yr",
-    "slug": "ds21",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "ds21"
   },
   {
     "id": "35f9afab-6d39-4d56-b6e5-90c27a5b18ab",
@@ -513,8 +513,8 @@
     "workplaceType": "OnSite",
     "department": "Communications/PR",
     "active": true,
-    "slug": "sc2",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sc2"
   },
   {
     "id": "4d19275c-cd9b-4de5-963b-60cf52900667",
@@ -528,8 +528,8 @@
     "department": "Engineering",
     "salary": "USD 140,000 - USD 200,000 per year",
     "active": true,
-    "slug": "sec174",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sec174"
   },
   {
     "id": "8376775",
@@ -542,8 +542,8 @@
     "location": "Remote in the US",
     "department": "2317 Marketing - PMM",
     "active": true,
-    "slug": "an141",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "an141"
   },
   {
     "id": "7997547",
@@ -557,8 +557,8 @@
     "department": "Legal",
     "active": true,
     "salary": "$217k – $255k/yr",
-    "slug": "aso95",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "aso95"
   },
   {
     "id": "8384438",
@@ -571,8 +571,8 @@
     "location": "SF, SEA, NYC, Chicago, Toronto",
     "department": "8570 Consumer Network - Eng",
     "active": true,
-    "slug": "pm399",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm399"
   },
   {
     "id": "5473605008",
@@ -586,8 +586,8 @@
     "department": "30403 Foundational - Guidance - Corporate Finance & Strategy",
     "active": true,
     "salary": "$239.6k – $359.4k/yr",
-    "slug": "eng778",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng778"
   },
   {
     "id": "8384325",
@@ -601,8 +601,8 @@
     "department": "Global Operations",
     "active": true,
     "salary": "$174.6k – $235.2k/yr",
-    "slug": "be124",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "be124"
   },
   {
     "id": "8384287",
@@ -616,8 +616,8 @@
     "department": "Global Operations",
     "active": true,
     "salary": "$193.5k – $285.6k/yr",
-    "slug": "fs35",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "fs35"
   },
   {
     "id": "163275e2-02f8-44f5-898c-b38ad9f22b36",
@@ -629,8 +629,8 @@
     "location": "Corsicana, TX",
     "department": "Administration",
     "active": true,
-    "slug": "aso94",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "aso94"
   },
   {
     "id": "5003454101",
@@ -643,8 +643,8 @@
     "location": "Europe - Remote",
     "department": "Payment Business Unit",
     "active": true,
-    "slug": "sls477",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls477"
   },
   {
     "id": "8199686003",
@@ -658,8 +658,8 @@
     "department": "Speedrun",
     "active": true,
     "salary": "$167k – $195k/yr",
-    "slug": "rec67",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "rec67"
   },
   {
     "id": "8205711",
@@ -673,8 +673,8 @@
     "department": "Customer Care",
     "active": true,
     "salary": "$34 – $40/hr",
-    "slug": "cetm",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "cetm"
   },
   {
     "id": "8353180",
@@ -687,8 +687,8 @@
     "location": "Mexico",
     "department": "4134 SDC - Tax",
     "active": true,
-    "slug": "ops148",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "ops148"
   },
   {
     "id": "8315951",
@@ -701,8 +701,8 @@
     "location": "San Francisco, CA",
     "department": "8566 Developer Platform - PM",
     "active": true,
-    "slug": "pm398",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm398"
   },
   {
     "id": "8259642",
@@ -716,8 +716,8 @@
     "department": "Financial Crimes",
     "active": true,
     "salary": "$94k – $110k/yr",
-    "slug": "mgr259",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mgr259"
   },
   {
     "id": "b7fd55f4-6c5a-42f5-be04-aa09a4d5b7a9",
@@ -731,8 +731,8 @@
     "workplaceType": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "eng777",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng777"
   },
   {
     "id": "574f46a4-42b2-46be-ba5c-de07c5e173c5",
@@ -746,8 +746,8 @@
     "workplaceType": "Hybrid",
     "department": "Sales",
     "active": true,
-    "slug": "mgr258",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mgr258"
   },
   {
     "id": "91a866e7-f6a2-4901-9dea-214996889d8c",
@@ -761,8 +761,8 @@
     "workplaceType": "Remote",
     "department": "Product",
     "active": true,
-    "slug": "pm397",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm397"
   },
   {
     "id": "f1887fed-06e8-404c-815f-8a7918da3c18",
@@ -776,8 +776,8 @@
     "workplaceType": "Remote",
     "department": "Product",
     "active": true,
-    "slug": "pm396",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm396"
   },
   {
     "id": "5183226008",
@@ -790,8 +790,8 @@
     "location": "Melbourne, Australia",
     "department": "20213 S&M - Sales - Square Outside",
     "active": true,
-    "slug": "sls476",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls476"
   },
   {
     "id": "8383655",
@@ -804,8 +804,8 @@
     "location": "NYC, San Francisco, Seattle",
     "department": "8134 Operations Platform",
     "active": true,
-    "slug": "eng776",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng776"
   },
   {
     "id": "1f9cd167-9c7f-4998-8a1a-c40754e09578",
@@ -817,8 +817,8 @@
     "location": "Castle Rock, CO",
     "department": "Cybersecurity",
     "active": true,
-    "slug": "sec173",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sec173"
   },
   {
     "id": "932fa767-7a6d-45bb-807b-48f881b53aeb",
@@ -832,8 +832,8 @@
     "workplaceType": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "fe28",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "fe28"
   },
   {
     "id": "95c9e8d7-493b-4dcf-91b5-02e47732a626",
@@ -847,8 +847,8 @@
     "workplaceType": "OnSite",
     "department": "Kalshi Trading",
     "active": true,
-    "slug": "an137",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "an137"
   },
   {
     "id": "885f9d6b-9c9d-4720-97e4-14739e1660e9",
@@ -862,8 +862,8 @@
     "department": "Engineering",
     "salary": "USD 150,000 - USD 300,000 per year",
     "active": true,
-    "slug": "be123",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "be123"
   },
   {
     "id": "c108bbc6-5487-486b-8491-7132a22fe54b",
@@ -876,8 +876,8 @@
     "workplaceType": "hybrid",
     "department": "Engineering",
     "active": true,
-    "slug": "eng775",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng775"
   },
   {
     "id": "edd52e21-8b7b-40f6-90c9-248002920598",
@@ -891,8 +891,8 @@
     "department": "Engineering",
     "salary": "USD 155,000 - USD 300,000 per year",
     "active": true,
-    "slug": "pm395",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm395"
   },
   {
     "id": "2dd9436f-d1c6-4ef8-a9b2-9ca87e715437",
@@ -906,8 +906,8 @@
     "workplaceType": "OnSite",
     "department": "Sales",
     "active": true,
-    "slug": "sls475",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls475"
   },
   {
     "id": "2bc08e56-e01e-460d-ab93-b156e27f2540",
@@ -935,8 +935,8 @@
     "location": "New York",
     "department": "Early Careers",
     "active": true,
-    "slug": "mkt148",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mkt148"
   },
   {
     "id": "8934099002",
@@ -950,8 +950,8 @@
     "department": "Data",
     "active": true,
     "salary": "$132k – $198k/yr",
-    "slug": "aspa",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "aspa"
   },
   {
     "id": "8281536",
@@ -964,8 +964,8 @@
     "location": "Toronto",
     "department": "1141 AMER Delivery",
     "active": true,
-    "slug": "ic5",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "ic5"
   },
   {
     "id": "7f63abac-d3a9-4c78-9e1f-cf4ccec8f25d",
@@ -994,8 +994,8 @@
     "workplaceType": "Hybrid",
     "department": "Product",
     "active": true,
-    "slug": "pm394",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm394"
   },
   {
     "id": "c026ee0f-6967-4bcf-8846-342cec8ff523",
@@ -1009,8 +1009,8 @@
     "workplaceType": "Remote",
     "department": "Corporate Functions",
     "active": true,
-    "slug": "mgr184",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mgr184"
   },
   {
     "id": "3f9c88b4-ae4e-4075-bec8-4f7d3cf8bcff",
@@ -1038,8 +1038,8 @@
     "location": "Remote (United States)",
     "department": "Cybersecurity",
     "active": true,
-    "slug": "eng774",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng774"
   },
   {
     "id": "4505099009",
@@ -1081,8 +1081,8 @@
     "department": "Accounting",
     "active": true,
     "salary": "$85k – $100k/yr",
-    "slug": "sls474",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls474"
   },
   {
     "id": "9544bc53-b3b4-4cc5-9321-97e74d5b0c11",
@@ -1094,8 +1094,8 @@
     "location": "Austin, TX",
     "department": "Cybersecurity",
     "active": true,
-    "slug": "eng773",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng773"
   },
   {
     "id": "415997bf-a1c2-472d-ad54-04bd0d95259b",
@@ -1109,8 +1109,8 @@
     "workplaceType": "Hybrid",
     "department": "Engineering",
     "active": true,
-    "slug": "be75",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "be75"
   },
   {
     "id": "8367450",
@@ -1123,8 +1123,8 @@
     "location": "London",
     "department": "Human Resources",
     "active": true,
-    "slug": "rec66",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "rec66"
   },
   {
     "id": "8374566",
@@ -1138,8 +1138,8 @@
     "department": "MetaMask",
     "active": true,
     "salary": "$139k – $210k/yr",
-    "slug": "eng772",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng772"
   },
   {
     "id": "ded07333-555a-4b7b-a785-89e4761b6ab6",
@@ -1153,8 +1153,8 @@
     "workplaceType": "Hybrid",
     "department": "Technology and Product",
     "active": true,
-    "slug": "eng771",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng771"
   },
   {
     "id": "5074d899-f321-4eb2-be3a-f33f849f98a2",
@@ -1168,8 +1168,8 @@
     "workplaceType": "OnSite",
     "department": "Technology and Product",
     "active": true,
-    "slug": "eng768",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng768"
   },
   {
     "id": "21acac5a-dbfc-4cdf-b6be-35783bd3ce73",
@@ -1183,8 +1183,8 @@
     "workplaceType": "OnSite",
     "department": "Technology and Product",
     "active": true,
-    "slug": "eng767",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng767"
   },
   {
     "id": "330bae2f-2f9c-4beb-8cf6-322baa997e55",
@@ -1198,8 +1198,8 @@
     "workplaceType": null,
     "department": "Growth",
     "active": true,
-    "slug": "dr6",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "dr6"
   },
   {
     "id": "5034554101",
@@ -1212,8 +1212,8 @@
     "location": "Hong Kong SAR",
     "department": "Unified Quality",
     "active": true,
-    "slug": "eng766",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng766"
   },
   {
     "id": "452fdff8-8408-412b-83d5-f7228eecc1cf",
@@ -1226,8 +1226,8 @@
     "workplaceType": "hybrid",
     "department": "Marketing",
     "active": true,
-    "slug": "sccp",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sccp"
   },
   {
     "id": "c64e0a79-c3a9-4c12-b378-68cd79d3d932",
@@ -1241,8 +1241,8 @@
     "workplaceType": "Remote",
     "department": "Security & IT",
     "active": true,
-    "slug": "sec170",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sec170"
   },
   {
     "id": "026f97dc-e750-4dd8-9e40-f1a99614fae9",
@@ -1256,8 +1256,8 @@
     "workplaceType": "Remote",
     "department": "Security & IT",
     "active": true,
-    "slug": "sec169",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sec169"
   },
   {
     "id": "6a03ce0d-a47c-409b-bc97-d408fa6effb3",
@@ -1271,8 +1271,8 @@
     "workplaceType": "Remote",
     "department": "Security & IT",
     "active": true,
-    "slug": "sec168",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sec168"
   },
   {
     "id": "541054d4-67d7-459d-8818-987154af85cd",
@@ -1286,8 +1286,8 @@
     "workplaceType": "Remote",
     "department": "Security & IT",
     "active": true,
-    "slug": "sec167",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sec167"
   },
   {
     "id": "5016935101",
@@ -1300,8 +1300,8 @@
     "location": "Hong Kong SAR; Kuala Lumpur, Malaysia",
     "department": "APP Business Unit",
     "active": true,
-    "slug": "eng735",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng735"
   },
   {
     "id": "6256113004",
@@ -1314,8 +1314,8 @@
     "location": "Afton, TX",
     "department": "Early Careers",
     "active": true,
-    "slug": "int44",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "int44"
   },
   {
     "id": "6254358004",
@@ -1329,8 +1329,8 @@
     "department": "Data Centers",
     "active": true,
     "salary": "$100k/yr",
-    "slug": "sls473",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls473"
   },
   {
     "id": "5035000101",
@@ -1343,8 +1343,8 @@
     "location": "Singapore",
     "department": "Commercial",
     "active": true,
-    "slug": "eng733",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng733"
   },
   {
     "id": "5034980101",
@@ -1357,8 +1357,8 @@
     "location": "London / Spain / Bulgaria / Poland",
     "department": "Commercial",
     "active": true,
-    "slug": "eng693",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng693"
   },
   {
     "id": "8938102002",
@@ -1371,8 +1371,8 @@
     "location": "London, England, United Kingdom",
     "department": "Commercial",
     "active": true,
-    "slug": "sls313",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls313"
   },
   {
     "id": "5034977101",
@@ -1400,8 +1400,8 @@
     "department": "Compliance & AML Operations",
     "active": true,
     "salary": "€95k/yr",
-    "slug": "cmp167",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "cmp167"
   },
   {
     "id": "8382718",
@@ -1415,8 +1415,8 @@
     "department": "Compliance & AML Operations",
     "active": true,
     "salary": "€67k/yr",
-    "slug": "cmp165",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "cmp165"
   },
   {
     "id": "4a18faf8-2bee-4cf5-bd5f-9fed3d8eebb0",
@@ -1429,8 +1429,8 @@
     "workplaceType": "onsite",
     "department": "AML",
     "active": true,
-    "slug": "mlro4",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mlro4"
   },
   {
     "id": "8928819002",
@@ -1443,8 +1443,8 @@
     "location": "Manilla, Philippines",
     "department": "Commercial",
     "active": true,
-    "slug": "aso93",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "aso93"
   },
   {
     "id": "076703f0-d899-43bb-8db9-4c00c355e6c4",
@@ -1458,8 +1458,8 @@
     "workplaceType": "Remote",
     "department": "Product",
     "active": true,
-    "slug": "pm301",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm301"
   },
   {
     "id": "5032920101",
@@ -1472,8 +1472,8 @@
     "location": "Abu Dhabi, UAE",
     "department": "Payment Business Unit",
     "active": true,
-    "slug": "cpps",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "cpps"
   },
   {
     "id": "5031293101",
@@ -1486,8 +1486,8 @@
     "location": "Abu Dhabi, UAE",
     "department": "Marketing BUIDL",
     "active": true,
-    "slug": "soc",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "soc"
   },
   {
     "id": "b61ce97d-490a-413c-ad32-27703aa7fe6c",
@@ -1500,8 +1500,8 @@
     "workplaceType": "hybrid",
     "department": "Animoca Brands Limited",
     "active": true,
-    "slug": "mkt147",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mkt147"
   },
   {
     "id": "8355374",
@@ -1514,8 +1514,8 @@
     "location": "Singapore",
     "department": "1340 Customer Success Management",
     "active": true,
-    "slug": "mgr183",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mgr183"
   },
   {
     "id": "8201850003",
@@ -1528,8 +1528,8 @@
     "location": "Hong Kong; Singapore",
     "department": "CEO Office",
     "active": true,
-    "slug": "pm300",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm300"
   },
   {
     "id": "5034413101",
@@ -1542,8 +1542,8 @@
     "location": "Singapore",
     "department": "STX - Product",
     "active": true,
-    "slug": "pm299",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm299"
   },
   {
     "id": "8355371",
@@ -1556,8 +1556,8 @@
     "location": "Singapore",
     "department": "1340 Customer Success Management",
     "active": true,
-    "slug": "mgr182",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mgr182"
   },
   {
     "id": "58a6d423-10c2-4e14-8d0f-f99e990e1fa7",
@@ -1570,8 +1570,8 @@
     "workplaceType": "remote",
     "department": "Freelance Roles",
     "active": true,
-    "slug": "ops108",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "ops108"
   },
   {
     "id": "6e73f32b-5892-441f-88d6-8748ad0aeb4d",
@@ -1584,8 +1584,8 @@
     "workplaceType": "hybrid",
     "department": "Trading",
     "active": true,
-    "slug": "tr143",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "tr143"
   },
   {
     "id": "03c1ac7b-de89-4d7f-877c-4001013b82d8",
@@ -1598,8 +1598,8 @@
     "workplaceType": "hybrid",
     "department": "Trading",
     "active": true,
-    "slug": "tr142",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "tr142"
   },
   {
     "id": "5034320101",
@@ -1612,8 +1612,8 @@
     "location": "Kuala Lumpur, Malaysia; Taichung, Taiwan; Taipei, Taiwan",
     "department": "STX - Engineering",
     "active": true,
-    "slug": "eng594",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng594"
   },
   {
     "id": "8938380002",
@@ -1627,8 +1627,8 @@
     "department": "Legal",
     "active": true,
     "salary": "$275k – $320k/yr",
-    "slug": "dgc",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "dgc"
   },
   {
     "id": "8938306002",
@@ -1642,8 +1642,8 @@
     "department": "Legal",
     "active": true,
     "salary": "$220k – $240k/yr",
-    "slug": "cou",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "cou"
   },
   {
     "id": "8355357",
@@ -1656,8 +1656,8 @@
     "location": "Singapore",
     "department": "1640 Product Sales - Payments",
     "active": true,
-    "slug": "sls296",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls296"
   },
   {
     "id": "6ea5ce4e-cc0f-4b1b-8ac5-2ae6c8f15ee3",
@@ -1670,8 +1670,8 @@
     "workplaceType": "hybrid",
     "department": "Communications",
     "active": true,
-    "slug": "ddc2",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "ddc2"
   },
   {
     "id": "6a1963fd-7001-4393-ac40-b8a7f468f29e",
@@ -1684,8 +1684,8 @@
     "workplaceType": "hybrid",
     "department": "Communications",
     "active": true,
-    "slug": "ddc",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "ddc"
   },
   {
     "id": "48c073da-8459-4bbc-9649-f94cf1bb0b17",
@@ -1700,8 +1700,8 @@
     "workplaceType": "OnSite",
     "applyUrl": "https://jobs.ashbyhq.com/story/48c073da-8459-4bbc-9649-f94cf1bb0b17/application",
     "active": true,
-    "slug": "ops178",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "ops178"
   },
   {
     "id": "9f578f01-3978-4f92-b0df-c9b9aff2d4e2",
@@ -1716,8 +1716,8 @@
     "workplaceType": "OnSite",
     "applyUrl": "https://jobs.ashbyhq.com/story/9f578f01-3978-4f92-b0df-c9b9aff2d4e2/application",
     "active": true,
-    "slug": "an142",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "an142"
   },
   {
     "id": "8378507",
@@ -1730,8 +1730,8 @@
     "location": "Singapore",
     "department": "1134 APAC Sales Development Reps",
     "active": true,
-    "slug": "sls295",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls295"
   },
   {
     "id": "06fba783-5f5a-474c-8efc-8662a7a7ea84",
@@ -1746,8 +1746,8 @@
     "workplaceType": "OnSite",
     "applyUrl": "https://jobs.ashbyhq.com/story/06fba783-5f5a-474c-8efc-8662a7a7ea84/application",
     "active": true,
-    "slug": "sls498",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls498"
   },
   {
     "id": "8330789",
@@ -1760,8 +1760,8 @@
     "location": "Auckland, New Zealand",
     "department": "1195 Account Executives (APAC)",
     "active": true,
-    "slug": "sls294",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls294"
   },
   {
     "id": "8372949",
@@ -1845,8 +1845,8 @@
     "source": "Workday: Circle [circle/Circle]",
     "location": "San Francisco - remote first in US",
     "active": true,
-    "slug": "cmp163",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "cmp163"
   },
   {
     "id": "JR101207",
@@ -1857,8 +1857,8 @@
     "source": "Workday: Circle [circle/Circle]",
     "location": "San Francisco - remote first in US",
     "active": true,
-    "slug": "sec153",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sec153"
   },
   {
     "id": "71ce1900dee7",
@@ -1913,8 +1913,8 @@
     "source": "Workday: Brevan Howard [BH_ExternalCareers]",
     "location": "Bangalore",
     "active": true,
-    "slug": "aso92",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "aso92"
   },
   {
     "id": "JR101661",
@@ -1925,8 +1925,8 @@
     "source": "Workday: Brevan Howard [BH_ExternalCareers]",
     "location": "Bangalore",
     "active": true,
-    "slug": "eng589",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng589"
   },
   {
     "id": "7b8ba70c-1760-4609-a057-981dbc7bb652",
@@ -5688,7 +5688,7 @@
     "link": "https://apply.workable.com/j/8BC3363A24",
     "date": "2026-11-09",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Poland",
+    "location": "Bangkok, Thailand",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -5701,7 +5701,7 @@
     "link": "https://apply.workable.com/j/B3897A6BAC",
     "date": "2026-11-09",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
+    "location": "Bangkok, Thailand",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -5836,7 +5836,7 @@
     "link": "https://apply.workable.com/j/2C5DC33098",
     "date": "2026-11-08",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
+    "location": "Bangkok, Thailand",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -7274,28 +7274,6 @@
     "slug": "pm369"
   },
   {
-    "id": "061deb087dd8",
-    "title": "Director of Enterprise Sales, Wealth, FIs & Brokerage - EMEA",
-    "company": "Zero Hash",
-    "link": "https://zero-hash.breezy.hr/p/061deb087dd8-director-of-enterprise-sales-wealth-fis-brokerage-emea",
-    "date": "2026-11-06",
-    "dateVerified": true,
-    "dateSource": "Breezy.JobPosting.datePosted",
-    "source": "Breezy: Zero Hash [zero-hash]",
-    "location": "Remote (United Kingdom)",
-    "isRemote": true,
-    "department": "Revenue",
-    "active": true,
-    "dateEvidence": {
-      "url": "https://zero-hash.breezy.hr/p/061deb087dd8-director-of-enterprise-sales-wealth-fis-brokerage-emea",
-      "checkedAt": "2026-11-07T10:40:42.371Z",
-      "bodySha256": "fa9872a31e536d9bfeb181925450123d6e5e95b190d127072f8d67568569259f",
-      "provider": "breezy",
-      "datePosted": "2026-11-06"
-    },
-    "slug": "sls234"
-  },
-  {
     "id": "148eca65cbd2",
     "title": "Director of Enterprise Sales, Payments - EMEA",
     "company": "Zero Hash",
@@ -7316,6 +7294,28 @@
       "datePosted": "2026-11-06"
     },
     "slug": "sls236"
+  },
+  {
+    "id": "061deb087dd8",
+    "title": "Director of Enterprise Sales, Wealth, FIs & Brokerage - EMEA",
+    "company": "Zero Hash",
+    "link": "https://zero-hash.breezy.hr/p/061deb087dd8-director-of-enterprise-sales-wealth-fis-brokerage-emea",
+    "date": "2026-11-06",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "source": "Breezy: Zero Hash [zero-hash]",
+    "location": "Remote (United Kingdom)",
+    "isRemote": true,
+    "department": "Revenue",
+    "active": true,
+    "dateEvidence": {
+      "url": "https://zero-hash.breezy.hr/p/061deb087dd8-director-of-enterprise-sales-wealth-fis-brokerage-emea",
+      "checkedAt": "2026-11-07T10:40:42.371Z",
+      "bodySha256": "fa9872a31e536d9bfeb181925450123d6e5e95b190d127072f8d67568569259f",
+      "provider": "breezy",
+      "datePosted": "2026-11-06"
+    },
+    "slug": "sls234"
   },
   {
     "id": "infosys-infsys-external-253485",
@@ -9257,8 +9257,8 @@
     "workplaceType": "onsite",
     "department": "Sales",
     "active": true,
-    "slug": "sls292",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls292"
   },
   {
     "id": "8070690",
@@ -9357,8 +9357,8 @@
     "location": "Amsterdam",
     "department": "HR & Recruitment",
     "active": true,
-    "slug": "rec63",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "rec63"
   },
   {
     "id": "4725948006",
@@ -11120,22 +11120,6 @@
     "slug": "pmm2"
   },
   {
-    "id": "D841F3D1AD",
-    "title": "BDM (Affiliates & Partnerships) Europe",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/D841F3D1AD",
-    "date": "2026-11-03T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Remote (Serbia / Spain / Italy / Portugal / Cyprus / France)",
-    "isRemote": true,
-    "department": [
-      "BD"
-    ],
-    "active": true,
-    "dateVerified": true,
-    "slug": "bape"
-  },
-  {
     "id": "B6C4743A0C",
     "title": "BDM (Affiliates & Partnerships) Asia",
     "company": "GoMining",
@@ -11150,6 +11134,22 @@
     "active": true,
     "dateVerified": true,
     "slug": "bapa"
+  },
+  {
+    "id": "D841F3D1AD",
+    "title": "BDM (Affiliates & Partnerships) Europe",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/D841F3D1AD",
+    "date": "2026-11-03T00:00:00.000Z",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Remote (Serbia / Spain / Italy / Portugal / Cyprus / France)",
+    "isRemote": true,
+    "department": [
+      "BD"
+    ],
+    "active": true,
+    "dateVerified": true,
+    "slug": "bape"
   },
   {
     "id": "BED1743981",
@@ -11206,7 +11206,7 @@
     "link": "https://apply.workable.com/j/82D0418695",
     "date": "2026-11-03",
     "source": "Workable: GoMining [gomining]",
-    "location": "Malta",
+    "location": "Armenia",
     "department": "Support",
     "active": true,
     "dateVerified": true,
@@ -12218,19 +12218,6 @@
     "slug": "sls214"
   },
   {
-    "id": "5E5FADBEA0",
-    "title": "Backend Engineer - Money",
-    "company": "Ajaib Crypto",
-    "link": "https://apply.workable.com/j/5E5FADBEA0",
-    "date": "2026-11-02",
-    "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
-    "department": "Engineering",
-    "active": true,
-    "dateVerified": true,
-    "slug": "be99"
-  },
-  {
     "id": "65B230465C",
     "title": "Collection Manager / Senior Manager",
     "company": "Ajaib Crypto",
@@ -12244,17 +12231,17 @@
     "slug": "mgr126"
   },
   {
-    "id": "23E677EEE1",
-    "title": "Senior Backend Engineer II - Money",
+    "id": "5E5FADBEA0",
+    "title": "Backend Engineer - Money",
     "company": "Ajaib Crypto",
-    "link": "https://apply.workable.com/j/23E677EEE1",
+    "link": "https://apply.workable.com/j/5E5FADBEA0",
     "date": "2026-11-02",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
-    "slug": "be97"
+    "slug": "be99"
   },
   {
     "id": "57DA69985E",
@@ -12268,6 +12255,19 @@
     "active": true,
     "dateVerified": true,
     "slug": "be98"
+  },
+  {
+    "id": "23E677EEE1",
+    "title": "Senior Backend Engineer II - Money",
+    "company": "Ajaib Crypto",
+    "link": "https://apply.workable.com/j/23E677EEE1",
+    "date": "2026-11-02",
+    "source": "Workable: Ajaib Crypto [ajaib]",
+    "location": "Bangkok, Thailand",
+    "department": "Engineering",
+    "active": true,
+    "dateVerified": true,
+    "slug": "be97"
   },
   {
     "id": "EE299BDA8C",
@@ -12318,28 +12318,6 @@
     "slug": "adcc"
   },
   {
-    "id": "68ff9c2948ca",
-    "title": "AI Datacenter Electrical / High Voltage Construction Manager",
-    "company": "Bitdeer",
-    "link": "https://bitdeer.breezy.hr/p/68ff9c2948ca-ai-datacenter-electrical-high-voltage-construction-manager",
-    "date": "2026-11-02",
-    "dateVerified": true,
-    "dateSource": "Breezy.JobPosting.datePosted",
-    "source": "Breezy: Bitdeer [bitdeer]",
-    "location": "Columbus, OH",
-    "isRemote": false,
-    "department": "",
-    "active": true,
-    "dateEvidence": {
-      "url": "https://bitdeer.breezy.hr/p/68ff9c2948ca-ai-datacenter-electrical-high-voltage-construction-manager",
-      "checkedAt": "2026-11-04T00:07:21.159Z",
-      "bodySha256": "0d48bf8f480b847432805ba8db91b42d43b237e1d1a807af8974d08e0de49a94",
-      "provider": "breezy",
-      "datePosted": "2026-11-02"
-    },
-    "slug": "mgr224"
-  },
-  {
     "id": "966674063fc9",
     "title": "AI Datacenter Construction Manager",
     "company": "Bitdeer",
@@ -12360,6 +12338,28 @@
       "datePosted": "2026-11-02"
     },
     "slug": "mgr225"
+  },
+  {
+    "id": "68ff9c2948ca",
+    "title": "AI Datacenter Electrical / High Voltage Construction Manager",
+    "company": "Bitdeer",
+    "link": "https://bitdeer.breezy.hr/p/68ff9c2948ca-ai-datacenter-electrical-high-voltage-construction-manager",
+    "date": "2026-11-02",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "source": "Breezy: Bitdeer [bitdeer]",
+    "location": "Columbus, OH",
+    "isRemote": false,
+    "department": "",
+    "active": true,
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/68ff9c2948ca-ai-datacenter-electrical-high-voltage-construction-manager",
+      "checkedAt": "2026-11-04T00:07:21.159Z",
+      "bodySha256": "0d48bf8f480b847432805ba8db91b42d43b237e1d1a807af8974d08e0de49a94",
+      "provider": "breezy",
+      "datePosted": "2026-11-02"
+    },
+    "slug": "mgr224"
   },
   {
     "id": "e89b32dd03f5",
@@ -13302,6 +13302,20 @@
     "slug": "sls373"
   },
   {
+    "id": "8334281",
+    "title": "Customer Support Specialist ll",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8334281?gh_jid=8334281",
+    "date": "2026-10-30T07:19:12-04:00",
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Coinbase [coinbase]",
+    "location": "Manila, Philippines",
+    "department": "Customer Experience",
+    "active": true,
+    "dateVerified": true,
+    "slug": "cssl9"
+  },
+  {
     "id": "5017325101",
     "title": "Banking Operations Intern",
     "company": "StraitsX",
@@ -13891,20 +13905,6 @@
     "active": true,
     "dateVerified": true,
     "slug": "sls365"
-  },
-  {
-    "id": "8334234",
-    "title": "Customer Support Specialist ll",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8334234?gh_jid=8334234",
-    "date": "2026-10-29T14:31:15-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Coinbase [coinbase]",
-    "location": "Manila, Philippines",
-    "department": "Customer Experience",
-    "active": true,
-    "dateVerified": true,
-    "slug": "cssl8"
   },
   {
     "id": "6238590004",
@@ -15950,28 +15950,6 @@
     "slug": "pcac"
   },
   {
-    "id": "62b347cbd2e2",
-    "title": "Regional Account Executive, MaaS (Model as a Service) Sales Junior Middle",
-    "company": "Bitdeer",
-    "link": "https://bitdeer.breezy.hr/p/62b347cbd2e2-regional-account-executive-maas-model-as-a-service-sales-junior-middle",
-    "date": "2026-10-28",
-    "dateVerified": true,
-    "dateSource": "Breezy.JobPosting.datePosted",
-    "source": "Breezy: Bitdeer [bitdeer]",
-    "location": "San Jose, CA",
-    "isRemote": false,
-    "department": "AI Cloud",
-    "active": true,
-    "dateEvidence": {
-      "url": "https://bitdeer.breezy.hr/p/62b347cbd2e2-regional-account-executive-maas-model-as-a-service-sales-junior-middle",
-      "checkedAt": "2026-10-30T03:42:02.721Z",
-      "bodySha256": "fafb95c5acbbd42ab3afcb83ce080a94de074f745d29bb1db1ef9bc30fbaa681",
-      "provider": "breezy",
-      "datePosted": "2026-10-28"
-    },
-    "slug": "sls187"
-  },
-  {
     "id": "cee1769dc482",
     "title": "Regional Account Executive, GPUaaS (GPU as a Service) Sales",
     "company": "Bitdeer",
@@ -15992,6 +15970,28 @@
       "datePosted": "2026-10-28"
     },
     "slug": "sls189"
+  },
+  {
+    "id": "62b347cbd2e2",
+    "title": "Regional Account Executive, MaaS (Model as a Service) Sales Junior Middle",
+    "company": "Bitdeer",
+    "link": "https://bitdeer.breezy.hr/p/62b347cbd2e2-regional-account-executive-maas-model-as-a-service-sales-junior-middle",
+    "date": "2026-10-28",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "source": "Breezy: Bitdeer [bitdeer]",
+    "location": "San Jose, CA",
+    "isRemote": false,
+    "department": "AI Cloud",
+    "active": true,
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/62b347cbd2e2-regional-account-executive-maas-model-as-a-service-sales-junior-middle",
+      "checkedAt": "2026-10-30T03:42:02.721Z",
+      "bodySha256": "fafb95c5acbbd42ab3afcb83ce080a94de074f745d29bb1db1ef9bc30fbaa681",
+      "provider": "breezy",
+      "datePosted": "2026-10-28"
+    },
+    "slug": "sls187"
   },
   {
     "id": "605451fdfa56",
@@ -18265,7 +18265,7 @@
     "link": "https://apply.workable.com/j/2E1DBD4A14",
     "date": "2026-10-26",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Bangkok, Thailand",
+    "location": "Cairo, Egypt",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -18396,7 +18396,7 @@
     "link": "https://apply.workable.com/j/17D23FFBAC",
     "date": "2026-10-24",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
+    "location": "Bangkok, Thailand",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -23381,28 +23381,6 @@
     "slug": "eng400"
   },
   {
-    "id": "3d1118fbc3e2",
-    "title": "Senior Financial Analyst (Financing / Capital Markets)",
-    "company": "Bitdeer",
-    "link": "https://bitdeer.breezy.hr/p/3d1118fbc3e2-senior-financial-analyst-financing-capital-markets",
-    "date": "2026-10-19",
-    "dateVerified": true,
-    "dateSource": "Breezy.JobPosting.datePosted",
-    "source": "Breezy: Bitdeer [bitdeer]",
-    "location": "San Jose, CA",
-    "isRemote": false,
-    "department": "Finance",
-    "active": true,
-    "dateEvidence": {
-      "url": "https://bitdeer.breezy.hr/p/3d1118fbc3e2-senior-financial-analyst-financing-capital-markets",
-      "checkedAt": "2026-11-05T00:30:55.123Z",
-      "bodySha256": "4280a5c4a144ba18935f77ac6029ffda0af314fa4e88742f1b6a08a04be4d049",
-      "provider": "breezy",
-      "datePosted": "2026-10-19"
-    },
-    "slug": "an69"
-  },
-  {
     "id": "cb3893a9140d",
     "title": "Senior Finance Manager / Director of Finance (Financing / Capital Markets)",
     "company": "Bitdeer",
@@ -23423,6 +23401,28 @@
       "datePosted": "2026-10-19"
     },
     "slug": "mgr147"
+  },
+  {
+    "id": "3d1118fbc3e2",
+    "title": "Senior Financial Analyst (Financing / Capital Markets)",
+    "company": "Bitdeer",
+    "link": "https://bitdeer.breezy.hr/p/3d1118fbc3e2-senior-financial-analyst-financing-capital-markets",
+    "date": "2026-10-19",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "source": "Breezy: Bitdeer [bitdeer]",
+    "location": "San Jose, CA",
+    "isRemote": false,
+    "department": "Finance",
+    "active": true,
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/3d1118fbc3e2-senior-financial-analyst-financing-capital-markets",
+      "checkedAt": "2026-11-05T00:30:55.123Z",
+      "bodySha256": "4280a5c4a144ba18935f77ac6029ffda0af314fa4e88742f1b6a08a04be4d049",
+      "provider": "breezy",
+      "datePosted": "2026-10-19"
+    },
+    "slug": "an69"
   },
   {
     "id": "5009500101",
@@ -23493,8 +23493,8 @@
     "location": "San Francisco, Seattle, Remote (US)",
     "department": "8126 Developer Infrastructure",
     "active": true,
-    "slug": "eng585",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng585"
   },
   {
     "id": "8036167003",
@@ -25696,28 +25696,6 @@
     "slug": "eng201"
   },
   {
-    "id": "4bfdd67fe181",
-    "title": "Senior Blockchain Engineer",
-    "company": "Zero Hash",
-    "link": "https://zero-hash.breezy.hr/p/4bfdd67fe181-senior-blockchain-engineer",
-    "date": "2026-10-15",
-    "dateVerified": true,
-    "dateSource": "Breezy.JobPosting.datePosted",
-    "source": "Breezy: Zero Hash [zero-hash]",
-    "location": "Remote (United States)",
-    "isRemote": true,
-    "department": "Engineering",
-    "active": true,
-    "dateEvidence": {
-      "url": "https://zero-hash.breezy.hr/p/4bfdd67fe181-senior-blockchain-engineer",
-      "checkedAt": "2026-10-16T03:33:45.236Z",
-      "bodySha256": "d1d0cfe4dd0d3aaec047fecc0f863c7d9f2575791b611be75b12e010fd6e54ed",
-      "provider": "breezy",
-      "datePosted": "2026-10-15"
-    },
-    "slug": "eng327"
-  },
-  {
     "id": "c00124c46538",
     "title": "Senior Software Engineer",
     "company": "Zero Hash",
@@ -25738,6 +25716,28 @@
       "datePosted": "2026-10-15"
     },
     "slug": "eng608"
+  },
+  {
+    "id": "4bfdd67fe181",
+    "title": "Senior Blockchain Engineer",
+    "company": "Zero Hash",
+    "link": "https://zero-hash.breezy.hr/p/4bfdd67fe181-senior-blockchain-engineer",
+    "date": "2026-10-15",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "source": "Breezy: Zero Hash [zero-hash]",
+    "location": "Remote (United States)",
+    "isRemote": true,
+    "department": "Engineering",
+    "active": true,
+    "dateEvidence": {
+      "url": "https://zero-hash.breezy.hr/p/4bfdd67fe181-senior-blockchain-engineer",
+      "checkedAt": "2026-10-16T03:33:45.236Z",
+      "bodySha256": "d1d0cfe4dd0d3aaec047fecc0f863c7d9f2575791b611be75b12e010fd6e54ed",
+      "provider": "breezy",
+      "datePosted": "2026-10-15"
+    },
+    "slug": "eng327"
   },
   {
     "id": "8e9d4ba5-92f9-48f4-925d-090fd5d6e303",
@@ -26343,20 +26343,5 @@
     "active": true,
     "dateVerified": true,
     "slug": "mgr95"
-  },
-  {
-    "id": "d62250a9-363c-43b0-b3de-958e3cc9f97b",
-    "title": "Senior Software Engineer – AI Infrastructure",
-    "company": "Kraken",
-    "link": "https://jobs.ashbyhq.com/kraken.com/d62250a9-363c-43b0-b3de-958e3cc9f97b",
-    "date": "2026-10-14T11:47:44.625+00:00",
-    "source": "Ashby: Kraken [kraken.com]",
-    "location": "Remote (United Kingdom)",
-    "isRemote": true,
-    "workplaceType": "Remote",
-    "department": "Engineering",
-    "active": true,
-    "dateVerified": true,
-    "slug": "infra43"
   }
 ]
