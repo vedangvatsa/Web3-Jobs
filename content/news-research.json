@@ -172071,7 +172071,23 @@
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
       "attempts": 0,
       "expiresAt": "2026-11-15T22:47:41.000Z",
-      "lastSeenAt": "2026-11-13T11:28:25.584Z"
+      "lastSeenAt": "2026-11-13T11:28:25.584Z",
+      "articleSlug": "trumpnomsdup",
+      "draftProgress": {
+        "id": "1aa5e0951ef94ee88f4e",
+        "day": "2026-11-13",
+        "articleSlug": "trumpnomsdup",
+        "note": "Round 6: same event as candidate eeb0a1c4112118b24f1a (Trump SEC/CFTC nominees; White House Nov 12 list and Cointelegraph both read under that candidate). CoinDesk URL HTTP 429. This is a duplicate lead: once secnoms passes its word-count gate and is recorded ready, record this id as rejected reason=duplicate duplicate=secnoms. Slug is a placeholder for checkpoint ownership only.",
+        "sourceChecks": [
+          {
+            "url": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-13T12:43:21.658Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "428b39c8ae1d6ad2cb31": {
       "source": "Bitcoin Magazine",
