@@ -165095,7 +165095,7 @@
         "id": "cbac3488c586163a8a22",
         "day": "2026-11-14",
         "articleSlug": "aavebtcvote",
-        "note": "Round 5: read CryptoSlate Nov. 11 full text (ARFC passed Nov. 9 per Babylon Labs, 100% support, $21M Core Hub limits, 78% collateral factor, final AIP still required, liquidation/WBTC settlement risks) and TokenPost Nov. 10 full text (100% votes for, 78% collateral ratio, 0% risk premium, about $21M capacity, AIP stage, mainnet targeted end of 2026, restricted rollout). CoinMarketCap page also fetched 200. Existing aavebtc.md is the Oct. 28 borrowing-limit change - different event, not a duplicate. Draft not started; next: write aavebtcvote draft citing CryptoSlate + TokenPost, get image.",
+        "note": "Round 6 checkpoint: CryptoSlate and TokenPost read earlier today; draft not started this round. Resume: recheck sources, write aavebtcvote, get image.",
         "sourceChecks": [
           {
             "url": "https://cryptoslate.com/aave-passes-native-bitcoin-lending-proposal-but-hidden-liquidation-risks-remain/",
@@ -165106,7 +165106,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-14T01:30:12.951Z",
+        "updatedAt": "2026-11-14T01:37:52.987Z",
         "approved": false,
         "mustReview": true
       }
