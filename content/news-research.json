@@ -172682,20 +172682,20 @@
       "articleSlug": "binancefull",
       "draftProgress": {
         "id": "fb88d655f7d0c67b685f",
-        "day": "2026-11-13",
+        "day": "2026-11-14",
         "articleSlug": "binancefull",
-        "note": "Round 6: rechecked Bitcoin Magazine full read (coverage complete claim, 198-token proof-of-reserves snapshot Nov 12, ZK proof 40-50 hours, phased withdrawals, SAFU replenish to B) and Cointelegraph DOJ article (seizure authorization, coverage claim on X). Hero image present. Draft not started.",
+        "note": "Round 4: re-read Bitcoin Magazine in full (completed coverage claim Nov. 12, .34B company funds via SAFU partial draw + futures insurance + treasury, SAFU replenish to ~B, 198-token PoR snapshot 00:00 UTC Nov. 12 vs 10 tokens Oct. 31, ZK proof 40-50 hours, phased withdrawals since Nov. 1, no stolen-asset recovery figure, no attacker named). Existing binancecover.md covers the earlier set-aside, not the completion - not a duplicate. The Defiant 403; still need a second readable independent source (candidate: cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme corroborates coverage claim on X) then write draft.",
         "sourceChecks": [
           {
             "url": "https://bitcoinmagazine.com/news/binance-covers-6-34-billion-hack",
             "outcome": "read"
           },
           {
-            "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme",
-            "outcome": "read"
+            "url": "https://thedefiant.io/news/hacks/binance-says-hack-assets-covered-reserve-proof-pending",
+            "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-11-13T12:42:43.903Z",
+        "updatedAt": "2026-11-14T01:16:04.677Z",
         "approved": false,
         "mustReview": true
       }
