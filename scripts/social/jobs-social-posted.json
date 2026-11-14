@@ -136928,6 +136928,35 @@
       "verification": "pending",
       "postId": "6af8b85de86a5789a6ca03d0",
       "error": "Buffer X publish failed for 6af8b85de86a5789a6ca03d0: An unknown error has occurred. Please retry the post again, and get in touch if this persists."
+    },
+    {
+      "slug": "rec62",
+      "company": "BTSE",
+      "title": "HR Operations Associate (Payroll)",
+      "platform": "threads",
+      "postedAt": "2026-11-14T19:36:56.030Z",
+      "expectedText": "BTSE is hiring HR Operations Associate (Payroll): https://hashtagweb3.com/rec62/th?og=7",
+      "snapshot": {
+        "id": "2d3152b1-bcea-4ae0-b998-0348944a7d37",
+        "title": "HR Operations Associate (Payroll)",
+        "company": "BTSE",
+        "link": "https://jobs.lever.co/BTSE/2d3152b1-bcea-4ae0-b998-0348944a7d37",
+        "date": "2026-11-04T03:37:49.258Z",
+        "source": "Lever: BTSE [BTSE]",
+        "location": "Taipei",
+        "workplaceType": "onsite",
+        "department": "BTSE",
+        "active": true,
+        "dateVerified": true,
+        "dateSource": "Lever.createdAt",
+        "slug": "rec62"
+      },
+      "payload": {
+        "text": "BTSE is hiring HR Operations Associate (Payroll): https://hashtagweb3.com/rec62/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/rec62/th?og=7"
+      },
+      "attemptId": "142d63b0-660e-4ed1-8fb3-9ae401207c82",
+      "verification": "creating"
     }
   ]
 }
