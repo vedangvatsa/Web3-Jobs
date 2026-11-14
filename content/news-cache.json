@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-11-13T19:31:20.959Z",
+  "generatedAt": "2026-11-14T00:24:56.370Z",
   "items": [
+    {
+      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+      "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+      "pubDate": "Fri, 13 Nov 2026 23:30:00 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls t...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Binance Expands to Stocks and ETFs, Launches Tokenized Securities",
+      "link": "https://blockchain.news/news/binance-expands-stocks-etfs-tokenized-securities",
+      "pubDate": "Fri, 13 Nov 2026 22:14:24 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Binance integrates 7,000+ U.S. stocks and ETFs alongside crypto, offering 24/5 trading and tokenized securities, expanding its multi-asset platform. (...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+      "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 13 Nov 2026 21:49:27 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security t...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
+      "link": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 13 Nov 2026 21:01:39 +0000",
+      "creator": "Cointelegraph",
+      "contentSnippet": "Payward’s adjusted EBITDA fell 66% year over year to $60 million, even as its share of global spot trading nearly doubled and fee-based services expan...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
+      "link": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 13 Nov 2026 20:53:20 +0000",
+      "creator": "Adrian Zmudzinski",
+      "contentSnippet": "Coinbase’s trust company received final clearance as lawmakers seek records on crypto firms’ compliance and potential conflicts of interest.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
+      "link": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion",
+      "pubDate": "Fri, 13 Nov 2026 20:16:03 +0000",
+      "creator": "Staff",
+      "contentSnippet": "The bank’s Q3 13F shows roughly $981 million across Bitcoin ETFs, Strategy and Coinbase—likely over $1 billion counting Robinhood and miners.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
+      "link": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years",
+      "pubDate": "Fri, 13 Nov 2026 19:36:03 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Two Bitcoin mining rewards from September 2010 moved minutes apart. The coins are worth nearly 1.15 million times their original market value.",
+      "source": "Decrypt"
+    },
     {
       "title": "CFTC’s Selig accuses states of trying to ‘lock up’ prediction market founders",
       "link": "https://www.theblock.co/news/regulation/2026-11-13-cftcs-selig-accuses-states-trying-lock-up-prediction-market-founders-440199",
@@ -90,14 +146,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "Kraken parent Payward posts 66% drop in Q3 adjusted EBITDA, plans US prediction markets and personal finance AI agent",
-      "link": "https://www.theblock.co/news/business/2026-11-13-kraken-parent-payward-posts-66-drop-in-q3-adjusted-ebitda-plans-us-prediction-markets-and-personal-finance-ai-agent-439721",
-      "pubDate": "Fri, 13 Nov 2026 15:31:22 +0000",
-      "creator": "James Hunt",
-      "contentSnippet": "Kraken parent Payward’s third-quarter adjusted EBITDA fell about two-thirds year over year to $60 million, while funded accounts grew 37%.",
-      "source": "The Block"
-    },
-    {
       "title": "Tether-backed Twenty One Capital reports $1.09 billion Q3 net income on bitcoin gains",
       "link": "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
       "pubDate": "Fri, 13 Nov 2026 14:50:49 +0000",
@@ -136,14 +184,6 @@
       "creator": "Ryan Gladwin",
       "contentSnippet": "Cardano's ADA token is down almost 95% from its all-time high, and investors don't seem to be happy that the roadmap is complete.",
       "source": "Decrypt"
-    },
-    {
-      "title": "From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years",
-      "link": "https://www.theblock.co/news/markets/2026-11-13-from-6-to-6-9-million-two-dormant-bitcoin-addresses-wake-up-to-move-100-btc-after-more-than-16-years-439698",
-      "pubDate": "Fri, 13 Nov 2026 13:34:46 +0000",
-      "creator": "James Hunt",
-      "contentSnippet": "Two Bitcoin whale addresses moved 100 BTC worth $6.89 million after more than 16 years of dormancy on Friday.",
-      "source": "The Block"
     },
     {
       "title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
@@ -298,27 +338,11 @@
       "source": "Blockchain.News"
     },
     {
-      "title": "Binance Expands to Multi-Asset Trading with Stocks and Tokenized Securities",
-      "link": "https://blockchain.news/news/binance-multi-asset-trading-stocks-tokenized-securities",
-      "pubDate": "Fri, 13 Nov 2026 02:33:10 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Binance now offers 7,000+ U.S. stocks and ETFs alongside crypto, enabling 24/5 trading and tokenized securities settled in stablecoins. (Read More)",
-      "source": "Blockchain.News"
-    },
-    {
       "title": "Binance Square Launches Leaderboards to Highlight Top Traders",
       "link": "https://blockchain.news/news/binance-square-leaderboards-top-traders",
       "pubDate": "Fri, 13 Nov 2026 02:25:10 GMT",
       "creator": "Blockchain.News",
       "contentSnippet": "Binance Square introduces four leaderboards ranking traders by performance, enabling users to identify top performers and follow their trades. (Read M...",
-      "source": "Blockchain.News"
-    },
-    {
-      "title": "Tether Gold (XAU₮) Completes Big Four Audit with KPMG Approval",
-      "link": "https://blockchain.news/news/tether-gold-xaut-big-four-audit-kpmg",
-      "pubDate": "Fri, 13 Nov 2026 00:47:10 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "KPMG U.S. issues an unqualified audit opinion for Tether Gold (XAU₮), confirming full backing by $2.246 billion in allocated physical gold. (Read More...",
       "source": "Blockchain.News"
     },
     {
@@ -386,14 +410,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Avalanche Owns Five Percent of Tokenized Stocks",
-      "link": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-12-avalanche-owns-five-percent-tokenized-stocks-437310",
-      "pubDate": "Thu, 12 Nov 2026 20:02:00 +0000",
-      "creator": "Ian Devendorf",
-      "contentSnippet": "One Venue, One Chain Over this past week, three U.S. tokenized stock venues picked three different blockchains to launch on. The WSJ reported Monday t...",
-      "source": "The Block"
-    },
-    {
       "title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
       "link": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
       "pubDate": "Thu, 12 Nov 2026 16:45:52 +0000",
@@ -415,6 +431,14 @@
       "pubDate": "Thu, 12 Nov 2026 16:01:03 +0000",
       "creator": "Staff",
       "contentSnippet": "Visa and eligible companies can now use Western Union’s USDPT—issued and custodied by the federally chartered Anchorage Digital Bank—to settle VisaNet...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Tether Gold Gets Clean KPMG Audit Confirming $2.2B in Physical Gold Backing",
+      "link": "https://decrypt.co/383137/tether-gold-gets-clean-kpmg-audit-confirming-2-2b-in-physical-gold-backing",
+      "pubDate": "Thu, 12 Nov 2026 15:55:38 +0000",
+      "creator": "Agent",
+      "contentSnippet": "KPMG counted every gold bar behind XAUT, making it Tether's second stablecoin to complete a full audit by a Big Four accounting firm.",
       "source": "Decrypt"
     },
     {
@@ -450,28 +474,12 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
-      "link": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 12 Nov 2026 13:30:00 +0000",
-      "creator": "Christina Comben",
-      "contentSnippet": "L1 blockchains Zilliqa, Gnosis and Ronin join the Ethereum ecosystem as the costs of going it alone grow, and the security and liquidity advantages be...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Morning Minute: Tokenized Stock Venues Are Launching Without Big Tech’s Approval",
       "link": "https://decrypt.co/383129/morning-minute-tokenized-stock-venues-are-launching-without-big-techs-approval",
       "pubDate": "Thu, 12 Nov 2026 13:06:24 +0000",
       "creator": "Tyler Warner",
       "contentSnippet": "Plus, a second Jensen Huang affair is rocking markets while MSCI’s MSTR removal decision sends crypto lower.",
       "source": "Decrypt"
-    },
-    {
-      "title": "EU DeFi proposals could push users to riskier platforms, says Coinbase exec",
-      "link": "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 12 Nov 2026 12:21:43 +0000",
-      "creator": "Helen Partz",
-      "contentSnippet": "Coinbase’s EU policy chief says applying suitability tests beyond crypto lending and borrowing could limit access and fragment liquidity.",
-      "source": "Cointelegraph"
     },
     {
       "title": "Bitcoin weakness erases September's bullish signal",
@@ -498,20 +506,12 @@
       "source": "Coindesk"
     },
     {
-      "title": "Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022",
-      "link": "https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 12 Nov 2026 11:38:50 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Crypto markets were left with “less fuel” to rally after the market cap of major stablecoins saw its biggest 30-day drop in over four years.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
-      "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
-      "pubDate": "Thu, 12 Nov 2026 11:30:00 +0000",
-      "creator": "Oliver Knight",
-      "contentSnippet": "Bitcoin slips 0.7% as Nvidia falls on reports its board may oust CEO Jensen Huang, while U.S. spot bitcoin ETFs lose another $299.9 million.",
-      "source": "Coindesk"
+      "title": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
+      "link": "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk",
+      "pubDate": "Thu, 12 Nov 2026 11:24:19 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Spot Bitcoin ETFs have lost almost half their peak assets, but analysts say the outflows don't yet show a collapse in demand.",
+      "source": "Decrypt"
     },
     {
       "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
@@ -559,22 +559,6 @@
       "pubDate": "Wed, 11 Nov 2026 17:09:18 +0000",
       "creator": "Agent",
       "contentSnippet": "Solana Privacy Rings encrypt balances and transfer amounts without leaving Solana. Here's how they work, and how they compare.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "A High-Severity Bug Could Have Stalled Bitcoin Mining—Bitcoin Core Has a Fix",
-      "link": "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining",
-      "pubDate": "Wed, 11 Nov 2026 16:58:57 +0000",
-      "creator": "Staff",
-      "contentSnippet": "Three bugs—spanning denial-of-service and privacy issues rather than coin theft—have all been patched, with the most serious capable of halting a mine...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Decrypt Becomes First News Publisher to Offer Perps Trading, Powered by Solana's Phoenix",
-      "link": "https://decrypt.co/382992/decrypt-becomes-first-news-publisher-to-offer-perps-trading-powered-by-solanas-phoenix",
-      "pubDate": "Wed, 11 Nov 2026 14:02:55 +0000",
-      "creator": "Staff",
-      "contentSnippet": "The integration brings perpetual futures trading into Decrypt, so readers can trade crypto, stocks and commodities without leaving the news.",
       "source": "Decrypt"
     }
   ]
