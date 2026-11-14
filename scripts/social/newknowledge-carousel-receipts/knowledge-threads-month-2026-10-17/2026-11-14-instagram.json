@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-11-14",
+    "threadId": "C10",
+    "sequence": 28,
+    "platform": "instagram",
+    "sourceContentSha256": "1cbe2f93ef8c2be5086df627ff8374c4090b8f42aebe30623ae69d6c3176c55f",
+    "calendarSha256": "70484da3b7319ebb706092e37759daf11ea4a58df5a9beadef96d8dd5ada9ebc",
+    "sourceThreadSha256": "8c56ddb21d71f4cbac5d7f9af484a46891b3ab521f1c6587aabed82e12722375",
+    "sourcePostHashes": [
+      "17b4e5cdd1dab56ec505a6b64bf6d8c34e2c1f462799c6e8508feb3f434ea93c",
+      "e7f198b114b1196867d3e6e0b2555bcf3b24d53b5e2043bbe4ea8969a16f75a1",
+      "ef598630a618d165efcb829c456a8c24511a5718d807a4b48476d6978fd93c2d",
+      "255276c41dd0f3d0e1a0f8c64b228b95c3a6024e3fa1921e30e69a229addb737",
+      "f0f0a2b239fb44e2c98afc4ae39bd63b59cb5961095be9159ef0a48d7089b685",
+      "a02bab4941c8676a407b2286a06c692dbed4ba63e06e51a1add298880f856011"
+    ],
+    "sourceImages": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/C10-01.jpg",
+        "sha256": "01ded8d24ecaf761e2979442a00bcb8e93278589ae66c48e7b1d966592ad5757",
+        "bytes": 158875,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Citizenship directory cards compare costs for one main applicant. Dominica: USD 200,000 EDF contribution plus four fees totaling USD 10,000 gives a USD 210,000 subtotal. Egypt: USD 500,000 deposit capital plus USD 10,000 application fee; capital is repaid in EGP. Unlisted professional, document and transaction costs are extra.",
+        "renderedText": "Citizenship costs\n\nContribution or deposit\n\nOne main applicant · Published currencies · Fees extra\n\nDominica\n\nEDF USD 200,000 + four listed fees USD 10,000 = USD 210,000 subtotal.\n\nEgypt\n\nUSD 500,000 deposit capital + USD 10,000 application fee. Capital repayment is in EGP.\n\nUnlisted professional, document and transaction costs remain extra.\n\nHashtag Web3 · Official program rules\n\nC10 · 1/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C10-02.jpg",
+        "sha256": "87db654eea1378f19ab310fb6117b5f388e6d3503ee5ed608056a27413ccfac2",
+        "bytes": 144078,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Dominica flag and single-applicant cost table in USD: EDF contribution 200,000; processing 1,000; due diligence 7,500; naturalisation certificate 500; interview 1,000. Subtotal: 210,000. Agent, passport, bank and any enhanced-check costs are extra.",
+        "renderedText": "Citizenship costs\n\nItemized costs: Dominica\n\nOne main applicant · USD · Listed fees\n\nEDF contribution\n200,000\nProcessing\n1,000\nDue diligence\n7,500\nNaturalisation certificate\n500\nInterview\n1,000\n\nUSD 210,000 subtotal\n\nAgent, passport, bank and any enhanced-check costs remain extra.\n\nHashtag Web3 · Official program rules\n\nC10 · 2/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C10-03.jpg",
+        "sha256": "ad777ed06889b75dc6e80b973419cd3d4eadbd7148d63ede2fcb127de73201da",
+        "bytes": 139227,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Antigua and Barbuda flag and single-applicant cost table in USD: NDF contribution 230,000; processing 10,000; due diligence 8,500; passport 300. Subtotal: 248,800, with agent charges extra.",
+        "renderedText": "Citizenship costs\n\nItemized costs: Antigua and Barbuda\n\nOne main applicant · USD · Listed fees\n\nNDF contribution\n230,000\nProcessing\n10,000\nDue diligence\n8,500\nPassport\n300\n\nUSD 248,800 subtotal\n\nSingle applicant. Agent charges additional.\n\nHashtag Web3 · Official program rules\n\nC10 · 3/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C10-04.jpg",
+        "sha256": "025807e94b9516d733859c6cfdea400b23b397541abc08562f78888b10ddd5a1",
+        "bytes": 164244,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Sao Tome and Principe flag and single-applicant cost table in USD: donation 90,000; submission 5,000; citizenship documents 750. Subtotal: 95,750. Documents include registration certificate, passport and national ID. Sponsored applications add 5,000 for benefactor due diligence; agent costs are extra.",
+        "renderedText": "Citizenship costs\n\nItemized costs: Sao Tome and Principe\n\nOne main applicant · USD · Listed fees\n\nDonation\n90,000\nSubmission\n5,000\nCitizenship documents\n750\n\nUSD 95,750 subtotal\n\nUSD 750 includes registration certificate, passport and national ID. Sponsored applications add USD 5,000 benefactor due diligence; agent costs extra.\n\nHashtag Web3 · Official program rules\n\nC10 · 4/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C10-05.jpg",
+        "sha256": "1a06d2714db5e70dd55d247b241cdba840592bd60064099e2e759b19a448fc7d",
+        "bytes": 157846,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Saint Lucia flag and single-applicant bond costs in USD: capital 300,000; administration 50,000; processing 2,000; due diligence 8,000. Subtotal: 360,000. Bonds must be held 5 years and earn no interest; fees are separate from capital. A declaration of at least USD 350,000 in financial resources also applies. Other costs excluded.",
+        "renderedText": "Citizenship costs\n\nItemized costs: Saint Lucia\n\nOne main applicant · USD · Listed fees\n\nBond capital\n300,000\nAdministration\n50,000\nProcessing\n2,000\nDue diligence\n8,000\n\nUSD 360,000 subtotal\n\nBonds: 5 years, no interest. Fees are separate from capital. USD 350,000 financial-resources declaration also applies; other costs excluded.\n\nHashtag Web3 · Official program rules\n\nC10 · 5/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C10-06.jpg",
+        "sha256": "8a571a1285c6a42ee12eb3212e40dc097a887356e7c7e6e3e5fe50aaeb853601",
+        "bytes": 142183,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Egypt flag and single-applicant cost table: USD 500,000 deposit capital plus USD 10,000 non-refundable application fee, totaling USD 510,000 upfront. The deposit is repaid after 3 years in Egyptian pounds at the Central Bank rate on the repayment date, without interest.",
+        "renderedText": "Citizenship costs\n\nItemized costs: Egypt\n\nOne main applicant · USD · Listed fees\n\nDeposit capital\n500,000\nNon-refundable application fee\n10,000\n\nUSD 510,000 subtotal\n\nDeposit repayment after 3 years in Egyptian pounds at the Central Bank rate on repayment. No interest; no promise of repayment in USD.\n\nHashtag Web3 · Official program rules\n\nC10 · 6/6"
+      }
+    ],
+    "assetCommit": "6756441af1cd3b67877c1d8067546f80092f24a9",
+    "target": {
+      "accountId": "17841473830256790",
+      "username": "hashtagweb3",
+      "service": "instagram"
+    },
+    "caption": "Five citizenship cost comparisons for one main applicant.\n\nDominica: USD 200,000 fund + 4 fees = USD 210,000. Subtotals exclude unlisted professional, document and transaction costs.\n\n1. Dominica EDF: USD 200,000 + 1,000 processing + 7,500 due diligence + 500 certificate + 1,000 interview = USD 210,000.\n\nAgent, passport, bank and any enhanced-check costs are extra.\n\n2. Antigua and Barbuda NDF, single applicant:\nUSD 230,000 + 10,000 processing + 8,500 due diligence + 300 passport = USD 248,800.\n\nAgent charges extra.\n\n3. Sao Tome and Principe: USD 90,000 donation + 5,000 submission + 750 citizenship documents = USD 95,750 before agent costs.\n\nSponsored applications add USD 5,000 benefactor due diligence.\n\n4. Saint Lucia bonds: USD 300,000 capital + 50,000 administration + 2,000 processing + 8,000 due diligence = USD 360,000 before other costs.\n\nBonds earn no interest and must be held 5 years; fees are separate.\n\n5. Egypt: USD 500,000 Central Bank deposit + USD 10,000 non-refundable application fee = USD 510,000 upfront.\n\nDeposit repaid after 3 years in Egyptian pounds at the Central Bank rate on repayment, without interest.\n\nFull resource: hashtagweb3.com/citizenship/ig",
+    "images": [
+      {
+        "path": "social-assets/knowledge-threads-month/exports/C10/instagram/01.jpg",
+        "sha256": "f91899e272162460cbf1ac868a67145e73df0c6d39ef48de009b4418e768e59d",
+        "bytes": 145050,
+        "width": 1080,
+        "height": 1350,
+        "alt": "Citizenship directory cards compare costs for one main applicant. Dominica: USD 200,000 EDF contribution plus four fees totaling USD 10,000 gives a USD 210,000 subtotal. Egypt: USD 500,000 deposit capital plus USD 10,000 application fee; capital is repaid in EGP. Unlisted professional, document and transaction costs are extra.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/6756441af1cd3b67877c1d8067546f80092f24a9/social-assets/knowledge-threads-month/exports/C10/instagram/01.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/exports/C10/instagram/02.jpg",
+        "sha256": "11d53a27467211d743e7f38680fc6a951d63e769f8339bd3c6247dcef333955f",
+        "bytes": 130681,
+        "width": 1080,
+        "height": 1350,
+        "alt": "Dominica flag and single-applicant cost table in USD: EDF contribution 200,000; processing 1,000; due diligence 7,500; naturalisation certificate 500; interview 1,000. Subtotal: 210,000. Agent, passport, bank and any enhanced-check costs are extra.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/6756441af1cd3b67877c1d8067546f80092f24a9/social-assets/knowledge-threads-month/exports/C10/instagram/02.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/exports/C10/instagram/03.jpg",
+        "sha256": "9b138dab5ded66019c6464531bd2c437eb971c8d8eb747842b2bc806b99dc158",
+        "bytes": 129258,
+        "width": 1080,
+        "height": 1350,
+        "alt": "Antigua and Barbuda flag and single-applicant cost table in USD: NDF contribution 230,000; processing 10,000; due diligence 8,500; passport 300. Subtotal: 248,800, with agent charges extra.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/6756441af1cd3b67877c1d8067546f80092f24a9/social-assets/knowledge-threads-month/exports/C10/instagram/03.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/exports/C10/instagram/04.jpg",
+        "sha256": "2cc93d1591e3dcd924b831a1fec368fe72798012f805f8f570884e68fb272220",
+        "bytes": 146696,
+        "width": 1080,
+        "height": 1350,
+        "alt": "Sao Tome and Principe flag and single-applicant cost table in USD: donation 90,000; submission 5,000; citizenship documents 750. Subtotal: 95,750. Documents include registration certificate, passport and national ID. Sponsored applications add 5,000 for benefactor due diligence; agent costs are extra.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/6756441af1cd3b67877c1d8067546f80092f24a9/social-assets/knowledge-threads-month/exports/C10/instagram/04.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/exports/C10/instagram/05.jpg",
+        "sha256": "574366745f24348915ee9ea798f3ccac8199ad5f1e5542399aadbd21b2225364",
+        "bytes": 145501,
+        "width": 1080,
+        "height": 1350,
+        "alt": "Saint Lucia flag and single-applicant bond costs in USD: capital 300,000; administration 50,000; processing 2,000; due diligence 8,000. Subtotal: 360,000. Bonds must be held 5 years and earn no interest; fees are separate from capital. A declaration of at least USD 350,000 in financial resources also applies. Other costs excluded.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/6756441af1cd3b67877c1d8067546f80092f24a9/social-assets/knowledge-threads-month/exports/C10/instagram/05.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/exports/C10/instagram/06.jpg",
+        "sha256": "cd6a6d99ab068f42756738b954eb28755554bc7edb1324f701f17256b7b7143a",
+        "bytes": 131837,
+        "width": 1080,
+        "height": 1350,
+        "alt": "Egypt flag and single-applicant cost table: USD 500,000 deposit capital plus USD 10,000 non-refundable application fee, totaling USD 510,000 upfront. The deposit is repaid after 3 years in Egyptian pounds at the Central Bank rate on the repayment date, without interest.",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/6756441af1cd3b67877c1d8067546f80092f24a9/social-assets/knowledge-threads-month/exports/C10/instagram/06.jpg"
+      }
+    ],
+    "transport": "meta"
+  },
+  "account": {
+    "accountId": "17841473830256790",
+    "username": "hashtagweb3",
+    "service": "instagram"
+  },
+  "claimId": "48049071-526e-4dbc-a926-c4f9b4b3333e",
+  "startedAt": "2026-11-14T11:31:39.898Z",
+  "status": "claimed",
+  "children": {}
+}
