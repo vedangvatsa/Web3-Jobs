@@ -157202,5 +157202,93 @@
     "company": "Fireblocks",
     "title": "Sales Director, Payments",
     "newSlug": "sls505"
+  },
+  "mkt116": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "company": "Ripio",
+    "title": "Marketing Operations & CRM Senior",
+    "newSlug": "mkt152"
+  },
+  "sls303": {
+    "id": "9c249990-643c-4793-9917-cb5ca3be2883",
+    "link": "https://jobs.ripio.com/jobs/8560977-vp-of-global-business-development",
+    "company": "Ripio",
+    "title": "VP of Global Business Development",
+    "newSlug": "sls507"
+  },
+  "cmp130": {
+    "id": "351",
+    "link": "https://fasset.bamboohr.com/careers/351",
+    "company": "Fasset",
+    "title": "Compliance Operations Associate",
+    "newSlug": "cmp177"
+  },
+  "da3": {
+    "id": "e1d3b43d-4208-4bbe-a4b0-2115037e3874",
+    "link": "https://jobs.lever.co/1inch/e1d3b43d-4208-4bbe-a4b0-2115037e3874",
+    "company": "1inch",
+    "title": "Data & Analytics Lead"
+  },
+  "ti5": {
+    "id": "892fedee-03b9-4b82-a2ce-720dada161ad",
+    "link": "https://jobs.lever.co/1inch/892fedee-03b9-4b82-a2ce-720dada161ad",
+    "company": "1inch",
+    "title": "Tech Lead, iOS"
+  },
+  "des7": {
+    "id": "147d0ac4-56cc-43f3-9770-d8e9dbed24b8",
+    "link": "https://jobs.ashbyhq.com/0x/147d0ac4-56cc-43f3-9770-d8e9dbed24b8",
+    "company": "0x",
+    "title": "Senior Brand Designer"
+  },
+  "mkt125": {
+    "id": "8034314003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8034314003",
+    "company": "OKX",
+    "title": "(Senior) Growth Manager, Web3"
+  },
+  "diam": {
+    "id": "d8e17ce3-3336-465e-97db-857b76ab2d1e",
+    "link": "https://ats.rippling.com/riot-platforms-careers/jobs/d8e17ce3-3336-465e-97db-857b76ab2d1e",
+    "company": "Riot Platforms",
+    "title": "Director, Identity & Access Management (IAM)"
+  },
+  "eng610": {
+    "id": "9fd110f4-cf41-4434-adc2-c975918cd28e",
+    "link": "https://ats.rippling.com/riot-platforms-careers/jobs/9fd110f4-cf41-4434-adc2-c975918cd28e",
+    "company": "Riot Platforms",
+    "title": "Senior Engineer, Identity & Access Management (IAM)"
+  },
+  "ci": {
+    "id": "8034282003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8034282003",
+    "company": "OKX",
+    "title": "Head of Corporate Investigations"
+  },
+  "pm311": {
+    "id": "6221631004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6221631004",
+    "company": "Alpaca",
+    "title": "Product Manager, Digital Assets - Crypto"
+  },
+  "dgce": {
+    "id": "8034261003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8034261003",
+    "company": "OKX",
+    "title": "Deputy General Counsel, Employment Law"
+  },
+  "aso61": {
+    "id": "8034260003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8034260003",
+    "company": "OKX",
+    "title": "Associate General Counsel, Employment Law"
+  },
+  "sls503": {
+    "id": "06fba783-5f5a-474c-8efc-8662a7a7ea84",
+    "link": "https://jobs.ashbyhq.com/story/06fba783-5f5a-474c-8efc-8662a7a7ea84",
+    "company": "Story Protocol",
+    "title": "Senior Accountant (Story + Wizard)",
+    "newSlug": "sls508"
   }
 }

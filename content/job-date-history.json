@@ -44904,5 +44904,40 @@
       "provider": "breezy",
       "datePosted": "2026-11-13"
     }
+  },
+  "https://jobs.solana.com/companies/perle-2-0f9ff345-67d2-4bf3-af58-751b33bd578b/jobs/99730944-freelance-transcriptionist-sesotho": {
+    "date": "2026-11-14T10:33:42.000Z",
+    "dateVerified": true
+  },
+  "https://ats.rippling.com/bitwise-asset-management-inc/jobs/a47b14ae-8d3d-47c5-aff2-9394a68f9a2b": {
+    "date": "2026-11-14T10:22:25.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8937035002": {
+    "date": "2026-11-13T19:47:50-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8934109002": {
+    "date": "2026-11-13T19:48:13-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8187582003": {
+    "date": "2026-11-14T00:47:31-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "breezy:bitdeer.breezy.hr:33b2a528a187": {
+    "date": "2026-11-14",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/33b2a528a187-senior-director-interconnection-network-ai-datacenter",
+      "checkedAt": "2026-11-14T10:53:04.063Z",
+      "bodySha256": "236bd0a9ba17f7fda82e18c0eafa27e128a5db8a64f67653ef180c8711503d03",
+      "provider": "breezy",
+      "datePosted": "2026-11-14"
+    }
   }
 }
