@@ -1,0 +1,26 @@
+---
+title: Kalshi ends Donald Trump Jr.'s advisory role over Polymarket investment
+ogTitle: "KALSHI ENDS DONALD TRUMP JR.'S ADVISORY ROLE OVER POLYMARKET INVESTMENT"
+description: Kalshi mutually ended Donald Trump Jr.'s advisory contract after his venture firm 1789 Capital increased its investment in rival Polymarket, with midterm-election scrutiny of the Trump family's prediction-market ties rising.
+image: /images/news/kalshitrump.jpg
+imageCaption: "Donald Trump Jr. Photo: Gage Skidmore via Wikimedia Commons (CC BY-SA 4.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Donald_Trump,_Jr._(55021621367).jpg
+category: News
+data-ai-hint: Donald Trump Jr speaking
+publishedDate: '2026-11-14'
+lastUpdated: '2026-11-14'
+---
+
+Prediction market Kalshi has ended its advisory relationship with Donald Trump Jr. after his venture firm increased its investment in rival Polymarket, a Kalshi spokesperson told Reuters on Thursday. [Cointelegraph reported](https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment) the decision was mutual and followed 1789 Capital's lead on Polymarket's funding round, with the spokesperson denying that political considerations played any role.
+
+"We have mutually agreed to end Don's advisory role after his firm's significant investment in a competitor this past summer," the spokesperson said. "We are grateful for his contributions in helping us market Kalshi to more customers." Talks about ending the role began in August, after 1789 Capital took the lead on Polymarket's $1 billion round, which values the company at $21 billion, with 1789 Capital set to contribute about $300 million, according to [Bankless](https://www.bankless.com/read/news/kalshi-ends-donald-trump-jr-advisor-role), citing CoinDesk and a 1789 Capital spokesperson.
+
+Two people familiar with the matter told Reuters that some inside Kalshi had raised concerns about what the Democrats' midterm sweep of both chambers of Congress could mean for the company, even as Kalshi's spokesperson said politics was not a factor. Unchained [described](https://unchainedcrypto.com/donald-trump-jr-leaves-kalshi-keeps-polymarket-role-a-week-after-democrats-win-congress/) the exit as coming a week after Democrats won both chambers, with newly elected lawmakers signaling scrutiny of the Trump family's ties to prediction markets. Kalshi and Trump Jr. both saw a conflict in his advising Kalshi while his firm invested in Polymarket, a Kalshi spokesperson said, according to CNBC, as cited by Unchained. Kalshi had initially allowed Trump Jr. to advise its competitor, but the two sides recently decided the arrangement no longer worked, a person familiar with the matter told the Financial Times.
+
+Trump Jr. joined Kalshi as a strategic adviser in January 2025, days before his father's second inauguration, and received an equity stake reported by the Financial Times to be worth about $300,000 at the time. The Financial Times later reported the stake has been heavily diluted by new share issuance while Kalshi's valuation climbed roughly 20-fold to $40 billion, Unchained wrote. Kalshi declined to comment to the FT on the stake's status, and the company did not immediately respond to Unchained's own request for comment.
+
+He keeps a role at the rival. Trump Jr. joined Polymarket's advisory board in August 2025, when 1789 Capital made its first investment in that platform, Bankless reported, and he still advises Polymarket. Neither Polymarket nor Trump Jr. responded immediately to Reuters. Kalshi, for its part, is the $40 billion prediction market where Trump Jr. once helped market the platform to customers.
+
+The timing lands amid post-election pressure. In a Nov. 9 letter, Senators Elizabeth Warren and Jeff Merkley flagged Trump Jr.'s advisory roles and financial interests in prediction-market platforms and asked the White House for answers by Nov. 23, according to Bankless. Warren is set to chair the Senate Banking Committee in January and has vowed to crack down on insider trading in the sector as well as examine the Trump family's business ventures. Warren has listed Trump family crypto businesses and prediction markets among her early oversight targets, an aide told Politico, and Democrats have said they intend to examine the family's links to both Kalshi and Polymarket, [the report said](https://unchainedcrypto.com/donald-trump-jr-leaves-kalshi-keeps-polymarket-role-a-week-after-democrats-win-congress/), citing the Associated Press. President Trump has publicly backed the Commodity Futures Trading Commission as the sole regulator of prediction markets while states challenge the platforms, [Unchained reported](https://unchainedcrypto.com/donald-trump-jr-leaves-kalshi-keeps-polymarket-role-a-week-after-democrats-win-congress/), and Kalshi and Polymarket have both rejected any suggestion that their financial links to the Trumps shaped how the administration regulated the industry.
+
+Kalshi's chief executive Tarek Mansour said on MS NOW in early October that Trump Jr.'s ties posed an "optics issue," though he said Kalshi had never used them to gain favor with the government, [reporting on the exit said](https://unchainedcrypto.com/donald-trump-jr-leaves-kalshi-keeps-polymarket-role-a-week-after-democrats-win-congress/).

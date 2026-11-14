@@ -1,0 +1,30 @@
+---
+title: Trump nominates Peirce successor and three others to SEC, CFTC
+ogTitle: "TRUMP NOMINATES PEIRCE SUCCESSOR AND THREE OTHERS TO SEC, CFTC"
+description: President Trump sent four Senate nominations on Nov. 12 to fill seats at the SEC and CFTC, including Steven Levine for Hester Peirce's seat, with two Democrats and two Republicans on the slate.
+image: /images/news/secnoms.jpg
+imageCaption: "The Commodity Futures Trading Commission building in Washington. Photo: ajay_suresh via Wikimedia Commons (CC BY 4.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:US%20Commodity%20Futures%20Trading%20Commission%20(CFTC)%20(55264578721).jpg
+category: News
+data-ai-hint: CFTC building Washington DC
+publishedDate: '2026-11-14'
+lastUpdated: '2026-11-14'
+---
+
+President Trump sent four nominations to the Senate on Nov. 12 to fill open seats at the Securities and Exchange Commission and the Commodity Futures Trading Commission, agencies whose decisions help shape US cryptocurrency regulation, according to the [White House nominations list](https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6). The slate pairs two Republicans with two Democrats, the first nominations to either agency this administration has made across party lines, Unchained [reported](https://unchainedcrypto.com/trump-nominates-ex-cftc-commissioner-kristin-johnson-and-three-others-to-sec-cftc/).
+
+Steven Levine, a Republican from Maryland, would take the seat vacated by Hester Peirce for a term ending June 5, 2030. Peirce left the agency in October after leading the SEC's Crypto Task Force, a role in which she helped shape the commission's approach to digital assets. Levine's views on crypto regulation are less publicly established, [Cointelegraph reported](https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks). His most recent post was general counsel and senior adviser at the White House Council of Economic Advisers; before that he worked at the SEC, where Commissioner Mark Uyeda named him deputy chief of staff in February 2025. No public crypto stance from Levine is on record, [reporting on the slate found](https://unchainedcrypto.com/trump-nominates-ex-cftc-commissioner-kristin-johnson-and-three-others-to-sec-cftc/).
+
+Kristin N. Johnson, a Democrat from Michigan and a former CFTC commissioner, would fill the seat held by Caroline Crenshaw for a term ending June 5, 2029. Johnson served at the CFTC until September 2025 and [has advocated stronger customer protections and conflict-of-interest rules for crypto firms](https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks) in her time at the agency. When the CFTC settled charges against three DeFi operators in 2023, she wrote in a statement that platforms acting as intermediaries belong inside the regulatory perimeter: "In my opinion, they can and should be regulated."
+
+For the CFTC, Trump nominated Nathan Anonick, a Republican from Virginia, and Matthew Rowland, a Democrat from Washington, D.C. Anonick works as legislative counsel to Senate Agriculture Committee Chairman John Boozman and helped negotiate that committee's share of the CLARITY Act, the crypto market-structure bill; his term would run to June 19, 2031, per the White House list. Rowland is a CFTC attorney lent to the committee as a detailee, where he worked under Democratic leaders on the CLARITY Act and the committee's 2024 crypto bill, according to [Unchained's account](https://unchainedcrypto.com/trump-nominates-ex-cftc-commissioner-kristin-johnson-and-three-others-to-sec-cftc/) of reporting by Crypto in America's Eleanor Terrett. His term would end April 13, 2028. Neither Anonick nor Rowland has a public crypto stance on record, [the report said](https://unchainedcrypto.com/trump-nominates-ex-cftc-commissioner-kristin-johnson-and-three-others-to-sec-cftc/).
+
+All four nominations require Senate confirmation.
+
+CFTC Chairman Mike Selig called Anonick and Rowland "two strong bipartisan picks" and said he looked forward to working with them if confirmed, Cointelegraph [wrote](https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks).
+
+The nominations would replenish two thinly staffed agencies. The SEC currently has two sitting commissioners, Chairman Paul Atkins and Mark Uyeda, while Selig runs the CFTC alone; if all four nominees are confirmed, the SEC would hold four of five seats and the CFTC three of five, [the report said](https://unchainedcrypto.com/trump-nominates-ex-cftc-commissioner-kristin-johnson-and-three-others-to-sec-cftc/). The staffing gap has already constrained the agencies' crypto work. In August, Coin Center Executive Director Peter Van Valkenburgh said on [Unchained's Uneasy Money podcast](https://unchainedcrypto.com/trump-nominates-ex-cftc-commissioner-kristin-johnson-and-three-others-to-sec-cftc/) that the CFTC "still doesn't have a bipartisan set of commissioners at it," which he said would make its crypto decisions harder.
+
+Both CFTC nominees come from the Senate Agriculture Committee, which shares jurisdiction over crypto market structure with the Banking Committee that handles the SEC picks.
+
+Timing is tight. Democrats flipped the Senate on Nov. 3 and take the gavel in January, leaving a short window for Republicans to move the picks. The Senate Banking Committee handles the SEC nominees and the Senate Agriculture Committee the CFTC ones, after which each nomination goes to the full Senate for a majority vote. Senate Republican leaders set Nov. 20 as the date for committees to clear nominees so they could be bundled into one last batch before the lame-duck session ends, Punchbowl News reported last month, [as cited in the report](https://unchainedcrypto.com/trump-nominates-ex-cftc-commissioner-kristin-johnson-and-three-others-to-sec-cftc/). [Cointelegraph noted](https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks) that the window closes weeks before Democrats take control of the chamber.

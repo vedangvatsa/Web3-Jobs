@@ -166273,7 +166273,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "475ada6159bd64f57ebf",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
       "attempts": 3,
       "expiresAt": "2026-11-14T06:22:32.000Z",
@@ -166315,7 +166315,8 @@
         "updatedAt": "2026-11-14T00:50:18.714Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "publishedAt": "2026-11-14T01:51:15.525Z"
     },
     "405ff13396b0517f98b2": {
       "source": "Crypto Briefing",
@@ -168523,7 +168524,7 @@
         "Crypto Briefing"
       ],
       "id": "6388a82f3098fba44c84",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
       "attempts": 1,
       "expiresAt": "2026-11-14T22:06:47.000Z",
@@ -168565,7 +168566,8 @@
         }
       ],
       "reviewedAt": "2026-11-14T01:15:59.095Z",
-      "lastReviewedDay": "2026-11-14"
+      "lastReviewedDay": "2026-11-14",
+      "publishedAt": "2026-11-14T01:51:15.525Z"
     },
     "84ef0be9ca637f73ca5e": {
       "source": "Cointelegraph",
@@ -168740,7 +168742,7 @@
         "Unchained"
       ],
       "id": "d3abf39b86f49da7d1e3",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
       "attempts": 2,
       "expiresAt": "2026-11-14T13:00:00.000Z",
@@ -168804,7 +168806,8 @@
           "okxicedebut.md: template phrasing: leverag(?:e|ing)"
         ],
         "isolatedAt": "2026-11-13T13:15:19.568Z"
-      }
+      },
+      "publishedAt": "2026-11-14T01:51:15.525Z"
     },
     "f91891fc0a923a01b21d": {
       "source": "The Block",
@@ -168834,7 +168837,7 @@
         "Unchained"
       ],
       "id": "f91891fc0a923a01b21d",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
       "attempts": 2,
       "expiresAt": "2026-11-14T09:40:46.000Z",
@@ -168906,7 +168909,8 @@
           "Source link HTTP 403: https://www.courtlistener.com/docket/73720612/73/ludlow-exchange-llc-v-james/"
         ],
         "isolatedAt": "2026-11-13T13:15:19.568Z"
-      }
+      },
+      "publishedAt": "2026-11-14T01:51:15.525Z"
     },
     "3f250f6e73da30f98fb3": {
       "source": "Cointelegraph",
@@ -172233,7 +172237,7 @@
         "The Defiant"
       ],
       "id": "0218d84130d9972aa9f7",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
       "attempts": 2,
       "expiresAt": "2026-11-16T09:32:39.000Z",
@@ -172284,7 +172288,8 @@
         "updatedAt": "2026-11-14T00:49:45.611Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "publishedAt": "2026-11-14T01:51:15.525Z"
     },
     "f3b6f3548e56982b9589": {
       "source": "The Defiant",
@@ -172403,7 +172408,7 @@
         "BeInCrypto"
       ],
       "id": "eeb0a1c4112118b24f1a",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
       "attempts": 1,
       "expiresAt": "2026-11-16T02:29:27.000Z",
@@ -172445,7 +172450,8 @@
         }
       ],
       "reviewedAt": "2026-11-14T00:35:12.640Z",
-      "lastReviewedDay": "2026-11-14"
+      "lastReviewedDay": "2026-11-14",
+      "publishedAt": "2026-11-14T01:51:15.525Z"
     },
     "1aa5e0951ef94ee88f4e": {
       "source": "CoinDesk",
@@ -174904,7 +174910,7 @@
         "Bankless"
       ],
       "id": "549f3d77e33c6ffd5976",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
       "attempts": 2,
       "expiresAt": "2026-11-15T21:07:49.000Z",
@@ -174976,7 +174982,8 @@
           "kalshitrump.md: under 600 words"
         ],
         "isolatedAt": "2026-11-13T13:15:19.568Z"
-      }
+      },
+      "publishedAt": "2026-11-14T01:51:15.525Z"
     },
     "0ced036023dcc0182579": {
       "source": "Cointelegraph",
@@ -176331,7 +176338,7 @@
         "Crypto Briefing"
       ],
       "id": "6a25249f63384300a17d",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
       "attempts": 1,
       "expiresAt": "2026-11-16T21:49:27.000Z",
@@ -176369,7 +176376,8 @@
         }
       ],
       "reviewedAt": "2026-11-14T01:37:37.380Z",
-      "lastReviewedDay": "2026-11-14"
+      "lastReviewedDay": "2026-11-14",
+      "publishedAt": "2026-11-14T01:51:15.525Z"
     },
     "b36567f27527c5fb1bb5": {
       "source": "Crypto Briefing",
@@ -176639,7 +176647,7 @@
         "Unchained"
       ],
       "id": "f5fb64229189c7af5f90",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
       "attempts": 1,
       "expiresAt": "2026-11-16T14:50:49.000Z",
@@ -176677,7 +176685,8 @@
         }
       ],
       "reviewedAt": "2026-11-14T00:59:01.041Z",
-      "lastReviewedDay": "2026-11-14"
+      "lastReviewedDay": "2026-11-14",
+      "publishedAt": "2026-11-14T01:51:15.525Z"
     },
     "72b5437e4b6b6c7ffb07": {
       "source": "CryptoSlate",
@@ -177135,7 +177144,7 @@
         "The Defiant"
       ],
       "id": "f195a2618a56dca5fc62",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
       "attempts": 1,
       "expiresAt": "2026-11-16T22:16:03.000Z",
@@ -177173,7 +177182,8 @@
         }
       ],
       "reviewedAt": "2026-11-14T00:59:01.041Z",
-      "lastReviewedDay": "2026-11-14"
+      "lastReviewedDay": "2026-11-14",
+      "publishedAt": "2026-11-14T01:51:15.525Z"
     },
     "564650099a2918330df3": {
       "source": "Crypto Briefing",
@@ -177970,7 +177980,7 @@
         "The Block"
       ],
       "id": "8a8904d66799289df684",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
       "attempts": 1,
       "expiresAt": "2026-11-16T14:02:00.000Z",
@@ -178005,7 +178015,8 @@
       ],
       "reviewedAt": "2026-11-14T01:50:39.496Z",
       "articleSlug": "paywardq3",
-      "lastReviewedDay": "2026-11-14"
+      "lastReviewedDay": "2026-11-14",
+      "publishedAt": "2026-11-14T01:51:15.525Z"
     },
     "0f545be092ac64cdc373": {
       "source": "Decrypt",
@@ -332824,7 +332835,7 @@
     "2026-11-14": {
       "day": "2026-11-14",
       "startedAt": "2026-11-14T00:24:57.356Z",
-      "status": "prepared",
+      "status": "incomplete",
       "candidateIds": [
         "4459fe70a1c42b3d04a5",
         "db79a6b367185ad25432",
@@ -335733,7 +335744,7 @@
           ]
         },
         "eeb0a1c4112118b24f1a": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified the White House Nov 12 nominations list, the Cointelegraph Nov 13 report and Unchained's Nov 13 writeup; four nominees, terms, committee paths, staffing math and the Nov 20 clearance date all match across sources. Draft, local hero image and audits (quality, formatting, images, duplicates, link 200s) pass.",
           "sourceChecks": [
@@ -335751,7 +335762,8 @@
             }
           ],
           "reviewedAt": "2026-11-14T00:35:12.640Z",
-          "articleSlug": "secnoms"
+          "articleSlug": "secnoms",
+          "publishedAt": "2026-11-14T01:51:15.525Z"
         },
         "1aa5e0951ef94ee88f4e": {
           "status": "rejected",
@@ -335772,7 +335784,7 @@
           "mergedInto": "eeb0a1c4112118b24f1a"
         },
         "549f3d77e33c6ffd5976": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Cointelegraph, Bankless and Unchained on Kalshi ending Trump Jr.'s advisory role; mutual-split quote, August timeline, B/1B Polymarket round with 00M 1789 contribution, 00k stake dilution, Warren-Merkley Nov 9 letter and optics-issue comment verified across sources. Rewrote draft to 600+ words; quality, formatting, images, duplicates and link 200s pass.",
           "sourceChecks": [
@@ -335790,7 +335802,8 @@
             }
           ],
           "reviewedAt": "2026-11-14T00:39:58.054Z",
-          "articleSlug": "kalshitrump"
+          "articleSlug": "kalshitrump",
+          "publishedAt": "2026-11-14T01:51:15.525Z"
         },
         "030b2be73b0b0d134c18": {
           "status": "deferred",
@@ -335829,7 +335842,7 @@
           "reviewedAt": "2026-11-14T00:50:22.921Z"
         },
         "0218d84130d9972aa9f7": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read Unchained's Nov 13 story, crypto.news's Nov 13 report, and the primary CFTC complaint PDF (E.D. Ark., filed Nov 12). DOJ/CFTC suit, Griffin Nov 4 state case, swaps/preemption theory, $10k per-violation penalties, 11-state count, Louisiana TRO and Nov 30 hearing verified across sources; draft and local hero image completed.",
           "sourceChecks": [
@@ -335847,10 +335860,11 @@
             }
           ],
           "reviewedAt": "2026-11-14T00:59:01.040Z",
-          "articleSlug": "arkansaskalshi"
+          "articleSlug": "arkansaskalshi",
+          "publishedAt": "2026-11-14T01:51:15.525Z"
         },
         "f5fb64229189c7af5f90": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read The Block and Unchained Q3 stories. $1.087B net income from $1.093B fair-value bitcoin gains, 43,514 BTC, $486.5M convertibles on 16,116 BTC, $186.5M nine-month loss, no binding Elektron deal, Strike exit, Zagury quotes verified across both; draft and local hero image completed.",
           "sourceChecks": [
@@ -335864,10 +335878,11 @@
             }
           ],
           "reviewedAt": "2026-11-14T00:59:01.041Z",
-          "articleSlug": "twentyoneq3"
+          "articleSlug": "twentyoneq3",
+          "publishedAt": "2026-11-14T01:51:15.525Z"
         },
         "475ada6159bd64f57ebf": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Cointelegraph and Unchained 10-K stories. $6.31B net loss, $6.2B unrealized loss, 5,901,837 ETH at $14.56B vs $19.95B cost, material weaknesses second year, $143.7M derivatives loss, 4.97% supply update and Tom Lee 5% cap verified across both; draft and local hero image completed.",
           "sourceChecks": [
@@ -335881,10 +335896,11 @@
             }
           ],
           "reviewedAt": "2026-11-14T00:59:01.041Z",
-          "articleSlug": "bitmineloss"
+          "articleSlug": "bitmineloss",
+          "publishedAt": "2026-11-14T01:51:15.525Z"
         },
         "f195a2618a56dca5fc62": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Crypto Briefing and Decrypt versions of the FT-reported story. Board approach to Arm CEO Rene Haas, Huang Nov 12 resignation, Kress interim CEO/Jones chair, 1,600+ comment internal post per Wired, Haas SoftBank ties and Nov 17 earnings date verified across both; draft and local hero image completed.",
           "sourceChecks": [
@@ -335898,10 +335914,11 @@
             }
           ],
           "reviewedAt": "2026-11-14T00:59:01.041Z",
-          "articleSlug": "nvidiasuccession"
+          "articleSlug": "nvidiasuccession",
+          "publishedAt": "2026-11-14T01:51:15.525Z"
         },
         "d3abf39b86f49da7d1e3": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Cointelegraph and Unchained launch stories. Nov 23 9am ET open, 70+ confirmed assets, 59 Direxion ETFs, 67 objecting issuers, Uniswap v4/X Layer mechanics, Innovation Exemption terms, Cuomo and Razzaghi quotes and IMF/Nasdaq context verified across both. Clean rewrite avoids the prior leverag template phrase; draft and local hero image completed.",
           "sourceChecks": [
@@ -335915,10 +335932,11 @@
             }
           ],
           "reviewedAt": "2026-11-14T01:05:08.636Z",
-          "articleSlug": "okxicedebut"
+          "articleSlug": "okxicedebut",
+          "publishedAt": "2026-11-14T01:51:15.525Z"
         },
         "8a8904d66799289df684": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Validation repair: the draft cited Invezz, which returns HTTP 403 to the pipeline source checker, so every Invezz claim was rewritten against Payward's own Nov. 13 Q3 financial highlights (read in full) plus Cointelegraph and CoinMarketCap. Verified there: 0M adjusted EBITDA down 66% from 78.6M, 87M Total Platform Margin, 53B volume, 6.5% September spot share, 52% asset-and-access margin, 66M contracts and 7.1M funded accounts, xStocks above B, Saldo Bank agreement, VARA and AFSA approvals, proof of reserves by The Network Firm, and the IPO pause with a Q2 2027 earliest window. All outbound links now return HTTP 200.",
           "sourceChecks": [
@@ -335948,7 +335966,8 @@
             }
           ],
           "reviewedAt": "2026-11-14T01:50:39.496Z",
-          "articleSlug": "paywardq3"
+          "articleSlug": "paywardq3",
+          "publishedAt": "2026-11-14T01:51:15.525Z"
         },
         "008423c02d9ec6930919": {
           "status": "rejected",
@@ -336011,7 +336030,7 @@
           ]
         },
         "6388a82f3098fba44c84": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read Crypto Briefing (SEC amicus brief backing CFTC, CMAA suit filed Nov. 3, 45-day Reg 40.3 review, security-futures classification, amicus lineup) and Bankless (SEC brief content, Dec. 31 SEC deadline, Caproni Nov. 3 denial with likely-to-win finding, Judge Schofield, brief filers, Kalshi products trading). The Block returned 403. Draft and local hero image (SEC HQ facade, Wikimedia CC BY 2.0) completed; quality, image, formatting and duplicate audits pass for secperp.md; source links return HTTP 200.",
           "sourceChecks": [
@@ -336029,10 +336048,11 @@
             }
           ],
           "reviewedAt": "2026-11-14T01:15:59.095Z",
-          "articleSlug": "secperp"
+          "articleSlug": "secperp",
+          "publishedAt": "2026-11-14T01:51:15.525Z"
         },
         "f91891fc0a923a01b21d": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read the Nov. 10 McMahon opinion PDF in full (35 pages, SDNY 26-cv-6676 Doc 73) plus the Unchained and news.bitcoin.com stories; prior quality-gate failure fixed by replacing the 403 courtlistener docket link with the storage.courtlistener.com PDF that returns 200. Draft novigrule.md and local hero image completed; quality, formatting, duplicate and image audits clean for this file.",
           "sourceChecks": [
@@ -336050,7 +336070,8 @@
             }
           ],
           "reviewedAt": "2026-11-14T01:27:24.844Z",
-          "articleSlug": "novigrule"
+          "articleSlug": "novigrule",
+          "publishedAt": "2026-11-14T01:51:15.525Z"
         },
         "9dc53deaf05a35876e73": {
           "status": "deferred",
@@ -336155,7 +336176,7 @@
           ]
         },
         "6a25249f63384300a17d": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified the Nov. 13 Blockstream-Thales custody launch against Cointelegraph's report with Adam Back interview quotes and Crypto Briefing's full product details (HSM-bound Secure-MPC signing, institutional features, Q3 beta, Digital Assets Forum). Quality, formatting, image, duplicate audits pass; hero is a CC BY 2.0 Adam Back photo self-hosted at /images/news/hsmvault.jpg.",
           "sourceChecks": [
@@ -336169,7 +336190,8 @@
             }
           ],
           "reviewedAt": "2026-11-14T01:37:37.380Z",
-          "articleSlug": "hsmvault"
+          "articleSlug": "hsmvault",
+          "publishedAt": "2026-11-14T01:51:15.525Z"
         },
         "ee5d41239536dd76f812": {
           "status": "rejected",
@@ -336681,9 +336703,334 @@
         "total": 128,
         "checkedAt": "2026-11-14T00:24:57.356Z"
       },
-      "validationErrors": [
-        "Source link HTTP 403: https://invezz.com/news/2026/11/13/kraken-payward-q3-2026-results/"
-      ]
+      "validationErrors": [],
+      "publication": {
+        "status": "completed",
+        "completedAt": "2026-11-14T01:51:15.525Z",
+        "publishedIds": [
+          "475ada6159bd64f57ebf",
+          "6388a82f3098fba44c84",
+          "d3abf39b86f49da7d1e3",
+          "f91891fc0a923a01b21d",
+          "0218d84130d9972aa9f7",
+          "eeb0a1c4112118b24f1a",
+          "549f3d77e33c6ffd5976",
+          "6a25249f63384300a17d",
+          "f5fb64229189c7af5f90",
+          "f195a2618a56dca5fc62",
+          "8a8904d66799289df684"
+        ],
+        "articleSlugs": [
+          "bitmineloss",
+          "secperp",
+          "okxicedebut",
+          "novigrule",
+          "arkansaskalshi",
+          "secnoms",
+          "kalshitrump",
+          "hsmvault",
+          "twentyoneq3",
+          "nvidiasuccession",
+          "paywardq3"
+        ],
+        "pendingIds": [
+          "34b2c241e2e6594fb9ea",
+          "4dfcbac6ba897581fa2d",
+          "3c56f8bf0b2cfa457cc1",
+          "263ac777025a9226c150",
+          "b64694547da8c559d24d",
+          "e65b519ff9776e950e81",
+          "1d40816e1565a859fea3",
+          "f0b6b246440c6c9a941f",
+          "75f811a80f4a432613a5",
+          "ed9ea40140f0e38428c1",
+          "fd67f55e78a2ab6d3ab0",
+          "cbac3488c586163a8a22",
+          "f0d0f8388ae14fd275cf",
+          "1c06f0e414379cd10923",
+          "88f0182d5e2e601afd22",
+          "3abf6134d740197603d9",
+          "ca7f151824690fbae429",
+          "ccf2351a080404208392",
+          "05798ec44a7aa622f541",
+          "e214101748b94a013fe2",
+          "d103790cd1f93766ca49",
+          "9b16c6c65d00bd1ef4ac",
+          "9269a4cd9f79b81059b1",
+          "405ff13396b0517f98b2",
+          "f1fa265bc4052539acac",
+          "571a7e479864d195ae7a",
+          "6b5dc10068c750b87204",
+          "211c7632ed599f8d02dc",
+          "d3768521d61265ae09c9",
+          "81fb70be971d7502f3b5",
+          "1dd68d148da2a9fd66bc",
+          "1ce8129b7638041d11d5",
+          "1579228077e5efa1b51b",
+          "894c1b8595236690f75d",
+          "6be39f8ef2743d02c4b3",
+          "42e27a1098b7f6583363",
+          "36c18c2c90503c46652b",
+          "5914cd48ee1e147cf139",
+          "c337ddc9b25ae468b282",
+          "968064f9f0b8d4094297",
+          "84ef0be9ca637f73ca5e",
+          "12dd5a2a3768c403a76b",
+          "e61224392df112a6c538",
+          "00683a285f07626801b5",
+          "617570637dfd215069e3",
+          "5bd63f4f0f53996dc12d",
+          "3f250f6e73da30f98fb3",
+          "dd592775bfd5cf104bec",
+          "627627eff09dfa3f5f56",
+          "29082620258974c395b3",
+          "e5b33c66667111165dc2",
+          "87ffe9f2186cf8a0964a",
+          "5d88c3343565e0d8d3a6",
+          "4fe2c3c22299c15a8787",
+          "35e98476d4100d3ce42c",
+          "7662060668a3ce78d202",
+          "dbe8c5b970ab971d37b7",
+          "33f597d1f5c9e9f34d96",
+          "eb6b5f5596bd74e6acae",
+          "9dc53deaf05a35876e73",
+          "6d0905d8b201cc61df28",
+          "f1f89db6b0c4ab106bc8",
+          "fae41788f744a2f1d789",
+          "603bec3db4c809f5ca66",
+          "be5f4c62145514fe90b1",
+          "70f5b5e748feac7e254c",
+          "7ad21137be29b47d8491",
+          "aed118033c05dbe0292b",
+          "90a1c2e2c605b3860bf2",
+          "1e79935f5e7f963a6034",
+          "43bd1d16816d5cfbfe2b",
+          "1241f0e52495aad287d6",
+          "099591be71b867660114",
+          "2c2309b59a622ab12347",
+          "0e824be7d30d20d16553",
+          "d2bd1833bb94947fc423",
+          "467b1c67bd3211d5c89e",
+          "b98e6a39852964c7fcbe",
+          "a617d3c45b781ed62831",
+          "bfcd3cbd2cebe52ff722",
+          "fd4d624242f875518129",
+          "fee3a763a3e8c22e6e5f",
+          "ba7c0503332f9b963691",
+          "c59a85d0532ff6e5a544",
+          "857563001089df271ff1",
+          "c071e053d7628f89c05a",
+          "030b2be73b0b0d134c18",
+          "778d3687c82c0dc1412b",
+          "94174a0c5c51005e6c58",
+          "bc1a8f7d70169d8ccfaa",
+          "76d43f87245cbd19d740",
+          "4ca3aa34d1792673b287",
+          "b8ff7dafb8c70612085d",
+          "9e1a03102b606b81e159",
+          "4417285a02f9210ab7f1",
+          "b1f0724c6c92ce59ab55",
+          "16a553619bb4bce7086b",
+          "4c704eb53f75e2e726b8",
+          "0ee043c8b7c36abb90f0",
+          "7cc115e9f4e36aca8435",
+          "ff632212aec51b4ae09b",
+          "6bf973a3b8fb1f74b4cc",
+          "4a15fee4314f1591ea0f",
+          "d652e4055275a803de99",
+          "1e769e91c360f593e828",
+          "c7ad2ace361d070c3357",
+          "906dc5c4642c2b7188ee",
+          "927e500f43e8bd3e359e",
+          "2a600d61cd5d7070a7a0",
+          "4edfc394dc0dc278b41c",
+          "948af2c85a93e5ed9d3c",
+          "be77133b4bf21dccb8a4",
+          "e918e1a4af2d429c344d",
+          "0ef3b4e00c9c536916eb",
+          "b6f6f2a9223c776ef623",
+          "e44e5903cf36dc3df822",
+          "e01daa6eb6847a374bb4",
+          "118f202596aa14f669d7",
+          "e93c83c9a8eb8be8bf27",
+          "855641ab1fc70ba0bcef",
+          "cbc5a3255e9b174694bb",
+          "1a9c8f6b109964c82cc9",
+          "c04e4e1a539fbb2b0c62",
+          "2f8392912411f9479c84",
+          "3b03bcc0f55d4116bbd5",
+          "65892b8f9311e04e94cd",
+          "f3b6f3548e56982b9589",
+          "b4edddf8f1b4a72a3552",
+          "428b39c8ae1d6ad2cb31",
+          "8c347b65c9a2a84f1a47",
+          "fb88d655f7d0c67b685f",
+          "eea39aae24cdd6ae0bc9",
+          "3616b7e6c0c27a0b8ade",
+          "96ff8eeb424d0b06809b",
+          "f41cc843ef5b0f14aef9",
+          "4ccb11aa5e40a8336eb7",
+          "96cd0104014a837271bb",
+          "b06ee829fb0171de2801",
+          "2a1cf73cd01353669d24",
+          "d7a6c13e8c4453011f80",
+          "b450786b7bbd404298b2",
+          "1fc9f9856c0f833928cb",
+          "5a65616e59d3a82b73ef",
+          "801ba3d8b5380a0b22fd",
+          "62d5d5f9b585a43232ba",
+          "7e234094c6deae67f56a",
+          "7ff82c504861034008e9",
+          "02f772beb76e343a3fc0",
+          "53db4d07b651bfec9618",
+          "5a7604b2dbee9a2c65ae",
+          "511bb6cd7e7ca5ffacc5",
+          "9e4b28244c247bd98833",
+          "042837d693c820254fe1",
+          "3cc15ab22c6745a47549",
+          "7b2ed3dacdffb4283c69",
+          "4cdcd7046aac686ad3bc",
+          "f8c7267b7de95e35b4f9",
+          "078be5eccee4172ca0c5",
+          "1594651db01d446181ad",
+          "fad8b9f787cf20f9e8c7",
+          "47699734bc9fc8bcaa5a",
+          "01955fb8d75bebf3abd3",
+          "a54ade3881bebb63698a",
+          "43b42749d2ad10d68acf",
+          "b76ec62a9a902811f174",
+          "18f98b841e265d44d4ec",
+          "d1ba4bae76de91d9f930",
+          "b48c658d6a3e82338c3b",
+          "edd0baedb182e08e31e7",
+          "0101660c54c97ace546e",
+          "4b0fb48dc48392dee027",
+          "1fa4bedda156ab4de60c",
+          "4e18527823af4fd1ce88",
+          "b98fef40b6212dd08909",
+          "0bac5971c634c0b98bfb",
+          "89a623ac7f41b6aac269",
+          "4d0edba4fd7253bc2986",
+          "9d4eb9be1d203c94f1cb",
+          "543957b03bfed18f3a47",
+          "f7660b8d779a68433ec9",
+          "8170de0b7a5216ce4516",
+          "ef785cc5c5a4b93a261f",
+          "f854dda5d0598ed15bcb",
+          "dc23808f072b52708f41",
+          "38ec9f047d18335d4b9a",
+          "9ea01c5d2db2d10b2fc7",
+          "413294542cff3d43df45",
+          "122bacbd53d1bd09b333",
+          "82391a5f6cd6687858d3",
+          "be86e75a5f1f52c71820",
+          "183b15ce4af169808915",
+          "1979cdb028ae831ab98c",
+          "600467d9b2e6b5f55645",
+          "7cba3cdea84082f9f5de",
+          "20492b5ca04bb257ffa5",
+          "10697067e1389b072378",
+          "bc9b0a97445a4b619559",
+          "b77c12b3007849659259",
+          "709c5014f090060acd6b",
+          "2a2d78dd4471d18462f0",
+          "c87d0a4d363bb19a9452",
+          "126a242e684bbf300505",
+          "0ced036023dcc0182579",
+          "9658f8724d85073a624f",
+          "8cf604f70ba75fa2babe",
+          "9bb0f2d875d3dad56f0d",
+          "17c30221ea6bd971ec6e",
+          "329fae7d2754ed6e87a9",
+          "f604a702793247062cdc",
+          "7fb15fec4b25c36a59cb",
+          "2eb255de54f98840cfe3",
+          "459eb46a4fe3ebe0d33f",
+          "62c0a86188903183a1dc",
+          "d19f86233ef2db6155a2",
+          "2166f28cbee193c4e94e",
+          "b547c2e4e786819ce634",
+          "c22b5b91a57d3608922a",
+          "95cac41dd1e9f7e06f34",
+          "389fcb6330bab1d76dab",
+          "0d0a33d6d85074bb4f7d",
+          "0071349e5459f4edcd2f",
+          "970779d3979b4b2f0a60",
+          "507340dbfc30f9b48c5f",
+          "c2eebe9465aba85bbfac",
+          "f64be513298007647fa5",
+          "e4b1d0158acf2e2b242a",
+          "2eb2c26ad5a5ff903643",
+          "cb63f7a1a63edc252c3b",
+          "210cd9037cdbb5378289",
+          "667349902d7e788c082f",
+          "e4ce08a423ac4f674a8a",
+          "4c9c5ab7f8768208d63b",
+          "74cd88193da8d2a7a16e",
+          "aff54ac90f034a13b3e8",
+          "f5e79a37a57836d0f3a0",
+          "28e2b00b7767c5d1de47",
+          "97ea813e1bc8c7258293",
+          "4d359dd47171cb6b4311",
+          "d8be7c6e652873873ef0",
+          "fd33cee77438aac031f5",
+          "bd9ce1283abb7fb963cf",
+          "ac763fdfee538cf2b660",
+          "a4acab678e0ba49cedc9",
+          "b36567f27527c5fb1bb5",
+          "2e084d81f014b0cd89b1",
+          "2f15f033baf23202e520",
+          "32a5e823a3e55a990353",
+          "c6006848e47ec8fecb57",
+          "b6fab03e33736b8cd32f",
+          "f330779ede93ad3b3149",
+          "72b5437e4b6b6c7ffb07",
+          "51d820bab347149be399",
+          "cb01e2a7a5d8dc0333d3",
+          "587db430e7de6ae8800b",
+          "06e456610bff91e6d877",
+          "d467844f8e3392600334",
+          "173a2d7614bc21a5ad90",
+          "38cb45be8294024ff33e",
+          "17c2fd7218e58dfaa203",
+          "34f0ab307ddb00a9faaa",
+          "1d84eb2245a90adb0d55",
+          "70d6686a420514945741",
+          "af7d7fed474007733261",
+          "21f0bbbf9a491f65db13",
+          "6df043c8238c906b2465",
+          "564650099a2918330df3",
+          "2b37773a4f04b54999c3",
+          "46b5e1017e3ea1a6be5b",
+          "f62114ca0add13f59655",
+          "ada73927d9185905f57c",
+          "225bab1b999dc90a50d7",
+          "eff61bd0e573058a4359",
+          "a5efbf739567ec2744e3",
+          "3939f15cc1a874ea0aed",
+          "42c07f52fcdec76faf24",
+          "0e40fa15ba21fbe68077",
+          "67cbf4c2b8d90ab6aec8",
+          "446b35bc254eb7934b20",
+          "fa833199294a0839ce5d",
+          "37758d7e3f6db0297d1b",
+          "84cbc62f41c22f0cafc6",
+          "ad45650f8538c2a989d4",
+          "c437c4e47ce151bc90e2",
+          "91907fb83c46b2b873c8",
+          "5999005ec7c06c4ea92d",
+          "ab4c2ca4a6b3699d1acc",
+          "77fcb5d86e9d52b15e9d",
+          "31e1117c9b5fcfedd45c",
+          "f28a6b7c22c21b3e80ab",
+          "2db9ad7a10a35390c6b8",
+          "0f545be092ac64cdc373",
+          "fd9238049980fd4f5a20",
+          "4a37cde7de061891183e",
+          "f7814336fc8294287a9a",
+          "1d61f046abf17d9b7e24"
+        ]
+      }
     }
   }
 }
