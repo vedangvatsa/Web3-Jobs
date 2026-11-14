@@ -176848,7 +176848,27 @@
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
       "attempts": 0,
       "expiresAt": "2026-11-16T22:16:03.000Z",
-      "lastSeenAt": "2026-11-14T00:24:57.356Z"
+      "lastSeenAt": "2026-11-14T00:24:57.356Z",
+      "articleSlug": "nvidiasuccession",
+      "draftProgress": {
+        "id": "f195a2618a56dca5fc62",
+        "day": "2026-11-14",
+        "articleSlug": "nvidiasuccession",
+        "note": "Round 2: read Crypto Briefing (FT-reported board approach to Arm CEO Rene Haas; Huang resigned Nov 12) and Decrypt's version. Two sources readable; scope/draft decision pending.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptobriefing.com/nvidia-approaches-arm-rene-haas-huang/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-14T00:46:33.755Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "564650099a2918330df3": {
       "source": "Crypto Briefing",
