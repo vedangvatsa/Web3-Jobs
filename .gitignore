@@ -120,6 +120,7 @@ scripts/manual-emails*.json
 
 # Generated/Build artifacts
 public/preview/
+!public/preview/.preview-manifest.json
 public/responsive/
 public/og/jobs/
 public/og/external/
@@ -139,18 +140,17 @@ paper/*.log
 
 # Runtime state files (social media)
 scripts/social/*-state.json
+!scripts/social/publish-slot-state.json
 scripts/social/*-receipts/
 scripts/social/*-receipts.json
 scripts/social/text-post-state*.json
 scripts/social/upload-state*.json
 scripts/social/buffer-*.json
 scripts/social/publish-*.json
+!scripts/social/publish-slot-state.json
 scripts/social/content-schedule.json
 scripts/social/job-video-state.json
-scripts/social/jobs-social-posted.json
-scripts/social/news-social-posted.json
 scripts/social/nomad-thread-receipts.json
-scripts/social/publish-slot-state.json
 scripts/social/publish-state.json
 
 # Social receipts
@@ -159,9 +159,6 @@ scripts/social/newknowledge-receipts/
 
 # Compiled SDK
 packages/sdk/dist/
-
-# Preview HTML (generated)
-public/preview/
 
 # Responsive images (generated)
 public/responsive/
