@@ -911,6 +911,32 @@
         "rolloutState": "SUCCEEDED",
         "confirmedAt": "2026-11-12T03:01:49.509Z"
       }
+    ],
+    "2026-11-14": [
+      {
+        "date": "2026-11-14",
+        "id": "43587102765-1",
+        "sourceCommit": "25610142949c0605ed04d82379394cc81ccab49a",
+        "jobsCheckedAt": "2026-11-14T10:57:59.407Z",
+        "newsCompletedAt": "2026-11-14T01:51:15.525Z",
+        "articleSlugs": [
+          "bitmineloss",
+          "secperp",
+          "okxicedebut",
+          "novigrule",
+          "arkansaskalshi",
+          "secnoms",
+          "kalshitrump",
+          "hsmvault",
+          "twentyoneq3",
+          "nvidiasuccession",
+          "paywardq3"
+        ],
+        "phase": "building",
+        "startedAt": "2026-11-14T10:58:50.715Z",
+        "buildId": "daily-20261114-43587102765-1",
+        "rolloutId": "daily-20261114-43587102765-1"
+      }
     ]
   }
 }
