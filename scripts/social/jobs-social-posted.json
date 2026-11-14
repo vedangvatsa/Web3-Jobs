@@ -137603,6 +137603,47 @@
       "attemptId": "76bcdeda-f119-469e-b2f3-7bf20c9a2c16",
       "verification": "verified",
       "postId": "0x02bcb4a3645f4975c60e6ed07db6001cab92856c"
+    },
+    {
+      "slug": "rec62",
+      "company": "BTSE",
+      "title": "HR Operations Associate (Payroll)",
+      "platform": "linkedin",
+      "postedAt": "2026-11-14T19:36:56.030Z",
+      "expectedText": "BTSE is hiring HR Operations Associate (Payroll): https://hashtagweb3.com/rec62/li?og=7",
+      "snapshot": {
+        "id": "2d3152b1-bcea-4ae0-b998-0348944a7d37",
+        "title": "HR Operations Associate (Payroll)",
+        "company": "BTSE",
+        "link": "https://jobs.lever.co/BTSE/2d3152b1-bcea-4ae0-b998-0348944a7d37",
+        "date": "2026-11-04T03:37:49.258Z",
+        "source": "Lever: BTSE [BTSE]",
+        "location": "Taipei",
+        "workplaceType": "onsite",
+        "department": "BTSE",
+        "active": true,
+        "dateVerified": true,
+        "dateSource": "Lever.createdAt",
+        "slug": "rec62"
+      },
+      "payload": {
+        "text": "BTSE is hiring HR Operations Associate (Payroll): https://hashtagweb3.com/rec62/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/rec62/li?og=7",
+          "title": "HR Operations Associate (Payroll) at BTSE",
+          "description": "Join BTSE as HR Operations Associate. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og-image.png"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "78f381d3-0012-491f-af34-23d68572d71f",
+      "verification": "creating"
     }
   ]
 }
