@@ -172336,9 +172336,9 @@
         "Bitcoin Magazine"
       ],
       "id": "1aa5e0951ef94ee88f4e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-15T22:47:41.000Z",
       "lastSeenAt": "2026-11-14T00:24:57.356Z",
       "articleSlug": "trumpnomsdup",
@@ -172364,7 +172364,23 @@
         "updatedAt": "2026-11-13T12:43:36.654Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "duplicate",
+      "note": "Same event as the ready secnoms article: the White House Nov 12 SEC/CFTC nominations list and the same Cointelegraph report cover it. CoinDesk URL returned 429 and was not read.",
+      "sourceChecks": [
+        {
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-14T00:35:24.678Z",
+      "duplicateOf": "secnoms",
+      "mergedInto": "eeb0a1c4112118b24f1a",
+      "lastReviewedDay": "2026-11-14"
     },
     "428b39c8ae1d6ad2cb31": {
       "source": "Bitcoin Magazine",
@@ -335361,6 +335377,24 @@
           ],
           "reviewedAt": "2026-11-14T00:35:12.640Z",
           "articleSlug": "secnoms"
+        },
+        "1aa5e0951ef94ee88f4e": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same event as the ready secnoms article: the White House Nov 12 SEC/CFTC nominations list and the same Cointelegraph report cover it. CoinDesk URL returned 429 and was not read.",
+          "sourceChecks": [
+            {
+              "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-14T00:35:24.678Z",
+          "duplicateOf": "secnoms",
+          "mergedInto": "eeb0a1c4112118b24f1a"
         }
       },
       "baselineSlugs": [
