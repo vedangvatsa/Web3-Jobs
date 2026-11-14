@@ -168790,9 +168790,9 @@
       "articleSlug": "novigrule",
       "draftProgress": {
         "id": "f91891fc0a923a01b21d",
-        "day": "2026-11-12",
+        "day": "2026-11-14",
         "articleSlug": "novigrule",
-        "note": "Read Unchained ruling story and the primary Nov. 10 opinion on CourtListener (Ludlow Exchange v. James, 1:26-cv-06676 ECF 73); verified McMahon denial, not-swaps holding, CFTC rule contradiction language, geofencing path. Two sources verified; draft and image still needed.",
+        "note": "Round 2: prior quality-gate failure was CourtListener 403 on the opinion link; draft not in checkout and needs a full rewrite with a source link that returns HTTP 200 (e.g. storage.courtlistener.com PDF or cftc/other primary), rechecked against Unchained.",
         "sourceChecks": [
           {
             "url": "https://unchainedcrypto.com/judge-calls-cftcs-swap-rules-inherently-contradictory-as-novig-loses-bid-to-block-new-york",
@@ -168800,10 +168800,10 @@
           },
           {
             "url": "https://www.courtlistener.com/docket/73720612/73/ludlow-exchange-llc-v-james/",
-            "outcome": "read"
+            "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-11-12T01:52:13.058Z",
+        "updatedAt": "2026-11-14T00:46:40.963Z",
         "approved": false,
         "mustReview": true
       },
