@@ -168503,9 +168503,9 @@
         "Crypto Briefing"
       ],
       "id": "6388a82f3098fba44c84",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-14T22:06:47.000Z",
       "lastSeenAt": "2026-11-12T01:37:00.023Z",
       "articleSlug": "secperp",
@@ -168527,7 +168527,25 @@
         "updatedAt": "2026-11-13T12:42:40.447Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Crypto Briefing (SEC amicus brief backing CFTC, CMAA suit filed Nov. 3, 45-day Reg 40.3 review, security-futures classification, amicus lineup) and Bankless (SEC brief content, Dec. 31 SEC deadline, Caproni Nov. 3 denial with likely-to-win finding, Judge Schofield, brief filers, Kalshi products trading). The Block returned 403. Draft and local hero image (SEC HQ facade, Wikimedia CC BY 2.0) completed; quality, image, formatting and duplicate audits pass for secperp.md; source links return HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/sec-backs-cftc-perpetual-futures-lawsuit/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.bankless.com/read/news/sec-sides-with-cftc-in-fight-over-stock-perps",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-14T01:15:59.095Z",
+      "lastReviewedDay": "2026-11-14"
     },
     "84ef0be9ca637f73ca5e": {
       "source": "Cointelegraph",
@@ -335819,6 +335837,27 @@
           "retrySearches": [
             "Find independent reporting confirming Fed Chair Warsh's Nov. 16 2026 San Francisco forum on AI inflation productivity and employment"
           ]
+        },
+        "6388a82f3098fba44c84": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Crypto Briefing (SEC amicus brief backing CFTC, CMAA suit filed Nov. 3, 45-day Reg 40.3 review, security-futures classification, amicus lineup) and Bankless (SEC brief content, Dec. 31 SEC deadline, Caproni Nov. 3 denial with likely-to-win finding, Judge Schofield, brief filers, Kalshi products trading). The Block returned 403. Draft and local hero image (SEC HQ facade, Wikimedia CC BY 2.0) completed; quality, image, formatting and duplicate audits pass for secperp.md; source links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/sec-backs-cftc-perpetual-futures-lawsuit/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bankless.com/read/news/sec-sides-with-cftc-in-fight-over-stock-perps",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-14T01:15:59.095Z",
+          "articleSlug": "secperp"
         }
       },
       "baselineSlugs": [
