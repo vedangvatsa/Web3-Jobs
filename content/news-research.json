@@ -168814,9 +168814,9 @@
         "Unchained"
       ],
       "id": "f91891fc0a923a01b21d",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-14T09:40:46.000Z",
       "lastSeenAt": "2026-11-12T01:37:00.023Z",
       "articleSlug": "novigrule",
@@ -168843,24 +168843,27 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "quality-gate",
-      "note": "Actual article audits still failed after bounded repair attempts: Source link HTTP 403: https://www.courtlistener.com/docket/73720612/73/ludlow-exchange-llc-v-james/. Draft and original source checks are retained for repair; this article was not published.",
+      "reason": "verified-event",
+      "note": "Read the Nov. 10 McMahon opinion PDF in full (35 pages, SDNY 26-cv-6676 Doc 73) plus the Unchained and news.bitcoin.com stories; prior quality-gate failure fixed by replacing the 403 courtlistener docket link with the storage.courtlistener.com PDF that returns 200. Draft novigrule.md and local hero image completed; quality, formatting, duplicate and image audits clean for this file.",
       "sourceChecks": [
         {
-          "url": "https://unchainedcrypto.com/judge-calls-cftcs-swap-rules-inherently-contradictory-as-novig-loses-bid-to-block-new-york",
+          "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.669887/gov.uscourts.nysd.669887.73.0.pdf",
           "outcome": "read"
         },
         {
-          "url": "https://www.courtlistener.com/docket/73720612/73/ludlow-exchange-llc-v-james/",
+          "url": "https://unchainedcrypto.com/judge-calls-cftcs-swap-rules-inherently-contradictory-as-novig-loses-bid-to-block-new-york/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://news.bitcoin.com/igaming/judge-says-cftcs-kalshi-order-smacks-collusive-effort-novig-ruling/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-13T13:15:19.568Z",
-      "lastReviewedDay": "2026-11-13",
+      "reviewedAt": "2026-11-14T01:27:24.844Z",
+      "lastReviewedDay": "2026-11-14",
       "retrySearches": [
         "Repair and revalidate the preserved novigrule draft against its original sources: Source link HTTP 403: https://www.courtlistener.com/docket/73720612/73/ludlow-exchange-llc-v-james/"
       ],
-      "nextReviewDate": "2026-11-14",
       "qualityIsolation": {
         "previousReview": {
           "status": "ready",
@@ -335862,6 +335865,27 @@
           ],
           "reviewedAt": "2026-11-14T01:15:59.095Z",
           "articleSlug": "secperp"
+        },
+        "f91891fc0a923a01b21d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the Nov. 10 McMahon opinion PDF in full (35 pages, SDNY 26-cv-6676 Doc 73) plus the Unchained and news.bitcoin.com stories; prior quality-gate failure fixed by replacing the 403 courtlistener docket link with the storage.courtlistener.com PDF that returns 200. Draft novigrule.md and local hero image completed; quality, formatting, duplicate and image audits clean for this file.",
+          "sourceChecks": [
+            {
+              "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.669887/gov.uscourts.nysd.669887.73.0.pdf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/judge-calls-cftcs-swap-rules-inherently-contradictory-as-novig-loses-bid-to-block-new-york/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bitcoin.com/igaming/judge-says-cftcs-kalshi-order-smacks-collusive-effort-novig-ruling/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-14T01:27:24.844Z",
+          "articleSlug": "novigrule"
         }
       },
       "baselineSlugs": [
