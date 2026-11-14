@@ -137097,7 +137097,8 @@
       },
       "account": "channel:web3",
       "attemptId": "d53f8457-1c2f-4fa7-85c1-2017060ff633",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x1a69e615b1d2beacf4eb71bbaebb38683910df39"
     }
   ]
 }
