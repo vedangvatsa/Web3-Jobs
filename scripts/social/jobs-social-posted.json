@@ -137385,7 +137385,8 @@
       },
       "account": "channel:ethereum",
       "attemptId": "2b7194a1-3e2d-40ba-9cfa-9ad3f19da1e7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9d67aa79677abe9d170fa65eaf9e89bc4ec18f6c"
     }
   ]
 }
