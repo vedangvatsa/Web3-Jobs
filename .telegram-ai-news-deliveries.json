@@ -76,5 +76,42 @@
     "slotKey": "2026-11-13:evening",
     "messageId": 193511,
     "sentAt": "2026-11-13T19:32:11.491Z"
+  },
+  "98db16d7-efef-4df1-9c6a-2d55f0fe47b9": {
+    "status": "reserved",
+    "reservedAt": "2026-11-14T11:32:35.994Z",
+    "stories": [
+      {
+        "index": 9,
+        "original_title": "Mirendil raises $1B in funding to speed up AI model development",
+        "headline": "Mirendil raises $1 billion in Series A funding",
+        "summary": "The startup will use the capital to accelerate development of its software tools for artificial intelligence models.",
+        "event_rationale": "Covers Mirendil's $1 billion Series A round led by Kleiner Perkins, which is distinct from previously posted financing events.",
+        "link": "https://siliconangle.com/2026/11/13/mirendil-raises-1b-in-funding-to-speed-up-ai-model-development/",
+        "source": "SiliconANGLE",
+        "originalTitle": "Mirendil raises $1B in funding to speed up AI model development"
+      },
+      {
+        "index": 3,
+        "original_title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
+        "headline": "Runway releases open-source Praxis-1 model for robotics",
+        "summary": "The Apache 2.0 licensed model uses video training data to control physical robot actions.",
+        "event_rationale": "Covers Runway's release of an open-weights robotics model, distinct from previously posted model announcements.",
+        "link": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
+        "source": "The Decoder",
+        "originalTitle": "Runway's open-source Praxis-1 turns video AI into a robot controller"
+      },
+      {
+        "index": 23,
+        "original_title": "As AI agents take control, Nvidia rethinks the security playbook",
+        "headline": "Nvidia unveils Scale-In security infrastructure for AI factories",
+        "summary": "The system provides purpose-built hardware acceleration to protect, manage, and isolate network traffic in agentic software environments.",
+        "event_rationale": "Covers Nvidia's new networking security technology launch, which is distinct from recently posted leadership stories regarding Nvidia.",
+        "link": "https://siliconangle.com/2026/11/12/ai-networking-nvidia-scalein-security-agentic-aifactoriesdatacenters/",
+        "source": "SiliconANGLE",
+        "originalTitle": "As AI agents take control, Nvidia rethinks the security playbook"
+      }
+    ],
+    "slotKey": "2026-11-14:afternoon"
   }
 }
