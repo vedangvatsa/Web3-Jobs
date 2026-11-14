@@ -44808,5 +44808,101 @@
   "ashby:e45a8b6a-5029-4ca5-ac6f-5af940843c72": {
     "date": "2026-11-13T19:29:12.394+00:00",
     "dateVerified": true
+  },
+  "https://getzuba.notion.site/Member-of-Specialist-Staff-Treasury-Operations-FX-Zuba-416fffbb5f2a81879ba9cd229c24063b?pvs=25": {
+    "date": "2026-11-13T18:21:07.000Z",
+    "dateVerified": true
+  },
+  "https://getzuba.notion.site/Member-of-Specialist-Staff-Compliance-Officer-MLRO-Hong-Kong-Zuba-414fffbb5f2a81e9a149e7a593f5f1bd?pvs=25": {
+    "date": "2026-11-13T18:21:07.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:5601881": {
+    "date": "2024-01-09T16:58:15-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8382002": {
+    "date": "2026-11-13T15:39:50-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8382000": {
+    "date": "2026-11-13T16:14:55-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8357227": {
+    "date": "2026-11-13T15:20:38-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8357464": {
+    "date": "2026-11-13T16:14:12-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8379461": {
+    "date": "2026-11-13T19:08:02-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8367410": {
+    "date": "2026-11-13T17:20:47-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8356065": {
+    "date": "2026-11-13T17:25:02-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5254313008": {
+    "date": "2026-06-15T13:10:42-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5372062008": {
+    "date": "2026-07-27T17:01:07-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5428323008": {
+    "date": "2026-11-13T17:30:12-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5428321008": {
+    "date": "2026-11-13T17:25:56-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "lever:58fbe7a2-7951-4b21-9a79-643fa027609e": {
+    "date": "2026-11-13T23:21:58.615Z",
+    "dateVerified": true
+  },
+  "ashby:6e717b06-6613-42ad-a1ee-f852a305fa37": {
+    "date": "2026-11-13T21:52:14.463+00:00",
+    "dateVerified": true
+  },
+  "ashby:4546557f-2ecd-46fe-addd-458f8ab97ee6": {
+    "date": "2026-11-13T21:58:13.808+00:00",
+    "dateVerified": true
+  },
+  "ashby:48fdd46b-c061-4b27-925a-fd54616f75c9": {
+    "date": "2026-11-13T23:24:04.465+00:00",
+    "dateVerified": true
+  },
+  "breezy:zero-hash.breezy.hr:475c977acac0": {
+    "date": "2026-11-13",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://zero-hash.breezy.hr/p/475c977acac0-technical-project-manager-auth",
+      "checkedAt": "2026-11-14T00:27:00.868Z",
+      "bodySha256": "196180451bc552b06b5e1d381f23d2eab3ddce46b0dc9fc320fa48d95821f897",
+      "provider": "breezy",
+      "datePosted": "2026-11-13"
+    }
   }
 }

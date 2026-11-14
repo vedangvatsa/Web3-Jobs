@@ -157053,5 +157053,154 @@
     "company": "Ripio",
     "title": "VP of Global Business Development",
     "newSlug": "sls504"
+  },
+  "mkt115": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "company": "Ripio",
+    "title": "Marketing Operations & CRM Senior",
+    "newSlug": "mkt153"
+  },
+  "sls301": {
+    "id": "9c249990-643c-4793-9917-cb5ca3be2883",
+    "link": "https://jobs.ripio.com/jobs/8560977-vp-of-global-business-development",
+    "company": "Ripio",
+    "title": "VP of Global Business Development",
+    "newSlug": "sls505"
+  },
+  "cmp128": {
+    "id": "351",
+    "link": "https://fasset.bamboohr.com/careers/351",
+    "company": "Fasset",
+    "title": "Compliance Operations Associate",
+    "newSlug": "cmp177"
+  },
+  "rote": {
+    "id": "8301256",
+    "link": "https://stripe.com/jobs/search?gh_jid=8301256",
+    "company": "Stripe",
+    "title": "Chief Risk Officer, Stripe Technology Europe Limited"
+  },
+  "mgr242": {
+    "id": "5457183008",
+    "link": "https://job-boards.greenhouse.io/hut8/jobs/5457183008",
+    "company": "Hut 8",
+    "title": "Principal, Logistics & Expediting Manager"
+  },
+  "mgr216": {
+    "id": "a0a26a90-7c9a-4a45-a042-ae646911930a",
+    "link": "https://jobs.ashbyhq.com/ramp/a0a26a90-7c9a-4a45-a042-ae646911930a",
+    "company": "Ramp",
+    "title": "Customer Activation Manager | AI Spend"
+  },
+  "mep": {
+    "id": "8287486",
+    "link": "https://stripe.com/jobs/search?gh_jid=8287486",
+    "company": "Stripe",
+    "title": "Managing Editor, Stripe Press"
+  },
+  "des14": {
+    "id": "dd5026d8-f20d-4274-af65-5b7ef5c0a175",
+    "link": "https://jobs.lever.co/moonpay/dd5026d8-f20d-4274-af65-5b7ef5c0a175",
+    "company": "MoonPay",
+    "title": "Principal Designer, Otherlife"
+  },
+  "mgr186": {
+    "id": "8269104",
+    "link": "https://www.coinbase.com/careers/positions/8269104?gh_jid=8269104",
+    "company": "Coinbase",
+    "title": "Social Media Manager, Predictions"
+  },
+  "eng609": {
+    "id": "7b9478e4-cb92-4274-929a-661dca9fe855",
+    "link": "https://ats.rippling.com/riot-platforms-careers/jobs/7b9478e4-cb92-4274-929a-661dca9fe855",
+    "company": "Riot Platforms",
+    "title": "Senior Engineer, Identity & Access Management (IAM)"
+  },
+  "an96": {
+    "id": "c068334ff2ce",
+    "link": "https://bitdeer.breezy.hr/p/c068334ff2ce-billing-analyst-maas",
+    "company": "Bitdeer",
+    "title": "Billing Analyst - MaaS"
+  },
+  "wr7": {
+    "id": "1f88dc208215",
+    "link": "https://bitdeer.breezy.hr/p/1f88dc208215-technical-writer-maas",
+    "company": "Bitdeer",
+    "title": "Technical Writer - MaaS"
+  },
+  "eng608": {
+    "id": "c00124c46538",
+    "link": "https://zero-hash.breezy.hr/p/c00124c46538-senior-software-engineer",
+    "company": "Zero Hash",
+    "title": "Senior Software Engineer"
+  },
+  "fs26": {
+    "id": "8e9d4ba5-92f9-48f4-925d-090fd5d6e303",
+    "link": "https://jobs.ashbyhq.com/sardine/8e9d4ba5-92f9-48f4-925d-090fd5d6e303",
+    "company": "Sardine",
+    "title": "Fullstack Engineer, Investigator Tools"
+  },
+  "eng607": {
+    "id": "8005894003",
+    "link": "https://a16z.com/about/jobs/?gh_jid=8005894003",
+    "company": "a16z crypto",
+    "title": "Partner 18, IT Engineer, AI & Innovation Enablement, San Francisco/Menlo Park"
+  },
+  "eng606": {
+    "id": "8005886003",
+    "link": "https://a16z.com/about/jobs/?gh_jid=8005886003",
+    "company": "a16z crypto",
+    "title": "Partner 20, Senior IT & AI Platform Engineer, San Francisco/Menlo Park"
+  },
+  "eng605": {
+    "id": "5453260008",
+    "link": "https://job-boards.greenhouse.io/mesh/jobs/5453260008",
+    "company": "Mesh",
+    "title": "Senior Data Engineer"
+  },
+  "eng604": {
+    "id": "5443746008",
+    "link": "https://job-boards.greenhouse.io/mesh/jobs/5443746008",
+    "company": "Mesh",
+    "title": "Head of Off-Chain Engineering"
+  },
+  "aso60": {
+    "id": "8875554002",
+    "link": "https://job-boards.greenhouse.io/figure/jobs/8875554002",
+    "company": "Figure",
+    "title": "Associate General Counsel, Corporate & Securities"
+  },
+  "pm310": {
+    "id": "8234243",
+    "link": "https://stripe.com/jobs/search?gh_jid=8234243",
+    "company": "Stripe",
+    "title": "Staff Product Manager, Accounting Products"
+  },
+  "do14": {
+    "id": "6222799004",
+    "link": "https://job-boards.greenhouse.io/localcoin/jobs/6222799004",
+    "company": "Localcoin",
+    "title": "Senior DevOps Engineer"
+  },
+  "pm309": {
+    "id": "8282390",
+    "link": "https://stripe.com/jobs/search?gh_jid=8282390",
+    "company": "Stripe",
+    "title": "Product Designer, Terminal"
+  },
+  "sls501": {
+    "id": "keka-dcx-146600",
+    "link": "https://dcx.keka.com/careers/jobdetails/146600",
+    "company": "BitOasis",
+    "title": "Institutional Sales",
+    "newSlug": "sls507"
+  },
+  "sls500": {
+    "id": "4725490006",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4725490006",
+    "company": "Fireblocks",
+    "title": "Sales Director, Payments",
+    "newSlug": "sls505"
   }
 }
