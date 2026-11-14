@@ -97,5 +97,36 @@
     "slotKey": "2026-11-14:afternoon",
     "messageId": 65828,
     "sentAt": "2026-11-14T11:32:50.022Z"
+  },
+  "8f790a98-c882-4cd2-89ff-c393b692832e": {
+    "status": "reserved",
+    "reservedAt": "2026-11-14T19:33:49.360Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Judge rules Novig sports contracts are not financial swaps",
+        "summary": "A federal court denied Novig's request to avoid state gambling regulations for its sports event prediction contracts.",
+        "link": "https://hashtagweb3.com/novigrule?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "New York judge denies Novig injunction, rules sports event contracts are not swaps"
+      },
+      {
+        "index": -1,
+        "headline": "Nvidia Board Contacts Arm CEO Rene Haas for Succession",
+        "summary": "Reports indicate the board contacted Haas as over 1,600 employees called for Jensen Huang to return.",
+        "link": "https://hashtagweb3.com/nvidiasuccession?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Nvidia board approaches Arm chief Rene Haas as Huang successor"
+      },
+      {
+        "index": -1,
+        "headline": "OKXICE to launch tokenized stock trading on November 23",
+        "summary": "The platform will offer 70 assets for 24/7 trading despite opposition from 67 stock issuers.",
+        "link": "https://hashtagweb3.com/okxicedebut?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "OKXICE sets Nov. 23 open for tokenized stock trading"
+      }
+    ],
+    "slotKey": "2026-11-14:evening"
   }
 }
