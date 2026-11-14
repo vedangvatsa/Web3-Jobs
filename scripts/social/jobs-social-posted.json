@@ -136337,7 +136337,8 @@
       },
       "account": "channel:dev",
       "attemptId": "2ce90613-54c9-417e-9c59-95dea6970eec",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x831b2b4b35c21a12d8f76595fb44bda380b77ab5"
     }
   ]
 }
