@@ -117,7 +117,7 @@
     "sentAt": "2026-11-14T11:33:33.610Z"
   },
   "6d3415bd-e8e4-4e45-acc7-17409283d782": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-14T19:32:28.221Z",
     "stories": [
       {
@@ -151,6 +151,8 @@
         "originalTitle": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash"
       }
     ],
-    "slotKey": "2026-11-14:evening"
+    "slotKey": "2026-11-14:evening",
+    "messageId": 193517,
+    "sentAt": "2026-11-14T19:32:32.391Z"
   }
 }
