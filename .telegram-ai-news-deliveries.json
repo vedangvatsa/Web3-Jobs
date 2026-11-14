@@ -115,5 +115,42 @@
     "slotKey": "2026-11-14:afternoon",
     "messageId": 193514,
     "sentAt": "2026-11-14T11:33:33.610Z"
+  },
+  "6d3415bd-e8e4-4e45-acc7-17409283d782": {
+    "status": "reserved",
+    "reservedAt": "2026-11-14T19:32:28.221Z",
+    "stories": [
+      {
+        "index": 10,
+        "original_title": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs",
+        "headline": "Stanford open-sources Memorilla memory system for language models",
+        "summary": "The system compresses document collections into 16 latent tokens, matching long-context performance while using 108 times fewer tokens.",
+        "event_rationale": "Stanford released an open-source memory architecture, completely distinct from third-party model launches and commercial infrastructure announcements.",
+        "link": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/",
+        "source": "MarkTechPost",
+        "originalTitle": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs"
+      },
+      {
+        "index": 24,
+        "original_title": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
+        "headline": "Liquid AI releases LiquidCodec streaming audio model",
+        "summary": "The 74-million-parameter model processes audio 361 times faster than real time on a single central processing unit.",
+        "event_rationale": "Liquid AI launched a fast audio codec model, distinct from text language models and corporate funding events.",
+        "link": "https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/",
+        "source": "MarkTechPost",
+        "originalTitle": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec"
+      },
+      {
+        "index": 30,
+        "original_title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+        "headline": "Google faces calls for school AI bans after lawsuit",
+        "summary": "Families requested moratoriums on classroom deployments of AI tools following allegations raised in a student lawsuit.",
+        "event_rationale": "Advocates demanded restrictions on educational AI deployment, presenting a distinct public safety and policy event.",
+        "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+        "source": "Ars Technica",
+        "originalTitle": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash"
+      }
+    ],
+    "slotKey": "2026-11-14:evening"
   }
 }
