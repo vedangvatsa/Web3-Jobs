@@ -932,10 +932,12 @@
           "nvidiasuccession",
           "paywardq3"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-11-14T10:58:50.715Z",
         "buildId": "daily-20261114-43587102765-1",
-        "rolloutId": "daily-20261114-43587102765-1"
+        "rolloutId": "daily-20261114-43587102765-1",
+        "buildState": "READY",
+        "observedAt": "2026-11-14T11:34:11.704Z"
       }
     ]
   }
