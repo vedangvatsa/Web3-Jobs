@@ -70,6 +70,14 @@ Even if a bad record ever reached storage, the render surfaces now sanitize inde
 
 Verification: `scripts/lib/event-messaging-policy.test.mjs` (workflow "Test event discovery helpers"), extended `scripts/test-event-formatting.ts` (detector behavior), and the audit itself gate every catalog refresh.
 
+## 6. Deploy unblocked (2026-11-14)
+
+Shipping the remediation and the guarantee above required clearing two unrelated deploy blockers, both diagnosed from Cloud Build logs (`diagnose-cloud-build.yml`, builds #1 `43620504794`, #2 `43622504739` code 13 = infra flakes, #3 `43624574674` code 9):
+
+**Slug-gate expiry race (build #3, `USER_BUILD_STEP`).** `scripts/test-job-slug-resolution.ts` failed with `Unresolved job slugs: infra47`. The Coinbase job `8269052` (posted `2026-10-15T14:24:44-04:00`) crossed its 30-day expiry at `18:24:44Z` *inside* the build window: data-prep (~`18:06Z`) wrote the runtime while it was still age-eligible, the gate ran (~`18:25Z`) after expiry, and `fetchJobBySlug` re-evaluates age eligibility in real time. The path is not a 404 risk — `job-age-paths.json` already contains the slug, so production serves a deterministic 410 and the next data-prep drops the row. `test-job-slug-resolution.ts` now excuses slugs whose job is still present in the freshly generated runtime but expired within one build window (`MAX_BUILD_AGE_MS`, 2h) and fails on anything else.
+
+**OG assets missing from git (postbuild).** The Nov 13 cleanup commit (`d160cf2f72` + gitignore update) untracked `public/og/external/` and `public/og/jobs/` while `content/social-image-info.json` kept referencing them; Cloud Build has no actions cache, so git is the only source for these files and every build after the `13:12Z` refresh would fail `assertStandalonePublicAssets`. Fixed in `9a597c4c2f`: 81 `og/external` WebP files regenerated from the committed `social-preview-image-cache.json` map and committed, the directory un-ignored and added to the jobs publisher catalog (`scripts/lib/catalog-publication.mjs`), 6 stale `/og/jobs` entries for retired jobs pruned, and the live `sls509.png` generated and committed. Full postbuild chain (copy-standalone, standalone asset assertion, prerender budget, feed compression) passes locally; deploy run `43632189916`.
+
 ## 4. Remaining checklist before requesting review
 
 1. ~~**Search Console → Security Issues report**~~ — **done:** one issue, "Deceptive pages", **Sample URLs: N/A** (see capture above). No actionable URL list exists.
