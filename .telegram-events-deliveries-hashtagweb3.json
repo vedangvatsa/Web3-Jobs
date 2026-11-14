@@ -98,5 +98,52 @@
     "slotKey": "2026-11-13:evening",
     "messageId": 156211,
     "sentAt": "2026-11-13T19:32:16.053Z"
+  },
+  "cf98d3ed-b1c7-467d-a19c-b3b4848cc105": {
+    "status": "reserved",
+    "reservedAt": "2026-11-14T11:32:14.711Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-TFaMLBE3risXt4h",
+        "slug": "dubai-web3",
+        "name": "Dubai Web3 Social - Arts Dao",
+        "startDate": "2026-11-14T14:00:00.000Z",
+        "keys": [
+          "luma-crypto-tfamlbe3risxt4h",
+          "page:dubai-web3:2026-11-14",
+          "luma:evt-tfamlbe3risxt4h",
+          "luma-url:/vi5vk8wu",
+          "event:dubaiweb3socialartsdao:2026-11-14:dubai"
+        ]
+      },
+      {
+        "id": "curated-money-shift-crypto-ai-future-money-2026-11-14",
+        "slug": "money-shift-crypto-ai-future-money",
+        "name": "The Money Shift: Crypto, AI & The Future of Money",
+        "startDate": "2026-11-14T11:00:00-05:00",
+        "keys": [
+          "curated-money-shift-crypto-ai-future-money-2026-11-14",
+          "page:money-shift-crypto-ai-future-money:2026-11-14",
+          "url:eventbrite.ca/e/the-money-shift-crypto-ai-the-future-of-money-tickets-1997326416077:2026-11-14",
+          "event:themoneyshiftcryptoaithefutureofmoney:2026-11-14:toronto"
+        ]
+      },
+      {
+        "id": "luma-crypto-rvTrhOFrZjU1t4G",
+        "slug": "bitcoin-brunch-boro-mclean",
+        "name": "Bitcoin Brunch - The Boro",
+        "startDate": "2026-11-14T16:00:00.000Z",
+        "keys": [
+          "luma-crypto-rvtrhofrzju1t4g",
+          "xvqy8tmn",
+          "page:bitcoin-brunch-boro-mclean:2026-11-14",
+          "luma-url:/xvqy8tmn",
+          "event:bitcoinbrunchtheboro:2026-11-14:mclean"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-14:afternoon"
   }
 }
