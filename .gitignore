@@ -122,9 +122,6 @@ scripts/manual-emails*.json
 public/preview/
 !public/preview/.preview-manifest.json
 public/responsive/
-public/og/jobs/
-public/og/external/
-public/og/source/
 
 # Cache
 .cache/
@@ -163,9 +160,8 @@ packages/sdk/dist/
 # Responsive images (generated)
 public/responsive/
 
-# OG generated images
-public/og/jobs/
-public/og/external/
+# OG source re-encodes are written during preview precompute; per-job and
+# external OG assets ship in git (FAH builds have no actions cache).
 public/og/source/
 
 # Runtime state files (Telegram, Resend, social media)

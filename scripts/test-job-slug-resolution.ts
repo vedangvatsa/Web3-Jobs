@@ -7,11 +7,21 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import path from 'node:path';
 import { fetchJobBySlug } from '../src/lib/job-by-slug-record';
+import { isJobAgeEligible } from '../src/lib/job-age-policy.mjs';
+import { jobExpiryTime } from '../src/lib/job-age-cache.mjs';
 import { JOB_SHARD_COUNT } from '../src/lib/job-shards';
+import { MAX_BUILD_AGE_MS } from './lib/job-age-build-snapshot';
 
 type HomepageSnapshot = {
   total: number;
   initialJobs: Array<{ slug?: string; id?: string; title?: string }>;
+};
+
+type RuntimeJob = {
+  slug?: string;
+  date?: string;
+  active?: boolean;
+  dateVerified?: boolean;
 };
 
 async function main() {
@@ -21,7 +31,7 @@ async function main() {
   assert.ok(fs.existsSync(runtimePath), 'content/jobs-runtime.json missing');
 
   const homepage = JSON.parse(fs.readFileSync(homepagePath, 'utf8')) as HomepageSnapshot;
-  const runtime = JSON.parse(fs.readFileSync(runtimePath, 'utf8')) as Array<{ slug?: string }>;
+  const runtime = JSON.parse(fs.readFileSync(runtimePath, 'utf8')) as RuntimeJob[];
   assert.ok(Array.isArray(runtime), 'jobs-runtime.json must be an array');
   assert.equal(homepage.total, runtime.length, 'homepage total must match jobs-runtime length');
 
@@ -48,12 +58,37 @@ async function main() {
     if (slug) mustResolve.add(slug);
   }
 
+  const runtimeBySlug = new Map<string, RuntimeJob>();
+  for (const job of runtime) {
+    const slug = job.slug?.toLowerCase().trim();
+    if (slug) runtimeBySlug.set(slug, job);
+  }
+
   const missing: string[] = [];
+  const expiredDuringBuild: string[] = [];
   for (const slug of mustResolve) {
-    const job = await fetchJobBySlug(slug);
-    if (!job) missing.push(slug);
+    if (await fetchJobBySlug(slug)) continue;
+    // A job still listed in the freshly generated runtime can cross its 30-day
+    // expiry between data-prep and gate execution. That retirement is by design:
+    // job-age-paths serves the path a 410 and the next data-prep drops the row,
+    // so excuse it within one build window. Anything else is the intermittent-404
+    // wiring bug this gate exists to catch.
+    const raw = runtimeBySlug.get(slug);
+    if (raw && !isJobAgeEligible(raw)) {
+      const expiry = jobExpiryTime(raw);
+      if (Number.isFinite(expiry) && Date.now() - expiry <= MAX_BUILD_AGE_MS) {
+        expiredDuringBuild.push(slug);
+        continue;
+      }
+    }
+    missing.push(slug);
   }
   assert.equal(missing.length, 0, `Unresolved job slugs (would 404 in production): ${missing.join(', ')}`);
+  if (expiredDuringBuild.length > 0) {
+    console.log(
+      `[test-job-slug-resolution] Excused ${expiredDuringBuild.length} slug(s) that expired during this build: ${expiredDuringBuild.join(', ')}`,
+    );
+  }
 
   console.log(
     `[test-job-slug-resolution] OK — ${mustResolve.size} slugs resolve; ${runtime.length} jobs; ${JOB_SHARD_COUNT} shards`,

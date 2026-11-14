@@ -7,7 +7,7 @@ import { getJobIdentity } from '../../src/lib/job-slugs';
 import { hasRequiredJobDateProvenance } from '../../src/lib/job-source-date';
 
 const FILES = ['content/jobs-cache.json', 'content/jobs-runtime.json'] as const;
-const MAX_BUILD_AGE_MS = 2 * 60 * 60 * 1000;
+export const MAX_BUILD_AGE_MS = 2 * 60 * 60 * 1000;
 export const JOB_AGE_BUILD_SNAPSHOT_ENV = 'JOB_AGE_BUILD_SNAPSHOT';
 export const JOB_AGE_BUILD_SNAPSHOT_FILE = '.cache/prebuild-job-age/snapshot.json';
 type Build = { version: 1; root: string; attemptId: string; startedAt: number };
