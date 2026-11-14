@@ -592,5 +592,121 @@
     "slotKey": "2026-11-14:afternoon",
     "messageId": 16643,
     "sentAt": "2026-11-14T11:32:13.772Z"
+  },
+  "061ea121-a4de-480f-a4a0-18b032b5d33d": {
+    "status": "reserved",
+    "reservedAt": "2026-11-14T11:32:17.528Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5020274101",
+          "title": "Lead DevOps Engineer",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5020274101",
+          "date": "2026-10-29T05:27:32-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Kuala Lumpur, Malaysia",
+          "department": "Blockchain R&D",
+          "active": true,
+          "dateVerified": true,
+          "slug": "do22"
+        },
+        "key": "5020274101",
+        "slug": "do22",
+        "url": "https://hashtagweb3.com/do22?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Lead DevOps Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "3103e1a4-2515-4ae0-a2f0-784e25d30cfe",
+          "title": "Research Engineer - Inference",
+          "company": "Prime Intellect",
+          "link": "https://jobs.ashbyhq.com/PrimeIntellect/3103e1a4-2515-4ae0-a2f0-784e25d30cfe",
+          "date": "2026-10-16T14:44:28.971+00:00",
+          "source": "Ashby: Prime Intellect [primeintellect]",
+          "location": "San Francisco",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Research",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng83"
+        },
+        "key": "3103e1a4-2515-4ae0-a2f0-784e25d30cfe",
+        "slug": "eng83",
+        "url": "https://hashtagweb3.com/eng83?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Prime Intellect",
+        "title": "Research Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8301646",
+          "title": "Product Manager, Radar",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8301646",
+          "date": "2026-10-21T10:57:13-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "San Francisco, Seattle, New York, US - Remote",
+          "department": "8553 Radar - PM",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm90"
+        },
+        "key": "8301646",
+        "slug": "pm90",
+        "url": "https://hashtagweb3.com/pm90?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8346319",
+          "title": "Senior Cloud Architect",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8346319?gh_jid=8346319",
+          "date": "2026-11-02T11:37:43-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "Singapore",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "arc32"
+        },
+        "key": "8346319",
+        "slug": "arc32",
+        "url": "https://hashtagweb3.com/arc32?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Senior Cloud Architect"
+      },
+      {
+        "snapshot": {
+          "id": "8893459002",
+          "title": "Recruiter (Contract)",
+          "company": "BitGo",
+          "link": "https://job-boards.greenhouse.io/bitgo/jobs/8893459002",
+          "date": "2026-10-15T19:02:40-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BitGo [bitgo]",
+          "location": "San Francisco, CA",
+          "department": "People",
+          "active": true,
+          "salary": "$50 – $75/hr",
+          "dateVerified": true,
+          "slug": "rec40"
+        },
+        "key": "8893459002",
+        "slug": "rec40",
+        "url": "https://hashtagweb3.com/rec40?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Recruiter (Contract)"
+      }
+    ],
+    "message": "- Bybit is hiring <a href=\"https://hashtagweb3.com/do22?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Lead DevOps Engineer</a>\n- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/eng83?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Research Engineer - Inference</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/pm90?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager, Radar</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/arc32?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Cloud Architect</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/rec40?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Recruiter (Contract)</a>",
+    "slotKey": "2026-11-14:afternoon"
   }
 }
