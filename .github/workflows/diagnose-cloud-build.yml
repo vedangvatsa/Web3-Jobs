@@ -1,0 +1,63 @@
+# Diagnostic only: fetch a failed Cloud Build's details and raw log text so a
+# generic "CLOUD_BUILD code 13" failure can be attributed to a real cause.
+# Read-only; requires the deploy service account to have cloudbuild.builds.get
+# and storage objectViewer on the <project>_cloudbuild logs bucket.
+name: Diagnose Cloud Build logs
+on:
+  workflow_dispatch:
+    inputs:
+      build_id:
+        description: 'Cloud Build build id (from the failed deploy step output)'
+        required: true
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: 'projects/227783834156/locations/global/workloadIdentityPools/github-pool/providers/github-provider'
+          service_account: 'antigravity-agent@web3-jobs-aggregator.iam.gserviceaccount.com'
+      - uses: google-github-actions/setup-gcloud@v2
+      - name: Fetch build record
+        run: |
+          set -euo pipefail
+          TOKEN=$(gcloud auth print-access-token)
+          curl -sf -H "Authorization: Bearer $TOKEN" \
+            "https://cloudbuild.googleapis.com/v1/projects/227783834156/locations/us-central1/builds/${{ inputs.build_id }}" \
+            -o build.json || echo '::warning::cloudbuild.builds.get denied'
+          python3 - <<'PY' || true
+          import json
+          try:
+              build = json.load(open('build.json'))
+          except Exception as error:
+              print('build.json unreadable:', error)
+          else:
+              for key in ('state', 'failureInfo', 'error', 'logUrl', 'logsBucket'):
+                  value = build.get(key)
+                  if value:
+                      print(key, '=>', json.dumps(value)[:2000])
+          PY
+      - name: Try full log text
+        if: always()
+        run: |
+          set -euo pipefail
+          TOKEN=$(gcloud auth print-access-token)
+          curl -sf -H "Authorization: Bearer $TOKEN" \
+            "https://storage.googleapis.com/storage/v1/b/227783834156_cloudbuild/o/logs%2F${{ inputs.build_id }}.json?alt=media" \
+            -o build-log.json || echo '::warning::logs bucket object not readable for this service account'
+          tail -c 30000 build-log.json 2>/dev/null || true
+      - name: Upload diagnosis
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cloud-build-diagnosis-${{ inputs.build_id }}
+          path: |
+            build.json
+            build-log.json
+          if-no-files-found: ignore
