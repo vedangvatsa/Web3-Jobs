@@ -172474,9 +172474,9 @@
         "The Defiant"
       ],
       "id": "7cef1b3e1714efed0fac",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-15T22:06:03.000Z",
       "lastSeenAt": "2026-11-13T11:28:25.584Z",
       "articleSlug": "facestealer",
@@ -172499,8 +172499,8 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "quality-gate",
-      "note": "Actual article audits still failed after bounded repair attempts: facestealer.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
+      "reason": "duplicate",
+      "note": "Read dojseizure.md and its sources: content/articles/dojseizure.md (published 2026-11-13) already covers the same Nov. 12 DOJ announcement - FaceStealer deepfake scheme, 00M+ theft over 18 months, 900 webcam videos seized, and .2B Binance seizure authorization - with the DOJ press release and Decrypt as sources. This candidate is the same event.",
       "sourceChecks": [
         {
           "url": "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency",
@@ -172509,22 +172509,13 @@
         {
           "url": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
           "outcome": "read"
-        },
-        {
-          "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme",
-          "outcome": "read"
-        },
-        {
-          "url": "https://thedefiant.io/news/security/doj-disrupts-north-korean-fake-call-crypto-theft-scheme",
-          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-13T13:15:19.567Z",
-      "lastReviewedDay": "2026-11-13",
+      "reviewedAt": "2026-11-14T01:10:07.251Z",
+      "lastReviewedDay": "2026-11-14",
       "retrySearches": [
         "Repair and revalidate the preserved facestealer draft against its original sources: facestealer.md: under 600 words"
       ],
-      "nextReviewDate": "2026-11-14",
       "qualityIsolation": {
         "previousReview": {
           "status": "ready",
@@ -172555,7 +172546,8 @@
           "facestealer.md: under 600 words"
         ],
         "isolatedAt": "2026-11-13T13:15:19.567Z"
-      }
+      },
+      "duplicateOf": "dojseizure"
     },
     "8c347b65c9a2a84f1a47": {
       "source": "The Block",
@@ -335735,6 +335727,23 @@
             }
           ],
           "reviewedAt": "2026-11-14T01:05:08.636Z"
+        },
+        "7cef1b3e1714efed0fac": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Read dojseizure.md and its sources: content/articles/dojseizure.md (published 2026-11-13) already covers the same Nov. 12 DOJ announcement - FaceStealer deepfake scheme, 00M+ theft over 18 months, 900 webcam videos seized, and .2B Binance seizure authorization - with the DOJ press release and Decrypt as sources. This candidate is the same event.",
+          "sourceChecks": [
+            {
+              "url": "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-14T01:10:07.251Z",
+          "duplicateOf": "dojseizure"
         }
       },
       "baselineSlugs": [
