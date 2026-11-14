@@ -136159,6 +136159,41 @@
       "attemptId": "77b0ecbb-c649-434c-8878-20ecd601f267",
       "verification": "verified",
       "postId": "0x74b5eeb4cd181d28ddf0361f620aa6c7de3fc899"
+    },
+    {
+      "slug": "eng624",
+      "company": "Augustus",
+      "title": "Engineering Fellowship",
+      "platform": "farcaster",
+      "postedAt": "2026-11-14T19:33:12.085Z",
+      "expectedText": "Augustus is hiring Engineering Fellowship\n\nhttps://hashtagweb3.com/eng624/fc?og=7",
+      "snapshot": {
+        "id": "cfdae9c7-93de-482a-9006-68b4c35e0587",
+        "title": "Engineering Fellowship",
+        "company": "Augustus",
+        "link": "https://jobs.ashbyhq.com/Augustus/cfdae9c7-93de-482a-9006-68b4c35e0587",
+        "date": "2026-10-19T20:08:43.343+00:00",
+        "source": "Ashby: Augustus [Augustus]",
+        "location": "Berlin",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng624"
+      },
+      "payload": {
+        "text": "Augustus is hiring Engineering Fellowship\n\nhttps://hashtagweb3.com/eng624/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng624/fc?og=7"
+          }
+        ],
+        "channel_id": "jobs"
+      },
+      "account": "channel:jobs",
+      "attemptId": "57810815-4d9c-4a51-8f2c-7010d9416fe0",
+      "verification": "creating"
     }
   ]
 }
