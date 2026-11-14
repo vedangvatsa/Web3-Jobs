@@ -166253,34 +166253,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "475ada6159bd64f57ebf",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-11T08:29:40.487Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-14T06:22:32.000Z",
       "lastSeenAt": "2026-11-12T01:37:00.023Z",
-      "reason": "source-blocked",
-      "note": "Read Cointelegraph's report of the Form 10-K: $6.3B net loss for FY ended Aug. 31, $6.2B unrealized digital-asset loss, 5.9M ETH held, $15.4B assets. The Block returned a Cloudflare challenge and the listed Decrypt URL is an unrelated Bitcoin article, so a second independent source is still missing.",
+      "reason": "verified-event",
+      "note": "Re-read Cointelegraph and Unchained 10-K stories. $6.31B net loss, $6.2B unrealized loss, 5,901,837 ETH at $14.56B vs $19.95B cost, material weaknesses second year, $143.7M derivatives loss, 4.97% supply update and Tom Lee 5% cap verified across both; draft and local hero image completed.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings",
           "outcome": "read"
         },
         {
-          "url": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812",
-          "outcome": "blocked"
-        },
-        {
-          "url": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
-          "outcome": "blocked"
+          "url": "https://unchainedcrypto.com/bitmine-says-its-controls-are-still-not-effective-as-eth-ended-the-year-5-4-billion-below-cost",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-13T11:56:04.035Z",
+      "reviewedAt": "2026-11-14T00:59:01.041Z",
       "retrySearches": [
         "Find independent reporting or the Bitmine Form 10-K confirming the $6.3 billion fiscal 2026 net loss and $6.2 billion unrealized ether loss",
         "Retry The Block article after Cloudflare challenge clears"
       ],
-      "lastReviewedDay": "2026-11-13",
-      "nextReviewDate": "2026-11-14",
+      "lastReviewedDay": "2026-11-14",
       "articleSlug": "bitmineloss",
       "draftProgress": {
         "id": "475ada6159bd64f57ebf",
@@ -172150,37 +172145,34 @@
         "The Defiant"
       ],
       "id": "0218d84130d9972aa9f7",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-16T09:32:39.000Z",
       "lastSeenAt": "2026-11-14T00:24:57.356Z",
-      "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"DOJ, CFTC sue Arkansas to block state enforcement action against Kalshi\": https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669 -> HTTP 403; https://thedefiant.io/news/regulation/doj-and-cftc-sue-arkansas-to-halt-kalshi-enforcement -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "reason": "verified-event",
+      "note": "Read Unchained's Nov 13 story, crypto.news's Nov 13 report, and the primary CFTC complaint PDF (E.D. Ark., filed Nov 12). DOJ/CFTC suit, Griffin Nov 4 state case, swaps/preemption theory, $10k per-violation penalties, 11-state count, Louisiana TRO and Nov 30 hearing verified across sources; draft and local hero image completed.",
       "sourceChecks": [
         {
-          "url": "https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669",
-          "outcome": "blocked",
-          "status": 403,
-          "method": "GET",
-          "checkedAt": "2026-11-13T11:28:42.649Z"
+          "url": "https://unchainedcrypto.com/kalshi-gets-doj-backing-against-arkansas-amid-prediction-markets-turf-war/",
+          "outcome": "read"
         },
         {
-          "url": "https://thedefiant.io/news/regulation/doj-and-cftc-sue-arkansas-to-halt-kalshi-enforcement",
-          "outcome": "blocked",
-          "status": 403,
-          "method": "GET",
-          "checkedAt": "2026-11-13T11:28:47.038Z"
+          "url": "https://crypto.news/doj-cftc-sue-arkansas-kalshi-prediction-markets/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cftc.gov/media/14921/OGC_ArkansasCompliant111226/download",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-13T11:28:55.221Z",
+      "reviewedAt": "2026-11-14T00:59:01.040Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: DOJ, CFTC sue Arkansas to block state enforcement action against Kalshi",
         "Find independent reporting confirming the event in: DOJ, CFTC sue Arkansas to block state enforcement action against Kalshi",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-13",
-      "nextReviewDate": "2026-11-14",
+      "lastReviewedDay": "2026-11-14",
       "articleSlug": "arkansaskalshi",
       "draftProgress": {
         "id": "0218d84130d9972aa9f7",
@@ -176430,9 +176422,9 @@
         "Unchained"
       ],
       "id": "f5fb64229189c7af5f90",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-16T14:50:49.000Z",
       "lastSeenAt": "2026-11-14T00:24:57.356Z",
       "articleSlug": "twentyoneq3",
@@ -176454,7 +176446,21 @@
         "updatedAt": "2026-11-14T00:46:29.473Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read The Block and Unchained Q3 stories. $1.087B net income from $1.093B fair-value bitcoin gains, 43,514 BTC, $486.5M convertibles on 16,116 BTC, $186.5M nine-month loss, no binding Elektron deal, Strike exit, Zagury quotes verified across both; draft and local hero image completed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/twenty-one-capital-ceo-says-1-09-billion-quarterly-profit-came-from-bitcoin-not-business/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-14T00:59:01.041Z",
+      "lastReviewedDay": "2026-11-14"
     },
     "72b5437e4b6b6c7ffb07": {
       "source": "CryptoSlate",
@@ -176902,9 +176908,9 @@
         "The Defiant"
       ],
       "id": "f195a2618a56dca5fc62",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-16T22:16:03.000Z",
       "lastSeenAt": "2026-11-14T00:24:57.356Z",
       "articleSlug": "nvidiasuccession",
@@ -176926,7 +176932,21 @@
         "updatedAt": "2026-11-14T00:46:33.755Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read Crypto Briefing and Decrypt versions of the FT-reported story. Board approach to Arm CEO Rene Haas, Huang Nov 12 resignation, Kress interim CEO/Jones chair, 1,600+ comment internal post per Wired, Haas SoftBank ties and Nov 17 earnings date verified across both; draft and local hero image completed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/nvidia-approaches-arm-rene-haas-huang/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-14T00:59:01.041Z",
+      "lastReviewedDay": "2026-11-14"
     },
     "564650099a2918330df3": {
       "source": "Crypto Briefing",
@@ -335549,6 +335569,78 @@
             }
           ],
           "reviewedAt": "2026-11-14T00:50:22.921Z"
+        },
+        "0218d84130d9972aa9f7": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Unchained's Nov 13 story, crypto.news's Nov 13 report, and the primary CFTC complaint PDF (E.D. Ark., filed Nov 12). DOJ/CFTC suit, Griffin Nov 4 state case, swaps/preemption theory, $10k per-violation penalties, 11-state count, Louisiana TRO and Nov 30 hearing verified across sources; draft and local hero image completed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/kalshi-gets-doj-backing-against-arkansas-amid-prediction-markets-turf-war/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/doj-cftc-sue-arkansas-kalshi-prediction-markets/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cftc.gov/media/14921/OGC_ArkansasCompliant111226/download",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-14T00:59:01.040Z",
+          "articleSlug": "arkansaskalshi"
+        },
+        "f5fb64229189c7af5f90": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read The Block and Unchained Q3 stories. $1.087B net income from $1.093B fair-value bitcoin gains, 43,514 BTC, $486.5M convertibles on 16,116 BTC, $186.5M nine-month loss, no binding Elektron deal, Strike exit, Zagury quotes verified across both; draft and local hero image completed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/twenty-one-capital-ceo-says-1-09-billion-quarterly-profit-came-from-bitcoin-not-business/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-14T00:59:01.041Z",
+          "articleSlug": "twentyoneq3"
+        },
+        "475ada6159bd64f57ebf": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Cointelegraph and Unchained 10-K stories. $6.31B net loss, $6.2B unrealized loss, 5,901,837 ETH at $14.56B vs $19.95B cost, material weaknesses second year, $143.7M derivatives loss, 4.97% supply update and Tom Lee 5% cap verified across both; draft and local hero image completed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/bitmine-says-its-controls-are-still-not-effective-as-eth-ended-the-year-5-4-billion-below-cost",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-14T00:59:01.041Z",
+          "articleSlug": "bitmineloss"
+        },
+        "f195a2618a56dca5fc62": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Crypto Briefing and Decrypt versions of the FT-reported story. Board approach to Arm CEO Rene Haas, Huang Nov 12 resignation, Kress interim CEO/Jones chair, 1,600+ comment internal post per Wired, Haas SoftBank ties and Nov 17 earnings date verified across both; draft and local hero image completed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/nvidia-approaches-arm-rene-haas-huang/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-14T00:59:01.041Z",
+          "articleSlug": "nvidiasuccession"
         }
       },
       "baselineSlugs": [
