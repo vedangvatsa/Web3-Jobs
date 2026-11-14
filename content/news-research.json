@@ -166286,7 +166286,7 @@
         "id": "475ada6159bd64f57ebf",
         "day": "2026-11-14",
         "articleSlug": "bitmineloss",
-        "note": "Round 2: re-read Cointelegraph and also read Unchained's 10-K story; two independent sources verified (.31B net loss, 5,901,837 ETH at 4.56B vs 9.95B cost, material weaknesses second year, 43.7M derivatives loss). Draft and image still needed.",
+        "note": "Round 2: re-read Cointelegraph and also read Unchained's 10-K story; two independent sources verified ($6.31B net loss, 5,901,837 ETH at $14.56B vs $19.95B cost, material weaknesses second year, $143.7M derivatives loss). Draft and image still needed.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings",
@@ -166297,7 +166297,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-14T00:49:49.631Z",
+        "updatedAt": "2026-11-14T00:50:18.714Z",
         "approved": false,
         "mustReview": true
       }
@@ -169772,11 +169772,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "0a0ef218b5aba4552fd5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-14T10:45:49.000Z",
-      "lastSeenAt": "2026-11-14T00:24:57.356Z"
+      "lastSeenAt": "2026-11-14T00:24:57.356Z",
+      "reason": "price-chatter",
+      "note": "Markets roundup framed entirely around Bitcoin price levels (4,000, 8k, below 9,000) plus AI-earnings and IPO commentary; no concrete Web3 event to verify. CoinDesk returned HTTP 429 on three attempts and The Block returned HTTP 403, so no source text was read and no read is claimed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-14T00:49:50.912Z",
+      "lastReviewedDay": "2026-11-14"
     },
     "ee5d41239536dd76f812": {
       "source": "Crypto Briefing",
@@ -335519,6 +335533,22 @@
             "Find an independent report or Nomura statement on a Laser Digital sale beyond the Bloomberg origin, or open Bloomberg's original article text",
             "Check whether Nomura or Laser Digital issued an official comment confirming or denying a sale process"
           ]
+        },
+        "0a0ef218b5aba4552fd5": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Markets roundup framed entirely around Bitcoin price levels (4,000, 8k, below 9,000) plus AI-earnings and IPO commentary; no concrete Web3 event to verify. CoinDesk returned HTTP 429 on three attempts and The Block returned HTTP 403, so no source text was read and no read is claimed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-14T00:49:50.912Z"
         }
       },
       "baselineSlugs": [
