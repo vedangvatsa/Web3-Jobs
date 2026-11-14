@@ -8,6 +8,9 @@
   "https://hashtagweb3.com/bitmineloss?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/kalshitrump?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/paywardq3?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/novigrule?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/nvidiasuccession?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/okxicedebut?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Details Three Fixed Security Flaws",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank launches crypto custody for European institutions",
@@ -26,6 +29,12 @@
   "Kalshi ends Donald Trump Jr.'s advisory role over Polymarket investment",
   "Payward Reports 66% Drop in Q3 Adjusted EBITDA",
   "Kraken parent Payward posts 66% drop in Q3 adjusted EBITDA",
+  "Judge rules Novig sports contracts are not financial swaps",
+  "New York judge denies Novig injunction, rules sports event contracts are not swaps",
+  "Nvidia Board Contacts Arm CEO Rene Haas for Succession",
+  "Nvidia board approaches Arm chief Rene Haas as Huang successor",
+  "OKXICE to launch tokenized stock trading on November 23",
+  "OKXICE sets Nov. 23 open for tokenized stock trading",
   "fp:block|bug|cor|detail|disclos|fix|flaw|issu|medium|min",
   "fp:agreement|asset|bank|client|custody|deutsch|establish|ether|european|institution",
   "fp:chang|delet|follow|implement|index|metaplanet|msci|november|november30|provider",
@@ -34,5 +43,8 @@
   "fp:202|240|asset|bill|classify|digital|follow|freez|freezabl|hous",
   "fp:54b|63b|below|bitmin|control|corporat|cost|ether|fell|fil",
   "fp:advisory|contract|donald|end|firm|follow|his|investment|kalshi|mutual",
-  "fp:adjust|drop|earn|ebitda|even|grew|incom|kraken|lower|non"
+  "fp:adjust|drop|earn|ebitda|even|grew|incom|kraken|lower|non",
+  "fp:are|avoid|contract|court|deni|deny|event|federal|financial|gambl",
+  "fp:600|approach|arm|board|call|ceo|chief|contact|employe|haa",
+  "fp:asset|despit|for24|from67|issuer|nov23|november23|offer70|okxic|open"
 ]

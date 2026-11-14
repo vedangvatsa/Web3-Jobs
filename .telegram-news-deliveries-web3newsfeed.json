@@ -99,7 +99,7 @@
     "sentAt": "2026-11-14T11:32:50.022Z"
   },
   "8f790a98-c882-4cd2-89ff-c393b692832e": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-14T19:33:49.360Z",
     "stories": [
       {
@@ -127,6 +127,8 @@
         "originalTitle": "OKXICE sets Nov. 23 open for tokenized stock trading"
       }
     ],
-    "slotKey": "2026-11-14:evening"
+    "slotKey": "2026-11-14:evening",
+    "messageId": 65829,
+    "sentAt": "2026-11-14T19:33:54.503Z"
   }
 }
