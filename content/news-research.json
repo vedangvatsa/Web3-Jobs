@@ -169236,8 +169236,12 @@
         "id": "35e98476d4100d3ce42c",
         "day": "2026-11-14",
         "articleSlug": "bitgetshield",
-        "note": "Round 5: independent corroboration now READ in full, not just excerpts. Read crypto.news Nov. 11 (7.4-fold Q3 rise, 57% phishing share of four categories, 36.3/70.2/90.2 percent AI share of newly blocked risky domains Q2/Q3/early Q4, 69.8 percent without external-feed match, GetShield integration, Nov. 11 announcement shared with crypto.news) and Crypto Briefing Nov. 11 full text (about 37,000 weekly phishing signing detections in Q3 vs 5,000 in Q2, COO Alvin Kan quotes on not quantifying attack activity vs detection, 57.4/16.5/14.2/11.8 breakdown, AI plus rule-based plus human review). Cointelegraph read in prior round. GlobeNewswire primary press release returned 403. Existing bitgetsec/bitgetthai/bitget-breach are different events. Draft not started; next: write bitgetshield draft citing Cointelegraph + crypto.news or Crypto Briefing, get image.",
+        "note": "Round 6 checkpoint: Cointelegraph, crypto.news and Crypto Briefing read earlier today; draft not started this round. Resume: recheck sources, write bitgetshield, get image.",
         "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge",
+            "outcome": "read"
+          },
           {
             "url": "https://crypto.news/bitget-wallet-ai-phishing-threat-detection/",
             "outcome": "read"
@@ -169245,17 +169249,9 @@
           {
             "url": "https://cryptobriefing.com/bitget-wallet-ai-threat-detection-expands/",
             "outcome": "read"
-          },
-          {
-            "url": "https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge",
-            "outcome": "read"
-          },
-          {
-            "url": "https://www.globenewswire.com/news-release/2026/11/11/3400624/0/en/bitget-wallet-expands-ai-threat-detection-ai-helps-flag-90-of-newly-blocked-risky-domains.html",
-            "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-11-14T01:32:14.153Z",
+        "updatedAt": "2026-11-14T01:37:49.564Z",
         "approved": false,
         "mustReview": true
       }
