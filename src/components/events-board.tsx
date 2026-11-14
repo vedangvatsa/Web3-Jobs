@@ -3,6 +3,7 @@
 import { useState, useMemo, useRef, useEffect } from 'react';
 import Link from 'next/link';
 import { type EventListItem, getEventSlug, getEventCity, normalizeCountry, isEventUpcoming } from '@/lib/events';
+import { eventTeaserText } from '@/lib/event-teaser';
 import { loadEventSearchDescriptions } from '@/lib/event-search-client';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
@@ -478,7 +479,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: EventListItem[] 
                   </div>
                   {event.description && (
                     <p className="text-xs text-muted-foreground mt-1.5 line-clamp-2 leading-relaxed">
-                      {event.description}
+                      {eventTeaserText(event.description)}
                     </p>
                   )}
                   <div className="flex items-center gap-3 mt-2.5 text-[11px] text-muted-foreground">

@@ -12,7 +12,7 @@
  */
 
 /** A line that is only a number/price fragment: a stat counter or unlabeled price. */
-const STANDALONE_STAT_LINE =
+export const STANDALONE_STAT_LINE =
   /^\s*(?:\d{1,4}[+%]?|\+\d[\d.,]*%?|\d{1,3}(?:\.\d{3})+(?:\$|£|€)?|\d{1,3}(?:\.\d{3})+)\s*$/;
 
 /**

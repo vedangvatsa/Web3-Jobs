@@ -6,6 +6,7 @@ import { Button } from '@/components/ui/button';
 import { EventCard } from '@/components/event-card';
 import { Calendar, LayoutGrid } from 'lucide-react';
 import { getEventSlug, type EventListItem } from '@/lib/events';
+import { eventTeaserText } from '@/lib/event-teaser';
 
 function getEventDate(event: EventListItem, timeZone: string): string {
   return new Intl.DateTimeFormat('en-CA', { timeZone }).format(new Date(event.startDate));
@@ -260,7 +261,7 @@ export function EventSideEvents({ eventName, events, timeZone }: { eventName: st
                   </div>
                   {event.description && (
                     <p className="text-xs text-muted-foreground mt-1.5 line-clamp-2 leading-relaxed">
-                      {event.description}
+                      {eventTeaserText(event.description)}
                     </p>
                   )}
                   <div className="flex items-center gap-3 mt-2.5 text-[11px] text-muted-foreground">

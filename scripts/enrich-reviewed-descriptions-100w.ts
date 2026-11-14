@@ -5,7 +5,7 @@ import { load } from 'cheerio';
 import { EVENT_SOURCES } from '../src/lib/event-sources';
 import { getVerifiedEventDescription } from '../src/lib/event-description-source';
 import { extractOfficialEventDescription } from './official-event-description';
-import { pageDescriptionCandidates } from './lib/event-description-sources';
+import { cleanDescriptionCandidates, pageDescriptionCandidates } from './lib/event-description-sources';
 import {
   composeEventDescription,
   countWords,
@@ -137,9 +137,11 @@ async function main() {
     let pageTitle = rev.descriptionSource?.pageTitle || event.name;
 
     // If still short, prefer the organiser's own (longer) page copy as the
-    // primary description instead of the short reviewed summary.
+    // primary description instead of the short reviewed summary. Clean copy
+    // wins over merely longer copy with junk formatting.
     if (!composed.reachedMinimum) {
-      const longest = pageCandidates
+      const pool = cleanDescriptionCandidates(pageCandidates);
+      const longest = pool
         .slice()
         .sort((a, b) => b.copy.length - a.copy.length)[0];
       if (longest && longest.copy.length > reviewedDesc.length) {
@@ -154,7 +156,7 @@ async function main() {
 
     // If still short, append the best page candidate as extra copy.
     if (!composed.reachedMinimum) {
-      for (const candidate of pageCandidates) {
+      for (const candidate of cleanDescriptionCandidates(pageCandidates)) {
         const attempt = composeEventDescription(
           composed.description.split('\n\n## Event details')[0] || reviewedDesc,
           facts,

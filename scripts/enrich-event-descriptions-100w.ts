@@ -16,6 +16,7 @@ import { getVerifiedEventDescription } from '../src/lib/event-description-source
 import { buildEventsListing } from '../src/lib/events-listing-build';
 import { extractOfficialEventDescription } from './official-event-description';
 import {
+  cleanDescriptionCandidates,
   lumaPageFacts,
   pageDescriptionCandidates,
   type DescriptionMethod,
@@ -268,7 +269,8 @@ async function main() {
     }
 
     let composed = { description: '', words: 0, reachedMinimum: false };
-    for (const candidate of candidates) {
+    // Clean copy first: scraped junk formatting never wins by being longer.
+    for (const candidate of cleanDescriptionCandidates(candidates)) {
       const attempt = composeEventDescription(candidate.copy, facts, extras);
       if (attempt.words > composed.words) {
         composed = attempt;

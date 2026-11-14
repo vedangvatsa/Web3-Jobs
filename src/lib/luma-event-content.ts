@@ -3,6 +3,8 @@ import { formatEventDate, formatEventLocation } from '@/lib/events';
 import { isThinEventListingDescription } from '@/lib/event-editorial-facts';
 import { cleanPublishText } from '@/lib/noslop';
 import { polishEventDescriptionLinks } from '@/lib/event-description-links';
+import { stripThirdPartyCommunityPromo } from '@/lib/community-link-sanitizer';
+import { cleanupEventDescriptionFormat } from '@/lib/event-description-cleanup';
 
 const LUMA_HOST = /^(?:www\.)?(?:luma\.com|lu\.ma)$/i;
 
@@ -173,6 +175,23 @@ function parseOrganizerDescriptionSections(ownDescription: string): {
   return { lead, sections };
 }
 
+/**
+ * The exact organizer copy the event page body renders, after all cleanup
+ * passes: scrape-artifact lines, grammar artifacts, third-party
+ * messaging-community CTAs, punctuation and link polishing. The catalog
+ * safety audit checks this same text, so the audit and the page can never
+ * drift apart.
+ */
+export function publishedOrganizerDescriptionText(event: Web3Event): string {
+  return polishEventDescriptionLinks(
+    cleanPublishText(
+      stripThirdPartyCommunityPromo(
+        cleanupEventDescriptionFormat((event.description || '').trim()),
+      ),
+    ),
+  );
+}
+
 /** Build detail-page editorial from `event.description` only (Luma organiser copy in JSON). */
 export function buildEditorialFromOrganizerDescription(event: Web3Event): EventEditorialArticle {
   const resolvedPlace = formatEventLocation(event);
@@ -180,9 +199,7 @@ export function buildEditorialFromOrganizerDescription(event: Web3Event): EventE
   const locationStr = online ? 'online' : resolvedPlace === 'Virtual / TBA' ? '(venue to be announced)' : `in ${resolvedPlace}`;
   const formattedDates = formatEventDate(event.startDate, event.endDate, event.timezone);
 
-  const rawDescription = polishEventDescriptionLinks(
-    cleanPublishText((event.description || '').trim()),
-  );
+  const rawDescription = publishedOrganizerDescriptionText(event);
   const ownDescription =
     rawDescription && !isThinEventListingDescription(rawDescription) ? rawDescription : '';
 

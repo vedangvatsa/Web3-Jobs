@@ -21,6 +21,19 @@ const URL_SHORTENER_HOSTS = [
   'shrtco.de', '1url.com', 's.id', 'short.io', 'bl.ink',
 ] as const;
 
+/**
+ * Messaging-community hosts (Telegram/WhatsApp/Discord). Organiser community
+ * invites pattern-match the social-engineering classifiers behind the Google
+ * Safe Browsing flag on this site (2026-11-12), so they are never eligible as
+ * the page's external link. The site's own channels are surfaced through site
+ * chrome, not through event record URLs.
+ */
+const MESSAGING_COMMUNITY_HOSTS = [
+  't.me', 'telegram.me', 'telegram.dog', 'telegram.org',
+  'chat.whatsapp.com', 'wa.me', 'api.whatsapp.com', 'whatsapp.com',
+  'discord.gg', 'discord.com', 'discordapp.com',
+] as const;
+
 function normalizeUrlHostname(hostname: string): string {
   return hostname.toLowerCase().replace(/\.+$/, '').replace(/^www\./, '');
 }
@@ -47,6 +60,7 @@ export function getEventExternalUrl(event: EventUrlFields): string | undefined {
       if (
         EVENT_AGGREGATOR_HOSTS.some((host) => isHostOrSubdomain(hostname, host))
         || URL_SHORTENER_HOSTS.some((host) => isHostOrSubdomain(hostname, host))
+        || MESSAGING_COMMUNITY_HOSTS.some((host) => isHostOrSubdomain(hostname, host))
         || isEthereumCommunityIndex(hostname, parsed.pathname)
       ) {
         continue;

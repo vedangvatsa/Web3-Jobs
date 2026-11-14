@@ -707,7 +707,7 @@ jobs:
 
       - name: Test event discovery helpers
         run: |
-          node --test scripts/lib/luma-calendar.test.mjs scripts/lib/event-dates.test.mjs scripts/lib/event-image-utils.test.mjs scripts/lib/event-retention.test.mjs
+          node --test scripts/lib/luma-calendar.test.mjs scripts/lib/event-dates.test.mjs scripts/lib/event-image-utils.test.mjs scripts/lib/event-retention.test.mjs scripts/lib/event-messaging-policy.test.mjs
           npx tsx --test scripts/test-token2049-import.ts scripts/test-token2049-catalog-regression.ts scripts/test-token2049-catalog-regressions.ts scripts/test-catalog-root-order.ts
 
       - name: Retire expired stored events before discovery
@@ -735,6 +735,8 @@ jobs:
         run: npx tsx scripts/test-event-formatting.ts
       - name: Precompute and verify event catalogs
         run: npx tsx scripts/precompute-events-runtime.ts && npx tsx scripts/test-token2049-catalog.ts && npm run precompute:og-previews
+      - name: Audit event catalog safety
+        run: npx tsx scripts/audit-event-catalog-safety.ts
       - name: Record generated event catalogue hash
         run: npm run update:prebuild-hashes -- --step=events-runtime
       - name: Backfill missing self-hosted event covers

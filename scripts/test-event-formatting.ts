@@ -6,7 +6,7 @@ import { EventGuideContent } from '../src/components/event-guide-content';
 import { buildEditorialFromOrganizerDescription } from '../src/lib/luma-event-content';
 import { renderDescriptionInline } from '../src/lib/description-inline';
 import { splitEventDescriptionBlocks } from '../src/lib/event-description-blocks';
-import { descriptionFormattingIssues } from './lib/description-format-checks';
+import { descriptionFormattingIssues, textJunkRunIssues } from './lib/description-format-checks';
 import type { Web3Event } from '../src/lib/events';
 
 const description = '# About the event\nA workshop for developers.\n## Schedule\n09:00 - 10:00 Check-in\nSpeaker:\nSam Smith\n' +
@@ -47,4 +47,25 @@ assert.deepEqual(splitEventDescriptionBlocks(studyGroup), [{ type: 'p', text: st
 const proseEvent = { ...event, description: studyGroup };
 const proseHtml = renderToStaticMarkup(createElement(EventGuideContent, { editorial: buildEditorialFromOrganizerDescription(proseEvent) }));
 assert.equal(cheerio.load(proseHtml)('p').text(), studyGroup, 'rendered prose retains spaces before inline times');
+
+// Catalog junk detectors: hard kinds (chopped-sentence, stat-line) must fire on
+// real scrape damage and stay silent on legitimate formatting styles.
+const chopped = textJunkRunIssues('Hello, the\nWhitepaper Reading Club\nis collaborating with\nZypherpurr Society.\nBring questions.');
+assert.ok(chopped.some(issue => issue.kind === 'chopped-sentence'), 'chopped sentence fragments hard-fail');
+const statLeak = textJunkRunIssues('Great conference.\n1200\nAttendees joined us.');
+assert.ok(statLeak.some(issue => issue.kind === 'stat-line'), 'a surviving stat fragment hard-fails');
+const legitimate = [
+  'Registration is open.\nDoors close at 9. Refreshments provided.',
+  '## Agenda\n09:00 - 10:00 Check-in\n10:00 Keynote\nTime: 3:30pm - Registration\nSpeakers: announced soon\n',
+  'No panels\nNo presentations\nNo pitches. Just building together.',
+  'Date – Monday, November 16, 2026\nTime - 7:30-10pm\nVenue - FRAMELESS',
+  'Unit No. 6, INS Towers\nNear Trident Hotel, G Block\nBandra Kurla Complex, Mumbai',
+  '主辦：環球數字資本孵化器\n時間：14:00–20:00\n地點：香港尖沙咀',
+  '🥇 1st Place: $300\n🥈 2nd Place: $200\nRegister now.',
+];
+for (const text of legitimate) {
+  const hard = textJunkRunIssues(text).filter(issue => issue.kind !== 'junk-run');
+  assert.deepEqual(hard, [], `legitimate formatting must not hard-fail: ${text.slice(0, 40)}`);
+}
+
 console.log('Event formatting regression passed: agenda, nested lists, numbering, long headings, code, emphasis and safe links.');

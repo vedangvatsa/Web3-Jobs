@@ -2,6 +2,7 @@ import { NextResponse } from 'next/server';
 import { getEvents } from '@/lib/events-server';
 import { formatEventLocation, getEventSlug } from '@/lib/events';
 import { resolveEventOgImageUrl } from '@/lib/job-og';
+import { stripThirdPartyCommunityPromo } from '@/lib/community-link-sanitizer';
 
 export const revalidate = 3600;
 
@@ -23,7 +24,9 @@ function cdata(value: string): string {
 }
 
 function feedDescription(event: { description: string; city?: string; country?: string; location: string }): string {
-  const description = asText(event.description)
+  // Third-party messaging-community CTAs leave before the URL scrub so the
+  // sentences that pointed at them never ship in the feed (2026-11-12 incident).
+  const description = asText(stripThirdPartyCommunityPromo(asText(event.description)))
     .replace(/\s(?:href|src)\s*=\s*("[^"]*"|'[^']*'|[^\s>]+)/gi, '')
     .replace(/https?:\/\/[^\s<>'"]+/gi, '')
     .replace(/&amp;/g, '&')

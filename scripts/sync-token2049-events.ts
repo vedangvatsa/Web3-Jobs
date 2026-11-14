@@ -14,6 +14,7 @@ import sourceConfig from '../content/events/token2049-sources.json';
 import reviewedFacts from '../content/events/token2049-reviewed-facts.json';
 import { hasEventEnded } from './lib/event-dates.mjs';
 import { canImportEvent, isEventRetentionDue } from './lib/event-retention.mjs';
+import { findEventMessagingCommunityLink } from './lib/event-messaging-policy.mjs';
 import eventTombstones from '../content/event-tombstones.json';
 
 const root = process.cwd();
@@ -253,6 +254,13 @@ async function main() {
         ...(inWeek ? { sideEventFor: ['token2049'], token2049SideEvent: true } : {}),
       };
       event.description = describe(event, verified.description, verified.reviewed);
+      // The import gate above only saw the patch; the composed description is
+      // authored afterwards, so re-check the finished record before storing it.
+      const messagingLink = findEventMessagingCommunityLink(event);
+      if (messagingLink) {
+        receipts.push({ ...receipt, status: 'excluded', reason: `Third-party messaging community link in source copy (${messagingLink.path})` });
+        continue;
+      }
       const officialSource = group.entries.find(entry => entry.authoritativeSchedule)?.source;
       event.descriptionSource = {
         url: verified.luma || verified.description ? verified.primaryUrl : officialSource || verified.primaryUrl,

@@ -12,6 +12,7 @@
 import { load } from 'cheerio';
 import { extractOfficialEventDescription, matchesEventIdentity } from '../official-event-description';
 import type { EventFacts } from './event-description-compose';
+import { textJunkRunIssues } from './description-format-checks';
 import {
   extractLumaDescriptionsFromHtml,
   normalizeLumaDescriptionForStorage,
@@ -24,6 +25,8 @@ export type DescriptionCandidate = {
   copy: string;
   method: DescriptionMethod;
   pageTitle: string;
+  /** Junk-formatting kinds found in this copy (chopped-sentence, stat-line, junk-run). Empty when clean. */
+  junkIssues?: string[];
 };
 
 const clean = (value?: unknown) => (typeof value === 'string' ? value.replace(/\s+/g, ' ').trim() : '');
@@ -85,7 +88,30 @@ export function pageDescriptionCandidates(
     candidates.push({ copy: readable, method: 'official-section', pageTitle });
   }
 
-  return candidates.filter((candidate) => candidate.copy.length >= 80);
+  return candidates
+    .filter((candidate) => candidate.copy.length >= 80)
+    .map((candidate) => ({
+      ...candidate,
+      junkIssues: textJunkRunIssues(candidate.copy).map((issue) => issue.kind),
+    }));
+}
+
+/**
+ * Stable quality order: clean copy first, then fewer junk issues, then the
+ * original trust order. Description pickers should consume candidates through
+ * this so scraped junk formatting never wins by being merely longer.
+ */
+export function rankDescriptionCandidates(candidates: DescriptionCandidate[]): DescriptionCandidate[] {
+  return candidates
+    .map((candidate, index) => ({ candidate, index }))
+    .sort((a, b) => (a.candidate.junkIssues?.length ?? 0) - (b.candidate.junkIssues?.length ?? 0) || a.index - b.index)
+    .map(({ candidate }) => candidate);
+}
+
+/** Candidates with no junk-formatting issues; falls back to all candidates when none are clean. */
+export function cleanDescriptionCandidates(candidates: DescriptionCandidate[]): DescriptionCandidate[] {
+  const clean = rankDescriptionCandidates(candidates).filter((candidate) => !candidate.junkIssues?.length);
+  return clean.length ? clean : rankDescriptionCandidates(candidates);
 }
 
 

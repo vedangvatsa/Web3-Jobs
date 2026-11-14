@@ -1,4 +1,5 @@
 import { eventRetentionEnd } from './event-dates.mjs';
+import { findEventMessagingCommunityLink } from './event-messaging-policy.mjs';
 
 export const EVENT_RETENTION_MS = 30 * 86400000;
 export const isRootSlug = value => typeof value === 'string' && /^[a-z0-9][a-z0-9_-]*$/i.test(value);
@@ -29,7 +30,11 @@ export function tombstoneSlugs(tombstones, now = Date.now()) {
 export function canImportEvent(event, tombstones = {}, now = Date.now()) {
   if (isEventRetentionDue(event, now)) return false;
   const active = activeEventTombstones(tombstones, now);
-  return !Object.hasOwn(active, event.id || '') && !Object.hasOwn(active, event.sourceVerification?.eventId || '');
+  if (Object.hasOwn(active, event.id || '') || Object.hasOwn(active, event.sourceVerification?.eventId || '')) return false;
+  // Messaging-community policy (2026-11-12 Safe Browsing incident): a record
+  // that promotes a third-party Telegram/WhatsApp/Discord community in any
+  // field can never enter the catalog or the runtime.
+  return findEventMessagingCommunityLink(event) === null;
 }
 
 export function removedEventStatus(pathname, tombstones, now = Date.now()) {
